@@ -223,47 +223,11 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "The full propers Aquinas composed in 1264 for the new feast — the Mass *Cibavit*, the Office hymns (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*), and the sequence *Lauda Sion Salvatorem*.",
-					"pt-BR": "Os próprios completos que Tomás compôs em 1264 para a nova festa — a Missa *Cibavit*, os hinos do Ofício (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*) e a sequência *Lauda Sion Salvatorem*."
+					"en-US": "The full propers Aquinas composed in 1264 for the new feast — the Mass *Cibavit*, the Office hymns (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*), and the sequence *Lauda Sion Salvatorem*. All five hymns plus *Panis Angelicus* live inside the Prayers of St. Thomas practice above; what's still missing is the Mass *Cibavit*.",
+					"pt-BR": "Os próprios completos que Tomás compôs em 1264 para a nova festa — a Missa *Cibavit*, os hinos do Ofício (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*) e a sequência *Lauda Sion Salvatorem*. Os cinco hinos mais o *Panis Angelicus* já estão na prática Orações de Santo Tomás acima; o que ainda falta é a Missa *Cibavit*."
 				}
 			},
 			"blocks": [
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Sacris Solemniis (full hymn) — contains Panis Angelicus",
-						"pt-BR": "Sacris Solemniis (hino completo) — contém Panis Angelicus"
-					},
-					"notes": {
-						"en-US": "The Matins hymn. Stanzas 6–7 are the famous *Panis Angelicus* (already in the Prayers of St. Thomas).",
-						"pt-BR": "O hino das Matinas. As estrofes 6–7 são o famoso *Panis Angelicus* (já nas Orações de Santo Tomás)."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Verbum Supernum Prodiens (full hymn) — contains O Salutaris Hostia",
-						"pt-BR": "Verbum Supernum Prodiens (hino completo) — contém O Salutaris Hostia"
-					},
-					"notes": {
-						"en-US": "The Lauds hymn. Stanzas 5–6 are *O Salutaris Hostia*.",
-						"pt-BR": "O hino das Laudes. As estrofes 5–6 são o *O Salutaris Hostia*."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Lauda Sion Salvatorem (Sequence)",
-						"pt-BR": "Lauda Sion Salvatorem (Sequência)"
-					},
-					"notes": {
-						"en-US": "The sequence for the Mass of Corpus Christi — the longest of Aquinas's hymns and the most explicit doctrinal statement on the Eucharist set in verse.",
-						"pt-BR": "A sequência da Missa de Corpus Christi — o mais longo dos hinos de Tomás e a mais explícita declaração doutrinal sobre a Eucaristia posta em verso."
-					},
-					"proposedKind": "practice"
-				},
 				{
 					"kind": "todo",
 					"title": {

@@ -176,6 +176,30 @@
 					]
 				},
 				{
+					"id": "sacris-solemniis",
+					"label": {
+						"en-US": "Sacris Solemniis",
+						"pt-BR": "Sacris Solemniis"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "At this our solemn feast let holy joys abound,\nand from the inmost breast let songs of praise resound;\nlet ancient rites depart, and all be new around,\nin every act, and voice, and heart.\n\nRemember we that eve, when, the Last Supper spread,\nChrist, as we all believe, the Lamb, with leavenless bread,\namong His brethren shared, and thus the Law obeyed,\nof all unto their sire declared.\n\nThe typic Lamb consumed, the legal Feast complete,\nthe Lord unto the Twelve His Body gave to eat;\nthe whole to all, no less the whole to each did mete\nwith His own hands, as we confess.\n\nHe gave them, weak and frail, His Flesh, their Food to be;\non them, downcast and sad, His Blood bestowed He:\nand thus to them He spake: \"Receive this Cup from Me,\nand all of you of this partake.\"\n\nSo He this Sacrifice to institute did will,\nand charged His priests alone that office to fulfill:\nto them He did confide: to whom it pertains still\nto take, and the rest divide.\n\nThus Angels' Bread is made the Bread of man today:\nthe Living Bread from heaven with figures dost away:\nO miraculous gift indeed!\nthe poor and lowly may upon their Lord and Master feed.\n\nThee, therefore, we implore, O Godhead, One in Three,\nso may Thou visit us as we now worship Thee;\nand lead us on Thy way, that we at last may see\nthe light wherein Thou dwellest aye. Amen.",
+								"la": "Sacris solemniis iuncta sint gaudia,\net ex praecordiis sonent praeconia;\nrecedant vetera, nova sint omnia,\ncorda, voces et opera.\n\nNoctis recolitur cena novissima,\nqua Christus creditur agnum et azyma\ndedisse fratribus, iuxta legitima\npriscis indulta patribus.\n\nPost agnum typicum, expletis epulis,\nCorpus Dominicum datum discipulis,\nsic totum omnibus, quod totum singulis,\neius fatemur manibus.\n\nDedit fragilibus corporis ferculum,\ndedit et tristibus sanguinis poculum,\ndicens: Accipite quod trado vasculum;\nomnes ex eo bibite.\n\nSic sacrificium istud instituit,\ncuius officium committi voluit\nsolis presbyteris, quibus sic congruit,\nut sumant, et dent ceteris.\n\nPanis angelicus fit panis hominum;\ndat panis caelicus figuris terminum;\nO res mirabilis!\nManducat Dominum pauper, servus et humilis.\n\nTe, trina Deitas unaque, poscimus,\nsic nos tu visita, sicut te colimus;\nper tuas semitas duc nos quo tendimus,\nad lucem quam inhabitas. Amen.",
+								"pt-BR": "Às sagradas solenidades juntem-se as alegrias,\ne dos íntimos corações ressoem os louvores;\nretirem-se as coisas velhas, novas sejam todas,\nos corações, as vozes e as obras.\n\nRecorda-se a última Ceia da noite,\nem que se crê que Cristo o cordeiro e os ázimos\ndeu aos irmãos, segundo as leis\noutorgadas aos antigos pais.\n\nApós o cordeiro figurativo, terminada a ceia,\no Corpo do Senhor foi dado aos discípulos,\ninteiro a todos como inteiro a cada um,\nconfessamos, por Suas mãos.\n\nDeu aos frágeis o alimento do corpo,\ndeu aos tristes a bebida do sangue,\ndizendo: Recebei o cálice que vos entrego;\nbebei todos dele.\n\nAssim instituiu este sacrifício,\ncujo ofício quis fosse confiado\nsomente aos presbíteros, a quem convém\nque recebam e deem aos demais.\n\nO Pão dos Anjos faz-se Pão dos homens;\no Pão celeste põe fim às figuras;\nÓ realidade admirável!\nCome do Senhor o pobre, o servo e o humilde.\n\nÓ Deus uno e trino, a Vós suplicamos:\nvisitai-nos assim como Vos veneramos;\npor Vossos caminhos conduzi-nos aonde tendemos,\nà luz em que habitais. Amém."
+							}
+						}
+					]
+				},
+				{
 					"id": "panis-angelicus",
 					"label": {
 						"en-US": "Panis Angelicus",
@@ -195,6 +219,54 @@
 								"en-US": "Thus Angels' Bread is made\nthe Bread of man today:\nthe Living Bread from heaven\nwith figures dost away:\nO wondrous gift indeed!\nThe poor and lowly may\nupon their Lord and Master feed.\n\nThee, therefore, we implore,\nO Godhead, One in Three,\nso may Thou visit us\nas we now worship Thee;\nand lead us on Thy way,\nthat we at last may see\nthe light wherein Thou dwellest aye. Amen.",
 								"la": "Panis angelicus\nfit panis hominum;\ndat panis caelicus\nfiguris terminum:\nO res mirabilis!\nManducat Dominum\npauper, servus et humilis.\n\nTe trina Deitas\nunaque poscimus:\nsic nos tu visita,\nsicut te colimus;\nper tuas semitas\nduc nos quo tendimus,\nad lucem quam inhabitas. Amen.",
 								"pt-BR": "O Pão dos Anjos\nfaz-se Pão dos homens;\no Pão do Céu\npõe fim às figuras.\nÓ realidade admirável!\nCome do Senhor\no pobre, o servo e o humilde.\n\nÓ Deus uno e trino,\na Vós suplicamos:\nvisitai-nos assim\ncomo Vos veneramos;\npor Vossos caminhos\nconduzi-nos aonde tendemos,\nà luz em que habitais. Amém."
+							}
+						}
+					]
+				},
+				{
+					"id": "lauda-sion",
+					"label": {
+						"en-US": "Lauda Sion (Sequence)",
+						"pt-BR": "Lauda Sion (Sequência)"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Sion, lift up thy voice and sing:\nPraise thy Savior and thy King,\nPraise with hymns thy shepherd true.\n\nAll thou canst, do thou endeavour:\nYet thy praise can equal never\nSuch as merits thy great King.\n\nSee today before us laid\nthe living and life-giving Bread,\ntheme for praise and joy profound.\n\nThe same which at the sacred board\nwas, by our incarnate Lord,\ngiven to His Apostles round.\n\nLet the praise be loud and high:\nsweet and tranquil be the joy\nfelt today in every breast.\n\nOn this festival divine\nwhich records the origin\nof the glorious Eucharist.\n\nOn this table of the King,\nour new Paschal offering\nbrings to end the olden rite.\n\nHere, for empty shadows fled,\nis reality instead,\nhere, instead of darkness, light.\n\nHis own act, at supper seated,\nChrist ordained to be repeated\nin His memory divine;\n\nwherefore now, with adoration,\nwe, the host of our salvation,\nconsecrate from bread and wine.\n\nHear, what holy Church maintaineth,\nthat the bread its substance changeth\ninto Flesh, the wine to Blood.\n\nDoth it pass thy comprehending?\nFaith, the law of sight transcending,\nleaps to things not understood.\n\nHere beneath these signs are hidden\npriceless things, to sense forbidden;\nsigns, not things, are all we see.\n\nFlesh from bread, and Blood from wine,\nyet is Christ in either sign,\nall entire, confessed to be.\n\nThey, who of Him here partake,\nsever not, nor rend, nor break:\nbut, entire, their Lord receive.\n\nWhether one or thousands eat:\nall receive the self-same meat,\nnor the less for others leave.\n\nBoth the wicked and the good\neat of this celestial Food:\nbut with ends how opposite!\n\nHere 'tis life: and there 'tis death:\nthe same, yet issuing to each\nin a difference infinite.\n\nNor a single doubt retain,\nwhen they break the Host in twain,\nbut that in each part remains\nwhat was in the whole before.\n\nSince the simple sign alone\nsuffers change in state or form:\nthe signified remaining one\nand the same for evermore.\n\nBehold the Bread of Angels,\nfor us pilgrims food, and token\nof the promise by Christ spoken,\nchildren's meat, to dogs denied.\n\nShown in Isaac's dedication,\nin the manna's preparation,\nin the Paschal immolation,\nin old types pre-signified.\n\nJesu, shepherd of the sheep:\nThou thy flock in safety keep,\nLiving Bread, Thy life supply:\nstrengthen us, or else we die,\nfill us with celestial grace.\n\nThou, who feedest us below:\nSource of all we have or know:\ngrant that with Thy Saints above,\nsitting at the feast of love,\nwe may see Thee face to face. Amen. Alleluia.",
+								"la": "Lauda Sion Salvatorem,\nlauda ducem et pastorem\nin hymnis et canticis.\n\nQuantum potes, tantum aude:\nquia maior omni laude,\nnec laudare sufficis.\n\nLaudis thema specialis,\npanis vivus et vitalis\nhodie proponitur.\n\nQuem in sacrae mensa cenae,\nturbae fratrum duodenae\ndatum non ambigitur.\n\nSit laus plena, sit sonora,\nsit iucunda, sit decora\nmentis iubilatio.\n\nDies enim solemnis agitur,\nin qua mensae prima recolitur\nhuius institutio.\n\nIn hac mensa novi Regis,\nnovum Pascha novae legis,\nphase vetus terminat.\n\nVetustatem novitas,\numbram fugat veritas,\nnoctem lux eliminat.\n\nQuod in cena Christus gessit,\nfaciendum hoc expressit\nin sui memoriam.\n\nDocti sacris institutis,\npanem, vinum, in salutis\nconsecramus hostiam.\n\nDogma datur Christianis,\nquod in carnem transit panis,\net vinum in sanguinem.\n\nQuod non capis, quod non vides,\nanimosa firmat fides,\npraeter rerum ordinem.\n\nSub diversis speciebus,\nsignis tantum, et non rebus,\nlatent res eximiae.\n\nCaro cibus, sanguis potus:\nmanet tamen Christus totus\nsub utraque specie.\n\nA sumente non concisus,\nnon confractus, non divisus:\ninteger accipitur.\n\nSumit unus, sumunt mille:\nquantum isti, tantum ille:\nnec sumptus consumitur.\n\nSumunt boni, sumunt mali:\nsorte tamen inaequali,\nvitae vel interitus.\n\nMors est malis, vita bonis:\nvide paris sumptionis\nquam sit dispar exitus.\n\nFracto demum Sacramento,\nne vacilles, sed memento\ntantum esse sub fragmento,\nquantum toto tegitur.\n\nNulla rei fit scissura:\nsigni tantum fit fractura:\nqua nec status nec statura\nsignati minuitur.\n\nEcce panis Angelorum,\nfactus cibus viatorum:\nvere panis filiorum,\nnon mittendus canibus.\n\nIn figuris praesignatur,\ncum Isaac immolatur,\nagnus paschae deputatur,\ndatur manna patribus.\n\nBone pastor, panis vere,\nIesu, nostri miserere:\ntu nos pasce, nos tuere,\ntu nos bona fac videre\nin terra viventium.\n\nTu qui cuncta scis et vales,\nqui nos pascis hic mortales:\ntuos ibi commensales,\ncohaeredes et sodales\nfac sanctorum civium. Amen. Alleluia.",
+								"pt-BR": "Louva, Sião, o Salvador,\nlouva o guia e pastor\ncom hinos e cânticos.\n\nTanto quanto possas, ouses tu louvá-lo,\nporque está acima de todo louvor\ne nunca o louvarás condignamente.\n\nÉ-nos hoje proposto\num tema especial de louvor:\no Pão vivo que dá a vida.\n\nÉ Ele que, na mesa da sagrada Ceia,\nfoi distribuído aos doze,\ncomo na verdade o cremos.\n\nSeja o louvor pleno, retumbante,\nseja ele alegre\ne cheio de brilhante júbilo da alma.\n\nPorque celebramos o dia solene\nque nos recorda\na instituição deste banquete.\n\nNa mesa do novo Rei,\na Páscoa da nova lei\npõe fim à páscoa antiga.\n\nO rito novo rejeita o velho,\na realidade dissipa as sombras\ncomo o dia dissipa a noite.\n\nO que o Senhor fez na Ceia,\nnos mandou fazê-lo\nem memória sua.\n\nE nós, instruídos por suas ordens sagradas,\nconsagramos o pão e o vinho\nem hóstia de salvação.\n\nÉ dogma de fé para os cristãos\nque o pão se converte na Carne\ne o vinho no Sangue do Salvador.\n\nO que não compreendes nem vês,\numa fé vigorosa te assegura,\nelevando-te acima da ordem natural.\n\nDebaixo de espécies diferentes,\naparências e não realidades,\nocultam-se realidades sublimes.\n\nA Carne é alimento, o Sangue é bebida;\ntodavia, debaixo de cada uma das espécies\nCristo está totalmente.\n\nE quem o recebe não o parte\nnem divide,\nmas recebe-o todo inteiro.\n\nQuer o recebam mil, quer um só,\ntodos recebem o mesmo,\nnem recebendo-o podem consumi-lo.\n\nRecebem-no os bons e os maus igualmente,\ntodos recebem o mesmo, porém com efeitos diversos:\nos bons para a vida e os maus para a morte.\n\nMorte para os maus e vida para os bons:\nvede como são diferentes\nos efeitos que produz o mesmo alimento.\n\nQuando a hóstia é dividida,\nnão vaciles, mas recorda\nque o Senhor se encontra todo debaixo do fragmento,\ntanto quanto na hóstia inteira.\n\nNenhuma divisão atinge a substância:\napenas os sinais do pão são divididos;\nnem o estado, nem as dimensões\ndo Significado são alteradas.\n\nEis o Pão dos Anjos,\nque se torna alimento dos peregrinos:\nverdadeiramente é o pão dos filhos,\nque não deve ser lançado aos cães.\n\nAs figuras o pré-anunciam:\nIsaac que se imola,\no cordeiro destinado à Páscoa,\no maná dado aos pais.\n\nBom Pastor, pão verdadeiro,\nJesus, de nós tende piedade.\nSustentai-nos, defendei-nos,\nfazei-nos, na terra dos vivos,\ncontemplar o Bem supremo.\n\nÓ Vós que tudo sabeis e tudo podeis,\nque nos alimentais nesta vida mortal,\nadmiti-nos no Céu, à Vossa mesa,\ne fazei-nos co-herdeiros e companheiros\ndos santos cidadãos. Amém. Aleluia."
+							}
+						}
+					]
+				},
+				{
+					"id": "verbum-supernum",
+					"label": {
+						"en-US": "Verbum Supernum",
+						"pt-BR": "Verbum Supernum"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "The heavenly Word proceeding forth,\nyet not leaving the Father's side,\nwent forth upon His work on earth\nand reached at length life's eventide.\n\nBy false disciple to be given\nto foemen for His Blood athirst,\nHimself, the living Bread from heaven,\nHe gave to His disciples first.\n\nTo them He gave, in twofold kind,\nHis very Flesh, His very Blood:\nof twofold substance man is made,\nand He of man would be the Food.\n\nBy birth our fellowman was He,\nour Food while seated at the board;\nHe died, our ransomer to be;\nHe ever reigns, our great reward.\n\nO saving Victim, opening wide\nthe gate of heaven to all below:\nour foes press on from every side;\nThine aid supply, Thy strength bestow.\n\nTo Thy great Name be endless praise,\nimmortal Godhead, One in Three!\nO grant us endless length of days\nin our true native land with Thee. Amen.",
+								"la": "Verbum supernum prodiens,\nnec Patris linquens dexteram,\nad opus suum exiens,\nvenit ad vitae vesperam.\n\nIn mortem a discipulo\nsuis tradendus aemulis,\nprius in vitae ferculo\nse tradidit discipulis.\n\nQuibus sub bina specie\ncarnem dedit et sanguinem;\nut duplicis substantiae\ntotum cibaret hominem.\n\nSe nascens dedit socium,\nconvescens in edulium,\nse moriens in pretium,\nse regnans dat in praemium.\n\nO salutaris Hostia,\nquae caeli pandis ostium:\nbella premunt hostilia,\nda robur, fer auxilium.\n\nUni trinoque Domino\nsit sempiterna gloria,\nqui vitam sine termino\nnobis donet in patria. Amen.",
+								"pt-BR": "O Verbo supremo, procedendo,\nsem deixar a destra do Pai,\nsaindo para a Sua obra,\nchegou à tarde da vida.\n\nÀ morte, por um discípulo,\nprestes a ser entregue aos Seus inimigos,\nprimeiro, no alimento da vida,\nentregou-Se aos discípulos.\n\nAos quais, sob dupla espécie,\ndeu a Carne e o Sangue;\npara que de dupla substância\nalimentasse todo o homem.\n\nNascendo, deu-Se como companheiro;\nceando, como alimento;\nmorrendo, como preço;\nreinando, dá-Se como prêmio.\n\nÓ Hóstia salutar,\nque do céu nos abris a porta,\nos inimigos nos oprimem:\ndai-nos força, trazei-nos socorro.\n\nAo Senhor Uno e Trino\nseja dada sempiterna glória;\nque nos conceda a vida sem fim,\nna pátria, juntamente. Amém."
 							}
 						}
 					]
