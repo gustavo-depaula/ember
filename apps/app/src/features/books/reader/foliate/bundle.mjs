@@ -18,7 +18,18 @@ const raw = readFileSync(join(here, 'paginator.raw.js'), 'utf8')
 // is `export class Paginator`, and the side effect we actually want is the
 // `customElements.define(...)` at the bottom, so dropping the `export` is
 // sufficient.
-const src = raw.replace(/^export\s+class\b/m, 'class')
+//
+// We also patch #onTouchMove to bail out (without calling preventDefault) when
+// iOS native text selection is active — otherwise every drag of the selection
+// handle calls scrollBy and the page wiggles. The line we anchor to is unique
+// (the early-return guard for scrolled/pinched mode). Selection-active = a
+// non-collapsed Range exists in the iframe's document.
+const src = raw
+  .replace(/^export\s+class\b/m, 'class')
+  .replace(
+    'if (this.scrolled || state.pinched) return',
+    "if (this.scrolled || state.pinched) return; const __sel = e.target && e.target.ownerDocument && e.target.ownerDocument.getSelection && e.target.ownerDocument.getSelection(); if (__sel && __sel.type === 'Range' && !__sel.isCollapsed) return",
+  )
 
 const out = `// biome-ignore-all lint/suspicious/noTemplateCurlyInString: vendored foliate-js — \${…} sequences run inside the WebView, not in this TS module.
 // biome-ignore-all format: single-line embedded blob; reformatting would split it across thousands of lines.

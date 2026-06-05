@@ -56,6 +56,32 @@ function bytesToBase64(bytes: Uint8Array): string {
 }
 
 /**
+ * Throttle progress emissions to at most one per ~50ms. Critical: setTimeout
+ * gives React a chance to render between emissions — React 18 batches every
+ * state update inside the same task (including microtasks chained off
+ * `await`), so 200+ rapid-fire setLoadProgress calls otherwise collapse into
+ * a single render with the final value. A delayed callback breaks out of the
+ * task and re-renders before the next batch arrives.
+ */
+function throttleProgress(
+  fn: ((p: LoadProgress) => void) | undefined,
+  ms: number,
+): ((p: LoadProgress) => void) | undefined {
+  if (!fn) return undefined
+  let scheduled = false
+  let pending: LoadProgress | undefined
+  return (p) => {
+    pending = p
+    if (scheduled) return
+    scheduled = true
+    setTimeout(() => {
+      scheduled = false
+      if (pending) fn(pending)
+    }, ms)
+  }
+}
+
+/**
  * Load a book's chapters + stylesheet + referenced images out of the v2
  * content corpus. Each chapter is a separate hash-addressed blob; images are
  * inlined as base64 data URIs so they survive the WebView shell regardless of
@@ -68,8 +94,9 @@ export async function loadBookContent(
   bookId: string,
   lang: string,
   chapterIds: string[],
-  onProgress?: (p: LoadProgress) => void,
+  rawOnProgress?: (p: LoadProgress) => void,
 ): Promise<BookContent> {
+  const onProgress = throttleProgress(rawOnProgress, 50)
   const corpusId = bookId.startsWith('book/') ? bookId : `book/${bookId}`
   const entry = getEntry(corpusId)
   if (!entry) return { css: '', chapters: new Map(), images: new Map() }
