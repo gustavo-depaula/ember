@@ -1,5 +1,9 @@
 # Prologus et Dedicatio
 
+*Catenae in Marcum, Lucam, et Iohannem post obitum Urbani IV (qui Catenam in Matthaeum mandavit) scriptae sunt, et Cardinali Hannibaldo Sanctorum Apostolorum Duodecim coniunctim dedicantur. Epistola dedicatoria Thomae ante Catenam in Marcum legitur.*
+
+**Prooemium**
+
 > Vidi dominum sedentem super solium excelsum et elevatum; et plena erat domus a maiestate eius; et ea quae sub ipso erant, replebant templum.
 
 **Glossa**: Divinae visionis sublimitate illustratus Isaias propheta dixit *vidi dominum sedentem* et cetera.

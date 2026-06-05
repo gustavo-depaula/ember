@@ -1,5 +1,7 @@
 # Prologue and Dedication
 
+*The volumes on Mark, Luke, and John were written after the death of Pope Urban IV (who commissioned the Matthew commentary) and are jointly dedicated to Cardinal Hannibaldus of the Basilica of the Twelve Apostles. Aquinas's dedicatory letter appears at the head of the Catena on Mark.*
+
 **Prologue**
 
 > I will clothe the heavens with darkness, and place a sack as their covering. The Lord gave me an erudite tongue, so that I can sustain the fallen by my word. He awakens me in the morning; in the morning he awakens my ear, that I may hear him as my teacher.

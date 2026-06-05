@@ -1,5 +1,7 @@
 # Prologus et Dedicatio
 
+*Catenae in Marcum, Lucam, et Iohannem post obitum Urbani IV (qui Catenam in Matthaeum mandavit) scriptae sunt, et Cardinali Hannibaldo Sanctorum Apostolorum Duodecim coniunctim dedicantur. Epistola dedicatoria Thomae ante Catenam in Marcum legitur.*
+
 **Prooemium**
 
 > *Induam caelos tenebris, et saccum ponam operimentum eorum. Dominus dedit mihi linguam eruditam, ut sciam sustentare eum qui lapsus est verbo. Erigit mane, mane erigit mihi aurem, ut audiam quasi magistrum.* (Isaias 50:3-4)

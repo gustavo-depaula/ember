@@ -1,5 +1,9 @@
 # Prologue and Dedication
 
+*The volumes on Mark, Luke, and John were written after the death of Pope Urban IV (who commissioned the Matthew commentary) and are jointly dedicated to Cardinal Hannibaldus of the Basilica of the Twelve Apostles. Aquinas's dedicatory letter appears at the head of the Catena on Mark.*
+
+**Prologue**
+
 > I saw the Lord sitting on a high and exalted throne; and the house was full of his majesty, and his train filled the temple. (Isaiah 6:1)
 
 **Gloss**: Isaiah, enlightened by the sublimity of the divine vision, said: "I saw the Lord sitting" etc.
