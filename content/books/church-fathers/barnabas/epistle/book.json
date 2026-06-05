@@ -1,0 +1,27 @@
+{
+  "id": "barnabas-epistle",
+  "name": {
+    "en-US": "Epistle of Barnabas"
+  },
+  "author": {
+    "en-US": "Barnabas"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0124.htm",
+      "description": "Translated by Alexander Roberts and James Donaldson. From Ante-Nicene Fathers, Vol. 1, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Epistle of Barnabas"
+      }
+    }
+  ]
+}

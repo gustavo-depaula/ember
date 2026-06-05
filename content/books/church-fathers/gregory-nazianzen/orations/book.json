@@ -1,0 +1,165 @@
+{
+  "id": "gregory-nazianzen-orations",
+  "name": {
+    "en-US": "Orations"
+  },
+  "author": {
+    "en-US": "Gregory Nazianzen"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3102.htm",
+      "description": "Translated by Charles Gordon Browne and James Edward Swallow. From Nicene and Post-Nicene Fathers, Second Series, Vol. 7, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1894. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Oration 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Oration 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Oration 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Oration 7"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Oration 8"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Oration 12"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Oration 16"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Oration 18"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Oration 21"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Oration 27"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Oration 28"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Oration 29"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Oration 30"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Oration 31"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Oration 33"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Oration 34"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Oration 37"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Oration 38"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Oration 39"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Oration 40"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Oration 41"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Oration 42"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Oration 43"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Oration 45"
+      }
+    }
+  ]
+}

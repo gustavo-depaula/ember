@@ -1,0 +1,226 @@
+{
+	"id": "collection/church-fathers",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "The Fathers of the Church"
+	},
+	"description": {
+		"en-US": "The voice of the early Church — Greek, Latin, Syriac — in the canonical 19th-century English translations (Ante-Nicene Fathers and Nicene & Post-Nicene Fathers, edited by Roberts/Donaldson and Philip Schaff)."
+	},
+	"icon": "book",
+	"languages": [
+		"en-US"
+	],
+	"tags": [
+		"church-fathers",
+		"patristics",
+		"early-church",
+		"anf",
+		"npnf",
+		"schaff"
+	],
+	"prologue": {
+		"body": {
+			"en-US": "From the *Didache* and St. Clement of Rome at the close of the apostolic age to St. John of Damascus eight centuries later, these are the writers whose words carried the faith from the upper room to the cathedrals of Christendom. The English translations gathered here are the great Victorian editions — the **Ante-Nicene Fathers** (Edinburgh, 1885–1896, Alexander Roberts and James Donaldson) and the **Nicene and Post-Nicene Fathers** (New York, 1886–1900, Philip Schaff and Henry Wace), 38 volumes between them — long out of copyright, revised and put online by Kevin Knight for New Advent, and now imported here as 419 individual works."
+		}
+	},
+	"sections": [
+		{
+			"id": "marquee-fathers",
+			"title": {
+				"en-US": "The Marquee Fathers"
+			},
+			"description": {
+				"body": {
+					"en-US": "Each tile opens a curated collection of one Father's complete imported corpus — typically a dozen to fifty works."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "collection/augustine-of-hippo" },
+				{ "kind": "item", "ref": "collection/john-chrysostom" },
+				{ "kind": "item", "ref": "collection/jerome" },
+				{ "kind": "item", "ref": "collection/ambrose-of-milan" },
+				{ "kind": "item", "ref": "collection/gregory-the-great" },
+				{ "kind": "item", "ref": "collection/athanasius" },
+				{ "kind": "item", "ref": "collection/gregory-of-nyssa" },
+				{ "kind": "item", "ref": "collection/origen" },
+				{ "kind": "item", "ref": "collection/tertullian" },
+				{ "kind": "item", "ref": "collection/cyprian-of-carthage" }
+			]
+		},
+		{
+			"id": "apostolic-fathers",
+			"title": {
+				"en-US": "Apostolic Fathers"
+			},
+			"description": {
+				"body": {
+					"en-US": "The first Christian writers after the New Testament — disciples of the Apostles or one generation removed — writing c. AD 70–150."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/clement-rome-first-epistle" },
+				{ "kind": "item", "ref": "book/ignatius-epistle-to-the-romans" },
+				{ "kind": "item", "ref": "book/ignatius-epistle-to-the-ephesians" },
+				{ "kind": "item", "ref": "book/ignatius-epistle-to-the-smyrnaeans" },
+				{ "kind": "item", "ref": "book/ignatius-epistle-to-polycarp" },
+				{ "kind": "item", "ref": "book/polycarp-epistle-to-the-philippians" },
+				{ "kind": "item", "ref": "book/polycarp-martyrdom" },
+				{ "kind": "item", "ref": "book/barnabas-epistle" },
+				{ "kind": "item", "ref": "book/hermas-pastor" },
+				{ "kind": "item", "ref": "book/miscellaneous-didache" },
+				{ "kind": "item", "ref": "book/mathetes-epistle-to-diognetus" }
+			]
+		},
+		{
+			"id": "greek-apologists",
+			"title": {
+				"en-US": "The Greek Apologists"
+			},
+			"description": {
+				"body": {
+					"en-US": "Defenders of the faith before pagan Rome (c. 130–200) — philosophers writing for emperors, explaining why Christians worship neither idols nor the demon-gods of the city."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/justin-martyr-first-apology" },
+				{ "kind": "item", "ref": "book/justin-martyr-second-apology" },
+				{ "kind": "item", "ref": "book/justin-martyr-dialogue-with-trypho" },
+				{ "kind": "item", "ref": "book/athenagoras-plea-for-the-christians" },
+				{ "kind": "item", "ref": "book/athenagoras-resurrection-of-the-dead" },
+				{ "kind": "item", "ref": "book/aristides-apology" },
+				{ "kind": "item", "ref": "book/tatian-address-to-the-greeks" },
+				{ "kind": "item", "ref": "book/theophilus-theophilus-to-autolycus" }
+			]
+		},
+		{
+			"id": "irenaeus-and-clement",
+			"title": {
+				"en-US": "Irenaeus & Clement of Alexandria"
+			},
+			"description": {
+				"body": {
+					"en-US": "Late 2nd century: St. Irenaeus of Lyons against the Gnostics, and St. Clement of Alexandria opening the dialogue with Greek philosophy."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/irenaeus-adversus-haereses" },
+				{ "kind": "item", "ref": "book/clement-alexandria-exhortation-to-the-heathen" },
+				{ "kind": "item", "ref": "book/clement-alexandria-instructor" },
+				{ "kind": "item", "ref": "book/clement-alexandria-stromata-or-miscellanies" },
+				{ "kind": "item", "ref": "book/clement-alexandria-who-is-the-rich-man-that-shall-be-saved" }
+			]
+		},
+		{
+			"id": "cappadocians",
+			"title": {
+				"en-US": "The Cappadocian Fathers"
+			},
+			"description": {
+				"body": {
+					"en-US": "St. Basil the Great and St. Gregory of Nazianzus \"the Theologian.\" (Gregory of Nyssa has his own marquee collection above.)"
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/basil-de-spiritu-sancto" },
+				{ "kind": "item", "ref": "book/basil-nine-homilies-of-hexaemeron" },
+				{ "kind": "item", "ref": "book/basil-letters" },
+				{ "kind": "item", "ref": "book/gregory-nazianzen-orations" },
+				{ "kind": "item", "ref": "book/gregory-nazianzen-letters" }
+			]
+		},
+		{
+			"id": "later-fathers",
+			"title": {
+				"en-US": "Cyril of Jerusalem, Hilary, Leo, Cassian"
+			},
+			"description": {
+				"body": {
+					"en-US": "The patristic age closing — from Cyril's catechetical lectures in 4th-century Jerusalem through John Cassian's *Conferences* and Leo the Great's sermons to Vincent of Lérins's *Commonitorium*."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/cyril-catechetical-lectures" },
+				{ "kind": "item", "ref": "book/hilary-trinity" },
+				{ "kind": "item", "ref": "book/hilary-homilies-on-the-psalms" },
+				{ "kind": "item", "ref": "book/leo-sermons" },
+				{ "kind": "item", "ref": "book/leo-letters" },
+				{ "kind": "item", "ref": "book/john-cassian-conferences" },
+				{ "kind": "item", "ref": "book/john-cassian-institutes" },
+				{ "kind": "item", "ref": "book/vincent-commonitory-for-the-antiquity-and-universality-of-the-catholic-faith" }
+			]
+		},
+		{
+			"id": "church-historians",
+			"title": {
+				"en-US": "The Church Historians"
+			},
+			"description": {
+				"body": {
+					"en-US": "Eusebius of Caesarea's *Church History* — the first such — and its 5th-century continuators Socrates, Sozomen, and Theodoret."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/eusebius-church-history" },
+				{ "kind": "item", "ref": "book/eusebius-life-of-constantine" },
+				{ "kind": "item", "ref": "book/socrates-scholasticus-ecclesiastical-history" },
+				{ "kind": "item", "ref": "book/sozomen-ecclesiastical-history" },
+				{ "kind": "item", "ref": "book/theodoret-ecclesiastical-history" },
+				{ "kind": "item", "ref": "book/theodoret-letters" },
+				{ "kind": "item", "ref": "book/theodoret-dialogues" }
+			]
+		},
+		{
+			"id": "ecumenical-councils",
+			"title": {
+				"en-US": "The Seven Ecumenical Councils"
+			},
+			"description": {
+				"body": {
+					"en-US": "The conciliar definitions of the undivided Church — Nicaea, Constantinople, Ephesus, Chalcedon, and three more — in the canonical Schaff edition with the original canons and his annotation."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/councils-nicaea-i" },
+				{ "kind": "item", "ref": "book/councils-constantinople-i" },
+				{ "kind": "item", "ref": "book/councils-ephesus" },
+				{ "kind": "item", "ref": "book/councils-chalcedon" },
+				{ "kind": "item", "ref": "book/councils-constantinople-ii" },
+				{ "kind": "item", "ref": "book/councils-constantinople-iii" },
+				{ "kind": "item", "ref": "book/councils-nicaea-ii" }
+			]
+		},
+		{
+			"id": "liturgies",
+			"title": {
+				"en-US": "Ancient Liturgies"
+			},
+			"description": {
+				"body": {
+					"en-US": "Three of the great patristic Eucharistic rites — the liturgies attributed to St. James of Jerusalem, St. Mark of Alexandria, and Sts. Addai and Mari (Edessa)."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/liturgies-liturgy-of-james" },
+				{ "kind": "item", "ref": "book/liturgies-liturgy-of-mark" },
+				{ "kind": "item", "ref": "book/liturgies-liturgy-of-the-blessed-apostles" }
+			]
+		},
+		{
+			"id": "related-collections",
+			"title": {
+				"en-US": "See also"
+			},
+			"description": {
+				"body": {
+					"en-US": "Other curated collections that overlap with the patristic age — Aquinas's *Catena Aurea* draws on over 80 Fathers; the Catholic Encyclopedia gives long biographical and theological articles on each Father; the magisterium collection includes Leo XIII's *Aeterni Patris* on returning to patristic and scholastic sources."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "collection/thomas-aquinas" },
+				{ "kind": "item", "ref": "collection/catholic-encyclopedia" },
+				{ "kind": "item", "ref": "collection/papal-magisterium" }
+			]
+		}
+	]
+}

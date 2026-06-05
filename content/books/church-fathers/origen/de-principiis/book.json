@@ -1,0 +1,51 @@
+{
+  "id": "origen-de-principiis",
+  "name": {
+    "en-US": "De Principiis"
+  },
+  "author": {
+    "en-US": "Origen"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0412.htm",
+      "description": "Translated by Frederick Crombie. From Ante-Nicene Fathers, Vol. 4, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "PREFACE"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "BOOK I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "BOOK II"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "BOOK III"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "BOOK IV"
+      }
+    }
+  ]
+}

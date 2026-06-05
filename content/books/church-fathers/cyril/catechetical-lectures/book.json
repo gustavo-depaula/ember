@@ -1,0 +1,165 @@
+{
+  "id": "cyril-catechetical-lectures",
+  "name": {
+    "en-US": "Catechetical Lectures"
+  },
+  "author": {
+    "en-US": "Cyril of Jerusalem"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3101.htm",
+      "description": "Translated by Edwin Hamilton Gifford. From Nicene and Post-Nicene Fathers, Second Series, Vol. 7, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1894. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Lecture 1"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Lecture 2"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Lecture 3"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Lecture 4"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Lecture 5"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Lecture 6"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Lecture 7"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Lecture 8"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Lecture 9"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Lecture 10"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Lecture 11"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Lecture 12"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Lecture 13"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Lecture 14"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Lecture 15"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Lecture 16"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Lecture 17"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Lecture 18"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Lecture 19"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Lecture 20"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Lecture 21"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Lecture 22"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Lecture 23"
+      }
+    }
+  ]
+}

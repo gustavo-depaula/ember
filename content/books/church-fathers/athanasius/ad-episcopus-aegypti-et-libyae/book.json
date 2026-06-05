@@ -1,0 +1,27 @@
+{
+  "id": "athanasius-ad-episcopus-aegypti-et-libyae",
+  "name": {
+    "en-US": "Ad Episcopus Aegypti et Libyae"
+  },
+  "author": {
+    "en-US": "Athanasius"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2812.htm",
+      "description": "Translated by M. Atkinson and Archibald Robertson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1892. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Ad Episcopus Aegypti et Libyae"
+      }
+    }
+  ]
+}

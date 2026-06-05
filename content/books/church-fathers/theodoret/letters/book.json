@@ -1,0 +1,1107 @@
+{
+  "id": "theodoret-letters",
+  "name": {
+    "en-US": "Letters"
+  },
+  "author": {
+    "en-US": "Theodoret"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2707.htm",
+      "description": "Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1892. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Letter 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Letter 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Letter 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Letter 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Letter 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Letter 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Letter 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Letter 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Letter 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Letter 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Letter 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Letter 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Letter 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Letter 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Letter 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Letter 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Letter 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Letter 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Letter 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Letter 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Letter 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Letter 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Letter 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Letter 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Letter 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Letter 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Letter 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Letter 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Letter 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Letter 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Letter 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Letter 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Letter 33"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Letter 34"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Letter 35"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "Letter 36"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "Letter 37"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "Letter 38"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Letter 39"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Letter 40"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Letter 41"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Letter 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Letter 43"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Letter 44"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Letter 45"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Letter 46"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Letter 47"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "Letter 48"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "en-US": "Letter 49"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "Letter 50"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "Letter 51"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "Letter 52"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "Letter 53"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "Letter 54"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "en-US": "Letter 55"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "en-US": "Letter 56"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "en-US": "Letter 57"
+      }
+    },
+    {
+      "id": "ch058",
+      "title": {
+        "en-US": "Letter 58"
+      }
+    },
+    {
+      "id": "ch059",
+      "title": {
+        "en-US": "Letter 59"
+      }
+    },
+    {
+      "id": "ch060",
+      "title": {
+        "en-US": "Letter 60"
+      }
+    },
+    {
+      "id": "ch061",
+      "title": {
+        "en-US": "Letter 61"
+      }
+    },
+    {
+      "id": "ch062",
+      "title": {
+        "en-US": "Letter 62"
+      }
+    },
+    {
+      "id": "ch063",
+      "title": {
+        "en-US": "Letter 63"
+      }
+    },
+    {
+      "id": "ch064",
+      "title": {
+        "en-US": "Letter 64"
+      }
+    },
+    {
+      "id": "ch065",
+      "title": {
+        "en-US": "Letter 65"
+      }
+    },
+    {
+      "id": "ch066",
+      "title": {
+        "en-US": "Letter 66"
+      }
+    },
+    {
+      "id": "ch067",
+      "title": {
+        "en-US": "Letter 67"
+      }
+    },
+    {
+      "id": "ch068",
+      "title": {
+        "en-US": "Letter 68"
+      }
+    },
+    {
+      "id": "ch069",
+      "title": {
+        "en-US": "Letter 69"
+      }
+    },
+    {
+      "id": "ch070",
+      "title": {
+        "en-US": "Letter 70"
+      }
+    },
+    {
+      "id": "ch071",
+      "title": {
+        "en-US": "Letter 71"
+      }
+    },
+    {
+      "id": "ch072",
+      "title": {
+        "en-US": "Letter 72"
+      }
+    },
+    {
+      "id": "ch073",
+      "title": {
+        "en-US": "Letter 73"
+      }
+    },
+    {
+      "id": "ch074",
+      "title": {
+        "en-US": "Letter 74"
+      }
+    },
+    {
+      "id": "ch075",
+      "title": {
+        "en-US": "Letter 75"
+      }
+    },
+    {
+      "id": "ch076",
+      "title": {
+        "en-US": "Letter 76"
+      }
+    },
+    {
+      "id": "ch077",
+      "title": {
+        "en-US": "Letter 77"
+      }
+    },
+    {
+      "id": "ch078",
+      "title": {
+        "en-US": "Letter 78"
+      }
+    },
+    {
+      "id": "ch079",
+      "title": {
+        "en-US": "Letter 79"
+      }
+    },
+    {
+      "id": "ch080",
+      "title": {
+        "en-US": "Letter 80"
+      }
+    },
+    {
+      "id": "ch081",
+      "title": {
+        "en-US": "Letter 81"
+      }
+    },
+    {
+      "id": "ch082",
+      "title": {
+        "en-US": "Letter 82"
+      }
+    },
+    {
+      "id": "ch083",
+      "title": {
+        "en-US": "Letter 83"
+      }
+    },
+    {
+      "id": "ch084",
+      "title": {
+        "en-US": "Letter 84"
+      }
+    },
+    {
+      "id": "ch085",
+      "title": {
+        "en-US": "Letter 85"
+      }
+    },
+    {
+      "id": "ch086",
+      "title": {
+        "en-US": "Letter 86"
+      }
+    },
+    {
+      "id": "ch087",
+      "title": {
+        "en-US": "Letter 87"
+      }
+    },
+    {
+      "id": "ch088",
+      "title": {
+        "en-US": "Letter 88"
+      }
+    },
+    {
+      "id": "ch089",
+      "title": {
+        "en-US": "Letter 89"
+      }
+    },
+    {
+      "id": "ch090",
+      "title": {
+        "en-US": "Letter 90"
+      }
+    },
+    {
+      "id": "ch091",
+      "title": {
+        "en-US": "Letter 91"
+      }
+    },
+    {
+      "id": "ch092",
+      "title": {
+        "en-US": "Letter 92"
+      }
+    },
+    {
+      "id": "ch093",
+      "title": {
+        "en-US": "Letter 93"
+      }
+    },
+    {
+      "id": "ch094",
+      "title": {
+        "en-US": "Letter 94"
+      }
+    },
+    {
+      "id": "ch095",
+      "title": {
+        "en-US": "Letter 95"
+      }
+    },
+    {
+      "id": "ch096",
+      "title": {
+        "en-US": "Letter 96"
+      }
+    },
+    {
+      "id": "ch097",
+      "title": {
+        "en-US": "Letter 97"
+      }
+    },
+    {
+      "id": "ch098",
+      "title": {
+        "en-US": "Letter 98"
+      }
+    },
+    {
+      "id": "ch099",
+      "title": {
+        "en-US": "Letter 99"
+      }
+    },
+    {
+      "id": "ch100",
+      "title": {
+        "en-US": "Letter 100"
+      }
+    },
+    {
+      "id": "ch101",
+      "title": {
+        "en-US": "Letter 101"
+      }
+    },
+    {
+      "id": "ch102",
+      "title": {
+        "en-US": "Letter 102"
+      }
+    },
+    {
+      "id": "ch103",
+      "title": {
+        "en-US": "Letter 103"
+      }
+    },
+    {
+      "id": "ch104",
+      "title": {
+        "en-US": "Letter 104"
+      }
+    },
+    {
+      "id": "ch105",
+      "title": {
+        "en-US": "Letter 105"
+      }
+    },
+    {
+      "id": "ch106",
+      "title": {
+        "en-US": "Letter 106"
+      }
+    },
+    {
+      "id": "ch107",
+      "title": {
+        "en-US": "Letter 107"
+      }
+    },
+    {
+      "id": "ch108",
+      "title": {
+        "en-US": "Letter 108"
+      }
+    },
+    {
+      "id": "ch109",
+      "title": {
+        "en-US": "Letter 109"
+      }
+    },
+    {
+      "id": "ch110",
+      "title": {
+        "en-US": "Letter 110"
+      }
+    },
+    {
+      "id": "ch111",
+      "title": {
+        "en-US": "Letter 111"
+      }
+    },
+    {
+      "id": "ch112",
+      "title": {
+        "en-US": "Letter 112"
+      }
+    },
+    {
+      "id": "ch113",
+      "title": {
+        "en-US": "Letter 113"
+      }
+    },
+    {
+      "id": "ch114",
+      "title": {
+        "en-US": "Letter 114"
+      }
+    },
+    {
+      "id": "ch115",
+      "title": {
+        "en-US": "Letter 115"
+      }
+    },
+    {
+      "id": "ch116",
+      "title": {
+        "en-US": "Letter 116"
+      }
+    },
+    {
+      "id": "ch117",
+      "title": {
+        "en-US": "Letter 117"
+      }
+    },
+    {
+      "id": "ch118",
+      "title": {
+        "en-US": "Letter 118"
+      }
+    },
+    {
+      "id": "ch119",
+      "title": {
+        "en-US": "Letter 119"
+      }
+    },
+    {
+      "id": "ch120",
+      "title": {
+        "en-US": "Letter 120"
+      }
+    },
+    {
+      "id": "ch121",
+      "title": {
+        "en-US": "Letter 121"
+      }
+    },
+    {
+      "id": "ch122",
+      "title": {
+        "en-US": "Letter 122"
+      }
+    },
+    {
+      "id": "ch123",
+      "title": {
+        "en-US": "Letter 123"
+      }
+    },
+    {
+      "id": "ch124",
+      "title": {
+        "en-US": "Letter 124"
+      }
+    },
+    {
+      "id": "ch125",
+      "title": {
+        "en-US": "Letter 125"
+      }
+    },
+    {
+      "id": "ch126",
+      "title": {
+        "en-US": "Letter 126"
+      }
+    },
+    {
+      "id": "ch127",
+      "title": {
+        "en-US": "Letter 127"
+      }
+    },
+    {
+      "id": "ch128",
+      "title": {
+        "en-US": "Letter 128"
+      }
+    },
+    {
+      "id": "ch129",
+      "title": {
+        "en-US": "Letter 129"
+      }
+    },
+    {
+      "id": "ch130",
+      "title": {
+        "en-US": "Letter 130"
+      }
+    },
+    {
+      "id": "ch131",
+      "title": {
+        "en-US": "Letter 131"
+      }
+    },
+    {
+      "id": "ch132",
+      "title": {
+        "en-US": "Letter 132"
+      }
+    },
+    {
+      "id": "ch133",
+      "title": {
+        "en-US": "Letter 133"
+      }
+    },
+    {
+      "id": "ch134",
+      "title": {
+        "en-US": "Letter 134"
+      }
+    },
+    {
+      "id": "ch135",
+      "title": {
+        "en-US": "Letter 135"
+      }
+    },
+    {
+      "id": "ch136",
+      "title": {
+        "en-US": "Letter 136"
+      }
+    },
+    {
+      "id": "ch137",
+      "title": {
+        "en-US": "Letter 137"
+      }
+    },
+    {
+      "id": "ch138",
+      "title": {
+        "en-US": "Letter 138"
+      }
+    },
+    {
+      "id": "ch139",
+      "title": {
+        "en-US": "Letter 139"
+      }
+    },
+    {
+      "id": "ch140",
+      "title": {
+        "en-US": "Letter 140"
+      }
+    },
+    {
+      "id": "ch141",
+      "title": {
+        "en-US": "Letter 141"
+      }
+    },
+    {
+      "id": "ch142",
+      "title": {
+        "en-US": "Letter 142"
+      }
+    },
+    {
+      "id": "ch143",
+      "title": {
+        "en-US": "Letter 143"
+      }
+    },
+    {
+      "id": "ch144",
+      "title": {
+        "en-US": "Letter 144"
+      }
+    },
+    {
+      "id": "ch145",
+      "title": {
+        "en-US": "Letter 145"
+      }
+    },
+    {
+      "id": "ch146",
+      "title": {
+        "en-US": "Letter 146"
+      }
+    },
+    {
+      "id": "ch147",
+      "title": {
+        "en-US": "Letter 147"
+      }
+    },
+    {
+      "id": "ch148",
+      "title": {
+        "en-US": "Letter 148"
+      }
+    },
+    {
+      "id": "ch149",
+      "title": {
+        "en-US": "Letter 149"
+      }
+    },
+    {
+      "id": "ch150",
+      "title": {
+        "en-US": "Letter 150"
+      }
+    },
+    {
+      "id": "ch151",
+      "title": {
+        "en-US": "Letter 151"
+      }
+    },
+    {
+      "id": "ch152",
+      "title": {
+        "en-US": "Letter 152"
+      }
+    },
+    {
+      "id": "ch153",
+      "title": {
+        "en-US": "Letter 153"
+      }
+    },
+    {
+      "id": "ch154",
+      "title": {
+        "en-US": "Letter 154"
+      }
+    },
+    {
+      "id": "ch155",
+      "title": {
+        "en-US": "Letter 155"
+      }
+    },
+    {
+      "id": "ch156",
+      "title": {
+        "en-US": "Letter 156"
+      }
+    },
+    {
+      "id": "ch157",
+      "title": {
+        "en-US": "Letter 157"
+      }
+    },
+    {
+      "id": "ch158",
+      "title": {
+        "en-US": "Letter 158"
+      }
+    },
+    {
+      "id": "ch159",
+      "title": {
+        "en-US": "Letter 159"
+      }
+    },
+    {
+      "id": "ch160",
+      "title": {
+        "en-US": "Letter 160"
+      }
+    },
+    {
+      "id": "ch161",
+      "title": {
+        "en-US": "Letter 161"
+      }
+    },
+    {
+      "id": "ch162",
+      "title": {
+        "en-US": "Letter 162"
+      }
+    },
+    {
+      "id": "ch163",
+      "title": {
+        "en-US": "Letter 163"
+      }
+    },
+    {
+      "id": "ch164",
+      "title": {
+        "en-US": "Letter 164"
+      }
+    },
+    {
+      "id": "ch165",
+      "title": {
+        "en-US": "Letter 165"
+      }
+    },
+    {
+      "id": "ch166",
+      "title": {
+        "en-US": "Letter 166"
+      }
+    },
+    {
+      "id": "ch167",
+      "title": {
+        "en-US": "Letter 167"
+      }
+    },
+    {
+      "id": "ch168",
+      "title": {
+        "en-US": "Letter 168"
+      }
+    },
+    {
+      "id": "ch169",
+      "title": {
+        "en-US": "Letter 169"
+      }
+    },
+    {
+      "id": "ch170",
+      "title": {
+        "en-US": "Letter 170"
+      }
+    },
+    {
+      "id": "ch171",
+      "title": {
+        "en-US": "Letter 171"
+      }
+    },
+    {
+      "id": "ch172",
+      "title": {
+        "en-US": "Letter 172"
+      }
+    },
+    {
+      "id": "ch173",
+      "title": {
+        "en-US": "Letter 173"
+      }
+    },
+    {
+      "id": "ch174",
+      "title": {
+        "en-US": "Letter 174"
+      }
+    },
+    {
+      "id": "ch175",
+      "title": {
+        "en-US": "Letter 175"
+      }
+    },
+    {
+      "id": "ch176",
+      "title": {
+        "en-US": "Letter 176"
+      }
+    },
+    {
+      "id": "ch177",
+      "title": {
+        "en-US": "Letter 177"
+      }
+    },
+    {
+      "id": "ch178",
+      "title": {
+        "en-US": "Letter 178"
+      }
+    },
+    {
+      "id": "ch179",
+      "title": {
+        "en-US": "Letter 179"
+      }
+    },
+    {
+      "id": "ch180",
+      "title": {
+        "en-US": "Letter 180"
+      }
+    },
+    {
+      "id": "ch181",
+      "title": {
+        "en-US": "Letter 181"
+      }
+    }
+  ]
+}

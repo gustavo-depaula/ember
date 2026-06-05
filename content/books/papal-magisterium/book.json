@@ -1,0 +1,1130 @@
+{
+  "id": "papal-magisterium",
+  "name": {
+    "en-US": "Papal Magisterium and Vatican II"
+  },
+  "author": {
+    "en-US": "Various Popes, Roman Dicasteries, and the Second Vatican Council"
+  },
+  "composed": "1302–2003",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/library/",
+      "description": "Sourced from New Advent's Catholic Library (http://www.newadvent.org/library/). Pre-1923 documents are in the US public domain. Holy See texts after 1923 are © Libreria Editrice Vaticana, reproduced under fair-use practice for personal study and devotional use; the authoritative texts are at vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "section-boniface-viii",
+      "title": {
+        "en-US": "Boniface VIII"
+      },
+      "children": [
+        {
+          "id": "docs_bo08us",
+          "title": {
+            "en-US": "Unam Sanctam (1302)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-paul-iii",
+      "title": {
+        "en-US": "Paul III"
+      },
+      "children": [
+        {
+          "id": "docs_pa03sd",
+          "title": {
+            "en-US": "Sublimus Dei (1537)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-benedict-xiv",
+      "title": {
+        "en-US": "Benedict XIV"
+      },
+      "children": [
+        {
+          "id": "docs_be14vp",
+          "title": {
+            "en-US": "Vix Pervenit (1745)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-gregory-xvi",
+      "title": {
+        "en-US": "Gregory XVI"
+      },
+      "children": [
+        {
+          "id": "docs_gr16is",
+          "title": {
+            "en-US": "In Supremo Apostolatus (1839)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-pius-ix",
+      "title": {
+        "en-US": "Pius IX"
+      },
+      "children": [
+        {
+          "id": "docs_pi09id",
+          "title": {
+            "en-US": "Ineffabilis Deus (1854)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-leo-xiii",
+      "title": {
+        "en-US": "Leo XIII"
+      },
+      "children": [
+        {
+          "id": "docs_le13ic",
+          "title": {
+            "en-US": "Inscrutabili Dei Consilio (1878)"
+          }
+        },
+        {
+          "id": "docs_le13qm",
+          "title": {
+            "en-US": "Quod Apostolici Muneris (1878)"
+          }
+        },
+        {
+          "id": "docs_le13ae",
+          "title": {
+            "en-US": "Aeterni Patris (1879)"
+          }
+        },
+        {
+          "id": "docs_le13gm",
+          "title": {
+            "en-US": "Grande Munus (1880)"
+          }
+        },
+        {
+          "id": "docs_le13sd",
+          "title": {
+            "en-US": "Sancta Dei Civitas (1880)"
+          }
+        },
+        {
+          "id": "docs_le13lm",
+          "title": {
+            "en-US": "Licet Multa (1881)"
+          }
+        },
+        {
+          "id": "docs_le13au",
+          "title": {
+            "en-US": "Auspicato Concessum (1882)"
+          }
+        },
+        {
+          "id": "docs_le13cm",
+          "title": {
+            "en-US": "Cum Multa (1882)"
+          }
+        },
+        {
+          "id": "docs_le13en",
+          "title": {
+            "en-US": "Etsi Nos (1882)"
+          }
+        },
+        {
+          "id": "docs_le13so",
+          "title": {
+            "en-US": "Supremi Apostolatus Officio (1883)"
+          }
+        },
+        {
+          "id": "docs_le13hg",
+          "title": {
+            "en-US": "Humanum Genus (1884)"
+          }
+        },
+        {
+          "id": "docs_le13ng",
+          "title": {
+            "en-US": "Nobilissima Gallorum Gens (1884)"
+          }
+        },
+        {
+          "id": "docs_le13sa",
+          "title": {
+            "en-US": "Superiore Anno (1884)"
+          }
+        },
+        {
+          "id": "docs_le13id",
+          "title": {
+            "en-US": "Immortale Dei (1885)"
+          }
+        },
+        {
+          "id": "docs_le13sf",
+          "title": {
+            "en-US": "Spectata Fides (1885)"
+          }
+        },
+        {
+          "id": "docs_le13pe",
+          "title": {
+            "en-US": "Pergrata (1886)"
+          }
+        },
+        {
+          "id": "docs_le13os",
+          "title": {
+            "en-US": "Officio Sanctissimo (1887)"
+          }
+        },
+        {
+          "id": "docs_le13vi",
+          "title": {
+            "en-US": "Vi è ben noto (1887)"
+          }
+        },
+        {
+          "id": "docs_le13ec",
+          "title": {
+            "en-US": "Etsi Cunctas (1888)"
+          }
+        },
+        {
+          "id": "docs_le13ei",
+          "title": {
+            "en-US": "Exeunte Iam Anno (1888)"
+          }
+        },
+        {
+          "id": "docs_le13ip",
+          "title": {
+            "en-US": "In Plurimis (1888)"
+          }
+        },
+        {
+          "id": "docs_le13li",
+          "title": {
+            "en-US": "Libertas (1888)"
+          }
+        },
+        {
+          "id": "docs_le13sn",
+          "title": {
+            "en-US": "Saepe Nos (1888)"
+          }
+        },
+        {
+          "id": "docs_le13mn",
+          "title": {
+            "en-US": "Magni Nobis (1889)"
+          }
+        },
+        {
+          "id": "docs_le13ce",
+          "title": {
+            "en-US": "Catholicae Ecclesiae (1890)"
+          }
+        },
+        {
+          "id": "docs_le13sc",
+          "title": {
+            "en-US": "Sapientiae Christianae (1890)"
+          }
+        },
+        {
+          "id": "docs_le13in",
+          "title": {
+            "en-US": "In Ipso (1891)"
+          }
+        },
+        {
+          "id": "docs_le13om",
+          "title": {
+            "en-US": "Octobri Mense (1891)"
+          }
+        },
+        {
+          "id": "docs_le13am",
+          "title": {
+            "en-US": "Au Milieu des Sollicitudes (1892)"
+          }
+        },
+        {
+          "id": "docs_le13cd",
+          "title": {
+            "en-US": "Custodi di Quella Fede (1892)"
+          }
+        },
+        {
+          "id": "docs_le13md",
+          "title": {
+            "en-US": "Magnae Dei Matris (1892)"
+          }
+        },
+        {
+          "id": "docs_le13qs",
+          "title": {
+            "en-US": "Quarto Abeunte Saeculo (1892)"
+          }
+        },
+        {
+          "id": "docs_le13ad",
+          "title": {
+            "en-US": "Ad Extremas (1893)"
+          }
+        },
+        {
+          "id": "docs_le13ar",
+          "title": {
+            "en-US": "Arcanum (1893)"
+          }
+        },
+        {
+          "id": "docs_le13ch",
+          "title": {
+            "en-US": "Constanti Hungarorum (1893)"
+          }
+        },
+        {
+          "id": "docs_le13ls",
+          "title": {
+            "en-US": "Laetitiae Sanctae (1893)"
+          }
+        },
+        {
+          "id": "docs_le13cn",
+          "title": {
+            "en-US": "Christi Nomen (1894)"
+          }
+        },
+        {
+          "id": "docs_le13is",
+          "title": {
+            "en-US": "Iucunda Semper Expectatione (1894)"
+          }
+        },
+        {
+          "id": "docs_le13lv",
+          "title": {
+            "en-US": "Litteras a Vobis (1894)"
+          }
+        },
+        {
+          "id": "docs_le13da",
+          "title": {
+            "en-US": "Dall' Alto Dell' Apostolico Seggio"
+          }
+        },
+        {
+          "id": "docs_le13di",
+          "title": {
+            "en-US": "Diuturnum"
+          }
+        },
+        {
+          "id": "docs_le13ia",
+          "title": {
+            "en-US": "Iampridem"
+          }
+        },
+        {
+          "id": "docs_le13po",
+          "title": {
+            "en-US": "Pastoralis Officii"
+          }
+        },
+        {
+          "id": "docs_le13qt",
+          "title": {
+            "en-US": "Quam Aerumnosa"
+          }
+        },
+        {
+          "id": "docs_le13qp",
+          "title": {
+            "en-US": "Quamquam Pluries"
+          }
+        },
+        {
+          "id": "docs_le13qn",
+          "title": {
+            "en-US": "Quod Anniversarius"
+          }
+        },
+        {
+          "id": "docs_le13qa",
+          "title": {
+            "en-US": "Quod Auctoritate"
+          }
+        },
+        {
+          "id": "docs_le13qu",
+          "title": {
+            "en-US": "Quod Multum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-holy-office-pius-x",
+      "title": {
+        "en-US": "Holy Office / CDF (St. Pius X era)"
+      },
+      "children": [
+        {
+          "id": "docs_df07ls",
+          "title": {
+            "en-US": "Lamentabili Sane (1907)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-pius-x",
+      "title": {
+        "en-US": "Pius X"
+      },
+      "children": [
+        {
+          "id": "docs_pi10vn",
+          "title": {
+            "en-US": "Vehementer Nos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-holy-see-concordats",
+      "title": {
+        "en-US": "Holy See — Concordats"
+      },
+      "children": [
+        {
+          "id": "docs_ss33co",
+          "title": {
+            "en-US": "Concordat Between the Holy See and the German Reich (1933)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-pius-xi",
+      "title": {
+        "en-US": "Pius XI"
+      },
+      "children": [
+        {
+          "id": "docs_pi11ua",
+          "title": {
+            "en-US": "Ubi Arcano Dei Consilio (1922)"
+          }
+        },
+        {
+          "id": "docs_pi11ro",
+          "title": {
+            "en-US": "Rerum Omnium Perturbationem (1923)"
+          }
+        },
+        {
+          "id": "docs_pi11mr",
+          "title": {
+            "en-US": "Miserentissimus Redemptor (1928)"
+          }
+        },
+        {
+          "id": "docs_pi11ma",
+          "title": {
+            "en-US": "Mortalium Animos (1928)"
+          }
+        },
+        {
+          "id": "docs_pi11mn",
+          "title": {
+            "en-US": "Mens Nostra (1929)"
+          }
+        },
+        {
+          "id": "docs_pi11rt",
+          "title": {
+            "en-US": "Rappresentanti in Terra (1929)"
+          }
+        },
+        {
+          "id": "docs_pi11na",
+          "title": {
+            "en-US": "Non Abbiamo Bisogno (1931)"
+          }
+        },
+        {
+          "id": "docs_pi11cc",
+          "title": {
+            "en-US": "Caritate Christi Compulsi (1932)"
+          }
+        },
+        {
+          "id": "docs_pi11ac",
+          "title": {
+            "en-US": "Ad Catholici Sacerdotii (1935)"
+          }
+        },
+        {
+          "id": "docs_pi11mb",
+          "title": {
+            "en-US": "Mit Brennender Sorge (1937)"
+          }
+        },
+        {
+          "id": "docs_pi11dr",
+          "title": {
+            "en-US": "Divini Redemptoris"
+          }
+        },
+        {
+          "id": "docs_pi11im",
+          "title": {
+            "en-US": "Ingravescentibus Malis"
+          }
+        },
+        {
+          "id": "docs_pi11qa",
+          "title": {
+            "en-US": "Quadragesimo Anno"
+          }
+        },
+        {
+          "id": "docs_pi11qp",
+          "title": {
+            "en-US": "Quas Primas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-pius-xii",
+      "title": {
+        "en-US": "Pius XII"
+      },
+      "children": [
+        {
+          "id": "docs_pi12sl",
+          "title": {
+            "en-US": "Sertum Laetitiae (1939)"
+          }
+        },
+        {
+          "id": "docs_pi12sp",
+          "title": {
+            "en-US": "Summi Pontificatus (1939)"
+          }
+        },
+        {
+          "id": "docs_pi12se",
+          "title": {
+            "en-US": "Sæculo Exeunte Octavo (1940)"
+          }
+        },
+        {
+          "id": "docs_pi12oe",
+          "title": {
+            "en-US": "Orientalis Ecclesiae (1944)"
+          }
+        },
+        {
+          "id": "docs_pi12ci",
+          "title": {
+            "en-US": "Communium Interpretes Doloraum (1945)"
+          }
+        },
+        {
+          "id": "docs_pi12oo",
+          "title": {
+            "en-US": "Orientales Omnes Ecclesias (1945)"
+          }
+        },
+        {
+          "id": "docs_pi12qu",
+          "title": {
+            "en-US": "Quemadmodum (1946)"
+          }
+        },
+        {
+          "id": "docs_pi12fr",
+          "title": {
+            "en-US": "Fulgens Radiatur (1947)"
+          }
+        },
+        {
+          "id": "docs_pi12md",
+          "title": {
+            "en-US": "Mediator Dei (1947)"
+          }
+        },
+        {
+          "id": "docs_pi12op",
+          "title": {
+            "en-US": "Optatissima Pax (1947)"
+          }
+        },
+        {
+          "id": "docs_pi12aq",
+          "title": {
+            "en-US": "Auspicia Quaedam (1948)"
+          }
+        },
+        {
+          "id": "docs_pi12rn",
+          "title": {
+            "en-US": "Redemptoris Nostri Cruciatus (1949)"
+          }
+        },
+        {
+          "id": "docs_pi12an",
+          "title": {
+            "en-US": "Anni Sacri (1950)"
+          }
+        },
+        {
+          "id": "docs_pi12mi",
+          "title": {
+            "en-US": "Mirabile Illud (1950)"
+          }
+        },
+        {
+          "id": "docs_pi12sm",
+          "title": {
+            "en-US": "Summi Maeroris (1950)"
+          }
+        },
+        {
+          "id": "docs_pi12ep",
+          "title": {
+            "en-US": "Evangelii Praecones (1951)"
+          }
+        },
+        {
+          "id": "docs_pi12sr",
+          "title": {
+            "en-US": "Sempiternus Rex Christus (1951)"
+          }
+        },
+        {
+          "id": "docs_pi12fc",
+          "title": {
+            "en-US": "Fulgens Corona (1953)"
+          }
+        },
+        {
+          "id": "docs_pi12ac",
+          "title": {
+            "en-US": "Ad Caeli Reginam (1954)"
+          }
+        },
+        {
+          "id": "docs_pi12ad",
+          "title": {
+            "en-US": "Ad Sinarum Gentem (1954)"
+          }
+        },
+        {
+          "id": "docs_pi12ef",
+          "title": {
+            "en-US": "Ecclesiae Fastos (1954)"
+          }
+        },
+        {
+          "id": "docs_pi12sv",
+          "title": {
+            "en-US": "Sacra Virginitas (1954)"
+          }
+        },
+        {
+          "id": "docs_pi12ms",
+          "title": {
+            "en-US": "Musicae Sacrae (1955)"
+          }
+        },
+        {
+          "id": "docs_pi12ha",
+          "title": {
+            "en-US": "Haurietis Aquas (1956)"
+          }
+        },
+        {
+          "id": "docs_pi12la",
+          "title": {
+            "en-US": "Laetamur Admodum (1956)"
+          }
+        },
+        {
+          "id": "docs_pi12le",
+          "title": {
+            "en-US": "Luctuosissimi Eventus (1956)"
+          }
+        },
+        {
+          "id": "docs_pi12fd",
+          "title": {
+            "en-US": "Fidei Donum (1957)"
+          }
+        },
+        {
+          "id": "docs_pi12lp",
+          "title": {
+            "en-US": "Le Pelerinage de Lourdes (1957)"
+          }
+        },
+        {
+          "id": "docs_pi12mp",
+          "title": {
+            "en-US": "Miranda Prorsus (1957)"
+          }
+        },
+        {
+          "id": "docs_pi12aa",
+          "title": {
+            "en-US": "Ad Apostolorum Principis (1958)"
+          }
+        },
+        {
+          "id": "docs_pi12me",
+          "title": {
+            "en-US": "Meminisse Iuvat (1958)"
+          }
+        },
+        {
+          "id": "docs_pi12dn",
+          "title": {
+            "en-US": "Datis Nuperrime"
+          }
+        },
+        {
+          "id": "docs_pi12dv",
+          "title": {
+            "en-US": "Deiparae Virginis Mariae"
+          }
+        },
+        {
+          "id": "docs_pi12da",
+          "title": {
+            "en-US": "Divino Afflante Spiritu"
+          }
+        },
+        {
+          "id": "docs_pi12dm",
+          "title": {
+            "en-US": "Doctor Mellifluus"
+          }
+        },
+        {
+          "id": "docs_pi12hg",
+          "title": {
+            "en-US": "Humani Generis"
+          }
+        },
+        {
+          "id": "docs_pi12ic",
+          "title": {
+            "en-US": "In Multiplicibus Curus"
+          }
+        },
+        {
+          "id": "docs_pi12im",
+          "title": {
+            "en-US": "Ingruentium Malorum"
+          }
+        },
+        {
+          "id": "docs_pi12ia",
+          "title": {
+            "en-US": "Invicti Athletae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-john-xxiii",
+      "title": {
+        "en-US": "John XXIII"
+      },
+      "children": [
+        {
+          "id": "docs_jo23ap",
+          "title": {
+            "en-US": "Ad Petri Cathedram (1959)"
+          }
+        },
+        {
+          "id": "docs_jo23gr",
+          "title": {
+            "en-US": "Grata Recordatio (1959)"
+          }
+        },
+        {
+          "id": "docs_jo23pp",
+          "title": {
+            "en-US": "Princeps Pastorum (1959)"
+          }
+        },
+        {
+          "id": "docs_jo23ad",
+          "title": {
+            "en-US": "Aeterna Dei Sapientia (1961)"
+          }
+        },
+        {
+          "id": "docs_jo23mm",
+          "title": {
+            "en-US": "Mater et Magistra (1961)"
+          }
+        },
+        {
+          "id": "docs_jo23pa",
+          "title": {
+            "en-US": "Paenitentiam Agere (1962)"
+          }
+        },
+        {
+          "id": "docs_jo23pt",
+          "title": {
+            "en-US": "Pacem in Terris (1963)"
+          }
+        },
+        {
+          "id": "docs_jo23sn",
+          "title": {
+            "en-US": "Sacerdotii Nostri Primordia (1963)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-vatican-ii",
+      "title": {
+        "en-US": "Second Vatican Council"
+      },
+      "children": [
+        {
+          "id": "docs_ec21gs",
+          "title": {
+            "en-US": "Gaudium et Spes"
+          }
+        },
+        {
+          "id": "docs_ec21na",
+          "title": {
+            "en-US": "Nostra Aetate"
+          }
+        },
+        {
+          "id": "docs_ec21oe",
+          "title": {
+            "en-US": "Orientalium Ecclesiarum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-paul-vi",
+      "title": {
+        "en-US": "Paul VI"
+      },
+      "children": [
+        {
+          "id": "docs_pa06es",
+          "title": {
+            "en-US": "Ecclesiam Suam (1964)"
+          }
+        },
+        {
+          "id": "docs_pa06mf",
+          "title": {
+            "en-US": "Mysterium Fidei (1965)"
+          }
+        },
+        {
+          "id": "docs_pa06id",
+          "title": {
+            "en-US": "Indulgentarium Doctrina (1967)"
+          }
+        },
+        {
+          "id": "docs_pa06pp",
+          "title": {
+            "en-US": "Populorum Progressio (1967)"
+          }
+        },
+        {
+          "id": "docs_pa06sm",
+          "title": {
+            "en-US": "Signum Magnum (1967)"
+          }
+        },
+        {
+          "id": "docs_pa06hv",
+          "title": {
+            "en-US": "Humanae Vitae (1968)"
+          }
+        },
+        {
+          "id": "docs_pa06cr",
+          "title": {
+            "en-US": "The Credo of the People of God (1968)"
+          }
+        },
+        {
+          "id": "docs_pa06mc",
+          "title": {
+            "en-US": "Marialis Cultus (1974)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-cdf-1970s",
+      "title": {
+        "en-US": "CDF (1970s)"
+      },
+      "children": [
+        {
+          "id": "docs_df75ab",
+          "title": {
+            "en-US": "Declaration on Procured Abortion (1975)"
+          }
+        },
+        {
+          "id": "docs_df75se",
+          "title": {
+            "en-US": "Persona Humana (1975)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-cdf-1976",
+      "title": {
+        "en-US": "CDF (1976)"
+      },
+      "children": [
+        {
+          "id": "docs_df76ii",
+          "title": {
+            "en-US": "Inter Insigniores (1976)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-cdf-1980",
+      "title": {
+        "en-US": "CDF (1980)"
+      },
+      "children": [
+        {
+          "id": "docs_df80eu",
+          "title": {
+            "en-US": "Declaration on Euthanasia (1980)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-cdf-1980s",
+      "title": {
+        "en-US": "CDF (1980s)"
+      },
+      "children": [
+        {
+          "id": "docs_df84lt",
+          "title": {
+            "en-US": "Instruction on Certain Aspects of \"Theology of Liberation\" (1984)"
+          }
+        },
+        {
+          "id": "docs_df86ho",
+          "title": {
+            "en-US": "On the Pastoral Care of Homosexual Persons (1986)"
+          }
+        },
+        {
+          "id": "docs_df88ai",
+          "title": {
+            "en-US": "On \"The Many Faces of AIDS\" (1988)"
+          }
+        },
+        {
+          "id": "docs_df83ma",
+          "title": {
+            "en-US": "Declaration on Masonic Associations"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-council-for-family",
+      "title": {
+        "en-US": "Pontifical Council for the Family"
+      },
+      "children": [
+        {
+          "id": "docs_cf9601",
+          "title": {
+            "en-US": "The Truth and Meaning of Human Sexuality (1996)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-john-paul-ii",
+      "title": {
+        "en-US": "John Paul II"
+      },
+      "children": [
+        {
+          "id": "docs_jp02rh",
+          "title": {
+            "en-US": "Redemptor Hominis (1979)"
+          }
+        },
+        {
+          "id": "docs_jp02sc",
+          "title": {
+            "en-US": "Sapientia Christiana (1979)"
+          }
+        },
+        {
+          "id": "docs_jp02fc",
+          "title": {
+            "en-US": "Familiaris Consortio (1981)"
+          }
+        },
+        {
+          "id": "docs_jp02le",
+          "title": {
+            "en-US": "Laborem Exercens (1981)"
+          }
+        },
+        {
+          "id": "docs_jp02rm",
+          "title": {
+            "en-US": "Redemptoris Mater (1987)"
+          }
+        },
+        {
+          "id": "docs_jp02ed",
+          "title": {
+            "en-US": "Ecclesia Dei (1988)"
+          }
+        },
+        {
+          "id": "docs_jp02ca",
+          "title": {
+            "en-US": "Centesimus Annus (1991)"
+          }
+        },
+        {
+          "id": "docs_jp02ab",
+          "title": {
+            "en-US": "On Combatting Abortion and Euthanasia (1991)"
+          }
+        },
+        {
+          "id": "docs_jp02lf",
+          "title": {
+            "en-US": "Letter to Families (1994)"
+          }
+        },
+        {
+          "id": "docs_jp02os",
+          "title": {
+            "en-US": "Ordinatio Sacerdotalis (1994)"
+          }
+        },
+        {
+          "id": "docs_jp02tv",
+          "title": {
+            "en-US": "Television and the Family (1994)"
+          }
+        },
+        {
+          "id": "docs_jp02tm",
+          "title": {
+            "en-US": "Tertio Millennio Adveniente (1994)"
+          }
+        },
+        {
+          "id": "docs_jp02ev",
+          "title": {
+            "en-US": "Evangelium Vitae (1995)"
+          }
+        },
+        {
+          "id": "docs_jp02ol",
+          "title": {
+            "en-US": "Orientale Lumen (1995)"
+          }
+        },
+        {
+          "id": "docs_jp02tc",
+          "title": {
+            "en-US": "Truth Cannot Contradict Truth (1996)"
+          }
+        },
+        {
+          "id": "docs_jp02ee",
+          "title": {
+            "en-US": "Ecclesia de Eucharistia (2003)"
+          }
+        },
+        {
+          "id": "docs_jp02dm",
+          "title": {
+            "en-US": "Dives in Misericordia"
+          }
+        },
+        {
+          "id": "docs_jp02dc",
+          "title": {
+            "en-US": "Dominicae Cenae"
+          }
+        },
+        {
+          "id": "docs_jp02dv",
+          "title": {
+            "en-US": "Dominum et Vivificantem"
+          }
+        },
+        {
+          "id": "docs_jp02uu",
+          "title": {
+            "en-US": "Ut Unum Sint"
+          }
+        },
+        {
+          "id": "docs_jp02vs",
+          "title": {
+            "en-US": "Veritatis Splendor"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "vincent-commonitory-for-the-antiquity-and-universality-of-the-catholic-faith",
+  "name": {
+    "en-US": "Commonitory for the Antiquity and Universality of the Catholic Faith"
+  },
+  "author": {
+    "en-US": "Vincent of Lérins (d. c. 450)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3506.htm",
+      "description": "Translated by C.A. Heurtley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 11, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1894. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Commonitory for the Antiquity and Universality of the Catholic Faith"
+      }
+    }
+  ]
+}

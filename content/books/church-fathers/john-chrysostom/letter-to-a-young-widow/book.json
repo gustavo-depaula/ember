@@ -1,0 +1,27 @@
+{
+  "id": "john-chrysostom-letter-to-a-young-widow",
+  "name": {
+    "en-US": "Letter to a Young Widow"
+  },
+  "author": {
+    "en-US": "John Chrysostom"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1904.htm",
+      "description": "Translated by W.R.W. Stephens. From Nicene and Post-Nicene Fathers, First Series, Vol. 9, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1889. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Letter to a Young Widow"
+      }
+    }
+  ]
+}

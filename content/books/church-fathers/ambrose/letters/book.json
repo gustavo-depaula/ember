@@ -1,0 +1,93 @@
+{
+  "id": "ambrose-letters",
+  "name": {
+    "en-US": "Letters"
+  },
+  "author": {
+    "en-US": "Ambrose (340-397)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3409.htm",
+      "description": "Translated by H. de Romestin, E. de Romestin and H.T.F. Duckworth. From Nicene and Post-Nicene Fathers, Second Series, Vol. 10, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1896. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Letter 17"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Letter 18"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Letter 20"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Letter 21"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Letter 22"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Letter 40"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Letter 41"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Letter 51"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Letter 57"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Letter 61"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Letter 62"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Letter 63"
+      }
+    }
+  ]
+}

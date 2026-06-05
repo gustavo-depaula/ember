@@ -1,0 +1,111 @@
+{
+  "id": "augustine-holy-trinity",
+  "name": {
+    "en-US": "On the Holy Trinity"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1301.htm",
+      "description": "Translated by Arthur West Haddan. From Nicene and Post-Nicene Fathers, First Series, Vol. 3, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Book 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Book 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Book 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Book 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Book 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Book 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Book 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Book 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Book 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Book 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Book 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Book 15"
+      }
+    }
+  ]
+}

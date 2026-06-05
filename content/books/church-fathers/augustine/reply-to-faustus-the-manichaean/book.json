@@ -1,0 +1,219 @@
+{
+  "id": "augustine-reply-to-faustus-the-manichaean",
+  "name": {
+    "en-US": "Reply to Faustus the Manichaean"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1406.htm",
+      "description": "Translated by Richard Stothert. From Nicene and Post-Nicene Fathers, First Series, Vol. 4, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Book 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Book 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Book 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Book 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Book 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Book 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Book 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Book 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Book 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Book 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Book 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Book 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Book 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Book 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Book 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Book 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Book 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Book 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Book 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Book 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Book 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Book 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Book 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Book 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Book 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Book 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Book 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Book 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Book 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Book 33"
+      }
+    }
+  ]
+}

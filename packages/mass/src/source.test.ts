@@ -147,4 +147,25 @@ describe('massOfSource', () => {
     const result = (await source.load({}, makeCtx(new Date(2026, 5, 9)))) as DayLiturgies
     expect(['I', 'II']).toContain(result.cycle)
   })
+
+  it('uses the Sunday cycle for a solemnity falling on a weekday (Corpus Christi)', async () => {
+    // Corpus Christi 2026 = Thursday 2026-06-04. Its formulary keys readings
+    // under A/B/C even though Thursday's default cycle is I/II — so the picker
+    // must read off the formulary's actual reading keys.
+    const corpusChristi = {
+      id: 'tempore.solemnity.corpus-christi',
+      source: 'tempore',
+      rank: 'solemnity',
+      title: { 'en-US': 'Corpus Christi' },
+      readings: { A: {}, B: {}, C: {} },
+    }
+    const source = createMassOfSource(
+      makeData({
+        masses: { 'mass/of/tempore/solemnity/corpus-christi': corpusChristi },
+        ordinaries: { 'of/ordinary/ordinario': {} },
+      }),
+    )
+    const result = (await source.load({}, makeCtx(new Date(2026, 5, 4)))) as DayLiturgies
+    expect(['A', 'B', 'C']).toContain(result.cycle)
+  })
 })

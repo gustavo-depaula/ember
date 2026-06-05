@@ -1,0 +1,183 @@
+{
+  "id": "collection/john-chrysostom",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "St. John Chrysostom"
+  },
+  "description": {
+    "en-US": "\"Golden-Mouthed\" (c. 349–407). Archbishop of Constantinople, the greatest preacher of the early Church — his homilies on Scripture still shape the liturgy of both East and West."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "johnchrysostom"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "\"Golden-Mouthed\" (c. 349–407). Archbishop of Constantinople, the greatest preacher of the early Church — his homilies on Scripture still shape the liturgy of both East and West."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "36 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-commentary-on-galatians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-correspondence-with-pope-innocent-i"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-first-homily-on-eutropius"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-four-letters-to-olympias"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-acts"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-colossians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-ephesians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-first-corinthians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-first-thessalonians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-first-timothy"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-philemon"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-philippians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-romans"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-second-corinthians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-second-thessalonians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-second-timothy"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-the-epistle-to-the-hebrews"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-the-gospel-of-john"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-the-gospel-of-st-matthew"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-the-statues"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homilies-on-titus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homily-against-publishing-the-errors-of-the-brethren"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homily-concerning-lowliness-of-mind"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homily-on-st-babylas"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homily-on-st-ignatius"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homily-on-the-paralytic-lowered-through-the-roof"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homily-on-the-passage-father-if-it-be-possible"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-homily-on-the-passage-if-your-enemy-hunger-feed-him"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-instructions-to-catechumens"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-letter-to-a-young-widow"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-letter-to-some-priests-of-antioch"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-no-one-can-harm-the-man-who-does-not-injure-himself"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-priesthood"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-second-homily-on-eutropius"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-three-homilies-on-the-power-of-satan"
+        },
+        {
+          "kind": "item",
+          "ref": "book/john-chrysostom-two-letters-to-theodore-after-his-fall"
+        }
+      ]
+    }
+  ]
+}

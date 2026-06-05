@@ -1,0 +1,81 @@
+{
+  "id": "augustine-homilies-on-the-first-epistle-of-john",
+  "name": {
+    "en-US": "Homilies on the First Epistle of John"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1702.htm",
+      "description": "Translated by H. Browne. From Nicene and Post-Nicene Fathers, First Series, Vol. 7, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1888. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Homily 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Homily 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Homily 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Homily 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Homily 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Homily 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Homily 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Homily 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Homily 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Homily 10"
+      }
+    }
+  ]
+}

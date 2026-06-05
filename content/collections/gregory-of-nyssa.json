@@ -1,0 +1,99 @@
+{
+  "id": "collection/gregory-of-nyssa",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "St. Gregory of Nyssa"
+  },
+  "description": {
+    "en-US": "Cappadocian Father and brother of Basil (c. 335–c. 395). The most metaphysically subtle of the Cappadocians — *On the Soul and the Resurrection*, *Against Eunomius*, *The Great Catechism*."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "gregorynyssa"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "Cappadocian Father and brother of Basil (c. 335–c. 395). The most metaphysically subtle of the Cappadocians — *On the Soul and the Resurrection*, *Against Eunomius*, *The Great Catechism*."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "15 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-against-eunomius"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-answer-to-eunomius-second-book"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-baptism-of-christ"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-faith"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-funeral-oration-on-meletius"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-great-catechism"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-holy-spirit"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-holy-trinity-and-of-the-godhead-of-the-holy-spirit"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-infants-early-deaths"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-letters"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-making-of-man"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-not-three-gods"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-pilgrimages"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-soul-and-the-resurrection"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-nyssa-virginity"
+        }
+      ]
+    }
+  ]
+}

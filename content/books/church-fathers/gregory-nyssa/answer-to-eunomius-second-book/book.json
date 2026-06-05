@@ -1,0 +1,27 @@
+{
+  "id": "gregory-nyssa-answer-to-eunomius-second-book",
+  "name": {
+    "en-US": "Answer to Eunomius' Second Book"
+  },
+  "author": {
+    "en-US": "Gregory of Nyssa"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2902.htm",
+      "description": "Translated by M. Day. From Nicene and Post-Nicene Fathers, Second Series, Vol. 5, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1893. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Answer to Eunomius' Second Book"
+      }
+    }
+  ]
+}

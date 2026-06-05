@@ -209,7 +209,7 @@ export function LibraryFeed() {
         leading={<LibraryIcon size={22} color={theme.accent?.val} />}
         title={t('library.browse')}
         tagline={t('library.browseHint')}
-        onPress={() => router.push('/browse')}
+        onPress={() => router.push('/browse/all')}
       />
 
       <CreateCollectionSheet

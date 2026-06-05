@@ -1,0 +1,27 @@
+{
+  "id": "irenaeus-fragments-from-the-lost-writings",
+  "name": {
+    "en-US": "Fragments from the Lost Writings of Irenaeus"
+  },
+  "author": {
+    "en-US": "Irenaeus of Lyons"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0134.htm",
+      "description": "Translated by Alexander Roberts. From Ante-Nicene Fathers, Vol. 1, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Fragments from the Lost Writings of Irenaeus"
+      }
+    }
+  ]
+}

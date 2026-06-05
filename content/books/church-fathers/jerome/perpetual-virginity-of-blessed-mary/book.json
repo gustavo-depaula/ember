@@ -1,0 +1,27 @@
+{
+  "id": "jerome-perpetual-virginity-of-blessed-mary",
+  "name": {
+    "en-US": "The Perpetual Virginity of Blessed Mary"
+  },
+  "author": {
+    "en-US": "Jerome"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3007.htm",
+      "description": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1893. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "The Perpetual Virginity of Blessed Mary"
+      }
+    }
+  ]
+}

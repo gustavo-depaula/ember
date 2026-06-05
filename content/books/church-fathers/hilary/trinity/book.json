@@ -1,0 +1,93 @@
+{
+  "id": "hilary-trinity",
+  "name": {
+    "en-US": "On the Trinity"
+  },
+  "author": {
+    "en-US": "Hilary of Poitiers"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3302.htm",
+      "description": "Translated by E.W. Watson and L. Pullan. From Nicene and Post-Nicene Fathers, Second Series, Vol. 9, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1899. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book III"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Book IV"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Book V"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Book VI"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Book VII"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Book VIII"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Book IX"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Book X"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Book XI"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Book XII"
+      }
+    }
+  ]
+}

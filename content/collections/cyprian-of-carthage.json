@@ -1,0 +1,55 @@
+{
+  "id": "collection/cyprian-of-carthage",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "St. Cyprian of Carthage"
+  },
+  "description": {
+    "en-US": "Bishop and martyr (c. 200–258). Pastoral letters on the unity of the Church, the lapsed, the duties of the bishop — and his own martyrdom under Valerian."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "cyprian"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "Bishop and martyr (c. 200–258). Pastoral letters on the unity of the Church, the lapsed, the duties of the bishop — and his own martyrdom under Valerian."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "4 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/cyprian-epistles"
+        },
+        {
+          "kind": "item",
+          "ref": "book/cyprian-life-and-passion"
+        },
+        {
+          "kind": "item",
+          "ref": "book/cyprian-seventh-council-of-carthage"
+        },
+        {
+          "kind": "item",
+          "ref": "book/cyprian-treatises"
+        }
+      ]
+    }
+  ]
+}

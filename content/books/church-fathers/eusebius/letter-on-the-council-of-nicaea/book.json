@@ -1,0 +1,27 @@
+{
+  "id": "eusebius-letter-on-the-council-of-nicaea",
+  "name": {
+    "en-US": "Letter on the Council of Nicaea"
+  },
+  "author": {
+    "en-US": "Eusebius of Caesarea (c. 265-c. 340)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2804.htm",
+      "description": "Translated by John Henry Newman and Archibald Robertson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1892. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Letter on the Council of Nicaea"
+      }
+    }
+  ]
+}

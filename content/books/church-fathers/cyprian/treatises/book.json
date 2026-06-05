@@ -1,0 +1,87 @@
+{
+  "id": "cyprian-treatises",
+  "name": {
+    "en-US": "The Treatises of Cyprian"
+  },
+  "author": {
+    "en-US": "Cyprian of Carthage"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0507.htm",
+      "description": "Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 5, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1886. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Treatise I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Treatise II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Treatise III"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Treatise IV"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Treatise V"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Treatise VI"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Treatise VII"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Treatise VIII"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Treatise IX"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Treatise X"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Treatise XI"
+      }
+    }
+  ]
+}

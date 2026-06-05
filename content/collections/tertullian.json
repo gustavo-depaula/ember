@@ -1,0 +1,171 @@
+{
+  "id": "collection/tertullian",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Tertullian"
+  },
+  "description": {
+    "en-US": "African presbyter (c. 155–c. 240). Father of Latin Christianity, coiner of Trinitas, sacramentum, persona — the first great theological writer of the West, even after his late lapse into Montanism."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "tertullian"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "African presbyter (c. 155–c. 240). Father of Latin Christianity, coiner of Trinitas, sacramentum, persona — the first great theological writer of the West, even after his late lapse into Montanism."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "33 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/tertullian-ad-martyras"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-ad-nationes"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-against-hermogenes"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-against-marcion"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-against-praxeas"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-against-the-valentinians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-answer-to-the-jews"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-apology"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-apparel-of-women"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-appendix"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-baptism"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-de-corona"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-de-fuga-in-persecutione"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-de-spectaculis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-exhortation-to-chastity"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-fasting"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-flesh-of-christ"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-his-wife"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-idolatry"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-martyrdom-of-perpetua-and-felicity"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-modesty"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-monogamy"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-pallium"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-patience"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-prayer"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-prescription-against-heretics"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-repentance"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-resurrection-of-the-flesh"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-scapula"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-scorpiace"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-soul-s-testimony"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-treatise-on-the-soul"
+        },
+        {
+          "kind": "item",
+          "ref": "book/tertullian-veiling-of-virgins"
+        }
+      ]
+    }
+  ]
+}

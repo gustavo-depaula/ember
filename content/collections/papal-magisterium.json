@@ -1,0 +1,65 @@
+{
+	"id": "collection/papal-magisterium",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Papal Magisterium & Vatican II"
+	},
+	"description": {
+		"en-US": "A library of papal encyclicals, conciliar documents, and Roman declarations — from Boniface VIII's *Unam Sanctam* through John Paul II's social teaching."
+	},
+	"icon": "book",
+	"languages": [
+		"en-US"
+	],
+	"tags": [
+		"magisterium",
+		"papal",
+		"encyclicals",
+		"vatican-ii",
+		"cdf"
+	],
+	"prologue": {
+		"body": {
+			"en-US": "About 160 documents of the ordinary papal magisterium, the Second Vatican Council, and the Roman dicasteries — organized chronologically by pope. The texts are sourced from New Advent's Catholic Library. Pre-1923 documents (Leo XIII, Pius IX, earlier) are in the US public domain. Holy See documents after 1923 are © Libreria Editrice Vaticana; New Advent reproduces them under fair-use practice. For canonical reference, consult vatican.va."
+		}
+	},
+	"sections": [
+		{
+			"id": "the-library",
+			"title": {
+				"en-US": "Browse by Pope"
+			},
+			"description": {
+				"body": {
+					"en-US": "All imported documents, grouped by issuing authority and arranged chronologically."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/papal-magisterium" }
+			]
+		},
+		{
+			"id": "key-encyclicals",
+			"title": {
+				"en-US": "Key Encyclicals"
+			},
+			"description": {
+				"body": {
+					"en-US": "Foundational texts that define how Catholics think about reason, society, marriage, and the dignity of the human person."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_le13ae" },
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_le13id" },
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_pi11qa" },
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_pi11mb" },
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_pi12da" },
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_jo23pt" },
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_pa06hv" },
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_jp02ev" },
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_ec21gs" },
+				{ "kind": "item", "ref": "book/papal-magisterium#docs_ec21na" }
+			]
+		}
+	]
+}

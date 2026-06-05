@@ -1,0 +1,69 @@
+{
+  "id": "aphrahat-aphraates-demonstrations",
+  "name": {
+    "en-US": "Demonstrations"
+  },
+  "author": {
+    "en-US": "Aphrahat/Aphraates (c. 280-367)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3701.htm",
+      "description": "Translated by John Gwynn. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1890. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Demonstration I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Demonstration V"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Demonstration VI"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Demonstration VIII"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Demonstration X"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Demonstration XVII"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Demonstration XXI"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Demonstration XXII"
+      }
+    }
+  ]
+}

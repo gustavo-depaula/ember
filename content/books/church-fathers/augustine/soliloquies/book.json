@@ -1,0 +1,33 @@
+{
+  "id": "augustine-soliloquies",
+  "name": {
+    "en-US": "Soliloquies"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1703.htm",
+      "description": "Translated by C.C. Starbuck. From Nicene and Post-Nicene Fathers, First Series, Vol. 7, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1888. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book II"
+      }
+    }
+  ]
+}

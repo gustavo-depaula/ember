@@ -1,0 +1,27 @@
+{
+  "id": "apocrypha-doctrine-of-addai",
+  "name": {
+    "en-US": "The Doctrine of Addai (c. 400)"
+  },
+  "author": {
+    "en-US": "Apocrypha"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0853.htm",
+      "description": "Translated by B.P. Pratten. From Ante-Nicene Fathers, Vol. 8, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1886. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "The Doctrine of Addai (c. 400)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "polycarp-epistle-to-the-philippians",
+  "name": {
+    "en-US": "Epistle to the Philippians"
+  },
+  "author": {
+    "en-US": "Polycarp"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0136.htm",
+      "description": "Translated by Alexander Roberts and James Donaldson. From Ante-Nicene Fathers, Vol. 1, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Epistle to the Philippians"
+      }
+    }
+  ]
+}

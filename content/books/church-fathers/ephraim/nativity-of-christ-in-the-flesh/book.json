@@ -1,0 +1,27 @@
+{
+  "id": "ephraim-nativity-of-christ-in-the-flesh",
+  "name": {
+    "en-US": "On the Nativity of Christ in the Flesh"
+  },
+  "author": {
+    "en-US": "Ephraim the Syrian (306-373)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3703.htm",
+      "description": "Translated by J.B. Morris (Hymn nos. 1-13) and A. Edward Johnston (Hymn nos. 14-19). From Nicene and Post-Nicene Fathers, Second Series, Vol. 13, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1898. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "On the Nativity of Christ in the Flesh"
+      }
+    }
+  ]
+}

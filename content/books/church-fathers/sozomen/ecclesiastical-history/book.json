@@ -1,0 +1,81 @@
+{
+  "id": "sozomen-ecclesiastical-history",
+  "name": {
+    "en-US": "Ecclesiastical History"
+  },
+  "author": {
+    "en-US": "Sozomen (c. 375-c. 447)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2602.htm",
+      "description": "Translated by Chester D. Hartranft. From Nicene and Post-Nicene Fathers, Second Series, Vol. 2, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1890. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Address and Proposal"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Book III"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Book IV"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Book V"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Book VI"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Book VII"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Book VIII"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Book IX"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "gregory-nazianzen-letters",
+  "name": {
+    "en-US": "Letters"
+  },
+  "author": {
+    "en-US": "Gregory Nazianzen"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3103.htm",
+      "description": "Translated by Charles Gordon Browne and James Edward Swallow. From Nicene and Post-Nicene Fathers, Second Series, Vol. 7, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1894. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Letters"
+      }
+    }
+  ]
+}
