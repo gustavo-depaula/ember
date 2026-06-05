@@ -511,15 +511,15 @@ WORKS_CC: dict[str, WorkSpec] = {
         parts=[{"wid": 45, "did_la": 161, "did_en": 852, "label_en": "Hic est Liber", "label_la": "Hic est Liber", "rows": 111}],
     ),
     # ------ Quodlibetales — full bilingual (12 Quodlibets) ------
-    "quodlibetales-cc": WorkSpec(
-        slug="quodlibetales-cc",
-        sub_path="disputed-questions/quodlibetales-full",
-        book_id="aquinas-quodlibetales-cc",
-        name_en="Quodlibetal Questions (Full Bilingual)",
-        name_la="Quaestiones Quodlibetales (Bilinguis Plena)",
+    "quodlibetales": WorkSpec(
+        slug="quodlibetales",
+        sub_path="disputed-questions/quodlibetales",
+        book_id="aquinas-quodlibetales",
+        name_en="Quodlibetal Questions",
+        name_la="Quaestiones Quodlibetales",
         composed="1268–1272",
-        description_en="The twelve sets of *quodlibeta* (open-topic disputations) conducted by Aquinas at Paris and Naples during Advent and Lent. Full bilingual edition from aquinas.cc (Aquinas Institute), superseding the partial Geremia import.",
-        description_la="Duodecim quodlibeta — disputationes Thomae Parisienses et Neapolitanae apud Adventum et Quadragesimam habitae. Editio bilinguis plena ex aquinas.cc (Institutum Aquinatis).",
+        description_en="The twelve sets of *quodlibeta* (open-topic disputations) conducted by Aquinas at Paris (Advent and Lent, 1268–1272) and Naples, in which the master answered any question put by the audience. Full bilingual edition: Sandra Edwards for Quodlibets I–II (PIMS, 1983) and the Aquinas Institute team for III–XII.",
+        description_la="Duodecim quodlibeta — disputationes Thomae Parisienses (Adventu et Quadragesima, 1268–1272) et Neapolitanae, in quibus magister cuilibet ex auditoribus quaerenti respondebat.",
         en_translator_note="English translations: Sandra Edwards for Q I–II (PIMS, 1983); various translators for III–XII, edited by the Aquinas Institute. Mirrored from aquinas.cc.",
         parts=[
             {"wid": 32, "did_la": 862, "did_en": 913, "label_en": "Quodlibet I",   "label_la": "Quodlibet I",   "rows": 337},

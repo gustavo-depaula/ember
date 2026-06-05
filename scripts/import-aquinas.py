@@ -1719,11 +1719,16 @@ def build_dq_work(spec: DQWorkSpec) -> dict:
 
 
 def build_quodlibetales() -> dict:
-    """QDquodlib.htm holds all 12 Quodlibets in one file. Anchors are
-    "<Q>-<A>" (e.g. 1-1, 2-2, 9-4). Quodlibets 1 & 2 have English (Sandra
-    Edwards, PIMS 1983); the rest are Latin only with scattered English
-    fragments by Freddoso and West.
-    """
+    """Deprecated: the canonical full bilingual is now sourced from
+    aquinas.cc via scripts/scrape-aquinas-cc.py (slug "quodlibetales",
+    producing book id "aquinas-quodlibetales"). The Geremia mirror only
+    had partial English (Q I–II Edwards, scattered fragments for III–XII)
+    and the article anchoring was fragile, so we don't import it here."""
+    return {"book": "aquinas-quodlibetales", "skipped": "sourced from aquinas.cc"}
+
+
+def _unused_build_quodlibetales() -> dict:
+    """Original Geremia-based importer, kept for reference only."""
     src = CACHE / "QDquodlib.htm"
     if not src.is_file():
         return {"book": "aquinas-quodlibetales", "error": "missing QDquodlib.htm"}

@@ -186,10 +186,6 @@
 				{
 					"kind": "item",
 					"ref": "book/aquinas-quodlibetales"
-				},
-				{
-					"kind": "item",
-					"ref": "book/aquinas-quodlibetales-cc"
 				}
 			]
 		},
