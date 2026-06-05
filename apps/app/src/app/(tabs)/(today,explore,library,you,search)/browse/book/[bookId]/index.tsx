@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query'
-import { useLocalSearchParams, useRouter } from 'expo-router'
+import { type Href, useLocalSearchParams } from 'expo-router'
 import { ChevronRight } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -9,6 +9,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components/typography'
+import { ZoomLink } from '@/components/ZoomLink'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
@@ -27,7 +28,6 @@ type ReadingPosition = { chapterId: string; page: number }
 export default function BookDetailScreen() {
   const { bookId } = useLocalSearchParams<{ bookId: string }>()
   const { t } = useTranslation()
-  const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const nowPlaying = useNowPlayingClearance()
@@ -86,11 +86,10 @@ export default function BookDetailScreen() {
   }
   const ctaLabel = resumeChapterId ? t('book.continue') : t('book.startReading')
 
-  const openReader = (chapter?: string) =>
-    router.push({
-      pathname: '/browse/book/[bookId]/read',
-      params: chapter ? { bookId, chapter } : { bookId },
-    })
+  const readerHref = (chapter?: string): Href => ({
+    pathname: '/browse/book/[bookId]/read',
+    params: chapter ? { bookId, chapter } : { bookId },
+  })
 
   return (
     <>
@@ -109,7 +108,7 @@ export default function BookDetailScreen() {
           ctaLabel={ctaLabel}
           tone={toneByIndex(toneIndexForId(bookRef))}
           scrollY={scrollY}
-          onRead={() => openReader()}
+          readHref={readerHref()}
         />
 
         {/* Opaque column over the hero's lower bleed; paddingTop clears the
@@ -136,7 +135,7 @@ export default function BookDetailScreen() {
               toc={book.toc}
               lang={lang}
               currentChapterId={resumeChapterId}
-              onSelect={openReader}
+              buildHref={readerHref}
             />
           )}
         </YStack>
@@ -156,12 +155,12 @@ function Contents({
   toc,
   lang,
   currentChapterId,
-  onSelect,
+  buildHref,
 }: {
   toc: TocNode[]
   lang: string
   currentChapterId?: string
-  onSelect: (chapterId: string) => void
+  buildHref: (chapterId: string) => Href
 }) {
   const { t } = useTranslation()
   return (
@@ -181,7 +180,7 @@ function Contents({
             lang={lang}
             depth={0}
             currentChapterId={currentChapterId}
-            onSelect={onSelect}
+            buildHref={buildHref}
           />
         ))}
       </YStack>
@@ -194,13 +193,13 @@ function TocNodeRow({
   lang,
   depth,
   currentChapterId,
-  onSelect,
+  buildHref,
 }: {
   node: TocNode
   lang: string
   depth: number
   currentChapterId?: string
-  onSelect: (chapterId: string) => void
+  buildHref: (chapterId: string) => Href
 }) {
   const theme = useTheme()
   const title =
@@ -220,7 +219,7 @@ function TocNodeRow({
             lang={lang}
             depth={depth + 1}
             currentChapterId={currentChapterId}
-            onSelect={onSelect}
+            buildHref={buildHref}
           />
         ))}
       </YStack>
@@ -231,30 +230,31 @@ function TocNodeRow({
   const isCurrent = !!currentChapterId && node.id === currentChapterId
 
   return (
-    <Pressable
-      onPress={() => onSelect(node.id)}
-      accessibilityRole="link"
-      accessibilityLabel={title}
-    >
-      <XStack
-        alignItems="center"
-        gap="$sm"
-        paddingVertical="$sm"
-        paddingLeft={depth * 16}
-        borderBottomWidth={0.5}
-        borderColor="$accentSubtle"
-      >
-        <Typography
-          variant="interface"
-          fontSize="$3"
-          flex={1}
-          numberOfLines={2}
-          color={isCurrent ? '$accent' : '$color'}
+    <ZoomLink href={buildHref(node.id)}>
+      <Pressable accessibilityRole="link" accessibilityLabel={title}>
+        <XStack
+          alignItems="center"
+          gap="$sm"
+          paddingVertical="$sm"
+          paddingLeft={depth * 16}
+          borderBottomWidth={0.5}
+          borderColor="$accentSubtle"
         >
-          {title}
-        </Typography>
-        <ChevronRight size={16} color={isCurrent ? theme.accent?.val : theme.colorSecondary?.val} />
-      </XStack>
-    </Pressable>
+          <Typography
+            variant="interface"
+            fontSize="$3"
+            flex={1}
+            numberOfLines={2}
+            color={isCurrent ? '$accent' : '$color'}
+          >
+            {title}
+          </Typography>
+          <ChevronRight
+            size={16}
+            color={isCurrent ? theme.accent?.val : theme.colorSecondary?.val}
+          />
+        </XStack>
+      </Pressable>
+    </ZoomLink>
   )
 }

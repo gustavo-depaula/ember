@@ -7,7 +7,7 @@
  * stand in, exactly like the collection hero's art-less fallback.
  */
 
-import { useRouter } from 'expo-router'
+import { type Href, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
@@ -17,6 +17,7 @@ import { Text, YStack } from 'tamagui'
 
 import { GlassCircle, textShadow } from '@/components/ornaments'
 import { Typography } from '@/components/typography'
+import { ZoomLink } from '@/components/ZoomLink'
 import { type BlockTone, blockInk, blockLabelInk } from '@/features/explore/bgColor'
 
 export function BookHero({
@@ -25,14 +26,15 @@ export function BookHero({
   ctaLabel,
   tone,
   scrollY,
-  onRead,
+  readHref,
 }: {
   name: string
   author?: string
   ctaLabel: string
   tone: BlockTone
   scrollY: SharedValue<number>
-  onRead: () => void
+  /** Reader route — wrapped in Link.AppleZoom so the capsule morphs into the reader. */
+  readHref: Href
 }) {
   const router = useRouter()
   const { t } = useTranslation()
@@ -99,28 +101,29 @@ export function BookHero({
         )}
       </YStack>
 
-      <Pressable
-        onPress={onRead}
-        accessibilityRole="button"
-        accessibilityLabel={ctaLabel}
-        style={styles.capsuleWrap}
-      >
-        <YStack
-          backgroundColor="$accent"
-          borderRadius={9999}
-          paddingVertical="$sm"
-          paddingHorizontal="$xl"
-          shadowColor="#000"
-          shadowOffset={{ width: 0, height: 3 }}
-          shadowOpacity={0.3}
-          shadowRadius={10}
-          elevation={6}
+      <ZoomLink href={readHref}>
+        <Pressable
+          accessibilityRole="button"
+          accessibilityLabel={ctaLabel}
+          style={styles.capsuleWrap}
         >
-          <Typography variant="label" fontSize="$3" color="$background" numberOfLines={1}>
-            {ctaLabel}
-          </Typography>
-        </YStack>
-      </Pressable>
+          <YStack
+            backgroundColor="$accent"
+            borderRadius={9999}
+            paddingVertical="$sm"
+            paddingHorizontal="$xl"
+            shadowColor="#000"
+            shadowOffset={{ width: 0, height: 3 }}
+            shadowOpacity={0.3}
+            shadowRadius={10}
+            elevation={6}
+          >
+            <Typography variant="label" fontSize="$3" color="$background" numberOfLines={1}>
+              {ctaLabel}
+            </Typography>
+          </YStack>
+        </Pressable>
+      </ZoomLink>
     </YStack>
   )
 }
