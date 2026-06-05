@@ -16,6 +16,12 @@ export type BookContent = {
 
 export type TocLeaf = { id: string; index: number }
 
+export type LoadProgress = {
+  phase: 'manifest' | 'chapters' | 'images'
+  completed: number
+  total: number
+}
+
 function mimeForExt(filename: string): string {
   if (filename.endsWith('.jpg') || filename.endsWith('.jpeg')) return 'image/jpeg'
   if (filename.endsWith('.png')) return 'image/png'
@@ -54,30 +60,41 @@ function bytesToBase64(bytes: Uint8Array): string {
  * content corpus. Each chapter is a separate hash-addressed blob; images are
  * inlined as base64 data URIs so they survive the WebView shell regardless of
  * FS path conventions.
+ *
+ * Reports progress through the three phases (manifest → chapters → images)
+ * so the loading screen can show a real progress bar instead of a spinner.
  */
 export async function loadBookContent(
   bookId: string,
   lang: string,
   chapterIds: string[],
+  onProgress?: (p: LoadProgress) => void,
 ): Promise<BookContent> {
   const corpusId = bookId.startsWith('book/') ? bookId : `book/${bookId}`
   const entry = getEntry(corpusId)
   if (!entry) return { css: '', chapters: new Map(), images: new Map() }
 
+  onProgress?.({ phase: 'manifest', completed: 0, total: 1 })
   let manifest = getRememberedManifest<BookEntry>(entry.hash)
   if (!manifest) manifest = await getJson<BookEntry>(entry.hash)
-
   const css = manifest.style ? await getText(manifest.style.hash).catch(() => '') : ''
+  onProgress?.({ phase: 'manifest', completed: 1, total: 1 })
 
   const chapters = new Map<string, string>()
+  const chapterTotal = chapterIds.length
+  let chapterDone = 0
+  onProgress?.({ phase: 'chapters', completed: 0, total: chapterTotal })
   await Promise.all(
     chapterIds.map(async (id) => {
       const ref = manifest.chapters?.[id]?.[lang]
-      if (!ref || !('hash' in ref)) return
-      try {
-        const raw = await getText(ref.hash)
-        chapters.set(id, ref.format === 'html' ? raw : await md.parse(raw))
-      } catch {}
+      if (ref && 'hash' in ref) {
+        try {
+          const raw = await getText(ref.hash)
+          chapters.set(id, ref.format === 'html' ? raw : await md.parse(raw))
+        } catch {}
+      }
+      chapterDone++
+      onProgress?.({ phase: 'chapters', completed: chapterDone, total: chapterTotal })
     }),
   )
 
@@ -88,15 +105,22 @@ export async function loadBookContent(
   }
 
   const images = new Map<string, string>()
+  const imageSrcs = collectImgSrcs(chapters.values())
+  const imageTotal = imageSrcs.length
+  let imageDone = 0
+  if (imageTotal > 0) onProgress?.({ phase: 'images', completed: 0, total: imageTotal })
   await Promise.all(
-    collectImgSrcs(chapters.values()).map(async (src) => {
+    imageSrcs.map(async (src) => {
       const ref = imageRefs.get(src)
-      if (!ref) return
-      try {
-        const bytes = await getBlob(ref.hash)
-        const mime = ref.mime ?? mimeForExt(src)
-        images.set(src, `data:${mime};base64,${bytesToBase64(bytes)}`)
-      } catch {}
+      if (ref) {
+        try {
+          const bytes = await getBlob(ref.hash)
+          const mime = ref.mime ?? mimeForExt(src)
+          images.set(src, `data:${mime};base64,${bytesToBase64(bytes)}`)
+        } catch {}
+      }
+      imageDone++
+      onProgress?.({ phase: 'images', completed: imageDone, total: imageTotal })
     }),
   )
 

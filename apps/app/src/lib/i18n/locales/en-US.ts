@@ -875,6 +875,13 @@ export default {
     chaptersOf: '{{read}} of {{total}} chapters',
     markAll: 'Mark all',
     unmarkAll: 'Unmark all',
+    menu: 'Menu',
+    themesAndSettings: 'Themes & Settings',
+    pageOfTotal: 'Page {{page}} of {{pages}}',
+    opening: 'Opening…',
+    loadingManifest: 'Loading book…',
+    loadingChapters: 'Loading chapters ({{done}} of {{total}})',
+    loadingImages: 'Loading images ({{done}} of {{total}})',
   },
 
   position: {

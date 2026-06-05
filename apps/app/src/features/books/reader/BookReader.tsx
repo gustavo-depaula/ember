@@ -10,7 +10,13 @@ import { getBookEntry } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { buildTitleLookup, flattenTocLeaves, getChapterBody, loadBookContent } from './bookContent'
+import {
+  buildTitleLookup,
+  flattenTocLeaves,
+  getChapterBody,
+  type LoadProgress,
+  loadBookContent,
+} from './bookContent'
 import { FoliateReader, type FoliateReaderHandle } from './foliate/FoliateReader'
 import { ReaderMenuSheet } from './ReaderMenuSheet'
 import { ReaderOverlay } from './ReaderOverlay'
@@ -22,6 +28,16 @@ import { useReaderCursor } from './useReaderCursor'
 type Props = {
   bookId: string
   chapter?: string
+}
+
+// Map the three load phases to a smooth 0..1 fill so the bar never resets.
+// Manifest: 0..0.1, chapters: 0.1..0.7, images: 0.7..1.0.
+function computeProgressFraction(p: LoadProgress | undefined): number {
+  if (!p) return 0
+  const ratio = p.total > 0 ? p.completed / p.total : 0
+  if (p.phase === 'manifest') return ratio * 0.1
+  if (p.phase === 'chapters') return 0.1 + ratio * 0.6
+  return 0.7 + ratio * 0.3
 }
 
 export function BookReader({ bookId, chapter }: Props) {
@@ -80,6 +96,8 @@ export function BookReader({ bookId, chapter }: Props) {
     return { startIndex: 0, startFraction: 0 }
   }, [leaves, chapter, cursor.initial])
 
+  const [loadProgress, setLoadProgress] = useState<LoadProgress | undefined>(undefined)
+
   const {
     data: bookContent,
     isLoading,
@@ -92,6 +110,7 @@ export function BookReader({ bookId, chapter }: Props) {
         bookId,
         lang,
         leaves.map((l) => l.id),
+        setLoadProgress,
       ),
     enabled: !!bookEntry && leaves.length > 0 && cursor.initial.loaded,
     staleTime: Number.POSITIVE_INFINITY,
@@ -177,8 +196,17 @@ export function BookReader({ bookId, chapter }: Props) {
 
   if (isLoading || !cursor.initial.loaded || !chapters) {
     // Themed loading: the AppleZoom morph just landed and the user expects to
-    // see *this* book opening, not a black void. Show the title in the reader's
-    // chosen typography on the reader's background until the chapters arrive.
+    // see *this* book opening, not a black void. Show the title + a phased
+    // progress bar so big books (Aquinas) don't look hung.
+    const fraction = computeProgressFraction(loadProgress)
+    const statusKey =
+      loadProgress?.phase === 'images'
+        ? 'books.loadingImages'
+        : loadProgress?.phase === 'chapters'
+          ? 'books.loadingChapters'
+          : loadProgress?.phase === 'manifest'
+            ? 'books.loadingManifest'
+            : 'books.opening'
     return (
       <YStack
         flex={1}
@@ -199,14 +227,26 @@ export function BookReader({ bookId, chapter }: Props) {
           {bookTitle}
         </Text>
         <View
-          width={36}
-          height={2}
+          width={220}
+          height={3}
           backgroundColor={config.color}
-          opacity={0.25}
-          borderRadius={1}
-        />
-        <Text fontFamily="$body" fontSize="$1" color={config.color} opacity={0.45}>
-          {t('books.opening', { defaultValue: 'Opening…' })}
+          opacity={0.15}
+          borderRadius={2}
+          overflow="hidden"
+        >
+          <View
+            width={`${Math.round(fraction * 100)}%`}
+            height={3}
+            backgroundColor={config.color}
+            opacity={1}
+          />
+        </View>
+        <Text fontFamily="$body" fontSize="$1" color={config.color} opacity={0.55}>
+          {t(statusKey, {
+            defaultValue: 'Opening…',
+            done: loadProgress?.completed ?? 0,
+            total: loadProgress?.total ?? 0,
+          })}
         </Text>
       </YStack>
     )

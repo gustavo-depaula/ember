@@ -211,14 +211,21 @@ function buildHostHtml({
           post({ type: 'load', index: e.detail.index });
           // Wire tap zones inside the chapter iframe: left 30% = prev, right
           // 30% = next, middle posts centerTap so the chrome can toggle.
+          //
+          // ev.clientX is iframe-local — the iframe is sized to the FULL
+          // multi-column content (much wider than the visible viewport), and
+          // foliate scrolls the parent container to reveal one column at a
+          // time. So we have to subtract paginator.start (current scroll
+          // offset) to recover the on-screen x. paginator.size is the visible
+          // page width (one column).
           const doc = e.detail.doc;
           if (doc && !doc.__tapWired) {
             doc.__tapWired = true;
             doc.addEventListener('click', (ev) => {
-              const x = ev.clientX;
-              const w = doc.defaultView.innerWidth;
-              if (x < w * 0.3) paginator.prev();
-              else if (x > w * 0.7) paginator.next();
+              const visibleX = ev.clientX - paginator.start;
+              const w = paginator.size;
+              if (visibleX < w * 0.3) paginator.prev();
+              else if (visibleX > w * 0.7) paginator.next();
               else post({ type: 'centerTap' });
             });
           }

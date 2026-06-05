@@ -8,8 +8,12 @@ import { Text } from 'tamagui'
 import { GlassSurface } from '@/components/GlassSurface'
 
 const PILL_HEIGHT = 36
-const ICON_SIZE = 36
+// Apple HIG floor is 44pt; Apple Books's close X looks ~48pt — match that.
+const ACTION_SIZE = 48
 const FADE_MS = 180
+// Side padding for both default-state pills (centered) and action buttons
+// (right-aligned). 16pt clears the safe area cleanly without crowding.
+const SIDE_PADDING = 16
 
 type Props = {
   title: string
@@ -23,9 +27,11 @@ type Props = {
 }
 
 /**
- * Apple Books–style minimal chrome: two persistent Liquid Glass pills (book
- * title up top, page indicator at the bottom) that cross-fade their inner
- * content into action buttons (X / •••) when the user taps the page center.
+ * Apple Books–style minimal chrome. Default state: two persistent Liquid
+ * Glass pills, CENTERED — book title (top) and "Page X of Y" (bottom). On
+ * center-tap the chrome mode shows action buttons RIGHT-aligned (top: close
+ * X, bottom: menu •••) at ~48pt diameter, matching Apple Books's Reading
+ * Now overlay.
  *
  * `pointer-events: box-none` on the container so taps fall through to the
  * WebView; only the pills capture touches.
@@ -53,36 +59,39 @@ export function ReaderOverlay({
         { paddingTop: insets.top + 8, paddingBottom: insets.bottom + 12 },
       ]}
     >
-      {/* Top pill */}
-      <View pointerEvents="box-none" style={styles.row}>
-        {chromeShown ? (
-          <Animated.View
-            key="top-close"
-            entering={FadeIn.duration(FADE_MS)}
-            exiting={FadeOut.duration(FADE_MS)}
+      {/* Top: centered title pill OR right-aligned close button */}
+      {chromeShown ? (
+        <Animated.View
+          key="top-close"
+          pointerEvents="box-none"
+          entering={FadeIn.duration(FADE_MS)}
+          exiting={FadeOut.duration(FADE_MS)}
+          style={[styles.rightRow, { paddingRight: SIDE_PADDING }]}
+        >
+          <Pressable
+            onPress={onClose}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.closeBook', { defaultValue: 'Close book' })}
           >
-            <Pressable
-              onPress={onClose}
-              hitSlop={8}
-              accessibilityRole="button"
-              accessibilityLabel={t('a11y.closeBook', { defaultValue: 'Close book' })}
+            <GlassSurface
+              isDark={isDark}
+              tintColor={tintColor}
+              style={[styles.actionPill, { width: ACTION_SIZE, height: ACTION_SIZE }]}
             >
-              <GlassSurface
-                isDark={isDark}
-                tintColor={tintColor}
-                style={[styles.iconPill, { width: ICON_SIZE, height: ICON_SIZE }]}
-              >
-                <X size={18} color={color} />
-              </GlassSurface>
-            </Pressable>
-          </Animated.View>
-        ) : (
-          <Animated.View
-            key="top-title"
-            entering={FadeIn.duration(FADE_MS)}
-            exiting={FadeOut.duration(FADE_MS)}
-            style={styles.titleWrap}
-          >
+              <X size={22} color={color} />
+            </GlassSurface>
+          </Pressable>
+        </Animated.View>
+      ) : (
+        <Animated.View
+          key="top-title"
+          pointerEvents="box-none"
+          entering={FadeIn.duration(FADE_MS)}
+          exiting={FadeOut.duration(FADE_MS)}
+          style={styles.centerRow}
+        >
+          <View style={styles.titleWrap}>
             <GlassSurface
               isDark={isDark}
               tintColor={tintColor}
@@ -99,66 +108,68 @@ export function ReaderOverlay({
                 {title}
               </Text>
             </GlassSurface>
-          </Animated.View>
-        )}
-      </View>
+          </View>
+        </Animated.View>
+      )}
 
       {/* Spacer */}
       <View pointerEvents="none" style={{ flex: 1 }} />
 
-      {/* Bottom pill */}
-      <View pointerEvents="box-none" style={styles.row}>
-        {chromeShown ? (
-          <Animated.View
-            key="bottom-menu"
-            entering={FadeIn.duration(FADE_MS)}
-            exiting={FadeOut.duration(FADE_MS)}
-          >
-            <Pressable
-              onPress={onMenu}
-              hitSlop={8}
-              accessibilityRole="button"
-              accessibilityLabel={t('books.menu', { defaultValue: 'Menu' })}
-            >
-              <GlassSurface
-                isDark={isDark}
-                tintColor={tintColor}
-                style={[styles.iconPill, { width: ICON_SIZE, height: ICON_SIZE }]}
-              >
-                <MoreHorizontal size={20} color={color} />
-              </GlassSurface>
-            </Pressable>
-          </Animated.View>
-        ) : (
-          <Animated.View
-            key="bottom-page"
-            entering={FadeIn.duration(FADE_MS)}
-            exiting={FadeOut.duration(FADE_MS)}
+      {/* Bottom: centered page pill OR right-aligned menu button */}
+      {chromeShown ? (
+        <Animated.View
+          key="bottom-menu"
+          pointerEvents="box-none"
+          entering={FadeIn.duration(FADE_MS)}
+          exiting={FadeOut.duration(FADE_MS)}
+          style={[styles.rightRow, { paddingRight: SIDE_PADDING }]}
+        >
+          <Pressable
+            onPress={onMenu}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={t('books.menu', { defaultValue: 'Menu' })}
           >
             <GlassSurface
               isDark={isDark}
               tintColor={tintColor}
-              isInteractive={false}
-              style={styles.pagePill}
+              style={[styles.actionPill, { width: ACTION_SIZE, height: ACTION_SIZE }]}
             >
-              <Text fontFamily="$body" fontSize="$1" color={color} style={styles.pageText}>
-                {t('books.pageOfTotal', {
-                  defaultValue: 'Page {{page}} of {{pages}}',
-                  page,
-                  pages,
-                })}
-              </Text>
+              <MoreHorizontal size={24} color={color} />
             </GlassSurface>
-          </Animated.View>
-        )}
-      </View>
+          </Pressable>
+        </Animated.View>
+      ) : (
+        <Animated.View
+          key="bottom-page"
+          pointerEvents="box-none"
+          entering={FadeIn.duration(FADE_MS)}
+          exiting={FadeOut.duration(FADE_MS)}
+          style={styles.centerRow}
+        >
+          <GlassSurface
+            isDark={isDark}
+            tintColor={tintColor}
+            isInteractive={false}
+            style={styles.pagePill}
+          >
+            <Text fontFamily="$body" fontSize="$1" color={color} style={styles.pageText}>
+              {t('books.pageOfTotal', {
+                defaultValue: 'Page {{page}} of {{pages}}',
+                page,
+                pages,
+              })}
+            </Text>
+          </GlassSurface>
+        </Animated.View>
+      )}
     </View>
   )
 }
 
-// The user's chosen theme bg is the reader's background. We need to pick the
-// glass colorScheme so the surface stays legible — anything darker than mid
-// gray is "dark."
+// The user's chosen theme bg is the reader's background. We pick the glass
+// colorScheme so the surface stays legible — anything darker than mid gray
+// is "dark."
 function isDarkBackground(hex: string): boolean {
   const h = hex.replace('#', '')
   if (h.length !== 6) return false
@@ -169,7 +180,8 @@ function isDarkBackground(hex: string): boolean {
 }
 
 const styles = StyleSheet.create({
-  row: { alignItems: 'center', justifyContent: 'center' },
+  centerRow: { alignItems: 'center', justifyContent: 'center' },
+  rightRow: { alignItems: 'flex-end', justifyContent: 'center' },
   titleWrap: { maxWidth: '80%' },
   titlePill: {
     height: PILL_HEIGHT,
@@ -179,7 +191,7 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
   },
   titleText: { textAlign: 'center' },
-  iconPill: {
+  actionPill: {
     borderRadius: 9999,
     alignItems: 'center',
     justifyContent: 'center',

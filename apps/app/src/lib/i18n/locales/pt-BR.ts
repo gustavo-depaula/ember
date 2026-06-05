@@ -883,6 +883,13 @@ export default {
     chaptersOf: '{{read}} de {{total}} cap\u00edtulos',
     markAll: 'Marcar tudo',
     unmarkAll: 'Desmarcar tudo',
+    menu: 'Menu',
+    themesAndSettings: 'Temas e Ajustes',
+    pageOfTotal: 'P\u00e1gina {{page}} de {{pages}}',
+    opening: 'Abrindo\u2026',
+    loadingManifest: 'Carregando livro\u2026',
+    loadingChapters: 'Carregando cap\u00edtulos ({{done}} de {{total}})',
+    loadingImages: 'Carregando imagens ({{done}} de {{total}})',
   },
 
   position: {
