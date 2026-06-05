@@ -6,6 +6,7 @@ type FoliateMessage =
   | { type: 'ready' }
   | { type: 'relocate'; index: number; fraction: number }
   | { type: 'load'; index: number }
+  | { type: 'centerTap' }
   | { type: 'log'; message: string }
   | { type: 'error'; message: string }
 
@@ -154,6 +155,7 @@ function buildHostHtml({
         if (!paginator) {
           paginator = document.createElement('foliate-paginator');
           paginator.setAttribute('flow', 'paginated');
+          paginator.setAttribute('animated', ''); // smoother page-turn snap
           paginator.setAttribute('margin', '48px');
           paginator.setAttribute('gap', '7%');
           paginator.setAttribute('max-inline-size', '720px');
@@ -167,6 +169,19 @@ function buildHostHtml({
           });
           paginator.addEventListener('load', (e) => {
             post({ type: 'load', index: e.detail.index });
+            // Wire tap zones inside the chapter iframe: left 30% = prev,
+            // right 30% = next, middle = nothing (reserved for chrome toggle).
+            const doc = e.detail.doc;
+            if (doc && !doc.__tapWired) {
+              doc.__tapWired = true;
+              doc.addEventListener('click', (ev) => {
+                const x = ev.clientX;
+                const w = doc.defaultView.innerWidth;
+                if (x < w * 0.3) paginator.prev();
+                else if (x > w * 0.7) paginator.next();
+                else post({ type: 'centerTap' });
+              });
+            }
           });
           document.body.append(paginator);
         }
@@ -196,7 +211,7 @@ function buildHostHtml({
 <style>html, body { margin: 0; padding: 0; height: 100%; background: ${theme.background}; }</style>
 </head>
 <body>
-<script type="module">${paginatorScript}</script>
+<script>${paginatorScript}</script>
 <script>${bootstrap}</script>
 </body>
 </html>`

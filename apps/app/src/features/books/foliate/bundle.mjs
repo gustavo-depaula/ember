@@ -10,7 +10,15 @@ import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const here = dirname(fileURLToPath(import.meta.url))
-const src = readFileSync(join(here, 'paginator.raw.js'), 'utf8')
+const raw = readFileSync(join(here, 'paginator.raw.js'), 'utf8')
+
+// Strip ES-module syntax so the script can run as a classic `<script>` inside
+// a WebView whose document is `about:blank`. Module scripts get "Script error.
+// @0" with CORS masking; classic scripts just run. The only top-level export
+// is `export class Paginator`, and the side effect we actually want is the
+// `customElements.define(...)` at the bottom, so dropping the `export` is
+// sufficient.
+const src = raw.replace(/^export\s+class\b/m, 'class')
 
 const out = `/**
  * Vendored from foliate-js (https://github.com/johnfactotum/foliate-js) — MIT.
