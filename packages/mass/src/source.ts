@@ -274,7 +274,7 @@ export function createMassOfSource(data: MassOfDataSource): DataSource {
       return {
         celebrations,
         ordinary,
-        cycle: pickCycle(date),
+        cycle: pickCycle(date, celebrations[0]),
       }
     },
   }
