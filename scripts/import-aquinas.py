@@ -185,9 +185,15 @@ def parse_summa_question(path: Path, part_code: str) -> SummaQuestion:
     current: dict | None = None
     next_anchor_id = id(sections[0]["anchor"]) if sections else None
 
+    # Also collect <p> elements per section as a fallback. Some Geremia
+    # Summa files (e.g. SS Q23, SS Q24 — the charity questions) are
+    # English-only with <p> paragraphs instead of bilingual <tr>/<td>.
+    # We collect them in parallel and use them only when the table rows
+    # are empty for that section.
     for el in body.find_all(True):  # iterate every descendant tag
         if el.name == "a" and el.get("name") and id(el) in anchors:
             current = anchors[id(el)]
+            current.setdefault("p_rows", [])
             continue
         if current is None:
             continue
@@ -200,6 +206,16 @@ def parse_summa_question(path: Path, part_code: str) -> SummaQuestion:
                 en = td_text(tds[1])
                 if la or en:
                     current["rows"].append((la, en))
+        elif el.name == "p":
+            text = td_text(el)
+            if text.strip():
+                current.setdefault("p_rows", []).append(("", text))
+
+    # Fallback: for any section with empty table rows but populated <p>
+    # paragraphs, use the <p> content as English-only rows.
+    for s in sections:
+        if not s["rows"] and s.get("p_rows"):
+            s["rows"] = s["p_rows"]
 
     # The first section (proem) holds the Question's en/la title in its <h3>
     # and the proem prose in its <table>. For Q1 of each part, the <h3> also
