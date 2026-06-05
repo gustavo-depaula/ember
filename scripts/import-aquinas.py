@@ -2907,7 +2907,29 @@ def main() -> int:
         print(json.dumps(result, indent=2))
         return 0
     if cmd == "all":
+        # Works whose canonical bilingual source is aquinas.cc instead of
+        # Geremia. The builder here is either a no-op stub or — for the
+        # disputed-questions / Aristotle / biblical works — would overwrite
+        # the aquinas.cc-sourced content with the older Geremia-only
+        # rendering. Use `python3 scripts/scrape-aquinas-cc.py work <slug>`
+        # (or `summa` / `scg`) for any of these.
+        deprecated = {
+            "summa-theologiae", "summa-contra-gentiles", "quodlibetales",
+            "sentences",  # super-sententias
+            "compendium-corpus-christi", "compendium-theology",
+            "comm-physics", "comm-metaphysics", "comm-ethics", "comm-politics",
+            "comm-de-anima", "comm-posterior-analytics", "comm-peri-hermeneias",
+            "comm-de-caelo", "comm-generation-corruption", "comm-meteora",
+            "comm-de-sensu", "comm-de-memoria",
+            "super-iob", "super-threnos", "super-psalmos",
+            "de-veritate", "de-potentia", "qd-de-anima",
+            "de-spiritualibus-creaturis", "de-unione-verbi",
+            "boethius-de-trinitate",
+        }
         for wid, fn in WORK_BUILDERS.items():
+            if wid in deprecated:
+                print(f"[{wid}] skip — canonical source is aquinas.cc")
+                continue
             print(f"[{wid}]")
             result = fn()
             print(json.dumps(result, indent=2))
