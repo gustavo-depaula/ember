@@ -1542,6 +1542,7 @@ export default {
     openTableOfContents: 'Open table of contents',
     selectSection: 'Select section',
     readingSettings: 'Reading settings',
+    toggleReaderChrome: 'Toggle reader controls',
     selectTranslation: 'Select Bible translation',
     prevChapter: 'Previous chapter',
     nextChapter: 'Next chapter',

@@ -13,6 +13,7 @@ type ThemePreference = 'light' | 'dark' | 'system'
 type TextAlignment = 'justify' | 'left'
 type MarginPreset = 'narrow' | 'normal' | 'wide'
 type DisplayMode = 'side-by-side' | 'tap-to-switch'
+type BookLayoutPreference = 'paginated' | 'scroll'
 
 const contentLanguages: ContentLanguage[] = ['en-US', 'pt-BR', 'la']
 
@@ -54,6 +55,10 @@ type PreferencesState = {
   margin: MarginPreset
   textAlign: TextAlignment
 
+  // Book reader layout. `undefined` resolves to the device default (paginated
+  // on mobile, scroll on web) via `resolveLayout` in features/books/reader.
+  bookLayout: BookLayoutPreference | undefined
+
   // State
   hydrated: boolean
 
@@ -80,6 +85,7 @@ type PreferencesState = {
   setLineHeightStep: (step: number) => void
   setMargin: (margin: MarginPreset) => void
   setTextAlign: (align: TextAlignment) => void
+  setBookLayout: (layout: BookLayoutPreference | undefined) => void
 
   hydrate: () => Promise<void>
 }
@@ -102,6 +108,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     lineHeightStep: 5,
     margin: 'normal',
     textAlign: 'justify',
+    bookLayout: undefined,
     hydrated: false,
 
     setTranslation: (translation) => {
@@ -248,6 +255,17 @@ export const usePreferencesStore = create<PreferencesState>()(
       setPreference('reading-text-align', align)
     },
 
+    setBookLayout: (layout) => {
+      set((state) => {
+        state.bookLayout = layout
+      })
+      if (layout) {
+        setPreference('book-layout', layout)
+      } else {
+        removePreference('book-layout')
+      }
+    },
+
     hydrate: async () => {
       const prefs = await getAllPreferences()
 
@@ -297,6 +315,8 @@ export const usePreferencesStore = create<PreferencesState>()(
         if (margin === 'narrow' || margin === 'normal' || margin === 'wide') state.margin = margin
         const textAlign = prefs['reading-text-align']
         if (textAlign === 'justify' || textAlign === 'left') state.textAlign = textAlign
+        const bookLayout = prefs['book-layout']
+        if (bookLayout === 'paginated' || bookLayout === 'scroll') state.bookLayout = bookLayout
 
         // Enforce line height >= font size - 1
         const minLineHeight = Math.max(minStep, state.fontSizeStep - 1)

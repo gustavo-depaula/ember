@@ -26,9 +26,10 @@ export default function TabsLayout() {
   // player is shown there) — otherwise the accessory renders an empty pill.
   const showPlayer = !!nowPlaying && !pathname?.endsWith(`/episode/${nowPlaying.itemId}`)
 
-  // Slide the tab bar away on the praying screen (Apple's "hide bottom bar when
-  // pushed" pattern) — that screen carries its own glass back / settings buttons.
-  const hideTabBar = pathname?.includes('/pray/') ?? false
+  // Slide the tab bar away on full-screen reading surfaces (Apple's "hide
+  // bottom bar when pushed" pattern) — these screens carry their own back /
+  // settings chrome and want the page to dominate.
+  const hideTabBar = pathname?.includes('/pray/') || pathname?.endsWith('/read') || false
 
   return (
     <NativeTabs

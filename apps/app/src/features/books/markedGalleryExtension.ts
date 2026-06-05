@@ -114,7 +114,7 @@ export function parseBody(body: string): ParsedBodyItem[] {
   return items
 }
 
-function escapeHtml(input: string): string {
+export function escapeHtml(input: string): string {
   return input
     .replaceAll('&', '&amp;')
     .replaceAll('<', '&lt;')

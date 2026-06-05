@@ -1549,6 +1549,7 @@ export default {
     openTableOfContents: 'Abrir sumário',
     selectSection: 'Selecionar seção',
     readingSettings: 'Configurações de leitura',
+    toggleReaderChrome: 'Alternar controles do leitor',
     selectTranslation: 'Selecionar tradução da Bíblia',
     prevChapter: 'Capítulo anterior',
     nextChapter: 'Próximo capítulo',
