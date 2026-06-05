@@ -1,0 +1,3 @@
+# Prooemium
+
+***Deus Quaestionem Determinat***

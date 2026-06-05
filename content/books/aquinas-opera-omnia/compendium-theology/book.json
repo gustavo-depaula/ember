@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short systematic theology composed for Aquinas's secretary Reginald of Piperno, organized around the three theological virtues: faith, hope, and charity. Unfinished — the treatment of faith breaks off in the section on the Eucharist, and hope is incomplete. English translation by Cyril Vollert, S.J. (B. Herder, St. Louis, 1947).",
-    "la": "Theologia systematica brevis, Reginaldo de Piperno secretario dicta, circa tres virtutes theologicas ordinata: fidem, spem, caritatem. Opus inchoatum, morte interruptum."
+    "en-US": "An unfinished concise summary of theology in two books, addressed to Brother Reginald of Piperno. Aquinas covers faith (the Creed) in 246 chapters; hope (the Lord's Prayer) is incomplete; charity was never begun.",
+    "la": "Compendium theologiae breve, duobus libris constans, ad fratrem Reginaldum de Piperno directum, opus inchoatum. Fidem (Symbolum) 246 capitibus tractat; spes (Pater Noster) imperfecta est; caritas numquam coepta est."
   },
   "composed": "1265–1273",
   "languages": [
@@ -20,1310 +20,1839 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Cyril Vollert, S.J., *Compendium of Theology* (B. Herder Book Co., St. Louis, 1947). Translator's introduction notes the work was dedicated to Reginald of Piperno. Translation status: may be under copyright in the United States until 2042; mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Compendium Theologiae",
+      "description": "English translation by Cyril Vollert SJ (Herder, 1947), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Compendium Theologiae",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch001",
-      "title": {
-        "en-US": "Chapter 1 — SCOPE OF THE PRESENT WORK",
-        "la": "Caput 1 — SCOPE OF THE PRESENT WORK"
-      }
-    },
-    {
-      "id": "ch002",
-      "title": {
-        "en-US": "Chapter 2 — FAITH",
-        "la": "Caput 2 — Ordo dicendorum circa fidem"
-      }
-    },
-    {
-      "id": "ch003",
-      "title": {
-        "en-US": "Chapter 3 — THE EXISTENCE OF GOD",
-        "la": "Caput 3 — THE EXISTENCE OF GOD"
-      }
-    },
-    {
-      "id": "ch004",
-      "title": {
-        "en-US": "Chapter 4 — THE IMMOBILITY OF GOD",
-        "la": "Caput 4 — THE IMMOBILITY OF GOD"
-      }
-    },
-    {
-      "id": "ch005",
-      "title": {
-        "en-US": "Chapter 5 — THE ETERNITY OF GOD",
-        "la": "Caput 5 — THE ETERNITY OF GOD"
-      }
-    },
-    {
-      "id": "ch006",
-      "title": {
-        "en-US": "Chapter 6 — NECESSITY OF GOD’S EXISTENCE",
-        "la": "Caput 6 — NECESSITY OF GOD’S EXISTENCE"
-      }
-    },
-    {
-      "id": "ch007",
-      "title": {
-        "en-US": "Chapter 7 — THE EVERLASTING EXISTENCE OF GOD",
-        "la": "Caput 7 — THE EVERLASTING EXISTENCE OF GOD"
-      }
-    },
-    {
-      "id": "ch008",
-      "title": {
-        "en-US": "Chapter 8 — ABSENCE OF SUCCESSION IN GOD",
-        "la": "Caput 8 — ABSENCE OF SUCCESSION IN GOD"
-      }
-    },
-    {
-      "id": "ch009",
-      "title": {
-        "en-US": "Chapter 9 — SIMPLICITY OF GOD",
-        "la": "Caput 9 — SIMPLICITY OF GOD"
-      }
-    },
-    {
-      "id": "ch010",
-      "title": {
-        "en-US": "Chapter 10 — IDENTITY OF GOD WITH HIS ESSENCE",
-        "la": "Caput 10 — IDENTITY OF GOD WITH HIS ESSENCE"
-      }
-    },
-    {
-      "id": "ch011",
-      "title": {
-        "en-US": "Chapter 11 — IDENTITY OF ESSENCE AND EXISTENCE IN GOD",
-        "la": "Caput 11 — IDENTITY OF ESSENCE AND EXISTENCE IN GOD"
-      }
-    },
-    {
-      "id": "ch012",
-      "title": {
-        "en-US": "Chapter 12 — GOD NOT CONTAINED UNDER ANY GENUS",
-        "la": "Caput 12 — GOD NOT CONTAINED UNDER ANY GENUS"
-      }
-    },
-    {
-      "id": "ch013",
-      "title": {
-        "en-US": "Chapter 13 — GOD NOT A GENUS",
-        "la": "Caput 13 — GOD NOT A GENUS"
-      }
-    },
-    {
-      "id": "ch014",
-      "title": {
-        "en-US": "Chapter 14 — GOD NOT A SPECIES PREDICATED OF INDIVIDUALS",
-        "la": "Caput 14 — GOD NOT A SPECIES PREDICATED OF INDIVIDUALS"
-      }
-    },
-    {
-      "id": "ch015",
-      "title": {
-        "en-US": "Chapter 15 — THE UNICITY OF GOD",
-        "la": "Caput 15 — THE UNICITY OF GOD"
-      }
-    },
-    {
-      "id": "ch016",
-      "title": {
-        "en-US": "Chapter 16 — GOD NOT A BODY",
-        "la": "Caput 16 — GOD NOT A BODY"
-      }
-    },
-    {
-      "id": "ch017",
-      "title": {
-        "en-US": "Chapter 17 — GOD NEITHER THE FORM OF A BODY NOR A FORCE IN A BODY",
-        "la": "Caput 17 — GOD NEITHER THE FORM OF A BODY NOR A FORCE IN A BODY"
-      }
-    },
-    {
-      "id": "ch018",
-      "title": {
-        "en-US": "Chapter 18 — THE INFINITY OF GOD ACCORDING TO ESSENCE",
-        "la": "Caput 18 — THE INFINITY OF GOD ACCORDING TO ESSENCE"
-      }
-    },
-    {
-      "id": "ch019",
-      "title": {
-        "en-US": "Chapter 19 — INFINITE POWER OF GOD",
-        "la": "Caput 19 — INFINITE POWER OF GOD"
-      }
-    },
-    {
-      "id": "ch020",
-      "title": {
-        "en-US": "Chapter 20 — ABSENCE OF IMPERFECTION IN GOD’S INFINITY",
-        "la": "Caput 20 — ABSENCE OF IMPERFECTION IN GOD’S INFINITY"
-      }
-    },
-    {
-      "id": "ch021",
-      "title": {
-        "en-US": "Chapter 21 — EMINENT EXISTENCE IN GOD OF ALL PERFECTIONS FOUND IN CREATURES",
-        "la": "Caput 21 — EMINENT EXISTENCE IN GOD OF ALL PERFECTIONS FOUND IN CREATURES"
-      }
-    },
-    {
-      "id": "ch022",
-      "title": {
-        "en-US": "Chapter 22 — UNITY OF ALL PERFECTIONS IN GOD",
-        "la": "Caput 22 — UNITY OF ALL PERFECTIONS IN GOD"
-      }
-    },
-    {
-      "id": "ch023",
-      "title": {
-        "en-US": "Chapter 23 — ABSENCE OF ACCIDENTS IN GOD",
-        "la": "Caput 23 — ABSENCE OF ACCIDENTS IN GOD"
-      }
-    },
-    {
-      "id": "ch024",
-      "title": {
-        "en-US": "Chapter 24 — GOD’S SIMPLICITY NOT CONTRADICTED BY THE MULTIPLICITY OF NAMES APPLIED TO HIM",
-        "la": "Caput 24 — GOD’S SIMPLICITY NOT CONTRADICTED BY THE MULTIPLICITY OF NAMES APPLIED TO HIM"
-      }
-    },
-    {
-      "id": "ch025",
-      "title": {
-        "en-US": "Chapter 25 — THE NAMES OF GOD NOT SYNONYMOUS",
-        "la": "Caput 25 — THE NAMES OF GOD NOT SYNONYMOUS"
-      }
-    },
-    {
-      "id": "ch026",
-      "title": {
-        "en-US": "Chapter 26 — IMPOSSIBILITY OF DEFINING GOD",
-        "la": "Caput 26 — IMPOSSIBILITY OF DEFINING GOD"
-      }
-    },
-    {
-      "id": "ch027",
-      "title": {
-        "en-US": "Chapter 27 — ANALOGY OF TERMS PREDICATED OF GOD AND OF OTHER BEINGS",
-        "la": "Caput 27 — ANALOGY OF TERMS PREDICATED OF GOD AND OF OTHER BEINGS"
-      }
-    },
-    {
-      "id": "ch028",
-      "title": {
-        "en-US": "Chapter 28 — THE INTELLIGENCE OF GOD",
-        "la": "Caput 28 — THE INTELLIGENCE OF GOD"
-      }
-    },
-    {
-      "id": "ch029",
-      "title": {
-        "en-US": "Chapter 29 — GOD’S INTELLIGENCE NOT POTENTIAL OR HABITUAL BUT ACTUAL",
-        "la": "Caput 29 — GOD’S INTELLIGENCE NOT POTENTIAL OR HABITUAL BUT ACTUAL"
-      }
-    },
-    {
-      "id": "ch030",
-      "title": {
-        "en-US": "Chapter 30 — GOD’S ESSENCE THE ONLY SPECIES IN HIS UNDERSTANDING",
-        "la": "Caput 30 — GOD’S ESSENCE THE ONLY SPECIES IN HIS UNDERSTANDING"
-      }
-    },
-    {
-      "id": "ch031",
-      "title": {
-        "en-US": "Chapter 31 — IDENTITY BETWEEN GOD AND HIS INTELLIGENCE",
-        "la": "Caput 31 — IDENTITY BETWEEN GOD AND HIS INTELLIGENCE"
-      }
-    },
-    {
-      "id": "ch032",
-      "title": {
-        "en-US": "Chapter 32 — THE VOLITION OF GOD",
-        "la": "Caput 32 — THE VOLITION OF GOD"
-      }
-    },
-    {
-      "id": "ch033",
-      "title": {
-        "en-US": "Chapter 33 — IDENTITY OF GOD’S WILL WITH HIS INTELLECT",
-        "la": "Caput 33 — IDENTITY OF GOD’S WILL WITH HIS INTELLECT"
-      }
-    },
-    {
-      "id": "ch034",
-      "title": {
-        "en-US": "Chapter 34 — IDENTITY BETWEEN GOD’S WILL AND HIS WILLING",
-        "la": "Caput 34 — IDENTITY BETWEEN GOD’S WILL AND HIS WILLING"
-      }
-    },
-    {
-      "id": "ch035",
-      "title": {
-        "en-US": "Chapter 35 — THE FOREGOING TRUTHS EMBRACED IN ONE ARTICLE OF FAITH",
-        "la": "Caput 35 — THE FOREGOING TRUTHS EMBRACED IN ONE ARTICLE OF FAITH"
-      }
-    },
-    {
-      "id": "ch036",
-      "title": {
-        "en-US": "Chapter 36 — PHILOSOPHICAL CHARACTER OF THIS DOCTRINE",
-        "la": "Caput 36 — PHILOSOPHICAL CHARACTER OF THIS DOCTRINE"
-      }
-    },
-    {
-      "id": "ch037",
-      "title": {
-        "en-US": "Chapter 37 — THE WORD IN GOD",
-        "la": "Caput 37 — THE WORD IN GOD"
-      }
-    },
-    {
-      "id": "ch038",
-      "title": {
-        "en-US": "Chapter 38 — THE WORD AS CONCEPTION",
-        "la": "Caput 38 — THE WORD AS CONCEPTION"
-      }
-    },
-    {
-      "id": "ch039",
-      "title": {
-        "en-US": "Chapter 39 — RELATION OF THE WORD TO THE FATHER",
-        "la": "Caput 39 — RELATION OF THE WORD TO THE FATHER"
-      }
-    },
-    {
-      "id": "ch040",
-      "title": {
-        "en-US": "Chapter 40 — GENERATION IN GOD",
-        "la": "Caput 40 — GENERATION IN GOD"
-      }
-    },
-    {
-      "id": "ch041",
-      "title": {
-        "en-US": "Chapter 41 — THE SON EQUAL TO THE FATHER IN EXISTENCE AND ESSENCE",
-        "la": "Caput 41 — THE SON EQUAL TO THE FATHER IN EXISTENCE AND ESSENCE"
-      }
-    },
-    {
-      "id": "ch042",
-      "title": {
-        "en-US": "Chapter 42 — THIS TEACHING IN CATHOLIC FAITH",
-        "la": "Caput 42 — THIS TEACHING IN CATHOLIC FAITH"
-      }
-    },
-    {
-      "id": "ch043",
-      "title": {
-        "en-US": "Chapter 43 — THE DIVINE WORD NOT DISTINCT FROM THE FATHER IN TIME, SPECIES, OR NATURE",
-        "la": "Caput 43 — THE DIVINE WORD NOT DISTINCT FROM THE FATHER IN TIME, SPECIES, OR NATURE"
-      }
-    },
-    {
-      "id": "ch044",
-      "title": {
-        "en-US": "Chapter 44 — CONCLUSION FROM THE FOREGOING",
-        "la": "Caput 44 — CONCLUSION FROM THE FOREGOING"
-      }
-    },
-    {
-      "id": "ch045",
-      "title": {
-        "en-US": "Chapter 45 — GOD IN HIMSELF AS BELOVED IN LOVER",
-        "la": "Caput 45 — GOD IN HIMSELF AS BELOVED IN LOVER"
-      }
-    },
-    {
-      "id": "ch046",
-      "title": {
-        "en-US": "Chapter 46 — LOVE IN GOD AS SPIRIT",
-        "la": "Caput 46 — LOVE IN GOD AS SPIRIT"
-      }
-    },
-    {
-      "id": "ch047",
-      "title": {
-        "en-US": "Chapter 47 — HOLINESS OF THE SPIRIT IN GOD",
-        "la": "Caput 47 — HOLINESS OF THE SPIRIT IN GOD"
-      }
-    },
-    {
-      "id": "ch048",
-      "title": {
-        "en-US": "Chapter 48 — LOVE IN GOD NOT ACCIDENTAL",
-        "la": "Caput 48 — LOVE IN GOD NOT ACCIDENTAL"
-      }
-    },
-    {
-      "id": "ch049",
-      "title": {
-        "en-US": "Chapter 49 — PROCESSION OF THE HOLY Spirit FROM THE FATHER AND THE SON",
-        "la": "Caput 49 — PROCESSION OF THE HOLY Spirit FROM THE FATHER AND THE SON"
-      }
-    },
-    {
-      "id": "ch050",
-      "title": {
-        "en-US": "Chapter 50 — THE TRINITY OF DIVINE PERSONS AND THE UNITY OF THE DIVINE ESSENCE",
-        "la": "Caput 50 — THE TRINITY OF DIVINE PERSONS AND THE UNITY OF THE DIVINE ESSENCE"
-      }
-    },
-    {
-      "id": "ch051",
-      "title": {
-        "en-US": "Chapter 51 — A SEEMING CONTRADICTION IN THE TRINITY",
-        "la": "Caput 51 — A SEEMING CONTRADICTION IN THE TRINITY"
-      }
-    },
-    {
-      "id": "ch052",
-      "title": {
-        "en-US": "Chapter 52 — SOLUTION OF THE DIFFICULTY: DISTINCTION IN GOD ACCORDING TO RELATIONS",
-        "la": "Caput 52 — SOLUTION OF THE DIFFICULTY: DISTINCTION IN GOD ACCORDING TO RELATIONS"
-      }
-    },
-    {
-      "id": "ch053",
-      "title": {
-        "en-US": "Chapter 53 — NATURE OF THE RELATIONS WHEREBY THE FATHER, THE SON, AND THE HOLY SPIRIT ARE DISTINGUISHED",
-        "la": "Caput 53 — NATURE OF THE RELATIONS WHEREBY THE FATHER, THE SON, AND THE HOLY SPIRIT ARE DISTINGUISHED"
-      }
-    },
-    {
-      "id": "ch054",
-      "title": {
-        "en-US": "Chapter 54 — RELATIONS IN GOD NOT ACCIDENTAL",
-        "la": "Caput 54 — RELATIONS IN GOD NOT ACCIDENTAL"
-      }
-    },
-    {
-      "id": "ch055",
-      "title": {
-        "en-US": "Chapter 55 — PERSONAL DISTINCTION IN GOD THROUGH THE RELATIONS",
-        "la": "Caput 55 — PERSONAL DISTINCTION IN GOD THROUGH THE RELATIONS"
-      }
-    },
-    {
-      "id": "ch056",
-      "title": {
-        "en-US": "Chapter 56 — IMPOSSIBILITY OF MORE THAN THREE PERSONS IN GOD",
-        "la": "Caput 56 — IMPOSSIBILITY OF MORE THAN THREE PERSONS IN GOD"
-      }
-    },
-    {
-      "id": "ch057",
-      "title": {
-        "en-US": "Chapter 57 — PROPERTIES OF THE FATHER",
-        "la": "Caput 57 — PROPERTIES OF THE FATHER"
-      }
-    },
-    {
-      "id": "ch058",
-      "title": {
-        "en-US": "Chapter 58 — PROPERTIES OF THE SON AND THE HOLY SPIRIT",
-        "la": "Caput 58 — PROPERTIES OF THE SON AND THE HOLY SPIRIT"
-      }
-    },
-    {
-      "id": "ch059",
-      "title": {
-        "en-US": "Chapter 59 — WHY THESE PROPERTIES ARE CALLED NOTIONS",
-        "la": "Caput 59 — WHY THESE PROPERTIES ARE CALLED NOTIONS"
-      }
-    },
-    {
-      "id": "ch060",
-      "title": {
-        "en-US": "Chapter 60 — THE NUMBER OF RELATIONS AND THE NUMBER OF PERSONS",
-        "la": "Caput 60 — THE NUMBER OF RELATIONS AND THE NUMBER OF PERSONS"
-      }
-    },
-    {
-      "id": "ch061",
-      "title": {
-        "en-US": "Chapter 61 — DEPENDENCE OF THE HYPOSTASES ON THE PERSONAL PROPERTIES",
-        "la": "Caput 61 — DEPENDENCE OF THE HYPOSTASES ON THE PERSONAL PROPERTIES"
-      }
-    },
-    {
-      "id": "ch062",
-      "title": {
-        "en-US": "Chapter 62 — EFFECT OF INTELLECTUAL REMOVAL OF PERSONAL PROPERTIES ON THE DIVINE ESSENCE",
-        "la": "Caput 62 — EFFECT OF INTELLECTUAL REMOVAL OF PERSONAL PROPERTIES ON THE DIVINE ESSENCE"
-      }
-    },
-    {
-      "id": "ch063",
-      "title": {
-        "en-US": "Chapter 63 — PERSONAL ACTS AND PERSONAL PROPERTIES",
-        "la": "Caput 63 — PERSONAL ACTS AND PERSONAL PROPERTIES"
-      }
-    },
-    {
-      "id": "ch064",
-      "title": {
-        "en-US": "Chapter 64 — GENERATION WITH RESPECT TO THE FATHER AND WITH RESPECT TO THE SON",
-        "la": "Caput 64 — GENERATION WITH RESPECT TO THE FATHER AND WITH RESPECT TO THE SON"
-      }
-    },
-    {
-      "id": "ch065",
-      "title": {
-        "en-US": "Chapter 65 — NATURE OF THE DISTINCTION BETWEEN NOTIONAL ACTS AND NOTIONAL PROPERTIES",
-        "la": "Caput 65 — NATURE OF THE DISTINCTION BETWEEN NOTIONAL ACTS AND NOTIONAL PROPERTIES"
-      }
-    },
-    {
-      "id": "ch066",
-      "title": {
-        "en-US": "Chapter 66 — IDENTITY BETWEEN THE RELATIVE PROPERTIES AND THE DIVINE ESSENCE",
-        "la": "Caput 66 — IDENTITY BETWEEN THE RELATIVE PROPERTIES AND THE DIVINE ESSENCE"
-      }
-    },
-    {
-      "id": "ch067",
-      "title": {
-        "en-US": "Chapter 67 — THE DIVINE PROPERTIES NOT EXTERNALLY AFFIXED",
-        "la": "Caput 67 — THE DIVINE PROPERTIES NOT EXTERNALLY AFFIXED"
-      }
-    },
-    {
-      "id": "ch068",
-      "title": {
-        "en-US": "Chapter 68 — THE EFFECTS PRODUCED BY GOD",
-        "la": "Caput 68 — THE EFFECTS PRODUCED BY GOD"
-      }
-    },
-    {
-      "id": "ch069",
-      "title": {
-        "en-US": "Chapter 69 — CREATION FROM NOTHING",
-        "la": "Caput 69 — CREATION FROM NOTHING"
-      }
-    },
-    {
-      "id": "ch070",
-      "title": {
-        "en-US": "Chapter 70 — CREATION POSSIBLE FOR GOD ALONE",
-        "la": "Caput 70 — CREATION POSSIBLE FOR GOD ALONE"
-      }
-    },
-    {
-      "id": "ch071",
-      "title": {
-        "en-US": "Chapter 71 — MATTER NOT THE CAUSE OF DIVERSITY IN THINGS",
-        "la": "Caput 71 — MATTER NOT THE CAUSE OF DIVERSITY IN THINGS"
-      }
-    },
-    {
-      "id": "ch072",
-      "title": {
-        "en-US": "Chapter 72 — THE CAUSE OF DIVERSITY",
-        "la": "Caput 72 — THE CAUSE OF DIVERSITY"
-      }
-    },
-    {
-      "id": "ch073",
-      "title": {
-        "en-US": "Chapter 73 — DIVERSITY IN THINGS ACCORDING TO DEGREE AND ORDER",
-        "la": "Caput 73 — DIVERSITY IN THINGS ACCORDING TO DEGREE AND ORDER"
-      }
-    },
-    {
-      "id": "ch074",
-      "title": {
-        "en-US": "Chapter 74 — INCORPOREAL SUBSTANCES REQUISITE FOR THE PERFECTION OF THE UNIVERSE",
-        "la": "Caput 74 — INCORPOREAL SUBSTANCES REQUISITE FOR THE PERFECTION OF THE UNIVERSE"
-      }
-    },
-    {
-      "id": "ch075",
-      "title": {
-        "en-US": "Chapter 75 — 75 — INTELLECTUAL SUBSTANCES",
-        "la": "Caput 75 — 75 — INTELLECTUAL SUBSTANCES"
-      }
-    },
-    {
-      "id": "ch076",
-      "title": {
-        "en-US": "Chapter 76 — FREEDOM OF CHOICE IN INTELLECTUAL SUBSTANCES",
-        "la": "Caput 76 — FREEDOM OF CHOICE IN INTELLECTUAL SUBSTANCES"
-      }
-    },
-    {
-      "id": "ch077",
-      "title": {
-        "en-US": "Chapter 77 — 77 — ORDER AND DEGREE AMONG INTELLECTUAL BEINGS",
-        "la": "Caput 77 — 77 — ORDER AND DEGREE AMONG INTELLECTUAL BEINGS"
-      }
-    },
-    {
-      "id": "ch078",
-      "title": {
-        "en-US": "Chapter 78 — ORDER AND DEGREE IN INTELLECTUAL OPERATION",
-        "la": "Caput 78 — ORDER AND DEGREE IN INTELLECTUAL OPERATION"
-      }
-    },
-    {
-      "id": "ch079",
-      "title": {
-        "en-US": "Chapter 79 — INFERIORITY OF MAN’S INTELLECTUAL NATURE",
-        "la": "Caput 79 — INFERIORITY OF MAN’S INTELLECTUAL NATURE"
-      }
-    },
-    {
-      "id": "ch080",
-      "title": {
-        "en-US": "Chapter 80 — DIFFERENT KINDS OF INTELLECT AND WAYS OF UNDERSTANDING",
-        "la": "Caput 80 — DIFFERENT KINDS OF INTELLECT AND WAYS OF UNDERSTANDING"
-      }
-    },
-    {
-      "id": "ch081",
-      "title": {
-        "en-US": "Chapter 81 — RECEPTION OF INTELLIGIBLE FORMS IN THE POSSIBLE INTELLECT",
-        "la": "Caput 81 — RECEPTION OF INTELLIGIBLE FORMS IN THE POSSIBLE INTELLECT"
-      }
-    },
-    {
-      "id": "ch082",
-      "title": {
-        "en-US": "Chapter 82 — MAN’S NEED OF SENSE FACULTIES FOR UNDERSTANDING",
-        "la": "Caput 82 — MAN’S NEED OF SENSE FACULTIES FOR UNDERSTANDING"
-      }
-    },
-    {
-      "id": "ch083",
-      "title": {
-        "en-US": "Chapter 83 — NECESSITY OF THE AGENT INTELLECT",
-        "la": "Caput 83 — NECESSITY OF THE AGENT INTELLECT"
-      }
-    },
-    {
-      "id": "ch084",
-      "title": {
-        "en-US": "Chapter 84 — 84 — INCORRUPTIBILITY OF THE HUMAN SOUL",
-        "la": "Caput 84 — 84 — INCORRUPTIBILITY OF THE HUMAN SOUL"
-      }
-    },
-    {
-      "id": "ch085",
-      "title": {
-        "en-US": "Chapter 85 — UNITY OF THE POSSIBLE INTELLECT",
-        "la": "Caput 85 — UNITY OF THE POSSIBLE INTELLECT"
-      }
-    },
-    {
-      "id": "ch086",
-      "title": {
-        "en-US": "Chapter 86 — 86 — THE AGENT INTELLECT NOT ONE IN ALL MEN",
-        "la": "Caput 86 — 86 — THE AGENT INTELLECT NOT ONE IN ALL MEN"
-      }
-    },
-    {
-      "id": "ch087",
-      "title": {
-        "en-US": "Chapter 87 — THE POSSIBLE INTELLECT AND THE AGENT INTELLECT AS RESIDING IN THE ESSENCE OF THE SOUL",
-        "la": "Caput 87 — THE POSSIBLE INTELLECT AND THE AGENT INTELLECT AS RESIDING IN THE ESSENCE OF THE SOUL"
-      }
-    },
-    {
-      "id": "ch088",
-      "title": {
-        "en-US": "Chapter 88 — THE WAY THESE TWO FACULTIES ARE UNITED IN THE SAME ESSENCE OF THE SOUL",
-        "la": "Caput 88 — THE WAY THESE TWO FACULTIES ARE UNITED IN THE SAME ESSENCE OF THE SOUL"
-      }
-    },
-    {
-      "id": "ch089",
-      "title": {
-        "en-US": "Chapter 89 — RADICATION OF ALL THE FACULTIES IN THE ESSENCE OF THE SOUL",
-        "la": "Caput 89 — RADICATION OF ALL THE FACULTIES IN THE ESSENCE OF THE SOUL"
-      }
-    },
-    {
-      "id": "ch090",
-      "title": {
-        "en-US": "Chapter 90 — UNICITY OF THE SOUL",
-        "la": "Caput 90 — UNICITY OF THE SOUL"
-      }
-    },
-    {
-      "id": "ch091",
-      "title": {
-        "en-US": "Chapter 91 — ARGUMENTS ADVANCED TO SHOW A MULTIPLICITY OF SOULS IN MAN",
-        "la": "Caput 91 — ARGUMENTS ADVANCED TO SHOW A MULTIPLICITY OF SOULS IN MAN"
-      }
-    },
-    {
-      "id": "ch092",
-      "title": {
-        "en-US": "Chapter 92 — REFUTATION OF THE PRECEDING OBJECTIONS",
-        "la": "Caput 92 — REFUTATION OF THE PRECEDING OBJECTIONS"
-      }
-    },
-    {
-      "id": "ch093",
-      "title": {
-        "en-US": "Chapter 93 — PRODUCTION OF THE RATIONAL SOUL",
-        "la": "Caput 93 — PRODUCTION OF THE RATIONAL SOUL"
-      }
-    },
-    {
-      "id": "ch094",
-      "title": {
-        "en-US": "Chapter 94 — 94 — THE RATIONAL SOUL NOT DERIVED FROM GOD’S SUBSTANCE",
-        "la": "Caput 94 — 94 — THE RATIONAL SOUL NOT DERIVED FROM GOD’S SUBSTANCE"
-      }
-    },
-    {
-      "id": "ch095",
-      "title": {
-        "en-US": "Chapter 95 — IMMEDIATE CREATION BY GOD",
-        "la": "Caput 95 — IMMEDIATE CREATION BY GOD"
-      }
-    },
-    {
-      "id": "ch096",
-      "title": {
-        "en-US": "Chapter 96 — VOLUNTARINESS OF GOD’S ACTIVITY",
-        "la": "Caput 96 — VOLUNTARINESS OF GOD’S ACTIVITY"
-      }
-    },
-    {
-      "id": "ch097",
-      "title": {
-        "en-US": "Chapter 97 — IMMUTABILITY OF GOD IN HIS ACTIVITY",
-        "la": "Caput 97 — IMMUTABILITY OF GOD IN HIS ACTIVITY"
-      }
-    },
-    {
-      "id": "ch098",
-      "title": {
-        "en-US": "Chapter 98 — QUESTION OF THE ETERNITY OF MOTION",
-        "la": "Caput 98 — QUESTION OF THE ETERNITY OF MOTION"
-      }
-    },
-    {
-      "id": "ch099",
-      "title": {
-        "en-US": "Chapter 99 — CONTROVERSY ON THE ETERNITY OF MATTER",
-        "la": "Caput 99 — CONTROVERSY ON THE ETERNITY OF MATTER"
-      }
-    },
-    {
-      "id": "ch100",
-      "title": {
-        "en-US": "Chapter 100 — FINALITY OF GOD’S CREATIVE ACTIVITY",
-        "la": "Caput 100 — FINALITY OF GOD’S CREATIVE ACTIVITY"
-      }
-    },
-    {
-      "id": "ch101",
-      "title": {
-        "en-US": "Chapter 101 — The Divine Goodness as the Ultimate End",
-        "la": "Caput 101 — The Divine Goodness as the Ultimate End"
-      }
-    },
-    {
-      "id": "ch102",
-      "title": {
-        "en-US": "Chapter 102 — THE REASON FOR DIVERSITY IN THINGS",
-        "la": "Caput 102 — THE REASON FOR DIVERSITY IN THINGS"
-      }
-    },
-    {
-      "id": "ch103",
-      "title": {
-        "en-US": "Chapter 103 — THE DIVINE GOODNESS AS THE END OF ALL ACTION AND MOVEMENT IN CREATURES",
-        "la": "Caput 103 — THE DIVINE GOODNESS AS THE END OF ALL ACTION AND MOVEMENT IN CREATURES"
-      }
-    },
-    {
-      "id": "ch104",
-      "title": {
-        "en-US": "Chapter 104 — THE END OF THE INTELLECTUAL CREATURE",
-        "la": "Caput 104 — THE END OF THE INTELLECTUAL CREATURE"
-      }
-    },
-    {
-      "id": "ch105",
-      "title": {
-        "en-US": "Chapter 105 — KNOWLEDGE OF THE DIVINE ESSENCE BY THE CREATED INTELLECT",
-        "la": "Caput 105 — KNOWLEDGE OF THE DIVINE ESSENCE BY THE CREATED INTELLECT"
-      }
-    },
-    {
-      "id": "ch106",
-      "title": {
-        "en-US": "Chapter 106 — FRUITION OF NATURAL DESIRE IN THE BEATIFIC VISION",
-        "la": "Caput 106 — FRUITION OF NATURAL DESIRE IN THE BEATIFIC VISION"
-      }
-    },
-    {
-      "id": "ch107",
-      "title": {
-        "en-US": "Chapter 107 — BEATITUDE ESSENTIALLY IN THE ACT OF THE INTELLECT",
-        "la": "Caput 107 — BEATITUDE ESSENTIALLY IN THE ACT OF THE INTELLECT"
-      }
-    },
-    {
-      "id": "ch108",
-      "title": {
-        "en-US": "Chapter 108 — THE ERROR OF PLACING HAPPINESS IN CREATURES",
-        "la": "Caput 108 — THE ERROR OF PLACING HAPPINESS IN CREATURES"
-      }
-    },
-    {
-      "id": "ch109",
-      "title": {
-        "en-US": "Chapter 109 — THE ESSENTIAL GOODNESS OF GOD AND THE PARTICIPATED GOODNESS OF CREATURES",
-        "la": "Caput 109 — THE ESSENTIAL GOODNESS OF GOD AND THE PARTICIPATED GOODNESS OF CREATURES"
-      }
-    },
-    {
-      "id": "ch110",
-      "title": {
-        "en-US": "Chapter 110 — GOD’S GOODNESS INCAPABLE OF BEING LOST",
-        "la": "Caput 110 — GOD’S GOODNESS INCAPABLE OF BEING LOST"
-      }
-    },
-    {
-      "id": "ch111",
-      "title": {
-        "en-US": "Chapter 111 — INSECURITY OF THE CREATURE’S GOODNESS",
-        "la": "Caput 111 — INSECURITY OF THE CREATURE’S GOODNESS"
-      }
-    },
-    {
-      "id": "ch112",
-      "title": {
-        "en-US": "Chapter 112 — DEFECTIBILITY OF THE CREATURE’S GOODNESS IN ACTIVITY",
-        "la": "Caput 112 — DEFECTIBILITY OF THE CREATURE’S GOODNESS IN ACTIVITY"
-      }
-    },
-    {
-      "id": "ch113",
-      "title": {
-        "en-US": "Chapter 113 — THE TWOFOLD PRINCIPLE OF ACTIVITY AND THE POSSIBILITY OF DEFECT THEREIN",
-        "la": "Caput 113 — THE TWOFOLD PRINCIPLE OF ACTIVITY AND THE POSSIBILITY OF DEFECT THEREIN"
-      }
-    },
-    {
-      "id": "ch114",
-      "title": {
-        "en-US": "Chapter 114 — THE MEANING OF GOOD AND EVIL IN THINGS",
-        "la": "Caput 114 — THE MEANING OF GOOD AND EVIL IN THINGS"
-      }
-    },
-    {
-      "id": "ch115",
-      "title": {
-        "en-US": "Chapter 115 — IMPOSSIBILITY OF AN EVIL NATURE",
-        "la": "Caput 115 — IMPOSSIBILITY OF AN EVIL NATURE"
-      }
-    },
-    {
-      "id": "ch116",
-      "title": {
-        "en-US": "Chapter 116 — GOOD AND EVIL AS SPECIFIC DIFFERENCES AND AS CONTRARIES",
-        "la": "Caput 116 — GOOD AND EVIL AS SPECIFIC DIFFERENCES AND AS CONTRARIES"
-      }
-    },
-    {
-      "id": "ch117",
-      "title": {
-        "en-US": "Chapter 117 — IMPOSSIBILITY OF ESSENTIAL OR SUPREME EVIL",
-        "la": "Caput 117 — IMPOSSIBILITY OF ESSENTIAL OR SUPREME EVIL"
-      }
-    },
-    {
-      "id": "ch118",
-      "title": {
-        "en-US": "Chapter 118 — FOUNDATION OF EVIL IN GOOD AS ITS SUBSTRATUM",
-        "la": "Caput 118 — FOUNDATION OF EVIL IN GOOD AS ITS SUBSTRATUM"
-      }
-    },
-    {
-      "id": "ch119",
-      "title": {
-        "en-US": "Chapter 119 — TWO KINDS OF EVIL",
-        "la": "Caput 119 — TWO KINDS OF EVIL"
-      }
-    },
-    {
-      "id": "ch120",
-      "title": {
-        "en-US": "Chapter 120 — THREE KINDS OF ACTION, AND THE EVIL OF SIN",
-        "la": "Caput 120 — THREE KINDS OF ACTION, AND THE EVIL OF SIN"
-      }
-    },
-    {
-      "id": "ch121",
-      "title": {
-        "en-US": "Chapter 121 — THE EVIL OF PUNISHMENT",
-        "la": "Caput 121 — THE EVIL OF PUNISHMENT"
-      }
-    },
-    {
-      "id": "ch122",
-      "title": {
-        "en-US": "Chapter 122 — PUNISHMENT VARIOUSLY OPPOSED TO THE WILL",
-        "la": "Caput 122 — PUNISHMENT VARIOUSLY OPPOSED TO THE WILL"
-      }
-    },
-    {
-      "id": "ch123",
-      "title": {
-        "en-US": "Chapter 123 — THE UNIVERSALITY OF DIVINE PROVIDENCE",
-        "la": "Caput 123 — THE UNIVERSALITY OF DIVINE PROVIDENCE"
-      }
-    },
-    {
-      "id": "ch124",
-      "title": {
-        "en-US": "Chapter 124 — GOD’S PLAN OF RULING LOWER CREATURES BY HIGHER CREATURES",
-        "la": "Caput 124 — GOD’S PLAN OF RULING LOWER CREATURES BY HIGHER CREATURES"
-      }
-    },
-    {
-      "id": "ch125",
-      "title": {
-        "en-US": "Chapter 125 — THE GOVERNMENT OF LOWER INTELLECTUAL SUBSTANCES BY HIGHER INTELLECTUAL SUBSTANCES",
-        "la": "Caput 125 — THE GOVERNMENT OF LOWER INTELLECTUAL SUBSTANCES BY HIGHER INTELLECTUAL SUBSTANCES"
-      }
-    },
-    {
-      "id": "ch126",
-      "title": {
-        "en-US": "Chapter 126 — RANK AND ORDER OF THE ANGELS",
-        "la": "Caput 126 — RANK AND ORDER OF THE ANGELS"
-      }
-    },
-    {
-      "id": "ch127",
-      "title": {
-        "en-US": "Chapter 127 — CONTROL OF LOWER BODIES, BUT NOT OF THE HUMAN INTELLECT, BY HIGHER BODIES",
-        "la": "Caput 127 — CONTROL OF LOWER BODIES, BUT NOT OF THE HUMAN INTELLECT, BY HIGHER BODIES"
-      }
-    },
-    {
-      "id": "ch128",
-      "title": {
-        "en-US": "Chapter 128 — INDIRECT INFLUENCE OF HEAVENLY BODIES ON THE HUMAN INTELLECT THROUGH THE SENSES ‘",
-        "la": "Caput 128 — INDIRECT INFLUENCE OF HEAVENLY BODIES ON THE HUMAN INTELLECT THROUGH THE SENSES ‘"
-      }
-    },
-    {
-      "id": "ch129",
-      "title": {
-        "en-US": "Chapter 129 — MOVEMENT OF MAN’S WILL BY GOD",
-        "la": "Caput 129 — MOVEMENT OF MAN’S WILL BY GOD"
-      }
-    },
-    {
-      "id": "ch130",
-      "title": {
-        "en-US": "Chapter 130 — GOVERNMENT OF THE WORLD BY GOD",
-        "la": "Caput 130 — GOVERNMENT OF THE WORLD BY GOD"
-      }
-    },
-    {
-      "id": "ch131",
-      "title": {
-        "en-US": "Chapter 131 — IMMEDIATE DISPOSING OF ALL THINGS BY GOD",
-        "la": "Caput 131 — IMMEDIATE DISPOSING OF ALL THINGS BY GOD"
-      }
-    },
-    {
-      "id": "ch132",
-      "title": {
-        "en-US": "Chapter 132 — OBJECTIONS TO GOD’S PARTICULAR PROVIDENCE",
-        "la": "Caput 132 — OBJECTIONS TO GOD’S PARTICULAR PROVIDENCE"
-      }
-    },
-    {
-      "id": "ch133",
-      "title": {
-        "en-US": "Chapter 133 — SOLUTION OF THE FOREGOING OBJECTIONS",
-        "la": "Caput 133 — SOLUTION OF THE FOREGOING OBJECTIONS"
-      }
-    },
-    {
-      "id": "ch134",
-      "title": {
-        "en-US": "Chapter 134 — GOD’S DETAILED KNOWLEDGE OF CONTINGENT FUTURES",
-        "la": "Caput 134 — GOD’S DETAILED KNOWLEDGE OF CONTINGENT FUTURES"
-      }
-    },
-    {
-      "id": "ch135",
-      "title": {
-        "en-US": "Chapter 135 — GOD’S EXISTENCE IN ALL THINGS BY POWER, ESSENCE, AND PRESENCE",
-        "la": "Caput 135 — GOD’S EXISTENCE IN ALL THINGS BY POWER, ESSENCE, AND PRESENCE"
-      }
-    },
-    {
-      "id": "ch136",
-      "title": {
-        "en-US": "Chapter 136 — THE WORKING OF MIRACLES PROPER TO GOD ALONE",
-        "la": "Caput 136 — THE WORKING OF MIRACLES PROPER TO GOD ALONE"
-      }
-    },
-    {
-      "id": "ch137",
-      "title": {
-        "en-US": "Chapter 137 — FORTUITOUS EVENTS",
-        "la": "Caput 137 — FORTUITOUS EVENTS"
-      }
-    },
-    {
-      "id": "ch138",
-      "title": {
-        "en-US": "Chapter 138 — FATE AND ITS NATURE",
-        "la": "Caput 138 — FATE AND ITS NATURE"
-      }
-    },
-    {
-      "id": "ch139",
-      "title": {
-        "en-US": "Chapter 139 — CONTINGENCY OF SOME EFFECTS",
-        "la": "Caput 139 — CONTINGENCY OF SOME EFFECTS"
-      }
-    },
-    {
-      "id": "ch140",
-      "title": {
-        "en-US": "Chapter 140 — DIVINE PROVIDENCE COMPATIBLE WITH CONTINGENCY",
-        "la": "Caput 140 — DIVINE PROVIDENCE COMPATIBLE WITH CONTINGENCY"
-      }
-    },
-    {
-      "id": "ch141",
-      "title": {
-        "en-US": "Chapter 141 — PROVIDENCE AND EVIL",
-        "la": "Caput 141 — PROVIDENCE AND EVIL"
-      }
-    },
-    {
-      "id": "ch142",
-      "title": {
-        "en-US": "Chapter 142 — GOD’S GOODNESS AND THE PERMISSION OF EVIL",
-        "la": "Caput 142 — GOD’S GOODNESS AND THE PERMISSION OF EVIL"
-      }
-    },
-    {
-      "id": "ch143",
-      "title": {
-        "en-US": "Chapter 143 — GOD’S SPECIAL PROVIDENCE OVER MAN BY GRACE",
-        "la": "Caput 143 — GOD’S SPECIAL PROVIDENCE OVER MAN BY GRACE"
-      }
-    },
-    {
-      "id": "ch144",
-      "title": {
-        "en-US": "Chapter 144 — REMISSION OF SIN BY THE GIFTS OF GRACE",
-        "la": "Caput 144 — REMISSION OF SIN BY THE GIFTS OF GRACE"
-      }
-    },
-    {
-      "id": "ch145",
-      "title": {
-        "en-US": "Chapter 145 — NO SIN UNFORGIVABLE",
-        "la": "Caput 145 — NO SIN UNFORGIVABLE"
-      }
-    },
-    {
-      "id": "ch146",
-      "title": {
-        "en-US": "Chapter 146 — REMISSION OF SIN BY GOD ALONE",
-        "la": "Caput 146 — REMISSION OF SIN BY GOD ALONE"
-      }
-    },
-    {
-      "id": "ch147",
-      "title": {
-        "en-US": "Chapter 147 — SOME ARTICLES OF FAITH ON THE EFFECTS OF DIVINE GOVERNMENT",
-        "la": "Caput 147 — SOME ARTICLES OF FAITH ON THE EFFECTS OF DIVINE GOVERNMENT"
-      }
-    },
-    {
-      "id": "ch148",
-      "title": {
-        "en-US": "Chapter 148 — ALL CREATION FOR MAN",
-        "la": "Caput 148 — ALL CREATION FOR MAN"
-      }
-    },
-    {
-      "id": "ch149",
-      "title": {
-        "en-US": "Chapter 149 — THE ULTIMATE END OF MAN",
-        "la": "Caput 149 — THE ULTIMATE END OF MAN"
-      }
-    },
-    {
-      "id": "ch150",
-      "title": {
-        "en-US": "Chapter 150 — CONSUMMATION OF MAN IN ETERNITY",
-        "la": "Caput 150 — CONSUMMATION OF MAN IN ETERNITY"
-      }
-    },
-    {
-      "id": "ch151",
-      "title": {
-        "en-US": "Chapter 151 — REUNION WITH THE BODY REQUISITE FOR THE SOUL’S PERFECT HAPPINESS",
-        "la": "Caput 151 — REUNION WITH THE BODY REQUISITE FOR THE SOUL’S PERFECT HAPPINESS"
-      }
-    },
-    {
-      "id": "ch152",
-      "title": {
-        "en-US": "Chapter 152 — SEPARATION OF THE BODY FROM THE SOUL BOTH NATURAL AND CONTRARY TO NATURE",
-        "la": "Caput 152 — SEPARATION OF THE BODY FROM THE SOUL BOTH NATURAL AND CONTRARY TO NATURE"
-      }
-    },
-    {
-      "id": "ch153",
-      "title": {
-        "en-US": "Chapter 153 — THE SOUL’S RESUMPTION OF THE SAME BODY",
-        "la": "Caput 153 — THE SOUL’S RESUMPTION OF THE SAME BODY"
-      }
-    },
-    {
-      "id": "ch154",
-      "title": {
-        "en-US": "Chapter 154 — MIRACULOUS NATURE OF THE RESURRECTION",
-        "la": "Caput 154 — MIRACULOUS NATURE OF THE RESURRECTION"
-      }
-    },
-    {
-      "id": "ch155",
-      "title": {
-        "en-US": "Chapter 155 — RESURRECTION TO NEW LIFE",
-        "la": "Caput 155 — RESURRECTION TO NEW LIFE"
-      }
-    },
-    {
-      "id": "ch156",
-      "title": {
-        "en-US": "Chapter 156 — CESSATION OF NUTRITION AND REPRODUCTION AFTER THE RESURRECTION",
-        "la": "Caput 156 — CESSATION OF NUTRITION AND REPRODUCTION AFTER THE RESURRECTION"
-      }
-    },
-    {
-      "id": "ch157",
-      "title": {
-        "en-US": "Chapter 157 — RESURRECTION OF ALL THE BODILY MEMBERS",
-        "la": "Caput 157 — RESURRECTION OF ALL THE BODILY MEMBERS"
-      }
-    },
-    {
-      "id": "ch158",
-      "title": {
-        "en-US": "Chapter 158 — ABSENCE OF DEFECTS IN THE RESURRECTION",
-        "la": "Caput 158 — ABSENCE OF DEFECTS IN THE RESURRECTION"
-      }
-    },
-    {
-      "id": "ch159",
-      "title": {
-        "en-US": "Chapter 159 — RESURRECTION RESTRICTED TO WHAT IS NECESSARY FOR TRUE HUMAN NATURE",
-        "la": "Caput 159 — RESURRECTION RESTRICTED TO WHAT IS NECESSARY FOR TRUE HUMAN NATURE"
-      }
-    },
-    {
-      "id": "ch160",
-      "title": {
-        "en-US": "Chapter 160 — GOD’S ACTION IN SUPPLYING WHAT IS LACKING IN THE BODY",
-        "la": "Caput 160 — GOD’S ACTION IN SUPPLYING WHAT IS LACKING IN THE BODY"
-      }
-    },
-    {
-      "id": "ch161",
-      "title": {
-        "en-US": "Chapter 161 — SOLUTION OF POSSIBLE OBJECTIONS",
-        "la": "Caput 161 — SOLUTION OF POSSIBLE OBJECTIONS"
-      }
-    },
-    {
-      "id": "ch162",
-      "title": {
-        "en-US": "Chapter 162 — THE RESURRECTION OF THE DEAD AS AN ARTICLE OF FAITH",
-        "la": "Caput 162 — THE RESURRECTION OF THE DEAD AS AN ARTICLE OF FAITH"
-      }
-    },
-    {
-      "id": "ch163",
-      "title": {
-        "en-US": "Chapter 163 — NATURE OF RISEN MAN’S ACTIVITY",
-        "la": "Caput 163 — NATURE OF RISEN MAN’S ACTIVITY"
-      }
-    },
-    {
-      "id": "ch164",
-      "title": {
-        "en-US": "Chapter 164 — THE VISION OF GOD IN HIS ESSENCE",
-        "la": "Caput 164 — THE VISION OF GOD IN HIS ESSENCE"
-      }
-    },
-    {
-      "id": "ch165",
-      "title": {
-        "en-US": "Chapter 165 — SUPREME PERFECTION AND HAPPINESS IN THE VISION OF GOD",
-        "la": "Caput 165 — SUPREME PERFECTION AND HAPPINESS IN THE VISION OF GOD"
-      }
-    },
-    {
-      "id": "ch166",
-      "title": {
-        "en-US": "Chapter 166 — CONFIRMATION IN GOOD IN THE BEATIFIC VISION",
-        "la": "Caput 166 — CONFIRMATION IN GOOD IN THE BEATIFIC VISION"
-      }
-    },
-    {
-      "id": "ch167",
-      "title": {
-        "en-US": "Chapter 167 — COMPLETE SUBJECTION OF THE BODY TO THE SOUL",
-        "la": "Caput 167 — COMPLETE SUBJECTION OF THE BODY TO THE SOUL"
-      }
-    },
-    {
-      "id": "ch168",
-      "title": {
-        "en-US": "Chapter 168 — QUALITIES OF THE GLORIFIED BODY",
-        "la": "Caput 168 — QUALITIES OF THE GLORIFIED BODY"
-      }
-    },
-    {
-      "id": "ch169",
-      "title": {
-        "en-US": "Chapter 169 — RENOVATION OF MAN AND OF MATERIAL NATURE",
-        "la": "Caput 169 — RENOVATION OF MAN AND OF MATERIAL NATURE"
-      }
-    },
-    {
-      "id": "ch170",
-      "title": {
-        "en-US": "Chapter 170 — RENOVATION RESTRICTED TO CERTAIN CLASSES OF CREATURES",
-        "la": "Caput 170 — RENOVATION RESTRICTED TO CERTAIN CLASSES OF CREATURES"
-      }
-    },
-    {
-      "id": "ch171",
-      "title": {
-        "en-US": "Chapter 171 — CESSATION OF MOTION IN THE HEAVENLY BODIES",
-        "la": "Caput 171 — CESSATION OF MOTION IN THE HEAVENLY BODIES"
-      }
-    },
-    {
-      "id": "ch172",
-      "title": {
-        "en-US": "Chapter 172 — MAN’S REWARD OR MISERY ACCORDING TO HIS WORKS",
-        "la": "Caput 172 — MAN’S REWARD OR MISERY ACCORDING TO HIS WORKS"
-      }
-    },
-    {
-      "id": "ch173",
-      "title": {
-        "en-US": "Chapter 173 — REWARD AND MISERY POSTPONED TO THE NEXT WORLD",
-        "la": "Caput 173 — REWARD AND MISERY POSTPONED TO THE NEXT WORLD"
-      }
-    },
-    {
-      "id": "ch174",
-      "title": {
-        "en-US": "Chapter 174 — WRETCHEDNESS FLOWING FROM THE PUNISHMENT OF LOSS",
-        "la": "Caput 174 — WRETCHEDNESS FLOWING FROM THE PUNISHMENT OF LOSS"
-      }
-    },
-    {
-      "id": "ch175",
-      "title": {
-        "en-US": "Chapter 175 — FORGIVENESS OF SIN IN THE NEXT WORLD",
-        "la": "Caput 175 — FORGIVENESS OF SIN IN THE NEXT WORLD"
-      }
-    },
-    {
-      "id": "ch176",
-      "title": {
-        "en-US": "Chapter 176 — PROPERTIES OF THE BODIES OF THE DAMNED",
-        "la": "Caput 176 — PROPERTIES OF THE BODIES OF THE DAMNED"
-      }
-    },
-    {
-      "id": "ch177",
-      "title": {
-        "en-US": "Chapter 177 — SUFFERING COMPATIBLE WITH INCORRUPTIBILITY IN THE BODIES OF THE DAMNED",
-        "la": "Caput 177 — SUFFERING COMPATIBLE WITH INCORRUPTIBILITY IN THE BODIES OF THE DAMNED"
-      }
-    },
-    {
-      "id": "ch178",
-      "title": {
-        "en-US": "Chapter 178 — PUNISHMENT OF THE DAMNED PRIOR TO THE RESURRECTION",
-        "la": "Caput 178 — PUNISHMENT OF THE DAMNED PRIOR TO THE RESURRECTION"
-      }
-    },
-    {
-      "id": "ch179",
-      "title": {
-        "en-US": "Chapter 179 — SPIRITUAL AND CORPORAL PUNISHMENT OF THE DAMNED",
-        "la": "Caput 179 — SPIRITUAL AND CORPORAL PUNISHMENT OF THE DAMNED"
-      }
-    },
-    {
-      "id": "ch180",
-      "title": {
-        "en-US": "Chapter 180 — THE SOUL AND CORPOREAL FIRE",
-        "la": "Caput 180 — THE SOUL AND CORPOREAL FIRE"
-      }
-    },
-    {
-      "id": "ch181",
-      "title": {
-        "en-US": "Chapter 181 — PUNISHMENTS OF PURGATORY FOR UNEXPIATED MORTAL SINS",
-        "la": "Caput 181 — PUNISHMENTS OF PURGATORY FOR UNEXPIATED MORTAL SINS"
-      }
-    },
-    {
-      "id": "ch182",
-      "title": {
-        "en-US": "Chapter 182 — PUNISHMENT IN PURGATORY FOR VENIAL SINS",
-        "la": "Caput 182 — PUNISHMENT IN PURGATORY FOR VENIAL SINS"
-      }
-    },
-    {
-      "id": "ch183",
-      "title": {
-        "en-US": "Chapter 183 — ETERNAL PUNISHMENT FOR MOMENTARY SIN NOT INCOMPATIBLE WITH DIVINE JUSTICE",
-        "la": "Caput 183 — ETERNAL PUNISHMENT FOR MOMENTARY SIN NOT INCOMPATIBLE WITH DIVINE JUSTICE"
-      }
-    },
-    {
-      "id": "ch184",
-      "title": {
-        "en-US": "Chapter 184 — THE ETERNAL LOT OF OTHER SPIRITUAL SUBSTANCES COMPARABLE WITH THAT OF SOULS",
-        "la": "Caput 184 — THE ETERNAL LOT OF OTHER SPIRITUAL SUBSTANCES COMPARABLE WITH THAT OF SOULS"
-      }
-    },
-    {
-      "id": "ch185",
-      "title": {
-        "en-US": "Chapter 185 — SECOND TREATISE ON FAITH — THE HUMANITY OF CHRIST",
-        "la": "Caput 185 — De fide ad humanitatem Christi"
-      }
+      "id": "g1",
+      "title": {
+        "en-US": "Book 1 — On Faith",
+        "la": "Liber 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — On Faith",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g1-c001",
+          "title": {
+            "en-US": "Chapter 1 — First, the intention of the work is set down",
+            "la": "Caput 1"
+          }
+        },
+        {
+          "id": "g1-c002",
+          "title": {
+            "en-US": "Chapter 2 — Order of topics concerning faith",
+            "la": "Caput 2"
+          }
+        },
+        {
+          "id": "g1-c003",
+          "title": {
+            "en-US": "Chapter 3 — That God exists",
+            "la": "Caput 3"
+          }
+        },
+        {
+          "id": "g1-c004",
+          "title": {
+            "en-US": "Chapter 4 — That God is immovable",
+            "la": "Caput 4"
+          }
+        },
+        {
+          "id": "g1-c005",
+          "title": {
+            "en-US": "Chapter 5 — That God is eternal",
+            "la": "Caput 5"
+          }
+        },
+        {
+          "id": "g1-c006",
+          "title": {
+            "en-US": "Chapter 6 — That God’s existence is necessary in itself",
+            "la": "Caput 6"
+          }
+        },
+        {
+          "id": "g1-c007",
+          "title": {
+            "en-US": "Chapter 7 — That God always is",
+            "la": "Caput 7"
+          }
+        },
+        {
+          "id": "g1-c008",
+          "title": {
+            "en-US": "Chapter 8 — That there is no succession in God",
+            "la": "Caput 8"
+          }
+        },
+        {
+          "id": "g1-c009",
+          "title": {
+            "en-US": "Chapter 9 — That God is simple",
+            "la": "Caput 9"
+          }
+        },
+        {
+          "id": "g1-c010",
+          "title": {
+            "en-US": "Chapter 10 — That God is his own essence",
+            "la": "Caput 10"
+          }
+        },
+        {
+          "id": "g1-c011",
+          "title": {
+            "en-US": "Chapter 11 — That God’s essence is not other than his existence",
+            "la": "Caput 11"
+          }
+        },
+        {
+          "id": "g1-c012",
+          "title": {
+            "en-US": "Chapter 12 — That God is not in a genus",
+            "la": "Caput 12"
+          }
+        },
+        {
+          "id": "g1-c013",
+          "title": {
+            "en-US": "Chapter 13 — That God is not a genus",
+            "la": "Caput 13"
+          }
+        },
+        {
+          "id": "g1-c014",
+          "title": {
+            "en-US": "Chapter 14 — That God is not a species said of many individuals",
+            "la": "Caput 14"
+          }
+        },
+        {
+          "id": "g1-c015",
+          "title": {
+            "en-US": "Chapter 15 — That it is necessary for God to be one",
+            "la": "Caput 15"
+          }
+        },
+        {
+          "id": "g1-c016",
+          "title": {
+            "en-US": "Chapter 16 — That it is impossible for God to be a body",
+            "la": "Caput 16"
+          }
+        },
+        {
+          "id": "g1-c017",
+          "title": {
+            "en-US": "Chapter 17 — That it is impossible for him to be the form of a body",
+            "la": "Caput 17"
+          }
+        },
+        {
+          "id": "g1-c018",
+          "title": {
+            "en-US": "Chapter 18 — That God is infinite according to essence",
+            "la": "Caput 18"
+          }
+        },
+        {
+          "id": "g1-c019",
+          "title": {
+            "en-US": "Chapter 19 — That God is of infinite power",
+            "la": "Caput 19"
+          }
+        },
+        {
+          "id": "g1-c020",
+          "title": {
+            "en-US": "Chapter 20 — That the infinite in God does not convey imperfection",
+            "la": "Caput 20"
+          }
+        },
+        {
+          "id": "g1-c021",
+          "title": {
+            "en-US": "Chapter 21 — That every sort of perfection found in things is more eminently in God",
+            "la": "Caput 21"
+          }
+        },
+        {
+          "id": "g1-c022",
+          "title": {
+            "en-US": "Chapter 22 — That in God all perfections are one",
+            "la": "Caput 22"
+          }
+        },
+        {
+          "id": "g1-c023",
+          "title": {
+            "en-US": "Chapter 23 — That no accident is found in God",
+            "la": "Caput 23"
+          }
+        },
+        {
+          "id": "g1-c024",
+          "title": {
+            "en-US": "Chapter 24 — That the many names applied to God do not remove his simplicity",
+            "la": "Caput 24"
+          }
+        },
+        {
+          "id": "g1-c025",
+          "title": {
+            "en-US": "Chapter 25 — That although different names are said of God, nevertheless they are not synonyms",
+            "la": "Caput 25"
+          }
+        },
+        {
+          "id": "g1-c026",
+          "title": {
+            "en-US": "Chapter 26 — That by the definitions of these names one cannot define that which is in God",
+            "la": "Caput 26"
+          }
+        },
+        {
+          "id": "g1-c027",
+          "title": {
+            "en-US": "Chapter 27 — That names given to God and creatures are not said altogether univocally nor altogether equivocally",
+            "la": "Caput 27"
+          }
+        },
+        {
+          "id": "g1-c028",
+          "title": {
+            "en-US": "Chapter 28 — That God must be intelligent",
+            "la": "Caput 28"
+          }
+        },
+        {
+          "id": "g1-c029",
+          "title": {
+            "en-US": "Chapter 29 — That in God there is understanding neither in potency nor in habit, but in act",
+            "la": "Caput 29"
+          }
+        },
+        {
+          "id": "g1-c030",
+          "title": {
+            "en-US": "Chapter 30 — That God understands through no other species than his own essence",
+            "la": "Caput 30"
+          }
+        },
+        {
+          "id": "g1-c031",
+          "title": {
+            "en-US": "Chapter 31 — That God is his own act of understanding",
+            "la": "Caput 31"
+          }
+        },
+        {
+          "id": "g1-c032",
+          "title": {
+            "en-US": "Chapter 32 — That there must be will in God",
+            "la": "Caput 32"
+          }
+        },
+        {
+          "id": "g1-c033",
+          "title": {
+            "en-US": "Chapter 33 — That the very will of God must be nothing other than his intellect",
+            "la": "Caput 33"
+          }
+        },
+        {
+          "id": "g1-c034",
+          "title": {
+            "en-US": "Chapter 34 — That God’s will and willing are the same",
+            "la": "Caput 34"
+          }
+        },
+        {
+          "id": "g1-c035",
+          "title": {
+            "en-US": "Chapter 35 — That all the aforesaid truths are gathered into one article of faith",
+            "la": "Caput 35"
+          }
+        },
+        {
+          "id": "g1-c036",
+          "title": {
+            "en-US": "Chapter 36 — That all these things were laid down by the philosophers",
+            "la": "Caput 36"
+          }
+        },
+        {
+          "id": "g1-c037",
+          "title": {
+            "en-US": "Chapter 37 — How a Word is attributed to God",
+            "la": "Caput 37"
+          }
+        },
+        {
+          "id": "g1-c038",
+          "title": {
+            "en-US": "Chapter 38 — That Word in God is called a conception",
+            "la": "Caput 38"
+          }
+        },
+        {
+          "id": "g1-c039",
+          "title": {
+            "en-US": "Chapter 39 — How the Word stands to the Father",
+            "la": "Caput 39"
+          }
+        },
+        {
+          "id": "g1-c040",
+          "title": {
+            "en-US": "Chapter 40 — How generation in God is understood",
+            "la": "Caput 40"
+          }
+        },
+        {
+          "id": "g1-c041",
+          "title": {
+            "en-US": "Chapter 41 — That the Word, which is the Son, has the same existence and essence as the Father",
+            "la": "Caput 41"
+          }
+        },
+        {
+          "id": "g1-c042",
+          "title": {
+            "en-US": "Chapter 42 — That the Catholic faith teaches this",
+            "la": "Caput 42"
+          }
+        },
+        {
+          "id": "g1-c043",
+          "title": {
+            "en-US": "Chapter 43 — That in God the Word differs from the Father neither in time, nor in species, nor in nature",
+            "la": "Caput 43"
+          }
+        },
+        {
+          "id": "g1-c044",
+          "title": {
+            "en-US": "Chapter 44 — Conclusion from the foregoing",
+            "la": "Caput 44"
+          }
+        },
+        {
+          "id": "g1-c045",
+          "title": {
+            "en-US": "Chapter 45 — That God is in himself as beloved in lover",
+            "la": "Caput 45"
+          }
+        },
+        {
+          "id": "g1-c046",
+          "title": {
+            "en-US": "Chapter 46 — That love in God is called the Spirit",
+            "la": "Caput 46"
+          }
+        },
+        {
+          "id": "g1-c047",
+          "title": {
+            "en-US": "Chapter 47 — That the Spirit, which is in God, is holy",
+            "la": "Caput 47"
+          }
+        },
+        {
+          "id": "g1-c048",
+          "title": {
+            "en-US": "Chapter 48 — That love in God is not accidental",
+            "la": "Caput 48"
+          }
+        },
+        {
+          "id": "g1-c049",
+          "title": {
+            "en-US": "Chapter 49 — That the Holy Spirit proceeds from the Father and the Son",
+            "la": "Caput 49"
+          }
+        },
+        {
+          "id": "g1-c050",
+          "title": {
+            "en-US": "Chapter 50 — That a Trinity of persons in God is not opposed to unity of essence",
+            "la": "Caput 50"
+          }
+        },
+        {
+          "id": "g1-c051",
+          "title": {
+            "en-US": "Chapter 51 — How a Trinity of persons in God seems to be a contradiction",
+            "la": "Caput 51"
+          }
+        },
+        {
+          "id": "g1-c052",
+          "title": {
+            "en-US": "Chapter 52 — Solution of the difficulty: in God there is no distinction except according to relation",
+            "la": "Caput 52"
+          }
+        },
+        {
+          "id": "g1-c053",
+          "title": {
+            "en-US": "Chapter 53 — That the relations whereby Father, Son, and Holy Spirit are distinguished are real, and not merely rational",
+            "la": "Caput 53"
+          }
+        },
+        {
+          "id": "g1-c054",
+          "title": {
+            "en-US": "Chapter 54 — That such relations do not inhere accidentally",
+            "la": "Caput 54"
+          }
+        },
+        {
+          "id": "g1-c055",
+          "title": {
+            "en-US": "Chapter 55 — That the personal distinction is constituted through the aforesaid relations in God",
+            "la": "Caput 55"
+          }
+        },
+        {
+          "id": "g1-c056",
+          "title": {
+            "en-US": "Chapter 56 — That it is impossible for there to be more than three persons in God",
+            "la": "Caput 56"
+          }
+        },
+        {
+          "id": "g1-c057",
+          "title": {
+            "en-US": "Chapter 57 — Of the properties or notions in God, and how many are enumerated in the Father",
+            "la": "Caput 57"
+          }
+        },
+        {
+          "id": "g1-c058",
+          "title": {
+            "en-US": "Chapter 58 — Of the properties of the Son and the Holy Spirit, what they are and how many",
+            "la": "Caput 58"
+          }
+        },
+        {
+          "id": "g1-c059",
+          "title": {
+            "en-US": "Chapter 59 — Why these properties are called notions",
+            "la": "Caput 59"
+          }
+        },
+        {
+          "id": "g1-c060",
+          "title": {
+            "en-US": "Chapter 60 — That although there are four relations subsisting in God, nevertheless there are but three persons",
+            "la": "Caput 60"
+          }
+        },
+        {
+          "id": "g1-c061",
+          "title": {
+            "en-US": "Chapter 61 — That the hypostases would not remain if the personal properties were removed by the intellect",
+            "la": "Caput 61"
+          }
+        },
+        {
+          "id": "g1-c062",
+          "title": {
+            "en-US": "Chapter 62 — How the divine essence would remain if personal properties were removed by an act of intellect",
+            "la": "Caput 62"
+          }
+        },
+        {
+          "id": "g1-c063",
+          "title": {
+            "en-US": "Chapter 63 — Of the order of personal acts to personal properties",
+            "la": "Caput 63"
+          }
+        },
+        {
+          "id": "g1-c064",
+          "title": {
+            "en-US": "Chapter 64 — How generation must be taken with respect to the Father and with respect to the Son",
+            "la": "Caput 64"
+          }
+        },
+        {
+          "id": "g1-c065",
+          "title": {
+            "en-US": "Chapter 65 — How notional acts do not differ from persons except according to reason",
+            "la": "Caput 65"
+          }
+        },
+        {
+          "id": "g1-c066",
+          "title": {
+            "en-US": "Chapter 66 — That relative properties are the divine essence itself",
+            "la": "Caput 66"
+          }
+        },
+        {
+          "id": "g1-c067",
+          "title": {
+            "en-US": "Chapter 67 — That relations are not externally affixed, as Gilbert de la Porrée said",
+            "la": "Caput 67"
+          }
+        },
+        {
+          "id": "g1-c068",
+          "title": {
+            "en-US": "Chapter 68 — Of the effects of divinity, and first, of being",
+            "la": "Caput 68"
+          }
+        },
+        {
+          "id": "g1-c069",
+          "title": {
+            "en-US": "Chapter 69 — That God in creating things does not presuppose matter",
+            "la": "Caput 69"
+          }
+        },
+        {
+          "id": "g1-c070",
+          "title": {
+            "en-US": "Chapter 70 — That to create belongs to God alone",
+            "la": "Caput 70"
+          }
+        },
+        {
+          "id": "g1-c071",
+          "title": {
+            "en-US": "Chapter 71 — That diversity of matter is not the cause of diversity in things",
+            "la": "Caput 71"
+          }
+        },
+        {
+          "id": "g1-c072",
+          "title": {
+            "en-US": "Chapter 72 — The cause of diversity in things",
+            "la": "Caput 72"
+          }
+        },
+        {
+          "id": "g1-c073",
+          "title": {
+            "en-US": "Chapter 73 — Of the diversity, gradation, and order of things",
+            "la": "Caput 73"
+          }
+        },
+        {
+          "id": "g1-c074",
+          "title": {
+            "en-US": "Chapter 74 — How certain created things have more potency and less actuality, and certain others the reverse",
+            "la": "Caput 74"
+          }
+        },
+        {
+          "id": "g1-c075",
+          "title": {
+            "en-US": "Chapter 75 — That certain ones are intellectual substances, which are called immaterial",
+            "la": "Caput 75"
+          }
+        },
+        {
+          "id": "g1-c076",
+          "title": {
+            "en-US": "Chapter 76 — How such substances have free will",
+            "la": "Caput 76"
+          }
+        },
+        {
+          "id": "g1-c077",
+          "title": {
+            "en-US": "Chapter 77 — That in them there is order and gradation according to perfection of nature",
+            "la": "Caput 77"
+          }
+        },
+        {
+          "id": "g1-c078",
+          "title": {
+            "en-US": "Chapter 78 — How there is order and gradation of understanding in them",
+            "la": "Caput 78"
+          }
+        },
+        {
+          "id": "g1-c079",
+          "title": {
+            "en-US": "Chapter 79 — That the substance through which man understands is the lowest in the genus of intellectual substances",
+            "la": "Caput 79"
+          }
+        },
+        {
+          "id": "g1-c080",
+          "title": {
+            "en-US": "Chapter 80 — Of the difference of intellects in understanding",
+            "la": "Caput 80"
+          }
+        },
+        {
+          "id": "g1-c081",
+          "title": {
+            "en-US": "Chapter 81 — That the possible intellect receives intelligible forms from sensible things",
+            "la": "Caput 81"
+          }
+        },
+        {
+          "id": "g1-c082",
+          "title": {
+            "en-US": "Chapter 82 — That man needs sense powers in order to understand",
+            "la": "Caput 82"
+          }
+        },
+        {
+          "id": "g1-c083",
+          "title": {
+            "en-US": "Chapter 83 — That it is necessary to posit an agent intellect",
+            "la": "Caput 83"
+          }
+        },
+        {
+          "id": "g1-c084",
+          "title": {
+            "en-US": "Chapter 84 — That the human soul is incorruptible",
+            "la": "Caput 84"
+          }
+        },
+        {
+          "id": "g1-c085",
+          "title": {
+            "en-US": "Chapter 85 — That there is not one possible intellect in all men",
+            "la": "Caput 85"
+          }
+        },
+        {
+          "id": "g1-c086",
+          "title": {
+            "en-US": "Chapter 86 — That the agent intellect is not one in all men",
+            "la": "Caput 86"
+          }
+        },
+        {
+          "id": "g1-c087",
+          "title": {
+            "en-US": "Chapter 87 — That the possible intellect and agent intellect are founded in the soul’s essence",
+            "la": "Caput 87"
+          }
+        },
+        {
+          "id": "g1-c088",
+          "title": {
+            "en-US": "Chapter 88 — In what way these two powers come together in one essence of the soul",
+            "la": "Caput 88"
+          }
+        },
+        {
+          "id": "g1-c089",
+          "title": {
+            "en-US": "Chapter 89 — That all powers are rooted in the soul’s essence",
+            "la": "Caput 89"
+          }
+        },
+        {
+          "id": "g1-c090",
+          "title": {
+            "en-US": "Chapter 90 — That there is one soul in one body",
+            "la": "Caput 90"
+          }
+        },
+        {
+          "id": "g1-c091",
+          "title": {
+            "en-US": "Chapter 91 — Arguments that seem to prove that in man there are many souls",
+            "la": "Caput 91"
+          }
+        },
+        {
+          "id": "g1-c092",
+          "title": {
+            "en-US": "Chapter 92 — Refutation of the preceding arguments",
+            "la": "Caput 92"
+          }
+        },
+        {
+          "id": "g1-c093",
+          "title": {
+            "en-US": "Chapter 93 — Of the production of the rational soul, which is not by natural transmission",
+            "la": "Caput 93"
+          }
+        },
+        {
+          "id": "g1-c094",
+          "title": {
+            "en-US": "Chapter 94 — That the rational soul is not of the substance of God",
+            "la": "Caput 94"
+          }
+        },
+        {
+          "id": "g1-c095",
+          "title": {
+            "en-US": "Chapter 95 — That God creates things immediately",
+            "la": "Caput 95"
+          }
+        },
+        {
+          "id": "g1-c096",
+          "title": {
+            "en-US": "Chapter 96 — That God brings things into existence not by natural necessity but by will",
+            "la": "Caput 96"
+          }
+        },
+        {
+          "id": "g1-c097",
+          "title": {
+            "en-US": "Chapter 97 — That God is unchangeable in his action",
+            "la": "Caput 97"
+          }
+        },
+        {
+          "id": "g1-c098",
+          "title": {
+            "en-US": "Chapter 98 — An argument proving motion to have been from eternity, and its refutation",
+            "la": "Caput 98"
+          }
+        },
+        {
+          "id": "g1-c099",
+          "title": {
+            "en-US": "Chapter 99 — Arguments showing that from eternity matter must have preceded the creation of the world, and their refutations",
+            "la": "Caput 99"
+          }
+        },
+        {
+          "id": "g1-c100",
+          "title": {
+            "en-US": "Chapter 100 — That God effects all things on account of an end",
+            "la": "Caput 100"
+          }
+        },
+        {
+          "id": "g1-c101",
+          "title": {
+            "en-US": "Chapter 101 — That the ultimate end of all things is the divine goodness",
+            "la": "Caput 101"
+          }
+        },
+        {
+          "id": "g1-c102",
+          "title": {
+            "en-US": "Chapter 102 — That assimilation to the divine is the cause of diversity in things",
+            "la": "Caput 102"
+          }
+        },
+        {
+          "id": "g1-c103",
+          "title": {
+            "en-US": "Chapter 103 — That the divine goodness is the cause not only of things, but also of all motion and activity",
+            "la": "Caput 103"
+          }
+        },
+        {
+          "id": "g1-c104",
+          "title": {
+            "en-US": "Chapter 104 — That the ultimate end of the intellectual creature is to see God in his essence",
+            "la": "Caput 104"
+          }
+        },
+        {
+          "id": "g1-c105",
+          "title": {
+            "en-US": "Chapter 105 — How the created intellect can see the divine essence",
+            "la": "Caput 105"
+          }
+        },
+        {
+          "id": "g1-c106",
+          "title": {
+            "en-US": "Chapter 106 — How natural desire comes to rest in the vision of God in his essence, in which beatitude consists",
+            "la": "Caput 106"
+          }
+        },
+        {
+          "id": "g1-c107",
+          "title": {
+            "en-US": "Chapter 107 — That motion toward God for the acquiring of beatitude is like natural motion",
+            "la": "Caput 107"
+          }
+        },
+        {
+          "id": "g1-c108",
+          "title": {
+            "en-US": "Chapter 108 — Of the error of seeking happiness in creatures",
+            "la": "Caput 108"
+          }
+        },
+        {
+          "id": "g1-c109",
+          "title": {
+            "en-US": "Chapter 109 — That God alone is good by essence, whereas the creature is good by participation",
+            "la": "Caput 109"
+          }
+        },
+        {
+          "id": "g1-c110",
+          "title": {
+            "en-US": "Chapter 110 — That God cannot lose his own goodness",
+            "la": "Caput 110"
+          }
+        },
+        {
+          "id": "g1-c111",
+          "title": {
+            "en-US": "Chapter 111 — That the creature can fall away from its goodness",
+            "la": "Caput 111"
+          }
+        },
+        {
+          "id": "g1-c112",
+          "title": {
+            "en-US": "Chapter 112 — How creatures may fall away from goodness in their activities",
+            "la": "Caput 112"
+          }
+        },
+        {
+          "id": "g1-c113",
+          "title": {
+            "en-US": "Chapter 113 — Of the twofold principle of action, and in which one there can be defect",
+            "la": "Caput 113"
+          }
+        },
+        {
+          "id": "g1-c114",
+          "title": {
+            "en-US": "Chapter 114 — What is understood in things by the name good or bad",
+            "la": "Caput 114"
+          }
+        },
+        {
+          "id": "g1-c115",
+          "title": {
+            "en-US": "Chapter 115 — That it is impossible for evil to be a nature",
+            "la": "Caput 115"
+          }
+        },
+        {
+          "id": "g1-c116",
+          "title": {
+            "en-US": "Chapter 116 — In what way good and evil are differences of being, contraries, and genera of contraries",
+            "la": "Caput 116"
+          }
+        },
+        {
+          "id": "g1-c117",
+          "title": {
+            "en-US": "Chapter 117 — That nothing can be essentially or supremely evil, but evil is the corruption of some good",
+            "la": "Caput 117"
+          }
+        },
+        {
+          "id": "g1-c118",
+          "title": {
+            "en-US": "Chapter 118 — That evil is grounded in the good as in a subject",
+            "la": "Caput 118"
+          }
+        },
+        {
+          "id": "g1-c119",
+          "title": {
+            "en-US": "Chapter 119 — Of the two kinds of evil",
+            "la": "Caput 119"
+          }
+        },
+        {
+          "id": "g1-c120",
+          "title": {
+            "en-US": "Chapter 120 — Of three kinds of action, and of the evil of sin",
+            "la": "Caput 120"
+          }
+        },
+        {
+          "id": "g1-c121",
+          "title": {
+            "en-US": "Chapter 121 — That some evil has the nature of punishment, and not of fault",
+            "la": "Caput 121"
+          }
+        },
+        {
+          "id": "g1-c122",
+          "title": {
+            "en-US": "Chapter 122 — That not all punishment is contrary to the will in the same way",
+            "la": "Caput 122"
+          }
+        },
+        {
+          "id": "g1-c123",
+          "title": {
+            "en-US": "Chapter 123 — That all things are ruled by divine providence",
+            "la": "Caput 123"
+          }
+        },
+        {
+          "id": "g1-c124",
+          "title": {
+            "en-US": "Chapter 124 — That God rules lower creatures by higher ones",
+            "la": "Caput 124"
+          }
+        },
+        {
+          "id": "g1-c125",
+          "title": {
+            "en-US": "Chapter 125 — That lower intellectual substances are ruled by higher ones",
+            "la": "Caput 125"
+          }
+        },
+        {
+          "id": "g1-c126",
+          "title": {
+            "en-US": "Chapter 126 — Of the ranks and order of the angels",
+            "la": "Caput 126"
+          }
+        },
+        {
+          "id": "g1-c127",
+          "title": {
+            "en-US": "Chapter 127 — That lower bodies, but not the human intellect, are disposed by higher bodies",
+            "la": "Caput 127"
+          }
+        },
+        {
+          "id": "g1-c128",
+          "title": {
+            "en-US": "Chapter 128 — How the human intellect is indirectly subject to heavenly bodies",
+            "la": "Caput 128"
+          }
+        },
+        {
+          "id": "g1-c129",
+          "title": {
+            "en-US": "Chapter 129 — That God alone, and not a created thing, moves the will of man",
+            "la": "Caput 129"
+          }
+        },
+        {
+          "id": "g1-c130",
+          "title": {
+            "en-US": "Chapter 130 — That God is in all things and extends his providence to all",
+            "la": "Caput 130"
+          }
+        },
+        {
+          "id": "g1-c131",
+          "title": {
+            "en-US": "Chapter 131 — That God disposes all things immediately",
+            "la": "Caput 131"
+          }
+        },
+        {
+          "id": "g1-c132",
+          "title": {
+            "en-US": "Chapter 132 — Arguments that seem to show that God does not have providence over particulars",
+            "la": "Caput 132"
+          }
+        },
+        {
+          "id": "g1-c133",
+          "title": {
+            "en-US": "Chapter 133 — Refutation of the aforesaid arguments",
+            "la": "Caput 133"
+          }
+        },
+        {
+          "id": "g1-c134",
+          "title": {
+            "en-US": "Chapter 134 — That God alone knows singular future contingents",
+            "la": "Caput 134"
+          }
+        },
+        {
+          "id": "g1-c135",
+          "title": {
+            "en-US": "Chapter 135 — That God is in all things by power, essence, and presence, and disposes all immediately",
+            "la": "Caput 135"
+          }
+        },
+        {
+          "id": "g1-c136",
+          "title": {
+            "en-US": "Chapter 136 — That doing miracles belongs to God alone",
+            "la": "Caput 136"
+          }
+        },
+        {
+          "id": "g1-c137",
+          "title": {
+            "en-US": "Chapter 137 — That some things are said to be by chance and fortuitous",
+            "la": "Caput 137"
+          }
+        },
+        {
+          "id": "g1-c138",
+          "title": {
+            "en-US": "Chapter 138 — Whether fate is a nature, and what it is",
+            "la": "Caput 138"
+          }
+        },
+        {
+          "id": "g1-c139",
+          "title": {
+            "en-US": "Chapter 139 — That not everything is of necessity",
+            "la": "Caput 139"
+          }
+        },
+        {
+          "id": "g1-c140",
+          "title": {
+            "en-US": "Chapter 140 — That even under divine providence, many things are contingent",
+            "la": "Caput 140"
+          }
+        },
+        {
+          "id": "g1-c141",
+          "title": {
+            "en-US": "Chapter 141 — That the certainty of divine providence does not exclude evil from things",
+            "la": "Caput 141"
+          }
+        },
+        {
+          "id": "g1-c142",
+          "title": {
+            "en-US": "Chapter 142 — That it does not derogate from God’s goodness that he permits evils",
+            "la": "Caput 142"
+          }
+        },
+        {
+          "id": "g1-c143",
+          "title": {
+            "en-US": "Chapter 143 — That God specially provides for man by grace",
+            "la": "Caput 143"
+          }
+        },
+        {
+          "id": "g1-c144",
+          "title": {
+            "en-US": "Chapter 144 — That God remits sins by freely-given gifts",
+            "la": "Caput 144"
+          }
+        },
+        {
+          "id": "g1-c145",
+          "title": {
+            "en-US": "Chapter 145 — That sins are not unforgivable",
+            "la": "Caput 145"
+          }
+        },
+        {
+          "id": "g1-c146",
+          "title": {
+            "en-US": "Chapter 146 — That God alone can remit sins",
+            "la": "Caput 146"
+          }
+        },
+        {
+          "id": "g1-c147",
+          "title": {
+            "en-US": "Chapter 147 — Of certain articles of faith that are taken up with the effects of divine government",
+            "la": "Caput 147"
+          }
+        },
+        {
+          "id": "g1-c148",
+          "title": {
+            "en-US": "Chapter 148 — That all things were made for the sake of man",
+            "la": "Caput 148"
+          }
+        },
+        {
+          "id": "g1-c149",
+          "title": {
+            "en-US": "Chapter 149 — Man’s ultimate goal",
+            "la": "Caput 149"
+          }
+        },
+        {
+          "id": "g1-c150",
+          "title": {
+            "en-US": "Chapter 150 — How man arrives at eternity as to consummation",
+            "la": "Caput 150"
+          }
+        },
+        {
+          "id": "g1-c151",
+          "title": {
+            "en-US": "Chapter 151 — How the rational soul must be reunited with the body for perfect beatitude",
+            "la": "Caput 151"
+          }
+        },
+        {
+          "id": "g1-c152",
+          "title": {
+            "en-US": "Chapter 152 — How the separation of soul from body is according to nature and how it is contrary to nature",
+            "la": "Caput 152"
+          }
+        },
+        {
+          "id": "g1-c153",
+          "title": {
+            "en-US": "Chapter 153 — That the soul takes up again exactly the same body",
+            "la": "Caput 153"
+          }
+        },
+        {
+          "id": "g1-c154",
+          "title": {
+            "en-US": "Chapter 154 — That the soul takes up again one and the same body solely by the power of God",
+            "la": "Caput 154"
+          }
+        },
+        {
+          "id": "g1-c155",
+          "title": {
+            "en-US": "Chapter 155 — That men rise to incorruptible life",
+            "la": "Caput 155"
+          }
+        },
+        {
+          "id": "g1-c156",
+          "title": {
+            "en-US": "Chapter 156 — That after the resurrection the use of food and generation will cease",
+            "la": "Caput 156"
+          }
+        },
+        {
+          "id": "g1-c157",
+          "title": {
+            "en-US": "Chapter 157 — That nevertheless all bodily members will be resurrected",
+            "la": "Caput 157"
+          }
+        },
+        {
+          "id": "g1-c158",
+          "title": {
+            "en-US": "Chapter 158 — That they will not rise up with any defect",
+            "la": "Caput 158"
+          }
+        },
+        {
+          "id": "g1-c159",
+          "title": {
+            "en-US": "Chapter 159 — That only those things that are of the truth of human nature rise up",
+            "la": "Caput 159"
+          }
+        },
+        {
+          "id": "g1-c160",
+          "title": {
+            "en-US": "Chapter 160 — That God will supply all things to the reformed body, or whatever will be lacking of matter",
+            "la": "Caput 160"
+          }
+        },
+        {
+          "id": "g1-c161",
+          "title": {
+            "en-US": "Chapter 161 — Solution of possible objections",
+            "la": "Caput 161"
+          }
+        },
+        {
+          "id": "g1-c162",
+          "title": {
+            "en-US": "Chapter 162 — That the resurrection of the dead is expressed in the articles of faith",
+            "la": "Caput 162"
+          }
+        },
+        {
+          "id": "g1-c163",
+          "title": {
+            "en-US": "Chapter 163 — What sort of activity will belong to the risen",
+            "la": "Caput 163"
+          }
+        },
+        {
+          "id": "g1-c164",
+          "title": {
+            "en-US": "Chapter 164 — That God will be seen in his essence, and not through a likeness",
+            "la": "Caput 164"
+          }
+        },
+        {
+          "id": "g1-c165",
+          "title": {
+            "en-US": "Chapter 165 — That to see God is highest perfection and delight",
+            "la": "Caput 165"
+          }
+        },
+        {
+          "id": "g1-c166",
+          "title": {
+            "en-US": "Chapter 166 — That all who see God have a will firmly fixed in good",
+            "la": "Caput 166"
+          }
+        },
+        {
+          "id": "g1-c167",
+          "title": {
+            "en-US": "Chapter 167 — That bodies will be altogether obedient to souls",
+            "la": "Caput 167"
+          }
+        },
+        {
+          "id": "g1-c168",
+          "title": {
+            "en-US": "Chapter 168 — Of the gifts of glorified bodies",
+            "la": "Caput 168"
+          }
+        },
+        {
+          "id": "g1-c169",
+          "title": {
+            "en-US": "Chapter 169 — That man will then be renewed, and all bodily creation",
+            "la": "Caput 169"
+          }
+        },
+        {
+          "id": "g1-c170",
+          "title": {
+            "en-US": "Chapter 170 — Which creatures will be renewed, and which will remain",
+            "la": "Caput 170"
+          }
+        },
+        {
+          "id": "g1-c171",
+          "title": {
+            "en-US": "Chapter 171 — That heavenly bodies will cease moving",
+            "la": "Caput 171"
+          }
+        },
+        {
+          "id": "g1-c172",
+          "title": {
+            "en-US": "Chapter 172 — Of the reward of man according to his works, or of his misery",
+            "la": "Caput 172"
+          }
+        },
+        {
+          "id": "g1-c173",
+          "title": {
+            "en-US": "Chapter 173 — That man’s reward or misery comes after this life",
+            "la": "Caput 173"
+          }
+        },
+        {
+          "id": "g1-c174",
+          "title": {
+            "en-US": "Chapter 174 — In what consists the misery of man, as regards the punishment of the damned",
+            "la": "Caput 174"
+          }
+        },
+        {
+          "id": "g1-c175",
+          "title": {
+            "en-US": "Chapter 175 — That mortal sins are not forgiven after this life, but rather venial sins",
+            "la": "Caput 175"
+          }
+        },
+        {
+          "id": "g1-c176",
+          "title": {
+            "en-US": "Chapter 176 — That the bodies of the damned will be passible and yet complete, and without glorious qualities",
+            "la": "Caput 176"
+          }
+        },
+        {
+          "id": "g1-c177",
+          "title": {
+            "en-US": "Chapter 177 — That the bodies of the damned, although passible, will nevertheless be incorruptible",
+            "la": "Caput 177"
+          }
+        },
+        {
+          "id": "g1-c178",
+          "title": {
+            "en-US": "Chapter 178 — That before the resurrection the souls of some obtain happiness while others live in misery",
+            "la": "Caput 178"
+          }
+        },
+        {
+          "id": "g1-c179",
+          "title": {
+            "en-US": "Chapter 179 — That the punishment of the damned is in the wicked by things both spiritual and bodily",
+            "la": "Caput 179"
+          }
+        },
+        {
+          "id": "g1-c180",
+          "title": {
+            "en-US": "Chapter 180 — Whether the soul can suffer from bodily fire",
+            "la": "Caput 180"
+          }
+        },
+        {
+          "id": "g1-c181",
+          "title": {
+            "en-US": "Chapter 181 — That after this life there are certain punishments of purgatory that are not eternal",
+            "la": "Caput 181"
+          }
+        },
+        {
+          "id": "g1-c182",
+          "title": {
+            "en-US": "Chapter 182 — That some punishments of purgatory are for venial sins",
+            "la": "Caput 182"
+          }
+        },
+        {
+          "id": "g1-c183",
+          "title": {
+            "en-US": "Chapter 183 — Whether suffering eternal punishment is opposed to divine justice, since the guilt was momentary",
+            "la": "Caput 183"
+          }
+        },
+        {
+          "id": "g1-c184",
+          "title": {
+            "en-US": "Chapter 184 — That the aforesaid things belong also to other spiritual substances",
+            "la": "Caput 184"
+          }
+        },
+        {
+          "id": "g1-c185",
+          "title": {
+            "en-US": "Chapter 185 — On faith in the humanity of Christ",
+            "la": "Caput 185"
+          }
+        },
+        {
+          "id": "g1-c186",
+          "title": {
+            "en-US": "Chapter 186 — On man’s perfection in the first state",
+            "la": "Caput 186"
+          }
+        },
+        {
+          "id": "g1-c187",
+          "title": {
+            "en-US": "Chapter 187 — That that perfect state may be called original justice",
+            "la": "Caput 187"
+          }
+        },
+        {
+          "id": "g1-c188",
+          "title": {
+            "en-US": "Chapter 188 — On the tree of the knowledge of good and evil, and the commandment for the first man",
+            "la": "Caput 188"
+          }
+        },
+        {
+          "id": "g1-c189",
+          "title": {
+            "en-US": "Chapter 189 — On the seduction of Eve by the devil",
+            "la": "Caput 189"
+          }
+        },
+        {
+          "id": "g1-c190",
+          "title": {
+            "en-US": "Chapter 190 — What was the woman’s motivation",
+            "la": "Caput 190"
+          }
+        },
+        {
+          "id": "g1-c191",
+          "title": {
+            "en-US": "Chapter 191 — How sin came to the man",
+            "la": "Caput 191"
+          }
+        },
+        {
+          "id": "g1-c192",
+          "title": {
+            "en-US": "Chapter 192 — On the lower powers’ rebellion against reason",
+            "la": "Caput 192"
+          }
+        },
+        {
+          "id": "g1-c193",
+          "title": {
+            "en-US": "Chapter 193 — On suffering and the necessity of dying",
+            "la": "Caput 193"
+          }
+        },
+        {
+          "id": "g1-c194",
+          "title": {
+            "en-US": "Chapter 194 — On other defects that followed in intellect and will",
+            "la": "Caput 194"
+          }
+        },
+        {
+          "id": "g1-c195",
+          "title": {
+            "en-US": "Chapter 195 — How these defects are handed down to posterity",
+            "la": "Caput 195"
+          }
+        },
+        {
+          "id": "g1-c196",
+          "title": {
+            "en-US": "Chapter 196 — Whether the privation of original justice has the nature of sin in posterity",
+            "la": "Caput 196"
+          }
+        },
+        {
+          "id": "g1-c197",
+          "title": {
+            "en-US": "Chapter 197 — That not all sins are transmitted to posterity",
+            "la": "Caput 197"
+          }
+        },
+        {
+          "id": "g1-c198",
+          "title": {
+            "en-US": "Chapter 198 — That Adam’s merit did not avail his posterity for reparation",
+            "la": "Caput 198"
+          }
+        },
+        {
+          "id": "g1-c199",
+          "title": {
+            "en-US": "Chapter 199 — On the reparation of human nature through Christ",
+            "la": "Caput 199"
+          }
+        },
+        {
+          "id": "g1-c200",
+          "title": {
+            "en-US": "Chapter 200 — That only through God incarnate ought nature to be repaired",
+            "la": "Caput 200"
+          }
+        },
+        {
+          "id": "g1-c201",
+          "title": {
+            "en-US": "Chapter 201 — Other reasons for the Incarnation of the Son of God",
+            "la": "Caput 201"
+          }
+        },
+        {
+          "id": "g1-c202",
+          "title": {
+            "en-US": "Chapter 202 — On the error of Photinus about the Incarnation of the Son of God",
+            "la": "Caput 202"
+          }
+        },
+        {
+          "id": "g1-c203",
+          "title": {
+            "en-US": "Chapter 203 — Nestorius’ error about the Incarnation and his refutation",
+            "la": "Caput 203"
+          }
+        },
+        {
+          "id": "g1-c204",
+          "title": {
+            "en-US": "Chapter 204 — Arius’ error about the Incarnation and his refutation",
+            "la": "Caput 204"
+          }
+        },
+        {
+          "id": "g1-c205",
+          "title": {
+            "en-US": "Chapter 205 — Apollinaris’ error about the Incarnation and his refutation",
+            "la": "Caput 205"
+          }
+        },
+        {
+          "id": "g1-c206",
+          "title": {
+            "en-US": "Chapter 206 — Eutyches’ error of placing union in the nature",
+            "la": "Caput 206"
+          }
+        },
+        {
+          "id": "g1-c207",
+          "title": {
+            "en-US": "Chapter 207 — Against the error of the Manichaeans, who said that Christ did not have a true body but a phantastical one",
+            "la": "Caput 207"
+          }
+        },
+        {
+          "id": "g1-c208",
+          "title": {
+            "en-US": "Chapter 208 — That Christ had a true body, not one from heaven, against Valentinus",
+            "la": "Caput 208"
+          }
+        },
+        {
+          "id": "g1-c209",
+          "title": {
+            "en-US": "Chapter 209 — The teaching of the faith about the Incarnation",
+            "la": "Caput 209"
+          }
+        },
+        {
+          "id": "g1-c210",
+          "title": {
+            "en-US": "Chapter 210 — That in him there are not two supposita",
+            "la": "Caput 210"
+          }
+        },
+        {
+          "id": "g1-c211",
+          "title": {
+            "en-US": "Chapter 211 — That in Christ there is only one suppositum and only one person",
+            "la": "Caput 211"
+          }
+        },
+        {
+          "id": "g1-c212",
+          "title": {
+            "en-US": "Chapter 212 — On the things that are spoken of as one or many in Christ",
+            "la": "Caput 212"
+          }
+        },
+        {
+          "id": "g1-c213",
+          "title": {
+            "en-US": "Chapter 213 — That Christ had to be perfect in grace and in the wisdom of truth",
+            "la": "Caput 213"
+          }
+        },
+        {
+          "id": "g1-c214",
+          "title": {
+            "en-US": "Chapter 214 — On the fullness of Christ’s grace",
+            "la": "Caput 214"
+          }
+        },
+        {
+          "id": "g1-c215",
+          "title": {
+            "en-US": "Chapter 215 — On the infinity of Christ’s grace",
+            "la": "Caput 215"
+          }
+        },
+        {
+          "id": "g1-c216",
+          "title": {
+            "en-US": "Chapter 216 — On the fullness of Christ’s wisdom",
+            "la": "Caput 216"
+          }
+        },
+        {
+          "id": "g1-c217",
+          "title": {
+            "en-US": "Chapter 217 — Concerning the matter of Christ’s body",
+            "la": "Caput 217"
+          }
+        },
+        {
+          "id": "g1-c218",
+          "title": {
+            "en-US": "Chapter 218 — On the formation of Christ’s body, which was not from male seed",
+            "la": "Caput 218"
+          }
+        },
+        {
+          "id": "g1-c219",
+          "title": {
+            "en-US": "Chapter 219 — On the cause of the formation of Christ’s body",
+            "la": "Caput 219"
+          }
+        },
+        {
+          "id": "g1-c220",
+          "title": {
+            "en-US": "Chapter 220 — Explanation of the article in the Creed about the conception and birth of Christ",
+            "la": "Caput 220"
+          }
+        },
+        {
+          "id": "g1-c221",
+          "title": {
+            "en-US": "Chapter 221 — That it was fitting for Christ to be born of a virgin",
+            "la": "Caput 221"
+          }
+        },
+        {
+          "id": "g1-c222",
+          "title": {
+            "en-US": "Chapter 222 — That the Blessed Virgin is the mother of Christ",
+            "la": "Caput 222"
+          }
+        },
+        {
+          "id": "g1-c223",
+          "title": {
+            "en-US": "Chapter 223 — That the Holy Spirit is not the father of Christ",
+            "la": "Caput 223"
+          }
+        },
+        {
+          "id": "g1-c224",
+          "title": {
+            "en-US": "Chapter 224 — On the sanctification of the mother of Christ",
+            "la": "Caput 224"
+          }
+        },
+        {
+          "id": "g1-c225",
+          "title": {
+            "en-US": "Chapter 225 — On the perpetual virginity of the mother of Christ",
+            "la": "Caput 225"
+          }
+        },
+        {
+          "id": "g1-c226",
+          "title": {
+            "en-US": "Chapter 226 — On the defects assumed by Christ",
+            "la": "Caput 226"
+          }
+        },
+        {
+          "id": "g1-c227",
+          "title": {
+            "en-US": "Chapter 227 — Why Christ willed to die",
+            "la": "Caput 227"
+          }
+        },
+        {
+          "id": "g1-c228",
+          "title": {
+            "en-US": "Chapter 228 — On the death of the cross",
+            "la": "Caput 228"
+          }
+        },
+        {
+          "id": "g1-c229",
+          "title": {
+            "en-US": "Chapter 229 — On the death of Christ",
+            "la": "Caput 229"
+          }
+        },
+        {
+          "id": "g1-c230",
+          "title": {
+            "en-US": "Chapter 230 — That the death of Christ was voluntary",
+            "la": "Caput 230"
+          }
+        },
+        {
+          "id": "g1-c231",
+          "title": {
+            "en-US": "Chapter 231 — On the Passion of Christ as regards the body",
+            "la": "Caput 231"
+          }
+        },
+        {
+          "id": "g1-c232",
+          "title": {
+            "en-US": "Chapter 232 — On the passibility of Christ’s soul",
+            "la": "Caput 232"
+          }
+        },
+        {
+          "id": "g1-c233",
+          "title": {
+            "en-US": "Chapter 233 — On the prayer of Christ",
+            "la": "Caput 233"
+          }
+        },
+        {
+          "id": "g1-c234",
+          "title": {
+            "en-US": "Chapter 234 — On the burial of Christ",
+            "la": "Caput 234"
+          }
+        },
+        {
+          "id": "g1-c235",
+          "title": {
+            "en-US": "Chapter 235 — On Christ’s descent into hell",
+            "la": "Caput 235"
+          }
+        },
+        {
+          "id": "g1-c236",
+          "title": {
+            "en-US": "Chapter 236 — On the resurrection of Christ and the time of his resurrection",
+            "la": "Caput 236"
+          }
+        },
+        {
+          "id": "g1-c237",
+          "title": {
+            "en-US": "Chapter 237 — On the quality of the risen Christ",
+            "la": "Caput 237"
+          }
+        },
+        {
+          "id": "g1-c238",
+          "title": {
+            "en-US": "Chapter 238 — How Christ’s resurrection is proved by fitting arguments",
+            "la": "Caput 238"
+          }
+        },
+        {
+          "id": "g1-c239",
+          "title": {
+            "en-US": "Chapter 239 — On the power of the Lord’s resurrection",
+            "la": "Caput 239"
+          }
+        },
+        {
+          "id": "g1-c240",
+          "title": {
+            "en-US": "Chapter 240 — On the twofold reward of the humiliation, namely, resurrection and ascension",
+            "la": "Caput 240"
+          }
+        },
+        {
+          "id": "g1-c241",
+          "title": {
+            "en-US": "Chapter 241 — That Christ will judge according to his human nature",
+            "la": "Caput 241"
+          }
+        },
+        {
+          "id": "g1-c242",
+          "title": {
+            "en-US": "Chapter 242 — That the Father who knows the hour of judgment will give all judgment to the Son",
+            "la": "Caput 242"
+          }
+        },
+        {
+          "id": "g1-c243",
+          "title": {
+            "en-US": "Chapter 243 — Whether all will be judged or not",
+            "la": "Caput 243"
+          }
+        },
+        {
+          "id": "g1-c244",
+          "title": {
+            "en-US": "Chapter 244 — Of the manner and place of the judgment",
+            "la": "Caput 244"
+          }
+        },
+        {
+          "id": "g1-c245",
+          "title": {
+            "en-US": "Chapter 245 — That the saints will judge",
+            "la": "Caput 245"
+          }
+        },
+        {
+          "id": "g1-c246",
+          "title": {
+            "en-US": "Chapter 246 — On the distinction of the articles of faith",
+            "la": "Caput 246"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "Book 2 — On Hope",
+        "la": "Liber 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — On Hope",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Chapter 1 — In which it is shown that the virtue of hope is necessary for the perfection of Christian life",
+            "la": "Caput 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Chapter 2 — That prayer is recommended to men to obtain what they hope from God, and on the diversity of prayers to God and man",
+            "la": "Caput 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Chapter 3 — That Christ fittingly gave us a form of prayer for hope’s consummation",
+            "la": "Caput 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Chapter 4 — Why we ought to pray to God himself for what we hope",
+            "la": "Caput 4"
+          }
+        },
+        {
+          "id": "g2-c005",
+          "title": {
+            "en-US": "Chapter 5 — That God, from whom we beg the object of our hope in prayer, ought to be called “Our Father” and not “My Father”",
+            "la": "Caput 5"
+          }
+        },
+        {
+          "id": "g2-c006",
+          "title": {
+            "en-US": "Chapter 6 — God’s power to grant our petitions is shown by saying, “Who art in heaven”",
+            "la": "Caput 6"
+          }
+        },
+        {
+          "id": "g2-c007",
+          "title": {
+            "en-US": "Chapter 7 — Of the objects and reason of hope",
+            "la": "Caput 7"
+          }
+        },
+        {
+          "id": "g2-c008",
+          "title": {
+            "en-US": "Chapter 8 — The first petition: we are taught to desire that the knowledge of God begun in us would be perfected",
+            "la": "Caput 8"
+          }
+        },
+        {
+          "id": "g2-c009",
+          "title": {
+            "en-US": "Chapter 9 — The second petition: prayer for participation in God’s glory",
+            "la": "Caput 9"
+          }
+        },
+        {
+          "id": "g2-c010",
+          "title": {
+            "en-US": "Chapter 10 — That is it possible to reach the kingdom",
+            "la": "Caput 10"
+          }
+        }
+      ]
     }
   ]
 }

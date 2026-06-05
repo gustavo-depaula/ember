@@ -1,0 +1,3 @@
+# Prooemium
+
+***Prosperitas et Adversitas***

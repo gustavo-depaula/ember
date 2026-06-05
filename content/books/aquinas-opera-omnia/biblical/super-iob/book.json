@@ -1,7 +1,7 @@
 {
   "id": "aquinas-super-iob",
   "name": {
-    "en-US": "Commentary on the Book of Job",
+    "en-US": "Commentary on Job",
     "la": "Expositio super Iob ad litteram"
   },
   "author": {
@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Aquinas's literal commentary on Job, read against the providence question. Composed during his time at the papal court of Orvieto.",
-    "la": "Expositio Thomae ad litteram super Iob, quaestionem providentiae considerans. Composita Urbeveteri, in curia papali."
+    "en-US": "Aquinas's literal commentary on the Book of Job — composed at Orvieto during the years preparing the *Summa Contra Gentiles*. A theology of providence, suffering, and the integrity of the just man.",
+    "la": "Expositio Thomae litteralis in librum Iob — apud Urbem Veterem composita per annos quibus *Summa contra Gentiles* parabatur. Theologia providentiae, passionis, et integritatis viri iusti."
   },
   "composed": "1261–1265",
   "languages": [
@@ -20,295 +20,1333 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Brian Mulladay, ed. by The Aquinas Institute. Translation status: may be under copyright; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Iob",
+      "description": "English translation by Brian Mullady OP and the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Iob",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch-0",
+      "id": "g1",
       "title": {
-        "en-US": "Lecture 0",
-        "la": "Lectio 0"
-      }
+        "en-US": "Chapter 1 — Prologue",
+        "la": "Caput 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — Prologue",
+            "la": "Prooemium"
+          }
+        }
+      ]
     },
     {
-      "id": "c01-l1",
+      "id": "g2",
       "title": {
-        "en-US": "Chapter 1, Lecture 1",
-        "la": "Caput 1, Lectio 1"
-      }
+        "en-US": "Chapter 2 — The First Trial",
+        "la": "Caput 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — The First Trial",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Lecture 1 — Introduction",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Lecture 2 — Satan’s request",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Lecture 3 — The trial",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Lecture 4 — Job’s submission",
+            "la": "Lectio 4"
+          }
+        }
+      ]
     },
     {
-      "id": "c06-l1",
+      "id": "g3",
       "title": {
-        "en-US": "Chapter 6, Lecture 1",
-        "la": "Caput 6, Lectio 1"
-      }
+        "en-US": "Chapter 3 — The Second Trial",
+        "la": "Caput 3"
+      },
+      "children": [
+        {
+          "id": "g3-pr",
+          "title": {
+            "en-US": "Prologue — The Second Trial",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Lecture 1 — Satan tries Job in his flesh",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g3-c002",
+          "title": {
+            "en-US": "Lecture 2 — Job humbled",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c07-l1",
+      "id": "g4",
       "title": {
-        "en-US": "Chapter 7, Lecture 1",
-        "la": "Caput 7, Lectio 1"
-      }
+        "en-US": "Chapter 4 — Job’s Lament",
+        "la": "Caput 4"
+      },
+      "children": [
+        {
+          "id": "g4-pr",
+          "title": {
+            "en-US": "Prologue — Job’s Lament",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job curses his life",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g4-c002",
+          "title": {
+            "en-US": "Lecture 2 — Job would rest in peace with the dead",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g4-c003",
+          "title": {
+            "en-US": "Lecture 3 — Like the unhappy",
+            "la": "Lectio 3"
+          }
+        }
+      ]
     },
     {
-      "id": "c08-l1",
+      "id": "g5",
       "title": {
-        "en-US": "Chapter 8, Lecture 1",
-        "la": "Caput 8, Lectio 1"
-      }
+        "en-US": "Chapter 5 — The Discourse of Eliphaz",
+        "la": "Caput 5"
+      },
+      "children": [
+        {
+          "id": "g5-pr",
+          "title": {
+            "en-US": "Prologue — The Discourse of Eliphaz",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Lecture 1 — On the impatience of Job",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g5-c002",
+          "title": {
+            "en-US": "Lecture 2 — Job and his family justly punished",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g5-c003",
+          "title": {
+            "en-US": "Lecture 3 — The nocturnal vision of Eliphaz",
+            "la": "Lectio 3"
+          }
+        }
+      ]
     },
     {
-      "id": "c09-l1",
+      "id": "g6",
       "title": {
-        "en-US": "Chapter 9, Lecture 1",
-        "la": "Caput 9, Lectio 1"
-      }
+        "en-US": "Chapter 6 — The Discourse of Eliphaz Continues",
+        "la": "Caput 6"
+      },
+      "children": [
+        {
+          "id": "g6-pr",
+          "title": {
+            "en-US": "Prologue — The Discourse of Eliphaz Continues",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g6-c001",
+          "title": {
+            "en-US": "Lecture 1 — Only the blameworthy are punished",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g6-c002",
+          "title": {
+            "en-US": "Lecture 2 — Providence governs the world",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g6-c003",
+          "title": {
+            "en-US": "Lecture 3 — God will pardon Job if he recognizes his sin",
+            "la": "Lectio 3"
+          }
+        }
+      ]
     },
     {
-      "id": "c10-l1",
+      "id": "g7",
       "title": {
-        "en-US": "Chapter 10, Lecture 1",
-        "la": "Caput 10, Lectio 1"
-      }
+        "en-US": "Chapter 7 — The Discourse of Job",
+        "la": "Caput 7"
+      },
+      "children": [
+        {
+          "id": "g7-pr",
+          "title": {
+            "en-US": "Prologue — The Discourse of Job",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g7-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job is wounded by God and desires not to exist",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g7-c002",
+          "title": {
+            "en-US": "Lecture 2 — Job feels betrayed by his friends",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c11-l1",
+      "id": "g8",
       "title": {
-        "en-US": "Chapter 11, Lecture 1",
-        "la": "Caput 11, Lectio 1"
-      }
+        "en-US": "Chapter 8 — The Human Condition",
+        "la": "Caput 8"
+      },
+      "children": [
+        {
+          "id": "g8-pr",
+          "title": {
+            "en-US": "Prologue — The Human Condition",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g8-c001",
+          "title": {
+            "en-US": "Lecture 1 — Life is combat and drudgery",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g8-c002",
+          "title": {
+            "en-US": "Lecture 2 — The pains of life",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g8-c003",
+          "title": {
+            "en-US": "Lecture 3 — Job laments his terrible destiny",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g8-c004",
+          "title": {
+            "en-US": "Lecture 4 — The prayer of Job",
+            "la": "Lectio 4"
+          }
+        }
+      ]
     },
     {
-      "id": "c12-l1",
+      "id": "g9",
       "title": {
-        "en-US": "Chapter 12, Lecture 1",
-        "la": "Caput 12, Lectio 1"
-      }
+        "en-US": "Chapter 9 — The Discourse of Bildad: The Allegory of the Rush",
+        "la": "Caput 9"
+      },
+      "children": [
+        {
+          "id": "g9-pr",
+          "title": {
+            "en-US": "Prologue — The Discourse of Bildad: The Allegory of the Rush",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g9-c001",
+          "title": {
+            "en-US": "Lecture 1 — God is just",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g9-c002",
+          "title": {
+            "en-US": "Lecture 2 — God’s justice is traditional doctrine",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c13-l1",
+      "id": "g10",
       "title": {
-        "en-US": "Chapter 13, Lecture 1",
-        "la": "Caput 13, Lectio 1"
-      }
+        "en-US": "Chapter 10 — The Problem of Evil",
+        "la": "Caput 10"
+      },
+      "children": [
+        {
+          "id": "g10-pr",
+          "title": {
+            "en-US": "Prologue — The Problem of Evil",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g10-c001",
+          "title": {
+            "en-US": "Lecture 1 — God is almighty",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g10-c002",
+          "title": {
+            "en-US": "Lecture 2 — God is infinitely wise",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g10-c003",
+          "title": {
+            "en-US": "Lecture 3 — Job cannot struggle against God",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g10-c004",
+          "title": {
+            "en-US": "Lecture 4 — The cruel lot of the just and the wicked",
+            "la": "Lectio 4"
+          }
+        }
+      ]
     },
     {
-      "id": "c14-l1",
+      "id": "g11",
       "title": {
-        "en-US": "Chapter 14, Lecture 1",
-        "la": "Caput 14, Lectio 1"
-      }
+        "en-US": "Chapter 11 — The Special Problem of the Suffering of the Just",
+        "la": "Caput 11"
+      },
+      "children": [
+        {
+          "id": "g11-pr",
+          "title": {
+            "en-US": "Prologue — The Special Problem of the Suffering of the Just",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g11-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job returns to himself: the creator does not deny his creature",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g11-c002",
+          "title": {
+            "en-US": "Lecture 2 — Is Job blameworthy?",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g11-c003",
+          "title": {
+            "en-US": "Lecture 3 — Job desires a respite",
+            "la": "Lectio 3"
+          }
+        }
+      ]
     },
     {
-      "id": "c15-l1",
+      "id": "g12",
       "title": {
-        "en-US": "Chapter 15, Lecture 1",
-        "la": "Caput 15, Lectio 1"
-      }
+        "en-US": "Chapter 12 — Law and Divine Transcendance",
+        "la": "Caput 12"
+      },
+      "children": [
+        {
+          "id": "g12-pr",
+          "title": {
+            "en-US": "Prologue — Law and Divine Transcendance",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g12-c001",
+          "title": {
+            "en-US": "Lecture 1 — The infinite grandeur of God",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g12-c002",
+          "title": {
+            "en-US": "Lecture 2 — The great infinity of God",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c16-l1",
+      "id": "g13",
       "title": {
-        "en-US": "Chapter 16, Lecture 1",
-        "la": "Caput 16, Lectio 1"
-      }
+        "en-US": "Chapter 13 — What Experience Teaches Us About God",
+        "la": "Caput 13"
+      },
+      "children": [
+        {
+          "id": "g13-pr",
+          "title": {
+            "en-US": "Prologue — What Experience Teaches Us About God",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g13-c001",
+          "title": {
+            "en-US": "Lecture 1 — God aids the humble",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g13-c002",
+          "title": {
+            "en-US": "Lecture 2 — God rules everything",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c17-l1",
+      "id": "g14",
       "title": {
-        "en-US": "Chapter 17, Lecture 1",
-        "la": "Caput 17, Lectio 1"
-      }
+        "en-US": "Chapter 14 — Prosperity and Adversity",
+        "la": "Caput 14"
+      },
+      "children": [
+        {
+          "id": "g14-pr",
+          "title": {
+            "en-US": "Prologue — Prosperity and Adversity",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g14-c001",
+          "title": {
+            "en-US": "Lecture 1 — The perversity of the friends of Job",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g14-c002",
+          "title": {
+            "en-US": "Lecture 2 — Job asks God what grievances he has against him",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c18-l1",
+      "id": "g15",
       "title": {
-        "en-US": "Chapter 18, Lecture 1",
-        "la": "Caput 18, Lectio 1"
-      }
+        "en-US": "Chapter 15 — True Retribution",
+        "la": "Caput 15"
+      },
+      "children": [
+        {
+          "id": "g15-pr",
+          "title": {
+            "en-US": "Prologue — True Retribution",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g15-c001",
+          "title": {
+            "en-US": "Lecture 1 — Wonder about divine care",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g15-c002",
+          "title": {
+            "en-US": "Lecture 2 — The hope for another life",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g15-c003",
+          "title": {
+            "en-US": "Lecture 3 — The strength of the tree and the weakness of man",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g15-c004",
+          "title": {
+            "en-US": "Lecture 4 — Waiting for darkness and hope of resurrection",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g15-c005",
+          "title": {
+            "en-US": "Lecture 5 — One cannot return from Sheol",
+            "la": "Lectio 5"
+          }
+        }
+      ]
     },
     {
-      "id": "c19-l1",
+      "id": "g16",
       "title": {
-        "en-US": "Chapter 19, Lecture 1",
-        "la": "Caput 19, Lectio 1"
-      }
+        "en-US": "Chapter 16 — New Condemnation of Job",
+        "la": "Caput 16"
+      },
+      "children": [
+        {
+          "id": "g16-pr",
+          "title": {
+            "en-US": "Prologue — New Condemnation of Job",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g16-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job’s pride and presumption",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g16-c002",
+          "title": {
+            "en-US": "Lecture 2 — Divine punishment is inevitable",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g16-c003",
+          "title": {
+            "en-US": "Lecture 3 — The unhappy end of the wicked",
+            "la": "Lectio 3"
+          }
+        }
+      ]
     },
     {
-      "id": "c20-l1",
+      "id": "g17",
       "title": {
-        "en-US": "Chapter 20, Lecture 1",
-        "la": "Caput 20, Lectio 1"
-      }
+        "en-US": "Chapter 17 — The Answer of Job to Eliphaz",
+        "la": "Caput 17"
+      },
+      "children": [
+        {
+          "id": "g17-pr",
+          "title": {
+            "en-US": "Prologue — The Answer of Job to Eliphaz",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g17-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job again describes his trials",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g17-c002",
+          "title": {
+            "en-US": "Lecture 2 — The promises of his friends are vain",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c21-l1",
+      "id": "g18",
       "title": {
-        "en-US": "Chapter 21, Lecture 1",
-        "la": "Caput 21, Lectio 1"
-      }
+        "en-US": "Chapter 18 — Job Counts on God’s Friendship",
+        "la": "Caput 18"
+      },
+      "children": [
+        {
+          "id": "g18-pr",
+          "title": {
+            "en-US": "Prologue — Job Counts on God’s Friendship",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g18-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job calls on God",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g18-c002",
+          "title": {
+            "en-US": "Lecture 2 — Job ridicules his friends",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c22-l1",
+      "id": "g19",
       "title": {
-        "en-US": "Chapter 22, Lecture 1",
-        "la": "Caput 22, Lectio 1"
-      }
+        "en-US": "Chapter 19 — The Inexorable Fate of the Wicked",
+        "la": "Caput 19"
+      },
+      "children": [
+        {
+          "id": "g19-pr",
+          "title": {
+            "en-US": "Prologue — The Inexorable Fate of the Wicked",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g19-c001",
+          "title": {
+            "en-US": "Lecture 1 — The response of Baldath",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g19-c002",
+          "title": {
+            "en-US": "Lecture 2 — The pains of the sinner",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c02-l3",
+      "id": "g20",
       "title": {
-        "en-US": "Chapter 2, Lecture 3",
-        "la": "Caput 2, Lectio 3"
-      }
+        "en-US": "Chapter 20 — Job Answers Baldath",
+        "la": "Caput 20"
+      },
+      "children": [
+        {
+          "id": "g20-pr",
+          "title": {
+            "en-US": "Prologue — Job Answers Baldath",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g20-c001",
+          "title": {
+            "en-US": "Lecture 1 — A new description of his misfortune",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g20-c002",
+          "title": {
+            "en-US": "Lecture 2 — Job’s great profession of faith: his redeemer lives",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c02-l4",
+      "id": "g21",
       "title": {
-        "en-US": "Chapter 2, Lecture 4",
-        "la": "Caput 2, Lectio 4"
-      }
+        "en-US": "Chapter 21 — Sophar’s Answer: A Future Life, but Punishments on Earth",
+        "la": "Caput 21"
+      },
+      "children": [
+        {
+          "id": "g21-pr",
+          "title": {
+            "en-US": "Prologue — Sophar’s Answer: A Future Life, but Punishments on Earth",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g21-c001",
+          "title": {
+            "en-US": "Lecture 1 — The success of the sinner is shortlived",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g21-c002",
+          "title": {
+            "en-US": "Lecture 2 — The punishment of the wicked",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c02-l5",
+      "id": "g22",
       "title": {
-        "en-US": "Chapter 2, Lecture 5",
-        "la": "Caput 2, Lectio 5"
-      }
+        "en-US": "Chapter 22 — The Second Answer of Job to Sophar",
+        "la": "Caput 22"
+      },
+      "children": [
+        {
+          "id": "g22-pr",
+          "title": {
+            "en-US": "Prologue — The Second Answer of Job to Sophar",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g22-c001",
+          "title": {
+            "en-US": "Lecture 1 — Why do the wicked live?",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g22-c002",
+          "title": {
+            "en-US": "Lecture 2 — All come to the same end",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c02-l6",
+      "id": "g23",
       "title": {
-        "en-US": "Chapter 2, Lecture 6",
-        "la": "Caput 2, Lectio 6"
-      }
+        "en-US": "Chapter 23 — The Third Discourse of Eliphaz",
+        "la": "Caput 23"
+      },
+      "children": [
+        {
+          "id": "g23-pr",
+          "title": {
+            "en-US": "Prologue — The Third Discourse of Eliphaz",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g23-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job's character attacked",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g23-c002",
+          "title": {
+            "en-US": "Lecture 2 — Return to the Almighty",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c02-l7",
+      "id": "g24",
       "title": {
-        "en-US": "Chapter 2, Lecture 7",
-        "la": "Caput 2, Lectio 7"
-      }
+        "en-US": "Chapter 24 — The Discourse of Job",
+        "la": "Caput 24"
+      },
+      "children": [
+        {
+          "id": "g24-pr",
+          "title": {
+            "en-US": "Prologue — The Discourse of Job",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g24-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job appeals to the judgment of God",
+            "la": "Lectio 1"
+          }
+        }
+      ]
     },
     {
-      "id": "c28-l1",
+      "id": "g25",
       "title": {
-        "en-US": "Chapter 28, Lecture 1",
-        "la": "Caput 28, Lectio 1"
-      }
+        "en-US": "Chapter 25 — Job Continues",
+        "la": "Caput 25"
+      },
+      "children": [
+        {
+          "id": "g25-pr",
+          "title": {
+            "en-US": "Prologue — Job Continues",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g25-c001",
+          "title": {
+            "en-US": "Lecture 1 — The reconciliation of evil with the power and the wisdom of God",
+            "la": "Lectio 1"
+          }
+        }
+      ]
     },
     {
-      "id": "c02-l9",
+      "id": "g26",
       "title": {
-        "en-US": "Chapter 2, Lecture 9",
-        "la": "Caput 2, Lectio 9"
-      }
+        "en-US": "Chapter 26 — The Short Answer of Baldath",
+        "la": "Caput 26"
+      },
+      "children": [
+        {
+          "id": "g26-pr",
+          "title": {
+            "en-US": "Prologue — The Short Answer of Baldath",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g26-c001",
+          "title": {
+            "en-US": "Lecture 1 — Man is not pure in God's sight",
+            "la": "Lectio 1"
+          }
+        }
+      ]
     },
     {
-      "id": "ch030",
+      "id": "g27",
       "title": {
-        "en-US": "Lecture 30",
-        "la": "Lectio 30"
-      }
+        "en-US": "Chapter 27 — The Last Response of Job",
+        "la": "Caput 27"
+      },
+      "children": [
+        {
+          "id": "g27-pr",
+          "title": {
+            "en-US": "Prologue — The Last Response of Job",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g27-c001",
+          "title": {
+            "en-US": "Lecture 1 — Man cannot understand the power of God",
+            "la": "Lectio 1"
+          }
+        }
+      ]
     },
     {
-      "id": "c31-l1",
+      "id": "g28",
       "title": {
-        "en-US": "Chapter 31, Lecture 1",
-        "la": "Caput 31, Lectio 1"
-      }
+        "en-US": "Chapter 28 — Job Continues his Answer",
+        "la": "Caput 28"
+      },
+      "children": [
+        {
+          "id": "g28-pr",
+          "title": {
+            "en-US": "Prologue — Job Continues his Answer",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g28-c001",
+          "title": {
+            "en-US": "Lecture 1 — The prosperity of evildoers is not against divine providence",
+            "la": "Lectio 1"
+          }
+        }
+      ]
     },
     {
-      "id": "c03-l2",
+      "id": "g29",
       "title": {
-        "en-US": "Chapter 3, Lecture 2",
-        "la": "Caput 3, Lectio 2"
-      }
+        "en-US": "Chapter 29 — Job Continues His Discourse in Praise of Wisdom",
+        "la": "Caput 29"
+      },
+      "children": [
+        {
+          "id": "g29-pr",
+          "title": {
+            "en-US": "Prologue — Job Continues His Discourse in Praise of Wisdom",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g29-c001",
+          "title": {
+            "en-US": "Lecture 1 — Wisdom is not in a determined place",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g29-c002",
+          "title": {
+            "en-US": "Lecture 2 — Where wisdom is found",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c33-l1",
+      "id": "g30",
       "title": {
-        "en-US": "Chapter 33, Lecture 1",
-        "la": "Caput 33, Lectio 1"
-      }
+        "en-US": "Chapter 30 — Job Continues Recalling the Past",
+        "la": "Caput 30"
+      },
+      "children": [
+        {
+          "id": "g30-pr",
+          "title": {
+            "en-US": "Prologue — Job Continues Recalling the Past",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g30-c001",
+          "title": {
+            "en-US": "Lecture 1 — The happy days of Job",
+            "la": "Lectio 1"
+          }
+        }
+      ]
     },
     {
-      "id": "c34-l1",
+      "id": "g31",
       "title": {
-        "en-US": "Chapter 34, Lecture 1",
-        "la": "Caput 34, Lectio 1"
-      }
+        "en-US": "Chapter 31 — The Discourse of Job Continues",
+        "la": "Caput 31"
+      },
+      "children": [
+        {
+          "id": "g31-pr",
+          "title": {
+            "en-US": "Prologue — The Discourse of Job Continues",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g31-c001",
+          "title": {
+            "en-US": "Lecture 1 — His present distress",
+            "la": "Lectio 1"
+          }
+        }
+      ]
     },
     {
-      "id": "c03-l5",
+      "id": "g32",
       "title": {
-        "en-US": "Chapter 3, Lecture 5",
-        "la": "Caput 3, Lectio 5"
-      }
+        "en-US": "Chapter 32 — Job Seeks Justice",
+        "la": "Caput 32"
+      },
+      "children": [
+        {
+          "id": "g32-pr",
+          "title": {
+            "en-US": "Prologue — Job Seeks Justice",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g32-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job is chaste, just and good",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g32-c002",
+          "title": {
+            "en-US": "Lecture 2 — Job concludes his defense",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c36-l1",
+      "id": "g33",
       "title": {
-        "en-US": "Chapter 36, Lecture 1",
-        "la": "Caput 36, Lectio 1"
-      }
+        "en-US": "Chapter 33 — The Discourse of Eliud",
+        "la": "Caput 33"
+      },
+      "children": [
+        {
+          "id": "g33-pr",
+          "title": {
+            "en-US": "Prologue — The Discourse of Eliud",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g33-c001",
+          "title": {
+            "en-US": "Lecture 1 — Introductory remarks",
+            "la": "Lectio 1"
+          }
+        }
+      ]
     },
     {
-      "id": "c37-l1",
+      "id": "g34",
       "title": {
-        "en-US": "Chapter 37, Lecture 1",
-        "la": "Caput 37, Lectio 1"
-      }
+        "en-US": "Chapter 34 — Eliud Exhorts Job to Repentance",
+        "la": "Caput 34"
+      },
+      "children": [
+        {
+          "id": "g34-pr",
+          "title": {
+            "en-US": "Prologue — Eliud Exhorts Job to Repentance",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g34-c001",
+          "title": {
+            "en-US": "Lecture 1 — What Job should confess",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g34-c002",
+          "title": {
+            "en-US": "Lecture 2 — God teaches men in many ways",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c38-l1",
+      "id": "g35",
       "title": {
-        "en-US": "Chapter 38, Lecture 1",
-        "la": "Caput 38, Lectio 1"
-      }
+        "en-US": "Chapter 35 — Discourse on Divine Justice",
+        "la": "Caput 35"
+      },
+      "children": [
+        {
+          "id": "g35-pr",
+          "title": {
+            "en-US": "Prologue — Discourse on Divine Justice",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g35-c001",
+          "title": {
+            "en-US": "Lecture 1 — God is just to the individual",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g35-c002",
+          "title": {
+            "en-US": "Lecture 2 — God punishes the people",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c03-l9",
+      "id": "g36",
       "title": {
-        "en-US": "Chapter 3, Lecture 9",
-        "la": "Caput 3, Lectio 9"
-      }
+        "en-US": "Chapter 36 — Eliud Continues His Discourse",
+        "la": "Caput 36"
+      },
+      "children": [
+        {
+          "id": "g36-pr",
+          "title": {
+            "en-US": "Prologue — Eliud Continues His Discourse",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g36-c001",
+          "title": {
+            "en-US": "Lecture 1 — Man’s deeds are not indifferent to God",
+            "la": "Lectio 1"
+          }
+        }
+      ]
     },
     {
-      "id": "c40-l1",
+      "id": "g37",
       "title": {
-        "en-US": "Chapter 40, Lecture 1",
-        "la": "Caput 40, Lectio 1"
-      }
+        "en-US": "Chapter 37 — God Alone is Just",
+        "la": "Caput 37"
+      },
+      "children": [
+        {
+          "id": "g37-pr",
+          "title": {
+            "en-US": "Prologue — God Alone is Just",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g37-c001",
+          "title": {
+            "en-US": "Lecture 1 — The true meaning of the sufferings of Job",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g37-c002",
+          "title": {
+            "en-US": "Lecture 2 — Hymn to the almighty",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c41-l1",
+      "id": "g38",
       "title": {
-        "en-US": "Chapter 41, Lecture 1",
-        "la": "Caput 41, Lectio 1"
-      }
+        "en-US": "Chapter 38 — Hymn to God",
+        "la": "Caput 38"
+      },
+      "children": [
+        {
+          "id": "g38-pr",
+          "title": {
+            "en-US": "Prologue — Hymn to God",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g38-c001",
+          "title": {
+            "en-US": "Lecture 1 — The wisdom of the almighty",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g38-c002",
+          "title": {
+            "en-US": "Lecture 2 — Eliud completes his praise of God",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     },
     {
-      "id": "c04-l2",
+      "id": "g39",
       "title": {
-        "en-US": "Chapter 4, Lecture 2",
-        "la": "Caput 4, Lectio 2"
-      }
+        "en-US": "Chapter 39 — God Resolves the Question",
+        "la": "Caput 39"
+      },
+      "children": [
+        {
+          "id": "g39-pr",
+          "title": {
+            "en-US": "Prologue — God Resolves the Question",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g39-c001",
+          "title": {
+            "en-US": "Lecture 1 — What can man understand?",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g39-c002",
+          "title": {
+            "en-US": "Lecture 2 — God’s marvels of earth, sea, and air",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g39-c003",
+          "title": {
+            "en-US": "Lecture 3 — The marvels of the animal kingdom",
+            "la": "Lectio 3"
+          }
+        }
+      ]
     },
     {
-      "id": "c04-l3",
+      "id": "g40",
       "title": {
-        "en-US": "Chapter 4, Lecture 3",
-        "la": "Caput 4, Lectio 3"
-      }
+        "en-US": "Chapter 40 — God Continues His Discourse",
+        "la": "Caput 40"
+      },
+      "children": [
+        {
+          "id": "g40-pr",
+          "title": {
+            "en-US": "Prologue — God Continues His Discourse",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g40-c001",
+          "title": {
+            "en-US": "Lecture 1 — The marvels of the animal kingdom",
+            "la": "Lectio 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g41",
+      "title": {
+        "en-US": "Chapter 41 — The Command of God over the Powers of Evil",
+        "la": "Caput 41"
+      },
+      "children": [
+        {
+          "id": "g41-pr",
+          "title": {
+            "en-US": "Prologue — The Command of God over the Powers of Evil",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g41-c001",
+          "title": {
+            "en-US": "Lecture 1 — God strengthens Job in his weakness",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g41-c002",
+          "title": {
+            "en-US": "Lecture 2 — Behemoth or the elephant as a metaphor for the devil",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g41-c003",
+          "title": {
+            "en-US": "Lecture 3 — Leviathan as a metaphor for the devil",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g42",
+      "title": {
+        "en-US": "Chapter 42 — The Great Power of Satan",
+        "la": "Caput 42"
+      },
+      "children": [
+        {
+          "id": "g42-pr",
+          "title": {
+            "en-US": "Prologue — The Great Power of Satan",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g42-c001",
+          "title": {
+            "en-US": "Lecture 1 — God cannot be reproached",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g42-c002",
+          "title": {
+            "en-US": "Lecture 2 — How Satan acts in sinners",
+            "la": "Lectio 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g43",
+      "title": {
+        "en-US": "Chapter 43 — Job’s Repentance",
+        "la": "Caput 43"
+      },
+      "children": [
+        {
+          "id": "g43-pr",
+          "title": {
+            "en-US": "Prologue — Job’s Repentance",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g43-c001",
+          "title": {
+            "en-US": "Lecture 1 — Job answers the Lord",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g43-c002",
+          "title": {
+            "en-US": "Lecture 2 — Epilogue—Job's reward",
+            "la": "Lectio 2"
+          }
+        }
+      ]
     }
   ]
 }

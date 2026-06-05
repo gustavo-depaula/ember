@@ -2,17 +2,17 @@
   "id": "aquinas-comm-posterior-analytics",
   "name": {
     "en-US": "Commentary on the Posterior Analytics",
-    "la": "Expositio Posteriorum Analyticorum"
+    "la": "Sententia super Posteriora Analytica"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Aquinas's commentary on Aristotle's *Posterior Analytics* — the logic of scientific demonstration, the most important Aristotelian source for his methodology.",
-    "la": "Expositio *Posteriorum Analyticorum* Aristotelis — logica demonstrationis scientificae, fons aristotelicus maximus methodologiae Thomae."
+    "en-US": "Aquinas's commentary on Aristotle's *Posterior Analytics* — on demonstrative science, definitions, and the first principles of scientific knowledge.",
+    "la": "Expositio *Posteriorum Analyticorum* Aristotelis — de demonstrativa scientia, definitionibus, et primis principiis cognitionis scientificae."
   },
-  "composed": "1271–1272",
+  "composed": "1269–1272",
   "languages": [
     "en-US",
     "la"
@@ -20,484 +20,495 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Richard Berquist (Dumb Ox Books, 2007) — copyrighted; older translation by F. R. Larcher OP (Magi Books, 1970) mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Posteriora Analytica",
+      "description": "English translation by Fabian R. Larcher OP (1970), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Posteriora Analytica",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch001",
-      "title": {
-        "en-US": "Lecture 1",
-        "la": "Lectio 1"
-      }
-    },
-    {
-      "id": "ch002",
-      "title": {
-        "en-US": "Lecture 2",
-        "la": "Lectio 2"
-      }
-    },
-    {
-      "id": "ch001",
-      "title": {
-        "en-US": "Lecture 1",
-        "la": "Lectio 1"
-      }
-    },
-    {
-      "id": "ch001",
-      "title": {
-        "en-US": "Lecture 1",
-        "la": "Lectio 1"
-      }
-    },
-    {
-      "id": "ch002",
-      "title": {
-        "en-US": "Lecture 2",
-        "la": "Lectio 2"
-      }
-    },
-    {
-      "id": "ch003",
-      "title": {
-        "en-US": "Lecture 3",
-        "la": "Lectio 3"
-      }
-    },
-    {
-      "id": "ch004",
-      "title": {
-        "en-US": "Lecture 4",
-        "la": "Lectio 4"
-      }
-    },
-    {
-      "id": "ch005",
-      "title": {
-        "en-US": "Lecture 5",
-        "la": "Lectio 5"
-      }
-    },
-    {
-      "id": "ch006",
-      "title": {
-        "en-US": "Lecture 6",
-        "la": "Lectio 6"
-      }
-    },
-    {
-      "id": "ch007",
-      "title": {
-        "en-US": "Lecture 7",
-        "la": "Lectio 7"
-      }
-    },
-    {
-      "id": "ch008",
-      "title": {
-        "en-US": "Lecture 8",
-        "la": "Lectio 8"
-      }
-    },
-    {
-      "id": "ch009",
-      "title": {
-        "en-US": "Lecture 9",
-        "la": "Lectio 9"
-      }
-    },
-    {
-      "id": "ch010",
-      "title": {
-        "en-US": "Lecture 10",
-        "la": "Lectio 10"
-      }
-    },
-    {
-      "id": "ch011",
-      "title": {
-        "en-US": "Lecture 11",
-        "la": "Lectio 11"
-      }
-    },
-    {
-      "id": "ch012",
-      "title": {
-        "en-US": "Lecture 12",
-        "la": "Lectio 12"
-      }
-    },
-    {
-      "id": "ch013",
-      "title": {
-        "en-US": "Lecture 13",
-        "la": "Lectio 13"
-      }
-    },
-    {
-      "id": "ch014",
-      "title": {
-        "en-US": "Lecture 14",
-        "la": "Lectio 14"
-      }
-    },
-    {
-      "id": "ch015",
-      "title": {
-        "en-US": "Lecture 15",
-        "la": "Lectio 15"
-      }
-    },
-    {
-      "id": "ch016",
-      "title": {
-        "en-US": "Lecture 16",
-        "la": "Lectio 16"
-      }
-    },
-    {
-      "id": "ch017",
-      "title": {
-        "en-US": "Lecture 17",
-        "la": "Lectio 17"
-      }
-    },
-    {
-      "id": "ch018",
-      "title": {
-        "en-US": "Lecture 18",
-        "la": "Lectio 18"
-      }
-    },
-    {
-      "id": "ch019",
-      "title": {
-        "en-US": "Lecture 19",
-        "la": "Lectio 19"
-      }
-    },
-    {
-      "id": "ch020",
-      "title": {
-        "en-US": "Lecture 20",
-        "la": "Lectio 20"
-      }
-    },
-    {
-      "id": "ch021",
-      "title": {
-        "en-US": "Lecture 21",
-        "la": "Lectio 21"
-      }
-    },
-    {
-      "id": "ch022",
-      "title": {
-        "en-US": "Lecture 22",
-        "la": "Lectio 22"
-      }
-    },
-    {
-      "id": "ch023",
-      "title": {
-        "en-US": "Lecture 23",
-        "la": "Lectio 23"
-      }
-    },
-    {
-      "id": "ch024",
-      "title": {
-        "en-US": "Lecture 24",
-        "la": "Lectio 24"
-      }
-    },
-    {
-      "id": "ch025",
-      "title": {
-        "en-US": "Lecture 25",
-        "la": "Lectio 25"
-      }
-    },
-    {
-      "id": "ch026",
-      "title": {
-        "en-US": "Lecture 26",
-        "la": "Lectio 26"
-      }
-    },
-    {
-      "id": "ch027",
-      "title": {
-        "en-US": "Lecture 27",
-        "la": "Lectio 27"
-      }
-    },
-    {
-      "id": "ch028",
-      "title": {
-        "en-US": "Lecture 28",
-        "la": "Lectio 28"
-      }
-    },
-    {
-      "id": "ch029",
-      "title": {
-        "en-US": "Lecture 29",
-        "la": "Lectio 29"
-      }
-    },
-    {
-      "id": "ch030",
-      "title": {
-        "en-US": "Lecture 30",
-        "la": "Lectio 30"
-      }
-    },
-    {
-      "id": "ch031",
-      "title": {
-        "en-US": "Lecture 31",
-        "la": "Lectio 31"
-      }
-    },
-    {
-      "id": "ch032",
-      "title": {
-        "en-US": "Lecture 32",
-        "la": "Lectio 32"
-      }
-    },
-    {
-      "id": "ch033",
-      "title": {
-        "en-US": "Lecture 33",
-        "la": "Lectio 33"
-      }
-    },
-    {
-      "id": "ch034",
-      "title": {
-        "en-US": "Lecture 34",
-        "la": "Lectio 34"
-      }
-    },
-    {
-      "id": "ch035",
-      "title": {
-        "en-US": "Lecture 35",
-        "la": "Lectio 35"
-      }
-    },
-    {
-      "id": "ch036",
-      "title": {
-        "en-US": "Lecture 36",
-        "la": "Lectio 36"
-      }
-    },
-    {
-      "id": "ch037",
-      "title": {
-        "en-US": "Lecture 37",
-        "la": "Lectio 37"
-      }
-    },
-    {
-      "id": "ch038",
-      "title": {
-        "en-US": "Lecture 38",
-        "la": "Lectio 38"
-      }
-    },
-    {
-      "id": "ch039",
-      "title": {
-        "en-US": "Lecture 39",
-        "la": "Lectio 39"
-      }
-    },
-    {
-      "id": "ch040",
-      "title": {
-        "en-US": "Lecture 40",
-        "la": "Lectio 40"
-      }
-    },
-    {
-      "id": "ch041",
-      "title": {
-        "en-US": "Lecture 41",
-        "la": "Lectio 41"
-      }
-    },
-    {
-      "id": "ch042",
-      "title": {
-        "en-US": "Lecture 42",
-        "la": "Lectio 42"
-      }
-    },
-    {
-      "id": "ch043",
-      "title": {
-        "en-US": "Lecture 43",
-        "la": "Lectio 43"
-      }
-    },
-    {
-      "id": "ch044",
-      "title": {
-        "en-US": "Lecture 44",
-        "la": "Lectio 44"
-      }
-    },
-    {
-      "id": "ch201",
-      "title": {
-        "en-US": "Lecture 201",
-        "la": "Lectio 201"
-      }
-    },
-    {
-      "id": "ch202",
-      "title": {
-        "en-US": "Lecture 202",
-        "la": "Lectio 202"
-      }
-    },
-    {
-      "id": "ch203",
-      "title": {
-        "en-US": "Lecture 203",
-        "la": "Lectio 203"
-      }
-    },
-    {
-      "id": "ch204",
-      "title": {
-        "en-US": "Lecture 204",
-        "la": "Lectio 204"
-      }
-    },
-    {
-      "id": "ch205",
-      "title": {
-        "en-US": "Lecture 205",
-        "la": "Lectio 205"
-      }
-    },
-    {
-      "id": "ch206",
-      "title": {
-        "en-US": "Lecture 206",
-        "la": "Lectio 206"
-      }
-    },
-    {
-      "id": "ch207",
-      "title": {
-        "en-US": "Lecture 207",
-        "la": "Lectio 207"
-      }
-    },
-    {
-      "id": "ch208",
-      "title": {
-        "en-US": "Lecture 208",
-        "la": "Lectio 208"
-      }
-    },
-    {
-      "id": "ch209",
-      "title": {
-        "en-US": "Lecture 209",
-        "la": "Lectio 209"
-      }
-    },
-    {
-      "id": "ch210",
-      "title": {
-        "en-US": "Lecture 210",
-        "la": "Lectio 210"
-      }
-    },
-    {
-      "id": "ch211",
-      "title": {
-        "en-US": "Lecture 211",
-        "la": "Lectio 211"
-      }
-    },
-    {
-      "id": "ch212",
-      "title": {
-        "en-US": "Lecture 212",
-        "la": "Lectio 212"
-      }
-    },
-    {
-      "id": "ch213",
-      "title": {
-        "en-US": "Lecture 213",
-        "la": "Lectio 213"
-      }
-    },
-    {
-      "id": "ch214",
-      "title": {
-        "en-US": "Lecture 214",
-        "la": "Lectio 214"
-      }
-    },
-    {
-      "id": "ch215",
-      "title": {
-        "en-US": "Lecture 215",
-        "la": "Lectio 215"
-      }
-    },
-    {
-      "id": "ch216",
-      "title": {
-        "en-US": "Lecture 216",
-        "la": "Lectio 216"
-      }
-    },
-    {
-      "id": "ch217",
-      "title": {
-        "en-US": "Lecture 217",
-        "la": "Lectio 217"
-      }
-    },
-    {
-      "id": "ch218",
-      "title": {
-        "en-US": "Lecture 218",
-        "la": "Lectio 218"
-      }
-    },
-    {
-      "id": "ch219",
-      "title": {
-        "en-US": "Lecture 219",
-        "la": "Lectio 219"
-      }
-    },
-    {
-      "id": "ch220",
-      "title": {
-        "en-US": "Lecture 220",
-        "la": "Lectio 220"
-      }
+      "id": "g1",
+      "title": {
+        "en-US": "Book 1 — The Demonstrative Syllogism",
+        "la": "Liber 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — The Demonstrative Syllogism",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g1-c001",
+          "title": {
+            "en-US": "Lecture 1 — The Need for Preexistent Knowledge in All Learning",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g1-c002",
+          "title": {
+            "en-US": "Lecture 2 — Extent and order of the preexistent knowledge required for obtaining science",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g1-c003",
+          "title": {
+            "en-US": "Lecture 3 — Preexistent knowledge of the conclusion",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g1-c004",
+          "title": {
+            "en-US": "Lecture 4 — Nature of the demonstrative syllogism",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g1-c005",
+          "title": {
+            "en-US": "Lecture 5 — First and immediate propositions",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g1-c006",
+          "title": {
+            "en-US": "Lecture 6 — Knowledge of immediate principles",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g1-c007",
+          "title": {
+            "en-US": "Lecture 7 — Discussion of two errors—exclusion of the first one",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g1-c008",
+          "title": {
+            "en-US": "Lecture 8 — The second error is excluded by showing that circular demonstration is not acceptable",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "g1-c009",
+          "title": {
+            "en-US": "Lecture 9 — How something is said to be predicated of all",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "g1-c010",
+          "title": {
+            "en-US": "Lecture 10 — How something is said to be predicated <i>per se</i> of a thing",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "g1-c011",
+          "title": {
+            "en-US": "Lecture 11 — How something is said to be predicated as commensurately universal",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "g1-c012",
+          "title": {
+            "en-US": "Lecture 12 — How error occurs in taking the universal",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "g1-c013",
+          "title": {
+            "en-US": "Lecture 13 — Demonstration proceeds from necessary things",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "g1-c014",
+          "title": {
+            "en-US": "Lecture 14 — Demonstration bears upon and proceeds from things which are p<i>er se</i>",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "g1-c015",
+          "title": {
+            "en-US": "Lecture 15 — Demonstration does not skip from one genus to an alien genus",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "g1-c016",
+          "title": {
+            "en-US": "Lecture 16 — Demonstration is not of perishable but of eternal matters",
+            "la": "Lectio 16"
+          }
+        },
+        {
+          "id": "g1-c017",
+          "title": {
+            "en-US": "Lecture 17 — Demonstration does not proceed from common principles, but from principles proper to the thing demonstrated",
+            "la": "Lectio 17"
+          }
+        },
+        {
+          "id": "g1-c018",
+          "title": {
+            "en-US": "Lecture 18 — Difference between principles and non-principles, common and proper principles",
+            "la": "Lectio 18"
+          }
+        },
+        {
+          "id": "g1-c019",
+          "title": {
+            "en-US": "Lecture 19 — How common principles differ from one another",
+            "la": "Lectio 19"
+          }
+        },
+        {
+          "id": "g1-c020",
+          "title": {
+            "en-US": "Lecture 20 — Relation between demonstrative sciences and common principles",
+            "la": "Lectio 20"
+          }
+        },
+        {
+          "id": "g1-c021",
+          "title": {
+            "en-US": "Lecture 21 — The questions, responses and disputations peculiar to each science",
+            "la": "Lectio 21"
+          }
+        },
+        {
+          "id": "g1-c022",
+          "title": {
+            "en-US": "Lecture 22 — Each science has its own deceptions and areas of ignorance",
+            "la": "Lectio 22"
+          }
+        },
+        {
+          "id": "g1-c023",
+          "title": {
+            "en-US": "Lecture 23 — How demonstrations quia and propter quid differ in the same science; demonstration quia through an effect",
+            "la": "Lectio 23"
+          }
+        },
+        {
+          "id": "g1-c024",
+          "title": {
+            "en-US": "Lecture 24 — How there is demonstration quia through things not immediately connected",
+            "la": "Lectio 24"
+          }
+        },
+        {
+          "id": "g1-c025",
+          "title": {
+            "en-US": "Lecture 25 — How demonstration quia differs from demonstration propter quid when the former pertains to one science and the latter to another",
+            "la": "Lectio 25"
+          }
+        },
+        {
+          "id": "g1-c026",
+          "title": {
+            "en-US": "Lecture 26 — Demonstrative syllogisms best made in the first figure; on mediate and immediate negative propositions",
+            "la": "Lectio 26"
+          }
+        },
+        {
+          "id": "g1-c027",
+          "title": {
+            "en-US": "Lecture 27 — How ignorance or deception bearing on first and immediate things can be induced by syllogism and lead one to suppose something to be which is not",
+            "la": "Lectio 27"
+          }
+        },
+        {
+          "id": "g1-c028",
+          "title": {
+            "en-US": "Lecture 28 — How by syllogizing in the first or second figure a false negative is concluded contrary to an immediate affirmative",
+            "la": "Lectio 28"
+          }
+        },
+        {
+          "id": "g1-c029",
+          "title": {
+            "en-US": "Lecture 29 — Syllogism ignorance in regard to mediate propositions",
+            "la": "Lectio 29"
+          }
+        },
+        {
+          "id": "g1-c030",
+          "title": {
+            "en-US": "Lecture 30 — Cause of simple negative ignorance",
+            "la": "Lectio 30"
+          }
+        },
+        {
+          "id": "g1-c031",
+          "title": {
+            "en-US": "Lecture 31 — Three questions about proceeding to infinity in confirming demonstrations",
+            "la": "Lectio 31"
+          }
+        },
+        {
+          "id": "g1-c032",
+          "title": {
+            "en-US": "Lecture 32 — Solution of some of these doubts hinges upon solution of others",
+            "la": "Lectio 32"
+          }
+        },
+        {
+          "id": "g1-c033",
+          "title": {
+            "en-US": "Lecture 33 — That one does not proceed to infinity in essential predicates is shown logically",
+            "la": "Lectio 33"
+          }
+        },
+        {
+          "id": "g1-c034",
+          "title": {
+            "en-US": "Lecture 34 — Logical reasons why one does not proceed to infinity in predicates",
+            "la": "Lectio 34"
+          }
+        },
+        {
+          "id": "g1-c035",
+          "title": {
+            "en-US": "Lecture 35 — That there is not an infinite process upward or downward in predicates is shown analytically",
+            "la": "Lectio 35"
+          }
+        },
+        {
+          "id": "g1-c036",
+          "title": {
+            "en-US": "Lecture 36 — Certain corollaries from preceding lecture",
+            "la": "Lectio 36"
+          }
+        },
+        {
+          "id": "g1-c037",
+          "title": {
+            "en-US": "Lecture 37 — Whether universal demonstration is stronger than particular demonstration",
+            "la": "Lectio 37"
+          }
+        },
+        {
+          "id": "g1-c038",
+          "title": {
+            "en-US": "Lecture 38 — Universal demonstration is stronger than particular demonstration",
+            "la": "Lectio 38"
+          }
+        },
+        {
+          "id": "g1-c039",
+          "title": {
+            "en-US": "Lecture 39 — Affirmative demonstration is stronger than negative",
+            "la": "Lectio 39"
+          }
+        },
+        {
+          "id": "g1-c040",
+          "title": {
+            "en-US": "Lecture 40 — Negative ostensive demonstration is stronger than demonstration leading to the impossible",
+            "la": "Lectio 40"
+          }
+        },
+        {
+          "id": "g1-c041",
+          "title": {
+            "en-US": "Lecture 41 — Comparison of science to science from standpoint of certainty and of unity and diversity",
+            "la": "Lectio 41"
+          }
+        },
+        {
+          "id": "g1-c042",
+          "title": {
+            "en-US": "Lecture 42 — Science is not concerned with things caused by fortune or with things learned through sense-perception",
+            "la": "Lectio 42"
+          }
+        },
+        {
+          "id": "g1-c043",
+          "title": {
+            "en-US": "Lecture 43 — Principles of all syllogisms are not the same",
+            "la": "Lectio 43"
+          }
+        },
+        {
+          "id": "g1-c044",
+          "title": {
+            "en-US": "Lecture 44 — Science compared with other modes of knowing",
+            "la": "Lectio 44"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "Book 2 — The Principles of the Demonstrative Syllogism",
+        "la": "Liber 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — The Principles of the Demonstrative Syllogism",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Lecture 1 — Each of the four questions which pertain to science is one way or another a question of the middle",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Lecture 2 — Whether the definition which signifies the quod quid of a thing can be demonstrated",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Lecture 3 — Whether the q<i>uod quid</i> signified by the definition can be demonstrated by taking convertible terms",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Lecture 4 — Whether q<i>uod quid</i> can be demonstrated by the method of division",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g2-c005",
+          "title": {
+            "en-US": "Lecture 5 — Whether a q<i>uod quid</i> can be demonstrated by taking that which is required for a q<i>uod quid</i>",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g2-c006",
+          "title": {
+            "en-US": "Lecture 6 — Whether q<i>uod quid</i> can be shown by demonstration or definition",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g2-c007",
+          "title": {
+            "en-US": "Lecture 7 — The two ways, logical and demonstrative, of manifesting q<i>uod quid</i>",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g2-c008",
+          "title": {
+            "en-US": "Lecture 8 — To attain q<i>uod quid</i> through demonstration is not possible in all cases: relation of definition to demonstration",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "g2-c009",
+          "title": {
+            "en-US": "Lecture 9 — <i>Propter quid</i> can be manifested in four genera of causes",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "g2-c010",
+          "title": {
+            "en-US": "Lecture 10 — How something is demonstrated through a cause not simultaneous with its caused: how a cause not simultaneous with its effect is taken as middle in demonstrating",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "g2-c011",
+          "title": {
+            "en-US": "Lecture 11 — How a cause which is not simultaneous with its effect may be taken as a middle in demonstration",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "g2-c012",
+          "title": {
+            "en-US": "Lecture 12 — How in things that come to be reciprocally, a cause which is not simultaneous with the effect is taken as middle in a demonstration; how one demonstrates through cause differently, in things that occur always and in things that occur as a general rule",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "g2-c013",
+          "title": {
+            "en-US": "Lecture 13 — Characteristics which should be present in the items which constitute the definition signifying the essence of a thing",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "g2-c014",
+          "title": {
+            "en-US": "Lecture 14 — Dividing the genus to investigate which items should be put in a definition",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "g2-c015",
+          "title": {
+            "en-US": "Lecture 15 — Two errors are excluded: what is really required for constituting a definition according to the method of division",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "g2-c016",
+          "title": {
+            "en-US": "Lecture 16 — How to search for the definition of a thing by examining things similar to it and dissimilar",
+            "la": "Lectio 16"
+          }
+        },
+        {
+          "id": "g2-c017",
+          "title": {
+            "en-US": "Lecture 17 — How to investigate the why in special problems; how certain problems agree as to p<i>ropter quid</i>, either because their middles have a kind of unity or are subordinated",
+            "la": "Lectio 17"
+          }
+        },
+        {
+          "id": "g2-c018",
+          "title": {
+            "en-US": "Lecture 18 — Coexistence of cause and caused",
+            "la": "Lectio 18"
+          }
+        },
+        {
+          "id": "g2-c019",
+          "title": {
+            "en-US": "Lecture 19 — Whether upon unity of cause follows unity of effect, and vice versa; how cause and effect follow upon one another",
+            "la": "Lectio 19"
+          }
+        },
+        {
+          "id": "g2-c020",
+          "title": {
+            "en-US": "Lecture 20 — How the first principles of demonstration are known by us",
+            "la": "Lectio 20"
+          }
+        }
+      ]
     }
   ]
 }

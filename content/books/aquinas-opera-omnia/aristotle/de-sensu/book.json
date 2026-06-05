@@ -10,7 +10,7 @@
   },
   "description": {
     "en-US": "Aquinas's commentary on Aristotle's *De Sensu et Sensato* — on the external senses and their objects, complementing the *De Anima* commentary.",
-    "la": "Expositio *De Sensu et Sensato* Aristotelis — de sensibus exterioribus eorumque obiectis, ad commentarium *De Anima* pertinens."
+    "la": "Expositio *De Sensu et Sensato* Aristotelis — de sensibus exterioribus et eorum obiectis, *De Anima* expositionem complens."
   },
   "composed": "c. 1268–1270",
   "languages": [
@@ -20,127 +20,173 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Edward M. Macierowski. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Sensu et Sensato",
+      "description": "English translation by Kevin White and Edward M. Macierowski (CUA Press, 2005); aquinas.cc carries an older translation revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Sensu et Sensato",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch001",
+      "id": "g1",
       "title": {
-        "en-US": "Chapter 1 — 436B8–437A19",
-        "la": "Caput 1 — 436B8–437A19"
-      }
+        "en-US": "Tractate 1 — Prologue",
+        "la": "Tractatus 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — Prologue",
+            "la": "Prooemium"
+          }
+        }
+      ]
     },
     {
-      "id": "ch002",
+      "id": "g2",
       "title": {
-        "en-US": "Chapter 2 — 437A19–438A5",
-        "la": "Caput 2 — 437A19–438A5"
-      }
-    },
-    {
-      "id": "ch003",
-      "title": {
-        "en-US": "Chapter 3 — 438A5-B2",
-        "la": "Caput 3 — 438A5-B2"
-      }
-    },
-    {
-      "id": "ch004",
-      "title": {
-        "en-US": "Chapter 4 — 43SB2-439A5",
-        "la": "Caput 4 — 43SB2-439A5"
-      }
-    },
-    {
-      "id": "ch005",
-      "title": {
-        "en-US": "Chapter 5 — 439A6–B14",
-        "la": "Caput 5 — 439A6–B14"
-      }
-    },
-    {
-      "id": "ch007",
-      "title": {
-        "en-US": "Chapter 7 — 440A15–B28",
-        "la": "Caput 7 — 440A15–B28"
-      }
-    },
-    {
-      "id": "ch008",
-      "title": {
-        "en-US": "Chapter 8 — 440B28–441A29",
-        "la": "Caput 8 — 440B28–441A29"
-      }
-    },
-    {
-      "id": "ch009",
-      "title": {
-        "en-US": "Chapter 9 — 441A30–442A11",
-        "la": "Caput 9 — 441A30–442A11"
-      }
-    },
-    {
-      "id": "ch011",
-      "title": {
-        "en-US": "Chapter 11 — 442B27–443B16",
-        "la": "Caput 11 — 442B27–443B16"
-      }
-    },
-    {
-      "id": "ch012",
-      "title": {
-        "en-US": "Chapter 12 — 443B17–444B7",
-        "la": "Caput 12 — 443B17–444B7"
-      }
-    },
-    {
-      "id": "ch013",
-      "title": {
-        "en-US": "Chapter 13 — 444B7–445B2",
-        "la": "Caput 13 — 444B7–445B2"
-      }
-    },
-    {
-      "id": "ch014",
-      "title": {
-        "en-US": "Chapter 14 — 445B3–446A20",
-        "la": "Caput 14 — 445B3–446A20"
-      }
-    },
-    {
-      "id": "ch015",
-      "title": {
-        "en-US": "Chapter 15 — 446A20–447A11",
-        "la": "Caput 15 — 446A20–447A11"
-      }
-    },
-    {
-      "id": "ch016",
-      "title": {
-        "en-US": "Chapter 16 — 447A12–448A1",
-        "la": "Caput 16 — 447A12–448A1"
-      }
-    },
-    {
-      "id": "ch017",
-      "title": {
-        "en-US": "Chapter 17 — 448A1–B16",
-        "la": "Caput 17 — 448A1–B16"
-      }
-    },
-    {
-      "id": "ch018",
-      "title": {
-        "en-US": "Chapter 18 — 448B 17–449B4",
-        "la": "Caput 18 — 448B 17–449B4"
-      }
+        "en-US": "Tractate 2 — On the Exterior Sense",
+        "la": "Tractatus 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — On the Exterior Sense",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Lecture 1 — Each sense’s power",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Lecture 2 — Whether sight is made of fire",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Lecture 3 — Sight constituted of water",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Lecture 4 — The matter of each sense-organ",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g2-c005",
+          "title": {
+            "en-US": "Lecture 5 — The nature of color",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g2-c006",
+          "title": {
+            "en-US": "Lecture 6 — The species of color",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g2-c007",
+          "title": {
+            "en-US": "Lecture 7 — How colors are generated",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g2-c008",
+          "title": {
+            "en-US": "Lecture 8 — Errors about flavor",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "g2-c009",
+          "title": {
+            "en-US": "Lecture 9 — The nature of flavor",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "g2-c010",
+          "title": {
+            "en-US": "Lecture 10 — Cause and species of flavors",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "g2-c011",
+          "title": {
+            "en-US": "Lecture 11 — The nature of odor",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "g2-c012",
+          "title": {
+            "en-US": "Lecture 12 — The species of odors",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "g2-c013",
+          "title": {
+            "en-US": "Lecture 13 — How non-breathing animals smell",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "g2-c014",
+          "title": {
+            "en-US": "Lecture 14 — Whether sensible objects are infinitely divisible",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "g2-c015",
+          "title": {
+            "en-US": "Lecture 15 — Whether there is a midpoint between the sensible object and the sense",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "g2-c016",
+          "title": {
+            "en-US": "Lecture 16 — Whether two senses can sense simultaneously",
+            "la": "Lectio 16"
+          }
+        },
+        {
+          "id": "g2-c017",
+          "title": {
+            "en-US": "Lecture 17 — Simultaneous sensation continued",
+            "la": "Lectio 17"
+          }
+        },
+        {
+          "id": "g2-c018",
+          "title": {
+            "en-US": "Lecture 18 — How simultaneous sensation is possible",
+            "la": "Lectio 18"
+          }
+        }
+      ]
     }
   ]
 }

@@ -102,6 +102,27 @@ class WorkSpec:
     # undifferentiated block. Single-line, short (≤80 char), title-cased, no
     # trailing sentence punctuation.
     promote_rubric_labels: bool = False
+    # Optional override: outline shape.
+    #   "flat"        — default; top-level children are leaf chapters.
+    #   "book_chapter"— top-level children are books; each book's children
+    #                   are leaf chapters. Used by Aristotle commentaries
+    #                   (Bk→L), Compendium Theologiae (BookI/BookII→C),
+    #                   biblical Job/Psalms-style works (chapter→lectio),
+    #                   and any work with `<work>.<group><N>.<leaf><M>`
+    #                   ref pattern.
+    #   "question_article" — top-level children are questions, each
+    #                        question's children are articles. Like the
+    #                        Summa Theologiae shape but for one disputed-
+    #                        questions work at a time. Refs like
+    #                        `<work>.Q<N>.A<M>`.
+    outline_shape: str = "flat"
+    # When outline_shape is "book_chapter": optional override for the chapter
+    # label in the TOC ("Lecture" / "Lectio" by default for Aristotle works,
+    # "Chapter" / "Caput" elsewhere). Per-work specs can override.
+    book_label_en: str = "Book"
+    book_label_la: str = "Liber"
+    chapter_label_en: str = "Chapter"
+    chapter_label_la: str = "Caput"
 
 
 # Each part: {"wid": int, "did_la": int, "did_en": int, "label_en": str, "label_la": str, "rows": int}
@@ -561,6 +582,230 @@ WORKS_CC: dict[str, WorkSpec] = {
             {"wid": 10, "did_la": 31, "did_en": 32, "label_en": "Book IV (d. 43-50)", "label_la": "Liber IV (d. 43-50)", "rows": 3359},
         ],
     ),
+    # ------ Round 6: Aristotle commentaries, full bilingual ------
+    "comm-physics": WorkSpec(
+        slug="comm-physics", sub_path="aristotle/physics", book_id="aquinas-comm-physics",
+        name_en="Commentary on the Physics", name_la="Sententia super Physicam",
+        composed="1268–1269",
+        description_en="Aquinas's mature commentary on Aristotle's *Physics* — on motion, place, time, the infinite, and the prime mover. Read in tandem with the *Metaphysics* commentary at Paris during the second regency.",
+        description_la="Expositio Thomae matura *Physicorum* Aristotelis — de motu, loco, tempore, infinito, primo motore. Cum *Metaphysicis* coniuncta apud Parisios in regentia secunda lecta.",
+        en_translator_note="English translation by Richard J. Blackwell, Richard J. Spath, and W. Edmund Thirlkel (Yale, 1963), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 75, "did_la": 282, "did_en": 906, "label_en": "Physics", "label_la": "Physica", "rows": 7568}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-metaphysics": WorkSpec(
+        slug="comm-metaphysics", sub_path="aristotle/metaphysics", book_id="aquinas-comm-metaphysics",
+        name_en="Commentary on the Metaphysics", name_la="Sententia super Metaphysicam",
+        composed="1270–1272",
+        description_en="Aquinas's commentary on Aristotle's *Metaphysics* — on being qua being, substance, the categories, the first principles of all things, and the unmoved mover.",
+        description_la="Expositio *Metaphysicorum* Aristotelis — de ente in quantum ens, de substantia, de categoriis, de primis principiis omnium rerum, de primo motore.",
+        en_translator_note="English translation by John P. Rowan (Henry Regnery, Chicago, 1961), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 81, "did_la": 302, "did_en": 883, "label_en": "Metaphysics", "label_la": "Metaphysica", "rows": 8537}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-ethics": WorkSpec(
+        slug="comm-ethics", sub_path="aristotle/ethics", book_id="aquinas-comm-ethics",
+        name_en="Commentary on the Nicomachean Ethics", name_la="Sententia super Ethicam",
+        composed="1271–1272",
+        description_en="Aquinas's commentary on Aristotle's *Nicomachean Ethics* — on happiness as the human end, the virtues, friendship, and contemplation. Read at Paris during the second regency.",
+        description_la="Expositio *Ethicorum Nicomacheorum* Aristotelis — de felicitate ut fine humano, virtutibus, amicitia, contemplatione.",
+        en_translator_note="English translation by C. I. Litzinger OP (Henry Regnery, Chicago, 1964), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 82, "did_la": 304, "did_en": 560, "label_en": "Ethics", "label_la": "Ethica", "rows": 7554}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-politics": WorkSpec(
+        slug="comm-politics", sub_path="aristotle/politics", book_id="aquinas-comm-politics",
+        name_en="Commentary on the Politics", name_la="Sententia super Politicam",
+        composed="1269–1272",
+        description_en="Aquinas's commentary on Aristotle's *Politics* — on the household, the city, regimes and constitutions, slavery, citizenship, and the best forms of rule. Unfinished — Aquinas covered Books I–III; Peter of Auvergne completed the remainder.",
+        description_la="Expositio *Politicorum* Aristotelis — de domo, civitate, regiminibus, constitutionibus, servitute, civilitate, et optimis regiminis formis. Opus inchoatum — Thomas Libros I–III tractavit; Petrus Alvernius cetera complevit.",
+        en_translator_note="English translation by Richard J. Regan (Hackett, 2007) is post-2000; aquinas.cc carries an earlier translation revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 84, "did_la": 310, "did_en": 311, "label_en": "Politics", "label_la": "Politica", "rows": 3944}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-de-anima": WorkSpec(
+        slug="comm-de-anima", sub_path="aristotle/de-anima", book_id="aquinas-comm-de-anima",
+        name_en="Commentary on the De Anima", name_la="Sententia super De Anima",
+        composed="1267–1268",
+        description_en="Aquinas's commentary on Aristotle's *De Anima* — on the soul as the form of the body, the senses, the intellect, and the immateriality of mind.",
+        description_la="Expositio *De Anima* Aristotelis — de anima ut forma corporis, de sensibus, de intellectu, de immaterialitate mentis.",
+        en_translator_note="English translation by Kenelm Foster OP and Silvester Humphries OP (1951), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 79, "did_la": 294, "did_en": 296, "label_en": "On the Soul", "label_la": "De Anima", "rows": 2558}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-posterior-analytics": WorkSpec(
+        slug="comm-posterior-analytics", sub_path="aristotle/posterior-analytics", book_id="aquinas-comm-posterior-analytics",
+        name_en="Commentary on the Posterior Analytics", name_la="Sententia super Posteriora Analytica",
+        composed="1269–1272",
+        description_en="Aquinas's commentary on Aristotle's *Posterior Analytics* — on demonstrative science, definitions, and the first principles of scientific knowledge.",
+        description_la="Expositio *Posteriorum Analyticorum* Aristotelis — de demonstrativa scientia, definitionibus, et primis principiis cognitionis scientificae.",
+        en_translator_note="English translation by Fabian R. Larcher OP (1970), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 74, "did_la": 278, "did_en": 280, "label_en": "Posterior Analytics", "label_la": "Posteriora Analytica", "rows": 2591}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-peri-hermeneias": WorkSpec(
+        slug="comm-peri-hermeneias", sub_path="aristotle/peri-hermeneias", book_id="aquinas-comm-peri-hermeneias",
+        name_en="Commentary on the De Interpretatione (Peri Hermeneias)", name_la="Sententia super Peri Hermeneias",
+        composed="1270–1271",
+        description_en="Aquinas's commentary on Aristotle's *De Interpretatione* (*Peri Hermeneias*) — on names, verbs, propositions, contradiction, and modality. Unfinished — Aquinas covered the first book.",
+        description_la="Expositio *Peri Hermeneias* Aristotelis — de nominibus, verbis, propositionibus, contradictione, modalitate. Opus inchoatum — Librum I tractavit.",
+        en_translator_note="English translation by Jean T. Oesterle (Marquette, 1962), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 73, "did_la": 273, "did_en": 275, "label_en": "On Interpretation", "label_la": "Peri Hermeneias", "rows": 1689}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-de-caelo": WorkSpec(
+        slug="comm-de-caelo", sub_path="aristotle/de-caelo", book_id="aquinas-comm-de-caelo",
+        name_en="Commentary on the De Caelo et Mundo", name_la="Sententia super De Caelo et Mundo",
+        composed="1272–1273",
+        description_en="Aquinas's commentary on Aristotle's *De Caelo et Mundo* — the cosmological treatise on the heavens, the elements, and motion. Unfinished — Aquinas covered Book I and part of Book III before his death.",
+        description_la="Expositio *De Caelo et Mundo* Aristotelis — tractatus cosmologicus de caelis, de elementis, de motu. Opus inchoatum — Librum I et partem Libri III antequam moreretur composuit.",
+        en_translator_note="English translation by Fabian R. Larcher OP and Pierre H. Conway OP (typescript, 1963–64), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 76, "did_la": 284, "did_en": 286, "label_en": "On the Heavens", "label_la": "De Caelo", "rows": 2521}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-generation-corruption": WorkSpec(
+        slug="comm-generation-corruption", sub_path="aristotle/generation-corruption", book_id="aquinas-comm-generation-corruption",
+        name_en="Commentary on the De Generatione et Corruptione", name_la="Sententia super De Generatione et Corruptione",
+        composed="c. 1272–1273",
+        description_en="Aquinas's commentary on Aristotle's *De Generatione et Corruptione* — on substantial change, the elements, and prime matter.",
+        description_la="Expositio *De Generatione et Corruptione* Aristotelis — de mutatione substantiali, de elementis, de materia prima.",
+        en_translator_note="English translation by Pierre H. Conway OP and R. F. Larcher OP (1964, typescript), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 77, "did_la": 288, "did_en": 989, "label_en": "On Generation and Corruption", "label_la": "De Generatione et Corruptione", "rows": 1281}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-meteora": WorkSpec(
+        slug="comm-meteora", sub_path="aristotle/meteora", book_id="aquinas-comm-meteora",
+        name_en="Commentary on the Meteorologica", name_la="Sententia super Meteora",
+        composed="c. 1268–1270",
+        description_en="Aquinas's commentary on Aristotle's *Meteorologica* — meteorological and atmospheric phenomena. Unfinished — Aquinas covered only Books I and part of II.",
+        description_la="Expositio *Meteorologicorum* Aristotelis — de phaenomenis meteorologicis et atmosphaericis. Opus inchoatum — solum Librum I et partem II tractavit.",
+        en_translator_note="English translation revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 78, "did_la": 290, "did_en": 292, "label_en": "Meteorology", "label_la": "Meteora", "rows": 1717}],
+        outline_shape="book_chapter", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-de-sensu": WorkSpec(
+        slug="comm-de-sensu", sub_path="aristotle/de-sensu", book_id="aquinas-comm-de-sensu",
+        name_en="Commentary on the De Sensu et Sensato", name_la="Sententia super De Sensu et Sensato",
+        composed="c. 1268–1270",
+        description_en="Aquinas's commentary on Aristotle's *De Sensu et Sensato* — on the external senses and their objects, complementing the *De Anima* commentary.",
+        description_la="Expositio *De Sensu et Sensato* Aristotelis — de sensibus exterioribus et eorum obiectis, *De Anima* expositionem complens.",
+        en_translator_note="English translation by Kevin White and Edward M. Macierowski (CUA Press, 2005); aquinas.cc carries an older translation revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 80, "did_la": 298, "did_en": 912, "label_en": "On Sense and What is Sensed", "label_la": "De Sensu et Sensato", "rows": 1142}],
+        outline_shape="book_chapter", book_label_en="Tractate", book_label_la="Tractatus", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "comm-de-memoria": WorkSpec(
+        slug="comm-de-memoria", sub_path="aristotle/de-memoria", book_id="aquinas-comm-de-memoria",
+        name_en="Commentary on the De Memoria et Reminiscentia", name_la="Sententia super De Memoria et Reminiscentia",
+        composed="c. 1268–1270",
+        description_en="Aquinas's commentary on Aristotle's *De Memoria et Reminiscentia* — on memory, recollection, and time-perception, complementing the *De Anima* and *De Sensu* commentaries.",
+        description_la="Expositio *De Memoria et Reminiscentia* Aristotelis — de memoria, reminiscentia, et perceptione temporis, *De Anima* et *De Sensu* expositiones complens.",
+        en_translator_note="English translation revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 160, "did_la": 1063, "did_en": 1065, "label_en": "On Memory and Recollection", "label_la": "De Memoria et Reminiscentia", "rows": 385}],
+        outline_shape="book_chapter", book_label_en="Tractate", book_label_la="Tractatus", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    # ------ Round 6: Biblical commentaries ------
+    "super-iob": WorkSpec(
+        slug="super-iob", sub_path="biblical/super-iob", book_id="aquinas-super-iob",
+        name_en="Commentary on Job", name_la="Expositio super Iob ad litteram",
+        composed="1261–1265",
+        description_en="Aquinas's literal commentary on the Book of Job — composed at Orvieto during the years preparing the *Summa Contra Gentiles*. A theology of providence, suffering, and the integrity of the just man.",
+        description_la="Expositio Thomae litteralis in librum Iob — apud Urbem Veterem composita per annos quibus *Summa contra Gentiles* parabatur. Theologia providentiae, passionis, et integritatis viri iusti.",
+        en_translator_note="English translation by Brian Mullady OP and the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 50, "did_la": 175, "did_en": 177, "label_en": "Job", "label_la": "Iob", "rows": 2590}],
+        outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "super-threnos-cc": WorkSpec(
+        slug="super-threnos-cc", sub_path="biblical/super-threnos", book_id="aquinas-super-threnos",
+        name_en="Commentary on Lamentations", name_la="In Threnos Jeremiae Expositio",
+        composed="c. 1252–1259",
+        description_en="An early literal commentary on the Book of Lamentations, likely from Aquinas's Paris bachelor years.",
+        description_la="Expositio prima Thomae litteralis in librum Threnorum, fere ex annis baccalaureatus Parisiensis.",
+        en_translator_note="English translation by Jeremy Holmes, revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 48, "did_la": 171, "did_en": 853, "label_en": "Lamentations", "label_la": "Threni", "rows": 980}],
+        outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "super-psalmos-cc": WorkSpec(
+        slug="super-psalmos-cc", sub_path="biblical/super-psalmos", book_id="aquinas-super-psalmos",
+        name_en="Commentary on the Psalms", name_la="Expositio super Psalmos",
+        composed="1272–1273",
+        description_en="Aquinas's commentary on the Psalms — a reportatio from his Neapolitan lectures shortly before the December 1273 mystical experience that ended his writing. Covers Psalms 1–54 (Vulgate).",
+        description_la="Expositio Thomae in Psalmos — reportatio ex lectionibus Neapolitanis paulo ante experientiam mysticam Decembri 1273 quae scriptionem eius finivit. Psalmos 1–54 (Vulgatae) tractat.",
+        en_translator_note="English translation by Stephen Loughlin (DeSales University) and Hugh McDonald, revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 46, "did_la": 165, "did_en": 167, "label_en": "Psalms", "label_la": "Psalmi", "rows": 10085}],
+        outline_shape="book_chapter", chapter_label_en="Psalm", chapter_label_la="Psalmus",
+    ),
+    # ------ Round 6: Disputed Questions, full bilingual ------
+    "de-veritate": WorkSpec(
+        slug="de-veritate", sub_path="disputed-questions/de-veritate", book_id="aquinas-de-veritate",
+        name_en="Disputed Questions on Truth", name_la="Quaestiones Disputatae de Veritate",
+        composed="1256–1259",
+        description_en="Twenty-nine disputed questions held at Paris during Aquinas's first regency — on truth, knowledge, providence, grace, conscience, and the relations between intellect and will. The longest single set of *quaestiones disputatae* he composed.",
+        description_la="Viginti novem quaestiones disputatae apud Parisios in prima magisterii sui regentia — de veritate, scientia, providentia, gratia, conscientia, et intellectus et voluntatis relatione.",
+        en_translator_note="English translation by Robert W. Mulligan SJ, James V. McGlynn SJ, and Robert W. Schmidt SJ (Henry Regnery, Chicago, 1952–54), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 25, "did_la": 94, "did_en": 849, "label_en": "On Truth", "label_la": "De Veritate", "rows": 7851}],
+        outline_shape="question_article",
+    ),
+    "de-potentia": WorkSpec(
+        slug="de-potentia", sub_path="disputed-questions/de-potentia", book_id="aquinas-de-potentia",
+        name_en="Disputed Questions on the Power of God", name_la="Quaestiones Disputatae de Potentia Dei",
+        composed="1265–1266",
+        description_en="Ten disputed questions, conducted at Rome — on the divine power, especially as it bears on creation, the Trinity, and the procession of the Holy Spirit.",
+        description_la="Decem quaestiones disputatae apud Romam — de potentia divina, praesertim in creatione, Trinitate, et processione Spiritus Sancti.",
+        en_translator_note="English translation by the English Dominican Fathers, *On the Power of God* (Burns Oates & Washbourne, London, 1932–34), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 26, "did_la": 96, "did_en": 97, "label_en": "On the Power of God", "label_la": "De Potentia Dei", "rows": 4051}],
+        outline_shape="question_article",
+    ),
+    "qd-de-anima-cc": WorkSpec(
+        slug="qd-de-anima-cc", sub_path="disputed-questions/qd-de-anima", book_id="aquinas-qd-de-anima",
+        name_en="Disputed Question on the Soul", name_la="Quaestio Disputata de Anima",
+        composed="1265–1266",
+        description_en="A single disputed question of twenty-one articles on the human soul — its substantiality, its union with the body, the intellect's cognitive operations, and the post-mortem state.",
+        description_la="Quaestio disputata una viginti unum articulorum, de anima humana — eius substantialitate, unione cum corpore, intellectus operationibus cognitivis, et statu post mortem.",
+        en_translator_note="English translation by John Patrick Rowan (Herder, 1949), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 27, "did_la": 534, "did_en": 533, "label_en": "On the Soul", "label_la": "De Anima", "rows": 1122}],
+        outline_shape="question_article",
+    ),
+    "de-spiritualibus-creaturis-cc": WorkSpec(
+        slug="de-spiritualibus-creaturis-cc", sub_path="disputed-questions/de-spiritualibus-creaturis", book_id="aquinas-de-spiritualibus-creaturis",
+        name_en="Disputed Question on Spiritual Creatures", name_la="Quaestio Disputata de Spiritualibus Creaturis",
+        composed="1267–1268",
+        description_en="A single disputed question of eleven articles on the metaphysics of immaterial substances — chiefly the angels and the human soul — held during Aquinas's stay at the papal *studium* of Viterbo or Rome.",
+        description_la="Quaestio disputata una undecim articulorum, de metaphysica substantiarum immaterialium — angelorum praecipue et animae humanae.",
+        en_translator_note="English translation by Mary C. Fitzpatrick (Marquette University Press, 1949), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 29, "did_la": 108, "did_en": 110, "label_en": "On Spiritual Creatures", "label_la": "De Spiritualibus Creaturis", "rows": 614}],
+        outline_shape="book_chapter", chapter_label_en="Article", chapter_label_la="Articulus",
+    ),
+    "de-unione-verbi-cc": WorkSpec(
+        slug="de-unione-verbi-cc", sub_path="disputed-questions/de-unione-verbi", book_id="aquinas-de-unione-verbi",
+        name_en="Disputed Question on the Union of the Incarnate Word", name_la="Quaestio Disputata de Unione Verbi Incarnati",
+        composed="1272",
+        description_en="A short disputed question of five articles on the hypostatic union — Aquinas's late mature treatment of the metaphysics of the Incarnation, contemporaneous with the *Tertia Pars*.",
+        description_la="Quaestio disputata brevis quinque articulorum de unione hypostatica — tractatio Thomae mature serotina de metaphysica Incarnationis, *Tertiae Parti* coaeva.",
+        en_translator_note="English translation revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 30, "did_la": 113, "did_en": 115, "label_en": "On the Union of the Incarnate Word", "label_la": "De Unione Verbi Incarnati", "rows": 207}],
+        outline_shape="book_chapter", chapter_label_en="Article", chapter_label_la="Articulus",
+    ),
+    # ------ Round 6: Other commentaries + Compendium ------
+    "compendium-theologiae": WorkSpec(
+        slug="compendium-theologiae", sub_path="compendium-theology", book_id="aquinas-compendium-theology",
+        name_en="Compendium of Theology", name_la="Compendium Theologiae",
+        composed="1265–1273",
+        description_en="An unfinished concise summary of theology in two books, addressed to Brother Reginald of Piperno. Aquinas covers faith (the Creed) in 246 chapters; hope (the Lord's Prayer) is incomplete; charity was never begun.",
+        description_la="Compendium theologiae breve, duobus libris constans, ad fratrem Reginaldum de Piperno directum, opus inchoatum. Fidem (Symbolum) 246 capitibus tractat; spes (Pater Noster) imperfecta est; caritas numquam coepta est.",
+        en_translator_note="English translation by Cyril Vollert SJ (Herder, 1947), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 89, "did_la": 325, "did_en": 326, "label_en": "Compendium of Theology", "label_la": "Compendium Theologiae", "rows": 1345}],
+        outline_shape="book_chapter", book_label_en="Book", book_label_la="Liber", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "boethius-de-trinitate": WorkSpec(
+        slug="boethius-de-trinitate", sub_path="commentaries/boethius-de-trinitate", book_id="aquinas-boethius-de-trinitate",
+        name_en="Commentary on Boethius's De Trinitate", name_la="Expositio super librum Boethii De Trinitate",
+        composed="1257–1259",
+        description_en="Aquinas's commentary on the first three chapters of Boethius's *De Trinitate*. Famous for its prologue's discussion of the division of the speculative sciences. Unfinished.",
+        description_la="Expositio Thomae primorum trium capitum *De Trinitate* Boethii. Prooemium continet discussionem Thomae celeberrimam de divisione scientiae speculativae. Opus inchoatum.",
+        en_translator_note="English translation by Armand Maurer (PIMS, Toronto, 1953), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 85, "did_la": 313, "did_en": 316, "label_en": "On Boethius's De Trinitate", "label_la": "Super De Trinitate Boethii", "rows": 913}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
 }
 
 
@@ -934,11 +1179,323 @@ def render_chapter(
     return md
 
 
-def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
+# ---------------------------------------------------------------------------
+# Two-level outline extractor (Book → Chapter / Question → Article)
+# ---------------------------------------------------------------------------
+
+_GROUP_REF_RE = re.compile(r"\.(?:Bk|Tr|BookI{1,3}V?|BookV|Book[A-Z]+|Q|Tract)(\d*)$|\.Prooem$|\.Prologue$|\.Pr$")
+_LEAF_REF_RE = re.compile(r"\.(?:C|L|A|Lec|Cap|Lectio|Capitulum|Ps)(\d+)$")
+
+
+def _is_chapter_ref(ref: str) -> bool:
+    """Heuristic: leaf chapter refs end in `.C<N>`, `.L<N>`, `.A<N>` etc."""
+    return bool(_LEAF_REF_RE.search(ref or ""))
+
+
+def _extract_two_level(root: OutlineNode) -> list[dict]:
+    """Return a list of leaf-chapter dicts grouped by book/question parent.
+
+    Each entry: {group_ref, group_title, group_idx (1-based), chap_ref,
+    chap_title, chap_num, position, end_position}.
+
+    Algorithm: top-level children are groups (Books, Questions, Tractates).
+    Each group's children are either leaf chapters (refs matching the leaf
+    pattern) or sub-points; we keep only the leaves. The group's prologue
+    (rows between the group anchor and the first leaf) is captured as a
+    synthetic leaf with chap_num=0.
+    """
+    out: list[dict] = []
+    # Identify the work-prefix from the first non-empty ref so we can skip
+    # any virtual root.
+    children = root.children
+    work_prefix = ""
+    for c in children:
+        if c.ref:
+            work_prefix = c.ref.split(".")[0]
+            break
+
+    # Filter to top-level "group" nodes — children that have at least one
+    # leaf-chapter descendant. Drop fully-empty leading sections.
+    groups: list[OutlineNode] = []
+    for c in children:
+        # Skip virtual root (Phys, Eth, etc. without title)
+        if not c.ref:
+            continue
+        if c.ref == work_prefix and not c.title:
+            continue
+        # Skip TOC-only leading sections (e.g. `<work>.S1`)
+        if re.fullmatch(rf"{re.escape(work_prefix)}\.S\d+", c.ref):
+            continue
+        # Drop nodes whose children are all empty AND whose ref is the work prefix
+        if not c.children and c.ref == work_prefix:
+            continue
+        groups.append(c)
+
+    for g_idx, group in enumerate(groups, start=1):
+        # Collect leaf chapters under this group (descend one level)
+        leaves: list[OutlineNode] = []
+        for sub in group.children:
+            if _is_chapter_ref(sub.ref):
+                leaves.append(sub)
+        # If the group ITSELF is a chapter ref (flat shape), treat the
+        # group as its own leaf.
+        if not leaves and _is_chapter_ref(group.ref):
+            leaves = [group]
+        # If no leaves at all (e.g. a prologue-only top-level node), treat
+        # the group as a single chapter with chap_num=0.
+        if not leaves:
+            out.append({
+                "group_ref": group.ref,
+                "group_title": group.title,
+                "group_idx": g_idx,
+                "chap_ref": group.ref,
+                "chap_title": group.title,
+                "chap_num": 0,
+                "position": group.position,
+                "end_position": -1,
+            })
+            continue
+
+        leaves.sort(key=lambda x: x.position)
+        # Prologue of the group: from group.position to first leaf's position.
+        first_leaf_pos = leaves[0].position
+        if first_leaf_pos > group.position:
+            out.append({
+                "group_ref": group.ref,
+                "group_title": group.title,
+                "group_idx": g_idx,
+                "chap_ref": f"{group.ref}.Pr",
+                "chap_title": group.title,  # prologue inherits the group's title
+                "chap_num": 0,
+                "position": group.position,
+                "end_position": first_leaf_pos,
+            })
+        for i, leaf in enumerate(leaves):
+            m = _LEAF_REF_RE.search(leaf.ref)
+            chap_num = int(m.group(1)) if m else (i + 1)
+            end = leaves[i + 1].position if i + 1 < len(leaves) else -1
+            out.append({
+                "group_ref": group.ref,
+                "group_title": group.title,
+                "group_idx": g_idx,
+                "chap_ref": leaf.ref,
+                "chap_title": leaf.title,
+                "chap_num": chap_num,
+                "position": leaf.position,
+                "end_position": end,
+            })
+
+    # Fill in end_position for entries with -1: use next entry's position
+    # or a very large number for the last one.
+    for i in range(len(out) - 1):
+        if out[i]["end_position"] == -1:
+            out[i]["end_position"] = out[i + 1]["position"]
+    if out and out[-1]["end_position"] == -1:
+        out[-1]["end_position"] = 10_000_000
+    return out
+
+
+def _clean_outline_title(raw: str) -> str:
+    """Strip the <n-sh> placeholder and the leading "Bk. N - " / "C. N - " /
+    "L. N - " / "Q. N - " / "A. N - " prefix from an aquinas.cc outline
+    title. Also strip the un-dotted variants ("Lecture N", "Book N"), and
+    any inline range parens like "(Α.1, 184a10–184b14)".
+    """
+    s = re.sub(r"<n-sh[^>]*></n-sh>", "", raw or "").strip()
+    # Dotted-prefix form: "Bk. N - ..." / "L. N - ..." / "C. N - ..." etc.
+    s = re.sub(r"^(?:Bk|Tr|C|L|Q|A|Lec|Cap|Book[IVX]+|Prologue|Prooem|Pr|Ps)\.\s*\d*\s*[-—:]?\s*", "", s, flags=re.IGNORECASE).strip()
+    # Un-dotted prefix: "Lecture N", "Book N", "Chapter N", "Article N",
+    # "Question N", "Psalm N", "Capitulum N" — used in the inner-row
+    # titles aquinas.cc gives biblical commentaries when the editor
+    # didn't bother typing a topic line.
+    s = re.sub(r"^(?:Lecture|Lectio|Chapter|Caput|Book|Liber|Article|Articulus|Question|Quaestio|Psalm|Psalmus|Tractate|Tractatus|Prologue|Prooemium|Prologus)\s+[IVX\d]+\s*[-—:]?\s*", "", s, flags=re.IGNORECASE).strip()
+    # Strip any lecture-range parens: "(Α.1, 184a10–184b14) - ..."
+    s = re.sub(r"^\([^)]+\)\s*[-—:]?\s*", "", s).strip()
+    return s
+
+
+def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str = "book_chapter") -> dict:
+    """Emit a book whose outline has a Book→Chapter or Question→Article
+    structure. Uses the existing render_chapter for body extraction."""
     book_dir = BOOKS_ROOT / spec.sub_path
     en_dir = book_dir / "en-US"
     la_dir = book_dir / "la"
     if not dry_run:
+        for sub in (en_dir, la_dir):
+            if sub.is_dir():
+                for f in sub.glob("*.md"):
+                    f.unlink()
+        en_dir.mkdir(parents=True, exist_ok=True)
+        la_dir.mkdir(parents=True, exist_ok=True)
+
+    toc: list[dict] = []
+    total = 0
+    has_english = bool(spec.parts[0].get("did_en"))
+    languages = ["en-US", "la"] if has_english else ["la"]
+    # We assume single-part for two-level works.
+    part = spec.parts[0]
+    wid, did_la, did_en, rows = part["wid"], part["did_la"], part["did_en"], part["rows"]
+    print(f"  [{spec.slug}] wid={wid} ({rows} rows, shape={shape_hint})")
+    style_chars, outline_dict = fetch_structure(wid)
+    root = parse_outline(outline_dict)
+    entries = _extract_two_level(root)
+    la_rows = fetch_cells(did_la, rows)
+    en_rows = fetch_cells(did_en, rows) if has_english else [(rid, "") for rid, _ in la_rows]
+
+    # Group entries by group_idx and build TOC.
+    group_to_entries: dict[int, list[dict]] = {}
+    group_info: dict[int, tuple[str, str]] = {}  # idx → (clean_title, ref)
+    for entry in entries:
+        group_to_entries.setdefault(entry["group_idx"], []).append(entry)
+        group_info[entry["group_idx"]] = (_clean_outline_title(entry["group_title"]), entry["group_ref"])
+
+    # Decide labels based on shape (Q/A vs Book/Chapter)
+    if shape_hint == "question_article":
+        group_label_en = "Question"
+        group_label_la = "Quaestio"
+        leaf_label_en = "Article"
+        leaf_label_la = "Articulus"
+    else:
+        group_label_en = spec.book_label_en
+        group_label_la = spec.book_label_la
+        leaf_label_en = spec.chapter_label_en
+        leaf_label_la = spec.chapter_label_la
+
+    work_prefix = ""
+    for c in root.children:
+        if c.ref:
+            work_prefix = c.ref.split(".")[0]
+            break
+    work_prefix = slug(work_prefix)
+    # Determine: do we wrap each group as a TOC node, or flatten the
+    # entries if there's only one group? Also flatten when every group
+    # holds exactly one chapter that *is* the group itself (e.g. Psalms,
+    # Boethius De Trinitate — top-level children are themselves chapters,
+    # not Book wrappers).
+    only_self_groups = all(
+        len(es) == 1 and es[0]["chap_ref"] == es[0]["group_ref"]
+        for es in group_to_entries.values()
+    )
+    multi_group = len(group_to_entries) > 1 and not only_self_groups
+    for g_idx in sorted(group_to_entries):
+        group_title, group_ref = group_info[g_idx]
+        entries_in_group = group_to_entries[g_idx]
+        # Group TOC node (Question N — title / Book N — title)
+        group_node = {
+            "id": f"g{g_idx}",
+            "title": {
+                "en-US": f"{group_label_en} {g_idx}" + (f" — {group_title}" if group_title else ""),
+                "la": f"{group_label_la} {g_idx}",
+            },
+            "children": [],
+        } if multi_group else None
+        seen_cids: set[str] = set()
+        for entry in entries_in_group:
+            chap_num = entry["chap_num"]
+            chap_title_clean = _clean_outline_title(entry["chap_title"])
+            # File id
+            if multi_group:
+                if chap_num == 0:
+                    cid = f"g{g_idx}-pr"
+                else:
+                    cid = f"g{g_idx}-c{chap_num:03d}"
+            else:
+                if chap_num == 0:
+                    cid = "prologue"
+                else:
+                    cid = f"ch{chap_num:03d}"
+            # Defend against duplicate refs in the outline (occasionally
+            # aquinas.cc emits the same anchor twice; cf. Lamentations C3).
+            base_cid = cid
+            suffix_i = 2
+            while cid in seen_cids:
+                cid = f"{base_cid}-{suffix_i}"
+                suffix_i += 1
+            seen_cids.add(cid)
+            # Chapter title
+            if chap_num == 0:
+                chap_title_en = f"Prologue — {chap_title_clean}" if chap_title_clean else "Prologue"
+                chap_title_la = "Prooemium"
+            else:
+                chap_title_en = f"{leaf_label_en} {chap_num}" + (f" — {chap_title_clean}" if chap_title_clean else "")
+                chap_title_la = f"{leaf_label_la} {chap_num}"
+            chap = OutlineNode(title=chap_title_en, ref="", position=entry["position"], children=[])
+            chap_la = OutlineNode(title=chap_title_la, ref="", position=entry["position"], children=[])
+            end_pos = entry["end_position"]
+            md_en = render_chapter(
+                chap, style_chars, la_rows, en_rows, "en-US", end_pos,
+                fallback_title=chap_title_en, promote_rubric_labels=spec.promote_rubric_labels,
+            )
+            md_la = render_chapter(
+                chap_la, style_chars, la_rows, en_rows, "la", end_pos,
+                fallback_title=chap_title_la, promote_rubric_labels=spec.promote_rubric_labels,
+            )
+            if not dry_run:
+                if has_english:
+                    (en_dir / f"{cid}.md").write_text(md_en, encoding="utf-8")
+                (la_dir / f"{cid}.md").write_text(md_la, encoding="utf-8")
+            total += 1
+            toc_node = {
+                "id": cid,
+                "title": {"en-US": chap_title_en, "la": chap_title_la},
+            }
+            if group_node is not None:
+                group_node["children"].append(toc_node)
+            else:
+                toc.append(toc_node)
+        if group_node is not None:
+            toc.append(group_node)
+
+    # Build manifest (mirror the structure used by emit_book)
+    sources = [
+        {
+            "language": "la",
+            "url": f"https://aquinas.cc/la/en/~{part.get('label_la', '')}",
+            "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc.",
+        },
+    ]
+    if has_english:
+        sources.insert(0, {
+            "language": "en-US",
+            "url": f"https://aquinas.cc/la/en/~{part.get('label_la', '')}",
+            "description": spec.en_translator_note or "Translation from aquinas.cc.",
+        })
+    manifest = {
+        "id": spec.book_id,
+        "name": {"en-US": spec.name_en, "la": spec.name_la},
+        "author": dict(AUTHOR),
+        "description": {"en-US": spec.description_en, "la": spec.description_la},
+        "composed": spec.composed,
+        "languages": languages,
+        "sources": sources,
+        "toc": toc,
+    }
+    if not dry_run:
+        (book_dir / "book.json").write_text(
+            json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+    return {"book": spec.book_id, "chapters": total, "languages": languages}
+
+
+def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
+    # Route to specialised builders based on outline_shape.
+    if spec.outline_shape == "book_chapter":
+        return _emit_two_level_book(spec, dry_run=dry_run, shape_hint="book_chapter")
+    if spec.outline_shape == "question_article":
+        return _emit_two_level_book(spec, dry_run=dry_run, shape_hint="question_article")
+
+    book_dir = BOOKS_ROOT / spec.sub_path
+    en_dir = book_dir / "en-US"
+    la_dir = book_dir / "la"
+    if not dry_run:
+        # Clear any pre-existing chapter files so we don't leave stale
+        # Geremia-imported files alongside the fresh aquinas.cc ones when
+        # replacing a previously-Geremia-sourced work.
+        for sub in (en_dir, la_dir):
+            if sub.is_dir():
+                for f in sub.glob("*.md"):
+                    f.unlink()
         en_dir.mkdir(parents=True, exist_ok=True)
         la_dir.mkdir(parents=True, exist_ok=True)
 
@@ -1402,6 +1959,155 @@ def build_summa_theologiae(dry_run: bool = False) -> dict:
 
 
 # ---------------------------------------------------------------------------
+# Summa Contra Gentiles — 4 widths, one per Book, Book→Chapter TOC.
+# ---------------------------------------------------------------------------
+
+SCG_WIDS: list[tuple[int, int, int, int, int]] = [
+    # (book_num, wid, did_la, did_en, rows)
+    (1, 11, 36, 38, 1093),
+    (2, 12, 41, 42, 1272),
+    (3, 13, 46, 48, 1903),
+    (4, 14, 51, 53, 1227),
+]
+
+SCG_CHAPTER_RE = re.compile(r"^SCG(\d+)\.C(\d+)$")
+
+
+def _scg_extract_chapters(outline: OutlineNode, book_num: int) -> list[dict]:
+    """Walk SCG outline for one book and return flat list of chapters,
+    each: {book, c, position, end_position, title}."""
+    out: list[dict] = []
+    for c in outline.children:
+        m = SCG_CHAPTER_RE.match(c.ref or "")
+        if not m:
+            continue
+        if int(m.group(1)) != book_num:
+            continue
+        out.append({
+            "book": book_num,
+            "c": int(m.group(2)),
+            "position": c.position,
+            "end_position": -1,
+            "title": c.title,
+        })
+    out.sort(key=lambda x: x["position"])
+    for i in range(len(out) - 1):
+        out[i]["end_position"] = out[i + 1]["position"]
+    if out:
+        out[-1]["end_position"] = 10_000_000
+    return out
+
+
+def _scg_clean_title(raw: str) -> str:
+    s = re.sub(r"<n-sh[^>]*></n-sh>", "", raw or "").strip()
+    s = re.sub(r"^C\.\s*\d+\s*-\s*", "", s).strip()
+    return s
+
+
+def build_summa_contra_gentiles(dry_run: bool = False) -> dict:
+    """Replace summa-contra-gentiles/ with the aquinas.cc bilingual edition.
+
+    Replaces the Rickaby abridgment ('Of God and His Creatures', 1905, PD,
+    en-only) with the full Shapcote-derived English paired row-for-row
+    with the Leonine Latin. 4 widths, one per Book.
+    """
+    book_dir = BOOKS_ROOT / "summa-contra-gentiles"
+    en_dir = book_dir / "en-US"
+    la_dir = book_dir / "la"
+    if not dry_run:
+        for sub in (en_dir, la_dir):
+            if sub.is_dir():
+                for f in sub.glob("*.md"):
+                    f.unlink()
+            sub.mkdir(parents=True, exist_ok=True)
+
+    toc: list[dict] = []
+    total = 0
+    roman = ["I", "II", "III", "IV"]
+
+    for book_num, wid, did_la, did_en, rows in SCG_WIDS:
+        print(f"  [scg] Book {book_num} wid={wid} ({rows} rows)")
+        style_chars, outline_dict = fetch_structure(wid)
+        root = parse_outline(outline_dict)
+        chapters = _scg_extract_chapters(root, book_num)
+        if not chapters:
+            print(f"    warn: no chapters extracted from wid={wid}")
+            continue
+        la_rows = fetch_cells(did_la, rows)
+        en_rows = fetch_cells(did_en, rows)
+
+        book_node = {
+            "id": f"b{book_num}",
+            "title": {
+                "en-US": f"Book {roman[book_num - 1]}",
+                "la": f"Liber {roman[book_num - 1]}",
+            },
+            "children": [],
+        }
+
+        for entry in chapters:
+            c_num = entry["c"]
+            title_clean = _scg_clean_title(entry["title"])
+            cid = f"b{book_num}-ch{c_num:03d}"
+            chap_title_en = f"Chapter {c_num}" + (f" — {title_clean}" if title_clean else "")
+            chap_title_la = f"Caput {c_num}"
+            chap = OutlineNode(title=chap_title_en, ref="", position=entry["position"], children=[])
+            chap_la = OutlineNode(title=chap_title_la, ref="", position=entry["position"], children=[])
+            md_en = render_chapter(
+                chap, style_chars, la_rows, en_rows, "en-US", entry["end_position"],
+                fallback_title=chap_title_en,
+            )
+            md_la = render_chapter(
+                chap_la, style_chars, la_rows, en_rows, "la", entry["end_position"],
+                fallback_title=chap_title_la,
+            )
+            if not dry_run:
+                (en_dir / f"{cid}.md").write_text(md_en, encoding="utf-8")
+                (la_dir / f"{cid}.md").write_text(md_la, encoding="utf-8")
+            book_node["children"].append({
+                "id": cid,
+                "title": {
+                    "en-US": chap_title_en,
+                    "la": chap_title_la,
+                },
+            })
+            total += 1
+
+        toc.append(book_node)
+
+    manifest = {
+        "id": "aquinas-summa-contra-gentiles",
+        "name": {"en-US": "Summa Contra Gentiles", "la": "Summa Contra Gentiles"},
+        "author": dict(AUTHOR),
+        "description": {
+            "en-US": "Aquinas's summa for missionaries — the existence and unity of God; God as the source of created being; creation, providence, and the moral life; the truths of revelation accessible only through faith. Composed at the request of Raymond of Peñafort to equip Dominicans preaching to Jews and Muslims in Iberia. Full Shapcote-derived translation paired row-for-row with the Leonine Latin.",
+            "la": "Liber Thomae missionarius — de existentia et unitate Dei; Deo ut fonte esse creati; creatione, providentia, vita morali; veritatibus revelationis quae sola fide pertingi possunt.",
+        },
+        "composed": "1259–1265",
+        "languages": ["en-US", "la"],
+        "sources": [
+            {
+                "language": "en-US",
+                "url": "https://aquinas.cc/la/en/~Summa Contra Gentiles",
+                "description": "English translation paired with the Leonine Latin via the Aquinas Institute, derived from Shapcote / Fathers of the English Dominican Province (Benziger 1911–1925, public domain) and revised. Mirrored from aquinas.cc.",
+            },
+            {
+                "language": "la",
+                "url": "https://aquinas.cc/la/en/~Summa Contra Gentiles",
+                "description": "Latin Leonine edition (public domain), mirrored from aquinas.cc.",
+            },
+        ],
+        "toc": toc,
+    }
+    if not dry_run:
+        (book_dir / "book.json").write_text(
+            json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+    return {"book": "aquinas-summa-contra-gentiles", "chapters": total}
+
+
+# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
 
@@ -1448,6 +2154,9 @@ def main() -> int:
         cmd_all()
     elif cmd == "summa":
         result = build_summa_theologiae()
+        print(json.dumps(result, indent=2))
+    elif cmd == "scg":
+        result = build_summa_contra_gentiles()
         print(json.dumps(result, indent=2))
     else:
         print(f"unknown command: {cmd}")

@@ -1,5 +1,0 @@
-# Chapter LXIV. A list of things to be said concerning the Divine Knowledge
-
-**CHAPTER LXIV**—*A list of things to be said concerning the Divine Knowledge*
-
-TO the exclusion of the above error we will show first that the divine mind does know individual things; secondly, that it knows things which actually are not; thirdly, that it knows future contingencies with infallible knowledge; fourthly, that it knows the motions of the will; fifthly, that it knows infinite things; sixthly, that it knows the vilest and least of things that be; seventhly, that it knows evils and all manner of privations or defects.

@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A single disputed question of twenty-one articles on the human soul — its substantiality, its union with the body, its powers, and its survival after death. Distinct from Aquinas's commentary on Aristotle's *De anima*.",
-    "la": "Quaestio disputata una vigintiunius articulorum, de anima humana — substantialitate, unione cum corpore, potentiis, et superstitione post mortem. Distincta a commentario in Aristotelis *De anima*."
+    "en-US": "A single disputed question of twenty-one articles on the human soul — its substantiality, its union with the body, the intellect's cognitive operations, and the post-mortem state.",
+    "la": "Quaestio disputata una viginti unum articulorum, de anima humana — eius substantialitate, unione cum corpore, intellectus operationibus cognitivis, et statu post mortem."
   },
   "composed": "1265–1266",
   "languages": [
@@ -20,164 +20,169 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by John Patrick Rowan (B. Herder Book Co., 1949). Translation status: may be under copyright in the United States until 2044; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Anima",
+      "description": "English translation by John Patrick Rowan (Herder, 1949), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Anima",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "q01",
+      "id": "prologue",
       "title": {
-        "en-US": "Question 1 — by\n\nThomas Aquinas",
-        "la": "Quaestio 1"
-      },
-      "children": [
-        {
-          "id": "q01-a01",
-          "title": {
-            "en-US": "Article 1",
-            "la": "Articulus 1"
-          }
-        },
-        {
-          "id": "q01-a02",
-          "title": {
-            "en-US": "Article 2",
-            "la": "Articulus 2"
-          }
-        },
-        {
-          "id": "q01-a04",
-          "title": {
-            "en-US": "Article 4",
-            "la": "Articulus 4"
-          }
-        },
-        {
-          "id": "q01-a05",
-          "title": {
-            "en-US": "Article 5",
-            "la": "Articulus 5"
-          }
-        },
-        {
-          "id": "q01-a06",
-          "title": {
-            "en-US": "Article 6",
-            "la": "Articulus 6"
-          }
-        },
-        {
-          "id": "q01-a07",
-          "title": {
-            "en-US": "Article 7",
-            "la": "Articulus 7"
-          }
-        },
-        {
-          "id": "q01-a08",
-          "title": {
-            "en-US": "Article 8",
-            "la": "Articulus 8"
-          }
-        },
-        {
-          "id": "q01-a09",
-          "title": {
-            "en-US": "Article 9",
-            "la": "Articulus 9"
-          }
-        },
-        {
-          "id": "q01-a10",
-          "title": {
-            "en-US": "Article 10",
-            "la": "Articulus 10"
-          }
-        },
-        {
-          "id": "q01-a11",
-          "title": {
-            "en-US": "Article 11",
-            "la": "Articulus 11"
-          }
-        },
-        {
-          "id": "q01-a12",
-          "title": {
-            "en-US": "Article 12",
-            "la": "Articulus 12"
-          }
-        },
-        {
-          "id": "q01-a13",
-          "title": {
-            "en-US": "Article 13",
-            "la": "Articulus 13"
-          }
-        },
-        {
-          "id": "q01-a14",
-          "title": {
-            "en-US": "Article 14",
-            "la": "Articulus 14"
-          }
-        },
-        {
-          "id": "q01-a15",
-          "title": {
-            "en-US": "Article 15",
-            "la": "Articulus 15"
-          }
-        },
-        {
-          "id": "q01-a16",
-          "title": {
-            "en-US": "Article 16",
-            "la": "Articulus 16"
-          }
-        },
-        {
-          "id": "q01-a17",
-          "title": {
-            "en-US": "Article 17",
-            "la": "Articulus 17"
-          }
-        },
-        {
-          "id": "q01-a18",
-          "title": {
-            "en-US": "Article 18",
-            "la": "Articulus 18"
-          }
-        },
-        {
-          "id": "q01-a19",
-          "title": {
-            "en-US": "Article 19",
-            "la": "Articulus 19"
-          }
-        },
-        {
-          "id": "q01-a20",
-          "title": {
-            "en-US": "Article 20",
-            "la": "Articulus 20"
-          }
-        },
-        {
-          "id": "q01-a21",
-          "title": {
-            "en-US": "Article 21",
-            "la": "Articulus 21"
-          }
-        }
-      ]
+        "en-US": "Prologue — Prologue",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the human soul can be a form and a particular thing",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the human soul, so far as its act of existing is concerned, is separated from the body",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether there is one potential intellect, or intellective soul, for all men",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether it is necessary to admit that an agent intellect exists",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether there is one separately existing agent intellect for all men",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul is composed of matter and form",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the angel and the soul are of different species",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the rational soul should be united to a body such as man possesses",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul is united to corporeal matter through a medium",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul exists in the whole body and in each of its parts",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the rational, sensitive, and vegetative souls in man are substantially one and the same",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul is its powers",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — The distinction between the powers of the soul",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — The incorruptibility of the human soul",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul, when separated from the body, is capable of understanding",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul, when united to the body, can understand separate substances",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul, when separated from the body, can understand separate substances",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul, when separated from the body, knows all natural things",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the sensitive powers remain in the soul when it exists apart from the body",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul, when separated from the body, knows singular things",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Whether the soul, when separated from the body, can suffer punishment by corporeal fire",
+        "la": "Prooemium"
+      }
     }
   ]
 }

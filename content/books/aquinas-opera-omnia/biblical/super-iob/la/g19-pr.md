@@ -1,0 +1,3 @@
+# Prooemium
+
+***Fatum Inexorabilis Pessimorum***

@@ -1,0 +1,3 @@
+# Prooemium
+
+***De demonstrativi syllogismi***

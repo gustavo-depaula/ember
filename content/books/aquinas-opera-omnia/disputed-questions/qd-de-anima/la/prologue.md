@@ -1,0 +1,113 @@
+# Prooemium
+
+Vicesimo primo quaeritur utrum anima separata possit pati poenam ab igne corporeo.  
+
+Et videtur quod non. Nihil enim patitur nisi secundum quod est in potentia. Sed anima separata non est in potentia nisi secundum intellectum, quia potentiae sensitivae in ea non manent, ut ostensum est. Ergo anima separata non potest pati ab igne corporeo nisi secundum intellectum, intelligendo scilicet ipsum. Hoc autem non est poenale, sed magis delectabile. Ergo anima non potest pati ab igne corporeo poenam.  
+
+Praeterea. Agens et patiens communicant in materia, ut dicitur in 1 *De generatione*. Sed anima, cum sit immaterialis, non communicat in materia cum igne corporeo. Ergo anima separata non potest pati ab igne corporeo.  
+
+Praeterea. Quod non tangit non agit. Sed ignis corporeus non potest tangere animam, neque secundum ultima quantitatis, cum anima sit incorporea; neque contactu virtutis, cum virtus corporis non possit imprimere in substantiam incorpoream, sed magis e converso. Nullo igitur modo anima separata potest pati ab igne corporeo.  
+
+Praeterea. Dupliciter dicitur aliquid pati: vel sicut subiectum, ut lignum patitur ab igne; vel sicut contrarium, ut calidum a frigido. Sed anima non potest pati ab igne corporeo sicut subiectum passionis, quia oporteret quod forma ignis fieret in anima, et sic sequeretur quod anima calefieret et igniretur, quod est impossibile; similiter non potest dici quod anima patiatur ab igne corporeo sicut contrarium a contrario, tum quia animae nihil est contrarium, tum quia sequeretur quod anima ab igne corporeo destrueretur, quod est impossibile. Anima igitur non potest pati ab igne corporeo.  
+
+Praeterea. Inter agens et patiens oportet esse proportionem aliquam. Sed inter animam et ignem corporeum non videtur esse aliqua proportio, cum sint diversorum generum. Ergo anima non potest pati ab igne corporeo.  
+
+Praeterea. Omne quod patitur movetur. Anima non movetur, cum non sit corpus. Ergo anima non potest pati.  
+
+Praeterea. Anima est dignior quam corpus quintae essentiae. Sed corpus quintae essentiae est omnino impassibile. Ergo multo magis anima.  
+
+Praeterea. Augustinus dicit, 12 *Super Genesim ad litteram*, quod agens est nobilius patiente. Sed ignis corporeus non est nobilior anima. Ergo ignis non potest agere in animam.  
+
+Sed dicebat quod ignis non agit in animam virtute propria et naturali, sed in quantum est instrumentum divinae iustitiae.  
+
+*Sed contra*. Sapientis artificis est uti convenientibus instrumentis ad finem suum. Sed ignis corporeus non videtur esse conveniens instrumentum ad puniendum animam, cum hoc non conveniat ei ratione suae formae, per quam instrumentum adaptatur ad effectum, ut dolabra ad dolandum et serra ad secandum: non enim sapienter ageret artifex si uteretur serra ad dolandum et dolabra ad secandum. Ergo multo minus Deus, qui est sapientissimus, utitur igne corporeo ut instrumento ad puniendum animam.  
+
+Praeterea. Deus, cum sit auctor naturae, nihil contra naturam facit, ut dicit quaedam Glossa, Rom. 11. Sed contra naturam est ut corporeum in incorporeum agat. Ergo hoc Deus non facit.  
+
+Praeterea. Deus non potest facere quod contradictoria sint simul vera. Hoc autem sequeretur si subtraheretur alicui quod est de essentia eius: puta, si homo non esset rationalis, sequeretur quod esset simul homo et non homo. Ergo Deus non potest facere quod aliqua res careat eo quod est ei essentiale. Sed esse impassibile est essentiale animae: convenit enim ei in quantum est immaterialis. Ergo Deus non potest facere quod anima patiatur ab igne corporeo.  
+
+Praeterea. Unaquaeque res habet potentiam agendi secundum suam naturam. Non ergo potest res aliqua accipere potentiam agendi quae sibi non competit, sed magis alteri rei, nisi a propria natura immutetur in aliam naturam: sicut aqua non calefacit nisi fuerit ab igne transmutata. Sed habere potentiam agendi in res spirituales non competit naturae ignis corporei, ut ostensum est. Si ergo a Deo hoc habet, ut instrumentum divinae iustitiae, quod in animam separatam agere possit, videtur quod iam non sit ignis corporeus, sed alterius naturae.  
+
+Praeterea. Id quod fit virtute divina habet propriam et veram rationem rei in natura existentis. Cum enim divina virtute caecus illuminatur, recipit visum secundum veram et propriam rationem naturalem visus. Si igitur anima virtute divina patiatur ab igne prout est instrumentum divinae iustitiae, sequitur quod anima vere patiatur secundum propriam rationem passionis.  
+
+Pati autem dupliciter dicitur: uno modo secundum quod pati est recipere tantum, sicut intellectus patitur ab intelligibili et sensus a sensibili; alio modo per hoc quod abiicitur aliquid a substantia patientis, sicut cum lignum patitur ab igne.  
+
+Si igitur anima patiatur ab igne corporeo divina virtute prout ratio passionis consistit in receptione tantum, cum receptum sit in recipiente secundum modum eius, sequeretur quod anima separata recipiat ab igne corporeo immaterialiter et incorporaliter, secundum modum suum.  
+
+Talis autem receptio non est animae punitiva, sed perfectiva. Ergo hoc non erit ad poenam animae. Similiter etiam non potest pati anima ab igne corporeo prout passio abiicit a substantia, quia sic substantia animae corrumperetur. Ergo non potest esse quod anima patiatur ab igne corporeo, etiam prout est instrumentum divinae iustitiae.  
+
+Praeterea. Nullum instrumentum agit instrumentaliter nisi exercendo operationem propriam: sicut serra agit instrumentaliter ad perfectionem arcae secando. Sed ignis non potest agere in animam actione propria et naturali: non enim potest calefacere animam. Ergo non potest agere in animam ut instrumentum divinae iustitiae.  
+
+Sed dicebat quod ignis alia actione propria agit in animam, in quantum scilicet detinet eam ut sibi alligatam.  
+
+*Sed contra*. Si anima alligatur igni, et ab eo detinetur, oportet quod ei aliquo modo uniatur. Non autem unitur ei ut forma, quia sic anima vivificaret ignem; nec unitur ei ut motor, quia sic magis pateretur ignis ab anima quam e converso. Non est autem alius modus quo substantia incorporea corpori uniri possit. Ergo anima separata non potest alligari ab igne corporeo, nec ab eo detineri.  
+
+Praeterea. Id quod est alligatum alicui non potest ab eo separari. Sed spiritus damnati separantur aliquando ab igne corporeo infernali: nam daemones dicuntur esse in hoc aere caliginoso; animae etiam damnatorum interdum aliquibus apparuerunt. Non ergo patitur anima ab igne corporeo ut ei alligata.  
+
+Praeterea. Quod alligatur alicui, et detinetur ab eo, impeditur per ipsum a propria operatione. Sed propria operatio animae est intelligere, a qua impediri non potest per alligationem ad aliquod corporeum, quia intelligibilia sua in se habet, ut in 2 *De anima* dicitur; unde non oportet ut ea extra se quaerat. Ergo anima separata non punitur per alligationem ad ignem corporeum.  
+
+Praeterea. Sicut ignis per modum istum potest detinere animam, ita et alia corpora, vel etiam magis, in quantum sunt grossiora et graviora. Si ergo anima non puniretur nisi per detentionem et alligationem, eius poena non magis deberet soli igni attribui, sed magis aliis corporibus.  
+
+Praeterea. Augustinus dicit, 12 *Super Genesim ad litteram*, quod substantiam inferorum non est credendum esse corporalem, sed spiritualem. Damascenus etiam dicit quod ignis inferni non est materialis. Ergo videtur quod anima non patiatur ab igne corporeo.  
+
+Praeterea. Sicut dicit Gregorius in *Moralibus*, delinquens servus ad hoc punitur a domino ut corrigatur. Sed illi qui sunt damnati in inferno incorrigibiles sunt. Ergo non debent puniri per ignem corporeum infernalem.  
+
+Praeterea. Poenae per contrarium fiunt. Sed anima peccavit subdendo se corporalibus rebus per affectum. Ergo non debet per aliqua corporalia puniri, sed magis per separationem a corporalibus.  
+
+Praeterea. Sicut ex divina iustitia redduntur poenae peccatoribus, ita et praemia iustis. Sed iustis non redduntur praemia corporalia, sed spiritualia tantum; unde si qua praemia corporalia iustis reddenda in Scripturis traduntur, intelliguntur metaphorice, sicut quod dicitur Luc. 22: *ut edatis et bibatis* etc. Ergo et peccatoribus non infligentur poenae corporales, sed spirituales tantum; et ea quae de poenis corporalibus in Scripturis dicuntur erunt metaphorice intelligenda. Et sic anima non patitur ab igne corporeo.  
+
+Sed contra. Idem ignis est quo punientur corpora damnatorum et daemones, ut patet per illud Matt. 25: *ite maledicti* etc. Sed corpora damnatorum necesse est quod puniantur igne corporeo. Pari ergo ratione animae separatae igne corporeo puniuntur.  
+
+Respondeo. Dicendum quod circa passionem animae ab igne multipliciter aliqui locuti sunt. Quidam enim dixerunt quod anima non patietur poenam ab aliquo igne corporeo, sed eius spiritualis afflictio metaphorice in Scripturis ignis nomine designatur; et haec fuit opinio Origenis. Sed hoc pro tanto non videtur sufficiens, quia, ut Augustinus dicit, 21 *De civitate Dei*, oportet intelligi ignem esse corporeum quo cruciabuntur corpora damnatorum; quo etiam igne et daemones et animae cruciantur secundum sententiam Domini inductam.  
+
+Et ideo aliis visum fuit quod ignis ille corporeus est, sed non ab eo immediate anima patitur poenam, sed ab eius similitudine, secundum imaginariam visionem: sicut accidit dormientibus quod, ex visione aliquorum terribilium quae se perpeti vident, veraciter affliguntur, licet ea a quibus affliguntur non sint vera corpora, sed similitudines corporum. Sed haec positio stare non potest, quia in superioribus est ostensum quod potentiae sensitivae partis, inter quas est vis imaginaria, non manent in anima separata.  
+
+Et ideo oportet dicere quod ab ipso corporali igne patitur anima separata; sed quomodo patiatur videtur difficile assignare. Quidam enim dixerunt quod anima separata patitur ignem hoc ipso quod videt; quod tangit Gregorius in 4 *Dialogorum*, dicens: *ignem eo ipso patitur anima, quo videt*. Sed cum videre sit perfectio videntis, omnis visio est delectabilis in quantum huiusmodi. Unde nihil in quantum est visum est afflictivum, sed in quantum apprehenditur ut nocivum.  
+
+Et ideo alii dixerunt quod anima videns illum ignem, et apprehendens eum ut nocivum sibi, ex hoc affligitur; quod tangit Gregorius in 4 *Dialogorum*, dicens quod quia anima cremari se conspicit, crematur. Sed tunc considerandum restat utrum ignis secundum rei veritatem sit nocivus animae vel non. Et si quidem non sit animae nocivus secundum rei veritatem sequetur quod decipiatur in sua aestimatione qua apprehendit eum ut nocivum. Et hoc videtur inopinabile, praecipue quantum ad daemones, qui acumine intellectus vigent in rerum naturis cognoscendis. Oportet ergo dicere quod secundum rei veritatem ille ignis corporeus animae sit nocivus. Unde Gregorius in 4 *Dialogorum*, concludit, dicens: *colligere ex dictis Evangelicis possumus quod incendium anima non solum videndo, sed experiendo patiatur*.  
+
+Ad investigandum ergo quomodo ignis corporeus animae vel daemoni nocivus esse possit, considerandum est quod nocumentum alicui non infertur secundum quod recipit id quo perficitur, sed secundum quod a suo contrario impeditur. Unde passio animae ab igne non est secundum receptionem tantum, sicut patitur intellectus ab intelligibili et sensus a sensibili, sed secundum quod aliquid patitur ab altero per viam contrarietatis et obstaculi. Hoc autem contingit dupliciter.  
+
+Impeditur enim uno modo aliquid a suo contrario quantum ad esse suum quod habet ex aliqua forma inhaerente; et sic patitur aliquid a suo contrario per alterationem et corruptionem, sicut lignum ab igne comburitur.  
+
+Aliquid autem impeditur ab aliquo obstante vel contrariante quantum ad suam inclinationem; sicut naturalis inclinatio lapidis est ut feratur deorsum, impeditur autem ab aliquo obstante et vim inferente, ut per violentiam quiescat, vel per violentiam moveatur.  
+
+Neuter autem modus passionis poenalis est in re cognitione carente, nam ubi non potest esse dolor et tristitia, non competit ratio afflictionis et poenae. Sed in habente cognitionem ex utroque modo passionis consequitur afflictio et poena, sed diversimode. Nam passio quae est secundum alterationem a contrario infert afflictionem et poenam secundum sensibilem dolorem, sicut cum sensibile excellens corrumpit harmoniam sensus; et ideo excellentiae sensibilium, et maxime tangibilium, dolorem sensibilem inferunt; contemperationes autem eorum delectant propter convenientiam ad sensum. Sed secunda passio non infert poenam secundum dolorem sensibilem, sed secundum interiorem tristitiam, quae oritur in homine vel animali ex hoc quod aliquid, interiori aliqua vi, apprehenditur ut repugnans voluntati, vel cuicumque appetitui. Unde ea quae sunt contraria voluntati et appetitui affligunt, et magis interdum quam ea quae sunt dolorosa secundum sensum: praeeligeret enim aliquis verberari, et graviter secundum sensum affligi, quam vituperia sustinere, vel aliqua huiusmodi quae voluntati repugnant.  
+
+Secundum igitur primum modum passionis anima non potest pati poenam ab igne corporeo: non enim possibile est quod ab eo alteretur et corrumpatur; et ideo non eo modo ab igne affligitur ut ex eo dolorem sensibilem patiatur. Potest autem pati anima ab igne corporeo secundo modo passionis, in quantum per huiusmodi ignem impeditur a sua inclinatione vel voluntate; quod sic patet. Anima enim, et quaelibet incorporalis substantia, quantum est de sui natura, non est obligata alicui loco, sed transcendit totum ordinem corporalium. Quod ergo alligetur alicui, et determinetur ad aliquem locum per quamdam necessitatem, est contra eius naturam, et contrarium appetitui naturali; et hoc dico nisi in quantum coniungitur corpori cuius est forma naturalis, in quo aliquam perfectionem consequitur.  
+
+Quod autem aliqua spiritualis substantia alicui corpori obligetur non est ex virtute corporis potentis substantiam incorpoream detinere, sed est ex virtute alicuius superioris substantiae alligantis spiritualem substantiam tali corpori: sicut etiam per artes magicas, permissione divina, virtute superiorum daemonum, aliqui spiritus rebus aliquibus alligantur, vel anulis, vel imaginibus, vel huiusmodi rebus. Et per hunc modum animae et daemones alligantur virtute divina in sui poenam corporeo igni. Unde Augustinus dicit, 21 *De civitate Dei*: *cur non dicamus quamvis miris, tamen veris modis, etiam spiritus incorporeos posse poena corporalis ignis affligi, si spiritus hominum, etiam ipsi profecto incorporei, et nunc potuerunt includi corporalibus membris, et tunc poterunt corporum suorum vinculis insolubiliter alligari? Adhaerebunt ergo spiritus daemones, licet incorporei, corporeis ignibus cruciandi; accipientes ex ignibus poenam, non dantes ignibus vitam.*  
+
+Et sic verum est quod ignis ille, in quantum virtute divina detinet animam alligatam, agit in animam ut instrumentum divinae iustitiae; et in quantum anima apprehendit illum ignem ut sibi nocivum, interiori tristitia affligitur; quae quidem maxima est cum considerat se infimis rebus subdi, quae nata fuit Deo per fruitionem uniri. Maxima igitur afflictio damnatorum erit ex eo quod a Deo separabuntur; secunda vero ex hoc quod rebus corporalibus subduntur, et in infimo et abiectissimo loco.  
+
+Et per hoc patet solutio ad septem quae primo obiiciuntur: non enim dicimus quod anima patiatur ab igne corporeo, vel recipiendo tantum, vel secundum alterationem a contrario, prout praedictae obiectiones procedunt.  
+
+Ad octavum dicendum quod instrumentum non agit virtute sua, sed virtute principalis agentis; et ideo, cum ignis agat in animam ut instrumentum divinae iustitiae, non est attendenda dignitas ignis, sed divinae iustitiae.  
+
+Ad nonum dicendum quod corpora sunt convenientia instrumenta ad puniendum damnatos: conveniens enim est ut qui suo superiori, scilicet Deo, subdi noluerunt, rebus inferioribus subdantur per poenam.  
+
+Ad decimum dicendum quod Deus, etsi non faciat contra naturam, operatur tamen supra naturam dum facit quod natura non potest.  
+
+Ad undecimum dicendum quod esse impassibile a re corporali per modum alterationis animae competit secundum rationem suae essentiae; hoc autem modo non patitur divina virtute, sed sicut dictum est.  
+
+Ad duodecimum dicendum quod ignis non agit potentia agendi in animam ut virtute propria agat, sicut ea quae naturaliter agunt, sed instrumentaliter tantum; et ideo non sequitur quod mutetur a sua natura.  
+
+Ad tertium decimum dicendum quod neutro illorum modorum anima ab igne corporeo patitur, sed sicut dictum est.  
+
+Ad quartum decimum dicendum quod ignis corporeus, etsi non calefaciat animam, habet tamen aliam operationem vel habitudinem ad animam, quam corpora nata sunt habere ad spiritum, ut scilicet eis aliqualiter uniatur.  
+
+Ad quintum decimum dicendum quod anima non unitur igni punienti ut forma, quia non dat ei vitam, ut Augustinus dicit; sed unitur ei eo modo quo spiritus unitur locis corporeis, per contactum virtutis, quamvis etiam non sit ipsorum motor.  
+
+Ad sextum decimum dicendum quod, sicut iam dictum est, anima affligitur ab igne corporeo in quantum apprehendit eum ut sibi nocivum per modum alligationis et detentionis. Haec autem apprehensio affligere potest etiam cum non est actu alligata, ex hoc solum quod apprehendit se alligationi deputatam. Et per hoc dicuntur daemones secum ferre gehennam quocumque vadunt.  
+
+Ad septimum decimum dicendum quod licet anima ex huiusmodi alligatione non impediatur ab intellectuali operatione, impeditur tamen a quadam naturali libertate, quae est absoluta ab omni obligatione ad locum corporalem.  
+
+Ad octavum decimum dicendum quod poena gehennae non solum est animarum, sed etiam corporum: propter hoc ponitur ignis maxime poena gehennalis, quia ignis est maxime corporum afflictivus. Nihilominus tamen et alia erunt afflictiva, secundum illud Psalmi: *ignis, sulphur* etc. Competit etiam amori inordinato, qui est peccandi principium, ut sicut caelum empyreum respondet igni caritatis, ita ignis inferni respondeat inordinatae cupiditati.  
+
+Ad nonum decimum dicendum quod Augustinus hoc dicit non determinando, sed inquirendo; vel si hoc opinando dixit, expresse postmodum revocat in 21 *De civitate Dei*. Vel potest dici quod substantia inferorum dicitur esse spiritualis quantum ad proximum affligens, quod est ignis apprehensus ut nocivus per modum detentionis et alligationis.  
+
+Ad vicesimum dicendum quod Gregorius hoc introducit per modum obiectionis quorumdam qui credebant omnes poenas quae a Deo infliguntur esse purgatorias, et nullam esse perpetuam; quod quidem falsum est. Inferuntur enim a Deo quaedam poenae, vel in hac vita, vel post hanc vitam, ad emendationem vel purgationem; quaedam vero ad ultimam damnationem. Nec tales poenae a Deo infliguntur eo quod ipse delectetur in poenis, sed eo quod delectatur in iustitia, secundum quam peccantibus poena debetur. Sic etiam apud homines quaedam poenae infliguntur ad correctionem eius qui punitur, sicut cum pater flagellat filium; quaedam autem ad finalem condemnationem, sicut cum iudex suspendit latronem.  
+
+Ad vicesimum primum dicendum quod poenae sunt per contrarium quantum ad intentionem peccantis: nam peccans intendit propriae satisfacere voluntati, poena autem est contraria voluntati ipsius. Sed quandoque ex sapientia divina procedit ut illud in quo quaerit aliquis suam voluntatem implere, in contrarium ei vertatur; et sic dicitur in libro Sapientiae: *per quae peccat quis, per hoc et torquetur*. Unde quia anima peccat corporalibus inhaerendo, ad divinam sapientiam pertinet ut per corporalia puniatur.  
+
+Ad vicesimum secundum dicendum quod anima praemiatur per hoc quod fruitur eo quod est supra se, punitur autem per hoc quod subditur his quae sunt infra ipsam; et ideo praemia animarum non sunt convenienter intelligenda nisi spiritualiter, poenae autem intelligi possunt corporaliter.

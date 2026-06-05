@@ -1,5 +1,0 @@
-# Chapter LXXVII. That the Multitude of the Objects of God’s Will is not inconsistent with the Simplicity of His Substance
-
-**CHAPTER LXXVII**—*That the Multitude of the Objects of God’s Will is not inconsistent with the Simplicity of His Substance*
-
-GOD wills other things inasmuch as He wills His own goodness (Chap. LXXV). Things then come under the will of God according as they are included in His goodness. But in His goodness all things are one: for they are in Him according to the mode that befits Him; material things, immaterially; and things many, in union (Chap. LV, LVIII). Thus the multitude of the objects of the divine will does not multiply the divine substance.
