@@ -1,5 +1,7 @@
-# Quaestio 75 — Deinde considerandum est de derisione. Et circa hoc quaeruntur duo.
+# Quaestio 75
 
-Primo, utrum derisio sit peccatum speciale distinctum ab aliis peccatis quibus per verba nocumentum proximo infertur.
+***Deinde considerandum est de derisione. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum derisio sit peccatum mortale.
+Primo, utrum derisio sit peccatum speciale distinctum ab aliis peccatis quibus per verba nocumentum proximo infertur.  
+
+- Secundo, utrum derisio sit peccatum mortale.

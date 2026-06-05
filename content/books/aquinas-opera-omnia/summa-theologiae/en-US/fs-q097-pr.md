@@ -1,9 +1,9 @@
-# Question 97 — We must now consider change in laws: under which head there are four points of inquiry:
+# Question 97 — Of Change in Laws
 
-(1) Whether human law is changeable?
+We must now consider change in laws: under which head there are four points of inquiry:  
 
-(2) Whether it should be always changed, whenever anything better occurs?
+(1) Whether human law is changeable?  
 
-(3) Whether it is abolished by custom, and whether custom obtains the force of law?
-
-(4) Whether the application of human law should be changed by dispensation of those in authority?
+- (2) Whether it should be always changed, whenever anything better occurs?
+- (3) Whether it is abolished by custom, and whether custom obtains the force of law?
+- (4) Whether the application of human law should be changed by dispensation of those in authority?

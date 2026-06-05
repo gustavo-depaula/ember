@@ -1,9 +1,9 @@
-# Quaestio 94 — Deinde considerandum est de idololatria. Et circa hoc quaeruntur quatuor.
+# Quaestio 94
 
-Primo, utrum idololatria sit species superstitionis.
+***Deinde considerandum est de idololatria. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum sit peccatum.
+Primo, utrum idololatria sit species superstitionis.  
 
-Tertio, utrum sit gravissimum peccatorum.
-
-Quarto, de causa huius peccati. Utrum autem cum idololatris sit communicandum, dictum est supra, cum de infidelitate ageretur.
+- Secundo, utrum sit peccatum.
+- Tertio, utrum sit gravissimum peccatorum.
+- Quarto, de causa huius peccati. Utrum autem cum idololatris sit communicandum, dictum est supra, cum de infidelitate ageretur.

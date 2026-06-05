@@ -1,9 +1,9 @@
-# Question 91 — We have now to consider the production of the first man's body. Under this head there are four points of inquiry:
+# Question 91 — The Production of the First Man’s Body
 
-(1) The matter from which it was produced;
+We have now to consider the production of the first man’s body. Under this head there are four points of inquiry:  
 
-(2) The author by whom it was produced;
+(1) The matter from which it was produced;  
 
-(3) The disposition it received in its production;
-
-(4) The mode and order of its production.
+- (2) The author by whom it was produced;
+- (3) The disposition it received in its production;
+- (4) The mode and order of its production.

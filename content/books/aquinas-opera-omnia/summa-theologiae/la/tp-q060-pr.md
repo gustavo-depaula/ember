@@ -1,27 +1,19 @@
-# Quaestio 60 — secunda de unoquoque sacramentorum in speciali.
+# Quaestio 60
 
-Circa primum quinque consideranda sunt,
+***Quid sit sacramentum***
 
-primo, quid sit sacramentum;
-secundo, de necessitate sacramentorum;
-tertio, de effectibus sacramentorum;
-quarto, de causa eorum;
-quinto, de numero.
+Post considerationem eorum quae pertinent ad mysteria verbi incarnati, considerandum est de Ecclesiae sacramentis, quae ab ipso verbo incarnato efficaciam habent. Et prima consideratio erit de sacramentis in communi; secunda de unoquoque sacramentorum in speciali.  
 
-Circa primum quaeruntur octo.
+Circa primum quinque consideranda sunt, primo, quid sit sacramentum; secundo, de necessitate sacramentorum; tertio, de effectibus sacramentorum; quarto, de causa eorum; quinto, de numero.  
 
-Primo, utrum sacramentum sit in genere signi.
+Circa primum quaeruntur octo.  
 
-Secundo, utrum omne signum rei sacrae sit sacramentum.
+Primo, utrum sacramentum sit in genere signi.  
 
-Tertio, utrum sacramentum sit signum unius rei tantum, vel plurium.
-
-Quarto, utrum sacramentum sit signum quod est res sensibilis.
-
-Quinto, utrum ad sacramentum requiratur determinata res sensibilis.
-
-Sexto, utrum ad sacramentum requiratur significatio quae est per verba.
-
-Septimo, utrum requirantur determinata verba.
-
-Octavo, utrum illis verbis possit aliquid addi vel subtrahi.
+- Secundo, utrum omne signum rei sacrae sit sacramentum.
+- Tertio, utrum sacramentum sit signum unius rei tantum, vel plurium.
+- Quarto, utrum sacramentum sit signum quod est res sensibilis.
+- Quinto, utrum ad sacramentum requiratur determinata res sensibilis.
+- Sexto, utrum ad sacramentum requiratur significatio quae est per verba.
+- Septimo, utrum requirantur determinata verba.
+- Octavo, utrum illis verbis possit aliquid addi vel subtrahi.

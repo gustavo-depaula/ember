@@ -1,9 +1,9 @@
-# Quaestio 34 — Deinde considerandum est de perfectione prolis conceptae. Et circa hoc quaeruntur quatuor.
+# Quaestio 34
 
-Primo, utrum in primo instanti conceptionis Christus fuerit sanctificatus per gratiam.
+Deinde considerandum est de perfectione prolis conceptae. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum in eodem instanti habuerit usum liberi arbitrii.
+Primo, utrum in primo instanti conceptionis Christus fuerit sanctificatus per gratiam.  
 
-Tertio, utrum in eodem instanti potuerit mereri.
-
-Quarto, utrum in eodem instanti fuerit plene comprehensor.
+- Secundo, utrum in eodem instanti habuerit usum liberi arbitrii.
+- Tertio, utrum in eodem instanti potuerit mereri.
+- Quarto, utrum in eodem instanti fuerit plene comprehensor.

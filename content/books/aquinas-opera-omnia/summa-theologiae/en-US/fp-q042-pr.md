@@ -1,13 +1,13 @@
-# Question 42 — We now have to consider the persons as compared to one another: firstly, with regard to equality and likeness; secondly, with regard to mission. Concerning the first there are six points of inquiry.
+# Question 42 — Equality and Likeness among the Divine Persons
 
-(1) Whether there is equality among the divine persons?
+We now have to consider the persons as compared to one another: first, with regard to equality and likeness; second, with regard to mission.  
 
-(2) Whether the person who proceeds is equal to the one from Whom He proceeds in eternity?
+Concerning the first there are six points of inquiry.  
 
-(3) Whether there is any order among the divine persons?
+(1) Whether there is equality among the divine persons?  
 
-(4) Whether the divine persons are equal in greatness?
-
-(5) Whether the one divine person is in another?
-
-(6) Whether they are equal in power?
+- (2) Whether the person who proceeds is equal to the one from Whom He proceeds in eternity?
+- (3) Whether there is any order among the divine persons?
+- (4) Whether the divine persons are equal in greatness?
+- (5) Whether the one divine person is in another?
+- (6) Whether they are equal in power?

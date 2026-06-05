@@ -1,11 +1,11 @@
-# Question 26 — Question: 26 [ << | >> ]
+# Question 26 — Those Who Can Grant Indulgences
 
-We must now consider those who can grant indulgences: under which head there are four points of inquiry:
+***We must now consider those who can grant indulgences.***
 
-(1) Whether every parish priest can grant indulgences?
+Under this head there are four points of inquiry:  
 
-(2) Whether a deacon or another, who is not a priest, can grant indulgences?
+(1) Whether every parish priest can grant indulgences?  
 
-(3) Whether a bishop can grant them?
-
-(4) Whether they can be granted by one who is in mortal sin?
+- (2) Whether a deacon or another who is not a priest can grant indulgences?
+- (3) Whether a bishop can grant them?
+- (4) Whether they can be granted by one who is in mortal sin?

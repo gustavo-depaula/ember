@@ -1,9 +1,9 @@
-# Question 108 — We must now consider vengeance, under which head there are four points of inquiry:
+# Question 108 — Vengeance
 
-(1) Whether vengeance is lawful?
+We must now consider vengeance, under which head there are four points of inquiry:  
 
-(2) Whether it is a special virtue?
+(1) Whether vengeance is lawful?  
 
-(3) Of the manner of taking vengeance;
-
-(4) On whom should vengeance be taken?
+- (2) Whether it is a special virtue?
+- (3) Of the manner of taking vengeance;
+- (4) On whom should vengeance be taken?

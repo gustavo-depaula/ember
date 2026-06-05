@@ -1,11 +1,10 @@
-# Question 112 — We must now consider the cause of grace; and under this head there are five points of inquiry:
+# Question 112 — Of the Cause of Grace
 
-(1) Whether God alone is the efficient cause of grace?
+We must now consider the cause of grace; and under this head there are five points of inquiry:  
 
-(2) Whether any disposition towards grace is needed on the part of the recipient, by an act of free-will?
+(1) Whether God alone is the efficient cause of grace?  
 
-(3) Whether such a disposition can make grace follow of necessity?
-
-(4) Whether grace is equal in all?
-
-(5) Whether anyone may know that he has grace?
+- (2) Whether any disposition towards grace is needed on the part of the recipient, by an act of free-will?
+- (3) Whether such a disposition can make grace follow of necessity?
+- (4) Whether grace is equal in all?
+- (5) Whether anyone may know that he has grace?

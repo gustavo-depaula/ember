@@ -1,9 +1,9 @@
-# Quaestio 33 — Deinde considerandum est de modo et ordine conceptionis Christi. Et circa hoc quaeruntur quatuor.
+# Quaestio 33
 
-Primo, utrum corpus Christi in primo instanti conceptionis fuerit formatum.
+Deinde considerandum est de modo et ordine conceptionis Christi. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum in primo instanti conceptionis fuerit animatum.
+Primo, utrum corpus Christi in primo instanti conceptionis fuerit formatum.  
 
-Tertio, utrum in primo instanti conceptionis fuerit a verbo assumptum.
-
-Quarto, utrum conceptio illa fuerit naturalis vel miraculosa.
+- Secundo, utrum in primo instanti conceptionis fuerit animatum.
+- Tertio, utrum in primo instanti conceptionis fuerit a verbo assumptum.
+- Quarto, utrum conceptio illa fuerit naturalis vel miraculosa.

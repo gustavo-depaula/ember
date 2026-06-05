@@ -1,19 +1,17 @@
-# Quaestio 1 — deinde de beatitudine.
+# Quaestio 1
 
-Circa primum quaeruntur octo.
+Ubi primo considerandum occurrit de ultimo fine humanae vitae; et deinde de his per quae homo ad hunc finem pervenire potest, vel ab eo deviare, ex fine enim oportet accipere rationes eorum quae ordinantur ad finem.  
 
-Primo, utrum hominis sit agere propter finem.
+Et quia ultimus finis humanae vitae ponitur esse beatitudo, oportet primo considerare de ultimo fine in communi; deinde de beatitudine.  
 
-Secundo, utrum hoc sit proprium rationalis naturae.
+Circa primum quaeruntur octo.  
 
-Tertio, utrum actus hominis recipiant speciem a fine.
+Primo, utrum hominis sit agere propter finem.  
 
-Quarto, utrum sit aliquis ultimus finis humanae vitae.
-
-Quinto, utrum unius hominis possint esse plures ultimi fines.
-
-Sexto, utrum homo ordinet omnia in ultimum finem.
-
-Septimo, utrum idem sit finis ultimus omnium hominum.
-
-Octavo, utrum in illo ultimo fine omnes aliae creaturae conveniant.
+- Secundo, utrum hoc sit proprium rationalis naturae.
+- Tertio, utrum actus hominis recipiant speciem a fine.
+- Quarto, utrum sit aliquis ultimus finis humanae vitae.
+- Quinto, utrum unius hominis possint esse plures ultimi fines.
+- Sexto, utrum homo ordinet omnia in ultimum finem.
+- Septimo, utrum idem sit finis ultimus omnium hominum.
+- Octavo, utrum in illo ultimo fine omnes aliae creaturae conveniant.

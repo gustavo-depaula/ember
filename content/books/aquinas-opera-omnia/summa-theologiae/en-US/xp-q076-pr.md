@@ -1,9 +1,10 @@
-# Question 76 — Question: 76 [ << | >> ]
+# Question 76 — The Cause of the Resurrection
 
-We must next consider the cause of our resurrection. Under this head there are three points of inquiry:
+***We must next consider the cause of our resurrection.***
 
-(1) Whether Christ's resurrection is the cause of our resurrection?
+Under this head there are three points of inquiry:  
 
-(2) Whether the sound of the trumpet is?
+(1) Whether Christ’s resurrection is the cause of our resurrection?  
 
-(3) Whether the angels are?
+- (2) Whether the sound of the trumpet is?
+- (3) Whether the angels are?

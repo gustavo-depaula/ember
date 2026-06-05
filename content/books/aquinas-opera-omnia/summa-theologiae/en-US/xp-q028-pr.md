@@ -1,9 +1,10 @@
-# Question 28 — Question: 28 [ << | >> ]
+# Question 28 — The Solemn Rite of Penance
 
-We must now consider the solemn rite of Penance: under which head there are three points of inquiry:
+***We must now consider the solemn rite of penance.***
 
-(1) Whether a penance can be published or solemnized?
+Under this head there are three points of inquiry:  
 
-(2) Whether a solemn penance can be repeated?
+(1) Whether a penance can be published or solemnized?  
 
-(3) Whether public penance should be imposed on women?
+- (2) Whether a solemn penance can be repeated?
+- (3) Whether public penance should be imposed on women?

@@ -1,14 +1,15 @@
-# Quaestio 90 — secundo, de gratia dicendum est.
+# Quaestio 90
 
-Circa legem autem,
+***De essentia legis***
 
-primo oportet considerare de ipsa lege in communi;
-secundo, de partibus eius.
+Consequenter considerandum est de principiis exterioribus actuum. Principium autem exterius ad malum inclinans est Diabolus, de cuius tentatione in primo dictum est. Principium autem exterius movens ad bonum est Deus, qui et nos instruit per legem, et iuvat per gratiam. Unde primo, de lege; secundo, de gratia dicendum est.  
 
-Circa legem autem in communi tria occurrunt consideranda,
+Circa legem autem, primo oportet considerare de ipsa lege in communi; secundo, de partibus eius. Circa legem autem in communi tria occurrunt consideranda, primo quidem, de essentia ipsius; secundo, de differentia legum; tertio, de effectibus legis.  
 
-primo quidem, de essentia ipsius;
-secundo, de differentia legum;
-tertio, de effectibus legis.
+Circa primum quaeruntur quatuor.  
 
-Circa primum quaeruntur quatuor. Primo, utrum lex sit aliquid rationis. Secundo, de fine legis. Tertio, de causa eius. Quarto, de promulgatione ipsius.
+Primo, utrum lex sit aliquid rationis.  
+
+- Secundo, de fine legis.
+- Tertio, de causa eius.
+- Quarto, de promulgatione ipsius.

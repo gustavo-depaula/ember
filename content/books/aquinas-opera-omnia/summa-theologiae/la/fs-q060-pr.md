@@ -1,11 +1,10 @@
-# Quaestio 60 — Deinde considerandum est de distinctione virtutum moralium ad invicem. Et circa hoc quaeruntur quinque.
+# Quaestio 60
 
-Primo, utrum sit tantum una virtus moralis.
+Deinde considerandum est de distinctione virtutum moralium ad invicem. Et circa hoc quaeruntur quinque.  
 
-Secundo, utrum distinguantur virtutes morales quae sunt circa operationes, ab his quae sunt circa passiones.
+Primo, utrum sit tantum una virtus moralis.  
 
-Tertio, utrum circa operationes sit una tantum moralis virtus.
-
-Quarto, utrum circa diversas passiones sint diversae morales virtutes.
-
-Quinto, utrum virtutes morales distinguantur secundum diversa obiecta passionum.
+- Secundo, utrum distinguantur virtutes morales quae sunt circa operationes, ab his quae sunt circa passiones.
+- Tertio, utrum circa operationes sit una tantum moralis virtus.
+- Quarto, utrum circa diversas passiones sint diversae morales virtutes.
+- Quinto, utrum virtutes morales distinguantur secundum diversa obiecta passionum.

@@ -1,13 +1,11 @@
-# Question 85 — We must now consider penance as a virtue, under which head there are six points of inquiry:
+# Question 85 — Penance as a Virtue
 
-(1) Whether penance is a virtue?
+We must now consider penance as a virtue, under which head there are six points of inquiry:  
 
-(2) Whether it is a special virtue?
+(1) Whether penance is a virtue?  
 
-(3) To what species of virtue does it belong?
-
-(4) Of its subject;
-
-(5) Of its cause;
-
-(6) Of its relation to the other virtues.
+- (2) Whether it is a special virtue?
+- (3) To what species of virtue does it belong?
+- (4) Of its subject;
+- (5) Of its cause;
+- (6) Of its relation to the other virtues.

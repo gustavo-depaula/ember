@@ -1,5 +1,7 @@
-# Question 113 — We must now consider irony, under which head there are two points of inquiry:
+# Question 113 — Irony
 
-(1) Whether irony is a sin?
+***We must now consider irony, under which head there are two points of inquiry:***
 
-(2) Of its comparison with boasting.
+(1) Whether irony is a sin?  
+
+- (2) Of its comparison with boasting.

@@ -1,15 +1,13 @@
-# Quaestio 161 — quarto, de modestia secundum quod est circa exteriorem cultum.
+# Quaestio 161
 
-Circa humilitatem quaeruntur sex.
+Deinde considerandum est de speciebus modestiae. Et primo, de humilitate, et superbia, quae ei opponitur; secundo, de studiositate, et curiositate sibi opposita; tertio, de modestia secundum quod est in verbis vel factis; quarto, de modestia secundum quod est circa exteriorem cultum.  
 
-Primo, utrum humilitas sit virtus.
+Circa humilitatem quaeruntur sex.  
 
-Secundo, utrum consistat in appetitu, vel in iudicio rationis.
+Primo, utrum humilitas sit virtus.  
 
-Tertio, utrum aliquis per humilitatem se debeat omnibus subiicere.
-
-Quarto, utrum sit pars modestiae vel temperantiae.
-
-Quinto, de comparatione eius ad alias virtutes.
-
-Sexto, de gradibus humilitatis.
+- Secundo, utrum consistat in appetitu, vel in iudicio rationis.
+- Tertio, utrum aliquis per humilitatem se debeat omnibus subiicere.
+- Quarto, utrum sit pars modestiae vel temperantiae.
+- Quinto, de comparatione eius ad alias virtutes.
+- Sexto, de gradibus humilitatis.

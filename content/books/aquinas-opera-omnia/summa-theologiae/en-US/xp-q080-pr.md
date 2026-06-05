@@ -1,13 +1,12 @@
-# Question 80 — Question: 80 [ << | >> ]
+# Question 80 — The Integrity of the Bodies of Those Who Rise Again
 
-We must next consider the integrity of the bodies in the resurrection. Under this head there are five points of inquiry:
+***We must next consider the integrity of the bodies in the resurrection.***
 
-(1) Whether all the members of the human body will rise again therein?
+Under this head there are five points of inquiry:  
 
-(2) Whether the hair and nails will?
+(1) Whether all the members of the human body will rise again therein?  
 
-(3) Whether the humors will?
-
-(4) Whether whatever the body contained belonging to the truth of human nature will rise again?
-
-(5) Whether whatever it contained materially will rise again?
+- (2) Whether the hair and nails will?
+- (3) Whether the humors will?
+- (4) Whether whatever the body contained belonging to the truth of human nature will?
+- (5) Whether whatever it contained materially will?

@@ -1,15 +1,17 @@
 # Quaestio 5
 
-Circa primum quaeruntur sex.
+***De bono in communi***
 
-Primo, utrum bonum et ens sint idem secundum rem.
+***Deinde quaeritur de bono,***
 
-Secundo, supposito quod differant ratione tantum, quid sit prius secundum rationem, utrum bonum vel ens.
+et primo de bono in communi; secundo de bonitate Dei.  
 
-Tertio, supposito quod ens sit prius, utrum omne ens sit bonum.
+Circa primum quaeruntur sex.  
 
-Quarto, ad quam causam ratio boni reducatur.
+Primo, utrum bonum et ens sint idem secundum rem.  
 
-Quinto, utrum ratio boni consistat in modo, specie et ordine.
-
-Sexto, quomodo dividatur bonum in honestum, utile et delectabile.
+- Secundo, supposito quod differant ratione tantum, quid sit prius secundum rationem, utrum bonum vel ens.
+- Tertio, supposito quod ens sit prius, utrum omne ens sit bonum.
+- Quarto, ad quam causam ratio boni reducatur.
+- Quinto, utrum ratio boni consistat in modo, specie et ordine.
+- Sexto, quomodo dividatur bonum *(*quomodo dividatur bonum.—de divisione boni* codices et edd. *a b*)* in honestum, utile et delectabile.

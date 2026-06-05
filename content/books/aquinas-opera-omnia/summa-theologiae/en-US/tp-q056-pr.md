@@ -1,5 +1,7 @@
-# Question 56 — We have now to consider the causality of Christ's Resurrection, concerning which there are two points of inquiry:
+# Question 56 — The Causality of Christ’s Resurrection
 
-(1) Whether Christ's Resurrection is the cause of our resurrection?
+We have now to consider the causality of Christ’s Resurrection, concerning which there are two points of inquiry:  
 
-(2) Whether it is the cause of our justification?
+(1) Whether Christ’s Resurrection is the cause of our resurrection?  
+
+- (2) Whether it is the cause of our justification?

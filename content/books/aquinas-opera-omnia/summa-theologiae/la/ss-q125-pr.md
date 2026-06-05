@@ -1,11 +1,11 @@
-# Quaestio 125 — tertio, de audacia.
+# Quaestio 125
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de vitiis oppositis fortitudini. Et primo, de timore; secundo, de intimiditate; tertio, de audacia.  
 
-Primo, utrum timor sit peccatum.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum opponatur fortitudini.
+Primo, utrum timor sit peccatum.  
 
-Tertio, utrum sit peccatum mortale.
-
-Quarto, utrum excuset vel diminuat peccatum.
+- Secundo, utrum opponatur fortitudini.
+- Tertio, utrum sit peccatum mortale.
+- Quarto, utrum excuset vel diminuat peccatum.

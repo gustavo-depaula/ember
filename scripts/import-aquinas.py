@@ -365,6 +365,18 @@ PART_CODES = {
 
 
 def build_summa_theologiae() -> dict:
+    """Deprecated: the canonical Summa Theologiae is now sourced from
+    aquinas.cc via `python3 scripts/scrape-aquinas-cc.py summa`. The Geremia
+    mirror was inconsistent across questions — some are bilingual <tr>/<td>
+    tables, others (SS Q23–24, much of the Supplementum) are English-only
+    <p> paragraphs with no Latin column — leaving ~580 Latin chapters
+    empty. The aquinas.cc bilingual edition pairs every row across both
+    languages. Original Geremia body kept under `_unused_build_summa_…`
+    for reference."""
+    return {"book": "aquinas-summa-theologiae", "skipped": "sourced from aquinas.cc"}
+
+
+def _unused_build_summa_theologiae() -> dict:
     """Walk summa/{FP,FS,SS,TP,XP}/ and emit one book with a 3-level TOC:
     Part → Question → Article."""
     book_dir = BOOKS_ROOT / "summa-theologiae"

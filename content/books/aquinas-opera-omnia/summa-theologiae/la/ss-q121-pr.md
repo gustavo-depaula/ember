@@ -1,5 +1,7 @@
-# Quaestio 121 — Deinde considerandum est de dono correspondente iustitiae, scilicet de pietate. Et circa hoc quaeruntur duo.
+# Quaestio 121
 
-Primo, utrum sit donum spiritus sancti.
+Deinde considerandum est de dono correspondente iustitiae, scilicet de pietate. Et circa hoc quaeruntur duo.  
 
-Secundo, quid in beatitudinibus et fructibus ei respondeat.
+Primo, utrum sit donum spiritus sancti.  
+
+- Secundo, quid in beatitudinibus et fructibus ei respondeat.

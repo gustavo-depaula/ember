@@ -1,9 +1,9 @@
-# Question 87 — We have now to consider how the intellectual soul knows itself and all within itself. Under this head there are four points of inquiry:
+# Question 87 — The Soul’s Knowledge of Itself and All Within Itself
 
-(1) Whether the soul knows itself by its own essence?
+We have now to consider how the intellectual soul knows itself and all within itself. Under this head there are four points of inquiry:  
 
-(2) Whether it knows its own habits?
+(1) Whether the soul knows itself by its own essence?  
 
-(3) How does the intellect know its own act?
-
-(4) How does it know the act of the will?
+- (2) Whether it knows its own habits?
+- (3) How does the intellect know its own act?
+- (4) How does it know the act of the will?

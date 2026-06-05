@@ -1,9 +1,9 @@
-# Quaestio 45 — Deinde considerandum est de audacia. Et circa hoc quaeruntur quatuor.
+# Quaestio 45
 
-Primo, utrum audacia sit contraria timori.
+***Deinde considerandum est de audacia. Et circa hoc quaeruntur quatuor.***
 
-Secundo, quomodo audacia se habeat ad spem.
+Primo, utrum audacia sit contraria timori.  
 
-Tertio, de causa audaciae.
-
-Quarto, de effectus ipsius.
+- Secundo, quomodo audacia se habeat ad spem.
+- Tertio, de causa audaciae.
+- Quarto, de effectus ipsius.

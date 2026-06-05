@@ -1,11 +1,11 @@
-# Question 81 — Question: 81 [ << | >> ]
+# Question 81 — The Quality of Those Who Rise Again
 
-We must now consider the quality of those who rise again. Under this head there are four points of inquiry:
+***We must now consider the quality of those who rise again.***
 
-(1) Whether all will rise again in the youthful age?
+Under this head there are four points of inquiry:  
 
-(2) Whether they will be of equal stature?
+(1) Whether all will rise again in the youthful age?  
 
-(3) Whether all will be of the same sex?
-
-(4) Whether they will rise again to the animal life?
+- (2) Whether they will be of equal stature?
+- (3) Whether all will be of the same sex?
+- (4) Whether they will rise again to the animal life?

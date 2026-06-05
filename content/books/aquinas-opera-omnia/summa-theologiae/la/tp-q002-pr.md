@@ -1,27 +1,19 @@
-# Quaestio 2 — tertio, quantum ad naturam assumptam.
+# Quaestio 2
 
-Circa primum quaeruntur duodecim.
+Deinde considerandum est de modo unionis verbi incarnati. Et primo quantum ad ipsam unionem; secundo, quantum ad personam assumentem; tertio, quantum ad naturam assumptam.  
 
-Primo, utrum unio verbi incarnati sit facta in natura.
+Circa primum quaeruntur duodecim.  
 
-Secundo, utrum sit facta in persona.
+Primo, utrum unio verbi incarnati sit facta in natura.  
 
-Tertio, utrum sit facta in supposito vel hypostasi.
-
-Quarto, utrum persona vel hypostasis Christi post incarnationem sit composita.
-
-Quinto, utrum sit facta aliqua unio animae et corporis in Christo.
-
-Sexto, utrum natura humana fuerit unita verbo accidentaliter.
-
-Septimo, utrum ipsa unio sit aliquid creatum.
-
-Octavo, utrum sit idem quod assumptio.
-
-Nono, utrum sit maxima unionum.
-
-Decimo, utrum unio duarum naturarum in Christo fuerit facta per gratiam.
-
-Undecimo, utrum eam aliqua merita praecesserint.
-
-Duodecimo, utrum aliqua gratia fuerit homini Christo naturalis.
+- Secundo, utrum sit facta in persona.
+- Tertio, utrum sit facta in supposito vel hypostasi.
+- Quarto, utrum persona vel hypostasis Christi post incarnationem sit composita.
+- Quinto, utrum sit facta aliqua unio animae et corporis in Christo.
+- Sexto, utrum natura humana fuerit unita verbo accidentaliter.
+- Septimo, utrum ipsa unio sit aliquid creatum.
+- Octavo, utrum sit idem quod assumptio.
+- Nono, utrum sit maxima unionum.
+- Decimo, utrum unio duarum naturarum in Christo fuerit facta per gratiam.
+- Undecimo, utrum eam aliqua merita praecesserint.
+- Duodecimo, utrum aliqua gratia fuerit homini Christo naturalis.

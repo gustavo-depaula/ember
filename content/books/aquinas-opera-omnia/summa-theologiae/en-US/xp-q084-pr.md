@@ -1,9 +1,10 @@
-# Question 84 — Question: 84 [ << | >> ]
+# Question 84 — The Agility of the Bodies of the Blessed
 
-We must now consider the agility of the bodies of the blessed in the resurrection. Under this head there are three points of inquiry:
+We must now consider the agility of the bodies of the blessed in the resurrection.  
 
-(1) Whether the glorified bodies will be agile?
+Under this head there are three points of inquiry:  
 
-(2) Whether they will move?
+(1) Whether the glorified bodies will be agile?  
 
-(3) Whether they will move instantaneously?
+- (2) Whether they will move?
+- (3) Whether they will move instantaneously?

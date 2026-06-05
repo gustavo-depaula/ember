@@ -1,9 +1,9 @@
-# Quaestio 149 — Deinde considerandum est de sobrietate, et vitio opposito, scilicet ebrietate. Et circa sobrietatem quaeruntur quatuor.
+# Quaestio 149
 
-Primo, quae sit materia sobrietatis.
+Deinde considerandum est de sobrietate, et vitio opposito, scilicet ebrietate. Et circa sobrietatem quaeruntur quatuor.  
 
-Secundo, utrum sit specialis virtus.
+Primo, quae sit materia sobrietatis.  
 
-Tertio, utrum usus vini sit licitus.
-
-Quarto, quibus praecipue competat sobrietas.
+- Secundo, utrum sit specialis virtus.
+- Tertio, utrum usus vini sit licitus.
+- Quarto, quibus praecipue competat sobrietas.

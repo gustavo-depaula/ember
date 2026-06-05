@@ -1,9 +1,9 @@
-# Quaestio 32 — Deinde considerandum est de principio activo in conceptione Christi. Et circa hoc quaeruntur quatuor.
+# Quaestio 32
 
-Primo, utrum spiritus sanctus fuerit principium activum conceptionis Christi.
+Deinde considerandum est de principio activo in conceptione Christi. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum possit dici quod Christus sit conceptus de spiritu sancto.
+Primo, utrum Spiritus Sanctus fuerit principium activum conceptionis Christi.  
 
-Tertio, utrum possit dici quod spiritus sanctus sit pater Christi secundum carnem.
-
-Quarto, utrum beata virgo aliquid active egerit in conceptione Christi.
+- Secundo, utrum possit dici quod Christus sit conceptus de spiritu sancto.
+- Tertio, utrum possit dici quod Spiritus Sanctus sit pater Christi secundum carnem.
+- Quarto, utrum beata virgo aliquid active egerit in conceptione Christi.

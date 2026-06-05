@@ -1,17 +1,13 @@
-# Question 4 — We have now to consider those things that are required for happiness: and concerning this there are eight points of inquiry:
+# Question 4 — Of Those Things That are Required for Happiness
 
-(1) Whether delight is required for happiness?
+We have now to consider those things that are required for happiness: and concerning this there are eight points of inquiry:  
 
-(2) Which is of greater account in happiness, delight or vision?
+(1) Whether delight is required for happiness?  
 
-(3) Whether comprehension is required?
-
-(4) Whether rectitude of the will is required?
-
-(5) Whether the body is necessary for man's happiness?
-
-(6) Whether any perfection of the body is necessary?
-
-(7) Whether any external goods are necessary?
-
-(8) Whether the fellowship of friends is necessary?
+- (2) Which is of greater account in happiness, delight or vision?
+- (3) Whether comprehension is required?
+- (4) Whether rectitude of the will is required?
+- (5) Whether the body is necessary for man’s happiness?
+- (6) Whether any perfection of the body is necessary?
+- (7) Whether any external goods are necessary?
+- (8) Whether the fellowship of friends is necessary?

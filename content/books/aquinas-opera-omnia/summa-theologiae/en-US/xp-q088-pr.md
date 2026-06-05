@@ -1,11 +1,11 @@
-# Question 88 — Question: 88 [ << | >> ]
+# Question 88 — The Time and Place at Which the General Judgment Will Be
 
-We must next consider the general judgment, as to the time and place at which it will be. Under this head there are four points of inquiry:
+We must next consider the general judgment, as to the time and place at which it will be.  
 
-(1) Whether there will be a general judgment?
+Under this head there are four points of inquiry:  
 
-(2) Whether as regards the debate it will be conducted by word of mouth?
+(1) Whether there will be a general judgment?  
 
-(3) Whether it will take place at an unknown time?
-
-(4) Whether it will take place in the valley of Josaphat?
+- (2) Whether as regards the debate it will be conducted by word of mouth?
+- (3) Whether it will take place at an unknown time?
+- (4) Whether it will take place in the valley of Josaphat?

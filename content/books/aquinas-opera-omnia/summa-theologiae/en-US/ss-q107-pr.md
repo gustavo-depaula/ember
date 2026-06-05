@@ -1,9 +1,9 @@
-# Question 107 — We must now consider ingratitude, under which head there are four points of inquiry:
+# Question 107 — Ingratitude
 
-(1) Whether ingratitude is always a sin?
+We must now consider ingratitude, under which head there are four points of inquiry:  
 
-(2) Whether ingratitude is a special sin?
+(1) Whether ingratitude is always a sin?  
 
-(3) Whether every act of ingratitude is a mortal sin?
-
-(4) Whether favors should be withdrawn from the ungrateful?
+- (2) Whether ingratitude is a special sin?
+- (3) Whether every act of ingratitude is a mortal sin?
+- (4) Whether favors should be withdrawn from the ungrateful?

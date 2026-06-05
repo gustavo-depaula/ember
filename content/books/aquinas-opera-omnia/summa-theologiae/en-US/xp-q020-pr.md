@@ -1,9 +1,10 @@
-# Question 20 — Question: 20 [ << | >> ]
+# Question 20 — Those on Whom the Power of the Keys Can Be Exercised
 
-We must now consider those on whom the power of the keys can be exercised. Under this head there are three points of inquiry:
+***We must now consider those on whom the power of the keys can be exercised.***
 
-(1) Whether a priest can use the key, which he has, on any man?
+Under this head there are three points of inquiry:  
 
-(2) Whether a priest can always absolve his subject?
+(1) Whether a priest can use the key which he has on any man?  
 
-(3) Whether anyone can use the keys on his superior?
+- (2) Whether a priest can always absolve his subject?
+- (3) Whether anyone can use the keys on his superior?

@@ -1,15 +1,15 @@
-# Quaestio 88 — Deinde, quia peccatum veniale et mortale distinguuntur secundum reatum, considerandum est de eis. Et primo, considerandum est de veniali per comparationem ad mortale; secundo, de veniali secundum se.
+# Quaestio 88
 
-Circa primum quaeruntur sex.
+***De peccatis venialis et mortalis***
 
-Primo, utrum veniale peccatum convenienter dividatur contra mortale.
+Deinde, quia peccatum veniale et mortale distinguuntur secundum reatum, considerandum est de eis. Et primo, considerandum est de veniali per comparationem ad mortale; secundo, de veniali secundum se.  
 
-Secundo, utrum distinguantur genere.
+Circa primum quaeruntur sex.  
 
-Tertio, utrum veniale peccatum sit dispositio ad mortale.
+Primo, utrum veniale peccatum convenienter dividatur contra mortale.  
 
-Quarto, utrum veniale peccatum possit fieri mortale.
-
-Quinto, utrum circumstantia aggravans possit de veniali peccato facere mortale.
-
-Sexto, utrum peccatum mortale possit fieri veniale.
+- Secundo, utrum distinguantur genere.
+- Tertio, utrum veniale peccatum sit dispositio ad mortale.
+- Quarto, utrum veniale peccatum possit fieri mortale.
+- Quinto, utrum circumstantia aggravans possit de veniali peccato facere mortale.
+- Sexto, utrum peccatum mortale possit fieri veniale.

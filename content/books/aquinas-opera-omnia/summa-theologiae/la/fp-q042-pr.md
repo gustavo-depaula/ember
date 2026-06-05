@@ -1,13 +1,15 @@
-# Quaestio 42 — Deinde considerandum est de comparatione personarum ad invicem. Et primo, quantum ad aequalitatem et similitudinem; secundo, quantum ad missionem. Circa primum quaeruntur sex.
+# Quaestio 42
 
-Primo, utrum aequalitas locum habeat in divinis personis.
+***De aequalitate et similitudine divinarum Personarum ad invicem***
 
-Secundo, utrum persona procedens sit aequalis ei a qua procedit, secundum aeternitatem.
+Deinde considerandum est de comparatione personarum ad invicem. Et primo, quantum ad aequalitatem et similitudinem; secundo, quantum ad missionem.  
 
-Tertio, utrum sit aliquis ordo in divinis personis.
+Circa primum quaeruntur sex.  
 
-Quarto utrum personae divinae sint aequales secundum magnitudinem.
+Primo, utrum aequalitas locum habeat in divinis personis.  
 
-Quinto, utrum una earum sit in alia.
-
-Sexto, utrum sint aequales secundum potentiam.
+- Secundo, utrum persona procedens sit aequalis ei a qua procedit, secundum aeternitatem.
+- Tertio, utrum sit aliquis ordo in divinis personis.
+- Quarto utrum personae divinae sint aequales secundum magnitudinem.
+- Quinto, utrum una earum sit in alia.
+- Sexto, utrum sint aequales secundum potentiam.

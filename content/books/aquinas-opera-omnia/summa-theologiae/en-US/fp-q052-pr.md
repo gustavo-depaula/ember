@@ -1,7 +1,8 @@
-# Question 52 — We now inquire into the place of the angels. Touching this there are three subjects of inquiry:
+# Question 52 — Angels in Relation to Place
 
-(1) Is the angel in a place?
+We now inquire into the place of the angels. Touching this there are three subjects of inquiry:  
 
-(2) Can he be in several places at once?
+(1) Is the angel in a place?  
 
-(3) Can several angels be in the same place?
+- (2) Can he be in several places at once?
+- (3) Can several angels be in the same place?

@@ -1,11 +1,11 @@
-# Quaestio 79 — tertio, ex parte hominis.
+# Quaestio 79
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de causis exterioribus peccati. Et primo, ex parte Dei; secundo, ex parte Diaboli; tertio, ex parte hominis.  
 
-Primo, utrum Deus sit causa peccati.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum actus peccati sit a Deo.
+Primo, utrum Deus sit causa peccati.  
 
-Tertio, utrum Deus sit causa excaecationis et obdurationis.
-
-Quarto, utrum haec ordinentur ad salutem eorum qui excaecantur vel obdurantur.
+- Secundo, utrum actus peccati sit a Deo.
+- Tertio, utrum Deus sit causa excaecationis et obdurationis.
+- Quarto, utrum haec ordinentur ad salutem eorum qui excaecantur vel obdurantur.

@@ -1,11 +1,13 @@
-# Question 61 — After dealing with the nature of the angels, their knowledge and will, it now remains for us to treat of their creation, or, speaking in a general way, of their origin. Such consideration is threefold. In the first place we must see how they were brought into natural existence; secondly, how they were made perfect in grace or glory; and thirdly, how some of them became wicked.
+# Question 61 — The Production of the Angels in their Nature
 
-Under the first heading there are four points of inquiry:
+After dealing with the nature of the angels, their knowledge and will, it now remains for us to treat of their creation, or, speaking in a general way, of their origin.  
 
-(1) Whether the angel has a cause of his existence?
+Such consideration is threefold. In the first place we must see how they were brought into natural existence; second, how they were made perfect in grace or glory; and third, how some of them became wicked.  
 
-(2) Whether he has existed from eternity?
+Under the first heading there are four points of inquiry:  
 
-(3) Whether he was created before corporeal creatures?
+(1) Whether the angel has a cause of his existence?  
 
-(4) Whether the angels were created in the empyrean heaven?
+- (2) Whether he has existed from eternity?
+- (3) Whether he was created before corporeal creatures?
+- (4) Whether the angels were created in the empyrean heaven?

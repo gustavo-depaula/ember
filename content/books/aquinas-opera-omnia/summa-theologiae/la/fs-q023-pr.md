@@ -1,9 +1,9 @@
-# Quaestio 23 — Deinde considerandum est de passionum differentia ad invicem. Et circa hoc quaeruntur quatuor.
+# Quaestio 23
 
-Primo, utrum passiones quae sunt in concupiscibili, sint diversae ab his quae sunt in irascibili.
+Deinde considerandum est de passionum differentia ad invicem. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum contrarietas passionum irascibili sit secundum contrarietatem boni et mali.
+Primo, utrum passiones quae sunt in concupiscibili, sint diversae ab his quae sunt in irascibili.  
 
-Tertio, utrum sit aliqua passio non habens contrarium.
-
-Quarto, utrum sint aliquae passiones differentes specie, in eadem potentia, non contrariae ad invicem.
+- Secundo, utrum contrarietas passionum irascibili sit secundum contrarietatem boni et mali.
+- Tertio, utrum sit aliqua passio non habens contrarium.
+- Quarto, utrum sint aliquae passiones differentes specie, in eadem potentia, non contrariae ad invicem.

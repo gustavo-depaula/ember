@@ -1,5 +1,7 @@
-# Quaestio 38 — Deinde considerandum est de contentione. Et circa hoc quaeruntur duo.
+# Quaestio 38
 
-Primo, utrum contentio sit peccatum mortale.
+***Deinde considerandum est de contentione. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum sit filia inanis gloriae.
+Primo, utrum contentio sit peccatum mortale.  
+
+- Secundo, utrum sit filia inanis gloriae.

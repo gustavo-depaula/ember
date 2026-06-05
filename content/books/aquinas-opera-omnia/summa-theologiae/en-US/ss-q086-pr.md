@@ -1,9 +1,9 @@
-# Question 86 — We must next consider oblations and first-fruits. Under this head there are four points of inquiry:
+# Question 86 — Oblations and First-Fruits
 
-(1) Whether any oblations are necessary as a matter of precept?
+We must next consider oblations and first-fruits. Under this head there are four points of inquiry:  
 
-(2) To whom are oblations due?
+(1) Whether any oblations are necessary as a matter of precept?  
 
-(3) of what things they should be made?
-
-(4) In particular, as to first-fruits, whether men are bound to offer them?
+- (2) To whom are oblations due?
+- (3) of what things they should be made?
+- (4) In particular, as to first-fruits, whether men are bound to offer them?

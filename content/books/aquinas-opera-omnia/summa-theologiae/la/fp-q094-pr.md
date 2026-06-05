@@ -1,16 +1,15 @@
-# Quaestio 94 — secundo, quantum ad corpus.
+# Quaestio 94
 
-Concerning the first there are two things to be considered:
+***De statu vel conditione primi hominis quantum ad intellectum***
 
-(1) The condition of man as to his intellect;
-(2) the condition of man as to his will.
+Deinde considerandum est de statu vel conditione primi hominis. Et primo, quantum ad animam; secundo, quantum ad corpus.  
 
-Circa primum quaeruntur quatuor.
+Circa primum consideranda sunt duo, primo, de conditione hominis quantum ad intellectum; secundo, de conditione hominis quantum ad voluntatem.  
 
-Primo, utrum primus homo viderit Deum per essentiam.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum videre potuerit substantias separatas, idest Angelos.
+Primo, utrum primus homo viderit Deum per essentiam.  
 
-Tertio, utrum habuerit omnium scientiam.
-
-Quarto, utrum potuerit errare vel decipi.
+- Secundo, utrum videre potuerit substantias separatas, idest angelos.
+- Tertio, utrum habuerit omnium scientiam.
+- Quarto, utrum potuerit errare vel decipi.

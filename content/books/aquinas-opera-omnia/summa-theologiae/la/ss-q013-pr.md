@@ -1,11 +1,11 @@
-# Quaestio 13 — secundo, de blasphemia quae dicitur peccatum in spiritum sanctum.
+# Quaestio 13
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de peccato blasphemiae, quod opponitur confessioni fidei. Et primo, de blasphemia in generali; secundo, de blasphemia quae dicitur peccatum in spiritum sanctum.  
 
-Primo, utrum blasphemia opponatur confessioni fidei.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum blasphemia semper sit peccatum mortale.
+Primo, utrum blasphemia opponatur confessioni fidei.  
 
-Tertio, utrum blasphemia sit maximum peccatorum.
-
-Quarto, utrum blasphemia sit in damnatis.
+- Secundo, utrum blasphemia semper sit peccatum mortale.
+- Tertio, utrum blasphemia sit maximum peccatorum.
+- Quarto, utrum blasphemia sit in damnatis.

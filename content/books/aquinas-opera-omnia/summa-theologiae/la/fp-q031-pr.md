@@ -1,9 +1,9 @@
-# Quaestio 31 — Post haec considerandum est de his quae ad unitatem vel pluralitatem pertinent in divinis. Et circa hoc quaeruntur quatuor.
+# Quaestio 31
 
-Primo, de ipso nomine Trinitatis.
+Post haec considerandum est de his quae ad unitatem vel pluralitatem pertinent in divinis. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum possit dici, filius est alius a patre.
+Primo, de ipso nomine Trinitatis.  
 
-Tertio, utrum dictio exclusiva, quae videtur alietatem excludere, possit adiungi nomini essentiali in divinis.
-
-Quarto, utrum possit adiungi termino personali.
+- Secundo, utrum possit dici, filius est alius a patre.
+- Tertio, utrum dictio exclusiva, quae videtur alietatem excludere, possit adiungi nomini essentiali in divinis.
+- Quarto, utrum possit adiungi termino personali.

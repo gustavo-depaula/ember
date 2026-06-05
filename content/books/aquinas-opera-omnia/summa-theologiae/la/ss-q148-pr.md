@@ -1,13 +1,11 @@
-# Quaestio 148 — Deinde considerandum est de gula. Et circa hoc quaeruntur sex.
+# Quaestio 148
 
-Primo, utrum gula sit peccatum.
+***Deinde considerandum est de gula. Et circa hoc quaeruntur sex.***
 
-Secundo, utrum sit peccatum mortale.
+Primo, utrum gula sit peccatum.  
 
-Tertio, utrum sit maximum peccatorum.
-
-Quarto, de speciebus eius.
-
-Quinto, utrum sit vitium capitale.
-
-Sexto, de filiabus eius.
+- Secundo, utrum sit peccatum mortale.
+- Tertio, utrum sit maximum peccatorum.
+- Quarto, de speciebus eius.
+- Quinto, utrum sit vitium capitale.
+- Sexto, de filiabus eius.

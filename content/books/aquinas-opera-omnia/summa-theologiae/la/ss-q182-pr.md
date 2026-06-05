@@ -1,9 +1,9 @@
-# Quaestio 182 — Deinde considerandum est de comparatione vitae activae ad contemplativam. Et circa hoc quaeruntur quatuor.
+# Quaestio 182
 
-Primo, quae sit potior sive dignior.
+Deinde considerandum est de comparatione vitae activae ad contemplativam. Et circa hoc quaeruntur quatuor.  
 
-Secundo, quae sit maioris meriti.
+Primo, quae sit potior sive dignior.  
 
-Tertio, utrum vita contemplativa impediatur per activam.
-
-Quarto, de ordine utriusque.
+- Secundo, quae sit maioris meriti.
+- Tertio, utrum vita contemplativa impediatur per activam.
+- Quarto, de ordine utriusque.

@@ -1,15 +1,13 @@
-# Quaestio 73 — sexto, de ministro; septimo, de ritu.
+# Quaestio 73
 
-Circa primum quaeruntur sex.
+Consequenter considerandum est de sacramento Eucharistiae. Et primo, de ipso sacramento; secundo, de materia; tertio, de forma; quarto, de effectu; quinto, de recipientibus hoc sacramentum; sexto, de ministro; septimo, de ritu.  
 
-Primo, utrum Eucharistia sit sacramentum.
+Circa primum quaeruntur sex.  
 
-Secundo, utrum sit unum vel plura.
+Primo, utrum Eucharistia sit sacramentum.  
 
-Tertio, utrum sit de necessitate salutis.
-
-Quarto, de nominibus eius.
-
-Quinto, de institutione ipsius.
-
-Sexto, de figuris eius.
+- Secundo, utrum sit unum vel plura.
+- Tertio, utrum sit de necessitate salutis.
+- Quarto, de nominibus eius.
+- Quinto, de institutione ipsius.
+- Sexto, de figuris eius.

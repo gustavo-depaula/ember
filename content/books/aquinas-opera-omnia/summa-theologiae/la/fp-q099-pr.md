@@ -1,7 +1,11 @@
-# Quaestio 99 — tertio, quantum ad scientiam.
+# Quaestio 99
 
-Circa primum quaeruntur duo.
+***De conditione prolis generandae quantum ad corpus***
 
-Primo, utrum in statu innocentiae pueri mox geniti habuissent perfectam virtutem corpoream.
+Deinde considerandum est de conditione prolis generandae. Et primo, quantum ad corpus; secundo, quantum ad iustitiam; tertio, quantum ad scientiam.  
 
-Secundo, utrum omnes fuissent nati in sexu masculino.
+Circa primum quaeruntur duo.  
+
+Primo, utrum in statu innocentiae pueri mox geniti habuissent perfectam virtutem corpoream.  
+
+- Secundo, utrum omnes fuissent nati in sexu masculino.

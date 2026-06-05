@@ -1,17 +1,13 @@
-# Quaestio 49 — Deinde considerandum est de singulis prudentiae partibus quasi integralibus. Et circa hoc quaeruntur octo.
+# Quaestio 49
 
-Primo, de memoria.
+Deinde considerandum est de singulis prudentiae partibus quasi integralibus. Et circa hoc quaeruntur octo.  
 
-Secundo, de intellectu vel intelligentia.
+Primo, de memoria.  
 
-Tertio, de docilitate.
-
-Quarto, de solertia.
-
-Quinto, de ratione.
-
-Sexto, de providentia.
-
-Septimo, de circumspectione.
-
-Octavo, de cautione.
+- Secundo, de intellectu vel intelligentia.
+- Tertio, de docilitate.
+- Quarto, de solertia.
+- Quinto, de ratione.
+- Sexto, de providentia.
+- Septimo, de circumspectione.
+- Octavo, de cautione.

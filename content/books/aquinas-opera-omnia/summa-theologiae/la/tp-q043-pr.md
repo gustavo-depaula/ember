@@ -1,11 +1,13 @@
-# Quaestio 43 — tertio, in particulari de transfiguratione ipsius.
+# Quaestio 43
 
-Circa primum quaeruntur quatuor.
+***De miraculis a Christo factis in generali***
 
-Primo, utrum Christus debuerit miracula facere.
+Deinde considerandum est de miraculis a Christo factis. Et primo, in generali; secundo, in speciali de singulis miraculorum generibus; tertio, in particulari de transfiguratione ipsius.  
 
-Secundo, utrum fecerit ea virtute divina.
+Circa primum quaeruntur quatuor.  
 
-Tertio, quo tempore incoeperit miracula facere.
+Primo, utrum Christus debuerit miracula facere.  
 
-Quarto, utrum per miracula fuerit sufficienter ostensa eius divinitas.
+- Secundo, utrum fecerit ea virtute divina.
+- Tertio, quo tempore incoeperit miracula facere.
+- Quarto, utrum per miracula fuerit sufficienter ostensa eius divinitas.

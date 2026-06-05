@@ -1,11 +1,11 @@
-# Question 54 — Question: 54 [ << | >> ]
+# Question 54 — The Impediment of Consanguinity
 
-We must next consider the impediment of consanguinity. Under this head there are four points of inquiry:
+***We must next consider the impediment of consanguinity.***
 
-(1) Whether consanguinity is rightly defined by some?
+Under this head there are four points of inquiry:  
 
-(2) Whether it is fittingly distinguished by degrees and lines?
+(1) Whether consanguinity is rightly defined by some?  
 
-(3) Whether certain degrees are by natural law an impediment to marriage?
-
-(4) Whether the impediment degrees can be fixed by the ordinance of the Church?
+- (2) Whether it is fittingly distinguished by degrees and lines?
+- (3) Whether certain degrees are by natural law an impediment to marriage?
+- (4) Whether the impediment degrees can be fixed by the ordinance of the Church?

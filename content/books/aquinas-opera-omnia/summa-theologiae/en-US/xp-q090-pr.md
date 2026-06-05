@@ -1,9 +1,10 @@
-# Question 90 — Question: 90 [ << | >> ]
+# Question 90 — The Form of the Judge in Coming to the Judgment
 
-We must now consider the form of the Judge in coming to the judgment. Under this head there are three points of inquiry:
+***We must now consider the form of the Judge in coming to the judgment.***
 
-(1) Whether Christ will judge under the form or His humanity?
+Under this head there are three points of inquiry:  
 
-(2) Whether He will appear under the form of His glorified humanity?
+(1) Whether Christ will judge under the form of his humanity?  
 
-(3) Whether His Godhead can be seen without joy?
+- (2) Whether he will appear under the form of his glorified humanity?
+- (3) Whether his divinity can be seen without joy?

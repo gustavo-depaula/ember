@@ -1,7 +1,9 @@
-# Quaestio 179 — quarta, de comparatione vitae activae ad contemplativam.
+# Quaestio 179
 
-Circa primum quaeruntur duo.
+Consequenter considerandum est de vita activa et contemplativa. Ubi quadruplex consideratio occurrit, quarum prima est de divisione vitae per activam et contemplativam; secunda, de vita contemplativa; tertia, de vita activa; quarta, de comparatione vitae activae ad contemplativam.  
 
-Primo, utrum vita convenienter dividatur per activam et contemplativam.
+Circa primum quaeruntur duo.  
 
-Secundo, utrum divisio sit sufficiens.
+Primo, utrum vita convenienter dividatur per activam et contemplativam.  
+
+- Secundo, utrum divisio sit sufficiens.

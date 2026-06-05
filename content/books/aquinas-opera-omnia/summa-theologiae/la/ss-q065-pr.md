@@ -1,9 +1,9 @@
-# Quaestio 65 — Deinde considerandum est de peccatis aliarum iniuriarum quae in personam committuntur. Et circa hoc quaeruntur quatuor.
+# Quaestio 65
 
-Primo, de mutilatione membrorum.
+Deinde considerandum est de peccatis aliarum iniuriarum quae in personam committuntur. Et circa hoc quaeruntur quatuor.  
 
-Secundo, de verberatione.
+Primo, de mutilatione membrorum.  
 
-Tertio, de incarceratione.
-
-Quarto, utrum peccatum huiusmodi iniuriarum aggravetur ex hoc quod committitur in personam coniunctam aliis.
+- Secundo, de verberatione.
+- Tertio, de incarceratione.
+- Quarto, utrum peccatum huiusmodi iniuriarum aggravetur ex hoc quod committitur in personam coniunctam aliis.

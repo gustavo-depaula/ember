@@ -1,19 +1,15 @@
-# Quaestio 46 — tertio, de effectu eius.
+# Quaestio 46
 
-Circa primum quaeruntur octo.
+Deinde considerandum est de ira. Et primo, de ira secundum se; secundo, de causa factiva irae, et remedio eius; tertio, de effectu eius.  
 
-Primo, utrum ira sit passio specialis.
+Circa primum quaeruntur octo.  
 
-Secundo, utrum obiectum irae sit bonum, an malum.
+Primo, utrum ira sit passio specialis.  
 
-Tertio, utrum ira sit in concupiscibili.
-
-Quarto, utrum ira sit cum ratione.
-
-Quinto, utrum ira sit naturalior quam concupiscentia.
-
-Sexto, utrum ira sit gravior quam odium.
-
-Septimo, utrum ira solum sit ad illos ad quos est iustitia.
-
-Octavo, de speciebus irae.
+- Secundo, utrum obiectum irae sit bonum, an malum.
+- Tertio, utrum ira sit in concupiscibili.
+- Quarto, utrum ira sit cum ratione.
+- Quinto, utrum ira sit naturalior quam concupiscentia.
+- Sexto, utrum ira sit gravior quam odium.
+- Septimo, utrum ira solum sit ad illos ad quos est iustitia.
+- Octavo, de speciebus irae.

@@ -1,5 +1,7 @@
-# Question 69 — We next consider the work of the third day. Under this head there are two points of inquiry:
+# Question 69 — The Work of the Third Day
 
-(1) About the gathering together of the waters;
+We next consider the work of the third day. Under this head there are two points of inquiry:  
 
-(2) About the production of plants.
+(1) About the gathering together of the waters.  
+
+- (2) About the production of plants.

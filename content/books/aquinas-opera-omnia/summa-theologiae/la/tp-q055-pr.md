@@ -1,13 +1,11 @@
-# Quaestio 55 — Deinde considerandum est de manifestatione resurrectionis. Et circa hoc quaeruntur sex.
+# Quaestio 55
 
-Primo, utrum resurrectio Christi omnibus hominibus manifestari debuerit, an solum quibusdam specialibus hominibus.
+Deinde considerandum est de manifestatione resurrectionis. Et circa hoc quaeruntur sex.  
 
-Secundo, utrum fuisset conveniens quod, eis videntibus, resurgeret.
+Primo, utrum resurrectio Christi omnibus hominibus manifestari debuerit, an solum quibusdam specialibus hominibus.  
 
-Tertio, utrum post resurrectionem debuerit cum suis discipulis conversari.
-
-Quarto, utrum fuerit conveniens quod suis discipulis in aliena effigie appareret.
-
-Quinto, utrum resurrectionem suam argumentis manifestare debuerit.
-
-Sexto, de sufficientia illorum argumentorum.
+- Secundo, utrum fuisset conveniens quod, eis videntibus, resurgeret.
+- Tertio, utrum post resurrectionem debuerit cum suis discipulis conversari.
+- Quarto, utrum fuerit conveniens quod suis discipulis in aliena effigie appareret.
+- Quinto, utrum resurrectionem suam argumentis manifestare debuerit.
+- Sexto, de sufficientia illorum argumentorum.

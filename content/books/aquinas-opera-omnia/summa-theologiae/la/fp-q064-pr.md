@@ -1,9 +1,9 @@
-# Quaestio 64 — Consequenter quaeritur de poena Daemonum. Et circa hoc quaeruntur quatuor.
+# Quaestio 64
 
-Primo, de obtenebratione intellectus.
+***Consequenter quaeritur de poena daemonum. Et circa hoc quaeruntur quatuor.***
 
-Secundo, de obstinatione voluntatis.
+Primo, de obtenebratione intellectus.  
 
-Tertio, de dolore ipsorum.
-
-Quarto, de loco poenali ipsorum.
+- Secundo, de obstinatione voluntatis.
+- Tertio, de dolore ipsorum.
+- Quarto, de loco poenali ipsorum.

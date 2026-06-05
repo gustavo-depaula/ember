@@ -1,5 +1,7 @@
-# Quaestio 133 — Deinde considerandum est de pusillanimitate. Et circa hoc quaeruntur duo.
+# Quaestio 133
 
-Primo, utrum pusillanimitas sit peccatum.
+***Deinde considerandum est de pusillanimitate. Et circa hoc quaeruntur duo.***
 
-Secundo, cui virtuti opponatur.
+Primo, utrum pusillanimitas sit peccatum.  
+
+- Secundo, cui virtuti opponatur.

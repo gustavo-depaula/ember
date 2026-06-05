@@ -1,13 +1,11 @@
-# Question 56 — We now have to consider the subject of virtue, about which there are six points of inquiry:
+# Question 56 — Of the Subject of Virtue
 
-(1) Whether the subject of virtue is a power of the soul?
+We now have to consider the subject of virtue, about which there are six points of inquiry:  
 
-(2) Whether one virtue can be in several powers?
+(1) Whether the subject of virtue is a power of the soul?  
 
-(3) Whether the intellect can be the subject of virtue?
-
-(4) Whether the irascible and concupiscible faculties can be the subject of virtue?
-
-(5) Whether the sensitive powers of apprehension can be the subject of virtue?
-
-(6) Whether the will can be the subject of virtue?
+- (2) Whether one virtue can be in several powers?
+- (3) Whether the intellect can be the subject of virtue?
+- (4) Whether the irascible and concupiscible faculties can be the subject of virtue?
+- (5) Whether the sensitive powers of apprehension can be the subject of virtue?
+- (6) Whether the will can be the subject of virtue?

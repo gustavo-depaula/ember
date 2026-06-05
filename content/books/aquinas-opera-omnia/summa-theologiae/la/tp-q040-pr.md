@@ -1,11 +1,11 @@
-# Quaestio 40 — quarto, de miraculis.
+# Quaestio 40
 
-Circa primum quaeruntur quatuor.
+Consequenter, post ea quae pertinent ad ingressum Christi in mundum vel ad eius principium, considerandum restat de his quae pertinent ad progressum ipsius. Et primo, considerandum est de modo conversationis ipsius; secundo, de tentatione eius; tertio, de doctrina; quarto, de miraculis.  
 
-Primo, utrum Christus debuerit solitariam vitam ducere, an inter homines conversari.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum debuerit austeram vitam ducere in cibo et potu et vestitu, an aliis communem.
+Primo, utrum Christus debuerit solitariam vitam ducere, an inter homines conversari.  
 
-Tertio, utrum debuerit abiecte vivere in hoc mundo, an cum divitiis et honore.
-
-Quarto, utrum debuerit secundum legem vivere.
+- Secundo, utrum debuerit austeram vitam ducere in cibo et potu et vestitu, an aliis communem.
+- Tertio, utrum debuerit abiecte vivere in hoc mundo, an cum divitiis et honore.
+- Quarto, utrum debuerit secundum legem vivere.

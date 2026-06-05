@@ -1,9 +1,9 @@
-# Quaestio 19 — Deinde considerandum est de unitate operationis Christi. Et circa hoc quaeruntur quatuor.
+# Quaestio 19
 
-Primo, utrum in Christo sit una operatio divinitatis et humanitatis, vel plures.
+Deinde considerandum est de unitate operationis Christi. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum in Christo sint plures operationes secundum humanam naturam.
+Primo, utrum in Christo sit una operatio divinitatis et humanitatis, vel plures.  
 
-Tertio, utrum Christus secundum humanam operationem aliquid sibi meruerit.
-
-Quarto, utrum per eam aliquid meruerit nobis.
+- Secundo, utrum in Christo sint plures operationes secundum humanam naturam.
+- Tertio, utrum Christus secundum humanam operationem aliquid sibi meruerit.
+- Quarto, utrum per eam aliquid meruerit nobis.

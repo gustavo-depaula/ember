@@ -1,7 +1,9 @@
-# Question 33 — Question: 33 [ << | >> ]
+# Question 33 — The Repetition of Extreme Unction
 
-We must now consider the repetition of this sacrament: under which head there are two points of inquiry:
+***We must now consider the repetition of this sacrament.***
 
-(1) Whether this sacrament ought to be repeated?
+Under this head there are two points of inquiry:  
 
-(2) Whether it ought to be repeated during the same sickness?
+(1) Whether this sacrament ought to be repeated?  
+
+- (2) Whether it ought to be repeated during the same sickness?

@@ -1,5 +1,7 @@
-# Quaestio 35 — Deinde quaeritur de imagine. Et circa hoc quaeruntur duo.
+# Quaestio 35
 
-Primo, utrum imago in divinis dicatur personaliter.
+***Deinde quaeritur de imagine. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum sit proprium filii.
+Primo, utrum imago in divinis dicatur personaliter.  
+
+- Secundo, utrum sit proprium filii.

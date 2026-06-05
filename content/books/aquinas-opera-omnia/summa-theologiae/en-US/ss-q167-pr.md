@@ -1,5 +1,7 @@
-# Question 167 — We must next consider curiosity, under which head there are two points of inquiry:
+# Question 167 — Curiosity
 
-(1) Whether the vice of curiosity can regard intellective knowledge?
+We must next consider curiosity, under which head there are two points of inquiry:  
 
-(2) Whether it is about sensitive knowledge?
+(1) Whether the vice of curiosity can regard intellective knowledge?  
+
+- (2) Whether it is about sensitive knowledge?

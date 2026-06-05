@@ -1,19 +1,15 @@
-# Quaestio 108 — Deinde considerandum est de ordinatione Angelorum secundum hierarchias et ordines, dictum est enim quod superiores inferiores illuminant, et non e converso.
+# Quaestio 108
 
-Et circa hoc quaeruntur octo.
+Deinde considerandum est de ordinatione angelorum secundum hierarchias et ordines, dictum est enim quod superiores inferiores illuminant, et non e converso.  
 
-Primo, utrum omnes Angeli sint unius hierarchiae.
+Et circa hoc quaeruntur octo.  
 
-Secundo, utrum in una hierarchia sit unus tantum ordo.
+Primo, utrum omnes angeli sint unius hierarchiae.  
 
-Tertio, utrum in uno ordine sint plures Angeli.
-
-Quarto, utrum distinctio hierarchiarum et ordinum sit a natura.
-
-Quinto, de nominibus et proprietatibus singulorum ordinum.
-
-Sexto, de comparatione ordinum ad invicem.
-
-Septimo, utrum ordines durent post diem iudicii.
-
-Octavo, utrum homines assumantur ad ordines Angelorum
+- Secundo, utrum in una hierarchia sit unus tantum ordo.
+- Tertio, utrum in uno ordine sint plures angeli.
+- Quarto, utrum distinctio hierarchiarum et ordinum sit a natura.
+- Quinto, de nominibus et proprietatibus singulorum ordinum.
+- Sexto, de comparatione ordinum ad invicem.
+- Septimo, utrum ordines durent post diem iudicii.
+- Octavo, utrum homines assumantur ad ordines angelorum.

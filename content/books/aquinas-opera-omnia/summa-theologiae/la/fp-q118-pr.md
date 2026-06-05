@@ -1,9 +1,12 @@
-# Quaestio 118 — Deinde considerandum est de traductione hominis ex homine. Et primo, quantum ad animam; secundo, quantum ad corpus.
+# Quaestio 118
 
-Circa primum quaeruntur tria.
+***De traductione hominis ex homine quantum ad animam***
 
-Primo, utrum anima sensitiva traducatur cum semine.
+Deinde considerandum est de traductione hominis ex homine. Et primo, quantum ad animam; secundo, quantum ad corpus.  
 
-Secundo, utrum anima intellectiva.
+Circa primum quaeruntur tria.  
 
-Tertio, utrum omnes animae fuerint simul creatae.
+Primo, utrum anima sensitiva traducatur cum semine.  
+
+- Secundo, utrum anima intellectiva.
+- Tertio, utrum omnes animae fuerint simul creatae.

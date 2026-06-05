@@ -1,9 +1,10 @@
-# Question 93 — Question: 93 [ << | >> ]
+# Question 93 — The Happiness of the Saints and Their Mansions
 
-We must next consider the happiness of the saints and their mansions. Under this head there are three points of inquiry:
+***We must next consider the happiness of the saints and their mansions.***
 
-(1) Whether the happiness of the saints will increase after the judgment?
+Under this head there are three points of inquiry:  
 
-(2) Whether the degrees of happiness should be called mansions?
+(1) Whether the happiness of the saints will increase after the judgment?  
 
-(3) Whether the various mansions differ according to various degrees of charity?
+- (2) Whether the degrees of happiness should be called mansions?
+- (3) Whether the various mansions differ according to various degrees of charity?

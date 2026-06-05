@@ -1,9 +1,9 @@
-# Question 33 — We must now consider the effects of pleasure; and under this head there are four points of inquiry:
+# Question 33 — Of the Effects of Pleasure
 
-(1) Whether expansion is an effect of pleasure?
+We must now consider the effects of pleasure; and under this head there are four points of inquiry:  
 
-(2) Whether pleasure causes thirst or desire for itself?
+(1) Whether expansion is an effect of pleasure?  
 
-(3) Whether pleasure hinders the use of reason?
-
-(4) Whether pleasure perfects operation?
+- (2) Whether pleasure causes thirst or desire for itself?
+- (3) Whether pleasure hinders the use of reason?
+- (4) Whether pleasure perfects operation?

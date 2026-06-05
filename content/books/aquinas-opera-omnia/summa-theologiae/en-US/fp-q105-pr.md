@@ -1,19 +1,15 @@
-# Question 105 — We now consider the second effect of the Divine government, i.e. the change of creatures; and first, the change of creatures by God; secondly, the change of one creature by another.
+# Question 105 — The Change of Creatures by God
 
-Under the first head there are eight points of inquiry:
+We now consider the second effect of the Divine government, i.e., the change of creatures; and first, the change of creatures by God; second, the change of one creature by another.  
 
-(1) Whether God can move immediately the matter to the form?
+Under the first head there are eight points of inquiry:  
 
-(2) Whether He can immediately move a body?
+(1) Whether God can move immediately the matter to the form?  
 
-(3) Whether He can move the intellect?
-
-(4) Whether He can move the will?
-
-(5) Whether God works in every worker?
-
-(6) Whether He can do anything outside the order imposed on things?
-
-(7) Whether all that God does is miraculous?
-
-(8) Of the diversity of miracles.
+- (2) Whether He can immediately move a body?
+- (3) Whether He can move the intellect?
+- (4) Whether He can move the will?
+- (5) Whether God works in every worker?
+- (6) Whether He can do anything outside the order imposed on things?
+- (7) Whether all that God does is miraculous?
+- (8) Of the diversity of miracles.

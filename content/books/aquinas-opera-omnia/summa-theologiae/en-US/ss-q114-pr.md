@@ -1,5 +1,7 @@
-# Question 114 — We must now consider the friendliness which is called affability, and the opposite vices which are flattery and quarreling. Concerning friendliness or affability, there are two points of inquiry:
+# Question 114 — The Friendliness Which is Called Affability
 
-(1) Whether it is a special virtue?
+We must now consider the friendliness which is called affability, and the opposite vices which are flattery and quarreling. Concerning friendliness or affability, there are two points of inquiry:  
 
-(2) Whether it is a part of justice?
+(1) Whether it is a special virtue?  
+
+- (2) Whether it is a part of justice?

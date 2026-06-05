@@ -1,5 +1,7 @@
-# Quaestio 26 — Deinde considerandum est de hoc quod Christus dicitur mediator Dei et hominum. Et circa hoc quaeruntur duo.
+# Quaestio 26
 
-Primo, utrum esse mediatorem Dei et hominum sit proprium Christo.
+Deinde considerandum est de hoc quod Christus dicitur mediator Dei et hominum. Et circa hoc quaeruntur duo.  
 
-Secundo, utrum hoc conveniat ei secundum humanam naturam.
+Primo, utrum esse mediatorem Dei et hominum sit proprium Christo.  
+
+- Secundo, utrum hoc conveniat ei secundum humanam naturam.

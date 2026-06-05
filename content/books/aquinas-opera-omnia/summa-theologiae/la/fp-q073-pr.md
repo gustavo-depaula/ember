@@ -1,7 +1,8 @@
-# Quaestio 73 — Deinde considerandum est de iis quae pertinent ad septimum diem. Et circa hoc quaeruntur tria.
+# Quaestio 73
 
-Primo, de completione operum.
+Deinde considerandum est de iis quae pertinent ad septimum diem. Et circa hoc quaeruntur tria.  
 
-Secundo, de requie Dei.
+Primo, de completione operum.  
 
-Tertio, de benedictione et sanctificatione huius diei.
+- Secundo, de requie Dei.
+- Tertio, de benedictione et sanctificatione huius diei.

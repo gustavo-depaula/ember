@@ -1,15 +1,13 @@
-# Quaestio 62 — secundo de effectu secundario, qui est character.
+# Quaestio 62
 
-Circa primum quaeruntur sex.
+***De effectu sacramentorum qui est gratia***
 
-Primo, utrum sacramenta novae legis sint causa gratiae.
+Deinde considerandum est de effectu sacramentorum. Et primo, de effectu eius principali, qui est gratia; secundo de effectu secundario, qui est character. Circa primum quaeruntur sex.  
 
-Secundo, utrum gratia sacramentalis aliquid addat super gratiam virtutum et donorum.
+Primo, utrum sacramenta novae legis sint causa gratiae.  
 
-Tertio, utrum sacramenta contineant gratiam.
-
-Quarto, utrum sit in eis aliqua virtus ad causandum gratiam.
-
-Quinto, utrum talis virtus in sacramentis derivetur a passione Christi.
-
-Sexto, utrum sacramenta veteris legis gratiam causarent.
+- Secundo, utrum gratia sacramentalis aliquid addat super gratiam virtutum et donorum.
+- Tertio, utrum sacramenta contineant gratiam.
+- Quarto, utrum sit in eis aliqua virtus ad causandum gratiam.
+- Quinto, utrum talis virtus in sacramentis derivetur a passione Christi.
+- Sexto, utrum sacramenta veteris legis gratiam causarent.

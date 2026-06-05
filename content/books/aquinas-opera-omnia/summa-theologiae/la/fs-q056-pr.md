@@ -1,13 +1,11 @@
-# Quaestio 56 — Deinde considerandum est de subiecto virtutis. Et circa hoc quaeruntur sex.
+# Quaestio 56
 
-Primo, utrum virtus sit in potentia animae sicut in subiecto.
+***Deinde considerandum est de subiecto virtutis. Et circa hoc quaeruntur sex.***
 
-Secundo, utrum una virtus possit esse in pluribus potentiis.
+Primo, utrum virtus sit in potentia animae sicut in subiecto.  
 
-Tertio, utrum intellectus possit esse subiectum virtutis.
-
-Quarto, utrum irascibilis et concupiscibilis.
-
-Quinto, utrum vires apprehensivae sensitivae.
-
-Sexto, utrum voluntas.
+- Secundo, utrum una virtus possit esse in pluribus potentiis.
+- Tertio, utrum intellectus possit esse subiectum virtutis.
+- Quarto, utrum irascibilis et concupiscibilis.
+- Quinto, utrum vires apprehensivae sensitivae.
+- Sexto, utrum voluntas.

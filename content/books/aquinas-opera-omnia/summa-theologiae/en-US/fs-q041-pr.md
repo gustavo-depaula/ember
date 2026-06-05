@@ -1,18 +1,9 @@
-# Question 41 — secondly, daring.
+# Question 41 — Of Fear, in Itself
 
-With regard to fear, four things must be considered:
+We must now consider, in the first place, fear; and, second, daring. With regard to fear, four things must be considered: (1) Fear, in itself; (2) Its object; (3) Its cause; (4) Its effect. Under the first head there are four points of inquiry:  
 
-(1) Fear, in itself;
-(2) Its object;
-(3) Its cause;
-(4) Its effect.
+(1) Whether fear is a passion of the soul?  
 
-Under the first head there are four points of inquiry:
-
-(1) Whether fear is a passion of the soul?
-
-(2) Whether fear is a special passion?
-
-(3) Whether there is a natural fear?
-
-(4) Of the species of fear.
+- (2) Whether fear is a special passion?
+- (3) Whether there is a natural fear?
+- (4) Of the species of fear.

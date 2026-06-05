@@ -1,9 +1,9 @@
-# Quaestio 58 — Deinde considerandum est de sessione Christi ad dexteram patris. Et circa hoc quaeruntur quatuor.
+# Quaestio 58
 
-Primo, utrum Christus sedeat ad dexteram patris.
+Deinde considerandum est de sessione Christi ad dexteram patris. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum hoc conveniat sibi secundum divinam naturam.
+Primo, utrum Christus sedeat ad dexteram patris.  
 
-Tertio, utrum conveniat sibi secundum humanam.
-
-Quarto, utrum hoc sit proprium Christi.
+- Secundo, utrum hoc conveniat sibi secundum divinam naturam.
+- Tertio, utrum conveniat sibi secundum humanam.
+- Quarto, utrum hoc sit proprium Christi.

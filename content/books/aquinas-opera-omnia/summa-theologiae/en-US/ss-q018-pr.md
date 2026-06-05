@@ -1,9 +1,9 @@
-# Question 18 — We must now consider the subject of hope, under which head there are four points of inquiry:
+# Question 18 — The Subject of Hope
 
-(1) Whether the virtue of hope is in the will as its subject?
+We must now consider the subject of hope, under which head there are four points of inquiry:  
 
-(2) Whether it is in the blessed?
+(1) Whether the virtue of hope is in the will as its subject?  
 
-(3) Whether it is in the damned?
-
-(4) Whether there is certainty in the hope of the wayfarer?
+- (2) Whether it is in the blessed?
+- (3) Whether it is in the damned?
+- (4) Whether there is certainty in the hope of the wayfarer?

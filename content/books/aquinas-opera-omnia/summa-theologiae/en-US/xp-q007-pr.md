@@ -1,9 +1,10 @@
-# Question 7 — Question: 7 [ << | >> ]
+# Question 7 — The Nature of Confession
 
-We must now consider the nature of confession, under which head there are three points of inquiry:
+***We must now consider the nature of confession.***
 
-(1) Whether Augustine fittingly defines confession?
+Under this head there are three points of inquiry:  
 
-(2) Whether confession is an act of virtue?
+(1) Whether Augustine fittingly defines confession?  
 
-(3) Whether confession is an act of the virtue of penance?
+- (2) Whether confession is an act of virtue?
+- (3) Whether confession is an act of the virtue of penance?

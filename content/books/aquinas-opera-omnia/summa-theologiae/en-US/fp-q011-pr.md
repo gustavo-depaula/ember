@@ -1,9 +1,9 @@
-# Question 11 — After the foregoing, we consider the divine unity; concerning which there are four points of inquiry:
+# Question 11 — The Unity of God
 
-(1) Whether "one" adds anything to "being"?
+After the foregoing, we consider the divine unity; concerning which there are four points of inquiry:  
 
-(2) Whether "one" and "many" are opposed to each other?
+(1) Whether *one* adds anything to *being*?  
 
-(3) Whether God is one?
-
-(4) Whether He is in the highest degree one?
+- (2) Whether *one* and *many* are opposed to each other?
+- (3) Whether God is one?
+- (4) Whether He is in the highest degree one?

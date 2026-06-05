@@ -1,7 +1,9 @@
-# Question 98 — secondly, of the state of the offspring.
+# Question 98 — The Preservation of the Species
 
-Under the first head there are two points of inquiry:
+We next consider what belongs to the preservation of the species; and, first, of generation; second, of the state of the offspring.  
 
-(1) Whether in the state of innocence there would have been generation?
+Under the first head there are two points of inquiry:  
 
-(2) Whether generation would have been through coition?
+(1) Whether in the state of innocence there would have been generation?  
+
+- (2) Whether generation would have been through coition?

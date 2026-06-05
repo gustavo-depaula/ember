@@ -1,9 +1,9 @@
-# Quaestio 59 — Deinde considerandum est de iniustitia. Et circa hoc quaeruntur quatuor.
+# Quaestio 59
 
-Primo, utrum iniustitia sit speciale vitium.
+***Deinde considerandum est de iniustitia. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum iniusta agere sit proprium iniusti.
+Primo, utrum iniustitia sit speciale vitium.  
 
-Tertio, utrum aliquis possit iniustum pati volens.
-
-Quarto, utrum iniustitia ex suo genere sit peccatum mortale.
+- Secundo, utrum iniusta agere sit proprium iniusti.
+- Tertio, utrum aliquis possit iniustum pati volens.
+- Quarto, utrum iniustitia ex suo genere sit peccatum mortale.

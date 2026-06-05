@@ -1,11 +1,9 @@
-# Quaestio 95 — tertio, de eius mutabilitate.
+# Quaestio 95
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de lege humana. Et primo quidem, de ipsa lege secundum se; secundo, de potestate eius; tertio, de eius mutabilitate. Circa primum quaeruntur quatuor.  
 
-Primo, de utilitate ipsius.
+Primo, de utilitate ipsius.  
 
-Secundo, de origine eius.
-
-Tertio, de qualitate ipsius.
-
-Quarto, de divisione eiusdem.
+- Secundo, de origine eius.
+- Tertio, de qualitate ipsius.
+- Quarto, de divisione eiusdem.

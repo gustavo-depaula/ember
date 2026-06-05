@@ -1,11 +1,11 @@
-# Question 53 — Question: 53 [ << | >> ]
+# Question 53 — The Impediment of Vows and Holy Orders
 
-We must now consider the impediment of vows and orders. Under this head there are four points of inquiry:
+***We must now consider the impediment of vows and orders.***
 
-(1) Whether a simple vow is a diriment impediment to matrimony?
+Under this head there are four points of inquiry:  
 
-(2) Whether a solemn vow is a diriment impediment?
+(1) Whether a simple vow is a diriment impediment to matrimony?  
 
-(3) Whether order is an impediment to matrimony?
-
-(4) Whether a man can receive a sacred order after being married?
+- (2) Whether a solemn vow is a diriment impediment?
+- (3) Whether order is an impediment to matrimony?
+- (4) Whether a man can receive a sacred order after being married?

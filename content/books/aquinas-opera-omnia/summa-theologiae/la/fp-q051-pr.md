@@ -1,7 +1,10 @@
-# Quaestio 51 — tertio, de comparatione Angelorum ad motum localem. Circa primum quaeruntur tria.
+# Quaestio 51
 
-Primo, utrum Angeli habeant corpora naturaliter sibi unita.
+Deinde quaeritur de angelis per comparationem ad corporalia. Et primo, de comparatione angelorum ad corpora; secundo, de comparatione angelorum ad loca corporalia; tertio, de comparatione angelorum ad motum localem.  
 
-Secundo, utrum assumant corpora.
+Circa primum quaeruntur tria.  
 
-Tertio, utrum in corporibus assumptis exerceant opera vitae.
+Primo, utrum angeli habeant corpora naturaliter sibi unita.  
+
+- Secundo, utrum assumant corpora.
+- Tertio, utrum in corporibus assumptis exerceant opera vitae.

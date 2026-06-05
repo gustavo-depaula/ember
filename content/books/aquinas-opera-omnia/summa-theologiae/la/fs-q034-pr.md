@@ -1,9 +1,9 @@
-# Quaestio 34 — Deinde considerandum est de bonitate et malitia delectationum. Et circa hoc quaeruntur quatuor.
+# Quaestio 34
 
-Primo, utrum omnis delectatio sit mala.
+Deinde considerandum est de bonitate et malitia delectationum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, dato quod non, utrum omnis delectatio sit bona.
+Primo, utrum omnis delectatio sit mala.  
 
-Tertio, utrum aliqua delectatio sit optimum.
-
-Quarto, utrum delectatio sit mensura vel regula secundum quam iudicetur bonum vel malum in moralibus.
+- Secundo, dato quod non, utrum omnis delectatio sit bona.
+- Tertio, utrum aliqua delectatio sit optimum.
+- Quarto, utrum delectatio sit mensura vel regula secundum quam iudicetur bonum vel malum in moralibus.

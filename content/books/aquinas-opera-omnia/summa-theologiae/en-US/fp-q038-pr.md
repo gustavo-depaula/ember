@@ -1,5 +1,7 @@
-# Question 38 — There now follows the consideration of the Gift; concerning which there are two points of inquiry:
+# Question 38 — The Name ‘Gift’
 
-(1) Whether "Gift" can be a personal name?
+There now follows the consideration of the Gift; concerning which there are two points of inquiry:  
 
-(2) Whether it is the proper name of the Holy Ghost?
+(1) Whether *Gift* can be a personal name?  
+
+- (2) Whether it is the proper name of the Holy Spirit?

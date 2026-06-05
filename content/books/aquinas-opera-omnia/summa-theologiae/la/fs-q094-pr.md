@@ -1,13 +1,11 @@
-# Quaestio 94 — Deinde considerandum est de lege naturali. Et circa hoc quaeruntur sex.
+# Quaestio 94
 
-Primo, quid sit lex naturalis.
+***Deinde considerandum est de lege naturali. Et circa hoc quaeruntur sex.***
 
-Secundo, quae sint praecepta legis naturalis.
+Primo, quid sit lex naturalis.  
 
-Tertio, utrum omnes actus virtutum sint de lege naturali.
-
-Quarto, utrum lex naturalis sit una apud omnes.
-
-Quinto, utrum sit mutabilis.
-
-Sexto, utrum possit a mente hominis deleri.
+- Secundo, quae sint praecepta legis naturalis.
+- Tertio, utrum omnes actus virtutum sint de lege naturali.
+- Quarto, utrum lex naturalis sit una apud omnes.
+- Quinto, utrum sit mutabilis.
+- Sexto, utrum possit a mente hominis deleri.

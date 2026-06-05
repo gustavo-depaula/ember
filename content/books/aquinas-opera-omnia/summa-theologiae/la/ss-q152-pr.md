@@ -1,11 +1,10 @@
-# Quaestio 152 — Deinde considerandum est de virginitate. Et circa hoc quaeruntur quinque.
+# Quaestio 152
 
-Primo, in quo consistit virginitas.
+***Deinde considerandum est de virginitate. Et circa hoc quaeruntur quinque.***
 
-Secundo, utrum sit licita.
+Primo, in quo consistit virginitas.  
 
-Tertio, utrum sit virtus.
-
-Quarto, de excellentia eius respectu matrimonii.
-
-Quinto, de excellentia eius respectu aliarum virtutum
+- Secundo, utrum sit licita.
+- Tertio, utrum sit virtus.
+- Quarto, de excellentia eius respectu matrimonii.
+- Quinto, de excellentia eius respectu aliarum virtutum.

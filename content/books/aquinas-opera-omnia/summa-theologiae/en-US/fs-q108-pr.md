@@ -1,9 +1,9 @@
-# Question 108 — We must now consider those things that are contained in the New Law: under which head there are four points of inquiry:
+# Question 108 — Of Those Things That Are Contained in the New Law
 
-(1) Whether the New Law ought to prescribe or to forbid any outward works?
+We must now consider those things that are contained in the New Law: under which head there are four points of inquiry:  
 
-(2) Whether the New Law makes sufficient provision in prescribing and forbidding external acts?
+(1) Whether the New Law ought to prescribe or to forbid any outward works?  
 
-(3) Whether in the matter of internal acts it directs man sufficiently?
-
-(4) Whether it fittingly adds counsels to precepts?
+- (2) Whether the New Law makes sufficient provision in prescribing and forbidding external acts?
+- (3) Whether in the matter of internal acts it directs man sufficiently?
+- (4) Whether it fittingly adds counsels to precepts?

@@ -1,11 +1,11 @@
-# Question 125 — (3) Daring.
+# Question 125 — Fear
 
-Under the first head there are four points of inquiry:
+We must now consider the vices opposed to fortitude: (1) Fear; (2) Fearlessness; (3) Daring.  
 
-(1) Whether fear is a sin?
+Under the first head there are four points of inquiry:  
 
-(2) Whether it is opposed to fortitude?
+(1) Whether fear is a sin?  
 
-(3) Whether it is a mortal sin?
-
-(4) Whether it excuses from sin, or diminishes it?
+- (2) Whether it is opposed to fortitude?
+- (3) Whether it is a mortal sin?
+- (4) Whether it excuses from sin, or diminishes it?

@@ -1,9 +1,13 @@
-# Quaestio 18 — Quoniam autem intelligere viventium est, post considerationem de scientia et intellectu divino, considerandum est de vita ipsius. Et circa hoc quaeruntur quatuor.
+# Quaestio 18
 
-Primo, quorum sit vivere.
+***De vita Dei***
 
+Quoniam autem intelligere viventium est, post considerationem de scientia et intellectu divino, considerandum est de vita ipsius.  
 
+Et circa hoc quaeruntur quatuor.  
 
-Tertio, utrum vita Deo conveniat.
+Primo, quorum sit vivere.  
 
-Quarto, utrum omnia in Deo sint vita.
+- Secundo, quid sit vita.
+- Tertio, utrum vita Deo conveniat.
+- Quarto, utrum omnia in Deo sint vita.

@@ -1,9 +1,9 @@
-# Quaestio 29 — Deinde considerandum est de pace. Et circa hoc quaeruntur quatuor.
+# Quaestio 29
 
-Primo, utrum pax sit idem quod concordia.
+***Deinde considerandum est de pace. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum omnia appetant pacem.
+Primo, utrum pax sit idem quod concordia.  
 
-Tertio, utrum pax sit effectus caritatis.
-
-Quarto, utrum pax sit virtus.
+- Secundo, utrum omnia appetant pacem.
+- Tertio, utrum pax sit effectus caritatis.
+- Quarto, utrum pax sit virtus.

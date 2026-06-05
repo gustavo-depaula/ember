@@ -1,9 +1,9 @@
-# Quaestio 32 — Consequenter inquirendum est de cognitione divinarum personarum. Et circa hoc quaeruntur quatuor.
+# Quaestio 32
 
-Primo, utrum per rationem naturalem possint cognosci divinae personae.
+Consequenter inquirendum est de cognitione divinarum personarum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum sint aliquae notiones divinis personis attribuendae.
+Primo, utrum per rationem naturalem possint cognosci divinae personae.  
 
-Tertio, de numero notionum.
-
-Quarto, utrum liceat diversimode circa notiones opinari.
+- Secundo, utrum sint aliquae notiones divinis personis attribuendae.
+- Tertio, de numero notionum.
+- Quarto, utrum liceat diversimode circa notiones opinari.

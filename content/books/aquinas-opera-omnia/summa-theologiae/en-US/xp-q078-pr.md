@@ -1,9 +1,10 @@
-# Question 78 — Question: 78 [ << | >> ]
+# Question 78 — The Starting Terminus of the Resurrection
 
-We must now consider the term "wherefrom" of the resurrection; and under this head there are three points of inquiry:
+***We must now consider the starting terminus of the resurrection.***
 
-(1) Whether death is the term "wherefrom" of the resurrection in every case?
+Under this head there are three points of inquiry:  
 
-(2) Whether ashes are, or dust?
+(1) Whether death is the starting terminus of the resurrection in every case?  
 
-(3) Whether this dust has a natural inclination towards the soul?
+- (2) Whether ashes are, or dust?
+- (3) Whether this dust has a natural inclination towards the soul?

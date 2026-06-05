@@ -1,13 +1,14 @@
-# Quaestio 58 — tertio, de distinctione principalium, vel cardinalium, ab aliis.
+# Quaestio 58
 
-Circa primum quaeruntur quinque.
+***De distinctione virtutum moralis a virtutibus intellectualibus***
 
-Primo, utrum omnis virtus sit virtus moralis.
+Deinde considerandum est de virtutibus moralibus. Et primo, de distinctione earum a virtutibus intellectualibus; secundo, de distinctione earum ab invicem, secundum propriam materiam; tertio, de distinctione principalium, vel cardinalium, ab aliis.  
 
-Secundo, utrum virtus moralis distinguatur ab intellectuali.
+Circa primum quaeruntur quinque.  
 
-Tertio, utrum sufficienter dividatur virtus per intellectualem et moralem.
+Primo, utrum omnis virtus sit virtus moralis.  
 
-Quarto, utrum moralis virtus possit esse sine intellectuali.
-
-Quinto, utrum e converso, intellectualis virtus possit esse sine morali.
+- Secundo, utrum virtus moralis distinguatur ab intellectuali.
+- Tertio, utrum sufficienter dividatur virtus per intellectualem et moralem.
+- Quarto, utrum moralis virtus possit esse sine intellectuali.
+- Quinto, utrum e converso, intellectualis virtus possit esse sine morali.

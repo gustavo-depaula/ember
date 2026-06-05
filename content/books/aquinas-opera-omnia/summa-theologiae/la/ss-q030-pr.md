@@ -1,9 +1,9 @@
-# Quaestio 30 — Deinde considerandum est de misericordia. Et circa hoc quaeruntur quatuor.
+# Quaestio 30
 
-Primo, utrum malum sit causa misericordiae ex parte eius cuius miseremur.
+***Deinde considerandum est de misericordia. Et circa hoc quaeruntur quatuor.***
 
-Secundo, quorum sit misereri.
+Primo, utrum malum sit causa misericordiae ex parte eius cuius miseremur.  
 
-Tertio, utrum misericordia sit virtus.
-
-Quarto, utrum sit maxima virtutum.
+- Secundo, quorum sit misereri.
+- Tertio, utrum misericordia sit virtus.
+- Quarto, utrum sit maxima virtutum.

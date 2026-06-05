@@ -1,9 +1,9 @@
-# Quaestio 36 — Deinde considerandum est de causis tristitiae. Et circa hoc quaeruntur quatuor.
+# Quaestio 36
 
-Primo, utrum causa doloris sit bonum amissum, vel magis malum coniunctum.
+***Deinde considerandum est de causis tristitiae. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum concupiscentia sit causa doloris.
+Primo, utrum causa doloris sit bonum amissum, vel magis malum coniunctum.  
 
-Tertio, utrum appetitus unitatis sit causa doloris.
-
-Quarto, utrum potestas cui resisti non potest, sit causa doloris.
+- Secundo, utrum concupiscentia sit causa doloris.
+- Tertio, utrum appetitus unitatis sit causa doloris.
+- Quarto, utrum potestas cui resisti non potest, sit causa doloris.

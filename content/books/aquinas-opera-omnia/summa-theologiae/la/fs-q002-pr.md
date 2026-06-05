@@ -1,19 +1,17 @@
-# Quaestio 2 — tertio, qualiter eam consequi possimus.
+# Quaestio 2
 
-Circa primum quaeruntur octo.
+***In quibus sit beatitudo hominis***
 
-Primo, utrum beatitudo consistat in divitiis.
+Deinde considerandum est de beatitudine, nam beatitudo nominat adeptionem ultimi finis. Primo quidem, in quibus sit; secundo, quid sit; tertio, qualiter eam consequi possimus.  
 
-Secundo, utrum in honoribus.
+Circa primum quaeruntur octo.  
 
-Tertio, utrum in fama, sive in gloria.
+Primo, utrum beatitudo consistat in divitiis.  
 
-Quarto, utrum in potestate.
-
-Quinto, utrum in aliquo corporis bono.
-
-Sexto, utrum in voluptate.
-
-Septimo, utrum in aliquo bono animae.
-
-Octavo, utrum in aliquo bono creato.
+- Secundo, utrum in honoribus.
+- Tertio, utrum in fama, sive in gloria.
+- Quarto, utrum in potestate.
+- Quinto, utrum in aliquo corporis bono.
+- Sexto, utrum in voluptate.
+- Septimo, utrum in aliquo bono animae.
+- Octavo, utrum in aliquo bono creato.

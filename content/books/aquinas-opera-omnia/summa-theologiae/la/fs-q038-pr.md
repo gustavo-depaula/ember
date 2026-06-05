@@ -1,11 +1,10 @@
-# Quaestio 38 — Deinde considerandum est de remediis doloris seu tristitiae. Et circa hoc quaeruntur quinque.
+# Quaestio 38
 
-Primo, utrum dolor vel tristitia mitigetur per quamlibet delectationem.
+Deinde considerandum est de remediis doloris seu tristitiae. Et circa hoc quaeruntur quinque.  
 
-Secundo, utrum mitigetur per fletum.
+Primo, utrum dolor vel tristitia mitigetur per quamlibet delectationem.  
 
-Tertio, utrum per compassionem amicorum.
-
-Quarto, utrum per contemplationem veritatis.
-
-Quinto, utrum per somnum et balnea.
+- Secundo, utrum mitigetur per fletum.
+- Tertio, utrum per compassionem amicorum.
+- Quarto, utrum per contemplationem veritatis.
+- Quinto, utrum per somnum et balnea.

@@ -1,9 +1,9 @@
-# Question 61 — We must now consider the necessity of the sacraments; concerning which there are four points of inquiry:
+# Question 61 — The Necessity of the Sacraments
 
-(1) Whether sacraments are necessary for man's salvation?
+We must now consider the necessity of the sacraments; concerning which there are four points of inquiry:  
 
-(2) Whether they were necessary in the state that preceded sin?
+(1) Whether sacraments are necessary for man’s salvation?  
 
-(3) Whether they were necessary in the state after sin and before Christ?
-
-(4) Whether they were necessary after Christ's coming?
+- (2) Whether they were necessary in the state that preceded sin?
+- (3) Whether they were necessary in the state after sin and before Christ?
+- (4) Whether they were necessary after Christ’s coming?

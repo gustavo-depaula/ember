@@ -1,5 +1,7 @@
-# Quaestio 131 — Deinde considerandum est de ambitione. Et circa hoc quaeruntur duo:
+# Quaestio 131
 
-Primo, utrum ambitio sit peccatum.
+***Deinde considerandum est de ambitione. Et circa hoc quaeruntur duo:***
 
-Secundo, utrum opponatur magnanimitati per excessum.
+Primo, utrum ambitio sit peccatum.  
+
+- Secundo, utrum opponatur magnanimitati per excessum.

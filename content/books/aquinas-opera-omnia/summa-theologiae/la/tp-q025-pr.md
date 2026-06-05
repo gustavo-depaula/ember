@@ -1,15 +1,13 @@
-# Quaestio 25 — secundo, de hoc quod est mediator noster ad Deum.
+# Quaestio 25
 
-Circa primum quaeruntur sex.
+Deinde considerandum est de his quae pertinent ad Christum in comparatione ad nos. Et primo, de adoratione Christi, qua scilicet nos eum adoramus; secundo, de hoc quod est mediator noster ad Deum.  
 
-Primo, utrum una et eadem adoratione sit adoranda divinitas Christi et eius humanitas.
+Circa primum quaeruntur sex.  
 
-Secundo, utrum caro eius sit adoranda adoratione latriae.
+Primo, utrum una et eadem adoratione sit adoranda divinitas Christi et eius humanitas.  
 
-Tertio, utrum adoratio latriae sit exhibenda imagini Christi.
-
-Quarto, utrum sit exhibenda cruci Christi.
-
-Quinto, utrum sit exhibenda matri eius.
-
-Sexto, de adoratione reliquiarum sanctorum.
+- Secundo, utrum caro eius sit adoranda adoratione latriae.
+- Tertio, utrum adoratio latriae sit exhibenda imagini Christi.
+- Quarto, utrum sit exhibenda cruci Christi.
+- Quinto, utrum sit exhibenda matri eius.
+- Sexto, de adoratione reliquiarum sanctorum.

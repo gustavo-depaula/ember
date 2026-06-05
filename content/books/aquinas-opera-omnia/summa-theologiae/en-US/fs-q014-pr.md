@@ -1,13 +1,11 @@
-# Question 14 — We must now consider counsel; concerning which there are six points of inquiry:
+# Question 14 — Of Counsel
 
-(1) Whether counsel is an inquiry?
+***We must now consider counsel; concerning which there are six points of inquiry:***
 
-(2) Whether counsel is of the end or of the means?
+(1) Whether counsel is an inquiry?  
 
-(3) Whether counsel is only of things that we do?
-
-(4) Whether counsel is of all things that we do?
-
-(5) Whether the process of counsel is one of analysis?
-
-(6) Whether the process of counsel is indefinite?
+- (2) Whether counsel is of the end or of the means?
+- (3) Whether counsel is only of things that we do?
+- (4) Whether counsel is of all things that we do?
+- (5) Whether the process of counsel is one of analysis?
+- (6) Whether the process of counsel is indefinite?

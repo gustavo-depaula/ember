@@ -1,11 +1,11 @@
-# Quaestio 63 — Deinde considerandum est de vitiis oppositis praedictis iustitiae partibus. Et primo, de acceptione personarum, quae opponitur iustitiae distributivae; secundo, de peccatis quae opponuntur iustitiae commutativae.
+# Quaestio 63
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de vitiis oppositis praedictis iustitiae partibus. Et primo, de acceptione personarum, quae opponitur iustitiae distributivae; secundo, de peccatis quae opponuntur iustitiae commutativae.  
 
-Primo, utrum personarum acceptio sit peccatum.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum habeat locum in dispensatione spiritualium.
+Primo, utrum personarum acceptio sit peccatum.  
 
-Tertio, utrum in exhibitione honorum.
-
-Quarto, utrum in iudiciis.
+- Secundo, utrum habeat locum in dispensatione spiritualium.
+- Tertio, utrum in exhibitione honorum.
+- Quarto, utrum in iudiciis.

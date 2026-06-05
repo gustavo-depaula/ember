@@ -1,15 +1,13 @@
-# Quaestio 57 — tertio, quantum ad theologicas.
+# Quaestio 57
 
-Circa primum quaeruntur sex.
+***De virtutibus intellectualibus***
 
-Primo, utrum habitus intellectuales speculativi sint virtutes.
+Deinde considerandum est de distinctione virtutum. Et primo, quantum ad virtutes intellectuales; secundo, quantum ad morales; tertio, quantum ad theologicas. Circa primum quaeruntur sex.  
 
-Secundo, utrum sint tres, scilicet sapientia, scientia et intellectus.
+Primo, utrum habitus intellectuales speculativi sint virtutes.  
 
-Tertio, utrum habitus intellectualis qui est ars, sit virtus.
-
-Quarto, utrum prudentia sit virtus distincta ab arte.
-
-Quinto, utrum prudentia sit virtus necessaria homini.
-
-Sexto, utrum eubulia, synesis et gnome sint virtutes adiunctae prudentiae.
+- Secundo, utrum sint tres, scilicet sapientia, scientia et intellectus.
+- Tertio, utrum habitus intellectualis qui est ars, sit virtus.
+- Quarto, utrum prudentia sit virtus distincta ab arte.
+- Quinto, utrum prudentia sit virtus necessaria homini.
+- Sexto, utrum eubulia, synesis et gnome sint virtutes adiunctae prudentiae.

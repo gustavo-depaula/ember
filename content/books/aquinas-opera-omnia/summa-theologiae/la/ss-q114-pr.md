@@ -1,5 +1,7 @@
-# Quaestio 114 — Deinde considerandum est de amicitia quae affabilitas dicitur; et de vitiis oppositis, quae sunt adulatio et litigium. Circa amicitiam autem seu affabilitatem quaeruntur duo.
+# Quaestio 114
 
-Primo, utrum sit specialis virtus.
+Deinde considerandum est de amicitia quae affabilitas dicitur; et de vitiis oppositis, quae sunt adulatio et litigium. Circa amicitiam autem seu affabilitatem quaeruntur duo.  
 
-Secundo, utrum sit pars iustitiae.
+Primo, utrum sit specialis virtus.  
+
+- Secundo, utrum sit pars iustitiae.

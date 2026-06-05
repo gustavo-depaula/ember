@@ -1,7 +1,8 @@
-# Quaestio 53 — Deinde considerandum est de corruptione et diminutione habituum. Et circa hoc quaeruntur tria.
+# Quaestio 53
 
-Primo, utrum habitus corrumpi possit.
+Deinde considerandum est de corruptione et diminutione habituum. Et circa hoc quaeruntur tria.  
 
-Secundo, utrum possit diminui.
+Primo, utrum habitus corrumpi possit.  
 
-Tertio, de modo corruptionis et diminutionis
+- Secundo, utrum possit diminui.
+- Tertio, de modo corruptionis et diminutionis.

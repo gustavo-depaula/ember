@@ -1,15 +1,13 @@
-# Quaestio 85 — tertio, de reatu poenae.
+# Quaestio 85
 
-Circa primum quaeruntur sex.
+Deinde considerandum est de effectibus peccati. Et primo quidem, de corruptione boni naturae; secundo, de macula animae; tertio, de reatu poenae.  
 
-Primo, utrum bonum naturae diminuatur per peccatum.
+Circa primum quaeruntur sex.  
 
-Secundo, utrum totaliter tolli possit.
+Primo, utrum bonum naturae diminuatur per peccatum.  
 
-Tertio, de quatuor vulneribus quae Beda ponit, quibus natura humana vulnerata est propter peccatum.
-
-Quarto, utrum privatio modi, speciei et ordinis, sit effectus peccati.
-
-Quinto, utrum mors et alii defectus corporales sint effectus peccati.
-
-Sexto, utrum sint aliquo modo homini naturales.
+- Secundo, utrum totaliter tolli possit.
+- Tertio, de quatuor vulneribus quae Beda ponit, quibus natura humana vulnerata est propter peccatum.
+- Quarto, utrum privatio modi, speciei et ordinis, sit effectus peccati.
+- Quinto, utrum mors et alii defectus corporales sint effectus peccati.
+- Sexto, utrum sint aliquo modo homini naturales.

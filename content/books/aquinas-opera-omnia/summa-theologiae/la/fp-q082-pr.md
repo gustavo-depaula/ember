@@ -1,11 +1,10 @@
-# Quaestio 82 — Deinde considerandum est de voluntate. Circa quam quaeruntur quinque.
+# Quaestio 82
 
-Primo, utrum voluntas aliquid ex necessitate appetat.
+***Deinde considerandum est de voluntate. Circa quam quaeruntur quinque.***
 
-Secundo, utrum omnia ex necessitate appetat.
+Primo, utrum voluntas aliquid ex necessitate appetat.  
 
-Tertio, utrum sit eminentior potentia quam intellectus.
-
-Quarto, utrum voluntas moveat intellectum.
-
-Quinto, utrum voluntas distinguatur per irascibilem et concupiscibilem.
+- Secundo, utrum omnia ex necessitate appetat.
+- Tertio, utrum sit eminentior potentia quam intellectus.
+- Quarto, utrum voluntas moveat intellectum.
+- Quinto, utrum voluntas distinguatur per irascibilem et concupiscibilem.

@@ -1,13 +1,14 @@
-# Quaestio 60 — Deinde considerandum est de actu voluntatis, qui est amor sive dilectio, nam omnis actus appetitivae virtutis ex amore seu dilectione derivatur. Et circa hoc quaeruntur quinque.
+# Quaestio 60
 
-Primo, utrum in Angelis sit dilectio naturalis.
+***De amore seu dilectione angelorum***
 
+Deinde considerandum est de actu voluntatis, qui est amor sive dilectio, nam omnis actus appetitivae virtutis ex amore seu dilectione derivatur.  
 
+Et circa hoc quaeruntur quinque.  
 
-Secundo, utrum in eis sit dilectio electiva.
+Primo, utrum in angelis sit dilectio naturalis.  
 
-Tertio, utrum Angelus diligat seipsum dilectione naturali an electiva.
-
-Quarto, utrum unus Angelus diligat alium dilectione naturali sicut seipsum.
-
-Quinto, utrum Angelus naturali dilectione diligat Deum plus quam seipsum.
+- Secundo, utrum in eis sit dilectio electiva.
+- Tertio, utrum angelus diligat seipsum dilectione naturali an electiva.
+- Quarto, utrum unus angelus diligat alium dilectione naturali sicut seipsum.
+- Quinto, utrum angelus naturali dilectione diligat Deum plus quam seipsum.

@@ -1,11 +1,10 @@
-# Quaestio 111 — Deinde considerandum est de divisione gratiae. Et circa hoc quaeruntur quinque.
+# Quaestio 111
 
-Primo, utrum convenienter dividatur gratia per gratiam gratis datam et gratiam gratum facientem.
+***Deinde considerandum est de divisione gratiae. Et circa hoc quaeruntur quinque.***
 
-Secundo, de divisione gratiae gratum facientis per operantem et cooperantem.
+Primo, utrum convenienter dividatur gratia per gratiam gratis datam et gratiam gratum facientem.  
 
-Tertio, de divisione eiusdem per gratiam praevenientem et subsequentem.
-
-Quarto, de divisione gratiae gratis datae.
-
-Quinto, de comparatione gratiae gratum facientis et gratis datae.
+- Secundo, de divisione gratiae gratum facientis per operantem et cooperantem.
+- Tertio, de divisione eiusdem per gratiam praevenientem et subsequentem.
+- Quarto, de divisione gratiae gratis datae.
+- Quinto, de comparatione gratiae gratum facientis et gratis datae.

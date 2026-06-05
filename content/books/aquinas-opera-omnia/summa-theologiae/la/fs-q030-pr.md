@@ -1,9 +1,9 @@
-# Quaestio 30 — Deinde considerandum est de concupiscentia. Et circa hoc quaeruntur quatuor.
+# Quaestio 30
 
-Primo, utrum concupiscentia sit in appetitu sensitivo tantum.
+***Deinde considerandum est de concupiscentia. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum concupiscentia sit passio specialis.
+Primo, utrum concupiscentia sit in appetitu sensitivo tantum.  
 
-Tertio, utrum sint aliquae concupiscentiae naturales, et aliquae non naturales.
-
-Quarto, utrum concupiscentia sit infinita
+- Secundo, utrum concupiscentia sit passio specialis.
+- Tertio, utrum sint aliquae concupiscentiae naturales, et aliquae non naturales.
+- Quarto, utrum concupiscentia sit infinita.

@@ -1,9 +1,9 @@
-# Quaestio 47 — Deinde considerandum est de causa effectiva irae, et de remediis eius. Et circa hoc quaeruntur quatuor.
+# Quaestio 47
 
-Primo, utrum semper motivum irae sit aliquid factum contra eum qui irascitur.
+Deinde considerandum est de causa effectiva irae, et de remediis eius. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum sola parvipensio vel despectio sit motivum irae.
+Primo, utrum semper motivum irae sit aliquid factum contra eum qui irascitur.  
 
-Tertio, de causa irae ex parte irascentis.
-
-Quarto, de causa irae ex parte eius contra quem aliquis irascitur.
+- Secundo, utrum sola parvipensio vel despectio sit motivum irae.
+- Tertio, de causa irae ex parte irascentis.
+- Quarto, de causa irae ex parte eius contra quem aliquis irascitur.

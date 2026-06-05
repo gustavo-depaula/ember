@@ -1,11 +1,10 @@
-# Quaestio 132 — Deinde considerandum est de inani gloria. Et circa hoc quaeruntur quinque.
+# Quaestio 132
 
-Primo, utrum appetitus gloriae sit peccatum.
+***Deinde considerandum est de inani gloria. Et circa hoc quaeruntur quinque.***
 
-Secundo, utrum inanis gloria magnanimitati opponatur.
+Primo, utrum appetitus gloriae sit peccatum.  
 
-Tertio, utrum sit peccatum mortale.
-
-Quarto, utrum sit vitium capitale.
-
-Quinto, de filiabus eius.
+- Secundo, utrum inanis gloria magnanimitati opponatur.
+- Tertio, utrum sit peccatum mortale.
+- Quarto, utrum sit vitium capitale.
+- Quinto, de filiabus eius.

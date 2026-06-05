@@ -1,7 +1,9 @@
-# Question 63 — Question: 63 [ << | >> ]
+# Question 63 — Second Marriages
 
-In the next place we must consider second marriage. Under this head there are two points of inquiry:
+***In the next place we must consider second marriage.***
 
-(1) Whether it is lawful?
+Under this head there are two points of inquiry:  
 
-(2) Whether it is a sacrament?
+(1) Whether it is lawful?  
+
+- (2) Whether it is a sacrament?

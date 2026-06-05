@@ -1,13 +1,11 @@
-# Quaestio 67 — Deinde considerandum est de duratione virtutum post hanc vitam. Et circa hoc quaeruntur sex.
+# Quaestio 67
 
-Primo, utrum virtutes morales maneant post hanc vitam.
+Deinde considerandum est de duratione virtutum post hanc vitam. Et circa hoc quaeruntur sex.  
 
-Secundo, utrum virtutes intellectuales.
+Primo, utrum virtutes morales maneant post hanc vitam.  
 
-Tertio, utrum fides.
-
-Quarto, utrum remaneat spes.
-
-Quinto, utrum aliquid fidei maneat, vel spei.
-
-Sexto, utrum maneat caritas.
+- Secundo, utrum virtutes intellectuales.
+- Tertio, utrum fides.
+- Quarto, utrum remaneat spes.
+- Quinto, utrum aliquid fidei maneat, vel spei.
+- Sexto, utrum maneat caritas.

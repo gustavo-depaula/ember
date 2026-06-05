@@ -1,9 +1,9 @@
-# Question 116 — We come now to the consideration of fate. Under this head there are four points of inquiry:
+# Question 116 — Fate
 
-(1) Is there such a thing as fate?
+We come now to the consideration of fate. Under this head there are four points of inquiry:  
 
-(2) Where is it?
+(1) Is there such a thing as fate?  
 
-(3) Is it unchangeable?
-
-(4) Are all things subject to fate?
+- (2) Where is it?
+- (3) Is it unchangeable?
+- (4) Are all things subject to fate?

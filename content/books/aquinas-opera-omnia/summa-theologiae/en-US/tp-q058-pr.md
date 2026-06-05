@@ -1,9 +1,9 @@
-# Question 58 — We have now to consider Christ's sitting at the right hand of the Father, concerning which there are four points of inquiry:
+# Question 58 — Christ’s Sitting at the Right Hand of the Father
 
-(1) Whether Christ is seated at the right hand of the Father?
+We have now to consider Christ’s sitting at the right hand of the Father, concerning which there are four points of inquiry:  
 
-(2) Whether this belongs to Him according to the Divine Nature?
+(1) Whether Christ is seated at the right hand of the Father?  
 
-(3) Whether it belongs to Him according to His human nature?
-
-(4) Whether it is something proper to Christ?
+- (2) Whether this belongs to Him according to the Divine Nature?
+- (3) Whether it belongs to Him according to His human nature?
+- (4) Whether it is something proper to Christ?

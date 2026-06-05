@@ -1,9 +1,10 @@
-# Question 30 — Question: 30 [ << | >> ]
+# Question 30 — The Effect of Extreme Unction
 
-We must now consider the effect of this sacrament: under which head there are three points of inquiry:
+***We must now consider the effect of this sacrament.***
 
-(1) Whether Extreme Unction avails for the remission of sins?
+Under this head there are three points of inquiry:  
 
-(2) Whether bodily health is an effect of this sacrament?
+(1) Whether extreme unction avails for the remission of sins?  
 
-(3) Whether this sacrament imprints a character?
+- (2) Whether bodily health is an effect of this sacrament?
+- (3) Whether this sacrament imprints a character?

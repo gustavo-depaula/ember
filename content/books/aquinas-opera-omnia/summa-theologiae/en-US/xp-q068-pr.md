@@ -1,9 +1,10 @@
-# Question 68 — Question: 68 [ << | >> ]
+# Question 68 — Illegitimate Children
 
-We must now consider children of illegitimate birth. Under this head there are three points of inquiry:
+***We must now consider children of illegitimate birth.***
 
-(1) Whether those born out of true marriage are illegitimate?
+Under this head there are three points of inquiry:  
 
-(2) Whether children should suffer any loss through being illegitimate?
+(1) Whether those born out of true marriage are illegitimate?  
 
-(3) Whether they can be legitimized?
+- (2) Whether children should suffer any loss through being illegitimate?
+- (3) Whether they can be legitimized?

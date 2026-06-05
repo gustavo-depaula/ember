@@ -1,11 +1,10 @@
-# Quaestio 183 — secundo, specialiter de statu perfectorum.
+# Quaestio 183
 
-Circa primum quaeruntur quatuor.
+Consequenter considerandum est de diversitate statuum et officiorum humanorum. Et primo considerandum est de officiis et statibus hominum in generali; secundo, specialiter de statu perfectorum.  
 
-Primo, quid faciat in hominibus statum.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum in hominibus debeant esse diversi status, sive diversa officia.
+Primo, quid faciat in hominibus statum.  
 
-Tertio, de differentia officiorum.
-
-Quarto, de differentia statuum.
+- Secundo, utrum in hominibus debeant esse diversi status, sive diversa officia.
+- Tertio, de differentia officiorum. Quarto, de differentia statuum.

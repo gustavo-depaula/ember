@@ -1,11 +1,11 @@
-# Question 97 — We next consider what belongs to the bodily state of the first man: first, as regards the preservation of the individual; secondly, as regards the preservation of the species.
+# Question 97 — The Preservation of the Individual
 
-Under the first head there are four points of inquiry:
+We next consider what belongs to the bodily state of the first man: first, as regards the preservation of the individual; second, as regards the preservation of the species.  
 
-(1) Whether man in the state of innocence was immortal?
+Under the first head there are four points of inquiry:  
 
-(2) Whether he was impassible?
+(1) Whether man in the state of innocence was immortal?  
 
-(3) Whether he stood in need of food?
-
-(4) Whether he would have obtained immortality by the tree of life?
+- (2) Whether he was impassible?
+- (3) Whether he stood in need of food?
+- (4) Whether he would have obtained immortality by the tree of life?

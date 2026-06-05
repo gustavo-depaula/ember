@@ -1,7 +1,9 @@
-# Question 99 — thirdly, in knowledge.
+# Question 99 — The Condition of the Offspring as to the Body
 
-Under the first head there are two points of inquiry:
+We must now consider the condition of the offspring—first, as regards the body; second, as regards virtue; third, in knowledge.  
 
-(1) Whether in the state of innocence children would have had full powers of the body immediately after birth?
+Under the first head there are two points of inquiry:  
 
-(2) Whether all infants would have been of the male sex?
+(1) Whether in the state of innocence children would have had full powers of the body immediately after birth?  
+
+- (2) Whether all infants would have been of the male sex?

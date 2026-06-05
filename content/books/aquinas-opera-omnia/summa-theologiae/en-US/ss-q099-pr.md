@@ -1,11 +1,11 @@
-# Question 99 — (2) Simony.
+# Question 99 — Sacrilege
 
-Under the first head there are four points of inquiry:
+We must now consider the vices which pertain to irreligion, whereby sacred things are treated with irreverence. We shall consider (1) Sacrilege; (2) Simony.  
 
-(1) What is sacrilege?
+Under the first head there are four points of inquiry:  
 
-(2) Whether it is a special sin?
+(1) What is sacrilege?  
 
-(3) Of the species of sacrilege;
-
-(4) Of the punishment of sacrilege.
+- (2) Whether it is a special sin?
+- (3) Of the species of sacrilege;
+- (4) Of the punishment of sacrilege.

@@ -1,9 +1,11 @@
-# Quaestio 23 — Deinde considerandum est an adoptio Christo conveniat. Et circa hoc quaeruntur quatuor.
+# Quaestio 23
 
-Primo, utrum Deo conveniat filios adoptare.
+***De adoptione Christo conveniat***
 
-Secundo, utrum hoc conveniat soli Deo patri.
+Deinde considerandum est an adoptio Christo conveniat. Et circa hoc quaeruntur quatuor.  
 
-Tertio, utrum sit proprium hominum adoptari in filios Dei.
+Primo, utrum Deo conveniat filios adoptare.  
 
-Quarto, utrum Christus possit dici filius adoptivus.
+- Secundo, utrum hoc conveniat soli Deo patri.
+- Tertio, utrum sit proprium hominum adoptari in filios Dei.
+- Quarto, utrum Christus possit dici filius adoptivus.

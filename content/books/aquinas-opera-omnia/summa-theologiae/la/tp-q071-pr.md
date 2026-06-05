@@ -1,9 +1,9 @@
-# Quaestio 71 — Deinde considerandum est de praeparatoriis quae simul currunt cum Baptismo. Et circa hoc quaeruntur quatuor.
+# Quaestio 71
 
-Primo, utrum catechismus debeat praecedere Baptismum.
+Deinde considerandum est de praeparatoriis quae simul currunt cum Baptismo. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum Baptismum debeat praecedere exorcismus.
+Primo, utrum catechismus debeat praecedere Baptismum.  
 
-Tertio, utrum ea quae aguntur in catechismo et exorcismo aliquid efficiant, vel solum significent.
-
-Quarto, utrum baptizandi debeant catechizari vel exorcizari per sacerdotes.
+- Secundo, utrum Baptismum debeat praecedere exorcismus.
+- Tertio, utrum ea quae aguntur in catechismo et exorcismo aliquid efficiant, vel solum significent.
+- Quarto, utrum baptizandi debeant catechizari vel exorcizari per sacerdotes.

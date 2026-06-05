@@ -1,9 +1,9 @@
-# Question 25 — We must now consider the order of the passions to one another: and under this head there are four points of inquiry:
+# Question 25 — Of the Order of the Passions to One Another
 
-(1) The relation of the irascible passions to the concupiscible passions;
+We must now consider the order of the passions to one another: and under this head there are four points of inquiry:  
 
-(2) The relation of the concupiscible passions to one another;
+(1) The relation of the irascible passions to the concupiscible passions;  
 
-(3) The relation of the irascible passions to one another;
-
-(4) The four principal passions.
+- (2) The relation of the concupiscible passions to one another;
+- (3) The relation of the irascible passions to one another;
+- (4) The four principal passions.

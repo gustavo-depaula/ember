@@ -1,9 +1,9 @@
-# Question 156 — We must now consider incontinence: and under this head there are four points of inquiry:
+# Question 156 — Incontinence
 
-(1) Whether incontinence pertains to the soul or to the body?
+We must now consider incontinence: and under this head there are four points of inquiry:  
 
-(2) Whether incontinence is a sin?
+(1) Whether incontinence pertains to the soul or to the body?  
 
-(3) The comparison between incontinence and intemperance;
-
-(4) Which is the worse, incontinence in anger, or incontinence in desire?
+- (2) Whether incontinence is a sin?
+- (3) The comparison between incontinence and intemperance;
+- (4) Which is the worse, incontinence in anger, or incontinence in desire?

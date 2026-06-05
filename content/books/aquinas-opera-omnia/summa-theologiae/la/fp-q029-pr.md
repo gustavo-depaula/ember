@@ -1,15 +1,19 @@
-# Quaestio 29 — Praemissis autem his quae de processionibus et relationibus praecognoscenda videbantur, necessarium est aggredi de personis.
+# Quaestio 29
 
-Et primo, secundum considerationem absolutam; et deinde secundum comparativam considerationem. Oportet autem absolute de personis, primo quidem in communi considerare; deinde de singulis personis.
+***De personis divinis***
 
-Ad communem autem considerationem personarum quatuor pertinere videntur, primo quidem, significatio huius nominis persona; secundo vero, numerus personarum; tertio, ea quae consequuntur numerum personarum, vel ei opponuntur, ut diversitas et solitudo, et huiusmodi; quarto vero, ea quae pertinent ad notitiam personarum.
+Praemissis autem his quae de processionibus et relationibus praecognoscenda videbantur, necessarium est aggredi de personis.  
 
-Circa primum quaeruntur quatuor.
+Et primo, secundum considerationem absolutam; et deinde secundum comparativam considerationem.  
 
-Primo, de definitione personae.
+Oportet autem absolute de personis, primo quidem in communi considerare; deinde de singulis personis.  
 
-Secundo, de comparatione personae ad essentiam, subsistentiam et hypostasim.
+Ad communem autem considerationem personarum quatuor pertinere videntur, primo quidem, significatio huius nominis persona; secundo vero, numerus personarum; tertio, ea quae consequuntur numerum personarum, vel ei opponuntur, ut diversitas et solitudo, et huiusmodi; quarto vero, ea quae pertinent ad notitiam personarum.  
 
-Tertio, utrum nomen personae competat in divinis.
+Circa primum quaeruntur quatuor.  
 
-Quarto, quid ibi significet.
+Primo, de definitione personae.  
+
+- Secundo, de comparatione personae ad essentiam, subsistentiam et hypostasim.
+- Tertio, utrum nomen personae competat in divinis.
+- Quarto, quid ibi significet.

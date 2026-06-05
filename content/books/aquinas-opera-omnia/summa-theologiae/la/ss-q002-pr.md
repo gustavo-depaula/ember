@@ -1,23 +1,17 @@
-# Quaestio 2 — secundo, de actu exteriori.
+# Quaestio 2
 
-Circa primum quaeruntur decem.
+Deinde considerandum est de actu fidei. Et primo, de actu interiori; secundo, de actu exteriori.  
 
-Primo, quid sit credere, quod est actus interior fidei.
+Circa primum quaeruntur decem.  
 
-Secundo, quot modis dicatur.
+Primo, quid sit credere, quod est actus interior fidei.  
 
-Tertio, utrum credere aliquid supra rationem naturalem sit necessarium ad salutem.
-
-Quarto, utrum credere ea ad quae ratio naturalis pervenire potest sit necessarium.
-
-Quinto, utrum sit necessarium ad salutem credere aliqua explicite.
-
-Sexto, utrum ad credendum explicite omnes aequaliter teneantur.
-
-Septimo, utrum habere explicitam fidem de Christo semper sit necessarium ad salutem.
-
-Octavo, utrum credere Trinitatem explicite sit de necessitate salutis.
-
-Nono, utrum actus fidei sit meritorius.
-
-Decimo, utrum ratio humana diminuat meritum fidei.
+- Secundo, quot modis dicatur.
+- Tertio, utrum credere aliquid supra rationem naturalem sit necessarium ad salutem.
+- Quarto, utrum credere ea ad quae ratio naturalis pervenire potest sit necessarium.
+- Quinto, utrum sit necessarium ad salutem credere aliqua explicite.
+- Sexto, utrum ad credendum explicite omnes aequaliter teneantur.
+- Septimo, utrum habere explicitam fidem de Christo semper sit necessarium ad salutem.
+- Octavo, utrum credere Trinitatem explicite sit de necessitate salutis.
+- Nono, utrum actus fidei sit meritorius.
+- Decimo, utrum ratio humana diminuat meritum fidei.

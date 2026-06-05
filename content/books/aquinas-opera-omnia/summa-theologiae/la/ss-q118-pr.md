@@ -1,19 +1,15 @@
-# Quaestio 118 — secundo, de prodigalitate.
+# Quaestio 118
 
-Circa primum quaeruntur octo.
+Deinde considerandum est de vitiis oppositis liberalitati. Et primo, de avaritia; secundo, de prodigalitate.  
 
-Primo, utrum avaritia sit peccatum.
+Circa primum quaeruntur octo.  
 
-Secundo, utrum sit speciale peccatum.
+Primo, utrum avaritia sit peccatum.  
 
-Tertio, cui virtuti opponatur.
-
-Quarto, utrum sit peccatum mortale.
-
-Quinto, utrum sit gravissimum peccatorum.
-
-Sexto, utrum sit peccatum carnale, vel spirituale.
-
-Septimo, utrum sit vitium capitale.
-
-Octavo, de filiabus eius.
+- Secundo, utrum sit speciale peccatum.
+- Tertio, cui virtuti opponatur.
+- Quarto, utrum sit peccatum mortale.
+- Quinto, utrum sit gravissimum peccatorum.
+- Sexto, utrum sit peccatum carnale, vel spirituale.
+- Septimo, utrum sit vitium capitale.
+- Octavo, de filiabus eius.

@@ -1,5 +1,7 @@
-# Question 42 — We must now consider sedition, under which head there are two points of inquiry:
+# Question 42 — Sedition
 
-(1) Whether it is a special sin?
+***We must now consider sedition, under which head there are two points of inquiry:***
 
-(2) Whether it is a mortal sin?
+(1) Whether it is a special sin?  
+
+- (2) Whether it is a mortal sin?

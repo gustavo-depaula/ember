@@ -1,5 +1,7 @@
-# Quaestio 169 — Deinde considerandum est de modestia secundum quod consistit in exteriori apparatu. Et circa hoc quaeruntur duo.
+# Quaestio 169
 
-Primo, utrum circa exteriorem apparatum possit esse virtus et vitium.
+Deinde considerandum est de modestia secundum quod consistit in exteriori apparatu. Et circa hoc quaeruntur duo.  
 
-Secundo, utrum mulieres mortaliter peccent in superfluo ornatu.
+Primo, utrum circa exteriorem apparatum possit esse virtus et vitium.  
+
+- Secundo, utrum mulieres mortaliter peccent in superfluo ornatu.

@@ -1,9 +1,9 @@
-# Quaestio 108 — Deinde considerandum est de vindicatione. Et circa hoc quaeruntur quatuor.
+# Quaestio 108
 
-Primo, utrum vindicatio sit licita.
+***Deinde considerandum est de vindicatione. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum sit specialis virtus.
+Primo, utrum vindicatio sit licita.  
 
-Tertio, de modo vindicandi.
-
-Quarto, in quos sit vindicta exercenda.
+- Secundo, utrum sit specialis virtus.
+- Tertio, de modo vindicandi.
+- Quarto, in quos sit vindicta exercenda.

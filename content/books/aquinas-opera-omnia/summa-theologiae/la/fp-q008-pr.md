@@ -1,9 +1,11 @@
-# Quaestio 8 — Quia vero infinito convenire videtur quod ubique et in omnibus sit, considerandum est utrum hoc Deo conveniat. Et circa hoc quaeruntur quatuor.
+# Quaestio 8
 
-Primo, utrum Deus sit in omnibus rebus.
+***De existentia Dei in rebus***
 
-Secundo, utrum Deus sit ubique.
+Quia vero infinito convenire videtur quod ubique et in omnibus sit, considerandum est utrum hoc Deo conveniat *(*hoc Deo conveniat.—haec Deo conveniant* B**.)*. Et circa hoc quaeruntur quatuor.  
 
-Tertio, utrum Deus sit ubique per essentiam et potentiam et praesentiam.
+Primo, utrum Deus sit in omnibus rebus.  
 
-Quarto, utrum esse ubique sit proprium Dei.
+- Secundo, utrum Deus sit ubique.
+- Tertio, utrum Deus sit ubique per essentiam et *(*et.—per* F, om. ceteri**.)* potentiam et praesentiam.
+- Quarto, utrum esse ubique sit proprium Dei.

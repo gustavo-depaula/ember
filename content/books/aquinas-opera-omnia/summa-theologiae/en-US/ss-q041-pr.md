@@ -1,5 +1,7 @@
-# Question 41 — We must now consider strife, under which head there are two points of inquiry:
+# Question 41 — Strife
 
-(1) Whether strife is a sin?
+***We must now consider strife, under which head there are two points of inquiry:***
 
-(2) Whether it is a daughter of anger?
+(1) Whether strife is a sin?  
+
+- (2) Whether it is a daughter of anger?

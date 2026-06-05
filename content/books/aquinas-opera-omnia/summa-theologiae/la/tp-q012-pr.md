@@ -1,9 +1,9 @@
-# Quaestio 12 — Deinde considerandum est de scientia animae Christi acquisita vel experimentali. Et circa hoc quaeruntur quatuor.
+# Quaestio 12
 
-Primo, utrum secundum hanc scientiam Christus cognoverit omnia.
+Deinde considerandum est de scientia animae Christi acquisita vel experimentali. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum in hac scientia profecerit.
+Primo, utrum secundum hanc scientiam Christus cognoverit omnia.  
 
-Tertio, utrum aliquid ab homine didicerit.
-
-Quarto, utrum acceperit aliquid ab Angelis.
+- Secundo, utrum in hac scientia profecerit.
+- Tertio, utrum aliquid ab homine didicerit.
+- Quarto, utrum acceperit aliquid ab Angelis.

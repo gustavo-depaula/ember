@@ -1,17 +1,13 @@
-# Quaestio 55 — Deinde considerandum est de vitiis oppositis prudentiae quae habent similitudinem cum ipsa. Et circa hoc quaeruntur octo.
+# Quaestio 55
 
-Primo, utrum prudentia carnis sit peccatum.
+Deinde considerandum est de vitiis oppositis prudentiae quae habent similitudinem cum ipsa. Et circa hoc quaeruntur octo.  
 
-Secundo, utrum sit peccatum mortale.
+Primo, utrum prudentia carnis sit peccatum.  
 
-Tertio, utrum astutia sit peccatum speciale.
-
-Quarto, de dolo.
-
-Quinto, de fraude.
-
-Sexto, de sollicitudine temporalium rerum.
-
-Septimo, de sollicitudine futurorum.
-
-Octavo, de origine horum vitiorum.
+- Secundo, utrum sit peccatum mortale.
+- Tertio, utrum astutia sit peccatum speciale.
+- Quarto, de dolo.
+- Quinto, de fraude.
+- Sexto, de sollicitudine temporalium rerum.
+- Septimo, de sollicitudine futurorum.
+- Octavo, de origine horum vitiorum.

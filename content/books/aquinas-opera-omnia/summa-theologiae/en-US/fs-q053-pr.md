@@ -1,7 +1,8 @@
-# Question 53 — We must now consider how habits are lost or weakened; and under this head there are three points of inquiry:
+# Question 53 — How Habits are Corrupted or Diminished
 
-(1) Whether a habit can be corrupted?
+We must now consider how habits are lost or weakened; and under this head there are three points of inquiry:  
 
-(2) Whether it can be diminished?
+(1) Whether a habit can be corrupted?  
 
-(3) How are habits corrupted or diminished?
+- (2) Whether it can be diminished?
+- (3) How are habits corrupted or diminished?

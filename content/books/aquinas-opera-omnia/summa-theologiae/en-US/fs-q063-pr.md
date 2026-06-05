@@ -1,9 +1,9 @@
-# Question 63 — We must now consider the cause of virtues; and under this head there are four points of inquiry:
+# Question 63 — Of the Cause of Virtues
 
-(1) Whether virtue is in us by nature?
+We must now consider the cause of virtues; and under this head there are four points of inquiry:  
 
-(2) Whether any virtue is caused in us by habituation?
+(1) Whether virtue is in us by nature?  
 
-(3) Whether any moral virtues are in us by infusion?
-
-(4) Whether virtue acquired by habituation, is of the same species as infused virtue?
+- (2) Whether any virtue is caused in us by habituation?
+- (3) Whether any moral virtues are in us by infusion?
+- (4) Whether virtue acquired by habituation, is of the same species as infused virtue?

@@ -1,7 +1,7 @@
-# Quaestio 176 — secundo, de gratia sermonis sapientiae seu scientiae.
+# Quaestio 176
 
-Circa primum quaeruntur duo.
+Deinde considerandum est de gratiis gratis datis quae pertinent ad locutionem. Et primo, de gratia linguarum; secundo, de gratia sermonis sapientiae seu scientiae. Circa primum quaeruntur duo.  
 
-Primo, utrum per gratiam linguarum homo adipisceretur scientiam omnium linguarum.
+Primo, utrum per gratiam linguarum homo adipisceretur scientiam omnium linguarum.  
 
-Secundo, de comparatione huius doni ad gratiam prophetiae.
+- Secundo, de comparatione huius doni ad gratiam prophetiae.

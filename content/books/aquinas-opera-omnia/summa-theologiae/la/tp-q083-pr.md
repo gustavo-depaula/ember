@@ -1,13 +1,11 @@
-# Quaestio 83 — Deinde considerandum est de ritu huius sacramenti. Et circa hoc quaeruntur sex.
+# Quaestio 83
 
-Primo, utrum in celebratione huius mysterii Christus immoletur.
+***Deinde considerandum est de ritu huius sacramenti. Et circa hoc quaeruntur sex.***
 
-Secundo, de tempore celebrationis.
+Primo, utrum in celebratione huius mysterii Christus immoletur.  
 
-Tertio, de loco, et aliis quae pertinent ad apparatum huius celebrationis.
-
-Quarto, de his quae in celebratione huius mysterii dicuntur.
-
-Quinto, de his quae circa celebrationem huius mysterii fiunt.
-
-Sexto, de defectibus qui circa celebrationem huius sacramenti occurrunt.
+- Secundo, de tempore celebrationis.
+- Tertio, de loco, et aliis quae pertinent ad apparatum huius celebrationis.
+- Quarto, de his quae in celebratione huius mysterii dicuntur.
+- Quinto, de his quae circa celebrationem huius mysterii fiunt.
+- Sexto, de defectibus qui circa celebrationem huius sacramenti occurrunt.

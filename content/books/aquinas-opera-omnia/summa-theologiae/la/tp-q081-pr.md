@@ -1,9 +1,9 @@
-# Quaestio 81 — Deinde considerandum est de usu huius sacramenti quo Christus usus est in prima sui institutione. Et circa hoc quaeruntur quatuor.
+# Quaestio 81
 
-Primo, utrum ipse Christus sumpserit corpus et sanguinem suum.
+Deinde considerandum est de usu huius sacramenti quo Christus usus est in prima sui institutione. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum Iudae dederit.
+Primo, utrum ipse Christus sumpserit corpus et sanguinem suum.  
 
-Tertio, quale corpus sumpserit aut dederit, scilicet passibile vel impassibile.
-
-Quarto, quomodo se habuisset Christus sub hoc sacramento si fuisset in triduo mortis reservatum, aut etiam consecratum.
+- Secundo, utrum Iudae dederit.
+- Tertio, quale corpus sumpserit aut dederit, scilicet passibile vel impassibile.
+- Quarto, quomodo se habuisset Christus sub hoc sacramento si fuisset in triduo mortis reservatum, aut etiam consecratum.

@@ -1,9 +1,9 @@
-# Quaestio 109 — Deinde considerandum est de veritate, et vitiis oppositis. Circa veritatem autem quaeruntur quatuor.
+# Quaestio 109
 
-Primo, utrum veritas sit virtus.
+Deinde considerandum est de veritate, et vitiis oppositis. Circa veritatem autem quaeruntur quatuor.  
 
-Secundo, utrum sit virtus specialis.
+Primo, utrum veritas sit virtus.  
 
-Tertio, utrum sit pars iustitiae.
-
-Quarto, utrum magis declinet ad minus.
+- Secundo, utrum sit virtus specialis.
+- Tertio, utrum sit pars iustitiae.
+- Quarto, utrum magis declinet ad minus.

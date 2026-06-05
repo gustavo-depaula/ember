@@ -1,9 +1,9 @@
-# Question 80 — We must now consider the cause of sin, as regards the devil; and under this head there are four points of inquiry:
+# Question 80 — Of the Cause of Sin, as Regards the Devil
 
-(1) Whether the devil is directly the cause of sin?
+We must now consider the cause of sin, as regards the devil; and under this head there are four points of inquiry:  
 
-(2) Whether the devil induces us to sin, by persuading us inwardly?
+(1) Whether the devil is directly the cause of sin?  
 
-(3) Whether he can make us sin of necessity?
-
-(4) Whether all sins are due to the devil's suggestion?
+- (2) Whether the devil induces us to sin, by persuading us inwardly?
+- (3) Whether he can make us sin of necessity?
+- (4) Whether all sins are due to the devil’s suggestion?

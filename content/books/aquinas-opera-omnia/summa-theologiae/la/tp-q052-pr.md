@@ -1,17 +1,13 @@
-# Quaestio 52 — Deinde considerandum est de descensu Christi ad Inferos. Et circa hoc quaeruntur octo.
+# Quaestio 52
 
-Primo, utrum conveniens fuerit Christum ad Inferos descendere.
+Deinde considerandum est de descensu Christi ad Inferos. Et circa hoc quaeruntur octo.  
 
-Secundo, in quem Infernum descenderit.
+Primo, utrum conveniens fuerit Christum ad Inferos descendere.  
 
-Tertio, utrum totus fuerit in Inferno.
-
-Quarto, utrum aliquam moram ibi contraxerit.
-
-Quinto, utrum sanctos patres ab Inferno liberaverit.
-
-Sexto, utrum ab Inferno liberaverit damnatos.
-
-Septimo, utrum liberaverit pueros in peccato originali defunctos.
-
-Octavo, utrum liberaverit homines de Purgatorio.
+- Secundo, in quem Infernum descenderit.
+- Tertio, utrum totus fuerit in Inferno.
+- Quarto, utrum aliquam moram ibi contraxerit.
+- Quinto, utrum sanctos patres ab Inferno liberaverit.
+- Sexto, utrum ab Inferno liberaverit damnatos.
+- Septimo, utrum liberaverit pueros in peccato originali defunctos.
+- Octavo, utrum liberaverit homines de Purgatorio.

@@ -1,9 +1,10 @@
-# Question 3 — Question: 3 [ << | >> ]
+# Question 3 — The Degree of Contrition
 
-We must now consider the degree of contrition: under which head there are three points of inquiry:
+***We must now consider the degree of contrition.***
 
-(1) Whether contrition is the greatest possible sorrow in the world?
+Under this head there are three points of inquiry:  
 
-(2) Whether the sorrow of contrition can be too great?
+(1) Whether contrition is the greatest possible sorrow in the world?  
 
-(3) Whether sorrow for one sin ought to be greater than for another?
+- (2) Whether the sorrow of contrition can be too great?
+- (3) Whether sorrow for one sin ought to be greater than for another?

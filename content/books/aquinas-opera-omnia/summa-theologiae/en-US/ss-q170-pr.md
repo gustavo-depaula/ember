@@ -1,5 +1,7 @@
-# Question 170 — We must next consider the precepts of temperance:
+# Question 170 — The Precepts of Temperance
 
-(1) The precepts of temperance itself;
+***We must next consider the precepts of temperance:***
 
-(2) The precepts of its parts.
+(1) The precepts of temperance itself;  
+
+- (2) The precepts of its parts.

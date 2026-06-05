@@ -1,9 +1,9 @@
-# Question 65 — We must now consider other sinful injuries committed on the person. Under this head there are four points of inquiry:
+# Question 65 — Other Injuries Committed on the Person
 
-(1) The mutilation of members;
+We must now consider other sinful injuries committed on the person. Under this head there are four points of inquiry:  
 
-(2) Blows;
+(1) The mutilation of members;  
 
-(3) Imprisonment;
-
-(4) Whether the sins that consist in inflicting such like injuries are aggravated through being perpetrated on persons connected with others?
+- (2) Blows;
+- (3) Imprisonment;
+- (4) Whether the sins that consist in inflicting such like injuries are aggravated through being perpetrated on persons connected with others?

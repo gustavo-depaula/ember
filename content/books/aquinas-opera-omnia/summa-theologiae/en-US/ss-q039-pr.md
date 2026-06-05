@@ -1,9 +1,9 @@
-# Question 39 — We must now consider the vices contrary to peace, which belong to deeds: such are schism, strife, sedition, and war. In the first place, then, about schism, there are four points of inquiry:
+# Question 39 — Schism
 
-(1) Whether schism is a special sin?
+We must now consider the vices contrary to peace, which belong to deeds: such are schism, strife, sedition, and war. In the first place, then, about schism, there are four points of inquiry:  
 
-(2) Whether it is graver than unbelief?
+(1) Whether schism is a special sin?  
 
-(3) Of the power exercised by schismatics;
-
-(4) Of the punishment inflicted on them.
+- (2) Whether it is graver than unbelief?
+- (3) Of the power exercised by schismatics;
+- (4) Of the punishment inflicted on them.

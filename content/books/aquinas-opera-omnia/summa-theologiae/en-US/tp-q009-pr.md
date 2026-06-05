@@ -1,11 +1,11 @@
-# Question 9 — secondly, of each particular kind of knowledge He had.
+# Question 9 — Christ’s Knowledge in General
 
-Under the first head there are four points of inquiry:
+We must now consider Christ’s knowledge; concerning which the consideration will be twofold. First, of Christ’s knowledge in general; second, of each particular kind of knowledge He had.  
 
-(1) Whether Christ had any knowledge besides the Divine?
+Under the first head there are four points of inquiry:  
 
-(2) Whether He had the knowledge which the blessed or comprehensors have?
+(1) Whether Christ had any knowledge besides the Divine?  
 
-(3) Whether He had an imprinted or infused knowledge?
-
-(4) Whether He had any acquired knowledge?
+- (2) Whether He had the knowledge which the blessed or comprehensors have?
+- (3) Whether He had an imprinted or infused knowledge?
+- (4) Whether He had any acquired knowledge?

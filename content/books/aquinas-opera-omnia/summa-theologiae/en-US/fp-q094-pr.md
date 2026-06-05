@@ -1,16 +1,13 @@
-# Question 94 — secondly, as regards his body.
+# Question 94 — The State or Condition of the First Man as to His Intellect
 
-Circa primum consideranda sunt duo,
+We next consider the state or condition of the first man; first, as regards his soul; second, as regards his body.  
 
-primo, de conditione hominis quantum ad intellectum;
-secundo, de conditione hominis quantum ad voluntatem.
+Concerning the first there are two things to be considered: (1) The condition of man as to his intellect; (2) the condition of man as to his will.  
 
-Under the first head there are four points of inquiry:
+Under the first head there are four points of inquiry:  
 
-(1) Whether the first man saw the Essence of God?
+(1) Whether the first man saw the Essence of God?  
 
-(2) Whether he could see the separate substances, that is, the angels?
-
-(3) Whether he possessed all knowledge?
-
-(4) Whether he could err or be deceived?
+- (2) Whether he could see the separate substances, that is, the angels?
+- (3) Whether he possessed all knowledge?
+- (4) Whether he could err or be deceived?

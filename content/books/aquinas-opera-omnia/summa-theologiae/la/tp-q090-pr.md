@@ -1,11 +1,13 @@
-# Quaestio 90 — secundo, in speciali de singulis.
+# Quaestio 90
 
-Circa primum quaeruntur quatuor.
+***De partibus poenitentiae in generali***
 
-Primo, utrum poenitentia habeat partes.
+Deinde considerandum est de partibus poenitentiae. Et primo, in generali; secundo, in speciali de singulis.  
 
-Secundo, de numero partium.
+Circa primum quaeruntur quatuor.  
 
-Tertio, quales partes sint.
+Primo, utrum poenitentia habeat partes.  
 
-Quarto, de divisione eius in partes subiectivas.
+- Secundo, de numero partium.
+- Tertio, quales partes sint.
+- Quarto, de divisione eius in partes subiectivas.

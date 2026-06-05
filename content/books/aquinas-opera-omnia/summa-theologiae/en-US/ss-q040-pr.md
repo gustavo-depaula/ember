@@ -1,9 +1,9 @@
-# Question 40 — We must now consider war, under which head there are four points of inquiry:
+# Question 40 — War
 
-(1) Whether some kind of war is lawful?
+***We must now consider war, under which head there are four points of inquiry:***
 
-(2) Whether it is lawful for clerics to fight?
+(1) Whether some kind of war is lawful?  
 
-(3) Whether it is lawful for belligerents to lay ambushes?
-
-(4) Whether it is lawful to fight on holy days?
+- (2) Whether it is lawful for clerics to fight?
+- (3) Whether it is lawful for belligerents to lay ambushes?
+- (4) Whether it is lawful to fight on holy days?

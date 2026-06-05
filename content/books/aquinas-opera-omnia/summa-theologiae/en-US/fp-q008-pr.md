@@ -1,9 +1,9 @@
-# Question 8 — Since it evidently belongs to the infinite to be present everywhere, and in all things, we now consider whether this belongs to God; and concerning this there arise four points of inquiry:
+# Question 8 — The Existence of God in Things
 
-(1) Whether God is in all things?
+Since it evidently belongs to the infinite to be present everywhere, and in all things, we now consider whether this belongs to God; and concerning this there arise four points of inquiry:  
 
-(2) Whether God is everywhere?
+(1) Whether God is in all things?  
 
-(3) Whether God is everywhere by essence, power, and presence?
-
-(4) Whether to be everywhere belongs to God alone?
+- (2) Whether God is everywhere?
+- (3) Whether God is everywhere by essence, power, and presence?
+- (4) Whether to be everywhere belongs to God alone?

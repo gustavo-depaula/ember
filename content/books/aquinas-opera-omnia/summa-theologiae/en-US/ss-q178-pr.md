@@ -1,5 +1,7 @@
-# Question 178 — We must next consider the grace of miracles, under which head there are two points of inquiry:
+# Question 178 — The Grace of Miracles
 
-(1) Whether there is a gratuitous grace of working miracles?
+We must next consider the grace of miracles, under which head there are two points of inquiry:  
 
-(2) To whom is it becoming?
+(1) Whether there is a gratuitous grace of working miracles?  
+
+- (2) To whom is it becoming?

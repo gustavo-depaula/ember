@@ -1,9 +1,9 @@
-# Quaestio 111 — Deinde considerandum est de simulatione et hypocrisi. Et circa hoc quaeruntur quatuor.
+# Quaestio 111
 
-Primo, utrum omnis simulatio sit peccatum.
+Deinde considerandum est de simulatione et hypocrisi. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum hypocrisis sit simulatio.
+Primo, utrum omnis simulatio sit peccatum.  
 
-Tertio, utrum opponatur veritati.
-
-Quarto, utrum sit peccatum mortale.
+- Secundo, utrum hypocrisis sit simulatio.
+- Tertio, utrum opponatur veritati.
+- Quarto, utrum sit peccatum mortale.

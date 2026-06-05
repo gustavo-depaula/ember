@@ -1,15 +1,13 @@
-# Question 22 — Question: 22 [ << | >> ]
+# Question 22 — Who Can Excommunicate and Be Excommunicated
 
-We must now consider those who can excommunicate or be excommunicated. Under this head there are six points of inquiry:
+***We must now consider those who can excommunicate or be excommunicated.***
 
-(1) Whether every priest can excommunicate?
+Under this head there are six points of inquiry:  
 
-(2) Whether one who is not a priest can excommunicate?
+(1) Whether every priest can excommunicate?  
 
-(3) Whether one who is excommunicated or suspended, can excommunicate?
-
-(4) Whether anyone can excommunicate himself, or an equal, or a superior?
-
-(5) Whether a multitude can be excommunicated?
-
-(6) Whether one who is already excommunicated can be excommunicated again?
+- (2) Whether one who is not a priest can excommunicate?
+- (3) Whether one who is excommunicated or suspended can excommunicate?
+- (4) Whether anyone can excommunicate himself, or an equal, or a superior?
+- (5) Whether a university can be excommunicated?
+- (6) Whether one who is already excommunicated can be excommunicated again?

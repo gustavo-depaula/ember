@@ -1,7 +1,8 @@
-# Quaestio 119 — Deinde considerandum est de prodigalitate. Et circa hoc quaeruntur tria.
+# Quaestio 119
 
-Primo, utrum prodigalitas avaritiae opponatur.
+***Deinde considerandum est de prodigalitate. Et circa hoc quaeruntur tria.***
 
-Secundo, utrum prodigalitas sit peccatum.
+Primo, utrum prodigalitas avaritiae opponatur.  
 
-Tertio, utrum sit gravius peccatum quam avaritia.
+- Secundo, utrum prodigalitas sit peccatum.
+- Tertio, utrum sit gravius peccatum quam avaritia.

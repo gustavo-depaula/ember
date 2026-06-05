@@ -1,21 +1,17 @@
-# Quaestio 64 — secundo, de peccatis quae committuntur circa commutationes voluntarias.
+# Quaestio 64
 
-Committuntur autem peccata circa involuntarias commutationes per hoc quod aliquod nocumentum proximo infertur contra eius voluntatem, quod quidem potest fieri dupliciter, scilicet facto, et verbo. Facto quidem, cum proximus laeditur vel in persona propria; vel in persona coniuncta; vel in propriis rebus.
+***De homicidio***
 
-De his ergo per ordinem considerandum est. Et primo, de homicidio, per quod maxime nocetur proximo. Et circa hoc quaeruntur octo.
+Deinde considerandum est de vitiis oppositis commutativae iustitiae. Et primo considerandum est de peccatis quae committuntur circa involuntarias commutationes; secundo, de peccatis quae committuntur circa commutationes voluntarias. Committuntur autem peccata circa involuntarias commutationes per hoc quod aliquod nocumentum proximo infertur contra eius voluntatem, quod quidem potest fieri dupliciter, scilicet facto, et verbo. Facto quidem, cum proximus laeditur vel in persona propria; vel in persona coniuncta; vel in propriis rebus.  
 
-Primo, utrum occidere animalia bruta, vel etiam plantas, sit peccatum.
+De his ergo per ordinem considerandum est. Et primo, de homicidio, per quod maxime nocetur proximo. Et circa hoc quaeruntur octo.  
 
-Secundo, utrum occidere peccatorem sit licitum.
+Primo, utrum occidere animalia bruta, vel etiam plantas, sit peccatum.  
 
-Tertio, utrum hoc liceat privatae personae, vel solum publicae.
-
-Quarto, utrum hoc liceat clerico.
-
-Quinto, utrum liceat alicui occidere seipsum.
-
-Sexto, utrum liceat occidere hominem iustum.
-
-Septimo, utrum liceat alicui occidere hominem seipsum defendendo.
-
-Octavo, utrum homicidium casuale sit peccatum mortale.
+- Secundo, utrum occidere peccatorem sit licitum.
+- Tertio, utrum hoc liceat privatae personae, vel solum publicae.
+- Quarto, utrum hoc liceat clerico.
+- Quinto, utrum liceat alicui occidere seipsum.
+- Sexto, utrum liceat occidere hominem iustum.
+- Septimo, utrum liceat alicui occidere hominem seipsum defendendo.
+- Octavo, utrum homicidium casuale sit peccatum mortale.

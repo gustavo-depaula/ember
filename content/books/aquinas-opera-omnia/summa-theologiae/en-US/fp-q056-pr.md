@@ -1,7 +1,10 @@
-# Question 56 — We now inquire into the knowledge of the angels with regard to the objects known by them. We shall treat of their knowledge, first, of immaterial things, secondly of things material. Under the first heading there are three points of inquiry:
+# Question 56 — Angelic Knowledge of Immaterial Things
 
-(1) Does an angel know himself?
+We now inquire into the knowledge of the angels with regard to the objects known by them. We shall treat of their knowledge, first, of immaterial things, second of things material.  
 
-(2) Does one angel know another?
+Under the first heading there are three points of inquiry:  
 
-(3) Does the angel know God by his own natural principles?
+(1) Does an angel know himself?  
+
+- (2) Does one angel know another?
+- (3) Does the angel know God by his own natural principles?

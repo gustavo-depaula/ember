@@ -1,11 +1,11 @@
-# Quaestio 95 — Deinde considerandum est de his quae pertinent ad voluntatem primi hominis. Et circa hoc consideranda sunt duo, primo quidem, de gratia et iustitia primi hominis; secundo, de usu iustitiae quantum ad dominium super alia.
+# Quaestio 95
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de his quae pertinent ad voluntatem primi hominis. Et circa hoc consideranda sunt duo, primo quidem, de gratia et iustitia primi hominis; secundo, de usu iustitiae quantum ad dominium super alia.  
 
-Primo, utrum primus homo creatus fuerit in gratia.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum in statu innocentiae habuerit animae passiones.
+Primo, utrum primus homo creatus fuerit in gratia.  
 
-Tertio, utrum habuit virtutes omnes.
-
-Quarto, utrum opera eius fuissent aeque efficacia ad merendum, sicut modo sunt.
+- Secundo, utrum in statu innocentiae habuerit animae passiones.
+- Tertio, utrum habuit virtutes omnes.
+- Quarto, utrum opera eius fuissent aeque efficacia ad merendum, sicut modo sunt.

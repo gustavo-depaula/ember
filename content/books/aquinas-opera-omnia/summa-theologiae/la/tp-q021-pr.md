@@ -1,9 +1,9 @@
-# Quaestio 21 — Deinde considerandum est de oratione Christi. Et circa hoc quaeruntur quatuor.
+# Quaestio 21
 
-Primo, utrum Christo conveniat orare.
+***Deinde considerandum est de oratione Christi. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum conveniat sibi secundum suam sensualitatem.
+Primo, utrum Christo conveniat orare.  
 
-Tertio, utrum conveniat sibi orare pro seipso, an tantum pro aliis.
-
-Quarto, utrum omnis oratio eius sit exaudita.
+- Secundo, utrum conveniat sibi secundum suam sensualitatem.
+- Tertio, utrum conveniat sibi orare pro seipso, an tantum pro aliis.
+- Quarto, utrum omnis oratio eius sit exaudita.

@@ -1,9 +1,9 @@
-# Quaestio 45 — Deinde considerandum est de transfiguratione Christi. Et circa hoc quaeruntur quatuor.
+# Quaestio 45
 
-Primo, utrum conveniens fuerit Christum transfigurari.
+Deinde considerandum est de transfiguratione Christi. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum claritas transfigurationis fuerit claritas gloriosa.
+Primo, utrum conveniens fuerit Christum transfigurari.  
 
-Tertio, de testibus transfigurationis.
-
-Quarto, de testimonio paternae vocis.
+- Secundo, utrum claritas transfigurationis fuerit claritas gloriosa.
+- Tertio, de testibus transfigurationis.
+- Quarto, de testimonio paternae vocis.

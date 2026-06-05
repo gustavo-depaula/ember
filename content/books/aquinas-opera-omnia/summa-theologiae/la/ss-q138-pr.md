@@ -1,5 +1,7 @@
-# Quaestio 138 — Deinde considerandum est de vitiis oppositis perseverantiae. Et circa hoc quaeruntur duo.
+# Quaestio 138
 
-Primo, de mollitie.
+Deinde considerandum est de vitiis oppositis perseverantiae. Et circa hoc quaeruntur duo.  
 
-Secundo, de pertinacia.
+Primo, de mollitie.  
+
+- Secundo, de pertinacia.

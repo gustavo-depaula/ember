@@ -1,9 +1,9 @@
-# Quaestio 103 — Deinde considerandum est de duratione caeremonialium praeceptorum. Et circa hoc quaeruntur quatuor.
+# Quaestio 103
 
-Primo, utrum praecepta caeremonialia fuerint ante legem.
+Deinde considerandum est de duratione caeremonialium praeceptorum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum in lege aliquam virtutem habuerint iustificandi.
+Primo, utrum praecepta caeremonialia fuerint ante legem.  
 
-Tertio, utrum cessaverint Christo veniente.
-
-Quarto, utrum sit peccatum mortale observare ea post Christum.
+- Secundo, utrum in lege aliquam virtutem habuerint iustificandi.
+- Tertio, utrum cessaverint Christo veniente.
+- Quarto, utrum sit peccatum mortale observare ea post Christum.

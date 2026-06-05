@@ -1,19 +1,15 @@
-# Question 39 — Those things considered which belong to the divine persons absolutely, we next treat of what concerns the person in reference to the essence, to the properties, and to the notional acts; and of the comparison of these with each other.
+# Question 39 — The Persons in Relation to the Essence
 
-As regards the first of these, there are eight points of inquiry:
+Those things having been considered which belong to the divine persons absolutely, we next treat of what concerns the persons in reference to the essence, to the properties, and to the notional acts; and of the comparison of these with each other.  
 
-(1) Whether the essence in God is the same as the person?
+As regards the first of these, there are eight points of inquiry:  
 
-(2) Whether we should say that the three persons are of one essence?
+(1) Whether the essence in God is the same as the person?  
 
-(3) Whether essential names should be predicated of the persons in the plural, or in the singular?
-
-(4) Whether notional adjectives, or verbs, or participles, can be predicated of the essential names taken in a concrete sense?
-
-(5) Whether the same can be predicated of essential names taken in the abstract?
-
-(6) Whether the names of the persons can be predicated of concrete essential names?
-
-(7) Whether essential attributes can be appropriated to the persons?
-
-(8) Which attributes should be appropriated to each person?
+- (2) Whether we should say that the three persons are of one essence?
+- (3) Whether essential names should be predicated of the persons in the plural, or in the singular?
+- (4) Whether notional adjectives, or verbs, or participles, can be predicated of the essential names taken in a concrete sense?
+- (5) Whether the same can be predicated of essential names taken in the abstract?
+- (6) Whether the names of the persons can be predicated of concrete essential names?
+- (7) Whether essential attributes can be appropriated to the persons?
+- (8) Which attributes should be appropriated to each person?

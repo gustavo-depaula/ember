@@ -1,11 +1,11 @@
-# Question 117 — secondly in regard to the propagation of man from man.
+# Question 117 — Things Pertaining to the Action of Man
 
-As to the first, there are four points of inquiry:
+We have next to consider those things which pertain to the action of man, who is composed of a created corporeal and spiritual nature. In the first place we shall consider that action (in general) and second in regard to the propagation of man from man.  
 
-(1) Whether one man can teach another, as being the cause of his knowledge?
+As to the first, there are four points of inquiry:  
 
-(2) Whether man can teach an angel?
+(1) Whether one man can teach another, as being the cause of his knowledge?  
 
-(3) Whether by the power of his soul man can change corporeal matter?
-
-(4) Whether the separate soul of man can move bodies by local movement?
+- (2) Whether man can teach an angel?
+- (3) Whether by the power of his soul man can change corporeal matter?
+- (4) Whether the separate soul of man can move bodies by local movement?

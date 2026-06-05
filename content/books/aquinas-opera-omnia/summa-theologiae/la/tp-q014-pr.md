@@ -1,11 +1,11 @@
-# Quaestio 14 — secundo, de defectibus animae.
+# Quaestio 14
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de defectibus quos Christus in humana natura assumpsit. Et primo, de defectibus corporis; secundo, de defectibus animae.  
 
-Primo, utrum filius Dei assumere debuerit in humana natura corporis defectus.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum assumpserit necessitatem his defectibus subiacendi.
+Primo, utrum filius Dei assumere debuerit in humana natura corporis defectus.  
 
-Tertio, utrum hos defectus contraxerit.
-
-Quarto, utrum omnes huiusmodi defectus assumpserit.
+- Secundo, utrum assumpserit necessitatem his defectibus subiacendi.
+- Tertio, utrum hos defectus contraxerit.
+- Quarto, utrum omnes huiusmodi defectus assumpserit.

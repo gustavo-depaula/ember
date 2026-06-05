@@ -1,9 +1,9 @@
-# Quaestio 52 — Deinde considerandum est de dono consilii, quod respondet prudentiae. Et circa hoc quaeruntur quatuor.
+# Quaestio 52
 
-Primo, utrum consilium debeat poni inter septem dona spiritus sancti.
+Deinde considerandum est de dono consilii, quod respondet prudentiae. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum donum consilii respondeat virtuti prudentiae.
+Primo, utrum consilium debeat poni inter septem dona spiritus sancti.  
 
-Tertio, utrum donum consilii maneat in patria.
-
-Quarto, utrum quinta beatitudo, quae est, beati misericordes, respondeat dono consilii.
+- Secundo, utrum donum consilii respondeat virtuti prudentiae.
+- Tertio, utrum donum consilii maneat in patria.
+- Quarto, utrum quinta beatitudo, quae est, beati misericordes, respondeat dono consilii.

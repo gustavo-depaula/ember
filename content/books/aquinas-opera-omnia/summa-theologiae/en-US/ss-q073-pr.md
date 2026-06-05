@@ -1,9 +1,9 @@
-# Question 73 — We must now consider backbiting, under which head there are four points of inquiry:
+# Question 73 — Backbiting
 
-(1) What is backbiting?
+We must now consider backbiting, under which head there are four points of inquiry:  
 
-(2) Whether it is a mortal sin?
+(1) What is backbiting?  
 
-(3) Of its comparison with other sins;
-
-(4) Whether it is a sin to listen to backbiting?
+- (2) Whether it is a mortal sin?
+- (3) Of its comparison with other sins;
+- (4) Whether it is a sin to listen to backbiting?

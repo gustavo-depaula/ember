@@ -1,11 +1,11 @@
-# Question 67 — We must consider next the work of distinction in itself. First, the work of the first day; secondly, the work of the second day; thirdly the work of the third day.
+# Question 67 — The Work of Distinction and the First Day
 
-Under the first head there are four points of inquiry:
+We must consider next the work of distinction in itself. First, the work of the first day; second, the work of the second day; third, the work of the third day.  
 
-(1) Whether the word light is used in its proper sense in speaking of spiritual things?
+Under the first head there are four points of inquiry:  
 
-(2) Whether light, in corporeal things, is itself corporeal?
+(1) Whether the word light is used in its proper sense in speaking of spiritual things?  
 
-(3) Whether light is a quality?
-
-(4) Whether light was fittingly made on the first day?
+- (2) Whether light, in corporeal things, is itself corporeal?
+- (3) Whether light is a quality?
+- (4) Whether light was fittingly made on the first day?

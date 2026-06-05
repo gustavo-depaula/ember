@@ -1,13 +1,11 @@
-# Question 50 — We consider next the subject of habits: and under this head there are six points of inquiry:
+# Question 50 — Of the Subject of Habits
 
-(1) Whether there is a habit in the body?
+We consider next the subject of habits: and under this head there are six points of inquiry:  
 
-(2) Whether the soul is a subject of habit, in respect of its essence or in respect of its power?
+(1) Whether there is a habit in the body?  
 
-(3) Whether in the powers of the sensitive part there can be a habit?
-
-(4) Whether there is a habit in the intellect?
-
-(5) Whether there is a habit in the will?
-
-(6) Whether there is a habit in separate substances?
+- (2) Whether the soul is a subject of habit, in respect of its essence or in respect of its power?
+- (3) Whether in the powers of the sensitive part there can be a habit?
+- (4) Whether there is a habit in the intellect?
+- (5) Whether there is a habit in the will?
+- (6) Whether there is a habit in separate substances?

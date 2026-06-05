@@ -1,19 +1,17 @@
-# Quaestio 74 — quarto, de accidentibus panis et vini quae in hoc sacramento remanent.
+# Quaestio 74
 
-Circa primum quaeruntur octo.
+***De materia Eucharistae***
 
-Primo, utrum panis et vinum sint materia huius sacramenti.
+Deinde considerandum est de materia huius sacramenti. Et primo, de specie materiae; secundo, de conversione panis et vini in corpus Christi; tertio, de modo existendi corporis Christi in hoc sacramento; quarto, de accidentibus panis et vini quae in hoc sacramento remanent.  
 
-Secundo, utrum ad materiam huius sacramenti requiratur determinata quantitas.
+Circa primum quaeruntur octo.  
 
-Tertio, utrum materia huius sacramenti sit panis triticeus.
+Primo, utrum panis et vinum sint materia huius sacramenti.  
 
-Quarto, utrum sit panis azymus, vel fermentatus.
-
-Quinto, utrum materia huius sacramenti sit vinum de vite.
-
-Sexto, utrum sit admiscenda aqua.
-
-Septimo, utrum aqua sit de necessitate huius sacramenti.
-
-Octavo, de quantitate aquae quae apponitur.
+- Secundo, utrum ad materiam huius sacramenti requiratur determinata quantitas.
+- Tertio, utrum materia huius sacramenti sit panis triticeus.
+- Quarto, utrum sit panis azymus, vel fermentatus.
+- Quinto, utrum materia huius sacramenti sit vinum de vite.
+- Sexto, utrum sit admiscenda aqua.
+- Septimo, utrum aqua sit de necessitate huius sacramenti.
+- Octavo, de quantitate aquae quae apponitur.

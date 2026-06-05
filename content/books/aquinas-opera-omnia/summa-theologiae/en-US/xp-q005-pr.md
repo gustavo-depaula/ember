@@ -1,9 +1,10 @@
-# Question 5 — Question: 5 [ << | >> ]
+# Question 5 — The Effect of Contrition
 
-We must now consider the effect of contrition: under which head there are three points of inquiry:
+***We must now consider the effect of contrition.***
 
-(1) Whether the remission of sin is the effect of contrition?
+Under this head there are three points of inquiry:  
 
-(2) Whether contrition can take away the debt of punishment entirely?
+(1) Whether the remission of sin is the effect of contrition?  
 
-(3) Whether slight contrition suffices to blot out great sins?
+- (2) Whether contrition can take away the debt of punishment entirely?
+- (3) Whether slight contrition suffices to blot out great sins?

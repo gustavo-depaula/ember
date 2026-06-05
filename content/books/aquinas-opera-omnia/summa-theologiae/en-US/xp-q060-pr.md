@@ -1,7 +1,9 @@
-# Question 60 — Question: 60 [ << | >> ]
+# Question 60 — Uxoricide
 
-We must now consider wife-murder, under which head there are two points of inquiry:
+***We must now consider uxoricide.***
 
-(1) Whether in a certain case it is lawful to kill one's wife?
+Under this head there are two points of inquiry:  
 
-(2) Whether wife-murder is an impediment to marriage?
+(1) Whether in a certain case it is lawful to kill one’s wife?  
+
+- (2) Whether uxoricide is an impediment to marriage?

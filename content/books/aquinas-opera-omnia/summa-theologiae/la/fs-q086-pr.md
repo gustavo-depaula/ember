@@ -1,5 +1,7 @@
-# Quaestio 86 — Deinde considerandum est de macula peccati. Et circa hoc quaeruntur duo.
+# Quaestio 86
 
-Primo, utrum macula animae sit effectus peccati.
+***Deinde considerandum est de macula peccati. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum remaneat in anima post actum peccati.
+Primo, utrum macula animae sit effectus peccati.  
+
+- Secundo, utrum remaneat in anima post actum peccati.

@@ -1,11 +1,11 @@
-# Quaestio 77 — Circa alias enim commutationes voluntarias non invenitur aliqua species peccati quae distinguatur a rapina vel furto.
+# Quaestio 77
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de peccatis quae sunt circa voluntarias commutationes. Et primo, de fraudulentia quae committitur in emptionibus et venditionibus; secundo, de usura, quae fit in mutuis. Circa alias enim commutationes voluntarias non invenitur aliqua species peccati quae distinguatur a rapina vel furto.  
 
-Primo, de iniusta venditione ex parte pretii, scilicet, utrum liceat aliquid vendere plus quam valeat.
+Circa primum quaeruntur quatuor.  
 
-Secundo, de iniusta venditione ex parte rei venditae.
+Primo, de iniusta venditione ex parte pretii, scilicet, utrum liceat aliquid vendere plus quam valeat.  
 
-Tertio, utrum teneatur venditor dicere vitium rei venditae.
-
-Quarto, utrum licitum sit aliquid, negotiando, plus vendere quam emptum sit.
+- Secundo, de iniusta venditione ex parte rei venditae.
+- Tertio, utrum teneatur venditor dicere vitium rei venditae.
+- Quarto, utrum licitum sit aliquid, negotiando, plus vendere quam emptum sit.

@@ -1,21 +1,15 @@
-# Quaestio 4 — secundo, de coassumptis, quae sunt perfectiones et defectus.
+# Quaestio 4
 
-Assumpsit autem filius Dei humanam naturam, et partes eius. Unde circa primum triplex consideratio occurrit,
+Deinde considerandum est de unione ex parte assumpti. Circa quod primo considerandum occurrit de his quae sunt a verbo Dei assumpta; secundo, de coassumptis, quae sunt perfectiones et defectus.  
 
-prima est, quantum ad ipsam naturam humanam;
-secunda est, quantum ad partes ipsius;
-tertia, quantum ad ordinem assumptionis.
+Assumpsit autem filius Dei humanam naturam, et partes eius. Unde circa primum triplex consideratio occurrit, prima est, quantum ad ipsam naturam humanam; secunda est, quantum ad partes ipsius; tertia, quantum ad ordinem assumptionis.  
 
-Circa primum quaeruntur sex.
+Circa primum quaeruntur sex.  
 
-Primo, utrum humana natura fuerit magis assumptibilis a filio Dei quam aliqua alia natura.
+Primo, utrum humana natura fuerit magis assumptibilis a filio Dei quam aliqua alia natura.  
 
-Secundo, utrum assumpserit personam.
-
-Tertio, utrum assumpserit hominem.
-
-Quarto, utrum fuisset conveniens quod assumpsisset humanam naturam a singularibus separatam.
-
-Quinto, utrum fuerit conveniens quod assumpsisset humanam naturam in omnibus singularibus.
-
-Sexto, utrum fuerit conveniens quod assumeret humanam naturam in aliquo homine ex stirpe Adae progenito.
+- Secundo, utrum assumpserit personam.
+- Tertio, utrum assumpserit hominem.
+- Quarto, utrum fuisset conveniens quod assumpsisset humanam naturam a singularibus separatam.
+- Quinto, utrum fuerit conveniens quod assumpsisset humanam naturam in omnibus singularibus.
+- Sexto, utrum fuerit conveniens quod assumeret humanam naturam in aliquo homine ex stirpe Adae progenito.

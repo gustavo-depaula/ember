@@ -1,13 +1,11 @@
-# Question 91 — We must now consider the various kinds of law: under which head there are six points of inquiry:
+# Question 91 — Of the Various Kinds of Law
 
-(1) Whether there is an eternal law?
+We must now consider the various kinds of law: under which head there are six points of inquiry:  
 
-(2) Whether there is a natural law?
+(1) Whether there is an eternal law?  
 
-(3) Whether there is a human law?
-
-(4) Whether there is a Divine law?
-
-(5) Whether there is one Divine law, or several?
-
-(6) Whether there is a law of sin?
+- (2) Whether there is a natural law?
+- (3) Whether there is a human law?
+- (4) Whether there is a Divine law?
+- (5) Whether there is one Divine law, or several?
+- (6) Whether there is a law of sin?

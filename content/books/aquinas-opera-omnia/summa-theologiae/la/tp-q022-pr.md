@@ -1,13 +1,11 @@
-# Quaestio 22 — Deinde considerandum est de sacerdotio Christi. Et circa hoc quaeruntur sex.
+# Quaestio 22
 
-Primo, utrum conveniat Christo esse sacerdotem.
+***Deinde considerandum est de sacerdotio Christi. Et circa hoc quaeruntur sex.***
 
-Secundo, de hostia huius sacerdotis.
+Primo, utrum conveniat Christo esse sacerdotem.  
 
-Tertio, de effectu huius sacerdotii.
-
-Quarto, utrum effectus sacerdotii eius pertineat ad ipsum, vel solum ad alios.
-
-Quinto, de aeternitate sacerdotii eius.
-
-Sexto, utrum debeat dici sacerdos secundum ordinem Melchisedech.
+- Secundo, de hostia huius sacerdotis.
+- Tertio, de effectu huius sacerdotii.
+- Quarto, utrum effectus sacerdotii eius pertineat ad ipsum, vel solum ad alios.
+- Quinto, de aeternitate sacerdotii eius.
+- Sexto, utrum debeat dici sacerdos secundum ordinem Melchisedech.

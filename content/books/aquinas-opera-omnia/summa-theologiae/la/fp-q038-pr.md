@@ -1,5 +1,9 @@
-# Quaestio 38 — Consequenter quaeritur de dono. Et circa hoc quaeruntur duo.
+# Quaestio 38
 
-Primo, utrum donum possit esse nomen personale.
+***De nomine doni***
 
-Secundo, utrum sit proprium spiritus sancti.
+***Consequenter quaeritur de dono. Et circa hoc quaeruntur duo.***
+
+Primo, utrum donum possit esse nomen personale.  
+
+- Secundo, utrum sit proprium spiritus sancti.

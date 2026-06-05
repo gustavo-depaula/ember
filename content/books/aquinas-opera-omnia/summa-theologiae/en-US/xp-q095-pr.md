@@ -1,13 +1,12 @@
-# Question 95 — Question: 95 [ << | >> ]
+# Question 95 — The Gifts of the Blessed
 
-We must now consider the gifts of the blessed; under which head there are five points of inquiry:
+***We must now consider the gifts of the blessed.***
 
-(1) Whether any gifts should be assigned to the blessed?
+Under which head there are five points of inquiry:  
 
-(2) Whether a gift differs from beatitude?
+(1) Whether any gifts should be assigned to the blessed?  
 
-(3) Whether it is fitting for Christ to have gifts?
-
-(4) Whether this is competent to the angels?
-
-(5) Whether three gifts of the soul are rightly assigned?
+- (2) Whether a gift differs from beatitude?
+- (3) Whether it is fitting for Christ to have gifts?
+- (4) Whether this is competent to the angels?
+- (5) Whether three gifts of the soul are rightly assigned?

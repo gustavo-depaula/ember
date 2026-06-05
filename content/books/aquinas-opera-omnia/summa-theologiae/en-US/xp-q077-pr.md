@@ -1,11 +1,11 @@
-# Question 77 — Question: 77 [ << | >> ]
+# Question 77 — The Time and Manner of the Resurrection
 
-We must now consider the time and manner of the resurrection. Under this head there are four points of inquiry:
+***We must now consider the time and manner of the resurrection.***
 
-(1) Whether the time of the resurrection should be delayed until the end of the world?
+Under this head there are four points of inquiry:  
 
-(2) Whether that time is hidden?
+(1) Whether the time of the resurrection should be delayed until the end of the world?  
 
-(3) Whether the resurrection will occur at night-time?
-
-(4) Whether it will happen suddenly?
+- (2) Whether that time is hidden?
+- (3) Whether the resurrection will occur at night-time?
+- (4) Whether it will happen suddenly?

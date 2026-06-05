@@ -1,5 +1,7 @@
-# Quaestio 41 — [40668] II-IIae q. 41 pr. Deinde considerandum est de rixa. Et circa hoc quaeruntur duo.
+# Quaestio 41
 
-Primo, utrum rixa sit peccatum.
+***Deinde considerandum est de rixa. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum sit filia irae.
+Primo, utrum rixa sit peccatum.  
+
+- Secundo, utrum sit filia irae.

@@ -1,5 +1,7 @@
-# Quaestio 170 — Deinde considerandum est de praeceptis temperantiae.
+# Quaestio 170
 
-Et primo, de praeceptis ipsius temperantiae.
+***Deinde considerandum est de praeceptis temperantiae.***
 
-Secundo, de praeceptis partium eius.
+Et primo, de praeceptis ipsius temperantiae.  
+
+- Secundo, de praeceptis partium eius.

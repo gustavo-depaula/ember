@@ -1,19 +1,15 @@
-# Quaestio 4 — quarto, de effectibus eius.
+# Quaestio 4
 
-Circa primum quaeruntur octo.
+Deinde considerandum est de ipsa fidei virtute. Et primo quidem, de ipsa fide; secundo, de habentibus fidem; tertio, de causa fidei; quarto, de effectibus eius.  
 
-Primo, quid sit fides.
+Circa primum quaeruntur octo.  
 
-Secundo, in qua vi animae sit sicut in subiecto.
+Primo, quid sit fides.  
 
-Tertio, utrum forma eius sit caritas.
-
-Quarto, utrum eadem numero sit fides formata et informis.
-
-Quinto, utrum fides sit virtus.
-
-Sexto, utrum sit una virtus.
-
-Septimo, de ordine eius ad alias virtutes.
-
-Octavo, de comparatione certitudinis eius ad certitudinem virtutum intellectualium.
+- Secundo, in qua vi animae sit sicut in subiecto.
+- Tertio, utrum forma eius sit caritas.
+- Quarto, utrum eadem numero sit fides formata et informis.
+- Quinto, utrum fides sit virtus.
+- Sexto, utrum sit una virtus.
+- Septimo, de ordine eius ad alias virtutes.
+- Octavo, de comparatione certitudinis eius ad certitudinem virtutum intellectualium.

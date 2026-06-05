@@ -1,5 +1,7 @@
-# Question 43 — We must now consider the cause of fear: under which head there are two points of inquiry:
+# Question 43 — Of the Cause of Fear
 
-(1) Whether love is the cause of fear?
+We must now consider the cause of fear: under which head there are two points of inquiry:  
 
-(2) Whether defect is the cause of fear?
+(1) Whether love is the cause of fear?  
+
+- (2) Whether defect is the cause of fear?

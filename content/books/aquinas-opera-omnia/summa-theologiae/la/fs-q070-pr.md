@@ -1,9 +1,11 @@
-# Quaestio 70 — Deinde considerandum est de fructibus. Et circa hoc quaeruntur quatuor.
+# Quaestio 70
 
-Primo, utrum fructus spiritus sancti sint actus.
+***De fructibus Spiritus Sancti***
 
-Secundo, utrum differant a beatitudinibus.
+***Deinde considerandum est de fructibus. Et circa hoc quaeruntur quatuor.***
 
-Tertio, de eorum numero.
+Primo, utrum fructus spiritus sancti sint actus.  
 
-Quarto, de oppositione eorum ad opera carnis.
+- Secundo, utrum differant a beatitudinibus.
+- Tertio, de eorum numero.
+- Quarto, de oppositione eorum ad opera carnis.

@@ -1,11 +1,11 @@
-# Quaestio 70 — secundo, de praeparatoriis quae currunt simul cum Baptismo, scilicet de catechismo et exorcismo.
+# Quaestio 70
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de praeparatoriis ab Baptismum. Et primo quidem, de praeparatorio quod praecessit Baptismum, scilicet de circumcisione; secundo, de praeparatoriis quae currunt simul cum Baptismo, scilicet de catechismo et exorcismo.  
 
-Primo, utrum circumcisio fuerit praeparatoria et figurativa Baptismi.
+Circa primum quaeruntur quatuor.  
 
-Secundo, de institutione ipsius.
+Primo, utrum circumcisio fuerit praeparatoria et figurativa Baptismi.  
 
-Tertio, de ritu eius.
-
-Quarto, de effectu ipsius.
+- Secundo, de institutione ipsius.
+- Tertio, de ritu eius.
+- Quarto, de effectu ipsius.

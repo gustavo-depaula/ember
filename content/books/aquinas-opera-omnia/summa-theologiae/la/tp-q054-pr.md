@@ -1,9 +1,9 @@
-# Quaestio 54 — Deinde considerandum est de qualitate Christi resurgentis. Et circa hoc quaeruntur quatuor.
+# Quaestio 54
 
-Primo, utrum post resurrectionem Christus habuerit verum corpus.
+Deinde considerandum est de qualitate Christi resurgentis. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum resurrexit cum corporis integritate.
+Primo, utrum post resurrectionem Christus habuerit verum corpus.  
 
-Tertio, utrum corpus eius fuerit gloriosum.
-
-Quarto, de eius cicatricibus in corpore apparentibus.
+- Secundo, utrum resurrexit cum corporis integritate.
+- Tertio, utrum corpus eius fuerit gloriosum.
+- Quarto, de eius cicatricibus in corpore apparentibus.

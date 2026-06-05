@@ -1,11 +1,11 @@
-# Question 52 — Question: 52 [ << | >> ]
+# Question 52 — The Impediment of the Condition of Slavery
 
-We must now consider the impediment of the condition of slavery. Under this head there are four points of inquiry:
+***We must now consider the impediment of the condition of slavery.***
 
-(1) Whether the condition of slavery is an impediment to matrimony?
+Under this head there are four points of inquiry:  
 
-(2) Whether a slave can marry without his master's consent?
+(1) Whether the condition of slavery is an impediment to matrimony?  
 
-(3) Whether a man who is already married can make himself a slave without his wife's consent?
-
-(4) Whether the children should follow the condition of their father or of their mother?
+- (2) Whether a slave can marry without his master’s consent?
+- (3) Whether a man who is already married can make himself a slave without his wife’s consent?
+- (4) Whether the children should follow the condition of their father or of their mother?

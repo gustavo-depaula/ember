@@ -1,13 +1,11 @@
-# Quaestio 28 — Deinde considerandum est de effectibus amoris. Et circa hoc quaeruntur sex.
+# Quaestio 28
 
-Primo, utrum unio sit effectus amoris.
+***Deinde considerandum est de effectibus amoris. Et circa hoc quaeruntur sex.***
 
-Secundo, utrum mutua inhaesio.
+Primo, utrum unio sit effectus amoris.  
 
-Tertio, utrum extasis sit effectus amoris.
-
-Quarto, utrum zelus.
-
-Quinto, utrum amor sit passio laesiva amantis.
-
-Sexto, utrum amor sit causa omnium quae amans agit.
+- Secundo, utrum mutua inhaesio.
+- Tertio, utrum extasis sit effectus amoris.
+- Quarto, utrum zelus.
+- Quinto, utrum amor sit passio laesiva amantis.
+- Sexto, utrum amor sit causa omnium quae amans agit.

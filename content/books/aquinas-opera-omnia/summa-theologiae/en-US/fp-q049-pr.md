@@ -1,7 +1,8 @@
-# Question 49 — We next inquire into the cause of evil. Concerning this there are three points of inquire:
+# Question 49 — The Cause of Evil
 
-(1) Whether good can be the cause of evil?
+We next inquire into the cause of evil. Concerning this there are three points of inquiry:  
 
-(2) Whether the supreme good, God, is the cause of evil?
+(1) Whether good can be the cause of evil?  
 
-(3) Whether there be any supreme evil, which is the first cause of all evils?
+- (2) Whether the supreme good, God, is the cause of evil?
+- (3) Whether there be any supreme evil, which is the first cause of all evils?

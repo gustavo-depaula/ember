@@ -1,9 +1,9 @@
-# Quaestio 13 — Deinde considerandum est de potentia animae Christi. Et circa hoc quaeruntur quatuor.
+# Quaestio 13
 
-Primo, utrum habuerit omnipotentiam simpliciter.
+Deinde considerandum est de potentia animae Christi. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum habuerit omnipotentiam respectu corporalium creaturarum.
+Primo, utrum habuerit omnipotentiam simpliciter  
 
-Tertio, utrum habuerit omnipotentiam respectu proprii corporis.
-
-Quarto, utrum habuerit omnipotentiam respectu executionis propriae voluntatis.
+- secundo, utrum habuerit omnipotentiam respectu corporalium creaturarum.
+- Tertio, utrum habuerit omnipotentiam respectu proprii corporis.
+- Quarto, utrum habuerit omnipotentiam respectu executionis propriae voluntatis.

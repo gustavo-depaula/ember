@@ -1,9 +1,9 @@
-# Quaestio 54 — Deinde considerandum est de distinctione habituum. Et circa hoc quaeruntur quatuor.
+# Quaestio 54
 
-Primo, utrum multi habitus possint esse in una potentia.
+Deinde considerandum est de distinctione habituum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum habitus distinguantur secundum obiecta.
+Primo, utrum multi habitus possint esse in una potentia.  
 
-Tertio, utrum habitus distinguantur secundum bonum et malum.
-
-Quarto, utrum unus habitus ex multis habitibus constituatur.
+- Secundo, utrum habitus distinguantur secundum obiecta.
+- Tertio, utrum habitus distinguantur secundum bonum et malum.
+- Quarto, utrum unus habitus ex multis habitibus constituatur.

@@ -1,15 +1,15 @@
-# Question 5 — We next consider goodness: First, goodness in general. Secondly, the goodness of God.
+# Question 5 — Goodness in General
 
-Under the first head there are six points of inquiry:
+***We next consider goodness:***
 
-(1) Whether goodness and being are the same really?
+First, goodness in general. Second, the goodness of God.  
 
-(2) Granted that they differ only in idea, which is prior in thought?
+Under the first head there are six points of inquiry:  
 
-(3) Granted that being is prior, whether every being is good?
+(1) Whether goodness and being are the same really?  
 
-(4) To what cause should goodness be reduced?
-
-(5) Whether goodness consists in mode, species, and order?
-
-(6) Whether goodness is divided into the virtuous, the useful, and the pleasant?
+- (2) Granted that they differ only in account, which is prior in thought?
+- (3) Granted that being is prior, whether every being is good?
+- (4) To what cause should goodness be reduced?
+- (5) Whether goodness consists in mode, species, and order?
+- (6) Whether goodness is divided into the virtuous, the useful, and the pleasant?

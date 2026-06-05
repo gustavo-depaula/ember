@@ -1,9 +1,9 @@
-# Quaestio 15 — Deinde considerandum est de consensu. Et circa hoc quaeruntur quatuor.
+# Quaestio 15
 
-Primo, utrum consensus sit actus appetitivae, vel apprehensivae virtutis.
+***Deinde considerandum est de consensu. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum conveniat brutis animalibus.
+Primo, utrum consensus sit actus appetitivae, vel apprehensivae virtutis.  
 
-Tertio, utrum sit de fine, vel de his quae sunt ad finem.
-
-Quarto, utrum consensus in actum pertineat solum ad superiorem animae partem.
+- Secundo, utrum conveniat brutis animalibus.
+- Tertio, utrum sit de fine, vel de his quae sunt ad finem.
+- Quarto, utrum consensus in actum pertineat solum ad superiorem animae partem.

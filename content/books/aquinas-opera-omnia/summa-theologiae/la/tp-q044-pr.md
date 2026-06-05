@@ -1,9 +1,9 @@
-# Quaestio 44 — Deinde considerandum est de singulis miraculorum speciebus.
+# Quaestio 44
 
-Et primo, de miraculis quae fecit circa spirituales substantias.
+***Deinde considerandum est de singulis miraculorum speciebus.***
 
-Secundo, de miraculis quae fecit circa caelestia corpora.
+Et primo, de miraculis quae fecit circa spirituales substantias.  
 
-Tertio, de miraculis quae fecit circa homines.
-
-Quarto, de miraculis quae fecit circa creaturas irrationales.
+- Secundo, de miraculis quae fecit circa caelestia corpora.
+- Tertio, de miraculis quae fecit circa homines.
+- Quarto, de miraculis quae fecit circa creaturas irrationales.

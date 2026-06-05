@@ -1,7 +1,8 @@
-# Question 52 — We have now to consider the increase of habits; under which head there are three points of inquiry:
+# Question 52 — Of the Increase of Habits
 
-(1) Whether habits increase?
+We have now to consider the increase of habits; under which head there are three points of inquiry:  
 
-(2) Whether they increase by addition?
+(1) Whether habits increase?  
 
-(3) Whether each act increases the habit?
+- (2) Whether they increase by addition?
+- (3) Whether each act increases the habit?

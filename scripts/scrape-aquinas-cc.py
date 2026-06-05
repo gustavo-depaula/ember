@@ -810,7 +810,9 @@ def render_chapter(
 
     # Optionally skip the first row when it is an incipit-style summary that
     # duplicates the chapter title (common in hymns: pos N = single-line
-    # incipit, pos N+1 = full multi-line refrain).
+    # incipit, pos N+1 = full multi-line refrain — also Summa: pos N = the
+    # article's Latin/English title repeated, pos N+1 = "Ad primum sic
+    # proceditur" / "Objection 1").
     skip_idx = -1
     if end_idx - start_idx >= 2 and start_idx < len(rows) and start_idx < len(style_chars):
         first_style = style_chars[start_idx]
@@ -822,13 +824,33 @@ def render_chapter(
             return t.strip().lower()
         first_norm = _normalize_for_compare(first_text)
         next_norm = _normalize_for_compare(next_text)
+        title_norm = _normalize_for_compare(title)
+        # Strip "article N" / "question N" / "articulus N" / "quaestio N"
+        # prefixes from the title before comparing.
+        title_norm = re.sub(
+            r"^(?:article|articulus|question|quaestio)\s+\d+\s*",
+            "", title_norm,
+        )
         is_incipit_dup = (
             first_style in STYLE_HEADERS
             and first_norm
             and next_norm
             and (first_norm in next_norm or next_norm.startswith(first_norm))
         )
-        if is_incipit_dup:
+        # Also dedupe against the chapter title — covers the Summa case where
+        # the article's title row arrives as a header-style row immediately
+        # after the H1 we already emitted.
+        is_title_dup = (
+            first_style in STYLE_HEADERS
+            and first_norm
+            and title_norm
+            and (
+                first_norm == title_norm
+                or first_norm in title_norm
+                or title_norm in first_norm
+            )
+        )
+        if is_incipit_dup or is_title_dup:
             skip_idx = start_idx
 
     last_was_blank = True
@@ -1072,6 +1094,314 @@ def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
 
 
 # ---------------------------------------------------------------------------
+# Summa Theologiae — special multi-part bilingual build from aquinas.cc
+# ---------------------------------------------------------------------------
+
+# 10 widths, two per Part. Each row of the tuple is
+#   (wid, did_la, did_en, rows, q_start, q_end_inclusive)
+# The q_start/q_end let us validate that each Question we extract belongs to
+# the wid we expect, defending against any aquinas.cc renumbering.
+SUMMA_WIDS: dict[str, list[tuple[int, int, int, int, int, int]]] = {
+    "FP": [
+        (15, 56, 57,  3746,   1,  49),
+        (16, 60, 61,  4520,  50, 119),
+    ],
+    "FS": [
+        (17, 64, 66,  4717,   1,  70),
+        (18, 68, 70,  3424,  71, 114),
+    ],
+    "SS": [
+        (19, 72, 74,  6418,   1,  91),
+        (20, 76, 78,  5685,  92, 189),
+    ],
+    "TP": [
+        (21, 80, 82,  4278,   1,  59),
+        (22, 84, 86,  3085,  60,  90),
+    ],
+    "XP": [
+        (23, 88, 89,  4284,   1,  68),
+        (24, 91, 92,  2810,  69,  99),
+    ],
+}
+
+SUMMA_PART_LABELS = {
+    "FP": ("Prima Pars",          "First Part",                    "I"),
+    "FS": ("Prima Secundae",      "First Part of the Second Part", "I-II"),
+    "SS": ("Secunda Secundae",    "Second Part of the Second Part","II-II"),
+    "TP": ("Tertia Pars",         "Third Part",                    "III"),
+    "XP": ("Supplementum",        "Supplement",                    "Suppl."),
+}
+
+# Maps the aquinas.cc Part ref segment to our canonical Part code.
+SUMMA_REF_TO_PART = {
+    "I":      "FP",
+    "I-II":   "FS",
+    "II-II":  "SS",
+    "III":    "TP",
+    "IIISup": "XP",
+}
+
+# Article ref pattern: ST.<part>.Q<n>.A<m> (the leaf article anchor on the site).
+SUMMA_ARTICLE_RE = re.compile(r"^ST\.([A-Za-z-]+)\.Q(\d+)\.A(\d+)$")
+# Question ref pattern: ST.<part>.Q<n>
+SUMMA_QUESTION_RE = re.compile(r"^ST\.([A-Za-z-]+)\.Q(\d+)$")
+
+
+def _summa_extract_articles(outline: OutlineNode) -> list[dict]:
+    """Walk the outline of one Summa wid and return a flat list of articles.
+
+    Each entry: {part, q, a, position, q_node, a_node}.
+
+    A question's proem (the "Under this head there are N points of inquiry"
+    block) lives between the Question node and its first Article child. We
+    capture proem boundaries separately as entries with a=0.
+    """
+    out: list[dict] = []
+    # Walk top-level children (questions)
+    for q_node in outline.children:
+        qm = SUMMA_QUESTION_RE.match(q_node.ref or "")
+        if not qm:
+            continue
+        part_ref = qm.group(1)
+        q_num = int(qm.group(2))
+        part = SUMMA_REF_TO_PART.get(part_ref)
+        if not part:
+            continue
+        # Collect article children sorted by position
+        articles = []
+        for child in q_node.children:
+            am = SUMMA_ARTICLE_RE.match(child.ref or "")
+            if not am:
+                continue
+            if int(am.group(2)) != q_num:
+                continue
+            articles.append((int(am.group(3)), child))
+        articles.sort(key=lambda x: x[1].position)
+        # Proem: from question position to first article position
+        if articles:
+            first_a_pos = articles[0][1].position
+            if first_a_pos > q_node.position:
+                out.append({
+                    "part": part, "q": q_num, "a": 0,
+                    "position": q_node.position,
+                    "end_position": first_a_pos,
+                    "title": q_node.title,
+                })
+        # Each article
+        for idx, (a_num, a_node) in enumerate(articles):
+            if idx + 1 < len(articles):
+                end = articles[idx + 1][1].position
+            else:
+                # last article in this question: end at next question's position
+                end = -1  # filled in below
+            out.append({
+                "part": part, "q": q_num, "a": a_num,
+                "position": a_node.position,
+                "end_position": end,
+                "title": a_node.title,
+            })
+    # Fill in end_position for last-article-in-question entries.
+    # Walk in order; each entry's end_position becomes the next entry's position.
+    for i in range(len(out) - 1):
+        if out[i]["end_position"] == -1:
+            out[i]["end_position"] = out[i + 1]["position"]
+    if out and out[-1]["end_position"] == -1:
+        # Last article overall — open-ended; render_chapter will clamp.
+        out[-1]["end_position"] = 10_000_000
+    return out
+
+
+def _summa_chapter_id(part: str, q: int, a: int) -> str:
+    if a == 0:
+        return f"{part.lower()}-q{q:03d}-pr"
+    return f"{part.lower()}-q{q:03d}-a{a:02d}"
+
+
+def _summa_clean_title(raw: str) -> str:
+    # The Q titles arrive like "Q. 1 - Faith<n-sh id='ni_19_9'></n-sh>" and
+    # article titles like "A. 3 - Whether confession is necessary?<n-sh ...>".
+    # Strip the trailing <n-sh> placeholder and the leading "Q. N - " /
+    # "A. N - " prefix.
+    s = re.sub(r"<n-sh[^>]*></n-sh>", "", raw or "").strip()
+    s = re.sub(r"^[QA]\.\s*\d+\s*-\s*", "", s).strip()
+    return s
+
+
+def build_summa_theologiae(dry_run: bool = False) -> dict:
+    """Replace `summa-theologiae/` with the aquinas.cc bilingual edition.
+
+    Preserves the canonical chapter id convention `{part}-q{NNN}-a{NN}` (and
+    `-pr` for question proems). Builds a 3-level TOC: Part → Question →
+    Article. The English column on aquinas.cc is the Shapcote translation
+    (PD) revised by the Aquinas Institute, paired row-for-row with the
+    Leonine Latin.
+    """
+    book_dir = BOOKS_ROOT / "summa-theologiae"
+    en_dir = book_dir / "en-US"
+    la_dir = book_dir / "la"
+    if not dry_run:
+        # Clear old content to ensure no stale Geremia files survive.
+        for sub in (en_dir, la_dir):
+            if sub.is_dir():
+                for f in sub.glob("*.md"):
+                    f.unlink()
+            sub.mkdir(parents=True, exist_ok=True)
+
+    toc: list[dict] = []
+    total = 0
+    fake = OutlineNode(title="", ref="", position=0, children=[])
+
+    for part_code in ["FP", "FS", "SS", "TP", "XP"]:
+        la_name, en_name, roman = SUMMA_PART_LABELS[part_code]
+        part_node = {
+            "id": part_code.lower(),
+            "title": {
+                "en-US": f"Part {roman} — {en_name}",
+                "la": la_name,
+            },
+            "children": [],
+        }
+        q_to_node: dict[int, dict] = {}
+
+        for wid, did_la, did_en, rows, q_start, q_end in SUMMA_WIDS[part_code]:
+            print(f"  [summa] {part_code} wid={wid} Q{q_start}-{q_end} ({rows} rows)")
+            style_chars, outline_dict = fetch_structure(wid)
+            root = parse_outline(outline_dict)
+            articles = _summa_extract_articles(root)
+            if not articles:
+                print(f"    warn: no articles extracted from wid={wid}")
+                continue
+            la_rows = fetch_cells(did_la, rows)
+            en_rows = fetch_cells(did_en, rows)
+            for entry in articles:
+                part = entry["part"]
+                if part != part_code:
+                    print(f"    warn: skipping {part} entry in {part_code} wid={wid}: Q{entry['q']}.A{entry['a']}")
+                    continue
+                q_num, a_num = entry["q"], entry["a"]
+                title_en_clean = _summa_clean_title(entry["title"]) or (
+                    "Prooemium" if a_num == 0 else f"Article {a_num}"
+                )
+                if a_num == 0:
+                    chap_title_en = f"Question {q_num} — {title_en_clean}" if title_en_clean != "Prooemium" else "Prooemium"
+                    chap_title_la = f"Quaestio {q_num}"
+                else:
+                    chap_title_en = f"Article {a_num} — {title_en_clean}"
+                    chap_title_la = f"Articulus {a_num}"
+                chap = OutlineNode(
+                    title=chap_title_en,
+                    ref="",
+                    position=entry["position"],
+                    children=[],
+                )
+                chap_la = OutlineNode(
+                    title=chap_title_la,
+                    ref="",
+                    position=entry["position"],
+                    children=[],
+                )
+                cid = _summa_chapter_id(part, q_num, a_num)
+                end_pos = entry["end_position"]
+                # Render bodies
+                md_en = render_chapter(
+                    chap, style_chars, la_rows, en_rows, "en-US", end_pos,
+                    fallback_title=chap_title_en,
+                )
+                md_la = render_chapter(
+                    chap_la, style_chars, la_rows, en_rows, "la", end_pos,
+                    fallback_title=chap_title_la,
+                )
+                if not dry_run:
+                    (en_dir / f"{cid}.md").write_text(md_en, encoding="utf-8")
+                    (la_dir / f"{cid}.md").write_text(md_la, encoding="utf-8")
+                # Question TOC entry
+                if q_num not in q_to_node:
+                    q_to_node[q_num] = {
+                        "id": f"{part.lower()}-q{q_num:03d}",
+                        "title": {
+                            "en-US": f"Question {q_num}",
+                            "la": f"Quaestio {q_num}",
+                        },
+                        "children": [],
+                    }
+                # Article/proem TOC entry
+                if a_num == 0:
+                    q_to_node[q_num]["children"].append({
+                        "id": cid,
+                        "title": {"en-US": "Prooemium", "la": "Prooemium"},
+                    })
+                else:
+                    node_en = f"Article {a_num}"
+                    if title_en_clean:
+                        node_en += f" — {title_en_clean}"
+                    q_to_node[q_num]["children"].append({
+                        "id": cid,
+                        "title": {
+                            "en-US": node_en,
+                            "la": f"Articulus {a_num}",
+                        },
+                    })
+                total += 1
+
+        # Attach questions in numeric order
+        for q_num in sorted(q_to_node):
+            # Update the question's en title with the actual question text, if
+            # we captured one from the proem entry's title field.
+            part_node["children"].append(q_to_node[q_num])
+        if part_node["children"]:
+            toc.append(part_node)
+
+    # Pull Q titles from the rows themselves (aquinas.cc puts the topic in the
+    # Q node's title on the outline — we already extracted it as the proem
+    # entry's title; re-attach to the Question TOC node).
+    # Walk again, briefer, to enrich titles using the proem entries we wrote.
+    for part_entry in toc:
+        for q_entry in part_entry["children"]:
+            cid_pr = q_entry["children"][0]["id"] if q_entry["children"] else None
+            if cid_pr and cid_pr.endswith("-pr"):
+                # Read the proem file's H1
+                f = en_dir / f"{cid_pr}.md"
+                if f.is_file():
+                    first_line = f.read_text().splitlines()[0]
+                    if first_line.startswith("# "):
+                        title = first_line[2:].strip()
+                        # The proem title was the question's own title.
+                        if title:
+                            q_entry["title"]["en-US"] = f"Question {q_entry['id'].split('-q')[1]} — {title}"
+
+    manifest = {
+        "id": "aquinas-summa-theologiae",
+        "name": {"en-US": "Summa Theologiae", "la": "Summa Theologiae"},
+        "author": dict(AUTHOR),
+        "description": {
+            "en-US": "Aquinas's unfinished theological masterwork (1265–1274), the architecture of Catholic theology for seven centuries. Question-and-article form: objection, sed contra, respondeo, replies. Latin Leonine edition paired bilingually with the English translation of Fr. Laurence Shapcote OP (Benziger 1911–1925, public domain), revised by the Aquinas Institute.",
+            "la": "Opus theologicum magnum, inchoatum 1265, morte interruptum 1273. Forma quaestionum et articulorum: obiectiones, sed contra, respondeo, ad obiecta.",
+        },
+        "composed": "1265–1273",
+        "languages": ["en-US", "la"],
+        "sources": [
+            {
+                "language": "en-US",
+                "url": "https://aquinas.cc/la/en/~Summa Theologiae",
+                "description": "Shapcote / Fathers of the English Dominican Province (Benziger 1911–1925, public domain) as revised by the Aquinas Institute; bilingual edition mirrored from aquinas.cc.",
+            },
+            {
+                "language": "la",
+                "url": "https://aquinas.cc/la/en/~Summa Theologiae",
+                "description": "Latin Leonine / Marietti editions (public domain), mirrored from aquinas.cc.",
+            },
+        ],
+        "toc": toc,
+    }
+    if not dry_run:
+        (book_dir / "book.json").write_text(
+            json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+    return {"book": "aquinas-summa-theologiae", "articles": total}
+
+
+# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
 
@@ -1116,6 +1446,9 @@ def main() -> int:
         cmd_work(sys.argv[2])
     elif cmd == "all":
         cmd_all()
+    elif cmd == "summa":
+        result = build_summa_theologiae()
+        print(json.dumps(result, indent=2))
     else:
         print(f"unknown command: {cmd}")
         return 1

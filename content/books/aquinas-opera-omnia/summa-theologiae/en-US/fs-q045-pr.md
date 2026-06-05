@@ -1,9 +1,9 @@
-# Question 45 — We must now consider daring: under which head there are four points of inquiry:
+# Question 45 — Of Daring
 
-(1) Whether daring is contrary to fear?
+***We must now consider daring: under which head there are four points of inquiry:***
 
-(2) How is daring related to hope?
+(1) Whether daring is contrary to fear?  
 
-(3) Of the cause of daring;
-
-(4) Of its effect.
+- (2) How is daring related to hope?
+- (3) Of the cause of daring;
+- (4) Of its effect.

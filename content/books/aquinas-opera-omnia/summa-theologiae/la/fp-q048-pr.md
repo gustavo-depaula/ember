@@ -1,17 +1,15 @@
-# Quaestio 48 — Deinde considerandum est de distinctione rerum in speciali. Et primo, de distinctione boni et mali; deinde de distinctione spiritualis et corporalis creaturae.
+# Quaestio 48
 
-Circa primum, quaerendum est de malo; et de causa mali.
+Deinde considerandum est de distinctione rerum in speciali. Et primo, de distinctione boni et mali; deinde de distinctione spiritualis et corporalis creaturae.  
 
-Circa malum quaeruntur sex.
+Circa primum, quaerendum est de malo; et de causa mali.  
 
-Primo, utrum malum sit natura aliqua.
+Circa malum quaeruntur sex.  
 
-Secundo, utrum malum inveniatur in rebus.
+Primo, utrum malum sit natura aliqua.  
 
-Tertio, utrum bonum sit subiectum mali.
-
-Quarto, utrum malum totaliter corrumpat bonum.
-
-Quinto, de divisione mali per poenam et culpam.
-
-Sexto, quid habeat plus de ratione mali, utrum poena vel culpa.
+- Secundo, utrum malum inveniatur in rebus.
+- Tertio, utrum bonum sit subiectum mali.
+- Quarto, utrum malum totaliter corrumpat bonum.
+- Quinto, de divisione mali per poenam et culpam.
+- Sexto, quid habeat plus de ratione mali, utrum poena vel culpa.

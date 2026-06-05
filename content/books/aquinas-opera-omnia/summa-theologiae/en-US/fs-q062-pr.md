@@ -1,9 +1,9 @@
-# Question 62 — We must now consider the Theological Virtues: under which head there are four points of inquiry:
+# Question 62 — Of the Theological Virtues
 
-(1) Whether there are any theological virtues?
+We must now consider the Theological Virtues: under which head there are four points of inquiry:  
 
-(2) Whether the theological virtues are distinct from the intellectual and moral virtues?
+(1) Whether there are any theological virtues?  
 
-(3) How many, and which are they?
-
-(4) Of their order.
+- (2) Whether the theological virtues are distinct from the intellectual and moral virtues?
+- (3) How many, and which are they?
+- (4) Of their order.

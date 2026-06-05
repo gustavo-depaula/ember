@@ -1,19 +1,15 @@
-# Quaestio 106 — tertio, quomodo homines, qui sunt ex spirituali et corporali natura compositi.
+# Quaestio 106
 
-Circa primum tria consideranda occurrunt,
+Deinde considerandum est quomodo una creatura moveat aliam. Erit autem haec consideratio tripartita, ut primo consideremus quomodo angeli moveant, qui sunt creaturae pure spirituales; secundo, quomodo corpora moveant; tertio, quomodo homines, qui sunt ex spirituali et corporali natura compositi.  
 
-primo, quomodo Angelus agat in Angelum;
-secundo, quomodo in creaturam corporalem;
-tertio, quomodo in homines.
+Circa primum tria consideranda occurrunt, primo, quomodo angelus agat in angelum; secundo, quomodo in creaturam corporalem; tertio, quomodo in homines.  
 
-Circa primum, considerare oportet de illuminatione, et locutione Angelorum, et ordinatione eorum ad invicem, tam bonorum, quam malorum.
+Circa primum, considerare oportet de illuminatione, et locutione angelorum, et ordinatione eorum ad invicem, tam bonorum, quam malorum.  
 
-Circa illuminationem quaeruntur quatuor.
+Circa illuminationem quaeruntur quatuor.  
 
-Primo, utrum unus Angelus moveat intellectum alterius illuminando.
+Primo, utrum unus angelus moveat intellectum alterius illuminando.  
 
-Secundo, utrum unus moveat voluntatem alterius.
-
-Tertio, utrum inferior Angelus possit illuminare superiorem.
-
-Quarto, utrum superior Angelus illuminet inferiorem de omnibus quae cognoscit.
+- Secundo, utrum unus moveat voluntatem alterius.
+- Tertio, utrum inferior angelus possit illuminare superiorem.
+- Quarto, utrum superior angelus illuminet inferiorem de omnibus quae cognoscit.

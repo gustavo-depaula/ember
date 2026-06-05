@@ -1,9 +1,9 @@
-# Quaestio 25 — Deinde considerandum est de ordine passionum ad invicem. Et circa hoc quaeruntur quatuor.
+# Quaestio 25
 
-Primo, de ordine passionum irascibilis ad passiones concupiscibilis.
+Deinde considerandum est de ordine passionum ad invicem. Et circa hoc quaeruntur quatuor.  
 
-Secundo, de ordine passionum concupiscibilis ad invicem.
+Primo, de ordine passionum irascibilis ad passiones concupiscibilis.  
 
-Tertio, de ordine passionum irascibilis ad invicem.
-
-Quarto, de quatuor principalibus passionibus.
+- Secundo, de ordine passionum concupiscibilis ad invicem.
+- Tertio, de ordine passionum irascibilis ad invicem.
+- Quarto, de quatuor principalibus passionibus.

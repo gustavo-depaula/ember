@@ -1,17 +1,13 @@
-# Quaestio 185 — Deinde considerandum est de his quae pertinent ad statum episcoporum. Et circa hoc quaeruntur octo.
+# Quaestio 185
 
-Primo, utrum liceat episcopatum appetere.
+Deinde considerandum est de his quae pertinent ad statum episcoporum. Et circa hoc quaeruntur octo.  
 
-Secundo, utrum liceat episcopatum finaliter recusare.
+Primo, utrum liceat episcopatum appetere.  
 
-Tertio, utrum oporteat ad episcopatum eligere meliorem.
-
-Quarto, utrum episcopus possit ad religionem transire.
-
-Quinto, utrum liceat ei corporaliter suos subditos deserere.
-
-Sexto, utrum possit habere proprium.
-
-Septimo, utrum peccet mortaliter bona ecclesiastica pauperibus non erogando.
-
-Octavo, utrum religiosi qui ad episcopatum assumuntur, teneantur ad observantias regulares.
+- Secundo, utrum liceat episcopatum finaliter recusare.
+- Tertio, utrum oporteat ad episcopatum eligere meliorem.
+- Quarto, utrum episcopus possit ad religionem transire.
+- Quinto, utrum liceat ei corporaliter suos subditos deserere.
+- Sexto, utrum possit habere proprium.
+- Septimo, utrum peccet mortaliter bona ecclesiastica pauperibus non erogando.
+- Octavo, utrum religiosi qui ad episcopatum assumuntur, teneantur ad observantias regulares.

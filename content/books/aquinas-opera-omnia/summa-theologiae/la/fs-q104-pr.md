@@ -1,11 +1,9 @@
-# Quaestio 104 — secundo, de rationibus eorum.
+# Quaestio 104
 
-Circa primum quaeruntur quatuor.
+Consequenter considerandum est de praeceptis iudicialibus. Et primo, considerandum est de ipsis in communi; secundo, de rationibus eorum. Circa primum quaeruntur quatuor.  
 
-Primo, quae sint iudicialia praecepta.
+Primo, quae sint iudicialia praecepta.  
 
-Secundo, utrum sint figuralia.
-
-Tertio, de duratione eorum.
-
-Quarto, de distinctione eorum.
+- Secundo, utrum sint figuralia.
+- Tertio, de duratione eorum.
+- Quarto, de distinctione eorum.

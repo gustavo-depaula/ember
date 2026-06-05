@@ -1,9 +1,9 @@
-# Question 13 — We must now consider the power of Christ's soul; and under this head there are four points of inquiry:
+# Question 13 — The Power of Christ’s Soul
 
-(1) Whether He had omnipotence simply?
+We must now consider the power of Christ’s soul; and under this head there are four points of inquiry:  
 
-(2) Whether He had omnipotence with regard to corporeal creatures?
+(1) Whether He had omnipotence simply?  
 
-(3) Whether He had omnipotence with regard to His own body?
-
-(4) Whether He had omnipotence as regards the execution of His own will?
+- (2) Whether He had omnipotence with regard to corporeal creatures?
+- (3) Whether He had omnipotence with regard to His own body?
+- (4) Whether He had omnipotence as regards the execution of His own will?

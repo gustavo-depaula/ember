@@ -1,9 +1,9 @@
-# Quaestio 107 — Deinde considerandum est de ingratitudine. Et circa hoc quaeruntur quatuor.
+# Quaestio 107
 
-Primo, utrum ingratitudo semper sit peccatum.
+***Deinde considerandum est de ingratitudine. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum ingratitudo sit peccatum speciale.
+Primo, utrum ingratitudo semper sit peccatum.  
 
-Tertio, utrum omnis ingratitudo sit peccatum mortale.
-
-Quarto, utrum ingrato sint beneficia subtrahenda.
+- Secundo, utrum ingratitudo sit peccatum speciale.
+- Tertio, utrum omnis ingratitudo sit peccatum mortale.
+- Quarto, utrum ingrato sint beneficia subtrahenda.

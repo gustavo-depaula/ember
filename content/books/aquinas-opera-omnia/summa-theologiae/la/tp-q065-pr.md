@@ -1,9 +1,9 @@
-# Quaestio 65 — Deinde considerandum est de numero sacramentorum. Et circa hoc quaeruntur quatuor.
+# Quaestio 65
 
-Primo, utrum sint septem sacramenta.
+Deinde considerandum est de numero sacramentorum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, de ordine eorum ad invicem.
+Primo, utrum sint septem sacramenta.  
 
-Tertio, de comparatione eorum.
-
-Quarto, utrum omnia sint de necessitate salutis.
+- Secundo, de ordine eorum ad invicem.
+- Tertio, de comparatione eorum.
+- Quarto, utrum omnia sint de necessitate salutis.

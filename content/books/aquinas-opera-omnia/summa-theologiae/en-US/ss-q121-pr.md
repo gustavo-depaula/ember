@@ -1,5 +1,7 @@
-# Question 121 — We must now consider the gift that corresponds to justice; namely, piety. Under this head there are two points of inquiry:
+# Question 121 — Piety
 
-(1) Whether it is a gift of the Holy Ghost?
+We must now consider the gift that corresponds to justice; namely, piety. Under this head there are two points of inquiry:  
 
-(2) Which of the beatitudes and fruits corresponds to it?
+(1) Whether it is a gift of the Holy Spirit?  
+
+- (2) Which of the beatitudes and fruits corresponds to it?

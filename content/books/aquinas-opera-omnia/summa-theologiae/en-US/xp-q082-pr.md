@@ -1,11 +1,11 @@
-# Question 82 — Question: 82 [ << | >> ]
+# Question 82 — The Impassibility of the Blessed Who Rise Again
 
-We must now consider the conditions under which the blessed rise again, and (1) the impassibility of their bodies; (2) their subtlety; (3) their agility; (4) their clarity. Under the first head there are four points of inquiry:
+We must now consider the conditions under which the blessed rise again: (1) The impassibility of their bodies; (2) Their subtlety; (3) Their agility; (4) Their clarity.  
 
-(1) Whether the bodies of the saints will be impassible after the resurrection?
+Under the first head there are four points of inquiry:  
 
-(2) Whether all will be equally impassible?
+(1) Whether the bodies of the saints will be impassible after the resurrection?  
 
-(3) Whether this impassibility renders the glorious bodies?
-
-(4) Whether in them all the senses are in act?
+- (2) Whether all will be equally impassible?
+- (3) Whether this impassibility excludes actual sensation from the glorified bodies?
+- (4) Whether in them all the senses are in act?

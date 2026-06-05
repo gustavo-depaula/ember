@@ -1,9 +1,9 @@
-# Question 102 — We next consider man's abode, which is paradise. Under this head there are four points of inquiry:
+# Question 102 — Man’s Abode, Which is Paradise
 
-(1) Whether paradise is a corporeal place?
+We next consider man’s abode, which is paradise. Under this head there are four points of inquiry:  
 
-(2) Whether it is a place apt for human habitation?
+(1) Whether paradise is a corporeal place?  
 
-(3) For what purpose was man placed in paradise?
-
-(4) Whether he should have been created in paradise?
+- (2) Whether it is a place apt for human habitation?
+- (3) For what purpose was man placed in paradise?
+- (4) Whether he should have been created in paradise?

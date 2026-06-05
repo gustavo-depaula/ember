@@ -1,11 +1,10 @@
-# Quaestio 124 — Deinde considerandum est de martyrio. Et circa hoc quaeruntur quinque.
+# Quaestio 124
 
-Primo, utrum martyrium sit actus virtutis.
+***Deinde considerandum est de martyrio. Et circa hoc quaeruntur quinque.***
 
-Secundo, cuius virtutis sit actus.
+Primo, utrum martyrium sit actus virtutis.  
 
-Tertio, de perfectione huius actus.
-
-Quarto, de poena martyrii.
-
-Quinto, de causa.
+- Secundo, cuius virtutis sit actus.
+- Tertio, de perfectione huius actus.
+- Quarto, de poena martyrii.
+- Quinto, de causa.

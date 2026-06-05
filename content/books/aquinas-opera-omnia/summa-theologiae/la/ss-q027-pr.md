@@ -1,19 +1,15 @@
-# Quaestio 27 — secundo, de aliis actibus vel effectibus consequentibus.
+# Quaestio 27
 
-Circa primum quaeruntur octo.
+Deinde considerandum est de actu caritatis. Et primo, de principali actu caritatis, qui est dilectio; secundo, de aliis actibus vel effectibus consequentibus.  
 
-Primo, quid sit magis proprium caritatis, utrum amari vel amare.
+Circa primum quaeruntur octo.  
 
-Secundo, utrum amare, prout est actus caritatis, sit idem quod benevolentia.
+Primo, quid sit magis proprium caritatis, utrum amari vel amare.  
 
-Tertio, utrum Deus sit propter seipsum amandus.
-
-Quarto, utrum possit in hac vita immediate amari.
-
-Quinto, utrum possit amari totaliter.
-
-Sexto, utrum eius dilectio habeat modum.
-
-Septimo, quid sit melius, utrum diligere amicum vel diligere inimicum.
-
-Octavo, quid sit melius, utrum diligere Deum vel diligere proximum.
+- Secundo, utrum amare, prout est actus caritatis, sit idem quod benevolentia.
+- Tertio, utrum Deus sit propter seipsum amandus.
+- Quarto, utrum possit in hac vita immediate amari.
+- Quinto, utrum possit amari totaliter.
+- Sexto, utrum eius dilectio habeat modum.
+- Septimo, quid sit melius, utrum diligere amicum vel diligere inimicum.
+- Octavo, quid sit melius, utrum diligere Deum vel diligere proximum.

@@ -1,15 +1,13 @@
-# Quaestio 34 — quarto, de offensione et scandalo, quae opponuntur beneficentiae et correctioni fraternae.
+# Quaestio 34
 
-Circa primum quaeruntur sex,
+Deinde considerandum est de vitiis oppositis caritati. Et primo, de odio, quod opponitur ipsi dilectioni; secundo, de acedia et invidia, quae opponuntur gaudio caritatis; tertio, de discordia et schismate, quae opponuntur paci; quarto, de offensione et scandalo, quae opponuntur beneficentiae et correctioni fraternae.  
 
-primo, utrum Deus possit odio haberi.
+Circa primum quaeruntur sex,  
 
-Secundo, utrum odium Dei sit maximum peccatorum.
+Primo, utrum Deus possit odio haberi.  
 
-Tertio, utrum odium proximi semper sit peccatum.
-
-Quarto, utrum sit maximum inter peccata quae sunt in proximum.
-
-Quinto, utrum sit vitium capitale.
-
-Sexto, ex quo capitali vitio oriatur.
+- Secundo, utrum odium Dei sit maximum peccatorum.
+- Tertio, utrum odium proximi semper sit peccatum.
+- Quarto, utrum sit maximum inter peccata quae sunt in proximum.
+- Quinto, utrum sit vitium capitale.
+- Sexto, ex quo capitali vitio oriatur.

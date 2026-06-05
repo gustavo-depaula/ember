@@ -1,9 +1,10 @@
-# Question 16 — Question: 16 [ << | >> ]
+# Question 16 — The Recipients of Penance
 
-We must now consider the recipients of the sacrament of Penance: under which head there are three points of inquiry:
+***We must now consider the recipients of the sacrament of penance.***
 
-(1) Whether penance can be in the innocent?
+Under this head there are three points of inquiry:  
 
-(2) Whether it can be in the saints in glory?
+(1) Whether penance can be in the innocent?  
 
-(3) Whether in the good or bad angels?
+- (2) Whether it can be in the saints in glory?
+- (3) Whether in the good or bad angels?

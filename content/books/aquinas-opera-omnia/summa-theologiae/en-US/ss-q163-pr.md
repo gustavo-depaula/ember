@@ -1,11 +1,11 @@
-# Question 163 — (3) the temptation whereby he was led to sin.
+# Question 163 — The First Man’s Sin
 
-Under the first head there are four points of inquiry:
+We must now consider the first man’s sin which was pride: and (1) his sin; (2) its punishment; (3) the temptation whereby he was led to sin.  
 
-(1) Whether pride was the first man's first sin?
+Under the first head there are four points of inquiry:  
 
-(2) What the first man coveted by sinning?
+(1) Whether pride was the first man’s first sin?  
 
-(3) Whether his sin was more grievous than all other sins?
-
-(4) Which sinned more grievously, the man or the woman?
+- (2) What the first man coveted by sinning?
+- (3) Whether his sin was more grievous than all other sins?
+- (4) Which sinned more grievously, the man or the woman?

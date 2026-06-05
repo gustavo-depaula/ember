@@ -1,9 +1,11 @@
-# Quaestio 26 — Ultimo autem, post considerationem eorum quae ad divinae essentiae unitatem pertinent, considerandum est de divina beatitudine. Et circa hoc quaeruntur quatuor.
+# Quaestio 26
 
-Primo, utrum beatitudo Deo competat.
+Ultimo autem, post considerationem eorum quae ad divinae essentiae unitatem pertinent, considerandum est de divina beatitudine.  
 
-Secundo, secundum quid dicitur Deus esse beatus, utrum secundum actum intellectus.
+Et circa hoc quaeruntur quatuor.  
 
-Tertio, utrum sit essentialiter beatitudo cuiuslibet beati.
+Primo, utrum beatitudo Deo competat.  
 
-Quarto, utrum in eius beatitudine omnis beatitudo includatur
+- Secundo, secundum quid dicitur Deus esse beatus, utrum secundum actum intellectus.
+- Tertio, utrum sit essentialiter beatitudo cuiuslibet beati.
+- Quarto, utrum in eius beatitudine omnis beatitudo includatur.

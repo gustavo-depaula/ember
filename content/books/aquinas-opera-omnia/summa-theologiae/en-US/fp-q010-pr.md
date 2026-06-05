@@ -1,13 +1,11 @@
-# Question 10 — We must now consider the eternity of God, concerning which arise six points of inquiry:
+# Question 10 — The Eternity of God
 
-(1) What is eternity?
+We must now consider the eternity of God, concerning which arise six points of inquiry:  
 
-(2) Whether God is eternal?
+(1) What is eternity?  
 
-(3) Whether to be eternal belongs to God alone?
-
-(4) Whether eternity differs from time?
-
-(5) The difference of aeviternity, as there is one time, and one eternity?
-
-(6) Whether there is only one aeviternity?
+- (2) Whether God is eternal?
+- (3) Whether to be eternal belongs to God alone?
+- (4) Whether eternity differs from time?
+- (5) The difference of aeviternity and of time.
+- (6) Whether there is only one aeviternity, as there is one time, and one eternity?

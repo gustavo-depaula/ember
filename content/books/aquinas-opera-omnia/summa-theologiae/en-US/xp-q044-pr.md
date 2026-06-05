@@ -1,9 +1,10 @@
-# Question 44 — Question: 44 [ << | >> ]
+# Question 44 — The Definition of Matrimony
 
-We must now consider the nature of matrimony. Under this head there are three points of inquiry:
+***We must now consider the nature of matrimony.***
 
-(1) Whether matrimony is a kind of joining?
+Under this head there are three points of inquiry:  
 
-(2) Whether it is fittingly named?
+(1) Whether matrimony is a kind of joining?  
 
-(3) Whether it is fittingly defined?
+- (2) Whether it is fittingly named?
+- (3) Whether it is fittingly defined?

@@ -1,9 +1,9 @@
-# Question 37 — We must now consider Christ's circumcision. And since the circumcision is a kind of profession of observing the Law, according to Gal. 5:3: "I testify... to every man circumcising himself that he is a debtor to do the whole Law," we shall have at the same time to inquire about the other legal observances accomplished in regard to the Child Christ. Therefore there are four points of inquiry:
+# Question 37 — Christ’s Circumcision
 
-(1) His circumcision;
+We must now consider Christ’s circumcision. And since the circumcision is a kind of profession of observing the Law, according to Gal. 5:3: *I testify . . . to every man circumcising himself that he is a debtor to do the whole Law*, we shall have at the same time to inquire about the other legal observances accomplished in regard to the Child Christ. Wherefore there are four points of inquiry:  
 
-(2) The imposition of His name;
+(1) His circumcision;  
 
-(3) His presentation;
-
-(4) His Mother's purification.
+- (2) The imposition of His name;
+- (3) His presentation;
+- (4) His Mother’s purification.

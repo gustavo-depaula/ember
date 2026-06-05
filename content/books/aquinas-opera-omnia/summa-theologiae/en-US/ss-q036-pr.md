@@ -1,9 +1,9 @@
-# Question 36 — We must now consider envy, and under this head there are four points of inquiry:
+# Question 36 — Envy
 
-(1) What is envy?
+***We must now consider envy, and under this head there are four points of inquiry:***
 
-(2) Whether it is a sin?
+(1) What is envy?  
 
-(3) Whether it is a mortal sin?
-
-(4) Whether it is a capital sin, and which are its daughters?
+- (2) Whether it is a sin?
+- (3) Whether it is a mortal sin?
+- (4) Whether it is a capital sin, and which are its daughters?

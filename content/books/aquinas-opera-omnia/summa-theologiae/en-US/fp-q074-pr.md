@@ -1,7 +1,8 @@
-# Question 74 — We next consider all the seven days in common: and there are three points of inquiry:
+# Question 74 — All the Seven Days in Common
 
-(1) As to the sufficiency of these days;
+We next consider all the seven days in common: and there are three points of inquiry:  
 
-(2) Whether they are all one day, or more than one?
+(1) As to the sufficiency of these days;  
 
-(3) As to certain modes of speaking which Scripture uses in narrating the works of the six days.
+- (2) Whether they are all one day, or more than one?
+- (3) As to certain modes of speaking which Scripture uses in narrating the works of the six days.

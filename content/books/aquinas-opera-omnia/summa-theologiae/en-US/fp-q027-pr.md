@@ -1,13 +1,14 @@
-# Question 27 — Having considered what belongs to the unity of the divine essence, it remains to treat of what belongs to the Trinity of the persons in God. And because the divine Persons are distinguished from each other according to the relations of origin, the order of the doctrine leads us to consider firstly, the question of origin or procession; secondly, the relations of origin; thirdly, the persons.
+# Question 27 — The Procession of the Divine Persons
 
-Concerning procession there are five points of inquiry:
+Having considered what belongs to the unity of the divine essence, it remains to treat of what belongs to the Trinity of the persons in God.  
 
-(1) Whether there is procession in God?
+And because the divine Persons are distinguished from each other according to the relations of origin, the order of the doctrine leads us to consider first, the question of origin or procession; second, the relations of origin; third, the persons.  
 
-(2) Whether any procession in God can be called generation?
+Concerning procession there are five points of inquiry:  
 
-(3) Whether there can be any other procession in God besides generation.
+(1) Whether there is procession in God?  
 
-(4) Whether that other procession can be called generation?
-
-(5) Whether there are more than two processions in God?
+- (2) Whether any procession in God can be called generation?
+- (3) Whether there can be any other procession in God besides generation?
+- (4) Whether that other procession can be called generation?
+- (5) Whether there are more than two processions in God?

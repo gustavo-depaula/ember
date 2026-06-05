@@ -1,5 +1,7 @@
-# Quaestio 127 — Deinde considerandum est de audacia. Et circa hoc quaeruntur duo.
+# Quaestio 127
 
-Primo, utrum audacia sit peccatum.
+***Deinde considerandum est de audacia. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum opponatur fortitudini.
+Primo, utrum audacia sit peccatum.  
+
+- Secundo, utrum opponatur fortitudini.

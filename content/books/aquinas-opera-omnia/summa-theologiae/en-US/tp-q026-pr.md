@@ -1,5 +1,7 @@
-# Question 26 — We have now to consider how Christ is called the Mediator of God and man, and under this head there are two points of inquiry:
+# Question 26 — Christ as Called the Mediator of God and Man
 
-(1) Whether it is proper to Christ to be the Mediator of God and man?
+We have now to consider how Christ is called the Mediator of God and man, and under this head there are two points of inquiry:  
 
-(2) Whether this belongs to Him by reason of His human nature?
+(1) Whether it is proper to Christ to be the Mediator of God and man?  
+
+- (2) Whether this belongs to Him by reason of His human nature?

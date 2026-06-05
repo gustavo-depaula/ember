@@ -1,13 +1,11 @@
-# Quaestio 63 — Deinde considerandum est de alio effectu sacramentorum, qui est character. Et circa hoc quaeruntur sex.
+# Quaestio 63
 
-Primo, utrum ex sacramentis causetur character aliquis in anima.
+Deinde considerandum est de alio effectu sacramentorum, qui est character. Et circa hoc quaeruntur sex.  
 
-Secundo, quid sit ille character.
+Primo, utrum ex sacramentis causetur character aliquis in anima.  
 
-Tertio, cuius sit character.
-
-Quarto, in quo sit sicut in subiecto.
-
-Quinto, utrum insit indelebiliter.
-
-Sexto, utrum omnia sacramenta imprimant characterem.
+- Secundo, quid sit ille character.
+- Tertio, cuius sit character.
+- Quarto, in quo sit sicut in subiecto.
+- Quinto, utrum insit indelebiliter.
+- Sexto, utrum omnia sacramenta imprimant characterem.

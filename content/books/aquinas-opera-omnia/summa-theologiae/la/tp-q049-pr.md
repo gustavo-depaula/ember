@@ -1,13 +1,13 @@
-# Quaestio 49 — Deinde considerandum est de ipsis effectibus passionis Christi. Et circa hoc quaeruntur sex.
+# Quaestio 49
 
-Primo, utrum per passionem Christi simus liberati a peccato.
+***De effectibus passionis Christi***
 
-Secundo, utrum per eam simus liberati a potestate Diaboli.
+Deinde considerandum est de ipsis effectibus passionis Christi. Et circa hoc quaeruntur sex.  
 
-Tertio, utrum per eam simus liberati a reatu poenae.
+Primo, utrum per passionem Christi simus liberati a peccato.  
 
-Quarto, utrum per eam simus Deo reconciliati.
-
-Quinto, utrum per eam sit nobis aperta ianua caeli.
-
-Sexto, utrum per eam Christus adeptus fuerit exaltationem.
+- Secundo, utrum per eam simus liberati a potestate Diaboli.
+- Tertio, utrum per eam simus liberati a reatu poenae.
+- Quarto, utrum per eam simus Deo reconciliati.
+- Quinto, utrum per eam sit nobis aperta ianua caeli.
+- Sexto, utrum per eam Christus adeptus fuerit exaltationem.

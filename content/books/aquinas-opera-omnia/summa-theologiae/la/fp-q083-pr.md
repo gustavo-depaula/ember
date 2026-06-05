@@ -1,9 +1,9 @@
-# Quaestio 83 — Deinde quaeritur de libero arbitrio. Et circa hoc quaeruntur quatuor.
+# Quaestio 83
 
-Primo, utrum homo sit liberi arbitrii.
+***Deinde quaeritur de libero arbitrio. Et circa hoc quaeruntur quatuor.***
 
-Secundo, quid sit liberum arbitrium, utrum sit potentia, vel actus, vel habitus.
+Primo, utrum homo sit liberi arbitrii.  
 
-Tertio si est potentia, utrum sit appetitiva, vel cognitiva.
-
-Quarto, si est appetitiva, utrum sit eadem potentia cum voluntate, vel alia.
+- Secundo, quid sit liberum arbitrium, utrum sit potentia, vel actus, vel habitus.
+- Tertio si est potentia, utrum sit appetitiva, vel cognitiva.
+- Quarto, si est appetitiva, utrum sit eadem potentia cum voluntate, vel alia.

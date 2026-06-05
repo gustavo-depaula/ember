@@ -1,19 +1,15 @@
-# Quaestio 189 — Deinde considerandum est de ingressu religionis. Et circa hoc quaeruntur decem.
+# Quaestio 189
 
-Primo, utrum illi qui non sunt exercitati in observantia praeceptorum, debeant religionem ingredi.
+***Deinde considerandum est de ingressu religionis. Et circa hoc quaeruntur decem.***
 
-Secundo, utrum liceat aliquos voto obligare ad religionis ingressum.
+Primo, utrum illi qui non sunt exercitati in observantia praeceptorum, debeant religionem ingredi.  
 
-Tertio, utrum illi qui voto obligantur ad religionis ingressum, teneantur votum implere.
-
-Quarto, utrum illi qui vovent religionem intrare, teneantur ibi perpetuo remanere.
-
-Quinto, utrum pueri sint recipiendi in religione.
-
-Sexto, utrum propter parentum obsequium aliqui debeant retrahi a religionis ingressu.
-
-Septimo, utrum presbyteri curati vel archidiaconi possint ad religionem transire.
-
-Octavo, utrum de una religione possit aliquis transire ad aliam. Nono, utrum aliquis debeat alios inducere ad religionis ingressum.
-
-Decimo, utrum requiratur magna deliberatio cum consanguineis et amicis ad religionis ingressum.
+- Secundo, utrum liceat aliquos voto obligare ad religionis ingressum.
+- Tertio, utrum illi qui voto obligantur ad religionis ingressum, teneantur votum implere.
+- Quarto, utrum illi qui vovent religionem intrare, teneantur ibi perpetuo remanere.
+- Quinto, utrum pueri sint recipiendi in religione.
+- Sexto, utrum propter parentum obsequium aliqui debeant retrahi a religionis ingressu.
+- Septimo, utrum presbyteri curati vel archidiaconi possint ad religionem transire.
+- Octavo, utrum de una religione possit aliquis transire ad aliam.
+- Nono, utrum aliquis debeat alios inducere ad religionis ingressum.
+- Decimo, utrum requiratur magna deliberatio cum consanguineis et amicis ad religionis ingressum.

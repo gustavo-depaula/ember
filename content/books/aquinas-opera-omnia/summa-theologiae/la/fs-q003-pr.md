@@ -1,19 +1,15 @@
-# Quaestio 3 — et quae requirantur ad ipsam.
+# Quaestio 3
 
-Circa primum quaeruntur octo.
+***Deinde considerandum est quid sit beatitudo; et quae requirantur ad ipsam.***
 
-Primo, utrum beatitudo sit aliquid increatum.
+Circa primum quaeruntur octo.  
 
-Secundo, si est aliquid creatum, utrum sit operatio.
+Primo, utrum beatitudo sit aliquid increatum.  
 
-Tertio, utrum sit operatio sensitivae partis, an intellectivae tantum.
-
-Quarto, si est operatio intellectivae partis, utrum sit operatio intellectus, an voluntatis.
-
-Quinto, si est operatio intellectus, utrum sit operatio intellectus speculativi, aut practici.
-
-Sexto, si est operatio intellectus speculativi, utrum consistat in speculatione scientiarum speculativarum.
-
-Septimo, utrum consistat in speculatione substantiarum separatarum, scilicet Angelorum.
-
-Octavo, utrum in sola speculatione Dei qua per essentiam videtur.
+- Secundo, si est aliquid creatum, utrum sit operatio.
+- Tertio, utrum sit operatio sensitivae partis, an intellectivae tantum.
+- Quarto, si est operatio intellectivae partis, utrum sit operatio intellectus, an voluntatis.
+- Quinto, si est operatio intellectus, utrum sit operatio intellectus speculativi, aut practici.
+- Sexto, si est operatio intellectus speculativi, utrum consistat in speculatione scientiarum speculativarum.
+- Septimo, utrum consistat in speculatione substantiarum separatarum, scilicet Angelorum.
+- Octavo, utrum in sola speculatione Dei qua per essentiam videtur.

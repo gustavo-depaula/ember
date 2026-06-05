@@ -1,9 +1,10 @@
-# Question 24 — Question: 24 [ << | >> ]
+# Question 24 — Absolution from Excommunication
 
-We must now consider absolution from excommunication: under which head there are three points of inquiry:
+***We must now consider absolution from excommunication.***
 
-(1) Whether any priest can absolve his subject from excommunication?
+Under this head there are three points of inquiry:  
 
-(2) Whether a man can be absolved from excommunication against his will?
+(1) Whether any priest can absolve his subject from excommunication?  
 
-(3) Whether a man can be absolved from one excommunication without being absolved from another?
+- (2) Whether a man can be absolved from excommunication against his will?
+- (3) Whether a man can be absolved from one excommunication without being absolved from another?

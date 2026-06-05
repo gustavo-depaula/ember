@@ -1,11 +1,10 @@
-# Question 114 — We now consider the assaults of the demons. Under this head there are five points of inquiry:
+# Question 114 — The Assaults of the Demons
 
-(1) Whether men are assailed by the demons?
+We now consider the assaults of the demons. Under this head there are five points of inquiry:  
 
-(2) Whether to tempt is proper to the devil?
+(1) Whether men are assailed by the demons?  
 
-(3) Whether all the sins of men are to be set down to the assaults or temptations of the demons?
-
-(4) Whether they can work real miracles for the purpose of leading men astray?
-
-(5) Whether the demons who are overcome by men, are hindered from making further assaults?
+- (2) Whether to tempt is proper to the devil?
+- (3) Whether all the sins of men are to be set down to the assaults or temptations of the demons?
+- (4) Whether they can work real miracles for the purpose of leading men astray?
+- (5) Whether the demons who are overcome by men, are hindered from making further assaults?

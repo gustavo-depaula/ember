@@ -1,9 +1,9 @@
-# Quaestio 68 — Deinde considerandum est de opere secundae diei. Et circa hoc quaeruntur quatuor.
+# Quaestio 68
 
-Primo, utrum firmamentum sit factum secunda die.
+Deinde considerandum est de opere secundae diei. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum aliquae aquae sint supra firmamentum.
+Primo, utrum firmamentum sit factum secunda die.  
 
-Tertio, utrum firmamentum dividat aquas ab aquis.
-
-Quarto, utrum sit unum caelum tantum, vel plures.
+- Secundo, utrum aliquae aquae sint supra firmamentum.
+- Tertio, utrum firmamentum dividat aquas ab aquis.
+- Quarto, utrum sit unum caelum tantum, vel plures.

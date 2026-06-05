@@ -1,15 +1,13 @@
-# Quaestio 117 — Deinde considerandum est de liberalitate, et vitiis oppositis, scilicet avaritia et prodigalitate.
+# Quaestio 117
 
-Circa liberalitatem quaeruntur sex.
+Deinde considerandum est de liberalitate, et vitiis oppositis, scilicet avaritia et prodigalitate.  
 
-Primo, utrum liberalitas sit virtus.
+Circa liberalitatem quaeruntur sex.  
 
-Secundo, quae sit materia eius.
+Primo, utrum liberalitas sit virtus.  
 
-Tertio, de actu ipsius.
-
-Quarto, utrum magis ad eum pertineat dare quam recipere.
-
-Quinto, utrum liberalitas sit pars iustitiae.
-
-Sexto, de comparatione eius ad alias virtutes.
+- Secundo, quae sit materia eius.
+- Tertio, de actu ipsius.
+- Quarto, utrum magis ad eum pertineat dare quam recipere.
+- Quinto, utrum liberalitas sit pars iustitiae.
+- Sexto, de comparatione eius ad alias virtutes.

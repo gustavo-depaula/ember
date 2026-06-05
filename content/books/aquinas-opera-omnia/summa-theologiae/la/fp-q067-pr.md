@@ -1,11 +1,11 @@
-# Quaestio 67 — Consequenter considerandum est de opere distinctionis secundum se et primo, de opere primae diei; secundo, de opere secundae diei; tertio, de opere tertiae.
+# Quaestio 67
 
-Circa primum quaeruntur quatuor.
+Consequenter considerandum est de opere distinctionis secundum se et primo, de opere primae diei; secundo, de opere secundae diei; tertio, de opere tertiae.  
 
-Primo, utrum lux proprie in spiritualibus dici possit.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum lux corporalis sit corpus.
+Primo, utrum lux proprie in spiritualibus dici possit.  
 
-Tertio, utrum sit qualitas.
-
-Quarto, utrum conveniens fuit prima die fieri lucem.
+- Secundo, utrum lux corporalis sit corpus.
+- Tertio, utrum sit qualitas.
+- Quarto, utrum conveniens fuit prima die fieri lucem.

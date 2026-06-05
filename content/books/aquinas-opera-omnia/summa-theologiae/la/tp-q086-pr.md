@@ -1,15 +1,14 @@
-# Quaestio 86 — quarto, quantum ad restitutionem virtutum.
+# Quaestio 86
 
-Circa primum quaeruntur sex.
+***De effectu poenitentiae quantum ad remissionem peccatorum mortalium***
 
-Primo, utrum peccata mortalia per poenitentiam auferantur.
+Deinde considerandum est de effectu poenitentiae. Et primo, quantum ad remissionem peccatorum mortalium; secundo, quantum ad remissionem peccatorum venialium; tertio, quantum ad reditum peccatorum dimissorum; quarto, quantum ad restitutionem virtutum.  
 
-Secundo, utrum possint sine poenitentia tolli.
+Circa primum quaeruntur sex.  
 
-Tertio, utrum possit remitti unum sine alio.
-
-Quarto, utrum poenitentia auferat culpam remanente reatu.
-
-Quinto, utrum remaneant reliquiae peccatorum.
-
-Sexto, utrum auferre peccatum sit effectus poenitentiae inquantum est virtus, vel inquantum est sacramentum.
+- Primo, utrum peccata mortalia per poenitentiam auferantur.
+- Secundo, utrum possint sine poenitentia tolli.
+- Tertio, utrum possit remitti unum sine alio.
+- Quarto, utrum poenitentia auferat culpam remanente reatu.
+- Quinto, utrum remaneant reliquiae peccatorum.
+- Sexto, utrum auferre peccatum sit effectus poenitentiae inquantum est virtus, vel inquantum est sacramentum.

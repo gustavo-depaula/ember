@@ -1,9 +1,9 @@
-# Quaestio 69 — Deinde considerandum est de beatitudinibus. Et circa hoc quaeruntur quatuor.
+# Quaestio 69
 
-Primo, utrum beatitudines a donis et virtutibus distinguantur.
+***Deinde considerandum est de beatitudinibus. Et circa hoc quaeruntur quatuor.***
 
-Secundo, de praemiis beatitudinum, utrum pertineant ad hanc vitam.
+Primo, utrum beatitudines a donis et virtutibus distinguantur.  
 
-Tertio, de numero beatitudinum.
-
-Quarto, de convenientia praemiorum quae eis attribuuntur.
+- Secundo, de praemiis beatitudinum, utrum pertineant ad hanc vitam.
+- Tertio, de numero beatitudinum.
+- Quarto, de convenientia praemiorum quae eis attribuuntur.

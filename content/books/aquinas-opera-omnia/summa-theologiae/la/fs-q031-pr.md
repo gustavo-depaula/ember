@@ -1,19 +1,15 @@
-# Quaestio 31 — quarto, de bonitate et malitia ipsius.
+# Quaestio 31
 
-Circa primum quaeruntur octo.
+Deinde considerandum est de delectatione et tristitia. Circa delectationem vero consideranda sunt quatuor, primo, de ipsa delectatione secundum se; secundo, de causis delectationis; tertio, de effectibus eius; quarto, de bonitate et malitia ipsius.  
 
-Primo, utrum delectatio sit passio.
+Circa primum quaeruntur octo.  
 
-Secundo, utrum sit in tempore.
+Primo, utrum delectatio sit passio.  
 
-Tertio, utrum differat a gaudio.
-
-Quarto, utrum sit in appetitu intellectivo.
-
-Quinto, de comparatione delectationum superioris appetitus, ad delectationem inferioris.
-
-Sexto, de comparatione delectationum sensitivarum ad invicem.
-
-Septimo, utrum sit aliqua delectatio non naturalis.
-
-Octavo, utrum delectatio possit esse contraria delectationi.
+- Secundo, utrum sit in tempore.
+- Tertio, utrum differat a gaudio.
+- Quarto, utrum sit in appetitu intellectivo.
+- Quinto, de comparatione delectationum superioris appetitus, ad delectationem inferioris.
+- Sexto, de comparatione delectationum sensitivarum ad invicem.
+- Septimo, utrum sit aliqua delectatio non naturalis.
+- Octavo, utrum delectatio possit esse contraria delectationi.

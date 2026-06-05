@@ -1,5 +1,7 @@
-# Question 3 — We must now consider the outward act, viz. the confession of faith: under which head there are two points of inquiry:
+# Question 3 — The Outward Act of Faith
 
-(1) Whether confession is an act of faith?
+We must now consider the outward act, viz. the confession of faith: under which head there are two points of inquiry:  
 
-(2) Whether confession of faith is necessary for salvation?
+(1) Whether confession is an act of faith?  
+
+- (2) Whether confession of faith is necessary for salvation?

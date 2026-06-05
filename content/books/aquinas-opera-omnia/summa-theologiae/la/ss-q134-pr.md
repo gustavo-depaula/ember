@@ -1,9 +1,9 @@
-# Quaestio 134 — Deinde considerandum est de magnificentia et vitiis oppositis. Circa magnificentiam autem quaeruntur quatuor.
+# Quaestio 134
 
-Primo, utrum magnificentia sit virtus.
+Deinde considerandum est de magnificentia et vitiis oppositis. Circa magnificentiam autem quaeruntur quatuor.  
 
-Secundo, utrum sit virtus specialis.
+Primo, utrum magnificentia sit virtus.  
 
-Tertio, quae sit materia eius.
-
-Quarto, utrum sit pars fortitudinis.
+- Secundo, utrum sit virtus specialis.
+- Tertio, quae sit materia eius.
+- Quarto, utrum sit pars fortitudinis.

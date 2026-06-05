@@ -1,9 +1,11 @@
-# Quaestio 39 — Deinde considerandum est de vitiis oppositis paci pertinentibus ad opus; quae sunt schisma, rixa, seditio et bellum. Primo ergo circa schisma quaeruntur quatuor.
+# Quaestio 39
 
-Primo, utrum schisma sit speciale peccatum.
+***De schisma***
 
-Secundo, utrum sit gravius infidelitate.
+Deinde considerandum est de vitiis oppositis paci pertinentibus ad opus; quae sunt schisma, rixa, seditio et bellum. Primo ergo circa schisma quaeruntur quatuor.  
 
-Tertio, de potestate schismaticorum.
+Primo, utrum schisma sit speciale peccatum.  
 
-Quarto, de poena eorum.
+- Secundo, utrum sit gravius infidelitate.
+- Tertio, de potestate schismaticorum.
+- Quarto, de poena eorum.

@@ -1,11 +1,13 @@
-# Quaestio 9 — secundo, de unaquaque scientiarum ipsius.
+# Quaestio 9
 
-Circa primum quaeruntur quatuor.
+***De scientia Christi in generali***
 
-Primo, utrum Christus habuerit aliquam scientiam praeter divinam.
+Deinde considerandum est de scientia Christi. Circa quam duo consideranda sunt, primo, quam scientiam Christus habuerit; secundo, de unaquaque scientiarum ipsius.  
 
-Secundo, utrum habuerit scientiam quam habent beati vel comprehensores.
+Circa primum quaeruntur quatuor.  
 
-Tertio, utrum habuerit scientiam inditam vel infusam.
+Primo, utrum Christus habuerit aliquam scientiam praeter divinam.  
 
-Quarto, utrum habuerit aliquam scientiam acquisitam.
+- Secundo, utrum habuerit scientiam quam habent beati vel comprehensores.
+- Tertio, utrum habuerit scientiam inditam vel infusam.
+- Quarto, utrum habuerit aliquam scientiam acquisitam.

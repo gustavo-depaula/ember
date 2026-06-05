@@ -1,11 +1,11 @@
-# Question 27 — Question: 27 [ << | >> ]
+# Question 27 — Those Whom Indulgences Avail
 
-We must now consider those whom indulgences avail: under which head there are four points of inquiry:
+***We must now consider those whom indulgences avail.***
 
-(1) Whether indulgences avail those who are in mortal sin?
+Under this head there are four points of inquiry:  
 
-(2) Whether they avail religious?
+(1) Whether indulgences avail those who are in mortal sin?  
 
-(3) Whether they avail a person who does not fulfill the conditions for which the indulgence is given?
-
-(4) Whether they avail him who grants them?
+- (2) Whether they avail religious?
+- (3) Whether they avail a person who does not fulfill the conditions for which the indulgence is given?
+- (4) Whether they avail him who grants them?

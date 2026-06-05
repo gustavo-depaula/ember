@@ -1,9 +1,3 @@
-# Question 48 — We must now consider the parts of prudence, under which head there are four points of inquiry:
+# Question 48 — The Parts of Prudence
 
-(1) Which are the parts of prudence?
-
-(2) Of its integral parts;
-
-(3) Of its subjective parts;
-
-(4) Of its potential parts.
+We must now consider the parts of prudence, under which head there are four points of inquiry: (1) Which are the parts of prudence? (2) Of its integral parts; (3) Of its subjective parts; (4) Of its potential parts.

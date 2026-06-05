@@ -1,9 +1,10 @@
-# Question 4 — Question: 4 [ << | >> ]
+# Question 4 — The Time for Contrition
 
-We must now consider the time for contrition: under which head there are three points of inquiry:
+***We must now consider the time for contrition.***
 
-(1) Whether the whole of this life is the time for contrition?
+Under this head there are three points of inquiry:  
 
-(2) Whether it is expedient to grieve continually for our sins?
+(1) Whether the whole of this life is the time for contrition?  
 
-(3) Whether souls grieve for their sins even after this life?
+- (2) Whether it is expedient to grieve continually for our sins?
+- (3) Whether souls grieve for their sins even after this life?

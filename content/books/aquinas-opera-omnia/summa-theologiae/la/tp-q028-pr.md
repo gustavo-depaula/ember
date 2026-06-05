@@ -1,9 +1,9 @@
-# Quaestio 28 — Deinde considerandum est de virginitate matris Dei. Et circa hoc quaeruntur quatuor.
+# Quaestio 28
 
-Primo, utrum fuerit virgo in concipiendo.
+Deinde considerandum est de virginitate matris Dei. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum fuerit virgo in partu.
+Primo, utrum fuerit virgo in concipiendo.  
 
-Tertio, utrum permanserit virgo post partum.
-
-Quarto, utrum votum virginitatis emiserit.
+- Secundo, utrum fuerit virgo in partu.
+- Tertio, utrum permanserit virgo post partum.
+- Quarto, utrum votum virginitatis emiserit.

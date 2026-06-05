@@ -1,9 +1,9 @@
-# Question 45 — We now consider Christ's transfiguration; and here there are four points of inquiry:
+# Question 45 — Christ’s Transfiguration
 
-(1) Whether it was fitting that Christ should be transfigured?
+We now consider Christ’s transfiguration; and here there are four points of inquiry:  
 
-(2) Whether the clarity of the transfiguration was the clarity of glory?
+(1) Whether it was fitting that Christ should be transfigured?  
 
-(3) Of the witnesses of the transfiguration;
-
-(4) Of the testimony of the Father's voice.
+- (2) Whether the clarity of the transfiguration was the clarity of glory?
+- (3) Of the witnesses of the transfiguration;
+- (4) Of the testimony of the Father’s voice.

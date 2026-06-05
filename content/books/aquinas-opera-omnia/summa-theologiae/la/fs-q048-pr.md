@@ -1,9 +1,9 @@
-# Quaestio 48 — Deinde considerandum est de effectibus irae. Et circa hoc quaeruntur quatuor.
+# Quaestio 48
 
-Primo, utrum ira causet delectationem.
+***Deinde considerandum est de effectibus irae. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum maxime causet fervorem in corde.
+Primo, utrum ira causet delectationem.  
 
-Tertio, utrum maxime impediat rationis usum.
-
-Quarto, utrum causet taciturnitatem.
+- Secundo, utrum maxime causet fervorem in corde.
+- Tertio, utrum maxime impediat rationis usum.
+- Quarto, utrum causet taciturnitatem.

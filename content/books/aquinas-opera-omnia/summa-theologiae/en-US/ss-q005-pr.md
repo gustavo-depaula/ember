@@ -1,9 +1,9 @@
-# Question 5 — We must now consider those who have faith: under which head there are four points of inquiry:
+# Question 5 — Those Who Have Faith
 
-(1) Whether there was faith in the angels, or in man, in their original state?
+We must now consider those who have faith: under which head there are four points of inquiry:  
 
-(2) Whether the demons have faith?
+(1) Whether there was faith in the angels, or in man, in their original state?  
 
-(3) Whether those heretics who err in one article, have faith in others?
-
-(4) Whether among those who have faith, one has it more than another?
+- (2) Whether the demons have faith?
+- (3) Whether those heretics who err in one article, have faith in others?
+- (4) Whether among those who have faith, one has it more than another?

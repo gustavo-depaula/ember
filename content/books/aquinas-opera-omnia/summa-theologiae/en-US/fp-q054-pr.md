@@ -1,13 +1,13 @@
-# Question 54 — fourthly, into the manner whereby he knows them.
+# Question 54 — The Knowledge of the Angels
 
-Under the first heading there are five points of inquiry:
+After considering what belongs to the angel’s substance, we now proceed to his knowledge. This investigation will be fourfold. In the first place inquiry must be made into his power of knowledge: second, into his medium of knowledge: third, into the objects known: and fourth, into the manner whereby he knows them.  
 
-(1) Is the angel's understanding his substance?
+Under the first heading there are five points of inquiry:  
 
-(2) Is his being his understanding?
+(1) Is the angel’s understanding his substance?  
 
-(3) Is his substance his power of intelligence?
+(2) Is his being his understanding?  
 
-(4) Is there in the angels an active and a passive intellect?
-
-(5) Is there in them any other power of knowledge besides the intellect?
+- (3) Is his substance his power of intelligence?
+- (4) Is there in the angels an agent and a potential intellect?
+- (5) Is there in them any other power of knowledge besides the intellect?

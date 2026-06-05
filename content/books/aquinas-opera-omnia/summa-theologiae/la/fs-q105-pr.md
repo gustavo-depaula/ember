@@ -1,9 +1,9 @@
-# Quaestio 105 — Deinde considerandum est de ratione iudicialium praeceptorum. Et circa hoc quaeruntur quatuor.
+# Quaestio 105
 
-Primo, de ratione praeceptorum iudicialium quae pertinent ad principes.
+Deinde considerandum est de ratione iudicialium praeceptorum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, de his quae pertinent ad convictum hominum ad invicem.
+Primo, de ratione praeceptorum iudicialium quae pertinent ad principes.  
 
-Tertio, de his quae pertinent ad extraneos.
-
-Quarto, de his quae pertinent ad domesticam conversationem
+- Secundo, de his quae pertinent ad convictum hominum ad invicem.
+- Tertio, de his quae pertinent ad extraneos.
+- Quarto, de his quae pertinent ad domesticam conversationem.
