@@ -9,12 +9,6 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const sheetFraction = 0.9
 
-/**
- * Apple Books-style "Themes & Settings": theme picker + the shared
- * `ReadingConfig` controls (font / size / spacing / margins / align / family).
- * Lives in a BottomSheet, opened from the menu sheet. Changes push live into
- * the foliate paginator via the BookReader's config-update effect.
- */
 export function ReaderSettingsSheet({ open, onClose }: { open: boolean; onClose: () => void }) {
   const { t } = useTranslation()
   const theme = useTheme()

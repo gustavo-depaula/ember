@@ -1,15 +1,17 @@
-import { useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { AppState } from 'react-native'
 import { getCursor, setCursor } from '@/db/repositories/cursors'
 
 export type ReaderPosition = {
-  /** Chapter id (one of the TOC leaves' ids). */
   chapterId: string
   /** 0..1 within the chapter — foliate's relocate.fraction. */
   fraction: number
 }
 
 type LegacyPosition = { chapterId: string; page?: number }
+
+const SAVE_DEBOUNCE_MS = 1000
+const SAME_FRACTION_EPSILON = 0.001
 
 function cursorId(bookId: string) {
   return `book/${bookId}`
@@ -19,8 +21,8 @@ export function parseReaderPosition(raw: string): ReaderPosition | undefined {
   try {
     const v = JSON.parse(raw) as ReaderPosition & LegacyPosition
     if (!v.chapterId) return undefined
-    // Old cursors stored `page` instead of `fraction`; we lose intra-chapter
-    // precision but land on the right chapter, which is the load-bearing bit.
+    // Legacy {chapterId, page} cursors lose intra-chapter precision but land
+    // on the right chapter, which is the load-bearing bit.
     const fraction = typeof v.fraction === 'number' ? v.fraction : 0
     return { chapterId: v.chapterId, fraction }
   } catch {
@@ -28,10 +30,17 @@ export function parseReaderPosition(raw: string): ReaderPosition | undefined {
   }
 }
 
+function samePosition(a: ReaderPosition | undefined, b: ReaderPosition | undefined): boolean {
+  if (!a || !b) return a === b
+  return a.chapterId === b.chapterId && Math.abs(a.fraction - b.fraction) < SAME_FRACTION_EPSILON
+}
+
 /**
- * Loads the saved {chapterId, fraction} for a book and returns a setter that
- * the reader calls (frequently — debounce in the caller) as the user moves
- * through pages. Position is flushed on unmount and when the app backgrounds.
+ * Loads the saved {chapterId, fraction} for a book and exposes `save` that
+ * the reader calls on every relocate. Writes are debounced 1s and skipped
+ * when the position hasn't actually changed; the latest position is flushed
+ * synchronously on AppState background and unmount so we never lose the
+ * last second of reading.
  */
 export function useReaderCursor(bookId: string | undefined) {
   const [initial, setInitial] = useState<{
@@ -40,6 +49,8 @@ export function useReaderCursor(bookId: string | undefined) {
   }>({ position: undefined, loaded: false })
 
   const latestRef = useRef<ReaderPosition | undefined>(undefined)
+  const lastWrittenRef = useRef<ReaderPosition | undefined>(undefined)
+  const timerRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined)
 
   useEffect(() => {
     if (!bookId) {
@@ -49,28 +60,37 @@ export function useReaderCursor(bookId: string | undefined) {
     const c = getCursor(cursorId(bookId))
     const parsed = c ? parseReaderPosition(c.position) : undefined
     latestRef.current = parsed
+    lastWrittenRef.current = parsed
     setInitial({ position: parsed, loaded: true })
   }, [bookId])
 
-  const save = (position: ReaderPosition) => {
-    latestRef.current = position
-    if (!bookId) return
-    void setCursor(cursorId(bookId), JSON.stringify(position))
-  }
+  const flush = useCallback(() => {
+    const pos = latestRef.current
+    if (!bookId || !pos) return
+    if (samePosition(pos, lastWrittenRef.current)) return
+    lastWrittenRef.current = pos
+    void setCursor(cursorId(bookId), JSON.stringify(pos))
+  }, [bookId])
 
-  // Flush on background and unmount so we never lose the last-known location.
+  const save = useCallback(
+    (position: ReaderPosition) => {
+      latestRef.current = position
+      if (timerRef.current) clearTimeout(timerRef.current)
+      timerRef.current = setTimeout(flush, SAVE_DEBOUNCE_MS)
+    },
+    [flush],
+  )
+
   useEffect(() => {
     const sub = AppState.addEventListener('change', (s) => {
-      if (s !== 'background' && s !== 'inactive') return
-      const pos = latestRef.current
-      if (bookId && pos) void setCursor(cursorId(bookId), JSON.stringify(pos))
+      if (s === 'background' || s === 'inactive') flush()
     })
     return () => {
       sub.remove()
-      const pos = latestRef.current
-      if (bookId && pos) void setCursor(cursorId(bookId), JSON.stringify(pos))
+      if (timerRef.current) clearTimeout(timerRef.current)
+      flush()
     }
-  }, [bookId])
+  }, [flush])
 
   return { initial, save }
 }

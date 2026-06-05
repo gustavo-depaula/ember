@@ -39,37 +39,39 @@ type Props = {
 // biome-ignore lint/suspicious/noExplicitAny: WebView type not exported from react-native-webview
 const WebView: any = Platform.OS !== 'web' ? require('react-native-webview').default : undefined
 
-/**
- * foliate-js paginator running inside react-native-webview. Chapters are
- * passed in as HTML strings and rendered into per-chapter blob: URL iframes
- * by foliate. Style updates (font / size / theme) push through `setConfig`
- * over `injectJavaScript`, which re-blobs the chapters and restores the
- * current fraction — no WebView remount.
- */
 export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function FoliateReader(
   { chapters, initialIndex = 0, initialFraction = 0, config, onMessage },
   ref,
 ) {
   const webViewRef = useRef<unknown>(null)
 
-  // Host HTML is built ONCE with the initial chapters + config baked in, so
-  // first paint shows content without a postMessage round-trip. Subsequent
-  // chapter / config updates ride over `injectJavaScript` instead of
-  // rebuilding `html` — which would remount the WebView and blank the screen.
+  // Host HTML is built ONCE with initial chapters + config baked in. Update
+  // effects below ride over `injectJavaScript` so we never remount the
+  // WebView (which would blank the screen).
   //
-  // biome-ignore lint/correctness/useExhaustiveDependencies: html is baked at first paint only; updates flow through the effects below
+  // biome-ignore lint/correctness/useExhaustiveDependencies: baked at first paint only
   const html = useMemo(() => buildHostHtml({ chapters, initialIndex, initialFraction, config }), [])
 
-  // Reload the book when the chapter list itself changes (e.g. language switch).
+  // First mount already has chapters + config baked in — skip the redundant
+  // re-inject that would re-open the book and reset position.
+  const chapterMounted = useRef(false)
   useEffect(() => {
+    if (!chapterMounted.current) {
+      chapterMounted.current = true
+      return
+    }
     inject(
       webViewRef,
       `window.__foliate?.loadBook(${JSON.stringify(chapters)}, ${initialIndex}, ${initialFraction});true;`,
     )
   }, [chapters, initialIndex, initialFraction])
 
-  // Push style / theme updates without remounting.
+  const configMounted = useRef(false)
   useEffect(() => {
+    if (!configMounted.current) {
+      configMounted.current = true
+      return
+    }
     inject(webViewRef, `window.__foliate?.setConfig(${JSON.stringify(config)});true;`)
   }, [config])
 
@@ -107,8 +109,8 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
       onMessage={(e: { nativeEvent: { data: string } }) => {
         try {
           onMessage?.(JSON.parse(e.nativeEvent.data) as FoliateMessage)
-        } catch {
-          // swallow — protocol violation isn't actionable here
+        } catch (err) {
+          console.warn('[FoliateReader] bad message from WebView:', err)
         }
       }}
       showsVerticalScrollIndicator={false}

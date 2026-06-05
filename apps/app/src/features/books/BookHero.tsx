@@ -1,12 +1,3 @@
-/**
- * The illuminated doorway into a book — sibling of CollectionHero / PracticeHero.
- * A tall jewel-toned frontispiece: a large faint versal (the title's initial)
- * sits behind the cream title + author at the base, a single glass back button
- * rides the top-left, and a gold "Continue · ‹chapter›" / "Start reading" capsule
- * floats on the hero/column seam. No cover art today — the tone ground + versal
- * stand in, exactly like the collection hero's art-less fallback.
- */
-
 import { type Href, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'

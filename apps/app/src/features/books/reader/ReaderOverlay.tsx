@@ -7,53 +7,39 @@ import { Text } from 'tamagui'
 
 import { GlassSurface } from '@/components/GlassSurface'
 
-const PILL_HEIGHT = 36
 // Apple HIG floor is 44pt; Apple Books's close X looks ~48pt — match that.
 const ACTION_SIZE = 48
 const FADE_MS = 180
-// Side padding for both default-state pills (centered) and action buttons
-// (right-aligned). 16pt clears the safe area cleanly without crowding.
 const SIDE_PADDING = 16
 
 type Props = {
   title: string
-  /** 1-indexed chapter the reader is currently on. */
   chapter: number
-  /** Total chapter count (= TOC leaf count). */
   chapters: number
   chromeShown: boolean
-  background: string
+  isDark: boolean
   color: string
   onClose: () => void
   onMenu: () => void
 }
 
-/**
- * Apple Books–style minimal chrome. Default state: two persistent Liquid
- * Glass pills, CENTERED — book title (top) and "Page X of Y" (bottom). On
- * center-tap the chrome mode shows action buttons RIGHT-aligned (top: close
- * X, bottom: menu •••) at ~48pt diameter, matching Apple Books's Reading
- * Now overlay.
- *
- * `pointer-events: box-none` on the container so taps fall through to the
- * WebView; only the pills capture touches.
- */
 export function ReaderOverlay({
   title,
   chapter,
   chapters,
   chromeShown,
-  background,
+  isDark,
   color,
   onClose,
   onMenu,
 }: Props) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
-  const isDark = isDarkBackground(background)
   const tintColor = isDark ? 'rgba(28,26,24,0.6)' : 'rgba(244,240,234,0.7)'
 
   return (
+    // pointer-events: box-none — taps fall through to the WebView except on
+    // the action buttons themselves.
     <View
       pointerEvents="box-none"
       style={[
@@ -61,15 +47,8 @@ export function ReaderOverlay({
         { paddingTop: insets.top + 8, paddingBottom: insets.bottom + 12 },
       ]}
     >
-      {/* Top: centered title pill OR right-aligned close button */}
       {chromeShown ? (
-        <Animated.View
-          key="top-close"
-          pointerEvents="box-none"
-          entering={FadeIn.duration(FADE_MS)}
-          exiting={FadeOut.duration(FADE_MS)}
-          style={[styles.rightRow, { paddingRight: SIDE_PADDING }]}
-        >
+        <ChromeRow key="top-close" align="right">
           <Pressable
             onPress={onClose}
             hitSlop={8}
@@ -84,39 +63,25 @@ export function ReaderOverlay({
               <X size={22} color={color} />
             </GlassSurface>
           </Pressable>
-        </Animated.View>
+        </ChromeRow>
       ) : (
-        <Animated.View
-          key="top-title"
-          pointerEvents="none"
-          entering={FadeIn.duration(FADE_MS)}
-          exiting={FadeOut.duration(FADE_MS)}
-          style={styles.centerRow}
-        >
+        <ChromeRow key="top-title" align="center" pointerEvents="none">
           <Text
             fontFamily="$body"
             fontSize="$1"
             color={color}
             numberOfLines={1}
-            style={[styles.titleText, { opacity: 0.55, maxWidth: '80%' }]}
+            style={[styles.text, { opacity: 0.55, maxWidth: '80%' }]}
           >
             {title}
           </Text>
-        </Animated.View>
+        </ChromeRow>
       )}
 
-      {/* Spacer */}
       <View pointerEvents="none" style={{ flex: 1 }} />
 
-      {/* Bottom: centered page pill OR right-aligned menu button */}
       {chromeShown ? (
-        <Animated.View
-          key="bottom-menu"
-          pointerEvents="box-none"
-          entering={FadeIn.duration(FADE_MS)}
-          exiting={FadeOut.duration(FADE_MS)}
-          style={[styles.rightRow, { paddingRight: SIDE_PADDING }]}
-        >
+        <ChromeRow key="bottom-menu" align="right">
           <Pressable
             onPress={onMenu}
             hitSlop={8}
@@ -131,20 +96,14 @@ export function ReaderOverlay({
               <MoreHorizontal size={24} color={color} />
             </GlassSurface>
           </Pressable>
-        </Animated.View>
+        </ChromeRow>
       ) : (
-        <Animated.View
-          key="bottom-page"
-          pointerEvents="none"
-          entering={FadeIn.duration(FADE_MS)}
-          exiting={FadeOut.duration(FADE_MS)}
-          style={styles.centerRow}
-        >
+        <ChromeRow key="bottom-page" align="center" pointerEvents="none">
           <Text
             fontFamily="$body"
             fontSize="$1"
             color={color}
-            style={[styles.pageText, { opacity: 0.55 }]}
+            style={[styles.text, { opacity: 0.55 }]}
           >
             {t('books.chapterOfTotal', {
               defaultValue: 'Chapter {{chapter}} of {{chapters}}',
@@ -152,48 +111,44 @@ export function ReaderOverlay({
               chapters,
             })}
           </Text>
-        </Animated.View>
+        </ChromeRow>
       )}
     </View>
   )
 }
 
-// The user's chosen theme bg is the reader's background. We pick the glass
-// colorScheme so the surface stays legible — anything darker than mid gray
-// is "dark."
-function isDarkBackground(hex: string): boolean {
-  const h = hex.replace('#', '')
-  if (h.length !== 6) return false
-  const r = parseInt(h.slice(0, 2), 16)
-  const g = parseInt(h.slice(2, 4), 16)
-  const b = parseInt(h.slice(4, 6), 16)
-  return r * 0.299 + g * 0.587 + b * 0.114 < 128
+function ChromeRow({
+  align,
+  pointerEvents = 'box-none',
+  children,
+}: {
+  align: 'center' | 'right'
+  pointerEvents?: 'box-none' | 'none'
+  children: React.ReactNode
+}) {
+  return (
+    <Animated.View
+      pointerEvents={pointerEvents}
+      entering={FadeIn.duration(FADE_MS)}
+      exiting={FadeOut.duration(FADE_MS)}
+      style={[
+        align === 'right' ? styles.right : styles.center,
+        align === 'right' && { paddingRight: SIDE_PADDING },
+      ]}
+    >
+      {children}
+    </Animated.View>
+  )
 }
 
 const styles = StyleSheet.create({
-  centerRow: { alignItems: 'center', justifyContent: 'center' },
-  rightRow: { alignItems: 'flex-end', justifyContent: 'center' },
-  titleWrap: { maxWidth: '80%' },
-  titlePill: {
-    height: PILL_HEIGHT,
-    borderRadius: PILL_HEIGHT / 2,
-    paddingHorizontal: 16,
-    justifyContent: 'center',
-    overflow: 'hidden',
-  },
-  titleText: { textAlign: 'center' },
+  center: { alignItems: 'center', justifyContent: 'center' },
+  right: { alignItems: 'flex-end', justifyContent: 'center' },
+  text: { textAlign: 'center', letterSpacing: 0.3 },
   actionPill: {
     borderRadius: 9999,
     alignItems: 'center',
     justifyContent: 'center',
     overflow: 'hidden',
   },
-  pagePill: {
-    height: PILL_HEIGHT,
-    borderRadius: PILL_HEIGHT / 2,
-    paddingHorizontal: 14,
-    justifyContent: 'center',
-    overflow: 'hidden',
-  },
-  pageText: { letterSpacing: 0.3 },
 })

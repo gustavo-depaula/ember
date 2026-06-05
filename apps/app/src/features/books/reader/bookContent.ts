@@ -55,14 +55,10 @@ function bytesToBase64(bytes: Uint8Array): string {
   return btoa(binary)
 }
 
-/**
- * Throttle progress emissions to at most one per ~50ms. Critical: setTimeout
- * gives React a chance to render between emissions — React 18 batches every
- * state update inside the same task (including microtasks chained off
- * `await`), so 200+ rapid-fire setLoadProgress calls otherwise collapse into
- * a single render with the final value. A delayed callback breaks out of the
- * task and re-renders before the next batch arrives.
- */
+// React 18 batches every setState inside the same task — including
+// microtasks chained off `await`. 200+ rapid-fire progress calls in a
+// Promise.all collapse into one render with the final value. A setTimeout
+// callback runs as its own task, so React re-renders between emissions.
 function throttleProgress(
   fn: ((p: LoadProgress) => void) | undefined,
   ms: number,
@@ -81,15 +77,8 @@ function throttleProgress(
   }
 }
 
-/**
- * Load a book's chapters + stylesheet + referenced images out of the v2
- * content corpus. Each chapter is a separate hash-addressed blob; images are
- * inlined as base64 data URIs so they survive the WebView shell regardless of
- * FS path conventions.
- *
- * Reports progress through the three phases (manifest → chapters → images)
- * so the loading screen can show a real progress bar instead of a spinner.
- */
+// Images are inlined as base64 data URIs so the WebView can render them
+// without an HTTP round-trip or FS-permission dance.
 export async function loadBookContent(
   bookId: string,
   lang: string,
@@ -118,7 +107,9 @@ export async function loadBookContent(
         try {
           const raw = await getText(ref.hash)
           chapters.set(id, ref.format === 'html' ? raw : await md.parse(raw))
-        } catch {}
+        } catch (err) {
+          console.warn(`[bookContent] chapter ${id} (${lang}) failed to load:`, err)
+        }
       }
       chapterDone++
       onProgress?.({ phase: 'chapters', completed: chapterDone, total: chapterTotal })
@@ -144,7 +135,9 @@ export async function loadBookContent(
           const bytes = await getBlob(ref.hash)
           const mime = ref.mime ?? mimeForExt(src)
           images.set(src, `data:${mime};base64,${bytesToBase64(bytes)}`)
-        } catch {}
+        } catch (err) {
+          console.warn(`[bookContent] image ${src} failed to load:`, err)
+        }
       }
       imageDone++
       onProgress?.({ phase: 'images', completed: imageDone, total: imageTotal })

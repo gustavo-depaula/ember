@@ -14,6 +14,7 @@ import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
+import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
 import { PrologueProse } from '@/features/collections'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
@@ -22,8 +23,6 @@ import { useNowPlayingClearance } from '@/stores/creatorsStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const nativeTabBarClearance = 56
-
-type ReadingPosition = { chapterId: string; page: number }
 
 export default function BookDetailScreen() {
   const { bookId } = useLocalSearchParams<{ bookId: string }>()
@@ -73,17 +72,8 @@ export default function BookDetailScreen() {
   const author = authorSrc ? localizeContent(authorSrc as never) : undefined
   const description = book?.description ? localizeContent(book.description) : undefined
 
-  // Resume: a short "Continue" pill (the long chapter title bloated the button),
-  // with the saved chapter marked in the Contents list below instead.
   const cursor = getCursor(bookRef)
-  let resumeChapterId: string | undefined
-  if (cursor) {
-    try {
-      resumeChapterId = (JSON.parse(cursor.position) as ReadingPosition).chapterId
-    } catch {
-      resumeChapterId = undefined
-    }
-  }
+  const resumeChapterId = cursor ? parseReaderPosition(cursor.position)?.chapterId : undefined
   const ctaLabel = resumeChapterId ? t('book.continue') : t('book.startReading')
 
   const readerHref = (chapter?: string): Href => ({

@@ -17,11 +17,6 @@ type Props = {
 // after mount and re-animates, producing a visible double-snap on iOS.
 const sheetFraction = 0.32
 
-/**
- * The Apple Books-style menu sheet. Two rows for MVP — Contents + Themes &
- * Settings. Each row dismisses this sheet and opens a dedicated sub-sheet so
- * the surfaces never stack visually.
- */
 export function ReaderMenuSheet({ open, onClose, onContents, onSettings }: Props) {
   const { t } = useTranslation()
   const theme = useTheme()

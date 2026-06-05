@@ -18,7 +18,11 @@ import {
   type LoadProgress,
   loadBookContent,
 } from './bookContent'
-import { FoliateReader, type FoliateReaderHandle } from './foliate/FoliateReader'
+import {
+  type FoliateMessage,
+  FoliateReader,
+  type FoliateReaderHandle,
+} from './foliate/FoliateReader'
 import { ReaderMenuSheet } from './ReaderMenuSheet'
 import { ReaderOverlay } from './ReaderOverlay'
 import { ReaderSettingsSheet } from './ReaderSettingsSheet'
@@ -31,8 +35,10 @@ type Props = {
   chapter?: string
 }
 
-// Map the three load phases to a smooth 0..1 fill so the bar never resets.
-// Manifest: 0..0.1, chapters: 0.1..0.7, images: 0.7..1.0.
+const BAR_WIDTH = 220
+
+// Manifest: 0..0.1, chapters: 0.1..0.7, images: 0.7..1.0 — keeps the bar
+// always moving forward across phases.
 function computeProgressFraction(p: LoadProgress | undefined): number {
   if (!p) return 0
   const ratio = p.total > 0 ? p.completed / p.total : 0
@@ -41,13 +47,12 @@ function computeProgressFraction(p: LoadProgress | undefined): number {
   return 0.7 + ratio * 0.3
 }
 
-const BAR_WIDTH = 220
+const phaseToKey = {
+  manifest: 'books.loadingManifest',
+  chapters: 'books.loadingChapters',
+  images: 'books.loadingImages',
+} as const
 
-/**
- * Themed loading pane: book title in italic, animated progress bar, phase
- * label. Lives in its own component so it can own hooks (shared value +
- * timing) without polluting BookReader's top-level hook list.
- */
 function LoadingPane({
   background,
   color,
@@ -63,23 +68,14 @@ function LoadingPane({
   const fillWidth = useSharedValue(0)
 
   useEffect(() => {
-    const target = computeProgressFraction(progress) * BAR_WIDTH
-    // Animate even on instant updates: when chapters resolve in the same tick
-    // React batches the state updates into one render, but the bar should
-    // still play the visual transition over ~300ms instead of snapping.
-    fillWidth.value = withTiming(target, { duration: 300 })
+    // Animate even when React batches multiple setLoadProgress calls into
+    // one render — 200+ chapters resolving in the same task would otherwise
+    // snap from 0 to 100% in a single frame.
+    fillWidth.value = withTiming(computeProgressFraction(progress) * BAR_WIDTH, { duration: 300 })
   }, [progress, fillWidth])
 
   const fillStyle = useAnimatedStyle(() => ({ width: fillWidth.value }))
-
-  const statusKey =
-    progress?.phase === 'images'
-      ? 'books.loadingImages'
-      : progress?.phase === 'chapters'
-        ? 'books.loadingChapters'
-        : progress?.phase === 'manifest'
-          ? 'books.loadingManifest'
-          : 'books.opening'
+  const statusKey = progress ? phaseToKey[progress.phase] : 'books.opening'
 
   return (
     <YStack
@@ -148,10 +144,9 @@ export function BookReader({ bookId, chapter }: Props) {
   const rawConfig = useReaderConfig()
   const cursor = useReaderCursor(bookId)
 
-  // Foliate's `margin` attribute drives the iframe's top/bottom column inset
-  // (single value for both). Floor it at the safe-area insets so the text
-  // never bleeds into the notch / home indicator, AND leave room below for
-  // the bottom Liquid Glass pill (height 36 + 12 inset margin + 8 buffer).
+  // Floor foliate's margin at the safe-area insets so text never bleeds into
+  // the notch or home indicator. The +56 at the bottom also clears the
+  // page-indicator text (~36px tall + 12px inset margin + 8px buffer).
   const config = useMemo(
     () => ({
       ...rawConfig,
@@ -160,9 +155,6 @@ export function BookReader({ bookId, chapter }: Props) {
     [rawConfig, insets.top, insets.bottom],
   )
 
-  // Resolve where to start. An explicit `chapter` (from frontispiece TOC) wins
-  // over the saved cursor; otherwise restore where the reader left off; else
-  // open at the first leaf.
   const { startIndex, startFraction } = useMemo(() => {
     if (leaves.length === 0) return { startIndex: 0, startFraction: 0 }
     if (chapter) {
@@ -202,12 +194,7 @@ export function BookReader({ bookId, chapter }: Props) {
     return leaves.map((l) => getChapterBody(bookContent, l.id, titleLookup.get(l.id)))
   }, [bookContent, leaves, titleLookup])
 
-  const [pageState, setPageState] = useState({
-    index: 0,
-    page: 1,
-    pages: 1,
-    fraction: 0,
-  })
+  const [chapterIndex, setChapterIndex] = useState(0)
   const [chromeShown, setChromeShown] = useState(false)
   const [menuOpen, setMenuOpen] = useState(false)
   const [tocOpen, setTocOpen] = useState(false)
@@ -215,32 +202,16 @@ export function BookReader({ bookId, chapter }: Props) {
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
 
-  // Debounced cursor save — held in a ref so onMessage stays identity-stable.
-  const saveTimerRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined)
-  useEffect(() => {
-    return () => {
-      if (saveTimerRef.current) clearTimeout(saveTimerRef.current)
-    }
-  }, [])
-
   const onMessage = useCallback(
-    (msg: { type: string } & Record<string, unknown>) => {
+    (msg: FoliateMessage) => {
       if (msg.type === 'centerTap') {
         setChromeShown((s) => !s)
         return
       }
       if (msg.type === 'relocate') {
-        const index = msg.index as number
-        const fraction = msg.fraction as number
-        const page = msg.page as number
-        const pages = msg.pages as number
-        setPageState({ index, page, pages, fraction })
-        const chapterId = leaves[index]?.id
-        if (!chapterId) return
-        if (saveTimerRef.current) clearTimeout(saveTimerRef.current)
-        saveTimerRef.current = setTimeout(() => {
-          cursor.save({ chapterId, fraction })
-        }, 1000)
+        setChapterIndex(msg.index)
+        const chapterId = leaves[msg.index]?.id
+        if (chapterId) cursor.save({ chapterId, fraction: msg.fraction })
       }
     },
     [leaves, cursor.save],
@@ -286,7 +257,7 @@ export function BookReader({ bookId, chapter }: Props) {
     )
   }
 
-  const currentChapterId = leaves[pageState.index]?.id
+  const currentChapterId = leaves[chapterIndex]?.id
 
   return (
     <View flex={1} backgroundColor={config.background}>
@@ -301,10 +272,10 @@ export function BookReader({ bookId, chapter }: Props) {
 
       <ReaderOverlay
         title={bookTitle}
-        chapter={pageState.index + 1}
+        chapter={chapterIndex + 1}
         chapters={leaves.length}
         chromeShown={chromeShown}
-        background={config.background}
+        isDark={config.isDark}
         color={config.color}
         onClose={() => router.back()}
         onMenu={() => setMenuOpen(true)}

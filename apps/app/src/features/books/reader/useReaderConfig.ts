@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { useColorScheme } from 'react-native'
-import { readingFonts } from '@/config/readingFonts'
+import { getCssFontFamily } from '@/config/readingFonts'
 import { readingScale } from '@/hooks/useReadingStyle'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -19,19 +19,9 @@ export type ReaderConfig = {
   textAlign: 'justify' | 'left'
   background: string
   color: string
+  isDark: boolean
 }
 
-// expo-font registers families like `EBGaramond_400Regular`, but WebKit (which
-// renders the iframe inside react-native-webview) addresses the same face by
-// its PostScript name `EBGaramond-Regular`. The underscore form silently falls
-// back to the system serif. We strip the `_<weight>` suffix and use a hyphen.
-export function toCssFontFamily(id: string): string {
-  const def = readingFonts.find((f) => f.id === id)
-  if (!def) return 'Georgia'
-  return def.family.replace(/_\d+(?=[A-Z])/, '-')
-}
-
-/** Memoised foliate ReaderConfig sourced from preferencesStore + system theme. */
 export function useReaderConfig(): ReaderConfig {
   const systemScheme = useColorScheme()
   const themePreference = usePreferencesStore((s) => s.theme)
@@ -47,13 +37,14 @@ export function useReaderConfig(): ReaderConfig {
     const fontSizePx = readingScale.fontSize[fontSizeStep - 1]
     const ratio = readingScale.leadingRatio[lineHeightStep - 1]
     return {
-      fontFamily: toCssFontFamily(fontFamilyId),
+      fontFamily: getCssFontFamily(fontFamilyId),
       fontSizePx,
       lineHeightPx: Math.round(fontSizePx * ratio),
       marginPx: marginToPx[margin],
       textAlign,
       background: themeColors[isDark ? 'dark' : 'light'].background,
       color: themeColors[isDark ? 'dark' : 'light'].color,
+      isDark,
     }
   }, [themePreference, systemScheme, fontFamilyId, fontSizeStep, lineHeightStep, textAlign, margin])
 }
