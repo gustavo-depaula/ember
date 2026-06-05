@@ -95,6 +95,13 @@ class WorkSpec:
     parts: list[dict]              # list of {wid, did_la, did_en, label_en, label_la, rows}
     # Optional override: include other did IDs (e.g. RSV bible text for Pauline) as inline blockquotes
     include_rsv_dids: dict[int, int] = field(default_factory=dict)
+    # Optional override: promote short body-style rows that look like rubric
+    # labels (e.g. "Magnificat antiphon from First Vespers") to header style.
+    # aquinas.cc occasionally tags these as body 'u' instead of a header style
+    # 'a'-'t'; for prayer/liturgical works this makes the chapter read as one
+    # undifferentiated block. Single-line, short (≤80 char), title-cased, no
+    # trailing sentence punctuation.
+    promote_rubric_labels: bool = False
 
 
 # Each part: {"wid": int, "did_la": int, "did_en": int, "label_en": str, "label_la": str, "rows": int}
@@ -261,6 +268,7 @@ WORKS_CC: dict[str, WorkSpec] = {
         description_la="Orationes devotionales Thomae Aquinati attributae — *Ante Studium*, *Post Studium*, *Concede Mihi*, *Pia Oratio*, orationes ad communionem, et aliae.",
         en_translator_note="Translations from aquinas.cc.",
         parts=[{"wid": 176, "did_la": 1254, "did_en": 1253, "label_en": "Devotional Prayers", "label_la": "Orationes", "rows": 226}],
+        promote_rubric_labels=True,
     ),
     # ------ Hymns and Songs ------
     "hymns": WorkSpec(
@@ -583,6 +591,8 @@ STYLE_BODY = "u"
 STYLE_BLOCK = "v"
 STYLE_LIST = "w"
 STYLE_SCRIPTURE = "x"
+STYLE_TEXT_A = "y"
+STYLE_TEXT_B = "z"
 STYLE_AUX = set("yz")
 
 
@@ -743,6 +753,27 @@ def slug(text: str) -> str:
     return text.strip("-") or "chapter"
 
 
+def _looks_like_rubric_label(text: str) -> bool:
+    """Heuristic for promoting short body rows to header style — used by
+    works that aquinas.cc has tagged inconsistently (the Devotional Prayers,
+    where labels like "Magnificat antiphon from First Vespers" arrive as
+    style 'u' but should clearly be rendered as headers above the prayer
+    they introduce)."""
+    if not text or "\n" in text:
+        return False
+    s = text.strip()
+    if len(s) > 80:
+        return False
+    if not s[0].isupper():
+        return False
+    if s.endswith((".", "!", "?", ",", "—", "–")):
+        return False
+    # Avoid catching trivially short body fragments ("Amen", "Yes")
+    if len(s.split()) < 2:
+        return False
+    return True
+
+
 def render_chapter(
     chap: OutlineNode,
     style_chars: str,
@@ -751,6 +782,7 @@ def render_chapter(
     lang: str,
     end_position: int,
     fallback_title: str = "",
+    promote_rubric_labels: bool = False,
 ) -> str:
     """Render one chapter (between chap.position inclusive and end_position
     exclusive) as Markdown in the chosen language.
@@ -822,6 +854,15 @@ def render_chapter(
             max_line_len = max((len(ln) for ln in split_lines), default=0)
             if max_line_len > 80:
                 is_header_style = False
+        # Reverse direction: opt-in per-work, promote short body rows that
+        # look like rubric labels back up to header style.
+        if (
+            not is_header_style
+            and promote_rubric_labels
+            and style in (STYLE_BODY, STYLE_TEXT_A, STYLE_TEXT_B)
+            and _looks_like_rubric_label(text)
+        ):
+            is_header_style = True
         if is_header_style:
             # Inner structural marker (#Lecture, #Chapter, lecture body opener,
             # etc.). The outline already drives the chapter heading; render
@@ -980,8 +1021,8 @@ def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
                 cid = cid_base
             fallback_en = label_en if part_group else spec.name_en
             fallback_la = label_la if part_group else spec.name_la
-            md_en = render_chapter(chap, style_chars, la_rows, en_rows, "en-US", end, fallback_title=fallback_en)
-            md_la = render_chapter(chap, style_chars, la_rows, en_rows, "la", end, fallback_title=fallback_la)
+            md_en = render_chapter(chap, style_chars, la_rows, en_rows, "en-US", end, fallback_title=fallback_en, promote_rubric_labels=spec.promote_rubric_labels)
+            md_la = render_chapter(chap, style_chars, la_rows, en_rows, "la", end, fallback_title=fallback_la, promote_rubric_labels=spec.promote_rubric_labels)
             if not dry_run:
                 if has_english:
                     (en_dir / f"{cid}.md").write_text(md_en, encoding="utf-8")

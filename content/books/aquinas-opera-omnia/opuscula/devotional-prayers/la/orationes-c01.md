@@ -14,7 +14,7 @@ Ecclesiae tuae, quaesumus, Domine, unitatis et pacis propitius dona concede, qua
 
 Fac nos, quaesumus, Domine, divinitatis tuae sempiterna fruitione repleri, quam pretiosi corporis et sanguinis tui temporalis perceptio praefigurat. Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus per omnia saecula saeculorum. Amen.  
 
-In elevatione Corporis Christi  
+***In elevatione Corporis Christi***
 
 O salutaris Hostia, quae caeli pandis ostium, bella premunt hostilia, da robur, fer auxilium.  
 

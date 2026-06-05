@@ -6,23 +6,23 @@ Selection of prayers extracted from the Office of Corpus Christi *(These prayers
 
 O how kind is your Spirit, Lord, who, to show your sweetness towards your children, provides the sweetest bread from heaven, filling the hungry with good things, sending the haughty rich away empty.  
 
-Magnificat antiphon from Second Vespers  
+***Magnificat antiphon from Second Vespers***
 
 O sacred banquet in which Christ is received, the memory of his passion renewed, the soul is filled with grace, and a pledge of future glory is given to us.  
 
-Magnificat antiphon from Octave  
+***Magnificat antiphon from Octave***
 
 He has made a memorial of his wonderful works, the gracious and merciful Lord. He has given food to those who fear him.  
 
-Prayer from the Office Hours and Collect from the Mass  
+***Prayer from the Office Hours and Collect from the Mass***
 
 God, who has left us, in a wonderful sacrament, a memorial of your passion, grant, we pray, that we may venerate the mystery of your body and blood, so that we may always feel within ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
-Secret from the Mass  
+***Secret from the Mass***
 
 We ask, Lord, that you mercifully grant to your Church the gifts of unity and peace, which are mystically signified beneath the gifts we offer. Through our Lord Jesus Christ your Son, who lives and reigns with you in the unity of the Holy Spirit, world without end. Amen.  
 
-Post-Communion Prayer from the Mass  
+***Post-Communion Prayer from the Mass***
 
 Grant, we ask, O Lord, that we be filled with the everlasting enjoyment of your divinity, which the temporal perception of your precious body and blood prefigures. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
