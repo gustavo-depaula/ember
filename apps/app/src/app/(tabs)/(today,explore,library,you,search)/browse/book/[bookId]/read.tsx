@@ -21,6 +21,7 @@ import {
   loadBookContent,
   type ReaderConfig,
 } from '@/features/books/bookReader'
+import { FoliateBookScreen } from '@/features/books/foliate/FoliateBookScreen'
 import { ReaderTocSheet } from '@/features/books/ReaderTocSheet'
 import type { ReaderMessage, ReaderWebViewHandle } from '@/features/books/ReaderWebView'
 import { ReaderWebView } from '@/features/books/ReaderWebView'
@@ -36,6 +37,15 @@ function cursorId(bookId: string) {
 }
 
 export default function BookReaderScreen() {
+  const { bookId, reader } = useLocalSearchParams<{ bookId: string; reader?: string }>()
+  // Foliate POC opt-in via `?reader=foliate`. Dispatched here so the legacy
+  // reader's hooks never run for foliate sessions (and vice versa) — keeps
+  // rules-of-hooks happy without a deep refactor of either tree.
+  if (reader === 'foliate' && bookId) return <FoliateBookScreen bookId={bookId} />
+  return <LegacyBookReaderScreen />
+}
+
+function LegacyBookReaderScreen() {
   const { bookId, chapter } = useLocalSearchParams<{ bookId: string; chapter?: string }>()
   const router = useRouter()
   const navigation = useNavigation()
