@@ -1,7 +1,5 @@
 # D. 43 - The resurrection of the body
 
-***The resurrection of the body***
-
 After the Master has examined the sacraments that pertain to the Church’s present state, he begins in this part to consider those things that pertain to the Church’s final destination, namely, the final resurrection and final recompense.  
 
 Therefore this part is divided into two: in the first part, he considers those things that pertain to the resurrection of the body; in the second, those things that pertain to the reward that the resurrection is ordered to, in Distinction 45, at: *moreover, it is to be known that, as Augustine says, “all souls, when they have left this world, have different receptions.”* *(*Sententiae* IV, 45.1 (259). 1.)*  

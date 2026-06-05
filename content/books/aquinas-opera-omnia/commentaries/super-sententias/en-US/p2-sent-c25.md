@@ -1,7 +1,5 @@
 # D. 45 - The Will of God
 
-***The Will of God***
-
 ***Division of the text***
 
 After the Master has considered the knowledge and omnipotence of God, now he third considers his will. And this is divided into two parts: in the first, he considers God’s will; in the second he considers the conformity of our will with his will, at *it is also to be known that at times the will of a man who wills the same as what God wills to be done is evil*. *(*Sent*. I, 48.1(207).1.)*  

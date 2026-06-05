@@ -1,7 +1,5 @@
 # D. 8 - What belongs to the divine nature on account of the union
 
-***What belongs to the divine nature on account of the union***
-
 ***Division of the text***
 
 After the Master has considered what that belongs to God incarnate as expressing the union, here he considers what belongs to him consequent on the union.  

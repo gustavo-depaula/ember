@@ -1,7 +1,5 @@
 # D. 41 - On affinity
 
-***On affinity***
-
 After the Master has considered the impediment of consanguinity, here he considers the impediment to marriage that arises from affinity; and this is divided into two parts: in the first he shows how affinity impedes marriage; in the second he gives the names of affinity, where he says: *let that text of Alexander also be noted*, etc. *(*Sententiae* IV, 41.5–9 (232–236). 3.)*  
 
 The first is in three parts: in the first he shows how affinity impedes marriage, just as consanguinity does; in the second he shows how a marriage may be dissolved because of consanguinity and affinity, where he says: *and it is to be known that the Church separates those who are joined within the said degrees of consanguinity*; *(*Sent*. IV, 41.3 (230). 1.)* in the third, he considers incest, in which the bond of consanguinity and affinity is violated by physical intimacy, by differentiating from other vices of the same genus, where he says: *here it is to be said that fornication is one thing, defilement another thing*, etc. *(*Sent*. IV, 41.5–9 (232–236). 1.)*  

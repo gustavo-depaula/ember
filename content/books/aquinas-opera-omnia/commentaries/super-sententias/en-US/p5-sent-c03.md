@@ -1,7 +1,5 @@
 # D. 2 - The nature assumed in the Incarnation
 
-***The nature assumed in the Incarnation***
-
 ***Division of the text***
 
 After considering the Incarnation from the side of the one doing the assuming, in this part he considers it from the side of the nature that was assumed.  

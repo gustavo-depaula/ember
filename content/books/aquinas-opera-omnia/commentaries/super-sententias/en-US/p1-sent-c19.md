@@ -1,7 +1,5 @@
 # D. 18 - The Holy Spirit as gift
 
-***The Holy Spirit as gift***
-
 ***Division of the text***
 
 Having considered the temporal procession of the Holy Spirit, here he considers the name that belongs to him according to the account whereby he temporally proceeds: that is, “gift.”  

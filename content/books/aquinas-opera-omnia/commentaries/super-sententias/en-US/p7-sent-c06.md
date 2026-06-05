@@ -1,7 +1,5 @@
 # D. 5 - The cause of baptism
 
-***The cause of baptism***
-
 After the Master has examined baptism in relation to its recipients, here he examines it in relation to those giving it; and this is divided into two parts. In the first, he shows by whom baptism can be given; in the second, by whom and how it ought to be given, at Distinction 6: *Now let us add something about those for whom it is lawful to baptize*. *(Peter Lombard, *Sententiae* IV, 6.1 (36), 1.)*  
 
 The first is in three parts: in the first, he shows by whom baptism can be given, since it may be given by good men and bad; in the second, he assigns the reason, at: *[This is] because they have only the ministry, not the power, of baptism*; *(*Sent*. IV, 5.2 (34), 1.)* in the third, he expels a particular doubt, at: *Here it is asked what is that power of baptism that Christ retained for himself*. *(*Sent*. IV, 5.3 (35), 1.)*  

@@ -1,7 +1,5 @@
 # D. 21 - Exclusive diction in the divine
 
-***Exclusive diction in the divine***
-
 ***Division of the text***
 
 Having shown the equality of the persons, therefore, because the Master made use of certain expressions in his proposition wherein exclusive diction was added to personal terms—for example, when it is said that the Father *alone* has as much power as all three do together, and the like) *(This is not an exact quotation in the previous distinctions, though the exclusive diction is used of the Father’s greatness (or magnitude) in Peter Lombard’s *Sentences*, bk. 1, d. 19, ch. 12 (83), para. 1 (*Sent*. I, 1.19.12[83].1), and of his power in *Sent*. I, 20.1(84).2.)*—in this part he inquires about the truth of expressions of this sort, how exclusive diction of this sort can be joined to the divine names. Therefore this is divided into two parts: in the first, he asks whether exclusive diction can be joined to a personal name placed in the subject along with a personal predicate; in the second, he asks whether it can be joined to a personal name when what is essential is being predicated of him, such as “the Father alone is God,” at *after these, it is asked whether, as it is said, the Father alone is father, or the Son alone is son, it can also be said: the Father alone is God, or the Son alone is God*. *(*Sent*. I, 21.2(88).1.)*  

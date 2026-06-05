@@ -1,7 +1,5 @@
 # D. 22 - What follows from the death of Christ
 
-***What follows from the death of Christ***
-
 ***Division of the text***
 
 Having considered the things that pertain to Christ’s death, that is, according to what notion he is said to have died, here the Master considers the things that follow upon Christ’s death. It is divided into two parts:  

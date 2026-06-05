@@ -1,7 +1,5 @@
 # D. 9 - What belongs to the human nature on account of the union
 
-***What belongs to the human nature on account of the union***
-
 ***Division of the text***
 
 After the Master has considered what belongs to the divine nature from its union with the human, here he considers what belongs to the human nature from its union with the divine—namely, that it be adored with the adoration of latria.  

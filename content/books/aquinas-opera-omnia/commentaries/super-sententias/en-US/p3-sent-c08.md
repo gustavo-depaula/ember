@@ -1,7 +1,5 @@
 # D. 7 - Power of the angels
 
-***Power of the angels***
-
 ***Division of the text***
 
 Having determined what pertains to the condition of nature with regard to the good and wicked angels alike, here he subsequently treats of what pertains to their power and strength. And it is divided into two parts.  

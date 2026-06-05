@@ -1,7 +1,5 @@
 # D. 26 - On matrimony
 
-***On matrimony***
-
 After the Master has discussed the sacrament of holy orders, which is ordered to the spiritual multiplication of the Church, here he begins to consider matrimony, which is ordered to the material multiplication of the faithful. And it is divided into two parts: in the first, he considers matrimony; in the second, persons contracting matrimony, at Distinction 34: *now it remains to note what persons are lawful to contract marriage*. *(*Sententiae* IV, 34.1 (198). 1.)*  
 
 The first is in two parts: in the first he determines those things that pertain to marriage as it is a sacrament; in the second he determines the causes of marriage, at Distinction 27: *after these matters it is to be considered what marriage is*. *(*Sent*. IV, 27.1 (163). 1.)*  

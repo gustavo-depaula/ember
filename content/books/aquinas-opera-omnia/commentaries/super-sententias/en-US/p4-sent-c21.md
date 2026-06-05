@@ -1,7 +1,5 @@
 # D. 41 - The act of sin in comparison to the intention and the will
 
-***The act of sin in comparison to the intention and the will***
-
 ***Division of the text***
 
 Having shown that the external act possesses malice or goodness from the simple intention or will, here he addresses a certain question concerning what was previously settled. And it is divided into two parts.  

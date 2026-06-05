@@ -1,7 +1,5 @@
 # D. 25 - Conferral of holy orders
 
-***Conferral of holy orders***
-
 After the Master has considered the sacrament of holy orders, here he examines those conferring and receiving this sacrament. And it is divided into two parts; in the first, he considers those who confer it; in the second, those who receive it, at: *the sacred canons have set forth that a subdeacon is not to be ordained before his fourteenth year*, etc. *(*Sententiae* IV, 25.7 (156). 1.)*  
 
 The first is in two parts: in the first, he inquires about heretics, whether they can ordain; second, particularly about simoniacs, at: *as to simoniacs, it is not to be doubted that they are heretics*. *(*Sent*. IV, 25.2 (151). 1.)*  

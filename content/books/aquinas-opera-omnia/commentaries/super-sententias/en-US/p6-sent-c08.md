@@ -1,7 +1,5 @@
 # D. 30 - Order of charity as regards merit
 
-***Order of charity as regards merit***
-
 ***Division of the text***
 
 *Here it is usual to ask what is better and of greater merit, to love one’s friends or to love one’s enemies*. *(*Sent.* III, 30.1(111).1.)* After the Master has determined the order of charity with respect to diverse objects of love as to the quantity of love, here he considers this order as to the efficacy of meriting.  

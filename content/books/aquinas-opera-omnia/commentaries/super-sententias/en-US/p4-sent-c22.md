@@ -1,7 +1,5 @@
 # D. 42 - Parts and modes of sin
 
-***Parts and modes of sin***
-
 ***Division of the first part of the text***
 
 After he has addressed sin in general, here he addresses sin in comparison to its classes. And it is divided into two parts.  

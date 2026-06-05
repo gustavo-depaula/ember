@@ -1,7 +1,5 @@
 # D. 18 - Christ's merit as ordered to the good
 
-***Christ's merit as ordered to the good***
-
 ***Division of the text***
 
 After the Master has considered Christ’s will, which was the principle of his meriting, here he considers his merit itself.  

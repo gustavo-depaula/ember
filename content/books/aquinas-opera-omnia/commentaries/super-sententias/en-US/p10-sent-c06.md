@@ -1,7 +1,5 @@
 # D. 48 - The second coming
 
-***The second coming***
-
 After the Master has considered the divine judgment as regards the mode of the judgment and the judge’s ministers, here he determines what pertains to the person of the judge. And it is divided into two parts. In the first part, he shows what form Christ will appear in when he comes to judge. In the second, he determines the circumstances of the judgment: *some hold that the Lord will descend into the valley of Josaphat for the judgment*. *(*Sententiae* IV, 48.4 (278). 1.)*  
 
 The first part is divided into two parts. In the first, he shows that Christ will judge in the form of man. In the second, he invokes a likeness, namely, that Christ as man is the cause of the resurrection of bodies: *and as it is said that Christ, for the aforementioned cause, will judge according to the form of a servant, so also it is said that he will raise the bodies of the dead according to his humanity*. *(*Sent*. IV, 48.3 (277). 1.)*  

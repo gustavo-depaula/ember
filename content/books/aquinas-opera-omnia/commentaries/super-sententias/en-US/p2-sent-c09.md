@@ -1,7 +1,5 @@
 # D. 29 - The name “principle”
 
-***The name “principle”***
-
 ***Division of the text***
 
 After having considered innascibility, which is a person’s property, though not a personal property, here he considers the other notion, one that is neither a person’s property—since it does not belong to only one person—nor a personal property—since it does not constitute a person—namely, common spiration. This is designated when one says, “the Father and the Son are the principle of the Holy Spirit.” And this is divided into two parts: in the first, he shows how the name “principle” is said of God; and because “principle” is sometimes said in reference to time, and sometimes from eternity, therefore, in the second, he shows how something can be said of God in reference to time, at *for there are some things which are said of God in time*. *(*Sent*. I, 30.1(129).1.)*  

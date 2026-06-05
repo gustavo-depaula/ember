@@ -1,7 +1,5 @@
 # D. 38 - On religious vows
 
-***On religious vows***
-
 After the Master has considered the impediment of orders, here he considers the impediment of religious vows; and this is divided into two parts: in the first, he shows how someone is impeded from contracting marriage through a vow by which he obliges himself to God; in the second, how a marriage is impeded by another marriage already contracted, by which a man has obliged himself to a wife, where he states: *when a husband and wife are lawfully united*, etc. *(*Sententiae* IV, 38.2 (215). 10.)*  
 
 The first part is divided into three: first, he shows what a vow is; in the second, he distinguishes many kinds of vows, where he states: *but it is to be known that one kind of vow is common, another singular*; *(*Sent*. IV, 38.2 (215). 1.)* in the third, he shows which vow impedes marriage and how, where he says: *those who make a private vow of continence must not contract marriage*. *(*Sent*. IV, 38.2 (215). 2.)*  

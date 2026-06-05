@@ -1,7 +1,5 @@
 # D. 1 - Enjoyment and use
 
-***Enjoyment and use***
-
 ***Division of the text***
 
 Having concluded the prologue, this is the beginning of the present work wherein the Master intends to hand on to us the doctrine of divine things, for the inquiry of truth and the destruction of error. This is also why in the entire work he proceeds in an argumentative way, and principally uses arguments from authority. Now, the text is divided into two parts: in the first, he inquires about those things to be dealt with and the order in which they should be treated; in the second, he carries out his intention. And this is divided into two parts, the second part beginning at *here we must consider whether the virtues are to be used or enjoyed*. *(*Sent*. I, 1.3.7.)*  

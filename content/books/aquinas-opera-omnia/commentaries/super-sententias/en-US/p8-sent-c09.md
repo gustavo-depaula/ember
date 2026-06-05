@@ -1,7 +1,5 @@
 # D. 22 - On the effect of penance
 
-***On the effect of penance***
-
 After the Master has determined the time of penance, which is concomitant with penance itself, here he examines certain things that pertain to its effect, which is the remission of sins. And it is divided into two parts: in the first, he inquires whether the remission of sins is irrevocable, or whether forgiven sins may return one day; in the second, since in any sacrament the effect is the sacrament’s reality, he inquires what is the sacrament-and-reality in penance, at: *after the aforesaid, it remains to investigate*. *(*Sententiae* IV, 22.2 (126). 1.)*  
 
 Concerning the first he does three things: first, he raises the question; second, he sets down different opinions about the resolution of this question, at: *the solution to this question is obscure and complex*. *(*Sent*. IV, 22.1 (125). 1.)* Third, he pursues the opinions in detail, at: *those who say that remitted sins return fortify themselves with the authorities that follow*. *(*Sent*. IV, 22.2 (125). 2.)*  

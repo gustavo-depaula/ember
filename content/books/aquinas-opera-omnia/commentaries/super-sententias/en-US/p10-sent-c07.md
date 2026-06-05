@@ -1,7 +1,5 @@
 # D. 49 - The rewards of the blessed
 
-***The rewards of the blessed***
-
 After the Master has considered what pertains to the general judgment, in this part he begins to consider the rewards and punishments that follow the general judgment. And it is divided into two parts. In the first, he determines the rewards of the good. In the second, the punishments of the wicked, at Distinction 50: *here a question arises*. *(*Sententiae* IV 50.1 (284). 1.)*  
 
 Now the first part is divided into three parts. In the first, he describes what will be the quality of the beatitude, or blessedness, of the saints, which will be given to them as a reward after the general judgment. In the second, he shows how every human appetite tends to its attainment: *concerning blessedness, it is also usual to ask whether all wish it*. *(*Sent*. IV 49.1 (280). 3.)*  

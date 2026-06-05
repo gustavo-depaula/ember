@@ -1,7 +1,5 @@
 # D. 5 - Divine generation and divine essence
 
-***Divine generation and divine essence***
-
 ***Division of the text***
 
 Here the Master presents a question about the names signifying the essence in the abstract, whether some of them can stand to the generation of the Son as its subject or terminus. And he does three things about this. First he states the question; second, he answers it, at *in consensus with Catholic expounders, we say regarding this*; *(*Sent*. I, 5.1(15).1.)* third, he confirms this answer, at *therefore, it is not to be said that the Father generated a divine essence*. *(*Sent*. I, 5.1(15).2.)*  

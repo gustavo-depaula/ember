@@ -1,7 +1,5 @@
 # D. 23 - The virtues and faith
 
-***The virtues and faith***
-
 ***Division of the text***
 
 After the Master has examined those things pertaining to Christ by which we have been restored efficiently, here he begins to study things that restore us formally, which are the habits informing the soul by grace.  

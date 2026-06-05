@@ -1,7 +1,5 @@
 # D. 48 - Conformity of our will to the will of God
 
-***Conformity of our will to the will of God***
-
 ***Division of the text***
 
 Having considered God’s will, here he considers the conformity of our will to his will. And this is divided into two parts: in the first, he determines the truth; in the second, based on the truth determined, he considers certain questions, at *from this follows the solution to the question*. *(*Sent*. I, 48.3(209).1.)*  

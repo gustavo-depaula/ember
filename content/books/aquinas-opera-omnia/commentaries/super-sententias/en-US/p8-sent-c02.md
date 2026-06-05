@@ -1,7 +1,5 @@
 # D. 15 - Requirements for penance
 
-***Requirements for penance***
-
 After the Master has considered penance according to its truth, showing what penance is according to its true account, and removing the error of certain people who wished to add future perseverance to the definition of penance, here he considers penance according to its integrity, removing the error of certain people who held the false opinion that it is possible to do penance for one sin and not for another, which is against the integrity of penance. And this is divided into two parts: in the first, he gives the arguments that are the cause of the error; in the second, he disproves this error, at: *I judge that a sufficient response has been made to those*. *(*Sententiae* IV, 15.7 (85). 3.)*  
 
 The first is in two parts, according as the error mentioned was posited in two ways; for in the first part he criticizes the arguments of those who said that penance may be done for one sin without the others, and be fruitful for the present time; in the second, he criticizes those who held that this was fruitful not for the present, but for the future, when one has done penance for the other sins, at: *and yet it seems to some that it was satisfaction, but it is fruitless*. *(*Sent*. IV, 15.6 (84). 2.)*  

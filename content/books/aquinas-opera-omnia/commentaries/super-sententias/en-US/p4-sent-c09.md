@@ -1,7 +1,5 @@
 # D. 29 - Grace in the original state of man
 
-***Grace in the original state of man***
-
 ***Division of the text***
 
 After he has addressed grace absolutely, here he addresses it by comparison to the state of the first man in his first state. This is divided into two parts.  

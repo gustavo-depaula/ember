@@ -1,7 +1,5 @@
 # D. 2 - Unity of the divine essence
 
-***Unity of the divine essence***
-
 ***Division of the text***
 
 After having inquired about the things to be treated in this work, here he undertakes his intention. And it is divided into two parts. For because, as was said above in our prologue, *(*In I Sent*., prol.)* the intention of sacred doctrine is about divine things, but “divine” is taken according to a relation to God, insofar as he is either the principle or the end—according to Revelation 22:13, *I am the Alpha and the Omega*—the consideration of this doctrine will be about realities insofar as they go forth from God as from their principle, and insofar as they are carried back to him as to their end. Whence in the first part he considers divine realities insofar as they go forth from the principle in Books I and II, and in the second, insofar as they return to their end, and this is in the beginning of Book III. It can be divided in another way, according to the intention of the Master, *(*Sent*. I, 1.3.11.)* such that in the first part he considers things in Books I–III, and in the second he considers signs, and this latter occurs in Book IV.  

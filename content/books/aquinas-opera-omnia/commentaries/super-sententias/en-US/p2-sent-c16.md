@@ -1,7 +1,5 @@
 # D. 36 - The realities that God knows
 
-***The realities that God knows***
-
 ***Division of the text***
 
 After the Master shows that God’s knowledge is universally of all things, and thereby realities are said to exist in God, here he asks how the things known are in God himself knowing them. And this is divided into two parts: in the first, he shows how the realities that God knows are in him; in the second, how God is in the realities: *and because it has been in part shown how all things are said to be in God, it seems good to add here in what ways God is said to be in things*. *(*Sent*. I, 37.1(164).1.)*  

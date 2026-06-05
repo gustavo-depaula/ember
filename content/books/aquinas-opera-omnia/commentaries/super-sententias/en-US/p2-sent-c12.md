@@ -1,7 +1,5 @@
 # D. 32 - Comparison of the divine persons according to things proper or appropriated
 
-***Comparison of the divine persons according to things proper or appropriated***
-
 ***Division of the text***
 
 After he has considered things proper and things appropriated to the persons, here he asks how the divine persons may be compared with each other according to things proper or appropriated. And this is divided into three parts: in the first, he shows how they may be compared according to things proper or appropriated to the Holy Spirit; in the second, he shows how they may be compared according to things proper or appropriated to the Son, at *moreover, it is necessary to investigate with diligence whether the Father is wise by the wisdom which he generated*; *(*Sent*. I, 32.2(138).1.)* in the third, he asks how they may be compared according to both together—that is, about one through comparison with the other, at *moreover, it is to be noted with diligence*. *(*Sent*. I, 32.6(142).1.)*  

@@ -1,7 +1,5 @@
 # D. 27 - Virtue
 
-***Virtue***
-
 ***Division of the text***
 
 After he has distinguished grace as operating or cooperating, here he inquires about the genus to which it is traced back, namely, whether it is an act or a quality of mind, raising the same question of grace and of virtue, either because the argument about both is the same, or perhaps because he was of the opinion that grace and virtue do not differ.  

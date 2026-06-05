@@ -1,7 +1,5 @@
 # D. 33 - Number of original sin
 
-***Number of original sin***
-
 ***Division of the text***
 
 After he has examined original sin as regards its principle and its term, showing how it is contracted from the parents and remitted through baptism, here he examines it as regards its number, inquiring whether original sin is one or many. This is divided into two parts.  

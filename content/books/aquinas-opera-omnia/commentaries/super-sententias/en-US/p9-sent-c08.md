@@ -1,7 +1,5 @@
 # D. 33 - On the development of marriage
 
-***On the development of marriage***
-
 After the Master has considered the goods of marriage, here he shows how these goods existed in the marriage of the ancients. And this is divided into two parts: in the first part, he shows how they existed in the marriage of the patriarchs before the Law; in the second part, how they existed in marriage celebrated in the time of the Law, where he says in Distinction 32: *but in the time of the Law, Moses forbade carnal joining with one’s mother*, etc. *(*Sententiae* IV, 32.3 (196). 1.)*  
 
 The first of these is in two parts: in the first, he shows that before the Law the patriarchs licitly had several wives; in the second, he inquires how the good of fidelity was preserved with multiple wives, here in Distinction 33: *if anyone objects that those Fathers did not preserve the faith of the marriage bed, we say*, etc. *(*Sent*. IV, 33.2 (195). 3.)*  

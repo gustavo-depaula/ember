@@ -1,7 +1,5 @@
 # D. 3 - Knowledge of the Creator through the created
 
-***Knowledge of the Creator through the created***
-
 ***Division of the first part of the text***
 
 In this part, the Master shows the unity of essence and the Trinity of persons through arguments and certain likenesses. It is divided into two parts: in the first, he shows the unity of the divine essence through natural arguments; in the second, he shows the Trinity of persons through likenesses in created things, at *now it remains to show whether it may have been possible to obtain some indication, if a small one, of the Trinity through those things which are made*. *(*Sent*. I, 3.1(9).7.)*  

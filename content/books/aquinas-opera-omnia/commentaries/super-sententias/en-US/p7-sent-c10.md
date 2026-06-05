@@ -1,7 +1,5 @@
 # D. 9 - Reception of the Eucharist
 
-***Reception of the Eucharist***
-
 After the Master has considered the sacrament of the Eucharist in itself, here he considers its use; and this is divided into three parts: in the first, he distinguishes two modes of eating the body of Christ; in the second, he excludes a certain error from the considerations, at: *these words and others like them . . . have enveloped in the darkness of error some people who read them with an obtuse heart*; *(Peter Lombard, *Sententiae* IV, 9.2 (56), 1.)* in the third, he shows clarifies doubts from what had already been considered, at: *in accordance with these two modes of receiving, we need to distinguish the meaning of some words which have been used ambiguously*. *(*Sent*. IV, 9.3 (57), 1.)* The second is divided into two parts: in the first, he sets down the error; in the second, he excludes it, at: *but without a doubt it is to be held that they are received by the good not only sacramentally, but also spiritually*. *(*Sent*. IV, 9.3 (56), 1.)*  
 
 Question 1  

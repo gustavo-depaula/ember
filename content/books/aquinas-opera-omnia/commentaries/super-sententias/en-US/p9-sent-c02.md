@@ -1,7 +1,5 @@
 # D. 27 - On the cause of marriage
 
-***On the cause of marriage***
-
 After the Master has considered the institution of marriage and its signification, here he begins to examine its causes; and this is divided into two parts: the first, concerning the constituent causes of marriage; the second, concerning the causes ennobling it in Distinction 31 where he says: *after these matters we must speak of the goods of marriage: what they are, and how they excuse coitus*. *(*Sententiae* IV, 31.1 (182). 1.)*  
 
 The first part is divided into two: in the first, he determines the efficient cause of marriage; in the second, its final cause, around the end of Distinction 30, where it says: *after expounding what the efficient cause of marriage is, it remains to show the cause for which marriage is, or ought to be, contracted*. *(*Sent*. IV, 30.3 (180). 1.)*  

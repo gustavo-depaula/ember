@@ -1,7 +1,5 @@
 # D. 19 - Immortality in the original state of man
 
-***Immortality in the original state of man***
-
 ***Division of the text***
 
 Having addressed the establishment of human nature with regard to both sexes, here he pursues the conditions of the established nature with regard to its first state.  

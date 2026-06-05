@@ -1,7 +1,5 @@
 # D. 32 - The marital debt
 
-***The marital debt***
-
 After the Master has considered the goods of the union by which the marital act is excused, here he considers the act itself according as it takes on the character of something owed through the goods of the union; and this is divided into two parts: in the first he shows that both of the spouses are bound to render the debt to each other; and in the second he shows that requesting the debt is impeded by a solemn time, at: *and although the debt is always to be satisfied to one asking for it, yet it is not lawful to ask every day*. *(*Sententiae* IV, 32.3 (192). 1.)*  
 
 The first part is divided into two: in the first part he shows that husband and wife are equals in the rendering of the debt; second, he proves a certain thing which had been supposed, at: *that the husband may not practice continence without the wife’s consent is proved by the testimonies below*. *(*Sent*. IV, 32.2 (191). 1.)*  

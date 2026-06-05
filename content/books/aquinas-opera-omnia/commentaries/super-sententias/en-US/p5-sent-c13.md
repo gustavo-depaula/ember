@@ -1,7 +1,5 @@
 # D. 12 - Defects of Christ's human nature as created
 
-***Defects of Christ's human nature as created***
-
 ***Division of the text***
 
 After the Master shows that the name “created” is not predicated of Christ simply, but with a determination, here he looks into the defects that follow upon the human nature insofar as it is a created thing. And this is divided into two parts:  

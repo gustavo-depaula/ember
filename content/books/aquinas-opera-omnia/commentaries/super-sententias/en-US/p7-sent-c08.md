@@ -1,7 +1,5 @@
 # D. 7 - Confirmation
 
-***Confirmation***
-
 After the Master has examined the sacrament of those entering, namely baptism, here he intends to examine those sacraments that pertain to those progressing on the path of God; and this is divided into two parts: in the first, he examines the sacraments in which those who are progressing are perfected in the good; in the second, the sacrament in which those who fall are helped up again, namely, penance, at Distinction 14: *After these matters, we must treat of penance*. *(Peter Lombard, *Sententiae* IV, 14.2 (74), 1.)*  
 
 The first is in two parts: in the first he examines the sacrament of confirmation in which someone is perfected in himself in the way that a form perfects a thing; in the second, the Eucharist, in which someone is perfected by being joined to the end, at Distinction 8: *After the sacrament of baptism and the one of confirmation, follows the sacrament of the Eucharist*. *(*Sent*. IV, 8.1 (48), 1.)*  

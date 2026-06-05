@@ -1,7 +1,5 @@
 # D. 26 - The personal properties of the divine persons
 
-***The personal properties of the divine persons***
-
 ***Division of the text***
 
 After having considered the essence and the persons, here the Master considers the properties whereby the persons are distinguished. Now, this is divided into two parts: in the first, he considers the proper properties of the persons; in the second, he considers those appropriated to the persons at *moreover, . . . it is necessary to consider*. *(*Sent*. I, 31.1(131).1.)*  

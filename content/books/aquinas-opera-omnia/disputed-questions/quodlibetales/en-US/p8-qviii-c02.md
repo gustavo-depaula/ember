@@ -1,7 +1,5 @@
 # On Things Pertaining to Grace and Fault
 
-***On things pertaining to grace***
-
 ***Question 4***
 
 ***Regarding prelates***

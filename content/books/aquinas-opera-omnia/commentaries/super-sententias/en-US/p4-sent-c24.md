@@ -1,7 +1,5 @@
 # D. 44 - The power to sin
 
-***The power to sin***
-
 ***Division of the text***
 
 Having addressed sin as regards the act of sin, here he addresses the power to sin. This is divided into two parts.  

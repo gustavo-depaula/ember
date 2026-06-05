@@ -1,7 +1,5 @@
 # D. 3 - Condition of the angels at their creation
 
-***Condition of the angels at their creation***
-
 ***Division of the first part of the text***
 
 Having shown when and where the angels were created, here he inquires as to their condition when they were made. And this is divided into three parts.  

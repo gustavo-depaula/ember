@@ -1,7 +1,5 @@
 # D. 26 - Grace
 
-***Grace***
-
 ***Division of the text***
 
 Having shown what knowledge and power man had in the first state, here he shows what grace he received. This is divided into two parts.  

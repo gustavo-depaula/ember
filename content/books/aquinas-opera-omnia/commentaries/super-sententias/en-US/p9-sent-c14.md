@@ -1,7 +1,5 @@
 # D. 39 - On mixed marriages
 
-***On mixed marriages***
-
 After the Master has considered impediments to marriage that make a person ineligible for marriage simply speaking with respect to any other person, here he determines the impediment that makes someone ineligible for marriage with respect to certain persons, and not with respect to all. And this is divided into two parts. In the first he considers the impediment that makes a person ineligible in relation to some other person because of distance from her, namely, disparity of cult; *(In canon law, the impediment to marriage between a baptized and non-baptized person is called “disparity of cult.” A mixed marriage is technically a marriage between a Catholic and baptized Christian of some other denomination, which is addressed in D39.Q1.A1, objection 5. Disparity of cult prevents a marriage from being contracted, while a mixed marriage is not permitted to be contracted, but once contracted remains valid.)* in the second he considers the impediment that makes a person ineligible in relation to another person because of closeness to her, Distinction 40, where he says: *now it remains to say something about relationship*. *(*Sententiae* IV, 40.1 (224). 1.)*  
 
 The first part is in two parts: in the first he considers the marriage that exists in the disparity of cult between a member of the faithful and an unbeliever; in the second, the marriage that is between two unbelievers, saying there: *yet there are some who say that there is no marriage between infidels*. *(*Sent*. IV, 39.6 (222). 1.)*  

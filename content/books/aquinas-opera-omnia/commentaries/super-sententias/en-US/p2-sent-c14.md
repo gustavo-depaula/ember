@@ -1,7 +1,5 @@
 # D. 34 - Comparison of the essence to the person
 
-***Comparison of the essence to the person***
-
 ***Division of the text***
 
 Here the Master compares the person to the essence. And it is divided into two parts: in the first, he presents the comparison; in the second, he presents the end of the matter, at *moreover, it is to be understood*. *(*Sent*. I, 34.5(149).2.)*  

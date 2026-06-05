@@ -1,7 +1,5 @@
 # D. 37 - How God is in realities
 
-***How God is in realities***
-
 ***Division of the first part of the text***
 
 Having manifested the realities that are within God, here he manifests how God is within the realities. And this is divided into two parts: in the first, he shows that God is everywhere and in all realities; in the second, he removes from God certain things that follow for created things that exist in place, at *and although the divine nature is truly and essentially in every place and in every time, yet it is not moved through places or times*. *(*Sent*. I, 37.5(168).1.)*  

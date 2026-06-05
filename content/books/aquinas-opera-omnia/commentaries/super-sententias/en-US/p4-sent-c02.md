@@ -1,7 +1,5 @@
 # D. 22 - First sin of man
 
-***First sin of man***
-
 ***Division of the text***
 
 After having addressed the principle of the fall of man on the part of the tempter, here he addresses the intrinsic principle on the part of man himself who sinned.  

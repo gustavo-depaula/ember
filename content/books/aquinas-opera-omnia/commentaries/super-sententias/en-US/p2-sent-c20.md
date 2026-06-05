@@ -1,7 +1,5 @@
 # D. 40 - Predestination
 
-***Predestination***
-
 ***Division of the text***
 
 Having considered God’s knowledge in common, here he specifically considers predestination. And it is divided into two parts: in the first, he considers what predestination is; *(Note that Aquinas has Distinction 40 beginning in what the Silano text indicates is the final paragraph of Distinction 39: *Sent*. I, 39.4(178).4.)* in the second, he considers its causality, namely, whether it is the first cause, or does it have another, at *but if ‘we seek a deserving of obduracy and mercy, we find the deserving of obduracy; but we do not find a deserving of mercy.’* *(*Sent*. I, 41.1(181).1, quoting Augustine, *Epistolae*, letter 194, “To the Priest Sixtus,” ch. 3, para. 14 (CSEL 57:187; PL 33:879).)*  

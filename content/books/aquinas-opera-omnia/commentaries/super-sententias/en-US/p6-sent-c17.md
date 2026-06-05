@@ -1,7 +1,5 @@
 # D. 39 - Perjury and oaths
 
-***Perjury and oaths***
-
 ***Division of the text***
 
 ***Having considered lying, here the Master considers perjury.***

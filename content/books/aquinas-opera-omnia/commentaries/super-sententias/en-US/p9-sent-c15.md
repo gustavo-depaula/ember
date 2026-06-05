@@ -1,7 +1,5 @@
 # D. 40 - On consanguinity
 
-***On consanguinity***
-
 After the Master has considered the impediment by which a person is made legally incapable of marriage with some other person because of distance between them, here he begins to determine the impediments by which a person is rendered legally incapable of marriage with another person because of close relationship between them; and this is divided into two parts: in the first part he considers the impediment of a physically close relationship; in the second part, the impediment of a spiritually close relationship, in Distinction 42, where he says: *let us now add something concerning spiritual relationship*. *(*Sententiae* IV, 42.1 (237). 1.)*  
 
 The first is in two parts: in the first he considers consanguinity; in the second, affinity, Distinction 41, where he says, *now we must examine affinity*. *(*Sent*. IV, 41.1 (228). 1.)*  

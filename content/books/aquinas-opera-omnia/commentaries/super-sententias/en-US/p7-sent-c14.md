@@ -1,7 +1,5 @@
 # D. 13 - Minister of the Eucharist
 
-***Minister of the Eucharist***
-
 After the Master has examined the sacrament of the Eucharist, here he considers the ministers of this sacrament. And this is divided into two parts: in the first, he defines his aim; in the second, he adds an epilogue, at: *concerning this heavenly mystery we have summarized some things which are to be held faithfully by Catholics*. *(Peter Lombard, *Sententiae* IV, 13.1 (72). 9.)*  
 
 The first is in two parts: in the first, he shows who can consecrate and administer this kind of sacrament; in the second, who can receive it, at: *it may also be truly said*. *(*Sent* IV, 13.1 (72). 8.)*  

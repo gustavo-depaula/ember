@@ -1,7 +1,5 @@
 # D. 34 - Gifts of the Holy Spirit: fear, fortitude, and piety
 
-***Gifts of the Holy Spirit: fear, fortitude, and piety***
-
 ***Division of the text***
 
 ***Having considered the virtues, here the Master begins to consider the gifts.***

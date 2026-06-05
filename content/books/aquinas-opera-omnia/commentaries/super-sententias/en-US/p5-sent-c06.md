@@ -1,7 +1,5 @@
 # D. 5 - The union in the Incarnation
 
-***The union in the Incarnation***
-
 ***Division of the text***
 
 After the Master has considered what is doing the assuming *(Above: dist. 1.)* and what is being assumed in the divine Incarnation, *(Dist. 2–5.)* here he examines both of these together with respect to their intentions—namely, whether the one assuming and the thing assumed have the notion of a nature or a person. And this is divided into three parts.  
