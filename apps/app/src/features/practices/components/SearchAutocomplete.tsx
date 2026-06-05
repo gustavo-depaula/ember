@@ -21,7 +21,7 @@ type SearchResult =
 
 type Scored<T> = { score: number; item: T }
 
-const groupOrder: SearchResult['kind'][] = ['practice', 'book', 'collection']
+const groupOrder: SearchResult['kind'][] = ['practice', 'collection', 'book']
 
 function bareId(corpusId: string): string {
   const slash = corpusId.indexOf('/')
