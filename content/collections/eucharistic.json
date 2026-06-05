@@ -49,14 +49,6 @@
 				},
 				{
 					"kind": "item",
-					"ref": "practice/anima-christi"
-				},
-				{
-					"kind": "item",
-					"ref": "practice/suscipe"
-				},
-				{
-					"kind": "item",
 					"ref": "practice/suscipe"
 				},
 				{
@@ -137,11 +129,18 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "The three great Aquinas hymns of Corpus Christi — the foundation of every Benediction and Holy Hour.",
-					"pt-BR": "Os três grandes hinos eucarísticos de São Tomás de Aquino para Corpus Christi — fundamento de toda Bênção e Hora Santa."
+					"en-US": "The Aquinas hymns of Corpus Christi — the foundation of every Benediction and Holy Hour. *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, *Adoro Te Devote*, and the sequence *Lauda Sion Salvatorem* all live in the *Prayers of St. Thomas Aquinas* practice; the full Office (with the Mass *Cibavit*) is in the linked book.",
+					"pt-BR": "Os hinos eucarísticos de São Tomás de Aquino para Corpus Christi — fundamento de toda Bênção e Hora Santa. *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, *Adoro Te Devote* e a sequência *Lauda Sion Salvatorem* estão todos na prática *Orações de Santo Tomás de Aquino*; o Ofício completo (com a Missa *Cibavit*) está no livro vinculado."
 				}
 			},
 			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/prayers-st-thomas-aquinas",
+					"seeAlso": [
+						"collection/thomas-aquinas"
+					]
+				},
 				{
 					"kind": "item",
 					"ref": "practice/adoro-te-devote"
@@ -153,6 +152,20 @@
 				{
 					"kind": "item",
 					"ref": "practice/o-salutaris-hostia"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-office-corpus-christi",
+					"seeAlso": [
+						"collection/thomas-aquinas"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-hymns",
+					"seeAlso": [
+						"collection/thomas-aquinas"
+					]
 				}
 			]
 		},
@@ -202,42 +215,6 @@
 				"pt-BR": "Em Breve"
 			},
 			"blocks": [
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Lauda Sion Salvatorem",
-						"pt-BR": "Lauda Sion Salvatorem"
-					},
-					"notes": {
-						"en-US": "Corpus Christi sequence (Aquinas).",
-						"pt-BR": "Sequência de Corpus Christi (Aquino)."
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Pange Lingua Gloriosi (full hymn)",
-						"pt-BR": "Pange Lingua Gloriosi (hino completo)"
-					},
-					"notes": {
-						"en-US": "Holy Thursday processional. The *Tantum Ergo* is its last two verses.",
-						"pt-BR": "Procissão da Quinta-feira Santa. O *Tantum Ergo* são as duas últimas estrofes."
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Verbum Supernum Prodiens",
-						"pt-BR": "Verbum Supernum Prodiens"
-					},
-					"notes": {
-						"en-US": "Corpus Christi Lauds hymn — the *O Salutaris* is its last two verses.",
-						"pt-BR": "Hino de Laudes de Corpus Christi — o *O Salutaris* são as duas últimas estrofes."
-					},
-					"proposedKind": "prayer"
-				},
 				{
 					"kind": "todo",
 					"title": {
@@ -299,14 +276,6 @@
 					"title": {
 						"en-US": "Prayer of St. Bonaventure before Communion",
 						"pt-BR": "Oração de São Boaventura antes da Comunhão"
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Prayer of St. Thomas Aquinas after Communion",
-						"pt-BR": "Oração de São Tomás de Aquino após a Comunhão"
 					},
 					"proposedKind": "prayer"
 				},

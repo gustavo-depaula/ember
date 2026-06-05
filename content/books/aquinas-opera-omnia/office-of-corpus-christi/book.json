@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "The full liturgical office Aquinas composed in 1264 at the request of Pope Urban IV for the new feast of the Body of Christ — Mass, Matins, Lauds, the Little Hours, Vespers, the Octave readings, and the famous hymns *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, and the sequence *Lauda Sion*.",
-    "la": "Officium liturgicum completum Thomae anno 1264, Urbano IV petente, pro festo Corporis Christi novo — Missa, Matutinum, Laudes, Horae Minores, Vesperae, lectiones octavae, et hymni celebres *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, sequentia *Lauda Sion*."
+    "en-US": "The complete liturgical office Aquinas composed in 1264 at the request of Pope Urban IV for the new feast of the Body of Christ — the *Sacerdos in aeternum* recension, ultimately adopted by the Church. First and Second Vespers, Compline, Matins, Lauds, the Little Hours, the Office within the Octave, and the Mass *Cibavit*. Includes the four great Eucharistic hymns *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, and the sequence *Lauda Sion*.",
+    "la": "Officium liturgicum completum Thomae anno 1264, Urbano IV petente, pro festo Corporis Christi novo — recensio *Sacerdos in aeternum*, in usum Ecclesiae tandem recepta. Vesperae Primae et Secundae, Completorium, Matutinum, Laudes, Horae Minores, Officium intra Octavam, et Missa *Cibavit*. Comprehendit hymnos Eucharisticos *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, et sequentiam *Lauda Sion*."
   },
   "composed": 1264,
   "languages": [
@@ -20,190 +20,99 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Mirrored via the Geremia/AquinasOperaOmnia GitHub repository. Combines CorpusChristi.htm + CorpusChristiMass.htm + CorpusChristiLauds.htm + CorpusChristiLittleHrs.htm + CorpusChristiVes2.htm + CorpusChristiOct.htm + CorpusChristiRd.htm."
+      "url": "https://aquinas.cc/la/en/~Sacerdos in aeternum",
+      "description": "Translation from aquinas.cc (Aquinas Institute)."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Sacerdos in aeternum",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "book-1",
+      "id": "corpuschri-c01",
       "title": {
-        "en-US": "First Vespers and Matins",
-        "la": "Vesperae Primae et Matutinum"
-      },
-      "children": [
-        {
-          "id": "b1-ch001",
-          "title": {
-            "en-US": "Part 1 — FIRST VESPERS — Christ, a priest forever according to the order of Melchizadek, offered bread and wine.",
-            "la": "Pars 1 — FIRST VESPERS — Christ, a priest forever according to the order of Melchizadek, offered bread and wine."
-          }
-        }
-      ]
+        "en-US": "First Vespers",
+        "la": "Vesperae Primae"
+      }
     },
     {
-      "id": "book-2",
+      "id": "corpuschri-c02",
       "title": {
-        "en-US": "Mass (Cibavit)",
-        "la": "Missa (Cibavit)"
-      },
-      "children": [
-        {
-          "id": "b2-ch-proem0",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
-          }
-        }
-      ]
+        "en-US": "Compline",
+        "la": "Completorium"
+      }
     },
     {
-      "id": "book-3",
+      "id": "corpuschri-c03",
+      "title": {
+        "en-US": "Matins",
+        "la": "Matutinum"
+      }
+    },
+    {
+      "id": "corpuschri-c04",
       "title": {
         "en-US": "Lauds",
         "la": "Laudes"
-      },
-      "children": [
-        {
-          "id": "b3-ch-proem0",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-4",
+      "id": "corpuschri-c05",
       "title": {
-        "en-US": "Little Hours",
-        "la": "Horae Minores"
-      },
-      "children": [
-        {
-          "id": "b4-ch-proem0",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
-          }
-        },
-        {
-          "id": "b4-ch-proem1",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
-          }
-        },
-        {
-          "id": "b4-ch-proem2",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
-          }
-        },
-        {
-          "id": "b4-ch-proem3",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
-          }
-        }
-      ]
+        "en-US": "Prime",
+        "la": "Prima"
+      }
     },
     {
-      "id": "book-5",
+      "id": "corpuschri-c06",
+      "title": {
+        "en-US": "Terce",
+        "la": "Tertia"
+      }
+    },
+    {
+      "id": "corpuschri-c07",
+      "title": {
+        "en-US": "Sext",
+        "la": "Sexta"
+      }
+    },
+    {
+      "id": "corpuschri-c08",
+      "title": {
+        "en-US": "None",
+        "la": "Nona"
+      }
+    },
+    {
+      "id": "corpuschri-c09",
       "title": {
         "en-US": "Second Vespers",
         "la": "Vesperae Secundae"
-      },
-      "children": [
-        {
-          "id": "b5-ch-proem0",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-6",
+      "id": "corpuschri-c10",
       "title": {
-        "en-US": "Office of the Octave",
-        "la": "Officium Octavae"
-      },
-      "children": [
-        {
-          "id": "b6-ch001",
-          "title": {
-            "en-US": "Part 1 — DAY 1, FRIDAY",
-            "la": "Pars 1 — DAY 1, FRIDAY"
-          }
-        },
-        {
-          "id": "b6-ch002",
-          "title": {
-            "en-US": "Part 2 — DAY 2, SATURDAY",
-            "la": "Pars 2 — DAY 2, SATURDAY"
-          }
-        },
-        {
-          "id": "b6-ch003",
-          "title": {
-            "en-US": "Part 3 — DAY 3, SUNDAY",
-            "la": "Pars 3 — DAY 3, SUNDAY"
-          }
-        },
-        {
-          "id": "b6-ch004",
-          "title": {
-            "en-US": "Part 4",
-            "la": "Pars 4"
-          }
-        },
-        {
-          "id": "b6-ch005",
-          "title": {
-            "en-US": "Part 5",
-            "la": "Pars 5"
-          }
-        },
-        {
-          "id": "b6-ch006",
-          "title": {
-            "en-US": "Part 6",
-            "la": "Pars 6"
-          }
-        },
-        {
-          "id": "b6-ch007",
-          "title": {
-            "en-US": "Part 7",
-            "la": "Pars 7"
-          }
-        }
-      ]
+        "en-US": "Compline",
+        "la": "Completorium"
+      }
     },
     {
-      "id": "book-7",
+      "id": "corpuschri-c11",
       "title": {
-        "en-US": "Readings of the Octave",
-        "la": "Lectiones Octavae"
-      },
-      "children": [
-        {
-          "id": "b7-ch001",
-          "title": {
-            "en-US": "Part 1",
-            "la": "Pars 1"
-          }
-        }
-      ]
+        "en-US": "Within the Octave",
+        "la": "Infra Octavam"
+      }
+    },
+    {
+      "id": "corpuschri-c12",
+      "title": {
+        "en-US": "Mass (Cibavit)",
+        "la": "Missa (Cibavit)"
+      }
     }
   ]
 }

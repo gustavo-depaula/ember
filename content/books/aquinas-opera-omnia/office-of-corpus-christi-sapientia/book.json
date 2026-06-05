@@ -1,15 +1,15 @@
 {
   "id": "aquinas-office-corpus-christi-sapientia",
   "name": {
-    "en-US": "Office of Corpus Christi — Sapientia aedificavit sibi",
-    "la": "Officium Corporis Christi — Sapientia aedificavit sibi"
+    "en-US": "Office of Corpus Christi (Sapientia aedificavit, early draft)",
+    "la": "Officium Corporis Christi (Sapientia aedificavit, recensio prima)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "The alternate (early) draft of the Office of Corpus Christi, beginning *Sapientia aedificavit sibi*. The *Sacerdos in aeternum* version (in `aquinas-office-corpus-christi`) was the one ultimately adopted.",
+    "en-US": "The alternate (early) draft of the Office of Corpus Christi, beginning *Sapientia aedificavit sibi*. The *Sacerdos in aeternum* version (in `aquinas-office-corpus-christi`) was the one ultimately adopted by the Church.",
     "la": "Recensio prima Officii Corporis Christi, a verbis *Sapientia aedificavit sibi* incipiens. Recensio *Sacerdos in aeternum* in usum tandem recepta est."
   },
   "composed": 1264,
@@ -34,56 +34,56 @@
       "id": "officesas-c01",
       "title": {
         "en-US": "First Vespers",
-        "la": "First Vespers"
+        "la": "Vesperae Primae"
       }
     },
     {
       "id": "officesas-c02",
       "title": {
         "en-US": "Matins",
-        "la": "Matins"
+        "la": "Matutinum"
       }
     },
     {
       "id": "officesas-c03",
       "title": {
         "en-US": "Lauds",
-        "la": "Lauds"
+        "la": "Laudes"
       }
     },
     {
       "id": "officesas-c04",
       "title": {
         "en-US": "Prime",
-        "la": "Prime"
+        "la": "Prima"
       }
     },
     {
       "id": "officesas-c05",
       "title": {
         "en-US": "Terce",
-        "la": "Terce"
+        "la": "Tertia"
       }
     },
     {
       "id": "officesas-c06",
       "title": {
         "en-US": "Sext",
-        "la": "Sext"
+        "la": "Sexta"
       }
     },
     {
       "id": "officesas-c07",
       "title": {
         "en-US": "None",
-        "la": "None"
+        "la": "Nona"
       }
     },
     {
       "id": "officesas-c08",
       "title": {
         "en-US": "Second Vespers",
-        "la": "Second Vespers"
+        "la": "Vesperae Secundae"
       }
     }
   ]

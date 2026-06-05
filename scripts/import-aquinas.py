@@ -2476,47 +2476,11 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
         ),
         "commentaries/boethius-de-trinitate",
     ),
-    "compendium-corpus-christi": (
-        LinearWorkSpec(
-            book_id="aquinas-office-corpus-christi",
-            name_en="Office of Corpus Christi",
-            name_la="Officium Corporis Christi",
-            composed=1264,
-            description_en="The full liturgical office Aquinas composed in 1264 at the request of Pope Urban IV for the new feast of the Body of Christ — Mass, Matins, Lauds, the Little Hours, Vespers, the Octave readings, and the famous hymns *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, and the sequence *Lauda Sion*.",
-            description_la="Officium liturgicum completum Thomae anno 1264, Urbano IV petente, pro festo Corporis Christi novo — Missa, Matutinum, Laudes, Horae Minores, Vesperae, lectiones octavae, et hymni celebres *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, sequentia *Lauda Sion*.",
-            translator_note_en="Mirrored via the Geremia/AquinasOperaOmnia GitHub repository. Combines CorpusChristi.htm + CorpusChristiMass.htm + CorpusChristiLauds.htm + CorpusChristiLittleHrs.htm + CorpusChristiVes2.htm + CorpusChristiOct.htm + CorpusChristiRd.htm.",
-            source_files=[
-                "CorpusChristi.htm",
-                "CorpusChristiMass.htm",
-                "CorpusChristiLauds.htm",
-                "CorpusChristiLittleHrs.htm",
-                "CorpusChristiVes2.htm",
-                "CorpusChristiOct.htm",
-                "CorpusChristiRd.htm",
-            ],
-            chapter_label_en="Part",
-            chapter_label_la="Pars",
-            group_titles_en=[
-                "First Vespers and Matins",
-                "Mass (Cibavit)",
-                "Lauds",
-                "Little Hours",
-                "Second Vespers",
-                "Office of the Octave",
-                "Readings of the Octave",
-            ],
-            group_titles_la=[
-                "Vesperae Primae et Matutinum",
-                "Missa (Cibavit)",
-                "Laudes",
-                "Horae Minores",
-                "Vesperae Secundae",
-                "Officium Octavae",
-                "Lectiones Octavae",
-            ],
-        ),
-        "office-of-corpus-christi",
-    ),
+    # Office of Corpus Christi: the canonical full bilingual is sourced from
+    # aquinas.cc via scripts/scrape-aquinas-cc.py (slug "office-corpus-christi",
+    # producing book id "aquinas-office-corpus-christi"). The Geremia mirror
+    # combined seven dhspriory pages that were poorly structured (musical cues
+    # and antiphons interleaved), so we don't import it here.
     # Super Sententias: the canonical full bilingual is sourced from
     # aquinas.cc via scripts/scrape-aquinas-cc.py (slug "super-sententias").
     # The Geremia mirror only has a handful of articles via index pages and

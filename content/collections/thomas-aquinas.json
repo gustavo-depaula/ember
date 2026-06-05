@@ -561,14 +561,6 @@
 				{
 					"kind": "item",
 					"ref": "book/aquinas-office-corpus-christi-sapientia"
-				},
-				{
-					"kind": "item",
-					"ref": "book/aquinas-sermon-immensa"
-				},
-				{
-					"kind": "item",
-					"ref": "book/aquinas-office-corpus-christi-sacerdos"
 				}
 			]
 		},
