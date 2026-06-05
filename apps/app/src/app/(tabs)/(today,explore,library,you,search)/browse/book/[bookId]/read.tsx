@@ -36,12 +36,17 @@ function cursorId(bookId: string) {
   return `book/${bookId}`
 }
 
+// POC: flip to `false` to fall back to the legacy reader. `?reader=legacy`
+// in the URL still opts out per-route if you want to A/B without rebuilding.
+const FOLIATE_DEFAULT = true
+
 export default function BookReaderScreen() {
   const { bookId, reader } = useLocalSearchParams<{ bookId: string; reader?: string }>()
-  // Foliate POC opt-in via `?reader=foliate`. Dispatched here so the legacy
-  // reader's hooks never run for foliate sessions (and vice versa) — keeps
-  // rules-of-hooks happy without a deep refactor of either tree.
-  if (reader === 'foliate' && bookId) return <FoliateBookScreen bookId={bookId} />
+  const useFoliate = reader === 'foliate' || (FOLIATE_DEFAULT && reader !== 'legacy')
+  // Dispatched here so the legacy reader's hooks never run for foliate
+  // sessions (and vice versa) — keeps rules-of-hooks happy without a deep
+  // refactor of either tree.
+  if (useFoliate && bookId) return <FoliateBookScreen bookId={bookId} />
   return <LegacyBookReaderScreen />
 }
 
