@@ -5,7 +5,6 @@ import { useTranslation } from 'react-i18next'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, View, YStack } from 'tamagui'
 
-import { PrayerSpinner } from '@/components/PrayerSpinner'
 import { ReaderErrorState } from '@/components/ReaderErrorState'
 import { getBookEntry } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
@@ -49,8 +48,20 @@ export function BookReader({ bookId, chapter }: Props) {
     [bookEntry?.toc, lang],
   )
 
-  const config = useReaderConfig()
+  const rawConfig = useReaderConfig()
   const cursor = useReaderCursor(bookId)
+
+  // Foliate's `margin` attribute drives the iframe's top/bottom column inset
+  // (single value for both). Floor it at the safe-area insets so the text
+  // never bleeds into the notch / home indicator, AND leave room below for
+  // the bottom Liquid Glass pill (height 36 + 12 inset margin + 8 buffer).
+  const config = useMemo(
+    () => ({
+      ...rawConfig,
+      marginPx: Math.max(rawConfig.marginPx, insets.top + 16, insets.bottom + 56),
+    }),
+    [rawConfig, insets.top, insets.bottom],
+  )
 
   // Resolve where to start. An explicit `chapter` (from frontispiece TOC) wins
   // over the saved cursor; otherwise restore where the reader left off; else
@@ -154,6 +165,8 @@ export function BookReader({ bookId, chapter }: Props) {
     )
   }
 
+  const bookTitle = localizeContent(bookEntry.name)
+
   if (isError) {
     return (
       <YStack flex={1} backgroundColor={config.background} justifyContent="center">
@@ -163,19 +176,42 @@ export function BookReader({ bookId, chapter }: Props) {
   }
 
   if (isLoading || !cursor.initial.loaded || !chapters) {
+    // Themed loading: the AppleZoom morph just landed and the user expects to
+    // see *this* book opening, not a black void. Show the title in the reader's
+    // chosen typography on the reader's background until the chapters arrive.
     return (
       <YStack
         flex={1}
         backgroundColor={config.background}
         justifyContent="center"
         alignItems="center"
+        paddingHorizontal="$xl"
+        gap="$lg"
       >
-        <PrayerSpinner />
+        <Text
+          fontFamily="$body"
+          fontStyle="italic"
+          fontSize="$5"
+          color={config.color}
+          opacity={0.75}
+          textAlign="center"
+        >
+          {bookTitle}
+        </Text>
+        <View
+          width={36}
+          height={2}
+          backgroundColor={config.color}
+          opacity={0.25}
+          borderRadius={1}
+        />
+        <Text fontFamily="$body" fontSize="$1" color={config.color} opacity={0.45}>
+          {t('books.opening', { defaultValue: 'Opening…' })}
+        </Text>
       </YStack>
     )
   }
 
-  const bookTitle = localizeContent(bookEntry.name)
   const currentChapterId = leaves[pageState.index]?.id
 
   return (
