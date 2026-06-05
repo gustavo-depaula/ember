@@ -1,269 +1,251 @@
-# Chapter 30
+# Chapter 28
 
-> ^30:2^ Who walk to go down into Egypt, and have not asked at my mouth, hoping for help in the strength of Pharaoh, and trusting in the shadow of Egypt.
+^28:1^ Woe to the crown of pride, to the drunkards of Ephraim, and to the fading flower the glory his joy, who were on the head of the fat valley, staggering with wine.  
 
-> ^30:3^ And the strength of Pharaoh shall be to your confusion, and the confidence of the shadow of Egypt to your shame.
+> ^28:2^ Behold the Lord is mighty and strong, as a storm of hail: a destroying whirlwind, as the violence of many waters overflowing, and sent forth upon a spacious land.
 
-> ^30:4^ For your princes went into*Ierant in*. Vg.: *erant in*. DR: “were in.” Taphnis,*Tapnis*. Vg.: *Tani*. DR: “Tanis.” and your messengers came even to Hanes.
+> ^28:3^ The crown of pride of the drunkards of Ephraim shall be trodden under feet.
 
-> ^30:5^ They were all confounded at a people that could not profit them: they were no help, nor to any profit, but to confusion and to reproach.
+> ^28:4^ And the fading flower the glory of his joy, who is on the head of the fat valley, shall be as a hasty fruit before the ripeness of autumn: which when he that sees it shall behold, as soon as he takes it in his hand, he will eat it up.
 
-> ^30:6^ The burden of the beasts of the south. In a land of trouble and distress, from whence come the lioness, and the lion, the viper and the flying basilisk, they carry their riches upon the shoulders of beasts, and their treasures upon the bunches of camels to a people that shall not be able to profit them.
+> ^28:5^ In that day the Lord of hosts shall be a crown of glory, and a garland of joy to the residue of his people:
 
-> ^30:7^ For Egypt shall help in vain, and to no purpose: therefore have I cried concerning this: it is pride only, sit still.
+> ^28:6^ And a spirit of judgment to him that sits in judgment, and strength to them that return out of the battle to the gate.
 
-> ^30:8^ Now therefore go in and write for them upon box, and note it diligently in a book, and it shall be in the latter days for a testimony for ever.
+> ^28:7^ But these also have been ignorant through wine, and through drunkenness have erred: the priest and the prophet have been ignorant through drunkenness, they are swallowed up with wine, they have gone astray in drunkenness, they have not known him that sees, they have been ignorant of judgment.
 
-> ^30:9^ For it is a people that provokes to wrath, and lying children that will not hear the law of God.
+> ^28:8^ For all the tables were full of vomit and filth, so that there was no more place.
 
-> ^30:10^ Who say to the seers: see not: and to them that behold: behold not for us those things that are right: speak unto us pleasant things, see errors for us.
+> ^28:9^ Whom shall he teach knowledge? And whom shall he make to understand the hearing? Them that are weaned from the milk, that are drawn away from the breasts.
 
-> ^30:11^ Take away from me the way, turn away the path from me, let the Holy One of Israel cease from before us.
+> ^28:10^ For command, command again, command, command again; expect, expect again, expect, expect again; a little there, a little there.
 
-> ^30:12^ Therefore thus says the Holy One of Israel: because you have rejected this word, and have trusted in oppression and tumult, and have leaned upon it:
+> ^28:11^ For with the speech of lips, and with another tongue he will speak to this people.
 
-> ^30:13^ Therefore shall this iniquity be to you as a breach that falls, and is found wanting in a high wall, for the destruction thereof shall come on a sudden, when it is not looked for.
+> ^28:12^ To whom he said: this is my rest, refresh the weary, and this is my refreshing: and they would not hear.
 
-> ^30:14^ And it shall be broken small, as the potter’s vessel is broken all to pieces with mighty breaking, and there shall not a sherd be found of the pieces thereof, wherein a little fire may be carried from the hearth, or a little water be drawn out of the pit.
+> ^28:13^ And the word of the Lord shall be to them: command, command again; command, command again; expect, expect again; a little there, a little there: that they may go, and fall backward, and be broken, and snared, and taken.
 
-> ^30:15^ For thus says the Lord God the Holy One of Israel: if you return and be quiet, you shall be saved: in silence and in hope shall your strength be. And you would not:
+> ^28:14^ Wherefore hear the word of the Lord, you scornful men, who rule over my people that is in Jerusalem.
 
-> ^30:16^ but have said: no, but we will flee to horses: therefore shall you flee. And we will mount upon swift ones: therefore shall they be swifter that shall pursue after you.
+> ^28:15^ For you have said: we have entered into a league with death, and we have made a covenant with hell. When the overflowing scourge shall pass through, it shall not come upon us: for we have placed our hope in lies, and by falsehood we are protected.
 
-> ^30:17^ A thousand men shall flee for fear of one: and for fear of five shall you flee, till you be left as the mast of ship on the top of a mountain, and as an ensign upon a hill.
+> ^28:16^ Therefore thus says the Lord God: behold I will lay a stone in the foundations of Zion, a tried stone, a corner stone, a precious stone, founded in the foundation. He that believes, let him not hasten.
 
-> ^30:18^ Therefore the Lord waits that he may have mercy on you: and therefore shall he be exalted sparing you: because the Lord is the God of judgment: blessed are all they that wait for him.
+> ^28:17^ And I will set judgment in weight, and justice in measure: and hail shall overturn the hope of falsehood: and waters shall overflow its protection.
 
-> ^30:19^ For the people of Zion shall dwell in Jerusalem: weeping you shall not weep, he will surely have pity on you: at the voice of your cry, as soon as he shall hear, he will answer you.
+> ^28:18^ And your league with death shall be abolished, and your covenant with hell shall not stand: when the overflowing scourge shall pass, you shall be trodden down by it.
 
-> ^30:20^ And the Lord will give you spare bread, and short water: and will not cause your teacher to flee away from you any more, and your eyes shall see your teacher.
+> ^28:19^ Whensoever it shall pass through, it shall take you away: because in the morning early it shall pass through, in the day and in the night, and vexation alone shall make you understand what you hear.
 
-> ^30:21^ And your ears shall hear the word of one admonishing you behind your back: this is the way, walk in it: and go not aside neither to the right hand, nor to the left.
+> ^28:20^ For the bed is straitened, so that one must fall out, and a short covering cannot cover both.
 
-> ^30:22^ And you shall defile the plates of your graven things of silver, and the garment of your molten things of gold, and shall cast them away as the uncleanness of a menstruous woman. You shall say to it: get you hence.
+> ^28:21^ For the Lord shall stand up as in the mountain of divisions: he shall be angry as in the valley which is in Gabaon: that he may do his work, his strange work: that he may perform his work, his work is strange to him.
 
-> ^30:23^ And rain shall be given to your seed, wheresoever you shall sow in the land: and the bread of the corn of the land shall be most plentiful, and fat. The lamb in that day shall feed at large in your possession:
+> ^28:22^ And now do not mock, lest your bonds be tied strait. For I have heard of the Lord the God of hosts a consumption and a cutting short upon all the earth.
 
-> ^30:24^ and your oxen, and the ass colts that till the ground, shall eat mingled provender as it was winnowed in the floor.
+> ^28:23^ Give ear, and hear my voice, hearken, and hear my speech.
 
-> ^30:25^ And there shall be upon every high mountain, and upon every elevated hill rivers of running waters in the day of the slaughter of many, when the tower shall fall.
+> ^28:24^ Shall the ploughman plough all the day to sow, shall he open and harrow his ground?
 
-> ^30:26^ And the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days: in the day when the Lord shall bind up the wound of his people, and shall heal the stroke of their wound.
+> ^28:25^ Will he not, when he has made plain the surface thereof, sow gith, and scatter cummin, and put wheat in order, and barley, and millet, and vetches in their bounds?
 
-> ^30:27^ Behold the name of the Lord comes from afar, his wrath burns, and is heavy to bear: his lips are filled with indignation, and his tongue as a devouring fire.
+> ^28:26^ For he will instruct him in judgment: his God will teach him.
 
-> ^30:28^ His breath as a torrent overflowing even to the midst of the neck, to destroy the nations unto nothing, and the bridle of error that was in the jaws of the people.
+> ^28:27^ For gith shall not be thrashed with saws, neither shall the cart wheel turn about upon cummin: but gith shall be beaten out with a rod, and cummin with a staff.
 
-> ^30:29^ You shall have a song as in a voice of sanctified solemnity, and joy of heart, as where one goes with a pipe, to come into the mountain of the Lord, to the Mighty One of Israel.
+> ^28:28^ But bread *(*Panis*. DR: “breadcorn.”)* shall be broken small: but the thrasher shall not thrash it for ever, neither shall the cart wheel hurt it, nor break it with its teeth.
 
-> ^30:30^ And the Lord shall make the glory of his voice to be heard, and shall show the terror of his arm, in the threatening of wrath, and the flame of devouring fire: he shall crush to pieces with whirlwind, and hailstones.
+> ^28:29^ This also is come forth from the Lord God of hosts, to make his counsel wonderful, and magnify justice.
 
-> ^30:31^ For at the voice of the Lord the Assyrian shall fear being struck with the rod.
+> **633**. ***Woe to the crown***. In this part, he threatens against those who disdain the predictions of the prophets,
 
-> ^30:32^ And the passage of the rod shall be strongly grounded, which the Lord shall make to rest upon him with timbrels and harps, and in great battles he shall overthrow them.
+and first, against those who disdain in the present,  
 
-> ^30:33^ For Topheth is prepared from yesterday, prepared by the king, deep, and wide. The nourishment thereof is fire and much wood: the breath of the Lord as a torrent of brimstone kindling it.
+second, against those to come in the time of Jeremiah, ***woe to you, apostate children*** (ch. 30).  
 
-> **667**. ***Woe to you, apostate children***. In this part, the prophet threatens against those who despised the prophet Jeremiah, and who went into Egypt against his counsel, as it says in Jeremiah 42 and 43. And this is divided into two parts:
+The first of these is divided into two parts.  
 
-in the first, he threatens against the Jews only;
+In the first, against those from the ten tribes;  
 
-in the second, against the Jews together with the Egyptians, in whom they trusted, ***woe to them that go down*** (ch. 31).
+in the second, against those from the two tribes: ***but these also*** (Isa 28:7).  
 
-Or, according to the Gloss,
+**634**. Concerning the first, he does three things.  
 
-in the first part, he prohibits them from descending to Egypt,
+First, he denounces the sin of pride: ***woe to the crown***, for they were proud of their multitude, which is the crown or glory of a king (Prov 14:28);  
 
-in the second, he threatens punishment against those who descend.
+second, the sin of gluttony: ***to the drunkards of Ephraim***, Nahum: *with glory you have made me drunk*, ***to the fading flower the glory his joy, who were on the head of the fat valley***, who, in the time of David and Solomon, coming from the heat, established tents of idolatry in the valley of Gethsemane; ***staggering with wine***, namely, idolatry: *the rod has blossomed, the almond tree *(*Amygdalus*. Vg.: *superbia*. DR: “pride” (cf. Sirach 12:5).)* has budded* (Ezek 7:10).  
 
-The first of these is divided into two:
+**635**. Second, he threatens punishment: ***behold the Lord is mighty***; and concerning this, he does two things.  
 
-in the first, he sets out threatening;
+First, he sets out the strength of the enemy: ***behold, mighty***, as to the strength of the enemy, whom he will send in; ***as a storm of hail***, as to their multitude, above: ***nations shall make a noise like the noise of waters*** (Isa 17:13).  
 
-in the second, consolation: ***therefore the Lord wait**s*** (Isa 30:18).
+Second, he sets out the inflicting of the punishment, namely, the casting down of pride: ***the crown of pride shall be trodden under feet***: *in your anger you will tread the earth under foot* (Hab 3:12); and the emptying of glory, ***and the flower shall be as a hasty fruit***, that is, ripe or early fruit, above: ***for before the harvest it was all flourishing*** (Isa 18:5); *all your strong holds shall be like fig trees with their green figs* (Nah 3:12).  
 
-The first of these is divided into two:
+**636**. Third, he sets out the glory of the just, namely, of the just of the two tribes: ***in that day***, namely, in the time of Ezechias, when the ten tribes had been destroyed; as to three things.  
 
-in the first, he denounces their descent;
+As to the joy of the people, ***a crown***, which is of gold or silver, in contrast to ***the crown of pride***; ***a garland***, of flowers, in contrast to the ***fading flower***, below: ***and I will give them a crown for ashes*** (Isa 61:3).  
 
-in the second, he denounces their contempt of the divine command: ***therefore have I cried*** (Isa 30:7).
+As to the justice of the king: ***and he***, the Lord himself, ***shall be a spirit of judgment***: *a king shall reign, and shall be wise: and shall execute judgment and justice in the earth* (Jer 23:5).  
 
-**668**. Concerning the first, he denounces three things in them.
+As to the might of their soldiers: ***and strength***, for the Lord will fight for them, above: ***because you have been my strength*** (Isa 25:4). *(*Fortitudo mea*. Vg.: *fortitudo pauperi*. DR: “a strength to the poor.”)*  
 
-First, the disposition of the journey, setting out the intention: ***that you would take counsel***; ***a web***, wicked machination; and the consequent effect: ***that you might add sin upon sin***: *why will you add sin upon sin?* *Adicere peccata super peccata*. Vg.: *adicere super peccata nostra* DR: “why will you add to our sins?” (2 Chr 28:13).
+**637**. ***But these also***. Here he threatens against those among the two tribes who disdain the predictions of the prophets;  
 
-**669**. Second, he sets outs the execution of this counsel as to walking the way: ***who walk***, which is deformed by contempt of divine counsel; ***who have not asked at my mouth***, the prophet: *if you will separate the precious from the vile, you shall be as my mouth* (Jer 15:19), because you would not do what he said; and by trusting in human help, ***trusting in the shadow of Egypt***: *cursed be the man that trusts in man, and makes flesh his arm* (Jer 17:5). And he sets out the effect: ***and the strength of Pharaoh shall be to your confusion***: *I will change their glory into shame* (Hos 4:7). Hence, as to the end of the way: ***for your princes went into Taphnis***, which is only in the other part of Egypt, as if they feared to remain in the first borders: *what have you to do in the way of Egypt, to drink the troubled water?* (Jer 2:18). And he shows their lack of hope: ***they were all confounded***: *put not your trust in princes: in the children of men, in whom there is no salvation* (Ps 145:2–3[146:3]).
+and first, against the princes,  
 
-**670**. Third, he describes the carrying away of goods: ***the burden of the beasts***;
+second, against the city or against the people, ***woe to Ariel*** (ch. 29).  
 
-he threatens first the destruction of Egypt. ***The burden***, of the sons of Judah, ***beasts***, because of their stupidity or because they bore their goods like beasts; ***of the south***, because they fled to the south or because their dwelling was in the southern part. ***In a land of trouble***, in Egypt, which in Hebrew is called “Meyrey,” which is translated “trouble” or “distress”: *the sword which you fear, shall overtake you there in the land of Egypt* (Jer 42:16).
+The first of these is divided into two parts.  
 
-Second, he sets out the condition of those who carry away the goods: ***the lioness***, because of its ferocity, ***the lion***, because of the presumption of its audacity, ***the viper***, because of its cruelty, ***the flying basilisk***, not because it has wings, but because it leaps on the face of men, because of its swiftness to do evil: *her princes are as roaring lions* (Zeph 3:3).
+First, he sets out the threat;  
 
-Third, the carrying away of the goods: ***they carry their riches***.
+second, the consolation: ***give ear*** (Isa 28:23).  
 
-Fourth, the vanity of their labor: ***to a people that shall not be able to profit them***: *vain is the salvation of man* (Ps 59:13[60:11]).
+Concerning the first, he does two things.  
 
-**671**. ***Therefore have I cried***. Here he denounces their contempt of the divine command.
+First, he denounces the sin and threatens destruction at the same time;  
 
-And first, he shows how they despised the divine command;
+second, he excludes remedy: ***wherefore hear the word of the Lord*** (Isa 28:14).  
 
-in the second part, how they despised salutary counsel: ***for thus says the Lord God*** (Isa 30:15).
+Concerning the first, he does two things.  
 
-Concerning the first, he sets out three things:
+First, he denounces their lack of knowledge;  
 
-first, the divine command;
+second, their contempt of teaching: ***for command*** (Isa 28:10).  
 
-second, the contempt of the people: ***for it is a people*** (Isa 30:9);
+**638**. Concerning the first of these, he does two things.  
 
-third, he threatens those who despise death or the destruction of death: ***therefore thus says the Holy One of Israel*** (Isa 30:12).
+First, he denounces their fault, first setting out the error of them all together: ***but these also have been ignorant through wine***: *wine, and drunkenness* (Hos 4:11), make one to fall away from God;  
 
-**672**. Concerning the first, he sets out three things.
+second, the fault of their teachers: ***the priest and the prophet have been ignorant***, as to ignorance of what is to be believed; ***they have gone astray***, as to ignorance of what is to be done; ***him that sees***, that is, God who sees all things. Hence the explanation of this can be found in: *her priests have despised my law, and have defiled my sanctuaries* (Ezek 22:26).  
 
-First, the command, ***therefore have I cried concerning this***, that it is useless to go into Egypt, ***sit still***, in your own land: *thus says the Lord to this people, that have loved to move their feet, and have not rested, and have not pleased the Lord* (Jer 14:10);
+Third, he sets out the manner of their ignorance: ***for all the tables were full of vomit***, for they gorged themselves in their temples until they vomited, as if they were devoted entirely to idols; ***and filth***, namely, of all their shameful vices: *as a dog that returns to his vomit* (Prov 26:11), *(Cf. 2 Peter 2:22.)* and the sow that was washed to her wallowing in the mire.  
 
-second, he sets out the confirmation of the command. ***Now therefore***, you, Isaiah, ***go in***, by prophetic vision, or you, Jeremiah, ***go in***, into Egypt with the people, as it says in Jeremiah 43;
+**639**. Second, he threatens the punishment of blindness: ***whom shall he teach?***  
 
-third, he assigns the fruit of this confirmation: ***and it shall be in that day for a testimony for ever***: *write this for a memorial* (Exod 17:14).
+Hence the question is first set out, ***whom shall he teach knowledge?*** As if to say: why have you spurned knowledge? ***The hearing***, namely, what I heard from the Lord.  
 
-**673**. ***For it is a people***. Here he sets out the contempt of the people,
+Second, the answer is set out: ***them that are weaned from the milk***, that is, the humble and simple little ones: *you have hid these things from the wise and prudent, and have revealed them to little ones* (Matt 11:25); or all of the good who are separated from the milk of concupiscence.  
 
-and first, the contempt by which they despised God: ***that provokes to wrath***, as to sin of transgression: *do not you provoke me, as the house of IsraelVg. omits “of Israel.” provokes me* (Ezek 2:8); ***and lying children***, as to sin of speech, for they promised obedience to Jeremiah, a promise which they would not keep, as it says in Jeremiah 42. *The children that are strangers have lied to me* (Ps 17:46[18:45]): ***that will not***, as to sin of omission: *he that stops*Obturat*. Vg.: *declinat*. DR: “turneth away.” his ears from hearing the law, his prayer shall be an abomination* (Prov 28:9).
+**640**. Note on the word, ***drunkenness*** (Isa 28:7), that the wicked are inebriated on the wine,  
 
-Second, he sets out their contempt of the prophets: ***who say to the seers***, according to which they prohibited them from carrying out their proper office: *you seer, go, flee away* (Amos 7:12); inasmuch as they induced them to lie: ***speak unto us pleasant things***: *behold the words of the prophets with one mouth declare good things to the king* (1 Kgs 22:13). ***Turn away***, inasmuch as they prohibited the word of divine knowledge: *who have said to God: depart from us, we desire not the knowledge of your ways* (Job 21:14).
+first, of material liquor: *be not drunk with wine, wherein is luxury* (Eph 5:18);  
 
-**674**. ***Therefore thus says the Holy One of Israel***. Here he threatens destruction to them, resuming the subject of their guilt that the punishment may appear more just: ***because you have rejected this word***. And he adds the punishment, where it says, ***therefore shall this iniquity be to you***, signifying sudden punishment by the likeness of ruin, which lies hidden for a long time in a wall that falls suddenly in the end: ***for the destruction thereof shall come on a sudden***: *for when they shall say: peace and security; then shall sudden destruction come upon them* (1 Thess 5:3). And he shows the strong punishment: ***and it shall be broken small***, under the likeness of the breaking of a vessel, of which no fragment remains whole for any use, namely, for carrying fire and drawing water, above: ***with breaking shall the earth be broken*** (Isa 24:19).
+second, of carnal delight: *come, let us be inebriated* (Prov 7:18) with wine;  
 
-**675**. Note on the words, ***sit stillQuiesce*. (Isa 30:7), that man ought to sit still
+third, of spiritual error, above: ***they have caused Egypt to err in all its works, as a drunken man staggers and vomits*** (Isa 19:14);  
 
-first, from the act of sin, above: ***cease*Quiescete*. to do perversely, learn to do well*** (Isa 1:16–17);
+fourth, of divine punishment: *he has inebriated me with wormwood* (Lam 3:15).  
 
-second, from the course of wandering: *thus say*Dices*. Vg.: *dicit Dominus*. DR: “saith the Lord.” to this people, that have loved to move their feet, and have not rested**Quievit*. (Jer 14:10);
+The saints are also inebriated,  
 
-third, from immoderate appetite, below: ***the heart of the wicked is*Cor impii quasi*. Vg.: *impii autem quasi*. DR: “but the wicked are.” like the raging sea, which cannot restQuiescere*. (Isa 57:20);
+first, with the tears of compunction, above: ***I will inebriate *(*Inebriabo*. DR: “water.”)* you with my tears*** (Isa 16:9);  
 
-fourth, from presumptuous intellect: *when a man has done, then shall he begin* (Sir 18:6).
+second, with the chalice of suffering: *your *(*Tuus*. Vg.: *meus*. DR: “my.”)* chalice which inebriates me, how goodly is it* (Ps 22[23]:5);  
 
-**676**. ***For thus says the Lord***. Here he denounces their contempt of divine counsel, and concerning this, he sets out three things.
+third, with the incentive of love: *eat, O friends, and drink, and be inebriated* (Song 5:1);  
 
-First, the counsel: ***if you return***, below: ***be converted to me, and you shall be saved*** (Isa 45:22).
+fourth, with a torrent of happy delight: *they shall be inebriated with the plenty of your house* (Ps 35:9[36:8]).  
 
-Second, their contempt: ***but have said: no*. *Therefore shall you flee***: these are the words of the Lord. *One way may we go out* (Deut 28:25);*Gradiemur*. Vg.: *egrediaris*. DR: “mayst thou go out.” ***and we will mount upon swift ones***: the voice of the rebellious people; ***therefore shall they be swifter***: the voice of the Lord: *our persecutors were swifter than the eagles of the air* (Lam 4:19).
+**641**. Note also on the words, ***crown of pride*** (Isa 28:1), that both the wicked and the good are crowned.  
 
-Third, he threatens destruction: ***a thousand men***, Egyptians, ***shall flee for fear of one***, Chaldean, ***and for fear of five***, Chaldeans, ***you***, all you Jews, ***shall flee***: *how should one pursue after a thousand, and two chase ten thousand?* (Deut 32:30); ***till you be left as the mast***, as a sign to evade shipwreck, above: ***there shall be made a show as a turpentine tree, and as an oak that spreads its branches*** (Isa 6:13).
+The wicked are crowned first with the crown of vain joy: *let us crown ourselves with roses* (Wis 2:8);  
 
-**677**. ***Therefore the Lord waits***. Here he sets out consolation, and concerning this, he does two things:
+second, the crown of the things of wealth, above: ***who has taken this counsel against Tyre, that was formerly crowned?*** (Isa 23:8);  
 
-first, he sets out the intention of having mercy;
+third, of worldly power: *he has stripped me of my glory, and has taken the crown from my head* (Job 19:9);  
 
-second, he describes the benefit of mercy: ***for the people*** (Isa 30:19).
+fourth, of superstitious observances: *when the feast of Bacchus was kept, they were compelled to go about crowned with ivy in honor of Bacchus* (2 Macc 6:7).  
 
-Concerning the first, he sets out three things.
+**642**. The saints are also crowned:  
 
-First, the intention in God of having mercy: ***therefore the Lord waits***, not destroying you entirely: *you shall wait for me many days* (Hos 3:3);
+first, with a nuptial crown, below: ***as a bridegroom he has decked with a crown*** (Isa 61:10);  
 
-second, the judgment of the ungrateful: ***and therefore shall he be exalted***, that is, he will appear high in justice, punishing you who are ungrateful for his benefits, above: ***the Lord of hosts shall be exalted in judgment*** (Isa 5:16);
+second, a triumphal crown: *he will not be crowned, except he strive lawfully* (2 Tim 2:5);  
 
-third, the reward of the good: ***blessed are all they that wait for him***: *you yourselves like to men who wait for their lord* (Luke 12:36).
+third, a royal crown, below: ***you shall be a crown of glory in the hand of the Lord*** (Isa 62:3); *you, O Lord, have set on his head a crown of precious stones* (Ps 20:4[21:3]);  
 
-**678**. ***For the people***. Here he describes the benefit of mercy,
+fourth, a priestly crown: *and a crown of gold upon his head *(*Caput*. Vg.: *mitram*. DR: “mitre.”)* wherein was engraved holiness* (Sir 45:14[12]).  
 
-and first, in their exaltation,
+**643**. Note also on the words, ***them that are weaned from the milk*** (Isa 28:9), that there is a certain milk that ought to be abandoned, and this is manifold:  
 
-second, in the oppression of their enemies: ***behold the name*** (Isa 30:27).
+first, the milk of carnal concupiscence, above: ***the weaned child shall thrust his hand into the den of the basilisk*** (Isa 11:8);  
 
-Concerning the first, he sets out two things.
+second, of imperfect justice: *the child grew, and was weaned* (Gen 21:8);  
 
-First, the removal of evils against the captivity of exile: ***for the people of Zion shall dwell in Jerusalem***, in the time of Zorobabel; or rather, all, mystically: *he shall not be moved for ever that dwells in Jerusalem* (Ps 124[125]:1–2); against the anxiety of sadness: ***weeping***, before, ***you shall not weep***, forever, but when you will be freed, above: ***the Lord God shall wipe away tears from every face*** (Isa 25:8); against the indignation of God: ***he will surely have pity***: *he shall call upon*Invocabit*. Vg.: *clamabit*. DR: “cry to.” me, and I will hear him* (Ps 90[91]:15). Against poverty: ***and the Lord will give you spare bread***, and this is the sense: they will be content with little food: *the chief thing for man’s life is water and bread* (Sir 29:28[21]); or because in the return from Babylon they suffered scarcity. This should be understood mystically, according to the Gloss.
+third, of rudimentary doctrine: *as unto little ones in Christ, I gave you milk to drink* (1 Cor 3:1–2).  
 
-**679**. Second, he sets out the gathering of goods; hence he says, ***and will not cause***.
+There is also a milk that ought to be embraced:  
 
-And first, of spiritual goods, as to chosen teaching, describing the teacher: ***to flee***, that is, to withdraw; ***your teacher***, Esdras, whose teaching they still use, or Christ; ***behind your back***, like someone fleeing when called back by his pursuer: *he has given you a teacher of justice* (Joel 2:23); and he sets out the teaching: ***this is the way***: *we will go the king’s highway* (Num 21:22). And also as to due worship of God: ***and you shall defile the plates of your graven things of silver***, reducing them to common use: *he defiled the high places, and demolished them*Vg. omits “and demolished them.” (2 Kgs 23:8); ***the garment***, every adornment of an idol.
+first, of a pure conscience: *whiter than snow, brighter *(*Nitidiores*. DR: “purer.”)* than milk* (Lam 4:7), because of its brightness;  
 
-Second, as to temporal goods; hence he says, ***get you hence***, namely, from spiritual goods to temporal goods.
+second, of sound doctrine, because of its sweetness: *honey and milk are under her *(*Ejus*. Vg.: *tua*. DR: “thy.”)* tongue* (Song 4:11);  
 
-**680**. And first, he promises fertility of the land, promising the cause: ***and rain shall be given***: *he will make the early and the latter rain to come down to you* (Joel 2:23); and the effect, as to the food of men: ***and the bread of the corn of the land shall be most plentiful, and fat***: *Aser, his bread shall be fat* (Gen 49:20); *he fills you with the fat of corn* (Ps 147:14); as to the pasture of herds: ***the lamb in that day shall feed***, as to sheep, ***and your oxen***, as to cattle; and in both, he notes their fecundity, setting out their young, ***and the ass colts***; and as to provisions for beasts of burden: ***mingled provender***, pure barley with husks, which they ate mingled before.
+third, of eternal glory, because it easy to swallow: *possess their land flowing with milk and honey* (Lev 20:24).  
 
-**681**. Second, he promises abundance of water: ***and there shall be***. The Jews say that these things are to be fulfilled literally at the end of the world; ***the slaughter of many***, the Romans, according to them, which is preposterous. Or it may be metaphorical speech, so that the water signifies the consolation which they had after the return from captivity and the destruction of Babylon. Or, mystically, it may signify the teaching of Christ, below: ***I will open rivers in the high hills, and fountains in the midst of the plains*** (Isa 41:18).
+**644**. ***For command***. Here he sets out their contempt of teaching,  
 
-**682**. Third, the radiance of heaven: ***and the light of the sun shall be as the light of seven days***, that is, as much light in one day as there is now in seven days, as if ***sevenfold***; or as it was in the first week of seven days. The Jews preposterously say that these things are fulfilled literally in the golden age of Jerusalem; but it is better understood as referring to the future glory of the saints, after the renewal of the world; or metaphorically and hyperbolically, it may refer to the state of the people: *who heals the broken of heart, and binds up their bruises* (Ps 146[147]:3).
+and first, through the blasphemy by which they derided the prophets, saying, ***command***, for they used these words in threatening, above: ***I will command the army*** (13) *(Cf. 13:3–4.)* of heaven: *I will command the clouds* (Jer 3); *(Cf. above 5:6.)* ***expect***, here, in promising: *if it make any delay, wait for *(*Expecta*.)* it: for it shall surely come* (Hab 2:3). And he adds the punishment: ***for with the speech of lips, and with another tongue***, that is, you shall so lack understanding of the prophets as if someone were speaking to you, with only the movement of the lips, and in a foreign tongue; or right away he will inflict wounds on you. And of this kind of speaking: *let us examine him by outrages and tortures* (Wis 2:19).  
 
-**683**. Note on the words, ***and the bread of the corn*** (Isa 30:23), that the word of God is bread that is,
+**645**. Second, as to disobedience, ***to whom he said***.  
 
-first, strait because of the difficulty of observing it: *strait is the way that leads to life* (Matt 7:14);
+Hence he first sets out the precept, ***this is my rest, refresh the weary***: *because you did it to one of these my least brethren, you did it to me* (Matt 25:40);  
 
-second, abundant, because of the usefulness of its fruit, below: ***as the rain and the snow come down from heaven, and return no more thither, but soak the earth, and make it to spring. So shall my word be, which shall go forth from my mouth*** (Isa 55:10–11);
+second, their contempt, ***and they would not hear***: *but the house of Israel will not hearken to you: because they will not hearken to me* (Ezek 3:7).  
 
-third, fat, because of the sweetness of its delight: *Aser, his bread shall be fat* (Gen 49:20).
+Third, he threatens destruction: ***and the word shall be to them***, that is, they will suffer this punishment for their own words: *by your words*, *I judge you, you wicked servant* (Matt 12:37); *(Luke 19:22.)* ***that they may go***, to destruction.  
 
-**684**. ***Behold the name of the Lord***. Here he consoles them with the punishment of their enemies, and concerning this, he sets out three things:
+**646**. ***Wherefore***. Here he excludes remedy.  
 
-first, the coming of the judge who punishes;
+And first, he sets out two remedies;  
 
-second, the manner of punishment: ***and the Lord shall make*** (Isa 30:30);
+second, he excludes both from them: ***and I will set*** (Isa 28:17).  
 
-third, the place of the punishment: ***for Topheth is prepared from yesterday*** (Isa 30:33).
+Concerning the first, he sets out two remedies.  
 
-Concerning the first, he sets out three things.
+One in which they trusted, namely, a covenant with idols; hence he places the covenant: ***we have entered into a league with death***, that is, with the devil: *will he make a covenant with you, and will you take him to be a servant for ever?* (Job 40:23); and the fruit of the covenant: ***the overflowing scourge***, that is, persecution; ***we have placed our hope in lies***, that is, in idols, because you prophets tell lies: *they are not in the labor of men: neither shall they be scourged like other men* (Ps 72[73]:5).  
 
-First, the coming of the judge: he ***comes***, for universal judgment, ***from afar***, long before announced by the prophets. Or: he ***comes***, for destruction, Sennacherib, ***from afar*** from the height of his power; or to destroy the Babylonians, through the Medes coming from afar: *behold I will bring upon you a nation from afar* (Jer 5:15). ***The name of the Lord***, the Son, as to the first explanation; or because it redounds to his glory, as to the second and the third explanation.
+Second is the remedy which God prepares for the saints, namely Christ: ***behold I will lay a stone in the foundations of Zion***: *the stone which the builders rejected; the same is become the head of the corner* (Ps 117[118]:22); ***he that believes, let him not hasten***, but wait for it: *if it make any delay, wait for it* (Hab 2:3), and this against the blasphemies of the wicked.  
 
-**685**. Second, he shows the zeal of the one who comes, setting out the wrath in his heart, through an anthropopathism, ***his wrath burns***. Wrath is enkindled anger; it is enkindled, however, either as to the vehemence of the desire for vengeance, and as to this, he says, it ***burns***; or as to the quantity of the punishment, and as to this, he says, it is ***heavy***, below: ***these shall be smoke in my anger, a fire burning all the day*** (Isa 65:5). He also places wrath in his mouth: ***his lips are filled with indignation***, reproaching sins, ***and his tongue as a devouring fire***, threatening torments, above: ***with the breath of his lips he shall slay the wicked*** (Isa 11:4). He also sets out wrath in his work: ***his breath***, that is, his indignation, ***overflowing even to the midst of the neck***, that is, it will lead to their extinction, above: ***there shall pass through Judah, overflowing*** wrath (Isa 8:8).
+**647**. ***And I will set***. Here he excludes both of these remedies,  
 
-**686**. Third, he sets out the effect of his indignation on the wicked, the destruction of the nations: ***to destroy the nations***: *Lord, in your city you shall bring their image to nothing* (Ps 72:20[73:21]); and the cessation of tyrants: ***and the bridle of error***: *he has put a bridle into my mouth* (Job 30:11). He also sets out the effect on the good in praise of the mouth: ***you shall have a song as in the night of the sanctified solemnity***, for on three solemnities they went to Jerusalem with joy (Lev 23), below: ***the city of our solemnity: your eyes shall see*** (Isa 33:20); and in delight of heart: ***and joy of heart***, below: ***they shall obtain joy and gladness, and sorrow and mourning shall flee away*** (Isa 35:10); *and the people of the LordVg. omits “of the Lord.” were joyful* (Jdt 16:24).
+and first, the first remedy,  
 
-**687**. ***And the Lord shall make the glory of his voice to be heard***. Here he describes the manner of punishment; and concerning this, he does three things.
+second, the second remedy: ***for the bed is straitened*** (Isa 28:20).  
 
-First, he describes the manner of punishment as to the act of the one who punishes: ***his voice***, through which he will appear glorious, and ***the terror of his arm***, through likeness to an angry man, who threatens in this manner: *have you an arm like God?* (Job 40:4); and as to the instrument: ***and the flame of devouring fire . . . with whirlwind, and hailstones***, for, literally, the Assyrians were burned up, and perhaps there was some storm. Or the different punishments of the day of judgment are signified: *fire and brimstone, and storms of winds, shall be the portion of their cup* (Ps 10:7[11:6]).
+Concerning the first, he does three things:  
 
-Second, he places the infliction of the punishment, showing the Assyrian’s horror: ***for at the voice of the Lord the Assyrian shall fear***, and the duration of the punishment: ***and the passage of the rod shall be strongly grounded***, that is, strengthened.
+first, he sets out the just judgment of exclusion: ***I will set judgment in weight***: *you have made all things in number and measure* (Wis 11:21);  
 
-Third, the exultation of the saints: ***with harps, and in great battles***, which are waged by divine power alone: *the just shall rejoice when he shall see the revenge* (Ps 57:11[58:10]).
+second, he excludes the covenant, ***and hail***, of tribulation, ***shall overturn the hope of falsehood***; and he sets out four things against all that had been mentioned above: *the hope of the hypocrite shall perish* (Job 8:13);  
 
-**688**. ***For Topheth is prepared***. Here he describes the place of punishment.
+third, the fruit of the exclusion, ***and vexation alone***, above: ***Lord, they have sought after you in distress*** (Isa 26:16).  
 
-And first, its disposition: ***Topheth***, the valley of the son of Ennom, Gehenna, for the fire for sacrifices was kept there on stones of tufa (*Tophis*); this is the same as the valley of Gethsemane, where the army of Sennacherib was destroyed. Or it signifies hell; hence the Jews conjecture that hell is there, because smoke is always emitted from two palm trees which are there.Cf. Hugh; Babylonian Talmud, Erubin 19a. ***From yesterday***, that is, from the beginning; or, according to the Jews, from the second day, which had only yesterday, and no day before. Jeremiah 7 and 19 discuss this valley. ***Prepared by the king***, God, ***deep, and wide***, above: ***therefore has hell enlarged her soul*** (Isa 5:14).
+**648**. ***For the bed is straitened***. Here he excludes the second remedy.  
 
-Second, the variety of punishments: ***the nourishment thereof is fire and much wood***, the impious, or the men of the army of Sennacherib; ***the breath of the Lord***, that is, his will, metaphorically: *fire and brimstone, and storms of winds, shall be the portion of their cup* (Ps 10:7[11:6]).
+And first, he sets out the impediment, which makes it so that the remedy will not profit them: ***straitened***; he speaks according the likeness of an adulteress, who cannot have her husband and her lover in the same bed; just so, they cannot maintain the worship of idols and obtain divine help: *you cannot be partakers of the table of the Lord and of the table of devils* (1 Cor 10:21).  
 
-**689**. Note on the words, ***behold the name of the Lord*** (Isa 30:27), that the son of God is the name of the Father,
+Second, he sets out the coming of the liberator, ***as in the mountain of divisions***. He refers to the history which is found in 2 Kings 5; ***as in the valley***, Joshua 10.  
 
-first, by which he is manifested: *I have manifested your name to the men* (John 17:6);
+Third, he excludes the help of mercy: ***that he may do his work***, that is, that he may have mercy on us, as he did then, spoken interrogatively; and he responds: ***strange work***: *his tender mercies are over all his works* (Ps 144[145]:9).  
 
-second, by which he is honored: *Father, hallowed be your name* (Matt 6:9);
+**649**. ***And now do not mock***. Here he draws, as a conclusion, sound and wholesome counsel,  
 
-third, by which he is invoked: *whatever you ask the Father in my name, he will give it you* (John 16:23).
+and first, he prohibits mocking: ***do not mock***; ***bonds***, of captivity: *he shall scorn the scorners* (Prov 3:34);  
 
-**690**. Also, on the words, ***comes from afar*** (Isa 30:27), note that he came from afar,
+and he assigns the reason: ***for I have heard of the Lord the God of hosts a consumption and a cutting short upon all the earth***.  
 
-first, because of the long expectation: *all these died according to faith, not having received the promises but beholding them afar off* (Heb 11:13);
+**650**. ***Give ear***. Here he sets out consolation.  
 
-second, because of the imperfection of our merits: *coming, he preached peace to you that were afar off* (Eph 2:17);
+And first, he arouses their attention: ***hear***: *hear, O you heavens, the things I speak* (Deut 32:1).  
 
-third, because of the delay of the time: *I shall see him, but not now: I shall behold him, but not near* (Num 24:17);
+Second, he sets out the consolation under the likeness of a farmer: ***shall the ploughman plough all the day***, through which he shows three things, namely,  
 
-fourth, because of the height of his majesty: *his going out is from the end of heaven, and his circuit even to the end thereof* (Ps 18:7[19:6]).
+the intention of God to punish like the ploughman, that they might bear fruit, ***to sow***. ***Gith***, a kind of legume similar to cumin;  
 
-**691**. Note on the words, ***is prepared by the king, deep, and wide*** (Isa 30:33), that hell is broad,
+second, the discretion of his judgment, for he punishes some in one way and others in a different way, just as a farmer beats out wheat in one way and cumin in another, and he indicates this where it says: ***for he will instruct him in judgment***. ***Bread***, that is, grain;  
 
-first, because of its desire to retain, above: ***therefore has hell enlarged her soul*** (Isa 5:14);
+third, the ending of punishments as to those who are corrected: ***but the thrasher shall not thrash it for ever***: *he that ploughs, should plough in hope, and he that thrashes, in hope to receive fruit* (1 Cor 9:10).  
 
-second, because of the multitude of the damned: *strait is the way that leads to life; wide is the gate, and broad is the way that leads to destruction, and many there are who go in thereat* (Matt 7:13–14);
-
-third, because of the variety of punishments: *fire, hail, snow, ice* (Ps 148:8) or: *fire and brimstone, and storms of winds* (Ps 10:7[11:6]);
-
-fourth, because of the eternity of the punishment: *go, you cursed, into everlasting fire* (Matt 25:41).
-
-**692**. Note on the words, ***his tongue as a devouring fire*** (Isa 30:27), that charity is called a fire:
-
-first, because it illuminates: *you that fear the Lord, love him, and your hearts shall be enlightened* (Sir 2:10);
-
-second, because it seethes: *stay me up with flowers, compass me about with apples: because I languish with love* (Song 2:5);
-
-third, because it turns all things to itself: *we know that to them that love God all things work together unto good* (Rom 8:28);
-
-fourth, because it makes one unencumbered: *if any one love me, he will keep my word* (John 14:23);
-
-fifth, because it pulls one above: *in my bed I sought him whom my soul loves: I sought him, and found him not* (Song 3:1).
-
-Chapter 31
+Third, he sets out the explanation: ***this also is come forth from the Lord God of hosts, to make his counsel wonderful***: *wonderful are your works* (Ps 134[135]:14).

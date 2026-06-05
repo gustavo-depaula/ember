@@ -1,11 +1,13 @@
-# Quaestio 97 — Deinde considerandum est de his quae pertinent ad statum primi hominis secundum corpus. Et primo, quantum ad conservationem individui; secundo, quantum ad conservationem speciei.
+# Quaestio 97
 
-Circa primum quaeruntur quatuor.
+De his quae pertinent ad statum primi hominis secundum corpus quantum ad conservationem individui  
 
-Primo, utrum homo in statu innocentiae esset immortalis.
+Deinde considerandum est de his quae pertinent ad statum primi hominis secundum corpus. Et primo, quantum ad conservationem individui; secundo, quantum ad conservationem speciei.  
 
-Secundo, utrum esset impassibilis.
+Circa primum quaeruntur quatuor.  
 
-Tertio, utrum indigeret cibis.
+Primo, utrum homo in statu innocentiae esset immortalis.  
 
-Quarto, utrum per lignum vitae immortalitatem consequeretur.
+- Secundo, utrum esset impassibilis.
+- Tertio, utrum indigeret cibis.
+- Quarto, utrum per lignum vitae immortalitatem consequeretur.

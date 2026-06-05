@@ -1,9 +1,9 @@
-# Quaestio 76 — Deinde considerandum est de maledictione. Et circa hoc quaeruntur quatuor.
+# Quaestio 76
 
-Primo, utrum licite possit aliquis maledicere homini.
+***Deinde considerandum est de maledictione. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum licite possit aliquis maledicere irrationali creaturae.
+Primo, utrum licite possit aliquis maledicere homini.  
 
-Tertio, utrum maledictio sit peccatum mortale.
-
-Quarto, de comparatione eius ad alia peccata.
+- Secundo, utrum licite possit aliquis maledicere irrationali creaturae.
+- Tertio, utrum maledictio sit peccatum mortale.
+- Quarto, de comparatione eius ad alia peccata.

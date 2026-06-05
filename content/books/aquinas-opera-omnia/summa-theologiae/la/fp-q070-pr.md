@@ -1,16 +1,14 @@
-# Quaestio 70 — Consequenter considerandum est de opere ornatus. Et primo, de singulis diebus secundum se; secundo, de omnibus sex diebus in communi.
+# Quaestio 70
 
-Circa primum ergo, considerandum est
+***De opere ornatus, et de opere quartae diei***
 
-primo de opere quartae diei,
-secundo, de opere quintae;
-tertio, de opere sextae;
-quarto, de iis quae pertinent ad septimum diem.
+Consequenter considerandum est de opere ornatus. Et primo, de singulis diebus secundum se; secundo, de omnibus sex diebus in communi.  
 
-Circa primum quaeruntur tria.
+Circa primum ergo, considerandum est primo de opere quartae diei, secundo, de opere quintae; tertio, de opere sextae; quarto, de iis quae pertinent ad septimum diem.  
 
-Primo, de productione luminarium.
+Circa primum quaeruntur tria.  
 
-Secundo, de fine productionis eorum.
+Primo, de productione luminarium.  
 
-Tertio, utrum sint animata.
+- Secundo, de fine productionis eorum.
+- Tertio, utrum sint animata.

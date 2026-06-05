@@ -1,11 +1,10 @@
-# Quaestio 12 — Deinde considerandum est de intentione. Et circa hoc quaeruntur quinque.
+# Quaestio 12
 
-Primo, utrum intentio sit actus intellectus, vel voluntatis.
+***Deinde considerandum est de intentione. Et circa hoc quaeruntur quinque.***
 
-Secundo, utrum sit tantum finis ultimi.
+Primo, utrum intentio sit actus intellectus, vel voluntatis  
 
-Tertio, utrum aliquis possit simul duo intendere.
-
-Quarto, utrum intentio finis sit idem actus cum voluntate eius quod est ad finem.
-
-Quinto, utrum intentio conveniat brutis animalibus.
+- secundo, utrum sit tantum finis ultimi.
+- Tertio, utrum aliquis possit simul duo intendere.
+- Quarto, utrum intentio finis sit idem actus cum voluntate eius quod est ad finem.
+- Quinto, utrum intentio conveniat brutis animalibus.

@@ -1,9 +1,9 @@
-# Quaestio 92 — Deinde considerandum est de productione mulieris. Et circa hoc quaeruntur quatuor.
+# Quaestio 92
 
-Primo, utrum in illa rerum productione debuerit mulier produci.
+Deinde considerandum est de productione mulieris. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum debuerit fieri de viro.
+Primo, utrum in illa rerum productione debuerit mulier produci.  
 
-Tertio, utrum de costa viri.
-
-Quarto, utrum facta fuerit immediate a Deo
+- Secundo, utrum debuerit fieri de viro.
+- Tertio, utrum de costa viri.
+- Quarto, utrum facta fuerit immediate a Deo.

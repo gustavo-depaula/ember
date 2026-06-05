@@ -1,11 +1,10 @@
-# Question 12 — We must now consider Intention: concerning which there are five points of inquiry:
+# Question 12 — Of Intention
 
-(1) Whether intention is an act of intellect or of the will?
+We must now consider Intention: concerning which there are five points of inquiry:  
 
-(2) Whether it is only of the last end?
+(1) Whether intention is an act of intellect or of the will?  
 
-(3) Whether one can intend two things at the same time?
-
-(4) Whether intention of the end is the same act as volition of the means?
-
-(5) Whether intention is within the competency of irrational animals?
+- (2) Whether it is only of the last end?
+- (3) Whether one can intend two things at the same time?
+- (4) Whether intention of the end is the same act as volition of the means?
+- (5) Whether intention is within the competency of irrational animals?

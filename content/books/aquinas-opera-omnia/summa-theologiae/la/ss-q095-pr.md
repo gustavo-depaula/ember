@@ -1,17 +1,13 @@
-# Quaestio 95 — Deinde considerandum est de superstitione divinativa. Et circa hoc quaeruntur octo.
+# Quaestio 95
 
-Primo, utrum divinatio sit peccatum.
+Deinde considerandum est de superstitione divinativa. Et circa hoc quaeruntur octo.  
 
-Secundo, utrum sit species superstitionis.
+Primo, utrum divinatio sit peccatum.  
 
-Tertio, de speciebus divinationis.
-
-Quarto, de divinatione quae fit per Daemones.
-
-Quinto, de divinatione quae fit per astra.
-
-Sexto, de divinatione quae fit per somnia.
-
-Septimo, de divinatione quae fit per auguria et alias huiusmodi observationes.
-
-Octavo, de divinatione quae fit per sortes.
+- Secundo, utrum sit species superstitionis.
+- Tertio, de speciebus divinationis.
+- Quarto, de divinatione quae fit per Daemones.
+- Quinto, de divinatione quae fit per astra.
+- Sexto, de divinatione quae fit per somnia.
+- Septimo, de divinatione quae fit per auguria et alias huiusmodi observationes.
+- Octavo, de divinatione quae fit per sortes.

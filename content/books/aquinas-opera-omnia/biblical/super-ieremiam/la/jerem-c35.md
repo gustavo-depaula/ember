@@ -1,81 +1,149 @@
-# C. 35 - The Rechabites’ commandment
+# C. 33 - The kingdom and priesthood
 
-***^35:1^ Verbum quod factum est ad Jeremiam a Domino in diebus Joakim filii Josiae regis Juda, dicens:***
+***Lectio 1***
 
-> ^35:2^ vade ad domum Rechabitarum, et loquere eis, et introduces eos in domum Domini in unam exedram thesaurorum, et dabis eis bibere vinum.
+^33:1^ Et factum est verbum Domini ad Jeremiam secundo, cum adhuc clausus esset in atrio carceris, dicens:  
 
-> ^35:3^ Et assumpsi Jezoniam filium Jeremiae filii Habsaniae, et fratres ejus, et omnes filios ejus, et universam domum Rechabitarum,
+> ^33:2^ haec dicit Dominus qui facturus est, et formaturus illud, et paraturus, Dominus nomen ejus.
 
-> ^35:4^ et introduxi eos in domum Domini ad gazophylacium filiorum Hanan filii Jegedeliae hominis Dei, quod erat juxta gazophylacium principum super thesaurum Maasiae filii Sellum, qui erat custos vestibuli.
+> ^33:3^ Clama ad me, et exaudiam te; et annuntiabo tibi grandia, et firma quae nescis.
 
-> ^35:5^ Et posui coram filiis domus Rechabitarum scyphos plenos vino, et calices, et dixi ad eos: bibite vinum.
+> ^33:4^ Quia haec dicit Dominus Deus Israel ad domos urbis hujus, et ad domos regis Juda quae destructae sunt, et ad munitiones, et ad gladium
 
-> ^35:6^ Qui responderunt: non bibemus vinum, quia Jonadab filius Rechab pater noster praecepit nobis, dicens: non bibetis vinum vos, et filii vestri usque in sempiternum:
+> ^33:5^ venientium ut dimicent cum Chaldaeis, et impleant eas cadaveribus hominum quos percussi in furore meo, et in indignatione mea, abscondens faciem meam a civitate hac propter omnem malitiam eorum.
 
-> ^35:7^ et domum non aedificabitis, et sementem non seretis, et vineas non plantabitis, nec habebitis; sed in tabernaculis habitabitis cunctis diebus vestris, ut vivatis diebus multis super faciem terrae, in qua vos peregrinamini.
+> ^33:6^ Ecce ego obducam eis cicatricem et sanitatem, et curabo eos, et revelabo eis deprecationem pacis et veritatis.
 
-> ^35:8^ Obedivimus ergo voci Jonadab filii Rechab patris nostri in omnibus quae praecepit nobis, ita ut non biberemus vinum cunctis diebus nostris, nos, et mulieres nostrae, filii, et filiae nostrae;
+> ^33:7^ Et convertam conversionem Juda, et conversionem Jerusalem, et aedificabo eos sicut a principio
 
-> ^35:9^ et non aedificaremus domos ad habitandum et vineam et agrum et sementem non habuimus;
+> ^33:8^ et emundabo illos ab omni iniquitate sua in qua peccaverunt mihi; et propitius ero cunctis iniquitatibus eorum in quibus dereliquerunt mihi, et spreverunt me.
 
-> ^35:10^ sed habitavimus in tabernaculis, et obedientes fuimus juxta omnia quae praecepit nobis Jonadab pater noster.
+> ^33:9^ Et erit mihi in nomen et in gaudium et in laudem, et in exsultationem cunctis gentibus terrae quae audierint omnia bona quae ego facturus sum eis: et pavebunt et turbabuntur in universis bonis et in omni pace quam ego faciam eis.
 
-> ^35:11^ Cum autem ascendisset Nabuchodonosor rex Babylonis ad terram nostram, diximus: venite, et ingrediamur Jerusalem a facie exercitus Chaldaeorum, et a facie exercitus Syriae, et mansimus in Jerusalem.
+> **177**. Hic ponitur consolatio specialiter ad duas tribus, et praecipue quantum ad Jerusalem, ubi erat sedes regni, et sacerdotii: et circa hoc duo.
 
-> **187**. Hic convincit eos de transgressione, exemplo quorumdam obedientium.
+Primo ponit prophetiae titulum, in quo ponit prophetae carcerem: ***cum adhuc clausus esset in atrio carceris***, a Sedecia.  
 
-Et primo ponitur obedientiae experimentum;
+Secundo respectu praecedentis visionis secundo factae, promittentis auctoritatem: ***haec dicit Dominus, facturus***, sicut artifex praeparando materiam, ***formaturus***, ducendo ad complementum formae, ***paraturus***, ordinando ad finem: ***Dominus nomen ejus***: quia ipse singulariter Dominus omnium est. Psal. 82: *quoniam nomen tibi Dominus tu solus altissimus super omnem terram*.  
 
-secundo ponitur inobedientium condemnatio, ibi, ***et factum est verbum Domini ad Jeremiam***.
+Promissionis firmitatem, et magnitudinem: ***clama ad me***, pro populo orans, ***et exaudiam te***, non ut mala non inferam; sed ut post mala illata liberem. Et sic non est contrarium ei quod supra 7, dictum est: ***tu ergo noli orare pro populo hoc, et non assumas pro eis laudem, et orationem, et non obsistas mihi, quia non exaudiam te**. **Quia nescit***, *(The Sixto-Clementine Vulgate reads: *quae nescis*, “for you know not,” rather than *quae nescit*, “for he knows not.”)* idest non posset humana conjecturatione suspicari. Isa. 48: *audita tibi feci nova ex tunc, et conservata sunt quae nescis*.  
 
-Circa primum tria.
+Secundo ponit prophetiae verbum:  
 
-Primo ponitur experiendi jussio a Domino ad prophetam: ***vade ad domum Rechabitarum***, qui dediti erant studio Scripturae, et ideo a vino abstinebant, de quibus 1 Paral. 2: *cognationes scribarum habitantium in Jabes, canentes atque resonantes, et in tabernaculis commorantes. Hi sunt Cinaei qui venerunt de Calore patris domus Rechab. **Exedram***, quasi cameram extra principalem aedem. ***Dabis***, probans eorum obedientiam. Supra 6: ***probatorem dedi te in populo meo robustum, et scies, et probabis vias eorum***.
+et primo ponitur promissio quo ad populum;  
 
-***Et assumpsi . . . et introduxi eos in domum Domini ad gazophylacium***, in quo divitiae templi conservabantur. ***Gaza***, divitiae, ***phylaxa***, conservatio in Graeco dicitur. ***Maasiae***, qui tempore David hoc ministerium acceperat: 1 Paralip. 24: ***vestibuli***, atrii. Quia enim domus ante cameram principum, ubi vestes custodiuntur, vestibulum dicitur, inolevit usus ut omne atrium, vestibulum dicatur.
+secundo quo ad regnum, et sacerdotium, ibi, ***ecce dies veniunt***.  
 
-***Calices***, ad aquam. ***Bibite vinum***, ut experimentum sumat mysteriorum. Proverb. 9: *comedite panem meum, et bibite vinum quod miscui vobis*.
+Circa primum tria.  
 
-Tertio ponitur obedientiae protestatio, ***qui responderunt***.
+Primo promittit inflictae plagae curationem;  
 
-Et primo inducitur paterna jussio de non bibendo vino, ***non bibetis***. Eccl. 2: *cogitavi a vino abstrahere carnem meam, ut animum meum transferrem ad sapientiam*.
+secundo cordis jucunditatem, ibi, ***haec dicit Dominus: adhuc audietur in loco isto***;  
 
-Et de paupertate, ne solicitudine temporalium, sapientiae studium intermitterent. ***Et domum non aedificabitis***. 2 Corinth. 6: *tamquam nihil habentes et omnia possidentes*.
+tertio pacis tranquillitatem, ibi, ***haec dicit Dominus exercituum***, etc.  
 
-Secundo ponitur adimpletio: ***obedivimus ergo***. Prov. 3: *fili mi ne obliviscaris legis meae, et praecepta mea cor tuum custodiat*.
+Circa primum tria.  
 
-***In tabernaculis***. Sapient. 11: *in locis desertis fecerunt casas*.
+Primo tangit vulnus inflictum: ***quia haec dicit Dominus***, ad destructionem aedificiorum, ***ad domos***. Thren. 2: *praecipitavit Dominus, nec pepercit, omnia speciosa Jacob, destruxit in furore suo munitiones virginis Juda, et dejecit in terram*.  
 
-Tertio excusatur necessaria transgressio: ***cum autem ascendisset Nabuchodonosor*** etc.
+Et quantum ad occisionem hominum: ***et ad gladium venientium***, in auxilium in Jerusalem, vel de gentilibus, vel de regno duarum tribuum, ***et impleant***, occasionaliter, quia ex eis fiduciam assumentes, restiterunt hostibus, et interfecti sunt, ***abscondens faciem***, idest subtrahens protectionem. Ezech. 39: *scient gentes quoniam in iniquitatibus suis capta sit domus Israel, et quod dereliquerit me, et quod absconderim faciem meam ab eis*.  
 
-Lectio 2
+Secundo promittit curationis beneficium in generali: ***ecce ego obducam eis cicatricem***. Supra 30: ***obducam cicatricem tibi; et a vulneribus tuis sanabo te***. Et in speciali quantum ad orationis exauditionem: ***et revelabo***, implendo intentum, ***deprecationem***, quia a me pacem adinvicem, et veritatem religionis petiverunt. Isa. 39: *fiat tantum pax et veritas in diebus meis*.  
 
-***^35:12^ Et factum est verbum Domini ad Jeremiam, dicens:***
+Quantum ad patriae restitutionem, ***et convertam***. Supra 30: ***convertam conversionem tabernaculorum Jacob, et tectis ejus miserebor***.  
 
-> ^35:13^ haec dicit Dominus exercituum Deus Israel: vade, et dic viris Juda et habitatoribus Jerusalem: numquid non recipietis disciplinam ut obediatis verbis meis? dicit Dominus.
+Quantum ad peccati remissionem, secundum purgationem a culpa, ***et emundabor***. Ezech. 36: *mundabimini ab omnibus inquinamentis vestris, et ab universis idolis vestris mundabo vos*. Et secundum absolutionem a poena: ***et propitius ero cunctis iniquitatibus eorum***. Psal. 102: *qui propitiatur omnibus iniquitatibus tuis, qui sanat omnes infirmitates tuas*.  
 
-> ^35:14^ Praevaluerunt sermones Jonadab filii Rechab quos praecepit filiis suis ut non biberent vinum; et non biberunt usque ad diem hanc, quia obedierunt praecepto patris sui. Ego autem locutus sum ad vos de mane consurgens, et loquens; et non obedistis mihi.
+Tertio ponit liberationis fructum quantum ad divinam gloriam: ***et erit mihi in nomen***. Supra 32: ***laetabor super eis, cum bene eis fecero***. Isa. 43: *populum istum formavi mihi, laudem meam narrabit*. Quantum ad amicorum laetitiam: ***et in exultationem cunctis gentibus terrae***. Psalm. 47: *fundatur exultatione universae terrae, mons Sion, latera aquilonis, civitas regis magni*. Quantum ad invidorum angustiam, ***et pavebunt***, Isa. 26: *videant et confundantur zelantes populi, et ignis hostes tuos devoret*.  
 
-> ^35:15^ Misique ad vos omnes servos meos prophetas, consurgens diluculo, mittensque, et dicens: convertimini unusquisque a via sua pessima, et bona facite studia vestra, et nolite sequi deos alienos, neque colatis eos, et habitabitis in terra quam dedi vobis, et patribus vestris. Et non inclinastis aurem vestram, neque audistis me.
+Lectio 2  
 
-> ^35:16^ Firmaverunt igitur filii Jonadab filii Rechab praeceptum patris sui quod praeceperat eis; populus autem iste non obedivit mihi.
+^33:10^ Haec dicit Dominus: adhuc audietur in loco isto (quem vos dicitis esse desertum, eo quod non sit homo, nec jumentum: in civitatibus Juda; et foris Jerusalem, quae desolatae sunt absque homine, absque habitatore, et absque pecore)  
 
-> ^35:17^ Idcirco haec dicit Dominus exercituum Deus Israel: ecce ego adducam super Judam, et super omnes habitatores Jerusalem universam afflictionem, quam locutus sum adversum illos: eo quod locutus sum ad illos, et non audierunt; vocavi illos, et non responderunt mihi.
+> ^33:11^ vox gaudii, et vox laetitiae vox sponsi, et vox sponsae, vox dicentium: confitemini Domino exercituum, quoniam bonus Dominus, quoniam in aeternum misericordia ejus, et portantium vota in domum Domini. Reducam enim conversionem terrae sicut a principio, dicit Dominus.
 
-> ^35:18^ Domui autem Rechabitarum dixit Jeremias: haec dicit Dominus exercituum Deus Israel: pro eo quod obedistis praecepto Jonadab patris vestri, et custodistis omnia mandata ejus, et fecistis universa quae praecepit vobis:
+> **178**. Hic promittit ejus jucunditatem:
 
-> ^35:19^ propterea haec dicit Dominus exercituum Deus Israel: non deficiet vir de stirpe Jonadab filii Rechab stans in conspectu meo cunctis diebus.
+et primo temporalem, ***vox gaudii***. Supra 25: ***perdam ex eis vocem gaudii et vocem laetitiae, vocem sponsi et vocem sponsae, vocem molae, et lumen lucernae***.  
 
-> **188**. Hic ponitur inobedientium condemnatio.
+Secundo spiritualem expressam divinis laudibus: ***vox dicentium: confitemini Domino***. Isa. 51: *gaudium, et laetitia invenietur in ea, gratiarum actio, et vox laudis*. Tob. 13: *per omnes vicos ejus, alleluja cantabitur*. Et in oblationibus; ***et portantium vota in domum Domini***, Isa. 19: *colent eum in hostiis, et in muneribus, et vota vovebunt Domino, et solvent*.  
 
-Et primo comparantur diversa merita; ubi ponitur inobedientiae admiratio: ***numquid non recipietis disciplinam?*** etiam flagellis, et exemplis. Supra 2: ***frustra percussi filios vestros; disciplinam non susceperunt***.
+Tertio assignat rationem: ***reducam enim conversionem terrae***. Thr. ult.: *innova dies nostros sicut a principio*.  
 
-Ponitur etiam admirationis ratio, ***praevaluerunt***; quasi dicat: majorem efficaciam habuerunt sermones patris carnalis quam patris spiritualis. Hebr. 12: *patres quidem carnis nostrae eruditores habuimus, et reverebamur eos; num multo magis obtemperabimus patri spirituum, et vivemus?* Et comparationis probatio: quia illis obedientibus hi non obedierunt: ***ego autem locutus sum ad vos***. Supra 7: ***locutus sum ad vos mane consurgens et loquens, et non audistis; vocavi vos, et non respondistis mihi***.
+Lectio 3  
 
-Secundo promittuntur diversa praemia.
+^33:12^ Haec dicit Dominus exercituum: adhuc erit in loco isto deserto absque homine, et absque jumento, et in cunctis civitatibus ejus habitaculum pastorum, et accubantium gregum  
 
-Et primo promittit inobedientibus poenam: ***idcirco haec dicit Dominus***. Proverb. 1: *quia vocavi et renuistis; extendi manum meam, et non fuit qui aspiceret; despexistis omne consilium meum, et increpationes meas neglexistis; ego quoque in interitu vestro ridebo, et subsannabo, cum vobis id quod timebatis advenerit* etc.
+> ^33:13^ in civitatibus montuosis, et in civitatibus campestribus, et in civitatibus quae ad austrum sunt, et in terra Benjamin et in circuitu Jerusalem, et in civitatibus Juda, adhuc transibunt greges ad manum numerantis, ait Dominus.
 
-Secundo obedientibus misericordiam: ***domui autem Rechabitarum dixit Jeremias***. 1 Reg. 15: *melior est obedientia quam victimae, et auscultare quam offerre adipem arietum*.
+> **179**. Hic promittit eis pacis tranquillitatem, quam significat per securam patriae habitationem: ***transibunt greges ad manum numerantis***; quasi dicat: tantam securitatem potientur quod oves suas libere numerare poterunt. Ezech. 34: *in pascuis uberrimus pascam eos, et in montibus excelsis Israel erunt pascua earum*.
 
-Caput 36
+Lectio 4  
+
+^33:14^ Ecce dies veniunt, dicit Dominus, et suscitabo verbum bonum, quod locutus sum ad domum Israel, et ad domum Juda.  
+
+> ^33:15^ In diebus illis, et in tempore illo germinare faciam David germen justitiae, et faciet judicium, et justitiam in terra.
+
+> ^33:16^ In diebus illis salvabitur Juda, et Israel habitabit confidenter. Et hoc est nomen quod vocabunt eum, Dominus justus noster.
+
+> ^33:17^ Quia haec dicit Dominus: non interibit de David vir qui sedeat super thronum domus Israel.
+
+> **180**. Hic ponitur consolatio quantum ad regnum, et sacerdotium:
+
+et primo promittitur utriusque restitutio;  
+
+secundo ponitur promissionis confirmatio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
+
+Circa primum duo.  
+
+Primo promittit restaurationem regni;  
+
+secundo sacerdotii, ibi, ***et de sacerdotibus, et de Levitis non interibit vir***.  
+
+Circa primum tria.  
+
+Primo designat temporis congruitatem: ***ecce dies veniunt***, scilicet gratiae, ***et suscitabo***, implebo, ***verbum bonum***, quod promisi de regni restauratione. Oseae 1: *et congregabuntur filii Juda, et filii Israel pariter, et ponent sibimet caput unum, et ascendet de terra*. Quod impletum est in Christo.  
+
+Secundo regni conditionem quantum ad regiminis nobilitatem: ***in diebus illis germinare faciam David germen justitiae***, Christum, qui est ipsa justitia. Isa. 11: *egredietur virga de radice Jesse, et flos de radice ejus ascendet. **Et faciet judicium***: in primo adventu pro mundo, in secundo de mundo, ***justitiam***, docens verbo, implens in se facto, et in aliis gratiae dono. Psalm. 118: *feci judicium, et justitiam*.  
+
+Et quantum ad regiminis utilitatem in populi salutem: ***in diebus illis salvabitur Juda***, quantum ad eos qui crediderunt in primo, et credent in secundo adventu. Oseae 1: *salvabo eos in Domino Deo suo*. In pacis securitate: ***et Israel habitabit confidenter***. Isa. 32: *sedebit populus meus in pulchritudine pacis, in tabernaculis fiduciae et in requie opulenta*. Et in verae fidei confessione: ***et hoc est nomen . . . Dominus justus noster***. Psalm. 118: *justus es, Domine, et rectum judicium tuum*.  
+
+Tertio ponit regni durationem: ***quia haec dicit Dominus, non interibit de David vir***, Christus et regnum ipsius. Dan. 7: *potestas ejus potestas aeterna, quae non auferetur, et regnum ejus quod non corrumpetur*.  
+
+Lectio 5  
+
+^33:18^ Et de sacerdotibus, et de Levitis non interibit vir a facie mea, qui offerat holocautomata, et incendat sacrificum, et caedat victimas omnibus diebus.  
+
+> **181**. Hic ponit restaurationem sacerdotii. Et sicut regnum restauratur in ipso Christo, et in membris ejus, ita et sacerdotium. Ipse enim sicut rex, ita et sacerdos est. Psal. 109: *tu es sacerdos in aeternum secundum ordinem Melchisedech*. Et membra sua reges et sacerdotes fecit. Apoc. 5: *fecisti nos Deo nostro regnum et sacerdotes*. Eph. 5: *seipsum obtulit hostiam Deo in odorem suavitatis*. Et membra ipsius, spirituales hostias Deo offerre facit. Ezech. 44: *sacerdotes et levitate filii Sadoch, qui custodierunt caeremonias sanctuarii mei, cum errarent filii Israel a me: ipsi accedent ad me, ut ministrant mihi, et stabunt in conspectu meo, ut offerant mihi adipem et sanguinem: ait Dominus Deus*.
+
+Lectio 6  
+
+***^33:19^ Et factum est verbum Domini ad Jeremiam, dicens:***
+
+> ^33:20^ haec dicit Dominus: si irritum potest fieri pactum meum cum die, et pactum meum cum nocte, ut non sit dies et nox in tempore suo;
+
+> ^33:21^ et pactum meum irritum esse poterit cum David servo meo, ut non sit ex eo filius qui regnet in throno ejus et Levitae, et sacerdotes ministri mei.
+
+> ^33:22^ Sicuti enumerari non possunt stellae caeli, et metiri arena maris, sic multiplicabo semen David servi mei, et Levitas ministros meos.
+
+> **182**. Hic ponitur promissionis confirmatio:
+
+et primo ex creaturarum duratione: ***et irritum potest fieri pactum meum cum die***, quasi dicat: non potest esse irritum usque ad finem mundi. Psalm. 88: *ponam in saeculum saeculi semen ejus, et thronum ejus sicut dies caeli*.  
+
+Secundo earum multitudinem: ***sicut enumerari non possunt stellae caeli***, nisi a solo Deo, ita et numerus electorum soli Deo est cognitus. Gen. 22: *multiplicabo semen tuum sicut stellas caeli, et velut arenam quae est in littore maris*.  
+
+Lectio 7  
+
+***^33:23^ Et factum est verbum Domini ad Jeremiam, dicens:***
+
+> ^33:24^ numquid non vidisti quid populus hic locutus sit dicens: duae cognationes quas elegerat Dominus abjectae sunt: et populum meum despexerunt, eo quod non sit ultra gens coram eis?
+
+> ^33:25^ Haec dicit Dominus: si pactum meum inter diem et noctem et leges caelo et terrae non posui;
+
+> ^33:26^ equidem et semen Jacob, et David servi mei projiciam, ut non assumam de semine ejus principes seminis Abraham, Isaac et Jacob. Reducam enim conversionem eorum, et miserebor eis.
+
+> **183**. Hic repellit hostium irrisionem.
+
+Et primo ponitur insultatio: ***duae cognationes***, scilicet regalis, et sacerdotalis, vel decem et duarum tribuum. Psalm. 70: *qui custodiebant animam meam, consilium fecerunt in unum dicentes: Deus dereliquit eum, persequimini, et comprehendite eum, quia non est qui eripiat*.  
+
+Secundo ponitur improbatio: ***haec dicit Dominus***. Rom. 11: *numquid repulit Deus populum suum? Absit*, etc.

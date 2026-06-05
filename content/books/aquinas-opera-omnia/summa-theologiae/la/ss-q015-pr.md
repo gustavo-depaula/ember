@@ -1,7 +1,8 @@
-# Quaestio 15 — Deinde considerandum est de vitiis oppositis scientiae et intellectui. Et quia de ignorantia, quae opponitur scientiae, dictum est supra, cum de causis peccatorum ageretur; quaerendum est nunc de caecitate mentis et hebetudine sensus, quae opponuntur dono intellectus. Et circa hoc quaeruntur tria.
+# Quaestio 15
 
-Primo, utrum caecitas mentis sit peccatum.
+Deinde considerandum est de vitiis oppositis scientiae et intellectui. Et quia de ignorantia, quae opponitur scientiae, dictum est supra, cum de causis peccatorum ageretur; quaerendum est nunc de caecitate mentis et hebetudine sensus, quae opponuntur dono intellectus. Et circa hoc quaeruntur tria.  
 
-Secundo, utrum hebetudo sensus sit aliud peccatum a caecitate mentis.
+Primo, utrum caecitas mentis sit peccatum.  
 
-Tertio, utrum haec vitia a peccatis carnalibus oriantur.
+- Secundo, utrum hebetudo sensus sit aliud peccatum a caecitate mentis.
+- Tertio, utrum haec vitia a peccatis carnalibus oriantur.

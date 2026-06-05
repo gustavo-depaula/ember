@@ -1,0 +1,245 @@
+{
+  "id": "aquinas-catechetical-sermons-cc",
+  "name": {
+    "en-US": "Naples Catechetical Sermons (Bilingual)",
+    "la": "Sermones Catechetici Neapolitani (Bilinguis)"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "The four Naples 1273 catechetical sermon-cycles — on the Creed, the Lord's Prayer, the Hail Mary, and the Ten Commandments. Aquinas Institute bilingual edition. (The Collins 1939 English of the same sermons lives in `book/aquinas-catechetical-instructions`.)",
+    "la": "Quattuor cycli sermonum catecheticorum Neapolitanorum (1273) — super Symbolum Apostolorum, Pater Noster, Ave Maria, Decem Praecepta. Editio bilinguis Instituti Aquinatis."
+  },
+  "composed": 1273,
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~In Symbolum Apostolorum",
+      "description": "Translation from aquinas.cc (Aquinas Institute), distinct from the Collins 1939 PD edition."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~In Symbolum Apostolorum",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1",
+      "title": {
+        "en-US": "Sermons on the Apostles' Creed",
+        "la": "In Symbolum Apostolorum"
+      },
+      "children": [
+        {
+          "id": "p1-credo-c01",
+          "title": {
+            "en-US": "Prologue",
+            "la": "Prologue"
+          }
+        },
+        {
+          "id": "p1-credo-c02",
+          "title": {
+            "en-US": "A. 1 - I Believe in One God, the Father Almighty, Maker of Heaven and Earth",
+            "la": "A. 1 - I Believe in One God, the Father Almighty, Maker of Heaven and Earth"
+          }
+        },
+        {
+          "id": "p1-credo-c03",
+          "title": {
+            "en-US": "A. 2 - And in Jesus Christ, His Only Son, Our Lord",
+            "la": "A. 2 - And in Jesus Christ, His Only Son, Our Lord"
+          }
+        },
+        {
+          "id": "p1-credo-c04",
+          "title": {
+            "en-US": "A. 3 - Who Was Conceived by the Holy Spirit, Born of the Virgin Mary",
+            "la": "A. 3 - Who Was Conceived by the Holy Spirit, Born of the Virgin Mary"
+          }
+        },
+        {
+          "id": "p1-credo-c05",
+          "title": {
+            "en-US": "A. 4 - Suffered under Pontius Pilate, Was Crucified, Died, and Was Buried",
+            "la": "A. 4 - Suffered under Pontius Pilate, Was Crucified, Died, and Was Buried"
+          }
+        },
+        {
+          "id": "p1-credo-c06",
+          "title": {
+            "en-US": "A. 5 - He Descended into Hell; on the Third Day He Arose Again from the Dead",
+            "la": "A. 5 - He Descended into Hell; on the Third Day He Arose Again from the Dead"
+          }
+        },
+        {
+          "id": "p1-credo-c07",
+          "title": {
+            "en-US": "A. 6 - He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty",
+            "la": "A. 6 - He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty"
+          }
+        },
+        {
+          "id": "p1-credo-c08",
+          "title": {
+            "en-US": "A. 7 - From Thence He Shall Come to Judge the Living and the Dead",
+            "la": "A. 7 - From Thence He Shall Come to Judge the Living and the Dead"
+          }
+        },
+        {
+          "id": "p1-credo-c09",
+          "title": {
+            "en-US": "A. 8 - I Believe in the Holy Spirit",
+            "la": "A. 8 - I Believe in the Holy Spirit"
+          }
+        },
+        {
+          "id": "p1-credo-c10",
+          "title": {
+            "en-US": "A. 9 - The Holy Catholic Church",
+            "la": "A. 9 - The Holy Catholic Church"
+          }
+        },
+        {
+          "id": "p1-credo-c11",
+          "title": {
+            "en-US": "A. 10 - The Communion of Saints, the Forgiveness of Sins",
+            "la": "A. 10 - The Communion of Saints, the Forgiveness of Sins"
+          }
+        },
+        {
+          "id": "p1-credo-c12",
+          "title": {
+            "en-US": "A. 11 - The Resurrection of the Body",
+            "la": "A. 11 - The Resurrection of the Body"
+          }
+        },
+        {
+          "id": "p1-credo-c13",
+          "title": {
+            "en-US": "A. 12 - Life Everlasting. Amen.",
+            "la": "A. 12 - Life Everlasting. Amen."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": {
+        "en-US": "Sermons on the Lord's Prayer",
+        "la": "In Pater Noster"
+      },
+      "children": [
+        {
+          "id": "p2-paternoste-c01",
+          "title": {
+            "en-US": "Pr. - Our Father, Who Art in Heaven",
+            "la": "Pr. - Our Father, Who Art in Heaven"
+          }
+        },
+        {
+          "id": "p2-paternoste-c02",
+          "title": {
+            "en-US": "A. 1 - Hallowed Be Thy Name",
+            "la": "A. 1 - Hallowed Be Thy Name"
+          }
+        },
+        {
+          "id": "p2-paternoste-c03",
+          "title": {
+            "en-US": "A. 2 - Thy Kingdom Come",
+            "la": "A. 2 - Thy Kingdom Come"
+          }
+        },
+        {
+          "id": "p2-paternoste-c04",
+          "title": {
+            "en-US": "A. 3 - Thy Will Be Done on Earth as It Is in Heaven",
+            "la": "A. 3 - Thy Will Be Done on Earth as It Is in Heaven"
+          }
+        },
+        {
+          "id": "p2-paternoste-c05",
+          "title": {
+            "en-US": "A. 4 - Give Us This Day Our Daily Bread",
+            "la": "A. 4 - Give Us This Day Our Daily Bread"
+          }
+        },
+        {
+          "id": "p2-paternoste-c06",
+          "title": {
+            "en-US": "A. 5 - And Forgive Us Our Trespasses as We Forgive Those Who Trespass against Us",
+            "la": "A. 5 - And Forgive Us Our Trespasses as We Forgive Those Who Trespass against Us"
+          }
+        },
+        {
+          "id": "p2-paternoste-c07",
+          "title": {
+            "en-US": "A. 6 - And Lead Us Not into Temptation",
+            "la": "A. 6 - And Lead Us Not into Temptation"
+          }
+        },
+        {
+          "id": "p2-paternoste-c08",
+          "title": {
+            "en-US": "A. 7 - But Deliver Us from Evil. Amen.",
+            "la": "A. 7 - But Deliver Us from Evil. Amen."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": {
+        "en-US": "Sermons on the Hail Mary",
+        "la": "In Ave Maria"
+      },
+      "children": [
+        {
+          "id": "p3-avemaria-c01",
+          "title": {
+            "en-US": "AveMaria",
+            "la": "AveMaria"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": {
+        "en-US": "Sermons on the Ten Commandments",
+        "la": "In Decem Praecepta"
+      },
+      "children": [
+        {
+          "id": "p4-decemprae-c01",
+          "title": {
+            "en-US": "Pr. - I. Prologue",
+            "la": "Pr. - I. Prologue"
+          }
+        },
+        {
+          "id": "p4-decemprae-c02",
+          "title": {
+            "en-US": "Book I - The Law of Charity, Which Is the Law of Christ",
+            "la": "Book I - The Law of Charity, Which Is the Law of Christ"
+          }
+        },
+        {
+          "id": "p4-decemprae-c03",
+          "title": {
+            "en-US": "Book II - On the Ten Commandments",
+            "la": "Book II - On the Ten Commandments"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,7 @@
-# Quaestio 112 — Deinde considerandum est de iactantia et ironia, quae sunt partes mendacii, secundum philosophum, in IV Ethic. Primo autem circa iactantiam quaeruntur duo.
+# Quaestio 112
 
-Primo, cui virtuti opponatur.
+Deinde considerandum est de iactantia et ironia, quae sunt partes mendacii, secundum philosophum, in IV Ethic. Primo autem circa iactantiam quaeruntur duo.  
 
-Secundo, utrum sit peccatum mortale.
+Primo, cui virtuti opponatur.  
+
+- Secundo, utrum sit peccatum mortale.

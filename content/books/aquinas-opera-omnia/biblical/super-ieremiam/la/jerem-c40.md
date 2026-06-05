@@ -1,93 +1,139 @@
-# C. 40 - Jeremiah’s release and the princes’ plots
+# C. 38 - Jeremiah persecuted by the princes
 
-***^40:1^ Sermo qui factus est ad Jeremiam a Domino, postquam dimissus est a Nabuzardan magistro militiae de Rama, quando tulit eum vinctum catenis in medio omnium qui migrabant de Jerusalem, et Juda, et ducebantur in Babylonem.***
+***Lectio 1***
 
-> ^40:2^ Tollens ergo princeps militiae Jeremiam, dixit ad eum: Dominus Deus tuus locutus est malum hoc super locum istum,
+^38:1^ Audivit autem Saphatias filius Mathan, et Gedelias filius Phassur, et Juchal filius Selemiae, et Phassur filius Melchiae sermones quos Jeremias loquebatur ad omnem populum, dicens:  
 
-> ^40:3^ et adduxit, et fecit Dominus sicut locutus est, quia peccastis Domino, et non audistis vocem ejus, et factus est vobis sermo hic.
+> ^38:2^ haec dicit Dominus: quicumque manserit in civitate hac, morietur gladio et fame et peste; qui autem profugerit ad Chaldaeos, vivet, et erit anima ejus sospes, et vivens.
 
-> ^40:4^ Nunc ergo ecce solvi te hodie de catenis quae sunt in manibus tuis. Si placet tibi ut venias mecum in Babylonem, veni, et ponam oculos meos super te. Si autem displicet tibi venire mecum in Babylonem, reside. Ecce omnis terra in conspectu tuo est. Quod elegeris, et quo placuerit tibi ut vadas, illuc perge:
+> ^38:3^ Haec dicit Dominus: tradendo tradetur civitas haec in manu exercitus regis Babylonis, et capiet eam.
 
-> ^40:5^ et mecum noli venire, sed habita apud Godoliam filium Ahicam filii Saphan, quem praeposuit rex Babylonis civitatibus Juda. Habita ergo cum eo in medio populi, vel quocumque placuerit tibi ut vadas, vade. Dedit quoque ei magister militiae cibaria, et munuscula, et dimisit eum.
+> ^38:4^ Et dixerunt principes regi: rogamus ut occidatur homo iste: de industria enim dissolvit manus virorum bellantium, qui remanserunt in civitate hac, et manus universi populi, loquens ad eos universa verba haec, siquidem homo iste non quaerit pacem populo huic, sed malum.
 
-> ^40:6^ Venit autem Jeremias ad Godoliam filium Ahicam in Masphath, et habitavit cum eo in medio populi qui relictus fuerat in terra.
+> ^38:5^ Et dixit rex Sedecias: ecce ipse in manibus vestris est, nec enim fas est vobis quidquam negare.
 
-> **206**. Posita destructione urbis, et populi captivitate, ponit reliquiarum salutem.
+> ^38:6^ Tulerunt ergo Jeremiam, et projecerunt eum in lacum Melchiae filii Amelech, qui erat in vestibulo carceris, et submiserunt Jeremiam funibus in lacum, in quo non erat aqua, sed lutum. Descendit itaque Jeremias in coenum.
 
-Et primo ponitur populi congregatio;
+> ^38:7^ Audivit autem Abdemelech Aethiops, vir eunuchus qui erat in domo regis quod misissent Jeremiam in lacum. Porro rex sedebat in porta Benjamin.
 
-secundo congregati populi disturbatio, cap. 41: ***et factum est in mense septimo***.
+> ^38:8^ Et egressus est Abdemelech de domo regis, et locutus est ad regem, dicens:
 
-Circa primum duo.
+> ^38:9^ Domine mi rex, male fecerunt viri isti omnia quaecumque perpetrarunt contra Jeremiam prophetam, mittentes eum in lacum, ut moriatur ibi fame: non sunt enim panes ultra in civitate.
 
-Primo ponitur congregatio;
+> ^38:10^ Praecepit itaque rex Abdemelech Aethiopi, dicens: tolle tecum hinc triginta viros, et leva Jeremiam prophetam de lacu, antequam moriatur.
 
-secundo quarumdam insidiarum revelatio, quae pacem populi perturbabant, ibi, ***Johanan autem filius Caree***.
+> ^38:11^ Assumptis ergo Abdemelech secum viris, ingressus est domum regis, quae erat sub cellario, et tulit inde veteres pannos et antiqua vestimenta quae computruerant, et submisit ea ad Jeremiam in lacum per funiculos.
 
-Circa primum tria.
+> ^38:12^ Dixitque Abdemelech Aethiops ad Jeremiam: pone veteres pannos, et haec scissa, et putrida sub cubito manuum tuarum, et super funes. Fecit ergo Jeremias sic.
 
-Primo ponitur congregatio populi quantum ad prophetam;
+> ^38:13^ Et extraxerunt Jeremiam funibus, et eduxerunt eum de lacu. Mansit autem Jeremias in vestibulo carceris.
 
-secundo quantum ad principes, ibi, ***cumque audissent omnes principes exercitus . . . venerunt ad Godoliam***;
+> **201**. In parte ista ostenditur persecutio prophetae propter veram praedicationem: et dividitur in tres partes.
 
-tertio quantum ad plebem, ibi, ***sed et omnes Judaei***.
+Primo ponit praedicationem, ***loquebatur***:  
 
-Circa primum quatuor.
+quamvis enim esset in carcere, multi tamen veniebant ad eum; in quo comminatur remanentibus mortem: ***quicumque manserit in civitate hac, morietur***. Et promittebat fugientibus salutem: ***qui autem profugerit . . . vivet***.  
 
-Primo ponitur liberationis praenuntiatio. ***Sermo qui factus est ad Jeremiam***. Cum nullus sermo sequatur, intelligitur hoc primum sermone revelatum quod postea opere narratur expletum. Psalm. 68: *exaudivit pauperes, et vinctos suos non despexit*.
+Urbis captionem: ***tradendo tradetur***. Et haec tria posuit supra 21: unde videtur continuari, secundum historiae ordinem, ad illud.  
 
-Secundo ponitur prophetae liberatio: ***tollens ergo princeps militiae Jeremiam***. Et assignat rationem, veritatem scilicet prophetae: ***Dominus Deus tuus locutus est***, per te. Amos 3: *non est malum in civitate quod Dominus non fecerit*.
+Secundo ponit persecutionem: ubi ponit principum impiam petitionem: petunt enim mortem: ***et dixerunt principes***. Sap. 2: *circumveniamus justum quoniam contrarius est operibus nostris*. Accusant praedicationem: ***de industria enim dissolvit manus virorum***: quod est contra officium prophetale. Isa. 35: *confortate manus dissolutas, et debilia genua roborate*. Et pervertunt intentionem: ***siquidem homo iste non quaerit pacem***. Gal. 4: *ergo inimicus factus sum, verum dicens vobis?* Nolebat autem Jeremias auferre cor resistendi; sed propter bonum, et salutem populi, ex jussu Domini, illa dicebat.  
 
-Et ponit liberationem: ***nunc ergo ecce solvi te hodie de catenis***. Psalm. 106: *eduxit eos de tenebris, et umbra mortis, et vincula eorum disrupit*.
+Ponit etiam stultam regis exauditionem: ***et dixit rex Sedecias***. Unde non excusatur, quamvis minus peccaverit. Joan. 19: *propterea qui tradidit me tibi, majus peccatum habet*.  
 
-Tertio datur ei optio, utrum vadat in Babylonem, vel cum Godolia remaneat, vel quocumque placeat, pergat: ***si placet***. Genes. 13: *ecce terra in conspectu tuo* etc. Proverb. 4: *ducam te per semitas aequitatis, quas cum ingressus fueris, non arctabuntur gressus tui, et currens non habebis offendiculum*.
+Ponit etiam solicitam executionem: ***tulerunt ergo Jeremiam, et projecerunt eum in lacum***, cisternam sine aqua. Psalm. 87: *posuerunt me in lacu inferiori, in tenebrosis, et in umbra mortis*. Et designat prophetae intromissionem: ***descendit itaque Jeremias in coenum***. Psalm. 68: *infixus sum in limo profundi, et non est substantia*.  
 
-Et ponitur provisio sibi facta: ***dedit quoque ei magister militiae cibaria***. Jud. 14: *de comedente exivit cibus, et de forti egressa est dulcedo*.
+Tertio ponitur liberatio. Hic duo ponit.  
 
-Quarto ponitur prophetae electio: ***venit autem Jeremias ad Godoliam***. Ideo non in Chaldaeam ivit, quia illi habebant ad consolationem Danielem et Ezechielem. Isa. 6: *ad annuntiandum mansuetis misit me, ut mederer contritis corde, et praedicarem captivis indulgentiam, et clausis apertionem; ut praedicarem annum placabilem Domino, et diem ultionis Deo nostro; ut consolarer omnes lugentes, et ponerem consolationem lugentibus Sion*.
+Primo quod liberatur a carcere;  
 
-Lectio 2
+secundo quod liberatur a mortis timore, ibi, ***et misit rex Sedecias, et tulit ad se Jeremiam***.  
 
-***^40:7^ Cumque audissent omnes principes exercitus, qui dispersi fuerant per regiones, ipsi et socii eorum, quod praefecisset rex Babylonis Godoliam filium Ahicam terrae, et quod commendasset ei viros et mulieres et parvulos et de pauperibus terrae qui non fuerant translati in Babylonem:***
+Circa primum quatuor.  
 
-> ^40:8^ venerunt ad Godoliam in Masphath, et Ismahel filius Nathaniae, et Johanan, et Jonathan filii Caree, et Sareas filius Thanehumeth, et filii Ophi, qui erant de Netophathi, et Jezonias filius Maachathi, ipsi, et viri eorum.
+Primo describit petentem, ***Abdemelech***, idest servus regis significans; quod dicit propter humilitatem. Rom. 1: *Paulus servus Christi Jesu*, etc. ***Aethiops***, propter carnis mortificationem. Psalm. 67: *Aethiopia praeveniet manus ejus Deo*. Cant. 1: *nigra sum, sed formosa. **Vir***, propter animi virtutem, ***eunuchus***, propter castitatem. Matth. 19: *sunt eunuchi qui seipsos castraverunt propter regnum caelorum. **Qui erat in domo regis***, Philip. 3: *nostra conversatio in caelis est*. Sap. 3: *spado qui non est operatus per manus suas iniquitatem, nec cogitavit adversus Deum nequissima: dabitur enim illi fidei donum electum, et sors in templo Dei acceptissima*.  
 
-> ^40:9^ Et juravit eis Godolias filius Ahicam filii Saphan, et comitibus eorum, dicens: nolite timere servire Chaldaeis. Habitate in terra, et servite regi Babylonis et bene erit vobis.
+Secundo ponit petitionem, designans petitionis locum: ***porro rex sedebat in porta Beniamin***, quae scilicet ducebat in tribum Beniamin.  
 
-> ^40:10^ Ecce ego habito in Masphath, ut respondeam praecepto Chaldaeorum, qui mittuntur ad vos. Vos autem colligite vindemiam et messem et oleum, et condite in vasis vestris, et manete in urbibus vestris, quas tenetis.
+Et ponit petitionem, ***et egressus est Abdemelech de domo regis, et locutus est ad regem . . . non sunt enim panes ultra in civitate***; quasi dicat: ex quo inclusus est, panis defecit. Vel non erat necessarium includi, cum omnes obsessi, et in penuria simus. Sap. 11: *per quae quis peccat, per haec et torquetur*.  
 
-> ^40:11^ Sed et omnes Judaei qui erant in Moab, et in filiis Ammon et in Idumaea, et in universis regionibus, audito quod dedisset rex Babylonis reliquias in Judaea, et quod praeposuisset super eos Godoliam filium Ahicam filii Saphan:
+Tertio ponitur impetratio: ***praecepit itaque rex***.  
 
-> ^40:12^ reversi sunt, inquam, omnes Judaei de universis locis ad quae profugerant, et venerunt in terram Juda ad Godoliam in Masphath, et collegerunt vinum, et messem multam nimis.
+Quarto ponitur executio: ***assumptis ergo Abdemelech secum viris ingressus est domum regis . . . et tulit inde veteres pannos, et antiqua quae computruerant***, propter tribulationes quas sustinuerunt. Heb. ult.: *mementote praepositorum qui vobis locuti sunt verbum Dei, quorum intuentes exitum conversationis, imitamini fidem*. Vel quia, ad litteram, molliores sunt. ***Per funiculos***, praeceptorum Dei. Eccl. 4: *funiculus triplex difficile rumpitur*.  
 
-> **207**. Hic ponitur congregatio principum:
+***In vestibulo carceris***, idest in atrio. Dicitur enim vestibulum, domus ante cameram regis, ubi custodiuntur vestes: unde omne atrium, vestibulum dicitur.  
 
-et primo ponitur eorum congregatio: ***cumque audissent omnes principes exercitus . . . venerunt ad Godoliam***. Eccl. 10: *rex insipiens perdet populum suum, et civitates inhabitabuntur per sensum prudentium*.
+Lectio 2  
 
-Secundo ponitur congregatorum assecuratio: ***et juravit eis Godolias . . . nolite timere***. 2 Petri 2: *servi subditi estote in omni timore dominis, non tantum bonis et modestis, sed etiam discolis*.
+^38:14^ Et misit rex Sedecias, et tulit ad se Jeremiam prophetam ad ostium tertium, quod erat in domo Domini. Et dixit rex ad Jeremiam: interrogo ego te sermonem, ne abscondas a me aliquid.  
 
-Tertio ostendit securitatis modum, ***ecce ego***; quasi dicat: ego sustinebo totum onus, ut vos in pace sitis. 1 Cor. 4: *nos stulti propter Christum, vos autem prudentes in Christo*. Isa. 53: *vere languores nostros ipse tulit, et dolores nostros ipse portavit*. Joan. 10: *bonus pastor animam suam ponit pro ovibus suis*.
+> ^38:15^ Dixit autem Jeremias ad Sedeciam: si annuntiavero tibi, numquid non interficies me? Et si consilium dedero tibi, non me audies.
 
-***Sed et omnes Judaei qui erant in Moab*** etc. Hic ponitur congregatio plebis. Ps. 146, *dispersiones Israelis congregavit*.
+> ^38:16^ Juravit ergo rex Sedecias Jeremiae clam, dicens: vivit Dominus, qui fecit nobis animam hanc, si occidero te, et si tradidero te in manus virorum istorum qui quaerunt animam tuam.
 
-Lectio 3
+> ^38:17^ Et dixit Jeremias ad Sedeciam: haec dicit Dominus exercituum Deus Israel: si profectus exieris ad principes regis Babylonis, vivet anima tua, et civitas haec non succendetur igni, et salvus eris tu, et domus tua.
 
-***^40:13^ Johanan autem filius Caree, et omnes principes exercitus, qui dispersi fuerant in regionibus, venerunt ad Godoliam in Masphath,***
+> ^38:18^ Si autem non exieris ad principes regis Babylonis, tradetur civitas haec in manus Chaldaeorum, et succendent eam igni, et tu non effugies de manu eorum.
 
-> ^40:14^ et dixerunt ei: scito quod Baalis rex filiorum Ammon misit Ismahel filium Nathaniae percutere animam tuam. Et non credidit eis Godolias filius Ahicam.
+> ^38:19^ Et dixit rex Sedecias ad Jeremiam: sollicitus sum propter Judaeos qui transfugerunt ad Chaldaeos, ne forte tradar in manus eorum; et illudant mihi.
 
-> ^40:15^ Johanan autem filius Caree dixit ad Godoliam seorsum in Masphath, loquens: ibo, et percutiam Ismahel filium Nathaniae nullo sciente, ne interficiat animam tuam, et dissipentur omnes Judaei qui congregati sunt ad te, et peribunt reliquiae Juda.
+> ^38:20^ Respondit autem Jeremias, et dixit ei: non te tradent. Audi quaeso, vocem Domini, quam ego loquor ad te; et bene tibi erit, et vivet anima tua.
 
-> ^40:16^ Et ait Godolias filius Ahicam ad Johanan filium Caree: noli facere verbum hoc: falsum enim tu loqueris de Ismahel.
+> ^38:21^ Quod si nolueris egredi, iste est sermo, quem ostendit mihi Dominus:
 
-> **208**. Hic ponitur insidiarum machinatio:
+> ^38:22^ ecce omnes mulieres quae remanserunt in domo regis Juda, educentur ad principes regis Babylonis, et ipsae dicent: seduxerunt te, et praevaluerunt adversum te viri pacifici tui, demerserunt in coeno, et in lubrico pedes tuos, et recesserunt a te.
 
-et primo facta a principibus communiter: ***scito quod Baalis***, qui adhuc Chaldaeis resistebat. ***Et non credidit***, credens dolosis verbis Ismahelis. Prov. 14: *innocens credit omni verbo, astutus considerat gressus suos*.
+> ^38:23^ Et omnes uxores tuae, et filii tui educentur ad Chaldaeos; et non effugies manus eorum, sed in manu regis Babylonis capieris, et civitatem hanc comburet igni.
 
-Secundo facta a quodam specialiter, ***Johanan***.
+> ^38:24^ Dixit ergo Sedecias ad Jeremiam: nullus sciat verba haec, et non morieris.
 
-Et primo excogitatio: ***ibo***. Prov. 11: *in bonis justorum exaltabitur civitas, et in perditione impiorum erit laudatio*.
+> ^38:25^ Si autem audierint principes quia locutus sum tecum, et venerint ad te, et dixerint tibi: indica nobis quid locutus sis cum rege; ne celes nos, et non te interficiemus; et quid locutus est tecum rex:
 
-Secundo ponitur repulsio: ***et ait Godolias***. Supra 11: ***et non cognovi quia cogitaverunt super me consilia, dicentes: mittamus lignum in panem ejus, et eradamus eum de terra viventium***.
+> ^38:26^ dices ad eos: prostravi ego preces meas coram rege, ne me reduci juberet in domum Jonathan, et ibi morerer.
 
-Caput 41
+> ^38:27^ Venerunt ergo omnes principes ad Jeremiam, et interrogaverunt eum. Et locutus est eis juxta omnia verba quae praeceperat ei rex. Et cessaverunt ab eo: nihil enim fuerat auditum.
+
+> **202**. Hic liberatur a timore mortis, concessa sibi securitate a rege.
+
+Et primo ponitur securitatis pactio;  
+
+secundo pacti observatio, ibi, ***mansit vero Jeremias in vestibulo carceris***.  
+
+Circa primum duo.  
+
+Primo ponitur mutua petitio. Petit enim rex divinum responsum, vel consilium, ***interrogo***. 3 Reg. ult.: *iterum atque iterum te adjuro ut non loquaris mihi nisi quod verum est in nomine Domini*.  
+
+Et propheta petit securitatis promissum: ***dixit autem Jeremiam ad Sedeciam***. Luc. 22: *si vobis dixero, non credetis mihi* etc. Potest enim legi interrogative vel remissive.  
+
+Secundo ponitur mutua solutio.  
+
+Primo enim rex dat securitatis promissum: ***juravit ergo rex Sedecias . . . si occidero***, male mihi accidat. Isa. 42: *ego Dominus vocavi te in justitia, et apprehendi manum tuam et servavi te*.  
+
+Secundo propheta dat salutis consilium. Et circa hoc quatuor facit.  
+
+Primo ponitur salubris prophetae exhortatio: ***et dixit Jeremias***. Et datur regi optio eligendi bonum vel malum. Eccl. 15: *ante hominem vita et mors, bonum et malum, et quod placuerit ei, dabitur illi*.  
+
+Secundo ponitur regis excusatio: ***et dixit rex . . . solicitus sum propter Judaeos***, quorum bona destruxerat propter hoc quod a Chaldaeos confugerant. Supra 9: ***unusquisque a proximo suo se custodiat, et in omni fratre suo non habeat fiduciam: quoniam omnis frater supplantans supplantabit, et omnis amicus fraudulenter incedet***.  
+
+Tertio ponitur responsionis exclusio: ***respondit Jeremias***: in qua excludit timorem, si consilium audiat: ***non te tradant***. Isa. 1: *si volueritis et audieritis me, bona terrae comedetis*.  
+
+Ponit comminationem, si audire contemnat: ***quod si nolueris***.  
+
+Comminatur autem mulierum insultationem: ***ecce omnes mulieres dicent***. Insultando autem improperant stultum amicorum consilium: ***seduxerunt***, quantum in se fuit, ***et praevaluerunt***, quia eis credidisti, ***pacifici tui***, qui pacem tibi promittebant. Isa. 3: *popule meus, qui beatum te dicunt, ipsi te decipiunt, et viam gressuum tuorum dissipant*. Consequens damnum: ***demerserunt te in coeno***, peccati, ***in lubrico***, poenae. Psalm. 34: *fiant viae illorum tenebrae et lubricum*. Et eorum recessum: ***et recesserunt a te***. Eccli. 6: *est amicus secundum tempus suum, et non permanebit in die tribulationis*.  
+
+Comminatur etiam captionem familiae: ***et omnes uxores***. Isa. 39: *de filiis tuis qui exibunt de te quos genueris, tollent, et erunt eunuchi in palatio regis Babylonis*. Et personae propriae: ***et tu non effugies***. Thren. 2: *non fuit in die furoris Domini, qui effugeret et relinqueretur*. Comminatur etiam urbis captionem: ***et civitatem hanc comburet igni***. Amos 1: *succendam ignem in muro Rabaa, et devorabit aedes ejus*.  
+
+Quarto petitur a rege consilii dati occultatio: ***dixit ergo Sedecias ad Jeremiam***.  
+
+Et circa hoc tria facit.  
+
+Primo petit occultari consilium, ***nullus sciat***. Tob. 12: *sacramentum regis abscondere bonum est; opera autem Dei revelare et confiteri honorificum est*.  
+
+Secundo docet celandi modum: ***si autem audierint principes***, ut veritatem taceat, et falsum non dicat. Prov. 10: *qui moderatur labia sua prudentissimus est*.  
+
+Tertio ponitur petitionis complementum: ***venerunt ergo omnes principes ad Jeremiam***. Prov. 11: *qui ambulat fraudulenter, revelat arcana; qui autem amicus est, caelat amici commissum*.  
+
+Lectio 3  
+
+^38:28^ Mansit vero Jeremias in vestibulo carceris usque ad diem quo capta est Jerusalem. Et factum est ut caperetur Jerusalem.  
+
+> **203**. Hic ponitur petitionis observatio, ***in vestibulo*** non missus in lacum, secundum petitionem suam.

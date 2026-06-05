@@ -1,9 +1,9 @@
-# Quaestio 86 — Deinde considerandum est de oblationibus et primitiis. Et circa hoc quaeruntur quatuor.
+# Quaestio 86
 
-Primo, utrum aliquae oblationes sint de necessitate praecepti.
+Deinde considerandum est de oblationibus et primitiis. Et circa hoc quaeruntur quatuor.  
 
-Secundo, quibus oblationes debeantur.
+Primo, utrum aliquae oblationes sint de necessitate praecepti.  
 
-Tertio, de quibus rebus fieri debeant.
-
-Quarto, specialiter de oblationibus primitiarum, utrum ad eas homines ex necessitate teneantur.
+- Secundo, quibus oblationes debeantur.
+- Tertio, de quibus rebus fieri debeant.
+- Quarto, specialiter de oblationibus primitiarum, utrum ad eas homines ex necessitate teneantur.

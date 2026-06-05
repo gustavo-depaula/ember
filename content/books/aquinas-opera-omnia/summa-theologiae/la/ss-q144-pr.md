@@ -1,9 +1,11 @@
-# Quaestio 144 — Deinde considerandum est de partibus temperantiae in speciali. Et primo, de partibus quasi integralibus, quae sunt verecundia et honestas.
+# Quaestio 144
 
-Circa verecundiam autem quaeruntur quatuor.
+***De verecundia***
 
-Primo, utrum verecundia sit virtus.
+Deinde considerandum est de partibus temperantiae in speciali. Et primo, de partibus quasi integralibus, quae sunt verecundia et honestas. Circa verecundiam autem quaeruntur quatuor.  
 
-Secundo, de quibus sit verecundia.
+Primo, utrum verecundia sit virtus.  
 
-Tertio, a quibus homo verecundetur. Quarto, quorum sit verecundari.
+- Secundo, de quibus sit verecundia.
+- Tertio, a quibus homo verecundetur.
+- Quarto, quorum sit verecundari.

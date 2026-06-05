@@ -1,7 +1,8 @@
-# Quaestio 88 — Deinde considerandum est quomodo anima humana cognoscat ea quae supra se sunt, scilicet immateriales substantias. Et circa hoc quaeruntur tria.
+# Quaestio 88
 
-Primo, utrum anima humana, secundum statum praesentis vitae, possit intelligere substantias immateriales quas Angelos dicimus, per seipsas.
+Deinde considerandum est quomodo anima humana cognoscat ea quae supra se sunt, scilicet immateriales substantias. Et circa hoc quaeruntur tria.  
 
-Secundo, utrum possit ad earum notitiam pervenire per cognitionem rerum materialium.
+Primo, utrum anima humana, secundum statum praesentis vitae, possit intelligere substantias immateriales quas angelos dicimus, per seipsas.  
 
-Tertio, utrum Deus sit id quod primo a nobis cognoscitur.
+- Secundo, utrum possit ad earum notitiam pervenire per cognitionem rerum materialium.
+- Tertio, utrum Deus sit id quod primo a nobis cognoscitur.

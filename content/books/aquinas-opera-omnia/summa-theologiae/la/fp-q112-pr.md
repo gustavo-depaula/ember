@@ -1,9 +1,9 @@
-# Quaestio 112 — Deinde considerandum est de missione Angelorum. Et circa hoc quaeruntur quatuor.
+# Quaestio 112
 
-Primo, utrum aliqui Angeli mittantur in ministerium.
+***Deinde considerandum est de missione angelorum. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum omnes mittantur.
+Primo, utrum aliqui angeli mittantur in ministerium.  
 
-Tertio, utrum illi qui mittuntur, assistant.
-
-Quarto, de quibus ordinibus mittantur.
+- Secundo, utrum omnes mittantur.
+- Tertio, utrum illi qui mittuntur, assistant.
+- Quarto, de quibus ordinibus mittantur.

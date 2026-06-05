@@ -1,11 +1,11 @@
-# Question 90 — (2) each one in particular.
+# Question 90 — The Parts of Penance, in General
 
-Under the first head there are four points of inquiry:
+We must now consider the parts of penance: (1) in general; (2) each one in particular.  
 
-(1) Whether Penance has any parts?
+Under the first head there are four points of inquiry:  
 
-(2) Of the number of its parts;
+(1) Whether penance has any parts?  
 
-(3) What kind of parts are they?
-
-(4) Of its division into subjective parts.
+- (2) Of the number of its parts;
+- (3) What kind of parts are they?
+- (4) Of its division into subjective parts.

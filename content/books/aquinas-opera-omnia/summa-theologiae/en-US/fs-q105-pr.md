@@ -1,9 +1,9 @@
-# Question 105 — We must now consider the reason for the judicial precepts: under which head there are four points of inquiry:
+# Question 105 — Of the Reason for the Judicial Precepts
 
-(1) Concerning the reason for the judicial precepts relating to the rulers;
+We must now consider the reason for the judicial precepts: under which head there are four points of inquiry:  
 
-(2) Concerning the fellowship of one man with another;
+(1) Concerning the reason for the judicial precepts relating to the rulers;  
 
-(3) Concerning matters relating to foreigners;
-
-(4) Concerning things relating to domestic matters.
+- (2) Concerning the fellowship of one man with another;
+- (3) Concerning matters relating to foreigners;
+- (4) Concerning things relating to domestic matters.

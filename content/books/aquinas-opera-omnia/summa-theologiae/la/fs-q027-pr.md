@@ -1,9 +1,9 @@
-# Quaestio 27 — Deinde considerandum est de causa amoris. Et circa hoc quaeruntur quatuor.
+# Quaestio 27
 
-Primo, utrum bonum sit sola causa amoris.
+***Deinde considerandum est de causa amoris. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum cognitio sit causa amoris.
+Primo, utrum bonum sit sola causa amoris.  
 
-Tertio, utrum similitudo.
-
-Quarto, utrum aliqua alia animae passionum.
+- Secundo, utrum cognitio sit causa amoris.
+- Tertio, utrum similitudo.
+- Quarto, utrum aliqua alia animae passionum.

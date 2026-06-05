@@ -1,9 +1,9 @@
-# Quaestio 16 — Deinde considerandum est de usu. Et circa hoc quaeruntur quatuor.
+# Quaestio 16
 
-Primo, utrum uti sit actus voluntatis.
+***Deinde considerandum est de usu. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum conveniat brutis animalibus.
+Primo, utrum uti sit actus voluntatis.  
 
-Tertio, utrum sit tantum eorum quae sunt ad finem, vel etiam finis.
-
-Quarto, de ordine usus ad electionem.
+- Secundo, utrum conveniat brutis animalibus.
+- Tertio, utrum sit tantum eorum quae sunt ad finem, vel etiam finis.
+- Quarto, de ordine usus ad electionem.

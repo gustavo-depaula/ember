@@ -1,19 +1,14 @@
-# Quaestio 72 — Deinde considerandum est de distinctione peccatorum vel vitiorum. Et circa hoc quaeruntur novem.
+# Quaestio 72
 
-Primo, utrum peccata distinguantur specie secundum obiecta.
+Deinde considerandum est de distinctione peccatorum vel vitiorum. Et circa hoc quaeruntur novem.  
 
-Secundo, de distinctione peccatorum spiritualium et carnalium.
+Primo, utrum peccata distinguantur specie secundum obiecta.  
 
-Tertio, utrum secundum causas.
-
-Quarto, utrum secundum eos in quos peccatur.
-
-Quinto, utrum secundum diversitatem reatus.
-
-Sexto, utrum secundum omissionem et commissionem.
-
-Septimo, utrum secundum diversum processum peccati.
-
-Octavo, utrum secundum abundantiam et defectum.
-
-Nono, utrum secundum diversas circumstantias.
+- Secundo, de distinctione peccatorum spiritualium et carnalium.
+- Tertio, utrum secundum causas.
+- Quarto, utrum secundum eos in quos peccatur.
+- Quinto, utrum secundum diversitatem reatus.
+- Sexto, utrum secundum omissionem et commissionem.
+- Septimo, utrum secundum diversum processum peccati.
+- Octavo, utrum secundum abundantiam et defectum.
+- Nono, utrum secundum diversas circumstantias.

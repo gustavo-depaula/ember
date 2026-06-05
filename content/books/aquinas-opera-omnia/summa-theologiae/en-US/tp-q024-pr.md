@@ -1,9 +1,9 @@
-# Question 24 — We shall now consider the predestination of Christ. Under this head there are four points of inquiry:
+# Question 24 — The Predestination of Christ
 
-(1) Whether Christ was predestinated?
+We shall now consider the predestination of Christ. Under this head there are four points of inquiry:  
 
-(2) Whether He was predestinated as man?
+(1) Whether Christ was predestined?  
 
-(3) Whether His predestination is the exemplar of ours?
-
-(4) Whether it is the cause of our predestination?
+- (2) Whether He was predestined as man?
+- (3) Whether His predestination is the exemplar of ours?
+- (4) Whether it is the cause of our predestination?

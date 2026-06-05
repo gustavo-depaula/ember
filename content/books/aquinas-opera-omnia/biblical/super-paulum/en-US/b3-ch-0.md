@@ -2,7 +2,7 @@
 
 **PROLOGUE**
 
-“Men shall speak of you as ministers of our God” (Is. 61:6).
+> “Men shall speak of you as ministers of our God” (Is. 61:6).
 
 1. – The subject matter of this second epistle to the Corinthians is fittingly touched upon by these words. For in the first epistle the Apostle discussed the sacraments; in this one he discusses the ministers, both good and bad, of these sacraments. The reason he wrote this epistle was that he had preached to the Corinthians, but they had welcomed certain false apostles, whom they preferred to the Apostle. Therefore he writes them this epistle, in which he commends the apostles and the dignity of the true apostles, and discloses and reproves the falseness of the false apostles.
 

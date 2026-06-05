@@ -1,21 +1,15 @@
-# Quaestio 32 — Deinde considerandum est de eleemosyna. Et circa hoc quaeruntur decem.
+# Quaestio 32
 
-Primo, utrum eleemosynae largitio sit actus caritatis.
+***Deinde considerandum est de eleemosyna. Et circa hoc quaeruntur decem.***
 
-Secundo, de distinctione eleemosynarum.
+Primo, utrum eleemosynae largitio sit actus caritatis.  
 
-Tertio, quae sint potiores eleemosynae, utrum spirituales vel corporales.
-
-Quarto, utrum corporales eleemosynae habeant effectum spiritualem.
-
-Quinto, utrum dare eleemosynas sit in praecepto.
-
-Sexto, utrum corporalis eleemosyna sit danda de necessario.
-
-Septimo, utrum sit danda de iniuste acquisito.
-
-Octavo, quorum sit dare eleemosynam.
-
-Nono, quibus sit danda.
-
-Decimo, de modo dandi eleemosynas.
+- Secundo, de distinctione eleemosynarum.
+- Tertio, quae sint potiores eleemosynae, utrum spirituales vel corporales.
+- Quarto, utrum corporales eleemosynae habeant effectum spiritualem.
+- Quinto, utrum dare eleemosynas sit in praecepto.
+- Sexto, utrum corporalis eleemosyna sit danda de necessario.
+- Septimo, utrum sit danda de iniuste acquisito.
+- Octavo, quorum sit dare eleemosynam.
+- Nono, quibus sit danda.
+- Decimo, de modo dandi eleemosynas.

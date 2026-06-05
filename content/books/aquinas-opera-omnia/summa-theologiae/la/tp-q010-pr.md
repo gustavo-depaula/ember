@@ -1,11 +1,13 @@
-# Quaestio 10 — tertio, de scientia acquisita.
+# Quaestio 10
 
-Sed quia de scientia beata, quae in Dei visione consistit, plura dicta sunt in prima parte, ideo hic sola illa videntur dicenda quae pertinent ad animam Christi. Circa hoc quaeruntur quatuor.
+***De scientia beata animae Christi***
 
-Primo, utrum anima Christi comprehenderit verbum, sive divinam essentiam.
+Deinde considerandum est de qualibet praedictarum scientiarum. Sed quia de scientia divina dictum est in prima parte, restat nunc videre de aliis, primo, de scientia beata; secundo, de scientia indita; tertio, de scientia acquisita.  
 
-Secundo, utrum cognoverit omnia in verbo.
+Sed quia de scientia beata, quae in Dei visione consistit, plura dicta sunt in prima parte, ideo hic sola illa videntur dicenda quae pertinent ad animam Christi. Circa hoc quaeruntur quatuor.  
 
-Tertio, utrum anima Christi in verbo cognoverit infinita.
+Primo, utrum anima Christi comprehenderit verbum, sive divinam essentiam.  
 
-Quarto, utrum videat verbum, vel divinam essentiam, clarius qualibet alia creatura.
+- Secundo, utrum cognoverit omnia in verbo.
+- Tertio, utrum anima Christi in verbo cognoverit infinita.
+- Quarto, utrum videat verbum, vel divinam essentiam, clarius qualibet alia creatura.

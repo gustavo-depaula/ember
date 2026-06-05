@@ -1,9 +1,9 @@
-# Quaestio 107 — Deinde considerandum est de comparatione legis novae ad legem veterem. Et circa hoc quaeruntur quatuor.
+# Quaestio 107
 
-Primo, utrum lex nova sit alia lex a lege veteri.
+Deinde considerandum est de comparatione legis novae ad legem veterem. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum lex nova impleat veterem.
+Primo, utrum lex nova sit alia lex a lege veteri.  
 
-Tertio, utrum lex nova contineatur in veteri.
-
-Quarto, quae sit gravior, utrum lex nova vel vetus.
+- Secundo, utrum lex nova impleat veterem.
+- Tertio, utrum lex nova contineatur in veteri.
+- Quarto, quae sit gravior, utrum lex nova vel vetus.

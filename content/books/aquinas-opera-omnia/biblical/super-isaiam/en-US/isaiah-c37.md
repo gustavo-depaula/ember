@@ -1,183 +1,75 @@
-# Chapter 37
+# Chapter 35
 
-> ^37:2^ And he sent Eliacim who was over the house, and Sobna the scribe, and the ancients of the priests covered with sackcloth, to Isaiah the son of Amos the prophet.
+^35:1^ The land that was desolate and impassable shall be glad, and the wilderness shall rejoice, and shall flourish like the lily.  
 
-> ^37:3^ And they said to him: thus says Ezechias: this day is a day of tribulation, and of distress,Vg. omits “and of distress.” and of rebuke, and of blasphemy: for the children are come to the birth, and there is not strength to bring forth.
+> ^35:2^ It shall bud forth and blossom, and shall rejoice with joy and praise: the glory of Libanus is given to it: the beauty of Carmel, and Saron, they shall see the glory of the Lord, and the beauty of our God.
 
-> ^37:4^ It may be the Lord your God will hear the words of Rabsaces, whom the king of the Assyrians his master has sent to blaspheme the living God, and to reproach with words which the Lord your God has heard: wherefore lift up your prayer for the remnant that is left.
+> ^35:3^ Strengthen the feeble hands, and confirm the weak knees.
 
-> ^37:5^ And the servants of Ezechias came to Isaiah.
+> ^35:4^ Say: let the fainthearted take courage and fear not. Behold your God will bring the revenge of recompense: God himself will come and will save you.
 
-> ^37:6^ And Isaiah said to them: thus shall you say to your master: thus says the Lord: be not afraid of the words that you have heard, with which the servants of the king of the Assyrians have blasphemed me.
+> ^35:5^ Then shall the eyes of the blind be opened, and the ears of the deaf shall be unstopped.
 
-> ^37:7^ Behold, I will send a spirit upon him, and he shall hear a message, and shall return to his own country, and I will cause him to fall by the sword in his own country.
+> ^35:6^ Then shall the lame man leap as a hart, and the tongue of the dumb shall be free. For waters are broken out in the desert, and streams in the wilderness.
 
-> ^37:8^ And Rabsaces returned, and found the king of the Assyrians besieging Lobna. For he had heard that he was departed from Lachis.
+> ^35:7^ And that which was dry land, shall become a pool, and the thirsty land springs of water. In the dens where dragons dwelt before, shall rise up the verdure of the reed and the bulrush.
 
-> ^37:9^ And he heard say about Tharaca the king of Ethiopia: he is come forth to fight against you. And when he heard it, he sent messengers to Ezechias, saying:
+> ^35:8^ And a path and a way shall be there, and it shall be called the holy way: the unclean shall not pass over it, and this shall be unto us a straight way, so that fools shall not err therein.
 
-> ^37:10^ Thus shall you speak to Ezechias the king of Judah, saying: let not your God deceive you, in whom you trust, saying: Jerusalem shall not be given into the hands of the king of the Assyrians.
+> ^35:9^ No lion shall be there, nor shall any mischievous beast go up by it, nor be found there: but they shall walk there that shall be delivered.
 
-> ^37:11^ Behold you have heard all that the kings of the Assyrians have done to all countries which they have destroyed, and canst you be delivered?
+> ^35:10^ And the redeemed of the Lord shall return, and shall come into Zion with praise, and everlasting joy shall be upon their heads: they shall obtain joy and gladness, and sorrow and mourning shall flee away.
 
-> ^37:12^ Have the gods of the nations delivered them whom my fathers have destroyed, Gozam, and Haram, and Reseph, and the children of Eden, that were in Thalassar?
+> **744**. ***The land that was desolate and impassable shall be glad***. In this part, he sets out the effect of prosperity resulting for the Jews from the destruction of their enemies. And this is divided into two parts:
 
-> ^37:13^ Where is the king of Emath, and the king of Arphad, and the king of the city of Sepharvaim, of Ana, and of Ava?
+in the first, a consoling promise is set out;  
 
-> ^37:14^ And Ezechias took the letter from the hand of the messengers, and read it, and went up to the house of the Lord, and Ezechias spread it before the Lord.
+in the second, a strengthening exhortation: ***strengthen the feeble hands*** (Isa 35:3).  
 
-> ^37:15^ And Ezechias prayed to the Lord, saying:
+**745**. Concerning the first, he does three things.  
 
-> ^37:16^ Lord of hosts, God of Israel who sits upon the cherubims, you alone are the God of all the kingdoms of the earth, you have made heaven and earth.
+First, he sets out the cheerfulness of the people, which he compares to a flowering meadow, which is also said to laugh, because it has beauty when it is in flower; hence he says: ***the land that was desolate***, that is, the land of the Jews, which, before, having been laid waste by the Assyrians, was like this, metonymically, that is, the people themselves, ***like the lily***, which is the most beautiful flower, and lasts a long time: *send forth flowers, as the lily* (Sir 39:19); it also has beauty in its bud; hence he says, ***it shall bud forth***: *the just shall spring up as a green leaf* (Prov 11:28), for like the bud comes from the flower, so outward cheerfulness comes from the joy of the heart.  
 
-> ^37:17^ Incline, O Lord, your ear, and hear: open, O Lord, your eyes, and see, and hear all the words of Sennacherib, which he has sent to blaspheme the living God.
+Second, he promises the fertility of the land: ***the glory of Libanus***, that is, the fertility of various things, which is the glory of these places, will be found in the promised land: *his glory shall be as the olive tree: and his smell as that of Libanus* (Hos 14:7).  
 
-> ^37:18^ For of a truth, O Lord, the kings of the Assyrians have laid waste lands, and their countries.
+Third, the nearness of both of these: ***they*** themselves ***shall see***, that is, it shall not be postponed to the time of their children, above: ***his eyes shall see the king in his beauty*** (Isa 33:17).  
 
-> ^37:19^ And they have cast their gods into the fire, for they were not gods, but the works of men’s hands, of wood and stone: and they broke them in pieces.
+**746**. ***Strengthen the feeble hands***. Here a strengthening exhortation is set out, and concerning this, he does three things.  
 
-> ^37:20^ And now, O Lord our God, save us out of his hand: and let all the kingdoms of the earth know, that you only are the Lord.
+First, he sets out the enjoining of the office of exhortation: ***strengthen the hands***, which are weak for working, ***and confirm the trembling knees***, which are weak for supporting: *lift up the hands which hang down and the feeble knees* (Heb 12:12).  
 
-> ^37:21^ And Isaiah the son of Amos sent to Ezechias, saying: thus says the Lord the God of Israel: for the prayer you have made to me concerning Sennacherib the king of the Assyrians:
+Second, the strengthening itself is set out: ***say to the fainthearted***: *fear not, little flock* (Luke 12:32).  
 
-> ^37:22^ This is the word which the Lord has spoken of him: the virgin the daughter of Zion has despised you, and laughed you to scorn: the daughter of Jerusalem will wag*Movet*. Vg. *movit*. DR: “ hath wagged.” the head after you.
+Third, the reason for the strengthening is assigned,  
 
-> ^37:23^ Whom have you reproached, and whom have you blasphemed, and against whom have you exalted your voice, and lifted up your eyes on high? Against the Holy One of Israel.
+and first, as to the removal of evils, in liberating them from their enemies: ***behold your God will bring the revenge of recompense***: *he will revenge the blood of his servants* (Deut 32:43). And in healing their infirmities, ***then shall the eyes of the blind be opened***. And these are metaphorical expressions, if they are referred to the time after the destruction of the Assyrians, so that they are understood as spiritual ills, as above; or they can be understood literally, if they are referred to the coming of Christ, as it says in Matthew 11:5: *the blind see, the lame walk*.  
 
-> ^37:24^ By the hand of your servants you have reproached the Lord: and have said: with the multitude of my chariots I have gone up to the height of the mountains, to the top of Libanus: and I will cut down its tall cedars, and its choice fir trees, and will enter to the top of its height, to the forest of its Carmel.
+Second, as to the gathering of goods, four things.  
 
-> ^37:25^ I have dug, and drunk water, and have dried up with the sole of my foot, all the rivers shut up in banks.
+**747**. First, as to the abundance of the waters: ***for waters are broken out***, metaphorically, ***in the desert***, for consolations; or because it will rain much, so that there will be great fertility: *he has turned a wilderness into pools of waters* (Ps 106:34[107:35]).  
 
-> ^37:26^ Hast you not heard what I have done to him of old? From the days of old I have formed it: and now I have brought it to effect: and it has come to pass that hills fighting together, and fenced cities should be destroyed.
+Second, as to the beauty of the fields: ***in the dens where dragons dwelt before***, that is, the land, which formerly was desert, so that these animals lived in it, will be cultivated; ***the verdure of the reed and the bulrush***, which spring up verdant places: *he sleeps under the shadow, in the covert of the reed* (Job 40:16).  
 
-> ^37:27^ The inhabitants of them were short*Breviata*. DR: “weak.” of hand, they trembled, and were confounded: they became like the grass of the field, and the herb of the pasture, and like the grass of the housetops, which withered before it was ripe.
+Third, as to the restoration of the ways, he sets out the holiness of the way: ***and a path***, leading to the temple, ***shall be there***, in the land of Judah; ***the unclean***, the gentile, as before, or mystically, concerning the Church militant or triumphant: *there shall not enter into it any thing defiled* (Rev 21:27). He also sets out straightness of the way: ***and this shall be unto you a straight way, so that fools shall not err therein***, that is, however simple they may be, ***they will not err***, because of the multitude of those traveling by it: *I will bring them from the north country* (Jer 31:8); he also sets out the security of the way: ***no lion shall be there***, above: ***they shall not hurt, nor shall they kill in all my holy mountain*** (Isa 11:19). And he sets out the frequentation of the ways: ***and the redeemed***, those redeemed from the preceding dangers: *for behold your children come, whom you sent away scattered* (Bar 4:37).  
 
-> ^37:28^ I know your dwelling, and your going out, and your coming in, and your rage against me.
+Fourth, he promises them joy of heart: ***everlasting joy***, above: ***he shall wipe away tears from every face*** (Isa 25:8); the condition of the joy of the saints in heaven is also shown, that it is ***everlasting***; that it is full: ***they shall obtain***, that it is pure: ***sorrow and mourning shall flee away***: *and God shall wipe away all tears from the eyes of the saints: and neither mourning, nor crying, nor any sorrow shall be any more* (Rev 21:4).  
 
-> ^37:29^ When you were mad against me, your pride came up to my ears: therefore I will put a ring in your nose, and a bit between your lips, and I will turn you back by the way by which you came.
+**748**. The saints are compared to lilies (see 35:1),  
 
-> ^37:30^ But to you this shall be a sign: eat this year the things that spring of themselves, and in the second year eat fruits: but in the third year sow and reap, and plant vineyards, and eat the fruit of them.
+because of the height of its stem, from which is shown constancy in troubles: *as the lily among thorns, so is my love among the daughters* (Song 2:2);  
 
-> ^37:31^ And that which shall be saved of the house of Judah, and which is left, shall take root downward, and shall bear fruit upward:
+because of the sweetness of its scent, from which is shown good reputation: *send forth flowers, as the lily, and yield a smell, and bring forth leaves in grace* (Sir 39:19);  
 
-> ^37:32^ For out of Jerusalem shall go forth a remnant, and salvation from mount Zion: the zeal of the Lord of hosts shall do this.
+because of the verdure of its humor, from which is shown virtue of mind: *as the lilies that are on the brink of the water* (Sir 50:8);  
 
-> ^37:33^ Wherefore thus says the Lord concerning the king of the Assyrians: he shall not come into this city, nor shoot an arrow into it, nor come before it with shield, nor cast a trench about it.
+because of its connectedness, from which is shown the charity of the saints: *your belly is like a heap of wheat, set about with lilies* (Song 7:2).  
 
-> ^37:34^ By the way that he came, he shall return, and into this city he shall not come, says the Lord.
+**749**. Christ clothes these lilies  
 
-> ^37:35^ And I will protect this city, and will save it for my own sake, and for the sake of David my servant.
+as to the gifts of the virtues: *consider the lilies of the field* (Matt 6:28);  
 
-> ^37:36^ And the angel of the Lord went out and slew in the camp of the Assyrians a hundred and eighty-five thousand. And they arose in the morning, and behold they were all dead corpses.
+gathers them together to their eternal reward: *my beloved is gone down into his garden, to the bed of aromatical spices, to feed in the gardens, and to gather lilies* (Song 6:1);  
 
-> ^37:37^ And Sennacherib the king of the Assyrians went out and departed, and returned, and dwelt in Ninive.
+rests in them, for he is pleased in them: *I to my beloved, and my beloved to me, who feeds among the lilies* (Song 6:2);  
 
-> ^37:38^ And it came to pass, as he was worshipping in the temple of Nesroch his god, that Adramelech and Sarasar his sons slew him with the sword: and they fled into the land of Ararat, and Asarhaddon his son reigned in his stead.
-
-> **755**. ***And it came to pass, when king Ezechias had heard it***. In this part he shows how Ezechias fought against the blasphemies of the Assyrians with humility and prayers, and concerning this he does three things.
-
-First, he recounts how he went to the place of prayer, assuming the dress of humility: ***and covered himself with sackcloth***: *the word came to the king: and he rose up out of his throne, and cast away his robe from him, and was clothed in sackcloth, and sat in ashes* (Jonah 3:6).
-
-Second, not presuming to pour out his prayer to God by himself, he seeks, through messengers, the intercession of the prayer of the prophet, where he recounts the sending of the messengers: ***and he sent Eliacim***, above: ***should not the people seek of their God?*** (Isa 8:19).
-
-The messengers explain the tribulation—and it ought to be read thus: ***and they came*** (Isa 37:5), ***and they said to him**—**this day is a day of tribulation***, which we suffer in outer persecutions, ***and of distress***, as to sorrows of heart, ***of*** divine ***rebuke*, *and of blasphemy***, of enemies; ***the children are come***, that is, the concepts of counselors, ***and there is not strength to bring forth***, to execute them; or: we suffer so like women in labor: *that day is a day of wrath, a day of tribulation and distress* (Zeph 1:15). They offer their petition—that it might be thus ordained: ***wherefore lift up your prayer***; ***it may be***: *pray you for us to the Lord your God for all this remnant* (Jer 42:2).
-
-Third, he sets out the response of the prophet: ***and Isaiah said to them***; in which he excludes the king’s fear: ***be not afraid***: *be not afraid at their presence* (Jer 1:8). And he foretells the death of king Sennacherib: ***behold, I will send a spirit upon him***. *He that shall kill by the sword must be killed by the sword* (Rev 13:10).
-
-**756**. ***And Rabsaces returned***. Here he sets out the return of Rabsaces to Sennacherib. And the meaning of this is evident.
-
-**757**. ***And he heard say about Tharaca***. Here he recounts how he offended Israel by threatening them through letters; and concerning this, he does three things.
-
-First, he sets out his proud threat: ***and he heard say about Tharaca***, who came to the aid of the Egyptians; ***and when he heard it***, he ran to meet him on the way, leaving Judea; and before he withdrew, he wrote these words. Afterwards, when he came and besieged Pelusium in Egypt, when the king of Ethiopia came, he refused to fight with him, saying mockingly that he was a priest of Pluto, on account of his blackness; or because mice chewed up the strings of their bows and left his army unarmed, above: ***as my hand has found the kingdoms of the idol*** (Isa 10:10).
-
-**758**. Second, he sets out the prayer of Ezechias, placing before it the reception of the letter. In this prayer, he confesses the power of God through the subjection of the angels: ***Lord God of hosts***: *is there any numbering of his soldiers?* (Job 25:3); through the worship of the Jews: ***God of Israel who sits upon the cherubims***, because the propitiatory, which was like the seat of God, and which also gave answers, was upon the wings of cherubim: *you that sit upon the cherubims* (Ps 79:2–3[80:1–2]).
-
-**759**. But since the tabernacle was arranged according to the pattern of the heavenly church, as can be seen from Exodus 25, it seems that he is wrongly said to sit upon the cherubim; rather he should be said to sit upon the thrones.
-
-And to this it is to be said that he sits upon the cherubim, that is, over them, because he sits upon the seraphim, who are beyond them. Or, according to Gregory and Dionysius,Gregory, *In Evang*. II hom. 34 n. 14 (PL 76, 1255B–C); Dionysius, *De cael. hier*. 11.2 (PG 3, 285A; Dion. 932). nothing is possessed there individually, but what belongs to the lower is also eminently attributed to the higher: thus what is proper to the thrones, the cherubim have even more eminently. Or it is to be said that he sits upon the thrones as upon the seat of judgment, and upon the cherubim as upon the chair of a teacher, for “cherubim” is translated “pouring of wisdom”: and therefore it was fittingly said that answers were given from there.
-
-**760**. He also shows the power of God through the disposition of kingdoms: ***you alone are the God of all the kingdoms of the earth***: *till he knew that the most High ruled in the kingdom of men* (Dan 5:21); and he proves God’s power through the production of creatures: ***you have made heaven and earth***: *who made heaven and earth, the sea, and all things that are in them* (Ps 145[146]:6). And he accuses Sennacherib of blasphemy: ***incline, O Lord, your ear***: *O Lord God of heaven and earth, behold their pride* (Jdt 6:15). He proves with this the foolishness of his blasphemy: ***for of a truth, O Lord***: *the idols of the Gentiles are silver and gold, the works of the hands of men* (Ps 113:12[115:4]). Third, he asks also in this prayer for the mercy of salvation: ***and now, O Lord***: *that all nations may acknowledge that you are God, and there is no other besides you* (Jdt 9:19).
-
-**761**. Third, the prophet promises through messengers that the prayer of the king will be heard: ***and Isaiah the son of Amos sent to Ezechias***; and concerning this he does two things:
-
-first, he promises the destruction of their enemies;
-
-second, the liberation of the city: ***wherefore thus says the Lord*** (Isa 37:33).
-
-Concerning the first, he does three things:
-
-first, he threatens him with the ruin of destruction;
-
-second, he sets out the sign: ***but to you this shall be a sign*** (Isa 37:30);
-
-third, he shows the fruit of the destruction: ***and that which shall be saved*** (Isa 37:31).
-
-Concerning the first, he does two things.
-
-First, he threatens the punishment of confusion for his contempt for the Jews: ***the virgin the daughter of Zion has despised you***, when she refused to respond to you; ***will wag the head***, in the future, when you flee with a few men, the others having been killed, above: ***you that despise, shall not yourself also be despised?*** (Isa 33:1). *The just shall see, and shall rejoice, and the innocent shall laugh them to scorn* (Job 22:19).
-
-Second, he threatens the punishment of destruction for the fault which he committed against God; and concerning this, he does three things:
-
-first, he sets out the fault;
-
-second, he adds to this divine power, where it says, ***have you not heard what I have done to him of old?*** (Isa 37:26);
-
-third, he infers the punishment, where it says, ***therefore I will put a ring in your nose*** (Isa 37:29).
-
-**762**. Concerning the first, he accuses him of two sins.
-
-First, of blasphemy: ***whom have you reproached?*** (these are the words of Ezechias to Sennacharib), as if to say: not me, but God, below: ***upon whom have you jested?*** (Isa 57:4).
-
-Second, he accuses him of pride, which he drew from the greatness of his deeds: ***and you have said: with the multitude of my chariots***, as though by my own power and not by God’s, ***the top of Libanus***, the summits of the mountains, that is, of the powerful: *our mighty hand, and not the Lord, has done all these things* (Deut 32:27); from the greatness of his intentions: ***and I will cut down its tall cedars***, the powerful among the Jews, ***and will enter to the top of its height***, the house of the Lord, ***to the forest***, the people: *open your gates, O Libanus, and let fire devour your cedars* (Zech 11:1). From the multitude of his warriors: ***I have dug***, as if to say: I have such a large army that the water that I find is not enough, unless I dig wells; or, metaphorically: I dried up the consolations of all nations: *like a garden of pleasure before it, and behind it a desolate wilderness* (Joel 2:3).
-
-**763**. ***Hast you not heard***. Here he adds divine power, speaking in the person of God himself.
-
-And first, as to eternal preordination: ***what I have done***, what I have intended to do concerning exaltation and destruction, ***of old***, from eternity, ***from the days of old I have formed it***, the evil of punishment, which is carried out through him, I foresaw and preordained: *for all things were known to the Lord our God, before they were created* (Sir 23:39[20]).
-
-Second, as to the temporal execution of his eternal intention: ***and now I have brought it to effect***. ***Hills***, princes, ***fighting together***, fighting each other. ***Short of hand***, that is, my hand is drawn back from their aid; or their hand was diminished from their own aid; ***and like the grass of the housetops***: *let them be as grass upon the tops of houses* (Ps 128[129]:6).
-
-Third, as to the knowledge of all his deeds: ***your dwelling***, that is, the seat of the king, ***your coming in***, to the land of the Jews: *for his eyes are upon the ways of men, and he considers all their steps* (Job 34:21).
-
-**764**. ***I will put a ring in your nose***. Here he infers the punishment: ***a ring in your nose***, like an ox,*Bubalo*. ***a bit between your lips***, like a horse, that is, the power of my divinity in curbing you: *he has opened his quiver, and has afflicted me, and has put a bridle into my mouth* (Job 30:11).
-
-**765**. ***But to you this shall be a sign***. Here he sets out the sign. For the army of the Assyrians came when the harvest was imminent, and thus the Jews were not able to collect the fruit, and the Assyrians remained in the land until after the time of sowing, so they were also not able to sow. Thus therefore it is said to them that in the remaining part of the year, while Sennacherib was going to Egypt, they should eat ***the things that spring of themselves***, namely from the grain trampled by the hooves of the horses and chariots; or, as in 2 Kings 19:29, whatever you might have found in your barns before it was gathered for the siege; or, according to the Septuagint, ***what you had sown***, that is, what remained trampled in the fields. ***And in the second year***, while he remained in Egypt (for he stayed there through the year), because you will gather nothing when you have sown nothing, ***eat fruits***, or *things that spring of themselves*, as in 2 Kings 19:29, and in this second year Assyria will be destroyed; and thus, in the third year, you will be able to sow and gather freely. Or, according to Andrew,Andrew of St. Victor (ms. f. 89ra). this is counsel, and ***to you this shall be a sign*** refers to the preceding.
-
-**766**. ***Shall take root***. Here he sets out the fruit of the destruction of their enemies,
-
-first, setting out a similitude of a tree, which bears much fruit if it sends out roots in the earth: *and he shall be as a tree that is planted by the waters, that spreads out its roots towards moisture* (Jer 17:8).
-
-Second, he sets out the explanation of the similitude: ***for out of Jerusalem***, below: ***I will give salvation in Zion*** (Isa 46:12); third, he assigns the reason: ***the zeal of the Lord of hosts shall do this***, above (Isa 9:7) has the same thing.
-
-**767**. ***Wherefore thus says the Lord***. Here he promises liberation: ***he shall not come into this city***, as he intended, above: ***take counsel together, and it shall be defeated: speak a word, and it shall not be done*** (Isa 8:10). And he assigns the reason: ***and I will protect this city for my own sake***, below: ***for my own sake will I do it*** (Isa 48:11), ***and for the sake of David***: *for your servant David’s sake* (Ps 131[132]:10).
-
-**768**. ***And the angel of the Lord went out***. Here he sets out the punishment which Sennacherib sustained from God.
-
-And first, as to the slaughter of his army: ***and slew***, above: ***at the voice of the angel the people fled*** (Isa 33:3);
-
-second, as to the confusion and flight of those who were left: ***and they arose in the morning***, above: ***there shall be trouble: the morning shall come, and he shall not be*** (Isa 17:14).
-
-Third, as to the slaying of Sennacherib himself: ***and it came to pass, as he was worshipping* . . . *that Adramelech and Sarasar***, his firstborn sons, who were envious of their younger brother, who was born of another mother, and whom they wished to supplant. And thus *the just shall escape out of distress* (Prov 12:13).
-
-**769**. Prayer is lifted up (see 37:4),
-
-through eminence of contemplation: *I have lifted up my eyes to the mountains* (Ps 120[121]:1);
-
-through fervor of affection: *let us lift up our hearts with our hands to the Lord in the heavens* (Lam 3:41);
-
-through tears of compunction: *every night I will lift up**Levabo*. Vg.: *lavabo*. DR: “I will wash.” (Ps 6:7[6]); *lift up weeping* (Joel 1:5);
-
-through zeal for good works: *the lifting up of my hands* (Ps 140[141]:2).
-
-**770**. There is a bit (see 37:29),
-
-of human discretion: *if any man offend not in word, the same is a perfect man. He is able also with a bridle to lead about the whole body* (Jas 3:2);
-
-of divine government, below: ***for my praise I will bridle you*** (Isa 48:9);
-
-of diabolical deception, above: ***the bridle of error*** (Isa 30:28);
-
-of temporal affliction: *he has opened his quiver, and has afflicted me, and has put a bridle into my mouth* (Job 30:11);
-
-of eternal damnation: *with bit and bridle bind fast their jaws* (Ps 31[32]:9).
-
-Chapter 38
+and therefore he himself is a lily: *I am the flower of the field, and the lily of the valleys* (Song 2:1).

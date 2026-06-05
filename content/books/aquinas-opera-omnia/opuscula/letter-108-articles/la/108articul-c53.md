@@ -1,0 +1,3 @@
+# Articulus 52
+
+Quod vero quinquagesimo secundo ponitur, *ipsum suppositum divinum a natura generali habet rationem per se subsistendi, a natura speciali habet rationem intelligendi, a forma singulari rationem distinguendi*, male exceptum est. Addidit enim exceptor, *divinum*, de suo. In scripto autem sic habetur: *ipsum autem suppositum a natura generali* etc. et loquitur de supposito creato; unde parum supra dixerat: animal significat substantiam cum proprietate generali, homo cum proprietate speciali, Paulus cum individuali. Si vero intelligeretur de supposito divino, esset simpliciter male dictum, quia in divinis non est genus et species.

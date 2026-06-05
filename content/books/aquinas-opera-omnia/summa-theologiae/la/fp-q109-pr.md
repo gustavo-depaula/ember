@@ -1,9 +1,9 @@
-# Quaestio 109 — Deinde considerandum est de ordinatione malorum Angelorum. Et circa hoc quaeruntur quatuor.
+# Quaestio 109
 
-Primo, utrum ordines sint in Daemonibus.
+Deinde considerandum est de ordinatione malorum angelorum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum in eis sit praelatio.
+Primo, utrum ordines sint in daemonibus.  
 
-Tertio, utrum unus illuminet alium.
-
-Quarto, utrum subiiciantur praelationi bonorum Angelorum.
+- Secundo, utrum in eis sit praelatio.
+- Tertio, utrum unus illuminet alium.
+- Quarto, utrum subiiciantur praelationi bonorum angelorum.

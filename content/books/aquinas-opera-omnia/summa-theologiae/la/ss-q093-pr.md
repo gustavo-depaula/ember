@@ -1,7 +1,9 @@
-# Quaestio 93 — quarto, de superstitione observationum.
+# Quaestio 93
 
-Circa primum quaeruntur duo.
+Deinde considerandum est de speciebus superstitionis. Et primo, de superstitione indebiti cultus veri Dei; secundo, de superstitione idololatriae; tertio, de superstitione divinationum; quarto, de superstitione observationum.  
 
-Primo, utrum in cultu Dei veri possit esse aliquid perniciosum.
+Circa primum quaeruntur duo.  
 
-Secundo, utrum possit ibi esse aliquid superfluum.
+Primo, utrum in cultu Dei veri possit esse aliquid perniciosum.  
+
+- Secundo, utrum possit ibi esse aliquid superfluum.

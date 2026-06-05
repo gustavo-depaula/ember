@@ -1,11 +1,11 @@
-# Question 66 — We must next consider the work of distinction; first, the ordering of creation towards distinction; secondly, the distinction itself.
+# Question 66 — The Order of Creation towards Distinction
 
-Under the first head there are four points of inquiry:
+We must next consider the work of distinction; first, the ordering of creation towards distinction; second, the distinction itself.  
 
-(1) Whether formlessness of created matter preceded in time its formation?
+Under the first head there are four points of inquiry:  
 
-(2) Whether the matter of all corporeal things is the same?
+(1) Whether formlessness of created matter preceded in time its formation?  
 
-(3) Whether the empyrean heaven was created contemporaneously with formless matter?
-
-(4) Whether time was created simultaneously with it?
+- (2) Whether the matter of all corporeal things is the same?
+- (3) Whether the empyrean heaven was created contemporaneously with formless matter?
+- (4) Whether time was created simultaneously with it?

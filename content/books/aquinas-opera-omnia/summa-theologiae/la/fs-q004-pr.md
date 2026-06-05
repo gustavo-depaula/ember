@@ -1,17 +1,13 @@
-# Quaestio 4 — Deinde, considerandum est de his quae exiguntur ad beatitudinem. Et circa hoc quaeruntur octo.
+# Quaestio 4
 
-Primo, utrum delectatio requiratur ad beatitudinem.
+Deinde, considerandum est de his quae exiguntur ad beatitudinem. Et circa hoc quaeruntur octo.  
 
-Secundo, quid sit principalius in beatitudine, utrum delectatio vel visio.
+Primo, utrum delectatio requiratur ad beatitudinem.  
 
-Tertio, utrum requiratur comprehensio.
-
-Quarto, utrum requiratur rectitudo voluntatis.
-
-Quinto, utrum ad beatitudinem hominis requiratur corpus.
-
-Sexto, utrum perfectio corporis.
-
-Septimo, utrum aliqua exteriora bona.
-
-Octavo, utrum requiratur societas amicorum.
+- Secundo, quid sit principalius in beatitudine, utrum delectatio vel visio.
+- Tertio, utrum requiratur comprehensio.
+- Quarto, utrum requiratur rectitudo voluntatis.
+- Quinto, utrum ad beatitudinem hominis requiratur corpus.
+- Sexto, utrum perfectio corporis.
+- Septimo, utrum aliqua exteriora bona.
+- Octavo, utrum requiratur societas amicorum.

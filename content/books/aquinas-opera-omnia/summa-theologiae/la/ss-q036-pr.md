@@ -1,9 +1,9 @@
-# Quaestio 36 — Deinde considerandum est de invidia. Et circa hoc quaeruntur quatuor.
+# Quaestio 36
 
-Primo, quid sit invidia.
+***Deinde considerandum est de invidia. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum sit peccatum.
+Primo, quid sit invidia.  
 
-Tertio, utrum sit peccatum mortale.
-
-Quarto, utrum sit vitium capitale, et de filiabus eius.
+- Secundo, utrum sit peccatum.
+- Tertio, utrum sit peccatum mortale.
+- Quarto, utrum sit vitium capitale, et de filiabus eius.

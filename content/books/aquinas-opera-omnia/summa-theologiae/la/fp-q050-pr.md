@@ -1,21 +1,18 @@
-# Quaestio 50 — Post haec considerandum est de distinctione corporalis et spiritualis creaturae. Et primo, de creatura pure spirituali, quae in Scriptura sacra Angelus nominatur; secundo, de creatura pure corporali; tertio, de creatura composita ex corporali et spirituali, quae est homo.
+# Quaestio 50
 
-Circa vero Angelos, considerandum est
+***De substantia angelorum absolute***
 
-primo de his quae pertinent ad eorum substantiam;
-secundo, de his quae pertinent ad eorum intellectum;
-tertio, de his quae pertinent ad eorum voluntatem; quarto, de his quae pertinent ad eorum creationem.
+Post haec considerandum est de distinctione corporalis et spiritualis creaturae. Et primo, de creatura pure spirituali, quae in Scriptura sacra angelus nominatur; secundo, de creatura pure corporali; tertio, de creatura composita ex corporali et spirituali, quae est homo.  
 
-De substantia autem eorum considerandum est et absolute, et per comparationem ad corporalia.
+Circa vero angelos, considerandum est primo de his quae pertinent ad eorum substantiam; secundo, de his quae pertinent ad eorum intellectum; tertio, de his quae pertinent ad eorum voluntatem; quarto, de his quae pertinent ad eorum creationem.  
 
-Circa substantiam vero eorum absolute, quinque quaeruntur.
+De substantia autem eorum considerandum est et absolute, et per comparationem ad corporalia.  
 
-Primo, utrum sit aliqua creatura omnino spiritualis, et penitus incorporea.
+Circa substantiam vero eorum absolute, quinque quaeruntur.  
 
-Secundo, supposito quod Angelus sit talis, quaeritur utrum Angelus sit compositus ex materia et forma.
+Primo, utrum sit aliqua creatura omnino spiritualis, et penitus incorporea.  
 
-Tertio, quaeritur de multitudine eorum.
-
-Quarto, de differentia ipsorum ab invicem.
-
-Quinto, de immortalitate, seu incorruptibilitate ipsorum.
+- Secundo, supposito quod angelus sit talis, quaeritur utrum angelus sit compositus ex materia et forma.
+- Tertio, quaeritur de multitudine eorum.
+- Quarto, de differentia ipsorum ab invicem.
+- Quinto, de immortalitate, seu incorruptibilitate ipsorum.

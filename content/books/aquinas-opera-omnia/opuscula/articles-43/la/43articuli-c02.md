@@ -1,0 +1,5 @@
+# Articulus 1
+
+Primus articulus in schedula propositus, est, an Deus moveat aliquod corpus immediate.  
+
+Ad quod respondendum videtur, quod ordo communis divinitus institutus hoc habet, ut corporalis creatura ab ipso moveatur spiritu mediante. Dicit enim Augustinus in III de Trinit., cap. IV: *quemadmodum corpora grossiora et inferiora per subtiliora et superiora quodam ordine reguntur, ita omnia corpora per spiritum vitae rationalem*; et VIII super Genes. ad litteram, cap. XXII, dicit quod *Deus spiritualem creaturam corporali praeposuit*. Neque tamen divina potentia est huic ordini alligata, quin possit quandoque praeter ordinem causarum secundarum aliquid agere, cum sibi placuerit; ut patet in operibus miraculosis. Dicit enim Augustinus, XXVI contra Faustum: *appellamus naturam cognitum nobis cursum solitum naturae, contra quem Deus cum aliquid facit, magnalia vel mirabilia nominantur*.

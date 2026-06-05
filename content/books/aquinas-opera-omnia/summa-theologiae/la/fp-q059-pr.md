@@ -1,9 +1,11 @@
-# Quaestio 59 — Consequenter considerandum est de his quae pertinent ad voluntatem Angelorum. Et primo considerabimus de ipsa voluntate secundo, de motu eius, qui est amor sive dilectio. Circa primum quaeruntur quatuor.
+# Quaestio 59
 
-Primo, utrum in Angelis sit voluntas.
+Consequenter considerandum est de his quae pertinent ad voluntatem angelorum. Et primo considerabimus de ipsa voluntate; secundo, de motu eius, qui est amor sive dilectio.  
 
-Secundo, utrum voluntas Angeli sit ipsa natura eorum, vel etiam ipse intellectus eorum.
+Circa primum quaeruntur quatuor.  
 
-Tertio, utrum in Angelis sit liberum arbitrium.
+Primo, utrum in angelis sit voluntas.  
 
-Quarto, utrum in eis sit irascibilis et concupiscibilis.
+- Secundo, utrum voluntas angeli sit ipsa natura eorum, vel etiam ipse intellectus eorum.
+- Tertio, utrum in angelis sit liberum arbitrium.
+- Quarto, utrum in eis sit irascibilis et concupiscibilis.

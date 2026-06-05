@@ -1,15 +1,13 @@
-# Quaestio 13 — quarto, de usu.
+# Quaestio 13
 
-Circa electionem quaeruntur sex.
+Consequenter considerandum est de actibus voluntatis qui sunt in comparatione ad ea quae sunt ad finem. Et sunt tres, eligere, consentire, et uti. Electionem autem praecedit consilium. Primo ergo considerandum est de electione; secundo, de consilio; tertio, de consensu; quarto, de usu.  
 
-Primo, cuius potentiae sit actus, utrum voluntatis vel rationis.
+Circa electionem quaeruntur sex.  
 
-Secundo, utrum electio conveniat brutis animalibus.
+Primo, cuius potentiae sit actus, utrum voluntatis vel rationis.  
 
-Tertio, utrum electio sit solum eorum quae sunt ad finem, vel etiam quandoque finis.
-
-Quarto, utrum electio sit tantum eorum quae per nos aguntur.
-
-Quinto, utrum electio sit solum possibilium.
-
-Sexto, utrum homo ex necessitate eligat, vel libere.
+- Secundo, utrum electio conveniat brutis animalibus.
+- Tertio, utrum electio sit solum eorum quae sunt ad finem, vel etiam quandoque finis.
+- Quarto, utrum electio sit tantum eorum quae per nos aguntur.
+- Quinto, utrum electio sit solum possibilium.
+- Sexto, utrum homo ex necessitate eligat, vel libere.

@@ -1,13 +1,11 @@
-# Question 47 — We have now to consider the efficient cause of Christ's Passion, concerning which there are six points of inquiry:
+# Question 47 — The Efficient Cause of Christ’s Passion
 
-(1) Whether Christ was slain by others, or by Himself?
+We have now to consider the efficient cause of Christ’s Passion, concerning which there are six points of inquiry:  
 
-(2) From what motive did He deliver Himself up to the Passion?
+(1) Whether Christ was slain by others, or by Himself?  
 
-(3) Whether the Father delivered Him up to suffer?
-
-(4) Whether it was fitting that He should suffer at the hands of the Gentiles, or rather of the Jews?
-
-(5) Whether His slayers knew who He was?
-
-(6) Of the sin of them who slew Christ.
+- (2) From what motive did He deliver Himself up to the Passion?
+- (3) Whether the Father delivered Him up to suffer?
+- (4) Whether it was fitting that He should suffer at the hands of the Gentiles, or rather of the Jews?
+- (5) Whether His slayers knew who He was?
+- (6) Of the sin of them who slew Christ.

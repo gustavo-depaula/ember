@@ -1,9 +1,10 @@
-# Question 102 — We must now consider observance and its parts, the considerations of which will manifest the contrary vices.
+# Question 102 — Observance
 
-Under the head of observance there are three points of inquiry:
+We must now consider observance and its parts, the considerations of which will manifest the contrary vices.  
 
-(1) Whether observance is a special virtue, distinct from other virtues?
+Under the head of observance there are three points of inquiry:  
 
-(2) What does observance offer?
+(1) Whether observance is a special virtue, distinct from other virtues?  
 
-(3) Of its comparison with piety.
+- (2) What does observance offer?
+- (3) Of its comparison with piety.

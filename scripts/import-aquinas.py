@@ -185,9 +185,15 @@ def parse_summa_question(path: Path, part_code: str) -> SummaQuestion:
     current: dict | None = None
     next_anchor_id = id(sections[0]["anchor"]) if sections else None
 
+    # Also collect <p> elements per section as a fallback. Some Geremia
+    # Summa files (e.g. SS Q23, SS Q24 — the charity questions) are
+    # English-only with <p> paragraphs instead of bilingual <tr>/<td>.
+    # We collect them in parallel and use them only when the table rows
+    # are empty for that section.
     for el in body.find_all(True):  # iterate every descendant tag
         if el.name == "a" and el.get("name") and id(el) in anchors:
             current = anchors[id(el)]
+            current.setdefault("p_rows", [])
             continue
         if current is None:
             continue
@@ -200,6 +206,16 @@ def parse_summa_question(path: Path, part_code: str) -> SummaQuestion:
                 en = td_text(tds[1])
                 if la or en:
                     current["rows"].append((la, en))
+        elif el.name == "p":
+            text = td_text(el)
+            if text.strip():
+                current.setdefault("p_rows", []).append(("", text))
+
+    # Fallback: for any section with empty table rows but populated <p>
+    # paragraphs, use the <p> content as English-only rows.
+    for s in sections:
+        if not s["rows"] and s.get("p_rows"):
+            s["rows"] = s["p_rows"]
 
     # The first section (proem) holds the Question's en/la title in its <h3>
     # and the proem prose in its <table>. For Q1 of each part, the <h3> also
@@ -349,6 +365,18 @@ PART_CODES = {
 
 
 def build_summa_theologiae() -> dict:
+    """Deprecated: the canonical Summa Theologiae is now sourced from
+    aquinas.cc via `python3 scripts/scrape-aquinas-cc.py summa`. The Geremia
+    mirror was inconsistent across questions — some are bilingual <tr>/<td>
+    tables, others (SS Q23–24, much of the Supplementum) are English-only
+    <p> paragraphs with no Latin column — leaving ~580 Latin chapters
+    empty. The aquinas.cc bilingual edition pairs every row across both
+    languages. Original Geremia body kept under `_unused_build_summa_…`
+    for reference."""
+    return {"book": "aquinas-summa-theologiae", "skipped": "sourced from aquinas.cc"}
+
+
+def _unused_build_summa_theologiae() -> dict:
     """Walk summa/{FP,FS,SS,TP,XP}/ and emit one book with a 3-level TOC:
     Part → Question → Article."""
     book_dir = BOOKS_ROOT / "summa-theologiae"
@@ -578,7 +606,17 @@ CATENA_GOSPELS = {
 
 
 def parse_catena_file(path: Path) -> list[dict]:
-    """Return a list of chapters: { num, rows: list[(la, en)], headers: list[(la, en)] }."""
+    """Return a list of chapters: { num, rows: list[tuple] }.
+
+    Each row is either:
+      - ("__header__", text) for colspan=2 section headers (Lectio N, etc.)
+      - ("__scripture__", la, en) for rows whose <td> wraps content in
+        <blockquote> — Bible verses commented on
+      - (la, en) for ordinary patristic gloss rows
+    The Catena Aurea's prologue/dedication isn't always anchored (CAJohn has
+    no <a name="0">); rows seen before the first anchor are collected under
+    chapter 0.
+    """
     soup = load_html(path)
     body = soup.find("body") or soup
 
@@ -590,8 +628,9 @@ def parse_catena_file(path: Path) -> list[dict]:
             chapter_anchors.append(a)
 
     chapter_ids = {id(a): int(a.get("name")) for a in chapter_anchors}
-    chapters: dict[int, dict] = {}
-    current: dict | None = None
+    chapters: dict[int, dict] = {0: {"num": 0, "rows": []}}
+    # Default: any content before the first anchor goes to chapter 0 (prologue).
+    current: dict | None = chapters[0]
 
     for el in body.find_all(True):
         if el.name == "a" and id(el) in chapter_ids:
@@ -608,12 +647,69 @@ def parse_catena_file(path: Path) -> list[dict]:
                 if text.strip():
                     current["rows"].append(("__header__", text.strip()))
             elif len(tds) >= 2:
-                la = td_text(tds[0])
-                en = td_text(tds[1])
-                if la or en:
+                # Skip the contents-table rows that list chapter links: each
+                # cell is just "*N*" or similar (typically inside a table with
+                # cellpadding=6 rather than 12). All cells very short, all
+                # primarily a single <a href="#N"> link.
+                if _is_catena_toc_row(tds):
+                    continue
+                la_td, en_td = tds[0], tds[1]
+                la_is_quote = la_td.find("blockquote") is not None
+                en_is_quote = en_td.find("blockquote") is not None
+                la = td_text(la_td)
+                en = td_text(en_td)
+                # Skip chapter-header rows (e.g. "Caput 1" / "CHAPTER I") —
+                # the chapter heading is already supplied by the markdown
+                # # heading from the outline.
+                if _is_catena_chapter_header(la, en):
+                    continue
+                if la_is_quote or en_is_quote:
+                    if la or en:
+                        current["rows"].append(("__scripture__", la, en))
+                elif la or en:
                     current["rows"].append((la, en))
 
+    # Drop chapter 0 if it has no rows (most Catenas have an anchored prologue).
+    if not chapters[0]["rows"]:
+        del chapters[0]
+
     return [chapters[k] for k in sorted(chapters)]
+
+
+_TOC_LINK_RE = re.compile(r"^[\s\*]*\d+[\s\*]*$")
+_CHAPTER_HDR_RE = re.compile(r"^[\s\*]*(?:Caput|Capitulum|CHAPTER|Chapter)\s+[IVXLCDM\d]+[\s\*]*\.?$", re.IGNORECASE)
+
+
+def _is_catena_chapter_header(la: str, en: str) -> bool:
+    """Detect rows that label the chapter (e.g. "Caput 1" / "CHAPTER I").
+    The markdown # heading from the outline already provides this label."""
+    la_clean = la.strip().strip("*").strip()
+    en_clean = en.strip().strip("*").strip()
+    matches = 0
+    if la_clean and _CHAPTER_HDR_RE.match(la_clean):
+        matches += 1
+    if en_clean and _CHAPTER_HDR_RE.match(en_clean):
+        matches += 1
+    return matches >= 1 and max(len(la_clean), len(en_clean)) < 40
+
+
+def _is_catena_toc_row(tds) -> bool:
+    """Heuristic: TOC rows in the Catena Aurea contents tables have cells
+    containing just chapter numbers (often wrapped in asterisks like `*2*`)
+    and link to in-file anchors. Filter them out so they don't leak into the
+    prologue or chapter bodies."""
+    if len(tds) < 2:
+        return False
+    short_link_count = 0
+    for td in tds:
+        text = td_text(td).strip()
+        if not text:
+            continue
+        if len(text) > 10:
+            return False
+        if _TOC_LINK_RE.match(text):
+            short_link_count += 1
+    return short_link_count >= 2
 
 
 def _catena_chapter_md(chapter: dict, lang: str, gospel_en: str, gospel_la: str) -> str:
@@ -628,15 +724,25 @@ def _catena_chapter_md(chapter: dict, lang: str, gospel_en: str, gospel_la: str)
     lines.append(f"# {heading_en if lang == 'en-US' else heading_la}")
     lines.append("")
     for row in chapter["rows"]:
-        la, en = row
-        if la == "__header__":
-            # Sub-section header (Lectio N, Verse N, etc.). Strip any
-            # surrounding bold markers since we use the heading itself.
-            text = en.strip().strip("*").strip()
+        kind = row[0]
+        if kind == "__header__":
+            text = row[1].strip().strip("*").strip()
             if text:
                 lines.append(f"## {text}")
                 lines.append("")
             continue
+        if kind == "__scripture__":
+            la, en = row[1], row[2]
+            text = en if lang == "en-US" else la
+            if not text:
+                continue
+            for line in text.split("\n"):
+                line = line.strip()
+                if line:
+                    lines.append(f"> {line}")
+            lines.append("")
+            continue
+        la, en = row[0], row[1]
         text = en if lang == "en-US" else la
         if not text:
             continue
@@ -761,7 +867,11 @@ def parse_linear_file(path: Path, anchor_re: str) -> list[LinearChapter]:
             body_la=la,
         ))
 
-    title_hdr_re = re.compile(r"^(?:Caput|Capitulum|CHAPTER|Chapter)\s+[IVXLCDM\d]+", re.IGNORECASE)
+    # The regex needs to match even when the cell content opens with bold/
+    # italic markers (`**Caput 1...**`), so we drop the `^` anchor and use
+    # search() — but only on the lead-stripped version of the cell text.
+    title_hdr_re = re.compile(r"(?:Caput|Capitulum|CHAPTER|Chapter)\s+[IVXLCDM\d]+", re.IGNORECASE)
+    lectio_hdr_re = re.compile(r"^(?:Lectio|LECTURE|Lecture)\s+[IVXLCDM\d]+", re.IGNORECASE)
     for el in body.descendants:
         if not isinstance(el, Tag):
             continue
@@ -792,15 +902,39 @@ def parse_linear_file(path: Path, anchor_re: str) -> list[LinearChapter]:
         if el.name == "tr":
             tds = el.find_all("td", recursive=False)
             if len(tds) >= 2:
-                la = td_text(tds[0])
-                en = td_text(tds[1])
-                # Title rows: "Caput N — title" pattern in both columns.
-                if current.get("skip_next_title_row") and (title_hdr_re.search(la) or title_hdr_re.search(en)):
+                la_td, en_td = tds[0], tds[1]
+                la = td_text(la_td)
+                en = td_text(en_td)
+                # Title rows: "Caput N — title" pattern. Inspect cells with the
+                # bold/italic prefix stripped so "**Caput 1**" still matches.
+                la_for_match = la.lstrip("*").lstrip()
+                en_for_match = en.lstrip("*").lstrip()
+                if current.get("skip_next_title_row") and (
+                    title_hdr_re.match(la_for_match) or title_hdr_re.match(en_for_match)
+                ):
                     if not current["title_la"]:
                         current["title_la"] = la
                     current["skip_next_title_row"] = False
                     continue
                 current["skip_next_title_row"] = False
+                la_stripped = la.strip().strip("*").strip()
+                en_stripped = en.strip().strip("*").strip()
+                # Lectio/Lecture sub-headers (e.g. "Lectio 1" / "LECTURE 1"):
+                # short bilingual rows that match the lectio pattern.
+                if (lectio_hdr_re.match(la_stripped) or lectio_hdr_re.match(en_stripped)) and len(en) < 60:
+                    label = en_stripped if en_stripped else la_stripped
+                    current["la"].append(f"\n## {la_stripped}\n" if la_stripped else "")
+                    current["en"].append(f"\n## {label}\n" if label else "")
+                    continue
+                # Scripture rows: td wraps content in <blockquote>.
+                la_quote = la_td.find("blockquote") is not None
+                en_quote = en_td.find("blockquote") is not None
+                if la_quote or en_quote:
+                    if la:
+                        current["la"].append("\n".join(f"> {line.strip()}" for line in la.split("\n") if line.strip()))
+                    if en:
+                        current["en"].append("\n".join(f"> {line.strip()}" for line in en.split("\n") if line.strip()))
+                    continue
                 current["la"].append(la)
                 current["en"].append(en)
 
@@ -819,7 +953,7 @@ def parse_linear_file_by_header_rows(path: Path) -> list[LinearChapter]:
     chapters: list[LinearChapter] = []
 
     chapter_re = re.compile(
-        r"^(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture)\s*([IVXLCDM\d]*)\b",
+        r"^(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture|Lection|LESSON|Lesson)\s*([IVXLCDM\d]*)\b",
         re.IGNORECASE,
     )
 
@@ -838,12 +972,14 @@ def parse_linear_file_by_header_rows(path: Path) -> list[LinearChapter]:
         ))
 
     n_proem = 0
+    lectio_hdr_re = re.compile(r"^(?:Lectio|LECTURE|Lecture)\s+[IVXLCDM\d]+", re.IGNORECASE)
     for tr in body.find_all("tr"):
         tds = tr.find_all("td", recursive=False)
         if len(tds) < 2:
             continue
-        la = td_text(tds[0])
-        en = td_text(tds[1])
+        la_td, en_td = tds[0], tds[1]
+        la = td_text(la_td)
+        en = td_text(en_td)
         la_match = chapter_re.match(la.strip().lstrip("*").strip())
         en_match = chapter_re.match(en.strip().lstrip("*").strip())
         if la_match or en_match:
@@ -862,11 +998,19 @@ def parse_linear_file_by_header_rows(path: Path) -> list[LinearChapter]:
                 num = _roman_or_int(num_text)
 
             def _strip_header(s: str) -> str:
-                return re.sub(
-                    r"^(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture)\s*[IVXLCDM\d]*\b[\.,:]*\s*",
+                inner = re.sub(
+                    r"^(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture|Lection|LESSON|Lesson)\s*[IVXLCDM\d]*\b[\.,:]*\s*",
                     "", s.lstrip("*").lstrip(),
                     count=1, flags=re.IGNORECASE,
                 ).lstrip()
+                # Strip any trailing or leading bold/italic markers left
+                # behind by header removal.
+                inner = inner.strip()
+                while inner.startswith("**"):
+                    inner = inner[2:].strip()
+                while inner.endswith("**"):
+                    inner = inner[:-2].strip()
+                return inner
 
             la_rest = _strip_header(la).strip()
             en_rest = _strip_header(en).strip()
@@ -879,6 +1023,26 @@ def parse_linear_file_by_header_rows(path: Path) -> list[LinearChapter]:
             }
             continue
         if current is None:
+            continue
+        la_stripped = la.strip().strip("*").strip()
+        en_stripped = en.strip().strip("*").strip()
+        # Inner Lectio/Lecture header — short bilingual marker like
+        # "Lectio 1" / "LECTURE 1".
+        if (lectio_hdr_re.match(la_stripped) or lectio_hdr_re.match(en_stripped)) and len(en) < 60:
+            label = en_stripped or la_stripped
+            if la_stripped:
+                current["la"].append(f"\n## {la_stripped}\n")
+            if label:
+                current["en"].append(f"\n## {label}\n")
+            continue
+        # Scripture rows: td contains <blockquote>.
+        la_quote = la_td.find("blockquote") is not None
+        en_quote = en_td.find("blockquote") is not None
+        if la_quote or en_quote:
+            if la:
+                current["la"].append("\n".join(f"> {line.strip()}" for line in la.split("\n") if line.strip()))
+            if en:
+                current["en"].append("\n".join(f"> {line.strip()}" for line in en.split("\n") if line.strip()))
             continue
         current["la"].append(la)
         current["en"].append(en)
@@ -951,6 +1115,84 @@ def parse_linear_file_p_bilingual(path: Path) -> list[LinearChapter]:
         body_en="\n\n".join(en_chunks).strip(),
         body_la="\n\n".join(la_chunks).strip(),
     )]
+
+
+def parse_linear_file_by_h3(path: Path) -> list[LinearChapter]:
+    """Parser for files like SSLamentations.htm that lack <tr>/<td> and use
+    flat <h3>...</h3> chapter boundaries with <p> content between.
+
+    Each chapter spans from one <h3> heading to the next; content paragraphs
+    are <p> elements. English-only content (no bilingual table)."""
+    soup = load_html(path)
+    body = soup.find("body") or soup
+    chapters: list[LinearChapter] = []
+    current: dict | None = None
+    chapter_re = re.compile(
+        r"(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture|Lection|LESSON|Lesson)\s*([IVXLCDM\d]*)",
+        re.IGNORECASE,
+    )
+
+    def commit():
+        if current is None:
+            return
+        chapters.append(LinearChapter(
+            anchor=str(current["num"]),
+            num=current["num"],
+            title_en=current["title_en"],
+            title_la="",
+            body_en="\n\n".join(s for s in current["en"] if s).strip(),
+            body_la="",
+        ))
+
+    n_proem = 0
+    # Heuristic: a "chapter heading" <p> is short, centered (style contains
+    # "text-align: center" or similar), and bold, with content matching
+    # CHAPTER N or similar.
+    for el in body.find_all(["h2", "h3", "h4", "p", "blockquote"]):
+        is_heading_el = el.name in ("h2", "h3", "h4")
+        text = td_text(el).strip()
+        first_line = text.split("\n")[0].strip().strip("*").strip()
+        if not is_heading_el and el.name == "p":
+            # Try treating a <p> as a heading if its first line matches the
+            # CHAPTER/Lectio pattern AND the whole <p> is short enough that
+            # it's clearly a heading (not body prose that happens to start
+            # with "Chapter N"). The whole-p length budget is 200 chars to
+            # accommodate `<b>CHAPTER N<br>folio-ref</b>` style headings.
+            stripped = text.strip().strip("*").strip()
+            if len(stripped) < 200 and chapter_re.match(first_line):
+                is_heading_el = True
+        if is_heading_el:
+            m = chapter_re.search(first_line)
+            if m:
+                commit()
+                num_text = (m.group(1) or "").strip()
+                if num_text:
+                    num = _roman_or_int(num_text)
+                else:
+                    num = "prooemium" if any(w in text.lower() for w in ("prooemium", "prologue", "prologus")) else f"proem{n_proem}"
+                    n_proem += 1
+                title = re.sub(
+                    r"^(?:Chapter|CHAPTER|Caput|Lectio|Lecture|Lection|Lesson|Prologus|Prooemium)\s*[IVXLCDM\d]*[:\.,]?\s*",
+                    "",
+                    text,
+                    flags=re.IGNORECASE,
+                ).strip().strip("*").strip()
+                current = {
+                    "num": num,
+                    "title_en": title,
+                    "en": [],
+                }
+                continue
+        if current is None:
+            continue
+        if not text:
+            continue
+        if el.name == "blockquote":
+            current["en"].append("\n".join(f"> {line.strip()}" for line in text.split("\n") if line.strip()))
+        else:
+            current["en"].append(text)
+    commit()
+    return chapters
 
 
 def parse_linear_file_single_chapter(path: Path) -> list[LinearChapter]:
@@ -1067,11 +1309,18 @@ def build_linear_work(spec: LinearWorkSpec, sub_path: str | None = None) -> dict
                 chapters = parse_linear_file_single_chapter(src)
             elif spec.mode == "p-bilingual":
                 chapters = parse_linear_file_p_bilingual(src)
+            elif spec.mode == "h3-chapters":
+                chapters = parse_linear_file_by_h3(src)
             else:
                 chapters = parse_linear_file(src, spec.anchor_re)
                 # Auto-fall back to header-rows mode if anchors yielded nothing.
                 if not chapters:
                     chapters = parse_linear_file_by_header_rows(src)
+                # Try h3 splitting if no <tr>/<td> bilingual structure.
+                if not chapters or (len(chapters) == 1 and not chapters[0].body_la):
+                    h3_chapters = parse_linear_file_by_h3(src)
+                    if len(h3_chapters) > 1:
+                        chapters = h3_chapters
                 # Final fallback for unchaptered short treatises.
                 if not chapters:
                     chapters = parse_linear_file_single_chapter(src)
@@ -1125,8 +1374,14 @@ def build_linear_work(spec: LinearWorkSpec, sub_path: str | None = None) -> dict
             title_la_clean = _clean_chapter_title(chap.title_la, "la") or title_en_clean
 
             if pauline_ch is not None and pauline_ch > 0 and pauline_lec > 0:
-                md_en = _pauline_chapter_md(pauline_ch, pauline_lec, title_en_clean, chap.body_en, "en-US")
-                md_la = _pauline_chapter_md(pauline_ch, pauline_lec, title_la_clean, chap.body_la, "la")
+                md_en = _pauline_chapter_md(
+                    pauline_ch, pauline_lec, title_en_clean, chap.body_en, "en-US",
+                    spec.chapter_label_en, spec.chapter_label_la,
+                )
+                md_la = _pauline_chapter_md(
+                    pauline_ch, pauline_lec, title_la_clean, chap.body_la, "la",
+                    spec.chapter_label_en, spec.chapter_label_la,
+                )
             elif pauline_ch is not None and pauline_ch == 0:
                 md_en = f"# Prologue\n\n{chap.body_en.strip()}\n"
                 md_la = f"# Prologus\n\n{chap.body_la.strip()}\n"
@@ -1190,11 +1445,28 @@ def build_linear_work(spec: LinearWorkSpec, sub_path: str | None = None) -> dict
     return {"book": spec.book_id, "chapters": total}
 
 
-def _pauline_chapter_md(chap: int, lec: int, title: str, body: str, lang: str) -> str:
-    if lang == "en-US":
-        heading = f"# Chapter {chap}, Lecture {lec}"
+def _pauline_chapter_md(
+    chap: int, lec: int, title: str, body: str, lang: str,
+    label_en: str = "Chapter", label_la: str = "Caput",
+) -> str:
+    """Render a chapter+sub-unit heading. For biblical commentaries the
+    natural labels are Chapter/Lecture; for Boethius's De Trinitate they're
+    Question/Article. The spec's chapter_label_en/la are used as the upper
+    label and the lower label is derived (Lecture vs Article)."""
+    upper_en, upper_la = label_en, label_la
+    if label_en.lower() == "article":
+        outer_en, outer_la = "Question", "Quaestio"
+        inner_en, inner_la = "Article", "Articulus"
+    elif label_en.lower() in ("section", "lecture", "lesson", "lectio"):
+        outer_en, outer_la = "Chapter", "Caput"
+        inner_en, inner_la = "Lecture", "Lectio"
     else:
-        heading = f"# Caput {chap}, Lectio {lec}"
+        outer_en, outer_la = "Chapter", "Caput"
+        inner_en, inner_la = "Lecture", "Lectio"
+    if lang == "en-US":
+        heading = f"# {outer_en} {chap}, {inner_en} {lec}"
+    else:
+        heading = f"# {outer_la} {chap}, {inner_la} {lec}"
     if title:
         heading += f" — {title}"
     return f"{heading}\n\n{body.strip()}\n"
@@ -1335,6 +1607,37 @@ class DQWorkSpec:
     file_prefix: str           # e.g. "QDdeVer"
     question_count: int
     question_titles_en: dict[int, str] = field(default_factory=dict)
+    # For De Unione Verbi where one work has Q1 with N articles each in a
+    # separate file (QDdeUnione.htm = article 1, QDdeUnione2.htm = article 2,
+    # etc.). When True, the loop iterates files as articles of Q1 instead of
+    # as separate questions.
+    single_question_multi_file: bool = False
+
+
+def _parse_dq_article_whole_file(path: Path, anum: int) -> dict | None:
+    """For single_question_multi_file works: read the whole bilingual file as
+    one article. Drop the contents-table navigation rows. The article rows
+    are the bilingual <tr>/<td> pairs that follow."""
+    soup = load_html(path)
+    body = soup.find("body") or soup
+    rows: list[tuple[str, str]] = []
+    title_en = ""
+    for tr in body.find_all("tr"):
+        tds = tr.find_all("td", recursive=False)
+        if len(tds) == 1:
+            text = td_text(tds[0]).strip()
+            if text and not title_en and re.search(r"(?:Article|Articulus)\s+[IVXLCDM\d]+", text, re.IGNORECASE):
+                title_en = text
+            elif text:
+                rows.append(("__hdr__", text))
+        elif len(tds) >= 2:
+            la = td_text(tds[0])
+            en = td_text(tds[1])
+            if la or en:
+                rows.append((la, en))
+    if not rows:
+        return None
+    return {"num": anum, "rows": rows, "title_en": title_en, "title_la": ""}
 
 
 def build_dq_work(spec: DQWorkSpec) -> dict:
@@ -1346,47 +1649,84 @@ def build_dq_work(spec: DQWorkSpec) -> dict:
 
     toc: list[dict] = []
     total = 0
-    for qn in range(1, spec.question_count + 1):
-        src = CACHE / f"{spec.file_prefix}{qn}.htm"
-        if not src.is_file():
-            # Some DQ files use <prefix>.htm for Q1 and <prefix>N.htm for Q2+,
-            # while single-question works (de-anima, de-spiritualibus-creaturis)
-            # use <prefix>.htm alone.
-            alt = CACHE / f"{spec.file_prefix}.htm"
-            if alt.is_file() and qn == 1:
-                src = alt
-            else:
-                print(f"  skip {src.name}: not found")
-                continue
-        try:
-            title_en, articles = parse_dq_question_file(src)
-        except Exception as exc:
-            print(f"  warn: {src.name} parse failed: {exc}")
-            continue
-        if not articles:
-            continue
-        q_id = f"q{qn:02d}"
+
+    if spec.single_question_multi_file:
+        # Each file is one ARTICLE of a single Question (Q1).
         q_node = {
-            "id": q_id,
+            "id": "q01",
             "title": {
-                "en-US": f"Question {qn}" + (f" — {title_en}" if title_en else ""),
-                "la": f"Quaestio {qn}",
+                "en-US": "Question 1",
+                "la": "Quaestio 1",
             },
             "children": [],
         }
-        for art in articles:
-            aid = f"{q_id}-a{art['num']:02d}"
+        for an in range(1, spec.question_count + 1):
+            src = CACHE / f"{spec.file_prefix}{an}.htm"
+            if not src.is_file():
+                alt = CACHE / f"{spec.file_prefix}.htm"
+                if alt.is_file() and an == 1:
+                    src = alt
+                else:
+                    print(f"  skip {src.name}: not found")
+                    continue
+            art = _parse_dq_article_whole_file(src, an)
+            if art is None:
+                continue
+            aid = f"q01-a{an:02d}"
             _write_md(en_dir / f"{aid}.md", _dq_article_md(art, "en-US"))
             _write_md(la_dir / f"{aid}.md", _dq_article_md(art, "la"))
             total += 1
             q_node["children"].append({
                 "id": aid,
                 "title": {
-                    "en-US": f"Article {art['num']}",
-                    "la": f"Articulus {art['num']}",
+                    "en-US": f"Article {an}",
+                    "la": f"Articulus {an}",
                 },
             })
-        toc.append(q_node)
+        if q_node["children"]:
+            toc.append(q_node)
+    else:
+        for qn in range(1, spec.question_count + 1):
+            src = CACHE / f"{spec.file_prefix}{qn}.htm"
+            if not src.is_file():
+                # Some DQ files use <prefix>.htm for Q1 and <prefix>N.htm for Q2+,
+                # while single-question works (de-anima, de-spiritualibus-creaturis)
+                # use <prefix>.htm alone.
+                alt = CACHE / f"{spec.file_prefix}.htm"
+                if alt.is_file() and qn == 1:
+                    src = alt
+                else:
+                    print(f"  skip {src.name}: not found")
+                    continue
+            try:
+                title_en, articles = parse_dq_question_file(src)
+            except Exception as exc:
+                print(f"  warn: {src.name} parse failed: {exc}")
+                continue
+            if not articles:
+                continue
+            q_id = f"q{qn:02d}"
+            q_node = {
+                "id": q_id,
+                "title": {
+                    "en-US": f"Question {qn}" + (f" — {title_en}" if title_en else ""),
+                    "la": f"Quaestio {qn}",
+                },
+                "children": [],
+            }
+            for art in articles:
+                aid = f"{q_id}-a{art['num']:02d}"
+                _write_md(en_dir / f"{aid}.md", _dq_article_md(art, "en-US"))
+                _write_md(la_dir / f"{aid}.md", _dq_article_md(art, "la"))
+                total += 1
+                q_node["children"].append({
+                    "id": aid,
+                    "title": {
+                        "en-US": f"Article {art['num']}",
+                        "la": f"Articulus {art['num']}",
+                    },
+                })
+            toc.append(q_node)
 
     manifest = {
         "id": spec.book_id,
@@ -1407,11 +1747,16 @@ def build_dq_work(spec: DQWorkSpec) -> dict:
 
 
 def build_quodlibetales() -> dict:
-    """QDquodlib.htm holds all 12 Quodlibets in one file. Anchors are
-    "<Q>-<A>" (e.g. 1-1, 2-2, 9-4). Quodlibets 1 & 2 have English (Sandra
-    Edwards, PIMS 1983); the rest are Latin only with scattered English
-    fragments by Freddoso and West.
-    """
+    """Deprecated: the canonical full bilingual is now sourced from
+    aquinas.cc via scripts/scrape-aquinas-cc.py (slug "quodlibetales",
+    producing book id "aquinas-quodlibetales"). The Geremia mirror only
+    had partial English (Q I–II Edwards, scattered fragments for III–XII)
+    and the article anchoring was fragile, so we don't import it here."""
+    return {"book": "aquinas-quodlibetales", "skipped": "sourced from aquinas.cc"}
+
+
+def _unused_build_quodlibetales() -> dict:
+    """Original Geremia-based importer, kept for reference only."""
     src = CACHE / "QDquodlib.htm"
     if not src.is_file():
         return {"book": "aquinas-quodlibetales", "error": "missing QDquodlib.htm"}
@@ -1606,6 +1951,7 @@ DQ_WORKS: dict[str, DQWorkSpec] = {
         translator_note_en="Translation drawn from the Geremia/AquinasOperaOmnia GitHub repository.",
         file_prefix="QDdeUnione",
         question_count=5,
+        single_question_multi_file=True,
     ),
     "de-virtutibus": DQWorkSpec(
         book_id="aquinas-de-virtutibus",
@@ -2079,6 +2425,7 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio *De Caelo et Mundo* Aristotelis — tractatus cosmologicus de caelis, de elementis, de motu. Opus inchoatum — Librum I et partem Libri III antequam moreretur composuit.",
             translator_note_en="English translation by Fabian Larcher OP and Pierre H. Conway OP (typescript, 1963–64). Mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["DeCoelo.htm"],
+            anchor_re=r"^(\d+-\d+)$",
             chapter_label_en="Lecture",
             chapter_label_la="Lectio",
         ),
@@ -2094,6 +2441,7 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio *Meteorologicorum* Aristotelis — de phaenomenis meteorologicis et atmosphaericis. Opus inchoatum — solum Librum I et partem II tractavit.",
             translator_note_en="Mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["Meteora.htm"],
+            anchor_re=r"^(\d+\.\d+)$",
             chapter_label_en="Lecture",
             chapter_label_la="Lectio",
         ),
@@ -2109,6 +2457,8 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio *De Generatione et Corruptione* Aristotelis — de mutatione substantiali, de elementis, de materia prima.",
             translator_note_en="English translation by Pierre H. Conway OP and R. F. Larcher OP (1964, typescript). Mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["GenCorrup.htm"],
+            # Mixed scheme: Book I uses flat ints ("1".."18"), Book II uses "2.X".
+            anchor_re=r"^(\d+(?:\.\d+)?)$",
             chapter_label_en="Lecture",
             chapter_label_la="Lectio",
         ),
@@ -2124,8 +2474,9 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio *De Sensu et Sensato* Aristotelis — de sensibus exterioribus eorumque obiectis, ad commentarium *De Anima* pertinens.",
             translator_note_en="English translation by Edward M. Macierowski. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["SensuSensato.htm"],
-            chapter_label_en="Lecture",
-            chapter_label_la="Lectio",
+            chapter_label_en="Chapter",
+            chapter_label_la="Caput",
+            mode="h3-chapters",
         ),
         "aristotle/de-sensu",
     ),
@@ -2155,69 +2506,21 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio Thomae primorum trium capitum *De Trinitate* Boethii. Prooemium continet discussionem Thomae celeberrimam de divisione scientiae speculativae. Opus inchoatum.",
             translator_note_en="English translation by Armand Maurer (PIMS, Toronto, 1953). Translation status: may be under copyright in the United States until 2048; mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["BoethiusDeTr.htm"],
-            chapter_label_en="Question",
-            chapter_label_la="Quaestio",
+            chapter_label_en="Article",
+            chapter_label_la="Articulus",
+            pauline_anchors=True,
         ),
         "commentaries/boethius-de-trinitate",
     ),
-    "compendium-corpus-christi": (
-        LinearWorkSpec(
-            book_id="aquinas-office-corpus-christi",
-            name_en="Office of Corpus Christi",
-            name_la="Officium Corporis Christi",
-            composed=1264,
-            description_en="The full liturgical office Aquinas composed in 1264 at the request of Pope Urban IV for the new feast of the Body of Christ — Mass, Matins, Lauds, the Little Hours, Vespers, the Octave readings, and the famous hymns *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, and the sequence *Lauda Sion*.",
-            description_la="Officium liturgicum completum Thomae anno 1264, Urbano IV petente, pro festo Corporis Christi novo — Missa, Matutinum, Laudes, Horae Minores, Vesperae, lectiones octavae, et hymni celebres *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, sequentia *Lauda Sion*.",
-            translator_note_en="Mirrored via the Geremia/AquinasOperaOmnia GitHub repository. Combines CorpusChristi.htm + CorpusChristiMass.htm + CorpusChristiLauds.htm + CorpusChristiLittleHrs.htm + CorpusChristiVes2.htm + CorpusChristiOct.htm + CorpusChristiRd.htm.",
-            source_files=[
-                "CorpusChristi.htm",
-                "CorpusChristiMass.htm",
-                "CorpusChristiLauds.htm",
-                "CorpusChristiLittleHrs.htm",
-                "CorpusChristiVes2.htm",
-                "CorpusChristiOct.htm",
-                "CorpusChristiRd.htm",
-            ],
-            chapter_label_en="Part",
-            chapter_label_la="Pars",
-            group_titles_en=[
-                "First Vespers and Matins",
-                "Mass (Cibavit)",
-                "Lauds",
-                "Little Hours",
-                "Second Vespers",
-                "Office of the Octave",
-                "Readings of the Octave",
-            ],
-            group_titles_la=[
-                "Vesperae Primae et Matutinum",
-                "Missa (Cibavit)",
-                "Laudes",
-                "Horae Minores",
-                "Vesperae Secundae",
-                "Officium Octavae",
-                "Lectiones Octavae",
-            ],
-        ),
-        "office-of-corpus-christi",
-    ),
-    "sentences": (
-        LinearWorkSpec(
-            book_id="aquinas-super-sententias",
-            name_en="Commentary on the Sentences",
-            name_la="Scriptum super Libros Sententiarum",
-            composed="1252–1256",
-            description_en="Aquinas's first major theological work — the *bachelor of Sentences* cursus at Paris. Four books following the structure of Peter Lombard's *Sentences*. The Geremia mirror contains the available Latin/English fragments.",
-            description_la="Opus theologicum primum maius Thomae — *cursus baccalaurei Sententiarum* apud Parisios. Quattuor libri ad ordinem *Sententiarum* Petri Lombardi. Fragmenta latina-anglica disponibilia in speculo Geremiae.",
-            translator_note_en="Various translations, mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
-            source_files=["Sentences.htm", "Sentences1.htm", "Sentences2.htm", "Sentences3.htm", "Sentences4.htm"],
-            chapter_label_en="Section",
-            chapter_label_la="Sectio",
-            group_titles_en=["Index", "Book I (Distinctions)", "Book II (Distinctions)", "Book III (Distinctions)", "Book IV (Distinctions)"],
-            group_titles_la=["Index", "Liber I (Distinctiones)", "Liber II (Distinctiones)", "Liber III (Distinctiones)", "Liber IV (Distinctiones)"],
-        ),
-        "commentaries/super-sententias",
-    ),
+    # Office of Corpus Christi: the canonical full bilingual is sourced from
+    # aquinas.cc via scripts/scrape-aquinas-cc.py (slug "office-corpus-christi",
+    # producing book id "aquinas-office-corpus-christi"). The Geremia mirror
+    # combined seven dhspriory pages that were poorly structured (musical cues
+    # and antiphons interleaved), so we don't import it here.
+    # Super Sententias: the canonical full bilingual is sourced from
+    # aquinas.cc via scripts/scrape-aquinas-cc.py (slug "super-sententias").
+    # The Geremia mirror only has a handful of articles via index pages and
+    # rendered as one-line dumps, so we don't import it here.
     # ------ Biblical commentaries ------
     "super-matthaeum": (
         LinearWorkSpec(
@@ -2245,8 +2548,8 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio Thomae in Ioannem — a multis fructus optimus expositionum Sacrae Scripturae aestimata, opus regentiae secundae Parisiensis. 21 capita cum appendice.",
             translator_note_en="English translation by Fabian R. Larcher, O.P., and James A. Weisheipl, O.P. (Magi Books, 1980; revised Aquinas Institute, 2010). Translation status: may be under copyright in the United States until 2075; mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=[f"John{n}.htm" for n in range(1, 22)] + ["JohnApp.htm"],
-            chapter_label_en="Chapter",
-            chapter_label_la="Caput",
+            chapter_label_en="Lecture",
+            chapter_label_la="Lectio",
             group_titles_en=[f"Chapter {n}" for n in range(1, 22)] + ["Appendix"],
             group_titles_la=[f"Caput {n}" for n in range(1, 22)] + ["Appendix"],
         ),
@@ -2306,8 +2609,9 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio Thomae ad litteram super Iob, quaestionem providentiae considerans. Composita Urbeveteri, in curia papali.",
             translator_note_en="English translation by Brian Mulladay, ed. by The Aquinas Institute. Translation status: may be under copyright; mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["SSJob.htm"],
-            chapter_label_en="Chapter",
-            chapter_label_la="Caput",
+            chapter_label_en="Lecture",
+            chapter_label_la="Lectio",
+            pauline_anchors=True,
         ),
         "biblical/super-iob",
     ),
@@ -2378,8 +2682,50 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
                 "PsalmsAquinas/ThoPs52H53.htm", "PsalmsAquinas/ThoPs53H54.htm",
                 "PsalmsAquinas/ThoPs54H55.htm",
             ],
-            chapter_label_en="Psalm",
-            chapter_label_la="Psalmus",
+            chapter_label_en="Section",
+            chapter_label_la="Sectio",
+            group_titles_en=[
+                "Prologue",
+                "Psalm 1", "Psalm 2", "Psalm 3", "Psalm 4", "Psalm 5",
+                "Psalm 6", "Psalm 7", "Psalm 8", "Psalm 9",
+                "Psalm 10 (Vulg. 11)", "Psalm 11 (Vulg. 12)",
+                "Psalm 12 (Vulg. 13)", "Psalm 13 (Vulg. 14)",
+                "Psalm 14 (Vulg. 15)", "Psalm 16 (Vulg. 17)",
+                "Psalm 17 (Vulg. 18)", "Psalm 18 (Vulg. 19)",
+                "Psalm 19 (Vulg. 20)", "Psalm 20 (Vulg. 21)",
+                "Psalm 21 (Vulg. 22)", "Psalm 22 (Vulg. 23)",
+                "Psalm 23 (Vulg. 24)", "Psalm 26 (Vulg. 27)",
+                "Psalm 28 (Vulg. 29)", "Psalm 29 (Vulg. 30)",
+                "Psalm 33 (Vulg. 34)", "Psalm 34 (Vulg. 35)",
+                "Psalm 35 (Vulg. 36)",
+                "Psalm 42 (Vulg. 43)",
+                "Psalm 46 (Vulg. 47)", "Psalm 47 (Vulg. 48)",
+                "Psalm 48 (Vulg. 49)", "Psalm 49 (Vulg. 50)",
+                "Psalm 50 (Vulg. 51)", "Psalm 51 (Vulg. 52)",
+                "Psalm 52 (Vulg. 53)", "Psalm 53 (Vulg. 54)",
+                "Psalm 54 (Vulg. 55)",
+            ],
+            group_titles_la=[
+                "Prologus",
+                "Psalmus 1", "Psalmus 2", "Psalmus 3", "Psalmus 4", "Psalmus 5",
+                "Psalmus 6", "Psalmus 7", "Psalmus 8", "Psalmus 9",
+                "Psalmus 10 (Vulg. 11)", "Psalmus 11 (Vulg. 12)",
+                "Psalmus 12 (Vulg. 13)", "Psalmus 13 (Vulg. 14)",
+                "Psalmus 14 (Vulg. 15)", "Psalmus 16 (Vulg. 17)",
+                "Psalmus 17 (Vulg. 18)", "Psalmus 18 (Vulg. 19)",
+                "Psalmus 19 (Vulg. 20)", "Psalmus 20 (Vulg. 21)",
+                "Psalmus 21 (Vulg. 22)", "Psalmus 22 (Vulg. 23)",
+                "Psalmus 23 (Vulg. 24)", "Psalmus 26 (Vulg. 27)",
+                "Psalmus 28 (Vulg. 29)", "Psalmus 29 (Vulg. 30)",
+                "Psalmus 33 (Vulg. 34)", "Psalmus 34 (Vulg. 35)",
+                "Psalmus 35 (Vulg. 36)",
+                "Psalmus 42 (Vulg. 43)",
+                "Psalmus 46 (Vulg. 47)", "Psalmus 47 (Vulg. 48)",
+                "Psalmus 48 (Vulg. 49)", "Psalmus 49 (Vulg. 50)",
+                "Psalmus 50 (Vulg. 51)", "Psalmus 51 (Vulg. 52)",
+                "Psalmus 52 (Vulg. 53)", "Psalmus 53 (Vulg. 54)",
+                "Psalmus 54 (Vulg. 55)",
+            ],
         ),
         "biblical/super-psalmos",
     ),

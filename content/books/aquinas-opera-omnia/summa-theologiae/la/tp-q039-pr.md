@@ -1,17 +1,13 @@
-# Quaestio 39 — Deinde considerandum est de baptizatione Christi. Et circa hoc quaeruntur octo.
+# Quaestio 39
 
-Primo, utrum Christus debuerit baptizari.
+***Deinde considerandum est de baptizatione Christi. Et circa hoc quaeruntur octo.***
 
-Secundo, utrum debuerit baptizari Baptismo Ioannis.
+Primo, utrum Christus debuerit baptizari.  
 
-Tertio, de tempore Baptismi.
-
-Quarto, de loco.
-
-Quinto, de hoc quod sunt ei caeli aperti.
-
-Sexto, de spiritu sancto apparente in specie columbae.
-
-Septimo, utrum illa columba fuerit verum animal.
-
-Octavo, de voce paterni testimonii.
+- Secundo, utrum debuerit baptizari Baptismo Ioannis.
+- Tertio, de tempore Baptismi.
+- Quarto, de loco.
+- Quinto, de hoc quod sunt ei caeli aperti.
+- Sexto, de spiritu sancto apparente in specie columbae.
+- Septimo, utrum illa columba fuerit verum animal.
+- Octavo, de voce paterni testimonii.

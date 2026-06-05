@@ -1,5 +1,7 @@
-# Question 138 — We must now consider the vices opposed to perseverance; under which head there are two points of inquiry:
+# Question 138 — The Vices Opposed to Perseverance
 
-(1) Of effeminacy;
+We must now consider the vices opposed to perseverance; under which head there are two points of inquiry:  
 
-(2) Of pertinacity.
+(1) Of effeminacy;  
+
+- (2) Of pertinacity.

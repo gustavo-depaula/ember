@@ -1,7 +1,8 @@
-# Question 15 — We must now consider the vices opposed to knowledge and understanding. Since, however, we have treated of ignorance which is opposed to knowledge, when we were discussing the causes of sins (FS, Question [76]), we must now inquire about blindness of mind and dulness of sense, which are opposed to the gift of understanding; and under this head there are three points of inquiry:
+# Question 15 — The Vices Opposed to Knowledge and Understanding
 
-(1) Whether blindness of mind is a sin?
+We must now consider the vices opposed to knowledge and understanding. Since, however, we have treated of ignorance which is opposed to knowledge, when we were discussing the causes of sins (I-II, Q. 76), we must now inquire about blindness of mind and dullness of sense, which are opposed to the gift of understanding; and under this head there are three points of inquiry:  
 
-(2) Whether dulness of sense is a sin distinct from blindness of mind?
+(1) Whether blindness of mind is a sin?  
 
-(3) Whether these vices arise from sins of the flesh?
+- (2) Whether dullness of sense is a sin distinct from blindness of mind?
+- (3) Whether these vices arise from sins of the flesh?

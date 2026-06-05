@@ -1,13 +1,13 @@
-# Quaestio 25 — Post considerationem divinae scientiae et voluntatis, et eorum quae ad hoc pertinent, restat considerandum de divina potentia. Et circa hoc quaeruntur sex.
+# Quaestio 25
 
-Primo, utrum in Deo sit potentia.
+Post considerationem divinae scientiae et voluntatis, et eorum quae ad hoc pertinent, restat considerandum de divina potentia.  
 
-Secundo, utrum eius potentia sit infinita.
+Et circa hoc quaeruntur sex.  
 
-Tertio, utrum sit omnipotens.
+Primo, utrum in Deo sit potentia.  
 
-Quarto, utrum possit facere quod ea quae sunt praeterita, non fuerint.
-
-Quinto, utrum Deus possit facere quae non facit, vel praetermittere quae facit.
-
-Sexto, utrum quae facit, possit facere meliora.
+- Secundo, utrum eius potentia sit infinita.
+- Tertio, utrum sit omnipotens.
+- Quarto, utrum possit facere quod ea quae sunt praeterita, non fuerint.
+- Quinto, utrum Deus possit facere quae non facit, vel praetermittere quae facit.
+- Sexto, utrum quae facit, possit facere meliora.

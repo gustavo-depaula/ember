@@ -1,9 +1,9 @@
-# Question 98 — We must now consider perjury: under which head there are four points of inquiry:
+# Question 98 — Perjury
 
-(1) Whether falsehood is necessary for perjury?
+***We must now consider perjury: under which head there are four points of inquiry:***
 
-(2) Whether perjury is always a sin?
+(1) Whether falsehood is necessary for perjury?  
 
-(3) Whether it is always a mortal sin?
-
-(4) Whether it is a sin to enjoin an oath on a perjurer?
+- (2) Whether perjury is always a sin?
+- (3) Whether it is always a mortal sin?
+- (4) Whether it is a sin to enjoin an oath on a perjurer?

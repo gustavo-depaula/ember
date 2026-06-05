@@ -1,5 +1,7 @@
-# Quaestio 92 — Deinde considerandum est de effectibus legis. Et circa hoc quaeruntur duo.
+# Quaestio 92
 
-Primo, utrum effectus legis sit homines facere bonos.
+***Deinde considerandum est de effectibus legis. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum effectus legis sint imperare, vetare, permittere et punire, sicut legisperitus dicit.
+Primo, utrum effectus legis sit homines facere bonos.  
+
+- Secundo, utrum effectus legis sint imperare, vetare, permittere et punire, sicut legisperitus dicit.

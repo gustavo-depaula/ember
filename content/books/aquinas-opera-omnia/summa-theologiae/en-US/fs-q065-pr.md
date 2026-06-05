@@ -1,11 +1,10 @@
-# Question 65 — We must now consider the connection of virtues: under which head there are five points of inquiry:
+# Question 65 — Of the Connection of Virtues
 
-(1) Whether the moral virtues are connected with one another?
+We must now consider the connection of virtues: under which head there are five points of inquiry:  
 
-(2) Whether the moral virtues can be without charity?
+(1) Whether the moral virtues are connected with one another?  
 
-(3) Whether charity can be without them?
-
-(4) Whether faith and hope can be without charity?
-
-(5) Whether charity can be without them?
+- (2) Whether the moral virtues can be without charity?
+- (3) Whether charity can be without them?
+- (4) Whether faith and hope can be without charity?
+- (5) Whether charity can be without them?

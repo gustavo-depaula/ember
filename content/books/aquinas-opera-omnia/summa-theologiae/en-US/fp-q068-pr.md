@@ -1,9 +1,9 @@
-# Question 68 — We must next consider the work of the second day. Under this head there are four points of inquiry:
+# Question 68 — The Work of the Second Day
 
-(1) Whether the firmament was made on the second day?
+We must next consider the work of the second day. Under this head there are four points of inquiry:  
 
-(2) Whether there are waters above the firmament?
+(1) Whether the firmament was made on the second day?  
 
-(3) Whether the firmament divides waters from waters?
-
-(4) Whether there is more than one heaven?
+- (2) Whether there are waters above the firmament?
+- (3) Whether the firmament divides waters from waters?
+- (4) Whether there is more than one heaven?

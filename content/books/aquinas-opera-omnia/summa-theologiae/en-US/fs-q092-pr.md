@@ -1,5 +1,7 @@
-# Question 92 — We must now consider the effects of law; under which head there are two points of inquiry:
+# Question 92 — Of the Effects of Law
 
-(1) Whether an effect of law is to make men good?
+We must now consider the effects of law; under which head there are two points of inquiry:  
 
-(2) Whether the effects of law are to command, to forbid, to permit, and to punish, as the Jurist states?
+(1) Whether an effect of law is to make men good?  
+
+- (2) Whether the effects of law are to command, to forbid, to permit, and to punish, as the Jurist states?

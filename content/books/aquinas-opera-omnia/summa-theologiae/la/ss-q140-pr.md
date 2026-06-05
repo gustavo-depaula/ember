@@ -1,5 +1,7 @@
-# Quaestio 140 — Deinde considerandum est de praeceptis fortitudinis.
+# Quaestio 140
 
-Et primo, de praeceptis ipsius fortitudinis.
+***Deinde considerandum est de praeceptis fortitudinis.***
 
-Secundo, de praeceptis partium eius.
+Et primo, de praeceptis ipsius fortitudinis.  
+
+- Secundo, de praeceptis partium eius.

@@ -1,105 +1,99 @@
-# C. 41 - Ishmael’s treachery
+# C. 39 - The capture of Jerusalem
+
+***The capture of Jerusalem***
 
 ***Lecture 1***
 
-***Ishmael murders Gedaliah***
+***Jerusalem captured***
 
-***^41:1^ And it came to pass in the seventh month, that Ishmael, the son of Nathaniah, the son of Elishamah, of royal blood, came and ten men with him, to Gedaliah, the son of Ahicam, in Mizpah, and they ate bread there together in Mizpah.***
+^39:1^ In the ninth year of Zedekiah, king of Judah, in the tenth month, Nebuchadnezzar, king of Babylon, and all his army, came to Jerusalem, and they besieged it.  
 
-> ^41:2^ But Ishmael, the son of Nathaniah, arose, and the ten men who were with him, and struck Gedaliah, the son of Ahicam, with the sword, and slew him, whom the king of Babylon had set over the land.
+> ^39:2^ Moreover, in the eleventh year of Zedekiah, in the fourth month, on the fifth day of the month, the city was breached.
 
-> ^41:3^ And Ishmael struck also all the Jews who were with Gedaliah in Mizpah, and the Chaldeans who were found there, and the men of war.
+> ^39:3^ And all the princes of the king of Babylon entered and sat in the middle gate: Neregel, Sereser, Semegar-nabu, Sarsachim, Rab-sares, Neregel, Sereser, Rab-mag, *(This English translation here follows the Vulgate, but a more plausible rendering of this list of names would be as follows: *Neregel-Sereser of Semegar, Nabu-Sarsachim the Rab-sares, Neregel-Sereser the Rab-mag*. “Rab-saris” and “Rab-mag” are both titles; “Rab-saris” perhaps means “chief eunuch,” while “Rab-mag” perhaps means “chief soothsayer” or “high priest.” See note at Jeremiah 39:13 below.)* and all the other princes of the king of Babylon.
 
-> **209**. Here, the disturbance of the assembled people by the wickedness of Ishmael is spoken of:
+> ^39:4^ And when Zedekiah, the king of Judah, had seen them, and all the men of war, they fled; and they went out by night from the city by way of the garden of the king, and through the gate which was between the two walls, and they went out to the way of the desert.
 
-first, the deceitful slaughter of certain men is mentioned;
+> ^39:5^ But the army of the Chaldeans pursued them, and seized Zedekiah in the field of the wilderness of Jericho, and led him bound to Nebuchadnezzar king of Babylon, in Reblath, which is in the land of Emath; and he spoke judgments to him.
 
-second, the burial of their bodies, at ***now the pit into which Ishmael had cast all the bodies of the men . . . is that which king Asa had made*** (Jer 41:9);
+> ^39:6^ And the king of Babylon killed the sons of Zedekiah before his eyes; and the king of Babylon killed all the nobles of Judah.
 
-third, the violent capture of the others, at ***and Ishmael led captive*** (Jer 41:10).
+> ^39:7^ He also gouged out the eyes of Zedekiah and bound him with shackles that he should be led to Babylon.
 
-Concerning the first, there are two points.
+> ^39:8^ The Chaldeans also burned the house of the king and the house of the people with fire, and cast down the walls of Jerusalem.
 
-First, the slaughter of the leader and his household is mentioned;
+> ^39:9^ And Nebuzaradan, the captain of the guard, took the remnant of the people who had remained in the city, and the deserters who had fled over to him, and the rest of the people who had stayed to Babylon.
 
-second, the slaughter of all his followers, at ***and on the second day*** (Jer 41:4).
+> **204**. Here is given the ordering of the remnant of the people, after the people themselves were taken captive. It is divided into three parts.
 
-Concerning the first, there are three points.
+In the first is given the captivity;  
 
-First, he speaks of the ruse of feigned peace: ***of royal blood***, because of which Ishmael was moved by envy against him whom he saw set over the Jews, when he himself had been passed over by the king. *There is a friend who is a companion at table, but he shall not remain in the day of trouble* (Sir 6:10).
+in the second, the preservation of the remnant: ***the word which came to Jeremiah from the Lord*** (Jer 40:1);  
 
-Second, he speaks of the murder of the leader: they ***arose*** from the table, ***the ten men, and struck***, while the others suspected nothing of the kind. *Not as cowards are wont to die, has Abner died* (2 Sam 3:33).
+in the third, the ordering of the remnant: ***and all the captains of the men at war came near*** (Jer 42:1).  
 
-Third, he speaks of the slaughter of his household: ***Ishmael struck also all the Jews who were with Gedaliah***. *Of one spark comes a great fire, and of one deceitful man much blood* (Sir 11:34).
+Concerning the former, there are two points.  
 
-Lecture 2
+First, the captivity of the people is spoken of;  
 
-***Ishmael murders the pilgrims***
+second, the liberation of certain men, at ***but some of the poor people, who had nothing within*** (Jer 39:10).  
 
-***^41:4^ And on the second day after he had slain Gedaliah, while as yet no one knew of it,***
+Concerning the former, there are three points.  
 
-> ^41:5^ men came from Shechem, and Shiloh, and from Samaria, eighty men with shaven beards, and torn and soiled garments. And they brought giftsHeb. מִנְחָה: specifically refers to any one of four grain offerings; cf. Leviticus 2. and incense to offer in the house of the Lord.
+First, he speaks of the siege: ***and they besieged***. *And I shall make a circle round about you, and cast up a mound against you, and raise up bulwarks to besiege you* (Isa 29:3).  
 
-> ^41:6^ And Ishmael, the son of Nathaniah, went out to meet them from Mizpah, weeping as he went. And when he had met them, he said to them, ‘Come to Gedaliah, the son of Ahicam.’
+Second, he speaks of the taking of the city: ***in the eleventh year, in the fourth month***, that is, in July. Nevertheless, it was burned in the fifth month, on the seventh day of the month, as it is related in 2 Kings 25:8, *on the fifth day of the month*. Contrary to this, it is said in 2 Kings 25:3 that it was on the ninth of the month. It could have been that people began to flee because of hunger on the fifth day, and that on the ninth day the city was breached, its guards having been removed; and because they first took the outer wall, it was then as if the city had been taken, and afterward, they took the city.  
 
-> ^41:7^ Then, when they had come into the midst of the city, Ishmael, the son of Nathaniah, slew them and cast them into the midst of a pit, he and the men who were with him.
+For this reason, the text continues: ***and all the princes sat in the middle gate***, that is, in the midst of the two walls; alternatively, one which was between two gates on the same side of the city. Above: ***each one shall place his sole in the entry of the gates of Jerusalem, and upon all her walls round about, and upon all the cities of Judah*** (Jer 1:15).  
 
-> ^41:8^ But ten men were found among them, who said to Ishmael, ‘Do not kill us, for we have stores in the field of grain and barley, and oil, and honey.’ So he stopped and did not kill them with their brothers.
+He also speaks of the taking of the king when he notes his flight: ***and when Zedekiah, the king of Judah, had seen them, and all the men of war, they fled; and they went out by night from the city by way of the garden of the king, and through the gate which was between the two walls***, which were joined to the wall of the city near the house of the king and surrounded the royal garden, between which there was both a road and a gate equidistant from one another. *Her princes have become like rams which find no pasture; they have gone away without strength before the face of the pursuer* (Lam 1:6).  
 
-> **210**. Here, he speaks of the slaughter of the pilgrims.
+And he subjoins their capture: ***but the army of the Chaldeans pursued them***. *Our pursuers were swifter than the eagles of the sky* (Lam 4:19).  
 
-First, he describes their appearance with regard to being in mourning: ***with shaven beards***. *Her priests sigh* (Lam 1:4). *The Lord has brought great mourning upon me* (Bar 4:9). And with regard to the votive offering: ***gifts***, they had; ***incense***, which was offered with every offering (Lev 2). ***In the house of the Lord***, that is, in the place of the temple. *They shall worship him with sacrifices and gifts, and they shall swear vows to the Lord, and perform them* (Isa 19:21).
+Third, he speaks of the condemnation of the captives:  
 
-Second, he speaks of the slaughter, first noting the deceit in his feigned grief: ***Ishmael went out weeping***. *Though he humble himself, and go bowed down, take good heed, and beware of him* (Sir 12:11). And in his deceitful counsel: ***and when he had met them***. *A false tongue loves not the truth, and a slippery mouth works destruction* (Prov 26:28).
+first, of the king, and of the princes, to death: ***and led*** the king ***bound to Nebuchadnezzar***, for the pronouncing of sentence: ***and he spoke judgments to him***. *I shall judge you with the judgments of adulteresses, and of those who spill blood* (Ezek 16:38).  
 
-And he subjoins the murder: ***then, when they had come into the midst of the city, Ishmael slew them***. *My life has fallen into the pit, and they have laid a stone over me* (Lam 3:53). *Blood has touched blood* (Hos 4:2).
+And the execution of the sentence of the princes: ***and the king killed***.  
 
-Third, he speaks of the liberation of certain men because of the promise of riches which they said they had: ***but ten men***. *The ransom of a man’s life are many riches, but he that is poor bears no reproach* (Prov 13:8).
+And the blindness of his eyes: ***he also gouged out the eyes of Zedekiah . . . that he should be led to Babylon***. One finds the same in 2 Kings 25.  
 
-Lecture 3
+Second, the condemnation of the city to destruction: ***the Chaldeans also burned the house of the king and the house of the people with fire***. *He cast down all her walls, and destroyed all her bulwarks* (Lam 2:5).  
 
-***Ishmael fills the pit with bodies***
+Third, the condemnation of the people to exile: ***and Nebuzaradan, the captain of the guard, took the remnant of the people . . . to Babylon***. *My delicate ones have walked rough ways, for they were taken away as a flock made a prey by the enemies* (Lam 4:26).  
 
-***^41:9^ Now the pit into which Ishmael had cast all the bodies of the men whom he had slain by the side of Gedaliah is that which king Asa had made because of Baasa king of Israel; the same Ishmael, the son of Nathaniah, filled with the slain.***
+Lecture 2  
 
-> **211**. Here, he speaks of the burial of their bodies: ***king Asa***. In 1 Kings 15:22, it is said that Asa caused Geba of Benjamin in Mizpah to be built from the materials which Baasha had prepared for the fortification of Ramah against him, and as it happens, he had made a cistern for the defense of the city. *I am reckoned with those that go down into the pit, I am become as a man without helper, free among the dead* (Ps 87:4–5).
+***Those left at liberty***
 
-Lecture 4
+^39:10^ But some of the poor people, who had nothing within, Nebuzaradan the captain of the guard left in the land of Judah, and gave them vineyards and cisterns on that day.  
 
-***Johanan recovers Ishmael’s men***
+> ^39:11^ But Nebuchadnezzar, king of Babylon, had commanded Nebuzaradan, captain of the guard, concerning Jeremiah, saying:
 
-***^41:10^ And Ishmael led all the remnant of the people who were in Mizpah captive, the daughters of the king, and all those who remained in Mizpah, whom Nebuzaradan had entrusted to Gedaliah, the son of Ahicam. And Ishmael, the son of Nathaniah, took them and went to cross over to the children of Ammon.***
+> ^39:12^ ‘Take him, and put your eyes upon him, but do no evil to him; but do unto him as he shall wish.’
 
-> ^41:11^ Moreover, Johanan, the son of Kareah, and all the captains of the men of war who were with him, heard of all the evil which Ishmael, the son of Nathaniah, had done.
+> ^39:13^ Therefore, Nebuzaradan, captain of the guard, sent, and Nebushazban, and Rab-sares, and Neregel, and Sereser, and Rab-mag, *(A more plausible rendering of the Hebrew text would be as follows: *Nebushazban the Rab-sares and Neregel-Sereser the Rab-mag*. As above at Jeremiah 39:3, the Vulgate here treats “Rab-saris” and “Rab-mag” as the names of other men, but in fact, they are titles. Neregel-Sareser is the “Rab-mag,” meaning perhaps “chief soothsayer” or “high priest”; Nebushazban is the “Rab-saris,” meaning perhaps “chief eunuch.” Thus, Nebushazban may be another form of Nabu-Sarsachim (Jer 39:3). Ashpenaz, in Daniel 1:3, perhaps held the same position as Nebushazban’s predecessor.)* and all the nobles of the king of Babylon,
 
-> ^41:12^ And having taken all their men, they set out to wage war against Ishmael, the son of Nathaniah. And they found him by the many waters that are in Gibeon.
+> ^39:14^ they sent, and took Jeremiah from the vestibule of the prison, and handed him over to Gedaliah, the son of Ahicam, the son of Shaphan, *(Gedaliah is the son of Ahicam, who, in Jeremiah 26:24, protected Jeremiah from being put to death; Ahicam is the son of Shaphan, who, as we read in 2 Kings 22, had helped restore the Temple and the Law. Ahicam’s brother, Gemariah, urges the king not to burn Jeremiah’s book in 36:25. Thus, Gedaliah represents a family that has long been faithful to the prophets of the Lord.)* and sent him to his house, and he dwelt among the people.
 
-> ^41:13^ And when all the people who were with Ishmael saw Johanan, the son of Kareah, and all the captains of the men of war, who were with him, they rejoiced.
+> ^39:15^ Moreover, the word of the Lord had come to Jeremiah when he was shut up in the vestibule of the prison, saying:
 
-> ^41:14^ And all the people whom Ishmael had taken turned back to Mizpah, and having returned, they went to Johanan, the son of Kareah.
+> ^39:16^ go, and say to Ebed-Melech the Ethiopian, saying: ‘Thus says the Lord, God of Israel: behold, I shall bring my words upon this city for evil, and not for good, and they shall be in your sight on that day.
 
-> ^41:15^ But Ishmael fled with eight men from the face of Johanan, and went to the children of Ammon.
+> ^39:17^ And I will free you on that day, says the Lord, and you shall not be handed over into the hands of the men whom you fear.
 
-> ^41:16^ Therefore, Johanan, the son of Kareah, and all the captains of the men of war who were with him, took the whole remnant of the people which he had recovered from Ishmael, the son of Nathaniah, from Mizpah after he struck Gedaliah, the son of Ahicam: mighty men of war, and women, and children, and eunuchs, whom he had brought back from Gibeon.
+> ^39:18^ But I shall surely free you, and you shall not fall by the sword, but your life shall be saved for you, says the Lord.’
 
-> ^41:17^ And they went and dwelt as sojourners in Chimham near Bethlehem, that they might continue on, and enter into Egypt,
+> **205**. Here, he speaks of the liberation of certain people.
 
-> ^41:18^ from the face of the Chaldeans, for they feared them, because Ishmael, the son of Nathaniah, had struck down Gedaliah, the son of Ahicam, whom the king of Babylon had set over the land of Judah.
+First, ***of the poor people, who had nothing within . . . and gave them vineyards and cisterns***, because the land suffers from a lack of water. Above: ***nevertheless, in those days, says the Lord, I will not make an end of you*** (Jer 5:18).  
 
-> **212**. Here, he speaks of the taking of captives.
+Second, the liberation of the just.  
 
-First, the taking of those who remained is described: ***the remnant***, because he had slain certain men who were of the household of Gedaliah. *Hell has enlarged its soul, and opened its mouth without any end* (Isa 5:14).
+First, of the prophet, when he speaks of the command: ***Nebuchadnezzar had commanded***, and its execution: ***therefore, Nebuzaradan, captain of the guard, sent him . . . to his house***, that is, the prophet’s own house. *(More precisely, it appears that Jeremiah is sent to live in the dwelling-place of Gedaliah, so that now it can be said that he ***dwelt among the people***.)* *The just is freed from distress, and the wicked shall be given up for him* (Prov 11:8). *What the wicked man fears shall come upon him, his desire shall be given to the just* (Prov 10:24). *When the ways of a man are pleasing to the Lord, he shall turn even his enemies to peace* (Prov 16:7).  
 
-Second, he speaks of the liberation, noting the preparation of the liberators: ***Johanan heard***. *Rescue those who are being led to death, and do not cease to free those who are handed over to destruction* (Prov 24:11).
+Second, the liberation of the eunuch: ***moreover, the word of the Lord had come to Jeremiah***.  
 
-To this he adds the liberation of the captives: ***and when all the people who were with Ishmael saw Johanan . . . they rejoiced***. *By the good of the just a city shall be exalted, and in the destruction of the wicked shall be its praise* (Prov 11:10).
+First, he promises liberation from the dominion of the enemy: ***and you shall not be handed over***. *He kept him from his enemies, and made him safe from the deceivers* (Wis 10:12).  
 
-And he notes the escape of their captor: ***but Ishmael fled with eight men***, two having been killed. *Woe to you who plunder, shall you not also be plundered?* (Isa 33:1).
-
-Third, he speaks of their fear; concerning this, there are two points.
-
-First, he notes the sign of their fear—namely, their resolve to flee: ***therefore, Johanan took***. *The wicked man flees, though no one pursues him* (Prov 28:1).
-
-Second, he speaks of the instigation of their fear: ***for they feared them***. *For a troubled conscience always foretells grievous things* (Wis 17:10). *Though there be peace, he always suspects treachery* (Job 15:21).
-
-Chapter 42
+Second, from being slain by the sword: ***and you shall not fall by the sword***. *A thousand shall fall at your side, and ten thousand at your right hand, but to you it shall not approach* (Ps 90:7). Above: ***blessed is the man who trusts in the Lord, and the Lord will be his confidence*** (Jer 17:7). *Believe in the Lord, and he will recover you, and direct your way, and hope in him* (Sir 2:6).

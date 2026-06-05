@@ -1,11 +1,10 @@
-# Question 152 — We must now consider virginity: and under this head there are five points of inquiry:
+# Question 152 — Virginity
 
-(1) In what does virginity consist?
+We must now consider virginity: and under this head there are five points of inquiry:  
 
-(2) Whether it is lawful?
+(1) In what does virginity consist?  
 
-(3) Whether it is a virtue?
-
-(4) Of its excellence in comparison with marriage;
-
-(5) Of its excellence in comparison with the other virtues.
+- (2) Whether it is lawful?
+- (3) Whether it is a virtue?
+- (4) Of its excellence in comparison with marriage;
+- (5) Of its excellence in comparison with the other virtues.

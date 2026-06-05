@@ -1,9 +1,9 @@
-# Quaestio 96 — Deinde considerandum est de superstitionibus observantiarum. Et circa hoc quaeruntur quatuor.
+# Quaestio 96
 
-Primo, de observantiis ad scientiam acquirendam, quae traduntur in arte notoria.
+Deinde considerandum est de superstitionibus observantiarum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, de observantiis quae ordinantur ad aliqua corpora immutanda.
+Primo, de observantiis ad scientiam acquirendam, quae traduntur in arte notoria.  
 
-Tertio, de observantiis quae ordinantur ad coniecturas sumendas fortuniorum vel infortuniorum.
-
-Quarto, de suspensionibus sacrorum verborum ad collum.
+- Secundo, de observantiis quae ordinantur ad aliqua corpora immutanda.
+- Tertio, de observantiis quae ordinantur ad coniecturas sumendas fortuniorum vel infortuniorum.
+- Quarto, de suspensionibus sacrorum verborum ad collum.

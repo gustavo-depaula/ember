@@ -1,157 +1,157 @@
-# Chapter 23
+# Chapter 21
 
-> ^23:2^ Be silent, you that dwell in the island: the trade*Negotiatio*. Vg.: *negotiatores*. DR: “merchants.” of Sidon passing over the sea, have filled you.
+^21:1^ The burden of the desert of the sea. As whirlwinds come from Africa, *(*Africo*. DR: “the south.”)* it comes from the desert from a terrible land.  
 
-> ^23:3^ The seed of the Nile in many waters, the harvest of the river is her revenue: and she is become the mart of the nations.
+> ^21:2^ A hard *(*Dura*. DR: “grievous.”)* vision is told me: he that is unfaithful deals unfaithfully: and he that is a spoiler, spoils. Go up, O Elam, besiege, O Medaba: *(*Medaba*. Vg.: *Mede*. DR: “Mede.”)* I have made all the mourning thereof to cease.
 
-> ^23:4^ Be ashamed, O Sidon: for the sea speaks, even the strength of the sea, saying: I have not been in labor, nor have I brought forth, nor have I nourished up young men, nor brought up virgins.
+> ^21:3^ Therefore are my loins filled with pain, anguish has taken hold of me, as the anguish of a woman in labor: I fell down at the hearing of it, I was troubled at the seeing of it.
 
-> ^23:5^ When it shall be heard in Egypt, they will be sorry when they shall hear of Tyre:
+> ^21:4^ My heart failed, darkness amazed me: Babylon my beloved is set in a wonder to me. *(*Posita est mihi in miraculum*. DR: “is become a wonder to me.”)*
 
-> ^23:6^ Pass over the seas, howl, you inhabitants of the island.
+> ^21:5^ Prepare the table, contemplate *(*Contemplare*. DR: “behold.”)* in the watchtower them that eat and drink: arise, you princes, take up the shield.
 
-> ^23:7^ Is not this yours,*Vestra*. DR: “your city.” which gloried from of old in her antiquity? Her feet shall carry her afar off to sojourn.
+> ^21:6^ For thus has the Lord said to me: go, and set a watchman: and whatsoever he shall see, let him tell.
 
-> ^23:8^ Who has taken this counsel against Tyre, that was formerly crowned, whose merchants were princes, and her traders the nobles of the earth?
+> ^21:7^ And he saw a chariot with two horsemen, a rider upon an ass, and a rider upon a camel: and he beheld them diligently with much heed.
 
-> ^23:9^ The Lord of hosts has designed it, to pull down the pride of all glory, and bring to disgrace all the glorious ones of the earth.
+> ^21:8^ And a lion cried out: I am upon the watchtower of the Lord, standing continually by day: and I am upon my ward, standing whole nights.
 
-> ^23:10^ Pass your land as a river, O daughter of the sea, you have a girdle no more.
+> ^21:9^ Behold this man comes, the rider upon the chariot with two horsemen, and he answered, and said: Babylon is fallen, she is fallen, and all the graven gods thereof are broken unto the ground.
 
-> ^23:11^ He stretched out his hand over the sea, he troubled kingdoms: the Lord has given a charge against Chanaan, to destroy the strong ones thereof.
+> ^21:10^ O my thrashing, and the children of my floor, that which I have heard of the Lord of hosts, the God of Israel, I have declared unto you.
 
-> ^23:12^ And he said: you shall glory no more, O virgin daughter of Sidon, who sustain calumny:*Sustinens calumniam*. DR: “who art oppressed.” arise and sail over to Cethim, there also you shall have no rest.
+> ^21:11^ The burden of Duma calls to me out of Seir: watchman, what of the night? Watchman, what of the night?
 
-> ^23:13^ Behold the land of the Chaldeans, there was not such a people, the Assyrians founded it: they have led away the strong ones thereof into captivity, they have destroyed the houses thereof, they have brought it to ruin.
+> ^21:12^ The watchman said: the morning comes, also the night: if you seek, seek: be converted, *(*Convertimini*. DR: “return.”)* come.
 
-> ^23:14^ Howl, O you ships of the sea, for your strength is laid waste.
+> ^21:13^ The burden in Arabia. In the forest at evening you shall sleep, in the paths of Dodanim.
 
-> ^23:15^ And it shall come to pass in that day that you, O Tyre, shall be forgotten, seventy years, according to the days of one king: but after seventy years, there shall be unto Tyre as the song of a harlot.
+> ^21:14^ Meeting the thirsty bring him water, you that inhabit the land of the south, meet with bread him that flees.
 
-> ^23:16^ Take a harp, go about the city, harlot that have been forgotten: sing well, sing many a song, that you mayst be remembered.
+> ^21:15^ For they are fled from before the swords, from the sword that hung over them, from the bent bow, from the face of a grievous battle.
 
-> ^23:17^ And it shall come to pass after seventy years, that the Lord will visit Tyre, and will bring her back again to her traffic: and she shall commit fornication again with all the kingdoms of the world upon the face of the earth.
+> ^21:16^ For thus says the Lord to me: within a year, according to the years of a hireling, all the glory of Cedar shall be taken away.
 
-> ^23:18^ And her merchandise and her hire shall be sanctified to the Lord: they shall not be kept in store, nor laid up: for her merchandise shall be for them that shall dwell before the Lord, that they may eat unto fullness, and be clothed for a continuance.
+> ^21:17^ And the residue of the number of strong archers of the children of Cedar shall be diminished: for the Lord God has spoken it.
 
-> **547**. ***The burden of Tyre***. In this part he threatens against the Tyrians, who were joined to the people of God by association in trade. And this is divided into two parts:
+> **507**. ***The burden of the desert of the sea***. Here he threatens against the enemies who oppressed them by taking away their goods, although they were joined to them by some treaty. And this is divided into three parts.
 
-first, he threatens the destruction which was carried out by Nabuchodonosor;
+First, against those who were joined to them by a treaty of friendship;  
 
-in the second part, he promises liberation: ***and it shall come to pass after seventy years*** (Isa 23:17).
+in the second, against those who were joined by right of authority, ***the burden of the valley of vision*** (ch. 22);  
 
-Concerning the first, he sets out three things:
+in the third, against those who were joined to them by association in trade, ***the burden of Tyre*** (ch. 23).  
 
-first, the sadness of the compassionate;
+The first of these is divided into two.  
 
-second, the flight of the fearful: ***pass over the seas*** (Isa 23:6);
+In the first, he threatens against foreign friends, namely, the Babylonians, who were friends, and yet plundered their goods, as is evident below (ch. 39);  
 
-third, the punishment of destruction: ***the Lord has given a charge*** (Isa 23:11).
+in the second, he threatens against kindred friends: ***the burden of Duma*** (Isa 21:11).  
 
-**548**. Concerning the first, he sets out three things.
+**508**. Concerning the first of these, he does two things.  
 
-First, the sorrow of the traders, setting out their mourning: ***howl, you ships***, namely Carthaginian ships: *the merchants of the earth have been made rich by the power of her delicacies* (Rev 18:3); and the motive of their mourning: ***the house is destroyed***, that is, Tyre, ***from whence was wont to come***, trade; and also the manner in which they learned of it: ***from the land of Cethim***, that is, Greece*: Alexander . . . coming out of the land of Cethim, had overthrown Darius* (1 Macc 1:1).
+First, the title is set out, ***the burden of the sea***, that is, Babylon, on account of the sound of the multitude of peoples, as above: ***of the desert*** (Isa 17:12), for it will be reduced to solitude: *I will make her sea desolate, I and will dry up her spring* (Jer 51:36); he introduces the threat against them that he might add the manner.  
 
-**549**. Second, he sets out their stupor: ***be silent***, adding three things in which they gloried, namely,
+Second, the prophecy itself is set out,  
 
-in the fortification of their position: ***you that dwell in the island***;
+and first, the vision of the threat is set out;  
 
-in the abundance of their merchandise: ***trade***, that is, in which they trade; ***have filled you***, with riches;
+second, the manner of accepting the vision: ***for thus has the Lord said to me*** (Isa 21:6).  
 
-in abundance of grain: ***the seed of the river Nile***, that is, ***her harvest***, and ***revenue***, namely of Tyre, for much wheat came to them from Egypt, ***and*** therefore ***she is become the mart of the nations***: *say to Tyre that dwells at the entry of the sea, being the mart of the people for many islands* (Ezek 27:3).
+**509**. Concerning the first, he designates four things.  
 
-**550**. Third, he sets out the confusion of their neighbors.
+First, he designates the gravity of the tribulation, presenting a similitude: ***as whirlwinds***, speaking in the voice of Babylon, ***come from Africa, from the desert***, which was to the south, so ***comes*** devastation against me ***from a land***, namely, Persia, ***terrible*** to me: *the Lord’s ways are in a tempest, and a whirlwind* (Nah 1:3). ***A hard vision***, speaking in the person of Babylon: *this saying is hard* (John 6:61).  
 
-And first, of the Sidonians, whose colony Tyre was: ***the sea***, that is, traders of the sea, ***speaks: be you ashamed, O Sidon***, for you did not defend Tyre; for my ***strength***, that is, Tyre, is ***saying: I have not been in labor***, that is: it profited me not to have been in labor, for I was captured. Or otherwise: ***the sea***, that is, ***the strength of the sea***, that is, the traders who were strong on the sea, ***speaks: be you ashamed, O Sidon, saying: I have not been in labor***, in the defense of Tyre. Or otherwise: ***Sidon speaks: O Sea, even the strength of the sea***, that is, Tyre, ***be ashamed***, you, Tyre, ***saying*** what follows. Or ***Sidon saying***: while you may have been born from me, O Tyre, you were captured thus as if I had not labored with you, below: ***I will proceed to cause an admiration*** (Isa 29:14).
+**510**. Second, he designates the devastator.  
 
-**551**. Second, of the Egyptians: ***when it shall be heard in Egypt***: *behold I do a thing in Israel: and whosoever shall hear it, both his ears shall tingle* (1 Sam 3:11).
+And first, as to the condition of their leader: in infidelity. Cyrus, ***he that is unfaithful***, that is, unfaithful to his lord Baltasar, rebelling, and besieging Babylon, trusting in his effeminacy, ***deals unfaithfully***, that is, he will deal unfaithfully, seeing that the city cannot be taken by force, fraudulently making peace and commanding homage to the king of Babylon. When the king of Babylon invited him to a banquet (concerning which, see Daniel 5), he killed him and took the city, bringing his soldiers in through a hole in the city wall, through which a stream flowed, after they had divided its water into many parts. *(Cf. Hugo referencing “Orosium,” which he read in S. Langton (ms. f. 195rb).)* In cruelty: ***he that is a spoiler***; hence in punishment for his cruelty he was suffocated in blood, and it was said to him: you thirsted for blood, so drink blood; *(Cf. Hugo on Isaiah 52:14, from P. Comestor *Hist. scholastica* Daniel chapter 19 (PL 198, 1474C).)* *behold, he that is unbelieving, his soul shall not be right in himself* (Hab 2:4).  
 
-**552**. ***Pass over the seas***. Here he foretells the flight of the fearful, as to those who, when Nabuchodonosor was attacking the city, fled into Egypt with their ships.
+Second, as to his departure from the region: ***go up, O Elam***, a Persian city and province; ***Medaba***, a city in Media, ***besiege*** Babylon: speaking in the voice of the Lord: *go up against her, all nations* (Jer 51:28).  
 
-And first, he exhorts them to flight,
+Third, the power of the enemy: ***I have made all the mourning thereof***, that is, of Babylon, ***to cease***, so that they do not even dare to mourn, above: ***there was none that moved the wing, or opened the mouth, or made the least noise*** (Isa 10:14); or because he makes his own to mourn.  
 
-second, to constancy or haste of flight: ***pass your land*** (Isa 23:10).
+**511**. Third, he designates the compassion of the prophet himself, which he designates as to the body, to which the affections of the mind redound, and this as to the feeling of pain: ***therefore are my loins filled with pain***, that is, I suffer thus like one who suffers pain in the kidneys: *there were pains as of a woman in labor* (Ps 47:7[48:6]); and as to falling: ***I fell down***; and as to troubled expression: ***I was troubled***: *I was troubled, and I spoke not* (Ps 76:5[77:4]; *I am troubled in my exercise* (Ps 54:3[55:2]).  
 
-Concerning the first, he does three things.
+Second, as to the affections: ***my heart***, that is, the affections, ***failed***, in sadness: *my bowels are in pain* (Jer 4:19).  
 
-First, the flight of the fearful: ***pass over***, you who flee, ***howl***, you who remain, above: ***the branches thereof are left, they are gone over the sea*** (Isa 16:8).
+Third, as to astounded understanding: ***darkness***, that is, the troubles I have foreseen, ***amazed me***, as if I were in darkness: *every one that shall pass by Babylon, shall be astonished, and shall hiss at all her plagues* (Jer 50:13). ***Babylon my beloved***, at that time, although afterwards, Babylon was an enemy, ***is set in a wonder***, that is, in astonishment. *And I wondered, when I had seen her, with great astonishment* *(*Admiratione*. DR: “admiration.”)* (Rev 17:6).  
 
-Second, the ignominy of those who remain: ***is this not***; and concerning this, he does two things.
+**512**. Fourth, he designates the manner and condition of the destruction, saying: O Babylon, ***prepare the table***, inviting Cyrus and Darius to the banquet, ***contemplate***, that is, see, ***in the watchtower***, that is, in the writing of the hand that writes, *Mane, Thecel, Phares* (Dan 5:25) in the clear light of the Lord; ***you princes***, namely, O Cyrus, O Darius, ***that eat and drink***, with him, ***arise***, strengthened by the vision, ***take up the shield*** and kill him: *prepare the shield and buckler* (Jer 46:3).  
 
-First, he foretells their ignominy,
+**513**. Or otherwise, the words of the Lord: O prophet, ***prepare the table***, that is, announce that it is prepared, ***in the watchtower***, that is, in the spirit of prophecy, as above. Or the words of Cyrus: ***prepare the table***, make haste, you Persians, give your horses their ration, that you may be prepared; you, watchman, ***contemplate***, what may happen in the treatise; you, my ***princes*, *eat***. And this stands even if it is not maintained that Cyrus and Darius were at the banquet, as some say, maintaining that the festival happened in the city, and was given over to pleasure; either they reclined at table because of the festival, or because of a truce, or once they had the victory, or because of the help that they had received, at night they attacked the city.  
 
-recalling first their former glory: ***is not this yours***, namely, your city?
+**514**. Note on the words, ***contemplate in the watchtower***, *(*Specula*.)* that man ought to contemplate in the mirror *(*Speculo*.)* of the mind  
 
-***Her feet shall carry her afar off***, as to those taken captive: *my delicate ones have walked rough ways* (Bar 4:26).
+first, the sins which he has committed, that he may mourn: *set you up a watchtower, make to you bitterness: direct your heart into the right way* (Jer 31:21);  
 
-Third, wonder, setting out first the question of the wonderer: ***who knew this one crowned***, as though queen of other cities; ***whose merchants were princes***, because of their excessive luxuries: *how are you fallen, that dwell in the sea, renowned city that was strong in the sea, with your inhabitants?* (Ezek 26:17).
+second, the punishments he has merited, that he may fear: *the day of your inspection, your visitation comes* (Mic 7:4);  
 
-And he adds the response: ***the Lord of hosts has designed it, to pull down the pride of all glory***: *scatter the proud in your indignation, and behold every arrogant man, and humble him* (Job 40:6).
+third, the benefits which God has conferred on him, that he may give thanks, below: ***the voice of your watchmen: they have lifted up their voice, they shall praise together: for they shall see eye to eye when the Lord shall convert Zion*** (Isa 52:8);  
 
-**553**. ***Pass your land***. Here he exhorts them to flee quickly.
+fourth, the commands God has enjoined, that he may fulfill them: *the watchman of Ephraim* (Hos 9:8);  
 
-And first, he sets out the exhortation: ***pass your land as a river***, which is crossed quickly by boat: *furnish yourself to go into exile,*Transmigrationis*. DR: “captivity.” you daughter inhabitant of Egypt* (Jer 46:19).
+fifth, the rewards which God has promised, that he may possess them. *We were eyewitnesses of his greatness. For he received from God the Father honor and glory* (2 Pet 1:16–17).  
 
-Second, he assigns the reason on their own part: ***you have a girdle***, that is, strength, ***no more***: *behold I have made you small among the nations* (Obad 1:2). Otherwise, on the part of God: ***he stretched out his hand over the sea***, above: ***the Lord shall lay waste the tongue of the sea of Egypt*** (Isa 11:15).
+**515**. ***For thus has the Lord said to me***. Here he sets out the manner of accepting this vision, and concerning this, he does four things.  
 
-**554**. ***The Lord has given a charge***. Here he threatens destruction.
+First, the divine command is set out: ***go, and set a watchman***, you yourself, or your disciple, whom the Hebrews say was Habakkuk; ***whatsoever he shall see***, in the prophetic spirit, or bodily: *son of man, I have made you a watchman to the house of Israel* (Ezek 3:17).  
 
-And first, the scourge of persecution;
+**516**. Second, the vision is set out,  
 
-second, he foretells the mourning of compassion: ***howl*** (Isa 23:14);
+and first, he sets out the thing that was seen: ***and he saw a chariot with two horsemen***, which was usually pulled by two horses, signifying the army of two kingdoms; ***a rider***, namely of chariots, ***upon an ass***, the kingdom of the Persians, which formerly was ignoble, ***a camel***, the kingdom of the Medes, which was always lofty: as if these two animals were yoked together to a chariot in the place of two horses.  
 
-third, he designates the time of destruction: ***and it shall come to pass in that day*** (Isa 23:15).
+Second, the diligence of the one who sees: ***and he beheld them diligently***: *set your heart upon all that I shall show you* (Ezek 40:4).  
 
-Concerning the first, he does three things.
+**517**. Third, the declaration is set out: ***and a lion cried out***, a lion according to strength of soul, who formerly was a watchman through eminence of contemplation.  
 
-First, setting out divine indignation, the precept: ***the Lord has given a charge***, to Nabuchodonosor, ***against Chanaan***, in which Tyre is located: *the Lord said to me: go up to this land, and destroy it* (2 Kgs 18:25). And the intended end: ***and he said: you shall glory no more, O virgin daughter of Sidon, who sustain calumny***, accused of pride: *let not the wise man glory in his wisdom, and let not the rich man glory in his riches* (Jer 9:23); and he excludes any remedy: ***arise and sail over to Cethim, there also you shall have no rest***: *neither shall you be quiet, even in those nations, nor shall there be any rest for the sole of your foot* (Deut 28:65).
+And first, he declares his own diligence: ***I am upon the watchtower of the Lord***: *I will stand upon my watch* (Hab 2:1).  
 
-**555**. Second, he sets out the strength of the enemy: ***behold the land of the Chaldeans, there was not such a people***, before them; ***the Assyrians***, or Nabuchodonosor, ***founded it***: *is not this Babylon, which I have built?* (Dan 4:27).
+Second, he declares what he has seen: ***behold this man comes***, as above;  
 
-**556**. Third, he sets out the destruction as to the subjugation of men: ***they have led away the strong ones thereof into captivity***, above: ***their strong ones, and their people, and their high and glorious ones shall go down into it*** (Isa 5:14); as to the destruction of houses: ***they have destroyed the houses***, above: ***it shall be as a ruinous heap of stones*** (Isa 17:1).
+third, the punishment of Babylon: ***Babylon is fallen***: *you are taken, O Babylon, and you were not aware of it* (Jer 50:24).  
 
-**557**. ***Howl***. Here he sets out the mourning (Ezek 27:14). ***And it shall come to pass***. Here he designates the time: ***seventy years, according to the days of one king***, who rarely even lives so long, below: ***the Lord has forsaken me, and the Lord has forgotten me*** (Isa 49:14).
+**518**. Fourth, the declaration of the prophet to the people is set out: ***O my thrashing***, the words of the prophet, or of Christ, that Jerusalem is to be thrashed with many tribulations, ***children of my floor***, that is, the temple, which is located on the thrashing floor of Ornam (2 Sam 24:18); *whatsoever thing he shall answer me, I will declare it to you* (Jer 42:4).  
 
-**558**. ***But after seventy years***. Here he promises liberation.
+**519**. ***The burden of Duma***. Here he threatens against their friends and relatives.  
 
-And first, he sets out the song of the liberated, setting out the time of singing: ***after seventy years*; *as the song of a harlot***, who, cast aside by a man, throws herself about and moves the hearts of others to mercy through songs in which she remembers her former dignity. And he sets out the song as to the instrument: ***take a harp***; as to the place: ***about the city***; as to the manner: ***sing well***; as to the number, ***sing many a song***. He also sets out the fruit: ***that you mayst be remembered***: *it is commonly said: if a man put away his wife, and she go from him, and marry another man, shall he return to her any more?* (Jer 3:1).
+And first, against the Idumeans, who belong to the descendants of Esau the brother of Jacob (Gen 25), and were sometimes friends, as it says in 2 Kings 3:9; *I have heard all your reproaches, that you have spoken against the mountains of Israel* (Ezek 35:12);  
 
-**559**. Second, he promises the benefit of a liberator: ***and it shall come to pass after seventy years*; *that the Lord will visit Tyre, and will bring her back again to her traffic: and she shall commit fornication again***, that is, she shall trade: *I will glorify them* (Jer 30:19).
+second, against the Arabs, who are of the descendants of Ishmael, who was the son of Abraham (Gen 16), where it says, ***the burden in Arabia*** (Isa 21:13).  
 
-On the contrary: Ezekiel 27:36 says of Tyre, *you are brought to nothing, and you shall never be any more*; the Gloss there says, *that is, in memory, which is the life of one man, which is seventy years*; *the days of our years in them are threescore and ten years* (Ps 89[90]:10).
+Concerning the first, he does two things.  
 
-**560**. Third, he sets out the fruit of liberation: ***and her merchandise and her hire shall be***, below: ***for brass I will bring gold, and for iron I will bring silver*** (Isa 60:17).
+First, the inscription is set out, ***the burden of Duma***, that is, of Idumea;  
 
-**561**. Note on the words, ***take a harp*** (Isa 23:16), that the harp signifies an upright life:
+second, the threat, concerning which he does three things.  
 
-first, as the mortification of the flesh, because of the material of the strings: *I will sing to you with the harp, you Holy One of Israel* (Ps 70[71]:22);
+First, their prayer is set out: and these are the words of God to the Idumeans: ***he calls to me out of Seir***, the Jews having been liberated after seventy years of captivity: ***watchman***, you who guard the people of Israel, as though they were sleeping, ***what of the night***, that is, why do you not free us from the night of captivity, as you do for them? And they show their great desire for liberation in the intensity and repetition of their words: *behold he shall neither slumber nor sleep, that keeps Israel* (Ps 120[121]:4).  
 
-second, as to the connection of the virtues, because of the harmony of the song, above: ***my bowels shall sound like a harp for Moab*** (Isa 16:11);
+**520**. Second, the refusal of their petition is set out: ***and the watchman***, namely, God, ***said*: *the morning comes***, the time of liberation for the Jews, ***also the night*** of captivity still remains for the Idumeans: *but over them only was spread a heavy night* (Wis 17:20).  
 
-third, as to the sweetness of good works, because of the joy of the listener: *they take the timbrel, and the harp, and rejoice at the sound of the organ* (Job 21:12).
+**521**. Third, he adds the remedy: ***if you seek***, me, ***seek***, with your whole heart, abandoning idols; or, as in tribulation, so also in prosperity, below: ***seek the Lord, while he may be found*** (Isa 55:6); *be converted to me with all your heart* (Joel 2:12).  
 
-**562**. Note also on the words, ***go about the city*** (Isa 23:16), that man ought to go about the city:
+**522**. Note on the words, ***watchman, what of the night?*** (Isa 21:11), that man ought to guard himself in the day of prosperity from riches:  
 
-first, of his own conscience, by reflecting on his sins: *the mourners shall go round about in the street before the silver cord be broken* (Eccl 12:5–6);
+first, lest he choose them, considering their worthlessness: *the things that were gain to me, the same I have counted loss* (Phil 3:7);  
 
-second, of the Church militant, by imitating the example of the just: *surround Zion, and encompass her* (Ps 47:13[48:12]);
+second, lest he trust in them, considering their vanity: *I saw in all things vanity* (Eccl 2:11);  
 
-third, of our heavenly homeland, by considering the reward of the saints: *I will rise, and will go about the city* (Song 3:2).
+third, lest he boast in them, considering the threat of adversity in them: *in the day of good things be not unmindful of evils* (Sir 11:27[25]).  
 
-**563**. Note also on the words, ***sing well*** (Isa 23:16), that man ought to sing well:
+**523**. Also, he ought to guard himself in the night of adversity, lest he be broken:  
 
-first, cheerfully: *to our God be joyful praise* (Ps 146[147]:1);
+first, considering the affection of the one who strikes him: *my son, reject not the correction of the Lord: and do not faint when you are chastised by him* (Prov 3:11);  
 
-second, attentively: *I will sing with the spirit, I will sing also with the understanding* (1 Cor 14:15);
+second, considering the example of Christ, who was stricken: *think diligently upon him that endured such opposition from sinners against himself* (Heb 12:3);  
 
-third, devoutly: *and the people offered victims, and praises with a devout mind* (2 Chr 29:31).
+third, considering the fruit of the striking: *for that which is at present momentary and light of our tribulation works for us above measure, exceedingly an eternal weight of glory* (2 Cor 4:17).  
 
-**564**. Note also on the words, ***sing many a song*** (Isa 23:16), that we ought to sing many songs:
+**524**. ***The burden in Arabia***. Here he threatens against the Arabs.  
 
-first, because of his greatness: *glorify the Lord as much as ever you can, for he will yet far exceed, and his magnificence is wonderful* (Sir 43:32[30]);
+And first, he indicates the cause of destruction: that when they offered bread to the fleeing sons of Israel, they took away their water. Hence he places the flight of the Jews: O you, Jews, ***in the forest***, of Arabia, ***of Dodanim***, the name of the place: *they wandered in a wilderness, in a place without water: they found not the way of a city* (Ps 106[107]:4). He exhorts them to mercy: ***meeting***, you Arabs; ***the land of the south***, that is, of the noon, *(*Meridies*, which can mean “south” or “noon.”)* below: ***deal your bread to the hungry*** (Isa 58:7). And he places the cause of mercy: ***for they are fled from before the swords***, that they might be moved to mercy: *at the voice of the horsemen, and the archers, all the city is fled away* (Jer 4:29).  
 
-second, because of the multitude of inward goods, *make melody, rejoice and sing* (Ps 97[98]:4);
+**525**. Second, because they refuse to do this, he threatens punishment: ***for thus says the Lord***.  
 
-third, because of the abundance of our sins: *seven times a day I have given praise to you . . . Lord God, destroy me not* (Ps 118[119]:164).Cf. Psalm 27[28]:3.
+And first, by the Assyrians, from whom was authority of destruction of the Jews, and the destruction itself: ***within a year, according to the years of a hireling***, which seems brief to him, in his hope for pay.  
 
-Chapter 24
+Second, by the Chaldeans: ***the residue***, left behind by the Assyrians, ***shall be diminished***, by the Chaldeans; ***Cedar***, the son of Ishmael; ***archers***, following the art of their father, where it is said of Ishmael that he became an archer (Gen 21:20).

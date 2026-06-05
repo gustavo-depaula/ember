@@ -1,17 +1,13 @@
-# Question 49 — We must now consider each quasi-integral part of prudence, and under this head there are eight points of inquiry:
+# Question 49 — Each Quasi-Integral Part of Prudence
 
-(1) Memory;
+We must now consider each quasi-integral part of prudence, and under this head there are eight points of inquiry:  
 
-(2) Understanding or Intelligence;
+(1) Memory;  
 
-(3) Docility;
-
-(4) Shrewdness;
-
-(5) Reason;
-
-(6) Foresight;
-
-(7) Circumspection;
-
-(8) Caution.
+- (2) Understanding or Intelligence;
+- (3) Docility;
+- (4) Shrewdness;
+- (5) Reason;
+- (6) Foresight;
+- (7) Circumspection;
+- (8) Caution.

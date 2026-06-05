@@ -1,241 +1,157 @@
-# Chapter 40
+# Chapter 38
 
-> ^40:2^ Speak to the heart of Jerusalem, and call to her: for her evil is come to an end, her iniquity is forgiven: she has received of the hand of the Lord double for all her sins.
+^38:1^ In those days Ezechias was sick even to death, and Isaiah the son of Amos the prophet came unto him, and said to him: thus says the Lord: take order with your house, for you shall die, and not live.  
 
-> ^40:3^ The voice of one crying in the desert: prepare the way of the Lord, make straight in the wilderness the paths of our God.
+> ^38:2^ And Ezechias turned his face toward the wall, and prayed to the Lord,
 
-> ^40:4^ Every valley shall be exalted, and every mountain and hill shall be made low, and the crooked shall become straight, and the rough ways plain.
+> ^38:3^ and said: I beseech you, O Lord, remember how I have walked before you in truth, and with a perfect heart, and have done that which is good in your sight. And Ezechias wept with great weeping.
 
-> ^40:5^ And the glory of the Lord shall be revealed, and all flesh together shall see, that the mouth of the Lord has spoken.
+> ^38:4^ And the word of the Lord came to Isaiah, saying:
 
-> ^40:6^ The voice of one, saying: cry. And I said: what shall I cry? All flesh is grass, and all the glory thereof as the flower of the field.
+> ^38:5^ go and say to Ezechias: thus says the Lord the God of David your father: I have heard your prayer, and I have seen your tears: behold I will add to your days fifteen years:
 
-> ^40:7^ The grass is withered, and the flower is fallen, because the spirit of God has blown upon it. Indeed the people is grass:
+> ^38:6^ and I will deliver you and this city out of the hand of the king of the Assyrians, and I will protect it.
 
-> ^40:8^ The grass is withered, and the flower is fallen: but the word of our God endures for ever.
+> ^38:7^ And this shall be a sign to you from the Lord, that the Lord will do this word which he has spoken:
 
-> ^40:9^ Get you up upon a high mountain, you that bring good tidings to Zion: lift up your voice with strength, you that bring good tidings to Jerusalem: lift it up, fear not. Say to the cities of Judah: behold your God:
+> ^38:8^ behold I will bring again the shadow of the lines, by which it is now gone down in the sun dial of Achaz with the sun, ten lines backward. And the sun returned ten lines by the degrees by which it was gone down.
 
-> ^40:10^ Behold the Lord God shall come with strength, and his arm shall rule: behold his reward is with him and his work is before him.
+> ^38:9^ The writing of Ezechias king of Judah, when he had been sick, and was recovered of his sickness.
 
-> ^40:11^ He shall feed his flock like a shepherd: he shall gather together the lambs with his arm, and shall take them up in his bosom, and he himself shall carry them that are with young.
+> ^38:10^ I said: in the midst of my days I shall go to the gates of hell: I sought for the residue of my years.
 
-> ^40:12^ Who has measured the waters in the hollow of his hand, and weighed the heavens with his palm? Who has poised with three fingers the bulk of the earth, and weighed the mountains in scales, and the hills in a balance?
+> ^38:11^ I said: I shall not see the Lord God in the land of the living. I shall behold man no more, nor the inhabitant of rest.
 
-> ^40:13^ Who has forwarded the spirit of the Lord? Or who has been his counsellor, and has taught him?
+> ^38:12^ My generation is at an end, and it is rolled away from me, as a shepherd’s tent. My life is cut off, as by a weaver: whilst I was yet but beginning, he cut me off: from morning even to night you will make an end of me.
 
-> ^40:14^ With whom has he consulted, and who has instructed him, and taught him the path of justice, and taught him knowledge, and showed him the way of understanding?
+> ^38:13^ I hoped till morning, as a lion so has he broken all my bones: from morning even to night you will make an end of me.
 
-> ^40:15^ Behold the Gentiles are as a drop of a bucket, and are counted as the smallest grain of a balance: behold the islands are as a little dust.
+> ^38:14^ I will cry like a young swallow, I will meditate like a dove: my eyes are weakened looking upward: Lord, I suffer violence, answer you for me.
 
-> ^40:16^ And Libanus shall not be enough to burn, nor the beasts thereof sufficient for a burnt offering.
+> ^38:15^ What shall I say, or what shall he answer for me, whereas he himself has done it? I will recount to you all my years in the bitterness of my soul.
 
-> ^40:17^ All nations are before him as if they had no being at all, and are counted to him as nothing, and vanity.
+> ^38:16^ O Lord, if man’s life be such, and the life of my spirit be in such things as these, you shall correct me, and make me to live.
 
-> ^40:18^ To whom then have you likened God? Or what image will you make for him?
+> ^38:17^ Behold in peace is my bitterness most bitter: but you have delivered my soul that it should not perish, you have cast all my sins behind your back.
 
-> ^40:19^ Has the workman cast a graven statue? Or has the goldsmith formed it with gold, or the silversmith with plates of silver?
+> ^38:18^ For hell shall not confess to you, neither shall death praise you: nor shall they that go down into the pit, look for your truth.
 
-> ^40:20^ He has chosen strong wood, and that will not rot: the skillful workman seeks how he may set up an idol that may not be moved.
+> ^38:19^ The living, the living, he shall give praise to you, as I do this day: the father shall make the truth known to the children.
 
-> ^40:21^ Do you not know? Has it not been heard? Has it not been told you from the beginning? Have you not understood the foundations of the earth?
+> ^38:20^ O Lord, save me, and we will sing our psalms all the days of our life in the house of the Lord.
 
-> ^40:22^ It is he that sits upon the globe of the earth, and the inhabitants thereof are as locusts: he that stretches out the heavens as nothing, and spreads them out as a tent to dwell in.
+> ^38:21^ Now Isaiah had ordered that they should take a lump of figs, and lay it as a plaster upon the wound, and that he should be healed.
 
-> ^40:23^ He that brings the searchers of secrets to nothing, that has made the judges of the earth as vanity.
+> ^38:22^ And Ezechias had said what shall be the sign that I shall go up to the house of the Lord.
 
-> ^40:24^ And surely their stock was neither planted, nor sown, nor rooted in the earth: suddenly he has blown upon them, and they are withered, and a whirlwind shall take them away as stubble.
+> **771**. ***In those days***. In this part, he sets out some things occasioned by the preceding history, namely, the sickness of Ezechias, which he incurred because of his ingratitude, because after such a victory he did not compose a song of thanksgiving, as was the custom. And this is divided into two parts:
 
-> ^40:25^ And to whom have you likened me, or made me equal, says the Holy One?
+in the first, he sets out his sickness and healing;  
 
-> ^40:26^ Lift up your eyes on high, and see who has created these things: who brings out their host in*In*. DR: “by.” number, and calls them all by their names: by the greatness of his might, and strength, and power, not one of them was missing.
+in the second, he sets out the congratulations of his friends: ***at that time*** (ch. 39).  
 
-> ^40:27^ Why say you, O Jacob, and speak, O Israel: my way is hid from the Lord, and my judgment is passed over from my God?
+Concerning the first, he does three things:  
 
-> ^40:28^ Know you not, or have you not heard? The Lord is the everlasting God, who has created the ends of the earth: he shall not faint, nor labor, neither is there any searching out of his wisdom.
+first, he sets out the sickness;  
 
-> ^40:29^ It is he that gives strength to the weary, and increases force and might to them that are not.
+second, his delivery from it: ***and Ezechias turned his face*** (Isa 38:2);  
 
-> ^40:30^ Youths shall faint, and labor, and young men shall fall by infirmity.
+third, the order of the delivery: ***now Isaiah had ordered*** (Isa 38:21).  
 
-> ^40:31^ But they that hope in the Lord shall change*Mutabunt*. DR: “renew.” their strength, they shall take wings as eagles, they shall run and not labor,*Laborabunt*. DR: “be weary.” they shall walk and not faint.
+Concerning the first, he does two things:  
 
-> **785**. ***Be comforted, be comforted***. This the second principle part of this book, in which he principally intends the comfort of the people through many promised benefits. And it is divided into two parts:
+first, he sets out the sickness: ***Ezechias was sick***: *a grievous sickness makes the soul sober* (Sir 31:2);  
 
-in the first, he leads them to the expectation of promises;
+second, he sets out the announcement of death: ***and Isaiah the son of Amos the prophet came unto him; take order***, arranging who ought to succeed you: *in the time when you shall end the days of your life, and in the time of your decease, distribute your inheritance* (Sir 33:24).  
 
-in the second, he describes the promise of divine benefits, below: ***thus says the Lord to my anointed*** (Isa 45:1).
+**772**. On the contrary, it is objected that he lived afterwards and did not die; therefore, what the prophet said to him, ***you shall die***, was false, and was not announcing the issue of things with invariable truth. *(Cf. Cassiodorus, *Expositio Psalmorum*, Prologue 1; cited in *ST*, II-II.171.6, s.c.; Gregory, *Moralia* 12.2.)*  
 
-The first of these is divided into three parts:
+To which it is to be said that while the plans for all things which happen in the entire course of time have existed in God from eternity, some were placed into things which are unfolded through the work of nature and will; others he retained only to himself, so that when he wills them, he brings them into actuality. Therefore, prophets see in the mirror of eternity as much of either of these as God wishes to reveal to them. Therefore those plans had been revealed to Isaiah, which were placed into things—things that come to be through inferior causes, namely, natural and meritorious causes—according to which the sickness of the king was ordered toward death. Thus, as to the sense which is found in the words of the prophet, he spoke the truth, because according to inferior causes, it was so; similarly too, as to the other sense, which the Holy Spirit understood, he spoke the truth, because he died to that ingratitude when afterwards, he gave the thanks he owed to God, just as Ninive also was overturned as to the state of its iniquity, as Augustine says. *(Cf. *Enarrations on the Psalms* 1.8; *City of God* 21.24.4.)*  
 
-in the first, he comforts them with the power of the one who promises;
+**773**. ***And Ezechias turned his face toward the wall***. Here he sets out his delivery from sickness, and concerning this, he sets out three things:  
 
-in the second, with his love: ***let the islands keep silence*** (Isa 41:1);
+first, the prayer of Ezechias is set out;  
 
-in the third, with the weakness of the idols who might be believed to resist: ***and now hear, O Jacob*** (Isa 44:1).
+second, the promise of healing: ***and the word of the Lord came to Isaiah*** (Isa 38:4);  
 
-Concerning the first, he does three things:
+third, the thanksgiving of Ezechias: ***the writing of Ezechias*** (Isa 38:9).  
 
-first, he leads them to comfort;
+Concerning the first, he sets out three things.  
 
-second, he promises the comforter: ***the voice of one crying in the desert*** (Isa 40:3);
+First, his preparation for prayer: ***toward the wall***, of the temple, or of his house, so that he might pray more devoutly and privately: *I have called upon you in the day of my trouble* (Ps 85[86]:7).  
 
-in the third part, he shows the power of God who comforts: ***who has measured the waters in the hollow of his hand?*** (Isa 40:12).
+Second, he sets out the prayer itself: ***and prayed*; *remember***, that you would grant me life for the good things I have done, for God is said to have forgotten when he does not give a reward; ***in truth***, of worship of you, ***with a perfect heart***, as to love.  
 
-**786**. Concerning the first, he does three things.
+On the contrary, Proverbs 20:9 says: *who can say: my heart is clean?*; and to this is to be said that he does not say that his heart is perfect absolutely, but as to the fact that he had not halted after idols, as it says in 1 Kings 18:21. *In the day of evils be not unmindful of good things* (Sir 11:27[25]).  
 
-First, he leads the people to comfort: ***be comforted***, in spiritual goods, ***be comforted***, in the temporal goods granted you: *he comforted the mourners in Zion* (Sir 48:27); *and the Lord answered the angel, that spoke in me, good words, comfortable words* (Zech 1:13).
+Third, he sets out his compunction, ***and Ezechias wept***: *blessed are they that mourn* (Matt 5:5): *the prayer of the humble and the meek has always pleased you* (Jdt 9:16).  
 
-Second, he orders the prophets and priests to announce comfort: ***speak to the heart***, namely, by comforting, ***and call*** them from sadness, from idolatry: *I will lead her into the wilderness: and I will speak to her heart* (Hos 2:14).
+**774**. ***And the word of the Lord came to Isaiah***. Here the promise of healing is set out.  
 
-Third, he assigns the reason as to the remission of their fault: ***for her evil is come to an end***, above: ***and this is all the fruit, that the sin thereof should be taken away*** (Isa 27:9); as to the end of punishments: ***she has received***; he speaks according to the time after the captivity: *with a double destruction* (Jer 17:18).
+And first, he sets out the hearing of the prayer, ***and the word of the Lord came***, before he left the middle of the court (2 Kgs 20:4); ***I have heard your prayer***, above: ***at the voice of your cry*** (Isa 30:19).  
 
-On the contrary, it says in Nahum 1:9: *there shall not rise a double affliction*; and to this is to be said that they are called double as to the punishment of body and soul, as the fault is in both.
+Second, he sets out the promise: ***behold I will add***: *you will add days to the days of the king* (Ps 60:7[61:6]).  
 
-**787**. ***The voice of one crying in the desert***. Here he promises the comforter. And concerning this, he does three things:
+Third, he sets out the confirmation by a sign: ***and this shall be a sign to you***; ***with the sun***, that is, through the movement of the sun; ***ten lines***, by which ten hours were calculated according to the movement of the shadow; ***and the sun returned***: if it did so right away, then that artificial day had twenty-two hours of daylight, nearly doubled according to the Gloss; but if it returned through the lines successively, so that it came through ten and returned through ten and again went through ten, then that day had thirty-two hours, nearly tripled, according to Dionysius. *(Letter 7 to Polycarp, section 2 (PG 3, 1080C–D; Dion. 1491).)*  
 
-first, he sends ahead the preparation;
+Now this was done, either with all the other heavenly bodies going back, or with the sun having a shorter path or a faster movement, so that it would reach its position at the same time as the others: *in his days the sun went backward* (Sir 48:26[23]). And this sign coincided with the thing it signified, thus: *when you shall think yourself consumed, you shall rise as the day star* (Job 11:17).  
 
-second, he shows the firmness of the prophecy: ***the voice of one, saying*** (Isa 40:6);
+**775**. ***The writing of Ezechias***. Here his thanksgiving for the healing promised to him is set out.  
 
-third, he foretells the coming of the comforter: ***get you up upon a high mountain*** (Isa 40:9).
+And first, he sets out the title: ***the writing***, namely, this is the writing;  
 
-Concerning the first, he does three things.
+second, he sets out the song: ***I said***, in which he does three things: first, he laments the danger which he has escaped; second, he recalls the benefit which he has received: ***O Lord, if man’s life be such*** (Isa 38:16);  
 
-First, he orders preparation: ***the voice of one crying in the desert***, namely, the voice of John the Baptist, will be this: ***prepare***, by conversion from evils, ***in the wilderness***, of vices: *be prepared to meet your God* (Amos 4:12).
+third, he asks for the fulfillment of what God has promised: ***O Lord, save me*** (Isa 38:20).  
 
-Second, he foretells the fulfilment: ***every valley***, following the metaphor of the evil way: if it is mountainous, it causes labor, and thus is said, ***every valley shall be exalted***, so that it is made as high as the mountains and everything may be made level; if it is winding, it causes wandering, and as to this he says, ***the crooked shall become straight***; if it is rocky, it causes pain in the feet, and as to this: ***the rough ways plain***; through which is signified that faintheartedness will be turned into security, pride into humility, wickedness into uprightness and cruelty into meekness: *direct your heart into the right way* (Jer 31:21).
+And he laments three things.  
 
-Third, he shows the utility of the preparation: ***and the glory of the Lord shall be revealed***, that is, the Son: *I will cure them: and I will reveal to them the prayer of peace* (Jer 33:6); ***all flesh together shall see***, that is, he will make himself visible to all, or he speaks of the day of judgment: *every eye shall see him: and they also that pierced him* (Rev 1:7).
+First, the horror of death: ***in the midst of my days***, that is, in my youth, ***to the gates of hell***, that is, limbo, or death, or the grave: *my life was drawing near to hell beneath* (Sir 51:9[6]).  
 
-**788**. Some explain these verses thus: ***the voice***, of God, ***crying***, is this: ***in the desert, prepare***, that is, in the land of Judah, formerly a desert, ***the way of the Lord***, namely, for going to the temple; or in the desert, which is between Babylon and Judah. ***Every valley shall be exalted***, by this all hindrances are shown to have been removed, so that the people return freely; ***the glory of the Lord shall be revealed***, in the destruction of the Chaldees, through which he will appear glorious.
+Second, he laments the loss of good things, as to the vision of God: ***I sought***, from the Lord, that he might supply, ***the residue***, taken away from me, or I sought in myself how much life remained for me. ***I said***, to myself: ***I shall not see the Lord God***, still only through a likeness, ***in the land of the living***, in heavenly beatitude: *I believe to see the good things of the Lord in the land of the living* (Ps 26[27]:13); or ***I shall not see the Lord God***, any more, seeing the temple and the worship of the Lord, ***in the land of the living***, namely, the land of the Jews: *he is not the God of the dead but of the living* (Matt 22:32). And as to the society of men: ***I shall behold man***, living in this life, ***no more***: *there shall not a man dwell there* (Jer 49:18). Or the ***man***, Christ, promised to us. And as to the posterity of his sons: ***my generation***, namely, of sons, for he did not yet have sons, ***is rolled away from me***, folded up, so that it is not continued to his descendants, above: ***it shall be removed as the tent of one night*** (Isa 24:20). And as to the shortness of his life: ***my life is cut off, as by a weaver***, while yet weaving an unfinished web; ***but beginning*** in youth: *my days have passed more swiftly than the web is cut by the weaver* (Job 7:6).  
 
-**789**. ***The voice of one, saying***. In this part, he shows the firmness of the prophecy by comparison to the frailty of men. Thus the Lord first orders a cry, which signifies an express and plain announcement: ***cry***, below: ***cry, cease not*** (Isa 58:1); second, he orders human frailty to be cried out, with the prophet asking: ***and I said: what shall I cry***, fearing that he will be ordered to cry something against his people, as above (Isa 6:9), and the Lord responding: ***all flesh is grass***: *the sun rose with a burning heat and parched the grass* (Jas 1:11); third, he shows the firmness of the divine word, ***indeed the people is grass***: *heaven and earth shall pass away: but my words shall not pass away* (Luke 21:33).
+**776**. Third, he laments his anxiety of heart.  
 
-**790**. ***Get you up upon a high mountain***. Here he foretells the coming comforter. And concerning this, he does three things:
+And first, as to the continual expectation of death: ***from morning***, namely, I was speaking, ***even tonight you will make an end of me***, in death. And then, not dying, ***I hoped***, again, ***till morning***, so that simultaneously with death the sorrow of sickness was ended; nonetheless, ***as a lion so has he***, infirmity or God himself through the sorrow of sickness, ***broken all my bones***: *if I lie down to sleep, I shall say: when shall I rise? And again, I shall look for the evening, and shall be filled with sorrows even till darkness* (Job 7:4).  
 
-first, the Lord orders the prophet to announce it;
+Second, as to the deferral of hope; and he sets out things: the compunction of the one who hopes: ***I will cry like a young swallow***, looking for its mother, because it does not see her, ***like a dove***, namely, with mourning: *her bondwomen were led away mourning as doves* (Nah 2:7). And he sets out the deferral of hope: ***my eyes are weakened***, as though fatigued, ***looking upward***, in hope: *hope that is deferred afflicts the soul* (Prov 13:12); *I have lifted up my eyes* (Ps 120[121]:1). And he sets out a certain dispute with God: ***Lord, I suffer violence***, as if to say: violence is done to me, I am afflicted beyond what I deserve; ***answer you***, be surety, ***for me***. ***What shall I say***, as though turned to himself: what can I set against God? ***Or what shall he answer***, when he must respond to my questions, ***whereas he himself has done it***, made me, or my punishment: *if he will contend with him* (Job 9:3), below: ***shall he gainsays his maker*** (Isa 45:9).  
 
-in the second part, he determines the promise of his coming: ***behold your God***;
+Third, as to the recollection of past events: ***I will recount to you all my years***, in which I suffered good things, or in which I sinned against you: *I will speak in the affliction of my spirit* (Job 7:11).  
 
-in the third, he shows the condition of the one who comes: ***behold the Lord God shall come with strength*** (Isa 40:10).
+**777**. ***O Lord, if man’s life be such***. Here he recalls the benefit which he has received;  
 
-Concerning the first, he determines who should announce, to whom, and how he should announce. Who, he determines to be he who has the office: ***you that bring good tidings***: *how shall they preach unless they be sent?* (Rom 10:15).
+and first, correction: ***if man’s life be such***, that is, if the life of men is so miserable, or if life is acquired through tribulation: *reproofs of instruction are the way of life* (Prov 6:23). And then he sets out: ***behold in peace***, as if to say: in the people having peace from the Assyrians, ***bitterness***, hangs over me: *laughter shall be mingled with sorrow* (Prov 14:13).  
 
-He designates the manner by three things:
+Second, he recalls his liberation from punishment: ***but you have delivered my soul***, my life; and from guilt: ***you have cast all my sins behind*** your or my ***back***, as though forgetting them: *you have mercy upon all, Lord* (Wis 11:24–25).  
 
-by the height of the location, so that he who announces good things will be heard from afar: ***upon a high mountain***, mystically, Christ, or heavenly conversation and contemplation, above: ***come and let us go up to the mountain of the Lord*** (Isa 2:3); below: ***they shall cry from the top of the mountains*** (Isa 42:11);
+Third, he assigns the reason for his liberation,  
 
-by the cry of the voice: ***lift up your voice with strength***, so that many may hear, by preaching plainly and constantly, below: ***cry, cease not, lift up your voice*** (Isa 58:1);
+and first, as to the uselessness of death: ***for hell***, that is, the damned, or the grave; ***death***, the devil, or the dead; ***your truth***, the truth of his promises, or the Son: *for there is no one in death, that is mindful of you: and who shall confess to you in hell?* (Ps 6:6[5]);  
 
-by security of heart: ***lift it up, fear not***: *be not afraid at their presence* (Jer 1:8).
+second, as to the praise of the living: ***the living, the living***, repeated for greater affirmation, or because of the twofold life: *we that live bless the Lord* (Ps 113:26[115:18]);  
 
-He determines to whom it should be announced as to three things:
+third, as to the propagation of divine praise: ***the father shall make the truth known to the children***: *how great things he commanded our fathers, that they should make the same known to their children* (Ps 77[78]:5–6).  
 
-as to the province of the kingdom: ***say to the cities of Judah***;
+**778**. ***O Lord, save me***. Here he asks that the promise be fulfilled: ***save me***, from the Assyrians, and from infirmity: *I will bless the Lord at all times, his praise shall be always in my mouth* (Ps 33:2[34:1]).  
 
-as to the metropolis of the province: ***you that bring good tidings to Jerusalem***;
+**779**. ***Now Isaiah had ordered***. Here he sets out the order of the healing. And this has been transposed and ought to be before the giving of the sign, as is clear from 2 Kings 20:7–11; but because he intends not to give history, but prophecy, he first sets out what pertains to prophecy.  
 
-as to the rulers of the city: ***Zion***, where the temple and the royal house were, below: ***the first shall say to Zion: behold they are here, and to Jerusalem I will give an evangelist*** (Isa 41:27); *to you it behooved us first to speak the word of God* (Acts 13:46).
+And first, he sets out the manner of the healing: ***lay it as a plaster upon the wound***, inflicted by God, or an ***ulcer***, flesh opened from a corrupted humor: for they say that he suffered from the royal disease, which is called “lupus,” which the fig and everything sweet make worse, so that the entire healing should be attributed to divine power. Others say that it was an abscess, which occurs from humors collecting internally, when the flesh is not yet broken; figs are helpful for the maturation of an abscess, so that it is shown that medicine is not to be spurned: *the apothecary shall make sweet confections* (Sir 38:7).  
 
-**791**. ***Behold your God***. Here he sets out the promise of the coming of God: ***behold***, at hand, ***your God***, will come, above: ***God himself will come*** (Isa 35:4).
+Second, Ezechias asks for a sign: ***and Ezechias had said: what shall be the sign?** The Jews require signs: and the Greeks seek after wisdom* (1 Cor 1:22).  
 
-**792**. ***Behold the Lord***. Here he shows the condition of the one who comes.
+**780**. In death I will trust the house of conscience (see 38:1),  
 
-And first, he shows that he will come strong to liberate: ***with strength*, *and his arm***, his strength on the day of judgment; or in the first coming of Christ, in the power of his miracles; or in the destruction of Babylon, *have you an arm like God?* (Job 40:4).
+if it is pure from the contagion of sin, below: ***the place is too strait for me*** (Isa 49:20); *that I should depart from my sanctuary* (Ezek 8:6);  
 
-Second, that he will come just to reward: ***behold his reward is with him and his work is before him***, because it is in the ease of his will: *but the just shall live for evermore: and their reward is with the Lord* (Wis 5:16).
+if it is firm in good works: *the rain fell* (Matt 7:25);  
 
-Third, he shows that he will come kind to comfort: ***like a shepherd***; to feed the hungry: ***he shall feed his flock***: *I will feed them in the most fruitful pastures* (Ezek 34:14): *I will give you pastors who shall feed you* (Jer 3:15); to gather together the dissenting: ***with his arm***: *other sheep I have* (John 10:16); to carry the faltering: ***in his bosom***: *when he has found it, lay it upon his shoulders, rejoicing* (Luke 15:5).
+if it is great with love, below: ***the place is too strait for me*** (Isa 49:20); below: ***enlarge the place*** (Isa 54:2).  
 
-**793**. ***Who has measured the waters***. Here he shows divine power.
+**781**. The eyes are exalted (Isa 38:14),  
 
-And first, he establishes it against the errors of idolaters, who detracted from divine power by making the creature equal to the creator: *they served the creature rather than the Creator* (Rom 1:25);
+by the elation of the heart: *Lord, my heart is not exalted* (Ps 130:1) and are weakened by God lowering them, above: ***the lofty eyes of man are humbled*** (Isa 2:11);  
 
-second, against the despair of the Jews, who detracted from divine power by distrust: ***lift up your eyes on high*** (Isa 40:26).
+by the curiosity of inquiry: *why dost you stare with your eyes, as if they were thinking great things?* (Job 15:12); and are weakened by the oppression of light: *he that is a searcher of majesty shall be overwhelmed by glory* (Prov 25:27);  
 
-Concerning the first, he does two things:
-
-first, he shows the power of God;
-
-second, he excludes error: ***to whom then have you likened God*** (Isa 40:18).
-
-Concerning the first, he does three things.
-
-First, he shows divine power together with divine wisdom in the ease with which he measures and creates all things: for he makes all things in number, as to the multitude of principles; in measure, as to determination of each under its particular being; in weight, as to the inclination of each to its end (Wis 11:21). ***In the hollow***, that is, easily, like what is measured by the hollow, which is a closed hand; ***with his palm***, that is, easily, with the palm, which is an open hand; ***who has poised with three fingers the bulk of the earth**, upon nothing* (Job 26:7), for it is supported by nothing outside it, otherwise the repose of the earth would be forced, *over the waters* (Ps 135[136]:6), as to the place, for it is surrounded by waters, *upon its own bases* (Ps 103[104]:5), as to the proper cause of its repose, which is its own nature; ***with three fingers***, that is, easily; or, with three properties: weight, dryness, and immobility; ***weighed***, he makes each to be weighed by its proper weight.
-
-**794**. Second, he shows the sufficiency of his power, that he needs no helper: ***who has forwarded***, against the philosophers who posit that the last creatures were created by the mediation of the first creatures; of his wisdom, that he needs no counsel: ***or who has been his counsellor***, that he would give the Lord counsel; ***with whom has he consulted***, that the Lord would ask counsel of him; ***who has instructed him***, of the form of his work; ***the path of*** natural ***justice***, which he set before all things, so that nothing exceeds the bounds of its nature; ***knowledge***, of the knowledge of created things, both universals and particulars, against the philosophers; ***the way of understanding***,*Prudentiae*. as to the government of the world: *whose helper are you? Is it of him that is weak? And dost you hold up the arm of him that has no strength?* (Job 26:2).
-
-**795**. Third, he shows its excellence, that it exceeds all the multitude of nations: ***behold the Gentiles are as a drop***, a little spot, ***of a bucket***, falling from a bucket, which is a vessel of water fit for the thirsty, which is accounted as nothing; ***the smallest grain***, which is between the arms of a balance and is easily inclined to either: *seeing we have heard scarce a little drop of his word, who shall be able to behold the thunder of his greatness?* (Job 26:14).
-
-He also shows that it exceeds every fitting honor and especially as to offerings: ***and Libanus***, that is, the trees of Libanus, in which it abounds, because it is wooded, ***nor the beasts***, in which it abounds, because it is fit for pasture: *what shall I offer to the Lord that is worthy?* (Mic 6:6).
-
-He also shows that it exceeds every perfection of creation: both natural, for the being of creatures is, in respect to God, non being; for Dionysius says, in his book on *Divine Names* 12.4, that so far as the participants surpass non-participants, and the participations surpass the participants, to such an extent, he who is the principle of the participants exceeds both the participations and the participants: ***all nations are before him as if they had no being at all***; and as to superadded perfections, which are fulfilling in a certain way: ***and are counted to him as nothing***. *I beheld the earth, and lo it was void, and nothing* (Jer 4:23).
-
-**796**. ***To whom***. Here he excludes the error of the idolaters.
-
-And first, he mocks this error as to the intention of the worker, that they wished to make a god: ***then***, consequently, he is so powerful, ***to whom have you likened God***, he speaks according to the error of those who thought the likenesses themselves were gods, ***or what image***, as to those who thought the things of which they were likenesses were gods, as the sun or the moon: *who is like to you, among the strong, O Lord?* (Exod 15:11). And as to the foolish work, that they wished to introduce the noblest form into base matter: ***has the workman cast a graven statue?** They gave the incommunicable name to stones and wood* (Wis 14:21).
-
-**797**. Second, he convicts the one who errs.
-
-And first, from the natural law, which prescribes: ***do you not know***, by natural reason, that idols are not gods?; and from the written law, which prohibits: ***has it not been told you?** Have they not heard?* (Rom 10:18).
-
-He convicts also from the consideration of terrestrial creatures, as to their creation: ***have you not understood the foundations of the earth***, to have been founded by him? That is, that part of the earth that is next to the center: *when he balanced the foundations of the earth* (Prov 8:29). And as to their creator: ***it is he that sits upon the globe of the earth***, for it is spherical, as though governing it, ***and the inhabitants thereof are as locusts***, in respect to the magnitude of the earth, or of God himself;
-
-also from the creation of heavenly creatures: ***he that stretches out***, as to the magnitude of heaven, ***as nothing***, as to the subtlety of its substance, ***as a tent***, for himself, as that in which his power first shines out among corporeal things, as to power; or as in the dwelling of the angels and saints, as to dignity; or also of the whole lower creation, as to their brightness: *he prepares the world by his wisdom* (Jer 10:3).
-
-Third, he convicts them as to the subjugation of the great, setting out the destruction of those who are great, either according to knowledge: ***he that brings the searchers of secrets***, namely the philosophers; or according to power, ***the judges***, that is, the princes: *they have failed in their search* (Ps 63:7[64:6]). And he shows the ease of their destruction by a similitude of grass or of a tree, which does not have strong roots in the earth: ***and surely***: *against a leaf, that is carried away with the wind, you show your power, and you pursue a dry straw* (Job 13:25).
-
-**798**. Third, he sets out the conclusion: ***and to whom have you likened me?** Who in the clouds can be compared to the Lord?* (Ps 88:7[89:6]).
-
-**799**. ***Lift up your eyes***. Here he establishes the same divine power against those who despair.
-
-And first, he establishes divine majesty from the creation of things: ***who has created these things***, namely, heavenly things: *he spoke, and they were made* (Ps 148[149]:5); from the perfection of his knowledge: ***who brings out***, to fulfill his will, ***in number***, determined in his knowledge, ***their host***, namely, the stars or angels of the heavens, ***and calls them all by their names***, determining for each its proper nature, from which it can be named: *who tells the number of the stars: and calls them all by their names* (Ps 146[147]:4); from the fullness of his dominion: ***by the greatness of his might***, for fighting, ***and strength***, for resisting, ***and power***, for working; ***not one of them was missing***, from his dominion: *is there any numbering of his soldiers?* (Job 25:3).
-
-**800**. Second, he excludes their error.
-
-And first, he sets out the error: ***why say you: my way is hid*** ***from the Lord***, he does not see what evils I suffer, otherwise, he would defend me; ***judgment***, that is, the power to judge, which he formerly had: *say not: I shall be hidden from God* (Sir 16:16[17]); *they have said: the Lord has forsaken the earth, and the Lord sees not* (Ezek 9:9).
-
-Second, he sets out the reproof of the error;
-
-and first, the confirmation of the proof from the law: ***know you not***, from the natural law, ***or have you not heard***, from the written law, these things which follow?;
-
-second, he sets out the reproof,
-
-first, showing the greatness of God from the things which he has in himself, namely, the eternity of his dominion: ***everlasting God***; *the Lord shall reign for ever and ever* (Exod 15:18); unfailing power: ***he shall not faint***, that he could not do all things, ***nor labor***, that he could do them with difficulty: *his power is an everlasting power* (Dan 7:14); the incomprehensibility of his knowledge, ***neither is there any searching out of his wisdom***: *O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways* (Rom 11:33).
-
-**801**. Second, by the great things which he does in others.
-
-And first, in those whom he strengthens, he shows their original weakness: ***it is he that gives strength***, as to him who first had been strong and then weakened; ***to them that are not***, as to those who were not strong, above: ***you have been a strength to the poor*** (Isa 25:4); *he calls those things that are not* (Rom 4:17); *the weak things of the world has God chosen* (1 Cor 1:27).
-
-Second, he shows the greatness of his strength by comparison to natural strength,
-
-which he shows failing first: ***youths shall faint***, who are in the state of advancing; ***young men***, who seem strong: *no man shall prevail by his own strength* (1 Sam 2:9);
-
-second, the greatness of the strength given by God: ***but they that hope in the Lord shall change their strength***, namely, from natural to divine, so that they are not tired in ascending: ***they shall take wings***: *they shall make themselves wings like those of an eagle* (Prov 23:5); nor in swift progress: ***they shall run***; nor in continuous advancing: ***they shall walk***, above: ***there is none that shall faint, nor labor*** (Isa 5:27).
-
-**802**. The Spirit of the Lord is helped (see 40:13) not in creation, but in justification, Augustine: *he who created you without you, will not justify you without you*.Sermon 169.11.13 (PL 38, 923).
-
-By preaching: *for we are God’s coadjutors* (1 Cor 3:9);
-
-by preparation: *draw nigh to God: and he will draw nigh to you* (Jas 4:8);
-
-by cooperation: *looking diligently, lest any man be wanting to the grace of God* (Heb 12:15).
-
-**803**. The saints are compared to eagles (see 40:31),
-
-because of the height of their flight: *will the eagle mount up at your command, and make her nest in high places?* (Job 39:27); in which is signified eminence of contemplation, above: ***his eyes shall see the king in his beauty*** (Isa 33:17);
-
-because of the subtlety of their odor: *wheresoever the body shall be, thither will the eagles also be gathered together* (Luke 17:37); in which is signified the fervor of love: *we will run after you to the odor of your ointments* (Song 1:3);
-
-because of the loftiness of their place: *three things are hard to me, and the fourth I am utterly ignorant of. The way of an eagle in the air* (Prov 30:18–19); in which is signified zeal for heavenly conversation: *but our conversation is in heaven* (Phil 3:20);
-
-because of the swiftness of their motion: *our persecutors were swifter than the eagles of the air* (Lam 4:19); in which is signified promptness of good works: *have you seen a man swift in his work?* (Prov 22:29);
-
-because of their renewal: *your youth shall be renewed like the eagle’s* (Ps 102[103]:5); in which is signified zeal for amendment and progress: *though our outward man is corrupted, yet the inward man is renewed day by day* (2 Cor 4:16);
-
-because of the beauty of their members: *a large eagle with great wings, long-limbed, full of feathers, and of variety, came to Libanus* (Ezek 17:3); in which is signified the beauty of the virtues: *you are all fair, O my love* (Song 4:7);
-
-because of their solicitude for their children: *as the eagle enticing her young to fly, and hovering over them, he spread his wings* (Deut 32:11); in which is signified solicitude for the saints: *who is weak, and I am not weak? Who is scandalized, and I am not on fire?* (2 Cor 11:29).
-
-Chapter 41
+by contemplation, below: ***lift up your eyes on high*** (Isa 40:26), and are weakened because of smallness of thought: *all men see him, every one beholds afar off* (Job 36:25).

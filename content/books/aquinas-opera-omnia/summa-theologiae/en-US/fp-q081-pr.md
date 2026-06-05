@@ -1,7 +1,8 @@
-# Question 81 — Next we have to consider the power of sensuality, concerning which there are three points of inquiry:
+# Question 81 — The Power of Sensuality
 
-(1) Whether sensuality is only an appetitive power?
+Next we have to consider the power of sensuality, concerning which there are three points of inquiry:  
 
-(2) Whether it is divided into irascible and concupiscible as distinct powers?
+(1) Whether sensuality is only an appetitive power?  
 
-(3) Whether the irascible and concupiscible powers obey reason?
+- (2) Whether it is divided into irascible and concupiscible as distinct powers?
+- (3) Whether the irascible and concupiscible powers obey reason?

@@ -1,11 +1,10 @@
-# Question 183 — (2) the state of the perfect in particular.
+# Question 183 — Man’s Various Duties and States in General
 
-Under the first head there are four points of inquiry:
+We must next consider man’s various states and duties. We shall consider (1) man’s duties and states in general; (2) the state of the perfect in particular.  
 
-(1) What constitutes a state among men?
+Under the first head there are four points of inquiry:  
 
-(2) Whether among men there should be various states and duties?
+(1) What constitutes a state among men?  
 
-(3) Of the diversity of duties;
-
-(4) Of the diversity of states.
+- (2) Whether among men there should be various states and duties?
+- (3) Of the diversity of duties; (4) Of the diversity of states.

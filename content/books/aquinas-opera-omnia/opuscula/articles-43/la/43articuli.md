@@ -1,3 +1,0 @@
-# Prologue
-
-Articulus 1

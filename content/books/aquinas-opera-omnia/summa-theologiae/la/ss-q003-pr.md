@@ -1,5 +1,7 @@
-# Quaestio 3 — Deinde considerandum est de exteriori fidei actu, qui est confessio. Et circa hoc quaeruntur duo.
+# Quaestio 3
 
-Primo, utrum confessio sit actus fidei.
+Deinde considerandum est de exteriori fidei actu, qui est confessio. Et circa hoc quaeruntur duo.  
 
-Secundo, utrum confessio sit necessaria ad salutem.
+Primo, utrum confessio sit actus fidei.  
+
+- Secundo, utrum confessio sit necessaria ad salutem.

@@ -1,5 +1,7 @@
-# Question 169 — We must now consider modesty as connected with the outward apparel, and under this head there are two points of inquiry:
+# Question 169 — Modesty in the Outward Apparel
 
-(1) Whether there can be virtue and vice in connection with outward apparel?
+We must now consider modesty as connected with the outward apparel, and under this head there are two points of inquiry:  
 
-(2) Whether women sin mortally by excessive adornment?
+(1) Whether there can be virtue and vice in connection with outward apparel?  
+
+- (2) Whether women sin mortally by excessive adornment?

@@ -1,9 +1,9 @@
-# Question 44 — We must now consider the effects of fear: under which head there are four points of inquiry:
+# Question 44 — Of the Effects of Fear
 
-(1) Whether fear causes contraction?
+We must now consider the effects of fear: under which head there are four points of inquiry:  
 
-(2) Whether it makes men suitable for counsel?
+(1) Whether fear causes contraction?  
 
-(3) Whether it makes one tremble?
-
-(4) Whether it hinders action?
+- (2) Whether it makes men suitable for counsel?
+- (3) Whether it makes one tremble?
+- (4) Whether it hinders action?

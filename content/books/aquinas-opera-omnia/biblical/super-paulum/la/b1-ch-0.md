@@ -1,6 +1,6 @@
 # Lectio 0
 
-τί δέ ἐστιν σοφία καὶ πῶς ἐγένετο, ἀπαγγελῶ καὶ οὐκ ἀποκρύψω ὑμῖν μυστήρια, ἀλλὰ ἀπ' ἀρχῆς γενέσεως ἐξιχνιάσ καὶ θήσω εἰς τὸ ἐμφανὲς τὴν γνῶσιν αὐτῆς καὶ οὐ μὴ παροδεύσω τὴν ἀλήθειαν. 23 οὔτε μὴν φθόνῳ τετηκότι συνοδεύσω, ὅτι οὗτος οὐ κοινωνήσει σοφίᾳ.
+> τί δέ ἐστιν σοφία καὶ πῶς ἐγένετο, ἀπαγγελῶ καὶ οὐκ ἀποκρύψω ὑμῖν μυστήρια, ἀλλὰ ἀπ' ἀρχῆς γενέσεως ἐξιχνιάσ καὶ θήσω εἰς τὸ ἐμφανὲς τὴν γνῶσιν αὐτῆς καὶ οὐ μὴ παροδεύσω τὴν ἀλήθειαν. 23 οὔτε μὴν φθόνῳ τετηκότι συνοδεύσω, ὅτι οὗτος οὐ κοινωνήσει σοφίᾳ.
 
 *Non abscondam a vobis sacramenta Dei*, etc., Sap. VI, 24. Sacramenti nomen dupliciter accipi consuevit. Nam quandoque sacramentum dicitur quodcumque secretum, et praecipue de rebus sacris; quandoque sacramentum dicitur sacrae rei signum, ita quod et eius imaginem gerat, et causa existat, secundum quod nos dicimus septem sacramenta Ecclesiae, scilicet Baptismus, confirmatio, Eucharistia, poenitentia, extrema unctio, ordo et matrimonium. In qua quidem significatione sacramenti etiam prima significatio continetur; nam in his Ecclesiae sacramentis, divina virtus secretius operatur salutem, ut Augustinus dicit.
 

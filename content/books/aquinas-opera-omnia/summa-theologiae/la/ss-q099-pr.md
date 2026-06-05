@@ -1,11 +1,11 @@
-# Quaestio 99 — secundo, de simonia.
+# Quaestio 99
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de vitiis ad irreligiositatem pertinentibus quibus rebus sacris irreverentia exhibetur. Et primo, de sacrilegio; secundo, de simonia.  
 
-Primo, quid sit sacrilegium.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum sit speciale peccatum.
+Primo, quid sit sacrilegium.  
 
-Tertio, de speciebus sacrilegii.
-
-Quarto, de poena sacrilegii.
+- Secundo, utrum sit speciale peccatum.
+- Tertio, de speciebus sacrilegii.
+- Quarto, de poena sacrilegii.

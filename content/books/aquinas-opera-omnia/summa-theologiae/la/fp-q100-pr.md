@@ -1,5 +1,7 @@
-# Quaestio 100 — Deinde considerandum est de conditione prolis generandae quantum ad iustitiam. Et circa hoc quaeruntur duo.
+# Quaestio 100
 
-Primo, utrum homines fuissent nati cum iustitia.
+Deinde considerandum est de conditione prolis generandae quantum ad iustitiam. Et circa hoc quaeruntur duo.  
 
-Secundo, utrum nascerentur in iustitia confirmati.
+Primo, utrum homines fuissent nati cum iustitia.  
+
+- Secundo, utrum nascerentur in iustitia confirmati.

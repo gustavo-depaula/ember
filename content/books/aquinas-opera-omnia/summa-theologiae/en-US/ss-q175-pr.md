@@ -1,13 +1,11 @@
-# Question 175 — We must now consider rapture. Under this head there are six points of inquiry:
+# Question 175 — Rapture
 
-(1) Whether the soul of man is carried away to things divine?
+***We must now consider rapture. Under this head there are six points of inquiry:***
 
-(2) Whether rapture pertains to the cognitive or to the appetitive power?
+(1) Whether the soul of man is carried away to things divine?  
 
-(3) Whether Paul when in rapture saw the essence of God?
-
-(4) Whether he was withdrawn from his senses?
-
-(5) Whether, when in that state, his soul was wholly separated from his body?
-
-(6) What did he know, and what did he not know about this matter?
+- (2) Whether rapture pertains to the cognitive or to the appetitive power?
+- (3) Whether Paul when in rapture saw the essence of God?
+- (4) Whether he was withdrawn from his senses?
+- (5) Whether, when in that state, his soul was wholly separated from his body?
+- (6) What did he know, and what did he not know about this matter?

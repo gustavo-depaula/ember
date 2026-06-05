@@ -1,9 +1,9 @@
-# Quaestio 80 — Deinde considerandum est de causa peccati ex parte Diaboli. Et circa hoc quaeruntur quatuor.
+# Quaestio 80
 
-Primo, utrum Diabolus sit directe causa peccati.
+Deinde considerandum est de causa peccati ex parte Diaboli. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum Diabolus inducat ad peccandum interius persuadendo.
+Primo, utrum Diabolus sit directe causa peccati.  
 
-Tertio, utrum possit necessitatem peccandi inducere.
-
-Quarto, utrum omnia peccata ex Diaboli suggestione proveniant.
+- Secundo, utrum Diabolus inducat ad peccandum interius persuadendo.
+- Tertio, utrum possit necessitatem peccandi inducere.
+- Quarto, utrum omnia peccata ex Diaboli suggestione proveniant.

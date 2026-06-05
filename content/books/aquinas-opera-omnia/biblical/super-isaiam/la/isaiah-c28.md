@@ -1,251 +1,211 @@
-# Chapter 28
+# Chapter 26
 
-> ^28:2^ Ecce validus et fortis Dominus sicut impetus grandinis, turbo confringens, sicut impetus aquarum multarum inundantium et emissarum super terram spatiosam.
+^26:1^ In die illa cantabitur canticum istud in terra Juda: urbs fortitudinis nostræ Sion salvator, ponetur in ea murus et antemurale.  
 
-> ^28:3^ Pedibus conculcabitur corona superbiæ ebriorum Ephraim.
+> ^26:2^ Aperite portas, et ingrediatur gens justa custodiens veritatem.
 
-> ^28:4^ Et erit flos decidens gloriæ exsultationis ejus qui est super verticem vallis pinguium, quasi temporaneum ante maturitatem autumni, quod cum aspexerit videns statim ut manu tenuerit devorabit illud.
+> ^26:3^ Vetus error abiit, servabis pacem, pacem quia in te speravimus.
 
-> ^28:5^ In die illa erit Dominus exercituum corona gloriæ et sertum exsultationis residuo populi sui.
+> ^26:4^ Sperastis in Domino in sæculis æternis, in Domino Deo forti in perpetuum.
 
-> ^28:6^ Et spiritus judicii sedenti super judicium, et fortitudo revertentibus de bello ad portam.
+> ^26:5^ Quia incurvabit habitantes in excelso, civitatem sublimem humiliabit; humiliabit eam usque ad terram, detrahet eam usque ad pulverem.
 
-> ^28:7^ Verum hi quoque præ vino nescierunt et præ ebrietate erraverunt. Sacerdos et propheta nescierunt præ ebrietate, absorpti sunt a vino, erraverunt in ebrietate, nescierunt videntem ignoraverunt judicium.
+> ^26:6^ Conculcabit eam pes, pes pauperis, gressus egenorum.
 
-> ^28:8^ Omnes enim mensæ repletæ sunt vomitu sordiumque ita ut non esset ultra locus.
+> ^26:7^ Semita justi recta est, rectus callis justi ad ambulandum.
 
-> ^28:9^ Quem docebit scientiam et quem intelligere faciet auditum? Ablactatos a lacte, avulsos ab uberibus.
+> ^26:8^ Et in semita judiciorum tuorum Domine sustinuimus te; nomen tuum et memoriale tuum in desiderio animæ;
 
-> ^28:10^ Quia manda remanda, manda remanda, exspecta reexspecta, exspecta reexspecta, modicum ibi, modicum ibi.
+> ^26:9^ anima mea desiderabit te in nocte, sed et spiritu meo in præcordiis meis de mane vigilabo ad te. Cum feceris judicia tua in terra justitiam discent habitatores orbis.
 
-> ^28:11^ In loquela enim labii et lingua altera loquetur ad populum istum,
+> ^26:10^ Misereamur impio et non discet facere justitiam: in terra sanctorum iniqua gessit. Et non videbit gloriam Domini.
 
-> ^28:12^ cui dixit: hæc est requies mea, reficite lassum; et hoc est meum refrigerium, et noluerunt audire.
+> ^26:11^ Domine exaltetur manus tua et non videant; videant et confundantur zelantes populi, et ignis hostes tuos devoret.
 
-> ^28:13^ Et erit eis verbum Domini: manda remanda, manda remanda, exspecta reexspecta, exspecta reexspecta, modicum ibi, modicum ibi: ut vadant et cadant retrorsum et conterantur et illaqueentur et capiantur.
+> ^26:12^ Domine dabis pacem nobis, omnia enim opera nostra operatus es nobis.
 
-> ^28:14^ Propter hoc audite verbum Domini viri illusores qui dominamini super populum meum qui est in Jerusalem.
+> ^26:13^ Domine Deus noster, possederunt nos domini absque te; tantum in te recordemur nominis tui.
 
-> ^28:15^ Dixistis enim: percussimus fœdus cum morte et cum inferno fecimus pactum. Flagellum inundans cum transierit non veniet super nos, quia posuimus mendacium spem nostram et mendacio protecti sumus.
+> ^26:14^ Morientes non vivant, gigantes non resurgant. Propterea visitasti et contrivisti eos et perdidisti omnem memoriam eorum.
 
-> ^28:16^ Idcirco hæc dicit Dominus Deus: ecce ego mittam in fundamentis Sion lapidem, lapidem probatum, angularem, pretiosum, in fundamento fundatum. Qui crediderit non festinet.
+> ^26:15^ Indulsisti genti Domine, indulsisti genti; numquid glorificatus es? Elongasti omnes terminos terræ.
 
-> ^28:17^ Et ponam in pondere judicium et justitiam in mensura. Et subvertet grando spem mendacii, et protectionem aquæ inundabunt.
+> ^26:16^ Domine in angustia requisierunt te, in tribulatione murmuris doctrina tua eis.
 
-> ^28:18^ Et delebitur fœdus vestrum cum morte, et pactum vestrum cum inferno non stabit; flagellum inundans cum transierit, eritis ei in conculcationem.
+> ^26:17^ Sicut quæ concepit cum appropinquaverit ad partum dolens clamat in doloribus suis, sic facti sumus a facie tua Domine:
 
-> ^28:19^ Quandocumque pertransierit tollet vos, quoniam mane diluculo pertransibit in die et in nocte. Et tantummodo sola vexatio intellectum dabit auditui.
+> ^26:18^ concepimus et quasi parturivimus et peperimus spiritum salutes. Justitiam non fecimus in terra, ideo non ceciderunt habitatores terræ.
 
-> ^28:20^ Coangustatum est enim stratum ita ut alter decidat, et pallium breve utrumque operire non potest.
+> ^26:19^ Vivent mortui tui, interfectique mei resurgent. Expergiscimini et laudate qui habitatis in pulvere, quia ros lucis ros tuus, et terram gigantum detrahes in ruinam.
 
-> ^28:21^ Sicut enim in monte divisionum stabit Dominus, sicut in valle quæ est in Gabaon irascetur, ut faciat opus suum, alienum opus ejus; ut operetur opus suum, peregrinum est opus ejus ab eo.
+> ^26:20^ Vade populus meus, intra in cubicula tua, claude ostia tua super te; abscondere modicum ad momentum donec pertranseat indignatio mea.
 
-> ^28:22^ Et nunc nolite illudere, ne forte constringantur vincula vestra; consummationem enim et abbreviationem audivi a Domino Deo exercituum super universam terram.
+> ^26:21^ Ecce enim Dominus egredietur de loco sancto suo ut visitet iniquitatem habitatoris terræ contra eum. Et revelabit terra sanguinem suum et non operiet ultra interfectos suos.
 
-> ^28:23^ Auribus percipite et audite vocem meam, attendite et audite eloquium meum.
+> **597**. ***In die illa***. In parte ista gratias agit de populi justificatione, et dividitur in duas:
 
-> ^28:24^ Numquid tota die arabit arans ut serat? Proscindet et sarriet humum suam?
+in prima praedicit justorum statum,  
 
-> ^28:25^ Nonne cum adæquaverit faciem ejus seret gith et cyminum sparget et ponet triticum per ordinem et hordeum et milium et viciam in finibus suis?
+in secunda ostendit justitiae fructum: ***vetus error***.  
 
-> ^28:26^ Et erudiet illum in judicio, Deus suus docebit illum.
+Circa primum duo.  
 
-> ^28:27^ Non enim in serris triturabitur gith, nec rota plaustri super cyminum circuibit, sed in virga excutietur gith et cyminum in baculo;
+Primo enim praedicit justorum fiduciam: ***in die illa***, post reditum de captivitate et afflictionem Moabitarum a Machabaeo, vel post Christi adventum; ***O Sion, salvator***, Christus vel Judas Machabaeus, est ***urbs fortitudinis***; ***in ea***, scilicet protectione, ***ponetur murus et antemurale***, ipsi tantum ad litteram tempore Machabaeorum; vel ***murus*** Christus, ***antemurale*** prophetae. Vel aliter: ***Sion*** est urbs, ***salvator*** Deus vel Christus vel Judas Machabaeus, ***murus***, id est defendens sicut murus, Prov. XVIII 10 *turris fortissima nomen Domini*, Zach. II 5 *ero eis, ait Dominus, murus ignis in circuitu*.  
 
-> ^28:28^ panis autem comminuetur. Verum non in perpetuum triturans triturabit illum, neque vexabit eum rota plaustri, nec ungulis suis comminuet eum.
+**598**. Secundo Dominus praedicat eorum justitiam, dicens ad angelos: ***aperite portas***, caeli vel virtutis, clausas peccatis; vel ad litteram: non oportet vos claudere portas propter infideles, quia omnes erunt justi, Ps. *haec porta Domini justi intrabunt in ea*.  
 
-> ^28:29^ Et hoc a Domino Deo exercituum exivit ut mirabile faceret consilium et magnificaret justitiam.
+**599**. ***Vetus error***. Hic ponit justitiae fructum, scilicet pacem; de qua primo ponitur populi petitio, quae tria continet.  
 
-> **633**. ***Vae coronae***. In parte ista comminatur contra illos qui contemnebant prophetarum vaticinia,
+Proponitur enim idoneitas petentium: ***vetus error***, scilicet idolatriae, II Cor. V 17 *vetera transierunt*; postulatur pacis beneficium: ***servabis pacem*** corporis et animae, infra XXXII 18 ***sedebit populus meus in pulchritudine pacis***; allegatur pacis meritum: ***quia in te speravimus***, Eccli. II 11 *quis speravit in Domino et confusus est?*  
 
-et primo contra contemnentes in praesenti,
+**600**. Secundo ponitur prophetae responsio, qui est mediator inter populum et Deum: ***sperastis***. Et dividitur in tres:  
 
-secundo contra futuros temporibus Ieremiae, XXX cap. ***vae filii desertores***.
+in prima ponitur pacis promissio;  
 
-Prima in duas.
+in secunda pacis impetratio: ***semita***;  
 
-In prima contra illos de decem tribubus;
+in tertia impetratae pacis denuntiatio: ***justitiam***.  
 
-in secunda contra illos de duabus: ***verum***.
+**601**. Circa primum tria.  
 
-**634**. Circa primum tria facit.
+Primo concedit meritum: ***sperastis in Domino in saeculis***, id est semper, Ps. *in ipso speravit cor meum et adjutus sum*.  
 
-Primo arguit culpam superbiae: ***vae coronae***, quia de multitudine superbiebant, quae est corona vel gloria regis, Prov. XIV 28;
+Secundo adhibet consilium: ***in Domino Deo***, supple sperate, Matth. X 22 *qui perseveraverit usque in finem, hic salvus erit*.  
 
-secundo culpam gulae: ***ebriis Ephraim***, Nahum *gloria inebriasti me*, ***flori decidenti, qui erant***, temporibus David et Salomonis, venientes de aestu figebant in valle Gethsemani tentoria idolatriae; ***errantes a vino***, scilicet idolatria, Ez. VII 10 *floruit virga, germinavit amygdalus*.
+Tertio promittit pacis beneficium pro destructione hostium: ***quia incurvabit habitantes***. Judaei referunt ad Romanos; potest autem referri ad quoslibet ipsorum hostes, vel mystice ad ipsos Judaeos, supra XXV 12 ***munimenta sublimium murorum tuorum corruent***. Et adjungit destruentium conditionem: ***conculcabit eam pes***; ***pauperis***, Judaei, qui parum habet; ***egenorum***, qui eget plura habere. Vel, si mystice, ponit meritum destructionis Judaeorum propter pauperem Christum, de quo in Psalmo *ego autem egenus sum et pauper*, et alibi *ego sum pauper et dolens; **egenorum***, discipulorum.  
 
-**635**. Secundo comminatur poenam: ***ecce validus***, et circa hoc duo facit.
+**602**. ***Semita justi***. Hic ponitur quasi disceptatio prophetae cum Domino ad impetrandam petitionem populi.  
 
-Primo <ponit> hostium fortitudinem: ***ecce validus***, quantum ad fortitudinem hostium quos immittet; ***sicut impetus***, quantum ad multitudinem, supra XVII 13 ***sonabunt populi sicut sonitus aquarum***.
+Et primo inducit ad puniendum hostes per argumenta,  
 
-Secundo ponit poenae inflictionem, scilicet dejectionem superbiae: ***pedibus***, Habacuc III 12 *in fremitu conculcabis*; et exinanitionem gloriae: ***et erit flos, quasi temporaneum***, id est tempestivus vel primitivus fructus, supra XVIII 5 ***ante messem enim totus effloruit***, Nahum III 12 *omnes munitiones tuae sicut ficus cum grossis suis*.
+secundo per experimenta: ***indulsisti***.  
 
-**636**. Tertio ponit justorum gloriam, scilicet illorum de duabus tribubus: ***in die illa***, scilicet temporibus Ezechiae, destructis decem tribubus: quantum ad tria.
+Circa primum duo facit:  
 
-Quantum ad populi laetitiam: ***corona***, quae ex auro vel argento, contra hoc quod dicit ***coronae superbiae**; **sertum*** de floribus, contra hoc quod dixit ***flori decidenti***, infra LXI 3 ***et darem eis coronam pro cinere***.
+primo inducit ut puniat,  
 
-Quantum ad regis justitiam: ***et erit***, ipse Dominus, ***spiritus***, Ier. XXIII 5 *regnabit rex et sapiens erit, et faciet judicium et justitiam in terra*.
+secundo ut in poena detineat: ***morientes***.  
 
-Quantum ad militum potentiam: ***et fortitudo***, quia Dominus pro eis pugnabit, supra XXV 4 ***quia factus est fortitudo mea***.
+Circa primum tria facit:  
 
-**637**. ***Verum hi***. Hic comminatur contra illos de duabus tribubus,
+primo inducit ad justitiam,  
 
-et primo contra principes,
+secundo excludit misericordiam: ***misereamur***,  
 
-secundo contra civitatem vel contra populum, cap. XXIX ***vae Ariel***.
+tertio determinat poenam: ***et non videbit***.  
 
-Prima in duas.
+**603**. Provocat autem ad justitiam tria proponens.  
 
-Primo ponit comminationem,
+Primo justitiae rectitudinem: ***semita justi***, id est justitiae, Sap. X 10 *justum deducit Dominus per vias rectas*.  
 
-secundo consolationem: ***auribus percipite***.
+Secundo afflictorum expectationem, proponens tria:  
 
-Circa primum duo.
+ipsam expectationem: ***in semita***, id est per poenam, ***judiciorum tuorum***, quibus nos vindicas et liberas, Ps. *in aeternum non obliviscar justificationes tuas quia in ipsis vivificasti me*;  
 
-Primo arguit peccatum et comminatur simul interitum,
+expectantium desiderium: ***nomen tuum***, Jer. XXIII 6 *hoc est nomen quod vocabunt eum: Dominus justus noster*;  
 
-secundo excludit remedium: ***propter hoc audite***.
+desiderii assiduitatem: quia ***die et nocte***, id est omni tempore, vel in prosperis et adversis, ***anima mea***, Cant. III 1 *in lectulo meo quaesivi quem diligit anima mea*, Ps. *Deus, Deus meus, ad te de luce vigilo*.  
 
-Circa primum duo.
+Tertio proponit justitiae utilitatem: ***cum feceris judicia***, Ps. *cognoscetur Dominus judicia faciens*.  
 
-Primo arguit in eis defectum scientiae,
+**604**. ***Misereamur***. Hic excludit misericordiam, et circa hoc duo facit.  
 
-secundo contemptum doctrinae: ***quia manda***.
+Primo Dominus interrogative proponit misericordiam: ***misereamur***, Ps. *misericordia Domini plena est terra*.  
 
-**638**. Circa primum duo.
+Secundo propheta excludit ipsam, propter ejus inutilitatem: ***et non discet***, Eccl. VIII 11 *quia non profert Dominus cito sententiam, filii hominum perpetrant mala*, Eccli. XXX 8 *equus indomitus evadet durus, et filius remissus evadet praeceps*; et propter peccati gravitatem, propter sacri loci profanationem: ***in terra sanctorum***, Ps.: *Deus venerunt gentes in hereditatem tuam, polluerunt templum sanctum tuum*, Jer. XI 15 *quid est quod dilectus meus in domo mea fecit scelera multa?*  
 
-Primo arguit culpam, ponens primo errorem omnium communiter: ***verum hi quoque***, fornicando, Oseae IV 11 *vinum et ebrietas* apostatare faciunt a Deo;
+**605**. ***Et non videbit***. Hic ponitur disceptatio de poena determinanda.  
 
-secundo doctorum: ***sacerdos***; ***nescierunt***, quantum ad ignorantiam credendorum, ***erraverunt***, quantum ad ignorantiam agendorum; ***videntem***, id est Deum qui omnia videt. Unde est expositio Ez. XXII 26 *sacerdotes contempserunt legem meam et polluerunt sanctuaria mea*.
+Et primo Dominus interrogat: ***et non videbit***; quasi: numquid debeo hanc poenam sibi dare quod non videat? Vel remissive: et sufficit hoc ad poenam.  
 
-Tertio ponit ignorantiae modum: ***omnes enim mensae***, quia in templis idolis se ingurgitabant usque ad vomitum, quasi omnino idolis dediti; ***sordiumque***, scilicet omnium vitiorum turpium, Prov. XVI *sicut canis qui revertitur ad vomitum*, et sus lota in volutabro luti.
+**606**. Secundo propheta respondet ***Domine exaltetur***.  
 
-**639**. Secundo comminatur poenam excaecationis: ***quem docebit?***
+**607**. Tertio Dominus poenam determinat spiritualem: ***videant et confundantur***, Apoc. I 7 *videbit eum omnis oculus*, in gloria humanitatis, non divinitatis; et corporalem, Apoc. XIX 20 *missi sunt in stagnum ignis*.  
 
-Unde primo ponitur quaestio: ***quem docebit?***, quasi dicat: ex quo vos scientiam repulistis, ***auditum***, scilicet quod audivi a Domino.
+**608**. Quarto propheta congaudens consentit, proponens duo bona consequentia ex dicta poena: pacem populi, ergo ***Domine***, hoc facto ***dabis pacem***, et hoc de te speramus: **omnia enim**, Phil. II 13 *Deus est qui operatur in nobis velle et perficere*, ***operatus es***, ***opera***, id est poenas quibus sufficienter nos purgasti, infra XL 2 ***suscepit de manu Domini duplicia***.  
 
-Secundo ponitur responsio: ***ablactatos***, id est humiles et parvulos simplices; Matth. XI 25 *abscondisti haec et revelasti ea parvulis*; vel quoscumque bonos separatos a lacte concupiscentiae.
+Secundo laudem Dei: ***Domine Deus, possederunt***, et ideo laudi tuae vacare non potuimus; ***tantum in te***, non habentes alium Deum cui soli vacemus, Thren. ult. *servi dominati sunt nostri*.  
 
-**640**. Nota super illo ***ebriis***, quod mali inebriantur vino,
+**609**. Nota super illo verbo ***urbs fortitudinis***, quod Christus est urbs fortitudinis nostrae quia nos confirmat:  
 
-primo materialis liquoris, Eph. V 18 *nolite inebriari vino, in quo est luxuria*;
+primo in fide, I Cor. III 11 *fundamentum aliud nemo potest ponere praeter id quod positum est, quod est Christus Jesus*;  
 
-secundo carnalis delectationis, Prov. VIII *venite, inebriemur* vino;
+secundo in spe, Hebr. VI 18 *fortissimum solatium habeamus qui confugimus ad tenendam propositam spem*;  
 
-tertio spiritualis erroris, supra XIX 14 ***et errare fecerunt Aegyptum in omni opere suo sicut errat ebrius et vomens***;
+tertio in caritate, Eph. III 17 *in caritate radicati et fundati*, Lucae XII 49 *ignem veni mittere in terram*;  
 
-quarto divinae punitionis, Thren. III 15 *inebriavit me absynthio*.
+quarto in opere, Phil. II 13 *Deus qui operatur nobis velle et perficere pro bona voluntate*;  
 
-Item inebriantur sancti,
+quinto in tentatione, I Cor. X 13 *fidelis Deus qui non permittet vos tentari supra id quod potestis*;  
 
-primo lacrymis compunctionis, supra XVI 9 ***inebriabo te lacryma mea***;
+sexto in accusatione, I Jo. I *advocatum habemus ad Deum Jesum Christum*;  
 
-secundo calice passionis, Ps. *calix tuus inebrians quam praeclarus est!*;
+septimo in remuneratione, Apoc. III 12 *faciam illum columnam in templo Dei mei*.  
 
-tertio incentivo amoris, Cant. IV *comedite amici et inebriamini*;
+**610**. Item nota super illo verbo ***aperite***, quod aperire debemus portas per meditationem,  
 
-quarto torrente felicis delectationis, Ps. *inebriabuntur ab ubertate domus tuae*.
+primo infernalis miseriae, infra XXXVIII 10 ***vadam ad portas inferi***;  
 
-**641**. Item nota super illo ***coronae superbiae***, quod coronantur mali et boni.
+secundo justae vitae, Prov. ult. *laudent in portis opera ejus*;  
 
-Mali coronantur primo corona vanae laetitiae, Sap. II 8 *coronemus nos rosis*;
+tertio caelestis gloriae, Ps. *confortavit seras portarum tuarum*.  
 
-secundo rerum opulentiae, supra XXIII 8 ***quis cogitavit hoc super Tyrum quondam coronatam?***;
+**611**. Item nota super illo ***pacem***, quod tria sunt quae faciunt pacem in praesenti:  
 
-tertio mundanae potentiae, Job XIX 9 *spoliavit me gloria mea et abstulit coronam de capite meo*;
+primo contemptus temporalis opulentiae, infra LVII 20 ***impii autem quasi mare fervens quod quiescere non potest***;  
 
-quarto superstitiosae observantiae, II Mach. VI 7 *cum Liberi sacra celebrarentur, cogebantur hedera coronati Libero circuire*.
+secundo subjugatio carnalis concupiscentiae, Eccli. XLIV 6 *pacificantes in domibus suis*;  
 
-**642**. Item coronantur sancti corona:
+tertio contemplatio divinae sapientiae, Ps. *in pace factus est locus ejus et habitatio ejus in Sion*.  
 
-primo nuptiali, infra LXI 10 ***quasi sponsum coronavit me corona***;
+**612**. Item nota super illo ***semita justi***, quod est via justitiae recta:  
 
-secundo triumphali, II Tim. II 5 *non coronabitur nisi qui legitime certaverit*;
+primo propter itineris brevitatem, Sap. VI *ambulavimus vias difficiles*;  
 
-tertio regali, infra LXII 3 ***eris corona gloriae in manu Dei tui***, Ps. *posuisti Domine in capite ejus coronam de lapide pretioso*;
+secundo propter situs aequalitatem, cujus medium non discrepat, Jo. XIII 3 *sciens quia ad Deum vadit*;  
 
-quarto sacerdotali, Eccli. XLV 14 *corona aurea super caput ejus, expressa signo sanctitatis*.
+tertio propter pulchritudinem, Jer. XXXI 23 *benedicat tibi Dominus, pulchritudo justitiae, mons sanctus*.  
 
-**643**. Item nota super illo ***ablactatos lacte***, quod est quoddam lac quod debet deseri, et istud multiplex:
+**613**. Nota super illo verbo ***pacem***, quod tria sunt quae faciunt pacem in futuro:  
 
-primo carnalis concupiscentiae, supra XI 8 ***qui ablactatus fuerit***;
+primo bonorum ubertas, Ps. *posuit fines tuos pacem*;  
 
-secundo imperfectae justitiae, Gen. XXI 8 *crevit puer et ablactatus est*;
+secundo malorum securitas, infra XXXII 18 ***sedebit populus meus in tabernaculis fiduciae***;  
 
-tertio rudis doctrinae, I Cor. III 1–2 *tamquam parvulis in Christo lac potum dedi vobis*.
+tertio immobilitas, Ps. *in pace in idipsum dormiam et requiescam*.  
 
-Et est lac quod debet amplecti:
+**614**. ***Morientes***. Hic petit ne punitos ulterius a poena liberet.  
 
-primo purae conscientiae, Thren. IV 7 *candidiores nive, nitidiores lacte*, propter nitorem;
+Et primo ponit petitionem: ***morientes***, peccatores, ***non vivant*** vita gloriae, nisi poeniteant; ***gigantes***, de sua potentia gloriantes, ***non resurgant*** ad gloriam, Ps. *non resurgent impii*, Eccli. XVI 8 *non exoraverunt pro peccatis suis antiqui gigantes*; vel petit ut hostes eorum deiecti ulterius non resurgant ad potentiam.  
 
-secundo sanae doctrinae propter dulcorem, Can. IV 11 *mel et lac sub lingua ejus*;
+Secundo ponit exauditionem: ***propterea***, Ps. *pereat memoria eorum cum sonitu*, Jer. VIII 12 *in tempore visitationis suae corruent*.  
 
-tertio aeternae gloriae propter facilem absorptionem, Josuae XX *possidete terram fluentem lac et mel*.
+**615**. ***Indulsisti***. Hic inducit Deum ad iustitiae opus per experimentum;  
 
-**644**. ***Quia manda***. Hic ponit contemptum doctrinae,
+et primo per experimentum in gentibus,  
 
-et primo per blasphemiam qua prophetas deridebant dicentes ***manda***, quia his verbis comminando utebantur, supra XIII ***mandabo militiae*** caeli, Ier. III *mandabo nubibus; **expecta***, hic promittendo, Habacuc II 3 *si moram fecerit, expecta eum, quia veniens veniet*. Et addit poenam: ***in loquela***, id est ita carebitis intellectu prophetarum ac si aliquis loqueretur vobis motu labii tantum et lingua extranea; vel statim inferet vobis plagas. Et de ista locutione, Sap. II 19 *contumelia et tormento interrogemus illum*.
+secundo in Judaeis: ***sicut quae concepit***.  
 
-**645**. Secundo quantum ad obedientiam: ***cui dixit***.
+Circa primum duo facit.  
 
-Unde primo ponit praeceptum: ***haec requies***, Matth. XXV 40 *quod uni ex minimis meis fecistis, mihi fecistis*;
+Primo probat per experimentum inutilitatem misericordiae, tum quantum ad remissionem poenarum: ***indulsisti***, tum quantum ad multiplicationem bonorum: ***elongasti***, Jer. V 27 *magnificati sunt et ditati, et incrassati sunt et impinguati, et praeterierunt sermones meos pessime*, Prov. I 32 *prosperitas stultorum*.  
 
-secundo contemptum: ***et noluerunt***, Ez. III 7 *domus autem Israel noluit audire te, quia nolunt audire me*;
+Secundo utilitatem vindicantis justitiae: ***Domine in angustia***, Oseae VI 1 *in tribulatione sua mane consurgent ad me*, Ez. VI *in tempore afflictionis*.  
 
-tertio comminatur interitum: ***et erit eis***, id est pro verbis suis hanc poenam patientur, Matth. XII 37 *ex verbis tuis, te judico serve nequam; **ut vadant*** in interitum.
+**616**. ***Sicut quae concepit***. Hic probat idem per experimentum in Judaeis.  
 
-**646**. ***Propter hoc***. Hic excludit remedium.
+Et primo ponit tribulationis flagellum: ***sicut quae concepit***, Jo. XVI 21 *mulier cum parit tristitiam habet*, Ps. *ibi dolores ut parturientis*.  
 
-Et primo ponit duo remedia,
+Secundo emendationis fructum: ***a facie tua***, Hebr. XII 11 *omnis quidem disciplina in praesenti quidem videtur non esse gaudii sed moeroris; postea autem fructum pacatissimum exercitatis per eam reddit justitiae*.  
 
-secundo excludit ab eis utrumque: ***et ponam***.
+**617**. ***Justitiam non fecimus***. Hic denuntiat impetratam pacem, et circa hoc tria facit.  
 
-Circa primum ponit duo remedia.
+Primo ostenditur ratio dilationis: ***justitiam non fecimus***, ut alludat ei quod dicitur Deut. XXVIII 7 *dabit Dominus inimicos tuos qui consurgunt adversus te, corruentes in conspectu tuo*.  
 
-Unum in quo confidebant, scilicet pactum cum idolis, unde ponit pactum: ***percussimus foedus cum morte***, id est cum diabolo, Job XL 23 *numquid feriet tecum pactum et accipies eum servum sempiternum?*; et pacti fructum: ***flagellum inundans***, id est persecutio; ***mendacium***, id est idolum quod vos prophetae dicitis mendacium, Ps. *in labore hominum non sunt, et cum hominibus non flagellabuntur*.
+**618**. Secundo ponitur promissio restitutionis populi per resurrectionem, sive corporalem in die novissimo, sive a miseria captivitatis. Unde promittitur resurrectio: ***vivent mortui***, Ez. XXXVII, vox prophetae ad Dominum; indicitur resurgentibus gratiarum actio: ***expergiscimini***, Dan. XII 2 *multi ex his qui dormiunt in pulvere terrae evigilabunt*; et assignatur resurrectionis causa vel ratio: ***quia ros lucis***, scilicet divina benignitas, Oseae VI 3.  
 
-Secundum est remedium quod Deus sanctis parat, scilicet Christum: ***ecce ego***, Ps. *lapidem quem reprobaverunt aedificantes; **qui crediderit non festinet***, sed expectet Habacuc II 3 *si moram fecerit, expecta eum*, et hoc contra malorum blasphemiam.
+**619**. Tertio ostenditur hostium destructio, <et primo ponit ipsam>: ***terram gigantium***, id est superborum et potentium, supra XVII 1 ***erit quasi acervus lapidum in ruina***.  
 
-**647**. ***Et ponam***. Hic excludit utrumque dictorum remediorum,
+Secundo populi Dei immunitatem: ***vade populus meus**; **cubicula***, sepulcra, vel ad litteram munitionem, in quibus interdum se caute custodiunt, infra LIV 8 ***in momento indignationis abscondi faciem meam parumper a te, et misericordia sempiterna misertus sum tui***, Apoc. VII *dictum est illis ut quiescerent adhuc modicum, donec compleretur numerus fratrum suorum*.  
 
-et primo primum,
-
-secundo secundum: ***coangustatum***.
-
-Circa primum tria:
-
-primo ponit exclusionis justum judicium: ***ponam***, Sap. XI 21 *omnia in numero et pondere fecisti*;
-
-secundo excludit pactum: ***et subvertet grando*** tribulationis, et ponit quatuor contra omnia quae supra dixerat, Job IV *spes hypocritae peribit*;
-
-tertio exclusionis fructum: ***et tantummodo***, supra XXVI 16 ***Domine, in angustia requisierunt te***.
-
-**648**. ***Coangustatum***. Hic excludit secundum remedium.
-
-Et primo ponit in eis impedimentum quare non valeat eis: ***coangustatum***; loquitur secundum similitudinem adulterae, quae non potest eodem lecto habere virum et adulterum, ita nec ipse idolis cultum et divinum auxilium, I Cor. X 21 *non potestis mensae Domini participes esse et mensae daemoniorum*.
-
-Secundo ponit liberantis adventum: ***sicut in monte divisionum***. Tangit historiam quae habetur II Reg. V; ***sicut in valle***, Iosuae X.
-
-Tertio excludit misericordiae auxilium: ***ut faciat opus suum***, id est ut misereatur nobis sicut tunc, interrogative; et respondit: ***alienum***, Ps. *miserationes ejus super omnia opera ejus*.
-
-**649**. ***Et nunc nolite***. Hic concludit sanum et salubre consilium,
-
-et primo prohibet illusionem: ***nolite illudere**; **vincula***, captivitatis, Prov. III 34 *illusores ipsi deludentur*;
-
-et assignat rationem: ***consummationem enim***.
-
-**650**. ***Auribus percipite***. Hic ponit consolationem.
-
-Et primo excitat attentionem: ***audite***, Deut. XXXII 1 *audite caeli quae loquor*.
-
-Secundo ponit consolationem sub similitudine agricultoris: ***numquid tota die***, per quam ostendit tria, scilicet
-
-punientis Dei intentionem, quia ut fructificemus sicut arator: ***ut serat**; **gith***, genus leguminis simile cymino;
-
-secundo judicii discretionem, quia alio modo punit hos et illos, sicut rusticus alio modo excutit triticum et cyminum, et hoc ibi: ***et erudiet**; **panis***, id est frumentum;
-
-tertio poenarum cessationem quantum ad hos qui corriguntur: ***verumtamen***, I Cor. X *debet qui arat in spe*.
-
-Tertio ponit expositionem: ***et hoc a Domino***, Ps. *mirabilia opera tua*.
-
-Caput 29
+Tertio ponit destructionis ordinem, quia per judicium; unde ponit judicis adventum: ***ecce enim Dominus***, Mich. I 3 *ecce Dominus egredietur*, et omnes angeli ejus cum eo; et manifestationem criminum: ***et revelabit***, Job XVI 19 *terra ne operias sanguinem meum, neque inveniat in te locum latendi clamor meus*.

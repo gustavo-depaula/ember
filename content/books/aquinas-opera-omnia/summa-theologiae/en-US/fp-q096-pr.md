@@ -1,9 +1,9 @@
-# Question 96 — We next consider the mastership which belonged to man in the state of innocence. Under this head there are four points of inquiry:
+# Question 96 — The Mastership Belonging to Man in the State of Innocence
 
-(1) Whether man in the state of innocence was master over the animals?
+We next consider the mastership which belonged to man in the state of innocence. Under this head there are four points of inquiry:  
 
-(2) Whether he was master over all creatures?
+(1) Whether man in the state of innocence was master over the animals?  
 
-(3) Whether in the state of innocence all men were equal?
-
-(4) Whether in that state man would have been master over men?
+- (2) Whether he was master over all creatures?
+- (3) Whether in the state of innocence all men were equal?
+- (4) Whether in that state man would have been master over men?

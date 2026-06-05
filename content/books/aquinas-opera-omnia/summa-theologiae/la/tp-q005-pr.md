@@ -1,9 +1,9 @@
-# Quaestio 5 — Deinde considerandum est de assumptione partium humanae naturae. Et circa hoc quaeruntur quatuor.
+# Quaestio 5
 
-Primo, utrum filius Dei debuerit assumere verum corpus.
+Deinde considerandum est de assumptione partium humanae naturae. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum assumere debuerit corpus terrenum, scilicet carnem et sanguinem.
+Primo, utrum filius Dei debuerit assumere verum corpus.  
 
-Tertio, utrum assumpserit animam.
-
-Quarto, utrum assumere debuerit intellectum.
+- Secundo, utrum assumere debuerit corpus terrenum, scilicet carnem et sanguinem.
+- Tertio, utrum assumpserit animam.
+- Quarto, utrum assumere debuerit intellectum.

@@ -1,5 +1,7 @@
-# Quaestio 43 — Deinde considerandum est de causa timoris. Et circa hoc quaeruntur duo.
+# Quaestio 43
 
-Primo, utrum causa timoris sit amor.
+***Deinde considerandum est de causa timoris. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum causa timoris sit defectus.
+Primo, utrum causa timoris sit amor.  
+
+- Secundo, utrum causa timoris sit defectus.

@@ -1,155 +1,111 @@
-# Chapter 29
+# Chapter 27
 
-> ^29:2^ And I will make a trench about Ariel, and it shall be in sorrow and mourning, and it shall be to me as Ariel.
+^27:1^ In that day the Lord with his hard, and great, and strong sword shall visit leviathan the bar serpent, and leviathan the crooked serpent, and shall slay the whale that is in the sea.  
 
-> ^29:3^ And I will encircle you like a sphere round about you,*Circumdabo quasi sphaeram in circuitu tuo*. DR: “make a circle round about thee.” and I will cast up a rampart against you, and raise up bulwarks to besiege you.
+> ^27:2^ In that day the vineyard of pure wine shall sing to him. *(*Vinea meri cantabit ei*. DR: “there shall be singing to the vineyard of pure wine.”)*
 
-> ^29:4^ You shall be humbled,*Humiliaberis*. DR: “brought down.” you shall speak out of the earth, and your speech shall be heard out of the ground: and your voice shall be from the earth like that of the python, and out of the earth your speech shall mutter.
+> ^27:3^ I am the Lord that keep it, I will suddenly give it drink: lest any hurt come to it, I keep it night and day.
 
-> ^29:5^ And the multitude of them that fan you, shall be like small dust: and as ashes passing away, the multitude of them that have prevailed against you.
+> ^27:4^ There is no indignation in me: who shall give to me *(*Mihi*. Vg.: *me*. DR: “make me.”)* a thorn and a brier in battle: shall I march against it, shall I set it on fire together?
 
-> ^29:6^ And it shall be at an instant suddenly. A visitation shall come from the Lord of hosts in thunder, and with earthquake, and with a great noise of whirlwind and tempest; and with the flame of devouring fire.
+> ^27:5^ Or rather shall I take hold *(*Tenebo*. Vg.: *tenebit*. DR: “shall it take hold.”)* of my strength, shall it make peace with me, shall it make peace with me?
 
-> ^29:7^ And the multitude of all nations that have fought against Ariel, shall be as the dream of a vision by night, and all that have fought, and besieged and prevailed against it.
+> ^27:6^ When they shall rush in unto Jacob, Israel shall blossom and bud, and they shall fill the face of the world with seed.
 
-> ^29:8^ And as he that is hungry dreams, and eats, but when he is awake, his soul is empty: and as he that is thirsty dreams, and drinks and after he is awake, is yet faint with thirst, and his soul is empty: so shall be the multitude of all the Gentiles, that have fought against mount Zion.
+> ^27:7^ Has he struck him according to the stroke of him that struck him? Or is he slain, as he killed them that were slain by him?
 
-> ^29:9^ Be astonished, and wonder, waver, and stagger: be drunk, and not with wine: stagger, and not with drunkenness.
+> ^27:8^ In measure against measure, when it shall be cast off, you shall judge it. He has meditated with his severe spirit in the day of heat.
 
-> ^29:10^ For the Lord has mingled for you the spirit of a deep sleep, he will shut up your eyes, he will cover your prophets and princes, that see visions.
+> ^27:9^ Therefore upon this shall the iniquity of the house of Jacob be forgiven: and this is all the fruit, that the sin thereof should be taken away, when he shall have made all the stones of the altar, as burnt stones broken in pieces, the groves and temples shall not stand.
 
-> ^29:11^ And the vision of all shall be unto you as the words of a book that is sealed which when they shall deliver to one that is learned, they shall say: read this: and he shall answer: I cannot, for it is sealed.
+> ^27:10^ For the strong city shall be desolate, the beautiful city shall be forsaken, and shall be left as a wilderness: there the calf shall feed, and there shall he lie down, and shall consume its branches.
 
-> ^29:12^ And the book shall be given to one that knows no letters, and it shall be said to him: read: and he shall answer: I know no letters.
+> ^27:11^ Its harvest shall be destroyed with drought, women shall come and teach it: for it is not a wise people, therefore he that made it, shall not have mercy on it: and he that formed it, shall not spare it.
 
-> ^29:13^ And the Lord said: forasmuch as this people draw near me with their mouth, and with their lips glorify me, but their heart is far from me, and they have feared me with the commandment and doctrines of men:
+> ^27:12^ And it shall come to pass, that in that day the Lord will strike from the channel of the river even to the torrent of Egypt, and you shall be gathered together one by one, O you children of Israel.
 
-> ^29:14^ Therefore behold I will proceed to cause an admiration in this people, by a great and wonderful miracle: for wisdom shall perish from their wise men, and the understanding of their prudent men shall be hid.
+> ^27:13^ And it shall come to pass, that in that day a noise shall be made with a great trumpet, and they that were lost, shall come from the land of the Assyrians, and they that were outcasts in the land of Egypt, and they shall adore the Lord in the holy mount in Jerusalem.
 
-> ^29:15^ Woe to you that are deep of heart, to hide your counsel from the Lord: and their works are in the dark, and they say: who sees us, and who knows us?
+> **620**. ***In that day***. In this part he recalls divine and paternal correction,
 
-> ^29:16^ This thought of yours is perverse: as if the clay should think against the potter, and the work should say to the maker thereof: you made me not: or the thing framed should say to him that fashioned it: you understand not.
+and first, by foreign scourges,  
 
-> ^29:17^ Is it not yet a very little while, and Libanus shall be turned into Carmel,*Carmel*. DR: “Charmel.” and Carmel shall be esteemed as a forest?
+second, by their own scourges: ***in that day*** (Isa 27:2); hence it said in Wisdom 11:11: *for you didst admonish and try them as a father*.  
 
-> ^29:18^ And in that day the deaf shall hear the words of the book, and out of darkness and obscurity the eyes of the blind shall see.
+Concerning the first, he sets out the scourge of Babylon: ***with his sword***, namely, vengeance; ***Leviathan***, namely, Nabuchodonosor, because of the addition *(According to Jerome, *De nominibus Hebraicis* (PL 883–884), “Leviathan” means “their addition” (“additamentorum eorum”). Cf. Gregory, *Moralia*, 4.9.15, 33.9.17.)* to his kingdom that he subjugated to himself; ***the serpent***, because of his poisonous tyranny; ***bar***, because of the correction of the people by God, above: ***woe to the Assyrian, he is the rod of my anger*** (Isa 10:5); ***crooked***, because of their infidelity: *behold, he will drink up a river, and not wonder* (Job 40:18); ***the whale***: *I sit in the heart of the sea* (Ezek 28:2).  
 
-> ^29:19^ And the meek shall increase their joy in the Lord, and the poor men shall rejoice in the Holy One of Israel.
+**621**. ***In that day***. Here correction by their own scourges is set out.  
 
-> ^29:20^ For he that did prevail has failed, the scorner is consumed, and they are all cut off that watched for iniquity:
+Hence he first describes the chastisement;  
 
-> ^29:21^ That made men sin by word, and supplanted him that reproved them in the gate, and declined in vain from the just.
+second, the consolation: ***and it shall come to pass, that in that day*** (Isa 27:13).  
 
-> ^29:22^ Therefore thus says the Lord to the house of Jacob, he that redeemed Abraham: Jacob shall not now be confounded, neither shall his countenance now be ashamed:
+Concerning the first, he does two things:  
 
-> ^29:23^ But when he shall see his children, the work of my hands in the midst of him sanctifying my name, and they shall sanctify the Holy One of Jacob, and shall glorify the God of Israel:
+first, he foretells the chastisement;  
 
-> ^29:24^ And they that erred in spirit, shall know understanding, and they that murmured, shall learn the law.
+second, the manner is examined: ***there is no indignation in me*** (Isa 27:4).  
 
-> **651**. ***Woe to Ariel***. In this part, he sets out threatening against the people or against the city, and this is divided into two parts;
+Concerning the first, he does three things.  
 
-in the first, he threatens the punishment of temporal destruction;
+First, he foretells the song of sorrow: ***the vineyard***, formerly, in the prophets and patriarchs, ***of pure*** wine, *(*Vini meri.*)* above: ***for the vineyard of the Lord of hosts is the house of Israel*** (Isa 5:7).  
 
-in the second, the punishment of spiritual blinding: ***be astonished*** (Isa 29:9).
+Second, he sets out the intention of the one who punishes: ***I am the Lord that keep it***, below: ***you have drunk at the hand of the Lord the cup of his wrath*** (Isa 51:17).  
 
-Concerning the first, he does two things:
+Third, he sets out the benefit, for which they were ungrateful: ***lest any hurt come to it, I keep it night and day***: *your word, O Lord, which heals all things* (Wis 16:12).  
 
-in the first, he threatens destruction;
+**622**. ***There is no indignation in me***. Here he examines the manner of punishment,  
 
-in the second, he sets out consolation of any kind: ***and the multitude of all nations that have fought against Ariel, shall be as the dream*** (Isa 29:7).
+and first, the deliberation of the judge is set out;  
 
-The first of these is divided into two:
+second, the execution of the result of deliberation: ***for the strong city shall be desolate*** (Isa 27:10).  
 
-in the first, he sets out the destruction of Jerusalem by the Babylonians;
+Concerning the first, he does three things.  
 
-in the second, destruction by the Romans: ***and I will encircle you like a sphere*** (Isa 29:3).
+First, he sets out severe judgment, setting out the wrath of rage: ***there is no indignation in me***, as if to say: indeed, I am justly indignant, for they are ungrateful for my benefits, below: ***full of the indignation of the Lord*** (Isa 51:20); and out of wrath he determines a severe punishment: ***who shall give to me a thorn and a brier***, as to the preceding difficulties that arose together among them, above: ***briers and thorns shall come up over it*** (Isa 5:6); ***in battle***, as to the attack of the enemy: *I myself will fight against you* (Jer 21:5–6); ***shall I set it on fire***, as to the destruction of homes and cities: *my indignation goes forth like a fire* (Jer 21:12).  
 
-**652**. Concerning the first, he does three things.
+**623**. Second, he sets out the moderation of the sentence: ***or rather shall I take hold of my strength?*** As if to say: ***I will restrain my wrath***; by way of contrast: *the Lord will not turn away the wrath of his indignation* (Jer 30:24). And he sets out the fruit of the moderation of the sentence as to the good, which all will bear in relation to God: ***shall it make peace with me***, as if to say: will he make peace with me by good works? Below: ***the work of justice shall be peace*** (Isa 32:17). In relation to himself, ***Israel shall blossom***, in faith, or in good intention, *and bud*, in completion of the work, below: ***Jerusalem shall flourish like the lily*** (Isa 35:1); and in relation to his neighbor: ***they shall fill the face of the world with seed*, *who shall rush in***, namely, the Apostles, above: ***the law shall come forth from Zion, and the word of the Lord from Jerusalem*** (Isa 2:3); *their sound has gone forth into all the earth: and their words unto the ends of the world* (Ps 18:5[19:4]).  
 
-First, he recalls their former dignity: ***Ariel***, that is, lion of God, for by the power of God in the time of David and Solomon they feared no one, like a lion: *a lion, the strongest of beasts, who has no fear of any thing he meets* (Prov 30:30); or because of the altar of holocausts, which was there in Jerusalem, because, like a lion, it consumed animals, and this is understood from Ezekiel 43:15; or perhaps because of its shape, for it was situated in the manner of a lion. ***The city which David took***: *for I have taken*Expugnavi*. Vg.: *interfeci*. DR: “killed.” both a lion and a bear* (1 Sam 17:36).
+**624**. And he sets out the supplementing of the punishment as to the ungrateful: ***has he struck him according to the stroke of him that struck him?*** Here he reproaches the benefit of the moderated punishment: *he has not dealt with us according to our sins* (Ps 102[103]:10). ***In measure***: here he threatens judgment adequate to their sin; ***when it shall be cast off***, from the worship of God through faithlessness, not believing in Christ: *according to the measure of the sin shall the measure also of the stripes be* (Deut 25:2); ***he has meditated***: here he shows the support of the sentence, ***with his severe spirit***, because it cannot be placated, above: ***cease therefore from the man, whose breath *(*Spiritus*.)* is in his nostrils*** (Isa 2:22).  
 
-**653**. Second, he sets out the destruction, setting out three things:
+**625**. Third, he explains the motive for moderating the punishment, so that he would not destroy them entirely at that time, namely, because Christ and the Apostles were to descend from that people, and through their preaching the worship of idols was to be abandoned; and this is what is meant by, ***when he shall have made all the stones of the altar, as burnt stones broken in pieces***, above: ***man shall bow down himself to his Maker, and his eyes shall look to the Holy One of Israel*** (Isa 17:7).  
 
-the ending of feasts: ***year is added to year***, as if to say: for many years; ***the solemnities have been unrolled***, that is, they have perished: *for they shall sit many days without sacrifice, and without ephod* (Hos 3:4).
+**626**. ***The strong city***, namely, Jerusalem: *how doth the city sit solitary that was full of people?* (Lam 1:1); as to the power of the enemy: ***there the calf***, the army of the enemy, ***shall feed***, as though resting without fear; ***branches***, metaphorically, that is, ears of wheat, which signify princes, above: ***wild beasts shall rest there*** (Isa 13:21); or literally, it may be a sign of desolation: *they saw the chambers joining to the temple thrown down* (1 Macc 4:38). And the destruction of men: ***its harvest shall be destroyed with drought***; this is a metaphor: that is, as ears of wheat are crushed in the drought of summer; ***women shall come and teach it***, by whom the people were thrown greatly into sin, above: ***as for my people, their oppressors have stripped them, and women have ruled over them*** (Isa 3:12); or because the women themselves taught them, as Deborah (Judg 4), and Holda (2 Kgs 22:14).  
 
-The siege: ***and I will make a trench***, namely, by the Chaldees: *and lay siege against it* (Ezek 4:2);
+**627**. Second, he sets out the fairness of the punishment in relation to their guilt: ***for it is not a wise people***, above: ***therefore is my people led away captive, because they had not knowledge*** (Isa 5:13).  
 
-and he intimates the taking of the city from its sadness: ***and it shall be in sorrow***: *my sighs are many* (Lam 1:22).
+**628**. Third, the magnitude of the destruction, both as to universality of place: ***and it shall come to pass, that in that day the Lord will strike from the channel of the river even to the torrent of Egypt***, that is, from one end to the other, above: ***from the sole of the foot unto the top of the head, there is no soundness therein*** (Isa 1:6); and as to the small number of men who will remain: ***and you shall be gathered together one by one***: *you shall remain few in number* (Deut 28:62).  
 
-**654**. Third, he sets out the reparation made under Jesus the high priest and others, about whom it is written through all of Ezra. ***And it shall be to me as Ariel***, as if to say: retaining a shadow of its former dignity.
+**629**. ***And it shall come to pass***. Here he sets out the consolation, through return to their land. ***A great trumpet***, the precept of the king, above: ***he shall set up a sign*** *(DR: “standard.”)* ***unto the nations, and shall assemble the fugitives of Israel*** (Isa 11:12).  
 
-On the contrary: *great is the glory of this last house more than of the first* (Hag 2:10).
+**630**. Note on the words, ***the Lord with his sword shall visit*** (Isa 27:1), that the vengeance of God is called a sword that is:  
 
-And to this is to be said that this is said because it had been visited bodily by the Son of God himself.
+first, hard because of the harshness of punishment;  
 
-**655**. ***And I will encircle***. Here he threatens destruction by the Romans. And concerning this, he sets out four things.
+second, great, because of the universality of those who are punished: *a great sword was given to him* (Rev 6:4);  
 
-First, the siege: ***and I will encircle you like a sphere***, that is, round about: *your enemies shall cast a trench about you* (Luke 19:43); *he shall laugh at every strong hold, and shall cast up a mount* (Hab 1:10).
+third, strong, because of the power of the one who punishes: *flee from the face of the sword* (Job 19:29);  
 
-Second, the humiliation of the besieged: ***you shall be humbled***; and the sign of their humiliation, ***you shall speak out of the earth***, that is, just as if you were under the earth, so shall you humbly be heard, bearing the words of the python, which chanted silently: *I will take away out of the midst of you your proud boasters* (Zeph 3:11); or their meriting of humiliation, accusing them of the sin of avarice: ***you shall speak out of the earth***, and idolatry: ***and your voice shall be like that of the python***.
+fourth, sharp, because it is piercing, even to the soul: *the word of God is living and effectual and more piercing than any two edged sword* (Heb 4:12);  
 
-Third, he sets out the multitude of the enemy: ***and the multitude of them that fan you, shall be like small dust***: *a nation come up upon my land* (Joel 1:6), or the destruction of the enemy, as above: ***he shall be carried away as the dust of the mountains before the wind*** (Isa 17:13).
+fifth, shining, because of its evident fairness: *you shall perish by the sword, it shall devour you like the bruchus* (Nah 3:15).  
 
-Fourth, he sets out the destruction itself: ***and it shall be at an instant suddenly***, metaphorically, because of the ferocity of the enemy: *he shall come up as a cloud, and his chariots as a tempest: his horses are swifter than eagles* (Jer 4:13).
+**631**. Also on the word, ***Leviathan*** (Isa 27:1), note that the devil is called Leviathan, because he adds, *(See note on verse 1.)*  
 
-**656**. ***And the multitude of all nations that have fought against Ariel, shall be as the dream***. Here he adds some consolation from the punishment of the enemy, for like a vain thing, they will go into nothing, not carrying back anything advantageous from the destruction of Judea, just as someone hungry or thirsty gets nothing from food or drink he dreams of: *the hopes of a man that is void of understanding are vain and deceitful: and dreams lift up fools* (Sir 34:1); *I will make Jerusalem a burdensome stone to all people* (Zech 12:3).
+first, to human wickedness: *add you iniquity upon their iniquity* (Ps 68:28[69:27]);  
 
-**657**. Note on the words, ***it shall be as the dream*** (Isa 29:7), that something is called a dream:
+second, to his own power: *all these will I give you, if falling down you will adore me* (Matt 4:9);  
 
-first, because of vanity: *the vision of dreams is the resemblance of one thing to another* (Sir 34:3);
+third, to divine justice: *my iniquity is greater than that I may deserve pardon* (Gen 4:13);  
 
-second, because of brevity: *as a dream that flees away he shall not be found* (Job 20:8);
+fourth, to divine mercy: *whereas she was sad, he comforted her with sweet words* (Gen 34:3).  
 
-third, because of obscurity of understanding: *by a dream in a vision by night* (Job 33:15);
+**632**. Note also on the word, ***serpent*** (Isa 27:1), that the devil is called a serpent,  
 
-fourth, because of perversity of soul, below: ***sleeping and loving dreams*** (Isa 56:10).
+first, because of his ability to renew himself: *Satan himself transforms himself into an angel of light* (2 Cor 11:14);  
 
-**658**. ***Be astonished***. Here he threatens the punishment of blinding,
+second, because of his manner of going about: *I have gone round about the earth, and walked through it* (Job 1:7);  
 
-and first, he foretells the blinding of the Jews;
+third, because of his poisonous bite: *in the end, it will bite like a snake* (Prov 23:32);  
 
-second, the conversion of the gentiles: ***is it not yet a very little while*** (Isa 29:17).
-
-Concerning the first, he does two things:
-
-first, he sets out the blinding;
-
-second, he assigns the reason for it: ***and the Lord said*** (Isa 29:13).
-
-**659**. Concerning the first, he does three things.
-
-First, he foretells the blinding, setting out those things which confused the judgment of their reason: ***be astonished***, from consideration of the guilt of the wicked or of their punishment: *be astonished, O you heavens, at this, and you gates thereof, be very desolate* (Jer 2:12); ***and wonder***, from consideration of great things: *wonderful are your works* (Ps 138[139]:14); ***waver***, from uncertainty in choosing: *for he that wavers is like a wave of the sea, which is moved and carried about by the wind* (Jas 1:6); ***stagger***, from inconstancy of intention: *your hands*Manus*. Vg.: *sermones*. DR: “words.” have confirmed them that were staggering* (Job 4:4); ***be drunk***, from anxiety of sorrows: *drink you also, and fall fast asleep: the cup of the right hand of the Lord shall compass you* (Hab 2:16).
-
-Second, he sets out the manner of blinding: ***for the Lord has mingled for you the spirit of a deep sleep***, that is, as if he offered mixed wine to drink; ***he will shut up your eyes***, namely, the prophets, above: ***the Lord has mingled in the midst thereof the spirit of giddiness*** (Isa 19:14).
-
-Third, he sets out the effect of the blinding, for they will not understand the book of the Sacred Scriptures and the visions of all the prophets: ***and the vision of all shall be unto you as the words of a book that is sealed***: *and I saw, in the right hand of him that sat on the throne, a book, sealed with seven seals* (Rev 5:1).
-
-**660**. ***And the Lord said***. Here he sets out the cause of the blinding, namely, their own sins;
-
-and first, in the affections;
-
-second, in the intellect: ***woe to you that are deep of heart*** (Isa 29:15).
-
-Concerning the first, he does two things.
-
-First, he sets out the fault of contempt of the divine: ***but their heart is far from me***, for they cloak it with their words, ***with their lips***; with human observances: ***and they have feared me with the commandment and doctrines of men***: *you are near in their mouth, and far from their reins* (Jer 12:2); *you have made void the commandment of God for your tradition* (Matt 15:6).
-
-Second, the punishment: ***therefore behold***; ***great***, according to their reckoning, or formerly; *wisdom shall perish* (Obad 1:8); *I will destroy the wisdom of the wise: and the prudence of the prudent I will reject* (1 Cor 1:19).
-
-**661**. ***Woe to you that are deep of heart***. Here he sets out their sin on the part of the intellect, for they did not believe in the providence of God, that he knew what happens among us. And concerning this, he does two things.
-
-First, the devising of error is set out, and they said this was hidden from God because of the depth of their heart, where they handled their wicked counsels; hence he says: ***woe to you that are deep of heart***: *the heart is deep*Profundum*. Vg.: *pravum*. DR: “perverse.” above all things, and unsearchable, who can know it?* (Jer 17:9); and because of the darkness of the places in which they carried out wicked deeds; hence he says: ***their works are in the dark***: *every one that doth evil hates the light* (John 3:20); *say not: I shall be hidden from God* (Sir 16:16).
-
-**662**. Second, the just rebuke is set out, ***this thought of yours is perverse*. *You made me not***, for God knows a thing in as much as he is its cause, below: ***woe to him that gainsays his maker*** (Isa 45:9), below: ***and now, O Lord, you are our father, and we are clay: and you are our maker, and we all are the works of your hands*** (Isa 64:8).
-
-**663**. ***Is it not yet a very little while?*** Here he foretells the conversion of the gentiles, and concerning this, he does three things.
-
-First, he foretells their conversion to grace: ***Libanus***, a gentile people, for the mountain was in the land of the gentiles; ***into Carmel***, into grace, which the Jews had through circumcision, because ***Carmel*** means “knowledge of circumcision”;Cf. Jerome, *De nominibus Hebraicis* (PL 864), and *In Isaiam* (PL 335B). ***as a forest***, that is, as barrenness, which the gentiles were in before, below (Isa 32:15) has the same thing. To sacred knowledge: ***the deaf***, namely, the gentiles, who had not heard the words of the law before: *the blind see* (Matt 11:5); *for judgment I am come into this world: that they who see not may see; and they who see may become blind* (John 9:39). To spiritual joy: ***and the meek shall increase their joy***: *I will be glad, and rejoice in you: I will sing to your name, O you Most High* (Ps 9:3[2]).
-
-**664**. Second, he indicates the occasion or the reason of their conversion: from the fall of the devil: ***for he that did prevail***, by power, ***has failed*, *the scorner***, the deceiver by cunning, above: ***the wretch is consumed: he has failed, that trod the earth under foot*** (Isa 16:4); from the blindness of the Jewish people, *that blindness in part has happened in Israel, until the fullness of the Gentiles should come in* (Rom 11:25). ***They are cut off that watched***: zeal to do evil: *for they sleep not, except they have done evil* (Prov 4:16). ***That made men sin***, by wicked example and teaching; ***that reproved them in the gate***, as to contempt of instruction: *they have hated him that rebukes in the gate* (Amos 5:10); ***and declined in vain from the just***, as to the vanity of sin, for that is vain, which fails to attain its end: *what has pride profited us? Or what advantage has the boasting of riches brought us?* (Wis 5:8).
-
-**665**. Third, he sets out the conversion of the Jews at the end of the world, when he says: ***therefore thus says the Lord that redeemed Abraham***, Genesis 11; ***Jacob shall not now***, that is, at this time, ***be confounded***, by a good confounding: *there is a confounding*Confusio*. DR: “shame.” that brings glory and grace* (Sir 4:25). ***His children***, the Apostles. ***They that murmured***, that is, who at first murmured, above: ***when they shall rush out fromEgredientur impetu a*. Vg.: *ingrediuntur impetu ad*. DR: “they shall rush in unto.” ***Jacob, Israel shall blossom*** (Isa 27:6).
-
-**666**. Or this may be otherwise explained as concerning the prosperity that was promised to them when Sennacherib or Nabuchodonosor were destroyed: ***Carmel shall be esteemed as a forest*** (Isa 29:17), that is, the fertility of the land of the promise will be such that the fertility of Carmel will be reckoned barrenness in comparison to it; ***the scorner*** (Isa 29:20), Sennacherib or Nabuchodonosor; ***he shall see his children . . . sanctifying my name*** (Isa 29:23), the three children in the furnace of fire; or that their children will praise my name, because they themselves in their youth did not.
-
-Chapter 30
+fourth, because of his manner of enveloping: *he sets up his tail like a cedar, the sinews of his testicles are wrapped together* (Job 40:12).

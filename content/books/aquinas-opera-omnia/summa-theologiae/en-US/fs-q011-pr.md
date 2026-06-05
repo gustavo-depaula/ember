@@ -1,9 +1,9 @@
-# Question 11 — We must now consider enjoyment: concerning which there are four points of inquiry:
+# Question 11 — Of Enjoyment
 
-(1) Whether to enjoy is an act of the appetitive power?
+We must now consider enjoyment: concerning which there are four points of inquiry:  
 
-(2) Whether it belongs to the rational creature alone, or also to irrational animals?
+(1) Whether to enjoy is an act of the appetitive power?  
 
-(3) Whether enjoyment is only of the last end?
-
-(4) Whether it is only of the end possessed?
+- (2) Whether it belongs to the rational creature alone, or also to irrational animals?
+- (3) Whether enjoyment is only of the last end?
+- (4) Whether it is only of the end possessed?

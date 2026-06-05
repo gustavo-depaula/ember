@@ -1,11 +1,11 @@
-# Question 7 — After considering the divine perfection we must consider the divine infinity, and God's existence in things: for God is everywhere, and in all things, inasmuch as He is boundless and infinite.
+# Question 7 — The Infinity of God
 
-Concerning the first, there are four points of inquiry:
+After considering the divine perfection we must consider the divine infinity, and God’s existence in things: for God is everywhere, and in all things, inasmuch as He is boundless and infinite.  
 
-(1) Whether God is infinite?
+Concerning the first, there are four points of inquiry:  
 
-(2) Whether anything besides Him is infinite in essence?
+(1) Whether God is infinite?  
 
-(3) Whether anything can be infinitude in magnitude?
-
-(4) Whether an infinite multitude can exist?
+- (2) Whether anything besides Him is infinite in essence?
+- (3) Whether anything can be infinitude in magnitude?
+- (4) Whether an infinite multitude can exist?

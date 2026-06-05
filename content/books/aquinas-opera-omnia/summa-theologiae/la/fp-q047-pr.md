@@ -1,7 +1,10 @@
-# Quaestio 47 — Post productionem creaturarum in esse, considerandum est de distinctione earum. Erit autem haec consideratio tripartita. Nam primo considerabimus de distinctione rerum in communi; secundo, de distinctione boni et mali; tertio, de distinctione spiritualis et corporalis creaturae. Circa primum quaeruntur tria.
+# Quaestio 47
 
-Primo, de ipsa rerum multitudine seu distinctione.
+Post productionem creaturarum in esse, considerandum est de distinctione earum. Erit autem haec consideratio tripartita. Nam primo considerabimus de distinctione rerum in communi; secundo, de distinctione boni et mali; tertio, de distinctione spiritualis et corporalis creaturae.  
 
-Secundo, de earum inaequalitate.
+Circa primum quaeruntur tria.  
 
-Tertio, de unitate mundi.
+Primo, de ipsa rerum multitudine seu distinctione.  
+
+- Secundo, de earum inaequalitate.
+- Tertio, de unitate mundi.

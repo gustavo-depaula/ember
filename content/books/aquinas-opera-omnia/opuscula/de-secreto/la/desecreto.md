@@ -1,3 +1,0 @@
-# Prooemium
-
-Quaestio 1

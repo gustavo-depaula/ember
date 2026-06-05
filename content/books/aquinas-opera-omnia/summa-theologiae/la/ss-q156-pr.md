@@ -1,9 +1,9 @@
-# Quaestio 156 — Deinde considerandum est de incontinentia. Et circa hoc quaeruntur quatuor.
+# Quaestio 156
 
-Primo, utrum incontinentia pertineat ad animam, vel ad corpus.
+***Deinde considerandum est de incontinentia. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum incontinentia sit peccatum.
+Primo, utrum incontinentia pertineat ad animam, vel ad corpus.  
 
-Tertio, de comparatione incontinentiae ad intemperantiam.
-
-Quarto, quis sit turpior, utrum incontinens irae, vel incontinens concupiscentiae.
+- Secundo, utrum incontinentia sit peccatum.
+- Tertio, de comparatione incontinentiae ad intemperantiam.
+- Quarto, quis sit turpior, utrum incontinens irae, vel incontinens concupiscentiae.

@@ -1,17 +1,13 @@
-# Quaestio 113 — Deinde considerandum est de custodia bonorum Angelorum, et de impugnatione malorum. Et circa primum quaeruntur octo.
+# Quaestio 113
 
-Primo, utrum homines ab Angelis custodiantur.
+Deinde considerandum est de custodia bonorum angelorum, et de impugnatione malorum. Et circa primum quaeruntur octo.  
 
-Secundo, utrum singulis hominibus singuli Angeli ad custodiam deputentur.
+Primo, utrum homines ab angelis custodiantur.  
 
-Tertio, utrum custodia pertineat solum ad ultimum ordinem Angelorum.
-
-Quarto, utrum omni homini conveniat habere Angelum custodem.
-
-Quinto, quando incipiat custodia Angeli circa hominem.
-
-Sexto, utrum Angelus semper custodiat hominem.
-
-Septimo, utrum doleat de perditione custoditi.
-
-Octavo, utrum inter Angelos sit pugna ratione custodiae.
+- Secundo, utrum singulis hominibus singuli angeli ad custodiam deputentur.
+- Tertio, utrum custodia pertineat solum ad ultimum ordinem angelorum.
+- Quarto, utrum omni homini conveniat habere angelum custodem.
+- Quinto, quando incipiat custodia angeli circa hominem.
+- Sexto, utrum angelus semper custodiat hominem.
+- Septimo, utrum doleat de perditione custoditi.
+- Octavo, utrum inter angelos sit pugna ratione custodiae.

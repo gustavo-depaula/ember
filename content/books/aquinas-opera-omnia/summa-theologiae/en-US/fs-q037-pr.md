@@ -1,9 +1,9 @@
-# Question 37 — We must now consider the effects of pain or of sorrow: under which head there are four points of inquiry:
+# Question 37 — Of the Effects of Pain or Sorrow
 
-(1) Whether pain deprives one of the power to learn?
+We must now consider the effects of pain or of sorrow: under which head there are four points of inquiry:  
 
-(2) Whether the effect of sorrow or pain is to burden the soul?
+(1) Whether pain deprives one of the power to learn?  
 
-(3) Whether sorrow or pain weakens all activity?
-
-(4) Whether sorrow is more harmful to the body than all the other passions of the soul?
+- (2) Whether the effect of sorrow or pain is to burden the soul?
+- (3) Whether sorrow or pain weakens all activity?
+- (4) Whether sorrow is more harmful to the body than all the other passions of the soul?

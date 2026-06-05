@@ -1,9 +1,9 @@
-# Quaestio 142 — Deinde considerandum est de vitiis oppositis temperantiae. Et circa hoc quaeruntur quatuor.
+# Quaestio 142
 
-Primo, utrum insensibilitas sit peccatum.
+Deinde considerandum est de vitiis oppositis temperantiae. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum intemperantia sit vitium puerile.
+Primo, utrum insensibilitas sit peccatum.  
 
-Tertio, de comparatione intemperantiae ad timiditatem.
-
-Quarto, utrum vitium intemperantiae sit maxime opprobriosum.
+- Secundo, utrum intemperantia sit vitium puerile.
+- Tertio, de comparatione intemperantiae ad timiditatem.
+- Quarto, utrum vitium intemperantiae sit maxime opprobriosum.

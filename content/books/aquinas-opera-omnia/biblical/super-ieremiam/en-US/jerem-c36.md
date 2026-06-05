@@ -1,187 +1,131 @@
-# C. 36 - Jeremiah’s book
+# C. 34 - Zedekiah transgresses the covenant
+
+***Zedekiah transgresses the covenant***
 
 ***Lecture 1***
 
-***Jeremiah writes a book***
+***Prophecy to Zedekiah***
 
-***^36:1^ And it came to pass in the fourth year of Jehoiakim, the son of Josiah, king of Judah, that this word from the Lord came to Jeremiah, saying:***
+^34:1^ The word that came to Jeremiah from the Lord, when Nebuchadnezzar, king of Babylon, and all his army, and all the kingdoms of the earth, that were under the power of his hand, and all the people fought against Jerusalem and against all her cities, saying:  
 
-> ^36:2^ take the scroll of the book, and write in it all the words which I have spoken to you against Israel, and Judah, and against all the nations, from the day when I spoke to you, from the days of Josiah until this day.
+> ^34:2^ thus says the Lord, the God of Israel: go and speak to Zedekiah, king of Judah, and say to him: thus says the Lord: behold, I will deliver this city into the hand of the king of Babylon, and he shall burn her with fire.
 
-> ^36:3^ For perhaps when the house of Judah hears all the evil which I think to do to them, each one will return from his own wicked way, and I will forgive their iniquity, and their sin.
+> ^34:3^ And you shall not escape out of his hand, but you shall surely be captured, and you shall be handed over into his hand; and your eyes shall see the eyes of the king of Babylon, and his mouth shall speak with your mouth, and you shall go to Babylon.
 
-> ^36:4^ Jeremiah, therefore, called Baruch, the son of Neriah, and Baruch wrote, from the mouth of Jeremiah, all the words which the Lord had spoken unto him in the scroll of the book.
+> ^34:4^ Yet hear the word of the Lord, O Zedekiah, king of Judah: thus says the Lord unto you: *(Heb. עָלֶ֔יךָ: *concerning you*.)* you shall not die by the sword.
 
-> **189**. Here, the description of the writing is given first;
+> ^34:5^ But you shall die in peace, and according to the burnings of your fathers, the former kings that were before you, so shall they burn you: *(Heb. יִשְׂרְפוּ־לָ֔ךְ: *they shall burn (incense) for you*.)* and they shall mourn for you, saying, ‘Alas, lord!’ For I have spoken the word, says the Lord.
 
-second, the destruction of the writing, at ***now the king was sitting in the winter-house*** (Jer 36:22);
+> ^34:6^ And Jeremiah the prophet spoke all these words to Zedekiah, king of Judah in Jerusalem.
 
-third, its restoration, at ***and the word of the Lord came to Jeremiah*** (Jer 36:27).
+> ^34:7^ And the army of the king of Babylon fought against Jerusalem, and against all the cities of Judah that were left, against Lachish, and against Azeka; for these remained of the cities of Judah, walled cities. *(Heb. עָרֵ֥י מִבְצָֽר: *cities of fortification*.)*
 
-Concerning the former, there are three points.
+> **184**. Because the Jews were so obstinate, inasmuch as they were neither frightened by severity nor turned by gladness, he rightly sets forth his threat and consolation, and, for the third time, the contradiction of those who were listening:
 
-First, he gives the command to write: ***take the scroll***. *Write the vision and make it plain upon tablets, that he who reads it may run over it* (Hab 2:2).
+first, by the transgression of the judgment;  
 
-Second, he gives the fruit of the writing: ***for perhaps when the house of Judah***. *If the wicked man repents from all his sins which he has done, and shall keep all my commandments, and execute judgment and justice, he shall surely live, and not die* (Ezek 33:19).
+second, by the destruction of the writing: ***and it came to pass in the fourth year of Jehoiakim, the son of Josiah, king of Judah*** (Jer 36:1);  
 
-Third, the minister of the writing: ***Jeremiah, therefore, called Baruch***. *Write what you see in a book, and send it to the seven churches which are in Asia* (Rev 1:11).
+third, in the persecution of the prophet: ***and king Zedekiah, the son of Josiah, reigned in the stead of Jekoniah, the son of Jehoiakim*** (Jer 37:1).  
 
-Lecture 2
+Concerning the former, there are two points.  
 
-***The scroll read in the temple***
+First, they are convicted of their transgression by fact;  
 
-***^36:5^ And Jeremiah commanded Baruch, saying: I am imprisoned, and cannot enter the house of the Lord.***
+and second, by example: ***the word which came to Jeremiah from the Lord*** (Jer 35:1).  
 
-> ^36:6^ Therefore, you shall go, and read from the scroll in which you have written the words of the Lord from my mouth, while the people listen in the house of the Lord, on the fast day; and also you shall read to them in the hearing of all Judah, that come out of their cities.
+Now, he shows that they are transgressors from the fact that they did not even keep the covenant which they had made with God concerning the freeing of their slaves according to the Law.  
 
-> ^36:7^ It may be that they present their petition before the Lord,Heb. אוּלַ֞י תִּפֹּ֤ל תְּחִנָּתָם֙ לִפְנֵ֣י יְהוָ֔ה: *perhaps their plea will fall before the Lord*. and each one turn from his own wicked way; for it is a great fury and indignation which the Lord has spoken against this people.
+Now, this is divided into two parts.  
 
-> ^36:8^ And Baruch, the son of Neriah, did according to all which Jeremiah commanded him when he read the words of the Lord from the scroll in the house of the Lord.
+First is given a certain alleviation of their evils after the ratification of the covenant;  
 
-> ^36:9^ Now it came to pass in the fifth year of Jehoiakim, the son of Josiah, king of Israel, in the ninth month, that they proclaimed a fast in the sight of the Lord for all the people in Jerusalem, and for the whole multitude which had come from the cities of Judah.
+second is given the threat after they transgressed the covenant which they had entered into, at ***the word that came to Jeremiah from the Lord*** (Jer 34:8).  
 
-> ^36:10^ And Baruch read the words of Jeremiah from the scroll in the house of the Lord, in the treasury of Gemariah, the son of Shaphan the scribe,Gemariah is the brother of Ahicam, who had protected Jeremiah from death (Jer 26:24). in the upper vestibule, in the opening of the new gate of the house of the Lord, in the hearing of all the people.
+Concerning the former, there are two points.  
 
-> **190**. Here, the declaration is first given to the people;
+First, he gives the title of the prophecy, in which he describes the time: ***when Nebuchadnezzar***. Above: ***behold, I will call together all the families of the kingdoms of the north, says the Lord, and they shall come, and each one shall place his throne in the entry of the gates of Jerusalem*** (Jer 1:15).  
 
-second, to the princes, at ***and when Micaiah had heard*** (Jer 36:11);
+Second, he gives the prophetic word: ***thus says the Lord***. And he makes three points.  
 
-third, to the king, at ***therefore, when they had heard all the words*** (Jer 36:16).
+First, he gives the threat for past faults with regard to the destruction of the city: ***behold, I will deliver this city into the hand of the king of Babylon, and he shall burn her with fire***. *They have burned your sanctuary with fire, they have defiled the dwelling place of your name on earth* (Ps 73:7).  
 
-Concerning the former, first, the command to announce is given: ***I am imprisoned***. *Labor like a good soldier of Christ Jesus* (2 Tim 2:3). *That more of the brothers in the Lord, trusting in my chains, may dare more abundantly to speak the word of God without fear* (Phil 1:14).
+And with regard to the captivity of the king: ***and you shall not escape***. *In the day of the Lord’s wrath there was no one who escaped, and was left* (Lam 2:22).  
 
-Second is given the manner of announcing with regard to place: ***in the house of the Lord***, which is a place of devotion. *My house shall be called a house of prayer for all peoples, says the Lord God* (Isa 56:7). With regard to the time: ***on the fast day***, which is a time of contrition. *Is this not rather the fast that I have chosen? To loose the bonds of wickedness, to undo the bundles which oppress, to let those who are broken go free, and to break every burden. To break your bread to those who are hungry and needy, and to bring the homeless into your house. When you see one who is naked, to cover him, and to despise not your own flesh* (Isa 58:6–7). With regard to the listeners: ***while the people listen***. With regard to those who have come to the city: ***and also in the hearing of all Judah, that come out of their cities***.
+Second, he speaks of the reward for the covenant which he entered into: ***yet hear . . . you shall not die***. This indeed was not fulfilled, because he did not remain faithful to the covenant. Further, he died shamefully, having taken a laxative medication at a feast. *Woe to him who gives drink to his friend, mixing his gall, and making him drunk that he may look upon his nakedness* (Hab 2:15). Notwithstanding, this can be said to have been fulfilled because he was not killed by the sword of the enemy. Above: ***they shall not mourn him, ‘Alas, brother!’ and, ‘Alas sister!’ They shall not lament for him, ‘Alas, lord,’ and, ‘Alas, glorious one!’*** (Jer 22:18).  
 
-Third, he gives the fruit of the declaration when he speaks of its usefulness: ***it may be that they present their petition before the Lord***, that is, it may be accepted. And their subsequent holiness: ***and each one turn from his own wicked way; for it is a great fury and indignation***. *The great wrath of the Lord is kindled against us, because our fathers hearkened not to the words of this book, to do all that was written to us* (2 Kgs 22:13).
+Third, he touches on the imminent tribulation, so that the promise should be more welcome: ***for I have spoken the word***. *He shall laugh at every defense, and will cast up his mound, and take it* (Hab 1:10).  
 
-Fourth, the fulfillment of the commandment is given, with regard to action: ***and Baruch did***. *Obey those who are set over you, and be subject to them* (Heb 13:17).
+Lecture 2  
 
-With regard to time: ***now it came to pass in the fifth year of Jehoiakim***. *Sanctify the congregation, assemble the elders, gather the young, and those who suck at the breast* (Joel 2:15).
+***Liberation of Hebrew slaves***
 
-With regard to place: ***and Baruch read . . . in the opening of the new gate***, which Joash had made (2 Chron 27:3). ***In the upper vestibule***, that is, in the upper part of the courtyard, in which the priests would offer sacrifice. *They read in the scroll of the Lord their God four times in the day, and four times in the night* (Neh 9:3).
+^34:8^ The word that came to Jeremiah from the Lord, after king Zedekiah had made a covenant with all the people in Jerusalem making a proclamation: *(Heb. לִקְרֹ֥א לָהֶ֖ם דְּרֹֽור: *to proclaim liberty to them*.)*  
 
-Lecture 3
+> ^34:9^ that every man should let his manservant, and every man his maidservant, who is a Hebrew man or a Hebrew woman, go free; and that they should not have dominion over them, that is, over the Jews their brethren. *(Heb. לְבִלְתִּ֧י עֲבָד־בָּ֛ם בִּיהוּדִ֥י אָחִ֖יהוּ אִֽישׁ: *that no one among the Jews should serve his brother*.)*
 
-***Baruch reads to the princes***
+> ^34:10^ And all the princes and all the people who entered into the covenant heard that every man should let his manservant, and every man his maidservant go free, and that they should no more have mastery over them: *(Heb. לְבִלְתִּ֥י עֲבָד־בָּ֖ם עֹ֑וד: *that he should serve them anymore*.)* and they obeyed, and let them go free.
 
-***^36:11^ And when Micaiah, the son of Gemariah, the son of Shaphan, had heard all the words of the Lord from the book,***
+> ^34:11^ But afterwards they turned and brought back again their manservants and their maidservants, whom they had set free, and brought them into subjection as menservants and maidservants.
 
-> ^36:12^ he went down to the house of the king, to the treasury of the scribe, and behold, all the princes were seated there: Elishamah the scribe, and Delaiah, the son of Shemaiah, and Elnathan, the son of Achbor, and Gemariah, the son of Shaphan, and Zedekiah, the son of Hananiah, and all the princes.
+> **185**. Here, the threat is given after the transgression of the covenant.
 
-> ^36:13^ And Micaiah related to them all the words which he had heard, while Baruch was reading from the scroll in the hearing of the people.
+First, he speaks of the transgression of the covenant;  
 
-> ^36:14^ All the princes, therefore, sent Jehudi, the son of Nathaniah, the son of Shelemiah, the son of Cushi, to Baruch, saying, ‘Take the scroll, from which you read in the hearing of the people, in your hand, and come.’ Therefore, Baruch, the son of Neriah, took the scroll in his hand, and came to them.
+second, he gives the threat against those who transgressed, at ***and the word came to Jeremiah from the Lord*** (Jer 34:12).  
 
-> ^36:15^ And they said to him, ‘Sit, and read these things in our ears.’ And Baruch read in their ears.
+Concerning the former, there are three points.  
 
-> ^36:16a^ Therefore, when they had heard all the words, they turned in fear each one to his neighbor,
+First, the making of the covenant is given: ***after king Zedekiah had made a covenant*** (Jer 34:8)—and also after he broke it—***that every man should go free***, according to the Law. *If you buy a Hebrew slave, he shall serve you for six years; in the seventh he shall go free without cost* (Exod 21:2). And in Leviticus 25 they are forbidden to take any of their brothers as slaves or to oppress them through their power with the service of bondsmen; but they are to be as hirelings and sojourners.  
 
-> **191**. Here, the declaration to the princes is given.
+Second, he speaks of the fact that they observed the covenant for a time: ***the princes and all the people heard therefore, and let go free***. *They did it quickly, they forgot his work, and did not keep his counsel* (Ps 105:13).  
 
-First, concerning the writing of the prophecy and the making known of its meaning to the princes: ***and Micaiah related to them***. *Let him who hears say: come* (Rev 22:17).
+Third is given the transgression of the covenant: ***and afterwards they turned***. *They turned back that they might be without yoke; they became like a treacherous bow* (Hos 7:16).  
 
-Second, the petition for the writing: ***all the princes, therefore, sent . . . to Baruch, saying, ‘Take the scroll, from which you read in the hearing of the people, in your hand’***—mystically, in operation. *Whatsoever your hand is able to do, do it with earnestness; for neither work, nor reason, nor wisdom, nor knowledge shall be in the underworld, to which you are hastening* (Eccl 9:10). The bringing: ***therefore, Baruch took***.
+Lecture 3  
 
-Third is given the recitation of the writing: ***and they said to him, ‘Sit, and read these things in our ears.’*** *For I have not shunned to declare the whole plan of God to you* (Acts 20:27).
+***Transgression of the covenant***
 
-And the effect of the reading: ***therefore, when they had heard all the words, they turned in fear***. Above: ***are not my words like fire, says the Lord, and like a hammer breaking down the rock?*** (Jer 23:29).
+***^34:12^ And the word of the Lord came to Jeremiah from the Lord, saying:***
 
-Lecture 4
+> ^34:13^ thus says the Lord the God of Israel: I made a covenant with your fathers on the day that I brought them out of the land of Egypt, out of the house of bondage, saying:
 
-***The scroll read to the king***
+> ^34:14^ ‘At the end of seven years, every man shall free his brother who is a Hebrew, who has been sold to you, so that he might serve you for six years; and you shall let him go free from you.’ And your fathers did not hearken to me, nor did they incline their ear.
 
-***^36:16b^ and they said to Baruch, ‘We must tell the king all these words.’***
+> ^34:15^ And you turned today, and did that which was upright in my eyes, in proclaiming liberty, every one to his brother; and you made a covenant before me, in the house upon which my name is called.
 
-> ^36:17^ And they inquired of him, saying, ‘Tell us, how did you write all these words from his mouth?’
+> ^34:16^ But you have turned back and have polluted my name; and each one of you has brought back his manservant, and each one his maidservant, whom you released that they should be free, and under their own power, *(Heb. אֲשֶׁר־שִׁלַּחְתֶּ֥ם חָפְשִׁ֖ים לְנַפְשָׁ֑ם: *whom you sent out free, according to their own soul*.)* and you have subjugated them to be your manservants and your maidservants.
 
-> ^36:18^ And Baruch said to them, ‘He spoke with his mouth as though reading to me all these words, and I wrote them in the scroll with ink.’
+> ^34:17^ Therefore, thus says the Lord: you have not hearkened to me, that each man should proclaim liberty to his brother, and each man to his friend. Behold, says the Lord, I proclaim freedom to the sword, and the plague, and the famine, and I shall make you a terror to all the kingdoms of the earth.
 
-> ^36:19^ And the princes said to Baruch, ‘Go and hide yourself, and Jeremiah, and let no man know where you are.’
+> ^34:18^ And I shall give the men that have transgressed my covenant, and have not observed the words of the covenant to which they gave their assent in my presence, *(Heb. אֲשֶׁ֥ר כָּרְת֖וּ לְפָנָ֑י: *which they made before me*.)* when they cut the calf in two and passed between the parts thereof:
 
-> ^36:20^ And they went in unto the king in the courtyard; but they had deposited the scroll in the treasury of Elishamah the scribe, and they told all the words in the hearing of the king.
+> ^34:19^ the princes of Judah, and the princes of Jerusalem, the eunuchs, and the priests, and all the people of the land that passed between the parts of the calf:
 
-> ^36:21^ And the king sent Jehudi that he might take the scroll, who, taking it from the treasury of Elishamah the scribe, read it in the hearing of the king, and of all the princes who stood around the king.
+> ^34:20^ and I will give them into the hands of their enemies, and into the hands of those that seek their life; and their dead bodies shall be for meat to the birds of the air and the beasts of the earth.
 
-> **192**. Here, the declaration to the king is given.
+> ^34:21^ And Zedekiah, the king of Judah, and his princes, I will give into the hands of their enemies, and into the hands of those who seek their lives, and into the hands of the armies of the king of Babylon, which have withdrawn from you.
 
-First, he speaks of the preparation of the declaration, for they set forth the proposal to declare: ***we must tell***, because he is able to correct the sins of the people. *The king who sits upon the throne of judgment scatters every evil thing with his gaze* (Prov 20:8).
+> ^34:22^ Behold, I command, says the Lord, and I will bring them back to this city, and they shall fight against it, and take it, and burn it with fire; and I will make the cities of Judah a desolation, for there shall be no inhabitant.
 
-They examine the manner in which the book was written; for this reason, a question is first posed: ***and they inquired of him, saying, ‘Tell us, how did you write all these words from his mouth?’*** so that from the manner they might know whether the writing had been produced by the Spirit of God. *Do not believe every spirit, but test the spirits, whether they be of God; for many false prophets have gone out into the world* (1 John 4:1).
+> **186**. Here, he threatens those who transgressed.
 
-And the response is given: ***and Baruch said to them, ‘He spoke with his mouth as though reading,’*** without hesitation or premeditation. *Do not consider how, or what you are to say, for it will be given to you in that hour what you are to say; for it is not you who speak, but the Spirit of your Father who speaks in you* (Matt 10:19). Above: ***behold I have given my words in your mouth*** (Jer 1:9).
+First, he speaks of the guilt of their fathers when he speaks of the covenant: ***I made a covenant***. Above: ***not according to the covenant which I made with their fathers on the day when I took them by the hand, that I might lead them from the land of Egypt, a covenant which they have made void*** (Jer 31:32).  
 
-And the advice to hide is given: ***hide***, fearing the obstinacy and cruelty of the king. *Has it not been told to you my lord what I did, when Jezebel killed the prophets of the Lord, that I hid of the prophets of the Lord a hundred men, by fifties in caves, and fed them with bread and water? And now you say, ‘Go and say to your lord, “Elijah is here,”*’ *that he may kill me?* (1 Kgs 18:13–14).
+And the transgression: ***and they did not hearken to me***. Above: ***they did not listen, nor did they incline their ear, but turned away, each one in the depravity of his own evil heart*** (Jer 11:8).  
 
-Second, the declaration is given: ***and they went in**. To you, therefore, O kings, that you should learn wisdom, lest you perish* (Wis 6:10).
+And the guilt of the children, when he speaks of the making of the covenant: ***and you turned***, from the transgression of their fathers, ***in the house***, in the temple. *The house of our sanctification, and of our glory, where our fathers praised you* (Isa 64:11).  
 
-Third, the recitation of the text is given: ***and the king sent Jehudi***; *and when I sat as a king with his army round about, I was nonetheless a comforter of those who mourn* (Job 29:25).
+***But you have turned back and have polluted my name***, by transgressing. *Do not take the name of the Lord your God in vain* (Exod 20:7). *Not because of you shall I act, O house of Israel, but because of my holy name, which you have profaned among the nations unto whom you have gone* (Ezek 36:22).  
 
-Lecture 5
+Second, he threatens punishment: ***therefore, thus says the Lord***. And concerning this, there are two points.  
 
-***The king burns the book***
+First, he gives the punishment communally with regard to everyone when he predicts slaughter: ***behold, I proclaim freedom***, that you should be freely killed. Above: ***those who are for the sword, to the sword, and those who are for famine, to famine, and those who are for captivity, to captivity*** (Jer 15:2).  
 
-***^36:22^ Now the king was sitting in the winter-house, in the ninth month, and there was set before him a brazier filled with coals.***
+And the bondage of those who remain: ***and I shall give the men . . . the calf***, that is, the covenant which they established by the division of a calf offered in sacrifice to God. *(Reminiscent of Abraham’s covenant of the parts; cf. Genesis 15:1–15.)* This manner of speaking, “to strike a covenant” (*percutere foedus* or *ferire foedus*) grew up from this custom. *(*Percutere* or *ferire* by themselves can mean “to strike,” “to cut,” “to slay,” etc., but when they take *foedus*, “covenant,” as an object, they signify making a pact or treaty, for an animal was often slain to ratify such an event. The idiom is the same in Hebrew as well.)* *The Lord gave me into a hand from which I shall not be able to escape* (Lam 1:14).  
 
-> ^36:23^ And when Jehudi had read three or four columns, he cut it with the knife of a scribe, and cast it into the fire which was upon the brazier, until the whole scroll should be consumed by the fire that was on the brazier.
+He predicts also that their dead bodies shall be devoured: ***and their dead bodies shall be for meat to the birds of the air***. *They made the bodies of your servants food for the birds of the sky, and meat for the beasts of the earth* (Ps 78:2).  
 
-> ^36:24^ And the king and all his servants, who had heard all these words, were not afraid, neither did they rend their garments.
+And with regard to the princes particularly: ***and Zedekiah, the king of Judah, and his princes***. *The Lord shall bring you and your king, whom you shall establish over you, into a people which you and your fathers knew not* (Deut 28:36). ***Which have withdrawn from you***, or were viewed as foreigners. See chapter 37 below (Jer 37:4).  
 
-> ^36:25^ Moreover, Elnathan, and Delaiah, and Gemariah had urged the king, that he should not burn the book, but he did not listen to them.
-
-> **193**. Here is given the destruction of the text, and concerning this, there are two points.
-
-First is given the destruction of the text;
-
-second, the persecution of the authors, at ***and the king commanded Jerachmiel*** (Jer 36:26).
-
-Concerning the former, there are three points.
-
-First is given the disposition for destruction: ***in the winter-house, there was set before him a brazier filled with coals***, for because of his luxurious habits, he had special houses for winter and summer. *I shall strike the winter house with the summer house, and the ivory houses shall perish, and many houses shall be destroyed* (Amos 3:15).
-
-Second, the destruction is given: ***and when Jehudi had read three columns***, small pages; ***with the knife***, with which a quill is prepared. *Take the way from me, turn the path from me, let the Holy One of Israel cease from before us* (Isa 30:11).
-
-And so they did what they ought not to have done, and omitted also to do what they ought. ***And the king and all his servants were not afraid***, after the example of Josiah. *When the king had heard the words of the book of the Law, he rent his garments* (2 Kgs 22:11).
-
-Third, the objection of the princes is mentioned: ***moreover, Elnathan, and Delaiah, and Gemariah had urged the king***. Something similar is found in 2 Samuel 24:4, *but the word of the king prevailed over the words of Joab, and his princes*.
-
-Lecture 6
-
-***Baruch and Jeremiah persecuted***
-
-***^36:26^ And the king commanded Jerachmiel, the son of Amelech,Amelech is not a proper name, but a Latinization of the Hebrew word, *hamelech*, “the king.” and Saraiah, the son of Azriel, and Shelemiah, the son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet; but the Lord had hidden them.***
-
-> **194**. Here, the persecution of the authors is given:
-
-first, the wicked command: ***to seize***;
-
-second, the help of God: ***but the Lord had hidden them*** and made it so they could not be found. *The Lord has kept all their bones, that not one of them should be broken* (Ps 33:21).
-
-Lecture 7
-
-***Jeremiah rewrites the book***
-
-***^36:27^ And the word of the Lord came to Jeremiah the prophet, after the king had burned the scroll and the words which Baruch had written by the mouth of Jeremiah, saying:***
-
-> ^36:28^ take again another scroll, and write in it all the former words which were in the first scroll, which Jehoiakim king of Judah burnt.
-
-> ^36:29^ And you shall say to Jehoiakim king of Judah: thus says the Lord: you have burned this scroll, saying: why have you written in it, saying: the king of Babylon shall come swiftly, and lay waste this land, and make man and beast to cease from it?
-
-> ^36:30^ Therefore, thus says the Lord against Jehoiakim the king of Judah: there shall be no one left of him who may sit upon the throne of David, and has power any more in Judah, and his body will be cast out to the heat by day, and the cold by night.
-
-> ^36:31^ And I shall visit his iniquities against him, and against his seed, and against all his servants; and I shall bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah all the evil which I spoke unto them, and they did not listen.
-
-> ^36:32^ And Jeremiah took another scroll, and gave it to Baruch, the son of Neriah the scribe, who wrote in it by the mouth of Jeremiah all the words of the book which Jehoiakim the king of Judah had burned with fire; and many more words were added than there had been before.
-
-> **195**. Here, the restoration of the text is described.
-
-First, the command to restore it is given: ***take again***. Above: ***they shall wage war with you, but will not prevail, for I am with you says the Lord, to deliver you*** (Jer 1:19).
-
-Second, he threatens death to the one who destroyed it, at ***and you shall say to Jehoiakim king of Judah***. For this reason, he rebukes him for his sin: ***you have burned***. *Destruction shall come suddenly upon the man that with a stiff neck despises him who reproves him, and soundness shall not follow* (Prov 29:1).
-
-And he threatens a punishment: ***therefore, thus says the Lord***; the end of the royal succession: ***there shall be no one left of him who may sit upon the throne of David, and has power any more in Judah***. And the discarding of his body: ***and his body will be cast out***—the burial of an ass. *But you have been cast forth from your tomb, like a useless branch, polluted, and wrapped up among those who were slain with the sword, and have gone down to the bottom of the pit, like a rotten corpse* (Isa 14:19).
-
-The destruction of his subjects with regard to those of his house: ***I shall visit his iniquities against him, and against his seed***. *I shall visit their iniquities with the rod, and with stripes their sins* (Ps 88:33). And with regard the others: ***I shall bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah all the evil***. *I am the Lord, and there is no other; I make light and create darkness, I make peace and create evil. I the Lord make all these things* (Isa 45:7).
-
-Third, he gives the fulfilling of the commandment: ***and Jeremiah took another scroll***. *Wisdom conquers evil* (Wis 7:30).
-
-Chapter 37
+Second, he speaks of the order in which this will be fulfilled: ***behold, I command***. Above: ***they have made my pleasant field an empty wilderness. They have made it a desolation, and it has mourned for me*** (Jer 12:10–11).

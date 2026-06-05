@@ -1,5 +1,7 @@
-# Question 86 — We must now consider the stain of sin; under which head there are two points of inquiry:
+# Question 86 — Of the Stain of Sin
 
-(1) Whether an effect of sin is a stain on the soul?
+We must now consider the stain of sin; under which head there are two points of inquiry:  
 
-(2) Whether it remains in the soul after the act of sin?
+(1) Whether an effect of sin is a stain on the soul?  
+
+- (2) Whether it remains in the soul after the act of sin?

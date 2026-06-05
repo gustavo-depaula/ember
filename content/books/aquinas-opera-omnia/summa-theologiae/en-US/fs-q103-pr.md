@@ -1,9 +1,9 @@
-# Question 103 — We must now consider the duration of the ceremonial precepts: under which head there are four points of inquiry:
+# Question 103 — Of the Duration of the Ceremonial Precepts
 
-(1) Whether the ceremonial precepts were in existence before the Law?
+We must now consider the duration of the ceremonial precepts: under which head there are four points of inquiry:  
 
-(2) Whether at the time of the Law the ceremonies of the Old Law had any power of justification?
+(1) Whether the ceremonial precepts were in existence before the Law?  
 
-(3) Whether they ceased at the coming of Christ?
-
-(4) Whether it is a mortal sin to observe them after the coming of Christ?
+- (2) Whether at the time of the Law the ceremonies of the Old Law had any power of justification?
+- (3) Whether they ceased at the coming of Christ?
+- (4) Whether it is a mortal sin to observe them after the coming of Christ?

@@ -1,253 +1,175 @@
-# C. 32 - Allegory of the field
+# C. 30 - God promises liberation
+
+***God promises liberation***
 
 ***Lecture 1***
 
-***Hananel’s field***
+***Command to write***
 
-***^32:1^ The word which came to Jeremiah from the Lord, in the tenth year of Zedekiah, king of Judah, which is the eighteenth year of king Nebuchadnezzar.***
+***^30:1^ This is the word which came to Jeremiah from the Lord, saying:***
 
-> ^32:2^ At that time the army of the king of Babylon laid siege to Jerusalem, and Jeremiah the prophet was shut up in the courtyard of the prison, which was in the house of the king of Judah.
+> ^30:2^ thus says the Lord, the God of Israel, saying: write for yourself all the words which I have spoken to you in a book.
 
-> ^32:3^ For Zedekiah, the king of Judah, had imprisoned him, saying, why do you prophesy saying, thus says the Lord: behold, I shall give this city into the hand of the king of Babylon, and he shall take it.
+> ^30:3^ For behold, the days are coming, says the Lord, when I shall turn the turning of my people Israel, and Judah, says the Lord. And I shall turn them to the land which I gave to their fathers, and they shall possess it.
 
-> ^32:4^ And Zedekiah, the king of Judah, shall not escape out of the hand of the Chaldeans, but shall be handed over into the hands of the king of Babylon; and the mouth of the one shall speak to the mouth of the other, and the eyes of the one shall see the eyes of the other.
+> **154**. After threatening, he begins here to offer consolation.
 
-> ^32:5^ And he shall lead Zedekiah to Babylon, and there shall he be until I visit him, says the Lord; but if you shall fight against the Chaldeans, you shall have no success.
+First, he offers consolation to all communally;  
 
-> ^32:6^ And Jeremiah said, the word of the Lord came to me saying,
+second, particularly to the royal city, namely, Jerusalem: ***and the word of the Lord came to Jeremiah a second time*** (Jer 33:1).  
 
-> ^32:7^ ‘Behold, Hananel, the son of Shallum, your cousin shall come to you, saying, buy my field for yourself, which is in Anathoth, for the right of inheritance is yours, because you are next of kin.’
+The first part divides into two.  
 
-> ^32:8^ And Hananel, the son of my uncle, came to me, according to the word of the Lord, to the vestibule of the prison, and he said to me, take possession of my field which is in Anathoth, in the land of Benjamin, because the right of inheritance is yours, and you are next of kin that you should possess it. And I understood that this was the word of the Lord.
+First, he consoles them by word;  
 
-> ^32:9^ And I bought the field from Hananel, the son of my uncle, which is in Anathoth, and I weighed out silver for it: seven staters and ten silver shekels.The Latin translation confuses the Hebrew somewhat by introducing two units of currency, while the Hebrew speaks of only one: שִׁבְעָה שְׁקָלִים וַעֲשָׂרָה הַכָּסֶף, *seven shekels and ten pieces of silver*.
+second, he signifies the consolation by action: ***the word which came to Jeremiah from the Lord*** (Jer 32:1).  
 
-> ^32:10^ And I wrote it in a book, and sealed it, and called witnesses, and weighed the silver in the scale.
+The first part divides into two.  
 
-> ^32:11^ And I took the deed of purchase that was sealed, and the stipulations, and the ratification, and the seals, which were on the outside.
+In the first, he consoles them with the fact that they have evaded adversity;  
 
-> **170**. Here, he consoles them with an action.
+in the second, with the promise of prosperity: ***at that time, says the Lord*** (Jer 31:1).  
 
-First, he indicates the time of the prophecy from the time of the king: ***in the tenth year of Zedekiah, king of Judah, which is the eighteenth year of king Nebuchadnezzar***, so that one may understand from these what things are said above: ***in the fourth year of Jehoiakim was the first of Nebuchadnezzar*** (Jer 25:1).
+The first part divides into two.  
 
-From the siege of the city: ***at that time the army of the king of Babylon laid siege to Jerusalem***. *I shall make a circle round about you, and I shall cast up a rampart against you, and I shall set up bulwarks to besiege you* (Isa 29:3). And the prison of the prophet, when he speaks of the misery of the prison: ***and Jeremiah the prophet was shut up in the courtyard of the prison***. *He has built up against me round about that I might not go out; he has made my fetters heavy* (Lam 3:7).
+In the first, he promises liberation in general.  
 
-And he gives the reason: ***why do you prophesy?*** Because he preached the capture of the city: ***behold, I shall give this city into the hand of the king of Babylon***.
+In the second, he describes the promise in particular, at ***and these are the words which the Lord spoke*** (Jer 30:4).  
 
-The captivity of the king: ***and Zedekiah, the king of Judah, shall not escape out of the hand of the Chaldeans***.
+Concerning the former, he makes two points.  
 
-And the hardship of the wars: ***but if you shall fight . . . you shall have no success***. Above: ***I shall vanquish you with an outstretched hand, and with a mighty arm, and with fury, and indignation, and great wrath. And I will strike the inhabitants of this city*** (Jer 21:5–6). For which reason, this chapter, historically speaking, should be joined with that one.
+First, the Lord gives the prophet the command of preserving the prophecy: ***write for yourself all the words***, which have been foretold and which shall follow, the revelation of which he had already taken up within the text, so that they should be preserved for a long time; by which is signified that they are not to be fulfilled swiftly. *Take for yourself a great book, and write in it with the pen of a man: swiftly take the spoils away, quickly take the prey* (Isa 8:1). *Write the vision, and make it plain upon tables, that he who reads it may run over it* (Hab 2:2).  
 
-Second, the prophetic act is given: ***and Jeremiah said***.
+Second, he promises the benefit of liberation: ***for behold, I shall turn***, that is, I shall call back from the land of captivity, in regard to the end from which the turning begins; ***the turning***, because not all but only those who will be worthy of such a conversion; ***Israel***, the ten tribes with regard to those who came to king Hezekiah in Jerusalem. *For they were taken captive with them, and at their return, they shall return* (2 Chr 30:9). Or it refers to the conversion to the faith of Christ. ***And I shall turn***, in regard to the end to which the turning is directed. *When the Lord turned the captivity of Zion, we became like those who are consoled* (Ps 125:1).  
 
-First is mentioned a purchase;
+Lecture 2  
 
-second, the interpretation of the act, at ***and I gave the deed of purchase to Baruch*** (Jer 32:12);
+***Stages of liberation***
 
-third, the confirmation of the interpretation, at ***and I prayed to the Lord*** (Jer 32:16).
+***^30:4^ And these are the words which the Lord spoke to Israel and to Judah:***
 
-Concerning the former, there are three points.
+> ^30:5^ for thus says the Lord: we have heard a voice of terror, fear, and there was no peace.
 
-First is set down the invitation of the seller to buy, when he gives the word of the invitation revealed to him: ***behold, Hananel shall come to you . . . for the right of inheritance is yours***. Lest the tribes should be mixed together, the Lord commanded that possessions should be sold to those who were of the same family (Num 36:6–9, Lev 25:23–34), which was observed particularly with regard to the possessions of the Levites.
+> ^30:6^ Ask, and see if a man gives birth. Why, therefore, do I see the hand of every man upon his loins as though he were a woman in labor, and why have all their faces turned sickly? *(Heb. יֵרָקוֺן: paleness.)*
 
-He also speaks of the arrival of the one who invites him to buy: ***and Hananel, the son of my uncle, came to me, according to the word of the Lord***, because one cannot go with no purpose. *Has he said, and will he not do it, he has spoken and shall he not fulfill it?* (Num 23:19).
+> ^30:7^ Woe! For it is that great day, and there is none like it; it is also a time of tribulation for Jacob, and he shall be saved from it.
 
-Second, the purchase is described: ***I understood***, by the prophetic spirit—otherwise it would have seemed foolish to buy a field at such a time, by which one may also note the prophet’s obedience. Above: ***and I am not troubled following you, my shepherd; and I have not desired the day of man, you know*** (Jer 17:16).
+> ^30:8^ And it shall be on that day, says the Lord of hosts, that I shall break his yoke from your neck, and I shall burst his bonds, and strangers shall no more rule over him.
 
-And the payment of the price is given: ***and I weighed out***, on the scales, ***seven staters***, that is, shekels, each one of which consisted of twenty obolsThe shekel consisted of twenty smaller coins, but they were not called *obols*, an Athenian unit currency, but *gerahs* (cf. Ex. 30:13; Ezek. 45:12). *of silver* (Ezek 45:12), these are the same as shekels.
+> ^30:9^ But they shall serve the Lord their God and David their king, whom I shall raise up for them.
 
-Third, the confirmation of the purchase is given: ***and I wrote it in a book, and sealed it***, with the seal of the seller and of the witnesses; ***stipulations***—when there is one who asks and another who responds, the contract is strengthened; ***the ratification***, the approval of the sale. *I have called to myself faithful witnesses* (Isa 8:2).
+> ^30:10^ Therefore, do not fear, O you my servant Jacob, says the Lord; neither be afraid, O Israel; for behold, I shall save you from a distant land, and your seed from the land of their captivity; and Jacob shall return and be at rest, and he shall abound with every good thing, and there shall be none who fears.
 
-Lecture 2
+> ^30:11^ For I am with you, says the Lord, to save you. For I shall make an end among all the nations, among whom I have scattered you; but I shall not make an end of you. But I shall chasten you in judgment, that you do not seem innocent to yourself.
 
-***Baruch given the deed***
+> **155**. Here, he describes the stages of the liberation.
 
-***^32:12^ And I gave the deed of purchase to Baruch, the son of Ner, the son of Maasiah, in the eyes of Hananel, my cousin, in the eyes of the witnesses, who were inscribed on the deed of purchase, and in the eyes of all the Jews who sat in the courtyard of the prison.***
+First, he promises them liberation from bondage to the enemy;  
 
-> ^32:13^ And I instructed Baruch before them, saying,
+second, from the manifold destruction which they have endured, at ***for thus says the Lord*** (Jer 30:12).  
 
-> ^32:14^ thus says the Lord of hosts, the God of Israel: take these books, the sealed deed of purchase, and this book which is open, and put them in a clay jar, that they be able to endure many days.
+Concerning the first, there are two points.  
 
-> ^32:15^ For thus says the Lord of hosts, the God of Israel: houses, and fields, and vineyards shall yet be owned in this land.
+First, he sets forth the former oppression, which he signifies when he sets forth the fear caused by the enemy: ***we have heard a voice of terror***, foretold before by the prophets; ***fear, and there was no peace***, from someone bringing assistance. *The sound of terror is always in his ears, and when there is peace he always suspects treachery* (Job 15:21).  
 
-> **171**. Here is given the interpretation of the purchase.
+The expression of fear from the posture of the body, for they were turned into the likeness of a woman in labor with her hands upon her loins, because of astonishment: ***ask***. *There, suffering like one in labor* (Ps 47:7). And from the loss of strength: ***and why have all their faces turned sickly***, which is the color black mixed with red, as when one is angry. And it comes from the burning wind. *(*Aurugo* simply means “pale” or “sickly” in this context, but Thomas Aquinas’s interpretation here may perhaps be due to a misunderstanding of such passages as are found in Haggai and Amos: *I have struck you with a burning wind, and I have struck all the works of your hands with mildew* (*aurugine*) *and hail* (Hag 2:18); *I have struck you with a burning wind and with mildew* (*aurugine*) (Amos 4:9). It is also possible that there may be a confusion here between the words *aurugo* and *aerugo*. *Aurugo* signifies “jaundice” and “sickliness” (and hence can also signify “paleness” and “mildew”), and its meaning is derived from the color of gold (*aurum*); *aerugo* denotes “rust,” as in the rust of copper (*aer*). See note in ch. 5, lect. 1, above.)* *Their countenances shall be as faces burnt* (Isa 13:8). *All their faces shall be made like a kettle* (Joel 2:6).  
 
-First, he hands over the deed: ***in the eyes of all the Jews who sat in the courtyard of the prison***, who had come to console and to consult, because the matter pertained to everyone.
+He also sets forth the magnitude of their fear and anxiety: ***woe, for it is that great***, in magnitude of tribulation, ***day***, the day of the capture of Jerusalem. *The voice of the day of the Lord is bitter; then shall there be a mighty tribulation. A day of wrath is that day, a day of tribulation and distress; a day of calamity and misery; a day of darkness and gloom, a day of smoke and the whirlwind, a day of the trumpet and noise* (Zeph 1:14–15).  
 
-Second, their diligent care is noted: ***and I instructed Baruch before them, saying, thus says the Lord of hosts, the God of Israel: take these books, the sealed deed of purchase, and this book which is open***, that is, not sealed, so that when they send it, it may be viewed. *I have been represented in the hands of the prophets* (Hos 12:10).
+Second, he promises future salvation.  
 
-Third, they are consigned to safekeeping: ***and put them in a clay jar***.
+First, he promises liberation: ***and he shall be saved from it***, from that time, however evil it be. *I shall save them by the Lord their God* (Hos 1:7).  
 
-***Thus says the Lord***. This is what Jeremiah said above, that he understood the word of the Lord. *The vineyard shall give its fruit, and the earth its growth, and the heaven shall give its dew* (Zech 8:12).
+Second, the manner and order of salvation, when he promises them liberation from bondage and excludes the domination of the enemy: ***and it shall be on that day . . . I shall break his yoke***, Nebuchadnezzar himself. ***And strangers shall no more rule***, because the time of Simon has been fulfilled (1 Macc 16:2–3). Or it is to be referred to the liberation accomplished by Christ from the power of the demons. *For you have overcome the yoke of his burden, and the rod of his shoulder, and the scepter of his oppressor* (Isa 9:4).  
 
-Lecture 3
+And he promises them the longed-for rule: ***but they shall serve***, that is, they shall serve someone who will be like David to you, as were Simon and Jonathan. Or Zerubbabel, who was of the line of David. Or Christ. But they longed most for the rule of David because of the prosperity and peace which they had in his time and because they were not oppressed by forced labor, as in the time of Solomon. *David my servant shall be their prince forever* (Ezek 37:24).  
 
-***Jeremiah’s prayer***
+He also foresees the liberation from captivity when he excludes fear: ***therefore, do not fear***. *Do not be afraid, for I am with you. I shall lead your seed from the east, and I shall gather you from the west* (Isa 43:5). And he speaks of their liberation with regard to the end from which the liberation begins: ***for behold, I shall save you from a distant land***. *Behold, I shall save my people from the land of the east, and from the land of the setting of the sun, and I shall bring them; and they shall dwell in the midst of Jerusalem, and they shall be for me a people, and I shall be for them a God, in truth, and in justice* (Zech 8:7–8). And with regard to the end to which the liberation is directed: ***and Jacob shall return and be at rest***, with regard to the tranquility of peace; ***and with every good thing***, with regard to the fruitfulness of their affairs. *My people shall dwell in a multitude of peace, and in the tents of confidence, and in abundant rest* (Isa 32:28).  
 
-***^32:16^ And I prayed to the Lord after I handed the deed of purchase to Baruch, son of Neri, saying:***
+Third, he shows the author of their salvation.  
 
-> ^32:17^ Alas, alas, alas! O Lord God, behold, you made the heaven and the earth in your great strength and with your outstretched arm; nor shall any word be difficult for you,
+First, he speaks of the presence of the savior: ***for I am with you***. Above: ***the Lord is with me, as a mighty man of war; therefore, those who persecute me shall fall and be weak; they shall be greatly ashamed, for they have not understood the eternal reproach, which shall never be blotted out*** (Jer 20:11).  
 
-> ^32:18^ who shows mercy to thousands, and repays the iniquity of the fathers into the bosoms of their sons after them. O most mighty, great and powerful, the Lord of hosts is your name.
+Second, vengeance upon their enemies: ***for I shall make an end***—he will lead them to the end of consumption. *The Lord shall make a consumption and a shortening in the midst of the whole earth* (Isa 10:22).  
 
-> ^32:19^ Great in counsel, and incomprehensible in thought, whose eyes are open upon all the ways of the children of Adam, to repay each one according to his ways, and according to the fruit of his doings.
+Third, for you the mercy of preservation: ***but I shall not make an end of you***, such that there should be no remnant of you. Above: ***nevertheless, in those days, says the Lord, I will not make an end of you*** (Jer 5:18).  
 
-> **172**. Here is given the confirmation of the exposition, for, because they did not believe the words of the prophet, he sought a divine revelation concerning this, so that he may satisfy their doubt:
+Fourth, he introduces a moderated punishment to chastise them: ***I shall chasten you in judgment***. Above: ***correct me, O Lord, but with judgment, and not in your wrath, lest you bring me to nothing*** (Jer 10:24), in the judgment of equity.  
 
-whence, the prophet’s prayer is given first;
+Lecture 3  
 
-second, the response of the Lord, at ***and the word of the Lord came to Jeremiah*** (Jer 32:26).
+***God promises healing***
 
-Concerning the former, there are three points.
+^30:12^ For thus says the Lord: your breach is incurable, your wound very grievous.  
 
-First, he commends the divine justice;
+> ^30:13^ There is none who may judge your judgment to bind it; you have no useful medicines.
 
-second, he sets forth the punishment justly inflicted, at ***you who made signs*** (Jer 32:20);
+> ^30:14^ All your lovers have forgotten you, and they shall not seek you; for I have wounded you with the wound of an enemy, with cruel chastisement. For the multitude of your iniquity, your sins have become hard.
 
-third, he wonders at the reason for the former command, at ***and you say to me, O Lord God*** (Jer 32:25).
+> ^30:15^ Why do you cry for your destruction? Your pain is incurable; because of the multitude of your iniquity, and because of your hard sins, I have done these things to you.
 
-Now justice, when it is present, makes man will what is just; for this reason, two other factors are necessary for its execution, namely, knowledge and ability; whence, for the perfect execution of justice, he shows the perfection of knowledge and power.
+> ^30:16^ Therefore, all who eat you shall be devoured, and all your enemies shall be led into captivity; and those who waste you shall be wasted, and all those who spoil you I shall give as spoil.
 
-First, of power, when he speaks about the creation of things: ***behold, you made***. Above: ***I made the earth, and men, and the beasts, which are upon the face of the earth, in my great strength and with my outstretched arm, and I gave it to the one who was pleasing in my eyes*** (Jer 27:5). And he commends the perfection of his power: ***nor shall any word be difficult for you***, by which you made such great things. *No word shall be impossible with God* (Luke 1:31).
+> ^30:17^ For I will cover up your scar, and heal you of your wounds, says the Lord. Because they have called you, O Zion, an outcast: ‘This is she, who has none to seek after her.’
 
-To justice he adds its execution tempered with mercy: ***who shows mercy***, giving a reward to the good, ***to thousands***, that is, to a thousand generations; ***into the bosoms of their sons***, at least for one generation, so that the mercy of the punishment might be preeminent. *I am the Lord your God, mighty, jealous, visiting the iniquity of the fathers on the children to the third and fourth generation of those that hate me* (Exod 20:5). And he breaks forth into a condemnation of power, from which power is turned into the justice of mercy: ***O most mighty***, insofar as he upholds all things. *Upholding all things by the word of his power* (Heb 1:3). *If strength be demanded, he is most strong* (Job 9:19). ***Great***, insofar as the multitude of creatures does not exhaust his power; indeed, he is still able to bring forth things innumerable; ***powerful***, to do all things. *For your power is at hand when you will it* (Wis 12:18). ***Lord of hosts***, with regard to governance, and particularly of the rational beings in heaven, on earth, and in hell. *Is there a number to his hosts?* (Job. 25:3).
+> ^30:18^ Thus says the Lord: behold, I shall turn the turnings of the tents of Jacob, *(Heb. הִנְנִי־שָׁב֙ שְׁבוּת֙ אָהֳלֵ֣י יַֽעֲקֹ֔וב: *behold, I shall bring back the captivity of the tents of Jacob*.)* and shall have mercy on his houses, and the city shall be built on its high place, and the temple *(Heb. אַרְמוֺן: *citadel*.)* shall be established according to the order thereof.
 
-Second, he shows his perfect knowledge.
+> ^30:19^ And praise *(Heb. תּוֹדָ֖ה: *thanksgiving*.)* shall go forth from them, and the voice of those who play. And I shall multiply them, and they shall not be diminished; and I shall glorify them, and they shall not be lessened.
 
-First, he communicates the perfection of his knowledge: ***great in counsel***, that is, perfect in the disposition of wisdom, ***and incomprehensible in*** human ***thought***. *Behold the great God who exceeds our knowledge* (Job 36:26). *O the height of the riches of the wisdom of the knowledge of God. How incomprehensible are his judgments, and inscrutable his ways* (Rom 11:33).
+> ^30:20^ And their children shall be as they were in the beginning, and their assembly shall remain before me, and I shall visit against all who trouble them.
 
-Second, he speaks of the execution of justice: ***whose eyes are open upon all the ways of the children of Adam***. *His eyes are upon the ways of men, and he considers all their steps* (Job 34:21).
+> ^30:21^ And their leader shall be of themselves, and a prince from their midst shall be brought forth; and I will bring him near, and he shall come to me. For who is this that sets his heart to approach me? says the Lord:
 
-Lecture 4
+> ^30:22^ And you shall be for me a people, and I shall be for you a God.
 
-***Disobedience in the promised land***
+> **156**. Here, he promises liberation from destruction, from the great affliction, which they had endured; concerning this, there are two points.
 
-***^32:20^ Who made signs and wonders in the land of Egypt until this day, and in Israel, and among men, and you have made yourself a name as at this day.***
+First, he speaks of the preceding destruction, showing its greatness, because it is as if the magnitude of the destruction shall have been so great that it cannot be repaired by human strength; ***breach***, which speaks of a disruption of continuity and signifies the destruction of men or of cities; ***incurable***, because of its greatness, insofar as it is in itself, although God could heal it; ***grievous***, because of its depth. *Your wound is great like the sea; who shall heal you?* (Lam 2:13).  
 
-> ^32:21^ And you led your people Israel from the land of Egypt with signs and wonders, and with a mighty hand, and an outstretched arm, with great fear;
+He excludes also the intervention of human assistance, whether by the judgment of justice rendered by a judge for the injustice sustained: ***there is none who may judge***, against the enemy, ***to bind***, as those who cure wounds bind a plaster upon them. *The Lord saw, and evil appeared in his eyes, because there is no judgment* (Isa 59:15). Or according to the affect of an intervening friendship: ***you have no useful medicines***, namely, from among your friends, because you have offended the true physician. *All her friends have spurned her, and have become her enemies* (Lam 1:2).  
 
-> ^32:22^ and you gave them this land, which you swore to their fathers to give to them, a land flowing with milk and honey.
+He also shows the fairness of the punishment when he gives the cause of the punishment: ***for the wound of an enemy***, who struck mortally, because it is incurable; ***cruel***, because it is deep. ***For the multitude***—for this reason, it ought to be a great wound, which would encompass all their corruption; ***hard***, with regard to obstinacy, and therefore it was fitting for it to be grievous; and deep, penetrating even to the inmost parts. *The Lord has become as an enemy, he has cast down Israel, he has cast down all her walls, he has broken up her bulwarks, and has multiplied in the daughter of Judah the afflicted, both the men and the women* (Lam 2:5).  
 
-> ^32:23^ And they entered and took possession of it, and they did not obey your voice, and did not walk in your law; all that you commanded them that they should do, they did not do, and all these evils have befallen them.
+And he excludes the complaint of the murmurers: ***why do you cry?*** By murmuring. For they cannot be healed except by the most bitter effort, by which I would cut away putrid and incurable flesh. *Why has a living man murmured, a man suffering for his sins?* (Lam 3:39).  
 
-> ^32:24^ Behold, siege works are raised up against this city that it may be taken, and the city is given into the hands of the Chaldeans, and in the hand of the king of Babylon, who battles against it, by the sword, and by famine, and by pestilence; and all that you have spoken has happened, as you yourself see.
+Second, he promises liberation.  
 
-> **173**. Here, he describes the punishment inflicted upon the Jews by divine justice; and in order that its justice may be shown, he makes three points.
+First, he promises the benefit of aid with regard to the judgment of vengeance for the injustice committed against persons, for there is no other who may free them; ***who eat***, by killing, ***your enemies***, who take you captive. Above: ***all who swallow him up transgress. Evil shall come upon them, says the Lord*** (Jer 2:3). And against the injustice committed against goods: ***and those who waste you***, with regard to immoveable goods, ***those who spoil***, with regard to moveable goods. *Woe to you who spoil, shall you yourself not also be spoiled?* (Isa 33:1).  
 
-First, he sets out the benefits of the miraculous liberation: ***until this day***, your signs are being made complete. Or your strength for the salvation of Israel and others appears. *He did wonders in the land of Egypt, in the field of Tanis* (Ps 77:12).
+And with regard to the friendly disposition of the healer, he speaks of the healing: ***I will cover up***, that is, I shall cure you so completely, that not even a vestige shall appear of your former wound. *Who heals the broken heart, and binds up their wound* (Ps 146:3). These things occurred under Zerubbabel when the Babylonians and the Chaldeans wasted the Assyrians—that is, Nineveh—and were themselves wasted by the Medes and Persians. And then ***the scar is covered***, etc. (Jer 8:22). And he gives the reason: ***because they have called you an outcast***, namely, the enemy. *Do not rejoice when your enemy falls, and do not let your heart exult in his ruin, lest perhaps the Lord see, and it displease him, and he take his wrath away from him* (Prov 24:17–18). For the reproach of the enemy is the cause of divine mercy.  
 
-Of a rich dwelling place: ***and you gave them this land***. *You shall possess their land, which I shall give you as an inheritance*—*a land flowing with milk, and honey* (Lev 20:24).
+Second, he shows the manner of assistance: ***thus says the Lord***:  
 
-Second, he speaks of their ingratitude: ***and they entered***. *The beloved grew fat, and kicked; he grew fat, and thick and gross; he forsook God who made him, and departed from God his savior* (Deut 32:15). *I have brought up children, and exalted them; but they have despised me* (Isa 1:2).
+first, with regard to the manner of assistance: ***behold, I shall turn***;  
 
-Third, the infliction of punishment: ***and all these evils have befallen them***. *He shall mock at every defense, and cast up a mound and take it* (Hab 1:10).
+second, with regard to the manner of vengeance: ***behold, the whirlwind of the Lord, his fury going forth, a rushing storm*** (Jer 30:23).  
 
-Lecture 5
+Concerning the former, he first promises a restoration of all buildings generally: ***I shall turn***, that is, I shall restore to their original state, ***the tents***, the houses. *They shall build up the wildernesses of the peoples, and shall raise up ancient ruins, and they shall restore cities deserted and laid waste for generations* (Isa 61:4). And with regard to the princely places specifically: ***and the city shall be built***, that is, Jerusalem. *I who say to Jerusalem, you shall be inhabited, and to the cities of Judah, you shall be built; and to your waste places, I shall raise you up* (Isa 44:26).  
 
-***Buy a field for silver***
+Second, he promises the prosperity of man with regard to joyfulness of heart: ***and praise shall go forth from them***. *Joy and gladness shall be found in her, and thanksgiving, and the voice of praise* (Isa 51:3). With regard to the multitude of the people: ***I shall multiply them, and they shall not be diminished***, insofar as it depends upon me, unless it comes about because of their own fault. *I shall count them, and shall multiply them more than the sand of the sea* (Ps 138:18). Alternatively, it is to be understood to concern those who are converted to Christ.  
 
-***^32:25^ And you say to me, O Lord God: buy a field for silver, and call witnesses, when the city has been given into the hands of the Chaldeans?***
+And with regard to the exaltation of man: ***and I shall glorify them*** (Jer 30:19), either bodily or spiritually, with regard to the sanctity of virtue, ***and their children shall be as they were in the beginning***, that is, like their holy fathers, ***before me***, by cleanness of life. ***And I shall visit***, because I shall defend and avenge them. *Who shall give me that I may be as in former months, and as the days when the Lord kept me?* (Job 29:2).  
 
-> **174**. Here, he wonders at the divine command: ***and you say to me . . . buy a field?*** This is astonishing, because it is not a time for buying. *Let the one who buys not be glad, and the one who sells not mourn; because wrath is upon all his people* (Ezek 7:12).
+Third, with regard to the goodness of their rulers.  
 
-Lecture 6
+First, he speaks of their kinship, for they are from the same line: ***and their leader shall be of themselves***. This refers to Zerubbabel, or it refers to Christ. *I shall give them vinedressers from the same place* (Hos 2:15).  
 
-***Punishment and salvation***
+Second, of their holiness: ***and I will bring him near, and he shall come to me***, by justice. ***For who is this that sets his heart to approach me?***, by which is shown the author of the drawing, for no one is drawn near, unless he be drawn by God. *No one can come to me, unless my Father, who sent me, draw him* (John 6:44).  
 
-***^32:26^ And the word of the Lord came to Jeremiah, saying:***
+Third, he touches on the usefulness of justice: ***and you shall be for me a people***. *As the ruler of the city, so the inhabitants thereof* (Sir 10:2).  
 
-> ^32:27^ behold, I am the Lord God of all flesh. Shall any word be difficult for me?
+Lecture 4  
 
-> ^32:28^ Therefore, thus says the Lord: behold, I shall hand this city into the hands of the Chaldeans, and into the hands of the king of Babylon, and they shall take it.
+***God will accomplish his wrath***
 
-> ^32:29^ And the Chaldeans shall come and make war against this city, and shall kindle it with fire, and burn it and the houses upon whose roofs they offered sacrifice to Baal, and poured out drink offerings to strange gods to provoke me.
+^30:23^ Behold, the whirlwind of the Lord, his fury going forth, a rushing storm; it shall rest upon the head of the wicked.  
 
-> ^32:30^ For the children of Israel and the children of Judah have continually done evil in my eyes from their youth; the sons of Israel, who even until now provoke me with the work of their hands, says the Lord.
+> ^30:24^ The Lord shall not turn aside the wrath of his indignation until he has done and accomplished the thought of his heart; in the end you will understand these things. *(Heb. תִּתְבּוֹנְנוּ בָהּ: *you shall consider it*.)*
 
-> ^32:31^ For this city has been for me a provocation, and an indignation from the day they built it, until this day when it shall be taken out of my sight,
+> **157**. Here, he speaks of the manner of vindication.
 
-> ^32:32^ because of the wickedness of the children of Israel, and the children of Judah, which they did to provoke me to anger, they and their kings, their princes, and their priests, and their prophets, the men of Judah, and the inhabitants of Jerusalem.
+First, he threatens a punishment: ***behold, the whirlwind***, that scatters, as the movement of the air does the dust, by captivity; ***a storm***, that swallows up through death, as the waves of the sea; ***of the wicked***, those who had afflicted the Jews and have not been corrected concerning their evils; ***it shall rest***, as though remaining in punishment. *And the passage of the rod shall be strongly grounded, which the Lord shall make to rest upon him* (Isa 30:32).  
 
-> ^32:33^ And they turned their backs to me, and not their faces, when I taught them early, and instructed them, and they refused to hear, that they might accept reproof.
+Second, he excludes mercy: ***the Lord shall not turn aside the wrath***. *In all these things the wrath of the Lord was not turned back; but still was his hand stretched forth* (Isa 9:12).  
 
-> ^32:34^ And they put their idols in the house, in which my name is invoked, to defile it.
-
-> ^32:35^ And they built the high places of Baal, which are in the valley of the son of Hinnom, that they might consecrate their sons and daughters to Moloch, which I did not command them, nor did it come into my heart that they should do this abominable thing, and lead Judah into sin.
-
-> ^32:36^ And now, because of all these things, thus says the Lord, the God of Israel, to this city, concerning which you say that it shall be given over into the hands of the king of Babylon, with the sword, and with the famine, and with pestilence:
-
-> ^32:37^ behold, I shall gather them from all the lands to which I have driven them in my fury, and in my wrath, and in great indignation; and I shall lead them back to this place, and shall make them to dwell confidently.
-
-> ^32:38^ And they shall be for me a people, and I shall be for them a God.
-
-> ^32:39^ And I shall give them one heart and one way, that they should fear me all days, and it should be well with them, and with their children after them.
-
-> ^32:40^ And I shall make an eternal covenant with them, and I shall not cease to do them good; and I shall put my fear in their heart, that they turn not away from me.
-
-> ^32:41a^ And I shall rejoice over them, when I do them good.
-
-> **175**. Here is given the Lord’s response.
-
-First, he sets forth his power: ***shall any word be difficult for me?*** *Why did Sarah your wife laugh saying, ‘Shall I, who am an old woman, truly bear a son?’ Is anything difficult for God?* (Gen 18:14).
-
-Second, he shows that the punishment was justly inflicted from such power when he predicts the punishment: ***therefore, thus says the Lord***. Above: ***the houses of Jerusalem, and the houses of the kings of Judah shall be like the place Tophet, unclean*** (Jer 19:13).
-
-And he subjoins their guilt when he shows their continuance in sin: ***for the children have continually done evil in my eyes from their youth***, when they went forth from Egypt. Above: ***we have sinned***—***we and our fathers***—***from our youth until this day*** (Jer 3:25).
-
-Also when he shows the universality of their sin: ***for this city has been for me a provocation, and an indignation from the day they built it***. 1 Chron 11.
-
-***Because of the wickedness***. *From the sole of the foot to the top of the head there is no soundness in him* (Isa 1:6). Above: ***I have set my face against this city for evil and not for good, says the Lord*** (Jer 21:10).
-
-Also, when he shows the gravity of their sin with regard to their contempt for God: ***and they turned their backs to me***, by disobedience, after the manner of those who spurn another. *They have turned their shoulder and gone away; they have made their ears heavy, lest they should hear* (Zech 7:11).
-
-With regard to sacrilege in their defilement of the temple: ***and they put idols***. Above: ***why is it that my beloved has done much wickedness in my house?*** (Jer 11:15).
-
-And with regard to sacrilege joined to murder: ***and they built the high places***. *They have sacrificed their sons and their daughters to demons* (Ps 105:37).
-
-Third, he promises mercy.
-
-First, he touches on their desperation: ***and now, because of all these things, thus says the Lord***, “Because with respect to all things I am powerful; as I have punished them mightily, so shall I deliver them mightily.” ***You say***, with despair, ***that it shall be given over***. Above: ***those who are for the sword, to the sword, and those who are for famine, to famine, and those who are for captivity, to captivity*** (Jer 15:2).
-
-Second, he gives the promise: ***behold, I shall gather you***.
-
-First, he promises calling them back. ***I shall gather***. *I shall surely take you from the nations, and gather you from every land, and lead you to your own land* (Ezek 36:24). And he promises security to those who are called back: ***and I shall make them to dwell confidently***. Above: ***in those days Judah will be saved, and Israel shall dwell confidently*** (Jer 23:6).
-
-Second, he promises prosperity to those who return:
-
-first, with regard to spiritual goods;
-
-second, with regard to temporal, at ***and I shall plant them in this land*** (Jer 32:41).
-
-Concerning the former, there are three points.
-
-First, he promises sanctity, that is, obedience to God: ***and they shall be for me a people***. *They shall be his people and God himself with them shall be their God* (Rev 21:3).
-
-And harmony with their neighbors: ***and I shall give them one heart***. *And the multitude of believers was of one heart, and one mind* (Acts 4:32).
-
-Second, firmness of sanctity: ***and I shall make an eternal covenant with them, and I shall not cease to do them good***, with regard to the fruit of sanctity of which he had spoken; ***fear***, with regard to the gift of sanctity. *I shall make with you an eternal covenant, the faithful mercies of David* (Isa 55:3).
-
-Third, the acceptance of their sanctity: ***and I shall rejoice***, that is, I shall accept their good works. *The Lord shall rejoice in his works* (Ps 103:31).
-
-Lecture 7
-
-***Explanation of the allegory***
-
-***^32:41b^ And I shall plant them in this land in truth, and with all my heart, and with all my soul.***
-
-> ^32:42^ For thus says the Lord: as I brought all this great evil upon this people, so shall I bring upon them all the good which I speak to them.
-
-> ^32:43^ And the fields shall be owned in this land, concerning which you say that it has been abandoned, because no man or beast remain in it, and it has been given into the hands of the Chaldeans.
-
-> ^32:44^ Fields shall be bought for money, and they shall be inscribed in a book, and the seal pressed, and witnesses called in the land of Benjamin, and round about Jerusalem, in the cities of Judah, and in the cities of the mountains, and in the cities of the fields, and in the cities which are to the south, for I shall turn their captivity says the Lord.
-
-> **176**. Here, he promises temporal goods:
-
-first, a secure dwelling in their native land: ***I shall plant***, so that they may not easily be uprooted; ***in truth***, without pretense; ***heart***, with regard to thought; ***soul***, with regard to will. Above: ***I shall build them up, and not pull them down; I shall plant them, and not root them up*** (Jer 24:6).
-
-And he confirms this by way of a simile: ***for thus says the Lord: as I brought all this great evil upon this people, so shall I bring upon them all the good***. *He who brought evil upon you, he shall snatch you out of the hands of your enemies* (Bar 4:18).
-
-Second, he promises a free possession of property when he speaks of their full ownership: ***and the fields shall be owned***. *They shall possess it forever; they shall dwell in it from generation to generation* (Isa 34:17).
-
-Next, the freedom to make contracts: ***fields shall be bought for money***. *When the Lord turned the captivity of Zion, we became like those who are consoled* (Ps 125:1).
-
-Chapter 33
+Third, he promises knowledge of these things: ***in the end you will understand these things***, namely, when all these things have come to pass. *The Lord shall be known when he carries out judgment; the sinner shall be caught in the works of his hands* (Ps 9:17).

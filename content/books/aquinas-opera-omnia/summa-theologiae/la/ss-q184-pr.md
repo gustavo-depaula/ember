@@ -1,25 +1,19 @@
-# Quaestio 184 — Deinde considerandum est de his quae pertinent ad statum perfectionis, ad quem alii status ordinantur. Nam consideratio officiorum, quantum quidem ad alios actus, pertinet ad legispositores; quantum autem ad sacra ministeria, pertinet ad considerationem ordinum, de quibus in tertia parte agetur.
+# Quaestio 184
 
-Circa statum autem perfectorum triplex consideratio occurrit,
+***De statu perfectionis in communi***
 
-primo quidem, de statu perfectionis in communi;
-secundo, de his quae pertinent ad perfectionem episcoporum;
-tertio, de his quae pertinent ad perfectionem religiosorum.
+Deinde considerandum est de his quae pertinent ad statum perfectionis, ad quem alii status ordinantur. Nam consideratio officiorum, quantum quidem ad alios actus, pertinet ad legispositores; quantum autem ad sacra ministeria, pertinet ad considerationem ordinum, de quibus in tertia parte agetur.  
 
-Circa primum quaeruntur octo.
+Circa statum autem perfectorum triplex consideratio occurrit, primo quidem, de statu perfectionis in communi; secundo, de his quae pertinent ad perfectionem episcoporum; tertio, de his quae pertinent ad perfectionem religiosorum.  
 
-Primo, utrum perfectio attendatur secundum caritatem.
+Circa primum quaeruntur octo.  
 
-Secundo, utrum aliquis possit esse perfectus in hac vita.
+Primo, utrum perfectio attendatur secundum caritatem.  
 
-Tertio, utrum perfectio huius vitae consistat principaliter in consiliis, vel in praeceptis.
-
-Quarto, utrum quicumque est perfectus, sit in statu perfectionis.
-
-Quinto, utrum praelati et religiosi specialiter sint in statu perfectionis.
-
-Sexto, utrum omnes praelati sint in statu perfectionis.
-
-Septimo, quis status sit perfectior, utrum religiosorum vel episcoporum.
-
-Octavo, de comparatione religiosorum ad plebanos et archidiaconos.
+- Secundo, utrum aliquis possit esse perfectus in hac vita.
+- Tertio, utrum perfectio huius vitae consistat principaliter in consiliis, vel in praeceptis.
+- Quarto, utrum quicumque est perfectus, sit in statu perfectionis.
+- Quinto, utrum praelati et religiosi specialiter sint in statu perfectionis.
+- Sexto, utrum omnes praelati sint in statu perfectionis.
+- Septimo, quis status sit perfectior, utrum religiosorum vel episcoporum.
+- Octavo, de comparatione religiosorum ad plebanos et archidiaconos.

@@ -1,19 +1,18 @@
-# Quaestio 63 — Deinde considerandum est quomodo Angeli facti sunt mali. Et primo, quantum ad malum culpae; secundo, quantum ad malum poenae. Circa primum quaeruntur novem.
+# Quaestio 63
 
-Primo, utrum malum culpae in Angelo esse possit.
+***De angelorum malitia quoad culpam***
 
-Secundo, cuiusmodi peccata in eis esse possunt.
+Deinde considerandum est quomodo angeli facti sunt mali. Et primo, quantum ad malum culpae; secundo, quantum ad malum poenae.  
 
-Tertio, quid appetendo Angelus peccavit.
+Circa primum quaeruntur novem.  
 
-Quarto, supposito quod aliqui peccato propriae voluntatis facti sunt mali, utrum aliqui naturaliter sint mali.
+Primo, utrum malum culpae in angelo esse possit.  
 
-Quinto, supposito quod non, utrum aliquis eorum in primo instanti suae creationis potuerit esse malus per actum propriae voluntatis.
-
-Sexto, supposito quod non, utrum aliqua mora fuerit inter creationem et lapsum.
-
-Septimo, utrum supremus inter cadentes, fuerit simpliciter inter omnes Angelos summus.
-
-Octavo, utrum peccatum primi Angeli fuerit aliis aliqua causa peccandi.
-
-Nono, utrum tot ceciderint, quot remanserunt.
+- Secundo, cuiusmodi peccata in eis esse possunt.
+- Tertio, quid appetendo angelus peccavit.
+- Quarto, supposito quod aliqui peccato propriae voluntatis facti sunt mali, utrum aliqui naturaliter sint mali.
+- Quinto, supposito quod non, utrum aliquis eorum in primo instanti suae creationis potuerit esse malus per actum propriae voluntatis.
+- Sexto, supposito quod non, utrum aliqua mora fuerit inter creationem et lapsum.
+- Septimo, utrum supremus inter cadentes, fuerit simpliciter inter omnes angelos summus.
+- Octavo, utrum peccatum primi angeli fuerit aliis aliqua causa peccandi.
+- Nono, utrum tot ceciderint, quot remanserunt.

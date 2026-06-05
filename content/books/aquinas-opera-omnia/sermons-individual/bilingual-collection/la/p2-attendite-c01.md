@@ -1,0 +1,5 @@
+# Prologue
+
+Duo esse in verbis istis sibi invicem contrariantia Apostolus testatur: *spiritus*, inquid, *concupiscit adversus carnem et caro adversus spiritum*; et tamen ex utroque contingit esse peccatum: ex infirmitate carnis est aliquando peccatum et aliquando per ignorantiam spiritus; unde Apostolus ad Corinthios: *emundemus nos ab omni inquinamento carnis et spiritus*. Et sicut peccatum ex carne provenit ex carnis infirmitate, unde in Mattheo: *spiritus quidem promptus est, caro autem infirma*; sic peccatum spiritus provenit ex ignorantia spiritus, scilicet quando spiritus decipitur. Et ideo in ista dominica munimur contra utrumque peccatum. Contra peccatum ex infirmitate carnis munimur per Apostolum in epistola qui dicit: *debitores sumus carni, non ut secundum carnem vivamus*; contra peccatum ex deceptione spiritus munimur in evangelio ubi dicitur: ***attendite a falsis prophetis*** etc.  
+
+Rogemus Salvatorem qui nos cautos voluit esse contra utrumque peccatum, quod ipse det mihi aliquid dicere quod sit ad eius laudem etc.

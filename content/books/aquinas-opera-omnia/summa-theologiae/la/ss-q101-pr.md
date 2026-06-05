@@ -1,9 +1,9 @@
-# Quaestio 101 — Deinde, post religionem, considerandum est de pietate. Cuius opposita vitia ex ipsius consideratione innotescunt. Circa pietatem ergo quaeruntur quatuor.
+# Quaestio 101
 
-Primo, ad quos pietas se extendat.
+Deinde, post religionem, considerandum est de pietate. Cuius opposita vitia ex ipsius consideratione innotescunt. Circa pietatem ergo quaeruntur quatuor.  
 
-Secundo, quid per pietatem aliquibus exhibeatur.
+Primo, ad quos pietas se extendat.  
 
-Tertio, utrum pietas sit specialis virtus.
-
-Quarto, utrum religionis obtentu sit pietatis officium praetermittendum.
+- Secundo, quid per pietatem aliquibus exhibeatur.
+- Tertio, utrum pietas sit specialis virtus.
+- Quarto, utrum religionis obtentu sit pietatis officium praetermittendum.

@@ -1,5 +1,7 @@
-# Question 100 — We now have to consider the condition of the offspring as to righteousness. Under this head there are two points of inquiry:
+# Question 100 — The Condition of the Offspring as Regards Righteousness
 
-(1) Whether men would have been born in a state of righteousness?
+We now have to consider the condition of the offspring as to righteousness. Under this head there are two points of inquiry:  
 
-(2) Whether they would have been born confirmed in righteousness?
+(1) Whether men would have been born in a state of righteousness?  
+
+- (2) Whether they would have been born confirmed in righteousness?

@@ -1,9 +1,10 @@
-# Question 118 — We next consider the production of man from man: first, as to the soul; secondly, as to the body.
+# Question 118 — The Production of Man from Man as to the Soul
 
-Under the first head there are three points of inquiry:
+We next consider the production of man from man: first, as to the soul; second, as to the body.  
 
-(1) Whether the sensitive soul is transmitted with the semen?
+Under the first head there are three points of inquiry:  
 
-(2) Whether the intellectual soul is thus transmitted?
+(1) Whether the sensitive soul is transmitted with the semen?  
 
-(3) Whether all souls were created at the same time?
+- (2) Whether the intellectual soul is thus transmitted?
+- (3) Whether all souls were created at the same time?

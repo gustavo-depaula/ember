@@ -1,9 +1,11 @@
-# Quaestio 17 — Deinde quaeritur de falsitate. Et circa hoc quaeruntur quatuor.
+# Quaestio 17
 
-Primo, utrum falsitas sit in rebus.
+***Deinde quaeritur de falsitate.***
 
-Secundo, utrum sit in sensu.
+Et circa hoc quaeruntur quatuor.  
 
-Tertio, utrum sit in intellectu.
+Primo, utrum falsitas sit in rebus.  
 
-Quarto, de oppositione veri et falsi.
+- Secundo, utrum sit in sensu.
+- Tertio, utrum sit in intellectu.
+- Quarto, de oppositione veri et falsi.

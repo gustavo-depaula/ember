@@ -1,9 +1,9 @@
-# Question 64 — It now remains as a sequel to deal with the punishment of the demons; under which heading there are four points of inquiry:
+# Question 64 — The Punishment of the Demons
 
-(1) Of their darkness of intellect;
+It now remains as a sequel to deal with the punishment of the demons; under which heading there are four points of inquiry:  
 
-(2) Of their obstinacy of will;
+(1) Of their darkness of intellect;  
 
-(3) Of their grief;
-
-(4) Of their place of punishment.
+- (2) Of their obstinacy of will;
+- (3) Of their grief;
+- (4) Of their place of punishment.

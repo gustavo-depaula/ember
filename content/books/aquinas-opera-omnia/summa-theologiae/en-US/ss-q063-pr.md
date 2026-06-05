@@ -1,11 +1,11 @@
-# Question 63 — We must now consider the vices opposed to the aforesaid parts of justice. First we shall consider respect of persons which is opposed to distributive justice; secondly we shall consider the vices opposed to commutative justice.
+# Question 63 — Respect of Persons
 
-Under the first head there are four points of inquiry:
+We must now consider the vices opposed to the aforesaid parts of justice. First we shall consider respect of persons which is opposed to distributive justice; second we shall consider the vices opposed to commutative justice.  
 
-(1) Whether respect of persons is a sin?
+Under the first head there are four points of inquiry:  
 
-(2) Whether it takes place in the dispensation of spiritualities?
+(1) Whether respect of persons is a sin?  
 
-(3) Whether it takes place in showing honor?
-
-(4) Whether it takes place in judicial sentences?
+- (2) Whether it takes place in the dispensation of spiritualities?
+- (3) Whether it takes place in showing honor?
+- (4) Whether it takes place in judicial sentences?

@@ -1,5 +1,7 @@
-# Quaestio 37 — Deinde quaeritur de nomine amoris. Et circa hoc quaeruntur duo.
+# Quaestio 37
 
-Primo, utrum sit proprium nomen spiritus sancti.
+***Deinde quaeritur de nomine amoris. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum pater et filius diligant se spiritu sancto
+Primo, utrum sit proprium nomen spiritus sancti.  
+
+- Secundo, utrum pater et filius diligant se spiritu sancto.

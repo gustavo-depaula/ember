@@ -1,9 +1,9 @@
-# Quaestio 40 — Deinde considerandum est de bello. Et circa hoc quaeruntur quatuor.
+# Quaestio 40
 
-Primo, utrum aliquod bellum sit licitum.
+***Deinde considerandum est de bello. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum clericis sit licitum bellare.
+Primo, utrum aliquod bellum sit licitum.  
 
-Tertio, utrum liceat bellantibus uti insidiis.
-
-Quarto, utrum liceat in diebus festis bellare.
+- Secundo, utrum clericis sit licitum bellare.
+- Tertio, utrum liceat bellantibus uti insidiis.
+- Quarto, utrum liceat in diebus festis bellare.

@@ -1,3 +1,0 @@
-# Immensa.S1.7
-
-Unde omnibus vere poenitentibus et confessis qui Matutinali officio huius festi praesentialiter in ecclesia ubi celebraretur adessent centum. Qui vero Missae totidem. Illis autem qui interessent in primis ipsius festi Vesperis similiter centum. Qui vero in secundis totidem. Eis quoque qui Primae, Tertiae, Sextae, Nonae ac Completorii adessent officiis, pro qualibet horarum ipsarum quadraginta. Illis vero qui per ipsius festi octavas in Matutinalibus, Vespertinis, Missae ac praedictarum horarum officiis praesentes existerent singulis diebus octavarum ipsarum, centum dierum indulgentiam misericorditer tribuit perpetuis temporibus duraturam.

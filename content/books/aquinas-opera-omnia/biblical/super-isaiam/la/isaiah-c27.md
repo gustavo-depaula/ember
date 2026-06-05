@@ -1,111 +1,125 @@
-# Chapter 27
+# Chapter 25
 
-> ^27:2^ In die illa vinea meri cantabit ei:
+^25:1^ Domine Deus meus es tu; exaltabo te et confitebor nomini tuo quoniam fecisti mirabilia cogitationes antiquas fideles. Amen.  
 
-> ^27:3^ Ego Dominus qui servo eam, repente propinabo ei. Ne forte visitetur contra eam, nocte et die servo eam.
+> ^25:2^ Quia posuisti civitatem in tumulum, urbem fortem in ruinam, domum alienorum ut non sit civitas et in sempiternum non ædificetur.
 
-> ^27:4^ Indignatio non est mihi. Quis dabit me spinam et veprem? In prælio gradiar super eam, succendam eam pariter.
+> ^25:3^ Super hoc laudabit te populus fortis, civitas gentium robustarum timebit te;
 
-> ^27:5^ An potius tenebo fortitudinem meam? Faciet pacem mihi, pacem faciet mihi.
+> ^25:4^ quia factus es fortitudo pauperi, fortitudo egeno in tribulatione sua, spes a turbine, umbraculum ab æstu; spiritus enim robustorum quasi turbo impellens parietem.
 
-> ^27:6^ Qui egredientur impetu ad Jacob, florebit et germinabit Israel, et implebunt faciem orbis semine.
+> ^25:5^ Sicut æstus in siti tumultum alienorum humiliabis, et quasi calore sub nube torrente propaginem fortium marcescere facies.
 
-> ^27:7^ Numquid juxta plagam percutientis se percussit eum? Aut sicut occidit interfectos ejus sic occisus est?
+> ^25:6^ Et faciet Dominus exercituum omnibus populis in monte hoc convivium pinguium, convivium vindemiæ, pinguium medullatorum, vindemiæ defæcatæ.
 
-> ^27:8^ In mensura contra mensuram, cum abjecta fuerit judicabit eam; meditatus est in spiritu suo duro per diem æstus.
+> ^25:7^ Et præcipitabit in monte isto faciem vinculi colligati super omnes populos et telam quam orditus est super omnes nationes.
 
-> ^27:9^ Idcirco super hoc dimittetur iniquitas domui Jacob, et iste omnis fructus, ut auferatur peccatum ejus, cum posuerit omnes lapides altaris sicut lapides cineris allisos, non stabunt luci et delubra.
+> ^25:8^ Præcipitabit mortem in sempiternum, et auferet Dominus Deus lacrimam ab omni facie et opprobrium populi sui auferet de universa terra, quia Dominus locutus est.
 
-> ^27:10^ Civitas enim munita desolata erit, speciosa relinquetur et dimittetur quasi desertum; ibi pascetur vitulus et ibi accubabit et consumet summitates ejus.
+> ^25:9^ Et dicet in die illa: ecce Deus noster iste, exspectavimus ipsum et salvabit nos; iste Dominus, sustinuimus eum, et exsultabimus et lætabimur in salutari ejus,
 
-> ^27:11^ In siccitate messes illius conterentur mulieres venientes et docentes eam. Non est enim populus sapiens; propterea non miserebitur ejus qui fecit eum et qui formavit eum non parcet ei.
+> ^25:10^ quia requiescet manus Domini in monte isto. Et triturabitur Moab sub eo sicuti teruntur paleæ in plaustro;
 
-> ^27:12^ Et erit, in die illa percutiet Dominus ab alveo fluminis usque ad torrentem Ægypti, et vos congregabimini unus et unus, filii Israel.
+> ^25:11^ et extendet manus sub eo sicut extendit natans ad natandum, et humiliabit gloriam ejus cum allisione manuum ejus;
 
-> ^27:13^ Et erit, in die illa clangetur in tuba magna, et venient qui perditi fuerant de terra Assyriorum et qui ejecti erant in terra Ægypti et adorabunt Dominum in monte sancto in Jerusalem.
+> ^25:12^ et munimenta sublimium murorum tuorum concident et humiliabuntur et detrahentur in terram usque ad pulverem.
 
-> **620**. ***In die illa***. In parte ista commemorat divinam et paternam correctionem,
+> **584**. ***Domine Deus***. Hic ponitur gratiarum actio;
 
-et primo flagellis alienis,
+et primo de populi exaltatione,  
 
-secundo flagellis propriis: ***in die illa vinea***; unde dicitur Sap. XI 11 *hos quidem tamquam pater monens probasti*.
+secundo de ipsius justificatione, cap. XXVI ***in die illa***,  
 
-Circa primum ponit flagellum Babylonis: ***gladio***, scilicet vindicta; ***Leviathan***, scilicet Nabuchodonosor, propter additionem regnorum quae sibi subjugaverat; ***serpentem***, propter virulentam tyrannidem; ***vectem***, propter populorum correctionem a Deo, supra ***vae Assur, virga furoris mei***; ***tortuosum***, propter infidelitatem, Iob XL 18 *ecce absorbebit flumen et non mirabitur; **cetum***, Ez. XXVIII 2 *sedi in corde maris*.
+tertio de paterna correptione, cap. XXVII ***in die illa***.  
 
-**621**. ***In die illa***. Hic ponitur correctio per propria flagella.
+Prima in duas.  
 
-Unde primo prosequitur castigationem,
+In prima ponitur gratiarum actio: ***exaltabo te***, in aliis alte te praedicando; ***confitebor***, in me ipso gratias agendo, Ps. *confitebor tibi, Domine, in toto corde meo*.  
 
-secundo consolationem: ***et erit in die***.
+**585**. Secundo ponitur materia gratiarum actionis: ***quoniam fecisti***.  
 
-Circa primum duo facit:
+Et primo in generali, quantum ad magnitudinem factorum: ***mirabilia***, Job IX *qui facit magna et inscrutabilia*; quantum ad impletionem promissorum: ***fideles***, Eccli. XXXVI 18 *da mercedem Domine sustinentibus te, ut prophetae tui fideles inveniantur*; ***amen***, id est vere.  
 
-primo praedicitur castigatio,
+Secundo in speciali: ***quia posuisti***,  
 
-secundo modus inquiritur: ***indignatio***.
+et primo opera quae pertinent ad depressionem malorum,  
 
-Circa primum tria.
+secundo quae pertinent ad exaltationem bonorum: ***et faciet Dominus***.  
 
-Primo praedicit doloris canticum: ***vinea***, quondam in prophetis et patriarchis, vini ***meri***, supra V 7 ***vinea Domini sabaoth domus Israel est***.
+**586**. Circa primum tria:  
 
-Secundo ponit punientis propositum: ***ego Dominus qui servo eam***, infra LI 17 ***bibisti de manu Domini calicem irae ejus***.
+primo comminatur poenae flagellum,  
 
-Tertio ponit beneficium cui ingrati fuerunt: ***ne forte visitetur***, Sap. XVI 12 *sermo tuus Domine qui sanat omnia*.
+secundo poenae fructum: ***super hoc***,  
 
-**622**. ***Indignatio***. Hic inquiritur punitionis modus,
+tertio punitionis modum: ***sicut***.  
 
-et primo ponitur judicis deliberatio,
+Dicit ergo primo ***civitatem***, Jerusalem; ***alienorum*** a Deo, scilicet Judaeorum; ***in sempiternum non aedificetur***, quia nec in eodem loco postea, supra XVII 1 ***ecce Damascus desinat civitas esse***, Mich. IV *Sion quasi ager*, Ez. XXVII 36 *ad nihilum deducta es*. Vel de Babylone, sive de qualibet alia civitate gentilium eis adversantium.  
 
-secundo deliberati executio: ***civitas***.
+**587**. ***Super hoc***. Hic ponit fructum in subjectione hominum ad Deum.  
 
-Circa primum tria.
+Et primo ponit duo signa subjectionis:  
 
-Primo proponit severum judicium, proponens saevientis iram: ***indignatio non est mihi***, quasi dicat: immo juste indignor quia beneficiis ingrati sunt, infra LI 20 ***pleni indignatione Domini***; et ex ira determinat austeram poenam: ***quis dabit mihi spinam et veprem?***, quantum ad praecedentes angustias communiter in ipsis ad invicem exortas, supra V 6 ***ascendent super eam vepres et spinae***; ***in praelio***, quantum ad impugnationem hostium, Jer. XXI 5 *ego debellabo; **succendam***, quantum ad destructionem domorum et civitatum, Jer. LI *egredietur ut ignis indignatio mea*.
+laudem, ***laudabit fortis***, quantumcumque tibi subjectus, vel populus gentilis fortis in passionibus;  
 
-**623**. Secundo ponit sententiae temperamentum: ***an potius tenebo?***, quasi dicat: ***retinebo iram meam***; per oppositum, Jer. XXX 24 *non auferet Dominus*. Et ponit temperamenti fructum quantum ad bonos, quem quilibet faciet in comparatione ad Deum: ***faciet pacem***; quasi dicat: pacificabit me bonis operibus, infra XXXII 17 ***erit opus justitiae pax***; in comparatione ad se ipsum: ***florebit***, fide vel bono proposito, ***germinabit***, operis consummatione, infra LV ***florebit Jerusalem quasi lilium***; et in comparatione ad proximum: ***implebunt faciem, qui egredientur***, scilicet apostoli, supra II 3 ***de Sion exibit lex et verbum Domini de Jerusalem***, Ps. *in omnem terram exivit sonus eorum*.
+timorem: ***timebit te*** quaecumque civitas, infra LX 5 ***fortitudo gentium venerit tibi***.  
 
-**624**. Ponit etiam poenae supplementum quantum ad ingratos: ***numquid juxta?***, in quo improperat temperatae poenae beneficium, Ps. *non secundum peccata nostra facies nobis; **in mensura***, in quo comminatur adaequatum judicium; ***cum abjecta*** a cultu Dei per infidelitatem, non credentes Christo, Deut. XXV 2 *secundum mensuram peccati erit et plagarum modus; **meditatus***, in quo ostendit sententiae firmamentum, ***duro***, quia non placabitur, supra II 22 ***quiescite ergo ab homine cujus spiritus in naribus ejus est***.
+Secundo assignat rationem,  
 
-**625**. Tertio explicat motivum ad temperandum ne tunc omnino destrueret, quia scilicet ex illa gente Christus et apostoli descendere adhuc debebant, per quorum praedicationem idolorum cultus derelinquendus erat; et hoc est quod dicit ***cum posuerit***, supra XVII 7 ***inclinabitur homo ad factorem suum, et oculi ejus ad Sanctum Israel respicient***.
+quam primo ponit: ***quia factus es**; **pauperi***, qui parum habet etsi sufficiens sibi, ***egeno***, qui eget, Ps. *factus est mihi Dominus in refugium, et Deus meus in adjutorium spei meae*.  
 
-**626**. ***Civitas***, scilicet Jerusalem, Thren. I 1 *quomodo sedet sola civitas plena populo*; quantum ad hostium potestatem: ***ibi pascetur***, quasi sine timore requiescet, ***vitulus***, hostium exercitus; ***summitates***, metaphorice, id est spicas per quas significantur principes, supra XIII 21 ***requiescent ibi bestiae***, vel ad litteram ut sit desolationis signum, I Mach. IV 38 *viderunt pastophoria dirupta*; et hominum destructionem: ***in siccitate***, metaphora est, id est sicut spicae teruntur in siccitate aestatis; ***mulieres docentes***, a quibus maxime in peccata populus praecipitabatur, supra III 12 ***populum meum exactores sui despoliaverunt***, vel quia ipsae mulieres docebant eos sicut Debora, Judicum IV, et Holda, IV Reg. XXII 14.
+Secundo ponit similitudinem: ***spes***, defensionis, ***a turbine***, propter violentiam persequentis; ***umbraculum***, consolationis, ***ab aestu***, propter afflictionem persecutionis, infra XXXII 2 ***erit vir sicut***.  
 
-**627**. Secundo ponit poenae aequitatem per comparationem ad culpam: ***non est enim populus***, supra V 13 ***propterea captivus ductus est populus meus, quia non habuit scientiam***.
+Tertio ponit expositionem: ***spiritus***, id est indignatio et superbia, supra XXI 1 ***sicut turbines ab Africo veniunt, de deserto venit, de terra horribili***.  
 
-**628**. Tertio destructionis magnitudinem, et quantum ad universalitatem locorum: ***et erit in die***, id est ab uno capite usque ad aliud, supra I 6 ***a planta pedis usque ad verticem non est in eo sanitas***; et quantum ad paucitatem hominum remanentium: ***et vos congregabimini***, Deut. XXVIII 62 *remanebitis pauci numero*.
+**588**. ***Sicut aestus***. Hic ponit punitionis modum quantum ad afflictionem: ***sicut aestus in siti*** affligit, ***tumultum***, superbum clamorem; quantum ad sterilitatem: ***et quasi calore sub nube*** adunata ex vento australi, quae etiam quandoque propter nimium calorem fructus vitis destruuntur, Jac. I 11 *exortus est sol cum ardore, et arefecit fenum, et flos ejus decidit*.  
 
-**629**. ***Et erit***. Hic ponit consolationem per reductionem ad ipsam. ***Tuba***, praeceptum regis, supra XI 12 ***levabit signum in nationibus, et congregabit profugos Israel***.
+**589**. ***Et faciet Dominus***. Hic ponit ea quae pertinent ad exaltationem bonorum, et hoc tripliciter.  
 
-**630**. Nota super illo verbo ***visitabit Dominus in gladio***, quod vindicta Dei dicitur gladius:
+Primo quantum ad abundantiam honoris, quam describit sub metaphora convivii quod paratur de animalibus pinguibus et vino depurato; ***in monte hoc***, quia ibi Christus passus est unde nobis omnia bona provenerunt, vel quia ibi judicabit, ut dicunt; Matth. XXII 4 *ecce prandium meum paravi, tauri mei et altilia sunt occisa*.  
 
-primo durus propter poenae acerbitatem;
+**590**. Secundo quantum ad subtractionem malorum: ***et praecipitabit***, quantum ad mortis poenam, quam nominat vinculum inquantum ad ipsam ex peccato obligamur, et telam inquantum iusta Dei sententia ordita est, <I Cor. XV 54> *absorpta est mors in victoria*, Oseae XIII 14 *ero mors tua, o mors, morsus tuus, o inferne*; doloris tristitiam: ***et auferet***, Apoc. XXI 4 *absterget Deus omnem lacrymam ab oculis sanctorum*; confusionis ignominiam: ***et opprobrium***, supra IV 1 ***aufer*** etc. Quidam referunt hoc ad judicium praestitum in morte Holofernis, qui contra omnes gentes veniebat; et similiter de convivio. Et ponit gratiarum actionem: ***et dicent, Sustinuimus***, patienter expectando, Eccli. II 7 *metuentes Dominum sustinete misericordiam ejus*. Et ponit rationem: ***quia requiescet***, cum quo nihil malum potest esse, Ps. *haec requies mea in saeculum saeculi*.  
 
-secundo magnus propter punitorum universalitatem, Apoc. VI 4 *datus est illi gladius magnus*;
+**591**. Tertio quantum ad hostium oppressionem, scilicet Moabitarum, qui propter somnum maxime eis infesti erant.  
 
-tertio fortis propter punientis potestatem, Job XIX 29 *fugite a facie gladii*;
+Et primo ponit eorum afflictionem: ***triturabitur***, Amos I 3 *trituraverunt in plaustris ferreis Galaad*;  
 
-quarto acutus propter ipsius penetrabilitatem, quia usque ad animam, Hebr. IV 12 *vivus est sermo Dei et efficax et penetrabilior omni gladio ancipiti*;
+secundo plenariam subjectionem: ***extendet manus***, quasi prostratus et petens misericordiam vel auxilium, infra XLIX ***veniet***; et munitionum destructionem: ***et munimenta***, de quibus habetur supra XVI 7.  
 
-quinto lucens propter evidentem aequitatem, Nahum III 15 *peribis gladio, devorabit te ut bruchus*.
+**592**. Nota super illo verbo ***confitebor nomini***, quod est multiplex confessio:  
 
-**631**. Item super illo verbo ***Leviathan***, quod diabolus dicitur Leviathan quia addit
+prima humilitatis, Jac. ult. *confitemini alterutrum peccata vestra*;  
 
-primo humanae nequitiae, Ps. *appone iniquitatem super iniquitatem*;
+secunda veritatis, Ro. X 10 *corde creditur ad justitiam, ore autem confessio fit ad salutem*;  
 
-secundo propriae potentiae, Matth. III *haec omnia tibi dabo si cadens adoraveris me*;
+tertia laudis, Ps. *confitemini Domino in cithara*;  
 
-tertio divinae justitiae, Gen. IV 13 *major est iniquitas mea quam veniam merear*;
+quarta gratiarum actionis, supra XII 1 ***confitebor tibi Domine quoniam iratus es mihi, conversus est furor tuus et consolatus es me***.  
 
-quarto divinae misericordiae, Gen. XXXIII *tristem blanditiis*.
+**593**. Item nota super illo ***amen***, quod ***amen*** est Hebraeum; et quandoque est verbum, id est fiat, Deut. XXVII 15 *et dicet omnis populus Amen*; quandoque adverbium, id est vere, Jo. VI 32 *amen, amen dico vobis*; quandoque nomen, id est veritas, Apoc. III 14 *haec dicit Amen*. Quandoque est Graecum: sine defectu, ab a, quod est sine, et mene, quod est defectus, Ro. IX 5 *qui est Deus benedictus in saecula Amen*.  
 
-**632**. Item nota super illo ***serpentem***, quod diabolus dicitur serpens
+**594**. Nota super illo verbo ***convivium pinguium***, quod est triplex convivium.  
 
-primo propter renovationis ingenium, I Cor. XI *ipse Satan transfigurat se in angelum lucis*;
+Primum familiare militantis Ecclesiae, in quo proponit tria:  
 
-secundo propter incedendi modum, Job I 7 *circuivi terram et perambulavi eam*;
+primo amaritudinem passionis, Exo. XII *comedetis illud cum lactucis agrestibus*, I Cor. XI 26 *quotiens hoc feceritis, mortem Domini annuntiabitis donec veniat*;  
 
-tertio propter venenosum morsum, Prov. XXIII 32 *in novissimo mordebit eum coluber*;
+secundo dulcedinem dilectionis, Sap. XVI 20 *panem de caelo praestitisti eis sine labore, omne delectamentum in se habentem et omnis saporis suavitatem*;  
 
-quarto propter involutionis modum, Job XL 12 *stringit caudam suam quasi cedrum*.
+tertio pinguedinem quantum ad effectum, Ps. *impinguasti in oleo caput meum*.  
 
-Caput 28
+**595**. Secundum est convivium privatum animae, in quo proponit tria:  
+
+primo vinum amoris, Cant. I 1 *meliora sunt ubera tua vino*;  
+
+secundo mel contemplationis, Ps. *quam dulcia faucibus meis eloquia tua! Super mel ori meo*;  
+
+tertio lac depurationis adhuc ad crescendum in perfectum, II Petri I *rationabiles sine dolo lac concupiscite*.  
+
+**596**. Tertium est convivium solemne caelestis curiae, in quo proponit tria:  
+
+primo vinum ad ebrietatem, Cant. IV *comedite amici et bibite et inebriamini*;  
+
+secundo mel ad satietatem, Ps. *satiabor cum apparuerit gloria tua*;  
+
+tertio lac ad perfectionem corporis et animae, Cant. IV *oculi tui sicut columbae*.

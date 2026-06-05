@@ -1,5 +1,7 @@
-# Question 37 — We now inquire concerning the name "Love," on which arise two points of inquiry:
+# Question 37 — The Name ‘Love’
 
-(1) Whether it is the proper name of the Holy Ghost?
+***We now inquire concerning the name *Love*, on which arise two points of inquiry:***
 
-(2) Whether the Father and the Son love each other by the Holy Ghost?
+(1) Whether it is the proper name of the Holy Spirit?  
+
+- (2) Whether the Father and the Son love each other by the Holy Spirit?

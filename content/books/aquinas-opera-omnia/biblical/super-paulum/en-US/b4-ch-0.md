@@ -2,9 +2,8 @@
 
 **PROLOGUE**
 
-*Vetera, novis supervenientibus, proiicietis*, Lev. XXVI, 10.
-
-*The new coming on, you shall cast away the old.* (Lev. 26:10)
+> *Vetera, novis supervenientibus, proiicietis*, Lev. XXVI, 10.
+> *The new coming on, you shall cast away the old.* (Lev. 26:10)
 
 These words befit the present epistle in which the Apostle reproves the Galatians who had been so deceived by false teachers as to observe at once the rites of the Law and those of the Gospel. For this the Apostle rebukes them with the above words: *“The new coming on, you shall cast away the old.”* In these words the Lord suggests a fourfold oldness.
 

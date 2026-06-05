@@ -1,9 +1,9 @@
-# Quaestio 71 — Deinde considerandum est de iniustitia quae fit in iudicio ex parte advocatorum. Et circa hoc quaeruntur quatuor.
+# Quaestio 71
 
-Primo, utrum advocatus teneatur praestare patrocinium causae pauperum.
+Deinde considerandum est de iniustitia quae fit in iudicio ex parte advocatorum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum aliquis debeat arceri ab officio advocati.
+Primo, utrum advocatus teneatur praestare patrocinium causae pauperum.  
 
-Tertio, utrum advocatus peccet iniustam causam defendendo.
-
-Quarto, utrum peccet pecuniam accipiendo pro suo patrocinio.
+- Secundo, utrum aliquis debeat arceri ab officio advocati.
+- Tertio, utrum advocatus peccet iniustam causam defendendo.
+- Quarto, utrum peccet pecuniam accipiendo pro suo patrocinio.

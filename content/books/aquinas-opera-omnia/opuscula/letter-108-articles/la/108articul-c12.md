@@ -1,0 +1,3 @@
+# Articulus 11
+
+Quod vero undecimo proponitur, *etsi eadem sit natura in patre et filio et spiritu sancto, non tamen eodem modo se habens*, dubium sensum habet. Si enim intelligat modum essentialem, expresse falsum est: puta si diceret, quod melius aut perfectius essentia sit in uno quam in alio; si autem intelligat modum relativum, secundum quod Hugo de sancto Victore, in Lib. de Trin., cuilibet personae attribuit quendam essendi modum, sic verum est quod dicitur: quia licet essentia non referatur ut sit generans vel genita, sicut obiiciens dicit, est tamen essentia per generationem accepta vel communicata. Essentia igitur divina est in patre ut non accepta ab alio; in filio ut accepta per generationem; in spiritu sancto ut accepta per processionem.

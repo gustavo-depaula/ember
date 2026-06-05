@@ -1,9 +1,9 @@
-# Quaestio 10 — Deinde considerandum est de modo quo voluntas movetur. Et circa hoc quaeruntur quatuor.
+# Quaestio 10
 
-Primo, utrum voluntas ad aliquid naturaliter moveatur.
+Deinde considerandum est de modo quo voluntas movetur. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum de necessitate moveatur a suo obiecto.
+Primo, utrum voluntas ad aliquid naturaliter moveatur.  
 
-Tertio, utrum de necessitate moveatur ab appetitu inferiori.
-
-Quarto, utrum de necessitate moveatur ab exteriori motivo quod est Deus.
+- Secundo, utrum de necessitate moveatur a suo obiecto.
+- Tertio, utrum de necessitate moveatur ab appetitu inferiori.
+- Quarto, utrum de necessitate moveatur ab exteriori motivo quod est Deus.

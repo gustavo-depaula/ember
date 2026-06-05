@@ -1,5 +1,7 @@
-# Quaestio 105 — Deinde considerandum est de inobedientia. Et circa hoc quaeruntur duo.
+# Quaestio 105
 
-Primo, utrum sit peccatum mortale.
+***Deinde considerandum est de inobedientia. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum sit gravissimum peccatorum.
+Primo, utrum sit peccatum mortale.  
+
+- Secundo, utrum sit gravissimum peccatorum.

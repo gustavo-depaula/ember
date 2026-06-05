@@ -1,13 +1,11 @@
-# Quaestio 29 — Deinde considerandum est de odio. Et circa hoc quaeruntur sex.
+# Quaestio 29
 
-Primo, utrum causa et obiectum odii sit malum.
+***Deinde considerandum est de odio. Et circa hoc quaeruntur sex.***
 
-Secundo, utrum odium causetur ex amore.
+Primo, utrum causa et obiectum odii sit malum.  
 
-Tertio, utrum odium sit fortius quam amor.
-
-Quarto, utrum aliquis possit habere odio seipsum.
-
-Quinto, utrum aliquis possit habere odio veritatem.
-
-Sexto, utrum aliquid possit haberi odio in universali.
+- Secundo, utrum odium causetur ex amore.
+- Tertio, utrum odium sit fortius quam amor.
+- Quarto, utrum aliquis possit habere odio seipsum.
+- Quinto, utrum aliquis possit habere odio veritatem.
+- Sexto, utrum aliquid possit haberi odio in universali.

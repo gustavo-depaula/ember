@@ -1,199 +1,181 @@
-# Chapter 45
+# Chapter 43
 
-> ^45:2^ I will go before you, and will humble the great ones of the earth: I will break in pieces the gates of brass, and will burst the bars of iron.
+^43:1^ And now thus says the Lord that created you, O Jacob, and formed you, O Israel: fear not, for I have redeemed you, and called you by your name: you are mine.  
 
-> ^45:3^ And I will give you hidden treasures, and the concealed riches of secret places: that you may know that I am the Lord who call you by your name, the God of Israel.
+> ^43:2^ When you shall pass through the waters, I will be with you, and the rivers shall not cover you: when you shall walk in the fire, you shall not be burnt, and the flames shall not burn in you:
 
-> ^45:4^ For the sake of my servant Jacob, and Israel my elect, I have even called you by your name: I have made you like,*Assimilavi te*. DR: “made a likeness of thee.” and you have not known me.
+> ^43:3^ For I am the Lord your God, the Holy One of Israel, your Savior: I have given Egypt for your atonement, Ethiopia and Saba for you.
 
-> ^45:5^ I am the Lord, and there is none else: there is no god besides me: I girded you, and you have not known me:
+> ^43:4^ Since you became honorable in my eyes, you are glorious: I have loved you, and I will give men for you, and people for your life.
 
-> ^45:6^ That they may know who are from the rising of the sun, and they who are from the west, that there is none besides me. I am the Lord, and there is no other god:
+> ^43:5^ Fear not, for I am with you: I will bring your seed from the east, and gather you from the west.
 
-> ^45:7^ I form the light, and create darkness, I make peace, and create evil: I the Lord that do all these things.
+> ^43:6^ I will say to the north: give up: and to the south: keep not back: bring my sons from afar, and my daughters from the ends of the earth.
 
-> ^45:8^ Drop down dew, you heavens, from above, and let the clouds rain the just: let the earth be opened, and bud forth a savior: and let justice spring up together: I the Lord have created him.
+> ^43:7^ And every one that calls upon my name, I have created him for my glory. I have formed him, and made him.
 
-> ^45:9^ Woe to him that gainsays his maker, a sherd of the earthen pots: shall the clay say to him that fashions it: what are you making, and your work is without hands?
+> ^43:8^ Bring forth the people that are blind, and have eyes: that are deaf, and have ears.
 
-> ^45:10^ Woe to him that says to his father: why did you beget? And to the woman: why do you bring forth?
+> ^43:9^ All the nations are assembled together, and the tribes are gathered: who among you can declare this, and shall make us hear the former things? Let them bring forth their witnesses, let them be justified, and hear, and say: it is truth.
 
-> ^45:11^ Thus says the Lord the Holy One of Israel, his maker: ask me of things to come, concerning my children, and concerning the work of my hands give charge to me.
+> ^43:10^ You are my witnesses, says the Lord, and my servant whom I have chosen: that you may know, and believe me, and understand that I myself am. Before me there was no God who forms, *(*Formator*. Vg.: *formatus*. DR: “formed.”)* and after me there shall be none.
 
-> ^45:12^ I made the earth: and I created man upon it: my hand stretched forth the heavens, and I have commanded all their host.
+> ^43:11^ I am, I am the Lord: and there is no savior besides me.
 
-> ^45:13^ I have raised him up to justice, and I will direct all his ways: he shall build my city, and let go my captives, not for ransom, nor for presents, says the Lord of hosts.
+> ^43:12^ I have declared, and have saved. I have made it heard, and there was no strange one among you. You are my witnesses, says the Lord, and I am God.
 
-> ^45:14^ Thus says the Lord God: the labor of Egypt, and the business*Negotiatio*. DR: “merchandise.” of Ethiopia, and of Sabaim, men of stature shall come over to you, and shall be thine: they shall walk after you, they shall go bound with manacles: and they shall worship you, and shall make supplication to you: only in you is God, and there is no God besides you.
+> ^43:13^ And from the beginning I am the same, and there is none that can deliver out of my hand: I will work, and who shall turn it away?
 
-> ^45:15^ Verily you are a hidden God, the God of Israel the savior.
+> ^43:14^ Thus says the Lord your redeemer, the Holy One of Israel: for your sake I sent to Babylon, and have brought down all their bars, and the Chaldeans glorying in their ships.
 
-> ^45:16^ They are all confounded and ashamed: the forgers of errors are gone together into confusion.
+> ^43:15^ I am the Lord your Holy One, the Creator of Israel, your King.
 
-> ^45:17^ Israel is saved in the Lord with an eternal salvation: you shall not be confounded, and you shall not be ashamed for ever and ever.
+> ^43:16^ Thus says the Lord, who made a way in the sea, and a path in the mighty waters.
 
-> ^45:18^ For thus says the Lord that created the heavens, God himself that formed the earth, and made it, the very maker thereof: he did not create it in vain: he formed it to be inhabited. I am the Lord, and there is no other.
+> ^43:17^ Who brought forth the chariot and the horse, the army and the strong: they lay down to sleep together, and they shall not rise again: they are broken as flax, and are extinct.
 
-> ^45:19^ I have not spoken in secret, in a dark place of the earth: I have not said to the seed of Jacob: seek me in vain. I am the Lord that speak justice, that declare right things.
+> ^43:18^ Remember not former things, and look not on things of old.
 
-> ^45:20^ Assemble yourselves, and come, and draw near together, you that are saved of the Gentiles: they have no knowledge that set up the wood of their graven work, and pray to a god that cannot save.
+> ^43:19^ Behold I do new things, and now they shall spring forth, verily you shall know them: I will make a way in the wilderness, and rivers in the desert.
 
-> ^45:21^ Tell, and come, and consult together: who has declared this from the beginning, who has foretold this from that time? Have not I the Lord, and there is no God else besides me? A just God and a savior, there is none besides me.
+> ^43:20^ The beast of the field shall glorify me, the dragons and the ostriches: because I have given waters in the wilderness, rivers in the desert, to give drink to my people, to my chosen.
 
-> ^45:22^ Be converted to me, and you shall be saved, all you ends of the earth: for I am the Lord, and there is no other.
+> ^43:21^ This people have I formed for myself, they shall show forth my praise.
 
-> ^45:23^ I have sworn by myself, the word of justice shall go out of my mouth, and shall not return:
+> ^43:22^ But you have not called upon me, O Jacob, neither have you labored about me, O Israel.
 
-> ^45:24^ For every knee shall be bowed to me, and every tongue shall swear.
+> ^43:23^ You have not offered me the ram of your holocaust, nor have you glorified me with your victims: I have not caused you to serve with oblations, nor wearied you with incense.
 
-> ^45:25^ Therefore shall he say: in the Lord are my justices and empire: they shall come to him, and all that resist him shall be confounded.
+> ^43:24^ You have bought me no sweet cane with money, neither have you filled me with the fat of your victims. But you have made me to serve with your sins, you have wearied me with your iniquities.
 
-> ^45:26^ In the Lord shall all the seed of Israel be justified and praised.
+> ^43:25^ I am, I am he that blot out your iniquities for my own sake, and I will not remember your sins.
 
-> **857**. ***Thus says the Lord to my anointed***. After he strengthened them to the firm expectation of divine promises, in this part, he begins to describe the divine promises for their consolation. And this is divided into two parts:
+> ^43:26^ Put me in remembrance, and let us plead together: tell if you have any thing to justify yourself.
 
-in the first, he promises liberation from evils;
+> ^43:27^ Your first father sinned, and your teachers have transgressed against me.
 
-in the second, he promises salvation in good things, ***thus says the Lord: keep judgment*** (ch. 56).
+> ^43:28^ And I have profaned the holy princes, I have given Jacob to slaughter, and Israel to reproach.
 
-The first of these is divided into two:
+> **830**. ***And now thus says the Lord***. Here he shows them divine love through the remedies which he granted them among their difficulties. And it is divided into three parts:
 
-in the first, he promises them the benefit of liberation;
+in the first, he promises future remedies to show them his love;  
 
-in the second, he excludes every impediment to liberation, ***thus says the Lord: what is this bill of the divorce*** (ch. 50).
+in the second, he recalls past benefits to confirm the promise: ***thus says the Lord, who made a way in the sea*** (Isa 43:16);  
 
-The first of these is divided into three:
+in the third, he excludes their merits to take away their presumption: ***but you have not called upon me*** (Isa 43:22).  
 
-in the first, he foreshadows their liberator;
+Concerning the first, he does three things:  
 
-in the second, he foretells the destruction of those who capture and detain them, ***Bel*** (ch. 46);
+first, he shows the privilege of divine love toward them;  
 
-in the third, he promises the liberation of the Jews: ***hear these things, O house of Jacob*** (ch. 48).
+second, he excludes the sharing of divine power from the promised remedies: ***all the nations are assembled together*** (Isa 43:9);  
 
-The first of these is divided into two:
+in the third, he sets out the sign of his love: ***thus says the Lord your redeemer*** (Isa 43:14).  
 
-in the first, he foretells the liberator;
+**831**. Concerning the first, he promises them three remedies.  
 
-in the second, he shows the consequent utility: ***thus says the Lord the Holy One of Israel*** (Isa 45:11).
+First, support in their punishments, excluding fear by the divine presence: ***that created you***, as to the principle of their substance: *is not he your father, that has possessed you, and made you, and created you?* (Deut 32:6), ***and formed you***, as to the form he gave them: *and the Lord God formed man* (Gen 2:7); ***I have redeemed you***, from evils: *I will deliver them out of the hand of death. I will redeem them from death* (Hos 13:14), ***and called you***, to grace: *I will call that which was not my people, my people* (Hos 1:9). *(Cf. Romans 9:25.)* He sets out the promise: ***when you shall pass through the waters***, the Egyptians; ***the rivers***, the Chaldeans; ***the fire***, the Greeks; ***the flames***, the Romans: for they were not entirely consumed: *we have passed through fire and water* (Ps 65[66]:12). And he assigns the reason for this: ***for I am the Lord***, above: ***for God himself is my savior*** (Isa 12:2).  
 
-The first of these is divided into three:
+**832**. Second, he promises the commutation of their punishments, namely, that he would punish others in their place; and he sets out the commutation: ***I have given Egypt for your atonement***, that is, that I may be propitiated toward you, as though by the punishments of those who provoked you to sin by hoping in their help: ***Saba***, a city of Ethiopia: *the just is delivered out of distress: and the wicked shall be given up for him* (Prov 11:8). And he assigns the reason, namely, the love of God itself: ***since you became honorable***, that is, I made and reckoned you honorable; ***I will give men for you***, for your liberation: *surely Ephraim is an honorable son to me* (Jer 31:20).  
 
-in the first, he foretells the power of the liberator;
+**833**. Third, he promises them every kind of liberation from tribulation; and concerning this, he does three things: first, he promises the benefit of liberation: ***fear not*; *from the east***, for they had been dispersed in every direction, above: ***he shall assemble the fugitives of Israel*** (Isa 11:12); *behold I will bring them from the north country* (Jer 31:8);  
 
-in the second, he describes his birth: ***drop down dew, you heavens*** (Isa 45:8);
+second, he sets out their fitness for liberation: ***and every one that calls upon my name***, I will lead into ***my glory***, that he might glorify me, and that I might appear glorious in him: *every one that shall call upon the name of the Lord, shall be saved* (Joel 2:32);  
 
-in the third, he refutes the contradiction of the unbelievers, where it says, ***woe to him that gainsays*** (Isa 45:9).
+third, he promulgates the command of liberation: ***bring***, O Cyrus, ***forth***, out of the land of their captivity, ***the people***, namely, of the Jews: *hear, O foolish people, and without understanding: who have eyes, and see not: and ears, and hear not* (Jer 5:21).  
 
-**858**. Concerning the first, he does two things.
+**834**. ***All the nations***. Here he excludes the sharing of divinity.  
 
-First, he sets out the height of power to which he was exalted, against three things which tend to evade the hand of a king.
+And first, he shows the falsehood of other gods by the manner of a judgment, setting out the consensus of the nations in idolatry: ***assembled together***, in one error: *they are all gone aside* (Ps 13:3); seeking a sign of divinity: ***who among you***, that is, which of your gods; or this is said to the idols; and he seeks testimony: ***let them bring forth their witnesses, let them be justified***, that is, let them justly be called gods; and let the witnesses ***hear***, future things from them, ***and say***, testimony for you, above: ***there is none that shows, nor that foretells*** (Isa 41:26).  
 
-Either because of multitude, and as to this, he says: ***my anointed***, that is, my king, not because of his anointing, but because of his royal dignity, because among them, kings were anointed; ***whose right hand I have taken hold of***, as the helper of his works, ***to subdue the*** various ***nations***: *the Lord shall cause your enemies* (Deut 28:7).
+Second, he shows the truth of his own divinity,  
 
-Or because of strength, and as to this he says: ***I will go before you***, preparing the place of your victory, by sending terror of you among your adversaries, ***the great ones***, powerful above others, like the Babylonians; ***the gates of brass***, the most powerful cities: *he has broken gates of brass, and burst iron bars* (Ps 106[107]:16).
+and first, as to knowledge,  
 
-Or because of hiding, and as to this, he says: ***and I will give you hidden treasures***, of various kings, whose cities he took: *he discovers deep things out of darkness* (Job 12:22).
+second, as to power: ***you are my witnesses*** (Isa 43:12).  
 
-**859**. Second, he sets out the fruit of this benefit.
+**835**. Concerning the first, he does two things.  
 
-And first, in himself,
+First, he gives testimony, assigning men to give testimony: ***you are my witnesses***, ***my servant***, the people of Jacob, or Christ: *you shall be witnesses* (Acts 1:8); setting out the manner of knowing: ***that you may know***, as to those things which can be known about God by natural reason, ***and believe***, as to those things which are above reason, and thus, ***understand***, for ***unless you believe, you will not understand***, above (Isa 7:9), according to another reading; *(Namely, LXX.)* and setting out what is said by the witnesses, that he alone is God: ***that I***, alone, ***am***, God; ***there was no God who forms***, or formed, namely, no idol: *see that I alone am, and there is no other God besides me* (Deut 32:39). And that he alone is Lord: ***I am***, singularly, ***I am***, preeminently: *neither is there salvation in any other* (Acts 4:12).  
 
-second, in others: ***that they may know who are from the rising of the sun*** (Isa 45:6).
+Second, he gives a sign of his divinity: ***I have declared***, ***there was no strange one among you***, by which you could know: *O Israel, if you will hearken to me, there shall be no new god in you: neither shall you adore a strange god* (Ps 80:9–10[81:8–9]).  
 
-Concerning the first, he does two things.
+**836**. ***You are my witnesses***. Here he shows the truth of his divinity as to power.  
 
-First, he sets out the fruit of power sought by God in Cyrus, namely, knowledge of him: ***that you may know that I am the Lord***: *he calls those things that are not* (Rom 4:17). And the liberation of his people: ***for the sake of my servant Jacob***, namely, that you should liberate him from captivity: *who knows whether you are not therefore come to the kingdom* (Esth 4:14).
+And first, he gives the testimony: ***you are my witnesses***: *I am the beginning* (John 8:25);  
 
-Second, he shows that this benefit is partly frustrated on the part of Cyrus himself: ***I have even called you by your name***, foretelling your name, ***I have made you like***, other holy men in this, whose names were previously foretold by the Lord; ***you have not known me***, to be the only true God, as you remain in idolatry; ***I girded you***, with strength: *I called, and you refused* (Prov 1:24).
+second, he gives a sign of his power in punishing: ***and there is none that can deliver out of my hand***, as in Deuteronomy 32:39 and Job 10:7; and in working: ***I will work***, above: ***the Lord of hosts has decreed, and who can disannul it?*** (Isa 14:27).  
 
-**860**. ***That they may know***. Here he shows the fruit in others.
+**837**. ***Thus says the Lord***. Here he sets out the sign of his love, that he destroyed for them the Babylonians, who gloried in their ships because of the multitude of their waters: ***I sent***, namely, my wrath: *the Lord has both purposed, and done all that he spoke against the inhabitants of Babylon* (Jer 51:12).  
 
-And first, he shows that in others he seeks the fruit of knowledge of him: ***who are from the rising of the sun***, that is, living throughout the entire world; and this was fulfilled in that, in his epistles, Cyrus wrote the praise of God everywhere; or because everyone praised God together seeing the liberation of the Jews: *and let them know that the Lord is your name: you alone are the most High over all the earth* (Ps 82:19[83:18]).
+**838**. ***Thus says the Lord, who made a way in the sea***. Here he recalls his past benefits to confirm their hope for future benefits. And concerning this, he does two things.  
 
-Second, he sets out the proof of his divinity, which can be known from the fact that he can afflict and liberate: ***I am the Lord***, etc. ***I form the light***, the day or consolation; ***I create evil***, of punishment: *is there*Est*. Vg.: *erit*. DR: “shall there be.” evil in a city, which the Lord has not done?* (Amos 3:6); *the Lord made all things double, one against another* (Sir 42:25[24]).
+First, he recalls his past benefits in directing them when they came out of Egypt: ***in the*** Red ***sea*** (Exod 14); ***in the mighty waters***, in the Arnon (Num 21), in the Jordan (Josh 3). And as to the destruction of their enemies, ***who brought forth the chariot***, the chariots of Pharaoh: *his chosen captains are drowned in the Red Sea* (Exod 15:4); ***as flax***, cut down in a moment.  
 
-**861**. ***Drop down dew***. Here he describes the birth of Cyrus under the metaphor of the fruit of a tree, for whose generation the moisture of the earth and rain and dew from heaven are required; so in the birth of Cyrus, divine mercy, intending to liberate God’s people through him, coincides with lower nature, which is signified. Thus he does three things:
+**839**. Second, he promises much greater future benefits; and concerning this, he does three things.  
 
-he describes his springing up: ***drop down***;
+First, he shows the greatness of his future benefits by comparison to the former ones: ***remember not former things***, as if to say: they are not worthy to be kept in memory in comparison with future things: *forgetting the things that are behind* (Phil 3:13). Because of the newness of these things: ***behold I do new things***, unheard of: *behold, I make all things new* (Rev 21:5); and because of their determination: ***I will make a way***, for those going to the feasts, ***in the wilderness***, that is, the land of the Jews, which was formerly a desert; ***rivers***, of consolation: *he has turned a wilderness into pools of waters* (Ps 106[107]:35). And if these things are explained literally of the liberation from captivity in Babylon, they are called greater than the liberation from Egypt, not because of greater miracles, but because the kings from whose power he liberated them were more powerful than Pharaoh, or because they came from a more distant place; if, however, they are referred to the liberation carried out by Christ, it is evident that nothing so admirable had preceded it in past ages.  
 
-the fruit of his birth, ***and let justice spring up***;
+Second, he shows the usefulness of these benefits for the gentiles: ***the beast of the field shall glorify me***, that is, the gentile, living like a beast, converted to Christ, or seeing how I liberated the Jews: *beasts and all cattle: serpents and feathered fowls* (Ps 148:10); and for the Jews: ***to give drink***, of teaching and consolation: *the Lord your God has chosen you* (Deut 7:6).  
 
-and the first principle of his birth, ***I the Lord***.
+Third, he assigns the reason: ***this people have I formed for myself***, namely, for my praise: *the Lord has made all things for himself* (Prov 16:4).  
 
-***Let the clouds rain the just***, neuter or masculine.I.e., “the just” could refer to either that which is just or the just man. Or by heaven and the clouds is signified the prophets and the other just ones who by foretelling him and begging God for him with tears, in a certain manner rained him: *he shall come down like rain* (Ps 71[72]:6).
+**840**. ***But you have not called upon me***. Here he excludes the merits of the Jews for attaining such benefits. And concerning this, he does three things:  
 
-**862**. ***Woe to him that gainsays***. Here he excludes the contradiction of the unbelievers.
+first, he excludes their merit;  
 
-And first, under the metaphor of a craftsman who fashions clay; for as clay does not contradict the one who fashions it, so the Jews ought not contradict God, by not believing that anyone could arise who would conquer the Babylonians; ***earthen pots*** or *samia*, earthen vessels, so-called because this art was invented in Samos; ***your work is without hands***, as if to say: without the proper working of the hands, or as jugs have hands, above: ***as if the clay should think against the potter*** (Isa 29:16); *shall the thing formed say to him that formed it: why have you made me thus?* (Rom 9:20).
+second, he gives a place for a response: ***put me in remembrance*** (Isa 43:26);  
 
-Second, under the metaphor of a father who begets: ***woe to him that says to his father***, as if to say: I am a father begetting Cyrus and like a mother conceiving him in intention, and therefore you ought not contradict me in this, just as you ought not contradict the mother who gave birth to you, below: ***shall not I that make others to bring forth children, myself bring forth, says the Lord? Shall I, that give generation to others, be barren?*** (Isa 66:9);
+third, he removes a certain way of responding: ***your first father*** (Isa 43:27).  
 
-or he speaks against those diviners who foretold that many bad things would come from the birth of Cyrus, saying it would have been better if he had not been born; or against those of the Jews who were saying: why should we beget children to be born in captivity?
+Concerning the first, he does three things.  
 
-**863**. ***Thus says the Lord***. Here he sets out the utility of the liberator.
+First, he excludes their merit: ***you have not called upon me***, and all this is said because they did not offer these things to God with their whole heart, but partly to God, partly to idols, or because they offered nothing to God, or because they did so in hope of temporal repayment, or because, after the coming of Christ, they were not accepted: *who is there among you, that will shut the doors, and will kindle the fire on my altar gratis* (Mal 1:10); *shall I eat the flesh of bullocks? Or shall I drink the blood of goats?* (Ps 49[50]:13).  
 
-And first, as to the liberation of the Jews;
+Second, he shows their guilt: ***but you have made me to serve with your sins***, as if to say: you showed me to be servile when you offended me and I did not punish you, above: ***they are become troublesome to me, I am weary of bearing them*** (Isa 1:14); he speaks in a human manner.  
 
-second, as to the conversion of the gentiles: ***for thus says the Lord*** (Isa 45:18).
+Third, he shows that the benefit is given freely: ***I am***: *for your name’s sake, O Lord, you will pardon my sin* (Ps 24[25]:11); *it is not for your sake that I will do this* (Ezek 36:22).  
 
-Concerning the first, he does three things.
+**841**. ***Put me in remembrance***. Here he gives a place for a response: ***put me in remembrance***, as if to say: consider what I have done for you, ***tell if you have any thing***, to excuse yourself, or to accuse me, ***to justify yourself***, that is, that you should be judged to be just: *if you have any thing to say, answer me, speak: for I would have you to appear just* (Job 33:32).  
 
-First, he shows his authority to foretell future things: ***his***, namely Cyrus’s, ***maker** (**plastes**)*; ***concerning my children***, the Jews, to be liberated, or whatever others I will to be born, and not the idols, above: ***should not the people seek of their God?*** (Isa 8:19). But the Gloss reads this ironically.
+**842**. ***Your first father sinned***. Here he removes a certain way of responding. For they could allege the innocence of their fathers; but against this, he says, ***your first father***, Adam (Gen 3), Abraham, asking for a sign of the promise of God, as though doubting (Gen 15:8); ***your teachers***, Moses and Aaron at the waters of contradiction (Num 20). ***And I have profaned the holy princes***, that is, I have allowed them to be profaned; ***I have given Jacob to slaughter***, for they all died in the desert, except for Caleb and Joshua: *we have sinned with our fathers* (Ps 105[106]:6).  
 
-**864**. Second, he foretells their liberation, showing his power, who promises it: ***I made the earth***; ***all their***, namely, the heavens’, ***host***, ***I have commanded***, fixing for each its office and nature, above: ***who brings out their host by number*** (Isa 40:26). And the direction of its execution: ***I have raised***, to worthiness, ***him***, Cyrus, using the past tense for the future, ***to*** carry out ***justice*** concerning the Chaldeans: *in all your ways think on him, and he will direct your steps* (Prov 3:6); and he promises the liberation: ***he***, namely, Cyrus, ***shall build***, promising and paying the expenses for building, below: ***you were sold gratis, and you shall be redeemed, without money*** (Isa 52:3).
+**843**. The Lord liberates his saints from the fire (see 43:2),  
 
-**865**. Third, where it says, ***thus says the Lord***, he promises the exaltation of the liberated as to three things.
+of carnal temptation: *it is a fire that devours even to consumption* *(*Consumptionem*. Vg.: *perditionem*. DR: “destruction.”)* (Job 31:12);  
 
-First, as to the adherence of foreigners, setting out their adherence: ***the labor of Egypt***, their riches, and they themselves, as to the many who had followed them: *ten men of all languages of the Gentiles shall take hold* (Zech 8:23); or he says this of those who adhered to Christ; ***labor***, in idolatry will cease, *the* earthly *business*; and the subjection of the adherents: ***they shall walk after you***, subject to you, ***with hands bound with manacles***, that is, chains for binding hands, as if to say: so humiliated before you like those who are bound in such a manner; or with the chains of the precepts of Christ, below: ***they shall come bowing down to you*** (Isa 60:14); and he sets out the confession of truth: ***only in you***, namely, they will say this. ***Hidden***, not visible like our gods; ***the savior***, not weak: *he made darkness his covert* (Ps 17:12[18:11]).
+of temporal tribulation: *you have tried me by fire* (Ps 16[17]:3);  
 
-Second, he shows their exaltation as to the confusion of their enemies: ***they are all confounded***: *the nations shall see, and shall be confounded at all their strength* (Mic 7:16).
+of eternal damnation: *go, you cursed, into everlasting fire* (Matt 25:4);  
 
-Third, as to the perpetual salvation of the Jews: ***Israel is saved for ever***, unless he should sin, or of the spiritual Israel: *the king of Israel, the Lord, is in the midst of you, you shall fear evil no more* (Zeph 3:15).
+of divine wrath: *a fire is kindled in my wrath* (Deut 32:22);  
 
-**866**. ***For thus says the Lord***. Here he sets out the other utility as to the conversion of the gentiles. And concerning this he does three things.
+in which are burned  
 
-First, he introduces five reasons leading to conversion,
+the lascivious: *for it is better to marry than to be burnt* (1 Cor 7:9);  
 
-the first of which is taken from the creation of things: ***God himself that formed the earth***: *who made heaven and earth* (Ps 145[146]:6);
+the impatient, above: ***their countenances shall be as faces burnt*** (Isa 13:8);  
 
-second, from his love for men, for he gave them the earth as a dwelling place: ***he did not create it in vain***: *the heaven of heaven is the Lord’s: but the earth he has given to the children of men* (Ps 113:24[115:16]);
+the impenitent: *the flame burned the wicked* (Ps 105[106]:18);  
 
-third, from the manifestation of truth foretold: ***I have not spoken in secret***, as if to say, the things that natural reason prescribes are to be done, or of the preaching of the Christian faith: *I have spoken openly to the world* (John 18:20);
+the proud: *foundations of the mountains* (Ps 17:8[18:7]).  
 
-fourth, from the utility of his precepts: ***I have not said to the seed of Jacob: seek me in vain***: *in keeping them there is a great reward* (Ps 18:12[19:11]);
+**844**. And he liberates them from the waters (see 43:2),  
 
-fifth, from the equity of his precepts: ***I am the Lord that speak justice***, below: ***I, that speak justice*** (Isa 63:1).
+of pleasure: *stolen waters are sweeter* (Prov 9:17), in which they are suffocated by lust;  
 
-**867**. Second, where it says, ***assemble yourselves***, he enjoins upon the Jews the calling of the gentiles, recalling their salvation: ***assemble yourselves***, as though to hear my precept, ***you that are saved***, liberated from the captivity to the gentiles, below: ***I will send of them that shall be saved, to the Gentiles*** (Isa 66:19); he also sets out the necessity of the calling, namely, the error of the gentiles, ***they have no knowledge that set up the wood of their graven work***: *you shall see in Babylon gods of gold, and of silver, and of stone, and of wood borne upon shoulders, causing fear to the Gentiles* (Bar 6:3).
+of covetousness: *they sunk as lead in the mighty waters* (Exod 15:10), in which they are suffocated by greed;  
 
-He enjoins the declaration of his praise: ***tell***, in which he enjoins the office, ***consult together***, how you ought to convert others: *declare his glory among the Gentiles* (Ps 95[96]:3); ***who has declared***, in which he teaches them the proof of his divinity for converting others, namely from his foreknowledge of future things. And he sets out the reasoning and the conclusion, where it says, ***have not I***, therefore, etc.; *he declares the things that are past, and the things that are to come* (Sir 42:19).
+of adversity: *the waters are come in even unto my soul* (Ps 68:2[69:1]), in which they are suffocated by impatience;  
 
-**868**. Third, he invites the gentiles to conversion.
+of worldly power: *the waters over which she sits*. (Rev 17:1), *(*Aquae super quas sedet*. Vg.: *quae sedet super aquas multas*. DR: “who sitteth upon many waters.”)* in which they are suffocated by pride.  
 
-And first, the invitation is set out: ***be converted***: *be converted*Convertimini*. DR: “turn.” to me* (Zech 1:3).
+**845**. We ought to put God in remembrance (see 43:26),  
 
-Second, he foretells their conversion, setting out the sign of adoration: ***I have sworn by myself***, for I have nothing greater by which I might swear (Heb 6:13); ***it shall not return***, without effect, below: ***so shall my word be, which shall go forth from my mouth: it shall not return to me void*** (Isa 55:11). ***Every knee shall be bowed to me***, by Christians, for this is the manner of adoring the Redeemer, according to John Damascene,L. *De fide orthodoxa* 4.12 (PG 94, 1133). *in the name of Jesus every knee should bow* (Phil 2:10); he also sets out the sign of swearing, ***every tongue shall swear***, for everyone swears by his god: *all they shall be praised that swear by him* (Ps 62:12[63:11]). He also sets out the sign of true confession: ***therefore shall he say: in the Lord***, that is, in the person of the Lord; ***my***, namely, God’s, ***justices and empire***: *to him be glory and empire* (Rev 1:6); or ***my***, namely, the Church’s, ***justices***, the figures of the law of the Jews.
+as to the wonders which he has done, that we should worship: *remember his marvelous works which he has done* (Ps 104[105]:5);  
 
-Third, he foretells the confusion of the unbelievers: ***they shall come to him***, as if to be judged, who will not come as believers, in the day of judgment.
+the benefits which he has given, that we should give thanks: *I remembered your mercy* (Sir 51:11–12);  
 
-Fourth, the salvation of the believers: ***in the Lord shall all the seed of Israel***, not only according to the flesh, but according to faith, ***be justified***: *let them that rise up against me be confounded* (Ps 108[109]:28).
+the torments he sustained, that we should feel compassion: *remember my poverty* (Lam 3:19);  
 
-**869**. Mystically, ***drop down dew*** (Isa 45:8), concerns the birth of Christ. In which he sets out three things: the principle of the birth, the birth of the infant, and the fruit of the birth. The principle is threefold.
-
-First, heaven dropping down dew, as the effective principle, namely, the operation of the three persons, because of which the plural, ***you heavens***, is used: the Father, in sending the Son: *but when the fullness of the time was come, God sent his Son* (Gal 4:4); the Son, in taking flesh: *he humbled himself* (Phil 2:8); the Holy Spirit, in causing his conception: *that which is conceived in her, is of the Holy Spirit* (Matt 1:20).
-
-The second principle is the clouds raining, which is the preparative principle, in which is understood the office of the angel who announces the birth: *the clouds spread their light* (Job 37:11–12); the prophecy of the prophets (Luke 1:11, 26): *dark waters in the clouds of the air* (Ps 17:12[18:11]); *which he had promised before, by his prophets* (Rom 1:2); the desire of the just: *who makes the clouds your chariot* (Ps 103[104]:3); *presently the Lord, whom you seek, and the angel of the testament, whom you desire, shall come to his temple* (Mal 3:1).
-
-The third principle is the earth budding forth, which is the receptive principle, namely, the Blessed Virgin, about whom it says in Psalm 84:13[85:12]: *our earth shall yield her fruit*; whose affections are ***opened*** to find the privilege of grace: *fear not, Mary* (Luke 1:30); *many daughters have gathered together riches: you have surpassed them all* (Prov 31:29); whose intellect is opened to believe the word of the angel: *blessed are you that have believed* (Luke 1:45); whose womb is opened to conceive the Son of God, *behold you shall conceive in your womb and shall bring forth a son* (Luke 1:31).
-
-**870**. But his birth is compared to the dew, the rain, and the bud, because Christ is the dew for refreshing, above: ***as a cloud of dew in the day of harvest*** (Isa 18:4); the rain for making fertile: *he shall come down like rain* (Ps 71[72]:6), below: ***as the rain and the snow come down from heaven*** (Isa 55:10); the bud for bearing fruit: *I will raise up to David a just branch* (Jer 23:5).
-
-**871**. The fruit is justice, which is born with him in three ways:
-
-that which he fulfilled in his works: *so it becomes us to fulfill all justice* (Matt 3:15);
-
-that which he taught in his words, below: ***I, that speak justice*** (Isa 63:1);
-
-that which he gave as a gift: *he is made unto us wisdom and justice* (1 Cor 1:30).
-
-Chapter 46
+the precepts which he gave, that we should observe them: *they are mindful of his commandments to do them* (Ps 102[103]:18).

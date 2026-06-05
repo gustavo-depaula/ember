@@ -1,163 +1,101 @@
-# Chapter 57
+# Chapter 55
 
-> ^57:2^ Veniat pax; requiescat in cubili suo qui ambulavit in directione sua.
+^54:17b^ Hæc est hæreditas servorum Domini et justitia eorum apud me, dicit Dominus.  
 
-> ^57:3^ Vos autem accedite huc, filii auguratricis, semen adultere et fornicariæ.
+> ^55:1^ Omnes sitientes venite ad aquas, et qui non habetis argentum properate, emite et comedite; venite, emite absque argento et absque ulla commutatione vinum et lac.
 
-> ^57:4^ Super quem lusistis? Super quem dilatastis os et ejecistis linguam? Numquid non vos, filii scelesti, semen mendax?
+> ^55:2^ Quare appenditis argentum non in panibus et laborem vestrum non in saturitate? Audite audientes me et comedite bonum, et delectabitur in crassitudine anima vestra.
 
-> ^57:5^ qui consolamini in diis subter omne lignum frondosum, immolantes parvulos in torrentibus subter eminentes petras.
+> ^55:3^ Inclinate aurem vestram et venite ad me, audite et vivet anima vestra. Et feriam vobiscum pactum sempiternum, misericordias David fideles.
 
-> ^57:6^ In partibus torrentis pars tua, hæc est sors tua, et ipsis effudisti libamen, obtulisti sacrificium. Numquid super his non indignabor?
+> ^55:4^ Ecce testem populis dedi eum, ducem ac præceptorem gentibus.
 
-> ^57:7^ Super montem excelsum et sublimem posuisti cubile tuum et illuc ascendisti ut immolares hostias.
+> ^55:5^ Ecce gentes quam nesciebas vocabis, et gentes quæ te non cognoverunt ad te current, propter Dominum Deum tuum et Sanctum Israel, quia glorificavit te.
 
-> ^57:8^ Et post ostium et retro postem posuisti memoriale tuum. Quia juxta me discooperuisti et suscepisti adulterum, dilatasti cubile tuum et pepigisti cum eis fœdus. Dilexisti stratum eorum manu aperta,
+> ^55:6^ Quærite Dominum dum inveniri potest, invocate eum dum prope est.
 
-> ^57:9^ et ornasti te regi unguento et multiplicasti pigmenta tua, et misisti legatos tuos procul et humiliata es usque ad inferos.
+> ^55:7^ Derelinquat impius viam suam, et vir iniquus cogitationes suas; et revertatur ad Dominum et miserebitur ejus et ad Deum nostrum quoniam multus est ad ignoscendum.
 
-> ^57:10^ In multitudine viæ tuæ laborasti, nec dixisti: quiescam. Vitam manus tuæ invenisti, propterea non rogasti.
+> ^55:8^ Non enim cogitationes meæ cogitationes vestræ neque viæ vestræ viæ meæ, dicit Dominus.
 
-> ^57:11^ Pro quo sollicita timuisti quia mentita es. Et mei non es recordata, neque cogitasti in corde tuo quia ego tacens et quasi non videns, et mei oblita es.
+> ^55:9^ Quia sicut exaltantur cæli a terra, sic exaltatæ sunt viæ meæ a viis vestris et cogitationes meæ a cogitationibus vestris.
 
-> ^57:12^ Ego annuntiabo justitiam tuam, et opera tua non proderunt tibi.
+> ^55:10^ Et quomodo descendit imber et nix de cælo et illuc ultra non revertitur, sed inebriat terram et infundit eam et germinare eam facit et dat semen serenti et panem comedenti,
 
-> ^57:13^ Cum clamaveris, liberent te congregati tui; et omnes eos auferet ventus, tollet aura. Qui autem fiduciam habet mei hæreditabit terram et possidebit montem sanctum meum.
+> ^55:11^ sic erit verbum meum quod egredietur de ore meo: non revertetur ad me vacuum sed faciet quæcumque volui et prosperabitur in his ad quæ misi illud.
 
-> ^57:14^ Et dicam: viam facite, præbete iter, declinate de semita, auferte offendicula de via populi mei.
+> ^55:12^ Quia in lætitia egrediemini et in pace deducemini. Montes et colles cantabunt coram vobis laudem, et omnia ligna regionis plaudent manu.
 
-> ^57:15^ Quia hæc dicit Dominus excelsus et sublimis habitans æternitatem, et Sanctum nomen ejus, in excelso et in sancto habitans, et cum contrito et humili spiritu ut vivificet spiritum humilium et vivificet cor contritorum.
+> ^55:13^ Pro saliunca ascendet abies, et pro urtica crescet myrtus. Et erit Dominus nominatus in signum æternum quod non auferetur.
 
-> ^57:16^ Non enim in sempiternum litigabo neque usque ad finem irascar, quia spiritus a facie mea egredietur et flatus ego faciam.
+> **988**. ***Haec est hereditas***. Hic adhibet tertium remedium, promittens rerum abundantiam contra pristinam penuriam. Et dividitur in duas partes:
 
-> ^57:17^ Propter iniquitatem avaritiæ ejus iratus sum et percussi eum, abscondi faciem meam a te et indignatus sum, et abiit vagus in via cordis sui.
+in prima ponit promissionem,  
 
-> ^57:18^ Vias ejus vidi et sanavi eum et reduxi eum et reddidi consolationes ipsi et lugentibus ejus.
+in secunda ostendit promissionis firmitatem: ***et quomodo descendit***.  
 
-> ^57:19^ Creavi fructum labiorum pacem, pacem ei qui longe est et qui prope, dixit Dominus, et sanavi eum.
+Circa primum tria facit.  
 
-> ^57:20^ Impii autem quasi mare fervens quod quiescere non potest, et redundant fluctus ejus in conculcationem et lutum.
+Primo ostendit eorum quibus promittitur conditionem: ***haec est hereditas***, id est haec quae sequuntur debentur servis Domini, qui ei filii sunt quasi hereditario jure; ***et justitia***, quasi justa merces, Ps. *hereditas mea*.  
 
-> ^57:21^ Non est pax, dixit Dominus Deus meus, impiis.
+**989**. Secundo proponit promissionem, promittens futuram copiam in necessariis: ***omnes sitientes***, id est vos ex Judaeis qui prius prae inopia sitientes eratis, ***emite***, sine pretio, ***comedite*** panem et alia necessaria, Jo. VII 37–38 *si quis sitit, veniat ad me et bibat, et de ventre ejus fluent aquae vivae*; et in deliciis: ***venite, emite***, quasi: ac si emeretis accipite, vel ***absque argento***, id est minus quam justo pretio, Cant. V 1 *bibi vinum meum cum lacte meo*. Et commemorans pristinam inopiam: ***quare appenditis?***, quasi dicat: quare hactenus argentum dabatis et panem inde emere non poteratis?, Aggaei I 6 *seminastis multum et intulistis parum*. Haec autem mystice exponuntur de aqua divinae sapientiae quae gratis sitientibus datur, secundum Glossam.  
 
-> **1006**. ***Iustus perit***. Hic ostendit diversitatem obedientium divinis consiliis ab illis qui non obediunt, quantum ad evasionem periculorum.
+**990**. Tertio indicit praeparationem ad consequendum dictum promissionem: ***audite audientes***;  
 
-Et primo assignat diversitatem,
+et primo excitat attentionem,  
 
-secundo ponit utriusque partis confirmationem: ***qui autem habet fiduciam***.
+secundo ponit exhortationem: ***quaerite Dominum***.  
 
-Circa primum duo:
+Excitat autem attentionem triplici promissione.  
 
-primo promittit justis a periculis quietem,
+Primo promittens attendentibus bonorum copiosam fruitionem: ***comedite***, id est reficiam vos diversis bonis si me audiatis; ***in crassitudine***, quantum ad copiam, supra I 19 ***si volueritis et audieritis me, bona terrae comedetis***, Ier. XXXI 14 *animam sacerdotum*.  
 
-secundo aufert impiis evasionis spem: ***vos autem accedite***.
+Secundo promittens mortis evasionem: ***inclinate***, Ps. *vivet anima mea*, iterum Ps. *in aeternum non obliviscar justificationes tuas, quia in ipsis vivificasti me*.  
 
-**1007**. Circa primum duo facit.
+Tertio promittens potestatem;  
 
-Primo ponit justorum tribulationem, quia sine aliqua reputatione occiduntur: ***colliguntur***, a praesenti vita, et a terra sua captivi, ac si non essent justi, ***a facie malitiae***, id est a praesentia malorum, Habacuc I 13 *quare respicitis contemptores?*; vel ***a facie malitiae***, id est ne in malitiam mutarentur, Sap. IV 11 *raptus est, ne malitia mutaret cor ejus*.
+et primo ponit similitudinem: ***et feriam***, id est sicut David veras promissiones feci ut in sempiternum semen suum permaneret, sic et vobiscum faciam.  
 
-Secundo promittit eis quietem: ***veniet pax; in cubili***, id est in domo sua securus erit, vel in quiete cordis sui, Job V 24 *scies quoniam pacem habeat habitaculum tuum*.
+Secundo explicat ipsam, ostendens quid David fecerit: ***ecce testem***, Ps. *populus quem non cognovi servivit mihi, in auditu auris obedivit mihi*; et quid eis facturus sit: ***ecce gentes vocabis*** ad praeceptum tuum implendum, non tuis viribus sed ***propter Dominum***, supra XLIX 7 ***adorabunt propter Dominum Deum tuum qui elegit te***.  
 
-**1008**. ***Vos autem accedite***. Hic aufert injustis evasionis spem.
+**991**. ***Quaerite Dominum***. Hic indicit eis praeparationem ad consequendam dictam promissionem.  
 
-Et primo arguit ipsorum culpam,
+Et primo dat quaerendi divinum consilium: ***quaerite Dominum dum inveniri potest***, antequam adversitas vel mors veniat, Ps. *quaerite Dominum* etc., Prov. I 28 *mane consurgent* etc.  
 
-secundo aufert evasionis fiduciam: ***ego autem annuntiabo***.
+Secundo docet quaerendi modum: ***derelinquat impius***, peccans in Deum; ***iniquus***, peccans in proximum, supra I 16 ***auferte malum cogitationum vestrarum ab oculis meis***.  
 
-Circa primum duo:
+Tertio ponit reversionis fructum, scilicet misericordiam: ***et revertatur***; ***quoniam multus***, id est multiplicis misericordiae, ***ad ignoscendum***, Joelis II 13 *convertimini ad Dominum Deum vestrum*.  
 
-primo arguit peccati perversitatem,
+Quarto excludit misericordiae impedimentum: ***non enim cogitationes***, quasi: vos impii, ego pius, vos ultionem cogitatis, ego misericordiam, Ez. XVIII 25 *numquid viae meae non sunt aequae, domus Israel, et non magis viae vestrae pravae sunt?*  
 
-secundo in peccato obstinationem: ***in multitudine***.
+**992**. ***Et quomodo***. Hic ostendit promissionis firmitatem.  
 
-Circa primum duo.
+Et primo ostendit divini verbi efficaciam: ***ad me vacuum***, id est sine fructu, Sap. I 11 *sermo obscurus*, Oseae VI 3 *veniet quasi imber temporaneus et serotinus*.  
 
-Primo arguit in eis blasphemiam, ponens peccati consuetudinem inquantum in hoc patres suos imitantur: ***filii auguratricis***, quae contra meum praeceptum auguriis intendebat, ***adulterae***, inquantum me derelicto idolis adhaerebat, Oseae II 2 *judicate matrem vestram, judicate*. Ponens etiam peccati speciem: ***super quem lusistis?***, quasi dicat: super Deum, blasphemantes ipsum, supra XXVII ***cui exprobrasti***.
+Secundo ponit continentiam quantum ad laetam remissionem de Babylone: ***quia in laetitia***, Ps. *eduxit populum suum cum exultatione et electos suos in laetitia*; quantum ad aliorum congratulationem: ***montes et colles***, potentes et populares, laudantes in vobis Dominum; vel est hyperbole: terra vestra vestrae reversioni congratulans; quantum ad bonorum multiplicatam restitutionem: ***pro saliuncula***, id est priora pauca erant respectu futurorum, Aggaei II 10 *erit gloria domus hujus novissimae plus quam primae*, supra XLI 19 ***dabo in solitudine***. Saliunca a saliendo dicta, quae cardus leporinus dicitur.  
 
-**1009**. Secundo arguit in eis idolatriam.
+Tertio ponit consequentem Dei gloriam: ***et erit Dominus nominatus*** undique et semper gloriosus pro liberatione vestra, ***in signum aeternum***, ad quem confugient sicut ad signum salutis, supra XLIX 22 ***ecce ego levabo ad gentes signum meum***.  
 
-Et primo ponit consuetudinem: ***numquid non***, supra I 4 ***vae genti peccatrici, populo nequam, filiis sceleratis***;
+**993**. Nota super illo verbo ***omnes sitientes venite ad aquas***, quod divina doctrina primo dicitur aqua:  
 
-secundo ponit peccati speciem: ***qui consolamini***.
+et hoc <primo> quia infirmos sanat, Eccli. XV 3 *aqua sapientiae salutaris potavit eum*; s  
 
-Aggravat autem in eis peccatum idolatriae ex tribus:
+ecundo quia inquinatos mundificat, Ez. XXXVI 25 *effundam super vos aquam mundam et mundabimini ab omnibus inquinamentis vestris*;  
 
-primo ex locorum diversitate;
+tertio quia sitientes satiat, Jo. IV 13 *si quis biberit ex aqua quam ego dabo ei, non sitiet in aeternum*.  
 
-secundo ex divini foederis violatione: ***quia juxta me***;
+**994**. Secundo dicitur vinum:  
 
-tertio ex peccandi aviditate: ***dilexisti stratum***.
+et hoc quia primo pungit arguendo supra I 22 ***vinum tuum mixtum est aqua***;  
 
-Diversitas autem locorum in quibus sacrificabant ostenditur tripliciter:
+secundo quia incendit exhortando, Ps. *eloquium Domini inflammavit eum*;  
 
-primo quantum ad loca amoena;
+tertio quia inebriat consolando, infra ult. ***inebriamini ab uberibus consolationis vestrae***.  
 
-secundo quantum ad loca sublimia: ***super montem***;
+**995**. Tertio dicitur lac:  
 
-tertio quantum ad loca familiaria: ***et post ostium***.
+et hoc primo propter pulchritudinem, Gen. ult. *Nephtalim cervus emissus dans eloquia pulchritudinis*;  
 
-**1010**. Circa primum quatuor.
+secundo propter dulcedinem, Cant. II 14 *sonet vox tua in auribus meis, vox enim tua dulcis*;  
 
-Primo describit locorum amoenitatem, vel ex umbris arborum: ***quia consolamini***, Jer. II 20 *sub omni ligno frondoso tu prosternebaris meretrix*; vel ex ubertate aquarum: ***immolantes parvulos***, id est filios tuos, Ez. XVI 20 *tulisti filios tuos et filias tuas quas generasti mihi, et immolasti eis ad devorandum*, Ps. *effuderunt sanguinem*.
-
-Secundo peccati dilectionem: ***in partibus torrentis pars***, quasi: hoc sortem tuam reputasti, Sap. II 9 *ubique relinquamus signa laetitiae nostrae: quoniam haec est pars nostra*.
-
-Tertio sacrificii oblationem: ***et ipsis effudisti libamen***, quantum ad humida, ***sacrificium***, quantum ad sicca, supra I 29 ***confundimini ab idolis vestris***.
-
-Quarto justam Dei indignationem: ***numquid***, Jer. V 29 *numquid non super his visitabo, dicit Dominus*.
-
-**1011**. ***Super montem***. Hic ponit loca sublimia in quibus immolabant: ***cubile***; loquitur ad similitudinem meretricis quae se amatoribus prostituit, IV Reg. XVII 10 *fecerunt sibi statuas*, et fornicati sunt in eis.
-
-**1012**. ***Et post ostium***. Hic designat loca familiaria, quia juxta introitum domorum idola ponebant ut in magna memoria haberent, Ez. VIII 3 *adduxit me in visione*.
-
-**1013**. ***Quia juxta me***. Hic aggravat peccatum ex divini foederis violatione quo Deo quasi sponsa conjuncta erat. Et loquitur sub similitudine adulterae quae ampliat lectum ut iuxta virum adulterum suscipiat, et cum eo facit pactum de contrahendo, dimisso viro; in quo significatur quod in templo idola coluit, Ez. XVI 31–32 *facta es quasi mulier adultera quae super virum suum inducit alienos*.
-
-**1014**. ***Dilexisti***. Hic aggravat peccatum ex peccandi solicitudine.
-
-Et primo quantum ad pronitatem peccandi: ***manu aperta***, id est sine aliquo impedimento, Jer. III 3 *frons meretricis facta est ei, noluit erubescere*, Ez. XIII *nec sic es satiata*.
-
-Secundo quantum ad studium placendi, quia ornabat se: ***et ornasti te***, id est thymiama meum proponens in eorum cultum, Prov. VIII *aspersisti cubile tuum thymiama*.
-
-Tertio quantum ad sollicitudinem invitandi: ***misisti legatos***, quia etiam a longinquis terris diversa idola congregabat, et sic ***usque ad inferos***, id est usque ad profundum peccatorum, Ez. XXII *insanivit super eos*.
-
-**1015**. ***In multitudine***. Hic ostendit in peccatis obstinationem.
-
-Primo quia non revocabantur peccati labore: ***in multitudine***, id est in multiplici cultu idolorum, Sap. V 7 *lassati sumus in via iniquitatis et perditionis*.
-
-Secundo quia non revocabantur temporali prosperitate: ***vitam manus***, id est ad manum habebas unde posses vivere, et ideo ***non rogasti*** me, sed ***solicita*** pro divitiis tuis idola ***timuisti***, mei oblita, Job XXI 13 *ducunt in bonis dies suos et in puncto ad inferna descendunt*.
-
-Tertio quia non es revocata divina expectatione: ***et mei non es***; ***tacens***, dissimulans, expectans te ad misericordiam, Sap. V *dissimulans peccata propter poenitentiam*, supra XLII 14 ***tacui, semper silui***.
-
-**1016**. ***Ego autem annuntiabo justitiam tuam***, quam facis vel quam suscipere debes; ***opera***, idola: qui confidunt in idolis, opera eorum ***non proderunt*** eis; ***c**ongregati***, ex diversis gentibus, Deut. XXXII 38 *surgant et opitulentur vobis et in necessitate vos protegant*.
-
-**1017**. ***Qui autem***. Hic confirmat diversitatem.
-
-Et primo quantum ad justos,
-
-secundo quantum ad injustos: ***impii autem***.
-
-Evasionem autem bonorum a periculis confirmat ex tribus.
-
-Primo ex divina mansuetudine, promittens evasionem quantum ad patriae restitutionem: ***terram*** promissionis, Ps. *mansueti autem hereditabunt terram*. Et quantum ad viae expeditionem: ***et dicam***, scilicet principibus Medorum: ***viam facite***, liberando, ***praebete iter***, dando licentiam repatriandi, ***declinate***, ut nos non impediatis, ***auferte***, ut nec alii, Jer. L 26 *tollite de via lapides*; ***in sancto habitans***, Ps. *tu autem in sancto habitas, laus Israel*. Et quantum ad divinam pietatem: ***et cum contrito***, Ps. *cor contritum et humiliatum Deus non despiciet*.
-
-**1018**. Secundo assignat rationem ex culpae purgatione, promittens remissionem: ***non enim in sempiternum***, Ps. *non in perpetuum irascetur neque in aeternum comminabitur*; et subjungit rationem, ponens expletam in puniendo justitiam: ***propter iniquitatem**; **abscondi***, ut non adjuvarem, ***abiit vagus***, quasi ovis sine pastore, Job XXII 5 *propter peccata tua plurima et infinitas iniquitates tuas*. Promittens in salvando misericordiam: ***vias ejus vidi***, oculo misericordiae, ***ipsi***, quantum ad principes, ***lugentibus***, quantum ad populum; vel ***ipsi***, quantum ad Judaeos, aut quantum ad advenas adiunctos, vel quantum ad terram et habitatores, Ps. *qui propitiatur omnibus iniquitatibus tuis, qui sanat omnes infirmitates tuas*.
-
-**1019**. Tertio confirmat ex prophetarum praenuntiatione: ***creavi***, quasi ex nihilo eos restituens; ***labiorum***, prophetarum qui haec praedixerunt, ***qui longe***, in captivitate dispersi sunt, Eph. II 17 *et veniens evangelizavit pacem his qui prope et his qui longe*.
-
-**1020**. ***Impii autem***. Hic confirmat quod dixerat de malis per quamdam similitudinem.
-
-Et primo ponit ipsam: ***fervens***, id est semper fluctuans; ***redundant*** ad littus ubi lutum faciunt et conculcantur, Iob XL *fervescere faciet*.
-
-Et concludit propositum: ***non est pax***, ut scilicet salventur, supra XLVII idem.
-
-**1021**. Nota super illo verbo ***justus perit et non est qui recogitet***, quod in passione Christi homo debet recogitare
-
-primo dilectionem, ad reamandum, Cant. VIII 6 *pone me ut signaculum super cor tuum*;
-
-secundo amaritudinem, ad compatiendum, Thren. III 19 *recordare paupertatis et transgressionis meae, et absynthii et fellis*;
-
-tertio fortitudinem, ad fortiter patiendum, Hebr. XII 3 *recogitate eum qui talem pro vobis sustinuit a peccatoribus adversus semet ipsum contradictionem, ut non fatigemini animis vestris deficientes*;
-
-quarto utilitatem, ad gratias agendum, Cant. VII 8 *ascendam in palmam, et accipiam fructus ejus*.
-
-Caput 58
+tertio propter sumendi facilitatem, I Petri I *quasi modo geniti infantes lac concupiscite*.

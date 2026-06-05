@@ -1,151 +1,181 @@
-# Chapter 65
+# Chapter 63
 
-> ^65:2^ Expandi manus meas tota die ad populum incredulum, qui graditur in via non bona post cogitationes suas,
+^63:1^ Quis est iste qui venit de Edom tinctis vestibus de Bosra? Iste formosus in stola sua, gradiens in multitudine fortitudinis suæ. Ego qui loquor justitiam et propugnator sum ad salvandum.  
 
-> ^65:3^ populus qui ad iracundiam provocat me ante faciem meam semper, qui immolant in hortis et sacrificant super lateres,
+> ^63:2^ Quare ergo rubrum est indumentum tuum et vestimenta tua quasi calcantium in torculari?
 
-> ^65:4^ qui habitant in sepulchris et in delubris idolorum dormiunt, qui comedunt carnem suillam et jus profanum in vasis eorum,
+> ^63:3^ Torcular calcavi solus, et de gentibus non est vir mecum; calcavi eos in furore meo et conculcavi eos in ira mea; et aspersus est sanguis eorum super vestimenta mea, et omnia indumenta mea inquinavi.
 
-> ^65:5^ qui dicunt: recede a me, non appropinques mihi, quia immundus es. Isti fumus erunt in furore meo, ignis ardens tota die.
+> ^63:4^ Dies enim ultionis in corde meo, annus redemptionis meæ venit.
 
-> ^65:6^ Ecce scriptum est coram me: non tacebo, sed reddam et retribuam in sinu eorum
+> ^63:5^ Circumspexi, et non erat auxiliator; quæsivi, et non fuit qui adjuvaret. Et salvavit mihi brachium meum, et indignatio mea ipsa auxiliata est mihi.
 
-> ^65:7^ iniquitates vestras et iniquitates patrum vestrorum simul, dicit Dominus, qui sacrificaverunt super montes et super colles exprobraverunt mihi; et remetiar opus eorum primum in sinu eorum.
+> ^63:6^ Et conculcavi populos in furore meo et inebriavi eos in indignatione mea et detraxi in terram virtutem eorum.
 
-> ^65:8^ Hæc dicit Dominus: quomodo si inveniatur granum in botro et dicatur: ne dissipes illud quoniam benedictio est, sic faciam propter servos meos ut non disperdam totum.
+> ^63:7^ Miserationum Domini recordabor, laudem Domini super omnibus quæ reddidit nobis Dominus et super multitudine bonorum domui Israel quæ largitus est eis secundum indulgentiam suam et secundum multitudinem misericordiarum suarum.
 
-> ^65:9^ Et educam de Jacob semen et de Juda possidentem montes sanctos meos; et hæreditabunt eam electi mei, et servi mei habitabunt ibi;
+> ^63:8^ Et dixit: verumtamen populus meus est, filii non negantes, et factus est eis salvator.
 
-> ^65:10^ et erunt campestria in caulas gregum, et vallis Achor in cubile armentorum populo meo qui requisierunt me.
+> ^63:9^ In omni tribulatione eorum non est tribulatus, et angelus faciei ejus salvavit eos. In dilectione sua et in indulgentia sua ipse redemit eos et portavit eos et levavit eos cunctis diebus sæculi.
 
-> ^65:11^ Et vos qui dereliquistis Dominum, qui obliti estis montem sanctum meum, qui ponitis Fortunæ mensam et libatis super eam,
+> ^63:10^ Ipsi autem ad iracundiam provocaverunt et afflixerunt spiritum Sancti ejus. Et conversus est eis in inimicum et ipse debellavit eos.
 
-> ^65:12^ numerabo vos in gladio, et omnes in cæde corruetis. Pro eo quod vocavi et non respondistis, locutus sum et non audistis, et faciebatis malum in oculis meis, et quæ nolui elegistis,
+> ^63:11^ Et recordatus est dierum sæculi Moysi populi sui. Ubi est qui eduxit eos de mari cum pastoribus gregis sui? Ubi est qui posuit in medio ejus spiritum Sancti sui,
 
-> ^65:13^ propter hoc, hæc dicit Dominus Deus: ecce servi mei comedent, et vos esurietis; ecce servi mei bibent, et vos sitietis.
+> ^63:12^ qui eduxit ad dexteram Moysen brachio majestatis suæ, qui scidit aquas ante eos ut faceret sibi nomen sempiternum,
 
-> ^65:14^ Ecce servi mei lætabuntur, et vos confundemini; ecce servi mei laudabunt præ exsultatione cordis, et vos clamabitis præ dolore cordis et præ contritione spiritus ululabitis.
+> ^63:13^ qui eduxit eos per abyssos quasi equum in deserto non impingentem,
 
-> ^65:15^ Et dimittetis nomen vestrum in juramentum electis meis, et interficiet te Dominus Deus, et servos suos vocabit nomine alio,
+> ^63:14^ quasi animal in campo descendens, spiritus Domini ductor ejus fuit. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ.
 
-> ^65:16^ in quo qui benedictus est super terram benedicetur in Domino amen, et qui jurat in terra jurabit in Deo amen. Quia oblivioni traditæ sunt angustiæ priores et quia absconditæ sunt ab oculis nostris.
+> ^63:15^ Attende de cælo et vide de habitaculo sancto tuo et solio gloriæ tuæ; ubi est zelus tuus et fortitudo tua, multitudo viscerum tuorum et miserationum tuarum? Super me continuerunt se.
 
-> ^65:17^ Ecce enim ego creo cælos novos et terram novam; et non erunt in memoria priora et non ascendent super cor,
+> ^63:16^ Tu enim pater noster, et Abraham nescivit nos et Israel ignoravit nos; tu Domine pater noster et redemptor noster, a sæculo nomen tuum.
 
-> ^65:18^ sed gaudebitis et exsultabitis usque in sempiternum in his quæ ego creo. Quia ecce ego creo Jerusalem exsultationem et populum ejus gaudium.
+> ^63:17^ Quare errare nos fecisti Domine de viis tuis, indurasti cor nostrum ne timeremus te? Convertere propter servos tuos, tribus hæreditatis tuæ.
 
-> ^65:19^ Et exsultabo in Jerusalem et gaudebo in populo meo, et non audietur in ea ultra vox fletus et vox clamoris.
+> ^63:18^ Quasi nihilum possederunt populum sanctum tuum, hostes nostri conculcaverunt sanctificationem tuam.
 
-> ^65:20^ Non erit ibi amplius infans dierum et senex qui non impleat dies suos, quoniam puer centum annorum morietur, et peccator centum annorum maledictus erit.
+> ^63:19^ Facti sumus quasi in principio, cum non dominareris nostri, neque invocaretur nomen tuum super nos.
 
-> ^65:21^ Et ædificabunt domos et inhabitabunt et plantabunt vineas et comedent fructus earum;
+> **1095**. ***Quis est iste***. Hic incipit tangere discretionem malorum a bonis in consecutione promissae salutis. Et dividitur in partes tres:
 
-> ^65:22^ non ædificabunt domos, et alius habitabit; non plantabunt, et alius comedet. Secundum enim dies ligni erunt dies populi mei, et opera manuum eorum inveterabunt.
+in prima introducit judicem quasi ad discernendum;  
 
-> ^65:23^ Electi mei non laborabunt frustra neque generabunt in conturbatione, quia semen benedictorum Domini est et nepotes eorum cum eis.
+in secunda proponit judici petitionem, ibi ***miserationum***;  
 
-> ^65:24^ Eritque antequam clament, ego exaudiam, adhuc illis loquentibus ego exaudiam.
+in tertia judex pronuntiat sententialiter discretionem, LXV cap. ***quaesierunt me***.  
 
-> ^65:25^ Lupus et agnus pascentur simul, leo et bos comedent paleas, et serpenti pulvis panis ejus. Non nocebunt neque occident in omni monte sancto meo, dicit Dominus.
+Circa primum duo:  
 
-> **1122**. ***Quaesierunt***. Hic judex, scilicet Deus, dat sententiam de discretione malorum a bonis in perceptione salutis promissae. Et dividitur in partes duas:
+in prima movetur quaestio de persona judicis,  
 
-in prima pronuntiat sententiam discretionis,
+in secunda de qualitate habitus: ***quare ergo rubrum?***  
 
-in secunda determinat modum executionis, cap. LXVI ***haec dicit Dominus***.
+**1096**. Circa primum duo.  
 
-Circa primum duo.
+Primo ponit quaestionem,  
 
-Primo promittit responsionem, ostendens respondendi opportunitatem: ***quaesierunt***, quasi dicat: hactenus vos Judaei non quaerebatis a me sed ab idolis; ex quo quaeritis, respondebo. Mystice de conversione gentium, Ro. X 20 *inventus sum a non quaerentibus*. Et ponit promissionem: ***dixi: ecce ego ad gentem***, respondebo scilicet Judaeis; vel ***ad gentes*** conversas, convertar, Cant. VIII *ego dilecto meo et dilectus meus mihi*.
+secundo responsionem: ***ego qui loquor***.  
 
-**1123**. Secundo sententiat discretionem: ***expandi manus***.
+Sciendum autem quod omnes sancti communiter haec exponunt de Christo; et quaestio ista est angelorum, qui quidem ad plenum mysteria Incarnationis Christi non intelligebant, et ideo quasi ignorantes quaesierunt, secundum quod dicit Hieronymus.  
 
-Et primo sententiat discretionem malorum a bonis, propter peccata transgressionis,
+Cui contrarium videtur dicere Augustinus Super Genesim, ubi dicit quod angeli a principio creationis suae cognoverunt omnia quae ipse erat facturus, sive rerum rationes seminales rebus indiderit, sive apud se tantum retinuerit ut fierent, quamvis rebus inessent ut fieri possent; et sic videtur quod hujusmodi mysteria cognoverint.  
 
-secundo propter peccata omissionis: ***et qui dereliquistis***.
+**1097**. Ad quod solvit Glossa Eph. III 8, super illud *mihi autem omnium sanctorum* etc., et dicit quod majores cognoverunt, sed minores, quorum est vox ista, ignoraverunt. Dionysius tamen aliter videtur dicere, VII cap. Caelestis Hierarchiae; vult enim quod haec quaestio sit supremorum angelorum qui a Deo immediate illuminationes recipiunt, unde eis immediate respondetur a Deo: ***ego qui loquor***, quamvis ipsi propter reverentiam Christi a se invicem quaererent, sicut discipuli expectantes magistri responsionem. Quamvis autem supremi angeli sciverint hujusmodi mysteria quantum ad substantiam facti, tamen quantum ad particulares circumstantias non perfecte sciebant; unde etiam minus videntur a superiori intellectu perfecto, scilicet divino, quam angelico: unde super hoc magis illuminari quaerebant ut perfectius intelligerent.  
 
-Prima in duas:
+**1098**. Mirantur autem tria.  
 
-in prima comminatur malis supplicia,
+Primo victoriosum adventum: ***qui venit***, in caelum, ***de Edom***, mundo: interpretatur enim sanguineus vel terrenus; ***de Bosra***, inferno prius munito custodia daemonum. Bosra quandoque est nomen proprium cujusdam civitatis in terra Moab, quandoque nomen appellativum et est idem quod terra vel urbs munita: unde frequenter ponitur pro terra Idumaea munita montibus, hic autem pro Jerusalem, vel inferno. ***Vestibus***, id est membris corporeis, ***tinctis*** sanguine passionis, supra XXXIV 5 ***ecce super Idumaeam descendet et super populum interfectionis meae ad judicium***.  
 
-in secunda promittit bonis praemia: ***haec dicit Dominus***.
+Secundo mirantur in ipso decorum aspectum: ***iste formosus***, a formo, calidum, et sic est aliquis formosus qui propter calorem excitatur; vel a forma, et sic dicitur formosus propter figuram, id est debitam commensurationem membrorum; ***in stola***, habitu humanitatis, I Petri I 12 *in quem desiderant angeli prospicere*.  
 
-Circa primum duo:
+Tertio cunctantur virtuosum incessum: ***gradiens*** in caelum, non auxilio angelico sed sua virtute, quod hactenus inauditum, Hebr. I 3 *portans omnia verbo virtutis suae*.  
 
-primo arguit transgressionis culpam,
+**1099**. ***Ego***. Hic ponit responsionem; et ostendit se judicem: ***qui loquor justitiam***, id est qui habeo auctoritatem ***judicium gentibus proferendi***, supra XLII 1; doctorem, supra XLV 19 ***ego Dominus loquens justitiam***; et salvatorem: ***et propugnator*** contra daemones ***ad salvandum*** genus humanum, Exo. XV 2 *fortitudo mea et laus mea Dominus, et factus est mihi in salutem*, eodem *Dominus quasi vir pugnator, omnipotens nomen ejus*.  
 
-secundo comminatur poenam: ***isti fumus erunt***.
+**1100**. Nota super illo verbo ***iste formosus***, quod Christus est formosus  
 
-**1124**. Culpam ipsorum arguit ex tribus.
+primo quia rutilans splendore divinitatis, Hebr. I 3 *cum sit splendor gloriae et figura substantiae ejus*; s  
 
-Primo ex beneficiorum ingratitudine: ***expandi***, dando multa beneficia, ***tota die***, toto tempore ex quo eos mihi assumpsi; mystice in cruce; Jer. XVI 12 *unusquisque ambulat* viam non bonam.
+ecundo quia figuratus conformitate unionis, Ps. *speciosus forma prae filiis hominum*;  
 
-Secundo ex peccandi continuitate: ***populus; ante faciem***, quia *omnia nuda et aperta sunt oculis ejus*, Hebr. IV 13, vel quia in templo idolum ponebant, Deut. XXXII 21 *ipsi me provocaverunt in eo qui non est Deus*.
+tertio quia distinctus diverso colore virtutis, Cant. V 10 *dilectus meus candidus et rubicundus*;  
 
-Tertio ex peccatorum diversitate vel gravitate, quantum ad quatuor.
+quarto quia vestitus honestate conversationis, Job XL 5 *esto gloriosus et speciosis induere vestibus*.  
 
-**1125**. Primo quantum ad cultum idolorum: ***qui immolant*** idolis, ***in hortis***, quia in locis voluptuosis idola colebant, ***super lateres***, super altaria ex lateribus constructa, ut ignem sacrificii sustinere possent, supra I 29 ***confundentur ab idolis suis***.
+**1101**. ***Quare ergo rubrum?*** Hic ponit secundam quaestionem de habitu.  
 
-Secundo quantum ad studium divinationum: ***qui habitant in sepulcris***, ut habeant responsiones a mortuis, ***et delubris***, templis idolorum, a diluendo dictis quia ibi putabant omnia ablui, vel propter fontes qui ibi erant ad abluendas hostias et sacerdotes; ***dormiunt***, super pelles hostiarum ad divinandum, Ez. VI 6 *conterentur delubra vestra*.
+Et primo ponit quaestionem: ***quare ergo?***, ac si diceret: hujusmodi sanguinis insignia non justi sed iniqui deferre consueverunt, non salvatores sed potius occisores; ***quasi calcantium***: est enim vinum rubrum in partibus illis, quod tingit in modum sanguinis, Zach. III 3 *indutus erat*.  
 
-Tertio quantum ad immunditiam ciborum: ***qui comedunt; et jus profanum***, porcinum, infra ult. ***qui comedebant carnem suillam et abominationem et murem simul consumentur***.
+Secundo ponit responsionem: ***torcular***.  
 
-Quarto quantum ad contemptum justorum: ***qui dicunt***, scilicet non adorantibus idola, Sap. II 15 *gravis est nobis*; vel ***qui dicunt*** Deo, Job XXI 14 *qui dicunt Deo: recede a nobis, scientiam viarum tuarum nolumus*.
+Et primo assignat ruboris rationem,  
 
-**1126**. ***Isti fumus erunt***. Hic comminatur poenam.
+secundo prosequitur totum rei ordinem: ***dies ultionis***.  
 
-Et primo poenae diuturnitatem: ***fumus***, id est sicut fumus igne consumitur, et incendentur ira mea, Deut. XXXII 22 *ignis succensus est in furore meo et ardebit usque ad inferni novissima*.
+**1102**. Circa primum tria.  
 
-Secundo punitionis certitudinem: ***ecce scriptum est***, quia firmiter in memoria peccatum et in praefinitione poena; ***non tacebo***, dissimulans, Jer. XVII 1 *peccatum Judae scriptum est*, supra XLII 14 ***tacui, semper silui***.
+Primo narrat singularem victoriam: ***torcular***, scilicet crucem, in qua pondere passionis pressus, hostes ***calcavi solus***, patiens et vincens; ***et de gentibus non est vir mecum*** in auxilium, quia eo relicto omnes fugerunt. Et dicit signanter ***vir***, propter beatam Virginem in qua fides nunquam defecit, Cant. I 13 *botrus cypri dilectus meus mihi in vineis Engaddi*, Thren. I 15 *torcular calcavit*.  
 
-Tertio poenarum multitudinem, quia pro omnibus peccatis patrum: ***sed reddam***, Exo. XX 5 *ego sum Deus zelotes, visitans peccata patrum in filios*; ***exprobraverunt***, adorando idola in excelsis; et pro peccatis etiam juventutis ipsorum: ***et remetiar***, quasi commensurabo poenam culpae, supra XL 2 ***recepit de manu Domini duplicia***.
+Secundo tangit hostium vindictam: ***calcavi eos***, daemones, vel Judaeos; ***furor***: ira accensa, Ps. *super aspidem et basiliscum ambulabis, et conculcabis leonem et draconem*.  
 
-**1127**. ***Haec dicit Dominus***. Hic promittit bonis praemia.
+Tertio quasi concludit ruboris causam: ***et aspersus est sanguis***, meus, quia de corpore meo exiens, ***eorum***, quia eorum potestati concessus ad effundendum. Loquitur secundum similitudinem victoris, cujus vestes caede inquinantur, supra X ***vestimentum mixtum sanguine**; **inquinavi***, eorum reputatione.  
 
-Et primo quantum ad conservationem a malis: ***granum*** uvae; ***benedictio***, id est placet Deo ut pro benedictione reservetur; ***propter servos***, patres nostros; ***totum***, genus Judaeorum, supra XVII 5 ***erit sicut congregans*** racemos in vindemia.
+**1103**. ***Dies ultionis***. Hic prosequitur totum rei ordinem.  
 
-Secundo quantum ad promotionem in bonis.
+Et primo ponit temporis congruitatem: ***ultionis***, quantum ad daemones; ***retributionis***, quantum ad justos quorum merces usque tunc dilata erat, supra XXXIV 8 ***dies ultionis Domino***.  
 
-Et primo quantum ad seminis multiplicationem: ***et adducam de Jacob***, supra I 9 ***nisi Dominus exercituum reliquisset nobis semen, quasi Sodoma fuissemus***.
+Secundo proponit salutis necessitatem: ***circumspexi et non erat auxiliator***, humano generi, qui posset ipsum salvare, supra LIX 16 ***vidit quia non est vir***; vel ***non erat auxiliator***, mihi in cruce, Job XIX 13 *fratres mei elongaverunt a me, et noti mei recesserunt a me*, Ps. *considerabam ad dexteram et videbam, et non erat qui cognosceret me*, Eccli. LI 10 *circumdederunt me undique*.  
 
-Secundo quantum ad hereditatis paternae restitutionem: ***et hereditabunt***, Ez. XXXVI 12 *hereditate possidebunt te et eris hereditas eorum*.
+Tertio salutis impletionem: ***et salvavit***, id est salutem resurrectionis fecit mihi, vel salutem humani generis, ***brachium***, virtus, Ps. *salvavit sibi dextera ejus, et brachium sanctum ejus*.  
 
-Tertio quantum ad pascuorum ubertatem: ***et erunt campestria et vallis Achor***, ab illo denominata qui ibi lapidatus, Josue VII 24–26, Oseae II 15 *dabo eis vallem Achor ad aperiendam spem*.
+Quarto vindictae expositionem: ***et conculcavi populos***, Judaeos per Romanos; ***inebriavi***, replevi afflictione: ***eorum***, Judaeorum et daemonum, supra XXIII 9 ***Dominus exercituum tetigit hoc***.  
 
-**1128**. ***Et vos qui dereliquistis***. Hic discernit malos a consolatione bonorum propter peccata omissionis.
+**1104**. Posset autem exponi totum ad litteram, ut induceretur Dominus metaphorice quasi veniens ad delendos diversos populos hostes Judaeorum, et praecipue Idumaeos, secundum modum metaphoricum qui habitus est supra LIX 17 ***indutus est justitia ut lorica***.  
 
-Et primo comminatur malis supplicia,
+**1105**. ***Miserationum Domini***. Hic propheta judici, qui justitiam locuturus et impleturus venit, petitionem porrigit.  
 
-secundo <promittit> bonis praemia: ***quia oblivioni***.
+Et primo inclinat ipsum ad pietatem;  
 
-Circa primum duo.
+<secundo> porrigit petitionem, LXIV cap. ***utinam dirumperes***.  
 
-Primo comminatur eis quia Deum dereliquerunt, ponens culpam: ***et vos***, Judaei; ***fortunae***, deo Aegyptiorum, ***mensam***: tangit ritum quo colebatur, quia in fine anni parabatur sibi mensa omnibus cibis referta, Deut. XXXII 15 *dereliquerunt Deum factorem suum et recesserunt a Deo salutari suo*; ponens etiam poenam: ***numerabo***, quasi dicat: ut nullus remaneat quin opprimatur, Jer. XLIV 12 *cadent in gladio et fame*.
+Prima in duas:  
 
-**1129**. Secundo quia revocanti non obedierunt, ponens culpam: ***pro eo quod vocavi***, Prov. I 24 *vocavi et renuistis*.
+in prima inclinat ad pietatem commemorans pristina beneficia quae defecerunt;  
 
-Et comminatur discretionis poenam.
+in secunda, pericula quae incurrerunt: ***quare errare***.  
 
-Primo in satietate corporis: ***propter hoc haec dicit Dominus***, Ps. *divites eguerunt et esurierunt, inquirentes autem Dominum non minuentur omni bono*.
+Circa primum duo.  
 
-Secundo in laetitia cordis: ***ecce servi mei laetabuntur***, Sap. V 3 *paenitentiam agentes*.
+Primo proponit intentum: ***quae reddidit***, pro nostris meritis tam in bonis quam in malis poenae; ***bonorum***, quae gratis dedit, Eccli. LI 11 *memoratus sum misericordiae tuae Domine*.  
 
-Tertio in diversitate nominis, et primo ponit quale futurum sit nomen impiorum: ***et dimittetis in juramentum***, ut confirment dicta sua sic: si non est ita, ita accidat mihi sicut illis, Jer. XLIV 12 *in gladio et fame morientur, et erunt in jusjurandum et in miraculum et in maledictionem et in opprobrium*. Et deinde ponit quale sit futurum nomen bonorum: ***et servos; in quo***, scilicet nomine, Jesus est nomen; ***amen***, fideliter, supra LXII 2 ***vocabitur tibi nomen novum quod os Domini nominavit***.
+Secundo prosequitur propositum.  
 
-**1130**. ***Quia oblivioni***. Hic promittit visa praemia.
+**1106**. Et primo commemorat beneficia quantum ad evasionem periculorum, commemorans singularem electionem: ***et dixit***, scilicet Deus: ***verumtamen***, quamvis ipsi contra me essent, ***non negantes***, scilicet Abraham, vel ***non negantes***, quia saltem fidem meam tenent, Exo. XV 2 *fortitudo mea et laus mea Dominus*.  
 
-Et primo in generali quantum ad amotionem malorum: ***quia oblivioni***, non defectu cognitionis sed successione bonorum, supra LIV 4 ***confusionis adolescentiae tuae oblivisceris***; et quantum ad restaurationem bonorum: ***ecce enim ego creo caelos novos***, nova de caelo auxilia, ***terram novam***, nova de terra beneficia, vel ad diem judicii quando mundus ad gloriam sanctorum innovabitur, Apoc. XXI 4 ***prima abierunt***.
+Et quantum ad diligentem protectionem: ***in omni tribulatione***; et ipse ***est tribulatus*** per compassionem, vel ***non est*** statim sed distulit etiam nunc, ut quasi corrigerentur; ***et angelus faciei***, id est faciem meam videns, ***salvavit***, quasi dux eorum per desertum, Exo. XXXII 34 *duc populum istum*, Ps. *angelis suis mandavit de te ut custodiant te in omnibus viis tuis*.  
 
-**1131**. Secundo in speciali: ***quia ecce ego creo Jerusalem***.
+Et quantum ad paternam dilectionem: ***in dilectione redemit***, ab Aegypto; ***portavit***, in deserto; ***levavit***, id est extulit super alios in terra promissionis, Oseae XI 1 *puer Israel*.  
 
-Et primo quantum ad cordium jucunditatem: ***Jerusalem***, terrestrem, sed magis caelestem; <***exultationem***, id est> exultantem, emphatice, ut tota gaudio sit absorpta, supra XXXV 10 ***gaudium et laetitiam obtinebunt, et fugiet ab eis dolor et gemitus***.
+**1107**. Secundo tangit beneficia quantum ad remissionem culparum.  
 
-**1132**. Secundo quantum ad vitae diuturnitatem: ***non erit amplius qui non impleat***, ante tempus moriens, sed ***puer morietur centum annorum***, id est quando pervenerit ad talem aetatem; ***et*** si sit ***peccator***, quamvis tantum vixerit, maledictioni subjacebit; Gen. XXV 8 *mortuus est Abraham in senectute bona*. Mystice, in caelesti Jerusalem omnes dies suos implebunt, quia nullus morietur; ***puer centum annorum***, id est qui usque ad aetatem senectutis pueriliter vixit ***morietur*** morte aeterna, Sap. IV 8 *senectus enim venerabilis est, non diuturna, neque numero annorum computata*.
+Et primo ponit culpam: ***ipsi autem; spiritum ejus***, scilicet Dei, vel ***sancti***, Moysi, per diversa jurgia, Ps. *et vexatus est Moyses propter eos, quia exacerbaverunt spiritum ejus*.  
 
-**1133**. Tertio quantum ad bonorum prosperitatem, tum quantum ad securitatem possessionum: ***et aedificabunt***, Ez. *et aedificaverunt domos*, Amos ult. *plantabunt vineas*; et assignat rationem: ***secundum enim dies***, id est quia diu vivens sicut diu durat lignum arboris, ***inveterabunt***, id est usque ad vetustatem in usum eorum remanebunt, Ps. *erit tamquam lignum quod plantatum est secus decursus aquarum*. Tum quantum ad pacem filiorum: ***neque generabunt in conturbatione***, quasi generantes filios in servitutem hostium, Eccli. XLIV 11 *cum semine ipsorum perseverant bona*.
+Secundo ponit poenam: ***et conversus est***, scilicet Deus, Thren. II 5 *factus est Dominus velut inimicus*, Iob XXX 21 *mutatus est mihi in crudelem*.  
 
-**1134**. Quarto quantum ad precum exauditionem: ***eritque antequam clament***, ore, supra XXX 19 ***ad vocem clamoris tui statim ut audierit, respondebit tibi***.
+Tertio ponit indulgentiam: ***et recordatus*** tandem ***Moysi***, qui pro eis oravit, Exo. XXXII 32 *aut dimitte eis, aut dele me de libro in quo me scripsisti*, Ps. *memor fuit in saeculum testamenti ejus, verbi quod mandavit in mille generationes*.  
 
-**1135**. Quinto quantum ad pacis tranquillitatem: ***lupus et agnus***, quia qui prius tyranni et malefactores, pacifice cum aliis morabuntur, supra XI 6 idem.
+**1108**. Nota super illo verbo ***torcular calcavi***, quod de torculari crucis fluxit  
 
-Caput 66
+primo sanguis ad redimendum, I Petri I 18–19 *non corruptibilibus auro vel argento redempti estis de vana vestra conversatione, sed pretioso sanguine Jesu Christi*;  
+
+secundo aqua ad emundandum, Ps. *eduxit aquam de petra*, Ez. XXXVI 25 *effundam super vos aquam mundam*;  
+
+tertio oleum ad sanandum, Job XXIX 5 *petra fundebat mihi rivos olei*;  
+
+quarto mel ad consolidandum, Deut. XXXII 13 *ut sugeret mel de petra*;  
+
+quinto vinum ad confortandum, Prov. III 10 *vino torcularia redundabunt*.  
+
+**1109**. ***Ubi est qui eduxit?*** Hic plangit eadem beneficia eis subtracta.  
+
+Et primo plangit beneficiorum defectum: ***ubi est qui eduxit?***, Moyses vel Deus; ***cum pastoribus***, Maria et Aaron, Sap. XI 1 *deduxit eos in manibus. **Ubi est, spiritum sancti sui?***, Moysi, quod legitur Num. XI, ***ad dexteram***, prospere; ubi est spiritus *qui scidit*, Ps. *qui divisit mare Rubrum in divisiones*, et ubi est ***qui eduxit quasi equum non impingentem***, scilicet sine impedimento, ***descendens*** inoffenso curru; ***ejus***, populi, Sap. XIX 7 *et in mari Rubro via sine impedimento*, Prov. III 23 *ambulabunt fiducialiter*, Judicum VI 13 *ubi sunt mirabilia ejus*?  
+
+**1110**. Secundo inclinat judicis affectum.  
+
+Et primo petit audientiam: ***attende de caelo***, III Reg. VIII 32 *tu exaudies de caelo*.  
+
+Secundo provocat ad misericordiam: ***ubi est zelus*** quo dilexisti nos, Ps. *ubi sunt misericordiae tuae antiquae Domine*, Iob XII 15 *si continuerit aquas*.  
+
+Tertio proponit miserendi causam: ***tu enim pater noster, Abraham nescivit nos***, adhuc vivus, quia nec nos tunc eramus; vel etiam modo nolens orare pro nobis quia non invocamus ipsum; vel, secundum Augustinum, quia mortui etiam sancti nesciunt quid agatur erga vivos: sed hoc intelligendum est quantum ad virtutem cognitionis humanae, non quantum ad irradiationem divini luminis, Deut. XXXII 6 *ipse enim est pater tuus qui possedit te, fecit te et creavit te*.  
+
+**1111**. ***Quare errare?*** Hic proponit mala quae incurrerunt.  
+
+Et primo quantum ad mala culpae: ***errare de viis***, mandatis, ***fecisti***, permittendo, non immittens gratiam et non corrigens; ***indurasti***, permisisti, Ro. VIII *cujus vult miseretur et quem vult indurat*.  
+
+**1112**. Secundo proponit mala poenae.  
+
+Et primo petit misericordiam: ***convertere*** de ira ad misericordiam, ***propter servos***, patres nostros, Ps. *convertere Domine usquequo et deprecabilis esto super servos tuos*, Thren. ult. *converte nos Domine et convertemur, innova dies nostros sicut a principio*.  
+
+Secundo proponit miseriam quantum ad servitutem: ***quasi nihilum***, id est sine resistentia, supra XXVI 13 ***Domine Deus noster, possederunt nos domini absque te***; quantum ad sanctorum profanationem: ***et hostes nostri***, I Mach. II 8 *sancta in manu*; quantum ad honoris pristini amissionem: ***facti sumus***, sine rege sine templo, ***in principio***, in Aegypto, vel etiam ante vocationem Abraham, Jer. XIII *tu autem in nobis es Domine, et nomen sanctum tuum invocatum est super nos, ne derelinquas nos, Domine*.

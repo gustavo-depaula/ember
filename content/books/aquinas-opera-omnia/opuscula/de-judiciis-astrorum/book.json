@@ -1,0 +1,41 @@
+{
+  "id": "aquinas-de-judiciis-astrorum",
+  "name": {
+    "en-US": "On Astrology",
+    "la": "De Iudiciis Astrorum"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A short consultation Aquinas wrote in response to a question on the moral and theological status of astrology — whether and how Christians may consult the stars.",
+    "la": "Responsum breve Thomae ad quaestionem de statu morali et theologico astrologiae — utrum et quomodo Christianis liceat astra consulere."
+  },
+  "composed": "c. 1271",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~De Iudiciis Astrorum",
+      "description": "Translation from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~De Iudiciis Astrorum",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "deiudiciis-c01",
+      "title": {
+        "en-US": "DeIudiciis.2",
+        "la": "DeIudiciis.2"
+      }
+    }
+  ]
+}

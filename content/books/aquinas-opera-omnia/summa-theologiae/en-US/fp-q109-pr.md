@@ -1,9 +1,9 @@
-# Question 109 — We now consider the ordering of the bad angels; concerning which there are four points of inquiry:
+# Question 109 — The Ordering of the Bad Angels
 
-(1) Whether there are orders among the demons?
+We now consider the ordering of the bad angels; concerning which there are four points of inquiry:  
 
-(2) Whether among them there is precedence?
+(1) Whether there are orders among the demons?  
 
-(3) Whether one enlightens another?
-
-(4) Whether they are subject to the precedence of the good angels?
+- (2) Whether among them there is precedence?
+- (3) Whether one enlightens another?
+- (4) Whether they are subject to the precedence of the good angels?

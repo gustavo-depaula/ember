@@ -1,18 +1,11 @@
-# Quaestio 41 — et secundo, de audacia.
+# Quaestio 41
 
-Circa timorem consideranda sunt quatuor,
+***De timore ipso***
 
-primo, de ipso timore;
-secundo, de obiecto eius;
-tertio, de causa ipsius;
-quarto, de effectu.
+Consequenter considerandum est, primo, de timore; et secundo, de audacia. Circa timorem consideranda sunt quatuor, primo, de ipso timore; secundo, de obiecto eius; tertio, de causa ipsius; quarto, de effectu. Circa primum quaeruntur quatuor.  
 
-Circa primum quaeruntur quatuor.
+Primo, utrum timor sit passio animae.  
 
-Primo, utrum timor sit passio animae.
-
-Secundo, utrum sit specialis passio.
-
-Tertio, utrum sit aliquis timor naturalis.
-
-Quarto, de speciebus timoris.
+- Secundo, utrum sit specialis passio.
+- Tertio, utrum sit aliquis timor naturalis.
+- Quarto, de speciebus timoris.

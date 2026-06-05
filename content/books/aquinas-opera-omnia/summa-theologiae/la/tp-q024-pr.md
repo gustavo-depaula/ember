@@ -1,9 +1,9 @@
-# Quaestio 24 — Deinde considerandum est de praedestinatione Christi. Et circa hoc quaeruntur quatuor.
+# Quaestio 24
 
-Primo, utrum sit praedestinatus.
+Deinde considerandum est de praedestinatione Christi. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum sit praedestinatus secundum quod homo.
+Primo, utrum sit praedestinatus.  
 
-Tertio, utrum eius praedestinatio sit exemplar praedestinationis nostrae.
-
-Quarto, utrum sit causa praedestinationis nostrae.
+- Secundo, utrum sit praedestinatus secundum quod homo.
+- Tertio, utrum eius praedestinatio sit exemplar praedestinationis nostrae.
+- Quarto, utrum sit causa praedestinationis nostrae.

@@ -1,13 +1,11 @@
-# Quaestio 104 — Deinde considerandum est de obedientia. Et circa hoc quaeruntur sex.
+# Quaestio 104
 
-Primo, utrum homo debeat homini obedire.
+***Deinde considerandum est de obedientia. Et circa hoc quaeruntur sex.***
 
-Secundo, utrum obedientia sit specialis virtus.
+Primo, utrum homo debeat homini obedire.  
 
-Tertio, de comparatione eius ad alias virtutes.
-
-Quarto, utrum Deo sit in omnibus obediendum.
-
-Quinto, utrum subditi suis praelatis teneantur in omnibus obedire.
-
-Sexto, utrum fideles teneantur saecularibus potestatibus obedire.
+- Secundo, utrum obedientia sit specialis virtus.
+- Tertio, de comparatione eius ad alias virtutes.
+- Quarto, utrum Deo sit in omnibus obediendum.
+- Quinto, utrum subditi suis praelatis teneantur in omnibus obedire.
+- Sexto, utrum fideles teneantur saecularibus potestatibus obedire.

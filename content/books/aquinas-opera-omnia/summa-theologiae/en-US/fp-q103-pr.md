@@ -1,19 +1,15 @@
-# Question 103 — (2) in particular, the effects of this government.
+# Question 103 — The Government of Things in General
 
-Under the first head there are eight points of inquiry:
+Having considered the creation of things and their distinction, we now consider in the third place the government thereof, and (1) the government of things in general; (2) in particular, the effects of this government.  
 
-(1) Whether the world is governed by someone?
+Under the first head there are eight points of inquiry:  
 
-(2) What is the end of this government?
+(1) Whether the world is governed by someone?  
 
-(3) Whether the world is governed by one?
-
-(4) Of the effects of this government?
-
-(5) Whether all things are subject to Divine government?
-
-(6) Whether all things are immediately governed by God?
-
-(7) Whether the Divine government is frustrated in anything?
-
-(8) Whether anything is contrary to the Divine Providence?
+- (2) What is the end of this government?
+- (3) Whether the world is governed by one?
+- (4) Of the effects of this government?
+- (5) Whether all things are subject to Divine government?
+- (6) Whether all things are immediately governed by God?
+- (7) Whether the Divine government is frustrated in anything?
+- (8) Whether anything is contrary to the Divine Providence?

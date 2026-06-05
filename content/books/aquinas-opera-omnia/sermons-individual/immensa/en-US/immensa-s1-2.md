@@ -1,3 +1,0 @@
-# Immensa.S1.2
-
-He is consumed entirely by the faithful, but he is in no way broken up, but rather, even though the sacramental sign is divided, he remains entire in each particle of division. For the accidents exist in it without material form in order that faith may have its place, when the visible is invisibly consumed, hidden in the form of another thing, and our senses, which judge events that happen to them, are restored safely from deception. For no sacrament is more salubrious than this, through which sins are purged, virtues are increased, and the soul is filled with an abundance of every spiritual gift. It is offered in the Church for the living and the dead, so that what was instituted for the salvation of all may benefit all.

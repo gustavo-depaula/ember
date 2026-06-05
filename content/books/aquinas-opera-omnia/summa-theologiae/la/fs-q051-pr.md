@@ -1,11 +1,11 @@
-# Quaestio 51 — Deinde considerandum est de causa habituum. Et primo, quantum ad generationem ipsorum; secundo, quantum ad augmentum; tertio, quantum ad diminutionem et corruptionem.
+# Quaestio 51
 
-Circa primum quaeruntur quatuor.
+***De causa habituum, quantum ad generationem ipsorum***
 
-Primo, utrum aliquis habitus sit a natura.
+Deinde considerandum est de causa habituum. Et primo, quantum ad generationem ipsorum; secundo, quantum ad augmentum; tertio, quantum ad diminutionem et corruptionem. Circa primum quaeruntur quatuor.  
 
-Secundo, utrum aliquis habitus ex actibus causetur.
+Primo, utrum aliquis habitus sit a natura.  
 
-Tertio, utrum per unum actum possit generari habitus.
-
-Quarto, utrum aliqui habitus sint in hominibus infusi a Deo.
+- Secundo, utrum aliquis habitus ex actibus causetur.
+- Tertio, utrum per unum actum possit generari habitus.
+- Quarto, utrum aliqui habitus sint in hominibus infusi a Deo.

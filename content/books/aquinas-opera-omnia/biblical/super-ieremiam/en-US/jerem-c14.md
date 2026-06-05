@@ -1,165 +1,151 @@
-# C. 14 - Jeremiah entreats God for mercy
+# C. 12 - God’s justice in punishing
+
+***God’s justice in punishing***
 
 ***Lecture 1***
 
-***Disaster of the drought***
+***Why do the wicked prosper?***
 
-***^14:1^ The word of the Lord which came to Jeremiah, concerning the words of the drought.Heb. עַל־דִּבְרֵ֖י הַבַּצָּרֹֽות: *concerning the matter of the drought*.***
+^12:1^ Indeed, you are just, O Lord, if I should contend with you: *(Heb. כִּ֥י אָרִ֖יב אֵלֶ֑יךָ: *when I strive with you*.)* yet I will speak what is just to you. *(Heb. אַ֤ךְ מִשְׁפָּטִים֙ אֲדַבֵּ֣ר אֹותָ֔ךְ: *yet I will speak of judgments with you*.)* Why does the way of the wicked prosper, and why does it go well for all who transgress, and deal unjustly? *(Heb. שָׁל֖וּ כָּל־בֹּ֥גְדֵי בָֽגֶד: *all who act treacherously are at ease*.)*  
 
-> ^14:2^ Judah has mourned, and her gates have fallen, and are darkened in the land, and the cry of Jerusalem is gone up.
+> ^12:2^ You planted them, and they sent out roots; they grow and bear fruit; you are close to their mouth, and far from their reins.
 
-> ^14:3^ The nobles have sent their inferiors to the water; they came to draw. They found no water; they brought their vessels back empty. They were confounded and afflicted, and covered their heads.
+> ^12:3^ And you, O Lord, have known me, you have seen me, and tested my heart with you. Gather them like a flock to the sacrifice, and sanctify them for the day of slaughter.
 
-> ^14:4^ Because of the devastation of the land, for the rain has not come upon the earth, the farmers are confounded; they have covered their heads.
+> ^12:4^ How long shall the earth mourn, and the herb of every field be dried up, because of the evil of those who dwell in them? The beast and the bird are consumed, for they said, ‘He shall not see our last end.’
 
-> ^14:5^ For the hind also has given birth in the field and left it, for there was no grass.
+> ^12:5^ If you have labored running with footmen, how shall you be able to contend with horses? Although you were secure in a land of peace, what will you do in the swelling of the Jordan?
 
-> ^14:6^ And the wild asses stood upon the rocks; they snuffed up the wind like dragons; their eyes failed because there was no grass.
+> ^12:6^ For both your brothers, and the house of your father, even they have fought against you, *(Heb. גַּם־הֵ֙מָּה֙ בָּ֣גְדוּ בָ֔ךְ: *even they have dealt treacherously with you*.)* and cried after you with a loud voice; do not believe them, when they speak good to you.
 
-> **88**. Here, the prophet begins to interpose his prayer to God on their behalf, that in some way they may obtain mercy, at least after some chastisements.
+> **81**. Here, the prophet discusses the justice of the one who punishes.
 
-It is divided into two parts.
+First, the argument of the prophet is considered.  
 
-In the first, he presents a certain discussion the prophet had with the Lord, so as to obtain this by entreaty;
+Second, the Lord’s response is considered, at ***I have left my house*** (Jer 12:7).  
 
-afterwards, in the second part, he sets forth the final determination: ***and the Lord said to me*** (Jer 15:1).
+Concerning the first, there are three points.  
 
-Concerning the first idea, there are two points.
+First, he strives to gain a kindly hearing for himself from the person of the judge: ***indeed, you are just, O Lord***. *You are just, O Lord, and righteous is your judgment* (Ps 118:37). And from the integrity of his case: ***yet I will speak what is just to you***. *I would speak to the Almighty, and I desire to contend with God* (Job 13:3). And so both of them take on the role of an opponent. But Habakkuk takes up the role of the respondent: *I will stand over my watch, and I will set my foot upon the rampart* (Hab 2:1).  
 
-In the first, he sets down the affliction of the people, which is the occasion of his prayer;
+Second, he sets forth the case with regard to the adversaries, and he points out their prosperity with regard to temporal abundance: ***why does the way***, the course, ***of the wicked***, because of their infidelity, ***who transgress***, by acting against the Law, ***and deal unjustly***, against their neighbor. *The tents of robbers abound, and they boldly provoke God, although it is he who has given everything into their hand* (Job 12:6). *I was jealous of the wicked, when I saw the peace of sinners* (Ps 72:3).  
 
-in the second, he places the prophet’s discussion with the Lord, at ***if our iniquities*** (Jer 14:7).
+And he sets forth the case with regard to the argument of prosperity: ***you planted***, in temporal goods; and he speaks by analogy of a tree: ***they sent out roots***, when their prosperity had been established; ***they grow***, as a tree grows, through the increase of prosperity; ***and bear fruit***, fulfilling in deed what they propose to do in their mind. *Why do the wicked live, raised on high, and strengthened with riches?* (Job 12:7). And he exposes their wickedness: ***you are close to their mouth, and far from their reins***, their affections—these two things together seem opposed to divine justice. *This people honors me with their lips, but their heart is far from me* (Isa 29:13). By which one may understand that for their imperfect good works they receive an imperfect recompense.  
 
-Concerning the first idea, there are two points.
+Moreover, he allows him to understand justice from his own perspective: ***and you, O Lord, have known***, from eternity; ***you have seen***, how I walk uprightly before you; and even though I say these things, I nonetheless do not experience in them an inducement to sin. ***Before I formed you in the womb, I knew you*** (Jer 1:5). He also allows him to understand correction: ***you have tested***—having been tried by hardship, I have been found to walk with you. *You have tried my heart, and visited me in the night; you have tested me with fire, and there was no iniquity found in me* (Ps 16:3).  
 
-First, he gives the title of the prophecy: this is ***the word***, of interior revelation, ***which came . . . concerning the words***, which are to be announced exteriorly, ***of the drought***, which came upon them when the captivity was imminent. Alternatively: ***concerning the words of the drought***, that is, concerning a drought worthy of words.
+Third, he shows the punishment by way of his prayer:  
 
-Second, the inconvenience of the drought follows:
+first, he prays for the infliction of punishment: ***gather them***—it is as though he were saying, “Because you are just, and it cannot be that you should not punish the wicked.” For this reason, you exalt them with success, just as one who fattens a flock for the slaughter. Therefore, ***gather them*** from that by which they were made fat and unjust, by which is signified that they were besieged at the time of Passover, when they had come into the city. ***Sanctify them***—he speaks by analogy of the animals who were being killed for sacrifice. *The sacrifice of the Lord in Bozrah, and a great slaughter in the land of Edom* (Isa 34:6).  
 
-first, with regard to the affliction of men, specifically the lack of drinking water, he speaks of their sadness: ***Judah has mourned***, afflicted with thirst. *The vintage has mourned, the vine is weakened, and all who were joyful in heart have sighed* (Isa 24:7). ***Gates***, the judges who used to sit in the gates, ***have fallen***, from their original joy; ***are darkened***, that is, are shrouded in the darkness of tribulation. *He has struck her gates to the ground; he has destroyed and broken her bars* (Lam 2:2).Heb. מִבְצְרֵ֥י בַת־יְהוּדָ֖ה הִגִּ֣יעַ לָאָ֑רֶץ חִלֵּ֥ל מַמְלָכָ֖ה וְשָׂרֶֽיהָ: *he has struck down the strongholds of Judah; he has polluted her princes*. Alternatively, because the walls were becoming loose due to excessive dryness, when the gates collapsed it was not possible to repair them because of the shortage of water. ***The cry***, of complaint and lament. *There shall be a cry for wine in the streets; all happiness, and joy has been taken away from the land* (Isa 24:11).
+And he excludes a deferral of the punishment, because it is time that they be punished in their own persons, not in their possessions, nor in what springs forth from the earth: ***how long shall the earth mourn?*** *I have turned rivers into a desert, and springs of water into dry ground; fruitful land into a field of salt, for the wickedness of those who dwell in it* (Ps 106:33–34). Or in their animals: ***the beast is consumed***. *The Lord has forsaken the land, and the Lord does not see* (Ezek 9:9).  
 
-And he gives the cause of the sadness: ***the nobles have sent their inferiors to the water***. *The poor and needy seek water, and there is none; their tongue has become dry with thirst* (Isa 41:17). And with regard to the bareness of the land, a blow against their possessions: ***they were confounded and afflicted, and covered their heads***, as a sign of shame. ***You shall be ashamed of your fruits, because of the wrath of the fury of the Lord*** (Jer 12:13).
+Second, as though having overheard it, he speaks of an insult against those who are to be punished:  
 
-And against their farmers: ***for the rain has not come***. *The farmers are confounded; the vinedressers have wailed, for the grain and the barley, for the harvest of the field has perished, the vineyard is confounded, and the fig tree has grown weak* (Joel 1:11).
+first, from the side of the enemy with regard to their power: ***if you have labored running with footmen, how shall you be able to contend with horses?*** It is as though he were saying, “If the neighboring peoples who fight on foot have given you much trouble, how will you be able to resist the Chaldeans and Egyptians who are mighty in horses?” *The snow shall rush upon them that fear the frost* (Job 6:16). And regarding the land of their captivity: ***although you were secure in a land of peace***, that is, even though you always had peace in your land, ***what will you do***, when you are across the Jordan, whose waters are swollen, because they are proud? *Let him who glories in his substance, fear poverty* (Sir 10:34).  
 
-Second, he speaks of the affliction of the forest animals: with regard to the deer: ***for the hind also has given birth in the field, and left it***; the deer is an animal which has much concern for the care of her offspring. *Have you known the time when the ibex give birth on the rocks, or have you seen the hinds bring forth young?* (Job 39:1).
+Second, with regard to those joined by blood, he recalls their former injustice: ***for both your brothers***, the Idumeans, ***and the house***, the Moabites and the Ammonites. *The sons of my mother fought against me* (Song 1:6). And he gives a word of caution: ***do not believe them, when they speak good to you***, as though wishing to be allied to you to resist the Chaldeans. ***Make bands and chains for yourself and put them on your neck, and send them to the king of Edom, and to the king of Moab*** (Jer 27:2–3). ***Each one guards himself from his neighbor, and has no confidence in any brother; because every brother shall surely supplant, and every friend shall walk deceitfully. And a man shall deride his brother, and they will not speak the truth*** (Jer 9:4–5).  
 
-And with regard to the wild asses: ***and the wild asses***, who, nevertheless, endure thirst for long periods. *The wild asses will wait in their thirst on the cliffs* (Ps 103:11), on which there is more wind; ***they snuffed up***, as relief from thirst, ***like dragons***, who snuff the wind because of thirst. ***As a wild ass accustomed to the wilderness, in his desire he has snuffed up the air of his love*** (Jer 2:24).
+Lecture 2  
 
-Lecture 2
+***The forsaken inheritance***
 
-***God’s refusal of prayers***
+^12:7^ I have left my house, I have forsaken my inheritance; I have given my beloved soul *(Heb. נָתַ֛תִּי אֶת־יְדִד֥וּת נַפְשִׁ֖י בְּכַ֥ף אֹיְבֶֽיהָ: *I have given the well-beloved of my soul into the hand of her enemy*.)* into the hands of her enemies.  
 
-***^14:7^ If our iniquities should testify against us, O Lord, act according to your name, for our turnings away are many; we have sinned against you.***
+> ^12:8^ My inheritance has become for me like a lion in the forest; she gave forth her voice against me, therefore have I hated her.
 
-> ^14:8^ The expectation of Israel, our savior in the time of trouble, why shall you be like a stranger in the land, and like a traveler turning aside to tarry the night?
+> ^12:9a^ Is my inheritance as a speckled bird to me? Is it as a bird dyed throughout? *(The sense of the Hebrew is somewhat different: *is my inheritance as a speckled bird of prey; are the birds of prey against her round about?*)*
 
-> ^14:9^ Why shall you be as a vagrant man, as a strong man who cannot save? But you, O Lord, are in our midst, and your name is called upon us; do not forsake us.
+> **82**. Here, he gives the Lord’s response.
 
-> ^14:10^ Thus says the Lord to this people, who loves to move their feet, and has not stood still, and has not pleased the Lord: now their iniquity shall be remembered, and their sins visited.
+First, he speaks of the threat of punishment.  
 
-> ^14:11^ And the Lord said to me: do not pray for the good of this people.
+Second, he speaks of the consolation of the punishment, at ***thus says the Lord*** (Jer 12:14).  
 
-> ^14:12^ Though they fast, I will not hear their prayers, and if they offer me holocausts and sacrifices, I will not accept them, for I shall consume them with the sword, and famine, and pestilence.
+Concerning the first, there are two points.  
 
-> **89**. Here, he begins to pray to God for the people.
+First, he threatens punishment with regard to the loss of divine assistance: ***I have left my house***, the temple, so that I may not defend, ***my inheritance***, the people of Israel. *My inheritance is Israel* (Isa 19:25). ***I will leave my people and depart from them. For they are all adulterers, an assembly of transgressors*** (Jer 9:2). And with regard to the oppression of the enemy: ***I have given my beloved***, that is, the Jews, whom I loved as my own soul.  
 
-First, he makes an argument for mercy from the divine nature;
+Second, he speaks of their guilt:  
 
-second, from the predictions of the prophets, at ***and I said: a, a, a*** (Jer 14:13);
+first, signifying the magnitude of their guilt: ***my inheritance***, the people, ***has become for me like a lion***, fierce to attack me. ***She gave forth her voice***, to blasphemy. *He lies in wait in secret, like a lion in his den* (Ps 9:30).  
 
-third, from the former love of the people, at ***have you utterly cast off Judah?*** (Jer 14:19).
+Second, he wonders at their inconstancy of mind: ***is my inheritance as a speckled bird to me?*** It is as though he were saying, “Sometimes they cleave to me, and sometimes to idols”; ***dyed***, with the uncleanness of sin, ***throughout***, because they are all evil. *How long will you waver between to opinions? If the Lord himself is God, follow him; but if Baal, follow him* (1 Kgs 18:21). Alternatively, the phrase could be sentiment. For do I not hold her as dearly as the beautiful birds of this kind, so that I will not cast her away in the end? So that the various colors then refer to beauty. *I have clothed you with many colors, and shod you with blue* (Ezek 16:10).  
 
-Concerning the first, there are two points.
+Alternatively, when he says, ***I have left my house***, these could be the words of the prophet who, in order to announce the word of God, exposed himself to mortal danger and, having left home and native land, had endured snares from his compatriots, who were like lions, diverse in their treachery and filled with malice. Mystically, they are the words of Christ, who is said to leave his home and native land in coming into the world, because he presented himself in the form of one leaving, when he hid his majesty in weakness. ***Inheritance***, his celestial homeland.  
 
-First, he gives the prophet’s speech, in which he proposes three things: trusting in mercy—***if our iniquities should testify against us***, for punishment. *Our iniquities are multiplied before you, and our sins bear witness against us* (Isa 59:12). *A help in tribulations which have found us too often* (Ps 45:2).
+Collations  
 
-Then he sets forth constancy: ***why shall you be like a stranger in the land?*** It is as if he were saying, “It is unworthy of your constancy to forsake your vineyard, as one who tills another’s field”; ***like a traveler***, you forsake your own house, as a traveler forsakes his night lodgings.
+***The wicked prosper*** (Jer 12:1) because of the loss of their inheritance. *Abraham gave all that he had to Isaac his son, but to the sons of the concubines he gave gifts* (Gen 25:5). Because of their imperfect remuneration: *amen I say to you, they have received their reward* (Matt 6:2). Because they are not worthy of divine correction: *my indignation shall rest upon you, and my zeal shall be taken from you* (Ezek 16:42). *I will not punish your daughters when they fornicate, or your wives when they commit adultery* (Hos 4:14). *If you are without discipline, of which you have all been made partakers, then you are illegitimate and not true sons* (Heb 12:8). Because of the hopelessness of their illness: *your wound is great like the sea. Who shall heal you?* (Lam 2:13). ***Your breach is incurable, your wound very grievous*** (Jer 30:12). Because of their dejection: *but for treachery you have put it to them, you have cast them down while they were being lifted up* (Ps 72:18). *(Heb. אַ֣ךְ בַּ֭חֲלָקֹות תָּשִׁ֣ית לָ֑מֹו הִ֝פַּלְתָּ֗ם לְמַשּׁוּאֹֽות: *surely you have set them in slippery places, made them fall to ruin*.)* *Because of this God handed them over to a reprobate mind, that they might do what is not fitting* (Rom 1:28).  
 
-***Why shall you be as a vagrant man***, abandoning your inheritance as a man who is vagrant and of indeterminate residency abandons his own dwelling place. ***I have left my house, I have forsaken my inheritance*** (Jer 12:7).
+Lecture 3  
 
-He also sets forth power: ***as a strong man who cannot save***; it is as though he were saying, “It is not fitting to your power that you should not save those whom once you took into your protection.” *The Egyptians will say, ‘He was not able to bring this people into the land for which he had sworn’* (Num 14:16); therefore, he killed them in the wilderness. And he sets forth the idea that their care is due to him: ***but you are in our midst***, as an inheritance, as it were, ***and your name***, just as subjects are defended by the name of the king. *I will dwell amongst them, and walk amongst them, and I will be their God, and they will be my people* (1 Cor 6:16). And he concludes: ***do not forsake us***, lest your constancy and power be blasphemed. *Do not forsake me, O Lord, nor despise me, O God of my salvation* (Ps 26:9).
+***The desolate vineyard***
 
-Second, he gives the Lord’s response: ***thus says the Lord***.
+^12:9b^ Come, gather together, all you beasts of the earth; make haste to devour. *(Heb. לְכ֗וּ אִסְפ֛וּ כָּל־חַיַּ֥ת הַשָּׂדֶ֖ה הֵתָ֥יוּ לְאָכְלָֽה: *go, gather all the wild beasts, bring them to devour*.)*  
 
-First, he exposes their guilt: ***who loves to move their feet***, the affections, because of inconstancy in the good and movement from evil to evil. *A wandering woman, impatient of quiet, her feet unable to stay at home* (Prov 7:11). Or because of sending to Egypt for help: *Egypt will help in vain, and to no purpose. Therefore, have I cried out concerning this: it is only pride; be still* (Isa 30:7).
+> ^12:10^ Many shepherds have torn down my vineyard, they have trampled my portion, they have made my pleasant field an empty wilderness.
 
-Second, he threatens punishment: ***now shall be remembered***, referring to punishment. *I shall visit their iniquities with a rod, and their sins with stripes* (Ps 88:32).
+> ^12:11^ They have made it a desolation, and it has mourned for me; the whole earth is desolate with desolation, because there is none who considers within his heart.
 
-Third, he excludes any remedy:
+> ^12:12^ The spoilers have come upon every way *(Heb. שְׁפָיִ֣ם: *bare places, heights*.)* of the desert, because the sword of the Lord shall devour from one end of the earth to the other, and there is no peace for all flesh.
 
-and first, of prayer: ***do not pray for the good of this people***. Above: ***therefore, you shall not pray for this people, neither take up praise, or prayer for them and do not stand against me, because I will not hear you*** (Jer 7:16).
+> **83**. Here, he threatens punishment in particular.
 
-Second, of fasting: ***though they fast***. *Why have we fasted, and you have not regarded; we have humbled ourselves, and you did not know* (Isa 58:3).
+First, he threatens the punishment of captivity.  
 
-Third, of sacrifice: ***if they offer***. *I have no pleasure in you, says the Lord of hosts, and I will accept no gift from your hand* (Mal 1:10).
+Second, he threatens the punishment of the sterility of the land, at ***they have sown wheat, and harvested thorns*** (Jer 12:13).  
 
-Lecture 3
+Concerning the first point, there are three things.  
 
-***Destruction of false prophets***
+First, he determines the punishment, describing the magnitude of the slain: ***to devour***, the multitude of dead bodies. *Thus says the Lord God: speak to every fowl and every bird, and to all the beasts of the field: assemble together and make haste; run together from every side to my sacrifice, which I offer for you—a great sacrifice on the mountains of Israel, that you may eat flesh and drink blood. You shall eat the flesh of the strong and drink the blood of the princes of the earth* (Ezek 39:17–18).  
 
-***^14:13^ And I said: a, a, a, O Lord God. The prophets say to them, ‘You shall not see the sword, and there will be no famine among you, but he will give you true peace in this place.’***
+Then he describes the affliction of the enemy with regard to the slain: ***many shepherds***, that is, the princes of the Chaldeans. ***Shepherds and their flocks shall come to her*** (Jer 6:3). ***Vineyard***: the house of Israel. *For the vineyard of the Lord is the house of Israel* (Isa 5:7). Alternatively, ***shepherds***, the princes of the people, ***have torn down***, by slaughter. And with regard to those oppressed by slavery and captivity: ***they have trampled***. *I will take away its hedge, and it will be destroyed* (Isa 5:5). And the desolation of the land: ***they have made my field . . . and it has mourned for me*** (Jer 12:10–11) albeit too late. *And she will say: I will go, and return to my first husband, because it was better for me then than now* (Hos 2:7).  
 
-> ^14:14^ And the Lord said to me: the prophets have prophesied falsely in my name. I have not sent them, and I have not commanded them, neither have I spoken to them. They prophesy to you a lying vision, divination, deception, and the seduction of their own heart.
+Second, he speaks of the cause of their punishment: ***the whole earth is desolate with desolation, because there is none who considers***, the commands of God and his benefits. *For this my people is led captive, because they had no knowledge* (Isa 5:13).  
 
-> ^14:15^ Therefore, thus says the Lord concerning the prophets, whom I have not sent, who prophecy in my name, saying, ‘There shall be no sword or famine in the land.’ These prophets shall be consumed by sword and famine.
+Third, he gives the measure of the punishment.  
 
-> ^14:16^ And the people to whom they prophecy will be cast out in the streets of Jerusalem because of famine and the sword, and there will be none to bury them, they and their wives, their sons and daughters; and I shall pour out this evil upon them.
+First, he shows the multitude of the enemy: ***upon every way***—it is as though he were saying, “They fill all the roads,” ***of the desert***, which is between Jerusalem and Babylon. ***A burning wind is on the roads, which are in the desert of the way of the daughter of my people, not to winnow, or to cleanse*** (Jer 4:11).  
 
-> ^14:17^ And you shall speak this word to them: let my eyes stream down tears by night and by day, and not be silent, for with a terrible destruction is the virgin daughter of my people destroyed, by an exceedingly great blow.
+Second, he shows the multitude of the slain: ***because the sword***, either of illness or even of the Chaldeans. *My sword shall devour flesh* (Deut 32:42).  
 
-> ^14:18^ If I go out to the fields, behold those killed by the sword; and if I go into the city, behold those wasted by famine. The prophet also and the priest have gone away to a land they knew not.
+Third, he shows the lack of consolation: ***there is no peace***; it is as though he were saying, “No one will be exempt.” *There is no peace for the wicked says the Lord God* (Isa 48:22).  
 
-> **90**. Here, he takes up his argument from the predictions of the prophets.
+Lecture 4  
 
-First, he gives the intercession of the prophet: ***a, a, a***, for the threefold punishment he had just mentioned. ***The prophets***, false prophets; ***true peace***, lasting and unfeigned on the part of the enemy. ***Why have you deceived this people and Jerusalem, saying, ‘You shall have peace? And behold the sword has come even unto the soul’*** (Jer 4:10).
+***Punishment of sterility***
 
-Second, he gives the Lord’s response: ***and the Lord said***.
+^12:13^ They have sown wheat, and harvested thorns; they have received an inheritance, and it did not profit them. *(Heb. נֶחְל֖וּ לֹ֣א יֹועִ֑לוּ: *they have tired themselves, but they have not profited*.)* You shall be ashamed of your fruits, because of the wrath of the fury of the Lord.  
 
-First, he shows the falseness of the prophets with regard to the actions they take: ***I have not sent***, to perform anything; ***I have not commanded***, by enjoining a duty upon them; ***neither have I spoken***, by inspiring the gift of prophecy. ***I did not send prophets, yet they ran; I did not speak to them, yet they prophesied*** (Jer 23:21). And with regard to the peace which they predicted: ***a lying vision . . . the seduction of their own heart***, that is, words thought out to lead others astray. *They see vain things, and divine a lie, saying, ‘The Lord has spoken’ when the Lord did not send them* (Ezek 13:6).
+> **84**. Here, he threatens the punishment of sterility.
 
-Second, he threatens a punishment as much for the prophets who preach as for the people who believe: ***therefore, thus says the Lord***. *There will be those who bless this people and lead them astray, and those who are blessed will be cast down headlong* (Isa 9:16).
+First, the futility of the seed: ***they have sown***—it is as though he were saying, “The seeds will be corrupted.” *Did you not sow good seed in your field* (Matt 13:27). *I waited for it to produce grapes, and it brought forth wild grapes* (Isa 5:4).  
 
-Third, the compassion of the prophet is made known to the people: ***and you shall speak to them: let my*** (or ***your***) ***eyes stream down tears***. And in this manner the lament of repentance is made known. *Stream down tears like a torrent* (Lam 2:18). The reason for this is given: ***for with destruction***, because of the multitude of the slain; ***terrible***, because of their incorrigibility; ***exceedingly***, because of its duration. *I shall break them small, as a clay jar is broken with a mighty destruction* (Isa 30:14).Thomas Aquinas here alters the subject and voice of the quotation.
+Second, the loss of their inheritance: ***they have received an inheritance, and it did not profit them***, because it was stolen by the enemy. *Our inheritance has been turned over to strangers* (Lam 5:2).  
 
-And he gives the manner of their destruction with regard to the punishment of slaughter: ***if I go out***, of doors, ***and if I go into***, by consideration. *Without, he shall slay them with the sword, and within, fear*—*the young man together with the virgin, the nursing mother, and the old man* (Deut 32:25). With regard to the captivity: ***the prophet also***. Above: ***I will scatter them among the nations, which they have not known, neither they nor their fathers*** (Jer 9:16).
+Third, he infers shame: ***you shall be ashamed***, because of the failing of your crops. *The vintage has mourned, the vine is weakened, and all who were joyful in heart have sighed* (Isa 24:7).  
 
-Lecture 4
+Lecture 5  
 
-***Jeremiah’s prayer for Israel***
+***Mercy after punishment***
 
-***^14:19^ Have you utterly cast off Judah, or has your soul detested Zion? Why have you struck us so that there is no healing? We have waited for peace, and there is no good; a time of healing, and behold, trouble.***
+^12:14^ Thus says the Lord against all my wicked neighbors who touch the inheritance which I distributed to my people Israel: behold, I shall uproot them from their land, and I shall uproot the house of Judah from their midst.  
 
-> ^14:20^ We have acknowledged our wickedness, O Lord, and the iniquities of our fathers, for we have sinned against you.
+> ^12:15^ And when I have uprooted them, I will turn and have mercy upon them, and bring them back; a man to his inheritance, and a man to his own land.
 
-> ^14:21^ Do not make us a reproach, because of your name, neither disgrace in us the throne of your glory; remember, and do not break your covenant with us.
+> ^12:16^ And it shall be, if they will diligently learn the ways of my people, so that they swear by my name: ‘As the Lord lives!’ As they taught my people to swear by Baal, then they shall be built up in the midst of my people.
 
-> ^14:22^ For are there among the idols of the nations any who make rain, or can the heavens give showers, unless you will it? Are you not the Lord our God, for whom we wait? For you have made all these things.
+> ^12:17^ But, if they will not hear, I shall uproot that nation with utter destruction and ruin, says the Lord.
 
-> **91**. He takes up his argument from the former love of the people: concerning this, there are three things.
+> **85**. Here, he speaks of the consolation that will arise from the punishment of the enemy; and concerning this three things.
 
-First, he wonders at the rejection of the beloved people, astonished at the hatred: ***have you utterly cast off Judah?*** It is as though he were saying, “It seems astonishing.” *But you have utterly cast us off, you are exceedingly angry with us* (Lam 5:22). ***So that there is no healing***. *With an incurable wound, subjecting the nations in anger* (Isa 14:6).
+First, he speaks of their removal to another country: ***who touch the inheritance***, by harming it. *He who touches you is like one who touches the apple of my eye* (Zech 2:8). ***See*, *I have established you this day over nations and over kingdoms, so that you may root up and pull down, lay waste and scatter, build and plant*** (Jer 1:10).  
 
-Second, he speaks of the recognition of the punishment: ***we have waited***. Above: ***we waited for peace, and there was no good; a time of healing, and behold, fear*** (Jer 8:15).
+Second, their deportation: ***and when I have uprooted**, I will bring you back from the nations* (Ezek 36:24).  
 
-And of guilt: ***we have acknowledged***. *I have acknowledged my iniquity, and my sin is ever before me* (Ps 50:3).
+Third, he speaks of their instruction, by the promise of good things if they do well: ***and it shall be, if they will diligently learn the ways of my people . . . they shall be built up***; it is as though he were saying, “They shall be reckoned among my people,” because it pertains to conversion. And the threat of punishments: ***but, if they will not hear, I shall uproot that nation with utter destruction and ruin***, that is, eternal ruin. *If you are willing and will obey me, you shall eat the good things of the earth* (Isa 1:19).  
 
-Third, their petition is given: ***do not make us***. *You have made us a reproach to our neighbors, a mockery and a derision to those around us* (Ps 43:14).
+Collations  
 
-Fourth, the motive for the petition from the sanctity of the temple: ***the throne of your glory***, of the mercy seat and of the ark, by which you showed your glory with miracles and revelations. ***The throne of the glory of the height from the beginning is the place of our sanctification***. ***The expectation of Israel*** (Jer 17:12–13).
-
-And from the weakness of idols: ***for are there among the idols of the nations any who make rain, or can the heavens give showers***, by themselves as primary causes? *Who is the father of rain, or who has begotten the drops of the dew* (Job 38:28). From the power of God: ***are you not the Lord our God? You have made these things***, the rains, and everything of this sort. ***At his word, he gives an abundance of waters in heaven, and raises the clouds from the ends of the earth*** (Jer 10:13).
-
-Collations
-
-***It is to be noted that some ***peace*** (Jer 14:13) is false: *living in a great war of ignorance, they call so many and such great evils peace* (Wis 14:22). Some are fraudulent: *they speak peace with their neighbor, but evil is in their hearts* (Ps 27:3). Some transitory: *for when they say peace and security, then destruction comes suddenly upon them* (1 Thess 5:3).***
-
-It should also be noted that a ***throne*** (Jer 14:21) may be understood mystically in three ways.
-
-One is as the throne of glory, and this in four ways. Manifestly with regard to the loftiness of its nature: *I saw the Lord sitting upon a throne high and lifted up, and the whole earth was full of his majesty* (Isa 6:1); with regard to the serenity of peace: ***they will call Jerusalem the throne of the Lord; and all nations shall be gathered together in her in the name of the Lord in Jerusalem*** (Jer 3:17); with regard to the depth of knowledge: *and I looked, and behold, in the firmament, which was above the head of the cherubim, something like a sapphire stone, as the appearance of the likeness of a throne over it* (Ezek 10:1); with regard to its eternal permanence: *but you, O Lord, will remain forever, your throne from generation to generation* (Lam 5:19).
-
-Another is as the throne of mercy, preparing for obedience to God: *I shall fix that stake in a sure place, and it shall be as a throne of glory for the house of his father; and I shall hang all the glory of his father upon it* (Isa 22:23); for the sentence of justice: *by justice shall the throne of the king be established* (Prov 16:12); for mercy to one’s neighbors: *and his throne shall be prepared in mercy, and he shall sit upon it in truth in the tent of David* (Isa 16:5); for the grace of humility: *the place of my throne, and the place of my footsteps, where I dwell in the midst of the sons of Israel forever* (Ezek 43:7).
-
-Another is as the throne of justice, preparing for judgment: *who shall grant me to know, that I may find it, and come even to his throne* (Job 23:3); for the correction of evil: *the king, who sits upon the throne of judgment, shall scatter every evil thing with his gaze* (Ps 20:8); to condemn the incorrigible: *I saw the Lord upon his throne, and the whole host of heaven standing by at his right and at his left* (1 Kgs 22:19); to defend the good: *he shall sit upon the throne of David, and upon his kingdom to establish it, and to strengthen it in judgment, and justice, from henceforth and forever* (Isa 9:7).
-
-Chapter 15
+Note that the rulers ***destroy*** (Jer 12:10) *(In Jeremiah 12:10, the Latin has the verb, *demoliri*, rather than *destruere*, but the meaning is synonymous.)* the people through the perversity of their works: ***for the shepherds have done foolishly, and have not sought the Lord; therefore, they have not understood, and their whole flock is scattered*** (Jer 10:21); because of the falseness of their doctrine: ***m**y people have been a lost flock, their shepherds led them astray, and have made them wander in the mountains*** (Jer 50:6); because of the timidity of fear: *O shepherd, and idol that forsakes the flock; the sword is upon his arm and upon his right eye* (Zech 11:17); because of the austerity of their rule: *you commanded with austerity and with power, and my sheep are scattered* (Ezek 34:4–5); because of a slackening of care: *I will raise up a shepherd in the land who will not visit the forsaken, nor seek the lost, nor heal the wounded, nor nourish what stands, but he shall eat the flesh of the fat, and break their hooves* (Zech 11:16).

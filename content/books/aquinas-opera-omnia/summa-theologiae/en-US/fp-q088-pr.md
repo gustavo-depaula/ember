@@ -1,7 +1,8 @@
-# Question 88 — We must now consider how the human soul knows what is above itself, viz. immaterial substances. Under this head there are three points of inquiry:
+# Question 88 — How the Human Soul Knows What is Above Itself
 
-(1) Whether the human soul in the present state of life can understand the immaterial substances called angels, in themselves?
+We must now consider how the human soul knows what is above itself, viz. immaterial substances. Under this head there are three points of inquiry:  
 
-(2) Whether it can arrive at the knowledge thereof by the knowledge of material things?
+(1) Whether the human soul in the present state of life can understand the immaterial substances called angels, in themselves?  
 
-(3) Whether God is the first object of our knowledge?
+- (2) Whether it can arrive at the knowledge thereof by the knowledge of material things?
+- (3) Whether God is the first object of our knowledge?

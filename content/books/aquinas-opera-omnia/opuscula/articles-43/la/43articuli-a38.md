@@ -1,5 +1,0 @@
-# Articulus 38
-
-De hoc ita dicit Augustinus in libro de divinatione Daemonum: *hominum dispositiones non solum voce prolatas, sed et cogitatione conceptas Daemones consignant; quae cum ex anima exprimuntur in corpore, tota facilitate perdiscunt*; et in libro II Retractationum c. XXX dicit: *pervenire ista ad notitiam Daemonum, per nonnulla experimenta compertum est. Verum signa quaedam dantur ex corpore cogitantium, illis sensibilia, nos autem latentia. An autem alia in speciali cognoscant, aut difficillime potest ab hominibus, aut omnino non potest inveniri*. Ex quibus patet quod Daemones cogitatione cordium cognoscere possunt quae per aliquos corporis motus manifestantur. Nec hoc est mirum, cum etiam subtiles medici per pulsum deprehendant interiores animae passiones; et dicitur Eccli. XIX, 26: *ex visu cognoscitur vir, et ab occursu faciei cognoscitur sensatus*.
-
-Articulus 39

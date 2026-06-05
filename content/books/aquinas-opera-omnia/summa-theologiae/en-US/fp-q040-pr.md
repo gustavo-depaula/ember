@@ -1,9 +1,9 @@
-# Question 40 — We now consider the persons in connection with the relations, or properties; and there are four points of inquiry:
+# Question 40 — Persons Compared to Relations or Properties
 
-(1) Whether relation is the same as person?
+We now consider the persons in connection with the relations, or properties; and there are four points of inquiry:  
 
-(2) Whether the relations distinguish and constitute the persons?
+(1) Whether relation is the same as person?  
 
-(3) Whether mental abstraction of the relations from the persons leaves the hypostases distinct?
-
-(4) Whether the relations, according to our mode of understanding, presuppose the acts of the persons, or contrariwise?
+- (2) Whether the relations distinguish and constitute the persons?
+- (3) Whether mental abstraction of the relations from the persons leaves the hypostases distinct?
+- (4) Whether the relations, according to our mode of understanding, presuppose the acts of the persons, or contrariwise?

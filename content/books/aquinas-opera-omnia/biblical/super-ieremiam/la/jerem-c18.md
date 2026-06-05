@@ -1,161 +1,119 @@
-# C. 18 - The potter’s clay
+# C. 16 - Jeremiah separated from the people
 
-***^18:1^ Verbum quod factum est ad Jeremiam a Domino, dicens:***
+***Lectio 1***
 
-> ^18:2^ surge et descende in domum figuli, et ibi audies verba mea.
+***^16:1^ Et factum est verbum Domini ad me, dicens:***
 
-> ^18:3^ Et descendi in domum figuli, et ecce ipse faciebat opus super rotam,
+> ^16:2^ non accipies uxorem, et non erunt tibi filii, et filiae in loco isto.
 
-> ^18:4^ et dissipatum est vas quod ipse faciebat e luto manibus suis. Conversusque fecit illud vas alterum, sicut placuerat in oculis ejus ut faceret.
+> ^16:3^ Quia haec dicit Dominus super filios, et filias, qui generantur in loco isto, et super matres eorum, quae genuerunt eos, et super patres eorum, de quorum stirpe sunt nati in terra hac:
 
-> ^18:5^ Et factum est verbum Domini ad me, dicens:
+> ^16:4^ mortibus aegrotationum morientur. Non plangentur, et non sepelientur; in sterquilinium super faciem terrae erunt. Et gladio, et fame consumentur, et erit cadaver eorum in escam volatilibus caeli, et bestiis terrae.
 
-> ^18:6^ numquid sicut figulus iste non potero vobis facere, domus Israel? ait Dominus. Ecce sicut lutum in manu figuli, sic vos, domus Israel, in manu mea.
+> ^16:5^ Haec enim dicit Dominus: ne ingrediaris domum convivii, neque vadas ad plangendum, neque consoleris eos: quia abstuli pacem meam a populo isto, dicit Dominus, misericordiam et miserationes.
 
-> **103**. Hic ostendit obstinationem ipsius populi quasi per experimentum:
+> ^16:6^ Et morientur grandes, et parvi in terra ista, non sepelientur, neque plangentur, et non se incident, neque calvitium fiet pro eis.
 
-et primo quia contemnunt praedicationem;
+> ^16:7^ Et non frangent inter eos lugenti panem ad consolandum super mortuo; et non dabunt eis potum calicis ad consolandum super patre suo et matre.
 
-secundo quia persequuntur praedicatorem, ibi, ***et dixerunt: venite, et cogitemus contra Jeremiam cogitationes***.
+> ^16:8^ Et domum convivii non ingrediaris, ut sedeas cum eis, et comedas, et bibas:
 
-Circa primum duo.
+> ^16:9^ quia haec dicit Dominus exercituum Deus Israel: ecce ego auferam de loco isto in oculis vestris, et in diebus vestris vocem gaudii, et vocem laetitiae, vocem sponsi, et vocem sponsae.
 
-Primo ponitur praedicatio revocans eos ad poenitentiam;
+> **97**. Hic interdicit Dominus prophetae, damnati populi consortium:
 
-secundo ponitur contemnentium desperatio, ibi, ***qui dixerunt: desperavimus: post cogitationes enim nostras ibimus***.
+et primo ponit sententiam;  
 
-Circa primum duo.
+secundo assignat causam, ibi, ***et cum annuntiaveris*** etc.  
 
-Primo designat Dominus prophetae revelationis locum: ***in domum figuli***, ut ex ipsius operis similitudine prophetia sumeretur: in quo significatur quod descendenti in considerationem suae infirmitatis, verba Domini revelantur. Prov. 3: *cum simplicibus sermocinatio ejus*.
+Circa primum duo.  
 
-***Descendi***, accessi in inferiorem partem civitatis, ubi hujusmodi artifices morabantur.
+Primo interdicit sibi consortium matrimonialis conjugii, ponens jussionem: ***non accipies uxorem***. 1 Cor. 7: *solutus est ab uxore? Noli quaerere uxorem*.  
 
-Secundo ponitur revelatum verbum.
+Et assignans rationem ex universitate punitorum, quia nulli aetati, nulli parcetur sexui: ***quia haec dicit Dominus super filios et filias***. Infra 51: ***collidam in te virum, et mulierem, et collidam in te senem, et puerum, et collidam in te juvenem, et virginem***.  
 
-Et primo ponit similitudinem;
+Ex diversitate poenarum, comminans mortem ex causa interiori, ***mortibus aegrotationum***, pestilentia scilicet, et diuturnis languoribus. Et adjungit congruam sepulturam: ***non plangentur***. 1 Cor. 11: *ideo inter vos multi infirmi et imbecilles, et dormiunt multi*. Infra 25: ***non plangentur, et non colligentur, neque sepelientur; in sterquilinium super faciem terrae jacebunt***. Ex causa exteriori: ***et gladio***, ex insultu hostium, ***fame***, ex defectu necessariorum. Et adjungit congruam sepulturam: ***et erint cadaver eorum in escam volatilibus caeli***. Supra 14: ***erunt projecti in viis prae fame, et gladio, et non erit qui sepeliat eos, ipsi, et uxores eorum, filii, et filiae eorum***.  
 
-secundo ex similitudine sumit rationem, ibi, ***repente loquar adversus gentem***.
+Secundo interdicit consortium socialis convivii: ***haec enim dicit Dominus***.  
 
-Circa primum duo.
+Et primo interdicit convivium tristitiae, quod in consolationem pro mortuis fieri solet: ubi ponitur prohibitio, ***ne ingrediaris***, neque plangens, neque sicut consolans.  
 
-Primo ponitur factum figuli, unde similitudo sumitur, ponens vasis destructionem: ***et ecce ipse faciebat opus super rotam***, Eccl. 58: *figulus sedens ad opus suum, et convertens pedibus suis rotam, qui in solicitudine positus est semper propter opus suum, et innumera est omnis operatio ejus*.
+Secundo assignatur ratio ex ablatione pacis: ***quia abstuli pacem meam***, quam scilicet ad eos habebam, indignatus eis: vel quam, me auctore, ad invicem, et ad alios habebant. Isa. 57: *non est pax impiis, dicit Dominus*.  
 
-Et destructi vasis restaurationem: ***conversusque fecit illud vas alterum***. Sapien. 15: *figulus mollem terram premens, laboriose fingit ad usus nostros unumquodque vas, et de eodem luto fingit quae munda sunt in usum vasa, et similiter quae his sunt contraria*.
+Ex comminatione mortis, ***morientur***. Job 3: *parvus et magnus ibi sunt: et servus liber a Domino suo*. Ex cessatione officiosi funeris, quia carebunt obsequio sepulturae, ***non sepelientur***. Supra 8: ***non colligentur, et non sepelientur; in sterquilinium super faciem terrae erunt***. Planctum etiam familiae: ***neque plangentur neque se incident***, vulnerantes, quod Judaeis prohibitum est. Deuter. 14: *non vos incidetis, nec facietis calvitium super mortuo*. Sed Job tonso capite cadens in terram etc. (Job 1), non peccavit, quia gentilis erat.  
 
-Secundo ponit similitudinis adaptationem: ***et factum est verbum Domini ad me***.
+Carebunt etiam convivio parentelae, quod a consanguineis lugentibus fieri solet: ***et non frangent***. Prov. ult.: *date siceram moerentibus, et vinum his qui amaro sunt animo. Bibant, et obliviscantur egestatis suae, et doloris sui non recordentur amplius*.  
 
-Et primo ponitur quaestio: ***numquid sicut figulus iste non potero vobis facere, domos Israel?*** Isa. 64: *et nunc Domine, pater noster est tu, nos vero lutum; et fictor noster tu, et opera manum tuarum omnes nos*.
+Secundo interdicit convivium laetitiae.  
 
-Secundo responsio: ***ecce sicut lutum***: Sapien. 7: *in manu ipsius et nos, et sermones nostri, et omnis sapientia, et operum scientiae disciplina*.
+Et primo ponitur prohibitio: ***et domum convivii non ingrediaris***, neque propter societatem, neque propter comestionem. 1 Cor. 5: *si is qui frater nominatur inter vos, est fornicator, avarus, aut idolis serviens, aut maledicus, aut rapax; cum hujusmodi nec cibum sumere*.  
 
-Lectio 2
+Secundo ponitur ratio: ***quia haec dicit Dominus***. Thren. ult.: *defecit gaudium cordis nostri, versus est in luctum chorus noster*. Infra 25, idem.  
 
-***^18:7^ Repente loquar adversum gentem, et adversus regnum, ut eradicem, et destruam, et disperdam illud.***
+Lectio 2  
 
-> ^18:8^ Si poenitentiam egerit gens illa a malo suo quod locutus sum adversus eam agam et ego poenitentiam super malo quod cogitavi ut facerem ei.
+^16:10^ Et cum annuntiaveris populo huic omnia verba haec, et dixerint tibi: quare locutus est Dominus super nos omne malum grande istud? quae iniquitas nostra, aut quod peccatum nostrum, quod peccavimus Domino Deo nostro?  
 
-> ^18:9^ Et subito loquar de gente et de regno, ut aedificem, et plantem illud.
+> ^16:11^ dices ad eos: quia dereliquerunt me patres vestri, ait Dominus, et abierunt post deos alienos, et servierunt eis, et adoraverunt eos, et me dereliquerunt, et legem meam non custodierunt.
 
-> ^18:10^ Si fecerit malum in oculis meis, ut non audiat vocem meam, poenitentiam agam super bono quod locutus sum ut facerem ei.
+> ^16:12^ Sed et vos pejus operati estis, quam patres vestri. Ecce enim ambulat unusquisque post pravitatem cordis sui mali, ut me non audiat.
 
-> ^18:11^ Nunc ergo dic viro Juda, et habitatori Jerusalem, dicens: haec dicit Dominus: ecce ego fingo contra vos malum, et cogito contra vos cogitationem. Revertatur unusquisque a via sua mala, et dirigite vias vestras, et studia vestra.
+> ^16:13^ Et ejiciam vos de terra hac in terram quam ignoratis vos, et patres vestri, et servietis ibi diis alienis die ac nocte, qui non dabunt vobis requiem.
 
-> **104**. Hic sumit rationem ex praedicta similitudine.
+> ^16:14^ Propterea ecce dies veniunt, dicit Dominus, et non dicetur ultra: vivit Dominus, qui eduxit filios Israel de terra Aegypti;
 
-Sed objicitur contra id quod dicitur hic, illud quod habetur Num. 23: *non est Deus ut homo ut mentiatur, neque ut filius hominis ut mutetur*. Sed hoc non potest esse sine mendacio, quod aliquis dicat futurum quod non eveniat, neque sine mutatione, si poenitentiam agat. Ergo et cetera.
+> ^16:15^ sed: vivit Dominus, qui eduxit filios Israel de terra aquilonis, et de universis terris ad quas ejeci eos; et reducam eos in terram suam, quam dedi patribus eorum.
 
-Ad quod dicendum quod est duplex prophetia secundum Hieronymum in Glossa super Matth. cap. 1, scilicet praedestinationis in his quae non dependent ex libero arbitrio, sed tantum ex Dei dispositione, quae immutabilis est; et ideo hanc necesse est omnibus modis evenire. Alia est praescientiae de his etiam quae libero arbitrio non subjacent, sed procedunt a Deo secundum quod Deus praescit finaliter eventum uniuscujusque rei. Et sic etiam sententia divina non mutatur, facta mutatione in homine, sed non in Deo. Et ideo poenitentia accipitur non secundum mutationem divinae dispositionis, sed divinae sententiae prolatae secundum causas inferiores. Et ideo dicit, ***repente***, ***et subito***, loquens de Deo ad similitudinem hominis: dicitur enim aliquis repente loqui, quando sine praemeditatione loquitur. Hoc autem convenit quando tantum ad praesens, omissa futuri consideratione, respicit.
+> ^16:16^ Ecce ego mittam piscatores multos, dicit Dominus, et piscabuntur eos. Et post haec mittam eis multos venatores, et venabuntur eos de omni monte et de omni colle, et de cavernis petrarum:
 
-Circa hoc ergo duo facit.
+> ^16:17^ quia oculi mei super omnes *(The Sixto-Clementine Vulgate omits *omnes*.)* vias eorum. Non sunt absconditae a facie mea, et non fuit occultata iniquitas eorum ab oculis meis.
 
-Primo ponit divinae sententiae revocabilitatem in malis, ponens sententiae pronuntiationem, ***ut eradicem***, auferendo omnem firmitatem. Supra 1: ***constitui te hodie super gentes, et super regna, ut evellas, et destruas, et disperdas, et dissipes, et aedifices, et plantes***.
+> ^16:18^ Et reddam primum duplices iniquitates, et peccata eorum, quia contaminaverunt terram meam in morticinis idolorum suorum et abominationibus suis impleverunt haereditatem meam.
 
-Et sententiae revocationem: ***si poenitentiam egerit gens illa a malo suo . . . agam et ego poenitentiam***. Oseae 11: *conversum est in me cor meum, pariter conturbata est paenitudo mea*.
+> ^16:19^ Domine, fortitudo mea, et robur meum, et refugium meum in die tribulationis: ad te gentes venient ab extremis terrae, et dicent: vere mendacium possederunt patres nostri, vanitatem, quae eis non profuit.
 
-Et in bonis, ponens sententiae promulgationem, ***et subito***. Job 22: *si reversus fueris ad Omnipotentem, aedificaberis, et longe facies iniquitatem a tabernaculo tuo*.
+> ^16:20^ Numquid faciet sibi homo deos? Et ipsi non sunt dii.
 
-Et revocationem, si fecerit malum. Ezech. 18: *si averterit se justus a justitia sua, et fecerit iniquitatem juxta omnes abominationes quas operari solet impius numquid vivet? Omnes justitiae ejus quas fecerat, non recordabuntur: in praevaricatione qua praevaricatus est, et in peccato suo quod peccavit, in ipsis morietur*.
+> ^16:21^ Idcirco ecce ego ostendam eis per vicem hanc, ostendam eis manum meam, et virtutem meam; et scient quia nomen mihi Dominus.
 
-Secundo inducit cognitionem:
+> **98**. Hic assignatur causa praedictae poenae:
 
-et primo proponit excogitatam poenam: ***nunc ergo dic viro Juda . . . haec dicit Dominus, ecce ego fingo***, sicut figulus, ***malum***, poenae. Isa. 45: *ego Dominus faciens pacem, et creans malum*.
+et primo ponitur quaestio: ***quare locutus est Dominus super nos omne malum grande istud?*** Prover. 30: *talis est via mulieris adulterae, quae comedit, et tergens os suum dicit: non sum operata malum*.  
 
-Secundo concludit poenitentiam: ***revertatur unusquisque a via sua mala, et vias***, opera, ***studia***, cogitationes, ***dirigite***, recta facite. Ezech. 33: *convertimini a viis vestris pessimis*.
+Secundo ponitur Domini responsio: ***dices ad eos***.  
 
-Lectio 3
+Et primo ponit culpam in transgressione patrum: ***quia dereliquerunt***. Supra 2: ***me dereliquerunt fontem, aquae vivae, et foderunt sibi cisternas dissipatas, quae continere non valent aquas***.  
 
-***^18:12^ Qui dixerunt: desperavimus: post cogitationes enim nostras ibimus, et unusquisque pravitatem cordis sui mali faciemus.***
+In imitatione filiorum, ne possent se excusare per id quod dicitur Ezech. 18: *patres comederunt uvam acerbam, et dentes filiorum obstupuerunt. **Sed et vos pejus operati estis***. Matth. 23: *implete mensuram patrum vestrorum*.  
 
-> ^18:13^ Ideo haec dicit Dominus: interrogate gentes. Quis audivit talia horribilia, quae fecit nimis virgo Israel?
+Secundo comminatur poenam:  
 
-> ^18:14^ Numquid deficiet de petra agri nix Libani, aut evelli possunt aquae erumpentes frigidae, et defluentes?
+et primo ponit poenae comminationem quantum ad captivitatem: ***et ejiciam vos***; et quantum ad servitutem: ***et servietis diis***, serviendo eorum cultoribus. Thren. 1: *migravit Judas propter afflictionem, et multitudinem servitutis; habitavit inter gentes, nec invenit requiem*. Deut. 28: *in gentibus quoque illis non quiesces, neque erit requies vestigio pedis tui*.  
 
-> ^18:15^ Quia oblitus est mei populus meus, frustra libantes, et impingentes in viis suis, et in semitis saeculi, ut ambularent per eas in itinere non trito,
+Secundo promittit consolationem, ponens juramentum quasi signum: ***propterea ecce dies***; quasi dicat: hoc majus beneficium reputabitis, quam quod liberati estis de Aegypto; et illius quasi obliti, hoc semper in memoriam habebitis. Isa. 43: *ne memineritis priorum, et antiqua ne intueamini*. Infra 23, idem.  
 
-> ^18:16^ ut fieret terra eorum in desolationem, et in sibilum sempiternum. Omnis quis praeterierit per eam obstupescet, et movebit caput suum.
+Et explicans beneficium, ***et reducam***. Ezech. 36: *tollam quippe vos de gentibus, et congregabo vos de universis terris; et reducam vos in terram vestram*.  
 
-> ^18:17^ Sicut ventus urens dispergam eos coram inimico; dorsum, et non faciem ostendam eis in die perditionis eorum.
+Tertio ponit captivitatis conditionem, ***ecce ego***:  
 
-> **105**. Hic ponitur contemnentium desperatio:
+et primo describit captivitatem Babyloniorum, ***piscatores***, scilicet Chaldaeos, qui quasi in mari prosperitatis, et voluptatis viventes, eos ceperunt. Habac. 1: *facies homines quasi pisces maris, et quasi reptilia non habentia ducem*. Et Romanorum: ***et post haec mittam venatores***, scilicet Romanos, qui eos quasi bestias pro crudelitate homicidii venati sunt. Thren. 3: *venatione ceperunt me quasi avem inimici mei gratis*.  
 
-et primo ponitur desperatio, ***desperavimus***. Supra 2: ***dixisti: desperavi, nequaquam faciam: adamavi quippe alienos, et post eos ambulabo***.
+Secundo assignat captivitatis rationem, ponens cognitionem culpae: ***quia oculi mei super omnes vias eorum***. Prov. 16: *omnes viae hominum patent oculis ejus, spirituum ponderator est Dominus*.  
 
-Secundo ponitur desperantium condemnatio: ***ideo haec dicit Dominus***.
+Et comminationem poenae. ***Et reddam primum***, idest ante dictam consolationem, ***duplices***, scilicet quantum ad cultum idolorum; propter quod sequitur: ***quia contaminaverunt***: et quantum ad perversitatem morum, ***et abominationibus suis impleverunt hereditatem meam***. Psal. 105: *infecta est terra in sanguinibus, et contaminata est in operibus eorum*.  
 
-Et primo arguit in eis horribilem culpam in comparatione gentium: ***interroga gentes***. Supra 2: ***transite ad insulas Cethim, et videte, et in Cedar mittite, et considerate vehementer, et videte si factum est hujusmodi, si mutuavit gens deos suos. Et certe ipsi non sunt dii***. Ezech. 5: *contempsit judicia mea, ut plus esset impia quam gentes, et praecepta mea ultra quam terrae quae in circuitu ejus sunt*.
+Tertio ponit captivitatis utilitatem, scilicet conversionem gentium; vel eorum qui cum Judaeis sub Zorobabel in Jerusalem reversi sunt; vel eorum qui ad fidem Christi sunt conversi: quia *caecitas ex parte contingit in Israel, donec plenitudo gentium intraret, et sic omnis Israel salvus fieret*: Rom. 11.  
 
-Ex similitudine insensibilium, quae ordinem sibi a Deo praefixum tenent: ***numquid deficiet de petra agri nix Libani?*** Et notandum quod Libanus est mons magnus, et habet in summitate magnam latitudinem, in qua sunt agri, et speluncae petrarum, in quas, quia radius solis non pervenit, conservantur nives perpetuo. ***Aut evelli possunt aquae erumpentes***, ut non fluant de Libano, et aliis altis montibus? quasi dicat, non. Eccl. 3: *didici quod omnia opera quae fecit Deus perseverent in perpetuum. Non possumus eis quidquam addere, nec auferre, quae fecit Dominus ut timeatur*.
+Circa quod tria facit.  
 
-Ex conditione operum, quia inutilia: ***frustra libantes***, scilicet idolis. Rom. 6: *quem ergo fructum habuistis tunc in illis in quibus nunc erubescitis?* Quia nociva, ***et impingentes***, idest offendentes. Isa. 59: *impegimus in meridie quasi in tenebris, in caliginosis quasi mortui*. Quia turpia, ***in semitis saeculi***, scilicet idolatriae, post quas saeculum totum vadit. Job 22: *numquid semitam saeculorum custodire cupis, quam calcaverunt viri iniqui, qui sublati sunt ante tempus suum, et fluvius subvertit fundamentum eorum qui dicebant Deo: recede a nobis, et scientiam viarum tuarum nolumus*. Et difficilia: ***ut ambularent per eas in itinere non trito***, a sanctis patribus. Vel quia vana peccata excogitabant. Sap. 5: *ambulavimus vias difficiles, viam autem Domini ignoravimus*. Numer. 20: *via trita gradiemur*.
+Primo ponitur prophetae exultatio, designata in confessione divinae laudis: ***Domine fortitudo mea***, ad alios debellandum, ***robur***, ad perseverandum, ***refugium***, si deficiam. Psal. 17: *diligam te, Domine fortitudo mea, Dominus firmamentum meum, et refugium meum*.  
 
-Secundo comminatur stupendam poenam.
+Secundo ponitur gentium conversio. ***Ad te gentes venient***. Isa. 42: *cantate Domino canticum novum, laus ejus ab extremis terrae*. Peccati confusio: ***vere mendacium***, scilicet idolum, quod divinitatem, et auxilium mentitur. Supra 3: ***vere mendaces erant colles, et multitudo montium***.  
 
-Primo quantum ad terrae desolationem: ***ut fieret terra eorum in desolationem***. Ut consecutive. Thren. 1: *o vos omnes qui transitis per viam attendite, et videte, si est dolor sicut dolor meus*.
+Et pristini erroris confutatio: ***numquid faciet sibi homo deos? Et ipsi non sunt dii***, scilicet homines facientes. Sapien. 15: *quomodo enim sibi similem homo poterit Deum fingere?*  
 
-Secundo quantum ad gentis destructionem: ***sicut ventus***, qui omnes fruges desiccat, ***inimico***, Babylonico. Supra 4: ***ventus urens in viis quae sunt in deserto viae filio populi mei, non ad ventilandum, et ad purgandum***.
+Tertio assignat conversionis bonum: ***idcirco***, idest ut gentes convertantur, ***eis***, Judaeis, ***per vicem hanc***; quasi dicat, ulterius non parcam, ***manum***, correctionis. Vel ***eis***, gentibus, ***manum***, Christum. Psalm. 9: *cognoscetur Dominus judicia faciens, in operibus manuum suarum comprehensus est peccator*. Item Psal. 143: *emitte manum tuam de alto, eripe me, et libera me de aquis multis, de manu filiorum alienorum*.  
 
-Tertio divini auxilii cessionem. ***Dorsum***, ad modum hominis irati. Deut. 32: *abscondam faciem meam ab eis, et considerabo novissima eo*. Ps. 73: *ut quid, Domine, repulisti in finem, iratus est furor tuus super oves pascuae tuae?*
+Collationes  
 
-Lectio 4
-
-***^18:18^ Et dixerunt: venite, et cogitemus contra Jeremiam cogitationes: non enim peribit lex a sacerdote, neque consilium a sapiente, nec sermo a propheta. Venite, et percutiamus eum lingua, et non attendamus ad universos sermones ejus.***
-
-> ^18:19^ Attende, Domine, ad me, et audi vocem adversariorum meorum.
-
-> ^18:20^ Numquid redditur pro bono malum, quia foderunt foveam animae meae? Recordare quod steterim in conspectu tuo, ut loquerer pro eis bonum, et averterem indignationem tuam ab eis.
-
-> ^18:21^ Propterea da filios eorum in famem, et deduc eos in manus gladii. Fiant uxores eorum absque liberis, et viduae, et viri earum interficiantur morte, juvenes eorum confodiantur gladio in praelio,
-
-> ^18:22^ audiatur clamor de domibus eorum. Adduces enim super eos latronem repente, quia foderunt foveam ut caperent me, et laqueos absconderunt pedibus meis.
-
-> ^18:23^ Tu autem, Domine, scis omne consilium eorum adversum me in mortem: ne propitieris iniquitati eorum, et peccatum eorum a facie tua non deleatur. Fiant corruentes in conspectu tuo, in tempore furoris tui abutere eis.
-
-> **106**. Hic ostenditur eorum obstinatio ex eo quod persequebantur praedicatores eorum in figuram persecutionis Christi:
-
-et primo ponitur adversariorum persecutio, ponens persequendi consilium, ***venite***. Sapient. 2: *dixerunt impii cogitantes apud se non recte*. Et infra (ibidem): *circumveniamus justum, quoniam inutilis est nobis, et contrarius est operibus nostris* etc. Persecutionis argumentum: ***non enim peribit lex***, legis dispositio, ***sermo***, divinae revelationis; quasi, falso hoc futurum praedixit. E contra Ezech. 7: *peribit lex a sacerdote, et consilium a senioribus*. Et persequendi modum, ***lingua***, detrahendo, et accusando. ***Non attendamus***, quasi timentes comminationes ipsius. Psalm. 63: *exacuerunt ut gladium linguas suas, firmaverunt sibi sermonem nequam*. Eccl. 28: *flagelli plaga livorem facit, plaga autem linguae comminuet ossa*.
-
-Secundo ponitur prophetae oratio:
-
-et primo petit audientiam: ***attende, Domine, ad me***, idest ad mea merita. Thren. 3: *audisti opprobrium eorum, Domine, omnes cogitationes eorum adversum me*.
-
-Secundo proponit ingratitudinis culpam, ponens ingratitudinem: ***numquid redditur pro bono malum?*** quasi dicat: non est consuetum, non est justum. ***Foveam***, deceptionem, ut tollerent vitam meam. Psalm. 108: *posuerunt adversum me mala pro bonis, et odium pro dilectione mea*. Et ingratitudinis probationem, ***recordare***. 2 Mach. ult.: *hic est fratrum amator, et populi Israel; hic est qui multum orat pro populo, et universa sancta civitate, Jeremias propheta Dei*.
-
-Tertio imprecatur poenam:
-
-et primo poenae inflictionem quantum ad pueros: ***propterea da filios***. Supra 15: ***qui ad gladium, ad gladium; et qui ad famem, ad famem; et qui ad captivitatem, ad captivitatem***. Quantum ad matrimonio utentes: ***fiant uxores eorum absque liberis***. Osea 9: *da eis vulvam sine liberis, et ubera arentia*. Et quantum ad viros bellicosos: ***juvenes eorum confodiantur gladio in praelio, audiatur clamor***, planctus. Isa. 15: *clamorem contritionis levabunt*.
-
-Secundo poenae occultationem, ut praecavere non possint: ***adduces latronem***, Nabuchodonosor, qui subito super eos veniat. Abdias: *si fures intrassent ad te, si latrones per noctem, quomodo conticuisses?* Et assignat rationem: ***quia foderunt foveam***; quasi dicat: justum est ut decipiantur qui me decipere voluerunt. Psalm. 56: *laqueum paraverunt pedibus meis, et incurvaverunt animam meam*.
-
-Et inducit probationem: ***tu autem, Domine, scis***. Thr. 3: *vidisti, Domine, iniquitatem illorum adversum me, judica judicium meum*.
-
-Secundo excludit sententiae revocationem, excludens misericordiam: ***de propitieris***, mundando a culpa, ***non deleatur***, liberando a poena. Psalm. 108. *In memoriam redeat iniquitas patrum ejus in conspectu Domini, et peccatum matris ejus non deleatur*. Et imprecatur poenam: ***fiant corruentes . . . abutere eis***, idest in malum utere, vel contra consuetudinem clementiae tuae. Isa. 3: *ruit Jerusalem, et Judas concidit: quia lingua eorum, et adinventiones eorum contra Dominum, ut provocarent oculos majestatis ejus*.
-
-Collationes
-
-***Notandum, quod est quidam ***sibilus*** bonus divinae inspirationis. Zech. 10: *sibilabo eis, et congregabo illos quia redemi eos*. Humilis confirmationis. 3 Reg. 19: *post ignem sibilus aurae tenuis*. Compassionis. Infra 49: ***omnis qui transibit per eam stupebit, et sibilabit super omnes plagas ejus***.***
-
-Item est ***sibilus*** malus iniquae persuasionis. Sapient. 17: *serpentum sibilatione commoti, tremebundi peribant*. Insultationis. Thren. 2: *omnes transeuntes per viam sibilaverunt, et moverunt capita sua super filiam Jerusalem: haeccine est urbs, dicentes, perfecti decoris, gaudium universae terrae?* Et stuporis. Infra 25: ***ponam eos in stuporem, et sibilum in solitudines sempiternas***.
-
-Item super illud verbum, ***ut loquerer pro eis bonum***, nota, quod Christus loquitur pro nobis bonum ad impetrandum veniam. Luc. 23: *Pater, ignosce illis, quia nesciunt quid faciunt*. Ad excusandam culpam. 1 Joan. 2: *advocatum habemus apud Patrem Jesum Christum justum; et ipse est propitiatio pro peccatis nostris*. Ad Heb. 12: *accessistis ad testamenti novi mediatorem Jesum, et sanguinis aspersionem melius loquentem quam Abel*. Ad impetrandam gloriam. Joan. 17: *volo ut ubi ego sum et illi sint mecum, ut videant claritatem meam, quam dedisti mihi*.
-
-Caput 19
+Notandum, quod quaedam est ***manus*** divinae dispositionis. Sap. 7: *in manu ejus et nos, et sermones nostri, et omnis sapientia, et operum scientiae disciplina*. Divinae liberalitatis. Psal. 103: *aperiente te manum tuam, omnia implebuntur bonitate*. Divinae protectionis. Isa. 49: *sub tegumento manus suae protexit me*. Divinae correctionis. Psal. 38: *a fortitudine manus tuae ego defeci in increpationibus*. Divinae liberationis. Job 5: *percutit, et manus ejus sanabunt*. Divinae operationis. Eccli. 36: *glorifica manum, et brachium dexterum*. Et divinae condemnationis. Ad Hebr. 10: *horrendum est incidere in manus Dei viventis*.

@@ -1,379 +1,197 @@
-# C. 11 - On Peace; And What Per Se Being Means; What Per Se Life; And What Per Se Virtue; And What Are Said Thus
+# C. 10 - On Omnipotent; Ancient of Days; In Which Also On Aevum and On Time
+
+***De omnipotente; vetere dierum; in quo et de aevo et de tempore***
 
 ***Lectio 1***
 
-***De divina pace et de eius causalitate in communi***
+***Quomodo Deus dicitur omnipotens***
 
-***C. XI, §1. 399. Age, igitur, divinam et principem congregationis pacem hymnis pacificis laudemus.***
+C. X, §1. 384. Vide autem verbo multorum-nominum Deum, sicut Omnipotentem, sicut Veterem Dierum laudare.  
 
-> 400. Ipsa enim est omnium unitiva et universorum consensus et connaturalitatis generativa et operativa;
+> 385. Hoc enim dicitur quidem propter hoc quod omnium ipse est omnipotens sessio, continens et circumhabens tota et collocans et fundans et circumstringens et firmum in seipso omne perficiens et ex seipso tota, quemadmodum ex radice omnitenente, producens et ad seipsum omnia, quemadmodum et plantationem omnitenentem, convertens;
 
-> 401. Propter quod et omnia ipsam desiderant, divisibilem ipsorum multitudinem convertentem ad totam unitatem et naturale omnis rei bellum unientem ad conformem cohabitationem.
+> 386. Et continens ipsa, sicut omnium sessio omnitenens, contenta omnia secundum unam excedentem omnia continentiam firmans et non dimittens ipsa decidentia a seipsa, sicut ex essentia perfecta mota destrui.
 
-> 402. Participatione divinae pacis, digniores congregativarum virtutum et ipsae ad seipsas et ad alias invicem uniuntur et ad unum totorum pacis principatum;
+> 387. Dicitur autem omnitenens thearchia et sicut omnia tenens et immixte gubernatis principans et sicut omnibus desiderabilis et interminabilis existens et supermittens omnibus voluntarias leges et dulces partus divini et omnipotentis et indissolubilis amoris ipsius bonitatis.
 
-> 403. Et subiecta uniunt et ipsa ad seipsa et ad alia invicem et ad unum et perfectum omnium principium pacis et causam.
+> **847**. Postquam Dionysius exposuit divina nomina quae signant perfectiones rebus inhaerentes vel absolute vel secundum comparationem unius ad alterum, hic exponit quaedam nomina quae dicuntur de Deo, secundum rationem universalis principii esse et durationis rerum. Dicitur enim Deus Omnipotens, inquantum est universale principium omnis esse rerum; Antiquus vero Dierum dicitur, inquantum est principium omnis durationis. Et quia nomina durationis sunt aevum et tempus, ex consequenti determinatur de aevo et tempore. Et haec tanguntur manifeste in titulo qui talis est: ***De omnipotente, vetere dierum; in quo et de aevo et de tempore***.
 
-> 404. Quae simpliciter superveniens totis, sicut quibusdam vectibus diversorum conclusivis, omnia diffinit, terminat et firmat; et non sinit divisa effundi ad interminatum et infinitum, inordinata et non collocata et deserta a Deo facta et ab unitione sui ipsorum exeuntia et in se invicem omni mixtione conspersa.
+**848**. Dividitur autem hoc capitulum in tres partes:  
 
-> **876**. Superius, Dionysius exposuit divina nomina quibus signantur perfectiones procedentes a Deo in creaturas. Unaquaeque enim res appetit suam perfectionem, quam a Deo participat et amat eam et cum adepta eam fuerit, quiescit appetitus eius, in qua quiete consistit quies et ratio pacis. Et ideo in hoc capitulo Dionysius de pace divina determinat et etiam de ipsis perfectionibus procedentibus a Deo in creaturas, secundum quod in abstracto considerantur: esse enim in abstracto consideratum dicitur per se esse et similiter de aliis. Et haec duo apparent in titulo.
+in prima, determinat de omnipotente;  
 
-**877**. Dividitur ergo capitulum istud in duas partes:
+in secunda de antiquo dierum; ibi: ***dierum autem antiquum***;  
 
-in prima, determinat de divina pace;
+in tertia, de aevo et de tempore; ibi: ***oportet autem***.  
 
-in secunda, de perfectionibus a Deo procedentibus, secundum quod per se in abstracto considerantur; ibi: ***sed quoniam*** etc.
+**849**. Circa primum, duo facit:  
 
-**878**. Prima autem pars dividitur in duas:
+primo, dicit de quo est intentio; et dicit quod Deus, qui est ***multorum-nominum, verbo*** sacrae Scripturae laudatur et ***sicut*** omnipotens secundum illud Genes. 17: *ego Deus omnipotens; ambula coram me et esto perfectus*; et ***sicut*** vetus ***dierum***, secundum illud Daniel. 7: *antiquus dierum sedit*.  
 
-in prima, determinat de pace secundum quod pertinet ad divinam naturam;
+**850**. Secundo, ibi: ***hoc enim*** etc., ponit quomodo Deus dicatur omnipotens; et circa hoc, duo facit:  
 
-in secunda, secundum quod pertinet ad Christi incarnationem; ibi: ***quid dicat*** etc.
+primo, assignat rationem omnipotentiae;  
 
-**879**. Circa primum, duo facit:
+secundo, exponit quaedam quae dixerat; ibi: ***et continens*** etc.  
 
-primo dicit de quo est intentio;
+**851**. Rationem autem omnipotentiae ostendit secundum quatuor in quibus ratio potentiae consideratur:  
 
-secundo, exequitur; ibi: ***ipsa enim*** etc.
+primo quidem, secundum ambitum: dicitur enim esse magna potentia, sive in naturalibus sive in rebus humanis, quae multa sub se continet; et hoc est quod dicit, quod dicitur Deus omnipotens, propter hoc quod ***ipse est*** quaedam ***omnipotens sessio***, quadam stabilitate ***continens tota***, idest omnia inquantum omnia eius potestati subduntur ***et circumhabens***, inquantum omnia eius providentiae subsunt.  
 
-**880**. Est autem considerandum quod proprie aliquid habere pacem dicitur in seipso, ex eo quod quiescit appetitus eius in proprio bono adepto; quod quidem contingit, cum non est aliquid repugnans quod talem quietem impediat neque interius neque exterius. Sic ergo pacem aliquid habere dicitur ad seipsum et ad alia ex quadam unione qua omnis repugnantia excluditur: quae quidem unio in nomine ***congregationis*** hic intelligitur, cum dicit quod debemus laudare ***pacem divinam***, quae est principalis ***congregationis*** causa. Hanc inquam divinam pacem secundum quod in se est quia laudare non sufficimus, oportet quod ***laudemus*** eam ***hymnis pacificis***, idest laudibus sumptis ex hoc quod pacem in rebus facit.
+Secundo vero, quantum ad firmitatem: dicitur enim magna potentia quae et in se est immobilis et alia immobiliter tenere potest; et quantum ad hoc dicit: ***et collocans et fundans et circumstringens et firmum in seipso omne perficiens***; et tangit quatuor modos, quibus aliquid firmatur:  
 
-**881**. Deinde, cum dicit: ***ipsa enim*** etc., exequitur propositum:
+firmatur enim aliquid, inquantum est in suo loco naturali, unde omnia corpora naturalia in suis locis quiescunt; et quantum ad hoc dicit: ***et collocans***;  
 
-et primo, determinat veritatem;
+aliqua vero firmantur super aliquod quod eis substat, sicut parieti substat fundamentum et columnae basis; et quantum ad hoc dicit: ***et fundans***;  
 
-secundo, excludit obiectiones; ibi: ***quomodo autem*** etc.
+quaedam vero firmantur per aliquod ligamentum, sicut patet in doliis, quae circulis firmantur; et quantum ad hoc dicit: ***et circumstringens***.  
 
-**882**. Circa primum, duo facit:
+Et hi tres modi firmitatis pertinent ad hoc quod una res firmatur per aliam: potest enim locatio ad hoc pertinere in universo quod creaturae inferiores firmantur quodammodo per superiores quae sunt loca inferiorum, sicut corpora coelestia inferiorum corporum; fundatio vero ad hoc quod formae fundantur in materiis et accidentia in subiectis; circumstrictio vero ad hoc quod elementa firmantur in mixto, et, universaliter, omnes partes in toto.  
 
-primo, ostendit causalitatem divinae pacis in communi;
+Quartus autem modus firmitatis est, secundum quod unaquaeque res habet firmitatem in sua natura; et hoc est quod dicit: ***et firmum in*** se ***omne perficiens***; vel potest aliter dici quod collocat et fundat et constringit, firmans omnia divina sessio in seipsa, quasi diceret: ipse Deus est et locus et fundamentum et vinculum connectens omnia.  
 
-secundo, exponit eam in speciali; ibi: ***igitur*** etc.
+**852**. Tertio vero ostendit rationem omnipotentiae secundum productionem: dicitur enim magna potentia quae multa producere potest, sicut virtuosa radix dicitur quae multa producit germina; et quantum ad hoc dicit quod divina sessio producit ex sui virtute omnia, sicut ***ex*** quadam ***radice*** omnipotente.  
 
-**883**. Circa primum, duo facit:
+Quarto, manifestat rationem omnipotentiae, secundum rationem attractionis: dicitur enim magna potentia, quae ad se aliqua attrahere vel convertere potest et quantum ad hoc dicit quod convertit ***ad*** se ***omnia***, sicut ad quamdam ***plantationem omnitenentem***: in ipso enim omnia plantantur, sicut in primo principio.  
 
-primo ostendit quid divina pax faciat in rebus;
+**853**. Deinde cum dicit: ***et continens*** etc., ostendit quaedam quae dixerat:  
 
-secundo, qualiter hoc diversimode faciat in diversis; ibi: ***participatione*** etc.
+et primo, quomodo deitas dicatur continens;  
 
-**884**. Circa primum, duo facit:
+secundo, quomodo dicatur omnitenens; ibi: ***dicitur autem*** etc.  
 
-primo, ostendit causalitatem effectivam divinae pacis;
+**854**. Dicit ergo primo quod divinitas dicitur ***continens***, inquantum ipsa est ***sessio***, idest firmitas vel immobilitas omnium; quae omnia sub se existentia firmat, non sicut aliquod principium quod sit de essentia rerum, quod diversificatur in diversis, sed secundum unam communem continentiam, quae excedit omnia; et intantum est fortis ista continentia quod non solum dat firmitatem rebus sub se contentis, sed etiam non permittit eas omnino destrui et in nihilum redigi ea quae decidunt ab ipso Deo. Et dicuntur a Deo decidere, qui est perfecta essentia, quaecumque removentur a sua perfectione: nec ipsa enim in nihilum rediguntur.  
 
-secundo, quomodo est causa finalis; ibi: ***propter quod*** etc.
+**855**. Deinde, cum dicit: ***dicitur autem*** etc., ostendit quomodo deitas dicitur omnitenens; et dicit quod divinitas dicitur ***omnitenens***, inquantum omnia tenet eo modo quo ille qui principatur aliquibus, dicitur eos tenere: nam et possessionem dicitur aliquis tenere, quae eius curae subest; si autem aliquis aliquibus principetur, tamquam unus de numero eorum existens, tenet quidem eos inquantum est principans, sed et tenetur ab eis, inquantum eis permiscetur et sub eorum ordine includitur. Deus autem sic omnia tenet quod a nullo tenetur; et hoc est quod dicit: ***immixte gubernatis principans***.  
 
-**885**. Quia vero, recte, nomen pacis magis frequentatur in rationalibus creaturis, in quibus manifestius ratio pacis invenitur, ex eis considerandum est quid proprie sit pax et in quo ratio pacis consistat: hoc enim est quod divina pax effective in rebus producit.
+**856**. Contingit autem aliquem aliquibus principari, dupliciter:  
 
-Dicuntur autem aliqui homines habere pacem, quando voluntates eorum concordant in uno: sic enim unus alteri non adversatur. Quod autem multi concordant in unum, contingit ex hoc quod in aliquo uno communicant: puta, qui communicant in una civitate, concordant ad bonum commune civitatis et simile patet in aliis. Sic igitur ad rationem pacis, duo concurrunt: primo quidem, quod aliqua sint unita; secundo, quod concordent ad unum; et secundum hoc, etiam pax in rebus naturalibus dicitur.
+uno modo, per modum timoris et iste modus principandi non est efficax ad subditos tenendum: qui enim contra propriam voluntatem subduntur, qui timore serviunt, data opportunitate, servitutis iugum excutiunt.  
 
-Et ideo Dionysius dicit quod divina pax est ***unitiva omnium***, quantum ad primum, inquantum scilicet facit omnia communicare in uno; et iterum, ***generativa***, quantum ad primam institutionem et ***operativa***, quantum ad gubernationem, ***consensus et connaturalitatis universorum***: ut consensus referatur ad concordiam voluntatum; connaturalitas, ad concordiam naturalium appetituum.
+Alio modo, per modum amoris et hic modus principandi est efficax ad tenendum subiectos qui voluntarie subduntur; et hunc modum principandi Deo attribuit, cum dicit: ***et sicut omnibus desiderabilis***, omnia enim ipsum desiderant, ut pluries dictum est.  
 
-Ubi considerandum est quod etsi aliqua discordent quantum ad fines proprios, omnia tamen concordant in appetitu finis ultimi.
+**857**. Contingit autem aliquod particulare bonum, licet desideretur, non efficaciter tenere desiderantem quia cum sit terminatum et finitum non habet in se omnia quae desiderari possunt et ideo qui ipsum desiderat propter aliquam bonitatem in eo inventam non totaliter in eo quiescit, sed in aliud transit in quo bonitatem inveniat, quae ei deest. Sed Deus est sic desiderabilis quod est omnino ***interminabilis***, unde ex necessitate tenet omnem desiderantem, dum in quolibet desiderato obiecto ipse desideratur; nihil enim est desiderabile, nisi inquantum habet aliquam participationem summi boni.  
 
-**886**. Deinde, cum dicit: ***propter quod*** etc., ostendit quomodo divina pax est causa finalis omnium rerum. Est autem naturale cuilibet rei ut unitatem desideret, sicut et esse et bonum; quia per divisionem res deficit et corrumpitur et bonitas rei minoratur. Et quia divina pax causat unitatem in rebus, ideo concludit quod ***omnia*** suo modo ***desiderant*** divinam pacem, inquantum etiam est omnium unitiva; et hoc est quod dicit: ***divisibilem ipsorum multitudinem convertentem ad totam unitatem*** quia scilicet ea quae sunt in se divisa, in toto adunantur, inquantum sunt partes universi; et similiter, inquantum sicut supra dixit est ***generativa et operativa consensus et connaturalitatis***, cui respondet quod hic subditur: ***et naturale rei bellum, unientem ad conformem cohabitationem***; ea enim quae naturaliter se invicem impugnant, propter contrarietatem quam habent in propriis naturis, concordant in ordine universi, secundum quem, quodammodo uniuntur atque cohabitant in mundo; et hoc est ex participatione divinae pacis quae, inquantum ab omnibus desideratur, habet rationem finis.
+Posset autem iterum contingere quod aliquis principans, in persona sua desiderabilis esset, sed leges graves subditis daret, quas ipse non teneret et ideo subiecti non efficaciter sub ipso tenerentur. Sed hoc a Deo excludens, subdit quod ***omnibus*** supermittit ***voluntarias leges***: lex enim Dei est cuilibet creaturae infixa naturalis inclinatio ipsius ad agendum id quod convenit ei secundum naturam; et ideo, sicut omnia tenentur a desiderio divino, ita tenentur a legibus eius, secundum illud Psalmi 148: *praeceptum posuit et non praeteribit* super aliqua creatura. Et propter hoc etiam dicitur Sap. 8 de divina sapientia, quod *suaviter omnia disponit*. Unde quod omnibus leges divinitus infixae, sunt voluntariae, ostenditur per id quod subditur: ***et dulces partus divini et omnipotentis et indissolubilis amoris ipsius bonitatis***.  
 
-**887**. Deinde, cum dicit: ***participatione*** etc., ostendit quomodo praedicta, divina pax efficiat in diversis:
+**858**. Ubi considerandum est quod ex amore et desiderio finis, exoritur desiderium eius quod est ad finem adaptatum. Ultimus autem omnium finis est bonitas divina, ad quam sicut ad finem ordinantur omnes praevii et particulares fines in quos res naturaliter inclinantur.  
 
-et primo, quomodo in supremis creaturis;
+Sic igitur ipsae naturales inclinationes rerum in proprios fines, quas dicimus esse naturales leges, sunt quidam ***partus***, idest effectus, ***dulces***, idest consoni naturali appetitui, effectus dico vel ***partus amoris*** quo divina bonitas amatur; qui quidem amor est divinus et omnia tenens et insolubilis: sive hoc intelligatur de amore quo ipse Deus amat suam bonitatem, per quam omnia tenet et insolubilis est quia ex necessitate se amat; sive dicatur divinus amor qui est divinitus omnibus rebus inditus, per quem omnia tenentur a Deo et qui solvi non potest, quia omnia ex necessitate Deum amant, saltem in eius effectibus.  
 
-secundo, quomodo, in inferioribus ibi: ***et subiecta*** etc.;
+Lectio 2  
 
-tertio, quomodo communiter in omnibus, ostendens modum praedictorum; ibi: ***quae simpliciter*** etc.
+***Quare Deus dicatur Antiquus dierum***
 
-**888**. Est autem considerandum quod sicut alias perfectiones a Deo procedentes, ita istas abundantius aliis supremae creaturae participant ut per eas possint quodammodo ad infimas derivari. Supremas ergo creaturas dicit esse ***digniores*** de numero ***congregativarum virtutum***, quia scilicet in tanta abundantia congregationi divinae pacis participant, ut etiam aliarum congregativae sint.
+388. Dierum autem antiquus laudatur Deus propter hoc quod omnium est et aevum et tempus et ante dies et aevum et tempora.  
 
-Harum enim virtutum unaquaeque, per participationem divinae pacis triplicem unionem habet:
+> 389. Et quidem et tempus et diem et quartam partem anni et aevum, ut decet Deum, ipsum dicere convenit, sicut existentem secundum omnem motum intransmutabilem et immobile et in hoc quod semper movetur manentem in seipso.
 
-una quidem est ***ad seipsas***, secundum quod unaquaeque earum, secundum se, est aliquod unum.
+> 390. Et sicut aevi et temporis et dierum causam.
 
-Alia vero unio est secundum quod una unitur ad aliam, in ordine vere unius.
+> 391. Propter quod in sanctis mysticarum Dei visionum apparitionibus et canus et novus componitur; seniore quidem signante antiquum et a principio existentem; iuniore autem sine senectute: aut ambobus docentibus ipsum a principio usque ad finem per omnia procedere, aut, sicut divinus noster sanctitatis perfector dicit, *divinam principalitatem utroque monstrante: seniore quidem primum in tempore, iuniore autem secundum numerum principalius habente*; quoniam unitas et ea quae sunt circa unitatem, sunt principaliora numeris qui multum processerunt.
 
-Tertia vero unio est secundum quam uniuntur ***ad unum*** principium ***pacis*** omnium rerum, idest ad Deum.
+> **859**. Postquam Dionysius determinavit de Omnipotente, hic determinat de Antiquo Dierum; et circa hoc tria facit:
 
-**889**. Et sicut ipsae tripliciter uniuntur, ita tripliciter uniunt ea quae eis subduntur; et hoc est quod dicit: ***et subiecta uniunt***, unumquodque scilicet eorum ***ad*** seipsum ***et*** ea ***ad invicem et*** omnia ***ad*** unam ***causam et*** ad ***perfectum principium pacis*** omnium, scilicet Deum in quem, sicut in ultimum finem et primam causam, omnia reducuntur.
+primo, ostendit quare Deus dicatur antiquus dierum;  
 
-**890**. Deinde, cum dicit: ***quae simpliciter*** etc., ostendit quid divina pax faciat communiter in omnibus; et dicit quod prima causa pacis omnibus supervenit ***simpliciter*** quia, licet diversa sint in quibus operatur, tamen ex parte operantis non est aliqua diversitas nec in operatione nec in modo operandi.
+secundo, exponit assignatam rationem; ibi: ***et quidem*** etc.;  
 
-**891**. Ostendit autem quod supervenit rebus et ad conservandam unitatem pacis et ad instituendam. Unitas autem pacis in tranquillitate ordinis consistit, ut Augustinus dicit, XIX de Civit. Dei, ad quam quidem tranquillitatem ordinis, tria requiruntur:
+tertio, manifestat quod dixerat per auctoritatem Scripturae; ibi: ***propter quod*** etc.  
 
-primo quidem ut ab invicem distinguantur: non enim potest esse ordo nisi distinctorum; et ideo dicit quod ***omnia diffinit***.
+**860**. Est autem considerandum quod apud nos dicitur aliquid antiquum duplici ratione: primo quidem quia habet multum temporis; secundo autem quia praecedit in tempore ea quae sunt iuniora. Antiquum autem dicitur quod est in praeterito, remotum a praesenti; et hoc est tempore prius.  
 
-Secundo, necesse est ad tranquillitatem ordinis ut rerum distinctarum nulla exeat limitem suae naturae; et ad hoc pertinet quod dicit: ***terminat***.
+Sic ergo duplici ratione dicitur Deus antiquus dierum: primo, quia ***ipse*** praehabet ***omnium*** durationem et aevi et temporis ut per aevum intelligatur duratio quae mensurat ipsum esse; per tempus autem duratio quae mensurat ipsum fieri vel moveri; secundo, quia ipse est ***ante*** omnes ***dies et ante aevum et*** ante ***tempora***.  
 
-Tertio, requiritur quod haec diffinitio et terminatio stabiliatur; et ad hoc pertinet quod dicit: ***et firmat***; alioquin si rerum diffinitio et terminatio non esset firma, sed una res a termino suo egrediens, alterius fines invaderet, confunderetur ordo rerum et sic non esset tranquillitas ordinis.
+**861**. Deinde, cum dicit: ***et quidem*** etc., exponit assignatas rationes,  
 
-Dicit autem quod ***omnia diffinit et terminat et firmat, sicut quibusdam vectibus conclusivis diversorum***, utens similitudine sensibilium rerum: consuetum est enim, si multae tabulae eriguntur secundum aliquem ordinem, ut quidam vectes inserantur quibus erectae tabulae firmentur; ita rerum distinctio et terminatio, perfectionibus et virtutibus rebus a Deo inditis, quasi quibusdam vectibus rerum distinctarum, firmatur.
+et primo, primam;  
 
-**892**. Modum autem firmationis, qui pertinet ad conservationem pacis, manifestat subdens: ***et non sinit divisa effundi ad interminatum et infinitum, inordinata et non collocata et deserta a Deo facta et ab unitione sui ipsorum exeuntia et in se invicem omni mixtione conspersa***; et dicit quod Deus non permittit res distinctas effundi ***ad interminatum et infinitum***, ut scilicet operationes et transmutationes rerum non tendant in aliquem certum terminum et finem, quasi sint ***inordinata et non collocata***, idest firmata in aliquo principio conservante. Ista autem effusio in infinitum opponeretur unitioni rerum triplici, quam supra dixit fieri in rebus per participationem divinae pacis.
+secundo, secundam; ibi: ***et sicut*** etc.  
 
-Tolleretur enim unio ad primum principium non perveniendum et quantum ad hoc dicit: ***et deserta a Deo facta***; tolleretur et unio rei ad seipsam et quantum ad hoc dicit: ***et exeuntia ab unitione sui ipsorum***; tolleretur et ordinata unitio unius ad alterum et quantum ad hoc dicit: ***et in se invicem omni mixtione conspersa*** per quamdam confusionem rerum ad invicem, si ad infinitum effundi sinerentur.
+**862**. Dicit ergo primo quod cum dicimus Deum esse ***tempus*** vel aliquam partem temporis, ut puta ***diem et quartam partem anni et*** cum dicimus ***ipsum*** esse ***aevum***, oportet hoc intelligere eo modo quo Deo ***convenit***, non quidem ita quod Deus sit aliquid cuius esse sit aliquid successivum et divisibile aut alteri adiacens, sed dicitur aevum, quod est mensura permanentis, inquantum ipse est intransmutabilis ***secundum omnem motum***, quia scilicet nullo alio motu movetur.  
 
-Lectio 2
+Dicitur autem tempus, quod est numerus motus, ex hoc quod ipse Deus semper movetur eo modo quo supra in cap. 9 de motu dictum est. Non tamen sic movetur quod in motu eius sit aliqua successio, qualis est in motu qui numeratur per tempus, sed ipse Deus ***semper*** est permanens ***in seipso***.  
 
-***De causalitate divinae pacis in speciali***
+**863**. Deinde, cum dicit: ***et sicut*** etc., exponit secundam rationem: dicitur enim esse ante dies et aevum et tempora, non per modum praeteritionis, sicut ea quae dicuntur antiqua apud nos, sed per modum quo causa prior est effectus: ipse enim est causa ***et aevi et temporis et dierum***.  
 
-***405. Igitur de ipsa quidem divina pace, quodcumque est, et silentio et quod sanctus Iustus ineffabilitatem vocat et ad omnem cognitum processum immobilitatem et quomodo quiescit et silentium agit et quomodo in seipsa et intra seipsam est et ad seipsam totam, tota superunita est et neque ad seipsam ingrediens et multiplicans seipsam, derelinquit sui ipsius unitionem, sed et procedit ad omnia, intus tota manens, per excessum omnia superantis unitionis, neque dicere neque cogitare alicui existentium neque est fas neque possibile, sed sicut ineffabile et hoc et ignotum ipsi attribuentes sicut existenti super omnia, intelligibiles ipsius et dictas participationes, et hoc ut est possibile viris et nobis a multis bonis viris deficientibus, inspiciemus.***
+**864**. Deinde, cum dicit: ***propter quod*** etc., adducit ad praemissorum manifestationem, auctoritates Scripturae; et dicit quod, propter praemissa, ***in apparitionibus*** occultarum ***Dei-visionum***, Deus describitur tamquam ***novus*** et tamquam ***canus***: novus quidem, secundum illud Esai. 62: *vocabitur tibi nomen novum*; canus autem, secundum illud Psalm. 70: *et usque in senectam et senium, Deus, ne derelinquas me*; et illud Esai. 46: *usque ad senectam ego ipse et usque ad canos ego portabo*.  
 
-> §2. 406. Et primum quidem hoc est dicendum, quod ipsam per se pacem et totam et particularem subsistere facit,
+Per hoc autem quod dicitur canus vel senior, significatur antiquitas eius: quod scilicet ***a principio*** aeternitatis ipse semper existit; per hoc autem quod dicitur novus vel iunior, significatur quod ipse est antiquus ***sine senectute***, idest sine aliqua deficientia vel etiam praeteritione quia, sicut supra dictum est movetur, immobilis manens in seipso.  
 
-> 407. Et quod omnia ad se invicem concreta facit secundum inconfusam ipsorum unitionem, secundum quam indivisibiliter unita et indistanter tamen pura singula secundum propriam speciem subsistunt, non velata per concretionem ad opposita neque hebetantia aliquid unitivae diligentiae et puritatis. Unam igitur quamdam et simplicem pacificae unitionis contemplemur naturam, unientem universa sibi ipsi et illis ipsis et sibi invicem et salvantem omnia in non confusa omnium continentia et immixta et concreta.
+Vel: quia senectus et antiquitas ad principium pertinere videtur propter sui prioritatem iuventus vero ad finem propter sui posterioritatem, per hoc quod ambo Deo attribuuntur, docemur quod ipse procedit ***per omnia a principio usque ad finem***.  
 
-> 408. Propter quam divinae mentes unitae intellectibus suis uniuntur et unitis et rursum ad ignotam ascendunt super mentem collocatorum coniunctionem.
+Tertiam expositionem ponit secundum Hierothei sententiam, quem nominat suum perfectorem, idest magistrum in rebus divinis, qui dixit quod per utrumque istorum praemissorum demonstratur prioritas ipsius Dei et quod ipse est principium: per hoc enim quod dicitur senior demonstratur prioritas eius ***in tempore***; ea enim dicimus seniora quae sunt tempore priora. Sed per hoc quod dicitur iunior, designatur prioritas vel principalitas quae est ***secundum*** rationem numeri: iunior enim dicitur qui minus processit in tempore. Quanto autem in numeris aliquid minus procedit, tanto prius est: ***unitas*** enim et numeri propinqui unitati, sunt priores his ***qui multum processerunt***.  
 
-> 409. Propter quam animae largissimas ipsarum rationes unientes et ad unam intellectualem congregantes puritatem, perveniunt iuxta proprietatem suam, via et ordine per immaterialem et simplicem intellectum ad eam quae est super intellectum unitionem.
+Lectio 3  
 
-> 410. Propter quam, una et indissolubilis omnium complexio secundum divinam ipsius harmoniam consistit et concordatur consonantia perfecta et consensu et connaturalitate et congregata inconfuse et indissolubiliter contenta.
+***De aevo et tempore***
 
-> 411. Transit enim perfectae totalitatis pax ad omnia existentia, secundum simplicissimam illius et immixtam unificae virtutis praesentiam, uniens omnia et coniungens extrema per media extremis, secundum unam connaturalem coniuncta amicitiam et frui ipsa donans et extremis omnis rei terminationibus,
+§3. 392. Oportet autem, sicut arbitror, et temporis et aevi naturam, ex eloquiis videre.  
 
-> 412. et omnia consentientia faciens unitatibus, identitatibus, unitionibus, congregationibus, indivisibiliter,
+> 393. Etenim non omnino et absolute ingenita et vere aeterna ubique dicit aeterna, sed et incorruptibilia et immortalia et invariabilia et existentia eodem modo, sicut quando dicit: *elevamini portae aeternales* et similia. Multoties autem et antiquissima, aevi nominatione figurat et totam rursus temporis appositionem secundum nos, quando aevum appellat.
 
-> 413. videlicet, divina pace stante et in uno omnia monstrante et per omnia proficiscente et a propria identitate non recedente; procedit enim ad omnia et tradit omnibus seipsam, iuxta ipsorum proprietatem et supermanat abundantia pacificae fecunditatis, et manet propter excessum unitionis, tota ad totam et secundum totam seipsam superunita.
+> 394. Secundum quod et proprietas aevi est antiquum et invariabile et totum secundum totum metiri.
 
-> **893**. Postquam Dionysius ostendit causalitatem divinae pacis in communi, hic prosequitur de ea in speciali; et circa hoc duo facit:
+> 395. Tempus autem vocant quod in generatione et corruptione et variatione et aliquando aliter se habet.
 
-primo, ostendit quid de divina pace dici possit in speciali;
+> 396. Propter quod et nos hic secundum tempus terminatos, aevo participaturos theologia dicit quando incorruptibile et semper eodem modo habens aevum consequemur.
 
-secundo, manifestat propositum; ibi: ***et primum*** etc.
+> 397. Est autem quando in eloquiis et temporale aevum glorificatur et aeternum tempus, quamvis scimus ipsis magis et magis proprie existentia aevo et ea quae sunt in generatione, tempore et dicta et monstrata.
 
-**894**. Dicit ergo primo quod ***neque*** licitum ***est neque possibile***, non solum alicui hominum, sed neque ***alicui existentium*** creaturarum, ***dicere*** ore aut ***cogitare*** corde, ipsam divinam pacem secundum quod in se est et ipsum divinum silentium, ***quod*** quidam ***sanctus*** nomine Iustus vocabat ***ineffabilitatem*** Dei, quia scilicet neque nos Deum effari possumus neque ipse sic effatur nobis, quod nos ipsum, secundum quod est, perfecte cognoscere possimus.
+> 398. Oportet autem non simpliciter coaeterna Deo qui est ante aevum, arbitrari aeterna dicta. Sequentes autem venerandissima eloquia, inconversibiliter aeterna quidem et sine tempore secundum cognitos sibi subaudire modos; media autem existentium et factorum, quaecumque secundum aliquid quidem aevo, secundum aliquid vero tempore participant. Deum autem et sicut aevum et sicut tempus laudare convenit, sicut temporis omnis et aevi causam et Antiquum Dierum, sicut ante tempus et super tempus et variantem quatuor partes anni et tempora; et rursus ante saecula existentem, inquantum ante aevum est et regnum ipsius regnum omnium saeculorum. Amen.
 
-**895**. Adiungit autem silentium paci, quia signum perturbatae pacis solet esse strepitus et clamor. Adiungit etiam paci ***immobilitatem*** Dei ad ***omnem processum*** qui a nobis cognoscitur: quamvis enim procedere dicatur secundum quod suam similitudinem in res diffundit, tamen ipse secundum omnem huiusmodi processum in se ipso immobilis manet. Coniungitur autem quies et immobilitas paci, sicut et silentium, quia ea quae pacem habent, ex hoc ipso, quietem quamdam habere videntur.
+> **865**. Postquam Dionysius determinavit de antiquo dierum, hic determinat de aevo et tempore;
 
-**896**. Haec ergo nos ***de divina pace et silentio*** et quiete ***dicere aut cogitare*** non possumus, ***quomodo*** scilicet ***quiescit et silentium agit***, sicut dictum est, ***et quomodo tota*** supereminenter unita ***in seipsa et intra seipsam et ad seipsam totam*** sit divina pax.
+et primo dicit de quo est intentio;  
 
-Unitio autem, ut supra dictum est, ad rationem pacis pertinet. Inveniuntur autem aliqua, quae in seipsis diversa sunt, sed uniuntur in aliquo uno, sicut multi homines uniuntur in una domo, sed Deus in seipso unitus est. Est autem aliquid quod in seipso quidem unum est, sed tamen intra seipsum non est unum, sicut unus homo intra seipsum non est unus, quia multa et diversa intra seipsum continentur. Sed Deus intra seipsum est unus, quia nulla diversitas invenitur in ipso. Invenitur etiam aliquid quod intra seipsum est unum, quia non componitur ex divisibilibus partibus, sed tamen non totum sibi toti unitur, quia una pars eius non est unum cum altera. Sed Deus totus ad se totum unitur, quia in eo nullus est numerus partium, sed est omnino simplex; et tanta est eius unitio, quod ***neque*** cum ingreditur ad seipsum, intelligendo scilicet et amando, neque cum multiplicat seipsum, per hoc quod multiplices sui similitudines imprimit rebus, ***derelinquit*** propriam ***unitionem***, ***sed*** propter ***excessum unitionis*** eius, quae superat omnem unitatem, sic deitas ***procedit ad omnia*** per sui similitudines rebus communicatas, quod tamen ***tota*** manet intra seipsam, sicut sigillum quod imprimit suam imaginem et similitudinem diversis ceris et tamen idem manet identitate quod est.
+secundo, exequitur propositum; ibi: ***etenim*** etc.  
 
-**897**. Huiusmodi ergo, cum sint ineffabilia et ignota nobis, oportet attribuere soli Deo qui se per se perfecte cognoscit eo quod ipse existit ***super*** omnes ***participationes*** eius, quae intelligi et quae dici possunt ab intellectu creato: Deus enim est supra omne esse et supra omnem vitam et supra omnia huiusmodi quae a creaturis participantur; et ita, cum connaturale sit intellectui creato quod intelligat et dicat Dei participationes, ipsum Deum, qui super omnia huiusmodi est, neque perfecte intelligere neque perfecte dicere potest.
+**866**. Dicit ergo primo quod necessarium est considerare ex sacris Scripturis ***naturam temporis et aevi***; ubi considerandum est quod aevum hic pro aeterno accipit.  
 
-Hoc est ergo quod de divina pace dicere intendimus, ipsius scilicet divinae pacis participationes, sicut ***est possibile nobis*** qui deficimus ab intelligendo divina, non solum ab angelis, sed et ***a viris bonis*** et perfectis.
+**867**. Deinde, cum dicit: ***etenim*** etc., determinat naturam aevi et temporis; et circa hoc, duo facit:  
 
-**898**. Deinde, cum dicit: ***et primum*** etc., ostendit in speciali, causalitatem divinae pacis;
+primo, exponit significationem aevi et temporis;  
 
-et primo, quantum ad ipsam pacem creatam, secundum se consideratam;
+secundo, quomodo aevum et tempus rebus conveniant; ibi: ***oportet*** etc.  
 
-secundo, quantum ad ea in quibus invenitur pax; ibi: ***et quod omnia*** etc.
+**868**. Circa primum, tria facit:  
 
-**899**. Dicit ergo primo quod hoc primo dicendum est quod Deus, ***ipsam pacem per se***, consideratam in abstracto, ***facit*** esse et in universali ***et*** in particulari consideratam: accipitur enim hic ***subsistere***, communiter pro esse: non est enim aliqua pax creata per se subsistens.
+primo, ostendit quot modis dicitur aevum;  
 
-**900**. Deinde, cum dicit: ***et quod omnia*** etc., ostendit causalitatem divinae pacis quantum ad ea quae participant pacem;
+secundo, quid proprie sit aevum et tempus; ibi: ***secundum quod*** etc.;  
 
-et primo in communi;
+tertio, ostendit quomodo unumquodque ponatur pro alio; ibi: ***est autem*** etc.  
 
-secundo, in speciali; ibi: ***propter quam*** etc.
+**869**. Ponit ergo primo quatuor acceptiones aevi sive aeterni:  
 
-**901**. Dicit ergo primo quod dicendum est, quod divina pax ***facit omnia ad se invicem concreta***: nihil enim est in rebus quod non habeat cum aliquo alio unionem, vel per convenientiam in specie, vel in genere, vel in aliquo quocumque ordine. Sed quia haec unitio, distinctiones rerum non tollit, ideo dicit quod est inconfusa; et ad hoc exponendum, subdit quod secundum praedictam ***inconfusam unitionem***, sunt omnia ***unita indivisibiliter et indistanter***, quia scilicet unionem quam Deus rebus indidit nihil est quod auferre possit vel dividendo vel faciendo magis distans: non enim est possibile quod album et pallidum vel dividantur secundum genus vel tantum distent quantum album et nigrum. Et quamvis omnia sint unita, tamen ***singula*** conservantur in puritate propriae speciei; et homo licet uniatur aliis, praedictis modis, tamen non est in alia specie quam humana. Ad hanc autem speciei puritatem, consequitur puritas et cognoscibilitatis et virtutis: unumquodque enim cognoscitur per speciem suam.
+primo enim ***vere*** et proprie dicuntur ***aeterna*** ea quae sunt ***ingenita***, idest quae non habent causam, ut ea quae de Deo dicuntur.  
 
-**902**. Quia ergo unumquodque remanet in puritate propriae speciei, consequens est ut unitio unius rei ad aliam per quamdam convenientiam, non sit ei in velamentum quin ab aliis possit discerni; et hoc est quod dicit: ***non velata per concretionem ad opposita***; ut puta: album habet concretionem cum nigro, inquantum convenit cum eo in genere, tamen haec convenientia non impedit quin album in propria natura cognoscatur, secundum quod distat a nigro. Similiter etiam propria virtus uniuscuiusque sequitur speciem eius; et ideo, conservata puritate speciei, non hebetatur virtus propria consequens speciem; et hoc est quod dicit: ***neque hebetantia aliquid unitivae diligentiae et puritatis***, quia scilicet neque puritas rei hebetatur per diligentem idest perfectam unionem neque e converso; sicut album per hoc quod differt specie a nigro, secundum puritatem suae speciei, non impeditur quin uniatur ei secundum genus neque e converso.
+Non tamen Scriptura ***ubique*** accipit sic aeternum, ***sed*** aliquando ea quae sunt ***incorruptibilia***, quia numquam esse desinunt; ***et immortalia***, quia numquam desinunt vivere; ***et invariabilia***, quia non variantur de forma in formam vel de quantitate in quantitatem; ***et*** semper ***existentia eodem modo***, quae semper in eadem habitudine se habent, sicut angeli, de quibus in Psalm. 23 dicitur: ***elevamini portae aeternales***; et illud Psalm. 75: *illuminans tu mirabiliter a montibus aeternis* et alia huiusmodi.  
 
-**903**. Ex his igitur concludit quod debemus considerare ***unam quamdam simplicem naturam***, quae per modum unionis facit pacem in rebus, scilicet, naturam divinam, quae unit omnia ***sibi ipsi*** dum omnia sibi assimilat per influentiam suorum donorum et ad se ordinat sicut ad ultimum finem et iterum unit universa ***illis ipsis***, idest, quamlibet rem ad seipsam. Intantum enim unumquodque est sibi unitum ***et invicem sibi***, idest unit unam rem alteri, prout una res convenit cum altera, quocumque modo. Haec enim divina natura sic conservat ***omnia***, secundum quamdam continentiam non confusam, idest non inordinatam ad invicem, ut simul sint incommixta, idest non mixta et tamen ***concreta***: non mixta quidem, dum unumquodque remanet in puritate suae speciei; et concreta, secundum quod coordinantur ad invicem.
+Tertio modo, signantur nomine aevi vel aeterni, omnia quae sunt ***antiquissima***, licet sint corruptibilia, sicut est illud Deuteronomii 33: *de pomis collium aeternorum*.  
 
-**904**. Deinde, cum dicit: ***propter quam*** etc., ostendit causalitatem divinae pacis, quantum ad ea quae participant pacem in speciali:
+Quarto modo, tota congeries nostri temporis appellatur ***aevum*** vel aeternum, ut est illud Rom. 16: *secundum revelationem mysterii, temporibus aeternis taciti*.  
 
-et primo, quantum ad angelos;
+**870**. Deinde, cum dicit: ***secundum quod*** etc., ostendit quid proprie dicatur aevum et tempus; et circa hoc, tria facit:  
 
-secundo, quantum ad animas rationales; ibi: ***propter quam animae*** etc.;
+primo, ostendit quid proprie sit aevum;  
 
-tertio, quantum ad totum universum; ibi: ***propter quam una*** etc.
+secundo, quid proprie sit tempus; ibi: ***tempus*** etc.;  
 
-**905**. Dicit ergo primo quod propter primam et simplicem causam, pacifice unientem, ***divinae mentes***, idest angeli tripliciter ***uniuntur***:
+tertio, probat per auctoritates Scripturae; ibi: ***propter quod*** etc.  
 
-primo quidem unusquisque secundum proprium intellectum;
+**871**. Dicit ergo primo quod omnia praemissa signantur nomine aevi, secundum quod aliquid participant de proprietate aevi: nam proprie aevum est quod est ***antiquum***, idest non de novo incepit esse; ***et*** quod est ***invariabile***, quia non est mensura motus, sed ipsius esse intransmutabilis; ***et*** quod ***totum secundum totum*** metitur, per quod differt a tempore: totum enim tempus non mensurat totum secundum se totum, sed secundum diversas sui partes mensurat diversas partes motus: est enim tempus numerus motus secundum prius et posterius. Sed quia esse, quod mensurat aeternitas, non habet prius et posterius cum sit manens et invariabile, et ipsa aeternitas est simplex non habens prius et posterius et sic quidquid mensurat, secundum se totam mensurat.  
 
-secundo, prout quidam uniuntur ordine quodam aliis angelis ***unitis***;
+**872**. Deinde, cum dicit: ***tempus*** etc., ostendit quid proprie sit tempus; et dicit quod proprie tempus dicitur quod secundum se est mensura generationis et corruptionis et cuiuslibet variationis et omnis diversae habitudinis.  
 
-tertio, secundum quod ulterius ***ascendunt*** ad hoc quod coniungantur rebus divinis, quae sunt collocatae ***super*** omnem ***mentem***; et haec coniunctio est nobis ignota.
+**873**. Deinde, cum dicit: ***propter quod*** etc., confirmat dictam differentiam temporis et aeternitatis per auctoritatem Scripturae quae ***dicit*** nos in hac vita transmutabili esse contentos sub tempore et quod tunc participabimus aeternitate, quando ***consequemur*** vitam incorruptibilem et ***semper eodem modo*** se habentem, prout dicitur Matth. 25 quod *ibunt iusti in vitam aeternam*; et apostolus dicit II ad Corinthios 4: *quae videntur temporalia sunt, quae autem non videntur aeterna*.  
 
-**906**. Deinde, cum dicit: ***propter quam animae*** etc., ostendit effectum divinae pacis in anima rationali prout scilicet ad unitatem reducitur. In qua quidem reductione, triplex gradus consideratur:
+**874**. Deinde, cum dicit: ***est autem*** etc., ostendit quomodo in sacra Scriptura unum ponitur pro altero; et dicit quod ***in*** sacris ***eloquiis*** quandoque id quod est temporale, nomine aevi sive aeterni laudatur, ut supra dictum est, sicut dicuntur montes vel colles aeterni propter antiquitatem.  
 
-primo enim anima dicitur habere largissimam rationem, inquantum ratio se ad diversa diffundit ex multis actibus vel effectibus, naturam rei investigando.
+Quandoque autem aeternitas temporali nomine designatur, secundum illud Psalm. 101: *tu autem idem ipse es, et anni tui non deficient; **quamvis*** sciamus quod ea quae ***magis proprie*** immobiliter existunt, describuntur per aeternitatem, ***quae*** autem existunt ***in generatione*** et corruptione, describuntur per tempus.  
 
-Secundo, largitas rationis reducitur ***ad*** unitatem intellectualis puritatis seu simplicitatis; nullum enim effectum haberet investigatio rationis, nisi ad intelligibilem veritatem perduceret.
+**875**. Deinde, cum dicit: ***oportet autem*** etc., ostendit quomodo res se habeant ad aeternitatem et tempus; et dicit quod ea quae dicuntur in Scripturis ***aeterna, non oportet arbitrari*** esse ***simpliciter*** et aequaliter simul aeterna **Deo, qui est ante** aeternitatem participatam, sed sequendo intellectum Scripturarum oportet aliqua intelligere esse ***aeterna secundum*** certos ***modos***, scilicet, inquantum existunt immutabiliter et sine tempore, sicut sunt huiusmodi angelici spiritus.  
 
-Tertio, quodam ***ordine***, ***per*** huiusmodi ***immaterialem*** et intellectualem veritatem, pervenit anima secundum ***proprietatem*** suae virtutis ut uniatur Deo, qui est supra ***intellectum***, cui non ita perfecte anima in hac vita uniri potest, sicut angeli boni.
+Sed illa quae sunt ***media*** inter existentia immobiliter et ea quae generantur et corrumpuntur, ***secundum aliquid participant tempore*** et ***secundum aliquid*** aeternitate, sicut corpora caelestia conveniunt quidem cum superioribus spiritibus, inquantum sunt incorruptibilia secundum substantiam et secundum hoc participant aeternitatem; inquantum autem transmutantur secundum locum, conveniunt cum generabilibus et corruptibilibus, et sic participant tempore.  
 
-**907**. Deinde, cum dicit: ***propter quam una*** etc., ostendit effectum divinae pacis, quantum ad totum universum; et circa hoc, duo facit:
-
-primo, ostendit quid divina pax perficiat in universo;
-
-secundo, ostendit per quem modum; ibi: ***transit enim*** etc.
-
-**908**. Dicit ergo primo quod ***propter*** praedictam simplicem naturam est quaedam ***una et indissolubilis complexio omnium, secundum*** scilicet quod omnia conveniunt in uno ordine universi qui indissolubilis manet secundum quod ex Deo in ipso universo quaedam harmonia, idest proportionata concordia causatur; et hoc est quod exponit, subdens: ***et concordatur consonantia perfecta***. Nihil enim est aliud harmonia, quam concors consonantia. Haec autem concors consonantia in rebus, causatur secundum consensum et connaturalitatem: ut scilicet consensus referatur ad concordiam voluntatis in his quae voluntatem habent; connaturalitas autem ad concordiam naturalis appetitus. Haec autem harmonica complexio sive concors consonantia et ordinem habet et firmitatem; unde quantum ad ordinem dicit: ***et congregata inconfuse***: confusio enim ordinem tollit; unde illa inconfuse congregantur quae secundum ordinem quemdam, complexionem habent ad invicem. Quantum autem ad firmitatem subdit: ***et indissolubiliter contenta***: est enim indissolubilis firmitas in rerum complexione, non ex congregatorum multitudine, sed ex virtute unius causae continentis et in unum congregantis.
-
-**909**. Deinde, cum dicit: ***transit enim*** etc., ostendit quomodo praedicta harmonia concors statuatur in rebus ex divina pace. Hunc autem modum connexionis exponit tripliciter:
-
-primo quidem quantum ad ea quae connectuntur;
-
-secundo, quantum ad ipsam connexionem; ibi: ***et omnia*** etc.;
-
-tertio, quantum ad causam connectentem; ibi: ***videlicet*** etc.
-
-**910**. Dicit ergo primo quod ideo dictum est quod propter divinam naturam, una et indissolubilis connexio in omnibus consistit, quia ***pax perfectae totalitatis***, idest pax quae est a causa universali perfecta, secundum quod causae totales dicuntur causae universales, haec inquam pax pertransit a prima causa ***ad omnia existentia***, secundum quod virtus unifica primae causae ***uniens***, idest faciens unitatem in rebus, est praesens omnibus simpliciter, idest absque aliqua sui multiplicatione et immixte, quia rebus non permiscetur, sed secundum suam essentiam est rebus absoluta.
-
-Haec quidem ***pax*** divina ***ad omnia transit***, omnia uniendo, per hoc quod reducit omnia in quemdam ordinem: qui quidem ordo consistit in hoc quod quaedam ***extrema*** coniunguntur aliis ***extremis per media***. Nam suprema influunt infimis per media et infima convertuntur ad recipiendum a supremis per media; et sic omnia coniunguntur ***secundum unam connaturalem amicitiam***. Et non solum divina pax coniungit extrema extremis per media, sed etiam ulterius omnia coniungit sibi ipsi, inquantum dat omnibus suo modo ut ***ipsa*** divina pace fruantur et infimae creaturae et quidquid est infimum in quacumque creatura; et hoc est quod dicit: ***et extremis omnis rei terminationibus***; nihil enim est ita infimum in rebus quod non aliquo divino dono participet, ex qua participatione sortitur ut habeat connaturalem amicitiam ad alias creaturas et ut ordinetur ad Deum, sicut ad ultimum finem, qui est ***frui*** Deo.
-
-**911**. Deinde, cum dicit: ***et omnia consentientia faciens*** etc., ostendit modum praedictae connexionis quantum ad ipsam connexionem. Ratio autem connexionis in quadam unitate perficitur et ideo, secundum modum unitatis, attenditur modus connexionis. Est autem considerandum quod unitas attribuitur rebus multipliciter: aliquid enim est quod est simpliciter et secundum se unum, sicut aliquid simpliciter dicitur unum in seipso et quantum ad hoc dicit quod facit ***omnia consentientia unitatibus***.
-
-Dicitur autem aliquid simpliciter idem, non secundum seipsum, sed per relationem ad aliquid quod est alterum: vel ratione aut nomine tantum, sicut si Marcum dicamus idem Tullio vel vestem indumento; aut est alterum secundum rem, sicut si dicamus: Socrates Platoni est idem specie et equus bovi est idem genere; et quantum ad hoc dicit: ***identitatibus***; unum enim dicitur absolute, sed idem relative.
-
-Aliquid vero est quod non est unum simpliciter, sed quasi ex multis adunatum, sicut omne compositum et quantum ad hoc dicit: ***unitionibus***.
-
-Aliquid vero est quod neque simpliciter neque secundum se unum dicitur, sed per relationem ad alterum, sicut unitas congregatorum et ideo subdit: ***congregationibus***; congregata enim minus habent de ratione unitatis quam unita: nam unitum absolute potest dici unum, licet non simpliciter, sed congregata absolute quidem sunt multa, sed secundum quid, unum.
-
-Indivisibilis ergo consensus constituitur ex divina pace in rebus, secundum quod unitatem consequuntur sive per modum simplicis unitatis sive per modum identitatis sive per modum unitionis sive per modum congregationis.
-
-**912**. Deinde, cum dicit: ***videlicet*** etc., ostendit modum praedictae connexionis ex parte causae connectentis; et dicit quod praedicta connexio in rebus statuitur, secundum quod divina pax primo quidem consideratur ut stans immobiliter in seipsa; secundo autem consideratur ut unum exemplar ***in*** quo exemplariter ***omnia***, quae ad pacem pertinent, demonstrantur; tertio, consideratur secundum quod suam similitudinem omnibus tradit. Secundum hoc enim dicitur ***per omnia*** proficisci ***et*** tamen ***a propria identitate non*** recedere.
-
-Ipsa enim divina pax ***procedit ad omnia***, secundum quod per suam similitudinem ***omnibus se tradit, iuxta proprietatem*** uniuscuiusque rei; et tamen ***supermanat*** secundum abundantiam ***pacificae fecunditatis***, quia scilicet plus est in Deo de virtute ad faciendum pacem, quam sit in rebus ad suscipiendum et ideo emanatio pacis a Deo est supra omnem susceptibilitatem rerum. Et licet susceptio pacis sit secundum rerum proprietatem, cum divina pax sic procedat ad omnia secundum emanationem effectuum, tamen ipsa ***manet*** immobilis in seipsa, supereminenter unita ***tota ad totam***, quia non est ibi diversitas partium, quae impediat totum uniri toti.
-
-Non enim tota linea est unum cum tota, quia sic oporteret quod quaelibet pars lineae esset unum cum qualibet parte; sed in simplicibus totum est unum toti. Addit autem: ***et secundum se totam***, quia non est una participatione, sed essentialiter; punctum enim, etsi totum sit unum toti, non tamen secundum se totum, sed secundum unitatem quam participat. Si autem ipsa unitas separata subsisteret, esset tota una toti et secundum se totam. Et sic intelligendum est de Deo, qui est unitus totus ad totum, secundum se totum, per hoc quod est simpliciter et essentialiter unus.
-
-Lectio 3
-
-***Excluduntur obiectiones quaedam et determinatur de pace facta per Christi Incarnationem***
-
-***§3. 414. Quomodo autem, dicat aliquis, desiderant omnia pacem? Multa enim alteritate et discretione gaudent et non aliquando velint sponte quiescere.***
-
-> 415. Et si quidem dicens hoc, dicit alteritatem et discretionem uniuscuiusque existentium proprietatem et quod hanc neque unum existentium existens quod est velit aliquando perdere, non quidem neque nos ad hoc contradicemus, sed et hoc pacis desiderium esse nuntiamus: omnia enim diligunt ad seipsa et pacem habere et uniri et sua et quae sunt suorum esse immobilia et cadere non valentia,
-
-> 416. Et est et mundae singulorum proprietatis perfecta pax servativa, providentiis ipsius pacem donantibus, omnia non bellantia et inconfusa et ad seipsa et ad se invicem salvans et omnia, stabili et indeclinabili virtute, ad sui ipsorum pacem et immobilitatem statuens.
-
-> §4. 417. Et si mota omnia non quiescere, sed moveri semper ipsorum motu velint et hoc desiderium est totorum divinae pacis, omnia in seipsis cadere non valentia salvantis et omnium motorum proprietatem et motivam vitam immobilem et cadere non valentem custodientis, in eo quod mota ad seipsam pacem habentia et eadem modo habentia, operantur ea quae sunt sui ipsorum.
-
-> § 5. 418. Si autem secundum casum a pace alteritatem dicens, conatur probare non esse omnibus amabilem pacem, maxime quidem nihil est existentium quod ab omni perfecte unitione ceciderit: quod enim est omnino instabile et interminatum et incollocabile et indefinitum neque existens est neque in existentibus.
-
-> 419. Si autem istos dicit paci et pacis bonis inimicari qui litibus et furoribus et variationibus et instabilitatibus gaudent, et isti obscuris imaginibus pacifici desiderii tenentur, a passionibus multum moventibus impugnati et istas sedare stulte desiderantes et arbitrantes adimpletione semper fluentium pacem habere seipsos, non consecutione delectationum se detinentium perturbatos.
-
-> 420. Quid dicat quidem aliquis de benignitate pacem effundente secundum Christum? Secundum quam non iam didicimus bellum facere neque nobis ipsis neque aliis neque angelis, sed et cum ipsis divina secundum virtutem operabimur secundum providentiam Iesu omnia in omnibus cooperantis, sed et facientis pacem ineffabilem et ex saeculo praediffinitam et reconciliantis nos sibi ipsi in Spiritu et per ipsum et in ipso Patri. De quibus supernaturalibus donis in *Theologicis hypotyposibus* sufficienter dictum est, testimonium perhibente nobis sancta eloquiorum inspiratione.
-
-> **913**. Postquam Dionysius determinavit de pace, hic movet dubitationem circa praedeterminata: dixerat enim supra, quod omnia desiderant pacem; hic circa hoc quaestionem movet:
-
-primo ergo movet dubitationem;
-
-secundo, solvit; ibi: ***et si quidem*** etc.
-
-**914**. Quaerit ergo primo ***quomodo*** possit dici quod ***omnia desiderant pacem***, cum ***multa*** sint quae in hoc gaudeant quod sunt alia ab aliis discreta et propria ***sponte quiescere non*** volunt, sed semper moveri desiderant. Cum autem ratio pacis in unitate et quiete consistat, haec omnia rationi pacis adversari videntur.
-
-**915**. Deinde, cum dicit: ***et si quidem*** etc., solvit propositam dubitationem, secundum tres intellectus dubitationis propositae;
-
-quorum primum, primo prosequitur;
-
-secundo, secundum; ibi: ***si autem secundum casum*** etc.;
-
-tertio, tertium; ibi: ***si autem istos*** etc.
-
-**916**. Circa primum, duo facit:
-
-primo, ponit solutionem;
-
-secundo, manifestat eam; ibi: ***et est et mundae*** etc.
-
-**917**. Dicit ergo primo quod ***si*** ille qui praemissam dubitationem movet, cum ***dicit*** quod ***multa gaudent alteritate et discretione***, intelligat de alteritate et discretione quae competit unicuique secundum suam propriam naturam, per quam alia ab aliis distinguuntur, quam quidem propriam naturam et distinctionem consequentem, nulla res ***perdere*** vult, contra hunc intellectum non oportet ***nos*** contradicere, ***sed*** dicemus quod desiderare talem discretionem est desiderare pacem: per hoc ***enim omnia diligunt ad*** semetipsa ***pacem habere et*** sibimetipsis ***uniri***, quod volunt ***sua et quae sunt suorum***, idest suas proprias naturas et quaecumque ad eadem pertinent, immobiliter et absque casu permanere. Per hoc autem quod id quod est proprium uniuscuiusque rei conservatur, et servatur pax et unitas rei ad seipsam. Unde sequitur quod desiderare discretionem quae consequitur propriam naturam, est desiderare pacem.
-
-**918**. Deinde, cum dicit: ***et est et mundae*** etc., manifestat praedictam solutionem per efficientiam divinae pacis: praedictam enim discretionem in rebus statuere, ad divinam pacem pertinet, unde non est contrarium desiderio pacis, si talis discretio desideretur. Hoc est ergo quod dicit quod ***perfecta pax***, scilicet divina conservat proprietatem, idest propriam naturam ***singulorum***, in sua munditia et puritate, non permixtam extraneo, sed discretam ab eo. Et hoc quidem pertinet ad providentiam Dei, secundum quod pacem rebus donat; quam quidem providentiam, pluraliter nominat propter diversas providentiae participationes.
-
-Et hoc sic apparet: pertinet enim ad providentiam Dei, secundum quod pacem facit in rebus, ut bellum a rebus excludat quod adversatur paci. Bellum autem in rebus esset nisi confusio tolleretur, quia una res non contineretur intra limites proprios, sed quodammodo invaderet alienos. Sic igitur, per hoc quod divina providentia servat ***omnia non bellantia et inconfusa*** et unumquodque ad seipsum et diversas res ***ad invicem***, statuit pacem in rebus; et hoc est quod subdit quod ***omnia***, secundum stabilem et indeclinabilem virtutem, statuit ***ad sui pacem et immobilitatem***, idest ut immobiliter in propria natura permaneant et sic ad se pacem habeant.
-
-**919**. Et quia iam solvit dubitationem quantum ad hoc quod dictum erat quod multa gaudent et alteritate et discretione, consequenter cum dicit: ***et si mota*** etc., solvit eodem modo dubitationem, quantum ad hoc quod dictum est quod multi ***non*** volunt ***sponte quiescere***; et dicit quod si illa, in quorum natura est quod moveantur, non volunt ***quiescere***, sed volunt ***semper moveri*** proprio ***motu, hoc*** etiam ***desiderium est*** pacis quae a Deo est in omnia derivata, per quam omnia conservantur in seipsis, absque hoc quod cadant ab eo quod competit eis secundum propriam naturam; et per consequens, per divinam pacem conservatur proprietas omnium mobilium et motivorum.
-
-Prima autem motiva sunt immobilia, quia cum in mobilibus non sit procedere in infinitum, necesse est devenire ad aliquod primum moventium immobile, ut probatur VIII physicorum. Primum vero movens immobile, necesse est esse vivens, ut probatur in XII metaphysicorum; et ideo signanter dicit: ***et motivam vitam immobilem***. Sic autem custoditur per divinam pacem, proprietas mobilium et vita immobilis motivorum, ut non excidant a naturali statu.
-
-Intantum autem conservatio proprietatis mobilium et motivorum pertinet ad divinam pacem, inquantum ea quae moventur, sic habent ad seipsa pacem ***et eodem modo*** se habent in sua mobilitate, secundum quod ***operantur ea quae*** ad ipsa pertinent: moveri enim est proprium opus mobilis, inquantum est mobile. Quod autem propriam operationem retinet, habet ad se pacem. Unde patet quod cum ea quae naturaliter moventur, volunt moveri semper et non quiescere, pacem desiderant.
-
-**920**. Deinde, cum dicit: ***si autem secundum casum*** etc., solvit dubitationem motam, quantum ad secundum intellectum dubitationis; et dicit quod ***si*** ille qui dubitationem movit, cum dixit quod multa gaudent alteritate et discretione, non intellexit de alteritate et discretione naturali, quae pertinent ad rationem pacis, sed intellexit de alteritate et discretione ***secundum casum a pace***, idest secundum quod aliquid excidit ab unione in quo consistit ratio pacis et sic velit ***probare*** quod pax non est omnibus amabilis, contra hunc opponentem sic erit dicendum quod ***nihil est*** quod totaliter excidat ab omni unione, in qua consistit ratio pacis.
-
-**921**. Et hoc sic probat: quia nullo modo potest esse aliquid ***existens*** per se vel aliquid ***in existentibus***, ut accidens vel pars, quod omnino ceciderit ab unitione; quem quidem casum quadruplicem per quatuor loquitur: primo quidem quantum ad ipsum casum, cui opponitur statio, secundum quod aliquid stat in naturali unitione; et quantum ad hoc, dicit: ***instabile***.
-
-Deinde ea tangit ex quibus casus accidit: cadit autem aliquid, dum tolluntur ea per quae stabat; stat autem aliquid in naturali unitione per tria:
-
-primo quidem, per terminum quo continetur ne effluat; nam et sicca continentur propriis terminis et humida continentur terminis alienis et forma per quam unaquaeque res continetur in suo esse, terminus dicitur; et quantum ad hoc, dicit: ***interminatum***.
-
-Secundo, aliquid habet stationem per aliquod extrinsecum continens, sicut corpora continentur loco; et secundum hanc similitudinem, omne exterius continens et non conservans, locus dici potest; et quantum ad hoc, dicit: ***incollocabile***.
-
-Tertio, aliquid habet stationem in sua propria operatione ex fine; quia enim artifex habet finem determinatum suae operationis, regulariter operatur secundum regulam finis; quod autem non habet finem determinatum, sed vagatur circa diversos fines, oportet quod sit fluctuans et instabile circa propriam operationem; et quantum ad hoc dicit: ***indefinitum***.
-
-Sic ergo nihil totaliter excidit ab unitione pacis; unumquodque autem appetit et amat id quod est sibi conforme, refugit autem contrarium: impossibile enim est esse aliquod ens quod totaliter unitionem refugiat et appetat alteritatem et discretionem, quae est secundum casum a naturali pace.
-
-**922**. Deinde, cum dicit: ***si autem istos*** etc., solvit dubitationem secundum tertium intellectum, prout id quod dictum est quod multa sunt quae alteritate et discretione gaudent, non referatur ad appetitum naturalem, ut in praemissis, sed ad appetitum voluntarium. Et dicit quod si ille qui movet dubitationem dicat illos homines ***inimicari paci et bonis*** eius, ***qui gaudent*** in exterioribus ***litibus*** et interioribus commotionibus animi quas vocat furores, quae duo pertinent ad divisionem paci contrariam; et iterum gaudent ***variationibus et instabilitatibus*** quae videntur paci contrariari, et hoc quantum ad secundam partem dubitationis, dicendum est quod tales etiam homines detinentur a desiderio pacis, secundum quamdam obscuram similitudinem.
-
-Et hoc sic manifestat: tales enim homines ***multum*** impugnantur ***a passionibus***, quibus commoventur et sic per huiusmodi passiones, eorum pax interior perturbatur. Huiusmodi ergo impugnationem passionum ex desideriis pacis ***sedare*** volunt non sapienter, sed ***stulte***. Putant enim quod possunt habere interiorem pacem, implendo superflua et inordinata sua desideria quae incitantur secundum varias passiones, sed per hoc magis perturbantur, dum non possunt consequi delectationes a quibus detinentur: impossibile est enim quod homo, superfluis et inordinatis desideriis subiacens, omnia desiderata consequi possit; et ideo tales, quaerentes pacem, lites commovent ut sua desideria impleant. Et quia variis desideriis subiacent, variationibus gaudent.
-
-Sapienter autem hanc impugnationem passionum sedarent si, multa desideria reprimentes, ad unum desiderium verae pacis converterentur.
-
-**923**. Deinde, cum dicit: ***quid dicat*** etc., determinat de pace facta per Christi incarnationem, dicens quod sufficiens aliquid dici non potest de pietate Dei quae effundit pacem in mundum per Christum; ***secundum quam*** pacem, ***iam*** liberati a peccato ***didicimus***, doctrina et exemplo Christi et interiori Spiritus Sancti inspiratione, ***non facere bellum*** peccando neque contra nosmetipsos neque discordando a sanctis ***angelis***, sed per hanc pacem, ***secundum*** nostram ***virtutem***, operamur ea quae Dei sunt, simul cum sanctis angelis; et hoc, ***secundum providentiam*** et gratiam ***Iesu*** qui operatur ***omnia in omnibus*** et qui facit illam ***ineffabilem pacem*** quae est ab aeterno praeordinata; per quam pacem, reconciliamur ipsi Christo ***in Spiritu*** Sancto, qui est spiritus dilectionis et pacis; ***per ipsum*** Christum et ***in ipso*** Christo, simul reconciliamur Deo ***Patri***.
-
-**924**. De his autem supernaturalibus donis pertinentibus ad pacem factam per Christum, ***dictum est sufficienter in*** libro de ***Theologicis hypotyposibus*** et hoc secundum testimonia Scripturarum a Deo inspiratarum; et ideo hic de his breviter pertransivimus.
-
-Lectio 4
-
-***De divinis perfectionibus secundum quod per se in abstracto considerantur***
-
-***§ 6. 421. Sed quoniam et alibi per epistolam me interrogasti: quid forte dicam per se esse, per se vitam et per se esse sapientiam et ad teipsum dixisti dubitasse quomodo Deum aliquando quidem per se vitam dico aliquando autem per se vitae substantificatorem, necessarium arbitratus sum, sancte Dei vir, et ab hac dubitatione in nobis te absolvere.***
-
-> 422. Et primum quidem, ut multipliciter dicta et nunc assumam, non est contrarium per se virtutem aut per se vitam dicere Deum et per se vitae aut pacis aut virtutis substantificatorem: haec enim quidem ex existentibus et maxime ex primo existentibus, sicut causa omnium existentium dicitur; illa autem sicut super omnia et etiam quae prius sunt superexistens supersubstantialiter.
-
-> 423. Dicis autem: quid totaliter dicimus per se esse aut per se vitam aut quaecumque absolute et principaliter esse et ex Deo primo subsistere ponimus?
-
-> 424. Hoc autem quod dicimus non est obliquum, sed rectum et simplicem habens manifestationem: non enim substantiam quamdam divinam aut angelicam esse dicimus esse per se quod est causa quod sunt omnia. Solum enim quod sunt existentia omnia et ipsum esse supersubstantiale est principium et substantia et causa. Neque vitae generativam aliam deitatem dicimus praeter superdeam vitam omnium quaecumque vivunt et ipsius vitae per se causam; neque, ut colligendo dicamus, dicimus principales existentium et causativas substantias et personas, quas et deos existentium et causatores per se facientes dixerunt, quos vere et proprie dicendum non existentes, neque ipsi sciverunt neque patres eorum.
-
-> 425. Sed per se esse et per se vitam et per se deitatem dicimus et divine et causaliter unum omnium superprincipale et supersubstantiale principium et causam; participabiliter autem datas ex Deo imparticipabili provisivas virtutes: per se substantificationem, per se vivificationem, per se deificationem, quibus existentia, iuxta proprietatem suam participantia et existentia et viventia et divina et sunt et dicuntur et alia similiter; propter quod et primo ipsorum bonus substantificator dicitur esse; postea, totorum ipsorum; postea, particularium ipsorum; deinde, totaliter ipsis participantium; postea particulariter ipsis participantium.
-
-> 426. Et quid oportet de istis dicere? quando quidem divinorum quidam nostrorum magistrorum sanctorum et ipsius per se bonitatis et deitatis substantificatricem dicunt superbonam et superdeam per se bonitatem et deitatem dicentes esse benificum et deificum ex Deo proveniens donum; et per se pulchritudinem, per se pulchrificam effusionem et totam pulchritudinem et particularem pulchritudinem et totaliter pulchra et in parte pulchra et quaecumque alia secundum eumdem dicta sunt et dicentur modum, monstrantia providentias et bonitates participatas ab existentibus ex Deo imparticipabili procedentes copiosa effusione et supermanantes, ut diligenter omnium causa sit super omnia et excedat omnino supersubstantiale et supernaturale existentia, secundum quamcumque substantiam et naturam.
-
-> **925**. Postquam determinavit Dionysius de pace quae in rebus constituitur per dona divina, hic determinat de ipsis divinis perfectionibus, secundum quod per se in abstracto considerantur; et circa hoc, tria facit:
-
-primo, movet dubitationem;
-
-secundo, solvit eam, ibi: ***et primum quidem*** etc.;
-
-tertio, solutionem per dicta aliorum confirmat, ibi: ***et quid oportet?***
-
-**926**. Est ergo circa primum sciendum quod Timotheus in quadam epistola ad Dionysium scripta, de duobus in ea interrogaverat:
-
-primo, quidem, quid sit per se vita et per se sapientia: talibus enim frequenter Dionysius utitur, ut in praecedentibus patet.
-
-Secundo, Timotheus in eadem epistola dixerat se dubitasse quomodo Dionysius quandoque dicebat ***Deum*** esse ***per se vitam*** quandoque, autem, Deum esse causam ***per se vitae***; et ideo dicit Dionysius quod Timotheum ***ab hac dubitatione*** liberare voluit, quantum in ipso fuit.
-
-**927**. Deinde, cum dicit: ***et primum*** etc., solvit motas dubitationes;
-
-et primo, secundam: ostendens quomodo Deus sit per se vita et causa per se vitae;
-
-secundo, solvit primam: ostendens quid sit per se esse et per se vita; ibi: ***dicis autem*** etc.
-
-**928**. Dicit ergo primo quod non vult nunc assumere ***dicta***, quasi dicta simpliciter; et ideo, quia per se vita non dicitur simpliciter, sed ***multipliciter***, ***non est contrarium*** quod dicamus ***Deum per se vitam aut per se virtutem***; et iterum quod dicamus eum ***substantificatorem***, idest creatorem ***per se vitae aut*** per se ***pacis aut*** per se ***virtutis***. Esset autem contrarium, si ista non multipliciter dicerentur.
-
-Cum enim dicimus Deum esse substantificatorem per se vitae et huiusmodi, laudamus eum ***sicut*** causam ***omnium existentium ex*** illis ***existentibus*** quae ***maxime*** et ***primo*** existunt. Manifestum est enim quod per se vita est prius quam vivens et sic de aliis. Unde, si Deus est causa horum primorum, est causa omnium. Cum vero dicimus Deum esse per se virtutem aut per se vitam, laudatur Deus ***sicut*** existens ***super omnia et*** super ea ***quae sunt*** prima inter omnia dicitur per se vita, per quemdam excessum.
-
-**929**. Deinde, cum dicit: ***dicis autem*** etc., solvit primam dubitationem, scilicet quid sit per se vita;
-
-et primo, repetit quaestionem;
-
-secundo, excludit falsum intellectum; ibi: ***hoc autem*** etc.;
-
-tertio, determinat veritatem; ibi: ***sed per se esse*** etc.
-
-**930**. Proponit ergo primo, ex persona Timothei, quid significetur cum dicitur ***per se esse aut per se*** vita et ***quaecumque*** alia huiusmodi et dicit signanter: ***absolute***, idest abstracte ***et principaliter***, idest sicut principia aliorum; nam per se vita significat principia viventium.
-
-**931**. Deinde, cum dicit: ***hoc autem*** etc., excludit erroneum intellectum. Ad cuius evidentiam sciendum est quod Platonici, ponentes ideas rerum separatas, omnia quae sic in abstracto dicuntur, posuerunt in abstracto subsistere causas secundum ordinem quemdam; ita scilicet quod primum rerum principium dicebant esse per se bonitatem et per se unitatem et hoc primum principium, quod est essentialiter bonum et unum, dicebant esse summum Deum. Sub bono autem ponebant esse, ut supra dictum est et sub esse ponebant vitam et sic de aliis. Et ideo dicebant sub summo Deo, esse quamdam divinam substantiam quae nominatur per se esse et sub hac aliam, quae nominatur per se vita.
-
-**932**. Hoc ergo excludere intendens, dicit quod id quod supra dixerat, quod ***per se esse*** et ***per se*** vita ***primo*** a ***Deo*** subsistunt, non est aliquid erroneum, ***sed*** est ***rectum*** et planas manifestationes habens: ***non enim*** nominamus ***per se esse*** aliquam ***substantiam divinam aut angelicam***, quae sit causa essendi omnibus; addit autem angelicam, quia quos Platonici deos secundos dicebant, nos angelos nominamus. ***Solum enim ipsum esse supersubstantiale*** divinum ***est principium et substantia et causa quod omnia existentia*** sint: ut hoc quod dicit ***principium*** referatur ad ordinem naturae, secundum quod esse divinum praecedit omnia entia; ***substantia***, vero, importet rationem exemplaris: id enim cuius substantia est suum esse, est exemplar omnium existentium; quod autem dicitur ***causa*** pertinet ad hoc quod dat esse existentibus. Similiter autem cum dicimus per se vitam, non intelligimus quamdam ***deitatem*** causativam ***vitae***, quae sit alia praeter vitam summi Dei, qui est causa ***omnium*** quae ***vivunt et*** etiam ***ipsius per se vitae***.
-
-**933**. Et ut in summa omnia colligamus, non dicimus esse aliquas essentias et hypostases separatas quae sint principia rerum et creatrices earum, ***quas*** Platonici ***dixerunt*** esse ***deos*** existentium et creatores, quasi ***per se*** operantes ad rerum productionem. Huiusmodi autem deos, si ***vere et proprie*** loqui volumus, dicamus ***non*** existere in rebus; ***neque*** illi qui tales deos posuerunt, per aliquam certitudinem scientiae hoc invenerunt aut ***ipsi*** aut ***patres eorum***; quia neque primi Platonici neque posteriores, huius rei scientiam per certas et firmas scientias accipere potuerunt, sed per quasdam humanas rationes decepti sunt ad opinandum.
-
-**934**. Deinde, cum dicit: ***sed per se esse*** etc., excluso errore, solvit secundum veritatem; et dicit quod ***per se esse et per se*** vita et huiusmodi, dupliciter dicuntur:
-
-uno modo, dicuntur de Deo qui est ***unum supersubstantiale principium omnium et*** causa; et dicitur Deus per se vita vel per se ens, quia non vivit participatione alicuius vitae neque est per participationem alicuius esse, sed ipse est suum vivere et sua vita et excedens omne esse et omnem vitam quae participatur a creaturis et existens principium vivendi et essendi omnibus.
-
-Alio autem modo, per se esse et per se vita dicuntur ***virtutes*** vel perfectiones quaedam secundum providentiam unius Dei imparticipabilis datae creaturis ad participandum. Licet enim Deus, qui est harum virtutum principium, in se imparticipabilis maneat et per consequens non participetur, tamen dona ipsius dividuntur in creaturis et partialiter recipiuntur, unde et participari dicuntur a creaturis; et secundum quod participantur secundum ***proprietatem*** uniuscuiusque participantium, secundum hoc ***participantia et sunt et dicuntur*** ex natura ***existentia***, inquantum participant esse; ***et viventia***, inquantum participant vita; ***et divina*** inquantum participant deitate; et simile est de aliis. Et quia principium imparticipatum, causa est et participationum et participantium, ideo Deus et participationum et participantium ***substantificator*** est.
-
-**935**. Participationes autem ipsae tripliciter considerari possunt: uno modo secundum se, prout abstrahunt et ab universalitate et a particularitate, sicut signatur cum dicitur: per se vita; alio modo considerantur in universali, sicut dicitur vita totalis vel universalis; tertio modo in particulari, secundum quod vita dicitur huius vel illius rei.
-
-**936**. Similiter et participantia dupliciter considerari possunt: uno modo in universali, ut si dicatur vivens universale vel totale; alio modo, in particulari, ut si dicatur hoc vel illud vivens.
-
-**937**. Et horum omnium Deus causa est; et hoc est quod dicit quod ***bonus***, idest Deus ***primo*** quidem ***dicitur esse substantificator ipsorum***, scilicet per se vitae et per se esse et huiusmodi, prout per se et absolute consideratur; ***postea, totorum ipsorum***, idem universalis esse et similium; ***postea particularium ipsorum***, ut particularis esse vel particularis vitae; ***postea totaliter participantium ipsis***, viventis universalis et existentis universalis; ***postea particulariter ipsis participantium***, ut huius vel illius entis aut viventis.
-
-**938**. Deinde cum dicit: ***et quid oportet*** etc., confirmat solutionem propositam per dicta aliorum et dicit quod non oportet de praemissis dubitare, cum aliqui ex doctoribus divinae et Christianae religionis, sicut Hierotheus et alii apostolorum discipuli, hoc ipsum dicant, scilicet quod bonitas et deitas omnibus supereminens, est causa ***ipsius per se deitatis et bonitatis***, nominantes ***per se bonitatem*** quoddam ***donum ex Deo proveniens*** per quod entia sunt bona; ***et*** per se ***deitatem*** quoddam Dei donum, per quod aliqui fiunt participative dii; et similiter nominant ***per se pulchritudinem***, ipsam ***effusionem*** pulchritudinis per quam causatur et universalis et particularis pulchritudo in rebus et per quam fiunt aliqua et universaliter et particulariter ***pulchra***.
-
-Et similiter est dicendum de omnibus aliis ***quaecumque*** dicuntur ***secundum eumdem modum***, quibus demonstrantur dona divinitus provisa ***et bonitates*** participatae ***ab*** entibus creatis, quae procedunt ***copiosa effusione et*** supermanant a ***Deo*** qui est imparticipabilis, cum ipse non fiat pars alicuius; ita quod ipse, qui est ***causa omnium***, perfecte ***sit super omnia et*** ipse Deus, qui est supersubstantialis et supernaturalis, ***excedat*** omnem ***substantiam et naturam***, inquantum neque participat neque participatur, sed remanet in sua puritate simplex et indivisus.
-
-Caput 12
+Sed ***Deum convenit laudare*** communiter ***et*** per ***aevum et*** per ***tempus***; quia ipse est causa et temporalium et aeternorum et est supra aeternitatem et tempus, prout aeternitas et tempus intelliguntur participata a creatura; ***et*** convenit etiam eum laudare sicut ***Antiquum Dierum***, prout est prior et superior omni tempore; et quod ipse variat ***quatuor partes anni*** ***et*** omnia ***tempora*** et tamen ipse existit immobiliter ***ante*** omnia ***saecula, inquantum*** ipse ***est*** non solum prior et superior tempore, sed etiam aevo, idest aeternitate prout participatur a creaturis; et sic, **regnum eius** est **regnum omnium saeculorum**, tam temporalium quam aeternorum.

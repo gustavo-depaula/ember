@@ -1,5 +1,0 @@
-# Article 23
-
-Ad quod dicendum est quod Christus principaliter venit ad introducendum homines in vitam aeternam, sicut dicit ipse Joan. X, 10: *ego veni ut vitam habeant*; unde omne impedimentum vitae aeternae venit removere ex consequenti et ideo venit tollere omne peccatum. Sed sicut bonum commune est melius quam bonum particulare unius, ita malum multorum est pejus; unde principalius venit tollere peccatum originale quod totam humanam naturam infecerat, quam singulorum particularia peccata: unde super illud Joan. I, 29: *ecce qui tollit peccatum mundi*, dicit Glossa: *peccatum mundi dicitur originale peccatum est quod commune totius mundi*, et infra: *quod originale et omnia peccata superaddita gratia relaxat*. Melius ergo dicendum videtur affirmative quod Christus venit principalius tollere originale peccatum quam alia quam negative; sicut ponitur quod Christus principaliter non venit tollere nisi originale peccatum: nam etiam tollere actualia peccata pertinet ad principalem intentionem Christi, qui venit mundum salvare, secundum illud Luc. V, 32: *veni vocare peccatores in poenitentiam*.
-
-Articulus 24

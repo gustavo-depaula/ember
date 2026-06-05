@@ -1,5 +1,7 @@
-# Quaestio 69 — Deinde considerandum est de opere tertiae diei. Et circa hoc quaeruntur duo.
+# Quaestio 69
 
-Primo, de congregatione aquarum.
+***Deinde considerandum est de opere tertiae diei. Et circa hoc quaeruntur duo.***
 
-Secundo, de productione plantarum.
+Primo, de congregatione aquarum.  
+
+- Secundo, de productione plantarum.

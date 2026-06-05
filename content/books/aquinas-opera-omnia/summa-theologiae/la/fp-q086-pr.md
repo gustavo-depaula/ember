@@ -1,9 +1,11 @@
-# Quaestio 86 — Deinde considerandum est quid intellectus noster in rebus materialibus cognoscat. Et circa hoc quaeruntur quatuor.
+# Quaestio 86
 
-Primo, utrum cognoscat singularia.
+***De cognitione nostre in rebus materialibus***
 
-Secundo, utrum cognoscat infinita.
+Deinde considerandum est quid intellectus noster in rebus materialibus cognoscat. Et circa hoc quaeruntur quatuor.  
 
-Tertio, utrum cognoscat contingentia.
+Primo, utrum cognoscat singularia.  
 
-Quarto, utrum cognoscat futura.
+- Secundo, utrum cognoscat infinita.
+- Tertio, utrum cognoscat contingentia.
+- Quarto, utrum cognoscat futura.

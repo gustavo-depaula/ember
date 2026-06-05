@@ -1,393 +1,445 @@
-# C. 13 - Obedience and Love
+# C. 12 - The New Life in Christ
+
+***The New Life in Christ***
 
 ***Lecture 1***
 
-***Obedience to hierarchical power***
+***Life according to grace***
 
-***^13:1^ Let every soul be subject to higher powers. For there is no power except from God, and those who are ordained of God. [n. 1016]***
+^12:1^ I beseech you therefore, brethren, by the mercy of God, that you present your bodies a living sacrifice, holy, pleasing unto God, your reasonable service. [n. 953]  
 
-> ^13:2^ Therefore, he who resists the power resists the ordinance of God. And they who resist purchase to themselves damnation. [n. 1025]
+> ^12:2^ And be not conformed to this world, but be reformed in the newness of your sense, that you may perceive what is the good and the acceptable and the perfect will of God. [n. 965]
 
-> ^13:3^ For princes are not a terror to the good work, but to the evil. Do you will then to not fear power? Do what is good: and you will have praise from the same. [n. 1029]
+> ^12:3^ For I say, by the grace that is given me, to all that are among you, not to be more wise than is fitting to be wise, but to be wise unto sobriety and according as God has divided to each one the measure of faith. [n. 968]
 
-> ^13:4^ For he is God’s minister to you for good. But if you do what is evil, be afraid: for he carries not the sword in vain. For he is God’s minister: an avenger to execute wrath upon him that does evil. [n. 1034]
+> **953**. Having shown the need for virtues and the origin of grace, here the Apostle teaches how grace should be used, a subject pertaining to moral instruction.
 
-> ^13:5^ Therefore one must be subject of necessity: not only for wrath, but also for conscience’s sake. [n. 1036]
+And he does two things in this regard.  
 
-> ^13:6^ For therefore also you pay tribute. For they are the ministers of God, serving unto this purpose. [n. 1037]
+First, he sets out a general moral teaching;  
 
-> ^13:7^ Render therefore to all men their dues. Tribute, to whom tribute is due: custom, to whom custom: fear, to whom fear: honor, to whom honor. [n. 1042]
+Second, he descends to more particular questions related to the recipients of his letter, at ***and I myself also*** (Rom 15:14).  
 
-> **1016**. After showing how man should behave toward God by using the gifts of his grace, the Apostle now shows how man could comport himself toward his neighbor.
+And regarding the first, he does two things.  
 
-First, in regard to superiors;
+First, he teaches how one should use grace to be a perfect man;  
 
-second, toward all, at ***owe no man any thing*** (Rom 13:8).
+Second, how the perfect man should sustain the imperfect, at ***now him that is weak*** (Rom 14:1).  
 
-In regard to the first he does two things:
+Concerning the first, he does three things.  
 
-first, he urges men to the subjection owed to superiors;
+First, he offers instruction about that perfection of life relating to the sanctity by which a man serves God;  
 
-second, to show the sign of subjection, at ***wherefore be subject of necessity***.
+second, relating to just dealings with one’s neighbor, at ***let every soul*** (Rom 13:1);  
 
-In regard to the first he does three things:
+third, relating to that purity a man must preserve within himself, at ***and that, knowing the season*** (Rom 13:11).  
 
-first, he proposes his teaching;
+Regarding the first, he does two things.  
 
-second, he assigns a reason, at ***for there is no power but from God***;
+First, he admonishes that a man should present himself holy to God;  
 
-third, he draws the conclusion, at ***therefore***.
+second, he teaches how one should use the gifts of God’s grace that make one holy, at ***for I say, by the grace***.  
 
-**1017**. In regard to the first it should be noted that in the early Church some believers said that they should not be subject to earthly powers on account of the freedom they received from Christ, since it says in John: *if the Son makes you free, you will be free indeed* (John 8:36). But the freedom granted by Christ is a freedom of the spirit, by which we are set free of sin and death, as was said above: *the law of the Spirit of life in Christ Jesus has set me free from the law of sin and death* (Rom 8:2). The flesh, however, remains subject to slavery, as was stated above (Rom 7:14). Therefore, the time when a man freed by Christ will not be liable to any subjection, either spiritual or carnal, will be *when Christ delivers the kingdom to God the Father after destroying every rule and every authority and power* (1 Cor 15:24).
+Regarding the first, he does two things.  
 
-In the meantime, as long as we live in the flesh, we are subject to temporal rulers; hence it says in Ephesians: *servants, obey your masters in the flesh* (Eph 6:5). And that is what the Apostle says here: ***let every soul be subject to the higher powers***.
+First, he teaches how one should present oneself to God as regards the body;  
 
-What he calls higher powers are men established in power, to whom we owe subjection according to the order of justice: *be subject for the Lord’s sake to every human institution, whether it be to the emperor as supreme or to governors as sent by him* (1 Pet 2:13).
+Second, as regards the soul, at ***and be not conformed***.  
 
-**1018**. And he says indefinitely ***higher powers*** so that we may subject ourselves to them by reason of the sublimity of their office, even if they are wicked: *be submissive to your masters, not only to the kind and gentle, but also to the overbearing* (1 Pet 2:18).
+**954**. Regarding the first, he does two things.  
 
-**1019**. The words ***every soul*** are to be taken as a synecdoche for *every man*, as we find in Genesis, *that soul shall be destroyed from among his people* (Gen 17:14).
+First, he leads them to heed what he has taught, and this in two ways. First, on his own account, when he says, ***I beseech you therefore, brethren***, as though to say: God’s judgments were described as beyond all comprehension, and his ways as beyond all investigation, and so ***I beseech you, brethren***, that you heed what you have been taught.  
 
-And he uses this figure of speech because we owe subjection to the authorities from the soul, i.e., from a pure will: *not serving to the eye, as though pleasing men, but from the soul with a good will* (Eph 6:6).
+**955**. Now he resorts to beseeching them for three reasons.  
 
-**1020**. Then when he says, ***for there is no power***, he presents the reason for this admonition:
+First, to show his humility: *with supplication speaks the poor man* (Prov 28:23), namely, the one who puts no trust in his own wealth, and on this account attempts to compel men to good deeds not by what belongs to him but by what belongs to God. For to beseech is to call on sacred things as witnesses.  
 
-first, because subjection is honorable;
+Second, to move his readers more by asking than by fear, by commanding as one in authority: *accordingly, though I am bold enough in Christ to command you to do what is required, yet for love’s sake I prefer to appeal to you* (Phlm 1:8ff.); *you who are spiritual, instruct such a one in a spirit of gentleness* (Gal 6:1).  
 
-second, because it is necessary, at ***he who resists***.
+Third, out of reverence for the Romans, to whom he wrote: *do not rebuke an older man but exhort him as you would a father* (1 Tim 5:1).  
 
-In regard to the first he does two things:
+**956**. Next he leads them to heeding on God’s account when he says, ***by the mercy of God***, that mercy by which you are saved: *according to his mercy he saved us* (Titus 3:5). And so when we consider God’s mercy we should do what we have been taught: *should you not have had mercy on your fellow servant, as I had mercy on you?* (Matt 18:33).  
 
-first, he presents two principles;
+Or it could mean ***by the mercy of God***, i.e., in virtue of the apostolic authority mercifully entrusted to me: *I give my opinion as one who by the Lord’s mercy is trustworthy* (1 Cor 7:25).  
 
-second, he concludes from them, at ***therefore, he who resists***.
+**957**. Second, he gives the admonition when he says: ***that you present your bodies***.  
 
-**1021**. First, therefore, he speaks about the source of power, saying: ***there is no power except from God***.
+Here it should be noted that, as Augustine says in the tenth book of *The City of God*, a visible sacrifice offered outwardly to God is a sign of an invisible sacrifice, whereby one offers himself and all he possesses for God’s service.  
 
-For whatever is said in common of God and creatures, comes to creatures from God, as in the case of wisdom: *all wisdom comes from God* (Sir 1:1). But power is said of God and of men: *God does not abandon the powers, since he is powerful* (Job 35:5). Hence, it follows that all human power is from God: *the most high rules the kingdom of men, and gives it to whom he will* (Dan 4:17); *you would have no power over me, unless it had been given you from above* (John 19:11).
+**958**. Now man possesses three goods.  
 
-**1022**. But a passage in Hosea seems to be against this: *they made kings, but not through me. They set up princes, but without my knowledge* (Hos 8:4).
+First, he has the soul, which is presented to God by humble devotion and contrition: *the sacrifice acceptable to God is a contrite spirit* (Ps 51:17).  
 
-The answer is that royal power or the power associated with any other dignity can be considered from three aspects. First, in regard to the power itself, which is from God *through whom kings reign* (Prov 8:15).
+Second, a man has external goods, which he presents to God by giving alms: *do not neglect to do good and to share what you have, for such sacrifices are pleasing to God* (Heb 13:16).  
 
-Second, in regard to the way in which power is obtained: from this aspect, power is from God sometimes, namely, when a person obtains it rightfully, as it says in Hebrews: *one does not take the honor upon himself, but he is called by God, as Aaron was* (Heb 5:4). But sometimes it is not from God but from a perverse desire of a man, who obtains power through ambition or some other unlawful manner: *have we not by our own strength taken horns for ourselves?* (Amos 6:13).
+Third, a man has the good which is his own body. In regard to this he says: ***present***, i.e., to God, ***your bodies***, as a spiritual sacrifice. Now an animal offered to God was called a sacrifice, either because it was offered for victory over enemies or for protection from enemies or because it was offered in the entrance of the Tabernacle.  
 
-Third, it can be considered in regard to its use, and then it is from God sometimes, as when a person observes the precepts of divine justice in using the power granted him: *by me kings rule* (Prov 8:15). But sometimes it is not from God, as when a person uses power given to him to act against divine justice: *the kings of the earth set themselves, and the rulers take counsel together, against the Lord and his anointed* (Ps 2:2).
+**959**. A person can present his body to God as a sacrifice in three ways.  
 
-**1023**. The question arises whether the power to sin is from God.
+First, when he exposes his body to suffering and death for God’s sake, as it is said of Christ: *he gave himself up for us, a fragrant offering and sacrifice to God* (Eph 5:2); and as the Apostle says of himself: *even if I am to be poured as a libation upon the sacrificial offering of your faith, I rejoice* (Phil 2:17).  
 
-The answer is that the power by which one sins is from God. For it is the same power that is employed in sinning and in doing right: but that it is directed to good is from God; that it is directed to sin is due to a defect of the creature, inasmuch as it springs from nothingness.
+Second, when he weakens his body by fasts and watchings in the service of God: *I pummel my body and subdue it* (1 Cor 9:27).  
 
-**1024**. Second, he states that ***those that exist have been instituted by God***, the reason being that God made all things through his wisdom, for it says in a psalm: *in wisdom have you made all* (Ps 104:24). But it is the function of wisdom to dispose of things in order: *she reaches mightily from one end of the earth to the other, and she orders all things well* (Wis 8:1). Therefore, divine effects must be orderly: *do you know the ordinances of the heavens?* (Job 38:33).
+Third, when he uses his body to perform acts of justice and of divine worship: ***yield your members to serve justice unto sanctification*** (Rom 6:19).  
 
-But God has established a twofold order in his effects: one, whereby all things are ordained to him: *the Lord has made everything for himself* (Prov 16:4); the other is that whereby divine effects are ordained one to another, as Deuteronomy says of the sun and the moon and the stars, that he made them *to serve all nations* (Deut 4:19).
+**960**. Moreover, one should recall that the offering sacrificed to God had four features.  
 
-**1025**. Then when he says, ***therefore, he who resists***, he draws the conclusion.
+First, the thing offered was to be sound and unimpaired; hence Malachi: *cursed be the cheat who has a male in his flock and vows it, and yet sacrifices to the Lord what is blemished* (Mal 1:14). And this is why he says ***living***, i.e., that the offering we make to God of our body be living by faith formed by love: *the life I now live in the flesh I live by faith in the Son of God* (Gal 2:20).  
 
-For if the power of rulers is from God and nothing is from God without order, it follows that the order whereby the lower are subjected to the higher powers is from God. ***Therefore, he who*** acts against the order and ***resists the power, resists the ordinance of God***: *they have not rejected you, but they have rejected me* (1 Sam 8:7); *he who rejects you rejects me* (Luke 10:16).
+Note here that a natural sacrificial offering previously alive was killed and immolated to show that death as yet ruled the human race so long as sin reigned, as was said above (Rom 5:12ff.). But this spiritual sacrificial offering is always alive and increasing in vigor, in accord with John: *I came that they may have life and have it abundantly* (John 10:10), because sin has now been removed through Christ; unless we say that the sacrificial offering of our body is something alive to God through the justice of faith but is dead to the desires of the flesh: *mortify therefore your members which are upon the earth* (Col 3:5).  
 
-But to resist the divine order is contrary to the good of virtue. Hence, whoever resists power in anything that pertains to the order of this power acts against virtue.
+**961**. Second, the sacrificial offering presented to God was sanctified in its very immolation. Hence it is written: *every man of your race who, having an uncleanness, approaches these things that are consecrated, and that the children of Israel offer to the Lord, shall perish before the Lord* (Lev 22:3). Therefore, he adds ***holy***, made so by the devotion with which we bind our bodies to the service of God: *consecrate yourselves, therefore, and be holy, because I the Lord your God am holy* (Lev 20:7). Now holiness in the proper sense bespeaks a relation to God, insofar as one does what is just before God.  
 
-**1026**. Then when he says, ***those who resist***, he shows that this subjection is not only virtuous but necessary.
+**962**. Third, when the sacrifice was consummated, it was described as a sacrifice pleasing and acceptable to God: *the priest shall burn the whole on the altar as a burnt offering, an offering by fire, a pleasing odor to the Lord* (Lev 1:9). Hence, he says: ***pleasing to God***, by reason of a right intention: *that I may be pleasing to God in the light of the living* (Ps 56:13).  
 
-First, he states his proposition;
+**963**. Fourth, in the preparation of the sacrifice, salt was added: *you shall season all your offerings with salt* (Lev 2:13); *every victim shall be salted with salt* (Mark 9:49). Now salt signifies a wise discretion; hence he says: *conduct yourselves wisely toward outsiders. Let your speech always be gracious, seasoned with salt* (Col 4:5).  
 
-second, he proves it, at ***for rulers***.
+Hence, he continues: ***your reasonable service***, i.e., be discreet in presenting your bodies to God as a sacrifice whether by martyrdom or abstinence or any other just work, because *all things should be done decently and in order* (1 Cor 14:40); *the king’s honor loves judgment* (Ps 99:4).  
 
-**1027**. He says, therefore: it has been stated that ***he who resists the power resists the ordinance of God***, and this should be avoided as contrary to virtue. Yet there are many who have no love for virtue and who do not detest things contrary to virtue. Such persons must be compelled to avoid evil by punishments. In regard to this he says: ***they who resist*** the divine ordinance ***incur to themselves damnation*** for acting against the order of authority.
+**964**. The just man is related one way to internal acts, by which he serves God, and another way to external acts. For a man’s good and his justice consist mainly in the internal acts, by which he believes, hopes, and loves. Hence it says in Luke, *the kingdom of God is within you* (Luke 17:21). For it does not consist principally of exterior works, as is said below, ***the kingdom of God is not food and drink*** (Rom 14:17). Hence, internal acts stand as an end sought for its own sake, whereas external acts, in which our bodies are presented to God, stand as means to the end.  
 
-This can be understood in one way as referring to eternal damnation, which is incurred by those who refuse to be subject to authority in matters in which they should be subject. As an example of this, Dathan and Abiron, who resisted Moses and Aaron, were swallowed up by the earth, as it says in Numbers (Num 16:20).
+No limit is set on something sought as an end; rather, the greater it is the better it is. But on what is sought as a means to an end, a limit is set in accord with its proportion to that end. Thus, a doctor seeks as much health as possible, but he does not give as much medicine as he can; rather, he limits it to the amount required for restoring health. Similarly, a person should set no limit on his faith, hope, and love; rather, the more he believes and hopes and loves, the better he is. Hence it is stated in Deuteronomy: *you shall love the Lord your God with all your heart* (Deut 6:4).  
 
-In another way it can be understood as referring to the punishments imposed by the authorities themselves: *the dread wrath of a king is like the growling of a lion; he who provokes him to anger forfeits his life* (Prov 20:2).
+But in external acts a discreet limit is imposed by the requirements of love. Hence Jerome says: *does not rational man lose his dignity, if he chooses to fast and watch at the expense of his bodily health or incur the marks of madness or sadness from singing the Psalms and office?*  
 
-**1028**. But against this is the fact that the apostles and martyrs seem to have resisted rulers and authorities and did not receive damnation from God as a result but rather a reward.
+**965**. Then when he says, ***be not conformed*** and so on, he explains how one should present himself to God as regards the soul.  
 
-The answer is that the Apostle is now speaking of one who resists a lower power as established by God. But the divine order requires that a lower power not be obeyed in opposition to a higher one, as even in human affairs a governor is not obeyed against an emperor, nor a bailiff against a king. And every human power is set under the divine power, so that no human power should be obeyed against God, as it says in Acts: *we must obey God rather than men* (Acts 5:29).
+And first he forbids conformity to the age, when he says ***be not conformed to this age***, i.e., to things that pass with time.  
 
-**1029**. Then, when he says, ***for rulers***, he assigns the reason for what he had said.
+For the present age is the measure of things that slide past in time. And a person is conformed to temporal things when he clings to them with love: *they became detestable, like the things they loved* (Hos 9:10); *religion clean and undefiled before God and the Father, is this . . . to keep oneself unspotted from this world* (Jas 1:27). The one who imitates worldly lifestyles is also conformed to this age: *I testify in the Lord, that henceforward you walk not as also the gentiles walk in the vanity of their mind* (Eph 4:17).  
 
-First, he presents the reason;
+**966**. Second, he tells them to reform their minds inwardly, when he says: ***but be reformed in the newness of your sense***.  
 
-second, from this reason he draws a useful teaching, at ***do you will then to not fear the power?***;
+Man’s sense is here called his reason, because with the senses man forms judgments about what is to be done. When man was created, this sense was sound and vigorous: *he filled their hearts with sense, and showed them good and evil* (Sir 17:7); but by sin it was corrupted and, as it were, grown old: *you have grown old in a foreign land* (Bar 3:10). As a consequence, it lost its beauty and charm: *from the daughter of Zion has departed all her charm* (Lam 1:6).  
 
-third, he shows the necessity of this teaching, at ***but if you do evil***.
+Therefore, the Apostle tells us to be reformed, i.e., to take up again that beauty and elegance which the mind once had. This is accomplished by the grace of the Holy Spirit. If a person does not share in this grace, he should desire to do so, and if he does share in it, he should desire to progress in it: *be renewed in the spirit of your minds* (Eph 4:23); *your youth shall be renewed like the eagle’s* (Ps 103:5).  
 
-**1030**. First, therefore, he says: It has been stated that ***those who resist power, incur damnation***, ***for rulers***, who are here called powers, ***are not a terror***, i.e., a cause of terror, ***to good work***, i.e., because of good conduct, ***but to the evil***, i.e., because of bad conduct.
+Or, interpreting in another way, ***be renewed*** in your outward actions ***in the newness of your sense***, i.e., in the newness of grace, which you have received in your mind.  
 
-It seems that this should be understood with reference to the reason for establishing rulers. For the reason why rulers are established is in order that those who are not inclined by any love of virtue to avoid evil and do good, may do so by fear of punishment: *a king who sits on the throne of judgment winnows all evil with his eyes* (Prov 20:8). And according to this interpretation it says that rulers are not a terror to good conduct but to bad as regards what rulers do in virtue of their office, as Isaiah says, *but the prince will devise such things as are worthy of a prince* (Isa 32:8).
+**967**. Third, he gives a reason for this admonition when he says: ***that you may perceive***.  
 
-This can also refer to evil rulers, who are not a terror to good conduct, but to bad. For even though they sometimes unjustly persecute those who do good, the latter have no reason to fear; because if they endure it patiently, it turns out for their good: *even if you do suffer for justice’s sake, you will be blessed. Have no fear of them, nor be troubled* (1 Pet 3:14).
+Here it should be noted that just as a person with a diseased palate misjudges the taste of foods and sometimes recoils from the tasty but approves the disgusting, whereas a person with a healthy palate judges tastes correctly; so a person whose affections are corrupted by conformity to worldly things misjudges the good, whereas a person whose affections are upright and sound, his sense having been renewed by grace, judges the good correctly.  
 
-From what is said here the reason can be assigned why those who resist authority incur condemnation, whether it be the punishment inflicted by rulers on those who rebel, or the damnation by which men are punished by God. For if rulers are a terror to bad conduct, it follows that those who resist their authority are acting wickedly and thus are the cause of their temporal and eternal punishment.
+That is why he said: ***be not conformed to this world, but be reformed in the newness of your sense***, ***that you may perceive***—i.e., know by experience: *taste and see that the Lord is sweet* (Ps 34:8)—***what is the will of God***, by which he wills that you be saved: *this is the will of God, your sanctification* (1 Thess 4:3). That will is ***good***, i.e., he wills that we will the honorable good and by his precepts leads us to it: *I will show you, O man, what is good, and what God requires of you* (Mic 6:8). ***And acceptable***, inasmuch as what God wills that we will is pleasant to a well-disposed person: *the precepts of the Lord are right, rejoicing the heart* (Ps 19:8). Indeed, what God wills is not only useful for attaining our end but also ***perfect***, uniting us, as it were, with the end: *you must be perfect as your heavenly Father is perfect* (Matt 5:48); *walk before me and be perfect* (Gen 17:1).  
 
-**1031**. Then when he says, ***do you will then to not fear***, he draws a useful teaching from what he had said, namely, how to avoid the terror of rulers.
+God’s will is experienced as good, acceptable, and perfect by those who are not conformed to this age, but are reformed in the newness of their sense. On the other hand, those who continue in their oldness, being conformed to this age, judge that God’s will is not good but burdensome and unprofitable: *wisdom seems very harsh to the uninstructed* (Sir 6:20).  
 
-First, he suggests by his question that this is desirable, saying: ***do you will then to not fear power?*** As if to say: this should appeal to a person: *as the roar of a lion, so is the terror of a king* (Prov 20:2).
+**968**. Then when he says, ***for I say, by the grace that is given me***, he teaches how God’s gifts should be used.  
 
-**1032**. Second, he shows how to avoid this fear, saying: ***do what is good***. For it says in Proverbs: *righteous lips are the delight of a king* (Prov 16:13), and in a psalm: *he who walks in the way that is blameless shall minister to me* (Ps 101:6).
+First, he teaches this in regard to gifts that are not common to all, such as the graces freely given;  
 
-**1033**. Third, he shows the effect of this, saying: If you do what is good, you will not only avoid evil but ***you will have praise from the same***. This is obvious when one considers the reason why authority is established. For it is established not only to keep us from evil conduct through fear of punishment but also to induce us to good conduct through rewards, as it says in 1 Peter: *be subject to governors as sent by the emperor to punish those who do wrong and to praise those who do right* (1 Pet 2:14). This is also true of evil rulers, whose unjust persecution ends in praise for those who endure it patiently: *we call those happy who were steadfast* (Jas 5:11).
+second, in regard to the gift of charity, which is common to all, at ***let love be without dissimulation*** (Rom 12:9).  
 
-**1034**. Fourth, he assigns the reason, saying: ***for he is God’s minister to you for good***. This is clear in regard to the proper order of rulers. For they are under the authority of God, the supreme ruler, as his ministers: *because as ministers of his kingdom, you did not rule rightly* (Wis 6:4). But the ruler and the ministers work for the same end: *like the magistrate of the people, so are his officials* (Sir 10:2). Therefore, just as God works for the good of those who do good, so also do rulers, if they perform their office properly.
+In regard to the first he does two things.  
 
-Furthermore, even wicked rulers are God’s ministers for inflicting punishments according to God’s plan; although this is not their intention: *ah, Assyria, the rod of my anger, the staff of my fury . . . but he does not so intend* (Isa 10:5). *Behold I will send, and take all the kindreds of the north, says the Lord, and Nabuchodonosor the king of Babylon my servant: and I will bring them against this land, and against the inhabitants thereof, and against all the nations that are round about it* (Jer 25:9). And also because such wicked rulers sometimes afflict good men, God permitting, who profit thereby; for ***we know that in everything God works for the good with those who love him*** (Rom 8:28).
+First, he teaches in general how one ought to use graces freely given;  
 
-**1035**. Then when he says ***but if you do evil***, he shows the necessity of this teaching.
+second, he follows this up in the parts, at ***having gifts*** (Rom 12:6).  
 
-For it has been stated that if you do right, you will not fear authority; ***but if you do evil, be afraid***, because you have reason to fear: *destruction to evildoers* (Prov 10:29); *wickedness is a cowardly thing, condemned by its own testimony* (Wis 17:11).
+Concerning the first, he does two things.  
 
-Second, he assigns the reason, saying: ***for he carries not the sword in vain***. He uses language in keeping with the practice of rulers who carried the instruments of punishment as signs of their power; for example, a bundle of rods for whipping, and axes or swords for killing: *be afraid of the sword, for wrath brings the punishment of the sword* (Job 19:29).
+First he sets out the instruction;  
 
-Third, he explains the reason, saying: ***he carries***, I say, ***the sword, because he is God’s minister, an avenger to execute his wrath***, i.e., God’s wrath, i.e., his just judgment, ***upon him that does evil***: *behold, I will gather together all your lovers . . . and I will judge you as adulteresses . . . and I will deliver you into their hands* (Ezek 16:37ff.). *Those who do evil are an abomination to kings, for the throne is established by justice* (Prov 16:12).
+second, he gives the reason for it, there at ***for as in one body*** (Rom 12:4).  
 
-From this it is clear that it is not only lawful but meritorious for rulers to execute vengeance on the wicked, when it is done out of zeal for justice. Hence: *and it shall be wages for his army, and for the service that he has done me against it* (Ezek 29:19ff.).
+**969**. In regard to the first he does three things.  
 
-**1036**. Then when he says, ***therefore, one must be subject***, he draws the main conclusion, saying: ***therefore***, i.e., for the reasons given, ***one must be subject*** to rulers of necessity, namely, because this is necessary for salvation, or be subject voluntarily to the necessity whereby the ruler’s power inclines you to do right of necessity; ***not only for wrath***, i.e., to avoid vengeance, which pertains to the second reason, ***but also for the sake of*** preserving a good ***conscience***, which pertains to the first reason, because ***he who resists authority resists what God has appointed***: *admonish them to be subject to princes and powers* (Titus 3:1).
+First, he warns against excess, saying: I have encouraged you to be renewed by the newness of your sense, but you should do this in moderation, ***for I say***, i.e., I command, ***by the grace*** of the apostleship and the apostolic authority ***given to me***: *when they perceived the grace that was given to me among the gentiles* (Gal 2:9); *to me, the least of all the saints, this grace was given* (Eph 3:8). ***To all that are among you***, because it is profitable to every one: *I wish that all were as I myself am* (1 Cor 7:7).  
 
-**1037**. Then when he says, ***for therefore also you pay tribute***, he urges men to show the sign of their subjection to authority:
+This, I say, I command: ***not to be more wise than is fitting to be wise***, i.e., no one should presume, relying on his own sense or wisdom beyond his limitations: *be not wiser than is necessary* (Eccl 7:16); *I have not walked among great things, nor among marvels above me* (Ps 131:1).  
 
-first, he mentions the sign of subjection;
+**970**. Second, he exhorts them to a middle course, saying ***but be wise unto sobriety***, i.e., I direct you to be wise commensurate with the grace given to you. For sobriety implies a measure. And although the word taken in its proper sense has to do with drinking wine, it can be used in regard to any matter in which a person should observe a due measure: *training us to live sober, upright, and godly lives in this world* (Titus 2:12).  
 
-second, he urges them to render the sign of subjection, at ***render therefore***.
+**971**. Third, he teaches how the middle course should be gauged when he says: ***and this***, I say, ***as God has divided***, i.e., distributed, ***to each one the measure of faith***, i.e., the measure of his gifts, which are given for the building up of the faith: *to each is given the manifestation of the Spirit for the common good* (1 Cor 12:7).  
 
-**1038**. In regard to the first he does two things: first, he mentions the signs of subjection, saying: ***for therefore also you pay tribute***, i.e., because you are subject, you should pay taxes as a sign of that subjection. Therefore, in a complaining way it says: *the princess of the provinces was made tributary* (Lam 1:1). They are in fact called contributions, for the very reason that the subjects contribute them to their lords.
+For God does not give such gifts the same to all, but distributes different ones to different persons: *there are varieties of gifts* (1 Cor 12:4). Nor does he give them equally to all, but to each according to a definite measure: *grace was given to each of us according to the measure of Christ’s gift* (Eph 4:7). That is why the Apostle, thinking with sober judgment according to this measure, said: *we will not boast beyond measure, but will keep to the measure of the rule by which God has measured out to us* (2 Cor 10:13). To Christ alone has the Spirit been given without measure (John 3:34).  
 
-**1039**. Second, he assigns the reason, saying: ***for they are the ministers of God, serving***, on behalf of God and the people, ***unto this purpose***, i.e., to receiving tribute.
+God gives not only the graces freely given according to a measure, but even that faith which works through love. Hence the apostles said to Christ: *Lord, increase our faith* (Luke 17:15).  
 
-As if to say: everyone should make a living from his ministry, for it says in 1 Corinthians: *who tends a flock without getting some of the milk?* (1 Cor 4:7). And therefore, since our rulers minister to God in governing, they should receive taxes from the people as wages for their ministry and should not look upon it as a reward. For the special reward of a ruler is praise and honor, as the Philosopher says in book five of the *Ethics*. When this does not satisfy him, he becomes a tyrant. But this should not be understood as referring only to human praise or honor, because such a reward would be futile, but to divine praise and honor, which is bestowed on those who rule well: *O monarchs over the people, honor wisdom, that you may reign forever* (Wis 6:21).
+Lecture 2  
 
-Furthermore, they receive these taxes as sustenance, and rulers labor for the peace of all. Hence it is said: *I urge that supplications be made for kings and all who are in high positions, that we may lead a quiet and peaceful life* (1 Tim 2:1); *pray for the life of Nebuchadnezzar, king of Babylon, that we may live under his shadow* (Bar 1:11).
+***Members of the body of Christ***
 
-**1040**. Clerics are free of this debt because of a privilege granted by rulers, which is in fact equitable by nature. Even among the gentiles those who were devoted to divine things were free from taxation. For we read in Genesis that Joseph subjected to Pharaoh the entire land of Egypt *except the land of the priests, which had been given them by the king, and to whom also a certain allowance of food was given out of the public stores* (Gen 47:20–22). And further down it says in the whole land of Egypt, the fifth part of the harvests was paid except for in the land of the priests, which was free from this condition.
+^12:4^ For as in one body we have many members, but all the members have not the same act: [n. 972]  
 
-But this is also equitable, because just as kings have care of the public good in temporal affairs, so God’s ministers in spiritual matters. And so by ministering to God in spiritual matters, they are making a return to the king for his labor in procuring a peaceful life for them.
+> ^12:5^ So we, being many, are one body in Christ; and every one members one of another: [n. 974]
 
-**1041**. But it should be noted that although he says that taxes are owed to rulers as a wage for their labors, rulers can sin in two ways by accepting taxes.
+> ^12:6^ And having different gifts, according to the grace that is given us, either prophecy, to be used according to the rule of faith; [n. 976]
 
-First, if they do not procure the people’s welfare but are intent only on seizing their goods. Hence it says in Ezekiel: *you eat the fat, you clothe yourselves with the wool, you slaughter the fatlings, but you do not feed the sheep* (Ezek 34:3).
+> ^12:7^ Or ministry, in ministering; or he who teaches, in doctrine; [n. 977]
 
-Second, if they violently take more than the law permits and more than the people can bear. Hence it says in Micah: *hear, you heads of Jacob and rulers of the house of Israel! Is it not you who tear the skin from my people, and their flesh from their bones?* (Mic 3:1).
+> ^12:8^ He who exhorts, in exhorting; he who contributes, in simplicity; he who rules, in carefulness; he who does acts of mercy, in cheerfulness. [n. 981]
 
-**1042**. Then when he says, ***render therefore***, he admonishes them to render the above-mentioned sign of subjection.
+> ^12:9^ Let love be without dissimulation. Hating evil, cleaving to good, [n. 983]
 
-First, in general, saying: Inasmuch as taxes are owed to rulers, as to God’s ministers, ***render therefore to all men their dues***. From this it is clear that justice requires subjects to render rulers their due: *to the king was brought one who owed him ten thousand talents* (Matt 18:24); *render, therefore, to Caesar the things that are Caesar’s and to God the things that are God’s* (Matt 22:21).
+> ^12:10^ Loving one another with the charity of brotherhood; with honor anticipating one another; [n. 985]
 
-**1043**. Second, he specifies debts that are paid publicly, saying: ***tribute, to whom tribute is due***, for these are paid to the ruler that he might govern the country in peace and quiet: *he saw that a resting place was good, and that the land was pleasant* (Gen 49:15). ***Custom to whom custom is due***; this is paid to the ruler in certain places as tolls, for the repair of roads and for safe travel. Or they are the expenses incurred when the ruler travels through his country.
+> ^12:11^ In carefulness, not slothful; in spirit, fervent; serving the Lord; [n. 987]
 
-Second, he sets out those things which should be rendered interiorly. Here it should be noted that a ruler is owed fear and honor: fear, because he is lord and uses his power to prevent evil men from doing evil: *if I am the Lord, where is my fear?* (Mal 1:6). Hence he says: ***fear to whom fear is due***: *my son, fear the Lord and the king* (Prov 24:21). But inasmuch as the ruler is like a father providing benefits, he deserves praise and honor: *if I am a father, where is my honor?* (Mal 1:6). Therefore, he adds: ***honor to whom honor is due***: *honor the king* (1 Pet 2:17). The opposite view is expressed in Leviticus: *you shall not defer to the powerful* (Lev 19:5).
+> ^12:12^ Rejoicing in hope; patient in tribulation; constant in prayer; [n. 990]
 
-But this should be interpreted as forbidding a person to deviate from justice to benefit the powerful. Hence it continues: *but in justice shall you judge your neighbor*.
+> ^12:13^ Communicating to the necessities of the saints; pursuing hospitality. [n. 993]
 
-Lecture 2
+> **972**. After this admonition the Apostle assigns a reason based on the mystical body’s likeness to a natural body. First, he touches on three things in a natural body; first, its unity when he says: ***for as in one body***; second, the multiplicity of members when he says: ***we have many members***; for the human body is an organism consisting of various members; third, the variety of functions when he says: ***all the members do not have the same act***. For the variety of members would serve no purpose unless they were ordered to different functions.
 
-***Love the fulfillment of the law***
+**973**. Then he likens these three aspects to the mystical body of Christ, which is the Church: *he made him the head over all things for the Church, which is his body* (Eph 1:22).  
 
-***^13:8^ Owe no one anything, except to love one another. For he who loves his neighbor has fulfilled the law. [n. 1044]***
+Concerning which he touches on three things.  
 
-> ^13:9^ For: you shall not commit adultery: you shall not kill: you shall not steal: you shall not bear false witness: you shall not covet. And if there be any other commandment, it is comprised in this word: you shall love your neighbor as yourself. [n. 1050]
+First, he touches on the number of members, i.e., of believers when he says: ***so we, being many***: *a man once gave a great banquet and invited many* (Luke 14:16); *many are the children of the desolate* (Isa 54:1).  
 
-> ^13:10^ The love of our neighbor works no evil. Love therefore is the fulfillment of the law. [n. 1058]
+For although they are few compared to the unfruitful multitude of the damned, according to Matthew, *narrow is the way that leads to life, and few there are who find it* (Matt 7:14), yet absolutely speaking, they are many: *after this he looked, and behold, a great multitude which no man could number* (Rev 7:9).  
 
-> **1044**. Having shown how believers should observe justice toward superiors, the Apostle now shows how they should behave toward everyone generally.
+**974**. Second, he touches on the unity of the mystical body when he says ***we are one body***: *that he might reconcile us both to God in one body through the cross* (Eph 2:16).  
 
-In regard to this he does two things:
+This mystical body has a spiritual unity through which we are united to one another and to God by faith and love: *there is one body and one spirit* (Eph 4:4). And because the Spirit of unity flows into us from Christ—***anyone who does not have the Spirit of Christ does not belong to him*** (Rom 8:9)—he adds ***in Christ***, who unites us to one another and to God by his Spirit whom he gives us: *that they may be one even as we are one* (John 18:22).  
 
-first, he states his intention;
+**975**. Third, he touches on the variety of functions, which is rooted in the common utility, when he says: ***and every one members one of another***.  
 
-second, he gives a reason, at ***for he that loves***.
+For any given member has its own function and power. Therefore, inasmuch as the function and power of one member aids another, it is said to be the other’s member; thus, the foot is called the eye’s member, inasmuch as it carries the eye, and the eye is called the foot’s member, inasmuch as it directs the foot: *the eye cannot say to the hand: I have no need of you* (1 Cor 12:21).  
 
-**1045**. First, therefore, he says: it has been stated that you must pay your debts to all, not in part but entirely. And that is what he says: ***owe no one anything***. As if to say: you should pay all you owe to everyone so completely that nothing still owing remains.
+So, too, in the mystical body one who has received the gift of prophecy needs the one who has received the gift of healing, and so on for all the others. Hence, as long as each believer uses the grace given him to help another, he becomes the other’s member: *bear one another’s burdens* (Gal 6:2); *as each has received a gift, employ it for one another* (1 Pet 4:10).  
 
-And this for two reasons: first, because sin is committed in delaying to pay, as long as a person unjustly holds back what belongs to another. Hence it says in Leviticus: *the wages of a hired servant shall not remain with you all night until the morning* (Lev 19:13). And the same is true of other debts.
+**976**. Then when he says, ***having gifts***, he explains in more detail the previous general admonition to use grace in a sober and moderate way. First, he sets out the variety of graces: ***we are***, I say, ***members one of another***, not on account of the same grace, but by ***having different gifts***; and this is not due to differing merits but ***according to the grace given to us***: *each has his own special gift from God, one of one kind and another of another* (1 Cor 7:7); *he called his servants and gave to each his goods, and to one he gave five talents, to another two, and to another only one* (Matt 25:14).  
 
-Second, because as long as a person owes, he is in a certain sense a slave and is obligated to the one to whom he owes: *the borrower is the slave of the lender* (Prov 22:7).
+**977**. Second, he touches on the use of different graces, and first with respect to knowledge of divine things, saying: ***if prophecy***, the one among us who has it should use it ***according to the rule of faith***.  
 
-**1046**. But there are some debts from which a man can never absolve himself. This happens in two ways: in one way on account of the excellence of the benefit for which equal payment cannot be made, as the Philosopher says of honor owed to God or parents, as it says in a psalm: *what shall I render to the Lord for all his bounty to me?* (Ps 116:12). In another way on account of the debt’s cause, which always remains; or even because what is paid is never terminated but always increases as one pays.
+**978**. ***Prophecy*** is a kind of apparition arising from the divine revelation of things far remote. Hence it is said in 1 Samuel: *he who is now called a prophet was formerly called a seer* (1 Sam 9:9). Among matters far remote from our knowledge some are remote of their very nature, as future contingents, which are not knowable, because their causes are indeterminate; but divine matters are remote from our knowledge not of their very nature, for they are knowable in the highest degree, because *God is light and there is no darkness in him* (1 John 1:5), but on account of the weakness of our intellect, which is related to matters most evident as the eye of an owl to sunlight. And because something is said to be thus and so in a truer sense, when it is thus and so on its own account rather than on account of something else, future contingents are in a truer sense said to be far from our knowledge. For this reason they are the proper concern of prophecy: *surely the Lord God does nothing without revealing his secret to his servants the prophets* (Amos 3:7). But prophecy in a general sense includes the revelation of any secret things.  
 
-**1047**. For these reasons the debt of fraternal love is paid in such a way that it is always owing.
+This gift of prophecy existed not only in the Old Testament but in the New as well: *I will pour out my spirit on all flesh: your sons and daughters shall prophesy* (Joel 2:28). In the New Testament those who explained prophetic statements were also called prophets, because Sacred Scripture is explained in the same spirit as it is written: *I shall pour out teaching like prophecy* (Sir 24:46).  
 
-First, because we owe love to our neighbor on account of God, whom we can never recompense sufficiently. For it is said: *this commandment we have from him, that he who loves God should love his brother also* (1 John 4:2). Second, because the cause of love always remains, namely, being alike in nature and in grace: *every animal loves its like, and every person his neighbor* (Sir 13:15). Third, because love does not diminish but grows by loving: *it is my prayer that your love may abound more and more* (Phil 1:9).
+**979**. The gift of prophecy, as all the other charismatic graces, is ordained to the building up of faith: *to each is given the manifestation of the Spirit for the common good* (1 Cor 12:7); *It was declared*, i.e., the doctrine of faith, *by the Lord, while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit* (Heb 2:30). Consequently, prophecy should be used ***according to the rule of faith***, i.e., not in vain but in order that faith be strengthened, not opposed, by it: *if a prophet arises among you and says ‘let us go after other gods,’ you shall not listen to the words of that prophet* (Deut 13:1), because he is not prophesying in proportion to the faith.  
 
-Therefore, he says: ***except to love one another***, because the debt of love is paid once in such a way that it always remains under the debt of a precept: *this is my commandment, that you love one another* (John 15:12).
+**980**. In regard to administering the sacraments he adds: ***or ministry, in ministering***, i.e., if one has received the grace or office of the ministry, such as the bishop or priest who are called God’s ministers—*you shall be called the priests of the Lord, the ministers of our God* (Isa 56:6)—let him perform his office diligently ***in ministering***: *fulfill your ministry* (2 Tim 4:5).  
 
-**1048**. Then when he says, ***he who loves his neighbor***, he assigns the reason for the statement that we are never released from the debt of love, namely, because the whole fulfillment of the law consists in love.
+**981**. Second, he touches on matters pertinent to human affairs in which one person can help another: first, with respect to knowledge both speculative and practical.  
 
-Hence he does three things in regard to this:
+With respect to speculative knowledge he says: ***or he who teaches***, i.e., who has the office or grace of teaching, let him use it ***in teaching***, i.e., teach diligently and faithfully: *behold, you have taught man* (Job 4:3); *go, therefore, and teach all nations* (Matt 28:19).  
 
-first, he states his proposition;
+With respect to practical knowledge he says: ***he who exhorts***, i.e., has the office and grace of exhorting, let him use it ***in exhorting***: *our appeal does not spring from error or uncleanness, nor is it made with guile* (1 Thess 2:3); *declare these things; exhort with all authority* (Titus 2:15).  
 
-second, he clarifies it, at ***for you shall not commit adultery***;
+**982**. Then he mentions those that pertain to external works in which a person sometimes helps another by giving a gift. In this regard he says, ***he who contributes***, i.e., has the power and grace to contribute, should do this ***in simplicity***, namely, with no evil ulterior motive, such as enticing men to evil with gifts, and with no intention of obtaining a great deal more from the small amount given: *a stupid man’s gift will bring you no advantage, his eyes look for seven times as much in return. He gives little and reviles much* (Sir 20:14); *the simplicity of the just shall guide them* (Prov 11:3).  
 
-third, he draws the conclusion intended, at ***love therefore is the fulfillment of the law***.
+Sometimes one helps another, because he has charge of him. In regard to this he says: ***he who rules***, i.e., has been entrusted with the office of prelate, should use that office ***in carefulness***: *obey your leaders and submit to them; for they are keeping watch over your souls, as men who will have to give an account* (Heb 13:17); *my anxiety for all the churches* (2 Cor 11:28).  
 
-**1049**. First, therefore, he says: the reason why we cannot expect to free ourselves from the debt of love, as we do from other debts, is that ***for he who loves his neighbor has fulfilled the law***, i.e., the whole fulfillment of the law depends on love of neighbor.
+Again, sometimes one helps another by easing his misery. In regard to this he says: ***he who does acts of mercy***, i.e., has the means and a merciful heart, should do this ***in cheerfulness***, as doing it gladly: *not reluctantly or under compulsion, for God loves a cheerful giver* (2 Cor 9:7); *in every gift make your countenance cheerful* (Sir 35:11).  
 
-But this does not seem to be true. For it says in 1 Timothy: *the end of the precept is love* (1 Tim 1:5). For a thing is made perfect when it attains its end; therefore, the whole perfection of the law consists in love. But love has two acts, namely, the love of God and the love of neighbor; hence the Lord says in Matthew that the whole law and the prophets depend on the two precepts of love: one of which is concerned with the love of God and the other with the love of neighbor (Matt 22:40). Therefore, it does not seem that one who loves his neighbor fulfills the whole law.
+**983**. Then when he says, ***let love be without dissimulation***, he shows how to use a gift which is common to all, namely, charity.  
 
-The answer is that love of neighbor pertains to love and fulfills the law, when it is a love by which the neighbor is loved for God. So the love of God is included in the love of neighbor, just as the cause is included in its effect. For it says in 1 John: *this commandment we have from him, that he who loves God should love his brother also* (1 John 4:21). Conversely, love of neighbor is included in love of God, as the effect in its cause; hence it says in the same place: *if anyone says, ‘I love God,’ and hates his brother, he is a liar*.
+First, he states what pertains to charity in general;  
 
-That is why in Sacred Scripture sometimes mention is made only of the love of God, as though it is enough for salvation, as in Deuteronomy: *and now, Israel, what does the Lord your God require of you, but to fear the Lord your God, to walk in all his ways, and to love him* (Deut 10:12); and sometimes mention is made of love of neighbor: *this is my commandment, that you love one another as I have loved you* (John 15:12).
+second, charity toward special classes of persons, at ***communicating to the necessities of the saints***.  
 
-**1050**. Then when he says ***for you shall not commit adultery***, he proves his proposition:
+With respect to the first he does three things:  
 
-first, by induction;
+first, he describes the qualities of charity as it exists in the one possessing it;  
 
-second, by means of a syllogism, at ***the love of our neighbor***.
+second, the qualities of charity toward one’s neighbor, at ***loving one another with the charity of brotherhood***.  
 
-**1051**. In regard to the first he proceeds inductively by enumerating certain precepts which fulfill the love of neighbor. And because the three precepts of the first tablet are more directly ordained to the love of God, he does not mention them, although they, too, are fulfilled in the love of neighbor, insofar as the love of God is included in the love of neighbor. But he enumerates the commands of the second tablet, omitting only the affirmative precept about honor to parents. By this it is understood that we should pay to all whatever we owe.
+third, toward God, at ***in carefulness, not slothful***.  
 
-**1052**. He lists the negative precepts, which forbid a person to do evil to his neighbor. And this for two reasons.
+**984**. In regard to the qualities of charity he teaches three things.  
 
-First, because the negative precepts are more universal both as to time and as to persons. As to time, because the negative precepts oblige always and at every moment. For there is no time when one may steal or commit adultery. Affirmative precepts, on the other hand, oblige always but not at every moment, but at certain times and places: for a man is not obliged to honor his parents every minute of the day, but at certain times and places. Negative precepts are also more universal as to persons, because no man may be harmed, whereas we are not capable of each serving every other man.
+First, that charity should be true. Hence he says: ***let love be without dissimulation***, so that it consist not in word or outward appearance but in a genuine affection of heart and in efficacious works: *let us not love in word or speech, but in deed and in truth* (1 John 3:18); *nothing can compare to a faithful friend* (Sir 6:15).  
 
-Second, because they are more obviously observed by love of neighbor than are the affirmative. For a person who loves another, rather refrains from harming him than gives him benefits, which he is sometimes unable to give.
+Second, he teaches that love should be pure when he says: ***hating evil***. Love is pure when a person does not consent to his friend in evil, but so loves him that he hates his vices: *it does not rejoice at wrong, but rejoices in the truth* (1 Cor 13:6); *I hate the impious* (Ps 119:113).  
 
-**1053**. But a person does injury to his neighbor in three ways: by action, by word, and by desire.
+Third, he teaches that love should be honorable when he says: ***cleaving to good***, so that one adheres to another because of his virtuous goodness: *always emulate the good in his goodness* (Gal 4:18). This is fair love, about which it is said: *I am the mother of fair love* (Sir 24:24).  
 
-He does injury by action in three ways: first, against the neighbor’s person, and this is forbidden when he says: ***you shall not kill***. This also forbids any injury against the neighbor’s person: *no murderer has eternal life abiding in him* (1 John 3:15).
+**985**. Then when he says, ***loving one another with the charity of brotherhood***, he shows how charity should be shown to one’s neighbor.  
 
-Second, against a person’s wife; and this is forbidden when he says: ***you shall not commit adultery***. This also forbids fornication and any unlawful use of the genital organs: *God will judge fornicators and adulterers* (Heb 13:4).
+And first as regards interior affection, when he says ***loving one another with the charity of brotherhood*** i.e., so that through charity we not only love the brethren but even love the very charity by which we love them and are loved by them. For if we regard charity as such a great treasure, we will not allow it to be dissolved so easily: *let brotherly love continue* (Heb 13:1); *if a man offered for love all the wealth of his house, it would be utterly scorned* (Song 8:7).  
 
-Third, against one’s external goods, and this is forbidden when he says: ***you shall not steal***. This also forbids any unjust taking of what belongs to another, either by force or by deceit: *everyone who steals will be judged* (Zech 5:3).
+**986**. Second, with respect to its outward effect when he says: ***with honor anticipating one another***. Three things are designated here.  
 
-**1054**. Injury committed by word against one’s neighbor is forbidden when he says: ***you shall not bear false witness***. This is forbidden not only in court cases but also outside, whether in the form of detraction or of insults: *the false witness will not go unpunished, and one who speaks lies will not escape* (Prov 19:5).
+First, that a person should hold the neighbor in reverence. This pertains to the very notion of honor, for no one can truly love a person he despises: *in humility, count others better than yourselves* (Phil 2:3). This is realized when one considers his own shortcomings and the good qualities of his neighbor. Under the heading of honor are included not only honor but the provision of necessities, for when it is commanded in Exodus: *honor your father and your mother* (Exod 20:12), the provision of necessities is commanded. This is clear from the fact that our Lord in Matthew rebuked the Pharisees for violating this precept by hindering children from helping their parents (Matt 5:3ff.).  
 
-Injury committed only by desire against one’s neighbor is forbidden when he says: ***you shall not covet*** your neighbor’s good; and this also forbids coveting another’s wife: ***for I would not have known covetousness*** to be a sin, *if the law had not said: you shall not covet* (Rom 7:7).
+Second, it designates that the effect of love should be shown mutually, i.e., a person should desire not only to receive benefits but also to grant them: *let not your hand be stretched out to receive and clenched when it is time to give* (Sir 4:31); *in dividing by lot, give and take* (Sir 14:15). He refers to this when he says: ***one another***.  
 
-**1055**. These commandments are set forth in Exodus 20:17 et seq. Having listed a number of precepts, he combines all others in one general precept, saying: ***and if there be any other commandment***, affirmative or negative, referring to God or to neighbor, ***it is comprised***, i.e., fulfilled, ***in this word: you shall love your neighbor as yourself***. This is said in Leviticus, where our text has: *you shall love your friend as yourself* (Lev 19:18).
+Third, he designates that the effect of love should be prompt and swift, when he says: ***anticipating***, so that one should anticipate a friend in doing favors: *every friend declares his friendship* (Sir 37:1).  
 
-**1056**. When he says, ***your neighbor***, the reference is to all men and also the good angels, as Augustine says. For a neighbor is anyone who shows mercy to another, as it says in Luke: *which of these three, do you think, proved neighbor to the man who fell among robbers? He said: the one who showed mercy to him* (Luke 10:36). And because a neighbor is neighbor to a neighbor, the consequence is that even a person shown mercy by another is said to be his neighbor. But the good angels show mercy to us; and we should show mercy to all men and receive it from them, when necessary. Hence it is clear that the good angels and all men are our neighbors, because the happiness toward which we are tending is already theirs, or they are tending toward it with us.
+**987**. Then when he says, ***in carefulness***, he shows the qualities surrounding charity’s love of God.  
 
-From this reason it is clear that devils are not our neighbors and that we are not commanded to love them, because they are entirely excluded from the love of God and are not included in the list of neighbors but of enemies.
+First, he starts with reason’s attentiveness when he says: ***in carefulness, not slothful***, when it is a question of worshiping God: *he has shown you, O man, what is good; and what does the Lord require of you*, and he continues: *but to walk carefully with your God?* (Mic 6:8); *do your best to present yourself to God as one approved* (2 Tim 2:15).  
 
-**1057**. The phrase, ***as yourself***, does not refer to equality of love, as though a person were bound to love his neighbor as much as himself. For this would be against the ordering of charity, by which a person is obliged to take more care of his own salvation than that of others: *he put love in order in me* (Song 2:4). It refers, rather to a similarity of love, namely, that we should love our neighbor similarly as ourselves.
+**988**. Second, the affections when he says: ***be fervent in the spirit***, namely, in loving God.  
 
-And this in three ways: first, as to the end of love, namely, that we love ourselves and our neighbor for the sake of God. Second, as to the form of love, namely, just as a person loves himself as willing good for himself, so he should love his neighbor by willing good things for him. But one who loves his neighbor in order to acquire some utility or love from him does not will good for his neighbor but wants to obtain a good for himself from his neighbor. This is the way a man is said to love irrational creatures, such as wine or a horse, namely, to use them. Third, as to the effect of love, namely, that he relieve the need of his neighbor, as he relieves his own; and that he do nothing unlawful out of love for his neighbor any more than he does out of love for himself.
+Being fervent comes from an abundance of heat; hence it is called fervor of spirit, because the whole person is fervent toward God on account of the abundance of his love: *Apollos, being fervent in spirit, spoke and taught concerning Jesus* (Acts 18:25); *do not quench the Spirit* (1 Thess 5:19).  
 
-**1058**. Then when he says, ***the love of our neighbor works no evil***, he clarifies his proposition with the following syllogism: One who loves his neighbor does no evil to him. But the aim of every precept of the law is abstention from evil. Therefore, one who loves his neighbor fulfills the law. That love of neighbor does no evil is gathered from 1 Corinthians: *love does not work injury* (1 Cor 13:4).
+**989**. Third, the outward homage when he says: ***serving the Lord***, namely, with the worship of latria, which is paid to God alone: *the Lord your God shall you adore and him alone shall you serve* (Deut 6:13); *serve the Lord with fear* (Ps 2:11).  
 
-No matter how evil is taken here, whether for evil acts or omissions, it could refer not only to negative precepts but also to affirmative. But inasmuch as love of neighbor includes love of God, it is understood that love of neighbor excludes evil both against one’s neighbor and against God. Thus, even the precepts of the first tablet are included.
+Or according to another text, *serving the time*, namely that we should perform our service of God at the fitting time: *there is a time and an opportunity for every affair* (Eccl 8:6).  
 
-**1059**. Finally, he draws the conclusion mainly intended, saying: ***therefore, love is the fulfillment of the law***, i.e., the law is fulfilled and made perfect by love. *My abode is in the full assembly of the saints* (Sir 14:16); *above all these put on love, which binds everything together in perfect harmony* (Col 3:14).
+**990**. Fourth, the reward of serving when he says: ***rejoicing in hope***, namely of a reward which is the enjoyment of God: *I, the Lord, am your reward exceedingly great* (Gen 15:2); ***we rejoice in our hope of sharing the glory of sons of God*** (Rom 5:2). But hope rejoices a man by reason of its certainty, but it afflicts him by reason of its delay: *hope deferred makes the heart sick* (Prov 13:12).  
 
-Lecture 3
+**991**. Fifth, the difficulty a person endures in the service of God when he says: ***in tribulation***, which you endure for God, ***patient***: ***tribulation produces patience*** (Rom 5:3).  
 
-***Exhortation to put on the Lord Jesus Christ***
+**992**. Sixth, in the light of all the foregoing he says: ***constant in prayer***, in which is indicated continuance in prayer: *we ought always to pray and not lose heart* (Luke 18:1); *pray constantly* (1 Thess 5:17).  
 
-***^13:11^ And knowing this time, because it is now the hour for us to rise from sleep. For now our salvation is nearer than when we believed. [n. 1060]***
+For by prayer carefulness is aroused in us and fervor kindled, we are stimulated to serve God, the joy of hope is increased, and we win help in tribulation: *in my distress I called on the Lord and he answered me* (Hos 120:1).  
 
-> ^13:12^ The night is passed, but the day is at hand. [n. 1066] Let us, therefore, cast off the works of darkness and put on the armor of light. [n. 1070]
+**993**. Then when he says, ***communicating to the necessities of the saints***, he discusses charity with regard to certain particular persons.  
 
-> ^13:13^ Let us walk honestly, as in the day: [n. 1073] not in rioting and drunkenness, not in chambering and impurities, not in contention and envy. [n. 1074]
+First, as regards the needy;  
 
-> ^13:14^ But put on the Lord Jesus Christ: and make not provision for the flesh in its concupiscences. [n. 1079]
+second, as regards enemies, at ***bless those who persecute you*** (Rom 12:14).  
 
-> **1060**. After showing how man should behave in a pious manner toward God by using his gifts properly and paying his neighbor the debts owed him, the Apostle now shows how he should act with probity in regard to himself.
+**994**. Concerning the first he does two things.  
 
-With respect to this he does two things:
+First, he urges in general that the benefits of charity be afforded to the needy, when he says: ***communicating to the necessities of the saints***. Three things should be noted here: first, that alms be given out of charity to the poor and needy: *let him labor, doing honest work with his hands, so that he may be able to give to others in need* (Eph 4:28).  
 
-first, he proposes the suitability of the time;
+Second, that upright and saintly persons should be helped before others; hence he says: ***to the necessities of the saints***: *give to the good man; refuse the sinner* (Sir 12:4). This does not mean that sinners should not be helped in their needs, but that they should not be helped so as to nourish sin. Yet it is more useful to help the just, because such an alms is fruitful not only for the giver but also from the prayers of the recipient: *make friends for yourselves by means of unrighteous mammon, so that when it fails they may receive you into the eternal habitations* (Luke 16:19), namely, by their prayers.  
 
-second, he exhorts them to virtuous works, at ***let us therefore cast off***.
+**995**. Then he urges them to be hospitable when he says: ***pursuing hospitality***, because the other works of mercy are included in this one. For a host offers not only his home as a shelter, but provides for other needs as well: *do not neglect to show hospitality to strangers* (Heb 13:12); *practice hospitality ungrudgingly to one another* (1 Pet 4:9).  
 
-In regard to the first he does three things:
+Lecture 3  
 
-first, he mentions the suitability of the time;
+***Charity toward one’s enemies***
 
-second, he assigns the reason, at ***for now our salvation is nearer***;
+***^12:14^ Bless those who persecute you: bless, and curse not. [n. 996]***
 
-third, he employs a figure of speech, at ***the night is passed***.
+> ^12:15^ Rejoice with those who rejoice, weep with those who weep: [n. 1003]
 
-**1061**. First, therefore, he says: we have stated what you should do. And you should do it not only for the reasons already given, but also because ***knowing this time***, i.e., you ought to consider the nature of the present here, because as it says in Ecclesiastes: *every matter has its time and way*; *even the stork in the heavens knows her times* (Eccl 8:6); *and the turtledove, swallow, and crane keep the time of their coming; but my people know not the ordinance of the Lord* (Jer 8:70).
+> ^12:16^ Being of one mind one towards another: not minding high things, but consenting to the humble. Do not be prudent among you yourselves: [n. 1005]
 
-**1062**. He shows what the time is suitable for, when he says: ***because it is now the hour for us to rise from sleep***. This is not a reference to the sleep of nature, sometimes called death, as in 1 Thessalonians: *we would not have you ignorant concerning those who are asleep* (1 Thess 4:13), and sometimes the repose of the animal powers, as in John: *if he is asleep, he will recover* (John 11:12). Nor is it a reference to the sleep of grace, sometimes called the repose of eternal glory, as in a psalm: *in peace I will lie down and sleep* (Ps 4:9) and sometimes the rest of contemplation even in this life: *I slept, but my heart was awake* (Song 5:3). But it is a reference to the sleep of guilt, as in Ephesians: *awake, O sleeper, and arise from the dead* (Eph 5:14), or to the sleep of negligence, as in Proverbs: *how long will you lie there, O sluggard?* (Prov 6:9).
+> ^12:17^ To no man rendering evil for evil: providing good things, not only in the sight of God but also in the sight of all men. [n. 1007]
 
-Therefore, it is full time now to wake from the sleep of guilt by doing penance: *awake after you have rested* (Ps 127:2) and from the sleep of negligence by taking care to act properly: *arise, O princes, oil the shield!* (Isa 21:5); *let not the hour for rising sadden you* (Sir 32:15).
+> ^12:18^ If it be possible, as much as is in you, have peace with all men: [n. 1010]
 
-**1063**. Then when he says, ***for salvation***, he assigns the reason for what he had said, saying: ***for now our salvation is nearer than when we believed***. The Apostle is referring to the salvation of eternal life about which it is said: *my salvation will be for ever* (Isa 51:8).
+> ^12:19^ Revenge not yourselves, my dearly beloved, but give place unto wrath. [n. 1011] For it is written: *vengeance is mine, I will repay*, saith the Lord. [n. 1013]
 
-Man is ordained to this salvation, first of all, by faith: *he that believes and is baptized will be saved* (Mark 16:16). But man gets closer and closer to it by good works and increased love: *draw near to God and he will draw near to you* (Jas 4:8).
+> ^12:20^ But if the enemy be hungry, feed him: if he is thirsty, give him drink: for, doing this, you will heap coals of fire upon his head.
 
-This, therefore, is what the Apostle says: ***it is now the hour for us to rise from sleep, for now***, when we have made progress by good works and increased love, ***our salvation***, namely of eternal life, about which Isaiah says: *my salvation will be forever* (Isa 51:8), ***is nearer than when we believed***, i.e., than when we originally received the faith.
+> ^12:21^ Be not be overcome by evil, but overcome evil by good. [n. 1015]
 
-**1064**. This nearness can be understood in two ways.
+> **996**. Above, the Apostle showed that charity should be practiced toward the needy; now he shows how it should be practiced even toward enemies:
 
-First, in regard to time, by which holy men, as they make progress in good works, draw closer to the end of this life, after which they receive their reward.
+first, he gives the admonition;  
 
-The other is the nearness of preparation, because by increased love and good works performed, a man is prepared for that salvation: *those who were ready went in with him to the marriage feast* (Matt 25:10).
+second, he proves what he said, at ***for it is written***.  
 
-**1065**. But inasmuch as the Church reads these words during Advent, they seem to refer to the salvation which Christ worked during his first coming. Accordingly, we can understand the Apostle speaking in place of all believers since the beginning of the world. For as the time of Christ’s Incarnation drew near, and the predictions of the prophets grew in number, it could be said: ***our salvation***, namely, Christ, ***is nearer than when we believed***, i.e., when men in the very beginning started to believe in the future coming of Christ: *soon my salvation will come and my deliverance be revealed* (Isa 56:11).
+With respect to the first it should be noted that three things pertain to charity: first, benevolence, which consists in willing good to another and not willing evil; second, concord, which consists in friends willing the same thing and rejecting the same thing; third, beneficence, which consists in doing good and causing no injury to the one loved.  
 
-They can also be taken to refer to the time of mercy, when one begins willing to depart from past sins. For at that time he is closer to his salvation than previously, when he had a dead faith: *resist the devil and he will flee from you. Draw near to God and he will draw near to you* (Jas 4:7).
+First, therefore, he touches on matters pertaining to benevolence;  
 
-**1066**. Then when he says, ***the night is passed, but the day is at hand***, he uses a figure of speech to clarify his proposition. The import is that the entire time of the present life is compared to night on account of the darkness of ignorance with which the present life is encumbered. *We are swallowed up in darkness* (Job 33:4). Isaiah says of this night: *my soul yearns for you in the night* (Isa 26:9).
+second, to concord, at ***rejoice with those who rejoice***;  
 
-But the state of future happiness is compared to day on account of God’s splendor with which the saints are enlightened: *the sun shall be no more your light by day, nor for brightness shall the moon give light to you by night, but the Lord will be your everlasting light* (Isa 60:19). This day is referred to in a psalm: *this is the day which the Lord has made; let us rejoice and be glad in it* (Ps 118:24).
+third, to beneficence, at ***to no man rendering evil for evil***.  
 
-**1067**. It can also be understood that the state of guilt is being compared to night on account of the darkness of guilt. About this darkness a psalm says: *they have neither knowledge nor understanding; they walk about in darkness* (Ps 82:5). About this night Wisdom says: *over those men alone heavy night was spread, an image of the darkness that was destined to receive them* (Wis 17:21).
+**997**. In regard to the first he does two things.  
 
-But the state of grace is called day on account of the light of spiritual understanding which the just have, but the wicked lack: *light dawns for the righteous* (Ps 97:11); *the light of justice did not shine on us* (Wis 5:6).
+First, he urges that benevolence be broad enough to include enemies when he says: ***bless those who persecute you***.  
 
-**1068**. Or it can be understood that the time before Christ’s Incarnation is being compared to night, because it was not yet clear but wrapped in darkness: *we have the prophetic word made more sure. You will do well to pay attention to this as to a lamp shining in a dark place* (2 Pet 1:19). About this night it says in Isaiah: *watchman, what of the night?* (Isa 21:11). Hence, just as shadows appear at night, so during that time the practices of the law were in vogue, but *these were only a shadow of what is to come* (Col 2:17).
+Here it should be noted that to bless is to say something good. This can happen in three ways: first, by asserting a good, as when one person praises another’s good points: *the lips of many shall bless him that is liberal of his bread; and the testimony of his truth is faithful* (Sir 31:28).  
 
-But the time after Christ’s Incarnation is compared to day on account of the power of the spiritual sun in the world: *but for you who fear my name, the sun of justice shall shine* (Mal 4:2). Hence the Lord says: *I must work the works of him who sent me, while it is day* (John 9:4); then he adds: *as long as I am in the world, I am the light of the world*.
+Second, by commanding: to bless in this way belongs to God by whose command something good comes to creatures, or it belongs to his ministers who invoke the Lord’s name upon the people: *thus shall you bless the sons of Israel and say to them: the Lord bless you and guard you. The Lord show his face to you and have mercy on you. The Lord turn his countenance toward you and give you peace* (Num 6:22–26); *they shall invoke my name upon the people of Israel and I will bless them* (Num 6:27).  
 
-**1069**. The saying, ***the night is passed***, can be taken for any of the three nights mentioned. For a large part of the life span of those to whom he was writing was already far gone; the night of guilt had passed, as had the period of the law before Christ.
+Third, one blesses by desiring: *nor did they who passed by say: the blessing of the Lord be upon you* (Hos 129:8). To bless in this way is to will someone’s good and, as it were, to pray for his good. This is the way it is taken here.  
 
-But it seems that the saying, ***but the day is at hand***, must be understood as referring to the day of future glory, which was at hand for the believers in Christ to whom he was writing, although it had not yet arrived for them.
+**998**. Hence, this directive, to ***bless those who persecute you***, shows that we must have good will even toward enemies and persecutors by desiring their welfare and praying for them: *love your enemies and pray for those who persecute you* (Matt 5:44).  
 
-In keeping with the foregoing explanation, the time of Christ’s grace, although it had already arrived as regards the passage of time, is nonetheless described as drawing near through faith and devotion; just as it also says in Philippians: *the Lord is near* (Phil 4:5), and in a psalm: *the Lord is near to all who call upon him* (Ps 145:18).
+This directive can be interpreted in one way as a precept and in another as a counsel. For we are commanded to love our enemies in such a way as not to exclude them from our general love of neighbor and from the prayer one makes for all believers. We are also obliged to show the effect of this love of one’s enemies in particular cases of critical need. Hence it says in Exodus: *if you meet your enemy’s ox or ass going astray, rescue it* (Exod 23:4).  
 
-It can also apply to those who begin to repent of their sins; for such persons the day of grace is at hand.
+But for anyone to give his enemies the benefit of his help beyond cases of manifest need or to say special prayers and indicate a feeling of love in a special way pertains to the perfection of the counsels, because it shows that a person’s love of God is so advanced that it triumphs over all human hatred. However, one who repents and seeks forgiveness should no longer be reckoned an enemy or persecutor; hence, there should be no difficulty in showing him marks of charity: *forgive your neighbor if he has hurt you: and then your sins shall be forgiven when you pray* (Sir 28:2).  
 
-**1070**. Then when he says, ***let us, therefore, cast off***, he concludes the exhortation to an honorable life.
+**999**. Second, he teaches that good-will should be pure, i.e., not mixed with its opposite. Hence he says: ***bless, and curse not***, i.e., so bless that in no way do you curse. This is against those who bless with their mouth and curse in their heart: *they speak words of peace to their neighbor, but have evil in their hearts* (Ps 27:3). It is also against those who sometimes bless and sometimes curse, or bless some and curse others: *from the same mouth come blessing and cursing. My brethren, this ought not to be so* (Jas 2:10); *do not return reviling for reviling* (1 Pet 3:9).  
 
-First he gives the exhortation;
+**1000**. But the fact that many curses are found in Sacred Scripture seems to be against this. For Deuteronomy says: *cursed be he that does not abide in the words of this law and does not fulfill them in work* (Deut 27:26).  
 
-second, he clarifies it, at ***not in rioting***.
+The answer is that to curse is to say something evil. As with blessing, this can happen in three ways, namely, by asserting, by commanding, and by desiring; and in each of these ways something good can be done and something evil.  
 
-In regard to an honorable life he touches on three things.
+For something materially evil can be called evil in any of these ways. If it is called evil but has a good aspect, this is blessing rather than cursing and is not illicit. For a thing is judged more according to its form than its matter. But if someone says evil under the aspect of evil, he is speaking evil formally; hence it is altogether illicit.  
 
-**1071**. First, the removal of vices, as he concludes: If ***the night is passed***, ***let us cast off the works of darkness***, because, as it says in Ecclesiastes: *every matter has its time and way* (Eccl 8:6). Hence, when the night is gone, the deeds of the night should cease.
+Both of these cases occur when someone makes known an evil by asserting it.  
 
-Here the works of sin are called works of darkness: first, because in themselves they lack the light of reason with which man’s works should be illumined: *the wise man has eyes in his head, but the fool walks in darkness* (Eccl 2:14); second, they are performed in the dark: *the eye of the adulterer waits for the twilight* (Job 24:15); third, because by them a person is brought to darkness: *cast them into the darkness outside* (Matt 22:13).
+For sometimes a person asserts that something is evil, in order to make known a necessary truth. Hence, he asserts evil under the aspect of a necessary truth, which is something good; hence it is licit. This is the way Job is said to have cursed his day, when he asserted the evil of the present life (Job 3:1), just as the Apostle did in Ephesians: *making the most of the time, because the days are evil* (Eph 5:17).  
 
-**1072**. Second, he summons them to put on the virtues. As if to say: since the day is at hand, be dressed as suits the day and ***put on the armor of light***, i.e., the virtues, which are called armor because they protect us: *put on the whole armor of God, that you may be able to stand against the wiles of the devil* (Eph 6:11).
+But sometimes a person asserts someone’s evil under the aspect of evil, namely, to detract from his good name; and this is illicit. For it is stated in 1 Corinthians: *the evil-tongued shall not possess God’s kingdom* (1 Cor 6:10).  
 
-They are called the armor of light, because they are decorated and perfected by the light of reason; hence it says in Proverbs: *the path of the just is like the light of dawn* (Prov 4:18); and because they are tested by light: *he who does what is true comes to the light* (John 3:2); and because others are enlightened by virtuous acts: *so let your light shine before men* (Matt 5:16).
+**1001**. Similarly, when one says something evil by commanding, it can happen that he says something materially evil but under a good aspect. For example, it is licit for a person in authority to command that someone undergo the evil of punishment, when it is just. In this way violators of the law are cursed, i.e., justly subjected to punishment.  
 
-**1073**. Third, he urges them to use the virtues and make progress when he says: ***let us walk honestly, as in the day***. For these two things seem suited to the day: first, becoming conduct, for in the day everyone tries to present himself becomingly before others. But not so in the night. Hence, it says in 1 Thessalonians: *for those who sleep, sleep at night, and those who get drunk, get drunk at night. But since we belong to the day, let us be sober* (1 Thess 5:7). Hence it says in 1 Corinthians: *let all things be done decently and in order* (1 Cor 14:40).
+But when someone commands another’s evil unjustly, for example from hatred and revenge, such a curse is illicit: *he that curses his father or mother shall die the death* (Exod 21:17).  
 
-Second, man walks in the day, not at night; hence it says in John: *if anyone walks in the night, he stumbles* (John 11:10). Therefore, because it is day, we should walk, i.e., advance from good to better: *walk while you have the light* (John 12:35).
+**1002**. It is the same with regard to saying something evil by desiring. For if the evil is desired under the aspect of good, for example, that through adversity a person may make spiritual progress, it is licit: *I have seen a fool with a firm root: and at once I cursed his beauty* (Job 5:3).  
 
-**1074**. Then when he says, ***not in rioting***, he explains what he had said.
+But if this is done from hatred and revenge, it is altogether illicit: *the Philistine cursed David by his gods* (1 Sam 17:43).  
 
-First, he explains how the works of darkness are to be cast off. These are sinful works, some of which he mentions. First, he mentions those which pertain to the corruption of the concupiscible appetite, whose corruption is intemperance in regard to pleasures of touch and to food. First, therefore, he excludes intemperate use of food when he says: ***not in rioting***: *be not among wine bibbers or among gluttonous eaters of meat* (Prov 23:20). This, of course, can be a mortal sin from the fact that according to the law one is condemned to death for this sin. For it is said of a stubborn son: *this our son is stubborn and rebellious: he is a glutton and drunkard. Then they shall stone him to death with stones* (Deut 21:22).
+**1003**. Then when he says: ***to rejoice with those who rejoice***, he teaches about concord:  
 
-One is said to pass the time in reveling, not if he eats with the magnificence that accords with his state, as King Ahasuerus commanded a splendid banquet to be prepared in honor of Esther, when she was made queen (Esth 2:18), but when he does this beyond the limits of his state, and especially if his main interest centers on this, as those about whom it is said: ***such persons do not serve our Lord Jesus Christ, but their own belly*** (Rom 16:18); *their god is their belly* (Phil 3:19).
+first, he sets out nature of concord;  
 
-**1075**. Second, he excludes intemperance in drink, when he adds: ***and drunkenness***, which refers to excessive drinking, which places a man outside the bounds of reason: *wine created to make men glad, not drunk* (Sir 31:27).
+second, the obstacles to it, at ***not minding high things***.  
 
-It should be noted that drunkenness is a mortal sin by its genus, namely when a person gets drunk on purpose, because he seems to prefer the pleasure of wine to the full use of reason. Hence it says in Isaiah: *woe to those who are heroes at drinking wine, and valiant men in mixing strong drink* (Isa 5:22). But if one gets drunk unintentionally, for example, because he was not aware of the strength of the wine or because he did not suspect he would get drunk on such wine, it is not a mortal sin, because he did not get drunk on purpose but accidentally. However, this cannot happen with persons who get drunk frequently. Hence, Augustine says in a sermon on Purgatory that drunkenness is a mortal sin, if it is a frequent occurrence. The Apostle thus significantly uses the plural number: ***not in riotings and drunkenness***.
+**1004**. Concord can be considered in two ways.  
 
-**1076**. Third, he excludes intemperance in regard to bodily rest when he says: ***not in chambering***, i.e., not in excessive sleep, which he fittingly forbids after rioting and drunkenness, because it follows from them. Furthermore, there can be mortal sin in this, when for the sake of bodily rest and sleep, a person neglects what he ought to do and is inclined to commit evil deeds: *woe to those who devise wickedness and work evil upon their beds!* (Mic 2:1).
+In one way, as regards the effect it produces in reacting to good and evil. In regard to good it makes one rejoice in the good of others; hence he says: ***rejoice with those who rejoice***: *I am glad and rejoice with you all* (Phil 2:17). But this refers to rejoicing with one who rejoices in the good. For there are some who take joy in evil: *some are glad when they have done evil, and rejoice in things most wicked* (Prov 2:17). In such cases one must not rejoice with others, for in 1 Corinthians it is said of charity that *it does not rejoice over wickedness but rejoices in the truth* (1 Cor 13:6).  
 
-The Apostle’s words can also refer to the trappings of lust. Hence the harlot is quoted as saying: *I have perfumed my bed with myrrh, aloes, and cinnamon* (Prov 7:17). *Because you went up to your father’s bed, and did defile his couch* (Gen 49:4).
+In regard to evil the effect of concord is that it makes one grieve over another’s evil. Hence, he says: ***weep with those who weep***: *I wept for him who was afflicted* (Job 30:25); *comfort them that weep, and walk with them that mourn* (Sir 7:38).  
 
-**1077**. Therefore, fourth, he fittingly excludes intemperance in regard to sex when he says: ***and impurities***, i.e., venereal actions which are called shameful, because they do not avoid what is especially shameful and worthy of confusion: both because all pleasures of touch, gluttony and lust are common to us and brutes, so that one who pursues them inordinately becomes bestial. *Do not become like the horse and the mule, who have no understanding* (Ps 31:9). And because it is especially in venereal acts that man’s reason is totally absorbed by pleasure to such an extent that he cannot understand, as the Philosopher says in the *Ethics*. Hence it says in Hosea: *harlotry and drunkenness and wine take away the understanding* (Hos 4:11); *they did not repent over their licentiousness and fornication and uncleanness* (Rev 9:21).
+For the compassion of a commiserating friend itself brings consolation in two ways: first, because it is convincing proof of friendship: *in a man’s adversity his friend is known* (Sir 12:9), and that itself is a joy, namely, to know that one has a true friend. Second, because the condolence of a friend implies that he is offering to carry the burden which causes the sorrow, and it is easier when a burden is carried by two than by one person alone.  
 
-**1078**. Then he excludes those sins which pertain to the corruption of the irascible appetite when he says: ***not in contention***. Contention, as Ambrose says, is an attack on the truth, performed with confident shouting. It is also possible that these words forbid all quarreling, not only in words but also in deeds, which very frequently begin with words: *it is an honor for a man to keep aloof from strife* (Prov 20:3).
+**1005**. Second, concord consists in unity of opinion. In regard to this he says: ***being of one mind one towards another***, i.e., agree on the same matters: *that all of you agree and that there be no dissensions among you* (1 Cor 1:10); *complete my joy by being of the same mind* (Phil 2:2).  
 
-Contention generally arises from envy; therefore he adds: ***and envy***. Hence it says in James: *where jealousy and selfish ambitions exist, there will be disorder and every vile practice* (Jas 3:16).
+Yet it should be noted that there are two kinds of opinion: one pertains to the intellect’s judgment about speculative matters, such as are considered in geometry and astronomy. Disagreement here does not militate against friendship or love, because love exists in the will, whereas judgments about these matters do not arise from the will but from the necessity of reason.  
 
-**1079**. Second, he explains how we should put on the armor of light, saying: ***but put on the Lord Jesus Christ*** in whom all the virtues were present most abundantly, according to Isaiah: *seven women shall take hold of one man* (Isa 4:1).
+The other opinion pertains to reason’s judgment about actions. Disagreement in these is contrary to love, because such dissension involves contrariety of will. And because faith is not only speculative but also practical inasmuch as it functions through love, as is stated in Galatians, dissent from correct faith is contrary to love (Gal 5:6).  
 
-We put on Jesus Christ, first, by receiving the sacrament: *all you who have been baptized in Christ have put on Christ* (Gal 3:27).
+**1006**. Then when he says, ***not minding high things***, he removes the two obstacles to concord.  
 
-Second, by imitation. *Stripping yourselves of the old man with his deeds, and putting on the new* (Col 3:9); *and put on the new man, who according to God is created in justice and holiness of truth* (Eph 4:24). For a person who imitates Christ is said to put on Christ, because, just as a man is covered by a garment and is seen under its color, so in one who imitates Christ the works of Christ appear. Therefore, we put on the armor of light, when we put on Christ.
+The first is pride, which inclines one to pursue his own excellence inordinately and to refuse subjection, at the same time desiring to subject someone else and impede his excellence. From this follows discord: *among the proud there are always quarrels* (Prov 13:10). Hence to remove this obstacle he says: ***not minding high things***, so that you seek inordinately your own excellence: ***be not highminded, but be afraid*** (Rom 11:20). ***But consenting to the humble***, i.e., accept humble things, i.e., when it is fitting, do not refuse what seems to be lowly: *I prefer to be one of no account in the house of my God* (Ps 83:11); *humble yourselves under the mighty hand of God* (1 Pet 5:6).  
 
-**1080**. Third, he explains what it is that we should ***walk honestly, as in the day***, when he says: ***make not provision for the flesh in its concupiscences***. For the beauty of becoming conduct lies in the fact that man does not prefer the flesh to the spirit but the spirit to the flesh: ***we are not debtors to the flesh that we should live according to the flesh*** (Rom 8:12).
+The second obstacle to concord is over-confidence in one’s wisdom or one’s prudence, so that the opinion of others is not believed. To remove this he says: ***do not be prudent among you yourselves***, so that you judge as prudent only what seems so according to you: *woe to you that are wise in your own eyes and prudent in your own conceits* (Isa 5:21); ***lest you be wise to you yourselves*** (Rom 11:25).  
 
-It should be noted that he does not say ***make not provision for the flesh*** absolutely, because everyone is bound to take care of the body in order to sustain nature: *no one hates his own flesh, but nourishes and cherishes it* (Eph 5:29); but he adds, ***in its concupiscences***, so that we do not follow the disorderly desires of the flesh: *walk by the Spirit and do not gratify the desires of the flesh* (Gal 5:16).
+**1007**. Then when he says, ***to no man rendering evil for evil***, he teaches what pertains to beneficence by excluding its contrary:  
 
-Chapter 14
+first, he teaches not to do evil to another for revenge;  
+
+second, he teaches not to do evil for the sake of defense, at ***revenge not yourselves***.  
+
+**1008**. In regard to the first he does three things: first, he forbids revenge when he says: ***to no man rendering evil for evil***: *if I have returned evil for evil* (Ps 7:5); *do not repay evil with evil* (1 Pet 3:9).  
+
+But this must be understood in a formal sense, as was said above of evil. For we are forbidden to return evil for evil when it is inspired by hatred or envy, so that we take pleasure in another’s evil. But if in return for the evil of guilt which someone commits, a judge pronounces an evil of punishment in a just way to compensate for malice, he does, indeed, return evil materially, but formally and in itself he returns a good. Hence, when a judge hangs a criminal for murder, he does not return evil for evil but good for evil. This is the way the Apostle handed over to Satan the man guilty of incest, *for the destruction of the flesh, that his spirit may be saved* (1 Cor 5:5).  
+
+**1009**. Second, he shows that even good things must be provided for our neighbor, saying: ***providing***, i.e., you should be, ***good things, not only in the sight of God***, so that you take care to satisfy your consciences before God, ***but also in the sight of all men***, so that you do things pleasing to men: *give no offense to Jews or to Greeks, or to the church of God, just as I try to please all men in everything I do* (1 Cor 11:32). *Providing good things not only before God, but also before men* (2 Cor 8:21).  
+
+But this can be done properly and improperly. For if it is done for human approval, it is not proper conduct: *beware of practicing your piety before men in order to be seen by them* (Matt 6:1). But it is proper, when it is done for the glory of God: *let your light so shine before men, that they may see your good works and give glory to your Father who is in heaven* (Matt 5:16).  
+
+**1010**. Third, he gives the reason for this advice. For we should refrain from returning evil and should provide good things in the sight of all, in order that we might be at peace with men; therefore, he adds: ***have peace with all men***. *Follow peace with all men* (Heb 12:14).  
+
+But he qualifies this when he says: ***if possible***. For sometimes other people’s malice prevents us from having peace with them, namely, because no peace is possible with them unless we consent to their malice. Such peace, of course, is illicit: *I came not to send peace but the sword* (Matt 10:34).  
+
+Another qualifier is added when he says: ***as much as is in you***, i.e., even if they act against peace, we should do all in our power to preserve peace with them: *I am for peace; but when I speak, they are for war* (Ps 120:7). And elsewhere: *seek after peace and pursue it* (Ps 33:15).  
+
+**1011**. Then when he says, ***revenge not yourselves***, he shows that we should not do evil to our neighbor in vengeance.  
+
+First, he presents the teaching: ***revenge not yourselves, dearly beloved***, but as is said of Christ: *I gave my back to the smiters, and my cheeks to those who pulled out the beard* (Isa 50:6) and *like a sheep that before its shearers is dumb, so he opened not his mouth* (Isa 53:7). Hence, the Lord himself commanded: *if anyone strikes you on the right cheek, turn to him the other also* (Matt 5:39).  
+
+But, as Augustine says, the things done by holy men in the New Testament are valid examples for understanding the commands given in Scripture. For the Lord himself, when he was struck on the cheek, did not say: *here is the other cheek*, but *if I have spoken ill, give testimony of the evil; but if well, why do you strike me*. This shows that one must be prepared in the heart to offer the other cheek. For the Lord was prepared not only to offer the other cheek for man’s salvation but his whole body to be crucified. And as Augustine says to Marcellinus, this commandment is rightly kept when it is believed that it will be profitable to him on whose account it is kept, to work in him correction and concord, even if another outcome follows. Thus, the precepts of patience are always to be held fast in preparation in the heart, and benevolence itself must always be completed in the will, lest evil be rendered for evil. These and many other things must be done in order to correct even the unwilling with a certain kind severity.  
+
+**1012**. Second, he assigns the reason when he says: ***but give place unto wrath***, i.e., to divine judgment. As if to say: entrust yourself to God who can defend and vindicate you by his judgment, as it says in 1 Peter: *cast all your anxieties on him, for he cares about you* (1 Pet 5:7).  
+
+But this applies to cases in which no opportunity is left to us to do otherwise according to justice. But because, as it says in Deuteronomy: *judgment is the Lord’s* (Deut 1:17), when someone authorized by a judge seeks vengeance in order to repress malice and not because of hatred, or on the authority of his superior procures his own defense, he is understood to leave matters to the wrath of God, since magistrates are God’s ministers. Hence even Paul obtained a bodyguard against the plots of the Jews (Acts 23:12ff.).  
+
+**1013**. Then when he says, ***as it is written***, he proves what he had said:  
+
+first, by an authority;  
+
+second, by reason, at ***do not be overcome by evil***.  
+
+**1014**. In regard to the first he does two things: first, he proves what he said about revenge being forbidden, saying: ***give place unto wrath***, i.e., to divine judgment, ***for it is written: vengeance is mine***, and ***I will repay, saith the Lord*** (Deut 32:35).  
+
+Our text has this: *vengeance is mine, and I will repay in due time*; *God the Lord of vengeance* (Ps 93:1); *the Lord is a jealous God, an avenger* (Nah 1:2).  
+
+Second, he proves what he said about kindness to one’s enemies by an appeal to authority.  
+
+First, he presents the scriptural teaching that we help enemies who are in danger of death, because this binds by a necessity of precept, as stated earlier. And this is what it says: ***if your enemy is hungry, feed him; if he is thirsty, give him drink***: *do good to those who hate you* (Matt 5:44).  
+
+Second, he assigns the reason, saying: ***for, doing this, you will heap coals of fire upon his head***. This can be given a sinister interpretation, so that the sense would be: if you do good to him, your good will turn out evil for him, because from it he will incur eternal fire by his ingratitude. But this sense is opposed to charity, against which a person would be acting, if he helped someone, so that the help would turn out evilly for him.  
+
+Therefore, it must be given a good sense, namely, ***doing this***, i.e., helping them in time of need, ***coals of fire***, i.e., the love of charity, of which Song of Songs says, *the lamps thereof are as lamps of fire and flame*; *you shall heap* (Song 8:6), i.e., gather together, ***upon his head***, i.e., on ***his*** mind. For, as Augustine says: *there is no greater incitement to love than to be the first to love. For the man is exceedingly hard who, though unwilling to bestow love, refuses to return love*.  
+
+**1015**. Then when he says, ***do not be overcome by evil***, he proves what he had said by reason.  
+
+For it is natural to man that he wish to overcome his adversary and not be overcome by him. But that is overcome by another which is drawn to that other, as water is overcome by fire, when it is drawn to the heat of fire. Therefore, if a good man, on account of the evil done him by another, is drawn to do evil in return, the good man is overcome by the evil. If, on the other hand, on account of a favor which the good man does for his persecutor, he draws the latter to his love, the good man overcomes the evil.  
+
+He says, therefore, ***do not be overcome by the evil*** of the one who persecutes you, so as to persecute him, ***but with*** your ***good overcome*** his ***evil***, so as to draw him from evil by doing good to him: *this is the victory which overcomes the world, our faith* (1 John 5:4); *they shall turn to you, but you shall not turn to them* (Jer 15:19).

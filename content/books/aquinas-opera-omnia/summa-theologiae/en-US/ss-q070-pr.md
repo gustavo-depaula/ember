@@ -1,9 +1,9 @@
-# Question 70 — We must now consider injustice with regard to the person of the witness. Under this head there are four points of inquiry:
+# Question 70 — Injustice With Regard to the Person of the Witness
 
-(1) Whether a man is bound to give evidence?
+We must now consider injustice with regard to the person of the witness. Under this head there are four points of inquiry:  
 
-(2) Whether the evidence of two or three witnesses suffices?
+(1) Whether a man is bound to give evidence?  
 
-(3) Whether a man's evidence may be rejected without any fault on his part?
-
-(4) Whether it is a mortal sin to bear false witness?
+- (2) Whether the evidence of two or three witnesses suffices?
+- (3) Whether a man’s evidence may be rejected without any fault on his part?
+- (4) Whether it is a mortal sin to bear false witness?

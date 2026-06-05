@@ -1,9 +1,9 @@
-# Quaestio 51 — Deinde considerandum est de virtutibus adiunctis prudentiae, quae sunt quasi partes potentiales ipsius. Et circa hoc quaeruntur quatuor.
+# Quaestio 51
 
-Primo, utrum eubulia sit virtus.
+Deinde considerandum est de virtutibus adiunctis prudentiae, quae sunt quasi partes potentiales ipsius. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum sit specialis virtus a prudentia distincta.
+Primo, utrum eubulia sit virtus.  
 
-Tertio, utrum synesis sit specialis virtus.
-
-Quarto, utrum gnome sit specialis virtus.
+- Secundo, utrum sit specialis virtus a prudentia distincta.
+- Tertio, utrum synesis sit specialis virtus.
+- Quarto, utrum gnome sit specialis virtus.

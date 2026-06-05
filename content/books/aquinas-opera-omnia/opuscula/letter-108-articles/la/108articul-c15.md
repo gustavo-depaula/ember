@@ -1,0 +1,3 @@
+# Articulus 14
+
+Quod vero quarto decimo ponitur, *potentiae enim ex parte operationum, scilicet creationis et generationis quae diversa sunt, et secundum quod prius et posterius se habent, habent distinctionem*, sanum habet intellectum. Quamvis enim potentia creandi et generandi sit divina essentia, ut obiiciens tangit: tamen importat respectum quem non importat essentia; et quantum ad hunc respectum distinguitur potentia, licet non distinguatur essentia. Similiter etiam licet creationis actio sit Deus et divina essentia, tamen connotat effectum secundum quem distinguitur creatio a generatione, non autem secundum ipsam essentiam actionis, prout est ipsa essentia divina.

@@ -1,0 +1,3 @@
+# Articulus 78
+
+Quod vero septuagesimo octavo ponitur, *infinitas potentiae tota attenditur penes respectum ad potentialia, infinitas autem essentiae non solum attenditur penes esse hoc et non illud, sed penes esse in hoc et in altero quolibet ente, et etiam in infinitis si essent infinita*, vel male, vel defective dicitur; si enim diceret sic: infinitas potentiae in quantum est potentia, tota attenditur penes respectum ad potentialia, posset sustineri, quia potentia importat respectum ad potentialia. Quod autem dicitur de infinitate essentiae, non bene explanatur: non enim infinitas divinae essentiae est ex hoc quod Deus potest esse in infinitis, sed per se infinita est.

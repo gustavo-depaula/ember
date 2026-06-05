@@ -1,5 +1,7 @@
-# Quaestio 167 — Deinde considerandum est de curiositate. Et circa hoc quaeruntur duo.
+# Quaestio 167
 
-Primo, utrum vitium curiositatis possit esse in cognitione intellectiva.
+***Deinde considerandum est de curiositate. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum sit in cognitione sensitiva.
+Primo, utrum vitium curiositatis possit esse in cognitione intellectiva.  
+
+- Secundo, utrum sit in cognitione sensitiva.

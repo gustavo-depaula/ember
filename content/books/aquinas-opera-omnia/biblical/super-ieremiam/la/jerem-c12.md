@@ -1,139 +1,207 @@
-# C. 12 - God’s justice in punishing
+# C. 10 - The futility of idol-worship
 
-***^12:1^ Justus quidem tu es, Domine, si disputem tecum; verumtamen justa loquar ad te. Quare via impiorum prosperatur, bene est omnibus qui praevaricantur, et inique agunt?***
+***Lectio 1***
 
-> ^12:2^ Plantasti eos, et radicem miserunt, proficiunt, et faciunt fructum. Prope es tu ori eorum, et longe a renibus eorum.
+***^10:1^ Audite verbum quod locutus est Dominus super vos, domus Israel.***
 
-> ^12:3^ Et tu, Domine, nosti me, vidisti me, et probasti cor meum tecum. Congrega eos quasi gregem ad victimam, et sanctifica eos in die occisionis.
+> ^10:2^ Haec dicit Dominus: juxta vias gentium nolite discere, et a signis caeli nolite metuere, quae timent gentes:
 
-> ^12:4^ Usquequo lugebit terra, et herba omnis regionis siccabitur? Propter malitiam habitantium in ea, consumptum est animal, et volucre: quoniam dixerunt: non videbit novissima nostra.
+> ^10:3^ quia leges populorum vanae sunt: quia lignum de saltu praecidit opus manus artificis in ascia.
 
-> ^12:5^ Si cum peditibus currens laborasti, quomodo contendere poteris cum equis? Cum autem in terra pacis securus fueris, quid facies in superbia Jordanis?
+> ^10:4^ Argento, et auro decoravit illud, clavis, et malleis compegit, ut non dissolvatur.
 
-> ^12:6^ Nam et fratres tui, et domus patris tui, etiam ipsi pugnaverunt adversum te, et clamaverunt post te plena voce. Ne credas eis, cum locuti fuerint tibi bona.
+> ^10:5^ In similitudinem palmae fabricata sunt, non loquentur, portata tollentur, quia incedere non valent. Nolite ergo timere ea, quia nec male possunt facere, nec bene.
 
-> **81**. Hic propheta disputat de punientis justitia:
+> **68**. Hic ostendit populi dignitatem, ut ex hoc appareat eorum culpa gravior, et poena justior.
 
-et primo ponitur prophetae disputatio;
+Et dividitur in tres partes.  
 
-secundo Domini responsio, ibi, ***reliqui domum meam***.
+In prima ostendit eorum dignitatem ex divina majestate;  
 
-Circa primum tria.
+in secunda ex divino foedere, cap. 11: ***verbum quod factum est a Domino ad Jeremiam***;  
 
-Primo captat benevolentiam ex persona judicis: ***justus quidem tu es, Domine***. Ps. 118: *justus es, Domine, et rectum judicium tuum*. Et ex honestate causae: ***verumtamen juxta loquar ad te***. Job 13: *ad Omnipotentem loquar, et disputare cum Deo cupio*. Et sic uterque eorum tenet locum opponentis. Sed Habacuc tenet locum respondentis, cap. 2: *super custodiam meam stabo, et figam gradum super munitionem*.
+in tertia ex dimissa adhaesione, vel protectione, cap. 13: ***haec dicit Dominus ad me***.  
 
-Secundo proponit causam quantum ad adversarios, proponens eorum prosperitatem quantum ad temporalium abundantiam: ***quare prosperatur via***, processus, ***impiorum***, per infidelitatem, ***qui praevaricantur***, contra legem agendo, ***et inique agunt***, contra proximum? Job 12: *abundant tabernacula praedonum, et audacter provocant Deum, cum ipse dederit omnia in manus eorum*. Ps. 72: *zelavi super iniquos, pacem peccatorum videns*.
+Circa primum duo.  
 
-Et quantum ad prosperitatis augmentum, ***plantasti***, in bonis temporalibus: et per similitudinem arboris, ***et radicem miserunt***, confirmatis prosperitatibus, ***proficiunt***, sicut arbor crescit, per augmentum prosperitatis, ***et faciunt fructum***, implentes opere quod mente disponunt. Job 21: *quare impii vivunt, sublimati sunt, confortatique divitiis?* Et proponit eorum iniquitatem; ***prope es tu ori eorum, et longe a renibus***, affectibus, quae duo simul videntur adversari divinae justitiae. Isa. 29: *populus hic labiis me honorat, cor autem eorum longe est a me*. In quo datur intelligi, quod imperfectis bonis, imperfectam retributionem recipiunt.
+In primo ostendit dignitatem eorum in comparatione ad alios populos, ex hoc ipso quod verbum Domini colebant;  
 
-Ex parte autem sua dat intelligere justitiam: ***et tu, Domine, nosti***, ab aeterno, ***vidisti***, quomodo recte ambulo coram te: etsi enim haec loquar, non tamen in his scandalum patior. Supra 1: ***priusquam te formarem in utero, novi te***. Et dat intelligere correctionem, ***probasti***: a poenis probatus, inventus sum tecum ambulans. Ps. 16: *probasti cor meum, et visitasti nocte, igne me examinasti, et non est inventa in me iniquitas*.
+in secunda comminatur poenam, quia cultum Dei repulerunt per idolatriam, ibi, ***congrega de terra confusionem tuam***.  
 
-Tertio ostendit poenam per modum imprecationis:
+Circa primum duo.  
 
-et primo imprecatur poenae inflictionem: ***congrega eos***; quasi dicat: quia justus es, non potest esse quod impios non punias. Ideo ita eos in prosperitatibus exaltas, sicut qui impinguat gregem ad occisionem. Ergo ex quo impinguati sunt, et injusti sunt, ***congrega eos***: in quo significatur quod paschali tempore, quando ad festum convenerant in urbe, obsessi sunt. ***Sanctifica eos***: loquitur per similitudinem animalium, quae occidebantur ad immolandum. Isa. 34: *victima Domini in Bosra, et interfectio magna in terra Edon*.
+Primo ostendit differentiam deorum;  
 
-Et excludit poenae dilationem, quia tempus est ut puniantur in propriis personis, non in possessionibus, neque in terrae nascentibus: ***usquequo lugebit terra?*** Ps. 106: *posui flumina in desertum, et exitus aquarum in sitim; terram fructiferam in salsuginem a malitia inhabitantium in ea*. In animalibus: ***consumptum est animal***. Ezech. 9: *dixerunt: dereliquit Dominus terram, et Dominus non videt*.
+secundo ex hoc concludit destructionem cultorum, ibi, ***stultus factus est omnis homo***.  
 
-Secundo quasi exauditus, contra puniendos ponit insultationem:
+Circa primum tria.  
 
-et primo ex parte hostium quantum ad potentiam: ***si cum peditibus currens laborasti, quomodo contendere poteris cum equis?*** quasi dicat: si vicinae gentes quae pedites pugnant, tibi multum laborem fecerunt, quomodo poteris resistere Chaldaeis, et Aegyptiis, qui equis potentes sunt? Job 6: *qui timent pruinam, irruet super eos nix*. Et quantum ad captivitatis terram: ***cum autem in terra pacis secura fueris***; idest, etsi etiam in terra tua semper pacem habuisses, ***quid facies***, quando eris trans Jordanem, cujus gurgites sunt tumentes, quia scilicet superbi sunt? Eccli. 10: *qui gloriatur in substantia, paupertatem vereatur*.
+Primo discernit Deum verum a falsis diis, quantum ad dominii majestatem:  
 
-Secundo quantum ad sanguine junctos, commemorans pristinam injuriam: ***nam et fratres***, scilicet Idumaei, ***et domus***, scilicet Moabitae et Amonitae. Cant. 1: *filii matris meae pugnaverunt contra me*. Et indicit cautelam: ***ne credas eis, cum locuti fuerint tibi bona***, quasi volentes tibi foederari ad resistendum Chaldaeis. Infra 27: ***fac tibi vincula et catenas, et pones eas in collo tuo, et mittes eas ad regem Edon, et ad regem Moab*** etc. Supra 9: ***unusquisque a proximo suo se custodiat, et in omni fratre suo non habeat fiduciam: quia omnis frater supplantans supplantabit, et omnis amicus fraudulenter incedet, et vir fratrem suum deridebit, et veritatem non loquetur***.
+secundo quantum ad durationis aeternitatem, ibi, ***doctrina vanitatis eorum***;  
 
-Lectio 2
+tertio quantum ad divinitatis veritatem, ibi, ***sic ergo dicetis eis***.  
 
-***^12:7^ Reliqui domum meam, dimisi haereditatem meam. Dedi dilectam animam meam in manu inimicorum ejus;***
+Circa primum duo.  
 
-> ^12:8^ facta est mihi haereditas mea quasi leo in silva. Dedit contra me vocem, ideo odivi eam.
+Primo ostendit idolorum vanitatem, et infirmitatem,  
 
-> ^12:9a^ Numquid avis discolor haereditas mea mihi? Numquid avis tincta per totum?
+secundo divinam majestatem, ibi, ***non est similis tui, Domine***.  
 
-> **82**. Hic ponitur Domini responsio:
+Circa primum duo.  
 
-et primo ponit poenae comminationem;
+Primo proponit praeceptum, ut non flectantur ad idolatriam, neque gentium imitatione, ***juxta vias***; neque caelestium magnitudine, ***a signis caeli nolite metuere***, ita scilicet quod in eis divinitatem credatis; vel quod necessitatem habeant super ea quae dependent ex libero arbitrio. Deut. 4: *ne forte elevatis oculis ad caelum, videas solem et lunam et omnia astra caeli, et errore deceptus adores ea, et colas quae creavit Dominus Deus ut ministerium cunctis gentibus quae sub caelo sunt*.  
 
-secundo poenae consolationem, ibi, ***haec dicit Dominus*** etc.
+Secundo probat propositum, ponens idolorum vanitatem: ***leges populorum***, quibus ad idolatriam se obligant, ***vanae***, quia inutiles, et sine veritate divinae scientiae. Sap. 13: *vani sunt omnes homines in quibus non subest scientia Dei*. Et hanc vanitatem probat ex substantiae vilitate quantum ad materiam, ***quia lignum***. Isa. 44: *succidit cedros, tulit ilicem, et quercum, quae steterat inter ligna saltus*. Quantum ad causam efficientem principalem. ***Opus manus***; et instrumentalem, ***in ascia***. Sap. 13: *infelices sunt, et inter mortuos spes illorum est qui appellaverunt deos opera manuum hominum*, etc. Isa. 44: *fecit illud in angularibus, et in circino tornavit illud, et fecit imaginem viri quasi speciosum hominem habitantem in domo*.  
 
-Circa primum duo.
+Quantum ad formam decoris. ***Argento***. Baruch ult.: *ligna eorum polita a fabro, ipsa etiam inaurata, et inargentata, falsa sunt, et non possunt loqui*. Et compositionis, ***clavis, et malleis***. Isa. 41: *confortavit faber aerarius percutiens malleo, eum qui cudebat tunc temporis, dicens: glutino bonum est: et confortavit eum clavis, ut non moveretur*.  
 
-Primo comminatur poenam quantum ad divini auxilii destitutionem: ***reliqui domum***, scilicet templum, ut non defendam, ***hereditatem***, populum Israel. Isa. 19: *hereditas autem mea Israel*. Supra 9: ***derelinquam populum meum, et recedam ab eis, quia omnes adulteri sunt, coetus praevaricatorum***, etc. Et quantum ad hostium oppressionem, ***dedi dilectam***, idest Judaeos, quos quasi animam meam diligebam.
+Probat etiam ex operis infirmitate, quia non habent operationem sensitivam, neque intellectivam: ***in similitudinem palmae*** quae non intelligit, quamvis decora sit, ***et non loquentur***, quantum ad actum rationis, ***portata***, scilicet ab aliis, ***quia incedere non valent***, quantum ad operationem sensitivae animae. Ps. 113: *os habent, et non loquentur; oculos habent, et non videbunt; aures habent, et non audient; nares habent, et non odorabunt; manus habent, et non palpabunt; pedes habent, et non ambulabunt; non clamabunt in gutture suo*.  
 
-Secundo ponit culpam,
+Tertio concludit intentum: ***nolite ergo timere***: quaedam enim colebantur, ut bene facerent; quaedam, ne male. Isa. 41: *bene quoque, aut male si potestis facite, et loquemur, et videamus simul*.  
 
-primo significans culpae magnitudinem: ***facta est mihi hereditas***, scilicet populus, ***quasi leo***, ferox ad impugnandam me. ***Dedit vocem***, blasphemiae. Psalm. 9: *insidiatur in abscondito quasi leo in spelunca sua*.
+Lectio 2  
 
-Secundo miratur animi instabilitatem: ***numquid avis discolor hereditas mea mihi?*** quasi dicat, quandoque mihi, quandoque idolis adhaerens, ***tincta***, sordibus peccatorum, ***per totum***, quia omnes mali sunt. 3 Reg. 18: *usquequo claudicatis in duas partes? Si Dominus ipse est Deus, sequimini eum; si autem Baal, sequimini illum*. Vel potest esse sensus. Numquid eam ita caram teneo sicut hujusmodi aves pulchras, ut tandem non abjiciam? ut discoloritas ad decorem referatur. Ezech. 16: *vestivi te discoloribus, et calceavi te hyacintho*.
+^10:6^ Non est similis tui, Domine: magnus es tu, et magnum nomen tuum in fortitudine.  
 
-Vel hoc quod dicit, ***reliqui domum***, etc., possunt esse verba prophetae, qui ut annuntiaret verbum Dei, mortis periculo se exposuit, et domum, et patriam reliquit, et a compatriotibus suis quasi leonibus, et variis dolositate, et plenis malitia, insidias perpessus fuit. Mystice sunt verba Christi, qui domum, et patriam relinquere dicitur in mundum veniens, quia ad modum relinquentis se habuit, quando in infirmitate abscondit majestatem. ***Hereditatem***, caelestem patriam.
+> ^10:7^ Quis non timebit te, o rex gentium? Tuum est enim decus. Inter cunctos sapientes gentium, et in universis regnis eorum nullus est similis tui.
 
-Collationes
+> ^10:8a^ Pariter insipientes, et fatui probabuntur.
 
-******Prosperantur impii*** propter hereditatis amissionem. Genes. 25: *dedit Abraham Isaac filio suo cuncta quae possederat, filiis autem concubinarum largitus est munera*. Propter imperfectam remunerationem. Matth. 6: *amen dico vobis, receperunt mercedem suam*. Quia non sunt digni divina correctione. Ezech. 16: *requiescet indignatio mea in te, et auferetur zelus meus a te*. Oseae 4: *non visitabo super filias vestras cum fuerint fornicatae, et super sponsas vestras cum adulteraverint*. Hebr. 12: *si extra disciplinam estis, cujus participes facti sunt omnes; ergo adulteri, et non filii estis*. Propter morbi desperationem. Thren. 2: *magna est velut mare contritio tua. Quis medebitur tibi?* Infra 30: ***insanabilis fractura tua, pessima plaga tua***. Propter eorum dejectionem. Psal. 72: *verumtamen propter dolos posuisti eis; dejecisti eos dum allevarentur*. Rom. 1: *propter quod tradidit eos Deus in reprobum sensum, ut faciant ea quae non conveniunt*, etc.***
+> **69**. Hic ostendit divinae dominationis majestatem:
 
-Lectio 3
+et primo ostendit singularem potentiam: ***magnus***, in seipso, ***et magnum nomen***, in hominum opinione. Et ex hoc concludit timorem: ***quis non timebit?*** Supra 5: ***me ergo non timebitis, ait Dominus, et a facie mea non dolebitis?***  
 
-***^12:9b^ Venite, congregamini, omnes bestiae terrae, properate ad devorandum.***
+Secundo ostendit suam singularem scientiam:  
 
-> ^12:10^ Pastores multi demoliti sunt vineam meam, conculcaverunt partem meam. Dederunt portionem meam desiderabilem in desertum solitudinis,
+et primo excludens sapientiae aequalitatem: ***tuum est enim decus***. Apoc. 7: *benedictio et claritas et sapientia et gratiarum actio, honor et virtus et fortitudo Deo nostro in saecula saeculorum. Amen*.  
 
-> ^12:11^ posuerunt eam in dissipationem, luxitque super me. Desolatione desolata est omnis terra, quia nullus est qui recogitet corde.
+Secundo ostendens eorum fatuitatem in comparatione ad divinam sapientiam; ***et in universis regnis eorum nullus est similis tui***.  
 
-> ^12:12^ Super omnes vias deserti venerunt omnes vastatores terrae, quia gladius Domini devorabit ab extremo terrae usque ad extremum ejus. Non est pax universae carni.
+***Pariter insipientes***, in divinis, ***fatui***, in humanis. 1 ad Cor. 3: *sapientia hujus mundi stultitia est apud Deum*.  
 
-> **83**. Hic comminatur poenam in speciali:
+Lectio 3  
 
-et primo poenam captivitatis;
+***^10:8b^ Doctrina vanitatis eorum lignum est.***
 
-secundo poenam sterilitatis terrae, ibi, ***seminaverunt triticum, et spinas messuerunt***.
+> ^10:9^ Argentum involutum de Tharsis affertur, et aurum de Ophir, opus artificis et manus aerarii: hyacinthus, et purpura indumentum eorum. Opus artificum universa haec.
 
-Circa primum tria.
+> ^10:10^ Dominus autem Deus verus est. Ipse Deus vivens, et rex sempiternus. Ab indignatione ejus commovebitur terra, et non sustinebunt gentes comminationem ejus.
 
-Primo determinat poenam, designans occisionis magnitudinem, ***ad devorandum***, cadaverum multitudinem. Ezech. 39: *haec dicit Dominus Deus: dic omni volucri, et universis avibus, cunctisque bestiis agri: convenite, et properate, concurrite undique ad victimam meam, quam ego immolo vobis, victimam grandem super montes Israel, ut comedatis carnes, et bibatis sanguinem. Carnes fortium comedetis, et sanguinem principum terrae bibetis*, etc.
+> **70**. Hic ostendit differentiam quantum ad aeternitatem:
 
-Hostium afflictionem quantum ad interfectos, ***pastores multi***, idest principes Chaldaeorum. Supra 6: ***ad eam venient pastores, et greges eorum. Vineam***, domum Israel. Isa. 5: *vinea enim Domini, domus Israel est*. Vel ***pastores***, principes populi, ***demoliti sunt***, per occisionem. Et quantum ad oppressos servitute, et captivitate, ***conculcaverunt***. Isa. 5: *auferam sepem ejus, et erit in direptionem*. Et terrae desolationem: ***dederunt portionem . . . luxitque super me***, quamvis tarde. Oseae 2: *et dicet: vadam, et revertar ad virum meum priorem, quia bene mihi erat tunc magis quam nunc*.
+et primo ostendit idolorum inceptionem quantum ad eorum substantiam, quae de ligno facta sunt: ***doctrina vanitatis eorum***, sapientum in gentibus, ***lignum***, idest idolum de ligno factum. Ab hoc enim sapientia vana ipsorum cernitur.  
 
-Secundo ponit poenae causam: ***desolatione desolata est omnis terra, quia nullus est qui recogitet***, Dei mandata, et beneficia. Isa. 5: *propter hoc captivus ductus est populus meus, quia non habuit scientiam*.
+Et quantum ad argentea, ***argentum***; et quantum ad aurea, ***aurum de Ophir, opus***, scilicet haec sunt, ***artificis***, et opus ***manus***; quasi etiam vile opus. Ps. 113: *simulacra gentium, argentum et aurum, opera manuum hominum*. Et quantum ad eorum ornamenta, ***hyacinthus***: constat enim, illud quod factum est, incepisse. Baruch ult. *opertis autem illis veste purpurea, extergunt faciem ipsorum propter pulverem domus, qui est plurimus inter eos*.  
 
-Tertio ponit poenae mensuram,
+Secundo proponit Dei aeternitatem, adjungens veritatem, et majestatem: quia ***Deus verus et sempiternus***. Isa. 40: *Deus sempiternus, Dominus qui creavit terminos terrae, non deficiet*. Et ex his concludit timorem: ***ab indignatione ejus commovebitur terra***; quasi dicat: etiam insensibilia ipsius iram sentiunt: ***non sustinebunt*** prae timoris magnitudine. Ps. 17: *commota est, et contremuit terra, fundamenta montium conturbata sunt*.  
 
-primo ostendens multitudinem hostium: ***super omnes vias***; quasi dicat, omnes vias implent, ***deserti***, quod est inter Jerusalem et Babyloniam. Supra 4: ***ventus urens in viis quae sunt in deserto viae filiae populi mei, non ad ventilandum, et ad purgandum*** etc.
+Lectio 4  
 
-Secundo multitudinem interfectorum, ***quia gladius*** vel pestilentiae, vel etiam Chaldaeorum. Deuteron. 32: *gladius meus devorabit carnes*.
+^10:11^ Sic ergo dicetis eis: dii qui caelos, et terram non fecerunt, pereant de terra, et de his quae sub caelo sunt.  
 
-Tertio consolationis defectum: ***non est pax***; quasi dicat nullus immunis erit. Isa. 57: *non est pax impiis dicit Dominus Deus*.
+> ^10:12^ Qui facit terram in fortitudine sua, praeparat orbem in sapientia sua, et prudentia sua extendit caelos.
 
-Lectio 4
+> ^10:13^ Ad vocem suam dat multitudinem aquarum in caelo, et elevat nebulas ab extremitatibus terrae. Fulgura in pluviam facit, et educit ventum de thesauris suis.
 
-***^12:13^ Seminaverunt triticum, et spinas messuerunt; haereditatem acceperunt, et non eis proderit. Confundemini a fructibus vestris propter iram furoris Domini.***
+> **71**. Hic ostendit differentiam quantum ad divinitatis veritatem:
 
-> **84**. Hic comminatur poenam sterilitatis:
+quam primo excludit ab idolis, ostendens in eis non esse divinam operationem: ***sic ergo dicetis eis***, cultoribus idolorum. Unde in Hebraeo, Chaldaeo sermone scriptum est: ***pereant***, idest cultus eorum cesset. Ps. 18: *caeli enarrant gloriam Dei, et opera manuum ejus annuntiat firmamentum*.  
 
-et primo seminis frustrationem, ***seminaverunt***; quasi dicat, semina corrumpentur. Matth. 13: *nonne bonum semen seminasti in agro tuo? Unde ergo habet zizania?* Isa. 5: *expectavi ut faceret uvas, et fecit labruscas*.
+Secundo ostendit in Deo esse divinam operationem:  
 
-Secundo hereditatis amissionem: ***hereditatem acceperunt, et non proderit***, quia ab hostibus surripietur. Thren. ult.: *hereditas nostra versa est ad alienos*.
+et primo quantum ad creationem essentialium partium mundi: ***qui facit terram***, quantum ad infima, ***praeparat orbem***, quantum ad summa. Prov. 3: *Dominus sapientia fundavit terram, stabilivit caelos prudentia*. Ps. 103: *extendens caelum sicut pellem, qui tegis aquis superiora ejus*.  
 
-Tertio concludit confusionem, ***confundemini***, scilicet propter defectum fructuum. Isa. 24: *luxit vindemia, infirmata est vitis; ingemuerunt omnes qui laetabantur corde*.
+Secundo quantum ad passiones aeris, ut non solum priora a primis esse credantur, sicut quidam philosophi dicunt; sed etiam omnium auctor, quasi operans in omnibus.  
 
-Lectio 5
+Et primo quantum ad ea quae fiunt ex materia humida, sicut nubes, et pluviae: ***ad vocem***, ad praeceptum, ***ab extremitatibus***, propter abundantiam aquarum in circuitu terrae.  
 
-***^12:14^ Haec dicit Dominus adversum omnes vicinos meos pessimos, qui tangunt haereditatem quam distribui populo meo Israel: ecce ego evellam eos de terra sua, et domum Juda evellam de medio eorum;***
+Secundo quantum ad ea quae fiunt ex materia humida et sicca, ***fulgura***: immutat ordinem, quia post fulgura frequenter sequitur pluvia.  
 
-> ^12:15^ et cum evulsero eos, convertar, et miserebor eorum, et reducam eos virum ad haereditatem suam, et virum in terram suam.
+Tertio quantum ad ea quae fiunt ex sicca materia: ***et educit de thesauris***, de occultis causis, et locus in quibus generantur. Psal. 134: *educens nubes ab extremis terrae, fulgura in pluviam fecit*.  
 
-> ^12:16^ Et erit, si eruditi didicerint vias populi mei, ut jurent in nomine meo. Vivit, Dominus, sicut docuerunt populum meum jurare in Baal aedificabuntur in medio populi mei.
+Lectio 5  
 
-> ^12:17^ Quod si non audierint, evellam gentem illam evulsione, et perditione, ait Dominus.
+^10:14^ Stultus factus est omnis homo a scientia sua, confusus est artifex omnis in sculptili: quoniam falsum est quod conflavit, et non est spiritus in eis.  
 
-> **85**. Hic ponit consolationem ex hostium poena: et circa hoc tria.
+> ^10:15^ Vana sunt, et opus risu dignum. In tempore visitationis suae peribunt.
 
-Primo ponit eorum transmigrationem: ***qui tangunt hereditatem***, laedendo eam. Zech. 2: *qui tangit vos, quasi qui tangit pupillam oculi mei*. Supra 1: ***ecce constitui te hodie super gentes, et super regna, ut evellas, et destruas, et disperdas, et dissipes, et aedifices, et plantes*** etc.
+> ^10:16^ Non est his similis pars Jacob: qui enim formavit omnia, ipse est, et Israel virga haereditatis ejus, Dominus exercituum nomen illi.
 
-Secundo eorum eductionem: ***et cum evulsero**, tollam vos de gentibus*, Ezech. 36.
+> **72**. Hic concludit destructionem cultorum:
 
-Tertio ponit eorum instructionem ex promissione bonorum, si bene fecerint: ***et erit, si eruditi didicerint vias populi mei . . . aedificabuntur***; quasi dicat: computabuntur inter populum meum: quod pertinet ad conversionem. Et comminationem poenarum: ***quod si non audierint, evellam gentem illam evulsione, et perditione***, perpetua. Isa. 1: *si volueritis et audieritis me, bona terrae comedetis*.
+et primo ponit idolatrarum ignominiam quantum ad stultitiam: ***stultus factus est***, apparuit, ***a scientia sua***, qua idolum finxit. 1 Cor. 1: *stultam fecit Deus sapientiam hujus mundi*. Et quantum ad confusionis poenam, ***confusus est***. Ps. 96: *confundantur omnes qui adorant sculptilia, et qui gloriantur in simulacris suis*. Et assignat causam ex idolorum falsitate: ***quoniam falsum est***, vanitate, ***vana***, et finitione.  
 
-Collationes
+***In tempore visitationis suae peribunt***. Sap. 14: *quod factum est, cum illo qui fecit, tormenta patietur*.  
 
-***Nota, quod praelati ***destruunt*** populum propter operis perversitatem. Supra 10: ***quia stulte egerunt pastores, et Dominum non quaesierunt, propterea non intellexerunt, et omnis grex eorum dispersus est***. Propter doctrinae falsitatem. Infra 50: ***grex perditus factus est populus meus, pastores eorum seduxerunt eos, feceruntque vagari in montibus*** etc. Propter timoris pusillanimitatem. Zech. 11: *o pastor, et idolum derelinquens gregem: gladius super brachium ejus, et super oculum dexterum ejus*. Propter dominii austeritatem. Ezech. 34: *cum austeritate imperabatis, et cum potentia, et dispersae sunt oves meae* etc. Propter curae remissionem. Zech. 11: *suscitabo pastorem in terra qui derelictum non visitabit, dispersum non quaeret, et contritum non sanabit, id quod stat non enutriet, et carnes pinguium comedet, et ungulas eorum dissolvet*.***
+Secundo excludit Judaeorum gloriam: ***non est his similis pars Jacob***. Psalm. 15: *Dominus pars hereditatis meae, et calicis mei, tu es qui restitues hereditatem meam mihi*: quia felicitas cujuslibet est sua pars. Thren. 3: *pars mea Dominus, dixit anima mea, propterea expectabo eum. **Virga hereditatis***, quasi sceptrum ipsius, quia hereditarium regnum ipsius est. Vel ***virga***, quasi sors. Deut. 32: *pars autem Domini populus ejus, Jacob funiculus hereditatis ejus*.  
 
-Caput 13
+Lectio 6  
+
+***^10:17^ Congrega de terra confusionem tuam, quae habitas in obsidione:***
+
+> ^10:18^ quia haec dicit Dominus: ecce ego longe projiciam habitatores terrae in hac vice, et tribulabo eos, ita ut non inveniantur.
+
+> ^10:19^ Vae mihi super contritione mea, pessima plaga mea. Ego autem dixi: plane haec infirmitas mea est, et portabo illam.
+
+> ^10:20^ Tabernaculum meum vastatum est, omnes funiculi mei dirupti sunt. Filii mei exierunt a me, et non subsistunt. Non est qui extendat ultra tentorium meum, et erigat pelles meas.
+
+> **73**. Hic comminatur eis poenam, quia hanc dignitatem non servaverunt:
+
+et primo comminatur poenam;  
+
+secundo propheta petit misericordiam, ibi, ***scio, Domine, quia non est hominis via ejus***.  
+
+Circa primum tria.  
+
+Primo comminatur poenam;  
+
+secundo, poenae causam, ibi, ***quia stulte egerunt pastores***;  
+
+tertio, poenae ordinem, ibi, ***vox auditionis ecce venit***.  
+
+Circa primum duo.  
+
+Primo Dominus praesignat poenam obsidionis: ***congrega***, in urbe, ***de terra***, de agris, ***confusionem***, idest fructus tuos, qui sunt confusione digni. Supra 8: ***congregans congregabo eos, ait Dominus***.  
+
+Et poenam captivitatis: ***quia haec dicit Dominus: ecce ego longe projiciam habitatores terrae in hac vice***, quasi dicat: ulterius non parcam: ***ita ut non inveniantur***, in urbe: vel quia major pars mortua est. Thren. ult.: *projiciens repulisti nos*.  
+
+Secundo populus ex hoc territus plangit futuram poenam:  
+
+et primo in generali, plangens poenam, ***vae mihi***. Infra 30: ***insanabilis fractura tua***, quia pro peccatis. Et promittit patientiam: ***ego autem dixi: plane haec infirmitas mea est***, quasi pro peccatis mihi debita, ***et portabo illam***, patienter. Mich. 7: *iram Domini portabo, quoniam peccavi ei*.  
+
+Secundo in speciali quantum ad destructionem domorum: ***tabernaculum***, quia domus ita facile sicut tentoria destructa sunt, ***funiculi***, quibus tentoria extenduntur. Supra 4: ***repente vastata sunt tabernacula mea, subito pelles meae***. Et quantum ad afflictionem habitatorum, ***filii mei***, Baruch. 5: *exierunt abs te pedibus ducti ab inimicis. **Non est qui extendat***, quasi qui reaedificet.  
+
+Lectio 7  
+
+^10:21^ Quia stulte egerunt pastores, et Dominum non quaesierunt, propterea non intellexerunt, et omnis grex eorum dispersus est.  
+
+> **74**. Hic assignat communem poenam per ordinem, quia peccata praelatorum sunt causa caecitatis ipsorum. Sap. 2: *excaecavit eos malitia eorum*. Et haec causa destructionis populi. Matth. 15: *si caecus caeco ducatum praestet, ambo in foveam cadunt*. Ezech. 34: *dispersae sunt oves meae, eo quod non esset pastor et factae sunt in devorationem omnium bestiarum agri, et dispersae sunt*.
+
+Lectio 8  
+
+^10:22^ Vox auditionis ecce venit, et commotio magna de terra aquilonis, ut ponat civitates Juda solitudinem, et habitaculum draconum.  
+
+> **75**. Hic determinat ordinem poenae, praesignans hostem ab aquilone venientem. Supra 1: ***ab aquilone pandetur omne malum super omnes habitatores terrae***. *(Here, the Parma edition reads *cognationes terrae*, “families of the land,” in place of *habitatores terrae*, “inhabitants of the land.”)*
+
+Lectio 9  
+
+^10:23^ Scio, Domine, quia non est hominis via ejus, nec viri est ut ambulet, et dirigat gressus suos.  
+
+> ^10:24^ Corripe me, Domine, verumtamen in judicio, et non in furore tuo, ne forte ad nihilum redigas me.
+
+> ^10:25^ Effunde indignationem tuam super gentes quae non cognoverunt te, et super provincias quae nomen tuum non invocaverunt: quia comederunt Jacob, et devoraverunt eum, et consumpserunt illum, et decus ejus dissipaverunt.
+
+> **76**. Hic petit misericordiam:
+
+et primo ostendit petendi necessitatem: ***non est hominis via***, quantum ad electionem, ***ut ambulet***, quantum ad executionem, ***dirigat***, quantum ad ordinationem in finem; et ita nec in potestate nostra resistere, nec Chaldaei impugnare; sed totum dependet ex tua dispositione. Psal. 36: *apud Domino* *(Here, the Parma edition reads *a Domino*, “by the Lord,” in place of *apud Domino*, “with the Lord.”)* *gressus hominis dirigentur, et viam ejus volet*. Prov. 16: *cor hominis disponit viam suam; sed Domini est dirigere gressus ejus*.  
+
+Secundo ponit petitionem qua petit populus misericordiam: ***corripe me in judicio***, consuetae misericordiae, non condemnationis, de quo in Psalm. 142: *non intres in judicium cum servo tuo Domine, quia non justificabitur in conspectu tuo omnis vivens: **et non in furore***, secundum debitae vindictae mensuram, ***ne forte ad nihilum redigas me***: justum enim esset ut peccans in Deum ab ipso relinqueretur, et sic in nihilum tenderet. Et sic non facit contra praeceptum Domini supra 14: ***tu ergo noli orare pro populo isto*** quia non petit ut non puniantur, sed ne omnino deleantur. Psalm. 37: *Domine ne in furore tuo arguas me, neque in ira tua corripias me*.  
+
+Et petit hostibus iram. ***Effunde indignationem***: et assignat causam, ***quia comederunt***. Psalm. 78: *effunde iram tuam in gentes quae te non noverunt, et in regna quae nomen tuum non invocaverunt: quia comederunt Jacob, et locum ejus desolaverunt*.  
+
+Collationes  
+
+Nota, quod ***stultus*** est homo a scientia Dei: propter cordis elationem. Rom. 1: *dicentes se esse sapientes stulti facti sunt*. Propter inquirendi curiositatem. Act. 26: *multae litterae ad insaniam te deduxerunt*. Propter scientiae incertitudinem. Isa. 47: *haec scientia tua, et sapientia tua decepit te*. Propter operis perversitatem. Sap. 2: *excaecavit enim eos malitia eorum*.  
+
+Item nota, quod debet portari divina percussio patienter: propter affectum percutientis. Prov. 1: *disciplinam Domini, fili mi, ne abjicias, nec deficias, cum ab eo corriperis*. Propter conscientiam criminis. Mich. 7: *iram Domini portabo, quoniam peccavi ei*. Propter expectationem muneris. Jac. 5: *beatus vir qui suffert tentationem, quoniam cum probatus fuerit, accipiet coronam vitae, quam repromisit Deus diligentibus se*. Propter inutilitatem murmuris. Thren. 3: *quid murmuravit homo vivens, vir pro peccatis suis?*

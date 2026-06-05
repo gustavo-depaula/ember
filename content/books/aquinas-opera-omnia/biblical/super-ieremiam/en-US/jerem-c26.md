@@ -1,153 +1,51 @@
-# C. 26 - Conspiracy of the princes
+# C. 24 - Good and bad princes separated
+
+***Good and bad princes separated***
 
 ***Lecture 1***
 
-***Title and date***
+***Two baskets of figs***
 
-***^26:1^ In the beginning of the reign of Jehoiakim, the son of Josiah, king of Judah, this word came from the Lord, saying:***
+^24:1^ The Lord showed me and behold, two baskets full of figs set before the temple of the Lord, after that Nebuchadnezzar, the king of Babylon, had taken away Jekoniah, the son of Jehoiakim, the king of Israel, and his princes, and the craftsman, and the engraver *(Heb. מַסְגֵּר: *smith*.)* from Jerusalem, and led them to Babylon.  
 
-> **135**. Here is given the conspiracy of the princes against the prophet.
+> ^24:2^ And one basket contained exceedingly good figs, as figs of the first season, and one basket contained exceedingly bad figs, which could not be eaten, because they were bad.
 
-It is divided into three parts.
+> ^24:3^ And the Lord said to me: what do you see, Jeremiah? And I said: figs, good figs, exceedingly good, and bad, exceedingly bad, which cannot be eaten, because they are bad.
 
-First, the title;
+> ^24:4^ And the word of the Lord came to me, saying:
 
-second, the prophecy, at ***thus says the Lord*** (Jer 26:2);
+> ^24:5^ ‘Thus says the Lord, the God of Israel: as these good figs, so shall I think of the exile of Judah, which I have sent from this land into the land of the Chaldeans, for good.
 
-third, the epilogue, at ***in the beginning of the reign of Jehoiakim*** (Jer 27:1).
+> ^24:6^ And I shall set my eyes upon them for good, and I shall bring them back to this land; and I shall build them up, and not pull them down; I shall plant them, and not root them up.
 
-The title is self-explanatory.
+> ^24:7^ And I shall give them a heart, that they may know me, for I am the Lord; and they shall be to me a people, and I shall be a God for them, for they shall return to me with their whole heart.
 
-Lecture 2
+> ^24:8^ And as the bad figs, which cannot be eaten, because they are bad, thus says the Lord: so shall I make Zedekiah, the king of Judah, and his princes, and the remnant of Jerusalem, who remain in this city, and who dwell in the land of Egypt.
 
-***Jeremiah in the temple***
+> ^24:9^ And I shall give them over to vexation and affliction in all the kingdoms of the earth, as a reproach and a parable, as a proverb and a curse, in all the places to which I have driven them.
 
-***^26:2^ Thus says the Lord: stand in the court of the house of the Lord and speak to all the cities of Judah, from which people come to worship in the house of the Lord, all the words which I have commanded you to speak unto them. Do not subtract a word.***
+> ^24:10^ And I shall send the sword, and the famine, and the pestilence against them, until they are consumed from the land which I gave to them and their fathers.’
 
-> ^26:3^ It may be that they hear and be turned, each one from his wicked way, and I repent of the evil which I think to do against them, because of the evil of their doings.
+> **128**. Here, the separation of the wicked princes from the good is spoken of by way of a simile:
 
-> ^26:4^ And you shall say to them: thus says the Lord: if you will not hearken unto me, to walk in my law, which I have given you,
+first, the exposition of the simile, when he speaks of the vision: ***the Lord showed***, with a vision, either of images or of the sign itself, so that the prophecy might be drawn from the figs that were sold in front of the temple; similarly, above in chapter 18, the prophecy is drawn from the sign of the potter. *If there be a prophet among you, I shall appear to him in a vision, or speak to him through a dream* (Num 12:6). ***After that Nebuchadnezzar . . . the engraver***, the silversmith, who encloses stones in silver or gold. And this is held to be true according to the account in 2 Kings 23. *Behold, the sovereign Lord of Hosts shall take away from Jerusalem and from Judah, the strong and the mighty, the whole strength of bread, and the whole strength of water* (Isa 3:1).  
 
-> ^26:5^ to hear the words of my servants the prophets, whom I have sent unto you, rising at night, and sending, and you did not hear,
+And the distinction between the things seen, when he speaks of the good figs: ***and one basket contained exceedingly good figs***, by which good men are signified. *As the first fruits of the fig tree in the top thereof, I saw their fathers* (Hos 9:10). *My soul desired the first ripened figs* (Mic 7:1). And he speaks of the bad: ***and one basket contained exceedingly bad figs***, by which the wicked among the people are signified. As it says above: ***how have you become for me a foreign vine?*** (Jer 2:21).  
 
-> ^26:6^ I shall make this house like Shiloh, and this city a curse to all the nations of the earth.
+Second, the exposition of the vision is given: when the question of the Lord is asked, it is an incitement to see: ***and the Lord said to me***. The same question is asked above (Jer 1:11). And the response of the prophet: ***and I said, figs***. So Genesis 41, concerning the ears of grain, and the cows in the dream of Pharaoh.  
 
-> **136**. Here the prophecy is given, and it is divided into three parts.
+Third, the exposition of the vision is given: ***and the word of the Lord came to me***.  
 
-In the first, the occasion of the persecution;
+First, with regard to the good, when he applies the simile to the promise of prosperity in general: ***as these good figs, so shall I think of the exile of Judah***, thinking with approval. *The Lord knows those who are his own* (2 Tim 2:19).  
 
-in the second, the persecution, at ***and the priests heard*** (Jer 26:7);
+And he continues, in particular with regard to the goods of the body, to bring them back to their proper place: ***and I shall set my eyes***. *I shall certainly take you from the nations, and gather you from all the lands, and bring you back to your own land* (Ezek 36:24). And to restore them to a state of prosperity: ***and I shall bring them back, and I shall build them up***, raising them up, as happens with a building, ***and not pull them down***, when they sin; as it says below: ***I shall build you up, and not pull you down. I shall plant, and not pull up*** (Jer 42:10). ***And I shall plant***, by strengthening them in the good. As it says below: ***so shall I keep watch over them, to build up, and to plant, says the Lord*** (Jer 31:28).  
 
-in the third, the liberation, at ***and the princes heard*** (Jer 26:10).
+And with regard to the goods of the soul, when God promises knowledge: ***and I shall give them a heart, that they may know me***. *I shall give you a new heart, and put a new spirit within you* (Ezek 36:26). And he promises the subjection of obedience: ***and they shall be to me a people***. *They shall be his people, and God himself shall be with them as their God* (Rev 21:3).  
 
-Now, the occasion arose from his preaching;
+Second, with regard to the bad figs: ***and as the bad figs***.  
 
-for this reason, he first designates the place of the preaching: ***stand in the court***. As it says above: ***stand in the gate of the house of the Lord, and preach there this word*** (Jer 7:2).
+First, he threatens them with affliction in their own land: ***so shall I make Zedekiah***. As it says above: ***I shall give them in burning anger to all the kingdoms of the earth, because of Manasseh, the son of Hezekiah, the king of Judah, and because of all that he did in Jerusalem*** (Jer 15:4).  
 
-Second, with regard to the fruit of emendation: ***do not subtract a word*** (Jer 26:2); with regard to the emendation of faults: ***and they may be turned***; and with regard to the remission of the punishment: ***and I repent***. As it says above: ***if that nation will repent of its evil, which I have spoken against it, then I also shall repent of the evil which I have thought to do against it*** (Jer 18:8).
+Second, shame in the land of their captivity: ***as a reproach***, with regard to the sin of neglect; ***as a parable***, in metaphorical language, your punishment will be recited as an example; ***as a proverb***, for, from what has happened to you, a proverb is drawn for the instruction of others; ***as a curse***, with regard to the imprecation of the punishment penitentially. Alternatively, because someone will say to his fellow when he curses him, “May God do to you as he has done to them.” *We have become a reproach to our neighbors, a source of scorn, and ridicule to those who live about us* (Ps 78:4).  
 
-Third, he gives the subject matter of the preaching: ***and you shall say***. As it says above: ***I shall do to this house, in which my name is invoked, and in which you have confidence, and to the place which I have given to you, and to your fathers, as I did to Shiloh; and I shall drive you from before my face, as I drove all your brothers, the whole seed of Ephraim*** (Jer 7:14–15).
-
-Lecture 3
-
-***Wrath against Jeremiah***
-
-***^26:7^ And the priests heard, and the prophets, and all the people heard Jeremiah speaking these words in the house of the Lord.***
-
-> ^26:8^ And when Jeremiah had finished speaking everything which the Lord had commanded him to speak to all the people, the priests and the prophets, and all the people seized him, saying, ‘He shall surely die.
-
-> ^26:9^ Why has he prophesied in the name of the Lord, saying, “This house shall be like Shiloh, and this city shall be laid waste, such that it have no inhabitant?”’ And all the people were gathered against Jeremiah in the house of the Lord.
-
-> **137**. Here, he speaks of the persecution; concerning this, he makes four points.
-
-First, the hearing of the preaching: ***and the priests heard***. *They hear your words, and do not do them, because they turn them into a song of their mouth* (Ezek 33:31).
-
-Second, their wicked counsel: ***and when Jeremiah had finished . . . the priests seized him***. *Let us condemn him to a most shameful death* (Wis 2:20). *They have hated him that rebukes in the gate, and abhorred him who speaks perfectly* (Amos 5:10).
-
-Third, the evidence of their wickedness: ***why has he prophesied***; it is as though they were saying, “The Lord seems to have spoken falsely when he chose this place.” *I hate him, because he does not prophesy good to me, but evil* (1 Kgs 22:8).
-
-Fourth, the assembling of the people: ***and all the people were gathered***. *As is the ruler of a city, so are the inhabitants thereof* (Sir 10:2). *Do not cast yourself against the people, nor bind sin to sin* (Sir 7:7–8).
-
-Lecture 4
-
-***Jeremiah’s trial***
-
-***^26:10^ And the princes of Judah heard these words, and came up from the house of the king into the house of the Lord, and sat in the entry of the new gate of the house of the Lord.***
-
-> ^26:11^ And the priests, and the prophets spoke to the princes, and to all the people, saying, ‘There is a judgment of death against this man, because he has prophesied against this city, as you have heard with your own ears.’
-
-> ^26:12^ And Jeremiah spoke to all the princes, and to all the people, saying: the Lord sent me to prophesy against this house and against this city all the words which you have heard.
-
-> ^26:13^ Now, therefore, make your ways and your doings good, and hear the voice of the Lord your God, and the Lord shall repent of the evil which he has spoken against you.
-
-> ^26:14^ But, behold, I am in your hands; do to me as seems good and right in your eyes.
-
-> ^26:15^ But know of a surety that if you kill me, you bring innocent blood against you, and against this city, and against the inhabitants thereof; for in truth the Lord sent me to you, that I should speak all these words in your ears.
-
-> ^26:16^ And the princes and all the people said to the priests and to the prophets, ‘There is no judgment of death against this man, for he has spoken to us in the name of the Lord our God.’
-
-> **138**. Here, the liberation is discussed; and concerning this, there are two points.
-
-First, the judgment of the princes for the liberation of Jeremiah;
-
-second, the calming of the furor of the people by the words of the elders, at ***therefore, certain of the elders of the land arose*** (Jer 26:17).
-
-Concerning the first, there are three points.
-
-First, he mentions the foresight of the princes: ***and the princes came up into the house of the Lord*** to quell the dissension; ***new***, because it had been remade to house the trials of the priests and of those who pertained to the practice of religion. *You shall establish judges and magistrates in all your gates, which the Lord your God shall give you throughout all your tribes, to judge the people with just judgment; neither shall they turn aside to another place* (Deut 16:18–19).
-
-Second, he mentions the dispute of the parties with regard to the accusation: ***and the priests spoke***. And they strove to impose upon him something like the crime of blasphemy so that he would be killed. Likewise in Acts 6:13, *this man does not cease to speak words against this holy place and against the law*.
-
-And with regard to the defense: ***and Jeremiah spoke***. Now, he responds prudently, because he exempts himself from guilt: ***the Lord sent me***; for this reason, I am not to be blamed for the things which I have spoken. *Do not stand in fear of your neighbor when he falls, nor hold your tongue in the time of salvation* (Sir 4:27). *And now the Lord and his Spirit sent me* (Isa 48:16).
-
-And he softens their wrath when he points out the remedy: ***now, therefore, make your ways good***. As it says above: ***let each one turn from his wicked way, and direct your ways and your endeavors*** (Jer 18:11).
-
-He responds humbly, because he recognizes their power: ***behold, I am in your hands***. *A mild answer breaks wrath, but a hard word stirs up fury* (Prov 15:1).
-
-He also speaks consistently, because he forbids injustice: ***but know***. *The voice of your brother’s blood cries out to me from the earth* (Gen 4:10). And because he is confirming the sentence: ***in truth, the Lord sent me***. *Judge whether it is right in the sight of God to listen to you rather than to God* (Acts 4:19).
-
-Third, the proclamation of the sentence is given: ***and the princes and all the people said***.
-
-First, the sentence is proclaimed by the princes: ***there is no judgment of death against this man***. *Behold, nothing worthy of death has been done by him* (Luke 23:15).
-
-Second, the sentence is confirmed by the elders, whose duty it is to know ancient precedents. *In the ancient is wisdom, and in much time prudence* (Job 12:12).
-
-Lecture 5
-
-***Intervention of the elders***
-
-***^26:17^ Therefore, certain of the elders of the land arose and spoke to the entire assembly of the people, saying:***
-
-> ^26:18^ ‘Micah the Morashite was a prophet in the days of Hezekiah, king of Judah, and he spoke to the entire people of Judah, saying, “Thus says the Lord of hosts: Zion shall be ploughed like a field, and Jerusalem shall be a heap of stones, and the mountain of the house of the Lord shall be as the high places of the forest.”
-
-> ^26:19^ Did Hezekiah, king of Judah, and all Judah, condemn him to death? Did they not fear the Lord, and entreat the face of the Lord, and the Lord repented of the evil which he has spoken against them? Therefore we are doing a great evil against our souls.’
-
-> ^26:20^ There was also a man prophesying in the name of the Lord, Uriah, the son of Shemaiah, from Kiriath-Jearim, and he prophesied against this city, and against this land, according to all the words of Jeremiah.
-
-> ^26:21^ And king Jehoiakim, and all the powerful, and his princes, heard these words, and the king sought to kill him: and Uriah heard it, and feared, and fled, and went into Egypt.
-
-> ^26:22^ And Jehoiakim, the king, sent men into Egypt, Elnathan, the son of Achbor, and men with him, into Egypt.
-
-> ^26:23^ And they took Uriah out of Egypt, and brought him to king Jehoiakim, and struck him with the sword, and cast his body into the graves of the common people.Heb. אֶל־קִבְרֵ֖י בְּנֵ֥י הָעָֽם: *into the graves of the children of the people*.
-
-> ^26:24^ Therefore, the hand of Ahicam, the son of Shaphan,This is the same Shapan of 2 Chronicles 34 and 2 Kings 22, a scribe who was instrumental in the restoration of the Temple. was with Jeremiah, that they should not give him into the hands of the people, to put him to death.
-
-> **139**. Here is given the calming of the people’s fury against Jeremiah, by the words of the elders.
-
-First, they set forth the example of the just, which they are to imitate, regarding the deed of Micah, when they make mention of his preaching; ***Micah***; one of the twelve minor prophets ***the Morashite***, to distinguish him from Micah, the son of Yemla (1 Kgs 22:8). ***Zion***: *hear your princes of Jacob, and leaders of the house of Israel* (Mic 3:1). As it says above: ***I will make Jerusalem to be heaps of sand and the lair of dragons; and the cities of Judah I will make desolate, so that there be no inhabitant*** (Jer 9:11).
-
-And the conversion of the people: ***did Hezekiah condemn him to death?*** It is as though he were saying, “No.” As it says above: ***ask of the ancient paths, ‘Which is the good way?’ and walk thereon; and you shall find rest for your souls*** (Jer 6:16). And they infer the conclusion: ***therefore, we are doing*** (Jer 26:19). *His sorrow shall be turned on his own head, and his iniquity shall come down on his own crown* (Ps 7:17).
-
-Second, they set forward an example of injustice of which they must beware, lest they join evils to evils; ***there was also a man prophesying***.
-
-First, his preaching is given: ***and he prophesied***. *For he is not the God of dissension, but of peace* (1 Cor 14:33). And therefore, they all say the same thing.
-
-Second is given his persecution and flight; ***and Uriah heard . . . and fled***. *If you are persecuted in one city, flee to another* (Matt 10:23).
-
-Third, his slaying; ***and the king sent***; because he was allied to the Egyptians.
-
-Therefore this one was slain, and Jeremiah was set free, because God permits some of his saints to be killed for the condemnation of the wicked and as an example of the patience of the righteous: *take, brothers, as an example of suffering evil, of labor and of patience, the prophets who spoke in the name of the Lord* (Jas 5:10). Likewise, Acts 12 where James is killed, and Peter is set free.
-
-Third is given the execution of the sentence concerning the liberation of Jeremiah: ***therefore the hand of Ahicam, the son of Shaphan, was with Jeremiah***. And this is clear.
-
-Chapter 27
+Third, the punishment of slaughter: ***and I shall send the sword against them***. As it says above: ***those who are for death, to death, and those who are for the sword, to the sword, and those who are for famine, to famine*** (Jer 15:2).

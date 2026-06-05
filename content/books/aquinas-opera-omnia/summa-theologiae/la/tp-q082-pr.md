@@ -1,21 +1,15 @@
-# Quaestio 82 — Deinde considerandum est de ministro huius sacramenti. Et circa hoc quaeruntur decem.
+# Quaestio 82
 
-Primo, utrum consecrare hoc sacramentum sit proprium sacerdotis.
+Deinde considerandum est de ministro huius sacramenti. Et circa hoc quaeruntur decem.  
 
-Secundo, utrum plures sacerdotes simul possent eandem hostiam consecrare.
+Primo, utrum consecrare hoc sacramentum sit proprium sacerdotis.  
 
-Tertio, utrum dispensatio huius sacramenti pertineat ad solum sacerdotem.
-
-Quarto, utrum liceat sacerdoti consecranti a communione abstinere.
-
-Quinto, utrum liceat sacerdoti omnino a celebratione abstinere.
-
-Sexto, utrum sacerdos peccator possit conficere hoc sacramentum.
-
-Septimo, utrum Missa mali sacerdotis minus valeat quam boni.
-
-Octavo, utrum haeretici, schismatici vel excommunicati possint conficere hoc sacramentum.
-
-Nono, utrum degradati.
-
-Decimo, utrum peccent a talibus communionem recipientes.
+- Secundo, utrum plures sacerdotes simul possent eandem hostiam consecrare.
+- Tertio, utrum dispensatio huius sacramenti pertineat ad solum sacerdotem.
+- Quarto, utrum liceat sacerdoti consecranti a communione abstinere.
+- Quinto, utrum liceat sacerdoti omnino a celebratione abstinere.
+- Sexto, utrum sacerdos peccator possit conficere hoc sacramentum.
+- Septimo, utrum Missa mali sacerdotis minus valeat quam boni.
+- Octavo, utrum haeretici, schismatici vel excommunicati possint conficere hoc sacramentum.
+- Nono, utrum degradati.
+- Decimo, utrum peccent a talibus communionem recipientes.

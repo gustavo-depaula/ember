@@ -1,9 +1,10 @@
-# Quaestio 102 — Deinde considerandum est de observantia, et partibus eius. Per quae de oppositis vitiis erit manifestum.
+# Quaestio 102
 
-Circa observantiam autem quaeruntur tria.
+Deinde considerandum est de observantia, et partibus eius. Per quae de oppositis vitiis erit manifestum.  
 
-Primo, utrum observantia sit specialis virtus ab aliis distincta.
+Circa observantiam autem quaeruntur tria.  
 
-Secundo, quid observantia exhibeat.
+Primo, utrum observantia sit specialis virtus ab aliis distincta.  
 
-Tertio, de comparatione eius ad pietatem.
+- Secundo, quid observantia exhibeat.
+- Tertio, de comparatione eius ad pietatem.

@@ -1,0 +1,3 @@
+# Articulus 27
+
+Quod vero vigesimo septimo ponitur, *non sequitur quod sit magis auctor, quia et mediate et immediate*, si absolutum modum intelligit, falsum est. Si autem intelligat modum relativum, quantum ad aliquid verum est, et quantum ad aliquid falsum: quia relatio qua filius est principium spiritus sancti, est communis patri et filio. Unde quantum ad hanc, idem est modus relativus, sed relatio qua filius est a patre propria est ei. Secundum hunc igitur modum potest dici, quod filius alio modo est auctor spiritus sancti quam pater; inquantum filius haec habet ab alio, non autem pater. Et similiter potest dici de omnibus quae conveniunt patri et filio, quia omnia filius habet a patre, et pater a nullo.

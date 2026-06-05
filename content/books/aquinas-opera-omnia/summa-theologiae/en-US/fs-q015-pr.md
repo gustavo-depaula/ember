@@ -1,9 +1,9 @@
-# Question 15 — We must now consider consent; concerning which there are four points of inquiry:
+# Question 15 — Of Consent
 
-(1) Whether consent is an act of the appetitive or of the apprehensive power?
+***We must now consider consent; concerning which there are four points of inquiry:***
 
-(2) Whether it is to be found in irrational animals?
+(1) Whether consent is an act of the appetitive or of the apprehensive power?  
 
-(3) Whether it is directed to the end or to the means?
-
-(4) Whether consent to an act belongs to the higher part of the soul only?
+- (2) Whether it is to be found in irrational animals?
+- (3) Whether it is directed to the end or to the means?
+- (4) Whether consent to an act belongs to the higher part of the soul only?

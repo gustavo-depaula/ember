@@ -1,0 +1,5 @@
+# Article 35
+
+In the thirty-fifth article, the question is raised whether the sacramental species remaining without a subject are able to act naturally and to change and be corrupted just as before.  
+
+In one way, it is true to say this and in another it is not. For nothing is able to either undergo something in a passive way or to act unless it already exists. Now for something to be preserved in being without a subject is miraculous. Thus, any action that follows upon its being preserved in this way is miraculous just as anything it passively undergoes. But presupposing conservation in being, an action proceeds further according to its natural disposition and even in accordance with some kind of passivity. In this way, a miraculously subsisting dimension has the miraculous function of the subject and the matter, which function is to undergo something [e.g., change or corruption].

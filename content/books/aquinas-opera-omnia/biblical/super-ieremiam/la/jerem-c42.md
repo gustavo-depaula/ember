@@ -1,89 +1,93 @@
-# C. 42 - Instruction of the remnant
+# C. 40 - Jeremiah’s release and the princes’ plots
 
-***^42:1^ Et accesserunt omnes principes bellatorum, et Johanan filius Caree, et Jezonias filius Osaiae, et reliquum vulgus a parvo usque ad magnum,***
+***Lectio 1***
 
-> ^42:2^ dixeruntque ad Jeremiam prophetam: cadat oratio nostra in conspectu tuo, et ora pro nobis ad Dominum Deum tuum pro universis reliquiis istis, quia derelicti sumus pauci de pluribus, sicut oculi tui nos intuentur:
+^40:1^ Sermo qui factus est ad Jeremiam a Domino, postquam dimissus est a Nabuzardan magistro militiae de Rama, quando tulit eum vinctum catenis in medio omnium qui migrabant de Jerusalem, et Juda, et ducebantur in Babylonem.  
 
-> ^42:3^ et annuntiet nobis Dominus Deus tuus viam per quam pergamus, et verbum quod faciamus.
+> ^40:2^ Tollens ergo princeps militiae Jeremiam, dixit ad eum: Dominus Deus tuus locutus est malum hoc super locum istum,
 
-> ^42:4^ Dixit autem ad eos Jeremias propheta: audivi. Ecce ego oro ad Dominum Deum vestrum, secundum verba vestra. Omne verbum quodcumque responderit mihi, indicabo vobis, nec celabo vos quidquam.
+> ^40:3^ et adduxit, et fecit Dominus sicut locutus est, quia peccastis Domino, et non audistis vocem ejus, et factus est vobis sermo hic.
 
-> ^42:5^ Et illi dixerunt ad Jeremiam: sit Dominus inter nos testis veritatis et fidei, si non juxta omne verbum in quo miserit te Dominus Deus tuus ad nos, sic faciemus,
+> ^40:4^ Nunc ergo ecce solvi te hodie de catenis quae sunt in manibus tuis. Si placet tibi ut venias mecum in Babylonem, veni, et ponam oculos meos super te. Si autem displicet tibi venire mecum in Babylonem, reside. Ecce omnis terra in conspectu tuo est. Quod elegeris, et quo placuerit tibi ut vadas, illuc perge:
 
-> ^42:6^ sive bonum est, sive malum. Voci Domini Dei nostri ad quem mittimus te, obediemus, ut bene sit nobis cum audierimus vocem Domini Dei nostri.
+> ^40:5^ et mecum noli venire, sed habita apud Godoliam filium Ahicam filii Saphan, quem praeposuit rex Babylonis civitatibus Juda. Habita ergo cum eo in medio populi, vel quocumque placuerit tibi ut vadas, vade. Dedit quoque ei magister militiae cibaria, et munuscula, et dimisit eum.
 
-> **213**. Hic incipit populi congregati instructio. Et dividitur in partes duas.
+> ^40:6^ Venit autem Jeremias ad Godoliam filium Ahicam in Masphath, et habitavit cum eo in medio populi qui relictus fuerat in terra.
 
-Primo ponitur populi instructio generalis;
+> **206**. Posita destructione urbis, et populi captivitate, ponit reliquiarum salutem.
 
-secundo specialis, Baruch, cap. 45: ***verbum quod locutus est Jeremias ad Baruch***.
+Et primo ponitur populi congregatio;  
 
-Circa primum duo.
+secundo congregati populi disturbatio, cap. 41: ***et factum est in mense septimo***.  
 
-Primo ponitur prophetae instructio;
+Circa primum duo.  
 
-secundo populi contradictio, ibi (cap. 43): ***factum est autem, cum complesset Jeremias loquens ad populum***.
+Primo ponitur congregatio;  
 
-Circa primum duo.
+secundo quarumdam insidiarum revelatio, quae pacem populi perturbabant, ibi, ***Johanan autem filius Caree***.  
 
-Primo ponitur instructionis petitio;
+Circa primum tria.  
 
-secundo ponitur instructio, ibi, ***cum autem completi essent decem dies***.
+Primo ponitur congregatio populi quantum ad prophetam;  
 
-Circa primum duo.
+secundo quantum ad principes, ibi, ***cumque audissent omnes principes exercitus . . . venerunt ad Godoliam***;  
 
-Primo petunt orationis suffragia: ubi ponitur petitio: ***cadat oratio nostra in conspectu tuo***; quasi dicat: locum habeat apud te. Eccli. 35: *oratio humiliantis se nubes penetrabit, et donec propinquet non consolabitur, et non discedet donec Altissimus aspiciat*. In quo captant benevolentiam. ***Et ora pro nobis***; ubi petunt beneficium. Isa. 37: *leva ergo orationem pro reliquiis quae repertae sunt*. ***Qui derelicti sumus pauci***: in quo flectunt ad misericordiam. Deuter. 28: *remanebitis pauci numero, qui prius eratis sicut astra caeli prae multitudine*,
+tertio quantum ad plebem, ibi, ***sed et omnes Judaei***.  
 
-***et annuntiet***: in quo expetitur orationis fructus. ***Dominus***. Isa. 8: *numquid non populus a Deo suo requiret visionem pro vivis, ac mortuis? **Viam***, quia non in Aegyptum ire decreverant. Supra 10: ***non est hominis via ejus, nec viri est ut ambulat, et dirigat gressus suos***. 2 Paral. 20: *cum ignoremus quid agere debeamus, hoc solum habemus residui ut oculos nostros dirigamus ad te*.
+Circa primum quatuor.  
 
-Ponitur etiam prophetae promissio, ibi, ***dixit***.Here, the Parma edition reads *dicit*, “he says,” in place of *dixit*, “he said.” Promittit autem orationes, ***ecce ego***. 1 Reg. 12: *absit a me peccatum hoc in Domino, ut cessem orare pro vobis*. Et denuntiationem: ***omne verbum quodcumque responderit mihi, indicabo vobis***. Act. 20: *non enim subterfugi quominus annuntiarem omne consilium Dei vobis*.
+Primo ponitur liberationis praenuntiatio. ***Sermo qui factus est ad Jeremiam***. Cum nullus sermo sequatur, intelligitur hoc primum sermone revelatum quod postea opere narratur expletum. Psalm. 68: *exaudivit pauperes, et vinctos suos non despexit*.  
 
-Secundo promittunt obedientiam, quam tamen servaturi non erant: ***et illi dixerunt***. Simile Exod. 19: *cuncta quae locutus est nobis Dominus, faciemus*.
+Secundo ponitur prophetae liberatio: ***tollens ergo princeps militiae Jeremiam***. Et assignat rationem, veritatem scilicet prophetae: ***Dominus Deus tuus locutus est***, per te. Amos 3: *non est malum in civitate quod Dominus non fecerit*.  
 
-Lectio 2
+Et ponit liberationem: ***nunc ergo ecce solvi te hodie de catenis***. Psalm. 106: *eduxit eos de tenebris, et umbra mortis, et vincula eorum disrupit*.  
 
-***^42:7^ Cum autem completi essent decem dies, factum est verbum Domini ad Jeremiam.***
+Tertio datur ei optio, utrum vadat in Babylonem, vel cum Godolia remaneat, vel quocumque placeat, pergat: ***si placet***. Genes. 13: *ecce terra in conspectu tuo* etc. Proverb. 4: *ducam te per semitas aequitatis, quas cum ingressus fueris, non arctabuntur gressus tui, et currens non habebis offendiculum*.  
 
-> ^42:8^ Vocavitque Johanan filium Caree, et omnes principes bellatorum, qui erant cum eo, et universum populum a minimo usque ad magnum,
+Et ponitur provisio sibi facta: ***dedit quoque ei magister militiae cibaria***. Jud. 14: *de comedente exivit cibus, et de forti egressa est dulcedo*.  
 
-> ^42:9^ et dixit ad eos: haec dicit Dominus Deus Israel, ad quem misistis me, ut prosternerem preces vestras in conspectu ejus:
+Quarto ponitur prophetae electio: ***venit autem Jeremias ad Godoliam***. Ideo non in Chaldaeam ivit, quia illi habebant ad consolationem Danielem et Ezechielem. Isa. 6: *ad annuntiandum mansuetis misit me, ut mederer contritis corde, et praedicarem captivis indulgentiam, et clausis apertionem; ut praedicarem annum placabilem Domino, et diem ultionis Deo nostro; ut consolarer omnes lugentes, et ponerem consolationem lugentibus Sion*.  
 
-> ^42:10^ si quiescentes manseritis in terra haec, aedificabo vos, et non destruam; plantabo, et non evellam. Jam enim placatus sum super malo quod feci vobis.
+Lectio 2  
 
-> ^42:11^ Nolite timere a facie regis Babylonis, quem vos pavidi formidatis. Nolite metuere eum dicit Dominus, quia vobiscum sum ego, ut salvos vos faciam, et eruam de manu ejus.
+^40:7^ Cumque audissent omnes principes exercitus, qui dispersi fuerant per regiones, ipsi et socii eorum, quod praefecisset rex Babylonis Godoliam filium Ahicam terrae, et quod commendasset ei viros et mulieres et parvulos et de pauperibus terrae qui non fuerant translati in Babylonem:  
 
-> ^42:12^ Et dabo vobis misericordias, et miserebor vestri, et habitare vos faciam in terra vestra.
+> ^40:8^ venerunt ad Godoliam in Masphath, et Ismahel filius Nathaniae, et Johanan, et Jonathan filii Caree, et Sareas filius Thanehumeth, et filii Ophi, qui erant de Netophathi, et Jezonias filius Maachathi, ipsi, et viri eorum.
 
-> ^42:13^ Si autem dixeritis vos: non habitabimus in terra ista, nec audiemus vocem Domini Dei nostri,
+> ^40:9^ Et juravit eis Godolias filius Ahicam filii Saphan, et comitibus eorum, dicens: nolite timere servire Chaldaeis. Habitate in terra, et servite regi Babylonis et bene erit vobis.
 
-> ^42:14^ dicentes: nequaquam, sed ad terram Aegypti pergemus, ubi non videbimus bellum, et clangorem tubae non audiemus, et famem non sustinebimus: et ibi habitabimus.
+> ^40:10^ Ecce ego habito in Masphath, ut respondeam praecepto Chaldaeorum, qui mittuntur ad vos. Vos autem colligite vindemiam et messem et oleum, et condite in vasis vestris, et manete in urbibus vestris, quas tenetis.
 
-> ^42:15^ Propter hoc nunc audite verbum Domini, reliquiae Juda. Haec dicit Dominus exercituum Deus Israel: si posueritis faciem vestram ut ingrediamini Aegyptum, et intraveritis, ut ibi habitetis,
+> ^40:11^ Sed et omnes Judaei qui erant in Moab, et in filiis Ammon et in Idumaea, et in universis regionibus, audito quod dedisset rex Babylonis reliquias in Judaea, et quod praeposuisset super eos Godoliam filium Ahicam filii Saphan:
 
-> ^42:16^ gladius quem vos formidatis, ibi comprehendet vos in terra Aegypti, et fames pro qua estis solliciti, adhaerebit vobis in Aegypto, et ibi moriemini.
+> ^40:12^ reversi sunt, inquam, omnes Judaei de universis locis ad quae profugerant, et venerunt in terram Juda ad Godoliam in Masphath, et collegerunt vinum, et messem multam nimis.
 
-> ^42:17^ Omnesque viri qui posuerunt faciem suam ut ingrediantur Aegyptum, ut habitent ibi, morientur gladio, et fame, et peste. Nullus de eis remanebit, nec effugiet a facie mali quod ego afferam super eos.
+> **207**. Hic ponitur congregatio principum:
 
-> ^42:18^ Quia haec dicit Dominus exercituum Deus Israel: sicut conflatus est furor meus, et indignatio mea super habitatores Jerusalem, sic conflabitur indignatio mea super vos, cum ingressi fueritis Aegyptum. Et eritis in jusjurandum, et in stuporem, et in maledictum, et in opprobrium; et nequaquam ultra videbitis locum istum.
+et primo ponitur eorum congregatio: ***cumque audissent omnes principes exercitus . . . venerunt ad Godoliam***. Eccl. 10: *rex insipiens perdet populum suum, et civitates inhabitabuntur per sensum prudentium*.  
 
-> ^42:19^ Verbum Domini super vos, reliquiae Juda: nolite intrare Aegyptum: scientes scietis quia obtestatus sum vobis hodie,
+Secundo ponitur congregatorum assecuratio: ***et juravit eis Godolias . . . nolite timere***. 2 Petri 2: *servi subditi estote in omni timore dominis, non tantum bonis et modestis, sed etiam discolis*.  
 
-> ^42:20^ quia decepistis animas vestras. Vos enim misistis me ad Dominum Deum nostrum, dicentes: ora pro nobis ad Dominum Deum nostrum, et juxta omnia quaecumque dixerit tibi Dominus Deus noster, sic annuntia nobis, et faciemus.
+Tertio ostendit securitatis modum, ***ecce ego***; quasi dicat: ego sustinebo totum onus, ut vos in pace sitis. 1 Cor. 4: *nos stulti propter Christum, vos autem prudentes in Christo*. Isa. 53: *vere languores nostros ipse tulit, et dolores nostros ipse portavit*. Joan. 10: *bonus pastor animam suam ponit pro ovibus suis*.  
 
-> ^42:21^ Et annuntiavi vobis hodie, et non audistis vocem Domini Dei vestri super universis pro quibus misit me ad vos.
+***Sed et omnes Judaei qui erant in Moab*** etc. Hic ponitur congregatio plebis. Ps. 146, *dispersiones Israelis congregavit*.  
 
-> ^42:22^ Nunc ergo scientes scietis, quia gladio, et fame, et peste moriemini in loco ad quem voluistis intrare, ut habitaretis ibi.
+Lectio 3  
 
-> **214**. Hic ponitur instructio: et circa hoc tria.
+^40:13^ Johanan autem filius Caree, et omnes principes exercitus, qui dispersi fuerant in regionibus, venerunt ad Godoliam in Masphath,  
 
-Primo inducit revelantis auctoritatem: ***haec dicit Dominus***, quasi mediator inter vos, et Deum, deferens orationes vestras ad Deum et responsum ipsius ad vos. Deut. 5: *ego sequester, et medius fui inter Deum et vos in tempore illo, ut annuntiarem vobis verba ejus*.
+> ^40:14^ et dixerunt ei: scito quod Baalis rex filiorum Ammon misit Ismahel filium Nathaniae percutere animam tuam. Et non credidit eis Godolias filius Ahicam.
 
-Secundo hortatur ad quietem dupliciter.
+> ^40:15^ Johanan autem filius Caree dixit ad Godoliam seorsum in Masphath, loquens: ibo, et percutiam Ismahel filium Nathaniae nullo sciente, ne interficiat animam tuam, et dissipentur omnes Judaei qui congregati sunt ad te, et peribunt reliquiae Juda.
 
-Excludendo mala divinae punitionis, ponens promissum: ***aedificabo***, bona conferendo, ***plantabo***, confirmando. Et excludens impedimentum: ***jam enim placatus sum***. Exod. 32: *et placatus est Dominus ne faceret malum adversus populum suum*. Psal. 102: *non in perpetuum irascetur, neque in aeternum comminabitur*.
+> ^40:16^ Et ait Godolias filius Ahicam ad Johanan filium Caree: noli facere verbum hoc: falsum enim tu loqueris de Ismahel.
 
-Et excludit timorem hostilis persecutionis faciens securitatem: ***nolite timere***. Isa. 51: *quis tu ut timeas ab homine mortali, et a filio hominis, qui quasi fenum ita arescet?*
+> **208**. Hic ponitur insidiarum machinatio:
 
-Et promittit auxilii opem: ***quia vobiscum sum***. Supra 20: ***Dominus mecum est tamquam bellator fortis. Idcirco qui persequuntur me cadent, et infirmi erunt, et confundentur vehementer: quia non intellexerunt opprobrium sempiternum, quod numquam delebitur***. Isa. 50: *Dominus Deus auxiliator meus, et ideo non sum confusus*.
+et primo facta a principibus communiter: ***scito quod Baalis***, qui adhuc Chaldaeis resistebat. ***Et non credidit***, credens dolosis verbis Ismahelis. Prov. 14: *innocens credit omni verbo, astutus considerat gressus suos*.  
 
-*Explicit expositio litteralis S. Thomae super Jeremiam, quam morte praeventus complere non potuit*.
+Secundo facta a quodam specialiter, ***Johanan***.  
+
+Et primo excogitatio: ***ibo***. Prov. 11: *in bonis justorum exaltabitur civitas, et in perditione impiorum erit laudatio*.  
+
+Secundo ponitur repulsio: ***et ait Godolias***. Supra 11: ***et non cognovi quia cogitaverunt super me consilia, dicentes: mittamus lignum in panem ejus, et eradamus eum de terra viventium***.

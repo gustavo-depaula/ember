@@ -1,9 +1,10 @@
-# Question 84 — thirdly, those acts whereby something belonging to God is assumed.
+# Question 84 — Adoration
 
-Under the first head there are three points of inquiry:
+In due sequence we must consider the external acts of latria, and in the first place, adoration whereby one uses one’s body to reverence God; second, those acts whereby some external thing is offered to God; third, those acts whereby something belonging to God is assumed.  
 
-(1) Whether adoration is an act of latria?
+Under the first head there are three points of inquiry:  
 
-(2) Whether adoration denotes an internal or an external act?
+(1) Whether adoration is an act of latria?  
 
-(3) Whether adoration requires a definite place?
+- (2) Whether adoration denotes an internal or an external act?
+- (3) Whether adoration requires a definite place?

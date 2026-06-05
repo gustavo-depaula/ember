@@ -1,9 +1,11 @@
-# Question 18 — Since to understand belongs to living beings, after considering the divine knowledge and intellect, we must consider the divine life. About this, four points of inquiry arise:
+# Question 18 — The Life of God
 
-(1) To whom does it belong to live?
+Since to understand belongs to living beings, after considering the divine knowledge and intellect, we must consider the divine life.  
 
-(2) What is life?
+About this, four points of inquiry arise:  
 
-(3) Whether life is properly attributed to God?
+(1) To whom does it belong to live?  
 
-(4) Whether all things in God are life?
+- (2) What is life?
+- (3) Whether life is properly attributed to God?
+- (4) Whether all things in God are life?

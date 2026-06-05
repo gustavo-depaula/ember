@@ -1,0 +1,3 @@
+# Articulus 92
+
+Quod vero nonagesimo secundo ponitur, *mutatio accipitur stricte et proprie, quae habet duo extrema, a quorum uno tendit in alterum manente eodem subiecto, et sic accipitur mutatio naturaliter*, bene dictum est, si per extrema intelligat terminos, et per hoc quod dicitur naturaliter intelligatur, idest in scientia naturali: hoc enim quod hic dicitur, commune est tam mutationi naturali quam violentae. Nec est instantia quam ponit obiiciens, quod in generatione et corruptione non sunt duo extrema, sed termini generationis et corruptionis sunt privatio et forma, non autem duae formae.

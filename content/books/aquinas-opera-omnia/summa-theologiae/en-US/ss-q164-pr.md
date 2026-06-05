@@ -1,5 +1,3 @@
-# Question 164 — We must now consider the punishments of the first sin; and under this head there are two points of inquiry:
+# Question 164 — The Punishments of the First Man’s Sin
 
-(1) Death, which is the common punishment;
-
-(2) the other particular punishments mentioned in Genesis.
+We must now consider the punishments of the first sin; and under this head there are two points of inquiry: (1) Death, which is the common punishment; (2) the other particular punishments mentioned in Genesis.

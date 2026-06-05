@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Twelve sets of *quodlibeta* — open-topic disputations conducted by Aquinas at Paris (Advent and Lent, 1268–1272) in which the master answered any question put by the audience. Quodlibets I–II have a full English translation by Sandra Edwards (PIMS, 1983); Quodlibets III–XII are Latin only with scattered English fragments by Freddoso and West.",
-    "la": "Duodecim quodlibeta — disputationes Thomae Parisienses (Adventu et Quadragesima, 1268–1272) in quibus magister cuilibet ex auditoribus quaerenti respondebat."
+    "en-US": "The twelve sets of *quodlibeta* (open-topic disputations) conducted by Aquinas at Paris (Advent and Lent, 1268–1272) and Naples, in which the master answered any question put by the audience. Full bilingual edition: Sandra Edwards for Quodlibets I–II (PIMS, 1983) and the Aquinas Institute team for III–XII.",
+    "la": "Duodecim quodlibeta — disputationes Thomae Parisienses (Adventu et Quadragesima, 1268–1272) et Neapolitanae, in quibus magister cuilibet ex auditoribus quaerenti respondebat."
   },
   "composed": "1268–1272",
   "languages": [
@@ -20,440 +20,379 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Quodlibets I–II: Sandra Edwards, *Quodlibetal Questions 1 and 2* (Mediaeval Sources in Translation 27, Pontifical Institute of Mediaeval Studies, Toronto, 1983) — may be under copyright until 2078. Quodlibets III–XII: partial English fragments by Alfred J. Freddoso and Jason Lewis Andrew West. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Quodlibet I",
+      "description": "English translations: Sandra Edwards for Q I–II (PIMS, 1983); various translators for III–XII, edited by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Quodlibet I",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "q01",
+      "id": "p1",
       "title": {
         "en-US": "Quodlibet I",
         "la": "Quodlibet I"
       },
       "children": [
         {
-          "id": "q01-a01",
+          "id": "p1-qi-c01",
           "title": {
-            "en-US": "Article 1",
-            "la": "Articulus 1"
+            "en-US": "On God",
+            "la": "On God"
+          }
+        },
+        {
+          "id": "p1-qi-c02",
+          "title": {
+            "en-US": "On Angels",
+            "la": "On Angels"
+          }
+        },
+        {
+          "id": "p1-qi-c03",
+          "title": {
+            "en-US": "On Man",
+            "la": "On Man"
           }
         }
       ]
     },
     {
-      "id": "q02",
+      "id": "p2",
       "title": {
         "en-US": "Quodlibet II",
         "la": "Quodlibet II"
       },
       "children": [
         {
-          "id": "q02-a01",
+          "id": "p2-qii-c01",
           "title": {
-            "en-US": "Article 1 — There were two points of inquiry concerning the human nature in Christ:",
-            "la": "Articulus 1"
+            "en-US": "On Christ",
+            "la": "On Christ"
           }
         },
         {
-          "id": "q02-a02",
+          "id": "p2-qii-c02",
           "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
+            "en-US": "On Angels",
+            "la": "On Angels"
+          }
+        },
+        {
+          "id": "p2-qii-c03",
+          "title": {
+            "en-US": "On Man",
+            "la": "On Man"
           }
         }
       ]
     },
     {
-      "id": "q03",
+      "id": "p3",
       "title": {
         "en-US": "Quodlibet III",
         "la": "Quodlibet III"
       },
       "children": [
         {
-          "id": "q03-a01",
+          "id": "p3-qiii-c01",
           "title": {
-            "en-US": "Article 1 — Two questions were asked concerning angels.",
-            "la": "Articulus 1"
+            "en-US": "On God",
+            "la": "On God"
           }
         },
         {
-          "id": "q03-a02",
+          "id": "p3-qiii-c02",
           "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
+            "en-US": "On Angels",
+            "la": "On Angels"
+          }
+        },
+        {
+          "id": "p3-qiii-c03",
+          "title": {
+            "en-US": "On Men",
+            "la": "On Men"
+          }
+        },
+        {
+          "id": "p3-qiii-c04",
+          "title": {
+            "en-US": "On a Purely Bodily Creature",
+            "la": "On a Purely Bodily Creature"
           }
         }
       ]
     },
     {
-      "id": "q04",
+      "id": "p4",
       "title": {
         "en-US": "Quodlibet IV",
         "la": "Quodlibet IV"
       },
       "children": [
         {
-          "id": "q04-a01",
+          "id": "p4-qiv-c01",
           "title": {
-            "en-US": "Article 1 — Then it was asked concerning man: first as to the good in the order of nature...",
-            "la": "Articulus 1"
+            "en-US": "On Divine Things",
+            "la": "On Divine Things"
           }
         },
         {
-          "id": "q04-a02",
+          "id": "p4-qiv-c02",
           "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
-          }
-        },
-        {
-          "id": "q04-a03",
-          "title": {
-            "en-US": "Article 3 — ",
-            "la": "Articulus 3"
+            "en-US": "On Human Things",
+            "la": "On Human Things"
           }
         }
       ]
     },
     {
-      "id": "q05",
+      "id": "p5",
       "title": {
         "en-US": "Quodlibet V",
         "la": "Quodlibet V"
       },
       "children": [
         {
-          "id": "q05-a01",
+          "id": "p5-qv-c01",
           "title": {
-            "en-US": "Article 1 — [Then the question arises about things that pertain to the goodness of grace:",
-            "la": "Articulus 1"
+            "en-US": "On God",
+            "la": "On God"
+          }
+        },
+        {
+          "id": "p5-qv-c02",
+          "title": {
+            "en-US": "On Angels",
+            "la": "On Angels"
+          }
+        },
+        {
+          "id": "p5-qv-c03",
+          "title": {
+            "en-US": "On Men",
+            "la": "On Men"
           }
         }
       ]
     },
     {
-      "id": "q06",
+      "id": "p6",
       "title": {
         "en-US": "Quodlibet VI",
         "la": "Quodlibet VI"
       },
       "children": [
         {
-          "id": "q06-a01",
+          "id": "p6-qvi-c01",
           "title": {
-            "en-US": "Article 1 — Then three questions were asked about confession:",
-            "la": "Articulus 1"
+            "en-US": "On God",
+            "la": "On God"
           }
         },
         {
-          "id": "q06-a02",
+          "id": "p6-qvi-c02",
           "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
+            "en-US": "On Angels",
+            "la": "On Angels"
           }
         },
         {
-          "id": "q06-a03",
+          "id": "p6-qvi-c03",
           "title": {
-            "en-US": "Article 3 — ",
-            "la": "Articulus 3"
+            "en-US": "On Man",
+            "la": "On Man"
+          }
+        },
+        {
+          "id": "p6-qvi-c04",
+          "title": {
+            "en-US": "On a Purely Bodily Creature",
+            "la": "On a Purely Bodily Creature"
           }
         }
       ]
     },
     {
-      "id": "q07",
+      "id": "p7",
       "title": {
         "en-US": "Quodlibet VII",
         "la": "Quodlibet VII"
       },
       "children": [
         {
-          "id": "q07-a01",
+          "id": "p7-qvii-c01",
           "title": {
-            "en-US": "Article 1 — ",
-            "la": "Articulus 1"
+            "en-US": "About Spiritual Substances",
+            "la": "About Spiritual Substances"
           }
         },
         {
-          "id": "q07-a02",
+          "id": "p7-qvii-c02",
           "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
+            "en-US": "On the Sacrament of the Altar",
+            "la": "On the Sacrament of the Altar"
+          }
+        },
+        {
+          "id": "p7-qvii-c03",
+          "title": {
+            "en-US": "On the Bodies of the Damned",
+            "la": "On the Bodies of the Damned"
+          }
+        },
+        {
+          "id": "p7-qvii-c04",
+          "title": {
+            "en-US": "On Sacred Scripture",
+            "la": "On Sacred Scripture"
+          }
+        },
+        {
+          "id": "p7-qvii-c05",
+          "title": {
+            "en-US": "On Manual Work",
+            "la": "On Manual Work"
           }
         }
       ]
     },
     {
-      "id": "q08",
+      "id": "p8",
       "title": {
         "en-US": "Quodlibet VIII",
         "la": "Quodlibet VIII"
       },
       "children": [
         {
-          "id": "q08-a01",
+          "id": "p8-qviii-c01",
           "title": {
-            "en-US": "Article 1 — ",
-            "la": "Articulus 1"
+            "en-US": "On Things Pertaining to Nature",
+            "la": "On Things Pertaining to Nature"
           }
         },
         {
-          "id": "q08-a02",
+          "id": "p8-qviii-c02",
           "title": {
-            "en-US": "Article 2 — Whether a religious is bound to obey his prelate so as to reveal a fault of a...",
-            "la": "Articulus 2"
+            "en-US": "On Things Pertaining to Grace and Fault",
+            "la": "On Things Pertaining to Grace and Fault"
+          }
+        },
+        {
+          "id": "p8-qviii-c03",
+          "title": {
+            "en-US": "On Things Pertaining to Punishment and Glory",
+            "la": "On Things Pertaining to Punishment and Glory"
           }
         }
       ]
     },
     {
-      "id": "q09",
+      "id": "p9",
       "title": {
         "en-US": "Quodlibet IX",
         "la": "Quodlibet IX"
       },
       "children": [
         {
-          "id": "q09-a01",
+          "id": "p9-qix-c01",
           "title": {
-            "en-US": "Article 1 — Then four questions pertaining to sin were asked:",
-            "la": "Articulus 1"
+            "en-US": "On Christ",
+            "la": "On Christ"
           }
         },
         {
-          "id": "q09-a02",
+          "id": "p9-qix-c02",
           "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
-          }
-        },
-        {
-          "id": "q09-a03",
-          "title": {
-            "en-US": "Article 3 — ",
-            "la": "Articulus 3"
-          }
-        },
-        {
-          "id": "q09-a04",
-          "title": {
-            "en-US": "Article 4 — ",
-            "la": "Articulus 4"
+            "en-US": "On the Members of Christ",
+            "la": "On the Members of Christ"
           }
         }
       ]
     },
     {
-      "id": "q10",
+      "id": "p10",
       "title": {
         "en-US": "Quodlibet X",
         "la": "Quodlibet X"
       },
       "children": [
         {
-          "id": "q10-a01",
+          "id": "p10-qx-c01",
           "title": {
-            "en-US": "Article 1 — ",
-            "la": "Articulus 1"
+            "en-US": "On God",
+            "la": "On God"
           }
         },
         {
-          "id": "q10-a02",
+          "id": "p10-qx-c02",
           "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
+            "en-US": "On an Angel",
+            "la": "On an Angel"
+          }
+        },
+        {
+          "id": "p10-qx-c03",
+          "title": {
+            "en-US": "On the Soul",
+            "la": "On the Soul"
           }
         }
       ]
     },
     {
-      "id": "q21",
+      "id": "p11",
       "title": {
-        "en-US": "Quodlibet 21",
-        "la": "Quodlibet 21"
+        "en-US": "Quodlibet XI",
+        "la": "Quodlibet XI"
       },
       "children": [
         {
-          "id": "q21-a01",
+          "id": "p11-qxi-c01",
           "title": {
-            "en-US": "Article 1 — QUODLIBET II: Questions were asked concerning Christ, angels, and men.",
-            "la": "Articulus 1"
+            "en-US": "On God",
+            "la": "On God"
           }
         },
         {
-          "id": "q21-a02",
+          "id": "p11-qxi-c02",
           "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
+            "en-US": "On Angels",
+            "la": "On Angels"
+          }
+        },
+        {
+          "id": "p11-qxi-c03",
+          "title": {
+            "en-US": "On Man",
+            "la": "On Man"
           }
         }
       ]
     },
     {
-      "id": "q22",
+      "id": "p12",
       "title": {
-        "en-US": "Quodlibet 22",
-        "la": "Quodlibet 22"
+        "en-US": "Quodlibet XII",
+        "la": "Quodlibet XII"
       },
       "children": [
         {
-          "id": "q22-a01",
+          "id": "p12-qxii-c01",
           "title": {
-            "en-US": "Article 1 — ",
-            "la": "Articulus 1"
+            "en-US": "On Things above Man",
+            "la": "On Things above Man"
           }
         },
         {
-          "id": "q22-a02",
+          "id": "p12-qxii-c02",
           "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
-          }
-        }
-      ]
-    },
-    {
-      "id": "q23",
-      "title": {
-        "en-US": "Quodlibet 23",
-        "la": "Quodlibet 23"
-      },
-      "children": [
-        {
-          "id": "q23-a01",
-          "title": {
-            "en-US": "Article 1 — Then it was asked about the time through which God moves a spiritual creature...",
-            "la": "Articulus 1"
-          }
-        }
-      ]
-    },
-    {
-      "id": "q24",
-      "title": {
-        "en-US": "Quodlibet 24",
-        "la": "Quodlibet 24"
-      },
-      "children": [
-        {
-          "id": "q24-a01",
-          "title": {
-            "en-US": "Article 1 — Then questions were asked concerning man: first as to the virtues, second as...",
-            "la": "Articulus 1"
-          }
-        },
-        {
-          "id": "q24-a02",
-          "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
-          }
-        },
-        {
-          "id": "q24-a03",
-          "title": {
-            "en-US": "Article 3 — ",
-            "la": "Articulus 3"
-          }
-        }
-      ]
-    },
-    {
-      "id": "q25",
-      "title": {
-        "en-US": "Quodlibet 25",
-        "la": "Quodlibet 25"
-      },
-      "children": [
-        {
-          "id": "q25-a01",
-          "title": {
-            "en-US": "Article 1 — Then it was asked concerning these things which pertain to the virtues in rel...",
-            "la": "Articulus 1"
-          }
-        },
-        {
-          "id": "q25-a02",
-          "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
-          }
-        }
-      ]
-    },
-    {
-      "id": "q26",
-      "title": {
-        "en-US": "Quodlibet 26",
-        "la": "Quodlibet 26"
-      },
-      "children": [
-        {
-          "id": "q26-a01",
-          "title": {
-            "en-US": "Article 1 — ",
-            "la": "Articulus 1"
-          }
-        },
-        {
-          "id": "q26-a02",
-          "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
-          }
-        }
-      ]
-    },
-    {
-      "id": "q27",
-      "title": {
-        "en-US": "Quodlibet 27",
-        "la": "Quodlibet 27"
-      },
-      "children": [
-        {
-          "id": "q27-a01",
-          "title": {
-            "en-US": "Article 1 — ",
-            "la": "Articulus 1"
-          }
-        },
-        {
-          "id": "q27-a02",
-          "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
-          }
-        }
-      ]
-    },
-    {
-      "id": "q28",
-      "title": {
-        "en-US": "Quodlibet 28",
-        "la": "Quodlibet 28"
-      },
-      "children": [
-        {
-          "id": "q28-a01",
-          "title": {
-            "en-US": "Article 1 — ",
-            "la": "Articulus 1"
-          }
-        },
-        {
-          "id": "q28-a02",
-          "title": {
-            "en-US": "Article 2 — ",
-            "la": "Articulus 2"
+            "en-US": "On Human Things",
+            "la": "On Human Things"
           }
         }
       ]

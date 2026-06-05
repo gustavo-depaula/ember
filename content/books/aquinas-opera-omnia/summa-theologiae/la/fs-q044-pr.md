@@ -1,9 +1,9 @@
-# Quaestio 44 — Deinde considerandum est de effectibus timoris. Et circa hoc quaeruntur quatuor.
+# Quaestio 44
 
-Primo, utrum timor faciat contractionem.
+***Deinde considerandum est de effectibus timoris. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum faciat consiliativos.
+Primo, utrum timor faciat contractionem.  
 
-Tertio, utrum faciat tremorem.
-
-Quarto, utrum impediat operationem.
+- Secundo, utrum faciat consiliativos.
+- Tertio, utrum faciat tremorem.
+- Quarto, utrum impediat operationem.

@@ -1,32 +1,23 @@
-# Quaestio 16 — tertio, de his quae conveniunt Christo quantum ad nos.
+# Quaestio 16
 
-Circa primum duplex consideratio occurrit,
+***De Christo secundum esse et fieri***
 
-primo quidem, de his quae conveniunt Christo secundum esse et fieri;
-secundo, de his quae conveniunt Christo secundum rationem unitatis.
+Deinde considerandum est de his quae consequuntur unionem. Et primo, quantum ad ea quae conveniunt Christo secundum se; secundo, de his quae conveniunt Christo per comparationem ad Deum patrem; tertio, de his quae conveniunt Christo quantum ad nos.  
 
-Circa primum quaeruntur duodecim.
+Circa primum duplex consideratio occurrit, primo quidem, de his quae conveniunt Christo secundum esse et fieri; secundo, de his quae conveniunt Christo secundum rationem unitatis.  
 
-Primo, utrum haec sit vera, Deus est homo.
+Circa primum quaeruntur duodecim.  
 
-Secundo, utrum haec sit vera, homo est Deus.
+Primo, utrum haec sit vera, Deus est homo.  
 
-Tertio, utrum Christus possit dici homo dominicus.
-
-Quarto, utrum ea quae conveniunt filio hominis, possint praedicari de filio Dei, et e converso.
-
-Quinto, utrum ea quae conveniunt filio hominis, possint praedicari de divina natura; et de humana ea quae conveniunt filio Dei.
-
-Sexto, utrum haec sit vera, filius Dei factus est homo.
-
-Septimo, utrum haec sit vera, homo factus est Deus.
-
-Octavo, utrum haec sit vera, Christus est creatura.
-
-Nono, utrum haec sit vera, iste homo, demonstrato Christo, incoepit esse, vel, fuerit semper.
-
-Decimo, utrum haec sit vera, Christus, secundum quod homo, est creatura.
-
-Undecimo, utrum haec sit vera, Christus, secundum quod homo, est Deus.
-
-Duodecimo, utrum haec sit vera, Christus, secundum quod homo, est hypostasis vel persona.
+- Secundo, utrum haec sit vera, homo est Deus.
+- Tertio, utrum Christus possit dici homo dominicus.
+- Quarto, utrum ea quae conveniunt filio hominis, possint praedicari de filio Dei, et e converso.
+- Quinto, utrum ea quae conveniunt filio hominis, possint praedicari de divina natura; et de humana ea quae conveniunt filio Dei.
+- Sexto, utrum haec sit vera, filius Dei factus est homo.
+- Septimo, utrum haec sit vera, homo factus est Deus.
+- Octavo, utrum haec sit vera, Christus est creatura.
+- Nono, utrum haec sit vera, iste homo, demonstrato Christo, incoepit esse, vel, fuerit semper.
+- Decimo, utrum haec sit vera, Christus, secundum quod homo, est creatura.
+- Undecimo, utrum haec sit vera, Christus, secundum quod homo, est Deus.
+- Duodecimo, utrum haec sit vera, Christus, secundum quod homo, est hypostasis vel persona.

@@ -1,5 +1,7 @@
-# Question 105 — We must now consider disobedience, under which head there are two points of inquiry:
+# Question 105 — Disobedience
 
-(1) Whether it is a mortal sin?
+We must now consider disobedience, under which head there are two points of inquiry:  
 
-(2) Whether it is the most grievous of sins?
+(1) Whether it is a mortal sin?  
+
+- (2) Whether it is the most grievous of sins?

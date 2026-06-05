@@ -1,349 +1,341 @@
-# Chapter 10
+# Chapter 8
 
-> ^10:2^ ut opprimerent in judicio pauperes et vim facerent causæ humilium populi mei, ut essent viduæ præda eorum, et pupillos diriperent.
+***Lectio 1***
 
-> ^10:3^ Quid facietis in die visitationis et calamitatis de longe venientis? Ad cujus confugietis auxilium? Et ubi derelinquetis gloriam vestram?
+^8:1^ Et dixit Dominus ad me: sume tibi librum grandem et scribe in eo stylo hominis: velociter spolia detrahe, cito prædare.  
 
-> ^10:4^ Ne incurvemini sub vinculo, et cum interfectis cadatis. Super omnibus his non est aversus furor ejus, sed adhuc manus ejus extenta.
+> ^8:2^ Et adhibui mihi testes fideles, Uriam sacerdotem et Zachariam filium Barachiæ.
 
-> ^10:5^ Væ Assur, virga furoris mei et baculus ipse est, in manu eorum indignatio mea.
+> ^8:3^ Et accessi ad prophetissam, et concepit et peperit filium. Et dixit Dominus ad me: voca nomen ejus: accelera, spolia detrahe, festina prædari.
 
-> ^10:6^ Ad gentem fallacem mittam eum et contra populum furoris mei mandabo illi, ut auferat spolia et diripiat prædam et ponat illum in conculcationem quasi lutum platearum.
+> **263**. ***Et dixit Dominus ad me: sume tibi librum***. Hic praedicit destructionem decem tribuum in quantum pertinet ad eorum poenam. Quae facta est per Assyrios: primo Teglathphalasar, regnante Phacee, captivante duas tribus et dimidiam quae erat trans Jordanem, et plurimos de tribu Zabulon et Nephtalim, III Reg. XV; et postmodum Salmanasar in captivitatem reducente residuas, IV Reg. XVIII 9–12. Hujus autem tribulationis etiam duae tribus fuerunt participes quia a Teglathphalasar afflicti sunt, ut dicitur II Paral. XXIX, et a Senacherib, sicut dicitur infra XXXVI, non tamen omnino subjugatae. Et dividitur in partes duas:
 
-> ^10:7^ Ipse autem non sic arbitrabitur et cor ejus non ita existimabit, sed ad conterendum erit cor ejus et ad internecionem gentium non paucarum.
+in prima praedicit tribulationem;  
 
-> ^10:8^ Dicet enim:
+in secunda modum ipsius et ordinem, cap. IX, ***primo tempore alleviata est terra***.  
 
-> ^10:9^ Numquid non principes mei simul reges sunt? Numquid non ut Charcamis sic Calano, et ut Arphad sic Emath? Numquid non ut Damascus sic Samaria?
+**264**. Hoc autem capitulum dividitur in partes tres:  
 
-> ^10:10^ Quomodo invenit manus mea regna idoli, sic et simulacra eorum de Jerusalem et de Samaria?
+in prima comminatur decem tribubus Assyriorum destructionem;  
 
-> ^10:11^ Numquid non sicut feci Samariæ et idolis ejus sic faciam Jerusalem et simulacris ejus?
+in secunda praedicit in hac duarum tribuum afflictionem, ibi ***et ibit per Judam inundans***;  
 
-> ^10:12^ Et erit cum impleverit Dominus cuncta opera sua in monte Sion et in Jerusalem, visitabo super fructum magnifici cordis regis Assur et super gloriam altitudinis oculorum ejus.
+in tertia confortat eos per futuram liberationem, ibi ***congregamini***.  
 
-> ^10:13^ Dixit enim: in fortitudine manus meæ ego feci et in sapientia mea intellexi; et abstuli terminos populorum et principes eorum deprædatus sum et detraxi quasi potens in sublimi residentes.
+Circa primum duo facit:  
 
-> ^10:14^ Et invenit quasi nidum manus mea fortitudinem populorum, et sicut colliguntur ova quæ derelicta sunt sic universam terram ego congregavi; et non fuit qui moveret pennam et aperiret os et ganniret.
+in prima ponitur destructionis signum;  
 
-> ^10:15^ Numquid gloriabitur securis contra eum qui secat in ea, aut exaltabitur serra contra eum a quo trahitur? Quomodo si elevetur virga contra elevantem se, et exaltetur baculus qui utique lignum est.
+in secunda describitur ipsum factum, ibi ***et adiecit Dominus***.  
 
-> ^10:16^ Propter hoc mittet dominator Deus exercituum in pinguibus ejus tenuitatem. Et subtus gloriam ejus succensa ardebit quasi combustio ignis.
+Circa primum duo ponit:  
 
-> ^10:17^ Et erit lumen Israel in igne, et Sanctus ejus in flamma, et succendetur et devorabitur spina ejus et vepres in die una;
+primo ponit paenae praefigurationem;  
 
-> ^10:18^ et gloria saltus ejus et Carmeli ejus ab anima usque ad carnem consumetur. Et erit terrore profugus,
+in secunda signi expressionem, ibi ***quia antequam sciat***.  
 
-> ^10:19^ et reliquiæ ligni saltus ejus præ paucitate numerabuntur et puer scribet eos.
+Hoc autem signum Judaei ad litteram exponunt de filio Isaiae, per cujus nomen Dominus significare volebat decem tribuum destructionem. Et secundum hoc, signum tripliciter confirmat:  
 
-> ^10:20^ Et erit in die illa, non adjiciet residuum Israel, et hi qui fugerint de domo Jacob inniti super eo qui percutit eos, sed innitetur super Dominum Sanctum Israel. In veritate
+primo scripto;  
 
-> ^10:21^ reliquiæ convertentur, reliquiæ, inquam, Jacob ad Deum fortem.
+secundo testimonio, ibi ***et adhibui***;  
 
-> ^10:22^ Si enim fuerit populus tuus Israel quasi arena maris, reliquiæ convertentur ex eo. Consummatio abbreviata inundabit justitiam.
+tertio ipso facto, ibi ***et accessi***.  
 
-> ^10:23^ Consummationem enim et abbreviationem Dominus Deus exercituum faciet in medio omnis terræ.
+**265**. Circa primum tria ponit,  
 
-> ^10:24^ Propter hoc hæc dicit Dominus Deus exercituum: noli timere, populus meus habitator Sion, ab Assur. In virga enim percutiet te et baculum suum levabit super te in via Ægypti.
+scilicet in quo scribendum: ***librum grandem***, ad litteram enim ***grandem*** ad significandum magnitudinem tribulationis, Jer. XXXVI 2 *tolle volumen libri, et scribes in eo omnia quae locutus sum tibi adversus Israel et Judam*.  
 
-> ^10:25^ Adhuc enim paululum modicumque, et consummabitur indignatio mea et furor meus super scelus eorum.
+Secundo quo scribendum: ***stilo hominis***, id est plane, ut intelligi possit et ut scriptum maneat, Habacuc II 2 *scribe visum, et explana eum super tabulas, ut percurrat qui legerit eum*.  
 
-> ^10:26^ Et suscitabit super eum Dominus exercituum flagellum juxta plagam Madian in petra Oreb et virgam suam super mare et levabit eam in via Ægypti.
+Tertio quid scribendum, nomen scilicet vastaturi significans futuram destructionem in brevi: ***detrahe spolia, praedare***, hoc est depraedare. Haec verba possunt esse Domini ad prophetam, et sic sumuntur materialiter; vel ad hostes, et sic significative, infra X 6 ***et contra populum furoris mei mandabo illi ut auferat spolia et dividat praedam***.  
 
-> ^10:27^ Et erit in die illa, auferetur onus ejus de humero tuo et jugum ejus de collo tuo, et computrescet jugum a facie olei.
+**266**. ***Et adhibui mihi***. Hic confirmatur signum testimonio; ***testes fideles***, Deut. XIX 15 *in ore duorum vel trium stet omne verbum*.  
 
-> ^10:28^ Veniet in Ajath et transibit in Magron, apud Machmas commendabit vasa sua.
+**267**. ***Et accessi ad prophetissam***. Hic confirmatur facto, quia aliquando prophetae pronuntiabant futurum aliquid etiam ipso facto, sicut infra XX 2 ***vade, et solve saccum de lumbis tuis, et calceamenta tua tolle de pedibus tuis: et fecit sic, vadens nudus et discalceatus***. Unde intelligitur ad litteram quod accessit ad uxorem suam. Unde duo ponuntur:  
 
-> ^10:29^ Transierunt cursim, Gaba sedes nostra, obstupuit Rama, Gabaath Saulis fugit.
+primo pueri generatio: ***et accessi***;  
 
-> ^10:30^ Hinni voce tua, filia Gallim; attende Laisa, paupercula Anathoth.
+secundo generati vocatio, ***voca nomen: accelera***, quasi festina ad faciendum; ***detrahe spolia***, ut supra.  
 
-> ^10:31^ Migravit Medemena; habitatores Gabim, confortamini:
+Vel secundum aliam litteram Hieronymi: ***accelera, spolia detrahe***; et hoc melius est, quia secundum hoc non est plus in nomine quam fuerit in scripto.  
 
-> ^10:32^ adhuc dies est ut in Nobe stetur; agitabit manum suam super montem filiæ Sion, collem Jerusalem.
+**268**. Contra hoc quidam multipliciter objiciunt quod non possit ad litteram intelligi,  
 
-> ^10:33^ Ecce dominator Dominus exercituum confringet lagunculam in terrore, et excelsi statura succidentur et sublimes humiliabuntur,
+primo quia cum pauca sint quae scribi praecipiuntur, non oportebat esse librum grandem;  
 
-> ^10:34^ et subvertentur condensa saltus ferro, et Libanus cum excelsis cadet.
+secundo quia non est probabile quod propheta honestus homo testes adduxerit quando accessit ad uxorem suam;  
 
-> **322**. ***Vae qui condunt leges***. Hic incipit comminari contra hostes corporaliter persequentes alienigenas:
+tertio quia Urias fecit altare idolorum ad similitudinem altaris Damasci in templo Domini, unde non fuit fidelis testis;  
 
-et primo contra vastantes,
+quarto quia Zacharias non erat tunc vivus, quia Zacharias filius Jojadae fuerat longe ante interfectus a Joas rege Juda, II Paral. XXIV 22; alius dicitur Zacharias qui fuit unus de duodecim prophetis, et fuit longe post in reditu populi de captivitate, sicut patet Zach. I 1 et per totum: ergo non potuit eum adhibere in testem; et praeterea remanet similis objectio sicut primo, quia iste puer fuit natus ante mortem Phacee: ergo, ut supra probatum est, habebat in captione Samariae ad minus decem et novem annos, ergo falsum est quod dicitur ***antequam sciat vocare patrem*** etc.  
 
-secundo contra vastitati congaudentes, in fine XIV cap. ***in anno quo mortuus est rex Achaz***.
+**269**. Et ideo volunt quod intelligatur tantum de Christo sicut et primum signum: ut per ***librum grandem*** significetur sacra Scriptura, de qua habetur Baruch IV 1 *hic est liber mandatorum Dei et lex quae est in aeternum*; per ***stilum hominis*** modus prophetiae, ut non omnibus usquequaque pateat sed tantum rationabilibus qui ex figuris possunt significata concipere, Oseae XII 10 *ego visionem multiplicavi et in manibus prophetarum assimilatus sum*.  
 
-Prima in duas:
+***Velociter***, nomen Christi, id est circumlocutio nominis quod est Jesus salvator, per hoc quod detraxit spolia, id est peccatores, a potestate diaboli et praedatus est infernum, de quo infra LIII 12 ***ideo dispertiam ei plurimos et fortium dividet spolia***.  
 
-in prima contra Assyrios captivantes decem tribus et affligentes duas;
+Per ***Uriam***, qui interpretatur lux Domini, significatur lex, Prov. VI 23 *quia mandatum lucerna est et lex lux*. Per ***Zachariam***, qui interpretatur memoria Domini, ***filium Barachiae***, qui interpretatur benedictio Domini, significatur prophetia, quia prophetae per benedictionem divini muneris cognitionem divinam acceperunt. Et hi, scilicet lex et prophetae, sunt testes incarnationis Christi, Lucae ult. *necesse est impleri omnia quae scripta sunt in lege Moysi et prophetis et psalmis de me*. Prophetissa autem beata Virgo est, quae prophetavit dicens *magnificat anima mea Dominum*, Lucae I 46, ad quam accessit per propheticam intelligentiam et per fidem; vel prophetissa dicitur Spiritus Sanctus qui est principium omnis prophetiae, II Petri II *non enim voluntate humana allata est aliquando prophetia, sed Spiritu Sancto inspirati loquuntur sancti Dei homines*. Apud Hebraeos enim est feminini generis, scilicet Rua; secundum hoc, ***concepit***, id est concipere fecit: *quod enim in ea natum est de Spiritu sancto est*, Matth. I 20. ***Voca nomen ejus***, O Isaiah, id est praenuntia nomen ejus, sicut supra.  
 
-in secunda contra Babylonios captivantes duas, XIII cap. ***onus Babylonis***.
+**270**. Haec autem expositio non est tantae auctoritatis sicut superior quae fuit supra VII de alio signo, quia magis extorta est et ex Scripturis non habet auctoritatem sicut illa Matth. I 22–23. Unde quidam dicunt non esse inconveniens si hoc intelligatur ad litteram, ita tamen quod puer iste sit figura Christi, sicut etiam supra dictum est in quadam glossa VII cap. super illud ***ecce virgo***.  
 
-Prima in tres:
+Unde secundum hoc potest responderi ad objectiones prius factas.  
 
-in prima comminatur hostium destructionem;
+Et dicendum ad primum quod liber fuit grandis, non ad necessitatem scripturae, sed ad significandam magnitudinem tribulationis.  
 
-in secunda promittit populi reintegrationem, cap. XI <***Et egredietur***;
+Ad secundum dicendum quod potest intelligi quod testes fuerunt adhibiti ad scripturam sicut fit in privilegiis, et non ad accessum ad uxorem; et etiam si ad hoc fuissent adducti non esset magis contra honestatem, ut videtur, quam factum de fornicatione, Oseae I 2–3, quod tamen ad litteram plures exponunt.  
 
-in tertia ponit gratiarum actionem, cap. XII> ***confitebor***.
+Ad tertium dicendum quod dicitur fidelis propter auctoritatem sacerdotii et non propter bonitatem vitae; vel quia fide dignus habebatur a rege.  
 
-**323**. Hoc autem capitulum dividitur in duas partes:
+Ad quartum dicendum quod iste Zacharias neuter illorum fuit: consuetum enim erat apud Hebraeos, sicut etiam modo apud multos, quod pueris imponantur nomina de cognatione illa, sicut dicitur Lucae I 61 de Joanne *quia nemo est in cognatione tua qui vocetur hoc nomine*, et sic iste potuit esse de progenie illius qui prius interfectus fuerat; vel etiam consuetudo est apud Hebraeos, ut dicit Hieronymus, quod frequenter utantur propriis pro communibus, sicut Bosra, quae est civitas munita, utuntur frequenter pro qualibet civitate munita: et sic, quia ille Zacharias fuit fidelis propheta et in magna fama populi, vocatur iste qui forte similiter erat fide dignus populo loci illius.  
 
-in prima comminatur contra principes duarum tribuum qui in Assyriorum auxilio confidebant, scilicet Achaz sub quo haec visio scripta est, ut legitur IV Reg. XVI 7;
+Ad quintum dicendum quod non est similis objectio, quia quod supra dictum est oportet intelligi de destructione solum propter hoc quod dixit ***derelinquitur***; sed hoc potest intelligi de persecutione facta per Teglathphalasar qui destruxit Damascum, IV Reg. XVI 9, et spoliavit regnum Samariae, IV Reg. XV 19–20: unde signanter dicit ***auferetur fortitudo Damasci et spolia Samariae***, et hoc fuit satis de propinquo.  
 
-in secunda contra ipsos Assyrios: ***vae Assur***. Tamen aliqui incipiunt ibi decimum capitulum, et tunc esset facilior quia sic haec pars esset incondivisa praecedenti.
+**271**. Notandum super illo verbo ***librum grandem***, quod sacra pagina dicitur liber  
 
-**324**. Prima dividitur in duas:
+primo ***grandis*** quantum ad grande contentum, Prov. VIII 6 *audite me, quoniam de rebus magnis locutura sum et aperientur labia mea ut recta praedicent*.  
 
-in prima ponitur comminatio,
+Secundo ***signatur*** quantum ad visum, infra XXIX 11 ***et erit vobis visio omnium sicut verba libro signati***.  
 
-in secunda ostenditur ulterioris poenae praeparatio: ***super omnibus***.
+Tertio ***involutus*** propter multiplicem sensum, Ez. II 9 *et vidi: et ecce manus missa ad me, in qua erat involutus liber*.  
 
-Prima in duas:
+Quarto ***amarus*** propter laboris studium, Apoc. X 10 *et accepi librum de manu angeli et devoravi eum, et erat in ore meo tamquam mel dulce, et cum devorassem eum amaricatus est venter meus*, Prov. VIII 17 *qui mane vigilaverit ad me inveniet me*.  
 
-in prima arguit culpam,
+Quinto ***dulcis*** quantum ad effectum, Ez. III 1,3 *comede volumen istud: et comedi illud, et factum est in ore meo quasi mel dulce*.  
 
-in secunda comminatur poenam: ***quid facietis?***
+Sexto ***volans*** quantum ad intellectum, Zach. V 1 *vidi, et ecce volumen volans*, Job XXXIX 27 *numquid ad praeceptum tuum elevabitur aquila et in arduis ponet nidum suum?*  
 
-Culpam principum arguit quantum ad duo.
+Septimo ***vivificans*** quantum ad fructum, Eccli. XXIV 32 *haec omnia liber vitae et testamentum Altissimi et agnitio veritatis*, Prov. VIII 35 *qui me invenerit inveniet vitam*.  
 
-Quantum ad perversam legislationem: ***vae qui condunt leges iniquas***, secundum quod lex firmatur principis edicto, ***et scribentes***, secundum quod confirmatur scripto, Ro. X 3 *ignorantes enim Dei justitiam et suam quaerentes statuere, justitiae Dei non sunt subjecti*, Matth. XV 2 *quare transgreditur* etc.
+Lectio 2  
 
-Secundo quantum ad intentionem opprimendi impotentes, vel propter paupertatem: ***pauperes***, vel propter ignobilitatem: ***humilium***, Habacuc II *conterent sicut pulverem* etc.; vel propter sexus infirmitatem: ***viduae***; vel propter aetatem: ***pupillos***, supra I 23 ***pupillo non judicant*** etc.
+^8:4^ Quia antequam sciat puer vocare patrem suum et matrem suam auferetur fortitudo Damasci et spolia Samariæ coram rege Assyriorum.  
 
-**325**. ***Quid facietis?*** Hic comminatur poenam,
+> ^8:5^ Et adjecit Dominus loqui ad me adhuc dicens:
 
-et primo aufert evasionis remedium. Et hoc triplex:
+> ^8:6^ Pro eo quod abjecit populus iste aquas Siloe quæ vadunt cum silentio, et assumpsit magis Rasin et filium Romeliæ,
 
-confidentiae secundum propriam potentiam: ***quid facietis in die*** etc.; ***de longe venientis***, quantum ad praemunitionem hostium, vel quantum ad praedictionem prophetarum, Oseae IX 5 *quid facietis in die solemni, in die festivitatis Domini?*, Nahum I 6 *ante faciem indignationis ejus quis stabit?*
+> ^8:7^ propter hoc ecce Dominus adducet super eos aquas fluminis fortes et multas, regem Assyriorum et omnem gloriam ejus; et ascendet super omnes rivos ejus et fluet super omnes ripas ejus.
 
-Secundo quantum ad potentum amicitiam: ***ad cujus confugietis auxilium?***, Job VI 13 *ecce non est auxilium mihi in me, necessarii quoque mei recesserunt a me*.
+> ^8:8^ Et ibit per Judam inundans et transiens usque ad collum veniet; et erit extensio alarum ejus implens latitudinem terræ tuæ, O Emmanuel.
 
-Tertio quantum ad divitiarum gloriam: ***et ubi derelinquetis gloriam vestram?*** Quasi dicat: quae vobis non proderit, Sap. V 8 *quid nobis profuit superbia, aut quid divitiarum jactantia contulit nobis?*
+> ^8:9^ Congregamini populi et vincimini; et audite universæ procul terræ: confortamini et vincimini, accingite vos et vincimini;
 
-**326**. Secundo exprimit poenae modum,
+> ^8:10^ inite consilium et dissipabitur; loquimini verbum et non fiet, quia nobiscum Deus.
 
-et primo captivitatis: ***ne incurvemini***, supra II 17 ***et incurvabitur sublimitas hominum et humiliabitur altitudo virorum***;
+> ^8:11^ Hæc enim ait Dominus ad me, sicut in forti manu erudivit me ne irem in via populi hujus, dicens:
 
-secundo interfectionis: ***et cum interfectis cadatis***, Ez. XXXII 24 *omnes hi interfecti ruentes gladio*.
+> ^8:12^ Non dicatis: conjuratio; omnia enim quæ loquitur populus iste conjuratio est. Et timorem ejus ne timeatis neque paveatis.
 
-**327**. ***Super omnibus his***. Hic ponitur ulterioris poenae praeparatio: ut supra exponatur.
+> ^8:13^ Dominum exercituum ipsum sanctificate; ipse pavor vester et ipse terror vester;
 
-**328**. ***Vae Assur***. In parte ista comminatur contra ipsos Assyrios, et dividitur in duas partes:
+> **272**. ***Quia antequam sciat puer***. Hic ponitur signi expositio; et secundum litteralem expositionem jam patet. Secundum aliam: ***antequam sciat***, scientia creata, ***patrem***, putativum Joseph, vel Deum; ***fortitudo Damasci et spolia Samariae***, secundum hoc potest etiam referri ad captivitatem Samariae.
 
-in prima ponitur hostium opprimentium comminatio,
+**273**. ***Et adjecit***. Hic describitur ipsum destructionis factum. Et circa hoc tria facit:  
 
-in secunda populi oppressi confortatio: ***propter hoc haec dicit***.
+primo ponit puniendorum culpam;  
 
-Prima in tres:
+secundo punientium potentiam: ***ecce adducet Dominus***;  
 
-in prima arguit culpam;
+tertio ponit ipsam poenam: ***et ascendet super omnes***.  
 
-in secunda comminatur poenam: ***propter hoc immittet***;
+Dicit ergo primo ***et adjecit***, post signum datum; ***aquas Siloe***: Siloe est quidam fons qui nascitur ad pedes montis Sion, cujus aquae per horas ebulliunt et plane vadunt, unde significant reges Juda, qui quandoque boni et potentes, quandoque mali et imbecilles fuerunt; et tamen legitime et quiete regnaverunt comparatione regum Israel, qui omnes cogebant populum ad idola.  
 
-in tertia ostendit poenae effectum: ***et erit***.
+**274**. Sed videtur quod hoc non sit eis imputandum pro culpa, quia hoc Domini voluntate factum est, sicut dicitur III Reg. XII 24 *a me factum est verbum hoc*. Et dicendum quod Dominus juste voluit quod reges Juda paterentur hoc damnum propter culpam Salomonis, de quo III Reg. XI; sed illi male et propter superbiam cordis hoc fecerunt, quia nolebant dare consueta tributa, sicut legitur III Reg. XII 4. Vel aliter: ***abjecit populus iste***, id est contempserunt et persecuti sunt, sequentes malitiam duorum regum. Et haec videtur esse intentio per id quod sequitur ***et assumpsit magis Rasin*** etc.  
 
-Culpa autem consistit in transgressione praecepti vel abusu auctoritatis; unde dividitur prima pars in tres:
+**275**. ***Propter hoc***. Hic describitur hostium potentia.  
 
-in prima ponitur auctoritatis commissio,
+Et primo ponitur metaphora quantum ad quatuor, scilicet quantum ad divinum auxilium: ***ecce Dominus adducet***; quantum ad impetum: ***aquas fluminis***; quantum ad robur: ***fortes***; quantum ad numerum: ***et multas***, infra XVII 13 ***sonabunt populi*** etc.  
 
-in secunda auctoritatis abusio: ***ipse autem non sic***,
+Secundo exponit metaphoram: ***regem Assyriorum et omnem gloriam ejus***, id est exercitum ejus, Jer. VI 22 *ecce populus veniet de terra aquilonis, et gens magna consurget*. Glossa dicit quod intelligit de Senacherib.  
 
-in tertia abutentis elatio: ***et erit cum impleverit***.
+Sed contra, quia ipse non vastavit Samariam, sed Salmanasar, sicut dicitur IV Reg. XVIII 9. Ad hoc dicunt quidam quod idem dicitur Salmanasar et Senacherib; sed hoc patet esse falsum per id quod dicitur Tob. I 18, quod mortuo Salmanasar regnavit filius ejus pro eo.  
 
-**329**. Circa primum tria facit:
+Et ideo dicendum quod regnante Salmanasar jam sene, filius ejus erat in exercitu, et forte praeerat exercitui; et ideo idem exercitus est utriusque. Unde loquitur de tota illa vastatione quae facta est per illos reges Assyriorum, quasi de uno persecutore, propter unitatem regni.  
 
-primo committitur flagellandi officium;
+**276**. ***Et ascendet***. Hic ponit ipsam poenam; et servat metaphoram, quia aquae abundantes altiores sunt: unde dicit ***ascendet super omnes rivos***, id est principes, ***et super ripas***, terras, Ez. XXXVIII 18 *ascendet indignatio mea in furore meo et in zelo meo*.  
 
-secundo designat flagellis dignum: ***ad gentem fallacem***;
+**277**. ***Et ibit per Judam***. Hic praedicit tribulationem redundantem in duas tribus.  
 
-tertio imponit flagellis modum: ***ut auferat spolia***.
+Et primo ponit tribulationis redundantiam: ***et ibit***, scilicet aquarum impetus, ***per Judam***, id est per terram Judaeae, ***inundans***; servat metaphoram: quando enim abundant aquae, emittunt undas extra alveum suum in agros vicinos. Et dicit ***ibit***, quia non habebunt perfectum dominum, infra XXVIII 2 ***sicut impetus aquarum*** etc., Jer. XLVII 2 *ecce aquae descendent ab aquilone, et erunt quasi torrens inundans, et operient terram et plenitudinem ejus, urbem et habitatores ejus*.  
 
-Circa primum tria designat:
+Secundo persecutionis abundantiam: ***et transiens usque***. Loquitur metaphorice, quasi diceret: in tanta abundantia redundabit quod si aliquis vellet aquas transire, venirent sibi usque ad collum, quasi fere submergeretur in eis: in quo significatur quod fuerunt prope captivitatem, sicut ostenditur infra XXXVI, Ez. penult. *et ecce aquae redundantes a latere dextro, intumuerunt aquae* etc.  
 
-flagellantem: ***vae***, tibi imminet, ***Assur***, qui es ***virga furoris mei***;
+Tertio exercitus copiam: ***et erit extensio alarum ejus***, id est principum ejus, ***implens*** prae multitudine ***latitudinem terrae tuae***, id est Judaeae, ***O Emmanuel***, Christe qui de ea nasci venisti; misit enim principes suos Senacherib ad capiendam Jerusalem, infra XXXVI 3. De his alis Ez. XVII 3–4 *aquila grandis magnarum alarum, longo membrorum ductu, plena plumis et varietate, venit ad Libanum, et tulit medullam cedri et summitatem frondium ejus; et transportavit eam in terram Chanaan, in urbe negotiatorum posuit illam*.  
 
-flagellandi potestatem: ***baculus***, per quem ego flagello, ***in manu eorum***, id est in potestate, id est in executione;
+**278**. ***Congregamini populi***. Quia dixerat quod persecutio Assyriorum aliquo modo redundaret in duas tribus, hic confortat eos, quia illa persecutione non sint finaliter captivandi, non etiam a decem tribubus et Syris subjugandi. Et dividitur in partes duas:  
 
-et flagellationem: ***indignatio mea*** complebitur per eos, infra XIV 5–6 ***contrivit Dominus baculum impiorum, virgam dominantium cedentem populos in indignatione***.
+in prima ponit divinam confortationem;  
 
-**330**. ***Ad gentem fallacem***. Hic describit flagellis dignum, et quantum ad culpam: ***gentem fallacem***, quia non servat promissum, Exo. XIX 8 *cuncta quae locutus est Dominus faciemus*; et quantum ad sententiam: ***populum furoris***, id est quem jam adjudicavi puniendum, ***mittam***, inspirabo vos esse puniendos, IV Reg. XVIII 25 *Dominus dixit mihi: ascende ad terram hanc et demolire eam; **ad***, id est contra.
+in secunda removet divinorum communicationem: ***et cum dixerint ad vos***.  
 
-**331**. ***Ut auferat***. Hic ponit flagellationis modum quantum ad detractionem rerum: ***auferat spolia***; ad detentionem: ***diripiat***; quantum ad hominum oppressionem: ***ponat quasi lutum***, prae vilitate, Ps. *ut lutum platearum delebo eos*.
+Circa primum duo ponit:  
 
-**332**. ***Ipse autem***. Hic ponitur abusio potestatis concessae inquantum excessit fines mandati;
+primo hostis irrisionem;  
 
-et primo ponitur ejus propositum,
+secundo populi instructionem: ***haec enim ait Dominus***.  
 
-secundo ponitur propositi motivum: ***dicet enim***.
+Circa primum duo facit:  
 
-Circa primum duo facit:
+primo ponitur irrisio vel insultatio;  
 
-primo dimittit praefixam mensuram et quantum ad rationis judicium: ***non sic arbitrabitur***, et quantum ad cordis propositum: ***non ita aestimabit***, hoc est taxabit poenam;
+secundo irrisionis ratio: ***quia nobiscum Deus***.  
 
-secundo adauget poenam, et quantum ad modum: ***ad conterendum***, hoc est omnia disperdendum, et quantum ad numerum: ***gentium***, immo plurium, non solum ad illos ad quos mittebatur, Habacuc II 10 *cogitasti confusionem domui tuae, concidisti populos multos et peccavit anima tua*.
+Irridet autem pugnantium exercitum, sapientum consilium et dominorum praeceptum: his enim tribus bella pugnantur.  
 
-**333**. ***Dicet enim***. Hic ponitur motivum;
+**279**. Exercitus autem tribus invalescit:  
 
-et primo assumit,
+scilicet multitudine, et quantum ad hoc dicit ***O populi*** Syriae et Samariae, ***congregamini***, ut sitis multi, ***et*** ***vincemini***, Deo contra vos pugnante per quoscumque suos ministros; et non solum vos, sed ***audite*** hoc idem, ***universae terrae***. Et est sarcasmos, quaedam species tropi quae dicitur esse quaedam plena odio atque hostilis irrisio, Joelis III 11 *erumpite et venite omnes gentes de circuitu, et congregamini: ibi occumbere faciet Dominus robustos tuos*.  
 
-secundo concludit: ***sic faciam Jerusalem et simulacris***.
+Secundo invalescit pugnantium fortitudine corporis et animi, et quantum ad hoc dicit ***confortamini***, Joelis III 10 *infirmus dicat, quia fortis ego sum*.  
 
-Circa primum primo assumit servitutem regum: ***numquid non reges simul et principes mei?***, Habacuc I 10 *ipse de regibus triumphat et tyranni ridiculi ejus erunt*.
+Tertio invalescit armorum munitione: ***accingite vos***, quod pertinet proprie ad gladios, sed inde transumitur ad omnia arma, I Mach. IV *accingimini, et estote filii potentes, et estote parati mane ut pugnetis adversus nationes has, quae convenerunt disperdere nos et sancta nostra*.  
 
-Secundo subjugationem civitatum: ***numquid non ut Charcamis?***, infra XXXVII 18 ***vere enim Domine, desertas fecerunt reges Assyriorum terras et regiones earum***.
+**280**. Quantum ad consilium: ***inite consilium et dissipabitur***, Job V 13 *qui comprehendit sapientes in astutia eorum et consilia pravorum dissipat*, Prov. XXI 30 *non est sapientia, et non est prudentia, non est consilium contra Dominum*.  
 
-Tertio destructionem deorum: ***quomodo invenit manus mea regna idoli***, admirative, quasi dicat: quomodo fuit hoc quod dii illi non restiterunt mihi, IV Reg. XVIII 35 *quinam illi sunt in universis diis terrarum, qui eruerunt regionem suam de manu mea, ut possit Deus eruere Jerusalem de manu mea?*
+**281**. Quantum ad praeceptum dominorum de his quae post consilium eliguntur: ***loquimini verbum et non fiet***, supra VII 6 ***ponamus regem in medio ejus***. Reges enim quae eligebant annuntiabant plebi, ut dicit Homerus.  
 
-**334**. ***Sic faciam Jerusalem et simulacris ejus***. Hic concludit
+**282**. Rationem ponit interpretando nomen Emmanuel: ***quia nobiscum Deus***, Ro. VIII 31 *si Deus pro nobis, quis contra nos?*, Jer. XV 20 *et bellabunt adversus te, et non praevalebunt: quia ego tecum sum ut salvem te et eruam te, dicit Dominus*.  
 
-primo a gentibus ad totum populum Israel: ***sic et simulacra***,
+**283**. ***Haec enim ait***. Hic ponitur populi instructio:  
 
-secundo ex decem tribubus ad duas: ***numquid non sicut***.
+et primo docet quid non timendum;  
 
-De Samaria verum dicit quia colebant idola, sed de Jerusalem abstulerat Ezechias, IV Reg. XVIII 4; et forte aliqua remanserunt occulte, quae invenit in parte civitatis quam tradidit ei Sobna Scriba; vel vocat ***simulacra*** arcam et alia quae erant in ornatum templi, Ez. XXXV *ecce sicut omnes gentes* etc.
+secundo quid timendum: ***Dominum exercituum***.  
 
-**335**. ***Et erit cum impleverit***. Hic arguit ejus superbiam.
+Prima dividitur in duas partes:  
 
-Et primo ponitur superba gloriatio,
+scilicet in doctrinae probationem,  
 
-secundo gloriandi occasio: ***dixit enim***,
+et in ipsius traditionem, ibi ***non dicatis***.  
 
-tertio gloriantis increpatio: ***numquid gloriabitur***.
+Probat autem non esse timendos hostes dupliciter.  
 
-Dicit ergo ***et erit cum impleverit Dominus cuncta opera sua***, poenas scilicet quibus vult corrigere, ***magnifici cordis***, quantum ad praesumptionem de faciendis, ***et super gloriam***, quantum ad elationem de factis, supra II 11 ***oculi sublimes hominis humiliati sunt***.
+Primo per Domini praeceptum, unde dicit: ita vincemini, O hostes, ***enim***, id est quia, ***haec*** quae dicta sunt ***ait Dominus ad me***, et ideo ne timeatis, Num. XXIII 19 *non est Deus quasi homo ut mentiatur, neque ut filius hominis ut mutetur*.  
 
-**336**. ***Dixit enim***. Hic ponit gloriae occasionem ex magnis quae fecerat,
+Secundo suo exemplo: ***ait***, dico ***ad me***; ***dicens*** ad vos quae sequentur ad erudiendum vos, ***sicut erudivit me***, id est ne imitarer eos in malitia sua; et hoc ***in manu forti***, id est in tribulatione. Vel non solum docens quid faciendum, sed etiam dans gratiam virtutis ad complendum, Thren. I 13 *de excelso misit ignem in ossibus meis, et erudivit me*.  
 
-et primo quantum ad facientis conditionem;
+**284**. ***Ne dicatis***. Hic ponitur ipsa doctrina.  
 
-secundo quantum ad facti magnitudinem: ***et abstuli***;
+Et primo prohibet timoris verbum: ***non dicatis: conjuratio*** duarum gentium, quasi: nobis timenda est; ***omnia enim quae loquitur populus conjuratio est*** contra me. Unde si me sociant vobis in conjuratione, sentient me vobis socium in defensione, Exo. XVI 8 *non contra nos est murmur vestrum, sed contra Deum*; infra L 8 ***stemus simul**. Quis est adversarius meus? Accedat ad me***.  
 
-tertio quantum ad faciendi facilitatem: ***et invenit***.
+Secundo prohibet passionis motum: ***et timorem ejus ne timueritis***. Timor et pavor differunt secundum magis et minus: timor enim facit motum cordis secundum systolem, sed pavor quasi immobilitat cor, Ps. *si consistant adversum me castra*.  
 
-Et dicit facientis conditionem quantum ad potentiam bellorum: ***in fortitudine***, quantum ad sapientiam consiliorum: ***et in sapientia***, Deut. XXXII 27 *sed propter iram inimicorum distuli, ne forte superbirent hostes eorum et dicerent: manus nostra excelsa*.
+**285**. ***Dominum exercituum***. Hic instruit eos quomodo timendus sit:  
 
-**337**. Facti autem magnitudo pensatur ex tribus:
+et primo ponit legem;  
 
-ex multitudine regnorum, unde dicit ***abstuli terminos***: loquitur ad similitudinem ejus qui acquirit multos agros, qui aufert terminos quibus diversorum possessiones dividebantur;
+secundo legis absconsionem: ***signa legem***.  
 
-quantum ad spoliationem principum: ***et principes***;
+Circa primum tria facit:  
 
-quantum ad subjugationem regum: ***et detraxi quasi potentes in sublime***, scilicet in solio regni, Dan. V 19 *quos volebat exaltabat, et quos volebat humiliabat*.
+primo ponit legis praeceptum;  
 
-**338**. Facilitas autem faciendi determinatur quantum ad tria:
+secundo obedientium fructum: ***et erit vobis***;  
 
-quantum ad plenariam subjectionem: ***et invenit quasi nidum manus***, qui est in potestate invenientis, infra XVI 2 ***et erit: sicut avis fugiens et pulli de nido avolantes***;
+tertio poenam rebellium: ***in lapidem autem***.  
 
-quantum ad facilem destructionem: ***et sicut colliguntur*** ita de facili, Habacuc II 5 *et congregabit ad se omnes gentes, et coacervabit ad se omnes populos*;
+Praeceptum autem est ut Deus honoretur: ***sanctificate Dominum exercituum***, in vobis ipsis et in sanctitate serviatis ei; ***ipse pavor vester***, in quantum Dominus, Ps. *beatus vir qui timet Dominum; **ipse terror***, in quantum ultor, Matth. X 28 *nolite timere eos qui occidunt corpus, animam autem non possunt occidere; sed potius timete eum qui potest animam et corpus perdere in gehennam*. Hoc exponit Petrus de Christo, 1 Petri III 14 *timorem autem eorum ne timueritis et non conturbemini*. Et videtur intentio prophetae propter ea quae sequuntur.  
 
-quantum ad sublatam omnem contradictionem: ***et non fuit qui moveret pennam***, id est manum—penna avis se defendit—, ***et aperiret os*** ad contradicendum, ***et ganniret***, quod est vulpium vel avium ad plangendum, Ez. XXIV 16 *fili hominis, ecce ego tollo a te desiderabile oculorum tuorum in plaga: et non planges neque plorabis neque fluent lacrymae tuae*.
+**286**. Nota super illo verbo ***sicut in manu forti erudivit***, quod est manus divina triplex.  
 
-**339**. ***Numquid gloriabitur***. Hic ponitur gloriantis increpatio, quia est sicut instrumentum quod non potest operari nisi motu artificis: ***securis***, ad mactandum malos; ***exaltabitur serra***, ad discernendum bonos a malis; ***virga***, ad corrigendum; ***baculus***, ad sustentandum correctos, Job XV 13 *quid tumet contra Deum spiritus tuus ut proferas de ore tuo hujuscemodi sermones?*
+Primo est manus divinae potentiae, et haec est triplex:  
 
-**340**. ***Propter hoc immittet***. Hic comminatur poenam. Et circa hoc tria facit:
+primo creantis, Job X 8 *manus tuae fecerunt me et plasmaverunt me*;  
 
-primo comminatur poenae judicium,
+secundo continentis, Ps. *in manu tua, Domine, omnes fines terrae*;  
 
-secundo determinat poenae modum: ***et subtus gloriam***,
+tertio protegentis, Is. XLIX 2 ***in umbra manus suae protexit me***.  
 
-tertio poenae effectum: ***et erit terrore***.
+Secunda manus est manus justitiae, et ista est triplex:  
 
-***In pinguibus***, potentibus et divitibus, infra XXV 5 ***et faciet Dominus exercituum omnibus populis in monte hoc convivium pinguium***.
+prima tangentis ad probandum, Job XIX 21 *manus Domini tetigit me*;  
 
-**341**. ***Et subtus***. Hic determinatur poenae modus, qui fuit per combustionem; et ponuntur tria.
+secunda flagellantis ad purgandum, II Mach. VI 26 *nam et si in praesenti tempore a suppliciis hominum eripiar, sed manus Omnipotentis neque vivus neque defunctus effugiam*;  
 
-Primo poenae species: ***gloriam ejus***, id est multitudo exercitus; ***subtus***, id est sub vestibus, quia vestimentis illaesis corpora cremata sunt, supra I 31 ***et erit fortitudo vestra ut favilla stupae et opus vestrum quasi scintilla***.
+tertia opprimentis ad condemnandum, Hebr. X 31 *horrendum est incidere in manus Dei viventis*.  
 
-Secundo poenam inferens: ***Sanctus*** Israel, Deus, vel angelus Michael cui commissus fuit ille populus, Dan. X 13 *et ecce Michael unus ex principibus primis venit in adjutorium meum; **in igne***, quia per ignem puniet eos, Soph. I 18 *in igne zeli ejus devorabitur omnis terra, quia consummationem cum festinatione faciet cunctis habitantibus terram*.
+Tertia manus est manus misericordiae, et ista est triplex:  
 
-Tertio poenam patiens, et quantum ad minores: ***spina et vepres***, quae non multum crescunt; ***et gloria saltus ejus***, Libani, quantum ad magnos quos propter dignitatem comparat altis arboribus Libani; ***ab anima***, quia et in anima et in corpore mortui sunt, supra IX 18 ***succensa est quasi ignis impietas, veprem et spinam vorabit, et succendetur in densitate saltus, et convolvetur superbia fumi***.
+prima sanantis, Job V 18 *ipse vulnerat et medetur, percutit et manus ejus sanabunt*;  
 
-**342**. ***Et erit terrore***. Hic ponitur poenae effectus.
+secunda pascentis, Ps. *populus pascuae ejus et oves manus ejus*;  
 
-Et primo in hostibus quantum ad fugam: ***et erit terrore profugus***; quantum ad paucitatem: ***et reliquiae ligni***, quia ad litteram Senacherib cum paucis fugit, scilicet cum decem, Deut. XVIII *remanebitis* etc.
+tertia coronantis, Sap. V 17 *accipient regnum decoris et diadema speciei de manu Domini*.  
 
-**343**. Secundo effectum in populo: ***et erit***, quantum ad tria in quibus offendebant, scilicet
+Lectio 3  
 
-in confidentia gentium: ***super eo qui percutiet eos***, quia illi a quibus auxilium petebant quandoque etiam affligebant eos, ***qui fugerint***, vel ad Ezechiam vel ad alias gentes, Ez. XIX *innitentibus eis*.
+^8:14^ et erit vobis in sanctificationem, in lapidem autem offensionis et in petram scandali duabus domibus Israel, in laqueum et in ruinam habitantibus Jerusalem.  
 
-**344**. Secundo quantum ad cultum idolorum, et quantum ad modum, quia ***in veritate reliquiae***, contra id quod dicitur III Reg. XVIII 21 *usquequo claudicatis in duas partes? Si Dominus est Deus, sequimini eum; si autem Baal, sequimini illum*; et quantum ad conversos: ***reliquiae Jacob***, qui relinquuntur ab Assyriis, <Jer. XXXI 7> *salva Somine populum tuum*. Et confirmat promissionem: ***si enim fuerit***, Gen. XXII 17 *multiplicabo semen tuum sicut stellas caeli et velut arenam quae est in littore maris*.
+> ^8:15^ Et offendent ex eis plurimi et cadent et conterentur et irretientur et capientur.
 
-**345**. Tertio quantum ad justitiam operum;
+> ^8:16^ Liga testimonium, signa legem in discipulis meis.
 
-et primo ponit promissionem: ***consummatio abbreviata***, id est destructio in brevi facta in exercitu Senacherib, ***inundabit justitiam***, id est faciet inundare justitiam in populo, infra XXVI 10 ***misereamur impio, et non discet justitiam: in terra sanctorum iniqua gessit***.
+> ^8:17^ Et exspectabo Dominum qui abscondit faciem suam a domo Jacob et præstolabor eum.
 
-Secundo ponit confirmationem: ***consummationem enim***, Nahum I 8 *in diluvio praetereunte consummationem faciet loci ejus; **in medio terrae***, id est in Jerusalem, quae est in meditullio terrae, Ez. V 5 *ista est Jerusalem, in medio gentium posui eam, et in circuitu ejus terras*. Apostolus ad Ro. IX 27 exponit de reliquiis salvandorum; et ***verbum abbreviatum***, secundum Septuaginta, est verbum evangelii, Matth. XXII 40 *in his duobus mandatis universa lex pendet et prophetae*; vel Verbum incarnatum.
+> ^8:18^ Ecce ego et pueri mei quos mihi dedit Dominus in signum et in portentum Israelis a Domino exercituum qui habitat in monte Sion.
 
-**346**. ***Propter hoc haec dicit Dominus***. Hic ponitur populi confortatio, et circa hoc duo facit.
+> ^8:19^ Et cum dixerint ad vos: quærite a pythonibus et a divinis qui stridunt in incantationibus suis. Numquid non populus a Deo suo requiret pro vivis ac mortuis?
 
-Primo ponit confortationem: ***noli timere***, infra XLI 14 ***noli timere, vermis Jacob, qui mortui estis ex Israel***.
+> ^8:20^ Ad legem magis et ad testimonium! Quod si non dixerint juxta verbum hoc, non erit eis matutina lux;
 
-Secundo exponit evasionem,
+> ^8:21^ et transibit per eam, et corruet, et esuriet. Et cum esurierit, irascetur, et maledicet regi suo et Deo suo. Et suscipiet sursum,
 
-et primo in generali,
+> ^8:22^ et ad terram intuebitur. Et ecce tribulatio et tenebræ, dissolutio et angustia et caligo persequens, et non poterit avolare de angustia sua.
 
-secundo in speciali: ***transibit in Magron*** vel ***veniet in Ajath***.
+> **287**. ***Et erit vobis***. Hic ponit obedientium fructum: ***in sanctificationem***, sanctos faciet vos, Levi. XXII 32 *ego Dominus, qui sanctifico vos; **in lapidem***, ponit rebellium impedientium poenam sub metaphora viatorum:
 
-Circa primum tria facit.
+et primo ponit poenae occasionem,  
 
-Primo ponitur afflictio: ***in virga***, id est in afflictione obsessionis et depraedationis, ***et baculum*** confringentem, ***in via Aegypti***, quia audiens quod rex Ethiopiae esset egressus de terra sua, ut legitur IV Reg. XIX 9, dimisit terram, et in reditu destruxit civitates quas invenit veniens per Aegypti viam, Jer. XLVIII 17 *quomodo confracta est virga fortis, baculus gloriosus?*
+secundo poenae perceptionem: ***et offendent***.  
 
-**347**. Secundo affligentium destructio: ***adhuc enim paululum***.
+Occasionem autem ponit  
 
-Circa quod primo notatur acceleratio: ***adhuc paululum*** respectu aeternitatis, vel respectu illius temporis in quo affligent, Ez. VIII *de propinquo effundam*;
+primo quantum ad populum;  
 
-secundo poenae magnitudo: ***consummabitur indignatio***, quo ad culpam, ***furor***, quo ad vindictam;
+secundo quantum ad principes: ***in laqueum***.  
 
-tertio quo ad puniendi facilitatem: ***meus***, < . . . > Judicum VII 25; ***et super mare*** Rubrum, Exo. XIV 21–29, ***et levabit eam***, contra te primo, ***in via Aegypti***, quia in Aegyptiis confidebas.
+Primum ostendit sub metaphora lapidis existentis in via, qui dupliciter impedit viatorem: scilicet per pedis laesionem, et per casus occasionem; et similiter Christus fuit incredulis ex Judaeis occasio laesionis et casus, non ex culpa sua sed illorum. Dicit ergo ***erit duabus domibus Israel***, id est infidelibus de decem et duabus tribubus, vel scribis et pharisaeis, ***in lapidem offensionis***, quantum ad laesuram, Ro. IX 32 *offenderunt enim in lapidem offensionis; **et in petram scandali***, in qua pes impingit ad casum: ***scandalon*** graece, latine pedis impactio, I Cor. I 23 *nos autem praedicamus Christum crucifixum, Judaeis quidem scandalum, gentibus autem stultitiam*.  
 
-**348**. Tertio ponitur consequens liberatio,
+**288**. Et quia principes magis Christo restiterunt, ideo quantum ad eos aggravat: ***et erit habitantibus Jerusalem***, quae erat urbs principum, ***in laqueum***,—sicut animalia capiuntur laqueo—, et hoc est gravius quam offensio, infra XXIV ***qui se explicuerit de fovea, incidet in laqueum**; **et in ruinam***, quod est magis quam casus simplex, Lucae II 34 *ecce hic positus est in ruinam*.  
 
-et primo liberatio: ***auferetur onus***, Jer. XXX 8 *in die illa conteram jugum ejus de collo tuo, et vincula ejus disrumpam*;
+**289**. Et quia occasiones quandoque aliquis devitat et non incurrit, ideo hoc removet, et ostendit poenae perceptionem et dicit ***et offendent***, contra id quod dixit ***offensionis***, per infidelitatem; contra scandalum, ***cadent*** a dignitate regni, Matth. VIII 12 *filii autem regni ejicientur in tenebras exteriores; **conterentur***, quantum ad ruinam poenae famis et gladii, Matth. XXI 44 *qui ceciderit super lapidem istum, confringetur; super quem vero ceciderit, conteret eum*. Quantum ad laqueum dicit ***irretientur***, funibus peccatorum et perplexitatum, quae quia non rumpentur, ***capientur*** a Romanis, Prov. V 22 *funibus peccatorum suorum constringitur*.  
 
-secundo liberationis ratio: ***a facie olei*** divinae misericordiae, supra I 6 ***vulnus et livor et plaga tumens non est circumligata, neque curata medicamine, neque fota oleo***.
+**290**. ***Liga testimonium***. Hic ponit legis clausionem,  
 
-**349**. ***Veniet in Ajath*** hic describitur in speciali.
+et primo ponitur legis absconsio, ibi ***liga testimonium***, id est involve prophetiam de Christo obscuritate, ne videant Judaei quia indigni sunt. ***Signa legem***. Signa duo significat:  
 
-Et primo ponitur oppressio, numerans civitates per quas transivit veniens de Aegypto in Jerusalem: ***veniet*** de Aegypto ***in Ajath, transibit*** cursim ***in Magron; apud Machmas***, civitatem quandam, ***commendabit vasa sua***, dimittet partem supellectilis suae ut expeditus veniat. ***Transierunt cursim***, non impediti propter resistentiam illarum civitatum; ***Gabaa sedes nostra***, vox exercitus qui ibi quievit; ***obstupuit Rama***, id est timuit quia vicinus erat; ***Gabaa Saulis***, civitas regalis tempore Saulis. ***Hinni***, more equorum; ***attende Laisa***, quomodo possis fugere, et similiter tu ***paupercula Anatoth***, quia parva villa erat. ***Medemena migravit***, fugit, et similiter ***habitatores Gabim***; vox Senacherib ad exercitum: ***confortamini**: **adhuc dies est ut in Nobe stetur***, villa prope Jerusalem; quasi dicat: adhuc est tantum de die quod possumus illic figere tentoria, quia divinatum erat ei quod si illa die illuc applicaret, quod vinceretur. Vel: ***O habitatores Gabin, confortamini***, quia hostes prope sunt. ***Agitabit***, ad modum comminantis, infra XXXVII 23–24 ***ad Sanctum Israel. In manu servorum tuorum exprobrasti Domino***.
+quandoque claudere sub sigillo, et sic dicit ***signa legem*** veterem sub figuris, ***in discipulis meis***, id est quousque discipuli mei aperiant praedicando per mundum, Dan. XII 4 *claude sermones et signa librum usque ad tempus statutum*; vel ***in discipulis meis*** absconde.  
 
-**350**. Secundo hostium destructio: ***ecce dominator***.
+Quandoque significat expressionem figurae, Ps. *signatum est super nos lumen vultus tui Domine*; et sic ***signa***, in anima, ***discipulis meis***.  
 
-Et primo facilitas ex parte punientis: ***confringet***, ad similitudinem facti Gedeon, Judicum VII 19–20;
+Secundo absconditi expectationem: ***expectabo***, Michaeae VII 7 *ego autem ad Dominum aspiciam, expectabo Deum salvatorem meum*.  
 
-secundo universalitas ex parte punitorum: ***excelsi***, quantum ad fortes corpore, ***sublimes***, quantum ad principes, ***condensa saltus***, ad multitudinem populi, id est frutices quae faciunt sylvam spissam, ***et Libanus***, ipse Senacherib, qui interfectus fuit a filiis suis, infra XXVII.
+Tertio expectati praesentationem: ***ecce ego***, Christus scilicet, ***et pueri mei***, apostoli, ***quos dedit mihi Dominus***, Jo. XVII 6 *tui erant, et mihi eos dedisti; **in signum***, id est ut faciant signa, ***et in portentum***, mirum quod sua magnitudine portendit; et hoc fiet ***a Domino qui habitat***, per cultum vel per fidem, ***Sion***, Ecclesia, Zach. III 8 *audi Jesu sacerdos magne, tu et amici tui, qui habitant coram te, quia viri portendentes sunt*.  
 
-Mystice Glossa: ***confringet lagunculam, in passione Christi*.
+**291**. Quidam exponunt hoc de Isaia: ***et pueri*** prophetae, secundum hoc infra XX 3 ***sicut ambulavit servus meus Isaias nudus et discalceatus, trium annorum signum et portentum erit super Aegyptum et super Aethiopiam***; quidam de filiis Isaiae, et hoc falsum.  
 
-**351**. Nota super illo verbo ***et erit lumen Israel in ignem***, quod Deus noster dicitur ignis
+**292**. ***Et cum dixerint ad vos***. Hic removet divinorum communicationem; et circa hoc tria facit.  
 
-primo quia subtilis; et quantum ad hoc dicitur subtilis quantum ad substantiam, quia dicitur spiritus, Jo. IV 24 *spiritus est Deus*;
+Primo ponitur hostium communicatio: ***et cum dixerint***, hostes vestri, ***quaerite a pythonibus***, qui vobis praedicunt mala et nobis bona. ***python*** hebraice os abyssi. Et dicit Hieronymus quod dicuntur ab Apolline pythio, quia hoc genus artis magicae invenit per quod videntur mortui suscitari et de futuris aliqua praedicere, sicut legitur I Reg. XXVIII 8. Rabanus dicit quod est nomen maligni spiritus; item Hieronymus dicit quod dicitur python qui habet diabolum in ventre. ***Et a divinis***, quia sibi actum Dei vendicant in praedictione futurorum, et praecipue quantum ad cultum falsorum deorum; ***qui stridunt***, quasi insani, III Reg. XVIII 28 *clamabant voce magna, et incidebant se juxta ritum suum cultris et lanceolis, donec perfunderentur sanguine*, Deut. XVIII 10–11 *ne sit maleficus neque incantator, neque pythones consulat neque divinos et quaerat a mortuis veritatem: omnia enim haec abominatur Dominus*.  
 
-secundo quantum ad scientiam, quia penetrabilis, Hebr. IV 12 *vivus est sermo Dei et efficax et penetrabilior omni gladio ancipiti*;
+**293**. Secundo docetur responsio: ***numquid non populus*** fidelis ***a Deo suo*** vero, ***pro vivis ac mortuis***, id est pro salute vivorum ac mortuorum, IV Reg. I 6 *numquid non erat*. Vel ***vivis et mortuis***, id est loco deorum vestrorum, qui sunt simulacra hominum mortuorum et vivorum. Vel quaerimus visionem pro ***vivis et mortuis*** sicut vos, scilicet a diis vestris qui sunt similes mortuis. ***Ad legem magis***, quae prohibet talia, vel quae docet quid est expectandum; ***testimonium***, Scripturae.  
 
-tertio quantum ad apparentiam, quia invisibilis, Job XXVIII 20 *unde ergo sapientia?*, et infra eodem *abscondita est ab oculis omnium viventium*, vel Job XXXVIII O*mnes homines*.
+**294**. Tertio ponit inobedientium comminationem: ***quod si non dixerint***. Et facit tria:  
 
-Secundo quia lucidus: quod autem sit lucidus, patet
+primo comminatur poenam;  
 
-primo quia manifestat quantum ad intellectum, Ps. *in lumine tuo videbimus lumen*;
+secundo in poena impatientiam: ***et cum esurierit***;  
 
-secundo quia delectat quantum ad affectum, Tob. V 12 *quale gaudium est mihi qui in tenebris sedeo et lumen caeli non video?*;
+tertio desperationis tristitiam: ***et suspiciet***.  
 
-tertio quia dirigit quantum ad actum, infra LX 3 ***ambulabunt gentes in lumine tuo et reges in splendore ortus tui***.
+Dicit ergo primo ***quod si non dixerint juxta hoc verbum***, respondentes scilicet, vel faciemus, quod ***non erit eis matutina lux***, id est Christus tenebras pellens. Jo. I 9 *erat lux vera quae illuminat omnem hominem venientem in hunc mundum. **Et pertransibit per eam***, congregationem, ad alios, non manens in eis, infra LVIII 9 ***ecce adsum***, quia misericors sum Dominus Deus tuus; ***et corruet*** in damnationem, ***et*** verbum Dei ***esuriet***, Amos VIII 11 *ecce ego mittam famem in terram, non famem panis neque sitim aquae, sed audiendi verbum Dei*. Vel ***lux***, consolationis; ***et corruet*** in damnationem, supra III 8 ***ruit enim Jerusalem et Juda concidit***; ***et esuriet*** pane.  
 
-Tertio quia calidus:
+**295**. ***Et cum esurierit***. Hic comminatur in poena impatientiam, quantum ad iram cordis: ***irascetur***, Ps. *si non fuerint saturati, murmurabunt*; quantum ad blasphemiam oris: ***et maledicet***, Apoc. XVI 11 *et blasphemaverunt Deum caeli prae doloribus et vulneribus; et non egerunt poenitentiam ex operibus suis*.  
 
-et hoc primo quia vivificat, Job XXXIX 14 *tu forsitan in pulvere calefacies ea?*, Thren. I 13 *de excelsis misit ignem in ossibus meis et erudivit me*;
+**296**. ***Et suspiciet sursum***. Hic ponit desperationis tristitiam,  
 
-secundo quia purgat, Eccli. XXXVIII 29 *vapor ignis urit carnes ejus et in calore fornacis concertatur*;
+et primo expectationem auxilii: ***suspiciet sursum***, de caelo quaerens auxilium, ***et ad terram intuebitur***, ad auxilium de terra; supra V 30 ***aspiciet in terra, et ecce tenebrae tribulationis***.  
 
-tertio quia devastat, Deut. XXXII 22 *ignis succensus est in furore meo et ardebit usque ad inferni novissima*.
+Secundo imminentiam periculi: ***et ecce tribulatio***, praevisa, ***et tenebrae***, quantum ad consilium resistenti, ***dissolutio***, contra confortationem, ***et angustia***, quantum ad perplexitatem, ***et caligo persequens***, quantum ad persecutionem, Apoc. VI *factum est regnum ejus*.  
 
-Quarto quia levis:
-
-et hoc primo propter motum, quia *universa propter semet ipsum operatus est Dominus*, Prov. XVI 4;
-
-secundo propter situm, quia *in altis habitat*, Ps.;
-
-tertio propter incommixtionis modum, Sap. VIII *attingit autem ubique propter munditiam suam, vapor est enim virtutis Dei*.
-
-Caput 11
+Tertio liberationis impossibilitatem, ad similitudinem avis captae: ***et non poterit avolare de angustia sua***. E contrario est de justis, Ps. *laqueus contritus est, et nos liberati sumus*.

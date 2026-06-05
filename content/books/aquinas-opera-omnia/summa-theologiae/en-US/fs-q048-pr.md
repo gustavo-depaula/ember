@@ -1,9 +1,9 @@
-# Question 48 — We must now consider the effects of anger: under which head there are four points of inquiry:
+# Question 48 — Of the Effects of Anger
 
-(1) Whether anger causes pleasure?
+We must now consider the effects of anger: under which head there are four points of inquiry:  
 
-(2) Whether above all it causes heat in the heart?
+(1) Whether anger causes pleasure?  
 
-(3) Whether above all it hinders the use of reason?
-
-(4) Whether it causes taciturnity?
+- (2) Whether above all it causes heat in the heart?
+- (3) Whether above all it hinders the use of reason?
+- (4) Whether it causes taciturnity?

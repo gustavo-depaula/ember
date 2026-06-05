@@ -1,0 +1,3 @@
+# Articulus 66
+
+Quod vero sexagesimo sexto ponitur, *ideae habent pluralitatem ex parte connotati propter respectuum pluralitatem, et ille respectus aeternus est*, verum est, si respectus ille est intellectus a Deo. Deus enim ab aeterno sicut intellexit multitudinem creaturarum, ita intellexit multitudinem respectuum, prout sunt inter ipsum et creaturas: et hoc sufficit ad pluralitatem idearum, quae nihil aliud sunt quam rationes rerum, prout sunt intellectae a Deo; et sic neque oportet essentiam divinam plurificari, neque oportet esse aliquam relationem realem aeternam praeter proprietates personales, ut obiicitur.

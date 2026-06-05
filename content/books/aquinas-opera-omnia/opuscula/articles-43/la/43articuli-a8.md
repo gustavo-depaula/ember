@@ -1,5 +1,0 @@
-# Articulus 8
-
-Huic videtur per distinctionem respondendum. Quod enim aliquis non posset movere manum, potest esse dupliciter. Uno modo ex defectu animae moventis, ut scilicet animae deficiat potentia motiva corporis; et sub hoc intellectu falsum est quod dicitur: nam anima fabri movet manum per liberum arbitrium, quod non subiacet neque caelestibus corporibus neque Angelis, sed soli Deo. Alio modo potest intelligi ex defectu corporalis membri; sicut homo qui habet manum ligatam vel aridam, non potest eam movere: et hoc modo, cessante motu caeli, organum corporis non posset ab anima moveri, quia non remaneret vivum; quia corpora caelestia ad vitam movent inferiora corpora, ut patet ex auctoritate Dionysii supra inducta. Si tamen divina virtute praeter naturae ordinem corpus hominis vivum remaneret cessante motu caeli, et conservaretur in dispositione illa qua est mobile ab anima, posset homo per liberum arbitrium quamlibet partem movere corporis.
-
-Articulus 9

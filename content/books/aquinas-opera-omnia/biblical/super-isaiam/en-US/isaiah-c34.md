@@ -1,115 +1,133 @@
-# Chapter 34
+# Chapter 32
 
-> ^34:2^ For the indignation of the Lord is upon all nations, and his fury upon all their armies: he has killed them, and delivered them to slaughter.
+***^32:1^ Behold a king shall reign in justice, and princes shall rule in judgment.***
 
-> ^34:3^ Their slain shall be cast forth, and out of their carcasses shall rise a stink: the mountains shall be melted with their blood.
+> ^32:2^ And a man shall be as when one is hid from the wind, and hides himself from a storm, as rivers of waters in drought, and the shadow of a rock that stands out in a desert land.
 
-> ^34:4^ And all the host of the heavens shall pine away, and the heavens shall be folded together as a book: and all their host shall fall down as the leaf falls from the vine, and from the fig tree.
+> ^32:3^ The eyes of them that see shall not be dim, and the ears of them that hear shall hearken diligently.
 
-> ^34:5^ For my sword is inebriated in heaven: behold it shall come down upon Idumea, and upon the people of my slaughter unto judgment.
+> ^32:4^ And the heart of fools shall understand knowledge, and the tongue of stammerers shall speak readily and plain.
 
-> ^34:6^ The sword of the Lord is filled with blood, it is made thick with the blood of lambs and buck goats, with the blood of rams full of marrow: for there is a victim of the Lord in Bosra and a great slaughter in the land of Edom.
+> ^32:5^ The fool shall no more be called prince: neither shall the deceitful be called great.
 
-> ^34:7^ And the unicorns shall go down with them, and the bulls with the mighty: their land shall be soaked with blood, and their ground with the fat of fat ones.
+> ^32:6^ For the fool will speak foolish things, and his heart will work iniquity, to practice hypocrisy, and speak to the Lord deceitfully, and to make empty the soul of the hungry, and take away drink from the thirsty.
 
-> ^34:8^ For it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Zion.
+> ^32:7^ The vessels of the deceitful are most wicked: for he will frame *(*Concinnabit*. Vg.: *concinnavit*. DR: “ hath framed.”)* devices to destroy the meek, with lying words, when the poor man speaks judgment.
 
-> ^34:9^ And the streams thereof shall be turned into pitch, and the ground thereof into brimstone: and the land thereof shall become burning pitch.
+> ^32:8^ But the prince will devise such things as are worthy of a prince, and he shall stand above the rulers.
 
-> ^34:10^ Night and day it shall not be quenched, the smoke thereof shall go up for ever: from generation to generation it shall lie waste, none shall pass through it for ever and ever.
+> ^32:9^ Rise up, you rich women, and hear my voice: you confident daughters, give ear to my speech.
 
-> ^34:11^ The bittern and hedgehog shall possess it: and the ibis and the raven shall dwell in it: and a line shall be stretched out upon it, to bring it to nothing, and a plummet, unto desolation.
+> ^32:10^ For after days and a year, you that are confident shall be troubled: for the vintage is at an end, the gathering shall come no more.
 
-> ^34:12^ The nobles thereof shall not be there: they shall call rather upon the king, and all the princes thereof shall be nothing.
+> ^32:11^ Be astonished, you rich women, be troubled, you confident ones: strip you, and be confounded, gird your loins.
 
-> ^34:13^ And thorns and nettles shall grow up in its houses, and the thistle in the fortresses thereof: and it shall be the habitation of dragons, and the pasture of ostriches.
+> ^32:12^ Mourn for your breasts, for the delightful country, for the fruitful vineyard.
 
-> ^34:14^ And demons and onocentaurs*Onocentauris*. DR: “monsters.” shall meet, and the hairy ones shall cry out one to another, there has the lamia lain down, and found rest for herself.
+> ^32:13^ Upon the land of my people shall thorns and briers come up: how much more upon all the houses of joy, of the city that rejoiced?
 
-> ^34:15^ There has the hedgehog had its hole, and brought up its young ones, and has dug round about, and cherished them in the shadow thereof: thither are the kites gathered together one to another.
+> ^32:14^ For the house is forsaken, the multitude of the city is left, darkness and obscurity are come upon its dens for ever. A joy of wild asses, the pastures of flocks,
 
-> ^34:16^ Search diligently in the book of the Lord, and read: not one of them was wanting, one has not sought for the other: for that which proceeds out of my mouth, he has commanded, and his spirit it has gathered them.
+> ^32:15^ Until the spirit be poured upon us from on high: and the desert shall be as Carmel, *(DR: “Charmel.”)* and Carmel shall be counted for a forest.
 
-> ^34:17^ And he has cast the lot for them, and his hand has divided it to them by line: they shall possess it for ever, from generation to generation they shall dwell therein.
+> ^32:16^ And judgment shall dwell in the wilderness, and justice shall sit in Carmel. *(DR: “Charmel.”)*
 
-> **734**. ***Come near, you Gentiles***. In this part, he threatens those who were assistants to the Assyrians,
+> ^32:17^ And the work of justice shall be peace, and the service of justice quietness, and security for ever.
 
-and first, he threatens all of them together;
+> ^32:18^ And my people shall sit in the beauty of peace, and in the tabernacles of confidence, and in wealthy rest.
 
-second, he threatens the Idumeans in particular, where it says, ***behold it shall come down upon Idumea*** (Isa 34:5).
+> ^32:19^ But hail shall be in the descent of the forest, and the city shall be made very low.
 
-Concerning the first, he does two things.
+> ^32:20^ Blessed are you that sow upon all waters, sending thither the foot of the ox and the ass.
 
-First, he stirs up attention, setting out the order of attention, so that those approaching might come near, those nearby might hear, and those who hear might listen, below: ***give ear, you islands, and hearken, you people from afar*** (Isa 49:1). And he sets out the universality of those called together: ***let the earth hear*; *and the world***, as to those of middle rank, using the container to signify what it contains; ***the fullness***, as to the great; ***every thing that comes forth of it***, as to the lowly: he shows that he is prepared to announce to all, not that all are able to hear: *the earth is the Lord’s and the fullness thereof* (Ps 23[24]:1).
+> **699**. ***Behold a king shall reign in justice***. This is the third part of the threatening, in which he describes their liberation from the enemies who were threatening them then.
 
-**735**. Second, he sets out the threatening: ***for the indignation***, as to three things.
+And first, he foretells the liberation in the manner of prophecy,  
 
-First, as to the destruction of their people, setting out the indignation of the judge, namely, God: ***the indignation of the Lord***, above: ***this is the hand that is stretched out upon all nations*** (Isa 14:26); above: ***to destroy the nations unto nothing*** (Isa 30:28); the killing of men: ***he has killed them***, by his authority, ***he delivered them***, as if to say, he delivered them to others to be killed, as to executors: *behold I will deliver the men, every one into his neighbor’s hand* (Zech 11:6). And the throwing out of their corpses: ***their slain shall be cast forth***, without burial: *his stench shall ascend* (Joel 2:20).
+second, he recounts it in the manner of history: ***and it came to pass*** (ch. 36).  
 
-Second, as to the end of their tyrants: ***the mountains***, that is, the tyrants, ***shall be melted with their blood***, that is, because of the fault of shedding blood, below: ***the mountains would melt away at your presence*** (Isa 64:1).
+The first of these is divided into two parts:  
 
-Third, as to the destruction of their idols; and concerning this he does three things.
+in the first, he foretells the prosperity of the Jews;  
 
-**736**. And first, he shows that the help of idols will cease in wars: ***and all the host of the heavens***, namely, of the air, that is, the demons; or, literally, the spirits, which, according to the opinion of the gentiles, governed the stars, ***shall pine away***, above: ***the idols of Egypt shall be moved*** (Isa 19:1); and in counsels, namely, inasmuch as they divined from the stars; ***and the heavens shall be folded together***, that is: just as no one can read what is in a closed book, so they will not be able to foresee in the heavens the evils coming to them: *the heaven departed as a book folded up* (Rev 6:14).
+in the second, the destruction of their enemies: ***woe to you that spoils*** (ch. 33).  
 
-Second, he shows that worship of idols will cease: ***and all their host shall fall down***, or the ease with which these prophecies will be fulfilled: *the stars from heaven fell upon the earth* (Rev 6:13).
+**700**. Concerning the first, he does two things.  
 
-Third, he shows the effect of both: ***for my sword***, that is, my vengeance, ***is inebriated in heaven***, that is, I have carried out vengeance on the demons abundantly: *I will make my arrows drunk with blood, and my sword shall devour flesh* (Deut 32:42).
+First, he foretells the status of the liberated, as to the equity of the king: ***a king shall reign***, namely, Ezechias: *a king shall reign, and shall be wise* (Jer 23:5); as to the prosperity of the people: ***and princes shall rule in judgment***. As to consolation in tribulation: ***and a man shall be as when one is hid from the wind***, above: ***there shall be a tabernacle for a shade in the daytime from the heat*** (Isa 4:6). As to amendment in spiritual matters: ***the eyes of them that see***, namely, the prophets, ***shall not be dim***, as before, because of the sins of the king and the people, but shall receive clear visions from the Lord; ***and the ears***, namely, of their subjects, ***shall hearken***, fulfilling the precepts of the Lord given by the prophets. ***The heart of fools***, who formerly erred following idols; ***and the tongue of stammerers***, the prophets, who formerly spoke obscurely and enigmatically: *wisdom opened the mouth of the dumb, and made the tongues of infants eloquent* (Wis 10:21). And also as to their consequent liberty, namely, from tyrants: ***the fool shall no more be called prince***, namely, Sennacherib, to whom formerly they paid tribute, as is evident in 2 Kings 18:14. *I will deliver them out of the hand of the king of the Assyrians* (Ezek 24). *(Cf. Ezekiel 24:27; Isaiah 38:6.)*  
 
-**737**. ***Behold it shall come down upon Idumea***. Here he threatens the Idumeans in particular, who came with the enemies against Jerusalem, as it says in Obadiah 1:11: *when strangers carried away his army captive*. And concerning this, he does three things:
+**701**. Second, he describes the manner of liberation: ***for the fool***.  
 
-first, he threatens the slaughter of their men;
+And first, he describes the affliction;  
 
-second, the destruction of their land: ***and the streams thereof shall be turned into pitch*** (Isa 34:9);
+second, the liberation: ***until the spirit be poured upon us*** (Isa 32:15).  
 
-third, he sets out the confirmation of both of these threats, where it says, ***search*Respicite*. Vg.: *requirite*. diligently in the book of the Lord*** (Isa 34:16).
+Concerning the first, he does two things:  
 
-**738**. Concerning the first, he does three things.
+first, he describes the enemy who persecutes them;  
 
-First, he describes the fairness of the punishment: ***behold it shall come down upon Idumea***, to crush them; ***the people of my slaughter***, deserving to be slaughtered by me: *I have brought the destruction of Esau upon him* (Jer 49:8).
+second, the persecution: ***rise up, you rich women*** (Isa 32:9).  
 
-Second, he describes the killing as to those of middle rank, setting out the diversity of those killed: ***the sword of the Lord is filled with blood, it is made thick with the blood of lambs and buck goats, with the blood of rams***, through all of which are to be understood the various ranks of those killed: *this is the sword of a great slaughter* (Ezek 21:14); and the magnitude of the killing: ***there is a victim of the Lord in Bosra and a great slaughter in the land of Edom***, that is, many animals are killed, as in a banquet of a great king: *I slay for you a great victim* (Ezek 39:17). And as to the great, setting out their killing: ***and the unicorns***, a fierce animal the size of a cat, with one horn, and thus it signifies the powerful and monarchs, ***shall go down***, into death, above: ***their strong ones, and their high and glorious ones shall go down into it*** (Isa 5:14); and the magnitude of the killing, ***their land shall be soaked with blood***: *the land was killed*Interfecta*. Vg.: *infecta*. DR: “polluted.” with blood* (Ps 105[106]:38).
+Concerning the first, he sets out three things.  
 
-Third, he sets out the reason of the punishment: ***for it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Zion***, namely, that Zion be vindicated against the Idumeans, below: ***the day of vengeance is in my heart, the year of my redemption is come*** (Isa 63:4); but, according to the Gloss: ***the judgment of Zion***, that is, against Zion; hence it explains everything that follows as concerning the destruction of Jerusalem by the Romans.
+First, the wickedness of the king himself, as to the blasphemy of his mouth: ***the fool***, namely, Sennacherib, ***will speak foolish things***, blasphemous words, below (Isa 37:17). *The mouth of fools bubbles out folly* (Prov 15:2); as to the duplicity of his heart: ***his heart will work iniquity***, promising good land to the people, ***to the Lord deceitfully***, saying he has come by his command, below (Isa 36:10). *The thoughts of the just are counsels* *(*Consilia*. Vg.: *judicia*. DR: “judgments.”)* (Prov 12:5); as to the cruelty of his work: ***to make empty the soul of the hungry***, despoiling them of the things by which they ought to have been nourished, against what it says in Proverbs 25:21: *if your enemy be hungry, give him to eat*.  
 
-**739**. ***And the streams thereof shall be turned into pitch***. Here he sets out the threat as to the destruction of the land. And concerning this he does three things:
+**702**. Second, the malice of his princes: ***the vessels***, that is, the messengers and princes, ***of the deceitful***, namely, of Sennacherib: *a prince that gladly hears lying words, has all his servants wicked* (Prov 29:12); and the execution of their malice: ***for he***, namely, Rabsaces, about whom, see below (36), ***will frame*** (*concinnabit*), that is, compose, ***devices***—cinnus is a kind of drink composed of different kinds of things; ***the poor man***, the Jew: *your mouth has abounded with evil, and your tongue framed deceits* (Ps 49[50]:19).  
 
-first, he foretells the destruction;
+**703**. Third, the prudence of Ezechias in his reign: ***the prince***, for Ezechias commanded that no one should respond to Sennacherib, *(2 Kings 18:36.)* above: ***I will restore your princes *(*Principes*. Vg.: *iudices*. DR: “judges.”)* as they were before*** (Isa 1:26).  
 
-second, the desolation of the destroyed land: ***it shall lie waste*** (Isa 34:10);
+**704**. ***Rich women***. Here he describes the persecution inflicted on them as to three things.  
 
-third, the horror of its desolation: ***and it shall be the habitation of dragons*** (Isa 34:13).
+First, as to the loss of fruits, stirring up attention: ***you women***, who cry easily, ***rich***, who have reason to cry from the ruin of their goods; or ***you women***, that is, you feeble Jews: *they that trust in their own strength, and glory in the multitude of their riches* (Ps 48:7[49:6]). And he sets out the determination of the time: ***after*** several ***days and*** one ***year***: *for tribulation is very near: for there is none to help me* (Ps 21:12[22:11]). And he sets out the loss of fruits: ***the vintage is at an end***, destroyed, ***the gathering***, of crops, ***shall come no more***, into our houses from the fields: *the joy* of the vintage *is taken away* (Jer 48:33).  
 
-Concerning the first, he sets out two things:
+**705**. Second, as to the devastation of the fields, he prescribes mourning, ***be astonished***: *I have put off the robe of peace* (Bar 4:20), above: ***and the Lord in that day shall call to weeping*** (Isa 22:12). And he foretells harm: ***upon the land***, above: ***briers and thorns shall come up*** (Isa 5:6) over it.  
 
-first, the destruction: ***shall be turned into***, that is, the whole land shall be so burned up by their enemies, as if the water were pitch and the land brimstone: *fire and brimstone, and storms of winds* (Ps 10:7[11:6]).
+**706**. Third, as to the desolation of their cities and houses, he sets out the desolation itself: ***how much more***, namely, to be wept for, ***the city that rejoiced***, namely, Jerusalem, whose lower part was handed over to the Assyrians, above: ***a populous city, a joyous city*** (Isa 22:2). And the magnitude of the desolation as to the houses, for they were reduced to perpetual darkness, as happens to ruined buildings: ***and darkness***: *they shall grope in* *(*In*. Vg.: *quasi in*. DR: “as in.”)* *the dark, and not in the light* (Job 12:25); and as to their fields: ***a joy of wild asses***, which dwell in great wildernesses: *a wild ass accustomed to the wilderness* (Jer 2:24).  
 
-Second, he places the duration of the punishment: ***it shall not be quenched***, that is, the effect of this fire will remain forever; ***smoke***, the sign and memory of preceding fire: *her smoke ascends for ever and ever* (Rev 19:3); and this is to be understood as being while the cause of the threat remains, namely, sin: for thus all prophecies of this sort are to be explained conditionally inasmuch as the Lord himself explains himself: *I will suddenly speak against a nation . . . If that nation against which I have spoken, shall repent of their evil, I also will repent of the evil that I have thought* (Jer 18:7–8).
+**707**. ***Until the spirit be poured upon us***. Here he describes their liberation.  
 
-**740**. ***It shall lie waste for ever and ever***. Here he sets out the desolation of the land,
+And first, he sets out the consolation of the Jews;  
 
-and first, he foretells the desolation itself as to inhabitants: ***it shall lie waste***: *he has made me desolate* (Lam 1:13); as to travelers, ***none shall pass through it***: *no man shall abide there, nor son of man inhabit it* (Jer 49:33). As to the free habitation of beasts: ***the bittern***, which is the same as the pelican, ***shall possess it***, as if without fear, ***and the ibis***, a bird hostile to snakes:Cf. Herodotus 2.76; Pliny the Elder, *N.H*. 10.40; Isidore, *Etymologies* 12.7.33. “ibex, ibicis” is a four-footed beast; “ibis, ibidis” is a bird, and the ibis is envious: *the highest of them is the house of the heron . . . the rock is a refuge for the irchins* (Ps 103[104]:17–18).
+second, the destruction of their enemies: ***but hail*** (Isa 32:19);  
 
-Second, he sets out the fairness of the desolation,
+third, the prophet’s congratulation: ***blessed are you that sow*** (Isa 32:20).  
 
-and first, the judgment of fairness: ***and a line shall be stretched upon it***, the measure of the punishment against the measure of their fault, ***a plummet***, the rule of the stone-cutter, above: ***in measure against measure*** (Isa 27:8);
+Concerning the first, he sets out three things.  
 
-second, he sets out the manner of judgment: ***the nobles thereof***, in whom they boasted: *I will take away out of the midst of you your proud boasters* (Zeph 3:11). ***And thorns and nettles shall grow up in its houses***, which they built so carefully, ***and the thistle***,*Palliurus*. a kind of plant with many thorns, which sticks to cloaks,*Pallia*. having broad leaves: *nettles shall inherit their beloved silver, the bur shall be in their tabernacles* (Hos 9:6), so that *as much as she has glorified herself and lived in delicacies, so much torment shall she have* (Rev 18:7).
+First, divine consolation: these things, I say, will happen, when Sennacherib lays waste the land, ***until the spirit***, divine consolation, ***be poured upon us***: *you shall know that I am the Lord, for I will send spirit into you, and you shall live* (Ezek 37:5–6).  
 
-**741**. ***And it shall be the habitation of dragons***. Here he shows the horror of the desolation from the monsters which dwelt there: ***demons***, monsters of demons, which appear most in deserts; ***onocentaur***, which is half ass and half ox, or this is the illusion of a demon rather than a natural animal; ***the hairy ones***, an ape, or a wild man, or a demon incubus; ***lamia***, having the feet of a horse and the other members of a woman; cried out ***one to another***, above: ***wild beasts shall rest there*** (Isa 13:21).
+**708**. Second, the manner and order of the consolation, as to the fertility of the land: ***and the desert shall be as Carmel, and Carmel shall be counted for a forest***; that is, your land, formerly a desert, will be so fertile like Carmel, that Carmel’s fertility will be considered barrenness in comparison to your land; above (Isa 29:19) has the same thing. As the observation of justice: ***and judgment shall dwell***, above: ***Zion shall be redeemed in judgment*** (Isa 1:27). And as to the tranquility of peace: ***and the work***, that is, the effect, ***of justice shall be peace, and the service of justice quietness***, for it will be without the tumult of contentions and wars, above: ***Lord, you will give us peace*** (Isa 26:12).  
 
-**742**. ***Search***. Here he confirms all that was said by the authority of divine inspiration: ***search***, you who are to come, ***in the book of the Lord***, that is, in this book, which I learned from the Lord; ***not one of them was wanting***, that is, all the monsters I have named will be there; ***one has not sought for the other***, that is, the male for the female; ***his spirit it has gathered them***, namely, the monsters, male and female. ***And he has cast the lot for them***, distributing to each suitable places to stay: *heaven and earth shall pass away: but my words shall not pass away* (Luke 21:33). Or, if this is explained as concerning Judea, these various monsters are understood to be the various errors of the gentiles, who were placed there as colonists by the Romans.
+**709**. Third, he sets out the pleasant enjoyment of divine consolation: ***and my people shall sit in the beauty of peace***: *but he that shall hear me, shall rest without terror, and shall enjoy abundance* (Prov 1:33).  
 
-**743**. Man comes near to God (see Isa 34:1),
+**710**. ***Hail***, namely, of tribulation, ***in the descent of the forest***, that is, it shall descend from the Lord upon your enemies; ***the city***, Ninive, above: ***the high city he shall lay low*** (Isa 26:5).  
 
-through the reception of grace: *we have access through him* (Rom 5:2);
+**711**. ***Blessed are you that sow***. Here he shows the prophet’s congratulation: ***upon waters***, that is, upon the places that are fertile from the abundance of the waters; ***sending thither the foot of the ox and the ass***, not at the same time, for this was prohibited: *you shall not plough with an ox and an ass together* (Deut 22:10); *for you shall eat the labors of your hands: blessed are you, and it shall be well with you* (Ps 127[128]:2).  
 
-through the contemplation of divine wisdom: *come to God and be enlightened* (Ps 33:6[35:5]);
+**712**. Note on the words, ***the work of justice shall be peace***, that the peace of the saints in heaven will be beautiful,  
 
-through the ministry of obedience: *the sons of Sadoc, who among the sons of Levi, come near to the Lord, to minister to him* (Ezek 40:6);
+first, because it will not be false (Wis 15 *(Cf. Wisdom 3:3.)*);  
 
-through the expectation of firm confidence: *come to her as one that ploughs, and sows* (Sir 6:19);
+second, because it will not be interrupted, above: ***and there shall be no end of peace*** (Isa 9:7);  
 
-through the spirit of concord: *you have**Habetis*. Vg.: *habemus* DR: “we have.” *access in one Spirit to the Father* (Eph 2:18).
+third, because it will be full: *he has placed peace in your borders* (Ps 147:14).  
 
-Chapter 35
+**713**. Note also on the peace to come that three things make it desirable:  
+
+first, the strength of divine power: *they that trust in the Lord shall be as mount Zion: he shall not be moved for ever that dwells in Jerusalem* (Ps 124[125]:1–2);  
+
+second, the purity of one’s own conscience: *you shall walk confidently in your way, and your foot shall not stumble* (Prov 3:23);  
+
+third, the removal of hostile wickedness: *have confidence. I have overcome the world* (John 16:33).  
+
+**714**. Note also on the words, ***blessed are you that sow upon waters***, that the teaching of the Lord is water:  
+
+first, because it abounds: *I, wisdom, have poured out rivers* (Sir 24:40);  
+
+second, because it cools: *as cold water to a thirsty soul* (Prov 25:25);  
+
+third, because it makes fruitful, below: ***as the rain comes down from heaven, and returns no more thither, but soaks the earth, and makes it to spring, so shall my word be, which shall go forth from my mouth*** (Isa 55:10–11);  
+
+fourth, because it carries quickly: *it shall become in him a fountain of water, springing up into life everlasting* (John 4:14);  
+
+fifth, because it conforms itself to each individually: *in the streets divide your waters* (Prov 5:16).

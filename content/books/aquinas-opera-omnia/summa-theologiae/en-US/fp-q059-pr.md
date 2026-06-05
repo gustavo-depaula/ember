@@ -1,9 +1,11 @@
-# Question 59 — In the next place we must treat of things concerning the will of the angels. In the first place we shall treat of the will itself; secondly, of its movement, which is love. Under the first heading there are four points of inquiry:
+# Question 59 — The Will of the Angels
 
-(1) Whether there is will in the angels?
+In the next place we must treat of things concerning the will of the angels. In the first place we shall treat of the will itself; second, of its movement, which is love.  
 
-(2) Whether the will of the angel is his nature, or his intellect?
+Under the first heading there are four points of inquiry:  
 
-(3) Is there free-will in the angels?
+(1) Whether there is will in the angels?  
 
-(4) Is there an irascible and a concupiscible appetite in them?
+- (2) Whether the will of the angel is his nature, or his intellect?
+- (3) Is there free-will in the angels?
+- (4) Is there an irascible and a concupiscible appetite in them?

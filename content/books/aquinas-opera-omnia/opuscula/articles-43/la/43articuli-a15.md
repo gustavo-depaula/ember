@@ -1,5 +1,0 @@
-# Articulus 15
-
-Ad quod dicendum, quod hoc potest capi dupliciter. Uno modo quod virtus Angeli non sit comprehensibilis ab aliquo inferiorum; et hoc modo inducitur in libro de causis, et a philosophis Platonicis: et Dionysius dicit, VI cap. caelestis hierarchiae: *quot quidem sunt et quales supercaelestium substantiarum ornatus, et qualiter secundum ipsas hierarchiae perficiuntur, solam manifeste scire dico deificam ipsarum hierarchiam; praeterea et ipsas cognovisse proprias virtutes et illuminationes, et ipsorum sanctam et supermundanam bonam ordinationem*. Impossibile est enim nos scire supercaelestium mentium ministeria. Hoc enim dicitur esse unicuique infinitum quod est ei incomprehensibile. Alio modo potest sic intelligi quod habeat infinitam virtutem supra ea quae infra ipsum sunt; et hoc est falsum et erroneum. Posset etiam dici virtus Angeli infinita inferius, quia non est finita per aliquam materiam corporalem in qua recipiatur, sicut sunt finitae virtutes formarum materialium. Est tamen simpliciter finita virtus Angeli secundum mensuram suae essentiae, quae finita est.
-
-Articulus 16

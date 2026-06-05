@@ -1,5 +1,7 @@
-# Quaestio 56 — Deinde considerandum est de praeceptis ad prudentiam pertinentibus. Et circa hoc quaeruntur duo.
+# Quaestio 56
 
-Primo, de praeceptis pertinentibus ad prudentiam.
+Deinde considerandum est de praeceptis ad prudentiam pertinentibus. Et circa hoc quaeruntur duo.  
 
-Secundo, de praeceptis pertinentibus ad vitia opposita.
+Primo, de praeceptis pertinentibus ad prudentiam.  
+
+- Secundo, de praeceptis pertinentibus ad vitia opposita.

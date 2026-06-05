@@ -1,5 +1,7 @@
-# Quaestio 42 — Deinde considerandum est de seditione. Et circa hoc quaeruntur duo:
+# Quaestio 42
 
-primo, utrum sit speciale peccatum.
+***Deinde considerandum est de seditione. Et circa hoc quaeruntur duo.***
 
-Secundo, utrum sit mortale peccatum.
+Primo, utrum sit speciale peccatum.  
+
+- Secundo, utrum sit mortale peccatum.

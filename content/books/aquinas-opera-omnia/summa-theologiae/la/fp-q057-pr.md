@@ -1,11 +1,10 @@
-# Quaestio 57 — Deinde quaeritur de his materialibus quae ab Angelis cognoscuntur. Et circa hoc quaeruntur quinque.
+# Quaestio 57
 
-Primo, utrum Angeli cognoscant naturas rerum materialium.
+Deinde quaeritur de his materialibus quae ab angelis cognoscuntur. Et circa hoc quaeruntur quinque.  
 
-Secundo, utrum cognoscant singularia.
+Primo, utrum angeli cognoscant naturas rerum materialium.  
 
-Tertio, utrum cognoscant futura.
-
-Quarto, utrum cognoscant cogitationes cordium.
-
-Quinto, utrum cognoscant omnia mysteria gratiae.
+- Secundo, utrum cognoscant singularia.
+- Tertio, utrum cognoscant futura.
+- Quarto, utrum cognoscant cogitationes cordium.
+- Quinto, utrum cognoscant omnia mysteria gratiae.

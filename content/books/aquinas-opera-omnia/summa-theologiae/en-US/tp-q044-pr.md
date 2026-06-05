@@ -1,9 +1,9 @@
-# Question 44 — We have now to consider each kind of miracle:
+# Question 44 — Christ’s Miracles Considered Specifically
 
-(1) The miracles which He worked in spiritual substances;
+***We have now to consider each kind of miracle:***
 
-(2) The miracles which He worked in heavenly bodies;
+(1) The miracles which He worked in spiritual substances;  
 
-(3) The miracles which He worked in man;
-
-(4) The miracles which He worked in irrational creatures.
+- (2) The miracles which He worked in heavenly bodies;
+- (3) The miracles which He worked in man;
+- (4) The miracles which He worked in irrational creatures.

@@ -1,123 +1,237 @@
-# C. 34 - Zedekiah transgresses the covenant
+# C. 32 - Allegory of the field
 
-***^34:1^ Verbum quod factum est ad Jeremiam a Domino, quando Nabuchodonosor rex Babylonis et omnis exercitus ejus, universaque regna terrae, quae erant sub potestate manus ejus, et omnes populi bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:***
+***Lectio 1***
 
-> ^34:2^ haec dicit Dominus Deus Israel: vade et loquere ad Sedeciam regem Juda, et dices ad eum: haec dicit Dominus: ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni.
+^32:1^ Verbum quod factum est ad Jeremiam a Domino in anno decimo Sedeciae regis Juda: ipse est annus octavus decimus Nabuchodonosor.  
 
-> ^34:3^ Et tu non effugies de manu ejus: sed comprehensione capieris, et in manu ejus traderis et oculi tui oculos regis Babylonis videbunt, et os ejus cum ore tuo loquetur, et Babylonem introibis.
+> ^32:2^ Tunc exercitus regis Babylonis obsidebat Jerusalem, et Jeremias propheta erat clausus in atrio carceris, qui erat in domo regis Juda:
 
-> ^34:4^ Attamen audi verbum Domini, Sedecia rex Juda. Haec dicit Dominus ad te: non morieris in gladio,
+> ^32:3^ Clauserat enim eum Sedecias rex Juda, dicens: quare vaticinaris, dicens: haec dicit Dominus: Ecce ego dabo civitatem istam in manus regis Babylonis, et capiet eam;
 
-> ^34:5^ sed in pace morieris, et secundum combustiones patrum tuorum regum priorum, qui fuerunt ante te, sic comburent te, et vae, domine, plangent te: quia verbum hoc ego locutus sum, dicit Dominus.
+> ^32:4^ Et Sedecias rex Juda non effugiet de manu Chaldaeorum, sed tradetur in manus regis Babylonis, et loquetur os ejus cum ore illius, et oculi ejus oculos illius videbunt:
 
-> ^34:6^ Et locutus est Jeremias propheta ad Sedeciam regem Juda universa verba haec in Jerusalem.
+> ^32:5^ et in Babylonem ducet Sedeciam, et ibi erit donec visitem eum, ait Dominus. Si autem dimicaveritis adversum Chaldaeos, nihil prosperum habebitis.
 
-> ^34:7^ Et exercitus regis Babylonis pugnabat contra Jerusalem et contra omnes civitates Juda, quae reliquae erant, contra Lachis et contra Azecha: hae enim supererant de civitatibus Juda, urbes munitae.
+> ^32:6^ Et dixit Jeremias: factum est verbum Domini ad me, dicens:
 
-> **184**. Quia Judaei adeo obstinati erant quod nec terrebantur tristibus, nec flectebantur laetis, decenter ejus comminationem et consolationem, et tertio contradictionem audientium ostendit:
+> ^32:7^ ecce Hanameel filius Sellum, patruelis tuus veniet ad te dicens: eme tibi agrum meum, qui est in Anathoth: tibi enim competit ex propinquitate ut emas.
 
-et primo in transgressione sententiae;
+> ^32:8^ Et venit ad me Hanameel filius patrui mei secundum verbum Domini ad vestibulum carceris, et ait ad me: posside agrum meum qui est in Anathoth in terra Benjamin: quia tibi competit haereditas, et tu propinquus es ut possideas. Intellexi autem quod verbum Domini esset.
 
-secundo in destructione scripturae, cap. 36: ***et factum est in anno quarto Joakim filii Josiae regis Juda***;
+> ^32:9^ Et emi agrum ab Hanameel filio patrui mei, qui est in Anathoth. Et appendi ei argentum septem stateres, et decem argenteos:
 
-tertio in persecutione prophetae, cap. 37: ***et regnavit rex Sedecias filius Josiae pro Jechonia filio Joakim***.
+> ^32:10^ et scripsi in libro et signavi et adhibui testes, et appendi argentum in statera;
 
-Circa primum duo.
+> ^32:11^ et accepi librum possessionis signatum, et stipulationes, et rata, et signa forinsecus.
 
-Primo convincuntur de transgressione, facto;
+> **170**. Hic consolatur eos facto.
 
-secundo, exemplo, 35 cap.: ***verbum quod factum est ad Jeremiam a Domino***.
+Et primo designat prophetiae tempus ex regis tempore: ***in anno decimo Sedeciae regis Juda: ipse est annus octavus decimus Nabuchodonosor***, ut colligitur ex his quae dicta sunt supra cap. 25: ***quia quartus annus Joakim erat primus Nabuchodonosor***.  
 
-Ostendit autem eos transgressores ex hoc quod etiam pactum quod ipsi cum Deo fecerant de liberatione servorum secundum legem, non servaverunt.
+Ex urbis obsidione: ***tunc exercitus regis Babylonis obsidebat Jerusalem***. Isa. 29: *circumdabo quasi sphaeram in circuitu tuo, et jaciam contra te aggerem, et munimenta ponam in obsidione tuam*. Et prophetae carcerem, ponens carceris miseriam: ***et Jeremias propheta erat clausus in atrio carceris***. Thren. 3: *circumaedificavit adversum me ut non egrediar, aggravavit compedem meum*.  
 
-Dividitur autem in partes duas.
+Et assignat causam: ***quare vaticinaris?*** quia praedicabat urbis captionem: ***ecce ego dabo civitatem istam in manus regis Babylonis***.  
 
-Primo ponitur quoddam alleviamentum malorum post foederis pactionem,
+Regis captivitatem: ***et Sedecias rex Juda non effugiet de manu Chaldaeorum***.  
 
-secundo ponitur comminatio post pacti initi transgressionem, ibi, ***verbum quod factum est ad Jeremiam a Domino***.
+Et bellorum adversitatem. ***Si autem dimicaveritis . . . nihil prosperum habebitis***. Supra 21: ***debellabo ego vos in manu extenta, et in brachio forti, et in furore, et in indignatione, et in ira grandi, et percutiam habitatores civitatis hujus***. Unde hoc capitulum, secundum historiam, est illi continuandum.  
 
-Circa primum duo.
+Secundo ponitur propheticum factum. ***Et dixit Jeremias***:  
 
-Primo ponit prophetiae titulum, in quo describit tempus: ***quando Nabuchodonosor***. Supra 1: ***ecce ego congregabo omnes cognitiones regnorum aquilonis, ait Dominus, et venient, et ponent unusquisque solium suum in introitu portarum Jerusalem***, etc.
+et primo ponitur emptio;  
 
-Secundo ponit prophetale verbum: ***haec dicit Dominus***: et facit tria.
+secundo facti expositio, ibi, ***et dedi librum possessionis Baruch***;  
 
-Primo ponit comminationem pro culpis praeteritis quantum ad destructionem civitatis; ***ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni***. Psalm. 73: *incenderunt igni sanctuarium tuum, in terra polluerunt tabernaculum nominis tui*.
+tertio expositionis confirmatio, ibi, ***et oravi ad Dominum***.  
 
-Et quantum ad captivitatem regis: ***et tu non effugies***, Thren. 2: *non fuit in diebus furoris Domini qui effugeret, et relinqueretur*.
+Circa primum tria.  
 
-Secundo ponit pro pacto inito remunerationem: ***attamen audi . . . non morieris***. Hoc quidem non fuit impletum, quia in pacto non mansit, fuitque confusione mortuus quoniam medicinam laxativam in convivio acceperat. Habac. 2: *vae qui potum dat amico suo, miscens fel suum, et inebrians ut aspiciat nuditatem ejus*. Et tamen quantum ad hoc potest dici impletum quod non fuit hostili gladio interfectus. Supra 22: ***non plangent eum, vae, frater, et vae, soror. Non concrepabunt ei, vae, domine, et vae, inclyte***.
+Primo ponitur venditoris invitatio ad emendum, ponens revelatum sibi invitationis verbum: ***ecce Hanameel veniet ad te . . . tibi enim competit***. Ne tribus commiscerentur, praeceperat Dominus ut possessiones venderentur illis qui essent de eadem cognatione, Num. 11, quod praecipue in possessionibus Levitarum observabatur.  
 
-Tertio tangit imminentem tribulationem, ut promissio sit acceptior: ***quia verbum hoc ego locutus sum***. Habac. 1: *ipse super omnem munitionem ridebit, et comportabit aggerem, et capiet eam*.
+Ponit etiam invitantis adventum: ***et venit ad me Hanameel filius patrui mei, secundum verbum Domini***, quod non potest incassum ire. Num. 23: *dixit, et non faciet; locutus est, et non implebit?*  
 
-Lectio 2
+Secundo ponitur emptio, ***intellexi***, prophetali spiritu; alias stultum videbatur tali tempore agrum emere: in quo etiam notatur prophetae obedientia. Supra 17: ***ego non sum turbatus te pastorem sequens, et diem hominis non desideravi, tu scis***.  
 
-***^34:8^ Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias foedus cum omni populo in Jerusalem, praedicans***
+Et ponitur pretii solutio: ***et appendi***, in statera ponderis, ***septem stateres***, idest siclos, quorum quilibet habet viginti obolos, Ezech. 45: *argenteos*, idem quod stateres.  
 
-> ^34:9^ ut dimitteret unusquisque servum suum, et unusquisque ancillam suam, Hebraeum, et Hebraeam liberos, et nequaquam dominarentur eis, idest in Judaeo, et fratre suo.
+Tertio ponitur emptionis confirmatio: ***scripsi in libro, et signavi***, sigillis venditoris, et testium, ***stipulationes***, quando uno interrogante, et alio respondente, roboratur contractus, ***rata***, idest ratificatio venditionis. Isa. 8: *adhibui mihi testes fideles* etc.  
 
-> ^34:10^ Audierunt ergo omnes principes et universus populus, qui inierant pactum ut dimitteret unusquisque servum suum et ancillam suam liberos, et ultra non dominarentur eis. Audierunt igitur, et dimiserunt.
+Lectio 2  
 
-> ^34:11^ Et conversi sunt deinceps, et retraxerunt servos suos et ancillas suas, quos dimiserant liberos, et subjugaverunt in famulos et famulas.
+^32:12^ Et dedi librum possessionis Baruch filio Neri filii Maasiae in oculis Hanameel patruelis mei, in oculis testium, qui scripti erant in libro emptionis, et in oculis omnium Judaeorum qui sedebant in atrio carceris.  
 
-> **185**. Hic ponitur comminatio post pacti transgressionem:
+> ^32:13^ Et praecepi Baruch coram eis, dicens:
 
-et primo ponitur pacti transgressio;
+> ^32:14^ haec dicit Dominus exercituum Deus Israel: sume libros istos, librum emptionis hunc signatum, et librum hunc qui apertus est, et pones illos in vase fictili, ut permanere possint diebus multis.
 
-secundo contra transgredientes comminatio ibi, ***et factum est verbum ad Jeremiam a Domino***.
+> ^32:15^ Haec enim dicit Dominus exercituum Deus Israel: adhuc possidebuntur domus, et agri, et vineae, in terra ista.
 
-Circa primum tria.
+> **171**. Hic ponitur emptionis expositio.
 
-Primo ponitur pactio: ***postquam percussit rex Sedecias foedus***, et etiam postquam fregit, ***ut dimitteret unusquisque***, secundum legem. Exod. 21: *si emeris servum Hebraeum, sex annis serviet tibi; in septimo egredietur liber gratis*. Et Levit. 25, prohibetur quod retineant de fratribus suis ut servos, neque opprimant per potentiam in servitute famulorum; sed quasi mercenarii, et coloni sint.
+Et primo tradit librum ***in oculis omnium Judaeorum qui sedebant in atrio carceris***, qui venerant ad consolandum et consultandum, quia res ad omnes pertinebat. Ezech. 12: *egredieris vespere coram eis sicut egreditur migrans*.  
 
-Secundo ponitur pacti ad tempus observatio: ***audierunt igitur, et dimiserunt***. Psal. 105: *cito fecerunt, obliti sunt operum ejus, et non sustinuerunt consilium ejus*.
+Secundo indicitur diligens custodia: ***et praecepi Baruch coram eis dicens: haec dicit Dominus exercituum Deus Israel: sume libros istos, librum emptionis hunc signatum, et librum hunc qui apertus est***, idest non sigillatus, ut quando mitterent, inspici posset. Oseae 12: *in manibus prophetarum assimilatus sum*.  
 
-Tertio ponitur pacti transgressio: ***et conversi sunt deinceps***. Oseae 7: *reversi sunt ut essent absque jugo, facti sunt quasi arcus dolosus*.
+Tertio assignantur in custodiam: ***et pones illos in vase fictili***.  
 
-Lectio 3
+***Haec dicit Dominus***. Hoc est quod Jeremias supra dixit se intellexisse verbum Dei. Zach. 8: *vinea dabit fructum suum, et terra dabit germen suum, et caelum dabit rorem suum*, etc.  
 
-***^34:12^ Et factum est verbum ad Jeremiam a Domino, dicens:***
+Lectio 3  
 
-> ^34:13^ haec dicit Dominus Deus Israel: ego percussi foedus cum patribus vestris in die qua eduxi eos de terra Aegypti, de domo servitutis, dicens:
+^32:16^ Et oravi ad Dominum postquam tradidi librum possessionis Baruch filio Neri, dicens:  
 
-> ^34:14^ cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebraeum, qui venditus est ei, et serviet tibi sex annis, et dimittes eum a te liberum. Et non audierunt patres vestri me, nec inclinaverunt aurem suam.
+> ^32:17^ heu, heu, heu, Domine Deus. Ecce tu fecisti caelum, et terram in fortitudine tua magna, et in brachio tuo extento. Non erit tibi difficile omne verbum,
 
-> ^34:15^ Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut praedicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo, in domo in qua invocatum est nomen meum super eam.
+> ^32:18^ qui facis misericordiam in millibus, et reddis iniquitatem patrum in sinum filiorum eorum post eos. Fortissime, magne, et potens, Dominus exercituum nomen tibi.
 
-> ^34:16^ Et reversi estis, et commaculastis nomen meum, et reduxistis unusquisque servum suum et unusquisque ancillam suam, quos dimiseratis ut essent liberi, et suae potestatis, et subjugastis eos ut sint vobis servi et ancillae.
+> ^32:19^ Magnus consilio, et incomprehensibilis cogitatu, cujus oculi aperti sunt super omnes vias filiorum Adam, ut reddas unicuique secundum vias suas, et secundum fructum adinventionum ejus.
 
-> ^34:17^ Propterea haec dicit Dominus: vos non audistis me ut praedicaretis libertatem unusquisque fratri suo, et unusquisque amico suo: ecce ego praedico libertatem, ait Dominus ad gladium, ad pestem et ad famem, et dabo vos in commotionem cunctis regnis terrae.
+> **172**. Hic ponitur expositionis confirmatio: quia enim verbis prophetae non credebant, impetrat divinam super hoc revelationem, ut dubitationi eorum satisfaciat:
 
-> ^34:18^ Et dabo viros qui praevaricantur foedus meum, et non observaverunt verba foederis quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones ejus:
+unde primo ponitur prophetae oratio;  
 
-> ^34:19^ principes Juda et principes Jerusalem, eunuchi et sacerdotes et omnis populus terrae, qui transierunt inter divisiones vituli:
+secundo Domini responsio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
 
-> ^34:20^ et dabo eos in manus inimicorum suorum, et in manus quaerentium animam eorum; et erit morticinum eorum in escam volatilibus caeli, et bestiis terrae.
+Circa primum tria.  
 
-> ^34:21^ Et Sedeciam regem Juda, et principes ejus dabo in manus inimicorum suorum, et in manus quaerentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
+Primo commendat divinam justitiam;  
 
-> ^34:22^ Ecce ego praecipio, dicit Dominus, et reducam eos in civitatem hanc, et praeliabuntur adversus eam, et capient eam, et incendent igni: et civitates Juda dabo in solitudinem, eo quod non sit habitator.
+secundo proponit juste inflictam poenam, ibi, ***qui posuisti signa***;  
 
-> **186**. Hic comminatur contra transgredientes.
+tertio miratur praecepti praeteriti causam, ibi, ***et tu dicis mihi, Domine Deus***.  
 
-Et primo ponit culpam patrum, ponens pactionem: ***ego percussi foedus***. Supra 31: ***non secundum pactum quod pepigi cum patribus vestris in die qua apprehendi manum eorum ut educerem eos de terra Aegypti, pactum quod irritum fecerunt*** etc.
+Justitia autem si adsit, facit hominem velle justa: unde ad executionem ipsius duo alia requiruntur, videlicet scire, et posse: unde ad perfectam executionem justitiae ostendit perfectionem scientiae, et potentiae.  
 
-Et transgressionem: ***et non audierunt***. Supra 11: ***non audierunt, nec inclinaverunt aurem suam, sed abierunt in pravitate cordis sui mali***.
+Et primo potentiae, ponens rerum creationem: ***ecce tu fecisti***. Supra 27: ***ego feci terram, et homines, et jumenta quae sunt super faciem terrae in fortitudine mea magna, et in brachio meo extento; et dedi eam ei qui placuit in oculis meis***. Et commendat potentiae perfectionem: ***non erit tibi difficile omne verbum***, ex quo tam magna fecisti. Luc. 1: *non erit impossibile apud Deum omne verbum*.  
 
-Et culpam filiorum, ponens pactionem: ***et conversi***, a transgressione patrum, ***in domo***, in templo. Isa. 64: *domus sanctificationis nostrae, et gloriae nostrae, ubi laudaverunt te patres nostri*, etc.
+Et subjungit justitiae executionem mixtam cum misericordia: ***qui facit misericordiam***, reddens bonis praemia, ***in millibus***, idest usque in mille generationes, ***in sinu filiorum***, saltem in unam generationem, ut misericordia poenae praeemineat. Exod. 20: *ego sum Dominus Deus tuus, fortis, zelotes, visitans iniquitatem patrum in filios in tertiam et quartam generationem eorum qui oderunt me*. Et prorumpit in potentiae condemnationem, ex quo potentia in misericordiae justitiam vertitur: ***fortissime***, inquantum omnia sustentat. Hebr. 1: *portans omnia verbo virtutis suae*. Job 9: *si fortitudo quaeritur, robustissimus est. **Magne***, inquantum virtutem ejus multitudo creaturarum non exhaurit, quin infinita adhuc producere possit, ***potens***, ad omnia faciendum. Sapient. 12: *subest enim tibi cum volueris, posse. **Dominus exercituum***, quantum ad gubernationem, et praecipue rationalium, caelestium, terrestrium et infernorum. Job 25: *numquid est numerus militum ejus?*  
 
-***Et transgressi estis, et commaculastis nomen meum***, transgrediendo. Exod. 20: *ne assumas nomen Dei tui in vanum*. Ezech. 36: *non propter vos ego faciam, domus Israel, sed propter nomen sanctum meum, quod polluistis, in gentibus ad quas intrastis*.
+Secundo ostendit perfectionem scientiae,  
 
-Secundo comminatur poenam: ***propterea haec dicit Dominus***: et circa hoc duo.
+primo communicans scientiae perfectionem: ***magnus consilio***, idest perfectus in sapientiae dispositione, ***et incomprehensibilis cogitatu***, humano. Job 36: *ecce Deus magnus vincens scientiam nostram*. Rom. 11: *o altitudo divitiarum sapientiae et scientiae Dei! quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus*.  
 
-Primo ponit comminationem communiter quantum ad omnes, praedicens occisionem: ***ecce ego praedico libertatem***, ut libere occidamini. Supra 15: ***qui ad gladium, ad gladium; qui ad famem, ad famem; et qui ad captivitatem, ad captivitatem***.
+Secundo ponit justitiae executionem: ***cujus oculi aperti sunt super omnes vias filiorum Adam***. Job 34: *oculi ejus super vias hominum, et omnes gressus eorum considerat*.  
 
-Et reliquiarum servitutem: ***et dabo viros . . . vitulum***; idest, quod pactum per divisionem vituli firmaverunt sacrificando Deo. Unde inolevit iste usus loquendi: percutere, vel ferire foedus. Thren. 1: *dedit me Dominus in manu de qua non potero effugere*.
+Lectio 4  
 
-Praedicit etiam devorationem cadaverum: ***et erit morticinum eorum in escam volatilibus caeli***. Ps. 73: *posuerunt morticina servorum tuorum escas volatilibus caeli, carnes sanctorum tuorum bestiis terrae*.
+^32:20^ Qui posuisti signa, et portenta in terra Aegypti usque ad diem hanc, et in Israel, et in hominibus, et tibi fecisti nomen sicut est dies haec.  
 
-Et quantum ad principes specialiter: ***et Sedeciam regem Juda, et principes ejus***. Deut. 28: *ducet te Dominus, et regem tuum quem constitues super te, in gentem quam ignoras tu, et patres tui. **Qui recesserunt a vobis***, aut alieni habebantur. Infra 37.
+> ^32:21^ Et eduxisti populum tuum Israel de terra Aegypti in signis, et in portentis, et in manu robusta, et in brachio extento, et in terrore magno;
 
-Secundo ponit expletionis ordinem: ***ecce ego praecipio***. Supra 12: ***dederunt portionem meam desiderabilem in desertum solitudinis, posuerunt eam in dissipationem, luxitque super me***.
+> ^32:22^ et dedisti eis terram hanc, quam jurasti patribus eorum ut dares eis, terram fluentem lacte et melle.
 
-Caput 35
+> ^32:23^ Et ingressi sunt, et possederunt eam. Et non obedierunt voci tuae, et in lege tua non ambulaverunt: omnia quae mandasti eis ut facerent, non fecerunt; et evenerunt eis omnia mala haec.
+
+> ^32:24^ Ecce munitiones exstructae sunt adversum civitatem, ut capiatur, et urbs data est in manus Chaldaeorum, et in manus regis Babylonis, qui praeliantur adversus eam, a facie gladii, et famis, et pestilentiae: et quaecumque locutus es acciderunt, ut tu ipse cernis.
+
+> **173**. Hic ponit poenam Judaeis inflictam ex divina justitia: quae ut ostendatur justa, tria facit.
+
+Primo ponit beneficiorum exhibitionem in liberatione miraculosa: ***usque ad diem hanc***, tua signa complentur. Vel tua fortitudo in salutem Israel, et aliorum apparet. Ps. 77: *fecit mirabilia in terra Aegypti, in campo Thaneos*.  
+
+Et in habitatione opulenta: ***et dedisti eis terram hanc***. Lev. 20: *possidete terram eorum quam dabo vobis in hereditatem, terram fluentem lacte et melle*.  
+
+Secundo ponit ingratitudinem: ***et ingressi sunt***. Deut. 32: *incrassatus est dilectus, et recalcitravit: incrassatus, impinguatus, dilatatus, dereliquit Deum factorem suum, et recessit a Deo salutari suo*. Isa. 1: *filios enutrivi, et exaltavi; ipsi autem spreverunt me*.  
+
+Tertio poenae inflictionem: ***et evenerunt***. Habac. 1: *ipse super omnem munitionem ridebit, et comportabit aggerem, et capiet eam*.  
+
+Lectio 5  
+
+^32:25^ Et tu dicis mihi, Domine Deus: eme agrum argento, et adhibe testes, cum urbs data sit in manus Chaldaeorum?  
+
+> **174**. Hic miratur divinam jussionem: ***et tu dicis mihi . . . eme agrum?*** quod mirum est, cum non sit nunc tempus emendi. Ezech. 7: *qui emit non laetetur, et qui vendit non lugeat: quia ira super omnem populum ejus*.
+
+Lectio 6  
+
+***^32:26^ Et factum est verbum Domini ad Jeremiam, dicens:***
+
+> ^32:27^ ecce ego Dominus Deus universae carnis. Numquid mihi difficile erit omne verbum?
+
+> ^32:28^ Propterea haec dicit Dominus: ecce ego tradam civitatem istam in manus Chaldaeorum, et in manus regis Babylonis, et capient eam,
+
+> ^32:29^ et venient Chaldaei praeliantes adversum urbem hanc, et succendent eam igni, et comburent eam, et domos in quarum domatibus sacrificabant Baal, et libabant diis alienis libamina ad irritandum me.
+
+> ^32:30^ Erant enim filii Israel, et filii Juda jugiter facientes malum in oculis meis ab adolescentia sua: filii Israel qui usque nunc exacerbant me in opere manuum suarum, dicit Dominus.
+
+> ^32:31^ Quia in furore, et in indignatione mea facta est mihi civitas haec, a die qua aedificaverunt eam usque ad diem istam, qua auferetur de conspectu meo,
+
+> ^32:32^ propter malitiam filiorum Israel, et filiorum Juda, quam fecerunt, ad iracundiam me provocantes ipsi, et reges eorum, et principes eorum, et sacerdotes et prophetae eorum, viri Juda, et habitatores Jerusalem.
+
+> ^32:33^ Et verterunt ad me terga, et non facies, cum docerem eos, et erudirem diluculo, et nollent audire ut acciperent disciplinam.
+
+> ^32:34^ Et posuerunt idola sua in domo in qua invocatum est nomen meum, ut polluerent eam,
+
+> ^32:35^ et aedificaverunt excelsa Baal, quae sunt in valle filii Ennom, ut initiarent filios suos, et filias suas Moloch: quod non mandavi eis, nec ascendit in cor meum ut facerent abominationem hanc, et in peccatum deducerent Judam.
+
+> ^32:36^ Et nunc propter ista, haec dicit Dominus Deus Israel ad civitatem hanc, de qua vos dicitis, quod tradetur in manus regis Babylonis in gladio, et in fame, et in peste:
+
+> ^32:37^ ecce ego congregabo eos de universis terris ad quas ejeci eos in furore meo, et in ira mea, et indignatione grandi: et reducam eos ad locum istum, et habitare eos faciam confidenter.
+
+> ^32:38^ Et erunt mihi in populum, et ego ero eis in Deum,
+
+> ^32:39^ et dabo eis cor unum, et viam unam, ut timeant me universis diebus, et bene sit eis, et filiis eorum post eos.
+
+> ^32:40^ Et feriam eis pactum sempiternum, et non desinam eis benefacere, et timorem meum dabo in corde eorum, ut non recedant a me,
+
+> ^32:41a^ et laetabor super eis cum bene eis fecero.
+
+> **175**. Hic ponitur Domini responsio.
+
+Et primo proponit potentiam suam: ***numquid mihi difficile erit omne verbum?*** Gen. 18: *quare risit Sara uxor tua dicens: numquid vero paritura sum anus? Num Deo quicquam est difficile?*  
+
+Secundo ostendit ex tali potentia juste inflictam poenam, praedicens poenam: ***propterea haec dicit Dominus***. Supra 19: ***erunt domus Jerusalem, et domus regum Juda sicut locus Tophet, immundae***.  
+
+Et subjungit culpam, ostendens culpae continuitatem: ***erant enim facientes malum in oculis meis ab adolescentia sua***, quando exierunt de Aegypto. Supra 3: ***peccavimus nos, et patres nostri ab adolescentia nostra usque ad diem hanc***.  
+
+Ostendens etiam culpae universalitatem: ***quia in furore, et in indignatione mea facta est mihi civitas haec a die qua aedificaverunt eam***. 1 Paral. 11:  
+
+***propter malitiam***. Isa. 3: *a planta pedis usque ad verticem non est in eo sanitas*. Supra 21. ***Posui faciem meam super civitatem hanc in malum, et non in bonum, ait Dominus***.  
+
+Ostendens etiam culpae gravitatem quantum ad divinum contemptum, ***et verterunt ad me terga***, per inobedientiam, ad modum contemnentium. Zach. 7: *verterunt ad me scapulas recedentes, et aures suas aggravaverunt, ne audirent*.  
+
+Quantum ad sacrilegium in pollutione templi: ***et posuerunt idola***. Supra 11: ***quid est quod dilectus meus in domo mea fecit scelera multa?***  
+
+Et quantum ad sacrilegium junctum homicidio: ***et aedificaverunt excelsa***. Psal. 105: *immolaverunt filios suos, et filias suas daemoniis*.  
+
+Tertio promittit misericordiam.  
+
+Et primo tangit desperationem: ***et nunc propter ista, haec dicit Dominus***: quia quantum ad omnia potens sum: sicut potenter punivi, ita potenter liberabo. ***Dicitis***, desperando, ***quod tradatur***. Supra 15: ***qui ad gladium, ad gladium; et qui ad famem, ad famem; et qui ad captivitatem, ad captivitatem***.  
+
+Secundo ponit promissionem: ***ecce ego vos***:  
+
+et primo promittit revocationem. ***Congregabo***: Ezech. 36: *tollam quippe vos de gentibus, et congregabo vos de universis terris, et adducam vos in terram vestram*. Et promittit revocatis securitatem: ***et habitare eos faciam confidenter***. Supra 23: ***in diebus illis salvabitur Juda, et Israel habitabit confidenter***.  
+
+Secundo promittit reversis prosperitatem:  
+
+et primo quantum ad bona spiritualia;  
+
+secundo quantum ad temporalia, ibi, ***et plantabo eos in terra ista***.  
+
+Circa primum tria.  
+
+Primo promittit sanctitatem, scilicet obedientiam ad Deum: ***et erunt mihi in populum***. Apoc. 21: *ipsi populus ejus erunt, et ipse Deus cum eis erit eorum Deus*.  
+
+Et concordiam ad proximum: ***et dabo eis cor unum***. Act. 4: *multitudinis credentium erat cor unum et anima una*.  
+
+Secundo sanctitatis firmitatem: ***et feriam eis pactum sempiternum, et non desinam eis benefacere***, quantum ad fructum sanctitatis quem tetigerat, ***timorem*** quantum ad sanctitatis donum. Isa. 55: *feriam vobiscum pactum sempiternum, misericordias David fideles*.  
+
+Tertio sanctitatis acceptationem: ***et laetabor***, idest acceptabo bona eorum. Psal. 103: *laetabitur Dominus in operibus suis*.  
+
+Lectio 7  
+
+^32:41b^ Et plantabo eos in terra ista, in veritate, in toto corde meo, et in tota anima mea;  
+
+> ^32:42^ quia haec dicit Dominus: sicut adduxi super populum istum omne malum hoc grande, sic adducam super eos omne bonum quod ego loquor ad eos.
+
+> ^32:43^ Et possidebuntur agri in terra ista, de qua vos dicitis, quod deserta sit, eo quod non remanserit homo, et jumentum, et data sit in manus Chaldaeorum.
+
+> ^32:44^ Agri ementur pecunia, et scribentur in libro, et imprimetur signum, et testis adhibebitur in terra Benjamin, et in circuitu Jerusalem, in civitatibus Juda, et in civitatibus montanis, et in civitatibus campestribus, et in civitatibus quae ad austrum sunt: quia convertam captivitatem eorum, ait Dominus.
+
+> **176**. Hic promittit bona temporalia:
+
+et primo firmam patriae habitationem: ***et plantabo***, ut non facile evellantur, ***in veritate***, sine simulatione, ***corde***, quantum ad cognitionem, ***anima***, quantum ad voluntatem. Supra 24: ***aedificabo eos, et non destruam; plantabo eos, et non evellam***.  
+
+Et confirmat per similitudinem: ***quia haec dicit Dominus: sicut adduxi super populum istum omne malum hoc grande, sic adducam super eos omne bonum***. Baruch. 4: *qui adduxit super vos mala, ipse vos eripiet de manibus inimicorum vestrorum*.  
+
+Secundo promittit liberam rerum possessionem ponens possessionis plenitudinem: ***et possidebuntur agri***. Isa. 34: *usque in aeternum possidebunt eam: in generatione et generationem habitabunt in ea*.  
+
+Secundo contractuum libertatem: ***agri ementur pecunia***. Psal. 125: *in convertendo Dominus captivitatem Sion, facti sumus sicut consolati*.

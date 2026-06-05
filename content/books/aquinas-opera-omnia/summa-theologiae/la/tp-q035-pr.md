@@ -1,19 +1,17 @@
-# Quaestio 35 — secundo, quantum ad nati manifestationem.
+# Quaestio 35
 
-Circa primum quaeruntur octo.
+***De nativitate Christi***
 
-Primo, utrum nativitas sit naturae, vel personae.
+Consequenter, post Christi conceptionem, agendum est de eius nativitate. Et primo, quantum ad ipsam nativitatem; secundo, quantum ad nati manifestationem.  
 
-Secundo, utrum Christo sit attribuenda alia nativitas praeter aeternam.
+Circa primum quaeruntur octo.  
 
-Tertio, utrum secundum nativitatem temporalem beata virgo sit mater eius.
+Primo, utrum nativitas sit naturae, vel personae.  
 
-Quarto, utrum debeat dici mater Dei.
-
-Quinto, utrum Christus secundum duas filiationes sit filius Dei patris et virginis matris.
-
-Sexto, de modo nativitatis.
-
-Septimo, de loco.
-
-Octavo, de tempore nativitatis.
+- Secundo, utrum Christo sit attribuenda alia nativitas praeter aeternam.
+- Tertio, utrum secundum nativitatem temporalem beata virgo sit mater eius.
+- Quarto, utrum debeat dici mater Dei.
+- Quinto, utrum Christus secundum duas filiationes sit filius Dei patris et virginis matris.
+- Sexto, de modo nativitatis.
+- Septimo, de loco.
+- Octavo, de tempore nativitatis.

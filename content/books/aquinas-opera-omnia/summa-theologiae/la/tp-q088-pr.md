@@ -1,9 +1,9 @@
-# Quaestio 88 — Deinde considerandum est de reditu peccatorum post poenitentiam dimissorum. Et circa hoc quaeruntur quatuor.
+# Quaestio 88
 
-Primo, utrum peccata per poenitentiam dimissa redeant simpliciter per sequens peccatum.
+Deinde considerandum est de reditu peccatorum post poenitentiam dimissorum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum aliquo modo per ingratitudinem redeant specialius secundum quaedam peccata.
+Primo, utrum peccata per poenitentiam dimissa redeant simpliciter per sequens peccatum.  
 
-Tertio, utrum redeant in aequali reatu.
-
-Quarto, utrum illa ingratitudo per quam redeunt, sit speciale peccatum.
+- Secundo, utrum aliquo modo per ingratitudinem redeant specialius secundum quaedam peccata.
+- Tertio, utrum redeant in aequali reatu.
+- Quarto, utrum illa ingratitudo per quam redeunt, sit speciale peccatum.

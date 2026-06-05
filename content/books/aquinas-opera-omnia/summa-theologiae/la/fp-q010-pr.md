@@ -1,13 +1,11 @@
-# Quaestio 10 — Deinde quaeritur de aeternitate. Et circa hoc quaeruntur sex.
+# Quaestio 10
 
-Primo, quid sit aeternitas.
+***Deinde quaeritur de aeternitate. Et circa hoc quaeruntur sex.***
 
-Secundo, utrum Deus sit aeternus.
+Primo, quid sit aeternitas.  
 
-Tertio, utrum esse aeternum sit proprium Dei.
-
-Quarto, utrum aeternitas differat a tempore.
-
-Quinto, de differentia aevi et temporis.
-
-Sexto, utrum sit unum aevum tantum, sicut est unum tempus et una aeternitas.
+- Secundo, utrum Deus sit aeternus.
+- Tertio, utrum esse aeternum sit proprium Dei.
+- Quarto, utrum aeternitas differat a tempore *(*differat a tempore.—differat ab aevo et tempore* codices et P*ab*; sed cf. art. 4*. -* Post *tempore* addunt ACDE *unde aeternitas*.)*.
+- Quinto, de differentia aevi et temporis.
+- Sexto, utrum sit unum aevum tantum, sicut est unum tempus et una aeternitas.

@@ -1,9 +1,9 @@
-# Quaestio 39 — Deinde considerandum est de bonitate et malitia doloris vel tristitiae. Et circa hoc quaeruntur quatuor.
+# Quaestio 39
 
-Primo, utrum omnis tristitia sit malum.
+Deinde considerandum est de bonitate et malitia doloris vel tristitiae. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum possit esse bonum honestum.
+Primo, utrum omnis tristitia sit malum.  
 
-Tertio, utrum possit esse bonum utile.
-
-Quarto, utrum dolor corporis sit summum malum.
+- Secundo, utrum possit esse bonum honestum.
+- Tertio, utrum possit esse bonum utile.
+- Quarto, utrum dolor corporis sit summum malum.

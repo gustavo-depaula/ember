@@ -1,9 +1,10 @@
-# Question 51 — thirdly, of their comparison with local movement.
+# Question 51 — Angels in Comparison with Bodies
 
-Under the first heading there are three points of inquiry:
+We next inquire about the angels in comparison with corporeal things; and in the first place about their comparison with bodies; second, of the angels in comparison with corporeal places; and, third, of their comparison with local movement.  
 
-(1) Whether angels have bodies naturally united to them?
+Under the first heading there are three points of inquiry:  
 
-(2) Whether they assume bodies?
+(1) Whether angels have bodies naturally united to them?  
 
-(3) Whether they exercise functions of life in the bodies assumed?
+- (2) Whether they assume bodies?
+- (3) Whether they exercise functions of life in the bodies assumed?

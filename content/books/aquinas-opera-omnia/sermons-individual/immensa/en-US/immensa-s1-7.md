@@ -1,3 +1,0 @@
-# Immensa.S1.7
-
-Hence, to all the truly penitent and to those having confessed, who are present at the office of Matins of this feast in person in the church where it is celebrated, one hundred [days’ indulgence]. To those who attend Mass, the same number. To those who take part in First Vespers of the feast, similarly one hundred. The same number to those in Second Vespers. To those who attend the offices of Prime, Terce, Sext, None, and Compline, forty for any of those hours. To those who personally appear through the octave of this feast at Matins, Vespers, Mass, and the aforesaid office hours, for each of the days of the octave he mercifully allots one hundred days in perpetuity.

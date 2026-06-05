@@ -1,5 +1,7 @@
-# Quaestio 113 — Deinde considerandum est de ironia. Circa quam quaeruntur duo.
+# Quaestio 113
 
-Primo, utrum ironia sit peccatum.
+***Deinde considerandum est de ironia. Circa quam quaeruntur duo.***
 
-Secundo, de comparatione eius ad iactantiam.
+Primo, utrum ironia sit peccatum.  
+
+- Secundo, de comparatione eius ad iactantiam.

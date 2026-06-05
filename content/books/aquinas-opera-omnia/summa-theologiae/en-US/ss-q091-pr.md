@@ -1,5 +1,7 @@
-# Question 91 — We must now consider the taking of the Divine name for the purpose of invoking it by prayer or praise. Of prayer we have already spoken (Question [83]). Wherefore we must speak now of praise. Under this head there are two points of inquiry:
+# Question 91 — Taking the Divine Name for the Purpose of Praise
 
-(1) Whether God should be praised with the lips?
+We must now consider the taking of the Divine name for the purpose of invoking it by prayer or praise. Of prayer we have already spoken (Q. 83). Wherefore we must speak now of praise. Under this head there are two points of inquiry:  
 
-(2) Whether God should be praised with song?
+(1) Whether God should be praised with the lips?  
+
+- (2) Whether God should be praised with song?

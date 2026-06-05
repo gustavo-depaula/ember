@@ -1,25 +1,17 @@
-# Quaestio 72 — Consequenter considerandum est de sacramento confirmationis. Et circa hoc quaeruntur duodecim.
+# Quaestio 72
 
-Primo, utrum confirmatio sit sacramentum.
+Consequenter considerandum est de sacramento confirmationis. Et circa hoc quaeruntur duodecim.  
 
-Secundo, de materia eius.
+Primo, utrum confirmatio sit sacramentum.  
 
-Tertio, utrum sit de necessitate sacramenti quod chrisma fuerit prius per episcopum consecratum.
-
-Quarto, de forma ipsius.
-
-Quinto, utrum imprimat characterem.
-
-Sexto, utrum character confirmationis praesupponat characterem baptismalem.
-
-Septimo, utrum conferat gratiam.
-
-Octavo, cui competat recipere hoc sacramentum.
-
-Nono, in qua parte.
-
-Decimo, utrum requiratur aliquis qui teneat confirmandum.
-
-Undecimo, utrum hoc sacramentum per solos episcopos detur.
-
-Duodecimo, de ritu eius.
+- Secundo, de materia eius.
+- Tertio, utrum sit de necessitate sacramenti quod chrisma fuerit prius per episcopum consecratum.
+- Quarto, de forma ipsius.
+- Quinto, utrum imprimat characterem.
+- Sexto, utrum character confirmationis praesupponat characterem baptismalem.
+- Septimo, utrum conferat gratiam.
+- Octavo, cui competat recipere hoc sacramentum.
+- Nono, in qua parte.
+- Decimo, utrum requiratur aliquis qui teneat confirmandum.
+- Undecimo, utrum hoc sacramentum per solos episcopos detur.
+- Duodecimo, de ritu eius.

@@ -1,11 +1,10 @@
-# Question 124 — We must now consider martyrdom, under which head there are five points of inquiry:
+# Question 124 — Martyrdom
 
-(1) Whether martyrdom is an act of virtue?
+We must now consider martyrdom, under which head there are five points of inquiry:  
 
-(2) Of what virtue is it the act?
+(1) Whether martyrdom is an act of virtue?  
 
-(3) Concerning the perfection of this act;
-
-(4) The pain of martyrdom;
-
-(5) Its cause.
+- (2) Of what virtue is it the act?
+- (3) Concerning the perfection of this act;
+- (4) The pain of martyrdom;
+- (5) Its cause.

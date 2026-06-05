@@ -1,9 +1,9 @@
-# Question 142 — We must now consider the vices opposed to temperance. Under this head there are four points of inquiry:
+# Question 142 — The Vices Opposed to Temperance
 
-(1) Whether insensibility is a sin?
+We must now consider the vices opposed to temperance. Under this head there are four points of inquiry:  
 
-(2) Whether intemperance is a childish sin?
+(1) Whether insensibility is a sin?  
 
-(3) Of the comparison between intemperance and timidity;
-
-(4) Whether intemperance is the most disgraceful of vices?
+- (2) Whether intemperance is a childish sin?
+- (3) Of the comparison between intemperance and timidity;
+- (4) Whether intemperance is the most disgraceful of vices?

@@ -1,9 +1,11 @@
-# Question 17 — We next consider falsity. About this four points of inquiry arise:
+# Question 17 — Falsity
 
-(1) Whether falsity exists in things?
+***We next consider falsity.***
 
-(2) Whether it exists in the sense?
+About this, four points of inquiry arise:  
 
-(3) Whether it exists in the intellect?
+(1) Whether falsity exists in things?  
 
-(4) Concerning the opposition of the true and the false.
+- (2) Whether it exists in the sense?
+- (3) Whether it exists in the intellect?
+- (4) Concerning the opposition of the true and the false.

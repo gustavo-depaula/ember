@@ -1,7 +1,8 @@
-# Quaestio 81 — Deinde considerandum est de sensualitate. Circa quam quaeruntur tria.
+# Quaestio 81
 
-Primo, utrum sensualitas sit vis appetitiva tantum.
+***Deinde considerandum est de sensualitate. Circa quam quaeruntur tria.***
 
-Secundo, utrum dividatur sensualitas in irascibilem et concupiscibilem, sicut in diversas potentias.
+Primo, utrum sensualitas sit vis appetitiva tantum.  
 
-Tertio, utrum irascibilis et concupiscibilis obediant rationi.
+- Secundo, utrum dividatur sensualitas in irascibilem et concupiscibilem, sicut in diversas potentias.
+- Tertio, utrum irascibilis et concupiscibilis obediant rationi.

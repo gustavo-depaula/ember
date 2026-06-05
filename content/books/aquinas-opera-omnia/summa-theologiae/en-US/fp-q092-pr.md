@@ -1,9 +1,9 @@
-# Question 92 — We must next consider the production of the woman. Under this head there are four points of inquiry:
+# Question 92 — The Production of the Woman
 
-(1) Whether the woman should have been made in that first production of things?
+We must next consider the production of the woman. Under this head there are four points of inquiry:  
 
-(2) Whether the woman should have been made from man?
+(1) Whether the woman should have been made in that first production of things?  
 
-(3) Whether of man's rib?
-
-(4) Whether the woman was made immediately by God?
+- (2) Whether the woman should have been made from man?
+- (3) Whether of man’s rib?
+- (4) Whether the woman was made immediately by God?

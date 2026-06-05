@@ -1,7 +1,8 @@
-# Quaestio 52 — Deinde considerandum est de augmento habituum. Et circa hoc quaeruntur tria.
+# Quaestio 52
 
-Primo, utrum habitus augeantur.
+***Deinde considerandum est de augmento habituum. Et circa hoc quaeruntur tria.***
 
-Secundo, utrum augeantur per additionem.
+Primo, utrum habitus augeantur.  
 
-Tertio, utrum quilibet actus augeat habitum.
+- Secundo, utrum augeantur per additionem.
+- Tertio, utrum quilibet actus augeat habitum.

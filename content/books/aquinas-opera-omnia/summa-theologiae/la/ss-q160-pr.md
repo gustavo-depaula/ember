@@ -1,7 +1,7 @@
-# Quaestio 160 — secundo, de singulis quae sub ea continentur.
+# Quaestio 160
 
-Circa primum quaeruntur duo.
+Deinde considerandum est de modestia. Et primo, de ipsa in communi; secundo, de singulis quae sub ea continentur. Circa primum quaeruntur duo.  
 
-Primo, utrum modestia sit pars temperantiae.
+Primo, utrum modestia sit pars temperantiae.  
 
-Secundo, quae sit materia modestiae.
+- Secundo, quae sit materia modestiae.

@@ -1,9 +1,9 @@
-# Quaestio 110 — Deinde considerandum est de praesidentia Angelorum super creaturam corporalem. Et circa hoc quaeruntur quatuor.
+# Quaestio 110
 
-Primo, utrum creatura corporalis administretur per Angelos.
+Deinde considerandum est de praesidentia angelorum super creaturam corporalem. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum creatura corporalis obediat Angelis ad nutum.
+Primo, utrum creatura corporalis administretur per angelos.  
 
-Tertio, utrum Angeli sua virtute possint immediate movere corpora localiter.
-
-Quarto, utrum Angeli boni vel mali possint facere miracula.
+- Secundo, utrum creatura corporalis obediat angelis ad nutum.
+- Tertio, utrum angeli sua virtute possint immediate movere corpora localiter.
+- Quarto, utrum angeli boni vel mali possint facere miracula.

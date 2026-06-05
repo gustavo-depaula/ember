@@ -1,9 +1,9 @@
-# Quaestio 11 — Post praemissa, considerandum est de divina unitate. Et circa hoc quaeruntur quatuor.
+# Quaestio 11
 
-Primo, utrum unum addat aliquid supra ens.
+Post praemissa, considerandum est de divina unitate. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum opponantur unum et multa.
+Primo, utrum unum addat aliquid supra ens.  
 
-Tertio, utrum Deus sit unus.
-
-Quarto, utrum sit maxime unus.
+- Secundo, utrum opponantur unum et multa.
+- Tertio, utrum Deus sit unus.
+- Quarto, utrum sit maxime unus.

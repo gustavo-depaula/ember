@@ -1,7 +1,8 @@
-# Quaestio 24 — Deinde considerandum est de libro vitae. Et circa hoc quaeruntur tria.
+# Quaestio 24
 
-Primo, quid sit liber vitae.
+***Deinde considerandum est de libro vitae. Et circa hoc quaeruntur tria.***
 
-Secundo, cuius vitae sit liber.
+Primo, quid sit liber vitae.  
 
-Tertio, utrum aliquis possit deleri de libro vitae.
+- Secundo, cuius vitae sit liber.
+- Tertio, utrum aliquis possit deleri de libro vitae.

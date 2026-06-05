@@ -2,7 +2,7 @@
 
 **PROOEMIUM**
 
-וְאַתֶּם כֹּהֲנֵי יְהוָה תִּקָּרֵאוּ מְשָׁרְתֵי אֱלֹהֵינוּ
+> וְאַתֶּם כֹּהֲנֵי יְהוָה תִּקָּרֵאוּ מְשָׁרְתֵי אֱלֹהֵינוּ
 
 In his verbis congrue tangitur materia huius secundae epistolae ad Corinthios. Nam in prima epistola agit apostolus de ipsis sacramentis, sed in hac secunda agit de ministris ipsorum sacramentorum, tam bonis, quam malis. Ratio autem hanc epistolam scribendi fuit, quod Corinthii, post praedicationem eius, admiserant pseudo-apostolos, quos apostolo praeferebant. Propter hoc scribit eis hanc epistolam, in qua commendat apostolos et ostendit verorum apostolorum dignitatem; ostendit etiam et vituperat falsorum apostolorum falsitatem.
 

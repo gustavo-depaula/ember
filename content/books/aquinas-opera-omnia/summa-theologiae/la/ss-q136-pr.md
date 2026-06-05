@@ -1,11 +1,10 @@
-# Quaestio 136 — Deinde considerandum est de patientia. Et circa hoc quaeruntur quinque.
+# Quaestio 136
 
-Primo, utrum patientia sit virtus.
+***Deinde considerandum est de patientia. Et circa hoc quaeruntur quinque.***
 
-Secundo, utrum sit maxima virtutum.
+Primo, utrum patientia sit virtus.  
 
-Tertio, utrum possit haberi sine gratia.
-
-Quarto, utrum sit pars fortitudinis. Quinto, utrum sit idem cum longanimitate.
-
-Quinto, utrum sit idem cum longanimitate.
+- Secundo, utrum sit maxima virtutum.
+- Tertio, utrum possit haberi sine gratia.
+- Quarto, utrum sit pars fortitudinis.
+- Quinto, utrum sit idem cum longanimitate.

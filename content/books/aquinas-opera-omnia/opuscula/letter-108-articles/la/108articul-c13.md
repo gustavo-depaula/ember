@@ -1,0 +1,5 @@
+# Articulus 12
+
+Quod vero duodecimo ponitur, *productio a natura et a voluntate potest intelligi tripliciter: a natura solum, aut a voluntate solum, aut a natura et voluntate simul: primo modo procedit filius, secundo modo creatura, tertio modo procedit spiritus sanctus*, quantum ad id quod obiiciens contra opponit, non magnam difficultatem habet. Sic enim potest dici filius a natura et spiritus sanctus a natura et voluntate procedere, sicut dicitur filius esse natura de natura, sapientia de sapientia, licet pater et filius sint una natura et una sapientia.  
+
+Sed magis videtur esse calumniosa ista distinctio, ex qua videtur relinqui spiritus sanctus quasi medio modo se habens inter filium et creaturam. Sicut igitur Deus pater filium non voluntate, sed natura produxit, ita de spiritu sancto sentiendum est: quod enim Deus producit voluntate, creatura est, ut Hilarius probat in Lib. de synodis. Dicitur tamen quod spiritus sanctus procedit per modum voluntatis, quia procedit ut amor, sicut et filius procedit per modum intellectus, inquantum procedit ut verbum: sicut tamen verbum procedit naturaliter a Deo dicente, ita et amor similiter a Deo amante.

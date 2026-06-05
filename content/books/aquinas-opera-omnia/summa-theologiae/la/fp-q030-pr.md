@@ -1,9 +1,9 @@
-# Quaestio 30 — Deinde quaeritur de pluralitate personarum. Et circa hoc quaeruntur quatuor.
+# Quaestio 30
 
-Primo, utrum sint plures personae in divinis.
+***Deinde quaeritur de pluralitate personarum. Et circa hoc quaeruntur quatuor.***
 
-Secundo, quot sunt.
+Primo, utrum sint plures personae in divinis.  
 
-Tertio, quid significent termini numerales in divinis.
-
-Quarto, de communitate huius nominis persona.
+- Secundo, quot sunt.
+- Tertio, quid significent termini numerales in divinis.
+- Quarto, de communitate huius nominis persona.

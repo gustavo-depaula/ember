@@ -1,9 +1,9 @@
-# Question 150 — We must now consider drunkenness. Under this head there are four points of inquiry:
+# Question 150 — Drunkenness
 
-(1) Whether drunkenness is a sin?
+We must now consider drunkenness. Under this head there are four points of inquiry:  
 
-(2) Whether it is a mortal sin?
+(1) Whether drunkenness is a sin?  
 
-(3) Whether it is the most grievous sin?
-
-(4) Whether it excuses from sin?
+- (2) Whether it is a mortal sin?
+- (3) Whether it is the most grievous sin?
+- (4) Whether it excuses from sin?

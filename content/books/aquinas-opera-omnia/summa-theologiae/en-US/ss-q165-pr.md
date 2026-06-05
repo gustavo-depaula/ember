@@ -1,5 +1,7 @@
-# Question 165 — We must now consider our first parents' temptation, concerning which there are two points of inquiry:
+# Question 165 — Our First Parents’ Temptation
 
-(1) Whether it was fitting for man to be tempted by the devil?
+We must now consider our first parents’ temptation, concerning which there are two points of inquiry:  
 
-(2) Of the manner and order of that temptation.
+(1) Whether it was fitting for man to be tempted by the devil?  
+
+- (2) Of the manner and order of that temptation.

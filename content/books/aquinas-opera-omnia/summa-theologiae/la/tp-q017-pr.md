@@ -1,13 +1,13 @@
-# Quaestio 17 — Deinde considerandum est de his quae pertinent ad unitatem in Christo in communi. Nam de his quae pertinent ad unitatem vel pluralitatem in speciali, suis locis determinandum est, sicut supra determinatum est quod in Christo non una est tantum scientia; et infra determinabitur quod in Christo non una est tantum nativitas.
+# Quaestio 17
 
-Considerandum est ergo
+***De unitate Christi quantum ad esse***
 
-primo, de unitate Christi quantum ad esse;
-secundo, quantum ad velle;
-tertio, quantum ad operari.
+Deinde considerandum est de his quae pertinent ad unitatem in Christo in communi. Nam de his quae pertinent ad unitatem vel pluralitatem in speciali, suis locis determinandum est, sicut supra determinatum est quod in Christo non una est tantum scientia; et infra determinabitur quod in Christo non una est tantum nativitas.  
 
-Circa primum quaeruntur duo.
+Considerandum est ergo primo, de unitate Christi quantum ad esse; secundo, quantum ad velle; tertio, quantum ad operari.  
 
-Primo, utrum Christus sit unum vel duo.
+Circa primum quaeruntur duo.  
 
-Secundo, utrum in Christo sit tantum unum esse.
+Primo, utrum Christus sit unum vel duo.  
+
+- Secundo, utrum in Christo sit tantum unum esse.

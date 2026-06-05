@@ -1,9 +1,9 @@
-# Quaestio 91 — Deinde considerandum est de productione corporis primi hominis. Et circa hoc quaeruntur quatuor.
+# Quaestio 91
 
-Primo, de materia ex qua productum est.
+Deinde considerandum est de productione corporis primi hominis. Et circa hoc quaeruntur quatuor.  
 
-Secundo, de auctore a quo productum est.
+Primo, de materia ex qua productum est.  
 
-Tertio, de dispositione quae ei per productionem est attributa.
-
-Quarto, de modo et ordine productionis ipsius.
+- Secundo, de auctore a quo productum est.
+- Tertio, de dispositione quae ei per productionem est attributa.
+- Quarto, de modo et ordine productionis ipsius.

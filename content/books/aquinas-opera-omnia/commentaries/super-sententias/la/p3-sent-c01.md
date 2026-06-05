@@ -1,0 +1,27 @@
+# Prologue
+
+***Job 26:13***
+
+*Spiritus ejus ornavit caelos, et obstetricante manu ejus, eductus est coluber tortuosus*.  
+
+> Creaturarum consideratio pertinet ad theologos et ad philosophos, sed diversimode. Philosophi enim creaturas considerant, secundum quod in propria natura consistunt: unde proprias causas et passiones rerum inquirunt; sed theologus considerat creaturas, secundum quod a primo principio exierunt, et in finem ultimum ordinantur qui Deus est: unde recte divina sapientia nominatur, quia altissimam causam considerat, quae Deus est. Unde dicitur Eccli. 42:17: *nonne Deus* *(The Vulgate (Vulg.) reads *Dominus*.)* *fecit sanctos* suos *enarrare omnia mirabilia sua?*
+
+Per modum istum in hoc secundo libro de creaturis agitur; unde materia ejus ex verbis praemissis accipi potest, ex quibus tria elicere possumus, scilicet rerum principium, principii ipsius actum et actus effectum.  
+
+Ex parte principii duo tanguntur, scilicet spiritus et manus: spiritus bonitatis vel voluntatis suae; sed manus potestatis. De hoc spiritu dicitur in Psalm. 103:30: *emitte Spiritum tuum et creabuntur*. Quia secundum Dionysium, 4 *De divin. nomin*., sicut sol radios suos emittit ad corporum illuminationem, ita divina bonitas radios suos, id est participationes sui, diffundit ad rerum creationem. Et ideo Augustinus, 1 *De doct. Christ*., cap. 32, dicit quod, inquantum bonus est, sumus. Istum spiritum negaverunt qui posuerunt Deum produxisse res ex necessitate naturae, et non ex liberalitate *(The Parma edition (1856) of Aquinas’s *Commentary on the Sentences* here reads: *libertate*.)* voluntatis; contra quos dicit Dionysius, *De div. nom*., cap. 4, quod divinus amor non permisit eum sine germine esse.  
+
+Sed de manu potestatis ejus in Psalm. 103:28: *aperiente te manum tuam, omnia implebuntur bonitate*. In manu siquidem ejus erant omnes fines terrae, quia ab aeterno non nisi ejus potestate erant. Aperta enim manu clave amoris, creaturae prodierunt. Haec est manus de qua dicit Isa. 59:1: *ecce non est abbreviata manus* ejus: quia infinita sua virtute rerum substantiam in esse producit. Hanc manum abbreviare voluerunt qui a Deo nihil fieri posse ex nihilo astruxerunt.  
+
+Et sic apparet in productione creaturarum, Trinitas personarum. In spiritu ipse Spiritus Sanctus, de quo dicitur Sap. 1:7: *Spiritus Domini replevit omnem terram*. *(Vulg.: *orbem terrarum*.)* In manu Filius, qui etiam brachium Patris dicitur Job 40:4: s*i habes brachium sicut Deus, et si voce simili tonas?* eo quod ipse est virtus et sapientia Dei, 1 Corinth. 1:24; et: *omnia per ipsum facta sunt*, Joan. 1:3. Sed in pronomine *ejus* persona Patris exprimitur cujus est et Filius et Spiritus Sanctus de quo dicitur Gen. 1:1: *in principio creavit Deus caelum et terram*.  
+
+Sed ex parte actus tangit etiam duo, scilicet ornatum, et obstetricationis officium. Ornatus pertinet ad dispositionem rerum, quia eas varia pulchritudine decoravit, ut dicitur Eccli. 42:21: *magnalia sapientiae suae decoravit*. De hac etiam pulchritudine Boetius, 3 *De consol*., dicit: . . . *pulchrum pulcherrimus ipso mundum mente gerens*.  
+
+Sed obstetricatio pertinet ad providentiae gubernationem, qua creaturas per se subsistere non valentes, ad modum obstetricis in esse conservat, necessaria in finem ministrat, et impedimenta repellit, etiam mala in bonum ordinando; unde dicitur Job 38:8, secundum similem metaphoram: *quis conclusit ostiis mare, quando erumpebat quasi de vulva procedens?*  
+
+Ex parte effectus duo tangit; scilicet caelum, et colubrum tortuosum. In caelo duo considerare possumus: scilicet stabilitatem, Proverb. 3:19: *stabilivit caelos prudentia*; et indeficientem claritatem, de qua Eccli. 24:6: *ego feci in caelis ut oriretur lumen indeficiens*. Unde per caelos intelligere possumus creaturas quae in decore suo firmiter perstiterunt.  
+
+Similiter in colubro tortuoso duo considerare possumus, scilicet obscuritatem, et obliquitatem. Primum in nomine colubri, *(Parma adds *obscuritatem intelligimus*, “by the name ‘serpent,’ we understand obscurity.”)* quia coluber dicitur quasi colens umbram, quae sonat in *(Parma omits *in*.)* privationem lucis. Obliquitatem in hoc quod dicitur tortuosum; distortum enim est quod rectitudine obliquatur. Et ideo per hunc colubrum tortuosum creaturae illae intelligi possunt quarum pulchritudo est per peccatum obscurata et rectitudo obliquata, et praecipue diabolum, cujus *invidia mors intravit in orbem terrarum*, Sap. 2:24, et de umbrositate ejus dicitur Job 40:16: *sub umbra dormit in secreto calami*; et de ejus tortuositate dicitur Isa. 27:1: *visitabit Dominus in gladio duo duro, et grandi, et forti super Leviathan serpentem vectem, et super Leviathan serpentem tortuosum, et occidet eum*. *(Vulg.: *cetum*.)*  
+
+Recte ergo caelos spiritus ornasse dicitur: quia in creaturis quae suum ordinem servaverunt, et divina bonitas clarius resplendet, et decoris ornatus immutatus non est. Recte etiam dicitur coluber tortuosus manu obstetricante eductus: quia in malis relucet etiam divina potentia per hoc quod cohibentur, et divina providentia per hoc quod eorum mala ordinantur in bonum.  
+
+Et sic patet materia hujus secundi libri, in quo de institutione creaturarum agitur, et lapsu per peccatum angeli et *(Parma: *vel*.)* hominis.

@@ -1,13 +1,11 @@
-# Question 11 — We must now consider the knowledge imprinted or infused in the soul of Christ, and under this head there are six points of inquiry:
+# Question 11 — The Knowledge Imprinted or Infused in the Soul of Christ
 
-(1) Whether Christ knows all things by this knowledge?
+We must now consider the knowledge imprinted or infused in the soul of Christ, and under this head there are six points of inquiry:  
 
-(2) Whether He could use this knowledge by turning to phantasms?
+(1) Whether Christ knows all things by this knowledge?  
 
-(3) Whether this knowledge was collative?
-
-(4) Of the comparison of this knowledge with the angelic knowledge;
-
-(5) Whether it was a habitual knowledge?
-
-(6) Whether it was distinguished by various habits?
+- (2) Whether, not turning to phantasms, He could use this knowledge?
+- (3) Whether this knowledge was collative?
+- (4) Of the comparison of this knowledge with the angelic knowledge;
+- (5) Whether it was a habitual knowledge?
+- (6) Whether it was distinguished by various habits?

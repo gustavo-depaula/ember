@@ -1,5 +1,7 @@
-# Question 35 — We next inquire concerning the image: about which there are two points of inquiry:
+# Question 35 — Image
 
-(1) Whether Image in God is said personally?
+We next inquire concerning the image: about which there are two points of inquiry:  
 
-(2) Whether this name belongs to the Son alone?
+(1) Whether Image in God is said personally?  
+
+- (2) Whether this name belongs to the Son alone?

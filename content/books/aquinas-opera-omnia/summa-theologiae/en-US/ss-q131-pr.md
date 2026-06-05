@@ -1,5 +1,7 @@
-# Question 131 — We must now consider ambition: and under this head there are two points of inquiry:
+# Question 131 — Ambition
 
-(1) Whether it is a sin?
+We must now consider ambition: and under this head there are two points of inquiry:  
 
-(2) Whether it is opposed to magnanimity by excess?
+(1) Whether it is a sin?  
+
+- (2) Whether it is opposed to magnanimity by excess?

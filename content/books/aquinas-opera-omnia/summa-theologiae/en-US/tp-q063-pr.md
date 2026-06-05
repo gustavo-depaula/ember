@@ -1,13 +1,11 @@
-# Question 63 — We have now to consider the other effect of the sacraments, which is a character: and concerning this there are six points of inquiry:
+# Question 63 — The Other Effect of the Sacraments, Which is a Character
 
-(1) Whether by the sacraments a character is produced in the soul?
+We have now to consider the other effect of the sacraments, which is a character: and concerning this there are six points of inquiry:  
 
-(2) What is this character?
+(1) Whether by the sacraments a character is produced in the soul?  
 
-(3) Of whom is this character?
-
-(4) What is its subject?
-
-(5) Is it indelible?
-
-(6) Whether every sacrament imprints a character?
+- (2) What is this character?
+- (3) Of whom is this character?
+- (4) What is its subject?
+- (5) Is it indelible?
+- (6) Whether every sacrament imprints a character?

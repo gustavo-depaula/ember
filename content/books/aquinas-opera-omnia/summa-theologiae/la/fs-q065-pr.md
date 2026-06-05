@@ -1,11 +1,10 @@
-# Quaestio 65 — Deinde considerandum est de connexione virtutum. Et circa hoc quaeruntur quinque.
+# Quaestio 65
 
-Primo, utrum virtutes morales sint ad invicem connexae.
+Deinde considerandum est de connexione virtutum. Et circa hoc quaeruntur quinque.  
 
-Secundo, utrum virtutes morales possint esse sine caritate.
+Primo, utrum virtutes morales sint ad invicem connexae.  
 
-Tertio, utrum caritas possit esse sine eis.
-
-Quarto, utrum fides et spes possint esse sine caritate.
-
-Quinto, utrum caritas possit esse sine eis.
+- Secundo, utrum virtutes morales possint esse sine caritate.
+- Tertio, utrum caritas possit esse sine eis.
+- Quarto, utrum fides et spes possint esse sine caritate.
+- Quinto, utrum caritas possit esse sine eis.

@@ -14,27 +14,56 @@
   },
   "composed": "c. 1252–1259",
   "languages": [
-    "en-US",
-    "la"
+    "en-US"
   ],
   "sources": [
     {
       "language": "en-US",
       "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
-    },
-    {
-      "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "description": "English translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository. The Geremia mirror for this work has the English column only; the Latin Leonine text is available separately at corpusthomisticum.org for a future paired import."
     }
   ],
   "toc": [
     {
+      "id": "ch-prooemium",
+      "title": {
+        "en-US": "Prooemium",
+        "la": "Prooemium"
+      }
+    },
+    {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1",
-        "la": "Caput 1"
+        "en-US": "Chapter 1 — Captive Zion's Sorrows",
+        "la": "Caput 1 — Captive Zion's Sorrows"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2",
+        "la": "Caput 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3",
+        "la": "Caput 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4",
+        "la": "Caput 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapter 5",
+        "la": "Caput 5"
       }
     }
   ]

@@ -1,9 +1,9 @@
-# Question 82 — We must now consider original sin as to its essence, and under this head there are four points of inquiry:
+# Question 82 — Of Original Sin, as to Its Essence
 
-(1) Whether original sin is a habit?
+We must now consider original sin as to its essence, and under this head there are four points of inquiry:  
 
-(2) Whether there is but one original sin in each man?
+(1) Whether original sin is a habit?  
 
-(3) Whether original sin is concupiscence?
-
-(4) Whether original sin is equally in all?
+- (2) Whether there is but one original sin in each man?
+- (3) Whether original sin is concupiscence?
+- (4) Whether original sin is equally in all?

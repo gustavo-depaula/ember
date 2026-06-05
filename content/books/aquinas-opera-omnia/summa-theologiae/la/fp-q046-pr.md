@@ -1,7 +1,8 @@
-# Quaestio 46 — Consequenter considerandum est de principio durationis rerum creatarum. Et circa hoc quaeruntur tria.
+# Quaestio 46
 
-Primo, utrum creaturae semper fuerint.
+Consequenter considerandum est de principio durationis rerum creatarum. Et circa hoc quaeruntur tria.  
 
-Secundo, utrum eas incoepisse sit articulus fidei.
+Primo, utrum creaturae semper fuerint.  
 
-Tertio, quomodo Deus dicatur in principio caelum et terram creasse.
+- Secundo, utrum eas incoepisse sit articulus fidei.
+- Tertio, quomodo Deus dicatur in principio caelum et terram creasse.

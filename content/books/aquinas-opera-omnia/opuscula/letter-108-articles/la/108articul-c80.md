@@ -1,0 +1,3 @@
+# Articulus 79
+
+Quod vero septuagesimo nono ponitur, *Deus vere est quidquid sibi est, intelligitur de his quae sibi est simpliciter, ut bonus, sapiens, et non de his quae sibi est secundum modum intelligendi, ut finitus, comprehensibilis*, addendum est secundum quendam modum intelligendi: quod enim dicitur, Deus esse sibi finitus vel comprehensibilis, non eodem modo dicitur sicut res aliae dicuntur finitae et comprehensibiles, sed quodam speciali modo, ut intelligatur magis negative dictum quam affirmative: dicitur enim sibi comprehensibiles, quia suum intellectum non excedit; finitus vero, quia non est sibi ignotus vel impertransibilis secundum intellectum; sed bonus et sapiens dicitur affirmative.

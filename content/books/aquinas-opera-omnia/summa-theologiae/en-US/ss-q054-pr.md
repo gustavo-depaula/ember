@@ -1,7 +1,8 @@
-# Question 54 — We must now consider negligence, under which head there are three points of inquiry:
+# Question 54 — Negligence
 
-(1) Whether negligence is a special sin?
+We must now consider negligence, under which head there are three points of inquiry:  
 
-(2) To which virtue is it opposed?
+(1) Whether negligence is a special sin?  
 
-(3) Whether negligence is a mortal sin?
+- (2) To which virtue is it opposed?
+- (3) Whether negligence is a mortal sin?

@@ -1,113 +1,115 @@
-# Chapter 36
+# Chapter 34
 
-> ^36:2^ Et misit rex Assyriorum Rabsacen de Lachis in Jerusalem ad regem Ezechiam in manu gravi, et stetit in aquæductu piscinæ superioris in via agri fullonis.
+^34:1^ Accedite gentes et audite, et populi attendite; audiat terra et plenitudo ejus, orbis et omne germen ejus.  
 
-> ^36:3^ Et egressus est ad eum Eliacim filius Helciæ qui erat super domum, et Sobna scriba et Joahe filius Asaph a commentariis.
+> ^34:2^ Quia indignatio Domini super omnes gentes et furor super universam militiam eorum, interfecit eos et dedit eos in occisionem,
 
-> ^36:4^ Et dixit ad eos Rabsaces: dicite Ezechiæ: hæc dicit rex magnus, rex Assyriorum: quæ est ista fiducia qua confidis?
+> ^34:3^ interfecti eorum projicientur et de cadaveribus eorum ascendet fœtor. Tabescent montes a sanguine eorum.
 
-> ^36:5^ Aut quo consilio et fortitudine rebellare disponis? Super quem habes fiduciam, quia recessisti a me?
+> ^34:4^ Et tabescet omnis militia cælorum, et complicabuntur sicut liber cæli, et omnis militia eorum defluit sicut defluit folium de vinea et de ficu,
 
-> ^36:6^ Ecce confidis super baculum arundineum confractum istum super Ægyptum, cui si innixus fuerit homo intrabit in manum ejus et perforabit eam; sic Pharao rex Ægypti omnibus qui confidunt in eo.
+> ^34:5^ quoniam inebriatus est in cælo gladius meus. Ecce super Idumæam descendet, et super populum interfectionis meæ ad judicium.
 
-> ^36:7^ Quod si responderis mihi: in Domino Deo nostro confidimus; nonne ipse est cujus abstulit Ezechias excelsa et altaria, et dixit Judæ et Jerusalem: coram altari isto adorabitis?
+> ^34:6^ Gladius Domini repletus est sanguine, incrassatus est adipe, de sanguine agnorum et hircorum, de sanguine medullatorum arietum; victima enim Domini in Bosra, et interfectio magna in terra Edom.
 
-> ^36:8^ Et nunc trade te domino meo regi Assyriorum, et dabo tibi duo millia equorum, nec poteris ex te præbere ascensores eorum.
+> ^34:7^ Et descendent unicornes cum eis, et tauri cum potentibus; inebriabitur terra eorum sanguine, et humus eorum adipe pinguium.
 
-> ^36:9^ Et quomodo sustinebis faciem judicis unius loci ex servis domini mei minoribus? Quod si confidis in Ægypto et in quadriga et in equitibus,
+> ^34:8^ Quia dies ultionis Domini annus retributionum judicii Sion.
 
-> ^36:10^ et nunc numquid sine Domino ascendi ad terram istam ut disperderem eam? Dominus dixit ad me: ascende super terram istam et disperde eam.
+> ^34:9^ Et convertentur torrentes ejus in picem, et humus ejus in sulphur, et erit terra ejus in picem ardentem
 
-> ^36:11^ Et dixit Eliacim et Sobna et Joahe ad Rabsacen: loquere ad servos tuos syra lingua, intelligimus enim; ne loquaris ad nos judaice in auribus populi qui est super murum.
+> ^34:10^ nocte et die; et non extinguetur in sempiternum, ascendet fumus ejus a generatione in generationem. Et desolabitur in sæcula sæculorum, non erit transiens per eam;
 
-> ^36:12^ Et dixit ad eos Rabsaces: numquid ad dominum tuum et ad te misit me dominus meus ut loquerer omnia verba ista, et non potius ad viros qui sedent in muro ut comedant stercora sua et bibant urinam pedum suorum vobiscum?
+> ^34:11^ et possidebunt illam onocrotalus et ericius, et ibix et corvus habitabunt in ea. Et extendetur super eam mensura ut redigatur ad nihilum, et perpendiculum in desolationem.
 
-> ^36:13^ Et stetit Rabsaces et clamavit voce magna judaice et dixit: audite verba regis magni, regis Assyriorum.
+> ^34:12^ Nobiles ejus non erunt ibi; regem potius invocabunt, et omnes principes ejus erunt in nihilum,
 
-> ^36:14^ Hæc dicit rex: non seducat vos Ezechias quia non poterit eruere vos,
+> ^34:13^ et orientur in domibus ejus spinæ et urticæ, et paliurus in munitionibus ejus. Et erit cubile draconum et pascua struthionum,
 
-> ^36:15^ et non vobis tribuat fiduciam Ezechias super Domino dicens: eruens liberabit nos Dominus, non dabitur civitas ista in manu regis Assyriorum.
+> ^34:14^ et occurrent dæmonia, onocentauris et pilosus clamabit alter ad alterum; ibi cubavit lamia et invenit sibi requiem,
 
-> ^36:16^ Nolite audire Ezechiam. Hæc enim dicit rex Assyriorum: facite mecum benedictionem et egredimini ad me et comedite unusquisque vineam suam et unusquisque ficum suam et bibite unusquisque aquam cisternæ suæ,
+> ^34:15^ ibi habuit foveam ericius et enutrivit catulos et circumfodit et fovit in umbra ejus, illuc congregati sunt milvi alter ad alterum.
 
-> ^36:17^ donec veniam et tollam vos ad terram quæ est ut terra vestra terram frumenti et vini, terram panum et vinearum.
+> ^34:16^ Requirite diligenter in libro Domini et legite: unum ex eis non defuit, alter alterum non quæsivit, quia quod ex ore meo procedit ille mandavit, et spiritus ejus ipse congregavit ea.
 
-> ^36:18^ Nec conturbet vos Ezechias dicens: Dominus liberabit nos. Numquid liberaverunt dii gentium unusquisque terram suam de manu regis Assyriorum?
+> ^34:17^ Et ipse misit eis sortem et manus ejus divisit eam illis in mensuram; usque in æternum possidebunt eam, in generatione et generationem habitabunt in ea.
 
-> ^36:19^ Ubi est deus Emath et Arphad? Ubi est deus Sepharvaim? Numquid liberaverunt Samariam de manu mea?
+> **734**. ***Accedite gentes*** etc. In parte ista comminatur <his> qui fuerunt Assyriis coadjutores,
 
-> ^36:20^ Quis est ex omnibus diis terrarum istarum qui eruerit terram suam de manu mea, ut eruat Dominus Jerusalem de manu mea?
+et primo communiter omnibus,  
 
-> ^36:21^ Et siluerunt et non responderunt ei verbum; mandaverat enim eis rex dicens: ne respondeatis ei.
+secundo specialiter Idumaeis, ibi ***ecce super Idumaeam*** etc.  
 
-> ^36:22^ Et ingressus est Eliacim filius Helciæ, qui erat super domum, et Sobna scriba et Joahe filius Asaph a commentariis ad Ezechiam scissis vestibus et nuntiaverunt ei verba Rabsacis.
+Circa primum duo.  
 
-> **750**. ***Et factum est in anno*** etc. Hic narrat per modum historiae destructionem Assyriorum.
+Primo excitat attentionem, <ponens> attentionis ordinem ut accedentes appropinquent, propinqui audiant et audientes attendant, infra xlix ***audite insulae*** etc. Et ponit convocatorum universalitatem: ***audiat terra**; **et orbis***, quantum ad mediocres, continens pro contento; ***plenitudo***, quantum ad majores, ***germen***, quantum ad minores: omnibus se paratum ad annuntiandum, non quod omnes possint audire, ostendit, Ps. *Domini est terra* etc.  
 
-Et primo ponit historiae gesta,
+**735**. Secundo ponit comminationem: ***quia indignatio***, quantum ad tria.  
 
-secundo quaedam ex historia occasionata, xxxviii cap. ***in diebus illis*** etc.
+Primo quantum ad destructionem populorum, ponens judicis, scilicet Dei, indignationem: ***indignatio Domini*** etc., supra xiv: ***haec est manus ejus*** etc., supra xxx ***ad perdendas gentes*** etc.; hominum necem: ***interfecit*** per auctoritatem, ***dedit***, quasi aliis ad interficiendum sicut executoribus, Zach. xi *ego tradam homines unumquemque* etc.; et cadaverum abjectionem: ***interfecti projicientur*** sine sepultura, Joelis secundo *ascendet foetor ejus* etc.  
 
-Prima dividitur in duas:
+Secundo quantum ad tyrannorum cessationem: ***tabescent montes***, tyranni, ***a sanguine***, id est propter culpam effusi sanguinis, infra lxiv ***a facie tua montes*** etc.  
 
-primo ponitur culpa quam in Judaeos commisit,
+Tertio quantum ad destructionem idolorum; et circa hoc tria.  
 
-secundo poena quam a Deo sustinuit, ibi ***egressus autem*** etc.
+**736**. Et primo ostendit cessaturum idolorum auxilium in bellis: ***tabescet**; **caelorum***, scilicet aereorum, id est daemones, vel ad litteram spiritus qui praesidebant sideribus secundum opinionem gentilium, supra xix ***movebuntur simulacra*** etc.; et in consiliis, in quantum scilicet divinabant in astris; ***et complicabuntur*** etc., id est: sicut in libro plicato non potest aliquid legi, ita nec in caelo poterunt mala eis futura praevidere, Apoc. vi *caelum recessit* etc.  
 
-Offendit autem eos tripliciter:
+Secundo ostendit cessaturum idolatriae cultum: ***et omnis militia*** etc., vel facilitatem impletionis praedictorum, Apoc. eodem *stellae caeli ceciderunt* etc.  
 
-primo bellis,
+Tertio ostendit utriusque effectivum: ***quoniam gladius***, id est ultio, ***inebriatus in caelo***, id est abundanter in daemonibus ultionem exercui, qui idolis praesidebant, Deut. xxxii *inebriabo sagittas* etc.  
 
-secundo nuntiis: ***et misit rex*** etc.,
+**737**. ***Ecce super Idumaeam***. Hic comminatur specialiter Idumaeis, qui cum hostibus contra Jerusalem venerunt, sicut dicitur in Abdia *quando capiebant alieni exercitum* etc. Et circa hoc tria facit:  
 
-tertio epistolis, ibi ***et audivit de Therancha*** etc.
+primo comminatur hominum interfectionem,  
 
-***Super omnes*** etc., Habacuc primo *super omnem munitionem* etc.
+secundo terrae destructionem: ***et convertentur***,  
 
-**751**. ***Et misit***. Hic ostendit qualiter offendit Judaeos comminando per nuntios.
+tertio ponit utriusque confirmationem, ibi ***respicite diligenter*** etc.  
 
-Et primo ponitur nuntiorum congregatio,
+**738**. Circa primum tria.  
 
-secundo ipsorum collocutio: ***et dixit ad eos*** etc.,
+Primo describit poenae aequitatem: ***ecce super Idumaeam***, ad opprimendam, ***interfectionis meae***, dignum a me interfici, Jer. xlix *perditionem Esau* etc.  
 
-tertio eorum ab invicem discessio: ***et ingressus est*** etc.
+Secundo describit interfectionem quantum ad mediocres, ponens interfectorum diversitatem: ***gladius enim*** etc., ***agnorum*** etc., per quae omnia intelliguntur diversi gradus interfectorum, Ez. xxprimo *hic est gladius occisionis* etc.; et necis magnitudinem: ***victima***, id est quasi sicut in convivio magni regis multa animalia interficiuntur, Ez. xxxix *ego immolo vobis victimam* etc.; et quantum ad majores, ponens eorum occisionem: ***et descendent*** in mortem ***unicornes***, animal in quantitate catti, atrocissimum, habens cornu unum, unde significat potentes et monarchas, supra v ***descendent fortes ejus*** etc.; et occisionis magnitudinem: ***inebriabitur*** etc. Ps. *interfecta est terra in sanguinibus* etc.  
 
-Circa primum duo.
+Tertio ponit poenae rationem: ***quia dies, judicii Sion***, ut scilicet vindicetur Sion de Idumaeis, infra lxii ***dies ultionis in corde*** etc.; tamen secundum Glossam: ***Sion***, id est contra Sion, unde omnia sequentia exponit de destructione Jerusalem facta per Romanos.  
 
-Primo describitur nuntius Assyriorum: ***Rapsacem***, quem dicunt fuisse filium Isaiae, alii Samaritanum; ***in aquaeductu***, de hoc supra vii.
+**739**. ***Et convertentur***. Hic ponit comminationem quantum ad terrae destructionem. Et circa hoc tria facit:  
 
-Secundo describuntur nuntii Judaeorum: ***et egressus Eliacim***, qui successit Sobnae qui tradidit inferiorem partem civitatis Assyriis, ut supra xxii; ***Sobna***, non ille de quo supra; ***a commentariis***, cancellarius regis, qui gesta in scriptum redigebat ad memorandum regi—unde commentor a comminiscor—.
+primo praedicit destructionem,  
 
-**752**. ***Et dixit ad eos***. Hic ponitur nuntiorum collocutio. Et circa hoc duo:
+secundo terrae destructae solitudinem: ***et desolabitur*** etc.,  
 
-primo prolocutio Rapsacis ad nuntios,
+tertio solitudinis horrorem: ***et erit cubile*** etc.  
 
-secundo ad alios, ibi ***et stetit Rapsaces*** etc.
+Circa primum duo ponit:  
 
-Circa primum tria.
+primo destructionem: ***convertentur***; id est ita tota terra comburetur ab hostibus ac si aquae essent pix, et terra sulphur, Ps. *ignis, sulphur et spiritus* etc.  
 
-Primo ponitur ipsius Rapsacis allocutio, in qua intendit astruere Ezechiae infirmitatem ad resistendum, excludendo defensionem Aegyptiorum: ***ecce confidis***; ***arundineum***, irrisorie, quia in Aegypto multae arundines; verum dicit quod Aegyptii tales erant, Ez. xxix *fuisti baculus arundineus* etc., sed falsum quod Ezechias in eis confiderat; excludendo etiam auxilium divinum: ***quod si responderis**; **cui abstulit***, quod fecit pro religione pervertit in sacrilegium, Deut. xii *cave ne offeras* etc.; excludendo etiam robur proprium: ***et nunc trade te***, quasi: nec equos habes nec equites ut uni principi exercitus resistere possis, supra xxxiii ***projecit civitates*** etc. Astruit etiam Senacherib potestatem ad impugnandum ex praecepto divino: ***quia si confidis*** etc., supra x ***contra populum furoris mei*** etc.
+Secundo ponit destructionis durationem: ***non extinguetur***, id est effectus illius incendii manebit semper, ***fumus***, signum et memoria praecedentis incendii, Apoc. xix *fumus ejus ascendet* etc.; et hoc intelligendum est manente causa comminationis, scilicet peccato: sic enim conditionaliter exponendae sunt omnes hujusmodi prophetiae, secundum quod ipse met Dominus exponit se, Jer. xviii *repente loquar* etc.  
 
-Secundo ponitur aliorum responsio: ***et dixit Eliacim***. ***In aure populi***, ne perturbetur, scientes quod dicitur Prov. xi *benedictione justorum* etc.
+**740**. ***Et desolabitur***. Hic ponit solitudinem,  
 
-Tertio ponitur responsionis irrisio: ***et dixit ad eos**; **urinam pedum***, quae fluit ad pedes, Thren. iv *qui nutriebantur* etc.
+et primo praedicit ipsam solitudinem quantum ad habitatores: ***desolabitur***, Thren. primo *posuit me desolatam* etc.; quantum ad viatores: ***non erit transiens***, Jer. xlix *non manebit ibi vir* etc.; quantum ad bestiarum liberam habitationem: ***et possidebunt***, quasi sine timore, ***onocrotalus***, idem quod pellicanus, ***ibis***, avis serpentibus inimica: est ibex quadrupes, ibis avis et invidus ibis, Ps. *herodii domus* etc.  
 
-**753**. ***Et stetit Rapsaces*** etc. Hic ponitur allocutio ipsius ad populum.
+Secundo ponit solitudinis aequitatem,  
 
-Et primo ponitur stultum ipsius verbum in quo terret minis: ***non poterit eruere vos*** etc., Judith v *quis est iste qui filios Israel* etc.; allicit promissis: ***haec dicit rex**; **benedictionem***, id est pactum quod vertetur in vestram benedictionem, vel: benedicite me sicut dominum vestrum; ***veniam*** de Aegypto ***ad terram***, scilicet Medorum, Gen. xxvii *det tibi Deus de rore caeli* etc.; provocat etiam exemplis: ***ne conturbet vos*** etc., Dan. xi *elevabitur et magnificabitur* etc.
+et primo aequitatis judicium: ***et extendetur mensura*** poenae contra mensuram culpae, ***perpendiculum***, regula caementarii, supra xxvii ***in mensura contra mensuram*** etc.;  
 
-Secundo ponit discretivi populi silentium: ***et siluerunt***, Prov. xi *qui decipit amicum suum* etc., Prov. xxvj *ne respondeas stulto* etc. ***Praeceperat***, ne verba blasphemiae multiplicaret aut populum deciperet.
+secundo ponit judicii modum: ***nobiles ejus***, in quibus gloriabantur, Soph. iii *auferam de medio tui* etc., ***orientur in domibus***, quas nimis curiosas aedificabant, ***paliurus***, quaedam herba multarum spinarum quae palliis adhaeret, lata habens folia, Oseae ix *desiderabile argenti* etc., ut sic *quantum glorificavit se* etc., Apoc. xviii.  
 
-**754**. ***Et ingressus*** etc. Hic ponitur discessio nuntiorum ab invicem.
+**741**. ***Et erit cubile***. Hic ostendit horrorem solitudinis ex monstris quae ibi habitabant: ***daemonia***, daemonum monstra quae in desertis plurimum apparent; ***onocentaurus***, quod est medius asinus et medius bos, vel illusio est daemonis potius quam naturale animal; ***pilosus***, simia vel homo sylvestris, vel daemon incubus; ***lamia***, habens cetera membra feminea, pedes equinos; ***alter ad alterum*** clamavit, supra xiii ***requiescent ibi bestiae*** etc.  
 
-Et primo reditus Judaeorum ad Ezechiam,
+**742**. ***Requirite***. Hic confirmat omnia quae dicta sunt ex auctoritate divinae inspirationis: ***requirite***, vos qui futuri estis, ***in libro Domini***, id est in hoc libro quem a Domino didici; ***unum ex eis non defuit***, id est omnia monstra quae dixi erunt ibi; ***alter alterum***, id est mas feminam; ***ea***, scilicet monstra, marem et feminam; ***sortem***, distribuens singulis loca apta ad manendum, Lucae xxj *caelum et terra transibunt*. Vel si exponatur de Judaea, intelliguntur per haec diversa monstra diversi Gentilium errores, qui ibi coloni a Romanis positi sunt.  
 
-secundo reditus Rapsacis ad Senacherib, ibi ***reversus est autem*** etc.
+**743**. Accedit homo ad Deum:  
 
-Circa primum duo:
+per susceptionem gratiae, Ro. v *accessum habemus per ipsum* etc.;  
 
-primo ponitur reditus nuntiorum et blasphemiae renuntiatio,
+per contemplationem divinae sapientiae, Ps. *accedite ad eum* etc.;  
 
-secundo ponitur Ezechiae oratio: ***et factum est cum audisset*** etc., ***scissis vestibus*** pro audita blasphemia, quod erat mos Judaeorum, ut patet Mt. xxvj.
+per ministerium oboedientiae, Ez. xl *filii Sadoc qui accedunt* etc.;  
 
-Caput 37
+per expectationem firmae fiduciae, Eccli. vii *quasi qui arat et seminat* etc.;  
+
+per spiritum concordiae, Eph. ii *habetis accessum in uno spiritu* etc.

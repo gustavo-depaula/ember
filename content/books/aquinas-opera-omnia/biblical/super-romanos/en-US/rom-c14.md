@@ -1,397 +1,393 @@
-# C. 14 - Avoidance of Scandal
+# C. 13 - Obedience and Love
+
+***Obedience and Love***
 
 ***Lecture 1***
 
-***The Lord is the only judge***
+***Obedience to hierarchical power***
 
-***^14:1^ Now him who is weak in faith, take unto you: not in disputes about thoughts. [n. 1081]***
+^13:1^ Let every soul be subject to higher powers. For there is no power except from God, and those who are ordained of God. [n. 1016]  
 
-> ^14:2^ For one believes that he may eat all things: but he who is weak, let him eat herbs. [n. 1083]
+> ^13:2^ Therefore, he who resists the power resists the ordinance of God. And they who resist purchase to themselves damnation. [n. 1025]
 
-> ^14:3^ Let him who eats despise not him who eats not: and he who eats not, let him not judge him that eats. For God has taken him to him. [n. 1089]
+> ^13:3^ For princes are not a terror to the good work, but to the evil. Do you will then to not fear power? Do what is good: and you will have praise from the same. [n. 1029]
 
-> ^14:4^ Who are you that judges another man’s servant? [n. 1092] To his own lord he stands or falls. And he shall stand: for God is able to make him stand. [n. 1094]
+> ^13:4^ For he is God’s minister to you for good. But if you do what is evil, be afraid: for he carries not the sword in vain. For he is God’s minister: an avenger to execute wrath upon him that does evil. [n. 1034]
 
-> ^14:5^ For one judges between day and day: and another judges every day. Let every man abound in his own sense. [n. 1097]
+> ^13:5^ Therefore one must be subject of necessity: not only for wrath, but also for conscience’s sake. [n. 1036]
 
-> ^14:6^ He who regards the day regards it unto the Lord. And he who eats, eats to the Lord: for he gives thanks to God. And he who eats not, to the Lord he eats not and gives thanks to God. [n. 1099]
+> ^13:6^ For therefore also you pay tribute. For they are the ministers of God, serving unto this purpose. [n. 1037]
 
-> ^14:7^ For none of us lives to himself: and no one dies to himself. [n. 1101]
+> ^13:7^ Render therefore to all men their dues. Tribute, to whom tribute is due: custom, to whom custom: fear, to whom fear: honor, to whom honor. [n. 1042]
 
-> ^14:8^ For if we live, we live unto the Lord: or if we die, we die unto the Lord. Therefore, whether we live or whether we die, we are the Lord’s. [n. 1103]
+> **1016**. After showing how man should behave toward God by using the gifts of his grace, the Apostle now shows how man could comport himself toward his neighbor.
 
-> ^14:9^ For to this end Christ died and rose again: that he might be Lord both of the dead and of the living. [n. 1104]
+First, in regard to superiors;  
 
-> ^14:10^ But you, why do you judge your brother? Or you, why do you despise your brother? For we shall all stand before the judgment seat of Christ. [n. 1105]
+second, toward all, at ***owe no man any thing*** (Rom 13:8).  
 
-> ^14:11^ For it is written: *as I live, says the Lord, every knee shall bow to me and every tongue shall confess to God*. [n. 1106]
+In regard to the first he does two things:  
 
-> ^14:12^ Therefore every one of us shall render an account to God for himself. [n. 1112]
+first, he urges men to the subjection owed to superiors;  
 
-> ^14:13^ Let us not therefore judge one another any more. [n. 1114]
+second, to show the sign of subjection, at ***wherefore be subject of necessity***.  
 
-> **1081**. After showing how one ought to become perfect, the Apostle now shows how the perfect should act toward the imperfect.
+In regard to the first he does three things:  
 
-First, he shows that they ought not scandalize or judge them;
+first, he proposes his teaching;  
 
-second, that they ought to uphold them, at ***we that are stronger*** (Rom 15:1).
+second, he assigns a reason, at ***for there is no power but from God***;  
 
-In regard to the first he does two things:
+third, he draws the conclusion, at ***therefore***.  
 
-first, he forbids improper judgments;
+**1017**. In regard to the first it should be noted that in the early Church some believers said that they should not be subject to earthly powers on account of the freedom they received from Christ, since it says in John: *if the Son makes you free, you will be free indeed* (John 8:36). But the freedom granted by Christ is a freedom of the spirit, by which we are set free of sin and death, as was said above: *the law of the Spirit of life in Christ Jesus has set me free from the law of sin and death* (Rom 8:2). The flesh, however, remains subject to slavery, as was stated above (Rom 7:14). Therefore, the time when a man freed by Christ will not be liable to any subjection, either spiritual or carnal, will be *when Christ delivers the kingdom to God the Father after destroying every rule and every authority and power* (1 Cor 15:24).  
 
-second, he forbids placing stumbling blocks before the weak, at ***but judge this rather*** (Rom 14:13).
+In the meantime, as long as we live in the flesh, we are subject to temporal rulers; hence it says in Ephesians: *servants, obey your masters in the flesh* (Eph 6:5). And that is what the Apostle says here: ***let every soul be subject to the higher powers***.  
 
-In regard to the first he does three things:
+What he calls higher powers are men established in power, to whom we owe subjection according to the order of justice: *be subject for the Lord’s sake to every human institution, whether it be to the emperor as supreme or to governors as sent by him* (1 Pet 2:13).  
 
-first, he gives an admonition;
+**1018**. And he says indefinitely ***higher powers*** so that we may subject ourselves to them by reason of the sublimity of their office, even if they are wicked: *be submissive to your masters, not only to the kind and gentle, but also to the overbearing* (1 Pet 2:18).  
 
-second, he explains it, at ***for one believes***;
+**1019**. The words ***every soul*** are to be taken as a synecdoche for *every man*, as we find in Genesis, *that soul shall be destroyed from among his people* (Gen 17:14).  
 
-third, he assigns a reason, at ***for God has taken him to him***.
+And he uses this figure of speech because we owe subjection to the authorities from the soul, i.e., from a pure will: *not serving to the eye, as though pleasing men, but from the soul with a good will* (Eph 6:6).  
 
-**1082**. In regard to the first it should be noted that in the early Church some of the Jews converted to Christ believed that the practices of the law must be observed along with the Gospel, as is clear from Acts (Acts 15:1). These the Apostle calls weak in the faith of Christ, as though not yet perfectly believing that faith in Christ is sufficient for salvation. He calls those perfect or strong in faith who believed that the faith of Christ was to be observed without the practices of the law. And there were some of both types among the believers in Rome.
+**1020**. Then when he says, ***for there is no power***, he presents the reason for this admonition:  
 
-Therefore, the Apostle addresses the perfect in faith, saying: We have said that you should put on the Lord Jesus Christ, ***take unto you***, i.e., join to yourselves in a spirit of charity and support, ***the man who is weak in faith***, to whom can be applied the words of Wisdom: *I am a man who is weak and short-lived, with little understanding of judgment and laws* (Wis 9:5); ***welcome one another, therefore, as Christ has welcomed you*** (Rom 15:7); *help a poor man for the commandment’s sake* (Sir 29:9). ***But not for disputes of opinions***, i.e., not discussing the fact that one’s opinion is contrary to another’s. For those who observed the practices of the law considered as violators those who did not observe them; and those who did not observe them despised as errant and ignorant those who did observe them: ***their conflicting thoughts accuse or perhaps excuse them*** (Rom 2:15).
+first, because subjection is honorable;  
 
-**1083**. Then when he says, ***for one believes***, he explains what he had said:
+second, because it is necessary, at ***he who resists***.  
 
-first, he shows who are weak in faith;
+In regard to the first he does two things:  
 
-second, how disputes over opinions are to be avoided, at ***let him who eats***.
+first, he presents two principles;  
 
-**1084**. In regard to the first it should be noted that among the observances of the law one dealt with distinguishing among foods, because some foods were forbidden in the law, as is clear from Leviticus 11:2 et seq.; and indeed every day it was necessary to apply this observance or not. Therefore, the Apostle mentions this in particular, saying: ***for one believes***, namely, the one perfect in faith, ***that he may eat all things***, since he does not consider himself bound to the observance of the law: *not what goes into the mouth defiles a man* (Matt 15:11); *everything created by God is good, and nothing is to be rejected if it is received with thanksgiving* (1 Tim 4:4).
+second, he concludes from them, at ***therefore, he who resists***.  
 
-**1085**. It was not because they were naturally unclean that certain foods were forbidden in the old law. For just as in the case of words, the word ‘fool’ signifies something not good, although the word itself is good, so in the case of animals, some animal is good according to its nature but evil in what it signifies, as a pig which signifies uncleanness. Therefore, the ancients were forbidden to eat its flesh, for in avoiding it they signified avoidance of uncleanness. For the entire life of that earlier people was centered on figures. But with the coming of Christ, who is the truth, the figures ceased.
+**1021**. First, therefore, he speaks about the source of power, saying: ***there is no power except from God***.  
 
-**1086**. He adds in regard to the weak: ***but he who is weak, let him eat herbs***. As if to say: he eats those foods which involve nothing unclean forbidden in the law. For among the classes of animals, say of land, sky, and water, some classes were permitted and some forbidden; but no herbs or trees were forbidden, as is clear in Leviticus (Lev 11).
+For whatever is said in common of God and creatures, comes to creatures from God, as in the case of wisdom: *all wisdom comes from God* (Sir 1:1). But power is said of God and of men: *God does not abandon the powers, since he is powerful* (Job 35:5). Hence, it follows that all human power is from God: *the most high rules the kingdom of men, and gives it to whom he will* (Dan 4:17); *you would have no power over me, unless it had been given you from above* (John 19:11).  
 
-There can be two reasons for this: one is that the produce of the earth had been granted man to eat from the beginning: *behold, I have given you every plant yielding seed, which is upon the face of all the earth, and every tree with seed in its fruit; you shall have them for food* (Gen 1:29). But the first permission to eat flesh seems to have been granted after the flood. Hence it says in Genesis: *as I gave you the green plants, I give you everything* (Gen 9:3), i.e., types of animals.
+**1022**. But a passage in Hosea seems to be against this: *they made kings, but not through me. They set up princes, but without my knowledge* (Hos 8:4).  
 
-The other reason is that in Paradise man had transgressed the first prohibition about abstaining from certain fruits of the earth, as is clear in Genesis 3; for this reason a similar prohibition was not repeated.
+The answer is that royal power or the power associated with any other dignity can be considered from three aspects. First, in regard to the power itself, which is from God *through whom kings reign* (Prov 8:15).  
 
-**1087**. But since the practices of the law ceased during the passion of Christ, it seems out of place for the Apostle to permit those weak in faith to abstain from foods forbidden in the law, a practice no longer granted to Christians by the Church.
+Second, in regard to the way in which power is obtained: from this aspect, power is from God sometimes, namely, when a person obtains it rightfully, as it says in Hebrews: *one does not take the honor upon himself, but he is called by God, as Aaron was* (Heb 5:4). But sometimes it is not from God but from a perverse desire of a man, who obtains power through ambition or some other unlawful manner: *have we not by our own strength taken horns for ourselves?* (Amos 6:13).  
 
-But according to Augustine, three periods of time respecting the practices of the law must be distinguished. The first is the time before Christ, when the practices of the law were in full vigor and still alive. The second is the time after the passion of Christ but before the spreading of the Gospel, when the practices were dead, because no one was bound by them; and when they were practiced, no one benefited by them. Although dead, they were not death-dealing, because the Jews converted to Christ could practice them without sin. It is to this time that the Apostle refers here. The third is the time after the spreading of the Gospel, when the practices of the law were not only dead but death-dealing, so that whoever practiced them sinned mortally.
+Third, it can be considered in regard to its use, and then it is from God sometimes, as when a person observes the precepts of divine justice in using the power granted him: *by me kings rule* (Prov 8:15). But sometimes it is not from God, as when a person uses power given to him to act against divine justice: *the kings of the earth set themselves, and the rulers take counsel together, against the Lord and his anointed* (Ps 2:2).  
 
-**1088**. The Gloss explains this in another way, namely, that the weak person is the one prone to fall into sensual vices. Such a person should be advised to eat vegetables, i.e., mild and meager foods, which do not foment vices, and to abstain from foods which stimulate sensual desire. But a stronger person believes that he can eat anything without danger. This difference appears between Christ’s disciples, who did not fast because they were strengthened by Christ’s presence, and the disciples of John the Baptist, who fasted. Hence, too, those who perform penances abstain from certain foods, not because they are unclean, but in order to restrain sensual desire.
+**1023**. The question arises whether the power to sin is from God.  
 
-**1089**. Then when he says, ***let him who eats***, he explains how to avoid differences of opinion.
+The answer is that the power by which one sins is from God. For it is the same power that is employed in sinning and in doing right: but that it is directed to good is from God; that it is directed to sin is due to a defect of the creature, inasmuch as it springs from nothingness.  
 
-First, in regard to the perfect he says: ***let him who eats***, namely, with a secure conscience or even without danger of sensual desire, ***despise not him who eats not*** from certain foods, as weak in faith or prone to sensual vices: *woe to you, despiser, will you not be despised in turn?* (Isa 33:1); *he who rejects you rejects me* (Luke 10:16).
+**1024**. Second, he states that ***those that exist have been instituted by God***, the reason being that God made all things through his wisdom, for it says in a psalm: *in wisdom have you made all* (Ps 104:24). But it is the function of wisdom to dispose of things in order: *she reaches mightily from one end of the earth to the other, and she orders all things well* (Wis 8:1). Therefore, divine effects must be orderly: *do you know the ordinances of the heavens?* (Job 38:33).  
 
-Second, in regard to the weak, saying: ***and he who eats not*** from certain foods, either because he is weak in faith, about which the Apostle speaks, or because he is prone to sensual desire, ***let him not judge him who eats*** as though he were a transgressor of the law or as rushing headlong into sensual vices: *judge not that you may not be judged* (Matt 7:1); ***you have no excuse, O man, when you judge another*** (Rom 2:1).
+But God has established a twofold order in his effects: one, whereby all things are ordained to him: *the Lord has made everything for himself* (Prov 16:4); the other is that whereby divine effects are ordained one to another, as Deuteronomy says of the sun and the moon and the stars, that he made them *to serve all nations* (Deut 4:19).  
 
-**1090**. Then when he says, ***for God has taken him to him***, he assigns three reasons why we should abstain from false judgment.
+**1025**. Then when he says, ***therefore, he who resists***, he draws the conclusion.  
 
-The second is given at ***his master***;
+For if the power of rulers is from God and nothing is from God without order, it follows that the order whereby the lower are subjected to the higher powers is from God. ***Therefore, he who*** acts against the order and ***resists the power, resists the ordinance of God***: *they have not rejected you, but they have rejected me* (1 Sam 8:7); *he who rejects you rejects me* (Luke 10:16).  
 
-the third at ***you who judge***.
+But to resist the divine order is contrary to the good of virtue. Hence, whoever resists power in anything that pertains to the order of this power acts against virtue.  
 
-The first reason is based on the authority of the one judging, hence:
+**1026**. Then when he says, ***those who resist***, he shows that this subjection is not only virtuous but necessary.  
 
-first, he shows that this authority belongs to God;
+First, he states his proposition;  
 
-second, he concludes that judgment does not belong to men, at ***who are you***.
+second, he proves it, at ***for rulers***.  
 
-**1091**. First, therefore, he says: I have been correct in saying that one who eats should not judge him who does not, *for God has taken him to him*, namely, as a servant to be judged by him: *I took two rods*, i.e., two peoples (Zech 11:7); *he drew me out of many waters* (Ps 18:16).
+**1027**. He says, therefore: it has been stated that ***he who resists the power resists the ordinance of God***, and this should be avoided as contrary to virtue. Yet there are many who have no love for virtue and who do not detest things contrary to virtue. Such persons must be compelled to avoid evil by punishments. In regard to this he says: ***they who resist*** the divine ordinance ***incur to themselves damnation*** for acting against the order of authority.  
 
-But the one who is drawn to the judgment of a superior should not be judged by an inferior.
+This can be understood in one way as referring to eternal damnation, which is incurred by those who refuse to be subject to authority in matters in which they should be subject. As an example of this, Dathan and Abiron, who resisted Moses and Aaron, were swallowed up by the earth, as it says in Numbers (Num 16:20).  
 
-**1092**. Therefore, he concludes, ***who are you***, i.e., of what authority and power are you, ***who judges another man’s servant?*** That is, your neighbor, who is a servant of God? For a judge must have authority, as it says in Exodus: *who made you a prince and a judge over us?* (Exod 2:14). *Man, who made me a judge or divider over you?* (Luke 12:14).
+In another way it can be understood as referring to the punishments imposed by the authorities themselves: *the dread wrath of a king is like the growling of a lion; he who provokes him to anger forfeits his life* (Prov 20:2).  
 
-**1093**. But from this reasoning it seems to follow that a man’s judgment about another man is illicit.
+**1028**. But against this is the fact that the apostles and martyrs seem to have resisted rulers and authorities and did not receive damnation from God as a result but rather a reward.  
 
-The answer is that a man’s judgment is licit, as long as he acts with divinely granted authority. Hence, it says in Deuteronomy: *hear them and judge what is righteous* (Deut 1:16), and later he adds, *judgment is God’s*, i.e., passed with God’s authority. But if someone desires to usurp judgment over matters not divinely granted him to judge, the judgment is rash, just as if a judge delegated by the Pope wished to go beyond the limits of his mandate. But God has reserved to himself the judging of hidden things, which are mainly the thoughts of the heart and the future. Therefore, if anyone presumed to judge about these matters, the judgment would be rash. Hence Augustine says in *The Lord’s Sermon on the Mount*: *a judgment is rash in these two cases, since there is uncertainty about the intention with which something was done, or uncertainty about the future of one who now seems to be good or evil*.
+The answer is that the Apostle is now speaking of one who resists a lower power as established by God. But the divine order requires that a lower power not be obeyed in opposition to a higher one, as even in human affairs a governor is not obeyed against an emperor, nor a bailiff against a king. And every human power is set under the divine power, so that no human power should be obeyed against God, as it says in Acts: *we must obey God rather than men* (Acts 5:29).  
 
-**1094**. Then when he says: ***to his own lord he stands or falls***, he presents the second reason, which is taken from the end of merit or demerit.
+**1029**. Then, when he says, ***for rulers***, he assigns the reason for what he had said.  
 
-For one could say that although a man has no authority to judge, he should involve himself in the judgment of another on account of the harm or benefit that comes from it. But the Apostle says here that this pertains to God rather than to man. And so even for this reason we should leave to God judgments about our neighbor, unless we are acting in his stead in judging by authority committed to us.
+First, he presents the reason;  
 
-In regard to this he does three things:
+second, from this reason he draws a useful teaching, at ***do you will then to not fear the power?***;  
 
-first, he states his proposition;
+third, he shows the necessity of this teaching, at ***but if you do evil***.  
 
-second, he gives an example, at ***for one judges between day and day***;
+**1030**. First, therefore, he says: It has been stated that ***those who resist power, incur damnation***, ***for rulers***, who are here called powers, ***are not a terror***, i.e., a cause of terror, ***to good work***, i.e., because of good conduct, ***but to the evil***, i.e., because of bad conduct.  
 
-third, he proves the proposition, at ***he that regards the day***.
+It seems that this should be understood with reference to the reason for establishing rulers. For the reason why rulers are established is in order that those who are not inclined by any love of virtue to avoid evil and do good, may do so by fear of punishment: *a king who sits on the throne of judgment winnows all evil with his eyes* (Prov 20:8). And according to this interpretation it says that rulers are not a terror to good conduct but to bad as regards what rulers do in virtue of their office, as Isaiah says, *but the prince will devise such things as are worthy of a prince* (Isa 32:8).  
 
-**1095**. In regard to the first he does two things: first, he proposes that whatever happens to man pertains to God when he says: ***to his own lord he stands***, i.e., by doing right: *our feet have been standing within your gates, O Jerusalem* (Ps 122:2), *or falls*, i.e., by sinning: *fallen, no more to rise is the virgin Israel* (Amos 5:1).
+This can also refer to evil rulers, who are not a terror to good conduct, but to bad. For even though they sometimes unjustly persecute those who do good, the latter have no reason to fear; because if they endure it patiently, it turns out for their good: *even if you do suffer for justice’s sake, you will be blessed. Have no fear of them, nor be troubled* (1 Pet 3:14).  
 
-He presents it as a disjunctive, ***stands or falls***, on account of the uncertainty, for many seem to fall who stand, and vice versa, as it says in Ecclesiastes: *then I saw the wicked buried; they used to go in and out of the holy place and were praised in the city, where they had done such things* (Eccl 8:10). But the Apostle is speaking here in terms of a likeness to a human servant, to whose master pertains everything done in regard to him.
+From what is said here the reason can be assigned why those who resist authority incur condemnation, whether it be the punishment inflicted by rulers on those who rebel, or the damnation by which men are punished by God. For if rulers are a terror to bad conduct, it follows that those who resist their authority are acting wickedly and thus are the cause of their temporal and eternal punishment.  
 
-Nor should we suppose that God is harmed or benefited, if a man stands or falls. For it says in Job: *if you have sinned, what do you accomplish against him? If you are righteous, what do you give him?* (Job 35:6). But in relation to men acts of justice look to God’s glory: *that they may see your good works and give glory to your Father in heaven* (Matt 5:16). The fact that we fall by sinning is for men the occasion for blaspheming God: ***the name of God is blasphemed among the gentiles*** (Rom 2:24).
+**1031**. Then when he says, ***do you will then to not fear***, he draws a useful teaching from what he had said, namely, how to avoid the terror of rulers.  
 
-Or the words ***to his own lord he stands or falls*** should be explained as regarding the judgment of his master: *the one who judges me is the Lord* (1 Cor 4:4).
+First, he suggests by his question that this is desirable, saying: ***do you will then to not fear power?*** As if to say: this should appeal to a person: *as the roar of a lion, so is the terror of a king* (Prov 20:2).  
 
-**1096**. Second, he shows that it pertains to God to judge a man, saying, ***and he will be upheld***. As if to say: even though someone now falls by sinning, it is possible that he will stand again. And this will certainly happen, if he has been predestined: *will he not rise again from where he lies?* (Ps 41:8); *rejoice not over me, O my enemy, when I fall, I shall rise* (Mic 7:8).
+**1032**. Second, he shows how to avoid this fear, saying: ***do what is good***. For it says in Proverbs: *righteous lips are the delight of a king* (Prov 16:13), and in a psalm: *he who walks in the way that is blameless shall minister to me* (Ps 101:6).  
 
-For this reason if we see someone obviously sinning, we should not despise him and rashly judge that he will never rise again; rather, we should presume that he will stand again, not considering the human condition but God’s power. Hence, when he says: ***for God is able to make him stand***, we should presume that he will make him stand again on account of his goodness: *the Spirit entered into me and set me upon my feet* (Ezek 3:24), just as Paul said earlier: ***and even the others, if they do not persist in their unbelief, will be grafted in, for God has the power to graft them in again*** (Rom 11:23).
+**1033**. Third, he shows the effect of this, saying: If you do what is good, you will not only avoid evil but ***you will have praise from the same***. This is obvious when one considers the reason why authority is established. For it is established not only to keep us from evil conduct through fear of punishment but also to induce us to good conduct through rewards, as it says in 1 Peter: *be subject to governors as sent by the emperor to punish those who do wrong and to praise those who do right* (1 Pet 2:14). This is also true of evil rulers, whose unjust persecution ends in praise for those who endure it patiently: *we call those happy who were steadfast* (Jas 5:11).  
 
-**1097**. Then when he says, ***for one judges***, he exemplifies what he had said. First, he proposes that human opinions vary, saying: I say that ***to his own lord he stands or falls . . . for one judges between day and day***, i.e., he judges between one day and another, so that he abstains on one day and not on another. This seems to refer to those weak in faith, who suppose that the practices of the law must still be observed. For it says in Leviticus: *on the tenth day of this seventh month is the day of atonement; and you shall afflict yourselves on this day* (Lev 23:27). And in Judith it is stated that Judith fasted all the days of her life, except on Sabbaths, new moons, and feasts of the house of Israel (Jdt 8:6).
+**1034**. Fourth, he assigns the reason, saying: ***for he is God’s minister to you for good***. This is clear in regard to the proper order of rulers. For they are under the authority of God, the supreme ruler, as his ministers: *because as ministers of his kingdom, you did not rule rightly* (Wis 6:4). But the ruler and the ministers work for the same end: *like the magistrate of the people, so are his officials* (Sir 10:2). Therefore, just as God works for the good of those who do good, so also do rulers, if they perform their office properly.  
 
-***And another judges every day*** alike as far as observing the practices of the law, because these had now ceased. Hence this seems to refer to the perfect in faith: *bless his name from day to day* (Ps 96:2).
+Furthermore, even wicked rulers are God’s ministers for inflicting punishments according to God’s plan; although this is not their intention: *ah, Assyria, the rod of my anger, the staff of my fury . . . but he does not so intend* (Isa 10:5). *Behold I will send, and take all the kindreds of the north, says the Lord, and Nabuchodonosor the king of Babylon my servant: and I will bring them against this land, and against the inhabitants thereof, and against all the nations that are round about it* (Jer 25:9). And also because such wicked rulers sometimes afflict good men, God permitting, who profit thereby; for ***we know that in everything God works for the good with those who love him*** (Rom 8:28).  
 
-This can also refer to cases of abstaining performed to control sensual desires. Some abstain in this manner every day; for example, those who always abstain from meat or wine or fast, although some abstain on certain days and not on others: *for everything there is a season* (Eccl 3:1).
+**1035**. Then when he says ***but if you do evil***, he shows the necessity of this teaching.  
 
-**1098**. Second, he shows that all these things can pertain to the glory of God, saying: ***let every man abound in his own sense***, i.e., be left to his own judgment: *God made man from the beginning and left him in the hand of his own counsel* (Sir 15:14). Or ***in his own sense***, i.e., according to his own mind let him be zealous to abound to the glory of God, according to 1 Corinthians: *seek to abound unto the edifying of the Church* (1 Cor 14:12).
+For it has been stated that if you do right, you will not fear authority; ***but if you do evil, be afraid***, because you have reason to fear: *destruction to evildoers* (Prov 10:29); *wickedness is a cowardly thing, condemned by its own testimony* (Wis 17:11).  
 
-But this seems to apply to things that are not of themselves evil. In things that are of themselves evil, however, man must not be left to follow his own mind. But that a person discriminates between days seems to be evil of itself according to the first explanation. For it says in Galatians: *you observe days and months and seasons and years! I fear that I have labored over you in vain* (Gal 4:10). And he is speaking there about those who claimed that days must be observed according to the ceremonies of the law.
+Second, he assigns the reason, saying: ***for he carries not the sword in vain***. He uses language in keeping with the practice of rulers who carried the instruments of punishment as signs of their power; for example, a bundle of rods for whipping, and axes or swords for killing: *be afraid of the sword, for wrath brings the punishment of the sword* (Job 19:29).  
 
-The answer is that the Apostle is speaking here in regard to that time in which it was lawful for Jews converted to the faith to observe the practices of the law. But in regard to the second explanation it seems to be illicit for him to say: ***and another judges every day***. For there are some days on which it is unlawful to fast. For Augustine says in his *Letter to Casulanus*: *whoever thinks that a fast should be decreed on the Lord’s day would not be a small scandal to the Church, and rightfully so. For on those days about which the Church or Sacred Scripture has decreed nothing definite, the customs of the people of God and the decrees of the major authorities must be considered the law*. And in the *Decretals* it is written (Decretal 30): *if on account of a public penance received from a priest a presbyter were to fast without any other need on the Lord’s day, let him be anathema*.
+Third, he explains the reason, saying: ***he carries***, I say, ***the sword, because he is God’s minister, an avenger to execute his wrath***, i.e., God’s wrath, i.e., his just judgment, ***upon him that does evil***: *behold, I will gather together all your lovers . . . and I will judge you as adulteresses . . . and I will deliver you into their hands* (Ezek 16:37ff.). *Those who do evil are an abomination to kings, for the throne is established by justice* (Prov 16:12).  
 
-But one should understand that the Apostle is speaking here about those abstinences that can be licitly undertaken on any day without clashing with the common custom, or with the customs established by those in authority.
+From this it is clear that it is not only lawful but meritorious for rulers to execute vengeance on the wicked, when it is done out of zeal for justice. Hence: *and it shall be wages for his army, and for the service that he has done me against it* (Ezek 29:19ff.).  
 
-**1099**. Then when he says, ***he who regards the day***, he proves his proposition, namely, that each one stands or falls before his own master. And he does this in three ways.
+**1036**. Then when he says, ***therefore, one must be subject***, he draws the main conclusion, saying: ***therefore***, i.e., for the reasons given, ***one must be subject*** to rulers of necessity, namely, because this is necessary for salvation, or be subject voluntarily to the necessity whereby the ruler’s power inclines you to do right of necessity; ***not only for wrath***, i.e., to avoid vengeance, which pertains to the second reason, ***but also for the sake of*** preserving a good ***conscience***, which pertains to the first reason, because ***he who resists authority resists what God has appointed***: *admonish them to be subject to princes and powers* (Titus 3:1).  
 
-First, he proves it by appealing to the act of believers;
+**1037**. Then when he says, ***for therefore also you pay tribute***, he urges men to show the sign of their subjection to authority:  
 
-second, by their intention, at ***for none of us lives***;
+first, he mentions the sign of subjection;  
 
-third, by their condition, at ***for whether we live, or whether we die***.
+second, he urges them to render the sign of subjection, at ***render therefore***.  
 
-**1100**. First, therefore, he proves how each of the faithful stands or falls before his master, because in everything he does according to his conscience, he gives thanks to God. Hence he says: ***he who regards the day*** by abstaining one day and refraining from it on another day, ***regards it unto the Lord***, i.e., he discriminates between foods out of reverence for God, just as we ourselves distinguish between the vigils of feasts when we fast, and the feast days when we break the fast out of reverence for God: *why is any day better than another and light better than light* (Sir 33:7).
+**1038**. In regard to the first he does two things: first, he mentions the signs of subjection, saying: ***for therefore also you pay tribute***, i.e., because you are subject, you should pay taxes as a sign of that subjection. Therefore, in a complaining way it says: *the princess of the provinces was made tributary* (Lam 1:1). They are in fact called contributions, for the very reason that the subjects contribute them to their lords.  
 
-Then he speaks with respect to those who esteem all days alike. Some of these ceased from fasting every day, as Matthew says that Christ’s disciples did not fast (Matt 9:14). Hence he says: ***and he who eats***, namely, every day, ***eats in honor of the Lord***, i.e., to the glory of God; which is proved by the fact that ***he gives thanks to God***, namely, for the food he eats: *some enjoin abstinence from foods which God created to be received with thanksgiving* (1 Tim 4:3); *the poor shall eat and be filled* (Ps 22:26).
+**1039**. Second, he assigns the reason, saying: ***for they are the ministers of God, serving***, on behalf of God and the people, ***unto this purpose***, i.e., to receiving tribute.  
 
-Finally in regard to those who look on days in such a way that they abstain every day, he says: ***and he who eats not***, i.e., abstains every day, ***to the Lord***, i.e., unto the honor of the Lord, ***he eats not***. This is clear, because ***he gives thanks to God***, who gave him the will and virtue to abstain: *give thanks in all circumstances* (1 Thess 5:18).
+As if to say: everyone should make a living from his ministry, for it says in 1 Corinthians: *who tends a flock without getting some of the milk?* (1 Cor 4:7). And therefore, since our rulers minister to God in governing, they should receive taxes from the people as wages for their ministry and should not look upon it as a reward. For the special reward of a ruler is praise and honor, as the Philosopher says in book five of the *Ethics*. When this does not satisfy him, he becomes a tyrant. But this should not be understood as referring only to human praise or honor, because such a reward would be futile, but to divine praise and honor, which is bestowed on those who rule well: *O monarchs over the people, honor wisdom, that you may reign forever* (Wis 6:21).  
 
-But what the Apostle says here about those who abstain every day or cease abstaining should be understood with respect to that time when this was not contrary to the decrees of major authorities or to the common customs of the people of God.
+Furthermore, they receive these taxes as sustenance, and rulers labor for the peace of all. Hence it is said: *I urge that supplications be made for kings and all who are in high positions, that we may lead a quiet and peaceful life* (1 Tim 2:1); *pray for the life of Nebuchadnezzar, king of Babylon, that we may live under his shadow* (Bar 1:11).  
 
-**1101**. Then when he says, ***for none of us lives to himself***, he proves the same thing from the intention of believers.
+**1040**. Clerics are free of this debt because of a privilege granted by rulers, which is in fact equitable by nature. Even among the gentiles those who were devoted to divine things were free from taxation. For we read in Genesis that Joseph subjected to Pharaoh the entire land of Egypt *except the land of the priests, which had been given them by the king, and to whom also a certain allowance of food was given out of the public stores* (Gen 47:20–22). And further down it says in the whole land of Egypt, the fifth part of the harvests was paid except for in the land of the priests, which was free from this condition.  
 
-First, he rejects an inordinate intention, saying: I am correct in saying that everyone stands or falls before his master, for ***none of us lives to himself*** , in his natural or in his supernatural life, about which it says in Hebrews: *my just man lives by faith* (Heb 2:4). ***To himself***, i.e., for himself, because that would be to enjoy himself: *not seeking what is useful for me* (1 Cor 10:33); *not to us, O Lord, not to us give the glory* (Ps 114:9); or ***to himself***, i.e., according to his own rule, as those who say: *let our might be our law of right* (Wis 2:11); or ***to himself***, i.e., according to his own judgment: *I do not even judge myself* (1 Cor 4:3).
+But this is also equitable, because just as kings have care of the public good in temporal affairs, so God’s ministers in spiritual matters. And so by ministering to God in spiritual matters, they are making a return to the king for his labor in procuring a peaceful life for them.  
 
-***And none dies to himself***, namely, a bodily death or a spiritual death by sinning, or even a spiritual death wherein one dies to his vices, as in baptism, as it says above: ***he who has died is freed from sin*** (Rom 6:7). For ***to himself***, i.e., to his own judgment or on account of himself or to his own example; but to the example of Christ, someone dies to vices: ***the death he died to sin, he died once*** (Rom 6:10); and later: ***so you also must consider yourselves dead to sin*** (Rom 6:11).
+**1041**. But it should be noted that although he says that taxes are owed to rulers as a wage for their labors, rulers can sin in two ways by accepting taxes.  
 
-**1102**. Second, he describes the right intention of believers, saying: ***if we live*** with our bodily life***, we live unto the Lord***, i.e., to the glory of the Lord; ***and if we die*** a bodily death, ***we die unto the Lord***, i.e., to the honor of the Lord: *Christ will be magnified in my body whether through death or through life* (Phil 1:20).
+First, if they do not procure the people’s welfare but are intent only on seizing their goods. Hence it says in Ezekiel: *you eat the fat, you clothe yourselves with the wool, you slaughter the fatlings, but you do not feed the sheep* (Ezek 34:3).  
 
-Or it is understood such that he says ***we live*** and ***we die*** about a spiritual life and death; it ought to be explained that he says ***unto the Lord***, i.e., in the judgment of the Lord *who was appointed by God to be the judge of the living and the dead* (Acts 10:42).
+Second, if they violently take more than the law permits and more than the people can bear. Hence it says in Micah: *hear, you heads of Jacob and rulers of the house of Israel! Is it not you who tear the skin from my people, and their flesh from their bones?* (Mic 3:1).  
 
-**1103**. Then when he says, ***therefore, whether we live***, he clarifies his proposition by considering the condition of believers.
+**1042**. Then when he says, ***render therefore***, he admonishes them to render the above-mentioned sign of subjection.  
 
-First, he concludes from the foregoing the condition of the faithful, namely, that they are not their own but someone else’s. For those who are their own are free men; they live to themselves and die to themselves.
+First, in general, saying: Inasmuch as taxes are owed to rulers, as to God’s ministers, ***render therefore to all men their dues***. From this it is clear that justice requires subjects to render rulers their due: *to the king was brought one who owed him ten thousand talents* (Matt 18:24); *render, therefore, to Caesar the things that are Caesar’s and to God the things that are God’s* (Matt 22:21).  
 
-Therefore, because it has been stated that the faithful do not live or die to themselves but to the Lord, he concludes: ***therefore, whether we live or whether we die, we are the Lord’s***, servants, as it were, of him who has power over life and death: *you were bought with a price; do not become slaves of men* (1 Cor 7:23); *you were bought with a great price* (1 Cor 6:20); *we are yours, O David, and with you, O son of Jesse!* (1 Chr 12:18).
+**1043**. Second, he specifies debts that are paid publicly, saying: ***tribute, to whom tribute is due***, for these are paid to the ruler that he might govern the country in peace and quiet: *he saw that a resting place was good, and that the land was pleasant* (Gen 49:15). ***Custom to whom custom is due***; this is paid to the ruler in certain places as tolls, for the repair of roads and for safe travel. Or they are the expenses incurred when the ruler travels through his country.  
 
-**1104**. Second, he assigns the cause of this condition, saying: ***for to this end Christ died and rose again***, i.e., by his death and resurrection he obtained the right ***to be Lord of the living***, because he rose to begin a new and perpetual life, ***and of the dead***, because by dying he destroyed our death: *he died for all that those who live might live no longer for themselves, but for him who for their sake died and arose* (2 Cor 5:15).
+Second, he sets out those things which should be rendered interiorly. Here it should be noted that a ruler is owed fear and honor: fear, because he is lord and uses his power to prevent evil men from doing evil: *if I am the Lord, where is my fear?* (Mal 1:6). Hence he says: ***fear to whom fear is due***: *my son, fear the Lord and the king* (Prov 24:21). But inasmuch as the ruler is like a father providing benefits, he deserves praise and honor: *if I am a father, where is my honor?* (Mal 1:6). Therefore, he adds: ***honor to whom honor is due***: *honor the king* (1 Pet 2:17). The opposite view is expressed in Leviticus: *you shall not defer to the powerful* (Lev 19:5).  
 
-Thus, therefore, by all the foregoing the Apostle has proved that each one stands or falls before his master, namely, by the fact that believers give thanks to God and that they live and die to the Lord and that in life and in death we are the Lord’s.
+But this should be interpreted as forbidding a person to deviate from justice to benefit the powerful. Hence it continues: *but in justice shall you judge your neighbor*.  
 
-**1105**. Then when he says, ***but you, why do you judge***, he presents the third reason, which is based on the future judgment.
+Lecture 2  
 
-In regard to this he does three things: first, he suggests that a judgment at present is unnecessary, saying: ***but you, why do you judge***, i.e., of what use or need is your judgment, ***your brother***, rashly judging hidden matters not committed to your judgment? ***Or you***, who are judged, ***why do you despise your brother***, regarding as nothing the fact that you are judged by him? *Why does each one despise his brother?* (Mic 2:10).
+***Love the fulfillment of the law***
 
-**1106**. Second, he foretells the future judgment of Christ: As if to say: I am correct in stating why you pass judgment, because you should not fear that anyone will remain unjudged. ***For we shall all stand before the tribunal of Christ***. The tribunal of Christ is so called on account of his judiciary power, as it says in Matthew: *when the Son of man comes in his glory and all the angels with him, then he will sit on the glorious throne* (Matt 25:20).
+^13:8^ Owe no one anything, except to love one another. For he who loves his neighbor has fulfilled the law. [n. 1044]  
 
-He says that ***we shall all stand***, as if to be judged, both good and evil in regard to reward or punishment: *we must all appear before the judgment seat of Christ, so that each one may receive good or evil according to what he has done in the body* (2 Cor 5:10).
+> ^13:9^ For: you shall not commit adultery: you shall not kill: you shall not steal: you shall not bear false witness: you shall not covet. And if there be any other commandment, it is comprised in this word: you shall love your neighbor as yourself. [n. 1050]
 
-But as to the proceedings, not all will stand to be judged, but some will sit as judges: *you will also sit on twelve thrones, judging the twelve tribes of Israel* (Matt 19:28).
+> ^13:10^ The love of our neighbor works no evil. Love therefore is the fulfillment of the law. [n. 1058]
 
-**1107**. Third, when he says, ***for it is written***, he proves what he had said:
+> **1044**. Having shown how believers should observe justice toward superiors, the Apostle now shows how they should behave toward everyone generally.
 
-first, he appeals to an authority;
+In regard to this he does two things:  
 
-second, he draws the conclusion, at ***therefore every one of us***.
+first, he states his intention;  
 
-**1108**. First, therefore, he says: I have stated that all of us will stand before the tribunal of Christ. This is clear from the testimony of Sacred Scripture: ***for it is written***: ***as I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God*** (Isa 45:23).
+second, he gives a reason, at ***for he that loves***.  
 
-Our text has this: *I have sworn by myself that to me every knee shall bow and every tongue shall swear*.
+**1045**. First, therefore, he says: it has been stated that you must pay your debts to all, not in part but entirely. And that is what he says: ***owe no one anything***. As if to say: you should pay all you owe to everyone so completely that nothing still owing remains.  
 
-**1109**. Three things are stated in these words: first, the oath sometimes used by God to show that what is said is as solid as the unchangeableness of God’s plan and not changeable as things foretold according to lower causes, as prophecies that threaten. Hence it says in a psalm: *the Lord has sworn and will not change his mind* (Ps 110:4). But men, as the Apostle says in Hebrews, *swear by someone greater than themselves* (Heb 6:16). But because God has none greater than himself on which the strength of his truth depends, he swears by himself.
+And this for two reasons: first, because sin is committed in delaying to pay, as long as a person unjustly holds back what belongs to another. Hence it says in Leviticus: *the wages of a hired servant shall not remain with you all night until the morning* (Lev 19:13). And the same is true of other debts.  
 
-Furthermore, God is life itself and the source of life, as it says in Deuteronomy: *he is your life and the length of your days* (Deut 30:20); *with you is the fountain of life* (Ps 36:9). Therefore, the formula of the Lord’s oath is, ***as I live***. As if to say: I swear by the life I uniquely live.
+Second, because as long as a person owes, he is in a certain sense a slave and is obligated to the one to whom he owes: *the borrower is the slave of the lender* (Prov 22:7).  
 
-**1110**. Second, the coming subjection of the creature to God is foretold, when it is said: ***every knee shall bow to me***, i.e., to Christ. In this is designated the complete subjection of the rational creature to Christ. For men are wont to signify subjection by bending the knee. Hence it says in Philippians: *at the name of Jesus every knee shall bend in heaven and on the earth and under the earth* (Phil 2:11).
+**1046**. But there are some debts from which a man can never absolve himself. This happens in two ways: in one way on account of the excellence of the benefit for which equal payment cannot be made, as the Philosopher says of honor owed to God or parents, as it says in a psalm: *what shall I render to the Lord for all his bounty to me?* (Ps 116:12). In another way on account of the debt’s cause, which always remains; or even because what is paid is never terminated but always increases as one pays.  
 
-**1111**. Third, he foretells the confession of faith by which all will confess the glory of Christ. Hence he continues: ***and every tongue shall confess to God***, i.e., will confess that Christ is God, as it says in Philippians: *every tongue shall confess that Jesus Christ is Lord, to the glory of God the Father* (Phil 2:11).
+**1047**. For these reasons the debt of fraternal love is paid in such a way that it is always owing.  
 
-***Every tongue*** can be understood as the expression of the knowledge of men or of angels, as it says in 1 Corinthians: *if I speak in the tongues of men and of angels* (1 Cor 13:1).
+First, because we owe love to our neighbor on account of God, whom we can never recompense sufficiently. For it is said: *this commandment we have from him, that he who loves God should love his brother also* (1 John 4:2). Second, because the cause of love always remains, namely, being alike in nature and in grace: *every animal loves its like, and every person his neighbor* (Sir 13:15). Third, because love does not diminish but grows by loving: *it is my prayer that your love may abound more and more* (Phil 1:9).  
 
-This is fulfilled now in this life, not as to each man but as to the classes of each man. From each class of men some are not subjected to Christ and confess him by faith, but in the future judgment all and each will be subjected to him: the good voluntarily and the evil unwillingly. Hence, it says in Hebrews: *now in subjecting everything to him, he left nothing outside his control* (Heb 2:8).
+Therefore, he says: ***except to love one another***, because the debt of love is paid once in such a way that it always remains under the debt of a precept: *this is my commandment, that you love one another* (John 15:12).  
 
-**1112**. Then when he says, ***therefore every one of us***, he draws the conclusion from the foregoing.
+**1048**. Then when he says, ***he who loves his neighbor***, he assigns the reason for the statement that we are never released from the debt of love, namely, because the whole fulfillment of the law consists in love.  
 
-First, the conclusion intended from what he had just said, saying: ***therefore***, from the fact that every knee will bend before Christ, ***every one of us shall render an account to God for himself***, i.e., before the tribunal of Christ: *on the day of judgment every man shall render an account for every careless word he uttered* (Matt 12:36); *the kingdom of heaven may be compared to a king who wished to settle accounts with his servants* (Matt 18:23).
+Hence he does three things in regard to this:  
 
-**1113**. But it seems that not everyone will give an account of himself, but one for someone else: *obey your leaders and submit to them. For they are keeping watch over your souls, as men who will have to give an account* (Heb 13:17).
+first, he states his proposition;  
 
-The answer is that in the very fact that prelates will render an account for others, they will render an account for their own actions, which they should have performed for their subjects. For if they have done what their duties demanded, they will not be held accountable, if their subjects perished. But they would be held accountable, if they neglected to do what their office required. Hence it says in Ezekiel: *if I say to the wicked, ‘you shall surely die,’ and you give him no warning, nor speak to warn the wicked from his wicked way, in order to save his life, that wicked man shall die in his iniquity, but his blood I shall require at your hand. But if you warn the wicked and he does not turn from his wickedness, he shall die in his iniquity, but you will have saved your life* (Ezek 3:18ff.).
+second, he clarifies it, at ***for you shall not commit adultery***;  
 
-**1114**. Second, he draws the conclusion chiefly intended from the entire preceding part, saying: ***let us not therefore judge one another any more***, i.e., with a rash judgment, which is included in the reason given above: *do not pronounce judgment before the time* (1 Cor 4:5).
+third, he draws the conclusion intended, at ***love therefore is the fulfillment of the law***.  
 
-Lecture 2
+**1049**. First, therefore, he says: the reason why we cannot expect to free ourselves from the debt of love, as we do from other debts, is that ***for he who loves his neighbor has fulfilled the law***, i.e., the whole fulfillment of the law depends on love of neighbor.  
 
-***Mercy towards the weak***
+But this does not seem to be true. For it says in 1 Timothy: *the end of the precept is love* (1 Tim 1:5). For a thing is made perfect when it attains its end; therefore, the whole perfection of the law consists in love. But love has two acts, namely, the love of God and the love of neighbor; hence the Lord says in Matthew that the whole law and the prophets depend on the two precepts of love: one of which is concerned with the love of God and the other with the love of neighbor (Matt 22:40). Therefore, it does not seem that one who loves his neighbor fulfills the whole law.  
 
-***^14:13^ But judge this rather, that you put not a stumbling block or a scandal in your brother’s way. [n. 1115]***
+The answer is that love of neighbor pertains to love and fulfills the law, when it is a love by which the neighbor is loved for God. So the love of God is included in the love of neighbor, just as the cause is included in its effect. For it says in 1 John: *this commandment we have from him, that he who loves God should love his brother also* (1 John 4:21). Conversely, love of neighbor is included in love of God, as the effect in its cause; hence it says in the same place: *if anyone says, ‘I love God,’ and hates his brother, he is a liar*.  
 
-> ^14:14^ I know, and am confident in the Lord Jesus, that nothing is common of itself: but to him who esteems any thing to be common, to him it is common. [n. 1117]
+That is why in Sacred Scripture sometimes mention is made only of the love of God, as though it is enough for salvation, as in Deuteronomy: *and now, Israel, what does the Lord your God require of you, but to fear the Lord your God, to walk in all his ways, and to love him* (Deut 10:12); and sometimes mention is made of love of neighbor: *this is my commandment, that you love one another as I have loved you* (John 15:12).  
 
-> ^14:15^ For if, because of food, your brother be grieved, you no longer walk according to charity. Destroy not him with your food, for whom Christ died. [n. 1122]
+**1050**. Then when he says ***for you shall not commit adultery***, he proves his proposition:  
 
-> ^14:16^ Let not then our good be evil spoken of. [n. 1126]
+first, by induction;  
 
-> ^14:17^ For the kingdom of God is not food and drink: but justice and peace and joy in the Holy Spirit. [n. 1127]
+second, by means of a syllogism, at ***the love of our neighbor***.  
 
-> ^14:18^ For he who in this serves Christ pleases God and is approved of men. [n. 1129]
+**1051**. In regard to the first he proceeds inductively by enumerating certain precepts which fulfill the love of neighbor. And because the three precepts of the first tablet are more directly ordained to the love of God, he does not mention them, although they, too, are fulfilled in the love of neighbor, insofar as the love of God is included in the love of neighbor. But he enumerates the commands of the second tablet, omitting only the affirmative precept about honor to parents. By this it is understood that we should pay to all whatever we owe.  
 
-> ^14:19^ Therefore, let us follow after the things that are of peace and keep the things that are of edification, one towards another. [n. 1130]
+**1052**. He lists the negative precepts, which forbid a person to do evil to his neighbor. And this for two reasons.  
 
-> ^14:20^ Destroy not the work of God for food. [n. 1131]
+First, because the negative precepts are more universal both as to time and as to persons. As to time, because the negative precepts oblige always and at every moment. For there is no time when one may steal or commit adultery. Affirmative precepts, on the other hand, oblige always but not at every moment, but at certain times and places: for a man is not obliged to honor his parents every minute of the day, but at certain times and places. Negative precepts are also more universal as to persons, because no man may be harmed, whereas we are not capable of each serving every other man.  
 
-> **1115**. After forbidding human judgments, the Apostle now forbids putting stumbling blocks before one’s neighbor.
+Second, because they are more obviously observed by love of neighbor than are the affirmative. For a person who loves another, rather refrains from harming him than gives him benefits, which he is sometimes unable to give.  
 
-First, he presents his proposition;
+**1053**. But a person does injury to his neighbor in three ways: by action, by word, and by desire.  
 
-second, he clarifies it, at ***for if, because of food***.
+He does injury by action in three ways: first, against the neighbor’s person, and this is forbidden when he says: ***you shall not kill***. This also forbids any injury against the neighbor’s person: *no murderer has eternal life abiding in him* (1 John 3:15).  
 
-In regard to the first he does three things.
+Second, against a person’s wife; and this is forbidden when he says: ***you shall not commit adultery***. This also forbids fornication and any unlawful use of the genital organs: *God will judge fornicators and adulterers* (Heb 13:4).  
 
-**1116**. First, he teaches that stumbling blocks must be avoided, saying: I have said that you should not judge one another, but everyone ought to judge his own actions, lest they be a scandal unto others. And this is what he says: ***but judge this rather, that you put not a stumbling block or a scandal in your brother’s way***. A scandal, as Jerome says in his commentary on Matthew, means a hindrance or injury which we can call a ‘striking of the foot.’ Hence a scandal is an illegal word or deed presenting the occasion of ruin to someone after the manner of a stone against which one strikes his foot and falls.
+Third, against one’s external goods, and this is forbidden when he says: ***you shall not steal***. This also forbids any unjust taking of what belongs to another, either by force or by deceit: *everyone who steals will be judged* (Zech 5:3).  
 
-A scandal is more serious than a hindrance, for the latter can be anything which merely retards forward movement; but a scandal, i.e., a striking, seems to exist when someone is disposed for a fall. Therefore, we should not place a hindrance before our brother by doing anything that will draw him from the path of justice: *take the hindrance out of my people’s path* (Isa 57:14). Nor should we place a scandal before a brother by doing something that might incline him to sin: *woe to the man by whom scandal comes* (Matt 18:7).
+**1054**. Injury committed by word against one’s neighbor is forbidden when he says: ***you shall not bear false witness***. This is forbidden not only in court cases but also outside, whether in the form of detraction or of insults: *the false witness will not go unpunished, and one who speaks lies will not escape* (Prov 19:5).  
 
-**1117**. Second, he teaches that what was considered a stumbling block was of its very nature and in itself lawful.
+Injury committed only by desire against one’s neighbor is forbidden when he says: ***you shall not covet*** your neighbor’s good; and this also forbids coveting another’s wife: ***for I would not have known covetousness*** to be a sin, *if the law had not said: you shall not covet* (Rom 7:7).  
 
-In regard to this it should be noted that, as was stated above, there were among the Romans some Jews converted to Christ, who distinguished among foods according to the law; but others, having a perfect faith, used all foods without distinction, which of itself was lawful. Hence he says: ***I know and am confident in the Lord Jesus, that nothing is common of itself***.
+**1055**. These commandments are set forth in Exodus 20:17 et seq. Having listed a number of precepts, he combines all others in one general precept, saying: ***and if there be any other commandment***, affirmative or negative, referring to God or to neighbor, ***it is comprised***, i.e., fulfilled, ***in this word: you shall love your neighbor as yourself***. This is said in Leviticus, where our text has: *you shall love your friend as yourself* (Lev 19:18).  
 
-On this point it should be known, as Jerome says in his *Commentary on Matthew*, that the Jewish people, boasting that they are God’s portion, call unclean the food which all men use, e.g., the flesh of swine, hares, and food of that sort. Furthermore, the nations which used such foods were not God’s portion; consequently, such food was unclean.
+**1056**. When he says, ***your neighbor***, the reference is to all men and also the good angels, as Augustine says. For a neighbor is anyone who shows mercy to another, as it says in Luke: *which of these three, do you think, proved neighbor to the man who fell among robbers? He said: the one who showed mercy to him* (Luke 10:36). And because a neighbor is neighbor to a neighbor, the consequence is that even a person shown mercy by another is said to be his neighbor. But the good angels show mercy to us; and we should show mercy to all men and receive it from them, when necessary. Hence it is clear that the good angels and all men are our neighbors, because the happiness toward which we are tending is already theirs, or they are tending toward it with us.  
 
-The words ***nothing is common*** amount to the same thing as saying *nothing is unclean*.
+From this reason it is clear that devils are not our neighbors and that we are not commanded to love them, because they are entirely excluded from the love of God and are not included in the list of neighbors but of enemies.  
 
-The Apostle says that nothing is unclean, because he knows that it is so according to the nature of things, as he says in 1 Timothy: *everything created by God is good and nothing is to be rejected, if it is received with thanksgiving* (1 Tim 4:4). Second, he says that he is persuaded in Christ Jesus that in itself nothing is unclean, namely, because foods of their very nature never were unclean, but they were avoided for a time as unclean in keeping with a commandment of the law as a figure. But Christ removed this by fulfilling all figures. Therefore, the Apostle, relying on his confidence in the Lord Jesus, asserts that ***nothing is common*** or unclean of itself: *what God has cleansed, you must not call common* (Acts 10:15).
+**1057**. The phrase, ***as yourself***, does not refer to equality of love, as though a person were bound to love his neighbor as much as himself. For this would be against the ordering of charity, by which a person is obliged to take more care of his own salvation than that of others: *he put love in order in me* (Song 2:4). It refers, rather to a similarity of love, namely, that we should love our neighbor similarly as ourselves.  
 
-**1118**. Third, he shows how this could be unlawful accidentally, inasmuch as it is against the conscience of the eater. Hence he says: It has been stated that ***nothing is common***; but it must be understood that if one has an erroneous conscience and thinks that some food is unclean, then ***for him it is common*** and so it is unlawful for him, as if the food were really unclean: *to the pure all things are pure, but to the corrupt and unbelieving nothing is pure; their minds and consciences are corrupted* (Titus 1:15).
+And this in three ways: first, as to the end of love, namely, that we love ourselves and our neighbor for the sake of God. Second, as to the form of love, namely, just as a person loves himself as willing good for himself, so he should love his neighbor by willing good things for him. But one who loves his neighbor in order to acquire some utility or love from him does not will good for his neighbor but wants to obtain a good for himself from his neighbor. This is the way a man is said to love irrational creatures, such as wine or a horse, namely, to use them. Third, as to the effect of love, namely, that he relieve the need of his neighbor, as he relieves his own; and that he do nothing unlawful out of love for his neighbor any more than he does out of love for himself.  
 
-**1119**. So it is clear that something licit in itself becomes illicit for one who does it against his conscience, even though his conscience is erroneous. It is reasonable that this be so, for acts are judged according to the will of the performer. But the will is moved by the thing apprehended. Hence the will tends toward what the apprehensive power represents to it, and it is according to this that the action is qualified or specified. Therefore, if a person’s reason judges that something is sinful and the will is drawn to it as something to be done, it is clear that the person has a will to commit a sin. For this reason his external action, which is informed from the will, is a sin. For the same reason, if one thinks that something venially sinful is a mortal sin, if he does it while his conscience is in that state, it is clear that he has chosen to sin mortally; consequently, his action is a mortal sin on account of his choice.
+**1058**. Then when he says, ***the love of our neighbor works no evil***, he clarifies his proposition with the following syllogism: One who loves his neighbor does no evil to him. But the aim of every precept of the law is abstention from evil. Therefore, one who loves his neighbor fulfills the law. That love of neighbor does no evil is gathered from 1 Corinthians: *love does not work injury* (1 Cor 13:4).  
 
-But if someone afterwards has an erroneous conscience through which he believes that something lawful he did was a sin, or something venial was mortal, it is not on that account a sin or mortal, because the will and the action are not informed by a succeeding apprehension but by the one preceding the will and the action.
+No matter how evil is taken here, whether for evil acts or omissions, it could refer not only to negative precepts but also to affirmative. But inasmuch as love of neighbor includes love of God, it is understood that love of neighbor excludes evil both against one’s neighbor and against God. Thus, even the precepts of the first tablet are included.  
 
-**1120**. There is no doubt about what we have said, but there can be doubt whether if someone has an erroneous conscience whereby he believes that something which is a mortal sin is necessary for salvation; for example, if he thinks that he is sinning mortally, unless he steals or fornicates, should such a conscience bind him, so that if he acted against it, he would sin mortally.
+**1059**. Finally, he draws the conclusion mainly intended, saying: ***therefore, love is the fulfillment of the law***, i.e., the law is fulfilled and made perfect by love. *My abode is in the full assembly of the saints* (Sir 14:16); *above all these put on love, which binds everything together in perfect harmony* (Col 3:14).  
 
-It would seem that he would not be bound. First, because God’s law, which forbids stealing and fornication, bind him more strongly than conscience.
+Lecture 3  
 
-Second, because this position would put him in a perplexed state, for he would sin by fornicating and by not fornicating.
+***Exhortation to put on the Lord Jesus Christ***
 
-The answer is that an erroneous conscience binds, even in matters evil in themselves. For conscience, as has been said, binds to such an extent that from the fact that one acts against his conscience, it follows that he has the will to sin. Therefore, if someone believes that not to fornicate is a sin and chooses not to fornicate, he chooses to sin mortally; and so he sins mortally. This also applies to what the Apostle says here. For it is clear that distinguishing among foods as though necessary for salvation was unlawful, because even before the spreading of the Gospel, it was not lawful for the converted Jews to observe the practices of the law by putting their hope in them, as though they were necessary for salvation, as Augustine said above. Yet the Apostle says here that if a person’s conscience compels him to distinguish between foods, i.e., to regard some food as unclean, and he does not distinguish among them, i.e., by abstaining from them, he sins as though he were eating unclean food. And so an erroneous conscience obliges, even in matters that are *per se* illicit.
+^13:11^ And knowing this time, because it is now the hour for us to rise from sleep. For now our salvation is nearer than when we believed. [n. 1060]  
 
-The answer to the first objection about the law of God is that the binding force of even an erroneous conscience and that of the law of God are the same. For conscience does not dictate something to be done or avoided, unless it believes that it is against or in accordance with the law of God. For the law is applied to our actions only by means of our conscience.
+> ^13:12^ The night is passed, but the day is at hand. [n. 1066] Let us, therefore, cast off the works of darkness and put on the armor of light. [n. 1070]
 
-The answer to the second objection is that nothing forbids a person to be perplexed in certain circumstances, although no one is perplexed absolutely. For example, a fornicating priest sins mortally whether he celebrates Mass or does not celebrate, when he is obliged by his office. Yet absolutely speaking, he is not perplexed, because he can confess and then celebrate. Similarly, someone can get rid of an erroneous conscience and abstain from sin.
+> ^13:13^ Let us walk honestly, as in the day: [n. 1073] not in rioting and drunkenness, not in chambering and impurities, not in contention and envy. [n. 1074]
 
-**1121**. There is still another difficulty.
+> ^13:14^ But put on the Lord Jesus Christ: and make not provision for the flesh in its concupiscences. [n. 1079]
 
-For one is not said to place a stumbling block by doing a good work, even though someone takes the good work as a stumbling block, as Matthew says that the Pharisees took the words of Jesus as a stumbling block (Matt 15:12). But not to discriminate among foods is a good work; therefore, it should not be avoided just because someone with an erroneous conscience makes a stumbling block of it. For according to this, Catholics would have to abstain from meat and marriage to prevent heretics from being offended according to their erroneous conscience.
+> **1060**. After showing how man should behave in a pious manner toward God by using his gifts properly and paying his neighbor the debts owed him, the Apostle now shows how he should act with probity in regard to himself.
 
-The answer is that someone can place a stumbling block before another not only by doing something evil but also by doing something which has the appearance of evil: *abstain from all appearances of evil* (1 Thess 5:22). Now something is said to have the appearance of evil in two ways: first, according to the opinion of those cut off from the Church; second, according to the opinion of those still tolerated by the Church. But those weak in faith, considering that the practices of the law should be observed, were still tolerated by the Church before the spread of the Gospel. Therefore, foods forbidden by the law were not to be eaten, if they were a stumbling block. Heretics, however, are not tolerated by the Church; therefore, this reasoning does not apply to them.
+With respect to this he does two things:  
 
-**1122**. Then when he says, ***for if, because of food***, he clarifies what he had said:
+first, he proposes the suitability of the time;  
 
-first, that scandals must not be placed before a brother;
+second, he exhorts them to virtuous works, at ***let us therefore cast off***.  
 
-second, how something is common, at ***all things indeed are clean***.
+In regard to the first he does three things:  
 
-**1123**. In regard to the first he presents four arguments, the first of which is taken on the part of charity, saying: ***for if your brother be grieved*** by the fact that he thinks you are sinning ***because of food*** which you eat, which he considers unclean, ***you no longer walk according to charity***, according to which a person loves his neighbor as himself. So you should avoid saddening him and not prefer food to your brother’s peace of mind: *love does not seek its own* (1 Cor 13:5).
+first, he mentions the suitability of the time;  
 
-**1124**. Then when he says, ***destroy not him with your food***, he presents the second argument taken on the part of Christ’s death.
+second, he assigns the reason, at ***for now our salvation is nearer***;  
 
-For he seems to put little value on Christ’s death who voids its fruit for the sake of food. Hence he says: ***with your food***, of which you eat all without distinction, ***destroy not him***, i.e., be a stumbling block ***for whom***, i.e., for whose salvation, ***Christ died***: *Christ died for sins once for all, the just for the unjust* (1 Pet 3:18).
+third, he employs a figure of speech, at ***the night is passed***.  
 
-He says that the victim of the stumbling block suffers ruin, because it involves him in sin. For the victim is one who makes a stumbling block the occasion of ruin: *so by your knowledge this weak man is destroyed, the brother for whom Christ died* (1 Cor 8:11).
+**1061**. First, therefore, he says: we have stated what you should do. And you should do it not only for the reasons already given, but also because ***knowing this time***, i.e., you ought to consider the nature of the present here, because as it says in Ecclesiastes: *every matter has its time and way*; *even the stork in the heavens knows her times* (Eccl 8:6); *and the turtledove, swallow, and crane keep the time of their coming; but my people know not the ordinance of the Lord* (Jer 8:70).  
 
-**1125**. Then when he says, ***let not then***, he presents the third reason, which is taken on the part of the gifts of spiritual grace.
+**1062**. He shows what the time is suitable for, when he says: ***because it is now the hour for us to rise from sleep***. This is not a reference to the sleep of nature, sometimes called death, as in 1 Thessalonians: *we would not have you ignorant concerning those who are asleep* (1 Thess 4:13), and sometimes the repose of the animal powers, as in John: *if he is asleep, he will recover* (John 11:12). Nor is it a reference to the sleep of grace, sometimes called the repose of eternal glory, as in a psalm: *in peace I will lie down and sleep* (Ps 4:9) and sometimes the rest of contemplation even in this life: *I slept, but my heart was awake* (Song 5:3). But it is a reference to the sleep of guilt, as in Ephesians: *awake, O sleeper, and arise from the dead* (Eph 5:14), or to the sleep of negligence, as in Proverbs: *how long will you lie there, O sluggard?* (Prov 6:9).  
 
-First, he shows what impropriety follows against such gifts from the fact that we place a stumbling block;
+Therefore, it is full time now to wake from the sleep of guilt by doing penance: *awake after you have rested* (Ps 127:2) and from the sleep of negligence by taking care to act properly: *arise, O princes, oil the shield!* (Isa 21:5); *let not the hour for rising sadden you* (Sir 32:15).  
 
-second, he clarifies what he had said, at ***for the kingdom of God***;
+**1063**. Then when he says, ***for salvation***, he assigns the reason for what he had said, saying: ***for now our salvation is nearer than when we believed***. The Apostle is referring to the salvation of eternal life about which it is said: *my salvation will be for ever* (Isa 51:8).  
 
-third, he draws a conclusion, at ***therefore, let us follow after the things that are of peace***.
+Man is ordained to this salvation, first of all, by faith: *he that believes and is baptized will be saved* (Mark 16:16). But man gets closer and closer to it by good works and increased love: *draw near to God and he will draw near to you* (Jas 4:8).  
 
-**1126**. In regard to the first it should be noted that because some ate all foods without distinction in the early Church and thus set an obstacle before the weak, this impropriety followed, namely, that the weak blasphemed the faith of Christ, asserting that it fostered greediness in regard to food, contrary to the commandment of the law. Therefore, the Apostle says: Although the Lord Jesus declared that nothing is unclean, ***we let not then our good***, i.e., the faith and grace of Christ, though which you have obtained freedom from the ceremonies of the law, ***be evil spoken of*** by the weak who declare that it caters to man’s gluttony: *they blaspheme that honorable name by which you are called* (Jas 2:7); concerning this good it says in a psalm: *for me it is good to be near God* (Ps 73:6).
+This, therefore, is what the Apostle says: ***it is now the hour for us to rise from sleep, for now***, when we have made progress by good works and increased love, ***our salvation***, namely of eternal life, about which Isaiah says: *my salvation will be forever* (Isa 51:8), ***is nearer than when we believed***, i.e., than when we originally received the faith.  
 
-**1127**. Then when he says, ***for the kingdom***, he explains what he had said, namely, in what our good consists.
+**1064**. This nearness can be understood in two ways.  
 
-First, he shows in what it does not consist, saying: ***for the kingdom of God is not food and drink***. Here the kingdom of God means that through which God reigns in us and through which we arrive at his kingdom. Matthew says of this: *your kingdom come* (Matt 6:10) and Micah: *the Lord will reign over them in Mount Zion* (Mic 4:7). We are joined to God and subjected to him through our intellect and affections, as it says in John: *God is spirit, and those who worship him must worship in spirit and truth* (John 4:24). This is why the kingdom of God is considered mainly in things interior to man and not exterior. Hence Luke says: *the kingdom of God is within you* (Luke 17:21).
+First, in regard to time, by which holy men, as they make progress in good works, draw closer to the end of this life, after which they receive their reward.  
 
-But things which are exterior and pertain to the body pertain to the kingdom of God to the extent that through them the interior affections are ordered or disordered in regard to those things in which the kingdom of God mainly consists. Hence, since food and drink pertain to the body, they do not of themselves pertain to the kingdom of God, but only inasmuch as we use them or abstain from them. Hence it says in 1 Corinthians: *food will not commend us to God. We are no worse off if we do not eat, and no better off if we do* (1 Cor 8:8).
+The other is the nearness of preparation, because by increased love and good works performed, a man is prepared for that salvation: *those who were ready went in with him to the marriage feast* (Matt 25:10).  
 
-Yet the use of or abstinence from food and drink pertains to the kingdom of God, insofar as a man’s affections are ordered or disordered in regard to them. Hence Augustine says in *Questions on the Gospel*, and is provided here in the Gloss: *wisdom is justified in her children who understand that justice does not consist in eating or in abstaining, but in tolerating need with equanimity and in temperance not destroying itself by abundance and by unsuitable ways of eating. It makes no difference*, as is said in the Gloss *how, what, or how much one takes, provided he does it according to the habits of the men among whom he lives and for the needs of his person and health; but with how much power and severity of mind he suffers the lack of these, either when he should or of necessity must be deprived of them*.
+**1065**. But inasmuch as the Church reads these words during Advent, they seem to refer to the salvation which Christ worked during his first coming. Accordingly, we can understand the Apostle speaking in place of all believers since the beginning of the world. For as the time of Christ’s Incarnation drew near, and the predictions of the prophets grew in number, it could be said: ***our salvation***, namely, Christ, ***is nearer than when we believed***, i.e., when men in the very beginning started to believe in the future coming of Christ: *soon my salvation will come and my deliverance be revealed* (Isa 56:11).  
 
-**1128**. Second, he shows in what our good consists, namely, in the kingdom of God, saying: ***justice and peace and joy in the Holy Spirit***. Here ***justice*** refers to external works, whereby a man renders to each person what is his due and the intention of doing such works, as it says in Matthew: *seek first the kingdom of God and his justice* (Matt 6:33). ***Peace*** refers to the effect of justice. For peace is particularly disturbed, when one man does not give to another what he owes him. Hence it says in Isaiah: *peace is a work of justice* (Isa 32:17). ***Joy*** must be referred to the manner in which the works of justice are to be accomplished; for as the Philosopher says in book one of the *Ethics*, *a man is not just who does not take joy in acts of justice*. Hence a psalm says: *serve the Lord with gladness* (Ps 100:2).
+They can also be taken to refer to the time of mercy, when one begins willing to depart from past sins. For at that time he is closer to his salvation than previously, when he had a dead faith: *resist the devil and he will flee from you. Draw near to God and he will draw near to you* (Jas 4:7).  
 
-The cause of this joy is expressed when he says: ***in the Holy Spirit***. For it is by the Holy Spirit that the love of God is poured into us, as was said above (Rom 5:5). ***For joy in the Holy Spirit*** is what charity produces; for example, when one rejoices in the good of God and neighbor. Hence it says in 1 Corinthians: *charity does not rejoice at wrong, but rejoices in the right* (1 Cor 13:6), and in Galatians: *the fruit of the Spirit is love, joy, peace* (Gal 5:22).
+**1066**. Then when he says, ***the night is passed, but the day is at hand***, he uses a figure of speech to clarify his proposition. The import is that the entire time of the present life is compared to night on account of the darkness of ignorance with which the present life is encumbered. *We are swallowed up in darkness* (Job 33:4). Isaiah says of this night: *my soul yearns for you in the night* (Isa 26:9).  
 
-The three things mentioned here are possessed imperfectly in this life, but perfectly when the saints will possess the kingdom God prepared for them, as it says in Matthew (Matt 25:34). In that kingdom perfect justice will exist without any sin: *all your people are righteous* (Isa 60:21). There will be perfect peace without any disquiet or fear: *my people will abide in a peaceful habitation* (Isa 32:18). There will be joy there: *they shall obtain joy and gladness, and sorrow and sighing shall flee away* (Isa 35:1).
+But the state of future happiness is compared to day on account of God’s splendor with which the saints are enlightened: *the sun shall be no more your light by day, nor for brightness shall the moon give light to you by night, but the Lord will be your everlasting light* (Isa 60:19). This day is referred to in a psalm: *this is the day which the Lord has made; let us rejoice and be glad in it* (Ps 118:24).  
 
-**1129**. Then he proves what he had said, namely, that the kingdom of God consists in these things. For the man who seems to belong to the kingdom of God is one who is pleasing to God and approved by holy men. But this happens to the man in whom are found justice, peace, and joy. Therefore, the kingdom of God consists in them. He says, therefore: *it has been stated that the kingdom of God is justice, peace, and joy in the Holy Spirit*; ***for he who in this serves Christ***, who is the king of this kingdom: *he has transferred us into the kingdom of his beloved Son* (Col 1:13), so that one who lives in justice, joy, and peace ***pleases God***, who is the founder of this kingdom: *there was one who pleased God and was loved by him* (Wis 4:10) ***and is approved by men***, i.e., approved by the members of this kingdom: *who has been tested by it and found perfect* (Sir 31:10).
+**1067**. It can also be understood that the state of guilt is being compared to night on account of the darkness of guilt. About this darkness a psalm says: *they have neither knowledge nor understanding; they walk about in darkness* (Ps 82:5). About this night Wisdom says: *over those men alone heavy night was spread, an image of the darkness that was destined to receive them* (Wis 17:21).  
 
-**1130**. Then when he says, ***therefore***, he infers the intended admonition. Inasmuch as the kingdom of God consists in justice, peace, and spiritual joy, ***therefore***, in order to arrive at the kingdom of God, ***let us follow after*** the path of peace, i.e., strive to accomplish the things through which we conserve the peace of Christians: *strive for peace and holiness* (Heb 12:14). ***Let us keep the things that are of edification, one towards another***, i.e., things by which we upbuild one another, i.e., by which we preserve what is good and are stimulated to become better: *strive to excel in building up the Church* (1 Cor 14:12). Which indeed will happen if we have lived in justice and spiritual joy.
+But the state of grace is called day on account of the light of spiritual understanding which the just have, but the wicked lack: *light dawns for the righteous* (Ps 97:11); *the light of justice did not shine on us* (Wis 5:6).  
 
-**1131**. Then when he says, ***destroy not the work of God for food***, he presents the fourth argument, which is taken from our reverence for God’s works, to which we owe this reverence in the sense that what God does we should not destroy for some bodily convenience: And this is what he says: ***for food***, which is used by the body, ***destroy not the work of God***. This, of course, does not mean just any work of God. For all the things which serve as man’s food are God’s works, as the produce of the earth and the flesh of animals, which have been granted to man for food, as it says in Genesis (Gen 1:29; 9:3). It means the work of grace which he works in us in a special way: *God is at work in you, both to will and to work for his good pleasure* (Phil 2:13). Therefore, we should not for the sake of food destroy this work of God in our neighbor, as they seemed to do who disturbed and placed stumbling blocks before the brethren by eating all foods without distinction.
+**1068**. Or it can be understood that the time before Christ’s Incarnation is being compared to night, because it was not yet clear but wrapped in darkness: *we have the prophetic word made more sure. You will do well to pay attention to this as to a lamp shining in a dark place* (2 Pet 1:19). About this night it says in Isaiah: *watchman, what of the night?* (Isa 21:11). Hence, just as shadows appear at night, so during that time the practices of the law were in vogue, but *these were only a shadow of what is to come* (Col 2:17).  
 
-Lecture 3
+But the time after Christ’s Incarnation is compared to day on account of the power of the spiritual sun in the world: *but for you who fear my name, the sun of justice shall shine* (Mal 4:2). Hence the Lord says: *I must work the works of him who sent me, while it is day* (John 9:4); then he adds: *as long as I am in the world, I am the light of the world*.  
 
-***Clean and unclean food***
+**1069**. The saying, ***the night is passed***, can be taken for any of the three nights mentioned. For a large part of the life span of those to whom he was writing was already far gone; the night of guilt had passed, as had the period of the law before Christ.  
 
-***^14:20^ All things indeed are clean: but it is evil for that man who eats with offense. [n. 1132]***
+But it seems that the saying, ***but the day is at hand***, must be understood as referring to the day of future glory, which was at hand for the believers in Christ to whom he was writing, although it had not yet arrived for them.  
 
-> ^14:21^ It is good not to eat flesh and not to drink wine: nor any thing whereby your brother is offended or scandalized or made weak. [n. 1134]
+In keeping with the foregoing explanation, the time of Christ’s grace, although it had already arrived as regards the passage of time, is nonetheless described as drawing near through faith and devotion; just as it also says in Philippians: *the Lord is near* (Phil 4:5), and in a psalm: *the Lord is near to all who call upon him* (Ps 145:18).  
 
-> ^14:22^ Do you have faith? Have it to yourself before God. Blessed is he who condemns not himself in that which he allows. [n. 1136]
+It can also apply to those who begin to repent of their sins; for such persons the day of grace is at hand.  
 
-> ^14:23^ But he who discerns, if he eats, is condemned; because he does not act from faith. For all that is not of faith is sin. [n. 1139]
+**1070**. Then when he says, ***let us, therefore, cast off***, he concludes the exhortation to an honorable life.  
 
-> **1132**. After presenting a reason to show that we should not set a stumbling block before our neighbor by eating all foods indiscriminately, the Apostle now shows how certain foods can be clean and unclean. In regard to this he does two things.
+First he gives the exhortation;  
 
-First, he states which things are clean of their very nature, saying: ***all things indeed***, which can pertain to man’s food ***are clean***, namely, of its very nature, because of its very nature it does not have the power to defile a man’s soul, as it says in Matthew: *not what goes into the mouth defiles a man* (Matt 15:11); and in 1 Timothy: *everything created by God is good* (1 Tim 4:4). But certain things were declared unclean under the law not of their nature but by reason of what they signified, as is clear in Leviticus 11:2 et seq. But Christ even removed this uncleanness by fulfilling the figures of the old law. Hence it was said to Peter: *what God has cleansed, you must not call common*, i.e., unclean (Acts 10:15).
+second, he clarifies it, at ***not in rioting***.  
 
-Second, when he says, ***but it is evil for that man***, he shows how some food can become unclean for a man, namely, it stains his soul to eat it; and this in two ways:
+In regard to an honorable life he touches on three things.  
 
-first, when a person by eating all food indiscriminately puts a stumbling block before his neighbor;
+**1071**. First, the removal of vices, as he concludes: If ***the night is passed***, ***let us cast off the works of darkness***, because, as it says in Ecclesiastes: *every matter has its time and way* (Eccl 8:6). Hence, when the night is gone, the deeds of the night should cease.  
 
-second, when he eats food contrary to his conscience, at ***blessed is he who condemns not***.
+Here the works of sin are called works of darkness: first, because in themselves they lack the light of reason with which man’s works should be illumined: *the wise man has eyes in his head, but the fool walks in darkness* (Eccl 2:14); second, they are performed in the dark: *the eye of the adulterer waits for the twilight* (Job 24:15); third, because by them a person is brought to darkness: *cast them into the darkness outside* (Matt 22:13).  
 
-**1133**. In regard to the first he does three things: first, he shows what is evil in taking food, saying: Although all things are by their nature clean, but *it is evil for that man who eats* a certain food *with offense*, i.e., with confusion and scandal to neighbor: *woe to the world for stumbling blocks* (Matt 18:7).
+**1072**. Second, he summons them to put on the virtues. As if to say: since the day is at hand, be dressed as suits the day and ***put on the armor of light***, i.e., the virtues, which are called armor because they protect us: *put on the whole armor of God, that you may be able to stand against the wiles of the devil* (Eph 6:11).  
 
-**1134**. Second, he shows what is good in eating foods of this sort, saying: ***it is good not to eat flesh and not to drink wine***, the first of which seems to be the principal food and the second the principal drink.
+They are called the armor of light, because they are decorated and perfected by the light of reason; hence it says in Proverbs: *the path of the just is like the light of dawn* (Prov 4:18); and because they are tested by light: *he who does what is true comes to the light* (John 3:2); and because others are enlightened by virtuous acts: *so let your light shine before men* (Matt 5:16).  
 
-He says that it is good to abstain from these either to tame the desires of the flesh, as it says in Ephesians: *do not get drunk with wine, for in that is debauchery* (Eph 5:18), or even to make a man more apt for contemplating spiritual things: *I have thought to deprive myself of wine, that I might give my mind to wisdom* (Eccl 2:3).
+**1073**. Third, he urges them to use the virtues and make progress when he says: ***let us walk honestly, as in the day***. For these two things seem suited to the day: first, becoming conduct, for in the day everyone tries to present himself becomingly before others. But not so in the night. Hence, it says in 1 Thessalonians: *for those who sleep, sleep at night, and those who get drunk, get drunk at night. But since we belong to the day, let us be sober* (1 Thess 5:7). Hence it says in 1 Corinthians: *let all things be done decently and in order* (1 Cor 14:40).  
 
-But this is not what the Apostle intends to say here, but that it is good not to use these, if they are a stumbling block to the brethren. This is apparent from what he says: ***nor any thing whereby your brother is offended***. What I say, I say not only about wine and meat, namely, that it is good not to use them, but I say it of any other food; ***your brother is offended***, i.e., disturbed about you, as if you were acting unlawfully. By this his peace is disturbed ***or scandalized***, i.e., is tempted to fall into sin; wherefore, his justice is injured ***or made weak***, i.e., begins at least to wonder whether what is done is lawful, so that his spiritual joy is lessened. Hence the Apostle says: *if meat scandalize my brother, I will never eat flesh, lest I should scandalize my brother* (1 Cor 8:13).
+Second, man walks in the day, not at night; hence it says in John: *if anyone walks in the night, he stumbles* (John 11:10). Therefore, because it is day, we should walk, i.e., advance from good to better: *walk while you have the light* (John 12:35).  
 
-**1135**. But since it is lawful to use these foods, if one must abstain from using them for fear of putting a stumbling block before his neighbor, then by the same token it seems that one should abstain from all lawful things which are not necessary for salvation, as justice, peace, and spiritual joy are necessary. So it seems that it is not lawful for a man to demand his due for fear of putting a stumbling block before his neighbor.
+**1074**. Then when he says, ***not in rioting***, he explains what he had said.  
 
-The answer is that if the stumbling block proceeds from the weakness or ignorance of those scandalized on account of it, then to avoid this scandal a man should abstain from lawful things, if they are not necessary for salvation. For this is scandal of little ones, which the Lord commands us to avoid: *see that you do not despise one of these little ones* (Matt 18:10). But if scandal of this sort arises from the malice of those scandalized, such scandal is Pharisaical and the Lord taught that it should be ignored. Hence, to avoid scandal of this sort, it is not necessary to abstain from lawful things.
+First, he explains how the works of darkness are to be cast off. These are sinful works, some of which he mentions. First, he mentions those which pertain to the corruption of the concupiscible appetite, whose corruption is intemperance in regard to pleasures of touch and to food. First, therefore, he excludes intemperate use of food when he says: ***not in rioting***: *be not among wine bibbers or among gluttonous eaters of meat* (Prov 23:20). This, of course, can be a mortal sin from the fact that according to the law one is condemned to death for this sin. For it is said of a stubborn son: *this our son is stubborn and rebellious: he is a glutton and drunkard. Then they shall stone him to death with stones* (Deut 21:22).  
 
-But yet in regard to scandal of little ones, it should be noted that to avoid it, a person is bound to postpone the use of lawful things, until this scandal can be removed by explaining one’s conduct. But if the scandal still remains after such an explanation, then it would seem to proceed not from ignorance or from weakness but from malice, so that it will now be Pharisaical scandal.
+One is said to pass the time in reveling, not if he eats with the magnificence that accords with his state, as King Ahasuerus commanded a splendid banquet to be prepared in honor of Esther, when she was made queen (Esth 2:18), but when he does this beyond the limits of his state, and especially if his main interest centers on this, as those about whom it is said: ***such persons do not serve our Lord Jesus Christ, but their own belly*** (Rom 16:18); *their god is their belly* (Phil 3:19).  
 
-**1136**. Third, he rejects an excuse. For someone might say: although my neighbor may be scandalized at my eating all foods indiscriminately, yet to profess my faith, which tells me that it is lawful, I will use food indiscriminately.
+**1075**. Second, he excludes intemperance in drink, when he adds: ***and drunkenness***, which refers to excessive drinking, which places a man outside the bounds of reason: *wine created to make men glad, not drunk* (Sir 31:27).  
 
-But the Apostle rejects this reasoning, saying: ***do you***, who would use all foods indiscriminately, ***have faith***, through which it is clear that it is lawful to use these foods. This faith is good and praiseworthy, *have it* secretly *before God*, whom such faith pleases: *God is well pleased with faith and meekness* (Sir 18:14). As if to say: it is not fitting to manifest your faith by an outward work, when this becomes a stumbling block to your neighbor.
+It should be noted that drunkenness is a mortal sin by its genus, namely when a person gets drunk on purpose, because he seems to prefer the pleasure of wine to the full use of reason. Hence it says in Isaiah: *woe to those who are heroes at drinking wine, and valiant men in mixing strong drink* (Isa 5:22). But if one gets drunk unintentionally, for example, because he was not aware of the strength of the wine or because he did not suspect he would get drunk on such wine, it is not a mortal sin, because he did not get drunk on purpose but accidentally. However, this cannot happen with persons who get drunk frequently. Hence, Augustine says in a sermon on Purgatory that drunkenness is a mortal sin, if it is a frequent occurrence. The Apostle thus significantly uses the plural number: ***not in riotings and drunkenness***.  
 
-**1137**. But this seems to be contradicted by something he said above: ***man believes with his heart and so is justified; and he confesses with his mouth and so is saved*** (Rom 10:10). Therefore, it does not seem to be enough to keep the faith in your heart between yourself and God, but it should be manifested by confessing it before one’s neighbor.
+**1076**. Third, he excludes intemperance in regard to bodily rest when he says: ***not in chambering***, i.e., not in excessive sleep, which he fittingly forbids after rioting and drunkenness, because it follows from them. Furthermore, there can be mortal sin in this, when for the sake of bodily rest and sleep, a person neglects what he ought to do and is inclined to commit evil deeds: *woe to those who devise wickedness and work evil upon their beds!* (Mic 2:1).  
 
-The answer is that among the matters of faith some have not been perfectly manifested by the Church, as in the early Church it had not been perfectly declared to men that Jewish converts were not bound to observe the practices of the law, and as in the time of Augustine the Church had not yet declared that the soul was not transferred from the parent. Hence, in cases of this kind it is enough for a man to keep his faith between himself and God. Nor should he manifest his faith, if it scandalizes his neighbor, except perhaps among those who have to decide about the faith.
+The Apostle’s words can also refer to the trappings of lust. Hence the harlot is quoted as saying: *I have perfumed my bed with myrrh, aloes, and cinnamon* (Prov 7:17). *Because you went up to your father’s bed, and did defile his couch* (Gen 49:4).  
 
-But certain things of faith have already been determined by the Church. In such matters it is not enough to keep one’s faith between oneself and God, but one should confess it before his neighbor, no matter what scandal might arise, because doctrinal truth must not be set aside on account of scandal, just as Christ did not set aside the truth of his teaching just because the Pharisees were scandalized, as it says in Matthew 15:12 et seq.
+**1077**. Therefore, fourth, he fittingly excludes intemperance in regard to sex when he says: ***and impurities***, i.e., venereal actions which are called shameful, because they do not avoid what is especially shameful and worthy of confusion: both because all pleasures of touch, gluttony and lust are common to us and brutes, so that one who pursues them inordinately becomes bestial. *Do not become like the horse and the mule, who have no understanding* (Ps 31:9). And because it is especially in venereal acts that man’s reason is totally absorbed by pleasure to such an extent that he cannot understand, as the Philosopher says in the *Ethics*. Hence it says in Hosea: *harlotry and drunkenness and wine take away the understanding* (Hos 4:11); *they did not repent over their licentiousness and fornication and uncleanness* (Rev 9:21).  
 
-It should also be noted that although in such matters a person should manifest his faith by oral confession, he is not required to manifest it by performing the outward work. Thus, if someone hold by faith that the use of marriage is licit, he is not required as a manifestation of his faith to use. And so it is also not required of those who have correct faith, that they manifest their faith by the use of foods. For they could manifest it by word.
+**1078**. Then he excludes those sins which pertain to the corruption of the irascible appetite when he says: ***not in contention***. Contention, as Ambrose says, is an attack on the truth, performed with confident shouting. It is also possible that these words forbid all quarreling, not only in words but also in deeds, which very frequently begin with words: *it is an honor for a man to keep aloof from strife* (Prov 20:3).  
 
-**1138**. Then when he says, ***blessed is he who condemns not***, he shows how the use of foods becomes unclean for certain persons from the fact that it is against their conscience.
+Contention generally arises from envy; therefore he adds: ***and envy***. Hence it says in James: *where jealousy and selfish ambitions exist, there will be disorder and every vile practice* (Jas 3:16).  
 
-In regard to this he does three things: first, he shows what is good in this matter, in order, namely, that a person not have remorse of conscience from something he does not do. Hence, he says: ***blessed is he who condemns not himself***, i.e., whose conscience neither chides nor condemns him ***in that which he allows*** to be done.
+**1079**. Second, he explains how we should put on the armor of light, saying: ***but put on the Lord Jesus Christ*** in whom all the virtues were present most abundantly, according to Isaiah: *seven women shall take hold of one man* (Isa 4:1).  
 
-This, of course, supposes that he approves with right faith that which is to be done. But if he uses a false opinion in approving something to be done, say if he deems it a service to God to kill Christ’s disciples, as it says in John, he is not excused just because he does not judge himself in this matter (John 16:2). Indeed, he would be happier if his conscience were to rebuke him on this point, because he would thereby have been restrained more from sin. But we should understand that the Apostle is speaking here of lawful things. For it pertains to man’s glory that his conscience not rebuke him: *our glory is this, the testimony of our conscience* (1 Cor 1:12); *my heart does not reproach me for any of my days* (Job 27:6).
+We put on Jesus Christ, first, by receiving the sacrament: *all you who have been baptized in Christ have put on Christ* (Gal 3:27).  
 
-**1139**. Second, he shows what is evil in this matter, namely, that one acts against his conscience. Hence he says: ***but he who discerns***, i.e., has the false opinion that he must discriminate among foods, ***if he eats***, namely, food which he regards as unlawful, ***is condemned***, because so far as in him lies, he has the will to do what is unlawful; and so, *because he sinned, he is self-condemned* (Titus 3:11).
+Second, by imitation. *Stripping yourselves of the old man with his deeds, and putting on the new* (Col 3:9); *and put on the new man, who according to God is created in justice and holiness of truth* (Eph 4:24). For a person who imitates Christ is said to put on Christ, because, just as a man is covered by a garment and is seen under its color, so in one who imitates Christ the works of Christ appear. Therefore, we put on the armor of light, when we put on Christ.  
 
-**1140**. Third, he assigns the cause of what he had said, saying: ***because he does not act from faith***; therefore, he is condemned.
+**1080**. Third, he explains what it is that we should ***walk honestly, as in the day***, when he says: ***make not provision for the flesh in its concupiscences***. For the beauty of becoming conduct lies in the fact that man does not prefer the flesh to the spirit but the spirit to the flesh: ***we are not debtors to the flesh that we should live according to the flesh*** (Rom 8:12).  
 
-Here faith can be taken in two ways: in one way of faith as a virtue; in another way, so that conscience is called faith. These two meanings differ only as particular and universal. For what we hold by faith universally, for example, that the use of foods is lawful or unlawful, conscience applies to a deed performed or to be performed.
-
-It is said, therefore, that he who eats and distinguishes is condemned, because this is not from faith but against faith, i.e., against a truth of faith and against the conscience of the eater: *without faith it is impossible to please God* (Heb 11:6). That this is a sufficient reason for condemnation is shown when he says: ***whatever does not proceed from faith is sin***. From this it seems that, as a Gloss says, *the entire life of unbelievers is sin*, just as the entire life of believers is meritorious, inasmuch as it is directed to the glory of God, as it says in 1 Corinthians: *whether you eat or drink, or whatever you do, do all to the glory of God* (1 Cor 10:31).
-
-**1141**. But it should be noted that the believer’s relation to good differs from the unbeliever’s relation to evil. For there is nothing of condemnation in a person who has living faith, as was said above (Rom 8:1). But in the unbeliever along with his unbelief is the good of his nature. Therefore, when an unbeliever does something good from the dictate of reason and does not refer it to an evil end, he does not sin. However, his deed is not meritorious, because it was not enlivened by grace. This is what a Gloss says: *nothing is good without the supreme good*, i.e., no good is meritorious without God’s grace, and *where knowledge of eternal life and unchangeable truth is lacking*, which knowledge comes by faith, *virtue in the best behavior is false*, inasmuch as it is not referred to the end of eternal happiness. But when an unbeliever does something from the fact that he is an unbeliever, it is clear that he sins. Hence when a Gloss says: *every deed which is not from faith is a sin*, it must be understood in the following way: Everything against faith or against conscience is a sin, and if it seems of its nature to be good, as when a pagan in honor of his gods preserves virginity or gives an alms, he sins by this very fact: *to the corrupt and unbelieving nothing is pure; their very minds and consciences are corrupted* (Titus 1:15).
-
-Chapter 15
+It should be noted that he does not say ***make not provision for the flesh*** absolutely, because everyone is bound to take care of the body in order to sustain nature: *no one hates his own flesh, but nourishes and cherishes it* (Eph 5:29); but he adds, ***in its concupiscences***, so that we do not follow the disorderly desires of the flesh: *walk by the Spirit and do not gratify the desires of the flesh* (Gal 5:16).

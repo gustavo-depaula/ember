@@ -1,11 +1,13 @@
-# Quaestio 7 — Post considerationem divinae perfectionis, considerandum est de eius infinitate, et de existentia eius in rebus, attribuitur enim Deo quod sit ubique et in omnibus rebus, inquantum est incircumscriptibilis et infinitus.
+# Quaestio 7
 
-Circa primum quaeruntur quatuor.
+***De infinitate Dei***
 
-Primo, utrum Deus sit infinitus.
+Post considerationem divinae perfectionis, considerandum est de eius infinitate, et de existentia eius in rebus, attribuitur enim Deo quod sit ubique et in omnibus rebus, inquantum est incircumscriptibilis et infinitus.  
 
-Secundo, utrum aliquid praeter ipsum sit infinitum secundum essentiam.
+Circa primum quaeruntur quatuor.  
 
-Tertio, utrum aliquid possit esse infinitum secundum magnitudinem.
+Primo, utrum Deus sit infinitus.  
 
-Quarto, utrum possit esse infinitum in rebus secundum multitudinem.
+- Secundo, utrum aliquid praeter ipsum sit infinitum secundum essentiam.
+- Tertio, utrum aliquid possit esse infinitum secundum magnitudinem.
+- Quarto, utrum possit esse infinitum in rebus secundum multitudinem.

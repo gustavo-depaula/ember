@@ -1,5 +1,7 @@
-# Question 126 — We must now consider the vice of fearlessness: under which head there are two points of inquiry:
+# Question 126 — Fearlessness
 
-(1) Whether it is a sin to be fearless?
+We must now consider the vice of fearlessness: under which head there are two points of inquiry:  
 
-(2) Whether it is opposed to fortitude?
+(1) Whether it is a sin to be fearless?  
+
+- (2) Whether it is opposed to fortitude?

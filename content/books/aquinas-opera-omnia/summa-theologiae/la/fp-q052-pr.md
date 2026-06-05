@@ -1,7 +1,8 @@
-# Quaestio 52 — Deinde quaeritur de loco Angeli. Et circa hoc quaeruntur tria.
+# Quaestio 52
 
-Primo, utrum Angelus sit in loco.
+***Deinde quaeritur de loco angeli. Et circa hoc quaeruntur tria.***
 
-Secundo, utrum possit esse in pluribus locis simul.
+Primo, utrum angelus sit in loco.  
 
-Tertio, utrum plures Angeli possint esse in eodem loco.
+- Secundo, utrum possit esse in pluribus locis simul.
+- Tertio, utrum plures angeli possint esse in eodem loco.

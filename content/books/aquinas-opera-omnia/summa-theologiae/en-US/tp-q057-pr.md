@@ -1,13 +1,11 @@
-# Question 57 — We have now to consider Christ's Ascension: concerning which there are six points of inquiry:
+# Question 57 — The Ascension of Christ
 
-(1) Whether it belonged for Christ to ascend into heaven?
+We have now to consider Christ’s Ascension: concerning which there are six points of inquiry:  
 
-(2) According to which nature did it become Him to ascend?
+(1) Whether it belonged for Christ to ascend into heaven?  
 
-(3) Whether He ascended by His own power?
-
-(4) Whether He ascended above all the corporeal heavens?
-
-(5) Whether He ascended above all spiritual creatures?
-
-(6) Of the effect of the Ascension.
+- (2) According to which nature did it become Him to ascend?
+- (3) Whether He ascended by His own power?
+- (4) Whether He ascended above all the corporeal heavens?
+- (5) Whether He ascended above all spiritual creatures?
+- (6) Of the effect of the Ascension.

@@ -1,9 +1,9 @@
-# Question 71 — We have now to consider the preparations that accompany Baptism: concerning which there are four points of inquiry:
+# Question 71 — The Preparations That Accompany Baptism
 
-(1) Whether catechism should precede Baptism?
+We have now to consider the preparations that accompany Baptism: concerning which there are four points of inquiry:  
 
-(2) Whether exorcism should precede Baptism?
+(1) Whether catechism should precede Baptism?  
 
-(3) Whether what is done in catechizing and exorcizing, effects anything, or is a mere sign?
-
-(4) Whether those who are to be baptized should be catechized or exorcized by priests?
+- (2) Whether exorcism should precede Baptism?
+- (3) Whether what is done in catechizing and exorcizing, effects anything, or is a mere sign?
+- (4) Whether those who are to be baptized should be catechized or exorcized by priests?

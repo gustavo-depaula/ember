@@ -1,111 +1,87 @@
-# Chapter 64
+# Chapter 62
 
-> ^64:2^ They would melt as at the burning of fire, the waters would burn with fire, that your name might be made known to your enemies: that the nations might tremble at your presence.
+^62:1^ For Zion’s sake I will not hold my peace, and for the sake of Jerusalem, I will not rest till her just one come forth as brightness, and her savior be lighted as a lamp.  
 
-> ^64:3^ When you shall do wonderful things, we shall not bear them: you didst come down, and at your presence the mountains melted away.
+> ^62:2^ And the Gentiles shall see your just one, and all kings your glorious one: and you shall be called by a new name, which the mouth of the Lord shall name.
 
-> ^64:4^ From the beginning of the world they have not heard, nor perceived with the ears: the eye has not seen, O God, besides you, what things you have prepared for them that wait for you.
+> ^62:3^ And you shall be a crown of glory in the hand of the Lord, and a royal diadem in the hand of your God.
 
-> ^64:5^ You have met him that rejoices, and doth justice: in your ways they shall remember you: behold you are angry, and we have sinned: in them we have been always, and we shall be saved.
+> ^62:4^ You shall no more be called Forsaken: and your land shall no more be called Desolate: but you shall be called My pleasure in her, and your land inhabited. Because the Lord has been well pleased with you: and your land shall be inhabited.
 
-> ^64:6^ And we are all become as one unclean, and all our justices as the rag of a menstruous woman: and we have all fallen as a leaf, and our iniquities, like the wind, have taken us away.
+> ^62:5^ For the young man shall dwell with the virgin, and your sons *(*Filii*. DR: “children.”)* shall dwell in you. And the bridegroom shall rejoice over the bride, and your God shall rejoice over you.
 
-> ^64:7^ There is none that calls upon your name: that rises up, and takes hold of you: you have hid your face from us, and have crushed us in the hand of our iniquity.
+> ^62:6^ Upon your walls, O Jerusalem, I have appointed watchmen all the day, and all the night, they shall never hold their peace. You that are mindful of the Lord, hold not your peace,
 
-> ^64:8^ And now, O Lord, you are our father, and we are clay: and you are our maker, and we all are the works of your hands.
+> ^62:7^ and give him no silence till he establish, and till he make Jerusalem a praise in the earth.
 
-> ^64:9^ Be not angry enough,*Ne irascaris, Domine, satis*. DR: “be not very angry, O Lord.” O Lord, and remember no longer our iniquity: behold, see we are all your people.
+> ^62:8^ The Lord has sworn by his right hand, and by the arm of his strength: if I will give your corn to be meat for your enemies: and the sons of the strangers shall drink your wine, *(DR translates the idiomatic negative Hebrew oath: “surely I will no more give thy corn to be meat for thy enemies: and the sons of the strangers shall not drink thy wine.” (See Britt, *A Dictionary of the Vulgate Psalter*, Introduction, xxvi.))* for which you have labored.
 
-> ^64:10^ The city of your sanctuary is become a desert, Zion is made a desert, Jerusalem is desolate.
+> ^62:9^ For they that gather it, shall eat it, and shall praise the Lord: and they that bring it together, shall drink it in my holy courts.
 
-> ^64:11^ The house of our holiness, and of our glory, where our fathers praised you, is burnt with fire, and all our lovely things are turned into ruins.
+> ^62:10^ Go through, go through the gates, prepare the way for the people, make the road plain, pick out the stones, and lift up the sign *(DR: “standard.”)* to the people.
 
-> ^64:12^ Wilt you refrain yourself, O Lord, upon these things, will you hold your peace, and afflict us vehemently?
+> ^62:11^ Behold the Lord has made it to be heard in the ends of the earth, tell the daughter of Zion: behold your Savior comes: behold his reward is with him, and his work before him.
 
-> **1113**. ***O that you wouldst rend***. Here he offers a petition.
+> ^62:12^ And they shall call them, The holy people, the redeemed of the Lord. But you shall be called: a city sought after, and not forsaken.
 
-And first, he asks for the presence of the judge;
+> **1086**. ***For Zion’s sake***. Here he promises the honor of glory to the people.
 
-second, he asks for mercy: ***behold you are angry*** (Isa 64:5).
+And first, the petition of the prophet is set out;  
 
-Concerning the first, he does two things.
+second, the promise of the Lord: ***the Lord has sworn*** (Isa 62:8).  
 
-First, he sets out the petition;
+Concerning the first, he does two things:  
 
-second, the fulfillment of the petition: ***you didst come down*** (Isa 64:3).
+first, he himself asks;  
 
-Concerning the first of these, he does two things.
+second, he leads others to ask: ***you that are mindful of the Lord*** (Isa 62:6).  
 
-First, he asks for the coming of the judge: ***O that you wouldst rend the heavens***. He speaks figuratively, as though to one living above the heavens; or: that you would empty yourself, putting aside your majesty, and would assume flesh: *bow down your heavens and descend* (Ps 143[144]:5).
+**1087**. Concerning the first, he does two things.  
 
-**1114**. Second, he sets out the effect of the coming of the judge
+First, he himself asks for the birth of a savior: ***for Zion’s sake***, namely, for her advantage, or for love of her, ***I will not hold my peace***, from prayers before God; ***her savior***, Cyrus; ***as brightness***, in the glory of his kingdom. Mystically: ***I will not hold my peace***, from the preaching of Christ because of contradiction; ***Zion***, of the king; ***Jerusalem***, of the priests; ***her savior***, Christ: *his face as the appearance of lightning* (Dan 10:6).  
 
-[first,] in insensible creatures, namely in the mountains: ***the mountains would melt away at your presence***, as if to say: they would not endure your presence, if it pleased you; or ***the mountains***, the powerful and the proud, above: ***the mountains shall be melted*** (Isa 34:3) with their strength. In the waters: ***the waters would burn with fire***, because you are all fiery, if you should wish: *at another time the fire, above its own power, burnt in the midst of water* (Wis 16:19); or, by ***the waters*** are signified peoples: *the many waters are many peoples* (Rev 17:15).
+**1088**. Second, he shows the fruit of the coming of the Savior.  
 
-Second, the effect on men,
+First, as to the glory of the city, promising this glory in three things.  
 
-and first, on the gentiles: ***that the nations might tremble at your presence***: *the Gentiles shall be troubled* (Ps 64:8–9[65:7–8]); literally, they will be shaken; or this refers to the conversion of the gentiles after the coming of Christ.
+In the dignity of the king: ***and the Gentiles shall see***, admiring and revering, ***your just one***, Christ or Cyrus: *all the ends of the earth have seen the salvation of our God* (Ps 97[98]:3).  
 
-Second, the effect on the Jews: ***when you shall do wonderful things, we shall not bear***, that is, we, who are accustomed to see and hear, because of our stupor, as they were terrified in Exodus 20:18, thus: *they that had excused themselves* (Heb 12:19); or ***we shall not bear*** his coming, even having seen his miracles.
+In the newness of its name, ***and you shall be called by a new name***, according to the custom of the ancients, who gave new names from new events, and afterwards he will pronounce this name. Mystically, the Church, which was formerly the Synagogue: *I will give him a white counter: and in the counter, a new name* (Rev 2:17).  
 
-**1115**. ***You didst come down***. Here he sets out the fulfillment of the petition.
+In the defense of divine protection: ***and you shall be a crown of glory***, because your God will glory in you, as a king glories in the crown of his kingdom; ***in the hand of the Lord***, that is, in his protection: *they shall receive a kingdom of glory, and a crown of beauty at the hand of the Lord* (Wis 5:17). Mystically: the Church is like a crown, with which the Son of God is crowned by the Father.  
 
-And first, as to his coming: ***you didst come down***, to judge us: using the past tense for the future; or, into the womb of the virgin. Or better, according to the literal sense, he sets out the proof of the effect, as if to say: if you should come down now, the same things would happen, which happened when you came down to free your people from Egypt (Exod 4); *he bowed the heavens, and came down, and darkness was under his feet* (Ps 17:10[18:9]).
+And he excludes disgrace, and in so doing again pronounces a new name, ***you shall no more be called Forsaken***: *because they say of you* (Ezek 36:13).  
 
-**1116**. Second, as to the effect.
+**1089**. Second, as to the joy of the inhabitants of the city; both as to boys: ***for the young man shall dwell with the virgin***; and as to grown men: ***and your sons shall dwell in you***; and as to married men: ***and the bridegroom shall rejoice over the bride***: *there shall be heard again in this place* (Jer 33:10). Mystically: ***the young man shall dwell with the virgin***, chastely, as Mary dwelled with Joseph; ***the bridegroom***, Christ; ***the bride***, the Church.  
 
-First, in wonders: ***at your presence the mountains***, the rocks of Arnon, ***melted away***, Numbers 21:14–15; *the mountains skipped* (Ps 113[114]:4); mystically: the Jews, or the demons.
+**1090**. Third, as to the diligent guarding of the city’s buildings, which is expressed in Nehemiah 4:17: *with one hand* they built, and with the other they fought. ***Upon your walls, O Jerusalem, I have appointed watchmen all the day, and all the night, they shall never hold their peace***. This is spoken according to the likeness of watchmen who guard the city; or by a metaphor it indicates the diligence of the princes, who governed the people, or of preachers in the Church: *and they rested not day and night, saying: holy, holy, holy* (Rev 4:8).  
 
-Second, in benefits,
+**1091**. ***You that are mindful of the Lord***. Here he leads others to make a similar petition: ***hold not your peace***, from prayer; ***and give him***, God, ***no silence***: *always rejoice. Pray without ceasing* (1 Thess 5:16–18).  
 
-and first, he sets out the greatness of his benefits: ***from the beginning of the world they have not heard***, for never has anything been seen or heard, like what God did for the Jews, and will do for the saints in glory: *eye has not seen, nor ear heard: neither has it entered into the heart of man, what things God has prepared for them that love him* (1 Cor 2:9).
+**1092**. ***The Lord has sworn by his right hand***. Here the Lord promises to fulfill the petition.  
 
-Second, as to the promptness of his benefitting them: ***you have met him that rejoices***, to help him, while he was still petitioning or coming to you; ***him that rejoices***, in you: *wisdom goes about seeking such as are worthy of her* (Wis 6:17). Mystically: Simeon (Luke 2).
+And first, as to driving back their enemies: ***if***, supply: you do not trust in me, ***I will give your corn to be meat for your enemies***: *he that tills his ground* (Prov 28:19), and eats not the fruit from it.  
 
-**1117**. ***Behold you are angry***. Here he sets out mercy.
+Second, as to the liberation of captives, as to the preparation of the way: ***go through***, you messengers of Cyrus and Darius; ***pick out the stones***, impediments: *take the stones out of the way* (Jer 50:26); or you, watchmen of the walls: preachers. As to the granting of joy: ***lift up the sign***, the decree of Cyrus that all the captives could return, or ***the sign***, of the cross, above: ***he shall set up a sign*** *(DR: “standard.”)* ***unto the nations*** (Isa 11:12). And as to the retribution of justice: ***tell the daughter of Zion***, the people of the Jews, ***behold your Savior***, God, or Cyrus; ***behold his reward is with him***, that he might repay good things to you and evil things to your enemies. Mystically, this refers to the coming of Christ to judge, above (Isa 40:9–10) has the same thing.  
 
-And first, he shows the need of the petitioner;
+Third, where it says, ***and they shall call them***, he sets out the honor of the liberated people, who had a great reputation of holiness, because of the benefits given to them, above: ***after this you shall be called the city of the just, a faithful city*** (Isa 1:26). Mystically, this refers to the Church and the Christian people.  
 
-second, he offers the petition: ***and now, O Lord*** (Isa 64:8).
+**1093**. Note on the words, ***for Zion’s sake I will not hold my peace*** (Isa 62:1), that the saints hold not their peace  
 
-Concerning the first, he does two things.
+first, because of the desire inflamed in them: *there came in my heart the word of the Lord* *(Vg. omits “the word of the Lord.”)* *as a burning fire* (Jer 20:9);  
 
-First, he shows his need from the eminence of evil, as to their fault; then from the committing of evils: ***behold you are angry, and we have sinned***: the order is reversed: for this reason you are angry, because we have sinned, ***and***, nevertheless, ***we shall be saved***, by your mercy, above: ***our wicked doings are with us*** (Isa 59:12).
+second, because of the truth evident to them: *for we cannot but speak the things which we have seen* (Acts 4:20);  
 
-And as to the imperfection of their good deeds: ***and we are all become as one unclean, and all our justices***, because they are wrapped up in other sins: *if I be washed, as it were, with snow waters, and my hands shall shine ever clean, yet you shall plunge me in filth, and my garments shall abhor me* (Job 9:30–31).
+third, because of the office enjoined on them: *for a necessity lies upon me. For woe is unto me if I preach not the gospel* (1 Cor 9:16);  
 
-And as to their punishment: ***and we have all fallen***, killed, or from our state of worthiness; ***and our iniquities, like the wind, have taken us away***, from our land: *against a leaf, that is carried away with the wind, you show your power* (Job 13:25).
+fourth, because of the reward expected by them: *in doing good, let us not fail. For in due time we shall reap, not failing* (Gal 6:9).  
 
-**1118**. Second, he shows the need of the petitioner as to lack of help.
+**1094**. Note also on the words, ***till her just one come forth as brightness*** (Isa 62:1), that Christ shines  
 
-And first, lack of human help: ***there is none that calls upon and takes hold of you***, with prayers: *I held him: and I will not let him go* (Song 3:4);
+first, in the image of the Father: *being the brightness of his glory and the figure of his substance* (Heb 1:3);  
 
-second, lack of divine help: ***you have hid your face***, of your mercy, ***and have crushed us in the hand***, that is, the work, ***of our iniquity***; according to what it says in Proverbs 18:21: *I will hide my face from them* (Deut 32:20).
+second, in the light of the saints: *in the brightness of the saints: from the womb before the day star I begot you* (Ps 109[110]:3);  
 
-**1119**. ***And now, O Lord***. Here he sets out mercy. And concerning this, he does two things.
+third, in the fullness of glory: *his face did shine as the sun* (Matt 17:2);  
 
-First, he asks for mercy, assigning the reason: ***you are our father***: *as clay is in the hand of the potter, so are we**Nos*. Vg.: *vos*. *in the hand of God**Manu Dei*. Vg.: *manu mea*. (Jer 18:6); *remember, I beseech you, that you have made me as the clay* (Job 10:9). And he offers the petition: ***be not angry enough***, that is, exceedingly, or according to what our merits demand: *remember not our former iniquities: let your mercies speedily prevent us* (Ps 78[79]:8).
-
-Second, he sets out their misery: ***behold***, Lord, ***see we*** are ***all***. ***The city of your sanctuary*** (*sancti*), that is, the sanctuary of the temple, namely, Jerusalem: *the enemy has put out his hand to all her desirable things* (Lam 1:10). And he wonders at his patience: ***will you refrain yourself, O Lord, upon these things?** Why look you upon our iniquities?**Iniquitates nostras*. Vg.: *iniqua agentes*. DR: “them that do unjust things.” (Hab 1:13).
-
-**1120**. Note on the words, ***what things you have prepared for them that loveDiligentibus*. Vg.: *exspectantibus*. DR: “wait for.” ***thee*** (Isa 64:4), that God prepares for the saints,
-
-first, a place of eternal rest: *if not, I would have told you: because I go to prepare a place for you* (John 14:2);
-
-second, a kingdom of eternal dignity: *come, you blessed of my Father, possess you the kingdom prepared for you from the foundation of the world* (Matt 25:34);
-
-third, a table of divine refreshment: *you have prepared a table before me* (Ps 22[23]:5);
-
-fourth, a lamp of eternal light: *I have prepared a lamp for my anointed* (Ps 131[132]:17).
-
-**1121**. Note also on the words, ***all our justices as the rag of a menstruous woman*** (Isa 64:4), that a work of justice is defiled by filth,
-
-first, of mortal stain: *you have stained your glory* (Sir 47:22[20]);
-
-second, of negligence committed: *cursed be he that doth the work of the Lord negligently**Negligenter*. Vg.: *fraudulenter*. DR: “deceitfully.” (Jer 48:10);
-
-third, of perverse intention: *if your eye scandalize you* (Matt 5:29);
-
-fourth, of rising pride, above: ***the wind shall carry them all off*** (Isa 57:13).
-
-Chapter 65
+fourth, in rightness of doctrine, above: ***the Gentiles shall walk in your light, and kings in the brightness of your rising*** (Isa 60:3).

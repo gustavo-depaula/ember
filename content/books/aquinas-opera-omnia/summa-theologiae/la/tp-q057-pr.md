@@ -1,13 +1,11 @@
-# Quaestio 57 — Deinde considerandum est de ascensione Christi. Et circa hoc quaeruntur sex.
+# Quaestio 57
 
-Primo, utrum fuerit conveniens Christum ascendere.
+***Deinde considerandum est de ascensione Christi. Et circa hoc quaeruntur sex.***
 
-Secundo, secundum quam naturam conveniat sibi ascensio.
+Primo, utrum fuerit conveniens Christum ascendere.  
 
-Tertio, utrum propria virtute ascenderit.
-
-Quarto, utrum ascenderit super omnes caelos corporeos.
-
-Quinto, utrum ascenderit super omnes spirituales creaturas.
-
-Sexto, de effectu ascensionis.
+- Secundo, secundum quam naturam conveniat sibi ascensio.
+- Tertio, utrum propria virtute ascenderit.
+- Quarto, utrum ascenderit super omnes caelos corporeos.
+- Quinto, utrum ascenderit super omnes spirituales creaturas.
+- Sexto, de effectu ascensionis.

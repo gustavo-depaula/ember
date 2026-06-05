@@ -1,5 +1,0 @@
-# Article 4
-
-To which I respond that this way of speaking is not proper, for the little hands are the hands of his humanity, to which it does not pertain to create the stars. But, because Christ is one and the same, perfect in the human and divine nature, a phrase of this sort is able to be explained sensibly as when it is said: 'The little hands of this child created the stars'; that is, this boy having little hands created the stars. Holy teachers sometimes make use of such a way of speaking in order to express the union [of the two natures] as when the phrase, *the hands that molded us have been pierced with nails* is sung in certain churches. Nevertheless, expressions of this sort ought not to be extended nor preached to the people. If this was already preached about, however, I do not think it must be revoked unless an error or scandal about it has arisen, in which case, it is necessary for the sensible explanation to be related because the souls of the simple, insofar as it is possible, ought not to be troubled.
-
-Article 5

@@ -1,9 +1,9 @@
-# Quaestio 5 — Deinde considerandum est de habentibus fidem. Et circa hoc quaeruntur quatuor.
+# Quaestio 5
 
-Primo, utrum Angelus aut homo in prima sui conditione habuerit fidem.
+***Deinde considerandum est de habentibus fidem. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum Daemones habeant fidem.
+Primo, utrum Angelus aut homo in prima sui conditione habuerit fidem.  
 
-Tertio, utrum haeretici errantes in uno articulo fidei habeant fidem de aliis articulis.
-
-Quarto, utrum fidem habentium unus alio habeat maiorem fidem.
+- Secundo, utrum Daemones habeant fidem.
+- Tertio, utrum haeretici errantes in uno articulo fidei habeant fidem de aliis articulis.
+- Quarto, utrum fidem habentium unus alio habeat maiorem fidem.

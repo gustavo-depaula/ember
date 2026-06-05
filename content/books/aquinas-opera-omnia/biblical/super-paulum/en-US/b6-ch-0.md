@@ -2,7 +2,7 @@
 
 **PROLOGUE**
 
-Ego confirmavi columnas eius
+> Ego confirmavi columnas eius
 
 Wisely has it been remarked that: “No less energy is spent in retaining possessions than in acquiring them.”
 

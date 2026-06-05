@@ -14,73 +14,60 @@
   },
   "composed": "c. 1269",
   "languages": [
-    "en-US",
     "la"
   ],
   "sources": [
     {
-      "language": "en-US",
-      "url": "https://aquinas.cc/la/en/~De Secreto",
-      "description": "Translation from aquinas.cc."
-    },
-    {
       "language": "la",
       "url": "https://aquinas.cc/la/en/~De Secreto",
-      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc. No public-domain English translation available."
     }
   ],
   "toc": [
     {
-      "id": "desecreto",
-      "title": {
-        "en-US": "DeSecreto",
-        "la": "DeSecreto"
-      }
-    },
-    {
-      "id": "desecreto",
+      "id": "desecreto-c01",
       "title": {
         "en-US": "Prooemium",
         "la": "Prooemium"
       }
     },
     {
-      "id": "desecreto-q1",
+      "id": "desecreto-c02",
       "title": {
         "en-US": "Quaestio 1",
         "la": "Quaestio 1"
       }
     },
     {
-      "id": "desecreto-q2",
+      "id": "desecreto-c03",
       "title": {
         "en-US": "Quaestio 2",
         "la": "Quaestio 2"
       }
     },
     {
-      "id": "desecreto-q3",
+      "id": "desecreto-c04",
       "title": {
         "en-US": "Quaestio 3",
         "la": "Quaestio 3"
       }
     },
     {
-      "id": "desecreto-q4",
+      "id": "desecreto-c05",
       "title": {
         "en-US": "Quaestio 4",
         "la": "Quaestio 4"
       }
     },
     {
-      "id": "desecreto-q5",
+      "id": "desecreto-c06",
       "title": {
         "en-US": "Quaestio 5",
         "la": "Quaestio 5"
       }
     },
     {
-      "id": "desecreto-q6",
+      "id": "desecreto-c07",
       "title": {
         "en-US": "Quaestio 6",
         "la": "Quaestio 6"

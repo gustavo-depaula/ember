@@ -1,11 +1,10 @@
-# Question 57 — We next investigate the material objects which are known by the angels. Under this heading there are five points of inquiry:
+# Question 57 — Angelic Knowledge of Material Things
 
-(1) Whether the angels know the natures of material things?
+We next investigate the material objects which are known by the angels. Under this heading there are five points of inquiry:  
 
-(2) Whether they know single things?
+(1) Whether the angels know the natures of material things?  
 
-(3) Whether they know the future?
-
-(4) Whether they know secret thoughts?
-
-(5) Whether they know all mysteries of grace?
+- (2) Whether they know single things?
+- (3) Whether they know the future?
+- (4) Whether they know secret thoughts?
+- (5) Whether they know all mysteries of grace?

@@ -1,17 +1,11 @@
-# Quaestio 28 — secundo, de exterioribus.
+# Quaestio 28
 
-Circa primum tria consideranda sunt,
+Deinde considerandum est de effectibus consequentibus actum caritatis principalem, qui est dilectio. Et primo, de effectibus interioribus; secundo, de exterioribus. Circa primum tria consideranda sunt, primo, de gaudio; secundo, de pace; tertio, de misericordia.  
 
-primo, de gaudio;
-secundo, de pace;
-tertio, de misericordia.
+Circa primum quaeruntur quatuor.  
 
-Circa primum quaeruntur quatuor.
+Primo, utrum gaudium sit effectus caritatis.  
 
-Primo, utrum gaudium sit effectus caritatis.
-
-Secundo, utrum huiusmodi gaudium compatiatur secum tristitiam.
-
-Tertio, utrum istud gaudium possit esse plenum.
-
-Quarto, utrum sit virtus.
+- Secundo, utrum huiusmodi gaudium compatiatur secum tristitiam.
+- Tertio, utrum istud gaudium possit esse plenum.
+- Quarto, utrum sit virtus.

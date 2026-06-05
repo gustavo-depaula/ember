@@ -1,5 +1,0 @@
-# Article 24
-
-Circa quod nihil mihi temere asserendum videtur, praecipue cum Augustinus neminem arbitretur scire in quo loco sit. Non enim aestimo quod sit in centro terrae, quia ille est locus, quo naturaliter feruntur gravia: nec videtur intentionem non frustrari, convenienter dici quod sequeretur, si ad centrum corpora gravia non pervenirent. Et iterum si naturaliter terra circa centrum esset concava, non posset assignari naturalis causa quae totum pondus terrae sustineret, ne perveniret ad centrum. Si autem dicatur hoc miraculose fieri divina virtute, nulla subest miraculi ratio. Praeparatio autem Inferni ab initio mundi fuit, secundum illud Isai. XXX, 33: *praeparata est ab heri Tophet*, secundum expositionem Glossae. In prima autem rerum institutione non est considerandum quid Deus facere possit, sed quid natura rerum habeat ut fiat, sicut Augustinus dicit II super Genes. ad litteram. Non autem dicitur Christus descendisse ad infimas partes terrae sed ad inferiores; ad cujus veritatem sufficit qualitercumque inferiores nobis dicantur.
-
-Articulus 25

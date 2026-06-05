@@ -1,11 +1,10 @@
-# Question 82 — We next consider the will. Under this head there are five points of inquiry:
+# Question 82 — The Will
 
-(1) Whether the will desires something of necessity?
+***We next consider the will. Under this head there are five points of inquiry:***
 
-(2) Whether it desires anything of necessity?
+(1) Whether the will desires something of necessity?  
 
-(3) Whether it is a higher power than the intellect?
-
-(4) Whether the will moves the intellect?
-
-(5) Whether the will is divided into irascible and concupiscible?
+- (2) Whether it desires everything of necessity?
+- (3) Whether it is a higher power than the intellect?
+- (4) Whether the will moves the intellect?
+- (5) Whether the will is divided into irascible and concupiscible?

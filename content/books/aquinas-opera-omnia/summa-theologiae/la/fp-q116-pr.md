@@ -1,9 +1,9 @@
-# Quaestio 116 — Deinde considerandum est de fato. Et circa hoc quaeruntur quatuor.
+# Quaestio 116
 
-Primo, an fatum sit.
+***Deinde considerandum est de fato. Et circa hoc quaeruntur quatuor.***
 
-Secundo, in quo sit.
+Primo, an fatum sit.  
 
-Tertio, utrum sit immobile.
-
-Quarto, utrum omnia subsint fato.
+- Secundo, in quo sit.
+- Tertio, utrum sit immobile.
+- Quarto, utrum omnia subsint fato.

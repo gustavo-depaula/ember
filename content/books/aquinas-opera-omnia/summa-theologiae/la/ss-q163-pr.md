@@ -1,11 +1,11 @@
-# Quaestio 163 — tertio, de tentatione qua inductus est ad peccandum.
+# Quaestio 163
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de peccato primi hominis, quod fuit per superbiam. Et primo, de peccato eius; secundo, de poena peccati; tertio, de tentatione qua inductus est ad peccandum.  
 
-Primo, utrum primum peccatum hominis fuerit superbia.
+Circa primum quaeruntur quatuor.  
 
-Secundo, quid primus homo peccando appetierit.
+Primo, utrum primum peccatum hominis fuerit superbia.  
 
-Tertio, utrum eius peccatum fuerit gravius omnibus aliis peccatis.
-
-Quarto, quis plus peccaverit, utrum vir vel mulier.
+- Secundo, quid primus homo peccando appetierit.
+- Tertio, utrum eius peccatum fuerit gravius omnibus aliis peccatis.
+- Quarto, quis plus peccaverit, utrum vir vel mulier.

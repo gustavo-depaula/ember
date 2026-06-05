@@ -1,9 +1,9 @@
-# Question 107 — We must now consider the New Law as compared with the Old: under which head there are four points of inquiry:
+# Question 107 — Of the New Law as Compared with the Old
 
-(1) Whether the New Law is distinct from the Old Law?
+We must now consider the New Law as compared with the Old: under which head there are four points of inquiry:  
 
-(2) Whether the New Law fulfils the Old?
+(1) Whether the New Law is distinct from the Old Law?  
 
-(3) Whether the New Law is contained in the Old?
-
-(4) Which is the more burdensome, the New or the Old Law?
+- (2) Whether the New Law fulfils the Old?
+- (3) Whether the New Law is contained in the Old?
+- (4) Which is the more burdensome, the New or the Old Law?

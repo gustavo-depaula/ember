@@ -1,9 +1,9 @@
-# Quaestio 28 — Deinde considerandum est de relationibus divinis. Et circa hoc quaeruntur quatuor.
+# Quaestio 28
 
-Primo, utrum in Deo sint aliquae relationes reales.
+Deinde considerandum est de relationibus divinis. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum illae relationes sint ipsa essentia divina, vel sint extrinsecus affixae.
+Primo, utrum in Deo sint aliquae relationes reales.  
 
-Tertio, utrum possint esse in Deo plures relationes realiter distinctae ab invicem.
-
-Quarto, de numero harum relationum
+- Secundo, utrum illae relationes sint ipsa essentia divina, vel sint extrinsecus affixae.
+- Tertio, utrum possint esse in Deo plures relationes realiter distinctae ab invicem.
+- Quarto, de numero harum relationum.

@@ -1,7 +1,8 @@
-# Quaestio 90 — Deinde considerandum est de assumptione divini nominis per modum adiurationis. Et circa hoc quaeruntur tria.
+# Quaestio 90
 
-Primo, utrum liceat adiurare homines.
+Deinde considerandum est de assumptione divini nominis per modum adiurationis. Et circa hoc quaeruntur tria.  
 
-Secundo, utrum liceat adiurare Daemones.
+Primo, utrum liceat adiurare homines.  
 
-Tertio, utrum liceat adiurare irrationales creaturas.
+- Secundo, utrum liceat adiurare Daemones.
+- Tertio, utrum liceat adiurare irrationales creaturas.

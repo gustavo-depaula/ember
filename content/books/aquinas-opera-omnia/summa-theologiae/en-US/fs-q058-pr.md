@@ -1,13 +1,12 @@
-# Question 58 — (3) of the difference between the chief or cardinal virtues and the others.
+# Question 58 — Of the Difference between Moral and Intellectual Virtues
 
-Under the first head there are five points of inquiry:
+We must now consider moral virtues. We shall speak (1) of the difference between them and intellectual virtues; (2) of their distinction, one from another, in respect of their proper matter; (3) of the difference between the chief or cardinal virtues and the others.  
 
-(1) Whether every virtue is a moral virtue?
+Under the first head there are five points of inquiry:  
 
-(2) Whether moral virtue differs from intellectual virtue?
+(1) Whether every virtue is a moral virtue?  
 
-(3) Whether virtue is adequately divided into moral and intellectual virtue?
-
-(4) Whether there can be moral without intellectual virtue?
-
-(5) Whether, on the other hand, there can be intellectual without moral virtue?
+- (2) Whether moral virtue differs from intellectual virtue?
+- (3) Whether virtue is adequately divided into moral and intellectual virtue?
+- (4) Whether there can be moral without intellectual virtue?
+- (5) Whether, on the other hand, there can be intellectual without moral virtue?

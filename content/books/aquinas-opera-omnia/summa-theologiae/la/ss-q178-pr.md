@@ -1,5 +1,7 @@
-# Quaestio 178 — Deinde considerandum est de gratia miraculorum. Et circa hoc quaeruntur duo.
+# Quaestio 178
 
-Primo, utrum sit aliqua gratia gratis data faciendi miracula.
+***Deinde considerandum est de gratia miraculorum. Et circa hoc quaeruntur duo.***
 
-Secundo, quibus conveniat.
+Primo, utrum sit aliqua gratia gratis data faciendi miracula.  
+
+- Secundo, quibus conveniat.

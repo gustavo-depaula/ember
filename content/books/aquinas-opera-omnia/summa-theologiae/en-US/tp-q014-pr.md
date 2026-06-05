@@ -1,11 +1,11 @@
-# Question 14 — secondly, of the defects of soul.
+# Question 14 — The Defects of Body Assumed by the Son of God
 
-Under the first head there are four points of inquiry:
+We must now consider the defects Christ assumed in the human nature; and first, of the defects of body; second, of the defects of soul.  
 
-(1) Whether the Son of God should have assumed in human nature defects of body?
+Under the first head there are four points of inquiry:  
 
-(2) Whether He assumed the obligation of being subject to these defects?
+(1) Whether the Son of God should have assumed in human nature defects of body?  
 
-(3) Whether He contracted these defects?
-
-(4) Whether He assumed all these defects?
+- (2) Whether He assumed the obligation of being subject to these defects?
+- (3) Whether He contracted these defects?
+- (4) Whether He assumed all these defects?

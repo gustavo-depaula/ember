@@ -1,9 +1,9 @@
-# Quaestio 30 — Deinde considerandum est de Annuntiatione beatae virginis. Et circa hoc quaeruntur quatuor.
+# Quaestio 30
 
-Primo, utrum conveniens fuerit ei annuntiari quod in ea generandum erat.
+Deinde considerandum est de Annuntiatione beatae virginis. Et circa hoc quaeruntur quatuor.  
 
-Secundo, per quem erat ei annuntiandum.
+Primo, utrum conveniens fuerit ei annuntiari quod in ea generandum erat.  
 
-Tertio, per quem modum ei annuntiari debebat.
-
-Quarto, de ordine Annuntiationis.
+- Secundo, per quem erat ei annuntiandum.
+- Tertio, per quem modum ei annuntiari debebat.
+- Quarto, de ordine Annuntiationis.

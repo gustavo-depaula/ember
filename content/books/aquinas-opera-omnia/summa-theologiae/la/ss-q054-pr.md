@@ -1,7 +1,8 @@
-# Quaestio 54 — Deinde considerandum est de negligentia. Et circa hoc quaeruntur tria.
+# Quaestio 54
 
-Primo, utrum negligentia sit peccatum speciale.
+***Deinde considerandum est de negligentia. Et circa hoc quaeruntur tria.***
 
-Secundo, cui virtuti opponatur.
+Primo, utrum negligentia sit peccatum speciale.  
 
-Tertio, utrum negligentia sit peccatum mortale.
+- Secundo, cui virtuti opponatur.
+- Tertio, utrum negligentia sit peccatum mortale.

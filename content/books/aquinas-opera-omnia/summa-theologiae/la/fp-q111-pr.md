@@ -1,11 +1,11 @@
-# Quaestio 111 — Deinde considerandum est de actione Angelorum in homines. Et primo, quantum possint eos immutare sua virtute naturali; secundo, quomodo mittantur a Deo ad ministerium hominum; tertio, quomodo custodiant homines.
+# Quaestio 111
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de actione angelorum in homines. Et primo, quantum possint eos immutare sua virtute naturali; secundo, quomodo mittantur a Deo ad ministerium hominum; tertio, quomodo custodiant homines.  
 
-Primo, utrum Angelus possit illuminare intellectum hominis.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum possit immutare affectum eius.
+Primo, utrum angelus possit illuminare intellectum hominis.  
 
-Tertio, utrum possit immutare imaginationem eius.
-
-Quarto, utrum possit immutare sensum eius.
+- Secundo, utrum possit immutare affectum eius.
+- Tertio, utrum possit immutare imaginationem eius.
+- Quarto, utrum possit immutare sensum eius.

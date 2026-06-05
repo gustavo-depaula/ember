@@ -1,181 +1,143 @@
-# Chapter 19
+# Chapter 17
 
-> ^19:2^ And I will set the Egyptians to fight against the Egyptians: and they shall fight brother against brother, and friend against friend, city against city, kingdom against kingdom.
+^17:1^ The burden of Damascus. Behold Damascus shall cease to be a city, and shall be as a ruinous heap of stones.  
 
-> ^19:3^ And the spirit of Egypt shall be broken in the bowels thereof, and I will cast down their counsel: and they shall consult their idols, and their diviners, and their wizards, and soothsayers.
+> ^17:2^ The cities of Aroer shall be left for flocks, and they shall rest there, and there shall be none to make them afraid.
 
-> ^19:4^ And I will deliver Egypt into the hand of cruel masters, and a strong king shall rule over them, says the Lord the God of hosts.
+> ^17:3^ And aid shall cease from Ephraim, and the kingdom from Damascus: and the remnant of Syria shall be as the glory of the children of Israel: says the Lord of hosts.
 
-> ^19:5^ And the water of the sea shall be dried up, and the river shall be wasted and dry.
+> ^17:4^ And it shall come to pass in that day, that the glory of Jacob shall be made thin, and the fatness of his flesh shall grow lean.
 
-> ^19:6^ And the rivers shall fail: the streams of the banks shall be diminished, and be dried up. The reed and the bulrush shall wither away.
+> ^17:5^ And it shall be as when one gathers in the harvest that which remains, and his arm shall pick out *(DR: “gather.”)* the ears of corn: and it shall be as he that seeks ears in the vale of Raphaim.
 
-> ^19:7^ The channel of the river shall be laid bare from its fountain, and every thing sown by the water shall be dried up, it shall wither away, and shall be no more.
+> ^17:6^ And the fruit thereof that shall be left upon it, shall be as one cluster of grapes, and as the shaking of the olive, *(*Olea*. DR: “olive tree.”)* two or three berries in the top of a bough, or four or five upon the top of the tree, says the Lord the God of Israel.
 
-> ^19:8^ The fishers also shall mourn, and all that cast a hook into the river shall lament, and they that spread nets upon the waters shall languish away.
+> ^17:7^ In that day man shall bow down himself to his Maker, and his eyes shall look to the Holy One of Israel.
 
-> ^19:9^ They shall be confounded that wrought in flax, combing and weaving fine linen.
+> ^17:8^ And he shall not look to the altars which his hands made; and he shall not have respect to the things that his fingers wrought, such as groves and temples.
 
-> ^19:10^ And its watery places shall be flaccid,*Flaccentia*. DR: “dry.” all they shall mourn that made pools to take fishes.
+> ^17:9^ In that day his strong cities shall be forsaken, as the ploughs, and the corn that were left before the face of the children of Israel, and you shall be desolate.
 
-> ^19:11^ The princes of Tanis are become fools, the wise counsellors of Pharaoh have given foolish counsel: how will you say to Pharaoh: I am the son of the wise, the son of ancient kings?
+> ^17:10^ Because you have forgotten God your savior, and have not remembered your strong helper: therefore shall you plant unfaithful *(*Infidelem*. Vg.: *fidelem*. DR: “good.”)* plants, and shall sow strange seed.
 
-> ^19:12^ Where are now your wise men? Let them tell you, and show what the Lord of hosts has purposed upon Egypt.
+> ^17:11^ In the day of your planting shall be the wild grape, and in the morning your seed shall flourish: the harvest is taken away in the day of inheritance, and shall grieve you much.
 
-> ^19:13^ The princes of Tanis are become fools, the princes of Memphis have withered away;*Emarcuerunt*. DR: “are gone astray.” they have deceived Egypt, the angle*Angulum*. DR: “stay.” of the people thereof.
+> ^17:12^ Woe to the multitude of many people, like the multitude of the roaring sea: and the tumult of crowds, like the noise of many waters.
 
-> ^19:14^ The Lord has mingled in the midst thereof the spirit of giddiness: and they have caused Egypt to err in all its works, as a drunken man staggers and vomits.
+> ^17:13^ Nations shall make a noise like the noise of waters overflowing. But he shall rebuke him, and he shall flee far off: and he shall be carried away as the dust of the mountains before the wind, and as a whirlwind before a tempest.
 
-> ^19:15^ And there shall be no work for Egypt, to make head or tail, him that bends down, or that holds back.
+> ^17:14^ In the time of the evening, behold there shall be a whirling: *(*Turbatio*. DR: “trouble.”)* the morning shall come, and he shall not be: this is the portion of them that have wasted us, and the lot of them that spoiled us.
 
-> ^19:16^ In that day Egypt shall be like unto women, and they shall be amazed, and afraid, because of the moving of the hand of the Lord of hosts, which he shall move over it.
+> **460**. ***The burden of Damascus***. Here he begins to threaten against those who prepared an occasion of sin for the people of God when, through trust in their help, they cared not to trust in God. And this is divided into two parts:
 
-> ^19:17^ And the land of Judah shall be a terror to Egypt: everyone that shall remember it shall tremble because of the counsel of the Lord of hosts, which he has determined concerning it.
+in the first, he threatens against the Syrians, who brought help to the people of the ten tribes;  
 
-> ^19:18^ In that day there shall be five cities in the land of Egypt, speaking the language of Chanaan, and swearing by the Lord of hosts: one shall be called the city of the sun.
+in the second, against the Egyptians, who did so to the two tribes: ***woe to the land*** (ch. 18).  
 
-> ^19:19^ In that day there shall be an altar of the Lord in the midst of the land of Egypt, and a monument of the Lord at the borders thereof:
+The first of these is divided into three:  
 
-> ^19:20^ It shall be for a sign, and for a testimony to the Lord of hosts in the land of Egypt. For they shall cry to the Lord because of the oppressor, and he shall send them a Savior and a defender to deliver them.
+in the first, he threatens the destruction of the Syrians who promise help;  
 
-> ^19:21^ And the Lord shall be known by Egypt, and the Egyptians shall know the Lord in that day, and shall worship him with sacrifices and offerings: and they shall make vows to the Lord, and perform them.
+in the second, the destruction of the ten tribes who trust in that promised help: ***and it shall come to pass in that day*** (Isa 17:4);  
 
-> ^19:22^ And the Lord shall strike Egypt with a scourge, and shall heal it, and they shall return to the Lord, and he shall be pacified towards them, and heal them.
+in the third, the destruction of the Assyrians who destroy both of them: ***woe to the multitude*** (Isa 17:12).  
 
-> ^19:23^ In that day there shall be a way from Egypt to the Assyrians, and the Assyrian shall enter into Egypt, and the Egyptian to the Assyrians, and the Egyptians shall serve the Assyrian.
+**461**. Concerning the first, he does two things:  
 
-> ^19:24^ In that day shall Israel be the third to the Egyptian and the Assyrian: a blessing in the midst of the land,
+in the first, he threatens destruction;  
 
-> ^19:25^ which the Lord of hosts has blessed, saying: blessed be my people of Egypt, and the work of my hands to the Assyrian: but Israel is my inheritance.
+in the second, he describes the effect of the destruction: ***and aid shall cease*** (Isa 17:3).  
 
-> **485**. ***The burden of Egypt***. In this part, he threatens the destruction of the Egyptians, describing the manner and the order. And this is divided into three parts:
+He threatens destruction, first, as to the royal city: ***Damascus shall cease to be a city***, from the pillaging of its people; ***and shall be as a ruinous heap of stones***, from the destruction of its walls: *Zion shall be as a field* (Mic 3:12).  
 
-in the first, the preparation of the punishment is described;
+Second, as to the neighboring region: ***of Aroer***, that is, of that region of Syria, in which there are many cities; or ***Aroer***, which is Hebrew for “tamarisk,” as if to say: as places where tamarisks abound are barren and abandoned to pasturage for sheep, so will the cities of Syria be; ***there shall be none to make them afraid***, for, because of their solitude, there will not even be thieves there; or because they will not be useful for other fruit, as flocks are frightened by vineyards and farmland, below: ***nettles shall grow up in its houses*** (Isa 34:13).  
 
-in the second, the destruction itself: ***and I will deliver Egypt*** (Isa 19:4);
+**462**. ***And aid shall cease***. Here the effect of the destruction is set out,  
 
-in the third, the attainment of advantage, where it says, ***in that day there shall be five cities*** (Isa 19:18).
+and first, the effect on the ten tribes: ***from Ephraim***;  
 
-The preparation of the punishment is described as to four things.
+second, the effect as to the royal city: ***and the kingdom from Damascus*** shall cease, and it will no longer be the head of the kingdom;  
 
-First, as to the disposition of the enemy: ***he will ascend***, inspiring, ***upon a cloud***, from which comes a storm, ***light***, because of his agility and promptness: *clouds and darkness are round about him* (Ps 96[97]:2).
+third, as to the entire region: ***and the remnant of Syria shall be as the glory of the children of Israel***, ironically: that is, they will be ignominious like the children of Israel, above: ***the Lord shall put down his hand, and the helper shall fall*** (Isa 31:3).  
 
-**486**. Second, as to the stupor of the gods that govern them: ***and the idols of Egypt shall be moved***, because they were shattered by the Assyrians, or because they could not give an answer, or because they did not appear on that day: *your idols shall be broken in pieces* (Ezek 6:4); and of the men that govern them, ***the heart of Egypt***, that is, the king and princes, from whom came all the vigor of Egypt, above: ***the whole head is sick, and the whole heart is sad*** (Isa 1:5).
+**463**. ***And it shall come to pass in that day***. Here he threatens the destruction of the ten tribes, who trust in the help of the Syrians,  
 
-**487**. Third, as to the dissension of those who resist, as to external contact: ***and I will set***, as to strangers: ***the Egyptians to fight against the Egyptians***; as to kindred, ***they shall fight brother against brother***; as to acquaintances and friends: ***and friend against friend***; as to different peoples, ***city against city***. He sets out the diversity of wills: ***the spirit***, that is, the will, ***shall be broken***, that is, divided, ***in the bowels thereof***, that is, in the inhabitants of the land: *every kingdom divided against itself shall be made desolate* (Matt 12:25).
+and first, as to the oppression of their people;  
 
-**488**. Fourth, as to the error of taking counsel from men: ***and I will cast down their counsel***: *he catches the wise in their craftiness, and disappoints the counsel of the wicked* (Job 5:13); and from demons: ***and they shall consult***, in vain, above: ***and when they shall say to you: seek of pythons, and of diviners, who mutter in their enchantments*** (Isa 8:19).
+second, as to the destruction of their cities: ***in that day his strong cities*** (Isa 17:9);  
 
-**489**. Note on the words, ***the Lord will ascend upon a cloud*** (Isa 19:1), that the cloud is manifold.
+third, as to the barrenness of their fields: ***therefore shall you plant*** (Isa 17:10).  
 
-First, the cloud of the flesh he assumed: *where were you when I made a cloud the garment thereof, and wrapped it in a mist as in swaddling bands?* (Job 38:9);
+Concerning the first, he does two things:  
 
-second, is the cloud of the virginal womb: *behold a little cloud arose out of the sea* (1 Kgs 18:44);
+first, he threatens punishment;  
 
-third, is the cloud of the devout mind: *his magnificence, and his power is in the clouds* (Ps 67:35[68:34]);
+second, he shows the fruit of the punishment: ***in that day man shall bow down*** (Isa 17:7).  
 
-fourth, is the cloud of the judicial seat: *clouds and darkness are round about him: justice and judgment are the establishment of his throne* (Ps 96[97]:2).
+He threatens punishment on their people  
 
-**490**. Likewise, note that
+first, against their vainglory: ***the glory of Jacob shall be made thin***, that is, it will be brought to little, and reduced as if to nothing, when that which they gloried in is destroyed.  
 
-from the first cloud proceeds sacramental rain or the rain of sanctification: *from the side of the Lord immediately there came out blood and water* (John 19:34);
+Second, against the opulence of their riches: ***and the fatness of his flesh***, that is, the riches with which they delicately nourished their flesh, above: ***the sovereign Lord shall send, shall break the earthen vessel with terror, and the tall of stature shall be cut down, and the lofty shall be humbled*** (Isa 10:16, 33).  
 
-from the second cloud proceeds the bread of consolation: *a cloud overshadowed their camps and where water was before, dry land appeared* (Wis 19:7); and below this: *seeing your miracles and wonders: for they fed on their food like horses* (Wis 19:8–9);
+Third, against the abundance of the people, he threatens scarcity of people, which he describes under a threefold metaphor, as the blessing of Jacob consisted in the abundance of three things: *abundance of corn and wine and oil* *(Vg. omits “and oil.”)* (Gen 27:28).  
 
-from the third cloud proceeds the lightning of preaching: *corn desires clouds, and the clouds spread their light* (Job 37:11);
+**464**. As to the first, he sets out scarcity of ears of corn after the harvest, which are gathered by the harvester himself, and thus, the scarcity of the remnant of the ten tribes, ***shall be*** as when someone ***gathers in the harvest that which remains*** from the first reaping, ***and***, from those gathered, ***his arm shall pick out the ears of corn***, that is, collect them. And this one who gathers was Ezechias, who called together the remnant of the ten tribes, as is written in 2 Chronicles 30. Or also those which are gathered by someone poor, like it says in Ruth 2:3: *I will go into the field to glean the ears of corn*; and as to this, he says: ***it shall be as he that seeks ears in the vale of Raphaim***, a certain valley which is very fertile.  
 
-from the fourth cloud proceeds the storm of damnation: *behold he shall come up as a cloud* (Num 5Rather, Jeremiah 4:13.); *his power is in the clouds* (Ps 67:35[68:34]).
+**465**. Against abundance of wine, he sets out scarcity of grapes after the grape harvest: ***and the fruit thereof that shall be left upon it, shall be as one cluster of grapes***: *woe is me, for I am become as one that gleans in autumn the grapes of the vintage* (Mic 7:1). Against abundance of oil, he sets out scarcity of olives after the shaking of ***the olive***. The olive, *(*Olea*.)* as Papias says, is the fruit of the olive tree; *(*Olivarum*.)* but here, according to the explanation of the Gloss, it seems to be used to mean the tree itself on whose top remains a small amount of fruit which the harvesters are not able to reach; concerning this scarcity, see Deuteronomy 28:62: *you shall remain few in number*.  
 
-**491**. Likewise, note on the words, ***a light cloud*** (Isa 19:1),
+**466**. Note on the words, ***and the fatness of his flesh*** (Isa 17:4), that riches are called fatness,  
 
-that the first cloud is called light because of eminence of dignity: *lo, one like the Son of man came in*In*. Vg.: *cum*. DR: “with.” the clouds of heaven* (Dan 7:13);
+first, because of their barrenness: *the deceitfulness of riches chokes up the word, and he becomes fruitless* (Matt 13:22);  
 
-the second cloud is called light because of purity of virginity: *behold a white cloud and upon the cloud one sitting like to the Son of man* (Rev 14:14);
+second, because of their inconstancy: *charge the rich of this world not to be high-minded nor to trust in the uncertainty of riches* (1 Tim 6:17);  
 
-the third cloud is called light because of swiftness of obedience, below: ***who are these, that fly as clouds?*** (Isa 60:8);
+third, because of their uselessness: *behold this was the iniquity of Sodom* (Ezek 16:49); *riches kept to the hurt of the owner* (Eccl 5:12).  
 
-the fourth cloud is called light because of ease of execution: *by his greatness he has fixed the clouds, and the hailstones are broken* (Sir 43:16).
+**467**. ***In that day***. Here he sets out the fruit of the punishment: ***man***, any who fled from the ten tribes to Ezechias, ***shall bow down himself to his Maker***, giving the due service of worship; ***his eyes shall look to the Holy One of Israel***, expecting some help; ***temples** (delubra)*, temples in which there were fonts, as though for washing, below: ***in that day a man shall cast away his idols of silver*** (Isa 31:7).  
 
-**492**. ***And I will deliver Egypt***. Here he describes the destruction itself;
+**468**. ***In that day***. Here he threatens the desolation of their cities,  
 
-and first, as to the slavery of the people;
+and first, he threatens the desolation itself: ***as the ploughs***. This touches on what is found in Joshua 6 and 7, how the Amorrhites fled at the coming of the sons of Israel, leaving behind everything in the fields, above: ***your land is desolate, your cities are burnt with fire*** (Isa 1:7).  
 
-second, as to the desolation of the land: ***and the water of the sea shall be dried up*** (Isa 19:5);
+Second, the reason for the desolation is set out: ***and you shall be desolate because you have forgotten God your savior***: *you have forsaken the God that begot you, and have forgotten the Lord that created you* (Deut 32:18).  
 
-third, as to the stupidity of their wise men: ***the princes of Tanis are become fools*** (Isa 19:11).
+**469**. ***Therefore shall you plant***. Here he threatens barrenness of fruit, and concerning this, he does three things.  
 
-***Into the hand of cruel masters***: the Assyrians, the Chaldeans, and the Romans: *you shall serve your enemy* (Deut 28:48).
+First, he shows the useless labor of cultivation, as to their vineyards: ***unfaithful plants***, for they will not return fruit according to your labor, or ***faithful***, ironically, as if to say: because of the evil which you have done, will your plants be faithful? As to their fields: ***strange seed***, which another will gather, above: ***ten jugera of vineyard shall yield one little measure*** (Isa 5:10).  
 
-The destruction of the land he designates by the drought of the waters in which Egypt is well-endowed and rich; because the wrath of God goes before so that their waters are dried up and their animals die; or he speaks hyperbolically, as if to say: so great will be the tribulation that it will seem even to dry up the waters.
+Second, as to the ruin of the fruit: ***in the day of your planting***, that is, when you ought to have taken up the fruit from your planting, and this as to the vineyards; as to the fields, ***in the morning your seed shall flourish***, that is, it will be beautiful at first, that you may mourn more, or because it will flower before the proper season and be useless: *the inheritance gotten hastily in the beginning, in the end shall be without a blessing* (Prov 20:21). ***The harvest is taken away***, by enemies, ***in the day of inheritance***, when it ought to be put away in the barn, like the fruit of their inheritance: *they have sown wheat, and reaped thorns* (Jer 12:13).  
 
-**493**. Therefore, he sets out three things.
+Third, he threatens sorrow for the loss: ***it shall grieve you***, *(*Dolebit*.)* who sowed; or ***you shall grieve***. *(*Dolebis tu*.)*  
 
-First, the manner of the drought, ***the water of the sea shall be dried up***: that is, shall be diminished, ***and the river***, the Nile. ***And the rivers***, other rivers: *I will make the channels of the rivers dry* (Ezek 30:12).
+**470**. ***Woe to the multitude***. Here he threatens the destruction of the Assyrians, and concerning this he sets out three things.  
 
-Second, he sets out the sign of the drought: ***the reed and the bulrush***, which are raised in the water, below: ***shall rise up the verdure of the reed and the bulrush*** (Isa 35:7).
+And first, he describes the multitude of the army as to the noise of their marching, ***woe to the multitude of people***, coming with Sennacherib; as to the tumult of their speaking, ***the tumult***, which is confused speech, especially of a multitude. As to the shout of their fighting, ***nations shall make a noise***, in battle, above: ***behold the Lord will bring upon them the waters of the river strong and many*** (Isa 8:7); *their voice shall roar like the sea* (Jer 6:23); *many waters, many peoples* (Rev 17).  
 
-Third, he sets out the ruin from the drought, ***shall be laid bare***:
+**471**. Second, he threatens destruction.  
 
-first, the ruin of agriculture, ***from its fountain***, that is, from its beginning, or this to the end: *he has turned rivers into a wilderness: and the sources of waters into dry ground* (Ps 106[107]:33);
+Concerning which he first sets out the destruction itself: ***but he shall rebuke him***, killing his army by an angel, ***and he shall flee far off***, to his own land with only a few men, as it says above (Isa 10:18); *you have rebuked the Gentiles* (Ps 9:6[5]).  
 
-second, the ruin of fishers: ***the fishers also shall mourn***: *I will cast you forth into the desert, and all the fish of your river* (Ezek 29:5);
+Second, a similitude is set out corresponding to the condition of the destruction, for he was proud: ***he shall be carried away as the dust***: *like the dust* (Ps 1:4), which is driven ***before the wind***; and corresponding to the time: ***as a whirlwind before a tempest***, for by night his army was slain, which he calls a tempest, whose precursor is a whirling of dust by winds, which are the cause of rain: *in the night an angel came, and slew the army of the Assyrians* (2 Kgs 19:35).  
 
-third, the ruin of various craftsmen, ***they shall be confounded that wrought in flax***, which is raised in wet places. ***Flaccid***, that is, parched, ***pools***, fish ponds.
+Third, the completion of the destruction is set out: ***and he shall not be***, for he himself was killed: *you are brought to nothing* (Ezek 28:19).  
 
-**494**. ***The princes of Tanis are become fools***. Here he sets out the stupidity of their men;
+Fourth, the reason for the destruction is set out: ***this is the portion of them that have wasted us***, our possessions, ***and the lot of them that spoiled***, our moveable goods: *fire and brimstone, and storms of winds, shall be the portion of their cup* (Ps 10:7[11:6]).  
 
-and first, as to error in their counsels;
+**472**. Note on the words, ***his eyes shall look to the Holy One of Israel*** (Isa 17:7), that our eyes ought to be inclined to the Lord,  
 
-second, as to fear in wars, where it says, ***in that day Egypt shall be like unto women*** (Isa 19:16).
+first, through the adherence of faith, below: ***your eyes shall see your teacher*** (Isa 30:20);  
 
-Concerning the first, he does three things.
+second, because of the expectation of hope: *the eyes of all hope in you, O Lord* (Ps 144[145]:15);  
 
-First, he mocks the foolishness of their wise men as to deliberation: ***the princes***, that is, the philosophers, ***of Tanis***, where study flourished, ***are become fools***: *every man is become foolish by his knowledge* (Jer 51:17); as to the promulgation of counsel: ***wise counselors***; as to their commendation for themselves: ***how will you say to Pharaoh***, that is, how will you be able to speak, when you know that you have counseled badly, because each of you is accustomed to speak to his own commendation, so that his counsel may be believed; ***I am the son of the wise***, as if to say: I possess wisdom by inheritance; or the disciple ***of*** ***kings***, who were philosophers in ancient times: *there are with us also aged and ancient men, much elder than your fathers* (Job 15:10).
+third, because of the contemplation of love: *from thence she contemplates *(*Contemplabitur*. DR: “looketh for.”)* the prey, and her eyes behold afar off* (Job 39:29);  
 
-**495**. Second, he mocks the confidence of the king: ***where now***,
+fourth, because of the enjoyment of glory: *blessed are your eyes* (Matt 13:16).  
 
-and first, the question, below: ***there is none that can save you*** (Isa 47:15);
+**473**. Note on the words, ***unfaithful plants*** (Isa 17:10), that these are  
 
-second, the answer: ***fools have withered away***, that is, have failed, as above.
+first, the avaricious: *he that loves riches shall reap no fruit from them* (Eccl 5:9);  
 
-**496**. Third, he mocks the laziness of the deceived people: ***they have deceived***. Here he does three things.
+second, the lustful: *what fruit had you then in those things of which you are now ashamed?* (Rom 6:21);  
 
-First, he sets out the deception of the wise: ***they have deceived the angle***, that is, the kingdom, in which many are joined together like walls in an angle, below: ***your wisdom, and, your knowledge, has deceived you*** (Isa 47:10).
-
-Second, the permission of God: ***the Lord has mingled***, often said metaphorically, ***the spirit of giddiness***, that is, the spirit of error, like one who suffers giddiness: *the Lord has given a lying spirit in the mouth of all your prophets* (1 Kgs 22:23).
-
-Third, the error of the people themselves: ***and they have caused Egypt to err***. ***Head***, namely, neither with respect to the beginning; ***tail***, nor the end; ***that bends down***, in respect to the old man; ***that holds back***, in respect to the youth, who lacks restraint, or to the lascivious: *but evil men and seducers shall grow worse and worse* (2 Tim 3:13).
-
-**497**. ***In that day***. Here he threatens fear of the strong.
-
-And first, he places the fear itself, ***like unto women***, feeble and weak: *their strength has failed, and they are become as women* (Jer 51:30).
-
-Second, the reason for the fear, ***and the land of Judah shall be a terror to Egypt***, namely, the memory of the evils which they did to them, turning them from the worship of God, for which they will know that the wrath of God has befallen them: *now I remember the evils that I did in Jerusalem* (1 Macc 6:12).
-
-**498**. ***In that day***. Here the consequence or the consolation is set out, namely their conversion.
-
-And first, the threefold sign of their conversion;
-
-the first of which is an oath: ***swearing***, below: ***he shall swear by God, amen: because the former distresses are forgotten*** (Isa 65:16); ***the city of the sun***, Heliopolis, ***the language of Chanaan***, which is close to the language of the Jews, so that even in language they will agree with the people of God; for some Syrians, who kept their own language, were transplanted in these cities by Nabuchodonosor.
-
-**499**. The second sign is a sacred building: ***an altar of the Lord***; ***and a monument***, for they worshipped many gods, as it says in Acts 17. Some say that this was fulfilled in the time of the Maccabees, when many Jews were fleeing into Egypt, and Onias, wishing to fulfill this prophecy, built an altar against the precept of the law. Which is against Deuteronomy 12:Cf. Deuteronomy 12:13. *you shall not build an altar to me*; and which is denounced in Daniel 11:14, *and the children of prevaricators of your people shall lift up themselves to fulfill the vision, and they shall fall*; hence it is clear that this can only be understood of the building of altars for Christian worship.
-
-**500**. The third sign is that they call on the help of God, ***they shall cry to the Lord*; *a Savior***, Jesus: *he shall cry to me, and I will hear him* (Ps 90[91]:15).
-
-**501**. Second, he sets out the manner of their conversion.
-
-And first, as to the undertaking of faith: ***and the Lord shall be known***: *all shall know me from the least of them even to the greatest, says the Lord* (Jer 31:34);
-
-second, as to the offering of sacrifices and vows: ***and they shall worship***: *in every place there is offered to my name a clean oblation* (Mal 1:11);
-
-third, as to the remission of sins: ***and the Lord shall strike***, first, through many punishments, ***and shall heal*** from sin: *he wounds, and cures: he strikes, and his hands shall heal* (Job 5:18).
-
-**502**. Third, he sets out the threefold effect of their conversion, namely,
-
-peace: ***in that day there shall be a way***, which could not exist before because of the various kingdoms, which, when the Lord was born, were joined under the Romans; ***they shall serve***, each other in trade; or because Syrian soldiers were in the Roman legions that guarded Egypt, above: ***nation shall not lift up sword against nation*** (Isa 2:4).
-
-Second, he promises the second effect, the truth of faith: ***in that day shall Israel be the third to the Egyptian and the Assyrian***, at the same time and equally serving the Romans, and in unity of faith: *there shall be one fold and one shepherd* (John 10:16); *there is no distinction of the Jew and the Greek* (Rom 10:12).
-
-Third, he sets out the third effect, namely, divine blessing: ***it***, namely, Israel, ***shall be a blessing***, for, through the apostles, the whole world received the blessing of God; ***Israel is my inheritance***, for it was there that he was born and fulfilled the mysteries of our salvation: *he has blessed the house of Israel* (Ps 113:20[115:12]).
-
-Chapter 20
+third, the proud: *what has pride profited us?* (Wis 5:8).

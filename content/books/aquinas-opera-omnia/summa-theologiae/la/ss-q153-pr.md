@@ -1,13 +1,12 @@
-# Quaestio 153 — secundo, de speciebus eius.
+# Quaestio 153
 
-Circa primum quaeruntur quinque.
+***De luxuria***
 
-Primo, quid sit materia luxuriae.
+Deinde considerandum est de vitio luxuriae, quod opponitur castitati. Et primo, de ipsa in generali; secundo, de speciebus eius. Circa primum quaeruntur quinque.  
 
-Secundo, utrum omnis concubitus sit illicitus.
+Primo, quid sit materia luxuriae.  
 
-Tertio, utrum luxuria sit peccatum mortale.
-
-Quarto, utrum luxuria sit vitium capitale.
-
-Quinto, de filiabus eius.
+- Secundo, utrum omnis concubitus sit illicitus.
+- Tertio, utrum luxuria sit peccatum mortale.
+- Quarto, utrum luxuria sit vitium capitale.
+- Quinto, de filiabus eius.

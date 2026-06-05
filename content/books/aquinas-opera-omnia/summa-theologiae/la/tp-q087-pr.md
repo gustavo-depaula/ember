@@ -1,9 +1,9 @@
-# Quaestio 87 — Deinde considerandum est de remissione venialium peccatorum. Et circa hoc quaeruntur quatuor.
+# Quaestio 87
 
-Primo, utrum sine poenitentia peccatum veniale possit dimitti.
+Deinde considerandum est de remissione venialium peccatorum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum possit dimitti sine gratiae infusione.
+Primo, utrum sine poenitentia peccatum veniale possit dimitti.  
 
-Tertio, utrum peccata venialia remittantur per aspersionem aquae benedictae, et tunsionem pectoris, et orationem dominicam, et alia huiusmodi.
-
-Quarto, utrum veniale possit dimitti sine mortali.
+- Secundo, utrum possit dimitti sine gratiae infusione.
+- Tertio, utrum peccata venialia remittantur per aspersionem aquae benedictae, et tunsionem pectoris, et orationem dominicam, et alia huiusmodi.
+- Quarto, utrum veniale possit dimitti sine mortali.

@@ -1,9 +1,9 @@
-# Quaestio 82 — Deinde considerandum est de peccato originali quantum ad suam essentiam. Et circa hoc quaeruntur quatuor.
+# Quaestio 82
 
-Primo, utrum originale peccatum sit habitus.
+Deinde considerandum est de peccato originali quantum ad suam essentiam. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum sit unum tantum in uno homine.
+Primo, utrum originale peccatum sit habitus.  
 
-Tertio, utrum sit concupiscentia.
-
-Quarto, utrum sit aequaliter in omnibus.
+- Secundo, utrum sit unum tantum in uno homine.
+- Tertio, utrum sit concupiscentia.
+- Quarto, utrum sit aequaliter in omnibus.

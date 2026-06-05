@@ -1,25 +1,17 @@
-# Quaestio 154 — Deinde considerandum est de luxuriae partibus. Et circa hoc quaeruntur duodecim.
+# Quaestio 154
 
-Primo, de divisione partium luxuriae.
+***Deinde considerandum est de luxuriae partibus. Et circa hoc quaeruntur duodecim.***
 
-Secundo, utrum fornicatio simplex sit peccatum mortale.
+Primo, de divisione partium luxuriae.  
 
-Tertio, utrum sit maximum peccatorum.
-
-Quarto, utrum in tactibus et osculis et aliis huiusmodi illecebris consistat peccatum mortale.
-
-Quinto, utrum nocturna pollutio sit peccatum.
-
-Sexto, de stupro.
-
-Septimo, de raptu.
-
-Octavo, de adulterio.
-
-Nono, de incestu.
-
-Decimo, de sacrilegio.
-
-Undecimo, de peccato contra naturam.
-
-Duodecimo, de ordine gravitatis in praedictis speciebus.
+- Secundo, utrum fornicatio simplex sit peccatum mortale.
+- Tertio, utrum sit maximum peccatorum.
+- Quarto, utrum in tactibus et osculis et aliis huiusmodi illecebris consistat peccatum mortale.
+- Quinto, utrum nocturna pollutio sit peccatum.
+- Sexto, de stupro.
+- Septimo, de raptu.
+- Octavo, de adulterio.
+- Nono, de incestu.
+- Decimo, de sacrilegio.
+- Undecimo, de peccato contra naturam.
+- Duodecimo, de ordine gravitatis in praedictis speciebus.

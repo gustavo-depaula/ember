@@ -1,9 +1,9 @@
-# Question 104 — We next consider the effects of the Divine government in particular; concerning which four points of inquiry arise:
+# Question 104 — The Special Effects of the Divine Government
 
-(1) Whether creatures need to be kept in existence by God?
+We next consider the effects of the Divine government in particular; concerning which four points of inquiry arise:  
 
-(2) Whether they are immediately preserved by God?
+(1) Whether creatures need to be kept in existence by God?  
 
-(3) Whether God can reduce anything to nothingness?
-
-(4) Whether anything is reduced to nothingness?
+- (2) Whether they are immediately preserved by God?
+- (3) Whether God can reduce anything to nothingness?
+- (4) Whether anything is reduced to nothingness?

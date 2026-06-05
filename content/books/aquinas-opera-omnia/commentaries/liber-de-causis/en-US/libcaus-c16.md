@@ -1,0 +1,39 @@
+# Proposition 15
+
+124. Everything that knows which knows its own essence is returning to its own essence in a fulfilled return.  
+
+> 125. This is because knowledge is nothing other than the intellectual action. Thus, since that which knows, knows its own essence, then it returns by its intellectual activity to its essence.
+
+> 126. And this is only because the knower and the known are one thing, since the knowledge of the knower's own essence is from it and to it: it is from it, because it is the knower, and it is to it, because it is the known.
+
+> 127. This is because knowledge is knowledge of a knower, and the knower knows its own essence, it is its activity returning to its essence; therefore, its substance is returning to its essence again.
+
+> 128. And by "return of the substance to its essence" I mean only because it is standing fixed by itself, not lacking in its constancy and its essence any other thing to hold it up, since it is simple substance, sufficient through itself.
+
+> **301**. When it has been shown how the soul is related to other things, here (124) he shows how it is related to itself. And a proposition like this is proposed: ***everything that knows which knows its own essence is returning to its own essence in a fulfilled return***.
+
+**302**. And for the understanding of this proposition certain propositions ought to be considered which are posited in the book of Proclus, of which one is proposition 15 of his book which is like this: *everything which is conversive on itself is incorporeal*. And we have shown this proposition above [190] in proposition 7 of this book.  
+
+**303**. Let us take the second proposition which is number 16 in the book of Proclus, which is like this: *everything which is conversive on itself has a substance separable from body*. And the proof of this is because since body cannot be converted on itself, as is held from the proposition put forth before (*Elements of Theology*, 15), it follows that to be converted on itself is an operation separate from body. Now, that whose operation is separated from body, necessarily its substance is also separable. Whence everything which can be converted on itself is separable from body.  
+
+**304**. Let us take the third proposition from number 43 of his book, which goes like this: *everything which is conversive on itself is autohypostatic, that is, subsisting through itself*. Which is proved through the fact that each and every one is converted to that which is substantified. Whence, if something is converted on itself according to its existence, it is necessary that it subsist in itself.  
+
+**305**. Let us take the fourth proposition from number 44 of his book: *everything which is conversive on itself according to its operation, is also converted on itself according to its substance*. And this he proves by the fact that, since to be converted on itself belongs to a perfection, if something which is converted according to its operation is not converted on itself according to its substance, then it would follow that its operation would be better and more perfect than its substance.  
+
+**306**. Let us take the fifth proposition from number 83 of his book which goes like this: *everything which is cognitive of itself is conversive on itself in every way*. The proof of which is because that which knows itself, is converted on itself by its operation and consequently by its substance, as is clear through the proposition put before (*Elements of Theology*, 44).  
+
+**307**. We accept the sixth proposition from number 186 of his book, which is like this: *every soul is an incorporeal substance and separable from body*. Which is proved in this way according to what has been put before [302-306]: the soul knows itself; therefore it is converted on itself in every way; therefore it is incorporeal and separable from body.  
+
+**308**. Therefore, when these have been seen, it is to be considered that three things are posited in this book.  
+
+Of which the first is that the soul knows its own essence. For about the soul, it must be understood what is said here (124 [312]).  
+
+**309**. The second is that which is concluded from this, that ***it returns on its own essence with a complete return***. And this is the same as what is said [306] in the proposition of Proclus (*Elements of Theology*, 83), that: *everything which is cognitive of itself, is conversive on itself in every way*. And it is understood that the complete return or conversion is both according to substance and according to operation, as has been said [305].  
+
+**310**. Now, that this second point follows from the first, he proves in this way (125): because, when I say that ***the knower knows his own essence***, it means that he knows the intelligible operation. Therefore it is clear that in so far as ***the knower knows its own essence, it returns***, that is to say, is converted ***through its intelligible operation to its own essence***, specifically, by understanding it. And that this ought to be called a return or conversion is manifested (126) by the fact that, when the soul knows its essence, ***the knower and the known are one thing*** and thus ***knowledge*** by which it knows ***its own essence***, that is its intelligible operation ***is from it insofar as it is knowing and it is to it insofar as it is the known***, and thus there is here a certain circulation which is brought in in the word of "returning" or "converting." Now from this, that it returns according to its operation to its essence, he concludes later (127) that ***according to its substance it is returning on its essence*** and thus the complete return is made according to operation and substance.  
+
+**311**. And he explains consequently (128) what it is to return according to substance to one's essence: for those things are said to be converted according to substance on themselves which subsist through themselves, having fixedness so that they are not converted from something else sustaining them, as is an accidental conversion to substance. This this one that account is appropriate to the soul and to each and every thing which knows itself, because every such thing is a simple substance sufficient to itself through itself, as if not needing any sustaining material. And this can be the third point: namely, that soul be separable from body; as is proposed in Proclus' proposition (*Elements of Theology*, 16 [303]).  
+
+**312**. Now, the first of these [308], namely that the soul knows its own essence, is not proved here; but it is proved in Proclus' book (*Elements of Theology*, 186), thus: *but that it knows itself is manifest; for if it knows what is above it then it is to know also itself as born by so much the more, as knowing itself from the causes which are before it*. Here it is diligently to be considered that above (109) when he treats of the cognition of the intellects, he says that the first intellect understands just itself, as has been said in proposition 8, because, that is to say, it is itself the ideal intelligible form [286-287]. But the other intellects to the extent that they are close to it, participate from the first intellect both the form of intelligibility and the power of intellectuality, just as Dionysius says in *On the Divine Names*, 4, that the supreme substances are intelligible and intellectual. Whence each and every one of them knows both itself and the superior which it participates.  
+
+**313**. But because the intellective soul participates the first intellect in an inferior mode, in its substance it has only the power of intellectuality. Whence it understands its substance not through its essence, but according to Plato through the superiors which it participates, according to Aristotle, in *On the Soul*, 3, through the intelligible species which are effected in a certain way as forms insofar as it comes into act through them.

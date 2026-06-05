@@ -1,7 +1,8 @@
-# Quaestio 53 — Consequenter considerandum est de motu locali Angelorum. Et circa hoc quaeruntur tria.
+# Quaestio 53
 
-Primo, utrum Angelus possit moveri localiter.
+Consequenter considerandum est de motu locali angelorum. Et circa hoc quaeruntur tria.  
 
-Secundo, utrum moveatur de loco ad locum, pertranseundo medium.
+Primo, utrum angelus possit moveri localiter.  
 
-Tertio, utrum motus Angeli sit in tempore vel in instanti.
+- Secundo, utrum moveatur de loco ad locum, pertranseundo medium.
+- Tertio, utrum motus angeli sit in tempore vel in instanti.

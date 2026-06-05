@@ -31,59 +31,45 @@
   ],
   "toc": [
     {
-      "id": "hymns-01",
+      "id": "hymns-c01",
       "title": {
-        "en-US": "Hymns",
-        "la": "Hymns"
+        "en-US": "Pange Lingua (Sing, My Tongue)",
+        "la": "Pange Lingua"
       }
     },
     {
-      "id": "hymns-s1",
+      "id": "hymns-c02",
       "title": {
-        "en-US": "Hymns.S1",
-        "la": "Hymns.S1"
+        "en-US": "Sacris Solemniis (Let This Our Solemn Feast)",
+        "la": "Sacris Solemniis"
       }
     },
     {
-      "id": "hymns-sing-my-tongue",
+      "id": "hymns-c03",
       "title": {
-        "en-US": "Sing, My Tongue",
-        "la": "Sing, My Tongue"
+        "en-US": "Verbum Supernum Prodiens (The Heavenly Word Proceeding Forth)",
+        "la": "Verbum Supernum Prodiens"
       }
     },
     {
-      "id": "hymns-let-this-our-solemn-feast",
+      "id": "hymns-c04",
       "title": {
-        "en-US": "Let This Our Solemn Feast",
-        "la": "Let This Our Solemn Feast"
+        "en-US": "Lauda Sion (Praise, O Zion)",
+        "la": "Lauda Sion Salvatorem"
       }
     },
     {
-      "id": "hymns-the-heavenly-word-proceeding-forth",
+      "id": "hymns-c05",
       "title": {
-        "en-US": "The Heavenly Word Proceeding Forth",
-        "la": "The Heavenly Word Proceeding Forth"
+        "en-US": "Adoro Te Devote (Godhead Here in Hiding)",
+        "la": "Adoro Te Devote"
       }
     },
     {
-      "id": "hymns-praise-o-zion",
+      "id": "hymns-c06",
       "title": {
-        "en-US": "Praise, O Zion",
-        "la": "Praise, O Zion"
-      }
-    },
-    {
-      "id": "hymns-godhead-here-in-hiding",
-      "title": {
-        "en-US": "Godhead Here in Hiding",
-        "la": "Godhead Here in Hiding"
-      }
-    },
-    {
-      "id": "hymns-each-man-has-virtue",
-      "title": {
-        "en-US": "Each Man has Virtue",
-        "la": "Each Man has Virtue"
+        "en-US": "Sonnet attributed to Aquinas (\"Each Man has Virtue\")",
+        "la": "Tanto ha virtù ciascun (sonettus)"
       }
     }
   ]

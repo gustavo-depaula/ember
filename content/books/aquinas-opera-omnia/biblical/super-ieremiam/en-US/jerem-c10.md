@@ -1,227 +1,179 @@
-# C. 10 - The futility of idol-worship
+# C. 8 - Pride, greed, and shamelessness
+
+***Pride, greed, and shamelessness***
 
 ***Lecture 1***
 
-***Impotence of idols***
+***The destruction of tombs***
 
-***^10:1^ Hear the word which the Lord has spoken concerning you, O house of Israel.***
+^8:1^ In that time, says the Lord, they shall cast out the bones of the king of Judah, and the bones of her princes, and the bones of the priests, and the bones of the prophets, and the bones of them that dwell in Jerusalem from their tombs.  
 
-> ^10:2^ Thus says the Lord: do not learn according to the ways of the nations, and do not be afraid of the signs of heaven, which the nations fear.
+> ^8:2^ And they shall scatter them before the sun, and the moon, and all the host of heaven, which they loved, and which they served, and after which they walked, and which they sought, and worshiped. They shall not be gathered up, neither shall they be buried; they shall be as dung upon the face of the earth.
 
-> ^10:3^ Because the laws of the peoples are vain. For he cuts a tree from the forest; it is the work of the craftsman with an axe.
+> **55**. Here, he threatens the exhumation of corpses.
 
-> ^10:4^ He adorns it with silver and gold, and joins it together with nails and hammers, that it may not fall apart.
+First, he speaks of the exhumation itself: ***they shall cast out the bones***, believing that they will find gold, or something similar. *But you have been cast forth from your tomb like a useless branch, polluted and wrapped up among those who were slain with the sword, and have gone down to the bottom of the pit, like a rotten corpse* (Isa 14:19).  
 
-> ^10:5^ They are made in the likeness of the palm tree, and they will not speak; they must be carried to move, because they cannot walk. Therefore, do not be afraid of them, for they can do neither evil nor good.
+Second, the scattering of what was dug up: ***and they shall scatter them***. *They have worshiped the whole host of heaven* (2 Kgs 17:16). *Those things by which a man sins are the same also by which he is tormented* (Wis 11:17).  
 
-> **68**. Here, he shows the dignity of the people, so that from this their guilt may appear the more serious and their punishment the more just.
+Third, their worthlessness: ***they shall not be gathered up***. *Their dead bodies have become like dung in the middle of the streets* (Isa 5:25).  
 
-It is divided into three parts.
+Lecture 2  
 
-In the first, he shows their dignity from the perspective of the divine majesty;
+***Death rather than life***
 
-in the second, from that of the divine covenant: ***the word which came to Jeremiah from the Lord*** (Jer 11:1);
+^8:3^ And they shall choose death rather than life, all who remain from this evil family, which remain in all the places to which I have driven them, says the Lord of hosts.  
 
-in the third from that of their repudiated connection, or protection: ***thus says the Lord to me*** (Jer 13:1).
+> **56**. Here, he shows the oppression of those who remain, signified by their choice of death, which in itself is not worthy of choice except in as much as it is an end to evils. *In those days men will seek death, but will not find it; and they shall desire to die, but death shall flee from them* (Rev 9:6).
 
-Concerning the first, there are two points.
+Lecture 3  
 
-In the first, he shows their dignity in comparison with other peoples, from the very fact that they venerate the word of God;
+***Stubborn rebellion***
 
-in the second, he threatens punishment, because through their idolatry they have rejected the worship of God, at ***gather up your shame from the earth*** (Jer 10:17).
+^8:4^ And you shall say to them, thus says the Lord: shall not he who falls rise again, and he who has turned aside return?  
 
-Concerning the first, there are two things.
+> ^8:5^ Why, then, has this people in Jerusalem turned aside in stubborn rebellion? They have set hold on a lie, and do not wish to return.
 
-First, he shows the difference between gods;
+> ^8:6^ I attended and listened; no one speaks what is good; there is no one who does penance for his sin, saying, ‘What have I done?’ All have turned to their own course, as a horse rushing in attack to do battle.
 
-second, from this he infers the destruction of their worship, at ***every man is made a fool*** (Jer 10:14).
+> ^8:7^ The kite *(Heb. חֲסִידָה: *stork*.)* in the heavens knows his season; the turtle dove, the swallow, and the stork *(Heb. עָגוּר: a kind of bird, perhaps a *crane*.)* have kept the time of their coming; but my people have not known the judgment of the Lord.
 
-Concerning the first, there are three things.
+> **57**. Here, he shows their obstinacy and hardness in sin. For this reason, it is separated from everything that has come before.
 
-First, he distinguishes the true God from the false gods, with regard to the majesty of God;
+First, he shows their obstinacy in the sins which they have committed against God or against themselves and their neighbor.  
 
-second, with regard to the span of eternity, at ***the teaching of their vanity*** (Jer 10:8);
+Then he speaks of those things which they have committed directly against their neighbor: ***who shall give water to my head and a wellspring of tears to my eyes?*** (Jer 9:1).  
 
-third, with regard to the truth of divinity, at ***therefore, thus shall you speak to them*** (Jer 10:11).
+Concerning the first, there are two points.  
 
-Concerning the first, there are two things.
+First, he reprimands them for their hardness;  
 
-First, he shows the emptiness and the futility of idols;
+second, he threatens them with punishment, at ***I shall surely gather them*** (Jer 8:13).  
 
-second, the divine majesty, at ***there is none like you, O Lord*** (Jer 10:6).
+Concerning the first point, there are four things.  
 
-Concerning the first, there are two things.
+First, he shows their hardness with regard to idolatry;  
 
-First, he sets forth the command that they should not bow down to idols, either by imitation of the nations—***according to the ways***—or by the greatness of the heavenly bodies: ***do not be afraid of the signs of heaven***, such that you would believe there to be divinity in them, or that they have power over those things which depend on free will. *Lest perhaps you lift your eyes to heaven, and you see the sun, and the moon, and all the stars of heaven, and taken by error, you pray to them, and worship what the Lord God has made to serve all the nations, which are under the heavens* (Deut 4:19).
+second, with regard to pride, at ***how can you say, ‘We are wise, for the law of the Lord is with us’?*** (Jer 8:8);  
 
-Second, he proves the proposition when he speaks of the futility of idols: ***the laws of the peoples***, by which they bind themselves to idolatry, ***are vain***, because they are useless, and lacking the truth of divine knowledge. *Vain are all men in whom no knowledge of God lies hidden* (Wis 13:1). He proves their vanity from the cheapness of their substance with regard to matter: ***for he cuts a tree***. *He fells the cedars, takes the holm and the oak, which had stood among the trees of the forest* (Isa 44:14). With regard to their principal efficient cause: ***work of the craftsman***, and instrumental, ***with an axe***. *They are unhappy, and their hope is among the dead, who call upon gods the work of the hands of men* (Wis 13:10). *He has made it with corners, and made it round with a compass, and made the image of a man, a beautiful man, as it were, dwelling in a house* (Isa 44:13).
+third, with regard to their greed, at ***therefore, I will give their women to strangers*** (Jer 8:10);  
 
-With regard to the form of beauty: ***with silver***. *Their timbers are polished by the carpenter, gilded and silvered; they are false, and cannot speak* (Bar 6:7). And of composition: ***with nails and hammers***. *At that time, the worker in bronze, striking with his hammer, encouraged the one who was forging, saying, ‘It is ready for soldering’; he strengthened it with nails, so that it should not be moved* (Isa 41:7).
+fourth, with regard to their shamelessness, at ***they are ashamed, because they have done abomination*** (Jer 8:12).  
 
-He proves it also from the weakness of the work, which has no sensitive or intellective operation: ***in the likeness of the palm tree***, which does not perceive, however beautiful it may be; ***and they will not speak***, with regard to an act of the reason; ***carried***, namely, by others, ***because they cannot walk***, with regard to the operation of the sensitive soul. *They have a mouth, but will not speak; they have eyes, but they will not see; they have ears, but they will not hear; they have nostrils, but they will not smell; they have hands, but they will not feel; they have feet, but they will not walk; there is no voice in their throat* (Ps 115:5).
+Concerning the first point, he shows their astonishing hardness from three things.  
 
-Third, he draws the intended conclusion: ***therefore, do not be afraid***, because some gods were worshiped so they would do good, others, so that they would not do evil. *Do something, either good or bad, if you are able, and we will speak, and see together* (Isa 41:23).
+First, from normal behavior, when he says: ***shall not he who falls rise again?*** Spiritually, or even corporally, with regard to conversion from sin: ***and he who has turned aside***; with regard to aversion, it is as though he were saying, “This is the customary manner.” *Shall he that sleeps rise again no more?* (Ps 40:8). *The virgin of Israel is cast down upon her own land; there is none who will raise her up* (Amos 5:2).  
 
-Lecture 2
+And he ends with astonishment: ***why, then, has this people in Jerusalem turned aside***, with regard to sin, ***in stubborn rebellion?*** As though striving against the Lord, or defying him. *I know your rebelliousness and your exceedingly stiff neck* (Deut 31:27). ***They have set hold on***, with regard to conversion, ***a lie***: a fraud. *We have set a lie as our hope, and by a lie are we protected* (Isa 28:15).  
 
-***God’s greatness***
+Second, he shows their hardness from the universality of their sin, when he shows their complete negligence in doing good: ***I attended and listened; no one speaks what is good***, and much less does it. *There is none who does good, no not one* (Ps 13:3). And their universal impenitence for the evils which they have committed: ***there is no one who does penance for his sin***. *But you according to your stubbornness, and impenitent heart store up wrath for yourself on the day of wrath* (Rom 2:5). And unbridled concupiscence: ***all have turned***. *A horse not broken will become stubborn, and a son left to himself will become headstrong* (Sir 30:8). *He has run against God with an upraised neck, and with a fat neck is he armed* (Job 15:26). *Behold, he will swallow up a river and not be astonished; he has confidence that the Jordan river can flow into his mouth* (Job 40:18).  
 
-***^10:6^ There is none like you, O Lord; you are great, and great is your name in strength.***
+Third, he shows their hardness from a comparison with irrational beings, when he describes their knowledge: ***the kite in the heavens***, that is, the air, ***knows his season***, suitable for his activities; ***of their coming***, because they go away in winter to warmer locations, and they return in spring, and do all this by the instinct of natural judgment. *Ask the beasts, and they will teach you; and the birds of heaven, and they shall declare it to you* (Job 12:7).  
 
-> ^10:7^ Who will not fear you, O king of the nations? For yours is the honor; among all the wise of the nations and amidst all their kingdoms, there is none like you.
+Then, he speaks of the ignorance of the people: ***but my people have not known the judgment***, of the propitiation which shall overtake them. *But Israel has not known me* (Isa 1:3).  
 
-> ^10:8a^ The stupid and the foolish shall be tested alike.
+Lecture 4  
 
-> **69**. Here, he shows the majesty of God’s dominion.
+***The wise confounded***
 
-First, he shows each power: ***great***, in himself, ***and great is your name***, in the esteem of men. From this he infers fear: ***who will not fear?*** Above: ***therefore, will you not fear me, says the Lord, and will you not be dismayed before my face?*** (Jer 5:22).
+^8:8^ How can you say, ‘We are wise, for the law of the Lord is with us’? When the lying pen of the scribes has worked falsehood.  
 
-Second, he shows his singular knowledge:
+> ^8:9^ The wise are confounded, terrified, and taken prisoner, for they have cast aside the word of the Lord, and there is no wisdom in them.
 
-first, excluding equality in wisdom: ***for yours is the honor***. *Blessing, and glory, and wisdom, and thanksgiving, honor, and power, and might be to our God for ages of ages. Amen* (Rev 7:12).
+> **58**. Here, he shows their pride from their boast of wisdom; concerning this, there are three things.
 
-Second, he shows their foolishness in comparison with the divine wisdom: ***and amidst all their kingdoms, there is none like you***.
+First, he speaks of their boast: ***we are wise***. *Woe to you, who are wise in your own eyes, and prudent in your own estimation* (Isa 5:21).  
 
-***The stupid***, in divine matters; ***the foolish***, in human affairs. *The wisdom of this world is foolishness with God* (1 Cor. 3:19).
+Second, he shows their injustice: ***when the lying pen of the scribes has worked falsehood***, either by wrongly interpreting the Scriptures, or by establishing wicked laws. *Woe to those who establish wicked laws, and when they write, have written injustice to oppress the poor in judgment, and do violence to the cause of the humble of my people* (Isa 10:1).  
 
-Lecture 3
+Third, he speaks of their punishment: ***the wise are confounded***—taking the past tense for the future. *He brings counselors to a foolish end, and judges to astonishment* (Job 12:17).  
 
-***Idols lack eternity***
+Then, he resumes his case: ***they have cast aside the word of the Lord***. *The word of the Lord in the highest is a wellspring of wisdom* (Sir 1:5). *Therefore are my people led captive, for they had not knowledge* (Isa 5:13). *Because you rejected wisdom, I will reject you from being a priest before me* (Hos 4:6).  
 
-***^10:8b^ The teaching of their vanity is wood.***
+Lecture 5  
 
-> ^10:9^ Sheets of silver rolled up they bring from Tharsis, and gold from Ophir: the work of the craftsman and his hand of bronze. Their garments are blue and purple; all these the work of a craftsman.
+***Universal greed***
 
-> ^10:10^ But the Lord is the true God. He is the living God, and king eternal. The earth will tremble at his indignation, and the nations shall not endure his threatening.
+^8:10^ Therefore, I will give their women to strangers, their fields to heirs, because from the least to the greatest they all go after greed; from the prophet to the priest, they all work deceit.  
 
-> **70**. Here, he makes clear the difference with regard to eternity.
+> ^8:11^ And they would heal the wound of the daughter of my people with shame, saying, ‘Peace, peace,’ when there was no peace.
 
-First, he shows the inception of the idols with regard to their substance, because they are made of wood: ***the teaching of their vanity***, of the wise among the nations, ***is wood***, that is, an idol made from wood. And from this, their vain wisdom is discerned.
+> **59**. Here, he shows their greed.
 
-And with regard to those which are of silver: ***silver***; and with regard to those which are of gold: ***gold from Ophir: the work***, as these indeed are, ***of the craftsman***, and the work of ***his hand***, as it were, even cheap work. *The idols of the nations are silver and gold*—*the work of men’s hands* (Ps 113:12). And with regard to their adornment: ***blue***, for what is made is understood to have had a beginning. *But you cover them with purple garments, and wipe their face because of the dust of the house, which is very much among them* (Bar 6:12).
+First, he speaks of their punishment: ***to heirs***, that is, to those who hold it strongly and securely as if it were their own inheritance. *You shall take a wife, and another shall sleep with her* (Deut 28:30).  
 
-Second, he sets forth God’s eternity, joining it to his truth and majesty, because he is ***the true God and eternal***. *The eternal God who created the ends of the earth will not fail* (Isa 40:28). From these things, he infers fear: ***the earth will tremble at his indignation***, as though he were saying, “Even such things as are insensible of his wrath will feel it,” ***and they shall not endure*** for the greatness of their fear. *The earth is moved and shaken; the foundations of the mountains are troubled* (Ps 17:8).
+Second, he speaks of their guilt:  
 
-Lecture 4
+first, of their greedy desire: ***because from the least to the greatest they all go after greed***, as an end. *The whole head is weak, and the whole heart grieving; from the sole of the foot to the top of the head there is no soundness in it* (Isa 1:6).  
 
-***God’s power to create***
+Second, he speaks of their fraud in obtaining what they desire, ***from the prophet***.  
 
-***^10:11^ Therefore, thus shall you speak to them: may the gods, who did not make the heavens and the earth, perish from the earth, and from those places which are under heaven.This verse is remarkable inasmuch as it does not appear to have been originally written in Hebrew (as Thomas Aquinas notes below), but in Chaldean (Aramaic).***
+Third, the manner of their treachery: ***and they would heal***. *They gave life to their own souls, and violated me before the people for a handful of barley and a piece of bread, that they may kill souls that do not die, and bring life to souls that do not live, lying to my people that believes the lie* (Ezek 13:17–19).  
 
-> ^10:12^ He who makes the earth by his might, and prepares the world by his wisdom, and by his knowledge stretches out the heavens.
+Lecture 6  
 
-> ^10:13^ At his word, he gives an abundance of waters in heaven, and raises the clouds from the ends of the earth; he makes the lightning in the rain, and leads forth the wind from his storehouses.
+***Shamelessness***
 
-> **71**. Here, he makes clear the difference with regard to the truth of divinity.
+^8:12^ They are ashamed, because they have done abomination; yea, rather, they are not ashamed of shame, for they have not known how to blush. Therefore, they shall fall among those that fall; in the time of their visitation they shall fall down, says the Lord.  
 
-He first excludes the truth of divinity from the idols, showing that there is no divine operation in them: ***therefore, thus shall you speak to them***, to the worshipers of idols. For this reason, the word is written in the Chaldean language in Hebrew text: ***perish***, that is, let their worship cease. *The heavens declare the glory of God, and the firmament makes known the work of his hands* (Ps 18:1).
+> **60**. Here, he shows their shamelessness.
 
-Second, he shows that divine operation exists in God:
+And first, he shows a cause for shame: ***they are ashamed***—it is as if he were saying, “They suffer punishments, of which they ought to be ashamed.” *And there is a shame which brings sin* (Sir 4:21).  
 
-first, with regard to creation of the essential parts of the world: ***he who makes the earth***, with regard to the lowest things; ***the world***, with regard to the highest. *The Lord founded the earth with wisdom, and established the heavens with understanding* (Prov 3:19). *He stretches out the heavens like a tent; he covers his upper chambers with water* (Ps 103:2–3).
+Second, he shows their shamelessness: ***yea, rather, they are not ashamed of shame***. Above: ***you have had the forehead of a harlot, you would not blush*** (Jer 3:3).  
 
-Second, with regard to the passions of the air, so that not only would it be believed that prior things come to be from first things, as certain philosophers say, but further, that he is the author of all things and at work in all things.
+Third, their punishment: ***therefore, they shall fall among those that fall***, as it says above (Jer 6:15). *When her people fell among a hostile force, and there was none to help* (Lam 1:7).  
 
-First, with regard to those things which come to be from moist matter, such as clouds and rain: ***at his word***, at his command, ***from the ends***, because of the abundance of water around the earth.The ocean which ancient Greeks and Romans believed flowed around the *orbis terrarum*, “circle of the lands,” like a river.
+Lecture 7  
 
-Second, with regard to those things which are made of moist and dry matter: ***lightning***. He changes the order, because rain frequently follows lightning.
+***Silence in the city***
 
-Third, with regard to those things which are made from dry matter: ***and leads forth the wind from his storehouses***, from hidden causes, and also, the place in which they are generated. *He brings forth the clouds from the ends of the earth; he makes lightning in the rain* (Ps 134:7).
+^8:13^ I shall surely gather them, says the Lord. There is not a grape on the vines, and there are no figs on the fig tree; the leaf has fallen, and what I had given to them has passed away.  
 
-Lecture 5
+> ^8:14^ Why shall we sit? Come, and let us go into the fortified city and be silent there; because the Lord our God has made us silent, and has given us water of gall to drink, for we have sinned against the Lord.
 
-***Idols make men fools***
+> ^8:15^ We waited for peace, and there was no good; a time of healing, and behold, fear.
 
-***^10:14^ Every man is made a fool because of his knowledge, and the craftsman is confounded by his graven image, for what he has cast is false, and there is no breath in them.***
+> ^8:16^ From Dan was heard the snorting of his horses; by the sound of the neighing of his warriors the whole earth was moved; they have come and devoured the earth and the fullness thereof; the city, and those who dwell therein.
 
-> ^10:15^ They are vain and worthy of derision; in the time of visitation they shall perish.
+> ^8:17^ For behold, I will send the basilisk *(Heb. נְחָשִׁים צִפְעֹנִים: identification dubious, possibly the horned viper, or desert cobra.)* among you, for which there is no charm, and they shall bite you, says the Lord.
 
-> ^10:16^ The portion of Jacob is not like these; for it is he who formed all things, and Israel is the rod of his inheritance; the Lord of hosts is his name.
+> ^8:18^ My sorrow is above sorrow; my heart mourns within me.
 
-> **72**. Here, he infers the destruction of false worship.
+> ^8:19^ Behold, the voice of my daughter calling out from a far country: ‘Is the Lord not in Zion, or her king in her?’ Why, therefore, did they provoke me to anger with their graven images, and strange vanities?
 
-First, he speaks of the shame of idolatry with regard to its foolishness: ***is made a fool***, as became apparent, ***because of his knowledge*** from which he made the idol. *God made the wisdom of this world to be foolishness* (1 Cor 1:20). And with regard to the punishment of shame: ***is confounded***. *Let all who worship graven images be put to shame, and all those who glory in their idols* (Ps 96:7). And he gives the cause from the falsity of the idols: ***for what he has cast is false*** in its emptiness and ***vain*** also in its end.
+> ^8:20^ ‘The harvest has passed, the summer is ended, yet we are not saved.’
 
-***In the time of visitation they shall perish***. *What was made, together with him who made it, shall suffer torment* (Wis 14:10).
+> ^8:21^ For the affliction of the daughter of my people am I broken, I am afflicted, *(Heb. קָדַ֕רְתִּי: *I am black*.)* and astonishment has taken hold of me.
 
-Second, he excludes the glory of the Jews: ***the portion of Jacob is not like these***. *The Lord is the portion of my inheritance and my cup; it is you who restores my inheritance to me* (Ps 15:5) because the happiness of all things is his portion. *My portion is the Lord, said my soul, therefore I shall wait for him* (Lam 3:24). ***The rod of his inheritance***, his scepter, as it were, because his is a hereditary kingdom. Alternatively, ***rod***, as a lot. *But the portion of the Lord is his people, Jacob is the rope of his inheritance* (Deut 32:9).
+> ^8:22^ Is there no balm *(Resin derived from the tree, *commiphora opobalsamum*, used widely for its antiseptic and medicinal properties.)* in Gilead, or no physician there? Why, therefore, is the scar of the daughter of my people not covered?
 
-Lecture 6
+> **61**. Here, Jeremiah speaks of a punishment similar to the punishment mentioned above.
 
-***Threat of exile***
+First, he speaks of the judgment of the Lord with regard to the affliction of men: ***I shall surely gather***, in Jerusalem, by besieging it. ***Gather them like a flock to the sacrifice, and sanctify them for the day of slaughter*** (Jer 12:3). And as for the plundering of their fruits: ***there is not a grape***, for you, but for the enemy, who shall eat up all that is yours while you watch. ***Passed away***, from them into the hands of the enemy. *The fig will not blossom, and there will be no bud on the vines* (Hab 3:17).  
 
-***^10:17^ Gather up your shame from the earth, you who dwell in a siege.***
+Second, the misery of the people: ***why shall we sit?*** Alternatively, he speaks of their preparation, and gives here their exhortation to one another: ***why shall we sit*** in the houses of the city as though neutral. *(Although *quietus* can mean “quiet” or “restful,” in the context of war it often means “neutral,” taking no part in the fighting.)* ***Let us be silent***, as though astonished, or from the tumult of war. ***Gather together, and let us enter the fortified cities*** (Jer 4:5). And the reason of those giving the exhortation is that they foresee punishment: ***because the Lord our God has made us silent***, with astonishment. *He has filled me with bitterness, and made me drunk with wormwood* (Lam 3:15). And they confess fault: ***we have sinned***. *We have sinned with our fathers, we have acted unjustly, we have done iniquity* (Ps 105:6).  
 
-> ^10:18^ For thus says the Lord: behold, at this time, I shall cast the inhabitants of this land afar off, and I shall trouble them such that they may not be found.
+And they recognize the folly of waiting: ***we waited***, according to the words of the false prophets; ***good***, the reward of peace. *The expectation of the just is joy, but the hope of the wicked will perish* (Prov 10:28).  
 
-> ^10:19^ Woe to me, because of my wound; my wound is very grievous. But I said: certainly, this is my sickness, and I will bear it.
+He mentions also the pursuit of the enemy and their reputation, ***from Dan***. Above: ***a voice of one announcing*** (Jer 4:15). He also speaks of the effect of their reputation: ***by the sound of the neighing of his warriors the whole earth was moved***—hyperbolically, or metonymically. *(*Metonymy* is a rhetorical figure of speech whereby one word is replaced by another word connected to it. For example, a part could substitute for a whole or vice versa, as in the text here (this example would be a specific type of metonymy, *synecdoche*).)* *The earth was moved and shook* (Ps 17:7). And even the punishment inflicted by them: ***they have come and devoured the earth and the fullness thereof***, that is, the produce of the earth. *They have devoured Jacob, and laid waste his dwelling place* (Ps 78:7).  
 
-> ^10:20^ My tent is laid waste; all my cords are pulled up; my sons have gone from me, and are not. There is none who stretches out my tent anymore or sets up the skins of my dwelling.
+And he excludes a remedy: ***for behold I will send the basilisk***—the Chaldeans—***among you, for which there is no charm***, because they cannot be placated by any means. *Their fury is according to the likeness of a serpent, as a deaf adder, which blocks her ears* (Ps 57:4). *Their pain is like the pain of a scorpion, when it stings a man* (Rev 9:5).  
 
-> **73**. Here, he threatens them with punishment, because they have not preserved this dignity.
+Third, he speaks of the pity of the compassionate.  
 
-First, he threatens punishment;
+And first, he speaks about the compassion for the affliction of the people, ***sorrow***, from the person of the Lord; this is an anthropopathism; *(A literary device whereby human affections are ascribed to a non-human being, in this case, God.)* alternatively, from the person of the prophet: *O all you who pass by the way, give heed, and see if there be any sorrow like unto my sorrow* (Lam 1:12).  
 
-second, the prophet seeks mercy when he says, ***I know, O Lord, that a man’s way is not his own*** (Jer 10:23).
+And the affliction of the people: ***behold the voice***, of the enemy, ***from a far country***, or of the people against that same enemy, or from the land of their captivity. ***I heard the voice as of a woman giving birth*** (Jer 4:31). And the reason of the affliction: ***is the Lord not in Zion?*** Indeed, God himself is able to give counsel, aid, and answer; for this reason, they have no cause to seek other gods. *Is there not a God in Israel, that you should go to inquire of Beelzebub, the god of Ekron* (2 Kgs 1:16).  
 
-Concerning the first, there are three things.
+Second, he speaks about the compassion for the length of time, when he speaks of the duration of their affliction: ***the harvest has passed, the summer is ended, yet we are not saved***, from the peril of famine, for we have not gathered in the produce of the earth; from the person of the people. So in 2 Kings 6:27, *how can I save you?*  
 
-First, punishment is threatened;
+Third, he speaks about the compassion ***for the affliction*** from the person of the Lord, as above. *He became their savior in all their distress* (Isa 63:8). Or from the person of the prophet. *My bowels are troubled within me* (Lam 2:11).  
 
-second, the cause of the punishment, at ***for the shepherds have done foolishly*** (Jer 10:21);
+Fourth, he gives the reason for the length of time, which is certainly that they refused to be cured from sin: ***is there no balm***, by which he means the remedy of repentance against guilt, or of divine wisdom; ***a physician***, a prophet, or a priest, ***in Gilead***, where the study of medicine flourished. ***Go up to Gilead, and take balm, O virgin daughter of Egypt*** (Jer 46:11). ***Why, therefore, is the scar***, sin, ***not covered***, cured. *Wounds and bruises and swelling sores; they are not bound up, nor dressed, nor fomented with oil* (Isa 1:6).  
 
-third, the order of the punishment: ***behold, the sound of a noise comes*** (Jer 10:22).
+Collations  
 
-Concerning the first, there are two things.
+Note that ***silence*** (Jer 8:14) has many senses. Of astonishment: *silence shall be cast out in every place* (Amos 8:3). Of security: *the work of justice shall be peace, and the effect of justice silence and security forever* (Isa 32:17). Of longsuffering: *it is good to wait with silence for the salvation of the Lord* (Lam 3:26). *The words of the wise are like goads, and nails driven deeply* (Eccl 12:11).  
 
-First, the Lord foretells that the punishment will be a siege: ***gather***, in the city, ***from the earth***, from the fields, ***shame***, that is, your fruits, which are worthy of shame. ***I shall surely gather them, says the Lord*** (Jer 8:13).
-
-And the punishment of captivity: ***for thus says the Lord: behold, at this time, I shall cast the inhabitants of this land afar off***—it is as though he were saying, “I shall not spare them any longer”—***such that they may not be found***, in the city, or because the greater part of them has died. *You have utterly rejected us* (Lam 5:22).
-
-Second, the people, terrified by this, lament the future punishment:
-
-first, in general, lamenting the punishment: ***woe to me***. Below: ***your breach is incurable*** (Jer 30:12), because of their sins. And he promises patience: ***but I said: certainly, this is my sickness***, due to me because of my sins, ***and I will bear it***, patiently. *I shall bear the anger of the Lord, for I have sinned against him* (Mic 7:9).
-
-Second, in particular with regard to the destruction of their houses: ***tent***, because houses are destroyed as easily as tents; ***cords***, by which the tent is drawn out. ***My tents are destroyed suddenly and my skins in a moment*** (Jer 4:20). And with regard to the affliction of the inhabitants: ***my sons***, *they have gone out from you on foot led by the enemy* (Bar 5:6). ***There is none who stretches out***—there is no one who may rebuild.
-
-Lecture 7
-
-***Shepherds’ foolishness***
-
-***^10:21^ For the shepherds have done foolishly, and have not sought the Lord; therefore, they have not understood, and their whole flock is scattered.***
-
-> **74**. Here, he outlines the communal punishment in order, because the sins of the rulers are the cause of their blindness. *Their wickedness has blinded them* (Wis 2:21). And this is the cause of the destruction of the people. *If the blind lead the blind, both will fall into a pit* (Matt 15:14). *My sheep are scattered because there was no shepherd, and they have become prey for all the beasts of the field, and they are scattered* (Ezek 34:5).
-
-Lecture 8
-
-***Noise from the north***
-
-***^10:22^ Behold, the sound of a noise comes, and a great shaking from the land of the north, that he may turn the cities of Judah into wilderness and the habitation of dragons.Heb. תַּנִּין: *serpent, dragon, sea-monster*.***
-
-> **75**. Here, he determines the order of the punishment, pre-signifying the enemy who is to come from the north. ***From the north shall spread every evil upon the inhabitants of the land*** (Jer 1:14).
-
-Lecture 9
-
-***Plea for mercy***
-
-***^10:23^ I know, O Lord, that a man’s way is not his own, nor does it pertain to a man to walk and direct his steps.***
-
-> ^10:24^ Correct me, O Lord, but with judgment, and not in your wrath, lest you bring me to nothing.
-
-> ^10:25^ Pour forth your indignation upon the nations which have not known you, and upon the provinces which have not called upon your name, for they have eaten up Jacob, and devoured him; they have consumed him, and wasted his beauty.Heb. וְאֶת־נָוֵ֖הוּ הֵשַֽׁמּוּ: *and have laid waste his habitation*.
-
-> **76**. Here, he seeks mercy.
-
-First, he shows the necessity of seeking it: ***a man’s way is not his own***, with regard to choice; ***to walk***, with regard to execution; ***direct***, with regard to ordering his steps to an end. And so it is in our power neither to resist nor to attack the Chaldean, but all depends upon your disposition. *With the Lord are a man’s steps directed, and he shall delight in his way* (Ps 36:23). *The heart of man sets his way in order, but it is the Lord’s to direct his steps* (Prov 16:9).
-
-Second, he gives the petition by which he seeks mercy for the people: ***correct me with judgment***, with your wonted mercy, and not with the condemnation, of which the Psalm speaks: *do not enter into judgment with your servant, O Lord, for no one living will be justified in your sight* (Ps 142:2); ***and not in your wrath***, according to the measure of due retribution, ***lest you bring me to nothing***, for it would be just for one who sins against God to be forsaken by him, and thus to tend towards nothingness. In saying this, he does not act contrary to the commandment given above; ***you, therefore, do not pray for the good of this people*** (Jer 14:11),*Tu ergo*, “you, therefore,” does not appear at Jeremiah 14:11, though it does appear at 7:16 and 11:14. for he does not pray that they should not be punished, but that they should not be utterly annihilated. *Lord, do not rebuke me in your fury, nor chasten me in your wrath* (Ps 37:1).
-
-But he seeks wrath for the enemy: ***pour forth your indignation***, and he gives the reason: ***for they have eaten up***. *Pour forth your wrath upon the nations which have not known you, and upon the kingdoms that have not called upon your name; because they have eaten up Jacob, and laid waste his dwelling place* (Ps 78:6–7).
-
-Collations
-
-***Note that man is ***a fool*** (Jer 10:14) from the perspective of God’s knowledge because of the pride of his heart: *those who say they are wise have become foolish* (Rom 1:22); because of his curiosity to inquire after things: *much reading has driven you mad* (Acts 26:24); because of the uncertainty of knowledge: *your knowledge and your wisdom have deceived you* (Isa 47:10); because of the perversity of his works: *for you have blinded them with their wickedness* (Wis 2:21).***
-
-Also, note that one should bear divine chastisement patiently (Jer 10:19) because of the good will of the one who chastises: *my son, do not reject the discipline of the Lord, nor rebel when you are chastened by him* (Prov 3:11); because of his knowledge of our wrongdoing: *I shall bear the anger of the Lord, for I have sinned against him* (Mic 7:9); because of the expectation of reward: *blessed is the man who endures temptation, for when he has been tried he will receive the crown of life which God has promised to those who love him* (Jas 1:12); because of the futility of grumbling: *why has a living man murmured, a man suffering for his sins?* (Lam 3:39).
-
-Chapter 11
+Also note that the company of evil men is to be avoided, because they entice with their words: *evil conversations corrupt good morals* (1 Cor 15:33). They influence by their examples: *with the upright you will be upright, and with the perverse you will be perverted* (Ps 17:26). They negatively affect one’s reputation: *he who touches pitch will be soiled thereby* (Sir 13:1). They implicate one in punishment: *depart from the tents of the wicked, and touch nothing that belongs to them, lest you become involved in their sins* (Num 16:26).

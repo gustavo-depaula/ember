@@ -1,11 +1,11 @@
-# Question 72 — (5) cursing.
+# Question 72 — Reviling
 
-Under the first head there are four points of inquiry:
+We must now consider injuries inflicted by words uttered extrajudicially. We shall consider (1) reviling, (2) backbiting, (3) tale bearing, (4) derision, (5) cursing.  
 
-(1) What is reviling?
+Under the first head there are four points of inquiry:  
 
-(2) Whether every reviling is a mortal sin?
+(1) What is reviling?  
 
-(3) Whether one ought to check revilers?
-
-(4) Of the origin of reviling.
+- (2) Whether every reviling is a mortal sin?
+- (3) Whether one ought to check revilers?
+- (4) Of the origin of reviling.

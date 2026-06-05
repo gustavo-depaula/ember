@@ -1,9 +1,9 @@
-# Question 29 — We must now consider Peace, under which head there are four points of inquiry:
+# Question 29 — Peace
 
-(1) Whether peace is the same as concord?
+***We must now consider peace, under which head there are four points of inquiry:***
 
-(2) Whether all things desire peace?
+(1) Whether peace is the same as concord?  
 
-(3) Whether peace is an effect of charity?
-
-(4) Whether peace is a virtue?
+- (2) Whether all things desire peace?
+- (3) Whether peace is an effect of charity?
+- (4) Whether peace is a virtue?

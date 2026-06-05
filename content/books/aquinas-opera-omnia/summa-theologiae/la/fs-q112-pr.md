@@ -1,11 +1,10 @@
-# Quaestio 112 — Deinde considerandum est de causa gratiae. Et circa hoc quaeruntur quinque.
+# Quaestio 112
 
-Primo, utrum solus Deus sit causa efficiens gratiae.
+***Deinde considerandum est de causa gratiae. Et circa hoc quaeruntur quinque.***
 
-Secundo, utrum requiratur aliqua dispositio ad gratiam ex parte recipientis ipsam, per actum liberi arbitrii.
+Primo, utrum solus Deus sit causa efficiens gratiae.  
 
-Tertio, utrum talis dispositio possit esse necessitas ad gratiam.
-
-Quarto, utrum gratia sit aequalis in omnibus.
-
-Quinto, utrum aliquis possit scire se habere gratiam.
+- Secundo, utrum requiratur aliqua dispositio ad gratiam ex parte recipientis ipsam, per actum liberi arbitrii.
+- Tertio, utrum talis dispositio possit esse necessitas ad gratiam.
+- Quarto, utrum gratia sit aequalis in omnibus.
+- Quinto, utrum aliquis possit scire se habere gratiam.

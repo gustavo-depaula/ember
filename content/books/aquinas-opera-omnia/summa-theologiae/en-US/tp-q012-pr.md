@@ -1,9 +1,9 @@
-# Question 12 — We must now consider the acquired or empiric knowledge of Christ's soul; and under this head there are four points of inquiry:
+# Question 12 — The Acquired or Empiric Knowledge of Christ’s Soul
 
-(1) Whether Christ knew all things by this knowledge?
+We must now consider the acquired or empiric knowledge of Christ’s soul; and under this head there are four points of inquiry:  
 
-(2) Whether He advanced in this knowledge?
+(1) Whether Christ knew all things by this knowledge?  
 
-(3) Whether He learned anything from man?
-
-(4) Whether He received anything from angels?
+- (2) Whether He advanced in this knowledge?
+- (3) Whether He learned anything from man?
+- (4) Whether He received anything from angels?

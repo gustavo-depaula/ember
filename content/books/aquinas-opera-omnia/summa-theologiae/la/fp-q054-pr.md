@@ -1,13 +1,15 @@
-# Quaestio 54 — quarto, de modo cognitionis ipsorum.
+# Quaestio 54
 
-Circa primum quaeruntur quinque.
+***De cognitione angelorum***
 
-Primo, utrum intelligere Angeli sit sua substantia.
+Consideratis his quae ad substantiam angeli pertinent, procedendum est ad cognitionem ipsius. Haec autem consideratio erit quadripartita, nam primo considerandum est de his quae pertinent ad virtutem cognoscitivam angeli; secundo, de his quae pertinent ad medium cognoscendi ipsius; tertio, de his quae ab eo cognoscuntur; quarto, de modo cognitionis ipsorum.  
 
-Secundo, utrum eius esse sit suum intelligere.
+Circa primum quaeruntur quinque.  
 
-Tertio, utrum eius substantia sit sua virtus intellectiva.
+Primo, utrum intelligere angeli sit sua substantia.  
 
-Quarto, utrum in Angelis sit intellectus agens et possibilis.
+Secundo, utrum eius esse sit suum intelligere.  
 
-Quinto, utrum in eis sit aliqua alia potentia cognoscitiva quam intellectus.
+- Tertio, utrum eius substantia sit sua virtus intellectiva.
+- Quarto, utrum in angelis sit intellectus agens et possibilis.
+- Quinto, utrum in eis sit aliqua alia potentia cognoscitiva quam intellectus.

@@ -1,9 +1,9 @@
-# Quaestio 7 — Deinde considerandum est de circumstantiis humanorum actuum. Et circa hoc quaeruntur quatuor.
+# Quaestio 7
 
-Primo, quid sit circumstantia.
+Deinde considerandum est de circumstantiis humanorum actuum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum circumstantiae sint circa humanos actus attendendae a theologo.
+Primo, quid sit circumstantia.  
 
-Tertio, quot sunt circumstantiae.
-
-Quarto, quae sunt in eis principaliores
+- Secundo, utrum circumstantiae sint circa humanos actus attendendae a theologo.
+- Tertio, quot sunt circumstantiae.
+- Quarto, quae sunt in eis principaliores.

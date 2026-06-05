@@ -1,9 +1,9 @@
-# Question 51 — We have now to consider Christ's burial, concerning which there are four points of inquiry:
+# Question 51 — Christ’s Burial
 
-(1) Whether it was fitting for Christ to be buried?
+We have now to consider Christ’s burial, concerning which there are four points of inquiry:  
 
-(2) Concerning the manner of His burial;
+(1) Whether it was fitting for Christ to be buried?  
 
-(3) Whether His body was decomposed in the tomb?
-
-(4) Concerning the length of time He lay in the tomb.
+- (2) Concerning the manner of His burial;
+- (3) Whether His body was decomposed in the tomb?
+- (4) Concerning the length of time He lay in the tomb.

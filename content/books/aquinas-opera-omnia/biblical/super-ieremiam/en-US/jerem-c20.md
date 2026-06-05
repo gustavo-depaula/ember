@@ -1,173 +1,171 @@
-# C. 20 - Pashhur persecutes Jeremiah
+# C. 18 - The potter’s clay
+
+***The potter’s clay***
 
 ***Lecture 1***
 
-***Pashhur imprisons Jeremiah***
+***Clay in the hands of the potter***
 
-***^20:1^ And Pashhur, the son of Emmer, the priest, who was appointed chief in the house of the Lord, heard Jeremiah prophesying these words.***
+***^18:1^ The word which came to Jeremiah from the Lord, saying:***
 
-> ^20:2^ And Pashhur struck Jeremiah the prophet, and put him in fetters, which were in the upper gate of Benjamin, in the house of the Lord.
+> ^18:2^ arise, and go down into the house of the potter, and there you will hear my words.
 
-> ^20:3^ The next day, when it was light, Pashhur brought Jeremiah from prison, and Jeremiah said to him: the Lord has not called your name Pashhur,Heb. פַּשְׁחוּר: *liberation*. but Terror.Heb. מָגֹ֥ור מִסָּבִֽיב: *Terror-on-Every-Side*.
+> ^18:3^ And I went down to the house of the potter, and behold he was making his work upon the wheel.
 
-> ^20:4^ For thus says the Lord: behold, I will make you a terror to yourself and all your friends; and they will run from the sword of their enemies, and your eyes will see it; and I shall give all Judah into the hand of the king of Babylon, and he shall carry them into Babylon, and strike them with the sword.
+> ^18:4^ And the vessel which he was making from the clay with his hands was marred; and turning he made another vessel as it was pleasing in his eyes to make it.
 
-> ^20:5^ And I shall give the whole substance of this city, and all its labor, and all its value, and all the treasures of the kings of Judah, shall I give into the hands of their enemies, and they shall spoil them, and take them, and lead them to Babylon.
+> ^18:5^ And the word of the Lord came to me saying:
 
-> ^20:6^ But you, Pashhur, and all those who dwell in your house, shall go into captivity; and you shall come to Babylon, and there you shall die, and there you shall be buried, you and all your friends, to whom you have prophesied a lie.
+> ^18:6^ cannot I do with you, O house of Israel, as this potter? says the Lord. Behold, as clay in the hands of the potter, are you in my hand, O house of Israel.
 
-> **110**. Having finished the threat against the people, he begins the threat against the princes.
+> **103**. Here, he shows the obstinacy of the people themselves as though through experience:
 
-First is given the threat of the prophet against the princes;
+first, because they spurn his preaching;  
 
-second, the conspiracy of the princes against the prophet, as it says below: ***in the beginning of the reign of Jehoiakim, the son of Josiah, king of Judah*** (Jer 26:1).
+second, because they persecute the preacher, at ***and they said, ‘Come, and let us devise devices against Jeremiah’*** (Jer 18:18).  
 
-Concerning the first, there are two points.
+Concerning the first, there are two points.  
 
-First, he makes a threat against the princes of the Judean people;
+First is given the preaching which calls them back to repentance;  
 
-second, against them and others, as it says below: ***the word which came to Jeremiah from the Lord*** (Jer 25:1).
+second, the desperation of those who spurned it, at ***and they said, ‘We have no hope; we shall go after our own thoughts’*** (Jer 18:12).  
 
-The first divides into two parts.
+Concerning the first, there are two things.  
 
-In the first, he makes a threat against the princes, as those established in the highest rank of dignity;
+First, the Lord designates the place of revelation to the prophet: ***into the house of the potter***, so that the prophecy should be drawn from a likeness to his work, by which is signified that the words of the Lord are revealed to the one who descends to consider his own weakness. *His speech is with the simple* (Prov 3:32).  
 
-in the second, he makes a threat against everyone, as it says below: ***woe to the shepherds who scatter and tear in pieces the flock*** (Jer 23:1).
+***I went down***—I went to the lower part of the city where craftsmen of this sort stayed.  
 
-Concerning the first, there are two points.
+Second, the revealed word is given.  
 
-First, he makes a threat against the highest in spiritual dignity, namely, the high priest;
+First, he gives the simile;  
 
-second, against the highest in temporal dignity, namely, against the king, as it says below: ***the word which came to Jeremiah from the Lord*** (Jer 21:1).
+second, he draws the lesson from the simile, at ***I shall speak suddenly against a nation*** (Jer 18:7).  
 
-Concerning the first, there are two points.
+Concerning the first, there are two points.  
 
-First, he gives the threat against the high priest;
+First, the action of the potter is noted, from which the simile is drawn when he speaks of the vessel’s destruction: ***and behold he was making his work upon the wheel***. *The potter sitting at his work, and turning the wheel with his feet, who is always carefully set to his task, and innumerable is all his work* (Sir 38:32).  
 
-second, because of the danger which threatened the prophet as a result of this, he give his own complaint, at ***O Lord, you have deceived me*** (Jer 20:7).
+And the restoration of the destroyed vessel: ***and turning he made another vessel***. *The potter pressing a mass of earth, laboriously crafts each vessel for our use, and from the same clay makes vessels which are for clean use, and in like manner those which are the opposite* (Wis 15:7).  
 
-Concerning the first, there are two points.
+Second, he gives the application of the simile: ***and the word of the Lord came to me***.  
 
-First is set down the occasion of the threat from the persecution of the prophet, where the reason for the persecution is given: ***prophesying these words***, against the city; for this was the duty of the high priest—to bring false prophets to trial. As it says below: ***the Lord has made you a priest in the place of Jehoiada the priest, that you may be the ruler in the house of the Lord over every madman and prophet, that you may put them in the stocks and in prison*** (Jer 29:26).
+First, the question is posed: ***cannot I do with you, O house of Israel, as this potter?*** *And now, O Lord, you are our father, and we are the clay; and you are our maker, and we are all the work of your hands* (Isa 64:8).  
 
-The persecution of the prophet: ***and Pashhur struck . . . and put him in fetters***, in a prison, a kind of torture for detaining captives; ***Benjamin***, the gate which led to the tribe of Benjamin, for the city was located in the confines of both tribes (Josh 15:8, 18:28); ***the upper gate***—perhaps because there were many gates leading to that land; ***in the house of the Lord***, for which reason, prophets and ministers of the temple were judged in that gate and there confined to prison. *He has built against me round about that I may not go out; he has made my fetters heavy* (Lam 3:7).
+Second, the response: ***behold, as clay***. *In his hand are both we, and our words, and all wisdom, and the skill of the knowledge of works* (Wis 7:16).  
 
-And the liberation of the prophet: ***the next day, when it was light, Pashhur brought Jeremiah from prison***. *It happened that next day that their princes gathered together in Jerusalem, both the elders and the scribes* (Acts 4:5). *Who brings forth the bound with strength* (Ps 67:7).
+Lecture 2  
 
-Second, the threat is given:
+***God’s craft of cities and nations***
 
-and first, the punishment is designated by the changing of the name: ***and Jeremiah said to him***; he speaks after the manner of a fearful man who looks all about. *Terror to those who work evil* (Prov 10:29).
+^18:7^ I shall speak suddenly against a nation and against a kingdom, that I may uproot, and destroy, and ruin it.  
 
-Second is placed the threat of the punishment: ***for thus says the Lord***:
+> ^18:8^ If that nation will repent of its evil, which I have spoken against it, then I also shall repent of the evil which I have thought to do against it.
 
-first, with regard to his friends: ***to yourself and all your friends***. *Their priests have fallen by the sword* (Ps 77:64).
+> ^18:9^ And at once I shall speak concerning the nation and the kingdom that I should build, and plant it.
 
-Second, with regard to his subjects, when he speaks of the captivity of the people: ***and all Judah***. *Judah has gone away because of her affliction, and the greatness of her bondage; she has dwelt among the nations, but has found no rest* (Lam 1:3).
+> ^18:10^ If it does evil in my eyes, and does not hear my voice, then I will repent of the good which I have said I would do for it.
 
-And the plundering of goods: ***and I shall give the whole substance of this city***. *Everything which is in your house, and which your fathers stored up until this day, shall be carried away to Babylon. Nothing shall be left, says the Lord* (Isa 39:6).
+> ^18:11^ Now, therefore, speak to the men of Judah, and to the inhabitants of Jerusalem, saying: thus says the Lord: behold, I fashion an evil against you, and I think a thought against you; let each one turn from his wicked way, and direct your ways and your endeavors.
 
-Third, with regard to his own household: ***but you, Pashhur, and all those who dwell in your house, shall go into captivity . . . and all your friends, to whom you have prophesied a lie***, promising them prosperity. *The Lord will cast you like a ball in a wide and spacious land. There, you will die* (Isa 22:18). *Your sons and your daughters will fall by the sword, and your land shall be measured by a line; and you shall die in a polluted land, and Israel shall go from his land as a captive* (Amos 7:17).
+> **104**. Here, he draws the lesson from the above-mentioned simile.
 
-Lecture 2
+But it is objected that what is said here is opposed to what is written in Numbers 23:9: *God is not as a man that he should lie, neither as the son of man that he should be changed*. But one cannot tell a future that does not come to pass without lying, neither can one repent without changing. Therefore, etc.  
 
-***Jeremiah’s complaint to the Lord***
+To which one must say that according to Jerome, in the Gloss on Matthew 1, prophecy is twofold, namely that which pertains to predestination in those things which do not depend upon free will but only upon the disposition of God, which is immutable; and therefore, it is necessary for this to come to pass by all means. The other pertains to foreknowledge of those things which also are not subject to free will, but proceed from God insofar as God knows the outcome of every matter. And thus even a divine sentence is not changed, the change having been made in man but not in God. And therefore, repentance is understood not as a changing of the divine disposition but as a deferral of the divine sentence in accordance with lower causes. And therefore he says, ***suddenly***, and, ***at once***, speaking of God after the manner of a man; for someone is said to speak suddenly when he speaks without premeditation. Now this is fitting when one has regard only to the present, consideration of the future having been omitted.  
 
-***^20:7^ O Lord, you have deceived me, and I was deceived,Heb. פִּתִּיתַ֤נִי יְהוָה֙ וָֽאֶפָּ֔ת: this could also be read, *you have persuaded me, and I was persuaded*, or *you have seduced me, and I was seduced*. you were stronger than I, and you prevailed; I have become a laughingstock all the day; everyone mocks me.***
+Therefore, concerning this, he makes two points.  
 
-> ^20:8^ For I am speaking now this long time, crying out against iniquity, and I often proclaim destruction; and the word of the Lord has become a reproach to me, and a derision all the day.
+First, he speaks of the revocability of the divine sentence against the wicked when he gives the pronouncement of sentence: ***that I may uproot***, by taking away all strength. Above: ***I have established you this day over nations and over kingdoms, so that you may root up and pull down, lay waste and scatter, build and plant*** (Jer 1:10).  
 
-> ^20:9^ And I said: I shall not remember him, neither shall I speak any more in his name; and there came something like a fire burning in my heart, shut up in my bones; and I failed, unable to bear it.
+And the revocation of the sentence: ***if that nation will repent of its evil . . . I also shall repent***. *My heart turned within me, likewise my repentance was stirred up* (Hos 11:8).  
 
-> ^20:10^ For I heard the reproaches of many, and terror round about: ‘Persecute him, and let us persecute him,’ from all men who were at peace with me, and guarded my side:Heb. כֹּל אֱנוֹשׁ שְׁלֹמִי שֹׁמְרֵי צַלְעִי: lit. *every man of my peace, those who guard my side*. ‘If some way he may be deceived, and we may prevail against him, and avenge ourselves on him.’
+And he gives the proclamation of the sentence for the good: ***and suddenly***. *If you shall return to the Almighty, you shall be built, and you will put your iniquity far from your tent* (Job 22:23).  
 
-> ^20:11^ But the Lord is with me, as a mighty man of war; therefore, those who persecute me shall fall and be weak; they shall be greatly ashamed, for they have not understoodHeb. לֹ֣א הִשְׂכִּ֔ילוּ: a hiphil, 3rd person, plural meaning: *they did not have success*. Jerome, however, reads this as, *they have not understood*, and construes, כְּלִמַּת, *reproach*, as the direct object of הִשְׂכִּ֔ילוּ. In the Masoretic text, these two words are separated by a *zaqef qaton*, a major disjunctive accent, to prevent just such a reading. the eternal reproach, which shall never be blotted out.
+And the revocation, if he does evil: *if the righteous man turns himself from his righteousness, and does iniquity according to all the abominations which the wicked man is accustomed to do, shall he live? All his righteousness which he had done will not be remembered; in the rebellion wherein he rebelled, and in the sin wherein he sinned, in them shall he die* (Ezek 18:24).  
 
-> ^20:12^ And you, O Lord of hosts, are a tester of the just man; you who see the reins and heart, let me see, I pray, my vengeance upon them, for to you have I revealed my cause.
+Second, he introduces an idea.  
 
-> ^20:13^ Sing to the Lord, praise the Lord, for he has freed the soul of the poor from the hand of the wicked.
+First, he speaks of the punishment which has been devised: ***now, therefore, speak to the men of Judah . . . thus says the Lord: behold, I fashion***, like a potter, ***an evil***, punishments. *I the Lord am he who makes peace, and creates evil* (Isa 45:7).  
 
-> **111**. Here is placed the complaint of the prophet.
+Second, he concludes with repentance: ***let each one turn from his wicked way, and direct***, make straight, ***your ways***, works; ***endeavors***, thoughts. *Turn from your wicked ways* (Ezek 33:11).  
 
-First, he laments the duty which has been enjoined upon him.
+Lecture 3  
 
-Second, he laments his birth.
+***Despair of sinners***
 
-Concerning the first, there are two points.
+^18:12^ And they said, ‘We have no hope; we shall go after our own thoughts, and each one of us will do according to the perversity of his own wicked heart.’  
 
-First, he bewails the office enjoined upon him because of the consequent derision;
+> ^18:13^ Therefore, thus says the Lord: inquire of the nations: who has heard such dreadful things, which the virgin of Israel does exceedingly?
 
-second, because of persecution, at ***for I heard the reproaches of many*** (Jer 20:10).
+> ^18:14^ Shall the snow of Lebanon fail from the stone of the field? Or can the cold waters which burst forth, and flow be pulled up?
 
-Concerning the first, there are three things.
+> ^18:15^ Because my people has forgotten me, sacrificing in vain, and stumbling in their ways, in the ways of their time, that they may walk in them by a way not taken,
 
-First, he makes known, as it were, the manner of the injunction by complaining: ***you have deceived***, that is, I have received an occasion for deception from your words for I believed that I would prophesy against the nations and not against the Jews, from whom I suffer persecution. He does not, however, wish to impute the crime of deception to God, because then he would blaspheme. ***You prevailed***, in imposing the duty upon me when I resisted, as above in chapter 1. And this chiefly because he did not see the fruit of his own preaching. *I have labored in vain, I have wasted my strength vainly and without cause* (Isa 49:4).
+> ^18:16^ that their land may become a waste, and a perpetual hissing; everyone who passes by her will be astonished, and shake his head.
 
-Second, he sets forth the outcome of his preaching when he speaks of their derision: ***I have become a laughingstock . . . everyone mocks***, with a wrinkling of the nose manifesting derision. *I have become a laughingstock to my entire people, their song all the day long* (Lam 3:14).
+> ^18:17^ As a burning wind I will scatter them before the enemy. In the day of their destruction, I shall show them my back, and not my face.
 
-And he gives the reason when he sets out the substance of his preaching by which he openly reproved faults and threatened punishments: ***for I am speaking now this long time, crying out against iniquity, and I often proclaim destruction***, which, nevertheless, has not yet come. *To them which rejoice upon a wall of baked bricks, tell their stripes* (Isa 16:7). And the consequent reproach: ***and the word of the Lord has become a reproach to me***, that is, a cause of reproach. *Festus said to Paul: much learning has made you mad* (Acts 26:24).
+> **105**. Here, he speaks of the despair of those who spurned his preaching.
 
-Third, he rescinds the duty that was enjoined upon him: ***and I said***.
+First, he mentions their desperation: ***we have no hope***. Above: ***and you have said, ‘I have despaired, I have done wickedly; I have indeed loved others greatly, and walked after them’*** (Jer 2:25).  
 
-First, he casts away the duty: ***I shall not remember***, that is, I will think no more to speak to the people. For he did not wish to cast his pearls before swine. *Do not give what is holy to the dogs* (Matt 7:6).
+Second, the condemnation of those who despaired is given: ***therefore, thus says the Lord***.  
 
-Second, he again takes up the duty he cast off: ***and there came something like a fire***; for the more one abstains externally from the words, the more one feels the fervor of love internally. *My heart grew hot within me, and in my meditation a fire shall burn* (Ps 38:4). ***In my bones***, in the innermost part of the mind, ***I failed***, in my purpose, ***unable to bear***, the fire within, ***for I heard the reproaches of many*** (Jer 20:10).
+First, he reproves them for their horrendous sin in comparison to the nations: ***inquire of the nations***. Above: ***cross over to the isles of the Cethim and see; and send to Cedar and consider diligently; and see if there is a deed of this kind: if a nation has changed its gods. Certainly they are no gods*** (Jer 2:10–11). *He has despised my judgments, that he may be more wicked than the nations, and my commandments more than the lands which are round about him* (Ezek 5:6).  
 
-Here, he complains about the duty he has taken on, because he is enduring persecution.
+With a simile drawn from insensate things, which hold to the order fixed for them by God: ***shall the snow of Lebanon fail from the stone of the field?*** It is to be noted that Lebanon is a large mountain and has at its top a great expanse in which are fields and caves in the rocks, in which the snow remains perpetually because the rays of the sun do not reach it. *(Mt. Lebanon, *Qurnat as Sawda*, in Arabic. Thomas Aquinas’s information is geographically accurate, and it seems to be drawn more from eyewitness accounts than from the biblical text.)* ***Or can the cold waters which burst forth be pulled up***, so that they do not flow from Lebanon and other high mountains? It is as though he were saying, “No.” *I have learned that all the works which God has made will endure forever. We can add nothing, nor take anything away from those things, which the Lord made that he might be feared* (Eccl 3:14).  
 
-First, the persecution of his adversaries is given.
+From the nature of the works, because they are useless: ***sacrificing in vain***, to idols. *What fruit, therefore, did you have in those things of which you are now ashamed* (Rom 6:21). Because they are harmful: ***and stumbling***, that is, offending. *We have stumbled at noon day as in darkness, in dark places like the dead* (Isa 59:10). Because they are shameful: ***in the ways of their time***, idolatry, after which their entire generation goes. *Do you not desire to keep to the path of the ages, which wicked men have trod, who were taken away before their time, and a river has overthrown their foundation, who said to God: depart from us, and we wish no knowledge of your ways* (Job 22:15). And difficult: ***that they may walk in them by a way not taken***, by their holy fathers. Alternatively, because they have devised vain sins: *we have walked in difficult ways, and the way of the Lord we have not known* (Wis 5:7). *We will walk upon the trodden path* (Num 20:17).  
 
-First, he speaks of the multitude of those who persecute him: ***of many***, whom he is not able to resist. ***Persecute***, in which their conspiracy is observed. He even mentions their familiarity: ***from all men who were at peace with me***, in which the imminent danger is observed. *All the men of your confederacy have mocked you; the men of your peace have prevailed against you* (Obad 1:7).
+Second, he threatens an astonishing punishment.  
 
-Second comes the comforting of the prophet when he speaks of divine assistance: ***but the Lord is with me***, to defend. *The Lord God is my help, and therefore I am not ashamed* (Isa 50:7). And his duty: and ***therefore, those who persecute me shall fall***, because they persecute him. *Boys shall faint and labor, and young men shall fall from weakness* (Isa 40:30). ***They shall be greatly ashamed***, because they have spoken reproachfully; ***for they have not understood***, that is, they did not wish to understand, ***the reproach***, of eternal damnation, or of the coming captivity. *Let them be confounded and afraid, who seek my soul, that they may take it away* (Ps 39:15).
+First, with regard to the desolation of the land: ***that their land may become a waste***, as consequently. *O all you who pass by the way, attend, and see, if there is grief like unto my grief* (Lam 1:10).  
 
-Third is placed the petition where he longs for kindness, and commends justice: ***a tester***—that is, one who proves, or an investigator and examiner—of knowledge; ***who sees the reins***, with regard to the emotions, ***and hearts***, with regard to the thoughts. Above: ***I the Lord examine the heart, and test the reins; it is I who give to each one according to his way*** (Jer 17:10). He seeks vengeance: ***let me see, I pray, my vengeance upon them***; and he gives the cause: ***for to you have I revealed***, not to one who did not know this, but putting my entire cause in you. Above: ***for to you have I revealed my cause*** (Jer 11:20).
+Second, with regard to the destruction of the nation: ***as a wind***, which withers all fruit, ***before the*** Babylonian ***enemy***. Above: ***a burning wind is on the roads, which are in the desert of the way of the daughter of my people, not to winnow, or to cleanse*** (Jer 4:11).  
 
-Fourth is placed his thanksgiving: ***sing to the Lord***. *Because he has freed the poor from the powerful, the poor man who had no helper* (Ps 71:12).
+Third, with regard to the cessation of divine assistance. ***My back***, after the manner of an angry person. *I will hide my face from them, and will consider their last end* (Deut 32:20). *Why, O Lord, have your rejected us completely, and why is your anger stirred up against the sheep of your pasture* (Ps 73:1).  
 
-Lecture 3
+Lecture 4  
 
-***Jeremiah curses his birth***
+***Devices against Jeremiah***
 
-***^20:14^ Cursed is the day on which I was born; the day on which my mother bore me, may it not be blessed!***
+^18:18^ And they said, ‘Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor speech from the prophet; come, and let us strike him with the tongue, and let us pay no heed to all his words.’  
 
-> ^20:15^ Cursed is the man who announced it to my father, saying: a man-child is born to you, and made him rejoice greatly.
+> ^18:19^ Attend to me, O Lord, and hear the voice of my adversaries.
 
-> ^20:16^ Let that man be as the cities which the Lord has overthrown and has not repented; let him hear a cry in the morning and wailingHeb. תְרוּעָה: a trumpet call consisting of a number of staccato blasts followed by a long high note used to sound an alarm. at noonday,
+> ^18:20^ Is evil to be given for good, because they have dug a pit for my soul? Remember that I stood in your sight, that I might speak good for them, and turn your indignation from them.
 
-> ^20:17^ who did not kill me from the womb, so that the grave might become my mother and her womb an everlasting conception.
+> ^18:21^ Therefore, give their sons up to famine, and bring them into the hands of the sword; let their wives be without children, and widows; and let their husbands be killed with death; their young men pierced with the sword in battle.
 
-> ^20:18^ Why did I come forth from the womb to see labor and pain, that my days may be consumed in shame?
+> ^18:22^ Let a shout be heard in their houses; you will bring the thief upon them suddenly, because they have dug a pit to take me, and have hidden snares for my feet.
 
-> **112**. Here, he laments the origin of his birth.
+> ^18:23^ But you, O Lord, know all their counsel against me to slay me; do not forgive their iniquity, and let not their sins be blotted out from your sight; let them fall before your eyes, in the time of your wrath consume them.
 
-But one may object to what is said here, for it is the duty of the saints to glory in tribulations, as it is said in Romans 5. Therefore, it seems that Jeremiah should not have burst forth in cursing because of his tribulations.
+> **106**. Here their obstinacy is shown from the fact that they would persecute their preachers in a figure of the persecution of Christ.
 
-Furthermore, the day is a creature of God; but to curse a creature of God is a sin; therefore, etc.
+First is noted the persecution on the part of his adversaries, when he speaks of their plan to persecute: ***come***. *The wicked spoke, thinking what is not right within themselves* (Wis 2:1). And further (in the same place): *let us surround the just man, for he is useless to us, and is contrary to our doings* (Wis 2:12). The reason for the persecution: ***for the Law***, the disposition of the Law, ***shall not perish***. ***Speech***, of divine revelation, which, as it were, falsely predicted this future. On the contrary, *the Law shall perish from the priest, and counsel from the elders* (Ezek 7:26). And the manner of persecution: ***with the tongue***, by detraction, and accusation. ***Let us pay no heed***, as though fearing his threats. *They have sharpened their tongues as swords, they have established a worthless matter for themselves* (Ps 63:4). *(Heb. אֲשֶׁר שָׁנְנוּ כַחֶרֶב לְשׁוֹנָם דָּרְכוּ חִצָּם דָּבָר מָר: *who have sharpened their tongue like a sword, aimed their arrow, a bitter word*.)* *The blow of the whip makes a bruise, but the blow of the tongue will break the bones* (Sir 28:21).  
 
-Furthermore, a day is a transitory thing, and it is foolish to apply the punishment of a curse to it; therefore, etc.
+Second, the prayer of the prophet is given.  
 
-Furthermore, no one should curse the innocent; but that man, insofar as he did not kill Jeremiah, was innocent; therefore, he sinned in cursing him.
+First, he seeks an audience: ***attend to me, O Lord***, that is, to my merits. *You have heard their scorn, O Lord, all their thoughts against me* (Lam 3:60).  
 
-To the first objection it is to be said that tribulations considered in themselves are an evil insofar as they are contrary to the nature of the good, as Augustine says;Augustine, *De natura boni* 20 (CSEL 41; PL 40:581). and thus to abhor them with a natural hatred is not a sin. If, however, because of them, an argument were to be drawn inductively from one’s own rectitude, this would be a sin. Considered, however, insofar as they move one toward the good, the saints glory in them as a sick man might in the amputation by which he is healed.
+Second, he sets forth the fault of ingratitude when he speaks of their ingratitude: ***is evil to be given for good?*** It is as though he were saying, “It is not customary; it is not just.” ***A pit***, deception, that they might take my life. *They have set before me evil for good, and hatred for my love* (Ps 108:5). And the proof of their ingratitude: ***remember***. *This is the lover of his brethren, and of the people of Israel; this is he who prayed much for the people and for the entire holy city, Jeremiah the prophet of God* (2 Macc 15:14).  
 
-To the second and third objections, it is to be said that he does not curse the day considered as to its nature, because this would be foolish and a sin, but insofar as it is evil, in that something bad happened in it; just as, to the contrary, a festival day is celebrated because of something good which happened on that day; and this is what that curse signifies. Gregory, however, considering the nature of the day itself, says that it cannot be understood literally.
+Third, he calls down punishment.  
 
-And one must respond similarly to the last objection, because he does not curse those men except insofar as they have a relation to their own action. Whence, by this, he gives us to understand his own sense of horror, hyperbolically speaking, and the weariness of his own life because of the difficulties which he was suffering.
+First, the infliction of punishment with regard to the boys: ***therefore, give their sons***. Above: ***those who are for the sword, to the sword, and those who are for famine, to famine, and those who are for captivity, to captivity*** (Jer 15:2). With regard to those who make use of marriage: ***let their wives be without children***. *Give them a womb without children, and dry breasts* (Hos 9:14). And with regard to their men of war: ***let their young men be pierced with the sword in battle, let a shout be heard***, of wailing. *They will raise a cry of grief* (Isa 15:5).  
 
-Therefore, concerning this, he makes two points.
+Second, the concealment of the punishment, so that they may not guard against it beforehand: ***you will bring the thief***, Nebuchadnezzar, who would come upon them suddenly. *If thieves had come in unto you, if robbers in the night, how should you have kept silent?* (Obad 1:5). And he gives the reason: ***because they have dug a pit***; it is as though he were saying, “It is just that they should be deceived, who wished to deceive me.” *They have laid a snare for my feet, and bowed down my soul* (Ps 56:7).  
 
-First, he mentions the curse against the time of his birth: ***cursed is the day***. *May the day perish on which it was said: a man is conceived* (Job 3:3).
+And he brings the proof: ***but you, O Lord, know***. *You have seen, O Lord, their wickedness against me, judge my cause* (Lam 3:59).  
 
-Against the messenger of his birth: ***cursed is the man who announced it to my father, saying, a man-child is born to you, and made him rejoice greatly***. *God has made joy for me, and whoever shall hear of it shall laugh with me* (Gen 21:6).
+Next, he excludes a revocation of the sentence when he excludes mercy: ***do not forgive their iniquity***, by cleansing them from guilt; ***let not their sins be blotted out***, by freeing them from punishment. *Let the iniquity of his fathers be remembered in the sight of the Lord, and let not the sin of his mother be blotted out* (Ps 108:14). And he calls down punishment: ***let them fall before your eyes . . . consume them***, *(Heb. עֲשֵׂה בָהֶם: *deal with them*.)* that is, treat them badly, or contrary to your accustomed clemency. *Jerusalem is ruined, and Judah has fallen, because their tongue, and their doings are against the Lord, that they may provoke the eyes of his majesty* (Isa 3:8).  
 
-And he explains the manner of the curse: ***let that man be as the cities which the Lord has overthrown***. *You have made the city a heap, the strong city a ruin* (Isa 25:2).
+Collations  
 
-And against the life of the servant, who saved his life: ***let him hear a cry***, of death, ***so that the grave might become my mother***, as though he had not been reckoned among men; ***an everlasting conception***, which never came to its due delivery. *Why did I not die in the womb, why did I not immediately die when I came out of the belly* (Job 3:11).
+One should note that there is the good ***hissing*** (Jer 18:16) of divine inspiration. *(Thomas Aquinas is commenting here on the phrase, *sibilum sempiternum*, “a perpetual hissing,” in Jeremiah 18:16. *Sibilum* may mean either “hiss” or “whistle,” and both senses appear in the verses Aquinas cites.)* *I will whistle for them, and I will gather them, because I have redeemed them* (Zech 10:8). Of strengthening the lowly: *and after the fire, the whistle of a gentle breeze* (1 Kgs 19:12). Of compassion. Below: ***all who pass by her will be astonished, and hiss because of all her plagues*** (Jer 49:17).  
 
-Second is placed the reason for the curse: ***why did I come forth from the womb?*** Above: ***woe to me, O my mother! Why did you give birth to me, a man of contention, a man of discord in the whole land?*** (Jer 15:10). *Woe to me that I was born to see the destruction of my people, and the destruction of the holy city, and to dwell there when it is given into the hands of the enemy* (1 Macc 2:7).
+There is also the bad hissing of wicked persuasion: *moved by the hissing of serpents, they perished for fear* (Wis 17:9). Of insult: *all those passing by the way hissed and shook their heads because of the daughter of Jerusalem saying: is this the city of perfect beauty, the joy of all the earth?* (Lam 2:15). Of astonishment: ***I shall make them an astonishment and a hissing, and eternal desolations*** (Jer 25:9).  
 
-Collations
-
-***A note concerning the verse: ***O Lord, you have deceived me, and I was deceived, you were stronger than I, and you prevailed*** (Jer 20:7), for the Lord seduces by drawing one along with persuasion: *since I was clever, I caught you by guile* (2 Cor 12:16); by alluring one with consolations: *when I had eaten it, my stomach was made bitter* (Rev 10:10); by comforting one with promises. Above: ***why have you deceived this people and Jerusalem, saying, ‘You shall have peace’? And behold the sword has come even unto the soul*** (Jer 4:10). But the Lord prevails by correcting: *he taught me with his mighty hand, that I should not go in the way of this people* (Isa 8:11); by drawing one back from what is harmful: *I shall hedge your way with thorns, and I will stop it with a wall* (Hos 2:6); by holding one fast with love: *I shall draw them with the cords of a man, with the bonds of love* (Hos 11:4).***
-
-Chapter 21
+Also, concerning the phrase: ***that I might speak good for them*** (Jer 18:20), it should be noted that Christ speaks good for us that he may obtain mercy: *Father, forgive them, for they know not what they do* (Luke 23:34). To excuse guilt: *we have an advocate with the Father, Jesus Christ, the just man; and he is the atonement for our sins* (1 John 2:1–2). *You have come to the mediator of the new covenant, and to the sprinkling of blood, which speaks better than that of Abel* (Heb 12:24). To obtain glory: *I desire that where I am, they also may be with me, that they may see my glory, which you have given me* (John 17:24).

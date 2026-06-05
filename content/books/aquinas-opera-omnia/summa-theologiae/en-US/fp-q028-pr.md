@@ -1,9 +1,9 @@
-# Question 28 — The divine relations are next to be considered, in four points of inquiry:
+# Question 28 — The Divine Relations
 
-(1) Whether there are real relations in God?
+***The divine relations are next to be considered, in four points of inquiry:***
 
-(2) Whether those relations are the divine essence itself, or are extrinsic to it?
+(1) Whether there are real relations in God?  
 
-(3) Whether in God there can be several relations distinct from each other?
-
-(4) The number of these relations.
+- (2) Whether those relations are the divine essence itself, or are extrinsic to it?
+- (3) Whether in God there can be several relations distinct from each other?
+- (4) The number of these relations.

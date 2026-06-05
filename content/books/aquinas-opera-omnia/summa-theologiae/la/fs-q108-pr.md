@@ -1,9 +1,9 @@
-# Quaestio 108 — Deinde considerandum est de his quae continentur in lege nova. Et circa hoc quaeruntur quatuor.
+# Quaestio 108
 
-Primo, utrum lex nova debeat aliqua opera exteriora praecipere vel prohibere.
+Deinde considerandum est de his quae continentur in lege nova. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum sufficienter se habeat in exterioribus actibus praecipiendis vel prohibendis.
+Primo, utrum lex nova debeat aliqua opera exteriora praecipere vel prohibere.  
 
-Tertio, utrum convenienter instituat homines quantum ad actus interiores.
-
-Quarto, utrum convenienter superaddat consilia praeceptis.
+- Secundo, utrum sufficienter se habeat in exterioribus actibus praecipiendis vel prohibendis.
+- Tertio, utrum convenienter instituat homines quantum ad actus interiores.
+- Quarto, utrum convenienter superaddat consilia praeceptis.

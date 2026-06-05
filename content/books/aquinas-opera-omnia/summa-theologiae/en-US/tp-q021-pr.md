@@ -1,9 +1,9 @@
-# Question 21 — We must now consider Christ's prayer; and under this head there are four points of inquiry:
+# Question 21 — Christ’s Prayer
 
-(1) Whether it is becoming that Christ should pray?
+We must now consider Christ’s prayer; and under this head there are four points of inquiry:  
 
-(2) Whether it pertains to Him in respect of His sensuality?
+(1) Whether it is becoming that Christ should pray?  
 
-(3) Whether it is becoming to Him to pray for Himself or only for others?
-
-(4) Whether every prayer of His was heard?
+- (2) Whether it pertains to Him in respect of His sensuality?
+- (3) Whether it is becoming to Him to pray for Himself or only for others?
+- (4) Whether every prayer of His was heard?

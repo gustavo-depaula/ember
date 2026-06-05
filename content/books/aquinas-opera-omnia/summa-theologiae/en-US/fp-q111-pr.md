@@ -1,11 +1,11 @@
-# Question 111 — We now consider the action of the angels on man, and inquire: (1) How far they can change them by their own natural power; (2) How they are sent by God to the ministry of men; (3) How they guard and protect men.
+# Question 111 — The Action of the Angels on Man
 
-Under the first head there are four points of inquiry:
+We now consider the action of the angels on man, and inquire: (1) How far they can change them by their own natural power; (2) How they are sent by God to the ministry of men; (3) How they guard and protect men.  
 
-(1) Whether an angel can enlighten the human intellect?
+Under the first head there are four points of inquiry:  
 
-(2) Whether he can change man's will?
+(1) Whether an angel can enlighten the human intellect?  
 
-(3) Whether he can change man's imagination?
-
-(4) Whether he can change man's senses?
+- (2) Whether he can change man’s will?
+- (3) Whether he can change man’s imagination?
+- (4) Whether he can change man’s senses?

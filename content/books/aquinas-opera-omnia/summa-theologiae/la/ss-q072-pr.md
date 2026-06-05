@@ -1,11 +1,11 @@
-# Quaestio 72 — quinto, de maledictione.
+# Quaestio 72
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de iniuriis verborum quae inferuntur extra iudicium. Et primo, de contumelia; secundo, de detractione; tertio, de susurratione; quarto, de derisione; quinto, de maledictione.  
 
-Primo, quid sit contumelia.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum omnis contumelia sit peccatum mortale.
+Primo, quid sit contumelia.  
 
-Tertio, utrum oporteat contumeliosos reprimere.
-
-Quarto, de origine contumeliae.
+- Secundo, utrum omnis contumelia sit peccatum mortale.
+- Tertio, utrum oporteat contumeliosos reprimere.
+- Quarto, de origine contumeliae.

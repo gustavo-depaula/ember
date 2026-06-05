@@ -1,7 +1,8 @@
-# Quaestio 49 — Consequenter quaeritur de causa mali. Et circa hoc quaeruntur tria.
+# Quaestio 49
 
-Primo, utrum bonum possit esse causa mali.
+***Consequenter quaeritur de causa mali. Et circa hoc quaeruntur tria.***
 
-Secundo, utrum summum bonum, quod est Deus, sit causa mali.
+Primo, utrum bonum possit esse causa mali.  
 
-Tertio, utrum sit aliquod summum malum, quod sit prima causa omnium malorum.
+- Secundo, utrum summum bonum, quod est Deus, sit causa mali.
+- Tertio, utrum sit aliquod summum malum, quod sit prima causa omnium malorum.

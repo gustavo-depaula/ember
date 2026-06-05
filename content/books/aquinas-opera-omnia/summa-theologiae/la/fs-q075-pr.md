@@ -1,11 +1,9 @@
-# Quaestio 75 — secundo, in speciali.
+# Quaestio 75
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de causis peccatorum. Et primo, in generali; secundo, in speciali. Circa primum quaeruntur quatuor.  
 
-Primo, utrum peccatum habeat causam.
+Primo, utrum peccatum habeat causam.  
 
-Secundo, utrum habeat causam interiorem.
-
-Tertio, utrum habeat causam exteriorem.
-
-Quarto, utrum peccatum sit causa peccati.
+- Secundo, utrum habeat causam interiorem.
+- Tertio, utrum habeat causam exteriorem.
+- Quarto, utrum peccatum sit causa peccati.

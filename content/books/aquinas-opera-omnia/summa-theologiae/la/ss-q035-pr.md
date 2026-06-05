@@ -1,11 +1,11 @@
-# Quaestio 35 — secundo, de invidia.
+# Quaestio 35
 
-Circa primum quaeruntur quatuor.
+Deinde considerandum est de vitiis oppositis gaudio caritatis. Quod quidem est et de bono divino, cui gaudio opponitur acedia; et de bono proximi, cui gaudio opponitur invidia. Unde primo considerandum est de acedia; secundo, de invidia.  
 
-Primo, utrum acedia sit peccatum.
+Circa primum quaeruntur quatuor.  
 
-Secundo, utrum sit speciale vitium.
+Primo, utrum acedia sit peccatum.  
 
-Tertio, utrum sit mortale peccatum.
-
-Quarto, utrum sit vitium capitale.
+- Secundo, utrum sit speciale vitium.
+- Tertio, utrum sit mortale peccatum.
+- Quarto, utrum sit vitium capitale.

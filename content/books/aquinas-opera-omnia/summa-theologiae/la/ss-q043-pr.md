@@ -1,17 +1,13 @@
-# Quaestio 43 — Deinde considerandum restat de vitiis quae beneficentiae opponuntur. Inter quae alia quidem pertinent ad rationem iustitiae, illa scilicet quibus aliquis iniuste proximum laedit, sed contra caritatem specialiter scandalum esse videtur. Et ideo considerandum est hic de scandalo. Circa quod quaeruntur octo.
+# Quaestio 43
 
-Primo, quid sit scandalum.
+Deinde considerandum restat de vitiis quae beneficentiae opponuntur. Inter quae alia quidem pertinent ad rationem iustitiae, illa scilicet quibus aliquis iniuste proximum laedit, sed contra caritatem specialiter scandalum esse videtur. Et ideo considerandum est hic de scandalo. Circa quod quaeruntur octo.  
 
-Secundo, utrum scandalum sit peccatum.
+Primo, quid sit scandalum.  
 
-Tertio, utrum sit peccatum speciale.
-
-Quarto, utrum sit peccatum mortale.
-
-Quinto, utrum perfectorum sit scandalizari.
-
-Sexto, utrum eorum sit scandalizare.
-
-Septimo, utrum spiritualia bona sint dimittenda propter scandalum.
-
-Octavo, utrum sint propter scandalum temporalia dimittenda.
+- Secundo, utrum scandalum sit peccatum.
+- Tertio, utrum sit peccatum speciale.
+- Quarto, utrum sit peccatum mortale.
+- Quinto, utrum perfectorum sit scandalizari.
+- Sexto, utrum eorum sit scandalizare.
+- Septimo, utrum spiritualia bona sint dimittenda propter scandalum.
+- Octavo, utrum sint propter scandalum temporalia dimittenda.

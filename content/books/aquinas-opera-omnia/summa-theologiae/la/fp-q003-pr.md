@@ -1,23 +1,19 @@
-# Quaestio 3 — Cognito de aliquo an sit, inquirendum restat quomodo sit, ut sciatur de eo quid sit. Sed quia de Deo scire non possumus quid sit, sed quid non sit, non possumus considerare de Deo quomodo sit, sed potius quomodo non sit.
+# Quaestio 3
 
-Primo ergo considerandum est quomodo non sit; secundo, quomodo a nobis cognoscatur; tertio, quomodo nominetur.
+***De Dei simplicitate***
 
-Potest autem ostendi de Deo quomodo non sit, removendo ab eo ea quae ei non conveniunt, utpote compositionem, motum, et alia huiusmodi. Primo ergo inquiratur de simplicitate ipsius, per quam removetur ab eo compositio. Et quia simplicia in rebus corporalibus sunt imperfecta et partes, secundo inquiretur de perfectione ipsius; tertio, de infinitate eius; quarto, de immutabilitate; quinto, de unitate.
+Cognito de aliquo an sit, inquirendum restat quomodo sit, ut sciatur de eo quid sit. Sed quia de Deo scire non possumus quid sit, sed quid non sit, non possumus considerare de Deo quomodo sit, sed potius quomodo non sit. Primo ergo considerandum est quomodo non sit; secundo, quomodo a nobis cognoscatur; tertio, quomodo nominetur.  
 
-Circa primum quaeruntur octo.
+Potest autem ostendi de Deo quomodo non sit, removendo ab eo ea quae ei non conveniunt, utpote compositionem, motum, et alia huiusmodi. Primo ergo inquiratur de simplicitate ipsius, per quam removetur ab eo compositio. Et quia simplicia in rebus corporalibus sunt imperfecta et partes, secundo inquiretur de perfectione ipsius; tertio, de infinitate eius; quarto, de immutabilitate; quinto, de unitate.  
 
-Primo, utrum Deus sit corpus.
+Circa primum quaeruntur octo.  
 
-Secundo, utrum sit in eo compositio formae et materiae.
+Primo, utrum Deus sit corpus *(*corpus.—corpus quasi compositionem habens ex partibus quantitativis*(*quantitatis* BEG) codices et *a b*.)*.  
 
-Tertio, utrum sit in eo compositio quidditatis, sive essentiae, vel naturae, et subiecti.
-
-Quarto, utrum sit in eo compositio quae est ex essentia et esse.
-
-Quinto, utrum sit in eo compositio generis et differentiae.
-
-Sexto, utrum sit in eo compositio subiecti et accidentis.
-
-Septimo, utrum sit quocumque modo compositus, vel totaliter simplex.
-
-Octavo, utrum veniat in compositionem cum aliis.
+- Secundo, utrum sit in eo compositio formae et materiae.
+- Tertio, utrum sit in eo compositio quidditatis, sive essentiae, vel naturae, et subiecti.
+- Quarto, utrum sit in eo compositio quae est ex essentia et esse.
+- Quinto, utrum sit in eo compositio generis et differentiae.
+- Sexto, utrum sit in eo compositio subiecti et accidentis.
+- Septimo, utrum sit quocumque modo compositus, vel totaliter simplex.
+- Octavo, utrum veniat in compositionem cum aliis.

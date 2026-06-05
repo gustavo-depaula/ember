@@ -1,9 +1,9 @@
-# Quaestio 137 — Deinde considerandum est de perseverantia, et de vitiis oppositis. Circa perseverantiam autem quaeruntur quatuor.
+# Quaestio 137
 
-Primo, utrum perseverantia sit virtus.
+Deinde considerandum est de perseverantia, et de vitiis oppositis. Circa perseverantiam autem quaeruntur quatuor.  
 
-Secundo, utrum sit pars fortitudinis.
+Primo, utrum perseverantia sit virtus.  
 
-Tertio, quomodo se habet ad constantiam.
-
-Quarto, utrum indigeat auxilio gratiae.
+- Secundo, utrum sit pars fortitudinis.
+- Tertio, quomodo se habet ad constantiam.
+- Quarto, utrum indigeat auxilio gratiae.

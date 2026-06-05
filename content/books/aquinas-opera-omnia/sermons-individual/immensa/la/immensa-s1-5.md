@@ -1,3 +1,0 @@
-# Immensa.S1.5
-
-Unde ut integro celebritatis officio institutionem tanti sacramenti solemniter recoleret plebs fidelis, Romanus pontifex Urbanus quartus, huius sacramenti devotione affectus, pie statuit praefatae institutionis memoriam prima feria quinta post octavas Pentecostes a cunctis fidelibus celebrari, ut qui per totum anni circulum hoc sacramento utimur ad salutem, eius institutionem illo specialiter tempore recolamus, quo Spiritus Sanctus discipulorum corda edocuit ad plene cognoscenda huius mysteria sacramenti. Nam et in eodem tempore coepit hoc sacramentum a fidelibus frequentari. Legitur enim in Actibus Apostolorum, quod erant perseverantes in doctrina apostolorum et communicatione fractionis panis et orationibus, statim post Sancti Spiritus missionem.

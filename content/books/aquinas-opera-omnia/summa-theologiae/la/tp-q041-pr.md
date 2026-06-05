@@ -1,9 +1,9 @@
-# Quaestio 41 — Deinde considerandum est de tentatione Christi. Et circa hoc quaeruntur quatuor.
+# Quaestio 41
 
-Primo, utrum fuerit conveniens Christum tentari.
+***Deinde considerandum est de tentatione Christi. Et circa hoc quaeruntur quatuor.***
 
-Secundo, de loco tentationis.
+Primo, utrum fuerit conveniens Christum tentari.  
 
-Tertio, de tempore.
-
-Quarto, de modo et ordine tentationum.
+- Secundo, de loco tentationis.
+- Tertio, de tempore.
+- Quarto, de modo et ordine tentationum.

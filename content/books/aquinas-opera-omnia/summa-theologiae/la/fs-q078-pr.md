@@ -1,9 +1,11 @@
-# Quaestio 78 — Deinde considerandum est de causa peccati quae est ex parte voluntatis, quae dicitur malitia. Et circa hoc quaeruntur quatuor.
+# Quaestio 78
 
-Primo, utrum aliquis possit ex certa malitia, seu industria, peccare.
+***De causa peccati quae dicitur malitia***
 
-Secundo, utrum quicumque peccat ex habitu, peccet ex certa malitia.
+Deinde considerandum est de causa peccati quae est ex parte voluntatis, quae dicitur malitia. Et circa hoc quaeruntur quatuor.  
 
-Tertio, utrum quicumque peccat ex certa malitia, peccet ex habitu.
+Primo, utrum aliquis possit ex certa malitia, seu industria, peccare.  
 
-Quarto, utrum ille qui peccat ex certa malitia, gravius peccet quam ille qui peccat ex passione.
+- Secundo, utrum quicumque peccat ex habitu, peccet ex certa malitia.
+- Tertio, utrum quicumque peccat ex certa malitia, peccet ex habitu.
+- Quarto, utrum ille qui peccat ex certa malitia, gravius peccet quam ille qui peccat ex passione.

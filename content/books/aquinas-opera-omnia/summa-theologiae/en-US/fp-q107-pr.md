@@ -1,11 +1,10 @@
-# Question 107 — We next consider the speech of the angels. Here there are five points of inquiry:
+# Question 107 — The Speech of the Angels
 
-(1) Whether one angel speaks to another?
+We next consider the speech of the angels. Here there are five points of inquiry:  
 
-(2) Whether the inferior speaks to the superior?
+(1) Whether one angel speaks to another?  
 
-(3) Whether an angel speaks to God?
-
-(4) Whether the angelic speech is subject to local distance?
-
-(5) Whether all the speech of one angel to another is known to all?
+- (2) Whether the inferior speaks to the superior?
+- (3) Whether an angel speaks to God?
+- (4) Whether the angelic speech is subject to local distance?
+- (5) Whether all the speech of one angel to another is known to all?

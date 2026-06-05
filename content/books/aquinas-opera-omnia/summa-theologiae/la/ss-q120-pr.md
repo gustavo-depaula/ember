@@ -1,5 +1,7 @@
-# Quaestio 120 — Deinde considerandum est de epieikeia. Circa quam quaeruntur duo.
+# Quaestio 120
 
-Primo, utrum epieikeia sit virtus.
+***Deinde considerandum est de epieikeia. Circa quam quaeruntur duo.***
 
-Secundo, utrum sit pars iustitiae.
+Primo, utrum epieikeia sit virtus.  
+
+- Secundo, utrum sit pars iustitiae.

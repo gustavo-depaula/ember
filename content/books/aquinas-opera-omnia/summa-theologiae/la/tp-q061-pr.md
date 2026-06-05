@@ -1,9 +1,9 @@
-# Quaestio 61 — Deinde considerandum est de necessitate sacramentorum. Et circa hoc quaeruntur quatuor.
+# Quaestio 61
 
-Primo, utrum sacramenta sint necessaria ad salutem humanam.
+Deinde considerandum est de necessitate sacramentorum. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum fuerint necessaria in statu ante peccatum.
+Primo, utrum sacramenta sint necessaria ad salutem humanam.  
 
-Tertio, utrum fuerint necessaria in statu post peccatum ante Christum.
-
-Quarto, utrum fuerint necessaria post Christi adventum.
+- Secundo, utrum fuerint necessaria in statu ante peccatum.
+- Tertio, utrum fuerint necessaria in statu post peccatum ante Christum.
+- Quarto, utrum fuerint necessaria post Christi adventum.

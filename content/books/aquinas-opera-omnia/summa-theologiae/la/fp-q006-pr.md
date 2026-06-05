@@ -1,9 +1,9 @@
-# Quaestio 6 — Deinde quaeritur de bonitate Dei. Et circa hoc quaeruntur quatuor.
+# Quaestio 6
 
-Primo, utrum esse bonum conveniat Deo.
+***Deinde quaeritur de bonitate Dei. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum Deus sit summum bonum.
+Primo, utrum esse bonum conveniat Deo.  
 
-Tertio, utrum ipse solus sit bonus per suam essentiam.
-
-Quarto, utrum omnia sint bona bonitate divina.
+- Secundo, utrum Deus *(*Deus.—ipse Deus* B*, Deus ipse sotus* C*. -* Pro *summum bonum, summe bonus* codices**.)* sit summum bonum.
+- Tertio, utrum ipse solus sit bonus per suam essentiam.
+- Quarto, utrum omnia sint bona bonitate divina.

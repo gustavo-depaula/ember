@@ -1,9 +1,9 @@
-# Question 24 — We must now consider good and evil in the passions of the soul: and under this head there are four points of inquiry:
+# Question 24 — Of Good and Evil in the Passions of the Soul
 
-(1) Whether moral good and evil can be found in the passions of the soul?
+We must now consider good and evil in the passions of the soul: and under this head there are four points of inquiry:  
 
-(2) Whether every passion of the soul is morally evil?
+(1) Whether moral good and evil can be found in the passions of the soul?  
 
-(3) Whether every passion increases or decreases the goodness of malice of an act?
-
-(4) Whether any passion is good or evil specifically?
+- (2) Whether every passion of the soul is morally evil?
+- (3) Whether every passion increases or decreases the goodness of malice of an act?
+- (4) Whether any passion is good or evil specifically?

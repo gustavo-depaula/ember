@@ -1,13 +1,11 @@
-# Question 148 — We must now consider gluttony. Under this head there are six points of inquiry:
+# Question 148 — Gluttony
 
-(1) Whether gluttony is a sin?
+***We must now consider gluttony. Under this head there are six points of inquiry:***
 
-(2) Whether it is a mortal sin?
+(1) Whether gluttony is a sin?  
 
-(3) Whether it is the greatest of sins?
-
-(4) Its species;
-
-(5) Whether it is a capital sin?
-
-(6) Its daughters.
+- (2) Whether it is a mortal sin?
+- (3) Whether it is the greatest of sins?
+- (4) Its species;
+- (5) Whether it is a capital sin?
+- (6) Its daughters.

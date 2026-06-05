@@ -1,9 +1,9 @@
-# Question 5 — We must now consider the assumption of the parts of human nature; and under this head there are four points of inquiry:
+# Question 5 — The Parts of Human Nature Which Were Assumed
 
-(1) Whether the Son of God ought to have assumed a true body?
+We must now consider the assumption of the parts of human nature; and under this head there are four points of inquiry:  
 
-(2) Whether He ought to have assumed an earthly body, i.e. one of flesh and blood?
+(1) Whether the Son of God ought to have assumed a true body?  
 
-(3) Whether He ought to have assumed a soul?
-
-(4) Whether He ought to have assumed an intellect?
+- (2) Whether He ought to have assumed an earthly body, i.e., one of flesh and blood?
+- (3) Whether He ought to have assumed a soul?
+- (4) Whether He ought to have assumed an intellect?

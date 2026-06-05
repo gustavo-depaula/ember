@@ -1,7 +1,9 @@
-# Quaestio 98 — secundo, de conditione prolis genitae.
+# Quaestio 98
 
-Circa primum quaeruntur duo.
+Deinde considerandum est de his quae pertinent ad conservationem speciei. Et primo, de ipsa generatione; secundo, de conditione prolis genitae.  
 
-Primo, utrum in statu innocentiae fuisset generatio.
+Circa primum quaeruntur duo.  
 
-Secundo, utrum fuisset generatio per coitum.
+Primo, utrum in statu innocentiae fuisset generatio.  
+
+- Secundo, utrum fuisset generatio per coitum.

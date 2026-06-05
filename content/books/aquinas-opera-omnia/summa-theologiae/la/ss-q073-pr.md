@@ -1,9 +1,9 @@
-# Quaestio 73 — Deinde considerandum est de detractione. Et circa hoc quaeruntur quatuor.
+# Quaestio 73
 
-Primo, quid sit detractio.
+***Deinde considerandum est de detractione. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum sit peccatum mortale.
+Primo, quid sit detractio.  
 
-Tertio, de comparatione eius ad alia peccata.
-
-Quarto, utrum peccet aliquis audiendo detractionem.
+- Secundo, utrum sit peccatum mortale.
+- Tertio, de comparatione eius ad alia peccata.
+- Quarto, utrum peccet aliquis audiendo detractionem.

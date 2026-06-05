@@ -1,9 +1,10 @@
-# Quaestio 84 — tertio, de actibus quibus ea quae Dei sunt assumuntur.
+# Quaestio 84
 
-Circa primum quaeruntur tria.
+Deinde considerandum est de exterioribus actibus latriae. Et primo, de adoratione, per quam aliquis suum corpus ad Deum venerandum exhibet; secundo, de illis actibus quibus aliquid de rebus exterioribus Deo offertur; tertio, de actibus quibus ea quae Dei sunt assumuntur.  
 
-Primo, utrum adoratio sit actus latriae.
+Circa primum quaeruntur tria.  
 
-Secundo, utrum adoratio importet actum interiorem, vel exteriorem.
+Primo, utrum adoratio sit actus latriae.  
 
-Tertio, utrum adoratio requirat determinationem loci.
+- Secundo, utrum adoratio importet actum interiorem, vel exteriorem.
+- Tertio, utrum adoratio requirat determinationem loci.

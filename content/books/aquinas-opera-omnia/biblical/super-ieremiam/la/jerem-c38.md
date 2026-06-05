@@ -1,139 +1,171 @@
-# C. 38 - Jeremiah persecuted by the princes
+# C. 36 - Jeremiah’s book
 
-***^38:1^ Audivit autem Saphatias filius Mathan, et Gedelias filius Phassur, et Juchal filius Selemiae, et Phassur filius Melchiae sermones quos Jeremias loquebatur ad omnem populum, dicens:***
+***Lectio 1***
 
-> ^38:2^ haec dicit Dominus: quicumque manserit in civitate hac, morietur gladio et fame et peste; qui autem profugerit ad Chaldaeos, vivet, et erit anima ejus sospes, et vivens.
+^36:1^ Et factum est in anno quarto Joakim filii Josiae regis Juda, factum est verbum hoc ad Jeremiam a Domino, dicens:  
 
-> ^38:3^ Haec dicit Dominus: tradendo tradetur civitas haec in manu exercitus regis Babylonis, et capiet eam.
+> ^36:2^ tolle volumen libri, et scribes in eo omnia verba quae locutus sum tibi adversum Israel et Judam, et adversum omnes gentes, a die qua locutus sum ad te, ex diebus Josiae usque ad diem hanc:
 
-> ^38:4^ Et dixerunt principes regi: rogamus ut occidatur homo iste: de industria enim dissolvit manus virorum bellantium, qui remanserunt in civitate hac, et manus universi populi, loquens ad eos universa verba haec, siquidem homo iste non quaerit pacem populo huic, sed malum.
+> ^36:3^ si forte audiente domo Juda universa mala quae ego cogito facere eis, revertatur unusquisque a via sua pessima; et propitius ero iniquitati, et peccato eorum.
 
-> ^38:5^ Et dixit rex Sedecias: ecce ipse in manibus vestris est, nec enim fas est vobis quidquam negare.
+> ^36:4^ Vocavit ergo Jeremias Baruch filium Neriae, et scripsit Baruch ex ore Jeremiae omnes sermones Domini quos locutus est ad eum, in volumine libri.
 
-> ^38:6^ Tulerunt ergo Jeremiam, et projecerunt eum in lacum Melchiae filii Amelech, qui erat in vestibulo carceris, et submiserunt Jeremiam funibus in lacum, in quo non erat aqua, sed lutum. Descendit itaque Jeremias in coenum.
+> **189**. Hic primo ponitur scripturae descriptio;
 
-> ^38:7^ Audivit autem Abdemelech Aethiops, vir eunuchus qui erat in domo regis quod misissent Jeremiam in lacum. Porro rex sedebat in porta Benjamin.
+secundo scripturae destructio, ibi, ***rex autem sedebat in domo hyemali***;  
 
-> ^38:8^ Et egressus est Abdemelech de domo regis, et locutus est ad regem, dicens:
+tertio restauratio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
 
-> ^38:9^ Domine mi rex, male fecerunt viri isti omnia quaecumque perpetrarunt contra Jeremiam prophetam, mittentes eum in lacum, ut moriatur ibi fame: non sunt enim panes ultra in civitate.
+Circa primum tria.  
 
-> ^38:10^ Praecepit itaque rex Abdemelech Aethiopi, dicens: tolle tecum hinc triginta viros, et leva Jeremiam prophetam de lacu, antequam moriatur.
+Primo ponit scribendi praeceptum: ***tolle volumen***. Habac. 2: *scribe visum, et explana eum super tabulas, ut percurrat qui legerit eum*.  
 
-> ^38:11^ Assumptis ergo Abdemelech secum viris, ingressus est domum regis, quae erat sub cellario, et tulit inde veteres pannos et antiqua vestimenta quae computruerant, et submisit ea ad Jeremiam in lacum per funiculos.
+Secundo ponit scripturae fructum: ***si forte audiente domo Juda***. Ezech. 33: *si impius egerit poenitentiam ab omnibus peccatis suis quae operatus est, et custodierit omnia praecepta mea, et fecerit judicium et justitiam; vita vivet et non morietur*.  
 
-> ^38:12^ Dixitque Abdemelech Aethiops ad Jeremiam: pone veteres pannos, et haec scissa, et putrida sub cubito manuum tuarum, et super funes. Fecit ergo Jeremias sic.
+Tertio scripturae ministrum: ***vocavit ergo Jeremias Baruch***. Apoc. 1: *quod vides scribe in libro, et mitte septem ecclesiis quae sunt in Asia*.  
 
-> ^38:13^ Et extraxerunt Jeremiam funibus, et eduxerunt eum de lacu. Mansit autem Jeremias in vestibulo carceris.
+Lectio 2  
 
-> **201**. In parte ista ostenditur persecutio prophetae propter veram praedicationem: et dividitur in tres partes.
+^36:5^ Et praecepit Jeremias Baruch, dicens: ego clausus sum, nec valeo ingredi domum Domini.  
 
-Primo ponit praedicationem, ***loquebatur***:
+> ^36:6^ Ingredere ergo tu, et lege de volumine in quo scripsisti ex ore meo verba Domini, audiente populo in domo Domini in die jejunii, insuper et audiente universo Juda, qui veniunt de civitatibus suis. Leges eis,
 
-quamvis enim esset in carcere, multi tamen veniebant ad eum; in quo comminatur remanentibus mortem: ***quicumque manserit in civitate hac, morietur***. Et promittebat fugientibus salutem: ***qui autem profugerit . . . vivet***.
+> ^36:7^ si forte cadat oratio eorum in conspectu Domini et revertatur unusquisque a via sua pessima: quoniam magnus furor, et indignatio est, quam locutus est Dominus adversus populum hunc.
 
-Urbis captionem: ***tradendo tradetur***. Et haec tria posuit supra 21: unde videtur continuari, secundum historiae ordinem, ad illud.
+> ^36:8^ Et fecit Baruch filius Neriae juxta omnia quae praeceperat ei Jeremias propheta, legens ex volumine sermones Domini in domo Domini.
 
-Secundo ponit persecutionem: ubi ponit principum impiam petitionem: petunt enim mortem: ***et dixerunt principes***. Sap. 2: *circumveniamus justum quoniam contrarius est operibus nostris*. Accusant praedicationem: ***de industria enim dissolvit manus virorum***: quod est contra officium prophetale. Isa. 35: *confortate manus dissolutas, et debilia genua roborate*. Et pervertunt intentionem: ***siquidem homo iste non quaerit pacem***. Gal. 4: *ergo inimicus factus sum, verum dicens vobis?* Nolebat autem Jeremias auferre cor resistendi; sed propter bonum, et salutem populi, ex jussu Domini, illa dicebat.
+> ^36:9^ Factum est autem in anno quinto Joakim filii Josiae regis Juda in mense nono, praedicaverunt jejunium in conspectu Domini omni populo in Jerusalem, et universae multitudini quae confluxerat de civitatibus Juda in Jerusalem.
 
-Ponit etiam stultam regis exauditionem: ***et dixit rex Sedecias***. Unde non excusatur, quamvis minus peccaverit. Joan. 19: *propterea qui tradidit me tibi, majus peccatum habet*.
+> ^36:10^ Legitque Baruch ex volumine sermones Jeremiae in domo Domini in gazophylacio Gamariae filii Saphan scribae in vestibulo superiori, in introitu portae novae domus Domni, audiente omni populo.
 
-Ponit etiam solicitam executionem: ***tulerunt ergo Jeremiam, et projecerunt eum in lacum***, cisternam sine aqua. Psalm. 87: *posuerunt me in lacu inferiori, in tenebrosis, et in umbra mortis*. Et designat prophetae intromissionem: ***descendit itaque Jeremias in coenum***. Psalm. 68: *infixus sum in limo profundi, et non est substantia*.
+> **190**. Hic primo ponitur denuntiatio ad plebem;
 
-Tertio ponitur liberatio. Hic duo ponit.
+secundo ad principes, ibi, ***cumque audisset Michaeas***;  
 
-Primo quod liberatur a carcere;
+tertio ad regem, ibi, ***igitur cum audissent omnia verba***.  
 
-secundo quod liberatur a mortis timore, ibi, ***et misit rex Sedecias, et tulit ad se Jeremiam***.
+Circa primum primo ponitur denuntiandi praeceptum: ***ego clausus sum***. 2 Tim. 2: *labora sicut bonus miles Christi Jesu*. Phil. 1: *ut plures e fratribus in Domino, confidentes in vinculis meis, abundantius auderent sine timore verbum Dei loqui*.  
 
-Circa primum quatuor.
+Secundo ponitur denuntiandi modus quantum ad locum, ***in domo Domini***, qui est locus devotionis. Isa. 56: *domus mea domus orationis vocabitur cunctis populis, ait Dominus Deus*. Quantum ad tempus, ***in die jejunii***, quod est tempus contritionis. Isa. 58: *nonne hoc est magis jejunium quod elegi? Dissolve colligationes impietatis, solve fasciculos deprimentes. Dimitte eos qui confracti sunt, liberos, et omne onus disrumpe. Frange esurienti panem tuum et egenos, vagosque induc in domum tuam. Cum videris nudum, operi eum, et carnem tuam ne despexeris*. Quantum ad audientes, ***audiente populo***. Quantum ad advenas: ***insuper et audiente universo Juda, qui veniunt de civitatibus suis***.  
 
-Primo describit petentem, ***Abdemelech***, idest servus regis significans; quod dicit propter humilitatem. Rom. 1: *Paulus servus Christi Jesu*, etc. ***Aethiops***, propter carnis mortificationem. Psalm. 67: *Aethiopia praeveniet manus ejus Deo*. Cant. 1: *nigra sum, sed formosa. **Vir***, propter animi virtutem, ***eunuchus***, propter castitatem. Matth. 19: *sunt eunuchi qui seipsos castraverunt propter regnum caelorum. **Qui erat in domo regis***, Philip. 3: *nostra conversatio in caelis est*. Sap. 3: *spado qui non est operatus per manus suas iniquitatem, nec cogitavit adversus Deum nequissima: dabitur enim illi fidei donum electum, et sors in templo Dei acceptissima*.
+Tertio ponit denuntiationis fructum, ponens utilitatem: ***si forte cadat oratio eorum in conspectu Domini***, idest acceptetur. Et consequentem sanctitatem: ***et revertatur unusquisque a via sua pessima, quoniam magnus furor, et indignatio est***. 4 Reg. 2: *magna ira Domini succensa est contra nos, quia non audierunt patres nostri verba libri hujus, ut facerent omne quod scriptum est nobis*.  
 
-Secundo ponit petitionem, designans petitionis locum: ***porro rex sedebat in porta Beniamin***, quae scilicet ducebat in tribum Beniamin.
+Quarto ponitur praecepti complementum quantum ad actum: ***et fecit Baruch***. Hebr. ult.: *obedite praepositis vestris, et subjacete eis*.  
 
-Et ponit petitionem, ***et egressus est Abdemelech de domo regis, et locutus est ad regem . . . non sunt enim panes ultra in civitate***; quasi dicat: ex quo inclusus est, panis defecit. Vel non erat necessarium includi, cum omnes obsessi, et in penuria simus. Sap. 11: *per quae quis peccat, per haec et torquetur*.
+Quantum ad tempus. ***Factum est autem in anno quinto Joakim***. Joel 2: *sanctificate Ecclesiam, coadunate senes, congregate parvulos et sugentes ubera*.  
 
-Tertio ponitur impetratio: ***praecepit itaque rex***.
+Quantum ad locum: ***legitque Baruch . . . in introitu portae novae***, quam fecerat Joas. 2 Paral. 27: ***in vestibulo superiori***, idest in superiori parte atrii, in quo sacerdotes immolabant. 2 Esdrae 9: *legerunt in volumine Domini Dei sui quater in die, et quater in nocte*.  
 
-Quarto ponitur executio: ***assumptis ergo Abdemelech secum viris ingressus est domum regis . . . et tulit inde veteres pannos, et antiqua quae computruerant***, propter tribulationes quas sustinuerunt. Heb. ult.: *mementote praepositorum qui vobis locuti sunt verbum Dei, quorum intuentes exitum conversationis, imitamini fidem*. Vel quia, ad litteram, molliores sunt. ***Per funiculos***, praeceptorum Dei. Eccl. 4: *funiculus triplex difficile rumpitur*.
+Lectio 3  
 
-***In vestibulo carceris***, idest in atrio. Dicitur enim vestibulum, domus ante cameram regis, ubi custodiuntur vestes: unde omne atrium, vestibulum dicitur.
+^36:11^ Cumque audisset Michaeas filius Gamariae filii Saphan omnes sermones Domini ex libro,  
 
-Lectio 2
+> ^36:12^ descendit in domum regis ad gazophylacium scribae: et ecce ibi omnes principes sedebant: Elisama scriba, et Dalaias filius Semeiae, et Elnathan filius Achobor, et Gamarias filius Saphan, et Sedecias filius Hananiae, et universi principes.
 
-***^38:14^ Et misit rex Sedecias, et tulit ad se Jeremiam prophetam ad ostium tertium, quod erat in domo Domini. Et dixit rex ad Jeremiam: interrogo ego te sermonem, ne abscondas a me aliquid.***
+> ^36:13^ Et nuntiavit eis Michaeas omnia verba quae audivit legentem Baruch ex volumine in auribus populi.
 
-> ^38:15^ Dixit autem Jeremias ad Sedeciam: si annuntiavero tibi, numquid non interficies me? Et si consilium dedero tibi, non me audies.
+> ^36:14^ Miserunt itaque omnes principes ad Baruch, Judi filium Nathaniae filii Selemiae filii Chusi, dicentes: volumen ex quo legisti audiente populo, sume in manu tua, et veni. Tulit ergo Baruch filius Neriae volumen in manu sua, et venit ad eos.
 
-> ^38:16^ Juravit ergo rex Sedecias Jeremiae clam, dicens: vivit Dominus, qui fecit nobis animam hanc, si occidero te, et si tradidero te in manus virorum istorum qui quaerunt animam tuam.
+> ^36:15^ Et dixerunt ad eum: sede, et lege haec in auribus nostris. Et legit Baruch in auribus eorum.
 
-> ^38:17^ Et dixit Jeremias ad Sedeciam: haec dicit Dominus exercituum Deus Israel: si profectus exieris ad principes regis Babylonis, vivet anima tua, et civitas haec non succendetur igni, et salvus eris tu, et domus tua.
+> ^36:16a^ Igitur cum audissent omnia verba, obstupuerunt unusquisque ad proximum suum,
 
-> ^38:18^ Si autem non exieris ad principes regis Babylonis, tradetur civitas haec in manus Chaldaeorum, et succendent eam igni, et tu non effugies de manu eorum.
+> **191**. Hic ponitur denuntiatio ad principes:
 
-> ^38:19^ Et dixit rex Sedecias ad Jeremiam: sollicitus sum propter Judaeos qui transfugerunt ad Chaldaeos, ne forte tradar in manus eorum; et illudant mihi.
+et primo ponitur de scriptura prophetiae, facta significatio ad principes: ***et nuntiavit eis Michaeas***. Apoc. ult.: *qui audit dicat: veni*.  
 
-> ^38:20^ Respondit autem Jeremias, et dixit ei: non te tradent. Audi quaeso, vocem Domini, quam ego loquor ad te; et bene tibi erit, et vivet anima tua.
+Secundo scripturae petitio: ***miserunt itaque omnes principes ad Baruch . . . dicentes volumen ex quo legisti populo sume in manu tua***: mystice, in operatione. Eccle. 9: *quodcumque potest facere manus tua, instanter operare: quia nec opus, nec ratio, nec sapientia, nec scientia erunt apud inferos, quo tu properas*. Apportatio, ***tulit ergo***.  
 
-> ^38:21^ Quod si nolueris egredi, iste est sermo, quem ostendit mihi Dominus:
+Tertio ponitur scripturae recitatio: ***et dixerunt ad eum: sede, et lege haec in auribus nostris***. Act. 20: *non enim subterfugi quominus annuntiarem omne consilium Dei vobis*.  
 
-> ^38:22^ ecce omnes mulieres quae remanserunt in domo regis Juda, educentur ad principes regis Babylonis, et ipsae dicent: seduxerunt te, et praevaluerunt adversum te viri pacifici tui, demerserunt in coeno, et in lubrico pedes tuos, et recesserunt a te.
+Et lectionis effectus: ***igitur cum audissent omnia verba, obstupuerunt***. Supra 23: ***numquid non verba mea sunt quasi ignis ardens, dicit Dominus, et quasi malleus conterens petras?***  
 
-> ^38:23^ Et omnes uxores tuae, et filii tui educentur ad Chaldaeos; et non effugies manus eorum, sed in manu regis Babylonis capieris, et civitatem hanc comburet igni.
+Lectio 4  
 
-> ^38:24^ Dixit ergo Sedecias ad Jeremiam: nullus sciat verba haec, et non morieris.
+***^36:16b^ et dixerunt ad Baruch: nuntiare debemus regi omnes sermones istos.***
 
-> ^38:25^ Si autem audierint principes quia locutus sum tecum, et venerint ad te, et dixerint tibi: indica nobis quid locutus sis cum rege; ne celes nos, et non te interficiemus; et quid locutus est tecum rex:
+> ^36:17^ Et interrogaverunt eum, dicentes: indica nobis quomodo scripsisti omnes sermones istos ex ore ejus.
 
-> ^38:26^ dices ad eos: prostravi ego preces meas coram rege, ne me reduci juberet in domum Jonathan, et ibi morerer.
+> ^36:18^ Dixit autem eis Baruch: ex ore suo loquebatur, quasi legens, ad me omnes sermones istos, et ego scribebam in volumine atramento.
 
-> ^38:27^ Venerunt ergo omnes principes ad Jeremiam, et interrogaverunt eum. Et locutus est eis juxta omnia verba quae praeceperat ei rex. Et cessaverunt ab eo: nihil enim fuerat auditum.
+> ^36:19^ Et dixerunt principes ad Baruch: vade, et abscondere tu, et Jeremias; et nemo sciat ubi sitis.
 
-> **202**. Hic liberatur a timore mortis, concessa sibi securitate a rege.
+> ^36:20^ Et ingressi sunt ad regem in atrium. Porro volumen commendaverunt in gazophylacio Elisamae scribae, et nuntiaverunt, audiente rege, omnes sermones.
 
-Et primo ponitur securitatis pactio;
+> ^36:21^ Misitque rex Judi ut sumeret volumen, qui tollens illud de gazophylacio Elisamae scribae, legit, audiente rege et universis principibus, qui stabant circa regem.
 
-secundo pacti observatio, ibi, ***mansit vero Jeremias in vestibulo carceris***.
+> **192**. Hic ponitur denuntiatio ad regem
 
-Circa primum duo.
+et primo ponitur denuntiationis praeparatio: exponunt enim denuntiandi propositum: ***nuntiare debemus***: quia ipse potest peccata populi corrigere. Proverb. 20: *rex qui sedet in solio judicii, dissipat omne malum intuitu suo*.  
 
-Primo ponitur mutua petitio. Petit enim rex divinum responsum, vel consilium, ***interrogo***. 3 Reg. ult.: *iterum atque iterum te adjuro ut non loquaris mihi nisi quod verum est in nomine Domini*.
+Perscrutantur editionis modum: unde primo ponitur quaestio: ***et interrogaverunt eum, dicentes: indica nobis quomodo scripsisti omnes sermones istos ex ore ejus***; ut ex modo scirent, utrum divino Spiritu edita scriptura esset. 1 Joan. 4: *nolite omni spiritui credere, sed probate spiritus an ex Deo sint: quoniam multi pseudoprophetae exierunt in mundum*.  
 
-Et propheta petit securitatis promissum: ***dixit autem Jeremiam ad Sedeciam***. Luc. 22: *si vobis dixero, non credetis mihi* etc. Potest enim legi interrogative vel remissive.
+Et ponitur responsio: ***dixit autem Baruch: ex ore suo loquebatur quasi legens***, sine impedimento et praemeditatione. Matth. 10: *nolite cogitare quomodo, aut quid loquamini, dabitur enim vobis in illa hora quid loquamini: non enim vos estis qui loquimini, sed Spiritus Patris vestri qui loquitur in vobis*. Supra 1: ***ecce dedi verba mea in ore tuo***, etc.  
 
-Secundo ponitur mutua solutio.
+Et datum absconsionis consilium, ***abscondere***, timentes de pertinacia et crudelitate regis. 3 Reg. 18: *numquid non indicatum est tibi domino meo quid fecerim, cum interficeret Jezabel prophetas Domini, quod absconderim de prophetis Domini centum viros, quinquagenos, et quinquagenos in speluncis, et paverim eos pane et aqua? Et nunc tu dicis: vade et dic domino tuo: adest Elias, ut interficiat me?*  
 
-Primo enim rex dat securitatis promissum: ***juravit ergo rex Sedecias . . . si occidero***, male mihi accidat. Isa. 42: *ego Dominus vocavi te in justitia, et apprehendi manum tuam et servavi te*.
+Secundo ponitur denuntiatio: ***et ingressi sunt***. Sapient. 6: *ad vos ergo, o reges, sunt hi sermones mei, ut discatis sapientiam, ne excidatis*.  
 
-Secundo propheta dat salutis consilium. Et circa hoc quatuor facit.
+Tertio ponitur scripturae recitatio: ***misitque rex Judi***; Job 29: *cumque sederem quasi rex circumstante exercitu, eram tamen maerentium consolator*.  
 
-Primo ponitur salubris prophetae exhortatio: ***et dixit Jeremias***. Et datur regi optio eligendi bonum vel malum. Eccl. 15: *ante hominem vita et mors, bonum et malum, et quod placuerit ei, dabitur illi*.
+Lectio 5  
 
-Secundo ponitur regis excusatio: ***et dixit rex . . . solicitus sum propter Judaeos***, quorum bona destruxerat propter hoc quod a Chaldaeos confugerant. Supra 9: ***unusquisque a proximo suo se custodiat, et in omni fratre suo non habeat fiduciam: quoniam omnis frater supplantans supplantabit, et omnis amicus fraudulenter incedet***.
+^36:22^ Rex autem sedebat in domo hiemali in mense nono, et posita erat arula coram eo plena prunis.  
 
-Tertio ponitur responsionis exclusio: ***respondit Jeremias***: in qua excludit timorem, si consilium audiat: ***non te tradant***. Isa. 1: *si volueritis et audieritis me, bona terrae comedetis*.
+> ^36:23^ Cumque legisset Judi tres pagellas vel quatuor, scidit illud scalpello scribae, et projecit in ignem qui erat super arulam, donec consumeretur omne volumen igni qui erat in arula.
 
-Ponit comminationem, si audire contemnat: ***quod si nolueris***.
+> ^36:24^ Et non timuerunt neque sciderunt vestimenta sua rex, et omnes servi ejus, qui audierunt universos sermones istos.
 
-Comminatur autem mulierum insultationem: ***ecce omnes mulieres dicent***. Insultando autem improperant stultum amicorum consilium: ***seduxerunt***, quantum in se fuit, ***et praevaluerunt***, quia eis credidisti, ***pacifici tui***, qui pacem tibi promittebant. Isa. 3: *popule meus, qui beatum te dicunt, ipsi te decipiunt, et viam gressuum tuorum dissipant*. Consequens damnum: ***demerserunt te in coeno***, peccati, ***in lubrico***, poenae. Psalm. 34: *fiant viae illorum tenebrae et lubricum*. Et eorum recessum: ***et recesserunt a te***. Eccli. 6: *est amicus secundum tempus suum, et non permanebit in die tribulationis*.
+> ^36:25^ Verumtamen Elnathan et Dalaias et Gamarias contradixerunt regi, ne combureret librum; et non audivit eos.
 
-Comminatur etiam captionem familiae: ***et omnes uxores***. Isa. 39: *de filiis tuis qui exibunt de te quos genueris, tollent, et erunt eunuchi in palatio regis Babylonis*. Et personae propriae: ***et tu non effugies***. Thren. 2: *non fuit in die furoris Domini, qui effugeret et relinqueretur*. Comminatur etiam urbis captionem: ***et civitatem hanc comburet igni***. Amos 1: *succendam ignem in muro Rabaa, et devorabit aedes ejus*.
+> **193**. Hic ponitur scripturae destructio: et circa hoc duo.
 
-Quarto petitur a rege consilii dati occultatio: ***dixit ergo Sedecias ad Jeremiam***.
+Primo ponitur scripturae destructio;  
 
-Et circa hoc tria facit.
+secundo scribentium persecutio, ibi, ***et praecepit rex Jeremiel***.  
 
-Primo petit occultari consilium, ***nullus sciat***. Tob. 12: *sacramentum regis abscondere bonum est; opera autem Dei revelare et confiteri honorificum est*.
+Circa primum tria.  
 
-Secundo docet celandi modum: ***si autem audierint principes***, ut veritatem taceat, et falsum non dicat. Prov. 10: *qui moderatur labia sua prudentissimus est*.
+Primo ponitur dispositio ad destructionem: ***posita erat arula coram eo plena prunis in domo hyemali***: habebat enim propter delicias domos speciales ad hyemem et aestatem. Amos 3: *percutiam domum hyemalem cum domo aestiva, et peribunt domus eburneae, et dissipabuntur aedes multae*.  
 
-Tertio ponitur petitionis complementum: ***venerunt ergo omnes principes ad Jeremiam***. Prov. 11: *qui ambulat fraudulenter, revelat arcana; qui autem amicus est, caelat amici commissum*.
+Secundo ponitur destructio: ***cumque legisset Judi tres pagellas***, parvas paginas, ***scalpello***, cultello, quo parabat pennam. Isa. 30: *auferte a me viam, declinate a me semitam, cesset a facie vestra Sanctus Israel*.  
 
-Lectio 3
+Et sic fecerunt quod facere non debuerunt, omiserunt etiam quod facere debuerunt. ***Et non timuerunt***, exemplo Josiae. 4 Reg. 32: *cum audisset rex verba libri legis, scidit vestimenta sua*, etc.  
 
-***^38:28^ Mansit vero Jeremias in vestibulo carceris usque ad diem quo capta est Jerusalem. Et factum est ut caperetur Jerusalem.***
+Tertio ponitur principum contradictio: ***verumtamen Elnathan, et Dalajas, et Gamarias contradixerunt regi***. Simile 2 Reg. ult.: *obtinuit sermo regis verba Joab, et principum ejus*, etc.  
 
-> **203**. Hic ponitur petitionis observatio, ***in vestibulo*** non missus in lacum, secundum petitionem suam.
+Lectio 6  
 
-Caput 39
+^36:26^ Et praecepit rex Jeremiel filio Amelech, et Saraiae filio Ezriel, et Selemiae filio Abdeel, ut comprehenderent Baruch scribam, et Jeremiam prophetam. Abscondit autem eos Dominus.  
+
+> **194**. Hic ponitur scribentium persecutio:
+
+et primo ponitur iniquum praeceptum, ***ut comprehenderent***;  
+
+secundo ponitur divinum auxilium: ***abscondit autem eos Dominus***; et fecit quod inveniri non possent. Psalm. 33: *custodit Dominus omnia ossa eorum, unum ex his non conteretur*.  
+
+Lectio 7  
+
+^36:27^ Et factum est verbum Domini ad Jeremiam prophetam postquam combusserat rex volumen, et sermones quos scripserat Baruch ex ore Jeremiae, dicens:  
+
+> ^36:28^ rursum tolle volumen aliud, et scribe in eo omnes sermones priores, qui erant in primo volumine, quod combussit Joakim rex Juda.
+
+> ^36:29^ Et ad Joakim regem Juda dices: haec dicit Dominus: tu combussisti volumen illud, dicens: quare scripsisti in eo annuntians: festinus veniet rex Babylonis, et vastabit terram hanc, et cessare faciet ex illa hominem et jumentum?
+
+> ^36:30^ Propterea haec dicit Dominus Deus contra Joakim regem Juda: non erit ex eo qui sedeat super solium David, et cadaver ejus projicietur ad aestum per diem, et ad gelu per noctem.
+
+> ^36:31^ Et visitabo contra eum, et contra semen ejus, et contra servos ejus iniquitates suas, et adducam super eos, et super habitatores Jerusalem, et super viros Juda omne malum quod locutus sum ad eos, et non audierunt.
+
+> ^36:32^ Jeremias autem tulit volumen aliud, et dedit illud Baruch filio Neriae scribae, qui scripsit in eo ex ore Jeremiae omnes sermones libri quem combusserat Joakim rex Juda igni, et insuper additi sunt sermones multo plures quam antea fuerant.
+
+> **195**. Hic ponitur scripturae restauratio:
+
+et primo ponitur restaurandi praeceptum, ***rursum tolle***. Supra 1: ***pugnabunt adversum te, et non praevalebunt, quia ego tecum sum, ait Dominus, ut liberem te***.  
+
+Secundo destruenti comminatur interitum, ibi, ***et ad Joakim regem Juda dices***. Unde arguit culpam: ***tu combussisti***. Prov. 29: *viro qui corripientem dura cervice contemnit, repentinus ei superveniet interitus, et eum sanitas non sequetur*.  
+
+Et comminatur poenam: ***propterea haec dicit Dominus***: regalis successionis terminationem: ***non erit ex eo qui sedeat super solium David***. Supra 22: ***non erit de semine ejus vir qui sedeat super solium David, et potestatem habeat ultra in Juda***. Cadaveris abjectionem: ***cadaver ejus projicietur***, sepultura asini. Isa. 14: *tu autem projectus es de sepulcro tuo quasi stirps inutilis, pollutus et obvolutus, cum his qui interfecti sunt gladio, et descenderunt usque ad fundamenta laci*.  
+
+Subditorum destructionem quantum ad domesticos: ***visitabo contra eum et contra semen ejus***. Psalm. 88: *visitabo in virga iniquitates eorum, et in verberibus peccata eorum*. Et quantum ad alios: ***et adducam super eos, et super habitatores Jerusalem, et super viros Juda omne malum***. Isa. 43: *ego Dominus, et non est alter, formans lucem et creans tenebras, faciens pacem et creans malum. Ego Dominus faciens omnia haec*.  
+
+Tertio ponit praecepti complementum: ***Jeremias autem tulit volumen aliud***. Sap. 7: *sapientia autem vincit malitiam*.

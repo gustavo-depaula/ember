@@ -1,9 +1,9 @@
-# Question 28 — We now have to consider the virginity of the Mother of God; concerning which there are four points of inquiry:
+# Question 28 — The Virginity of the Mother of God
 
-(1) Whether she was a virgin in conceiving?
+We now have to consider the virginity of the Mother of God; concerning which there are four points of inquiry:  
 
-(2) Whether she was a virgin in His Birth?
+(1) Whether she was a virgin in conceiving?  
 
-(3) Whether she remained a virgin after His Birth?
-
-(4) Whether she took a vow of virginity?
+- (2) Whether she was a virgin in His Birth?
+- (3) Whether she remained a virgin after His Birth?
+- (4) Whether she took a vow of virginity?

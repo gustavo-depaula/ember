@@ -1,9 +1,9 @@
-# Quaestio 150 — Deinde considerandum est de ebrietate. Et circa hoc quaeruntur quatuor.
+# Quaestio 150
 
-Primo, utrum ebrietas sit peccatum.
+***Deinde considerandum est de ebrietate. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum sit peccatum mortale.
+Primo, utrum ebrietas sit peccatum.  
 
-Tertio, utrum sit gravissimum peccatorum.
-
-Quarto, utrum excuset a peccato.
+- Secundo, utrum sit peccatum mortale.
+- Tertio, utrum sit gravissimum peccatorum.
+- Quarto, utrum excuset a peccato.

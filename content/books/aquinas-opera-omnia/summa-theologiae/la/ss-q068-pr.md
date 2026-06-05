@@ -1,9 +1,9 @@
-# Quaestio 68 — Deinde considerandum est de his quae pertinent ad iniustam accusationem. Et circa hoc quaeruntur quatuor.
+# Quaestio 68
 
-Primo, utrum homo accusare teneatur.
+Deinde considerandum est de his quae pertinent ad iniustam accusationem. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum accusatio sit facienda in scriptis.
+Primo, utrum homo accusare teneatur.  
 
-Tertio, quomodo accusatio sit vitiosa.
-
-Quarto, qualiter male accusantes sint puniendi.
+- Secundo, utrum accusatio sit facienda in scriptis.
+- Tertio, quomodo accusatio sit vitiosa.
+- Quarto, qualiter male accusantes sint puniendi.

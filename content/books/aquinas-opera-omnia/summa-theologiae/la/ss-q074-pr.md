@@ -1,5 +1,7 @@
-# Quaestio 74 — Deinde considerandum est de susurratione. Et circa hoc quaeruntur duo.
+# Quaestio 74
 
-Primo, utrum susurratio sit peccatum distinctum a detractione.
+***Deinde considerandum est de susurratione. Et circa hoc quaeruntur duo.***
 
-Secundo, quod horum sit gravius.
+Primo, utrum susurratio sit peccatum distinctum a detractione.  
+
+- Secundo, quod horum sit gravius.

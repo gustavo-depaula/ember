@@ -1,9 +1,9 @@
-# Quaestio 24 — Deinde considerandum est de bono et malo circa passiones animae. Et circa hoc quaeruntur quatuor.
+# Quaestio 24
 
-Primo, utrum bonum et malum morale possit in passionibus animae inveniri.
+Deinde considerandum est de bono et malo circa passiones animae. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum omnis passio animae sit mala moraliter.
+Primo, utrum bonum et malum morale possit in passionibus animae inveniri.  
 
-Tertio, utrum omnis passio addat, vel diminuat, ad bonitatem vel malitiam actus.
-
-Quarto, utrum aliqua passio sit bona vel mala ex sua specie.
+- Secundo, utrum omnis passio animae sit mala moraliter.
+- Tertio, utrum omnis passio addat, vel diminuat, ad bonitatem vel malitiam actus.
+- Quarto, utrum aliqua passio sit bona vel mala ex sua specie.

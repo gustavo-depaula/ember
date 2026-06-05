@@ -33,8 +33,50 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Lecture 1 — THOMAS AQUINAS",
-        "la": "Lectio 1 — THOMAS AQUINAS"
+        "en-US": "Lecture 1",
+        "la": "Lectio 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Lecture 2",
+        "la": "Lectio 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Lecture 3",
+        "la": "Lectio 3"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Lecture 5",
+        "la": "Lectio 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Lecture 6",
+        "la": "Lectio 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Lecture 7",
+        "la": "Lectio 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Lecture 8",
+        "la": "Lectio 8"
       }
     }
   ]

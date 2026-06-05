@@ -1,9 +1,9 @@
-# Question 149 — We must now consider sobriety and the contrary vice, namely drunkenness. As regards sobriety there are four points of inquiry:
+# Question 149 — Sobriety
 
-(1) What is the matter of sobriety?
+We must now consider sobriety and the contrary vice, namely drunkenness. As regards sobriety there are four points of inquiry:  
 
-(2) Whether it is a special virtue?
+(1) What is the matter of sobriety?  
 
-(3) Whether the use of wine is lawful?
-
-(4) To whom especially is sobriety becoming?
+- (2) Whether it is a special virtue?
+- (3) Whether the use of wine is lawful?
+- (4) To whom especially is sobriety becoming?

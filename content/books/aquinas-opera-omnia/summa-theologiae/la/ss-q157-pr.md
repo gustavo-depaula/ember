@@ -1,9 +1,9 @@
-# Quaestio 157 — Deinde considerandum est de clementia et mansuetudine, et vitiis oppositis. Circa ipsas autem virtutes quaeruntur quatuor.
+# Quaestio 157
 
-Primo, utrum clementia et mansuetudo sint idem.
+Deinde considerandum est de clementia et mansuetudine, et vitiis oppositis. Circa ipsas autem virtutes quaeruntur quatuor.  
 
-Secundo, utrum utraque earum sit virtus.
+Primo, utrum clementia et mansuetudo sint idem.  
 
-Tertio, utrum utraque earum sit pars temperantiae.
-
-Quarto, de comparatione earum ad alias virtutes
+- Secundo, utrum utraque earum sit virtus.
+- Tertio, utrum utraque earum sit pars temperantiae.
+- Quarto, de comparatione earum ad alias virtutes.

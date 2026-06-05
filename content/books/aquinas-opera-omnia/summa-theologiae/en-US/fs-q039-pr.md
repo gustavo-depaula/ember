@@ -1,9 +1,9 @@
-# Question 39 — We must now consider the goodness and malice of pain or sorrow: under which head there are four points of inquiry:
+# Question 39 — Of the Goodness and Malice of Sorrow or Pain
 
-(1) Whether all sorrow is evil?
+We must now consider the goodness and malice of pain or sorrow: under which head there are four points of inquiry:  
 
-(2) Whether sorrow can be a virtuous good?
+(1) Whether all sorrow is evil?  
 
-(3) Whether it can be a useful good?
-
-(4) Whether bodily pain is the greatest evil?
+- (2) Whether sorrow can be a virtuous good?
+- (3) Whether it can be a useful good?
+- (4) Whether bodily pain is the greatest evil?

@@ -1,9 +1,9 @@
-# Quaestio 97 — Deinde considerandum est de mutatione legum. Et circa hoc quaeruntur quatuor.
+# Quaestio 97
 
-Primo, utrum lex humana sit mutabilis.
+***Deinde considerandum est de mutatione legum. Et circa hoc quaeruntur quatuor.***
 
-Secundo, utrum semper debeat mutari, quando aliquid melius occurrerit.
+Primo, utrum lex humana sit mutabilis.  
 
-Tertio, utrum per consuetudinem aboleatur; et utrum consuetudo obtineat vim legis.
-
-Quarto, utrum usus legis humanae per dispensationem rectorum immutari debeat.
+- Secundo, utrum semper debeat mutari, quando aliquid melius occurrerit.
+- Tertio, utrum per consuetudinem aboleatur; et utrum consuetudo obtineat vim legis.
+- Quarto, utrum usus legis humanae per dispensationem rectorum immutari debeat.

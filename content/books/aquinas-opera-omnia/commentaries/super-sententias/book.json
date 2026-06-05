@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Aquinas's first major theological work — the *bachelor of Sentences* cursus at Paris. Four books following the structure of Peter Lombard's *Sentences*. The Geremia mirror contains the available Latin/English fragments.",
-    "la": "Opus theologicum primum maius Thomae — *cursus baccalaurei Sententiarum* apud Parisios. Quattuor libri ad ordinem *Sententiarum* Petri Lombardi. Fragmenta latina-anglica disponibilia in speculo Geremiae."
+    "en-US": "The complete *Scriptum super Sententias* — Aquinas's *cursus baccalaureus* at Paris (1252–1256), a verse-by-verse commentary on Peter Lombard's *Sentences* in four books. Aquinas's first major theological work and the largest by sheer volume.",
+    "la": "*Scriptum super Sententias* completum — *cursus baccalaureus* Thomae apud Parisios (1252–1256), expositio quattuor librorum *Sententiarum* Petri Lombardi. Primum opus theologicum maius Thomae et per molem maximum."
   },
   "composed": "1252–1256",
   "languages": [
@@ -20,141 +20,1404 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Various translations, mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Liber I (d. 1-20)",
+      "description": "English translation by the Aquinas Institute (Lander, WY), various translators including Beth Mortensen. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Liber I (d. 1-20)",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "book-1",
+      "id": "p1",
       "title": {
-        "en-US": "Index",
-        "la": "Index"
+        "en-US": "Book I (d. 1-20)",
+        "la": "Liber I (d. 1-20)"
       },
       "children": [
         {
-          "id": "b1-ch001",
+          "id": "p1-sent-c01",
           "title": {
-            "en-US": "Section 1 — PROLOGUE — OF THOMAS AQUINAS — I, wisdom, have poured out rivers. I, like a brook out of a river of mighty water: I, like a channel of a river, and like an aqueduct, came out of paradise. I said: ‘I will water my garden of plants and I will water abundantly the fruits of my meadow.’ Sirach 24:40-42 — Among the many opinions coming from different sources as to what true wisdom might be, the Apostle gives one that is singularly firm and true when he says, ‘Christ, the power of God and wisdom of God, has become for us God-given wisdom’ (1 Corinthians 1:24, 30). This does not mean that only the Son is wisdom, since Father, Son and Holy Spirit are one wisdom, just as they are one essence. Rather, wisdom especially belongs to the Son because the works of wisdom in many ways agree with what is proper to the Son. Through the wisdom of God the hidden things of God are made manifest and the works of creatures are produced, and not only produced, but restored and perfected. I mean that perfection whereby a thing is called perfect when it has attained its proper end. — That *the manifestation of divine things* pertains to the wisdom of God is clear from the fact that God himself fully and perfectly knows himself by his wisdom. Hence, if we know anything of him it must be derived from him, because every imperfect thing takes its origin from the perfect. So it is said, ‘And who shall know your thought, except you give wisdom and send your Holy Spirit from above?’ (Wisdom 9:17). This manifestation is effected specially by the Son: he himself is the Word of the Father, as is said at the beginning of John, and manifesting the Father and the whole Trinity in speech belongs to him. Hence we read in Matthew 11:27, ‘Nor does anyone know the Father except the Son, and him to whom the Son chooses to reveal him’; and in John 1:18, ‘No one has at any time seen God. The only begotten Son, who is in the bosom of the Father, he has revealed him.’ It is rightly said of the person of the Son therefore, ‘I, wisdom, have poured out rivers.’ I take these rivers to be an eternal procession whereby the Son proceeds from the Father and the Holy Spirit from both in an ineffable manner. These rivers were once hidden and in some way confused with the likenesses of creatures, even in the enigmas of Scripture, so that scarcely any of the wise believed the mystery of the Trinity. The Son of God came and poured forth rivers, making known the name of the Trinity. Matthew 18:20: ‘Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit.’And Job 28:11: ‘The depths also of rivers he hath searched: and hidden things he hath brought to light.’ This touches on the matter of Book One. — The second thing that pertains to the wisdom of God is *the production of creatures*. He not only has speculative but also operative wisdom—like that of the artisan to his works—concerning created things. Thus Psalm 103.74: ‘You hast all things with wisdom.’ And Wisdom itself says in Proverbs 8:30: ‘I was with him, forming all things.’ This attribute is especially found in the Son insofar as he is the image of the invisible God, in whose likeness all things are formed: ‘He is the image of the invisible God, the first-born of every creature, for in him were created all things’ (Colossians 1:15); ‘All things were made through him’ (John 1:3). Rightly then does the person of the Son say, ‘I, like a brook out of a river of mighty water,’ in which is noted both the order and mode of creation. — Order, because as a brook is derived from a river, so the temporal procession of creatures [derives] from the eternal procession of persons. Hence in Psalm 148:5 is said, ‘He commanded and they were made.’ The Word gave birth to what was in him in order that it might be, according to Augustine in the Supplement of his *Literal Commentary on Genesis* 1.2. It is always what is first that is the cause of what is after, according to Aristotle in *Metaphysics* 2; hence the first procession is the cause and reason of every subsequent procession. — The mode is signified in two respects: on the part of the one creating, who, although he completes all things, is measured by nothing else, which is conveyed by calling him mighty. And, on the part of the creature, because just as the brook proceeds beyond the bed of the river, so the creature proceeds from God beyond the unity of essence, in which as in a river bed the flow of the persons is contained. And in this the matter of the Second Book is made known. — The third thing that pertains to the wisdom of God is *the restoration of his works*. A thing should be repaired by the one who made it; hence it is fitting that those things which were made through wisdom, through wisdom should be repaired; hence in Wisdom 9:19 it is said, ‘Men were taught what pleases you, and were saved by wisdom.’ This restoration is especially accomplished by the Son, insofar as he has been made man and, by the restored state of man, in a certain way restores all things which were made for man. Hence in Colossians 1:20: ‘Through him he should reconcile to himself all things, whether on the earth or in the heavens.’ Rightly then from the person of the Son is it said, ‘I like the channel of a river and like an aqueduct came out of paradise.’ This paradise is the glory of God the Father, from which he came forth into the valley of our misery, not because he set it aside, but because he hid it. ‘I came forth from God and have come into the world.’Concerning this coming forth two things are made known, namely, its mode and its fruit. The channel of a river is swiftest, hence it designates the mode whereby, as out of an impetus of love, Christ completed the mystery of our redemption. Hence Isaiah 59.19: ‘He shall come as a violent stream which the spirit of the Lord drives on.’ Its fruit is designated when it is said ‘like an aqueduct’, for just as an aqueduct is produced from one source which it distributes in order to make the earth fruitful, so from Christ flow diverse kinds of grace for nourishing the Church, as is said in Ephesians 4:11: ‘And he himself gave some men as apostles, and some as prophets, others again as evangelists, and others as pastors and teachers, in order to perfect the saints for a work of ministry, for building up the body of Christ.’ This touches the matter of Book Three, in the first part of which the mysteries of our redemption are treated, and in the second the graces gathered for us by Christ. — The fourth thing that pertains to the wisdom of God is *perfection*, whereby a thing is conserved in its end. Take away the end, and only vanity remains, which wisdom cannot suffer to abide with her; hence it is said, in Wisdom 8:1, that wisdom ‘reaches from end to end mightily and orders all things sweetly’. A thing is ordered when it is stabilized in its end, which it naturally desires. This especially pertains to the Son, who, since he is the true and natural Son of God, leads us to the glory of our paternal inheritance. Hence Hebrews 2:10: ‘For it became him for whom are all things and through whom are all things, who had brought many sons into glory.’ Hence it is rightly said, ‘I said, I will water my garden of plants.’ — The attainment of the end requires preparation, by which whatever is not appropriate to the end is removed; thus Christ too, in order that he might lead us to the end of eternal glory, prepared the medicine of the sacraments, by which the wound of sin is wiped away. Two things are to be noted in the foregoing words, namely, preparation, which is through the sacraments, and leading into glory. — Preparation is made known by ‘I will water my garden of plants.’ The garden is the Church, of which the Song of Songs 4:12 says, ‘My sister, my spouse, is a garden enclosed,’ in which there are diverse plants according to the diverse order of the saints, all of them planted by the hand of the Omnipotent. This garden is watered by Christ with the streams of the sacraments, which flowed from his side. Hence in commendation of the beauty of the Church it is said in Numbers 24:5, ‘How beautiful are your tabernacles, O Jacob, and your tents, O Israel!’ and a little later, in verse 6, ‘as watered gardens near the rivers’. Therefore the ministers of the Church who dispense the sacraments are called waterers: ‘I have planted, Apollo watered’ (1 Corinthians 3.6). — Induction into glory is made known in what follows: ‘I will water abundantly the fruits of my meadow.’ Christ’s fruits are the faithful of the Church, which by his labour he brought forth like a mother, of which Isaiah 66:9: ‘Shall not I that make others to bring forth children myself bring forth, saith the Lord?’ The fruits of this bringing forth are the saints who are in glory, of which fruit the Song of Songs 5:1: ‘Let my beloved come into his garden and eat the fruit of his apple trees.’ He waters them from the abundance of his own fruition, of which abundance Psalm 35:9: ‘They are filled with the bounteousness of your house.’ It is called bounteousness because it exceeds every measure of reason and desire. Isaiah 64:4 ‘Eye has not seen, O God, besides you, what things you have prepared for those who wait for you.’ This touches the matter of Book Four, in the first part of which sacraments are treated, and in the second the glory of resurrection. — The aim of the Sentences is clear from what has been said.",
-            "la": "Sectio 1 — PROLOGUE — OF THOMAS AQUINAS — I, wisdom, have poured out rivers. I, like a brook out of a river of mighty water: I, like a channel of a river, and like an aqueduct, came out of paradise. I said: ‘I will water my garden of plants and I will water abundantly the fruits of my meadow.’ Sirach 24:40-42 — Among the many opinions coming from different sources as to what true wisdom might be, the Apostle gives one that is singularly firm and true when he says, ‘Christ, the power of God and wisdom of God, has become for us God-given wisdom’ (1 Corinthians 1:24, 30). This does not mean that only the Son is wisdom, since Father, Son and Holy Spirit are one wisdom, just as they are one essence. Rather, wisdom especially belongs to the Son because the works of wisdom in many ways agree with what is proper to the Son. Through the wisdom of God the hidden things of God are made manifest and the works of creatures are produced, and not only produced, but restored and perfected. I mean that perfection whereby a thing is called perfect when it has attained its proper end. — That *the manifestation of divine things* pertains to the wisdom of God is clear from the fact that God himself fully and perfectly knows himself by his wisdom. Hence, if we know anything of him it must be derived from him, because every imperfect thing takes its origin from the perfect. So it is said, ‘And who shall know your thought, except you give wisdom and send your Holy Spirit from above?’ (Wisdom 9:17). This manifestation is effected specially by the Son: he himself is the Word of the Father, as is said at the beginning of John, and manifesting the Father and the whole Trinity in speech belongs to him. Hence we read in Matthew 11:27, ‘Nor does anyone know the Father except the Son, and him to whom the Son chooses to reveal him’; and in John 1:18, ‘No one has at any time seen God. The only begotten Son, who is in the bosom of the Father, he has revealed him.’ It is rightly said of the person of the Son therefore, ‘I, wisdom, have poured out rivers.’ I take these rivers to be an eternal procession whereby the Son proceeds from the Father and the Holy Spirit from both in an ineffable manner. These rivers were once hidden and in some way confused with the likenesses of creatures, even in the enigmas of Scripture, so that scarcely any of the wise believed the mystery of the Trinity. The Son of God came and poured forth rivers, making known the name of the Trinity. Matthew 18:20: ‘Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit.’And Job 28:11: ‘The depths also of rivers he hath searched: and hidden things he hath brought to light.’ This touches on the matter of Book One. — The second thing that pertains to the wisdom of God is *the production of creatures*. He not only has speculative but also operative wisdom—like that of the artisan to his works—concerning created things. Thus Psalm 103.74: ‘You hast all things with wisdom.’ And Wisdom itself says in Proverbs 8:30: ‘I was with him, forming all things.’ This attribute is especially found in the Son insofar as he is the image of the invisible God, in whose likeness all things are formed: ‘He is the image of the invisible God, the first-born of every creature, for in him were created all things’ (Colossians 1:15); ‘All things were made through him’ (John 1:3). Rightly then does the person of the Son say, ‘I, like a brook out of a river of mighty water,’ in which is noted both the order and mode of creation. — Order, because as a brook is derived from a river, so the temporal procession of creatures [derives] from the eternal procession of persons. Hence in Psalm 148:5 is said, ‘He commanded and they were made.’ The Word gave birth to what was in him in order that it might be, according to Augustine in the Supplement of his *Literal Commentary on Genesis* 1.2. It is always what is first that is the cause of what is after, according to Aristotle in *Metaphysics* 2; hence the first procession is the cause and reason of every subsequent procession. — The mode is signified in two respects: on the part of the one creating, who, although he completes all things, is measured by nothing else, which is conveyed by calling him mighty. And, on the part of the creature, because just as the brook proceeds beyond the bed of the river, so the creature proceeds from God beyond the unity of essence, in which as in a river bed the flow of the persons is contained. And in this the matter of the Second Book is made known. — The third thing that pertains to the wisdom of God is *the restoration of his works*. A thing should be repaired by the one who made it; hence it is fitting that those things which were made through wisdom, through wisdom should be repaired; hence in Wisdom 9:19 it is said, ‘Men were taught what pleases you, and were saved by wisdom.’ This restoration is especially accomplished by the Son, insofar as he has been made man and, by the restored state of man, in a certain way restores all things which were made for man. Hence in Colossians 1:20: ‘Through him he should reconcile to himself all things, whether on the earth or in the heavens.’ Rightly then from the person of the Son is it said, ‘I like the channel of a river and like an aqueduct came out of paradise.’ This paradise is the glory of God the Father, from which he came forth into the valley of our misery, not because he set it aside, but because he hid it. ‘I came forth from God and have come into the world.’Concerning this coming forth two things are made known, namely, its mode and its fruit. The channel of a river is swiftest, hence it designates the mode whereby, as out of an impetus of love, Christ completed the mystery of our redemption. Hence Isaiah 59.19: ‘He shall come as a violent stream which the spirit of the Lord drives on.’ Its fruit is designated when it is said ‘like an aqueduct’, for just as an aqueduct is produced from one source which it distributes in order to make the earth fruitful, so from Christ flow diverse kinds of grace for nourishing the Church, as is said in Ephesians 4:11: ‘And he himself gave some men as apostles, and some as prophets, others again as evangelists, and others as pastors and teachers, in order to perfect the saints for a work of ministry, for building up the body of Christ.’ This touches the matter of Book Three, in the first part of which the mysteries of our redemption are treated, and in the second the graces gathered for us by Christ. — The fourth thing that pertains to the wisdom of God is *perfection*, whereby a thing is conserved in its end. Take away the end, and only vanity remains, which wisdom cannot suffer to abide with her; hence it is said, in Wisdom 8:1, that wisdom ‘reaches from end to end mightily and orders all things sweetly’. A thing is ordered when it is stabilized in its end, which it naturally desires. This especially pertains to the Son, who, since he is the true and natural Son of God, leads us to the glory of our paternal inheritance. Hence Hebrews 2:10: ‘For it became him for whom are all things and through whom are all things, who had brought many sons into glory.’ Hence it is rightly said, ‘I said, I will water my garden of plants.’ — The attainment of the end requires preparation, by which whatever is not appropriate to the end is removed; thus Christ too, in order that he might lead us to the end of eternal glory, prepared the medicine of the sacraments, by which the wound of sin is wiped away. Two things are to be noted in the foregoing words, namely, preparation, which is through the sacraments, and leading into glory. — Preparation is made known by ‘I will water my garden of plants.’ The garden is the Church, of which the Song of Songs 4:12 says, ‘My sister, my spouse, is a garden enclosed,’ in which there are diverse plants according to the diverse order of the saints, all of them planted by the hand of the Omnipotent. This garden is watered by Christ with the streams of the sacraments, which flowed from his side. Hence in commendation of the beauty of the Church it is said in Numbers 24:5, ‘How beautiful are your tabernacles, O Jacob, and your tents, O Israel!’ and a little later, in verse 6, ‘as watered gardens near the rivers’. Therefore the ministers of the Church who dispense the sacraments are called waterers: ‘I have planted, Apollo watered’ (1 Corinthians 3.6). — Induction into glory is made known in what follows: ‘I will water abundantly the fruits of my meadow.’ Christ’s fruits are the faithful of the Church, which by his labour he brought forth like a mother, of which Isaiah 66:9: ‘Shall not I that make others to bring forth children myself bring forth, saith the Lord?’ The fruits of this bringing forth are the saints who are in glory, of which fruit the Song of Songs 5:1: ‘Let my beloved come into his garden and eat the fruit of his apple trees.’ He waters them from the abundance of his own fruition, of which abundance Psalm 35:9: ‘They are filled with the bounteousness of your house.’ It is called bounteousness because it exceeds every measure of reason and desire. Isaiah 64:4 ‘Eye has not seen, O God, besides you, what things you have prepared for those who wait for you.’ This touches the matter of Book Four, in the first part of which sacraments are treated, and in the second the glory of resurrection. — The aim of the Sentences is clear from what has been said."
+            "en-US": "Prologue",
+            "la": "Prologue"
           }
         },
         {
-          "id": "b1-ch002",
+          "id": "p1-sent-c02",
           "title": {
-            "en-US": "Section 2 — PROLOGUE OF THE MASTER OF THE SENTENCES — Since we desire to throw a little of our need and fragility along with the poor woman into the Lord’s treasury (Lk 21), we have dared to climb difficult heights and carry on a project that is above our strength. To finish it and gain the reward of our labor, we place our trust in the Samaritan who left two denarii for the care of the half-living victim, with a promise to pay all that cost more than this (Lk 10). — We find pleasure in the truth of the One who promises, but we are terrified at the immensity of the labor. The desire to be of making progress urges us on, but the weakness of failing discourages us. — Zeal for the house of God will overcome that, and burning with this, we have tried to fortify our faith with the bucklers of the tower of David (Sg 4:4) against the errors of carnal and animal men, or rather, show how it is fortified, as well as to open up the hidden things of theological inquiry, and to transmit information about the Church’s sacraments to the small level of our intelligence. — This is because we could not legitimately resist the wishes of our zealous brothers who are fired up to serve us with their praiseworthy study and language and style. — These wheels are turned in us by the love of Christ, even though we have no doubt that all speech endowed with human eloquence has always been the object of calumny and contradiction from rivals. For dissenting movements of the will are followed by dissenting positions of mind, so that, even when every statement is perfect from the standpoint of truth, others will think or prefer something else, and the error of irreligion will struggle against the truth which is either not understood or is offensive, and a hostile will results. The God of this world lets this happen among the sons of rebellion (Eph 2:2), who do not subject their wills to reason, nor spend time studying doctrine, but attempt to adapt the words of wisdom to their dreams, not following the line of truth but of whim. Bad will incites them not to understand the truth but to defend what they please, not desiring to be taught the truth, but to turn their ears from that to fables (2 Tim 4). Their profession is more to master what they fancy rather than what is taught; they do not desire what is taught, but to adapt doctrine to what they desire. They have an air of wisdom in superstition, because a lying hypocrisy follows defection from the faith, so that piety shows up in words after conscience has lost it. And that fake piety they turn into impiety by the lie of all their words. With fabrications of false doctrine they conspire to corrupt the holiness of faith. And they introduce itching of ears to others under the new dogma of their desire, who then devote themselves to contention and fight the truth with no bond of restraint. For there is a heavy battle between the promulgation of the truth and the defense of whims. — Because we want to overthrow their church which is hateful to God, and to shut their mouths so that the virus of wickedness may not spread to others, and to hold up the light of truth on the candle-stand, we labored and sweated hard, with God’s help, to compile this work from testimonies of truth that are established for eternity. It is divided into four volumes, where you will find the examples and doctrine of our elders. In it we exposed the fraud of viperous teaching through the sincere profession of faith in the Lord, embracing the opening for demonstrating the truth, avoiding the danger of the irreligious profession, and using a tempered moderation between the two. Wherever our voice sounds too little, still it does not depart from paternal limits. — Therefore no lazy or very learned person should regard this labor as superfluous, since it is necessary for many who are not lazy and many who are not learned, including myself, as it gathers the teaching of the Fathers in a brief volume, together with their testimonies, so that it is not necessary for the inquirer to go through a large number of volumes, since this brief collection offers what he is looking for without labor. — In this treatise I desire not only pious readers but also those who will freely correct it, especially where there a deep question of truth is being treated. I wish as many will discoverer it as will contradict it. So that the topic sought may be easily found, we put titles so as to distinguish the chapters of each book.",
-            "la": "Sectio 2 — PROLOGUE OF THE MASTER OF THE SENTENCES — Since we desire to throw a little of our need and fragility along with the poor woman into the Lord’s treasury (Lk 21), we have dared to climb difficult heights and carry on a project that is above our strength. To finish it and gain the reward of our labor, we place our trust in the Samaritan who left two denarii for the care of the half-living victim, with a promise to pay all that cost more than this (Lk 10). — We find pleasure in the truth of the One who promises, but we are terrified at the immensity of the labor. The desire to be of making progress urges us on, but the weakness of failing discourages us. — Zeal for the house of God will overcome that, and burning with this, we have tried to fortify our faith with the bucklers of the tower of David (Sg 4:4) against the errors of carnal and animal men, or rather, show how it is fortified, as well as to open up the hidden things of theological inquiry, and to transmit information about the Church’s sacraments to the small level of our intelligence. — This is because we could not legitimately resist the wishes of our zealous brothers who are fired up to serve us with their praiseworthy study and language and style. — These wheels are turned in us by the love of Christ, even though we have no doubt that all speech endowed with human eloquence has always been the object of calumny and contradiction from rivals. For dissenting movements of the will are followed by dissenting positions of mind, so that, even when every statement is perfect from the standpoint of truth, others will think or prefer something else, and the error of irreligion will struggle against the truth which is either not understood or is offensive, and a hostile will results. The God of this world lets this happen among the sons of rebellion (Eph 2:2), who do not subject their wills to reason, nor spend time studying doctrine, but attempt to adapt the words of wisdom to their dreams, not following the line of truth but of whim. Bad will incites them not to understand the truth but to defend what they please, not desiring to be taught the truth, but to turn their ears from that to fables (2 Tim 4). Their profession is more to master what they fancy rather than what is taught; they do not desire what is taught, but to adapt doctrine to what they desire. They have an air of wisdom in superstition, because a lying hypocrisy follows defection from the faith, so that piety shows up in words after conscience has lost it. And that fake piety they turn into impiety by the lie of all their words. With fabrications of false doctrine they conspire to corrupt the holiness of faith. And they introduce itching of ears to others under the new dogma of their desire, who then devote themselves to contention and fight the truth with no bond of restraint. For there is a heavy battle between the promulgation of the truth and the defense of whims. — Because we want to overthrow their church which is hateful to God, and to shut their mouths so that the virus of wickedness may not spread to others, and to hold up the light of truth on the candle-stand, we labored and sweated hard, with God’s help, to compile this work from testimonies of truth that are established for eternity. It is divided into four volumes, where you will find the examples and doctrine of our elders. In it we exposed the fraud of viperous teaching through the sincere profession of faith in the Lord, embracing the opening for demonstrating the truth, avoiding the danger of the irreligious profession, and using a tempered moderation between the two. Wherever our voice sounds too little, still it does not depart from paternal limits. — Therefore no lazy or very learned person should regard this labor as superfluous, since it is necessary for many who are not lazy and many who are not learned, including myself, as it gathers the teaching of the Fathers in a brief volume, together with their testimonies, so that it is not necessary for the inquirer to go through a large number of volumes, since this brief collection offers what he is looking for without labor. — In this treatise I desire not only pious readers but also those who will freely correct it, especially where there a deep question of truth is being treated. I wish as many will discoverer it as will contradict it. So that the topic sought may be easily found, we put titles so as to distinguish the chapters of each book."
+            "en-US": "D. 1 - Enjoyment and use",
+            "la": "D. 1 - Enjoyment and use"
           }
         },
         {
-          "id": "b1-ch003",
+          "id": "p1-sent-c03",
           "title": {
-            "en-US": "Section 3 — COMMENTARY OF THOMAS — ON THE MASTER’S PROLOGUE — The Master puts a prologue before this work, in which he does three things: First he makes the reader benevolent, second docile—at “Because we want...”, third attentive—at “Therefore no lazy...” — He makes the reader benevolent by giving the motives for writing this work, and here he shows his affection for God and his neighbor. There are three motives. The first has to do with himself, that is, the desire of making progress in the Church. The second has to do with God, that is, God’s promise of reward and help. The third has to do with his neighbor, that is the pressure of his companions’ request. — On the other hand, there are three counter-motives. The first has to do with himself: his defect of intelligence and knowledge. The second has to do with the work: the loftiness of the subject and the magnitude of the labor. The third has to do with his neighbor: the contradiction of hostile people. — The first two of the motives arouse love for God, the third love for neighbor; so this section is divided into two. In the first he mentions the motives that show love for God, in the second the motive that shows love for neighbor, at “This is because we could not legitimately resist...” — Besides the motive factors, he adds the discouraging factors. So first he discusses the conflict between motive and discouraging factors, secondly the victory, at “Zeal for the house of God...” Here first the motive factor is mentioned, that is the desire of making progress: “Something (which rings of immodesty) from our need and fragility” Here the first discouraging factor comes up: lack of knowledge. — “Need” properly refers to a lack of external goods, and it is transferred to a lack of acquired knowledge. — “Fragility” is properly a defect of interior substance, and is transferred to a defect of intelligence. “The poor woman” is mentioned in Mark 12 and Luke 21. — “The treasury [ *gazophlacium* ]” is a repository of wealth. “Gazae” is Persian for wealth, and “phylasso” is Greek for “preserve. And sometimes it refers to the ark in which the treasure is kept, as in 2 Kings 12:9: “Jehoiada the priest took a chest...” and sometimes for the place where the ark is laid, as in John 8:20: “Jesus said this in the Treasury.” But here it signifies the study of sacred Scripture, in which he saints put their works. — “To climb difficult heights” is the second discouraging factor that has to do with the work, and divine things are said to be difficult in themselves. They are climbed, however, by three steps. The first is leaving the senses behind, the second in leaving bodily phantasies behind, the third in leaving natural reason behind. — “A project that is above our strength” indicates the height of the subject in comparison to ourselves. Against this it is said (Sir 3:22): “Do not seek things higher than yourself.”—I answer: It is true, if we trust in our own powers, but if we trust in divine help we can speculate about things superior to our ability. — “We have dared/ presumed”—Against this is the statement (Sir 37:3 Vulgate): “O most wicked presumption”; so it seems that he sinned.—I answer: Understand “presumed” as assuming something for others. Or say that it would be presumption, considering human powers, but not if we consider God’s help, by which we can do anything, as it is said (Phil 4:13): “I can do anything in him who strengthens me.” — “To finish it... we place our trust...”—Here is the second motive that has to do with God. — “In the Samaritan”—This is taken from the parable in Luke 10, and the Samaritan stands for God (Ps 120:4): “He does not sleep or doze who guards Israel.” For “Samaritan” means guard. — “Half-alive”—the man who was robbed of grace by sin and wounded in his natural powers. — “Two denarii”—The two covenants, as it were sealed with the image of the king, since they contain truth reflecting the First Truth. — “That cost more”—exceeding, as the holy fathers did with their studies. Against this is (Rev 22:18): “If anyone adds to this, God will add to him the plagues...”—I answer: There are two kinds of things that can be added: what is contrary and diverse, and that is erroneous or presumptuous, or what is contained implicitly, by explaining it, and that is praiseworthy. — “We find pleasure”—Here he summarizes all the four motives mentioned. — “Will overcome that”—Here he refers to victory. — “Zeal”—According to Dionysius, zeal is intense love, and it does not tolerate anything contrary to what it loves. — “The house of God”—the Church. — “Burning with this”—as we do not allow the Church to be attacked by unbelievers. — “Carnal”—referring to those who find for themselves errors permitting them to cater to the desires of the flesh (Rm 13:14). — “Animal”—referring to those who err by not rising above sensible things, but wish to judge divine things by bodily criteria. — “The tower of David”—referring to (Sg 4:4): “Your neck is like the tower of David, built with battlements with a thousand bucklers hanging from it, each the shield of a hero.” David stands for Christ, his tower for the Faith or the Church, the bucklers for the thinking or statements of the saints. — “Or rather, to show how it is fortified”—This refers to one advantage, the exclusion of error. — “To open up the hidden things of theological inquiry”—This is another advantage, referring to the manifestation of truth, which he does in the first three books. — “And to transmit information about the Church’s sacraments”—in the fourth book. — “We could not legitimately resist the wishes of our zealous brothers”—This refers to the motive which has to do with neighbor. First he states the motive, then the counter-motive, at “even though we have no doubt that all speech endowed with human eloquence has always been the object of calumny and contradiction from rivals.” — “Language”—suitable for a present audience or the communication of doctrine. — “Style”—suitable for absent readers or to perpetuate memory — “These wheels”—language and style, which are like two wheels for carrying the master’s teaching to his student. — “Are turned in us by the love of Christ”—referring to (2 Cor 5:14): “The love of Christ presses us.”—Against this is (Eccl 9:1 Vulgate): “No one knows whether he deserves love or hatred;” therefore...—I answer: Love, in one sense, is an infused habit; and no one can know with certitude that he has it, unless by revelation, but he can guess that he has by some probable signs. In another sense, love is a deep appreciation of what is loved, and someone can know that he has that. — “Even though we have no doubt that all speech endowed with human eloquence has always been the object of calumny and contradiction from rivals”—This is the third counter-motive, the opposition of hostile people. Here he does three things: First he gives evidence of opposition by a comparison with other people. Secondly he gives the reason for the opposition in the disorder of the will, which gives rise to error, and in turn hostility, and in turn opposition, at “For dissenting movements of the will are followed by dissenting positions of mind.” Thirdly, he declares the wickedness of his opponents, at “Who do not subject their wills to reason.” — “Calumny” is a hidden and personal attack. — “Contradiction” is open, comprehensive and universal. — “Object” indicates the reception of punishment or harm. — “Perfect from the standpoint of truth”—that is, from the standpoint of truth it could perfect those who misunderstand, but nevertheless defend their misunderstanding with an obstinate will. — “Prefer”—referring to those whose disordered will drags along the judgment of reason to make it judge as true what the will desires. — “Offensive”—is what displeases.—Against this is the statement (1 Ezra 4:39): “All approve of her deeds;” therefore...—I answer: Truth of itself is always loved, but accidently it can be hated, and this in infinite ways, because accidental causes, according to the Philosopher, are infinite. — “The God of this world” is taken from 2 Corinthians 4, and is interpreted as the true God who acts permitting hostility. Or it can refer to the Devil, whom the world obeys, and who acts by suggesting. — “Sons of rebellion [Vulgate: diffidentia=mistrust]”—because they do not trust God, or they should not be trusted by reason of their sickness, although it is not beyond the power of the Doctor. — “Who do not subject their wills”—Here he shows the wickedness of the opponents, first from their disordered profession, secondly from their fake religion, at “They have an air of wisdom in superstition;” thirdly from their obstinate contention, at “who devote themselves to contention and fight the truth.” He shows that they are disordered on two counts: (1) because their will does not follow reason, but the other way round—at “who do not subject their wills to reason, and (2) because they do not subject their reason to sacred doctrine, noted at “nor spend time studying doctrine.” — “Their dreams”—their phantasies, as one experiences in a dream. — “But to turn their ears to fables”—from 2 Timothy 4:4. For a fable is composed of wonders, according to the Philosopher, and they always want to hear something new. — “Their profession”—that is, study. — “What is taught”—that is, what is worthy to be taught. — “An air [ratio] of wisdom”—that is, an argument to show the truth. — “In superstition”—excessive religion outwardly put on. — “Because a lying hypocrisy follows defection from the faith”—from 1 Timothy 4:1: “Some will desert the faith and pay attention to deceitful spirits and doctrines of demons through the hypocrisy of liars.” — “The lie of all their words”—But Bede says that “there is no false doctrine which does not have some truth mixed in it.”—I answer that those truths which they say, even though they are true in themselves, are false in their use, because they are using them falsely. — “Itching”—that is, an inordinate desire to hear new things, just as a rash develops from too much heat. This refers to 2 Timothy 4:3: “There will be a time when, having itching ears, they will accumulate for themselves teachers to suit their own desires.” — “The new dogma of their desire”—because reason is following the will. — “To contention”—which, according to Ambrose writing to the Romans, is “fighting the truth with trust in shouting.” — “The truth”—It is said (1 Esdras 4:38): “The truth remains and is strong forever.” — “Because we want to overthrow their church which is hateful to God, and to shut their mouths...” Here he makes the listener docile, going over the reasons for the work. And first he gives the final cause with regard to two advantages: (1) the destruction of error; thus he refers to the “hateful church”—(Ps 25:5): “I hated the assembly/church of the wicked.”—“so that the virus,” that is, the poison, “may not spread to others;” (2) the manifestation of the truth; thus he says: “wanting to hold up the light of truth on the candle-stand”—which is taken from Luke 8:16: “No one lights a lamp and puts it under a bushel — “The candle-stand”—in the open. — Secondly he takes up he efficient cause, first the principle one: “with God’s help,” then the instrumental one: “We compiled,” because this work is a compilation of various authoritative texts. — “Sweat”—including any bodily defect which follows upon spiritual labor. — Thirdly he shows the material cause: “from testimonies of truth.”—Ps 118:152: “From long ago I have known your testimonies” — Fourthly, he gives the formal cause, first with reference to the distinction of books: “into four volumes,” then to the manner of the work: “the examples of our elders” which serve as illustrations, and “doctrine” which are reasons. — “Viperous”—heretical; for the heretics, by giving birth to others in their heresy, perish like vipers. — “We have exposed”—we have bound. — He adds the way: “embracing...” — “Irreligious [impiae]”—unbelieving — “Between the two”—that is, not two highly and not too humbly, or between two contrary errors, such as of Sabellius and Arius. — “Does not depart from paternal limits”—in accord with Proverbs 22:28: “Do not remove the ancient landmark which your fathers set up.” — “Therefore no lazy or very learned person should regard this labor as superfluous.”—Here he makes the listener attentive, (1) first from the usefulness of the work: “it gathers the views (sententias) of the Fathers in a brief volume.” A view, according to Avicenna, is a definitive and most certain idea. (2) He does this secondly from the depth of the matter: “In this treatise I desire not only pious readers” who will understand it according to the faith, “but also those who will freely correct it” reading it for the sole purpose of correction. A free person, according to the Philosopher, is someone who is his own master, not acting because of hatred or hostility. (3) He does this by arranging the method of procedure: “So that the topic sought may be easily found, we put titles so as to distinguish the chapters of each book.” — In order to make evident the sacred doctrine which is treated in this book, five things must be examined: (1) its necessity; (1) supposing it necessary, whether it is one science or many; (3) if one, whether it is practical or speculative; and if speculative, whether it is wisdom, knowledge or understanding; (4) its subject; (5) its mode.",
-            "la": "Sectio 3 — COMMENTARY OF THOMAS — ON THE MASTER’S PROLOGUE — The Master puts a prologue before this work, in which he does three things: First he makes the reader benevolent, second docile—at “Because we want...”, third attentive—at “Therefore no lazy...” — He makes the reader benevolent by giving the motives for writing this work, and here he shows his affection for God and his neighbor. There are three motives. The first has to do with himself, that is, the desire of making progress in the Church. The second has to do with God, that is, God’s promise of reward and help. The third has to do with his neighbor, that is the pressure of his companions’ request. — On the other hand, there are three counter-motives. The first has to do with himself: his defect of intelligence and knowledge. The second has to do with the work: the loftiness of the subject and the magnitude of the labor. The third has to do with his neighbor: the contradiction of hostile people. — The first two of the motives arouse love for God, the third love for neighbor; so this section is divided into two. In the first he mentions the motives that show love for God, in the second the motive that shows love for neighbor, at “This is because we could not legitimately resist...” — Besides the motive factors, he adds the discouraging factors. So first he discusses the conflict between motive and discouraging factors, secondly the victory, at “Zeal for the house of God...” Here first the motive factor is mentioned, that is the desire of making progress: “Something (which rings of immodesty) from our need and fragility” Here the first discouraging factor comes up: lack of knowledge. — “Need” properly refers to a lack of external goods, and it is transferred to a lack of acquired knowledge. — “Fragility” is properly a defect of interior substance, and is transferred to a defect of intelligence. “The poor woman” is mentioned in Mark 12 and Luke 21. — “The treasury [ *gazophlacium* ]” is a repository of wealth. “Gazae” is Persian for wealth, and “phylasso” is Greek for “preserve. And sometimes it refers to the ark in which the treasure is kept, as in 2 Kings 12:9: “Jehoiada the priest took a chest...” and sometimes for the place where the ark is laid, as in John 8:20: “Jesus said this in the Treasury.” But here it signifies the study of sacred Scripture, in which he saints put their works. — “To climb difficult heights” is the second discouraging factor that has to do with the work, and divine things are said to be difficult in themselves. They are climbed, however, by three steps. The first is leaving the senses behind, the second in leaving bodily phantasies behind, the third in leaving natural reason behind. — “A project that is above our strength” indicates the height of the subject in comparison to ourselves. Against this it is said (Sir 3:22): “Do not seek things higher than yourself.”—I answer: It is true, if we trust in our own powers, but if we trust in divine help we can speculate about things superior to our ability. — “We have dared/ presumed”—Against this is the statement (Sir 37:3 Vulgate): “O most wicked presumption”; so it seems that he sinned.—I answer: Understand “presumed” as assuming something for others. Or say that it would be presumption, considering human powers, but not if we consider God’s help, by which we can do anything, as it is said (Phil 4:13): “I can do anything in him who strengthens me.” — “To finish it... we place our trust...”—Here is the second motive that has to do with God. — “In the Samaritan”—This is taken from the parable in Luke 10, and the Samaritan stands for God (Ps 120:4): “He does not sleep or doze who guards Israel.” For “Samaritan” means guard. — “Half-alive”—the man who was robbed of grace by sin and wounded in his natural powers. — “Two denarii”—The two covenants, as it were sealed with the image of the king, since they contain truth reflecting the First Truth. — “That cost more”—exceeding, as the holy fathers did with their studies. Against this is (Rev 22:18): “If anyone adds to this, God will add to him the plagues...”—I answer: There are two kinds of things that can be added: what is contrary and diverse, and that is erroneous or presumptuous, or what is contained implicitly, by explaining it, and that is praiseworthy. — “We find pleasure”—Here he summarizes all the four motives mentioned. — “Will overcome that”—Here he refers to victory. — “Zeal”—According to Dionysius, zeal is intense love, and it does not tolerate anything contrary to what it loves. — “The house of God”—the Church. — “Burning with this”—as we do not allow the Church to be attacked by unbelievers. — “Carnal”—referring to those who find for themselves errors permitting them to cater to the desires of the flesh (Rm 13:14). — “Animal”—referring to those who err by not rising above sensible things, but wish to judge divine things by bodily criteria. — “The tower of David”—referring to (Sg 4:4): “Your neck is like the tower of David, built with battlements with a thousand bucklers hanging from it, each the shield of a hero.” David stands for Christ, his tower for the Faith or the Church, the bucklers for the thinking or statements of the saints. — “Or rather, to show how it is fortified”—This refers to one advantage, the exclusion of error. — “To open up the hidden things of theological inquiry”—This is another advantage, referring to the manifestation of truth, which he does in the first three books. — “And to transmit information about the Church’s sacraments”—in the fourth book. — “We could not legitimately resist the wishes of our zealous brothers”—This refers to the motive which has to do with neighbor. First he states the motive, then the counter-motive, at “even though we have no doubt that all speech endowed with human eloquence has always been the object of calumny and contradiction from rivals.” — “Language”—suitable for a present audience or the communication of doctrine. — “Style”—suitable for absent readers or to perpetuate memory — “These wheels”—language and style, which are like two wheels for carrying the master’s teaching to his student. — “Are turned in us by the love of Christ”—referring to (2 Cor 5:14): “The love of Christ presses us.”—Against this is (Eccl 9:1 Vulgate): “No one knows whether he deserves love or hatred;” therefore...—I answer: Love, in one sense, is an infused habit; and no one can know with certitude that he has it, unless by revelation, but he can guess that he has by some probable signs. In another sense, love is a deep appreciation of what is loved, and someone can know that he has that. — “Even though we have no doubt that all speech endowed with human eloquence has always been the object of calumny and contradiction from rivals”—This is the third counter-motive, the opposition of hostile people. Here he does three things: First he gives evidence of opposition by a comparison with other people. Secondly he gives the reason for the opposition in the disorder of the will, which gives rise to error, and in turn hostility, and in turn opposition, at “For dissenting movements of the will are followed by dissenting positions of mind.” Thirdly, he declares the wickedness of his opponents, at “Who do not subject their wills to reason.” — “Calumny” is a hidden and personal attack. — “Contradiction” is open, comprehensive and universal. — “Object” indicates the reception of punishment or harm. — “Perfect from the standpoint of truth”—that is, from the standpoint of truth it could perfect those who misunderstand, but nevertheless defend their misunderstanding with an obstinate will. — “Prefer”—referring to those whose disordered will drags along the judgment of reason to make it judge as true what the will desires. — “Offensive”—is what displeases.—Against this is the statement (1 Ezra 4:39): “All approve of her deeds;” therefore...—I answer: Truth of itself is always loved, but accidently it can be hated, and this in infinite ways, because accidental causes, according to the Philosopher, are infinite. — “The God of this world” is taken from 2 Corinthians 4, and is interpreted as the true God who acts permitting hostility. Or it can refer to the Devil, whom the world obeys, and who acts by suggesting. — “Sons of rebellion [Vulgate: diffidentia=mistrust]”—because they do not trust God, or they should not be trusted by reason of their sickness, although it is not beyond the power of the Doctor. — “Who do not subject their wills”—Here he shows the wickedness of the opponents, first from their disordered profession, secondly from their fake religion, at “They have an air of wisdom in superstition;” thirdly from their obstinate contention, at “who devote themselves to contention and fight the truth.” He shows that they are disordered on two counts: (1) because their will does not follow reason, but the other way round—at “who do not subject their wills to reason, and (2) because they do not subject their reason to sacred doctrine, noted at “nor spend time studying doctrine.” — “Their dreams”—their phantasies, as one experiences in a dream. — “But to turn their ears to fables”—from 2 Timothy 4:4. For a fable is composed of wonders, according to the Philosopher, and they always want to hear something new. — “Their profession”—that is, study. — “What is taught”—that is, what is worthy to be taught. — “An air [ratio] of wisdom”—that is, an argument to show the truth. — “In superstition”—excessive religion outwardly put on. — “Because a lying hypocrisy follows defection from the faith”—from 1 Timothy 4:1: “Some will desert the faith and pay attention to deceitful spirits and doctrines of demons through the hypocrisy of liars.” — “The lie of all their words”—But Bede says that “there is no false doctrine which does not have some truth mixed in it.”—I answer that those truths which they say, even though they are true in themselves, are false in their use, because they are using them falsely. — “Itching”—that is, an inordinate desire to hear new things, just as a rash develops from too much heat. This refers to 2 Timothy 4:3: “There will be a time when, having itching ears, they will accumulate for themselves teachers to suit their own desires.” — “The new dogma of their desire”—because reason is following the will. — “To contention”—which, according to Ambrose writing to the Romans, is “fighting the truth with trust in shouting.” — “The truth”—It is said (1 Esdras 4:38): “The truth remains and is strong forever.” — “Because we want to overthrow their church which is hateful to God, and to shut their mouths...” Here he makes the listener docile, going over the reasons for the work. And first he gives the final cause with regard to two advantages: (1) the destruction of error; thus he refers to the “hateful church”—(Ps 25:5): “I hated the assembly/church of the wicked.”—“so that the virus,” that is, the poison, “may not spread to others;” (2) the manifestation of the truth; thus he says: “wanting to hold up the light of truth on the candle-stand”—which is taken from Luke 8:16: “No one lights a lamp and puts it under a bushel — “The candle-stand”—in the open. — Secondly he takes up he efficient cause, first the principle one: “with God’s help,” then the instrumental one: “We compiled,” because this work is a compilation of various authoritative texts. — “Sweat”—including any bodily defect which follows upon spiritual labor. — Thirdly he shows the material cause: “from testimonies of truth.”—Ps 118:152: “From long ago I have known your testimonies” — Fourthly, he gives the formal cause, first with reference to the distinction of books: “into four volumes,” then to the manner of the work: “the examples of our elders” which serve as illustrations, and “doctrine” which are reasons. — “Viperous”—heretical; for the heretics, by giving birth to others in their heresy, perish like vipers. — “We have exposed”—we have bound. — He adds the way: “embracing...” — “Irreligious [impiae]”—unbelieving — “Between the two”—that is, not two highly and not too humbly, or between two contrary errors, such as of Sabellius and Arius. — “Does not depart from paternal limits”—in accord with Proverbs 22:28: “Do not remove the ancient landmark which your fathers set up.” — “Therefore no lazy or very learned person should regard this labor as superfluous.”—Here he makes the listener attentive, (1) first from the usefulness of the work: “it gathers the views (sententias) of the Fathers in a brief volume.” A view, according to Avicenna, is a definitive and most certain idea. (2) He does this secondly from the depth of the matter: “In this treatise I desire not only pious readers” who will understand it according to the faith, “but also those who will freely correct it” reading it for the sole purpose of correction. A free person, according to the Philosopher, is someone who is his own master, not acting because of hatred or hostility. (3) He does this by arranging the method of procedure: “So that the topic sought may be easily found, we put titles so as to distinguish the chapters of each book.” — In order to make evident the sacred doctrine which is treated in this book, five things must be examined: (1) its necessity; (1) supposing it necessary, whether it is one science or many; (3) if one, whether it is practical or speculative; and if speculative, whether it is wisdom, knowledge or understanding; (4) its subject; (5) its mode."
+            "en-US": "D. 2 - Unity of the divine essence",
+            "la": "D. 2 - Unity of the divine essence"
           }
         },
         {
-          "id": "b1-ch001",
+          "id": "p1-sent-c04",
           "title": {
-            "en-US": "Section 1 — QUESTION I — Article 1 — Is another doctrine beyond the natural disciplines necessary for men? — We proceed to the first question thus: — 1. It seems that no doctrine beyond the natural disciplines is necessary for man. For as Dionysius says in the Letter to Polycarp, ‘Philosophy is the knowledge of the things that exist.’ And he observes, making an induction from each of them, that every kind of existing thing is treated in philosophy—of Creator and creature, of the works of nature as well as our works. But any doctrine must be of existing things, since there is no science of non-being. Therefore, there should be no doctrine beside the natural disciplines. — 2. Again, every doctrine is for the sake of perfection, either of understanding, as with the speculative intellect, or with respect to an effect issuing in a work, as with the practical intellect. But both are accomplished by philosophy, because intellect is perfected by the demonstrative sciences, and the affections by the moral sciences. Therefore no other doctrine is necessary. — 3. Moreover, whatever can be known from the principles of reason by the natural intellect is either treated in, or can be discovered by, the principles of philosophy. But the knowledge that can be achieved by natural intellect suffices for the perfection of man. Therefore, no other science than the philosophical is necessary. — In proof of the middle: That which can achieve its perfection by itself is more noble than that which cannot. But other animals and insensible creatures achieve their ends by purely natural means, though not without God, who works in all things. Therefore man, since he is nobler than they, can acquire knowledge sufficient for his perfection through natural intellect. — ON THE CONTRARY: — Hebrews 11: 6: ‘Without faith it is impossible to please God.’ But it is of the highest necessity to please God. Therefore, since philosophy is incapable of attaining what is of faith, a doctrine which proceeds from the principles of faith is necessary. — Again, an effect which is not proportionate to its cause, leads only imperfectly to knowledge of the cause. All creatures are such an effect with respect to the creator, from whom they are infinitely distant. Therefore, they imperfectly lead to knowledge of him. Since philosophy proceeds from notions derived from creatures, it is insufficient to make God known. Therefore, there must be another higher science, which proceeds from revelation, and makes up for the defect of philosophy. — SOLUTION: — For light on this it should be known that all right-thinking men make contemplation of God the end of human life. But there are two kinds of contemplation. The one is through creatures and is imperfect, for the reason already given. Aristotle locates happiness in this kind of contemplation (*Ethics* 10)—it is a happiness on the way’, of this life. To it is ordered the whole of philosophical knowledge which proceeds from concepts of creatures. The other is the contemplation of God whereby he is seen immediately in his essence. This is perfect and will be had in the Fatherland and is possible to man on the supposition of faith. Hence it is necessary that the things which are for the sake of the end be proportioned to the end, since a man while on the way is led by the hand to that contemplation, not through knowledge drawn from creatures, but rather as immediately inspired by the divine light. This is the doctrine of theology. — From this we can draw two conclusions. One, that this science as the principal one commands all the others; second, that it uses for its own sake all other sciences which are its vassals, as is evident in all ordered arts, where the end of one comes under the end of another. For example, pharmacy, which is the art of preparing remedies, is ordered to the end of medicine, which is health. Thus the physician orders the pharmacist and uses the medicines made by him for his own end. So too, since the end of philosophy in its entirety is below the end of theology, and ordered to it, theology ought to order the other sciences and use what is taught in them. — Ad 1. It should be said that although philosophy treats of existing things according to concepts derived from creatures, there must be another science which considers existing things according to notions received by the inspiration of the divine light. — Ad 2. From this the solution to the second objection is clear. Philosophy suffices for the perfection of intellect by natural knowledge, and of the affections by means of acquired virtue. But there must be another science through which intellect is perfected in the order of infused knowledge, and the affections by gratuitous love. — Ad 3. It should be said that in those things which acquire an equal goodness for their end, the argument set forth, namely, this is more noble than that which cannot achieve its end by itself. But that which acquires perfect goodness by many aids and activities is more noble than that which acquires an imperfect goodness through fewer means, or by itself, as the Philosopher says in *On the Heavens* 12. Thus is man, who is made to participate in divine glory itself, compared to other creatures.",
-            "la": "Sectio 1 — QUESTION I — Article 1 — Is another doctrine beyond the natural disciplines necessary for men? — We proceed to the first question thus: — 1. It seems that no doctrine beyond the natural disciplines is necessary for man. For as Dionysius says in the Letter to Polycarp, ‘Philosophy is the knowledge of the things that exist.’ And he observes, making an induction from each of them, that every kind of existing thing is treated in philosophy—of Creator and creature, of the works of nature as well as our works. But any doctrine must be of existing things, since there is no science of non-being. Therefore, there should be no doctrine beside the natural disciplines. — 2. Again, every doctrine is for the sake of perfection, either of understanding, as with the speculative intellect, or with respect to an effect issuing in a work, as with the practical intellect. But both are accomplished by philosophy, because intellect is perfected by the demonstrative sciences, and the affections by the moral sciences. Therefore no other doctrine is necessary. — 3. Moreover, whatever can be known from the principles of reason by the natural intellect is either treated in, or can be discovered by, the principles of philosophy. But the knowledge that can be achieved by natural intellect suffices for the perfection of man. Therefore, no other science than the philosophical is necessary. — In proof of the middle: That which can achieve its perfection by itself is more noble than that which cannot. But other animals and insensible creatures achieve their ends by purely natural means, though not without God, who works in all things. Therefore man, since he is nobler than they, can acquire knowledge sufficient for his perfection through natural intellect. — ON THE CONTRARY: — Hebrews 11: 6: ‘Without faith it is impossible to please God.’ But it is of the highest necessity to please God. Therefore, since philosophy is incapable of attaining what is of faith, a doctrine which proceeds from the principles of faith is necessary. — Again, an effect which is not proportionate to its cause, leads only imperfectly to knowledge of the cause. All creatures are such an effect with respect to the creator, from whom they are infinitely distant. Therefore, they imperfectly lead to knowledge of him. Since philosophy proceeds from notions derived from creatures, it is insufficient to make God known. Therefore, there must be another higher science, which proceeds from revelation, and makes up for the defect of philosophy. — SOLUTION: — For light on this it should be known that all right-thinking men make contemplation of God the end of human life. But there are two kinds of contemplation. The one is through creatures and is imperfect, for the reason already given. Aristotle locates happiness in this kind of contemplation (*Ethics* 10)—it is a happiness on the way’, of this life. To it is ordered the whole of philosophical knowledge which proceeds from concepts of creatures. The other is the contemplation of God whereby he is seen immediately in his essence. This is perfect and will be had in the Fatherland and is possible to man on the supposition of faith. Hence it is necessary that the things which are for the sake of the end be proportioned to the end, since a man while on the way is led by the hand to that contemplation, not through knowledge drawn from creatures, but rather as immediately inspired by the divine light. This is the doctrine of theology. — From this we can draw two conclusions. One, that this science as the principal one commands all the others; second, that it uses for its own sake all other sciences which are its vassals, as is evident in all ordered arts, where the end of one comes under the end of another. For example, pharmacy, which is the art of preparing remedies, is ordered to the end of medicine, which is health. Thus the physician orders the pharmacist and uses the medicines made by him for his own end. So too, since the end of philosophy in its entirety is below the end of theology, and ordered to it, theology ought to order the other sciences and use what is taught in them. — Ad 1. It should be said that although philosophy treats of existing things according to concepts derived from creatures, there must be another science which considers existing things according to notions received by the inspiration of the divine light. — Ad 2. From this the solution to the second objection is clear. Philosophy suffices for the perfection of intellect by natural knowledge, and of the affections by means of acquired virtue. But there must be another science through which intellect is perfected in the order of infused knowledge, and the affections by gratuitous love. — Ad 3. It should be said that in those things which acquire an equal goodness for their end, the argument set forth, namely, this is more noble than that which cannot achieve its end by itself. But that which acquires perfect goodness by many aids and activities is more noble than that which acquires an imperfect goodness through fewer means, or by itself, as the Philosopher says in *On the Heavens* 12. Thus is man, who is made to participate in divine glory itself, compared to other creatures."
+            "en-US": "D. 3 - Knowledge of the Creator through the created",
+            "la": "D. 3 - Knowledge of the Creator through the created"
           }
         },
         {
-          "id": "b1-ch002",
+          "id": "p1-sent-c05",
           "title": {
-            "en-US": "Section 2 — Article 2 — Should there be only one doctrine beyond the natural sciences? — We proceed to the second question thus: — 1. It seems that there are several sciences and not just one beyond the natural sciences. Whatever a man can learn by concepts drawn from creatures, he can also learn by divine notions. But there are several sciences which employ creaturely concepts, differing in kind and in species, such as moral, natural, etc. Therefore sciences proceeding from divine notions ought to be many. — 2. Again, each science is concerned with one kind of thing, as the Philosopher says in *Posterior Analytics* 1. But God and creature, both treated in divine doctrine, cannot be reduced to one genus, neither univocally nor analogically. Therefore divine science is not one. Proof of the middle. Whatever agree in genus whether univocally or analogically, share something the same, whether according to prior and posterior—as substance and accident share in the notion of being—or equally, as horse and cow share in the notion of animal. But God and creature do not share in anything that would be prior to and simpler than both. Therefore they are in no way reduced to one genus. — 3. Again, the things we do, like acts of virtue, and the things nature does, are not contained in the same science, for the one pertains to moral, the other to natural science. But divine science deals with the things we do, treating virtues and precepts, and it also deals with things which are not our works, like angels and other creatures. It seems, then, that it is not one science. — ON THE CONTRARY: — Whatever agree in one notion can belong to the same science. Hence all things, insofar as they come together in the notion of being, pertain to metaphysics. But divine science treats things under a divine formality which embraces them all: all things are from him and for him. Therefore, although one, it can treat diverse things. — Moreover, things that belong to diverse sciences are treated in different books. But Sacred Scripture mixes everything, sometimes treating of morals, sometimes of the creator, sometimes of creatures, as is evident in practically all its books. Therefore the science is not diversified on this basis. — SOLUTION: — I reply that on this question it should be noted that knowledge is higher to the degree that it is more unified and extends to more things. Hence, God’s intellect, which is highest, has distinct knowledge of all things through something one, which is God himself. So too, since this science is highest and derives its efficacy from the light of divine inspiration itself and, while remaining one and undivided, considers diverse things, and not just universally, like metaphysics, which considers all things insofar as they are beings, without descending to proper knowledge of moral matters or of natural things. Since the notion of being is diversified in diverse things metaphysics is insufficient for specific knowledge of them. But the divine light, remaining one in itself, is efficacious to make them manifest, as Dionysius says at the beginning of the *Celestial Hierarchy*. — Ad 1. The divine light, from the certitude of which this science proceeds, is efficacious in making manifest the many things which are treated in the different sciences of philosophy which proceed from conceptions of these things to knowledge. Therefore there is no need for this science to be divided. — Ad 2. The creator and creature are reduced to one, not by a community of univocation, but of analogy. This is of two kinds. Either it arises from this that things share in something in greater or lesser degrees, as potency and act—and substance and accident—share the notion of being. Or it arises from this that one thing receives its being and definition from another, and such is the analogy of creature to creator: the creature exists only to the degree that it descends from the primary being, and it is called being only because it imitates the first being. Thus it is with wisdom and all the other things which are said of the creature. — Ad 3. The things we do and the things nature does, taken in their proper notions, do not fall to the same science. However, one science having its certitude from the divine light, which is efficacious for knowledge of both, can consider both. — It might also be said that the virtues the theologian considers are not our work, but that God effects them in us without us, as Augustine says in *On Free Will*, 2.19.",
-            "la": "Sectio 2 — Article 2 — Should there be only one doctrine beyond the natural sciences? — We proceed to the second question thus: — 1. It seems that there are several sciences and not just one beyond the natural sciences. Whatever a man can learn by concepts drawn from creatures, he can also learn by divine notions. But there are several sciences which employ creaturely concepts, differing in kind and in species, such as moral, natural, etc. Therefore sciences proceeding from divine notions ought to be many. — 2. Again, each science is concerned with one kind of thing, as the Philosopher says in *Posterior Analytics* 1. But God and creature, both treated in divine doctrine, cannot be reduced to one genus, neither univocally nor analogically. Therefore divine science is not one. Proof of the middle. Whatever agree in genus whether univocally or analogically, share something the same, whether according to prior and posterior—as substance and accident share in the notion of being—or equally, as horse and cow share in the notion of animal. But God and creature do not share in anything that would be prior to and simpler than both. Therefore they are in no way reduced to one genus. — 3. Again, the things we do, like acts of virtue, and the things nature does, are not contained in the same science, for the one pertains to moral, the other to natural science. But divine science deals with the things we do, treating virtues and precepts, and it also deals with things which are not our works, like angels and other creatures. It seems, then, that it is not one science. — ON THE CONTRARY: — Whatever agree in one notion can belong to the same science. Hence all things, insofar as they come together in the notion of being, pertain to metaphysics. But divine science treats things under a divine formality which embraces them all: all things are from him and for him. Therefore, although one, it can treat diverse things. — Moreover, things that belong to diverse sciences are treated in different books. But Sacred Scripture mixes everything, sometimes treating of morals, sometimes of the creator, sometimes of creatures, as is evident in practically all its books. Therefore the science is not diversified on this basis. — SOLUTION: — I reply that on this question it should be noted that knowledge is higher to the degree that it is more unified and extends to more things. Hence, God’s intellect, which is highest, has distinct knowledge of all things through something one, which is God himself. So too, since this science is highest and derives its efficacy from the light of divine inspiration itself and, while remaining one and undivided, considers diverse things, and not just universally, like metaphysics, which considers all things insofar as they are beings, without descending to proper knowledge of moral matters or of natural things. Since the notion of being is diversified in diverse things metaphysics is insufficient for specific knowledge of them. But the divine light, remaining one in itself, is efficacious to make them manifest, as Dionysius says at the beginning of the *Celestial Hierarchy*. — Ad 1. The divine light, from the certitude of which this science proceeds, is efficacious in making manifest the many things which are treated in the different sciences of philosophy which proceed from conceptions of these things to knowledge. Therefore there is no need for this science to be divided. — Ad 2. The creator and creature are reduced to one, not by a community of univocation, but of analogy. This is of two kinds. Either it arises from this that things share in something in greater or lesser degrees, as potency and act—and substance and accident—share the notion of being. Or it arises from this that one thing receives its being and definition from another, and such is the analogy of creature to creator: the creature exists only to the degree that it descends from the primary being, and it is called being only because it imitates the first being. Thus it is with wisdom and all the other things which are said of the creature. — Ad 3. The things we do and the things nature does, taken in their proper notions, do not fall to the same science. However, one science having its certitude from the divine light, which is efficacious for knowledge of both, can consider both. — It might also be said that the virtues the theologian considers are not our work, but that God effects them in us without us, as Augustine says in *On Free Will*, 2.19."
+            "en-US": "D. 4 - Divine generation and divine predication",
+            "la": "D. 4 - Divine generation and divine predication"
           }
         },
         {
-          "id": "b1-ch003",
+          "id": "p1-sent-c06",
           "title": {
-            "en-US": "Section 3 — Article 3 — Is it practical or speculative? — We proceed to the third question: — 1. This science seems to be practical. The end of the practical is some work, as the Philosopher says in *Metaphysics* 2. But this doctrine, which is of faith, is ordered chiefly to acting well: ‘Faith without works is dead’; James 2:26 and, ‘The good is understood by all doing it.’ Psalm 110:10. Therefore, it seems to be practical. — ON THE CONTRARY: — In the preface to the *Metaphysics* the Philosopher says that the noblest of sciences is sought for its own sake. Practical sciences are not sought for their own sake, but for the sake of a work. Therefore, since this is the most noble among sciences, it will not be practical. — Moreover, practical science is concerned only with what is of our doing. But this doctrine includes angels and other creatures which are not works of ours. Therefore, it is not speculative but practical. — Sub-question 1: Is it a science? — It is further asked whether it is a science, and the answer seems to be no: — 1. No science is concerned with the particular, according to the Philosopher in the *Posterior Analytics*. But Sacred Scripture tells of the doings of particular men, like Abraham, Isaac, etc. Therefore, it is not a science. — 2. Moreover, every science proceeds from principles known of themselves which are obvious to all. But this science begins with believable things, which are not granted by all. Therefore, it is not a science. — 3. Moreover, in every science a habit is acquired through the arguments set forth. But no habit is acquired in this science, because faith, on which the whole doctrine depends, is an infused, not an acquired, habit. Therefore it is not a science. — ON THE CONTRARY: — Augustine in *On the Trinity* 14 says that theology is the science of the things that pertain to man’s salvation. So it is a science. — Sub-question 2: Is it wisdom? — It is further asked whether it is wisdom, and it seems that it isn’t. Because, as the Philosopher says at the beginning of the *Metaphysics*, the wise man is most certain of the causes; but in this science no one is most certain because faith, on which this doctrine depends, is beneath science and above opinion. Therefore it is not wisdom. — ON THE CONTRARY: — 1 Corinthians 2:6: ‘Wisdom, however, we speak among those who are mature.’ Since he is teaching this doctrine and speaking of it there, it seems that it is wisdom. — SOLUTION 1: — I reply that it must be said that this science, though one, is none the less perfect and sufficient for every human perfection, because of the efficacy of the divine light, something clear from the foregoing. Hence it perfects man both in right action and with respect to contemplation of the truth. Thus it is in some respects practical and in other respects speculative. But since every science ought to be thought of in terms of its end, and the ultimate end of this science is the contemplation of the First Truth ‘in the Fatherland’ of heaven, it is chiefly speculative. And since there are three speculative habits, according to the Philosopher in *Ethics* 6.7, namely wisdom, science and understanding, and we call something wisdom insofar as it considers the highest causes and is as it were the head and principle and commander of all sciences, this is more to be called wisdom than is metaphysics, since it considers the highest causes in the mode of those causes, because it is received from divine inspiration. Metaphysics, on the other hand, considers the highest causes through concepts drawn from creatures. — This science also has more claim to be called divine than has metaphysics because it is divine both as to its subject and to the mode of receiving, whereas metaphysics is called divine because of its subject alone. Wisdom, as the Philosopher says in *Ethics* 6.8, considers both conclusions and principles, therefore wisdom is both science and understanding, since science is of conclusions and understanding of principles. — Ad 1. It is not a work that is the ultimate end intended in this science, hut rather contemplation of First Truth in the Fatherland, to which we come after having been purified by good works, as is said in Matthew 5:8, ‘Blessed are the pure of heart.’ Therefore, it is chiefly speculative rather than practical. — We concede the other two objections. — SOLUTION 2: — To the further question it should be said that this doctrine is a science, as has been said. To the objection about particulars, the response is that it is not about particulars as particulars, but only insofar as they are examples of things to be done, a practice followed in moral science as well because actions are particular and about particulars, which is why what pertains to morals is best exemplified by particular examples. Or it could be said that in science there are two things to consider, namely certitude, since not just any knowledge is called science, but only certain knowledge, and second that it is the term of learning, since everything in a science is ordered to knowing. From these it follows that science has two characteristics. From the first, that it is concerned with the necessary: contingent things cannot generate certitude. From the second, that it follows from principles. This varies from science to science, because higher sciences are from self-evident principles, for example, geometry, which has principles like, ‘Equals taken from equals leave equals.’ Lower sciences, which are subalternated to the higher, do not proceed from self-evident principles, but presuppose conclusions proved in the higher sciences and use them as principles though in truth they are not self-evident, but are proved in the higher science from self-evident principles. Thus perspective, which is concerned with the visual line, is subalternated to geometry from which it presupposes truths proved of the line as line. From them, as it were from principles, it proves conclusions about the line insofar as it is visual. But a science can be higher than another in two ways, either by reason of its subject, as geometry which is about magnitude is higher than perspective which is about visual magnitude, or by reason of its mode of knowing, and thus theology is below the knowledge that is God’s. For we imperfectly know what he knows perfectly, and just as a science subalternated to a higher presupposes certain things and proceeds from these as from principles, so theology presupposes the articles of faith which are proved infallibly in God’s knowledge, believes them and through them proceeds to prove what follows from the articles. Thus theology is as it were a science subalternated to the divine science from which it receives its principles. — Ad 1. This science has the articles of faith for its first principles which through the infused light of faith are known in themselves by the one having faith, much as principles are naturally instilled in us by the light of the agent intellect. Nor is it to be wondered at that they are not known to those who do not have the light of faith, since not even naturally instilled principles would be instilled in us without the light of the agent intellect. It is from such principles, not disdaining common principles, that this science proceeds; it has no way of proving them, save to defend them against naysayers, but then no scientist proves his principles. — Ad 2. It should be said that whereas the habit of first principles is not acquired by the other sciences but is had by nature, the habit of conclusions deduced from the first principles is acquired. So too in this doctrine the habit of faith, which is like the habit of principles, is not acquired, but the habit of those things which are deduced from them and which contribute to its defence. — We concede the third. — SOLUTION 3: — To the further question, whether it is wisdom, it should be answered that it is wisdom in the most proper sense, as has been said. To the objection that no one is most certain about this doctrine, we say it is false. The believer more firmly assents to the things that are of faith than to the first principles of reason. The statement that faith is below science is not true of infused faith, but of acquired faith, which is opinion fortified by argument. The habit of these principles, namely, of the articles, is called faith and not understanding because these principles are above reason and human reason is unable to grasp them perfectly. There results a kind of defective knowledge, but not from any defect of certitude in the things known, but from a defect in the knower. Reason led by faith grows in such a way that it more fully comprehends what is believed and thus in a way understands them. Hence Isaiah 7:9 says in one version, ‘Unless you believe, you will not understand.’",
-            "la": "Sectio 3 — Article 3 — Is it practical or speculative? — We proceed to the third question: — 1. This science seems to be practical. The end of the practical is some work, as the Philosopher says in *Metaphysics* 2. But this doctrine, which is of faith, is ordered chiefly to acting well: ‘Faith without works is dead’; James 2:26 and, ‘The good is understood by all doing it.’ Psalm 110:10. Therefore, it seems to be practical. — ON THE CONTRARY: — In the preface to the *Metaphysics* the Philosopher says that the noblest of sciences is sought for its own sake. Practical sciences are not sought for their own sake, but for the sake of a work. Therefore, since this is the most noble among sciences, it will not be practical. — Moreover, practical science is concerned only with what is of our doing. But this doctrine includes angels and other creatures which are not works of ours. Therefore, it is not speculative but practical. — Sub-question 1: Is it a science? — It is further asked whether it is a science, and the answer seems to be no: — 1. No science is concerned with the particular, according to the Philosopher in the *Posterior Analytics*. But Sacred Scripture tells of the doings of particular men, like Abraham, Isaac, etc. Therefore, it is not a science. — 2. Moreover, every science proceeds from principles known of themselves which are obvious to all. But this science begins with believable things, which are not granted by all. Therefore, it is not a science. — 3. Moreover, in every science a habit is acquired through the arguments set forth. But no habit is acquired in this science, because faith, on which the whole doctrine depends, is an infused, not an acquired, habit. Therefore it is not a science. — ON THE CONTRARY: — Augustine in *On the Trinity* 14 says that theology is the science of the things that pertain to man’s salvation. So it is a science. — Sub-question 2: Is it wisdom? — It is further asked whether it is wisdom, and it seems that it isn’t. Because, as the Philosopher says at the beginning of the *Metaphysics*, the wise man is most certain of the causes; but in this science no one is most certain because faith, on which this doctrine depends, is beneath science and above opinion. Therefore it is not wisdom. — ON THE CONTRARY: — 1 Corinthians 2:6: ‘Wisdom, however, we speak among those who are mature.’ Since he is teaching this doctrine and speaking of it there, it seems that it is wisdom. — SOLUTION 1: — I reply that it must be said that this science, though one, is none the less perfect and sufficient for every human perfection, because of the efficacy of the divine light, something clear from the foregoing. Hence it perfects man both in right action and with respect to contemplation of the truth. Thus it is in some respects practical and in other respects speculative. But since every science ought to be thought of in terms of its end, and the ultimate end of this science is the contemplation of the First Truth ‘in the Fatherland’ of heaven, it is chiefly speculative. And since there are three speculative habits, according to the Philosopher in *Ethics* 6.7, namely wisdom, science and understanding, and we call something wisdom insofar as it considers the highest causes and is as it were the head and principle and commander of all sciences, this is more to be called wisdom than is metaphysics, since it considers the highest causes in the mode of those causes, because it is received from divine inspiration. Metaphysics, on the other hand, considers the highest causes through concepts drawn from creatures. — This science also has more claim to be called divine than has metaphysics because it is divine both as to its subject and to the mode of receiving, whereas metaphysics is called divine because of its subject alone. Wisdom, as the Philosopher says in *Ethics* 6.8, considers both conclusions and principles, therefore wisdom is both science and understanding, since science is of conclusions and understanding of principles. — Ad 1. It is not a work that is the ultimate end intended in this science, hut rather contemplation of First Truth in the Fatherland, to which we come after having been purified by good works, as is said in Matthew 5:8, ‘Blessed are the pure of heart.’ Therefore, it is chiefly speculative rather than practical. — We concede the other two objections. — SOLUTION 2: — To the further question it should be said that this doctrine is a science, as has been said. To the objection about particulars, the response is that it is not about particulars as particulars, but only insofar as they are examples of things to be done, a practice followed in moral science as well because actions are particular and about particulars, which is why what pertains to morals is best exemplified by particular examples. Or it could be said that in science there are two things to consider, namely certitude, since not just any knowledge is called science, but only certain knowledge, and second that it is the term of learning, since everything in a science is ordered to knowing. From these it follows that science has two characteristics. From the first, that it is concerned with the necessary: contingent things cannot generate certitude. From the second, that it follows from principles. This varies from science to science, because higher sciences are from self-evident principles, for example, geometry, which has principles like, ‘Equals taken from equals leave equals.’ Lower sciences, which are subalternated to the higher, do not proceed from self-evident principles, but presuppose conclusions proved in the higher sciences and use them as principles though in truth they are not self-evident, but are proved in the higher science from self-evident principles. Thus perspective, which is concerned with the visual line, is subalternated to geometry from which it presupposes truths proved of the line as line. From them, as it were from principles, it proves conclusions about the line insofar as it is visual. But a science can be higher than another in two ways, either by reason of its subject, as geometry which is about magnitude is higher than perspective which is about visual magnitude, or by reason of its mode of knowing, and thus theology is below the knowledge that is God’s. For we imperfectly know what he knows perfectly, and just as a science subalternated to a higher presupposes certain things and proceeds from these as from principles, so theology presupposes the articles of faith which are proved infallibly in God’s knowledge, believes them and through them proceeds to prove what follows from the articles. Thus theology is as it were a science subalternated to the divine science from which it receives its principles. — Ad 1. This science has the articles of faith for its first principles which through the infused light of faith are known in themselves by the one having faith, much as principles are naturally instilled in us by the light of the agent intellect. Nor is it to be wondered at that they are not known to those who do not have the light of faith, since not even naturally instilled principles would be instilled in us without the light of the agent intellect. It is from such principles, not disdaining common principles, that this science proceeds; it has no way of proving them, save to defend them against naysayers, but then no scientist proves his principles. — Ad 2. It should be said that whereas the habit of first principles is not acquired by the other sciences but is had by nature, the habit of conclusions deduced from the first principles is acquired. So too in this doctrine the habit of faith, which is like the habit of principles, is not acquired, but the habit of those things which are deduced from them and which contribute to its defence. — We concede the third. — SOLUTION 3: — To the further question, whether it is wisdom, it should be answered that it is wisdom in the most proper sense, as has been said. To the objection that no one is most certain about this doctrine, we say it is false. The believer more firmly assents to the things that are of faith than to the first principles of reason. The statement that faith is below science is not true of infused faith, but of acquired faith, which is opinion fortified by argument. The habit of these principles, namely, of the articles, is called faith and not understanding because these principles are above reason and human reason is unable to grasp them perfectly. There results a kind of defective knowledge, but not from any defect of certitude in the things known, but from a defect in the knower. Reason led by faith grows in such a way that it more fully comprehends what is believed and thus in a way understands them. Hence Isaiah 7:9 says in one version, ‘Unless you believe, you will not understand.’"
+            "en-US": "D. 5 - Divine generation and divine essence",
+            "la": "D. 5 - Divine generation and divine essence"
           }
         },
         {
-          "id": "b1-ch004",
+          "id": "p1-sent-c07",
           "title": {
-            "en-US": "Section 4 — Article 4 — Is God the subject of this science? — We proceed to the fourth article thus: — 1. It seems that God is the subject of this science. For a science should be entitled and named from its subject. But this science is called theology, that is, talk about God. Therefore, it seems that God is its subject. — ON THE CONTRARY: Boethius in *On the Trinity* 2 says that a simple form cannot be a subject. But such is God. Therefore he cannot be a subject. — 2. Again, following Hugh of St Victor, it seems that its subject is the works of redemption, for he says in *On the Sacraments* 1.1.2 that ‘the works of the first condition are the matter of other sciences, but the works of restoration are the matter of theology’. Therefore... — ON THE CONTRARY: Whatever is treated in a science must be contained in its subject. But theology considers the works of creation, as is evident in Genesis 1. It seems then that the works of restoration cannot be its subject. — 3. Again, it seems that reality and sign are its subject for that on which the whole intention of the science bears is its subject. But the whole intention of theology bears on reality and sign, as the Master of the Sentences says at the beginning of Distinction 1. Therefore, reality and sign are the subject. — ON THE CONTRARY: Sciences differ from one another by the definitions of their subjects, since each science must have its proper subject. But other sciences too consider reality and sign. Therefore they are not the proper subject of this science. — SOLUTION: — I reply that the subject is compared to the science in at least three ways. — The first is that whatever falls to a science must be contained under its subject. Those considering this condition posit reality and sign as the subject of this science, some indeed the whole Christ, that is, head and members, because whatever is treated in this science can be reduced to this. — The second comparison is that what is chiefly sought in a science is knowledge of the subject. Hence since this science is chiefly ordered to knowledge of God, some posit God as its subject. — The third comparison is that a science is distinguished from all others by its subject, since sciences are divided somewhat as are things, as is said in *On the Soul* 3:8 and thus some posit the believable as the subject of this science. It is the fact that it proceeds from the inspiration of faith that distinguishes this science from all others. And some opt for the works of restoration, since the whole science aims at achieving the effect of restoration. — If we want a subject which would include all of these, we can say that divine being as knowable through inspiration is the subject of this science. Whatever is considered in this science is either God or things which are from God or ordered to God as such. So too the physician considers symptoms and causes and many other things insofar as they are healthy, that is, are in some way related to health. Thus to the degree that something more nearly approaches the true nature of divinity it deserves prior consideration in this science. — Ad 1. It should be said that God is not the subject save in the sense of What is chiefly intended, in the light of whom everything else in the science is considered. To the objection that a simple form cannot be a subject, we reply that this is true of an accident which none the less can be the subject of a predicate in a proposition, and any such thing can be the subject of a science so long as a predicate can be proved of it. — Ad 2. The works of restoration are not properly the subject of this science save in the sense that whatever is taught in this science is in some way ordered to our restoration. — Ad 3. Reality and sign, understood generally, are not the subject of this science, but only insofar as they are divine.",
-            "la": "Sectio 4 — Article 4 — Is God the subject of this science? — We proceed to the fourth article thus: — 1. It seems that God is the subject of this science. For a science should be entitled and named from its subject. But this science is called theology, that is, talk about God. Therefore, it seems that God is its subject. — ON THE CONTRARY: Boethius in *On the Trinity* 2 says that a simple form cannot be a subject. But such is God. Therefore he cannot be a subject. — 2. Again, following Hugh of St Victor, it seems that its subject is the works of redemption, for he says in *On the Sacraments* 1.1.2 that ‘the works of the first condition are the matter of other sciences, but the works of restoration are the matter of theology’. Therefore... — ON THE CONTRARY: Whatever is treated in a science must be contained in its subject. But theology considers the works of creation, as is evident in Genesis 1. It seems then that the works of restoration cannot be its subject. — 3. Again, it seems that reality and sign are its subject for that on which the whole intention of the science bears is its subject. But the whole intention of theology bears on reality and sign, as the Master of the Sentences says at the beginning of Distinction 1. Therefore, reality and sign are the subject. — ON THE CONTRARY: Sciences differ from one another by the definitions of their subjects, since each science must have its proper subject. But other sciences too consider reality and sign. Therefore they are not the proper subject of this science. — SOLUTION: — I reply that the subject is compared to the science in at least three ways. — The first is that whatever falls to a science must be contained under its subject. Those considering this condition posit reality and sign as the subject of this science, some indeed the whole Christ, that is, head and members, because whatever is treated in this science can be reduced to this. — The second comparison is that what is chiefly sought in a science is knowledge of the subject. Hence since this science is chiefly ordered to knowledge of God, some posit God as its subject. — The third comparison is that a science is distinguished from all others by its subject, since sciences are divided somewhat as are things, as is said in *On the Soul* 3:8 and thus some posit the believable as the subject of this science. It is the fact that it proceeds from the inspiration of faith that distinguishes this science from all others. And some opt for the works of restoration, since the whole science aims at achieving the effect of restoration. — If we want a subject which would include all of these, we can say that divine being as knowable through inspiration is the subject of this science. Whatever is considered in this science is either God or things which are from God or ordered to God as such. So too the physician considers symptoms and causes and many other things insofar as they are healthy, that is, are in some way related to health. Thus to the degree that something more nearly approaches the true nature of divinity it deserves prior consideration in this science. — Ad 1. It should be said that God is not the subject save in the sense of What is chiefly intended, in the light of whom everything else in the science is considered. To the objection that a simple form cannot be a subject, we reply that this is true of an accident which none the less can be the subject of a predicate in a proposition, and any such thing can be the subject of a science so long as a predicate can be proved of it. — Ad 2. The works of restoration are not properly the subject of this science save in the sense that whatever is taught in this science is in some way ordered to our restoration. — Ad 3. Reality and sign, understood generally, are not the subject of this science, but only insofar as they are divine."
+            "en-US": "D. 6 - The Principle of the Son’s generation",
+            "la": "D. 6 - The Principle of the Son’s generation"
           }
         },
         {
-          "id": "b1-ch005",
+          "id": "p1-sent-c08",
           "title": {
-            "en-US": "Section 5 — Article 5 — Is its mode of proceeding artful? — To the fifth article we proceed thus: — 1. The most noble science should have the most noble mode. But insofar as its mode is more artful it is more noble. Therefore, since this science is the most noble, its mode ought to be most artful. — 2. Moreover, the mode of a science ought to be proportioned to the science. But this science is pre-eminently one, as has been proved, therefore its mode ought to be especially one. But the opposite seems true, since sometimes it proceeds by warning, sometimes by commanding, sometimes in other ways. — 3. Widely differing sciences ought not to share the same mode. But poetry, which contains the least truth, is far different from this science which is most true. Therefore, since the former proceeds by way of metaphorical locutions, the mode of this science should be different. — 4. Moreover, Ambrose in *On Sacred Power* 1 says to Gratian, ‘Away with arguments where faith is sought.’ But faith is especially sought in sacred science. Therefore its mode should in no way be argumentative. — ON THE CONTRARY: — 1 Peter 3:15 says, ‘Be ready always with an answer to everyone who asks a reason for the hope that is in you.’ But this could not be done without arguments. Therefore, it ought sometimes to use arguments. — The same is found in Titus 1:9: ‘That he may be able both to exhort in sound doctrine and to confute opponents.’ — SOLUTION: — I respond that it should be said that the mode of any science should be sought by considering its matter, as Boethius says in *On the Trinity* 1, and the Philosopher in *Ethics* 1. The principles of this science are received through revelation, therefore the mode of receiving these principles ought to be revelatory on the part of the one infusing, as in the visions of the prophets, and prayerful on the part of the recipient, as is evident in the Psalms. But because, apart from the infused light, the habit of faith is distinguished by determinate beliefs by the teaching of the preacher according to what is said in Romans 10:14—‘And how are they to believe him whom they have not heard?’— just as the understanding of principles naturally instilled is determined by the sensibles received, so the truth of the preacher is confirmed by miracles, as is said in Mark 16:20: ‘But they went forth and preached everywhere, while the Lord worked with them and confirmed the preaching by the signs that followed.’ The mode of this science must also be narrative of signs which are done for the confirmation of faith. And because these principles are not proportionate to human reason in this life, which is accustomed to receive them from sensible things, it was necessary to prepare for knowledge of them by likenesses of sensible things. That is why the mode of this science must be metaphorical, or symbolic, or parabolic. — In Sacred Scripture the procedure from these principles leads to three things, namely, the destruction of error, which cannot be done without arguments, which is why the mode of this science is sometimes argumentative, both through authorities and also through natural reasons and similitudes. It also leads to moral instruction, which is why its mode must be preceptive, as in law, warning and promising, as in the prophets, and narrative of examples, as in the historical books. Thirdly, it leads to the contemplation of truth in the questions of Sacred Scripture; for this reason its mode must also be argumentative, which is characteristic of the Fathers and of this book which, as it were, brings them all together. — This enables us to see the reason for the fourfold way of interpreting Sacred Scripture, since insofar as the truth of faith is received there is the historical sense. Insofar as from this it proceeds to moral instruction, there is the moral sense. Insofar as it proceeds to contemplating the truth of things on the way, there is the allegorical sense, and of the things in the Fatherland, the anagogical sense. Only the literal sense is used for the destruction of error, since the other senses are through similitudes and there cannot be argumentation by means of terms expressive of similitudes. That is why Dionysius says in the Letter to Titus that symbolic theology is not argumentative. — Ad 1. A mode is called artful when it befits the matter; hence a mode which is artful in geometry is not so in ethics. Thus the mode of this science is most artful because it is most in conformity with its matter. — Ad 2. Although this science is one, it is none the less of many things and avails for many things, which is why its manner must be diversified, as is already clear. — Ad 3. Poetic knowledge is of things which on account of a defect of truth cannot be grasped by reason and that is why reason must be seduced by certain likenesses; theology, however, concerns things which are above reason. The symbolic mode is common to them both, therefore, because neither is proportioned to reason. — Ad 4. Away with arguments that would prove the articles of the faith indeed, but arguments must be used for the defence of the faith and for the discovery of truth in questions dependent on the principles of faith. This is what the Apostle too does: 1 Corinthians 15:16, ‘For if the dead do not rise, neither is Christ risen.’",
-            "la": "Sectio 5 — Article 5 — Is its mode of proceeding artful? — To the fifth article we proceed thus: — 1. The most noble science should have the most noble mode. But insofar as its mode is more artful it is more noble. Therefore, since this science is the most noble, its mode ought to be most artful. — 2. Moreover, the mode of a science ought to be proportioned to the science. But this science is pre-eminently one, as has been proved, therefore its mode ought to be especially one. But the opposite seems true, since sometimes it proceeds by warning, sometimes by commanding, sometimes in other ways. — 3. Widely differing sciences ought not to share the same mode. But poetry, which contains the least truth, is far different from this science which is most true. Therefore, since the former proceeds by way of metaphorical locutions, the mode of this science should be different. — 4. Moreover, Ambrose in *On Sacred Power* 1 says to Gratian, ‘Away with arguments where faith is sought.’ But faith is especially sought in sacred science. Therefore its mode should in no way be argumentative. — ON THE CONTRARY: — 1 Peter 3:15 says, ‘Be ready always with an answer to everyone who asks a reason for the hope that is in you.’ But this could not be done without arguments. Therefore, it ought sometimes to use arguments. — The same is found in Titus 1:9: ‘That he may be able both to exhort in sound doctrine and to confute opponents.’ — SOLUTION: — I respond that it should be said that the mode of any science should be sought by considering its matter, as Boethius says in *On the Trinity* 1, and the Philosopher in *Ethics* 1. The principles of this science are received through revelation, therefore the mode of receiving these principles ought to be revelatory on the part of the one infusing, as in the visions of the prophets, and prayerful on the part of the recipient, as is evident in the Psalms. But because, apart from the infused light, the habit of faith is distinguished by determinate beliefs by the teaching of the preacher according to what is said in Romans 10:14—‘And how are they to believe him whom they have not heard?’— just as the understanding of principles naturally instilled is determined by the sensibles received, so the truth of the preacher is confirmed by miracles, as is said in Mark 16:20: ‘But they went forth and preached everywhere, while the Lord worked with them and confirmed the preaching by the signs that followed.’ The mode of this science must also be narrative of signs which are done for the confirmation of faith. And because these principles are not proportionate to human reason in this life, which is accustomed to receive them from sensible things, it was necessary to prepare for knowledge of them by likenesses of sensible things. That is why the mode of this science must be metaphorical, or symbolic, or parabolic. — In Sacred Scripture the procedure from these principles leads to three things, namely, the destruction of error, which cannot be done without arguments, which is why the mode of this science is sometimes argumentative, both through authorities and also through natural reasons and similitudes. It also leads to moral instruction, which is why its mode must be preceptive, as in law, warning and promising, as in the prophets, and narrative of examples, as in the historical books. Thirdly, it leads to the contemplation of truth in the questions of Sacred Scripture; for this reason its mode must also be argumentative, which is characteristic of the Fathers and of this book which, as it were, brings them all together. — This enables us to see the reason for the fourfold way of interpreting Sacred Scripture, since insofar as the truth of faith is received there is the historical sense. Insofar as from this it proceeds to moral instruction, there is the moral sense. Insofar as it proceeds to contemplating the truth of things on the way, there is the allegorical sense, and of the things in the Fatherland, the anagogical sense. Only the literal sense is used for the destruction of error, since the other senses are through similitudes and there cannot be argumentation by means of terms expressive of similitudes. That is why Dionysius says in the Letter to Titus that symbolic theology is not argumentative. — Ad 1. A mode is called artful when it befits the matter; hence a mode which is artful in geometry is not so in ethics. Thus the mode of this science is most artful because it is most in conformity with its matter. — Ad 2. Although this science is one, it is none the less of many things and avails for many things, which is why its manner must be diversified, as is already clear. — Ad 3. Poetic knowledge is of things which on account of a defect of truth cannot be grasped by reason and that is why reason must be seduced by certain likenesses; theology, however, concerns things which are above reason. The symbolic mode is common to them both, therefore, because neither is proportioned to reason. — Ad 4. Away with arguments that would prove the articles of the faith indeed, but arguments must be used for the defence of the faith and for the discovery of truth in questions dependent on the principles of faith. This is what the Apostle too does: 1 Corinthians 15:16, ‘For if the dead do not rise, neither is Christ risen.’"
+            "en-US": "D. 7 - The commonness of the power of generation",
+            "la": "D. 7 - The commonness of the power of generation"
+          }
+        },
+        {
+          "id": "p1-sent-c09",
+          "title": {
+            "en-US": "D. 8 - The divine essence",
+            "la": "D. 8 - The divine essence"
+          }
+        },
+        {
+          "id": "p1-sent-c10",
+          "title": {
+            "en-US": "D. 9 - Generation of the Son",
+            "la": "D. 9 - Generation of the Son"
+          }
+        },
+        {
+          "id": "p1-sent-c11",
+          "title": {
+            "en-US": "D. 10 - Procession of the Holy Spirit",
+            "la": "D. 10 - Procession of the Holy Spirit"
+          }
+        },
+        {
+          "id": "p1-sent-c12",
+          "title": {
+            "en-US": "D. 11 - Procession of the Holy Spirit from the Father and the Son",
+            "la": "D. 11 - Procession of the Holy Spirit from the Father and the Son"
+          }
+        },
+        {
+          "id": "p1-sent-c13",
+          "title": {
+            "en-US": "D. 12 - Order between the Father and the Son as regards the procession of the Holy Spirit",
+            "la": "D. 12 - Order between the Father and the Son as regards the procession of the Holy Spirit"
+          }
+        },
+        {
+          "id": "p1-sent-c14",
+          "title": {
+            "en-US": "D. 13 - Procession of the Holy Spirit in comparison to the generation of the Son",
+            "la": "D. 13 - Procession of the Holy Spirit in comparison to the generation of the Son"
+          }
+        },
+        {
+          "id": "p1-sent-c15",
+          "title": {
+            "en-US": "D. 14 - Temporal procession of the Holy Spirit",
+            "la": "D. 14 - Temporal procession of the Holy Spirit"
+          }
+        },
+        {
+          "id": "p1-sent-c16",
+          "title": {
+            "en-US": "D. 15 - Sending of the Holy Spirit",
+            "la": "D. 15 - Sending of the Holy Spirit"
+          }
+        },
+        {
+          "id": "p1-sent-c17",
+          "title": {
+            "en-US": "D. 16 - Visible sending of the Holy Spirit",
+            "la": "D. 16 - Visible sending of the Holy Spirit"
+          }
+        },
+        {
+          "id": "p1-sent-c18",
+          "title": {
+            "en-US": "D. 17 - Invisible Sending of the Holy Spirit",
+            "la": "D. 17 - Invisible Sending of the Holy Spirit"
+          }
+        },
+        {
+          "id": "p1-sent-c19",
+          "title": {
+            "en-US": "D. 18 - The Holy Spirit as gift",
+            "la": "D. 18 - The Holy Spirit as gift"
+          }
+        },
+        {
+          "id": "p1-sent-c20",
+          "title": {
+            "en-US": "D. 19 - Equality of the divine persons",
+            "la": "D. 19 - Equality of the divine persons"
+          }
+        },
+        {
+          "id": "p1-sent-c21",
+          "title": {
+            "en-US": "D. 20 - Equality of the divine persons in power",
+            "la": "D. 20 - Equality of the divine persons in power"
           }
         }
       ]
     },
     {
-      "id": "book-2",
+      "id": "p2",
       "title": {
-        "en-US": "Book I (Distinctions)",
-        "la": "Liber I (Distinctiones)"
+        "en-US": "Book I (d. 21-48)",
+        "la": "Liber I (d. 21-48)"
       },
       "children": [
         {
-          "id": "b2-ch001",
+          "id": "p2-sent-c01",
           "title": {
-            "en-US": "Section 1 — COMMENTARY ON THE SENTENCES",
-            "la": "Sectio 1 — COMMENTARY ON THE SENTENCES"
+            "en-US": "D. 21 - Exclusive diction in the divine",
+            "la": "D. 21 - Exclusive diction in the divine"
+          }
+        },
+        {
+          "id": "p2-sent-c02",
+          "title": {
+            "en-US": "D. 22 - Division of the divine names",
+            "la": "D. 22 - Division of the divine names"
+          }
+        },
+        {
+          "id": "p2-sent-c03",
+          "title": {
+            "en-US": "D. 23 - The name “person”",
+            "la": "D. 23 - The name “person”"
+          }
+        },
+        {
+          "id": "p2-sent-c04",
+          "title": {
+            "en-US": "D. 24 - Names signifying unity and plurality in the divine",
+            "la": "D. 24 - Names signifying unity and plurality in the divine"
+          }
+        },
+        {
+          "id": "p2-sent-c05",
+          "title": {
+            "en-US": "D. 25 - The name “person” when signified in the plural",
+            "la": "D. 25 - The name “person” when signified in the plural"
+          }
+        },
+        {
+          "id": "p2-sent-c06",
+          "title": {
+            "en-US": "D. 26 - The personal properties of the divine persons",
+            "la": "D. 26 - The personal properties of the divine persons"
+          }
+        },
+        {
+          "id": "p2-sent-c07",
+          "title": {
+            "en-US": "D. 27 - The properties in connection with the names of the divine persons",
+            "la": "D. 27 - The properties in connection with the names of the divine persons"
+          }
+        },
+        {
+          "id": "p2-sent-c08",
+          "title": {
+            "en-US": "D. 28 - Non-personal properties of the divine persons",
+            "la": "D. 28 - Non-personal properties of the divine persons"
+          }
+        },
+        {
+          "id": "p2-sent-c09",
+          "title": {
+            "en-US": "D. 29 - The name “principle”",
+            "la": "D. 29 - The name “principle”"
+          }
+        },
+        {
+          "id": "p2-sent-c10",
+          "title": {
+            "en-US": "D. 30 - Things said of God from time",
+            "la": "D. 30 - Things said of God from time"
+          }
+        },
+        {
+          "id": "p2-sent-c11",
+          "title": {
+            "en-US": "D. 31 - Appropriations of the divine persons",
+            "la": "D. 31 - Appropriations of the divine persons"
+          }
+        },
+        {
+          "id": "p2-sent-c12",
+          "title": {
+            "en-US": "D. 32 - Comparison of the divine persons according to things proper or appropriated",
+            "la": "D. 32 - Comparison of the divine persons according to things proper or appropriated"
+          }
+        },
+        {
+          "id": "p2-sent-c13",
+          "title": {
+            "en-US": "D. 33 - How the properties are compared to the essence and the person",
+            "la": "D. 33 - How the properties are compared to the essence and the person"
+          }
+        },
+        {
+          "id": "p2-sent-c14",
+          "title": {
+            "en-US": "D. 34 - Comparison of the essence to the person",
+            "la": "D. 34 - Comparison of the essence to the person"
+          }
+        },
+        {
+          "id": "p2-sent-c15",
+          "title": {
+            "en-US": "D. 35 - Divine knowledge",
+            "la": "D. 35 - Divine knowledge"
+          }
+        },
+        {
+          "id": "p2-sent-c16",
+          "title": {
+            "en-US": "D. 36 - The realities that God knows",
+            "la": "D. 36 - The realities that God knows"
+          }
+        },
+        {
+          "id": "p2-sent-c17",
+          "title": {
+            "en-US": "D. 37 - How God is in realities",
+            "la": "D. 37 - How God is in realities"
+          }
+        },
+        {
+          "id": "p2-sent-c18",
+          "title": {
+            "en-US": "D. 38 - Whether divine knowledge is the cause of what is known",
+            "la": "D. 38 - Whether divine knowledge is the cause of what is known"
+          }
+        },
+        {
+          "id": "p2-sent-c19",
+          "title": {
+            "en-US": "D. 39 - How divine knowledge is the cause of what is known",
+            "la": "D. 39 - How divine knowledge is the cause of what is known"
+          }
+        },
+        {
+          "id": "p2-sent-c20",
+          "title": {
+            "en-US": "D. 40 - Predestination",
+            "la": "D. 40 - Predestination"
+          }
+        },
+        {
+          "id": "p2-sent-c21",
+          "title": {
+            "en-US": "D. 41 - Causality of predestination",
+            "la": "D. 41 - Causality of predestination"
+          }
+        },
+        {
+          "id": "p2-sent-c22",
+          "title": {
+            "en-US": "D. 42 - The Power of God",
+            "la": "D. 42 - The Power of God"
+          }
+        },
+        {
+          "id": "p2-sent-c23",
+          "title": {
+            "en-US": "D. 43 - Whether the power of God is limited to realities that occur",
+            "la": "D. 43 - Whether the power of God is limited to realities that occur"
+          }
+        },
+        {
+          "id": "p2-sent-c24",
+          "title": {
+            "en-US": "D. 44 - Whether the power of God is limited to the quality of things",
+            "la": "D. 44 - Whether the power of God is limited to the quality of things"
+          }
+        },
+        {
+          "id": "p2-sent-c25",
+          "title": {
+            "en-US": "D. 45 - The Will of God",
+            "la": "D. 45 - The Will of God"
+          }
+        },
+        {
+          "id": "p2-sent-c26",
+          "title": {
+            "en-US": "D. 46 - Certain things that seem to show the inefficacy of the divine will",
+            "la": "D. 46 - Certain things that seem to show the inefficacy of the divine will"
+          }
+        },
+        {
+          "id": "p2-sent-c27",
+          "title": {
+            "en-US": "D. 47 - Efficacy of the will of God",
+            "la": "D. 47 - Efficacy of the will of God"
+          }
+        },
+        {
+          "id": "p2-sent-c28",
+          "title": {
+            "en-US": "D. 48 - Conformity of our will to the will of God",
+            "la": "D. 48 - Conformity of our will to the will of God"
           }
         }
       ]
     },
     {
-      "id": "book-3",
+      "id": "p3",
       "title": {
-        "en-US": "Book II (Distinctions)",
-        "la": "Liber II (Distinctiones)"
+        "en-US": "Book II (d. 1-20)",
+        "la": "Liber II (d. 1-20)"
       },
       "children": [
         {
-          "id": "b3-ch001",
+          "id": "p3-sent-c01",
           "title": {
-            "en-US": "Section 1 — COMMENTARY ON THE SENTENCES",
-            "la": "Sectio 1 — COMMENTARY ON THE SENTENCES"
+            "en-US": "Prologue",
+            "la": "Prologue"
+          }
+        },
+        {
+          "id": "p3-sent-c02",
+          "title": {
+            "en-US": "D. 1 - The procession of created things",
+            "la": "D. 1 - The procession of created things"
+          }
+        },
+        {
+          "id": "p3-sent-c03",
+          "title": {
+            "en-US": "D. 2 - Purely spiritual creation",
+            "la": "D. 2 - Purely spiritual creation"
+          }
+        },
+        {
+          "id": "p3-sent-c04",
+          "title": {
+            "en-US": "D. 3 - Condition of the angels at their creation",
+            "la": "D. 3 - Condition of the angels at their creation"
+          }
+        },
+        {
+          "id": "p3-sent-c05",
+          "title": {
+            "en-US": "D. 4 - Condition of the angels with regard to glory and wretchedness",
+            "la": "D. 4 - Condition of the angels with regard to glory and wretchedness"
+          }
+        },
+        {
+          "id": "p3-sent-c06",
+          "title": {
+            "en-US": "D. 5 - Conversion and fall of the angels",
+            "la": "D. 5 - Conversion and fall of the angels"
+          }
+        },
+        {
+          "id": "p3-sent-c07",
+          "title": {
+            "en-US": "D. 6 - Effects of the fall of the angels with regard to their nature",
+            "la": "D. 6 - Effects of the fall of the angels with regard to their nature"
+          }
+        },
+        {
+          "id": "p3-sent-c08",
+          "title": {
+            "en-US": "D. 7 - Power of the angels",
+            "la": "D. 7 - Power of the angels"
+          }
+        },
+        {
+          "id": "p3-sent-c09",
+          "title": {
+            "en-US": "D. 8 - Angels and the assumption of bodies",
+            "la": "D. 8 - Angels and the assumption of bodies"
+          }
+        },
+        {
+          "id": "p3-sent-c10",
+          "title": {
+            "en-US": "D. 9 - Distinctions among the orders of the good angels",
+            "la": "D. 9 - Distinctions among the orders of the good angels"
+          }
+        },
+        {
+          "id": "p3-sent-c11",
+          "title": {
+            "en-US": "D. 10 - Angelic acts that follow on the distinct orders",
+            "la": "D. 10 - Angelic acts that follow on the distinct orders"
+          }
+        },
+        {
+          "id": "p3-sent-c12",
+          "title": {
+            "en-US": "D. 11 - Angelic guardianship",
+            "la": "D. 11 - Angelic guardianship"
+          }
+        },
+        {
+          "id": "p3-sent-c13",
+          "title": {
+            "en-US": "D. 12 - Purely bodily creation",
+            "la": "D. 12 - Purely bodily creation"
+          }
+        },
+        {
+          "id": "p3-sent-c14",
+          "title": {
+            "en-US": "D. 13 - Work of distinction of the first day",
+            "la": "D. 13 - Work of distinction of the first day"
+          }
+        },
+        {
+          "id": "p3-sent-c15",
+          "title": {
+            "en-US": "D. 14 - Work of distinction of the second and third days",
+            "la": "D. 14 - Work of distinction of the second and third days"
+          }
+        },
+        {
+          "id": "p3-sent-c16",
+          "title": {
+            "en-US": "D. 15 - Work of adornment of the fourth, fifth, and sixth days, and the seventh day’s rest",
+            "la": "D. 15 - Work of adornment of the fourth, fifth, and sixth days, and the seventh day’s rest"
+          }
+        },
+        {
+          "id": "p3-sent-c17",
+          "title": {
+            "en-US": "D. 16 - Creation of man in God’s image and likeness",
+            "la": "D. 16 - Creation of man in God’s image and likeness"
+          }
+        },
+        {
+          "id": "p3-sent-c18",
+          "title": {
+            "en-US": "D. 17 - Creation of man in regard to the constitution of his parts",
+            "la": "D. 17 - Creation of man in regard to the constitution of his parts"
+          }
+        },
+        {
+          "id": "p3-sent-c19",
+          "title": {
+            "en-US": "D. 18 - Creation of woman",
+            "la": "D. 18 - Creation of woman"
+          }
+        },
+        {
+          "id": "p3-sent-c20",
+          "title": {
+            "en-US": "D. 19 - Immortality in the original state of man",
+            "la": "D. 19 - Immortality in the original state of man"
+          }
+        },
+        {
+          "id": "p3-sent-c21",
+          "title": {
+            "en-US": "D. 20 - Generation of children in the original state of man",
+            "la": "D. 20 - Generation of children in the original state of man"
           }
         }
       ]
     },
     {
-      "id": "book-4",
+      "id": "p4",
       "title": {
-        "en-US": "Book III (Distinctions)",
-        "la": "Liber III (Distinctiones)"
+        "en-US": "Book II (d. 21-44)",
+        "la": "Liber II (d. 21-44)"
       },
       "children": [
         {
-          "id": "b4-ch001",
+          "id": "p4-sent-c01",
           "title": {
-            "en-US": "Section 1 — COMMENTARY ON THE SENTENCES",
-            "la": "Sectio 1 — COMMENTARY ON THE SENTENCES"
+            "en-US": "D. 21 - Temptation of our first parents",
+            "la": "D. 21 - Temptation of our first parents"
+          }
+        },
+        {
+          "id": "p4-sent-c02",
+          "title": {
+            "en-US": "D. 22 - First sin of man",
+            "la": "D. 22 - First sin of man"
+          }
+        },
+        {
+          "id": "p4-sent-c03",
+          "title": {
+            "en-US": "D. 23 - Divine permission of the first sin",
+            "la": "D. 23 - Divine permission of the first sin"
+          }
+        },
+        {
+          "id": "p4-sent-c04",
+          "title": {
+            "en-US": "D. 24 - Natural power of man in his original state",
+            "la": "D. 24 - Natural power of man in his original state"
+          }
+        },
+        {
+          "id": "p4-sent-c05",
+          "title": {
+            "en-US": "D. 25 - Conditions of free decision",
+            "la": "D. 25 - Conditions of free decision"
+          }
+        },
+        {
+          "id": "p4-sent-c06",
+          "title": {
+            "en-US": "D. 26 - Grace",
+            "la": "D. 26 - Grace"
+          }
+        },
+        {
+          "id": "p4-sent-c07",
+          "title": {
+            "en-US": "D. 27 - Virtue",
+            "la": "D. 27 - Virtue"
+          }
+        },
+        {
+          "id": "p4-sent-c08",
+          "title": {
+            "en-US": "D. 28 - Errors about grace",
+            "la": "D. 28 - Errors about grace"
+          }
+        },
+        {
+          "id": "p4-sent-c09",
+          "title": {
+            "en-US": "D. 29 - Grace in the original state of man",
+            "la": "D. 29 - Grace in the original state of man"
+          }
+        },
+        {
+          "id": "p4-sent-c10",
+          "title": {
+            "en-US": "D. 30 - Original sin",
+            "la": "D. 30 - Original sin"
+          }
+        },
+        {
+          "id": "p4-sent-c11",
+          "title": {
+            "en-US": "D. 31 - Principle of original sin",
+            "la": "D. 31 - Principle of original sin"
+          }
+        },
+        {
+          "id": "p4-sent-c12",
+          "title": {
+            "en-US": "D. 32 - Remission of original sin",
+            "la": "D. 32 - Remission of original sin"
+          }
+        },
+        {
+          "id": "p4-sent-c13",
+          "title": {
+            "en-US": "D. 33 - Number of original sin",
+            "la": "D. 33 - Number of original sin"
+          }
+        },
+        {
+          "id": "p4-sent-c14",
+          "title": {
+            "en-US": "D. 34 - Actual sin as regards the account of evil",
+            "la": "D. 34 - Actual sin as regards the account of evil"
+          }
+        },
+        {
+          "id": "p4-sent-c15",
+          "title": {
+            "en-US": "D. 35 - Evil of fault",
+            "la": "D. 35 - Evil of fault"
+          }
+        },
+        {
+          "id": "p4-sent-c16",
+          "title": {
+            "en-US": "D. 36 - Sin and punishment",
+            "la": "D. 36 - Sin and punishment"
+          }
+        },
+        {
+          "id": "p4-sent-c17",
+          "title": {
+            "en-US": "D. 37 - Cause of sin and punishment",
+            "la": "D. 37 - Cause of sin and punishment"
+          }
+        },
+        {
+          "id": "p4-sent-c18",
+          "title": {
+            "en-US": "D. 38 - The act of the will",
+            "la": "D. 38 - The act of the will"
+          }
+        },
+        {
+          "id": "p4-sent-c19",
+          "title": {
+            "en-US": "D. 39 - How sin can be in the will",
+            "la": "D. 39 - How sin can be in the will"
+          }
+        },
+        {
+          "id": "p4-sent-c20",
+          "title": {
+            "en-US": "D. 40 - How external acts are good or evil",
+            "la": "D. 40 - How external acts are good or evil"
+          }
+        },
+        {
+          "id": "p4-sent-c21",
+          "title": {
+            "en-US": "D. 41 - The act of sin in comparison to the intention and the will",
+            "la": "D. 41 - The act of sin in comparison to the intention and the will"
+          }
+        },
+        {
+          "id": "p4-sent-c22",
+          "title": {
+            "en-US": "D. 42 - Parts and modes of sin",
+            "la": "D. 42 - Parts and modes of sin"
+          }
+        },
+        {
+          "id": "p4-sent-c23",
+          "title": {
+            "en-US": "D. 43 - The sin against the Holy Spirit",
+            "la": "D. 43 - The sin against the Holy Spirit"
+          }
+        },
+        {
+          "id": "p4-sent-c24",
+          "title": {
+            "en-US": "D. 44 - The power to sin",
+            "la": "D. 44 - The power to sin"
           }
         }
       ]
     },
     {
-      "id": "book-5",
+      "id": "p5",
       "title": {
-        "en-US": "Book IV (Distinctions)",
-        "la": "Liber IV (Distinctiones)"
+        "en-US": "Book III (d. 1-22)",
+        "la": "Liber III (d. 1-22)"
       },
       "children": [
         {
-          "id": "b5-ch001",
+          "id": "p5-sent-c01",
           "title": {
-            "en-US": "Section 1 — COMMENTARY ON THE SENTENCES",
-            "la": "Sectio 1 — COMMENTARY ON THE SENTENCES"
+            "en-US": "Prologue",
+            "la": "Prologue"
+          }
+        },
+        {
+          "id": "p5-sent-c02",
+          "title": {
+            "en-US": "D. 1 - The Incarnation",
+            "la": "D. 1 - The Incarnation"
+          }
+        },
+        {
+          "id": "p5-sent-c03",
+          "title": {
+            "en-US": "D. 2 - The nature assumed in the Incarnation",
+            "la": "D. 2 - The nature assumed in the Incarnation"
+          }
+        },
+        {
+          "id": "p5-sent-c04",
+          "title": {
+            "en-US": "D. 3 - How the human nature was assumed",
+            "la": "D. 3 - How the human nature was assumed"
+          }
+        },
+        {
+          "id": "p5-sent-c05",
+          "title": {
+            "en-US": "D. 4 - Agencies in the conception of Christ",
+            "la": "D. 4 - Agencies in the conception of Christ"
+          }
+        },
+        {
+          "id": "p5-sent-c06",
+          "title": {
+            "en-US": "D. 5 - The union in the Incarnation",
+            "la": "D. 5 - The union in the Incarnation"
+          }
+        },
+        {
+          "id": "p5-sent-c07",
+          "title": {
+            "en-US": "D. 6 - The mode of union",
+            "la": "D. 6 - The mode of union"
+          }
+        },
+        {
+          "id": "p5-sent-c08",
+          "title": {
+            "en-US": "D. 7 - Interpretation of expressions signifying the union",
+            "la": "D. 7 - Interpretation of expressions signifying the union"
+          }
+        },
+        {
+          "id": "p5-sent-c09",
+          "title": {
+            "en-US": "D. 8 - What belongs to the divine nature on account of the union",
+            "la": "D. 8 - What belongs to the divine nature on account of the union"
+          }
+        },
+        {
+          "id": "p5-sent-c10",
+          "title": {
+            "en-US": "D. 9 - What belongs to the human nature on account of the union",
+            "la": "D. 9 - What belongs to the human nature on account of the union"
+          }
+        },
+        {
+          "id": "p5-sent-c11",
+          "title": {
+            "en-US": "D. 10 - What belongs to the divine person on account of the union",
+            "la": "D. 10 - What belongs to the divine person on account of the union"
+          }
+        },
+        {
+          "id": "p5-sent-c12",
+          "title": {
+            "en-US": "D. 11 - Christ as a creature",
+            "la": "D. 11 - Christ as a creature"
+          }
+        },
+        {
+          "id": "p5-sent-c13",
+          "title": {
+            "en-US": "D. 12 - Defects of Christ's human nature as created",
+            "la": "D. 12 - Defects of Christ's human nature as created"
+          }
+        },
+        {
+          "id": "p5-sent-c14",
+          "title": {
+            "en-US": "D. 13 - Perfections of human nature of Christ",
+            "la": "D. 13 - Perfections of human nature of Christ"
+          }
+        },
+        {
+          "id": "p5-sent-c15",
+          "title": {
+            "en-US": "D. 14 - Human knowledge and power of Christ",
+            "la": "D. 14 - Human knowledge and power of Christ"
+          }
+        },
+        {
+          "id": "p5-sent-c16",
+          "title": {
+            "en-US": "D. 15 - Defects assumed with human nature of Christ",
+            "la": "D. 15 - Defects assumed with human nature of Christ"
+          }
+        },
+        {
+          "id": "p5-sent-c17",
+          "title": {
+            "en-US": "D. 16 - Necessity of Christ's suffering and death",
+            "la": "D. 16 - Necessity of Christ's suffering and death"
+          }
+        },
+        {
+          "id": "p5-sent-c18",
+          "title": {
+            "en-US": "D. 17 - The will of Christ",
+            "la": "D. 17 - The will of Christ"
+          }
+        },
+        {
+          "id": "p5-sent-c19",
+          "title": {
+            "en-US": "D. 18 - Christ's merit as ordered to the good",
+            "la": "D. 18 - Christ's merit as ordered to the good"
+          }
+        },
+        {
+          "id": "p5-sent-c20",
+          "title": {
+            "en-US": "D. 19 - Christ's merit as ordered to taking away evil",
+            "la": "D. 19 - Christ's merit as ordered to taking away evil"
+          }
+        },
+        {
+          "id": "p5-sent-c21",
+          "title": {
+            "en-US": "D. 20 - Causes of the Passion",
+            "la": "D. 20 - Causes of the Passion"
+          }
+        },
+        {
+          "id": "p5-sent-c22",
+          "title": {
+            "en-US": "D. 21 - Death and resurrection of Christ",
+            "la": "D. 21 - Death and resurrection of Christ"
+          }
+        },
+        {
+          "id": "p5-sent-c23",
+          "title": {
+            "en-US": "D. 22 - What follows from the death of Christ",
+            "la": "D. 22 - What follows from the death of Christ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "title": {
+        "en-US": "Book III (d. 23-40)",
+        "la": "Liber III (d. 23-40)"
+      },
+      "children": [
+        {
+          "id": "p6-sent-c01",
+          "title": {
+            "en-US": "D. 23 - The virtues and faith",
+            "la": "D. 23 - The virtues and faith"
+          }
+        },
+        {
+          "id": "p6-sent-c02",
+          "title": {
+            "en-US": "D. 24 - Object of faith",
+            "la": "D. 24 - Object of faith"
+          }
+        },
+        {
+          "id": "p6-sent-c03",
+          "title": {
+            "en-US": "D. 25 - Articles of faith",
+            "la": "D. 25 - Articles of faith"
+          }
+        },
+        {
+          "id": "p6-sent-c04",
+          "title": {
+            "en-US": "D. 26 - Hope",
+            "la": "D. 26 - Hope"
+          }
+        },
+        {
+          "id": "p6-sent-c05",
+          "title": {
+            "en-US": "D. 27 - Charity",
+            "la": "D. 27 - Charity"
+          }
+        },
+        {
+          "id": "p6-sent-c06",
+          "title": {
+            "en-US": "D. 28 - The command to love one's neighbor",
+            "la": "D. 28 - The command to love one's neighbor"
+          }
+        },
+        {
+          "id": "p6-sent-c07",
+          "title": {
+            "en-US": "D. 29 - Order of charity",
+            "la": "D. 29 - Order of charity"
+          }
+        },
+        {
+          "id": "p6-sent-c08",
+          "title": {
+            "en-US": "D. 30 - Order of charity as regards merit",
+            "la": "D. 30 - Order of charity as regards merit"
+          }
+        },
+        {
+          "id": "p6-sent-c09",
+          "title": {
+            "en-US": "D. 31 - Duration of charity",
+            "la": "D. 31 - Duration of charity"
+          }
+        },
+        {
+          "id": "p6-sent-c10",
+          "title": {
+            "en-US": "D. 32 - God's charity for us",
+            "la": "D. 32 - God's charity for us"
+          }
+        },
+        {
+          "id": "p6-sent-c11",
+          "title": {
+            "en-US": "D. 33 - Cardinal virtues",
+            "la": "D. 33 - Cardinal virtues"
+          }
+        },
+        {
+          "id": "p6-sent-c12",
+          "title": {
+            "en-US": "D. 34 - Gifts of the Holy Spirit: fear, fortitude, and piety",
+            "la": "D. 34 - Gifts of the Holy Spirit: fear, fortitude, and piety"
+          }
+        },
+        {
+          "id": "p6-sent-c13",
+          "title": {
+            "en-US": "D. 35 - Gifts of the Holy Spirit: wisdom, understanding, knowledge, and counsel",
+            "la": "D. 35 - Gifts of the Holy Spirit: wisdom, understanding, knowledge, and counsel"
+          }
+        },
+        {
+          "id": "p6-sent-c14",
+          "title": {
+            "en-US": "D. 36 - Interconnection of the virtues",
+            "la": "D. 36 - Interconnection of the virtues"
+          }
+        },
+        {
+          "id": "p6-sent-c15",
+          "title": {
+            "en-US": "D. 37 - Precepts of the law",
+            "la": "D. 37 - Precepts of the law"
+          }
+        },
+        {
+          "id": "p6-sent-c16",
+          "title": {
+            "en-US": "D. 38 - Lying",
+            "la": "D. 38 - Lying"
+          }
+        },
+        {
+          "id": "p6-sent-c17",
+          "title": {
+            "en-US": "D. 39 - Perjury and oaths",
+            "la": "D. 39 - Perjury and oaths"
+          }
+        },
+        {
+          "id": "p6-sent-c18",
+          "title": {
+            "en-US": "D. 40 - The last two precepts",
+            "la": "D. 40 - The last two precepts"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "title": {
+        "en-US": "Book IV (d. 1-13)",
+        "la": "Liber IV (d. 1-13)"
+      },
+      "children": [
+        {
+          "id": "p7-sent-c01",
+          "title": {
+            "en-US": "Prologue",
+            "la": "Prologue"
+          }
+        },
+        {
+          "id": "p7-sent-c02",
+          "title": {
+            "en-US": "D. 1 - Sacraments in general",
+            "la": "D. 1 - Sacraments in general"
+          }
+        },
+        {
+          "id": "p7-sent-c03",
+          "title": {
+            "en-US": "D. 2 - Sacraments of the New Law",
+            "la": "D. 2 - Sacraments of the New Law"
+          }
+        },
+        {
+          "id": "p7-sent-c04",
+          "title": {
+            "en-US": "D. 3 - Baptism in itself",
+            "la": "D. 3 - Baptism in itself"
+          }
+        },
+        {
+          "id": "p7-sent-c05",
+          "title": {
+            "en-US": "D. 4 - The effects of baptism",
+            "la": "D. 4 - The effects of baptism"
+          }
+        },
+        {
+          "id": "p7-sent-c06",
+          "title": {
+            "en-US": "D. 5 - The cause of baptism",
+            "la": "D. 5 - The cause of baptism"
+          }
+        },
+        {
+          "id": "p7-sent-c07",
+          "title": {
+            "en-US": "D. 6 - Conditions for baptism",
+            "la": "D. 6 - Conditions for baptism"
+          }
+        },
+        {
+          "id": "p7-sent-c08",
+          "title": {
+            "en-US": "D. 7 - Confirmation",
+            "la": "D. 7 - Confirmation"
+          }
+        },
+        {
+          "id": "p7-sent-c09",
+          "title": {
+            "en-US": "D. 8 - The sacrament of the Eucharist",
+            "la": "D. 8 - The sacrament of the Eucharist"
+          }
+        },
+        {
+          "id": "p7-sent-c10",
+          "title": {
+            "en-US": "D. 9 - Reception of the Eucharist",
+            "la": "D. 9 - Reception of the Eucharist"
+          }
+        },
+        {
+          "id": "p7-sent-c11",
+          "title": {
+            "en-US": "D. 10 - The body of Christ in the Eucharist",
+            "la": "D. 10 - The body of Christ in the Eucharist"
+          }
+        },
+        {
+          "id": "p7-sent-c12",
+          "title": {
+            "en-US": "D. 11 - Sacrament-and-reality in the Eucharist",
+            "la": "D. 11 - Sacrament-and-reality in the Eucharist"
+          }
+        },
+        {
+          "id": "p7-sent-c13",
+          "title": {
+            "en-US": "D. 12 - Appearance and effects of the Eucharist",
+            "la": "D. 12 - Appearance and effects of the Eucharist"
+          }
+        },
+        {
+          "id": "p7-sent-c14",
+          "title": {
+            "en-US": "D. 13 - Minister of the Eucharist",
+            "la": "D. 13 - Minister of the Eucharist"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "title": {
+        "en-US": "Book IV (d. 14-25)",
+        "la": "Liber IV (d. 14-25)"
+      },
+      "children": [
+        {
+          "id": "p8-sent-c01",
+          "title": {
+            "en-US": "D. 14 - Definition of penance",
+            "la": "D. 14 - Definition of penance"
+          }
+        },
+        {
+          "id": "p8-sent-c02",
+          "title": {
+            "en-US": "D. 15 - Requirements for penance",
+            "la": "D. 15 - Requirements for penance"
+          }
+        },
+        {
+          "id": "p8-sent-c03",
+          "title": {
+            "en-US": "D. 16 - Parts of penance",
+            "la": "D. 16 - Parts of penance"
+          }
+        },
+        {
+          "id": "p8-sent-c04",
+          "title": {
+            "en-US": "D. 17 - Comparing the parts of penance",
+            "la": "D. 17 - Comparing the parts of penance"
+          }
+        },
+        {
+          "id": "p8-sent-c05",
+          "title": {
+            "en-US": "D. 18 - Power of the keys",
+            "la": "D. 18 - Power of the keys"
+          }
+        },
+        {
+          "id": "p8-sent-c06",
+          "title": {
+            "en-US": "D. 19 - Use of the keys",
+            "la": "D. 19 - Use of the keys"
+          }
+        },
+        {
+          "id": "p8-sent-c07",
+          "title": {
+            "en-US": "D. 20 - Temporal aspects of penance",
+            "la": "D. 20 - Temporal aspects of penance"
+          }
+        },
+        {
+          "id": "p8-sent-c08",
+          "title": {
+            "en-US": "D. 21 - On purgatory and confession",
+            "la": "D. 21 - On purgatory and confession"
+          }
+        },
+        {
+          "id": "p8-sent-c09",
+          "title": {
+            "en-US": "D. 22 - On the effect of penance",
+            "la": "D. 22 - On the effect of penance"
+          }
+        },
+        {
+          "id": "p8-sent-c10",
+          "title": {
+            "en-US": "D. 23 - On extreme unction",
+            "la": "D. 23 - On extreme unction"
+          }
+        },
+        {
+          "id": "p8-sent-c11",
+          "title": {
+            "en-US": "D. 24 - Sacrament of holy orders",
+            "la": "D. 24 - Sacrament of holy orders"
+          }
+        },
+        {
+          "id": "p8-sent-c12",
+          "title": {
+            "en-US": "D. 25 - Conferral of holy orders",
+            "la": "D. 25 - Conferral of holy orders"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "title": {
+        "en-US": "Book IV (d. 26-42)",
+        "la": "Liber IV (d. 26-42)"
+      },
+      "children": [
+        {
+          "id": "p9-sent-c01",
+          "title": {
+            "en-US": "D. 26 - On matrimony",
+            "la": "D. 26 - On matrimony"
+          }
+        },
+        {
+          "id": "p9-sent-c02",
+          "title": {
+            "en-US": "D. 27 - On the cause of marriage",
+            "la": "D. 27 - On the cause of marriage"
+          }
+        },
+        {
+          "id": "p9-sent-c03",
+          "title": {
+            "en-US": "D. 28 - On marital consent",
+            "la": "D. 28 - On marital consent"
+          }
+        },
+        {
+          "id": "p9-sent-c04",
+          "title": {
+            "en-US": "D. 29 - On the impediment of compulsion",
+            "la": "D. 29 - On the impediment of compulsion"
+          }
+        },
+        {
+          "id": "p9-sent-c05",
+          "title": {
+            "en-US": "D. 30 - On the impediment of error",
+            "la": "D. 30 - On the impediment of error"
+          }
+        },
+        {
+          "id": "p9-sent-c06",
+          "title": {
+            "en-US": "D. 31 - On the goods of marriage and the marital act",
+            "la": "D. 31 - On the goods of marriage and the marital act"
+          }
+        },
+        {
+          "id": "p9-sent-c07",
+          "title": {
+            "en-US": "D. 32 - The marital debt",
+            "la": "D. 32 - The marital debt"
+          }
+        },
+        {
+          "id": "p9-sent-c08",
+          "title": {
+            "en-US": "D. 33 - On the development of marriage",
+            "la": "D. 33 - On the development of marriage"
+          }
+        },
+        {
+          "id": "p9-sent-c09",
+          "title": {
+            "en-US": "D. 34 - On personal impediments",
+            "la": "D. 34 - On personal impediments"
+          }
+        },
+        {
+          "id": "p9-sent-c10",
+          "title": {
+            "en-US": "D. 35 - On fornication",
+            "la": "D. 35 - On fornication"
+          }
+        },
+        {
+          "id": "p9-sent-c11",
+          "title": {
+            "en-US": "D. 36 - The impediment of slavery",
+            "la": "D. 36 - The impediment of slavery"
+          }
+        },
+        {
+          "id": "p9-sent-c12",
+          "title": {
+            "en-US": "D. 37 - On holy orders and uxoricide",
+            "la": "D. 37 - On holy orders and uxoricide"
+          }
+        },
+        {
+          "id": "p9-sent-c13",
+          "title": {
+            "en-US": "D. 38 - On religious vows",
+            "la": "D. 38 - On religious vows"
+          }
+        },
+        {
+          "id": "p9-sent-c14",
+          "title": {
+            "en-US": "D. 39 - On mixed marriages",
+            "la": "D. 39 - On mixed marriages"
+          }
+        },
+        {
+          "id": "p9-sent-c15",
+          "title": {
+            "en-US": "D. 40 - On consanguinity",
+            "la": "D. 40 - On consanguinity"
+          }
+        },
+        {
+          "id": "p9-sent-c16",
+          "title": {
+            "en-US": "D. 41 - On affinity",
+            "la": "D. 41 - On affinity"
+          }
+        },
+        {
+          "id": "p9-sent-c17",
+          "title": {
+            "en-US": "D. 42 - On the impediment of a spiritual relationship",
+            "la": "D. 42 - On the impediment of a spiritual relationship"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "title": {
+        "en-US": "Book IV (d. 43-50)",
+        "la": "Liber IV (d. 43-50)"
+      },
+      "children": [
+        {
+          "id": "p10-sent-c01",
+          "title": {
+            "en-US": "D. 43 - The resurrection of the body",
+            "la": "D. 43 - The resurrection of the body"
+          }
+        },
+        {
+          "id": "p10-sent-c02",
+          "title": {
+            "en-US": "D. 44 - Those who will rise",
+            "la": "D. 44 - Those who will rise"
+          }
+        },
+        {
+          "id": "p10-sent-c03",
+          "title": {
+            "en-US": "D. 45 - Before the general judgment",
+            "la": "D. 45 - Before the general judgment"
+          }
+        },
+        {
+          "id": "p10-sent-c04",
+          "title": {
+            "en-US": "D. 46 - Divine justice and mercy",
+            "la": "D. 46 - Divine justice and mercy"
+          }
+        },
+        {
+          "id": "p10-sent-c05",
+          "title": {
+            "en-US": "D. 47 - The general judgment",
+            "la": "D. 47 - The general judgment"
+          }
+        },
+        {
+          "id": "p10-sent-c06",
+          "title": {
+            "en-US": "D. 48 - The second coming",
+            "la": "D. 48 - The second coming"
+          }
+        },
+        {
+          "id": "p10-sent-c07",
+          "title": {
+            "en-US": "D. 49 - The rewards of the blessed",
+            "la": "D. 49 - The rewards of the blessed"
+          }
+        },
+        {
+          "id": "p10-sent-c08",
+          "title": {
+            "en-US": "D. 50 - Separated souls and the damned",
+            "la": "D. 50 - Separated souls and the damned"
           }
         }
       ]

@@ -1,9 +1,9 @@
-# Quaestio 102 — Deinde considerandum est de loco hominis, qui est Paradisus. Et circa hoc quaeruntur quatuor.
+# Quaestio 102
 
-Primo, utrum Paradisus sit locus corporeus.
+Deinde considerandum est de loco hominis, qui est Paradisus. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum sit conveniens locus habitationis humanae.
+Primo, utrum Paradisus sit locus corporeus.  
 
-Tertio, ad quid homo in Paradiso positus fuit.
-
-Quarto, utrum in Paradiso debuit fieri.
+- Secundo, utrum sit conveniens locus habitationis humanae.
+- Tertio, ad quid homo in Paradiso positus fuit.
+- Quarto, utrum in Paradiso debuit fieri.

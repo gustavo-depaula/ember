@@ -1,151 +1,181 @@
-# Chapter 65
+# Chapter 63
 
-> ^65:2^ I have spread forth my hands all the day to an unbelieving people, who walk in a way that is not good after their own thoughts.
+^63:1^ Who is this that comes from Edom, with dyed garments from Bosra, this beautiful one in his robe, walking in the greatness of his strength? I, that speak justice, and am a defender to save.  
 
-> ^65:3^ A people that continually provoke me to anger before my face, that immolate in gardens, and sacrifice upon bricks.
+> ^63:2^ Why then is your apparel red, and your garments like theirs that tread in the winepress?
 
-> ^65:4^ That dwell in sepulchers, and sleep in the temples*Delubris*. DR: “temple.” of idols: that eat swine’s flesh, and profane broth is in their vessels.
+> ^63:3^ I have trodden the winepress alone, and of the Gentiles there is not a man with me: I have trampled on them in my indignation, and have trodden them down in my wrath, and their blood is sprinkled upon my garments, and I have stained all my apparel.
 
-> ^65:5^ That say: depart from me, come not near me, because you are unclean: these shall be smoke in my anger, a fire burning all the day.
+> ^63:4^ For the day of vengeance is in my heart, the year of my redemption is come.
 
-> ^65:6^ Behold it is written before me: I will not be silent, but I will render and repay into their bosom.
+> ^63:5^ I looked about, and there was none to help: I sought, and there was none to give aid: and my own arm has saved for me, and my indignation itself has helped me.
 
-> ^65:7^ Your iniquities, and the iniquities of your fathers together, says the Lord, who have sacrificed upon the mountains, and have reproached me upon the hills; and I will measure back their first work in their bosom.
+> ^63:6^ And I have trodden down the people in my wrath, and have made them drunk in my indignation, and have brought down their strength to the earth.
 
-> ^65:8^ Thus says the Lord: as if a grain be found in a cluster, and it be said: destroy it not, because it is a blessing: so will I do for the sake of my servants, that I may not destroy the whole.
+> ^63:7^ I will remember the tender mercies of the Lord, the praise of the Lord for all the things that the Lord has bestowed upon us, and for the multitude of his good things to the house of Israel, which he has given them according to his kindness, and according to the multitude of his mercies.
 
-> ^65:9^ And I will bring forth a seed out of Jacob, and out of Judah a possessor of my mountains: and my elect shall inherit it, and my servants shall dwell there.
+> ^63:8^ And he said: surely they are my people, children that will not deny: so he became their savior.
 
-> ^65:10^ And the plains shall be turned to folds of flocks, and the valley of Achor into a place for the herds to lie down in, for my people that have sought me.
+> ^63:9^ In all their affliction he was not troubled, and the angel of his face *(*Faciei*. DR: “presence.”)* saved them: in his love, and in his mercy he redeemed them, and he carried them and lifted them up all the days of old.
 
-> ^65:11^ And you, that have forsaken the Lord, that have forgotten my holy mount, that set a table for fortune, and offer libations upon it,
+> ^63:10^ But they provoked to wrath, and afflicted the spirit of his Holy One: and he was turned to be their enemy, and he fought against them.
 
-> ^65:12^ I will number you in the sword, and you shall all fall by slaughter: because I called and you did not answer: I spoke, and you did not hear: and you did evil in my eyes, and you have chosen the things that displease me.
+> ^63:11^ And he remembered the days of old of Moses, and of his people: where is he that brought them up out of the sea, with the shepherds of his flock? Where is he that put in the midst of them the spirit of his Holy One?
 
-> ^65:13^ Therefore thus says the Lord God: behold my servants shall eat, and you shall be hungry: behold my servants shall drink, and you shall be thirsty.
+> ^63:12^ He that brought out Moses by the right hand, by the arm of his majesty: that divided the waters before them, to make himself an everlasting name.
 
-> ^65:14^ Behold my servants shall rejoice, and you shall be confounded: behold my servants shall praise for joyfulness of heart, and you shall cry for sorrow of heart, and shall howl for grief of spirit.
+> ^63:13^ He that led them out through the deep, as a horse in the wilderness that stumbles not.
 
-> ^65:15^ And you shall leave your name for an oath*Iuramentum*. DR: “execration.” to my elect: and the Lord God shall slay you, and call his servants by another name.
+> ^63:14^ As a beast that goes down in the field, the spirit of the Lord was their leader: so didst you lead your people to make yourself a glorious name.
 
-> ^65:16^ In which he that is blessed upon the earth, shall be blessed in God, amen: and he that swears in the earth, shall swear by God, amen: because the former distresses are forgotten, and because they are hid from our eyes.
+> ^63:15^ Look down from heaven, and behold from your holy habitation and the place of your glory: where is your zeal, and your strength, the multitude of your bowels, and of your mercies? They have held back themselves from me.
 
-> ^65:17^ For behold I create new heavens, and a new earth: and the former things shall not be in remembrance, and they shall not come upon the heart.
+> ^63:16^ For you are our father, and Abraham has not known us, and Israel has been ignorant of us: you, O Lord, are our father, our redeemer, from everlasting is your name.
 
-> ^65:18^ But you shall be glad and rejoice for ever in these things, which I create: for behold I create Jerusalem a rejoicing, and the people thereof joy.
+> ^63:17^ Why have you made us to err, O Lord, from your ways: why have you hardened our heart, that we should not fear you? Return for the sake of your servants, the tribes of your inheritance.
 
-> ^65:19^ And I will rejoice in Jerusalem and joy in my people, and the voice of weeping shall no more be heard in her nor the voice of crying.
+> ^63:18^ They have possessed your holy people as nothing: our enemies have trodden down your sanctuary.
 
-> ^65:20^ There shall no more be an infant of days there, nor an old man that shall not fill up his days: for the child shall die a hundred years old, and the sinner being a hundred years old shall be accursed.
+> ^63:19^ We are become as in the beginning, when you didst not rule over us, and when we were not called by your name.
 
-> ^65:21^ And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruits of them.
+> **1095**. ***Who is this***. Here he begins to treat the separation of the wicked from the good in the execution of the promised salvation. And this is divided into three parts:
 
-> ^65:22^ They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree, so shall be the days of my people, and the works of their hands shall grow old.*Inveterabunt*. DR: “be of long continuance.”
+in the first, he introduces the judge, as though to distinguish between them;  
 
-> ^65:23^ My elect shall not labor in vain, nor bring forth in trouble; for they are the seed of the blessed of the Lord, and their posterity with them.
+in the second, he sets out a petition, to the judge, where it says, ***I will remember the tender mercies of the Lord*** (Isa 63:7);  
 
-> ^65:24^ And it shall come to pass, that before they call, I will hear; as they are yet speaking, I will hear.
+in the third, the judge wisely pronounces the separation: ***they have sought me*** (ch. 65).  
 
-> ^65:25^ The wolf and the lamb shall feed together; the lion and the ox shall eat straw; and dust shall be the serpent’s food: they shall not hurt nor kill in all my holy mountain, says the Lord.
+Concerning the first, he does two things:  
 
-> **1122**. ***They have sought me***. Here the judge, namely, God, gives the sentence of the separation of the wicked from the good, in the reception of the promised salvation. And this is divided into two parts:
+in the first, the question is raised of the person of the judge;  
 
-in the first, he pronounces the sentence of separation;
+in the second, the question of the quality of his clothing: ***why then is your apparel red?*** (Isa 63:2).  
 
-in the second, he determines the manner of execution: ***thus says the Lord*** (ch. 66).
+**1096**. Concerning the first, he does two things.  
 
-Concerning the first, he does two things.
+First, he sets out the question;  
 
-First, he promises a response, showing the opportunity of responding: ***they have sought me that before asked not for me***, as if to say: thus far, you Jews have not sought after me, but idols; because you ask, I will respond. Mystically, this concerns the conversion of the gentiles: *I was found by them that did not seek me* (Rom 10:20). And he sets out the promise: ***I said: behold me, behold me, to a nation***,*Gentem*. I will respond, namely, to the Jews, or I will be turned ***to the*** converted ***gentiles***,*Gentes*. *I to my beloved, and my beloved to me* (Song 6:2).
+second, the response: ***I, that speak justice***.  
 
-**1123**. Second, he sentences separation: ***I have spread forth my hands***.
+And it should be known that all the saints agree in explaining these words as referring to Christ; and the question comes from the angels, who indeed did not fully understand the mystery of the Incarnation of Christ, and therefore they asked as though ignorant, as Jerome says. *(*Commentary on Isaiah* ad loc. (610D; 721).)*  
 
-And first, he sentences the separation of the wicked from the good, because of sins of transgression;
+But Augustine seems to say the opposite of this on Genesis, *(*De Genesi ad litteram* 5.19.38 (PL 34, 334; CSEL 81–1, 162).)* where he says that from the beginning of their creation the angels knew everything that God was going to do, whether he imparted the seminal virtues of things to the things, or retained to himself alone that they *would* come to be, although it would inhere in things that they *could* come to be; and thus, it seems that they did understand the mystery in this way.  
 
-second, because of sins of omission: ***and you, that have forsaken*** (Isa 65:11).
+**1097**. To which the Gloss on Ephesians 3:8, *to me, the least of all the saints*, responds, saying that the greater angels understood the mystery, but the lesser angels, whose voice this is, did not know of it. Nevertheless, Dionysius seems to say otherwise in *De Cael. Hier*. 7.3; for he thinks that this question belongs to the supreme angels, who receive illuminations immediately from God; thus, God immediately responds to them: ***I, that speak***, although from reverence for Christ, they ask each other, like disciples waiting for the response of their teacher. But although the supreme angels knew mysteries of this kind as to the substance of the deed, nevertheless, they did not know them perfectly as to their particular circumstances; thus, the mystery is seen even better by a superior perfect intellect, namely, the divine intellect, than an angelic intellect: therefore, they seek to be more illuminated above this, that they might understand more perfectly.  
 
-The first of these is divided into two:
+**1098**. They are amazed, however, by three things.  
 
-in the first, he threatens punishment for the wicked;
+First, the coming of the victorious one: ***who is this that comes***, into heaven, ***from Edom***, earth, for “Edom” means “bloody” or “earthly”; ***with dyed garments from Bosra***, hell, formerly fortified by a guard of demons. “Bosra” is sometimes the proper name of a certain city in the land of Moab and is sometimes an appellative name, meaning a fortified land or city: thus, it is frequently used for the land of Idumea, which is fortified by mountains, but here it is used for Jerusalem, or hell. ***Garments***, that is, bodily members, ***dyed***, with the blood of his passion, above: ***behold it shall come down upon Idumea, and upon the people of my slaughter unto judgment*** (Isa 34:5).  
 
-in the second, he promises rewards for the good: ***thus says the Lord*** (Isa 65:8).
+Second, they are amazed at the beauty of his appearance: ***this beautiful*** (*formosus*) ***one***, from “formo,” hot, and thus someone is “formosus” who is roused up because of heat; *(Cf. Isidore, *Etymologies* 10.100.)* or from “form,” and thus he is called “formosus” because of his shape, that is, the proper symmetry of his members; ***in his robe***, in the clothing of humanity: *on whom the angels desire to look* (1 Pet 1:12).  
 
-Concerning the first, he does two things:
+Third, they doubt his powerful advance, ***walking***, into heaven, not by angelic help, but by his own power, which was unheard of up to this point: *upholding all things by the word of his power* (Heb 1:3).  
 
-first, he denounces their fault of transgression;
+**1099**. ***I***. Here he sets out the response, and he shows himself to be judge: ***that speak justice***, that is, who have authority to ***bring forth judgment on the Gentiles***, above (Isa 42:1); teacher, above: ***I am the Lord that speak justice*** (Isa 45:19); and Savior: ***I am a defender***, against the demons, ***to save***, the human race: *the Lord is my strength and my praise, and he is become salvation to me* (Exod 15:2); *the Lord is as a man of war, Almighty is his name* (Exod 15:3).  
 
-second, he threatens punishment: ***these shall be smoke*** (Isa 65:5).
+**1100**. Note on the words, ***this beautiful one***, that Christ is beautiful  
 
-**1124**. He denounces their fault from three things.
+first, because he glows with the splendor of divinity: *who being the brightness of his glory and the figure of his substance* (Heb 1:3);  
 
-First, from their ungratefulness for his benefits: ***I have spread forth my hands***, giving many benefits, ***all the day***, the whole time since I took them to myself; mystically, ***I have spread forth my hands***, on the cross: *every one walks* (Jer 16:12) in a way that is not good.
+second, because he is fashioned in conformity of union: *you are beautiful above the sons of men* (Ps 44:3[45:2]);  
 
-Second, from the continuity of their sinning: ***a people that continually provoke me to anger before my face***, for *all things are naked and open to his eyes* (Heb 4:13), or because they placed idols in the temple: *they have provoked me with that which was no god* (Deut 32:21).
+third, because he is distinguished by the diverse color of virtue: *my beloved is white and ruddy* (Song 5:10);  
 
-Third, from the variety or seriousness of their sins, as to four things.
+fourth, because he is clothed with honesty of conduct: *be glorious, and put on goodly garments* (Job 40:5).  
 
-**1125**. First, as to the worship of idols: ***that immolate***, to idols, ***in gardens***, for they worshipped idols in places of pleasure, ***upon bricks***, upon altars constructed from bricks, so that they could sustain the fire of sacrifice, above: ***they shall be confounded for their idols*** (Isa 1:29).
+**1101**. ***Why then is your apparel red?*** Here he sets out the second question, concerning his clothing.  
 
-Second, as to their enthusiasm for divinations: ***that dwell in sepulchers***, that they might have answers from the dead; ***in the temples*** (*delubris*), temples of idols so called from *diluendo* (“washing”), for they thought all things were washed away there; or because of the fonts, which were there for washing the victims and priests; ***and sleep***, upon the hides of the victims for the purpose of divination: *your temples**Delubra*. *shall be destroyed* (Ezek 6:6).
+And first, he sets out the question: ***why then***, as if to say: it is not the just, but the wicked who usually bear the marks of blood like this, not saviors, but rather murderers; ***like theirs that tread in the winepress***: for there is red wine in that region that dyes clothing like blood: *and Jesus was clothed with filthy garments* (Zech 3:3).  
 
-Third, as to the uncleanness of their food: ***that eat swine’s flesh, and profane broth***, from pork, below: ***they that did eat swine’s flesh, and the abomination, and the mouse*** (Isa 66:17).
+Second, he sets out the answer: ***I have trodden***.  
 
-Fourth, as to their contempt for the just: ***that say***, namely, to those who do not adore idols: *he is grievous unto us* (Wis 2:15); or ***that say***, to God: *who say**Dicunt*. Vg.: *dixerunt*. DR: “have said.” *to God: depart from us, we desire not the knowledge of your ways* (Job 21:14).
+And first, he assigns the reason for the redness of his garments;  
 
-**1126**. ***These shall be smoke***. Here he threatens punishment.
+second, he goes through the entire order of the matter: ***for the day of vengeance is in my heart*** (Isa 63:4).  
 
-And first, the length of the punishment: ***smoke***, that is, like smoke is consumed by fire, so shall they be burned by my anger: *a fire is kindled in my wrath, and shall burn even to the lowest hell* (Deut 32:22).
+**1102**. Concerning the first, he does three things.  
 
-Second, the certainty of punishment: ***behold it is written***, for their sin is firmly in memory, and their punishment in preordination; ***I will not be silent***, overlooking their sins: *the sin of Judah is written* (Jer 17:1), above: ***I have held my peace, always I have kept silence*** (Isa 42:14).
+First, he tells of his victory alone: ***the winepress***, namely, the cross on which he was pressed by the weight of his passion, ***I have trodden***, my enemies, ***alone***, suffering and conquering; ***and of the Gentiles there is not a man with me***, to help me, because everyone fled, abandoning him. And he says expressly, *not a man*, *(*Vir*.)* because of the Blessed Virgin, in whom faith never failed: *a cluster of cypress my love is to me, in the vineyards of Engaddi* (Song 1:13); *the Lord has trodden the winepress for the virgin daughter of Judah* (Lam 1:15).  
 
-Third, the multitude of the punishments, because they are for all the sins of their fathers: ***but I will render***: *I am a jealous God,*Ego sum Deus zelotes*. Vg.: *ego sum Dominus Deus tuus fortis, zelotes*. DR: “I am the Lord thy God, mighty, jealous.” visiting the iniquity of the fathers upon the children* (Exod 20:5). ***Who have reproached me***, by adoring idols in the high places; and also for the sins of their youth: ***and I will measure back their first work***, as if to say, I will make the punishment commensurate to the fault, above: ***she has received of the hand of the Lord double*** (Isa 40:2).
+Second, he touches on vengeance against his enemies: ***I have trampled on them***, the demons, or the Jews; ***in my wrath***, my enkindled anger: *you shall walk upon the asp and the basilisk: and you shall trample under foot the lion and the dragon* (Ps 90[91]:13).  
 
-**1127**. ***Thus says the Lord***. Here he promises rewards to the good.
+Third, he deduces, as it were, the cause of the redness of his garments: ***blood***, my own blood, for it comes forth from my body, ***their blood***, for it is given over to their power to pour it out, ***is sprinkled***. He says this in the likeness of a victor, whose garments are stained with gore, above: ***garment mingled with blood*** (Isa 9:5); ***I have stained***, in their estimation.  
 
-And first, as to their preservation from evils: ***as if a grain***, of a grape; ***it is a blessing***, that is, it pleases God for it to be reserved for a blessing; ***for the sake of my servants***, your fathers; ***that I may not destroy the whole***, people of the Jews, above: ***it shall be as when one gathers*** (Isa 17:5) clusters in the vintage.
+**1103**. ***For the day of vengeance***. Here he goes through the entire order of the matter.  
 
-Second, as to their advancement in good things.
+And first, he sets out the suitableness of the time: ***vengeance***, as to the demons; ***redemption***, as to the just, whose recompense had been delayed until then, above: ***it is the day of the vengeance of the Lord*** (Isa 34:8).  
 
-And first, as to the multiplication of their seed: ***and I will bring forth a seed out of Jacob***, above: ***except the Lord of hosts had left us seed, we had been as Sodom*** (Isa 1:9).
+Second, he sets out the necessity of salvation: ***I looked about, and there was none to help***, the human race, who could save it, above: ***he saw that there is not a man*** (Isa 59:16); or ***there was none to help***, me on the cross: *my brethren have withdrawn from me, and my acquaintance have departed from me* (Job 19:13); *I looked on my right hand, and beheld, and there was no one that would know me* (Ps 141:5[142:4]); *they compassed me on every side* (Sir 51:10[7]).  
 
-Second, as to the restoration of the inheritance of their fathers: ***and my elect shall inherit it***: *they shall possess you for their inheritance: and you shall be their inheritance* (Ezek 36:12).
+Third, the completion of salvation: ***and my own arm***, my power, ***has saved for me***, that is, accomplished the salvation of resurrection for me, or the salvation of the human race: *his right hand has wrought for him salvation, and his arm is holy* (Ps 97[98]:1).  
 
-Third, as to the fertility of their pastures: ***and the plains, and the valley of Achor***, so called, because they stoned Achan there (Josh 7:24–26); *I will give them the valley of Achor for an opening of hope* (Hos 2:15).*Dabo eis vallem Achor ad aperiendam spem*. Vg.: *dabo ei vinitores ejus ex eodem loco, et vallem Achor, ad aperiendam spem*. DR: “I will give her vinedressers out of the same place, and the valley of Achor for an opening of hope.”
+Fourth, the exposition of his vengeance: ***and I have trodden down the people***, the Jews, through the Romans, ***and have made them drunk***, filled them with affliction, ***and have brought down their strength***, the Jews and the demons, above: ***the Lord of hosts has designed it, to pull down the pride of all glory, and bring to disgrace all the glorious ones of the earth*** (Isa 23:9).  
 
-**1128**. ***And you, that have forsaken***. Here he separates the wicked from the consolation of the good, because of their sins of omission.
+**1104**. This may all also be explained literally, so that the Lord would be introduced metaphorically, as though coming to wipe out the various enemy peoples of the Jews, and especially the Edomites. And he, according to the metaphorical manner of speaking, is clothed, above: ***he put on justice as a breastplate*** (Isa 59:17).  
 
-And first, he threatens punishment for the wicked;
+**1105**. ***I will remember the tender mercies of the Lord***. Here the prophet offers a petition to the judge, who comes to speak and fulfill justice.  
 
-second, he promises rewards for the good: ***because the former distresses are forgotten*** (Isa 65:16).
+And first, he inclines him to compassion;  
 
-Concerning the first, he does two things.
+second, he offers his petition, ***O that you wouldst rend the heavens*** (ch. 64).  
 
-First, he threatens them because they have abandoned God, and he sets out their fault: ***and you***, Jews; ***that set for fortune***, a god of the Egyptians, ***a table***: he touches upon a ritual in which this god was worshipped, for, at the end of the year, a table was prepared for him, crammed with every food: *they forsook**Dereliquerunt*. Vg.: *dereliquit*. DR: “he forsook.” *God who made them, and departed from God their savior* (Deut 32:15). And he sets out the punishment: ***I will number you in the sword***, as if to say: so that none remain who will not be crushed: *they shall fall by the sword, and by the famine* (Jer 44:12).
+The first of these is divided into two parts:  
 
-**1129**. Second, because they did not obey when they were called back, and he sets out the fault: ***because I called and you did not answer***: *I called, and you refused* (Prov 1:24).
+in the first, he inclines him to compassion by recalling his former benefits, which have passed away;  
 
-And he threatens the punishment of separation.
+in the second, by recalling the dangers which they met: ***why have you made us to err?*** (Isa 63:17).  
 
-First, in satisfaction of the body: ***therefore thus says the Lord God: behold my servants shall eat, and you shall be hungry***: *the rich have wanted, and have suffered hunger: but they that seek the Lord shall not be deprived of any good* (Ps 33:11[34:10]).
+Concerning the first, he does two things.  
 
-Second, in joy of heart: ***behold my servants shall rejoice, and you shall be confounded***: *repenting, and groaning for anguish of spirit* (Wis 5:3).
+First, he sets out the intention: ***all the things that the Lord has bestowed upon us***, for our merits, as in good things, so, in the evils of punishments; ***good things***, which he gave freely, *I remembered your mercy, O Lord* (Sir 51:11[8]).  
 
-Third, in difference of name, and first, he sets out the sort of name the impious shall have: ***and you shall leave your name for an oath to my elect***, that they might confirm their words thus: if it is not so, so shall it happen to me as happened to them: *by the sword, and by the famine shall they die: and they shall be for an oath*,*Iusiurandum*. DR: “execration.” *and for a wonder, and for a curse, and for a reproach* (Jer 44:12). And next he sets out the sort of name the good shall have: ***and call his servants; in which***, namely, in which name, the name is Jesus; ***amen***, faithfully, above: ***you shall be called by a new name, which the mouth of the Lord shall name*** (Isa 62:2).
+Second, he describes the intention.  
 
-**1130**. ***Because the former distresses are forgotten***. Here he promises rewards seen.
+**1106**. And first, he recalls the benefits, as to their escape from dangers, recalling his particular election: ***and he***, namely, God, ***said: surely***, although they may be against me, ***they are children that will not deny***, namely, Abraham, or ***that will not deny***, because they at least keep my faith: *the Lord is my strength and my praise* (Exod 15:2).  
 
-And first, in general, as to the removal of evils: ***because the former distresses are forgotten***, not because of lack of knowledge, but because they have been succeeded by good things, above: ***you shall forget the shame of your youth*** (Isa 54:4). And as to the restoration of goods: ***for behold I create new heavens***, new help from heaven, ***and a new earth***, new benefits from the earth; or this refers to the day of judgment, when the world will be renewed to the glory of the saints: *the former things are passed away* (Rev 21:4).
+And as to his diligent protection: ***in all their affliction***; and he himself ***was troubled***, from compassion; or ***he was not troubled***, right away, but he delayed even now, that they might be corrected; ***and the angel of his face***, that is, the angel that sees my face, ***saved them***, as their leader in the desert: *lead this people whither I have told you: my angel shall go before you* (Exod 32:34); *he has given his angels charge over you; to keep you in all your ways* (Ps 90[91]:11).  
 
-**1131**. Second, in particular: ***for behold I create Jerusalem***.
+And as to fatherly love: ***in his love he redeemed them***, from Egypt; ***he carried them***, in the desert; ***and lifted them up***, that is, he exalted them over the others in the promised land: *Israel was a child* (Hos 11:1).  
 
-And first, as to cheerfulness of heart: ***Jerusalem***, earthly Jerusalem, but more, the heavenly Jerusalem; *<**a rejoicing***, that is,> rejoicing,*<Exultationem, id est> exultantem*. emphatically, so that all things are absorbed in joy, above: ***they shall obtain joy and gladness, and sorrow and mourning shall flee away*** (Isa 35:10).
+**1107**. Second, he touches on the benefits as to the remission of faults.  
 
-**1132**. Second, as to length of life: ***there shall no more be an infant of days there, nor an old man that shall not fill up his days***, dying before his time, but ***the child shall die a hundred years old***, that is, when he will have reached such an age; ***and***, if he be a ***sinner***, although he will have lived to such an age, he shall be subject to a curse: *Abraham died in a good old age* (Gen 25:8). Mystically, in the heavenly Jerusalem, all will fill up their days, for none will die; ***the child shall die a hundred years old***, that is, he who lived to old age childishly shall die, in eternal death: *for venerable old age is not that of long time, nor counted by the number of years* (Wis 4:8).
+And first, he sets out their fault: ***but they*; *his spirit***, namely God’s, or ***the spirit of his Holy One***, Moses, through their various quarrels: *and Moses was afflicted for their sakes, because they exasperated his spirit* (Ps 105[106]:32–33).  
 
-**1133**. Third, as to prosperity of goods, both as to security of their possessions: ***and they shall build***: *and they shall build houses* (Ezek 28:26); *they shall plant vineyards* (Amos 9:14); and he assigns the reason: ***for as the days of a tree***, that is, because they will live a long time just as the wood of a tree lasts a long time, ***the works of their hands shall grow old***, that is, they shall remain in their use until old age: *he shall be like a tree which is planted near the running waters* (Ps 1:3). And as to the peace of their children: ***nor bring forth in trouble***, as though bringing forth children into servitude to their enemies: *good things continue*Perseverant*. Vg.: *permanent*. with their seed* (Sir 44:11).
+Second, he sets out their punishment: ***and he***, namely, God, ***was turned to be their enemy***: *the Lord is become as an enemy* (Lam 2:5); *you are changed to be cruel toward me* (Job 30:21).  
 
-**1134**. Fourth, as to the hearing of their prayers: ***and it shall come to pass, that before they call***, with their mouth, above: ***at the voice of your cry, as soon as he shall hear, he will answer you*** (Isa 30:19).
+Third, he sets out the remission of the fault: ***and he remembered***, at last, ***Moses***, who prayed for them: *either forgive them, or strike me out of the book that you have written* (Exod 32:31–32); *he has remembered his covenant for ever: the word which he commanded to a thousand generations* (Ps 104[105]:8).  
 
-**1135**. Fifth, as to the tranquility of peace: ***the wolf and the lamb***, for those who formerly were tyrants and evildoers will abide peacefully with others, above (Isa 11:6) has the same.
+**1108**. Note on the words, ***I have trodden the winepress*** (Isa 63:3), that from the winepress of the cross flowed,  
 
-Chapter 66
+first, blood to redeem: *you were not redeemed with corruptible things, as gold or silver, from your vain conversation, but with the precious blood of Jesus Christ* (1 Pet 1:18–19);  
+
+second, water to clean: *he brought forth water out of the rock* (Ps 77[78]:16); *I will pour upon you clean water* (Ezek 36:25);  
+
+third, oil to heal: *the rock poured me out rivers of oil* (Job 29:6);  
+
+fourth, honey to solidify: *that he might suck honey out of the rock* (Deut 32:13);  
+
+fifth, wine to console: *your presses shall run over with wine* (Prov 3:10).  
+
+**1109**. ***Where is he that brought them up?*** Here he laments the same benefits taken away from them.  
+
+And first, he laments the lack of benefits: ***where is he that brought them up out of the sea?***, Moses, or God; ***with the shepherds***, Miriam and Aaron: *she led them out in the hands of the holy prophet* (Wis 11:1). ***Where is he that put in the midst of them the spirit of his Holy One?***, Moses, which is found in Numbers 11. ***By the right hand***, prosperously; where is the spirit ***that divided the waters before them?** Who divided the Red Sea into parts* (Ps 135[136]:13). And where is he ***that led them out as a horse that stumbles not***, namely, without hindrance. ***As a beast that goes down***, with an unhindered course; ***the spirit of the Lord was their***, the people’s, ***leader***: *and in the Red Sea a way without hindrance* (Wis 19:7); *they shall walk confidently* (Prov 3:23); *where are his miracles?* (Judg 6:13).  
+
+**1110**. Second, he inclines the judge to affection.  
+
+And first, he seeks a hearing: ***look down from heaven***: *you will hear from your holy heaven* (1 Kgs 8:32).  
+
+Second, he provokes him to mercy: ***where is your zeal*** with which you loved us. *Lord, where are your ancient mercies?* (Ps 88:50[89:49]); *if he withhold the waters, all things shall be dried up* (Job 12:15).  
+
+Third, he sets out a cause for having mercy: ***for you are our father, and Abraham has not known us***, when he was still alive, because we did not then exist; or, even now, he is unwilling to pray for us, because we do not call upon him; or, according to Augustine, *(Cf. Augustine, *De cura pro mortuis* 15.18 (PL 40, 605).)* because the dead, even the saints, do not know what is to be done for the living: but this is to be understood as to the power of human knowledge, not as to the illumination of divine light: *he is your father, that has possessed you, and made you, and created you* (Deut 32:6).  
+
+**1111**. ***Why have you made us to err?*** Here he sets out the evils which they met.  
+
+And first, as to the evils of their fault: ***you made us to err***, permitting, not sending grace and not correcting, ***from your ways***, commands; ***you hardened***, permitted: *he has mercy on whom he will. And whom he will, he hardens* (Rom 9:18).  
+
+**1112**. Second, he sets out the evils of their punishment.  
+
+And first, he asks for mercy: ***return***, from wrath to mercy, ***for the sake of your servants***, our fathers: *return, O Lord, how long? And be entreated in favor of your servants* (Ps 89[90]:13); *convert us, O Lord, to you, and we shall be converted: renew our days, as from the beginning* (Lam 5:21).  
+
+Second, he sets out their misery as to slavery: ***they have possessed your holy people as nothing***, that is, without resistance, above: ***O Lord our God, other lords besides you have had dominion over us*** (Isa 26:13); as to the profanation of their holy places: ***our enemies have trodden down your sanctuary***: *the holy places are come into the hands of strangers* (1 Macc 2:8). As to the loss of their former honor: ***we are become***, without a king, without the temple, ***as in the beginning***, in Egypt, or even before the calling of Abraham: *but you, O Lord, are among us, and your name is called upon by us, forsake us not* (Jer 14:9).

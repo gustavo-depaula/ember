@@ -1,9 +1,9 @@
-# Quaestio 33 — Deinde considerandum est de effectibus delectationis. Et circa hoc quaeruntur quatuor.
+# Quaestio 33
 
-Primo, utrum delectationis sit dilatare.
+Deinde considerandum est de effectibus delectationis. Et circa hoc quaeruntur quatuor.  
 
-Secundo, utrum delectatio causet sui sitim, vel desiderium.
+Primo, utrum delectationis sit dilatare.  
 
-Tertio, utrum delectatio impediat usum rationis.
-
-Quarto, utrum delectatio perficiat operationem.
+- Secundo, utrum delectatio causet sui sitim, vel desiderium.
+- Tertio, utrum delectatio impediat usum rationis.
+- Quarto, utrum delectatio perficiat operationem.

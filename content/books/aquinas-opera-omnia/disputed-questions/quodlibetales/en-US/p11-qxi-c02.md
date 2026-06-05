@@ -1,0 +1,31 @@
+# On Angels
+
+***Question 4***
+
+***On angels***
+
+***Article 1***
+
+***On the motion of an angel***
+
+About angels there was a question concerning the motion of an angel, namely, whether its motion is in an instant. And it seems that it is.  
+
+Obj. 1: For it is agreed that the change of an angel is simpler than every bodily change. But there is found some bodily change in an instant, such as illumination and things of this sort. Therefore, much more is the motion of an angel in an instant. *(Cf. Aquinas, *In I Sent*. 37.4.3, obj. 1; *ST* I.53.3, obj. 2.)*  
+
+Obj. 2: There applies to the noblest creature the noblest motion. Yet the noblest motion is that which is made in an instant. Therefore, it applies to the noblest creature, namely, an angel.  
+
+On the contrary: Every motion has before and after. Yet before and after in motion is the number of time. Therefore, in every motion there is time. Therefore, no motion, even of an angel, is in an instant. *(Cf. Aristotle, *Physics* 4.11, 219a30–b5.)*  
+
+I answer that every change has two terms, which do not exist simultaneously. *(Cf. below: q. 4, a. 4, resp.; Aristotle, *Physics* 1.5, 188a30–b25.)* Hence it is impossible for some motion or change to be in an instant such that the same instant embraces both terms.  
+
+Nevertheless, it must be known that in bodily things the two terms of motion or of change can relate in two ways.  
+
+One way is such that there can be assigned an instant in which the term-to-which first exists, and another instant in which the term-from-which last exists. And thus, since *between any two instants there is a middle time*, *(Cf. above: *Quodlibet VII*, q. 4, a. 2, resp.; Aristotle, *Physics* 6.3, 234a7–8, 10; Averroes, *Commentary on Aristotle’s Physics* 8, comm. 69.)* it follows that from one term of motion into another a crossing through time is made. And thus, such a change is in time and not in an instant. Yet this happens whenever between two terms of motion there is some midpoint, such as between white and black, and between to be here and to be there.  
+
+But some terms of change are those between which there is no midpoint, such as between white and not white, between fire and not fire, between dark and light, because affirmation and negation are, according to themselves, unmediated, and so too for privation and form in a determinate subject. And in such things, granted, there is a first instant in which there is a term-to-which, but, nevertheless, there is not a last instant in which there is a term-from-which. For since *between any two instants there is a middle time*, *(Cf. above: *Quodlibet VII*, q. 4, a. 2, resp.; Aristotle, *Physics* 6.3, 234a7–8, 10; Averroes, *Commentary on Aristotle’s Physics* 8, comm. 69.)* it would follow that in that middle time it would be in neither of the extremes, which is impossible, since they are extremes altogether unmediated. Therefore, it is necessary to say that, since the first instant in which there is the term-to-which is the term of some time, in the whole preceding time there endures the term-from-which. And thus, since between time and the instant which is the term of time, there is not a middle time, there is no crossing from one extremity to the other in time. Rather, in an instant there first ceases to be the term-from-which and the term-to-which begins to exist. Changes of this sort are said to be instantaneous, such as illumination, generation, and corruption. But it is necessary for these changes to be the terms of continuous motions and of things existing in time because the time in which there last is the term-from-which measures some motion, according to which a subject approaches to the term-to-which, just as through alteration matter is disposed to form and through local motion a luminous body approaches unto the site in which it illumines. And according to this, it is said that generation and corruption are terms of alteration, and illumination of local motion. *(Cf. above: *Quodlibet VII*, q. 4, a. 4, resp.; Averroes, *Commentary on Aristotle’s Physics* 4, comm. 129; 6, comm. 32.)*  
+
+Thus, therefore, there are two dispositions of bodily changes, but neither of these can be in the motion of an angel. For since the motion of an angel is attended according to diverse virtual contacts of an angel to diverse places, which contacts indeed are not continuous, it follows that the motion of an angel is not continuous. Thus, the time which properly measures the motion of an angel is not continuous, since continuity of time is from continuity of motion, as is said in the fourth book of the *Physics* *(Aristotle, *Physics* 4.11, 219a10–14.)* (for it cannot be said that the motion of an angel is measured by the continuous time which is the number of the motion of heaven, because the motion of an angel does not depend upon the motion of heaven). *(Cf. Albert the Great, *In I Sent*., d. 37 L, a. 24, 26:264a.)* And thus, it follows that the motion of an angel is measured by a certain time in which there are instants for it succeeding without continuity, because time is not continuous from being a number, but from being the number of a continuous motion. Thus, therefore, in the motion of an angel the two extremes of motion are not in two instants between which there is a middle time, nor again is one of the extremes in time and the other in the instant which terminates time. Rather, the two extremes are in two instants, between which there is not a middle time. And thus, it is necessary for the motion of an angel to be in time, granted in another way than bodily motions are in time.  
+
+Reply Obj. 1: It must be said that the change of an angel according to the things said above is shown to be simpler than any bodily change: for it is simpler than that change of which the two extremes are in two instants between which there falls a middle time, since between the two instants of the motion of an angel there does not fall a middle time. Similarly, it is simpler than that of which one extreme is in the whole continuous time, since here one extreme is in an indivisible instant, and, nevertheless, a middle time does not fall between, just as neither there. And because it is simpler, for this reason, it also follows that it is nobler.  
+
+Reply Obj. 2: Hence the solution to the second is clear.

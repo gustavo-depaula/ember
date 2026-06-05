@@ -1,7 +1,8 @@
-# Question 73 — We must next consider the things that belong to the seventh day. Under this head there are three points of inquiry:
+# Question 73 — The Things that Belong to the Seventh Day
 
-(1) About the completion of the works;
+We must next consider the things that belong to the seventh day. Under this head there are three points of inquiry:  
 
-(2) About the resting of God;
+(1) About the completion of the works;  
 
-(3) About the blessing and sanctifying of this day.
+- (2) About the resting of God;
+- (3) About the blessing and sanctifying of this day.

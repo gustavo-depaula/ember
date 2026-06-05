@@ -14,38 +14,25 @@
   },
   "composed": 1271,
   "languages": [
-    "en-US",
     "la"
   ],
   "sources": [
     {
-      "language": "en-US",
-      "url": "https://aquinas.cc/la/en/~30 Articuli",
-      "description": "Translation from aquinas.cc."
-    },
-    {
       "language": "la",
       "url": "https://aquinas.cc/la/en/~30 Articuli",
-      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc. No public-domain English translation available."
     }
   ],
   "toc": [
     {
-      "id": "30articuli",
-      "title": {
-        "en-US": "30Articuli",
-        "la": "30Articuli"
-      }
-    },
-    {
-      "id": "30articuli",
+      "id": "30articuli-c01",
       "title": {
         "en-US": "Prooemium",
         "la": "Prooemium"
       }
     },
     {
-      "id": "30articuli",
+      "id": "30articuli-c02",
       "title": {
         "en-US": "Solutio",
         "la": "Solutio"

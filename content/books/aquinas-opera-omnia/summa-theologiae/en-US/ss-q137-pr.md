@@ -1,9 +1,9 @@
-# Question 137 — We must now consider perseverance and the vices opposed to it. Under the head of perseverance there are four points of inquiry:
+# Question 137 — Perseverance
 
-(1) Whether perseverance is a virtue?
+We must now consider perseverance and the vices opposed to it. Under the head of perseverance there are four points of inquiry:  
 
-(2) Whether it is a part of fortitude?
+(1) Whether perseverance is a virtue?  
 
-(3) Of its relation to constancy;
-
-(4) Whether it needs the help of grace?
+- (2) Whether it is a part of fortitude?
+- (3) Of its relation to constancy;
+- (4) Whether it needs the help of grace?

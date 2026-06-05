@@ -1,9 +1,9 @@
-# Question 134 — We must now consider magnificence and the vices opposed to it. With regard to magnificence there are four points of inquiry:
+# Question 134 — Magnificence
 
-(1) Whether magnificence is a virtue?
+We must now consider magnificence and the vices opposed to it. With regard to magnificence there are four points of inquiry:  
 
-(2) Whether it is a special virtue?
+(1) Whether magnificence is a virtue?  
 
-(3) What is its matter?
-
-(4) Whether it is a part of fortitude?
+- (2) Whether it is a special virtue?
+- (3) What is its matter?
+- (4) Whether it is a part of fortitude?

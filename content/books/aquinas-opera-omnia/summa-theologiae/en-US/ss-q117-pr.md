@@ -1,15 +1,13 @@
-# Question 117 — We must now consider liberality and the opposite vices, namely, covetousness and prodigality.
+# Question 117 — Liberality
 
-Concerning liberality there are six points of inquiry:
+We must now consider liberality and the opposite vices, namely, covetousness and prodigality.  
 
-(1) Whether liberality is a virtue?
+Concerning liberality there are six points of inquiry:  
 
-(2) What is its matter?
+(1) Whether liberality is a virtue?  
 
-(3) Of its act;
-
-(4) Whether it pertains thereto to give rather than to take?
-
-(5) Whether liberality is a part of justice?
-
-(6) Of its comparison with other virtues.
+- (2) What is its matter?
+- (3) Of its act;
+- (4) Whether it pertains thereto to give rather than to take?
+- (5) Whether liberality is a part of justice?
+- (6) Of its comparison with other virtues.

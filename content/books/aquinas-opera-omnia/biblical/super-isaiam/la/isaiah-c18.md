@@ -1,103 +1,137 @@
-# Chapter 18
+# Chapter 16
 
-> ^18:2^ qui mittit in mare legatos et in vasis papyri super aquas. Ite angeli veloces ad gentem convulsam et dilaceratam, ad populum terribilem post quem non est alius, gentem exspectantem, exspectantem et conculcatam, cujus diripuerunt flumina terram ejus, ad montem nominis Domini exercituum montem Sion.
+^16:1^ Emitte agnum Domine dominatorem terræ de Petra deserti ad montem filiæ Sion.  
 
-> ^18:3^ Omnes habitatores orbis qui moramini in terra, cum elevatum fuerit signum in montibus videbitis et clangorem tubæ audietis.
+> ^16:2^ Et erit sicut avis fugiens et pulli de nido avolantes; sic erunt filiæ Moab in transcensu Arnon.
 
-> ^18:4^ Quia hæc dicit Dominus ad me: ego quiescam et considerabo in loco meo, sicut meridiana lux clara est, et sicut nubes roris in die messis.
+> ^16:3^ Ini consilium, coge concilium. Pone quasi noctem umbram tuam in meridie, absconde fugientes, et vagos ne prodas.
 
-> ^18:5^ Ante messem enim totus effloruit et immatura perfectio germinavit, et præcidentur ramusculi ejus falcibus; et quæ derelicta fuerint abscindentur et excutientur;
+> ^16:4^ Habitabunt apud te profugi mei, Moab esto latibulum eorum a facie vastatoris. Finitus est enim pulvis, consummatus est miser, defecit qui conculcabat terram.
 
-> ^18:6^ et relinquentur simul avibus montium et bestiis terræ, et æstate perpetua erunt super eum volucres, et omnes bestiæ terræ super illum hiemabunt.
+> ^16:5^ Et præparabitur in misericordia solium, et sedebit super illud in veritate in tabernaculo David judicans et quærens judicium et velociter reddens quod justum est.
 
-> ^18:7^ In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato, a populo terribili post quem non fuit alius, a gente exspectante, exspectante et conculcata, cujus diripuerunt flumina terram ejus, ad locum nominis Domini exercituum montem Sion.
+> ^16:6^ Audivimus superbiam Moab, superbus est valde: superbia ejus et arrogantia ejus et indignatio ejus plus quam fortitudo ejus.
 
-> **474**. ***Vae terrae cymbalo***. Hic comminatur contra Aegyptios.
+> ^16:7^ Idcirco ululabit Moab ad Moab, universus ululabit. His qui lætantur super muros cocti lateris loquimini plagas suas,
 
-Et primo comminatur eorum poenam per comparationem ad poenae meritum;
+> ^16:8^ quoniam suburbana Hesebon deserta sunt, et vineam Sabama domini gentium exciderunt flagella ejus; usque ad Jazer pervenerunt, erraverunt in deserto; propagines ejus relictæ sunt, transierunt mare.
 
-in secunda exequitur poenae modum, cap. XIX ***onus Aegypti***;
+> ^16:9^ Super hoc plorabo in fletu Jazer vineam Sabama; inebriabo de lacrima mea, Hesebon et Eleale, quoniam super vindemiam tuam et super messem tuam vox calcantium irruit.
 
-in tertia designat poenae tempus, cap. XX ***in anno***.
+> ^16:10^ Et auferetur lætitia et exsultatio de Carmelo, et in vineis non exsultabit neque jubilabit. Vinum in torculari non calcabit qui calcare consueverat, vocem calcantium abstuli.
 
-Circa primum tria ponit:
+> ^16:11^ Super hoc venter meus ad Moab quasi cithara sonabit, et viscera mea ad murum cocti lateris.
 
-primo designat culpam quae est meritum poenae;
+> ^16:12^ Et erit, cum apparuerit quod laboravit Moab super excelsis suis, ingredietur ad sancta sua ut obsecret, et non valebit.
 
-in secunda comminatur poenam: ***omnes habitatores***;
+> ^16:13^ Hoc verbum quod locutus est Dominus ad Moab ex tunc.
 
-tertio ostendit poenae fructum: ***in tempore illo***.
+> ^16:14^ Et nunc locutus est Dominus dicens: in tribus annis, quasi anni mercenarii, auferetur gloria Moab super omni populo multo, et relinquetur in eo sicut racemus parvus et modicus, nequaquam multus.
 
-**475**. Circa primum duo facit.
+> **444**. ***Emitte agnum***. Hic describit poenae conditionem, et ponit duas conditiones:
 
-Primo describit situm terrae in quo superbe confidebant, dicens ***vae***, scilicet imminet, ***terrae***, Aegypto, ***cymbalo alarum***, propter sonitum Nili cujus velocitas comparatur motui alarum propter velocitatem, vel propter multitudinem populorum, vel propter protectionis auxilium quod populo duarum tribuum insonabant; ***quae est trans flumen Aethiopiae***, id est ultra Nilum qui venit de Aethiopia, Ez. XXIX 3 *ecce ego ad te, Pharao rex Aegypti, draco magne, qui cubas in medio fluminum tuorum*. Hoc tamen Judaei exponunt de Gog, qui habitant ultra Aethiopiam, contra quos testatur propheta Ezechiel XXXVIII.
+primo aequitatem ex parte judicantis,  
 
-**476**. Secundo describit auxilium quod duabus tribubus promittebant.
+secundo deceptionem ex parte patientis: ***et erit cum apparuerit***.  
 
-Et primo describit nuntiandi modum, dicens ***qui***, scilicet populus Aegyptius, ***mittet legatos***, id est nuntios, duabus tribubus, ***in mari***, id est per mare, ***et super aquas***, fluminis vel maris, ***in vasis papyri***, genus junci de quo fiebant capsellae ad portandas litteras, vel arundines tam magnae quod de eis fiebant naves, ut legitur in historia Alexandri: a pyr, quod est ignis.
+Aequitas autem poenae disponitur ex culpa praecedente, et ideo ordinat culpam. Ponit autem duplicem culpam:  
 
-**477**. Secundo ponit legationis praeceptum, in quo determinat duo.
+primo contra contemptum promissi beneficii,  
 
-Primo nuntiandi modum, dicens hoc: ***O angeli***, id est o nuntii mei, ***ite, veloces***, id est velociter.
+secundo contra contemptum salubris dati consilii: ***ini consilium***.  
 
-Secundo motivum: ***ad gentem***, scilicet duarum tribuum, quam ostendit miserabilem ex quatuor.
+**445**. Circa primum duo facit.  
 
-Primo ex afflictionis magnitudine: ***convulsam***, a propria firmitate per subjugationem, ***et dilaceratam***, per poenarum afflictionem.
+In prima promittit beneficium Christi nascituri de eorum gente, ut ex hoc aliquam consolationem accipiant. Ruth enim Moabites nupsit Booz, ex quo concepit Obed patrem Jesse, patris David, de quo natus est Christus, ut dicitur Ruth ult. Et ideo dicit: ***O Domine***, Pater, ***agnum***, Christum, Jo. I; ***de petra deserti***, de Ruth gentili, cujus populus lapideus est, deos lapideos adorans, et ob hoc a Deo desertus; ***ad montem***, Jerusalem, in quo occisus est et surrexit, vel Ecclesiam; ***dominatorem***, Apoc. V *sedenti super thronum*.  
 
-Secundo ex pristina dignitate: ***terribilem*** quondam, ***post quem non est alius*** potentiae comparandus, nunc autem ***expectantem*** alienum auxilium, ***conculcatam***, quasi in vilitate redactam.
+Secundo ponit poenam contemnentium: ***erit sicut avis fugiens***, unde fugerant, vel captivi ducebantur, supra X 14 ***invenit quasi nidum manus mea fortitudinem populorum***.  
 
-Tertio ex hostium potestate vel iniquitate: ***cujus diripuerunt*** injuste ***flumina*** reges Assyriorum.
+**446**. Alii hic volunt, licet extorte, ad litteram exponere de tributo agnorum quod rex Moab subtraxerat a rege Israel, sicut dicitur IV Reg. XV, quod per prophetam praedicitur restituendum regi Jerusalem: ***dominatorem***, in signum dominii; ***de Petra deserti***, locus in quo nutriebantur oves.  
 
-Quarto ex loci sanctitate: ***ad montem***. Sunt autem puniti, quia eos a cultu Dei retrahebant, Ez. XXIX 16 *non erunt ultra domui Israel*.
+**447**. ***Ini consilium***. Hic ordinat poenam contra contemptum dati consilii. Et dividitur in tres:  
 
-**478**. ***Omnes habitatores orbis***. Hic comminatur poenam, et circa hoc duo facit.
+in prima ponit consilium,  
 
-Primo ostendit poenae evidentiam: ***videbitis***, id est notum erit vobis, ***signum***, vexillum Nabuchodonosor, Jer. XLVI 12 *audierunt gentes ignominiam tuam, et ululatus tuus replevit terram*; vel hostium copiam ***videbitis***, existentes in exercitu ejus, Ez. III *fortissimi gentium adducentur*.
+in secunda consilii contemptum: ***audivimus***,  
 
-**479**. Secundo aufert defensionis divinae confidentiam: ***quia haec dicit Dominus***.
+in tertia poenam contemnentium: ***idcirco***.  
 
-Et primo quia subtrahet eis auxilium suae defensionis: ***quiescam***, quasi nihil vos adiuvans; ***considerabo***, videbo quid vos possitis facere, Deut. XXXII 20 *considerabo novissima eorum*.
+Circa primum tria ponit.  
 
-Secundo quia hostibus praebebit auxilium impugnationis, quantum ad consilium in dubiis: ***sicut meridiana lux***, ita evidenter ostenditur eis quid sit eis agendum; quantum ad relevamentum in laboribus: ***sicut nubes***, Ps. *exaltasti dexteram deprimentium*.
+Primo hortatur ad deliberationem: ***ini consilium***, quasi: delibera qualiter salvari possis. Consilium est ipsa quaestio quae vertitur inter consiliantes; concilium, congregatio consiliatorum. ***Coge***, quasi strictum consilium habens, Prov. XI 14 *salus ubi multa consilia*, Eccli. XXXII 24 *omnia fac cum consilio, et post factum non poenitebis*.  
 
-**480**. Tertio, ***ante messem***, describit poenae metaphoram, scilicet per destructionem fructus in agro, et ponit tria.
+**448**. Secundo ponit consilii tenorem: ***pone quasi noctem***, in quo hortatur ad duo.  
 
-Primo quantum ad fructus perditionem, qui perditur in flore quando nimis cito incipit florere: ***ante messem enim totus***; similiter Aegyptus antequam potentiam haberet florem suae gloriae ostentabat: de qua infra XL 6 ***omnis gloria ejus quasi flos agri***. Perditur etiam in germine quando nondum maturus est humor de quo fieri debet fructus: ***et immatura***; similiter Aegyptus ultra potentiam quam habebat praesumebat. Perditur etiam in fructu quando rami in quibus sunt fructus absciduntur: ***praecidentur***, ante fructus maturationem, Job XV 33 *laedetur quasi vinea in primo flore*, Prov. XIII 13 *substantia festinata minuetur*, eodem XX 21 *hereditas ad quam festinat*.
+Ad receptationem Judaeorum fugientium, ut locum absconsionis praeparet: ***pone quasi noctem***, id est praepara te ad occultandos eos ita in die ac si in nocte; vel ***in meridie***, aperta persecutione, ut ***fugientes*** celet, ***absconde***, ut abscondens non reveles ***vagos***.  
 
-Secundo ponit fructus remanentium ablationem: ***quae derelicta fuerint*** perfecta ab Aegyptiis ab Assyriis, ***abscindentur*** a propria firmitate, ***et excutientur*** de loco suo per Chaldaeos, infra XXIV 13 ***quomodo si paucae olivae quae remanserunt excutiantur ex olea***.
+Hortatur etiam ut receptos amicabiliter sustentet: ***habitabunt***, infra XXXII 2 ***et erit vir***.  
 
-Tertio ponit ipsius agri desertionem: ***et relinquetur*** sicut ager incultus, in quo significatur caedes hominum, postquam multae bestiae fuerunt in terra Aegypti, Ez. XXXIX 17 *haec dicit Dominus Deus: dic omni volucri*.
+**449**. Tertio assignat rationem: ***finitus***.  
 
-**481**. ***In tempore illo***. Hic ponitur poenae fructus, scilicet quod populus duarum tribuum confidentes de Deo et ipsius auxilium invocabunt cum munerum oblatione, supra X 20 ***in die illa non adjiciet residuum Israel, et hi qui fugerint de domo Jacob, inniti super eo qui percutit eos; sed innitetur super Dominum sanctum Israel***.
+Et primo quantum ad hostium destructionem ne eorum timore dimittant: ***finitus est pulvis***, multitudo exercitus Senacherib, ***consummatus est***, id est occisus a filiis, ***miser***, Senacherib, infra XXXVIII, ***defecit***, quantum ad potentiam, supra XIV.  
 
-**482**. Nota super illo verbo ***immatura perfectio germinavit***, quod est perfectio multiplex:
+Secundo quantum ad Judaeorum restaurationem, ut libentius faciant; quantum ad regni praeparationem: ***praeparabitur in misericordia***, Dei vel regis misericordis, ***solium***, regum Juda; quantum ad regis potestatem: ***sedebit***, quasi quiete regnabit; quantum ad judicii aequitatem: ***in veritate***; ***judicans***, quantum ad sententiae prolationem; ***quaerens***, quantum ad causarum discussionem; ***reddens***, quantum ad sententiae executionem. Et hoc potest exponi de Ezechia vel de Christo, supra X ***super solium David et super regnum ejus sedebit***.  
 
-prima naturae, Gen. II 1 *igitur perfecti sunt caeli*;
+**450**. Nota super illo verbo ***emitte agnum***, quod Christus dicitur agnus,  
 
-secunda scientiae, Job XXII 2 *numquid Deo comparari potest homo, etiam cum perfectae fuerit scientiae?*;
+primo propter vitae puritatem, Exo. XII 5 *erit agnus sine macula, agnus anniculus*; s  
 
-tertia gratiae, I Jo. IV 18 *perfecta caritas foras mittit timorem*;
+ecundo propter mortis mansuetudinem, infra LIII 7 ***quasi agnus coram tondente se non aperuit os suum***;  
 
-quarta gloriae, I Cor. XIII 10 *cum venerit quod perfectum est, evacuabitur quod ex parte est*.
+tertio propter peccati expiationem, Jo. I 29 *ecce agnus Dei, ecce qui tollit peccata mundi*.  
 
-**483**. Nota super illo verbo ***germen ejus*** quod est germen
+**451**. Nota super illo verbo ***de petra deserti***, quod beata Virgo dicitur petra,  
 
-primo pravae praelationis, Eccl. X 16 *vae tibi terra cujus rex est puer et principes mane comedunt*;
+primo propter gratiae firmitatem, Eccl. XXXVI *fundamenta aeterna*;  
 
-secundo doctrinae erroris, Judae *hi ea quae ignorant blasphemant*;
+secundo propter continentiae frigiditatem, infra XXXII 2 ***sicut umbra petrae prominentis in terra deserta***;  
 
-tertio praesumptuosae opinionis, Ro. XII 3 *unicuique sicut*;
+tertio propter fructus ubertatem, Job XXXIX *petra fundebat rivos olei*.  
 
-<quarto> praesentis consolationis, Lucae XVI 25 *recordare quia recepisti bona in vita tua*.
+Et nota quod ista petra fuit singularis deserti,  
 
-**484**. Nota super illo verbo ***deferetur munus***, quod est munus multiplex:
+quia praecipua quantum ad primum, Cant. IV 7 *tota pulchra es, amica mea*;  
 
-primo ferventis dilectionis, Prov. XXI 14 *munus absconditum*;
+secundo quia prima quantum ad secundum, Cant. II *curremus in odorem unguentorum tuorum*;  
 
-secundo devotae orationis, Ps. *ascendat oratio mea sicut incensum in conspectu tuo*;
+virgo quantum ad tertium, supra VII 14 ***ecce virgo concipiet et pariet filium***.  
 
-tertio perfectae operationis, Mal. I 10 *munus non suscipiam de manu vestra*;
+**452**. Nota super illo verbo ***emitte***, scilicet tu, Pater, Filium,  
 
-quarto debitae oblationis, Ps. *vovete et reddite Domino Deo vestro, omnes qui in circuitu ejus offertis munera*.
+primo sicut sol radium, Eccli. XLVI *tripliciter sol exurens montes*;  
 
-Caput 19
+secundo sicut fons fluvium, Eccli. XXIV 41 *ego quasi fluvius Doris*;  
+
+tertio sicut pater filium, Jo. III 16 *sic Deus dilexit mundum ut unigenitum daret*.  
+
+**453**. ***Audivimus***. Hic ponit contemptum consilii ex superbia procedentem. Unde describit eorum superbiam quantum ad tria:  
+
+quantum ad divulgationem: ***audivimus***, quasi publicum;  
+
+quantum ad quantitatem: ***superbus est valde***;  
+
+quantum ad hoc quod excedit ejus dignitatem: ***superbia ejus***, qua de bonis habitis se extollit, ***arrogantia***, qua non habita praetendit, ***indignatio***, qua vindictas praesumptuose proponit, ***plus quam*** etc.  
+
+**454**. ***Idcirco***. Hic ponit poenam contemnentium.  
+
+Et primo puniendorum fletum: ***Moab ad Moab***, id est ad invicem, de quo supra XV satis dicitur.  
+
+Secundo describit poenae modum: ***his qui laetantur***; et ponuntur tria.  
+
+Primo indicitur poenae denuntiatio prophetis vel nuntiis: ***qui laetantur***, gloriantur et confidunt de munitionibus ex muris lateritiis, Ez. XXXVI *si speculator viderit* etc.  
+
+**455**. Secundo ponitur poenae descriptio quantum ad destructionem terrarum: ***Esebon***, civitas in cujus terris abundabat triticum; ***Sabama***, civitas vicina in qua abundabat vinum. Quantum ad hostium fortitudinem: ***domini gentium***, id est Assyrii vel Chaldaei, multis gentibus dominantes; ***flagella***, id est palmites qui sunt in summitate vitis, per quos metaphorice significantur principes et sublimes; ***usque ad Jazer*** destruendo—quae est in ultimis finibus—, quantum ad afflictionem hominum, ***domini gentium*** ***erraverunt***, Ps. *erraverunt in solitudine, in inaquoso*; vilitatem remanentium: ***propagines***, quae remanent in vinea excisis flagellis, sine fructu et decore, Dan. IV 12 *germen radicum ejus in terra sinite*; elongationem captivorum: ***transierunt mare*** Moabiticum, ducti captivi in Babylonem. Vel ***mare***, id est Euphratem, secundum consuetudinem Hebraeorum, Joelis III 8 *venundabunt eos Sabaeis, genti longinquae*; vel exponitur de Assyriis mare transeuntibus et venientibus ad destruendum.  
+
+**456**. Tertio ponitur prophetae compassio.  
+
+Et primo ponitur compassio: ***super hoc***, scilicet malum Moab, ***plorabo in fletu Jazer***, id est deflens illa civitatem Moab, et similiter etiam ***vineam Sabama, et Eleale***.  
+
+Secundo ponitur compassionis ratio quantum ad hostium impetum: ***calcantium***, id est Assyriorum devastantium, et quantum ad sublatum ab eis gaudium quod habebant de abundantia frumenti: ***de Carmelo***, id est de fertilitate,—Carmelus enim non est in Moab, sed utuntur Judaei nominibus propriis pro appellativis—; et gaudium quod habebant in abundantia vini: ***in vineis***, Ier. XLVIII 33.  
+
+Tertio infertur quasi ex ratione conclusio: ***super hoc*** infortunio, ***venter***, id est sensus, ***meus, quasi cithara*** faciens sonum ad planctum, vel quia cithara auget gaudium laetis et tristitiam tristibus, vel propter concordiam virtutum prophetae.  
+
+**457**. ***Et erit***. Hic ostendit frustrationem eorum, et de idolis quibus sacrificabant in excelsis, et quibus sacrificabant in templis quando erant in timoribus, Deut. XXXII 37 *ubi sunt dii eorum in quibus habebant fiduciam?*  
+
+**458**. ***Hoc verbum***. Hic est epilogus. ***ex tunc***, a morte regis Achaz.  
+
+**459**. ***Et nunc***. Hic ostendit brevitatem temporis: ***in tribus annis***, qui erunt usque ad destructionem vestram, et a morte Achaz—suo tempore fuit visio hujus secundi verbi—; vel in quibus durabit vestra persecutio vel impugnatio; ***anni mercenarii***, quia post hos Dominus reddet vobis mercedem pro peccatis vestris; vel qui videntur magni, mercenarii sunt et Domino parvi, Job VII 1 *militia est vita hominis super terram, et quasi mercenarii dies ejus*.

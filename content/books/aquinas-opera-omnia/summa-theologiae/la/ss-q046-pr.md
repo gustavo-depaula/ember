@@ -1,7 +1,8 @@
-# Quaestio 46 — Deinde considerandum est de stultitia, quae opponitur sapientiae. Et circa hoc quaeruntur tria.
+# Quaestio 46
 
-Primo, utrum stultitia opponatur sapientiae.
+Deinde considerandum est de stultitia, quae opponitur sapientiae. Et circa hoc quaeruntur tria.  
 
-Secundo, utrum stultitia sit peccatum.
+Primo, utrum stultitia opponatur sapientiae.  
 
-Tertio, ad quod vitium capitale reducatur.
+- Secundo, utrum stultitia sit peccatum.
+- Tertio, ad quod vitium capitale reducatur.

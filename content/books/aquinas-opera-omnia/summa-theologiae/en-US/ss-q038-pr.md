@@ -1,5 +1,7 @@
-# Question 38 — We must now consider contention, in respect of which there are two points of inquiry:
+# Question 38 — Contention
 
-(1) Whether contention is a mortal sin?
+We must now consider contention, in respect of which there are two points of inquiry:  
 
-(2) Whether it is a daughter of vainglory?
+(1) Whether contention is a mortal sin?  
+
+- (2) Whether it is a daughter of vainglory?

@@ -1,9 +1,9 @@
-# Quaestio 51 — Deinde considerandum est de sepultura Christi. Et circa hoc quaeruntur quatuor.
+# Quaestio 51
 
-Primo, utrum conveniens fuerit Christum sepeliri.
+***Deinde considerandum est de sepultura Christi. Et circa hoc quaeruntur quatuor.***
 
-Secundo, de modo sepulturae eius.
+Primo, utrum conveniens fuerit Christum sepeliri.  
 
-Tertio, utrum corpus eius fuerit in sepulcro resolutum.
-
-Quarto, de tempore quo iacuit in sepulcro.
+- Secundo, de modo sepulturae eius.
+- Tertio, utrum corpus eius fuerit in sepulcro resolutum.
+- Quarto, de tempore quo iacuit in sepulcro.

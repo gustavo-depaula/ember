@@ -1,0 +1,3 @@
+# Articulus 54
+
+Quod vero quinquagesimo quarto ponitur, *Deus pater in eadem specie, scilicet seipso sive essentia sua, se et omnia intelligit, ideo eandem speciem, idest filium, ad se et ad omnia proferenda de se gignit*, improprie dictum est, sicut et si diceretur Deus pater de se gignit sapientiam; esset autem proprie dictum, si diceret, filium de se gignit sapientiam: quia est eadem species proferendi. Proferre autem accidit dicere; unde convenientius diceretur: Deus pater gignit de se filium ad se et omnia dicenda: pater enim se et omnia alia dicit verbo suo, quod est filius. Obiiciens autem male exponit proferre, idest producere.

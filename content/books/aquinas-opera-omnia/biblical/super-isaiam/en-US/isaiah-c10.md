@@ -1,349 +1,341 @@
-# Chapter 10
+# Chapter 8
 
-> ^10:2^ to oppress the poor in judgment, and do violence to the cause of the humble of my people: that widows might be their prey, and that they might rob orphans.DR: “the fatherless.”
+***Lecture 1***
 
-> ^10:3^ What will you do in the day of visitation, and of the calamity which comes from afar? To whom will you flee for help? And where will you leave your glory?
+^8:1^ And the Lord said to me: take you a great book, and write in it with a man’s pen. Take away the spoils with speed, quickly take the prey.  
 
-> ^10:4^ That you be not bowed down under the bond, and fall with the slain? In all these things his anger is not turned away, but his hand is stretched out still.
+> ^8:2^ And I took unto me faithful witnesses, Urias the priest, and Zachariah the son of Barachias.
 
-> ^10:5 ^Woe to the Assyrian, he is the rod and the staff of my anger, and my indignation is in their hands.
+> ^8:3^ And I went to the prophetess, and she conceived, and bore a son. And the Lord said to me: call his name, hasten to take away the spoils: make haste to take away the prey.
 
-> ^10:6 ^I will send him to a deceitful nation, and I will give him a charge against the people of my wrath, to take away the spoils, and to lay hold on the prey, and to tread them down like the mire of the streets.
+> **263**. ***And the Lord said to me: take you a great book***. Here he foretells the destruction of the ten tribes, insofar as it pertains to their punishment. This was carried out by the Assyrians: first, in the reign of Phacee, by Theglathphalasar, who captured the two and a half tribes which were across the Jordan, and many people from the tribes of Zebulon and Naphtali (2 Kgs 15); afterwards, by Salmanasar, who reduced the remaining tribes to captivity (2 Kgs 18:9–12). However, the two tribes also shared in this tribulation, for they were afflicted by Theglathphalasar, as is said in 2 Chronicles 28:20, and by Sennacherib, as is said below in chapter 36. Nevertheless, they were not entirely subjugated. And this is divided into two parts:
 
-> ^10:7^ But he shall not take it so, and his heart shall not think so: but his heart shall be set to grind to pieces,*Conterendum*. DR: “destroy.” and to cut off nations not a few.
+in the first, he foretells the tribulation;  
 
-> ^10:8^ For he shall say:
+in the second, its mode and order: ***at the first time the land of Zabulon, and the land of Nephtali was lightly touched*** (ch. 9).  
 
-> ^10:9^ are not my princes as so many kings? Is not Calano as Charcamis: and Emath as Arphad? Is not Samaria as Damascus?
+**264**. This chapter, moreover, is divided into three parts:  
 
-> ^10:10^ How*Quomodo*. DR: “as.” my hand has found the kingdoms of the idol, so also their images*Simulacra*. DR: “idols.” of Jerusalem, and of Samaria.
+in the first, he threatens the ten tribes with destruction by the Assyrians;  
 
-> ^10:11^ Shall I not, as I have done to Samaria and her idols, so do to Jerusalem and her images?*Simulacris*. DR: “idols.”
+in the second, he foretells the affliction of the two tribes in this, where it says, ***and shall pass through Judah, overflowing*** (Isa 8:8);  
 
-> ^10:12^ And it shall come to pass, that when the Lord shall have performed all his works in mount Zion, and in Jerusalem, I will visit the fruit of the proud heart of the king of Assyria, and the glory of the haughtiness of his eyes.
+in the third, he strengthens them with their future liberation, where it says, ***gather yourselves*** (Isa 8:9).  
 
-> ^10:13^ For he has said: by the strength of my own hand I have done it, and by my own wisdom I have understood: and I have removed the bounds of the people, and have taken the spoils of the princes, and as a mighty man has pulled down them that sat on high.
+Concerning the first, he does two things:  
 
-> ^10:14^ And my hand has found the strength of the people as a nest; and as eggs are gathered, that are left, so have I gathered all the earth: and there was none that moved the wing, or opened the mouth, or whimpered.*Ganniret*. DR: “made the least noise.”
+in the first, the sign of destruction is set out;  
 
-> ^10:15^ Shall the axe boast itself against him that cuts with it? Or shall the saw exalt itself against him by whom it is drawn? As if a rod should lift itself up against him that lifts it up, and a staff exalt itself, which is but wood.
+in the second, the deed itself is described, where it says, ***and the Lord spoke to me again*** (Isa 8:5).  
 
-> ^10:16^ Therefore the sovereign Lord, the Lord of hosts, shall send leanness among his fat ones: and under his glory shall be kindled a burning, as it were the burning of a fire.
+Concerning the first, he sets out two things:  
 
-> ^10:17^ And the light of Israel shall be as a fire, and the Holy One thereof as a flame: and his thorns and his briers shall be set on fire, and shall be devoured in one day.
+first, he sets out the prefiguration of the punishment;  
 
-> ^10:18^ And the glory of his forest, and of his beautiful hill, shall be consumed from the soul even to the flesh, and he shall run away through fear.
+in the second, the expression of the sign, where it says, ***for before the child know*** (Isa 8:4).  
 
-> ^10:19^ And they that remain of the trees of his forest shall be so few, that they shall easily be numbered, and a child shall write them down.
+The Jews, however, interpret this sign literally as the son of Isaiah, through whose name the Lord wished to signify the destruction of the ten tribes. And according to this, he confirmed the sign in three ways:  
 
-> ^10:20^ And it shall come to pass in that day, that the remnant of Israel, and they that shall escape of the house of Jacob, shall lean no more upon him that strikes them: but they shall lean upon the Lord the Holy One of Israel, in truth.
+first, by writing;  
 
-> ^10:21^ The remnant shall be converted, the remnant, I say, of Jacob, to the mighty God.
+second, by testimony, where it says, ***and I took*** (Isa 8:2);  
 
-> ^10:22^ For if your people, O Israel, shall be as the sand of the sea, a remnant of them shall be converted, the end*Consummatio*. DR: “consumption.” abridged shall overflow with justice.
+third, by the deed itself, where it says, ***and I went*** (Isa 8:3).  
 
-> ^10:23^ For the Lord God of hosts shall make an end,*Consummatio*. DR: “consumption.” and an abridgment in the midst of all the land.
+**265**. Concerning the first, he sets out three things,  
 
-> ^10:24^ Therefore, thus says the Lord the God of hosts: O my people that dwell in Zion, be not afraid of the Assyrian: he shall strike you with his rod, and he shall lift up his staff over you in the way of Egypt.
+namely, that in which it is to be written: ***a great book***, for, literally, the book is large to signify the magnitude of the tribulation: *take you a roll of a book, and you shall write in it all that I have spoken to you against Israel and Judah* (Jer 36:2).  
 
-> ^10:25^ For yet a little and a very little while, and my indignation shall cease, and my wrath shall be upon their wickedness.
+Second, that with which it is to be written: ***with a man’s pen***, that is, plainly, that it may be understood, and that what is written will remain: *write the vision, and make it plain upon tables: that he that reads it may run over it* (Hab 2:2).  
 
-> ^10:26^ And the Lord of hosts shall raise up a scourge against him, according to the slaughter of Madian in the rock of Oreb, and his rod over the sea, and he shall lift it up in the way of Egypt.
+Third, that which is to be written, namely, the name of him who will lay waste, signifying in brief the future destruction: ***take away the spoils with speed, quickly take the prey***, that is, ravage. These may be words of the Lord spoken to the prophet, and thus they are taken materially; or they are spoken to the enemies, and thus, significatively, below: ***and I will give him a charge against the people of my wrath, to take away the spoils, and to lay hold on the prey*** (Isa 10:6).  
 
-> ^10:27^ And it shall come to pass in that day, that his burden shall be taken away from off your shoulder, and his yoke from off your neck, and the yoke shall putrefy at the presence of the oil.
+**266**. ***And I took unto me***. Here the sign is confirmed by testimony; ***faithful witnesses***: *in the mouth of two or three witnesses let every word stand* (Deut 19:15).  
 
-> ^10:28^ He shall come into Aiath, he shall pass into Magron: at Machmas he shall lay up his carriages.
+**267**. ***And I went to the prophetess***. Here it is confirmed by the deed, for sometimes the prophets announced a future thing also by the deed itself, as below: ***go, and loose the sackcloth from off your loins, and take off your shoes from your feet. And he did so, and went naked, and barefoot*** (Isa 20:2). Hence this is understood literally that he went to his wife. Hence two things are set out:  
 
-> ^10:29^ They have passed in haste, Gaba is our lodging: Rama was astonished, Gabaath of Saul fled away.
+first, the begetting of the child: ***and I went***;  
 
-> ^10:30^ Whinny with your voice,*Hinni voce tua*. DR: “lift up thy voice.” O daughter of Gallim, attend, O Laisa, poor Anathoth.
+second, the naming of the begotten, ***call his name, hasten***, as if to say: make haste to do it; ***take away the spoils***, *(*Detrahe spolia*.)* as above (Isa 8:1).  
 
-> ^10:31^ Medemena is removed: you inhabitants of Gabim, take courage.
+Or according to another version of Jerome: ***hasten, the spoils take away***; *(*Spolia detrahe*.)* and this is better, since, according to this, there is nothing more in the name than in what was written in the book.  
 
-> ^10:32^ It is yet day enough, to remain in Nobe: he shall shake his hand against the mountain of the daughter of Zion, the hill of Jerusalem.
+**268**. Against this, some object in many ways that it should not be understood literally,  
 
-> ^10:33^ Behold the sovereign Lord of hosts shall break the earthen vessel with terror, and the tall of stature shall be cut down, and the lofty shall be humbled.
+first, because, since the words commanded to be written are few, it is not necessary for the book to be large;  
 
-> ^10:34^ And the thickets of the forest shall be cut down with iron, and Libanus with its high ones shall fall.
+second, because it is not probable that the prophet, a decent man, would have brought in witnesses when he went to his wife;  
 
-> **322**. ***Woe to them that make wicked laws***. Here he begins to threaten against foreign enemies who persecute them bodily:
+third, because Urias made an altar of idols like the altar of Damascus in the temple of the Lord (2 Kgs 16:15–16), and thus he was not a faithful witness;  
 
-and first, against those who lay waste,
+fourth, because Zachariah was not alive then, for Zachariah the son of Joiada had been killed long before by Joas, king of Judah (2 Chr 24:22); another man is called Zachariah, who was one of the twelve prophets, and he lived long after, during the return of the people from captivity, as is clear from Zechariah 1:1 and through the whole book: therefore, the prophet could not have taken Zachariah as a witness; and moreover there remains a similar objection as exists with the first sign, *(See above on 7:14.)* that the child himself was born before the death of Phacee: therefore, as was proved above, he was at least nineteen years old at the capture of Samaria, and therefore what is said in 8:4 is false: ***before the child know to call his father and his mother***.  
 
-second, against those who rejoice in this laying waste: ***in the year that king Achaz died*** (Isa 14:28).
+**269**. And thus they hold that this is understood only of Christ, just as the first sign; that, by ***the great book***, Sacred Scripture is signified, about which it says in Baruch 4:1: *this is the book of the commandments of God, and the law, that is for ever*; by ***the man’s pen***, the manner of prophecy, that it is not altogether clear to everyone, but only to the rational, who can conceive things signified from figures: *I have multiplied visions, and I have used similitudes by the ministry of the prophets* (Hos 12:10).  
 
-The first of these is divided into two:
+***Take away the spoils with speed***, the name of Christ, that is, a circumlocution for his name, because Jesus is savior, in that he took away spoils, that is, sinners, from the power of the devil, and plundered hell, about which it says below: ***therefore will I distribute to him very many, and he shall divide the spoils of the strong*** (Isa 53:12).  
 
-in the first, he threatens against the Assyrians who were taking the ten tribes captive and afflicting the two tribes;
+By ***Urias***, which means “light of the Lord,” the law is signified: *because the commandment is a lamp, and the law a light* (Prov 6:23). By ***Zachariah***, which means “memory of the Lord,” ***the son of Barachias***, which means “blessing of the Lord,” prophecy is signified, for the prophets received divine knowledge through the blessing of a divine gift. And these, namely, the law and the prophets, are the witnesses of the Incarnation of Christ: *all things must needs be fulfilled which are written in the law of Moses and in the prophets and in the psalms, concerning me* (Luke 24:44). The prophetess, moreover, is the blessed Virgin, who prophesied saying: *my soul doth magnify the Lord* (Luke 1:46), to whom the prophet went through prophetic understanding and through faith; or the prophetess is said to be the Holy Spirit, who is the principle of all prophecy: *for prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Spirit* (2 Pet 1:21). For in Hebrew, the word for “spirit,” namely, *ruah*, is feminine in gender, and according to this, ***she conceived***, that is, the Spirit made Mary to conceive: *for that which is conceived in her, is of the Holy Spirit* (Matt 1:20). ***Call his name***, O Isaiah, that is, foretell his name, as above.  
 
-in the second, against the Babylonians who take the two tribes captive: ***the burden of Babylon*** (ch. 13).
+**270**. This interpretation, however, is not of such authority as that above on 7:14, concerning the other sign, because it is more forced and does not have authority from the Scriptures, as the other does from Matthew 1:22–23. Hence some say that it is not unreasonable if this be understood literally, in such a way, however, that this child may be a figure of Christ, as is also said above in a certain gloss on 7:14: ***behold a virgin***.  
 
-The first of these is divided into three:
+Hence, according to this, a reply can be made to the objections that were made at first.  
 
-in the first, he threatens the destruction of the enemies;
+And to the first is to be said that the book was great, not because the writing required it, but to signify the magnitude of the tribulation.  
 
-in the second, he promises the restoration of the people: ***and there shall come forth*** (ch. 11);
+To the second is to be said that it can be understood that the witnesses were brought in for the writing, as may be done in claims of privilege, and not for his going to his wife; and even if they were brought in for this, it would not be more against decency, as it seems, than bringing in witnesses for fornication as in Hosea 1:2–3, even though many interpret that passage literally.  
 
-in the third, he places their thanksgiving: ***I will give thanks*** (ch. 12).
+To the third is to be said that Urias is called faithful because of the authority of the priesthood and not because of the goodness of his life; or that he was held to be worthy of faith by the king.  
 
-**323**. And this chapter is divided into two parts:
+To the fourth is to be said that this Zachariah was neither of the ones named; for it is the custom among the Hebrews, as among many peoples, that names are given to sons from their kindred, as is said in Luke 1:61 of John: *there is none of your kindred that is called by this name*, and thus, this Zachariah could have been from the progeny of the one who had been killed earlier; or it is also the custom among the Hebrews, as Jerome says, that they often use a proper noun for a common noun, as they often use Bosra, which is the name of a fortified city, for any fortified city: and thus, because that Zachariah was a faithful prophet, and of great reputation among the people, this man is also called Zachariah, who perhaps was similarly worthy of faith to the people of that place.  
 
-in the first, he threatens against the princes of the two tribes, who trusted in the help of the Assyrians, namely Achaz, under whom this vision was written, as is read in 2 Kings 16:7;
+To the fifth is to be said that this is not a similar objection, for it is necessary that what is said above only be understood of the destruction, because it says in 7:16: ***the land shall be forsaken***; but 8:4 can be understood of the persecution carried out by Theglathphalasar, who destroyed Damascus (2 Kgs 16:9), and despoiled the kingdom of Samaria (2 Kgs 15:19–20); hence he says expressly: ***the strength of Damascus, and the spoils of Samaria shall be taken away***, and this event was near enough.  
 
-in the second, against the Assyrians themselves: ***woe to the Assyrian*** (Isa 10:4). However, some begin chapter 10 there, and then it would be easier, because this part would thus not be distinguished from the preceding chapter.
+**271**. It is to be noted on the words, ***a great book*** (Isa 8:1), that the Sacred Page is a book that is said to be,  
 
-**324**. The first of these is divided into two:
+first, ***great***, as to the greatness of its content: *hear me, *(Vg. omits “me.”)* for I will speak of great things: and my lips shall be opened to preach right things* (Prov 8:6).  
 
-in the first, the threat is set out;
+Second, it is ***sealed***, as to vision, below: ***and the vision of all shall be unto you as the words of a book that is sealed*** (Isa 29:11).  
 
-in the second, the preparation of further punishment is shown: ***in all these things*** (Isa 10:4).
+Third, it is ***rolled up*** because of its multiple senses: *and I looked, and behold, a hand was sent to me, wherein was a book rolled up* (Ezek 2:9).  
 
-The first is divided into two:
+Fourth, it is ***bitter*** because of the labor of study: *and I took the book from the hand of the angel and ate it up: and it was in my mouth, sweet as honey. And when I had eaten it, my belly was bitter* (Rev 10:10); *they that in the morning early watch for me, shall find me* (Prov 8:17).  
 
-in the first, he denounces their fault,
+Fifth, it is ***sweet***, as to its effect: *eat this book: and I did eat it: and it was sweet as honey in my mouth* (Ezek 3:1–3).  
 
-in the second, he threatens punishment: ***what will you do?*** (Isa 10:3).
+Sixth, it is ***flying***, as to its meaning: *I saw, and behold a volume flying* (Zech 5:1); *will the eagle mount up at your command, and make her nest in high places?* (Job 39:27).  
 
-He denounces the fault of the princes as to two things.
+Seventh, it is ***life-giving***, as to its fruit: *all these things are the book of life, and the covenant of the Most High, and the knowledge of truth* (Sir 24:32); *he that shall find me, shall find life* (Prov 8:35).  
 
-As to perverse lawgiving: ***woe to them that make wicked laws***, in as far as the law is established by the decree of the prince, ***and when they write***, in as far as it is confirmed in writing: *for they, not knowing the justice of God and seeking to establish their own, have not submitted themselves to the justice of God* (Rom 10:3); *why do your disciples transgress* (Matt 15:2).
+Lecture 2  
 
-Second, as to the intention of oppressing those who are powerless, either because of poverty: ***the poor***, or because of low rank: ***humble***: *they crush as the dust* (Amos 2:7); or because of weakness of sex: ***widows***; or because of age: ***orphans***. Above: ***they judge not for orphans***DR: “the fatherless.” (Isa 1:23).
+^8:4^ For before the child know to call his father and his mother, the strength of Damascus, and the spoils of Samaria shall be taken away before the king of the Assyrians.  
 
-**325**. ***What will you do?*** Here he threatens punishment,
+> ^8:5^ And the Lord spoke to me again, saying:
 
-and first, he takes away the remedy of escape. And this is threefold:
+> ^8:6^ Forasmuch as this people has cast away the waters of Siloe, that go with silence, and has rather taken Rasin, and the son of Romelia:
 
-confidence in their own power: ***what will you do in the day of visitation, and of the calamity which comes from afar***, as to the fortifying of their enemies or as to the prediction of the prophets: *what will you do in the solemn day, in the day of the feast of the Lord?* (Hos 9:5). *Who can stand before the face of his indignation?* (Nah 1:6).
+> ^8:7^ Therefore behold the Lord will bring upon them the waters of the river strong and many, the king of the Assyrians, and all his glory: and he shall come up over all his channels, and shall overflow all his banks.
 
-Second, as to the friendship of the powerful: ***to whom will you flee for help?** Behold there is no help for me in myself, and my familiar friends also are departed from me* (Job 6:13).
+> ^8:8^ And shall pass through Judah, overflowing, and going over shall reach even to the neck. And the stretching out of his wings shall fill the breadth of your land, O Emmanuel.
 
-Third, as to the glory of riches: ***and where will you leave your glory***, as if to say: which will not profit you. *What has pride profited us? Or what advantage has the boasting of riches brought us?* (Wis 5:8).
+> ^8:9^ Gather yourselves together, O you peoples, *(*Populi*. DR: “people.”)* and be overcome, and give ear, all you lands afar off: strengthen yourselves, and be overcome, gird yourselves, and be overcome.
 
-**326**. Second, he expresses the manner of punishment,
+> ^8:10^ Take counsel together, and it shall be defeated: speak a word, and it shall not be done: because God is with us.
 
-and first, the punishment of captivity: ***that you be not bowed down under***, above: ***and the loftiness of men shall be bowed down, and the haughtiness of men shall be humbled*** (Isa 2:17);
+> ^8:11^ For the Lord says these things to me: *(*Haec enim ait Dominus ad me*. DR: “for thus saith the Lord to me.”)* as he has taught me, with a strong hand, *(*Manu*. DR: “arm.”)* that I should not walk in the way of this people, saying:
 
-second, of killing: ***and fall with the slain***: *all of them slain, fallen by the sword* (Ezek 32:24).
+> ^8:12^ Say not: a conspiracy: for all that this people speaks, is a conspiracy: neither fear their fear, nor be afraid.
 
-**327**. ***In all these things***. Here the preparation of further punishment is set out: this is explained as above.
+> ^8:13^ Sanctify the Lord of hosts himself: and let him be your dread, *(*Pavor*. DR: “fear.”)* and let him be your terror. *(*Terror*. DR: “dread.”)*
 
-**328**. ***Woe to the Assyrian***. In this part, he threatens against the Assyrians themselves, and this is divided into two parts:
+> **272**. ***For before the child know***. Here the interpretation of the sign is set out; and it is already clear according to the literal interpretation. According to the other interpretation, however: ***for before the child know***, by created knowledge, ***his father***, his putative father Joseph, or God; ***the strength of Damascus, and the spoils of Samaria shall be taken away***, according to this, this can also be referred to the captivity of Samaria.
 
-in the first part the threat against the enemies who oppress them is set out;
+**273**. ***And the Lord spoke to me again***. Here the deed of destruction itself is described. And concerning this, he does three things:  
 
-in the second, the strengthening of the oppressed people: ***therefore, thus says the Lord*** (Isa 10:24).
+first, he sets out the fault of those to be punished;  
 
-The first of these is divided into three:
+second, the power of those who punish them: ***behold the Lord will bring upon them*** (Isa 8:7);  
 
-in the first, he denounces their fault;
+third, he sets out the punishment itself: ***he shall come up over all***.  
 
-in the second, he threatens punishment: ***therefore the sovereign Lord, the Lord of hosts, shall send*** (Isa 10:16);
+Therefore, he first says, ***and the Lord spoke to me again***. After the sign was given, ***the waters of Siloe***. Siloe is a certain spring which arises at the foot of mount Zion, whose waters bubble up for hours and flow evenly; hence they signify the kings of Judah, who were sometimes good and powerful and sometimes evil and weak but nevertheless reigned lawfully and quietly in comparison to the kings of Israel, who all drove the people to idols.  
 
-in the third, he shows the effect of the punishment: ***and he shall run away*** (Isa 10:18).
+**274**. But it seems that this should not be imputed to them as a fault, because it was done by the will of the Lord, as it says in 1 Kings 12:24: *this thing is from me*. And to this is to be said that the Lord justly willed that the kings of Judah should suffer this harm because of the fault of Solomon, about which, see 1 Kings 11; but Israel did this wickedly and because of their pride of heart, for they did not wish to pay the customary taxes, as is read in 1 Kings 12:4. Or otherwise: ***this people has cast away***, that is, they disdained and persecuted, following the malice of two kings. And this seems to be the intention from what follows: ***and has rather taken Rasin***.  
 
-And their fault consists in transgression of precept or in abuse of authority; hence, the first part is divided into three:
+**275**. ***Therefore***. Here the power of the enemy is described.  
 
-in the first, their commission of authority is set out;
+And first, a metaphor is set out as to four things, namely, as to divine help: ***behold the Lord will bring upon them***; as to the impulse: ***the waters of the river***; as to their strength: ***strong***; as to their number, ***and many***, below: ***nations shall make a noise like the noise of waters overflowing*** (Isa 17:13).  
 
-in the second, their abuse of authority: ***but he shall not take it so*** (Isa 10:7);
+Second, he explains the metaphor: ***the king of the Assyrians, and all his glory***, that is, his army: *behold a people comes from the land of the north, and a great nation shall rise up* (Jer 6:22). The Gloss says that this is understood to be Sennacherib.  
 
-in the third, the vainglory of the abuser: ***and it shall come to pass, that when the Lord shall have performed*** (Isa 10:12).
+On the contrary, it was not Sennacherib that laid Samaria waste but Salmanasar, as is said in 2 Kings 18:9. To this some say that the same man is called Salmanasar and Sennacherib. But this is plainly false from what is said in Tobit 1:15, that when Salmanasar was dead, Sennacherib his son reigned in his place.  
 
-**329**. Concerning the first, he does three things:
+And therefore it is to be said that, with Salamanasar reigning but already aged, his son was in the army, and perhaps was at the head of it; and therefore the same army can be said to belong to either one. Hence he speaks of all the destruction which was done by those kings of the Assyrians as if it were from one persecutor, because of the unity of their reign.  
 
-first, the office of scourging is committed to the Assyrians;
+**276**. ***And he shall come up***. Here he places the punishment itself; and he preserves the metaphor, for overflowing waters are higher: hence he says: ***and he shall come up over all his channels***, that is, his princes, ***and over all his banks***, his lands: *my indignation shall come up in my wrath, and in my zeal* (Ezek 38:18–19).  
 
-second, he designates the one who is deserving of scourges: ***I will send him to a deceitful nation*** (Isa 10:6);
+**277**. ***And shall pass through Judah***. Here he foretells the tribulation running over into the two tribes.  
 
-third, he sets out the manner of scourging: ***to take away the spoils*** (Isa 10:6).
+And first, he sets out the running over of the tribulation: ***and shall pass***, namely, the impulse of water, ***through Judah***, that is, through the land of Judea, ***overflowing***; he preserves the metaphor: for when waters overflow, they send out waves beyond their bed into the neighboring fields. And he says, ***shall pass***, because they will not have complete dominion, below: ***as the violence of many waters overflowing*** (Isa 28:2); *behold there come up waters out of the north, and they shall be as an overflowing torrent, and they shall cover the land, and all that is therein, the city and the inhabitants thereof* (Jer 47:2).  
 
-Concerning the first, he designates three things:
+Second, the overflowing of the persecution: ***and going over shall reach even to the neck***. He speaks metaphorically, as if he were saying: they shall run over in such abundance that if anyone wished to cross the waters, they would come up to his neck, as he would almost be submerged in them: in which it is signified that they will be near captivity, as is shown below (ch. 36). *And behold there ran out waters on the right side* (Ezek 47:2); *the waters were risen so as to make a deep torrent, which could not be passed over* (Ezek 47:5).  
 
-the one who scourges: ***woe***, it nears you, ***the Assyrian***, you who are ***the rod of my anger***;
+Third, the multitude of the army: ***and the stretching out of his wings***, that is, its princes, ***shall fill***, by its multitude, ***the breadth of your land***, that is, Judea, ***O Emmanuel***, Christ, who came to be born from it; for Sennacherib sent his princes to capture Jerusalem, below (Isa 36:3). Of these wings, Ezekiel 17:3–4 says, *a large eagle with great wings, long-limbed, full of feathers, and of variety, came to Libanus, and took away the marrow of the cedar and the top of the twigs thereof: and carried it away into the land of Chanaan, and he set it in a city of merchants*.  
 
-the power of scourging: ***the staff***, by which I myself scourge, ***is in their hands***, that is, their power, that is, in execution;
+**278**. ***Gather yourselves together, O you peoples***. Because he had said that the persecution of the Assyrians would run over in some manner into the two tribes, here he strengthens them, because they were not to be finally captured in that persecution, nor even be subjugated by the ten tribes and the Syrians. And this is divided into two parts:  
 
-and the scourging: ***my indignation*** is fulfilled through them, below: ***the Lord has broken the staff of the wicked, the rod of the rulers, that struck the people in wrath with an incurable wound*** (Isa 14:5–6).
+in the first, he sets out divine strengthening;  
 
-**330**. ***I will send him to a deceitful nation***. Here he describes the one who is deserving of scourges, both as to the fault: ***a deceitful nation***, because it does not keep its promise: *all that the Lord has spoken, we will do* (Exod 19:8); and as to the sentence, ***the people of my wrath***, that is, whom I have already judged fit to be punished, ***I will send***, I will inspire you to be fit to be punished: *the Lord said to me: go up to this land, and destroy it* (2 Kgs 18:25); ***to***, that is, against.
+in the second, he removes the communication of diviners: ***and when they shall say to you*** (Isa 8:19).  
 
-**331**. ***To take away***. Here he sets out the mode of scourging as to the taking away of their things: ***take away spoils***; as to detention, ***lay hold***; as to the oppression of men: ***tread them down like the mire***, for their baseness: *I shall bring them to naught, like the mireDR: “dirt.” in the streets* (Ps 17:43).
+Concerning the first, he sets out two things:  
 
-**332**. ***But he shall not take it so***. Here the abuse of the power conceded to the Assyrian is set out, insofar as he exceeded the ends of the mandate;
+first, he sets out the ridicule of the enemy,  
 
-and first, his intention is set out;
+second, the instruction of the people: ***for thus says the Lord*** (Isa 8:11).  
 
-second, the motive of his intention is set out: ***for he shall say*** (Isa 10:8).
+Concerning the first of these, he does two things:  
 
-Concerning the first, he does two things:
+first, he sets out the ridicule or insult;  
 
-first, he dismisses the fixed measure of the mandate, both as to the judgment of reason: ***but he shall not take it so***, and as to the intention of the heart: ***his heart shall not think so***, that is, he will assess the punishment;
+second, the reason for the ridicule: ***because God is with us*** (Isa 8:10).  
 
-second, he increases the punishment both as to manner: ***to grind to pieces***, that is, utterly destroy everything, and as to number: ***nations not a few***, but rather many, not only those to whom he was sent: *you have devised confusion to your house, you have cut off many people, and your soul has sinned* (Hab 2:10).
+And he ridicules the army of those who fight, the counsel of the wise, and the command of the lords: for wars are fought by these three.  
 
-**333**. ***For he shall say***. Here his motive is set out;
+**279**. Now an army grows strong by three things:  
 
-and first, he argues,
+namely, by multitude, and as to this, he says: ***O you peoples***, of Syria and Samaria, ***gather yourselves together***, that you may be many, and ***be overcome***, by God fighting against you through whomsoever of his ministers; and not only you, but ***give ear*** to this same thing ***all you lands***. And this is sarcasm, a certain species of trope, which is said to be a sort of ridicule that is hostile and full of hatred: *break forth, and come, all you nations from round about, and gather yourselves together: there will the Lord cause all your strong ones to fall down* (Joel 3:11).  
 
-second, he concludes: ***so shall I do to Jerusalem and her images*** (Isa 10:11).
+Second, it grows strong in the fortitude of body and soul of those who fight, and as to this he says, ***strengthen yourselves***: *let the weak say: I am strong* (Joel 3:10).  
 
-Concerning the first, he first argues the servitude of kings: ***are not my princes as so many kings?** He shall triumph over kings, and princes shall be his laughingstock* (Hab 1:10).
+Third, it grows strong in the protection of arms: ***gird yourselves***, which pertains properly to swords, but is taken from there to apply to all arms: *gird yourselves, and be valiant men, and be ready against the morning, that you may fight with these nations that are assembled against us to destroy us and our sanctuary* (1 Macc 3:58).  
 
-Second, the subjugation of cities: ***is not Calano as Charcamis***, below: ***for of a truth, O Lord, the kings of the Assyrians have laid waste lands, and their countries*** (Isa 37:18).
+**280**. As to counsel: ***take counsel together, and it shall be defeated***: *who catches *(*Comprehendit*. Vg.: *apprehendit*.)* the wise in their craftiness, and scatters *(*Dissipat*. DR: “disappointeth.”)* the counsel of the wicked* (Job 5:13); *there is no wisdom, there is no prudence, there is no counsel against the Lord* (Prov 21:30).  
 
-Third, the destruction of idols: ***how my hand has found the kingdoms of the idol***: wonderingly, as if to say: how was it that their gods did not resist me: *who are they among all the gods of the nations that have delivered their country out of my hand, that God*Deus*. Vg.: *Dominus*. DR: “the Lord.” may deliver Jerusalem out of my hand?* (2 Kgs 18:35).
+**281**. As to the commands of lords concerning these things which are chosen after counsel: ***speak a word, and it shall not be done***, above: ***let us make him king in the midst thereof*** (Isa 7:6). For the kings would announce what they chose to the people, as Homer says. *(In Aristotle, *Nicomachean Ethics* 3.9 (1113a8).)*  
 
-**334**. ***So shall I do to Jerusalem and her images***. Here he concludes
+**282**. He sets out the reason by translating the name Emmanuel, ***because God is with us***: *if God be for us, who is against us?* (Rom 8:31); *and they shall fight against you, and shall not prevail: for I am with you to save you, and to deliver you, says the Lord* (Jer 15:20).  
 
-first, from the nations to the entire people of Israel: ***so also their images of Jerusalem, and of Samaria***;
+**283**. ***For the Lord says these things to me***. Here the instruction of the people is set out:  
 
-second, from the ten tribes to the two: ***shall I not, as I have done to Samaria and her idols, so do to Jerusalem and her images?***
+and first, he teaches them what is not to be feared,  
 
-He speaks the truth concerning Samaria, because they worshipped idols, but Ezechias had removed the idols from Jerusalem (2 Kgs 18:4); also perhaps some idols secretly remained, which he found in the part of the city that Sobna the scribe handed over to him; or he calls the ark and the other things that adorned the temple ***images***: *behold the house of Judah is like all other nations* (Ezek 25:8).
+second, what is to be feared: ***sanctify the Lord of hosts*** (Isa 8:13).  
 
-**335**. ***And it shall come to pass***. Here he denounces his pride.
+The first is divided into two parts:  
 
-And first, his proud boasting is set out,
+namely, into the proof of the teaching  
 
-second, the occasion of his boasting: ***for he has said*** (Isa 10:13);
+and its handing on, where it says, ***say not: a conspiracy*** (Isa 8:12).  
 
-third, the rebuke of the boaster: ***shall the axe boast?*** (Isa 10:15).
+And he proves in two ways that enemies are not to be feared.  
 
-Therefore he says: ***and it shall come to pass, that when the Lord shall have performed all his works in mount Zion***, namely, the punishments by which he wishes to correct them, ***the proud heart***, as to presumption of his doing, ***and the glory of the haughtiness of his eyes***, as to his vainglory over his deeds, above: ***the lofty eyes of man are humbled*** (Isa 2:11).
+First, through the precept of the Lord; hence he says: you will be overcome thus, O enemies, ***for***, that is, because, ***the Lord says these things***, which have been spoken, ***to me***, and therefore, do not fear: *God is not a man, that he should lie, nor as the son of man, that he should be changed* (Num 23:19).  
 
-**336**. ***For he has said***. Here he sets out the occasion of his glory from the great things which he had done,
+Second, by his own example: he says: ***the Lord says***, I say, ***to me***; ***saying*** to you what follows to teach you, ***as he has taught me***, that is, that I not imitate them in their malice; and this ***with a strong hand***, that is, with tribulation. Or not only teaching what is to be done, but also giving the grace of virtue to carry it out: *from above he has sent fire into my bones, and has taught *(*Erudivit*. DR: “chastised.”)* me* (Lam 1:13).  
 
-and first, as to the condition of the doer;
+**284**. ***Say not***. Here the teaching itself is set out.  
 
-second, as to the greatness of the deed: ***and I have removed***;
+And first, he prohibits the word of fear: ***say not: a conspiracy***, of two nations, as if it is to be feared by us; ***for all that this people speaks, is a conspiracy***, against me. Hence if they join me to you in conspiracy, they will know that I am joined to you in defense: *your murmuring is not against us, but against God* *(*Deum*. Vg.: *Dominum*. DR: “the Lord.”)* (Exod 16:8); below: ***let us stand together. Who is my adversary? Let him come near to me*** (Isa 50:8).  
 
-third, as to the ease of doing: ***and my hand has found*** (Isa 10:14).
+Second, he prohibits the movement of passion: ***neither fear their fear***. Fear *(*Timor*.)* and dread *(*Pavor*.)* differ as more and less: for fear causes movement of the heart by way of contraction, but dread, as it were, immobilizes the heart: *if armies in camp should stand together against me, my heart shall not fear* (Ps 26[27]:3).  
 
-He shows the condition of the doer as to the power of wars: ***by the strength of my own hand***, as to the wisdom of counselors, ***and by my own wisdom***: *but for the wrath of the enemies I have deferred it: lest perhaps their enemies might be proud, and should say: our mighty hand, and not the Lord, has done all these things* (Deut 32:27).
+**285**. ***Sanctify the Lord of hosts***. Here he instructs them how the Lord is to be feared:  
 
-**337**. The greatness of the deed is measured from three things:
+and first, he sets out the law;  
 
-from the multitude of kingdoms; hence he says, ***and I have removed the bounds of the people***: he speaks like someone who acquires many fields and removes the bounds by which the separate possessions were divided;
+second, the hiding of the law: ***seal the law*** (Isa 8:16).  
 
-as to the plundering of princes: ***and have taken the spoils of the princes***;
+Concerning the first, he does three things:  
 
-as to the subjugation of kings: ***and as a mighty man has pulled down them that sat on high***, namely, on the seat of the king: *whom he would, he set up: and whom he would, he brought down* (Dan 5:19).
+first, he places the precept of the law;  
 
-**338**. The ease of doing is determined as to three things:
+second, the fruit of obedience: ***and he shall be a sanctification to you*** (Isa 8:14);  
 
-as to absolute subjection: ***and my hand has found the strength of the people as a nest***, which is in the power of the finder, below: ***and it shall come to pass, that as a bird fleeing away, and as young ones flying out of the nest*** (Isa 16:2);
+third, the punishment of rebels: ***but for a stone of stumbling***.  
 
-as to easy destruction: ***and as eggs are gathered, that are left, so have I gathered all the earth***, it was so easy: *but he will gather together unto him all nations, and heap together unto him all people* (Hab 2:5);
+And the precept is that God be honored: ***sanctify the Lord of hosts***, in yourselves, and serve him in holiness; ***let him be your dread***, inasmuch as he is Lord: *blessed is the man that fears the Lord* (Ps 111[112]:1); ***let him be your terror***, inasmuch as he is punisher: *fear not them that kill the body, and are not able to kill the soul: but rather fear him that can destroy both soul and body in hell* (Matt 10:28). Peter explains this as concerning Christ: *and be not afraid of their fear: and be not troubled* (1 Pet 3:14). This also seems to be the intention of the prophet because of what follows.  
 
-as to the removal of all contradiction: ***and there was none that moved the wing***, that is, the hand—for a bird defends itself with its wing—***or opened the mouth***, to contradict, ***or whimpered***, which is how wolves or birds lament: *son of man, behold I take from you the desire of your eyes with a stroke, and you shall not lament, nor weep; neither shall your tears run down* (Ezek 24:16).
+**286**. Note on the words, ***as he has taught me, with a strong hand*** (Isa 8:11), that there is a threefold divine hand.  
 
-**339**. ***Shall the axe boast itself?*** Here the rebuke of the boaster is set out, because he is like an instrument, which cannot work except by the movement of the craftsman: ***the axe***, for killing the wicked; ***shall the saw***, for separating the good from wicked, ***exalt itself***; ***a rod***, for correcting; ***a staff***, for supporting those corrected: *why doth your spirit swell against God, to utter such words out of your mouth?* (Job 15:13).
+First is the hand of divine power, and this is threefold:  
 
-**340**. ***Therefore the sovereign Lord, the Lord of hosts, shall send leanness***. Here he threatens punishment. And concerning this, he does three things:
+first, the hand of God creating: *your hands have made me, and fashioned me* (Job 10:8);  
 
-first, he threatens the judgment of punishment;
+second, containing: *in your hand, Lord, *(*In manu tua, Domine*. Vg.: *in manu ejus sunt*. DR: “in his hand.”)* are all the ends of the earth* (Ps 94[95]:4);  
 
-second, he determines the manner of punishment: ***and under his glory***;
+third, protecting, below: ***in the shadow of his hand he has protected me*** (Isa 49:2).  
 
-third, the effect of punishment: ***and he shall run away through fear*** (Isa 10:18).
+The second hand is the hand of justice, and this is threefold:  
 
-***Among his fat ones***, the powerful and the rich, below: ***and the Lord of hosts shall make unto all people in this mountain, a feast of fat things*** (Isa 25:6).
+first, touching to test: *the hand of the Lord has touched me* (Job 19:21);  
 
-**341**. ***And under***. Here the manner of punishment is determined, which was through burning; and three things are set out.
+second, scourging to cleanse: *for though, for the present time, I should be delivered from the punishments of men, yet should I not escape the hands *(*Manus*. Vg.: *manum*. DR: “hand.”)* of the Almighty neither alive nor dead* (2 Macc 6:26);  
 
-First, the species of punishment: ***his glory***, that is, the multitude of his host; ***under***, that is, under his clothes, for bodies were cremated in intact clothing, above: ***and your strength shall be as the ashes of tow, and your work as a spark*** (Isa 1:31).
+third, crushing to condemn: *it is a fearful thing to fall into the hands of the living God* (Heb 10:31).  
 
-Second, the one bringing the punishment, ***the Holy One*** of Israel, God, or the angel Michael, to whom that people was committed: *behold Michael, one of the chief princes, came to help me* (Dan 10:13); ***as a fire***, for he will punish them through fire: *all the land shall be devoured by the fire of his jealousy: for he shall make even a speedy destruction of all them that dwell in the land* (Zeph 1:18).
+The third hand is the hand of mercy, and this is threefold:  
 
-Third, the one suffering the punishment, both as to the lowly, ***his thorns and his briers***, which do not grow much; ***and the glory of his forest***, of Lebanon, as to the great, whom he compares to high trees of Lebanon because of their dignity; ***from the soul even to the flesh***, for they died both in soul and in body, above: ***for wickedness is kindled as a fire, it shall devour the brier and the thorn: and shall kindle in the thicket of the forest, and it shall be wrapped up in smoke ascending on high*** (Isa 9:18).
+first, healing: *he wounds, and cures: he strikes, and his hands shall heal* (Job 5:18);  
 
-**342**. ***And he shall run away through fear***. Here the effect of the punishment is set out.
+second, pasturing: *the people of his pasture and the sheep of his hand* (Ps 94[95]:7);  
 
-And first, the effect on the enemy as to their flight: ***and he shall run away through fear***. As to their small number, ***and they that remain of the trees***, for Sennacherib literally fled with few, namely, with ten: *you shall remain few in number, who before were as the stars of heaven for multitude* (Deut 28:62).
+third, crowning: *they shall receive a kingdom of glory, and a crown of beauty at the hand of the Lord* (Wis 5:17).  
 
-**343**. Second, the effect on the people: ***and it shall come to pass***, as to three things in which they offended, namely,
+Lecture 3  
 
-in their trust in the nations: ***upon him that strikes them***, because even those from whom they sought help sometimes afflicted them, ***they that shall escape***, either to Ezechias or to other nations: *they leaned upon you* (Ezek 29:7).
+^8:14^ And he shall be a sanctification to you. But for a stone of offense, *(*Offensionis*. DR: “stumbling.”)* and for a rock of scandal *(*Scandali*. DR: “offense.”)* to the two houses of Israel, for a snare and a ruin to the inhabitants of Jerusalem.  
 
-**344**. Second, as to their worship of idols, both as to manner, for ***in truth, the remnant***, against what is said in 1 Kings 18:21: *how long do you halt between two sides? If the Lord be God, follow him: but if Baal, then follow him*; and as to the converted, ***the remnant of Jacob***, who were left by the Assyrians: *save, O Lord, your people, the remnant of Israel* (Jer 31:7). And he confirms the promise: ***for if your people, O Israel, shall be as the sand of the sea***: *I will multiply your seed as the stars of heaven, and as the sand that is by the sea shore* (Gen 22:17).
+> ^8:15^ And very many of them shall stumble and fall, and shall be broken in pieces, and shall be snared, and taken.
 
-**345**. Third, as to the justice of their works;
+> ^8:16^ Bind up the testimony, seal the law among my disciples.
 
-and first, he sets out the promise: ***the end abridged***, that is, the destruction made brief in the army of Sennacherib, ***shall overflow with justice***, that is, he will make justice overflow in the people, below: ***let us have pity on the wicked, but he will not learn justice: in the land of the saints he has done wicked things*** (Isa 26:10).
+> ^8:17^ And I will wait for the Lord, who has hid his face from the house of Jacob, and I will look for him.
 
-Second, he places the confirmation: ***for the Lord God of hosts shall make an end***: *with a flood that passes by, he will make an utter end of the place thereof* (Nah 1:8); ***in the midst of all the land***, that is, in Jerusalem, which is in the middle of the land: *this is Jerusalem, I have set her in the midst of the nations, and the lands*Terrae*. DR: “countries.” round about her* (Ezek 5:5). Romans 9:27 interprets this as concerning the remnant of those to be saved; and the ***abridged word***, as the Septuagint reads,Septuagint (LXX): λόγον συντετμημένον. is the word of the Gospel: *on these two commandments depends the whole law and the prophets* (Matt 22:40); or the Word incarnate.
+> ^8:18^ Behold I and my children, whom the Lord has given me for a sign, and for a portent *(*Portentum*. DR: “wonder.”)* in Israel from the Lord of hosts, who dwells in mount Zion.
 
-**346**. ***Therefore, thus says the Lord***. Here the strengthening of the people is set out, and concerning this, he does two things.
+> ^8:19^ And when they shall say to you: seek of pythons, and of diviners, who mutter in their enchantments: should not the people seek of their God, for the living and the dead? *(*Pro vivis ac mortuis*. Vg.: *pro vivis a mortuis*. DR: “for the living of the dead.”)*
 
-First, he sets out the strengthening: ***be not afraid***, below: ***fear not, you worm of Jacob, you that are dead of Israel*** (Isa 41:14).
+> ^8:20^ To the law rather, and to the testimony. And if they speak not according to this word, they shall not have the morning light.
 
-Second, he explains their escape,
+> ^8:21^ And it *(DR: “they.” All the verbs in this verse are singular, but St. Thomas seems to interpret the first as applying to the light (i.e., Christ) and the rest as applying to Israel, consistent with DR, which translates them all as plural.)* shall pass by them, *(*Eam*.)* they shall fall, and be hungry: and when they shall be hungry, they will be angry, and curse their king, and their God, and look upwards.
 
-and first, in general,
+> ^8:22^ And they shall look to the earth, and behold trouble and darkness, weakness and distress, and a mist following them, and they cannot fly away from their distress.
 
-second, in particular: ***he shall pass into Magron*** or ***he shall come into Aiath*** (Isa 10:28).
+> **287**. ***And he shall be***. Here he sets out the fruit of obedience: ***sanctification to you***, I will make you holy: *I am the Lord who sanctify you* *(*Vos*. Vg.: *eos*. DR: “them.”)* (Lev 22:9). ***For a stone***, he sets out the punishment of impeding rebels under the metaphor of travelers;
 
-Concerning the first, he does three things.
+and first, he sets out the occasion,  
 
-First, the affliction is set out: ***with his rod***, that is, with the affliction of siege and plunder, ***and his staff***, breaking into pieces, ***in the way of Egypt***, for, hearing that the king of Ethiopia had come out from his land (as it says in 2 Kings 19:9), the king of Assyria left the land, and on his return, destroyed the cities which he found coming by the way of Egypt: *how is the strong staff broken, the beautiful rod?* (Jer 48:17).
+second, the reception of the punishment: ***and very many of them shall stumble*** (Isa 8:15).  
 
-**347**. Second, the destruction of those who afflict them: ***for yet a little***.
+And he sets out the occasion  
 
-Concerning which is first noted hastening: ***yet a little*** in relation to eternity or in relation to the time in which they will afflict them: *very shortly I will pour out my wrath upon you* (Ezek 7:8);
+first, as to the people;  
 
-second, the magnitude of the punishment: ***my indignation shall cease***, as to punishment, ***wrath***, as to vengeance;
+second, as to the princes: ***for a snare***.  
 
-third, the ease of punishing, ***my*** < . . . >The text may be corrupt here. (Judg 7:25); ***and over the sea***, the Red Sea: ***and he shall lift it up*** (Exod 14:21–29), against you, first, ***in the way of Egypt***, because you trusted in the Egyptians.
+He shows the first under the metaphor of a stone lying in the way, which impedes the traveler in two ways: namely, by injuring his foot, and by being an occasion of his falling; and similarly, Christ was to the unbelievers among the Jews an occasion of injury and falling, not from his fault but from theirs. Therefore he says: ***to the two houses of Israel***, that is, to the unfaithful of the ten and the two tribes, or to the scribes and Pharisees, ***for a stone of offense***, as to injury: *for they were offended at the stone of offense* *(DR: “for they stumbled at the stumblingstone.”)* (Rom 9:32); ***and for a rock of scandal***, on which the foot strikes, leading to a fall: in Greek, ***scandal*** means a stumbling of the foot: *but we preach Christ crucified: unto the Jews indeed a scandal, *(*Scandalum*. DR: “stumblingblock.”)* and unto the Gentiles foolishness* (1 Cor 1:23).  
 
-**348**. Third, the liberation that follows is set out,
+**288**. And because the princes resisted Christ more, he weighs down regarding them: ***to the inhabitants of Jerusalem***, which was the city of their princes, ***for a snare***—like animals they are captured by a snare—and this is weightier than offense, below: ***he that shall rid himself out of the pit, shall be taken in the snare*** (Isa 24:18); ***and a ruin***, which is more than a simple fall: *behold this child is set for the ruin* *(*Ruinam*. DR: “fall.”)* (Luke 2:34).  
 
-and first, the liberation: ***his burden shall be taken away***: *and it shall come to pass in that day, says the Lord of hosts, that I will break his yoke from off your neck, and will burst his bands* (Jer 30:8);
+**289**. And because sometimes someone avoids occasions and does not run into them, he therefore removes this and shows the reception of the punishment and says, ***and very many of them shall stumble***, against the ***offense*** he spoke of above, through faithlessness; indeed against the scandal they ***fall*** from worthiness of the kingdom: *but the children of the kingdom shall be cast out into the exterior darkness* (Matt 8:12). ***They shall be broken in pieces***, as to the ruin of punishment, famine and sword, Matthew 21:44: *whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it shall break him to pieces*. *(*Conteret*. DR: “grind him to powder.”)* As to the snare he says, they ***shall be snared***, by the ropes of sins and perplexities, which shall not be broken, and so they shall be ***taken*** by the Romans: *he is fast bound with the ropes of his own sins* (Prov 5:22).  
 
-second, the reason for the liberation: ***at the presence of the oil***, of divine mercy, above: ***wounds and bruises and swelling sores: they are not bound up, nor dressed, nor fomented with oil*** (Isa 1:6).
+**290**. ***Bind up the testimony***. Here he sets out the closing of the law,  
 
-**349**. ***He shall come into Aiath***. Here their escape is described in particular.
+and first, he sets out the hiding of the law, where it says, ***bind up the testimony***, that is, roll up the prophecy of Christ in obscurity, lest the Jews see, for they are unworthy. ***Seal the law***. To seal *(*Signa*.)* signifies two things:  
 
-And first, the oppression is set out, numbering the cities through which he passed coming from Egypt to Jerusalem: ***he shall come*** from Egypt, ***into Aiath, he shall pass***, in haste, ***into Magron*; *at Machmas***, a certain city, ***he shall lay up his carriages***, he shall send away part of his goods so that he might come unencumbered. ***They have passed in haste***, unimpeded by the resistance of those cities; ***Gaba is our lodging***, the voice of the army which rested there; ***Rama was astonished***, that is, it feared, because he was near; ***Gabaath of Saul***, the royal city in the time of Saul. ***Whinny***, in the manner of horses; ***attend, O Laisa***, how you may flee, and similarly, you, ***poor Anathoth***, for it was a little village. ***Medemena is removed***; it fled, and similarly, the ***inhabitants of Gabim***; the voice of Sennacherib to his army: ***take courage*: *it is yet day enough, to remain in Nobe***, which is a village near Jerusalem; as if to say: there is yet enough of the day that we can pitch our tents there, for it had been foretold to him that, if he drove to that point on that day, it would be conquered. Or: ***you inhabitants of Gabim, take courage***, for the enemy is near. ***He shall shake his hand***, like someone threatening, below: ***against the Holy One of Israel. By the hand of your servants you have reproached the Lord*** (Isa 37:23–24).
+sometimes it signifies to close under a seal, and thus he says: ***seal the*** old ***law***, under figures, ***among my disciples***, that is, until my disciples open it by preaching throughout the world: *shut up the words, and seal the book, even to the time appointed* (Dan 12:4); or hide it ***among my disciples***.  
 
-**350**. Second, the destruction of the enemy: ***behold the sovereign***.
+Sometimes it signifies the expression of a figure: *the light of your countenance, O Lord, is sealed *(*Signatum*. DR: “signed.”)* upon us* (Ps 4:7). And thus ***seal*** in the soul of ***my disciples***.  
 
-And first, ease on the part of the one who punishes: ***he shall break the earthen vessel***, like what was done by Gideon (Judg 7:19–20);
+Second, the awaiting of what is hidden, ***and I will wait***: *but I will look towards the Lord, I will wait for God* (Mic 7:7).  
 
-second, universality on the part of those who are punished: ***the tall***, as to those strong in body, ***the lofty***, as to princes, ***the thickets of forest***, as to the multitude of the people, that is, the shrubs which make a forest dense, ***and Libanus***, Sennacherib himself, who was killed by his sons, below (ch. 27).
+Third, the presentation of what is awaited, ***behold I***, namely, Christ, ***and my children***, the apostles, ***whom the Lord has given me***: *thine they were: and to me you gave them* (John 17:6); ***for a sign***, that is, that they may do signs, ***and for a portent***, a wonder, which by its magnitude portends; and this comes to be ***from the Lord, who dwells***, by worship or by faith, ***in Zion***, the Church: *hear, O Jesus you high priest, you and your friends that dwell before you, for they are portending men* (Zech 3:8).  
 
-The Gloss interprets this verse mystically: ***he shall break the earthen vessel, in the passion of Christ*.
+**291**. Some explain this as concerning Isaiah: ***and my children***, the prophets, according to this, below: ***as my servant Isaiah has walked, naked and barefoot, it shall be a sign and a portent*** *(*Portentum*. DR: “wonder.”)* ***of three years upon Egypt, and upon Ethiopia*** (Isa 20:3). Others explain this as the sons of Isaiah, and this is false.  
 
-**351**. Note on the words, ***and the light of Israel shall be as a fire*** (Isa 10:17): that our God is called a fire,
+**292**. ***And when they shall say to you***. Here he removes the communication of diviners; and concerning this, he does three things.  
 
-first, because he is subtle; and as to this, he is called subtle as to substance, because he is called spirit: *God is a spirit* (John 4:24);
+First, false communication is set out: ***and when they***, your enemies, ***shall say*: *seek of pythons***, which foretell evil things for you and good things for us. The word for ***python*** in Hebrew means “mouth of the abyss.” And Jerome *(Rather, Isidore, *Etymologies* 8.9.21 (PL 82, 313), as cited by St. Thomas, *ST* II-II.95.3.)* says that they are named after Pythian Apollo, because he invented this kind of magical art, through which the dead seem to be raised and things about the future seem to be predicted, as is read in 1 Samuel 28:8. Rabanus *(As asserted by S. Langton (ms. F. 184 va), Hugo, Albert (ed. Col. P. 132, 74); cf. Rabanus *In IV Reg*. I c.29 (PL 109, 67B), mentioning Augustine, *De div. quaest. ad Simplicianum* II q. 2 (PL 40, 162).)* says that it is the name of a malign spirit; likewise, Jerome *(As cited by Hugo on this verse; cf. Jerome: “ventriloquists [literally, those who speak from the belly], which we understand to be meant by ‘pythons’” (123B; 12).)* says that one is called a python who has a devil in his belly. ***And of diviners***, because they claim for themselves an act of God in predicting future things, and especially as to the worship of false gods; ***who mutter***, as though insane: *so they cried with a loud voice, and cut themselves after their manner with knives and lancets, till they were all covered with blood* (1 Kgs 18:28); *let there be no wizard, nor charmer, nor any one that consults pythonic spirits, or fortune tellers, or that seeks the truth from the dead. For the Lord abhors all these things* (Deut 18:10–12).  
 
-second, as to knowledge, because he is piercing: *for the word of God is living and effectual and more piercing than any two edged sword* (Heb 4:12);
+**293**. Second, the response is taught: ***should not the*** faithful ***people seek of their*** true ***God, for the living and the dead***, that is, for the salvation of the living and the dead: *is it because there was no God in Israel, that you send to Beelzebub, the god of Accaron?* (2 Kgs 1:6). Or for ***the living and the dead***, that is, in place of your gods, who were made in imitation of men, both dead and living. Or we seek a vision for ***the living and the dead***, just as you do, namely, from your gods, who are like the dead. ***To the law rather***, which prohibits such things, or which teaches what is to be awaited; ***the testimony*** of Scripture.  
 
-third, as to appearance, because he is invisible: *whence then comes wisdom?* (Job 28:20); and below this: *it is hid from the eyes of all living* (Job 28:21), or: *all men* (Job 36:25).
+**294**. Third, he sets out the threatening of the disobedient: ***and if they speak not***. And he does three things:  
 
-Second, because he is full of light: but that he is full of light is evident
+first, he threatens punishment;  
 
-first, because he manifests as to the intellect: *in your light we shall see light* (Ps 35:10[36:9]);
+second, impatience in punishment: ***and when they shall be hungry*** (Isa 8:21);  
 
-second, because he delights as to the affections: *what manner of joy shall be to me, who sit in darkness and see not the light of heaven?* (Tob 5:12);
+third, the sadness of despair: ***and they shall look upwards*** (Isa 8:21).  
 
-third, because he directs as to action, below: ***the Gentiles shall walk in your light, and kings in the brightness of your rising*** (Isa 60:3).
+Therefore, he first says: ***and if they speak not according to this word***, namely, responding to it, we shall make it so that ***they shall not have the morning light***, that is, Christ expelling the darkness: *that was the true light, which enlightens every man that comes into this world* (John 1:9). ***And it shall pass by them***, the congregation, to others, not remaining among them, below: ***here I am*** (Isa 58:9), for I the Lord your God am merciful; ***they shall fall*** into condemnation, ***and they shall be hungry*** for the word of God: *behold I will send forth a famine into the land: not a famine of bread, nor a thirst of water, but of hearing the word of God* *(*Dei*. Vg.: *Domini*. DR: “the Lord.”)* (Amos 8:11). Or ***the light*** of consolation; ***and they shall fall*** into condemnation, above: ***Jerusalem is ruined, and Judah is fallen*** (Isa 3:8); ***and be hungry***, for bread.  
 
-Third, because he is hot:
+**295**. ***And when they shall be hungry***. Here he threatens impatience in punishment, as to wrath of the heart: ***they will be angry***: *they shall murmur if they be not filled* (Ps 58:16[59:15]); as to blasphemy of the mouth, ***and curse***: *and they blasphemed the God of heaven, because of their pains and wounds: and did not penance for their works* (Rev 16:11).  
 
-and this is so, first, because he vivifies: *you perhaps will warm them in the dust?* (Job 39:14); *from above he has sent fire into my bones, and has chastised me* (Lam 1:13);
+**296**. ***And look upwards***. Here he sets out the sadness of despair,  
 
-second, because he cleanses: *the vapor of the fire wastes his flesh, and he fights with the heat of the furnace* (Sir 38:39);
+and first, the expectation of help: ***look upwards***, seeking help from heaven. ***And they shall look to the earth***, to help from earth; above: ***they shall look *(*Aspiciet*. Vg.: *aspiciemus*. DR: “we shall look.”)* towards the land, and behold darkness of tribulation*** (Isa 5:30).  
 
-third, because he devastates: *a fire is kindled in my wrath, and shall burn even to the lowest hell* (Deut 32:22).
+Second, the imminence of danger: ***and behold trouble***, foreseen, ***and darkness***, as to counsel of resistance, ***weakness***, against strengthening, ***and distress***, as to perplexity, ***and a mist following them***, as to persecution: *and his kingdom became dark* (Rev 16:10).  
 
-Fourth, because he is light:I.e., not heavy (*levis*).
-
-and this is so, first, because of his motion, for *the Lord has made all things for himself* (Prov 16:4);
-
-second, because of his position, for *he dwells on high* (Ps 112[113]:5);
-
-third, because of his unmixed manner: *wisdom reaches everywhere, by reason of her purity. For she is a vapor of the power of God* (Wis 7:24–25).
-
-Chapter 11
+Third, the impossibility of liberation, like a captured bird: ***and they cannot fly away from their distress***. On the contrary is it with the just: *the snare is broken, and we are delivered* (Ps 123[124]:7).
