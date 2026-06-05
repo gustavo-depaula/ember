@@ -1,0 +1,66 @@
+{
+	"id": "ante-studium",
+	"icon": "book",
+	"name": {
+		"en-US": "Prayer Before Study",
+		"pt-BR": "Oração Antes do Estudo",
+		"la": "Ante Studium"
+	},
+	"categories": [
+		"saints",
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "St. Thomas Aquinas's prayer before study, writing, or any intellectual work — *Creator ineffabilis*. He reportedly recited it before he began to compose.",
+		"pt-BR": "Oração de Santo Tomás de Aquino antes do estudo, da escrita ou de qualquer trabalho intelectual — *Creator ineffabilis*. Reza-se que ele a recitava antes de começar a compor."
+	},
+	"history": {
+		"en-US": "Composed by St. Thomas Aquinas (1225–1274). Pope Pius XI placed it in his 1923 encyclical *Studiorum Ducem*, marking the sixth centenary of Aquinas's canonization, and recommended it to all Catholic students.",
+		"pt-BR": "Composta por Santo Tomás de Aquino (1225–1274). O Papa Pio XI a incluiu em sua encíclica *Studiorum Ducem* de 1923, no sexto centenário da canonização de Tomás, e a recomendou a todos os estudantes católicos."
+	},
+	"howToPray": {
+		"en-US": "Pray slowly at the start of any session of study, writing, or preaching — asking light for the mind, accuracy of memory, clarity of speech, and that the beginning, progress, and end of the work be ordered by God.",
+		"pt-BR": "Reze devagar no início de qualquer sessão de estudo, escrita ou pregação — pedindo luz para o entendimento, exatidão da memória, clareza da fala, e que o começo, o progresso e o fim da obra sejam ordenados por Deus."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"aquinas",
+		"thomas",
+		"study",
+		"doctor-of-the-church",
+		"dominican"
+	],
+	"defaults": {
+		"sortOrder": 40,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"ref": "sign-of-cross"
+			},
+			{
+				"type": "divider"
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Creator of all things, true Source of light and wisdom, lofty origin of all being, graciously let a ray of Your brilliance penetrate into the darkness of my understanding and take from me the double darkness in which I have been born, an obscurity of both sin and ignorance. Give me a sharp sense of understanding, a retentive memory, and the ability to grasp things correctly and fundamentally. Grant me the talent of being exact in my explanations, and the ability to express myself with thoroughness and charm. Point out the beginning, direct the progress, and help in the completion; through Christ our Lord. Amen.",
+					"la": "Creator ineffabilis, qui de thesauris sapientiae tuae tres Angelorum hierarchias designasti et eas super caelum empyreum miro ordine collocasti atque universi partes elegantissime distribuisti: tu, inquam, qui verus fons luminis et sapientiae diceris ac supereminens principium, infundere digneris super intellectus mei tenebras tuae radium claritatis, duplices in quibus natus sum a me removens tenebras, peccatum scilicet et ignorantiam. Tu, qui linguas infantium facis disertas, linguam meam erudias atque in labiis meis gratiam tuae benedictionis infundas. Da mihi intelligendi acumen, retinendi capacitatem, addiscendi modum et facilitatem, interpretandi subtilitatem, loquendi gratiam copiosam. Ingressum instruas, progressum dirigas, egressum compleas; per Christum Dominum nostrum. Amen.",
+					"pt-BR": "Criador inefável, verdadeira Fonte de luz e sabedoria, origem sublime de todo ser, dignai-Vos derramar sobre as trevas da minha inteligência um raio da Vossa claridade, afastando de mim a dupla obscuridade em que nasci: o pecado e a ignorância. Vós, que tornais eloquentes as línguas das crianças, instruí a minha língua e derramai nos meus lábios a graça da Vossa bênção. Dai-me agudeza para entender, capacidade para reter, método e facilidade para aprender, sutileza para interpretar e graça copiosa para falar. Orientai o começo, dirigi o progresso e completai a conclusão; por Cristo nosso Senhor. Amém."
+				}
+			}
+		]
+	}
+}

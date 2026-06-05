@@ -34,40 +34,93 @@
 	},
 	"sections": [
 		{
-			"id": "prayers",
+			"id": "study",
 			"title": {
-				"en-US": "Prayers of St. Thomas",
-				"pt-BR": "Orações de Santo Tomás"
+				"en-US": "Prayers for Study",
+				"pt-BR": "Orações para o Estudo"
 			},
 			"description": {
 				"body": {
-					"en-US": "His prayers before and after study, his Communion prayers, the daily prayer for the ordering of his life, and the Eucharistic hymn most associated with his own private devotion.",
-					"pt-BR": "Suas orações antes e depois do estudo, as orações de comunhão, a oração diária para ordenar a vida e o hino eucarístico mais ligado à sua devoção pessoal."
+					"en-US": "The two short prayers Aquinas reportedly recited before and after every session of study, writing, or preaching.",
+					"pt-BR": "As duas breves orações que Tomás recitava antes e depois de cada sessão de estudo, escrita ou pregação."
 				}
 			},
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "practice/prayers-st-thomas-aquinas"
+					"ref": "practice/ante-studium"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-after-study"
 				}
 			]
 		},
 		{
-			"id": "eucharistic-hymns",
+			"id": "daily-prayer",
 			"title": {
-				"en-US": "Eucharistic Hymns",
-				"pt-BR": "Hinos Eucarísticos"
+				"en-US": "Daily Prayer",
+				"pt-BR": "Oração Diária"
 			},
 			"description": {
 				"body": {
-					"en-US": "The hymns Aquinas composed for the Office and Mass of Corpus Christi (1264) at the request of Pope Urban IV — still sung throughout the Latin Church.",
-					"pt-BR": "Os hinos que Tomás compôs para o Ofício e a Missa de Corpus Christi (1264) a pedido do Papa Urbano IV — ainda hoje cantados em toda a Igreja Latina."
+					"en-US": "The long personal prayer Aquinas reportedly recited daily before an image of Christ.",
+					"pt-BR": "A longa oração pessoal que Tomás recitava diariamente diante de uma imagem de Cristo."
 				}
 			},
 			"blocks": [
 				{
 					"kind": "item",
+					"ref": "practice/concede-mihi"
+				}
+			]
+		},
+		{
+			"id": "communion",
+			"title": {
+				"en-US": "For Holy Communion",
+				"pt-BR": "Para a Sagrada Comunhão"
+			},
+			"description": {
+				"body": {
+					"en-US": "Aquinas's two great preparation and thanksgiving prayers for Holy Communion — paired with *Adoro Te Devote*, the Eucharistic hymn most associated with his own private devotion.",
+					"pt-BR": "As duas grandes orações de preparação e ação de graças de Tomás para a Sagrada Comunhão — emparelhadas com o *Adoro Te Devote*, o hino eucarístico mais ligado à sua devoção pessoal."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-before-communion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-after-communion"
+				},
+				{
+					"kind": "item",
 					"ref": "practice/adoro-te-devote",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				}
+			]
+		},
+		{
+			"id": "corpus-christi-office",
+			"title": {
+				"en-US": "The Office of Corpus Christi",
+				"pt-BR": "O Ofício de Corpus Christi"
+			},
+			"description": {
+				"body": {
+					"en-US": "The full set of hymns Aquinas composed in 1264 at the request of Pope Urban IV for the new feast — the Vespers hymn (*Pange Lingua*), the Matins hymn (*Sacris Solemniis*), the Lauds hymn (*Verbum Supernum*), and the Mass sequence (*Lauda Sion*). *Panis Angelicus*, *Tantum Ergo*, and *O Salutaris Hostia* are the most-sung excerpts.",
+					"pt-BR": "O conjunto completo de hinos que Tomás compôs em 1264 a pedido do Papa Urbano IV para a nova festa — o hino das Vésperas (*Pange Lingua*), o das Matinas (*Sacris Solemniis*), o das Laudes (*Verbum Supernum*) e a sequência da Missa (*Lauda Sion*). *Panis Angelicus*, *Tantum Ergo* e *O Salutaris Hostia* são os trechos mais cantados."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/pange-lingua",
 					"seeAlso": [
 						"collection/eucharistic"
 					]
@@ -81,10 +134,50 @@
 				},
 				{
 					"kind": "item",
+					"ref": "practice/sacris-solemniis",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/panis-angelicus",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/verbum-supernum",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "item",
 					"ref": "practice/o-salutaris-hostia",
 					"seeAlso": [
 						"collection/eucharistic"
 					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lauda-sion",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Mass of Corpus Christi — proper texts",
+						"pt-BR": "Missa de Corpus Christi — textos próprios"
+					},
+					"notes": {
+						"en-US": "The Mass *Cibavit* (Introit, Collect, Gradual, Alleluia, Offertory, Communion) composed by Aquinas — the only piece of the 1264 office still missing.",
+						"pt-BR": "A Missa *Cibavit* (Intróito, Coleta, Gradual, Aleluia, Ofertório, Comunhão) composta por Tomás — a única peça do ofício de 1264 ainda em falta."
+					},
+					"proposedKind": "book"
 				}
 			]
 		},
@@ -210,33 +303,6 @@
 					"notes": {
 						"en-US": "Incomplete — Aquinas reached only Psalm 54 before his death.",
 						"pt-BR": "Incompleto — Tomás alcançou somente o Salmo 54 antes de morrer."
-					},
-					"proposedKind": "book"
-				}
-			]
-		},
-		{
-			"id": "office-of-corpus-christi",
-			"title": {
-				"en-US": "The Office of Corpus Christi",
-				"pt-BR": "O Ofício de Corpus Christi"
-			},
-			"description": {
-				"body": {
-					"en-US": "The full propers Aquinas composed in 1264 for the new feast — the Mass *Cibavit*, the Office hymns (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*), and the sequence *Lauda Sion Salvatorem*. All five hymns plus *Panis Angelicus* live inside the Prayers of St. Thomas practice above; what's still missing is the Mass *Cibavit*.",
-					"pt-BR": "Os próprios completos que Tomás compôs em 1264 para a nova festa — a Missa *Cibavit*, os hinos do Ofício (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*) e a sequência *Lauda Sion Salvatorem*. Os cinco hinos mais o *Panis Angelicus* já estão na prática Orações de Santo Tomás acima; o que ainda falta é a Missa *Cibavit*."
-				}
-			},
-			"blocks": [
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Mass of Corpus Christi — proper texts",
-						"pt-BR": "Missa de Corpus Christi — textos próprios"
-					},
-					"notes": {
-						"en-US": "The Mass *Cibavit* (Introit, Collect, Gradual, Alleluia, Sequence, Offertory, Communion) composed by Aquinas.",
-						"pt-BR": "A Missa *Cibavit* (Intróito, Coleta, Gradual, Aleluia, Sequência, Ofertório, Comunhão) composta por Tomás."
 					},
 					"proposedKind": "book"
 				}

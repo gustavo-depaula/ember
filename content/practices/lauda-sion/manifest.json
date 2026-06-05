@@ -1,0 +1,59 @@
+{
+	"id": "lauda-sion",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Lauda Sion (Sequence)",
+		"pt-BR": "Lauda Sion (Sequência)",
+		"la": "Lauda Sion Salvatorem"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion",
+		"saints"
+	],
+	"estimatedMinutes": 7,
+	"description": {
+		"en-US": "The Mass sequence Aquinas composed for Corpus Christi (1264) — *Lauda Sion Salvatorem*. Twenty-four stanzas that set the entire theology of the Eucharist in verse.",
+		"pt-BR": "A sequência da Missa que Tomás compôs para Corpus Christi (1264) — *Lauda Sion Salvatorem*. Vinte e quatro estrofes que põem em verso toda a teologia da Eucaristia."
+	},
+	"history": {
+		"en-US": "One of only four sequences retained after the Council of Trent's reform of the Missal. The longest and most doctrinally dense of Aquinas's hymns — Real Presence, transubstantiation, communion of the wicked and the good, the integrity of the species after fraction, the Old Testament types (Isaac, the Paschal lamb, the manna). Sung before the Gospel at the Mass of Corpus Christi.",
+			"pt-BR": "Uma das apenas quatro sequências retidas após a reforma tridentina do Missal. O mais longo e doutrinalmente denso dos hinos de Tomás — Presença Real, transubstanciação, comunhão dos maus e dos bons, integridade das espécies após a fração, os tipos veterotestamentários (Isaac, o cordeiro pascal, o maná). Cantada antes do Evangelho na Missa de Corpus Christi."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"aquinas",
+		"thomas",
+		"eucharistic",
+		"hymn",
+		"sequence",
+		"corpus-christi",
+		"doctor-of-the-church",
+		"dominican"
+	],
+	"defaults": {
+		"sortOrder": 49,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Sion, lift up thy voice and sing:\nPraise thy Savior and thy King,\nPraise with hymns thy shepherd true.\n\nAll thou canst, do thou endeavour:\nYet thy praise can equal never\nSuch as merits thy great King.\n\nSee today before us laid\nthe living and life-giving Bread,\ntheme for praise and joy profound.\n\nThe same which at the sacred board\nwas, by our incarnate Lord,\ngiven to His Apostles round.\n\nLet the praise be loud and high:\nsweet and tranquil be the joy\nfelt today in every breast.\n\nOn this festival divine\nwhich records the origin\nof the glorious Eucharist.\n\nOn this table of the King,\nour new Paschal offering\nbrings to end the olden rite.\n\nHere, for empty shadows fled,\nis reality instead,\nhere, instead of darkness, light.\n\nHis own act, at supper seated,\nChrist ordained to be repeated\nin His memory divine;\n\nwherefore now, with adoration,\nwe, the host of our salvation,\nconsecrate from bread and wine.\n\nHear, what holy Church maintaineth,\nthat the bread its substance changeth\ninto Flesh, the wine to Blood.\n\nDoth it pass thy comprehending?\nFaith, the law of sight transcending,\nleaps to things not understood.\n\nHere beneath these signs are hidden\npriceless things, to sense forbidden;\nsigns, not things, are all we see.\n\nFlesh from bread, and Blood from wine,\nyet is Christ in either sign,\nall entire, confessed to be.\n\nThey, who of Him here partake,\nsever not, nor rend, nor break:\nbut, entire, their Lord receive.\n\nWhether one or thousands eat:\nall receive the self-same meat,\nnor the less for others leave.\n\nBoth the wicked and the good\neat of this celestial Food:\nbut with ends how opposite!\n\nHere 'tis life: and there 'tis death:\nthe same, yet issuing to each\nin a difference infinite.\n\nNor a single doubt retain,\nwhen they break the Host in twain,\nbut that in each part remains\nwhat was in the whole before.\n\nSince the simple sign alone\nsuffers change in state or form:\nthe signified remaining one\nand the same for evermore.\n\nBehold the Bread of Angels,\nfor us pilgrims food, and token\nof the promise by Christ spoken,\nchildren's meat, to dogs denied.\n\nShown in Isaac's dedication,\nin the manna's preparation,\nin the Paschal immolation,\nin old types pre-signified.\n\nJesu, shepherd of the sheep:\nThou thy flock in safety keep,\nLiving Bread, Thy life supply:\nstrengthen us, or else we die,\nfill us with celestial grace.\n\nThou, who feedest us below:\nSource of all we have or know:\ngrant that with Thy Saints above,\nsitting at the feast of love,\nwe may see Thee face to face. Amen. Alleluia.",
+					"la": "Lauda Sion Salvatorem,\nlauda ducem et pastorem\nin hymnis et canticis.\n\nQuantum potes, tantum aude:\nquia maior omni laude,\nnec laudare sufficis.\n\nLaudis thema specialis,\npanis vivus et vitalis\nhodie proponitur.\n\nQuem in sacrae mensa cenae,\nturbae fratrum duodenae\ndatum non ambigitur.\n\nSit laus plena, sit sonora,\nsit iucunda, sit decora\nmentis iubilatio.\n\nDies enim solemnis agitur,\nin qua mensae prima recolitur\nhuius institutio.\n\nIn hac mensa novi Regis,\nnovum Pascha novae legis,\nphase vetus terminat.\n\nVetustatem novitas,\numbram fugat veritas,\nnoctem lux eliminat.\n\nQuod in cena Christus gessit,\nfaciendum hoc expressit\nin sui memoriam.\n\nDocti sacris institutis,\npanem, vinum, in salutis\nconsecramus hostiam.\n\nDogma datur Christianis,\nquod in carnem transit panis,\net vinum in sanguinem.\n\nQuod non capis, quod non vides,\nanimosa firmat fides,\npraeter rerum ordinem.\n\nSub diversis speciebus,\nsignis tantum, et non rebus,\nlatent res eximiae.\n\nCaro cibus, sanguis potus:\nmanet tamen Christus totus\nsub utraque specie.\n\nA sumente non concisus,\nnon confractus, non divisus:\ninteger accipitur.\n\nSumit unus, sumunt mille:\nquantum isti, tantum ille:\nnec sumptus consumitur.\n\nSumunt boni, sumunt mali:\nsorte tamen inaequali,\nvitae vel interitus.\n\nMors est malis, vita bonis:\nvide paris sumptionis\nquam sit dispar exitus.\n\nFracto demum Sacramento,\nne vacilles, sed memento\ntantum esse sub fragmento,\nquantum toto tegitur.\n\nNulla rei fit scissura:\nsigni tantum fit fractura:\nqua nec status nec statura\nsignati minuitur.\n\nEcce panis Angelorum,\nfactus cibus viatorum:\nvere panis filiorum,\nnon mittendus canibus.\n\nIn figuris praesignatur,\ncum Isaac immolatur,\nagnus paschae deputatur,\ndatur manna patribus.\n\nBone pastor, panis vere,\nIesu, nostri miserere:\ntu nos pasce, nos tuere,\ntu nos bona fac videre\nin terra viventium.\n\nTu qui cuncta scis et vales,\nqui nos pascis hic mortales:\ntuos ibi commensales,\ncohaeredes et sodales\nfac sanctorum civium. Amen. Alleluia.",
+					"pt-BR": "Louva, Sião, o Salvador,\nlouva o guia e pastor\ncom hinos e cânticos.\n\nTanto quanto possas, ouses tu louvá-lo,\nporque está acima de todo louvor\ne nunca o louvarás condignamente.\n\nÉ-nos hoje proposto\num tema especial de louvor:\no Pão vivo que dá a vida.\n\nÉ Ele que, na mesa da sagrada Ceia,\nfoi distribuído aos doze,\ncomo na verdade o cremos.\n\nSeja o louvor pleno, retumbante,\nseja ele alegre\ne cheio de brilhante júbilo da alma.\n\nPorque celebramos o dia solene\nque nos recorda\na instituição deste banquete.\n\nNa mesa do novo Rei,\na Páscoa da nova lei\npõe fim à páscoa antiga.\n\nO rito novo rejeita o velho,\na realidade dissipa as sombras\ncomo o dia dissipa a noite.\n\nO que o Senhor fez na Ceia,\nnos mandou fazê-lo\nem memória sua.\n\nE nós, instruídos por suas ordens sagradas,\nconsagramos o pão e o vinho\nem hóstia de salvação.\n\nÉ dogma de fé para os cristãos\nque o pão se converte na Carne\ne o vinho no Sangue do Salvador.\n\nO que não compreendes nem vês,\numa fé vigorosa te assegura,\nelevando-te acima da ordem natural.\n\nDebaixo de espécies diferentes,\naparências e não realidades,\nocultam-se realidades sublimes.\n\nA Carne é alimento, o Sangue é bebida;\ntodavia, debaixo de cada uma das espécies\nCristo está totalmente.\n\nE quem o recebe não o parte\nnem divide,\nmas recebe-o todo inteiro.\n\nQuer o recebam mil, quer um só,\ntodos recebem o mesmo,\nnem recebendo-o podem consumi-lo.\n\nRecebem-no os bons e os maus igualmente,\ntodos recebem o mesmo, porém com efeitos diversos:\nos bons para a vida e os maus para a morte.\n\nMorte para os maus e vida para os bons:\nvede como são diferentes\nos efeitos que produz o mesmo alimento.\n\nQuando a hóstia é dividida,\nnão vaciles, mas recorda\nque o Senhor se encontra todo debaixo do fragmento,\ntanto quanto na hóstia inteira.\n\nNenhuma divisão atinge a substância:\napenas os sinais do pão são divididos;\nnem o estado, nem as dimensões\ndo Significado são alteradas.\n\nEis o Pão dos Anjos,\nque se torna alimento dos peregrinos:\nverdadeiramente é o pão dos filhos,\nque não deve ser lançado aos cães.\n\nAs figuras o pré-anunciam:\nIsaac que se imola,\no cordeiro destinado à Páscoa,\no maná dado aos pais.\n\nBom Pastor, pão verdadeiro,\nJesus, de nós tende piedade.\nSustentai-nos, defendei-nos,\nfazei-nos, na terra dos vivos,\ncontemplar o Bem supremo.\n\nÓ Vós que tudo sabeis e tudo podeis,\nque nos alimentais nesta vida mortal,\nadmiti-nos no Céu, à Vossa mesa,\ne fazei-nos co-herdeiros e companheiros\ndos santos cidadãos. Amém. Aleluia."
+				}
+			}
+		]
+	}
+}

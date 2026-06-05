@@ -1,0 +1,67 @@
+{
+	"id": "concede-mihi",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Prayer for Ordering of Life",
+		"pt-BR": "Oração para Ordenar a Vida",
+		"la": "Concede Mihi"
+	},
+	"categories": [
+		"saints",
+		"devotion",
+		"daily"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "St. Thomas Aquinas's long personal prayer for the right ordering of one's life — *Concede mihi, misericors Deus* — which he reportedly recited daily before an image of Christ.",
+		"pt-BR": "Longa oração pessoal de Santo Tomás de Aquino para o reto ordenamento da vida — *Concede mihi, misericors Deus* — que ele recitava diariamente diante de uma imagem de Cristo."
+	},
+	"history": {
+		"en-US": "Transmitted by William of Tocco († c. 1323), Aquinas's first biographer and a key figure in his canonization process, in the fourth and final edition of his *Ystoria sancti Thomae* (c. 1323). The prayer covers ardent desire of what pleases God, steadiness in prosperity and adversity, twelve paired virtues, five qualities of heart, and the final petitions for understanding, perseverance, and the embrace of God in glory.",
+		"pt-BR": "Transmitida por Guilherme de Tocco († c. 1323), primeiro biógrafo de Tomás e figura-chave em seu processo de canonização, na quarta e última edição de sua *Ystoria sancti Thomae* (c. 1323). A oração abrange o desejo ardente do que agrada a Deus, a firmeza na prosperidade e na adversidade, doze virtudes emparelhadas, cinco qualidades do coração, e as petições finais por inteligência, perseverança e o abraço de Deus na glória."
+	},
+	"howToPray": {
+		"en-US": "Pray slowly and as a single sweep — each section asks for a distinct gift. Many recite it daily, as Aquinas did, before an image of Christ.",
+		"pt-BR": "Reze devagar e de uma só vez — cada seção pede um dom distinto. Muitos a recitam diariamente, como Tomás fazia, diante de uma imagem de Cristo."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"aquinas",
+		"thomas",
+		"doctor-of-the-church",
+		"dominican",
+		"ordering-of-life"
+	],
+	"defaults": {
+		"sortOrder": 42,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"ref": "sign-of-cross"
+			},
+			{
+				"type": "divider"
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Grant, O merciful God, that I may ardently desire, prudently examine, truthfully acknowledge, and perfectly fulfill what is pleasing to You, for the praise and glory of Your holy name.\n\nDirect my life, O my God, and grant that I may know what You would have me to do, and that I may fulfill it as is necessary and profitable to my soul.\n\nGrant to me, O Lord my God, that I may not fail in prosperity or in adversity, that I may not be lifted up by the one nor cast down by the other. May I find joy in nothing but what leads to You, and sorrow in nothing but what leads away from You. May I seek to please none nor fear to displease any, save only You.\n\nMay all transient things grow worthless to me for Your sake, and may all that is Yours be dear to me, and You, my God, above them all. May every joy without You weary me, and may I desire nothing apart from You. May every labor for You delight me, and may every rest that is not in You be wearisome.\n\nGrant me often to lift up my heart to You, and to mourn my failings with a firm purpose of amendment.\n\nMake me, O my God, humble without pretense, cheerful without dissipation, sober without depression, mature without severity, lively without levity, truthful without duplicity, fearing You without despair, hoping in You without presumption, correcting my neighbor without arrogance, edifying him by word and example without pretense, obedient without contradiction, patient without murmuring.\n\nGrant me, O most sweet God, a vigilant heart that no subtle speculation may lead from You; a noble heart that no unworthy affection may draw down; an upright heart that no perverse intention may turn aside; an unconquered heart that no tribulation may wear away; and a free heart that no violent passion may claim as its own.\n\nBestow upon me, O Lord my God, understanding to know You, diligence to seek You, wisdom to find You, a way of life pleasing to You, perseverance in faithfully awaiting You, and confidence in finally embracing You. Grant that by penance I may share in Your sufferings, that by grace I may use Your gifts along the way, and that by glory I may rejoice in Your joys in our homeland. Who live and reign, God, world without end. Amen.",
+					"la": "Concede mihi, misericors Deus, quae tibi placita sunt ardenter concupiscere, prudenter investigare, veraciter agnoscere, et perfecte adimplere ad laudem et gloriam nominis tui.\n\nOrdina, Deus meus, statum meum, et quod a me requiris tribue ut sciam, et da exequi sicut oportet et expedit animae meae.\n\nVia mea, Domine, ad te tuta sit, recta et consummata, non deficiens inter prospera et adversa, ut in prosperis tibi gratias referam et in adversis servem patientiam, ut in illis non extollar et in istis non deprimar; de nullo gaudeam nisi quod promoveat me apud te, nec de aliquo doleam nisi quod abducat me a te; nulli placere appetam vel displicere timeam nisi tibi.\n\nVilescant mihi omnia transitoria propter te, et cara sint mihi omnia tua, et tu, Deus meus, super omnia. Taedeat me omnis gaudii quod est sine te, nec cupiam aliquid quod est extra te. Delectet me labor qui est pro te, et taediosa sit mihi omnis quies quae non est in te.\n\nFrequenter da mihi cor meum ad te dirigere, et defectionem meam cum emendationis proposito dolendo pensare.\n\nFac me, Deus meus, humilem sine fictione, hilarem sine dissolutione, tristem sine deiectione, maturum sine gravitate, agilem sine levitate, veracem sine duplicitate, te timentem sine desperatione, sperantem sine praesumptione, proximum corrigere sine simulatione, ipsum aedificare verbo et exemplo sine elatione, obedientem sine contradictione, patientem sine murmuratione.\n\nDa mihi, dulcissime Deus, cor pervigil quod nulla abducat a te curiosa cogitatio; da nobile quod nulla deorsum trahat indigna affectio; da invictum quod nulla fatiget tribulatio; da liberum quod nulla sibi vindicet violenta tentatio; et da rectum quod nulla obliquet sinistra intentio.\n\nLargire mihi, Domine Deus meus, intellectum te cognoscentem, diligentiam te quaerentem, sapientiam te invenientem, conversationem tibi placentem, perseverantiam te fideliter expectantem, et fiduciam te finaliter amplectentem; tuis poenis configi per paenitentiam, tuis beneficiis uti in via per gratiam, et tuis gaudiis in patria frui per gloriam. Qui vivis et regnas Deus in saecula saeculorum. Amen.",
+					"pt-BR": "Concedei-me, ó Deus misericordioso, ardentemente desejar, prudentemente investigar, verazmente conhecer e perfeitamente realizar o que for do Vosso agrado, para louvor e glória do Vosso santo nome.\n\nOrdenai, Deus meu, o meu estado de vida, e dai-me saber o que de mim exigis, e cumpri-lo como convém e é útil à minha alma.\n\nQue o meu caminho até Vós, Senhor, seja seguro, reto e consumado, não desfalecendo entre a prosperidade e a adversidade, de modo que na prosperidade Vos renda graças e na adversidade conserve a paciência, não me ensoberbecendo naquela nem me abatendo nesta; que de nada me alegre senão do que me leva para Vós, e de nada me entristeça senão do que me afasta de Vós; que a ninguém deseje agradar ou tema desagradar, senão somente a Vós.\n\nQue por Vós se tornem vis para mim todas as coisas passageiras, e me sejam caras todas as Vossas coisas, e Vós, meu Deus, acima de todas. Que me canse toda alegria que seja sem Vós, e nada deseje fora de Vós. Que me deleite o trabalho que é por Vós, e me seja tediosa toda paz que não esteja em Vós.\n\nConcedei-me, frequentemente, dirigir o meu coração a Vós, e ponderar com dor a minha fraqueza com firme propósito de emenda.\n\nFazei-me, ó Deus meu, humilde sem fingimento, alegre sem dissipação, sério sem depressão, maduro sem severidade, vivaz sem leviandade, veraz sem duplicidade, temente a Vós sem desespero, esperante em Vós sem presunção, corrigindo o próximo sem simulação, edificando-o por palavra e exemplo sem arrogância, obediente sem contradição, paciente sem murmuração.\n\nDai-me, ó dulcíssimo Deus, um coração desperto, que nenhum pensamento curioso afaste de Vós; nobre, que nenhum afeto indigno faça descer; reto, que nenhuma intenção perversa desvie; invencível, que nenhuma tribulação fatigue; e livre, que nenhuma paixão violenta reivindique para si.\n\nConcedei-me, Senhor Deus meu, inteligência que Vos conheça, diligência que Vos procure, sabedoria que Vos encontre, conduta que Vos agrade, perseverança que Vos espere fielmente, e confiança que finalmente Vos abrace. Concedei-me ser traspassado por Vossas penas pela penitência, usar de Vossos benefícios na vida pela graça, e desfrutar de Vossas alegrias na pátria pela glória. Vós que viveis e reinais, Deus, pelos séculos dos séculos. Amém."
+				}
+			}
+		]
+	}
+}

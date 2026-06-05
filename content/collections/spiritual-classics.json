@@ -91,8 +91,9 @@
 				},
 				{
 					"kind": "item",
-					"ref": "practice/prayers-st-thomas-aquinas",
+					"ref": "practice/adoro-te-devote",
 					"seeAlso": [
+						"collection/thomas-aquinas",
 						"collection/eucharistic"
 					]
 				}
