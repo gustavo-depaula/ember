@@ -88,29 +88,20 @@ export function ReaderOverlay({
       ) : (
         <Animated.View
           key="top-title"
-          pointerEvents="box-none"
+          pointerEvents="none"
           entering={FadeIn.duration(FADE_MS)}
           exiting={FadeOut.duration(FADE_MS)}
           style={styles.centerRow}
         >
-          <View style={styles.titleWrap}>
-            <GlassSurface
-              isDark={isDark}
-              tintColor={tintColor}
-              isInteractive={false}
-              style={styles.titlePill}
-            >
-              <Text
-                fontFamily="$body"
-                fontSize="$1"
-                color={color}
-                numberOfLines={1}
-                style={styles.titleText}
-              >
-                {title}
-              </Text>
-            </GlassSurface>
-          </View>
+          <Text
+            fontFamily="$body"
+            fontSize="$1"
+            color={color}
+            numberOfLines={1}
+            style={[styles.titleText, { opacity: 0.55, maxWidth: '80%' }]}
+          >
+            {title}
+          </Text>
         </Animated.View>
       )}
 
