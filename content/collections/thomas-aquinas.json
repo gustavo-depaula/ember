@@ -34,25 +34,78 @@
 	},
 	"sections": [
 		{
-			"id": "prayers",
+			"id": "prayers-for-study",
 			"title": {
-				"en-US": "Prayers of St. Thomas",
-				"pt-BR": "Orações de Santo Tomás"
+				"en-US": "Prayers for Study",
+				"pt-BR": "Orações para o Estudo"
 			},
 			"description": {
 				"body": {
-					"en-US": "His prayers before and after study, his Communion prayers, the daily prayer for the ordering of his life, and the Eucharistic hymn most associated with his own private devotion.",
-					"pt-BR": "Suas orações antes e depois do estudo, as orações de comunhão, a oração diária para ordenar a vida e o hino eucarístico mais ligado à sua devoção pessoal."
+					"en-US": "The two short prayers Aquinas reportedly recited before and after every session of study, writing, or preaching.",
+					"pt-BR": "As duas breves orações que Tomás recitava antes e depois de cada sessão de estudo, escrita ou pregação."
 				}
 			},
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "practice/prayers-st-thomas-aquinas"
+					"ref": "practice/ante-studium"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-after-study"
+				}
+			]
+		},
+		{
+			"id": "daily-prayer",
+			"title": {
+				"en-US": "Daily Prayer",
+				"pt-BR": "Oração Diária"
+			},
+			"description": {
+				"body": {
+					"en-US": "The long personal prayer Aquinas reportedly recited daily before an image of Christ — and the bilingual collection of his shorter devotional prayers.",
+					"pt-BR": "A longa oração pessoal que Tomás recitava diariamente diante de uma imagem de Cristo — e a coletânea bilíngue de suas orações devocionais mais breves."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/concede-mihi"
 				},
 				{
 					"kind": "item",
 					"ref": "book/aquinas-devotional-prayers"
+				}
+			]
+		},
+		{
+			"id": "for-holy-communion",
+			"title": {
+				"en-US": "For Holy Communion",
+				"pt-BR": "Para a Sagrada Comunhão"
+			},
+			"description": {
+				"body": {
+					"en-US": "Aquinas's two great preparation and thanksgiving prayers for Holy Communion — paired with *Adoro Te Devote*, the Eucharistic hymn most associated with his own private devotion.",
+					"pt-BR": "As duas grandes orações de preparação e ação de graças de Tomás para a Sagrada Comunhão — emparelhadas com o *Adoro Te Devote*, o hino eucarístico mais ligado à sua devoção pessoal."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-before-communion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-after-communion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/adoro-te-devote",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
 				}
 			]
 		},
@@ -64,14 +117,14 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "The hymns Aquinas composed for the Office and Mass of Corpus Christi (1264) at the request of Pope Urban IV — still sung throughout the Latin Church.",
-					"pt-BR": "Os hinos que Tomás compôs para o Ofício e a Missa de Corpus Christi (1264) a pedido do Papa Urbano IV — ainda hoje cantados em toda a Igreja Latina."
+					"en-US": "The hymns Aquinas composed in 1264 at the request of Pope Urban IV for the new feast of Corpus Christi — the Vespers hymn *Pange Lingua* (with its excerpt *Tantum Ergo*), the Matins hymn *Sacris Solemniis* (with *Panis Angelicus*), the Lauds hymn *Verbum Supernum* (with *O Salutaris Hostia*), and the Mass sequence *Lauda Sion*. Still sung throughout the Latin Church.",
+					"pt-BR": "Os hinos que Tomás compôs em 1264 a pedido do Papa Urbano IV para a nova festa de Corpus Christi — o hino das Vésperas *Pange Lingua* (com seu excerto *Tantum Ergo*), o das Matinas *Sacris Solemniis* (com *Panis Angelicus*), o das Laudes *Verbum Supernum* (com *O Salutaris Hostia*), e a sequência da Missa *Lauda Sion*. Ainda hoje cantados em toda a Igreja Latina."
 				}
 			},
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "practice/adoro-te-devote",
+					"ref": "practice/pange-lingua",
 					"seeAlso": [
 						"collection/eucharistic"
 					]
@@ -85,7 +138,35 @@
 				},
 				{
 					"kind": "item",
+					"ref": "practice/sacris-solemniis",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/panis-angelicus",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/verbum-supernum",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "item",
 					"ref": "practice/o-salutaris-hostia",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lauda-sion",
 					"seeAlso": [
 						"collection/eucharistic"
 					]
@@ -545,8 +626,8 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "The complete liturgical office Aquinas composed in 1264 at the request of Pope Urban IV for the new feast — Mass *Cibavit*, Matins, Lauds, the Little Hours, Vespers, the Octave readings, and the hymns *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, and the sequence *Lauda Sion Salvatorem*. The hymns themselves also live inside the *Prayers of St. Thomas* practice above.",
-					"pt-BR": "O ofício litúrgico completo que Tomás compôs em 1264 a pedido do Papa Urbano IV para a nova festa — Missa *Cibavit*, Matinas, Laudes, Horas Menores, Vésperas, as leituras da Oitava, e os hinos *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, e a sequência *Lauda Sion Salvatorem*. Os próprios hinos também estão na prática *Orações de Santo Tomás* acima."
+					"en-US": "The complete liturgical office Aquinas composed in 1264 at the request of Pope Urban IV for the new feast — Mass *Cibavit*, Matins, Lauds, the Little Hours, Vespers, the Octave readings, and the hymns *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, and the sequence *Lauda Sion Salvatorem*. The hymns themselves are available as standalone practices in the *Eucharistic Hymns* section above.",
+					"pt-BR": "O ofício litúrgico completo que Tomás compôs em 1264 a pedido do Papa Urbano IV para a nova festa — Missa *Cibavit*, Matinas, Laudes, Horas Menores, Vésperas, as leituras da Oitava, e os hinos *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, e a sequência *Lauda Sion Salvatorem*. Os próprios hinos estão disponíveis como práticas individuais na seção *Hinos Eucarísticos* acima."
 				}
 			},
 			"blocks": [

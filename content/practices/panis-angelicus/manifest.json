@@ -1,0 +1,58 @@
+{
+	"id": "panis-angelicus",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Panis Angelicus",
+		"pt-BR": "Panis Angelicus",
+		"la": "Panis Angelicus"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion",
+		"saints"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "The famous penultimate stanza (with its closing trinitarian doxology) of St. Thomas Aquinas's *Sacris Solemniis* — the Bread of Angels become the Bread of man.",
+		"pt-BR": "A famosa penúltima estrofe (com sua doxologia trinitária final) do *Sacris Solemniis* de Santo Tomás de Aquino — o Pão dos Anjos feito Pão dos homens."
+	},
+	"history": {
+		"en-US": "Excerpted from Aquinas's *Sacris Solemniis* (1264) and frequently set to music — most famously by César Franck (1872). The two stanzas are routinely sung as a stand-alone Eucharistic hymn.",
+		"pt-BR": "Extraído do *Sacris Solemniis* de Tomás (1264) e frequentemente musicado — mais notavelmente por César Franck (1872). As duas estrofes são habitualmente cantadas como hino eucarístico autônomo."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"aquinas",
+		"thomas",
+		"eucharistic",
+		"hymn",
+		"corpus-christi",
+		"doctor-of-the-church",
+		"dominican"
+	],
+	"defaults": {
+		"sortOrder": 47,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Thus Angels' Bread is made\nthe Bread of man today:\nthe Living Bread from heaven\nwith figures dost away:\nO wondrous gift indeed!\nThe poor and lowly may\nupon their Lord and Master feed.\n\nThee, therefore, we implore,\nO Godhead, One in Three,\nso may Thou visit us\nas we now worship Thee;\nand lead us on Thy way,\nthat we at last may see\nthe light wherein Thou dwellest aye. Amen.",
+					"la": "Panis angelicus\nfit panis hominum;\ndat panis caelicus\nfiguris terminum:\nO res mirabilis!\nManducat Dominum\npauper, servus et humilis.\n\nTe trina Deitas\nunaque poscimus:\nsic nos tu visita,\nsicut te colimus;\nper tuas semitas\nduc nos quo tendimus,\nad lucem quam inhabitas. Amen.",
+					"pt-BR": "O Pão dos Anjos\nfaz-se Pão dos homens;\no Pão do Céu\npõe fim às figuras.\nÓ realidade admirável!\nCome do Senhor\no pobre, o servo e o humilde.\n\nÓ Deus uno e trino,\na Vós suplicamos:\nvisitai-nos assim\ncomo Vos veneramos;\npor Vossos caminhos\nconduzi-nos aonde tendemos,\nà luz em que habitais. Amém."
+				}
+			}
+		]
+	}
+}

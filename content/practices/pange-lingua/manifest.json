@@ -1,0 +1,58 @@
+{
+	"id": "pange-lingua",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Pange Lingua",
+		"pt-BR": "Pange Lingua",
+		"la": "Pange Lingua"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion",
+		"saints"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "St. Thomas Aquinas's hymn for Vespers of Corpus Christi (1264) — *Pange Lingua Gloriosi Corporis Mysterium*. Its last two stanzas, *Tantum Ergo*, are sung at Benediction.",
+		"pt-BR": "Hino de Santo Tomás de Aquino para as Vésperas de Corpus Christi (1264) — *Pange Lingua Gloriosi Corporis Mysterium*. Suas duas últimas estrofes, *Tantum Ergo*, são cantadas na Bênção do Santíssimo."
+	},
+	"history": {
+		"en-US": "Composed by Aquinas at the request of Pope Urban IV for the new feast of Corpus Christi (1264). Traditionally sung in procession on Holy Thursday from the altar to the altar of repose, and at Vespers of Corpus Christi. English translation by Edward Caswall (1849).",
+		"pt-BR": "Composto por Tomás a pedido do Papa Urbano IV para a nova festa de Corpus Christi (1264). Tradicionalmente cantado em procissão na Quinta-feira Santa do altar para o altar da reposição, e nas Vésperas de Corpus Christi. Tradução inglesa de Edward Caswall (1849)."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"aquinas",
+		"thomas",
+		"eucharistic",
+		"hymn",
+		"corpus-christi",
+		"doctor-of-the-church",
+		"dominican"
+	],
+	"defaults": {
+		"sortOrder": 45,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Sing, my tongue, the Saviour's glory,\nof His Flesh the mystery sing;\nof the Blood, all price exceeding,\nshed by our immortal King,\ndestined, for the world's redemption,\nfrom a noble womb to spring.\n\nOf a pure and spotless Virgin\nborn for us on earth below,\nHe, as Man with man conversing,\nstay'd, the seeds of truth to sow;\nthen He closed in solemn order\nwondrously His life of woe.\n\nOn the night of that Last Supper,\nseated with His chosen band,\nHe the Paschal victim eating,\nfirst fulfils the Law's command;\nthen, as Food to His Apostles\ngives Himself with His own hand.\n\nWord made Flesh, the bread of nature\nby His word to Flesh He turns;\nwine into His Blood He changes:\nwhat though sense no change discerns?\nOnly be the heart in earnest,\nfaith her lesson quickly learns.\n\nDown in adoration falling,\nlo! the sacred Host we hail;\nlo! o'er ancient forms departing,\nnewer rites of grace prevail;\nfaith for all defects supplying,\nwhere the feeble senses fail.\n\nTo the everlasting Father,\nand the Son who reigns on high,\nwith the Holy Ghost proceeding\nforth from each eternally,\nbe salvation, honour, blessing,\nmight and endless majesty. Amen.",
+					"la": "Pange, lingua, gloriosi\nCorporis mysterium,\nSanguinisque pretiosi,\nquem in mundi pretium\nfructus ventris generosi\nRex effudit gentium.\n\nNobis datus, nobis natus\nex intacta Virgine,\net in mundo conversatus,\nsparso verbi semine,\nsui moras incolatus\nmiro clausit ordine.\n\nIn supremae nocte cenae\nrecumbens cum fratribus,\nobservata lege plene\ncibis in legalibus,\ncibum turbae duodenae\nse dat suis manibus.\n\nVerbum caro, panem verum\nverbo carnem efficit:\nfitque sanguis Christi merum,\net si sensus deficit,\nad firmandum cor sincerum\nsola fides sufficit.\n\nTantum ergo Sacramentum\nveneremur cernui:\net antiquum documentum\nnovo cedat ritui:\npraestet fides supplementum\nsensuum defectui.\n\nGenitori, Genitoque\nlaus et iubilatio,\nsalus, honor, virtus quoque\nsit et benedictio:\nprocedenti ab utroque\ncompar sit laudatio. Amen.",
+					"pt-BR": "Canta, ó língua, do glorioso\nCorpo o mistério,\ne do Sangue precioso\nque, em preço do mundo,\nfruto de ventre generoso,\no Rei das nações derramou.\n\nA nós dado, por nós nascido\nde uma Virgem imaculada,\ne no mundo conversando,\nespalhada a semente da Palavra,\nfechou os dias de sua morada\ncom admirável ordem.\n\nNa noite da última Ceia,\nreclinado com os irmãos,\ncumprida plenamente a Lei\nquanto aos alimentos legais,\npor alimento aos doze\nse dá com suas próprias mãos.\n\nO Verbo encarnado, o pão verdadeiro\npela palavra em carne converte,\ne em Sangue de Cristo se faz o vinho;\ne, se o sentido falha,\npara firmar o coração sincero\nbasta somente a fé.\n\nTão sublime Sacramento,\nprostrados, veneremos:\ne o antigo documento\nceda lugar ao novo rito;\nsupra a fé o défice\ndos nossos sentidos.\n\nAo Pai e ao Filho gerado\nlouvor e júbilo,\nsalvação, honra, poder também\ne bênção sejam dados:\nao que d'Ambos procede\nseja igual a aclamação. Amém."
+				}
+			}
+		]
+	}
+}

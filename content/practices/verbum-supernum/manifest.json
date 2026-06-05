@@ -1,0 +1,58 @@
+{
+	"id": "verbum-supernum",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Verbum Supernum",
+		"pt-BR": "Verbum Supernum",
+		"la": "Verbum Supernum Prodiens"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion",
+		"saints"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "St. Thomas Aquinas's hymn for Lauds of Corpus Christi (1264) — *Verbum Supernum Prodiens*. Its fifth and sixth stanzas form *O Salutaris Hostia*, sung at Benediction.",
+		"pt-BR": "Hino de Santo Tomás de Aquino para as Laudes de Corpus Christi (1264) — *Verbum Supernum Prodiens*. Suas quinta e sexta estrofes formam *O Salutaris Hostia*, cantado na Bênção do Santíssimo."
+	},
+	"history": {
+		"en-US": "Composed by Aquinas at the request of Pope Urban IV for the Office of Corpus Christi (1264). English translation drawn from John Mason Neale, Edward Caswall, and Gerard Manley Hopkins — the cento used in the current Liturgy of the Hours.",
+		"pt-BR": "Composto por Tomás a pedido do Papa Urbano IV para o Ofício de Corpus Christi (1264). Tradução inglesa formada por John Mason Neale, Edward Caswall e Gerard Manley Hopkins — o cento atualmente em uso na Liturgia das Horas."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"aquinas",
+		"thomas",
+		"eucharistic",
+		"hymn",
+		"corpus-christi",
+		"doctor-of-the-church",
+		"dominican"
+	],
+	"defaults": {
+		"sortOrder": 48,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "The heavenly Word proceeding forth,\nyet not leaving the Father's side,\nwent forth upon His work on earth\nand reached at length life's eventide.\n\nBy false disciple to be given\nto foemen for His Blood athirst,\nHimself, the living Bread from heaven,\nHe gave to His disciples first.\n\nTo them He gave, in twofold kind,\nHis very Flesh, His very Blood:\nof twofold substance man is made,\nand He of man would be the Food.\n\nBy birth our fellowman was He,\nour Food while seated at the board;\nHe died, our ransomer to be;\nHe ever reigns, our great reward.\n\nO saving Victim, opening wide\nthe gate of heaven to all below:\nour foes press on from every side;\nThine aid supply, Thy strength bestow.\n\nTo Thy great Name be endless praise,\nimmortal Godhead, One in Three!\nO grant us endless length of days\nin our true native land with Thee. Amen.",
+					"la": "Verbum supernum prodiens,\nnec Patris linquens dexteram,\nad opus suum exiens,\nvenit ad vitae vesperam.\n\nIn mortem a discipulo\nsuis tradendus aemulis,\nprius in vitae ferculo\nse tradidit discipulis.\n\nQuibus sub bina specie\ncarnem dedit et sanguinem;\nut duplicis substantiae\ntotum cibaret hominem.\n\nSe nascens dedit socium,\nconvescens in edulium,\nse moriens in pretium,\nse regnans dat in praemium.\n\nO salutaris Hostia,\nquae caeli pandis ostium:\nbella premunt hostilia,\nda robur, fer auxilium.\n\nUni trinoque Domino\nsit sempiterna gloria,\nqui vitam sine termino\nnobis donet in patria. Amen.",
+					"pt-BR": "O Verbo supremo, procedendo,\nsem deixar a destra do Pai,\nsaindo para a Sua obra,\nchegou à tarde da vida.\n\nÀ morte, por um discípulo,\nprestes a ser entregue aos Seus inimigos,\nprimeiro, no alimento da vida,\nentregou-Se aos discípulos.\n\nAos quais, sob dupla espécie,\ndeu a Carne e o Sangue;\npara que de dupla substância\nalimentasse todo o homem.\n\nNascendo, deu-Se como companheiro;\nceando, como alimento;\nmorrendo, como preço;\nreinando, dá-Se como prêmio.\n\nÓ Hóstia salutar,\nque do céu nos abris a porta,\nos inimigos nos oprimem:\ndai-nos força, trazei-nos socorro.\n\nAo Senhor Uno e Trino\nseja dada sempiterna glória;\nque nos conceda a vida sem fim,\nna pátria, juntamente. Amém."
+				}
+			}
+		]
+	}
+}

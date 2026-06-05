@@ -129,21 +129,17 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "The Aquinas hymns of Corpus Christi — the foundation of every Benediction and Holy Hour. *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, *Adoro Te Devote*, and the sequence *Lauda Sion Salvatorem* all live in the *Prayers of St. Thomas Aquinas* practice; the full Office (with the Mass *Cibavit*) is in the linked book.",
-					"pt-BR": "Os hinos eucarísticos de São Tomás de Aquino para Corpus Christi — fundamento de toda Bênção e Hora Santa. *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, *Adoro Te Devote* e a sequência *Lauda Sion Salvatorem* estão todos na prática *Orações de Santo Tomás de Aquino*; o Ofício completo (com a Missa *Cibavit*) está no livro vinculado."
+					"en-US": "The Aquinas hymns of Corpus Christi — the foundation of every Benediction and Holy Hour. *Pange Lingua* (with its excerpt *Tantum Ergo*), *Sacris Solemniis* (with *Panis Angelicus*), *Verbum Supernum* (with *O Salutaris Hostia*), *Adoro Te Devote*, and the sequence *Lauda Sion Salvatorem*. The full Office (with the Mass *Cibavit*) is in the linked book.",
+					"pt-BR": "Os hinos eucarísticos de São Tomás de Aquino para Corpus Christi — fundamento de toda Bênção e Hora Santa. *Pange Lingua* (com seu excerto *Tantum Ergo*), *Sacris Solemniis* (com *Panis Angelicus*), *Verbum Supernum* (com *O Salutaris Hostia*), *Adoro Te Devote* e a sequência *Lauda Sion Salvatorem*. O Ofício completo (com a Missa *Cibavit*) está no livro vinculado."
 				}
 			},
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "practice/prayers-st-thomas-aquinas",
+					"ref": "practice/pange-lingua",
 					"seeAlso": [
 						"collection/thomas-aquinas"
 					]
-				},
-				{
-					"kind": "item",
-					"ref": "practice/adoro-te-devote"
 				},
 				{
 					"kind": "item",
@@ -151,7 +147,42 @@
 				},
 				{
 					"kind": "item",
+					"ref": "practice/sacris-solemniis",
+					"seeAlso": [
+						"collection/thomas-aquinas"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/panis-angelicus",
+					"seeAlso": [
+						"collection/thomas-aquinas"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/verbum-supernum",
+					"seeAlso": [
+						"collection/thomas-aquinas"
+					]
+				},
+				{
+					"kind": "item",
 					"ref": "practice/o-salutaris-hostia"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/adoro-te-devote",
+					"seeAlso": [
+						"collection/thomas-aquinas"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lauda-sion",
+					"seeAlso": [
+						"collection/thomas-aquinas"
+					]
 				},
 				{
 					"kind": "item",
