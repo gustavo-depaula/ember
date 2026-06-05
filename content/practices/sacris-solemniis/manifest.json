@@ -1,0 +1,58 @@
+{
+	"id": "sacris-solemniis",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Sacris Solemniis",
+		"pt-BR": "Sacris Solemniis",
+		"la": "Sacris Solemniis"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion",
+		"saints"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "St. Thomas Aquinas's hymn for Matins of Corpus Christi (1264) — *Sacris Solemniis iuncta sint gaudia*. Its sixth and seventh stanzas form the well-known *Panis Angelicus*.",
+		"pt-BR": "Hino de Santo Tomás de Aquino para as Matinas de Corpus Christi (1264) — *Sacris Solemniis iuncta sint gaudia*. Suas sexta e sétima estrofes formam o conhecido *Panis Angelicus*."
+	},
+	"history": {
+		"en-US": "Composed by Aquinas at the request of Pope Urban IV for the Office of Corpus Christi (1264). The English cento is based on John David Chambers's 19th-century translation.",
+		"pt-BR": "Composto por Tomás a pedido do Papa Urbano IV para o Ofício de Corpus Christi (1264). A versão inglesa é um cento baseado na tradução de John David Chambers (séc. XIX)."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"aquinas",
+		"thomas",
+		"eucharistic",
+		"hymn",
+		"corpus-christi",
+		"doctor-of-the-church",
+		"dominican"
+	],
+	"defaults": {
+		"sortOrder": 46,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "At this our solemn feast let holy joys abound,\nand from the inmost breast let songs of praise resound;\nlet ancient rites depart, and all be new around,\nin every act, and voice, and heart.\n\nRemember we that eve, when, the Last Supper spread,\nChrist, as we all believe, the Lamb, with leavenless bread,\namong His brethren shared, and thus the Law obeyed,\nof all unto their sire declared.\n\nThe typic Lamb consumed, the legal Feast complete,\nthe Lord unto the Twelve His Body gave to eat;\nthe whole to all, no less the whole to each did mete\nwith His own hands, as we confess.\n\nHe gave them, weak and frail, His Flesh, their Food to be;\non them, downcast and sad, His Blood bestowed He:\nand thus to them He spake: \"Receive this Cup from Me,\nand all of you of this partake.\"\n\nSo He this Sacrifice to institute did will,\nand charged His priests alone that office to fulfill:\nto them He did confide: to whom it pertains still\nto take, and the rest divide.\n\nThus Angels' Bread is made the Bread of man today:\nthe Living Bread from heaven with figures dost away:\nO miraculous gift indeed!\nthe poor and lowly may upon their Lord and Master feed.\n\nThee, therefore, we implore, O Godhead, One in Three,\nso may Thou visit us as we now worship Thee;\nand lead us on Thy way, that we at last may see\nthe light wherein Thou dwellest aye. Amen.",
+					"la": "Sacris solemniis iuncta sint gaudia,\net ex praecordiis sonent praeconia;\nrecedant vetera, nova sint omnia,\ncorda, voces et opera.\n\nNoctis recolitur cena novissima,\nqua Christus creditur agnum et azyma\ndedisse fratribus, iuxta legitima\npriscis indulta patribus.\n\nPost agnum typicum, expletis epulis,\nCorpus Dominicum datum discipulis,\nsic totum omnibus, quod totum singulis,\neius fatemur manibus.\n\nDedit fragilibus corporis ferculum,\ndedit et tristibus sanguinis poculum,\ndicens: Accipite quod trado vasculum;\nomnes ex eo bibite.\n\nSic sacrificium istud instituit,\ncuius officium committi voluit\nsolis presbyteris, quibus sic congruit,\nut sumant, et dent ceteris.\n\nPanis angelicus fit panis hominum;\ndat panis caelicus figuris terminum;\nO res mirabilis!\nManducat Dominum pauper, servus et humilis.\n\nTe, trina Deitas unaque, poscimus,\nsic nos tu visita, sicut te colimus;\nper tuas semitas duc nos quo tendimus,\nad lucem quam inhabitas. Amen.",
+					"pt-BR": "Às sagradas solenidades juntem-se as alegrias,\ne dos íntimos corações ressoem os louvores;\nretirem-se as coisas velhas, novas sejam todas,\nos corações, as vozes e as obras.\n\nRecorda-se a última Ceia da noite,\nem que se crê que Cristo o cordeiro e os ázimos\ndeu aos irmãos, segundo as leis\noutorgadas aos antigos pais.\n\nApós o cordeiro figurativo, terminada a ceia,\no Corpo do Senhor foi dado aos discípulos,\ninteiro a todos como inteiro a cada um,\nconfessamos, por Suas mãos.\n\nDeu aos frágeis o alimento do corpo,\ndeu aos tristes a bebida do sangue,\ndizendo: Recebei o cálice que vos entrego;\nbebei todos dele.\n\nAssim instituiu este sacrifício,\ncujo ofício quis fosse confiado\nsomente aos presbíteros, a quem convém\nque recebam e deem aos demais.\n\nO Pão dos Anjos faz-se Pão dos homens;\no Pão celeste põe fim às figuras;\nÓ realidade admirável!\nCome do Senhor o pobre, o servo e o humilde.\n\nÓ Deus uno e trino, a Vós suplicamos:\nvisitai-nos assim como Vos veneramos;\npor Vossos caminhos conduzi-nos aonde tendemos,\nà luz em que habitais. Amém."
+				}
+			}
+		]
+	}
+}

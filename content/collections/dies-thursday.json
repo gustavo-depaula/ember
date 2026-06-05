@@ -58,7 +58,16 @@
 				{ "kind": "item", "ref": "practice/litany-blessed-sacrament" },
 				{ "kind": "item", "ref": "practice/tantum-ergo" },
 				{ "kind": "item", "ref": "practice/visit-blessed-sacrament" },
-				{ "kind": "item", "ref": "practice/prayers-st-thomas-aquinas" }
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-before-communion",
+					"seeAlso": ["collection/thomas-aquinas"]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-after-communion",
+					"seeAlso": ["collection/thomas-aquinas"]
+				}
 			]
 		}
 	]
