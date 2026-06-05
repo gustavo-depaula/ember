@@ -2397,6 +2397,7 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio *De Caelo et Mundo* Aristotelis — tractatus cosmologicus de caelis, de elementis, de motu. Opus inchoatum — Librum I et partem Libri III antequam moreretur composuit.",
             translator_note_en="English translation by Fabian Larcher OP and Pierre H. Conway OP (typescript, 1963–64). Mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["DeCoelo.htm"],
+            anchor_re=r"^(\d+-\d+)$",
             chapter_label_en="Lecture",
             chapter_label_la="Lectio",
         ),
@@ -2428,6 +2429,8 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio *De Generatione et Corruptione* Aristotelis — de mutatione substantiali, de elementis, de materia prima.",
             translator_note_en="English translation by Pierre H. Conway OP and R. F. Larcher OP (1964, typescript). Mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["GenCorrup.htm"],
+            # Mixed scheme: Book I uses flat ints ("1".."18"), Book II uses "2.X".
+            anchor_re=r"^(\d+(?:\.\d+)?)$",
             chapter_label_en="Lecture",
             chapter_label_la="Lectio",
         ),
