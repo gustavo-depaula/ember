@@ -1,67 +1,33 @@
-import { useRouter } from 'expo-router'
-import { Book } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { useWindowDimensions } from 'react-native'
+import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
+import { PageHeader, ScreenLayout } from '@/components'
 import { getCollectionItems, getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { collectionHref, warmCollection } from '@/features/collections'
+import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
+import { artFor } from '@/features/explore/artMap'
+import { toneForKey } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
 type CollectionRow = {
   id: string
-  bareId: string
-  name: Record<string, string>
+  name: string
   practiceCount: number
 }
 
-function CollectionRowView({ entry, onPress }: { entry: CollectionRow; onPress: () => void }) {
-  const { t } = useTranslation()
-  const theme = useTheme()
-  const subtitle = `${entry.practiceCount} ${t('browse.practices').toLowerCase()}`
-
-  return (
-    <AnimatedPressable
-      onPress={onPress}
-      accessibilityRole="link"
-      accessibilityLabel={localizeContent(entry.name)}
-    >
-      <XStack
-        backgroundColor="$backgroundSurface"
-        borderRadius="$lg"
-        borderWidth={1}
-        borderColor="$borderColor"
-        gap="$md"
-        alignItems="center"
-        paddingHorizontal="$md"
-        paddingVertical="$sm"
-      >
-        <YStack
-          width={36}
-          height={36}
-          alignItems="center"
-          justifyContent="center"
-          backgroundColor="$accentSubtle"
-          borderRadius="$md"
-        >
-          <Book size={20} color={theme.accent?.val} />
-        </YStack>
-        <YStack flex={1} gap={2}>
-          <Text fontFamily="$heading" fontSize="$3" color="$color">
-            {localizeContent(entry.name)}
-          </Text>
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            {subtitle}
-          </Text>
-        </YStack>
-        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-          ›
-        </Text>
-      </XStack>
-    </AnimatedPressable>
-  )
+// Two square jewel cards across the standard ScreenLayout column (max 640,
+// $lg = 24 each side). Square reads as a quarry/illuminated block — collections
+// are jewels, not books.
+const columns = 2
+const gutter = 14
+function useCardSize(): number {
+  const { width } = useWindowDimensions()
+  const content = Math.min(width, 640) - 24 * 2
+  return Math.floor((content - gutter * (columns - 1)) / columns)
 }
 
 function bareId(corpusId: string): string {
@@ -71,21 +37,23 @@ function bareId(corpusId: string): string {
 
 export default function AllCollectionsScreen() {
   const { t } = useTranslation()
-  const router = useRouter()
+  const size = useCardSize()
   const catalogVersion = useCatalogVersion()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
   const collections = useMemo<CollectionRow[]>(() => {
     const out: CollectionRow[] = []
     for (const [id, entry] of getEntriesByKind('collection')) {
+      const name =
+        localizeContent(((entry as CatalogEntry).name ?? {}) as Record<string, string>) ||
+        bareId(id)
       out.push({
         id,
-        bareId: bareId(id),
-        name: ((entry as CatalogEntry).name ?? { 'en-US': bareId(id) }) as Record<string, string>,
+        name,
         practiceCount: getCollectionItems(id).filter((i) => i.entry?.kind === 'practice').length,
       })
     }
-    out.sort((a, b) => localizeContent(a.name).localeCompare(localizeContent(b.name)))
+    out.sort((a, b) => a.name.localeCompare(b.name))
     return out
   }, [catalogVersion])
 
@@ -110,20 +78,23 @@ export default function AllCollectionsScreen() {
             </Text>
           </YStack>
         ) : (
-          <YStack gap="$sm">
+          <XStack flexWrap="wrap" gap={gutter}>
             {collections.map((c) => (
-              <CollectionRowView
+              <ArtCoverCard
                 key={c.id}
-                entry={c}
-                onPress={() =>
-                  router.push({
-                    pathname: '/browse/[collectionId]',
-                    params: { collectionId: c.bareId },
-                  })
-                }
+                title={c.name}
+                subtitle={t('catalog.practiceCount', {
+                  count: c.practiceCount,
+                  defaultValue: `${c.practiceCount} items`,
+                })}
+                image={artFor(c.id)}
+                tone={toneForKey(c.id)}
+                size={size}
+                href={collectionHref(c.id)}
+                onPress={() => warmCollection(c.id)}
               />
             ))}
-          </YStack>
+          </XStack>
         )}
       </YStack>
     </ScreenLayout>

@@ -1,11 +1,11 @@
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { ChevronLeft, ChevronRight } from 'lucide-react-native'
+import { ChevronLeft } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView, StyleSheet } from 'react-native'
+import { Pressable, StyleSheet } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
+import { AnimatedPressable, ScreenLayout } from '@/components'
 import { Typography } from '@/components/typography'
 import { collectionHref, warmCollection } from '@/features/collections'
 import { artFor } from '@/features/explore/artMap'
@@ -60,33 +60,26 @@ export default function DiesDominiScreen() {
           </YStack>
         </XStack>
 
-        <ScrollView showsVerticalScrollIndicator={false}>
-          <YStack gap="$lg">
-            <TodayHero dayKey={todayKey} onPress={() => open(todayKey)} />
+        <YStack gap="$lg">
+          <TodayHero dayKey={todayKey} onPress={() => open(todayKey)} />
 
-            <YStack gap="$xs">
-              <Text
-                fontFamily="$heading"
-                fontSize="$2"
-                color="$colorSecondary"
-                letterSpacing={1.5}
-                textTransform="uppercase"
-              >
-                {t('diesDomini.restOfWeek')}
-              </Text>
-              <YStack gap="$md" paddingTop="$sm">
-                {otherDays.map((key, index) => (
-                  <OtherDayRow
-                    key={key}
-                    dayKey={key}
-                    last={index === otherDays.length - 1}
-                    onPress={() => open(key)}
-                  />
-                ))}
-              </YStack>
+          <YStack gap="$sm">
+            <Text
+              fontFamily="$heading"
+              fontSize="$2"
+              color="$colorSecondary"
+              letterSpacing={1.5}
+              textTransform="uppercase"
+            >
+              {t('diesDomini.restOfWeek')}
+            </Text>
+            <YStack gap="$sm" paddingTop="$xs">
+              {otherDays.map((key) => (
+                <OtherDayRow key={key} dayKey={key} onPress={() => open(key)} />
+              ))}
             </YStack>
           </YStack>
-        </ScrollView>
+        </YStack>
       </YStack>
     </ScreenLayout>
   )
@@ -155,42 +148,54 @@ function TodayHero({ dayKey, onPress }: { dayKey: DayKey; onPress: () => void })
   )
 }
 
-function OtherDayRow({
-  dayKey,
-  last,
-  onPress,
-}: {
-  dayKey: DayKey
-  last: boolean
-  onPress: () => void
-}) {
+// A mini-hero per day: the painting on the left at a subordinate scale, the
+// day's mystery on the right. Echoes the hero's left-accent rule so the whole
+// week reads as one composition (today bloomed, the rest at rest).
+function OtherDayRow({ dayKey, onPress }: { dayKey: DayKey; onPress: () => void }) {
   const { t } = useTranslation()
-  const theme = useTheme()
+  const image = artFor(collectionIdFor(dayKey))
   return (
-    <YStack gap="$sm">
-      <AnimatedPressable
-        onPress={onPress}
-        accessibilityRole="link"
-        accessibilityLabel={t(`diesDomini.days.${dayKey}.name`)}
-      >
-        <XStack gap="$md" alignItems="flex-start">
-          <YStack flex={1} gap="$sm">
-            <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
-              {t(`diesDomini.days.${dayKey}.name`).toUpperCase()}
-            </Text>
-            <Text fontFamily="$body" fontSize="$3" color="$color">
-              {t(`diesDomini.days.${dayKey}.line`)}
-            </Text>
-            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" lineHeight="$2">
-              {t(`diesDomini.days.${dayKey}.description`)}
-            </Text>
+    <AnimatedPressable
+      onPress={onPress}
+      accessibilityRole="link"
+      accessibilityLabel={t(`diesDomini.days.${dayKey}.name`)}
+    >
+      <XStack backgroundColor="$backgroundSurface" borderRadius="$md" overflow="hidden" gap="$md">
+        {image ? (
+          <YStack width={96} height={96} backgroundColor="$background">
+            <Image
+              source={image}
+              style={StyleSheet.absoluteFill}
+              contentFit="cover"
+              transition={200}
+              cachePolicy="memory-disk"
+            />
           </YStack>
-          <YStack paddingTop="$sm">
-            <ChevronRight size={18} color={theme.colorSecondary?.val} />
-          </YStack>
-        </XStack>
-      </AnimatedPressable>
-      {!last && <SectionDivider />}
-    </YStack>
+        ) : null}
+        <YStack flex={1} gap={4} paddingVertical="$sm" paddingRight="$md" justifyContent="center">
+          <Text
+            fontFamily="$heading"
+            fontSize="$1"
+            color="$accent"
+            letterSpacing={1.5}
+            textTransform="uppercase"
+          >
+            {t(`diesDomini.days.${dayKey}.name`)}
+          </Text>
+          <Text fontFamily="$body" fontSize="$3" color="$color" numberOfLines={2}>
+            {t(`diesDomini.days.${dayKey}.line`)}
+          </Text>
+          <Text
+            fontFamily="$body"
+            fontSize="$1"
+            color="$colorSecondary"
+            lineHeight="$1"
+            numberOfLines={2}
+          >
+            {t(`diesDomini.days.${dayKey}.description`)}
+          </Text>
+        </YStack>
+      </XStack>
+    </AnimatedPressable>
   )
 }
