@@ -14,19 +14,13 @@
   },
   "composed": "c. 1269",
   "languages": [
-    "en-US",
     "la"
   ],
   "sources": [
     {
-      "language": "en-US",
-      "url": "https://aquinas.cc/la/en/~De Secreto",
-      "description": "Translation from aquinas.cc."
-    },
-    {
       "language": "la",
       "url": "https://aquinas.cc/la/en/~De Secreto",
-      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc. No public-domain English translation available."
     }
   ],
   "toc": [
