@@ -2,6 +2,7 @@ import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, View, YStack } from 'tamagui'
 
@@ -38,6 +39,86 @@ function computeProgressFraction(p: LoadProgress | undefined): number {
   if (p.phase === 'manifest') return ratio * 0.1
   if (p.phase === 'chapters') return 0.1 + ratio * 0.6
   return 0.7 + ratio * 0.3
+}
+
+const BAR_WIDTH = 220
+
+/**
+ * Themed loading pane: book title in italic, animated progress bar, phase
+ * label. Lives in its own component so it can own hooks (shared value +
+ * timing) without polluting BookReader's top-level hook list.
+ */
+function LoadingPane({
+  background,
+  color,
+  title,
+  progress,
+}: {
+  background: string
+  color: string
+  title: string
+  progress: LoadProgress | undefined
+}) {
+  const { t } = useTranslation()
+  const fillWidth = useSharedValue(0)
+
+  useEffect(() => {
+    const target = computeProgressFraction(progress) * BAR_WIDTH
+    // Animate even on instant updates: when chapters resolve in the same tick
+    // React batches the state updates into one render, but the bar should
+    // still play the visual transition over ~300ms instead of snapping.
+    fillWidth.value = withTiming(target, { duration: 300 })
+  }, [progress, fillWidth])
+
+  const fillStyle = useAnimatedStyle(() => ({ width: fillWidth.value }))
+
+  const statusKey =
+    progress?.phase === 'images'
+      ? 'books.loadingImages'
+      : progress?.phase === 'chapters'
+        ? 'books.loadingChapters'
+        : progress?.phase === 'manifest'
+          ? 'books.loadingManifest'
+          : 'books.opening'
+
+  return (
+    <YStack
+      flex={1}
+      backgroundColor={background}
+      justifyContent="center"
+      alignItems="center"
+      paddingHorizontal="$xl"
+      gap="$lg"
+    >
+      <Text
+        fontFamily="$body"
+        fontStyle="italic"
+        fontSize="$5"
+        color={color}
+        opacity={0.75}
+        textAlign="center"
+      >
+        {title}
+      </Text>
+      <View
+        width={BAR_WIDTH}
+        height={3}
+        backgroundColor={color}
+        opacity={0.15}
+        borderRadius={2}
+        overflow="hidden"
+      >
+        <Animated.View style={[{ height: 3, backgroundColor: color }, fillStyle]} />
+      </View>
+      <Text fontFamily="$body" fontSize="$1" color={color} opacity={0.55}>
+        {t(statusKey, {
+          defaultValue: 'Opening…',
+          done: progress?.completed ?? 0,
+          total: progress?.total ?? 0,
+        })}
+      </Text>
+    </YStack>
+  )
 }
 
 export function BookReader({ bookId, chapter }: Props) {
@@ -195,60 +276,13 @@ export function BookReader({ bookId, chapter }: Props) {
   }
 
   if (isLoading || !cursor.initial.loaded || !chapters) {
-    // Themed loading: the AppleZoom morph just landed and the user expects to
-    // see *this* book opening, not a black void. Show the title + a phased
-    // progress bar so big books (Aquinas) don't look hung.
-    const fraction = computeProgressFraction(loadProgress)
-    const statusKey =
-      loadProgress?.phase === 'images'
-        ? 'books.loadingImages'
-        : loadProgress?.phase === 'chapters'
-          ? 'books.loadingChapters'
-          : loadProgress?.phase === 'manifest'
-            ? 'books.loadingManifest'
-            : 'books.opening'
     return (
-      <YStack
-        flex={1}
-        backgroundColor={config.background}
-        justifyContent="center"
-        alignItems="center"
-        paddingHorizontal="$xl"
-        gap="$lg"
-      >
-        <Text
-          fontFamily="$body"
-          fontStyle="italic"
-          fontSize="$5"
-          color={config.color}
-          opacity={0.75}
-          textAlign="center"
-        >
-          {bookTitle}
-        </Text>
-        <View
-          width={220}
-          height={3}
-          backgroundColor={config.color}
-          opacity={0.15}
-          borderRadius={2}
-          overflow="hidden"
-        >
-          <View
-            width={`${Math.round(fraction * 100)}%`}
-            height={3}
-            backgroundColor={config.color}
-            opacity={1}
-          />
-        </View>
-        <Text fontFamily="$body" fontSize="$1" color={config.color} opacity={0.55}>
-          {t(statusKey, {
-            defaultValue: 'Opening…',
-            done: loadProgress?.completed ?? 0,
-            total: loadProgress?.total ?? 0,
-          })}
-        </Text>
-      </YStack>
+      <LoadingPane
+        background={config.background}
+        color={config.color}
+        title={bookTitle}
+        progress={loadProgress}
+      />
     )
   }
 
@@ -267,8 +301,8 @@ export function BookReader({ bookId, chapter }: Props) {
 
       <ReaderOverlay
         title={bookTitle}
-        page={pageState.page}
-        pages={pageState.pages}
+        chapter={pageState.index + 1}
+        chapters={leaves.length}
         chromeShown={chromeShown}
         background={config.background}
         color={config.color}

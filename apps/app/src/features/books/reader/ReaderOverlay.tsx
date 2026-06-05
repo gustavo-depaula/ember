@@ -17,8 +17,10 @@ const SIDE_PADDING = 16
 
 type Props = {
   title: string
-  page: number
-  pages: number
+  /** 1-indexed chapter the reader is currently on. */
+  chapter: number
+  /** Total chapter count (= TOC leaf count). */
+  chapters: number
   chromeShown: boolean
   background: string
   color: string
@@ -38,8 +40,8 @@ type Props = {
  */
 export function ReaderOverlay({
   title,
-  page,
-  pages,
+  chapter,
+  chapters,
   chromeShown,
   background,
   color,
@@ -154,10 +156,10 @@ export function ReaderOverlay({
             style={styles.pagePill}
           >
             <Text fontFamily="$body" fontSize="$1" color={color} style={styles.pageText}>
-              {t('books.pageOfTotal', {
-                defaultValue: 'Page {{page}} of {{pages}}',
-                page,
-                pages,
+              {t('books.chapterOfTotal', {
+                defaultValue: 'Chapter {{chapter}} of {{chapters}}',
+                chapter,
+                chapters,
               })}
             </Text>
           </GlassSurface>

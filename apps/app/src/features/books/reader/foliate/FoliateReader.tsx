@@ -212,20 +212,22 @@ function buildHostHtml({
           // Wire tap zones inside the chapter iframe: left 30% = prev, right
           // 30% = next, middle posts centerTap so the chrome can toggle.
           //
-          // ev.clientX is iframe-local — the iframe is sized to the FULL
-          // multi-column content (much wider than the visible viewport), and
-          // foliate scrolls the parent container to reveal one column at a
-          // time. So we have to subtract paginator.start (current scroll
-          // offset) to recover the on-screen x. paginator.size is the visible
-          // page width (one column).
+          // ev.clientX is iframe-local and the iframe is sized to the FULL
+          // multi-column content (much wider than the viewport) and centered
+          // inside a wrapper that's even wider — reverse-engineering the
+          // offset from paginator.start is fragile. Use the iframe element's
+          // own bounding rect, which gives us its viewport-relative position
+          // directly; on-screen x is just rect.left + clientX.
           const doc = e.detail.doc;
           if (doc && !doc.__tapWired) {
             doc.__tapWired = true;
             doc.addEventListener('click', (ev) => {
-              const visibleX = ev.clientX - paginator.start;
-              const w = paginator.size;
-              if (visibleX < w * 0.3) paginator.prev();
-              else if (visibleX > w * 0.7) paginator.next();
+              const frame = doc.defaultView.frameElement;
+              if (!frame) return;
+              const onScreenX = frame.getBoundingClientRect().left + ev.clientX;
+              const w = paginator.getBoundingClientRect().width;
+              if (onScreenX < w * 0.3) paginator.prev();
+              else if (onScreenX > w * 0.7) paginator.next();
               else post({ type: 'centerTap' });
             });
           }

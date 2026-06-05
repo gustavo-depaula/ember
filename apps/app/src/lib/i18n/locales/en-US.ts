@@ -877,7 +877,7 @@ export default {
     unmarkAll: 'Unmark all',
     menu: 'Menu',
     themesAndSettings: 'Themes & Settings',
-    pageOfTotal: 'Page {{page}} of {{pages}}',
+    chapterOfTotal: 'Chapter {{chapter}} of {{chapters}}',
     opening: 'Opening…',
     loadingManifest: 'Loading book…',
     loadingChapters: 'Loading chapters ({{done}} of {{total}})',

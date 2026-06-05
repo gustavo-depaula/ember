@@ -885,7 +885,7 @@ export default {
     unmarkAll: 'Desmarcar tudo',
     menu: 'Menu',
     themesAndSettings: 'Temas e Ajustes',
-    pageOfTotal: 'P\u00e1gina {{page}} de {{pages}}',
+    chapterOfTotal: 'Cap\u00edtulo {{chapter}} de {{chapters}}',
     opening: 'Abrindo\u2026',
     loadingManifest: 'Carregando livro\u2026',
     loadingChapters: 'Carregando cap\u00edtulos ({{done}} de {{total}})',
