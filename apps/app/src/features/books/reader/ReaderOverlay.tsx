@@ -135,25 +135,23 @@ export function ReaderOverlay({
       ) : (
         <Animated.View
           key="bottom-page"
-          pointerEvents="box-none"
+          pointerEvents="none"
           entering={FadeIn.duration(FADE_MS)}
           exiting={FadeOut.duration(FADE_MS)}
           style={styles.centerRow}
         >
-          <GlassSurface
-            isDark={isDark}
-            tintColor={tintColor}
-            isInteractive={false}
-            style={styles.pagePill}
+          <Text
+            fontFamily="$body"
+            fontSize="$1"
+            color={color}
+            style={[styles.pageText, { opacity: 0.55 }]}
           >
-            <Text fontFamily="$body" fontSize="$1" color={color} style={styles.pageText}>
-              {t('books.chapterOfTotal', {
-                defaultValue: 'Chapter {{chapter}} of {{chapters}}',
-                chapter,
-                chapters,
-              })}
-            </Text>
-          </GlassSurface>
+            {t('books.chapterOfTotal', {
+              defaultValue: 'Chapter {{chapter}} of {{chapters}}',
+              chapter,
+              chapters,
+            })}
+          </Text>
         </Animated.View>
       )}
     </View>
