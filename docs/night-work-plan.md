@@ -163,3 +163,19 @@ The book detail page now shows a slim progress bar + `"NN% · Chapter X of Y"` b
 - Imports `flattenTocLeaves` from the reader's `bookContent` to derive the leaf list and `parseReaderPosition` (already imported) for cursor JSON.
 - New local component `BookProgressLine` + small `findChapterTitle` walker for the trailing chapter-name label.
 - i18n: `book.progressLine` in en-US + pt-BR.
+
+### Feature 13 (P2.2): Sepia + paper themes ✅
+
+Reader now ships 5 palettes plus an auto option:
+- **Light** — warm cream `#FAF6F0` on dark text (the existing default)
+- **Sepia** — `#F4E8D0` on warm brown `#4A3A2A` (classic e-reader look)
+- **Paper** — pure white `#FFFFFF` on near-black (high contrast)
+- **Night** — soft dark `#0E0D0C` on cream `#EDE4D8` (the existing dark default)
+- **Midnight** — true black `#000000` on dim cream (OLED-friendly)
+- **Auto** — follows the global theme (light/dark) → light or night
+
+The palette is persisted via a new `readerPalette` preference. `useReaderConfig` consumes it through a small `resolvePalette()` helper. ReaderSettingsSheet now has a swatch picker at the top of the sheet — circular 48pt swatches showing "Aa" in the palette's own colors, with a check mark on the selected one.
+
+- New: `ReaderPaletteId` exported type + `setReaderPalette` setter + hydrator clause in `preferencesStore`.
+- New: `palettes` map + `resolvePalette()` + `READER_PALETTE_IDS` in `useReaderConfig.ts`.
+- i18n: `books.paletteLabel` + nested `books.palette.{auto,light,sepia,paper,night,midnight}` in en-US + pt-BR.

@@ -1,11 +1,13 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
+import { Check } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ReadingConfig } from '@/components/ReadingConfigModal'
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { type ReaderPaletteId, usePreferencesStore } from '@/stores/preferencesStore'
+import { READER_PALETTE_IDS, resolvePalette } from './useReaderConfig'
 
 const sheetFraction = 0.9
 
@@ -17,6 +19,8 @@ export function ReaderSettingsSheet({ open, onClose }: { open: boolean; onClose:
 
   const themePreference = usePreferencesStore((s) => s.theme)
   const setTheme = usePreferencesStore((s) => s.setTheme)
+  const readerPalette = usePreferencesStore((s) => s.readerPalette)
+  const setReaderPalette = usePreferencesStore((s) => s.setReaderPalette)
 
   return (
     <BottomSheet
@@ -36,6 +40,8 @@ export function ReaderSettingsSheet({ open, onClose }: { open: boolean; onClose:
           contentContainerStyle={{ paddingBottom: insets.bottom + 32 }}
         >
           <YStack gap="$lg">
+            <PalettePicker value={readerPalette} onChange={setReaderPalette} />
+
             <ThemePicker
               value={themePreference}
               onChange={setTheme}
@@ -50,6 +56,81 @@ export function ReaderSettingsSheet({ open, onClose }: { open: boolean; onClose:
         </ScrollView>
       </YStack>
     </BottomSheet>
+  )
+}
+
+function PalettePicker({
+  value,
+  onChange,
+}: {
+  value: ReaderPaletteId
+  onChange: (v: ReaderPaletteId) => void
+}) {
+  const { t } = useTranslation()
+  // 'auto' has no fixed swatch — show with the current resolved palette.
+  return (
+    <YStack gap="$xs">
+      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+        {t('books.paletteLabel', { defaultValue: 'Reader palette' })}
+      </Text>
+      <XStack gap="$sm" flexWrap="wrap">
+        {READER_PALETTE_IDS.map((id) => {
+          const selected = id === value
+          const swatch = id === 'auto' ? null : resolvePalette(id, false)
+          return (
+            <YStack
+              key={id}
+              alignItems="center"
+              gap={4}
+              onPress={() => onChange(id)}
+              pressStyle={{ opacity: 0.85 }}
+              accessibilityRole="button"
+              accessibilityState={{ selected }}
+            >
+              <XStack
+                width={48}
+                height={48}
+                borderRadius={24}
+                borderWidth={selected ? 2 : 1}
+                borderColor={selected ? '$accent' : '$borderColor'}
+                backgroundColor={swatch ? swatch.background : '$background'}
+                alignItems="center"
+                justifyContent="center"
+                overflow="hidden"
+              >
+                {swatch ? (
+                  <Text fontFamily="$body" fontStyle="italic" fontSize="$3" color={swatch.color}>
+                    Aa
+                  </Text>
+                ) : (
+                  <Text fontFamily="$body" fontSize="$1" color="$color" letterSpacing={0.5}>
+                    AUTO
+                  </Text>
+                )}
+                {selected ? (
+                  <XStack
+                    position="absolute"
+                    bottom={-2}
+                    right={-2}
+                    width={16}
+                    height={16}
+                    borderRadius={8}
+                    backgroundColor="$accent"
+                    alignItems="center"
+                    justifyContent="center"
+                  >
+                    <Check size={10} color="white" />
+                  </XStack>
+                ) : null}
+              </XStack>
+              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                {t(`books.palette.${id}`, { defaultValue: id })}
+              </Text>
+            </YStack>
+          )
+        })}
+      </XStack>
+    </YStack>
   )
 }
 

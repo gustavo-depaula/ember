@@ -13,6 +13,16 @@ type ThemePreference = 'light' | 'dark' | 'system'
 type TextAlignment = 'justify' | 'left'
 type MarginPreset = 'narrow' | 'normal' | 'wide'
 type DisplayMode = 'side-by-side' | 'tap-to-switch'
+export type ReaderPaletteId = 'auto' | 'light' | 'sepia' | 'paper' | 'night' | 'midnight'
+
+const VALID_READER_PALETTES: ReaderPaletteId[] = [
+  'auto',
+  'light',
+  'sepia',
+  'paper',
+  'night',
+  'midnight',
+]
 
 const contentLanguages: ContentLanguage[] = ['en-US', 'pt-BR', 'la']
 
@@ -46,6 +56,7 @@ type PreferencesState = {
 
   // Theme
   theme: ThemePreference
+  readerPalette: ReaderPaletteId
 
   // Reading config
   fontFamily: ReadingFontId
@@ -73,6 +84,7 @@ type PreferencesState = {
 
   // Theme setter
   setTheme: (theme: ThemePreference) => void
+  setReaderPalette: (palette: ReaderPaletteId) => void
 
   // Reading config setters
   setFontFamily: (id: ReadingFontId) => void
@@ -97,6 +109,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     secondaryLanguage: undefined,
     displayMode: 'side-by-side',
     theme: 'system',
+    readerPalette: 'auto',
     fontFamily: 'eb-garamond',
     fontSizeStep: 3,
     lineHeightStep: 5,
@@ -201,6 +214,13 @@ export const usePreferencesStore = create<PreferencesState>()(
       setPreference('theme', theme)
     },
 
+    setReaderPalette: (palette) => {
+      set((state) => {
+        state.readerPalette = palette
+      })
+      setPreference('reader-palette', palette)
+    },
+
     setFontFamily: (id) => {
       set((state) => {
         state.fontFamily = id
@@ -278,6 +298,11 @@ export const usePreferencesStore = create<PreferencesState>()(
 
         const theme = prefs.theme
         if (theme === 'light' || theme === 'dark' || theme === 'system') state.theme = theme
+
+        const readerPalette = prefs['reader-palette']
+        if (readerPalette && VALID_READER_PALETTES.includes(readerPalette as ReaderPaletteId)) {
+          state.readerPalette = readerPalette as ReaderPaletteId
+        }
 
         const fontFamily = prefs['reading-font-family']
         if (fontFamily && validFontIds.has(fontFamily as ReadingFontId)) {
