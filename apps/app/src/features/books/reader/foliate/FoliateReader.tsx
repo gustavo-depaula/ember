@@ -377,10 +377,10 @@ function buildHostHtml({
           this.element.style.height = '100%';
           this.element.style.pointerEvents = 'none';
         }
-        // The iframe's offset within the host viewport. `range.getClientRects()`
+        // The iframe's offset within the host viewport. range.getClientRects
         // returns iframe-viewport-relative rects; the SVG is in the HOST doc
         // (foliate appends it to the view container), so we translate to the
-        // SVG's local coords via `iframe_offset + rect - svg_offset`.
+        // SVG's local coords via: iframe_offset + rect - svg_offset.
         _offsets() {
           const iframe = this.doc.defaultView && this.doc.defaultView.frameElement;
           const iframeRect = iframe ? iframe.getBoundingClientRect() : { left: 0, top: 0 };
