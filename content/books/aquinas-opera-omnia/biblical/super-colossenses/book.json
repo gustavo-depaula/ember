@@ -1,0 +1,219 @@
+{
+  "id": "aquinas-super-colossenses",
+  "name": {
+    "en-US": "Commentary on Colossians",
+    "la": "Super Colossenses lectura"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the Letter to the Colossians.",
+    "la": "Expositio Thomae in Epistolam ad Colossenses."
+  },
+  "composed": "1268–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Colossenses",
+      "description": "English translation by Fabian R. Larcher OP, revised by the Aquinas Institute. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Colossenses",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "en-US": "Chapter 1 — I Maccabees 3:3",
+        "la": "Caput 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — I Maccabees 3:3",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "Chapter 2 — The Incarnation",
+        "la": "Caput 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — The Incarnation",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Lecture 1 — Greeting",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Lecture 2 — The truth of the Gospel",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Lecture 3 — Prayer for the Colossians",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Lecture 4 — Creation through Christ",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g2-c005",
+          "title": {
+            "en-US": "Lecture 5 — Reconciliation through Christ",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g2-c006",
+          "title": {
+            "en-US": "Lecture 6 — Paul’s labor for Christ",
+            "la": "Lectio 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": {
+        "en-US": "Chapter 3 — Life in Christ",
+        "la": "Caput 3"
+      },
+      "children": [
+        {
+          "id": "g3-pr",
+          "title": {
+            "en-US": "Prologue — Life in Christ",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Lecture 1 — Instruction and care",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g3-c002",
+          "title": {
+            "en-US": "Lecture 2 — Walk in Christ",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g3-c003",
+          "title": {
+            "en-US": "Lecture 3 — Buried and raised with Christ",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g3-c004",
+          "title": {
+            "en-US": "Lecture 4 — Legal precepts abolished",
+            "la": "Lectio 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": {
+        "en-US": "Chapter 4 — Moral Precepts",
+        "la": "Caput 4"
+      },
+      "children": [
+        {
+          "id": "g4-pr",
+          "title": {
+            "en-US": "Prologue — Moral Precepts",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Lecture 1 — Mortify the body",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g4-c002",
+          "title": {
+            "en-US": "Lecture 2 — Putting on the new man",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g4-c003",
+          "title": {
+            "en-US": "Lecture 3 — All in the name of Christ",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g4-c004",
+          "title": {
+            "en-US": "Lecture 4 — Precepts towards neighbors",
+            "la": "Lectio 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": {
+        "en-US": "Chapter 5 — Conclusion",
+        "la": "Caput 5"
+      },
+      "children": [
+        {
+          "id": "g5-pr",
+          "title": {
+            "en-US": "Prologue — Conclusion",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Lecture 1 — Farewell",
+            "la": "Lectio 1"
+          }
+        }
+      ]
+    }
+  ]
+}

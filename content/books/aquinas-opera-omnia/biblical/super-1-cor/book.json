@@ -1,0 +1,791 @@
+{
+  "id": "aquinas-super-1-cor",
+  "name": {
+    "en-US": "Commentary on 1 Corinthians",
+    "la": "Super 1 ad Corinthios lectura"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the First Letter to the Corinthians.",
+    "la": "Expositio Thomae in primam Epistolam ad Corinthios."
+  },
+  "composed": "1268–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Corinthios I",
+      "description": "English translation by Fabian R. Larcher OP, revised by the Aquinas Institute. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Corinthios I",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "en-US": "Chapter 1 — Wisdom 6:22",
+        "la": "Caput 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — Wisdom 6:22",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "Chapter 2 — Introduction and Admonitions",
+        "la": "Caput 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — Introduction and Admonitions",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Lecture 1 — Greeting and thanksgiving",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Lecture 2 — Warning against contentions",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Lecture 3 — The foolishness of God",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Lecture 4 — God’s choice of the weak",
+            "la": "Lectio 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": {
+        "en-US": "Chapter 3 — God’s Hidden Wisdom",
+        "la": "Caput 3"
+      },
+      "children": [
+        {
+          "id": "g3-pr",
+          "title": {
+            "en-US": "Prologue — God’s Hidden Wisdom",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Lecture 1 — Paul speaks God’s mystery",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g3-c002",
+          "title": {
+            "en-US": "Lecture 2 — Revelation of the Spirit",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g3-c003",
+          "title": {
+            "en-US": "Lecture 3 — Wisdom of the saints",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": {
+        "en-US": "Chapter 4 — Christ the Principle of Unity",
+        "la": "Caput 4"
+      },
+      "children": [
+        {
+          "id": "g4-pr",
+          "title": {
+            "en-US": "Prologue — Christ the Principle of Unity",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Lecture 1 — Diverse ministers united in Christ",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g4-c002",
+          "title": {
+            "en-US": "Lecture 2 — Christ the one foundation",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g4-c003",
+          "title": {
+            "en-US": "Lecture 3 — Temples of God",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": {
+        "en-US": "Chapter 5 — The Apostolic Ministry",
+        "la": "Caput 5"
+      },
+      "children": [
+        {
+          "id": "g5-pr",
+          "title": {
+            "en-US": "Prologue — The Apostolic Ministry",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Lecture 1 — God the only judge",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g5-c002",
+          "title": {
+            "en-US": "Lecture 2 — The apostles are fools for Christ",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g5-c003",
+          "title": {
+            "en-US": "Lecture 3 — Paul as father of Christians",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": {
+        "en-US": "Chapter 6 — Against Fornication",
+        "la": "Caput 6"
+      },
+      "children": [
+        {
+          "id": "g6-pr",
+          "title": {
+            "en-US": "Prologue — Against Fornication",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g6-c001",
+          "title": {
+            "en-US": "Lecture 1 — Horror of fornication",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g6-c002",
+          "title": {
+            "en-US": "Lecture 2 — Unleavened bread of truth",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g6-c003",
+          "title": {
+            "en-US": "Lecture 3 — Relinquish company of sinners",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": {
+        "en-US": "Chapter 7 — Legal Discipline",
+        "la": "Caput 7"
+      },
+      "children": [
+        {
+          "id": "g7-pr",
+          "title": {
+            "en-US": "Prologue — Legal Discipline",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g7-c001",
+          "title": {
+            "en-US": "Lecture 1 — Judges of grievances",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g7-c002",
+          "title": {
+            "en-US": "Lecture 2 — Possessors of God’s kingdom",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g7-c003",
+          "title": {
+            "en-US": "Lecture 3 — The body is for God",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": {
+        "en-US": "Chapter 8 — Marriage",
+        "la": "Caput 8"
+      },
+      "children": [
+        {
+          "id": "g8-pr",
+          "title": {
+            "en-US": "Prologue — Marriage",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g8-c001",
+          "title": {
+            "en-US": "Lecture 1 — Good of marriage and celibacy",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g8-c002",
+          "title": {
+            "en-US": "Lecture 2 — Marriage indissoluble",
+            "la": "Lectio 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": {
+        "en-US": "Chapter 9 — S - Peter of Tarentaise on I Corinthians",
+        "la": "Caput 9"
+      },
+      "children": [
+        {
+          "id": "g9-pr",
+          "title": {
+            "en-US": "Prologue — S - Peter of Tarentaise on I Corinthians",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": {
+        "en-US": "Chapter 10 — Avoidance of scandal",
+        "la": "Caput 10"
+      },
+      "children": [
+        {
+          "id": "g10-pr",
+          "title": {
+            "en-US": "Prologue — Avoidance of scandal",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g10-c001",
+          "title": {
+            "en-US": "Lecture 1 — Meat sacrificed to idols",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g10-c002",
+          "title": {
+            "en-US": "Lecture 2 — Protect from scandal",
+            "la": "Lectio 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "title": {
+        "en-US": "Chapter 11 — Rights of the Apostles",
+        "la": "Caput 11"
+      },
+      "children": [
+        {
+          "id": "g11-pr",
+          "title": {
+            "en-US": "Prologue — Rights of the Apostles",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g11-c001",
+          "title": {
+            "en-US": "Lecture 1 — Paul’s abstinence from licit things",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g11-c002",
+          "title": {
+            "en-US": "Lecture 2 — Ministers may live by the Gospel",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g11-c003",
+          "title": {
+            "en-US": "Lecture 3 — Servant of the Gospel",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g11-c004",
+          "title": {
+            "en-US": "Lecture 4 — All for the sake of the Gospel",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g11-c005",
+          "title": {
+            "en-US": "Lecture 5 — Run that you may obtain",
+            "la": "Lectio 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "title": {
+        "en-US": "Chapter 12 — Members of Christ",
+        "la": "Caput 12"
+      },
+      "children": [
+        {
+          "id": "g12-pr",
+          "title": {
+            "en-US": "Prologue — Members of Christ",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g12-c001",
+          "title": {
+            "en-US": "Lecture 1 — Warning from Israel’s history",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g12-c002",
+          "title": {
+            "en-US": "Lecture 2 — Israel a figure for us",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g12-c003",
+          "title": {
+            "en-US": "Lecture 3 — No temptation beyond strength",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g12-c004",
+          "title": {
+            "en-US": "Lecture 4 — One bread, one body",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g12-c005",
+          "title": {
+            "en-US": "Lecture 5 — Sacrifices to devils",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g12-c006",
+          "title": {
+            "en-US": "Lecture 6 — Question of conscience",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g12-c007",
+          "title": {
+            "en-US": "Lecture 7 — All to the glory of God",
+            "la": "Lectio 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "title": {
+        "en-US": "Chapter 13 — Behaviour in Church",
+        "la": "Caput 13"
+      },
+      "children": [
+        {
+          "id": "g13-pr",
+          "title": {
+            "en-US": "Prologue — Behaviour in Church",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g13-c001",
+          "title": {
+            "en-US": "Lecture 1 — Relation between man and woman",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g13-c002",
+          "title": {
+            "en-US": "Lecture 2 — Woman should cover their heads",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g13-c003",
+          "title": {
+            "en-US": "Lecture 3 — The woman is for the man",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g13-c004",
+          "title": {
+            "en-US": "Lecture 4 — Factions in the assembly",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g13-c005",
+          "title": {
+            "en-US": "Lecture 5 — Institution of the Eucharist",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g13-c006",
+          "title": {
+            "en-US": "Lecture 6 — Institution of the chalice",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g13-c007",
+          "title": {
+            "en-US": "Lecture 7 — Receive the Lord worthily",
+            "la": "Lectio 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "title": {
+        "en-US": "Chapter 14 — Diversity of Office",
+        "la": "Caput 14"
+      },
+      "children": [
+        {
+          "id": "g14-pr",
+          "title": {
+            "en-US": "Prologue — Diversity of Office",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g14-c001",
+          "title": {
+            "en-US": "Lecture 1 — Unity through Jesus Christ",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g14-c002",
+          "title": {
+            "en-US": "Lecture 2 — Gifts of the Holy Spirit",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g14-c003",
+          "title": {
+            "en-US": "Lecture 3 — One body in Christ",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "title": {
+        "en-US": "Chapter 15 — Christian Charity",
+        "la": "Caput 15"
+      },
+      "children": [
+        {
+          "id": "g15-pr",
+          "title": {
+            "en-US": "Prologue — Christian Charity",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g15-c001",
+          "title": {
+            "en-US": "Lecture 1 — Primacy of charity",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g15-c002",
+          "title": {
+            "en-US": "Lecture 2 — Qualities of charity",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g15-c003",
+          "title": {
+            "en-US": "Lecture 3 — Put away childish things",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g15-c004",
+          "title": {
+            "en-US": "Lecture 4 — Charity remains in heaven",
+            "la": "Lectio 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "title": {
+        "en-US": "Chapter 16 — Prophecy and Tongues",
+        "la": "Caput 16"
+      },
+      "children": [
+        {
+          "id": "g16-pr",
+          "title": {
+            "en-US": "Prologue — Prophecy and Tongues",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g16-c001",
+          "title": {
+            "en-US": "Lecture 1 — Prophecy greater than gift of tongues",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g16-c002",
+          "title": {
+            "en-US": "Lecture 2 — Tongues’ meaning variable",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g16-c003",
+          "title": {
+            "en-US": "Lecture 3 — Interpretation of tongues",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g16-c004",
+          "title": {
+            "en-US": "Lecture 4 — Children in malice, perfect in sense",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g16-c005",
+          "title": {
+            "en-US": "Lecture 5 — Prophesy a means of conversion",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g16-c006",
+          "title": {
+            "en-US": "Lecture 6 — Must interpret tongues",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g16-c007",
+          "title": {
+            "en-US": "Lecture 7 — Persons forbidden to prophesy",
+            "la": "Lectio 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "title": {
+        "en-US": "Chapter 17 — Resurrection",
+        "la": "Caput 17"
+      },
+      "children": [
+        {
+          "id": "g17-pr",
+          "title": {
+            "en-US": "Prologue — Resurrection",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g17-c001",
+          "title": {
+            "en-US": "Lecture 1 — Testimony to Christ",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g17-c002",
+          "title": {
+            "en-US": "Lecture 2 — Resurrection of the dead",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g17-c003",
+          "title": {
+            "en-US": "Lecture 3 — Christ’s destruction of death",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g17-c004",
+          "title": {
+            "en-US": "Lecture 4 — Proof of resurrection from the saints",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g17-c005",
+          "title": {
+            "en-US": "Lecture 5 — Death before the resurrection",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g17-c006",
+          "title": {
+            "en-US": "Lecture 6 — Quality of the resurrected body",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g17-c007",
+          "title": {
+            "en-US": "Lecture 7 — The earthly and the heavenly man",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g17-c008",
+          "title": {
+            "en-US": "Lecture 8 — Manner of the resurrection",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "g17-c009",
+          "title": {
+            "en-US": "Lecture 9 — Victory over death in Christ",
+            "la": "Lectio 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "title": {
+        "en-US": "Chapter 18 — Final Admonitions",
+        "la": "Caput 18"
+      },
+      "children": [
+        {
+          "id": "g18-pr",
+          "title": {
+            "en-US": "Prologue — Final Admonitions",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g18-c001",
+          "title": {
+            "en-US": "Lecture 1 — Collections in the churches",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g18-c002",
+          "title": {
+            "en-US": "Lecture 2 — Farewell",
+            "la": "Lectio 2"
+          }
+        }
+      ]
+    }
+  ]
+}

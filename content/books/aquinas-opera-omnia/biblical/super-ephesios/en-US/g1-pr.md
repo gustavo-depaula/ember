@@ -1,0 +1,27 @@
+# Prologue — Psalm 75:3
+
+^75:3^ The earth is melted, and all that dwell therein: I have strengthened its pillars.  
+
+> **1**. Wisely has it been remarked that: *no less energy is spent in retaining possessions than in acquiring them*. Although St. Paul did not initiate the Ephesians into the faith, the Apostle is justly praised for having strengthened them in it. Of the church at Ephesus he rightfully can claim: *I have strengthened its pillars*—I who am an Israelite in nationality, a Christian in religion, an apostle in dignity.
+
+A Jew by birth, for *I am an Israelite sprung from Abraham’s seed in the tribe of Benjamin* (2 Cor 11:22). A Christian in religion, *for I, through the law, am dead to the law, that I may live to God; with Christ I am nailed to the cross. And I live, now not I; but Christ lives in me. And the life that I live now in the flesh, I live in the faith of the Son of God* (Gal 2:19–20). An apostle in dignity since *I am the least of the apostles* (1 Cor 15:9). Concerning these three it is written: *they are Israelites: so am I. They are the seed of Abraham: so am I. They are the ministers of Christ, so am I. I speak as one less wise: I am more* (2 Cor 11:22–23).  
+
+Everyone who proclaims saving wisdom, like Paul, must be an Israelite in his contemplation of God, a Christian in his religious faith, an apostle in his function’s authority.  
+
+I, therefore, am a Jew by birth, seeking God through faith, and am an apostle of God through imitation. *I have strengthened* them lest they falter in their faith, as the workman will buttress a building against a fall. *And when you have turned back, strengthen your brothers* (Luke 22:32), was spoken to Peter and accomplished by Paul. And it may be applied to him that *your words have upheld the stumbler* (Job 4:4). The bishop confirms a boy to fortify him against becoming spiritless; similarly, Paul has strengthened the Ephesians not to fear unreasonably. In this connection, it is written of David: *I have found David my servant: with my holy oil I have anointed him. For my hand shall help him: and my arm shall strengthen him* (Ps 89:21–22). *By the word of the Lord*, written through Paul, *the heavens*, applying to the Ephesians, *were established* (Ps 33:6) lest they lose their prize of glory, just as a prelate or prince ratifies a gift to protect it against theft. *Because of my perfection you have supported me, and set me before you forever* (Ps 41:13). This strengthening power is asked for where it is written: *send, my God, your strength; strengthen, God, what you have built for us* (Ps 68:29). The Apostle promised these divine aids: *but the Lord is faithful, who will strengthen and keep you from evil* (2 Thess 3:3).  
+
+*I have strengthened its pillars*, namely, the faithful of the church at Ephesus.  
+
+They are referred to as pillars since they must be straightforward, upright, and strong—straightforward through faith, upright through hope, and strong because of charity.  
+
+I say straightforward through faith because faith reveals the straight and true way to arrive at the fatherland; it is symbolized by the pillar of cloud: *and the Lord went before them to show the way by day in a pillar of a cloud* (Exod 13:21). Faith, similar to clouds, is opaque with its mysteries, dissolves when it gives way to vision, and moistens by arousing devotion.  
+
+The faithful are upright through hope, for hope points heavenwards; it is symbolized by the column of smoke: *the signal rose from the city as a pillar of smoke* (Judg 20:40). Hope, like smoke from fire, springs from charity, ascends upward, and finally vanishes in glory.  
+
+The faithful must be strong through charity, *for love is strong as death* (Song 8:6); hence, it is symbolized by a pillar of fire capable of consuming everything: *therefore, they received a burning pillar of fire for a guide on the unknown journey* (Wis 18:3). As fire makes the surroundings visible, puts metals to the test, and destroys what can burn, so charity enlightens human actions, examines one’s motives, and exterminates all vices.  
+
+The efficient cause of this letter is, of course, St. Paul; this cause was ascribed to the *I* of the psalm (Ps 75:3). The final cause is to fortify, designated by the *have strengthened*. The material cause is the Ephesians, as noted under *its pillars*. The formal cause will be understood in the structural divisions of the letter and its method of presentation.  
+
+**2**. A glossator prefaces this letter with a prologue or summary expressing two main ideas: first, he describes the recipients; second, he gives the reason and circumstances of writing, at *the Apostle praises them*. The Ephesians, to whom he wrote, are described in three ways: first, by their locality, *the Ephesians are Asians*, coming from Asia Minor; second, by their religion, *they have accepted the word* of Christian *truth*; third is their constancy, *they have remained steadfast in the faith*. The first has reference to their home country, the second to grace, and the third to perseverance.  
+
+At *the Apostle praises them* he adds the reason and circumstance for writing, which involves four things: first, the reason for Scripture; second, the author, who is *the Apostle*; third, the place from which he writes, which is *from a prison in Rome*; fourth, the messenger through whom he writes, who is *Tychicus, a deacon*.

@@ -1,0 +1,615 @@
+{
+  "id": "aquinas-super-2-cor",
+  "name": {
+    "en-US": "Commentary on 2 Corinthians",
+    "la": "Super 2 ad Corinthios lectura"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the Second Letter to the Corinthians.",
+    "la": "Expositio Thomae in secundam Epistolam ad Corinthios."
+  },
+  "composed": "1268–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Corinthios II",
+      "description": "English translation by Fabian R. Larcher OP, revised by the Aquinas Institute. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Corinthios II",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "en-US": "Chapter 1 — Isaiah 61:6",
+        "la": "Caput 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — Isaiah 61:6",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "Chapter 2 — Introduction",
+        "la": "Caput 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — Introduction",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Lecture 1 — Greeting",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Lecture 2 — Suffering and comfort in Christ",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Lecture 3 — Paul’s suffering for the Corinthians",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Lecture 4 — Glory in God’s grace",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g2-c005",
+          "title": {
+            "en-US": "Lecture 5 — Explanation of former promise",
+            "la": "Lectio 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": {
+        "en-US": "Chapter 3 — Paul’s Neglected Visit",
+        "la": "Caput 3"
+      },
+      "children": [
+        {
+          "id": "g3-pr",
+          "title": {
+            "en-US": "Prologue — Paul’s Neglected Visit",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Lecture 1 — Cause of delay",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g3-c002",
+          "title": {
+            "en-US": "Lecture 2 — Charity for the sorrowful",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g3-c003",
+          "title": {
+            "en-US": "Lecture 3 — Work in Macedonia",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": {
+        "en-US": "Chapter 4 — God Manifested in Ministry",
+        "la": "Caput 4"
+      },
+      "children": [
+        {
+          "id": "g4-pr",
+          "title": {
+            "en-US": "Prologue — God Manifested in Ministry",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Lecture 1 — The epistle of Christ",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g4-c002",
+          "title": {
+            "en-US": "Lecture 2 — Life in the Spirit, not the letter",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g4-c003",
+          "title": {
+            "en-US": "Lecture 3 — The Lord’s unveiled glory",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": {
+        "en-US": "Chapter 5 — Trials Lead to Glory",
+        "la": "Caput 5"
+      },
+      "children": [
+        {
+          "id": "g5-pr",
+          "title": {
+            "en-US": "Prologue — Trials Lead to Glory",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Lecture 1 — Manifestation of the truth",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g5-c002",
+          "title": {
+            "en-US": "Lecture 2 — Light of the Gospel",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g5-c003",
+          "title": {
+            "en-US": "Lecture 3 — Earthen vessels",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g5-c004",
+          "title": {
+            "en-US": "Lecture 4 — Death for Jesus",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g5-c005",
+          "title": {
+            "en-US": "Lecture 5 — Renewal of the inward man",
+            "la": "Lectio 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": {
+        "en-US": "Chapter 6 — Expectation of Heaven",
+        "la": "Caput 6"
+      },
+      "children": [
+        {
+          "id": "g6-pr",
+          "title": {
+            "en-US": "Prologue — Expectation of Heaven",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g6-c001",
+          "title": {
+            "en-US": "Lecture 1 — Longing for heavenly habitation",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g6-c002",
+          "title": {
+            "en-US": "Lecture 2 — Walk by faith and not by sight",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g6-c003",
+          "title": {
+            "en-US": "Lecture 3 — Manifest to God",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g6-c004",
+          "title": {
+            "en-US": "Lecture 4 — All things made new",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g6-c005",
+          "title": {
+            "en-US": "Lecture 5 — Reconcilation through Christ",
+            "la": "Lectio 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": {
+        "en-US": "Chapter 7 — God’s Ministers",
+        "la": "Caput 7"
+      },
+      "children": [
+        {
+          "id": "g7-pr",
+          "title": {
+            "en-US": "Prologue — God’s Ministers",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g7-c001",
+          "title": {
+            "en-US": "Lecture 1 — Divine ministers in tribulation",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g7-c002",
+          "title": {
+            "en-US": "Lecture 2 — Divine ministers in good",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g7-c003",
+          "title": {
+            "en-US": "Lecture 3 — Avoid unbelievers",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": {
+        "en-US": "Chapter 8 — Purification through Suffering",
+        "la": "Caput 8"
+      },
+      "children": [
+        {
+          "id": "g8-pr",
+          "title": {
+            "en-US": "Prologue — Purification through Suffering",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g8-c001",
+          "title": {
+            "en-US": "Lecture 1 — Purification of flesh and spirit",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g8-c002",
+          "title": {
+            "en-US": "Lecture 2 — Paul’s comfort in tribulation",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g8-c003",
+          "title": {
+            "en-US": "Lecture 3 — Sorrow according to God",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g8-c004",
+          "title": {
+            "en-US": "Lecture 4 — Confidence and rejoicing",
+            "la": "Lectio 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": {
+        "en-US": "Chapter 9 — Almsgiving",
+        "la": "Caput 9"
+      },
+      "children": [
+        {
+          "id": "g9-pr",
+          "title": {
+            "en-US": "Prologue — Almsgiving",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g9-c001",
+          "title": {
+            "en-US": "Lecture 1 — Grace of Macedonia",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g9-c002",
+          "title": {
+            "en-US": "Lecture 2 — Exhortation to almsgiving",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g9-c003",
+          "title": {
+            "en-US": "Lecture 3 — Titus’ labors",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": {
+        "en-US": "Chapter 10 — Good Works",
+        "la": "Caput 10"
+      },
+      "children": [
+        {
+          "id": "g10-pr",
+          "title": {
+            "en-US": "Prologue — Good Works",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g10-c001",
+          "title": {
+            "en-US": "Lecture 1 — Cheerful and abundant giving",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g10-c002",
+          "title": {
+            "en-US": "Lecture 2 — Grace abounds for good works",
+            "la": "Lectio 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "title": {
+        "en-US": "Chapter 11 — The Power of Christ",
+        "la": "Caput 11"
+      },
+      "children": [
+        {
+          "id": "g11-pr",
+          "title": {
+            "en-US": "Prologue — The Power of Christ",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g11-c001",
+          "title": {
+            "en-US": "Lecture 1 — Spiritual warfare",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g11-c002",
+          "title": {
+            "en-US": "Lecture 2 — Paul the same in person as in letters",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g11-c003",
+          "title": {
+            "en-US": "Lecture 3 — Glory measured by Christ",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "title": {
+        "en-US": "Chapter 12 — False Ministers",
+        "la": "Caput 12"
+      },
+      "children": [
+        {
+          "id": "g12-pr",
+          "title": {
+            "en-US": "Prologue — False Ministers",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g12-c001",
+          "title": {
+            "en-US": "Lecture 1 — Espousals to Christ",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g12-c002",
+          "title": {
+            "en-US": "Lecture 2 — Paul’s equality with the apostles",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g12-c003",
+          "title": {
+            "en-US": "Lecture 3 — Appearance of Satan’s ministers",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g12-c004",
+          "title": {
+            "en-US": "Lecture 4 — Paul’s foolishness",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g12-c005",
+          "title": {
+            "en-US": "Lecture 5 — Paul’s superiority to false apostles",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g12-c006",
+          "title": {
+            "en-US": "Lecture 6 — Glory in infirmity",
+            "la": "Lectio 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "title": {
+        "en-US": "Chapter 13 — Revelation and Apostleship",
+        "la": "Caput 13"
+      },
+      "children": [
+        {
+          "id": "g13-pr",
+          "title": {
+            "en-US": "Prologue — Revelation and Apostleship",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g13-c001",
+          "title": {
+            "en-US": "Lecture 1 — Taken to the third heaven",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g13-c002",
+          "title": {
+            "en-US": "Lecture 2 — Hidden words of God",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g13-c003",
+          "title": {
+            "en-US": "Lecture 3 — Sting of the flesh",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g13-c004",
+          "title": {
+            "en-US": "Lecture 4 — Signs of apostleship",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g13-c005",
+          "title": {
+            "en-US": "Lecture 5 — Intention of visiting",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g13-c006",
+          "title": {
+            "en-US": "Lecture 6 — Fear of contentions",
+            "la": "Lectio 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "title": {
+        "en-US": "Chapter 14 — Conclusion",
+        "la": "Caput 14"
+      },
+      "children": [
+        {
+          "id": "g14-pr",
+          "title": {
+            "en-US": "Prologue — Conclusion",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g14-c001",
+          "title": {
+            "en-US": "Lecture 1 — Proof of Christ in Paul",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g14-c002",
+          "title": {
+            "en-US": "Lecture 2 — Prayer for perfection",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g14-c003",
+          "title": {
+            "en-US": "Lecture 3 — Farewell",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    }
+  ]
+}

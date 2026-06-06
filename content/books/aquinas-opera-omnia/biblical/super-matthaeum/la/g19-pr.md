@@ -1,0 +1,3 @@
+# Prooemium
+
+***Revelatio Divinitatis Christi***

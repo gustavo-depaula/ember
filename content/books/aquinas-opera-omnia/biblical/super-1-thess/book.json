@@ -1,0 +1,186 @@
+{
+  "id": "aquinas-super-1-thess",
+  "name": {
+    "en-US": "Commentary on 1 Thessalonians",
+    "la": "Super 1 ad Thessalonicenses lectura"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the First Letter to the Thessalonians.",
+    "la": "Expositio Thomae in primam Epistolam ad Thessalonicenses."
+  },
+  "composed": "1268–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Thessalonicenses I",
+      "description": "English translation by Fabian R. Larcher OP, revised by the Aquinas Institute. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Thessalonicenses I",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "en-US": "Chapter 1 — Genesis 7:17",
+        "la": "Caput 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — Genesis 7:17",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "Chapter 2 — Introduction",
+        "la": "Caput 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — Introduction",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Lecture 1 — Example of the Thessalonians",
+            "la": "Lectio 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": {
+        "en-US": "Chapter 3 — Faith of the Thessalonians",
+        "la": "Caput 3"
+      },
+      "children": [
+        {
+          "id": "g3-pr",
+          "title": {
+            "en-US": "Prologue — Faith of the Thessalonians",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Lecture 1 — Paul’s toil for the Gospel",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g3-c002",
+          "title": {
+            "en-US": "Lecture 2 — Joy in the Thessalonians",
+            "la": "Lectio 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": {
+        "en-US": "Chapter 4 — Joy and Prayer",
+        "la": "Caput 4"
+      },
+      "children": [
+        {
+          "id": "g4-pr",
+          "title": {
+            "en-US": "Prologue — Joy and Prayer",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Lecture 1 — Trials and triumph of the Thessalonians",
+            "la": "Lectio 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": {
+        "en-US": "Chapter 5 — Precepts and the Resurrection",
+        "la": "Caput 5"
+      },
+      "children": [
+        {
+          "id": "g5-pr",
+          "title": {
+            "en-US": "Prologue — Precepts and the Resurrection",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Lecture 1 — Precepts of chastity and charity",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g5-c002",
+          "title": {
+            "en-US": "Lecture 2 — Resurrection of the dead",
+            "la": "Lectio 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": {
+        "en-US": "Chapter 6 — Children of Light",
+        "la": "Caput 6"
+      },
+      "children": [
+        {
+          "id": "g6-pr",
+          "title": {
+            "en-US": "Prologue — Children of Light",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g6-c001",
+          "title": {
+            "en-US": "Lecture 1 — The second coming",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g6-c002",
+          "title": {
+            "en-US": "Lecture 2 — Exhortations",
+            "la": "Lectio 2"
+          }
+        }
+      ]
+    }
+  ]
+}

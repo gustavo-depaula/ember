@@ -1,0 +1,3 @@
+# Prooemium
+
+***Christus principium unitatis***
