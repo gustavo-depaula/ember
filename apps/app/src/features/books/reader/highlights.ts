@@ -1,4 +1,5 @@
 import {
+  getCursor,
   getCursorsWithPrefix,
   highlightCursorId,
   highlightCursorPrefix,
@@ -35,8 +36,10 @@ export async function addHighlight(
 export async function updateHighlight(
   cursorId: string,
   patch: Partial<Pick<StoredHighlight, 'color' | 'note'>>,
-  existing: StoredHighlight,
 ): Promise<void> {
+  const c = getCursor(cursorId)
+  if (!c) return
+  const existing = JSON.parse(c.position) as StoredHighlight
   const merged: StoredHighlight = { ...existing, ...patch, updatedAt: Date.now() }
   await setCursor(cursorId, JSON.stringify(merged))
 }

@@ -1,60 +1,104 @@
-import { Highlighter } from 'lucide-react-native'
+import { Copy, Trash2 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet, useWindowDimensions, View } from 'react-native'
 import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 
 import { GlassSurface } from '@/components/GlassSurface'
-import { HIGHLIGHT_COLORS } from './highlightColors'
+import { HIGHLIGHT_COLOR_IDS, HIGHLIGHT_COLORS } from './highlightColors'
+import type { HighlightColor } from './highlights'
 
-const PILL_HEIGHT = 44
-const TOOLBAR_WIDTH = 110
+const PILL_HEIGHT = 48
+// 5 swatches (24pt each) + copy + optional trash + gaps + padding.
+// Width is computed from the slot count so the pill stays snug in both modes.
+const SLOT = 32
+const HPAD = 14
+const baseWidth = (extras: number) => HPAD * 2 + 5 * SLOT + extras * SLOT
 
 type Props = {
-  /** Bounding rect of the live selection, in WebView-screen coords. */
+  /** Selection rect in WebView-screen coords; undefined hides the toolbar. */
   rect: { x: number; y: number; width: number; height: number } | undefined
+  /** 'create' = a fresh selection; 'edit' = user tapped an existing highlight. */
+  mode: 'create' | 'edit'
   isDark: boolean
-  onHighlightYellow: () => void
+  onPickColor: (color: HighlightColor) => void
+  onCopy: () => void
+  /** Required when `mode === 'edit'`; ignored otherwise. */
+  onRemove?: () => void
 }
 
 /**
- * Floating glass toolbar that pops above (or below, if near the top) the
- * current text selection. Phase 1: single yellow swatch. Phase 2 adds the
- * full color palette + copy / note actions.
+ * Floating glass toolbar above (or below) the active selection. Five color
+ * swatches + copy; in edit mode (tap on existing highlight), also a trash.
  */
-export function ReaderSelectionToolbar({ rect, isDark, onHighlightYellow }: Props) {
+export function ReaderSelectionToolbar({
+  rect,
+  mode,
+  isDark,
+  onPickColor,
+  onCopy,
+  onRemove,
+}: Props) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
   const { width: screenWidth } = useWindowDimensions()
   if (!rect) return null
 
   const tintColor = isDark ? 'rgba(28,26,24,0.78)' : 'rgba(244,240,234,0.85)'
-  // Prefer above the selection; flip below when there's not enough room above
-  // the selection once we account for the safe-area inset (notch).
+  const iconColor = isDark ? '#EDE4D8' : '#1a1815'
+  const showTrash = mode === 'edit' && !!onRemove
+  const toolbarWidth = baseWidth(showTrash ? 2 : 1)
+
   const above = rect.y > insets.top + PILL_HEIGHT + 8
   const top = above ? rect.y - PILL_HEIGHT - 8 : rect.y + rect.height + 8
-  // Centred on the selection, then clamped to both edges to keep the pill on screen.
-  const idealLeft = rect.x + rect.width / 2 - TOOLBAR_WIDTH / 2
-  const left = Math.max(8, Math.min(screenWidth - TOOLBAR_WIDTH - 8, idealLeft))
+  const idealLeft = rect.x + rect.width / 2 - toolbarWidth / 2
+  const left = Math.max(8, Math.min(screenWidth - toolbarWidth - 8, idealLeft))
 
   return (
     <View pointerEvents="box-none" style={[StyleSheet.absoluteFill, { left: 0, top: 0 }]}>
       <Animated.View
         entering={FadeIn.duration(120)}
         exiting={FadeOut.duration(120)}
-        style={[styles.wrap, { top, left }]}
+        style={[styles.wrap, { top, left, width: toolbarWidth }]}
       >
-        <GlassSurface isDark={isDark} tintColor={tintColor} style={styles.pill}>
+        <GlassSurface
+          isDark={isDark}
+          tintColor={tintColor}
+          style={[styles.pill, { height: PILL_HEIGHT }]}
+        >
+          {HIGHLIGHT_COLOR_IDS.map((id) => (
+            <Pressable
+              key={id}
+              onPress={() => onPickColor(id)}
+              accessibilityRole="button"
+              accessibilityLabel={t(`books.highlight.${id}`, { defaultValue: id })}
+              style={styles.slot}
+              hitSlop={4}
+            >
+              <View style={[styles.swatch, { backgroundColor: HIGHLIGHT_COLORS[id].swatch }]} />
+            </Pressable>
+          ))}
+          <View style={styles.divider} />
           <Pressable
-            onPress={onHighlightYellow}
+            onPress={onCopy}
             accessibilityRole="button"
-            accessibilityLabel={t('books.highlightYellow', { defaultValue: 'Highlight yellow' })}
-            style={styles.action}
-            hitSlop={6}
+            accessibilityLabel={t('books.copySelection', { defaultValue: 'Copy' })}
+            style={styles.slot}
+            hitSlop={4}
           >
-            <View style={[styles.swatch, { backgroundColor: HIGHLIGHT_COLORS.yellow.swatch }]} />
-            <Highlighter size={18} color={isDark ? '#EDE4D8' : '#1a1815'} />
+            <Copy size={18} color={iconColor} />
           </Pressable>
+          {showTrash ? (
+            <Pressable
+              onPress={onRemove}
+              accessibilityRole="button"
+              accessibilityLabel={t('books.removeHighlight', { defaultValue: 'Remove highlight' })}
+              style={styles.slot}
+              hitSlop={4}
+            >
+              <Trash2 size={18} color={iconColor} />
+            </Pressable>
+          ) : null}
         </GlassSurface>
       </Animated.View>
     </View>
@@ -62,25 +106,29 @@ export function ReaderSelectionToolbar({ rect, isDark, onHighlightYellow }: Prop
 }
 
 const styles = StyleSheet.create({
-  wrap: { position: 'absolute', width: TOOLBAR_WIDTH },
+  wrap: { position: 'absolute' },
   pill: {
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center',
-    height: PILL_HEIGHT,
-    paddingHorizontal: 14,
+    paddingHorizontal: HPAD,
     borderRadius: 9999,
     overflow: 'hidden',
-    gap: 10,
   },
-  action: {
-    flexDirection: 'row',
+  slot: {
+    width: SLOT,
+    height: PILL_HEIGHT,
     alignItems: 'center',
-    gap: 8,
+    justifyContent: 'center',
   },
   swatch: {
-    width: 18,
-    height: 18,
-    borderRadius: 9,
+    width: 22,
+    height: 22,
+    borderRadius: 11,
+  },
+  divider: {
+    width: 1,
+    height: 24,
+    backgroundColor: 'rgba(128,128,128,0.35)',
+    marginHorizontal: 4,
   },
 })

@@ -30,7 +30,12 @@ export type FoliateMessage =
       rect: { x: number; y: number; width: number; height: number }
     }
   | { type: 'selectionCleared' }
-  | { type: 'highlightTap'; id: string; chapterIndex: number }
+  | {
+      type: 'highlightTap'
+      id: string
+      chapterIndex: number
+      rect: { x: number; y: number; width: number; height: number }
+    }
   | { type: 'log'; message: string }
   | { type: 'error'; message: string }
 
@@ -58,6 +63,9 @@ export type FoliateReaderHandle = {
   removeHighlight: (id: string) => void
   /** Clear the current text selection (e.g. after the user dismisses the toolbar). */
   clearSelection: () => void
+  /** Write a string to the system clipboard via the WebView (iOS WKWebView's
+   *  navigator.clipboard). Avoids a native dep for the rare copy-text path. */
+  copyText: (text: string) => void
 }
 
 type Props = {
@@ -152,6 +160,9 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
       },
       clearSelection: () => {
         inject(webViewRef, `window.__foliate?.clearSelection();true;`)
+      },
+      copyText: (text) => {
+        inject(webViewRef, `window.__foliate?.copyText(${JSON.stringify(text)});true;`)
       },
     }),
     [],
@@ -383,7 +394,16 @@ function buildHostHtml({
             rect.style.cursor = 'pointer';
             rect.addEventListener('click', (ev) => {
               ev.preventDefault(); ev.stopPropagation();
-              post({ type: 'highlightTap', id: id, chapterIndex: this.index });
+              // The SVG rect lives in the host (WebView) document, not the
+              // iframe — its bounding rect is already viewport-local, so no
+              // frame offset to add.
+              const tapped = ev.currentTarget.getBoundingClientRect();
+              post({
+                type: 'highlightTap',
+                id: id,
+                chapterIndex: this.index,
+                rect: { x: tapped.left, y: tapped.top, width: tapped.width, height: tapped.height },
+              });
             });
             this.element.appendChild(rect);
           }
@@ -633,6 +653,26 @@ function buildHostHtml({
               break;
             }
           }
+        },
+        copyText: (text) => {
+          // iOS WKWebView (and modern Android WebView) ship navigator.clipboard.
+          // Fall back to a textarea + execCommand on the off-chance it's missing.
+          try {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+              navigator.clipboard.writeText(text);
+              return;
+            }
+          } catch (_) {}
+          const ta = document.createElement('textarea');
+          ta.value = text;
+          ta.style.position = 'fixed';
+          ta.style.left = '-9999px';
+          document.body.appendChild(ta);
+          ta.select();
+          try { document.execCommand('copy'); } catch (err) {
+            post({ type: 'error', message: 'copyText: ' + String(err && err.message ? err.message : err) });
+          }
+          document.body.removeChild(ta);
         },
         clearSelection: () => {
           try {

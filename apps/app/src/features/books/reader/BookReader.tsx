@@ -37,7 +37,14 @@ import {
   type FoliateReaderHandle,
 } from './foliate/FoliateReader'
 import { paintColorFor } from './highlightColors'
-import { addHighlight as addHighlightToStore, type Highlight, listHighlights } from './highlights'
+import {
+  addHighlight as addHighlightToStore,
+  type Highlight,
+  type HighlightColor,
+  listHighlights,
+  removeHighlight as removeHighlightFromStore,
+  updateHighlight as updateHighlightInStore,
+} from './highlights'
 import { ReaderBookmarksSheet } from './ReaderBookmarksSheet'
 import { ReaderMenuSheet } from './ReaderMenuSheet'
 import { ReaderOverlay } from './ReaderOverlay'
@@ -285,6 +292,10 @@ export function BookReader({ bookId, chapter }: Props) {
 
   const [highlights, setHighlights] = useState<Highlight[]>(() => listHighlights(bookId))
   const [foliateReady, setFoliateReady] = useState(false)
+  // Anchored toolbar state. `editingHighlightId` is undefined for a fresh
+  // selection (the user just dragged text) and set when the user tapped an
+  // existing highlight rectangle — the toolbar shows the trash action in that
+  // mode.
   const [selection, setSelection] = useState<
     | {
         chapterIndex: number
@@ -294,6 +305,18 @@ export function BookReader({ bookId, chapter }: Props) {
       }
     | undefined
   >(undefined)
+  const [editingHighlightId, setEditingHighlightId] = useState<string | undefined>(undefined)
+  // Stable mirrors read inside the message handler so we don't rebuild it on
+  // every highlights / editing change (which would re-pass `onMessage` as a
+  // prop and ripple through FoliateReader).
+  const highlightsRef = useRef<Highlight[]>(highlights)
+  const editingHighlightIdRef = useRef<string | undefined>(undefined)
+  useEffect(() => {
+    highlightsRef.current = highlights
+  }, [highlights])
+  useEffect(() => {
+    editingHighlightIdRef.current = editingHighlightId
+  }, [editingHighlightId])
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
   // Per-mount set of chapters we've already marked completed — prevents the
@@ -367,6 +390,13 @@ export function BookReader({ bookId, chapter }: Props) {
       switch (msg.type) {
         case 'centerTap':
           void lightTap()
+          // If the selection toolbar is up, dismiss it instead of toggling
+          // chrome — matches the Apple Books / iOS Quick Look pattern.
+          if (editingHighlightIdRef.current) {
+            setEditingHighlightId(undefined)
+            setSelection(undefined)
+            return
+          }
           setChromeShown((s) => !s)
           return
         case 'relocate': {
@@ -413,13 +443,25 @@ export function BookReader({ bookId, chapter }: Props) {
             anchor: msg.anchor,
             rect: msg.rect,
           })
+          setEditingHighlightId(undefined)
           return
         case 'selectionCleared':
-          setSelection(undefined)
+          // Only clear when not in edit mode — tapping inside the WebView while
+          // the edit toolbar is up shouldn't dismiss without a fresh selection.
+          setSelection((s) => (editingHighlightIdRef.current ? s : undefined))
           return
-        case 'highlightTap':
-          // Phase 2 hooks the edit toolbar here.
+        case 'highlightTap': {
+          const hl = highlightsRef.current.find((h) => h.cursorId === msg.id)
+          if (!hl) return
+          setSelection({
+            chapterIndex: msg.chapterIndex,
+            text: hl.text,
+            anchor: hl.anchor,
+            rect: msg.rect,
+          })
+          setEditingHighlightId(msg.id)
           return
+        }
         case 'ready':
           setFoliateReady(true)
           return
@@ -506,25 +548,64 @@ export function BookReader({ bookId, chapter }: Props) {
     [bookId],
   )
 
-  const handleAddHighlightYellow = useCallback(async () => {
-    if (!selection || !currentChapterId) return
-    const saved = await addHighlightToStore(bookId, {
-      chapterId: currentChapterId,
-      anchor: selection.anchor,
-      text: selection.text,
-      color: 'yellow',
-    })
-    setHighlights(listHighlights(bookId))
-    foliateRef.current?.addHighlight({
-      id: saved.cursorId,
-      chapterIndex: selection.chapterIndex,
-      anchor: saved.anchor,
-      color: paintColorFor(saved.color, config.isDark),
-    })
+  const handlePickColor = useCallback(
+    async (color: HighlightColor) => {
+      if (!selection || !currentChapterId) return
+      void lightTap()
+      if (editingHighlightId) {
+        // Recolor an existing highlight in place.
+        await updateHighlightInStore(editingHighlightId, { color })
+        // Re-paint by removing the old rects + adding fresh with the new color.
+        foliateRef.current?.removeHighlight(editingHighlightId)
+        foliateRef.current?.addHighlight({
+          id: editingHighlightId,
+          chapterIndex: selection.chapterIndex,
+          anchor: selection.anchor,
+          color: paintColorFor(color, config.isDark),
+        })
+        setHighlights(listHighlights(bookId))
+        setSelection(undefined)
+        setEditingHighlightId(undefined)
+        return
+      }
+      const saved = await addHighlightToStore(bookId, {
+        chapterId: currentChapterId,
+        anchor: selection.anchor,
+        text: selection.text,
+        color,
+      })
+      setHighlights(listHighlights(bookId))
+      foliateRef.current?.addHighlight({
+        id: saved.cursorId,
+        chapterIndex: selection.chapterIndex,
+        anchor: saved.anchor,
+        color: paintColorFor(saved.color, config.isDark),
+      })
+      foliateRef.current?.clearSelection()
+      setSelection(undefined)
+      void successBuzz()
+    },
+    [bookId, currentChapterId, selection, config.isDark, editingHighlightId],
+  )
+
+  const handleCopySelection = useCallback(() => {
+    if (!selection) return
+    void lightTap()
+    foliateRef.current?.copyText(selection.text)
     foliateRef.current?.clearSelection()
     setSelection(undefined)
-    void successBuzz()
-  }, [bookId, currentChapterId, selection, config.isDark])
+    setEditingHighlightId(undefined)
+  }, [selection])
+
+  const handleRemoveHighlight = useCallback(async () => {
+    if (!editingHighlightId) return
+    void lightTap()
+    foliateRef.current?.removeHighlight(editingHighlightId)
+    await removeHighlightFromStore(editingHighlightId)
+    setHighlights(listHighlights(bookId))
+    setSelection(undefined)
+    setEditingHighlightId(undefined)
+  }, [bookId, editingHighlightId])
 
   if (!bookEntry) {
     return (
@@ -670,8 +751,11 @@ export function BookReader({ bookId, chapter }: Props) {
 
       <ReaderSelectionToolbar
         rect={selection?.rect}
+        mode={editingHighlightId ? 'edit' : 'create'}
         isDark={config.isDark}
-        onHighlightYellow={handleAddHighlightYellow}
+        onPickColor={handlePickColor}
+        onCopy={handleCopySelection}
+        onRemove={handleRemoveHighlight}
       />
 
       <ChapterCompleteToast
