@@ -10,6 +10,9 @@ export type FoliateConfig = {
   textAlign: 'justify' | 'left'
   background: string
   color: string
+  /** BCP-47 language tag for the chapter content (e.g. `en-US`, `pt-BR`, `la`).
+   *  Drives WebKit's `hyphens: auto` dictionary selection. */
+  lang: string
 }
 
 export type FoliateMessage =
@@ -157,7 +160,19 @@ function buildHostHtml({
 
       const buildStyle = (c) => \`
         html, body { margin: 0; padding: 0; height: 100%; background: \${c.background}; color: \${c.color}; }
-        body { font-family: \${c.fontFamily}, Georgia, 'Times New Roman', serif; font-size: \${c.fontSizePx}px; line-height: \${c.lineHeightPx}px; text-align: \${c.textAlign}; }
+        body {
+          font-family: \${c.fontFamily}, Georgia, 'Times New Roman', serif;
+          font-size: \${c.fontSizePx}px;
+          line-height: \${c.lineHeightPx}px;
+          text-align: \${c.textAlign};
+          /* Hyphenation: WebKit picks the dictionary from the html @lang.
+             Critical for justified text — avoids ugly inter-word gaps. */
+          -webkit-hyphens: auto;
+          hyphens: auto;
+          -webkit-hyphenate-limit-before: 3;
+          -webkit-hyphenate-limit-after: 3;
+          overflow-wrap: break-word;
+        }
         a { color: inherit; }
         p { margin: 0 0 .85em; }
         p + p { text-indent: 1.2em; }
@@ -199,7 +214,7 @@ function buildHostHtml({
       // foliate's iframe.src = blob:URL. Wrap each chapter HTML in a minimal
       // document so the paginator can read computed background / direction.
       const blobUrl = (body) => URL.createObjectURL(new Blob([
-        '<!doctype html><html><head><meta charset="utf-8">',
+        '<!doctype html><html lang="', cfg.lang || 'en', '"><head><meta charset="utf-8">',
         '<style>', buildStyle(cfg), '</style></head><body>', body, '</body></html>'
       ], { type: 'text/html' }));
 

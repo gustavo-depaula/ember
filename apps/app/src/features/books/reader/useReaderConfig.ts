@@ -20,6 +20,9 @@ export type ReaderConfig = {
   background: string
   color: string
   isDark: boolean
+  /** BCP-47 tag for the book content (e.g. `en-US`, `pt-BR`). The chrome
+   *  layer overrides this per book; default tracks the user's UI language. */
+  lang: string
 }
 
 export function useReaderConfig(): ReaderConfig {
@@ -45,6 +48,7 @@ export function useReaderConfig(): ReaderConfig {
       background: themeColors[isDark ? 'dark' : 'light'].background,
       color: themeColors[isDark ? 'dark' : 'light'].color,
       isDark,
+      lang: 'en',
     }
   }, [themePreference, systemScheme, fontFamilyId, fontSizeStep, lineHeightStep, textAlign, margin])
 }

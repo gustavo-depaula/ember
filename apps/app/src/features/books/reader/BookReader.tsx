@@ -150,12 +150,15 @@ export function BookReader({ bookId, chapter }: Props) {
   // Floor foliate's margin at the safe-area insets so text never bleeds into
   // the notch or home indicator. The +56 at the bottom also clears the
   // page-indicator text (~36px tall + 12px inset margin + 8px buffer).
+  // Override `lang` to the resolved content language so WebKit picks the
+  // right hyphenation dictionary.
   const config = useMemo(
     () => ({
       ...rawConfig,
       marginPx: Math.max(rawConfig.marginPx, insets.top + 16, insets.bottom + 56),
+      lang,
     }),
-    [rawConfig, insets.top, insets.bottom],
+    [rawConfig, insets.top, insets.bottom, lang],
   )
 
   const { startIndex, startFraction } = useMemo(() => {

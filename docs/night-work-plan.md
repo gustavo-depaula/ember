@@ -144,3 +144,12 @@ Designing this right needs device testing iterations to find which path actually
 Bumped foliate's `max-column-count` from 1 to 2 in the bootstrap. Foliate already has the layout logic — divisor = `min(maxColumnCount, ceil(size / maxInlineSize))` so iPad landscape with ~1366pt width and `--_max-inline-size: 720px` lands on 2 columns. Foliate's `@container (orientation: portrait)` query keeps phones and portrait iPads at 1 column, so this is a pure landscape-tablet win.
 
 One-line change in `apps/app/src/features/books/reader/foliate/FoliateReader.tsx`.
+
+### Feature 11: Hyphenation ✅
+
+CSS-only via `-webkit-hyphens: auto` + the iframe document's `lang` attribute (so WebKit picks the right dictionary). Justified text especially benefits — no more giant inter-word gaps when a long word doesn't fit.
+
+- `FoliateConfig` gets a new `lang` field (BCP-47 tag).
+- `useReaderConfig` defaults to `'en'`; `BookReader` overrides with the resolved book content language (`en-US` / `pt-BR` / `la`).
+- Bootstrap injects `<html lang="…">` per chapter iframe + adds `hyphens: auto` / `overflow-wrap: break-word` / hyphenation limits.
+- Caveat: WebKit ships hyphenation dictionaries for many Latin-alphabet languages; `la` (Latin) is unlikely supported and will fall through gracefully. Phase 2: ship Hyphenopoly as an alternative for unsupported languages.
