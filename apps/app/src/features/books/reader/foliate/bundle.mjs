@@ -30,6 +30,13 @@ const src = raw
     'if (this.scrolled || state.pinched) return',
     "if (this.scrolled || state.pinched) return; const __sel = e.target && e.target.ownerDocument && e.target.ownerDocument.getSelection && e.target.ownerDocument.getSelection(); if (__sel && __sel.type === 'Range' && !__sel.isCollapsed) return",
   )
+  // Snappier page-turn animation — foliate ships 300ms; Apple Books and the
+  // iOS short-transition standard feel closer to 200ms. Anchor on the unique
+  // 3-arg slot of the `animate(...)` call inside the page-scroll path.
+  .replace(
+    'element[scrollProp], offset, 300, easeOutQuad',
+    'element[scrollProp], offset, 200, easeOutQuad',
+  )
 
 const out = `// biome-ignore-all lint/suspicious/noTemplateCurlyInString: vendored foliate-js — \${…} sequences run inside the WebView, not in this TS module.
 // biome-ignore-all format: single-line embedded blob; reformatting would split it across thousands of lines.
