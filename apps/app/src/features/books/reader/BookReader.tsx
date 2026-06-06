@@ -8,6 +8,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, View, YStack } from 'tamagui'
 
 import { ReaderErrorState } from '@/components/ReaderErrorState'
+import { type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
 import { getBookEntry } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -19,6 +20,11 @@ import {
   type LoadProgress,
   loadBookContent,
 } from './bookContent'
+import {
+  clearBookPaletteOverride,
+  getBookPaletteOverride,
+  setBookPaletteOverride,
+} from './bookPaletteOverride'
 import { listCompletedChapters, markChapterCompleted } from './chapterCompletions'
 import { buildChapterTimings, persistChapterTimings } from './chapterTimings'
 import { FootnoteSheet } from './FootnoteSheet'
@@ -156,17 +162,32 @@ export function BookReader({ bookId, chapter }: Props) {
   const rawConfig = useReaderConfig()
   const cursor = useReaderCursor(bookId)
 
+  // Per-book palette override. Tracked as state so toggling from the settings
+  // sheet re-renders without unmounting; null = no override (use global).
+  const [paletteOverride, setPaletteOverride] = useState<ReaderPaletteId | undefined>(() =>
+    bookId ? getBookPaletteOverride(bookId) : undefined,
+  )
+
   // Floor foliate's margin at the safe-area insets so text never bleeds into
   // the notch or home indicator. +56 bottom also clears the page-indicator
   // text. Override `lang` so WebKit picks the right hyphenation dictionary.
-  const config = useMemo(
-    () => ({
+  // Apply the per-book palette override AFTER the global palette so the
+  // chosen colors win.
+  const config = useMemo(() => {
+    const base = {
       ...rawConfig,
       marginPx: Math.max(rawConfig.marginPx, insets.top + 16, insets.bottom + 56),
       lang,
-    }),
-    [rawConfig, insets.top, insets.bottom, lang],
-  )
+    }
+    if (!paletteOverride) return base
+    const palette = resolvePalette(paletteOverride, rawConfig.isDark)
+    return {
+      ...base,
+      background: palette.background,
+      color: palette.color,
+      isDark: palette.isDark,
+    }
+  }, [rawConfig, insets.top, insets.bottom, lang, paletteOverride])
 
   const { startIndex, startFraction } = useMemo(() => {
     if (leaves.length === 0) return { startIndex: 0, startFraction: 0 }
@@ -431,6 +452,12 @@ export function BookReader({ bookId, chapter }: Props) {
       <ReaderSettingsSheet
         open={sheet === 'settings'}
         onClose={() => setSheet(null)}
+        bookOverride={paletteOverride}
+        onSetBookOverride={(id) => {
+          setPaletteOverride(id)
+          if (id) void setBookPaletteOverride(bookId, id)
+          else void clearBookPaletteOverride(bookId)
+        }}
         stats={{
           minutesRead:
             totalMsRef.current > 60_000 ? Math.round(totalMsRef.current / 60_000) : undefined,

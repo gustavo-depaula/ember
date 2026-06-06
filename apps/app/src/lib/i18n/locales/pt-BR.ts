@@ -912,6 +912,8 @@ export default {
     statReadTime: 'Total lido',
     statChapters: 'Capítulos',
     paletteLabel: 'Paleta de leitura',
+    paletteResetToGlobal: 'Voltar à paleta global',
+    paletteSavePerBook: 'Usar esta paleta só para este livro',
     palette: {
       auto: 'Auto',
       light: 'Claro',

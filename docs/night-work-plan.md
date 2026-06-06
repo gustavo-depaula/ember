@@ -325,3 +325,12 @@ The settings sheet now opens with a 3-stat row at the top: streak (when ≥2 day
 - BookReader passes a `stats: {minutesRead, streakDays, completedChapters, totalChapters}` prop, derived from `totalMsRef.current`, `getReadingStreak(bookId)`, and the `completed` Set.
 - `formatMinutes` co-located (same helper as frontispiece — small enough to duplicate; would extract if a third caller appears).
 - i18n: `books.statStreak`, `books.statReadTime`, `books.statChapters`.
+
+### Feature 27 (P2.16): Per-book palette override ✅
+
+Each book can now have its own preferred palette that overrides the global one. Useful when sepia feels right for Aquinas but you want midnight for that Augustine essay you read at night.
+
+- New cursor factory `bookPaletteCursorId(bookId)` + `bookPaletteOverride.ts` helpers (`getBookPaletteOverride`, `setBookPaletteOverride`, `clearBookPaletteOverride`).
+- BookReader: tracks override in state, merges over `useReaderConfig()` via `resolvePalette()` for the per-book bg/color/isDark.
+- ReaderSettingsSheet: the palette picker drives whichever store is "active" (per-book if override exists, global otherwise). A small `$accent` text button below toggles between "Save this palette for this book only" and "Reset to global palette".
+- i18n: `books.paletteResetToGlobal`, `books.paletteSavePerBook`.

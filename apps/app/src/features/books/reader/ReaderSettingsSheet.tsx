@@ -1,7 +1,7 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
 import { Check } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { useWindowDimensions } from 'react-native'
+import { Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -29,10 +29,16 @@ export function ReaderSettingsSheet({
   open,
   onClose,
   stats,
+  bookOverride,
+  onSetBookOverride,
 }: {
   open: boolean
   onClose: () => void
   stats?: Stats
+  /** Currently-active per-book palette override (undefined = using global). */
+  bookOverride?: ReaderPaletteId
+  /** Pass an id to set the override; pass undefined to clear it. */
+  onSetBookOverride?: (id: ReaderPaletteId | undefined) => void
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
@@ -64,7 +70,30 @@ export function ReaderSettingsSheet({
           <YStack gap="$lg">
             {stats ? <StatsRow stats={stats} /> : null}
 
-            <PalettePicker value={readerPalette} onChange={setReaderPalette} />
+            <PalettePicker
+              value={bookOverride ?? readerPalette}
+              onChange={(id) => {
+                if (bookOverride !== undefined) onSetBookOverride?.(id)
+                else setReaderPalette(id)
+              }}
+            />
+
+            {onSetBookOverride ? (
+              <Pressable
+                onPress={() =>
+                  onSetBookOverride(bookOverride !== undefined ? undefined : readerPalette)
+                }
+                accessibilityRole="button"
+              >
+                <Text fontFamily="$body" fontSize="$1" color="$accent" textAlign="center">
+                  {bookOverride !== undefined
+                    ? t('books.paletteResetToGlobal', { defaultValue: 'Reset to global palette' })
+                    : t('books.paletteSavePerBook', {
+                        defaultValue: 'Save this palette for this book only',
+                      })}
+                </Text>
+              </Pressable>
+            ) : null}
 
             <ThemePicker
               value={themePreference}

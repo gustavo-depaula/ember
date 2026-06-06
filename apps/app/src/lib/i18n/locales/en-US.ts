@@ -904,6 +904,8 @@ export default {
     statReadTime: 'Total read',
     statChapters: 'Chapters',
     paletteLabel: 'Reader palette',
+    paletteResetToGlobal: 'Reset to global palette',
+    paletteSavePerBook: 'Save this palette for this book only',
     palette: {
       auto: 'Auto',
       light: 'Light',

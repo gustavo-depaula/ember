@@ -78,6 +78,10 @@ export function readingStreakCursorId(bookId: string): string {
   return `book/${bookId}/streak`
 }
 
+export function bookPaletteCursorId(bookId: string): string {
+  return `book/${bookId}/palette`
+}
+
 // --- Program cursors ---
 
 export type ProgramCursorPosition = {
