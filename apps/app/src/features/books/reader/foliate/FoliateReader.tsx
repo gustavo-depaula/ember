@@ -18,6 +18,7 @@ export type FoliateMessage =
   | { type: 'load'; index: number }
   | { type: 'centerTap' }
   | { type: 'footnoteTap'; html: string }
+  | { type: 'crossRefTap'; href: string }
   | { type: 'log'; message: string }
   | { type: 'error'; message: string }
 
@@ -263,8 +264,9 @@ function buildHostHtml({
           if (doc && !doc.__tapWired) {
             doc.__tapWired = true;
             doc.addEventListener('click', (ev) => {
-              // Anchor click — intra-chapter fragment links (footnotes,
-              // glossary refs) open in a popover so the reader stays put.
+              // Anchor click — fragment links (footnotes, glossary) open
+              // in a popover; cross-references to other chapters post the
+              // href up so the host can navigate + push a back-stack entry.
               const a = ev.target && ev.target.closest && ev.target.closest('a');
               if (a) {
                 const href = a.getAttribute('href') || '';
@@ -273,14 +275,20 @@ function buildHostHtml({
                   if (target) {
                     ev.preventDefault();
                     ev.stopImmediatePropagation();
-                    // marked-footnote inserts a back-arrow link inside each
-                    // footnote — strip it from the popover content.
                     const html = target.innerHTML
                       .replace(/<a[^>]*class="footnote-backref"[^>]*>[\\s\\S]*?<\\/a>/g, '')
                       .trim();
                     post({ type: 'footnoteTap', html: html });
                   }
+                  return;
                 }
+                // External http(s) links — let the system handle (or block).
+                if (/^[a-z]+:\\/\\//.test(href)) return;
+                // Anything else: assume it points at another chapter in this
+                // book. Host resolves to a leaf id and navigates.
+                ev.preventDefault();
+                ev.stopImmediatePropagation();
+                post({ type: 'crossRefTap', href: href });
                 return;
               }
               // Page-region tap: left 30% = prev, right 30% = next, middle =

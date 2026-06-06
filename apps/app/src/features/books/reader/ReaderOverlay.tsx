@@ -1,4 +1,4 @@
-import { MoreHorizontal, X } from 'lucide-react-native'
+import { ArrowLeft, MoreHorizontal, X } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet, View } from 'react-native'
 import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
@@ -18,10 +18,13 @@ type Props = {
   chapters: number
   pagesLeft: number
   chromeShown: boolean
+  /** Show a back-arrow pill at top-left when the reader followed a cross-ref. */
+  canGoBack: boolean
   isDark: boolean
   color: string
   onClose: () => void
   onMenu: () => void
+  onBack: () => void
 }
 
 export function ReaderOverlay({
@@ -30,10 +33,12 @@ export function ReaderOverlay({
   chapters,
   pagesLeft,
   chromeShown,
+  canGoBack,
   isDark,
   color,
   onClose,
   onMenu,
+  onBack,
 }: Props) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
@@ -49,6 +54,30 @@ export function ReaderOverlay({
         { paddingTop: insets.top + 8, paddingBottom: insets.bottom + 12 },
       ]}
     >
+      {canGoBack ? (
+        <View
+          pointerEvents="box-none"
+          style={[styles.backWrap, { paddingLeft: SIDE_PADDING, top: insets.top + 8 }]}
+        >
+          <Pressable
+            onPress={onBack}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={t('books.backToPrevious', {
+              defaultValue: 'Back to previous location',
+            })}
+          >
+            <GlassSurface
+              isDark={isDark}
+              tintColor={tintColor}
+              style={[styles.actionPill, { width: ACTION_SIZE, height: ACTION_SIZE }]}
+            >
+              <ArrowLeft size={22} color={color} />
+            </GlassSurface>
+          </Pressable>
+        </View>
+      ) : null}
+
       {chromeShown ? (
         <ChromeRow key="top-close" align="right">
           <Pressable
@@ -162,6 +191,7 @@ const styles = StyleSheet.create({
   center: { alignItems: 'center', justifyContent: 'center' },
   right: { alignItems: 'flex-end', justifyContent: 'center' },
   text: { textAlign: 'center', letterSpacing: 0.3 },
+  backWrap: { position: 'absolute', left: 0 },
   actionPill: {
     borderRadius: 9999,
     alignItems: 'center',

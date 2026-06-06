@@ -881,6 +881,7 @@ export default {
     pagesLeftInChapter_one: '1 page left in chapter',
     pagesLeftInChapter_other: '{{count}} pages left in chapter',
     footnote: 'Footnote',
+    backToPrevious: 'Back to previous location',
     opening: 'Opening…',
     loadingManifest: 'Loading book…',
     loadingChapters: 'Loading chapters ({{done}} of {{total}})',

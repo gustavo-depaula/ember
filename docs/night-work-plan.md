@@ -89,3 +89,12 @@ Anchor clicks (`<a href="#footnote-N">`) inside the iframe no longer try to scro
 Plain-text stripping handles `<br>`, paragraph breaks (`</p><p>` → `\n\n`), and common HTML entities. Multi-paragraph footnotes preserve their paragraph breaks. Rich inline formatting (italic, citations) is flattened to plain text.
 
 New file: `apps/app/src/features/books/reader/FootnoteSheet.tsx`. New i18n keys: `books.footnote`.
+
+### Feature 5: Internal-link back-stack ✅
+
+Cross-references between chapters (`<a href="ST.Iaq2a3">` in Aquinas, etc.) now navigate via `foliate.goTo` and push the prior location onto a back-stack. A glass back-arrow pill appears at top-left whenever the stack is non-empty; tapping it pops the stack and restores the prior `{index, fraction}`.
+
+- Bootstrap: anchor click handler now branches: fragment → footnote popover; `http(s)://` → no-op (system handles); else → `{type: 'crossRefTap', href}`.
+- BookReader resolves the href to a leaf id by trying exact, stripped-extension, basename, and basename-stripped variants. Logs a warning when no match (so we know what hrefs our content actually emits and can tune the resolver later).
+- `lastPosRef` (mutable ref) tracks the live `{index, fraction}` so the back-stack snapshot doesn't need to re-render the component on every relocate.
+- New i18n key: `books.backToPrevious`.

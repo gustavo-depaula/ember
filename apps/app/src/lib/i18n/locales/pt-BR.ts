@@ -889,6 +889,7 @@ export default {
     pagesLeftInChapter_one: '1 p\u00e1gina restante no cap\u00edtulo',
     pagesLeftInChapter_other: '{{count}} p\u00e1ginas restantes no cap\u00edtulo',
     footnote: 'Nota de rodap\u00e9',
+    backToPrevious: 'Voltar \u00e0 posi\u00e7\u00e3o anterior',
     opening: 'Abrindo\u2026',
     loadingManifest: 'Carregando livro\u2026',
     loadingChapters: 'Carregando cap\u00edtulos ({{done}} de {{total}})',

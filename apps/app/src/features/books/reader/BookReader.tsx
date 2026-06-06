@@ -202,8 +202,12 @@ export function BookReader({ bookId, chapter }: Props) {
   const [tocOpen, setTocOpen] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
+  const [navStack, setNavStack] = useState<Array<{ index: number; fraction: number }>>([])
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
+  // Live position for back-stack snapshots. Held in a ref so the cross-ref
+  // handler doesn't churn on every relocate event.
+  const lastPosRef = useRef({ index: 0, fraction: 0 })
 
   const onMessage = useCallback(
     (msg: FoliateMessage) => {
@@ -214,15 +218,44 @@ export function BookReader({ bookId, chapter }: Props) {
       if (msg.type === 'relocate') {
         setChapterIndex(msg.index)
         setPagesLeft(Math.max(0, msg.pages - msg.page))
+        lastPosRef.current = { index: msg.index, fraction: msg.fraction }
         const chapterId = leaves[msg.index]?.id
         if (chapterId) cursor.save({ chapterId, fraction: msg.fraction })
       }
       if (msg.type === 'footnoteTap') {
         setFootnoteHtml(msg.html)
       }
+      if (msg.type === 'crossRefTap') {
+        // Match href to a leaf id. Accept exact, suffix, or stripped-extension
+        // matches so the same handler works whether authors write
+        // "summa-st-1-q1-a1" or "ST.Iaq1a1.html" or "../ST.Iaq1a1".
+        const href = msg.href
+        const candidates = [
+          href,
+          href.replace(/\.x?html?$/, ''),
+          href.replace(/^.*\//, ''),
+          href.replace(/^.*\//, '').replace(/\.x?html?$/, ''),
+        ]
+        const idx = leaves.findIndex((l) => candidates.includes(l.id))
+        if (idx < 0) {
+          console.warn(`[BookReader] cross-ref href did not match any leaf: ${href}`)
+          return
+        }
+        setNavStack((s) => [...s, { ...lastPosRef.current }])
+        foliateRef.current?.goTo(idx, 0)
+      }
     },
     [leaves, cursor.save],
   )
+
+  const handleBackNav = useCallback(() => {
+    setNavStack((s) => {
+      const prev = s[s.length - 1]
+      if (!prev) return s
+      foliateRef.current?.goTo(prev.index, prev.fraction)
+      return s.slice(0, -1)
+    })
+  }, [])
 
   const handleSelectChapter = useCallback(
     (id: string) => {
@@ -283,10 +316,12 @@ export function BookReader({ bookId, chapter }: Props) {
         chapters={leaves.length}
         pagesLeft={pagesLeft}
         chromeShown={chromeShown}
+        canGoBack={navStack.length > 0}
         isDark={config.isDark}
         color={config.color}
         onClose={() => router.back()}
         onMenu={() => setMenuOpen(true)}
+        onBack={handleBackNav}
       />
 
       <ReaderMenuSheet
