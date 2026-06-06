@@ -903,6 +903,11 @@ export default {
     noBookmarks: 'Nenhum marcador ainda. Toque no bot\u00e3o acima para marcar esta p\u00e1gina.',
     expandAll: 'Expandir tudo',
     collapseAll: 'Recolher tudo',
+    hintPrev: 'Página anterior',
+    hintMenu: 'Mostrar menu',
+    hintNext: 'Próxima página',
+    tapToDismiss: 'Toque em qualquer lugar para fechar',
+    dismissHint: 'Fechar dica',
     paletteLabel: 'Paleta de leitura',
     palette: {
       auto: 'Auto',

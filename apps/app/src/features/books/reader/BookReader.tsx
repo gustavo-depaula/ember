@@ -32,6 +32,7 @@ import { ReaderMenuSheet } from './ReaderMenuSheet'
 import { ReaderOverlay } from './ReaderOverlay'
 import { ReaderSearchSheet } from './ReaderSearchSheet'
 import { ReaderSettingsSheet } from './ReaderSettingsSheet'
+import { ReaderTapHint } from './ReaderTapHint'
 import { ReaderTocSheet } from './ReaderTocSheet'
 import { appendTurn, estimateMinutesPerPage, type PageTurn } from './readingPace'
 import { touchReadingStreak } from './readingStreak'
@@ -130,6 +131,9 @@ export function BookReader({ bookId, chapter }: Props) {
   const router = useRouter()
   const insets = useSafeAreaInsets()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const hintSeen = usePreferencesStore((s) => s.bookReaderHintSeen)
+  const setHintSeen = usePreferencesStore((s) => s.setBookReaderHintSeen)
+  const [showHint, setShowHint] = useState(!hintSeen)
 
   const bookEntry = useMemo(() => getBookEntry(bookId), [bookId])
 
@@ -447,6 +451,17 @@ export function BookReader({ bookId, chapter }: Props) {
       />
 
       <FootnoteSheet content={footnoteHtml} onClose={() => setFootnoteHtml(undefined)} />
+
+      {showHint ? (
+        <ReaderTapHint
+          color={config.color}
+          background={config.background}
+          onDismiss={() => {
+            setShowHint(false)
+            setHintSeen(true)
+          }}
+        />
+      ) : null}
     </View>
   )
 }

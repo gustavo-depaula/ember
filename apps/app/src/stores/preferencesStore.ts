@@ -49,6 +49,9 @@ type PreferencesState = {
   theme: ThemePreference
   readerPalette: ReaderPaletteId
 
+  // Reader UX
+  bookReaderHintSeen: boolean
+
   // Reading config
   fontFamily: ReadingFontId
   fontSizeStep: number
@@ -76,6 +79,7 @@ type PreferencesState = {
   // Theme setter
   setTheme: (theme: ThemePreference) => void
   setReaderPalette: (palette: ReaderPaletteId) => void
+  setBookReaderHintSeen: (seen: boolean) => void
 
   // Reading config setters
   setFontFamily: (id: ReadingFontId) => void
@@ -101,6 +105,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     displayMode: 'side-by-side',
     theme: 'system',
     readerPalette: 'auto',
+    bookReaderHintSeen: false,
     fontFamily: 'eb-garamond',
     fontSizeStep: 3,
     lineHeightStep: 5,
@@ -212,6 +217,13 @@ export const usePreferencesStore = create<PreferencesState>()(
       setPreference('reader-palette', palette)
     },
 
+    setBookReaderHintSeen: (seen) => {
+      set((state) => {
+        state.bookReaderHintSeen = seen
+      })
+      setPreference('book-reader-hint-seen', seen ? '1' : '0')
+    },
+
     setFontFamily: (id) => {
       set((state) => {
         state.fontFamily = id
@@ -294,6 +306,8 @@ export const usePreferencesStore = create<PreferencesState>()(
         if (readerPalette && READER_PALETTE_IDS.includes(readerPalette as ReaderPaletteId)) {
           state.readerPalette = readerPalette as ReaderPaletteId
         }
+
+        if (prefs['book-reader-hint-seen'] === '1') state.bookReaderHintSeen = true
 
         const fontFamily = prefs['reading-font-family']
         if (fontFamily && validFontIds.has(fontFamily as ReadingFontId)) {

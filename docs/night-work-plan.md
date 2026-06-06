@@ -253,3 +253,11 @@ BookReader touches a per-book streak cursor on mount (`book/{bookId}/streak` wit
 - New `readingStreak.ts`: `touchReadingStreak` / `getReadingStreak` (+ pure date helpers `todayISO`, `isYesterday`).
 - 5 vitest cases covering same-day / consecutive / gap reset / stale streak.
 - i18n: pluralized `book.streak_one|_other`.
+
+### Feature 24 (P2.13): First-time tap-zone hint overlay ✅
+
+The first time a user ever opens the reader (any book), a dashed-border 3-zone overlay fades in over the page: left = Previous, center = Show menu, right = Next, each with an icon and label. Tap anywhere to dismiss; auto-dismiss after 5s. The `bookReaderHintSeen` preference is set on dismiss; subsequent opens never show the overlay.
+
+- New preferences field `bookReaderHintSeen` + setter + hydrator in `preferencesStore.ts`.
+- New `ReaderTapHint.tsx` (~110 lines) with the overlay, FadeIn/Out animation, and a small `hexToRgba` helper for the translucent background.
+- i18n: `books.hintPrev`, `books.hintMenu`, `books.hintNext`, `books.tapToDismiss`, `books.dismissHint`.

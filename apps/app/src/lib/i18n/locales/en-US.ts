@@ -895,6 +895,11 @@ export default {
     noBookmarks: 'No bookmarks yet. Tap the button above to mark this page.',
     expandAll: 'Expand all',
     collapseAll: 'Collapse all',
+    hintPrev: 'Previous page',
+    hintMenu: 'Show menu',
+    hintNext: 'Next page',
+    tapToDismiss: 'Tap anywhere to dismiss',
+    dismissHint: 'Dismiss hint',
     paletteLabel: 'Reader palette',
     palette: {
       auto: 'Auto',
