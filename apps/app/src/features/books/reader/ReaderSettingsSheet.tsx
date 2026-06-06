@@ -6,8 +6,8 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ReadingConfig } from '@/components/ReadingConfigModal'
-import { type ReaderPaletteId, usePreferencesStore } from '@/stores/preferencesStore'
-import { READER_PALETTE_IDS, resolvePalette } from './useReaderConfig'
+import { READER_PALETTE_IDS, type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const sheetFraction = 0.9
 

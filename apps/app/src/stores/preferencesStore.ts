@@ -2,6 +2,7 @@ import type { ContentLanguage } from '@ember/content-engine'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
+import { READER_PALETTE_IDS, type ReaderPaletteId } from '@/config/readerPalettes'
 import { type ReadingFontId, readingFonts } from '@/config/readingFonts'
 import { getAllPreferences, removePreference, setPreference } from '@/db/repositories/preferences'
 import { defaultTranslationForLanguage } from '@/lib/bolls'
@@ -13,16 +14,6 @@ type ThemePreference = 'light' | 'dark' | 'system'
 type TextAlignment = 'justify' | 'left'
 type MarginPreset = 'narrow' | 'normal' | 'wide'
 type DisplayMode = 'side-by-side' | 'tap-to-switch'
-export type ReaderPaletteId = 'auto' | 'light' | 'sepia' | 'paper' | 'night' | 'midnight'
-
-const VALID_READER_PALETTES: ReaderPaletteId[] = [
-  'auto',
-  'light',
-  'sepia',
-  'paper',
-  'night',
-  'midnight',
-]
 
 const contentLanguages: ContentLanguage[] = ['en-US', 'pt-BR', 'la']
 
@@ -300,7 +291,7 @@ export const usePreferencesStore = create<PreferencesState>()(
         if (theme === 'light' || theme === 'dark' || theme === 'system') state.theme = theme
 
         const readerPalette = prefs['reader-palette']
-        if (readerPalette && VALID_READER_PALETTES.includes(readerPalette as ReaderPaletteId)) {
+        if (readerPalette && READER_PALETTE_IDS.includes(readerPalette as ReaderPaletteId)) {
           state.readerPalette = readerPalette as ReaderPaletteId
         }
 

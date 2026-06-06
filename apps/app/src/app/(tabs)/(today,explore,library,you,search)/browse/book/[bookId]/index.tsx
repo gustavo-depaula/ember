@@ -14,7 +14,7 @@ import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
-import { flattenTocLeaves } from '@/features/books/reader/bookContent'
+import { buildTitleLookup, flattenTocLeaves } from '@/features/books/reader/bookContent'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
 import { PrologueProse } from '@/features/collections'
@@ -61,6 +61,10 @@ export default function BookDetailScreen() {
   }, [book?.languages, entry?.langs, contentLanguage])
 
   const leaves = useMemo(() => (book?.toc ? flattenTocLeaves(book.toc) : []), [book?.toc])
+  const titleLookup = useMemo(
+    () => (book?.toc ? buildTitleLookup(book.toc, lang) : new Map<string, string>()),
+    [book?.toc, lang],
+  )
 
   if (!entry) {
     return (
@@ -137,11 +141,7 @@ export default function BookDetailScreen() {
               currentLeafIndex={currentLeafIndex}
               totalLeaves={leaves.length}
               updatedAt={position?.updatedAt}
-              label={
-                resumeChapterId && book?.toc
-                  ? findChapterTitle(book.toc, resumeChapterId, lang)
-                  : undefined
-              }
+              label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
             />
           )}
 
@@ -296,8 +296,8 @@ function BookProgressLine({
   fraction: number
   currentLeafIndex: number
   totalLeaves: number
-  updatedAt: number | undefined
-  label: string | undefined
+  updatedAt?: number
+  label?: string
 }) {
   const { t } = useTranslation()
   const percent = Math.max(1, Math.round(fraction * 100))
@@ -343,18 +343,4 @@ function BookProgressLine({
       ) : null}
     </YStack>
   )
-}
-
-function findChapterTitle(toc: TocNode[], chapterId: string, lang: string): string | undefined {
-  for (const node of toc) {
-    if (node.id === chapterId) {
-      const t = node.title as Record<string, string>
-      return t[lang] ?? Object.values(t)[0]
-    }
-    if (node.children) {
-      const found = findChapterTitle(node.children, chapterId, lang)
-      if (found) return found
-    }
-  }
-  return undefined
 }

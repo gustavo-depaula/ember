@@ -206,11 +206,7 @@ export function BookReader({ bookId, chapter }: Props) {
   const [sheet, setSheet] = useState<SheetKind>(null)
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
   const [navStack, setNavStack] = useState<Array<{ index: number; fraction: number }>>([])
-  // Refresh whenever a relocate triggers a completion write so the TOC sheet
-  // picks up new checkmarks the next time it opens.
-  const [completionRev, setCompletionRev] = useState(0)
-  // biome-ignore lint/correctness/useExhaustiveDependencies(completionRev): used as a manual invalidation key
-  const completed = useMemo(() => listCompletedChapters(bookId), [bookId, completionRev])
+  const [completed, setCompleted] = useState<Set<string>>(() => listCompletedChapters(bookId))
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
   // Per-mount set of chapters we've already marked completed — prevents the
@@ -239,7 +235,7 @@ export function BookReader({ bookId, chapter }: Props) {
             if (msg.fraction >= 0.95 && !justMarkedRef.current.has(chapterId)) {
               justMarkedRef.current.add(chapterId)
               void markChapterCompleted(bookId, chapterId).then(() =>
-                setCompletionRev((r) => r + 1),
+                setCompleted((s) => (s.has(chapterId) ? s : new Set(s).add(chapterId))),
               )
             }
           }
