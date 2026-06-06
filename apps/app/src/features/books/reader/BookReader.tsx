@@ -10,7 +10,7 @@ import { Text, View, YStack } from 'tamagui'
 import { ReaderErrorState } from '@/components/ReaderErrorState'
 import { type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
 import { getBookEntry } from '@/content/resolver'
-import { lightTap, successBuzz } from '@/lib/haptics'
+import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -262,6 +262,10 @@ export function BookReader({ bookId, chapter }: Props) {
   const justMarkedRef = useRef<Set<string>>(new Set())
   const turnsRef = useRef<PageTurn[]>([])
   const [minutesPerPage, setMinutesPerPage] = useState<number | undefined>(undefined)
+  // Tracks the last relocate's index+page so we can fire a page-turn haptic
+  // only on actual page changes. `at` rate-limits to 250ms so scrubbing
+  // doesn't machine-gun the Taptic engine.
+  const lastTurnRef = useRef<{ index: number; page: number; at: number } | null>(null)
 
   // Touch the per-book streak once per mount — same-day touches are no-ops
   // inside touchReadingStreak so re-mounting today doesn't double-count.
@@ -305,7 +309,15 @@ export function BookReader({ bookId, chapter }: Props) {
           setChapterIndex(msg.index)
           setFraction(msg.fraction)
           setPagesLeft(Math.max(0, msg.pages - msg.page))
-          turnsRef.current = appendTurn(turnsRef.current, Date.now())
+          // Page-turn haptic. Skip the first relocate (initial load) and any
+          // relocate that fires within 250ms of the previous one (scrubbing).
+          const now = Date.now()
+          const prev = lastTurnRef.current
+          if (prev && (prev.index !== msg.index || prev.page !== msg.page) && now - prev.at > 250) {
+            void selectionTick()
+          }
+          lastTurnRef.current = { index: msg.index, page: msg.page, at: now }
+          turnsRef.current = appendTurn(turnsRef.current, now)
           const mpp = estimateMinutesPerPage(turnsRef.current)
           if (mpp !== undefined) setMinutesPerPage(mpp)
           const chapterId = leaves[msg.index]?.id
