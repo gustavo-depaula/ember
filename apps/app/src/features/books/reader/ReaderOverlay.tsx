@@ -186,23 +186,7 @@ export function ReaderOverlay({
               })}
             </Text>
             {pagesLeft > 0 ? (
-              <Text
-                fontFamily="$body"
-                fontSize="$1"
-                color={color}
-                style={[styles.text, { opacity: 0.4, marginTop: 2 }]}
-              >
-                {t('books.pagesLeftInChapter', {
-                  defaultValue: '{{count}} pages left in chapter',
-                  count: pagesLeft,
-                })}
-                {minutesLeft !== undefined
-                  ? ` · ${t('books.minutesLeft', {
-                      defaultValue: '~{{count}} min',
-                      count: minutesLeft,
-                    })}`
-                  : ''}
-              </Text>
+              <PagesLeftLine pagesLeft={pagesLeft} minutesLeft={minutesLeft} color={color} />
             ) : null}
           </View>
         </ChromeRow>
@@ -232,6 +216,36 @@ function ChromeRow({
     >
       {children}
     </Animated.View>
+  )
+}
+
+function PagesLeftLine({
+  pagesLeft,
+  minutesLeft,
+  color,
+}: {
+  pagesLeft: number
+  minutesLeft?: number
+  color: string
+}) {
+  const { t } = useTranslation()
+  const pagesText = t('books.pagesLeftInChapter', {
+    defaultValue: '{{count}} pages left in chapter',
+    count: pagesLeft,
+  })
+  const minutesText =
+    minutesLeft !== undefined
+      ? t('books.minutesLeft', { defaultValue: '~{{count}} min', count: minutesLeft })
+      : undefined
+  return (
+    <Text
+      fontFamily="$body"
+      fontSize="$1"
+      color={color}
+      style={[styles.text, { opacity: 0.4, marginTop: 2 }]}
+    >
+      {minutesText ? `${pagesText} · ${minutesText}` : pagesText}
+    </Text>
   )
 }
 

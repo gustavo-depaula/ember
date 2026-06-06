@@ -52,12 +52,11 @@ export function ChapterScrubber({
 
   const dragFraction = useSharedValue(fraction)
   const isDragging = useSharedValue(false)
-  const lastReportedPage = useSharedValue(page)
 
   const [previewPage, setPreviewPage] = useState(page)
 
-  // Sync prop changes into the shared value while the user is not dragging.
-  // During a drag, the gesture owns the position.
+  // During a drag, the gesture owns the position. Outside a drag, sync prop
+  // changes back into the shared value so relocate events visibly move the thumb.
   useEffect(() => {
     if (!isDragging.value) {
       dragFraction.value = fraction
@@ -80,7 +79,6 @@ export function ChapterScrubber({
     () => Math.max(1, Math.min(visiblePages, Math.ceil(dragFraction.value * visiblePages) || 1)),
     (current, previous) => {
       if (previous === null || current !== previous) {
-        lastReportedPage.value = current
         runOnJS(setPreviewPage)(current)
       }
     },

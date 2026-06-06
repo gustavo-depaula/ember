@@ -252,7 +252,6 @@ export function BookReader({ bookId, chapter }: Props) {
   const [chapterIndex, setChapterIndex] = useState(0)
   const [fraction, setFraction] = useState(0)
   const [pagesLeft, setPagesLeft] = useState(0)
-  const [chapterPage, setChapterPage] = useState(1)
   const [chapterPages, setChapterPages] = useState(0)
   const [chromeShown, setChromeShown] = useState(false)
   const [sheet, setSheet] = useState<SheetKind>(null)
@@ -278,8 +277,6 @@ export function BookReader({ bookId, chapter }: Props) {
   // the bookmark-ticks memo re-pulls fresh fractions for the scrubber.
   const [bookmarksVersion, setBookmarksVersion] = useState(0)
   const bookmarkFractions = useMemo(() => {
-    // bookmarksVersion is referenced so the memo re-runs after add/remove;
-    // bumped when the bookmarks sheet closes.
     void bookmarksVersion
     const id = leaves[chapterIndex]?.id
     if (!id) return undefined
@@ -309,7 +306,6 @@ export function BookReader({ bookId, chapter }: Props) {
     void touchReadingStreak(bookId)
   }, [bookId])
 
-  // Auto-clear the chapter-complete toast after a beat.
   useEffect(() => {
     if (!justCompletedTitle) return
     const tid = setTimeout(() => setJustCompletedTitle(undefined), 2500)
@@ -367,7 +363,6 @@ export function BookReader({ bookId, chapter }: Props) {
           setChapterIndex(msg.index)
           setFraction(msg.fraction)
           setPagesLeft(Math.max(0, msg.pages - msg.page))
-          setChapterPage(msg.page)
           setChapterPages(msg.pages)
           // Page-turn haptic + session page counter. Skip the first relocate
           // (initial load) and any relocate that fires within 250ms of the
@@ -501,7 +496,7 @@ export function BookReader({ bookId, chapter }: Props) {
         }
         fraction={fraction}
         pages={chapterPages}
-        page={chapterPage}
+        page={Math.max(1, chapterPages - pagesLeft)}
         bookmarkFractions={bookmarkFractions}
         chromeShown={chromeShown}
         canGoBack={navStack.length > 0}
