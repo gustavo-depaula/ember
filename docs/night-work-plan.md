@@ -210,3 +210,10 @@ The bottom chrome line now shows "~N min" appended to "N pages left in chapter" 
 Same check icons as the reader's TOC sheet now appear next to completed leaves in the frontispiece's Contents tree. A new "N of M chapters finished" line in `BookProgressLine` (right-aligned next to "Last read X ago") gives a single-glance stat. Both use the same `listCompletedChapters(bookId)` Set already consumed elsewhere — no new infrastructure.
 
 - i18n: `book.chaptersFinished`.
+
+### Feature 19 (P2.8): TOC expand/collapse all ✅
+
+Aquinas Opera Omnia has a 3-level TOC (work → question → article); navigating without bulk-expand was tedious. The TOC sheet header now has two text buttons ("Expand all" / "Collapse all") that only render when the book actually has nested sections (`hasNestedSections(toc)`). Flat-TOC books don't see the controls.
+
+- New helpers in `ReaderTocSheet.tsx`: `collectAllSectionIds`, `hasNestedSections`.
+- i18n: `books.expandAll`, `books.collapseAll`.

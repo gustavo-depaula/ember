@@ -901,6 +901,8 @@ export default {
     addBookmark: 'Marcar esta p\u00e1gina',
     removeBookmark: 'Remover marcador',
     noBookmarks: 'Nenhum marcador ainda. Toque no bot\u00e3o acima para marcar esta p\u00e1gina.',
+    expandAll: 'Expandir tudo',
+    collapseAll: 'Recolher tudo',
     paletteLabel: 'Paleta de leitura',
     palette: {
       auto: 'Auto',

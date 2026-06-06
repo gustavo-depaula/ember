@@ -893,6 +893,8 @@ export default {
     addBookmark: 'Bookmark this page',
     removeBookmark: 'Remove bookmark',
     noBookmarks: 'No bookmarks yet. Tap the button above to mark this page.',
+    expandAll: 'Expand all',
+    collapseAll: 'Collapse all',
     paletteLabel: 'Reader palette',
     palette: {
       auto: 'Auto',

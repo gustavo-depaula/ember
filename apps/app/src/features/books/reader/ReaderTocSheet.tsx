@@ -1,6 +1,6 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
 import { Check, ChevronDown, ChevronRight } from 'lucide-react-native'
-import { useMemo, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -71,6 +71,24 @@ function getItemLayout(_: unknown, index: number) {
   return { length: itemHeight, offset: itemHeight * index, index }
 }
 
+function collectAllSectionIds(nodes: TocNode[], acc: Set<string> = new Set()): Set<string> {
+  for (const node of nodes) {
+    if (node.children?.length) {
+      acc.add(node.id)
+      collectAllSectionIds(node.children, acc)
+    }
+  }
+  return acc
+}
+
+function hasNestedSections(nodes: TocNode[]): boolean {
+  for (const node of nodes) {
+    if (node.children?.some((c) => c.children?.length)) return true
+    if (node.children?.length && hasNestedSections(node.children)) return true
+  }
+  return false
+}
+
 export function ReaderTocSheet({
   open,
   onClose,
@@ -104,6 +122,11 @@ export function ReaderTocSheet({
     })
   }
 
+  const expandAll = useCallback(() => setExpandedIds(collectAllSectionIds(toc)), [toc])
+  const collapseAll = useCallback(() => setExpandedIds(new Set()), [])
+
+  const showExpandControls = useMemo(() => hasNestedSections(toc), [toc])
+
   return (
     <BottomSheet
       index={open ? 0 : -1}
@@ -113,15 +136,30 @@ export function ReaderTocSheet({
       backgroundStyle={{ backgroundColor: theme.background?.val }}
     >
       <YStack height={height * sheetFraction} width="100%" paddingTop="$md">
-        <Text
-          fontFamily="$heading"
-          fontSize="$4"
-          color="$color"
+        <XStack
+          alignItems="center"
+          justifyContent="space-between"
           paddingHorizontal="$lg"
           paddingBottom="$sm"
         >
-          {t('books.tableOfContents')}
-        </Text>
+          <Text fontFamily="$heading" fontSize="$4" color="$color">
+            {t('books.tableOfContents')}
+          </Text>
+          {showExpandControls ? (
+            <XStack gap="$md">
+              <Pressable onPress={expandAll} hitSlop={8} accessibilityRole="button">
+                <Text fontFamily="$body" fontSize="$1" color="$accent">
+                  {t('books.expandAll', { defaultValue: 'Expand all' })}
+                </Text>
+              </Pressable>
+              <Pressable onPress={collapseAll} hitSlop={8} accessibilityRole="button">
+                <Text fontFamily="$body" fontSize="$1" color="$accent">
+                  {t('books.collapseAll', { defaultValue: 'Collapse all' })}
+                </Text>
+              </Pressable>
+            </XStack>
+          ) : null}
+        </XStack>
         <FlatList
           data={flatItems}
           keyExtractor={(item) => item.node.id}
