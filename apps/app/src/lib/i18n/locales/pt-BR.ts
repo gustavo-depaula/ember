@@ -904,6 +904,7 @@ export default {
     expandAll: 'Expandir tudo',
     collapseAll: 'Recolher tudo',
     tocSearchPlaceholder: 'Filtrar capítulos…',
+    pageOfTotal: '{{page}} / {{total}}',
     hintPrev: 'Página anterior',
     hintMenu: 'Mostrar menu',
     hintNext: 'Próxima página',

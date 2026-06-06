@@ -6,6 +6,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text } from 'tamagui'
 
 import { GlassSurface } from '@/components/GlassSurface'
+import { ChapterScrubber } from './ChapterScrubber'
 
 // Apple HIG floor is 44pt; Apple Books's close X looks ~48pt — match that.
 const ACTION_SIZE = 48
@@ -19,6 +20,12 @@ type Props = {
   pagesLeft: number
   /** Rounded minutes left in chapter, derived from recent page-turn pace. */
   minutesLeft?: number
+  /** Current chapter-fraction 0..1, drives the chrome scrubber thumb. */
+  fraction: number
+  /** Foliate's total page count for the current chapter (sentinel-inclusive). */
+  pages: number
+  /** Foliate's 1-indexed current page within the chapter. */
+  page: number
   chromeShown: boolean
   /** Show a back-arrow pill at top-left when the reader followed a cross-ref. */
   canGoBack: boolean
@@ -27,6 +34,10 @@ type Props = {
   onClose: () => void
   onMenu: () => void
   onBack: () => void
+  /** Called continuously during a scrubber drag. */
+  onScrub: (fraction: number) => void
+  /** Called once when the user releases the scrubber. */
+  onScrubEnd: (fraction: number) => void
 }
 
 export function ReaderOverlay({
@@ -35,6 +46,9 @@ export function ReaderOverlay({
   chapters,
   pagesLeft,
   minutesLeft,
+  fraction,
+  pages,
+  page,
   chromeShown,
   canGoBack,
   isDark,
@@ -42,6 +56,8 @@ export function ReaderOverlay({
   onClose,
   onMenu,
   onBack,
+  onScrub,
+  onScrubEnd,
 }: Props) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
@@ -115,12 +131,31 @@ export function ReaderOverlay({
       <View pointerEvents="none" style={{ flex: 1 }} />
 
       {chromeShown ? (
-        <ChromeRow key="bottom-menu" align="right">
+        <Animated.View
+          key="bottom-chrome"
+          entering={FadeIn.duration(FADE_MS)}
+          exiting={FadeOut.duration(FADE_MS)}
+          style={[styles.bottomRow, { paddingHorizontal: SIDE_PADDING }]}
+        >
+          {pages > 3 ? (
+            <ChapterScrubber
+              fraction={fraction}
+              pages={pages}
+              page={page}
+              color={color}
+              isDark={isDark}
+              onScrub={onScrub}
+              onScrubEnd={onScrubEnd}
+            />
+          ) : (
+            <View style={{ flex: 1 }} pointerEvents="none" />
+          )}
           <Pressable
             onPress={onMenu}
             hitSlop={8}
             accessibilityRole="button"
             accessibilityLabel={t('books.menu', { defaultValue: 'Menu' })}
+            style={{ marginLeft: 10 }}
           >
             <GlassSurface
               isDark={isDark}
@@ -130,7 +165,7 @@ export function ReaderOverlay({
               <MoreHorizontal size={24} color={color} />
             </GlassSurface>
           </Pressable>
-        </ChromeRow>
+        </Animated.View>
       ) : (
         <ChromeRow key="bottom-page" align="center" pointerEvents="none">
           <View style={{ alignItems: 'center' }}>
@@ -206,5 +241,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     overflow: 'hidden',
+  },
+  bottomRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
   },
 })

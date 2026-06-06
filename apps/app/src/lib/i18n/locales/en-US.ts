@@ -896,6 +896,7 @@ export default {
     expandAll: 'Expand all',
     collapseAll: 'Collapse all',
     tocSearchPlaceholder: 'Filter chapters…',
+    pageOfTotal: '{{page}} / {{total}}',
     hintPrev: 'Previous page',
     hintMenu: 'Show menu',
     hintNext: 'Next page',

@@ -249,6 +249,8 @@ export function BookReader({ bookId, chapter }: Props) {
   const [chapterIndex, setChapterIndex] = useState(0)
   const [fraction, setFraction] = useState(0)
   const [pagesLeft, setPagesLeft] = useState(0)
+  const [chapterPage, setChapterPage] = useState(1)
+  const [chapterPages, setChapterPages] = useState(0)
   const [chromeShown, setChromeShown] = useState(false)
   const [sheet, setSheet] = useState<SheetKind>(null)
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
@@ -266,6 +268,9 @@ export function BookReader({ bookId, chapter }: Props) {
   // only on actual page changes. `at` rate-limits to 250ms so scrubbing
   // doesn't machine-gun the Taptic engine.
   const lastTurnRef = useRef<{ index: number; page: number; at: number } | null>(null)
+  // Throttles scrubber drags to ~15 Hz so we don't flood the WebView with
+  // injectJavaScript goTo calls during a 60 fps gesture.
+  const lastScrubAtRef = useRef(0)
 
   // Touch the per-book streak once per mount — same-day touches are no-ops
   // inside touchReadingStreak so re-mounting today doesn't double-count.
@@ -309,6 +314,8 @@ export function BookReader({ bookId, chapter }: Props) {
           setChapterIndex(msg.index)
           setFraction(msg.fraction)
           setPagesLeft(Math.max(0, msg.pages - msg.page))
+          setChapterPage(msg.page)
+          setChapterPages(msg.pages)
           // Page-turn haptic. Skip the first relocate (initial load) and any
           // relocate that fires within 250ms of the previous one (scrubbing).
           const now = Date.now()
@@ -434,6 +441,9 @@ export function BookReader({ bookId, chapter }: Props) {
             ? Math.max(1, Math.round(pagesLeft * minutesPerPage))
             : undefined
         }
+        fraction={fraction}
+        pages={chapterPages}
+        page={chapterPage}
         chromeShown={chromeShown}
         canGoBack={navStack.length > 0}
         isDark={config.isDark}
@@ -441,6 +451,16 @@ export function BookReader({ bookId, chapter }: Props) {
         onClose={() => router.back()}
         onMenu={() => setSheet('menu')}
         onBack={handleBackNav}
+        onScrub={(f) => {
+          const now = Date.now()
+          if (now - lastScrubAtRef.current < 66) return
+          lastScrubAtRef.current = now
+          foliateRef.current?.goTo(chapterIndex, f)
+        }}
+        onScrubEnd={(f) => {
+          lastScrubAtRef.current = Date.now()
+          foliateRef.current?.goTo(chapterIndex, f)
+        }}
       />
 
       <ReaderMenuSheet
