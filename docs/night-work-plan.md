@@ -77,3 +77,7 @@ Added a secondary line below "Chapter X of Y" reading "N pages left in chapter" 
 - BookReader: tracks `pagesLeft = Math.max(0, msg.pages - msg.page)` from each relocate, passes to ReaderOverlay.
 - ReaderOverlay: wraps the bottom-page text in a centered View with the second line below.
 - en-US + pt-BR get the pluralized key (`pagesLeftInChapter_one` / `pagesLeftInChapter_other`).
+
+### Feature 3: Cross-chapter transition fade ✅
+
+Foliate swaps the iframe element when crossing chapter boundaries, which previously read as a hard snap. The `load` event handler in the bootstrap now sets the new iframe's `documentElement.opacity = 0` and animates to 1 over 200ms — soft reveal that matches the AppleZoom morph's settling feel. No effect within a chapter (no iframe swap).

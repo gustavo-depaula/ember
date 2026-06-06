@@ -241,6 +241,14 @@ function buildHostHtml({
         paginator.addEventListener('relocate', postRelocate);
         paginator.addEventListener('load', (e) => {
           post({ type: 'load', index: e.detail.index });
+          // Fade the new chapter iframe in — foliate swaps the iframe element
+          // outright on chapter boundaries, which otherwise reads as a snap.
+          const docEl = e.detail.doc && e.detail.doc.documentElement;
+          if (docEl) {
+            docEl.style.opacity = '0';
+            docEl.style.transition = 'opacity 200ms ease-out';
+            requestAnimationFrame(() => { docEl.style.opacity = '1'; });
+          }
           // Wire tap zones inside the chapter iframe: left 30% = prev, right
           // 30% = next, middle posts centerTap so the chrome can toggle.
           //
