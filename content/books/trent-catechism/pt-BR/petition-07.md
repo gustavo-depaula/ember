@@ -16,7 +16,7 @@ No entanto, esta petição difere da anterior, porque numa pedimos preservação
 
 [2] Por isso mesmo, já não se faz mister lembrar ao povo fiel, quanto o homem sofre com trabalhos e provações, nem quanto precisa da proteção divina. Pois, sem levar em conta as alentadas exposições de escritores sagrados e profanos, cada qual sabe, por si mesmo e pelo sofrimento alheio, quão numerosas e graves são as misérias, a que está sujeita a vida humana.
 
-Todos se convenceram daquela verdade que nos legou Job, modelo de paciência: "O homem, nascido que é da mulher, tem uma vida breve e cheia de muitas misérias. Desabrocha como uma flor, e logo fenece. Dissipa-se como uma sombra, e jamais permanece na mesma condição".[^480]
+Todos se convenceram daquela verdade que nos legou Jó, modelo de paciência: "O homem, nascido que é da mulher, tem uma vida breve e cheia de muitas misérias. Desabrocha como uma flor, e logo fenece. Dissipa-se como uma sombra, e jamais permanece na mesma condição".[^480]
 
 Não passa um dia sequer que não seja assinalado por algum incômodo ou sofrimento, consoante o testemunho de Cristo Nosso Senhor: "Basta para cada dia o mal que traz consigo".[^481] Esta condição da vida humana transparece, claramente, naquela advertência do mesmo Senhor, quando fala da obrigação de tomarmos nossa cruz todos os dias, e de aprendermos a segui-l'O.[^482]
 
@@ -36,7 +36,7 @@ Entanto, se lhes dói a cabeça, o lado, o pé; se perdem bens de fortuna; se te
 
 ### 2. Mas subordinado à glória de Deus
 
-Por conseguinte, os que rezam com as devidas disposições, subordinam tudo à glória de Deus, quando pedem o afastamento de suas penas, dores e males. Assim é que David, ao fazer a súplica: "Senhor, não me castigueis em Vossa cólera!" — aduzia uma razão que revelava seu grande zelo pela glória de Deus. Pois acrescentou: "Porque na morte não há quem se lembre de Vós, e nos infernos quem Vos louvará?"[^486] Da mesma forma, quando implorava a misericórdia de Deus, aduziu a cláusula: "Ensinarei aos maus os vossos caminhos, e os ímpios se converterão a Vós".[^487]
+Por conseguinte, os que rezam com as devidas disposições, subordinam tudo à glória de Deus, quando pedem o afastamento de suas penas, dores e males. Assim é que Davi, ao fazer a súplica: "Senhor, não me castigueis em Vossa cólera!" — aduzia uma razão que revelava seu grande zelo pela glória de Deus. Pois acrescentou: "Porque na morte não há quem se lembre de Vós, e nos infernos quem Vos louvará?"[^486] Da mesma forma, quando implorava a misericórdia de Deus, aduziu a cláusula: "Ensinarei aos maus os vossos caminhos, e os ímpios se converterão a Vós".[^487]
 
 O que importa é exortar os fiéis ouvintes a praticarem esta espécie salutar de oração, e a imitarem o exemplo do Profeta. Ao mesmo tempo, devemos mostrar-lhes quanta é a diferença que há entre a oração dos infiéis e a dos cristãos.
 
@@ -56,7 +56,7 @@ Portanto, os fiéis discípulos de Jesus Cristo não põem, nos remédios, a sua
 
 Nesse particular, é necessário exortar os fiéis a confiarem em Deus. Como Pai todo-bondoso, Deus nos mandou pedir livramento de todos os males, com o intuito de que, na Sua própria ordem, tivéssemos a esperança de sermos atendidos.
 
-A esse respeito, são muitos os exemplos que se nos deparam nas Sagradas Escrituras. Ora, tal cópia de exemplos deve mover à confiança os que dificilmente se entregariam à esperança só por meio de raciocínios. Diante dos olhos temos Abraão, Jacob, Lot, José, David, que são testemunhas cabais da bondade divina.[^493] Os textos sagrados do Novo Testamento mencionam tantas pessoas que se salvaram dos maiores perigos pela oração bem feita, que não se faz mister alegar mais exemplos.[^494]
+A esse respeito, são muitos os exemplos que se nos deparam nas Sagradas Escrituras. Ora, tal cópia de exemplos deve mover à confiança os que dificilmente se entregariam à esperança só por meio de raciocínios. Diante dos olhos temos Abraão, Jacó, Lot, José, Davi, que são testemunhas cabais da bondade divina.[^493] Os textos sagrados do Novo Testamento mencionam tantas pessoas que se salvaram dos maiores perigos pela oração bem feita, que não se faz mister alegar mais exemplos.[^494]
 
 Contentar-nos-emos com uma palavra do Profeta, por ser de molde a revigorar o mais pusilânime dos homens: "Clamaram os justos, e o Senhor os atendeu, livrando-os de todas as suas tribulações".[^495]
 
@@ -64,7 +64,7 @@ Contentar-nos-emos com uma palavra do Profeta, por ser de molde a revigorar o ma
 
 ### 1. Em que consiste
 
-[6] Segue-se, agora, explicar o sentido e a importância desta petição. Os fiéis devem alcançar de que modo pedimos, aqui, a isenção de todos os males. Na verdade, existem muitas coisas que se consideram males, mas que são de proveito para quem as padece. Dessa natureza era o aguilhão que empolgava o Apóstolo. Mediante a graça de Deus, devia "a virtude aperfeiçoar-se na fraqueza".[^496] Estas coisas enchem os justos de sumo prazer, desde que eles conheçam a sua finalidade. Nem de longe lhes acode a idéia de pedir que Deus as faça desaparecer.
+[6] Segue-se, agora, explicar o sentido e a importância desta petição. Os fiéis devem alcançar de que modo pedimos, aqui, a isenção de todos os males. Na verdade, existem muitas coisas que se consideram males, mas que são de proveito para quem as padece. Dessa natureza era o aguilhão que empolgava o Apóstolo. Mediante a graça de Deus, devia "a virtude aperfeiçoar-se na fraqueza".[^496] Estas coisas enchem os justos de sumo prazer, desde que eles conheçam a sua finalidade. Nem de longe lhes acode a ideia de pedir que Deus as faça desaparecer.
 
 Aqui, portanto, só pedimos livramento de tais males que nenhum proveito podem trazer à nossa alma; mas de modo nenhum nos referimos aos demais, enquanto deles se pode esperar algum fruto para a salvação.
 
@@ -86,11 +86,11 @@ Assim é que a Igreja interpreta esta petição, tanto na Missa como na ladainha
 
 #### a) Afasta desgraças iminentes
 
-Deus afasta, por exemplo, as desgraças iminentes. Lemos nas Sagradas Escrituras que, desta forma, livrou o grande Patriarca Jacob de seus inimigos, que estavam enfurecidos contra ele, por causa da matança entre os moradores de Siquém. O texto diz assim: "O terror de Deus invadiu todas as cidades circunvizinhas, e não se atreveram a persegui-los na retirada".[^499]
+Deus afasta, por exemplo, as desgraças iminentes. Lemos nas Sagradas Escrituras que, desta forma, livrou o grande Patriarca Jacó de seus inimigos, que estavam enfurecidos contra ele, por causa da matança entre os moradores de Siquém. O texto diz assim: "O terror de Deus invadiu todas as cidades circunvizinhas, e não se atreveram a persegui-los na retirada".[^499]
 
 Na verdade, todos os bem-aventurados que reinam nos céus com Cristo Nosso Senhor, estão absolutamente livres de todos os males, por efeito da graça divina. Com relação a nós, enquanto peregrinamos neste mundo, não quer Deus forrar-nos de todos os incômodos, mas ainda assim nos livra de alguns em particular.
 
-#### b) Sinais nos sofrimentos
+#### b) consola nos sofrimentos
 
 Assemelha-se, pois, a um resgate de todos os males, essa consolação que Deus, por vezes, concede aos que sofrem tribulações. Tal conforto sentia o Profeta, quando se desafogou nas seguintes palavras: "Na medida que as muitas dores invadiam o meu coração, as Vossas consolações alegraram a minha alma".[^500]
 
@@ -134,9 +134,9 @@ Não é, pois, razoável que o servo seja mais do que o seu senhor.[^510] Da mes
 
 ### 2. Exemplo dos Santos
 
-Nesse particular, temos para nossa imitação o grandioso exemplo de Urias. Quando David lhe aconselhava de ficar em casa, respondeu ele: "A Arca de Deus, e Israel e Judá moram debaixo de tendas... e haveria eu de entrar em minha casa?"[^512]
+Nesse particular, temos para nossa imitação o grandioso exemplo de Urias. Quando Davi lhe aconselhava de ficar em casa, respondeu ele: "A Arca de Deus, e Israel e Judá moram debaixo de tendas... e haveria eu de entrar em minha casa?"[^512]
 
-Se nos dispusermos a rezar, preparados por tais idéias e reflexões, conseguiremos a graça de ficar intactos, no meio das ameaças e perigos que nos cercam e oprimem de todos os lados, assim como os três jovens ficaram ilesos do fogo[^513]; ou, pelo menos, como os Macabeus[^514], suportaremos com valor e constância todas as adversidades.
+Se nos dispusermos a rezar, preparados por tais ideias e reflexões, conseguiremos a graça de ficar intactos, no meio das ameaças e perigos que nos cercam e oprimem de todos os lados, assim como os três jovens ficaram ilesos do fogo[^513]; ou, pelo menos, como os Macabeus[^514], suportaremos com valor e constância todas as adversidades.
 
 No meio das afrontas e tormentos, imitaremos os Apóstolos. Depois de serem açoitados, exultaram sobremaneira, por serem julgados dignos de sofrer injúrias por amor de Jesus Cristo.[^515]
 
@@ -144,30 +144,30 @@ Se nos deixarmos possuir de iguais sentimentos, cantaremos com o maior enlevo de
 
 [^478]: Jo 17, 15.
 [^479]: Cyprianus, serm. II de Orat. Dominica.
-[^480]: Job 14, 1-2.
+[^480]: Jó 14, 1 ss.
 [^481]: Mt 6, 34.
 [^482]: Lc 9, 23.
-[^483]: Ps 82, 17.
-[^484]: Ps 49, 15.
+[^483]: Sl 82, 17.
+[^484]: Sl 49, 15.
 [^485]: Mt 6, 33.
-[^486]: Ps 6, 2.6.
-[^487]: Ps 50, 15.
+[^486]: Sl 6, 2-6.
+[^487]: Sl 50, 15.
 [^488]: Hoje em dia: espiritismo, macumba, etc.
-[^489]: Eccli 38, 4.
+[^489]: Sr 38, 4.
 [^490]: 2 Paral 16, 12.
-[^491]: Cfr. Tob 6, 7 ss.
+[^491]: Cfr. Tb 6, 7 ss.
 [^492]: Cabe aqui uma doutrina sobre a medicação espírita, às vezes em conflito com a medicina, mas sempre incompatível com a Moral católica.
-[^493]: Gn 12, 2; 14, 20; 28, 14; 39, 2; 1 Reg 22, 14 ss.
+[^493]: Gn 12, 2; 14, 20; 28, 14; 39, 2; 1Sm 22, 14 ss.
 [^494]: O CRO alude aqui aos fatos narrados nos Evangelhos, nos Atos dos Apóstolos, e nas Epístolas Apostólicas: às pessoas que recorreram a Cristo, e foram atendidas.
-[^495]: Ps 33, 18.
-[^496]: 2 Cor 12, 7-9.
+[^495]: Sl 33, 18.
+[^496]: 2Cor 12, 7-9.
 [^497]: Hoje, as intenções continuam a ser as mesmas, só em outras modalidades: horrores da guerra química, racionamento de gêneros essenciais (portanto, fome disfarçada), campos de concentração, etc.
-[^498]: Oração depois do "Padre-Nosso" na Missa.
+[^498]: Oração depois do "Pai-Nosso" na Missa.
 [^499]: Gn 35, 5.
-[^500]: Ps 93, 19.
+[^500]: Sl 93, 19.
 [^501]: Dan 3, 21; 6, 22.
-[^502]: Basil. in homil. Quod Deus non sit auctor malorum; Chrysost. homil. 20 in Matth.; Aug. De eccles. dogmat. 57.
-[^503]: Amos 3, 6.
+[^502]: * Basil. in homil. Quod Deus non sit auctor malorum; Chrysost. homil. 20 in Matth.; Aug. De eccles. dogmat. 57.
+[^503]: Am 3, 6.
 [^504]: Is 45, 7.
 [^505]: Quer dizer, da graça santificante.
 [^506]: No original, "a malo" pode derivar-se tanto de "malus", como de "malum"; daí a interpretação do CRO, baseada no próprio termo, e difícil de ser bem expressa em vulgar.
@@ -175,9 +175,9 @@ Se nos deixarmos possuir de iguais sentimentos, cantaremos com o maior enlevo de
 [^508]: Act 14, 21.
 [^509]: Lc 24, 26.
 [^510]: Lc 6, 40; Jo 13, 16; 15, 20.
-[^511]: Bernard. serm. V de omnibus Sanctis.
-[^512]: 2 Reg 11, 11.
-[^513]: Dan 3, 49.
-[^514]: 1 Macch 2, 16 ss.
-[^515]: Act 5, 40 ss.
-[^516]: Ps 118, 161 ss.
+[^511]: Bernard. serm. V de omnibus Sanctis. O CRO já citou esta passagem em II V 64, nota 624.
+[^512]: 2Sm 11, 11.
+[^513]: Dn 3, 49.
+[^514]: 1Mc 2, 16 ss.
+[^515]: At 5, 40 ss.
+[^516]: Sl 118, 161 ss.

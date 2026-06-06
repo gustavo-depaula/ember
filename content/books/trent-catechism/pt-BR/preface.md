@@ -30,7 +30,7 @@ Nobres terras, que outrora guardavam, com tanto respeito e tenacidade, a verdade
 
 Sem falar de tais nações, ainda assim já não se encontra nenhuma região tão longínqua, nenhuma praça tão guarnecida, nenhum rincão da cidade cristã, em que esta peste não tenha procurado insinuar-se furtivamente.
 
-[6] Ante a absoluta impossibilidade de falar a todos individualmente, e de gotejar-lhes ao ouvido idéias cheias de veneno, os que se propunham depravar os corações dos fiéis, lançaram mão de outro meio com o qual mais fàcilmente conseguiram espalhar por longe os erros de sua impiedade.
+[6] Ante a absoluta impossibilidade de falar a todos individualmente, e de gotejar-lhes ao ouvido ideias cheias de veneno, os que se propunham depravar os corações dos fiéis, lançaram mão de outro meio com o qual mais facilmente conseguiram espalhar por longe os erros de sua impiedade.
 
 Além dos encorpados volumes com que pretendiam arrasar a fé católica — dos quais era fácil precaver-se, por alardearem heresia — escreveram ainda um sem-número de pequenos tratados. E era incrível a prontidão com que os ânimos incautos de pessoas simples se deixavam iludir pela aparência de piedade que havia nesses opúsculos.
 
@@ -76,7 +76,7 @@ Devem, pois, os pastores averiguar, cuidadosamente, quem ainda precise de leite[
 
 Dessa obrigação queria o Apóstolo dar a todos um exemplo em sua pessoa, quando se declarou "devedor aos gregos e aos bárbaros, aos sábios e ignorantes".[^44] Certamente, assim falava para que os chamados a tal ministério reconhecessem a necessidade de acomodar-se à índole e à inteligência dos ouvintes, quando lhes explicam os mistérios da fé e os preceitos da vida cristã. Enquanto saciam com alimento espiritual os fiéis de formação mais adiantada, não deixem perecer de fome os pequeninos que pedem pão, sem haver quem lho parta.[^45]
 
-Ninguém esmoreça, contudo, no fervor de ensinar, se de vez em quando for preciso explicar aos ouvintes certas verdades mais simples e elementares. Estas não soem ser tratadas com interesse, mormente por espíritos que costumam pairar e repousar na contemplação de idéias muito elevadas.
+Ninguém esmoreça, contudo, no fervor de ensinar, se de vez em quando for preciso explicar aos ouvintes certas verdades mais simples e elementares. Estas não soem ser tratadas com interesse, mormente por espíritos que costumam pairar e repousar na contemplação de ideias muito elevadas.
 
 Se a própria Sabedoria do Eterno Pai baixou à terra para nos ensinar, na vileza da carne humana, as leis de uma vida toda celestial, quem não será levado, pelo amor de Cristo, a fazer-se pequenino no meio de seus irmãos?[^46] E qual mãe que amamenta os filhinhos, quem não desejará tanto a salvação do próximo, que esteja pronto, como de si mesmo dizia o Apóstolo, não só a dar-lhe o Evangelho de Deus, mas até a própria vida?[^47]
 
@@ -98,7 +98,7 @@ Explicados que forem estes quatro pontos, tidos como "lugares comuns"[^51] da Es
 
 [13] Em conclusão, pareceu-nos conveniente dar ainda um aviso prático. Todas as vezes que tiverem de interpretar algum lugar do Evangelho, ou qualquer outra passagem da Sagrada Escritura, saibam os párocos que seu sentido coincide com algum artigo dos quatro pontos mencionados. A esse ponto podem então recorrer, como a uma fonte doutrinária do trecho que devem explicar [na Escritura].
 
-Se tiverem, por exemplo, de explanar o Evangelho da primeira dominga do Advento: "Haverá sinais no sol e na lua, etc."[^52]; encontrarão um comentário no artigo do Símbolo: "Há de vir a julgar os vivos e os mortos".
+Se tiverem, por exemplo, de explanar o Evangelho da primeira domingo do Advento: "Haverá sinais no sol e na lua, etc."[^52]; encontrarão um comentário no artigo do Símbolo: "Há de vir a julgar os vivos e os mortos".
 
 Usando de tal expediente, o pastor de almas terá um só trabalho para ensinar ao povo cristão o Símbolo e o Evangelho. Por conseguinte, em suas instruções e comentários, conservará o costume de sempre recorrer a esses quatro pontos capitais, que segundo a nossa opinião encerram a medula doutrinária de toda a Sagrada Escritura.
 
@@ -106,55 +106,55 @@ Quanto à disposição da matéria, tomará o esquema que mais próprio lhe pare
 
 De nossa parte, seguindo a autoridade dos Santos Padres que, para levarem os homens ao conhecimento de Cristo Nosso Senhor e de Sua doutrina, começavam pela doutrina da fé, hemos por bem explicar, antes de tudo, o que diz respeito a esta virtude.
 
-[^1]: Gen 1, 26 ss.; 5, 1; 9, 6; Sap 2, 23; DU 1785 1795.
-[^2]: Rom 1, 20.
-[^3]: Col 3, 26.
-[^4]: Col 1, 27; DU 1794 1791.
-[^5]: Rom 10, 17.
-[^6]: Rom 10, 14-15.
-[^7]: Hebr 1, 1.
-[^8]: Ioel 2, 23.
-[^9]: Hebr 1, 2.
-[^10]: 2 Petr 1, 17.
+[^1]: Gen 1, 26 ss.; 5, 1; 9, 6; Sb 2, 23; DU 1785 1795.
+[^2]: Rm 1, 20.
+[^3]: Cl 1, 26.
+[^4]: Cl 1, 27; DU 1794 1791.
+[^5]: Rm 10, 17.
+[^6]: Rm 10, 14-15.
+[^7]: Hb 1, 1.
+[^8]: Jl 2, 23.
+[^9]: Hb 1, 2. A ignorância é hoje esporádica. Isso à parte, o CRO nunca foi propriamente um manual para padres ignorantes; é antes um instrumento de formação permanente para pastores de almas, sejam quais forem os seus dotes intelectuais.
+[^10]: 2Pd 1, 17.
 [^11]: Mt 17, 5.
-[^12]: Eph 4, 11.
-[^13]: Io 6, 64-69.
-[^14]: Eph 4, 14.
-[^15]: Eph 2, 22.
-[^16]: 1 Th 2, 13.
+[^12]: Ef 4, 11.
+[^13]: Jo 6, 64-69.
+[^14]: Ef 4, 14.
+[^15]: Ef 2, 22.
+[^16]: 1Ts 2, 13.
 [^17]: Lc 10, 16.
 [^18]: Mt 28, 20; DU 426.
-[^19]: A 4, 1; DU 434 643 ss. 853.
-[^20]: Ier 23, 21.
-[^21]: Hebr 13, 9.
+[^19]: 1Jo 4,1; DU 434 643 ss. 853.
+[^20]: Jr 23, 21.
+[^21]: Hb 13, 9.
 [^22]: Mt 16, 18.
-[^23]: Eph 4, 5.
-[^24]: Io 17, 3.
-[^25]: 1 Cor 2, 2.
-[^26]: Act 4, 12.
-[^27]: 1 Io 2, 2.
-[^28]: 1 Io 2, 3.
-[^29]: 1 Io 2, 6.
-[^30]: 1 Tim 6, 11; 2 Tim 2, 22.
-[^31]: Tit 2, 14.
-[^32]: Tit 2, 15.
-[^33]: 1 Tim 1, 5.
-[^34]: Rom 13, 10.
+[^23]: Ef 4, 5.
+[^24]: Jo 17, 3.
+[^25]: 1Cor 2, 2.
+[^26]: At 4, 12.
+[^27]: 1Jo 2, 2.
+[^28]: 1Jo 2, 3.
+[^29]: 1Jo 2, 6.
+[^30]: 1Tm 6, 11; 2Tm 2, 22.
+[^31]: Tt 2, 14.
+[^32]: Tt 2, 15.
+[^33]: 1Tm 1, 5.
+[^34]: Rm 13, 10.
 [^35]: Ps 72, 25.
-[^36]: 1 Cor 12, 31.
-[^37]: 1 Cor 13, 8.
-[^38]: 1 Cor 16, 14.
-[^39]: 1 Cor 9, 22.
-[^40]: 1 Cor 4, 1-2.
+[^36]: 1Cor 12, 31.
+[^37]: 1Cor 13, 8.
+[^38]: 1Cor 16, 14.
+[^39]: 1Cor 9, 22.
+[^40]: 1Cor 4, 1-2.
 [^41]: Mt 25, 23.
-[^42]: 1 Petr 2, 2; 1 Cor 3, 2; Hebr 5, 12.
-[^43]: Eph 4, 13.
-[^44]: Rom 1, 14.
+[^42]: 1Pd 2, 2; 1Cor 3, 2; Hb 5, 12.
+[^43]: Ef 4, 13.
+[^44]: Rm 1, 14.
 [^45]: Thren 4, 4.
-[^46]: 2 Cor 5, 14.
-[^47]: 1 Th 2, 8.
+[^46]: 2Cor 5, 14.
+[^47]: 1Ts 2, 8.
 [^48]: Ps 118, 97.
-[^49]: 1 Tim 4, 13.
-[^50]: 2 Tim 3, 16-17.
-[^51]: "Loci communes", termo teológico.
+[^49]: 1Tm 4, 13.
+[^50]: 2Tm 3, 16-17.
+[^51]: O termo "loci communes" (lugares comuns) remonta a Melanchthon, que em 1521 publicou os *Loci Communes Rerum Theologicarum*, primeiro esboço sistemático da teologia luterana. Melchior Cano, OP, retomou e transformou o conceito na sua obra *De Locis Theologicis* (1563), estruturando as fontes da teologia católica em dez "lugares". Aqui o Catecismo usa a expressão no sentido de Cano: os quatro grandes tópicos (Símbolo, Sacramentos, Decálogo, Oração Dominical) como fontes doutrinárias a que o pregador recorre para iluminar qualquer passagem da Escritura.
 [^52]: Lc 21, 29.

@@ -1,10 +1,10 @@
 # Capítulo II — Primeiro Artigo do Símbolo: "Creio em Deus Pai Todo-Poderoso, Criador do céu e da terra"
 
-> Creio em Deus Padre Tudo-Poderoso, Criador do céu e da terra.
+> Creio em Deus Pai Todo-Poderoso, Criador do céu e da terra.
 
 ## Sinopse do Artigo
 
-[1] Estas palavras querem dizer: Creio com toda a certeza, e sem nenhuma hesitação confesso a Deus Padre, a primeira Pessoa da Santíssima Trindade, que pela virtude de Sua onipotência criou do nada o próprio céu, a terra, e tudo que se contém em suas dimensões; que sustenta e governa todas as coisas criadas. E não só de coração o creio, e de boca o confesso, mas com o maior afeto e filial piedade a Ele me entrego, por ser o bem sumo e perfeito.
+[1] Estas palavras querem dizer: Creio com toda a certeza, e sem nenhuma hesitação confesso a Deus Pai, a primeira Pessoa da Santíssima Trindade, que pela virtude de Sua onipotência criou do nada o próprio céu, a terra, e tudo que se contém em suas dimensões; que sustenta e governa todas as coisas criadas. E não só de coração o creio, e de boca o confesso, mas com o maior afeto e filial piedade a Ele me entrego, por ser o bem sumo e perfeito.
 
 Nestes termos se pode, brevemente, formular o sentido deste primeiro artigo. Mas como quase cada uma destas palavras envolve grandes mistérios, é obrigação do pároco explicá-las mais amplamente, para que o povo cristão, quanto o permitir a graça de Deus, aprenda a contemplar, com temor e tremor, a glória de Sua majestade.[^72]
 
@@ -40,7 +40,7 @@ Com efeito, para chegarmos até Deus, o mais transcendente de todos os seres, é
 
 Ainda assim, como diz o Apóstolo, Deus "não deixou todavia de dar testemunho de Si mesmo, dispensando benefícios, mandando chuvas do céu e tempos férteis, dando alimento, e enchendo de alegria os corações dos homens".[^89]
 
-Eis por que os filósofos nada de imperfeito podiam admitir em Deus. Da noção de Deus, afastaram categòricamente tudo o que fosse matéria, crescimento, composição.
+Eis por que os filósofos nada de imperfeito podiam admitir em Deus. Da noção de Deus, afastaram categoricamente tudo o que fosse matéria, crescimento, composição.
 
 Atribuindo-Lhe, pelo contrário, a suma plenitude de todos os bens, consideravam-n'O como fonte perpétua e inexaurível de bondade e clemência, donde se derrama em todas as criaturas tudo o que nelas há de bom e perfeito.
 
@@ -68,9 +68,9 @@ Comprovam esta verdade, muitas passagens dos Livros Sagrados. Está escrito: "Ou
 
 A fé cristã crê, pois, e confessa que Deus é uno em natureza, substância e essência, conforme o definiu o Símbolo do Concílio de Nicéia, em confirmação da verdade. Mas, subindo mais alto, ela crê de tal maneira em Deus Uno que, ao mesmo tempo, adora a Unidade na Trindade, e a Trindade na Unidade.[^108] É desse mistério que vamos tratar agora.
 
-## Padre
+## Pai
 
-[9] No Símbolo, vem a seguir a palavra "Padre".[^109] Ora, dá-se a Deus o nome de "Pai" sob vários pontos de vista. É preciso, pois, explicar primeiro o sentido, que lhe cabe neste lugar.
+[9] No Símbolo, vem a seguir a palavra "Pai".[^109] Ora, dá-se a Deus o nome de "Pai" sob vários pontos de vista. É preciso, pois, explicar primeiro o sentido, que lhe cabe neste lugar.
 
 Não obstante as trevas do paganismo, chegaram alguns homens a reconhecer, sem a luz da fé, que Deus é uma substância eterna, da qual tiveram origem todas as coisas, e cuja Providência tudo governa, e tudo conserva em sua ordem e posição.
 
@@ -82,7 +82,7 @@ Com maior insistência, e num sentido todo particular, Deus é chamado Pai dos c
 
 Os cristãos "não receberam o espírito de servidão, para estarem novamente com temor, mas o espírito da filiação adotiva, o qual nos faz exclamar: Abba, Pai!"[^112] — Tão grande é "o amor do Pai para conosco que somos chamados e de fato somos filhos de Deus".[^113] — "Se, porém, somos filhos, somos também herdeiros, sim, herdeiros de Deus e co-herdeiros de Cristo"[^114], que é o Primogênito entre muitos irmãos[^115], e não se vexa de nos chamar irmãos.[^116]
 
-Considerando, pois, quer o fato comum da Criação e da Providência, quer a grande realidade da adoção sobrenatural, têm os cristãos toda a razão de professarem sua fé em Deus Padre.
+Considerando, pois, quer o fato comum da Criação e da Providência, quer a grande realidade da adoção sobrenatural, têm os cristãos toda a razão de professarem sua fé em Deus Pai.
 
 [10] Além destas noções assim formuladas, o pároco explicará aos fiéis que, ao ouvirem o nome de Pai [aplicado a Deus], devem elevar o espírito para a contemplação de mistérios mais sublimes.
 
@@ -90,15 +90,15 @@ Pelo nome de "Pai", a Revelação nos permite entrever aos poucos o que se acha 
 
 O termo indica que, na unidade da natureza divina, não devemos crer na existência de uma só Pessoa, mas de várias Pessoas realmente distintas.
 
-São três as Pessoas que existem numa só divindade: o Padre, que por ninguém foi gerado; o Filho, que gerado foi pelo Padre, antes de todos os séculos; o Espírito Santo, que também desde toda a eternidade procede do Padre e do Filho. Na unidade da natureza divina, o Padre é a Primeira Pessoa, e "com seu Filho Unigênito e o Espírito Santo é um só Deus e um só Senhor, não na singularidade de uma só Pessoa, mas na trindade de uma só natureza".[^118]
+São três as Pessoas que existem numa só divindade: o Pai, que por ninguém foi gerado; o Filho, que gerado foi pelo Pai, antes de todos os séculos; o Espírito Santo, que também desde toda a eternidade procede do Pai e do Filho. Na unidade da natureza divina, o Pai é a Primeira Pessoa, e "com seu Filho Unigênito e o Espírito Santo é um só Deus e um só Senhor, não na singularidade de uma só Pessoa, mas na trindade de uma só natureza".[^118]
 
-Não é lícito supor, nas três Pessoas, qualquer diferença ou desigualdade. Por conseguinte, só devemos considerá-las distintas em suas respectivas propriedades: o Padre não é gerado; o Filho é gerado pelo Padre; o Espírito Santo procede do Padre e do Filho.
+Não é lícito supor, nas três Pessoas, qualquer diferença ou desigualdade. Por conseguinte, só devemos considerá-las distintas em suas respectivas propriedades: o Pai não é gerado; o Filho é gerado pelo Pai; o Espírito Santo procede do Pai e do Filho.
 
 Desta maneira, confessamos ser a mesma a essência e a substância das três Pessoas; e "na confissão da verdadeira e sempre eterna divindade" cremos que é preciso adorar, pia e santamente, "não só a distinção nas Pessoas, mas também a unidade na essência, e a igualdade na Trindade".[^119]
 
-Quando, pois, dizemos ser o Padre a primeira Pessoa, não é para entender como se na Trindade supuséssemos a idéia de anterior ou posterior, de maior ou menor. Tanta impiedade não deve infiltrar-se nos ânimos dos fiéis, pois que a religião cristã apregoa, com relação às três Pessoas, a mesma eternidade, a mesma glória, e a mesma majestade.[^120]
+Quando, pois, dizemos ser o Pai a primeira Pessoa, não é para entender como se na Trindade supuséssemos a ideia de anterior ou posterior, de maior ou menor. Tanta impiedade não deve infiltrar-se nos ânimos dos fiéis, pois que a religião cristã apregoa, com relação às três Pessoas, a mesma eternidade, a mesma glória, e a mesma majestade.[^120]
 
-Com certeza, e sem a menor dúvida, afirmamos ser o Padre a Primeira Pessoa, porque é um princípio sem princípio. E como se não distingue das outras Pessoas senão pela propriedade de Pai, é a Ela sòmente que se atribui, principalmente, a eterna geração do Filho. Mas, para inculcar que a Primeira Pessoa foi sempre Deus e sempre Pai ao mesmo tempo, é que no Símbolo enunciamos juntos os nomes de Deus e Padre.
+Com certeza, e sem a menor dúvida, afirmamos ser o Pai a Primeira Pessoa, porque é um princípio sem princípio. E como se não distingue das outras Pessoas senão pela propriedade de Pai, é a Ela somente que se atribui, principalmente, a eterna geração do Filho. Mas, para inculcar que a Primeira Pessoa foi sempre Deus e sempre Pai ao mesmo tempo, é que no Símbolo enunciamos juntos os nomes de Deus e Pai.
 
 Ora, não há coisa mais perigosa do que versar este assunto, porque é o mais profundo e o mais difícil de todos; assim como não há mais grave responsabilidade, se viermos a errar na formulação e explicação deste mistério.
 
@@ -106,9 +106,9 @@ Por isso, o pároco ensinará que é preciso reter, religiosamente, os termos "e
 
 No mais, força é evitar toda subtileza de investigação, lembrando-nos do que sentencia a Escritura: "Quem quer sondar a majestade, será oprimido pelo peso de sua glória".[^121]
 
-Para nós, deve bastar a certeza que a fé nos dá, de ter Deus assim falado. Grande loucura e desgraça seria, para nós, o não crermos em Suas palavras: "Ensinai, diz Nosso Senhor, todas as gentes, e batizai-as em nome do Padre, e do Filho, e do Espírito Santo".[^122] E noutro lugar: "Três são os que dão testemunho no céu: o Pai, o Verbo e o Espírito Santo. E estes três são uma só coisa".[^123]
+Para nós, deve bastar a certeza que a fé nos dá, de ter Deus assim falado. Grande loucura e desgraça seria, para nós, o não crermos em Suas palavras: "Ensinai, diz Nosso Senhor, todas as gentes, e batizai-as em nome do Pai, e do Filho, e do Espírito Santo".[^122] E noutro lugar: "Três são os que dão testemunho no céu: o Pai, o Verbo e o Espírito Santo. E estes três são uma só coisa".[^123]
 
-Quem pela graça de Deus crê estas verdades, reze com perseverança, e conjure a Deus Padre, que do nada criou todas as coisas; que tudo dirige com suavidade[^124]; que nos deu o poder de tornar-nos filhos de Deus[^125]; que revelou à inteligência humana o mistério da Santíssima Trindade. Ore, pois, sem interrupção[^126], para ser um dia "recebido nos eternos tabernáculos"[^127]; para ser julgado digno de contemplar essa infinita fecundidade de Deus Padre, que, considerando-Se e reconhecendo-Se a Si mesmo, gera ao Filho, que Lhe é igual e semelhante; — [para ser digno de ver] também como o Espírito Santo, que é de ambos a mesma e igual caridade, procedendo do Padre e do Filho, une entre Si, com vínculo eterno e indissolúvel, Aquele que gera e Aquele que é gerado; — [para ser digno afinal de verificar] como assim existe uma unidade de essência na Divina Trindade, ao mesmo tempo que existe uma perfeita distinção entre as três Pessoas.
+Quem pela graça de Deus crê estas verdades, reze com perseverança, e conjure a Deus Pai, que do nada criou todas as coisas; que tudo dirige com suavidade[^124]; que nos deu o poder de tornar-nos filhos de Deus[^125]; que revelou à inteligência humana o mistério da Santíssima Trindade. Ore, pois, sem interrupção[^126], para ser um dia "recebido nos eternos tabernáculos"[^127]; para ser julgado digno de contemplar essa infinita fecundidade de Deus Pai, que, considerando-Se e reconhecendo-Se a Si mesmo, gera ao Filho, que Lhe é igual e semelhante; — [para ser digno de ver] também como o Espírito Santo, que é de ambos a mesma e igual caridade, procedendo do Pai e do Filho, une entre Si, com vínculo eterno e indissolúvel, Aquele que gera e Aquele que é gerado; — [para ser digno afinal de verificar] como assim existe uma unidade de essência na Divina Trindade, ao mesmo tempo que existe uma perfeita distinção entre as três Pessoas.
 
 ## Todo-Poderoso
 
@@ -116,11 +116,11 @@ Quem pela graça de Deus crê estas verdades, reze com perseverança, e conjure 
 
 Entretanto, o pároco ensinará, em primeiro lugar, que a Deus se atribui com maior frequência o nome de "Onipotente".
 
-Deus declara de Si mesmo: "Eu sou o Senhor Todo-Poderoso".[^128] — Quando enviara os filhos a José, Jacob rezou por eles: "Meu Deus, o Todo-Poderoso, vo-lo torne propício!"[^129] — No Apocalipse também está escrito: "O Senhor Deus, que é, e que era, e que há de vir: o Todo-Poderoso".[^130] — Noutra passagem fala "do grande dia de Deus Todo-Poderoso".[^131]
+Deus declara de Si mesmo: "Eu sou o Senhor Todo-Poderoso".[^128] — Quando enviara os filhos a José, Jacó rezou por eles: "Meu Deus, o Todo-Poderoso, vo-lo torne propício!"[^129] — No Apocalipse também está escrito: "O Senhor Deus, que é, e que era, e que há de vir: o Todo-Poderoso".[^130] — Noutra passagem fala "do grande dia de Deus Todo-Poderoso".[^131]
 
-Algumas vezes, enuncia-se o mesmo atributo por meio de paráfrases, como acontece nas seguintes passagens: "A Deus, nada é impossível".[^132] — "Porventura, a mão do Senhor já não terá força?"[^133] — "Em Vossa mão está usar de poder, quando quiserdes".[^134] — E outras mais, do mesmo sentido, que se resumem indubitàvelmente nesta única palavra: o Todo-Poderoso.
+Algumas vezes, enuncia-se o mesmo atributo por meio de paráfrases, como acontece nas seguintes passagens: "A Deus, nada é impossível".[^132] — "Porventura, a mão do Senhor já não terá força?"[^133] — "Em Vossa mão está usar de poder, quando quiserdes".[^134] — E outras mais, do mesmo sentido, que se resumem indubitavelmente nesta única palavra: o Todo-Poderoso.
 
-Este conceito nos dá a entender que nada existe, nada se pode pensar ou imaginar que Deus não tenha a virtude de realizar. Pode, portanto, não só operar prodígios que, por maiores que sejam, não excedem de maneira absoluta o âmbito de nossas idéias, como por exemplo fazer voltar ao nada todas as coisas, ou num ápice tirar do nada outros mundos; mas pode também fazer coisas muito maiores, que a inteligência humana não chega sequer a suspeitar.
+Este conceito nos dá a entender que nada existe, nada se pode pensar ou imaginar que Deus não tenha a virtude de realizar. Pode, portanto, não só operar prodígios que, por maiores que sejam, não excedem de maneira absoluta o âmbito de nossas ideias, como por exemplo fazer voltar ao nada todas as coisas, ou num ápice tirar do nada outros mundos; mas pode também fazer coisas muito maiores, que a inteligência humana não chega sequer a suspeitar.
 
 [12] Apesar de poder tudo, Deus não pode todavia mentir, nem enganar, nem ser enganado, nem pecar, nem perecer, nem tampouco ignorar alguma coisa. São deficiências que só podem ocorrer numa natureza, cuja operação é imperfeita. Ora, operando sempre de maneira perfeitíssima, Deus não é capaz de tais coisas. O poder fazê-las é sinal de fraqueza, e não se coaduna com o domínio sumo e ilimitado que Deus exerce sobre todas as coisas.
 
@@ -128,17 +128,17 @@ Cremos, portanto, que Deus é Todo-Poderoso, mas dessa crença arredamos para lo
 
 [13] O pároco terá de mostrar que houve sábias e acertadas razões para se omitir no Símbolo os outros atributos divinos, enquanto se propõe à nossa crença este único de Sua onipotência.
 
-Com efeito, desde que reconhecemos a Deus como sendo Todo-Poderoso, força nos é também professar que Ele sabe todas as coisas, e que todas as coisas estão igualmente sujeitas ao Seu poder e soberania. E se não duvidamos que tudo pode, é lògicamente necessário termos por certas as outras perfeições de Deus, porque sem elas não poderíamos absolutamente compreender a Sua onipotência.
+Com efeito, desde que reconhecemos a Deus como sendo Todo-Poderoso, força nos é também professar que Ele sabe todas as coisas, e que todas as coisas estão igualmente sujeitas ao Seu poder e soberania. E se não duvidamos que tudo pode, é logicamente necessário termos por certas as outras perfeições de Deus, porque sem elas não poderíamos absolutamente compreender a Sua onipotência.
 
 Além disso, não há o que mais concorra para firmar a nossa fé e esperança, do que a convicção, profundamente gravada em nossas almas, de que a Deus nada é impossível.[^135]
 
-Tudo o que nos for necessário crer, por grandes e admiráveis que sejam os mistérios, por mais que transcendam as leis ordinárias da natureza, a razão humana os aceitará sem nenhuma hesitação, uma vez que tenha uma idéia exata da onipotência de Deus. Quanto mais sublimes as verdades que vêm de Deus, tanto maior a presteza da razão em acreditá-las.
+Tudo o que nos for necessário crer, por grandes e admiráveis que sejam os mistérios, por mais que transcendam as leis ordinárias da natureza, a razão humana os aceitará sem nenhuma hesitação, uma vez que tenha uma ideia exata da onipotência de Deus. Quanto mais sublimes as verdades que vêm de Deus, tanto maior a presteza da razão em acreditá-las.
 
-Quando tem de esperar algum benefício, o cristão nunca arrefece ante a grandeza do bem almejado. Sente, pelo contrário, sua coragem e esperança crescerem com a idéia de que a Deus Todo-Poderoso nada é impossível.
+Quando tem de esperar algum benefício, o cristão nunca arrefece ante a grandeza do bem almejado. Sente, pelo contrário, sua coragem e esperança crescerem com a ideia de que a Deus Todo-Poderoso nada é impossível.
 
 Esta fé e confiança devem alentar-nos, principalmente nas obras extraordinárias que tivermos de empreender, para o bem e proveito do próximo; ou quando quisermos implorar alguma mercê de Deus. O próprio Nosso Senhor nos ensinou o primeiro destes deveres, ao censurar a incredulidade dos Apóstolos: "Se tiverdes fé como um grão de mostarda, direis a este monte: Passa daqui para lá, e ele passará. Nada vos será impossível".[^136]
 
-O segundo dever, o Apóstolo Santiago no-lo inculca: "Peça com fé, sem nenhuma hesitação, pois quem hesita assemelha-se à onda do mar, que o vento chicoteia de um lado para outro. Não cuide, pois, tal homem que do Senhor receberá alguma coisa".[^137]
+O segundo dever, o Apóstolo São Tiago no-lo inculca: "Peça com fé, sem nenhuma hesitação, pois quem hesita assemelha-se à onda do mar, que o vento chicoteia de um lado para outro. Não cuide, pois, tal homem que do Senhor receberá alguma coisa".[^137]
 
 Sob outros pontos de vista, a fé na onipotência divina dá-nos ainda muitas vantagens. Ensina-nos, em primeiro lugar, uma perfeita modéstia e humildade de espírito, segundo a afirmação do Príncipe dos Apóstolos: "Humilhai-vos debaixo da poderosa mão de Deus".[^138]
 
@@ -156,11 +156,11 @@ Isto não obstante, damos ao Pai esse atributo, pela especial razão de ser Ele 
 
 Pois Deus não formou o mundo de uma matéria preexistente, mas criou-o do nada, sem a tanto ser obrigado por violência estranha ou necessidade natural; mas por Sua livre e espontânea vontade.
 
-Nenhum outro motivo O impeliu a criar o mundo, senão a Sua própria bondade. Queria comunicá-la a todas as coisas que criasse. Possuindo por Sua natureza toda a felicidade, Deus não tem falta de coisa nenhuma, como o exprime o rei David: "Disse eu ao Senhor: Vós sois o meu Deus, e não tendes precisão dos meus bens".[^145]
+Nenhum outro motivo O impeliu a criar o mundo, senão a Sua própria bondade. Queria comunicá-la a todas as coisas que criasse. Possuindo por Sua natureza toda a felicidade, Deus não tem falta de coisa nenhuma, como o exprime o rei Davi: "Disse eu ao Senhor: Vós sois o meu Deus, e não tendes precisão dos meus bens".[^145]
 
 Assim como não obedeceu senão à própria bondade, para "fazer tudo o que era do Seu agrado"[^146], assim também não seguiu na criação nenhum modelo que estivesse fora de Sua própria natureza.
 
-Sua inteligência infinita possui, dentro de Si mesma, a idéia exemplar de todas as coisas. Contemplando, pois, em Si mesmo essa idéia exemplar; e reproduzindo-a, por assim dizer, com a suma sabedoria e o infinito poder, que Lhe são próprios, o Supremo Artífice[^147] criou no princípio todas as coisas do Universo. "Ele disse, e tudo foi feito; Ele mandou, e tudo foi criado".[^148]
+Sua inteligência infinita possui, dentro de Si mesma, a ideia exemplar de todas as coisas. Contemplando, pois, em Si mesmo essa ideia exemplar; e reproduzindo-a, por assim dizer, com a suma sabedoria e o infinito poder, que Lhe são próprios, o Supremo Artífice[^147] criou no princípio todas as coisas do Universo. "Ele disse, e tudo foi feito; Ele mandou, e tudo foi criado".[^148]
 
 [16] Pelos termos "céu e terra", deve tomar-se tudo o que o céu e a terra compreendem. Além dos céus, que o Profeta considerava como "obra de Suas mãos"[^149], Deus criou também a claridade do sol e o encanto da lua e dos outros corpos celestes, para que "servissem de sinais para os tempos, os dias e os anos".[^150] Aos astros marcou uma órbita inalterável, de sorte que não pode haver coisa mais rápida que suas contínuas rotações, nem coisa mais regular que sua velocidade.
 
@@ -172,7 +172,7 @@ Santo Agostinho diz a respeito: "Criou os Anjos e dotou-os de boa vontade, quer 
 
 Quanto ao grau da ciência [angélica], há um testemunho das Sagradas Letras: "Vós, Senhor meu Rei, sois sábio, como a sabedoria que tem um Anjo de Deus, para entendermos tudo o que se passa sobre a terra".[^153]
 
-Indicam enfim o poder dos Anjos as palavras que lhes aplica o rei David: "Sois poderosos e fortes, e executais a Sua vontade".[^154] Por esse motivo, a Sagrada Escritura lhes dá, muitas vezes, o nome de "virtudes e exércitos do Senhor".[^155]
+Indicam enfim o poder dos Anjos as palavras que lhes aplica o rei Davi: "Sois poderosos e fortes, e executais a Sua vontade".[^154] Por esse motivo, a Sagrada Escritura lhes dá, muitas vezes, o nome de "virtudes e exércitos do Senhor".[^155]
 
 Dotados que eram, todos, de prendas celestiais, muitos deles abandonaram todavia a Deus, seu Pai e Criador. Foram, por conseguinte, derrubados de seus altos tronos, e detidos numa prisão muito escura da terra, onde agora sofrem o eterno castigo de sua soberba.
 
@@ -186,9 +186,9 @@ Em seguida, revestiu a terra de árvores e de toda a sorte de flores; encheu-a t
 
 A alma, porém, Deus a criou à Sua imagem e semelhança, e dotou-a de livre arbítrio. Além de tudo, regulou os movimentos e apetites da alma, de sorte que sempre obedecessem ao império da razão. Finalmente, deu-lhe ainda o admirável dom da justiça original, e quis que tivesse o governo de todos os outros seres animados.
 
-Estas verdades, os párocos podem fàcilmente examinar [mais a fundo] na santa história do Gênesis, quando fizerem a instrução dos fiéis.[^158]
+Estas verdades, os párocos podem facilmente examinar [mais a fundo] na santa história do Gênesis, quando fizerem a instrução dos fiéis.[^158]
 
-[20] Com as noções "do céu e da terra", compreende-se, pois, a criação de todas as coisas. O Profeta David resumiu tudo em poucas palavras: "Vossos são os céus, e vossa é a terra. Vós criastes o orbe da terra, e tudo o que nele se contém".[^159]
+[20] Com as noções "do céu e da terra", compreende-se, pois, a criação de todas as coisas. O Profeta Davi resumiu tudo em poucas palavras: "Vossos são os céus, e vossa é a terra. Vós criastes o orbe da terra, e tudo o que nele se contém".[^159]
 
 Com maior concisão ainda, souberam exprimir-se os Padres do Concílio de Nicéia, ao acrescentarem ao Símbolo só duas palavras: "das coisas visíveis e invisíveis".[^160] Tudo o que o mundo abrange, e que reconhecemos como criado por Deus, — ou entra pelos sentidos, e chama-se "visível", — ou só pode ser percebido pela inteligência, e chama-se então "invisível".
 
@@ -204,13 +204,13 @@ Por esse motivo, ao anunciar aos atenienses o Deus que eles adoravam, sem O conh
 
 [23] O que foi dito até agora, bastará para a explicação do primeiro Artigo. Resta-nos, ainda, advertir que a Criação é obra comum de todas as três Pessoas da Santa e Indivisível Trindade.
 
-Neste lugar, confessamos pela doutrina dos Apóstolos, que o Padre é o Criador do céu e da terra. Nas Escrituras, porém, lemos com relação ao Filho que "por Ele foram feitas todas as coisas".[^164] Acerca do Espírito Santo: "O Espírito de Deus movia-Se por sobre as águas".[^165] Noutro lugar: "Pela palavra do Senhor foram assentes os céus, e do hálito de Sua boca procede toda a pujança [de vida]".[^166]
+Neste lugar, confessamos pela doutrina dos Apóstolos, que o Pai é o Criador do céu e da terra. Nas Escrituras, porém, lemos com relação ao Filho que "por Ele foram feitas todas as coisas".[^164] Acerca do Espírito Santo: "O Espírito de Deus movia-Se por sobre as águas".[^165] Noutro lugar: "Pela palavra do Senhor foram assentes os céus, e do hálito de Sua boca procede toda a pujança [de vida]".[^166]
 
 [^72]: Em latim: articulis. Articulus quer dizer junta ou articulação.
 [^74]: 2 Cor 4, 6.
 [^75]: 2 Cor 4, 3.
 [^76]: Rom 3, 4.
-[^78]: Isto não é uma negação do axioma "fides quaerens intellectum". O CRO só não quer que o ato de fé, como tal, dependa de uma prévia demonstração. DU 1637 1812 1813 1706.
+[^78]: Isto não é uma negação do axioma "fides quaerens intellectum". O CRO só não quer que o ato de fé, como tal, dependa de uma prévia demonstração. DU 1637 1812 1813 1796.
 [^79]: Ps 115, 10.
 [^80]: Act 4, 20.
 [^81]: Rom 1, 16.
@@ -234,14 +234,14 @@ Neste lugar, confessamos pela doutrina dos Apóstolos, que o Padre é o Criador 
 [^99]: Ier 23, 24.
 [^100]: Hebr 11, 6.
 [^101]: Is 64, 4; cfr. 1 Cor 2, 9.
-[^102]: Aqui falta, ao que parece, uma pequena transição como por exemplo: "A perfeição suma e absoluta é exclusiva por natureza. Se a vários coubesse simultâneamente, só poderia ser gradual e relativa. Ora, se..."
+[^102]: Aqui falta, ao que parece, uma pequena transição como por exemplo: "A perfeição suma e absoluta é exclusiva por natureza. Se a vários coubesse simultaneamente, só poderia ser gradual e relativa. Ora, se..."
 [^103]: Deut 6, 4.
 [^104]: Exod 20, 3.
 [^105]: Is 41, 4; 44, 6; 48, 12; cfr. Apoc 1, 17; 22, 13.
 [^106]: Eph 4, 5; DU 1782 1801.
 [^107]: Exod 7, 1; 22, 28; Ps 81, 1-6; 94, 3.
 [^108]: SQ.
-[^109]: Designação antiga de "Pai", conservada nas versões oficiais do Credo e do Padre-Nosso. Não convém substituí-la por "Pai", e dizer "Pai nosso que estais nos céus", ou ainda "Nosso Pai que estais, etc.". Mudanças que tais representam, a nosso ver, uma mal avisada adaptação às fórmulas protestantes. Além disso, destroem a uniformidade de nossas versões oficiais.
+[^109]: Esta edição modernizou "Padre" para "Pai" para conformar-se ao uso brasileiro contemporâneo. A tradução original (Frei Leopoldo Pires Martins, OFM, 1951) preservava "Padre", designação antiga conservada nas versões oficiais do Credo e do Padre-Nosso, argumentando que substituí-la representaria uma mal avisada adaptação às fórmulas protestantes e destruiria a uniformidade das versões oficiais. O tradutor acrescentava ainda que a uniformidade litúrgica não se observa em todas as línguas modernas; veja-se, por exemplo, o Pai-Nosso em francês ou a Salve-Rainha em alemão.
 [^110]: Deut 32, 6.
 [^111]: Mal 2, 10.
 [^112]: Rom 8, 15.

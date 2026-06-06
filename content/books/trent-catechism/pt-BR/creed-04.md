@@ -6,7 +6,7 @@
 
 [1] Pela declaração de "não conhecer outra coisa senão a Jesus Cristo, e por sinal que Crucificado"[^258], o Apóstolo apregoa a grande necessidade de conhecermos este Artigo, e o zelo que deve ter o pároco em exortar os fiéis a meditarem, o mais possível, a Paixão de Nosso Senhor.
 
-O pároco desvelar-se-á em explicar esta verdade com a maior clareza, para que a lembrança de tão insigne benefício comova os fiéis, e os induza a estimar, devidamente, o amor e a bondade de Deus para conosco.
+O pároco desvelar-se-á em explicar esta verdade com a maior clareza, para que a lembrança de tão insigne benefício comova os fiéis, e os induza a estimar[^259], devidamente, o amor e a bondade de Deus para conosco.
 
 A primeira parte deste Artigo — da segunda se falará mais adiante — nos propõe a crer que Cristo Nosso Senhor foi crucificado, quando Pôncio Pilatos governava, em nome de Tibério César, a província da Judéia. Fora encarcerado, escarnecido, coberto de toda a sorte de opróbrios e tormentos, e finalmente arvorado no madeiro da Cruz.
 
@@ -42,7 +42,7 @@ Vamos falar de algumas figuras. Representavam, antecipadamente, a Paixão e Mort
 
 Quanto aos Profetas, é por demais conhecido o número dos que vaticinaram sobre o mesmo assunto. Não se faz mister entrar aqui em pormenores.
 
-Sem falar de David que, nos Salmos, abrangeu todos os principais mistérios de nossa Redenção[^272], distinguem-se, entre as mais, as predições de Isaías. São tão claras e evidentes que, com razão, se nos afiguram ser antes a narração de fatos consumados, do que uma previsão de coisas futuras.[^273]
+Sem falar de Davi que, nos Salmos, abrangeu todos os principais mistérios de nossa Redenção[^272], distinguem-se, entre as mais, as predições de Isaías. São tão claras e evidentes que, com razão, se nos afiguram ser antes a narração de fatos consumados, do que uma previsão de coisas futuras.[^273]
 
 ## Morto e sepultado
 
@@ -62,9 +62,9 @@ Assim pois profetizara Isaías: "Foi imolado, porque Ele próprio o quis".[^276]
 
 Quando Herodes espreitava a ocasião de Lhe dar a morte, Cristo mesmo Se declarou a respeito do tempo e lugar: "Ide dizer a essa raposa: Eis que lanço fora os demônios, e faço curas hoje e amanhã, e no terceiro dia morrerei. Mas, hoje e amanhã, e no dia seguinte, devo ainda caminhar, porque não convém que um profeta pereça fora de Jerusalém".[^278]
 
-Cristo nada fez, portanto, contra a Sua vontade, ou por imposição alheia. Pelo contrário, foi voluntàriamente que Se entregou a Si mesmo. Indo ao encontro de Seus inimigos, disse-lhes: "Sou Eu".[^279] E de livre vontade aturou todos os iníquos e cruéis tormentos, que Lhe foram infligidos.
+Cristo nada fez, portanto, contra a Sua vontade, ou por imposição alheia. Pelo contrário, foi voluntariamente que Se entregou a Si mesmo. Indo ao encontro de Seus inimigos, disse-lhes: "Sou Eu".[^279] E de livre vontade aturou todos os iníquos e cruéis tormentos, que Lhe foram infligidos.
 
-Quando nos pomos a meditar todas as Suas dores e padecimentos, esta é a circunstância que mais nos deve empolgar o coração. Se alguém tivera sofrido por nós todas as dores, não espontâneamente, mas só por não poder evitá-las, é certo que nessa atitude não veríamos uma mercê de grande valor. Mas, quando alguém sofre a morte só por nossa causa; quando o faz de livre vontade, ainda que lhe seja possível esquivar-se, — então é que nos dá realmente uma prova de extrema bondade. Por mais que desejasse, ninguém teria meios de lho agradecer, e muito menos de lho retribuir condignamente. Por tal critério podemos avaliar: o soberano e extremado amor de Jesus Cristo, os direitos divinos e infinitos que adquiriu sobre o nosso coração.
+Quando nos pomos a meditar todas as Suas dores e padecimentos, esta é a circunstância que mais nos deve empolgar o coração. Se alguém tivera sofrido por nós todas as dores, não espontaneamente, mas só por não poder evitá-las, é certo que nessa atitude não veríamos uma mercê de grande valor. Mas, quando alguém sofre a morte só por nossa causa; quando o faz de livre vontade, ainda que lhe seja possível esquivar-se, — então é que nos dá realmente uma prova de extrema bondade. Por mais que desejasse, ninguém teria meios de lho agradecer, e muito menos de lho retribuir condignamente. Por tal critério podemos avaliar: o soberano e extremado amor de Jesus Cristo, os direitos divinos e infinitos que adquiriu sobre o nosso coração.
 
 ## Sepultura de Jesus
 
@@ -94,7 +94,7 @@ Se Cristo se contorcia, aos golpes de tantos tormentos, que muito se abalasse ta
 
 Quem quiser saber por que razão o Filho de Deus Se sujeitou ao mais cruel dos sofrimentos, verá que, além da culpa hereditária de nossos primeiros Pais, a causa principal são os vícios e pecados que os homens cometeram, desde a origem do mundo até a presente data, e os que hão de cometer futuramente, até a consumação dos séculos.
 
-Pela Sua Paixão e Morte, o Filho de Deus e Salvador nosso tinha em mira resgatar e destruir os pecados de todas as gerações, e por eles oferecer ao Eterno Padre uma satisfação completa e exuberante.
+Pela Sua Paixão e Morte, o Filho de Deus e Salvador nosso tinha em mira resgatar e destruir os pecados de todas as gerações, e por eles oferecer ao Eterno Pai uma satisfação completa e exuberante.
 
 Sobe de ponto a sublimidade de Sua Paixão, não só porque Cristo sofreu pelos pecadores, mas porque os próprios pecadores foram também autores e instrumentos de todas as penas, pelas quais teve de passar.
 
@@ -104,9 +104,9 @@ Devem julgar-se responsáveis de tal culpa todos aqueles que continuam a reincid
 
 Tal crime assume em nós um caráter mais grave, do que no caso dos judeus; porquanto estes, no sentir do Apóstolo, "nunca teriam crucificado o Senhor da glória, se [como tal] O tivessem conhecido".[^289] Nós, porém, que [de boca] afirmamos conhecê-l'O, nem por isso deixamos, por assim dizer, de levantar as mãos contra Ele, todas as vezes que O negamos em nossas obras.
 
-[12] Pela doutrina da Sagrada Escritura, Cristo foi entregue não só pelo Padre, mas também por Si mesmo.
+[12] Pela doutrina da Sagrada Escritura, Cristo foi entregue não só pelo Pai, mas também por Si mesmo.
 
-Deus Padre diz pela boca do profeta Isaías: "Eu O feri, por causa da maldade do Meu povo".[^290] E pouco antes, ao contemplar, por inspiração do Espírito Santo, o Senhor coberto de chagas e feridas, o mesmo Profeta havia declarado: "Todos nós nos desgarramos à maneira de ovelhas. Cada qual se extraviou para seu caminho [errado]. E o Senhor descarregou, sobre Ele, a iniquidade de todos nós".[^291]
+Deus Pai diz pela boca do profeta Isaías: "Eu O feri, por causa da maldade do Meu povo".[^290] E pouco antes, ao contemplar, por inspiração do Espírito Santo, o Senhor coberto de chagas e feridas, o mesmo Profeta havia declarado: "Todos nós nos desgarramos à maneira de ovelhas. Cada qual se extraviou para seu caminho [errado]. E o Senhor descarregou, sobre Ele, a iniquidade de todos nós".[^291]
 
 Do Filho, porém, está escrito: "Quando tiver sacrificado Sua vida pelo pecado, verá uma longa posteridade".[^292]
 
@@ -148,7 +148,7 @@ Finalmente, destruindo o pecado, franqueou-nos a entrada para o céu, à qual pu
 
 Na Antiga Aliança, não faltava uma figura deste mistério. Assim, por exemplo, aqueles proscritos, aos quais era defeso repatriar-se antes da morte do sumo-sacerdote[^304], eram uma figura dos justos que, apesar de sua justiça e santidade, não podiam transpor o limiar da Pátria Celestial, antes da Morte de Jesus Cristo, o Sumo e Eterno Sacerdote.[^305] Logo que Cristo a sofreu, as portas do céu de pronto se abriram a todos os que, purificados pelos Sacramentos, possuídos de fé, esperança e caridade, se tornaram participantes de Sua Paixão.
 
-[15] O pároco demonstrará que todos estes dons divinos nos advêm da Paixão de Nosso Senhor. Em primeiro lugar, porque Sua Morte é uma satisfação cabal, e em todos os sentidos perfeita, que Jesus Cristo rendeu a Deus Padre pelos nossos pecados, de uma maneira toda particular. O resgate que pagou em nosso lugar, não só igualava com a nossa dívida, mas era-lhe até muito superior.[^306]
+[15] O pároco demonstrará que todos estes dons divinos nos advêm da Paixão de Nosso Senhor. Em primeiro lugar, porque Sua Morte é uma satisfação cabal, e em todos os sentidos perfeita, que Jesus Cristo rendeu a Deus Pai pelos nossos pecados, de uma maneira toda particular. O resgate que pagou em nosso lugar, não só igualava com a nossa dívida, mas era-lhe até muito superior.[^306]
 
 Em segundo lugar, por ter sido infinitamente agradável a Deus o sacrifício que o Filho Lhe ofereceu no altar da Cruz, e pelo qual abrandou inteiramente a cólera e indignação do Pai. Esta é a convicção do Apóstolo, quando nos afirma: "Cristo amou-nos, e por nosso amor Se entregou a Si mesmo, como vítima de suave odor para Deus".[^307]
 
@@ -159,6 +159,7 @@ A par destes imensos benefícios, recebemos ainda outro que de todos é talvez o
 Eis, em poucas palavras, o que importa saber da salutar Paixão e Morte de Cristo Nosso Senhor. Oxalá possamos sempre meditar estes mistérios no fundo do coração, para aprendermos a sofrer, morrer e sepultar-nos com Nosso Senhor. Se nos purificarmos então de toda mancha de pecado, e ressurgirmos com Ele para uma vida nova, seremos um dia, por Sua graça e misericórdia, dignos de ter parte na glória do Reino celestial.
 
 [^258]: 1 Cor 2, 2.
+[^259]: Uma variante diz "suscipiendam" em vez de "suspiciendam".
 [^260]: Mt 26, 38; DU 1339.
 [^261]: 1 Tim 6, 13.
 [^262]: Mt 20, 19.
@@ -171,41 +172,41 @@ Eis, em poucas palavras, o que importa saber da salutar Paixão e Morte de Crist
 [^269]: Gen 22, 1-14.
 [^270]: Exod 12, 1-14; 21 ss.
 [^271]: Num 21, 4-9.
-[^272]: Com menção especial dos Salmos Messiânicos que são: 2 15 21 44 71 109 (8 68 108) etc.
+[^272]: Com menção especial dos Salmos Messiânicos que são: 2 15 21 44 71 109 (8 68 108) etc. Os exegetas oscilam na classificação.
 [^273]: Hieron. epist. ad Paulinum ante finem.
-[^274]: Mt 25, 70; Mc 15, 37; Lc 23, 46; Io 19, 30; 1 Petr 3, 18. DU 143 344 422.
-[^275]: Hebr 2, 14; DU 938 2038.
+[^274]: Mt 25, 70; Mc 15, 37; Lc 23, 46; Jo 19, 30; 1Pd 3, 18. DU 143 344 422.
+[^275]: Hb 2, 14; DU 938 2038.
 [^276]: Is 53, 7; DU 255 774.
-[^277]: Io 10, 17-18.
-[^278]: Lc 13, 32-33.
-[^279]: Io 18, 5; DU 215 255 717d.
-[^280]: Ps 15, 10; Act 2, 27-31; DU 255 344 462.
-[^281]: Io 1, 1.
-[^282]: Hebr 1, 2-3.
-[^283]: Rom 11, 36.
+[^277]: Jo 10, 17-18.
+[^278]: Lc 13, 32-33. Existe a variante 'consumor' em vez de 'consummor'.
+[^279]: Jo 18, 5; DU 215 255 717d.
+[^280]: Sl 15, 10; At 2, 27-31; DU 255 344 462.
+[^281]: Jo 1, 1.
+[^282]: Hb 1, 2-3.
+[^283]: Rm 11, 36.
 [^284]: Mt 27, 51.
 [^285]: Lc 23, 44-45.
-[^286]: 1 Petr 2, 5.
-[^287]: Hebr 12, 3.
-[^288]: Hebr 6, 6.
+[^286]: 1Pd 2, 5.
+[^287]: Hb 12, 3.
+[^288]: Hb 6, 6.
 [^289]: 1 Cor 2, 8.
 [^290]: Is 53, 8.
 [^291]: Is 53, 6.
 [^292]: Is 53, 10.
-[^293]: Rom 8, 32.
+[^293]: Rm 8, 32.
 [^294]: Lc 22, 44.
-[^295]: Ps 2, 2.
-[^296]: Col 1, 24.
+[^295]: Sl 2, 2.
+[^296]: Cl 1, 24.
 [^297]: 2 Cor 7, 4.
-[^298]: Mt 26, 39; Ps 68, 22; 141, 5; Lc 22, 42.
-[^299]: Apoc 1, 5.
-[^300]: Col 2, 13-14; DU 26 319 323 903.
-[^301]: Io 12, 31-32; DU 371.
-[^302]: Rom 5, 10; 2 Cor 5, 19; DU 122 550 790 794 ss. 938.
-[^303]: Hebr 10, 19; DU 711.
-[^304]: Num 30, 25; Ios 20, 6.
-[^305]: Hebr 9, 11 ss.
-[^306]: Rom 5, 19-21. "Ó feliz culpa que [nos] mereceu tal e tão grande Redentor!" (Precônio Pascal no Sábado Santo). DU 319 532 552.
-[^307]: Eph 5, 2.
-[^308]: 1 Petr 1, 18-19.
-[^309]: Gal 3, 13.
+[^298]: Mt 26, 39; Sl 68, 22; 141, 5; Lc 22, 42.
+[^299]: Ap 1, 5.
+[^300]: Cl 2, 13-14; DU 26 319 323 903.
+[^301]: Jo 12, 31-32; DU 371.
+[^302]: Rm 5, 10; 2Cor 5, 19; DU 122 550 790 794 ss. 938.
+[^303]: Hb 10, 19; DU 711.
+[^304]: Nm 30, 25; Js 20, 6.
+[^305]: Hb 9, 11 ss.
+[^306]: Rm 5, 19-21. "Ó feliz culpa que [nos] mereceu tal e tão grande Redentor!" (Precônio Pascal no Sábado Santo). DU 319 532 552.
+[^307]: Ef 5, 2.
+[^308]: 1Pd 1, 18-19.
+[^309]: Gl 3, 13; DU 286.

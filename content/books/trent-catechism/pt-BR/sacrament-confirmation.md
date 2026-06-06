@@ -10,7 +10,7 @@ Os fiéis chegam assim a reconhecer que não lhes será lícito menosprezar este
 
 ## Explicação etimológica
 
-[2] A começar pela explicação do nome, deve ensinar-se que a Igreja lhe chama "Confirmação", porque no momento em que o Bispo unge com o santo Crisma, pronunciando a fórmula solene: "Eu marco-te com o sinal da Cruz, e confirmo-te com o Crisma da salvação, em nome do Padre, e do Filho, e do Espírito Santo": — o batizado torna-se mais firme pela virtude da nova graça, e começa a ser um perfeito soldado de Cristo, se não puser nenhum obstáculo à eficácia do Sacramento.
+[2] A começar pela explicação do nome, deve ensinar-se que a Igreja lhe chama "Confirmação", porque no momento em que o Bispo unge com o santo Crisma, pronunciando a fórmula solene: "Eu marco-te com o sinal da Cruz, e confirmo-te com o Crisma da salvação, em nome do Pai, e do Filho, e do Espírito Santo": — o batizado torna-se mais firme pela virtude da nova graça, e começa a ser um perfeito soldado de Cristo, se não puser nenhum obstáculo à eficácia do Sacramento.
 
 ## A Crisma verdadeiro Sacramento
 
@@ -108,7 +108,7 @@ Ora, como o Senhor não santificara, por uso e contacto pessoal, a matéria da C
 
 ### 1. Seu teor
 
-A forma completa da Crisma resume-se nas seguintes palavras: "Eu marco-te com o sinal da Cruz, e confirmo-te com o Crisma da salvação, em nome do Padre, e do Filho, e do Espírito Santo".
+A forma completa da Crisma resume-se nas seguintes palavras: "Eu marco-te com o sinal da Cruz, e confirmo-te com o Crisma da salvação, em nome do Pai, e do Filho, e do Espírito Santo".
 
 Se quisermos, um simples raciocínio pode mostrar-nos a justeza destas palavras, porquanto a forma sacramental deve abranger tudo o que exprime a natureza e a substância do próprio Sacramento.
 
@@ -116,7 +116,7 @@ Se quisermos, um simples raciocínio pode mostrar-nos a justeza destas palavras,
 
 [12] Ora, são três os pontos essenciais que nos cumpre realçar na Confirmação: o poder divino, que opera no Sacramento como causa primária; o vigor do coração e do espírito, que a sagrada unção comunica aos fiéis para a sua salvação; por último, o sinal com que é marcado quem vai descer à liça das hostes cristãs.
 
-Ao primeiro ponto se referem claramente as palavras finais: "em nome do Padre, e do Filho, e do Espírito Santo". Ao segundo, as palavras do meio: "confirmo-te com o Crisma da salvação". Ao terceiro, as palavras iniciais: "Eu marco-te com o sinal da Cruz".
+Ao primeiro ponto se referem claramente as palavras finais: "em nome do Pai, e do Filho, e do Espírito Santo". Ao segundo, as palavras do meio: "confirmo-te com o Crisma da Salvação". Ao terceiro, as palavras iniciais: "Eu marco-te com o sinal da Cruz".
 
 Em rigor, não dispõe a razão de elementos bastantes, para provar que essa é a forma autêntica e perfeita do Sacramento; mas a autoridade da Igreja Católica não permite que disso tenhamos a menor dúvida, conforme o que sempre aprendemos do seu magistério oficial.
 
@@ -299,13 +299,13 @@ Sejam estes pontos um ligeiro apanhado da doutrina, que os pastores deverão exp
 [^31]: Era o diácono Filipe (cfr. Act 8, 5).
 [^32]: Cfr. Act 19, 6.
 [^33]: DU 98 419 1458 3035 3041. Urbani epist. ad omnes christianos in fine; Euseb. epist. 3 ad episc. Tusciae et Campaniae; Damasi epist. 4 ad Prosperum et Caet. episc. orthodoxos circa medium; Innocent. epist. 1 ad Veren. c. 3; Leon. epist. 88 ad Germaniae et Galliae episc.
-[^34]: Aug. Quaestiones vet. et nov. Testam. 1, 101. É uma obra pseudo-agostiniana (cfr. RK II p. 80). O CIC diz o seguinte: "Ministro extraordinário é o presbítero a quem é concedida essa faculdade, quer por direito comum, quer por especial indulto da Santa Sé Apostólica" (cân. 782 § 2). Por decreto de 14 de Setembro de 1946, a S. Congregação dos Sacramentos permitiu, sob certas cláusulas, que os párocos territoriais, e os que lhes são canônicamente equiparados, excluídos os párocos pessoais e familiares, possam crismar os enfermos que estejam em verdadeiro perigo de morte.
+[^34]: Aug. Quaestiones vet. et nov. Testam. 1, 101. É uma obra pseudo-agostiniana (cfr. RK II p. 80). O CIC diz o seguinte: "Ministro extraordinário é o presbítero a quem é concedida essa faculdade, quer por direito comum, quer por especial indulto da Santa Sé Apostólica" (cân. 782 § 2). Por decreto de 14 de Setembro de 1946, a S. Congregação dos Sacramentos permitiu, sob certas cláusulas, que os párocos territoriais, e os que lhes são canonicamente equiparados, excluídos os párocos pessoais e familiares, possam crismar os enfermos que estejam em verdadeiro perigo de morte. Interessante para nós é que o decreto cita em nota o Catecismo Romano.
 [^35]: Ao que parece, pela cláusula "si haberi possit" (cân. 793), o CIC já não impõe com rigor a necessidade de padrinho na Confirmação (RK II p. 81).
 [^36]: Esse impedimento foi abolido pelo CIC (cân. 1079, combinado com os 768 e 797).
 [^37]: "Quanquam hoc Sacramentum non est de necessitate medii ad salutem, nemini tamen licet, oblata occasione, illud negligere; imo parochi curent ut fideles ad illud opportuno tempore accedant" (CIC, cân. 787).
 [^38]: Acidentalmente, a Crisma pode ser até de absoluta necessidade para as pessoas que correm perigo de perder a fé.
 [^39]: Act 2, 2 ss.
-[^40]: A S. Congregação dos Sacramentos declarou que, na Península Ibérica e na América Latina, pode conservar-se o antigo costume de crismar as crianças antes de chegarem ao uso da razão; mas, que os fiéis sejam frequentemente instruídos acerca da lei universal da Igreja Latina. Salvo caso de necessidade, a dita Congregação acha conveniente que, na Igreja Latina, as crianças sejam crismadas antes da Primeira Comunhão (AS XIV, 1932, p. 271; cfr. Ibidem XXIII, 1931, 353).
+[^40]: A S. Congregação dos Sacramentos declarou que, na Península Ibérica e na América Latina, pode conservar-se o antigo costume de crismar as crianças antes de chegarem ao uso da razão; mas, que os fiéis sejam frequentemente instruídos acerca da lei universal da Igreja Latina. Salvo caso de necessidade, a dita Congregação acha conveniente que, na Igreja Latina, as crianças sejam crismadas antes da Primeira Comunhão (AASXXIV, 1932, p. 271; cfr. Ibidem XXIII, 1931, 353). Noldim, citando o CRO, diz que esta norma acerca da idade não é puramente diretiva, mas preceptiva (III lib. 3 q. 4 nº 91). Cfr. CIC 788.
 [^41]: Conc. Aurel. c. 3. — A sugestão do CRO é hoje impraticável, dada a tendência geral, pelo menos no Brasil, de se administrar a Crisma nas horas da tarde.
 [^42]: Como Sacramento dos vivos, a Crisma pressupõe o estado de graça. Só confere a graça primeira, quando se trata de pecados esquecidos, etc. Seria sacrilégio receber a Crisma, com plena consciência de um pecado mortal.
 [^43]: 1 Petr 2, 2.

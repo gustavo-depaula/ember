@@ -18,7 +18,7 @@ Quando os cristãos meditam seriamente que, por mercê e dádiva do Espírito Sa
 
 ### 1. Nome
 
-[2] A exposição do Artigo deve começar pelo sentido que, neste lugar, se dá ao termo "Espírito Santo". Com toda a propriedade, é atribuído o mesmo nome ao Padre e ao Filho, pois que ambos são "Espírito"[^421] e "Santo"[^422]; e que, de nossa parte, confessamos que Deus é um [puro] espírito. Além disso, aplicamos a mesma designação aos Anjos[^423] e às almas dos justos.[^424] Portanto, é preciso atender que o povo não caia em erro, pela ambiguidade de expressão.
+[2] A exposição do Artigo deve começar pelo sentido que, neste lugar, se dá ao termo "Espírito Santo". Com toda a propriedade, é atribuído o mesmo nome ao Pai e ao Filho, pois que ambos são "Espírito"[^421] e "Santo"[^422]; e que, de nossa parte, confessamos que Deus é um [puro] espírito. Além disso, aplicamos a mesma designação aos Anjos[^423] e às almas dos justos.[^424] Portanto, é preciso atender que o povo não caia em erro, pela ambiguidade de expressão.
 
 ### a) Significação
 
@@ -26,9 +26,9 @@ Quando os cristãos meditam seriamente que, por mercê e dádiva do Espírito Sa
 
 Devemos ensinar que, neste Artigo, o nome de "Espírito Santo" indica a Terceira Pessoa da Santíssima Trindade, conforme o sentido que ocorre nas Sagradas Escrituras, algumas vezes no Antigo, e com frequência em o Novo Testamento.
 
-Assim rezava David: "E não tireis de mim o Vosso Espírito Santo!"[^425] No Livro da Sabedoria lemos a passagem: "Quem conhecerá os Vossos desígnios, se Vós lhe não derdes a sabedoria, e das maiores alturas lhe não enviardes o Vosso Santo Espírito?"[^426] E noutro lugar: "Ele próprio a criou [a sabedoria] no Espírito Santo"[^427].
+Assim rezava Davi: "E não tireis de mim o Vosso Espírito Santo!"[^425] No Livro da Sabedoria lemos a passagem: "Quem conhecerá os Vossos desígnios, se Vós lhe não derdes a sabedoria, e das maiores alturas lhe não enviardes o Vosso Santo Espírito?"[^426] E noutro lugar: "Ele próprio a criou [a sabedoria] no Espírito Santo"[^427].
 
-Em o Novo Testamento, recebemos ordem de sermos batizados "em nome do Padre, e do Filho, e do Espírito Santo"[^428]. Lemos também que a Santíssima Virgem "concebeu do Espírito Santo"[^429]. São João [Batista] envia-nos a Cristo, que "nos batiza no Espírito Santo"[^430]. Quando lemos as Escrituras, depara-se-nos a mesma expressão em muitos outros lugares.
+Em o Novo Testamento, recebemos ordem de sermos batizados "em nome do Pai, e do Filho, e do Espírito Santo"[^428]. Lemos também que a Santíssima Virgem "concebeu do Espírito Santo"[^429]. São João [Batista] envia-nos a Cristo, que "nos batiza no Espírito Santo"[^430]. Quando lemos as Escrituras, depara-se-nos a mesma expressão em muitos outros lugares.
 
 ### c) Nome comum...
 
@@ -46,9 +46,9 @@ Apesar disso, reconhecemos que o nome Lhe vai com propriedade; porque é o Espí
 
 ### 2. Pessoa real, e verdadeiro Deus...
 
-#### igual do Padre e do Filho
+#### igual do Pai e do Filho
 
-[4] Dada a explicação dos termos, deve o povo aprender, em primeiro lugar, que o Espírito Santo é Deus, como o Padre e o Filho, igual a Eles, da mesma onipotência, da mesma eternidade, de suma bondade, de infinita sabedoria, da mesma natureza que a do Padre e do Filho.
+[4] Dada a explicação dos termos, deve o povo aprender, em primeiro lugar, que o Espírito Santo é Deus, como o Pai e o Filho, igual a Eles, da mesma onipotência, da mesma eternidade, de suma bondade, de infinita sabedoria, da mesma natureza que a do Pai e do Filho.
 
 Esta igualdade é bem expressa pela partícula "em", quando dizemos: "Creio no Espírito Santo". Colocamo-la junto ao nome de cada Pessoa da Santíssima Trindade para exprimir a extensão de nossa fé.
 
@@ -72,13 +72,13 @@ O Apóstolo cita estas palavras, e comenta: "Bem falou o Espírito Santo pela bo
 
 ##### d) a fórmula do Batismo
 
-Não há como duvidar da verdade deste Mistério, já que a Escritura põe na mesma plana a pessoa do Espírito Santo com o Padre e o Filho; quando ordena, por exemplo, empregar no Batismo o nome do Padre, e do Filho, e do Espírito Santo.[^436] Realmente, se o Padre é Deus, e o Filho é Deus, força nos é confessar que o Espírito Santo também é Deus, pois que Lhes fica ligado pelo mesmo grau de dignidade.
+Não há como duvidar da verdade deste Mistério, já que a Escritura põe na mesma plana a pessoa do Espírito Santo com o Pai e o Filho; quando ordena, por exemplo, empregar no Batismo o nome do Pai, e do Filho, e do Espírito Santo.[^436] Realmente, se o Pai é Deus, e o Filho é Deus, força nos é confessar que o Espírito Santo também é Deus, pois que Lhes fica ligado pelo mesmo grau de dignidade.
 
 Uma prova a mais é que nenhum fruto se pode tirar do Batismo que fosse conferido em nome de alguma criatura. "Porventura fostes vós batizados em nome de Paulo?"[^437] pergunta o Apóstolo, a fim de mostrar que tal Batismo de nada lhes adiantaria para a salvação. Portanto, uma vez que nos batizamos em nome do Espírito Santo, cumpre confessar que Ele é Deus.
 
 ##### e) São João... Doxologia litúrgica
 
-Esta justaposição das três Pessoas, pela qual se demonstra a divindade do Espírito Santo, podemos averiguá-la, quer na epístola de São João: "Três são os que no céu dão testemunho: o Pai, o Filho, e o Espírito Santo, e estes três são um só"[^438]; — quer naquela gloriosa aclamação da Trindade Santíssima, que remata o Ofício Divino e os Salmos: "Glória ao Padre, e ao Filho, e ao Espírito Santo"[^439].
+Esta justaposição das três Pessoas, pela qual se demonstra a divindade do Espírito Santo, podemos averiguá-la, quer na epístola de São João: "Três são os que no céu dão testemunho: o Pai, o Filho, e o Espírito Santo, e estes três são um só"[^438]; — quer naquela gloriosa aclamação da Trindade Santíssima, que remata o Ofício Divino e os Salmos: "Glória ao Pai, e ao Filho, e ao Espírito Santo"[^439].
 
 ##### f) aplicação de atributos divinos
 
@@ -90,7 +90,7 @@ Atribuem-Lhe também as operações de "santificar"[^441], de "vivificar"[^442],
 
 ### 3. Terceira Pessoa da Santíssima Trindade
 
-[5] Com a devida atenção, é preciso ainda explicar aos fiéis que o Espírito Santo é Deus, mas que devemos confessá-Lo como Terceira Pessoa [da Santíssima Trindade], distinta do Padre e do Filho, dentro da natureza divina, e produzida pela vontade [de um e de outro].
+[5] Com a devida atenção, é preciso ainda explicar aos fiéis que o Espírito Santo é Deus, mas que devemos confessá-Lo como Terceira Pessoa [da Santíssima Trindade], distinta do Pai e do Filho, dentro da natureza divina, e produzida pela vontade [de um e de outro].
 
 Sem alegar outros argumentos da Escritura, a fórmula de Batismo, ensinada por Nosso Redentor, mostra com evidência que o Espírito Santo é a Terceira Pessoa, que subsiste por Si mesma na natureza divina, [inteiramente] distinta de ambas as outras Pessoas.
 
@@ -100,7 +100,7 @@ Assim o declara também o Apóstolo na saudação: "A graça de Nosso Senhor Jes
 
 #### a) o "Senhor"?
 
-Prova de maior evidência ainda é o acréscimo, que a este Artigo fizeram os Padres do Primeiro Concílio de Constantinopla[^447], para rebaterem o ímpio desatino de Macedônio: "E [creio] no Espírito Santo, [que também é] Senhor, e dá vida; o qual procede do Padre e do Filho; o qual, com o Padre e o Filho, é juntamente adorado e glorificado; [e] foi quem falou pelos Profetas".
+Prova de maior evidência ainda é o acréscimo, que a este Artigo fizeram os Padres do Primeiro Concílio de Constantinopla[^447], para rebaterem o ímpio desatino de Macedônio: "E [creio] no Espírito Santo, [que também é] Senhor, e dá vida; o qual procede do Pai e do Filho; o qual, com o Pai e o Filho, é juntamente adorado e glorificado; [e] foi quem falou pelos Profetas".
 
 Ora, confessando que o Espírito Santo é Senhor, [os Padres do Concílio] declaram-n'O infinitamente superior aos Anjos, não obstante serem estes criados por Deus como os espíritos mais perfeitos. No sentir de São Paulo, os Anjos são, "todos eles, espíritos servidores, enviados a servir, em benefício daqueles que conseguem a herança da salvação"[^448].
 
@@ -108,9 +108,9 @@ Ora, confessando que o Espírito Santo é Senhor, [os Padres do Concílio] decla
 
 Chamam-Lhe, porém, "Vivificador", porque a alma tira da união com Deus uma vida mais intensa, do que o sustento e a conservação, que o corpo aufere de sua união com a alma. Como a Escritura atribui ao Espírito Santo esta união da alma com Deus[^449], é claro que de pleno direito seja chamado o "Vivificador".
 
-#### c) a "Processão" do Padre e do Filho
+#### c) a "Processão" do Pai e do Filho
 
-[6] Seguem-se [no Símbolo de Constantinopla] as palavras: "O qual procede do Padre e do Filho". Como explicação, cumpre pois ensinar aos fiéis que o Espírito Santo procede do Padre e do Filho como de uma origem única, numa eterna processão. Assim no-lo propõe a crer o cânon de fé da Igreja, do qual não pode o cristão apartar-se; e assim o confirma a autoridade da Escritura e dos Concílios.[^450]
+[6] Seguem-se [no Símbolo de Constantinopla] as palavras: "O qual procede do Pai e do Filho". Como explicação, cumpre pois ensinar aos fiéis que o Espírito Santo procede do Pai e do Filho como de uma origem única, numa eterna processão. Assim no-lo propõe a crer o cânon de fé da Igreja, do qual não pode o cristão apartar-se; e assim o confirma a autoridade da Escritura e dos Concílios.[^450]
 
 #### Corolários:
 
@@ -172,7 +172,7 @@ Esta é a graça que, num elo íntimo de amor, une nossa alma a Deus. Tem por ef
 [^428]: Mt 28, 19.
 [^429]: Lc 1, 35; Mt 1, 18-20.
 [^430]: Io 1, 29 ss.
-[^432]: Act 5, 3-4; DU 39 58 ss. 277 296 345 462 684 1461.
+[^432]: Act 5, 3-4; DU 39 58 ss. 277 296 345 463 1084 1461.
 [^433]: 1 Cor 12, 6-11.
 [^434]: Citação contraída de Is 6, 8 a 6, 10.
 [^435]: Act 28, 25.
@@ -190,10 +190,10 @@ Esta é a graça que, num elo íntimo de amor, une nossa alma a Deus. Tem por ef
 [^447]: Convocado em 381.
 [^448]: Hebr 1, 14.
 [^449]: Rom 8, 9 ss.; DU 799 800.
-[^450]: Conc. Toletanum XI; Conc. Senonense (Sens); Conc. Later. IV; Conc. Lugdun. II (Lião); Conc. Florent.; Conc. Trid. (cfr. DU 277 428 460 463 691 705 706 994; e ainda 83 345 ss. 369 574 1084 Glara).
+[^450]: Conc. Toletanum XI; Conc. Senonense (Sens); Conc. Later. IV; Conc. Lugdun. II (Lião); Conc. Florent.; Conc. Trid. (cfr. DU 277 428 460 463 691 703 704 994; e ainda 83 345 ss. 369 574 1084 2147a).
 [^451]: Io 16, 14.
 [^452]: Act 16, 7.
-[^453]: Rom 8, 9; Act 5, 39.
+[^453]: Rm 8, 9; At 8, 39.
 [^454]: Act 2, 17 ss.; Mt 10, 20; Io 14, 26; Gal 4, 6.
 [^455]: Io 15, 26; 16, 7.
 [^456]: Rom 8, 9.
@@ -203,6 +203,6 @@ Esta é a graça que, num elo íntimo de amor, une nossa alma a Deus. Tem por ef
 [^460]: Io 14, 26.
 [^461]: 1 Cor 4, 7.
 [^462]: Ezech 37, 6; DU 13.
-[^463]: Is 11, 2-3. S. Paulo fala dos frutos do Esp. Santo em Gal 6, 2; DU 83.
+[^463]: Is 11, 2-3. São Paulo fala dos frutos do Espírito Santo em Gl 6, 2; DU 83.
 [^464]: Aug. de Trinit. XV 18-19.
-[^465]: Eph 1, 14.
+[^465]: Ef 1, 13-14; Conc. Trid. Sess. VI decr. de justificat. 16 (DU 799 800).

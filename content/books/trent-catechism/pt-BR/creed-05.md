@@ -4,7 +4,7 @@
 
 ## Importância do Artigo
 
-[1] Se muito importa conhecer a glória da sepultura de Jesus Cristo Nosso Senhor, conforme acabamos de tratar, de maior alcance para o povo cristão é saber os brilhantes triunfos que Ele alcançou, com a derrota do demônio, e com a tomada dos infernos.
+[1] Se muito importa conhecer a glória da sepultura de Jesus Cristo Nosso Senhor[^311], conforme acabamos de tratar, de maior alcance para o povo cristão é saber os brilhantes triunfos que Ele alcançou, com a derrota do demônio, e com a tomada dos infernos.[^312]
 
 É disso que vamos ocupar-nos agora, juntamente com o Mistério da Ressurreição. Poderíamos, sem dúvida, falar desta parte separadamente; mas, a exemplo dos Santos Padres, preferimos juntá-la com a descida aos infernos.
 
@@ -32,7 +32,7 @@ Existe, afinal, um terceiro receptáculo, em que eram recolhidas as almas justas
 
 ## A descida aos infernos
 
-[4] Não se deve, porém, julgar que a Alma de Cristo desceu de tal maneira aos infernos, que ali só chegasse com Seu poder e virtude, e não com Sua própria alma. Devemos crer, ao contrário, que a própria Alma realmente desceu aos infernos, e ali esteve presente com todas as Suas faculdades. Assim o declara David em termos peremptórios: "Não deixareis Minha alma [abandonada] no inferno".[^322]
+[4] Não se deve, porém, julgar que a Alma de Cristo desceu de tal maneira aos infernos, que ali só chegasse com Seu poder e virtude, e não com Sua própria alma. Devemos crer, ao contrário, que a própria Alma realmente desceu aos infernos, e ali esteve presente com todas as Suas faculdades. Assim o declara Davi em termos peremptórios: "Não deixareis Minha alma [abandonada] no inferno".[^322]
 
 [5] Mas, com descer aos infernos, Cristo nada perdeu de Seu imenso poder, e nem de leve conspurcou a limpidez de Sua santidade. Pelo contrário. Esse fato mostrou, à luz meridiana, como era verdade tudo o que se havia predito de Sua santidade; e que Cristo é Filho de Deus, conforme Ele mesmo tinha antes declarado, por meio de tantos milagres.[^323]
 
@@ -48,21 +48,21 @@ Ora, Cristo Nosso Senhor desceu [aos infernos], não para sofrer alguma pena, ma
 
 Foi o que Ele fez, de uma maneira admirável e sumamente gloriosa. Sua presença teve logo por efeito derramar entre os cativos uma luz de grande fulgor, incutir-lhes na alma um inefável sentimento de alegria e prazer, e conferir-lhes também a almejada felicidade, que consiste na visão de Deus. Realizou então a promessa que havia feito ao bom ladrão, quando lhe disse: "Hoje [ainda] estarás comigo no Paraíso".[^327]
 
-Esta libertação dos Justos, Oséias a tinha predito muito tempo antes, ao prorromper nas palavras [proféticas]: "Ó morte, Eu hei de ser a tua morte; Eu hei de ser a tua ruína, ó inferno!"[^328] — O mesmo havia vaticinado o profeta Zacarias nestes termos: "Tu também, por causa do sangue de tua aliança, fizeste sair teus cativos do lago, em que não existe água".[^329] É o que afinal também exprime aquela afirmação do Apóstolo: "Desarmou os principados e as potestades, e arrastou-os pùblicamente ao pelourinho, depois de ter, por Si mesmo, triunfado sobre eles".[^330]
+Esta libertação dos Justos, Oséias a tinha predito muito tempo antes, ao prorromper nas palavras [proféticas]: "Ó morte, Eu hei de ser a tua morte; Eu hei de ser a tua ruína, ó inferno!"[^328] — O mesmo havia vaticinado o profeta Zacarias nestes termos: "Tu também, por causa do sangue de tua aliança, fizeste sair teus cativos do lago, em que não existe água".[^329] É o que afinal também exprime aquela afirmação do Apóstolo: "Desarmou os principados e as potestades, e arrastou-os publicamente ao pelourinho, depois de ter, por Si mesmo, triunfado sobre eles".[^330]
 
-Para melhor apanharmos o sentido deste Mistério, devemos recordar muitas vezes uma grande verdade: Todos os justos, não só os que no mundo nasceram depois da vinda de Nosso Senhor, mas também os que hão de existir até a consumação dos séculos, conseguem salvar-se [ùnicamente] pelo benefício de Sua Paixão.
+Para melhor apanharmos o sentido deste Mistério, devemos recordar muitas vezes uma grande verdade: Todos os justos, não só os que no mundo nasceram depois da vinda de Nosso Senhor, mas também os que hão de existir até a consumação dos séculos, conseguem salvar-se [unicamente] pelo benefício de Sua Paixão.
 
 Por esse motivo, antes da Morte e Ressurreição de Cristo, as portas do céu não se abriram jamais a nenhum dos homens. Quando passavam deste mundo, as almas dos justos eram levadas ao seio de Abraão, ou eram purificadas no fogo do Purgatório, como ainda hoje se dá com todos aqueles que tenham de lavar alguma mancha, ou de solver alguma dívida.
 
 Outra razão, afinal, por que Cristo Nosso Senhor desceu aos infernos, era a de manifestar ali Sua força e poder, como [o fez] no céu e na terra, para que de maneira absoluta "se curvasse a Seu nome todo joelho no céu, na terra e nos infernos".[^331]
 
-Nesta altura, quem deixaria, pois, de admirar a suprema bondade de Deus para com o gênero humano? Quem não se tomará de espanto ao verificar que, por amor de nós, [Cristo] não só quis sofrer uma morte crudelíssima, mas até penetrar nas maiores profundezas da terra, para dali arrancar, e introduzir na glória as almas que tanto amava?
+Nesta altura, quem deixaria, pois, de admirar a suprema bondade de Deus para com o gênero humano? Quem não se tomará de espanto ao verificar que, por amor de nós, [Cristo] não só quis sofrer uma morte crudelíssima, mas até penetrar nas maiores profundezas da terra[^332], para dali arrancar, e introduzir na glória as almas que tanto amava?
 
 ## Ressuscitou ao terceiro dia
 
 [7] Vem agora a segunda cláusula do presente Artigo. O pároco deverá explicá-la com a máxima atenção, conforme insinua o Apóstolo: "Lembra-te de que Nosso Senhor Jesus Cristo ressuscitou dentre os mortos!"[^333] Não há dúvida, esta ordem dada a Timóteo se estende também a todos os mais que tenham encargo de almas.
 
-Vejamos, pois, o significado deste Artigo. Depois que Cristo Nosso Senhor rendeu o espírito na Cruz, na sexta-feira à hora nona, foi sepultado na tarde do mesmo dia, pelos Seus Discípulos.
+Vejamos, pois, o significado deste Artigo. Depois que Cristo Nosso Senhor rendeu o espírito na Cruz, na sexta-feira à hora nona[^334], foi sepultado na tarde do mesmo dia, pelos Seus Discípulos.
 
 Com a permissão do procurador Pilatos, haviam descido da cruz o Corpo do Senhor, e depositado num sepulcro, que ficava num jardim das imediações.
 
@@ -70,15 +70,15 @@ No terceiro dia depois da morte, que era um domingo[^335], pela madrugada, Sua A
 
 [8] Não devemos tomar o termo "ressurreição" só no sentido de que Cristo foi ressuscitado dos mortos, como o foram muitos outros; mas que ressurgiu por Sua própria virtude e poder.
 
-Esta maneira de ressurgir só a Ele podia competir, pois que não está nas leis da natureza, nem homem algum teve jamais o poder de passar da morte à vida, por própria virtude [e suficiência]. Isto cabe ùnicamente ao supremo poder de Deus, como se depreende das palavras do Apóstolo: "Embora fosse crucificado na fraqueza [da carne], vive todavia pelo poder de Deus".[^336]
+Esta maneira de ressurgir só a Ele podia competir, pois que não está nas leis da natureza, nem homem algum teve jamais o poder de passar da morte à vida, por própria virtude [e suficiência]. Isto cabe unicamente ao supremo poder de Deus, como se depreende das palavras do Apóstolo: "Embora fosse crucificado na fraqueza [da carne], vive todavia pelo poder de Deus".[^336]
 
 Tal virtude divina nunca se separou do Corpo de Cristo no sepulcro, nem de Sua Alma, quando descera aos infernos. De um lado, estava presente no corpo, pelo que este podia unir-se novamente à alma; de outro lado, [estava presente] também na alma, pelo que esta podia voltar outra vez ao corpo. Nestas condições, foi possível [a Cristo] tornar à vida por Sua própria virtude, e ressurgir dos mortos.
 
-Cheio do Espírito de Deus, David já o havia predito com as seguintes palavras: "Fizeram-n'O triunfar: a Sua destra e o Seu santo braço".[^337] Além disso, o próprio Nosso Senhor o reafirmou com o Seu divino testemunho: "Largo a Minha vida, para a tomar de novo. Eu tenho o poder de largá-la, e tenho o poder de tomá-la novamente".[^338] Corroborando a verdade de Sua doutrina, dissera também aos Judeus: "Arrasai este templo, e em três dias Eu o tornarei a construir".[^339]
+Cheio do Espírito de Deus, Davi já o havia predito com as seguintes palavras: "Fizeram-n'O triunfar: a Sua destra e o Seu santo braço".[^337] Além disso, o próprio Nosso Senhor o reafirmou com o Seu divino testemunho: "Largo a Minha vida, para a tomar de novo. Eu tenho o poder de largá-la, e tenho o poder de tomá-la novamente".[^338] Corroborando a verdade de Sua doutrina, dissera também aos Judeus: "Arrasai este templo, e em três dias Eu o tornarei a construir".[^339]
 
 Na verdade, os judeus entenderam tal linguagem com relação ao Templo e sua magnífica construção de pedra, mas Ele falava do templo de Seu Corpo, como no mesmo lugar declaram as palavras da Escritura.
 
-Se lemos às vezes, nas Escrituras, que Cristo foi ressuscitado pelo Pai[^340], estas passagens devem aplicar-se a Cristo em Sua natureza humana. Anàlogamente, devem aplicar-se, por sua vez, a Cristo em Sua natureza divina as passagens que dizem ter ressuscitado por Sua própria virtude.
+Se lemos às vezes, nas Escrituras, que Cristo foi ressuscitado pelo Pai[^340], estas passagens devem aplicar-se a Cristo em Sua natureza humana.[^341] Analogamente, devem aplicar-se, por sua vez, a Cristo em Sua natureza divina as passagens que dizem ter ressuscitado por Sua própria virtude.
 
 [9] É também um apanágio de Cristo, ter sido o primeiro de todos os homens a receber o divino benefício da ressurreição. Por conseguinte, nas Escrituras é chamado não só o "Primogênito dentre os mortos"[^342], como também o "Primogênito dos mortos".[^343] O Apóstolo declara: "Cristo ressurgiu dos mortos, como primícias dos que dormem; porquanto por um homem veio a morte, assim também por um homem [vem] a ressurreição dos mortos. E como todos sofrem a morte em Adão, assim todos terão vida em Cristo. Cada qual, porém, conforme a sua ordem. Cristo como primeiro [de todos], logo mais aqueles que pertencem a Cristo".[^344]
 
@@ -152,6 +152,8 @@ Acrescentando: "Tende gosto pelas coisas que estão no alto, e não pelas que es
 
 Como o paladar indica em geral o estado de saúde, em que se acha o corpo, assim pode ser a prova mais evidente de que o homem ressuscitou, com Jesus Cristo, para uma vida nova e espiritual, se gosta de "tudo quanto é verdadeiro, honesto, justo e santo"[^363], e sente no íntimo do coração a doçura das coisas celestiais.[^364]
 
+[^311]: Is 11, 10.
+[^312]: Limbo.
 [^313]: Ph 2, 10.
 [^314]: Act 2, 24 (versão da Vulgata).
 [^315]: Mc 9, 44 ss.
@@ -171,13 +173,16 @@ Como o paladar indica em geral o estado de saúde, em que se acha o corpo, assim
 [^329]: Zach 9, 11.
 [^330]: Col 2, 15.
 [^331]: Ph 2, 10.
+[^332]: A locução não exprime uma localização dos infernos.
 [^333]: 2 Tim 2, 8; DU 255 439 462 709 2036 2084.
+[^334]: Pelas três horas da tarde.
 [^335]: Na linguagem bíblica, o primeiro dia da semana (Mt 28, 1; Mc 16, 2; Lc 23, 1; Io 20, 1).
 [^336]: 2 Cor 13, 4; DU 286.
 [^337]: Ps 97, 2.
 [^338]: Io 10, 17-18.
 [^339]: Io 2, 19-21.
 [^340]: Act 2, 24; 3, 15; Rom 8, 11.
+[^341]: Por exemplo: Rm 8, 34.
 [^342]: Col 1, 18.
 [^343]: Apoc 1, 5.
 [^344]: 1 Cor 15, 20-23.
@@ -189,11 +194,11 @@ Como o paladar indica em geral o estado de saúde, em que se acha o corpo, assim
 [^350]: Lc 18, 32 ss.; Mt 16, 21.
 [^351]: Mt 12, 39 ss.; Lc 11, 29.
 [^352]: Ph 2, 8-9.
-[^353]: 1 Cor 15, 2 ss.; 1 Th 4, 12 ss.
+[^353]: 1Cor 15, 12 ss.; 1 Th 4, 12 ss.
 [^354]: 1 Petr 1, 3-4.
 [^355]: Rom 4, 25.
 [^356]: 1 Cor 15, 21.
-[^357]: Ph 3, 20; veja-se mais adiante CRO I XIII 7 ss.
+[^357]: Ph 3, 20; veja-se mais adiante CROI XII 7 ss.
 [^358]: Rom 6, 4 ss.
 [^359]: Rom 6, 9-11.
 [^360]: Col 3, 1.

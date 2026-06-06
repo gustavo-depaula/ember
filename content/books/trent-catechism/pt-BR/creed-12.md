@@ -20,11 +20,11 @@ Neste sentido também as entendia aquele doutor da lei no Evangelho, quando perg
 
 [3] A suprema bem-aventurança levou tal designação[^726], para que ninguém a fizesse consistir em bens materiais e transitórios. Estes não podem ser eternos [por sua própria natureza].
 
-Nem o simples termo "bem-aventurança" bastava para exprimir a idéia desejada, já que não faltam homens que, na presunção de falsos princípios filosóficos, procuram o sumo bem no gozo de valores materiais.
+Nem o simples termo "bem-aventurança" bastava para exprimir a ideia desejada, já que não faltam homens que, na presunção de falsos princípios filosóficos, procuram o sumo bem no gozo de valores materiais.
 
 Estes bens se consomem e envelhecem, ao passo que a [verdadeira] felicidade se não circunscreve a nenhum limite de tempo. A bem dizer, as ninharias terrenas opõem-se diametralmente à verdadeira felicidade. [Portanto] muito longe se afasta da felicidade a pessoa que se deixa levar pelo amor e predileção do mundo. Está escrito: "Não ameis o mundo, nem as coisas que há no mundo. Se alguém ama o mundo, não tem em si o amor do Pai"[^727]. E pouco adiante: "O mundo acaba, e sua concupiscência"[^728].
 
-Os párocos devem incutir estas idéias e sentimentos no coração dos fiéis, para que se resolvam a desprezar os bens transitórios, persuadindo-se de que, neste mundo, onde somos forasteiros e não cidadãos[^729], não podemos alcançar verdadeira felicidade.
+Os párocos devem incutir estas ideias e sentimentos no coração dos fiéis, para que se resolvam a desprezar os bens transitórios, persuadindo-se de que, neste mundo, onde somos forasteiros e não cidadãos[^729], não podemos alcançar verdadeira felicidade.
 
 ### Corolário: Em que sentido somos felizes na terra
 
@@ -112,13 +112,13 @@ Esta felicidade deve ser objeto não só de nossa fé, mas também de nossa firm
 
 [9] Como se trata aqui de prodígios divinos, não há termos que possam bem defini-los, nem raciocínio que nos façam bem compreendê-los.
 
-Não obstante, nas coisas visíveis nos é dado observar uma pálida imagem dessa bem-aventurança. Pois o ferro, quando metido no fogo, compenetra-se de fogo, e, sem mudar de substância, parece coisa diversa, [parece ser] fogo. Assim, também, todos os que entram na glória celestial, inflamam-se de amor a Deus, e, sem deixar de ser o que eram, transformam-se a ponto de haver, entre eles e os homens deste mundo, uma diferença muito maior, do que há entre o ferro candente e o ferro sem nenhum calor de fogo.[^759]
+Não obstante, nas coisas visíveis nos é dado observar uma pálida imagem dessa bem-aventurança. Pois o ferro, quando metido no fogo, compenetra-se de fogo, e, sem mudar de substância, parece coisa diversa, [parece ser] fogo. Assim, também, todos os que entram na glória celestial, inflamam-se de amor a Deus, e, sem deixar de ser o que eram, transformam-se a ponto de haver, entre eles e os homens deste mundo, uma diferença muito maior, do que há entre o ferro candente e o ferro sem nenhum calor de fogo.[^758]
 
 Para resumir em poucas palavras: a bem-aventurança suprema e absoluta, que dizemos essencial, consiste na posse de Deus. Com efeito, que poderia ainda faltar à plena felicidade de quem possui o Deus de suma bondade e perfeição?
 
 ### b) bens acidentais
 
-[10] Ao gozo essencial acrescem outros ainda, comuns a todos os bem-aventurados; dons que, por serem mais acessíveis à razão humana, costumam causar-nos maior impressão. Desta espécie são os dons em que o Apóstolo pensava provavelmente, quando escreveu aos Romanos: "Glória, honra e paz a todos os que praticam o bem"[^760].
+[10] Ao gozo essencial acrescem outros ainda, comuns a todos os bem-aventurados; dons que, por serem mais acessíveis à razão humana, costumam causar-nos maior impressão. Desta espécie são os dons em que o Apóstolo pensava provavelmente, quando escreveu aos Romanos: "Glória, honra e paz a todos os que praticam o bem"[^760].[^759]
 
 Os bem-aventurados gozam não só da glória, que lhes advém da bem-aventurança essencial ou de seus efeitos imediatos, conforme acabamos de ver; mas também daquela glória que resulta do conhecimento, claro e positivo, que cada um terá da alta e singular dignidade dos outros bem-aventurados.
 
@@ -156,9 +156,9 @@ Quando punha diante dos olhos a formosura desta morada, e que seu coração ardi
 
 Que tais sejam, igualmente, as disposições e a linguagem de todos os fiéis, deve ser o mais vivo desejo dos párocos, bem como o objeto de suas mais aturadas diligências.[^776]
 
-## IV. Necessidade de mais
+## IV. Necessidade de nossa cooperação:
 
-### 1. Caridade fraterna
+### 1. Obras de caridade
 
 ### 2. Prática da fé
 
@@ -182,7 +182,7 @@ Pela misericórdia de Deus, que preparou aquela gloriosa mansão aos que O amam,
 [^731]: Rom 1, 22.
 [^732]: Sap 2, 1 ss.
 [^733]: Sap 5, 6-15; 21.
-[^734]: Aug. de civ. Dei XI 20; XXII 29-30; De libero arbitr. 25; de verb. Domini sermo 6; de Sanctis sermo 37.
+[^734]: Aug. de civ. Dei XII 20; XXII 29-30; De libero arbitr. 25; de verb. Domini sermo 6; de Sanctis sermo 37.
 [^735]: Mt 6, 33; 21, 31; Mc 1, 14; Lc 9, 62; Io 3, 3 ss.; Act 14, 22; Gal 5, 21; 2 Th 1, 5.
 [^736]: Io 18, 36; Eph 5, 5; Col 1, 23; 2 Petr 1, 13.
 [^737]: Mt 5, 3-20; 11, 12; 13, 24 et passim; 18, 23.
@@ -198,14 +198,15 @@ Pela misericórdia de Deus, que preparou aquela gloriosa mansão aos que O amam,
 [^747]: 1 Io 3, 2; DU 530.
 [^748]: Em latim: veluti dii efficiemur — ficaremos como que deuses. DU 510 570 ss.
 [^749]: 1 Cor 13, 12.
-[^750]: Aug. de Trinit. 15 9 (16). LCR e Doney: De civ. Dei XV 9.
+[^750]: Aug. de Trinit. XV 9 (16). LCR e Doney: De civ. Dei XV 9.
 [^751]: Pseudo-Dionysius de divinis nominib. 1.
 [^752]: Os autores inspiraram-se provavelmente em S. Tomás: ST I 122 (cfr. SG 3 47 ss.).
 [^753]: Ps 35, 10.
 [^754]: Io 1, 4-9.
 [^755]: Mt 18, 10; 1 Cor 13, 12; DU 1647.
 [^756]: 2 Petr 1, 4.
-[^757]: Símbolo Niceno.
+[^757]: SN.
+[^758]: Anselm. lib. simul. 16.
 [^759]: Aug. de civ. Dei XXII 39.
 [^760]: Rom 2, 10.
 [^761]: Io 15, 14.

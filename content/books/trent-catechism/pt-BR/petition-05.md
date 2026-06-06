@@ -12,17 +12,17 @@ Mas não há nenhum que nos mostre mais ao vivo os extremos de Seu amor e a Sua 
 
 ### 2. Como meio para a vida eterna
 
-[2] Esta petição enfeixa, por assim dizer, todos os bens de que Jesus Cristo cumulou o gênero humano. Assim o ensinou Isaías, quando dizia: "Perdoada será a iniquidade da casa de Jacob, e o maior fruto está na eliminação de seu pecado".[^353]
+[2] Esta petição enfeixa, por assim dizer, todos os bens de que Jesus Cristo cumulou o gênero humano. Assim o ensinou Isaías, quando dizia: "Perdoada será a iniquidade da casa de Jacó, e o maior fruto está na eliminação de seu pecado".[^353]
 
-A mesma verdade demonstrou David, apregoando a ventura daqueles que puderam lograr esse fruto de salvação. Suas palavras são estas: "Felizes daqueles, a quem foram perdoadas as suas iniquidades".[^354]
+A mesma verdade demonstrou Davi, apregoando a ventura daqueles que puderam lograr esse fruto de salvação. Suas palavras são estas: "Felizes daqueles, a quem foram perdoadas as suas iniquidades".[^354]
 
 Em vista disso, devem os párocos esmerar-se na maneira de expor e considerar o sentido desta petição, pois lhe reconhecemos a grande importância para se conseguir a vida eterna.
 
 ### 3. Como início de nova espécie de oração
 
-[3] Nesta altura [do Padre-Nosso], iniciamos uma nova espécie de oração. Até aqui pedíamos a Deus não só bens eternos e espirituais, mas também valores temporais e vantagens terrenas. Doravante, rogaremos que de nós se afastem os males da alma e do corpo, tanto nesta vida, como na eternidade.
+[3] Nesta altura [do Pai-Nosso], iniciamos uma nova espécie de oração. Até aqui pedíamos a Deus não só bens eternos e espirituais, mas também valores temporais e vantagens terrenas. Doravante, rogaremos que de nós se afastem os males da alma e do corpo, tanto nesta vida, como na eternidade.
 
-## II. Disposições para a presente petição
+## II. Disposições para a fazer:
 
 [4] Sendo, porém, necessário pedir com boas disposições, se quisermos alcançar o que pedimos, força nos parece indicar com que sentimentos se deve dirigir esta petição a Deus.
 
@@ -34,7 +34,7 @@ Nesta petição, devemos compenetrar-nos de sentimentos que nos induzam a reconh
 
 ### Baseando-nos na doutrina da Bíblia
 
-[5] Chegaremos, facilmente, a reconhecer os nossos pecados, se dermos ouvido às advertências que, a esse respeito, nos faz o próprio Deus nas Sagradas Escrituras. Pela boca de David falou-nos assim: "Todos se transviaram, e prevaricaram sem exceção. Não há quem pratique o bem, não há nem um sequer".[^356] No mesmo sentido se manifesta Salomão: "Na terra, não há homem justo que faça o bem, e que não peque".[^357] Aqui se enquadra aquela outra passagem: "Quem pode afirmar: Limpo está o meu coração, eu estou livre de pecado?"[^358]
+[5] Chegaremos, facilmente, a reconhecer os nossos pecados, se dermos ouvido às advertências que, a esse respeito, nos faz o próprio Deus nas Sagradas Escrituras. Pela boca de Davi falou-nos assim: "Todos se transviaram, e prevaricaram sem exceção. Não há quem pratique o bem, não há nem um sequer".[^356] No mesmo sentido se manifesta Salomão: "Na terra, não há homem justo que faça o bem, e que não peque".[^357] Aqui se enquadra aquela outra passagem: "Quem pode afirmar: Limpo está o meu coração, eu estou livre de pecado?"[^358]
 
 Para prevenir os homens contra tal presunção, São João expressou-se de maneira análoga: "Se dissermos que não temos pecado, iludimo-nos a nós mesmos, e conosco não está a verdade".[^359] E Jeremias também escreveu: "Tu disseste: Estou sem pecado, e inocente. Por isso, aparte-se de mim a Vossa cólera. Porém Eu vou entrar contigo em Juízo, porque sustentaste: Não pequei".[^360]
 
@@ -70,11 +70,11 @@ Aos que gemem sob a tirania do demônio, aplicam-se na verdade as palavras de Is
 
 Com efeito. Profana-se a santidade da alma, da qual sabemos ser esposa de Cristo.[^368] Conspurca-se o templo de Deus, e contra seus violadores invectivou o Apóstolo: "Se alguém profanar o templo de Deus, Deus o deitará a perder".[^369]
 
-Inumeráveis são então os males que o pecado desencadeia sobre o homem. Essa perdição quase sem limites, David a caracterizou com as seguintes palavras: "Por causa de Vossa cólera, não há nada de são em minha carne; e nos meus ossos não há quietação, por causa de meus pecados".[^370]
+Inumeráveis são então os males que o pecado desencadeia sobre o homem. Essa perdição quase sem limites, Davi a caracterizou com as seguintes palavras: "Por causa de Vossa cólera, não há nada de são em minha carne; e nos meus ossos não há quietação, por causa de meus pecados".[^370]
 
 Bem conhecia ele a gravidade desse mal, quando confessava que nenhuma parte do seu ser ficara livre da pestilência do pecado; penetrara-lhe nos ossos o vírus do pecado, isto é, pervertera-lhe a razão e a vontade, que são as mais firmes potências da alma. Desta contagião falam as Sagradas Escrituras, quando aos pecadores chamam de coxos, surdos, cegos e entrevados.[^371]
 
-Mas, além de compungir-se de suas faltas, como de verdadeiros crimes, maior pavor ainda tinha David da cólera divina, que sabia estar contra ele, por causa de seu pecado.
+Mas, além de compungir-se de suas faltas, como de verdadeiros crimes, maior pavor ainda tinha Davi da cólera divina, que sabia estar contra ele, por causa de seu pecado.
 
 Pois Deus guerreia os ímpios, dos quais recebe as mais incríveis afrontas, conforme disse o Apóstolo: "Cólera e indignação, tribulação e angústia invadirão a alma de todo homem que pratica o mal".[^372]
 
@@ -82,7 +82,7 @@ Na verdade, ainda que o ato pecaminoso já tenha passado, todavia remanesce a of
 
 ### Corolário: Doutrina da Bíblia sobre o arrependimento
 
-[9] Como os remorsos lhe cruciavam a alma, sentia David a necessidade de pedir perdão de seus pecados. Do Salmo Quinquagésimo, podem os párocos deduzir a prática e os motivos de tal penitência, e por aí instruirão os seus fiéis ouvintes, para que estes, a exemplo do Profeta, se movam ao arrependimento, ou melhor, à verdadeira penitência e à esperança de lograrem perdão.
+[9] Como os remorsos lhe cruciavam a alma, sentia Davi a necessidade de pedir perdão de seus pecados. Do Salmo Quinquagésimo, podem os párocos deduzir a prática e os motivos de tal penitência, e por aí instruirão os seus fiéis ouvintes, para que estes, a exemplo do Profeta, se movam ao arrependimento, ou melhor, à verdadeira penitência e à esperança de lograrem perdão.
 
 A grande vantagem que traz esse método, de ensinar como devemos arrepender-nos de nossos pecados, Deus a encareceu numa declaração que se encontra no profeta Jeremias. Ao exortar o povo de Israel à penitência, insistia que tomasse a sério os efeitos calamitosos do pecado. Dizia Ele: "Olha, pois, que é coisa má e amarga o haveres abandonado o Senhor teu Deus, e o não teres temor de Mim, diz o Senhor Deus dos exércitos".[^373]
 
@@ -104,7 +104,7 @@ Entretanto, esse mesmo Deus é um Pai bondosíssimo, que tudo pode perdoar; que 
 
 Ora, o fato de sabermos que a vontade divina está propensa a perdoar-nos, aumenta a fé, fortalece a esperança, e inflama a caridade. Vale, pois, a pena ilustrar esta doutrina com alguns lugares bíblicos[^377], e com os exemplos de homens, a quem Deus concedeu o perdão dos maiores crimes.[^378] Já que desenvolvemos bastante esta matéria, no proêmio desta petição e na parte do Símbolo relativa à remissão dos pecados, de lá tomarão os párocos o que acharem a propósito, e o mais colherão das fontes da Sagrada Escritura.
 
-## III. Explicação verbal e sentido da petição
+## III. Explicação verbal e real: 1. Sentido de «dívidas»
 
 [12] Sigam aqui os párocos o mesmo método que adotamos nas petições anteriores, e façam os fiéis compreenderem o que, neste lugar, se entende por "dívidas", para que se não enganem com a ambiguidade do termo, e peçam coisa diferente do que devem pedir.
 
@@ -166,7 +166,7 @@ E, no Evangelho de São Mateus, está escrito assim: "Amai os vossos inimigos".[
 
 ### 5. Motivos para perdoar
 
-[19] Entanto, como nada mais custa ao homem, em sua natureza decaída, do que perdoar a quem lhe faz injúrias, devem os párocos empregar todo o ardor do sentimento e toda a força da inteligência, para demover os corações dos fiéis, e reduzi-los a essa brandura e clemência, que é absolutamente necessária ao homem cristão.
+[19] No entanto, como nada mais custa ao homem, em sua natureza decaída, do que perdoar a quem lhe faz injúrias, devem os párocos empregar todo o ardor do sentimento e toda a força da inteligência, para demover os corações dos fiéis, e reduzi-los a essa brandura e clemência, que é absolutamente necessária ao homem cristão.
 
 Detenham-se na explicação dos oráculos bíblicos, que nos fazem ouvir como Deus manda perdoar aos inimigos.[^395] Preguem a firme verdade de que os homens possuem um grande penhor de serem Filhos de Deus, se não sentem dificuldade em perdoar as injúrias, e se amam os inimigos de todo o seu coração. Pois, quando temos amor aos inimigos, transparece em nós uma certa semelhança com Deus nosso Pai, que Se reconciliou com o gênero humano, Seu mais odioso e irredutível adversário, e pela Morte de Seu Filho o resgatou da eterna condenação.
 
@@ -202,7 +202,7 @@ Devemos, pois, dissuadir de sua opinião todos aqueles que se deixam levar pelo 
 
 ### 2. Evitar as ocasiões de pecado
 
-A este sentimento, deve aliar-se a precaução de evitar, para o futuro, tudo o que motivou qualquer pecado, ou que possa dar ocasião de ofender a Deus Nosso Pai. Outra não era a preocupação de David, quando dizia: "O meu pecado está sempre diante de mim".[^399] E noutro Salmo: "De lágrimas banharei o meu catre todas as noites, e com elas regarei o lugar do meu descanso".[^400]
+A este sentimento, deve aliar-se a precaução de evitar, para o futuro, tudo o que motivou qualquer pecado, ou que possa dar ocasião de ofender a Deus Nosso Pai. Outra não era a preocupação de Davi, quando dizia: "O meu pecado está sempre diante de mim".[^399] E noutro Salmo: "De lágrimas banharei o meu catre todas as noites, e com elas regarei o lugar do meu descanso".[^400]
 
 ### 3. Imitar os arrependidos da Bíblia
 
@@ -214,7 +214,7 @@ Além disso, tenhamos sempre diante dos olhos quanto se afervoram em rezar todos
 
 Depois, como ensinam as Sagradas Escrituras[^404], a esmola é um remédio apropriado para curar as feridas da alma. Portanto, quem deseja recitar frutuosamente esta prece, faça todo o bem que puder aos necessitados.
 
-### 6. Ser esmoler
+### 5. Ser esmoler
 
 Quanta eficácia tem a esmola para tirar as manchas de pecados, claramente o manifesta o Anjo do Senhor São Rafael, por aquelas palavras que proferiu no Livro de Tobias: "A esmola livra da morte, sendo ela que apaga os pecados, e faz encontrar a misericórdia e a vida eterna".[^405] Outra testemunha é Daniel, que exortava o rei Nabuco nestes termos: "Resgata os teus pecados com esmolas, e as tuas injustiças pela comiseração para com os pobres".[^406]
 
@@ -227,57 +227,57 @@ Quem quiser, pois, que Deus lhe seja todo-misericordioso, deve depor as suas mal
 Como, porém, este ponto foi desenvolvido, quando se tratou do homicídio, para lá remetemos os párocos.[^407] Contudo, a fim de rematar as explicações desta petição, digam eles que nada se pode imaginar de mais injusto do que ser alguém duro para com os seus semelhantes, e não usar de compaixão para com pessoa alguma, ao mesmo tempo que, para si mesmo, pede a Deus clemência e bondade.
 
 [^353]: Is 27, 9.
-[^354]: Ps 31, 1.
+[^354]: Sl 31, 1.
 [^355]: Gn 4, 13; Mt 27, 4.
-[^356]: Ps 13, 3.
-[^357]: Eccles 7, 21.
-[^358]: Prov 20, 9.
+[^356]: Sl 13, 3.
+[^357]: Ecl 7, 21.
+[^358]: Pr 20, 9.
 [^359]: 1 Jo 1, 8.
-[^360]: Jer 2, 35.
-[^361]: Conc. Milevit. I can. 8 (cfr. DU 108).
+[^360]: Jr 2, 35.
+[^361]: Conc. Milv. II can. 8 (cfr. DU 108).
 [^362]: Tal pedido deve corresponder, em seu sentimento, à contrição perfeita, acompanhada pelo desejo da Confissão Sacramental.
-[^363]: Jac cap. 9 e 12.
+[^363]: Tg cap. 9 e 12.
 [^364]: Jo 12, 31; 14, 30.
-[^365]: Eph 6, 12.
-[^366]: Job 41, 25.
+[^365]: Ef 6, 12.
+[^366]: Jó 41, 25.
 [^367]: Is 26, 13.
-[^368]: Jer 2, 2; Os 2, 19.
+[^368]: Jr 2, 2; Os 2, 19.
 [^369]: 1 Cor 3, 17.
-[^370]: Ps 37, 4.
-[^371]: Ps 17, 46; Prov 26, 6; Is 42, 18 ss.; 43, 8; 29, 18; 35, 6; Mt 15, 14; 23 ss; Lc 14, 21; Hb 12, 13.
-[^372]: Rom 2, 8-9.
-[^373]: Jer 2, 19.
-[^374]: Is 46, 12; Ezech 36, 26; Zach 7, 2.
+[^370]: Sl 37, 4.
+[^371]: Sl 17, 46; Pr 26, 6; Is 42, 18 ss.; 43, 8; 29, 18; 35, 6; Mt 15, 14; 23 ss; Lc 14, 21; Hb 12, 13.
+[^372]: Rm 2, 8-9.
+[^373]: Jr 2, 19.
+[^374]: Is 46, 12; Ez 36, 26; Zc 7, 12.
 [^375]: Mt 16, 18-19; Jo 22, 30.
 [^376]: CRO I IX 1 ss.
-[^377]: (Diversos lugares bíblicos.)
-[^378]: Madalena, Paulo, o Bom Ladrão, Agostinho, e outros.
+[^377]: Jz 10, 10 ss.; 2Sm 12, 13.
+[^378]: Madalena, Pedro, o Bom Ladrão, Agostinho, e outros.
 [^379]: Lc 11, 4.
 [^380]: Ps 68, 5 (Salmo messiânico): Cristo sofreu inocente pelo pecado dos homens.
 [^381]: Lc 7, 41 ss.
-[^382]: Tob 13, 6; Hb 1, 7.
+[^382]: Tb 13, 8; Hb 1, 7.
 [^383]: Gn 3, 12-13.
-[^384]: Ps 140, 4.
-[^385]: Cfr. Rom 1, 9; 2 Cor 11, 28; 2 Petr 1, 15.
-[^386]: Exod 32, 31-32.
-[^387]: Rom 9, 3.
+[^384]: Sl 140, 4.
+[^385]: Cfr. Rm 1, 9; 2Cor 11, 28; 2Pd 1, 15.
+[^386]: Ex 32, 31-32.
+[^387]: Rm 9, 3.
 [^388]: Mt 6, 14 ss.
 [^389]: Mt 5, 23.
-[^390]: Tob 4, 16; Mt 7, 12.
+[^390]: Tb 4, 16; Mt 7, 12.
 [^391]: Lc 17, 3 ss.
 [^392]: Mt 5, 44.
 [^393]: Rom 12, 20; Prov 25, 21.
 [^394]: Mc 11, 25.
-[^395]: Levit 19, 18; Exod 23, 4; Deut 22, 1; 1 Reg 24, 5 ss.; Job 31, 29; Ps 7, 5; Prov 20, 22; Rom 12, 14 ss.; Mt 5, 44 ss.; 26, 50; 18, 33; Mc 11, 25 ss.; Lc 23, 34; Eph 4, 26; 1 Thess 5, 15; 1 Petr 3, 9; Act 7, 58 ss.; 1 Cor 4, 12.
+[^395]: Lv 19, 18; Ex 23, 4; Dt 22, 1; 1Sm 24, 5 ss.; Jó 31, 29; Sl 7, 5; Pr 20, 22; Rm 12, 14 ss.; Mt 5, 44 ss.; 26, 50; 18, 33; Mc 11, 25 ss.; Lc 23, 34; Ef 4, 26; 1Ts 5, 15; 1Pd 3, 9; At 7, 58 ss.; 1 Cor 4, 12.
 [^396]: Mt 5, 44 ss.
-[^397]: Gal 5, 17; Mt 26, 41; Mc 13, 38.
+[^397]: Gl 5, 17; Mt 26, 41; Mc 14, 38.
 [^398]: É preciso completar o pensamento do CRO: O mérito de tais pessoas supre, de certo modo, as deficiências daqueles que ainda não conseguem rezar com as devidas disposições.
 [^399]: Ps 50, 5.
 [^400]: Ps 6, 7.
 [^401]: Lc 18, 13.
 [^402]: Lc 7, 37 ss.
 [^403]: Mt 26, 75.
-[^404]: Deut 15, 6 ss.; Tob 4, 7; 12, 9; Ps 40, 2; Prov 14, 19; Eccli 3, 33; Lc 11, 41.
-[^405]: Tob 12, 9.
-[^406]: Dan 4, 24.
+[^404]: Dt 15, 6 ss.; Tb 4, 7; 12, 9; Sl 40, 2; Pr 14, 19; Sr 3, 33; Lc 11, 41.
+[^405]: Tb 12, 9.
+[^406]: Dn 4, 24.
 [^407]: CRO III VI 9 ss.

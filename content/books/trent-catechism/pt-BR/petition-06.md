@@ -40,7 +40,7 @@ Ora, se homens de eminente virtude pecaram gravemente, por fragilidade da nature
 
 Além desses inimigos, que moram e vivem conosco[^414], sobejam aqueles assanhados inimigos, dos quais dizem as Escrituras: "A nossa luta não é contra a carne e o sangue, mas contra os principados e as potestades, contra os dominadores deste mundo tenebroso, contra os espíritos malignos nas alturas".[^415]
 
-#### Poderosos no seu intento
+#### Poderosos no seu ódio
 
 [5] Aos combates interiores, acrescem, de fora, os ataques e investidas dos demônios, que não só nos agridem de frente, como também se insinuam com tanto disfarce em nossas almas, que mal podemos acautelar-nos contra eles.
 
@@ -52,21 +52,21 @@ Diz igualmente que os demônios são "espíritos malignos"; pois, havendo malíc
 
 Como a malícia de Satanás visa, sobretudo, privar-nos da herança celestial, por isso é que o Apóstolo especificou "nas alturas". Donde devemos inferir que são grandes as forças de nossos inimigos, inflexível a sua coragem, cruel e imenso o seu ódio contra nós; que nos movem uma guerra contínua, de sorte que nem paz, nem tréguas podemos fazer com eles.
 
-#### Atrevidos no atacar
+#### Firmes na sua arrogância
 
 [6] A que ponto vai a sua arrogância, bem o mostra aquela palavra de Satanás, referida pelo Profeta: "Hei de subir até ao céu".[^416] E de fato, acercou-se dos primeiros homens no Paraíso[^417], investiu contra os Profetas[^418], chegou-se aos Apóstolos, para os joeirar como o trigo, conforme dizia Nosso Senhor no Evangelho.[^419] Não se vexou de se pôr na presença do próprio Cristo Nosso Senhor.[^420] Dessa infrene cobiça e obstinada astúcia do demônio nos fala São Pedro naquela passagem: "O demônio, vosso inimigo, anda em redor como um leão a rugir, buscando a quem devorar".[^421]
 
-#### Tremendos pelo seu poder
+#### Tremendos pelo seu número
 
 Além disso, Satanás não é o único que tenta os homens. Muitas vezes, os demônios se congregam para investir contra um indivíduo. Assim o confessou aquele demônio, a quem Cristo Nosso Senhor perguntara pelo nome, porquanto respondeu: "Meu nome é Legião".[^422] Era, na verdade, um tropel de demônios que havia atormentado o pobre homem. E de outro demônio está escrito: "Toma consigo outros sete espíritos, piores do que ele, e, entrando, fazem ali a sua morada".[^423]
 
-### Corolário: Por que os perversos não sentem o demônio
+### Corolário: Por que os maus não são tentados?
 
 [7] Muitos julgam que tudo não passa de imaginação, só porque de modo algum experimentam, em si mesmos, as tentações e ataques dos demônios. Todavia, não admira não sejam tais pessoas acometidas pelos demônios, uma vez que se entregaram a eles de própria vontade.
 
 Não possuem piedade, nem caridade, nem virtude alguma própria de um cristão. Daí nasce estarem, inteiramente, no poder do demônio. E o demônio não precisa valer-se das tentações para as derribar, desde que consentiram, espontaneamente, em lhe dar morada no coração.
 
-Entretanto, os que se consagraram a Deus, e levam na terra uma vida toda celestial, são por isso mesmo atingidos, mais do que todos, pelos furores de Satanás, que nutre contra eles um ódio implacável, e lhes arma ciladas a cada instante. A História Sagrada está cheia de exemplos, relativos a santos varões que ele derribou, por violência e traição, não obstante terem lutado corajosamente. Adão, David, Salomão, e outros mais, que seria difícil enumerar, sofreram violentos ataques e pérfidas traições dos demônios, a que a mera prudência e força humana não pode resistir.
+Entretanto, os que se consagraram a Deus, e levam na terra uma vida toda celestial, são por isso mesmo atingidos, mais do que todos, pelos furores de Satanás, que nutre contra eles um ódio implacável, e lhes arma ciladas a cada instante. A História Sagrada está cheia de exemplos, relativos a santos varões que ele derribou, por violência e traição, não obstante terem lutado corajosamente. Adão, Davi, Salomão, e outros mais, que seria difícil enumerar, sofreram violentos ataques e pérfidas traições dos demônios, a que a mera prudência e força humana não pode resistir.
 
 Sendo assim, quem poderia julgar-se seguro, se contasse somente com o seu próprio resguardo? Com piedade e pureza de intenção, pois, devemos pedir a Deus não permita sermos tentados além do que podem as nossas forças, e nos faça, antes, tirar alento da própria tentação, para podermos resistir com firmeza.[^424]
 
@@ -76,11 +76,11 @@ Sendo assim, quem poderia julgar-se seguro, se contasse somente com o seu própr
 
 Mau grado seu grande poder e obstinação, e seu ódio mortal contra o gênero humano, o demônio não pode tentar-nos e importunar-nos, com a força ou pelo tempo que ele queira, pois toda a sua influência é regulada pela vontade e permissão de Deus.
 
-Disso temos em Job o exemplo mais conhecido. Não tivesse Deus dito ao diabo a seu respeito: "Tudo quanto ele possui está em tuas mãos"[^425] — não poderia Satanás tocar em nada que fosse dele. Todavia, se o Senhor não tivesse acrescentado: "Só não estendas tua mão contra a sua pessoa"[^425] — um único golpe do demônio o teria fulminado, juntamente com seus filhos e todos os cabedais. A tal ponto está ligado o poder dos demônios, que sem permissão de Deus não poderiam sequer entrar nos porcos, de que falam os Evangelistas.[^426]
+Disso temos em Jó o exemplo mais conhecido. Não tivesse Deus dito ao diabo a seu respeito: "Tudo quanto ele possui está em tuas mãos"[^425] — não poderia Satanás tocar em nada que fosse dele. Todavia, se o Senhor não tivesse acrescentado: "Só não estendas tua mão contra a sua pessoa"[^425] — um único golpe do demônio o teria fulminado, juntamente com seus filhos e todos os cabedais. A tal ponto está ligado o poder dos demônios, que sem permissão de Deus não poderiam sequer entrar nos porcos, de que falam os Evangelistas.[^426]
 
-## III. Explicação verbal
+## III. Explicação real e verbal:
 
-### 1. Sentido do "tentar"
+### 1. Sentido de "tentar":
 
 [9] Para se compreender o pleno sentido desta petição, força é explicar o que, neste lugar, significa "tentação", bem como o que quer dizer "cair em tentação".
 
@@ -104,7 +104,7 @@ Nesse sentido, lemos que Abraão foi tentado, porquanto devia imolar seu própri
 
 [10] É para o mal, a tentação dos homens, quando estes são induzidos ao pecado, ou à sua ruína espiritual. Nisso vai um mister próprio do diabo, que tenta os homens, com o fito de enganá-los e perdê-los. Por isso, as Sagradas Escrituras lhe chamam simplesmente "o tentador".[^432]
 
-#### Pela rebeldia da concupiscência, ou por meio de outros
+#### Pela rebeldia da concupiscência, por meio dos maus...
 
 Em tais tentações, ele ora produz em nós uma rebelião interior, valendo-se dos apetites e inclinações de nossa alma; ora nos persegue exteriormente, lançando mão de fatores extrínsecos, uns favoráveis, para nos levar à soberba, outros prejudiciais para nos tirar a coragem. Às vezes, dispõe também de homens perdidos como seus emissários e batedores, entre os quais se destacam os hereges que, sentados na cadeira da pestilência[^433], lançam por toda a parte a semente mortífera de suas perversas doutrinas, para fazerem a ruína completa dos fracos e vacilantes, que de si mesmos propendem para o mal, e não possuem nenhum critério para julgar entre a virtude e os vícios.
 
@@ -114,7 +114,7 @@ Em tais tentações, ele ora produz em nós uma rebelião interior, valendo-se d
 
 #### a) Deus não quer o pecado
 
-Primeiramente, quando nos deixamos conturbar, e nos rendemos ao pecado, para o qual alguém nos arrastou por sua instigação. Mas é certo que, deste modo, Deus não induz ninguém em tentação, porque Deus não pode ser causa de pecado para ninguém, pois até odeia "todos aqueles que praticam a iniquidade".[^435] Assim o declarou também o Apóstolo Santiago: "Quando alguém for tentado, não diga que é tentado por Deus, pois Deus não tenta para o mal".[^436]
+Primeiramente, quando nos deixamos conturbar, e nos rendemos ao pecado, para o qual alguém nos arrastou por sua instigação. Mas é certo que, deste modo, Deus não induz ninguém em tentação, porque Deus não pode ser causa de pecado para ninguém, pois até odeia "todos aqueles que praticam a iniquidade".[^435] Assim o declarou também o Apóstolo São Tiago: "Quando alguém for tentado, não diga que é tentado por Deus, pois Deus não tenta para o mal".[^436]
 
 #### b) Mas permite tentações e quedas
 
@@ -140,7 +140,7 @@ Ora, em tais passagens e noutras semelhantes, não se deve absolutamente entende
 
 [14] Em vista do que foi exposto, não será difícil compreender o que se pretende nesta cláusula da petição. Nem de longe pedimos isenção completa de tentações, pois a vida do homem é uma provação sobre a terra.[^443] Elas são úteis e proveitosas para o gênero humano, porque nas tentações ficamos conhecendo a nós mesmos, isto é, as nossas próprias forças.
 
-Por esse motivo é que também nos humilhamos, debaixo da poderosa mão de Deus[^444], e, depois de combatermos varonilmente, esperamos "uma coroa imarcescível de glória".[^445] Pois "quem porfia na arena não é coroado, se não tiver lutado de acordo com todas as regras".[^446] Ou, também, como diz Santiago: "Feliz o homem que sofre tentação, porque, depois de provado, receberá a coroa da vida, que Deus prometeu aos que O amam".[^447]
+Por esse motivo é que também nos humilhamos, debaixo da poderosa mão de Deus[^444], e, depois de combatermos varonilmente, esperamos "uma coroa imarcescível de glória".[^445] Pois "quem porfia na arena não é coroado, se não tiver lutado de acordo com todas as regras".[^446] Ou, também, como diz São Tiago: "Feliz o homem que sofre tentação, porque, depois de provado, receberá a coroa da vida, que Deus prometeu aos que O amam".[^447]
 
 Se os inimigos, por vezes, nos acossam com tentações, muito nos confortará a lembrança de que temos, para nos auxiliar, "um Pontífice que pode compadecer-Se de nossas fraquezas, uma vez que Ele mesmo foi provado em todas as coisas".[^448]
 
@@ -148,23 +148,23 @@ Por conseguinte, que havemos de pedir aqui? Que não nos falte o auxílio divino
 
 ### 5. Sentido básico desta petição
 
-[15] Por isso, devemos pedir, em geral, o auxílio de Deus em todas as tentações, e rezar de modo particular, todas as vezes que formos tentados. Lemos, nas Escrituras, que David assim procedia em quase todas as espécies de tentação. Contra a mentira rezava assim: "Não tireis jamais de minha boca a palavra da verdade".[^449] Nas tentações de cobiça: "Inclinai o meu coração para os Vossos Preceitos, e não para a avareza".[^450] Contra as vaidades desta vida e as seduções da má concupiscência, usava a oração seguinte: "Desviai os meus olhos, para que não vejam a vaidade".[^451]
+[15] Por isso, devemos pedir, em geral, o auxílio de Deus em todas as tentações, e rezar de modo particular, todas as vezes que formos tentados. Lemos, nas Escrituras, que Davi assim procedia em quase todas as espécies de tentação. Contra a mentira rezava assim: "Não tireis jamais de minha boca a palavra da verdade".[^449] Nas tentações de cobiça: "Inclinai o meu coração para os Vossos Preceitos, e não para a avareza".[^450] Contra as vaidades desta vida e as seduções da má concupiscência, usava a oração seguinte: "Desviai os meus olhos, para que não vejam a vaidade".[^451]
 
 Pedimos, portanto, a graça de não cedermos aos maus apetites; de não arrefecermos na luta contra as tentações[^452]; de não nos arredarmos do caminho do Senhor[^453]; de conservarmos igualdade e constância de ânimo, tanto na desgraça, como na ventura; que nenhuma parcela de nosso ser careça da proteção de Deus. Instamos, afinal, que Ele "esmague a Satanás debaixo de nossos pés".[^454]
 
 ## IV. Sugestões práticas
 
-### 1. Modo de fazer esta petição
+### 1. Desconfiar da própria suficiência
 
-[16] Resta, pois, que o pároco esclareça os fiéis sobre as idéias e reflexões, que devem principalmente acompanhar esta petição. Já que conhecemos nossa grande fragilidade, o melhor alvitre será desconfiar de nossas próprias forças, colocar na bondade divina toda a esperança de nossa salvação, entregar-nos cegamente à proteção de Deus, e ter assim uma coragem inabalável em face dos maiores perigos. Isso tanto mais, se cuidarmos como Deus já livrou da goela aberta de Satanás a muitos que estavam compenetrados dessa esperança e coragem.
+[16] Resta, pois, que o pároco esclareça os fiéis sobre as ideias e reflexões, que devem principalmente acompanhar esta petição. Já que conhecemos nossa grande fragilidade, o melhor alvitre será desconfiar de nossas próprias forças, colocar na bondade divina toda a esperança de nossa salvação, entregar-nos cegamente à proteção de Deus, e ter assim uma coragem inabalável em face dos maiores perigos. Isso tanto mais, se cuidarmos como Deus já livrou da goela aberta de Satanás a muitos que estavam compenetrados dessa esperança e coragem.
 
 ### 2. Entregar-se à Bondade Divina
 
-Pois não foi Deus que salvou José do maior perigo, e lhe conferiu as mais subidas honras, quando ele já se via envolto, de todos os lados, pelos loucos ardores de uma mulher libidinosa?[^455] Não conservou Ele a vida de Susana que, assediada pelos agentes de Satanás, estava prestes a sofrer a morte, em consequência de uma sentença injusta?[^456] Mas não admira que assim acontecesse, pois "seu coração punha toda a confiança no Senhor".[^457] Insigne é também a honra e glória de Job, por ter triunfado do mundo, da carne, e do demônio.
+Pois não foi Deus que salvou José do maior perigo, e lhe conferiu as mais subidas honras, quando ele já se via envolto, de todos os lados, pelos loucos ardores de uma mulher libidinosa?[^455] Não conservou Ele a vida de Susana que, assediada pelos agentes de Satanás, estava prestes a sofrer a morte, em consequência de uma sentença injusta?[^456] Mas não admira que assim acontecesse, pois "seu coração punha toda a confiança no Senhor".[^457] Insigne é também a honra e glória de Jó, por ter triunfado do mundo, da carne, e do demônio.
 
 Muitos são os exemplos dessa natureza, a que o pároco deve recorrer assiduamente, para exortar o povo fiel à prática de tal esperança e confiança.
 
-### 4. Fitar os olhos em Cristo, vencedor do demônio
+### 3. Fitar os olhos em Cristo, vencedor do demônio
 
 [17] Por seu lado, devem os fiéis considerar qual é o chefe que lhes assiste nas tentações dos inimigos, a saber, Cristo Nosso Senhor, que nessa luta já alcançou a vitória.[^458] Ele em pessoa venceu o demônio. Ele é o mais forte, que atacou e prostrou o inimigo armado, a quem subtraiu as armas e os despojos.[^459]
 
@@ -174,7 +174,7 @@ A respeito da vitória, que Ele alcançou sobre o mundo, diz São João no Evang
 
 Essas façanhas, que lemos nas Escrituras, devem levar-nos a pensar nas vitórias que todos os dias alcançam, em lutas internas e externas contra os demônios, as pessoas animadas de verdadeira fé, esperança e caridade. São vitórias tão numerosas e tão brilhantes, que, se nossos olhos pudessem percebê-las, teríamos a convicção de que não acontece outra coisa no mundo, com mais frequência e grandeza. A derrota dos inimigos que atacam tais pessoas, se referem as palavras de São João: "Eu vos escrevo, jovens, porque sois fortes, porque a palavra de Deus permanece dentro de vós, e porque vencestes o maligno".[^463]
 
-### 5. Usar os meios condizentes
+### 5. Usar os meios conducentes
 
 [18] O demônio, naturalmente, não é vencido por meio da vadiagem, da sonolência, da bebedeira, da glutonaria e da luxúria, mas tão somente pela oração, pelo trabalho, pela vigilância, pela abstinência, pelo domínio de si mesmo, e pela castidade. Diz uma passagem da Bíblia, citada anteriormente: "Vigiai e orai, para não entrardes em tentação".[^464] Ora, quem usa destas armas para lutar, afugenta os inimigos, pois o demônio foge daqueles que lhe fazem resistência.[^465]
 
@@ -205,19 +205,19 @@ Afinal, depois de descrever a glória dos Santos, e a eterna abundância de bens
 [^410]: Mt 26, 41.
 [^411]: Mt 26, 56.
 [^412]: Mt 26, 35.
-[^413]: Job 7, 1 ss.
+[^413]: Jó 7, 1 ss.
 [^414]: Mt 10, 36.
 [^415]: Eph 6, 12.
 [^416]: Is 14, 13.
 [^417]: Gn 3, 1 ss.
-[^418]: Job 1, 6 ss.; 1 Paral 21, 1.
+[^418]: Jó 1, 6 ss.; 1Cr 21, 1.
 [^419]: Lc 22, 31.
 [^420]: Mt 4, 3.
 [^421]: 1 Petr 5, 8.
 [^422]: Mc 5, 9.
 [^423]: Mt 12, 45.
 [^424]: 1 Cor 10, 13.
-[^425]: Job 1, 12.
+[^425]: Jó 1, 12.
 [^426]: Mt 8, 28 ss.; Mc 5, 1 ss.; Lc 8, 26 ss.
 [^427]: Hb 4, 13.
 [^428]: Em latim: "Est alterum tentandi genus, quum longius progrediendo aliud quaeri solet in bonam vel in malam partem". Esta frase é de difícil tradução. Não nos satisfez o confronto com várias traduções.
@@ -228,24 +228,24 @@ Afinal, depois de descrever a glória dos Santos, e a eterna abundância de bens
 [^433]: Ps 1, 1.
 [^434]: Em latim se diz "induci in tentationem" — ser induzido, ser levado à tentação. Nossa tradução vernácula não exprime esse matiz do original.
 [^435]: Ps 5, 7.
-[^436]: Jac 1, 13.
+[^436]: Tg 1, 13.
 [^437]: Rom 7, 10.
 [^438]: Ezech 16, 14.
 [^439]: Ezech 16, 5 ss.
 [^440]: Exod 7, 3.
 [^441]: Is 6, 10.
 [^442]: Rom 1, 26-28.
-[^443]: Job 7, 1 (segundo a versão da Septuaginta).
+[^443]: Jó 7, 1 (segundo a versão da Septuaginta).
 [^444]: 1 Petr 5, 6.
 [^445]: 1 Petr 5, 4.
 [^446]: 2 Tim 2, 5.
-[^447]: Jac 1, 12.
+[^447]: Tg 1, 12.
 [^448]: Hb 4, 15.
 [^449]: Ps 118, 43.
 [^450]: Ps 118, 36.
 [^451]: Ps 118, 37.
 [^452]: Hb 12, 3.
-[^453]: Deut 31, 20; Ps 24, 4.
+[^453]: Dt 31, 29; Ps 24, 4.
 [^454]: Rom 16, 20.
 [^455]: Gn 39, 7 ss.; 41 ss.
 [^456]: Dan 13, 45 ss.
@@ -257,7 +257,7 @@ Afinal, depois de descrever a glória dos Santos, e a eterna abundância de bens
 [^462]: Hb 11, 33.
 [^463]: 1 Jo 2, 14.
 [^464]: Mt 26, 41.
-[^465]: Jac 3, 7.
+[^465]: Tg 3, 7.
 [^466]: Ps 17, 35.
 [^467]: 1 Reg 2, 4.
 [^468]: Ps 17, 36.

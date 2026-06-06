@@ -16,7 +16,7 @@ Adão apartou-se da obediência devida a Deus, quando violou a proibição: "De 
 
 Ele caiu logo no maior dos infortúnios, perdendo a santidade e justiça em que fora constituído, ficando sujeito a outros males, conforme ensina mais longamente o Santo Concílio de Trento.
 
-De outro lado, o pároco fará ainda ver que o pecado e seu castigo não se detiveram só na pessoa de Adão; mas que de Adão, como sua fonte e origem, passaram merecidamente para toda a sua posteridade.[^171]
+De outro lado, o pároco fará ainda ver que o pecado e seu castigo não se detiveram só na pessoa de Adão; mas que de Adão, como sua fonte e origem, passaram merecidamente para toda a sua posteridade.[^171][^172]
 
 [3] Uma vez decaído de tão alta dignidade, nada podia levantar o gênero humano e reintegrá-lo no estado primitivo, nem as forças humanas, nem as forças angélicas.
 
@@ -32,9 +32,9 @@ Deus, com efeito, lhe dissera: "Porque assim procedeste, a ponto de não poupar 
 
 Destas palavras, era fácil reconhecer que, da posteridade de Abraão, nasceria Aquele que havia de livrar todos os homens da horrenda tirania de Satanás, e trazer-lhes a salvação. Ora, [o Libertador prometido] devia ser [também] Filho de Deus, ainda que fosse, como homem, gerado do sangue de Abraão.
 
-Pouco tempo depois, para que se conservasse a recordação da promessa, o Senhor reafirmou a mesma aliança com Jacob, neto de Abraão.
+Pouco tempo depois, para que se conservasse a recordação da promessa, o Senhor reafirmou a mesma aliança com Jacó, neto de Abraão.
 
-Na ocasião de ver, durante o sono, uma escada firmada na terra, mas com a ponta a tocar o céu; e [vendo] também os Anjos de Deus que por ela subiam e desciam, como afirma a Escritura, — Jacob ouviu ao mesmo tempo a voz do Senhor que, apoiado na escada, lhe dizia: "Eu sou o Senhor, Deus de teu pai Abraão, e Deus de Isaac. Dar-te-ei, a ti e à tua posteridade, a terra em que estás dormindo. E tua geração será como o pó da terra. Hás de estender-te para o Oriente e o Ocidente, para o Setentrião e o Meio-dia. Em ti e na tua geração serão abençoadas todas as tribos da terra".[^177]
+Na ocasião de ver, durante o sono, uma escada firmada na terra, mas com a ponta a tocar o céu; e [vendo] também os Anjos de Deus que por ela subiam e desciam, como afirma a Escritura, — Jacó ouviu ao mesmo tempo a voz do Senhor que, apoiado na escada, lhe dizia: "Eu sou o Senhor, Deus de teu pai Abraão, e Deus de Isaac. Dar-te-ei, a ti e à tua posteridade, a terra em que estás dormindo. E tua geração será como o pó da terra. Hás de estender-te para o Oriente e o Ocidente, para o Setentrião e o Meio-dia. Em ti e na tua geração serão abençoadas todas as tribos da terra".[^177]
 
 Posteriormente, Deus nunca deixou de renovar a recordação de Sua promessa, nem de manter a esperança do Salvador, não só entre os filhos de Abraão, mas também entre muitos outros homens.
 
@@ -50,11 +50,11 @@ Mas bom será passarmos, agora, a tratar cada um dos termos do presente Artigo.
 
 [5] Jesus é o nome próprio d'Aquele que é Deus e homem ao mesmo tempo. Significa "Salvador". Não Lhe foi posto casualmente, por escolha e vontade dos homens, mas por ordem e intenção de Deus.
 
-Assim o declarou o Anjo Gabriel a Maria, Sua Mãe: "Eis que conceberás em teu seio, e darás à luz um filho, a quem porás o nome de Jesus".[^180] E depois ordenou a José, esposo da Virgem, desse tal nome ao menino, e indicou-lhe ao mesmo tempo as razões por que devia chamar-Se assim: "José, filho de David, não tenhas receio de levar para tua casa Maria, tua esposa; pois o que nela foi concebido, obra é do Espírito Santo. Portanto, ela há de dar à luz um filho, a quem porás o nome de Jesus, porque Ele há de remir Seu povo de seus pecados".[^181]
+Assim o declarou o Anjo Gabriel a Maria, Sua Mãe: "Eis que conceberás em teu seio, e darás à luz um filho, a quem porás o nome de Jesus".[^180] E depois ordenou a José, esposo da Virgem, desse tal nome ao menino, e indicou-lhe ao mesmo tempo as razões por que devia chamar-Se assim: "José, filho de Davi, não tenhas receio de levar para tua casa Maria, tua esposa; pois o que nela foi concebido, obra é do Espírito Santo. Portanto, ela há de dar à luz um filho, a quem porás o nome de Jesus, porque Ele há de remir Seu povo de seus pecados".[^181]
 
 [6] Verdade é que, nas Escrituras, no Antigo Testamento, nos deparam muitas pessoas com esse mesmo nome. Assim se chamava o filho de Navé[^182] que sucedeu a Moisés; teve o privilégio, negado a seu antecessor, de levar à Terra de Promissão o povo que o mesmo Moisés havia arrancado do cativeiro do Egito. Assim se chamava também o filho de Josedec, sumo-sacerdote.[^183]
 
-A nosso ver, com quanto mais acerto não se deve atribuir esse nome a Nosso Salvador! A Ele que deu luzes, liberdade e salvação, já não a um povo singular, mas a todos os homens de todas as épocas. A Ele que os livrou, não diremos da fome ou da opressão do Egito e da Babilônia, mas das sombras da morte em que estavam sentados[^184], presos com os duríssimos grilhões do pecado e do demônio. A Ele que lhes adquiriu o direito à herança do Reino dos céus, e os reconciliou com o Padre Eterno.
+A nosso ver, com quanto mais acerto não se deve atribuir esse nome a Nosso Salvador! A Ele que deu luzes, liberdade e salvação, já não a um povo singular, mas a todos os homens de todas as épocas. A Ele que os livrou, não diremos da fome ou da opressão do Egito e da Babilônia, mas das sombras da morte em que estavam sentados[^184], presos com os duríssimos grilhões do pecado e do demônio. A Ele que lhes adquiriu o direito à herança do Reino dos céus, e os reconciliou com o Pai Eterno.
 
 Naquelas pessoas[^185] não vemos senão uma figura de Cristo Nosso Senhor, que de tantos benefícios cumulou o gênero humano, como acabamos de explicar.
 
@@ -76,13 +76,13 @@ Era também costume ungirem-se os Profetas. Na qualidade de intérpretes e mensa
 
 Ora, quando veio a este mundo, Nosso Salvador Jesus Cristo tomou sobre Si o tríplice encargo e função de profeta, de sacerdote e de rei. Por esse motivo é que foi chamado "Cristo", e ungido para o desempenho daqueles ministérios. Não o foi, contudo, por obra de nenhum mortal, mas pela virtude do Pai Celeste. Não o foi com uma unção de óleo terrestre, mas de óleo espiritual, quando em Sua Alma santíssima se derramaram a graça, a plenitude e os dons do Espírito Santo, em tal superabundância que nenhuma outra criatura a poderia jamais comportar.
 
-É o que muito bem exprime o Profeta, quando interpela o próprio Redentor: "Vós amastes a justiça, e aborrecestes a iniquidade. Por isso Deus, o vosso Deus, vos ungiu com óleo de alegria na presença de vossos companheiros".[^189] A mesma idéia, Isaías a exprime com muito mais clareza, na passagem seguinte: "O Espírito do Senhor está sobre Mim, porque o Senhor Me ungiu, e Me enviou para pregar aos que são mansos".[^190]
+É o que muito bem exprime o Profeta, quando interpela o próprio Redentor: "Vós amastes a justiça, e aborrecestes a iniquidade. Por isso Deus, o vosso Deus, vos ungiu com óleo de alegria na presença de vossos companheiros".[^189] A mesma ideia, Isaías a exprime com muito mais clareza, na passagem seguinte: "O Espírito do Senhor está sobre Mim, porque o Senhor Me ungiu, e Me enviou para pregar aos que são mansos".[^190]
 
 Jesus Cristo foi, portanto, o Profeta e Mestre supremo que nos ensinou a vontade de Deus, e cuja doutrina fez ao mundo conhecer o Pai celestial. Cabe-lhe o nome de Profeta com maior glória e distinção, porquanto não passavam de discípulos Seus todos aqueles que [anteriormente] tiveram a honra desse nome, e que não foram enviados senão para anunciar o Profeta por excelência, que viria salvar todos os homens.[^191]
 
-Cristo foi também Sacerdote, não na ordem pela qual na Antiga Lei os sacerdotes procediam da tribo de Levi, mas por aquela que o profeta David exaltou em seu vaticínio: "Vós sois sacerdote eternamente, segundo a ordem de Melquisedec".[^192] Na epístola aos Hebreus, o Apóstolo explana detidamente o fundo desta passagem.[^193]
+Cristo foi também Sacerdote, não na ordem pela qual na Antiga Lei os sacerdotes procediam da tribo de Levi, mas por aquela que o profeta Davi exaltou em seu vaticínio: "Vós sois sacerdote eternamente, segundo a ordem de Melquisedec".[^192] Na epístola aos Hebreus, o Apóstolo explana detidamente o fundo desta passagem.[^193]
 
-Reconhecemos, igualmente, que Cristo é Rei, não só como Deus, mas também enquanto Homem, participante de nossa natureza. De Sua dignidade real disse o Anjo: "Há de reinar eternamente na casa de Jacob, e Seu reino não terá fim".[^194]
+Reconhecemos, igualmente, que Cristo é Rei, não só como Deus, mas também enquanto Homem, participante de nossa natureza. De Sua dignidade real disse o Anjo: "Há de reinar eternamente na casa de Jacó, e Seu reino não terá fim".[^194]
 
 Esse Reino de Cristo é espiritual e eterno. Começa na terra, e consuma-se no céu. É com admirável providência que Cristo presta os ofícios de Rei à Sua Igreja. Ele a governa; defende-a dos ataques e embustes do inimigo; prescreve-lhe leis; comunica-lhe santidade e justiça; proporciona-lhe, ainda por cima, força e meios de perseverar.
 
@@ -92,13 +92,13 @@ Este Reino, porém, não Lhe foi adjudicado por direito de herança ou sucessão
 
 ## Um só Seu Filho
 
-[8] São mais profundos ainda os mistérios que estas palavras nos propõem a respeito de Jesus. Levam os fiéis a crer piedosamente que é Filho de Deus, e verdadeiro Deus como o Padre, que O gerou desde toda a eternidade.
+[8] São mais profundos ainda os mistérios que estas palavras nos propõem a respeito de Jesus. Levam os fiéis a crer piedosamente que é Filho de Deus, e verdadeiro Deus como o Pai, que O gerou desde toda a eternidade.
 
 Além disso, confessamos que é a Segunda Pessoa da Santíssima Trindade, perfeitamente igual às duas outras Pessoas Divinas. Nenhuma desigualdade ou diferença pode haver, ou imaginar-se nas três Pessoas divinas, porque em todas elas reconhecemos a existência de uma só natureza, de uma só vontade, de um só poder. Esta verdade se nos antolha em muitos lugares da Sagrada Escritura. O mais claro, todavia, é o testemunho de São João: "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus".[^196]
 
-Ouvindo, porém, que Jesus é Filho de Deus, não nos ponhamos a imaginar que em Sua geração exista algo de terreno ou mortal. O ato pelo qual o Padre gera ao Filho desde toda a eternidade, não o podemos absolutamente perceber com a inteligência, e muito menos compreendê-lo de maneira adequada. Devemos, no entanto, acreditá-lo com firmeza, e adorá-lo com a maior devoção de nossa alma. Como que arrebatados de admiração pelo Mistério, cumpre-nos exclamar com o Profeta: "Quem poderá explicar a Sua geração?"[^197]
+Ouvindo, porém, que Jesus é Filho de Deus, não nos ponhamos a imaginar que em Sua geração exista algo de terreno ou mortal. O ato pelo qual o Pai gera ao Filho desde toda a eternidade, não o podemos absolutamente perceber com a inteligência, e muito menos compreendê-lo de maneira adequada. Devemos, no entanto, acreditá-lo com firmeza, e adorá-lo com a maior devoção de nossa alma. Como que arrebatados de admiração pelo Mistério, cumpre-nos exclamar com o Profeta: "Quem poderá explicar a Sua geração?"[^197]
 
-Deve crer-se, portanto, que o Filho tem a mesma natureza, o mesmo poder, a mesma sabedoria que o Padre, conforme o confessamos mais explicitamente no Símbolo de Nicéia: "E em Jesus Cristo, Filho Unigênito de Deus, e gerado pelo Padre antes de todos os séculos, Deus de Deus, Luz de Luz, verdadeiro Deus de Deus verdadeiro, gerado, não feito, da mesma substância que o Padre, e pelo qual foram feitas todas as coisas".[^198]
+Deve crer-se, portanto, que o Filho tem a mesma natureza, o mesmo poder, a mesma sabedoria que o Pai, conforme o confessamos mais explicitamente no Símbolo de Nicéia: "E em Jesus Cristo, Filho Unigênito de Deus, e gerado pelo Pai antes de todos os séculos, Deus de Deus, Luz de Luz, verdadeiro Deus de Deus verdadeiro, gerado, não feito, da mesma substância que o Pai, e pelo qual foram feitas todas as coisas".[^198]
 
 [9] De todas as comparações que se fazem, para explicar o modo e a razão de ser desta geração eterna, nenhuma parece tão próxima da realidade, como aquela que se tira da formação do pensamento em nossa alma. Por isso, São João dá o nome de "Verbo" ao Filho de Deus.[^199]
 
@@ -106,11 +106,11 @@ Como nossa alma, reconhecendo-se até certo grau, concebe uma imagem de si mesma
 
 No mais, é preferível contemplar simplesmente o que a fé nos propõe, e crer e confessar, com sinceridade, que Jesus é verdadeiro Deus e verdadeiro Homem.
 
-Como Deus, foi gerado pelo Padre antes de todos os séculos; como Homem, nasceu no tempo, de Sua Mãe a Virgem Maria.[^201]
+Como Deus, foi gerado pelo Pai antes de todos os séculos; como Homem, nasceu no tempo, de Sua Mãe a Virgem Maria.[^201]
 
 Posto que em Cristo se deve admitir um duplo nascimento, cremos todavia que há um só Filho. É pois uma e a mesma Pessoa, na qual se unem as naturezas divina e humana.
 
-[10] Da parte da geração divina, Cristo não tem irmãos nem co-herdeiros, visto ser Ele o Filho Único do Padre, enquanto nós homens somos apenas uma formação e obra de Suas mãos.[^202]
+[10] Da parte da geração divina, Cristo não tem irmãos nem co-herdeiros, visto ser Ele o Filho Único do Pai, enquanto nós homens somos apenas uma formação e obra de Suas mãos.[^202]
 
 Se entanto considerarmos Sua origem humana, veremos que Cristo não só dá a muitos o nome de "irmãos"[^203], mas também os trata realmente como tais, para que com Ele alcancem ao mesmo tempo a glória da herança paterna. São aqueles que pela fé receberam a Cristo Nosso Senhor[^204], e por obras de caridade comprovam a fé que professam de boca. Eis por que o Apóstolo Lhe chamou o "Primogênito entre muitos irmãos".[^205]
 
@@ -122,11 +122,11 @@ Das duas naturezas diversas, [Cristo] recebeu também as diversas propriedades. 
 
 Mas existem ainda outros atributos que convêm a ambas as naturezas, como o nome de "Nosso Senhor", que ora Lhe damos. Se, portanto, este nome se aplica a uma e outra natureza, é com toda a razão que Cristo deve ser chamado "Nosso Senhor".
 
-Do mesmo modo que Ele é Deus eterno como o Padre, assim é também, como o Pai, Senhor de todas as coisas. Como Ele e o Padre não são dois deuses diversos, mas inteiramente o mesmo Deus, assim também Ele e o Padre não são dois Senhores diferentes.[^206]
+Do mesmo modo que Ele é Deus eterno como o Pai, assim é também, como o Pai, Senhor de todas as coisas. Como Ele e o Pai não são dois deuses diversos, mas inteiramente o mesmo Deus, assim também Ele e o Pai não são dois Senhores diferentes.[^206]
 
 Com razão é chamado "Nosso Senhor" também em Sua condição de Homem. Há muitos títulos que o justificam. Em primeiro lugar, por ser nosso Redentor, e nos ter livrado de nossas culpas, recebeu por direito o poder de ser deveras e chamar-se "Nosso Senhor".
 
-É o que nos ensina o Apóstolo: "Humilhou-se a Si mesmo, fazendo-Se obediente até a morte, e morte de cruz. Por essa razão, Deus também O exaltou e Lhe deu um nome que fica acima de todos os nomes, para que ao Nome de Jesus se dobre todo joelho, dos que estão no céu, na terra, e nos infernos; e toda língua proclame que Jesus Cristo está na glória de Deus Padre".[^207] Após a Ressurreição, Cristo disse de Si mesmo: "A Mim foi dado todo o poder no céu e na terra".[^208]
+É o que nos ensina o Apóstolo: "Humilhou-se a Si mesmo, fazendo-Se obediente até a morte, e morte de cruz. Por essa razão, Deus também O exaltou e Lhe deu um nome que fica acima de todos os nomes, para que ao Nome de Jesus se dobre todo joelho, dos que estão no céu, na terra, e nos infernos; e toda língua proclame que Jesus Cristo está na glória de Deus Pai".[^207] Após a Ressurreição, Cristo disse de Si mesmo: "A Mim foi dado todo o poder no céu e na terra".[^208]
 
 Em segundo lugar, é chamado "Senhor" também, porque reúne numa só Pessoa duas naturezas, a divina e a humana. Ainda que Cristo por nós não morrera, contudo essa admirável união Lhe teria merecido o título de soberano Senhor de todas as coisas criadas, em particular dos fiéis que Lhe prestam obediência, e que O servem com o maior afeto de seu coração.
 
@@ -143,22 +143,23 @@ Em vista de tanto amor e benignidade para conosco, que coração se não sentiri
 [^169]: Mt 16, 17.
 [^170]: Gen 2, 16-17.
 [^171]: Conc. Trid. sess. V can. 1-6; sess. VI can. 1-2 (DU 174 188). O CRO diz "constitutus fuerat", atendo-se à terminologia do Tridentino; este não diz "creatus fuerat", para evitar questões controversas da teologia especulativa.
+[^172]: Rm 5, 12; DU 175 316 711 734 1627 1670.
 [^173]: Gen 3, 15; DU 2123.
 [^174]: Gen 12, 3; 17, 15-16; 18, 18.
 [^175]: ... as cidades.
 [^176]: Gen 22, 16-17.
 [^177]: Gen 28, 12-14.
-[^178]: Por exemplo, a estrela de Jacob (Num 24, 17; Mt 2, 2; DU 711).
+[^178]: Por exemplo, a estrela de Jacó (Num 24, 17; Mt 2, 2; DU 711).
 [^179]: Por exemplo, Isaías (7, 14; 8, 3; 9, 6; 11, 1-3; 53 per totum), Jeremias (23, 5; 30, 9), Daniel (7, 13; 9, 24), e outros.
 [^180]: Lc 1, 31.
 [^181]: Mt 1, 20-21.
-[^182]: Josué ou Jésus, cfr. Eccli 46, 1.
-[^183]: Eccli 49, 14; Agg 1, 1.
+[^182]: Josué ou Jésus, cfr. Sr 46, 1.
+[^183]: Sr 49, 14; Agg 1, 1.
 [^184]: Lc 1, 79.
 [^185]: ... isto é, nos homônimos de Jesus no Antigo Testamento.
 [^186]: Is 7, 14; 8, 8; 9, 6; Ier 23, 6.
 [^187]: Num 16, 46-50; Sap 18, 20-25; Hebr 5, 1-4.
-[^188]: 1 Reg 10, 1; 16, 13; Exod 19, 21; 30, 30.
+[^188]: 1Sm 10, 1; 16, 13; Exod 19, 21; 30, 30.
 [^189]: Ps 44, 8.
 [^190]: Is 61, 1.
 [^191]: Deut 18, 15; DU 1789.
@@ -168,7 +169,7 @@ Em vista de tanto amor e benignidade para conosco, que coração se não sentiri
 [^195]: DU 627, 629, 838; Litt. Encycl. "Quas primas" de Principatu Christi 11-XII-1925 (DU 2194-2197) cfr. Offic. de Christo Rege.
 [^196]: Io 1, 1; DU 344.
 [^197]: Is 53, 8; DU 462 2027.
-[^198]: Símbolo de Nicéia.
+[^198]: Símbolo de Nicéia. Tauchnitz funde o presente parágrafo com o seguinte, mas conserva 8-9 na numeração.
 [^199]: Io 1, 1 ss.; DU 118.
 [^200]: ... verbum mentis.
 [^201]: SQ DU 257 285 422 708 993.

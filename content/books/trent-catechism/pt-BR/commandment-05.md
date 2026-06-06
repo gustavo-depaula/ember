@@ -2,13 +2,13 @@
 
 > "Não matarás".[^337]
 
-## I. Importância do Preceito: Meio de pacificação
+## I. Importância do Preceito: Meio de pacificação dos homens
 
 [1] Singular ventura está prometida aos pacíficos, "porquanto serão chamados filhos de Deus".[^338] Esta consideração deve, forçosamente, levar os pastores a explicarem aos fiéis a doutrina deste Mandamento com todo o carinho e exatidão.
 
 Com efeito, para apaziguar os ânimos dos homens, não há melhor alvitre, do que a exata observância deste Preceito, como é de obrigação para todos, desde que receberam uma boa explicação de seus dispositivos. Só então é de esperar que os homens, congraçados na mais perfeita igualdade de sentimentos, cultivem ciosamente a paz e a concórdia.
 
-O quanto se torna necessária uma boa explicação deste Preceito, nós o percebemos pelo fato de que, após o imenso Dilúvio universal, a primeira e a única proibição, que Deus impôs aos homens, foi esta: "O sangue de vossa vida, Eu o vingarei da mão de todos os animais, e da mão do [próprio] homem".[^339]
+O quanto se torna necessária uma boa explicação deste Preceito, nós o percebemos pelo fato de que, após o imenso Dilúvio Universal, a primeira e a única proibição, que Deus impôs aos homens, foi esta: "O sangue de vossa vida, Eu o vingarei da mão de todos os animais, e da mão do [próprio] homem".[^339]
 
 E também no Evangelho, quando Nosso Senhor explicara pela primeira vez as leis da Antiga Aliança, começou por este Mandamento, como está escrito em São Mateus: "Foi dito: Não matarás" — e o mais que do assunto se diz naquela mesma passagem.[^340]
 
@@ -32,11 +32,11 @@ Sobre este particular, diz Santo Agostinho: "Quando ouvimos dizer: 'Não matará
 
 [4] Outra espécie de morte lícita é a que compete às autoridades. Foi-lhes dado o poder de condenar à morte, pelo que punem os criminosos e defendem os inocentes, de acordo com a sentença legalmente lavrada. Quando exercem seu cargo com espírito de justiça, não se tornam culpados de homicídio; pelo contrário, são fiéis executores da Lei Divina, que proíbe de matar.
 
-Se o fim da Lei é garantir a vida e segurança dos homens, as sentenças [capitais] dos magistrados obedecem à mesma finalidade, enquanto eles são os legítimos vingadores dos crimes, reprimindo a audácia e a violência mediante a pena de morte. Por essa razão dizia David: "Desde o romper do dia, exterminava eu todos os pecadores da terra, a fim de suprimir da cidade de Deus todos os que praticam iniquidade".[^342]
+Se o fim da Lei é garantir a vida e segurança dos homens, as sentenças [capitais] dos magistrados obedecem à mesma finalidade, enquanto eles são os legítimos vingadores dos crimes, reprimindo a audácia e a violência mediante a pena de morte. Por essa razão dizia Davi: "Desde o romper do dia, exterminava eu todos os pecadores da terra, a fim de suprimir da cidade de Deus todos os que praticam iniquidade".[^342]
 
 #### c) matar em guerra justa
 
-[5] Da mesma forma, não pecam aqueles que, em guerra justa, tiram a vida dos inimigos, não por cobiça ou crueldade, mas ùnicamente por amor da causa comum de seu povo.[^343]
+[5] Da mesma forma, não pecam aqueles que, em guerra justa, tiram a vida dos inimigos, não por cobiça ou crueldade, mas unicamente por amor da causa comum de seu povo.[^343]
 
 #### d) matar por ordem divina
 
@@ -94,7 +94,7 @@ Este pecado, porém, só se verifica, quando não há o que possa justificar nos
 
 A cólera do cristão não deve proceder dos sentidos carnais, mas da ação do Espírito Santo, já que nos compete a dignidade de "templos do Espírito Santo"[^356], nos quais habita Jesus Cristo.[^357]
 
-### 4. Remédios. Contra "estes pecados"
+### 4. Remédios contra esses pecados:
 
 #### a) Em virtude da palavra de Cristo
 
@@ -114,7 +114,7 @@ O principal é que se reconheça quão profundamente Deus aborrece o homicídio.
 
 Ainda mais. Como no Gênesis é proibido matar um homem, porque Deus o criou à Sua imagem e semelhança[^363], grave ofensa faz a Deus, e parece quase que Lhe põe mãos violentas quem tira do mundo uma Sua imagem.
 
-Isto é que David considerava por divina inspiração, quando se queixou amargamente dos sanguinários, e proferiu aquelas palavras: "Seus pés são velozes para derramarem sangue".[^364] Não diz simplesmente "matar", mas "derramar" sangue. Tais palavras falou, para salientar a enormidade do nefando crime e a bárbara crueza dos que matam. E disse "seus pés são velozes", para mostrar, antes de tudo, como eles, impelidos pelo demônio, se precipitam a cometer tal crime.
+Isto é que Davi considerava por divina inspiração, quando se queixou amargamente dos sanguinários, e proferiu aquelas palavras: "Seus pés são velozes para derramarem sangue".[^364] Não diz simplesmente "matar", mas "derramar" sangue. Tais palavras falou, para salientar a enormidade do nefando crime e a bárbara crueza dos que matam. E disse "seus pés são velozes", para mostrar, antes de tudo, como eles, impelidos pelo demônio, se precipitam a cometer tal crime.
 
 ## III. Cláusula Preceptiva
 
@@ -124,7 +124,7 @@ Isto é que David considerava por divina inspiração, quando se queixou amargam
 
 Na explicação destas palavras, precisa o pároco ensinar que nossa caridade deve abranger todos os homens, sem exceção alguma. Quando pois explicar este Preceito, o pároco fará o que estiver ao seu alcance, para concitar os fiéis à prática dessa caridade, porque nela resplandece, sobremaneira, a virtude do amor ao próximo.
 
-Sendo o ódio expressamente proibido por este Preceito, porque "é homicida aquele que odeia a seu irmão"[^367], segue-se necessàriamente que isso também inclui o preceito do amor e da caridade.
+Sendo o ódio expressamente proibido por este Preceito, porque "é homicida aquele que odeia a seu irmão"[^367], segue-se necessariamente que isso também inclui o preceito do amor e da caridade.
 
 ### Com todos os seus efeitos
 
@@ -152,19 +152,19 @@ Ora, estando quase que arraigado no coração dos homens o instinto de vingança
 
 Desse ponto falam muito os escritores eclesiásticos. Deve o pároco consultá-los, a fim de poder quebrar a pertinácia daqueles que se obstinaram e empederniram no desejo de vingança. Tenha sempre à mão aqueles fortíssimos e oportuníssimos argumentos que os Santos Padres usavam com religiosa convicção, quando tratavam da presente matéria.
 
-### 2. Motivação dessa caridade
+## IV. Motivação dessa caridade
 
-#### a) O sofrimento vem de Deus
+### a) O sofrimento vem de Deus
 
 [20] Para esse fim, são três as principais razões que o pároco deve desenvolver. A primeira é conseguir de quem se julga ofendido a firme persuasão de que a primeira causa de seu dano ou ofensa não é a pessoa, da qual deseja vingar-se.
 
-Assim procedeu Job, aquele varão admirável que, sendo gravemente lesado pelos Sabeus, Caldeus, e pelo próprio demônio, não lhes atribuiu nenhuma responsabilidade; mas, como homem justo e sobremaneira piedoso, proferiu as acertadas palavras: "O Senhor o deu, o Senhor o tirou".[^378] Pela palavra e pelo exemplo desse varão pacientíssimo, tenham os cristãos, como absoluta verdade, que tudo quanto sofremos nesta vida vem de Nosso Senhor, Pai e Autor de toda a justiça e misericórdia.
+Assim procedeu Jó, aquele varão admirável que, sendo gravemente lesado pelos Sabeus, Caldeus, e pelo próprio demônio, não lhes atribuiu nenhuma responsabilidade; mas, como homem justo e sobremaneira piedoso, proferiu as acertadas palavras: "O Senhor o deu, o Senhor o tirou".[^378] Pela palavra e pelo exemplo desse varão pacientíssimo, tenham os cristãos, como absoluta verdade, que tudo quanto sofremos nesta vida vem de Nosso Senhor, Pai e Autor de toda a justiça e misericórdia.
 
 #### b) os homens são meros instrumentos de Deus
 
 [21] Em Sua bondade, Ele não nos castiga, como se fôssemos Seus inimigos; pelo contrário, como a filhos é que nos educa e corrige.
 
-Se bem atendermos, os homens nestas coisas não deixam de ser realmente ministros e como que instrumentos de Deus. Pode o homem nutrir profundo ódio contra seu semelhante, e desejar a sua ruína total, mas não poderá absolutamente fazer-lhe mal algum, sem a permissão de Deus. Compenetrado desta verdade, aturou José, com paciência, as ímpias maquinações de seus irmãos, e David os doestos que lhe dirigia Semei.[^379]
+Se bem atendermos, os homens nestas coisas não deixam de ser realmente ministros e como que instrumentos de Deus. Pode o homem nutrir profundo ódio contra seu semelhante, e desejar a sua ruína total, mas não poderá absolutamente fazer-lhe mal algum, sem a permissão de Deus. Compenetrado desta verdade, aturou José, com paciência, as ímpias maquinações de seus irmãos, e Davi os doestos que lhe dirigia Semei.[^379]
 
 Aqui vem a propósito um pensamento que São João Crisóstomo desenvolveu, com grande insistência e igual erudição: Ninguém pode ser lesado senão por si próprio.[^380] Pois os que se julgam mal tratados por outrem, quando examinarem a coisa com isenção de espírito, hão de descobrir que de outros não receberam nenhuma ofensa ou dano. Com serem injuriados por agentes exteriores, são eles que causam a si mesmos o maior dano, se por isso maculam o próprio coração com o pecado do ódio, da vingança e da inveja.
 
@@ -186,7 +186,7 @@ Assim parece que não abandona um instante sequer a ideia de homicídio ou de ou
 
 #### e) O ódio engendra outros pecados
 
-[24] Muitos são os males e pecados que, por certa conexão, se ligam necessàriamente a este pecado único de ódio. Por isso, foi nesse sentido que dizia São João: "Quem odeia seu irmão está em trevas, e anda nas trevas, e não sabe para onde vai, porque as trevas lhe cegaram os olhos".[^383] Logo, é fatal que caia muitas vezes.
+[24] Muitos são os males e pecados que, por certa conexão, se ligam necessariamente a este pecado único de ódio. Por isso, foi nesse sentido que dizia São João: "Quem odeia seu irmão está em trevas, e anda nas trevas, e não sabe para onde vai, porque as trevas lhe cegaram os olhos".[^383] Logo, é fatal que caia muitas vezes.
 
 Do contrário, como poderia alguém fazer justiça às palavras e ações de uma pessoa, se nutre ódio contra ela? Daí nascem, portanto, os juízos temerários e injustos, as iras, as invejas, as detrações, e outros pecados semelhantes, que costumam envolver também as pessoas que a ela se ligam por parentesco e amizade.[^384]
 
@@ -245,8 +245,8 @@ O sentido destas palavras é como se dissesse: Lembra-te, muitas e muitas vezes,
 [^373]: Vejam-se supra os §§ 16-18.
 [^374]: Mt 5, 4; 9, 44.
 [^375]: Eccli 28, 2; Mt 6, 14; Mc 11, 25; Lc 6, 37; Eph 4, 32; Col 3, 13.
-[^376]: Eccli 28, 1; Mt 6, 15; 18, 4; Mc 11, 26.
-[^377]: Iob 1, 21.
+[^376]: Sr 28, 1; Mt 6, 15; 18, 34; Mc 11, 26.
+[^377]: Jó 1, 21.
 [^378]: Gn 45, 4 ss.; 2 Reg 16, 10 ss.
 [^379]: Chrysost. in Libro "Quod nemo laeditur nisi a seipso".
 [^380]: Mt 6, 14; 18, 33.
@@ -258,5 +258,5 @@ O sentido destas palavras é como se dissesse: Lembra-te, muitas e muitas vezes,
 [^386]: Lc 23, 34.
 [^387]: Hb 12, 24.
 [^388]: Eccli 7, 40.
-[^389]: <!-- OCR-illegible: footnote anchor cut off at end of file -->
-[^390]: <!-- OCR-illegible: footnote anchor cut off at end of file -->
+[^389]: Hb 12, 24.
+[^390]: Sr 7, 40.

@@ -8,7 +8,7 @@
 
 É, pois, na explanação do terceiro Artigo que o pároco irá mostrando a grandeza deste mistério. A Sagrada Escritura no-lo propõe, frequentes vezes, como fator fundamental de nossa salvação.
 
-Ensinará como seu sentido se resume em crermos e confessarmos que o mesmo Jesus Cristo, nosso único Senhor e Filho de Deus, assumindo carne humana no seio da Virgem pela nossa salvação, não foi concebido de germe masculino[^210], como os outros homens, mas por obra do Espírito Santo[^211], acima de todas as leis da natureza, de sorte que a mesma Pessoa permaneceu Deus, qual era desde toda a eternidade, e tornou-Se então Homem, o que antes nunca tinha sido.[^212]
+Ensinará como seu sentido se resume em crermos e confessarmos que o mesmo Jesus Cristo, nosso único Senhor e Filho de Deus, assumindo carne humana no seio da Virgem pela nossa salvação, não foi concebido de germe masculino[^210], como os outros homens, mas por obra do Espírito Santo[^211], acima de todas as leis da natureza, de sorte que a mesma Pessoa permaneceu Deus, qual era desde toda a eternidade, e tornou-Se então Homem, o que antes nunca tinha sido.
 
 O que prova, claramente, ser este o sentido destas palavras, é a profissão de fé do Sagrado Concílio de Constantinopla: "O qual desceu dos céus, por amor de nós homens, e por causa de nossa salvação; e encarnou de Maria Virgem por obra do Espírito Santo, e Se fez homem".
 
@@ -20,13 +20,13 @@ Daí resultou que, nessa admirável união, se conservaram as operações e prop
 
 ## A conceição de Cristo
 
-[3] Sendo essencial explicar bem as noções, o pároco ensinará as seguintes particularidades. Quando dizemos que o Filho de Deus foi concebido por obra do Espírito Santo, não afirmamos que esta Pessoa da Santíssima Trindade consumou sòzinha o mistério da Encarnação. Ainda que só o Filho assumiu a natureza humana, nem por isso deixaram de ser autoras deste mistério todas as três Pessoas da Santíssima Trindade, o Padre, o Filho, e o Espírito Santo.
+[3] Sendo essencial explicar bem as noções, o pároco ensinará as seguintes particularidades. Quando dizemos que o Filho de Deus foi concebido por obra do Espírito Santo, não afirmamos que esta Pessoa da Santíssima Trindade consumou sòzinha o mistério da Encarnação. Ainda que só o Filho assumiu a natureza humana, nem por isso deixaram de ser autoras deste mistério todas as três Pessoas da Santíssima Trindade, o Pai, o Filho, e o Espírito Santo.
 
-Em geral, devemos ter como norma de fé cristã: Tudo o que Deus opera fora de si nas coisas criadas, é obra comum das três Pessoas. Uma não opera mais do que as outras, nem uma sem as outras. A única coisa que não pode ser comum a todas as Pessoas, é o modo de proceder uma da outra. Com efeito, só o Filho é gerado pelo Padre, o Espírito Santo procede do Padre e do Filho.
+Em geral, devemos ter como norma de fé cristã: Tudo o que Deus opera fora de si nas coisas criadas, é obra comum das três Pessoas. Uma não opera mais do que as outras, nem uma sem as outras. A única coisa que não pode ser comum a todas as Pessoas, é o modo de proceder uma da outra. Com efeito, só o Filho é gerado pelo Pai, o Espírito Santo procede do Pai e do Filho.
 
 Tudo, porém, o que operam para fora, é obra comum das três Pessoas, sem diferença alguma. A esta espécie de operação pertence a Encarnação do Filho de Deus.
 
-Apesar disso, a Sagrada Escritura costuma, das coisas que são comuns às três Pessoas, atribuir umas a esta Pessoa, outras àquela, como por exemplo ao Padre o supremo poder sobre todas as coisas, ao Filho a sabedoria, e o amor ao Espírito Santo.
+Apesar disso, a Sagrada Escritura costuma, das coisas que são comuns às três Pessoas, atribuir umas a esta Pessoa, outras àquela, como por exemplo ao Pai o supremo poder sobre todas as coisas, ao Filho a sabedoria, e o amor ao Espírito Santo.
 
 Como o mistério da Encarnação de Deus nos revela a singular e imensa benignidade de Deus para conosco, é por esse motivo que, de modo particular, atribuímos essa operação ao Espírito Santo.
 
@@ -38,7 +38,7 @@ Mas, o que ultrapassa a ordem natural das coisas, e supera a força de nossa int
 
 Ninguém pode duvidar que esta foi uma nova e admirável obra do Espírito Santo, pois segundo a ordem da natureza a alma humana não pode informar nenhum corpo, senão em certo lapso de tempo.
 
-Acresce ainda outro fato, digno de maior admiração. Tanto que a alma se uniu ao corpo, a própria Divindade se uniu também ao corpo e à alma. Por conseguinte, logo que o corpo foi formado, e simultâneamente animado, a Divindade ficou ligada tanto ao corpo como à alma.
+Acresce ainda outro fato, digno de maior admiração. Tanto que a alma se uniu ao corpo, a própria Divindade se uniu também ao corpo e à alma. Por conseguinte, logo que o corpo foi formado, e simultaneamente animado, a Divindade ficou ligada tanto ao corpo como à alma.
 
 Daí se segue que, no mesmo instante, Deus perfeito veio a ser perfeito homem; e que a Santíssima Virgem pode, verdadeira e propriamente, ser chamada Mãe de Deus, porque no mesmo instante concebia a Deus e ao Homem.
 
@@ -46,7 +46,7 @@ Daí se segue que, no mesmo instante, Deus perfeito veio a ser perfeito homem; e
 
 Assim também reconheceu Isabel a conceição do Filho de Deus, quando toda cheia do Espírito Santo prorrompeu nas palavras: "Donde me vem esta graça de chegar a mim a Mãe do meu Senhor?"[^222]
 
-Mas, como acabamos de dizer, o Corpo de Cristo se formou do puríssimo sangue da Virgem toda Imaculada, sem nenhuma interferência de varão, mas ùnicamente pela virtude do Espírito Santo.
+Mas, como acabamos de dizer, o Corpo de Cristo se formou do puríssimo sangue da Virgem toda Imaculada, sem nenhuma interferência de varão, mas unicamente pela virtude do Espírito Santo.
 
 Assim também a Sua Alma recebeu, desde o primeiro instante da conceição, a mais rica abundância do Espírito Santo e toda a plenitude de [Seus] dons e carismas. Segundo o testemunho de São João[^223], Deus "não Lhe dá o Espírito por medida", como aos outros homens, aos quais reveste de graça e santidade, mas infundiu-Lhe na alma todas as graças com tanta profusão, que "de Sua plenitude todos nós recebemos".[^224]
 
@@ -68,7 +68,7 @@ Após atenta consideração destas verdades, os fiéis devem crer e adorar, com 
 
 O Anjo foi o primeiro a anunciar ao mundo esta mensagem de felicidade, e suas palavras nos dão a entender, com quanta alegria e elevação de espírito não devemos meditar este mistério da fé: "Eis que venho anunciar-vos uma grande alegria para todo o povo".[^226] E também os cantares da milícia celeste: "Glória a Deus nas alturas, e paz na terra aos homens de boa vontade!"
 
-Desde aquele instante, começou realmente a cumprir-se a grandiosa promessa de Deus a Abraão, quando lhe dissera que, um dia, "todos os povos seriam abençoados em sua descendência".[^227] Maria, a quem proclamamos e veneramos como verdadeira Mãe de Deus, — por ter dado à luz aquela Pessoa que era ao mesmo tempo Deus e Homem, — [Maria] descendia da estirpe real de David.[^228]
+Desde aquele instante, começou realmente a cumprir-se a grandiosa promessa de Deus a Abraão, quando lhe dissera que, um dia, "todos os povos seriam abençoados em sua descendência".[^227] Maria, a quem proclamamos e veneramos como verdadeira Mãe de Deus, — por ter dado à luz aquela Pessoa que era ao mesmo tempo Deus e Homem, — [Maria] descendia da estirpe real de Davi.[^228]
 
 [8] Se a conceição de Cristo já excede toda a ordem da natureza, em Seu nascimento nada podemos contemplar que não seja de caráter divino.
 
@@ -88,7 +88,7 @@ Por ter dado crédito à serpente[^232], Eva acarretou maldição e morte ao gê
 
 Esta é a razão por que os Santos Doutores aplicaram a este mistério muitos trechos, que lemos em vários lugares da Sagrada Escritura. Entre os quais se fala principalmente daquela porta do Santuário, que Ezequiel viu fechada[^238], daquela pedra que se desprendeu do monte, "sem a intervenção de mãos humanas", como diz Daniel, "a qual se avolumou em grande montanha, e encheu toda a superfície da terra"[^239]; da "vara de Aarão, a única que deitou rebentos, entre as varas dos príncipes de Israel"[^240]; da "sarça, que Moisés viu arder sem se consumir".[^241]
 
-A história do natal de Cristo foi amplamente descrita pelo santo Evangelista.[^242] Não julgamos, pois, necessário entrar aqui em outros pormenores, porque o pároco os encontrará fàcilmente na leitura do Evangelho.
+A história do natal de Cristo foi amplamente descrita pelo santo Evangelista.[^242] Não julgamos, pois, necessário entrar aqui em outros pormenores, porque o pároco os encontrará facilmente na leitura do Evangelho.
 
 ## Frutos deste mistério
 
@@ -112,13 +112,12 @@ Sem embargo, devemos cuidar não nos aconteça, para nossa maior desgraça, o qu
 
 Assim como Ele Se fez homem por obra do Espírito Santo, e nasceu de uma maneira que supera as leis da natureza; assim como Ele é santo, e representa [em pessoa] a própria santidade; — assim também devemos nós nascer "não do sangue, nem do desejo da carne, mas de Deus"[^251]; e depois "levar uma vida nova"[^252], como "novas criaturas"[^253], para conservarmos aquela santidade e pureza de espírito, que é o maior apanágio dos homens regenerados pelo Espírito de Deus.
 
-Desta arte, reproduziremos em nós uma certa imagem e semelhança da santa conceição e do santo nascimento do Filho de Deus. Esta possibilidade constitui para nós o objeto de uma fé inabalável. E na posse desta fé, contemplamos enlevados, e adoramos a "sabedoria de Deus no Mistério[^256], a qual se acha encoberta".[^257]
+Desta arte, reproduziremos em nós uma certa imagem e semelhança da santa conceição e do santo nascimento do Filho de Deus.[^254] Esta possibilidade constitui para nós o objeto de uma fé inabalável.[^255] E na posse desta fé, contemplamos enlevados, e adoramos a "sabedoria de Deus no Mistério[^256], a qual se acha encoberta".[^257]
 
-[^210]: Mt 1, 20.
-[^211]: Lc 1, 24.
-[^212]: DU 256 422 429 993.
-[^213]: Io 1, 1.
-[^214]: Io 1, 14.
+[^210]: Traduzimos literalmente, mas no púlpito é preciso parafrasear. DU 256 422 429 993.
+[^211]: Mt 1, 20.
+[^213]: Jo 1, 1.
+[^214]: Jo 1, 14.
 [^215]: Em latim: Hypostasis.
 [^216]: ... hipóstase.
 [^217]: Leo M. sermo 21, 2; DU 288 344.
@@ -136,20 +135,20 @@ Desta arte, reproduziremos em nós uma certa imagem e semelhança da santa conce
 [^229]: Io 20, 19.
 [^230]: O vulgo entre nós confunde "intemerata" com "intrépido". DU 113 201 ss. 214 256 282 1314.
 [^231]: 1 Cor 15, 21-32; Rom 5, 14.
-[^232]: Gen 3, 6; Eccli 25, 33.
+[^232]: Gn 3, 6; Sr 25, 33.
 [^233]: Lc 1, 38.
 [^234]: Eph 1, 3.
 [^235]: Eph 2, 3.
 [^236]: Gal 4, 4-7.
 [^237]: Gen 3, 16.
 [^238]: Ez 44, 2.
-[^239]: Dan 2, 34-35 circa finem.
+[^239]: Dn 2, 34-35 circa finem.
 [^240]: Num 17, 8.
 [^241]: Exod 3, 2 ss.
 [^242]: S. Lucas.
 [^243]: Rom 15, 4.
-[^244]: Iob 26, 11.
-[^245]: Apoc 7, 1; Ps 96, 7.
+[^244]: Jó 26, 11.
+[^245]: Ap 7, 11; Sl 96, 7.
 [^246]: Lc 2, 6-7.
 [^247]: Ps 49, 12.
 [^248]: Io 1, 11.
@@ -158,5 +157,7 @@ Desta arte, reproduziremos em nós uma certa imagem e semelhança da santa conce
 [^251]: Io 1, 13.
 [^252]: Rom 6, 4.
 [^253]: 2 Cor 5, 17.
+[^254]: ...em nosso renascimento.
+[^255]: LCR, Doney e Manz trazem a variante "suscipimus".
 [^256]: 1 Cor 2, 7.
 [^257]: 1 Cor 2, 7.

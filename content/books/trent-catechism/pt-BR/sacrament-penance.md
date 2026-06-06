@@ -2,7 +2,7 @@
 
 ## Necessidade do Sacramento
 
-[1] Em vista da fraqueza e inconstância da natureza, qual todos conhecemos e fàcilmente sentimos, por experiência própria, ninguém pode ignorar de quanta necessidade é o Sacramento da Penitência. Ora, se a importância e gravidade do assunto serve de critério para a diligência, que os párocos devem empregar na exposição de cada ponto, diremos categóricamente que nunca será demais o zelo que consagrarem à explicação da presente doutrina.
+[1] Em vista da fraqueza e inconstância da natureza, qual todos conhecemos e facilmente sentimos, por experiência própria, ninguém pode ignorar de quanta necessidade é o Sacramento da Penitência. Ora, se a importância e gravidade do assunto serve de critério para a diligência, que os párocos devem empregar na exposição de cada ponto, diremos categóricamente que nunca será demais o zelo que consagrarem à explicação da presente doutrina.
 
 Vamos mais adiante. Deste Sacramento devem eles tratar mais explicitamente que do Batismo, pois o Batismo é administrado uma só vez, e não pode ser reiterado, ao passo que a Penitência se impõe como obrigação, quantas vezes o homem caia em pecado, depois do Batismo. Neste sentido, declarou o Concílio de Trento, que o Sacramento da Penitência não é menos necessário para quem tenha pecado depois do Batismo, do que o Batismo para a salvação dos que ainda não foram regenerados.
 
@@ -10,11 +10,11 @@ Conhecida é a comparação de São Jerônimo, muito imitada por todos os teólo
 
 Não dizemos estas verdades para exortar não só os pastores, mas também os simples fiéis, a fim de não se tornarem culpados de indiferença em negócio da mais alta importância. Conscientes da fragilidade comum a todos os homens, o mais ardente desejo de todos será poderem, com o auxílio de Deus, progredir no caminho do Senhor, sem nenhuma queda ou deslize.
 
-Mas, se caírem uma vez e outra, tenham ante os olhos a suprema clemência de Deus que, à maneira do Bom Pastor, Se compraz em ligar e curar as feridas de Suas ovelhas. Assim nunca lhes acudirá a idéia de deixarem, para mais tarde, o salubérrimo remédio da Penitência.
+Mas, se caírem uma vez e outra, tenham ante os olhos a suprema clemência de Deus que, à maneira do Bom Pastor, Se compraz em ligar e curar as feridas de Suas ovelhas. Assim nunca lhes acudirá a ideia de deixarem, para mais tarde, o salubérrimo remédio da Penitência.
 
 ## Sentidos da palavra Penitência
 
-[2] Ao entrarmos agora no assunto pròpriamente dito, explicaremos primeiro as várias acepções da palavra, para evitar que a ambiguidade do conceito não induza alguém a opiniões errôneas.
+[2] Ao entrarmos agora no assunto propriamente dito, explicaremos primeiro as várias acepções da palavra, para evitar que a ambiguidade do conceito não induza alguém a opiniões errôneas.
 
 Alguns tomam penitência no sentido de satisfação. Outros fazem-na apenas consistir numa vida nova, julgando que a penitência não deve levar em conta a vida passada, e com isso se apartam completamente da doutrina da fé católica. Eis por que se torna necessário explicar as várias significações da palavra.
 
@@ -22,7 +22,7 @@ Em primeiro lugar, fala-se de penitência quando alguém se desgosta de uma cois
 
 Outra espécie de penitência consiste em doer-se alguém de um pecado cometido, não por atenção a Deus, mas por causa de si próprio.
 
-Uma terceira espécie de penitência consiste, não só em doer-nos intimamente do pecado cometido, e darmos até algum sinal externo de nossa compunção, mas também em nos afligirmos únicamente por causa de Deus. A todas essas espécies, que acabamos de mencionar, é aplicável a definição de penitência.
+Uma terceira espécie de penitência consiste, não só em doer-nos intimamente do pecado cometido, e darmos até algum sinal externo de nossa compunção, mas também em nos afligirmos unicamente por causa de Deus. A todas essas espécies, que acabamos de mencionar, é aplicável a definição de penitência.
 
 Trata-se, evidentemente, do sentido figurado, quando lemos nas Sagradas Escrituras que Deus se penitenciou. Com tal modo de falar, acomodado aos sentimentos dos homens, as Sagradas Escrituras querem simplesmente exprimir que Deus decretou mudar alguma coisa. Realmente, os homens fazem assim. Quando se arrependem de alguma coisa, empregam todos os meios a fim de mudá-la. Neste sentido se diz na Escritura: "Deus se arrependeu de ter criado o homem". Noutro lugar também: "[Deus] se arrependeu de ter constituído rei a Saul".
 
@@ -58,6 +58,8 @@ O terceiro é voltar o homem às boas graças de Deus, cujo ódio e inimizade ha
 
 Todos estes considerandos provam, à saciedade, que a penitência constitui uma virtude.
 
+[8] Os pastores ensinarão, ainda, por quais degraus nos elevamos à prática dessa virtude sobrenatural. Em primeiro lugar, é a misericórdia de Deus que nos predispõe, e converte a Si os nossos corações. Em suas súplicas, o Profeta pedia essa graça: "Convertei-nos a Vós, Senhor, e nós nos converteremos".
+
 Depois, iluminados por essa luz, a fé nos faz tender interiormente para Deus, assim como atesta o Apóstolo: "Quem se aproxima de Deus, deve crer que Ele existe, e que é o remunerador daqueles que O procuram". Sobrevém, então, um sentimento de temor, pois a alma se desapega do afeto ao pecado, quando medita nos acerbos tormentos que ele lhe acarreta. Ao que parece, cabem neste lugar as palavras de Isaías: "Aconteceu-nos a nós, como à mulher grávida que, na iminência do parto, se contorce e brada no meio de suas dores".
 
 Acresce, porém, a esperança de alcançar a misericórdia divina. Reanimados por essa esperança, tomamos a resolução de emendar nossa vida e nossos costumes.
@@ -66,13 +68,11 @@ Por fim, inflama-se a caridade em nossos corações, e dela nasce aquele amor fi
 
 Tais são, por assim dizer, os degraus que nos fazem chegar a esta inestimável virtude da penitência.
 
-[8] Os pastores ensinarão, ainda, por quais degraus nos elevamos à prática dessa virtude sobrenatural. Em primeiro lugar, é a misericórdia de Deus que nos predispõe, e converte a Si os nossos corações. Em suas súplicas, o Profeta pedia essa graça: "Convertei-nos a Vós, Senhor, e nós nos converteremos".
-
 [9] Na verdade, devemos considerá-la como uma virtude toda divina e celestial, a que as Sagradas Escrituras fazem a promessa do Reino dos Céus, conforme o que escreve São Mateus: "Fazei penitência, porque está próximo o Reino dos Céus". E o Profeta Ezequiel: "Se o ímpio fizer penitência de todos os pecados que cometeu; se guardar todos os Meus Mandamentos; se proceder com equidade e justiça: é certo que terá a vida". Noutro lugar ainda: "Não quero a morte do pecador, mas que o pecador se converta de seu caminho, e tenha a vida". Incontestàvelmente, são palavras que devem entender-se da vida eterna e bem-aventurada.
 
 ## A Penitência como Sacramento
 
-[10] Acerca da penitência exterior, devemos ensinar que nela pròpriamente consiste a essência do Sacramento. Consta de alguns atos exteriores e sensíveis, que exprimem os efeitos que se operam interiormente na alma.
+[10] Acerca da penitência exterior, devemos ensinar que nela propriamente consiste a essência do Sacramento. Consta de alguns atos exteriores e sensíveis, que exprimem os efeitos que se operam interiormente na alma.
 
 Antes de tudo, convém explicar aos fiéis por que Cristo Nosso Senhor quis incluir a Penitência entre o número dos Sacramentos. O motivo principal foi tirar-nos todas as dúvidas sobre a remissão dos pecados, que Deus prometeu com as palavras: "Se o ímpio fizer penitência, etc.". Realmente, se assim não fosse, muitas dúvidas ficariam a respeito de nossa penitência interior, pois ninguém pode, e com razão, fiar-se da maneira de ajuizar, pessoalmente, as suas próprias ações.
 
@@ -154,11 +154,11 @@ Dela formularam os Padres do Concílio de Trento a seguinte definição: "Contri
 
 Através desta definição, os fiéis hão de reconhecer que a essência da contrição não consiste apenas em deixar alguém de pecar, ou em decidir uma mudança de vida, ou até em começá-la realmente; mas, antes de tudo, em odiar e detestar os erros da vida passada.
 
-Confirmam esta doutrina os frequentes clamores que saíam da boca de santos varões da Antiga Lei, conforme lemos nas Sagradas Escrituras. Assim lamentava David: "Estou fatigado de tanto gemer. Todas as noites, chego a lavar meu catre com lágrimas". "O Senhor escutou o clamor do meu pranto". E outro profeta dizia também: "Diante de Vós, repassarei a conta de todos os meus anos, na amargura de minha alma". Certamente, estas e outras dolorosas exclamações só podiam irromper de um verdadeiro ódio e profundo arrependimento dos pecados da vida passada.
+Confirmam esta doutrina os frequentes clamores que saíam da boca de santos varões da Antiga Lei, conforme lemos nas Sagradas Escrituras. Assim lamentava Davi: "Estou fatigado de tanto gemer. Todas as noites, chego a lavar meu catre com lágrimas". "O Senhor escutou o clamor do meu pranto". E outro profeta dizia também: "Diante de Vós, repassarei a conta de todos os meus anos, na amargura de minha alma". Certamente, estas e outras dolorosas exclamações só podiam irromper de um verdadeiro ódio e profundo arrependimento dos pecados da vida passada.
 
 [24] Já que definimos a contrição como uma dor, cumpre advertir os fiéis não suponham que seja uma dor perceptível aos sentidos corporais. Pois a contrição é um ato da vontade. Santo Agostinho explicava que a dor [sensível] é uma companheira da penitência, mas não é a própria penitência.
 
-Todavia, os Padres do Concílio usaram da expressão "dor", para designar a detestação e o ódio do pecado, já porque assim lhe chamam as Sagradas Escrituras — por exemplo, nas palavras de David: "Até quando nutrirei dúvidas em minha alma, e dor em meu coração, durante o dia inteiro?"; — já porque, da própria contrição, nasce uma dor na parte inferior da alma, sede da concupiscência.
+Todavia, os Padres do Concílio usaram da expressão "dor", para designar a detestação e o ódio do pecado, já porque assim lhe chamam as Sagradas Escrituras — por exemplo, nas palavras de Davi: "Até quando nutrirei dúvidas em minha alma, e dor em meu coração, durante o dia inteiro?"; — já porque, da própria contrição, nasce uma dor na parte inferior da alma, sede da concupiscência.
 
 Havia, pois, cabimento em se definir como dor a contrição, porque esta causa dor realmente. Como manifestação dessa dor, costumavam os penitentes trocar as suas vestes. A tal costume alude Nosso Senhor no Evangelho de São Mateus: "Ai de ti Corozaim! ai de ti, Betsaida! pois se em Tiro e na Sidônia fossem operados os milagres que se efetuaram no meio de vós, desde muito teriam já feito penitência no cilício e na cinza".
 
@@ -166,7 +166,7 @@ Havia, pois, cabimento em se definir como dor a contrição, porque esta causa d
 
 Por isso, a nenhuma outra dor se aplica essa designação, nem à dor que sentimos pela morte de pais ou filhos, ou por qualquer outra desgraça. É um termo privativo, para exprimir a dor que nos empolga, quando perdemos a graça de Deus e a inocência da alma.
 
-[26] Sem embargo, existem ainda outras expressões para designar a detestação dos pecados. Chama-se também contrição do coração, porquanto as Sagradas Escrituras tomam a miúde a palavra "coração" no sentido de vontade. Assim como o coração é o centro dos movimentos do corpo, assim também a vontade acerta e regula todas as outras potências da alma.
+[26] Sem embargo, existem ainda outras expressões para designar a detestação dos pecados. Chama-se também contrição do coração, porquanto as Sagradas Escrituras tomam amiúde a palavra "coração" no sentido de vontade. Assim como o coração é o centro dos movimentos do corpo, assim também a vontade acerta e regula todas as outras potências da alma.
 
 Os Santos Padres chamavam-lhe também compunção do coração, e gostavam desse termo, para intitular as obras que escreveram sobre a penitência. Pois, do mesmo modo que se cortam os tumores com um ferro, para que possa vazar o pus acumulado: assim também se cortam os corações com o escalpelo da contrição, para que possam eliminar o veneno mortal do pecado. Por essa mesma semelhança, o Profeta Joel considera a contrição como o ato de rasgar o coração: "Convertei-vos a Mim, de todo o vosso coração, com jejuns, com lágrimas, com lamentos. E rasgai os vossos corações".
 
@@ -188,7 +188,7 @@ Aplique-se o mesmo princípio, quando as lágrimas não acompanham a veemência 
 
 Aqui cabem aquelas palavras de Nosso Senhor, já citadas anteriormente: "Ai de ti, Corozaim! ai de ti, Betsaida! pois se em Tiro e Sidônia fossem operados os milagres, que se efetuaram no meio de vós, desde muito teriam já feito penitência no cilício e na cinza".
 
-No entanto, para comprovar o valor das lágrimas, bastam os preclaros exemplos dos Ninivitas, de David, da mulher pecadora, do Príncipe dos Apóstolos; todos eles imploraram, com muitas lágrimas, a misericórdia de Deus, e conseguiram o perdão de seus pecados.
+No entanto, para comprovar o valor das lágrimas, bastam os preclaros exemplos dos Ninivitas, de Davi, da mulher pecadora, do Príncipe dos Apóstolos; todos eles imploraram, com muitas lágrimas, a misericórdia de Deus, e conseguiram o perdão de seus pecados.
 
 [29] Com toda a instância, é preciso exortar e advertir os fiéis a que façam um ato de particular contrição, para cada pecado mortal que tiverem cometido. Assim descreve Ezequias a contrição, quando diz: "Em Vossa presença, repassarei pela lembrança todos os meus anos, na amargura da minha alma". Pois revolver todos os anos é examinar cada um de nossos pecados, para nos arrependermos deles. Em Ezequiel também está escrito: "Se o ímpio fizer penitência de todos os seus pecados... terá a vida".
 
@@ -200,7 +200,7 @@ Nesse mesmo sentido, recomendava Santo Agostinho: "O pecador deve considerar a q
 
 [31] Desta exposição podem os pastores inferir quais são, antes de tudo, as condições necessárias, para que haja verdadeiro arrependimento. E devem esmerar-se na explicação desta matéria ao povo cristão, para que todos conheçam por que meios poderão chegar ao verdadeiro arrependimento, e tenham ao mesmo tempo uma norma, para julgarem quão longe estão ainda da perfeição desta virtude.
 
-O primeiro requisito é aborrecer e detestar todos os pecados cometidos. Se nos arrependêssemos só de alguns, nossa penitência seria falsa e simulada, e não teria efeito salutar. Aplicam-se, nesse caso, as palavras de Santiago Apóstolo: "Pode alguém observar toda a Lei; mas, se a transgredir num só ponto, torna-se culpado de quebrar todos os seus preceitos".
+O primeiro requisito é aborrecer e detestar todos os pecados cometidos. Se nos arrependêssemos só de alguns, nossa penitência seria falsa e simulada, e não teria efeito salutar. Aplicam-se, nesse caso, as palavras de São Tiago Apóstolo: "Pode alguém observar toda a Lei; mas, se a transgredir num só ponto, torna-se culpado de quebrar todos os seus preceitos".
 
 O segundo é que a contrição deve incluir a vontade de confessar-se e de satisfazer. Mas deste ponto falaremos mais adiante.
 
@@ -210,11 +210,11 @@ O terceiro é que o penitente tome a firme e inabalável resolução de emendar 
 
 O indivíduo que deseja reconciliar-se com um amigo, a quem ofendera, deve não só mostrar-se pesaroso de tê-lo agravado, mas também precaver-se que nada, para o futuro, venha comprometer a amizade.
 
-Mas a estas duas condições deve unir-se necessàriamente a obediência, pois é justo que o homem obedeça à Lei a que está ligado, seja ela lei natural, divina, ou humana. Por conseguinte, se o penitente tirou alguma coisa de seu próximo, por violência ou por fraude, está obrigado a restituir. Da mesma forma, deve dar satisfação, mediante qualquer serviço ou benefício, quem lesou a fama ou a vida de outrem, por atos e palavras. Tornou-se sentença vulgar o que a respeito escreveu Santo Agostinho: "Não se perdoa o pecado, sem se restituir o roubado".
+Mas a estas duas condições deve unir-se necessariamente a obediência, pois é justo que o homem obedeça à Lei a que está ligado, seja ela lei natural, divina, ou humana. Por conseguinte, se o penitente tirou alguma coisa de seu próximo, por violência ou por fraude, está obrigado a restituir. Da mesma forma, deve dar satisfação, mediante qualquer serviço ou benefício, quem lesou a fama ou a vida de outrem, por atos e palavras. Tornou-se sentença vulgar o que a respeito escreveu Santo Agostinho: "Não se perdoa o pecado, sem se restituir o roubado".
 
 [33] Entre outros mais, é requisito essencial para a boa contrição que não haja menos cuidado e diligência em perdoarmos, plenamente, todas as afrontas recebidas de nosso próximo. Esta é a ordem formal de Nosso Senhor: "Se vós perdoardes aos homens as suas ofensas, também o vosso Pai Celeste vos perdoará os vossos pecados. Mas, se não perdoardes aos homens, o vosso Pai também não vos perdoará os vossos pecados".
 
-São estas as disposições a que os fiéis devem atender em matéria de contrição. Outras mais, que os pastores poderão fàcilmente aduzir, contribuem para tornar a contrição mais perfeita em seu gênero. Nem por isso devemos julgá-las tão essenciais, que sem elas não possa haver verdadeiro e salutar arrependimento.
+São estas as disposições a que os fiéis devem atender em matéria de contrição. Outras mais, que os pastores poderão facilmente aduzir, contribuem para tornar a contrição mais perfeita em seu gênero. Nem por isso devemos julgá-las tão essenciais, que sem elas não possa haver verdadeiro e salutar arrependimento.
 
 [34] Não devem os pastores limitar-se a instruir os fiéis nas verdades necessárias à salvação, mas devem ainda envidar todos os esforços, para que eles conformem toda a sua vida com as normas que lhes são prescritas. Para esse fim, será de muito proveito explicar-lhes, com frequência, a natureza e a eficácia da contrição.
 
@@ -250,7 +250,7 @@ Pela mesma razão, devemos julgar de muito proveito que as pessoas, atormentadas
 
 Afinal, não devem os pastores passar em silêncio a grande importância da Confissão, para o bem-estar e segurança da sociedade.
 
-Se eliminarmos da vida cristã a Confissão Sacramental, é certo que em toda a parte se insinuarão crimes ocultos e nefandos; depois, os homens não terão vergonha de cometer, pùblicamente, outros crimes mais graves ainda, uma vez que se depravaram com o hábito de pecar. Ora, o pudor natural de confessar impõe uma espécie de freio à desenvoltura do pecado, e reprime os maus sentimentos do coração.
+Se eliminarmos da vida cristã a Confissão Sacramental, é certo que em toda a parte se insinuarão crimes ocultos e nefandos; depois, os homens não terão vergonha de cometer, publicamente, outros crimes mais graves ainda, uma vez que se depravaram com o hábito de pecar. Ora, o pudor natural de confessar impõe uma espécie de freio à desenvoltura do pecado, e reprime os maus sentimentos do coração.
 
 Acabando, pois, de expor as vantagens da Confissão, devem os pastores falar, agora, de sua natureza e virtude.
 
@@ -260,7 +260,7 @@ Com propriedade dizemos ser uma acusação, porque os pecados não devem ser rel
 
 Todavia, se confessamos os pecados, é para alcançar o perdão. Nisso está, justamente, a enorme diferença entre este tribunal e as ações judiciais, que se movem contra crimes graves. Estas prevêem para o réu confesso pena e execução, em vez de isenção da culpa e condonação do delito.
 
-Embora usassem de outros termos, era quase neste mesmo sentido que os Santos Padres definiam a Confissão. Haja vista ao que declarava Santo Agostinho: "Ela é uma declaração, pela qual se descobre uma doença oculta, na esperança do perdão". E São Gregório: "Confissão é detestação dos pecados". Ambas as afirmações se reduzem fàcilmente à nossa definição, porque nela estão contidas.
+Embora usassem de outros termos, era quase neste mesmo sentido que os Santos Padres definiam a Confissão. Haja vista ao que declarava Santo Agostinho: "Ela é uma declaração, pela qual se descobre uma doença oculta, na esperança do perdão". E São Gregório: "Confissão é detestação dos pecados". Ambas as afirmações se reduzem facilmente à nossa definição, porque nela estão contidas.
 
 ## Instituição da Confissão por Cristo
 
@@ -270,7 +270,7 @@ Embora usassem de outros termos, era quase neste mesmo sentido que os Santos Pad
 
 Foi também nesse sentido que Nosso Senhor mandou aos leprosos, curados durante o caminho, se apresentassem aos sacerdotes e se submetessem ao seu julgamento.
 
-[41] Desde que Nosso Senhor conferiu aos sacerdotes o poder de reterem e perdoarem pecados, torna-se evidente que também os instituiu juízes dessa matéria. Ora, o Santo Concílio de Trento ponderou, com muita justeza, que não se pode julgar nenhum processo, nem moderar a justiça na aplicação de penas aos delitos, sem que haja pleno e absoluto conhecimento de causa. Donde se deduz lògicamente que, pela confissão dos penitentes, todos os pecados devem ser discriminados um por um aos sacerdotes.
+[41] Desde que Nosso Senhor conferiu aos sacerdotes o poder de reterem e perdoarem pecados, torna-se evidente que também os instituiu juízes dessa matéria. Ora, o Santo Concílio de Trento ponderou, com muita justeza, que não se pode julgar nenhum processo, nem moderar a justiça na aplicação de penas aos delitos, sem que haja pleno e absoluto conhecimento de causa. Donde se deduz logicamente que, pela confissão dos penitentes, todos os pecados devem ser discriminados um por um aos sacerdotes.
 
 Esta é a doutrina que os pastores hão de ensinar, de acordo com a definição do Sagrado Concílio de Trento, e com a tradição constante da Igreja Católica.
 
@@ -278,7 +278,7 @@ Se, pois, percorrermos com atenção os Santos Padres, encontraremos a cada pass
 
 Se quisermos recorrer às figuras do Antigo Testamento, é indubitável que se referiam à confissão dos pecados, as diversas categorias de sacrifícios que os sacerdotes ofertavam, em expiação das várias espécies de pecados.
 
-[42] Além de saberem que a Confissão foi instituída por Nosso Senhor e Salvador, devem os fiéis tomar conhecimento de que a Igreja, por sua própria autoridade, lhe acrescentou certos ritos e cerimônias solenes. Embora não constituam a essência do Sacramento, fazem todavia realçar a sua grandeza e afervoram os piedosos corações dos penitentes, para que consigam, mais fàcilmente, a graça de Deus.
+[42] Além de saberem que a Confissão foi instituída por Nosso Senhor e Salvador, devem os fiéis tomar conhecimento de que a Igreja, por sua própria autoridade, lhe acrescentou certos ritos e cerimônias solenes. Embora não constituam a essência do Sacramento, fazem todavia realçar a sua grandeza e afervoram os piedosos corações dos penitentes, para que consigam, mais facilmente, a graça de Deus.
 
 Quando, pois, prostrados aos pés do sacerdote, de cabeça descoberta, com o rosto inclinado para a terra, com as mãos erguidas num gesto de súplica, e com outros sinais de humildade cristã, que não são necessários para a validade do Sacramento, confessamos então os nossos pecados: acode-nos logo a lembrança nítida de que devemos não só reconhecer a celestial virtude deste Sacramento, mas também procurar e pedir a misericórdia divina, com todas as veras de nossa alma.
 
@@ -286,9 +286,9 @@ Quando, pois, prostrados aos pés do sacerdote, de cabeça descoberta, com o ros
 
 Disso temos um sinal evidente na belíssima metáfora usada por Nosso Senhor, quando Ele deu o nome de chave dos céus ao poder de administrar este Sacramento. Como ninguém pode entrar num recinto fechado, sem a intervenção de quem guarda as chaves: assim também não será admitida pessoa alguma no céu, se as portas lhe não forem abertas pelos sacerdotes, a cuja discrição Nosso Senhor entregou as chaves.
 
-Do contrário, nenhum valor teria, na Igreja, o exercício do poder das chaves. Se houvesse outro meio de franquear a entrada, debalde o detentor das chaves excluiria alguém de entrar no céu. Santo Agostinho reconheceu essa situação, com muita perspicácia, quando assim se externava: "Ninguém diga de si para consigo: Eu faço penitência às ocultas, na presença do Senhor. Deus sabe o que me vai na alma, e me dará perdão. Seriam, então, infundadas aquelas palavras: O que desligardes na terra, será desligado também no céu? Será que as chaves foram confiadas, inùtilmente, à Igreja de Deus?"
+Do contrário, nenhum valor teria, na Igreja, o exercício do poder das chaves. Se houvesse outro meio de franquear a entrada, debalde o detentor das chaves excluiria alguém de entrar no céu. Santo Agostinho reconheceu essa situação, com muita perspicácia, quando assim se externava: "Ninguém diga de si para consigo: Eu faço penitência às ocultas, na presença do Senhor. Deus sabe o que me vai na alma, e me dará perdão. Seriam, então, infundadas aquelas palavras: O que desligardes na terra, será desligado também no céu? Será que as chaves foram confiadas, inutilmente, à Igreja de Deus?"
 
-A mesma opinião expende Santo Ambrósio no seu Livro sobre a Penitência, onde confuta a heresia dos Novacianos, segundo os quais o poder de perdoar pecados deve reservar-se exclusivamente a Deus Nosso Senhor. "Queria eu saber, diz ele, quem honra mais a Deus: aquele que obedece às Suas ordens, ou aquele que Lhe opõe resistência? Deus mandou-nos obedecer aos Seus ministros. Quando, pois, lhes obedecemos, sòmente a Deus é que prestamos homenagem".
+A mesma opinião expende Santo Ambrósio no seu Livro sobre a Penitência, onde confuta a heresia dos Novacianos, segundo os quais o poder de perdoar pecados deve reservar-se exclusivamente a Deus Nosso Senhor. "Queria eu saber, diz ele, quem honra mais a Deus: aquele que obedece às Suas ordens, ou aquele que Lhe opõe resistência? Deus mandou-nos obedecer aos Seus ministros. Quando, pois, lhes obedecemos, somente a Deus é que prestamos homenagem".
 
 ## Quem e Quando se Deve Confessar
 
@@ -346,7 +346,7 @@ Na acusação, devemos mostrar-nos ao sacerdote, da mesma maneira que nos conhec
 
 Ora, se não dissermos todos os pecados, ou se nos metermos em explicações fora de propósito, é claro que a acusação não terá as qualidades supracitadas.
 
-[51] Muito para louvar são os fiéis que, na exposição de seus pecados, dão prova de certa discrição e reverência. Pois não devemos demasiar-nos em muitas palavras, mas com modesta brevidade dizer sòmente o que for necessário, para declarar a natureza e as circunstâncias de cada pecado.
+[51] Muito para louvar são os fiéis que, na exposição de seus pecados, dão prova de certa discrição e reverência. Pois não devemos demasiar-nos em muitas palavras, mas com modesta brevidade dizer somente o que for necessário, para declarar a natureza e as circunstâncias de cada pecado.
 
 [52] Particular solicitude devem ter, assim o penitente como o sacerdote, em conservar secretas as palavras trocadas na Confissão. Esta é também a razão por que a ninguém formalmente se permite confessar, por intermédio de outra pessoa, ou por correspondência, porque assim não seria possível fazê-lo secretamente.
 
@@ -388,7 +388,7 @@ Existe avultado número de fiéis, para os quais em geral nada custa tanto passa
 
 Sendo, pois, necessário trabalhar com maior zelo pela salvação dessas almas, devem os sacerdotes, em primeiro lugar, investigar cuidadosamente, se o penitente tem verdadeiro arrependimento de seus pecados, e o firme e deliberado propósito de abandonar o pecado para o futuro.
 
-Se virem o penitente nessas disposições, advirtam-no e exortem-no, porfiadamente, a render graças a Deus por tão grande e singular benefício: a não deixar jamais de pedir-Lhe os auxílios da graça celestial, por cuja força e proteção possa, fàcilmente, repelir e vencer as más inclinações.
+Se virem o penitente nessas disposições, advirtam-no e exortem-no, porfiadamente, a render graças a Deus por tão grande e singular benefício: a não deixar jamais de pedir-Lhe os auxílios da graça celestial, por cuja força e proteção possa, facilmente, repelir e vencer as más inclinações.
 
 Ensinem-lhe, também, que não deixe passar um só dia sem fazer alguma meditação dos mistérios da Paixão de Nosso Senhor, para se mover ao ardente desejo de segui-lO e amá-lO, no mais alto grau de caridade. Por efeito de tal meditação, há de sentir-se cada vez mais fortalecido contra todas as tentações do demônio. Na verdade, se nos ataques do inimigo esmorecemos e sucumbimos, tão depressa e tão facilmente, o único motivo está em não procurar, pela meditação das coisas sobrenaturais, inflamar-nos daquele fogo do amor divino, que enche nossa alma de nova força e coragem.
 
@@ -424,11 +424,11 @@ Quanto ao sentido que neste lugar interessa, os teólogos empregam o termo "sati
 
 A primeira espécie de satisfação, e a mais nobre de todas, resgata, plenamente, o que devemos pela gravidade de nossos pecados, ainda que Deus quisesse tratar-nos com o rigor de sua justiça. Nessas condições estava aquela reparação que aplacou a Deus, e no-lO tornou propício; devemo-la únicamente a Cristo Nosso Senhor, que na Cruz pagou o resgate pelos nossos pecados, e assim prestou a Deus a mais perfeita satisfação. Nenhuma criatura teria em si tanto valor e préstimo, que pudesse livrar-nos de tamanha dívida. Por isso, como atesta São João, "Ele próprio é a propiciação pelos nossos pecados, e não só pelos nossos, mas pelos pecados do mundo inteiro".
 
-Esta é, pois, uma satisfação plena e superabundante, que em tudo corresponde à gravidade dos pecados que jamais se cometeram neste mundo. Pelo peso de tal satisfação, as obras dos homens adquirem grande valor e mérito aos olhos de Deus; sem ela, não seriam objeto de nenhuma estima e consideração. A este fato parecem referir-se aquelas palavras em que David prorrompeu, depois de tê-lo ponderado de si para consigo: "Que retribuirei ao Senhor por todos os benefícios que me tem feito?" E nada encontrando que fosse digno para retribuir tão grandes e tão numerosos benefícios, senão esta satisfação, a que dava o nome de "cálice", David acrescentou em seguida: "Tomarei o cálice da salvação, e invocarei o nome do Senhor".
+Esta é, pois, uma satisfação plena e superabundante, que em tudo corresponde à gravidade dos pecados que jamais se cometeram neste mundo. Pelo peso de tal satisfação, as obras dos homens adquirem grande valor e mérito aos olhos de Deus; sem ela, não seriam objeto de nenhuma estima e consideração. A este fato parecem referir-se aquelas palavras em que Davi prorrompeu, depois de tê-lo ponderado de si para consigo: "Que retribuirei ao Senhor por todos os benefícios que me tem feito?" E nada encontrando que fosse digno para retribuir tão grandes e tão numerosos benefícios, senão esta satisfação, a que dava o nome de "cálice", Davi acrescentou em seguida: "Tomarei o cálice da salvação, e invocarei o nome do Senhor".
 
 Outra espécie de satisfação é a que se chama satisfação canônica. Cumpre-se num prazo determinado. Na Igreja Primitiva, vigorava o costume de impor-se alguma pena aos pecadores, quando eram absolvidos. Ora, o cumprimento dessa pena veio a chamar-se satisfação.
 
-Dá-se, porém, o mesmo nome de satisfação a qualquer espécie de penitência, que escolhemos e cumprimos voluntàriamente, sem nos ser prescrita pelo sacerdote.
+Dá-se, porém, o mesmo nome de satisfação a qualquer espécie de penitência, que escolhemos e cumprimos voluntariamente, sem nos ser prescrita pelo sacerdote.
 
 No entanto, essa espécie de satisfação não pertence de modo algum ao Sacramento. Como parte integrante do Sacramento, só podemos considerar aquela que o sacerdote nos manda prestar a Deus, em reparação dos pecados cometidos, mas com a condição de que nos decidamos a fugir, a todo o transe, qualquer pecado para o futuro.
 
@@ -440,7 +440,7 @@ Sendo assim, fácil será convencer os fiéis de que os penitentes precisam dedi
 
 [61] Diga-se-lhes, também, que todo pecado acarreta consigo duas consequências: culpa e castigo. Ainda que, pela extinção da culpa, seja também perdoado o suplício da morte eterna no inferno, todavia, como declarou o Concílio de Trento, Nosso Senhor nem sempre perdoa os remanescentes dos pecados e a pena temporal que lhes é devida.
 
-Dessa verdade, há exemplos formais na Sagrada Escritura: no terceiro capítulo do Gênesis, nos capítulos duodécimo e vigésimo segundo dos Números, e em muitos outros lugares. No entanto, o mais claro e o mais sugestivo dos exemplos, vemo-lo na pessoa de David. Natã lhe havia assegurado: "O Senhor também te perdoou o pecado, e não morrerás". Isso não obstante, David submeteu-se, voluntàriamente, às mais duras penitências, e implorava dia e noite a misericórdia divina: "Lavai-me sempre mais de minha iniquidade, e purificai-me do meu pecado; porquanto reconheço a minha iniquidade, e meu pecado está continuamente diante dos meus olhos".
+Dessa verdade, há exemplos formais na Sagrada Escritura: no terceiro capítulo do Gênesis, nos capítulos duodécimo e vigésimo segundo dos Números, e em muitos outros lugares. No entanto, o mais claro e o mais sugestivo dos exemplos, vemo-lo na pessoa de Davi. Natã lhe havia assegurado: "O Senhor também te perdoou o pecado, e não morrerás". Isso não obstante, Davi submeteu-se, voluntariamente, às mais duras penitências, e implorava dia e noite a misericórdia divina: "Lavai-me sempre mais de minha iniquidade, e purificai-me do meu pecado; porquanto reconheço a minha iniquidade, e meu pecado está continuamente diante dos meus olhos".
 
 Por estas palavras, pedia ele ao Senhor lhe perdoasse não só a culpa, mas também o castigo merecido pela culpa; que, depois de o purificar dos resquícios do pecado, lhe restituísse a antiga formosura e integridade da alma. Não obstante o fervor de suas preces, foi todavia punido por Nosso Senhor com a morte do filho que tivera do adultério; com a revolta e a morte de Absalão, a quem amava com particular carinho; com outros castigos e flagelos, que já antes lhe haviam sido cominados.
 
@@ -452,15 +452,15 @@ Esta é também a doutrina que os Santos Padres sempre ensinaram na Igreja Cató
 
 Outra razão ainda. As penas satisfatórias constituem, por assim dizer, uma documentação pública da dor, que sentimos, pelos pecados cometidos. Assim damos também uma reparação à Igreja, que fica gravemente prejudicada com os nossos pecados. Nesse sentido, disse Agostinho: "Deus não despreza um coração contrito e humilhado. Todavia, a dor de um coração quase sempre se mantém oculta aos demais, e nem chega ao conhecimento de outrem, por palavras ou sinais de qualquer espécie. Por isso, tiveram razão os prelados da Igreja em determinar tempos para penitência, a fim de se dar satisfação também à Igreja, dentro da qual são remitidos os próprios pecados".
 
-As obras de penitência mostram aos outros como eles devem regular a sua própria vida, e entregar-se aos exercícios de piedade. Ao verem as penitências que nos foram impostas, por causa de nossos pecados, os outros homens se capacitarão de que precisam governar bem todos os atos de sua vida, e corrigir os velhos modos de proceder.
+[63] Ademais, os exemplos de nossa penitência mostram aos outros como eles devem regular a sua própria vida, e entregar-se aos exercícios de piedade. Ao verem as penitências que nos foram impostas, por causa de nossos pecados, os outros homens se capacitarão de que precisam governar bem todos os atos de sua vida, e corrigir os velhos modos de proceder.
 
-Por isso, a Igreja determinou, com muito acerto, fosse imposta uma penitência pública aos fiéis que pecaram pùblicamente, para que os outros, escarmentados pelo castigo, pusessem maior cautela em não pecar para o futuro. De vez em quando, costumava a Igreja fazer assim até com os pecados ocultos de maior gravidade.
+Por isso, a Igreja determinou, com muito acerto, fosse imposta uma penitência pública aos fiéis que pecaram publicamente, para que os outros, escarmentados pelo castigo, pusessem maior cautela em não pecar para o futuro. De vez em quando, costumava a Igreja fazer assim até com os pecados ocultos de maior gravidade.
 
 Durante a penitência pública, os pastores rogavam a Deus pela salvação dos penitentes, e não cessavam de exortá-los fizessem outro tanto por si mesmos. Nesse particular, teve Santo Ambrósio um zelo excepcional. Conta-se que, por suas lágrimas, abrandou a muitos que se aproximavam empedernidos do Sacramento da Penitência, de sorte que chegaram a sentir a dor de uma verdadeira contrição.
 
 Posteriormente, o rigor da antiga disciplina diminuiu tanto, e a caridade arrefeceu de tal maneira que, para alcançarem o perdão dos pecados, na maior parte os fiéis já não julgam necessária a dor íntima da alma, nem o gemer do coração, mas dão-se por satisfeitos com as aparências de arrependimento.
 
-[64] Pela sujeição a tais penas, conseguimos também reproduzir, em nós mesmos, a imagem e semelhança de Jesus Cristo, nossa Cabeça, que como tal padeceu, e foi tentado. Nada mais repugnante, diz São Bernardo, do que ser um membro mimoso ligado a uma cabeça coroada de espinhos. Pois, como afirma o Apóstolo, "somos co-herdeiros de Cristo; mas, isto sòmente, se sofrermos com Ele". E noutro lugar escreveu: "Se com Ele morrermos, com Ele também viveremos. Se perseverarmos no sofrimento, havemos também de reinar com Ele".
+[64] Pela sujeição a tais penas, conseguimos também reproduzir, em nós mesmos, a imagem e semelhança de Jesus Cristo, nossa Cabeça, que como tal padeceu, e foi tentado. Nada mais repugnante, diz São Bernardo, do que ser um membro mimoso ligado a uma cabeça coroada de espinhos. Pois, como afirma o Apóstolo, "somos co-herdeiros de Cristo; mas, isso somente, se sofrermos com Ele". E noutro lugar escreveu: "Se com Ele morrermos, com Ele também viveremos. Se perseverarmos no sofrimento, havemos também de reinar com Ele".
 
 [65] Ensina São Bernardo que no pecado aparecem dois efeitos: conspurcação e ferimento da alma. A conspurcação, diz ele, é tirada pela misericórdia de Deus; mas, para curar os ferimentos do pecado, é muito necessária a medicação, que se faz com o remédio da Penitência.
 
@@ -520,7 +520,7 @@ Eis indicada a matéria que se deve explicar, com muita extensão e clareza, ace
 
 Havendo muitos que, com belas palavras, prometem cumprir a sua obrigação, ao mesmo tempo que estão firmemente decididos a nunca executar a promessa, é de todo necessário obrigá-los formalmente à restituição. Sempre de novo devemos martelar-lhes aquelas palavras do Apóstolo: "Quem furtava, já não furte; mas antes trabalhe, ocupando-se com suas mãos em algum mister honesto, para ter o que dar a quem padece necessidade".
 
-[74] Na imposição da obra satisfatória, compreendam os sacerdotes que nada poderão estabelecer arbitràriamente, mas que em tudo devem governar-se pelos ditames da justiça, prudência e caridade. Para mostrar que aferem os pecados por essa forma, e para levar os penitentes a conhecerem melhor a graveza de suas culpas, é de vantagem que os párocos se ponham a explicar-lhes, de vez em quando, as penas que os antigos cânones, chamados penitenciais, estabeleciam contra certos pecados. Por conseguinte, a natureza da culpa determinará a medida de toda e qualquer satisfação.
+[74] Na imposição da obra satisfatória, compreendam os sacerdotes que nada poderão estabelecer arbitrariamente, mas que em tudo devem governar-se pelos ditames da justiça, prudência e caridade. Para mostrar que aferem os pecados por essa forma, e para levar os penitentes a conhecerem melhor a graveza de suas culpas, é de vantagem que os párocos se ponham a explicar-lhes, de vez em quando, as penas que os antigos cânones, chamados penitenciais, estabeleciam contra certos pecados. Por conseguinte, a natureza da culpa determinará a medida de toda e qualquer satisfação.
 
 De todas as espécies de satisfação, a mais recomendável é impor aos penitentes que, em alguns dias determinados, se entreguem ao exercício da oração, e façam preces a Deus por todos, principalmente por aqueles que morreram na paz do Senhor.
 

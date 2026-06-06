@@ -20,7 +20,7 @@ Contudo, na exposição da presente matéria seja o pároco muito cauteloso e pr
 
 [3] Vamos começar pelo que é proibido. Adultério é uma violação do leito conjugal, quer seja alheio, quer seja próprio. Se um casado peca com mulher solteira, profana seu próprio matrimônio. Se um solteiro peca com a mulher de outro, profana um matrimônio alheio.[^388]
 
-Santo Ambrósio e Santo Agostinho[^389] ensinam que, sob a proibição do adultério, se interdiz também tudo o que seja desonesto e impuro. Que tal seja a verdadeira interpretação destas palavras, fàcilmente se deduz dos Sagrados Livros do Antigo e do Novo Testamento; pois, além do adultério, eram punidas ainda outras espécies de luxúria, conforme dizem os Livros de Moisés.[^390]
+Santo Ambrósio e Santo Agostinho[^389] ensinam que, sob a proibição do adultério, se interdiz também tudo o que seja desonesto e impuro. Que tal seja a verdadeira interpretação destas palavras, facilmente se deduz dos Sagrados Livros do Antigo e do Novo Testamento; pois, além do adultério, eram punidas ainda outras espécies de luxúria, conforme dizem os Livros de Moisés.[^390]
 
 ### Todas as espécies de luxúria
 
@@ -94,7 +94,7 @@ Os luxuriosos que escapam à morte, nem por isso escapam às intoleráveis dores
 
 Chegam, assim, a tal grau de perversão e desequilíbrio, que já não podemos confiar-lhes nenhum negócio, e eles ficam numa inaptidão quase absoluta para qualquer serviço.[^420]
 
-Sirvam-nos, como prova, os exemplos de David e Salomão. O primeiro, depois do adultério, passou de repente por uma mudança total. Cheio de mansidão que era, tornou-se cruel a ponto de lançar à morte Urias, que lhe havia prestado os mais relevantes serviços.[^421] O segundo, por se entregar à devassidão com mulheres, tão longe se afastou da verdadeira religião de Deus, que veio a seguir deuses estranhos.[^422]
+Sirvam-nos, como prova, os exemplos de Davi e Salomão. O primeiro, depois do adultério, passou de repente por uma mudança total. Cheio de mansidão que era, tornou-se cruel a ponto de lançar à morte Urias, que lhe havia prestado os mais relevantes serviços.[^421] O segundo, por se entregar à devassidão com mulheres, tão longe se afastou da verdadeira religião de Deus, que veio a seguir deuses estranhos.[^422]
 
 Portanto, como dizia Oséias, esse pecado arrebata o coração do homem[^423], e não raro o leva à cegueira.
 
@@ -108,7 +108,7 @@ Agora, vamos tratar dos remédios externos contra a impureza.
 
 #### ... dos olhares indiscretos
 
-Muitas vezes, são sobretudo os olhos que ateiam a luxúria no coração. A isso alude aquela palavra de Cristo Nosso Senhor: "Se teu olho te for ocasião de pecado, arranca-o e lança-o para longe de ti".[^428] Inúmeras são, aliás, as passagens dos Profetas que redundam na mesma doutrina. Por exemplo, o que dizia Job: "Ajustei com os meus olhos, para que nem sequer me acudisse a lembrança de uma virgem".[^429] Muitos também, e quase inumeráveis, são os exemplos de desgraças que tiveram sua origem na fixação de um olhar. Assim pecou David[^430], assim pecou o príncipe de Siquém[^431]; do mesmo modo delinquiram também os anciãos, que caluniaram Susana.[^432]
+Muitas vezes, são sobretudo os olhos que ateiam a luxúria no coração. A isso alude aquela palavra de Cristo Nosso Senhor: "Se teu olho te for ocasião de pecado, arranca-o e lança-o para longe de ti".[^428] Inúmeras são, aliás, as passagens dos Profetas que redundam na mesma doutrina. Por exemplo, o que dizia Jó: "Ajustei com os meus olhos, para que nem sequer me acudisse a lembrança de uma virgem".[^429] Muitos também, e quase inumeráveis, são os exemplos de desgraças que tiveram sua origem na fixação de um olhar. Assim pecou Davi[^430], assim pecou o príncipe de Siquém[^431]; do mesmo modo delinquiram também os anciãos, que caluniaram Susana.[^432]
 
 #### ... dos requintes da moda
 
@@ -142,7 +142,7 @@ No mesmo sentido escrevia São Paulo aos Coríntios: "Todos aqueles que lutam na
 [^388]: Seria adultério, da mesma forma, ainda que o marido desse consentimento (cfr. DU 1200).
 [^389]: Ambros. De Abraham l 4; Aug. super Exod. q. 71.
 [^390]: Por exemplo: Exod 22, 16; Levit 18, 2, 20, 10-21; Deut 21, 5.
-[^391]: Gn 33, 24. <!-- OCR-illegible --> julgava tratar-se de simples fornicação.
+[^391]: Gn 38, 24. Judá julgava tratar-se de simples fornicação.
 [^392]: Deut 23, 17.
 [^393]: Tob 4, 13.
 [^394]: Eccli 41, 21-25.
@@ -157,7 +157,7 @@ No mesmo sentido escrevia São Paulo aos Coríntios: "Todos aqueles que lutam na
 [^403]: Conc. Trid. sess. XXIV Decretum de reformat. Matrim. cap. 8.
 [^404]: Cfr. 2 Cor 7, 1.
 [^405]: Aqui seria o lugar de se tratar da castidade conjugal, com vistas às práticas neo-malthusianas. Veja-se a encíclica "Casti connubi": DU 2239-2246.
-[^406]: Thom. 2 2 q. 15. Conc. Trid. Decretum de reformat. Matrim.
+[^406]: Thom. II-II q 15. Conc. Trid. decretem de reformat. Matrim. Cap. III.
 [^407]: Gal 5, 19-20; Apoc 22, 15.
 [^408]: 1 Cor 6, 18.
 [^409]: 1 Thess 4, 3 ss.
@@ -172,16 +172,16 @@ No mesmo sentido escrevia São Paulo aos Coríntios: "Todos aqueles que lutam na
 [^418]: Num cap. 25.
 [^419]: Jud cap. 20. Estes exemplos impressionam demais, por causa de seu realismo.
 [^420]: Fina observação, confirmada pela psicologia experimental.
-[^421]: 2 Reg cap. 11.
-[^422]: 3 Reg cap. 11.
-[^423]: Oseas 4, 11.
-[^424]: Ezech 16, 49.
+[^421]: 2Sm cap. 11.
+[^422]: 1Rs cap. 11.
+[^423]: Os 4, 11.
+[^424]: Ez 16, 49.
 [^425]: Jer 5, 7.
 [^426]: Lc 21, 34.
 [^427]: Eph 5, 18.
 [^428]: Mt 5, 29. O texto bíblico fala do olho direito.
-[^429]: Iob 31, 1.
-[^430]: 2 Reg 11, 22.
+[^429]: Jó 31, 1.
+[^430]: 2Sm cap. 11.
 [^431]: Gn 34, 2.
 [^432]: Dan 13, 8.
 [^433]: Eccli 9, 8.
@@ -191,6 +191,6 @@ No mesmo sentido escrevia São Paulo aos Coríntios: "Todos aqueles que lutam na
 [^437]: Não se creia, porém, que o perigo dependa só da idade. Além disso, ninguém tem o direito de querer "imunizar-se" pelo hábito da leitura imoral. Nas licenças para a leitura de livros proibidos, a Santa Sé exclui expressamente "opera res obscenas ex professo tractantia". Para quem deve ocupar-se dessas coisas, por dever profissional, excetuam-se as obras de caráter estritamente científico, empregando-se as devidas cautelas.
 [^438]: Conc. Trid. sess. XXV de invocatione, veneratione et reliquiis Sanctorum et de sacris imaginibus: "... evite-se qualquer lascívia, de sorte que as imagens não sejam pintadas ou ornadas com licenciosa formosura".
 [^439]: 1 Cor 10.
-[^440]: <!-- OCR-illegible footnote anchor -->
-[^441]: <!-- OCR-illegible footnote anchor -->
-[^442]: <!-- OCR-illegible footnote anchor -->
+[^440]: Para sortirem o efeito desejado, tais exercícios devem obedecer aos ditames da prudência cristã. Daí a necessidade de uma orientação ascética, porque os excessos depauperam o sistema nervoso, e podem exacerbar a esfera sexual.
+[^441]: 1Cor 9, 25.
+[^442]: 1Cor 9, 27.
