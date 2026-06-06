@@ -82,6 +82,14 @@ export function bookPaletteCursorId(bookId: string): string {
   return `book/${bookId}/palette`
 }
 
+export function highlightCursorPrefix(bookId: string): string {
+  return `book/${bookId}/highlight/`
+}
+
+export function highlightCursorId(bookId: string, createdAt: number): string {
+  return `${highlightCursorPrefix(bookId)}${createdAt}`
+}
+
 // --- Program cursors ---
 
 export type ProgramCursorPosition = {

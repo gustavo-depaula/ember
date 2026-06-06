@@ -36,10 +36,13 @@ import {
   FoliateReader,
   type FoliateReaderHandle,
 } from './foliate/FoliateReader'
+import { paintColorFor } from './highlightColors'
+import { addHighlight as addHighlightToStore, type Highlight, listHighlights } from './highlights'
 import { ReaderBookmarksSheet } from './ReaderBookmarksSheet'
 import { ReaderMenuSheet } from './ReaderMenuSheet'
 import { ReaderOverlay } from './ReaderOverlay'
 import { ReaderSearchSheet } from './ReaderSearchSheet'
+import { ReaderSelectionToolbar } from './ReaderSelectionToolbar'
 import { ReaderSettingsSheet } from './ReaderSettingsSheet'
 import { ReaderTapHint } from './ReaderTapHint'
 import { ReaderTocSheet } from './ReaderTocSheet'
@@ -280,6 +283,18 @@ export function BookReader({ bookId, chapter }: Props) {
     return bookmarks.filter((b) => b.chapterId === id).map((b) => b.fraction)
   }, [bookmarks, leaves, chapterIndex])
 
+  const [highlights, setHighlights] = useState<Highlight[]>(() => listHighlights(bookId))
+  const [foliateReady, setFoliateReady] = useState(false)
+  const [selection, setSelection] = useState<
+    | {
+        chapterIndex: number
+        text: string
+        anchor: { startOffset: number; endOffset: number }
+        rect: { x: number; y: number; width: number; height: number }
+      }
+    | undefined
+  >(undefined)
+
   const foliateRef = useRef<FoliateReaderHandle>(null)
   // Per-mount set of chapters we've already marked completed — prevents the
   // event store from being hammered if the reader pages back and forth across
@@ -391,6 +406,23 @@ export function BookReader({ bookId, chapter }: Props) {
         case 'footnoteTap':
           setFootnoteHtml(msg.html)
           return
+        case 'selectionChange':
+          setSelection({
+            chapterIndex: msg.chapterIndex,
+            text: msg.text,
+            anchor: msg.anchor,
+            rect: msg.rect,
+          })
+          return
+        case 'selectionCleared':
+          setSelection(undefined)
+          return
+        case 'highlightTap':
+          // Phase 2 hooks the edit toolbar here.
+          return
+        case 'ready':
+          setFoliateReady(true)
+          return
         case 'crossRefTap': {
           // Accept exact, suffix, and stripped-extension matches so the same
           // handler works whether authors write "summa-st-1-q1-a1" or
@@ -415,6 +447,29 @@ export function BookReader({ bookId, chapter }: Props) {
     },
     [leaves, cursor.save, chapterIndex, fraction, bookId, titleLookup],
   )
+
+  // Replay the persisted highlight set into the WebView whenever the engine
+  // signals ready OR the local highlight state changes. Filter out anchors
+  // whose chapter no longer exists in the TOC (corpus update renamed/removed
+  // a leaf) — those would otherwise paint nothing and leak into the WebView's
+  // per-chapter map.
+  useEffect(() => {
+    if (!foliateReady) return
+    const payload = highlights
+      .map((h) => {
+        const idx = leaves.findIndex((l) => l.id === h.chapterId)
+        if (idx < 0) return undefined
+        return {
+          id: h.cursorId,
+          chapterIndex: idx,
+          anchor: h.anchor,
+          color: paintColorFor(h.color, config.isDark),
+          hasNote: !!h.note,
+        }
+      })
+      .filter((x): x is NonNullable<typeof x> => x !== undefined)
+    foliateRef.current?.setHighlights(payload)
+  }, [foliateReady, highlights, leaves, config.isDark])
 
   const handleBackNav = useCallback(() => {
     setNavStack((s) => {
@@ -450,6 +505,26 @@ export function BookReader({ bookId, chapter }: Props) {
     },
     [bookId],
   )
+
+  const handleAddHighlightYellow = useCallback(async () => {
+    if (!selection || !currentChapterId) return
+    const saved = await addHighlightToStore(bookId, {
+      chapterId: currentChapterId,
+      anchor: selection.anchor,
+      text: selection.text,
+      color: 'yellow',
+    })
+    setHighlights(listHighlights(bookId))
+    foliateRef.current?.addHighlight({
+      id: saved.cursorId,
+      chapterIndex: selection.chapterIndex,
+      anchor: saved.anchor,
+      color: paintColorFor(saved.color, config.isDark),
+    })
+    foliateRef.current?.clearSelection()
+    setSelection(undefined)
+    void successBuzz()
+  }, [bookId, currentChapterId, selection, config.isDark])
 
   if (!bookEntry) {
     return (
@@ -592,6 +667,12 @@ export function BookReader({ bookId, chapter }: Props) {
       />
 
       <FootnoteSheet content={footnoteHtml} onClose={() => setFootnoteHtml(undefined)} />
+
+      <ReaderSelectionToolbar
+        rect={selection?.rect}
+        isDark={config.isDark}
+        onHighlightYellow={handleAddHighlightYellow}
+      />
 
       <ChapterCompleteToast
         title={justCompletedTitle}

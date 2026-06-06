@@ -22,8 +22,27 @@ export type FoliateMessage =
   | { type: 'centerTap' }
   | { type: 'footnoteTap'; html: string }
   | { type: 'crossRefTap'; href: string }
+  | {
+      type: 'selectionChange'
+      chapterIndex: number
+      text: string
+      anchor: { startOffset: number; endOffset: number }
+      rect: { x: number; y: number; width: number; height: number }
+    }
+  | { type: 'selectionCleared' }
+  | { type: 'highlightTap'; id: string; chapterIndex: number }
   | { type: 'log'; message: string }
   | { type: 'error'; message: string }
+
+export type BootstrapHighlight = {
+  id: string
+  chapterIndex: number
+  anchor: { startOffset: number; endOffset: number }
+  /** CSS color string (with alpha). The host owns light/dark palette mapping. */
+  color: string
+  /** When true, the overlayer adds a small ✎ marker at the start of the range. */
+  hasNote?: boolean
+}
 
 export type FoliateReaderHandle = {
   /** Jump to a chapter (and optional intra-chapter fraction). */
@@ -33,6 +52,12 @@ export type FoliateReaderHandle = {
    * occurrence of `findText`. Used by in-book search to land on the match.
    */
   goToWithFind: (index: number, findText: string) => void
+  /** Bulk-replace the current highlight set across all chapters. */
+  setHighlights: (highlights: BootstrapHighlight[]) => void
+  addHighlight: (highlight: BootstrapHighlight) => void
+  removeHighlight: (id: string) => void
+  /** Clear the current text selection (e.g. after the user dismisses the toolbar). */
+  clearSelection: () => void
 }
 
 type Props = {
@@ -116,6 +141,18 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
           `window.__foliate?.goToWithFind(${index}, ${JSON.stringify(findText)});true;`,
         )
       },
+      setHighlights: (highlights) => {
+        inject(webViewRef, `window.__foliate?.setHighlights(${JSON.stringify(highlights)});true;`)
+      },
+      addHighlight: (highlight) => {
+        inject(webViewRef, `window.__foliate?.addHighlight(${JSON.stringify(highlight)});true;`)
+      },
+      removeHighlight: (id) => {
+        inject(webViewRef, `window.__foliate?.removeHighlight(${JSON.stringify(id)});true;`)
+      },
+      clearSelection: () => {
+        inject(webViewRef, `window.__foliate?.clearSelection();true;`)
+      },
     }),
     [],
   )
@@ -187,6 +224,11 @@ function buildHostHtml({
       let chapters = ${JSON.stringify(chapters)};
       let urls = [];
       let paginator;
+      // Per-chapter highlight store; persisted-state mirror that lives across
+      // chapter loads. Replayed into each overlayer as foliate creates one.
+      const highlightsByChapter = new Map(); // index -> Map<id, {anchor, color, hasNote}>
+      const overlayers = new Map();          // index -> HighlightOverlayer
+      let selectionDebounce;
 
       const buildStyle = (c) => \`
         html, body { margin: 0; padding: 0; height: 100%; background: \${c.background}; color: \${c.color}; }
@@ -248,6 +290,106 @@ function buildHostHtml({
         '<style>', buildStyle(cfg), '</style></head><body>', body, '</body></html>'
       ], { type: 'text/html' }));
 
+      // --- Plain-text anchor scheme (mirrors highlightAnchor.ts on the RN side).
+      const walkText = (root, visit) => {
+        let n = root.firstChild;
+        while (n) {
+          if (n.nodeType === 3) { const out = visit(n); if (out !== undefined) return out; }
+          else if (n.firstChild) { const out = walkText(n, visit); if (out !== undefined) return out; }
+          n = n.nextSibling;
+        }
+        return undefined;
+      };
+      const offsetOf = (root, target, targetOffset) => {
+        let acc = 0; let found;
+        walkText(root, (text) => {
+          if (text === target) { found = acc + targetOffset; return found; }
+          acc += (text.nodeValue || '').length; return undefined;
+        });
+        return found !== undefined ? found : Math.min(acc, targetOffset);
+      };
+      const locate = (root, offset) => {
+        let rem = offset; let hit;
+        walkText(root, (text) => {
+          const len = (text.nodeValue || '').length;
+          if (rem <= len) { hit = { node: text, local: rem }; return hit; }
+          rem -= len; return undefined;
+        });
+        return hit;
+      };
+      const encodeRange = (root, range) => {
+        const s = offsetOf(root, range.startContainer, range.startOffset);
+        const e = offsetOf(root, range.endContainer, range.endOffset);
+        return e < s ? { startOffset: e, endOffset: s } : { startOffset: s, endOffset: e };
+      };
+      const resolveAnchor = (doc, anchor) => {
+        const s = locate(doc.body, anchor.startOffset);
+        const e = locate(doc.body, anchor.endOffset);
+        if (!s || !e) return undefined;
+        const r = doc.createRange();
+        r.setStart(s.node, s.local);
+        r.setEnd(e.node, e.local);
+        return r;
+      };
+
+      // SVG overlayer: foliate-paginator dispatches a create-overlayer event
+      // per section; we construct our own (foliate expects an attachable
+      // element plus a redraw method invoked on column-layout changes).
+      class HighlightOverlayer {
+        constructor(doc, index) {
+          this.doc = doc; this.index = index;
+          const svgNs = 'http://www.w3.org/2000/svg';
+          this.element = doc.createElementNS(svgNs, 'svg');
+          this.element.setAttribute('xmlns', svgNs);
+          this.element.style.position = 'absolute';
+          this.element.style.top = '0';
+          this.element.style.left = '0';
+          this.element.style.width = '100%';
+          this.element.style.height = '100%';
+          this.element.style.pointerEvents = 'none';
+        }
+        redraw() {
+          while (this.element.firstChild) this.element.removeChild(this.element.firstChild);
+          const map = highlightsByChapter.get(this.index);
+          if (!map || !map.size) return;
+          const svgRect = this.element.getBoundingClientRect();
+          for (const [id, hl] of map) this._paint(id, hl, svgRect);
+        }
+        addOne(id, hl) {
+          const svgRect = this.element.getBoundingClientRect();
+          this._paint(id, hl, svgRect);
+        }
+        removeOne(id) {
+          const nodes = this.element.querySelectorAll('[data-hl-id="' + id + '"]');
+          for (let i = 0; i < nodes.length; i++) nodes[i].remove();
+        }
+        _paint(id, hl, svgRect) {
+          const range = resolveAnchor(this.doc, hl.anchor);
+          if (!range) return;
+          const svgNs = 'http://www.w3.org/2000/svg';
+          const rects = range.getClientRects();
+          for (let i = 0; i < rects.length; i++) {
+            const r = rects[i];
+            const x = r.x - svgRect.x;
+            const y = r.y - svgRect.y;
+            const rect = this.doc.createElementNS(svgNs, 'rect');
+            rect.setAttribute('x', String(x));
+            rect.setAttribute('y', String(y));
+            rect.setAttribute('width', String(r.width));
+            rect.setAttribute('height', String(r.height));
+            rect.setAttribute('fill', hl.color);
+            rect.setAttribute('data-hl-id', id);
+            rect.style.pointerEvents = 'auto';
+            rect.style.cursor = 'pointer';
+            rect.addEventListener('click', (ev) => {
+              ev.preventDefault(); ev.stopPropagation();
+              post({ type: 'highlightTap', id: id, chapterIndex: this.index });
+            });
+            this.element.appendChild(rect);
+          }
+        }
+      }
+
       const buildBook = () => {
         for (const u of urls) URL.revokeObjectURL(u);
         urls = chapters.map(blobUrl);
@@ -289,6 +431,16 @@ function buildHostHtml({
         paginator.style.inset = '0';
         paginator.style.background = cfg.background;
         paginator.addEventListener('relocate', postRelocate);
+        // Each section gets its own overlayer; foliate appends element to the
+        // view container and calls redraw() on layout changes.
+        paginator.addEventListener('create-overlayer', (e) => {
+          const ov = new HighlightOverlayer(e.detail.doc, e.detail.index);
+          overlayers.set(e.detail.index, ov);
+          e.detail.attach(ov);
+          // Replay any highlights already stored for this chapter on next paint
+          // tick (foliate calls redraw post-layout).
+          setTimeout(() => ov.redraw(), 0);
+        });
         paginator.addEventListener('load', (e) => {
           post({ type: 'load', index: e.detail.index });
           // Fade the new chapter iframe in — foliate swaps the iframe element
@@ -298,6 +450,44 @@ function buildHostHtml({
             docEl.style.opacity = '0';
             docEl.style.transition = 'opacity 200ms ease-out';
             requestAnimationFrame(() => { docEl.style.opacity = '1'; });
+          }
+          // Selection plumbing: post stable selection state to the host so it
+          // can show the highlight toolbar at the right position.
+          if (doc && !doc.__selWired) {
+            doc.__selWired = true;
+            const sectionIndex = e.detail.index;
+            doc.addEventListener('selectionchange', () => {
+              if (selectionDebounce) clearTimeout(selectionDebounce);
+              selectionDebounce = setTimeout(() => {
+                const sel = doc.defaultView.getSelection();
+                if (!sel || sel.rangeCount === 0 || sel.isCollapsed) {
+                  post({ type: 'selectionCleared' });
+                  return;
+                }
+                const range = sel.getRangeAt(0);
+                const text = range.toString();
+                if (!text || text.trim().length < 2) {
+                  post({ type: 'selectionCleared' });
+                  return;
+                }
+                const frame = doc.defaultView.frameElement;
+                if (!frame) return;
+                const r = range.getBoundingClientRect();
+                const frameRect = frame.getBoundingClientRect();
+                post({
+                  type: 'selectionChange',
+                  chapterIndex: sectionIndex,
+                  text: text,
+                  anchor: encodeRange(doc.body, range),
+                  rect: {
+                    x: frameRect.left + r.left,
+                    y: frameRect.top + r.top,
+                    width: r.width,
+                    height: r.height,
+                  },
+                });
+              }, 250);
+            });
           }
           // Wire tap zones inside the chapter iframe: left 30% = prev, right
           // 30% = next, middle posts centerTap so the chrome can toggle.
@@ -417,6 +607,45 @@ function buildHostHtml({
           const here = currentLocation();
           paginator.open(buildBook());
           paginator.goTo({ index: here.index, anchor: here.fraction });
+        },
+        setHighlights: (list) => {
+          highlightsByChapter.clear();
+          for (const h of list) {
+            let m = highlightsByChapter.get(h.chapterIndex);
+            if (!m) { m = new Map(); highlightsByChapter.set(h.chapterIndex, m); }
+            m.set(h.id, { anchor: h.anchor, color: h.color, hasNote: !!h.hasNote });
+          }
+          for (const ov of overlayers.values()) ov.redraw();
+        },
+        addHighlight: (h) => {
+          let m = highlightsByChapter.get(h.chapterIndex);
+          if (!m) { m = new Map(); highlightsByChapter.set(h.chapterIndex, m); }
+          const stored = { anchor: h.anchor, color: h.color, hasNote: !!h.hasNote };
+          m.set(h.id, stored);
+          const ov = overlayers.get(h.chapterIndex);
+          if (ov) ov.addOne(h.id, stored);
+        },
+        removeHighlight: (id) => {
+          for (const [idx, m] of highlightsByChapter) {
+            if (m.delete(id)) {
+              const ov = overlayers.get(idx);
+              if (ov) ov.removeOne(id);
+              break;
+            }
+          }
+        },
+        clearSelection: () => {
+          try {
+            const sel = window.getSelection();
+            if (sel) sel.removeAllRanges();
+            const contents = paginator && paginator.getContents ? paginator.getContents() : [];
+            for (const c of contents) {
+              const s = c.doc && c.doc.defaultView && c.doc.defaultView.getSelection();
+              if (s) s.removeAllRanges();
+            }
+          } catch (err) {
+            post({ type: 'error', message: 'clearSelection: ' + String(err && err.message ? err.message : err) });
+          }
         },
       };
 
