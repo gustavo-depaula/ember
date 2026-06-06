@@ -1,5 +1,49 @@
 # Book Reader — Overnight Work Plan
 
+## 👋 Morning summary (write-up while you sleep)
+
+24 features shipped on the `book-reader-v2` branch (PR #241). Two intentionally deferred to dedicated PRs.
+
+**Phase 1 (planned Phase-2 features)** — 9 of 11 shipped, 2 deferred:
+1. ✅ Drop caps + chapter-opening ornaments (CSS)
+2. ✅ "X pages left in chapter" indicator
+3. ✅ Cross-chapter transition fade
+4. ✅ Footnote popovers (`FootnoteSheet`)
+5. ✅ Internal-link back-stack (cross-references + back pill)
+6. ✅ In-book search (`ReaderSearchSheet` + pure `searchBook.ts`)
+7. ✅ Bookmarks (`ReaderBookmarksSheet` + `bookmarks.ts`)
+8. 🟡 Highlights — **deferred** (needs CFI persistence + selection toolbar; documented handoff)
+9. 🟡 TTS — **deferred** (autoplay-gesture restriction; documented handoff)
+10. ✅ Two-page spread on landscape tablets
+11. ✅ Hyphenation (per-language `hyphens: auto`)
+
+**Phase 2 (creative additions)** — 13 shipped:
+12. ✅ Per-book progress on frontispiece (% + chapter X of Y)
+13. ✅ Sepia / paper / midnight / night palettes (+ auto)
+14. ✅ Chapter completion checkmarks (auto-mark on fraction ≥ 0.95)
+15. ✅ Reading speed + ETA (~N min left, from session pace)
+16. ✅ "Last read X ago" on frontispiece
+17. ✅ Completion checks on the frontispiece TOC
+18. ✅ "N of M chapters finished" stat
+19. ✅ TOC expand/collapse all (for Aquinas-style nested books)
+20. ✅ Chapter time estimates in TOC ("5 min")
+21. ✅ Persisted timings + "~Xh to finish"
+22. ✅ Per-book reading-time tracker ("Read for 1h 23m")
+23. ✅ Per-book reading streak ("🔥 3-day reading streak")
+24. ✅ First-time tap-zone hint overlay (onboarding)
+
+**Three /simplify passes** ran during the night — extracted shared helpers (`stripHtml`, `useDebounced`, palettes config), dropped narrative comments, unified state, fixed real bugs (time-travel sync, swallowed errors, read-then-write race).
+
+**By the numbers**:
+- 30 new commits on `book-reader-v2`
+- 30 new test cases (vitest), all green
+- 0 new dependencies added (all features use existing libraries)
+- 5 deferred-with-rationale items (Highlights, TTS, plus tangential things)
+
+**To wake up to**: pull `book-reader-v2`, refresh the dev client, open any book. The frontispiece now carries the progress bar + completion / streak / time stats. Open the reader; the first-time hint shows. Tap menu → Bookmarks / Search work. Settings sheet has 5 palettes to try (sepia is lovely). Read for a minute, exit, come back — reading time accumulates and "Last read X ago" updates.
+
+---
+
 User went to sleep at **2026-06-05T23:35-03:00** with directive: work autonomously through the night building book-reader features, plan → build → simplify → commit each one, journal everything, only stop when explicitly told or genuinely nothing left to build.
 
 **Heartbeat-then-work schedule**
