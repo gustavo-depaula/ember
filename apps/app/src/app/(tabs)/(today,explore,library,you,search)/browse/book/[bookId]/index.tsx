@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query'
-import { type Href, useLocalSearchParams } from 'expo-router'
+import { type Href, useLocalSearchParams, useRouter } from 'expo-router'
 import { Check, ChevronRight } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -14,9 +14,16 @@ import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
-import { buildTitleLookup, flattenTocLeaves } from '@/features/books/reader/bookContent'
+import {
+  buildTitleLookup,
+  countLeavesUnder,
+  countTocNodes,
+  firstLeafId,
+  flattenTocLeaves,
+} from '@/features/books/reader/bookContent'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
+import { ReaderTocSheet } from '@/features/books/reader/ReaderTocSheet'
 import { getReadingStreak } from '@/features/books/reader/readingStreak'
 import { getReadingTimeMs } from '@/features/books/reader/readingTime'
 import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
@@ -43,11 +50,13 @@ export default function BookDetailScreen() {
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
+  const router = useRouter()
   const nowPlaying = useNowPlayingClearance()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const background = theme.background?.val ?? '#000000'
 
   const [addingToCollection, setAddingToCollection] = useState(false)
+  const [browsingToc, setBrowsingToc] = useState(false)
 
   const scrollY = useSharedValue(0)
   const onScroll = useAnimatedScrollHandler((e) => {
@@ -76,11 +85,22 @@ export default function BookDetailScreen() {
     () => (book?.toc ? buildTitleLookup(book.toc, lang) : new Map<string, string>()),
     [book?.toc, lang],
   )
+  // 200 nodes is roughly the boundary where eager-rendering one
+  // Pressable+ZoomLink per node still feels snappy; beyond that the
+  // frontispiece collapses to a compact top-level view + a tap-to-open
+  // virtualized sheet (Catholic Encyclopedia is 12k+ nodes).
+  const tocTooLarge = useMemo(
+    () => (book?.toc ? countTocNodes(book.toc) > 200 : false),
+    [book?.toc],
+  )
 
-  const completed = bookId ? listCompletedChapters(bookId) : new Set<string>()
-  const chapterMinutes = bookId ? loadChapterMinutes(bookId) : undefined
-  const readingTimeMs = bookId ? getReadingTimeMs(bookId) : 0
-  const streakDays = bookId ? getReadingStreak(bookId) : 0
+  const completed = useMemo(
+    () => (bookId ? listCompletedChapters(bookId) : new Set<string>()),
+    [bookId],
+  )
+  const chapterMinutes = useMemo(() => (bookId ? loadChapterMinutes(bookId) : undefined), [bookId])
+  const readingTimeMs = useMemo(() => (bookId ? getReadingTimeMs(bookId) : 0), [bookId])
+  const streakDays = useMemo(() => (bookId ? getReadingStreak(bookId) : 0), [bookId])
   const minutesRemaining = useMemo(() => {
     if (!chapterMinutes || leaves.length === 0) return undefined
     let total = 0
@@ -180,9 +200,12 @@ export default function BookDetailScreen() {
             <Contents
               toc={book.toc}
               lang={lang}
+              compact={tocTooLarge}
               currentChapterId={resumeChapterId}
               completed={completed}
+              totalLeaves={leaves.length}
               buildHref={readerHref}
+              onBrowseAll={() => setBrowsingToc(true)}
             />
           )}
         </YStack>
@@ -194,6 +217,20 @@ export default function BookDetailScreen() {
         onClose={() => setAddingToCollection(false)}
       />
 
+      {book?.toc ? (
+        <ReaderTocSheet
+          open={browsingToc}
+          onClose={() => setBrowsingToc(false)}
+          toc={book.toc}
+          currentChapterId={resumeChapterId}
+          completedChapterIds={completed}
+          onSelect={(chapterId) => {
+            setBrowsingToc(false)
+            router.push(readerHref(chapterId))
+          }}
+        />
+      ) : null}
+
       {bookId ? <SessionToast bookId={bookId} /> : null}
     </>
   )
@@ -203,15 +240,22 @@ export default function BookDetailScreen() {
 function Contents({
   toc,
   lang,
+  compact,
   currentChapterId,
   completed,
+  totalLeaves,
   buildHref,
+  onBrowseAll,
 }: {
   toc: TocNode[]
   lang: string
+  /** True for huge TOCs: render only top-level sections + a "Browse all" button. */
+  compact: boolean
   currentChapterId?: string
   completed: Set<string>
+  totalLeaves: number
   buildHref: (chapterId: string) => Href
+  onBrowseAll: () => void
 }) {
   const { t } = useTranslation()
   return (
@@ -224,19 +268,108 @@ function Contents({
         <YStack flex={1} height={1} backgroundColor="$accentSubtle" />
       </XStack>
       <YStack>
-        {toc.map((node) => (
-          <TocNodeRow
-            key={node.id}
-            node={node}
-            lang={lang}
-            depth={0}
-            currentChapterId={currentChapterId}
-            completed={completed}
-            buildHref={buildHref}
-          />
-        ))}
+        {compact
+          ? toc.map((node) => (
+              <CompactSectionRow
+                key={node.id}
+                node={node}
+                lang={lang}
+                completed={completed}
+                buildHref={buildHref}
+              />
+            ))
+          : toc.map((node) => (
+              <TocNodeRow
+                key={node.id}
+                node={node}
+                lang={lang}
+                depth={0}
+                currentChapterId={currentChapterId}
+                completed={completed}
+                buildHref={buildHref}
+              />
+            ))}
       </YStack>
+      {compact ? (
+        <Pressable onPress={onBrowseAll} accessibilityRole="button">
+          <XStack
+            alignItems="center"
+            justifyContent="center"
+            paddingVertical="$md"
+            borderRadius="$md"
+            backgroundColor="$accentSubtle"
+          >
+            <Typography variant="interface" fontSize="$2" color="$accent">
+              {t('book.browseAllChapters', {
+                defaultValue: 'Browse all {{count}} chapters',
+                count: totalLeaves,
+              })}
+            </Typography>
+          </XStack>
+        </Pressable>
+      ) : null}
     </YStack>
+  )
+}
+
+/**
+ * Top-level section row for huge TOCs (Catholic Encyclopedia etc.). Renders
+ * the section title + leaf count + completion fraction; tap opens the reader
+ * at the section's first leaf.
+ */
+function CompactSectionRow({
+  node,
+  lang,
+  completed,
+  buildHref,
+}: {
+  node: TocNode
+  lang: string
+  completed: Set<string>
+  buildHref: (chapterId: string) => Href
+}) {
+  const theme = useTheme()
+  const title =
+    (node.title as Record<string, string>)[lang] ?? Object.values(node.title)[0] ?? node.id
+  const totalLeavesUnder = countLeavesUnder(node)
+  const completedUnder = useMemo(() => {
+    let n = 0
+    function walk(n2: TocNode) {
+      if (!n2.children?.length) {
+        if (completed.has(n2.id)) n++
+        return
+      }
+      for (const c of n2.children) walk(c)
+    }
+    walk(node)
+    return n
+  }, [node, completed])
+  const target = firstLeafId(node)
+
+  return (
+    <ZoomLink href={buildHref(target)}>
+      <Pressable accessibilityRole="link" accessibilityLabel={title}>
+        <XStack
+          alignItems="center"
+          gap="$sm"
+          paddingVertical="$md"
+          borderBottomWidth={0.5}
+          borderColor="$accentSubtle"
+        >
+          <YStack flex={1} gap="$xs">
+            <Typography variant="interface" fontSize="$3" numberOfLines={2}>
+              {title}
+            </Typography>
+            <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.75}>
+              {completedUnder > 0
+                ? `${completedUnder} / ${totalLeavesUnder}`
+                : `${totalLeavesUnder} chapters`}
+            </Typography>
+          </YStack>
+          <ChevronRight size={16} color={theme.colorSecondary?.val} />
+        </XStack>
+      </Pressable>
+    </ZoomLink>
   )
 }
 

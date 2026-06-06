@@ -1117,6 +1117,8 @@ export default {
     progressLine: '{{percent}}% · Chapter {{current}} of {{total}}',
     lastRead: 'Last read {{when}}',
     chaptersFinished: '{{done}} of {{total}} chapters finished',
+    browseAllChapters_one: 'Browse all 1 chapter',
+    browseAllChapters_other: 'Browse all {{count}} chapters',
     timeToFinish: '~{{when}} to finish',
     totalReadTime: 'Read for {{when}}',
     streak_one: '🔥 1-day reading streak',

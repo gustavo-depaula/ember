@@ -184,6 +184,36 @@ export function buildTitleLookup(toc: TocNode[], lang: string): Map<string, stri
   return map
 }
 
+/** Total node count across the tree — both leaves and sections. */
+export function countTocNodes(toc: TocNode[]): number {
+  let n = 0
+  function walk(nodes: TocNode[]) {
+    for (const node of nodes) {
+      n++
+      if (node.children) walk(node.children)
+    }
+  }
+  walk(toc)
+  return n
+}
+
+/** First leaf id reachable under a node, depth-first. */
+export function firstLeafId(node: TocNode): string {
+  if (!node.children?.length) return node.id
+  for (const child of node.children) {
+    return firstLeafId(child)
+  }
+  return node.id
+}
+
+/** Count of leaves under a node (the node itself counts if it's a leaf). */
+export function countLeavesUnder(node: TocNode): number {
+  if (!node.children?.length) return 1
+  let n = 0
+  for (const child of node.children) n += countLeavesUnder(child)
+  return n
+}
+
 /** Reading-order leaves of the TOC tree (skipping section nodes that have children). */
 export function flattenTocLeaves(toc: TocNode[]): TocLeaf[] {
   const leaves: TocLeaf[] = []
