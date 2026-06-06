@@ -161,7 +161,37 @@ function buildHostHtml({
         p + p { text-indent: 1.2em; }
         h1, h2, h3, h4 { margin: 1.5em 0 .5em; line-height: 1.25; text-align: left; }
         img { max-width: 100%; height: auto; }
-        h2.chapter-title { font-size: 1.4em; margin-top: 0; }
+
+        /* Illuminated chapter opening: centered italic title + fleuron ornament,
+           then a drop cap on the first paragraph. The :not(.no-dropcap) opt-out
+           lets a chapter suppress the drop cap if its first paragraph is a quote
+           or pull-out. */
+        h2.chapter-title {
+          font-size: 1.3em;
+          font-style: italic;
+          font-weight: 500;
+          text-align: center;
+          margin: 0.3em 0 1.4em;
+          letter-spacing: 0.02em;
+        }
+        h2.chapter-title::after {
+          content: '✦';
+          display: block;
+          font-size: 0.7em;
+          font-style: normal;
+          opacity: 0.45;
+          margin-top: 0.6em;
+        }
+        h2.chapter-title + p:not(.no-dropcap)::first-letter {
+          font-family: inherit;
+          font-size: 3.4em;
+          line-height: 0.88;
+          font-weight: 600;
+          float: left;
+          margin: 0.05em 0.08em 0 0;
+          padding: 0;
+        }
+        h2.chapter-title + p { text-indent: 0; }
       \`;
 
       // foliate's iframe.src = blob:URL. Wrap each chapter HTML in a minimal
