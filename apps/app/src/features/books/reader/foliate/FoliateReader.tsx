@@ -491,9 +491,10 @@ function buildHostHtml({
         });
         paginator.addEventListener('load', (e) => {
           post({ type: 'load', index: e.detail.index });
+          const doc = e.detail.doc;
           // Fade the new chapter iframe in — foliate swaps the iframe element
           // outright on chapter boundaries, which otherwise reads as a snap.
-          const docEl = e.detail.doc && e.detail.doc.documentElement;
+          const docEl = doc && doc.documentElement;
           if (docEl) {
             docEl.style.opacity = '0';
             docEl.style.transition = 'opacity 200ms ease-out';
@@ -546,7 +547,6 @@ function buildHostHtml({
           // offset from paginator.start is fragile. Use the iframe element's
           // own bounding rect, which gives us its viewport-relative position
           // directly; on-screen x is just rect.left + clientX.
-          const doc = e.detail.doc;
           if (doc && !doc.__tapWired) {
             doc.__tapWired = true;
             doc.addEventListener('click', (ev) => {
