@@ -17,6 +17,7 @@ import { BookHero } from '@/features/books/BookHero'
 import { buildTitleLookup, flattenTocLeaves } from '@/features/books/reader/bookContent'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
+import { getReadingStreak } from '@/features/books/reader/readingStreak'
 import { getReadingTimeMs } from '@/features/books/reader/readingTime'
 import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
 import { PrologueProse } from '@/features/collections'
@@ -78,6 +79,7 @@ export default function BookDetailScreen() {
   const completed = bookId ? listCompletedChapters(bookId) : new Set<string>()
   const chapterMinutes = bookId ? loadChapterMinutes(bookId) : undefined
   const readingTimeMs = bookId ? getReadingTimeMs(bookId) : 0
+  const streakDays = bookId ? getReadingStreak(bookId) : 0
   const minutesRemaining = useMemo(() => {
     if (!chapterMinutes || leaves.length === 0) return undefined
     let total = 0
@@ -165,6 +167,7 @@ export default function BookDetailScreen() {
               completedCount={completed.size}
               minutesRemaining={minutesRemaining}
               minutesRead={readingTimeMs > 60_000 ? Math.round(readingTimeMs / 60_000) : undefined}
+              streakDays={streakDays > 1 ? streakDays : undefined}
               updatedAt={position?.updatedAt}
               label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
             />
@@ -318,6 +321,7 @@ function BookProgressLine({
   completedCount,
   minutesRemaining,
   minutesRead,
+  streakDays,
   updatedAt,
   label,
 }: {
@@ -327,6 +331,7 @@ function BookProgressLine({
   completedCount: number
   minutesRemaining?: number
   minutesRead?: number
+  streakDays?: number
   updatedAt?: number
   label?: string
 }) {
@@ -405,6 +410,14 @@ function BookProgressLine({
           </Typography>
         ) : null}
       </XStack>
+      {streakDays ? (
+        <Typography variant="label" fontSize="$1" color="$accent" opacity={0.85}>
+          {t('book.streak', {
+            defaultValue: '🔥 {{count}}-day reading streak',
+            count: streakDays,
+          })}
+        </Typography>
+      ) : null}
     </YStack>
   )
 }

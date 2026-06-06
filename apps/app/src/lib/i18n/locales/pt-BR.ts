@@ -1113,6 +1113,8 @@ export default {
     chaptersFinished: '{{done}} de {{total}} capítulos concluídos',
     timeToFinish: '~{{when}} para concluir',
     totalReadTime: 'Lido por {{when}}',
+    streak_one: '🔥 1 dia consecutivo de leitura',
+    streak_other: '🔥 {{count}} dias consecutivos de leitura',
   },
 
   collections: {

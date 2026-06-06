@@ -34,6 +34,7 @@ import { ReaderSearchSheet } from './ReaderSearchSheet'
 import { ReaderSettingsSheet } from './ReaderSettingsSheet'
 import { ReaderTocSheet } from './ReaderTocSheet'
 import { appendTurn, estimateMinutesPerPage, type PageTurn } from './readingPace'
+import { touchReadingStreak } from './readingStreak'
 import { addReadingTime } from './readingTime'
 import { useReaderConfig } from './useReaderConfig'
 import { useReaderCursor } from './useReaderCursor'
@@ -235,6 +236,12 @@ export function BookReader({ bookId, chapter }: Props) {
   const justMarkedRef = useRef<Set<string>>(new Set())
   const turnsRef = useRef<PageTurn[]>([])
   const [minutesPerPage, setMinutesPerPage] = useState<number | undefined>(undefined)
+
+  // Touch the per-book streak once per mount — same-day touches are no-ops
+  // inside touchReadingStreak so re-mounting today doesn't double-count.
+  useEffect(() => {
+    void touchReadingStreak(bookId)
+  }, [bookId])
 
   // Per-session reading time accrual. `sessionStartRef` is reset on every
   // foreground; AppState background + unmount flush the elapsed delta.

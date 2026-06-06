@@ -244,3 +244,12 @@ Frontispiece reads via `getReadingTimeMs(bookId)` and shows "Read for 1h 23m" be
 - New cursor factory: `readingTimeCursorId`.
 - New `readingTime.ts`: `addReadingTime` / `getReadingTimeMs`.
 - i18n: `book.totalReadTime`.
+
+### Feature 23 (P2.12): Per-book reading streak ✅
+
+BookReader touches a per-book streak cursor on mount (`book/{bookId}/streak` with `{lastDay, count}`). Same-day touches are no-ops; consecutive days increment; gaps reset to 1. The frontispiece reads via `getReadingStreak(bookId)` and renders "🔥 N-day reading streak" below the rest of the progress block when the streak is >1 day.
+
+- New cursor factory: `readingStreakCursorId`.
+- New `readingStreak.ts`: `touchReadingStreak` / `getReadingStreak` (+ pure date helpers `todayISO`, `isYesterday`).
+- 5 vitest cases covering same-day / consecutive / gap reset / stale streak.
+- i18n: pluralized `book.streak_one|_other`.

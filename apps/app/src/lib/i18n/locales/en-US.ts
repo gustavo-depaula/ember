@@ -1106,6 +1106,8 @@ export default {
     chaptersFinished: '{{done}} of {{total}} chapters finished',
     timeToFinish: '~{{when}} to finish',
     totalReadTime: 'Read for {{when}}',
+    streak_one: '🔥 1-day reading streak',
+    streak_other: '🔥 {{count}}-day reading streak',
   },
 
   collections: {
