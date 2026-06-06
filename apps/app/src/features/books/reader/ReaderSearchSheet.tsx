@@ -1,5 +1,5 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
-import { Search, X } from 'lucide-react-native'
+import { Search } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, TextInput, useWindowDimensions } from 'react-native'
@@ -64,6 +64,10 @@ export function ReaderSearchSheet({ open, onClose, bodies, leaves, titleLookup, 
             autoFocus
             placeholder={t('books.searchPlaceholder', { defaultValue: 'Search this book…' })}
             placeholderTextColor={theme.colorSecondary?.val}
+            clearButtonMode="while-editing"
+            returnKeyType="search"
+            autoCorrect={false}
+            autoCapitalize="none"
             style={{
               flex: 1,
               fontSize: 16,
@@ -71,11 +75,6 @@ export function ReaderSearchSheet({ open, onClose, bodies, leaves, titleLookup, 
               paddingVertical: 6,
             }}
           />
-          {query.length > 0 ? (
-            <Pressable onPress={() => setQuery('')} hitSlop={8}>
-              <X size={18} color={theme.colorSecondary?.val} />
-            </Pressable>
-          ) : null}
         </XStack>
 
         {debouncedQuery.length >= 2 ? (

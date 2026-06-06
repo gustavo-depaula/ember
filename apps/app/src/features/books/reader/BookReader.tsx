@@ -10,6 +10,7 @@ import { Text, View, YStack } from 'tamagui'
 import { ReaderErrorState } from '@/components/ReaderErrorState'
 import { type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
 import { getBookEntry } from '@/content/resolver'
+import { lightTap, successBuzz } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -297,6 +298,7 @@ export function BookReader({ bookId, chapter }: Props) {
     (msg: FoliateMessage) => {
       switch (msg.type) {
         case 'centerTap':
+          void lightTap()
           setChromeShown((s) => !s)
           return
         case 'relocate': {
@@ -311,9 +313,10 @@ export function BookReader({ bookId, chapter }: Props) {
             cursor.save({ chapterId, fraction: msg.fraction })
             if (msg.fraction >= 0.95 && !justMarkedRef.current.has(chapterId)) {
               justMarkedRef.current.add(chapterId)
-              void markChapterCompleted(bookId, chapterId).then(() =>
-                setCompleted((s) => (s.has(chapterId) ? s : new Set(s).add(chapterId))),
-              )
+              void markChapterCompleted(bookId, chapterId).then(() => {
+                void successBuzz()
+                setCompleted((s) => (s.has(chapterId) ? s : new Set(s).add(chapterId)))
+              })
             }
           }
           return

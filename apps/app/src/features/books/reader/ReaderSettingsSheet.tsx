@@ -7,6 +7,7 @@ import { ScrollView, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { READER_PALETTE_IDS, type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
+import { lightTap } from '@/lib/haptics'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const sheetFraction = 0.9
@@ -73,6 +74,7 @@ export function ReaderSettingsSheet({
             <PalettePicker
               value={bookOverride ?? readerPalette}
               onChange={(id) => {
+                void lightTap()
                 if (bookOverride !== undefined) onSetBookOverride?.(id)
                 else setReaderPalette(id)
               }}
@@ -80,9 +82,10 @@ export function ReaderSettingsSheet({
 
             {onSetBookOverride ? (
               <Pressable
-                onPress={() =>
+                onPress={() => {
+                  void lightTap()
                   onSetBookOverride(bookOverride !== undefined ? undefined : readerPalette)
-                }
+                }}
                 accessibilityRole="button"
               >
                 <Text fontFamily="$body" fontSize="$1" color="$accent" textAlign="center">
@@ -97,7 +100,10 @@ export function ReaderSettingsSheet({
 
             <ThemePicker
               value={themePreference}
-              onChange={setTheme}
+              onChange={(v) => {
+                void lightTap()
+                setTheme(v)
+              }}
               labels={{
                 light: t('settings.themeLight', { defaultValue: 'Light' }),
                 dark: t('settings.themeDark', { defaultValue: 'Dark' }),

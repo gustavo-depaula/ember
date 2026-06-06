@@ -6,6 +6,7 @@ import { FlatList, Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
+import { lightTap, successBuzz } from '@/lib/haptics'
 import { formatSoftRelative } from '@/lib/softRelative'
 import type { TocLeaf } from './bookContent'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
@@ -54,11 +55,13 @@ export function ReaderBookmarksSheet({
   const handleAdd = async () => {
     if (!currentPosition) return
     await addBookmark(bookId, currentPosition, currentChapterTitle)
+    void successBuzz()
     refresh()
   }
 
   const handleRemove = async (cursorId: string) => {
     await removeBookmark(cursorId)
+    void lightTap()
     refresh()
   }
 

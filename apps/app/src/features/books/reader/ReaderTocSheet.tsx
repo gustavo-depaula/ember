@@ -1,13 +1,14 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
-import { Check, ChevronDown, ChevronRight } from 'lucide-react-native'
+import { Check, ChevronDown, ChevronRight, Search } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { FlatList, Pressable, useWindowDimensions } from 'react-native'
+import { FlatList, Pressable, TextInput, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import type { TocNode } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
+import { useDebounced } from '@/lib/useDebounced'
 import { collectAllSectionIds, hasNestedSections } from './bookContent'
 import type { ChapterTiming } from './chapterTimings'
 
@@ -75,6 +76,20 @@ function getItemLayout(_: unknown, index: number) {
   return { length: itemHeight, offset: itemHeight * index, index }
 }
 
+/** Flatten all leaves + sections (depth 0) — used when filtering by query. */
+function flattenAllLeaves(toc: TocNode[]): FlatTocItem[] {
+  const out: FlatTocItem[] = []
+  function walk(nodes: TocNode[]) {
+    for (const node of nodes) {
+      const isLeaf = !node.children?.length
+      out.push({ node, depth: 0, isLeaf, isExpanded: false })
+      if (!isLeaf && node.children) walk(node.children)
+    }
+  }
+  walk(toc)
+  return out
+}
+
 export function ReaderTocSheet({
   open,
   onClose,
@@ -93,7 +108,19 @@ export function ReaderTocSheet({
     collectInitialExpanded(toc, currentChapterId),
   )
 
-  const flatItems = useMemo(() => flattenToc(toc, expandedIds), [toc, expandedIds])
+  const [query, setQuery] = useState('')
+  const debouncedQuery = useDebounced(query, 150)
+  const trimmedQuery = debouncedQuery.trim().toLowerCase()
+
+  const flatItems = useMemo(() => {
+    const all = flattenToc(toc, expandedIds)
+    if (trimmedQuery.length < 2) return all
+    // Flat list of matches across the whole tree (depth set to 0 so all
+    // matches read at the same indent — the query already narrows context).
+    return flattenAllLeaves(toc).filter((item) =>
+      localizeContent(item.node.title).toLowerCase().includes(trimmedQuery),
+    )
+  }, [toc, expandedIds, trimmedQuery])
 
   const currentIndex = useMemo(
     () => flatItems.findIndex((i) => i.node.id === currentChapterId),
@@ -146,6 +173,26 @@ export function ReaderTocSheet({
               </Pressable>
             </XStack>
           ) : null}
+        </XStack>
+        <XStack
+          alignItems="center"
+          gap="$sm"
+          paddingHorizontal="$lg"
+          paddingBottom="$sm"
+          opacity={0.85}
+        >
+          <Search size={16} color={theme.colorSecondary?.val} />
+          <TextInput
+            value={query}
+            onChangeText={setQuery}
+            placeholder={t('books.tocSearchPlaceholder', { defaultValue: 'Filter chapters…' })}
+            placeholderTextColor={theme.colorSecondary?.val}
+            clearButtonMode="while-editing"
+            returnKeyType="search"
+            autoCorrect={false}
+            autoCapitalize="none"
+            style={{ flex: 1, fontSize: 14, color: theme.color?.val, paddingVertical: 4 }}
+          />
         </XStack>
         <FlatList
           data={flatItems}

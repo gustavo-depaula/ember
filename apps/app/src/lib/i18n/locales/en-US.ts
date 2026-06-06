@@ -895,6 +895,7 @@ export default {
     noBookmarks: 'No bookmarks yet. Tap the button above to mark this page.',
     expandAll: 'Expand all',
     collapseAll: 'Collapse all',
+    tocSearchPlaceholder: 'Filter chapters…',
     hintPrev: 'Previous page',
     hintMenu: 'Show menu',
     hintNext: 'Next page',
