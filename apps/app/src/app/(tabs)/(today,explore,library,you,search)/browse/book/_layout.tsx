@@ -14,7 +14,15 @@ export default function BookLayout() {
     >
       <Stack.Screen
         name="[bookId]/read"
-        options={{ presentation: 'fullScreenModal', gestureEnabled: true }}
+        options={{
+          presentation: 'fullScreenModal',
+          gestureEnabled: true,
+          // Default `gestureDirection` is `horizontal` (the iOS back-edge pop
+          // swipe). For a fullScreenModal we want the iOS swipe-down-to-
+          // dismiss UIKit ships natively on iOS 13+; the `vertical` direction
+          // is what wires that in.
+          gestureDirection: 'vertical',
+        }}
       />
     </Stack>
   )
