@@ -1,4 +1,9 @@
-import { getCursorsWithPrefix, setCursor } from '@/db/repositories/cursors'
+import {
+  bookmarkCursorId,
+  bookmarkCursorPrefix,
+  getCursorsWithPrefix,
+  setCursor,
+} from '@/db/repositories/cursors'
 import type { ReaderPosition } from './useReaderCursor'
 
 export type Bookmark = {
@@ -10,22 +15,20 @@ export type Bookmark = {
   label?: string
 }
 
-function bookmarkPrefix(bookId: string): string {
-  return `book/${bookId}/bookmark/`
-}
-
 export async function addBookmark(
   bookId: string,
   position: ReaderPosition,
   label?: string,
 ): Promise<void> {
   const createdAt = Date.now()
-  const cursorId = `${bookmarkPrefix(bookId)}${createdAt}`
-  await setCursor(cursorId, JSON.stringify({ ...position, createdAt, label }))
+  await setCursor(
+    bookmarkCursorId(bookId, createdAt),
+    JSON.stringify({ ...position, createdAt, label }),
+  )
 }
 
 export function listBookmarks(bookId: string): Bookmark[] {
-  const cursors = getCursorsWithPrefix(bookmarkPrefix(bookId))
+  const cursors = getCursorsWithPrefix(bookmarkCursorPrefix(bookId))
   const out: Bookmark[] = []
   for (const c of cursors) {
     try {

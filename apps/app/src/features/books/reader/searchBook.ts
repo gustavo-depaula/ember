@@ -1,3 +1,4 @@
+import { stripHtml } from '@/lib/html'
 import type { TocLeaf } from './bookContent'
 
 export type SearchResult = {
@@ -13,21 +14,18 @@ const SNIPPET_BEFORE = 40
 const SNIPPET_AFTER = 60
 const DEFAULT_MAX_RESULTS = 200
 
-function stripHtml(html: string): string {
-  return html
-    .replace(/<style[\s\S]*?<\/style>/gi, '')
-    .replace(/<script[\s\S]*?<\/script>/gi, '')
-    .replace(/<br\s*\/?>/gi, ' ')
-    .replace(/<\/?(p|div|h[1-6]|li|blockquote|section)\b[^>]*>/gi, ' ')
-    .replace(/<[^>]+>/g, '')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim()
+/**
+ * Pre-strip HTML bodies to plain text. Memoise on the bodies array identity
+ * so repeated searches over the same book don't re-scan tens of MB on every
+ * keystroke. WeakMap key keeps the cache GC-safe.
+ */
+const plainCache = new WeakMap<string[], string[]>()
+export function getPlainBodies(bodies: string[]): string[] {
+  const hit = plainCache.get(bodies)
+  if (hit) return hit
+  const plains = bodies.map((b) => stripHtml(b ?? ''))
+  plainCache.set(bodies, plains)
+  return plains
 }
 
 /**
@@ -46,9 +44,10 @@ export function searchBookContent(
   if (q.length < 2) return []
   const needle = q.toLowerCase()
   const results: SearchResult[] = []
+  const plains = getPlainBodies(bodies)
 
-  for (let i = 0; i < bodies.length; i++) {
-    const plain = stripHtml(bodies[i] ?? '')
+  for (let i = 0; i < plains.length; i++) {
+    const plain = plains[i]
     const haystack = plain.toLowerCase()
     let idx = haystack.indexOf(needle)
     while (idx !== -1) {

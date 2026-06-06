@@ -44,6 +44,20 @@ export async function setIndex(id: string, index: number): Promise<void> {
   await emit({ type: 'CursorIndexSet', cursorId: id, index })
 }
 
+// --- Book reader cursors ---
+
+export function bookCursorId(bookId: string): string {
+  return `book/${bookId}`
+}
+
+export function bookmarkCursorPrefix(bookId: string): string {
+  return `book/${bookId}/bookmark/`
+}
+
+export function bookmarkCursorId(bookId: string, createdAt: number): string {
+  return `${bookmarkCursorPrefix(bookId)}${createdAt}`
+}
+
 // --- Program cursors ---
 
 export type ProgramCursorPosition = {

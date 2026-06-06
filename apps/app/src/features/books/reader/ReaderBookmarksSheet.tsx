@@ -5,6 +5,8 @@ import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
+
+import { formatSoftRelative } from '@/lib/softRelative'
 import type { TocLeaf } from './bookContent'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import type { ReaderPosition } from './useReaderCursor'
@@ -24,18 +26,6 @@ type Props = {
 
 const sheetFraction = 0.85
 
-function formatRelative(ms: number, locale: string): string {
-  const diff = Date.now() - ms
-  const min = Math.floor(diff / 60_000)
-  if (min < 1) return 'just now'
-  if (min < 60) return `${min} min ago`
-  const hr = Math.floor(min / 60)
-  if (hr < 24) return `${hr} h ago`
-  const days = Math.floor(hr / 24)
-  if (days < 7) return `${days} d ago`
-  return new Date(ms).toLocaleDateString(locale)
-}
-
 export function ReaderBookmarksSheet({
   open,
   onClose,
@@ -46,7 +36,7 @@ export function ReaderBookmarksSheet({
   titleLookup,
   onSelect,
 }: Props) {
-  const { t, i18n } = useTranslation()
+  const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const { height } = useWindowDimensions()
@@ -162,7 +152,10 @@ export function ReaderBookmarksSheet({
                         {chapterTitle}
                       </Text>
                       <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                        {formatRelative(item.createdAt, i18n.language)}
+                        {formatSoftRelative(item.createdAt, {
+                          justNow: t('common.justNow', { defaultValue: 'just now' }),
+                          aMomentAgo: t('common.aMomentAgo', { defaultValue: 'a moment ago' }),
+                        })}
                       </Text>
                     </YStack>
                   </Pressable>

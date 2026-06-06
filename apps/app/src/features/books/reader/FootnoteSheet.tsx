@@ -4,6 +4,8 @@ import { useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, YStack } from 'tamagui'
 
+import { stripHtml } from '@/lib/html'
+
 const sheetFraction = 0.5
 
 type Props = {
@@ -12,31 +14,13 @@ type Props = {
   onClose: () => void
 }
 
-// HTML → plain text. Footnotes from marked-footnote are usually a single
-// paragraph; richer cases (multi-paragraph, inline emphasis) lose formatting
-// here. Acceptable for MVP — full HTML rendering would mean shipping
-// react-native-render-html just for this surface.
-function htmlToPlain(html: string): string {
-  return html
-    .replace(/<br\s*\/?>(?!\s*<)/gi, '\n')
-    .replace(/<\/p>\s*<p[^>]*>/gi, '\n\n')
-    .replace(/<[^>]+>/g, '')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, ' ')
-    .trim()
-}
-
 export function FootnoteSheet({ content, onClose }: Props) {
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const { height } = useWindowDimensions()
 
-  const text = content ? htmlToPlain(content) : ''
+  const text = content ? stripHtml(content, { preserveLineBreaks: true }) : ''
 
   return (
     <BottomSheet

@@ -1,10 +1,12 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
 import { Search, X } from 'lucide-react-native'
-import { useEffect, useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, TextInput, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
+
+import { useDebounced } from '@/lib/useDebounced'
 import type { TocLeaf } from './bookContent'
 import { type SearchResult, searchBookContent } from './searchBook'
 
@@ -19,15 +21,6 @@ type Props = {
 
 const sheetFraction = 0.92
 const QUERY_DEBOUNCE_MS = 200
-
-function useDebounced<T>(value: T, ms: number): T {
-  const [v, setV] = useState(value)
-  useEffect(() => {
-    const id = setTimeout(() => setV(value), ms)
-    return () => clearTimeout(id)
-  }, [value, ms])
-  return v
-}
 
 export function ReaderSearchSheet({ open, onClose, bodies, leaves, titleLookup, onSelect }: Props) {
   const { t } = useTranslation()
@@ -124,7 +117,7 @@ export function ReaderSearchSheet({ open, onClose, bodies, leaves, titleLookup, 
                 <Text fontFamily="$heading" fontSize="$1" color="$colorSecondary" numberOfLines={1}>
                   {item.chapterTitle}
                 </Text>
-                <Text fontFamily="$body" fontSize="$3" color="$color">
+                <Text fontFamily="$body" fontSize="$3" color="$color" numberOfLines={3}>
                   {item.snippet.slice(0, item.matchStart)}
                   <Text fontWeight="600" color="$accent">
                     {item.snippet.slice(item.matchStart, item.matchEnd)}

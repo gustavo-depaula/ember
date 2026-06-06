@@ -38,10 +38,10 @@ type Props = {
   chapter?: string
 }
 
+type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | null
+
 const BAR_WIDTH = 220
 
-// Manifest: 0..0.1, chapters: 0.1..0.7, images: 0.7..1.0 — keeps the bar
-// always moving forward across phases.
 function computeProgressFraction(p: LoadProgress | undefined): number {
   if (!p) return 0
   const ratio = p.total > 0 ? p.completed / p.total : 0
@@ -70,10 +70,9 @@ function LoadingPane({
   const { t } = useTranslation()
   const fillWidth = useSharedValue(0)
 
+  // React batches setLoadProgress calls within the same task — 200+ chapters
+  // resolving in one tick would otherwise snap from 0 to 100% in one frame.
   useEffect(() => {
-    // Animate even when React batches multiple setLoadProgress calls into
-    // one render — 200+ chapters resolving in the same task would otherwise
-    // snap from 0 to 100% in a single frame.
     fillWidth.value = withTiming(computeProgressFraction(progress) * BAR_WIDTH, { duration: 300 })
   }, [progress, fillWidth])
 
@@ -148,10 +147,8 @@ export function BookReader({ bookId, chapter }: Props) {
   const cursor = useReaderCursor(bookId)
 
   // Floor foliate's margin at the safe-area insets so text never bleeds into
-  // the notch or home indicator. The +56 at the bottom also clears the
-  // page-indicator text (~36px tall + 12px inset margin + 8px buffer).
-  // Override `lang` to the resolved content language so WebKit picks the
-  // right hyphenation dictionary.
+  // the notch or home indicator. +56 bottom also clears the page-indicator
+  // text. Override `lang` so WebKit picks the right hyphenation dictionary.
   const config = useMemo(
     () => ({
       ...rawConfig,
@@ -201,58 +198,55 @@ export function BookReader({ bookId, chapter }: Props) {
   }, [bookContent, leaves, titleLookup])
 
   const [chapterIndex, setChapterIndex] = useState(0)
+  const [fraction, setFraction] = useState(0)
   const [pagesLeft, setPagesLeft] = useState(0)
   const [chromeShown, setChromeShown] = useState(false)
-  const [menuOpen, setMenuOpen] = useState(false)
-  const [tocOpen, setTocOpen] = useState(false)
-  const [settingsOpen, setSettingsOpen] = useState(false)
-  const [searchOpen, setSearchOpen] = useState(false)
-  const [bookmarksOpen, setBookmarksOpen] = useState(false)
+  const [sheet, setSheet] = useState<SheetKind>(null)
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
   const [navStack, setNavStack] = useState<Array<{ index: number; fraction: number }>>([])
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
-  // Live position for back-stack snapshots. Held in a ref so the cross-ref
-  // handler doesn't churn on every relocate event.
-  const lastPosRef = useRef({ index: 0, fraction: 0 })
 
   const onMessage = useCallback(
     (msg: FoliateMessage) => {
-      if (msg.type === 'centerTap') {
-        setChromeShown((s) => !s)
-        return
-      }
-      if (msg.type === 'relocate') {
-        setChapterIndex(msg.index)
-        setPagesLeft(Math.max(0, msg.pages - msg.page))
-        lastPosRef.current = { index: msg.index, fraction: msg.fraction }
-        const chapterId = leaves[msg.index]?.id
-        if (chapterId) cursor.save({ chapterId, fraction: msg.fraction })
-      }
-      if (msg.type === 'footnoteTap') {
-        setFootnoteHtml(msg.html)
-      }
-      if (msg.type === 'crossRefTap') {
-        // Match href to a leaf id. Accept exact, suffix, or stripped-extension
-        // matches so the same handler works whether authors write
-        // "summa-st-1-q1-a1" or "ST.Iaq1a1.html" or "../ST.Iaq1a1".
-        const href = msg.href
-        const candidates = [
-          href,
-          href.replace(/\.x?html?$/, ''),
-          href.replace(/^.*\//, ''),
-          href.replace(/^.*\//, '').replace(/\.x?html?$/, ''),
-        ]
-        const idx = leaves.findIndex((l) => candidates.includes(l.id))
-        if (idx < 0) {
-          console.warn(`[BookReader] cross-ref href did not match any leaf: ${href}`)
+      switch (msg.type) {
+        case 'centerTap':
+          setChromeShown((s) => !s)
+          return
+        case 'relocate': {
+          setChapterIndex(msg.index)
+          setFraction(msg.fraction)
+          setPagesLeft(Math.max(0, msg.pages - msg.page))
+          const chapterId = leaves[msg.index]?.id
+          if (chapterId) cursor.save({ chapterId, fraction: msg.fraction })
           return
         }
-        setNavStack((s) => [...s, { ...lastPosRef.current }])
-        foliateRef.current?.goTo(idx, 0)
+        case 'footnoteTap':
+          setFootnoteHtml(msg.html)
+          return
+        case 'crossRefTap': {
+          // Accept exact, suffix, and stripped-extension matches so the same
+          // handler works whether authors write "summa-st-1-q1-a1" or
+          // "ST.Iaq1a1.html" or "../ST.Iaq1a1".
+          const href = msg.href
+          const candidates = [
+            href,
+            href.replace(/\.x?html?$/, ''),
+            href.replace(/^.*\//, ''),
+            href.replace(/^.*\//, '').replace(/\.x?html?$/, ''),
+          ]
+          const idx = leaves.findIndex((l) => candidates.includes(l.id))
+          if (idx < 0) {
+            console.warn(`[BookReader] cross-ref href did not match any leaf: ${href}`)
+            return
+          }
+          setNavStack((s) => [...s, { index: chapterIndex, fraction }])
+          foliateRef.current?.goTo(idx, 0)
+          return
+        }
       }
     },
-    [leaves, cursor.save],
+    [leaves, cursor.save, chapterIndex, fraction],
   )
 
   const handleBackNav = useCallback(() => {
@@ -268,7 +262,7 @@ export function BookReader({ bookId, chapter }: Props) {
     (id: string) => {
       const idx = leaves.findIndex((l) => l.id === id)
       if (idx >= 0) foliateRef.current?.goTo(idx, 0)
-      setTocOpen(false)
+      setSheet(null)
     },
     [leaves],
   )
@@ -305,6 +299,7 @@ export function BookReader({ bookId, chapter }: Props) {
   }
 
   const currentChapterId = leaves[chapterIndex]?.id
+  const currentPosition = currentChapterId ? { chapterId: currentChapterId, fraction } : undefined
 
   return (
     <View flex={1} backgroundColor={config.background}>
@@ -327,50 +322,34 @@ export function BookReader({ bookId, chapter }: Props) {
         isDark={config.isDark}
         color={config.color}
         onClose={() => router.back()}
-        onMenu={() => setMenuOpen(true)}
+        onMenu={() => setSheet('menu')}
         onBack={handleBackNav}
       />
 
       <ReaderMenuSheet
-        open={menuOpen}
-        onClose={() => setMenuOpen(false)}
-        onContents={
-          bookEntry.toc && bookEntry.toc.length > 0
-            ? () => {
-                setMenuOpen(false)
-                setTocOpen(true)
-              }
-            : undefined
-        }
-        onSearch={() => {
-          setMenuOpen(false)
-          setSearchOpen(true)
-        }}
-        onBookmarks={() => {
-          setMenuOpen(false)
-          setBookmarksOpen(true)
-        }}
-        onSettings={() => {
-          setMenuOpen(false)
-          setSettingsOpen(true)
-        }}
+        open={sheet === 'menu'}
+        onClose={() => setSheet(null)}
+        onContents={bookEntry.toc && bookEntry.toc.length > 0 ? () => setSheet('toc') : undefined}
+        onSearch={() => setSheet('search')}
+        onBookmarks={() => setSheet('bookmarks')}
+        onSettings={() => setSheet('settings')}
       />
 
       {bookEntry.toc && (
         <ReaderTocSheet
-          open={tocOpen}
-          onClose={() => setTocOpen(false)}
+          open={sheet === 'toc'}
+          onClose={() => setSheet(null)}
           toc={bookEntry.toc}
           currentChapterId={currentChapterId}
           onSelect={handleSelectChapter}
         />
       )}
 
-      <ReaderSettingsSheet open={settingsOpen} onClose={() => setSettingsOpen(false)} />
+      <ReaderSettingsSheet open={sheet === 'settings'} onClose={() => setSheet(null)} />
 
       <ReaderSearchSheet
-        open={searchOpen}
-        onClose={() => setSearchOpen(false)}
+        open={sheet === 'search'}
+        onClose={() => setSheet(null)}
         bodies={chapters}
         leaves={leaves}
         titleLookup={titleLookup}
@@ -378,18 +357,14 @@ export function BookReader({ bookId, chapter }: Props) {
       />
 
       <ReaderBookmarksSheet
-        open={bookmarksOpen}
-        onClose={() => setBookmarksOpen(false)}
+        open={sheet === 'bookmarks'}
+        onClose={() => setSheet(null)}
         bookId={bookId}
-        currentPosition={
-          currentChapterId
-            ? { chapterId: currentChapterId, fraction: lastPosRef.current.fraction }
-            : undefined
-        }
+        currentPosition={currentPosition}
         currentChapterTitle={currentChapterId ? titleLookup.get(currentChapterId) : undefined}
         leaves={leaves}
         titleLookup={titleLookup}
-        onSelect={(idx, fraction) => foliateRef.current?.goTo(idx, fraction)}
+        onSelect={(idx, frac) => foliateRef.current?.goTo(idx, frac)}
       />
 
       <FootnoteSheet content={footnoteHtml} onClose={() => setFootnoteHtml(undefined)} />

@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { AppState } from 'react-native'
-import { getCursor, setCursor } from '@/db/repositories/cursors'
+import { bookCursorId, getCursor, setCursor } from '@/db/repositories/cursors'
 
 export type ReaderPosition = {
   chapterId: string
@@ -12,10 +12,6 @@ type LegacyPosition = { chapterId: string; page?: number }
 
 const SAVE_DEBOUNCE_MS = 1000
 const SAME_FRACTION_EPSILON = 0.001
-
-function cursorId(bookId: string) {
-  return `book/${bookId}`
-}
 
 export function parseReaderPosition(raw: string): ReaderPosition | undefined {
   try {
@@ -57,7 +53,7 @@ export function useReaderCursor(bookId: string | undefined) {
       setInitial({ position: undefined, loaded: true })
       return
     }
-    const c = getCursor(cursorId(bookId))
+    const c = getCursor(bookCursorId(bookId))
     const parsed = c ? parseReaderPosition(c.position) : undefined
     latestRef.current = parsed
     lastWrittenRef.current = parsed
@@ -69,7 +65,7 @@ export function useReaderCursor(bookId: string | undefined) {
     if (!bookId || !pos) return
     if (samePosition(pos, lastWrittenRef.current)) return
     lastWrittenRef.current = pos
-    void setCursor(cursorId(bookId), JSON.stringify(pos))
+    void setCursor(bookCursorId(bookId), JSON.stringify(pos))
   }, [bookId])
 
   const save = useCallback(

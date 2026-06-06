@@ -58,26 +58,32 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
   const html = useMemo(() => buildHostHtml({ chapters, initialIndex, initialFraction, config }), [])
 
   // First mount already has chapters + config baked in — skip the redundant
-  // re-inject that would re-open the book and reset position.
+  // re-inject that would re-open the book.
   const chapterMounted = useRef(false)
   useEffect(() => {
     if (!chapterMounted.current) {
       chapterMounted.current = true
       return
     }
-    inject(
-      webViewRef,
-      `window.__foliate?.loadBook(${JSON.stringify(chapters)}, ${initialIndex}, ${initialFraction});true;`,
-    )
-  }, [chapters, initialIndex, initialFraction])
+    // No index/fraction — bootstrap preserves current paginator position. The
+    // initial location was set on first paint; mid-session chapter list
+    // changes (e.g. titleLookup mutation on language switch) shouldn't yank
+    // the reader back to the start.
+    inject(webViewRef, `window.__foliate?.loadBook(${JSON.stringify(chapters)});true;`)
+  }, [chapters])
 
-  const configMounted = useRef(false)
+  // Stringify-guard the config inject — identical configs (re-renders that
+  // changed an unrelated prop) shouldn't trigger a full chapter re-blob.
+  const configKey = useRef('')
   useEffect(() => {
-    if (!configMounted.current) {
-      configMounted.current = true
+    const key = JSON.stringify(config)
+    if (configKey.current === '') {
+      configKey.current = key
       return
     }
-    inject(webViewRef, `window.__foliate?.setConfig(${JSON.stringify(config)});true;`)
+    if (configKey.current === key) return
+    configKey.current = key
+    inject(webViewRef, `window.__foliate?.setConfig(${key});true;`)
   }, [config])
 
   useImperativeHandle(
@@ -330,10 +336,23 @@ function buildHostHtml({
         paginator.goTo({ index: index ?? 0, anchor: fraction ?? 0 });
       };
 
+      const currentLocation = () => {
+        if (!paginator || !(paginator.pages > 2)) return { index: 0, fraction: 0 };
+        return {
+          index: paginator.index ?? 0,
+          fraction: (Math.max(1, paginator.page) - 1) / (paginator.pages - 2),
+        };
+      };
+
       window.__foliate = {
         loadBook: (newChapters, index, fraction) => {
           chapters = newChapters;
-          openBook(index, fraction);
+          // No explicit location → preserve current paginator position so
+          // mid-session chapter-list changes don't reset the reader.
+          const here = (index === undefined && paginator)
+            ? currentLocation()
+            : { index: index ?? 0, fraction: fraction ?? 0 };
+          openBook(here.index, here.fraction);
         },
         goTo: ({ index, fraction }) => {
           if (!paginator) return;
@@ -344,16 +363,9 @@ function buildHostHtml({
           if (!paginator) return;
           paginator.setAttribute('margin', cfg.marginPx + 'px');
           paginator.style.background = cfg.background;
-          // Re-blobbing every chapter with the new STYLE is the only way to
-          // update the inner iframe's CSS — there's no setStyles() on
-          // foliate-paginator. Cheap (blobs are in-memory) and preserves
-          // position because we restore the same {index, fraction}.
-          const here = { index: paginator.index ?? 0, fraction: 0 };
-          // Read fraction off the live page/pages so the restore lands close
-          // to where the user was after the reflow.
-          if (paginator.pages > 2) {
-            here.fraction = (Math.max(1, paginator.page) - 1) / (paginator.pages - 2);
-          }
+          // Re-blob every chapter with the new STYLE (foliate-paginator has
+          // no setStyles); restore {index, fraction} so position is preserved.
+          const here = currentLocation();
           paginator.open(buildBook());
           paginator.goTo({ index: here.index, anchor: here.fraction });
         },
