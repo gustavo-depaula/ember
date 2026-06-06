@@ -2914,6 +2914,7 @@ def main() -> int:
         # rendering. Use `python3 scripts/scrape-aquinas-cc.py work <slug>`
         # (or `summa` / `scg`) for any of these.
         deprecated = {
+            # Round 3-7 replacements (now in scrape-aquinas-cc.py).
             "summa-theologiae", "summa-contra-gentiles", "quodlibetales",
             "sentences",  # super-sententias
             "compendium-corpus-christi", "compendium-theology",
@@ -2925,6 +2926,19 @@ def main() -> int:
             "de-veritate", "de-potentia", "qd-de-anima",
             "de-spiritualibus-creaturis", "de-unione-verbi",
             "boethius-de-trinitate",
+            "catena-aurea-matthew", "catena-aurea-mark",
+            "catena-aurea-luke", "catena-aurea-john",
+            # Round 8 — opuscula + retired works.
+            "de-ente-et-essentia", "de-principiis-naturae",
+            "de-regno", "de-substantiis-separatis",
+            "contra-impugnantes", "contra-retrahentes",
+            "de-perfectione-vitae", "de-unitate-intellectus",
+            "de-aeternitate-mundi", "de-articulis-fidei",
+            "de-rationibus-fidei", "de-motu-cordis",
+            "de-operationibus-occultis", "de-mixtione-elementorum",
+            "de-emptione", "de-sortibus",
+            "to-bernard-abbot", "to-duchess-flanders",
+            "contra-errores-graecorum", "de-virtutibus",
         }
         for wid, fn in WORK_BUILDERS.items():
             if wid in deprecated:
