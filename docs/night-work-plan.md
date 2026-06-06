@@ -2,7 +2,7 @@
 
 ## 👋 Morning summary (write-up while you sleep)
 
-24 features shipped on the `book-reader-v2` branch (PR #241). Two intentionally deferred to dedicated PRs.
+26 features shipped on the `book-reader-v2` branch (PR #241). Two intentionally deferred to dedicated PRs.
 
 **Phase 1 (planned Phase-2 features)** — 9 of 11 shipped, 2 deferred:
 1. ✅ Drop caps + chapter-opening ornaments (CSS)
@@ -17,7 +17,7 @@
 10. ✅ Two-page spread on landscape tablets
 11. ✅ Hyphenation (per-language `hyphens: auto`)
 
-**Phase 2 (creative additions)** — 13 shipped:
+**Phase 2 (creative additions)** — 15 shipped:
 12. ✅ Per-book progress on frontispiece (% + chapter X of Y)
 13. ✅ Sepia / paper / midnight / night palettes (+ auto)
 14. ✅ Chapter completion checkmarks (auto-mark on fraction ≥ 0.95)
@@ -31,16 +31,19 @@
 22. ✅ Per-book reading-time tracker ("Read for 1h 23m")
 23. ✅ Per-book reading streak ("🔥 3-day reading streak")
 24. ✅ First-time tap-zone hint overlay (onboarding)
+25. ✅ Search results jump to the **exact** text in chapter (not just top-of-chapter)
+26. ✅ Stats row at top of settings sheet (streak / total-read / chapters)
 
-**Three /simplify passes** ran during the night — extracted shared helpers (`stripHtml`, `useDebounced`, palettes config), dropped narrative comments, unified state, fixed real bugs (time-travel sync, swallowed errors, read-then-write race).
+**Three /simplify passes** ran during the night — extracted shared helpers (`stripHtml`, `useDebounced`, palettes config, TOC walkers), dropped narrative comments, unified state, fixed real bugs (time-travel sync via `getToday()`, swallowed errors, read-then-write race in reading-time accrual).
 
 **By the numbers**:
-- 30 new commits on `book-reader-v2`
-- 30 new test cases (vitest), all green
+- 34 new commits on `book-reader-v2`
+- 27 new test cases (vitest), all green
 - 0 new dependencies added (all features use existing libraries)
-- 5 deferred-with-rationale items (Highlights, TTS, plus tangential things)
+- 2 deferred-with-rationale items (Highlights, TTS)
+- 6 new persistence cursors using the existing event store (`completed/{id}`, `bookmark/{ts}`, `timings`, `read-time`, `streak`, `palette`-no-wait, the streak one) — zero DB migrations
 
-**To wake up to**: pull `book-reader-v2`, refresh the dev client, open any book. The frontispiece now carries the progress bar + completion / streak / time stats. Open the reader; the first-time hint shows. Tap menu → Bookmarks / Search work. Settings sheet has 5 palettes to try (sepia is lovely). Read for a minute, exit, come back — reading time accumulates and "Last read X ago" updates.
+**To wake up to**: pull `book-reader-v2`, refresh the dev client, open any book. The frontispiece carries the progress bar + completion / streak / time / "time to finish" stats. Open the reader → the first-time hint overlay shows. Tap menu → Bookmarks, Search (now lands on the exact match), Themes & Settings (5 palettes, sepia is lovely, stats row at top). Read for a minute, exit, come back — reading time accumulates, "Last read X ago" updates, streak counter bumps the next day.
 
 ---
 
