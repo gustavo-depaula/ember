@@ -26,6 +26,8 @@ type Props = {
   pages: number
   /** Foliate's 1-indexed current page within the chapter. */
   page: number
+  /** Bookmark fractions in the current chapter — surfaced as ticks on the scrubber. */
+  bookmarkFractions?: number[]
   chromeShown: boolean
   /** Show a back-arrow pill at top-left when the reader followed a cross-ref. */
   canGoBack: boolean
@@ -49,6 +51,7 @@ export function ReaderOverlay({
   fraction,
   pages,
   page,
+  bookmarkFractions,
   chromeShown,
   canGoBack,
   isDark,
@@ -144,6 +147,7 @@ export function ReaderOverlay({
               page={page}
               color={color}
               isDark={isDark}
+              bookmarkFractions={bookmarkFractions}
               onScrub={onScrub}
               onScrubEnd={onScrubEnd}
             />

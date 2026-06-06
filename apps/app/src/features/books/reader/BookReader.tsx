@@ -21,6 +21,7 @@ import {
   type LoadProgress,
   loadBookContent,
 } from './bookContent'
+import { listBookmarks } from './bookmarks'
 import {
   clearBookPaletteOverride,
   getBookPaletteOverride,
@@ -261,6 +262,19 @@ export function BookReader({ bookId, chapter }: Props) {
   // Title of the chapter that just hit 0.95; cleared after 2.5s. Drives
   // ChapterCompleteToast.
   const [justCompletedTitle, setJustCompletedTitle] = useState<string | undefined>(undefined)
+  // Bumped after the bookmarks sheet closes (and on add via successBuzz) so
+  // the bookmark-ticks memo re-pulls fresh fractions for the scrubber.
+  const [bookmarksVersion, setBookmarksVersion] = useState(0)
+  const bookmarkFractions = useMemo(() => {
+    // bookmarksVersion is referenced so the memo re-runs after add/remove;
+    // bumped when the bookmarks sheet closes.
+    void bookmarksVersion
+    const id = leaves[chapterIndex]?.id
+    if (!id) return undefined
+    return listBookmarks(bookId)
+      .filter((b) => b.chapterId === id)
+      .map((b) => b.fraction)
+  }, [bookId, leaves, chapterIndex, bookmarksVersion])
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
   // Per-mount set of chapters we've already marked completed — prevents the
@@ -476,6 +490,7 @@ export function BookReader({ bookId, chapter }: Props) {
         fraction={fraction}
         pages={chapterPages}
         page={chapterPage}
+        bookmarkFractions={bookmarkFractions}
         chromeShown={chromeShown}
         canGoBack={navStack.length > 0}
         isDark={config.isDark}
@@ -545,7 +560,10 @@ export function BookReader({ bookId, chapter }: Props) {
 
       <ReaderBookmarksSheet
         open={sheet === 'bookmarks'}
-        onClose={() => setSheet(null)}
+        onClose={() => {
+          setSheet(null)
+          setBookmarksVersion((v) => v + 1)
+        }}
         bookId={bookId}
         currentPosition={currentPosition}
         currentChapterTitle={currentChapterId ? titleLookup.get(currentChapterId) : undefined}

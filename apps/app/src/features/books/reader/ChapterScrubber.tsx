@@ -16,6 +16,8 @@ import { GlassSurface } from '@/components/GlassSurface'
 const PILL_HEIGHT = 48
 const THUMB_SIZE = 14
 const TRACK_HEIGHT = 3
+const TICK_WIDTH = 2
+const TICK_HEIGHT = 10
 const SIDE_PADDING = 14
 
 type Props = {
@@ -27,6 +29,8 @@ type Props = {
   page: number
   color: string
   isDark: boolean
+  /** Bookmark fractions in the current chapter; rendered as ticks on the track. */
+  bookmarkFractions?: number[]
   onScrub: (fraction: number) => void
   onScrubEnd: (fraction: number) => void
 }
@@ -37,6 +41,7 @@ export function ChapterScrubber({
   page,
   color,
   isDark,
+  bookmarkFractions,
   onScrub,
   onScrubEnd,
 }: Props) {
@@ -121,6 +126,20 @@ export function ChapterScrubber({
           <Animated.View
             style={[styles.fill, fillStyle, { backgroundColor: color, opacity: 0.45 }]}
           />
+          {bookmarkFractions?.map((f) => (
+            <View
+              key={f}
+              pointerEvents="none"
+              style={[
+                styles.tick,
+                {
+                  left: Math.max(0, Math.min(trackWidth - 2, f * trackWidth - 1)),
+                  backgroundColor: color,
+                  top: PILL_HEIGHT / 2 - TICK_HEIGHT / 2,
+                },
+              ]}
+            />
+          ))}
           <Animated.View
             style={[
               styles.thumb,
@@ -182,6 +201,13 @@ const styles = StyleSheet.create({
     height: THUMB_SIZE,
     borderRadius: THUMB_SIZE / 2,
     left: 0,
+  },
+  tick: {
+    position: 'absolute',
+    width: TICK_WIDTH,
+    height: TICK_HEIGHT,
+    borderRadius: 1,
+    opacity: 0.65,
   },
   label: {
     minWidth: 56,
