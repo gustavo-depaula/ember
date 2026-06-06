@@ -1,16 +1,16 @@
 {
   "id": "aquinas-to-duchess-flanders",
   "name": {
-    "en-US": "Letter to the Duchess of Brabant (on the Government of the Jews)",
-    "la": "Epistola ad Ducissam Brabantiae (de Regimine Iudaeorum)"
+    "en-US": "Letter to the Duchess of Brabant on the rule of Jews",
+    "la": "De Regimine Iudaeorum ad Ducissam Brabantiae"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short letter of consultation from Aquinas to Duchess Aleydis of Brabant on the moral and political questions surrounding the government of Jewish subjects in a Christian principality.",
-    "la": "Epistola brevis consultationis Thomae ad Aleydem ducissam Brabantiae de quaestionibus moralibus et politicis circa regimen subditorum Iudaeorum in principatu Christiano."
+    "en-US": "A short letter answering the questions of Margaret of Constantinople, Duchess of Brabant, on the just rule of the Jewish population in her territories — on usury, tribute, oath-taking, and clothing distinctions.",
+    "la": "Epistola brevis quaestionibus Margaritae Constantinopolitanae, ducissae Brabantiae, de iusto regimine Iudaeorum in suis territoriis respondens — de usura, tributo, iuramento, et distinctione vestium."
   },
   "composed": "c. 1271",
   "languages": [
@@ -20,77 +20,70 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Ad Ducissam Brabantiae",
+      "description": "English translation revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Ad Ducissam Brabantiae",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch-0",
-      "title": {
-        "en-US": "Chapter 0 — Introduction",
-        "la": "Caput 0 — Introduction"
-      }
-    },
-    {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1 — First Response",
-        "la": "Caput 1 — First Response"
+        "en-US": "Article 1",
+        "la": "Articulus 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Chapter 2 — Second Response",
-        "la": "Caput 2 — Second Response"
+        "en-US": "Article 2",
+        "la": "Articulus 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Chapter 3 — Third Response",
-        "la": "Caput 3 — Third Response"
+        "en-US": "Article 3",
+        "la": "Articulus 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Chapter 4 — Fourth response",
-        "la": "Caput 4 — Fourth response"
+        "en-US": "Article 4",
+        "la": "Articulus 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Chapter 5 — Fifth response",
-        "la": "Caput 5 — Fifth response"
+        "en-US": "Article 5",
+        "la": "Articulus 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Chapter 6 — Sixth response",
-        "la": "Caput 6 — Sixth response"
+        "en-US": "Article 6",
+        "la": "Articulus 6"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Chapter 7 — Seventh response",
-        "la": "Caput 7 — Seventh response"
+        "en-US": "Article 7",
+        "la": "Articulus 7"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Chapter 8 — Eighth response",
-        "la": "Caput 8 — Eighth response"
+        "en-US": "Article 8",
+        "la": "Articulus 8"
       }
     }
   ]

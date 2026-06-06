@@ -1,3 +1,0 @@
-# Prologue — Friendship
-
-***Friendship***

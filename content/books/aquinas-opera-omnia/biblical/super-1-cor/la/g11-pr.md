@@ -1,3 +1,0 @@
-# Prooemium
-
-***Ius Apostolis***

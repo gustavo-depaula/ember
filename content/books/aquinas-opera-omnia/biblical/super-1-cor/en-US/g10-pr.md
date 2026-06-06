@@ -1,1 +1,0 @@
-# Prologue — Avoidance of scandal

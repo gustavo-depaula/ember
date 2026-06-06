@@ -1,3 +1,0 @@
-# Prooemium
-
-***Tribulationes et Praemium***

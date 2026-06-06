@@ -1,3 +1,0 @@
-# Prooemium
-
-***Theta (Θ)***

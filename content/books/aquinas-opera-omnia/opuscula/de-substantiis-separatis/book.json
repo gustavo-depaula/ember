@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A treatise on the angels — separate (immaterial) substances — surveying Aristotle, Plato, and the Neoplatonists before setting out Aquinas's own metaphysics of the angelic order. Unfinished.",
-    "la": "Tractatus de angelis — substantiis separatis (immaterialibus) — Aristotelem, Platonem, Neoplatonicos recensens, deinde metaphysicam propriam ordinis angelici proponens. Inchoatum."
+    "en-US": "A late treatise on the angels (the *substantiae separatae*) — their existence, nature, hierarchy, and operations. Aquinas's first survey of pagan-philosophical and patristic teaching on the angels before establishing his own position.",
+    "la": "Tractatus serotinus de angelis (*substantiae separatae*) — eorum existentia, natura, hierarchia, operationibus. Doctrinae paganae-philosophicae et patristicae de angelis recensio prima Thomae antequam suam positionem stabiliret."
   },
   "composed": "c. 1271",
   "languages": [
@@ -20,147 +20,161 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Francis J. Lescoe (Saint Joseph College, West Hartford, 1959). Translation status: may be under copyright in the United States until 2054; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Substantiis Separatis",
+      "description": "English translation by Francis J. Lescoe (West Hartford, 1959), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Substantiis Separatis",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue — Prologue",
+        "la": "Prooemium"
+      }
+    },
+    {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1 — Introduction",
-        "la": "Capitulum 1 — Introduction"
+        "en-US": "Chapter 1 — On the opinions of the early philosophers and of Plato",
+        "la": "Caput 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Chapter 2 — ARISTOTLE’S OPINION",
-        "la": "Capitulum 2 — ARISTOTLE’S OPINION"
+        "en-US": "Chapter 2 — On the opinion of Aristotle",
+        "la": "Caput 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Chapter 3 — HOW ARISTOTLE AND PLATO AGREE",
-        "la": "Capitulum 3 — HOW ARISTOTLE AND PLATO AGREE"
+        "en-US": "Chapter 3 — How the positions of Aristotle and Plato agree",
+        "la": "Caput 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Chapter 4 — HOW THE ABOVE POSITIONS OF PLATO AND ARISTOTLE DIFFER",
-        "la": "Capitulum 4 — HOW THE ABOVE POSITIONS OF PLATO AND ARISTOTLE DIFFER"
+        "en-US": "Chapter 4 — How the positions of Aristotle and Plato differ",
+        "la": "Caput 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Chapter 5 — THE OPINION OF AVICEBRON AND HIS ARGUMENTS FOR IT",
-        "la": "Capitulum 5 — THE OPINION OF AVICEBRON AND HIS ARGUMENTS FOR IT"
+        "en-US": "Chapter 5 — On the opinion of Avicebron and his arguments for it",
+        "la": "Caput 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Chapter 6 — REFUTATION OF AVICEBRON’S POSITION",
-        "la": "Capitulum 6 — REFUTATION OF AVICEBRON’S POSITION"
+        "en-US": "Chapter 6 — Refutation of Avicebron’s position",
+        "la": "Caput 6"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Chapter 7 — THAT OF SPIRITUAL AND CORPOREAL SUBSTANCES THERE CANNOT BE ONE MATTER",
-        "la": "Capitulum 7 — THAT OF SPIRITUAL AND CORPOREAL SUBSTANCES THERE CANNOT BE ONE MATTER"
+        "en-US": "Chapter 7 — That of spiritual and corporeal substances there cannot be one matter",
+        "la": "Caput 7"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Chapter 8 — ON THE REFUTATION OF AVICEBRON’S ARGUMENTS",
-        "la": "Capitulum 8 — ON THE REFUTATION OF AVICEBRON’S ARGUMENTS"
+        "en-US": "Chapter 8 — Refutation of Avicebron’s arguments",
+        "la": "Caput 8"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Chapter 9 — CONCERNING THE ERROR OF THOSE WHO POSIT THE ANGELS AS NOT CREATED AND ITS REFUTATION",
-        "la": "Capitulum 9 — CONCERNING THE ERROR OF THOSE WHO POSIT THE ANGELS AS NOT CREATED AND ITS REFUTATION"
+        "en-US": "Chapter 9 — On the opinion of those who say that spiritual substances are not created",
+        "la": "Caput 9"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Chapter 10 — THE OPINION OF AVICENNA ON THE COMING OF THINGS FROM THE FIRST PRINCIPLE AND ITS REFUTATION",
-        "la": "Capitulum 10 — THE OPINION OF AVICENNA ON THE COMING OF THINGS FROM THE FIRST PRINCIPLE AND ITS REFUTATION"
+        "en-US": "Chapter 10 — Against those who posit that not all spiritual substances are immediately from God",
+        "la": "Caput 10"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Chapter 11 — CONCERNING PLATO’S OPINION ON THE IDEAS AND ITS REFUTATION",
-        "la": "Capitulum 11 — CONCERNING PLATO’S OPINION ON THE IDEAS AND ITS REFUTATION"
+        "en-US": "Chapter 11 — Against the Platonists, who posit that certain essential perfections of spiritual substances are not immediately from God",
+        "la": "Caput 11"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Chapter 12 — ON THE ERROR OF THOSE WHO HOLD THAT ALL SPIRITUAL SUBSTANCES ARE CREATED EQUAL AND ITS REFUTATION",
-        "la": "Capitulum 12 — ON THE ERROR OF THOSE WHO HOLD THAT ALL SPIRITUAL SUBSTANCES ARE CREATED EQUAL AND ITS REFUTATION"
+        "en-US": "Chapter 12 — Against Origen, who posited that all spiritual substances are created equal",
+        "la": "Caput 12"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "en-US": "Chapter 13 — ON THE ERROR OF THOSE WHO SAY THAT GOD AND THE ANGELS DO NOT HAVE A KNOWLEDGE OF SINGULARS",
-        "la": "Capitulum 13 — ON THE ERROR OF THOSE WHO SAY THAT GOD AND THE ANGELS DO NOT HAVE A KNOWLEDGE OF SINGULARS"
+        "en-US": "Chapter 13 — On the error of some concerning the knowledge and providence of spiritual substances",
+        "la": "Caput 13"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "en-US": "Chapter 14 — IN WHICH IT IS SHOWN THAT GOD’S PROVIDENCE EXTENDS TO ALL THINGS",
-        "la": "Capitulum 14 — IN WHICH IT IS SHOWN THAT GOD’S PROVIDENCE EXTENDS TO ALL THINGS"
+        "en-US": "Chapter 14 — In which it is shown that God has knowledge of everything",
+        "la": "Caput 14"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "en-US": "Chapter 15 — RESOLUTION OF THE AFOREMENTIONED POSITIONS",
-        "la": "Capitulum 15 — RESOLUTION OF THE AFOREMENTIONED POSITIONS"
+        "en-US": "Chapter 15 — That the care of divine providence extends to all things",
+        "la": "Caput 15"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "en-US": "Chapter 16 — THE ERROR OF THE MANICHEANS CONCERNING THE AFOREMENTIONED POINTS AND ITS REFUTATION",
-        "la": "Capitulum 16 — THE ERROR OF THE MANICHEANS CONCERNING THE AFOREMENTIONED POINTS AND ITS REFUTATION"
+        "en-US": "Chapter 16 — Resolution of the aforementioned positions",
+        "la": "Caput 16"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "en-US": "Chapter 17 — WHAT MUST BE HELD ACCORDING TO THE CATHOLIC FAITH WITH RESPECT TO THE ORIGIN OF THE ANGELS",
-        "la": "Capitulum 17 — WHAT MUST BE HELD ACCORDING TO THE CATHOLIC FAITH WITH RESPECT TO THE ORIGIN OF THE ANGELS"
+        "en-US": "Chapter 17 — On the error of the Manicheans concerning spiritual substances",
+        "la": "Caput 17"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "en-US": "Chapter 18 — WHAT MUST BE HELD CONCERNING THE CONDITION OF THE ANGELS’ NATURE",
-        "la": "Capitulum 18 — WHAT MUST BE HELD CONCERNING THE CONDITION OF THE ANGELS’ NATURE"
+        "en-US": "Chapter 18 — On the origin of spiritual substances according to the Catholic faith",
+        "la": "Caput 18"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "en-US": "Chapter 19 — ON THE DISTINCTION OF SPIRITUAL SUBSTANCES ACCORDING TO SACRED TEACHING",
-        "la": "Capitulum 19 — ON THE DISTINCTION OF SPIRITUAL SUBSTANCES ACCORDING TO SACRED TEACHING"
+        "en-US": "Chapter 19 — On the condition of spiritual substances",
+        "la": "Caput 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Chapter 20 — On the distinction of angelic spirits",
+        "la": "Caput 20"
       }
     }
   ]

@@ -1,1 +1,0 @@
-# Prologue — Christ’s Priesthood

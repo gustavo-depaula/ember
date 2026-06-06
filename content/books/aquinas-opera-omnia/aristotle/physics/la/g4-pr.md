@@ -1,3 +1,0 @@
-# Prooemium
-
-***Delta (Δ)***

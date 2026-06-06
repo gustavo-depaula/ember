@@ -1,3 +1,0 @@
-# Prooemium
-
-***Caro et Spiritus***

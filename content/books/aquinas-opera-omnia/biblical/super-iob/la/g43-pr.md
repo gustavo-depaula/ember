@@ -1,3 +1,0 @@
-# Prooemium
-
-***Poenitentia Iob***

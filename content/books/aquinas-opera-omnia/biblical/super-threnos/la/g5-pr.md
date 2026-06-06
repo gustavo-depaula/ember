@@ -1,3 +1,0 @@
-# Prooemium
-
-***Jeremias misericordiam quaerit***

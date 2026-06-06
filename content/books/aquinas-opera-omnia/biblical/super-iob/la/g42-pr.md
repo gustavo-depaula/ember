@@ -1,3 +1,0 @@
-# Prooemium
-
-***Potestas Magna Satan***

@@ -1,3 +1,0 @@
-# Prooemium
-
-***Gaudia et Oratio***

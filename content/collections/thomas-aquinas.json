@@ -224,7 +224,59 @@
 				},
 				{
 					"kind": "item",
-					"ref": "book/aquinas-super-paulum"
+					"ref": "book/aquinas-super-romanos"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-1-cor"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-2-cor"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-galatas"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-ephesios"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-philippenses"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-colossenses"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-1-thess"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-2-thessalonicenses"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-1-timotheum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-2-timotheum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-titum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-philemonem"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-hebraeos"
 				},
 				{
 					"kind": "item",
@@ -521,11 +573,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/aquinas-sermons"
-				},
-				{
-					"kind": "item",
-					"ref": "book/aquinas-sermon-immensa"
+					"ref": "book/aquinas-sermons-bilingual"
 				},
 				{
 					"kind": "item",
@@ -533,7 +581,7 @@
 				},
 				{
 					"kind": "item",
-					"ref": "book/aquinas-sermons-bilingual"
+					"ref": "book/aquinas-sermon-immensa"
 				}
 			]
 		},

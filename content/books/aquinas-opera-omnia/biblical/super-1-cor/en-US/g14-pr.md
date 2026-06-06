@@ -1,1 +1,0 @@
-# Prologue — Diversity of Office

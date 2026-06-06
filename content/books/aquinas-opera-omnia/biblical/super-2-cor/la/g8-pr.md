@@ -1,3 +1,0 @@
-# Prooemium
-
-***Purificatio per Passionem***

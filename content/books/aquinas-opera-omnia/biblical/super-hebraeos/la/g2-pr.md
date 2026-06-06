@@ -1,3 +1,0 @@
-# Prooemium
-
-***Magnitudo Christi***

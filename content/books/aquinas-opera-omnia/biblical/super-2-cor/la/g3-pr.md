@@ -1,3 +1,0 @@
-# Prooemium
-
-***Visitatio Pauli Neglecta***

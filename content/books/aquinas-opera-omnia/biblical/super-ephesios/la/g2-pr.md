@@ -1,3 +1,0 @@
-# Prooemium
-
-***Virtus Incarnationis***

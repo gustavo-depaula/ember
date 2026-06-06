@@ -38,13 +38,6 @@
       },
       "children": [
         {
-          "id": "g1-pr",
-          "title": {
-            "en-US": "Prologue — The Demonstrative Syllogism",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g1-c001",
           "title": {
             "en-US": "Lecture 1 — The Need for Preexistent Knowledge in All Learning",
@@ -361,13 +354,6 @@
         "la": "Liber 2"
       },
       "children": [
-        {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — The Principles of the Demonstrative Syllogism",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g2-c001",
           "title": {

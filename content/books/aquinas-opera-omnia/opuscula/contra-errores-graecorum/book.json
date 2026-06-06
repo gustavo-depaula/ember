@@ -1,7 +1,7 @@
 {
   "id": "aquinas-contra-errores-graecorum",
   "name": {
-    "en-US": "Against the Errors of the Greeks",
+    "en-US": "On the Catholic Faith of the Greek Fathers (Contra Errores Graecorum)",
     "la": "Contra Errores Graecorum"
   },
   "author": {
@@ -9,257 +9,556 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A treatise prepared at the request of Pope Urban IV on the doctrinal points in dispute between the Latin Church and the Greek East — the procession of the Holy Spirit, the primacy of the Roman pontiff, purgatory, and the use of unleavened bread — in view of a possible reunion.",
-    "la": "Tractatus, Urbano IV petente, de capitibus dogmaticis inter Ecclesiam Latinam et Orientem Graecum disputatis — processione Spiritus Sancti, primatu Romani pontificis, purgatorio, azymis — in spe unionis."
+    "en-US": "Aquinas's defence of the Catholic faith against the Greek positions on the Trinity, the procession of the Holy Spirit, the primacy of the Pope, and other contested doctrines — written for Urban IV in connection with reunion attempts.",
+    "la": "Defensio Thomae fidei catholicae contra positiones Graecas de Trinitate, processione Spiritus Sancti, primatu Papae, aliisque dogmatibus contestatis — Urbano IV pro tentamine reunionis composita."
   },
-  "composed": "1263",
+  "composed": "c. 1263–1264",
   "languages": [
-    "en-US",
     "la"
   ],
   "sources": [
     {
-      "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Translation drawn from the Geremia/AquinasOperaOmnia GitHub repository."
-    },
-    {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Contra Errores Graecorum",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch-0",
+      "id": "g1",
       "title": {
-        "en-US": "Chapter 0",
-        "la": "Capitulum 0"
-      }
+        "en-US": "Part 1 — Part 1",
+        "la": "Pars 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — Part 1",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g1-c001",
+          "title": {
+            "en-US": "Chapter 1 — How the Son is understood to be related to the Father as something caused to its cause",
+            "la": "Caput 1"
+          }
+        },
+        {
+          "id": "g1-c002",
+          "title": {
+            "en-US": "Chapter 2 — How the Son is to be understood as second from the Father and the Holy Spirit third",
+            "la": "Caput 2"
+          }
+        },
+        {
+          "id": "g1-c003",
+          "title": {
+            "en-US": "Chapter 3 — How the Holy Spirit is to be understood as third light",
+            "la": "Caput 3"
+          }
+        },
+        {
+          "id": "g1-c004",
+          "title": {
+            "en-US": "Chapter 4 — How the essence is to understood as begotten in the Son and spirated in the Holy Spirit",
+            "la": "Caput 4"
+          }
+        },
+        {
+          "id": "g1-c005",
+          "title": {
+            "en-US": "Chapter 5 — How Jesus is to be understood as Son of the paternal essence",
+            "la": "Caput 5"
+          }
+        },
+        {
+          "id": "g1-c006",
+          "title": {
+            "en-US": "Chapter 6 — How properties of the Father are to be understood as proper to the Son",
+            "la": "Caput 6"
+          }
+        },
+        {
+          "id": "g1-c007",
+          "title": {
+            "en-US": "Chapter 7 — How the Father is to be understood as needing neither Son nor Holy Spirit for his perfection",
+            "la": "Caput 7"
+          }
+        },
+        {
+          "id": "g1-c008",
+          "title": {
+            "en-US": "Chapter 8 — How the Holy Spirit is to be understood as unbegotten",
+            "la": "Caput 8"
+          }
+        },
+        {
+          "id": "g1-c009",
+          "title": {
+            "en-US": "Chapter 9 — How the Holy Spirit is to be understood as the mean between Father and Son",
+            "la": "Caput 9"
+          }
+        },
+        {
+          "id": "g1-c010",
+          "title": {
+            "en-US": "Chapter 10 — How the Holy Spirit is to be understood as the image of the Son",
+            "la": "Caput 10"
+          }
+        },
+        {
+          "id": "g1-c011",
+          "title": {
+            "en-US": "Chapter 11 — How the Holy Spirit is to be understood in the Father as in his image",
+            "la": "Caput 11"
+          }
+        },
+        {
+          "id": "g1-c012",
+          "title": {
+            "en-US": "Chapter 12 — How the Holy Spirit is to be understood to be the word of the Son",
+            "la": "Caput 12"
+          }
+        },
+        {
+          "id": "g1-c013",
+          "title": {
+            "en-US": "Chapter 13 — How by the name of Christ is to be understood the Holy Spirit",
+            "la": "Caput 13"
+          }
+        },
+        {
+          "id": "g1-c014",
+          "title": {
+            "en-US": "Chapter 14 — How the assertion that the Holy Spirit does not send the Son is to be understood",
+            "la": "Caput 14"
+          }
+        },
+        {
+          "id": "g1-c015",
+          "title": {
+            "en-US": "Chapter 15 — How the assertion that the Holy Spirit truly works through the Son is to be understood",
+            "la": "Caput 15"
+          }
+        },
+        {
+          "id": "g1-c016",
+          "title": {
+            "en-US": "Chapter 16 — How God is to be understood as not dwelling in men before the incarnation of Christ",
+            "la": "Caput 16"
+          }
+        },
+        {
+          "id": "g1-c017",
+          "title": {
+            "en-US": "Chapter 17 — How the divine essence is to be understood as conceived and born",
+            "la": "Caput 17"
+          }
+        },
+        {
+          "id": "g1-c018",
+          "title": {
+            "en-US": "Chapter 18 — How the assertion that the deity was made is to be understood",
+            "la": "Caput 18"
+          }
+        },
+        {
+          "id": "g1-c019",
+          "title": {
+            "en-US": "Chapter 19 — How the Son of God is to be understood to have assumed a human nature in his essence",
+            "la": "Caput 19"
+          }
+        },
+        {
+          "id": "g1-c020",
+          "title": {
+            "en-US": "Chapter 20 — How the assertion that a man was assumed is to be understood",
+            "la": "Caput 20"
+          }
+        },
+        {
+          "id": "g1-c021",
+          "title": {
+            "en-US": "Chapter 21 — How the assertion \"God made man God\" is to be understood",
+            "la": "Caput 21"
+          }
+        },
+        {
+          "id": "g1-c022",
+          "title": {
+            "en-US": "Chapter 22 — How the likeness of the first parent is to be understood as erased in Christ",
+            "la": "Caput 22"
+          }
+        },
+        {
+          "id": "g1-c023",
+          "title": {
+            "en-US": "Chapter 23 — How the assertion that \"the creature cannot cooperate with the Creator,\" is to be understood",
+            "la": "Caput 23"
+          }
+        },
+        {
+          "id": "g1-c024",
+          "title": {
+            "en-US": "Chapter 24 — How the assertion that \"the creature does not belong to the Creator,\" is to be understood",
+            "la": "Caput 24"
+          }
+        },
+        {
+          "id": "g1-c025",
+          "title": {
+            "en-US": "Chapter 25 — How our assertion that the angels by nature are not ranked second and third is to be understood",
+            "la": "Caput 25"
+          }
+        },
+        {
+          "id": "g1-c026",
+          "title": {
+            "en-US": "Chapter 26 — How the assertion that even the Seraphim learn from Paul as a teacher is to be understood",
+            "la": "Caput 26"
+          }
+        },
+        {
+          "id": "g1-c027",
+          "title": {
+            "en-US": "Chapter 27 — How the assertion that the breath of life which God breathed into the face of man is not the rational soul, but the outpouring of the Holy Spirit is to be understood",
+            "la": "Caput 27"
+          }
+        },
+        {
+          "id": "g1-c028",
+          "title": {
+            "en-US": "Chapter 28 — How the impossibility of not blaspheming for one who has once blasphemed is to be understood",
+            "la": "Caput 28"
+          }
+        },
+        {
+          "id": "g1-c029",
+          "title": {
+            "en-US": "Chapter 29 — How the assertion that faith cannot be preached is to be understood",
+            "la": "Caput 29"
+          }
+        },
+        {
+          "id": "g1-c030",
+          "title": {
+            "en-US": "Chapter 30 — How the assertion that faith is not ministered to us by angels is to be understood",
+            "la": "Caput 30"
+          }
+        },
+        {
+          "id": "g1-c031",
+          "title": {
+            "en-US": "Chapter 31 — How the assertion that even the New Testament is a death-dealing letter is to be understood",
+            "la": "Caput 31"
+          }
+        },
+        {
+          "id": "g1-c032",
+          "title": {
+            "en-US": "Chapter 32 — How the sole definition of the Nicene Council is to be understood as the unique and true possession of the faithful",
+            "la": "Caput 32"
+          }
+        }
+      ]
     },
     {
-      "id": "ch001",
+      "id": "g2",
       "title": {
-        "en-US": "Chapter 1 — How the Son is understood to be related to the Father as something caused to its cause.",
-        "la": "Capitulum 1 — How the Son is understood to be related to the Father as something caused to its cause."
-      }
-    },
-    {
-      "id": "ch002",
-      "title": {
-        "en-US": "Chapter 2 — How the Son is to be understood as second from the Father and the Holy Spirit third.",
-        "la": "Capitulum 2 — How the Son is to be understood as second from the Father and the Holy Spirit third."
-      }
-    },
-    {
-      "id": "ch003",
-      "title": {
-        "en-US": "Chapter 3 — How the Holy Spirit is to be understood as third light.",
-        "la": "Capitulum 3 — How the Holy Spirit is to be understood as third light."
-      }
-    },
-    {
-      "id": "ch004",
-      "title": {
-        "en-US": "Chapter 4 — How the essence is to understood as begotten in the Son and spirated in the Holy Spirit.",
-        "la": "Capitulum 4 — How the essence is to understood as begotten in the Son and spirated in the Holy Spirit."
-      }
-    },
-    {
-      "id": "ch005",
-      "title": {
-        "en-US": "Chapter 5 — How Jesus is to be understood as Son of the paternal essence.",
-        "la": "Capitulum 5 — How Jesus is to be understood as Son of the paternal essence."
-      }
-    },
-    {
-      "id": "ch006",
-      "title": {
-        "en-US": "Chapter 6 — How properties of the Father are to be understood as proper to the Son.",
-        "la": "Capitulum 6 — How properties of the Father are to be understood as proper to the Son."
-      }
-    },
-    {
-      "id": "ch007",
-      "title": {
-        "en-US": "Chapter 7 — How the Father is to be understood as needing neither Son nor Holy Spirit for his perfection.",
-        "la": "Capitulum 7 — How the Father is to be understood as needing neither Son nor Holy Spirit for his perfection."
-      }
-    },
-    {
-      "id": "ch008",
-      "title": {
-        "en-US": "Chapter 8 — How the Holy Spirit is to be understood as unbegotten.",
-        "la": "Capitulum 8 — How the Holy Spirit is to be understood as unbegotten."
-      }
-    },
-    {
-      "id": "ch009",
-      "title": {
-        "en-US": "Chapter 9 — How the Holy Spirit is to be understood as the mean between Father and Son.",
-        "la": "Capitulum 9 — How the Holy Spirit is to be understood as the mean between Father and Son."
-      }
-    },
-    {
-      "id": "ch010",
-      "title": {
-        "en-US": "Chapter 10 — How the Holy Spirit is to be understood as the image of the Son.",
-        "la": "Capitulum 10 — How the Holy Spirit is to be understood as the image of the Son."
-      }
-    },
-    {
-      "id": "ch011",
-      "title": {
-        "en-US": "Chapter 11 — How the Holy Spirit is to be understood in the Father as in his image.",
-        "la": "Capitulum 11 — How the Holy Spirit is to be understood in the Father as in his image."
-      }
-    },
-    {
-      "id": "ch012",
-      "title": {
-        "en-US": "Chapter 12 — How the Holy Spirit is to be understood to be the word of the Son.",
-        "la": "Capitulum 12 — How the Holy Spirit is to be understood to be the word of the Son."
-      }
-    },
-    {
-      "id": "ch013",
-      "title": {
-        "en-US": "Chapter 13 — How by the name of Christ is to be understood the Holy Spirit.",
-        "la": "Capitulum 13 — How by the name of Christ is to be understood the Holy Spirit."
-      }
-    },
-    {
-      "id": "ch014",
-      "title": {
-        "en-US": "Chapter 14 — How the assertion that the Holy Spirit does not send the Son is to be understood.",
-        "la": "Capitulum 14 — How the assertion that the Holy Spirit does not send the Son is to be understood."
-      }
-    },
-    {
-      "id": "ch015",
-      "title": {
-        "en-US": "Chapter 15 — CHAPTER 15 How the assertion that the Holy Spirit truly works through the Son is to be understood.",
-        "la": "Capitulum 15 — CHAPTER 15 How the assertion that the Holy Spirit truly works through the Son is to be understood."
-      }
-    },
-    {
-      "id": "ch016",
-      "title": {
-        "en-US": "Chapter 16 — How God is to be understood as not dwelling in men before the incarnation of Christ.",
-        "la": "Capitulum 16 — How God is to be understood as not dwelling in men before the incarnation of Christ."
-      }
-    },
-    {
-      "id": "ch017",
-      "title": {
-        "en-US": "Chapter 17 — How the divine essence is to be understood as conceived and born.",
-        "la": "Capitulum 17 — How the divine essence is to be understood as conceived and born."
-      }
-    },
-    {
-      "id": "ch018",
-      "title": {
-        "en-US": "Chapter 18 — How the assertion that the deity was made is to be understood.",
-        "la": "Capitulum 18 — How the assertion that the deity was made is to be understood."
-      }
-    },
-    {
-      "id": "ch019",
-      "title": {
-        "en-US": "Chapter 19 — How the Son of God is to be understood to have assumed a human nature in his essence.",
-        "la": "Capitulum 19 — How the Son of God is to be understood to have assumed a human nature in his essence."
-      }
-    },
-    {
-      "id": "ch020",
-      "title": {
-        "en-US": "Chapter 20 — How the assertion that a man was assumed is to be understood.",
-        "la": "Capitulum 20 — How the assertion that a man was assumed is to be understood."
-      }
-    },
-    {
-      "id": "ch021",
-      "title": {
-        "en-US": "Chapter 21 — How the assertion ‘God made man God’ is to be understood.",
-        "la": "Capitulum 21 — How the assertion ‘God made man God’ is to be understood."
-      }
-    },
-    {
-      "id": "ch022",
-      "title": {
-        "en-US": "Chapter 22 — How the likeness of the first parent is to be understood as erased in Christ.",
-        "la": "Capitulum 22 — How the likeness of the first parent is to be understood as erased in Christ."
-      }
-    },
-    {
-      "id": "ch023",
-      "title": {
-        "en-US": "Chapter 23 — How the assertion: the creature cannot cooperate with the Creator, is to be understood.",
-        "la": "Capitulum 23 — How the assertion: the creature cannot cooperate with the Creator, is to be understood."
-      }
-    },
-    {
-      "id": "ch024",
-      "title": {
-        "en-US": "Chapter 24 — How the assertion that the creature does not belong to the Creator, is to be understood.",
-        "la": "Capitulum 24 — How the assertion that the creature does not belong to the Creator, is to be understood."
-      }
-    },
-    {
-      "id": "ch025",
-      "title": {
-        "en-US": "Chapter 25 — How our assertion that the angels by nature are not ranked second and third is to be understood.",
-        "la": "Capitulum 25 — How our assertion that the angels by nature are not ranked second and third is to be understood."
-      }
-    },
-    {
-      "id": "ch026",
-      "title": {
-        "en-US": "Chapter 26 — How the assertion that even the Seraphim learn from Paul as a teacher is to be understood.",
-        "la": "Capitulum 26 — How the assertion that even the Seraphim learn from Paul as a teacher is to be understood."
-      }
-    },
-    {
-      "id": "ch027",
-      "title": {
-        "en-US": "Chapter 27 — How the assertion that the breath of life which God breathed into the face of man is not the rational soul, but the outpouring of the Holy Spirit is to be understood.",
-        "la": "Capitulum 27 — How the assertion that the breath of life which God breathed into the face of man is not the rational soul, but the outpouring of the Holy Spirit is to be understood."
-      }
-    },
-    {
-      "id": "ch028",
-      "title": {
-        "en-US": "Chapter 28 — How the impossibility of not blaspheming for one who has once blasphemed is to be understood.",
-        "la": "Capitulum 28 — How the impossibility of not blaspheming for one who has once blasphemed is to be understood."
-      }
-    },
-    {
-      "id": "ch029",
-      "title": {
-        "en-US": "Chapter 29 — How the assertion that faith cannot be preached is to be understood.",
-        "la": "Capitulum 29 — How the assertion that faith cannot be preached is to be understood."
-      }
-    },
-    {
-      "id": "ch030",
-      "title": {
-        "en-US": "Chapter 30 — How the assertion that faith is not ministered to us by angels is to be understood.",
-        "la": "Capitulum 30 — How the assertion that faith is not ministered to us by angels is to be understood."
-      }
-    },
-    {
-      "id": "ch031",
-      "title": {
-        "en-US": "Chapter 31 — How the assertion that even the New Testament is a death-dealing letter is to be understood.",
-        "la": "Capitulum 31 — How the assertion that even the New Testament is a death-dealing letter is to be understood."
-      }
-    },
-    {
-      "id": "ch032",
-      "title": {
-        "en-US": "Chapter 32 — How the sole definition of the Nicene Council is to be understood as the unique and true possession of the faithful.",
-        "la": "Capitulum 32 — How the sole definition of the Nicene Council is to be understood as the unique and true possession of the faithful."
-      }
+        "en-US": "Part 2 — Part 2",
+        "la": "Pars 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — Part 2",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Chapter 1 — That the Holy Spirit is the Spirit of the Son",
+            "la": "Caput 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Chapter 2 — That the Son sends the Holy Spirit",
+            "la": "Caput 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Chapter 3 — That the Holy Spirit receives of that which is the Son’s",
+            "la": "Caput 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Chapter 4 — That the Son works through the Holy Spirit",
+            "la": "Caput 4"
+          }
+        },
+        {
+          "id": "g2-c005",
+          "title": {
+            "en-US": "Chapter 5 — That the Holy Spirit is the image of the Son",
+            "la": "Caput 5"
+          }
+        },
+        {
+          "id": "g2-c006",
+          "title": {
+            "en-US": "Chapter 6 — That he is the character of the Son",
+            "la": "Caput 6"
+          }
+        },
+        {
+          "id": "g2-c007",
+          "title": {
+            "en-US": "Chapter 7 — That he is also the seal of the Son",
+            "la": "Caput 7"
+          }
+        },
+        {
+          "id": "g2-c008",
+          "title": {
+            "en-US": "Chapter 8 — That the Holy Spirit is from the Father through the Son",
+            "la": "Caput 8"
+          }
+        },
+        {
+          "id": "g2-c009",
+          "title": {
+            "en-US": "Chapter 9 — That the Holy Spirit is from the Son",
+            "la": "Caput 9"
+          }
+        },
+        {
+          "id": "g2-c010",
+          "title": {
+            "en-US": "Chapter 10 — That he is jointly from Father and Son",
+            "la": "Caput 10"
+          }
+        },
+        {
+          "id": "g2-c011",
+          "title": {
+            "en-US": "Chapter 11 — That he is from both from eternity",
+            "la": "Caput 11"
+          }
+        },
+        {
+          "id": "g2-c012",
+          "title": {
+            "en-US": "Chapter 12 — That the Holy Spirit is a person from persons",
+            "la": "Caput 12"
+          }
+        },
+        {
+          "id": "g2-c013",
+          "title": {
+            "en-US": "Chapter 13 — That he is also from the essence of Father and Son",
+            "la": "Caput 13"
+          }
+        },
+        {
+          "id": "g2-c014",
+          "title": {
+            "en-US": "Chapter 14 — That he also is naturally from the Son",
+            "la": "Caput 14"
+          }
+        },
+        {
+          "id": "g2-c015",
+          "title": {
+            "en-US": "Chapter 15 — That the Son also spirates the Holy Spirit",
+            "la": "Caput 15"
+          }
+        },
+        {
+          "id": "g2-c016",
+          "title": {
+            "en-US": "Chapter 16 — That the Son spirates he has from a personal property",
+            "la": "Caput 16"
+          }
+        },
+        {
+          "id": "g2-c017",
+          "title": {
+            "en-US": "Chapter 17 — That on the same grounds he is spirated by Father and Son",
+            "la": "Caput 17"
+          }
+        },
+        {
+          "id": "g2-c018",
+          "title": {
+            "en-US": "Chapter 18 — That he is spirated from the Son eternally",
+            "la": "Caput 18"
+          }
+        },
+        {
+          "id": "g2-c019",
+          "title": {
+            "en-US": "Chapter 19 — That the Holy Spirit is spirated from the essence of the Son",
+            "la": "Caput 19"
+          }
+        },
+        {
+          "id": "g2-c020",
+          "title": {
+            "en-US": "Chapter 20 — That the Holy Spirit emanates from the Son",
+            "la": "Caput 20"
+          }
+        },
+        {
+          "id": "g2-c021",
+          "title": {
+            "en-US": "Chapter 21 — That the Holy Spirit flows from the Son and this from eternity",
+            "la": "Caput 21"
+          }
+        },
+        {
+          "id": "g2-c022",
+          "title": {
+            "en-US": "Chapter 22 — That the Son also originates the Holy Spirit",
+            "la": "Caput 22"
+          }
+        },
+        {
+          "id": "g2-c023",
+          "title": {
+            "en-US": "Chapter 23 — That the Son is the author of the Holy Spirit",
+            "la": "Caput 23"
+          }
+        },
+        {
+          "id": "g2-c024",
+          "title": {
+            "en-US": "Chapter 24 — That the Son is also principle of the Holy Spirit",
+            "la": "Caput 24"
+          }
+        },
+        {
+          "id": "g2-c025",
+          "title": {
+            "en-US": "Chapter 25 — That the Son is also source of the Holy Spirit",
+            "la": "Caput 25"
+          }
+        },
+        {
+          "id": "g2-c026",
+          "title": {
+            "en-US": "Chapter 26 — The general conclusion: that the Spirit proceeds from the Son",
+            "la": "Caput 26"
+          }
+        },
+        {
+          "id": "g2-c027",
+          "title": {
+            "en-US": "Chapter 27 — That in the divine person to flow and to proceed is the same",
+            "la": "Caput 27"
+          }
+        },
+        {
+          "id": "g2-c028",
+          "title": {
+            "en-US": "Chapter 28 — That to demonstrate the procession of the Holy Spirit the Greek and Latin Doctors use the same arguments",
+            "la": "Caput 28"
+          }
+        },
+        {
+          "id": "g2-c029",
+          "title": {
+            "en-US": "Chapter 29 — That the Holy Spirit is distinguished from the Son in this that he is from him",
+            "la": "Caput 29"
+          }
+        },
+        {
+          "id": "g2-c030",
+          "title": {
+            "en-US": "Chapter 30 — That the distinction of persons should be according to some order of nature",
+            "la": "Caput 30"
+          }
+        },
+        {
+          "id": "g2-c031",
+          "title": {
+            "en-US": "Chapter 31 — That to believe the Holy Spirit is from the Son is necessary for salvation",
+            "la": "Caput 31"
+          }
+        },
+        {
+          "id": "g2-c032",
+          "title": {
+            "en-US": "Chapter 32 — That the Roman Pontiff is the first and greatest among all bishops",
+            "la": "Caput 32"
+          }
+        },
+        {
+          "id": "g2-c033",
+          "title": {
+            "en-US": "Chapter 33 — That the same Pontiff has universal jurisdiction over the entire Church of Christ",
+            "la": "Caput 33"
+          }
+        },
+        {
+          "id": "g2-c034",
+          "title": {
+            "en-US": "Chapter 34 — That the same possesses in the Church a fullness of power",
+            "la": "Caput 34"
+          }
+        },
+        {
+          "id": "g2-c035",
+          "title": {
+            "en-US": "Chapter 35 — That he enjoys the same power conferred on Peter by Christ",
+            "la": "Caput 35"
+          }
+        },
+        {
+          "id": "g2-c036",
+          "title": {
+            "en-US": "Chapter 36 — That to him belongs the right of deciding what pertains to faith",
+            "la": "Caput 36"
+          }
+        },
+        {
+          "id": "g2-c037",
+          "title": {
+            "en-US": "Chapter 37 — That he is the superior of the other patriarchs",
+            "la": "Caput 37"
+          }
+        },
+        {
+          "id": "g2-c038",
+          "title": {
+            "en-US": "Chapter 38 — That to be subject to the Roman Pontiff is necessary for salvation",
+            "la": "Caput 38"
+          }
+        },
+        {
+          "id": "g2-c039",
+          "title": {
+            "en-US": "Chapter 39 — Against the position of those who deny the Sacrament may be confected with unleavened bread",
+            "la": "Caput 39"
+          }
+        },
+        {
+          "id": "g2-c040",
+          "title": {
+            "en-US": "Chapter 40 — That there exists a purgatory wherein souls are cleansed from sins not cleansed in the present life",
+            "la": "Caput 40"
+          }
+        }
+      ]
     }
   ]
 }

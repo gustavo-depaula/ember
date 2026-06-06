@@ -1,3 +1,0 @@
-# Prologue — Lazarus
-
-***Lazarus***

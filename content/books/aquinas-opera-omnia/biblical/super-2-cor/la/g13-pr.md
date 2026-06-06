@@ -1,3 +1,0 @@
-# Prooemium
-
-***Revelatio et Apostolatus***

@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short physical treatise written for Master Philip de Castro Caeli on the cause of the heart's motion — whether it is natural, animal, or violent.",
-    "la": "Tractatus brevis physicus Philippo de Castro Caeli scriptus, de causa motus cordis."
+    "en-US": "A late short consultation on the natural philosophy of the human heart's motion, addressed to Master Philip of Castro Coeli.",
+    "la": "Responsum breve serotinum de philosophia naturali motus cordis humani, ad magistrum Philippum de Castro Coeli compositum."
   },
   "composed": "c. 1273",
   "languages": [
@@ -20,21 +20,21 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Vincent R. Larkin. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Motu Cordis",
+      "description": "English translation by Vincent R. Larkin, revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Motu Cordis",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1 — De Motu Cordis",
-        "la": "Capitulum 1 — De Motu Cordis"
+        "en-US": "On the Motion of the Heart",
+        "la": "De Motu Cordis"
       }
     }
   ]

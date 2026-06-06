@@ -1,3 +1,0 @@
-# Prooemium
-
-***Hymnus Christi***

@@ -1,3 +1,0 @@
-# Prooemium
-
-***Eta (H)***

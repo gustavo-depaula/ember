@@ -54,13 +54,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -336,13 +329,6 @@
       },
       "children": [
         {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -450,13 +436,6 @@
       },
       "children": [
         {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -521,13 +500,6 @@
         "la": "Caput 5"
       },
       "children": [
-        {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g5-c001",
           "title": {
@@ -608,13 +580,6 @@
       },
       "children": [
         {
-          "id": "g6-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -672,13 +637,6 @@
         "la": "Caput 7"
       },
       "children": [
-        {
-          "id": "g7-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g7-c001",
           "title": {
@@ -773,13 +731,6 @@
       },
       "children": [
         {
-          "id": "g8-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -830,13 +781,6 @@
         "la": "Caput 9"
       },
       "children": [
-        {
-          "id": "g9-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g9-c001",
           "title": {
@@ -902,13 +846,6 @@
         "la": "Caput 10"
       },
       "children": [
-        {
-          "id": "g10-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g10-c001",
           "title": {
@@ -1003,13 +940,6 @@
       },
       "children": [
         {
-          "id": "g11-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g11-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -1088,13 +1018,6 @@
         "la": "Caput 12"
       },
       "children": [
-        {
-          "id": "g12-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g12-c001",
           "title": {
@@ -1188,13 +1111,6 @@
         "la": "Caput 13"
       },
       "children": [
-        {
-          "id": "g13-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g13-c001",
           "title": {
@@ -1310,13 +1226,6 @@
       },
       "children": [
         {
-          "id": "g14-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g14-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -1367,13 +1276,6 @@
         "la": "Caput 15"
       },
       "children": [
-        {
-          "id": "g15-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g15-c001",
           "title": {
@@ -1433,13 +1335,6 @@
       },
       "children": [
         {
-          "id": "g16-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g16-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -1483,13 +1378,6 @@
         "la": "Caput 17"
       },
       "children": [
-        {
-          "id": "g17-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g17-c001",
           "title": {
@@ -1541,13 +1429,6 @@
         "la": "Caput 18"
       },
       "children": [
-        {
-          "id": "g18-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g18-c001",
           "title": {
@@ -1628,13 +1509,6 @@
       },
       "children": [
         {
-          "id": "g19-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g19-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -1693,13 +1567,6 @@
       },
       "children": [
         {
-          "id": "g20-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g20-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -1751,13 +1618,6 @@
       },
       "children": [
         {
-          "id": "g21-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g21-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -1808,13 +1668,6 @@
         "la": "Caput 22"
       },
       "children": [
-        {
-          "id": "g22-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g22-c001",
           "title": {
@@ -1887,13 +1740,6 @@
         "la": "Caput 23"
       },
       "children": [
-        {
-          "id": "g23-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g23-c001",
           "title": {
@@ -2009,13 +1855,6 @@
       },
       "children": [
         {
-          "id": "g24-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g24-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -2094,13 +1933,6 @@
         "la": "Caput 25"
       },
       "children": [
-        {
-          "id": "g25-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g25-c001",
           "title": {

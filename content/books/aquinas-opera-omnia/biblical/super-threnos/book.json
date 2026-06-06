@@ -70,13 +70,6 @@
       },
       "children": [
         {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue — Captive Jerusalem’s sorrows",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -239,13 +232,6 @@
         "la": "Caput 4"
       },
       "children": [
-        {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue — Israel’s destruction",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g4-c001",
           "title": {
@@ -410,13 +396,6 @@
       },
       "children": [
         {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue — Jeremiah’s pleas for mercy",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1",
@@ -579,13 +558,6 @@
         "la": "Caput 6"
       },
       "children": [
-        {
-          "id": "g6-pr",
-          "title": {
-            "en-US": "Prologue — The misery of the siege",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g6-c001",
           "title": {

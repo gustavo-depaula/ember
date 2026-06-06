@@ -38,13 +38,6 @@
       },
       "children": [
         {
-          "id": "g1-pr",
-          "title": {
-            "en-US": "Prologue — On Faith",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g1-c001",
           "title": {
             "en-US": "Chapter 1 — First, the intention of the work is set down",
@@ -1775,13 +1768,6 @@
         "la": "Liber 2"
       },
       "children": [
-        {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — On Hope",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g2-c001",
           "title": {

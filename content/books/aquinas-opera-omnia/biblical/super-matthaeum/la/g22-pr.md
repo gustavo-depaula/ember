@@ -1,3 +1,0 @@
-# Prooemium
-
-***Regnum Caelorum***

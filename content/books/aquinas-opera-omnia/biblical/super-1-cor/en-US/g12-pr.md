@@ -1,1 +1,0 @@
-# Prologue — Members of Christ

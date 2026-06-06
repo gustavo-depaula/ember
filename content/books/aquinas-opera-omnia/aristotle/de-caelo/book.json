@@ -257,13 +257,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — The heaven is eternal and its motion endless and without labor. Contrary opinions excluded",
@@ -468,13 +461,6 @@
         "la": "Liber 3"
       },
       "children": [
-        {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g3-c001",
           "title": {

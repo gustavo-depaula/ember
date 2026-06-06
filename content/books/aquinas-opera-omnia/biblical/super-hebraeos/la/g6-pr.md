@@ -1,3 +1,0 @@
-# Prooemium
-
-***Christus Pontifex***

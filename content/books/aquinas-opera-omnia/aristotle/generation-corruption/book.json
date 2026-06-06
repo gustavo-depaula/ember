@@ -54,13 +54,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Aristotle's Preface. Various previous opinions on the difference between generation and alteration.",

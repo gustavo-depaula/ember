@@ -38,13 +38,6 @@
       },
       "children": [
         {
-          "id": "g1-pr",
-          "title": {
-            "en-US": "Prologue — The Good for Man",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g1-c001",
           "title": {
             "en-US": "Lecture 1 — Subject Matter and End of Moral Philosophy",
@@ -194,13 +187,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — Moral Virtue in General",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Moral Virtue is Caused by Habit",
@@ -286,13 +272,6 @@
         "la": "Liber 3"
       },
       "children": [
-        {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue — The Voluntary, Fortitude, and Temperance",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g3-c001",
           "title": {
@@ -457,13 +436,6 @@
       },
       "children": [
         {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue — Other Moral Virtues",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Liberality",
@@ -591,13 +563,6 @@
         "la": "Liber 5"
       },
       "children": [
-        {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue — Justice",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g5-c001",
           "title": {
@@ -727,13 +692,6 @@
       },
       "children": [
         {
-          "id": "g6-pr",
-          "title": {
-            "en-US": "Prologue — Intellectual Virtues",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — Right Reason",
@@ -819,13 +777,6 @@
         "la": "Liber 7"
       },
       "children": [
-        {
-          "id": "g7-pr",
-          "title": {
-            "en-US": "Prologue — Continence and Incontinence",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g7-c001",
           "title": {
@@ -934,13 +885,6 @@
       },
       "children": [
         {
-          "id": "g8-pr",
-          "title": {
-            "en-US": "Prologue — Friendship",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1 — Friendship, a Subject of Moral Philosophy",
@@ -1048,13 +992,6 @@
       },
       "children": [
         {
-          "id": "g9-pr",
-          "title": {
-            "en-US": "Prologue — Properties of Friendship",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g9-c001",
           "title": {
             "en-US": "Lecture 1 — Proportionate Properties in Friendship",
@@ -1161,13 +1098,6 @@
         "la": "Liber 10"
       },
       "children": [
-        {
-          "id": "g10-pr",
-          "title": {
-            "en-US": "Prologue — Pleasure and Happiness",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g10-c001",
           "title": {

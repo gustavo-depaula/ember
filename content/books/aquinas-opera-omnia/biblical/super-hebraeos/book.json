@@ -54,13 +54,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — Greatness of Christ",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — God speaks by the Son",
@@ -112,13 +105,6 @@
       },
       "children": [
         {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue — Christ’s Love for Men",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Obey the New Testament",
@@ -156,13 +142,6 @@
       },
       "children": [
         {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue — Obedience to Christ, not Moses",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Christ greater than Moses",
@@ -192,13 +171,6 @@
         "la": "Caput 5"
       },
       "children": [
-        {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue — Promise of Rest through Christ",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g5-c001",
           "title": {
@@ -230,13 +202,6 @@
       },
       "children": [
         {
-          "id": "g6-pr",
-          "title": {
-            "en-US": "Prologue — Christ the High Priest",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — Purpose of the high priest",
@@ -259,13 +224,6 @@
         "la": "Caput 7"
       },
       "children": [
-        {
-          "id": "g7-pr",
-          "title": {
-            "en-US": "Prologue — Call to Holiness",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g7-c001",
           "title": {
@@ -304,13 +262,6 @@
       },
       "children": [
         {
-          "id": "g8-pr",
-          "title": {
-            "en-US": "Prologue — Christ and Melchisedech",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1 — Melchisedech the priest",
@@ -348,13 +299,6 @@
       },
       "children": [
         {
-          "id": "g9-pr",
-          "title": {
-            "en-US": "Prologue — Christ’s Priesthood",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g9-c001",
           "title": {
             "en-US": "Lecture 1 — High priest in heaven",
@@ -384,13 +328,6 @@
         "la": "Caput 10"
       },
       "children": [
-        {
-          "id": "g10-pr",
-          "title": {
-            "en-US": "Prologue — Christ and the Temple",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g10-c001",
           "title": {
@@ -436,13 +373,6 @@
       },
       "children": [
         {
-          "id": "g11-pr",
-          "title": {
-            "en-US": "Prologue — Enter into Christ’s Dispensation",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g11-c001",
           "title": {
             "en-US": "Lecture 1 — The law a shadow of the good to come",
@@ -479,13 +409,6 @@
         "la": "Caput 12"
       },
       "children": [
-        {
-          "id": "g12-pr",
-          "title": {
-            "en-US": "Prologue — Faith",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g12-c001",
           "title": {
@@ -552,13 +475,6 @@
       },
       "children": [
         {
-          "id": "g13-pr",
-          "title": {
-            "en-US": "Prologue — Trials and Reward",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g13-c001",
           "title": {
             "en-US": "Lecture 1 — Run to the fight",
@@ -602,13 +518,6 @@
         "la": "Caput 14"
       },
       "children": [
-        {
-          "id": "g14-pr",
-          "title": {
-            "en-US": "Prologue — Exhortations",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g14-c001",
           "title": {

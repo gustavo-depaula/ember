@@ -1,3 +1,0 @@
-# Prooemium
-
-***Kappa (K)***

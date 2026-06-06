@@ -1,3 +1,0 @@
-# Prooemium
-
-***Responsio Novissima Iob***

@@ -152,13 +152,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — Powers of the Soul",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — The definition of the soul",
@@ -377,13 +370,6 @@
         "la": "Liber 3"
       },
       "children": [
-        {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue — Intellect and Movement",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g3-c001",
           "title": {

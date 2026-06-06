@@ -1,3 +1,0 @@
-# Prooemium
-
-***Inimicitia Pharisaeorum***

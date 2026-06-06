@@ -1,16 +1,16 @@
 {
   "id": "aquinas-de-operationibus-occultis",
   "name": {
-    "en-US": "On the Occult Works of Nature",
-    "la": "De Operationibus Occultis Naturae"
+    "en-US": "On the Hidden Activities of Nature",
+    "la": "De Occultis Operibus Naturae"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A letter to an unnamed knight on the causes of the \"hidden\" effects of natural bodies — magnetism, the influence of celestial bodies, and similar phenomena — and what can be known about them by reason.",
-    "la": "Epistola militi cuidam, de causis operationum occultarum corporum naturalium — magnetismo, influxu corporum caelestium — et quid de eis ratione cognosci possit."
+    "en-US": "A short letter on the natural-philosophical question of occult or hidden powers in natural things (e.g. the magnet) — Aquinas distinguishes natural causes from demonic interference.",
+    "la": "Epistola brevis de quaestione philosophica naturali occultis virtutibus in rebus naturalibus (e.g. in magnete) — Thomas causas naturales ab interferentia daemonum distinguens."
   },
   "composed": "c. 1269–1272",
   "languages": [
@@ -20,21 +20,21 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Joseph B. McAllister. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Occultis Operibus Naturae",
+      "description": "English translation by Joseph B. McAllister, revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Occultis Operibus Naturae",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1",
-        "la": "Capitulum 1"
+        "en-US": "On the Hidden Activities of Nature",
+        "la": "De Occultis Operibus Naturae"
       }
     }
   ]

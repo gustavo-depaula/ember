@@ -1,3 +1,0 @@
-# Prooemium
-
-***Nova Condemnatio Iob***

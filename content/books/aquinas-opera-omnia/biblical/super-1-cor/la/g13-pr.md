@@ -1,3 +1,0 @@
-# Prooemium
-
-***Mores in Ecclesia***

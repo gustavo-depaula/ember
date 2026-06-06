@@ -1,3 +1,0 @@
-# Prooemium
-
-***Praecepta et Resurrectio***

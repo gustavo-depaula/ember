@@ -1,3 +1,0 @@
-# Prooemium
-
-***Dispensatio sacramentorum Dei***

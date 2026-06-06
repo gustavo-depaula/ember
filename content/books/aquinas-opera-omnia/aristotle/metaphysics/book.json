@@ -54,13 +54,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — History of Metaphysical Inquiry",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — The dignity and object of this science",
@@ -189,13 +182,6 @@
       },
       "children": [
         {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue — The Search for Truth and Causes",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — The acquisition of truth",
@@ -239,13 +225,6 @@
         "la": "Liber 4"
       },
       "children": [
-        {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue — Metaphysical Problems",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g4-c001",
           "title": {
@@ -360,13 +339,6 @@
         "la": "Liber 5"
       },
       "children": [
-        {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue — The Subject of Metaphysics",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g5-c001",
           "title": {
@@ -495,13 +467,6 @@
         "la": "Liber 6"
       },
       "children": [
-        {
-          "id": "g6-pr",
-          "title": {
-            "en-US": "Prologue — Definitions",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g6-c001",
           "title": {
@@ -666,13 +631,6 @@
       },
       "children": [
         {
-          "id": "g7-pr",
-          "title": {
-            "en-US": "Prologue — The Method of Investigating Being",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — The method of investigating being as being",
@@ -709,13 +667,6 @@
         "la": "Liber 8"
       },
       "children": [
-        {
-          "id": "g8-pr",
-          "title": {
-            "en-US": "Prologue — Substance",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g8-c001",
           "title": {
@@ -845,13 +796,6 @@
       },
       "children": [
         {
-          "id": "g9-pr",
-          "title": {
-            "en-US": "Prologue — Principles of Sensible Substances",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g9-c001",
           "title": {
             "en-US": "Lecture 1 — Kinds of matter in sensible substances",
@@ -895,13 +839,6 @@
         "la": "Liber 10"
       },
       "children": [
-        {
-          "id": "g10-pr",
-          "title": {
-            "en-US": "Prologue — Potency and Act",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g10-c001",
           "title": {
@@ -988,13 +925,6 @@
         "la": "Liber 11"
       },
       "children": [
-        {
-          "id": "g11-pr",
-          "title": {
-            "en-US": "Prologue — Unity",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g11-c001",
           "title": {
@@ -1088,13 +1018,6 @@
         "la": "Liber 12"
       },
       "children": [
-        {
-          "id": "g12-pr",
-          "title": {
-            "en-US": "Prologue — Metaphysical Principles; Preparation for Knowledge of Separated Substances",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g12-c001",
           "title": {
@@ -1195,13 +1118,6 @@
         "la": "Liber 13"
       },
       "children": [
-        {
-          "id": "g13-pr",
-          "title": {
-            "en-US": "Prologue — Mobile and Immobile Substance; The Prime Mover",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g13-c001",
           "title": {

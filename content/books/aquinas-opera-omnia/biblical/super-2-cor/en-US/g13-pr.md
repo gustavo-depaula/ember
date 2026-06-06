@@ -1,1 +1,0 @@
-# Prologue — Revelation and Apostleship

@@ -1,3 +1,0 @@
-# Prooemium
-
-***Missio Apostolica***

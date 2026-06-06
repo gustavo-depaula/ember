@@ -1,3 +1,0 @@
-# Prooemium
-
-***Vocatio ad Sanctitatem***

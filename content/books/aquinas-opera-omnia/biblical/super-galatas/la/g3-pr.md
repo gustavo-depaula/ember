@@ -1,3 +1,0 @@
-# Prooemium
-
-***Contentio de Lege***

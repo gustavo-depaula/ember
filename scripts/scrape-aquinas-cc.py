@@ -763,7 +763,7 @@ WORKS_CC: dict[str, WorkSpec] = {
         description_la="Quaestio disputata una viginti unum articulorum, de anima humana — eius substantialitate, unione cum corpore, intellectus operationibus cognitivis, et statu post mortem.",
         en_translator_note="English translation by John Patrick Rowan (Herder, 1949), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
         parts=[{"wid": 27, "did_la": 534, "did_en": 533, "label_en": "On the Soul", "label_la": "De Anima", "rows": 1122}],
-        outline_shape="question_article",
+        outline_shape="book_chapter", chapter_label_en="Article", chapter_label_la="Articulus",
     ),
     "de-spiritualibus-creaturis-cc": WorkSpec(
         slug="de-spiritualibus-creaturis-cc", sub_path="disputed-questions/de-spiritualibus-creaturis", book_id="aquinas-de-spiritualibus-creaturis",
@@ -838,6 +838,197 @@ WORKS_CC: dict[str, WorkSpec] = {
         en_translator_note="John Henry Parker translation, London 1841–1845 (PD), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
         parts=[{"wid": 72, "did_la": 271, "did_en": 538, "label_en": "Catena Aurea on John", "label_la": "Catena in Iohannem", "rows": 3887}],
         outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    # ------ Round 8: 18 small opuscula + 1 Latin-only ------
+    "de-ente-et-essentia": WorkSpec(
+        slug="de-ente-et-essentia", sub_path="opuscula/de-ente-et-essentia", book_id="aquinas-de-ente-et-essentia",
+        name_en="On Being and Essence", name_la="De Ente et Essentia",
+        composed="c. 1252",
+        description_en="Aquinas's earliest philosophical treatise (c. 1252) on the metaphysics of being — distinguishing essence and existence, and showing how this distinction underwrites the contingency of creatures and the unique necessity of God.",
+        description_la="Tractatus philosophicus Thomae primus (c. 1252) de metaphysica entis — essentiam et esse distinguens, et hanc distinctionem contingentiam creaturarum et unicam Dei necessitatem fundare ostendens.",
+        en_translator_note="English translation by Armand Maurer (PIMS, Toronto, 1949). Mirrored from aquinas.cc.",
+        parts=[{"wid": 97, "did_la": 364, "did_en": 366, "label_en": "On Being and Essence", "label_la": "De Ente et Essentia", "rows": 73}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "de-principiis-naturae": WorkSpec(
+        slug="de-principiis-naturae", sub_path="opuscula/de-principiis-naturae", book_id="aquinas-de-principiis-naturae",
+        name_en="On the Principles of Nature", name_la="De Principiis Naturae",
+        composed="c. 1252–1256",
+        description_en="An early short treatise on the Aristotelian principles of natural things — matter, form, privation, and the four causes.",
+        description_la="Tractatus brevis primus de principiis rerum naturalium aristotelicis — materia, forma, privatione, et quattuor causis.",
+        en_translator_note="English translation by R. A. Kocourek (St. Paul, 1948), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 98, "did_la": 369, "did_en": 371, "label_en": "On the Principles of Nature", "label_la": "De Principiis Naturae", "rows": 59}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "de-regno-cc": WorkSpec(
+        slug="de-regno-cc", sub_path="opuscula/de-regno", book_id="aquinas-de-regno",
+        name_en="On Kingship, to the King of Cyprus", name_la="De Regno, ad Regem Cypri",
+        composed="c. 1266–1267",
+        description_en="A short mirror-of-princes addressed to King Hugh II of Cyprus — on the nature and duties of a king, the best regime, and the reward of kings. Unfinished — Aquinas wrote Books I–II.4; Ptolemy of Lucca completed the work (those continuations are not included).",
+        description_la="Speculum principis breve ad Hugonem II regem Cypri — de natura et officio regis, optimo regimine, mercede regum. Opus inchoatum — Libros I–II.4 Thomas composuit; Ptolemaeus Lucensis cetera complevit (quae hic non includuntur).",
+        en_translator_note="English translation by Gerald B. Phelan, revised by I. Th. Eschmann OP (PIMS, Toronto, 1949). Mirrored from aquinas.cc.",
+        parts=[{"wid": 101, "did_la": 381, "did_en": 383, "label_en": "On Kingship", "label_la": "De Regno", "rows": 182}],
+        outline_shape="book_chapter", book_label_en="Book", book_label_la="Liber", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "de-substantiis-separatis-cc": WorkSpec(
+        slug="de-substantiis-separatis-cc", sub_path="opuscula/de-substantiis-separatis", book_id="aquinas-de-substantiis-separatis",
+        name_en="On Separate Substances", name_la="De Substantiis Separatis",
+        composed="c. 1271",
+        description_en="A late treatise on the angels (the *substantiae separatae*) — their existence, nature, hierarchy, and operations. Aquinas's first survey of pagan-philosophical and patristic teaching on the angels before establishing his own position.",
+        description_la="Tractatus serotinus de angelis (*substantiae separatae*) — eorum existentia, natura, hierarchia, operationibus. Doctrinae paganae-philosophicae et patristicae de angelis recensio prima Thomae antequam suam positionem stabiliret.",
+        en_translator_note="English translation by Francis J. Lescoe (West Hartford, 1959), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 103, "did_la": 389, "did_en": 391, "label_en": "On Separate Substances", "label_la": "De Substantiis Separatis", "rows": 260}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "contra-impugnantes-cc": WorkSpec(
+        slug="contra-impugnantes-cc", sub_path="opuscula/contra-impugnantes", book_id="aquinas-contra-impugnantes",
+        name_en="An Apology for the Religious Orders (Contra Impugnantes)", name_la="Contra Impugnantes Dei Cultum et Religionem",
+        composed="1256–1257",
+        description_en="Aquinas's defence of the mendicant orders against the attacks of William of Saint-Amour, written at Paris during his first regency. A foundational text on religious life, evangelical counsels, and the right of mendicants to teach.",
+        description_la="Defensio Thomae ordinum mendicantium contra impugnationes Gulielmi de Sancto Amore, apud Parisios in prima magisterii regentia composita. Textus fundamentalis de vita religiosa, consiliis evangelicis, et iure docendi mendicantium.",
+        en_translator_note="English translation by the Dominican Fathers, *An Apology for the Religious Orders* (Sands, London, 1902, PD), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 102, "did_la": 385, "did_en": 387, "label_en": "Contra Impugnantes", "label_la": "Contra Impugnantes", "rows": 1168}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "contra-retrahentes-cc": WorkSpec(
+        slug="contra-retrahentes-cc", sub_path="opuscula/contra-retrahentes", book_id="aquinas-contra-retrahentes",
+        name_en="Refutation of Teaching that Deters from Religious Life (Contra Retrahentes)", name_la="Contra Doctrinam Retrahentium a Religione",
+        composed="1271",
+        description_en="A late polemical work defending the entry of young men into religious life against Gerard of Abbeville's attacks on mendicant recruitment.",
+        description_la="Opus polemicum serotinum, ingressum iuvenum in vitam religiosam contra impugnationes Gerardi de Abbatisvilla in mendicantium receptione defendens.",
+        en_translator_note="English translation by John Procter OP (Burns and Oates, London, 1902, PD), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 104, "did_la": 393, "did_en": 395, "label_en": "Contra Retrahentes", "label_la": "Contra Doctrinam Retrahentium", "rows": 200}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "de-perfectione-vitae-cc": WorkSpec(
+        slug="de-perfectione-vitae-cc", sub_path="opuscula/de-perfectione-vitae", book_id="aquinas-de-perfectione-vitae",
+        name_en="On the Perfection of the Spiritual Life", name_la="De Perfectione Vitae Spiritualis",
+        composed="1269–1270",
+        description_en="A defence of the religious state as a state of perfection, against the position of Gerard of Abbeville that perfection consists in the secular clerical life rather than in religious profession.",
+        description_la="Defensio status religiosi ut status perfectionis, contra positionem Gerardi de Abbatisvilla quod perfectio in vita clericali saeculari potius quam in professione religiosa consistit.",
+        en_translator_note="English translation by John Procter OP (Burns and Oates, London, 1902, PD), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 90, "did_la": 333, "did_en": 334, "label_en": "On the Perfection of the Spiritual Life", "label_la": "De Perfectione Vitae Spiritualis", "rows": 350}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "de-unitate-intellectus-cc": WorkSpec(
+        slug="de-unitate-intellectus-cc", sub_path="opuscula/de-unitate-intellectus", book_id="aquinas-de-unitate-intellectus",
+        name_en="On the Unity of the Intellect against the Averroists", name_la="De Unitate Intellectus contra Averroistas",
+        composed="1270",
+        description_en="Aquinas's most direct attack on the Latin Averroist thesis (held by Siger of Brabant and others at Paris) that there is one separate intellectual soul shared by all human beings.",
+        description_la="Impugnatio Thomae directissima theseos Averroistarum Latinorum (Sigeri Brabantini et aliorum Parisius) unam animam intellectivam separatam omnibus hominibus communem esse.",
+        en_translator_note="English translation by Beatrice H. Zedler (Marquette University Press, 1968), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 105, "did_la": 397, "did_en": 981, "label_en": "On the Unity of the Intellect", "label_la": "De Unitate Intellectus", "rows": 161}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "de-aeternitate-mundi-cc": WorkSpec(
+        slug="de-aeternitate-mundi-cc", sub_path="opuscula/de-aeternitate-mundi", book_id="aquinas-de-aeternitate-mundi",
+        name_en="On the Eternity of the World", name_la="De Aeternitate Mundi",
+        composed="c. 1271",
+        description_en="A short treatise arguing that the Catholic doctrine of creation in time does not contradict reason — God could in principle have created an eternal world, but in fact created it with a beginning.",
+        description_la="Tractatus brevis arguens dogmate catholico creationis in tempore rationi non contradicere — Deus mundum aeternum in principio creare potuisse, sed re ipsa cum principio creavisse.",
+        en_translator_note="English translation by Robert T. Miller (1991), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 106, "did_la": 402, "did_en": 403, "label_en": "On the Eternity of the World", "label_la": "De Aeternitate Mundi", "rows": 28}],
+        outline_shape="single",
+    ),
+    "de-articulis-fidei-cc": WorkSpec(
+        slug="de-articulis-fidei-cc", sub_path="opuscula/de-articulis-fidei", book_id="aquinas-de-articulis-fidei",
+        name_en="On the Articles of Faith and the Sacraments of the Church", name_la="De Articulis Fidei et Sacramentis Ecclesiae",
+        composed="c. 1261–1265",
+        description_en="A short summary of the articles of the Creed and the sacraments of the Church, written for Archbishop Leonard of Palermo. A pastoral catechetical text.",
+        description_la="Compendium articulorum Symboli et sacramentorum Ecclesiae, ad Leonardum archiepiscopum Panormitanum compositum. Textus catecheticus pastoralis.",
+        en_translator_note="English translation by Joseph B. Collins (revised), the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 108, "did_la": 409, "did_en": 874, "label_en": "On the Articles of Faith and the Sacraments of the Church", "label_la": "De Articulis Fidei", "rows": 159}],
+        outline_shape="book_chapter", book_label_en="Part", book_label_la="Pars", chapter_label_en="Article", chapter_label_la="Articulus",
+    ),
+    "de-rationibus-fidei-cc": WorkSpec(
+        slug="de-rationibus-fidei-cc", sub_path="opuscula/de-rationibus-fidei", book_id="aquinas-de-rationibus-fidei",
+        name_en="On Reasons for the Faith, against Saracens, Greeks, and Armenians", name_la="De Rationibus Fidei contra Saracenos, Graecos et Armenos",
+        composed="c. 1265",
+        description_en="A short apologetic addressed to a Dominican cantor in Antioch, giving reasons for the Trinity, Incarnation, and other contested doctrines against Muslim and Eastern-Christian objections.",
+        description_la="Apologia brevis ad cantorem dominicanum Antiochiae, rationes Trinitatis, Incarnationis, et aliorum dogmatum contestatorum contra objectiones Musulmanorum et Christianorum Orientalium praestans.",
+        en_translator_note="English translation by Joseph Kenny OP (Catholic Bilingual Press, 2002), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 100, "did_la": 377, "did_en": 379, "label_en": "On Reasons for the Faith", "label_la": "De Rationibus Fidei", "rows": 130}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "de-motu-cordis-cc": WorkSpec(
+        slug="de-motu-cordis-cc", sub_path="opuscula/de-motu-cordis", book_id="aquinas-de-motu-cordis",
+        name_en="On the Motion of the Heart", name_la="De Motu Cordis",
+        composed="c. 1273",
+        description_en="A late short consultation on the natural philosophy of the human heart's motion, addressed to Master Philip of Castro Coeli.",
+        description_la="Responsum breve serotinum de philosophia naturali motus cordis humani, ad magistrum Philippum de Castro Coeli compositum.",
+        en_translator_note="English translation by Vincent R. Larkin, revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 109, "did_la": 411, "did_en": 413, "label_en": "On the Motion of the Heart", "label_la": "De Motu Cordis", "rows": 20}],
+        outline_shape="single",
+    ),
+    "de-operationibus-occultis-cc": WorkSpec(
+        slug="de-operationibus-occultis-cc", sub_path="opuscula/de-operationibus-occultis", book_id="aquinas-de-operationibus-occultis",
+        name_en="On the Hidden Activities of Nature", name_la="De Occultis Operibus Naturae",
+        composed="c. 1269–1272",
+        description_en="A short letter on the natural-philosophical question of occult or hidden powers in natural things (e.g. the magnet) — Aquinas distinguishes natural causes from demonic interference.",
+        description_la="Epistola brevis de quaestione philosophica naturali occultis virtutibus in rebus naturalibus (e.g. in magnete) — Thomas causas naturales ab interferentia daemonum distinguens.",
+        en_translator_note="English translation by Joseph B. McAllister, revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 110, "did_la": 415, "did_en": 417, "label_en": "On the Hidden Activities of Nature", "label_la": "De Occultis Operibus Naturae", "rows": 20}],
+        outline_shape="single",
+    ),
+    "de-mixtione-elementorum-cc": WorkSpec(
+        slug="de-mixtione-elementorum-cc", sub_path="opuscula/de-mixtione-elementorum", book_id="aquinas-de-mixtione-elementorum",
+        name_en="On the Blend of the Elements", name_la="De Mixtione Elementorum",
+        composed="c. 1270–1273",
+        description_en="A short consultation on the natural-philosophical question of how the four elements combine in a compound — whether they remain actually or only virtually.",
+        description_la="Responsum breve de quaestione philosophica naturali quomodo quattuor elementa in mixto componantur — utrum actu vel solum virtute manserint.",
+        en_translator_note="English translation by Vincent R. Larkin, revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 99, "did_la": 374, "did_en": 375, "label_en": "On the Blend of the Elements", "label_la": "De Mixtione Elementorum", "rows": 16}],
+        outline_shape="single",
+    ),
+    "de-emptione-cc": WorkSpec(
+        slug="de-emptione-cc", sub_path="opuscula/de-emptione", book_id="aquinas-de-emptione",
+        name_en="A Letter on Credit Sales and Usury", name_la="De Emptione et Venditione ad Tempus",
+        composed="c. 1262",
+        description_en="A short consultation on the moral status of selling at higher prices on credit, written to Master James of Viterbo.",
+        description_la="Responsum breve de statu morali venditionis ad pretium maius ad tempus, ad magistrum Iacobum Viterbiensem compositum.",
+        en_translator_note="English translation revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 111, "did_la": 419, "did_en": 421, "label_en": "On Credit Sales and Usury", "label_la": "De Emptione et Venditione", "rows": 7}],
+        outline_shape="single",
+    ),
+    "de-sortibus-cc": WorkSpec(
+        slug="de-sortibus-cc", sub_path="opuscula/de-sortibus", book_id="aquinas-de-sortibus",
+        name_en="On Lots", name_la="De Sortibus",
+        composed="c. 1271",
+        description_en="A short consultation on the moral and theological status of casting lots — for decision-making, divination, and gambling — addressed to a James of Tonengo.",
+        description_la="Responsum breve de statu morali et theologico iactus sortium — ad decisiones, divinationem, et aleam — ad Iacobum de Tonengo compositum.",
+        en_translator_note="English translation revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 117, "did_la": 435, "did_en": 437, "label_en": "On Lots", "label_la": "De Sortibus", "rows": 77}],
+        outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
+    ),
+    "to-bernard-abbot-cc": WorkSpec(
+        slug="to-bernard-abbot-cc", sub_path="opuscula/to-bernard-abbot", book_id="aquinas-to-bernard-abbot",
+        name_en="Letter to Abbot Bernard of Casino on the prayer of the dying", name_la="Epistola ad Bernardum Abbatem Casinensem",
+        composed="c. 1273",
+        description_en="A short letter Aquinas wrote near the end of his life to Bernard Aiglier OSB, abbot of Monte Cassino, on a question about Gregory the Great's teaching on what happens to the prayer of those who die in mortal sin.",
+        description_la="Epistola brevis serotina Thomae ad Bernardum Aiglier OSB, abbatem Casinensem, super quaestione de doctrina Gregorii Magni quid orationi morientium in peccato mortali fiat.",
+        en_translator_note="English translation revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 123, "did_la": 450, "did_en": 451, "label_en": "Letter to Abbot Bernard", "label_la": "Ad Bernardum Abbatem", "rows": 13}],
+        outline_shape="single",
+    ),
+    "to-duchess-flanders-cc": WorkSpec(
+        slug="to-duchess-flanders-cc", sub_path="opuscula/to-duchess-flanders", book_id="aquinas-to-duchess-flanders",
+        name_en="Letter to the Duchess of Brabant on the rule of Jews", name_la="De Regimine Iudaeorum ad Ducissam Brabantiae",
+        composed="c. 1271",
+        description_en="A short letter answering the questions of Margaret of Constantinople, Duchess of Brabant, on the just rule of the Jewish population in her territories — on usury, tribute, oath-taking, and clothing distinctions.",
+        description_la="Epistola brevis quaestionibus Margaritae Constantinopolitanae, ducissae Brabantiae, de iusto regimine Iudaeorum in suis territoriis respondens — de usura, tributo, iuramento, et distinctione vestium.",
+        en_translator_note="English translation revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 112, "did_la": 423, "did_en": 425, "label_en": "Letter to the Duchess of Brabant", "label_la": "Ad Ducissam Brabantiae", "rows": 31}],
+        outline_shape="book_chapter", chapter_label_en="Article", chapter_label_la="Articulus",
+    ),
+    "contra-errores-graecorum-cc": WorkSpec(
+        slug="contra-errores-graecorum-cc", sub_path="opuscula/contra-errores-graecorum", book_id="aquinas-contra-errores-graecorum",
+        name_en="On the Catholic Faith of the Greek Fathers (Contra Errores Graecorum)", name_la="Contra Errores Graecorum",
+        composed="c. 1263–1264",
+        description_en="Aquinas's defence of the Catholic faith against the Greek positions on the Trinity, the procession of the Holy Spirit, the primacy of the Pope, and other contested doctrines — written for Urban IV in connection with reunion attempts.",
+        description_la="Defensio Thomae fidei catholicae contra positiones Graecas de Trinitate, processione Spiritus Sancti, primatu Papae, aliisque dogmatibus contestatis — Urbano IV pro tentamine reunionis composita.",
+        en_translator_note="No public-domain English translation paired with the Latin available; Latin only on aquinas.cc.",
+        parts=[{"wid": 107, "did_la": 405, "did_en": 0, "label_en": "On the Greek Fathers", "label_la": "Contra Errores Graecorum", "rows": 391}],
+        outline_shape="book_chapter", book_label_en="Part", book_label_la="Pars", chapter_label_en="Chapter", chapter_label_la="Caput",
     ),
     # Aquinas's own Commentary on Matthew — Reportatio of Peter of Andria
     # (Matthew 1–12 + 13–28).
@@ -1349,7 +1540,13 @@ def render_chapter(
 # ---------------------------------------------------------------------------
 
 _GROUP_REF_RE = re.compile(r"\.(?:Bk|Tr|BookI{1,3}V?|BookV|Book[A-Z]+|Q|Tract)(\d*)$|\.Prooem$|\.Prologue$|\.Pr$")
-_LEAF_REF_RE = re.compile(r"\.(?:C|L|A|Lec|Cap|Lectio|Capitulum|Ps)(\d+)$")
+# Leaf refs at chapter granularity. Includes the letter-prefixed patterns
+# (".C1", ".L1", ".A1", ".Ps1") plus an "as-its-own-leaf" Q-pattern (".Q1")
+# for single-question disputed-questions works like QD De Anima, where the
+# 21 top-level "Q" nodes are really the articles of the one disputed
+# question and need to be numbered Article 1..21 rather than a stack of
+# "prologue" entries.
+_LEAF_REF_RE = re.compile(r"\.(?:C|L|A|Lec|Cap|Lectio|Capitulum|Ps|Q)(\d+)$")
 
 
 def _is_chapter_ref(ref: str) -> bool:
@@ -1458,6 +1655,36 @@ def _extract_two_level(root: OutlineNode) -> list[dict]:
     if out and out[-1]["end_position"] == -1:
         out[-1]["end_position"] = 10_000_000
     return out
+
+
+def _is_stub_md(md: str) -> bool:
+    """Detect a render that is *just* a heading line + an optional bold-italic
+    restatement of that heading, with no real body content.
+
+    aquinas.cc emits Book/Chapter prologue nodes that contain only the
+    topic line (e.g. "Mobile Being in General"); the round-7 title-dedupe
+    suppresses it against the H1, but sometimes it survives as a bold
+    title row. Either way the prologue has no real content and shouldn't
+    ship.
+    """
+    if not md:
+        return True
+    lines = [ln.strip() for ln in md.splitlines() if ln.strip()]
+    # Drop the H1 line if present.
+    if lines and lines[0].startswith("#"):
+        lines = lines[1:]
+    # Strip any leading bold-italic / italic / bold restatements — these
+    # are the topic-line repetition aquinas.cc emits as a header-style row.
+    while lines:
+        first = lines[0]
+        if (first.startswith("***") and first.endswith("***")) or \
+           (first.startswith("**") and first.endswith("**")) or \
+           (first.startswith("*") and first.endswith("*") and not first.startswith("**")):
+            lines = lines[1:]
+            continue
+        break
+    joined = " ".join(lines)
+    return len(joined) < 60
 
 
 def _clean_outline_title(raw: str) -> str:
@@ -1608,6 +1835,24 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
                 chap_la, pp["style"], pp["la_rows"], pp["en_rows"], "la", end_pos,
                 fallback_title=chap_title_la, promote_rubric_labels=spec.promote_rubric_labels,
             )
+            # Skip prologue stubs: if the prologue range produced nothing
+            # beyond the heading line, don't write the file and don't put
+            # it in the TOC. (Round 7 audit found ~800 of these — Book
+            # prologues that aquinas.cc emits as a single row containing
+            # only the Book topic line, which gets stripped as a duplicate
+            # of the chapter title.)
+            en_is_stub = _is_stub_md(md_en)
+            la_is_stub = _is_stub_md(md_la)
+            if chap_num == 0 and en_is_stub and la_is_stub:
+                global_seen_cids.discard(cid)
+                continue
+            # Asymmetric coverage: if one side is a stub but the other has
+            # real content, replace the stub with a clean placeholder note
+            # rather than shipping a bare "# Title" file.
+            if has_english and en_is_stub and not la_is_stub:
+                md_en = f"# {chap_title_en}\n\n*(No English translation of this section is available; see the Latin column.)*\n"
+            if (not en_is_stub) and la_is_stub:
+                md_la = f"# {chap_title_la}\n\n*(Nullum textus latini ad hanc sectionem disponibile; vide columnam anglicam.)*\n"
             if not dry_run:
                 if has_english:
                     (en_dir / f"{cid}.md").write_text(md_en, encoding="utf-8")
@@ -1621,7 +1866,7 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
                 group_node["children"].append(toc_node)
             else:
                 toc.append(toc_node)
-        if group_node is not None:
+        if group_node is not None and group_node["children"]:
             toc.append(group_node)
 
     # Build manifest (mirror the structure used by emit_book)
@@ -1656,12 +1901,68 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
     return {"book": spec.book_id, "chapters": total, "languages": languages}
 
 
+def _emit_single_chapter_book(spec: WorkSpec, dry_run: bool = False) -> dict:
+    """For very short opuscula whose outline only has plain numbered section
+    markers (`<work>.2`, `<work>.3`, …) with no real chapter pattern.
+    Emits the whole row range as a single ch001.md file."""
+    book_dir = BOOKS_ROOT / spec.sub_path
+    en_dir = book_dir / "en-US"
+    la_dir = book_dir / "la"
+    if not dry_run:
+        for sub in (en_dir, la_dir):
+            if sub.is_dir():
+                for f in sub.glob("*.md"):
+                    f.unlink()
+        en_dir.mkdir(parents=True, exist_ok=True)
+        la_dir.mkdir(parents=True, exist_ok=True)
+    has_english = bool(spec.parts[0].get("did_en"))
+    languages = ["en-US", "la"] if has_english else ["la"]
+    part = spec.parts[0]
+    wid, did_la, did_en, rows = part["wid"], part["did_la"], part["did_en"], part["rows"]
+    print(f"  [{spec.slug}] wid={wid} ({rows} rows, single-chapter)")
+    style_chars, _ = fetch_structure(wid)
+    la_rows = fetch_cells(did_la, rows)
+    en_rows = fetch_cells(did_en, rows) if has_english else [(rid, "") for rid, _ in la_rows]
+    chap_en = OutlineNode(title=spec.name_en, ref="", position=0, children=[])
+    chap_la = OutlineNode(title=spec.name_la, ref="", position=0, children=[])
+    md_en = render_chapter(chap_en, style_chars, la_rows, en_rows, "en-US", len(la_rows), fallback_title=spec.name_en)
+    md_la = render_chapter(chap_la, style_chars, la_rows, en_rows, "la", len(la_rows), fallback_title=spec.name_la)
+    cid = "ch001"
+    if not dry_run:
+        if has_english:
+            (en_dir / f"{cid}.md").write_text(md_en, encoding="utf-8")
+        (la_dir / f"{cid}.md").write_text(md_la, encoding="utf-8")
+    toc = [{"id": cid, "title": {"en-US": spec.name_en, "la": spec.name_la}}]
+    sources = [
+        {"language": "la", "url": f"https://aquinas.cc/la/en/~{part.get('label_la', '')}",
+         "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."},
+    ]
+    if has_english:
+        sources.insert(0, {"language": "en-US", "url": f"https://aquinas.cc/la/en/~{part.get('label_la', '')}",
+                           "description": spec.en_translator_note or "Translation from aquinas.cc."})
+    manifest = {
+        "id": spec.book_id,
+        "name": {"en-US": spec.name_en, "la": spec.name_la},
+        "author": dict(AUTHOR),
+        "description": {"en-US": spec.description_en, "la": spec.description_la},
+        "composed": spec.composed,
+        "languages": languages,
+        "sources": sources,
+        "toc": toc,
+    }
+    if not dry_run:
+        (book_dir / "book.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return {"book": spec.book_id, "chapters": 1, "languages": languages}
+
+
 def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
     # Route to specialised builders based on outline_shape.
     if spec.outline_shape == "book_chapter":
         return _emit_two_level_book(spec, dry_run=dry_run, shape_hint="book_chapter")
     if spec.outline_shape == "question_article":
         return _emit_two_level_book(spec, dry_run=dry_run, shape_hint="question_article")
+    if spec.outline_shape == "single":
+        return _emit_single_chapter_book(spec, dry_run=dry_run)
 
     book_dir = BOOKS_ROOT / spec.sub_path
     en_dir = book_dir / "en-US"
@@ -2388,6 +2689,10 @@ def build_catena_mark(dry_run: bool = False) -> dict:
         chap_la = OutlineNode(title=la_t, ref="", position=entry["position"], children=[])
         md_en = render_chapter(chap, style_chars, la_rows, en_rows, "en-US", entry["end_position"], fallback_title=en_t)
         md_la = render_chapter(chap_la, style_chars, la_rows, en_rows, "la", entry["end_position"], fallback_title=la_t)
+        # Skip chapter-introduction stubs (Mark's "Chapter N — Introduction"
+        # nodes that wrap nothing).
+        if key[0] == "ch-pr" and _is_stub_md(md_en) and _is_stub_md(md_la):
+            continue
         if not dry_run:
             (en_dir / f"{cid}.md").write_text(md_en, encoding="utf-8")
             (la_dir / f"{cid}.md").write_text(md_la, encoding="utf-8")

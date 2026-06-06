@@ -1,3 +1,0 @@
-# Prooemium
-
-***Contra Fornicatio***

@@ -1,3 +1,0 @@
-# Prooemium
-
-***Prophetia et Linguae***

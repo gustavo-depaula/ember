@@ -1,1 +1,0 @@
-# Prologue — Expectation of Heaven

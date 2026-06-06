@@ -1,3 +1,0 @@
-# Prooemium
-
-***Finis Legis***

@@ -1,3 +1,0 @@
-# Prooemium
-
-***Brevia Responsio Baldath***

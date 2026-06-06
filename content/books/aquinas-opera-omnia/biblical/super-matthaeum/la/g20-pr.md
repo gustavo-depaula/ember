@@ -1,3 +1,0 @@
-# Prooemium
-
-***Sollicitudo Christi Hominibus***

@@ -1,5 +1,0 @@
-# Prooemium
-
-***De Fide***
-
-***Propositio***

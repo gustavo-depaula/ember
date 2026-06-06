@@ -1,3 +1,0 @@
-# Prooemium
-
-***Conditio Humana***

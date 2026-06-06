@@ -1,3 +1,0 @@
-# Prooemium
-
-***Sermo in Coena***

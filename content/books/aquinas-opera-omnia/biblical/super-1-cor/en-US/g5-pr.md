@@ -1,1 +1,0 @@
-# Prologue — The Apostolic Ministry

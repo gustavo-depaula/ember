@@ -1,3 +1,0 @@
-# Prologue — On Faith
-
-***Outline***

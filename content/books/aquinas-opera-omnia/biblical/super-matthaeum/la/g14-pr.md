@@ -1,3 +1,0 @@
-# Prooemium
-
-***Amplius Iudicium Pessimorum***

@@ -1,3 +1,0 @@
-# Prooemium
-
-***Sacerdotes Christum Rogant***

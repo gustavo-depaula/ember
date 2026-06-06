@@ -38,13 +38,6 @@
       },
       "children": [
         {
-          "id": "g1-pr",
-          "title": {
-            "en-US": "Prologue — The Principles of Natural Things",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g1-c001",
           "title": {
             "en-US": "Lecture 1 — The matter and subject of physics",
@@ -158,13 +151,6 @@
         "la": "Liber 2"
       },
       "children": [
-        {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — The Principles of Natural Science",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g2-c001",
           "title": {
@@ -280,13 +266,6 @@
       },
       "children": [
         {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue — Mobile Being in General",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Natural science treats of motion and those things consequent upon it",
@@ -386,13 +365,6 @@
         "la": "Liber 4"
       },
       "children": [
-        {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue — Place, Void, and Time",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g4-c001",
           "title": {
@@ -564,13 +536,6 @@
       },
       "children": [
         {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue — Division of Motion into Its Species",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — Motion per se is distinguished from motion per accidens",
@@ -649,13 +614,6 @@
         "la": "Liber 6"
       },
       "children": [
-        {
-          "id": "g6-pr",
-          "title": {
-            "en-US": "Prologue — Division of Motion into Quantitative Parts",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g6-c001",
           "title": {
@@ -757,13 +715,6 @@
       },
       "children": [
         {
-          "id": "g7-pr",
-          "title": {
-            "en-US": "Prologue — Existence of the First Motion and First Mover",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — Whatever is moved must be moved by another",
@@ -835,13 +786,6 @@
         "la": "Liber 8"
       },
       "children": [
-        {
-          "id": "g8-pr",
-          "title": {
-            "en-US": "Prologue — Nature of the First Motion and First Mover",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g8-c001",
           "title": {

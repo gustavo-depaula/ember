@@ -1,1 +1,0 @@
-# Prologue — Greatness of Christ

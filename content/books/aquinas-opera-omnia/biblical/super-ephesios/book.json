@@ -54,13 +54,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — The Power of the Incarnation",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Greeting",
@@ -126,13 +119,6 @@
       },
       "children": [
         {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue — New Life in Christ",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Former life in the world",
@@ -184,13 +170,6 @@
       },
       "children": [
         {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue — Dispensation of God’s Mysteries",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — The gentiles are fellow heirs of Christ",
@@ -234,13 +213,6 @@
         "la": "Caput 5"
       },
       "children": [
-        {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue — The Body of Christ",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g5-c001",
           "title": {
@@ -321,13 +293,6 @@
       },
       "children": [
         {
-          "id": "g6-pr",
-          "title": {
-            "en-US": "Prologue — Life in the Church",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — Followers of God",
@@ -406,13 +371,6 @@
         "la": "Caput 7"
       },
       "children": [
-        {
-          "id": "g7-pr",
-          "title": {
-            "en-US": "Prologue — Admonitions to the Church",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g7-c001",
           "title": {

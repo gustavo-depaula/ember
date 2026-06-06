@@ -1,3 +1,0 @@
-# Prologue — Introduction
-
-***Introduction***

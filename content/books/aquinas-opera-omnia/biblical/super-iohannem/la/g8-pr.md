@@ -1,3 +1,0 @@
-# Prooemium
-
-***Signa et Promissa***

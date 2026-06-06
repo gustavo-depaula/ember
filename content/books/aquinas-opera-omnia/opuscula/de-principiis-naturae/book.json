@@ -9,10 +9,10 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short early treatise on the Aristotelian principles of nature: matter, form, and privation; the four causes; the relations between generation and the principles. Written for Aquinas's fellow Dominican Brother Sylvester.",
-    "la": "Tractatus brevis iuvenilis de principiis aristotelicis naturae: materia, forma, privatione; quattuor causis; relationibus inter generationem et principia."
+    "en-US": "An early short treatise on the Aristotelian principles of natural things — matter, form, privation, and the four causes.",
+    "la": "Tractatus brevis primus de principiis rerum naturalium aristotelicis — materia, forma, privatione, et quattuor causis."
   },
-  "composed": "c. 1252",
+  "composed": "c. 1252–1256",
   "languages": [
     "en-US",
     "la"
@@ -20,56 +20,56 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by R. A. Kocourek (1956). Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Principiis Naturae",
+      "description": "English translation by R. A. Kocourek (St. Paul, 1948), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Principiis Naturae",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1",
-        "la": "Capitulum 1"
+        "en-US": "Chapter 1 — Act and potency",
+        "la": "Caput 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Chapter 2",
-        "la": "Capitulum 2"
+        "en-US": "Chapter 2 — The three principles of nature",
+        "la": "Caput 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Chapter 3",
-        "la": "Capitulum 3"
+        "en-US": "Chapter 3 — The four causes",
+        "la": "Caput 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Chapter 4",
-        "la": "Capitulum 4"
+        "en-US": "Chapter 4 — Coincidence of causes",
+        "la": "Caput 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Chapter 5",
-        "la": "Capitulum 5"
+        "en-US": "Chapter 5 — Causes and predication",
+        "la": "Caput 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Chapter 6",
-        "la": "Capitulum 6"
+        "en-US": "Chapter 6 — Analogy",
+        "la": "Caput 6"
       }
     }
   ]

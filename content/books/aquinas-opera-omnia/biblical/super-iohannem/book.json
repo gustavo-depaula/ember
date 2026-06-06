@@ -86,13 +86,6 @@
       },
       "children": [
         {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue — The Word of God",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Eternity of the Word",
@@ -214,13 +207,6 @@
       },
       "children": [
         {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue — Beginning of Christ’s Mission",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — The wedding at Cana",
@@ -250,13 +236,6 @@
         "la": "Caput 6"
       },
       "children": [
-        {
-          "id": "g6-pr",
-          "title": {
-            "en-US": "Prologue — Testimonies to Christ",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g6-c001",
           "title": {
@@ -308,13 +287,6 @@
         "la": "Caput 7"
       },
       "children": [
-        {
-          "id": "g7-pr",
-          "title": {
-            "en-US": "Prologue — Conversion of the Gentiles",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g7-c001",
           "title": {
@@ -374,13 +346,6 @@
       },
       "children": [
         {
-          "id": "g8-pr",
-          "title": {
-            "en-US": "Prologue — Signs and Promises",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1 — Healing at Bethsaida",
@@ -438,13 +403,6 @@
         "la": "Caput 9"
       },
       "children": [
-        {
-          "id": "g9-pr",
-          "title": {
-            "en-US": "Prologue — The Bread of Life",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g9-c001",
           "title": {
@@ -511,13 +469,6 @@
       },
       "children": [
         {
-          "id": "g10-pr",
-          "title": {
-            "en-US": "Prologue — Feast of Tabernacles",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g10-c001",
           "title": {
             "en-US": "Lecture 1 — The feast of Tabernacles",
@@ -561,13 +512,6 @@
         "la": "Caput 11"
       },
       "children": [
-        {
-          "id": "g11-pr",
-          "title": {
-            "en-US": "Prologue — Hostility of the Pharisees",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g11-c001",
           "title": {
@@ -634,13 +578,6 @@
       },
       "children": [
         {
-          "id": "g12-pr",
-          "title": {
-            "en-US": "Prologue — The Blind Man",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g12-c001",
           "title": {
             "en-US": "Lecture 1 — Healing of the blind man",
@@ -677,13 +614,6 @@
         "la": "Caput 13"
       },
       "children": [
-        {
-          "id": "g13-pr",
-          "title": {
-            "en-US": "Prologue — The Good Shepherd",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g13-c001",
           "title": {
@@ -735,13 +665,6 @@
         "la": "Caput 14"
       },
       "children": [
-        {
-          "id": "g14-pr",
-          "title": {
-            "en-US": "Prologue — Lazarus",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g14-c001",
           "title": {
@@ -808,13 +731,6 @@
       },
       "children": [
         {
-          "id": "g15-pr",
-          "title": {
-            "en-US": "Prologue — Christ’s Hour Comes",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g15-c001",
           "title": {
             "en-US": "Lecture 1 — Mary anoints Christ’s feet",
@@ -879,13 +795,6 @@
         "la": "Caput 16"
       },
       "children": [
-        {
-          "id": "g16-pr",
-          "title": {
-            "en-US": "Prologue — The Last Supper Discourse",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g16-c001",
           "title": {
@@ -952,13 +861,6 @@
       },
       "children": [
         {
-          "id": "g17-pr",
-          "title": {
-            "en-US": "Prologue — The Last Supper Discourse Continued",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g17-c001",
           "title": {
             "en-US": "Lecture 1 — The Father’s mansions",
@@ -1024,13 +926,6 @@
       },
       "children": [
         {
-          "id": "g18-pr",
-          "title": {
-            "en-US": "Prologue — The Last Supper Discourse Continued",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g18-c001",
           "title": {
             "en-US": "Lecture 1 — The true vine",
@@ -1074,13 +969,6 @@
         "la": "Caput 19"
       },
       "children": [
-        {
-          "id": "g19-pr",
-          "title": {
-            "en-US": "Prologue — The Last Supper Discourse Continued",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g19-c001",
           "title": {
@@ -1147,13 +1035,6 @@
       },
       "children": [
         {
-          "id": "g20-pr",
-          "title": {
-            "en-US": "Prologue — The Prayer of Christ",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g20-c001",
           "title": {
             "en-US": "Lecture 1 — Christ’s prayer to the Father",
@@ -1204,13 +1085,6 @@
         "la": "Caput 21"
       },
       "children": [
-        {
-          "id": "g21-pr",
-          "title": {
-            "en-US": "Prologue — Betrayal and Trial of Christ",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g21-c001",
           "title": {
@@ -1263,13 +1137,6 @@
       },
       "children": [
         {
-          "id": "g22-pr",
-          "title": {
-            "en-US": "Prologue — The Crucifixion",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g22-c001",
           "title": {
             "en-US": "Lecture 1 — The scourging and crowning",
@@ -1321,13 +1188,6 @@
       },
       "children": [
         {
-          "id": "g23-pr",
-          "title": {
-            "en-US": "Prologue — The Resurrection",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g23-c001",
           "title": {
             "en-US": "Lecture 1 — Discovery of the resurrection",
@@ -1378,13 +1238,6 @@
         "la": "Caput 24"
       },
       "children": [
-        {
-          "id": "g24-pr",
-          "title": {
-            "en-US": "Prologue — Manifestation of the Resurrection",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g24-c001",
           "title": {

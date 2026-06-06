@@ -1,3 +1,0 @@
-# Prooemium
-
-***Disputationes cum Pharisaeis***

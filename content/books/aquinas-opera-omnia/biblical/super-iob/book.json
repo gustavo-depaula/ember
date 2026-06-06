@@ -54,13 +54,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — The First Trial",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Introduction",
@@ -98,13 +91,6 @@
       },
       "children": [
         {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue — The Second Trial",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Satan tries Job in his flesh",
@@ -127,13 +113,6 @@
         "la": "Caput 4"
       },
       "children": [
-        {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue — Job’s Lament",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g4-c001",
           "title": {
@@ -165,13 +144,6 @@
       },
       "children": [
         {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue — The Discourse of Eliphaz",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — On the impatience of Job",
@@ -201,13 +173,6 @@
         "la": "Caput 6"
       },
       "children": [
-        {
-          "id": "g6-pr",
-          "title": {
-            "en-US": "Prologue — The Discourse of Eliphaz Continues",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g6-c001",
           "title": {
@@ -239,13 +204,6 @@
       },
       "children": [
         {
-          "id": "g7-pr",
-          "title": {
-            "en-US": "Prologue — The Discourse of Job",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — Job is wounded by God and desires not to exist",
@@ -268,13 +226,6 @@
         "la": "Caput 8"
       },
       "children": [
-        {
-          "id": "g8-pr",
-          "title": {
-            "en-US": "Prologue — The Human Condition",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g8-c001",
           "title": {
@@ -313,13 +264,6 @@
       },
       "children": [
         {
-          "id": "g9-pr",
-          "title": {
-            "en-US": "Prologue — The Discourse of Bildad: The Allegory of the Rush",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g9-c001",
           "title": {
             "en-US": "Lecture 1 — God is just",
@@ -342,13 +286,6 @@
         "la": "Caput 10"
       },
       "children": [
-        {
-          "id": "g10-pr",
-          "title": {
-            "en-US": "Prologue — The Problem of Evil",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g10-c001",
           "title": {
@@ -387,13 +324,6 @@
       },
       "children": [
         {
-          "id": "g11-pr",
-          "title": {
-            "en-US": "Prologue — The Special Problem of the Suffering of the Just",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g11-c001",
           "title": {
             "en-US": "Lecture 1 — Job returns to himself: the creator does not deny his creature",
@@ -424,13 +354,6 @@
       },
       "children": [
         {
-          "id": "g12-pr",
-          "title": {
-            "en-US": "Prologue — Law and Divine Transcendance",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g12-c001",
           "title": {
             "en-US": "Lecture 1 — The infinite grandeur of God",
@@ -453,13 +376,6 @@
         "la": "Caput 13"
       },
       "children": [
-        {
-          "id": "g13-pr",
-          "title": {
-            "en-US": "Prologue — What Experience Teaches Us About God",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g13-c001",
           "title": {
@@ -484,13 +400,6 @@
       },
       "children": [
         {
-          "id": "g14-pr",
-          "title": {
-            "en-US": "Prologue — Prosperity and Adversity",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g14-c001",
           "title": {
             "en-US": "Lecture 1 — The perversity of the friends of Job",
@@ -513,13 +422,6 @@
         "la": "Caput 15"
       },
       "children": [
-        {
-          "id": "g15-pr",
-          "title": {
-            "en-US": "Prologue — True Retribution",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g15-c001",
           "title": {
@@ -565,13 +467,6 @@
       },
       "children": [
         {
-          "id": "g16-pr",
-          "title": {
-            "en-US": "Prologue — New Condemnation of Job",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g16-c001",
           "title": {
             "en-US": "Lecture 1 — Job’s pride and presumption",
@@ -602,13 +497,6 @@
       },
       "children": [
         {
-          "id": "g17-pr",
-          "title": {
-            "en-US": "Prologue — The Answer of Job to Eliphaz",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g17-c001",
           "title": {
             "en-US": "Lecture 1 — Job again describes his trials",
@@ -631,13 +519,6 @@
         "la": "Caput 18"
       },
       "children": [
-        {
-          "id": "g18-pr",
-          "title": {
-            "en-US": "Prologue — Job Counts on God’s Friendship",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g18-c001",
           "title": {
@@ -662,13 +543,6 @@
       },
       "children": [
         {
-          "id": "g19-pr",
-          "title": {
-            "en-US": "Prologue — The Inexorable Fate of the Wicked",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g19-c001",
           "title": {
             "en-US": "Lecture 1 — The response of Baldath",
@@ -691,13 +565,6 @@
         "la": "Caput 20"
       },
       "children": [
-        {
-          "id": "g20-pr",
-          "title": {
-            "en-US": "Prologue — Job Answers Baldath",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g20-c001",
           "title": {
@@ -722,13 +589,6 @@
       },
       "children": [
         {
-          "id": "g21-pr",
-          "title": {
-            "en-US": "Prologue — Sophar’s Answer: A Future Life, but Punishments on Earth",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g21-c001",
           "title": {
             "en-US": "Lecture 1 — The success of the sinner is shortlived",
@@ -751,13 +611,6 @@
         "la": "Caput 22"
       },
       "children": [
-        {
-          "id": "g22-pr",
-          "title": {
-            "en-US": "Prologue — The Second Answer of Job to Sophar",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g22-c001",
           "title": {
@@ -782,13 +635,6 @@
       },
       "children": [
         {
-          "id": "g23-pr",
-          "title": {
-            "en-US": "Prologue — The Third Discourse of Eliphaz",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g23-c001",
           "title": {
             "en-US": "Lecture 1 — Job's character attacked",
@@ -812,13 +658,6 @@
       },
       "children": [
         {
-          "id": "g24-pr",
-          "title": {
-            "en-US": "Prologue — The Discourse of Job",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g24-c001",
           "title": {
             "en-US": "Lecture 1 — Job appeals to the judgment of God",
@@ -834,13 +673,6 @@
         "la": "Caput 25"
       },
       "children": [
-        {
-          "id": "g25-pr",
-          "title": {
-            "en-US": "Prologue — Job Continues",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g25-c001",
           "title": {
@@ -858,13 +690,6 @@
       },
       "children": [
         {
-          "id": "g26-pr",
-          "title": {
-            "en-US": "Prologue — The Short Answer of Baldath",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g26-c001",
           "title": {
             "en-US": "Lecture 1 — Man is not pure in God's sight",
@@ -880,13 +705,6 @@
         "la": "Caput 27"
       },
       "children": [
-        {
-          "id": "g27-pr",
-          "title": {
-            "en-US": "Prologue — The Last Response of Job",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g27-c001",
           "title": {
@@ -904,13 +722,6 @@
       },
       "children": [
         {
-          "id": "g28-pr",
-          "title": {
-            "en-US": "Prologue — Job Continues his Answer",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g28-c001",
           "title": {
             "en-US": "Lecture 1 — The prosperity of evildoers is not against divine providence",
@@ -926,13 +737,6 @@
         "la": "Caput 29"
       },
       "children": [
-        {
-          "id": "g29-pr",
-          "title": {
-            "en-US": "Prologue — Job Continues His Discourse in Praise of Wisdom",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g29-c001",
           "title": {
@@ -957,13 +761,6 @@
       },
       "children": [
         {
-          "id": "g30-pr",
-          "title": {
-            "en-US": "Prologue — Job Continues Recalling the Past",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g30-c001",
           "title": {
             "en-US": "Lecture 1 — The happy days of Job",
@@ -980,13 +777,6 @@
       },
       "children": [
         {
-          "id": "g31-pr",
-          "title": {
-            "en-US": "Prologue — The Discourse of Job Continues",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g31-c001",
           "title": {
             "en-US": "Lecture 1 — His present distress",
@@ -1002,13 +792,6 @@
         "la": "Caput 32"
       },
       "children": [
-        {
-          "id": "g32-pr",
-          "title": {
-            "en-US": "Prologue — Job Seeks Justice",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g32-c001",
           "title": {
@@ -1033,13 +816,6 @@
       },
       "children": [
         {
-          "id": "g33-pr",
-          "title": {
-            "en-US": "Prologue — The Discourse of Eliud",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g33-c001",
           "title": {
             "en-US": "Lecture 1 — Introductory remarks",
@@ -1055,13 +831,6 @@
         "la": "Caput 34"
       },
       "children": [
-        {
-          "id": "g34-pr",
-          "title": {
-            "en-US": "Prologue — Eliud Exhorts Job to Repentance",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g34-c001",
           "title": {
@@ -1086,13 +855,6 @@
       },
       "children": [
         {
-          "id": "g35-pr",
-          "title": {
-            "en-US": "Prologue — Discourse on Divine Justice",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g35-c001",
           "title": {
             "en-US": "Lecture 1 — God is just to the individual",
@@ -1116,13 +878,6 @@
       },
       "children": [
         {
-          "id": "g36-pr",
-          "title": {
-            "en-US": "Prologue — Eliud Continues His Discourse",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g36-c001",
           "title": {
             "en-US": "Lecture 1 — Man’s deeds are not indifferent to God",
@@ -1138,13 +893,6 @@
         "la": "Caput 37"
       },
       "children": [
-        {
-          "id": "g37-pr",
-          "title": {
-            "en-US": "Prologue — God Alone is Just",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g37-c001",
           "title": {
@@ -1169,13 +917,6 @@
       },
       "children": [
         {
-          "id": "g38-pr",
-          "title": {
-            "en-US": "Prologue — Hymn to God",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g38-c001",
           "title": {
             "en-US": "Lecture 1 — The wisdom of the almighty",
@@ -1198,13 +939,6 @@
         "la": "Caput 39"
       },
       "children": [
-        {
-          "id": "g39-pr",
-          "title": {
-            "en-US": "Prologue — God Resolves the Question",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g39-c001",
           "title": {
@@ -1236,13 +970,6 @@
       },
       "children": [
         {
-          "id": "g40-pr",
-          "title": {
-            "en-US": "Prologue — God Continues His Discourse",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g40-c001",
           "title": {
             "en-US": "Lecture 1 — The marvels of the animal kingdom",
@@ -1258,13 +985,6 @@
         "la": "Caput 41"
       },
       "children": [
-        {
-          "id": "g41-pr",
-          "title": {
-            "en-US": "Prologue — The Command of God over the Powers of Evil",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g41-c001",
           "title": {
@@ -1296,13 +1016,6 @@
       },
       "children": [
         {
-          "id": "g42-pr",
-          "title": {
-            "en-US": "Prologue — The Great Power of Satan",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g42-c001",
           "title": {
             "en-US": "Lecture 1 — God cannot be reproached",
@@ -1325,13 +1038,6 @@
         "la": "Caput 43"
       },
       "children": [
-        {
-          "id": "g43-pr",
-          "title": {
-            "en-US": "Prologue — Job’s Repentance",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g43-c001",
           "title": {

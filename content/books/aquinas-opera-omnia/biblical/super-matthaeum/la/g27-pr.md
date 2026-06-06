@@ -1,3 +1,0 @@
-# Prooemium
-
-***Parabola Dierum Novissimorum***

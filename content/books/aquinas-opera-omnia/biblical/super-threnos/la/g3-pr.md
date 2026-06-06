@@ -1,3 +1,0 @@
-# Prooemium
-
-***Dolores Jerusalem captivae***

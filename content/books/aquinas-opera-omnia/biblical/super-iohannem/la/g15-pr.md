@@ -1,3 +1,0 @@
-# Prooemium
-
-***Hora Christi Advenit***

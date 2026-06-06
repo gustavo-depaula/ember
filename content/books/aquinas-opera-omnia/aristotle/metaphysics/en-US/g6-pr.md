@@ -1,3 +1,0 @@
-# Prologue — Definitions
-
-***Definitions***

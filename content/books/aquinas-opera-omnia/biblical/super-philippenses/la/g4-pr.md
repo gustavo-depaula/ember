@@ -1,3 +1,0 @@
-# Prooemium
-
-***Conformatio Christo***

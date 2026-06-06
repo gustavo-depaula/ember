@@ -1,3 +1,0 @@
-# Prooemium
-
-***Initio Missionis Christi***

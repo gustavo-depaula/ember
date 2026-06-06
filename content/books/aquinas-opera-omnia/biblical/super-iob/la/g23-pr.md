@@ -1,3 +1,0 @@
-# Prooemium
-
-***Sermo Tertio Eliphaz***

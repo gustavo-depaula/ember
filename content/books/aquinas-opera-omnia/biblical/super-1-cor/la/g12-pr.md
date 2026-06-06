@@ -1,3 +1,0 @@
-# Prooemium
-
-***Membra Christi***

@@ -38,13 +38,6 @@
       },
       "children": [
         {
-          "id": "g1-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g1-c001",
           "title": {
             "en-US": "Lecture 1 — Aristotle's intent in this book; enumeration of ground previously covered in preceding books and yet to be covered in subsequent books",
@@ -172,13 +165,6 @@
         "la": "Liber 2"
       },
       "children": [
-        {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g2-c001",
           "title": {

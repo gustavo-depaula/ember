@@ -1,3 +1,0 @@
-# Prologue — Substance
-
-***Substance***

@@ -1,3 +1,0 @@
-# Prooemium
-
-***Filii Dei***

@@ -54,13 +54,6 @@
       },
       "children": [
         {
-          "id": "g2-pr",
-          "title": {
-            "en-US": "Prologue — Paul’s Trust in Christ",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Greeting",
@@ -97,13 +90,6 @@
         "la": "Caput 3"
       },
       "children": [
-        {
-          "id": "g3-pr",
-          "title": {
-            "en-US": "Prologue — Hymn to Christ",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g3-c001",
           "title": {
@@ -142,13 +128,6 @@
       },
       "children": [
         {
-          "id": "g4-pr",
-          "title": {
-            "en-US": "Prologue — Conformity to Christ",
-            "la": "Prooemium"
-          }
-        },
-        {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Have no confidence in the flesh",
@@ -178,13 +157,6 @@
         "la": "Caput 5"
       },
       "children": [
-        {
-          "id": "g5-pr",
-          "title": {
-            "en-US": "Prologue — Exhortations to Holiness",
-            "la": "Prooemium"
-          }
-        },
         {
           "id": "g5-c001",
           "title": {

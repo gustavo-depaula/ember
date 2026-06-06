@@ -52,13 +52,6 @@
       },
       "children": [
         {
-          "id": "ch01-pr",
-          "title": {
-            "en-US": "Chapter 1 — Introduction",
-            "la": "Caput 1 — Prooemium"
-          }
-        },
-        {
           "id": "ch01-l01",
           "title": {
             "en-US": "Chapter 1 · Lecture 1",
@@ -159,13 +152,6 @@
       },
       "children": [
         {
-          "id": "ch02-pr",
-          "title": {
-            "en-US": "Chapter 2 — Introduction",
-            "la": "Caput 2 — Prooemium"
-          }
-        },
-        {
           "id": "ch02-l01",
           "title": {
             "en-US": "Chapter 2 · Lecture 1",
@@ -202,13 +188,6 @@
         "la": "Caput 3"
       },
       "children": [
-        {
-          "id": "ch03-pr",
-          "title": {
-            "en-US": "Chapter 3 — Introduction",
-            "la": "Caput 3 — Prooemium"
-          }
-        },
         {
           "id": "ch03-l01",
           "title": {
@@ -261,13 +240,6 @@
       },
       "children": [
         {
-          "id": "ch04-pr",
-          "title": {
-            "en-US": "Chapter 4 — Introduction",
-            "la": "Caput 4 — Prooemium"
-          }
-        },
-        {
           "id": "ch04-l01",
           "title": {
             "en-US": "Chapter 4 · Lecture 1",
@@ -312,13 +284,6 @@
       },
       "children": [
         {
-          "id": "ch05-pr",
-          "title": {
-            "en-US": "Chapter 5 — Introduction",
-            "la": "Caput 5 — Prooemium"
-          }
-        },
-        {
           "id": "ch05-l01",
           "title": {
             "en-US": "Chapter 5 · Lecture 1",
@@ -348,13 +313,6 @@
         "la": "Caput 6"
       },
       "children": [
-        {
-          "id": "ch06-pr",
-          "title": {
-            "en-US": "Chapter 6 — Introduction",
-            "la": "Caput 6 — Prooemium"
-          }
-        },
         {
           "id": "ch06-l01",
           "title": {
@@ -421,13 +379,6 @@
       },
       "children": [
         {
-          "id": "ch07-pr",
-          "title": {
-            "en-US": "Chapter 7 — Introduction",
-            "la": "Caput 7 — Prooemium"
-          }
-        },
-        {
           "id": "ch07-l01",
           "title": {
             "en-US": "Chapter 7 · Lecture 1",
@@ -464,13 +415,6 @@
         "la": "Caput 8"
       },
       "children": [
-        {
-          "id": "ch08-pr",
-          "title": {
-            "en-US": "Chapter 8 — Introduction",
-            "la": "Caput 8 — Prooemium"
-          }
-        },
         {
           "id": "ch08-l01",
           "title": {
@@ -515,13 +459,6 @@
         "la": "Caput 9"
       },
       "children": [
-        {
-          "id": "ch09-pr",
-          "title": {
-            "en-US": "Chapter 9 — Introduction",
-            "la": "Caput 9 — Prooemium"
-          }
-        },
         {
           "id": "ch09-l01",
           "title": {
@@ -573,13 +510,6 @@
         "la": "Caput 10"
       },
       "children": [
-        {
-          "id": "ch10-pr",
-          "title": {
-            "en-US": "Chapter 10 — Introduction",
-            "la": "Caput 10 — Prooemium"
-          }
-        },
         {
           "id": "ch10-l01",
           "title": {
@@ -646,13 +576,6 @@
       },
       "children": [
         {
-          "id": "ch11-pr",
-          "title": {
-            "en-US": "Chapter 11 — Introduction",
-            "la": "Caput 11 — Prooemium"
-          }
-        },
-        {
           "id": "ch11-l01",
           "title": {
             "en-US": "Chapter 11 · Lecture 1",
@@ -696,13 +619,6 @@
         "la": "Caput 12"
       },
       "children": [
-        {
-          "id": "ch12-pr",
-          "title": {
-            "en-US": "Chapter 12 — Introduction",
-            "la": "Caput 12 — Prooemium"
-          }
-        },
         {
           "id": "ch12-l01",
           "title": {
@@ -762,13 +678,6 @@
       },
       "children": [
         {
-          "id": "ch13-pr",
-          "title": {
-            "en-US": "Chapter 13 — Introduction",
-            "la": "Caput 13 — Prooemium"
-          }
-        },
-        {
           "id": "ch13-l01",
           "title": {
             "en-US": "Chapter 13 · Lecture 1",
@@ -826,13 +735,6 @@
         "la": "Caput 14"
       },
       "children": [
-        {
-          "id": "ch14-pr",
-          "title": {
-            "en-US": "Chapter 14 — Introduction",
-            "la": "Caput 14 — Prooemium"
-          }
-        },
         {
           "id": "ch14-l01",
           "title": {
@@ -927,13 +829,6 @@
       },
       "children": [
         {
-          "id": "ch15-pr",
-          "title": {
-            "en-US": "Chapter 15 — Introduction",
-            "la": "Caput 15 — Prooemium"
-          }
-        },
-        {
           "id": "ch15-l01",
           "title": {
             "en-US": "Chapter 15 · Lecture 1",
@@ -998,13 +893,6 @@
         "la": "Caput 16"
       },
       "children": [
-        {
-          "id": "ch16-pr",
-          "title": {
-            "en-US": "Chapter 16 — Introduction",
-            "la": "Caput 16 — Prooemium"
-          }
-        },
         {
           "id": "ch16-l01",
           "title": {
