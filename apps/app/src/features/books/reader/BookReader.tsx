@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query'
-import { useFocusEffect, useRouter } from 'expo-router'
+import { useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { AppState } from 'react-native'
@@ -274,18 +274,6 @@ export function BookReader({ bookId, chapter }: Props) {
   // Title of the chapter that just hit 0.95; cleared after 2.5s. Drives
   // ChapterCompleteToast.
   const [justCompletedTitle, setJustCompletedTitle] = useState<string | undefined>(undefined)
-  // Flips true the moment the modal starts to dismiss (X tap or focus blur).
-  // The wrapping View sets pointerEvents=none while true so the WebView
-  // can't intercept taps during the AppleZoom reverse animation. See the
-  // useEffect-cleanup comment in FoliateReader for the iOS quirk this works
-  // around.
-  const [closing, setClosing] = useState(false)
-
-  useFocusEffect(
-    useCallback(() => {
-      return () => setClosing(true)
-    }, []),
-  )
   const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => listBookmarks(bookId))
   const bookmarkFractions = useMemo(() => {
     const id = leaves[chapterIndex]?.id
@@ -748,7 +736,7 @@ export function BookReader({ bookId, chapter }: Props) {
   const currentPosition = currentChapterId ? { chapterId: currentChapterId, fraction } : undefined
 
   return (
-    <View flex={1} backgroundColor={config.background} pointerEvents={closing ? 'none' : 'auto'}>
+    <View flex={1} backgroundColor={config.background}>
       <FoliateReader
         ref={foliateRef}
         chapters={chapters}
@@ -777,10 +765,7 @@ export function BookReader({ bookId, chapter }: Props) {
         canGoBack={navStack.length > 0}
         isDark={config.isDark}
         color={config.color}
-        onClose={() => {
-          setClosing(true)
-          router.back()
-        }}
+        onClose={() => router.back()}
         onMenu={() => setSheet('menu')}
         onBack={handleBackNav}
         onScrub={(f) => {
