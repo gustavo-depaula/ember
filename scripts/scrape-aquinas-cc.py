@@ -839,6 +839,17 @@ WORKS_CC: dict[str, WorkSpec] = {
         parts=[{"wid": 72, "did_la": 271, "did_en": 538, "label_en": "Catena Aurea on John", "label_la": "Catena in Iohannem", "rows": 3887}],
         outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
     ),
+    # ------ Round 8b: De Virtutibus Latin-only (no PD English on aquinas.cc) ------
+    "de-virtutibus-cc": WorkSpec(
+        slug="de-virtutibus-cc", sub_path="disputed-questions/de-virtutibus", book_id="aquinas-de-virtutibus",
+        name_en="Disputed Questions on the Virtues", name_la="Quaestiones Disputatae de Virtutibus",
+        composed="1271–1272",
+        description_en="Five disputed questions on the virtues in general, on charity, on fraternal correction, on hope, and on the cardinal virtues — held at Paris during Aquinas's second regency.",
+        description_la="Quinque quaestiones disputatae de virtutibus in communi, de caritate, de correctione fraterna, de spe, et de virtutibus cardinalibus — apud Parisios in regentia secunda Thomae habitae.",
+        en_translator_note="No public-domain English translation is paired on aquinas.cc; Latin only here.",
+        parts=[{"wid": 28, "did_la": 104, "did_en": 0, "label_en": "De Virtutibus", "label_la": "De Virtutibus", "rows": 1827}],
+        outline_shape="question_article",
+    ),
     # ------ Round 8: 18 small opuscula + 1 Latin-only ------
     "de-ente-et-essentia": WorkSpec(
         slug="de-ente-et-essentia", sub_path="opuscula/de-ente-et-essentia", book_id="aquinas-de-ente-et-essentia",
@@ -2664,6 +2675,7 @@ def build_catena_mark(dry_run: bool = False) -> dict:
     toc: list[dict] = []
     chapter_node_for: dict[int, dict] = {}
     total = 0
+    seen_cids: set[str] = set()
     for entry in flat:
         key = entry["key"]
         if key[0] == "ded":
@@ -2684,6 +2696,14 @@ def build_catena_mark(dry_run: bool = False) -> dict:
             cid = f"ch{entry['ch_num']:02d}-l{entry['leaf_num']:02d}"
             en_t = f"Chapter {entry['ch_num']} · Lecture {entry['leaf_num']}"
             la_t = f"Caput {entry['ch_num']} · Lectio {entry['leaf_num']}"
+        # Dedup colliding cids (aquinas.cc emits two "Lecture 6" entries in
+        # Catena Mark chapter 12) by appending a suffix.
+        base_cid = cid
+        suffix_i = ord("b")
+        while cid in seen_cids:
+            cid = f"{base_cid}{chr(suffix_i)}"
+            suffix_i += 1
+        seen_cids.add(cid)
 
         chap = OutlineNode(title=en_t, ref="", position=entry["position"], children=[])
         chap_la = OutlineNode(title=la_t, ref="", position=entry["position"], children=[])
