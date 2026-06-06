@@ -58,6 +58,14 @@ export function bookmarkCursorId(bookId: string, createdAt: number): string {
   return `${bookmarkCursorPrefix(bookId)}${createdAt}`
 }
 
+export function chapterCompletionPrefix(bookId: string): string {
+  return `book/${bookId}/completed/`
+}
+
+export function chapterCompletionId(bookId: string, chapterId: string): string {
+  return `${chapterCompletionPrefix(bookId)}${chapterId}`
+}
+
 // --- Program cursors ---
 
 export type ProgramCursorPosition = {

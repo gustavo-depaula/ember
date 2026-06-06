@@ -1,5 +1,5 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
-import { ChevronDown, ChevronRight } from 'lucide-react-native'
+import { Check, ChevronDown, ChevronRight } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, useWindowDimensions } from 'react-native'
@@ -14,6 +14,8 @@ type Props = {
   onClose: () => void
   toc: TocNode[]
   currentChapterId?: string
+  /** Leaf ids the reader has finished — checkmark in the row. */
+  completedChapterIds?: Set<string>
   onSelect: (chapterId: string) => void
 }
 
@@ -69,7 +71,14 @@ function getItemLayout(_: unknown, index: number) {
   return { length: itemHeight, offset: itemHeight * index, index }
 }
 
-export function ReaderTocSheet({ open, onClose, toc, currentChapterId, onSelect }: Props) {
+export function ReaderTocSheet({
+  open,
+  onClose,
+  toc,
+  currentChapterId,
+  completedChapterIds,
+  onSelect,
+}: Props) {
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
@@ -124,12 +133,13 @@ export function ReaderTocSheet({ open, onClose, toc, currentChapterId, onSelect 
             const isCurrent = node.id === currentChapterId
             const title = localizeContent(node.title)
             if (isLeaf) {
+              const isCompleted = completedChapterIds?.has(node.id) ?? false
               return (
                 <Pressable
                   onPress={() => onSelect(node.id)}
                   accessibilityRole="link"
                   accessibilityLabel={title}
-                  accessibilityState={{ selected: isCurrent }}
+                  accessibilityState={{ selected: isCurrent, checked: isCompleted }}
                 >
                   <XStack
                     height={itemHeight}
@@ -144,9 +154,13 @@ export function ReaderTocSheet({ open, onClose, toc, currentChapterId, onSelect 
                       color={isCurrent ? '$accent' : '$color'}
                       numberOfLines={2}
                       flex={1}
+                      opacity={isCompleted && !isCurrent ? 0.55 : 1}
                     >
                       {title}
                     </Text>
+                    {isCompleted ? (
+                      <Check size={14} color={theme.accent?.val ?? theme.colorSecondary?.val} />
+                    ) : null}
                   </XStack>
                 </Pressable>
               )

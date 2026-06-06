@@ -18,6 +18,7 @@ import {
   type LoadProgress,
   loadBookContent,
 } from './bookContent'
+import { listCompletedChapters, markChapterCompleted } from './chapterCompletions'
 import { FootnoteSheet } from './FootnoteSheet'
 import {
   type FoliateMessage,
@@ -204,8 +205,17 @@ export function BookReader({ bookId, chapter }: Props) {
   const [sheet, setSheet] = useState<SheetKind>(null)
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
   const [navStack, setNavStack] = useState<Array<{ index: number; fraction: number }>>([])
+  // Refresh whenever a relocate triggers a completion write so the TOC sheet
+  // picks up new checkmarks the next time it opens.
+  const [completionRev, setCompletionRev] = useState(0)
+  // biome-ignore lint/correctness/useExhaustiveDependencies(completionRev): used as a manual invalidation key
+  const completed = useMemo(() => listCompletedChapters(bookId), [bookId, completionRev])
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
+  // Per-mount set of chapters we've already marked completed — prevents the
+  // event store from being hammered if the reader pages back and forth across
+  // the 0.95 boundary.
+  const justMarkedRef = useRef<Set<string>>(new Set())
 
   const onMessage = useCallback(
     (msg: FoliateMessage) => {
@@ -218,7 +228,15 @@ export function BookReader({ bookId, chapter }: Props) {
           setFraction(msg.fraction)
           setPagesLeft(Math.max(0, msg.pages - msg.page))
           const chapterId = leaves[msg.index]?.id
-          if (chapterId) cursor.save({ chapterId, fraction: msg.fraction })
+          if (chapterId) {
+            cursor.save({ chapterId, fraction: msg.fraction })
+            if (msg.fraction >= 0.95 && !justMarkedRef.current.has(chapterId)) {
+              justMarkedRef.current.add(chapterId)
+              void markChapterCompleted(bookId, chapterId).then(() =>
+                setCompletionRev((r) => r + 1),
+              )
+            }
+          }
           return
         }
         case 'footnoteTap':
@@ -246,7 +264,7 @@ export function BookReader({ bookId, chapter }: Props) {
         }
       }
     },
-    [leaves, cursor.save, chapterIndex, fraction],
+    [leaves, cursor.save, chapterIndex, fraction, bookId],
   )
 
   const handleBackNav = useCallback(() => {
@@ -341,6 +359,7 @@ export function BookReader({ bookId, chapter }: Props) {
           onClose={() => setSheet(null)}
           toc={bookEntry.toc}
           currentChapterId={currentChapterId}
+          completedChapterIds={completed}
           onSelect={handleSelectChapter}
         />
       )}

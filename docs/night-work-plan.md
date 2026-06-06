@@ -179,3 +179,13 @@ The palette is persisted via a new `readerPalette` preference. `useReaderConfig`
 - New: `ReaderPaletteId` exported type + `setReaderPalette` setter + hydrator clause in `preferencesStore`.
 - New: `palettes` map + `resolvePalette()` + `READER_PALETTE_IDS` in `useReaderConfig.ts`.
 - i18n: `books.paletteLabel` + nested `books.palette.{auto,light,sepia,paper,night,midnight}` in en-US + pt-BR.
+
+### Feature 14 (P2.3): Chapter completion checkmarks ✅
+
+When a relocate event reports `fraction ≥ 0.95`, mark the chapter as completed. Checkmarks appear next to completed leaves in the TOC sheet (gold/secondary color, ~14pt). Completed chapters dim slightly (opacity 0.55) when they're not the current one — a quiet hint that you've already finished without dominating the list.
+
+Storage: `book/{bookId}/completed/{chapterId}` cursors (same event-store pattern as bookmarks). Per-mount `justMarkedRef` set prevents the event store from being hammered if the reader pages back and forth across the 0.95 boundary.
+
+- New cursor-id factories: `chapterCompletionPrefix` + `chapterCompletionId` in `cursors.ts`.
+- New `chapterCompletions.ts`: `markChapterCompleted` + `listCompletedChapters(bookId): Set<string>`.
+- ReaderTocSheet accepts an optional `completedChapterIds: Set<string>` prop and renders a Check icon for matching leaves.
