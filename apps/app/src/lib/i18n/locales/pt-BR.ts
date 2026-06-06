@@ -888,6 +888,8 @@ export default {
     chapterOfTotal: 'Cap\u00edtulo {{chapter}} de {{chapters}}',
     pagesLeftInChapter_one: '1 p\u00e1gina restante no cap\u00edtulo',
     pagesLeftInChapter_other: '{{count}} p\u00e1ginas restantes no cap\u00edtulo',
+    minutesLeft_one: '~1 min',
+    minutesLeft_other: '~{{count}} min',
     footnote: 'Nota de rodap\u00e9',
     backToPrevious: 'Voltar \u00e0 posi\u00e7\u00e3o anterior',
     search: 'Buscar no livro',

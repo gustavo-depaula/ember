@@ -17,6 +17,8 @@ type Props = {
   chapter: number
   chapters: number
   pagesLeft: number
+  /** Rounded minutes left in chapter, derived from recent page-turn pace. */
+  minutesLeft?: number
   chromeShown: boolean
   /** Show a back-arrow pill at top-left when the reader followed a cross-ref. */
   canGoBack: boolean
@@ -32,6 +34,7 @@ export function ReaderOverlay({
   chapter,
   chapters,
   pagesLeft,
+  minutesLeft,
   chromeShown,
   canGoBack,
   isDark,
@@ -154,6 +157,12 @@ export function ReaderOverlay({
                   defaultValue: '{{count}} pages left in chapter',
                   count: pagesLeft,
                 })}
+                {minutesLeft !== undefined
+                  ? ` · ${t('books.minutesLeft', {
+                      defaultValue: '~{{count}} min',
+                      count: minutesLeft,
+                    })}`
+                  : ''}
               </Text>
             ) : null}
           </View>

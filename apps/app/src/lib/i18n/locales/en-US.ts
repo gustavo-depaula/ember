@@ -880,6 +880,8 @@ export default {
     chapterOfTotal: 'Chapter {{chapter}} of {{chapters}}',
     pagesLeftInChapter_one: '1 page left in chapter',
     pagesLeftInChapter_other: '{{count}} pages left in chapter',
+    minutesLeft_one: '~1 min',
+    minutesLeft_other: '~{{count}} min',
     footnote: 'Footnote',
     backToPrevious: 'Back to previous location',
     search: 'Search book',

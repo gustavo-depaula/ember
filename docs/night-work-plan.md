@@ -189,3 +189,11 @@ Storage: `book/{bookId}/completed/{chapterId}` cursors (same event-store pattern
 - New cursor-id factories: `chapterCompletionPrefix` + `chapterCompletionId` in `cursors.ts`.
 - New `chapterCompletions.ts`: `markChapterCompleted` + `listCompletedChapters(bookId): Set<string>`.
 - ReaderTocSheet accepts an optional `completedChapterIds: Set<string>` prop and renders a Check icon for matching leaves.
+
+### Feature 15 (P2.4): Reading speed + ETA ✅
+
+The bottom chrome line now shows "~N min" appended to "N pages left in chapter" once we have ≥4 page turns of data. Estimate is the **median** of recent inter-turn intervals (last 20 turns), with intervals > 5 minutes filtered out so pauses don't pollute the rate.
+
+- New pure `readingPace.ts`: `appendTurn` / `estimateMinutesPerPage(turns): number | undefined`. 5 vitest cases covering empty / median / pause filter / 20-turn cap / appendTurn rolling.
+- BookReader tracks turns in a ref (no re-render on every turn) and stores the latest estimate in state. `minutesLeft = pagesLeft × medianMpp` (rounded, floored at 1 min).
+- i18n: pluralized `books.minutesLeft_one|_other` in en-US + pt-BR.

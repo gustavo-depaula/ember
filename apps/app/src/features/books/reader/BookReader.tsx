@@ -31,6 +31,7 @@ import { ReaderOverlay } from './ReaderOverlay'
 import { ReaderSearchSheet } from './ReaderSearchSheet'
 import { ReaderSettingsSheet } from './ReaderSettingsSheet'
 import { ReaderTocSheet } from './ReaderTocSheet'
+import { appendTurn, estimateMinutesPerPage, type PageTurn } from './readingPace'
 import { useReaderConfig } from './useReaderConfig'
 import { useReaderCursor } from './useReaderCursor'
 
@@ -216,6 +217,8 @@ export function BookReader({ bookId, chapter }: Props) {
   // event store from being hammered if the reader pages back and forth across
   // the 0.95 boundary.
   const justMarkedRef = useRef<Set<string>>(new Set())
+  const turnsRef = useRef<PageTurn[]>([])
+  const [minutesPerPage, setMinutesPerPage] = useState<number | undefined>(undefined)
 
   const onMessage = useCallback(
     (msg: FoliateMessage) => {
@@ -227,6 +230,9 @@ export function BookReader({ bookId, chapter }: Props) {
           setChapterIndex(msg.index)
           setFraction(msg.fraction)
           setPagesLeft(Math.max(0, msg.pages - msg.page))
+          turnsRef.current = appendTurn(turnsRef.current, Date.now())
+          const mpp = estimateMinutesPerPage(turnsRef.current)
+          if (mpp !== undefined) setMinutesPerPage(mpp)
           const chapterId = leaves[msg.index]?.id
           if (chapterId) {
             cursor.save({ chapterId, fraction: msg.fraction })
@@ -335,6 +341,11 @@ export function BookReader({ bookId, chapter }: Props) {
         chapter={chapterIndex + 1}
         chapters={leaves.length}
         pagesLeft={pagesLeft}
+        minutesLeft={
+          minutesPerPage !== undefined && pagesLeft > 0
+            ? Math.max(1, Math.round(pagesLeft * minutesPerPage))
+            : undefined
+        }
         chromeShown={chromeShown}
         canGoBack={navStack.length > 0}
         isDark={config.isDark}
