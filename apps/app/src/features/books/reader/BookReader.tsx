@@ -24,6 +24,7 @@ import {
   FoliateReader,
   type FoliateReaderHandle,
 } from './foliate/FoliateReader'
+import { ReaderBookmarksSheet } from './ReaderBookmarksSheet'
 import { ReaderMenuSheet } from './ReaderMenuSheet'
 import { ReaderOverlay } from './ReaderOverlay'
 import { ReaderSearchSheet } from './ReaderSearchSheet'
@@ -203,6 +204,7 @@ export function BookReader({ bookId, chapter }: Props) {
   const [tocOpen, setTocOpen] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [searchOpen, setSearchOpen] = useState(false)
+  const [bookmarksOpen, setBookmarksOpen] = useState(false)
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
   const [navStack, setNavStack] = useState<Array<{ index: number; fraction: number }>>([])
 
@@ -341,6 +343,10 @@ export function BookReader({ bookId, chapter }: Props) {
           setMenuOpen(false)
           setSearchOpen(true)
         }}
+        onBookmarks={() => {
+          setMenuOpen(false)
+          setBookmarksOpen(true)
+        }}
         onSettings={() => {
           setMenuOpen(false)
           setSettingsOpen(true)
@@ -366,6 +372,21 @@ export function BookReader({ bookId, chapter }: Props) {
         leaves={leaves}
         titleLookup={titleLookup}
         onSelect={(idx) => foliateRef.current?.goTo(idx, 0)}
+      />
+
+      <ReaderBookmarksSheet
+        open={bookmarksOpen}
+        onClose={() => setBookmarksOpen(false)}
+        bookId={bookId}
+        currentPosition={
+          currentChapterId
+            ? { chapterId: currentChapterId, fraction: lastPosRef.current.fraction }
+            : undefined
+        }
+        currentChapterTitle={currentChapterId ? titleLookup.get(currentChapterId) : undefined}
+        leaves={leaves}
+        titleLookup={titleLookup}
+        onSelect={(idx, fraction) => foliateRef.current?.goTo(idx, fraction)}
       />
 
       <FootnoteSheet content={footnoteHtml} onClose={() => setFootnoteHtml(undefined)} />

@@ -108,3 +108,12 @@ Pure search over the already-loaded chapter bodies. Menu sheet now has three row
 - Local `useDebounced` hook to avoid re-searching on every keystroke.
 - i18n: `books.search` / `searchPlaceholder` / `searchNoResults` / `searchResultsCount_one|_other`.
 - Limitation: jumps to top of chapter (fraction 0), not the exact match position. Foliate doesn't expose a "search within section" API, so precise positioning would mean injecting a `<mark>` or running a foliate-internal scrollToTextRange. Phase 2.
+
+### Feature 7: Bookmarks ✅
+
+Storage piggy-backs on the existing `cursors` event store — no DB migration needed. Each bookmark is a cursor at `book/{bookId}/bookmark/{ts}` with JSON `{chapterId, fraction, createdAt, label?}`. The "delete" path is soft (overwrite with empty payload, list filters out `!chapterId` entries) because the events log is append-only.
+
+- New: `bookmarks.ts` (addBookmark / listBookmarks / removeBookmark) + `ReaderBookmarksSheet.tsx`.
+- Menu sheet now has four rows: Contents, Bookmarks, Search, Themes & Settings (sheet height bumped to 48%).
+- The bookmark sheet has an "Add bookmark this page" action at top + a list of saved bookmarks (most recent first) with chapter title, relative timestamp, and a trash icon for soft-delete. Tap → restore `{index, fraction}` via foliate.goTo.
+- i18n: `books.bookmarks` / `addBookmark` / `removeBookmark` / `noBookmarks` in en-US + pt-BR.
