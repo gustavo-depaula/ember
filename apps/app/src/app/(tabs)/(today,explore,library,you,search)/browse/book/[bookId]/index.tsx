@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query'
 import { type Href, useLocalSearchParams } from 'expo-router'
-import { ChevronRight } from 'lucide-react-native'
+import { Check, ChevronRight } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -15,6 +15,7 @@ import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
 import { flattenTocLeaves } from '@/features/books/reader/bookContent'
+import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
 import { PrologueProse } from '@/features/collections'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
@@ -80,6 +81,7 @@ export default function BookDetailScreen() {
   const position = cursor ? parseReaderPosition(cursor.position) : undefined
   const resumeChapterId = position?.chapterId
   const ctaLabel = resumeChapterId ? t('book.continue') : t('book.startReading')
+  const completed = bookId ? listCompletedChapters(bookId) : new Set<string>()
 
   const currentLeafIndex = position ? leaves.findIndex((l) => l.id === position.chapterId) : -1
   const progressFraction =
@@ -150,6 +152,7 @@ export default function BookDetailScreen() {
               toc={book.toc}
               lang={lang}
               currentChapterId={resumeChapterId}
+              completed={completed}
               buildHref={readerHref}
             />
           )}
@@ -170,11 +173,13 @@ function Contents({
   toc,
   lang,
   currentChapterId,
+  completed,
   buildHref,
 }: {
   toc: TocNode[]
   lang: string
   currentChapterId?: string
+  completed: Set<string>
   buildHref: (chapterId: string) => Href
 }) {
   const { t } = useTranslation()
@@ -195,6 +200,7 @@ function Contents({
             lang={lang}
             depth={0}
             currentChapterId={currentChapterId}
+            completed={completed}
             buildHref={buildHref}
           />
         ))}
@@ -208,19 +214,20 @@ function TocNodeRow({
   lang,
   depth,
   currentChapterId,
+  completed,
   buildHref,
 }: {
   node: TocNode
   lang: string
   depth: number
   currentChapterId?: string
+  completed: Set<string>
   buildHref: (chapterId: string) => Href
 }) {
   const theme = useTheme()
   const title =
     (node.title as Record<string, string>)[lang] ?? Object.values(node.title)[0] ?? node.id
 
-  // A section (has children): a quiet tracked label, then its leaves indented.
   if (node.children?.length) {
     return (
       <YStack gap="$xs" paddingTop="$sm">
@@ -234,6 +241,7 @@ function TocNodeRow({
             lang={lang}
             depth={depth + 1}
             currentChapterId={currentChapterId}
+            completed={completed}
             buildHref={buildHref}
           />
         ))}
@@ -241,8 +249,8 @@ function TocNodeRow({
     )
   }
 
-  // The chapter the reader left off on reads in gold — the resume marker.
   const isCurrent = !!currentChapterId && node.id === currentChapterId
+  const isCompleted = completed.has(node.id)
 
   return (
     <ZoomLink href={buildHref(node.id)}>
@@ -261,9 +269,13 @@ function TocNodeRow({
             flex={1}
             numberOfLines={2}
             color={isCurrent ? '$accent' : '$color'}
+            opacity={isCompleted && !isCurrent ? 0.6 : 1}
           >
             {title}
           </Typography>
+          {isCompleted ? (
+            <Check size={14} color={theme.accent?.val ?? theme.colorSecondary?.val} />
+          ) : null}
           <ChevronRight
             size={16}
             color={isCurrent ? theme.accent?.val : theme.colorSecondary?.val}
