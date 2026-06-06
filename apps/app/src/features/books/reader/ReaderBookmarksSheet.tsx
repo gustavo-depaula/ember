@@ -1,25 +1,23 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
 import { Bookmark as BookmarkIcon, Trash2 } from 'lucide-react-native'
-import { useCallback, useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { lightTap, successBuzz } from '@/lib/haptics'
 import { formatSoftRelative } from '@/lib/softRelative'
 import type { TocLeaf } from './bookContent'
-import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
-import type { ReaderPosition } from './useReaderCursor'
+import type { Bookmark } from './bookmarks'
 
 type Props = {
   open: boolean
   onClose: () => void
-  bookId: string
-  /** Live current location, used by the "Add bookmark" action. */
-  currentPosition: ReaderPosition | undefined
-  /** Title of the current chapter, cached on the bookmark. */
-  currentChapterTitle: string | undefined
+  /** Full bookmark list (sorted newest-first); owner re-fetches after each mutation. */
+  bookmarks: Bookmark[]
+  /** Whether the "Add bookmark this page" CTA should be enabled — i.e. we know the cursor. */
+  canAdd: boolean
+  onAdd: () => void
+  onRemove: (cursorId: string) => void
   leaves: TocLeaf[]
   titleLookup: Map<string, string>
   onSelect: (chapterIndex: number, fraction: number) => void
@@ -30,9 +28,10 @@ const sheetFraction = 0.85
 export function ReaderBookmarksSheet({
   open,
   onClose,
-  bookId,
-  currentPosition,
-  currentChapterTitle,
+  bookmarks,
+  canAdd,
+  onAdd,
+  onRemove,
   leaves,
   titleLookup,
   onSelect,
@@ -41,29 +40,6 @@ export function ReaderBookmarksSheet({
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const { height } = useWindowDimensions()
-
-  const [bookmarks, setBookmarks] = useState<Bookmark[]>([])
-
-  const refresh = useCallback(() => {
-    setBookmarks(listBookmarks(bookId))
-  }, [bookId])
-
-  useEffect(() => {
-    if (open) refresh()
-  }, [open, refresh])
-
-  const handleAdd = async () => {
-    if (!currentPosition) return
-    await addBookmark(bookId, currentPosition, currentChapterTitle)
-    void successBuzz()
-    refresh()
-  }
-
-  const handleRemove = async (cursorId: string) => {
-    await removeBookmark(cursorId)
-    void lightTap()
-    refresh()
-  }
 
   return (
     <BottomSheet
@@ -84,8 +60,8 @@ export function ReaderBookmarksSheet({
             {t('books.bookmarks', { defaultValue: 'Bookmarks' })}
           </Text>
           <Pressable
-            onPress={handleAdd}
-            disabled={!currentPosition}
+            onPress={onAdd}
+            disabled={!canAdd}
             accessibilityRole="button"
             accessibilityLabel={t('books.addBookmark', {
               defaultValue: 'Bookmark this page',
@@ -97,18 +73,11 @@ export function ReaderBookmarksSheet({
               paddingVertical="$xs"
               paddingHorizontal="$sm"
               borderRadius="$md"
-              backgroundColor={currentPosition ? '$accent' : '$backgroundSurface'}
-              opacity={currentPosition ? 1 : 0.4}
+              backgroundColor={canAdd ? '$accent' : '$backgroundSurface'}
+              opacity={canAdd ? 1 : 0.4}
             >
-              <BookmarkIcon
-                size={16}
-                color={currentPosition ? theme.background?.val : theme.color?.val}
-              />
-              <Text
-                fontFamily="$heading"
-                fontSize="$1"
-                color={currentPosition ? '$background' : '$color'}
-              >
+              <BookmarkIcon size={16} color={canAdd ? theme.background?.val : theme.color?.val} />
+              <Text fontFamily="$heading" fontSize="$1" color={canAdd ? '$background' : '$color'}>
                 {t('books.addBookmark', { defaultValue: 'Bookmark this page' })}
               </Text>
             </XStack>
@@ -163,7 +132,7 @@ export function ReaderBookmarksSheet({
                     </YStack>
                   </Pressable>
                   <Pressable
-                    onPress={() => handleRemove(item.cursorId)}
+                    onPress={() => onRemove(item.cursorId)}
                     hitSlop={8}
                     accessibilityRole="button"
                     accessibilityLabel={t('books.removeBookmark', {

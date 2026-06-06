@@ -21,7 +21,7 @@ import {
   type LoadProgress,
   loadBookContent,
 } from './bookContent'
-import { listBookmarks } from './bookmarks'
+import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
   clearBookPaletteOverride,
   getBookPaletteOverride,
@@ -273,17 +273,12 @@ export function BookReader({ bookId, chapter }: Props) {
       return () => setClosing(true)
     }, []),
   )
-  // Bumped after the bookmarks sheet closes (and on add via successBuzz) so
-  // the bookmark-ticks memo re-pulls fresh fractions for the scrubber.
-  const [bookmarksVersion, setBookmarksVersion] = useState(0)
+  const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => listBookmarks(bookId))
   const bookmarkFractions = useMemo(() => {
-    void bookmarksVersion
     const id = leaves[chapterIndex]?.id
     if (!id) return undefined
-    return listBookmarks(bookId)
-      .filter((b) => b.chapterId === id)
-      .map((b) => b.fraction)
-  }, [bookId, leaves, chapterIndex, bookmarksVersion])
+    return bookmarks.filter((b) => b.chapterId === id).map((b) => b.fraction)
+  }, [bookmarks, leaves, chapterIndex])
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
   // Per-mount set of chapters we've already marked completed — prevents the
@@ -439,6 +434,23 @@ export function BookReader({ bookId, chapter }: Props) {
     [leaves],
   )
 
+  const currentChapterId = leaves[chapterIndex]?.id
+  const currentChapterTitle = currentChapterId ? titleLookup.get(currentChapterId) : undefined
+  const handleAddBookmark = useCallback(async () => {
+    if (!currentChapterId) return
+    await addBookmark(bookId, { chapterId: currentChapterId, fraction }, currentChapterTitle)
+    setBookmarks(listBookmarks(bookId))
+    void successBuzz()
+  }, [bookId, currentChapterId, currentChapterTitle, fraction])
+  const handleRemoveBookmark = useCallback(
+    async (cursorId: string) => {
+      await removeBookmark(cursorId)
+      setBookmarks(listBookmarks(bookId))
+      void lightTap()
+    },
+    [bookId],
+  )
+
   if (!bookEntry) {
     return (
       <YStack flex={1} backgroundColor="$background" padding="$lg" paddingTop={insets.top + 24}>
@@ -470,7 +482,6 @@ export function BookReader({ bookId, chapter }: Props) {
     )
   }
 
-  const currentChapterId = leaves[chapterIndex]?.id
   const currentPosition = currentChapterId ? { chapterId: currentChapterId, fraction } : undefined
 
   return (
@@ -570,13 +581,11 @@ export function BookReader({ bookId, chapter }: Props) {
 
       <ReaderBookmarksSheet
         open={sheet === 'bookmarks'}
-        onClose={() => {
-          setSheet(null)
-          setBookmarksVersion((v) => v + 1)
-        }}
-        bookId={bookId}
-        currentPosition={currentPosition}
-        currentChapterTitle={currentChapterId ? titleLookup.get(currentChapterId) : undefined}
+        onClose={() => setSheet(null)}
+        bookmarks={bookmarks}
+        canAdd={!!currentPosition}
+        onAdd={handleAddBookmark}
+        onRemove={handleRemoveBookmark}
         leaves={leaves}
         titleLookup={titleLookup}
         onSelect={(idx, frac) => foliateRef.current?.goTo(idx, frac)}
