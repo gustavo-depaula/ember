@@ -217,3 +217,11 @@ Aquinas Opera Omnia has a 3-level TOC (work → question → article); navigatin
 
 - New helpers in `ReaderTocSheet.tsx`: `collectAllSectionIds`, `hasNestedSections`.
 - i18n: `books.expandAll`, `books.collapseAll`.
+
+### Feature 20 (P2.9): Chapter time estimates in TOC ✅
+
+Each leaf row in the TOC sheet now shows a small "5 min" annotation, derived from a 200 wpm read rate over the stripped chapter text. Computed once when chapters load (memoised by `[chapters, leaves]`).
+
+- New: `chapterTimings.ts` — `estimateChapterTiming(html)` + `buildChapterTimings(bodies, ids): Map<chapterId, {words, minutes}>`. Uses the shared `stripHtml` lib helper.
+- `ReaderTocSheet` accepts `chapterTimings?: Map<string, ChapterTiming>` and renders the minutes beside the chapter title (between title and the completion check icon).
+- No new i18n key needed — `"5 min"` is universal enough.

@@ -8,6 +8,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import type { TocNode } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
+import type { ChapterTiming } from './chapterTimings'
 
 type Props = {
   open: boolean
@@ -16,6 +17,8 @@ type Props = {
   currentChapterId?: string
   /** Leaf ids the reader has finished — checkmark in the row. */
   completedChapterIds?: Set<string>
+  /** chapterId → estimated word count + minutes; renders as "5 min" beside the row. */
+  chapterTimings?: Map<string, ChapterTiming>
   onSelect: (chapterId: string) => void
 }
 
@@ -95,6 +98,7 @@ export function ReaderTocSheet({
   toc,
   currentChapterId,
   completedChapterIds,
+  chapterTimings,
   onSelect,
 }: Props) {
   const { t } = useTranslation()
@@ -172,6 +176,7 @@ export function ReaderTocSheet({
             const title = localizeContent(node.title)
             if (isLeaf) {
               const isCompleted = completedChapterIds?.has(node.id) ?? false
+              const timing = chapterTimings?.get(node.id)
               return (
                 <Pressable
                   onPress={() => onSelect(node.id)}
@@ -182,6 +187,7 @@ export function ReaderTocSheet({
                   <XStack
                     height={itemHeight}
                     alignItems="center"
+                    gap="$sm"
                     paddingHorizontal="$lg"
                     paddingLeft={24 + depth * 16}
                     backgroundColor={isCurrent ? '$accentSubtle' : 'transparent'}
@@ -196,6 +202,11 @@ export function ReaderTocSheet({
                     >
                       {title}
                     </Text>
+                    {timing && timing.minutes > 0 ? (
+                      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                        {`${timing.minutes} min`}
+                      </Text>
+                    ) : null}
                     {isCompleted ? (
                       <Check size={14} color={theme.accent?.val ?? theme.colorSecondary?.val} />
                     ) : null}

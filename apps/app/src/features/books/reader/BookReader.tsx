@@ -19,6 +19,7 @@ import {
   loadBookContent,
 } from './bookContent'
 import { listCompletedChapters, markChapterCompleted } from './chapterCompletions'
+import { buildChapterTimings } from './chapterTimings'
 import { FootnoteSheet } from './FootnoteSheet'
 import {
   type FoliateMessage,
@@ -199,6 +200,15 @@ export function BookReader({ bookId, chapter }: Props) {
     return leaves.map((l) => getChapterBody(bookContent, l.id, titleLookup.get(l.id)))
   }, [bookContent, leaves, titleLookup])
 
+  const chapterTimings = useMemo(
+    () =>
+      buildChapterTimings(
+        chapters,
+        leaves.map((l) => l.id),
+      ),
+    [chapters, leaves],
+  )
+
   const [chapterIndex, setChapterIndex] = useState(0)
   const [fraction, setFraction] = useState(0)
   const [pagesLeft, setPagesLeft] = useState(0)
@@ -367,6 +377,7 @@ export function BookReader({ bookId, chapter }: Props) {
           toc={bookEntry.toc}
           currentChapterId={currentChapterId}
           completedChapterIds={completed}
+          chapterTimings={chapterTimings}
           onSelect={handleSelectChapter}
         />
       )}
