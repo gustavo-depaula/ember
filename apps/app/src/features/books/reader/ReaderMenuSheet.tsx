@@ -1,5 +1,5 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
-import { Bookmark, ChevronRight, List, Search, Type } from 'lucide-react-native'
+import { Bookmark, ChevronRight, Highlighter, List, Search, Type } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -12,12 +12,13 @@ type Props = {
   onContents?: () => void
   onSearch: () => void
   onBookmarks: () => void
+  onHighlights: () => void
   onSettings: () => void
 }
 
 // Fixed snap point. Without one the native sheet measures content height
 // after mount and re-animates, producing a visible double-snap on iOS.
-const sheetFraction = 0.48
+const sheetFraction = 0.55
 
 export function ReaderMenuSheet({
   open,
@@ -25,6 +26,7 @@ export function ReaderMenuSheet({
   onContents,
   onSearch,
   onBookmarks,
+  onHighlights,
   onSettings,
 }: Props) {
   const { t } = useTranslation()
@@ -58,6 +60,11 @@ export function ReaderMenuSheet({
           icon={<Bookmark size={22} color={theme.color?.val} />}
           label={t('books.bookmarks', { defaultValue: 'Bookmarks' })}
           onPress={onBookmarks}
+        />
+        <MenuRow
+          icon={<Highlighter size={22} color={theme.color?.val} />}
+          label={t('books.highlights', { defaultValue: 'Highlights & Notes' })}
+          onPress={onHighlights}
         />
         <MenuRow
           icon={<Search size={22} color={theme.color?.val} />}

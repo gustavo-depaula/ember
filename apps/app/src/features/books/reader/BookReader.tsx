@@ -11,6 +11,7 @@ import { ReaderErrorState } from '@/components/ReaderErrorState'
 import { type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
 import { getBookEntry } from '@/content/resolver'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
+import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -36,7 +37,7 @@ import {
   FoliateReader,
   type FoliateReaderHandle,
 } from './foliate/FoliateReader'
-import { paintColorFor } from './highlightColors'
+import { HIGHLIGHT_COLORS, paintColorFor } from './highlightColors'
 import {
   addHighlight as addHighlightToStore,
   type Highlight,
@@ -46,6 +47,7 @@ import {
   updateHighlight as updateHighlightInStore,
 } from './highlights'
 import { ReaderBookmarksSheet } from './ReaderBookmarksSheet'
+import { ReaderHighlightsSheet } from './ReaderHighlightsSheet'
 import { ReaderMenuSheet } from './ReaderMenuSheet'
 import { ReaderNoteEditor } from './ReaderNoteEditor'
 import { ReaderOverlay } from './ReaderOverlay'
@@ -66,7 +68,7 @@ type Props = {
   chapter?: string
 }
 
-type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | null
+type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | 'highlights' | null
 
 const BAR_WIDTH = 220
 
@@ -293,6 +295,24 @@ export function BookReader({ bookId, chapter }: Props) {
 
   const [highlights, setHighlights] = useState<Highlight[]>(() => listHighlights(bookId))
   const [foliateReady, setFoliateReady] = useState(false)
+  // The scrubber dots are derived from highlight `anchor.startOffset` divided
+  // by the chapter's plain-text length. Foliate's column-flow doesn't expose a
+  // direct offset→page mapping in RN, but the linear approximation is plenty
+  // accurate for a 5pt dot on a 200pt scrubber. Bounded by `bookContent`
+  // having loaded.
+  const highlightMarkers = useMemo(() => {
+    const id = leaves[chapterIndex]?.id
+    if (!id || !bookContent) return undefined
+    const body = getChapterBody(bookContent, id, titleLookup.get(id))
+    const total = stripHtml(body).length
+    if (total === 0) return undefined
+    return highlights
+      .filter((h) => h.chapterId === id)
+      .map((h) => ({
+        fraction: Math.max(0, Math.min(1, h.anchor.startOffset / total)),
+        color: HIGHLIGHT_COLORS[h.color].swatch,
+      }))
+  }, [highlights, leaves, chapterIndex, bookContent, titleLookup])
   // Anchored toolbar state. `editingHighlightId` is undefined for a fresh
   // selection (the user just dragged text) and set when the user tapped an
   // existing highlight rectangle — the toolbar shows the trash action in that
@@ -749,6 +769,7 @@ export function BookReader({ bookId, chapter }: Props) {
         pages={chapterPages}
         page={Math.max(1, chapterPages - pagesLeft)}
         bookmarkFractions={bookmarkFractions}
+        highlightMarkers={highlightMarkers}
         chromeShown={chromeShown}
         canGoBack={navStack.length > 0}
         isDark={config.isDark}
@@ -777,7 +798,22 @@ export function BookReader({ bookId, chapter }: Props) {
         onContents={bookEntry.toc && bookEntry.toc.length > 0 ? () => setSheet('toc') : undefined}
         onSearch={() => setSheet('search')}
         onBookmarks={() => setSheet('bookmarks')}
+        onHighlights={() => setSheet('highlights')}
         onSettings={() => setSheet('settings')}
+      />
+
+      <ReaderHighlightsSheet
+        open={sheet === 'highlights'}
+        onClose={() => setSheet(null)}
+        highlights={highlights}
+        leaves={leaves}
+        titleLookup={titleLookup}
+        onSelect={(highlight, idx) => foliateRef.current?.goToWithFind(idx, highlight.text)}
+        onRemove={async (cursorId) => {
+          foliateRef.current?.removeHighlight(cursorId)
+          await removeHighlightFromStore(cursorId)
+          setHighlights(listHighlights(bookId))
+        }}
       />
 
       {bookEntry.toc && (

@@ -18,6 +18,7 @@ const THUMB_SIZE = 14
 const TRACK_HEIGHT = 3
 const TICK_WIDTH = 2
 const TICK_HEIGHT = 10
+const DOT_SIZE = 5
 const SIDE_PADDING = 14
 
 type Props = {
@@ -31,6 +32,8 @@ type Props = {
   isDark: boolean
   /** Bookmark fractions in the current chapter; rendered as ticks on the track. */
   bookmarkFractions?: number[]
+  /** Highlight markers in the current chapter; rendered as colored dots. */
+  highlightMarkers?: { fraction: number; color: string }[]
   onScrub: (fraction: number) => void
   onScrubEnd: (fraction: number) => void
 }
@@ -42,6 +45,7 @@ export function ChapterScrubber({
   color,
   isDark,
   bookmarkFractions,
+  highlightMarkers,
   onScrub,
   onScrubEnd,
 }: Props) {
@@ -126,7 +130,7 @@ export function ChapterScrubber({
           />
           {bookmarkFractions?.map((f) => (
             <View
-              key={f}
+              key={`bm-${f}`}
               pointerEvents="none"
               style={[
                 styles.tick,
@@ -134,6 +138,23 @@ export function ChapterScrubber({
                   left: Math.max(0, Math.min(trackWidth - 2, f * trackWidth - 1)),
                   backgroundColor: color,
                   top: PILL_HEIGHT / 2 - TICK_HEIGHT / 2,
+                },
+              ]}
+            />
+          ))}
+          {highlightMarkers?.map((m) => (
+            <View
+              key={`hl-${m.fraction}-${m.color}`}
+              pointerEvents="none"
+              style={[
+                styles.dot,
+                {
+                  left: Math.max(
+                    0,
+                    Math.min(trackWidth - DOT_SIZE, m.fraction * trackWidth - DOT_SIZE / 2),
+                  ),
+                  backgroundColor: m.color,
+                  top: PILL_HEIGHT / 2 - DOT_SIZE / 2 - TICK_HEIGHT - 2,
                 },
               ]}
             />
@@ -206,6 +227,12 @@ const styles = StyleSheet.create({
     height: TICK_HEIGHT,
     borderRadius: 1,
     opacity: 0.65,
+  },
+  dot: {
+    position: 'absolute',
+    width: DOT_SIZE,
+    height: DOT_SIZE,
+    borderRadius: DOT_SIZE / 2,
   },
   label: {
     minWidth: 56,

@@ -28,6 +28,8 @@ type Props = {
   page: number
   /** Bookmark fractions in the current chapter — surfaced as ticks on the scrubber. */
   bookmarkFractions?: number[]
+  /** Highlight markers in the current chapter — colored dots on the scrubber. */
+  highlightMarkers?: { fraction: number; color: string }[]
   chromeShown: boolean
   /** Show a back-arrow pill at top-left when the reader followed a cross-ref. */
   canGoBack: boolean
@@ -52,6 +54,7 @@ export function ReaderOverlay({
   pages,
   page,
   bookmarkFractions,
+  highlightMarkers,
   chromeShown,
   canGoBack,
   isDark,
@@ -148,6 +151,7 @@ export function ReaderOverlay({
               color={color}
               isDark={isDark}
               bookmarkFractions={bookmarkFractions}
+              highlightMarkers={highlightMarkers}
               onScrub={onScrub}
               onScrubEnd={onScrubEnd}
             />
