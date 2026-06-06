@@ -81,3 +81,11 @@ Added a secondary line below "Chapter X of Y" reading "N pages left in chapter" 
 ### Feature 3: Cross-chapter transition fade ✅
 
 Foliate swaps the iframe element when crossing chapter boundaries, which previously read as a hard snap. The `load` event handler in the bootstrap now sets the new iframe's `documentElement.opacity = 0` and animates to 1 over 200ms — soft reveal that matches the AppleZoom morph's settling feel. No effect within a chapter (no iframe swap).
+
+### Feature 4: Footnote popovers ✅
+
+Anchor clicks (`<a href="#footnote-N">`) inside the iframe no longer try to scroll the foliate paginator to the footnote section (which would either fail or look broken in multi-column layout). Instead the bootstrap intercepts intra-chapter fragment links, resolves the target element, strips the marked-footnote back-arrow, and posts `{type: 'footnoteTap', html}` to RN. BookReader opens a small BottomSheet showing the footnote text (HTML stripped to plain text — full HTML rendering would mean shipping react-native-render-html just for this one surface, deferred).
+
+Plain-text stripping handles `<br>`, paragraph breaks (`</p><p>` → `\n\n`), and common HTML entities. Multi-paragraph footnotes preserve their paragraph breaks. Rich inline formatting (italic, citations) is flattened to plain text.
+
+New file: `apps/app/src/features/books/reader/FootnoteSheet.tsx`. New i18n keys: `books.footnote`.

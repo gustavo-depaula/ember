@@ -880,6 +880,7 @@ export default {
     chapterOfTotal: 'Chapter {{chapter}} of {{chapters}}',
     pagesLeftInChapter_one: '1 page left in chapter',
     pagesLeftInChapter_other: '{{count}} pages left in chapter',
+    footnote: 'Footnote',
     opening: 'Opening…',
     loadingManifest: 'Loading book…',
     loadingChapters: 'Loading chapters ({{done}} of {{total}})',

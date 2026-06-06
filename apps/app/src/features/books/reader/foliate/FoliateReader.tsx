@@ -17,6 +17,7 @@ export type FoliateMessage =
   | { type: 'relocate'; index: number; fraction: number; page: number; pages: number }
   | { type: 'load'; index: number }
   | { type: 'centerTap' }
+  | { type: 'footnoteTap'; html: string }
   | { type: 'log'; message: string }
   | { type: 'error'; message: string }
 
@@ -262,6 +263,28 @@ function buildHostHtml({
           if (doc && !doc.__tapWired) {
             doc.__tapWired = true;
             doc.addEventListener('click', (ev) => {
+              // Anchor click — intra-chapter fragment links (footnotes,
+              // glossary refs) open in a popover so the reader stays put.
+              const a = ev.target && ev.target.closest && ev.target.closest('a');
+              if (a) {
+                const href = a.getAttribute('href') || '';
+                if (href.startsWith('#')) {
+                  const target = doc.getElementById(href.slice(1));
+                  if (target) {
+                    ev.preventDefault();
+                    ev.stopImmediatePropagation();
+                    // marked-footnote inserts a back-arrow link inside each
+                    // footnote — strip it from the popover content.
+                    const html = target.innerHTML
+                      .replace(/<a[^>]*class="footnote-backref"[^>]*>[\\s\\S]*?<\\/a>/g, '')
+                      .trim();
+                    post({ type: 'footnoteTap', html: html });
+                  }
+                }
+                return;
+              }
+              // Page-region tap: left 30% = prev, right 30% = next, middle =
+              // chrome toggle.
               const frame = doc.defaultView.frameElement;
               if (!frame) return;
               const onScreenX = frame.getBoundingClientRect().left + ev.clientX;

@@ -18,6 +18,7 @@ import {
   type LoadProgress,
   loadBookContent,
 } from './bookContent'
+import { FootnoteSheet } from './FootnoteSheet'
 import {
   type FoliateMessage,
   FoliateReader,
@@ -200,6 +201,7 @@ export function BookReader({ bookId, chapter }: Props) {
   const [menuOpen, setMenuOpen] = useState(false)
   const [tocOpen, setTocOpen] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
+  const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
 
@@ -214,6 +216,9 @@ export function BookReader({ bookId, chapter }: Props) {
         setPagesLeft(Math.max(0, msg.pages - msg.page))
         const chapterId = leaves[msg.index]?.id
         if (chapterId) cursor.save({ chapterId, fraction: msg.fraction })
+      }
+      if (msg.type === 'footnoteTap') {
+        setFootnoteHtml(msg.html)
       }
     },
     [leaves, cursor.save],
@@ -312,6 +317,8 @@ export function BookReader({ bookId, chapter }: Props) {
       )}
 
       <ReaderSettingsSheet open={settingsOpen} onClose={() => setSettingsOpen(false)} />
+
+      <FootnoteSheet content={footnoteHtml} onClose={() => setFootnoteHtml(undefined)} />
     </View>
   )
 }
