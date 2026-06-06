@@ -269,6 +269,10 @@ function buildHostHtml({
           -webkit-hyphenate-limit-before: 3;
           -webkit-hyphenate-limit-after: 3;
           overflow-wrap: break-word;
+          /* Suppress the iOS native Copy / Look Up / Share callout on text
+             selection; our floating toolbar replaces it. Text selection
+             itself stays enabled. */
+          -webkit-touch-callout: none;
         }
         a { color: inherit; }
         p { margin: 0 0 .85em; }
@@ -373,22 +377,34 @@ function buildHostHtml({
           this.element.style.height = '100%';
           this.element.style.pointerEvents = 'none';
         }
+        // The iframe's offset within the host viewport. `range.getClientRects()`
+        // returns iframe-viewport-relative rects; the SVG is in the HOST doc
+        // (foliate appends it to the view container), so we translate to the
+        // SVG's local coords via `iframe_offset + rect - svg_offset`.
+        _offsets() {
+          const iframe = this.doc.defaultView && this.doc.defaultView.frameElement;
+          const iframeRect = iframe ? iframe.getBoundingClientRect() : { left: 0, top: 0 };
+          const svgRect = this.element.getBoundingClientRect();
+          return {
+            dx: iframeRect.left - svgRect.x,
+            dy: iframeRect.top - svgRect.y,
+          };
+        }
         redraw() {
           while (this.element.firstChild) this.element.removeChild(this.element.firstChild);
           const map = highlightsByChapter.get(this.index);
           if (!map || !map.size) return;
-          const svgRect = this.element.getBoundingClientRect();
-          for (const [id, hl] of map) this._paint(id, hl, svgRect);
+          const off = this._offsets();
+          for (const [id, hl] of map) this._paint(id, hl, off);
         }
         addOne(id, hl) {
-          const svgRect = this.element.getBoundingClientRect();
-          this._paint(id, hl, svgRect);
+          this._paint(id, hl, this._offsets());
         }
         removeOne(id) {
           const nodes = this.element.querySelectorAll('[data-hl-id="' + id + '"]');
           for (let i = 0; i < nodes.length; i++) nodes[i].remove();
         }
-        _paint(id, hl, svgRect) {
+        _paint(id, hl, off) {
           const range = resolveAnchor(this.doc, hl.anchor);
           if (!range) return;
           const svgNs = 'http://www.w3.org/2000/svg';
@@ -399,8 +415,8 @@ function buildHostHtml({
           if (hl.hasNote && rects.length > 0) {
             const first = rects[0];
             const dot = this.doc.createElementNS(svgNs, 'circle');
-            dot.setAttribute('cx', String(first.x - svgRect.x - 6));
-            dot.setAttribute('cy', String(first.y - svgRect.y + first.height / 2));
+            dot.setAttribute('cx', String(first.x + off.dx - 6));
+            dot.setAttribute('cy', String(first.y + off.dy + first.height / 2));
             dot.setAttribute('r', '4');
             dot.setAttribute('fill', hl.color);
             dot.setAttribute('opacity', '1');
@@ -409,8 +425,8 @@ function buildHostHtml({
           }
           for (let i = 0; i < rects.length; i++) {
             const r = rects[i];
-            const x = r.x - svgRect.x;
-            const y = r.y - svgRect.y;
+            const x = r.x + off.dx;
+            const y = r.y + off.dy;
             const rect = this.doc.createElementNS(svgNs, 'rect');
             rect.setAttribute('x', String(x));
             rect.setAttribute('y', String(y));
