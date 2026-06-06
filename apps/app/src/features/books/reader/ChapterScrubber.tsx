@@ -33,7 +33,7 @@ type Props = {
   /** Bookmark fractions in the current chapter; rendered as ticks on the track. */
   bookmarkFractions?: number[]
   /** Highlight markers in the current chapter; rendered as colored dots. */
-  highlightMarkers?: { fraction: number; color: string }[]
+  highlightMarkers?: { id: string; fraction: number; color: string }[]
   onScrub: (fraction: number) => void
   onScrubEnd: (fraction: number) => void
 }
@@ -144,7 +144,7 @@ export function ChapterScrubber({
           ))}
           {highlightMarkers?.map((m) => (
             <View
-              key={`hl-${m.fraction}-${m.color}`}
+              key={m.id}
               pointerEvents="none"
               style={[
                 styles.dot,

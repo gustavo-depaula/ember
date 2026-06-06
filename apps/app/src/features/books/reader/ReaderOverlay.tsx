@@ -29,7 +29,7 @@ type Props = {
   /** Bookmark fractions in the current chapter — surfaced as ticks on the scrubber. */
   bookmarkFractions?: number[]
   /** Highlight markers in the current chapter — colored dots on the scrubber. */
-  highlightMarkers?: { fraction: number; color: string }[]
+  highlightMarkers?: { id: string; fraction: number; color: string }[]
   chromeShown: boolean
   /** Show a back-arrow pill at top-left when the reader followed a cross-ref. */
   canGoBack: boolean

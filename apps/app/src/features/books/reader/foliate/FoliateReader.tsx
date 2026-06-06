@@ -57,6 +57,14 @@ export type FoliateReaderHandle = {
    * occurrence of `findText`. Used by in-book search to land on the match.
    */
   goToWithFind: (index: number, findText: string) => void
+  /**
+   * Jump to a chapter and scroll to the exact text range described by a
+   * stored anchor. Used by the highlights list to land on the highlighted
+   * passage — preferred over `goToWithFind` when an anchor is known, since
+   * `findText` resolves the first textual occurrence (wrong target when the
+   * phrase repeats).
+   */
+  goToAnchor: (index: number, anchor: { startOffset: number; endOffset: number }) => void
   /** Bulk-replace the current highlight set across all chapters. */
   setHighlights: (highlights: BootstrapHighlight[]) => void
   addHighlight: (highlight: BootstrapHighlight) => void
@@ -147,6 +155,12 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
         inject(
           webViewRef,
           `window.__foliate?.goToWithFind(${index}, ${JSON.stringify(findText)});true;`,
+        )
+      },
+      goToAnchor: (index, anchor) => {
+        inject(
+          webViewRef,
+          `window.__foliate?.goToAnchor(${index}, ${JSON.stringify(anchor)});true;`,
         )
       },
       setHighlights: (highlights) => {
@@ -631,6 +645,14 @@ function buildHostHtml({
           const range = findRange(contents[0].doc, String(findText).toLowerCase());
           if (range) await paginator.scrollToAnchor(range);
         },
+        goToAnchor: async (index, anchor) => {
+          if (!paginator) return;
+          await paginator.goTo({ index: index ?? 0, anchor: 0 });
+          const contents = paginator.getContents();
+          if (!contents.length) return;
+          const range = resolveAnchor(contents[0].doc, anchor);
+          if (range) await paginator.scrollToAnchor(range);
+        },
         setConfig: (newCfg) => {
           cfg = newCfg;
           if (!paginator) return;
@@ -652,12 +674,18 @@ function buildHostHtml({
           for (const ov of overlayers.values()) ov.redraw();
         },
         addHighlight: (h) => {
+          // Idempotent — if a highlight with this id is already painted, sweep
+          // its old rects before adding the new ones. Lets BookReader call
+          // addHighlight to recolor / toggle-note without a separate remove.
           let m = highlightsByChapter.get(h.chapterIndex);
           if (!m) { m = new Map(); highlightsByChapter.set(h.chapterIndex, m); }
           const stored = { anchor: h.anchor, color: h.color, hasNote: !!h.hasNote };
           m.set(h.id, stored);
           const ov = overlayers.get(h.chapterIndex);
-          if (ov) ov.addOne(h.id, stored);
+          if (ov) {
+            ov.removeOne(h.id);
+            ov.addOne(h.id, stored);
+          }
         },
         removeHighlight: (id) => {
           for (const [idx, m] of highlightsByChapter) {
@@ -676,7 +704,9 @@ function buildHostHtml({
               navigator.clipboard.writeText(text);
               return;
             }
-          } catch (_) {}
+          } catch (err) {
+            post({ type: 'error', message: 'copyText (clipboard API): ' + String(err && err.message ? err.message : err) });
+          }
           const ta = document.createElement('textarea');
           ta.value = text;
           ta.style.position = 'fixed';

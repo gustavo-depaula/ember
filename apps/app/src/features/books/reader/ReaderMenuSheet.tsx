@@ -16,9 +16,11 @@ type Props = {
   onSettings: () => void
 }
 
-// Fixed snap point. Without one the native sheet measures content height
-// after mount and re-animates, producing a visible double-snap on iOS.
-const sheetFraction = 0.55
+// Per-row contribution to the sheet height (in viewport fractions). Adding it
+// up keeps the sheet snug as rows come and go (TOC is optional). A fixed
+// fraction would leave dead space on books without a TOC.
+const ROW_FRACTION = 0.09
+const CHROME_FRACTION = 0.13
 
 export function ReaderMenuSheet({
   open,
@@ -33,6 +35,9 @@ export function ReaderMenuSheet({
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const { height } = useWindowDimensions()
+
+  const rowCount = (onContents ? 1 : 0) + 4
+  const sheetFraction = CHROME_FRACTION + rowCount * ROW_FRACTION
 
   return (
     <BottomSheet

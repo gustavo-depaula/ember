@@ -14,6 +14,10 @@ const sheetFraction = 0.55
 type Props = {
   open: boolean
   onClose: () => void
+  /** Identity of the highlight being edited; seeding only re-runs when this
+   *  changes, so a parent re-render that hands the same highlight in fresh
+   *  prop references won't clobber an in-progress edit. */
+  highlightId: string | undefined
   /** Excerpt of the highlighted passage (italic header above the input). */
   excerpt: string | undefined
   /** Chapter title displayed alongside the excerpt; optional. */
@@ -31,6 +35,7 @@ type Props = {
 export function ReaderNoteEditor({
   open,
   onClose,
+  highlightId,
   excerpt,
   chapterTitle,
   initialNote,
@@ -46,13 +51,16 @@ export function ReaderNoteEditor({
   const [note, setNote] = useState(initialNote)
   const [color, setColor] = useState<HighlightColor>(initialColor)
 
-  // Re-seed when the editor opens on a different highlight.
+  // Re-seed only when the editor opens or the *highlight identity* changes —
+  // a parent re-render that fans new prop references for the same highlight
+  // (e.g., after a setHighlights re-pull) won't clobber an in-progress edit.
+  // biome-ignore lint/correctness/useExhaustiveDependencies: seed values are intentionally read at open/identity-change only
   useEffect(() => {
     if (open) {
       setNote(initialNote)
       setColor(initialColor)
     }
-  }, [open, initialNote, initialColor])
+  }, [open, highlightId])
 
   return (
     <BottomSheet

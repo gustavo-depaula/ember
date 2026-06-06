@@ -309,6 +309,7 @@ export function BookReader({ bookId, chapter }: Props) {
     return highlights
       .filter((h) => h.chapterId === id)
       .map((h) => ({
+        id: h.cursorId,
         fraction: Math.max(0, Math.min(1, h.anchor.startOffset / total)),
         color: HIGHLIGHT_COLORS[h.color].swatch,
       }))
@@ -332,16 +333,16 @@ export function BookReader({ bookId, chapter }: Props) {
   // edit a note on a freshly-created highlight without coupling to a save).
   const [noteEditorForId, setNoteEditorForId] = useState<string | undefined>(undefined)
   // Stable mirrors read inside the message handler so we don't rebuild it on
-  // every highlights / editing change (which would re-pass `onMessage` as a
-  // prop and ripple through FoliateReader).
+  // every highlights / editing change. `highlightsRef` is synced via the
+  // useEffect because `setHighlights` is called from multiple async paths;
+  // `editingHighlightIdRef` is set inline at every state change to close a
+  // race where a centerTap immediately follows a highlightTap (centerTap
+  // would otherwise see the stale ref).
   const highlightsRef = useRef<Highlight[]>(highlights)
   const editingHighlightIdRef = useRef<string | undefined>(undefined)
   useEffect(() => {
     highlightsRef.current = highlights
   }, [highlights])
-  useEffect(() => {
-    editingHighlightIdRef.current = editingHighlightId
-  }, [editingHighlightId])
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
   // Per-mount set of chapters we've already marked completed — prevents the
@@ -418,6 +419,7 @@ export function BookReader({ bookId, chapter }: Props) {
           // If the selection toolbar is up, dismiss it instead of toggling
           // chrome — matches the Apple Books / iOS Quick Look pattern.
           if (editingHighlightIdRef.current) {
+            editingHighlightIdRef.current = undefined
             setEditingHighlightId(undefined)
             setSelection(undefined)
             return
@@ -468,6 +470,7 @@ export function BookReader({ bookId, chapter }: Props) {
             anchor: msg.anchor,
             rect: msg.rect,
           })
+          editingHighlightIdRef.current = undefined
           setEditingHighlightId(undefined)
           return
         case 'selectionCleared':
@@ -484,6 +487,7 @@ export function BookReader({ bookId, chapter }: Props) {
             anchor: hl.anchor,
             rect: msg.rect,
           })
+          editingHighlightIdRef.current = msg.id
           setEditingHighlightId(msg.id)
           return
         }
@@ -578,18 +582,18 @@ export function BookReader({ bookId, chapter }: Props) {
       if (!selection || !currentChapterId) return
       void lightTap()
       if (editingHighlightId) {
-        // Recolor an existing highlight in place.
         await updateHighlightInStore(editingHighlightId, { color })
-        // Re-paint by removing the old rects + adding fresh with the new color.
-        foliateRef.current?.removeHighlight(editingHighlightId)
+        // `addHighlight` is idempotent — sweeps old rects of the same id first.
         foliateRef.current?.addHighlight({
           id: editingHighlightId,
           chapterIndex: selection.chapterIndex,
           anchor: selection.anchor,
           color: paintColorFor(color, config.isDark),
+          hasNote: !!highlightsRef.current.find((h) => h.cursorId === editingHighlightId)?.note,
         })
         setHighlights(listHighlights(bookId))
         setSelection(undefined)
+        editingHighlightIdRef.current = undefined
         setEditingHighlightId(undefined)
         return
       }
@@ -619,6 +623,7 @@ export function BookReader({ bookId, chapter }: Props) {
     foliateRef.current?.copyText(selection.text)
     foliateRef.current?.clearSelection()
     setSelection(undefined)
+    editingHighlightIdRef.current = undefined
     setEditingHighlightId(undefined)
   }, [selection])
 
@@ -629,6 +634,7 @@ export function BookReader({ bookId, chapter }: Props) {
     await removeHighlightFromStore(editingHighlightId)
     setHighlights(listHighlights(bookId))
     setSelection(undefined)
+    editingHighlightIdRef.current = undefined
     setEditingHighlightId(undefined)
   }, [bookId, editingHighlightId])
 
@@ -672,8 +678,6 @@ export function BookReader({ bookId, chapter }: Props) {
         color,
       })
       const idx = leaves.findIndex((l) => l.id === noteEditorTarget.chapterId)
-      // Repaint with the new color + note marker.
-      foliateRef.current?.removeHighlight(noteEditorForId)
       if (idx >= 0) {
         foliateRef.current?.addHighlight({
           id: noteEditorForId,
@@ -686,6 +690,7 @@ export function BookReader({ bookId, chapter }: Props) {
       setHighlights(listHighlights(bookId))
       setNoteEditorForId(undefined)
       setSelection(undefined)
+      editingHighlightIdRef.current = undefined
       setEditingHighlightId(undefined)
       void successBuzz()
     },
@@ -697,8 +702,6 @@ export function BookReader({ bookId, chapter }: Props) {
     void lightTap()
     await updateHighlightInStore(noteEditorForId, { note: undefined })
     const idx = leaves.findIndex((l) => l.id === noteEditorTarget.chapterId)
-    // Repaint without the note marker, keep the highlight color.
-    foliateRef.current?.removeHighlight(noteEditorForId)
     if (idx >= 0) {
       foliateRef.current?.addHighlight({
         id: noteEditorForId,
@@ -808,7 +811,7 @@ export function BookReader({ bookId, chapter }: Props) {
         highlights={highlights}
         leaves={leaves}
         titleLookup={titleLookup}
-        onSelect={(highlight, idx) => foliateRef.current?.goToWithFind(idx, highlight.text)}
+        onSelect={(highlight, idx) => foliateRef.current?.goToAnchor(idx, highlight.anchor)}
         onRemove={async (cursorId) => {
           foliateRef.current?.removeHighlight(cursorId)
           await removeHighlightFromStore(cursorId)
@@ -887,6 +890,7 @@ export function BookReader({ bookId, chapter }: Props) {
       <ReaderNoteEditor
         open={!!noteEditorTarget}
         onClose={() => setNoteEditorForId(undefined)}
+        highlightId={noteEditorForId}
         excerpt={noteEditorTarget?.text}
         chapterTitle={noteEditorTarget ? titleLookup.get(noteEditorTarget.chapterId) : undefined}
         initialNote={noteEditorTarget?.note ?? ''}

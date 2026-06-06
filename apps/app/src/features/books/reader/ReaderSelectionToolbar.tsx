@@ -46,7 +46,7 @@ export function ReaderSelectionToolbar({
 }: Props) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
-  const { width: screenWidth } = useWindowDimensions()
+  const { width: screenWidth, height: screenHeight } = useWindowDimensions()
   if (!rect) return null
 
   const tintColor = isDark ? 'rgba(28,26,24,0.78)' : 'rgba(244,240,234,0.85)'
@@ -55,8 +55,13 @@ export function ReaderSelectionToolbar({
   // Always show Note + Copy; trash only in edit mode.
   const toolbarWidth = baseWidth(showTrash ? 3 : 2)
 
+  // Prefer above the selection. If there's no room above the notch, place
+  // below; if there's also no room below the home indicator, clamp inside
+  // the safe area (the toolbar will overlap the selection — acceptable).
   const above = rect.y > insets.top + PILL_HEIGHT + 8
-  const top = above ? rect.y - PILL_HEIGHT - 8 : rect.y + rect.height + 8
+  const belowMax = screenHeight - insets.bottom - PILL_HEIGHT - 8
+  const rawTop = above ? rect.y - PILL_HEIGHT - 8 : rect.y + rect.height + 8
+  const top = Math.max(insets.top + 8, Math.min(belowMax, rawTop))
   const idealLeft = rect.x + rect.width / 2 - toolbarWidth / 2
   const left = Math.max(8, Math.min(screenWidth - toolbarWidth - 8, idealLeft))
 
