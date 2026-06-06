@@ -379,6 +379,20 @@ function buildHostHtml({
           if (!range) return;
           const svgNs = 'http://www.w3.org/2000/svg';
           const rects = range.getClientRects();
+          // Note marker: a 6pt filled dot to the left of the first character,
+          // colored to match the highlight. The dot is data-hl-id-tagged so
+          // recolor/remove sweeps it along with the highlight rects.
+          if (hl.hasNote && rects.length > 0) {
+            const first = rects[0];
+            const dot = this.doc.createElementNS(svgNs, 'circle');
+            dot.setAttribute('cx', String(first.x - svgRect.x - 6));
+            dot.setAttribute('cy', String(first.y - svgRect.y + first.height / 2));
+            dot.setAttribute('r', '4');
+            dot.setAttribute('fill', hl.color);
+            dot.setAttribute('opacity', '1');
+            dot.setAttribute('data-hl-id', id);
+            this.element.appendChild(dot);
+          }
           for (let i = 0; i < rects.length; i++) {
             const r = rects[i];
             const x = r.x - svgRect.x;

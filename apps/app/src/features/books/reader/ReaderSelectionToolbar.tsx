@@ -1,4 +1,4 @@
-import { Copy, Trash2 } from 'lucide-react-native'
+import { Copy, NotebookPen, Trash2 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet, useWindowDimensions, View } from 'react-native'
 import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
@@ -20,8 +20,11 @@ type Props = {
   rect: { x: number; y: number; width: number; height: number } | undefined
   /** 'create' = a fresh selection; 'edit' = user tapped an existing highlight. */
   mode: 'create' | 'edit'
+  /** When `mode === 'edit'`, true if this highlight already carries a note. */
+  hasNote?: boolean
   isDark: boolean
   onPickColor: (color: HighlightColor) => void
+  onNote: () => void
   onCopy: () => void
   /** Required when `mode === 'edit'`; ignored otherwise. */
   onRemove?: () => void
@@ -34,8 +37,10 @@ type Props = {
 export function ReaderSelectionToolbar({
   rect,
   mode,
+  hasNote,
   isDark,
   onPickColor,
+  onNote,
   onCopy,
   onRemove,
 }: Props) {
@@ -47,7 +52,8 @@ export function ReaderSelectionToolbar({
   const tintColor = isDark ? 'rgba(28,26,24,0.78)' : 'rgba(244,240,234,0.85)'
   const iconColor = isDark ? '#EDE4D8' : '#1a1815'
   const showTrash = mode === 'edit' && !!onRemove
-  const toolbarWidth = baseWidth(showTrash ? 2 : 1)
+  // Always show Note + Copy; trash only in edit mode.
+  const toolbarWidth = baseWidth(showTrash ? 3 : 2)
 
   const above = rect.y > insets.top + PILL_HEIGHT + 8
   const top = above ? rect.y - PILL_HEIGHT - 8 : rect.y + rect.height + 8
@@ -79,6 +85,17 @@ export function ReaderSelectionToolbar({
             </Pressable>
           ))}
           <View style={styles.divider} />
+          <Pressable
+            onPress={onNote}
+            accessibilityRole="button"
+            accessibilityLabel={t(hasNote ? 'books.editNote' : 'books.addNote', {
+              defaultValue: hasNote ? 'Edit note' : 'Add note',
+            })}
+            style={styles.slot}
+            hitSlop={4}
+          >
+            <NotebookPen size={18} color={iconColor} />
+          </Pressable>
           <Pressable
             onPress={onCopy}
             accessibilityRole="button"

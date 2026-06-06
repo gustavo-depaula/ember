@@ -900,6 +900,11 @@ export default {
     chapterCompleteLabel: 'Chapter complete',
     copySelection: 'Copy',
     removeHighlight: 'Remove highlight',
+    addNote: 'Add note',
+    editNote: 'Edit note',
+    saveNote: 'Save note',
+    deleteNote: 'Delete note',
+    notePlaceholder: 'Write a note about this passage…',
     highlight: {
       yellow: 'Yellow',
       green: 'Green',

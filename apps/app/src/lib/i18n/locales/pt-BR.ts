@@ -908,6 +908,11 @@ export default {
     chapterCompleteLabel: 'Capítulo concluído',
     copySelection: 'Copiar',
     removeHighlight: 'Remover destaque',
+    addNote: 'Adicionar nota',
+    editNote: 'Editar nota',
+    saveNote: 'Salvar nota',
+    deleteNote: 'Excluir nota',
+    notePlaceholder: 'Escreva uma nota sobre este trecho…',
     highlight: {
       yellow: 'Amarelo',
       green: 'Verde',

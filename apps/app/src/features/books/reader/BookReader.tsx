@@ -47,6 +47,7 @@ import {
 } from './highlights'
 import { ReaderBookmarksSheet } from './ReaderBookmarksSheet'
 import { ReaderMenuSheet } from './ReaderMenuSheet'
+import { ReaderNoteEditor } from './ReaderNoteEditor'
 import { ReaderOverlay } from './ReaderOverlay'
 import { ReaderSearchSheet } from './ReaderSearchSheet'
 import { ReaderSelectionToolbar } from './ReaderSelectionToolbar'
@@ -306,6 +307,10 @@ export function BookReader({ bookId, chapter }: Props) {
     | undefined
   >(undefined)
   const [editingHighlightId, setEditingHighlightId] = useState<string | undefined>(undefined)
+  // When set, the note editor sheet is open for that highlight id. The
+  // highlight is always persisted *before* the editor opens (so the user can
+  // edit a note on a freshly-created highlight without coupling to a save).
+  const [noteEditorForId, setNoteEditorForId] = useState<string | undefined>(undefined)
   // Stable mirrors read inside the message handler so we don't rebuild it on
   // every highlights / editing change (which would re-pass `onMessage` as a
   // prop and ripple through FoliateReader).
@@ -607,6 +612,85 @@ export function BookReader({ bookId, chapter }: Props) {
     setEditingHighlightId(undefined)
   }, [bookId, editingHighlightId])
 
+  const handleOpenNote = useCallback(async () => {
+    if (!selection || !currentChapterId) return
+    void lightTap()
+    // Editing an existing highlight: just open the editor for it.
+    if (editingHighlightId) {
+      setNoteEditorForId(editingHighlightId)
+      return
+    }
+    // Fresh selection: persist a default-yellow highlight first so the note
+    // has something to attach to, then open the editor on it.
+    const saved = await addHighlightToStore(bookId, {
+      chapterId: currentChapterId,
+      anchor: selection.anchor,
+      text: selection.text,
+      color: 'yellow',
+    })
+    setHighlights(listHighlights(bookId))
+    foliateRef.current?.addHighlight({
+      id: saved.cursorId,
+      chapterIndex: selection.chapterIndex,
+      anchor: saved.anchor,
+      color: paintColorFor(saved.color, config.isDark),
+    })
+    foliateRef.current?.clearSelection()
+    setNoteEditorForId(saved.cursorId)
+  }, [bookId, currentChapterId, selection, editingHighlightId, config.isDark])
+
+  const noteEditorTarget = noteEditorForId
+    ? highlights.find((h) => h.cursorId === noteEditorForId)
+    : undefined
+
+  const handleSaveNote = useCallback(
+    async (note: string, color: HighlightColor) => {
+      if (!noteEditorForId || !noteEditorTarget) return
+      const trimmed = note.trim()
+      await updateHighlightInStore(noteEditorForId, {
+        note: trimmed.length > 0 ? trimmed : undefined,
+        color,
+      })
+      const idx = leaves.findIndex((l) => l.id === noteEditorTarget.chapterId)
+      // Repaint with the new color + note marker.
+      foliateRef.current?.removeHighlight(noteEditorForId)
+      if (idx >= 0) {
+        foliateRef.current?.addHighlight({
+          id: noteEditorForId,
+          chapterIndex: idx,
+          anchor: noteEditorTarget.anchor,
+          color: paintColorFor(color, config.isDark),
+          hasNote: trimmed.length > 0,
+        })
+      }
+      setHighlights(listHighlights(bookId))
+      setNoteEditorForId(undefined)
+      setSelection(undefined)
+      setEditingHighlightId(undefined)
+      void successBuzz()
+    },
+    [bookId, noteEditorForId, noteEditorTarget, leaves, config.isDark],
+  )
+
+  const handleDeleteNote = useCallback(async () => {
+    if (!noteEditorForId || !noteEditorTarget) return
+    void lightTap()
+    await updateHighlightInStore(noteEditorForId, { note: undefined })
+    const idx = leaves.findIndex((l) => l.id === noteEditorTarget.chapterId)
+    // Repaint without the note marker, keep the highlight color.
+    foliateRef.current?.removeHighlight(noteEditorForId)
+    if (idx >= 0) {
+      foliateRef.current?.addHighlight({
+        id: noteEditorForId,
+        chapterIndex: idx,
+        anchor: noteEditorTarget.anchor,
+        color: paintColorFor(noteEditorTarget.color, config.isDark),
+      })
+    }
+    setHighlights(listHighlights(bookId))
+    setNoteEditorForId(undefined)
+  }, [bookId, noteEditorForId, noteEditorTarget, leaves, config.isDark])
+
   if (!bookEntry) {
     return (
       <YStack flex={1} backgroundColor="$background" padding="$lg" paddingTop={insets.top + 24}>
@@ -752,10 +836,27 @@ export function BookReader({ bookId, chapter }: Props) {
       <ReaderSelectionToolbar
         rect={selection?.rect}
         mode={editingHighlightId ? 'edit' : 'create'}
+        hasNote={
+          editingHighlightId
+            ? !!highlights.find((h) => h.cursorId === editingHighlightId)?.note
+            : false
+        }
         isDark={config.isDark}
         onPickColor={handlePickColor}
+        onNote={handleOpenNote}
         onCopy={handleCopySelection}
         onRemove={handleRemoveHighlight}
+      />
+
+      <ReaderNoteEditor
+        open={!!noteEditorTarget}
+        onClose={() => setNoteEditorForId(undefined)}
+        excerpt={noteEditorTarget?.text}
+        chapterTitle={noteEditorTarget ? titleLookup.get(noteEditorTarget.chapterId) : undefined}
+        initialNote={noteEditorTarget?.note ?? ''}
+        initialColor={noteEditorTarget?.color ?? 'yellow'}
+        onSave={handleSaveNote}
+        onDeleteNote={noteEditorTarget?.note ? handleDeleteNote : undefined}
       />
 
       <ChapterCompleteToast
