@@ -16,6 +16,7 @@ type Props = {
   title: string
   chapter: number
   chapters: number
+  pagesLeft: number
   chromeShown: boolean
   isDark: boolean
   color: string
@@ -27,6 +28,7 @@ export function ReaderOverlay({
   title,
   chapter,
   chapters,
+  pagesLeft,
   chromeShown,
   isDark,
   color,
@@ -99,18 +101,33 @@ export function ReaderOverlay({
         </ChromeRow>
       ) : (
         <ChromeRow key="bottom-page" align="center" pointerEvents="none">
-          <Text
-            fontFamily="$body"
-            fontSize="$1"
-            color={color}
-            style={[styles.text, { opacity: 0.55 }]}
-          >
-            {t('books.chapterOfTotal', {
-              defaultValue: 'Chapter {{chapter}} of {{chapters}}',
-              chapter,
-              chapters,
-            })}
-          </Text>
+          <View style={{ alignItems: 'center' }}>
+            <Text
+              fontFamily="$body"
+              fontSize="$1"
+              color={color}
+              style={[styles.text, { opacity: 0.55 }]}
+            >
+              {t('books.chapterOfTotal', {
+                defaultValue: 'Chapter {{chapter}} of {{chapters}}',
+                chapter,
+                chapters,
+              })}
+            </Text>
+            {pagesLeft > 0 ? (
+              <Text
+                fontFamily="$body"
+                fontSize="$1"
+                color={color}
+                style={[styles.text, { opacity: 0.4, marginTop: 2 }]}
+              >
+                {t('books.pagesLeftInChapter', {
+                  defaultValue: '{{count}} pages left in chapter',
+                  count: pagesLeft,
+                })}
+              </Text>
+            ) : null}
+          </View>
         </ChromeRow>
       )}
     </View>

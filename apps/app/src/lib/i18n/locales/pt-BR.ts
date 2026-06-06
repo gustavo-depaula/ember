@@ -886,6 +886,8 @@ export default {
     menu: 'Menu',
     themesAndSettings: 'Temas e Ajustes',
     chapterOfTotal: 'Cap\u00edtulo {{chapter}} de {{chapters}}',
+    pagesLeftInChapter_one: '1 p\u00e1gina restante no cap\u00edtulo',
+    pagesLeftInChapter_other: '{{count}} p\u00e1ginas restantes no cap\u00edtulo',
     opening: 'Abrindo\u2026',
     loadingManifest: 'Carregando livro\u2026',
     loadingChapters: 'Carregando cap\u00edtulos ({{done}} de {{total}})',

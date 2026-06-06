@@ -195,6 +195,7 @@ export function BookReader({ bookId, chapter }: Props) {
   }, [bookContent, leaves, titleLookup])
 
   const [chapterIndex, setChapterIndex] = useState(0)
+  const [pagesLeft, setPagesLeft] = useState(0)
   const [chromeShown, setChromeShown] = useState(false)
   const [menuOpen, setMenuOpen] = useState(false)
   const [tocOpen, setTocOpen] = useState(false)
@@ -210,6 +211,7 @@ export function BookReader({ bookId, chapter }: Props) {
       }
       if (msg.type === 'relocate') {
         setChapterIndex(msg.index)
+        setPagesLeft(Math.max(0, msg.pages - msg.page))
         const chapterId = leaves[msg.index]?.id
         if (chapterId) cursor.save({ chapterId, fraction: msg.fraction })
       }
@@ -274,6 +276,7 @@ export function BookReader({ bookId, chapter }: Props) {
         title={bookTitle}
         chapter={chapterIndex + 1}
         chapters={leaves.length}
+        pagesLeft={pagesLeft}
         chromeShown={chromeShown}
         isDark={config.isDark}
         color={config.color}

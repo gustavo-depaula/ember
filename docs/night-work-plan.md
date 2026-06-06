@@ -69,3 +69,11 @@ Added CSS-only illuminated chapter opening inside the foliate iframe's STYLE blo
 - Removed paragraph indent on the first paragraph (text-indent: 0) so the drop cap sits flush
 
 All in `apps/app/src/features/books/reader/foliate/FoliateReader.tsx` — no new files, no new deps.
+
+### Feature 2: Pages-left-in-chapter line ✅
+
+Added a secondary line below "Chapter X of Y" reading "N pages left in chapter" (or "1 page left in chapter" — pluralized via i18next `_one`/`_other` suffixes). Hidden when on the last page of a chapter (pagesLeft = 0).
+
+- BookReader: tracks `pagesLeft = Math.max(0, msg.pages - msg.page)` from each relocate, passes to ReaderOverlay.
+- ReaderOverlay: wraps the bottom-page text in a centered View with the second line below.
+- en-US + pt-BR get the pluralized key (`pagesLeftInChapter_one` / `pagesLeftInChapter_other`).

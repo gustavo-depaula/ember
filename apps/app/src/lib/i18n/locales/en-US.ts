@@ -878,6 +878,8 @@ export default {
     menu: 'Menu',
     themesAndSettings: 'Themes & Settings',
     chapterOfTotal: 'Chapter {{chapter}} of {{chapters}}',
+    pagesLeftInChapter_one: '1 page left in chapter',
+    pagesLeftInChapter_other: '{{count}} pages left in chapter',
     opening: 'Opening…',
     loadingManifest: 'Loading book…',
     loadingChapters: 'Loading chapters ({{done}} of {{total}})',
