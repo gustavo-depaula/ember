@@ -60,6 +60,7 @@ export function SessionToast({ bookId }: { bookId: string }) {
   return (
     <View pointerEvents="none" style={[styles.wrap, { top: insets.top + 8 }]}>
       <Animated.View
+        pointerEvents="none"
         entering={SlideInUp.duration(280).springify().damping(18)}
         exiting={FadeOut.duration(200)}
         style={styles.animWrap}

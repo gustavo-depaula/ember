@@ -55,6 +55,19 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
 ) {
   const webViewRef = useRef<unknown>(null)
 
+  // iOS leaves the WebView's UIScrollView attached to the window hit-test
+  // chain for a few frames after unmount in fullScreenModal dismissals — the
+  // result is that the entire app stops receiving taps (scrolling still
+  // works, since scroll is owned by a different gesture recognizer) until
+  // the next full layout. Calling stopLoading on unmount forces WebKit to
+  // release its event-handling state immediately.
+  useEffect(() => {
+    return () => {
+      const node = webViewRef.current as { stopLoading?: () => void } | null
+      node?.stopLoading?.()
+    }
+  }, [])
+
   // Host HTML is built ONCE with initial chapters + config baked in. Update
   // effects below ride over `injectJavaScript` so we never remount the
   // WebView (which would blank the screen).

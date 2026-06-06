@@ -24,6 +24,7 @@ export function ChapterCompleteToast({ title, isDark, color }: Props) {
   return (
     <View pointerEvents="none" style={[styles.wrap, { bottom: insets.bottom + 72 }]}>
       <Animated.View
+        pointerEvents="none"
         entering={SlideInDown.duration(260).springify().damping(16)}
         exiting={FadeOut.duration(200)}
         style={styles.animWrap}
