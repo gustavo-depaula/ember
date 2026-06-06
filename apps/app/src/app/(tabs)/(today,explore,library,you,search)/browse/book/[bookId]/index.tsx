@@ -17,6 +17,7 @@ import { BookHero } from '@/features/books/BookHero'
 import { buildTitleLookup, flattenTocLeaves } from '@/features/books/reader/bookContent'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
+import { getReadingTimeMs } from '@/features/books/reader/readingTime'
 import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
 import { PrologueProse } from '@/features/collections'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
@@ -76,6 +77,7 @@ export default function BookDetailScreen() {
 
   const completed = bookId ? listCompletedChapters(bookId) : new Set<string>()
   const chapterMinutes = bookId ? loadChapterMinutes(bookId) : undefined
+  const readingTimeMs = bookId ? getReadingTimeMs(bookId) : 0
   const minutesRemaining = useMemo(() => {
     if (!chapterMinutes || leaves.length === 0) return undefined
     let total = 0
@@ -162,6 +164,7 @@ export default function BookDetailScreen() {
               totalLeaves={leaves.length}
               completedCount={completed.size}
               minutesRemaining={minutesRemaining}
+              minutesRead={readingTimeMs > 60_000 ? Math.round(readingTimeMs / 60_000) : undefined}
               updatedAt={position?.updatedAt}
               label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
             />
@@ -314,6 +317,7 @@ function BookProgressLine({
   totalLeaves,
   completedCount,
   minutesRemaining,
+  minutesRead,
   updatedAt,
   label,
 }: {
@@ -322,6 +326,7 @@ function BookProgressLine({
   totalLeaves: number
   completedCount: number
   minutesRemaining?: number
+  minutesRead?: number
   updatedAt?: number
   label?: string
 }) {
@@ -380,14 +385,26 @@ function BookProgressLine({
           </Typography>
         ) : null}
       </XStack>
-      {minutesRemaining ? (
-        <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
-          {t('book.timeToFinish', {
-            defaultValue: '~{{when}} to finish',
-            when: formatMinutes(minutesRemaining),
-          })}
-        </Typography>
-      ) : null}
+      <XStack alignItems="center" justifyContent="space-between">
+        {minutesRead ? (
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+            {t('book.totalReadTime', {
+              defaultValue: 'Read for {{when}}',
+              when: formatMinutes(minutesRead),
+            })}
+          </Typography>
+        ) : (
+          <YStack />
+        )}
+        {minutesRemaining ? (
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+            {t('book.timeToFinish', {
+              defaultValue: '~{{when}} to finish',
+              when: formatMinutes(minutesRemaining),
+            })}
+          </Typography>
+        ) : null}
+      </XStack>
     </YStack>
   )
 }

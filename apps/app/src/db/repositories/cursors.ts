@@ -70,6 +70,10 @@ export function chapterTimingsCursorId(bookId: string): string {
   return `book/${bookId}/timings`
 }
 
+export function readingTimeCursorId(bookId: string): string {
+  return `book/${bookId}/read-time`
+}
+
 // --- Program cursors ---
 
 export type ProgramCursorPosition = {

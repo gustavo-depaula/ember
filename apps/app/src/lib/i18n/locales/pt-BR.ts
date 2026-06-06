@@ -1112,6 +1112,7 @@ export default {
     lastRead: 'Lido {{when}}',
     chaptersFinished: '{{done}} de {{total}} capítulos concluídos',
     timeToFinish: '~{{when}} para concluir',
+    totalReadTime: 'Lido por {{when}}',
   },
 
   collections: {

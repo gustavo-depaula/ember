@@ -1105,6 +1105,7 @@ export default {
     lastRead: 'Last read {{when}}',
     chaptersFinished: '{{done}} of {{total}} chapters finished',
     timeToFinish: '~{{when}} to finish',
+    totalReadTime: 'Read for {{when}}',
   },
 
   collections: {

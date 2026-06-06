@@ -234,3 +234,13 @@ BookReader now persists per-chapter minute estimates to a cursor (`book/{bookId}
 - New helpers in `chapterTimings.ts`: `persistChapterTimings(bookId, timings)` + `loadChapterMinutes(bookId): Record<chapterId, minutes> | undefined`.
 - Frontispiece `formatMinutes` local helper formats as `"5 min"` / `"1h"` / `"2h 14m"`.
 - i18n: `book.timeToFinish` in en-US + pt-BR.
+
+### Feature 22 (P2.11): Reading time tracker per book ✅
+
+Per-book cumulative reading time accrues into `book/{bookId}/read-time` cursor. BookReader holds a `sessionStartRef = Date.now()`; on AppState background and unmount, the delta is added to the running total via `addReadingTime(bookId, elapsed)`. Sessions under 1 second are ignored.
+
+Frontispiece reads via `getReadingTimeMs(bookId)` and shows "Read for 1h 23m" beside the "~Xh to finish" line, only once cumulative time exceeds 1 minute.
+
+- New cursor factory: `readingTimeCursorId`.
+- New `readingTime.ts`: `addReadingTime` / `getReadingTimeMs`.
+- i18n: `book.totalReadTime`.

@@ -2,6 +2,7 @@ import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import { AppState } from 'react-native'
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, View, YStack } from 'tamagui'
@@ -33,6 +34,7 @@ import { ReaderSearchSheet } from './ReaderSearchSheet'
 import { ReaderSettingsSheet } from './ReaderSettingsSheet'
 import { ReaderTocSheet } from './ReaderTocSheet'
 import { appendTurn, estimateMinutesPerPage, type PageTurn } from './readingPace'
+import { addReadingTime } from './readingTime'
 import { useReaderConfig } from './useReaderConfig'
 import { useReaderCursor } from './useReaderCursor'
 
@@ -233,6 +235,25 @@ export function BookReader({ bookId, chapter }: Props) {
   const justMarkedRef = useRef<Set<string>>(new Set())
   const turnsRef = useRef<PageTurn[]>([])
   const [minutesPerPage, setMinutesPerPage] = useState<number | undefined>(undefined)
+
+  // Per-session reading time accrual. `sessionStartRef` is reset on every
+  // foreground; AppState background + unmount flush the elapsed delta.
+  const sessionStartRef = useRef(Date.now())
+  useEffect(() => {
+    const flush = () => {
+      const elapsed = Date.now() - sessionStartRef.current
+      sessionStartRef.current = Date.now()
+      void addReadingTime(bookId, elapsed)
+    }
+    const sub = AppState.addEventListener('change', (s) => {
+      if (s === 'background' || s === 'inactive') flush()
+      if (s === 'active') sessionStartRef.current = Date.now()
+    })
+    return () => {
+      sub.remove()
+      flush()
+    }
+  }, [bookId])
 
   const onMessage = useCallback(
     (msg: FoliateMessage) => {
