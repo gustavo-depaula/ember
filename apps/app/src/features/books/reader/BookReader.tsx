@@ -44,6 +44,7 @@ import { ReaderTocSheet } from './ReaderTocSheet'
 import { appendTurn, estimateMinutesPerPage, type PageTurn } from './readingPace'
 import { getReadingStreak, touchReadingStreak } from './readingStreak'
 import { getReadingTimeMs, persistReadingTimeMs } from './readingTime'
+import { recordReadingSession } from './sessionToast'
 import { useReaderConfig } from './useReaderConfig'
 import { useReaderCursor } from './useReaderCursor'
 
@@ -285,12 +286,18 @@ export function BookReader({ bookId, chapter }: Props) {
   // session start. Initial total seeded from the persisted value on mount.
   const sessionStartRef = useRef(Date.now())
   const totalMsRef = useRef(getReadingTimeMs(bookId))
+  // Counters scoped to this mount, surfaced via `recordReadingSession` on
+  // unmount so the frontispiece can show a celebratory toast.
+  const sessionMsRef = useRef(0)
+  const sessionPagesRef = useRef(0)
+  const sessionChaptersDoneRef = useRef(0)
   useEffect(() => {
     const flush = () => {
       const elapsed = Date.now() - sessionStartRef.current
       sessionStartRef.current = Date.now()
       if (elapsed < 1000) return
       totalMsRef.current += elapsed
+      sessionMsRef.current += elapsed
       void persistReadingTimeMs(bookId, totalMsRef.current)
     }
     const sub = AppState.addEventListener('change', (s) => {
@@ -300,6 +307,15 @@ export function BookReader({ bookId, chapter }: Props) {
     return () => {
       sub.remove()
       flush()
+      // Only worth a toast for sessions where the user actually read something.
+      if (sessionMsRef.current > 30_000 || sessionPagesRef.current > 3) {
+        recordReadingSession({
+          bookId,
+          minutes: Math.max(1, Math.round(sessionMsRef.current / 60_000)),
+          pages: sessionPagesRef.current,
+          chaptersFinished: sessionChaptersDoneRef.current,
+        })
+      }
     }
   }, [bookId])
 
@@ -316,12 +332,14 @@ export function BookReader({ bookId, chapter }: Props) {
           setPagesLeft(Math.max(0, msg.pages - msg.page))
           setChapterPage(msg.page)
           setChapterPages(msg.pages)
-          // Page-turn haptic. Skip the first relocate (initial load) and any
-          // relocate that fires within 250ms of the previous one (scrubbing).
+          // Page-turn haptic + session page counter. Skip the first relocate
+          // (initial load) and any relocate that fires within 250ms of the
+          // previous one (scrubbing).
           const now = Date.now()
           const prev = lastTurnRef.current
-          if (prev && (prev.index !== msg.index || prev.page !== msg.page) && now - prev.at > 250) {
-            void selectionTick()
+          if (prev && (prev.index !== msg.index || prev.page !== msg.page)) {
+            sessionPagesRef.current += 1
+            if (now - prev.at > 250) void selectionTick()
           }
           lastTurnRef.current = { index: msg.index, page: msg.page, at: now }
           turnsRef.current = appendTurn(turnsRef.current, now)
@@ -332,6 +350,7 @@ export function BookReader({ bookId, chapter }: Props) {
             cursor.save({ chapterId, fraction: msg.fraction })
             if (msg.fraction >= 0.95 && !justMarkedRef.current.has(chapterId)) {
               justMarkedRef.current.add(chapterId)
+              sessionChaptersDoneRef.current += 1
               void markChapterCompleted(bookId, chapterId).then(() => {
                 void successBuzz()
                 setCompleted((s) => (s.has(chapterId) ? s : new Set(s).add(chapterId)))

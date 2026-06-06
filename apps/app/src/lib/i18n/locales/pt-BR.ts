@@ -1127,6 +1127,12 @@ export default {
     totalReadTime: 'Lido por {{when}}',
     streak_one: '🔥 1 dia consecutivo de leitura',
     streak_other: '🔥 {{count}} dias consecutivos de leitura',
+    sessionMinutes_one: '1 min',
+    sessionMinutes_other: '{{count}} min',
+    sessionPages_one: '1 página',
+    sessionPages_other: '{{count}} páginas',
+    sessionChaptersFinished_one: '1 capítulo concluído',
+    sessionChaptersFinished_other: '{{count}} capítulos concluídos',
   },
 
   collections: {

@@ -1120,6 +1120,12 @@ export default {
     totalReadTime: 'Read for {{when}}',
     streak_one: '🔥 1-day reading streak',
     streak_other: '🔥 {{count}}-day reading streak',
+    sessionMinutes_one: '1 min',
+    sessionMinutes_other: '{{count}} min',
+    sessionPages_one: '1 page',
+    sessionPages_other: '{{count}} pages',
+    sessionChaptersFinished_one: '1 chapter finished',
+    sessionChaptersFinished_other: '{{count}} chapters finished',
   },
 
   collections: {

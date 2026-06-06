@@ -20,6 +20,7 @@ import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
 import { getReadingStreak } from '@/features/books/reader/readingStreak'
 import { getReadingTimeMs } from '@/features/books/reader/readingTime'
 import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
+import { SessionToast } from '@/features/books/SessionToast'
 import { PrologueProse } from '@/features/collections'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
@@ -192,6 +193,8 @@ export default function BookDetailScreen() {
         open={addingToCollection}
         onClose={() => setAddingToCollection(false)}
       />
+
+      {bookId ? <SessionToast bookId={bookId} /> : null}
     </>
   )
 }
