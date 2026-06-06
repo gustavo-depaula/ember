@@ -905,6 +905,7 @@ export default {
     collapseAll: 'Recolher tudo',
     tocSearchPlaceholder: 'Filtrar capítulos…',
     pageOfTotal: '{{page}} / {{total}}',
+    chapterCompleteLabel: 'Capítulo concluído',
     hintPrev: 'Página anterior',
     hintMenu: 'Mostrar menu',
     hintNext: 'Próxima página',

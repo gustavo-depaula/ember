@@ -26,6 +26,7 @@ import {
   getBookPaletteOverride,
   setBookPaletteOverride,
 } from './bookPaletteOverride'
+import { ChapterCompleteToast } from './ChapterCompleteToast'
 import { listCompletedChapters, markChapterCompleted } from './chapterCompletions'
 import { buildChapterTimings, persistChapterTimings } from './chapterTimings'
 import { FootnoteSheet } from './FootnoteSheet'
@@ -257,6 +258,9 @@ export function BookReader({ bookId, chapter }: Props) {
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
   const [navStack, setNavStack] = useState<Array<{ index: number; fraction: number }>>([])
   const [completed, setCompleted] = useState<Set<string>>(() => listCompletedChapters(bookId))
+  // Title of the chapter that just hit 0.95; cleared after 2.5s. Drives
+  // ChapterCompleteToast.
+  const [justCompletedTitle, setJustCompletedTitle] = useState<string | undefined>(undefined)
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
   // Per-mount set of chapters we've already marked completed — prevents the
@@ -278,6 +282,13 @@ export function BookReader({ bookId, chapter }: Props) {
   useEffect(() => {
     void touchReadingStreak(bookId)
   }, [bookId])
+
+  // Auto-clear the chapter-complete toast after a beat.
+  useEffect(() => {
+    if (!justCompletedTitle) return
+    const tid = setTimeout(() => setJustCompletedTitle(undefined), 2500)
+    return () => clearTimeout(tid)
+  }, [justCompletedTitle])
 
   // Per-session reading time accrual. The local accumulator owns the running
   // total so concurrent AppState flushes (iOS fires `inactive` then
@@ -351,9 +362,11 @@ export function BookReader({ bookId, chapter }: Props) {
             if (msg.fraction >= 0.95 && !justMarkedRef.current.has(chapterId)) {
               justMarkedRef.current.add(chapterId)
               sessionChaptersDoneRef.current += 1
+              const completedTitle = titleLookup.get(chapterId)
               void markChapterCompleted(bookId, chapterId).then(() => {
                 void successBuzz()
                 setCompleted((s) => (s.has(chapterId) ? s : new Set(s).add(chapterId)))
+                if (completedTitle) setJustCompletedTitle(completedTitle)
               })
             }
           }
@@ -384,7 +397,7 @@ export function BookReader({ bookId, chapter }: Props) {
         }
       }
     },
-    [leaves, cursor.save, chapterIndex, fraction, bookId],
+    [leaves, cursor.save, chapterIndex, fraction, bookId, titleLookup],
   )
 
   const handleBackNav = useCallback(() => {
@@ -542,6 +555,12 @@ export function BookReader({ bookId, chapter }: Props) {
       />
 
       <FootnoteSheet content={footnoteHtml} onClose={() => setFootnoteHtml(undefined)} />
+
+      <ChapterCompleteToast
+        title={justCompletedTitle}
+        isDark={config.isDark}
+        color={config.color}
+      />
 
       {showHint ? (
         <ReaderTapHint

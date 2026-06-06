@@ -897,6 +897,7 @@ export default {
     collapseAll: 'Collapse all',
     tocSearchPlaceholder: 'Filter chapters…',
     pageOfTotal: '{{page}} / {{total}}',
+    chapterCompleteLabel: 'Chapter complete',
     hintPrev: 'Previous page',
     hintMenu: 'Show menu',
     hintNext: 'Next page',
