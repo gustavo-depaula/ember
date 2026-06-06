@@ -153,3 +153,13 @@ CSS-only via `-webkit-hyphens: auto` + the iframe document's `lang` attribute (s
 - `useReaderConfig` defaults to `'en'`; `BookReader` overrides with the resolved book content language (`en-US` / `pt-BR` / `la`).
 - Bootstrap injects `<html lang="…">` per chapter iframe + adds `hyphens: auto` / `overflow-wrap: break-word` / hyphenation limits.
 - Caveat: WebKit ships hyphenation dictionaries for many Latin-alphabet languages; `la` (Latin) is unlikely supported and will fall through gracefully. Phase 2: ship Hyphenopoly as an alternative for unsupported languages.
+
+## Phase 2
+
+### Feature 12 (P2.1): Per-book progress on frontispiece ✅
+
+The book detail page now shows a slim progress bar + `"NN% · Chapter X of Y"` below the LibraryActionRow, derived from the saved cursor. Calculation: `(currentLeafIndex + fraction) / totalLeaves`. Only renders when the user has actually started reading (`progressFraction > 0`).
+
+- Imports `flattenTocLeaves` from the reader's `bookContent` to derive the leaf list and `parseReaderPosition` (already imported) for cursor JSON.
+- New local component `BookProgressLine` + small `findChapterTitle` walker for the trailing chapter-name label.
+- i18n: `book.progressLine` in en-US + pt-BR.

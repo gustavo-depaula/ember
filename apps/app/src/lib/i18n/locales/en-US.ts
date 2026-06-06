@@ -1088,6 +1088,7 @@ export default {
     startReading: 'Start reading',
     continue: 'Continue',
     contents: 'Contents',
+    progressLine: '{{percent}}% · Chapter {{current}} of {{total}}',
   },
 
   collections: {

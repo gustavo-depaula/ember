@@ -14,6 +14,7 @@ import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
+import { flattenTocLeaves } from '@/features/books/reader/bookContent'
 import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
 import { PrologueProse } from '@/features/collections'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
@@ -57,6 +58,8 @@ export default function BookDetailScreen() {
     return langs.includes(contentLanguage) ? contentLanguage : (langs[0] ?? 'en-US')
   }, [book?.languages, entry?.langs, contentLanguage])
 
+  const leaves = useMemo(() => (book?.toc ? flattenTocLeaves(book.toc) : []), [book?.toc])
+
   if (!entry) {
     return (
       <YStack flex={1} backgroundColor="$background" alignItems="center" justifyContent="center">
@@ -73,8 +76,15 @@ export default function BookDetailScreen() {
   const description = book?.description ? localizeContent(book.description) : undefined
 
   const cursor = getCursor(bookRef)
-  const resumeChapterId = cursor ? parseReaderPosition(cursor.position)?.chapterId : undefined
+  const position = cursor ? parseReaderPosition(cursor.position) : undefined
+  const resumeChapterId = position?.chapterId
   const ctaLabel = resumeChapterId ? t('book.continue') : t('book.startReading')
+
+  const currentLeafIndex = position ? leaves.findIndex((l) => l.id === position.chapterId) : -1
+  const progressFraction =
+    leaves.length > 0 && currentLeafIndex >= 0
+      ? (currentLeafIndex + (position?.fraction ?? 0)) / leaves.length
+      : 0
 
   const readerHref = (chapter?: string): Href => ({
     pathname: '/browse/book/[bookId]/read',
@@ -117,6 +127,19 @@ export default function BookDetailScreen() {
             kind="book"
             onAddToCollection={() => setAddingToCollection(true)}
           />
+
+          {progressFraction > 0 && (
+            <BookProgressLine
+              fraction={progressFraction}
+              currentLeafIndex={currentLeafIndex}
+              totalLeaves={leaves.length}
+              label={
+                resumeChapterId && book?.toc
+                  ? findChapterTitle(book.toc, resumeChapterId, lang)
+                  : undefined
+              }
+            />
+          )}
 
           {description && <PrologueProse text={description} />}
 
@@ -247,4 +270,64 @@ function TocNodeRow({
       </Pressable>
     </ZoomLink>
   )
+}
+
+function BookProgressLine({
+  fraction,
+  currentLeafIndex,
+  totalLeaves,
+  label,
+}: {
+  fraction: number
+  currentLeafIndex: number
+  totalLeaves: number
+  label: string | undefined
+}) {
+  const { t } = useTranslation()
+  const percent = Math.max(1, Math.round(fraction * 100))
+
+  return (
+    <YStack gap="$xs" paddingHorizontal="$xs">
+      <XStack height={4} backgroundColor="$accentSubtle" borderRadius={2} overflow="hidden">
+        <YStack width={`${percent}%`} height={4} backgroundColor="$accent" borderRadius={2} />
+      </XStack>
+      <XStack alignItems="center" gap="$xs" justifyContent="space-between">
+        <Typography variant="label" fontSize="$1" color="$colorSecondary">
+          {t('book.progressLine', {
+            defaultValue: '{{percent}}% · Chapter {{current}} of {{total}}',
+            percent,
+            current: Math.max(1, currentLeafIndex + 1),
+            total: totalLeaves,
+          })}
+        </Typography>
+        {label ? (
+          <Typography
+            variant="label"
+            fontSize="$1"
+            color="$colorSecondary"
+            numberOfLines={1}
+            flex={1}
+            textAlign="right"
+            opacity={0.7}
+          >
+            {label}
+          </Typography>
+        ) : null}
+      </XStack>
+    </YStack>
+  )
+}
+
+function findChapterTitle(toc: TocNode[], chapterId: string, lang: string): string | undefined {
+  for (const node of toc) {
+    if (node.id === chapterId) {
+      const t = node.title as Record<string, string>
+      return t[lang] ?? Object.values(t)[0]
+    }
+    if (node.children) {
+      const found = findChapterTitle(node.children, chapterId, lang)
+      if (found) return found
+    }
+  }
+  return undefined
 }
