@@ -236,7 +236,10 @@ function buildHostHtml({
         paginator.setAttribute('gap', '7%');
         paginator.setAttribute('max-inline-size', '720px');
         paginator.setAttribute('max-block-size', '1440px');
-        paginator.setAttribute('max-column-count', '1');
+        // Two columns on landscape viewports wide enough for it (iPad,
+        // desktop). Foliate's portrait container query keeps phone screens
+        // at one column regardless.
+        paginator.setAttribute('max-column-count', '2');
         paginator.style.position = 'absolute';
         paginator.style.inset = '0';
         paginator.style.background = cfg.background;

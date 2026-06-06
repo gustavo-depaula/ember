@@ -117,3 +117,30 @@ Storage piggy-backs on the existing `cursors` event store — no DB migration ne
 - Menu sheet now has four rows: Contents, Bookmarks, Search, Themes & Settings (sheet height bumped to 48%).
 - The bookmark sheet has an "Add bookmark this page" action at top + a list of saved bookmarks (most recent first) with chapter title, relative timestamp, and a trash icon for soft-delete. Tap → restore `{index, fraction}` via foliate.goTo.
 - i18n: `books.bookmarks` / `addBookmark` / `removeBookmark` / `noBookmarks` in en-US + pt-BR.
+
+### Feature 8: Highlights — DEFERRED
+
+Highlights need more than fits in one feature cycle:
+- Selection-change plumbing from inside the iframe to RN (with debounce so dragging the selection cursor doesn't spam messages)
+- A floating "Highlight" toolbar that appears near the selection (positioned via Range.getBoundingClientRect())
+- Color picker UI
+- foliate-js's overlayer API for non-destructive Range painting (don't want to mutate the iframe's innerHTML — breaks selection / search)
+- Persistence with a CFI-like position so a highlight survives font-size changes (text-content search is fragile when the same string appears multiple times in a chapter)
+
+Deferring to its own PR. Skeleton for the next agent picking this up: `apps/app/src/features/books/reader/highlights.ts` mirroring `bookmarks.ts`, storing under cursor prefix `book/{bookId}/highlight/{ts}` with JSON `{chapterId, text, color, cfi, createdAt}`. Use `paginator.getContents()` + `View.overlayer` for non-destructive rendering.
+
+### Feature 9: Text-to-Speech — DEFERRED
+
+`expo-speech` isn't in the dep tree and adding it requires an EAS rebuild (which the user can't pick up during the night). The in-WebView fallback (`window.speechSynthesis`) works on iOS WebKit but hits the autoplay-gesture restriction: injected JS that calls `speak()` is treated as non-gesture by iOS and gets silently blocked unless triggered from a real touch event inside the iframe.
+
+Designing this right needs device testing iterations to find which path actually unblocks. Skeleton plan for later:
+- Inject a tiny play-affordance into each iframe doc (or hook the existing tap handler) so `speak()` runs from a real WebKit click event.
+- Bootstrap: `window.__foliate.tts.{play, pause, resume, stop}` posting `{type: 'ttsState', state}` back to RN.
+- Auto-advance to the next chapter on `utter.onend` via `foliate.goTo`.
+- Word-boundary highlighting in Phase 3 (utter.onboundary).
+
+### Feature 10: Two-page spread on tablet ✅
+
+Bumped foliate's `max-column-count` from 1 to 2 in the bootstrap. Foliate already has the layout logic — divisor = `min(maxColumnCount, ceil(size / maxInlineSize))` so iPad landscape with ~1366pt width and `--_max-inline-size: 720px` lands on 2 columns. Foliate's `@container (orientation: portrait)` query keeps phones and portrait iPads at 1 column, so this is a pure landscape-tablet win.
+
+One-line change in `apps/app/src/features/books/reader/foliate/FoliateReader.tsx`.
