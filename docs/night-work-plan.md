@@ -98,3 +98,13 @@ Cross-references between chapters (`<a href="ST.Iaq2a3">` in Aquinas, etc.) now 
 - BookReader resolves the href to a leaf id by trying exact, stripped-extension, basename, and basename-stripped variants. Logs a warning when no match (so we know what hrefs our content actually emits and can tune the resolver later).
 - `lastPosRef` (mutable ref) tracks the live `{index, fraction}` so the back-stack snapshot doesn't need to re-render the component on every relocate.
 - New i18n key: `books.backToPrevious`.
+
+### Feature 6: In-book search ✅
+
+Pure search over the already-loaded chapter bodies. Menu sheet now has three rows (Contents, Search, Themes & Settings). Search sheet opens with autofocused TextInput; results stream in as the user types (200ms debounce). Each result shows chapter title + plain-text snippet with the match highlighted in `$accent`. Tap → `foliateRef.goTo(chapterIndex, 0)` + dismiss.
+
+- New: `searchBook.ts` (pure) + 6 vitest cases. Strips HTML to plain text, case-insensitive `indexOf`, snippet window 40 chars before / 60 after, max 200 results.
+- New: `ReaderSearchSheet.tsx`. 92% snap (largest sheet — search needs vertical room for results).
+- Local `useDebounced` hook to avoid re-searching on every keystroke.
+- i18n: `books.search` / `searchPlaceholder` / `searchNoResults` / `searchResultsCount_one|_other`.
+- Limitation: jumps to top of chapter (fraction 0), not the exact match position. Foliate doesn't expose a "search within section" API, so precise positioning would mean injecting a `<mark>` or running a foliate-internal scrollToTextRange. Phase 2.

@@ -26,6 +26,7 @@ import {
 } from './foliate/FoliateReader'
 import { ReaderMenuSheet } from './ReaderMenuSheet'
 import { ReaderOverlay } from './ReaderOverlay'
+import { ReaderSearchSheet } from './ReaderSearchSheet'
 import { ReaderSettingsSheet } from './ReaderSettingsSheet'
 import { ReaderTocSheet } from './ReaderTocSheet'
 import { useReaderConfig } from './useReaderConfig'
@@ -201,6 +202,7 @@ export function BookReader({ bookId, chapter }: Props) {
   const [menuOpen, setMenuOpen] = useState(false)
   const [tocOpen, setTocOpen] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
+  const [searchOpen, setSearchOpen] = useState(false)
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
   const [navStack, setNavStack] = useState<Array<{ index: number; fraction: number }>>([])
 
@@ -335,6 +337,10 @@ export function BookReader({ bookId, chapter }: Props) {
               }
             : undefined
         }
+        onSearch={() => {
+          setMenuOpen(false)
+          setSearchOpen(true)
+        }}
         onSettings={() => {
           setMenuOpen(false)
           setSettingsOpen(true)
@@ -352,6 +358,15 @@ export function BookReader({ bookId, chapter }: Props) {
       )}
 
       <ReaderSettingsSheet open={settingsOpen} onClose={() => setSettingsOpen(false)} />
+
+      <ReaderSearchSheet
+        open={searchOpen}
+        onClose={() => setSearchOpen(false)}
+        bodies={chapters}
+        leaves={leaves}
+        titleLookup={titleLookup}
+        onSelect={(idx) => foliateRef.current?.goTo(idx, 0)}
+      />
 
       <FootnoteSheet content={footnoteHtml} onClose={() => setFootnoteHtml(undefined)} />
     </View>
