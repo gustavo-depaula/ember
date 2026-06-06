@@ -908,6 +908,9 @@ export default {
     hintNext: 'Próxima página',
     tapToDismiss: 'Toque em qualquer lugar para fechar',
     dismissHint: 'Fechar dica',
+    statStreak: 'Sequência',
+    statReadTime: 'Total lido',
+    statChapters: 'Capítulos',
     paletteLabel: 'Paleta de leitura',
     palette: {
       auto: 'Auto',

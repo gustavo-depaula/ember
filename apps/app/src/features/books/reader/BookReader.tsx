@@ -35,7 +35,7 @@ import { ReaderSettingsSheet } from './ReaderSettingsSheet'
 import { ReaderTapHint } from './ReaderTapHint'
 import { ReaderTocSheet } from './ReaderTocSheet'
 import { appendTurn, estimateMinutesPerPage, type PageTurn } from './readingPace'
-import { touchReadingStreak } from './readingStreak'
+import { getReadingStreak, touchReadingStreak } from './readingStreak'
 import { getReadingTimeMs, persistReadingTimeMs } from './readingTime'
 import { useReaderConfig } from './useReaderConfig'
 import { useReaderCursor } from './useReaderCursor'
@@ -428,7 +428,17 @@ export function BookReader({ bookId, chapter }: Props) {
         />
       )}
 
-      <ReaderSettingsSheet open={sheet === 'settings'} onClose={() => setSheet(null)} />
+      <ReaderSettingsSheet
+        open={sheet === 'settings'}
+        onClose={() => setSheet(null)}
+        stats={{
+          minutesRead:
+            totalMsRef.current > 60_000 ? Math.round(totalMsRef.current / 60_000) : undefined,
+          streakDays: getReadingStreak(bookId) || undefined,
+          completedChapters: completed.size,
+          totalChapters: leaves.length,
+        }}
+      />
 
       <ReaderSearchSheet
         open={sheet === 'search'}

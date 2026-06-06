@@ -11,7 +11,29 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const sheetFraction = 0.9
 
-export function ReaderSettingsSheet({ open, onClose }: { open: boolean; onClose: () => void }) {
+type Stats = {
+  minutesRead?: number
+  streakDays?: number
+  completedChapters?: number
+  totalChapters?: number
+}
+
+function formatMinutes(minutes: number): string {
+  if (minutes < 60) return `${minutes} min`
+  const h = Math.floor(minutes / 60)
+  const m = minutes % 60
+  return m === 0 ? `${h}h` : `${h}h ${m}m`
+}
+
+export function ReaderSettingsSheet({
+  open,
+  onClose,
+  stats,
+}: {
+  open: boolean
+  onClose: () => void
+  stats?: Stats
+}) {
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
@@ -40,6 +62,8 @@ export function ReaderSettingsSheet({ open, onClose }: { open: boolean; onClose:
           contentContainerStyle={{ paddingBottom: insets.bottom + 32 }}
         >
           <YStack gap="$lg">
+            {stats ? <StatsRow stats={stats} /> : null}
+
             <PalettePicker value={readerPalette} onChange={setReaderPalette} />
 
             <ThemePicker
@@ -56,6 +80,51 @@ export function ReaderSettingsSheet({ open, onClose }: { open: boolean; onClose:
         </ScrollView>
       </YStack>
     </BottomSheet>
+  )
+}
+
+function StatsRow({ stats }: { stats: Stats }) {
+  const { t } = useTranslation()
+  const items: { label: string; value: string }[] = []
+  if (stats.streakDays && stats.streakDays > 1) {
+    items.push({
+      label: t('books.statStreak', { defaultValue: 'Streak' }),
+      value: `🔥 ${stats.streakDays}d`,
+    })
+  }
+  if (stats.minutesRead) {
+    items.push({
+      label: t('books.statReadTime', { defaultValue: 'Total read' }),
+      value: formatMinutes(stats.minutesRead),
+    })
+  }
+  if (typeof stats.completedChapters === 'number' && typeof stats.totalChapters === 'number') {
+    items.push({
+      label: t('books.statChapters', { defaultValue: 'Chapters' }),
+      value: `${stats.completedChapters} / ${stats.totalChapters}`,
+    })
+  }
+  if (items.length === 0) return null
+  return (
+    <XStack
+      backgroundColor="$backgroundSurface"
+      borderRadius="$lg"
+      paddingVertical="$sm"
+      paddingHorizontal="$md"
+      gap="$lg"
+      justifyContent="space-around"
+    >
+      {items.map((it) => (
+        <YStack key={it.label} alignItems="center" gap={2}>
+          <Text fontFamily="$body" fontSize="$3" color="$color" fontWeight="600">
+            {it.value}
+          </Text>
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+            {it.label}
+          </Text>
+        </YStack>
+      ))}
+    </XStack>
   )
 }
 

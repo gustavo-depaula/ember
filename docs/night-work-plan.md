@@ -313,3 +313,12 @@ Previously search-result taps jumped to the top of the chapter. Now the bootstra
 - Extended `FoliateReaderHandle` with `goToWithFind(index, findText)`.
 - ReaderSearchSheet's `onSelect` now passes the query alongside the chapter index; BookReader forwards to `goToWithFind`.
 - Limitation: cross-element text spans (where the match straddles two text nodes) fail to find — uncommon in book content (most matches are inside a single `<p>`'s text node) but documented for Phase 3.
+
+### Feature 26 (P2.15): Stats row at top of settings sheet ✅
+
+The settings sheet now opens with a 3-stat row at the top: streak (when ≥2 days), total read-time, chapters completed/total. All derived from existing per-book persistence — no new storage. Surfaced inside the reader so users don't have to back out to the frontispiece to see their numbers.
+
+- New `StatsRow` component inline in `ReaderSettingsSheet.tsx` (only renders items with data).
+- BookReader passes a `stats: {minutesRead, streakDays, completedChapters, totalChapters}` prop, derived from `totalMsRef.current`, `getReadingStreak(bookId)`, and the `completed` Set.
+- `formatMinutes` co-located (same helper as frontispiece — small enough to duplicate; would extract if a third caller appears).
+- i18n: `books.statStreak`, `books.statReadTime`, `books.statChapters`.

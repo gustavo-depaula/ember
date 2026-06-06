@@ -900,6 +900,9 @@ export default {
     hintNext: 'Next page',
     tapToDismiss: 'Tap anywhere to dismiss',
     dismissHint: 'Dismiss hint',
+    statStreak: 'Streak',
+    statReadTime: 'Total read',
+    statChapters: 'Chapters',
     paletteLabel: 'Reader palette',
     palette: {
       auto: 'Auto',
