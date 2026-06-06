@@ -1107,6 +1107,7 @@ export default {
     continue: 'Continuar',
     contents: 'Sumário',
     progressLine: '{{percent}}% · Capítulo {{current}} de {{total}}',
+    lastRead: 'Lido {{when}}',
   },
 
   collections: {

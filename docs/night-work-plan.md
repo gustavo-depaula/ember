@@ -197,3 +197,10 @@ The bottom chrome line now shows "~N min" appended to "N pages left in chapter" 
 - New pure `readingPace.ts`: `appendTurn` / `estimateMinutesPerPage(turns): number | undefined`. 5 vitest cases covering empty / median / pause filter / 20-turn cap / appendTurn rolling.
 - BookReader tracks turns in a ref (no re-render on every turn) and stores the latest estimate in state. `minutesLeft = pagesLeft × medianMpp` (rounded, floored at 1 min).
 - i18n: pluralized `books.minutesLeft_one|_other` in en-US + pt-BR.
+
+### Feature 16 (P2.5): "Last read X ago" on frontispiece ✅
+
+`useReaderCursor.flush` now embeds `updatedAt: Date.now()` into the cursor JSON; `parseReaderPosition` exposes it on the parsed object. The frontispiece `BookProgressLine` shows "Last read 23 min ago" / "Last read 3 days ago" (via `formatSoftRelative`) below the progress bar when the cursor has an `updatedAt` field. Old cursors without it stay silent — non-breaking migration.
+
+- New type field `ReaderPosition.updatedAt`, populated by every flush.
+- i18n: `book.lastRead` in en-US + pt-BR.

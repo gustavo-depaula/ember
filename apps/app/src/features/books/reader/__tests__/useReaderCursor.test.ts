@@ -6,7 +6,14 @@ describe('parseReaderPosition', () => {
     expect(parseReaderPosition(JSON.stringify({ chapterId: 'ch-1', fraction: 0.42 }))).toEqual({
       chapterId: 'ch-1',
       fraction: 0.42,
+      updatedAt: undefined,
     })
+  })
+
+  it('parses updatedAt when present', () => {
+    expect(
+      parseReaderPosition(JSON.stringify({ chapterId: 'ch', fraction: 0.1, updatedAt: 12345 })),
+    ).toEqual({ chapterId: 'ch', fraction: 0.1, updatedAt: 12345 })
   })
 
   it('reads legacy {chapterId, page} cursors as fraction=0', () => {

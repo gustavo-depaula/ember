@@ -1100,6 +1100,7 @@ export default {
     continue: 'Continue',
     contents: 'Contents',
     progressLine: '{{percent}}% · Chapter {{current}} of {{total}}',
+    lastRead: 'Last read {{when}}',
   },
 
   collections: {

@@ -6,6 +6,8 @@ export type ReaderPosition = {
   chapterId: string
   /** 0..1 within the chapter — foliate's relocate.fraction. */
   fraction: number
+  /** Unix ms of the last save. Embedded by `useReaderCursor.save`. */
+  updatedAt?: number
 }
 
 type LegacyPosition = { chapterId: string; page?: number }
@@ -20,7 +22,8 @@ export function parseReaderPosition(raw: string): ReaderPosition | undefined {
     // Legacy {chapterId, page} cursors lose intra-chapter precision but land
     // on the right chapter, which is the load-bearing bit.
     const fraction = typeof v.fraction === 'number' ? v.fraction : 0
-    return { chapterId: v.chapterId, fraction }
+    const updatedAt = typeof v.updatedAt === 'number' ? v.updatedAt : undefined
+    return { chapterId: v.chapterId, fraction, updatedAt }
   } catch {
     return undefined
   }
@@ -65,7 +68,7 @@ export function useReaderCursor(bookId: string | undefined) {
     if (!bookId || !pos) return
     if (samePosition(pos, lastWrittenRef.current)) return
     lastWrittenRef.current = pos
-    void setCursor(bookCursorId(bookId), JSON.stringify(pos))
+    void setCursor(bookCursorId(bookId), JSON.stringify({ ...pos, updatedAt: Date.now() }))
   }, [bookId])
 
   const save = useCallback(

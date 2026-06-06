@@ -20,6 +20,7 @@ import { PrologueProse } from '@/features/collections'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { localizeContent } from '@/lib/i18n'
+import { formatSoftRelative } from '@/lib/softRelative'
 import { useNowPlayingClearance } from '@/stores/creatorsStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -133,6 +134,7 @@ export default function BookDetailScreen() {
               fraction={progressFraction}
               currentLeafIndex={currentLeafIndex}
               totalLeaves={leaves.length}
+              updatedAt={position?.updatedAt}
               label={
                 resumeChapterId && book?.toc
                   ? findChapterTitle(book.toc, resumeChapterId, lang)
@@ -276,11 +278,13 @@ function BookProgressLine({
   fraction,
   currentLeafIndex,
   totalLeaves,
+  updatedAt,
   label,
 }: {
   fraction: number
   currentLeafIndex: number
   totalLeaves: number
+  updatedAt: number | undefined
   label: string | undefined
 }) {
   const { t } = useTranslation()
@@ -314,6 +318,17 @@ function BookProgressLine({
           </Typography>
         ) : null}
       </XStack>
+      {updatedAt ? (
+        <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+          {t('book.lastRead', {
+            defaultValue: 'Last read {{when}}',
+            when: formatSoftRelative(updatedAt, {
+              justNow: t('common.justNow', { defaultValue: 'just now' }),
+              aMomentAgo: t('common.aMomentAgo', { defaultValue: 'a moment ago' }),
+            }),
+          })}
+        </Typography>
+      ) : null}
     </YStack>
   )
 }
