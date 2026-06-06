@@ -140,6 +140,7 @@ export default function BookDetailScreen() {
               fraction={progressFraction}
               currentLeafIndex={currentLeafIndex}
               totalLeaves={leaves.length}
+              completedCount={completed.size}
               updatedAt={position?.updatedAt}
               label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
             />
@@ -290,12 +291,14 @@ function BookProgressLine({
   fraction,
   currentLeafIndex,
   totalLeaves,
+  completedCount,
   updatedAt,
   label,
 }: {
   fraction: number
   currentLeafIndex: number
   totalLeaves: number
+  completedCount: number
   updatedAt?: number
   label?: string
 }) {
@@ -330,17 +333,30 @@ function BookProgressLine({
           </Typography>
         ) : null}
       </XStack>
-      {updatedAt ? (
-        <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
-          {t('book.lastRead', {
-            defaultValue: 'Last read {{when}}',
-            when: formatSoftRelative(updatedAt, {
-              justNow: t('common.justNow', { defaultValue: 'just now' }),
-              aMomentAgo: t('common.aMomentAgo', { defaultValue: 'a moment ago' }),
-            }),
-          })}
-        </Typography>
-      ) : null}
+      <XStack alignItems="center" justifyContent="space-between">
+        {completedCount > 0 ? (
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+            {t('book.chaptersFinished', {
+              defaultValue: '{{done}} of {{total}} chapters finished',
+              done: completedCount,
+              total: totalLeaves,
+            })}
+          </Typography>
+        ) : (
+          <YStack />
+        )}
+        {updatedAt ? (
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+            {t('book.lastRead', {
+              defaultValue: 'Last read {{when}}',
+              when: formatSoftRelative(updatedAt, {
+                justNow: t('common.justNow', { defaultValue: 'just now' }),
+                aMomentAgo: t('common.aMomentAgo', { defaultValue: 'a moment ago' }),
+              }),
+            })}
+          </Typography>
+        ) : null}
+      </XStack>
     </YStack>
   )
 }

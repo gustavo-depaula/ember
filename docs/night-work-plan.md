@@ -204,3 +204,9 @@ The bottom chrome line now shows "~N min" appended to "N pages left in chapter" 
 
 - New type field `ReaderPosition.updatedAt`, populated by every flush.
 - i18n: `book.lastRead` in en-US + pt-BR.
+
+### Feature 18 (P2.6 + P2.7): Completion checks + counts on frontispiece ✅
+
+Same check icons as the reader's TOC sheet now appear next to completed leaves in the frontispiece's Contents tree. A new "N of M chapters finished" line in `BookProgressLine` (right-aligned next to "Last read X ago") gives a single-glance stat. Both use the same `listCompletedChapters(bookId)` Set already consumed elsewhere — no new infrastructure.
+
+- i18n: `book.chaptersFinished`.

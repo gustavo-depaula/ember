@@ -1108,6 +1108,7 @@ export default {
     contents: 'Sumário',
     progressLine: '{{percent}}% · Capítulo {{current}} de {{total}}',
     lastRead: 'Lido {{when}}',
+    chaptersFinished: '{{done}} de {{total}} capítulos concluídos',
   },
 
   collections: {
