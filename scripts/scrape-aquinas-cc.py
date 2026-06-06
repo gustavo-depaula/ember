@@ -806,6 +806,53 @@ WORKS_CC: dict[str, WorkSpec] = {
         parts=[{"wid": 85, "did_la": 313, "did_en": 316, "label_en": "On Boethius's De Trinitate", "label_la": "Super De Trinitate Boethii", "rows": 913}],
         outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
     ),
+    # ------ Round 7: Catena Aurea on Matthew, Luke, John (bilingual). ------
+    # Mark uses a quirky aquinas.cc outline (most refs are bare "CaMark"
+    # with title-based chapter/lecture identification); handled separately.
+    "catena-matthew": WorkSpec(
+        slug="catena-matthew", sub_path="catena-aurea/matthew", book_id="aquinas-catena-aurea-matthew",
+        name_en="Catena Aurea on Matthew", name_la="Catena Aurea in Evangelium secundum Matthaeum",
+        composed="1262–1263",
+        description_en="Aquinas's verse-by-verse gloss on the Gospel of Matthew, weaving the Greek and Latin Fathers into a single continuous commentary. The first volume of the *Golden Chain*, commissioned by Pope Urban IV.",
+        description_la="Glossa textualis super Evangelium secundum Matthaeum, ex commentariis sanctorum patrum graecorum et latinorum confecta, Urbano IV pontifice iubente. Catenae Aureae volumen primum.",
+        en_translator_note="John Henry Parker translation, London 1841–1845 (PD), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 69, "did_la": 257, "did_en": 540, "label_en": "Catena Aurea on Matthew", "label_la": "Catena in Matthaeum", "rows": 6371}],
+        outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "catena-luke": WorkSpec(
+        slug="catena-luke", sub_path="catena-aurea/luke", book_id="aquinas-catena-aurea-luke",
+        name_en="Catena Aurea on Luke", name_la="Catena Aurea in Evangelium secundum Lucam",
+        composed="c. 1264",
+        description_en="Aquinas's continuous patristic gloss on the Gospel of Luke. Second of the Mark/Luke/John volumes dedicated to Cardinal Annibaldi after Urban IV's death.",
+        description_la="Glossa continua patristica super Evangelium secundum Lucam. Secundum voluminum Marci/Lucae/Iohannis Cardinali Hannibaldo post obitum Urbani IV dedicatorum.",
+        en_translator_note="John Henry Parker translation, London 1841–1845 (PD), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 71, "did_la": 269, "did_en": 537, "label_en": "Catena Aurea on Luke", "label_la": "Catena in Lucam", "rows": 5165}],
+        outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    "catena-john": WorkSpec(
+        slug="catena-john", sub_path="catena-aurea/john", book_id="aquinas-catena-aurea-john",
+        name_en="Catena Aurea on John", name_la="Catena Aurea in Evangelium secundum Iohannem",
+        composed="c. 1264–1265",
+        description_en="Aquinas's continuous patristic gloss on the Gospel of John. The fourth and final volume of the *Catena Aurea*.",
+        description_la="Glossa continua patristica super Evangelium secundum Iohannem. Catenae Aureae volumen quartum et ultimum.",
+        en_translator_note="John Henry Parker translation, London 1841–1845 (PD), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[{"wid": 72, "did_la": 271, "did_en": 538, "label_en": "Catena Aurea on John", "label_la": "Catena in Iohannem", "rows": 3887}],
+        outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
+    # Aquinas's own Commentary on John (Lectures on John 1–8 and 9–21).
+    "super-iohannem-cc": WorkSpec(
+        slug="super-iohannem-cc", sub_path="biblical/super-iohannem", book_id="aquinas-super-iohannem",
+        name_en="Commentary on John", name_la="Super Evangelium S. Ioannis lectura",
+        composed="1270–1272",
+        description_en="Aquinas's lecture-by-lecture commentary on the Gospel of John, delivered at Paris during the second regency. The fullest of his Gospel commentaries.",
+        description_la="Expositio Thomae lectionum in Evangelium secundum Iohannem, apud Parisios in regentia secunda habita. Maximum eius in Evangelia commentarium.",
+        en_translator_note="English translation by Fabian R. Larcher OP and James A. Weisheipl OP (1980, copyrighted; later revised by the Aquinas Institute). Mirrored from aquinas.cc.",
+        parts=[
+            {"wid": 53, "did_la": 188, "did_en": 190, "label_en": "John 1-8", "label_la": "In Iohannem c. 1-8", "rows": 4140},
+            {"wid": 54, "did_la": 192, "did_en": 194, "label_en": "John 9-21", "label_la": "In Iohannem c. 9-21", "rows": 4410},
+        ],
+        outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
+    ),
 }
 
 
@@ -941,8 +988,20 @@ def fetch_cells(did: int, total_rows: int, chunk: int = 500) -> list[tuple[int, 
         rows = d[1]
         if not rows:
             break
-        # Each row is [row_id, html]
-        all_rows.extend((int(r[0]), r[1]) for r in rows)
+        # Each row is normally [row_id, html] but the Catena Aurea
+        # widths emit a few short list shapes — "S" (section divider,
+        # no html), or just [row_id]. Coerce safely and skip rows
+        # without html.
+        for i_off, r in enumerate(rows):
+            if not isinstance(r, list) or not r:
+                all_rows.append((start + i_off, ""))
+                continue
+            try:
+                rid = int(r[0])
+            except (ValueError, TypeError):
+                rid = start + i_off
+            html = r[1] if len(r) > 1 else ""
+            all_rows.append((rid, html))
         start += len(rows)
         if len(rows) < chunk:
             break
@@ -1332,22 +1391,35 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
     total = 0
     has_english = bool(spec.parts[0].get("did_en"))
     languages = ["en-US", "la"] if has_english else ["la"]
-    # We assume single-part for two-level works.
-    part = spec.parts[0]
-    wid, did_la, did_en, rows = part["wid"], part["did_la"], part["did_en"], part["rows"]
-    print(f"  [{spec.slug}] wid={wid} ({rows} rows, shape={shape_hint})")
-    style_chars, outline_dict = fetch_structure(wid)
-    root = parse_outline(outline_dict)
-    entries = _extract_two_level(root)
-    la_rows = fetch_cells(did_la, rows)
-    en_rows = fetch_cells(did_en, rows) if has_english else [(rid, "") for rid, _ in la_rows]
+    # Multiple parts (e.g. Super Iohannem = wid 53 + 54 for John 1-8 and
+    # John 9-21) are merged into one continuous TOC. Each part contributes
+    # its own (style_chars, la_rows, en_rows) — we tag each entry with
+    # part_idx and look them up at render time.
+    per_part: list[dict] = []
+    all_entries: list[dict] = []
+    for part_idx, part in enumerate(spec.parts):
+        wid, did_la, did_en, rows = part["wid"], part["did_la"], part["did_en"], part["rows"]
+        print(f"  [{spec.slug}] part {part_idx+1}/{len(spec.parts)} wid={wid} ({rows} rows, shape={shape_hint})")
+        style_chars, outline_dict = fetch_structure(wid)
+        root = parse_outline(outline_dict)
+        entries = _extract_two_level(root)
+        la_rows = fetch_cells(did_la, rows)
+        en_rows = fetch_cells(did_en, rows) if has_english else [(rid, "") for rid, _ in la_rows]
+        per_part.append({"style": style_chars, "la_rows": la_rows, "en_rows": en_rows})
+        for entry in entries:
+            entry["part_idx"] = part_idx
+            all_entries.append(entry)
 
-    # Group entries by group_idx and build TOC.
-    group_to_entries: dict[int, list[dict]] = {}
-    group_info: dict[int, tuple[str, str]] = {}  # idx → (clean_title, ref)
-    for entry in entries:
-        group_to_entries.setdefault(entry["group_idx"], []).append(entry)
-        group_info[entry["group_idx"]] = (_clean_outline_title(entry["group_title"]), entry["group_ref"])
+    # Group entries by group_idx and build TOC. For multi-part works, the
+    # group_idx can collide across parts — we discriminate by (part_idx,
+    # group_idx) to keep them separate, but in the TOC we use a global
+    # running group counter.
+    group_to_entries: dict[tuple[int, int], list[dict]] = {}
+    group_info: dict[tuple[int, int], tuple[str, str]] = {}
+    for entry in all_entries:
+        key = (entry["part_idx"], entry["group_idx"])
+        group_to_entries.setdefault(key, []).append(entry)
+        group_info[key] = (_clean_outline_title(entry["group_title"]), entry["group_ref"])
 
     # Decide labels based on shape (Q/A vs Book/Chapter)
     if shape_hint == "question_article":
@@ -1361,12 +1433,6 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
         leaf_label_en = spec.chapter_label_en
         leaf_label_la = spec.chapter_label_la
 
-    work_prefix = ""
-    for c in root.children:
-        if c.ref:
-            work_prefix = c.ref.split(".")[0]
-            break
-    work_prefix = slug(work_prefix)
     # Determine: do we wrap each group as a TOC node, or flatten the
     # entries if there's only one group? Also flatten when every group
     # holds exactly one chapter that *is* the group itself (e.g. Psalms,
@@ -1377,41 +1443,46 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
         for es in group_to_entries.values()
     )
     multi_group = len(group_to_entries) > 1 and not only_self_groups
-    for g_idx in sorted(group_to_entries):
-        group_title, group_ref = group_info[g_idx]
-        entries_in_group = group_to_entries[g_idx]
+
+    sorted_keys = sorted(group_to_entries)
+    key_to_global_idx = {k: i + 1 for i, k in enumerate(sorted_keys)}
+    global_seen_cids: set[str] = set()
+    for key in sorted_keys:
+        part_idx_of_group, _local_g_idx = key
+        global_g_idx = key_to_global_idx[key]
+        group_title, group_ref = group_info[key]
+        entries_in_group = group_to_entries[key]
         # Group TOC node (Question N — title / Book N — title)
         group_node = {
-            "id": f"g{g_idx}",
+            "id": f"g{global_g_idx}",
             "title": {
-                "en-US": f"{group_label_en} {g_idx}" + (f" — {group_title}" if group_title else ""),
-                "la": f"{group_label_la} {g_idx}",
+                "en-US": f"{group_label_en} {global_g_idx}" + (f" — {group_title}" if group_title else ""),
+                "la": f"{group_label_la} {global_g_idx}",
             },
             "children": [],
         } if multi_group else None
-        seen_cids: set[str] = set()
         for entry in entries_in_group:
             chap_num = entry["chap_num"]
             chap_title_clean = _clean_outline_title(entry["chap_title"])
             # File id
             if multi_group:
                 if chap_num == 0:
-                    cid = f"g{g_idx}-pr"
+                    cid = f"g{global_g_idx}-pr"
                 else:
-                    cid = f"g{g_idx}-c{chap_num:03d}"
+                    cid = f"g{global_g_idx}-c{chap_num:03d}"
             else:
                 if chap_num == 0:
                     cid = "prologue"
                 else:
                     cid = f"ch{chap_num:03d}"
-            # Defend against duplicate refs in the outline (occasionally
-            # aquinas.cc emits the same anchor twice; cf. Lamentations C3).
+            # Defend against duplicate refs in the outline (Lamentations
+            # C3, multi-part collisions).
             base_cid = cid
             suffix_i = 2
-            while cid in seen_cids:
+            while cid in global_seen_cids:
                 cid = f"{base_cid}-{suffix_i}"
                 suffix_i += 1
-            seen_cids.add(cid)
+            global_seen_cids.add(cid)
             # Chapter title
             if chap_num == 0:
                 chap_title_en = f"Prologue — {chap_title_clean}" if chap_title_clean else "Prologue"
@@ -1422,12 +1493,13 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
             chap = OutlineNode(title=chap_title_en, ref="", position=entry["position"], children=[])
             chap_la = OutlineNode(title=chap_title_la, ref="", position=entry["position"], children=[])
             end_pos = entry["end_position"]
+            pp = per_part[entry["part_idx"]]
             md_en = render_chapter(
-                chap, style_chars, la_rows, en_rows, "en-US", end_pos,
+                chap, pp["style"], pp["la_rows"], pp["en_rows"], "en-US", end_pos,
                 fallback_title=chap_title_en, promote_rubric_labels=spec.promote_rubric_labels,
             )
             md_la = render_chapter(
-                chap_la, style_chars, la_rows, en_rows, "la", end_pos,
+                chap_la, pp["style"], pp["la_rows"], pp["en_rows"], "la", end_pos,
                 fallback_title=chap_title_la, promote_rubric_labels=spec.promote_rubric_labels,
             )
             if not dry_run:
@@ -2108,6 +2180,157 @@ def build_summa_contra_gentiles(dry_run: bool = False) -> dict:
 
 
 # ---------------------------------------------------------------------------
+# Catena Aurea on Mark — title-based extractor (refs are all "CaMark")
+# ---------------------------------------------------------------------------
+
+CATENA_MARK_CHAPTER_RE = re.compile(r"^Chapter\s+(\d+)\s*(?:<n-sh\b|$)", re.IGNORECASE)
+CATENA_MARK_LECTURE_RE = re.compile(r"^Lecture\s+(\d+)\s*(?:<n-sh\b|$)", re.IGNORECASE)
+
+
+def build_catena_mark(dry_run: bool = False) -> dict:
+    """Catena Aurea on Mark — aquinas.cc emits a quirky outline where most
+    refs collapse to bare "CaMark" and the actual chapter/lecture identity
+    lives only in the title text. So we walk by title pattern, not ref."""
+    book_dir = BOOKS_ROOT / "catena-aurea" / "mark"
+    en_dir = book_dir / "en-US"
+    la_dir = book_dir / "la"
+    if not dry_run:
+        for sub in (en_dir, la_dir):
+            if sub.is_dir():
+                for f in sub.glob("*.md"):
+                    f.unlink()
+            sub.mkdir(parents=True, exist_ok=True)
+
+    wid, did_la, did_en, rows = 70, 259, 261, 2280
+    print(f"  [catena-mark] wid={wid} ({rows} rows)")
+    style_chars, outline_dict = fetch_structure(wid)
+    root = parse_outline(outline_dict)
+    la_rows = fetch_cells(did_la, rows)
+    en_rows = fetch_cells(did_en, rows)
+
+    # Walk top-level and gather (kind, num, title, position, children) entries.
+    chapters: list[dict] = []
+    for c in root.children:
+        title = c.title or ""
+        m_ch = CATENA_MARK_CHAPTER_RE.match(title)
+        m_de = title.lower().startswith("dedication")
+        m_pr = title.lower().startswith("prologue")
+        if m_de:
+            chapters.append({"kind": "ded", "num": 0, "title": "Dedication", "position": c.position, "leaves": []})
+        elif m_pr:
+            chapters.append({"kind": "pr", "num": 0, "title": "Prologue", "position": c.position, "leaves": []})
+        elif m_ch:
+            ch_num = int(m_ch.group(1))
+            leaves = []
+            for sub in c.children:
+                m_l = CATENA_MARK_LECTURE_RE.match(sub.title or "")
+                if m_l:
+                    leaves.append({"num": int(m_l.group(1)), "position": sub.position})
+            chapters.append({"kind": "ch", "num": ch_num, "title": f"Chapter {ch_num}", "position": c.position, "leaves": leaves})
+
+    # Compute end_positions across all leaves (and chapter/group anchors).
+    # Build a flat sequence of (kind, group_num, leaf_num, position) sorted
+    # by position, then fill end_positions.
+    flat: list[dict] = []
+    for ch in chapters:
+        if ch["kind"] in ("ded", "pr"):
+            flat.append({"key": (ch["kind"], 0), "title": ch["title"], "position": ch["position"], "ch_num": 0, "leaf_num": 0})
+        else:
+            ch_num = ch["num"]
+            if not ch["leaves"]:
+                flat.append({"key": ("ch", ch_num), "title": ch["title"], "position": ch["position"], "ch_num": ch_num, "leaf_num": 0})
+            else:
+                ch["leaves"].sort(key=lambda x: x["position"])
+                # Optional chapter-prologue: from chapter.position to first leaf
+                first_leaf_pos = ch["leaves"][0]["position"]
+                if first_leaf_pos > ch["position"]:
+                    flat.append({"key": ("ch-pr", ch_num), "title": f"Chapter {ch_num} — Introduction", "position": ch["position"], "ch_num": ch_num, "leaf_num": 0})
+                for leaf in ch["leaves"]:
+                    flat.append({"key": ("lect", ch_num, leaf["num"]), "title": f"Chapter {ch_num} — Lecture {leaf['num']}", "position": leaf["position"], "ch_num": ch_num, "leaf_num": leaf["num"]})
+    flat.sort(key=lambda x: x["position"])
+    for i in range(len(flat) - 1):
+        flat[i]["end_position"] = flat[i + 1]["position"]
+    if flat:
+        flat[-1]["end_position"] = 10_000_000
+
+    # Render + build TOC
+    toc: list[dict] = []
+    chapter_node_for: dict[int, dict] = {}
+    total = 0
+    for entry in flat:
+        key = entry["key"]
+        if key[0] == "ded":
+            cid = "dedication"
+            en_t, la_t = "Dedication", "Dedicatio"
+        elif key[0] == "pr":
+            cid = "prologue"
+            en_t, la_t = "Prologue", "Prooemium"
+        elif key[0] == "ch":
+            cid = f"ch{entry['ch_num']:02d}-l1"
+            en_t = f"Chapter {entry['ch_num']}"
+            la_t = f"Caput {entry['ch_num']}"
+        elif key[0] == "ch-pr":
+            cid = f"ch{entry['ch_num']:02d}-pr"
+            en_t = f"Chapter {entry['ch_num']} — Introduction"
+            la_t = f"Caput {entry['ch_num']} — Prooemium"
+        else:  # lect
+            cid = f"ch{entry['ch_num']:02d}-l{entry['leaf_num']:02d}"
+            en_t = f"Chapter {entry['ch_num']} · Lecture {entry['leaf_num']}"
+            la_t = f"Caput {entry['ch_num']} · Lectio {entry['leaf_num']}"
+
+        chap = OutlineNode(title=en_t, ref="", position=entry["position"], children=[])
+        chap_la = OutlineNode(title=la_t, ref="", position=entry["position"], children=[])
+        md_en = render_chapter(chap, style_chars, la_rows, en_rows, "en-US", entry["end_position"], fallback_title=en_t)
+        md_la = render_chapter(chap_la, style_chars, la_rows, en_rows, "la", entry["end_position"], fallback_title=la_t)
+        if not dry_run:
+            (en_dir / f"{cid}.md").write_text(md_en, encoding="utf-8")
+            (la_dir / f"{cid}.md").write_text(md_la, encoding="utf-8")
+        total += 1
+
+        # TOC: group by chapter
+        if key[0] in ("ded", "pr"):
+            toc.append({"id": cid, "title": {"en-US": en_t, "la": la_t}})
+        else:
+            ch_num = entry["ch_num"]
+            if ch_num not in chapter_node_for:
+                node = {"id": f"ch{ch_num:02d}", "title": {"en-US": f"Chapter {ch_num}", "la": f"Caput {ch_num}"}, "children": []}
+                chapter_node_for[ch_num] = node
+                toc.append(node)
+            chapter_node_for[ch_num]["children"].append({"id": cid, "title": {"en-US": en_t, "la": la_t}})
+
+    manifest = {
+        "id": "aquinas-catena-aurea-mark",
+        "name": {"en-US": "Catena Aurea on Mark", "la": "Catena Aurea in Evangelium secundum Marcum"},
+        "author": dict(AUTHOR),
+        "description": {
+            "en-US": "Aquinas's continuous patristic gloss on the Gospel of Mark. First of the Mark/Luke/John volumes dedicated to Cardinal Annibaldi after Pope Urban IV's death.",
+            "la": "Glossa continua patristica super Evangelium secundum Marcum. Primum voluminum Marci/Lucae/Iohannis Cardinali Hannibaldo post obitum Urbani IV dedicatorum.",
+        },
+        "composed": "c. 1264",
+        "languages": ["en-US", "la"],
+        "sources": [
+            {
+                "language": "en-US",
+                "url": "https://aquinas.cc/la/en/~Catena in Marcum",
+                "description": "John Henry Parker translation, London 1841–1845 (PD), revised by the Aquinas Institute. Mirrored from aquinas.cc.",
+            },
+            {
+                "language": "la",
+                "url": "https://aquinas.cc/la/en/~Catena in Marcum",
+                "description": "Latin Marietti / Leonine edition (public domain), mirrored from aquinas.cc.",
+            },
+        ],
+        "toc": toc,
+    }
+    if not dry_run:
+        (book_dir / "book.json").write_text(
+            json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+    return {"book": "aquinas-catena-aurea-mark", "chapters": total}
+
+
+# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
 
@@ -2157,6 +2380,9 @@ def main() -> int:
         print(json.dumps(result, indent=2))
     elif cmd == "scg":
         result = build_summa_contra_gentiles()
+        print(json.dumps(result, indent=2))
+    elif cmd == "catena-mark":
+        result = build_catena_mark()
         print(json.dumps(result, indent=2))
     else:
         print(f"unknown command: {cmd}")

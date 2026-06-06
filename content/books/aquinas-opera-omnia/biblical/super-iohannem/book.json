@@ -1,16 +1,16 @@
 {
   "id": "aquinas-super-iohannem",
   "name": {
-    "en-US": "Commentary on the Gospel of John",
-    "la": "Super Evangelium S. Ioannis Lectura"
+    "en-US": "Commentary on John",
+    "la": "Super Evangelium S. Ioannis lectura"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Aquinas's commentary on John — widely considered his finest Scripture commentary, the fruit of his second Paris regency. 21 chapters plus an appendix.",
-    "la": "Expositio Thomae in Ioannem — a multis fructus optimus expositionum Sacrae Scripturae aestimata, opus regentiae secundae Parisiensis. 21 capita cum appendice."
+    "en-US": "Aquinas's lecture-by-lecture commentary on the Gospel of John, delivered at Paris during the second regency. The fullest of his Gospel commentaries.",
+    "la": "Expositio Thomae lectionum in Evangelium secundum Iohannem, apud Parisios in regentia secunda habita. Maximum eius in Evangelia commentarium."
   },
   "composed": "1270–1272",
   "languages": [
@@ -20,1232 +20,1411 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Fabian R. Larcher, O.P., and James A. Weisheipl, O.P. (Magi Books, 1980; revised Aquinas Institute, 2010). Translation status: may be under copyright in the United States until 2075; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~In Iohannem c. 9-21",
+      "description": "English translation by Fabian R. Larcher OP and James A. Weisheipl OP (1980, copyrighted; later revised by the Aquinas Institute). Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~In Iohannem c. 9-21",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "book-1",
+      "id": "g1",
       "title": {
-        "en-US": "Chapter 1",
+        "en-US": "Chapter 1 — Isaiah 6:1",
         "la": "Caput 1"
       },
       "children": [
         {
-          "id": "b1-ch001",
+          "id": "g1-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — Isaiah 6:1",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "Chapter 2 — Prologue of Saint Jerome",
+        "la": "Caput 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — Prologue of Saint Jerome",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": {
+        "en-US": "Chapter 3 — Exposition of St. Thomas",
+        "la": "Caput 3"
+      },
+      "children": [
+        {
+          "id": "g3-pr",
+          "title": {
+            "en-US": "Prologue — Exposition of St. Thomas",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": {
+        "en-US": "Chapter 4 — The Word of God",
+        "la": "Caput 4"
+      },
+      "children": [
+        {
+          "id": "g4-pr",
+          "title": {
+            "en-US": "Prologue — The Word of God",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Lecture 1 — Eternity of the Word",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b1-ch002",
+          "id": "g4-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Power of the Word",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b1-ch003",
+          "id": "g4-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — The light of men",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b1-ch004",
+          "id": "g4-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — The testimony of John",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b1-ch005",
+          "id": "g4-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — The world’s ignorance of its maker",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b1-ch006",
+          "id": "g4-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — Reception of the Word",
             "la": "Lectio 6"
           }
         },
         {
-          "id": "b1-ch007",
+          "id": "g4-c007",
           "title": {
-            "en-US": "Lecture 7",
+            "en-US": "Lecture 7 — Incarnation of the Word",
             "la": "Lectio 7"
           }
         },
         {
-          "id": "b1-ch008",
+          "id": "g4-c008",
           "title": {
-            "en-US": "Lecture 8",
+            "en-US": "Lecture 8 — Knowledge of the Word",
             "la": "Lectio 8"
           }
         },
         {
-          "id": "b1-ch009",
+          "id": "g4-c009",
           "title": {
-            "en-US": "Lecture 9",
+            "en-US": "Lecture 9 — John’s witness",
             "la": "Lectio 9"
           }
         },
         {
-          "id": "b1-ch010",
+          "id": "g4-c010",
           "title": {
-            "en-US": "Lecture 10",
+            "en-US": "Lecture 10 — Grace and truth through Christ",
             "la": "Lectio 10"
           }
         },
         {
-          "id": "b1-ch011",
+          "id": "g4-c011",
           "title": {
-            "en-US": "Lecture 11",
+            "en-US": "Lecture 11 — Revelation of the Son",
             "la": "Lectio 11"
           }
         },
         {
-          "id": "b1-ch012",
+          "id": "g4-c012",
           "title": {
-            "en-US": "Lecture 12",
+            "en-US": "Lecture 12 — Identity of John",
             "la": "Lectio 12"
           }
         },
         {
-          "id": "b1-ch013",
+          "id": "g4-c013",
           "title": {
-            "en-US": "Lecture 13",
+            "en-US": "Lecture 13 — John’s baptism",
             "la": "Lectio 13"
           }
         },
         {
-          "id": "b1-ch014",
+          "id": "g4-c014",
           "title": {
-            "en-US": "Lecture 14",
+            "en-US": "Lecture 14 — Coming of Christ to John",
             "la": "Lectio 14"
           }
         },
         {
-          "id": "b1-ch015",
+          "id": "g4-c015",
           "title": {
-            "en-US": "Lecture 15",
+            "en-US": "Lecture 15 — Calling of Andrew and Peter",
             "la": "Lectio 15"
           }
         },
         {
-          "id": "b1-ch016",
+          "id": "g4-c016",
           "title": {
-            "en-US": "Lecture 16",
+            "en-US": "Lecture 16 — Calling of Philip and Nathanael",
             "la": "Lectio 16"
           }
         }
       ]
     },
     {
-      "id": "book-2",
+      "id": "g5",
       "title": {
-        "en-US": "Chapter 2",
-        "la": "Caput 2"
-      },
-      "children": [
-        {
-          "id": "b2-ch001",
-          "title": {
-            "en-US": "Lecture 1",
-            "la": "Lectio 1"
-          }
-        },
-        {
-          "id": "b2-ch002",
-          "title": {
-            "en-US": "Lecture 2",
-            "la": "Lectio 2"
-          }
-        },
-        {
-          "id": "b2-ch003",
-          "title": {
-            "en-US": "Lecture 3",
-            "la": "Lectio 3"
-          }
-        }
-      ]
-    },
-    {
-      "id": "book-3",
-      "title": {
-        "en-US": "Chapter 3",
-        "la": "Caput 3"
-      },
-      "children": [
-        {
-          "id": "b3-ch001",
-          "title": {
-            "en-US": "Lecture 1",
-            "la": "Lectio 1"
-          }
-        },
-        {
-          "id": "b3-ch002",
-          "title": {
-            "en-US": "Lecture 2",
-            "la": "Lectio 2"
-          }
-        },
-        {
-          "id": "b3-ch003",
-          "title": {
-            "en-US": "Lecture 3",
-            "la": "Lectio 3"
-          }
-        },
-        {
-          "id": "b3-ch004",
-          "title": {
-            "en-US": "Lecture 4",
-            "la": "Lectio 4"
-          }
-        },
-        {
-          "id": "b3-ch005",
-          "title": {
-            "en-US": "Lecture 5",
-            "la": "Lectio 5"
-          }
-        },
-        {
-          "id": "b3-ch006",
-          "title": {
-            "en-US": "Lecture 6",
-            "la": "Lectio 6"
-          }
-        }
-      ]
-    },
-    {
-      "id": "book-4",
-      "title": {
-        "en-US": "Chapter 4",
-        "la": "Caput 4"
-      },
-      "children": [
-        {
-          "id": "b4-ch001",
-          "title": {
-            "en-US": "Lecture 1",
-            "la": "Lectio 1"
-          }
-        },
-        {
-          "id": "b4-ch002",
-          "title": {
-            "en-US": "Lecture 2",
-            "la": "Lectio 2"
-          }
-        },
-        {
-          "id": "b4-ch003",
-          "title": {
-            "en-US": "Lecture 3",
-            "la": "Lectio 3"
-          }
-        },
-        {
-          "id": "b4-ch004",
-          "title": {
-            "en-US": "Lecture 4",
-            "la": "Lectio 4"
-          }
-        },
-        {
-          "id": "b4-ch005",
-          "title": {
-            "en-US": "Lecture 5",
-            "la": "Lectio 5"
-          }
-        },
-        {
-          "id": "b4-ch006",
-          "title": {
-            "en-US": "Lecture 6",
-            "la": "Lectio 6"
-          }
-        },
-        {
-          "id": "b4-ch007",
-          "title": {
-            "en-US": "Lecture 7",
-            "la": "Lectio 7"
-          }
-        }
-      ]
-    },
-    {
-      "id": "book-5",
-      "title": {
-        "en-US": "Chapter 5",
+        "en-US": "Chapter 5 — Beginning of Christ’s Mission",
         "la": "Caput 5"
       },
       "children": [
         {
-          "id": "b5-ch001",
+          "id": "g5-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — Beginning of Christ’s Mission",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Lecture 1 — The wedding at Cana",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b5-ch002",
+          "id": "g5-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Cleansing of the Temple",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b5-ch003",
+          "id": "g5-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Destruction of the Temple",
             "la": "Lectio 3"
-          }
-        },
-        {
-          "id": "b5-ch004",
-          "title": {
-            "en-US": "Lecture 4",
-            "la": "Lectio 4"
-          }
-        },
-        {
-          "id": "b5-ch005",
-          "title": {
-            "en-US": "Lecture 5",
-            "la": "Lectio 5"
-          }
-        },
-        {
-          "id": "b5-ch006",
-          "title": {
-            "en-US": "Lecture 6",
-            "la": "Lectio 6"
-          }
-        },
-        {
-          "id": "b5-ch007",
-          "title": {
-            "en-US": "Lecture 7",
-            "la": "Lectio 7"
           }
         }
       ]
     },
     {
-      "id": "book-6",
+      "id": "g6",
       "title": {
-        "en-US": "Chapter 6",
+        "en-US": "Chapter 6 — Testimonies to Christ",
         "la": "Caput 6"
       },
       "children": [
         {
-          "id": "b6-ch001",
+          "id": "g6-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — Testimonies to Christ",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g6-c001",
+          "title": {
+            "en-US": "Lecture 1 — Nicodemus",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b6-ch002",
+          "id": "g6-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Prophecy of the Crucifixion",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b6-ch003",
+          "id": "g6-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Purpose of the Incarnation",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b6-ch004",
+          "id": "g6-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — Christ baptizes",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b6-ch005",
+          "id": "g6-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — Christ is the bridegroom",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b6-ch006",
+          "id": "g6-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — Belief in the Son",
             "la": "Lectio 6"
-          }
-        },
-        {
-          "id": "b6-ch007",
-          "title": {
-            "en-US": "Lecture 7",
-            "la": "Lectio 7"
-          }
-        },
-        {
-          "id": "b6-ch008",
-          "title": {
-            "en-US": "Lecture 8",
-            "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-7",
+      "id": "g7",
       "title": {
-        "en-US": "Chapter 7",
+        "en-US": "Chapter 7 — Conversion of the Gentiles",
         "la": "Caput 7"
       },
       "children": [
         {
-          "id": "b7-ch001",
+          "id": "g7-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — Conversion of the Gentiles",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g7-c001",
+          "title": {
+            "en-US": "Lecture 1 — The Samaritan woman",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b7-ch002",
+          "id": "g7-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — The water of eternal life",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b7-ch003",
+          "id": "g7-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Testimony of the Samaritan woman",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b7-ch004",
+          "id": "g7-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — The harvest",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b7-ch005",
+          "id": "g7-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — Faith of the Samaritans",
             "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g7-c006",
+          "title": {
+            "en-US": "Lecture 6 — Entrance into Galilee",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g7-c007",
+          "title": {
+            "en-US": "Lecture 7 — Healing of the sick boy",
+            "la": "Lectio 7"
           }
         }
       ]
     },
     {
-      "id": "book-8",
+      "id": "g8",
       "title": {
-        "en-US": "Chapter 8",
+        "en-US": "Chapter 8 — Signs and Promises",
         "la": "Caput 8"
       },
       "children": [
         {
-          "id": "b8-ch001",
+          "id": "g8-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — Signs and Promises",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g8-c001",
+          "title": {
+            "en-US": "Lecture 1 — Healing at Bethsaida",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b8-ch002",
+          "id": "g8-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Actions of the paralytic",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b8-ch003",
+          "id": "g8-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Love of the Father for the Son",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b8-ch004",
+          "id": "g8-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — Power of the Father and the Son",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b8-ch005",
+          "id": "g8-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — The coming resurrection",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b8-ch006",
+          "id": "g8-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — Witness of Christ’s deeds",
             "la": "Lectio 6"
           }
         },
         {
-          "id": "b8-ch007",
+          "id": "g8-c007",
           "title": {
-            "en-US": "Lecture 7",
+            "en-US": "Lecture 7 — Men’s lack of love",
             "la": "Lectio 7"
-          }
-        },
-        {
-          "id": "b8-ch008",
-          "title": {
-            "en-US": "Lecture 8",
-            "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-9",
+      "id": "g9",
       "title": {
-        "en-US": "Chapter 9",
+        "en-US": "Chapter 9 — The Bread of Life",
         "la": "Caput 9"
       },
       "children": [
         {
-          "id": "b9-ch001",
+          "id": "g9-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — The Bread of Life",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g9-c001",
+          "title": {
+            "en-US": "Lecture 1 — Multiplication of the loaves and fishes",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b9-ch002",
+          "id": "g9-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Christ walks on water",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b9-ch003",
+          "id": "g9-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — The crowd pursues Jesus",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b9-ch004",
+          "id": "g9-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — The bread of life",
             "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g9-c005",
+          "title": {
+            "en-US": "Lecture 5 — The Jews murmur against Christ",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g9-c006",
+          "title": {
+            "en-US": "Lecture 6 — The bread of Christ’s flesh",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g9-c007",
+          "title": {
+            "en-US": "Lecture 7 — Life through the body and blood of Christ",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g9-c008",
+          "title": {
+            "en-US": "Lecture 8 — Many disciples scandalized",
+            "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-10",
+      "id": "g10",
       "title": {
-        "en-US": "Chapter 10",
+        "en-US": "Chapter 10 — Feast of Tabernacles",
         "la": "Caput 10"
       },
       "children": [
         {
-          "id": "b10-ch001",
+          "id": "g10-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — Feast of Tabernacles",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g10-c001",
+          "title": {
+            "en-US": "Lecture 1 — The feast of Tabernacles",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b10-ch002",
+          "id": "g10-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Christ teaches in the temple",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b10-ch003",
+          "id": "g10-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Christ’s origin",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b10-ch004",
+          "id": "g10-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — Prophecy of Christ’s death",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b10-ch005",
+          "id": "g10-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — Wrath of the Pharisees",
             "la": "Lectio 5"
-          }
-        },
-        {
-          "id": "b10-ch006",
-          "title": {
-            "en-US": "Lecture 6",
-            "la": "Lectio 6"
           }
         }
       ]
     },
     {
-      "id": "book-11",
+      "id": "g11",
       "title": {
-        "en-US": "Chapter 11",
+        "en-US": "Chapter 11 — Hostility of the Pharisees",
         "la": "Caput 11"
       },
       "children": [
         {
-          "id": "b11-ch001",
+          "id": "g11-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — Hostility of the Pharisees",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g11-c001",
+          "title": {
+            "en-US": "Lecture 1 — The woman caught in adultery",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b11-ch002",
+          "id": "g11-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Truth of Christ’s testimony",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b11-ch003",
+          "id": "g11-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Christ again proclaims his death",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b11-ch004",
+          "id": "g11-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — Freedom in Christ",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b11-ch005",
+          "id": "g11-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — The Jews’ presumption",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b11-ch006",
+          "id": "g11-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — The father of lies",
             "la": "Lectio 6"
           }
         },
         {
-          "id": "b11-ch007",
+          "id": "g11-c007",
           "title": {
-            "en-US": "Lecture 7",
+            "en-US": "Lecture 7 — Christ honors his Father",
             "la": "Lectio 7"
           }
         },
         {
-          "id": "b11-ch008",
+          "id": "g11-c008",
           "title": {
-            "en-US": "Lecture 8",
+            "en-US": "Lecture 8 — Christ proclaims himself God",
             "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-12",
+      "id": "g12",
       "title": {
-        "en-US": "Chapter 12",
+        "en-US": "Chapter 12 — The Blind Man",
         "la": "Caput 12"
       },
       "children": [
         {
-          "id": "b12-ch001",
+          "id": "g12-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — The Blind Man",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g12-c001",
+          "title": {
+            "en-US": "Lecture 1 — Healing of the blind man",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b12-ch002",
+          "id": "g12-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — The blind man’s testimony",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b12-ch003",
+          "id": "g12-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Persecution of the blind man",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b12-ch004",
+          "id": "g12-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — The blind man adores Christ",
             "la": "Lectio 4"
-          }
-        },
-        {
-          "id": "b12-ch005",
-          "title": {
-            "en-US": "Lecture 5",
-            "la": "Lectio 5"
-          }
-        },
-        {
-          "id": "b12-ch006",
-          "title": {
-            "en-US": "Lecture 6",
-            "la": "Lectio 6"
-          }
-        },
-        {
-          "id": "b12-ch007",
-          "title": {
-            "en-US": "Lecture 7",
-            "la": "Lectio 7"
-          }
-        },
-        {
-          "id": "b12-ch008",
-          "title": {
-            "en-US": "Lecture 8",
-            "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-13",
+      "id": "g13",
       "title": {
-        "en-US": "Chapter 13",
+        "en-US": "Chapter 13 — The Good Shepherd",
         "la": "Caput 13"
       },
       "children": [
         {
-          "id": "b13-ch001",
+          "id": "g13-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — The Good Shepherd",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g13-c001",
+          "title": {
+            "en-US": "Lecture 1 — The sheep and the shepherd",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b13-ch002",
+          "id": "g13-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Explanation of the parable",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b13-ch003",
+          "id": "g13-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — The good shepherd",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b13-ch004",
+          "id": "g13-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — Christ lays down his life",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b13-ch005",
+          "id": "g13-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — Feast of the dedication",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b13-ch006",
+          "id": "g13-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — Attempted stoning of Christ",
             "la": "Lectio 6"
-          }
-        },
-        {
-          "id": "b13-ch007",
-          "title": {
-            "en-US": "Lecture 7",
-            "la": "Lectio 7"
-          }
-        },
-        {
-          "id": "b13-ch008",
-          "title": {
-            "en-US": "Lecture 8",
-            "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-14",
+      "id": "g14",
       "title": {
-        "en-US": "Chapter 14",
+        "en-US": "Chapter 14 — Lazarus",
         "la": "Caput 14"
       },
       "children": [
         {
-          "id": "b14-ch-proem0",
+          "id": "g14-pr",
           "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
+            "en-US": "Prologue — Lazarus",
+            "la": "Prooemium"
           }
         },
         {
-          "id": "b14-ch002",
+          "id": "g14-c001",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 1 — Sickness of Lazarus",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g14-c002",
+          "title": {
+            "en-US": "Lecture 2 — Christ remains in the same place",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b14-ch003",
+          "id": "g14-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — The death of Lazarus",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b14-ch004",
+          "id": "g14-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — The promise of the resurrection",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b14-ch005",
+          "id": "g14-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — Christ weeps over Lazarus",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b14-ch006",
+          "id": "g14-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — The resurrection of Lazarus",
             "la": "Lectio 6"
           }
         },
         {
-          "id": "b14-ch007",
+          "id": "g14-c007",
           "title": {
-            "en-US": "Lecture 7",
+            "en-US": "Lecture 7 — Caiaphas’ prophecy",
             "la": "Lectio 7"
           }
         },
         {
-          "id": "b14-ch008",
+          "id": "g14-c008",
           "title": {
-            "en-US": "Lecture 8",
+            "en-US": "Lecture 8 — Plotting of the chief priests",
             "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-15",
+      "id": "g15",
       "title": {
-        "en-US": "Chapter 15",
+        "en-US": "Chapter 15 — Christ’s Hour Comes",
         "la": "Caput 15"
       },
       "children": [
         {
-          "id": "b15-ch001",
+          "id": "g15-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — Christ’s Hour Comes",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g15-c001",
+          "title": {
+            "en-US": "Lecture 1 — Mary anoints Christ’s feet",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b15-ch002",
+          "id": "g15-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Christ speaks against Judas",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b15-ch003",
+          "id": "g15-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Christ’s entrance into Jerusalem",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b15-ch004",
+          "id": "g15-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — The hour of glory",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b15-ch005",
+          "id": "g15-c005",
           "title": {
-            "en-US": "Lecture 5",
-            "la": "Lectio 5"
-          }
-        }
-      ]
-    },
-    {
-      "id": "book-16",
-      "title": {
-        "en-US": "Chapter 16",
-        "la": "Caput 16"
-      },
-      "children": [
-        {
-          "id": "b16-ch-proem0",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
-          }
-        },
-        {
-          "id": "b16-ch002",
-          "title": {
-            "en-US": "Lecture 2",
-            "la": "Lectio 2"
-          }
-        },
-        {
-          "id": "b16-ch003",
-          "title": {
-            "en-US": "Lecture 3",
-            "la": "Lectio 3"
-          }
-        },
-        {
-          "id": "b16-ch004",
-          "title": {
-            "en-US": "Lecture 4",
-            "la": "Lectio 4"
-          }
-        },
-        {
-          "id": "b16-ch005",
-          "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — Christ came for this hour",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b16-ch006",
+          "id": "g15-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — Christ hides from the crowd",
             "la": "Lectio 6"
           }
         },
         {
-          "id": "b16-ch007",
+          "id": "g15-c007",
           "title": {
-            "en-US": "Lecture 7",
+            "en-US": "Lecture 7 — Fulfillment of Isaiah’s prophecy",
             "la": "Lectio 7"
           }
         },
         {
-          "id": "b16-ch008",
+          "id": "g15-c008",
           "title": {
-            "en-US": "Lecture 8",
+            "en-US": "Lecture 8 — Christ came to save the world",
             "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-17",
+      "id": "g16",
       "title": {
-        "en-US": "Chapter 17",
+        "en-US": "Chapter 16 — The Last Supper Discourse",
+        "la": "Caput 16"
+      },
+      "children": [
+        {
+          "id": "g16-pr",
+          "title": {
+            "en-US": "Prologue — The Last Supper Discourse",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g16-c001",
+          "title": {
+            "en-US": "Lecture 1 — Beginning of the Last Supper",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g16-c002",
+          "title": {
+            "en-US": "Lecture 2 — The washing of the feet",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g16-c003",
+          "title": {
+            "en-US": "Lecture 3 — Christ the example",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g16-c004",
+          "title": {
+            "en-US": "Lecture 4 — Prophecy of Judas’s betrayal",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g16-c005",
+          "title": {
+            "en-US": "Lecture 5 — Judas leaves",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g16-c006",
+          "title": {
+            "en-US": "Lecture 6 — Glorification of the Son of Man",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g16-c007",
+          "title": {
+            "en-US": "Lecture 7 — The new commandment",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g16-c008",
+          "title": {
+            "en-US": "Lecture 8 — Prophecy of Peter’s denial",
+            "la": "Lectio 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "title": {
+        "en-US": "Chapter 17 — The Last Supper Discourse Continued",
         "la": "Caput 17"
       },
       "children": [
         {
-          "id": "b17-ch001",
+          "id": "g17-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — The Last Supper Discourse Continued",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g17-c001",
+          "title": {
+            "en-US": "Lecture 1 — The Father’s mansions",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b17-ch002",
+          "id": "g17-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — The way, the truth, and the life",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b17-ch003",
+          "id": "g17-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Unity of the Father and the Son",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b17-ch004",
+          "id": "g17-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — The Spirit of truth",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b17-ch005",
+          "id": "g17-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — Promise of the second coming",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b17-ch006",
+          "id": "g17-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — Promise of the indwelling Trinity",
             "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g17-c007",
+          "title": {
+            "en-US": "Lecture 7 — Christ’s peace",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g17-c008",
+          "title": {
+            "en-US": "Lecture 8 — Christ goes to the Father",
+            "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-18",
+      "id": "g18",
       "title": {
-        "en-US": "Chapter 18",
+        "en-US": "Chapter 18 — The Last Supper Discourse Continued",
         "la": "Caput 18"
       },
       "children": [
         {
-          "id": "b18-ch001",
+          "id": "g18-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — The Last Supper Discourse Continued",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g18-c001",
+          "title": {
+            "en-US": "Lecture 1 — The true vine",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b18-ch002",
+          "id": "g18-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Christ’s commandment",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b18-ch003",
+          "id": "g18-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Not servants but friends",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b18-ch004",
+          "id": "g18-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — The world’s hatred",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b18-ch005",
+          "id": "g18-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — No excuse for hatred",
             "la": "Lectio 5"
-          }
-        },
-        {
-          "id": "b18-ch006",
-          "title": {
-            "en-US": "Lecture 6",
-            "la": "Lectio 6"
           }
         }
       ]
     },
     {
-      "id": "book-19",
+      "id": "g19",
       "title": {
-        "en-US": "Chapter 19",
+        "en-US": "Chapter 19 — The Last Supper Discourse Continued",
         "la": "Caput 19"
       },
       "children": [
         {
-          "id": "b19-ch001",
+          "id": "g19-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — The Last Supper Discourse Continued",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g19-c001",
+          "title": {
+            "en-US": "Lecture 1 — Coming persecution",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b19-ch002",
+          "id": "g19-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Expedience of Christ’s going",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b19-ch003",
+          "id": "g19-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — The Spirit’s judgment",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b19-ch004",
+          "id": "g19-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — Christ’s glory",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b19-ch005",
+          "id": "g19-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — A little while",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b19-ch006",
+          "id": "g19-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — Ask in Christ’s name",
             "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g19-c007",
+          "title": {
+            "en-US": "Lecture 7 — Manifestation of the Father",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g19-c008",
+          "title": {
+            "en-US": "Lecture 8 — Prophecy of the apostles’ scattering",
+            "la": "Lectio 8"
           }
         }
       ]
     },
     {
-      "id": "book-20",
+      "id": "g20",
       "title": {
-        "en-US": "Chapter 20",
+        "en-US": "Chapter 20 — The Prayer of Christ",
         "la": "Caput 20"
       },
       "children": [
         {
-          "id": "b20-ch001",
+          "id": "g20-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — The Prayer of Christ",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g20-c001",
+          "title": {
+            "en-US": "Lecture 1 — Christ’s prayer to the Father",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b20-ch002",
+          "id": "g20-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Prayer for the apostles",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b20-ch003",
+          "id": "g20-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Petitions for the apostles",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b20-ch004",
+          "id": "g20-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — Prayer for sanctification",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b20-ch005",
+          "id": "g20-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — Prayer for all the faithful",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b20-ch006",
+          "id": "g20-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — Prayer for the vision of glory",
             "la": "Lectio 6"
           }
         }
       ]
     },
     {
-      "id": "book-21",
+      "id": "g21",
       "title": {
-        "en-US": "Chapter 21",
+        "en-US": "Chapter 21 — Betrayal and Trial of Christ",
         "la": "Caput 21"
       },
       "children": [
         {
-          "id": "b21-ch001",
+          "id": "g21-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — Betrayal and Trial of Christ",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g21-c001",
+          "title": {
+            "en-US": "Lecture 1 — Betrayal of Jesus",
             "la": "Lectio 1"
           }
         },
         {
-          "id": "b21-ch002",
+          "id": "g21-c002",
           "title": {
-            "en-US": "Lecture 2",
+            "en-US": "Lecture 2 — Malchus",
             "la": "Lectio 2"
           }
         },
         {
-          "id": "b21-ch003",
+          "id": "g21-c003",
           "title": {
-            "en-US": "Lecture 3",
+            "en-US": "Lecture 3 — Christ before Annas",
             "la": "Lectio 3"
           }
         },
         {
-          "id": "b21-ch004",
+          "id": "g21-c004",
           "title": {
-            "en-US": "Lecture 4",
+            "en-US": "Lecture 4 — Peter denies Christ",
             "la": "Lectio 4"
           }
         },
         {
-          "id": "b21-ch005",
+          "id": "g21-c005",
           "title": {
-            "en-US": "Lecture 5",
+            "en-US": "Lecture 5 — Christ before Pilate",
             "la": "Lectio 5"
           }
         },
         {
-          "id": "b21-ch006",
+          "id": "g21-c006",
           "title": {
-            "en-US": "Lecture 6",
+            "en-US": "Lecture 6 — Pilate questions Christ",
             "la": "Lectio 6"
           }
         }
       ]
     },
     {
-      "id": "book-22",
+      "id": "g22",
       "title": {
-        "en-US": "Appendix",
-        "la": "Appendix"
+        "en-US": "Chapter 22 — The Crucifixion",
+        "la": "Caput 22"
       },
       "children": [
         {
-          "id": "b22-ch001",
+          "id": "g22-pr",
           "title": {
-            "en-US": "Lecture 1",
+            "en-US": "Prologue — The Crucifixion",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g22-c001",
+          "title": {
+            "en-US": "Lecture 1 — The scourging and crowning",
             "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g22-c002",
+          "title": {
+            "en-US": "Lecture 2 — Jews call for crucifixion",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g22-c003",
+          "title": {
+            "en-US": "Lecture 3 — Christ is condemned to death",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g22-c004",
+          "title": {
+            "en-US": "Lecture 4 — Christ on the cross",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g22-c005",
+          "title": {
+            "en-US": "Lecture 5 — Christ dies",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g22-c006",
+          "title": {
+            "en-US": "Lecture 6 — The burial of Christ",
+            "la": "Lectio 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g23",
+      "title": {
+        "en-US": "Chapter 23 — The Resurrection",
+        "la": "Caput 23"
+      },
+      "children": [
+        {
+          "id": "g23-pr",
+          "title": {
+            "en-US": "Prologue — The Resurrection",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g23-c001",
+          "title": {
+            "en-US": "Lecture 1 — Discovery of the resurrection",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g23-c002",
+          "title": {
+            "en-US": "Lecture 2 — Angels appear to Mary Magdalene",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g23-c003",
+          "title": {
+            "en-US": "Lecture 3 — Christ appears to Mary Magdalene",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g23-c004",
+          "title": {
+            "en-US": "Lecture 4 — Christ appears to the apostles",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g23-c005",
+          "title": {
+            "en-US": "Lecture 5 — Thomas’s doubt",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g23-c006",
+          "title": {
+            "en-US": "Lecture 6 — Christ appears to Thomas",
+            "la": "Lectio 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g24",
+      "title": {
+        "en-US": "Chapter 24 — Manifestation of the Resurrection",
+        "la": "Caput 24"
+      },
+      "children": [
+        {
+          "id": "g24-pr",
+          "title": {
+            "en-US": "Prologue — Manifestation of the Resurrection",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g24-c001",
+          "title": {
+            "en-US": "Lecture 1 — The Sea of Tiberias",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g24-c002",
+          "title": {
+            "en-US": "Lecture 2 — Christ eats with the apostles",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g24-c003",
+          "title": {
+            "en-US": "Lecture 3 — Christ’s injunction to Peter",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g24-c004",
+          "title": {
+            "en-US": "Lecture 4 — Prophecy of Peter’s death",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g24-c005",
+          "title": {
+            "en-US": "Lecture 5 — Prophecy about John",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g24-c006",
+          "title": {
+            "en-US": "Lecture 6 — Epilogue",
+            "la": "Lectio 6"
           }
         }
       ]
