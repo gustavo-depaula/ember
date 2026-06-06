@@ -9,7 +9,6 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components/typography'
-import { ZoomLink } from '@/components/ZoomLink'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
@@ -329,6 +328,7 @@ function CompactSectionRow({
   buildHref: (chapterId: string) => Href
 }) {
   const theme = useTheme()
+  const router = useRouter()
   const title =
     (node.title as Record<string, string>)[lang] ?? Object.values(node.title)[0] ?? node.id
   const totalLeavesUnder = countLeavesUnder(node)
@@ -346,30 +346,34 @@ function CompactSectionRow({
   }, [node, completed])
   const target = firstLeafId(node)
 
+  // Plain router.push (see TocNodeRow comment) — AppleZoom from inside a
+  // scrollable list left a ghost view that blocked taps on the frontispiece.
   return (
-    <ZoomLink href={buildHref(target)}>
-      <Pressable accessibilityRole="link" accessibilityLabel={title}>
-        <XStack
-          alignItems="center"
-          gap="$sm"
-          paddingVertical="$md"
-          borderBottomWidth={0.5}
-          borderColor="$accentSubtle"
-        >
-          <YStack flex={1} gap="$xs">
-            <Typography variant="interface" fontSize="$3" numberOfLines={2}>
-              {title}
-            </Typography>
-            <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.75}>
-              {completedUnder > 0
-                ? `${completedUnder} / ${totalLeavesUnder}`
-                : `${totalLeavesUnder} chapters`}
-            </Typography>
-          </YStack>
-          <ChevronRight size={16} color={theme.colorSecondary?.val} />
-        </XStack>
-      </Pressable>
-    </ZoomLink>
+    <Pressable
+      onPress={() => router.push(buildHref(target))}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+    >
+      <XStack
+        alignItems="center"
+        gap="$sm"
+        paddingVertical="$md"
+        borderBottomWidth={0.5}
+        borderColor="$accentSubtle"
+      >
+        <YStack flex={1} gap="$xs">
+          <Typography variant="interface" fontSize="$3" numberOfLines={2}>
+            {title}
+          </Typography>
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.75}>
+            {completedUnder > 0
+              ? `${completedUnder} / ${totalLeavesUnder}`
+              : `${totalLeavesUnder} chapters`}
+          </Typography>
+        </YStack>
+        <ChevronRight size={16} color={theme.colorSecondary?.val} />
+      </XStack>
+    </Pressable>
   )
 }
 
@@ -389,6 +393,7 @@ function TocNodeRow({
   buildHref: (chapterId: string) => Href
 }) {
   const theme = useTheme()
+  const router = useRouter()
   const title =
     (node.title as Record<string, string>)[lang] ?? Object.values(node.title)[0] ?? node.id
 
@@ -416,37 +421,41 @@ function TocNodeRow({
   const isCurrent = !!currentChapterId && node.id === currentChapterId
   const isCompleted = completed.has(node.id)
 
+  // Plain router.push instead of ZoomLink. AppleZoom triggered from a row
+  // inside a scrollable list appears to leave a snapshot view that blocks
+  // taps on the frontispiece after the modal dismisses (the bug doesn't
+  // recur when the user opens the reader from the BookHero CTA, which is
+  // outside the ScrollView). The Hero keeps its zoom morph.
   return (
-    <ZoomLink href={buildHref(node.id)}>
-      <Pressable accessibilityRole="link" accessibilityLabel={title}>
-        <XStack
-          alignItems="center"
-          gap="$sm"
-          paddingVertical="$sm"
-          paddingLeft={depth * 16}
-          borderBottomWidth={0.5}
-          borderColor="$accentSubtle"
+    <Pressable
+      onPress={() => router.push(buildHref(node.id))}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+    >
+      <XStack
+        alignItems="center"
+        gap="$sm"
+        paddingVertical="$sm"
+        paddingLeft={depth * 16}
+        borderBottomWidth={0.5}
+        borderColor="$accentSubtle"
+      >
+        <Typography
+          variant="interface"
+          fontSize="$3"
+          flex={1}
+          numberOfLines={2}
+          color={isCurrent ? '$accent' : '$color'}
+          opacity={isCompleted && !isCurrent ? 0.6 : 1}
         >
-          <Typography
-            variant="interface"
-            fontSize="$3"
-            flex={1}
-            numberOfLines={2}
-            color={isCurrent ? '$accent' : '$color'}
-            opacity={isCompleted && !isCurrent ? 0.6 : 1}
-          >
-            {title}
-          </Typography>
-          {isCompleted ? (
-            <Check size={14} color={theme.accent?.val ?? theme.colorSecondary?.val} />
-          ) : null}
-          <ChevronRight
-            size={16}
-            color={isCurrent ? theme.accent?.val : theme.colorSecondary?.val}
-          />
-        </XStack>
-      </Pressable>
-    </ZoomLink>
+          {title}
+        </Typography>
+        {isCompleted ? (
+          <Check size={14} color={theme.accent?.val ?? theme.colorSecondary?.val} />
+        ) : null}
+        <ChevronRight size={16} color={isCurrent ? theme.accent?.val : theme.colorSecondary?.val} />
+      </XStack>
+    </Pressable>
   )
 }
 
