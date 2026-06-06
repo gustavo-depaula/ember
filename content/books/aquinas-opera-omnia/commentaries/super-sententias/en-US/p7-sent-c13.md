@@ -1,7 +1,5 @@
 # D. 12 - Appearance and effects of the Eucharist
 
-***Appearance and effects of the Eucharist***
-
 After the Master has examined one of the three things in which the integrity of this sacrament consists, namely, what is reality-and-sacrament, in this part he intends to consider the other two things, namely, what is sacrament alone, and what is reality alone. Hence it is divided into two parts: in the first, he considers what is sacrament alone; in the second, the effect of the sacrament which is the reality alone, at: *and this sacrament was instituted for two causes*. *(Peter Lombard, *Sententiae* IV, 12.6 (71). 1.)*  
 
 The first is in two parts; in the first, he considers the accidents, which are sacraments, i.e., signs of both the true body of Christ and the mystical body of Christ; in the second, he considers the act of the priest, which is a sacrament or sign of Christ’s Passion, at: *after these matters it is asked whether what the priest does is properly called a sacrifice*. *(*Sent* IV, 12.5 (70). 1.)*  

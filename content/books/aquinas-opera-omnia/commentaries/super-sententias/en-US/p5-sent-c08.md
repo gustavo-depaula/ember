@@ -1,7 +1,5 @@
 # D. 7 - Interpretation of expressions signifying the union
 
-***Interpretation of expressions signifying the union***
-
 ***Division of the text***
 
 After the Master has distinguished the three opinions about the mode of the union, here he shows how, according to them, one should understand expressions signifying the union.  

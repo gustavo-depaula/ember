@@ -1,7 +1,5 @@
 # D. 42 - On the impediment of a spiritual relationship
 
-***On the impediment of a spiritual relationship***
-
 After the Master has examined the impediment of close physical relationship, here he examines the impediment of close spiritual relationship; and it is divided into two parts: in the first he shows how a spiritual relationship impedes marriage; in the second he inquires whether the second wedding is licit, where he says: *it is also to be known, that not only the first and second marriages are lawful, but that also third and fourth ones are not to be condemned*. *(*Sententiae* IV, 42.7 (243). 1.)*  
 
 The first is in two parts: in the first he distinguishes the close spiritual relationship from physical ones, which were treated above; in the second, he pursues close spiritual relationship, where he says: *spiritual children are those whom we raise from the sacred [baptismal] font*. *(*Sent*. IV, 42.2 (238). 1.)*  

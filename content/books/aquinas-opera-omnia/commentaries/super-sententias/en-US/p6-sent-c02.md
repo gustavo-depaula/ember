@@ -1,7 +1,5 @@
 # D. 24 - Object of faith
 
-***Object of faith***
-
 ***Division of the text***
 
 After the Master has examined faith in its substance, here he considers it in relation to its object. And this part is introduced by the definition of faith given by the Apostle, in which he calls faith the argument of things that do not appear.  

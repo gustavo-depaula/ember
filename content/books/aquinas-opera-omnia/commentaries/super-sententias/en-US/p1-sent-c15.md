@@ -1,7 +1,5 @@
 # D. 14 - Temporal procession of the Holy Spirit
 
-***Temporal procession of the Holy Spirit***
-
 ***Division of the text***
 
 Here the Master begins to consider the temporal procession of the Holy Spirit, and it is divided into two parts. In the first, he considers the Holy Spirit’s temporal procession, and in the second he considers the name of the Holy Spirit that manifests the account of the temporal procession, at *moreover, it is to be considered with diligence, since the Holy Spirit is called gift and grant, whether each of the names is fitting for him for the same reason*. *(*Sent*. I, 18.2(67).1.)*  

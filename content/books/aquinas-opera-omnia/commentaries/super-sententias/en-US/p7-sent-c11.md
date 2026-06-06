@@ -1,7 +1,5 @@
 # D. 10 - The body of Christ in the Eucharist
 
-***The body of Christ in the Eucharist***
-
 After the Master has determined that three things are found in this sacrament, something that is sacrament alone, something that is reality-and-sacrament, and something that is reality alone, and according to this difference people eat of it in different ways, in this part he begins to describe individually these three things in particular. For this reason it is divided into three parts: in the first, he considers the true body of Christ itself, which is the sacrament, and the reality contained in the sacrament; in the second, the species of bread and wine, which are the sacrament alone, at Distinction 12: *but if it is asked about the accidents which remain . . . in what subject they inhere, it seems to me to be better to profess that they exist without a subject than that they are in a subject*; *(Peter Lombard, *Sententiae* IV, 12.1 (66), 1.)* in the third, he considers the effect of the sacrament, which is the reality alone, at the end of the distinction: *and this sacrament was instituted for two causes*. *(*Sent* IV, 12.6 (71). 1.)*  
 
 The first is in two parts: in the first, he shows that the true body of Christ is contained under the sacrament on the altar; in the second, he considers transubstantiation, by which it comes about that the true body of Christ is there, Distinction 11: *but if it is asked what is the nature of that change . . . I am not up to the task of defining it*. *(*Sent*. IV, 11.3 (60), 1.)*  

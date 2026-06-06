@@ -1,7 +1,5 @@
 # D. 43 - Whether the power of God is limited to realities that occur
 
-***Whether the power of God is limited to realities that occur***
-
 ***Division of the text***
 
 Here the Master excludes the error of certain ones who, opposed to the things determined above, limited God’s power, saying God’s power is not simply speaking over all things. And this is divided into two parts: in the first, he disproves their error insofar as it limited God’s power with respect to the realities that occur; in the second, he does this insofar as they limited it with respect to their qualities, for they said God was not able to do different things nor better things than he did, at *now it remains to be discussed whether God can do anything better than he does*. *(*Sent*. I, 44.1(188).1.)*  

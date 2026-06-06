@@ -1,7 +1,5 @@
 # D. 21 - Temptation of our first parents
 
-***Temptation of our first parents***
-
 ***Division of the text***
 
 After he has considered the establishment of human nature, here the Master considers its fall through sin. This is divided into two parts.  

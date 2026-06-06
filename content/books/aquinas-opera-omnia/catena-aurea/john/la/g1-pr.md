@@ -1,0 +1,25 @@
+# Prooemium
+
+***Isaiae 6:1***
+
+Vidi dominum sedentem super solium excelsum et elevatum; et plena erat domus a maiestate eius; et ea quae sub ipso erant, replebant templum.  
+
+> Glossa. Divinae visionis sublimitate illustratus Isaias propheta dixit vidi dominum sedentem et cetera.
+
+Hieronymus, super Isaiam. Quis sit iste dominus qui videtur, in Evangelista Ioanne plenius discimus, qui ait: haec dixit Isaias, quando vidit gloriam Dei, et locutus est de eo: haud dubium quin Christum significet.  
+
+Glossa. Unde ex verbis istis materia huius Evangelii, quod secundum Ioannem describitur, designatur.  
+
+Ex Eccles. Hist. Quia enim nativitatem salvatoris secundum carnem vel Matthaeus, vel Lucas descripserant, reticuit hic Ioannes, et a theologia atque ab ipsa eius divinitate sumit exordium; quae pars sine dubio ipsi velut eximio per spiritum sanctum reservata est.  
+
+Alcuinus. Unde cum omnibus divinae Scripturae paginis Evangelium excellat, quia quod lex et prophetae futurum praedixerunt, hoc completum dicit Evangelium; inter ipsos autem Evangeliorum scriptores Ioannes eminet in divinorum mysteriorum profunditate: qui a tempore dominicae ascensionis per annos sexaginta quinque verbum Dei absque adminiculo scribendi usque ad ultima Domitiani tempora praedicavit; sed post occisionem Domitiani, cum, Nerva permittente, de exilio rediisset Ephesum, compulsus ab episcopis Asiae, de coaeterna patri divinitate Christi scripsit adversus haereticos, qui Christum ante Mariam fuisse negabant. Unde merito in figura quattuor animalium aquilae volanti comparatur, quae volat altius cunctis avibus, et solis radios irreverberatis aspicit luminibus.  
+
+Augustinus, in Ioannem. Transcendit enim Ioannes omnia cacumina terrarum, transcendit omnes campos aeris, transcendit omnes altitudines siderum, transcendit omnes choros et legiones Angelorum: nisi enim transcenderet ista omnia quae creata sunt, non perveniret ad eum per quem facta sunt omnia.  
+
+Augustinus, de Cons. Evang. Ex quo intelligi datur, si diligenter advertas, tres Evangelistas temporalia facta domini et dicta quae ad informandos mores vitae praesentis maxime valerent, prosecutos, circa activam virtutem fuisse versatos; Ioannem vero facta domini multo pauciora narrantem, dicta vero eius, praesertim quae Trinitatis unitatem et vitae aeternae felicitatem insinuarent, diligentius et uberius conscribentem, in virtute contemplativa commendanda suam intentionem praedicationemque tenuisse. Unde animalia tria, per quae tres alii Evangelistae designantur, sive leo, sive homo, sive vitulus, in terra gradiuntur: quia tres Evangelistae in his maxime occupati sunt quae Christus in carne operatus est, et quae praecepta mortalis vitae exercendae carnem portantibus tradidit; at vero Ioannes supra nubila infirmitatis humanae velut aquila volat, et lucem incommutabilis veritatis acutissimis atque firmissimis oculis cordis intuetur: ipsam enim maxime divinitatem domini, qua patri est aequalis, intendit, eamque praecipue suo Evangelio, quantum inter homines sufficere credidit, commendare curavit.  
+
+Glossa. Potest igitur Evangelista Ioannes cum Isaia propheta dicere vidi dominum sedentem super solium excelsum et elevatum, inquantum acumine visus sui Christum in divinitatis maiestate regnantem inspexit; quae quidem etiam sua natura excelsa est, et super omnia alia elevata. Dicat etiam Evangelista Ioannes et plena erat domus a maiestate eius: quia per ipsum narrat omnia esse facta, et suo lumine omnes homines in hunc mundum venientes illustrari. Dicat etiam quod ea quae sub ipso erant, replebant templum; quia dicit verbum caro factum est; et vidimus gloriam quasi unigeniti a patre, plenum gratiae et veritatis, secundum quod de plenitudine eius nos omnes accepimus. Sic igitur praemissa verba materiam huius Evangelii continent, in quo ipse Ioannes dominum super solium excelsum sedentem insinuat, divinitatem Christi ostendens; et terram ab eius maiestate impleri ostendit, dum omnia per eius virtutem in esse producta ostendit, et propriis perfectionibus repleta; et inferiora eius, idest humanitatis mysteria, templum, idest Ecclesiam, replere docet, dum in sacramentis humanitatis Christi et gratiam et gloriam fidelibus repromittit.  
+
+Chrysostomus, in Ioannem. Quando igitur barbarus hic et indisciplinatus talia loquitur quae nullus eorum qui in terra sunt hominum novit unquam, si hic solus esset, miraculum magnum esset. Nunc autem cum his et aliud isto maius tribuit argumentum, quod a Deo inspirata sunt ei quae dicuntur hic, scilicet quod omnes audiunt, et suadet omnibus per omne tempus. Quis ergo non admirabitur habitantem in eo virtutem?  
+
+Origenes. Ioannes interpretatur gratia Dei, sive in quo est gratia, vel cui donatum est. Cui autem theologorum donatum est ita abscondita summi boni penetrare mysteria, et sic humanis mentibus intimare?

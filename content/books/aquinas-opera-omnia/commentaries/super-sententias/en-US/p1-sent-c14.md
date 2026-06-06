@@ -1,7 +1,5 @@
 # D. 13 - Procession of the Holy Spirit in comparison to the generation of the Son
 
-***Procession of the Holy Spirit in comparison to the generation of the Son***
-
 ***Division of the text***
 
 Having considered the eternal procession of the Holy Spirit in reference to its mode and principle, here he considers it in its relation to the generation. And it is divided into two parts: in the first, he inquires whether the proceeding Holy Spirit can be called “begotten” as a Son; in the second, whether he could be called “unbegotten,” at *it must now be considered, since the Holy Spirit is not begotten, whether he ought to be called unbegotten*. *(*Sent*. I, 13.4(44).1.)*  

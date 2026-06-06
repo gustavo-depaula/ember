@@ -1,7 +1,5 @@
 # D. 11 - Christ as a creature
 
-***Christ as a creature***
-
 ***Division of the text***
 
 After the Master has considered how things that pertain to the dignity of human nature can or cannot be said of Christ, here he considers how those things that pertain to a defect of human nature can be said about him. And it is divided into two parts:  

@@ -1,7 +1,5 @@
 # D. 35 - Gifts of the Holy Spirit: wisdom, understanding, knowledge, and counsel
 
-***Gifts of the Holy Spirit: wisdom, understanding, knowledge, and counsel***
-
 ***Division of the text***
 
 After the Master has considered the gifts, here he shows the difference between the gifts that most appear to fit together: that is, wisdom, knowledge, and understanding. And this is divided into two parts:  

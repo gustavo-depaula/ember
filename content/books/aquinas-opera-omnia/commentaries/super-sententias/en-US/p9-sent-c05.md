@@ -1,7 +1,5 @@
 # D. 30 - On the impediment of error
 
-***On the impediment of error***
-
 After the Master has shown that matrimonial consent is impeded by compulsion, here he shows that it is impeded by error; and this distinction is divided into three parts: in the first, he considers the impediment of error; in the second, the consent that existed in the Blessed Virgin’s marriage, at: *to what was said earlier must be added something*; *(*Sententiae* IV, 30.2 (178). 1.)* in the third part, the final cause of matrimony, at: *after expounding what the efficient cause of marriage is, it remains to show the cause for which marriage is or ought to be contracted*. *(*Sent*. IV, 30.3 (180). 1.)*  
 
 About this he does three things. First, he shows which error impedes marriage; second, he objects to the contrary, at: *but an objection is made concerning Jacob*, etc.; *(*Sent*. IV, 30.3 (179). 1.)* third, he resolves it, at: *but what was done in that case is not improperly said to have been carried out as a mystery*. *(*Sent*. IV, 30.1 (178). 3.)*  

@@ -1,7 +1,5 @@
 # D. 10 - Procession of the Holy Spirit
 
-***Procession of the Holy Spirit***
-
 ***Division of the text***
 
 After the Master has considered the generation of the Son from the Father, here he considers the procession of the Holy Spirit from each. And this is divided into two parts: in the first, he considers his eternal procession; in the second, the temporal procession, at *moreover, it is to be diligently noted that the procession of the Holy Spirit is a double one*. *(*Sent*. I, 14.1(45).1.)*  

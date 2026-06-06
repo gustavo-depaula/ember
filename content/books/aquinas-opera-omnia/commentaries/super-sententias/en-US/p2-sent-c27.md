@@ -1,7 +1,5 @@
 # D. 47 - Efficacy of the will of God
 
-***Efficacy of the will of God***
-
 ***Division of the text***
 
 Having removed certain things whereby it seemed that the efficacy of the divine will was taken away, here he manifests its efficacy. And this is divided into two parts: in the first, he shows that the divine will is always efficaciously fulfilled; in the second, he explains certain doubts found in the authority whereby he proved what he proposed, at *but diligent attention must be paid to how it is said above that something is done against God’s will, but not apart from it*. *(*Sent*. I, 47.1(204).3.)*  

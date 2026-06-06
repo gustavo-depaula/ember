@@ -1,7 +1,5 @@
 # D. 24 - Natural power of man in his original state
 
-***Natural power of man in his original state***
-
 ***Division of the first part of the text***
 
 After addressing the knowledge that man had in the first state, here he begins to address the natural power through which he could have avoided sin. This is divided into two parts.  

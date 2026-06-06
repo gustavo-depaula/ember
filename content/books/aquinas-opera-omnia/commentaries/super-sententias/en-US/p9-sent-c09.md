@@ -1,7 +1,5 @@
 # D. 34 - On personal impediments
 
-***On personal impediments***
-
 After the Master has considered marriage and determined its causes, here he considers those persons contracting marriage. And this is divided into two parts: in the first, he determines the impediments to marriage that do not make the persons entirely ineligible to contract it; in the second, those by which the persons are rendered entirely ineligible for marriage, in Distinction 37, at: *for there are some orders in which marriage cannot be contracted at all*. *(*Sententiae* IV, 37.1 (212). 1.)*  
 
 The first is divided into two: in the first, he considers a certain impediment to marriage which makes a person ineligible, not simply but in a certain respect. It consists in a defect of nature, namely, impotence; second, of the impediment of condition according to the customs and statutes of men, namely, servitude, in Distinction 36, at: *now let us see whether condition can divide a marriage*. *(*Sent*. IV, 36.1 (208). 1.)*  

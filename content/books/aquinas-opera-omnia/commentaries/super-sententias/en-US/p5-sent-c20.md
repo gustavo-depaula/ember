@@ -1,7 +1,5 @@
 # D. 19 - Christ's merit as ordered to taking away evil
 
-***Christ's merit as ordered to taking away evil***
-
 ***Division of the text***
 
 After the Master has considered Christ’s merit insofar as it is ordered to attaining the good for himself and for us, here he considers his merit insofar as it is ordered to removing the evil that is in us. For in himself he is neither subject to any fault nor does he owe any punishment.  

@@ -1,7 +1,5 @@
 # D. 1 - The procession of created things
 
-***The procession of created things***
-
 ***Division of the first part of the text***
 
 ***This book is divided into two parts:***

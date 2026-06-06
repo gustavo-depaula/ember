@@ -1,7 +1,5 @@
 # D. 28 - Non-personal properties of the divine persons
 
-***Non-personal properties of the divine persons***
-
 ***Division of the text***
 
 Here the Master considers the notions of the persons that are not personal. It is divided into two parts: in the first, he considers “innascibility,” which is a property of a person even though it is not a personal property; in the second, he considers common spiration, which is neither a personal property nor the property of a person, at *there is also another name denoting a manifold relation*. *(*Sent*. I, 29.1(125).1.)*  

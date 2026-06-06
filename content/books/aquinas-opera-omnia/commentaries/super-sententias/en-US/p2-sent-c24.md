@@ -1,7 +1,5 @@
 # D. 44 - Whether the power of God is limited to the quality of things
 
-***Whether the power of God is limited to the quality of things***
-
 ***Division of the text***
 
 Here he excludes the error of those mentioned before as regards their asserting that God’s power is limited to the quality of things. And this is divided into two parts: in the first, he excludes the error; in the second, he considers a certain question whereby a diminution of the divine power seemed to be asserted, at *moreover, it is usual to ask whether God can always do what he was once able to do*. *(*Sent*. I, 44.2(189).1.)*  

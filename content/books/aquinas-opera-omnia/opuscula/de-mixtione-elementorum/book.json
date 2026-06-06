@@ -1,7 +1,7 @@
 {
   "id": "aquinas-de-mixtione-elementorum",
   "name": {
-    "en-US": "On the Mixture of the Elements",
+    "en-US": "On the Blend of the Elements",
     "la": "De Mixtione Elementorum"
   },
   "author": {
@@ -9,10 +9,10 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short physical treatise on how the four classical elements combine in a compound body — addressing whether the elements remain actually or only virtually present in the mixed body.",
-    "la": "Tractatus brevis physicus de modo quo quattuor elementa in corpore composito miscentur."
+    "en-US": "A short consultation on the natural-philosophical question of how the four elements combine in a compound — whether they remain actually or only virtually.",
+    "la": "Responsum breve de quaestione philosophica naturali quomodo quattuor elementa in mixto componantur — utrum actu vel solum virtute manserint."
   },
-  "composed": "c. 1273",
+  "composed": "c. 1270–1273",
   "languages": [
     "en-US",
     "la"
@@ -20,21 +20,21 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Peter Orlowski (1995, 1997). Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Mixtione Elementorum",
+      "description": "English translation by Vincent R. Larkin, revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Mixtione Elementorum",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1 — DE MIXTIONE ELEMENTORUM",
-        "la": "Capitulum 1 — DE MIXTIONE ELEMENTORUM"
+        "en-US": "On the Blend of the Elements",
+        "la": "De Mixtione Elementorum"
       }
     }
   ]

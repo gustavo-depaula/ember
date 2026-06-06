@@ -1,7 +1,5 @@
 # D. 7 - The commonness of the power of generation
 
-***The commonness of the power of generation***
-
 ***Division of the text***
 
 After having manifested the proper principle of the divine generation, which is the nature and not the will, here he looks into the commonness of the principle—that is, whether the power for generating is common to the Father and the Son. And this is divided into two parts: in the first, he looks into the commonness of the generative power, taken concretely; in the second, he looks into its commonness taken in the abstract, at *also, it is asked by some whether the Father by nature has the power to beget the Son, and whether this is a power which is in the Son*. *(*Sent*. I, 7.2(20).1.)*  

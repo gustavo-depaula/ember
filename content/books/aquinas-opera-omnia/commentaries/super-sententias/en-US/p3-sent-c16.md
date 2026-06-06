@@ -1,7 +1,5 @@
 # D. 15 - Work of adornment of the fourth, fifth, and sixth days, and the seventh day’s rest
 
-Work of adornment of the fourth, fifth, and sixth days, and the seventh day’s rest  
-
 ***Division of the text***
 
 After the work of creation and distinction, here the Master begins to pursue the work of adornment. This is divided into two parts.  

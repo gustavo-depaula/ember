@@ -1,7 +1,5 @@
 # D. 26 - Hope
 
-***Hope***
-
 ***Division of the text***
 
 After the Master has considered faith, here in the second place he considers hope. And this is divided into two parts:  

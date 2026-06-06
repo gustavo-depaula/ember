@@ -1,7 +1,5 @@
 # D. 19 - Equality of the divine persons
 
-***Equality of the divine persons***
-
 ***Division of the first part of the text***
 
 Having considered the divine persons in reference to their distinction through eternal relations, here the Master begins to consider them as regards their equality. Now, this part is divided into two: in the first, he manifests the equality of the persons; in the second, he presents a certain doubt that arises from certain expressions that he had used in his own proof, at *here arises a question which has its root in what has been said earlier*. *(*Sent*. I, 21.1(87).1.)*  

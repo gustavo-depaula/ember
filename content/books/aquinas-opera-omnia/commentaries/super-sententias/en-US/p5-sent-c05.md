@@ -1,7 +1,5 @@
 # D. 4 - Agencies in the conception of Christ
 
-***Agencies in the conception of Christ***
-
 ***Division of the text***
 
 After having considered the Incarnation on the part of what was assumed [Distinction 2], showing what was assumed and what its condition was before it was assumed [Distinction 3], in this part he considers what brought about the very thing assumed. And this is divided into two parts:  

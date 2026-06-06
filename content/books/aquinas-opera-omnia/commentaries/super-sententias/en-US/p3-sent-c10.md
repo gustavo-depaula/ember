@@ -1,7 +1,5 @@
 # D. 9 - Distinctions among the orders of the good angels
 
-***Distinctions among the orders of the good angels***
-
 ***Division of the text***
 
 Having considered what pertains to the state of the creation of the angels, and what pertains to their distinction through conversion and defection, here he examines what pertains to the dignity of the good angels. And this is divided into two parts.  

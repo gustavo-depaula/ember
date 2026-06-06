@@ -2,17 +2,17 @@
   "id": "aquinas-super-psalmos",
   "name": {
     "en-US": "Commentary on the Psalms",
-    "la": "Postilla super Psalmos"
+    "la": "Expositio super Psalmos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Aquinas's final commentary, on the Psalms — incomplete. He reached only Psalm 54 (numbered Ps 51 in the Hebrew, depending on the system) before his death.",
-    "la": "Expositio ultima Thomae, in Psalmos — opus inchoatum, morte interruptum. Solum usque ad Psalmum 54 (vel 51, secundum numerationem) pervenit."
+    "en-US": "Aquinas's commentary on the Psalms — a reportatio from his Neapolitan lectures shortly before the December 1273 mystical experience that ended his writing. Covers Psalms 1–54 (Vulgate).",
+    "la": "Expositio Thomae in Psalmos — reportatio ex lectionibus Neapolitanis paulo ante experientiam mysticam Decembri 1273 quae scriptionem eius finivit. Psalmos 1–54 (Vulgatae) tractat."
   },
-  "composed": "1273",
+  "composed": "1272–1273",
   "languages": [
     "en-US",
     "la"
@@ -20,751 +20,400 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Stephen Loughlin (2005). Mirrored from the Geremia/AquinasOperaOmnia GitHub repository's PsalmsAquinas directory."
+      "url": "https://aquinas.cc/la/en/~Psalmi",
+      "description": "English translation by Stephen Loughlin (DeSales University) and Hugh McDonald, revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Psalmi",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "book-1",
+      "id": "prologue",
       "title": {
-        "en-US": "Prologue",
-        "la": "Prologus"
-      },
-      "children": [
-        {
-          "id": "b1-ch001",
-          "title": {
-            "en-US": "Section 1 — St. Thomas's Introduction to his Exposition of the Psalms of David",
-            "la": "Sectio 1 — St. Thomas's Introduction to his Exposition of the Psalms of David"
-          }
-        }
-      ]
+        "en-US": "Prologue — Prologue",
+        "la": "Prooemium"
+      }
     },
     {
-      "id": "book-2",
+      "id": "ch001",
       "title": {
-        "en-US": "Psalm 1",
+        "en-US": "Psalm 1 — Blessed is the man",
         "la": "Psalmus 1"
-      },
-      "children": [
-        {
-          "id": "b2-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 1",
-            "la": "Sectio 1 — Psalm 1"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-3",
+      "id": "ch002",
       "title": {
-        "en-US": "Psalm 2",
+        "en-US": "Psalm 2 — Why have the gentiles raged?",
         "la": "Psalmus 2"
-      },
-      "children": [
-        {
-          "id": "b3-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 2",
-            "la": "Sectio 1 — Psalm 2"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-4",
+      "id": "ch003",
       "title": {
-        "en-US": "Psalm 3",
+        "en-US": "Psalm 3 — Why, O Lord are they multiplied?",
         "la": "Psalmus 3"
-      },
-      "children": [
-        {
-          "id": "b4-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 3",
-            "la": "Sectio 1 — Psalm 3"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-5",
+      "id": "ch004",
       "title": {
-        "en-US": "Psalm 4",
+        "en-US": "Psalm 4 — When I called upon him",
         "la": "Psalmus 4"
-      },
-      "children": [
-        {
-          "id": "b5-ch001",
-          "title": {
-            "en-US": "Section 1",
-            "la": "Sectio 1"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-6",
+      "id": "ch005",
       "title": {
-        "en-US": "Psalm 5",
+        "en-US": "Psalm 5 — Give ear, O Lord, to my words",
         "la": "Psalmus 5"
-      },
-      "children": [
-        {
-          "id": "b6-ch001",
-          "title": {
-            "en-US": "Section 1",
-            "la": "Sectio 1"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-7",
+      "id": "ch006",
       "title": {
-        "en-US": "Psalm 6",
+        "en-US": "Psalm 6 — O Lord, rebuke me not",
         "la": "Psalmus 6"
-      },
-      "children": [
-        {
-          "id": "b7-ch001",
-          "title": {
-            "en-US": "Section 1",
-            "la": "Sectio 1"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-8",
+      "id": "ch007",
       "title": {
-        "en-US": "Psalm 7",
+        "en-US": "Psalm 7 — In you have I put my trust",
         "la": "Psalmus 7"
-      },
-      "children": [
-        {
-          "id": "b8-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 7",
-            "la": "Sectio 1 — Psalm 7"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-9",
+      "id": "ch008",
       "title": {
-        "en-US": "Psalm 8",
+        "en-US": "Psalm 8 — O Lord our Lord, how wonderful is your name",
         "la": "Psalmus 8"
-      },
-      "children": [
-        {
-          "id": "b9-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 8",
-            "la": "Sectio 1 — Psalm 8"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-10",
+      "id": "ch009",
       "title": {
-        "en-US": "Psalm 9",
+        "en-US": "Psalm 9 — I will confess to you, O Lord",
         "la": "Psalmus 9"
-      },
-      "children": [
-        {
-          "id": "b10-ch001",
-          "title": {
-            "en-US": "Section 1",
-            "la": "Sectio 1"
-          }
-        }
-      ]
+      }
     },
     {
-      "id": "book-11",
+      "id": "ch010",
       "title": {
-        "en-US": "Psalm 10 (Vulg. 11)",
-        "la": "Psalmus 10 (Vulg. 11)"
-      },
-      "children": [
-        {
-          "id": "b11-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 10",
-            "la": "Sectio 1 — Psalm 10"
-          }
-        }
-      ]
+        "en-US": "Psalm 10 — In the Lord I put my trust",
+        "la": "Psalmus 10"
+      }
     },
     {
-      "id": "book-12",
+      "id": "ch011",
       "title": {
-        "en-US": "Psalm 11 (Vulg. 12)",
-        "la": "Psalmus 11 (Vulg. 12)"
-      },
-      "children": [
-        {
-          "id": "b12-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 11",
-            "la": "Sectio 1 — Psalm 11"
-          }
-        }
-      ]
+        "en-US": "Psalm 11 — Save me, O Lord, for there is now no saint",
+        "la": "Psalmus 11"
+      }
     },
     {
-      "id": "book-13",
+      "id": "ch012",
       "title": {
-        "en-US": "Psalm 12 (Vulg. 13)",
-        "la": "Psalmus 12 (Vulg. 13)"
-      },
-      "children": [
-        {
-          "id": "b13-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 12",
-            "la": "Sectio 1 — Psalm 12"
-          }
-        }
-      ]
+        "en-US": "Psalm 12 — How long, O Lord, will you forget me?",
+        "la": "Psalmus 12"
+      }
     },
     {
-      "id": "book-14",
+      "id": "ch013",
       "title": {
-        "en-US": "Psalm 13 (Vulg. 14)",
-        "la": "Psalmus 13 (Vulg. 14)"
-      },
-      "children": [
-        {
-          "id": "b14-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 13",
-            "la": "Sectio 1 — Psalm 13"
-          }
-        }
-      ]
+        "en-US": "Psalm 13 — The fool has said in his heart, “There is no God”",
+        "la": "Psalmus 13"
+      }
     },
     {
-      "id": "book-15",
+      "id": "ch014",
       "title": {
-        "en-US": "Psalm 14 (Vulg. 15)",
-        "la": "Psalmus 14 (Vulg. 15)"
-      },
-      "children": [
-        {
-          "id": "b15-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 14",
-            "la": "Sectio 1 — Psalm 14"
-          }
-        }
-      ]
+        "en-US": "Psalm 14 — Lord, who shall dwell in your tabernacle?",
+        "la": "Psalmus 14"
+      }
     },
     {
-      "id": "book-16",
+      "id": "ch015",
       "title": {
-        "en-US": "Psalm 16 (Vulg. 17)",
-        "la": "Psalmus 16 (Vulg. 17)"
-      },
-      "children": [
-        {
-          "id": "b16-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 16",
-            "la": "Sectio 1 — Psalm 16"
-          }
-        }
-      ]
+        "en-US": "Psalm 15 — Preserve me, O Lord, for I have hoped in you",
+        "la": "Psalmus 15"
+      }
     },
     {
-      "id": "book-17",
+      "id": "ch016",
       "title": {
-        "en-US": "Psalm 17 (Vulg. 18)",
-        "la": "Psalmus 17 (Vulg. 18)"
-      },
-      "children": [
-        {
-          "id": "b17-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 17",
-            "la": "Sectio 1 — Psalm 17"
-          }
-        }
-      ]
+        "en-US": "Psalm 16 — Hear, O Lord, my justice",
+        "la": "Psalmus 16"
+      }
     },
     {
-      "id": "book-18",
+      "id": "ch017",
       "title": {
-        "en-US": "Psalm 18 (Vulg. 19)",
-        "la": "Psalmus 18 (Vulg. 19)"
-      },
-      "children": [
-        {
-          "id": "b18-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 18",
-            "la": "Sectio 1 — Psalm 18"
-          }
-        }
-      ]
+        "en-US": "Psalm 17 — I will love you, O Lord, my strength",
+        "la": "Psalmus 17"
+      }
     },
     {
-      "id": "book-19",
+      "id": "ch018",
       "title": {
-        "en-US": "Psalm 19 (Vulg. 20)",
-        "la": "Psalmus 19 (Vulg. 20)"
-      },
-      "children": [
-        {
-          "id": "b19-ch001",
-          "title": {
-            "en-US": "Section 1",
-            "la": "Sectio 1"
-          }
-        }
-      ]
+        "en-US": "Psalm 18 — The heavens show forth the glory of God",
+        "la": "Psalmus 18"
+      }
     },
     {
-      "id": "book-20",
+      "id": "ch019",
       "title": {
-        "en-US": "Psalm 20 (Vulg. 21)",
-        "la": "Psalmus 20 (Vulg. 21)"
-      },
-      "children": [
-        {
-          "id": "b20-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 20",
-            "la": "Sectio 1 — Psalm 20"
-          }
-        }
-      ]
+        "en-US": "Psalm 19 — May the Lord hear you in the day of tribulation",
+        "la": "Psalmus 19"
+      }
     },
     {
-      "id": "book-21",
+      "id": "ch020",
       "title": {
-        "en-US": "Psalm 21 (Vulg. 22)",
-        "la": "Psalmus 21 (Vulg. 22)"
-      },
-      "children": [
-        {
-          "id": "b21-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 21",
-            "la": "Sectio 1 — Psalm 21"
-          }
-        }
-      ]
+        "en-US": "Psalm 20 — In your strength, O Lord, the king shall joy",
+        "la": "Psalmus 20"
+      }
     },
     {
-      "id": "book-22",
+      "id": "ch021",
       "title": {
-        "en-US": "Psalm 22 (Vulg. 23)",
-        "la": "Psalmus 22 (Vulg. 23)"
-      },
-      "children": [
-        {
-          "id": "b22-ch-proem0",
-          "title": {
-            "en-US": "Prologue",
-            "la": "Prologus"
-          }
-        }
-      ]
+        "en-US": "Psalm 21 — O God, my God, look upon me",
+        "la": "Psalmus 21"
+      }
     },
     {
-      "id": "book-23",
+      "id": "ch022",
       "title": {
-        "en-US": "Psalm 23 (Vulg. 24)",
-        "la": "Psalmus 23 (Vulg. 24)"
-      },
-      "children": [
-        {
-          "id": "b23-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 23",
-            "la": "Sectio 1 — Psalm 23"
-          }
-        }
-      ]
+        "en-US": "Psalm 22 — The Lord rules me",
+        "la": "Psalmus 22"
+      }
     },
     {
-      "id": "book-24",
+      "id": "ch023",
       "title": {
-        "en-US": "Psalm 26 (Vulg. 27)",
-        "la": "Psalmus 26 (Vulg. 27)"
-      },
-      "children": [
-        {
-          "id": "b24-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 26",
-            "la": "Sectio 1 — Psalm 26"
-          }
-        }
-      ]
+        "en-US": "Psalm 23 — The earth is the Lord’s",
+        "la": "Psalmus 23"
+      }
     },
     {
-      "id": "book-25",
+      "id": "ch024",
       "title": {
-        "en-US": "Psalm 28 (Vulg. 29)",
-        "la": "Psalmus 28 (Vulg. 29)"
-      },
-      "children": [
-        {
-          "id": "b25-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 28",
-            "la": "Sectio 1 — Psalm 28"
-          }
-        }
-      ]
+        "en-US": "Psalm 24 — To you, O Lord, have I lifted up my soul",
+        "la": "Psalmus 24"
+      }
     },
     {
-      "id": "book-26",
+      "id": "ch025",
       "title": {
-        "en-US": "Psalm 29 (Vulg. 30)",
-        "la": "Psalmus 29 (Vulg. 30)"
-      },
-      "children": [
-        {
-          "id": "b26-ch001",
-          "title": {
-            "en-US": "Section 1 — 1.",
-            "la": "Sectio 1 — 1."
-          }
-        },
-        {
-          "id": "b26-ch002",
-          "title": {
-            "en-US": "Section 2 — 2.",
-            "la": "Sectio 2 — 2."
-          }
-        },
-        {
-          "id": "b26-ch003",
-          "title": {
-            "en-US": "Section 3 — 3.",
-            "la": "Sectio 3 — 3."
-          }
-        },
-        {
-          "id": "b26-ch004",
-          "title": {
-            "en-US": "Section 4 — 4.",
-            "la": "Sectio 4 — 4."
-          }
-        },
-        {
-          "id": "b26-ch005",
-          "title": {
-            "en-US": "Section 5 — 5.",
-            "la": "Sectio 5 — 5."
-          }
-        },
-        {
-          "id": "b26-ch006",
-          "title": {
-            "en-US": "Section 6 — 6.",
-            "la": "Sectio 6 — 6."
-          }
-        },
-        {
-          "id": "b26-ch007",
-          "title": {
-            "en-US": "Section 7 — 7.",
-            "la": "Sectio 7 — 7."
-          }
-        },
-        {
-          "id": "b26-ch008",
-          "title": {
-            "en-US": "Section 8 — 8.",
-            "la": "Sectio 8 — 8."
-          }
-        },
-        {
-          "id": "b26-ch009",
-          "title": {
-            "en-US": "Section 9 — 9.",
-            "la": "Sectio 9 — 9."
-          }
-        },
-        {
-          "id": "b26-ch010",
-          "title": {
-            "en-US": "Section 10 — 10.",
-            "la": "Sectio 10 — 10."
-          }
-        },
-        {
-          "id": "b26-ch011",
-          "title": {
-            "en-US": "Section 11 — 11.",
-            "la": "Sectio 11 — 11."
-          }
-        },
-        {
-          "id": "b26-ch012",
-          "title": {
-            "en-US": "Section 12 — 12.",
-            "la": "Sectio 12 — 12."
-          }
-        },
-        {
-          "id": "b26-ch013",
-          "title": {
-            "en-US": "Section 13 — 13.",
-            "la": "Sectio 13 — 13."
-          }
-        },
-        {
-          "id": "b26-ch014",
-          "title": {
-            "en-US": "Section 14 — 14.",
-            "la": "Sectio 14 — 14."
-          }
-        },
-        {
-          "id": "b26-ch015",
-          "title": {
-            "en-US": "Section 15 — 15.",
-            "la": "Sectio 15 — 15."
-          }
-        },
-        {
-          "id": "b26-ch016",
-          "title": {
-            "en-US": "Section 16 — 16.",
-            "la": "Sectio 16 — 16."
-          }
-        },
-        {
-          "id": "b26-ch017",
-          "title": {
-            "en-US": "Section 17 — 17.",
-            "la": "Sectio 17 — 17."
-          }
-        }
-      ]
+        "en-US": "Psalm 25 — Judge me, O Lord, for I have walked",
+        "la": "Psalmus 25"
+      }
     },
     {
-      "id": "book-27",
+      "id": "ch026",
       "title": {
-        "en-US": "Psalm 33 (Vulg. 34)",
-        "la": "Psalmus 33 (Vulg. 34)"
-      },
-      "children": [
-        {
-          "id": "b27-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 33",
-            "la": "Sectio 1 — Psalm 33"
-          }
-        }
-      ]
+        "en-US": "Psalm 26 — The Lord is my light and my salvation",
+        "la": "Psalmus 26"
+      }
     },
     {
-      "id": "book-28",
+      "id": "ch027",
       "title": {
-        "en-US": "Psalm 34 (Vulg. 35)",
-        "la": "Psalmus 34 (Vulg. 35)"
-      },
-      "children": [
-        {
-          "id": "b28-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 34",
-            "la": "Sectio 1 — Psalm 34"
-          }
-        }
-      ]
+        "en-US": "Psalm 27 — Unto you will I cry, O Lord",
+        "la": "Psalmus 27"
+      }
     },
     {
-      "id": "book-29",
+      "id": "ch028",
       "title": {
-        "en-US": "Psalm 35 (Vulg. 36)",
-        "la": "Psalmus 35 (Vulg. 36)"
-      },
-      "children": [
-        {
-          "id": "b29-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 35",
-            "la": "Sectio 1 — Psalm 35"
-          }
-        }
-      ]
+        "en-US": "Psalm 28 — Bring to the Lord, O you children of God",
+        "la": "Psalmus 28"
+      }
     },
     {
-      "id": "book-30",
+      "id": "ch029",
       "title": {
-        "en-US": "Psalm 42 (Vulg. 43)",
-        "la": "Psalmus 42 (Vulg. 43)"
-      },
-      "children": [
-        {
-          "id": "b30-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 42",
-            "la": "Sectio 1 — Psalm 42"
-          }
-        }
-      ]
+        "en-US": "Psalm 29 — I will extol you, O Lord",
+        "la": "Psalmus 29"
+      }
     },
     {
-      "id": "book-31",
+      "id": "ch030",
       "title": {
-        "en-US": "Psalm 46 (Vulg. 47)",
-        "la": "Psalmus 46 (Vulg. 47)"
-      },
-      "children": [
-        {
-          "id": "b31-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 46",
-            "la": "Sectio 1 — Psalm 46"
-          }
-        }
-      ]
+        "en-US": "Psalm 30 — In you, O Lord, have I hoped",
+        "la": "Psalmus 30"
+      }
     },
     {
-      "id": "book-32",
+      "id": "ch031",
       "title": {
-        "en-US": "Psalm 47 (Vulg. 48)",
-        "la": "Psalmus 47 (Vulg. 48)"
-      },
-      "children": [
-        {
-          "id": "b32-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 47",
-            "la": "Sectio 1 — Psalm 47"
-          }
-        }
-      ]
+        "en-US": "Psalm 31 — Blessed are they whose iniquities are forgiven",
+        "la": "Psalmus 31"
+      }
     },
     {
-      "id": "book-33",
+      "id": "ch032",
       "title": {
-        "en-US": "Psalm 48 (Vulg. 49)",
-        "la": "Psalmus 48 (Vulg. 49)"
-      },
-      "children": [
-        {
-          "id": "b33-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 48",
-            "la": "Sectio 1 — Psalm 48"
-          }
-        }
-      ]
+        "en-US": "Psalm 32 — Rejoice in the Lord, O you just",
+        "la": "Psalmus 32"
+      }
     },
     {
-      "id": "book-34",
+      "id": "ch033",
       "title": {
-        "en-US": "Psalm 49 (Vulg. 50)",
-        "la": "Psalmus 49 (Vulg. 50)"
-      },
-      "children": [
-        {
-          "id": "b34-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 49",
-            "la": "Sectio 1 — Psalm 49"
-          }
-        }
-      ]
+        "en-US": "Psalm 33 — I will bless the Lord at all times",
+        "la": "Psalmus 33"
+      }
     },
     {
-      "id": "book-35",
+      "id": "ch034",
       "title": {
-        "en-US": "Psalm 50 (Vulg. 51)",
-        "la": "Psalmus 50 (Vulg. 51)"
-      },
-      "children": [
-        {
-          "id": "b35-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 50",
-            "la": "Sectio 1 — Psalm 50"
-          }
-        }
-      ]
+        "en-US": "Psalm 34 — Judge, O Lord, those who wrong me",
+        "la": "Psalmus 34"
+      }
     },
     {
-      "id": "book-36",
+      "id": "ch035",
       "title": {
-        "en-US": "Psalm 51 (Vulg. 52)",
-        "la": "Psalmus 51 (Vulg. 52)"
-      },
-      "children": [
-        {
-          "id": "b36-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 51",
-            "la": "Sectio 1 — Psalm 51"
-          }
-        }
-      ]
+        "en-US": "Psalm 35 — The unjust has said within himself",
+        "la": "Psalmus 35"
+      }
     },
     {
-      "id": "book-37",
+      "id": "ch036",
       "title": {
-        "en-US": "Psalm 52 (Vulg. 53)",
-        "la": "Psalmus 52 (Vulg. 53)"
-      },
-      "children": [
-        {
-          "id": "b37-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 52",
-            "la": "Sectio 1 — Psalm 52"
-          }
-        }
-      ]
+        "en-US": "Psalm 36 — Be not quick to imitate evildoers",
+        "la": "Psalmus 36"
+      }
     },
     {
-      "id": "book-38",
+      "id": "ch037",
       "title": {
-        "en-US": "Psalm 53 (Vulg. 54)",
-        "la": "Psalmus 53 (Vulg. 54)"
-      },
-      "children": [
-        {
-          "id": "b38-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 53",
-            "la": "Sectio 1 — Psalm 53"
-          }
-        }
-      ]
+        "en-US": "Psalm 37 — Rebuke me not, O Lord",
+        "la": "Psalmus 37"
+      }
     },
     {
-      "id": "book-39",
+      "id": "ch038",
       "title": {
-        "en-US": "Psalm 54 (Vulg. 55)",
-        "la": "Psalmus 54 (Vulg. 55)"
-      },
-      "children": [
-        {
-          "id": "b39-ch001",
-          "title": {
-            "en-US": "Section 1 — Psalm 54",
-            "la": "Sectio 1 — Psalm 54"
-          }
-        }
-      ]
+        "en-US": "Psalm 38 — I will take heed to my ways",
+        "la": "Psalmus 38"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Psalm 39 — With expectation I have waited",
+        "la": "Psalmus 39"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Psalm 40 — Blessed is he who understands",
+        "la": "Psalmus 40"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Psalm 41 — As the hart longs for the fountains",
+        "la": "Psalmus 41"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Psalm 42 — Judge me, O God, and distinguish my cause",
+        "la": "Psalmus 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Psalm 43 — We have heard, O God, with our ears",
+        "la": "Psalmus 43"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Psalm 44 — My heart has uttered a good word",
+        "la": "Psalmus 44"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Psalm 45 — God is our refuge and strength",
+        "la": "Psalmus 45"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Psalm 46 — O clap your hands, all you nations",
+        "la": "Psalmus 46"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Psalm 47 — Great is the Lord and exceedingly to be praised",
+        "la": "Psalmus 47"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "Psalm 48 — Hear these things, all you nations",
+        "la": "Psalmus 48"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "en-US": "Psalm 49 — The God of gods, the Lord, has spoken",
+        "la": "Psalmus 49"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "Psalm 50 — Have mercy on me, O God",
+        "la": "Psalmus 50"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "Psalm 51 — Why do you glory in malice?",
+        "la": "Psalmus 51"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "Psalm 52 — The fool said in his heart, “There is no God”",
+        "la": "Psalmus 52"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "Psalm 53 — Save me, O God, by your name",
+        "la": "Psalmus 53"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "Psalm 54 — Hear, O God, my prayer",
+        "la": "Psalmus 54"
+      }
     }
   ]
 }

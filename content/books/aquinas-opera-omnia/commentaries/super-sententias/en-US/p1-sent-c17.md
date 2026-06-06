@@ -1,7 +1,5 @@
 # D. 16 - Visible sending of the Holy Spirit
 
-***Visible sending of the Holy Spirit***
-
 ***Division of the text***
 
 After having considered the temporal procession of the Holy Spirit in common, here he descends to his specific modes of sending. And this is divided into two parts: in the first, he considers his visible sending; in the second, the invisible (Distinction 17), at *let us now proceed to set out the sending of the Holy Spirit, by which he is invisibly sent into the hearts of the faithful*. *(*Sent*. I, 16.1(58).1; I, 17.)*  

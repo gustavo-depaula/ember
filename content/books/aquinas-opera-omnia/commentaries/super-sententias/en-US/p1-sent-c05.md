@@ -1,7 +1,5 @@
 # D. 4 - Divine generation and divine predication
 
-***Divine generation and divine predication***
-
 ***Division of the text***
 
 After he has proved by authorities, arguments, and likenesses the Trinity of persons in a unity of essence, here he begins to consider questions arising from these previous considerations. And this is divided into two parts. For because the Trinity of persons is distinguished through the procession of one person from another, first he lays out questions regarding this procession in reference to its supposit and terminus; second, he does the same in reference to its principle, at *moreover, it is usual to ask whether the Father begot the Son by his own will or by necessity*. *(*Sent*. I, 6.1(18).1.)* Now, one must be aware that, although the Master proposes these questions about the Son’s generation from the Father, nonetheless the same questions can be asked about the procession of the Holy Spirit, and they would be determined in a similar way.  

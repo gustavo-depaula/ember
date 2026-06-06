@@ -1,7 +1,5 @@
 # D. 15 - Defects assumed with human nature of Christ
 
-***Defects assumed with human nature of Christ***
-
 ***Division of the text***
 
 After the Master has considered the things that Christ assumed with his human nature pertaining to its dignity, here he considers the things that he assumed pertaining to its defect. This is divided into two parts:  

@@ -1,7 +1,5 @@
 # D. 29 - Order of charity
 
-***Order of charity***
-
 ***Division of the text***
 
 *After the above matters, we must discuss the order of charity*. *(*Sent.* III, 29.1(108).1.)* After the Master has determined what is to be loved from charity, here he determines about the order of charity.  

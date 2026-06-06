@@ -1,7 +1,5 @@
 # D. 25 - The name “person” when signified in the plural
 
-***The name “person” when signified in the plural***
-
 ***Division of the text***
 
 Having considered in Distinction 24 names that signify unity and plurality in the divine, next the Master considers how it can occur, as regards the name of these expressions, that it admits of addition and is consignified in the plural—that is, the name “person”: what it signifies when it is signified in the plural. Therefore this part is divided into two: in the first he asks whether, just as the name “person” signifies the essence when uttered in the singular, so too when it is consignified in the plural; in the second he presents the solution to this question, at *it seems to some that essence is signified by the term ‘person.’* *(*Sent*. I, 25.1(102).5.)*  

@@ -1,7 +1,5 @@
 # D. 1 - The Incarnation
 
-***The Incarnation***
-
 ***Division of the text***
 
 After the Master has spent Books I and II considering things that are divine in virtue of their coming forth from their beginning, in this book he begins to consider the things that are called “divine” in according to their return to their final end—that is, to God. This part, then, is divided into two parts.  

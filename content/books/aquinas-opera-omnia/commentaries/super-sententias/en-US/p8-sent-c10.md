@@ -1,7 +1,5 @@
 # D. 23 - On extreme unction
 
-***On extreme unction***
-
 After the Master has examined baptism, which is the sacrament of those entering, and confirmation, Eucharist, and penance, which are sacraments of those progressing, here in the fifth place he considers extreme unction, which is the sacrament of those departing. And this is divided into two parts: in the first he considers the sacrament itself; in the second, its use, at: *some ask whether this sacrament can be repeated*. *(*Sententiae* IV, 23.4 (130). 1.)*  
 
 The first is in two parts: in the first part he distinguishes this sacrament from other anointings; in the second, he determines all the things that pertain to this sacrament, at: *we read that this sacrament of anointing the sick was instituted by the Apostles*. *(*Sent*. IV, 23.3 (129). 1.)*  

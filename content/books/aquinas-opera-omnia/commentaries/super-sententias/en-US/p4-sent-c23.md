@@ -1,7 +1,5 @@
 # D. 43 - The sin against the Holy Spirit
 
-***The sin against the Holy Spirit***
-
 ***Division of the text***
 
 After he has assigned the different kinds of sins, in this part he addresses a kind of sin that we find to be graver than the rest of them, namely, the sin against the Holy Spirit. And it is divided into two parts.  

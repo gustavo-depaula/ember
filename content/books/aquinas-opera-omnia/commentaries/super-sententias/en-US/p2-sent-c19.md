@@ -1,7 +1,5 @@
 # D. 39 - How divine knowledge is the cause of what is known
 
-***How divine knowledge is the cause of what is known***
-
 ***Division of the text***
 
 Here he shows in what manner the divine knowledge is the cause. And it is divided into two parts: in the first, he asks whether it is invariable; in the second, whether it is universal, at *as to what was said above, . . . it seems to be contradicted by what Jerome says*. *(*Sent*. I, 39.4(178).1.)*  

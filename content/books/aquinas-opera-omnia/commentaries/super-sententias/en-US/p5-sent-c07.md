@@ -1,7 +1,5 @@
 # D. 6 - The mode of union
 
-***The mode of union***
-
 ***Division of the text***
 
 After the Master has studied the Incarnation of God, here he begins to examine the conditions of God incarnate.  

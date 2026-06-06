@@ -1,7 +1,5 @@
 # D. 42 - The Power of God
 
-***The Power of God***
-
 ***Division of the text***
 
 Having considered God’s knowledge, here the Master, second, considers his power. And it is divided into two parts: in the first, the Master shows the universality of his power, insofar as he is called “omnipotent”; in the second, he excludes the error of certain ones who limit God’s power, at *but there are some who, glorying in their own intellect, have attempted to encompass God’s power within a limit*. *(*Sent*. I, 43.1(187).1.)*  

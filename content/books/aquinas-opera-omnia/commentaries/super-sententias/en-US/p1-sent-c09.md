@@ -1,7 +1,5 @@
 # D. 8 - The divine essence
 
-***The divine essence***
-
 ***Division of the first part of the text***
 
 Having manifested the Trinity of persons in the unity of essence, here he begins to go through his consideration of things that pertain to each of them. Now, in the divine there are three aspects: the common essence, the distinct person, and the distinguishing property. Therefore this part is divided into two: in the first, he considers them according to themselves; in the second, he considers how they are related to each other, at *after what has been said above, it is necessary to consider more deeply and inquire*. *(*Sent*. I, 33.1(143).1.)*  

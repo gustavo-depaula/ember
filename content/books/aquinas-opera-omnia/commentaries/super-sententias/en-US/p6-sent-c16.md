@@ -1,7 +1,5 @@
 # D. 38 - Lying
 
-***Lying***
-
 ***Division of the text***
 
 Having considered and explained the five precepts of the second tablet, here the Master considers certain things opposed to the fifth precept, namely, lying and perjury. Now, this part is divided into two:  

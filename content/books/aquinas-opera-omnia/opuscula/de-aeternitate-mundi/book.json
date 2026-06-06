@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short treatise responding to the Latin Averroist debate at Paris: whether the world could have been eternal *de potentia Dei absoluta*. Aquinas defends the philosophical possibility (against Bonaventure) while affirming the *de facto* creation in time (against the Averroists).",
-    "la": "Tractatus brevis ad disputationem averroistarum latinorum Parisiensium pertinens: utrum mundus potuerit esse aeternus."
+    "en-US": "A short treatise arguing that the Catholic doctrine of creation in time does not contradict reason — God could in principle have created an eternal world, but in fact created it with a beginning.",
+    "la": "Tractatus brevis arguens dogmate catholico creationis in tempore rationi non contradicere — Deus mundum aeternum in principio creare potuisse, sed re ipsa cum principio creavisse."
   },
   "composed": "c. 1271",
   "languages": [
@@ -20,21 +20,21 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Robert T. Miller. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Aeternitate Mundi",
+      "description": "English translation by Robert T. Miller (1991), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Aeternitate Mundi",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1 — De aeternitate mundi",
-        "la": "Capitulum 1 — De aeternitate mundi"
+        "en-US": "On the Eternity of the World",
+        "la": "De Aeternitate Mundi"
       }
     }
   ]

@@ -1,7 +1,5 @@
 # D. 40 - The last two precepts
 
-***The last two precepts***
-
 ***Division of the text***
 
 Having considered the precepts of the Decalogue that look to one’s exterior deeds and speech, here the Master sets forth the two last precepts, which look to the desire of the heart.  

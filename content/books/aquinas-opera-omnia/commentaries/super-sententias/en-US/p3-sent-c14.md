@@ -1,7 +1,5 @@
 # D. 13 - Work of distinction of the first day
 
-***Work of distinction of the first day***
-
 ***Division of the text***
 
 Having spoken of the work of creation, here he proceeds to the work of distinction. And this is divided into three parts.  

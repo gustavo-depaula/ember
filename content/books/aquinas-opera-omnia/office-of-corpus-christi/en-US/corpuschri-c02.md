@@ -1,8 +1,5 @@
 # Compline
 
-[℣.Grant, Lord, a blessing. *(The hour of Compline is not found in BNF 1143. Instead, the hour has been adapted from the Inchcolm Antiphonary manuscript (MS 211.IV), in the Edinburgh University Library, which is a fragmentary manuscript that contains many of the same items as BNF 1143, though the antiphons for Compline are unique to it.)*  
-*Benediction*. May almighty God grant us a quiet night and a perfect end. Amen.  
-
 *Short reading* (1 Pet 5:8–9)  
 
 Brothers: be sober and watch: because your adversary the devil, as a roaring lion, goes about seeking whom he may devour. Resist him, strong in faith.  

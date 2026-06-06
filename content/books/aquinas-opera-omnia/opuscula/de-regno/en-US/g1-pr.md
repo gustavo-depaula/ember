@@ -1,0 +1,3 @@
+# Prologue — Prologue
+
+As I was turning over in my mind what I might present to your majesty as a gift, at once worthy of your royal highness and befitting my profession and office, it seemed to me a highly appropriate offering that, for a king, I should write a book on kingship, in which, so far as my ability permits, I should carefully expound, according to the authority of Scripture and the teachings of the philosophers, as well as the practice of worthy princes, both the origin of kingly government and the things which pertain to the office of a king, relying for the beginning, progress and accomplishment of this work on the help of him who is King of kings and Lord of lords, through whom kings rule, God the mighty Lord, the great king above all gods.

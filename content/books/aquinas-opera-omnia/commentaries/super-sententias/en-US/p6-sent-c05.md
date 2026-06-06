@@ -1,7 +1,5 @@
 # D. 27 - Charity
 
-***Charity***
-
 ***Division of the text***
 
 After the Master has determined about faith and hope, here, in the third place, he determines about charity.  

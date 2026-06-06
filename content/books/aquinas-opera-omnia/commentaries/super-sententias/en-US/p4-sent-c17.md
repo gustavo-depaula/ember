@@ -1,7 +1,5 @@
 # D. 37 - Cause of sin and punishment
 
-***Cause of sin and punishment***
-
 ***Division of the text***
 
 After he has dealt with the opinion positing that the acts of sins, inasmuch as they exist, are good and from God, in this distinction he follows up with the other, opposing opinion, which posits that they are in no way from God. And it is divided into two parts.  

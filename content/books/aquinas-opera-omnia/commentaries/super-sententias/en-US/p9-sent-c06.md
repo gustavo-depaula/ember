@@ -1,7 +1,5 @@
 # D. 31 - On the goods of marriage and the marital act
 
-***On the goods of marriage and the marital act***
-
 After the Master has determined the causes by which marriage itself is constituted, here he examines the reasons for its dignity, namely, the goods of the union, by which the marital act is dignified. And this is divided into two parts: in the first, he determines the goods of marriage as regards marriage, and this is what we are now discussing; in the second part, he shows how these goods existed in the marriages of the patriarchs, in Distinction 33, at: *here it is asked concerning the ancient Fathers*. *(*Sententiae* IV, 33.1 (194). 1.)*  
 
 The first part is divided into two: first, he determines the goods of the union for which the marital act is excused. Second, he considers the marital act itself, which is excused through the aforementioned goods, according as it also has the nature of something owed, in Distinction 32, at: *it is also to be known that even though in all other things the husband is above the wife . . . yet they are equal in satisfying the debt of the flesh*. *(*Sent*. IV, 32.1 (190). 1.)*  

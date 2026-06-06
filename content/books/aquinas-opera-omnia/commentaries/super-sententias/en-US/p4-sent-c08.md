@@ -1,7 +1,5 @@
 # D. 28 - Errors about grace
 
-***Errors about grace***
-
 ***Division of the text***
 
 After he has determined the truth about grace, here he rules out certain errors concerning grace. This is divided into two parts.  

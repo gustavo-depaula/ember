@@ -1,7 +1,5 @@
 # D. 31 - Appropriations of the divine persons
 
-***Appropriations of the divine persons***
-
 ***Division of the text***
 
 Having considered things proper to the persons, here he considers things that are appropriated to them. And it is divided into two parts: in the first, he determines what things are appropriated to the persons; in the second, he asks how the divine persons are compared to each other according to those appropriations, in Distinction 32: *here arises a question*. *(*Sent*. I, 32.1(137).1.)*  

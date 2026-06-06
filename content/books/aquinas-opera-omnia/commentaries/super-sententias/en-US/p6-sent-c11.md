@@ -1,7 +1,5 @@
 # D. 33 - Cardinal virtues
 
-***Cardinal virtues***
-
 ***Division of the text***
 
 After considering the theological virtues, here the Master considers the cardinal virtues. And this is divided into two parts:  

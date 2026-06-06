@@ -1,7 +1,5 @@
 # D. 39 - How sin can be in the will
 
-***How sin can be in the will***
-
 ***Division of the text***
 
 Having shown that rectitude and perversity of the will is from the end, here he inquires whether there can be perversity and sin in the will. This is divided into two parts.  

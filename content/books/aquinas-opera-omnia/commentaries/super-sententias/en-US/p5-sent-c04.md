@@ -1,7 +1,5 @@
 # D. 3 - How the human nature was assumed
 
-***How the human nature was assumed***
-
 ***Division of the text***
 
 Having shown what the Son of God was in human nature, and in what order he assumed it, here he shows how it is that it was assumed.  

@@ -1,7 +1,5 @@
 # D. 41 - Causality of predestination
 
-***Causality of predestination***
-
 ***Division of the text***
 
 Here the Master considers the causality of predestination and reprobation, excluding the error of those who assigned the cause of each as being on our side. And this is divided into two parts: in the first, he shows that the cause of both is not on our side; in the second, he shows that God’s knowledge is never diminished, at *moreover, it needs to be considered whether all things which God once knows or foreknows, he always knows and knew and foreknows and foreknew*. *(*Sent*. I, 41.3(183).1.)*  

@@ -2,17 +2,17 @@
   "id": "aquinas-de-perfectione-vitae",
   "name": {
     "en-US": "On the Perfection of the Spiritual Life",
-    "la": "De Perfectione Spiritualis Vitae"
+    "la": "De Perfectione Vitae Spiritualis"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "An ascetical-theological defense of the religious life, arguing that the perfection of charity — by the counsels of poverty, chastity, and obedience — is the work to which the religious orders are vowed. Against Gerard of Abbeville.",
-    "la": "Defensio asceticotheologica vitae religiosae, ostendens perfectionem caritatis — consiliis paupertatis, castitatis, oboedientiae — esse opus ad quod ordines religiosi voventur."
+    "en-US": "A defence of the religious state as a state of perfection, against the position of Gerard of Abbeville that perfection consists in the secular clerical life rather than in religious profession.",
+    "la": "Defensio status religiosi ut status perfectionis, contra positionem Gerardi de Abbatisvilla quod perfectio in vita clericali saeculari potius quam in professione religiosa consistit."
   },
-  "composed": "1269",
+  "composed": "1269–1270",
   "languages": [
     "en-US",
     "la"
@@ -20,196 +20,224 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by John Procter, O.P. (1902). Public domain. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Perfectione Vitae Spiritualis",
+      "description": "English translation by John Procter OP (Burns and Oates, London, 1902, PD), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Perfectione Vitae Spiritualis",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1 — That the Perfection of the Spiritual Life Is to Be Understood Absolutely (*simpliciter*) According to Charity",
-        "la": "Capitulum 1 — That the Perfection of the Spiritual Life Is to Be Understood Absolutely (*simpliciter*) According to Charity"
+        "en-US": "Chapter 1 — The author’s intention",
+        "la": "Caput 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Chapter 2 — Perfection Is Understood to Mean Both the Love of God, and the Love of Our Neighbour",
-        "la": "Capitulum 2 — Perfection Is Understood to Mean Both the Love of God, and the Love of Our Neighbour"
+        "en-US": "Chapter 2 — That the perfection of the spiritual life is according to charity",
+        "la": "Caput 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Chapter 3 — The Perfection of Divine Love Which Exists in God Alone",
-        "la": "Capitulum 3 — The Perfection of Divine Love Which Exists in God Alone"
+        "en-US": "Chapter 3 — Perfection is both the love of God and the love of our neighbor",
+        "la": "Caput 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Chapter 4 — The Perfection of Divine Love Which Exists in Those Who Have Attained to Beatitude",
-        "la": "Capitulum 4 — The Perfection of Divine Love Which Exists in Those Who Have Attained to Beatitude"
+        "en-US": "Chapter 4 — The perfection of divine love in God",
+        "la": "Caput 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Chapter 5 — The Perfection of Divine Love Which is Necessary to Salvation",
-        "la": "Capitulum 5 — The Perfection of Divine Love Which is Necessary to Salvation"
+        "en-US": "Chapter 5 — The perfection of divine love in those who have attained to beatitude",
+        "la": "Caput 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Chapter 6 — The Perfection of Divine Love Which is A Matter of Counsel",
-        "la": "Capitulum 6 — The Perfection of Divine Love Which is A Matter of Counsel"
+        "en-US": "Chapter 6 — The perfection of divine love necessary to salvation",
+        "la": "Caput 6"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Chapter 7 — The First Means of Perfection, Viz.: the Renunciation of Earthly Possessions",
-        "la": "Capitulum 7 — The First Means of Perfection, Viz.: the Renunciation of Earthly Possessions"
+        "en-US": "Chapter 7 — The perfection of divine love which is a matter of counsel",
+        "la": "Caput 7"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Chapter 8 — The Second Means of Perfection Which is the Renunciation, of Earthly Ties and of Matrimony",
-        "la": "Capitulum 8 — The Second Means of Perfection Which is the Renunciation, of Earthly Ties and of Matrimony"
+        "en-US": "Chapter 8 — The first means of perfection which is the renunciation of earthly possessions",
+        "la": "Caput 8"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Chapter 9 — Aids to the Preservation of Chastity",
-        "la": "Capitulum 9 — Aids to the Preservation of Chastity"
+        "en-US": "Chapter 9 — The second means of perfection which is the renunciation of earthly ties and of matrimony",
+        "la": "Caput 9"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Chapter 10 — Of the Third Means of Perfection, Namely, the Abnegation of Our Own Will",
-        "la": "Capitulum 10 — Of the Third Means of Perfection, Namely, the Abnegation of Our Own Will"
+        "en-US": "Chapter 10 — Aids in the preservation of chastity",
+        "la": "Caput 10"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Chapter 11 — The Three Means of Perfection, of Which We Have Hitherto Been Speaking, Belong, Peculiarly, to the Religious State",
-        "la": "Capitulum 11 — The Three Means of Perfection, of Which We Have Hitherto Been Speaking, Belong, Peculiarly, to the Religious State"
+        "en-US": "Chapter 11 — The third means of perfection which is the renunciation of our own will",
+        "la": "Caput 11"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Chapter 12 — Refutation of the Errors of Those Who Presume to Detract From the Merit of Obedience, Or of Vows",
-        "la": "Capitulum 12 — Refutation of the Errors of Those Who Presume to Detract From the Merit of Obedience, Or of Vows"
+        "en-US": "Chapter 12 — These three means of perfection belong peculiarly to the religious state",
+        "la": "Caput 12"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "en-US": "Chapter 13 — The Perfection of Brotherly Love Which is Necessary for Salvation",
-        "la": "Capitulum 13 — The Perfection of Brotherly Love Which is Necessary for Salvation"
+        "en-US": "Chapter 13 — A refutation of the errors against religious vows",
+        "la": "Caput 13"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "en-US": "Chapter 14 — The Perfection of Love of Our Neighbour Considered As A Matter of Counsel",
-        "la": "Capitulum 14 — The Perfection of Love of Our Neighbour Considered As A Matter of Counsel"
+        "en-US": "Chapter 14 — The perfection of brotherly love which is necessary for salvation",
+        "la": "Caput 14"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "en-US": "Chapter 15 — What is Required to Constitute the State of Perfection",
-        "la": "Capitulum 15 — What is Required to Constitute the State of Perfection"
+        "en-US": "Chapter 15 — The perfection of love of our neighbor considered as a matter of counsel",
+        "la": "Caput 15"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "en-US": "Chapter 16 — The State of Perfection is A Condition Befitting Bishops and Religious",
-        "la": "Capitulum 16 — The State of Perfection is A Condition Befitting Bishops and Religious"
+        "en-US": "Chapter 16 — The perfection of brotherly love considered in its intensity",
+        "la": "Caput 16"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "en-US": "Chapter 17 — The Episcopal Office is More Sacred Than is the Religious Life",
-        "la": "Capitulum 17 — The Episcopal Office is More Sacred Than is the Religious Life"
+        "en-US": "Chapter 17 — The perfection of brotherly love manifested by spiritual gifts",
+        "la": "Caput 17"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "en-US": "Chapter 18 — An Answer to Certain Arguments Which May Seem to Call in Question the Perfection of the Episcopal State",
-        "la": "Capitulum 18 — An Answer to Certain Arguments Which May Seem to Call in Question the Perfection of the Episcopal State"
+        "en-US": "Chapter 18 — What is required to constitute the state of perfection",
+        "la": "Caput 18"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "en-US": "Chapter 19 — The Episcopal Office, Although A State of Greater Perfection Than is the Religious Life, Is, Nevertheless, Not to Be Coveted",
-        "la": "Capitulum 19 — The Episcopal Office, Although A State of Greater Perfection Than is the Religious Life, Is, Nevertheless, Not to Be Coveted"
+        "en-US": "Chapter 19 — The state of perfection is a condition befitting bishops and religious",
+        "la": "Caput 19"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "en-US": "Chapter 20 — Arguments Used by Certain Men to Prove That Parish Priests and Archdeacons Are in A State of Higher Perfection Than Are Religious. — Answers to These Arguments",
-        "la": "Capitulum 20 — Arguments Used by Certain Men to Prove That Parish Priests and Archdeacons Are in A State of Higher Perfection Than Are Religious. — Answers to These Arguments"
+        "en-US": "Chapter 20 — The episcopal office is more sacred than the religious life",
+        "la": "Caput 20"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "en-US": "Chapter 21 — Other Arguments Used to Overthrow the Conclusion At Which We Have Arrived",
-        "la": "Capitulum 21 — Other Arguments Used to Overthrow the Conclusion At Which We Have Arrived"
+        "en-US": "Chapter 21 — Reply to objections against the perfection of the episcopal state",
+        "la": "Caput 21"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "en-US": "Chapter 22 — Showing That the Liability to Suspension Does Not Suffice to Prove That Parish Priests Or Archdeacons Are in A State of Perfection",
-        "la": "Capitulum 22 — Showing That the Liability to Suspension Does Not Suffice to Prove That Parish Priests Or Archdeacons Are in A State of Perfection"
+        "en-US": "Chapter 22 — The dangers in desiring the episcopal office",
+        "la": "Caput 22"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "en-US": "Chapter 23 — An Answer to the Foregoing Arguments, — in Which An Attempt Was Made to Show That Archdeacons and Parish Priests Are in A Higher Degree of Perfection Than Are Religious",
-        "la": "Capitulum 23 — An Answer to the Foregoing Arguments, — in Which An Attempt Was Made to Show That Archdeacons and Parish Priests Are in A Higher Degree of Perfection Than Are Religious"
+        "en-US": "Chapter 23 — Whether priests and archdeacons are in a state of higher perfection than religious",
+        "la": "Caput 23"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "en-US": "Chapter 24 — An Answer to the Argument, Whereby Certain Persons Endeavour to Prove, — That the Defect of A Solemn Blessing Or Consecration Does Not Hinder Archdeacons Or Parish Priests From Being in A State of Perfection",
-        "la": "Capitulum 24 — An Answer to the Argument, Whereby Certain Persons Endeavour to Prove, — That the Defect of A Solemn Blessing Or Consecration Does Not Hinder Archdeacons Or Parish Priests From Being in A State of Perfection"
+        "en-US": "Chapter 24 — Other arguments used to show that parish priests are in a state of greater perfection than religious",
+        "la": "Caput 24"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "en-US": "Chapter 25 — An Answer to the Arguments Which Are Brought Forward, to Prove — That the Power of An Archdeacon Or Parish Priest to Resign His Duties is No Hindrance to His Being in A State of Perfection** (ch. 22)",
-        "la": "Capitulum 25 — An Answer to the Arguments Which Are Brought Forward, to Prove — That the Power of An Archdeacon Or Parish Priest to Resign His Duties is No Hindrance to His Being in A State of Perfection** (ch. 22)"
+        "en-US": "Chapter 25 — Reasons why parish priests and archdeacons should not be placed in a more perfect state",
+        "la": "Caput 25"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "en-US": "Chapter 26 — Concerning the Works That A Religious May Lawfully Undertake",
-        "la": "Capitulum 26 — Concerning the Works That A Religious May Lawfully Undertake"
+        "en-US": "Chapter 26 — The liability to suspension does not prove that parish priests or archdeacons are in a state of perfection",
+        "la": "Caput 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Chapter 27 — Refuting previous arguments about the higher degree of perfection in archdeacons and parish priests",
+        "la": "Caput 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Chapter 28 — Refuting the argument that the state of perfection is not hindered by a lack of a solemn blessing or consecration",
+        "la": "Caput 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Chapter 29 — Reply to arguments about the lack of hindrance to the state of perfection in those with the ability to resign duties",
+        "la": "Caput 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Chapter 30 — Concerning the works that a religious may lawfully undertake",
+        "la": "Caput 30"
       }
     }
   ]

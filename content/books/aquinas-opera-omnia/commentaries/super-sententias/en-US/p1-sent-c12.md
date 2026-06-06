@@ -1,7 +1,5 @@
 # D. 11 - Procession of the Holy Spirit from the Father and the Son
 
-***Procession of the Holy Spirit from the Father and the Son***
-
 ***Division of the text***
 
 Here he considers the procession of the Holy Spirit as regards its principle. And this is divided into two parts: in the first, he shows that the Holy Spirit proceeds from the Father and the Son; in the second, he asks whether he proceeds from each of them equally: *also, the question is raised whether, since the Holy Spirit proceeds from the Father and the Son, he proceeded earlier or more fully from the Father than from the Son*. *(*Sent*. I, 12.1(39).1.)*  

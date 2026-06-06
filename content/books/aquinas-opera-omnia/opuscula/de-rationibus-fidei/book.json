@@ -1,18 +1,18 @@
 {
   "id": "aquinas-de-rationibus-fidei",
   "name": {
-    "en-US": "On the Reasons for the Faith (to the Cantor of Antioch)",
-    "la": "De Rationibus Fidei (ad Cantorem Antiochenum)"
+    "en-US": "On Reasons for the Faith, against Saracens, Greeks, and Armenians",
+    "la": "De Rationibus Fidei contra Saracenos, Graecos et Armenos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short apologetic treatise written for a cantor at Antioch on the rational defense of central Christian mysteries — the Trinity, the Incarnation, the Eucharist, predestination — in dialogue with Muslims, Greeks, and Armenians.",
-    "la": "Tractatus apologeticus brevis cantori cuidam Antiocheno scriptus, de defensione rationali mysteriorum christianorum praecipuorum — Trinitatis, Incarnationis, Eucharistiae, praedestinationis — coram Mahumedanis, Graecis et Armeniis."
+    "en-US": "A short apologetic addressed to a Dominican cantor in Antioch, giving reasons for the Trinity, Incarnation, and other contested doctrines against Muslim and Eastern-Christian objections.",
+    "la": "Apologia brevis ad cantorem dominicanum Antiochiae, rationes Trinitatis, Incarnationis, et aliorum dogmatum contestatorum contra objectiones Musulmanorum et Christianorum Orientalium praestans."
   },
-  "composed": "c. 1264",
+  "composed": "c. 1265",
   "languages": [
     "en-US",
     "la"
@@ -20,84 +20,84 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Rationibus Fidei",
+      "description": "English translation by Joseph Kenny OP (Catholic Bilingual Press, 2002), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Rationibus Fidei",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1",
-        "la": "Capitulum 1"
+        "en-US": "Chapter 1 — Introduction",
+        "la": "Caput 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Chapter 2",
-        "la": "Capitulum 2"
+        "en-US": "Chapter 2 — How to Argue with Unbelievers",
+        "la": "Caput 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Chapter 3",
-        "la": "Capitulum 3"
+        "en-US": "Chapter 3 — How Generation Applies to God",
+        "la": "Caput 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Chapter 4",
-        "la": "Capitulum 4"
+        "en-US": "Chapter 4 — How the Spirit Proceeds from the Father and the Son",
+        "la": "Caput 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Chapter 5",
-        "la": "Capitulum 5"
+        "en-US": "Chapter 5 — The Reason for the Incarnation of the Son of God",
+        "la": "Caput 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Chapter 6",
-        "la": "Capitulum 6"
+        "en-US": "Chapter 6 — The Meaning of ‘God Became Man’",
+        "la": "Caput 6"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Chapter 7",
-        "la": "Capitulum 7"
+        "en-US": "Chapter 7 — The Meaning of ‘The Word of God Suffered’",
+        "la": "Caput 7"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Chapter 8",
-        "la": "Capitulum 8"
+        "en-US": "Chapter 8 — The Meaning of ‘The faithful Receive the Body of Christ’",
+        "la": "Caput 8"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Chapter 9",
-        "la": "Capitulum 9"
+        "en-US": "Chapter 9 — How There is a Special Place Where Souls are Purified Before Receiving Beatitude",
+        "la": "Caput 9"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Chapter 10",
-        "la": "Capitulum 10"
+        "en-US": "Chapter 10 — That Divine Predestination Does Not Impose Necessity on Human Acts",
+        "la": "Caput 10"
       }
     }
   ]

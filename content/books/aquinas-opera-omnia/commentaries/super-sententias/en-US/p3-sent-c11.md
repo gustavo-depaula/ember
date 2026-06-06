@@ -1,7 +1,5 @@
 # D. 10 - Angelic acts that follow on the distinct orders
 
-***Angelic acts that follow on the distinct orders***
-
 ***Division of the text***
 
 Having laid out the distinctions between orders, here the Master considers some acts that follow on the distinct orders. This is divided into two parts.  

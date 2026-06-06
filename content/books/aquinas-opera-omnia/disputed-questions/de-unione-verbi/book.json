@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A single disputed question of five articles on the hypostatic union — on whether the union of human and divine in Christ is one or many, on the act of being in Christ, and on the soul of Christ.",
-    "la": "Quaestio disputata una quinque articulorum, de unione hypostatica — utrum unio in Christo sit una vel multiplex, de actu essendi in Christo, et de anima Christi."
+    "en-US": "A short disputed question of five articles on the hypostatic union — Aquinas's late mature treatment of the metaphysics of the Incarnation, contemporaneous with the *Tertia Pars*.",
+    "la": "Quaestio disputata brevis quinque articulorum de unione hypostatica — tractatio Thomae mature serotina de metaphysica Incarnationis, *Tertiae Parti* coaeva."
   },
   "composed": "1272",
   "languages": [
@@ -20,59 +20,57 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Translation drawn from the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Unione Verbi Incarnati",
+      "description": "English translation revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Unione Verbi Incarnati",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "q01",
+      "id": "prologue",
       "title": {
-        "en-US": "Question 1",
-        "la": "Quaestio 1"
-      },
-      "children": [
-        {
-          "id": "q01-a01",
-          "title": {
-            "en-US": "Article 1",
-            "la": "Articulus 1"
-          }
-        },
-        {
-          "id": "q01-a02",
-          "title": {
-            "en-US": "Article 2",
-            "la": "Articulus 2"
-          }
-        },
-        {
-          "id": "q01-a03",
-          "title": {
-            "en-US": "Article 3",
-            "la": "Articulus 3"
-          }
-        },
-        {
-          "id": "q01-a04",
-          "title": {
-            "en-US": "Article 4",
-            "la": "Articulus 4"
-          }
-        },
-        {
-          "id": "q01-a05",
-          "title": {
-            "en-US": "Article 5",
-            "la": "Articulus 5"
-          }
-        }
-      ]
+        "en-US": "Prologue — Prologue",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Article 1 — Whether this union was brought about in the person or in the nature",
+        "la": "Articulus 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Article 2 — Whether there is only one hypostasis or suppositum in Christ or two",
+        "la": "Articulus 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Article 3 — Whether Christ is one or two in the neuter",
+        "la": "Articulus 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Article 4 — Whether there is only one being in Christ",
+        "la": "Articulus 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Article 5 — Whether in Christ there is only one activity",
+        "la": "Articulus 5"
+      }
     }
   ]
 }

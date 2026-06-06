@@ -1,0 +1,177 @@
+{
+  "id": "aquinas-super-philippenses",
+  "name": {
+    "en-US": "Commentary on Philippians",
+    "la": "Super Philippenses lectura"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the Letter to the Philippians.",
+    "la": "Expositio Thomae in Epistolam ad Philippenses."
+  },
+  "composed": "1268–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Philippenses",
+      "description": "English translation by Fabian R. Larcher OP, revised by the Aquinas Institute. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Philippenses",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "en-US": "Chapter 1 — Proverbs 4:18",
+        "la": "Caput 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — Proverbs 4:18",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "Chapter 2 — Paul’s Trust in Christ",
+        "la": "Caput 2"
+      },
+      "children": [
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Lecture 1 — Greeting",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Lecture 2 — Prayer",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Lecture 3 — Paul’s desire to be with Christ",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Lecture 4 — Behave worthily of the Gospel",
+            "la": "Lectio 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": {
+        "en-US": "Chapter 3 — Hymn to Christ",
+        "la": "Caput 3"
+      },
+      "children": [
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Lecture 1 — Unity of Christians",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g3-c002",
+          "title": {
+            "en-US": "Lecture 2 — Christ’s humility unto death",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g3-c003",
+          "title": {
+            "en-US": "Lecture 3 — Exaltation of Christ",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g3-c004",
+          "title": {
+            "en-US": "Lecture 4 — Paul sends ministers",
+            "la": "Lectio 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": {
+        "en-US": "Chapter 4 — Conformity to Christ",
+        "la": "Caput 4"
+      },
+      "children": [
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Lecture 1 — Have no confidence in the flesh",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g4-c002",
+          "title": {
+            "en-US": "Lecture 2 — Likeness to Christ",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g4-c003",
+          "title": {
+            "en-US": "Lecture 3 — Imitate Christ through Paul",
+            "la": "Lectio 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": {
+        "en-US": "Chapter 5 — Exhortations to Holiness",
+        "la": "Caput 5"
+      },
+      "children": [
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Lecture 1 — Rejoice in the Lord always",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g5-c002",
+          "title": {
+            "en-US": "Lecture 2 — Contentment through Christ",
+            "la": "Lectio 2"
+          }
+        }
+      ]
+    }
+  ]
+}

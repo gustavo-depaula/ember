@@ -1,7 +1,5 @@
 # D. 36 - The impediment of slavery
 
-***The impediment of slavery***
-
 After the Master has considered impotence to have intercourse, which *de facto* impedes the marital act from taking place at all, here he addresses the impediment of servile condition, which impedes the marital act from taking place freely; and this is divided into two parts: in the first he considers the servile condition, in the second he gives an epilogue, continuing from what he has said before to its consequences, at: *we have set out two of those things by which . . . marriage can be dissolved*, etc. *(*Sententiae* IV, 36.4 (211). 3.)*  
 
 The first part is divided into two parts: in the first, he considers the impediment of servile condition, in the second, the impediment of insufficient age, since such a person is no different from a slave, as long as he is under his guardians (Galatians 4), at: *it is also to be known that, according to the laws, boys cannot enter into marriage before the age of fourteen years, and girls before twelve*. *(*Sent*. IV, 36.4 (211). 1.)*  
