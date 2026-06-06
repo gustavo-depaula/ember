@@ -19,7 +19,7 @@ import {
   loadBookContent,
 } from './bookContent'
 import { listCompletedChapters, markChapterCompleted } from './chapterCompletions'
-import { buildChapterTimings } from './chapterTimings'
+import { buildChapterTimings, persistChapterTimings } from './chapterTimings'
 import { FootnoteSheet } from './FootnoteSheet'
 import {
   type FoliateMessage,
@@ -208,6 +208,14 @@ export function BookReader({ bookId, chapter }: Props) {
       ),
     [chapters, leaves],
   )
+
+  // Persist timings once they're available so the frontispiece can show
+  // remaining-time estimates without loading every chapter.
+  useEffect(() => {
+    if (chapterTimings && chapterTimings.size > 0) {
+      void persistChapterTimings(bookId, chapterTimings)
+    }
+  }, [bookId, chapterTimings])
 
   const [chapterIndex, setChapterIndex] = useState(0)
   const [fraction, setFraction] = useState(0)

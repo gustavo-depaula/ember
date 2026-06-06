@@ -1104,6 +1104,7 @@ export default {
     progressLine: '{{percent}}% · Chapter {{current}} of {{total}}',
     lastRead: 'Last read {{when}}',
     chaptersFinished: '{{done}} of {{total}} chapters finished',
+    timeToFinish: '~{{when}} to finish',
   },
 
   collections: {

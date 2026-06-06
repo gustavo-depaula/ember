@@ -16,6 +16,7 @@ import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
 import { buildTitleLookup, flattenTocLeaves } from '@/features/books/reader/bookContent'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
+import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
 import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
 import { PrologueProse } from '@/features/collections'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
@@ -26,6 +27,13 @@ import { useNowPlayingClearance } from '@/stores/creatorsStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const nativeTabBarClearance = 56
+
+function formatMinutes(minutes: number): string {
+  if (minutes < 60) return `${minutes} min`
+  const h = Math.floor(minutes / 60)
+  const m = minutes % 60
+  return m === 0 ? `${h}h` : `${h}h ${m}m`
+}
 
 export default function BookDetailScreen() {
   const { bookId } = useLocalSearchParams<{ bookId: string }>()
@@ -66,6 +74,19 @@ export default function BookDetailScreen() {
     [book?.toc, lang],
   )
 
+  const completed = bookId ? listCompletedChapters(bookId) : new Set<string>()
+  const chapterMinutes = bookId ? loadChapterMinutes(bookId) : undefined
+  const minutesRemaining = useMemo(() => {
+    if (!chapterMinutes || leaves.length === 0) return undefined
+    let total = 0
+    for (const leaf of leaves) {
+      if (completed.has(leaf.id)) continue
+      const m = chapterMinutes[leaf.id]
+      if (typeof m === 'number') total += m
+    }
+    return total > 0 ? total : undefined
+  }, [chapterMinutes, leaves, completed])
+
   if (!entry) {
     return (
       <YStack flex={1} backgroundColor="$background" alignItems="center" justifyContent="center">
@@ -85,7 +106,6 @@ export default function BookDetailScreen() {
   const position = cursor ? parseReaderPosition(cursor.position) : undefined
   const resumeChapterId = position?.chapterId
   const ctaLabel = resumeChapterId ? t('book.continue') : t('book.startReading')
-  const completed = bookId ? listCompletedChapters(bookId) : new Set<string>()
 
   const currentLeafIndex = position ? leaves.findIndex((l) => l.id === position.chapterId) : -1
   const progressFraction =
@@ -141,6 +161,7 @@ export default function BookDetailScreen() {
               currentLeafIndex={currentLeafIndex}
               totalLeaves={leaves.length}
               completedCount={completed.size}
+              minutesRemaining={minutesRemaining}
               updatedAt={position?.updatedAt}
               label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
             />
@@ -292,6 +313,7 @@ function BookProgressLine({
   currentLeafIndex,
   totalLeaves,
   completedCount,
+  minutesRemaining,
   updatedAt,
   label,
 }: {
@@ -299,6 +321,7 @@ function BookProgressLine({
   currentLeafIndex: number
   totalLeaves: number
   completedCount: number
+  minutesRemaining?: number
   updatedAt?: number
   label?: string
 }) {
@@ -357,6 +380,14 @@ function BookProgressLine({
           </Typography>
         ) : null}
       </XStack>
+      {minutesRemaining ? (
+        <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+          {t('book.timeToFinish', {
+            defaultValue: '~{{when}} to finish',
+            when: formatMinutes(minutesRemaining),
+          })}
+        </Typography>
+      ) : null}
     </YStack>
   )
 }

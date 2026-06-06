@@ -225,3 +225,12 @@ Each leaf row in the TOC sheet now shows a small "5 min" annotation, derived fro
 - New: `chapterTimings.ts` — `estimateChapterTiming(html)` + `buildChapterTimings(bodies, ids): Map<chapterId, {words, minutes}>`. Uses the shared `stripHtml` lib helper.
 - `ReaderTocSheet` accepts `chapterTimings?: Map<string, ChapterTiming>` and renders the minutes beside the chapter title (between title and the completion check icon).
 - No new i18n key needed — `"5 min"` is universal enough.
+
+### Feature 21 (P2.10): Persisted timings + "~Xh to finish" on frontispiece ✅
+
+BookReader now persists per-chapter minute estimates to a cursor (`book/{bookId}/timings`) the first time chapters are loaded. The frontispiece reads them back via `loadChapterMinutes(bookId)` and sums the minutes for chapters not yet in the completion set — producing a real "~3h 14m to finish" line under the progress bar. Without persisted timings (a never-opened book), the line stays silent.
+
+- New cursor factory: `chapterTimingsCursorId` in `cursors.ts`.
+- New helpers in `chapterTimings.ts`: `persistChapterTimings(bookId, timings)` + `loadChapterMinutes(bookId): Record<chapterId, minutes> | undefined`.
+- Frontispiece `formatMinutes` local helper formats as `"5 min"` / `"1h"` / `"2h 14m"`.
+- i18n: `book.timeToFinish` in en-US + pt-BR.

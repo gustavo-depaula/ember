@@ -1111,6 +1111,7 @@ export default {
     progressLine: '{{percent}}% · Capítulo {{current}} de {{total}}',
     lastRead: 'Lido {{when}}',
     chaptersFinished: '{{done}} de {{total}} capítulos concluídos',
+    timeToFinish: '~{{when}} para concluir',
   },
 
   collections: {

@@ -66,6 +66,10 @@ export function chapterCompletionId(bookId: string, chapterId: string): string {
   return `${chapterCompletionPrefix(bookId)}${chapterId}`
 }
 
+export function chapterTimingsCursorId(bookId: string): string {
+  return `book/${bookId}/timings`
+}
+
 // --- Program cursors ---
 
 export type ProgramCursorPosition = {
