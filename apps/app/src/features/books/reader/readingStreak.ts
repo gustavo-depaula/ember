@@ -1,4 +1,6 @@
+import { differenceInCalendarDays, format } from 'date-fns'
 import { getCursor, readingStreakCursorId, setCursor } from '@/db/repositories/cursors'
+import { getToday } from '@/hooks/useToday'
 
 type StoredStreak = {
   /** YYYY-MM-DD of the last day this book was opened to a relocate. */
@@ -6,18 +8,14 @@ type StoredStreak = {
   count: number
 }
 
-function todayISO(now: Date = new Date()): string {
-  const y = now.getFullYear()
-  const m = String(now.getMonth() + 1).padStart(2, '0')
-  const d = String(now.getDate()).padStart(2, '0')
-  return `${y}-${m}-${d}`
+// `getToday()` respects the user's time-travel setting (per the rest of the
+// codebase); `new Date()` would not.
+function todayISO(now?: Date): string {
+  return format(now ?? getToday(), 'yyyy-MM-dd')
 }
 
 function isYesterday(prev: string, today: string): boolean {
-  const prevDate = new Date(`${prev}T00:00:00`)
-  const todayDate = new Date(`${today}T00:00:00`)
-  const diff = todayDate.getTime() - prevDate.getTime()
-  return diff > 0 && diff < 2 * 24 * 60 * 60 * 1000
+  return differenceInCalendarDays(new Date(today), new Date(prev)) === 1
 }
 
 /** Bump the streak: same-day no-op; consecutive day increments; gap resets. */
@@ -47,6 +45,8 @@ function readStoredStreak(bookId: string): StoredStreak | undefined {
   try {
     const v = JSON.parse(c.position) as StoredStreak
     if (typeof v.lastDay === 'string' && typeof v.count === 'number') return v
-  } catch {}
+  } catch (err) {
+    console.warn(`[readingStreak] parse failed for ${bookId}:`, err)
+  }
   return undefined
 }

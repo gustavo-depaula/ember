@@ -199,3 +199,30 @@ export function flattenTocLeaves(toc: TocNode[]): TocLeaf[] {
   walk(toc)
   return leaves
 }
+
+/** All section (non-leaf) ids in the tree — used to "expand all" the TOC. */
+export function collectAllSectionIds(toc: TocNode[]): Set<string> {
+  const ids = new Set<string>()
+  function walk(nodes: TocNode[]) {
+    for (const node of nodes) {
+      if (node.children?.length) {
+        ids.add(node.id)
+        walk(node.children)
+      }
+    }
+  }
+  walk(toc)
+  return ids
+}
+
+/** True when at least one section in the tree has a section child (depth ≥ 2). */
+export function hasNestedSections(toc: TocNode[]): boolean {
+  function walk(nodes: TocNode[]): boolean {
+    for (const node of nodes) {
+      if (node.children?.some((c) => c.children?.length)) return true
+      if (node.children?.length && walk(node.children)) return true
+    }
+    return false
+  }
+  return walk(toc)
+}

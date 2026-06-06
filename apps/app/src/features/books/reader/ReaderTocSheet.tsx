@@ -8,6 +8,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import type { TocNode } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
+import { collectAllSectionIds, hasNestedSections } from './bookContent'
 import type { ChapterTiming } from './chapterTimings'
 
 type Props = {
@@ -72,24 +73,6 @@ function collectInitialExpanded(toc: TocNode[], currentChapterId?: string): Set<
 
 function getItemLayout(_: unknown, index: number) {
   return { length: itemHeight, offset: itemHeight * index, index }
-}
-
-function collectAllSectionIds(nodes: TocNode[], acc: Set<string> = new Set()): Set<string> {
-  for (const node of nodes) {
-    if (node.children?.length) {
-      acc.add(node.id)
-      collectAllSectionIds(node.children, acc)
-    }
-  }
-  return acc
-}
-
-function hasNestedSections(nodes: TocNode[]): boolean {
-  for (const node of nodes) {
-    if (node.children?.some((c) => c.children?.length)) return true
-    if (node.children?.length && hasNestedSections(node.children)) return true
-  }
-  return false
 }
 
 export function ReaderTocSheet({
