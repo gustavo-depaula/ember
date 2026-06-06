@@ -305,3 +305,11 @@ The first time a user ever opens the reader (any book), a dashed-border 3-zone o
 - New preferences field `bookReaderHintSeen` + setter + hydrator in `preferencesStore.ts`.
 - New `ReaderTapHint.tsx` (~110 lines) with the overlay, FadeIn/Out animation, and a small `hexToRgba` helper for the translucent background.
 - i18n: `books.hintPrev`, `books.hintMenu`, `books.hintNext`, `books.tapToDismiss`, `books.dismissHint`.
+
+### Feature 25 (P2.14): Search jumps to exact text within chapter ✅
+
+Previously search-result taps jumped to the top of the chapter. Now the bootstrap exposes `window.__foliate.goToWithFind(index, text)`: it `await`s `paginator.goTo`, walks the iframe's TextNode tree via TreeWalker, builds a `Range` at the first occurrence, and calls `paginator.scrollToAnchor(range)` to land the match in view.
+
+- Extended `FoliateReaderHandle` with `goToWithFind(index, findText)`.
+- ReaderSearchSheet's `onSelect` now passes the query alongside the chapter index; BookReader forwards to `goToWithFind`.
+- Limitation: cross-element text spans (where the match straddles two text nodes) fail to find — uncommon in book content (most matches are inside a single `<p>`'s text node) but documented for Phase 3.

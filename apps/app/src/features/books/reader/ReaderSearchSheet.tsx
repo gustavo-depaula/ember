@@ -16,7 +16,9 @@ type Props = {
   bodies: string[] | undefined
   leaves: TocLeaf[]
   titleLookup: Map<string, string>
-  onSelect: (chapterIndex: number) => void
+  /** Called with the chapter index AND the original query so the host can
+   *  jump-to-text inside the chapter. */
+  onSelect: (chapterIndex: number, query: string) => void
 }
 
 const sheetFraction = 0.92
@@ -100,7 +102,7 @@ export function ReaderSearchSheet({ open, onClose, bodies, leaves, titleLookup, 
           renderItem={({ item }) => (
             <Pressable
               onPress={() => {
-                onSelect(item.chapterIndex)
+                onSelect(item.chapterIndex, debouncedQuery)
                 setQuery('')
                 onClose()
               }}

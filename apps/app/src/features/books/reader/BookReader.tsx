@@ -436,7 +436,7 @@ export function BookReader({ bookId, chapter }: Props) {
         bodies={chapters}
         leaves={leaves}
         titleLookup={titleLookup}
-        onSelect={(idx) => foliateRef.current?.goTo(idx, 0)}
+        onSelect={(idx, query) => foliateRef.current?.goToWithFind(idx, query)}
       />
 
       <ReaderBookmarksSheet

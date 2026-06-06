@@ -28,6 +28,11 @@ export type FoliateMessage =
 export type FoliateReaderHandle = {
   /** Jump to a chapter (and optional intra-chapter fraction). */
   goTo: (index: number, fraction?: number) => void
+  /**
+   * Jump to a chapter and, after the iframe loads, scroll to the first
+   * occurrence of `findText`. Used by in-book search to land on the match.
+   */
+  goToWithFind: (index: number, findText: string) => void
 }
 
 type Props = {
@@ -91,6 +96,12 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
     () => ({
       goTo: (index, fraction = 0) => {
         inject(webViewRef, `window.__foliate?.goTo({index: ${index}, fraction: ${fraction}});true;`)
+      },
+      goToWithFind: (index, findText) => {
+        inject(
+          webViewRef,
+          `window.__foliate?.goToWithFind(${index}, ${JSON.stringify(findText)});true;`,
+        )
       },
     }),
     [],
@@ -344,6 +355,23 @@ function buildHostHtml({
         };
       };
 
+      const findRange = (doc, needleLower) => {
+        if (!doc || !needleLower) return null;
+        const walker = doc.createTreeWalker(doc.body, NodeFilter.SHOW_TEXT);
+        let node;
+        while ((node = walker.nextNode())) {
+          const text = node.nodeValue || '';
+          const idx = text.toLowerCase().indexOf(needleLower);
+          if (idx >= 0) {
+            const range = doc.createRange();
+            range.setStart(node, idx);
+            range.setEnd(node, Math.min(text.length, idx + needleLower.length));
+            return range;
+          }
+        }
+        return null;
+      };
+
       window.__foliate = {
         loadBook: (newChapters, index, fraction) => {
           chapters = newChapters;
@@ -357,6 +385,14 @@ function buildHostHtml({
         goTo: ({ index, fraction }) => {
           if (!paginator) return;
           paginator.goTo({ index: index ?? 0, anchor: fraction ?? 0 });
+        },
+        goToWithFind: async (index, findText) => {
+          if (!paginator) return;
+          await paginator.goTo({ index: index ?? 0, anchor: 0 });
+          const contents = paginator.getContents();
+          if (!contents.length) return;
+          const range = findRange(contents[0].doc, String(findText).toLowerCase());
+          if (range) await paginator.scrollToAnchor(range);
         },
         setConfig: (newCfg) => {
           cfg = newCfg;
