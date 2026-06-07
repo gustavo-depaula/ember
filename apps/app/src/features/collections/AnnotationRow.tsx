@@ -14,6 +14,7 @@
 import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
 
+import { InlineMarkdown } from '@/components/prayer'
 import type { CollectionItemAnnotation } from '@/content/manifestTypes'
 import { localizeContent } from '@/lib/i18n'
 
@@ -52,7 +53,7 @@ export function AnnotationRow({
             {row.glyph}
           </Text>
           <Text flex={1} fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            {row.text}
+            <InlineMarkdown source={row.text} />
           </Text>
         </XStack>
       ))}

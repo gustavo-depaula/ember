@@ -5,6 +5,7 @@ import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
+import { ProseBlock } from '@/components/prayer'
 import { useYearCalendar } from '@/features/calendar'
 import { localizeContent } from '@/lib/i18n'
 import { getCelebrationsForDate, type ResolvedCelebration } from '@/lib/liturgical'
@@ -33,9 +34,7 @@ function CelebrationRow({
           {rankLabel(celebration, t).toUpperCase()}
         </Text>
       </XStack>
-      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
-        {description}
-      </Text>
+      {description && <ProseBlock text={{ primary: description }} />}
       {celebration.entry.holyDayOfObligation && (
         <Text fontFamily="$body" fontSize="$1" color="$accent">
           {t('calendar.holyDay')}

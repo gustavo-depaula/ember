@@ -7,6 +7,7 @@ import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout, Typography } from '@/components'
+import { ProseBlock } from '@/components/prayer'
 import { openExternalUrl } from '@/config/links'
 import { bareId } from '@/content/contentIndex'
 import type { CreatorChannel, CreatorChannelKind } from '@/content/manifestTypes'
@@ -211,9 +212,7 @@ export default function CreatorProfile() {
         </YStack>
 
         {/* Bio */}
-        <Text fontFamily="$body" fontSize="$2" color="$color" lineHeight={24}>
-          {localizeContent(manifest.bio)}
-        </Text>
+        <ProseBlock text={{ primary: localizeContent(manifest.bio) }} />
 
         {/* Channel tabs */}
         {channelTabs.length > 1 && (

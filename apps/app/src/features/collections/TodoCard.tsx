@@ -2,6 +2,7 @@ import { CircleDashed } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
+import { InlineMarkdown } from '@/components/prayer'
 import type { CollectionTodo } from '@/content/manifestTypes'
 import { localizeContent } from '@/lib/i18n'
 
@@ -37,7 +38,7 @@ export function TodoCard({ todo }: { todo: CollectionTodo }) {
         </XStack>
         {notes && (
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-            {notes}
+            <InlineMarkdown source={notes} />
           </Text>
         )}
         <Text
