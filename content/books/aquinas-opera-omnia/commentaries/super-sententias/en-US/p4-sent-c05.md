@@ -1,7 +1,5 @@
 # D. 25 - Conditions of free decision
 
-***Conditions of free decision***
-
 ***Division of the text***
 
 After he has addressed free decision by showing what it is and, subsequently, has addressed the soul’s other powers to show in which of them free decision is included, here he addresses certain conditions of free decision. This is divided into two parts.  

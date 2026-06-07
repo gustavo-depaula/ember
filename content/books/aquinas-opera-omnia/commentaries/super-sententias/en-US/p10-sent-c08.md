@@ -1,7 +1,5 @@
 # D. 50 - Separated souls and the damned
 
-***Separated souls and the damned***
-
 After the Master has considered the glory of the saints after the general judgment, here he considers the punishments of the wicked. And it is divided into two parts. In the first, he pursues the issue at hand. In the second, he lays out the epilogue of the whole work: *it suffices . . . to have remembered these things concerning the feet of the One who sits upon a high throne*.  
 
 The first part is divided into two parts. In the first, he considers punishments of the damned as regards their effect. In the second, he determines their punishments as regards knowledge or intellect: *here it may be asked why that darkness, by which the wicked will be surrounded in hell, is called outer*. *(*Sententiae* IV, 50.2 (285). 1 citing Mt. 8, 12.)*  

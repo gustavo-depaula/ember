@@ -1,7 +1,5 @@
 # D. 17 - Creation of man in regard to the constitution of his parts
 
-***Creation of man in regard to the constitution of his parts***
-
 ***Division of the text***
 
 Having shown that man proceeded from God in his likeness, just as from a cause in a certain way univocal, here he addresses the production of man in himself as constituted by his parts. This part is divided into two parts.  

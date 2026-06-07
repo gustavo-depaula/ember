@@ -1,7 +1,5 @@
 # D. 36 - Interconnection of the virtues
 
-***Interconnection of the virtues***
-
 ***Division of the text***
 
 After having considered the virtues and the gifts in common, here he considers their interconnection. Now, this part is divided into two:  

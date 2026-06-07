@@ -1,7 +1,0 @@
-# Chapter XCVII. Of the State of the World after the Judgement
-
-**CHAPTER XCVII**—*Of the State of the World after the Judgement*
-
-IT needs must be that the motion of the heavens shall cease; and therefore it is said that *time shall be no more* (Apoc. x, 6).[^1]
-
-[^1]: Perhaps this celebrated text simply means that there shall be no further delay in the coming of the judgement. Time and motion could only cease together. Science has sometimes dreamt of a final condition of things in which the machinery of the universe shall be completely run down, the energies of nature so dislocated as no longer to furnish any potentiality of organic life, a uniform temperature established everywhere, suns cooled, planetary revolutions stopped, the realisation in fact of the ὁμοῦ πάντα χρήματα, or universal deadlock, which was the Greek notion of a mindless chaos. Things may come to this final *impasse*, or they may not, science cannot tell. But there remains God’s promise to *re-establish *(ἀνακεφαλαιώσασθαι, *gather up under a new head*) *all things in Christ* (Eph. i, 10). “Hence it is said,” quotes St Thomas: they are the last words of his book: “*I saw a new heaven and a new earth* (Apoc. xxi, 1): *I will create new heavens and a new earth; and the things that were before shall not be in memory, neither shall they rise into thought; but ye shall be glad and rejoice for ever* (Isai. lxv, 17, 18).” “So be it,” says Aquinas.

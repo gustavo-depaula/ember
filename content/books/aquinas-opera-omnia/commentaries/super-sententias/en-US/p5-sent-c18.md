@@ -1,7 +1,5 @@
 # D. 17 - The will of Christ
 
-***The will of Christ***
-
 ***Division of the text***
 
 After having considered the things that Christ assumed with his human nature, here the Master considers the things that he did through his human nature. Now, the principle of human activity is the will, without which no activity is either meritorious or praiseworthy. And therefore this part is divided into two parts.  

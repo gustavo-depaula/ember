@@ -1,7 +1,5 @@
 # D. 11 - Sacrament-and-reality in the Eucharist
 
-***Sacrament-and-reality in the Eucharist***
-
 After the Master has considered the reality contained in this sacrament, showing that the true body is contained there, here he intends to examine the conversion of bread into the body of Christ, by which it happens that the body of Christ is contained under the sacrament. And this is divided into two parts: in the first, he examines this conversion of bread into the body of Christ; in the second, he shows how the species remain when the substantial conversion has happened, at: *Christ gave his body and blood under another species for three reasons*. *(Peter Lombard, *Sententiae* IV, 11.3 (62). 1.)*  
 
 Concerning the first he does three things: first, he inquires what the aforementioned conversion is like; second, he considers this question according to what all agree on, at: *and yet I know it is not formal*; *(*Sent* IV, 11.1 (60). 1.)* third, he considers what different people have different opinions about, at: *to some it seems to be substantial*. *(*Sent* IV, 11.1 (60). 1.)* And this is divided into three parts according to the three opinions that he cites. The second part begins at: *but some say that*, etc.; *(*Sent* IV, 11.2 (61). 5.)* the third at: *but others held*, etc. *(*Sent* IV, 11.2 (61). 6.)*  

@@ -1,7 +1,5 @@
 # D. 30 - Things said of God from time
 
-***Things said of God from time***
-
 ***Division of the text***
 
 Having shown that “principle,” with respect to what is created, is said of God from time, consequently he shows how something could be said of God from time. And this is divided into two parts: in the first, he shows that something is said of God from time; in the second, he shows the mode in which such things are said, at *how, then, shall we maintain that nothing is said of God according to accident? Unless because nothing befalls his nature that may cause it to change*. *(*Sent*. I, 30.1(129).3, quoting Augustine, *On the Trinity*, bk. 5, ch. 16, para. 17 (CCSL 50; PL 42:922).)*  

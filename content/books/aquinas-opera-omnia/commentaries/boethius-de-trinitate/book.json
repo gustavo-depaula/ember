@@ -2,14 +2,14 @@
   "id": "aquinas-boethius-de-trinitate",
   "name": {
     "en-US": "Commentary on Boethius's De Trinitate",
-    "la": "Super Boethium De Trinitate"
+    "la": "Expositio super librum Boethii De Trinitate"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Aquinas's commentary on the first three chapters of Boethius's *De Trinitate*. The Prooemium contains Aquinas's celebrated discussion of the divisions of speculative science. Unfinished.",
+    "en-US": "Aquinas's commentary on the first three chapters of Boethius's *De Trinitate*. Famous for its prologue's discussion of the division of the speculative sciences. Unfinished.",
     "la": "Expositio Thomae primorum trium capitum *De Trinitate* Boethii. Prooemium continet discussionem Thomae celeberrimam de divisione scientiae speculativae. Opus inchoatum."
   },
   "composed": "1257–1259",
@@ -20,197 +20,93 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Armand Maurer (PIMS, Toronto, 1953). Translation status: may be under copyright in the United States until 2048; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Super De Trinitate Boethii",
+      "description": "English translation by Armand Maurer (PIMS, Toronto, 1953), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Super De Trinitate Boethii",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch001",
+      "id": "g1",
       "title": {
-        "en-US": "Article 1",
-        "la": "Articulus 1"
-      }
+        "en-US": "Book 1 — St. Thomas’ Introduction",
+        "la": "Liber 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — St. Thomas’ Introduction",
+            "la": "Prooemium"
+          }
+        }
+      ]
     },
     {
-      "id": "ch002",
+      "id": "g2",
       "title": {
-        "en-US": "Article 2 — BOETHIUS’ PREFACE — Investigatam diutissime quaetionem quantum nostrae mentis igniculum illustrare lux divina dignata est, formatam rationibus litterisque mandatam, offerendam vobis communicandamque curavi, tam vestri cupidus iudicii, quam nostri studiosus inventi. — The problem which has been for so long a time the subject of my investigation—to the extent that the divine light has deigned to enkindle the feeble spark of my mind—now arranged according to a reasoned plan and consigned to writing, I have taken pains to offer and share with you, prompted as much by desire for your judgment as by zeal for my task. — Qua in re quid mihi sit animi, qoties stylo excogitata commendo, tum ex ipsa difficultate materiae, tum ex eo quod viris, idest vobis tantum colloquor, intelligi postest. — In this matter it is possible to understand what my intention is whenever I entrust my thought to pen, both because of the difficulty of the matter and because it is only to you men that I am addressing it. — Neque enim famae iactatione et inanibus vulgi clamoribus excitamur, sed si quis est fructus exterior, hic non potest aliam nisi materiae similem sperare sententiam. — Indeed, I am not prompted by any desire for fame or for empty popular applause; but if there is any exterior reward, it can be no other than to hope for a judgment in keeping with the matter. — Quocumque igitur a vobis deieci oculos, partim ignava segnities, partim callidus livor occurit, ut contumeliam videat divinis tractatibus irrogare, qui talibus hominum monstris non agnoscenda hic potius quam conculcanda proiecerim. — For, wherever I have directed my gaze, apart from you, I have encountered, on the one side, stolid indifference or, on the other, sly envy, so that I would appear to offer insult to matters pertaining to divine things by putting them before such monsters of men to be trampled under foot by them rather than to be acknowledged. — Idcirco stylum brevitate contraho et ex intimis sumpta philosophiae disciplinis novorum verborum significationibus velo, ut haec mihi tantum vobisque, si quando ad ea converteritis oculos, colloquantur; ceteros vero ita submovimus, ut qui capere intellectu nequiverint, ad ea etiam legenda videantur indigni. — On this account I restrain my pen by brevity, and truths gleaned from the deepest teachings of philosophy I veil over by the signification of new words, so that they may speak only to me and to you; if you, indeed, will direct your attention to them. But, as for others, I so disregard them that those who are unable to grasp the meaning of my words shall seem unworthy to read them. — Sane tantum a nobis oportet quaeri, quantum humanae rationis intuitus ad Deitatis valet celsa conscendere. Nam ceteris quoque artibus idem finis est constitutus, quousque potest via rationis accedere. Neque enim medicina aegris semper affert salutem. Sed nulla erit culpa medentis, si nihil eorum quae fieri oportebat, omiserit: idemque in ceteris. — Only so much ought one require of me as the intuition of human reason can approximate about the sublime truths of the Godhead. For in the case of other arts, the same limit is also established, namely, that which by the way of reason one can attain. Now, medicine does not always effect the cure of the patient. But no blame will be placed upon the physician if he has omitted none of the things which he ought to have done; and the same is true in other matters. — At quantum haec difficilior quaestio est, tantum facilior debet esse ad veniam. Vobis tamen illus etiam inspiciendum est an ex beati Augustini scriptis semina rationum in nos venientia fructus attulerint. — Moreover, in proportion to the difficulty of a problem, the pardoning of error ought to be the more easily granted. You must also determine this: whether the seeds of speculation, gathered from the writings of the blessed Augustine, have in my work borne fruit. — Nunc de proposita quaestione hinc sumamus initium. — Now, therefore, let us undertake at this point the discussion of the proposed question.",
-        "la": "Articulus 2 — BOETHIUS’ PREFACE — Investigatam diutissime quaetionem quantum nostrae mentis igniculum illustrare lux divina dignata est, formatam rationibus litterisque mandatam, offerendam vobis communicandamque curavi, tam vestri cupidus iudicii, quam nostri studiosus inventi. — The problem which has been for so long a time the subject of my investigation—to the extent that the divine light has deigned to enkindle the feeble spark of my mind—now arranged according to a reasoned plan and consigned to writing, I have taken pains to offer and share with you, prompted as much by desire for your judgment as by zeal for my task. — Qua in re quid mihi sit animi, qoties stylo excogitata commendo, tum ex ipsa difficultate materiae, tum ex eo quod viris, idest vobis tantum colloquor, intelligi postest. — In this matter it is possible to understand what my intention is whenever I entrust my thought to pen, both because of the difficulty of the matter and because it is only to you men that I am addressing it. — Neque enim famae iactatione et inanibus vulgi clamoribus excitamur, sed si quis est fructus exterior, hic non potest aliam nisi materiae similem sperare sententiam. — Indeed, I am not prompted by any desire for fame or for empty popular applause; but if there is any exterior reward, it can be no other than to hope for a judgment in keeping with the matter. — Quocumque igitur a vobis deieci oculos, partim ignava segnities, partim callidus livor occurit, ut contumeliam videat divinis tractatibus irrogare, qui talibus hominum monstris non agnoscenda hic potius quam conculcanda proiecerim. — For, wherever I have directed my gaze, apart from you, I have encountered, on the one side, stolid indifference or, on the other, sly envy, so that I would appear to offer insult to matters pertaining to divine things by putting them before such monsters of men to be trampled under foot by them rather than to be acknowledged. — Idcirco stylum brevitate contraho et ex intimis sumpta philosophiae disciplinis novorum verborum significationibus velo, ut haec mihi tantum vobisque, si quando ad ea converteritis oculos, colloquantur; ceteros vero ita submovimus, ut qui capere intellectu nequiverint, ad ea etiam legenda videantur indigni. — On this account I restrain my pen by brevity, and truths gleaned from the deepest teachings of philosophy I veil over by the signification of new words, so that they may speak only to me and to you; if you, indeed, will direct your attention to them. But, as for others, I so disregard them that those who are unable to grasp the meaning of my words shall seem unworthy to read them. — Sane tantum a nobis oportet quaeri, quantum humanae rationis intuitus ad Deitatis valet celsa conscendere. Nam ceteris quoque artibus idem finis est constitutus, quousque potest via rationis accedere. Neque enim medicina aegris semper affert salutem. Sed nulla erit culpa medentis, si nihil eorum quae fieri oportebat, omiserit: idemque in ceteris. — Only so much ought one require of me as the intuition of human reason can approximate about the sublime truths of the Godhead. For in the case of other arts, the same limit is also established, namely, that which by the way of reason one can attain. Now, medicine does not always effect the cure of the patient. But no blame will be placed upon the physician if he has omitted none of the things which he ought to have done; and the same is true in other matters. — At quantum haec difficilior quaestio est, tantum facilior debet esse ad veniam. Vobis tamen illus etiam inspiciendum est an ex beati Augustini scriptis semina rationum in nos venientia fructus attulerint. — Moreover, in proportion to the difficulty of a problem, the pardoning of error ought to be the more easily granted. You must also determine this: whether the seeds of speculation, gathered from the writings of the blessed Augustine, have in my work borne fruit. — Nunc de proposita quaestione hinc sumamus initium. — Now, therefore, let us undertake at this point the discussion of the proposed question."
-      }
+        "en-US": "Book 2 — Boethius’ Preface",
+        "la": "Liber 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue — Boethius’ Preface",
+            "la": "Prooemium"
+          }
+        }
+      ]
     },
     {
-      "id": "ch003",
+      "id": "g3",
       "title": {
-        "en-US": "Article 3",
-        "la": "Articulus 3"
-      }
+        "en-US": "Book 3",
+        "la": "Liber 3"
+      },
+      "children": [
+        {
+          "id": "g3-pr",
+          "title": {
+            "en-US": "Prologue",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Chapter 1 — Exposition of Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
     },
     {
-      "id": "c01-l1",
+      "id": "g4",
       "title": {
-        "en-US": "Chapter 1, Lecture 1",
-        "la": "Caput 1, Lectio 1"
-      }
-    },
-    {
-      "id": "c01-l2",
-      "title": {
-        "en-US": "Chapter 1, Lecture 2",
-        "la": "Caput 1, Lectio 2"
-      }
-    },
-    {
-      "id": "c01-l3",
-      "title": {
-        "en-US": "Chapter 1, Lecture 3",
-        "la": "Caput 1, Lectio 3"
-      }
-    },
-    {
-      "id": "c01-l4",
-      "title": {
-        "en-US": "Chapter 1, Lecture 4",
-        "la": "Caput 1, Lectio 4"
-      }
-    },
-    {
-      "id": "c02-l1",
-      "title": {
-        "en-US": "Chapter 2, Lecture 1",
-        "la": "Caput 2, Lectio 1"
-      }
-    },
-    {
-      "id": "c02-l2",
-      "title": {
-        "en-US": "Chapter 2, Lecture 2",
-        "la": "Caput 2, Lectio 2"
-      }
-    },
-    {
-      "id": "c02-l3",
-      "title": {
-        "en-US": "Chapter 2, Lecture 3",
-        "la": "Caput 2, Lectio 3"
-      }
-    },
-    {
-      "id": "c02-l4",
-      "title": {
-        "en-US": "Chapter 2, Lecture 4",
-        "la": "Caput 2, Lectio 4"
-      }
-    },
-    {
-      "id": "c03-l1",
-      "title": {
-        "en-US": "Chapter 3, Lecture 1",
-        "la": "Caput 3, Lectio 1"
-      }
-    },
-    {
-      "id": "c03-l2",
-      "title": {
-        "en-US": "Chapter 3, Lecture 2",
-        "la": "Caput 3, Lectio 2"
-      }
-    },
-    {
-      "id": "c03-l3",
-      "title": {
-        "en-US": "Chapter 3, Lecture 3",
-        "la": "Caput 3, Lectio 3"
-      }
-    },
-    {
-      "id": "c03-l4",
-      "title": {
-        "en-US": "Chapter 3, Lecture 4",
-        "la": "Caput 3, Lectio 4"
-      }
-    },
-    {
-      "id": "c04-l1",
-      "title": {
-        "en-US": "Chapter 4, Lecture 1",
-        "la": "Caput 4, Lectio 1"
-      }
-    },
-    {
-      "id": "c04-l2",
-      "title": {
-        "en-US": "Chapter 4, Lecture 2",
-        "la": "Caput 4, Lectio 2"
-      }
-    },
-    {
-      "id": "c04-l3",
-      "title": {
-        "en-US": "Chapter 4, Lecture 3",
-        "la": "Caput 4, Lectio 3"
-      }
-    },
-    {
-      "id": "c04-l4",
-      "title": {
-        "en-US": "Chapter 4, Lecture 4",
-        "la": "Caput 4, Lectio 4"
-      }
-    },
-    {
-      "id": "c05-l1",
-      "title": {
-        "en-US": "Chapter 5, Lecture 1",
-        "la": "Caput 5, Lectio 1"
-      }
-    },
-    {
-      "id": "c05-l2",
-      "title": {
-        "en-US": "Chapter 5, Lecture 2",
-        "la": "Caput 5, Lectio 2"
-      }
-    },
-    {
-      "id": "c05-l3",
-      "title": {
-        "en-US": "Chapter 5, Lecture 3",
-        "la": "Caput 5, Lectio 3"
-      }
-    },
-    {
-      "id": "c05-l4",
-      "title": {
-        "en-US": "Chapter 5, Lecture 4",
-        "la": "Caput 5, Lectio 4"
-      }
-    },
-    {
-      "id": "c06-l2",
-      "title": {
-        "en-US": "Chapter 6, Lecture 2",
-        "la": "Caput 6, Lectio 2"
-      }
-    },
-    {
-      "id": "c06-l3",
-      "title": {
-        "en-US": "Chapter 6, Lecture 3",
-        "la": "Caput 6, Lectio 3"
-      }
-    },
-    {
-      "id": "c06-l4",
-      "title": {
-        "en-US": "Chapter 6, Lecture 4",
-        "la": "Caput 6, Lectio 4"
-      }
+        "en-US": "Book 4",
+        "la": "Liber 4"
+      },
+      "children": [
+        {
+          "id": "g4-pr",
+          "title": {
+            "en-US": "Prologue",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g4-c002",
+          "title": {
+            "en-US": "Chapter 2 — Exposition of Chapter 2",
+            "la": "Caput 2"
+          }
+        }
+      ]
     }
   ]
 }

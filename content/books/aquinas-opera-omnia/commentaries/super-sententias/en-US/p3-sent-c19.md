@@ -1,7 +1,5 @@
 # D. 18 - Creation of woman
 
-***Creation of woman***
-
 ***Division of the text***
 
 After addressing the origin of humanity on the part of man, here he addresses the origin of woman. This is divided into two parts.  

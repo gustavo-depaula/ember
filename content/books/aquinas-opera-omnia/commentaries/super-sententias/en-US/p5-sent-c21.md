@@ -1,7 +1,5 @@
 # D. 20 - Causes of the Passion
 
-***Causes of the Passion***
-
 ***Division of the text***
 
 Having considered how we are freed from evils through Christ’s Passion, here the Master considers the causes of the Passion.  

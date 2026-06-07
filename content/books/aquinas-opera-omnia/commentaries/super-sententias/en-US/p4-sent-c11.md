@@ -1,7 +1,5 @@
 # D. 31 - Principle of original sin
 
-***Principle of original sin***
-
 ***Division of the text***
 
 Having shown that original sin exists and what it is, here he follows up with some of its characteristics. This is divided into three parts.  

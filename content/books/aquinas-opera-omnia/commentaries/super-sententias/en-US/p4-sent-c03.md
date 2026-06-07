@@ -1,7 +1,5 @@
 # D. 23 - Divine permission of the first sin
 
-***Divine permission of the first sin***
-
 ***Division of the text***
 
 After the Master has determined the principle of man’s perdition both on the part of the temptation and on the part of the one committing the sin, in this part he addresses the divine permission, which is in a certain way called the “principle of sin” as a cause *sine qua non*. For if God had not permitted it, man would not have sinned.  

@@ -1,7 +1,5 @@
 # D. 4 - Condition of the angels with regard to glory and wretchedness
 
-***Condition of the angels with regard to glory and wretchedness***
-
 ***Division of the text***
 
 Having shown the condition of the angels at the beginning of their creation with regard to nature and with regard to fault and innocence, here he inquires as to their condition with regard to glory and wretchedness. This is divided into three parts.  

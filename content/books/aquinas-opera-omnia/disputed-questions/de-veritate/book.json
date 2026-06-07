@@ -20,2036 +20,2246 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Robert W. Mulligan, S.J. (vol. 1, Q. 1–9), James V. McGlynn, S.J. (vol. 2, Q. 10–20), and Robert W. Schmidt, S.J. (vol. 3, Q. 21–29). Henry Regnery Company, Chicago, 1952–1954. Translation status: may be under copyright in the United States until 2049; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Veritate",
+      "description": "English translation by Robert W. Mulligan SJ, James V. McGlynn SJ, and Robert W. Schmidt SJ (Henry Regnery, Chicago, 1952–54), revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Veritate",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "q01",
+      "id": "g1",
       "title": {
-        "en-US": "Question 1 — Question One: Truth",
+        "en-US": "Question 1 — On truth",
         "la": "Quaestio 1"
       },
       "children": [
         {
-          "id": "q01-a01",
+          "id": "g1-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On truth",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g1-c001",
+          "title": {
+            "en-US": "Article 1 — What is truth",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q01-a02",
+          "id": "g1-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether truth is found principally in the intellect or in things",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q01-a03",
+          "id": "g1-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether truth is only in the intellect joining and separating",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q01-a04",
+          "id": "g1-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether there is only one truth by which all things are true",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q01-a05",
+          "id": "g1-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether some truth besides the first truth is eternal",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q01-a06",
+          "id": "g1-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether created truth is immutable",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q01-a07",
+          "id": "g1-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether truth as applied to God is predicated personally or essentially",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q01-a08",
+          "id": "g1-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether every other truth is from the first truth",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q01-a09",
+          "id": "g1-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether truth is in sense",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q01-a10",
+          "id": "g1-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether there is any false thing",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q01-a11",
+          "id": "g1-c011",
           "title": {
-            "en-US": "Article 11",
+            "en-US": "Article 11 — Whether falsity is in sense",
             "la": "Articulus 11"
           }
         },
         {
-          "id": "q01-a12",
+          "id": "g1-c012",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 12 — Whether falsity is in the intellect",
             "la": "Articulus 12"
           }
         }
       ]
     },
     {
-      "id": "q02",
+      "id": "g2",
       "title": {
-        "en-US": "Question 2 — Question Two: God’s Knowledge",
+        "en-US": "Question 2 — On the knowledge of God",
         "la": "Quaestio 2"
       },
       "children": [
         {
-          "id": "q02-a01",
+          "id": "g2-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the knowledge of God",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Article 1 — Whether there is knowledge in God",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q02-a02",
+          "id": "g2-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether God knows or understands himself",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q02-a03",
+          "id": "g2-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether God knows things other than himself",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q02-a04",
+          "id": "g2-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether God has proper and determinate knowledge of things",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q02-a05",
+          "id": "g2-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether God knows singular things",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q02-a06",
+          "id": "g2-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether the human intellect knows singulars",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q02-a07",
+          "id": "g2-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether God knows the singular as now existing or not existing",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q02-a08",
+          "id": "g2-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether God knows non-beings",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q02-a09",
+          "id": "g2-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether God knows infinite things",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q02-a10",
+          "id": "g2-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether God can make infinite things",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q02-a11",
+          "id": "g2-c011",
           "title": {
-            "en-US": "Article 11",
+            "en-US": "Article 11 — Whether knowledge predicated of God and man is purely equivocal",
             "la": "Articulus 11"
           }
         },
         {
-          "id": "q02-a12",
+          "id": "g2-c012",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 12 — Whether God knows singular future contingents",
             "la": "Articulus 12"
           }
         },
         {
-          "id": "q02-a13",
+          "id": "g2-c013",
           "title": {
-            "en-US": "Article 13",
+            "en-US": "Article 13 — Whether God's knowledge changes",
             "la": "Articulus 13"
           }
         },
         {
-          "id": "q02-a14",
+          "id": "g2-c014",
           "title": {
-            "en-US": "Article 14",
+            "en-US": "Article 14 — Whether God's knowledge is the cause of things",
             "la": "Articulus 14"
           }
         },
         {
-          "id": "q02-a15",
+          "id": "g2-c015",
           "title": {
-            "en-US": "Article 15",
+            "en-US": "Article 15 — Whether God has knowledge of evil things",
             "la": "Articulus 15"
           }
         }
       ]
     },
     {
-      "id": "q03",
+      "id": "g3",
       "title": {
-        "en-US": "Question 3 — Question Three: Ideas",
+        "en-US": "Question 3 — On ideas",
         "la": "Quaestio 3"
       },
       "children": [
         {
-          "id": "q03-a01",
+          "id": "g3-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On ideas",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Article 1 — Whether there are ideas in God",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q03-a02",
+          "id": "g3-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether there are many ideas",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q03-a03",
+          "id": "g3-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether ideas belong to speculative or only to practical knowledge",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q03-a04",
+          "id": "g3-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether there is an idea of evil in God",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q03-a05",
+          "id": "g3-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether there is an idea of first matter in God",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q03-a06",
+          "id": "g3-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether there are ideas in God of those things that do not exist, will not exist, and have not existed",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q03-a07",
+          "id": "g3-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether there are ideas of accidents in God",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q03-a08",
+          "id": "g3-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether there are ideas of singulars in God?",
             "la": "Articulus 8"
           }
         }
       ]
     },
     {
-      "id": "q04",
+      "id": "g4",
       "title": {
-        "en-US": "Question 4 — Question Four: The Divine Word",
+        "en-US": "Question 4 — On the Word",
         "la": "Quaestio 4"
       },
       "children": [
         {
-          "id": "q04-a01",
+          "id": "g4-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the Word",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Article 1 — Whether there can be a word, properly speaking, in God",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q04-a02",
+          "id": "g4-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether \"word\" is predicated of God essentially or only personally",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q04-a03",
+          "id": "g4-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether \"Word\" is a proper name of the Holy Spirit",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q04-a04",
+          "id": "g4-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the Father utters all creatures in the \"Word\" by which he utters himself",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q04-a05",
+          "id": "g4-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether the \"Word\" implies a relation to creatures",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q04-a06",
+          "id": "g4-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether things exist more truly in the \"Word\" or in themselves",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q04-a07",
+          "id": "g4-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether the \"Word\" is related to those things which do not exist, will not exist, and never have existed",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q04-a08",
+          "id": "g4-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether all created things are life within the \"Word\"",
             "la": "Articulus 8"
           }
         }
       ]
     },
     {
-      "id": "q05",
+      "id": "g5",
       "title": {
-        "en-US": "Question 5 — Question Five: Providence",
+        "en-US": "Question 5 — On providence",
         "la": "Quaestio 5"
       },
       "children": [
         {
-          "id": "q05-a01",
+          "id": "g5-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On providence",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Article 1 — To which attribute can God's providence be reduced",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q05-a02",
+          "id": "g5-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether the world is ruled by providence",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q05-a03",
+          "id": "g5-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether God's providence extends to corruptible things",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q05-a04",
+          "id": "g5-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the motions and actions of all bodies here below are subject to divine providence",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q05-a05",
+          "id": "g5-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether human acts are ruled by providence",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q05-a06",
+          "id": "g5-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether brute animals and their acts are subject to God's providence",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q05-a07",
+          "id": "g5-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether sinners are ruled by God's providence",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q05-a08",
+          "id": "g5-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether all material creatures are governed by God's providence through angels",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q05-a09",
+          "id": "g5-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether divine providence disposes bodies here below by means of the celestial bodies",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q05-a10",
+          "id": "g5-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether human acts are governed by God's providence through the instrumentality of celestial bodies",
             "la": "Articulus 10"
           }
         }
       ]
     },
     {
-      "id": "q06",
+      "id": "g6",
       "title": {
-        "en-US": "Question 6 — Question Six: Predestination",
+        "en-US": "Question 6 — On predestination",
         "la": "Quaestio 6"
       },
       "children": [
         {
-          "id": "q06-a01",
+          "id": "g6-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On predestination",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g6-c001",
+          "title": {
+            "en-US": "Article 1 — Whether predestination belongs to knowledge of will",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q06-a02",
+          "id": "g6-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether foreknowledge of merits is the cause of or reason for predestination",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q06-a03",
+          "id": "g6-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether predestination is certain",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q06-a04",
+          "id": "g6-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the number of the predestined is certain",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q06-a05",
+          "id": "g6-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether the predestined are certain of their predestination",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q06-a06",
+          "id": "g6-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether predestination is helped by the prayers of the saints",
             "la": "Articulus 6"
           }
         }
       ]
     },
     {
-      "id": "q07",
+      "id": "g7",
       "title": {
-        "en-US": "Question 7 — Question Seven: The Book of Life",
+        "en-US": "Question 7 — On the book of life",
         "la": "Quaestio 7"
       },
       "children": [
         {
-          "id": "q07-a01",
+          "id": "g7-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the book of life",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g7-c001",
+          "title": {
+            "en-US": "Article 1 — Whether the book of life is a created thing",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q07-a02",
+          "id": "g7-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether the book of life is predicated of God personally or essentially",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q07-a03",
+          "id": "g7-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether the book of life can be appropriated to the Son",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q07-a04",
+          "id": "g7-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the book of life is the same as predestination",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q07-a05",
+          "id": "g7-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether the book of life is spoken of in relation to uncreated life",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q07-a06",
+          "id": "g7-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether the book of life is spoken of in relation to the natural life of creatures",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q07-a07",
+          "id": "g7-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether the book of life is used without qualification referring to the life of grace",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q07-a08",
+          "id": "g7-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether we speak of a book of death as we speak of a book of life",
             "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "g7-c009",
+          "title": {
+            "en-US": "Article 9 — Whether anything can be removed from the book of life",
+            "la": "Articulus 9"
           }
         }
       ]
     },
     {
-      "id": "q08",
+      "id": "g8",
       "title": {
-        "en-US": "Question 8 — Question Eight: The Knowledge of Angels",
+        "en-US": "Question 8 — On the knowledge of angels",
         "la": "Quaestio 8"
       },
       "children": [
         {
-          "id": "q08-a01",
+          "id": "g8-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the knowledge of angels",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g8-c001",
+          "title": {
+            "en-US": "Article 1 — Whether the angels see God through his essence",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q08-a02",
+          "id": "g8-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether the intellects of beatified angels and men comprehend the divine essence",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q08-a03",
+          "id": "g8-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether an angel, by means of his own natural powers, attains the vision of God through his essence",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q08-a04",
+          "id": "g8-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether an angel, seeing God through his essence, knows all things",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q08-a05",
+          "id": "g8-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether the vision of things in the Word is through likenesses of them existing in the angelic intellects",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q08-a06",
+          "id": "g8-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether an angel knows himself",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q08-a07",
+          "id": "g8-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether one angel knows another",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q08-a08",
+          "id": "g8-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether an angel knows material things through forms or by knowing his own essence",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q08-a09",
+          "id": "g8-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether the forms by which angels know material things are innate or received from things",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q08-a10",
+          "id": "g8-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether higher angels know more through universal forms than those by which lower angels know",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q08-a11",
+          "id": "g8-c011",
           "title": {
-            "en-US": "Article 11",
+            "en-US": "Article 11 — Whether angels know singulars",
             "la": "Articulus 11"
           }
         },
         {
-          "id": "q08-a12",
+          "id": "g8-c012",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 12 — Whether angels know the future",
             "la": "Articulus 12"
           }
         },
         {
-          "id": "q08-a13",
+          "id": "g8-c013",
           "title": {
-            "en-US": "Article 13",
+            "en-US": "Article 13 — Whether angels know the heart’s secrets",
             "la": "Articulus 13"
           }
         },
         {
-          "id": "q08-a14",
+          "id": "g8-c014",
           "title": {
-            "en-US": "Article 14",
+            "en-US": "Article 14 — Whether angels know many things at the same time",
             "la": "Articulus 14"
           }
         },
         {
-          "id": "q08-a15",
+          "id": "g8-c015",
           "title": {
-            "en-US": "Article 15",
+            "en-US": "Article 15 — Whether angels’ knowledge of things is discursive",
             "la": "Articulus 15"
           }
         },
         {
-          "id": "q08-a16",
+          "id": "g8-c016",
           "title": {
-            "en-US": "Article 16",
+            "en-US": "Article 16 — Whether morning knowledge be distinguished from evening knowledge in angels",
             "la": "Articulus 16"
           }
         },
         {
-          "id": "q08-a17",
+          "id": "g8-c017",
           "title": {
-            "en-US": "Article 17",
+            "en-US": "Article 17 — Whether an angel’s knowledge is adequately divided into morning and evening knowledge",
             "la": "Articulus 17"
           }
         }
       ]
     },
     {
-      "id": "q09",
+      "id": "g9",
       "title": {
-        "en-US": "Question 9 — Question Nine: The Communication of Angelic Knowledge",
+        "en-US": "Question 9 — On the communication of angelic knowledge",
         "la": "Quaestio 9"
       },
       "children": [
         {
-          "id": "q09-a01",
+          "id": "g9-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the communication of angelic knowledge",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g9-c001",
+          "title": {
+            "en-US": "Article 1 — Whether one angel illuminates another",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q09-a02",
+          "id": "g9-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether an inferior angel is always illumined by a superior angel or is he sometimes illumined directly by God",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q09-a03",
+          "id": "g9-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether one angel cleanses another when he illumines him",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q09-a04",
+          "id": "g9-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether one angel speaks to another",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q09-a05",
+          "id": "g9-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether the inferior angels speak to the superior",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q09-a06",
+          "id": "g9-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether there is a determinate local distance required in order for one angel to speak to another",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q09-a07",
+          "id": "g9-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether one angel speaks to another in such a way that others will not know what he is saying",
             "la": "Articulus 7"
           }
         }
       ]
     },
     {
-      "id": "q10",
+      "id": "g10",
       "title": {
-        "en-US": "Question 10 — Question Ten: The Mind",
+        "en-US": "Question 10 — On the mind",
         "la": "Quaestio 10"
       },
       "children": [
         {
-          "id": "q10-a01",
+          "id": "g10-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the mind",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g10-c001",
+          "title": {
+            "en-US": "Article 1 — Whether the mind, as containing within itself the image of the Trinity, is the essence of the soul or one of its powers",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q10-a02",
+          "id": "g10-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether there is memory in the mind",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q10-a03",
+          "id": "g10-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether memory is distinguished from understanding as one power from another",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q10-a04",
+          "id": "g10-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the mind knows material things",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q10-a05",
+          "id": "g10-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether our mind knows material things in their singularity",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q10-a06",
+          "id": "g10-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether the human mind receives knowledge from sensible things",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q10-a07",
+          "id": "g10-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether the image of the Trinity is in the mind as it knows material things or only as it knows eternal things",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q10-a08",
+          "id": "g10-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether the mind knows itself through its essence or through some species",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q10-a09",
+          "id": "g10-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether its through their essence or through some likeness that our mind knows habits which exist in the soul",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q10-a10",
+          "id": "g10-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether one knows that he has charity",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q10-a11",
+          "id": "g10-c011",
           "title": {
-            "en-US": "Article 11",
+            "en-US": "Article 11 — Whether the mind in this life can see God through his essence",
             "la": "Articulus 11"
           }
         },
         {
-          "id": "q10-a12",
+          "id": "g10-c012",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 12 — Whether God's existence is self-evident to the human mind, just as first principles of demonstration, which cannot be thought not to exist",
             "la": "Articulus 12"
           }
         },
         {
-          "id": "q10-a13",
+          "id": "g10-c013",
           "title": {
-            "en-US": "Article 13",
+            "en-US": "Article 13 — Whether the Trinity of persons in God can be known by natural reason",
             "la": "Articulus 13"
           }
         }
       ]
     },
     {
-      "id": "q11",
+      "id": "g11",
       "title": {
-        "en-US": "Question 11 — Question Eleven: The Teacher",
+        "en-US": "Question 11 — On the teacher",
         "la": "Quaestio 11"
       },
       "children": [
         {
-          "id": "q11-a01",
+          "id": "g11-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the teacher",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g11-c001",
+          "title": {
+            "en-US": "Article 1 — Whether a man or only God can teach and be called teacher",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q11-a02",
+          "id": "g11-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether one can be called his own teacher",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q11-a03",
+          "id": "g11-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether a man can be taught by an angel",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q11-a04",
+          "id": "g11-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether teaching is an activity of the contemplative or active life",
             "la": "Articulus 4"
           }
         }
       ]
     },
     {
-      "id": "q12",
+      "id": "g12",
       "title": {
-        "en-US": "Question 12 — Question Twelve: Prophecy",
+        "en-US": "Question 12 — On prophecy",
         "la": "Quaestio 12"
       },
       "children": [
         {
-          "id": "q12-a01",
+          "id": "g12-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On prophecy",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g12-c001",
+          "title": {
+            "en-US": "Article 1 — Whether prophecy is a habit or an act",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q12-a02",
+          "id": "g12-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether prophecy deals with conclusions which can be known scientifically",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q12-a03",
+          "id": "g12-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether prophecy is natural",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q12-a04",
+          "id": "g12-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether some natural disposition is needed for prophecy",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q12-a05",
+          "id": "g12-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether moral goodness is required for prophecy",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q12-a06",
+          "id": "g12-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether the prophets see in the mirror of eternity",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q12-a07",
+          "id": "g12-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether God in the revelation is made to a prophet imprint on the mind of the prophet new species of things or only intellectual light",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q12-a08",
+          "id": "g12-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether all prophetic revelation takes place through the mediation of an angel",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q12-a09",
+          "id": "g12-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether a prophet always loses sense-consciousness when he is under the influence of the spirit of prophecy",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q12-a10",
+          "id": "g12-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether prophecy is suitably divided into prophecy of predestination, foreknowledge, and threats",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q12-a11",
+          "id": "g12-c011",
           "title": {
-            "en-US": "Article 11",
+            "en-US": "Article 11 — Whether there is unchangeable truth in prophecy",
             "la": "Articulus 11"
           }
         },
         {
-          "id": "q12-a12",
+          "id": "g12-c012",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 12 — Whether the prophecy according to the sight of understanding alone is higher than that which has the sight of understanding together with imagination",
             "la": "Articulus 12"
           }
         },
         {
-          "id": "q12-a13",
+          "id": "g12-c013",
           "title": {
-            "en-US": "Article 13",
+            "en-US": "Article 13 — Whether the grades of prophecy are distinguished according to the sight of imagination",
             "la": "Articulus 13"
           }
         },
         {
-          "id": "q12-a14",
+          "id": "g12-c014",
           "title": {
-            "en-US": "Article 14",
+            "en-US": "Article 14 — Whether Moses was more outstanding than other prophets",
             "la": "Articulus 14"
           }
         }
       ]
     },
     {
-      "id": "q13",
+      "id": "g13",
       "title": {
-        "en-US": "Question 13 — Question Thirteen: Rapture",
+        "en-US": "Question 13 — On rapture",
         "la": "Quaestio 13"
       },
       "children": [
         {
-          "id": "q13-a01",
+          "id": "g13-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On rapture",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g13-c001",
+          "title": {
+            "en-US": "Article 1 — What is rapture",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q13-a02",
+          "id": "g13-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether Paul saw God through his essence when he was enraptured",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q13-a03",
+          "id": "g13-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether one in this life can have his understanding raised to see God through his essence without being carried out of his senses",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q13-a04",
+          "id": "g13-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether great abstraction is required for our understanding to be able to see God through his essence",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q13-a05",
+          "id": "g13-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — What did the Apostle know and not know about his rapture",
             "la": "Articulus 5"
           }
         }
       ]
     },
     {
-      "id": "q14",
+      "id": "g14",
       "title": {
-        "en-US": "Question 14 — Question Fourteen: Faith",
+        "en-US": "Question 14 — On faith",
         "la": "Quaestio 14"
       },
       "children": [
         {
-          "id": "q14-a01",
+          "id": "g14-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On faith",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g14-c001",
+          "title": {
+            "en-US": "Article 1 — What is belief",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q14-a02",
+          "id": "g14-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — What is faith",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q14-a03",
+          "id": "g14-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether faith is a virtue",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q14-a04",
+          "id": "g14-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — What is the subject in which faith exists",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q14-a05",
+          "id": "g14-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether charity is the form of faith",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q14-a06",
+          "id": "g14-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether formless faith is a virtue",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q14-a07",
+          "id": "g14-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether the habit of formless faith is the same as that of formed faith",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q14-a08",
+          "id": "g14-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether the first truth is the proper object of faith",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q14-a09",
+          "id": "g14-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether faith deals with things which are known as scientific conclusions",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q14-a10",
+          "id": "g14-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether its necessary for man to have faith",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q14-a11",
+          "id": "g14-c011",
           "title": {
-            "en-US": "Article 11",
+            "en-US": "Article 11 — Whether its necessary to believe explicitly",
             "la": "Articulus 11"
           }
         },
         {
-          "id": "q14-a12",
+          "id": "g14-c012",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 12 — Whether there is one faith for moderns and ancients",
             "la": "Articulus 12"
           }
         }
       ]
     },
     {
-      "id": "q15",
+      "id": "g15",
       "title": {
-        "en-US": "Question 15 — Question Fifteen: Higher and Lower Reason",
+        "en-US": "Question 15 — On higher and lower reason",
         "la": "Quaestio 15"
       },
       "children": [
         {
-          "id": "q15-a01",
+          "id": "g15-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On higher and lower reason",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g15-c001",
+          "title": {
+            "en-US": "Article 1 — Whether understanding and reason are different powers in man",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q15-a03",
+          "id": "g15-c002",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 2 — Whether higher and lower reason are different powers",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "g15-c003",
+          "title": {
+            "en-US": "Article 3 — Whether sin can exist in higher or lower reason",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q15-a04",
+          "id": "g15-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether deliberate pleasure in bad thoughts (<i>delectatio morosa</i>), which exists in the lower part of reason through consent to the pleasure but without consent to the deed, is a mortal sin",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q15-a05",
+          "id": "g15-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether venial sin exists in higher reason",
             "la": "Articulus 5"
           }
         }
       ]
     },
     {
-      "id": "q16",
+      "id": "g16",
       "title": {
-        "en-US": "Question 16 — Question Sixteen: Synderesis",
+        "en-US": "Question 16 — On synderesis",
         "la": "Quaestio 16"
       },
       "children": [
         {
-          "id": "q16-a01",
+          "id": "g16-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On synderesis",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g16-c001",
+          "title": {
+            "en-US": "Article 1 — Whether synderesis is a power or habit",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q16-a02",
+          "id": "g16-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether synderesis can sin",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q16-a03",
+          "id": "g16-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether there are some in whom synderesis is extinguished",
             "la": "Articulus 3"
           }
         }
       ]
     },
     {
-      "id": "q17",
+      "id": "g17",
       "title": {
-        "en-US": "Question 17 — Question Seventeen: Conscience",
+        "en-US": "Question 17 — On conscience",
         "la": "Quaestio 17"
       },
       "children": [
         {
-          "id": "q17-a01",
+          "id": "g17-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On conscience",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g17-c001",
+          "title": {
+            "en-US": "Article 1 — Whether conscience is a power, habit, or act",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q17-a02",
+          "id": "g17-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether conscience can be mistaken",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q17-a03",
+          "id": "g17-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether conscience can bind",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q17-a04",
+          "id": "g17-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether a false conscience can bind",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q17-a05",
+          "id": "g17-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether conscience in indifferent matters can bind more than the command of a superior, or less",
             "la": "Articulus 5"
           }
         }
       ]
     },
     {
-      "id": "q18",
+      "id": "g18",
       "title": {
-        "en-US": "Question 18 — Question Eighteen: The Knowledge of the First Man in the State of Innocence",
+        "en-US": "Question 18 — On the knowledge of the first man in the state of innocence",
         "la": "Quaestio 18"
       },
       "children": [
         {
-          "id": "q18-a01",
+          "id": "g18-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the knowledge of the first man in the state of innocence",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g18-c001",
+          "title": {
+            "en-US": "Article 1 — Whether man in the state of innocence knew God through his essence",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q18-a02",
+          "id": "g18-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether man in the state of innocence saw God through creatures",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q18-a03",
+          "id": "g18-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether Adam in the state of innocence had faith about God",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q18-a04",
+          "id": "g18-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether Adam in the state of innocence had knowledge of all creatures",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q18-a05",
+          "id": "g18-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether Adam in the state of innocence saw the angels through their essence",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q18-a06",
+          "id": "g18-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether Adam in the state of innocence could be mistaken or deceived",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q18-a07",
+          "id": "g18-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether the children who were born of Adam in the state of innocence had full knowledge of all things, as Adam did",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q18-a08",
+          "id": "g18-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether in the state of innocence, children have the full use of reason immediately at birth",
             "la": "Articulus 8"
           }
         }
       ]
     },
     {
-      "id": "q19",
+      "id": "g19",
       "title": {
-        "en-US": "Question 19 — Question Nineteen: Knowledge of the Soul after Death",
+        "en-US": "Question 19 — On knowledge of the soul after death",
         "la": "Quaestio 19"
       },
       "children": [
         {
-          "id": "q19-a01",
+          "id": "g19-c001",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Article 1 — Whether the soul understands after death",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q19-a02",
+          "id": "g19-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether the separated soul knows singulars",
             "la": "Articulus 2"
           }
         }
       ]
     },
     {
-      "id": "q20",
+      "id": "g20",
       "title": {
-        "en-US": "Question 20 — Question Twenty: The Knowledge of Christ",
+        "en-US": "Question 20 — On the knowledge of Christ",
         "la": "Quaestio 20"
       },
       "children": [
         {
-          "id": "q20-a01",
+          "id": "g20-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the knowledge of Christ",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g20-c001",
+          "title": {
+            "en-US": "Article 1 — Whether we say that there is created knowledge in Christ",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q20-a02",
+          "id": "g20-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether the soul of Christ sees the Word through any habit",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q20-a03",
+          "id": "g20-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether Christ had other knowledge of things than that by which he knows them in the Word",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q20-a04",
+          "id": "g20-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the soul of Christ knows in the Word all that the Word knows",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q20-a05",
+          "id": "g20-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether the soul of Christ knows all that God could make",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q20-a06",
+          "id": "g20-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether the soul of Christ knows everything with that knowledge by which it knows things in their proper nature",
             "la": "Articulus 6"
           }
         }
       ]
     },
     {
-      "id": "q21",
+      "id": "g21",
       "title": {
-        "en-US": "Question 21 — Question Twenty-One: Good",
+        "en-US": "Question 21 — On goodness",
         "la": "Quaestio 21"
       },
       "children": [
         {
-          "id": "q21-a01",
+          "id": "g21-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On goodness",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g21-c001",
+          "title": {
+            "en-US": "Article 1 — Whether goodness adds something onto being",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q21-a02",
+          "id": "g21-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether being and goodness are interchangeable with regard to the individual",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q21-a03",
+          "id": "g21-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether goodness is before truth according to reason",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q21-a04",
+          "id": "g21-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether all things are good by the first goodness",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q21-a05",
+          "id": "g21-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether created goodness is good by its essence",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q21-a06",
+          "id": "g21-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether the goodness of the creatures consists in mode, species, and order",
             "la": "Articulus 6"
           }
         }
       ]
     },
     {
-      "id": "q22",
+      "id": "g22",
       "title": {
-        "en-US": "Question 22 — Question Twenty-Two: The Tendency to Good and the Will",
+        "en-US": "Question 22 — On the desire for the good",
         "la": "Quaestio 22"
       },
       "children": [
         {
-          "id": "q22-a01",
+          "id": "g22-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the desire for the good",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g22-c001",
+          "title": {
+            "en-US": "Article 1 — Whether all things desire the good",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q22-a02",
+          "id": "g22-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether all things desire God himself",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q22-a03",
+          "id": "g22-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether the appetite is a special power of the soul",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q22-a04",
+          "id": "g22-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the will in rational beings is a power other than the appetite of the sensitive part",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q22-a05",
+          "id": "g22-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether the will wants anything by necessity",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q22-a06",
+          "id": "g22-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether the will wants whatever it wants by necessity.",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q22-a07",
+          "id": "g22-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether one merits by wanting whatever one wants by necessity",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q22-a08",
+          "id": "g22-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether God can force the will",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q22-a09",
+          "id": "g22-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether any creature can change or impress upon the will",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q22-a10",
+          "id": "g22-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether the will and the intellect are one power",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q22-a11",
+          "id": "g22-c011",
           "title": {
-            "en-US": "Article 11",
+            "en-US": "Article 11 — Whether the will is a higher power than the intellect, or conversely.",
             "la": "Articulus 11"
           }
         },
         {
-          "id": "q22-a12",
+          "id": "g22-c012",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 12 — Whether the will moves the intellect and the other powers of the soul.",
             "la": "Articulus 12"
           }
         },
         {
-          "id": "q22-a13",
+          "id": "g22-c013",
           "title": {
-            "en-US": "Article 13",
+            "en-US": "Article 13 — Whether intention is an act of the will.",
             "la": "Articulus 13"
           }
         },
         {
-          "id": "q22-a14",
+          "id": "g22-c014",
           "title": {
-            "en-US": "Article 14",
+            "en-US": "Article 14 — Whether the will wants the end and intends what is for the sake of the end by the same motion",
             "la": "Articulus 14"
           }
         },
         {
-          "id": "q22-a15",
+          "id": "g22-c015",
           "title": {
-            "en-US": "Article 15",
+            "en-US": "Article 15 — Whether choice is an act of the will",
             "la": "Articulus 15"
           }
         }
       ]
     },
     {
-      "id": "q23",
+      "id": "g23",
       "title": {
-        "en-US": "Question 23 — Question Twenty-Three: God’s Will",
+        "en-US": "Question 23 — On the will of God",
         "la": "Quaestio 23"
       },
       "children": [
         {
-          "id": "q23-a01",
+          "id": "g23-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the will of God",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g23-c001",
+          "title": {
+            "en-US": "Article 1 — Whether it pertains to God to have a will",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q23-a02",
+          "id": "g23-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether the divine will can be distinguished by antecedent and consequent",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q23-a03",
+          "id": "g23-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether God's will is fittingly divided by the will of approval and the will of sign",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q23-a04",
+          "id": "g23-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether God wills by necessity whatever he wills",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q23-a05",
+          "id": "g23-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether the divine will imposes necessity upon the things willed",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q23-a06",
+          "id": "g23-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether justice in created things depends on the simple divine will",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q23-a07",
+          "id": "g23-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether we are bound to conform our will to the divine will",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q23-a08",
+          "id": "g23-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether we are bound to conform our will to the divine will in the thing willed, namely, that we are bound to will what we know that God wills",
             "la": "Articulus 8"
           }
         }
       ]
     },
     {
-      "id": "q24",
+      "id": "g24",
       "title": {
-        "en-US": "Question 24 — Question Twenty-Four: Free Choice",
+        "en-US": "Question 24 — On free choice",
         "la": "Quaestio 24"
       },
       "children": [
         {
-          "id": "q24-a01",
+          "id": "g24-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On free choice",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g24-c001",
+          "title": {
+            "en-US": "Article 1 — Whether there is free choice in man",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q24-a02",
+          "id": "g24-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether there is free choice in beasts",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q24-a03",
+          "id": "g24-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether there is free choice in God<bsc></bsc>",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q24-a04",
+          "id": "g24-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether free choice is a power, or not<bsc></bsc>",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q24-a05",
+          "id": "g24-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether free choice is one power, or many",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q24-a06",
+          "id": "g24-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether free choice is the will, or a power other than the will<bsc><bsc></bsc></bsc>",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q24-a07",
+          "id": "g24-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether there could be some creature that has free choice naturally confirmed in goodness.<bsc><bsc></bsc></bsc>",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q24-a08",
+          "id": "g24-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether the creature's free choice can be established in goodness by a gift of grace",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q24-a09",
+          "id": "g24-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether man's free choice can be confirmed in goodness in this present life",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q24-a10",
+          "id": "g24-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether the free choice of any creature can be obstinate or immutably established in evil",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q24-a11",
+          "id": "g24-c011",
           "title": {
-            "en-US": "Article 11",
+            "en-US": "Article 11 — Whether man's free choice can be obstinately in evil in this present life",
             "la": "Articulus 11"
           }
         },
         {
-          "id": "q24-a12",
+          "id": "g24-c012",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 12 — Whether free choice that is without grace and in the state of mortal sin is able to avoid mortal sin",
             "la": "Articulus 12"
           }
         },
         {
-          "id": "q24-a13",
+          "id": "g24-c013",
           "title": {
-            "en-US": "Article 13",
+            "en-US": "Article 13 — Whether someone in a state of grace is able to avoid mortal sin",
             "la": "Articulus 13"
           }
         },
         {
-          "id": "q24-a14",
+          "id": "g24-c014",
           "title": {
-            "en-US": "Article 14",
+            "en-US": "Article 14 — Whether free choice is capable of the good without grace",
             "la": "Articulus 14"
           }
         },
         {
-          "id": "q24-a15",
+          "id": "g24-c015",
           "title": {
-            "en-US": "Article 15",
+            "en-US": "Article 15 — Whether a man without grace is able to prepare himself for possessing grace",
             "la": "Articulus 15"
           }
         }
       ]
     },
     {
-      "id": "q25",
+      "id": "g25",
       "title": {
-        "en-US": "Question 25 — Question Twenty-Five: Sensuality",
+        "en-US": "Question 25 — On sensuality",
         "la": "Quaestio 25"
       },
       "children": [
         {
-          "id": "q25-a01",
+          "id": "g25-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On sensuality",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g25-c001",
+          "title": {
+            "en-US": "Article 1 — Whether sensuality is a knowing power or is only appetitive",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q25-a02",
+          "id": "g25-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether sensuality is one simple power, or else is divided into many powers, namely into the irascible and the concupiscible",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q25-a03",
+          "id": "g25-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether the irascible and the concupiscible are only in the lower appetite, or also in the higher appetite",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q25-a04",
+          "id": "g25-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether sensuality obeys reason",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q25-a05",
+          "id": "g25-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether there can be sin in sensuality",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q25-a06",
+          "id": "g25-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether the concupiscible is more corrupt and stained than the irascible",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q25-a07",
+          "id": "g25-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether sensuality can be healed in this life from the previously mentioned corruption",
             "la": "Articulus 7"
           }
         }
       ]
     },
     {
-      "id": "q26",
+      "id": "g26",
       "title": {
-        "en-US": "Question 26 — Question Twenty-Six: The Passions of the Soul",
+        "en-US": "Question 26 — On the passions of the soul",
         "la": "Quaestio 26"
       },
       "children": [
         {
-          "id": "q26-a01",
+          "id": "g26-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the passions of the soul",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g26-c001",
+          "title": {
+            "en-US": "Article 1 — Whether the separated soul undergoes anything from the body",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q26-a02",
+          "id": "g26-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — How the soul suffers when conjoined to the body",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q26-a03",
+          "id": "g26-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether passion is only in the sensitive appetite",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q26-a04",
+          "id": "g26-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — In what respect is there contrariety and diversity between the soul's passions",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q26-a05",
+          "id": "g26-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether hope, fear, joy, and sadness are the principal passions of the soul",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q26-a06",
+          "id": "g26-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether we merit by means of the passions",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q26-a07",
+          "id": "g26-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether a passion joined to merit takes something away from merit",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q26-a08",
+          "id": "g26-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether there were such passions in Christ",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q26-a09",
+          "id": "g26-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether there was in Christ's soul the passion of pain with respect to his higher reason",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q26-a10",
+          "id": "g26-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether the pleasure of enjoyment in Christ's higher reason was impeded by the pain of the Passion, and conversely",
             "la": "Articulus 10"
           }
         }
       ]
     },
     {
-      "id": "q27",
+      "id": "g27",
       "title": {
-        "en-US": "Question 27 — Question Twenty-Seven: Grace",
+        "en-US": "Question 27 — On grace",
         "la": "Quaestio 27"
       },
       "children": [
         {
-          "id": "q27-a01",
+          "id": "g27-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On grace",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g27-c001",
+          "title": {
+            "en-US": "Article 1 — Whether grace is something positively created in the soul.",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q27-a02",
+          "id": "g27-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether sanctifying grace is the same as charity",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q27-a03",
+          "id": "g27-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether any creature can be the cause of grace",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q27-a04",
+          "id": "g27-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the sacraments of the New Law are causes of grace",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q27-a05",
+          "id": "g27-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether there is only one sanctifying grace in a man",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q27-a06",
+          "id": "g27-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether grace is in the soul's essence",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q27-a07",
+          "id": "g27-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether there is grace in the sacraments",
             "la": "Articulus 7"
           }
         }
       ]
     },
     {
-      "id": "q28",
+      "id": "g28",
       "title": {
-        "en-US": "Question 28 — Question Twenty-Eight: The Justification of Sinners",
+        "en-US": "Question 28 — On the justification of the wicked",
         "la": "Quaestio 28"
       },
       "children": [
         {
-          "id": "q28-a01",
+          "id": "g28-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the justification of the wicked",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g28-c001",
+          "title": {
+            "en-US": "Article 1 — Whether the justification of the wicked is the remission of sins",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q28-a02",
+          "id": "g28-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether the remission of sins can happen without grace",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q28-a03",
+          "id": "g28-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether free choice is required for the justification of the wicked",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q28-a04",
+          "id": "g28-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — What motion of free choice is needed for justification",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q28-a05",
+          "id": "g28-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether a movement of free choice toward sin is required in the justification of the wicked",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q28-a06",
+          "id": "g28-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether the infusion of grace is the same as the remission of guilt",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q28-a07",
+          "id": "g28-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether the remission of guilt naturally precedes the infusion of grace",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q28-a08",
+          "id": "g28-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether the motion of free choice in the justification of the wicked naturally precedes the infusion of grace",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q28-a09",
+          "id": "g28-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether the justification of the wicked happens in a moment",
             "la": "Articulus 9"
           }
         }
       ]
     },
     {
-      "id": "q29",
+      "id": "g29",
       "title": {
-        "en-US": "Question 29 — Question Twenty-Nine: The Grace of Christ",
+        "en-US": "Question 29 — On the grace of Christ",
         "la": "Quaestio 29"
       },
       "children": [
         {
-          "id": "q29-a01",
+          "id": "g29-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the grace of Christ",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g29-c001",
+          "title": {
+            "en-US": "Article 1 — Whether there is created grace in Christ",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q29-a02",
+          "id": "g29-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether habitual grace is required in order for human nature to be united to the Word in the person",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q29-a03",
+          "id": "g29-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether Christ's grace is infinite",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q29-a04",
+          "id": "g29-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the grace of headship belongs to Christ according to human nature",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q29-a05",
+          "id": "g29-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether a habitual grace is required in Christ in order for him to be head",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q29-a06",
+          "id": "g29-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether Christ was able to merit",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q29-a07",
+          "id": "g29-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether Christ was able to merit for others",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q29-a08",
+          "id": "g29-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether Christ was able to merit in the first moment of his conception",
             "la": "Articulus 8"
           }
         }

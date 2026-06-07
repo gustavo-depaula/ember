@@ -1,7 +1,5 @@
 # D. 21 - On purgatory and confession
 
-***On purgatory and confession***
-
 After the Master has examined the time for penance, here he raises some questions about the things he has determined, and he resolves them. And this is divided into two parts: in the first, he raises the question about the time of penance; in the second, about the confession that is required from penitents, at: *after these matters, it should be considered*, etc. *(*Sententiae* IV, 21.7 (122). 1.)*  
 
 The first is in three parts: in the first, he raises a question concerning the things he has determined. For he had said that time for penance is given until the end of life; and since all sins are forgiven by penance in this life, he asks whether after this life any sins can be forgiven. Second, he determines the truth according to the authority of the saints, at: *that some are remitted after this life, the Lord shows in the Gospel*. *(*Sent*. IV, 21.1 (116). 1.)* In the third, he refutes certain people’s response to the authorities, at: *but perhaps you will say that this is to be taken as regards the punishment of sin*. *(*Sent*. IV, 21.5 (120). 4.)*  

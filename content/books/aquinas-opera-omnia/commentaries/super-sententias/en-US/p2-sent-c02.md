@@ -1,7 +1,5 @@
 # D. 22 - Division of the divine names
 
-***Division of the divine names***
-
 ***Division of the text***
 
 Having considered things that pertain to the unity of the essence and the Trinity of persons, here the Master considers the names by which one designates both the unity of the essence and the plurality of the persons. Now, this is divided into two parts: in the first, he lays out a division of the divine names, and shows what is predicated of the divine persons in the plural, and what in the singular; in the second, he shows how one should understand unity and plurality in the divine, in Distinction 24, at *here it is opportune to inquire diligently*. *(*Sent*. I, 24.1(101).1.)*  

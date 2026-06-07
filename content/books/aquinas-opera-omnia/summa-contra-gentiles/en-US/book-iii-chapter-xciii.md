@@ -1,9 +1,0 @@
-# Chapter XCIII. Of Fate, whether there be such a thing, and if so, what it is
-
-**CHAPTER XCIII**—*Of Fate, whether there be such a thing, and if so, what it is*
-
-SOME when they say that all things are done by fate, mean by fate the destiny[^1] that is in things by disposition of divine providence. Hence Boethius says: “Fate is a disposition inherent in changeable things, whereby providence assigns them each to their several orders.” In this description of fate ‘disposition’ is put for ‘destiny.’ It is said to be ‘inherent in things,’ to distinguish fate from providence: for destiny as it is in the divine mind, not yet impressed on creation, is providence; but inasmuch as it is already unfolded in creatures, it is called ‘fate.’ He says ‘in changeable things’ to show that the order of providence does not take away from things their contingency and changeableness. In this understanding, to deny fate is to deny divine providence. But because with unbelievers we ought not even to have names in common, lest from agreement in terminology there be taken an occasion of error, the faithful should not use the name of ‘fate,’ not to appear to fall in with those who construe fate wrongly, subjecting all things to the necessity imposed by the stars.[^2] Hence Augustine says: “If any man calls by the name of fate the might or power of God, let him keep his opinion, but mend his speech” (*De civit. Dei*, V, 1). And Gregory: “Far be it from the minds of the faithful to say that there is such a thing as fate” (*Hom. 10 in Epiphan.*)
-
-[^1]: *Ordinatio*, the Greek τάξις, an ever-recurring term in St. Thomas, for which no one constant equivalent can be found in English. The word *ordinatio*, better perhaps than any other, sums up St Thomas’s life and marks his genius.
-
-[^2]: Importing ‘horoscopes,’ ‘nativities,’ and other baubles of astrology.

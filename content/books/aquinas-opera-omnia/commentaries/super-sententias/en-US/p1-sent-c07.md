@@ -1,7 +1,5 @@
 # D. 6 - The Principle of the Son’s generation
 
-***The Principle of the Son’s generation***
-
 ***Division of the text***
 
 Here the Master inquires about the generation as regards its principle, and it is divided into two parts. In the first, he asks what is the principle of the generation: whether necessity or will or nature. In the second, he asks about the commonness of the principle of the generation, that is, whether the power of generating is common to the Father and the Son, in Distinction 7.  

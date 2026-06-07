@@ -1,18 +1,18 @@
 {
   "id": "aquinas-to-john-vercelli",
   "name": {
-    "en-US": "Letter to John of Vercelli, Master General",
-    "la": "Epistola ad Ioannem Vercellensem"
+    "en-US": "Letter on the Manner of Studying (to Brother John)",
+    "la": "Epistola ad Ioannem de modo studendi (Sexdecim Praecepta)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Aquinas's reply to forty-three articles submitted by John of Vercelli, Master General of the Dominicans, on theological questions disputed at Paris.",
-    "la": "Responsum Thomae ad quadraginta tres articulos a Ioanne Vercellensi, Magistro Generali Ordinis Praedicatorum, super quaestionibus theologicis Parisiensibus."
+    "en-US": "A short letter of pastoral counsel on how to acquire the treasure of knowledge — the *sixteen precepts* for study (be slow to speak, embrace purity of conscience, do not cease from prayer, often love the cell, do not seek what is too high for you, …). Traditionally addressed to John of Vercelli, Master General of the Dominicans, sometimes given to another Brother John.",
+    "la": "Epistola brevis consilii pastoralis quomodo thesaurus scientiae acquirendus sit — *sedecim praecepta* studendi (tardiloquum esse, conscientiae puritatem amplecti, ab oratione non desistere, cellam frequenter diligere, altiora non quaerere…). Ad Ioannem Vercellensem Magistrum Generalem Ordinis Praedicatorum tradita; aliquando alio fratri Ioanni attributa."
   },
-  "composed": "1271",
+  "composed": "c. 1259–1273",
   "languages": [
     "en-US",
     "la"
@@ -20,21 +20,21 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://corpusthomisticum.org",
+      "description": "Standard public-domain translation, used widely in Dominican formation and in Aquinas's *Vita* editions."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://corpusthomisticum.org",
+      "description": "Latin Leonine / Marietti edition (public domain) of the *Epistola ad Ioannem* (also known as the *Sexdecim Praecepta studendi*)."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Article 1",
-        "la": "Articulus 1"
+        "en-US": "Letter on the Manner of Studying",
+        "la": "Epistola de modo studendi"
       }
     }
   ]

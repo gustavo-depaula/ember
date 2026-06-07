@@ -1,7 +1,5 @@
 # D. 23 - The name “person”
 
-***The name “person”***
-
 ***Division of the text***
 
 After having divided the divine names, here the Master excludes a certain name from the generality of other names—that is, this name “person,” which is indeed said according to substance, but it is nevertheless predicated in the plural. And this is divided into two parts: in the first, he presents the exception; in the second, he inquires into the reason for the exception, at *and so here a difficult question arises*. *(*Sent*. I, 23.1(95).3.)*  

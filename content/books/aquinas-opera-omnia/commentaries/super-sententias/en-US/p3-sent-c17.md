@@ -1,7 +1,5 @@
 # D. 16 - Creation of man in God’s image and likeness
 
-***Creation of man in God’s image and likeness***
-
 ***Division of the text***
 
 Having considered the purely spiritual nature—that is, the angelic—and the purely bodily nature, here in the third place he pursues in many ways a treatment of that nature which is composed of the spiritual and bodily, namely, the human being.  

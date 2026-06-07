@@ -2,17 +2,17 @@
   "id": "aquinas-de-articulis-fidei",
   "name": {
     "en-US": "On the Articles of Faith and the Sacraments of the Church",
-    "la": "De Articulis Fidei et Ecclesiae Sacramentis"
+    "la": "De Articulis Fidei et Sacramentis Ecclesiae"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short pastoral handbook for Archbishop Leonard of Palermo: a list of the articles of faith, the errors that oppose them, and a treatment of the seven sacraments.",
-    "la": "Manuale pastorale breve archiepiscopo Leonardo Panormitano: articuli fidei et errores contrarii, item de septem sacramentis."
+    "en-US": "A short summary of the articles of the Creed and the sacraments of the Church, written for Archbishop Leonard of Palermo. A pastoral catechetical text.",
+    "la": "Compendium articulorum Symboli et sacramentorum Ecclesiae, ad Leonardum archiepiscopum Panormitanum compositum. Textus catecheticus pastoralis."
   },
-  "composed": "1262",
+  "composed": "c. 1261–1265",
   "languages": [
     "en-US",
     "la"
@@ -20,344 +20,103 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Joseph B. Collins (1939). Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Articulis Fidei",
+      "description": "English translation by Joseph B. Collins (revised), the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Articulis Fidei",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch001",
+      "id": "g1",
       "title": {
-        "en-US": "Chapter 1 — 1. \"Sacramentum est sacrum signum.\" This is slightly different in the passage quoted in \"The City of God,\" Book X, chapter x. See also \"Epist. ii.\" The \"Roman Catechism\" (\"The Sacraments in General,\" Chapter I, 4) seemingly follows St. Thomas here.",
-        "la": "Capitulum 1 — 1. \"Sacramentum est sacrum signum.\" This is slightly different in the passage quoted in \"The City of God,\" Book X, chapter x. See also \"Epist. ii.\" The \"Roman Catechism\" (\"The Sacraments in General,\" Chapter I, 4) seemingly follows St. Thomas here."
-      }
+        "en-US": "Part 1 — I - On the Articles of Faith",
+        "la": "Pars 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — I - On the Articles of Faith",
+            "la": "Prooemium"
+          }
+        }
+      ]
     },
     {
-      "id": "ch002",
+      "id": "g2",
       "title": {
-        "en-US": "Chapter 2 — 2. Gal., iv. 9.",
-        "la": "Capitulum 2 — 2. Gal., iv. 9."
-      }
-    },
-    {
-      "id": "ch003",
-      "title": {
-        "en-US": "Chapter 3 — 3. \"A Sacrament, therefore, is clearly understood to be numbered amongst those things which have been instituted as signs. It makes known to us by a certain appearance and resemblance that which God by His invisible power, accomplishes in our souls... In order to explain more fully the nature of a Sacrament it should be taught that it is a thing subject to the senses which possesses, by divine institution, the power not only of signifying holiness and justice, but also to impart both to the recipient. Hence, it is easy to see that the images of the Saints, crosses, and the like, although they are signs of sacrcd things, cannot be called Sacraments. Thus, the solemn ablution of the body [in Baptism] not only signifies, but also has the power to effect a sacred thing which is worked interiorly in the soul by the invisible operation of the Holy Spirit\" (\"Roman Catechism,\" \"Sacraments in General,\" Chapter I, 6 and 11).",
-        "la": "Capitulum 3 — 3. \"A Sacrament, therefore, is clearly understood to be numbered amongst those things which have been instituted as signs. It makes known to us by a certain appearance and resemblance that which God by His invisible power, accomplishes in our souls... In order to explain more fully the nature of a Sacrament it should be taught that it is a thing subject to the senses which possesses, by divine institution, the power not only of signifying holiness and justice, but also to impart both to the recipient. Hence, it is easy to see that the images of the Saints, crosses, and the like, although they are signs of sacrcd things, cannot be called Sacraments. Thus, the solemn ablution of the body [in Baptism] not only signifies, but also has the power to effect a sacred thing which is worked interiorly in the soul by the invisible operation of the Holy Spirit\" (\"Roman Catechism,\" \"Sacraments in General,\" Chapter I, 6 and 11)."
-      }
-    },
-    {
-      "id": "ch004",
-      "title": {
-        "en-US": "Chapter 4 — 4. John, iii. 5.",
-        "la": "Capitulum 4 — 4. John, iii. 5."
-      }
-    },
-    {
-      "id": "ch005",
-      "title": {
-        "en-US": "Chapter 5 — 5. Luke, xxiv. 49.",
-        "la": "Capitulum 5 — 5. Luke, xxiv. 49."
-      }
-    },
-    {
-      "id": "ch006",
-      "title": {
-        "en-US": "Chapter 6 — 6. John, vi. 54.",
-        "la": "Capitulum 6 — 6. John, vi. 54."
-      }
-    },
-    {
-      "id": "ch007",
-      "title": {
-        "en-US": "Chapter 7 — 7. Ps. xl. 5.",
-        "la": "Capitulum 7 — 7. Ps. xl. 5."
-      }
-    },
-    {
-      "id": "ch008",
-      "title": {
-        "en-US": "Chapter 8 — 8. James, v. 14.",
-        "la": "Capitulum 8 — 8. James, v. 14."
-      }
-    },
-    {
-      "id": "ch009",
-      "title": {
-        "en-US": "Chapter 9 — 9. \"Why there are neither more nor less [than seven Sacraments] may be shown at least with some degree of probability from the analogy that exists between the spiritual and the physical life\" (\"Roman Catechism,\" \"loc. cit.,\" 20).",
-        "la": "Capitulum 9 — 9. \"Why there are neither more nor less [than seven Sacraments] may be shown at least with some degree of probability from the analogy that exists between the spiritual and the physical life\" (\"Roman Catechism,\" \"loc. cit.,\" 20)."
-      }
-    },
-    {
-      "id": "ch010",
-      "title": {
-        "en-US": "Chapter 10 — 10. \"In Joan.,\" Tract. LXXX, 3.",
-        "la": "Capitulum 10 — 10. \"In Joan.,\" Tract. LXXX, 3."
-      }
-    },
-    {
-      "id": "ch011",
-      "title": {
-        "en-US": "Chapter 11 — 11. \"It should be explained that the pastor will inform the faithful that the 'sensible thing' which enters into the definition of a Sacrament as already given, although constituting but one sign, is of a twofold nature. Every Sacrament consists of two things: 'matter' which is called the element, and 'form' which is commonly called the word... In order to make the meaning of the rite that is being performed easier and clearer, words had to be added to the matter. Water for example, has the quality of cooling as well as of making clean, and may e symbolic of either. In Baptism, therefore, unless the words were added, it would not be certain which meaning of the sign was intended. When the words are added, we immediately understand that the Sacrament possesses and signifies the power of cleansing... Although God is the author and dispenser of the Sacraments, He nevertheless willed that they should be administered by men in His Church, not by Angels. The ministers of the Sacraments, in performing their duties, do not act in their own persons but in that they represent Christ, and hence, be they good or bad, they validly confer the Sacraments as long as they make use of the matter and the form always observed in the Catholic Church according to the institution of Christ, and intend to do what the Church does in the administration of the Sacraments\" (\"Roman Catechism,\" \"loc. cit.,\" 16 and 24).",
-        "la": "Capitulum 11 — 11. \"It should be explained that the pastor will inform the faithful that the 'sensible thing' which enters into the definition of a Sacrament as already given, although constituting but one sign, is of a twofold nature. Every Sacrament consists of two things: 'matter' which is called the element, and 'form' which is commonly called the word... In order to make the meaning of the rite that is being performed easier and clearer, words had to be added to the matter. Water for example, has the quality of cooling as well as of making clean, and may e symbolic of either. In Baptism, therefore, unless the words were added, it would not be certain which meaning of the sign was intended. When the words are added, we immediately understand that the Sacrament possesses and signifies the power of cleansing... Although God is the author and dispenser of the Sacraments, He nevertheless willed that they should be administered by men in His Church, not by Angels. The ministers of the Sacraments, in performing their duties, do not act in their own persons but in that they represent Christ, and hence, be they good or bad, they validly confer the Sacraments as long as they make use of the matter and the form always observed in the Catholic Church according to the institution of Christ, and intend to do what the Church does in the administration of the Sacraments\" (\"Roman Catechism,\" \"loc. cit.,\" 16 and 24)."
-      }
-    },
-    {
-      "id": "ch012",
-      "title": {
-        "en-US": "Chapter 12 — 12. Wis., i. 5.",
-        "la": "Capitulum 12 — 12. Wis., i. 5."
-      }
-    },
-    {
-      "id": "ch013",
-      "title": {
-        "en-US": "Chapter 13 — 13. \"This character has a twofold effect. It qualifies us to receive or perform a sacred act, and distinguishes us by some mark one from another. This is seen for example, in Baptism, whose character first renders one qualified to recieve the other Sacraments, and, secondly, by it the Christian is distinguished from those who do not profess the faith\" (\"Roman Catechism,\" \"loc. cit.,\" 31).",
-        "la": "Capitulum 13 — 13. \"This character has a twofold effect. It qualifies us to receive or perform a sacred act, and distinguishes us by some mark one from another. This is seen for example, in Baptism, whose character first renders one qualified to recieve the other Sacraments, and, secondly, by it the Christian is distinguished from those who do not profess the faith\" (\"Roman Catechism,\" \"loc. cit.,\" 31)."
-      }
-    },
-    {
-      "id": "ch014",
-      "title": {
-        "en-US": "Chapter 14 — 14. The priest is the ordinary minister of Baptism. In case of necessity, however, anyone who observes the proper form and intention can baptize validly but not licitly; and an adult who permits himself to be baptized without necessity by a layman would be acting illicitly, but the baptism is valid. For such conduct places an \"obex\" (obstacle or hindrance) to the reception of grace. The grace of the Sacrament is revived (\"reviviscitur\") with at least contrition, and probably attrition, or simply by an act of perfect contrition.",
-        "la": "Capitulum 14 — 14. The priest is the ordinary minister of Baptism. In case of necessity, however, anyone who observes the proper form and intention can baptize validly but not licitly; and an adult who permits himself to be baptized without necessity by a layman would be acting illicitly, but the baptism is valid. For such conduct places an \"obex\" (obstacle or hindrance) to the reception of grace. The grace of the Sacrament is revived (\"reviviscitur\") with at least contrition, and probably attrition, or simply by an act of perfect contrition."
-      }
-    },
-    {
-      "id": "ch014",
-      "title": {
-        "en-US": "Chapter 14",
-        "la": "Capitulum 14"
-      }
-    },
-    {
-      "id": "ch014",
-      "title": {
-        "en-US": "Chapter 14",
-        "la": "Capitulum 14"
-      }
-    },
-    {
-      "id": "ch015",
-      "title": {
-        "en-US": "Chapter 15 — 15. John. iii. 5",
-        "la": "Capitulum 15 — 15. John. iii. 5"
-      }
-    },
-    {
-      "id": "ch016",
-      "title": {
-        "en-US": "Chapter 16 — 16. Eph., iv. 5.",
-        "la": "Capitulum 16 — 16. Eph., iv. 5."
-      }
-    },
-    {
-      "id": "ch017",
-      "title": {
-        "en-US": "Chapter 17 — 17. John. i. 33",
-        "la": "Capitulum 17 — 17. John. i. 33"
-      }
-    },
-    {
-      "id": "ch018",
-      "title": {
-        "en-US": "Chapter 18 — 18. \"Amen\" is omitted in the Roman Pontifical.",
-        "la": "Capitulum 18 — 18. \"Amen\" is omitted in the Roman Pontifical."
-      }
-    },
-    {
-      "id": "ch019",
-      "title": {
-        "en-US": "Chapter 19 — 19. The ordinary minister of Confirmation in the Latin Church is the bishop. In virtue of canon 782, # 3, only Abbots, Prelates Nullius, vicars and Prefects Apostolic can confer this Sacrament validly and only within the confines of their own territory and during their term of office. Cardinals can confirm validly anywhere.",
-        "la": "Capitulum 19 — 19. The ordinary minister of Confirmation in the Latin Church is the bishop. In virtue of canon 782, # 3, only Abbots, Prelates Nullius, vicars and Prefects Apostolic can confer this Sacrament validly and only within the confines of their own territory and during their term of office. Cardinals can confirm validly anywhere."
-      }
-    },
-    {
-      "id": "ch020",
-      "title": {
-        "en-US": "Chapter 20 — 20. A priest of the Latin Rite who has a special indult granted by the Holy See may confirm Catholics of his own rite only, unless it is otherwise stated (Canon 782, # 4).",
-        "la": "Capitulum 20 — 20. A priest of the Latin Rite who has a special indult granted by the Holy See may confirm Catholics of his own rite only, unless it is otherwise stated (Canon 782, # 4)."
-      }
-    },
-    {
-      "id": "ch021",
-      "title": {
-        "en-US": "Chapter 21 — 21. \"Hence it also follows that Christ is so contained, whole and entire, under either species that, as under the species of bread are contained not only the body but also the blood and Christ entire, so in like manner under the species of wine are truly contained not only the blood, but also the body and Christ entire. These are matters on which the faithful cannot entertain a doubt. Wisely, however, was it ordained that two distinct consecrations should take place. They represent in a more lively manner the Passion of Our Lord, in which His blood was separated from His body; and hence in the form of consecration we commemorate the shedding of His blood. Again, since the Sacrament is to be used by us as the food and nourishment of our souls, it was most appropriate that it should be instituted as food and drink, two things which obviously constitute the complete sustenance of man. — \"Nor should it be forgotten that Christ is, whole and entire. contained not only under either species, but also in each particle of either species. 'Each,' says St. Augustine, 'receives Christ the Lord, and He is entire in each portion. He is not diminished by being given to many, but gives Himself whole and entire to each' (cited in Gratian, 'De consecratione,' dist. 2). This is also an obvious inference from the narrative of the Evangelists. It is not to be supposed that Our Lord consecrated the bread used at the Last Supper in separate parts, applying the form particularly to each, but that all the bread then used for the sacred mysteries was consecrated at the same time and with the same form, and in a quantity sufficient for all the Apostles. That the consecration of the chalice was performed in this manner, is clear from these words of the Saviour: 'Take and divide it among you' (Luke, xxii, 17)\" (\"Roman Catechism,\" \"The Eucharist,\" 35-36).",
-        "la": "Capitulum 21 — 21. \"Hence it also follows that Christ is so contained, whole and entire, under either species that, as under the species of bread are contained not only the body but also the blood and Christ entire, so in like manner under the species of wine are truly contained not only the blood, but also the body and Christ entire. These are matters on which the faithful cannot entertain a doubt. Wisely, however, was it ordained that two distinct consecrations should take place. They represent in a more lively manner the Passion of Our Lord, in which His blood was separated from His body; and hence in the form of consecration we commemorate the shedding of His blood. Again, since the Sacrament is to be used by us as the food and nourishment of our souls, it was most appropriate that it should be instituted as food and drink, two things which obviously constitute the complete sustenance of man. — \"Nor should it be forgotten that Christ is, whole and entire. contained not only under either species, but also in each particle of either species. 'Each,' says St. Augustine, 'receives Christ the Lord, and He is entire in each portion. He is not diminished by being given to many, but gives Himself whole and entire to each' (cited in Gratian, 'De consecratione,' dist. 2). This is also an obvious inference from the narrative of the Evangelists. It is not to be supposed that Our Lord consecrated the bread used at the Last Supper in separate parts, applying the form particularly to each, but that all the bread then used for the sacred mysteries was consecrated at the same time and with the same form, and in a quantity sufficient for all the Apostles. That the consecration of the chalice was performed in this manner, is clear from these words of the Saviour: 'Take and divide it among you' (Luke, xxii, 17)\" (\"Roman Catechism,\" \"The Eucharist,\" 35-36)."
-      }
-    },
-    {
-      "id": "ch022",
-      "title": {
-        "en-US": "Chapter 22 — 22. John. vi. 57.",
-        "la": "Capitulum 22 — 22. John. vi. 57."
-      }
-    },
-    {
-      "id": "ch023",
-      "title": {
-        "en-US": "Chapter 23 — 23. \"Those who receive this Sacrament piously and fervently must, without any doubt, so receive the Son of God into their souls as to be united as living members to His Body. For it is written, 'He that eateth Me, the same also shall live by Me.' And again: 'The bread which I will give is My flesh for the life of the world' (John, vi. 58)... For the Eucharist is the end of all the Sacraments, and the symbol of unity and brotherhood in the Church\" (\"Roman Catechism,\" \"loc. cit.,\" 49).",
-        "la": "Capitulum 23 — 23. \"Those who receive this Sacrament piously and fervently must, without any doubt, so receive the Son of God into their souls as to be united as living members to His Body. For it is written, 'He that eateth Me, the same also shall live by Me.' And again: 'The bread which I will give is My flesh for the life of the world' (John, vi. 58)... For the Eucharist is the end of all the Sacraments, and the symbol of unity and brotherhood in the Church\" (\"Roman Catechism,\" \"loc. cit.,\" 49)."
-      }
-    },
-    {
-      "id": "ch024",
-      "title": {
-        "en-US": "Chapter 24 — 24. John, vi. 56.",
-        "la": "Capitulum 24 — 24. John, vi. 56."
-      }
-    },
-    {
-      "id": "ch025",
-      "title": {
-        "en-US": "Chapter 25 — 25. Ps. cv. 39.",
-        "la": "Capitulum 25 — 25. Ps. cv. 39."
-      }
-    },
-    {
-      "id": "ch026",
-      "title": {
-        "en-US": "Chapter 26 — 26. Prov., ix. 5.",
-        "la": "Capitulum 26 — 26. Prov., ix. 5."
-      }
-    },
-    {
-      "id": "ch027",
-      "title": {
-        "en-US": "Chapter 27 — 27. Thomas uses here the words: \"quasi materia.\" The \"Roman Catechism\" (\"Penance,\" 13) follows this teaching. \"The faithful should be especially informed on the matter of this Sacrament. That it differs from the other Sacraments in that for them the matter is something, whether natural or artificial; the matter as it were (quasi-materia) of Penance is the acts of the penitent, i.e., contrition confession, and satisfaction. This has thus been defined by the Council of Trent... It is not because they are not the real matter that they are called by the Council the matter as it were, but because they are not of that sort of matter which is applied externally, such, for instance, as water in Baptism and chrism in Confirmation.\"",
-        "la": "Capitulum 27 — 27. Thomas uses here the words: \"quasi materia.\" The \"Roman Catechism\" (\"Penance,\" 13) follows this teaching. \"The faithful should be especially informed on the matter of this Sacrament. That it differs from the other Sacraments in that for them the matter is something, whether natural or artificial; the matter as it were (quasi-materia) of Penance is the acts of the penitent, i.e., contrition confession, and satisfaction. This has thus been defined by the Council of Trent... It is not because they are not the real matter that they are called by the Council the matter as it were, but because they are not of that sort of matter which is applied externally, such, for instance, as water in Baptism and chrism in Confirmation.\""
-      }
-    },
-    {
-      "id": "ch028",
-      "title": {
-        "en-US": "Chapter 28 — 28. \"A knowledge of it [the form of Penance] will excite the faithful to receive the grace of this Sacrament with the greatest possible devotion. The form is: 'I absolve You,' as may be inferred not only from the words: 'Whatsoever you shall bind upon earth shall be bound also in heaven' (Matt., xviii. 18), but also from the teaching of Christ Our Lord, handed down to us by the Apostles... The minister of the Sacrament of Penance must be a priest possessing ordinary or delegated jurisdiction, as is evident in the law of the Church. Whoever performs this sacred duty must be invested not only with the powers of orders, but also with that of jurisdiction. We have greatest proof of this ministry in the words of Our Lord: 'Whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained' John, xx. 23). These words were not addressed to all, but only to the Apostles, who are succeeded in this ministry by priests\" (\"Roman Catechism,\" loc. cit., 54).",
-        "la": "Capitulum 28 — 28. \"A knowledge of it [the form of Penance] will excite the faithful to receive the grace of this Sacrament with the greatest possible devotion. The form is: 'I absolve You,' as may be inferred not only from the words: 'Whatsoever you shall bind upon earth shall be bound also in heaven' (Matt., xviii. 18), but also from the teaching of Christ Our Lord, handed down to us by the Apostles... The minister of the Sacrament of Penance must be a priest possessing ordinary or delegated jurisdiction, as is evident in the law of the Church. Whoever performs this sacred duty must be invested not only with the powers of orders, but also with that of jurisdiction. We have greatest proof of this ministry in the words of Our Lord: 'Whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained' John, xx. 23). These words were not addressed to all, but only to the Apostles, who are succeeded in this ministry by priests\" (\"Roman Catechism,\" loc. cit., 54)."
-      }
-    },
-    {
-      "id": "ch029",
-      "title": {
-        "en-US": "Chapter 29 — 29. Apoc., ii. 5.",
-        "la": "Capitulum 29 — 29. Apoc., ii. 5."
-      }
-    },
-    {
-      "id": "ch030",
-      "title": {
-        "en-US": "Chapter 30 — 30. Anointing of the feet may now be omitted (Canon 947).",
-        "la": "Capitulum 30 — 30. Anointing of the feet may now be omitted (Canon 947)."
-      }
-    },
-    {
-      "id": "ch031",
-      "title": {
-        "en-US": "Chapter 31 — 31. \"This Sacrament imparts grace which remits sins, especially lighter sins or venial sins; for mortal sins are removed by the Sacrament of Penance. Extreme Unction was not instituted primarily for the remission of grave offenses; only Baptism and Penance accomplish this directly... Finally, the recovery of health, if indeed advantageous, is another effect of the Sacrament\" (\"Roman Catechism,\" \"Extreme Unction,\" 14-16).",
-        "la": "Capitulum 31 — 31. \"This Sacrament imparts grace which remits sins, especially lighter sins or venial sins; for mortal sins are removed by the Sacrament of Penance. Extreme Unction was not instituted primarily for the remission of grave offenses; only Baptism and Penance accomplish this directly... Finally, the recovery of health, if indeed advantageous, is another effect of the Sacrament\" (\"Roman Catechism,\" \"Extreme Unction,\" 14-16)."
-      }
-    },
-    {
-      "id": "ch033",
-      "title": {
-        "en-US": "Chapter 33 — 32. \"That the number of ministers was wisely established, is proved by considering the various offices that are necessary for the celebration of the Holy Sacrifice of the Mass and the administration of the Blessed Sacrament. This is the chief scope of their institution. They are divided into major or sacred orders (priesthood, deaconship. subdeaconship) and minor orders... The bishops are placed over the various dioceses to govern, not only the other ministers of the Church, but also the faithful, and to promote their salvation with supreme care and diligence.\" Roman Catechism,\" \"Holy Order,\" 26). It is the common opinion to-day that the episcopate is an order.",
-        "la": "Capitulum 33 — 32. \"That the number of ministers was wisely established, is proved by considering the various offices that are necessary for the celebration of the Holy Sacrifice of the Mass and the administration of the Blessed Sacrament. This is the chief scope of their institution. They are divided into major or sacred orders (priesthood, deaconship. subdeaconship) and minor orders... The bishops are placed over the various dioceses to govern, not only the other ministers of the Church, but also the faithful, and to promote their salvation with supreme care and diligence.\" Roman Catechism,\" \"Holy Order,\" 26). It is the common opinion to-day that the episcopate is an order."
-      }
-    },
-    {
-      "id": "ch033",
-      "title": {
-        "en-US": "Chapter 33 — 33. \"This means that the consent is the effective cause of marriage,... because without the consent and the contract, the obligation and the bond cannot exist... God Himself instituted marriage, and, as the Council of Trent declares, He made it perpetual and indissoluble. 'What God hath joined together, let no man put asunder,' said Our Lord (Matt., xix. 6). It belongs to marriage as a natural contract to be indissoluble; but, above all, its indissolubility arises from its nature as a Sacrament. This sacramental character raises marriage to the highest perfection. Moreover, dissolubility of marriage is immediately contrary to the proper education of children and to the other advantages of marriage. Holy Scripture frequently proposed to us the divine union of Christ and His Church under the figure of marriage\" (\"Roman Catechism,\" \"Matrimony,\" 11-15).",
-        "la": "Capitulum 33 — 33. \"This means that the consent is the effective cause of marriage,... because without the consent and the contract, the obligation and the bond cannot exist... God Himself instituted marriage, and, as the Council of Trent declares, He made it perpetual and indissoluble. 'What God hath joined together, let no man put asunder,' said Our Lord (Matt., xix. 6). It belongs to marriage as a natural contract to be indissoluble; but, above all, its indissolubility arises from its nature as a Sacrament. This sacramental character raises marriage to the highest perfection. Moreover, dissolubility of marriage is immediately contrary to the proper education of children and to the other advantages of marriage. Holy Scripture frequently proposed to us the divine union of Christ and His Church under the figure of marriage\" (\"Roman Catechism,\" \"Matrimony,\" 11-15)."
-      }
-    },
-    {
-      "id": "ch034",
-      "title": {
-        "en-US": "Chapter 34 — 34. Cor., vii. 28.",
-        "la": "Capitulum 34 — 34. Cor., vii. 28."
-      }
-    },
-    {
-      "id": "ch035",
-      "title": {
-        "en-US": "Chapter 35 — 35. Heb., xiii. 4.",
-        "la": "Capitulum 35 — 35. Heb., xiii. 4."
-      }
-    },
-    {
-      "id": "ch036",
-      "title": {
-        "en-US": "Chapter 36 — 36. I John, iii. 2.",
-        "la": "Capitulum 36 — 36. I John, iii. 2."
-      }
-    },
-    {
-      "id": "ch037",
-      "title": {
-        "en-US": "Chapter 37 — 37. I Cor., ix. 24.",
-        "la": "Capitulum 37 — 37. I Cor., ix. 24."
-      }
-    },
-    {
-      "id": "ch038",
-      "title": {
-        "en-US": "Chapter 38 — 38. Job, xxii. 26.",
-        "la": "Capitulum 38 — 38. Job, xxii. 26."
-      }
-    },
-    {
-      "id": "ch039",
-      "title": {
-        "en-US": "Chapter 39 — 39. For another description of these gifts, see above, p. 61.",
-        "la": "Capitulum 39 — 39. For another description of these gifts, see above, p. 61."
-      }
-    },
-    {
-      "id": "ch040",
-      "title": {
-        "en-US": "Chapter 40 — 40. I Cor., xv. 53",
-        "la": "Capitulum 40 — 40. I Cor., xv. 53"
-      }
-    },
-    {
-      "id": "ch041",
-      "title": {
-        "en-US": "Chapter 41 — 41. Matt., xiii. 43.",
-        "la": "Capitulum 41 — 41. Matt., xiii. 43."
-      }
-    },
-    {
-      "id": "ch042",
-      "title": {
-        "en-US": "Chapter 42 — 42. Wis., iii. 7",
-        "la": "Capitulum 42 — 42. Wis., iii. 7"
-      }
-    },
-    {
-      "id": "ch043",
-      "title": {
-        "en-US": "Chapter 43 — 43. I Cor., xv. 14.",
-        "la": "Capitulum 43 — 43. I Cor., xv. 14."
-      }
-    },
-    {
-      "id": "ch043",
-      "title": {
-        "en-US": "Chapter 43",
-        "la": "Capitulum 43"
-      }
-    },
-    {
-      "id": "ch043",
-      "title": {
-        "en-US": "Chapter 43",
-        "la": "Capitulum 43"
-      }
+        "en-US": "Part 2 — II - On the Sacraments of the Church",
+        "la": "Pars 2"
+      },
+      "children": [
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Article 1 — On the Sacraments in General",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Article 2 — On Baptism",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Article 3 — On Confirmation",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Article 4 — On the Eucharist",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "g2-c005",
+          "title": {
+            "en-US": "Article 5 — On Penance",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "g2-c006",
+          "title": {
+            "en-US": "Article 6 — On Extreme Unction",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "g2-c007",
+          "title": {
+            "en-US": "Article 7 — On Holy Orders",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "g2-c008",
+          "title": {
+            "en-US": "Article 8 — On Matrimony",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "g2-c009",
+          "title": {
+            "en-US": "Article 9 — On the Virtue of the Sacraments",
+            "la": "Articulus 9"
+          }
+        }
+      ]
     }
   ]
 }

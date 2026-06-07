@@ -1,7 +1,5 @@
 # D. 36 - Sin and punishment
 
-***Sin and punishment***
-
 ***Division of the text***
 
 Having thoroughly treated of the opinion positing that the acts of sins, precisely as acts, are good and are from God, on the occasion of the last objection cited against this opinion, which was taken from the difference between fault and punishment, here he inquires whether fault and punishment can be identical.  

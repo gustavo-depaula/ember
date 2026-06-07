@@ -1,7 +1,5 @@
 # D. 27 - The properties in connection with the names of the divine persons
 
-***The properties in connection with the names of the divine persons***
-
 ***Division of the text***
 
 Having asserted that there are three personal properties of the divine persons, here the Master considers the properties themselves in their connection with the persons’ names. This is divided into three parts: in the first, he shows that in all the personal names the aforesaid properties of the persons are being designated; in the second, he proposes a general rule for finding such names that designate the properties, at *and here is to be noticed a general rule*. *(*Sent*. I, 27.4(116).1.)*  

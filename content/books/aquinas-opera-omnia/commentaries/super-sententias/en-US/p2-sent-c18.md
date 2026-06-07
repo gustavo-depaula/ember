@@ -1,7 +1,5 @@
 # D. 38 - Whether divine knowledge is the cause of what is known
 
-***Whether divine knowledge is the cause of what is known***
-
 ***Division of the text***
 
 Having made clear what things God’s knowledge is about, here he considers his knowledge through its relation to the very things known. This is divided into two parts: in the first, he asks whether God’s knowledge is the cause of the things known; in the second, he shows what sort of cause it is, at *moreover, it is usual to ask whether God’s knowledge can be increased or diminished*. *(*Sent*. I, 39.1(175).1.)*  

@@ -1,7 +1,5 @@
 # D. 28 - On marital consent
 
-***On marital consent***
-
 After the Master shows that consent is the efficient cause of marriage, here he shows what kind of consent it must be that brings about marriage. This is divided into two parts: in the first part, he inquires whether consent by words about the future, confirmed by an oath, brings about a marriage; in the second, he shows what the consent is that does cause marriage, at: *here it is asked, since present consent makes a marriage, concerning what thing is that consent given*. *(*Sententiae* IV, 28.3 (175). 1.)*  
 
 Concerning the first he does two things: first, he determines the truth; second, he objects to the contrary, at: *that is said above seems to be contradicted by what the laws set down*. *(*Sent*. IV, 28.1 (173). 3.)*  

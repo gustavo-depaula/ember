@@ -1,7 +1,5 @@
 # D. 15 - Sending of the Holy Spirit
 
-***Sending of the Holy Spirit***
-
 ***Division of the first part of the text***
 
 Having shown that the Holy Spirit proceeds temporally and is given by the Father and the Son, here he inquires whether he is also given or sent by his very self. *(The preposition *ab*, which is here (and in most instances) translated as “by,” might also be translated as “from.” “By” suggests an agent, whereas “from” suggests a location or point of origin (not necessarily an agent) and a departure from that origin. Because of the ambiguity of the Latin word, on occasion “from” is preferred to fit the sense better; see, for example, a. 1, obj. 2.)* And this is divided into two parts: in the first he shows that the Holy Spirit is given and sent by his very self; in the second, he brings in a likeness with the sending of the Son, at *but do not find it strange that the Holy Spirit is said to be sent or proceed from himself*. *(*Sent*. I, 15.1(48).4.)*  

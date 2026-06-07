@@ -1,0 +1,391 @@
+{
+  "id": "aquinas-super-galatas",
+  "name": {
+    "en-US": "Commentary on Galatians",
+    "la": "Super Galatas lectura"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the Letter to the Galatians.",
+    "la": "Expositio Thomae in Epistolam ad Galatas."
+  },
+  "composed": "1268–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Galatas",
+      "description": "English translation by Fabian R. Larcher OP, revised by the Aquinas Institute. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Galatas",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "en-US": "Chapter 1 — Leviticus 26:10",
+        "la": "Caput 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — Leviticus 26:10",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "Chapter 2 — Life of Paul",
+        "la": "Caput 2"
+      },
+      "children": [
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Lecture 1 — Greeting",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Lecture 2 — False Gospel",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Lecture 3 — Paul’s life as a Jew",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Lecture 4 — Paul’s Gospel not from man",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g2-c005",
+          "title": {
+            "en-US": "Lecture 5 — Paul’s time with Peter",
+            "la": "Lectio 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": {
+        "en-US": "Chapter 3 — Controversy about the Law",
+        "la": "Caput 3"
+      },
+      "children": [
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Lecture 1 — Preaching in Jerusalem",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g3-c002",
+          "title": {
+            "en-US": "Lecture 2 — Apostle to the gentiles",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g3-c003",
+          "title": {
+            "en-US": "Lecture 3 — Peter’s fear of the Jews",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g3-c004",
+          "title": {
+            "en-US": "Lecture 4 — Justified by faith",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g3-c005",
+          "title": {
+            "en-US": "Lecture 5 — Christ not the minister of sin",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g3-c006",
+          "title": {
+            "en-US": "Lecture 6 — Life in Christ, not the law",
+            "la": "Lectio 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": {
+        "en-US": "Chapter 4 — Purpose of the Law",
+        "la": "Caput 4"
+      },
+      "children": [
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Lecture 1 — Reproach of the Galatians",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g4-c002",
+          "title": {
+            "en-US": "Lecture 2 — Power of the Spirit, not the law",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g4-c003",
+          "title": {
+            "en-US": "Lecture 3 — Abraham’s faith",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g4-c004",
+          "title": {
+            "en-US": "Lecture 4 — Curse of the law’s works",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g4-c005",
+          "title": {
+            "en-US": "Lecture 5 — Christ redeems from the law’s curse",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g4-c006",
+          "title": {
+            "en-US": "Lecture 6 — Promise to Abraham",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g4-c007",
+          "title": {
+            "en-US": "Lecture 7 — The law awaits the mediator",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g4-c008",
+          "title": {
+            "en-US": "Lecture 8 — The law was a pedagogue",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "g4-c009",
+          "title": {
+            "en-US": "Lecture 9 — All one in Christ",
+            "la": "Lectio 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": {
+        "en-US": "Chapter 5 — Sons of God",
+        "la": "Caput 5"
+      },
+      "children": [
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Lecture 1 — The heir awaits the appointed time",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g5-c002",
+          "title": {
+            "en-US": "Lecture 2 — God’s Son comes for adoption",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g5-c003",
+          "title": {
+            "en-US": "Lecture 3 — Sons and heirs",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g5-c004",
+          "title": {
+            "en-US": "Lecture 4 — Reversion to false gods",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g5-c005",
+          "title": {
+            "en-US": "Lecture 5 — The Galatians’ reception of Paul",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g5-c006",
+          "title": {
+            "en-US": "Lecture 6 — Paul’s sorrow over the Galatians",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g5-c007",
+          "title": {
+            "en-US": "Lecture 7 — Abraham’s two sons",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g5-c008",
+          "title": {
+            "en-US": "Lecture 8 — Sinai and Jerusalem",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "g5-c009",
+          "title": {
+            "en-US": "Lecture 9 — Children of the free woman",
+            "la": "Lectio 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": {
+        "en-US": "Chapter 6 — The Flesh and the Spirit",
+        "la": "Caput 6"
+      },
+      "children": [
+        {
+          "id": "g6-c001",
+          "title": {
+            "en-US": "Lecture 1 — Circumcision makes void of Christ",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g6-c002",
+          "title": {
+            "en-US": "Lecture 2 — Faith working by charity",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g6-c003",
+          "title": {
+            "en-US": "Lecture 3 — Fulfillment of the law",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g6-c004",
+          "title": {
+            "en-US": "Lecture 4 — Spirit against the flesh",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g6-c005",
+          "title": {
+            "en-US": "Lecture 5 — Works of the flesh",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g6-c006",
+          "title": {
+            "en-US": "Lecture 6 — Fruit of the Spirit",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g6-c007",
+          "title": {
+            "en-US": "Lecture 7 — Walk in the Spirit",
+            "la": "Lectio 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": {
+        "en-US": "Chapter 7 — Final Admonitions",
+        "la": "Caput 7"
+      },
+      "children": [
+        {
+          "id": "g7-c001",
+          "title": {
+            "en-US": "Lecture 1 — Bear one another’s burdens",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g7-c002",
+          "title": {
+            "en-US": "Lecture 2 — Sow good works",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g7-c003",
+          "title": {
+            "en-US": "Lecture 3 — Circumcision attempts to avoid the cross",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g7-c004",
+          "title": {
+            "en-US": "Lecture 4 — Glory in the cross",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g7-c005",
+          "title": {
+            "en-US": "Lecture 5 — The marks of Christ",
+            "la": "Lectio 5"
+          }
+        }
+      ]
+    }
+  ]
+}

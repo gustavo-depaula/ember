@@ -1,7 +1,5 @@
 # D. 32 - Remission of original sin
 
-***Remission of original sin***
-
 ***Division of the text***
 
 After he has shown how original sin is passed down from the parents, here he shows how it is remitted through baptism. This is divided into two parts.  

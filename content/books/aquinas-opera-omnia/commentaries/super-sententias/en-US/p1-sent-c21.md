@@ -1,7 +1,5 @@
 # D. 20 - Equality of the divine persons in power
 
-***Equality of the divine persons in power***
-
 ***Division of the text***
 
 After he has proved the equality of the persons in their magnitude, here he shows their equality in power. And this is divided into two parts: first, he proposes his intention; second, he proves what he proposes with arguments from Augustine*: he who said, ‘All that the Father has is also mine.’* *(*Sent*. I, 20.2(85).1, quoting Augustine, *Against Maximinus*, bk. 2, ch. 14, para. 7 (CCSL 87A; PL 42:774); John 16:15.)*  

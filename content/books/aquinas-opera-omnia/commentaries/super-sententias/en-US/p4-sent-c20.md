@@ -1,7 +1,5 @@
 # D. 40 - How external acts are good or evil
 
-***How external acts are good or evil***
-
 ***Division of the text***
 
 In the preceding part he addressed sin insofar as it consists in the act of the will. In this part he addresses it insofar as it consists in the external act.  

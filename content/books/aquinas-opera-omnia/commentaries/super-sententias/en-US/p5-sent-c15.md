@@ -1,7 +1,5 @@
 # D. 14 - Human knowledge and power of Christ
 
-***Human knowledge and power of Christ***
-
 ***Division of the text***
 
 After he considered the fullness of Christ’s perfection with respect to grace and knowledge, here he compares Christ’s perfection insofar as he is a man to the divine perfection.  

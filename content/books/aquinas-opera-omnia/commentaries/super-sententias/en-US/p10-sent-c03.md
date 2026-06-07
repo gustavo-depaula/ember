@@ -1,7 +1,5 @@
 # D. 45 - Before the general judgment
 
-***Before the general judgment***
-
 After the Master has examined those things that pertain to the resurrection, here he begins to consider those things that pertain to the reward or punishment of those who will rise, and this is divided into two parts: for in the first, he considers the reward and punishment that will precede the general judgment; in the second, those things that will follow the general judgment, at Distinction 47: *it is also usual to ask how the sentence of judgment shall be given out*. *(*Sententiae* VI, 47.1 (270). 1.)*  
 
 Now the first is divided into two parts: in the first part, he considers the reward and punishment of souls before the day of judgment and the resurrection; in the second, he shows how it will be dispensed according to the justice and mercy of God, at Distinction 46: *but it is here asked concerning the very evil*. *(*Sent*. VI, 46.1 (265).1.)*  

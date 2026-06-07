@@ -1,7 +1,5 @@
 # D. 25 - Articles of faith
 
-***Articles of faith***
-
 ***Division of the text***
 
 After the Master has examined faith as to its essence, which is known through the definition and the object of faith, here he considers it in the possessor of faith with regard to quantity—according as it grows in someone who has faith. Now, this part is divided in two:  

@@ -1,7 +1,5 @@
 # D. 37 - Precepts of the law
 
-***Precepts of the law***
-
 ***Division of the text***
 
 Having considered the virtues and gifts, which incline us to acting well, in this part the Master considers the precepts of the law, whereby we are directed to the acts of the virtues and gifts. Now, this is divided into two parts:  

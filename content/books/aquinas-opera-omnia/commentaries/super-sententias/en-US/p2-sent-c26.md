@@ -1,7 +1,5 @@
 # D. 46 - Certain things that seem to show the inefficacy of the divine will
 
-***Certain things that seem to show the inefficacy of the divine will***
-
 ***Division of the text***
 
 After having considered what the divine will is, and in how many ways it is spoken of, here he inquires about its efficacy. And this is divided into two parts: in the first, he presents certain questions about some things that seem to show the inefficacy of the divine will; in the second, he shows that it is efficacious in all things, at *certainly the will of God is always efficacious*. *(*Sent*. I, 47.1(204).1.)*  

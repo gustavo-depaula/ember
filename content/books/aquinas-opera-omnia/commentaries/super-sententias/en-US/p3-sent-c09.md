@@ -1,7 +1,5 @@
 # D. 8 - Angels and the assumption of bodies
 
-***Angels and the assumption of bodies***
-
 ***Division of the text***
 
 Here the Master considers the good and wicked angels with regard to their assumption of bodies. And it is divided into two parts.  

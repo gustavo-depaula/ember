@@ -1,7 +1,7 @@
 {
   "id": "aquinas-de-sortibus",
   "name": {
-    "en-US": "On the Casting of Lots",
+    "en-US": "On Lots",
     "la": "De Sortibus"
   },
   "author": {
@@ -9,10 +9,10 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short treatise composed for James of Tonengo on the moral status of casting lots — when (if ever) it is permissible and what the practice signifies.",
-    "la": "Tractatus brevis Iacobo de Tonengo compositus, de statu morali sortium — quando liceant et quid significent."
+    "en-US": "A short consultation on the moral and theological status of casting lots — for decision-making, divination, and gambling — addressed to a James of Tonengo.",
+    "la": "Responsum breve de statu morali et theologico iactus sortium — ad decisiones, divinationem, et aleam — ad Iacobum de Tonengo compositum."
   },
-  "composed": "1271",
+  "composed": "c. 1271",
   "languages": [
     "en-US",
     "la"
@@ -20,56 +20,56 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation drawn from the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Sortibus",
+      "description": "English translation revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Sortibus",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch-0",
+      "id": "prologue",
       "title": {
-        "en-US": "Chapter 0 — Foreword — [Prologue, which declares the author's intention]",
-        "la": "Capitulum 0 — Foreword — [Prologue, which declares the author's intention]"
+        "en-US": "Prologue — The author's intention",
+        "la": "Prooemium"
       }
     },
     {
       "id": "ch001",
       "title": {
         "en-US": "Chapter 1 — The matters into which a search for information by lots can be made",
-        "la": "Capitulum 1 — The matters into which a search for information by lots can be made"
+        "la": "Caput 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Chapter 2 — The end to which lots are ordered is disclosed",
-        "la": "Capitulum 2 — The end to which lots are ordered is disclosed"
+        "en-US": "Chapter 2 — The end to which lots are ordered",
+        "la": "Caput 2"
       }
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "Chapter 3 — The manner of seeking information through lots",
-        "la": "Capitulum 3 — The manner of seeking information through lots"
+        "la": "Caput 3"
       }
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "Chapter 4 — Whence lots derive their power",
-        "la": "Capitulum 4 — Whence lots derive their power"
+        "la": "Caput 4"
       }
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "Chapter 5 — Whether it is permitted to use lots",
-        "la": "Capitulum 5 — Whether it is permitted to use lots"
+        "la": "Caput 5"
       }
     }
   ]

@@ -1,7 +1,5 @@
 # D. 18 - Power of the keys
 
-***Power of the keys***
-
 After the Master has examined penance as a whole and in its parts, here he begins to determine the power of the ministers, to whom the administration of this sacrament was committed. And this is divided into two parts: in the first, he considers the power itself, which is called the Church’s keys; in the second, he considers those having these keys, at: *after having shown what the apostolic keys are and what is their use, it remains to investigate when these keys are given and to whom* (Dist. 19). *(*Sententiae* IV, 19.1 (105).1.)*  
 
 The first part is in two parts: in the first, he raises the question of the ministers’ power from what has been said; in the second, he examines it, showing that it is called the keys of the Church, and what it extends to, at: *these keys are not corporal but spiritual*. *(*Sent*. IV, 18.2 (98).1.)*  

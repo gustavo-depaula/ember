@@ -1,7 +1,5 @@
 # D. 37 - On holy orders and uxoricide
 
-***On holy orders and uxoricide***
-
 After the Master has dealt with impediments that make persons something in between wholly eligible and wholly ineligible, here he considers the impediments that make persons wholly ineligible; and this is divided into two parts: in the first, he considers the impediments which make persons wholly ineligible with regard to any other person; in the second part he considers impediments which make persons ineligible with regard to certain persons, but not with respect to all, in Distinction 39, at: *after these matters, we must look at disparity of cult*. *(*Sententiae* IV, 39.1 (217). 1.)*  
 
 The first is divided into two: first, he addresses the impediment of holy orders; second, he addresses the impediment of the religious vow, in Distinction 38, at: *now let us examine the vow*. *(*Sent*. IV, 38.1 (214). 1.)*  

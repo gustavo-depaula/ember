@@ -1,9 +1,0 @@
-# Chapter LXI. That by the Sight of God one is Partaker of Life Everlasting
-
-**CHAPTER LXI**—*That by the Sight of God one is Partaker of Life Everlasting*
-
-ETERNITY differs from time in this, that time has being in succession, but the being of eternity is all present together. But in the sight of God there is no succession: all things that are seen in that vision are seen at one glance. That vision therefore is accomplished in a certain participation of eternity. That vision also is a certain life: for activity of intellect is a life. Therefore by that sight the created intelligence is partaker of life everlasting.
-
-4. The intellectual soul is created on the confines of eternity and time: because it is last in order of intelligences, and yet its substance is raised above corporeal matter, being independent of the same. But its action, inasmuch as it touches inferior things that are in time, is temporal. Therefore, inasmuch as it touches superior things that are above time, its action partakes of eternity. Such is especially the vision whereby it sees the divine substance. Therefore by such vision it enters into participation of eternity, and sees God in the same way as any other created intelligence.
-
-Hence the Lord says: *This is life everlasting, to know thee the only true God* (John xvii, 3).

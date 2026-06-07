@@ -1,7 +1,5 @@
 # D. 14 - Definition of penance
 
-***Definition of penance***
-
 After the Master has considered confirmation and the Eucharist, which are the sacraments of those progressing, ordered toward their perfection in good, here he begins to examine penance, which is ordered toward the removal of evil that appears in this life by the actions of those progressing. And it is divided into two parts: in the first, he defines those things that pertain to the essence of the sacrament; in the second, he examines certain accidents of this sacrament, such as time and things like that, at Distinction 20: *it must also be known that the time for repentance lasts until the last moment of life*. *(*Sententiae* IV, 20.1 (109). 1.)*  
 
 The first part is in two parts: in the first of these he considers the sacrament of penance; in the second, the minister of this sacrament, at Distinction 18: *here it is usual to ask if the sin is entirely remitted by God through contrition of the heart and from the moment when the penitent has the intention of confessing*. *(*Sent*. IV, 18.1(97).1.)*  

@@ -1,18 +1,18 @@
 {
   "id": "aquinas-to-bernard-abbot",
   "name": {
-    "en-US": "Letter to Abbot Bernard",
-    "la": "Epistola ad Bernardum Abbatem"
+    "en-US": "Letter to Abbot Bernard of Casino on the prayer of the dying",
+    "la": "Epistola ad Bernardum Abbatem Casinensem"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "A short letter of consultation from Aquinas to the Cistercian Abbot Bernard of Casamari on a matter of monastic discipline.",
-    "la": "Epistola brevis consultationis Thomae ad Bernardum abbatem Cisterciensem Casemariensem de quaestione disciplinae monasticae."
+    "en-US": "A short letter Aquinas wrote near the end of his life to Bernard Aiglier OSB, abbot of Monte Cassino, on a question about Gregory the Great's teaching on what happens to the prayer of those who die in mortal sin.",
+    "la": "Epistola brevis serotina Thomae ad Bernardum Aiglier OSB, abbatem Casinensem, super quaestione de doctrina Gregorii Magni quid orationi morientium in peccato mortali fiat."
   },
-  "composed": "c. 1264",
+  "composed": "c. 1273",
   "languages": [
     "en-US",
     "la"
@@ -20,21 +20,21 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Ad Bernardum Abbatem",
+      "description": "English translation revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Ad Bernardum Abbatem",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1 — Epistola ad Bernardum abbatem Casinensem",
-        "la": "Caput 1 — Epistola ad Bernardum abbatem Casinensem"
+        "en-US": "Letter to Abbot Bernard of Casino on the prayer of the dying",
+        "la": "Epistola ad Bernardum Abbatem Casinensem"
       }
     }
   ]

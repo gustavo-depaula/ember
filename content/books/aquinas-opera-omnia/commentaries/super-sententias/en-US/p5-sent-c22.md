@@ -1,7 +1,5 @@
 # D. 21 - Death and resurrection of Christ
 
-***Death and resurrection of Christ***
-
 ***Division of the text***
 
 After having considered the things that Christ assumed with his human nature, namely grace, knowledge, and defects, and the things that he did through his human nature, namely his merits, now the Master considers the death that he endured in his human nature.  

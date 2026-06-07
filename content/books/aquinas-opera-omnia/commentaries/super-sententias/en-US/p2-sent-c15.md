@@ -1,7 +1,5 @@
 # D. 35 - Divine knowledge
 
-***Divine knowledge***
-
 ***Division of the text***
 
 After having considered the procession of the divine persons within the unity of the essence, which is the principle and cause of created things, now, before considering created things themselves, the Master treats things in which consist the perfect account of being a principle, insofar as God is said to be the principle of created things. Now, the account of an efficient principle in things that act by a necessity of nature sufficiently consists in power and perfect virtue, upon which the effect follows unless there is some impediment on the side of the recipient. But this is not sufficient in things that act by will; indeed, over and above this, knowledge and will are required, as the Philosopher shows. *(See Aristotle, *Metaphysics* 9.5, 1047b35–48a24.)*  

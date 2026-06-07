@@ -1,7 +1,5 @@
 # D. 13 - Perfections of human nature of Christ
 
-***Perfections of human nature of Christ***
-
 ***Division of the text***
 
 After the Master has considered those things that belong to God incarnate by reason of the union, here he considers the things that follow it in virtue of either of the natures. And since the things that belong to him by reason of his divine nature, which is not diminished in the Incarnation, have been treated in Book I, it now remains to consider here the things that belong to Christ in virtue of the nature that was exalted through that Incarnation.  

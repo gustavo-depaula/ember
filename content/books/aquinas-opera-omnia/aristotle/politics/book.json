@@ -2,15 +2,15 @@
   "id": "aquinas-comm-politics",
   "name": {
     "en-US": "Commentary on the Politics",
-    "la": "Sententia Libri Politicorum"
+    "la": "Sententia super Politicam"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Aquinas's commentary on Aristotle's *Politics*. Unfinished — the Geremia mirror contains only Book I.",
-    "la": "Expositio Thomae *Politicae* Aristotelis. Opus inchoatum — speculum Geremiae solum Librum I continet."
+    "en-US": "Aquinas's commentary on Aristotle's *Politics* — on the household, the city, regimes and constitutions, slavery, citizenship, and the best forms of rule. Unfinished — Aquinas covered Books I–III; Peter of Auvergne completed the remainder.",
+    "la": "Expositio *Politicorum* Aristotelis — de domo, civitate, regiminibus, constitutionibus, servitute, civilitate, et optimis regiminis formis. Opus inchoatum — Thomas Libros I–III tractavit; Petrus Alvernius cetera complevit."
   },
   "composed": "1269–1272",
   "languages": [
@@ -20,64 +20,375 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Richard J. Regan (Hackett, 2007) — copyrighted, Book I via Geremia/AquinasOperaOmnia. Latin is Leonine (public domain)."
+      "url": "https://aquinas.cc/la/en/~Politica",
+      "description": "English translation by Richard J. Regan (Hackett, 2007) is post-2000; aquinas.cc carries an earlier translation revised by the Aquinas Institute. Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~Politica",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch001",
+      "id": "g1",
       "title": {
-        "en-US": "Lecture 1",
-        "la": "Lectio 1"
-      }
+        "en-US": "Book 1 — Prologue",
+        "la": "Liber 1"
+      },
+      "children": [
+        {
+          "id": "g1-pr",
+          "title": {
+            "en-US": "Prologue — Prologue",
+            "la": "Prooemium"
+          }
+        }
+      ]
     },
     {
-      "id": "ch001",
+      "id": "g2",
       "title": {
-        "en-US": "Lecture 1",
-        "la": "Lectio 1"
-      }
+        "en-US": "Book 2",
+        "la": "Liber 2"
+      },
+      "children": [
+        {
+          "id": "g2-pr",
+          "title": {
+            "en-US": "Prologue",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g2-c003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g2-c004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g2-c005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g2-c006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g2-c007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g2-c008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "g2-c009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "g2-c010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "g2-c011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        }
+      ]
     },
     {
-      "id": "ch002",
+      "id": "g3",
       "title": {
-        "en-US": "Lecture 2",
-        "la": "Lectio 2"
-      }
+        "en-US": "Book 3",
+        "la": "Liber 3"
+      },
+      "children": [
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g3-c002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g3-c003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g3-c004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g3-c005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g3-c006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "g3-c007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g3-c008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "g3-c009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "g3-c010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "g3-c011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "g3-c012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "g3-c013",
+          "title": {
+            "en-US": "Lecture 13",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "g3-c014",
+          "title": {
+            "en-US": "Lecture 14",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "g3-c015",
+          "title": {
+            "en-US": "Lecture 15",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "g3-c016",
+          "title": {
+            "en-US": "Lecture 16",
+            "la": "Lectio 16"
+          }
+        },
+        {
+          "id": "g3-c017",
+          "title": {
+            "en-US": "Lecture 17",
+            "la": "Lectio 17"
+          }
+        }
+      ]
     },
     {
-      "id": "ch003",
+      "id": "g4",
       "title": {
-        "en-US": "Lecture 3",
-        "la": "Lectio 3"
-      }
+        "en-US": "Book 4",
+        "la": "Liber 4"
+      },
+      "children": [
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "g4-c002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "g4-c003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "g4-c004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "g4-c005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "g4-c006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        }
+      ]
     },
     {
-      "id": "ch004",
+      "id": "g5",
       "title": {
-        "en-US": "Lecture 4",
-        "la": "Lectio 4"
-      }
-    },
-    {
-      "id": "ch005",
-      "title": {
-        "en-US": "Lecture 5",
-        "la": "Lectio 5"
-      }
-    },
-    {
-      "id": "ch006",
-      "title": {
-        "en-US": "Lecture 6",
-        "la": "Lectio 6"
-      }
+        "en-US": "Book 5 — Continuation of Peter of Auvergne",
+        "la": "Liber 5"
+      },
+      "children": [
+        {
+          "id": "g5-c007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "g5-c008",
+          "title": {
+            "en-US": "Lecture 8 — Utrum unum an plures dominari conveniat; et si plures, num optimates, an divites, an multitudo.",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "g5-c009",
+          "title": {
+            "en-US": "Lecture 9 — Multitudini committendam esse electionem magistratuum et administratarum rerum examen; magistratus autem legibus obtemperare debere, et solum in his quae lex cavere non valuit arbitrium habere.",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "g5-c010",
+          "title": {
+            "en-US": "Lecture 10 — Magistratus non esse distribuendos secundum excessum cuiuslibet boni.",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "g5-c011",
+          "title": {
+            "en-US": "Lecture 11 — Utrum nobilibus, an opulentis, an virtute praeditis, an potentioribus, attribuendi sint magistratus.",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "g5-c012",
+          "title": {
+            "en-US": "Lecture 12 — Post longam discussionem concludit excellentem probitate virum ceteris praeferendum, cum natura talis sit cui debeant omnes subesse.",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "g5-c013",
+          "title": {
+            "en-US": "Lecture 13 — Quinque regum species proponit et de qua disputaturus sit eligit.",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "g5-c014",
+          "title": {
+            "en-US": "Lecture 14 — Utrum a legibus an ab optimo rege melius sit civitatem gubernari; et de eius successione et custodia.",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "g5-c015",
+          "title": {
+            "en-US": "Lecture 15 — Obiectiones continet quae adversus regiam potestatem adduci possunt.",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "g5-c016",
+          "title": {
+            "en-US": "Lecture 16 — Declarat quibus civitatibus regem creare conveniat, et quibus optimatum administrationem.",
+            "la": "Lectio 16"
+          }
+        }
+      ]
     }
   ]
 }

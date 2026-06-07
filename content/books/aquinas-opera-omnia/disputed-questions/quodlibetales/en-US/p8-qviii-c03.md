@@ -1,7 +1,5 @@
 # On Things Pertaining to Punishment and Glory
 
-***On things pertaining to punishment***
-
 ***Question 7***
 
 ***On the spiritual punishment of the damned***

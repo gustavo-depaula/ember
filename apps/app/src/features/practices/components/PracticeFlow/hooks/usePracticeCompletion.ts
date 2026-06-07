@@ -10,6 +10,7 @@ import {
   useLogCompletion,
   useRestartProgram,
 } from '@/features/plan-of-life'
+import { getToday } from '@/hooks/useToday'
 import { successBuzz } from '@/lib/haptics'
 import { parseSlotKey } from '@/lib/slotKey'
 import { findTrackIds } from '../findTrackIds'
@@ -37,7 +38,7 @@ export function usePracticeCompletion(
   const [showCompleteModal, setShowCompleteModal] = useState(false)
 
   const handleComplete = useCallback(() => {
-    const today = format(new Date(), 'yyyy-MM-dd')
+    const today = format(getToday(), 'yyyy-MM-dd')
     const subId = slotId ?? parseSlotKey(currentSlot?.id ?? `${practiceId}::default`).slotId
 
     logCompletionMutation.mutate(

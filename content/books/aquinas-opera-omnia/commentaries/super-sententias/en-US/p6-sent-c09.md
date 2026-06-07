@@ -1,7 +1,5 @@
 # D. 31 - Duration of charity
 
-***Duration of charity***
-
 ***Division of the text***
 
 After the Master has discussed charity, here he considers its duration. This consideration is divided into two parts.  

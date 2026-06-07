@@ -1,7 +1,5 @@
 # Prime
 
-[For Prime and the other hours of the day, the antiphons of Lauds are used, except the fourth.]  
-
 [℣. O God, come to my assistance;  
 ℟. O Lord, make haste to help me.  
 

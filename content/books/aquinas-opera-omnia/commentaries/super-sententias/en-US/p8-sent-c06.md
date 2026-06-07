@@ -1,7 +1,5 @@
 # D. 19 - Use of the keys
 
-***Use of the keys***
-
 After the Master has considered the keys in themselves, he begins to determine to whom it belongs to have the keys. And this is divided into two parts: in the first, he shows that it belongs to priests to have the keys; in the second, he raises certain doubts against these, at: *but it does not seem that all, or only, priests have these keys*. *(*Sententiae* IV, 19.1 (105).1.)*  
 
 And this part is divided into two: in the first, he raises doubt about the key of knowledge; in the second, about the key of power, at: *since it is already clear that not all priests have both keys . . . it is asked concerning the other key . . . whether all priests have it*. *(*Sent*. IV, 19.1 (105).4.)*  

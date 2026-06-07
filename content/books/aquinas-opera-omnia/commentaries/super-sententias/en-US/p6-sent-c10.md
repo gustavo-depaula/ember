@@ -1,7 +1,5 @@
 # D. 32 - God's charity for us
 
-***God's charity for us***
-
 ***Division of the text***
 
 *To the above we must add [something] concerning the love of God, by which he loves us*. *(*Sent.* III, 32.1(115).1.)* After the Master has considered the love of charity by which we love God, here he examines the love by which God loves us.  

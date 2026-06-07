@@ -1,7 +1,5 @@
 # D. 2 - Purely spiritual creation
 
-***Purely spiritual creation***
-
 ***Division of the text***
 
 Here the Master begins to treat of specific created things, as far as this pertains to the consideration of a theologian. And it is divided into three parts.  

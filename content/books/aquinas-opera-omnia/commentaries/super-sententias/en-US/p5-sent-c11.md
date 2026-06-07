@@ -1,7 +1,5 @@
 # D. 10 - What belongs to the divine person on account of the union
 
-***What belongs to the divine person on account of the union***
-
 ***Division of the text***
 
 After the Master has considered what belongs or does not belong to one nature from its being associated with the other in Christ’s person, here he considers what belongs to Christ’s very person by reason of his human nature. For what belongs to him by reason of his divine nature has already been discussed, in Book I.  

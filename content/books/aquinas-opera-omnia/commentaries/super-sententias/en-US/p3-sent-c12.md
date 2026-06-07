@@ -1,7 +1,5 @@
 # D. 11 - Angelic guardianship
 
-***Angelic guardianship***
-
 ***Division of the first part of the text***
 
 After he has examined certain acts that follow on all the orders, namely, to attend and to minister, here he considers the act to which a single order is specially deputed, namely to guard men. This is divided into two parts.  

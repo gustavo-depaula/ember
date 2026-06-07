@@ -1,7 +1,5 @@
 # Compline
 
-***[Antiphons and Psalms, as in Compline, above]***
-
 ***Nunc dimittis***
 
 ***Luke 2:29–32***

@@ -1,7 +1,5 @@
 # D. 17 - Invisible Sending of the Holy Spirit
 
-***Invisible Sending of the Holy Spirit***
-
 ***Division of the first part of the Text***
 
 After he has considered the visible sending of the Holy Spirit, here he considers his invisible sending. And this is divided into two parts: in the first, he determines the truth, according to his own opinion; in the second, he responds to objections made against it, at *if the Holy Spirit is charity, and since charity may increase and diminish in a person . . . , here it is asked whether it is to be granted that the Holy Spirit may increase or diminish in a person*. *(*Sent*. I, 17.5(64).1.)*  

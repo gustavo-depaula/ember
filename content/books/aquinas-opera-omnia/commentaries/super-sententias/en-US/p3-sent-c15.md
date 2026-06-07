@@ -1,7 +1,5 @@
 # D. 14 - Work of distinction of the second and third days
 
-***Work of distinction of the second and third days***
-
 ***Division of the text***
 
 Having addressed the first work of distinction, whereby the light was formed, here he addresses the work of the second distinction, which belongs to the second day, on which the firmament is described as having been made. Now, this part is divided into two parts.  

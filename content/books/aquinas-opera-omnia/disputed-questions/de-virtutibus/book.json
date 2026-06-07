@@ -9,252 +9,348 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Five disputed questions on the virtues — on the virtues in general, on charity, on fraternal correction, on hope, and on the cardinal virtues — composed during Aquinas's second Paris regency.",
-    "la": "Quinque quaestiones disputatae de virtutibus — de virtutibus in communi, de caritate, de correctione fraterna, de spe, de virtutibus cardinalibus — in secunda regentia Parisiensi."
+    "en-US": "Five disputed questions on the virtues in general, on charity, on fraternal correction, on hope, and on the cardinal virtues — held at Paris during Aquinas's second regency.",
+    "la": "Quinque quaestiones disputatae de virtutibus in communi, de caritate, de correctione fraterna, de spe, et de virtutibus cardinalibus — apud Parisios in regentia secunda Thomae habitae."
   },
   "composed": "1271–1272",
   "languages": [
-    "en-US",
     "la"
   ],
   "sources": [
     {
-      "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by E. M. Atkins, ed. Atkins and Williams (Cambridge University Press, 2005) for some; Ralph McInerny (St. Augustine's Press, 1999) for others. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
-    },
-    {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Virtutibus",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "q01",
+      "id": "g1",
       "title": {
-        "en-US": "Question 1 — by\n\nThomas Aquinas",
+        "en-US": "Question 1 — On the virtues in general",
         "la": "Quaestio 1"
       },
       "children": [
         {
-          "id": "q01-a01",
+          "id": "g1-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On the virtues in general",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g1-c001",
+          "title": {
+            "en-US": "Article 1 — Whether the virtues are habits",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q01-a02",
+          "id": "g1-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether the definition of virtue given by Augustine is fitting",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q01-a03",
+          "id": "g1-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether a power of the soul can be the subject of a virtue",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q01-a04",
+          "id": "g1-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether the irascible and concupiscible powers can be the subject of virtue",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q01-a05",
+          "id": "g1-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether the will is the subject of virtue",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q01-a06",
+          "id": "g1-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether there is virtue in the practical intellect as in a subject",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q01-a07",
+          "id": "g1-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether there is virtue in the speculative intellect",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q01-a08",
+          "id": "g1-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether virtues are in us by nature",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q01-a09",
+          "id": "g1-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether the virtues are acquired through actions",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q01-a10",
+          "id": "g1-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether there are any virtues in people through infusion",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q01-a11",
+          "id": "g1-c011",
           "title": {
-            "en-US": "Article 11",
+            "en-US": "Article 11 — Whether infused virtue can be increased",
             "la": "Articulus 11"
           }
         },
         {
-          "id": "q01-a12",
+          "id": "g1-c012",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 12 — The distinction of the virtues",
             "la": "Articulus 12"
           }
         },
         {
-          "id": "q01-a13",
+          "id": "g1-c013",
           "title": {
-            "en-US": "Article 13",
+            "en-US": "Article 13 — Whether virtue consists in a mean",
             "la": "Articulus 13"
           }
         }
       ]
     },
     {
-      "id": "q02",
+      "id": "g2",
       "title": {
-        "en-US": "Question 2 — ON CHARITY",
+        "en-US": "Question 2 — On charity",
         "la": "Quaestio 2"
       },
       "children": [
         {
-          "id": "q02-a01",
+          "id": "g2-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On charity",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g2-c001",
+          "title": {
+            "en-US": "Article 1 — Whether charity is something created in the soul or is itself the Holy Spirit",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q02-a02",
+          "id": "g2-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether charity is a virtue",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q02-a03",
+          "id": "g2-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether charity is the form of the virtues",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q02-a04",
+          "id": "g2-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether charity is one virtue",
             "la": "Articulus 4"
           }
         },
         {
-          "id": "q02-a05",
+          "id": "g2-c005",
           "title": {
-            "en-US": "Article 5",
+            "en-US": "Article 5 — Whether or not charity is a specific virtue distinct from the other virtues",
             "la": "Articulus 5"
           }
         },
         {
-          "id": "q02-a06",
+          "id": "g2-c006",
           "title": {
-            "en-US": "Article 6",
+            "en-US": "Article 6 — Whether charity can coexist with mortal sin",
             "la": "Articulus 6"
           }
         },
         {
-          "id": "q02-a07",
+          "id": "g2-c007",
           "title": {
-            "en-US": "Article 7",
+            "en-US": "Article 7 — Whether the object of charity’s love is a rational nature",
             "la": "Articulus 7"
           }
         },
         {
-          "id": "q02-a08",
+          "id": "g2-c008",
           "title": {
-            "en-US": "Article 8",
+            "en-US": "Article 8 — Whether loving one’s enemies belongs to the perfection of counsel",
             "la": "Articulus 8"
           }
         },
         {
-          "id": "q02-a09",
+          "id": "g2-c009",
           "title": {
-            "en-US": "Article 9",
+            "en-US": "Article 9 — Whether there is an order to charity",
             "la": "Articulus 9"
           }
         },
         {
-          "id": "q02-a10",
+          "id": "g2-c010",
           "title": {
-            "en-US": "Article 10",
+            "en-US": "Article 10 — Whether it is possible for charity to be perfected in this life",
             "la": "Articulus 10"
           }
         },
         {
-          "id": "q02-a12",
+          "id": "g2-c011",
           "title": {
-            "en-US": "Article 12",
+            "en-US": "Article 11 — Whether everyone is required to have perfect charity",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "g2-c012",
+          "title": {
+            "en-US": "Article 12 — Whether charity, once possessed, can be lost",
             "la": "Articulus 12"
           }
         },
         {
-          "id": "q02-a13",
+          "id": "g2-c013",
           "title": {
-            "en-US": "Article 13",
+            "en-US": "Article 13 — Whether charity is lost through a single act of mortal sin",
             "la": "Articulus 13"
           }
         }
       ]
     },
     {
-      "id": "q05",
+      "id": "g3",
       "title": {
-        "en-US": "Question 5 — Disputed Question on the Cardinal Virtues",
-        "la": "Quaestio 5"
+        "en-US": "Question 3 — On fraternal correction",
+        "la": "Quaestio 3"
       },
       "children": [
         {
-          "id": "q05-a01",
+          "id": "g3-pr",
           "title": {
-            "en-US": "Article 1",
+            "en-US": "Prologue — On fraternal correction",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g3-c001",
+          "title": {
+            "en-US": "Article 1 — Whether fraternal correction is in a precept",
             "la": "Articulus 1"
           }
         },
         {
-          "id": "q05-a02",
+          "id": "g3-c002",
           "title": {
-            "en-US": "Article 2",
+            "en-US": "Article 2 — Whether the order of fraternal correction is in the precept given in Matthew 18",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": {
+        "en-US": "Question 4 — On hope",
+        "la": "Quaestio 4"
+      },
+      "children": [
+        {
+          "id": "g4-pr",
+          "title": {
+            "en-US": "Prologue — On hope",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g4-c001",
+          "title": {
+            "en-US": "Article 1 — Whether hope is a virtue",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "g4-c002",
+          "title": {
+            "en-US": "Article 2 — Whether hope is in the will as its subject",
             "la": "Articulus 2"
           }
         },
         {
-          "id": "q05-a03",
+          "id": "g4-c003",
           "title": {
-            "en-US": "Article 3",
+            "en-US": "Article 3 — Whether hope is prior to charity",
             "la": "Articulus 3"
           }
         },
         {
-          "id": "q05-a04",
+          "id": "g4-c004",
           "title": {
-            "en-US": "Article 4",
+            "en-US": "Article 4 — Whether hope is only present in this life",
+            "la": "Articulus 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": {
+        "en-US": "Question 5 — On the cardinal virtues",
+        "la": "Quaestio 5"
+      },
+      "children": [
+        {
+          "id": "g5-pr",
+          "title": {
+            "en-US": "Prologue — On the cardinal virtues",
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "g5-c001",
+          "title": {
+            "en-US": "Article 1 — Whether the following are the cardinal virtues: justice, prudence, fortitude, and temperance",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "g5-c002",
+          "title": {
+            "en-US": "Article 2 — Whether the virtues are interconnected",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "g5-c003",
+          "title": {
+            "en-US": "Article 3 — Whether all the virtues in a person are equal",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "g5-c004",
+          "title": {
+            "en-US": "Article 4 — Whether the cardinal virtues will remain in the life to come",
             "la": "Articulus 4"
           }
         }

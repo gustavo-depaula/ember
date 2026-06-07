@@ -1,7 +1,5 @@
 # D. 6 - Effects of the fall of the angels with regard to their nature
 
-***Effects of the fall of the angels with regard to their nature***
-
 ***Division of the text***
 
 Having shown the separation of the wicked angels from the good by defection and conversion, here he begins to consider what follows for the averted and converted in keeping with what they have in common and where they differ. And it is divided into three parts.  

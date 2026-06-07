@@ -1,7 +1,5 @@
 # D. 35 - On fornication
 
-***On fornication***
-
 After he has considered inability to have intercourse, which impedes the marital act, here he considers separation from the marriage bed because of the sin of fornication, which similarly takes away the marital act although the marriage bond endures. And this is divided into two parts: in the first, he shows how adultery following marriage removes the marital act although the marriage bond endures; in the second part, he shows how adultery preceding the marriage also removes the marriage bond, at: *it is also usual to ask whether a woman who has previously been polluted by adultery can then be taken in marriage*. *(*Sententiae* IV, 35.4 (207). 1.)*  
 
 The first has two parts: in the first part, he shows when it is permitted to put away one’s wife because of fornication; in the second part, he asks whether to put her away is necessary or whether one may also keep her, where he states: *but John Chrysostom says*, etc. *(*Sent*. IV, 35.3 (206). 5.)*  

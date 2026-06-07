@@ -1,7 +1,5 @@
 # D. 35 - Evil of fault
 
-***Evil of fault***
-
 ***Division of the text***
 
 Because there are elements to consider in actual sin—namely, the defect, whereby it has the account of evil, and the substance of the act, on the basis of which it is called an “actual” sin—having discussed actual sin as it has the account of evil, here he begins to discuss it as regards the substance of the act, in which the defect, in regard to which it is called “evil,” is founded.  

@@ -1,7 +1,5 @@
 # D. 34 - Actual sin as regards the account of evil
 
-***Actual sin as regards the account of evil***
-
 ***Division of the text***
 
 After he has addressed the original sin that passes from our first parents to their offspring by fleshly origin, here he begins to address the actual sin that passes from parents to their children by imitation of the work. This is divided into two parts.  

@@ -1,7 +1,5 @@
 # D. 12 - Order between the Father and the Son as regards the procession of the Holy Spirit
 
-Order between the Father and the Son as regards the procession of the Holy Spirit  
-
 ***Division of the text***
 
 Having shown that the Holy Spirit proceeds from the Father and the Son, here he asks whether there is any order between the Father and the Son with respect to this procession. And this is divided into three parts: in the first, he excludes the order of time; in the second, he excludes the order of dignity or power, at *now we must address the question posed second*; *(*Sent*. I, 12.2(40).1.)* in the third, he teaches that there is an order of nature, at *nevertheless Augustine, in* On the Trinity*, book 15, says that the Holy Spirit proceeds principally from the Father*. *(*Sent*. I, 12.2(40).2.)*  

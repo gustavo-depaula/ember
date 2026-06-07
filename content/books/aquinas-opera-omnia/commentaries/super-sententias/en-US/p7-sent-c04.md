@@ -1,7 +1,5 @@
 # D. 3 - Baptism in itself
 
-***Baptism in itself***
-
 After the Master has examined those things that are required for the sacraments of the New Law, here he begins to consider each individual sacrament of the New Law; and this is divided into two parts. In the first, he examines those sacraments that are directed to the remedy of one person; in the second, those that are directed to the remedy of the whole Church, at Distinction 24: *Now let us proceed to the consideration of sacred ordination*. *(Peter Lombard, *Sententiae* IV, 24.1 (131), 1.)*  
 
 The first part is divided into three: in the first, he examines the sacrament of those entering, namely, baptism; in the second, the sacraments of those progressing, at Distinction 7: *Now we must add something about the sacrament of confirmation*; *(*Sent*. IV, 7.1 (43), 1.)* in the third, the sacrament of those departing, namely, extreme unction, at Distinction 23: *After the ones mentioned above, there is another sacrament, namely, anointing of the sick*. *(*Sent*. IV, 23.1 (127), 1.)*  

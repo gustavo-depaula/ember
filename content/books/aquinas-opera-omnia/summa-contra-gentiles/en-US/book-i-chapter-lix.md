@@ -1,9 +1,0 @@
-# Chapter LIX. That the Truth to be found in Propositions is not excluded from God
-
-**CHAPTER LIX**—*That the Truth to be found in Propositions is not excluded from God*
-
-THOUGH the knowledge of the divine mind is not after the manner of combination and separation of ideas in affirmative and negative propositions, nevertheless there is not excluded from it that truth which, according to the Philosopher, obtains only in such combinations and separations.[^1] For since the truth of the intellect is an equation of the intellect and the thing, inasmuch as the intellect says that to be which is, or that not to be which is not, truth belongs to that in the intellect which the intellect says, not to the act whereby it says it; for it is not requisite to the truth of the intellect that the mere act of understanding be equated to the thing, but what the mind says and knows by understanding must be equated to the thing, so that the case of the thing shall be as the mind says it is. But God by his simple understanding, in which there is no combination and separation of ideas, knows not only the essence of things, but also the propositions that are tenable concerning them (Chap. LVII, LVIII). Thus what the divine mind says by understanding is affirmation and negation.[^2] Therefore the simplicity of the divine mind does not import the shutting out from it of truth.
-
-[^1]: The allusion is to a doctrine, common in the schools, that truth and falsehood, strictly speaking, are not found in ideas and words, but in judgements and propositions. How then is there truth in God, if He makes no propositions? That is the difficulty. The answer is, that He knows what might be said of everything, all true propositions that might be made about it, though His mind does not express itself in propositions, but is one simple apprehension.
-
-[^2]: That is to say, it is equivalent to all the knowledge that can ever be got into any affirmative or negative propositions.

@@ -1,7 +1,5 @@
 # D. 24 - Names signifying unity and plurality in the divine
 
-***Names signifying unity and plurality in the divine***
-
 ***Division of the text***
 
 After laying out the division of the divine names, and having shown that some names in the divine are predicated in the plural and others only in the singular, now the Master makes an inquiry about the names signifying the unity and plurality—how they are to be taken in God. And this is divided into two parts: in the first, he considers the very names signifying unity and plurality according to themselves; in the second, he shows how terms signifying plurality can be added to the name “person” at *moreover, . . . we must consider*. *(*Sent*. I, 25.1(102).1.)*  

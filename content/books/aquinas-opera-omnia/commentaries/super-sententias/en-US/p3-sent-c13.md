@@ -1,7 +1,5 @@
 # D. 12 - Purely bodily creation
 
-***Purely bodily creation***
-
 ***Division of the text***
 
 In the preceding part the Master examined the purely spiritual creation. In this part, he considers the purely bodily creation, insofar as this pertains to a theologian’s consideration, that is, according as it was first established by God in the works of the six days.  

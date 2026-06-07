@@ -1,7 +1,5 @@
 # D. 30 - Original sin
 
-***Original sin***
-
 ***Division of the text***
 
 After he has addressed the fall of human nature as regards the sin of our first parents, in this part he begins to address how human nature has been damaged in their offspring. This is divided into two parts.  

@@ -9,8 +9,8 @@
     "la": "Sanctus Thomas Aquinas"
   },
   "description": {
-    "en-US": "Aquinas's early metaphysical treatise, written for his Dominican brethren, on the meaning of \"being\" and \"essence\" — the foundational vocabulary of scholastic metaphysics.",
-    "la": "Tractatus metaphysicus iuvenilis, fratribus Dominicanis dictatus, de significatione \"entis\" et \"essentiae\" — vocabulario fundamentali metaphysicae scholasticae."
+    "en-US": "Aquinas's earliest philosophical treatise (c. 1252) on the metaphysics of being — distinguishing essence and existence, and showing how this distinction underwrites the contingency of creatures and the unique necessity of God.",
+    "la": "Tractatus philosophicus Thomae primus (c. 1252) de metaphysica entis — essentiam et esse distinguens, et hanc distinctionem contingentiam creaturarum et unicam Dei necessitatem fundare ostendens."
   },
   "composed": "c. 1252",
   "languages": [
@@ -20,63 +20,63 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "English translation by Robert T. Miller, mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Ente et Essentia",
+      "description": "English translation by Armand Maurer (PIMS, Toronto, 1949). Mirrored from aquinas.cc."
     },
     {
       "language": "la",
-      "url": "https://github.com/Geremia/AquinasOperaOmnia",
-      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+      "url": "https://aquinas.cc/la/en/~De Ente et Essentia",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
     }
   ],
   "toc": [
     {
-      "id": "ch-prooemium",
+      "id": "prologue",
       "title": {
-        "en-US": "Prooemium",
+        "en-US": "Prologue — Prologue",
         "la": "Prooemium"
       }
     },
     {
       "id": "ch001",
       "title": {
-        "en-US": "Chapter 1",
-        "la": "Capitulum 1"
+        "en-US": "Chapter 1 — On the meaning of the terms ‘being’ and ‘essence’",
+        "la": "Caput 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Chapter 2",
-        "la": "Capitulum 2"
+        "en-US": "Chapter 2 — On the essences of composite substances",
+        "la": "Caput 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Chapter 3",
-        "la": "Capitulum 3"
+        "en-US": "Chapter 3 — How essence is related to genus, species, and difference",
+        "la": "Caput 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Chapter 4",
-        "la": "Capitulum 4"
+        "en-US": "Chapter 4 — How essences exist in separated substances",
+        "la": "Caput 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Chapter 5",
-        "la": "Capitulum 5"
+        "en-US": "Chapter 5 — How essence is found in various kinds of things",
+        "la": "Caput 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Chapter 6",
-        "la": "Capitulum 6"
+        "en-US": "Chapter 6 — How there are essences in accidents",
+        "la": "Caput 6"
       }
     }
   ]

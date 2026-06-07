@@ -1,7 +1,5 @@
 # D. 20 - Temporal aspects of penance
 
-***Temporal aspects of penance***
-
 After the Master has examined penance and the power of the ministers to whom the administration of this sacrament belongs, here he examines certain things that come along with penance. And this is divided into two parts: in the first, he determines the time for penance; in the second, he determines certain things that belong to the effect of penance, at: *and since it was asserted above with many authorities, that sins are remitted in true contrition of heart . . . it is asked*, etc. *(*Sententiae* IV, 22.1 (125). 1.)*  
 
 The first is in two parts: in the first part, he shows that the time for penance lasts until the end of life; in the second, he raises certain questions that have arisen from what has been said, at: *it is also usual to ask*, etc. *(*Sent*. IV, 21.1 (116). 1.)*  

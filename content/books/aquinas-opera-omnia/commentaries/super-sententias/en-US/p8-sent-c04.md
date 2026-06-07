@@ -1,7 +1,5 @@
 # D. 17 - Comparing the parts of penance
 
-***Comparing the parts of penance***
-
 After the Master has distinguished the parts of penance, here he raises some questions about those parts; and it is divided into two parts: in the first he raises the questions; in the second, he pursues them in detail, at: *for some say that no one is cleansed from sin without confession by the mouth and satisfaction in deed*. *(*Sententiae* IV, 17.1 (92). 2.)*  
 
 And this part is divided into two: in the first, he details one question about the relation of contrition to confession, namely, whether by contrition alone or confession sin is forgiven; in the second, he pursues the questions about confession itself at: *let us now examine the second part of the question*. *(*Sent*. IV, 17.2 (93).1.)*  

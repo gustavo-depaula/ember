@@ -1,7 +1,5 @@
 # D. 9 - Generation of the Son
 
-***Generation of the Son***
-
 ***Division of the text***
 
 Having considered things that pertain to the unity of the essence, here he considers what pertains to the distinction of the persons. And this is divided into two parts: in the first, he considers the distinct persons; in the second, he considers the names by which both the distinction of the persons and the unity of the essence are designated, at *after the above, it seems to us that we must discuss the diversity of names*. *(*Sent*. I, 22.1(90).1.)*  

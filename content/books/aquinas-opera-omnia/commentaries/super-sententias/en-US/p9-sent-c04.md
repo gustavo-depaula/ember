@@ -1,7 +1,5 @@
 # D. 29 - On the impediment of compulsion
 
-***On the impediment of compulsion***
-
 After the Master has shown that consent is the cause of marriage, here he shows what impedes the consent, such that no marriage can be effected. And this is divided into two parts: in the first he examines the impediment of compulsion; in the second, the impediment of error, in Distinction 30, at: *nor is it coercion alone which precludes consent, but also error*. *(*Sententiae* IV, 30.1 (178). 1.)*  
 
 The first is divided into three: in the first part he shows that coercion of consent does not bring about marriage; in the second he shows that if, after the coercion, free consent should come forth, then it will be a valid marriage, at: *and yet, if those who were joined unwilling and coerced should afterwards cohabit for some length of time without objection and complaint, so long as they have had the opportunity to leave or to complain, they are deemed to consent*; *(*Sent*. IV, 29.1 (177). 3.)* in the third, how someone may be understood to have consented, where he says: *one who does not manifestly object is deemed to consent*. *(*Sent*. IV, 29.1 (177). 4.)*  

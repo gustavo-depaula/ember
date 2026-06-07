@@ -1,7 +1,5 @@
 # D. 4 - The effects of baptism
 
-***The effects of baptism***
-
 After the Master has considered baptism in what pertains to it in itself, here he considers its effect on those receiving it. And this is divided into two parts: in the first, he considers the effect of baptism commonly on all men; in the second, on infants in particular, at: *it is also usual to ask whether a grace is given to children in baptism*. *(Peter Lombard, *Sententiae* IV, 4.7 (32), 3.)*  
 
 The first is divided into three parts: in the first of these he shows how some people receive the sacrament and the reality of the sacrament; in the second how some people receive the sacrament but not the reality, at: *But those who approach without faith or under false pretenses, receive the sacrament, but not the thing*; *(*Sent*. IV, 4.2 (27), 1.)* in the third, how some people receive the reality, but not the sacrament, at: *there are also others, as we said earlier, who receive the thing and not the sacrament*. *(*Sent*. IV, 4.4 (29), 1.)*  

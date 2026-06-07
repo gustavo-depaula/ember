@@ -1,7 +1,5 @@
 # D. 28 - The command to love one's neighbor
 
-***The command to love one's neighbor***
-
 ***Division of the text***
 
 *Here it can be asked whether by that commandment of love of neighbor we are commanded to love our whole neighbor, that is, soul and body*. *(*Sent.* III, 28.1(104).1.)* Here, the Master determines the truth about charity in point of its comparison to the object of love.  

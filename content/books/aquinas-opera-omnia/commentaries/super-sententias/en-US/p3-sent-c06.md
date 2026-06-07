@@ -1,7 +1,5 @@
 # D. 5 - Conversion and fall of the angels
 
-***Conversion and fall of the angels***
-
 ***Division of the text***
 
 *After these matters, reflection requires that we enquire what they were like after being separated by their defection and conversion*. *(*Sent*. II, 5.1(20).1.)* Having shown the condition of the angels at their creation, here he shows how they differ from one another by turning away from or toward God: defection or conversion. This is divided into two parts.  

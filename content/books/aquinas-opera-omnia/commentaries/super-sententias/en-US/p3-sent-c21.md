@@ -1,7 +1,5 @@
 # D. 20 - Generation of children in the original state of man
 
-***Generation of children in the original state of man***
-
 ***Division of the text***
 
 After the Master has addressed Adam’s immortality, through which the being of the individual was preserved perpetual, here he addresses the generation of children, through which the species is multiplied in individuals.  

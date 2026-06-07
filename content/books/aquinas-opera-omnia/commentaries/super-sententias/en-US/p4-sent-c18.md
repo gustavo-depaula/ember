@@ -1,7 +1,5 @@
 # D. 38 - The act of the will
 
-***The act of the will***
-
 ***Division of the text***
 
 After addressing the acts in which sin exists in general, inquiring whether, precisely as acts, they are good and from God, here he addresses these same acts specifically. And because sin consists in an internal as well as an external act, this part is divided into two parts.  

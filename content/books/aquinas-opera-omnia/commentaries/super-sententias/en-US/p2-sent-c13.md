@@ -1,7 +1,5 @@
 # D. 33 - How the properties are compared to the essence and the person
 
-***How the properties are compared to the essence and the person***
-
 ***Division of the text***
 
 After the Master has considered the essence, the persons, and their properties, here he determines comparisons of these with respect to each other. And this is divided into two parts: in the first, he shows how the properties are related to the essence and the person; in the second, he shows how the persons are related to the essence, at *to what has been said above must be added*. *(*Sent*. I, 34.1(145).1.)*  

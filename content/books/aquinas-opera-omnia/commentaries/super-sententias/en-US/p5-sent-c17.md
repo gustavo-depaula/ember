@@ -1,7 +1,5 @@
 # D. 16 - Necessity of Christ's suffering and death
 
-***Necessity of Christ's suffering and death***
-
 ***Division of the text***
 
 After the Master has considered the defects that Christ assumed with the nature, here he asks in what manner those defects were in Christ—namely, whether in Christ there was a necessity of suffering or dying. And this is divided into two parts:  
