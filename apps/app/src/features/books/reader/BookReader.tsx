@@ -315,7 +315,7 @@ export function BookReader({ bookId, chapter }: Props) {
       }
     | undefined
   >(undefined)
-  const [editingHighlightId, setEditingHighlightId] = useState<string | undefined>(undefined)
+  const [editingHighlightId, setEditingHighlightIdState] = useState<string | undefined>(undefined)
   // When set, the note editor sheet is open for that highlight id. The
   // highlight is always persisted *before* the editor opens (so the user can
   // edit a note on a freshly-created highlight without coupling to a save).
@@ -323,14 +323,18 @@ export function BookReader({ bookId, chapter }: Props) {
   // Stable mirrors read inside the message handler so we don't rebuild it on
   // every highlights / editing change. `highlightsRef` is synced via the
   // useEffect because `setHighlights` is called from multiple async paths;
-  // `editingHighlightIdRef` is set inline at every state change to close a
-  // race where a centerTap immediately follows a highlightTap (centerTap
-  // would otherwise see the stale ref).
+  // `editingHighlightIdRef` must be set inline at every change to close a
+  // race where a centerTap immediately follows a highlightTap and would
+  // otherwise see the stale ref.
   const highlightsRef = useRef<Highlight[]>(highlights)
   const editingHighlightIdRef = useRef<string | undefined>(undefined)
   useEffect(() => {
     highlightsRef.current = highlights
   }, [highlights])
+  const setEditingHighlightId = useCallback((id: string | undefined) => {
+    editingHighlightIdRef.current = id
+    setEditingHighlightIdState(id)
+  }, [])
 
   const foliateRef = useRef<FoliateReaderHandle>(null)
   // Per-mount set of chapters we've already marked completed — prevents the
@@ -407,7 +411,6 @@ export function BookReader({ bookId, chapter }: Props) {
           // If the selection toolbar is up, dismiss it instead of toggling
           // chrome — matches the Apple Books / iOS Quick Look pattern.
           if (editingHighlightIdRef.current) {
-            editingHighlightIdRef.current = undefined
             setEditingHighlightId(undefined)
             setSelection(undefined)
             return
@@ -458,7 +461,6 @@ export function BookReader({ bookId, chapter }: Props) {
             anchor: msg.anchor,
             rect: msg.rect,
           })
-          editingHighlightIdRef.current = undefined
           setEditingHighlightId(undefined)
           return
         case 'selectionCleared':
@@ -475,7 +477,6 @@ export function BookReader({ bookId, chapter }: Props) {
             anchor: hl.anchor,
             rect: msg.rect,
           })
-          editingHighlightIdRef.current = msg.id
           setEditingHighlightId(msg.id)
           return
         }
@@ -504,7 +505,7 @@ export function BookReader({ bookId, chapter }: Props) {
         }
       }
     },
-    [leaves, cursor.save, chapterIndex, fraction, bookId, titleLookup],
+    [leaves, cursor.save, chapterIndex, fraction, bookId, titleLookup, setEditingHighlightId],
   )
 
   // Replay the persisted highlight set into the WebView whenever the engine
@@ -571,7 +572,6 @@ export function BookReader({ bookId, chapter }: Props) {
       void lightTap()
       if (editingHighlightId) {
         await updateHighlightInStore(editingHighlightId, { color })
-        // `addHighlight` is idempotent — sweeps old rects of the same id first.
         foliateRef.current?.addHighlight({
           id: editingHighlightId,
           chapterIndex: selection.chapterIndex,
@@ -581,7 +581,6 @@ export function BookReader({ bookId, chapter }: Props) {
         })
         setHighlights(listHighlights(bookId))
         setSelection(undefined)
-        editingHighlightIdRef.current = undefined
         setEditingHighlightId(undefined)
         return
       }
@@ -602,7 +601,7 @@ export function BookReader({ bookId, chapter }: Props) {
       setSelection(undefined)
       void successBuzz()
     },
-    [bookId, currentChapterId, selection, config.isDark, editingHighlightId],
+    [bookId, currentChapterId, selection, config.isDark, editingHighlightId, setEditingHighlightId],
   )
 
   const handleCopySelection = useCallback(() => {
@@ -611,9 +610,8 @@ export function BookReader({ bookId, chapter }: Props) {
     foliateRef.current?.copyText(selection.text)
     foliateRef.current?.clearSelection()
     setSelection(undefined)
-    editingHighlightIdRef.current = undefined
     setEditingHighlightId(undefined)
-  }, [selection])
+  }, [selection, setEditingHighlightId])
 
   const handleRemoveHighlight = useCallback(async () => {
     if (!editingHighlightId) return
@@ -622,20 +620,18 @@ export function BookReader({ bookId, chapter }: Props) {
     await removeHighlightFromStore(editingHighlightId)
     setHighlights(listHighlights(bookId))
     setSelection(undefined)
-    editingHighlightIdRef.current = undefined
     setEditingHighlightId(undefined)
-  }, [bookId, editingHighlightId])
+  }, [bookId, editingHighlightId, setEditingHighlightId])
 
   const handleOpenNote = useCallback(async () => {
     if (!selection || !currentChapterId) return
     void lightTap()
-    // Editing an existing highlight: just open the editor for it.
     if (editingHighlightId) {
       setNoteEditorForId(editingHighlightId)
       return
     }
-    // Fresh selection: persist a default-yellow highlight first so the note
-    // has something to attach to, then open the editor on it.
+    // Persist a default-yellow highlight first so the note has something to
+    // attach to (notes are highlights with a `note` field).
     const saved = await addHighlightToStore(bookId, {
       chapterId: currentChapterId,
       anchor: selection.anchor,
@@ -678,11 +674,10 @@ export function BookReader({ bookId, chapter }: Props) {
       setHighlights(listHighlights(bookId))
       setNoteEditorForId(undefined)
       setSelection(undefined)
-      editingHighlightIdRef.current = undefined
       setEditingHighlightId(undefined)
       void successBuzz()
     },
-    [bookId, noteEditorForId, noteEditorTarget, leaves, config.isDark],
+    [bookId, noteEditorForId, noteEditorTarget, leaves, config.isDark, setEditingHighlightId],
   )
 
   const handleDeleteNote = useCallback(async () => {
