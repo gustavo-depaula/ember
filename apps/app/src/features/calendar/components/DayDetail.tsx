@@ -2,6 +2,7 @@ import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
 
 import { ObligationBadges } from '@/components'
+import { ProseBlock } from '@/components/prayer'
 import { localizeContent } from '@/lib/i18n'
 import type { DayCalendar } from '@/lib/liturgical'
 import { useObligations } from '@/lib/liturgical'
@@ -47,9 +48,10 @@ export function DayDetail({ day }: { day: DayCalendar | undefined }) {
               {localizeContent(c.entry.name)}
             </Text>
             <RankBadge rank={c.rank} />
-            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
-              {localizeContent(c.entry.description)}
-            </Text>
+            {(() => {
+              const description = localizeContent(c.entry.description)
+              return description ? <ProseBlock text={{ primary: description }} /> : null
+            })()}
             {c.entry.holyDayOfObligation && (
               <Text fontFamily="$body" fontSize="$1" color="$accent">
                 {t('calendar.holyDay')}
