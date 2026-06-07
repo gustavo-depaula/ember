@@ -33,6 +33,7 @@ import { listCompletedChapters, markChapterCompleted } from './chapterCompletion
 import { buildChapterTimings, persistChapterTimings } from './chapterTimings'
 import { FootnoteSheet } from './FootnoteSheet'
 import {
+  type BootstrapHighlight,
   type FoliateMessage,
   FoliateReader,
   type FoliateReaderHandle,
@@ -291,10 +292,29 @@ export function BookReader({ bookId, chapter }: Props) {
   const refreshHighlights = useCallback(() => {
     setHighlights(listHighlights(bookId))
   }, [bookId])
+  // Shared shape-mapper: store-color name (`yellow` / `pink` / …) → bridge
+  // BootstrapHighlight (with the resolved CSS color + boolean note marker).
+  // Both the optimistic single-paint path and the bulk-replay useEffect map
+  // through here so the WebView always sees the same shape.
+  const toBootstrapPayload = useCallback(
+    (input: {
+      id: string
+      chapterIndex: number
+      anchor: Highlight['anchor']
+      color: HighlightColor
+      hasNote?: boolean
+    }): BootstrapHighlight => ({
+      id: input.id,
+      chapterIndex: input.chapterIndex,
+      anchor: input.anchor,
+      color: paintColorFor(input.color, config.isDark),
+      hasNote: !!input.hasNote,
+    }),
+    [config.isDark],
+  )
   // Single entry point for painting a highlight in the WebView. The bridge's
   // addHighlight is idempotent (sweeps any existing rects for the same id
-  // before drawing). Centralised so paintColorFor + the BootstrapHighlight
-  // shape are applied identically at every call site.
+  // before drawing).
   const paintHighlight = useCallback(
     (h: {
       id: string
@@ -303,15 +323,9 @@ export function BookReader({ bookId, chapter }: Props) {
       color: HighlightColor
       hasNote?: boolean
     }) => {
-      foliateRef.current?.addHighlight({
-        id: h.id,
-        chapterIndex: h.chapterIndex,
-        anchor: h.anchor,
-        color: paintColorFor(h.color, config.isDark),
-        hasNote: !!h.hasNote,
-      })
+      foliateRef.current?.addHighlight(toBootstrapPayload(h))
     },
-    [config.isDark],
+    [toBootstrapPayload],
   )
   const [foliateReady, setFoliateReady] = useState(false)
   // The scrubber dots are derived from highlight `anchor.startOffset` divided
@@ -550,17 +564,17 @@ export function BookReader({ bookId, chapter }: Props) {
       .map((h) => {
         const idx = leaves.findIndex((l) => l.id === h.chapterId)
         if (idx < 0) return undefined
-        return {
+        return toBootstrapPayload({
           id: h.cursorId,
           chapterIndex: idx,
           anchor: h.anchor,
-          color: paintColorFor(h.color, config.isDark),
+          color: h.color,
           hasNote: !!h.note,
-        }
+        })
       })
       .filter((x): x is NonNullable<typeof x> => x !== undefined)
     foliateRef.current?.setHighlights(payload)
-  }, [foliateReady, highlights, leaves, config.isDark])
+  }, [foliateReady, highlights, leaves, toBootstrapPayload])
 
   const handleBackNav = useCallback(() => {
     setNavStack((s) => {
@@ -597,6 +611,31 @@ export function BookReader({ bookId, chapter }: Props) {
     [refreshBookmarks],
   )
 
+  // Create-from-selection flow shared by handlePickColor + handleOpenNote.
+  // Returns the saved highlight (with cursorId) so callers can chain a
+  // post-save action (close the toolbar, open the note editor, etc.).
+  const persistNewHighlight = useCallback(
+    async (color: HighlightColor): Promise<Highlight | undefined> => {
+      if (!selection || !currentChapterId) return undefined
+      const saved = await addHighlightToStore(bookId, {
+        chapterId: currentChapterId,
+        anchor: selection.anchor,
+        text: selection.text,
+        color,
+      })
+      refreshHighlights()
+      paintHighlight({
+        id: saved.cursorId,
+        chapterIndex: selection.chapterIndex,
+        anchor: saved.anchor,
+        color: saved.color,
+      })
+      foliateRef.current?.clearSelection()
+      return saved
+    },
+    [bookId, currentChapterId, selection, refreshHighlights, paintHighlight],
+  )
+
   const handlePickColor = useCallback(
     async (color: HighlightColor) => {
       if (!selection || !currentChapterId) return
@@ -615,30 +654,17 @@ export function BookReader({ bookId, chapter }: Props) {
         setEditingHighlightId(undefined)
         return
       }
-      const saved = await addHighlightToStore(bookId, {
-        chapterId: currentChapterId,
-        anchor: selection.anchor,
-        text: selection.text,
-        color,
-      })
-      refreshHighlights()
-      paintHighlight({
-        id: saved.cursorId,
-        chapterIndex: selection.chapterIndex,
-        anchor: saved.anchor,
-        color: saved.color,
-      })
-      foliateRef.current?.clearSelection()
+      await persistNewHighlight(color)
       setSelection(undefined)
       void successBuzz()
     },
     [
-      bookId,
-      currentChapterId,
       selection,
+      currentChapterId,
       editingHighlightId,
       setEditingHighlightId,
       paintHighlight,
+      persistNewHighlight,
       refreshHighlights,
     ],
   )
@@ -652,15 +678,25 @@ export function BookReader({ bookId, chapter }: Props) {
     setEditingHighlightId(undefined)
   }, [selection, setEditingHighlightId])
 
+  // Bridge + store + local-state delete — used by the in-line toolbar and the
+  // highlights sheet. Callers handle their own surrounding UI state (clearing
+  // selection in the toolbar case, closing the sheet row, etc.).
+  const removeHighlightById = useCallback(
+    async (cursorId: string) => {
+      foliateRef.current?.removeHighlight(cursorId)
+      await removeHighlightFromStore(cursorId)
+      refreshHighlights()
+    },
+    [refreshHighlights],
+  )
+
   const handleRemoveHighlight = useCallback(async () => {
     if (!editingHighlightId) return
     void lightTap()
-    foliateRef.current?.removeHighlight(editingHighlightId)
-    await removeHighlightFromStore(editingHighlightId)
-    refreshHighlights()
+    await removeHighlightById(editingHighlightId)
     setSelection(undefined)
     setEditingHighlightId(undefined)
-  }, [editingHighlightId, setEditingHighlightId, refreshHighlights])
+  }, [editingHighlightId, setEditingHighlightId, removeHighlightById])
 
   const handleOpenNote = useCallback(async () => {
     if (!selection || !currentChapterId) return
@@ -671,22 +707,9 @@ export function BookReader({ bookId, chapter }: Props) {
     }
     // Persist a default-yellow highlight first so the note has something to
     // attach to (notes are highlights with a `note` field).
-    const saved = await addHighlightToStore(bookId, {
-      chapterId: currentChapterId,
-      anchor: selection.anchor,
-      text: selection.text,
-      color: 'yellow',
-    })
-    refreshHighlights()
-    paintHighlight({
-      id: saved.cursorId,
-      chapterIndex: selection.chapterIndex,
-      anchor: saved.anchor,
-      color: saved.color,
-    })
-    foliateRef.current?.clearSelection()
-    setNoteEditorForId(saved.cursorId)
-  }, [bookId, currentChapterId, selection, editingHighlightId, refreshHighlights, paintHighlight])
+    const saved = await persistNewHighlight('yellow')
+    if (saved) setNoteEditorForId(saved.cursorId)
+  }, [selection, currentChapterId, editingHighlightId, persistNewHighlight])
 
   const noteEditorTarget = noteEditorForId
     ? highlights.find((h) => h.cursorId === noteEditorForId)
@@ -838,11 +861,7 @@ export function BookReader({ bookId, chapter }: Props) {
         leaves={leaves}
         titleLookup={titleLookup}
         onSelect={(highlight, idx) => foliateRef.current?.goToAnchor(idx, highlight.anchor)}
-        onRemove={async (cursorId) => {
-          foliateRef.current?.removeHighlight(cursorId)
-          await removeHighlightFromStore(cursorId)
-          refreshHighlights()
-        }}
+        onRemove={removeHighlightById}
       />
 
       {bookEntry.toc && (

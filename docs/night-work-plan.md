@@ -334,3 +334,14 @@ Each book can now have its own preferred palette that overrides the global one. 
 - BookReader: tracks override in state, merges over `useReaderConfig()` via `resolvePalette()` for the per-book bg/color/isDark.
 - ReaderSettingsSheet: the palette picker drives whichever store is "active" (per-book if override exists, global otherwise). A small `$accent` text button below toggles between "Save this palette for this book only" and "Reset to global palette".
 - i18n: `books.paletteResetToGlobal`, `books.paletteSavePerBook`.
+
+### Feature 28 (P2.17): TOC search + native-feel pass ✅
+
+Two related changes responding to the user's "Remember that we want native feeling features!" reminder.
+
+**TOC search.** A debounced filter input in `ReaderTocSheet` with a leading Search icon. When the query is active, the tree flattens (depth=0) so matches don't get hidden inside collapsed sections. Filter is case-insensitive on the leaf title.
+
+**Native-feel pass across reader controls:**
+- Both text inputs (TOC filter + in-book search) now use iOS `clearButtonMode="while-editing"`, `returnKeyType="search"`, `autoCorrect={false}`, `autoCapitalize="none"`. The custom X clear button in `ReaderSearchSheet` was removed — the OS owns it.
+- Haptics throughout: `lightTap` on center-tap chrome toggle, palette change, per-book palette override toggle, theme change, bookmark removal. `successBuzz` on chapter completion and bookmark add.
+- i18n: `books.tocSearchPlaceholder` in en-US + pt-BR.

@@ -92,6 +92,20 @@ restriction. Plan sketch in `night-work-plan.md` under "Feature 9".
    trailing init call: `window.__foliateInit(cfg, chapters, idx, frac)`.
    Backticks in comments are now harmless; biome can autofix the file
    without risk.
+5. **Highlight WebView payload built in one place.** The optimistic
+   single-paint (`addHighlight`) and the bulk-replay useEffect
+   (`setHighlights`) used to inline the same `paintColorFor + shape`
+   mapping. Centralised into `toBootstrapPayload`; both paths route
+   through it so the WebView always sees the same shape and the color
+   palette can't drift between code paths.
+6. **Highlight remove path centralised.** `removeHighlightById` is the
+   single bridge+store+state delete; the toolbar `handleRemoveHighlight`
+   and the sheet's inline `onRemove` both go through it.
+7. **Generated foliate scripts excluded in `biome.json`, not via
+   comments.** `// biome-ignore-all format:` is a no-op (the formatter
+   has no suppression mechanism); the embedded blobs are excluded at
+   config level, with a pointer note in `bundle.mjs`. Stops biome from
+   reporting a "format would print" error on every check.
 
 ### Still tech debt (intentional, but should be cleaned later)
 

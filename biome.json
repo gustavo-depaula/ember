@@ -33,7 +33,8 @@
       "!apps/app/.expo",
       "!apps/app/expo-env.d.ts",
       "!apps/app/ios/Pods",
-      "!apps/app/src/features/books/reader/foliate/paginatorScript.ts"
+      "!apps/app/src/features/books/reader/foliate/paginatorScript.ts",
+      "!apps/app/src/features/books/reader/foliate/bootstrapScript.ts"
     ]
   }
 }

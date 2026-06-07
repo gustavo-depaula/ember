@@ -1,5 +1,3 @@
-// biome-ignore-all lint/suspicious/noTemplateCurlyInString: vendored foliate-js — ${…} sequences run inside the WebView, not in this TS module.
-// biome-ignore-all format: single-line embedded blob; reformatting would split it across thousands of lines.
 /**
  * Vendored from foliate-js (https://github.com/johnfactotum/foliate-js) — MIT.
  * See LICENSE.foliate-js. Source kept verbatim in paginator.raw.js; this file
