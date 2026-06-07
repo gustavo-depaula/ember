@@ -19,6 +19,7 @@ import { ArtCarousel } from './ArtCarousel'
 import { ArtCoverCard } from './ArtCoverCard'
 import { artFor } from './artMap'
 import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'
+import { evangelistArtFor } from './evangelistArt'
 import type { FeatureBlockData } from './FeatureBlock'
 import { FeaturedCarousel } from './FeaturedCarousel'
 import { FromRome } from './FromRome'
@@ -97,6 +98,7 @@ export function ExploreFeed() {
       label: t('bible.discovery.gospelOfTheDay'),
       title: gospel.citation ?? t('bible.discovery.gospelOfTheDay'),
       subtitle: preview,
+      image: evangelistArtFor(gospel.citation, dayIndex),
       tone: toneForKey('gospel-of-the-day'),
       onPress: () =>
         router.push({

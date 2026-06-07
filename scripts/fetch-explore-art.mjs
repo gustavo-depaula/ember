@@ -117,6 +117,23 @@ const targets = [
   { id: 'collection/dies-thursday', slug: 'dies-thursday', q: 'Juan de Juanes Salvador Eucaristía' },
   { id: 'collection/dies-friday', slug: 'dies-friday', q: 'Velázquez Cristo crucificado' },
   { id: 'collection/dies-saturday', slug: 'dies-saturday', q: 'Botticelli Madonna Magnificat Uffizi' },
+
+  // Gospel of the Day — 3 PD evangelist paintings per evangelist. The
+  // `evangelist-{name}-{1..3}` files are picked by `evangelistArt.ts` from the
+  // citation's first word ("Matthew"/"Mateus" → matthew, etc.) and rotated by
+  // dayIndex % 3 so the Explore card stays fresh through the lectionary cycles.
+  { id: 'evangelist/matthew-1', slug: 'evangelist-matthew-1', q: 'Caravaggio Inspiration Saint Matthew' },
+  { id: 'evangelist/matthew-2', slug: 'evangelist-matthew-2', q: 'Rembrandt Apostle Matthew Inspired Angel' },
+  { id: 'evangelist/matthew-3', slug: 'evangelist-matthew-3', q: 'Guido Reni Saint Matthew Angel' },
+  { id: 'evangelist/mark-1', slug: 'evangelist-mark-1', q: 'Tintoretto Miracle of the Slave Saint Mark Accademia' },
+  { id: 'evangelist/mark-2', slug: 'evangelist-mark-2', q: 'Mantegna Saint Mark Evangelist Frankfurt' },
+  { id: 'evangelist/mark-3', slug: 'evangelist-mark-3', q: 'Albrecht Dürer Four Apostles Mark Paul Munich' },
+  { id: 'evangelist/luke-1', slug: 'evangelist-luke-1', q: 'Rogier van der Weyden Saint Luke Drawing Virgin' },
+  { id: 'evangelist/luke-2', slug: 'evangelist-luke-2', q: 'El Greco Saint Luke Apostle Toledo' },
+  { id: 'evangelist/luke-3', slug: 'evangelist-luke-3', q: 'Jan Gossaert Saint Luke painting Virgin Vienna' },
+  { id: 'evangelist/john-1', slug: 'evangelist-john-1', q: 'Domenichino Saint John Evangelist eagle' },
+  { id: 'evangelist/john-2', slug: 'evangelist-john-2', q: 'Hieronymus Bosch Saint John Evangelist Patmos Berlin' },
+  { id: 'evangelist/john-3', slug: 'evangelist-john-3', q: 'Velázquez Saint John Evangelist Patmos' },
 ]
 
 const api = 'https://commons.wikimedia.org/w/api.php'
