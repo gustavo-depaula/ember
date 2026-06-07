@@ -263,6 +263,14 @@ function buildHostHtml({
 }): string {
   // The bootstrap script runs inside the WebView, not in this RN JS context.
   // Everything heavy (paginator.js) is the foliate vendor blob.
+  //
+  // !!! NO BACKTICKS ALLOWED in any comment or string inside this template
+  // literal. The first one closes the outer literal early, and biome's
+  // autofix on the resulting broken file silently corrupts the embedded JS.
+  // Use plain quotes or no quotes when referring to identifiers. The proper
+  // fix is to move the bootstrap into its own .raw.js file and inline it
+  // via bundle.mjs (same pattern as paginator.raw.js). See
+  // docs/future-plans/book-reader-followups.md.
   const bootstrap = `
     (() => {
       const post = (msg) => {
@@ -404,11 +412,17 @@ function buildHostHtml({
           this.element.style.height = '100%';
           this.element.style.pointerEvents = 'none';
         }
-        // The iframe's offset within the host viewport. range.getClientRects
-        // returns iframe-viewport-relative rects; the SVG is in the HOST doc
-        // (foliate appends it to the view container), so we translate to the
-        // SVG's local coords via: iframe_offset + rect - svg_offset.
-        _offsets() {
+        // CROSS-DOCUMENT COORDINATE TRANSLATION (load-bearing — do not
+        // simplify). The SVG is created in the iframe document but
+        // foliate appends it to the host view container, so the SVG is
+        // adopted into the host doc on insert. After adoption, the SVG
+        // bounding rect is host-viewport-relative; range.getClientRects
+        // on ranges inside the iframe doc is iframe-viewport-relative.
+        // The two coord systems differ by exactly the iframe element
+        // offset within the host. A previous simplification to
+        // (r.x - svgRect.x) made every highlight land off-screen by
+        // that delta.
+        _iframeToSvgDelta() {
           const iframe = this.doc.defaultView && this.doc.defaultView.frameElement;
           const iframeRect = iframe ? iframe.getBoundingClientRect() : { left: 0, top: 0 };
           const svgRect = this.element.getBoundingClientRect();
@@ -421,17 +435,17 @@ function buildHostHtml({
           while (this.element.firstChild) this.element.removeChild(this.element.firstChild);
           const map = highlightsByChapter.get(this.index);
           if (!map || !map.size) return;
-          const off = this._offsets();
-          for (const [id, hl] of map) this._paint(id, hl, off);
+          const delta = this._iframeToSvgDelta();
+          for (const [id, hl] of map) this._paint(id, hl, delta);
         }
         addOne(id, hl) {
-          this._paint(id, hl, this._offsets());
+          this._paint(id, hl, this._iframeToSvgDelta());
         }
         removeOne(id) {
           const nodes = this.element.querySelectorAll('[data-hl-id="' + id + '"]');
           for (let i = 0; i < nodes.length; i++) nodes[i].remove();
         }
-        _paint(id, hl, off) {
+        _paint(id, hl, delta) {
           const range = resolveAnchor(this.doc, hl.anchor);
           if (!range) return;
           const svgNs = 'http://www.w3.org/2000/svg';
@@ -442,8 +456,8 @@ function buildHostHtml({
           if (hl.hasNote && rects.length > 0) {
             const first = rects[0];
             const dot = this.doc.createElementNS(svgNs, 'circle');
-            dot.setAttribute('cx', String(first.x + off.dx - 6));
-            dot.setAttribute('cy', String(first.y + off.dy + first.height / 2));
+            dot.setAttribute('cx', String(first.x + delta.dx - 6));
+            dot.setAttribute('cy', String(first.y + delta.dy + first.height / 2));
             dot.setAttribute('r', '4');
             dot.setAttribute('fill', hl.color);
             dot.setAttribute('opacity', '1');
@@ -452,8 +466,8 @@ function buildHostHtml({
           }
           for (let i = 0; i < rects.length; i++) {
             const r = rects[i];
-            const x = r.x + off.dx;
-            const y = r.y + off.dy;
+            const x = r.x + delta.dx;
+            const y = r.y + delta.dy;
             const rect = this.doc.createElementNS(svgNs, 'rect');
             rect.setAttribute('x', String(x));
             rect.setAttribute('y', String(y));
@@ -505,6 +519,106 @@ function buildHostHtml({
         post({ type: 'relocate', index: e.detail.index, fraction: e.detail.fraction, page: current, pages: total });
       };
 
+      // Per-iframe wiring. The iframe doc is taken as an explicit parameter
+      // so it is structurally impossible to repeat the earlier TDZ bug where
+      // one wiring block referenced doc before the shared const declaration
+      // was reached; the ReferenceError silently aborted the entire load
+      // handler and disabled tap zones for every chapter.
+      const wireSelectionListener = (doc, sectionIndex) => {
+        if (!doc || doc.__selWired) return;
+        doc.__selWired = true;
+        doc.addEventListener('selectionchange', () => {
+          if (selectionDebounce) clearTimeout(selectionDebounce);
+          selectionDebounce = setTimeout(() => {
+            const sel = doc.defaultView.getSelection();
+            if (!sel || sel.rangeCount === 0 || sel.isCollapsed) {
+              post({ type: 'selectionCleared' });
+              return;
+            }
+            const range = sel.getRangeAt(0);
+            const text = range.toString();
+            if (!text || text.trim().length < 2) {
+              post({ type: 'selectionCleared' });
+              return;
+            }
+            const frame = doc.defaultView.frameElement;
+            if (!frame) return;
+            const r = range.getBoundingClientRect();
+            const frameRect = frame.getBoundingClientRect();
+            post({
+              type: 'selectionChange',
+              chapterIndex: sectionIndex,
+              text: text,
+              anchor: encodeRange(doc.body, range),
+              rect: {
+                x: frameRect.left + r.left,
+                y: frameRect.top + r.top,
+                width: r.width,
+                height: r.height,
+              },
+            });
+          }, 250);
+        });
+      };
+
+      // Tap zones inside the chapter iframe: left 30% prev, right 30% next,
+      // middle posts centerTap so the chrome can toggle. ev.clientX is
+      // iframe-local; the iframe is sized to the FULL multi-column content
+      // (much wider than the viewport) so reverse-engineering the offset
+      // from paginator.start is fragile. Use the iframe element bounding
+      // rect, which gives viewport-relative position directly; on-screen x
+      // is just rect.left + clientX.
+      const wireTapZones = (doc) => {
+        if (!doc || doc.__tapWired) return;
+        doc.__tapWired = true;
+        doc.addEventListener('click', (ev) => {
+          // Anchor click: fragment links open in a popover (footnotes,
+          // glossary); cross-references post the href up so the host can
+          // navigate + push a back-stack entry.
+          const a = ev.target && ev.target.closest && ev.target.closest('a');
+          if (a) {
+            const href = a.getAttribute('href') || '';
+            if (href.startsWith('#')) {
+              const target = doc.getElementById(href.slice(1));
+              if (target) {
+                ev.preventDefault();
+                ev.stopImmediatePropagation();
+                const html = target.innerHTML
+                  .replace(/<a[^>]*class="footnote-backref"[^>]*>[\\s\\S]*?<\\/a>/g, '')
+                  .trim();
+                post({ type: 'footnoteTap', html: html });
+              }
+              return;
+            }
+            // External http(s) links: let the system handle (or block).
+            if (/^[a-z]+:\\/\\//.test(href)) return;
+            // Anything else: assume it points at another chapter in this
+            // book. Host resolves to a leaf id and navigates.
+            ev.preventDefault();
+            ev.stopImmediatePropagation();
+            post({ type: 'crossRefTap', href: href });
+            return;
+          }
+          const frame = doc.defaultView.frameElement;
+          if (!frame) return;
+          const onScreenX = frame.getBoundingClientRect().left + ev.clientX;
+          const w = paginator.getBoundingClientRect().width;
+          if (onScreenX < w * 0.3) paginator.prev();
+          else if (onScreenX > w * 0.7) paginator.next();
+          else post({ type: 'centerTap' });
+        });
+      };
+
+      // Cross-chapter fade-in. Foliate swaps the iframe element outright on
+      // chapter boundaries, which otherwise reads as a hard snap.
+      const fadeInChapter = (doc) => {
+        const docEl = doc && doc.documentElement;
+        if (!docEl) return;
+        docEl.style.opacity = '0';
+        docEl.style.transition = 'opacity 200ms ease-out';
+        requestAnimationFrame(() => { docEl.style.opacity = '1'; });
+      };
+
       const ensurePaginator = () => {
         if (paginator) return;
         paginator = document.createElement('foliate-paginator');
@@ -535,102 +649,9 @@ function buildHostHtml({
         paginator.addEventListener('load', (e) => {
           post({ type: 'load', index: e.detail.index });
           const doc = e.detail.doc;
-          // Fade the new chapter iframe in — foliate swaps the iframe element
-          // outright on chapter boundaries, which otherwise reads as a snap.
-          const docEl = doc && doc.documentElement;
-          if (docEl) {
-            docEl.style.opacity = '0';
-            docEl.style.transition = 'opacity 200ms ease-out';
-            requestAnimationFrame(() => { docEl.style.opacity = '1'; });
-          }
-          // Selection plumbing: post stable selection state to the host so it
-          // can show the highlight toolbar at the right position.
-          if (doc && !doc.__selWired) {
-            doc.__selWired = true;
-            const sectionIndex = e.detail.index;
-            doc.addEventListener('selectionchange', () => {
-              if (selectionDebounce) clearTimeout(selectionDebounce);
-              selectionDebounce = setTimeout(() => {
-                const sel = doc.defaultView.getSelection();
-                if (!sel || sel.rangeCount === 0 || sel.isCollapsed) {
-                  post({ type: 'selectionCleared' });
-                  return;
-                }
-                const range = sel.getRangeAt(0);
-                const text = range.toString();
-                if (!text || text.trim().length < 2) {
-                  post({ type: 'selectionCleared' });
-                  return;
-                }
-                const frame = doc.defaultView.frameElement;
-                if (!frame) return;
-                const r = range.getBoundingClientRect();
-                const frameRect = frame.getBoundingClientRect();
-                post({
-                  type: 'selectionChange',
-                  chapterIndex: sectionIndex,
-                  text: text,
-                  anchor: encodeRange(doc.body, range),
-                  rect: {
-                    x: frameRect.left + r.left,
-                    y: frameRect.top + r.top,
-                    width: r.width,
-                    height: r.height,
-                  },
-                });
-              }, 250);
-            });
-          }
-          // Wire tap zones inside the chapter iframe: left 30% = prev, right
-          // 30% = next, middle posts centerTap so the chrome can toggle.
-          //
-          // ev.clientX is iframe-local and the iframe is sized to the FULL
-          // multi-column content (much wider than the viewport) and centered
-          // inside a wrapper that's even wider — reverse-engineering the
-          // offset from paginator.start is fragile. Use the iframe element's
-          // own bounding rect, which gives us its viewport-relative position
-          // directly; on-screen x is just rect.left + clientX.
-          if (doc && !doc.__tapWired) {
-            doc.__tapWired = true;
-            doc.addEventListener('click', (ev) => {
-              // Anchor click — fragment links (footnotes, glossary) open
-              // in a popover; cross-references to other chapters post the
-              // href up so the host can navigate + push a back-stack entry.
-              const a = ev.target && ev.target.closest && ev.target.closest('a');
-              if (a) {
-                const href = a.getAttribute('href') || '';
-                if (href.startsWith('#')) {
-                  const target = doc.getElementById(href.slice(1));
-                  if (target) {
-                    ev.preventDefault();
-                    ev.stopImmediatePropagation();
-                    const html = target.innerHTML
-                      .replace(/<a[^>]*class="footnote-backref"[^>]*>[\\s\\S]*?<\\/a>/g, '')
-                      .trim();
-                    post({ type: 'footnoteTap', html: html });
-                  }
-                  return;
-                }
-                // External http(s) links — let the system handle (or block).
-                if (/^[a-z]+:\\/\\//.test(href)) return;
-                // Anything else: assume it points at another chapter in this
-                // book. Host resolves to a leaf id and navigates.
-                ev.preventDefault();
-                ev.stopImmediatePropagation();
-                post({ type: 'crossRefTap', href: href });
-                return;
-              }
-              // Page-region tap: left 30% = prev, right 30% = next, middle =
-              // chrome toggle.
-              const frame = doc.defaultView.frameElement;
-              if (!frame) return;
-              const onScreenX = frame.getBoundingClientRect().left + ev.clientX;
-              const w = paginator.getBoundingClientRect().width;
-              if (onScreenX < w * 0.3) paginator.prev();
-              else if (onScreenX > w * 0.7) paginator.next();
-              else post({ type: 'centerTap' });
-            });
-          }
+          fadeInChapter(doc);
+          wireSelectionListener(doc, e.detail.index);
+          wireTapZones(doc);
         });
         document.body.append(paginator);
       };

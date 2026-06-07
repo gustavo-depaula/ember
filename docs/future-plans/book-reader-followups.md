@@ -69,23 +69,23 @@ restriction. Plan sketch in `night-work-plan.md` under "Feature 9".
 
 ## Tech debt notes
 
-### Two iOS-specific reader fixes worth remembering
+### Resolved (kept here as anchors for future archaeology)
 
-Both already shipped, but they're load-bearing and easy to undo by accident:
+1. **TDZ-sensitive `const doc` in the foliate `load` handler.** Refactored
+   into named subfunctions (`wireSelectionListener`, `wireTapZones`,
+   `fadeInChapter`) that take `doc` as an explicit parameter. The TDZ
+   class of bug is now structurally impossible.
+2. **Modal route options bundled.** The four flags that together make
+   AppleZoom + swipe-down-dismiss + clean teardown work are now a single
+   `READER_MODAL_OPTIONS` const in `browse/book/_layout.tsx` with the
+   full rationale in one place.
+3. **Coord-translation helper named for what it does.** `_offsets()`
+   renamed to `_iframeToSvgDelta()` with a tight docstring describing
+   why the cross-document translation is necessary.
 
-1. `apps/app/src/features/books/reader/foliate/FoliateReader.tsx` — the
-   `const doc = e.detail.doc` declaration in the foliate `load` event
-   handler MUST be at the top of the handler. Selection-wiring and
-   tap-wiring blocks below both reference `doc`. Putting it elsewhere
-   triggers a temporal-dead-zone ReferenceError that silently aborts the
-   handler, killing tap zones.
-2. `apps/app/src/app/(tabs)/(today,explore,library,you,search)/browse/book/_layout.tsx`
-   — the modal screen options `animation: 'default'` + `freezeOnBlur:
-   false` + `gestureDirection: 'vertical'` are all required. Removing any
-   reintroduces the touch-hijack-after-close bug or breaks swipe-down
-   dismiss.
+### Still tech debt (intentional, but should be cleaned later)
 
-### TOC rows use `router.push`, not `Link.AppleZoom`
+#### TOC rows use `router.push`, not `Link.AppleZoom`
 
 `TocNodeRow` + `CompactSectionRow` in the frontispiece used to wrap each
 row in `ZoomLink`. AppleZoom from inside a scrollable list left a snapshot
@@ -94,11 +94,23 @@ Reverted to `router.push`; the prominent BookHero CTA keeps its zoom morph
 (it works fine because it's outside the ScrollView). If we ever discover
 a way to use AppleZoom safely from inside a list, revert that change.
 
-### Highlight-paint coord math is iframe↔host translated
+#### Foliate bootstrap is an inline template literal — no backticks allowed in comments
 
-The SVG overlayer is created in the iframe doc but appended to the host
-view container (cross-doc adoption). `range.getClientRects()` returns
-iframe-viewport coords; the SVG is host-viewport. The `_offsets()` helper
-in `FoliateReader.tsx` computes `dx = iframeRect.left - svgRect.x` (and
-same for y) once per redraw and applies it to each rect. If anyone
-"simplifies" this back to `r.x - svgRect.x`, paint will land off-screen.
+`FoliateReader.tsx` embeds the WebView bootstrap script as a JS template
+literal. Any backtick character in any comment or string inside that
+literal closes it early, and the resulting parse breakage compounds when
+`biome --write` autofixes the now-half-TS file (it reformats embedded JS
+as outer TS, corrupting it irreparably). Twice now I've hit this exact
+trap by writing comments like `` `doc` ``.
+
+Defensive measures in place:
+- Prominent `!!! NO BACKTICKS` warning at the top of the template literal.
+- Don't run `biome check --write` on `FoliateReader.tsx`. Use plain
+  `biome check` to verify the file lints, and edit by hand.
+
+**Proper structural fix (future work)**: move the bootstrap into its own
+`bootstrap.raw.js` file and inline it via `bundle.mjs` — same pattern as
+`paginator.raw.js`. Comments could then use any character freely; biome
+would never see the embedded JS at all. Roughly half a day of work
+(extract, update bundle.mjs to emit a `bootstrapScript.ts`, import and
+splice into the host HTML).
