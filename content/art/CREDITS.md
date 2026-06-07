@@ -37,3 +37,15 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **collection/dies-saturday** → `dies-saturday.jpg` — Sandro Botticelli. *Madonna of the Magnificat* (c. 1481, Uffizi, Florence). Source photo by Livioandronico2013 on Wikimedia Commons (Public domain).
 - **plan-of-life-template/divine-mercy** → `tpl-divine-mercy.jpg` — Eugeniusz Kazimirowski. *Kazimirowski Eugeniusz, Divine Mercy, 1934.jpg* (Public domain).
 - **collection/thomas-aquinas** → `thomas-aquinas.jpg` — Carlo Crivelli. *St-thomas-aquinas.jpg* (Public domain).
+- **evangelist/matthew-1** → `evangelist-matthew-1.jpg` — Michelangelo Merisi da Caravaggio. *The Inspiration of Saint Matthew by Caravaggio.jpg* (Public domain).
+- **evangelist/matthew-2** → `evangelist-matthew-2.jpg` — Rembrandt. *The Evangelist Matthew Inspired by an Angel.jpg* (Public domain).
+- **evangelist/matthew-3** → `evangelist-matthew-3.jpg` — Guido Reni. *Guido Reni - St Matthew and the Angel - WGA19308.jpg* (Public domain).
+- **evangelist/mark-1** → `evangelist-mark-1.jpg` — Didier Descouens. *Accademia - Miracle of the Slave by Tintoretto.jpg* (Public domain).
+- **evangelist/mark-2** → `evangelist-mark-2.jpg` — Andrea Mantegna. *Andrea Mantegna - St. Mark the Evangelist - Google Art Project.jpg* (Public domain).
+- **evangelist/mark-3** → `evangelist-mark-3.jpg` — Albrecht Dürer. *Vier Apostel (Albrecht Duerer).jpg* (Public domain).
+- **evangelist/luke-1** → `evangelist-luke-1.jpg` — Rogier van der Weyden. *Saint Luke Drawing the Virgin MFA Boston.jpg* (Public domain).
+- **evangelist/luke-2** → `evangelist-luke-2.jpg` — El Greco. *El Greco (Doménikos Theotokópoulos) - Saint Luke - A1894 - Hispanic Society of America.jpg* (Public domain).
+- **evangelist/luke-3** → `evangelist-luke-3.jpg` — Jan Gossaert. *Jan Gossaert - St. Luke Painting the Madonna - Google Art Project.jpg* (Public domain).
+- **evangelist/john-1** → `evangelist-john-1.jpg` — Domenichino. *Zampieri St John Evangelist.jpg* (Public domain).
+- **evangelist/john-2** → `evangelist-john-2.jpg` — Hieronymus Bosch. *Johannes op Patmos Saint John on Patmos Berlin, Staatlichen Museen zu Berlin, Gemaldegalerie HR.jpg* (Public domain).
+- **evangelist/john-3** → `evangelist-john-3.jpg` — Diego Velázquez. *Diego Velázquez 018 (John the Evangelist from Patmos).jpg* (Public domain).
