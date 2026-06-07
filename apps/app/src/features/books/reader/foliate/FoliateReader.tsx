@@ -214,6 +214,11 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
       scrollEnabled={false}
       bounces={false}
       overScrollMode="never"
+      // Suppress the iOS system text-selection menu (UIEditMenuInteraction)
+      // entirely — `menuItems={[]}` is react-native-webview's documented
+      // escape hatch (Reference.md: "An empty array will suppress the
+      // menu"). Our floating ReaderSelectionToolbar replaces it.
+      menuItems={[]}
     />
   )
 })
