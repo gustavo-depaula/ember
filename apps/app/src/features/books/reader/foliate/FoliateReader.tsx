@@ -214,11 +214,12 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
       scrollEnabled={false}
       bounces={false}
       overScrollMode="never"
-      // Suppress the iOS system text-selection menu (UIEditMenuInteraction)
-      // entirely — `menuItems={[]}` is react-native-webview's documented
-      // escape hatch (Reference.md: "An empty array will suppress the
-      // menu"). Our floating ReaderSelectionToolbar replaces it.
-      menuItems={[]}
+      // NOTE: `menuItems={[]}` is documented to suppress the iOS system
+      // selection menu, but it's silently broken on iOS 16+ because
+      // react-native-webview still wires UIMenuController (deprecated) and
+      // hasn't migrated to UIEditMenuInteraction. PR #3272 fixes it but is
+      // closed unmerged. Until we patch the lib (patch-package or a config
+      // plugin), the system menu coexists with ReaderSelectionToolbar.
     />
   )
 })
