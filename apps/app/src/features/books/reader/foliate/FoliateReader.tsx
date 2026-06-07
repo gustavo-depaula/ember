@@ -215,15 +215,18 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
       bounces={false}
       overScrollMode="never"
       // Suppress the iOS system selection menu items so our floating
-      // ReaderSelectionToolbar doesn't get stacked under / next to the
-      // system menu. `menuItems={[]}` alone is insufficient on iOS 16+
-      // (only affects long-press, not selection); `suppressMenuItems`
-      // blocks the actions via `canPerformAction:withSender:` which is on
-      // the responder chain WebKit walks for its selection menu.
-      // Known gaps (per RNWebView issue #3730): the system Share + Translate
-      // items have no public selector to block — those still appear; the
-      // rest of the menu (Cut/Copy/Paste/Look Up/Select/Select All/Bold/
-      // Italic/Underline/Replace) is suppressed.
+      // ReaderSelectionToolbar doesn't end up stacked next to the system
+      // menu. `menuItems={[]}` alone is insufficient on iOS 16+ (it only
+      // affects the long-press path); `suppressMenuItems` blocks actions
+      // via `canPerformAction:withSender:`, which is on the responder
+      // chain WebKit walks when assembling its selection menu.
+      // `share` (`_share:`) and `translate` (`_translate:`) are both in
+      // the library's selector map (RNCWebViewImpl.m).
+      // Known unresolved gap: iOS 18 Writing Tools (Apple Intelligence)
+      // lives outside `canPerformAction:` and can only be suppressed via
+      // `WKWebViewConfiguration.writingToolsBehavior = .none`, which
+      // react-native-webview doesn't expose as a prop yet. It only renders
+      // for users with Apple Intelligence enabled.
       suppressMenuItems={[
         'cut',
         'copy',
@@ -235,6 +238,8 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
         'bold',
         'italic',
         'underline',
+        'share',
+        'translate',
       ]}
     />
   )
