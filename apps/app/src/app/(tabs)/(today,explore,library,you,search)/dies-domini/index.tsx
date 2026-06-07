@@ -106,13 +106,7 @@ function TodayHero({ dayKey, onPress }: { dayKey: DayKey; onPress: () => void })
             />
           </YStack>
         )}
-        <YStack
-          gap="$sm"
-          padding="$lg"
-          borderLeftWidth={3}
-          borderLeftColor="$accent"
-          backgroundColor="$backgroundSurface"
-        >
+        <YStack gap="$sm" padding="$lg" backgroundColor="$backgroundSurface">
           <XStack alignItems="baseline" gap="$sm">
             <Text
               fontFamily="$heading"
@@ -162,7 +156,7 @@ function OtherDayRow({ dayKey, onPress }: { dayKey: DayKey; onPress: () => void 
     >
       <XStack backgroundColor="$backgroundSurface" borderRadius="$md" overflow="hidden" gap="$md">
         {image ? (
-          <YStack width={96} height={96} backgroundColor="$background">
+          <YStack width={96} alignSelf="stretch" backgroundColor="$background">
             <Image
               source={image}
               style={StyleSheet.absoluteFill}
