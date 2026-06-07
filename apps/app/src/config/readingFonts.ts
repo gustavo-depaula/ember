@@ -62,3 +62,11 @@ export const readingFonts: ReadingFontDef[] = [
 export function getFontFamily(id: ReadingFontId): string {
   return readingFonts.find((f) => f.id === id)?.family ?? 'EBGaramond_400Regular'
 }
+
+// WebKit (inside react-native-webview) addresses bundled fonts by their
+// PostScript name (e.g. `EBGaramond-Regular`), not the expo-font key
+// (`EBGaramond_400Regular`). The underscore form silently falls back to a
+// system serif inside the iframe.
+export function getCssFontFamily(id: ReadingFontId): string {
+  return getFontFamily(id).replace(/_\d+(?=[A-Z])/, '-')
+}

@@ -44,6 +44,52 @@ export async function setIndex(id: string, index: number): Promise<void> {
   await emit({ type: 'CursorIndexSet', cursorId: id, index })
 }
 
+// --- Book reader cursors ---
+
+export function bookCursorId(bookId: string): string {
+  return `book/${bookId}`
+}
+
+export function bookmarkCursorPrefix(bookId: string): string {
+  return `book/${bookId}/bookmark/`
+}
+
+export function bookmarkCursorId(bookId: string, createdAt: number): string {
+  return `${bookmarkCursorPrefix(bookId)}${createdAt}`
+}
+
+export function chapterCompletionPrefix(bookId: string): string {
+  return `book/${bookId}/completed/`
+}
+
+export function chapterCompletionId(bookId: string, chapterId: string): string {
+  return `${chapterCompletionPrefix(bookId)}${chapterId}`
+}
+
+export function chapterTimingsCursorId(bookId: string): string {
+  return `book/${bookId}/timings`
+}
+
+export function readingTimeCursorId(bookId: string): string {
+  return `book/${bookId}/read-time`
+}
+
+export function readingStreakCursorId(bookId: string): string {
+  return `book/${bookId}/streak`
+}
+
+export function bookPaletteCursorId(bookId: string): string {
+  return `book/${bookId}/palette`
+}
+
+export function highlightCursorPrefix(bookId: string): string {
+  return `book/${bookId}/highlight/`
+}
+
+export function highlightCursorId(bookId: string, createdAt: number): string {
+  return `${highlightCursorPrefix(bookId)}${createdAt}`
+}
+
 // --- Program cursors ---
 
 export type ProgramCursorPosition = {

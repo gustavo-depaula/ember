@@ -2,6 +2,7 @@ import type { ContentLanguage } from '@ember/content-engine'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
+import { READER_PALETTE_IDS, type ReaderPaletteId } from '@/config/readerPalettes'
 import { type ReadingFontId, readingFonts } from '@/config/readingFonts'
 import { getAllPreferences, removePreference, setPreference } from '@/db/repositories/preferences'
 import { defaultTranslationForLanguage } from '@/lib/bolls'
@@ -46,6 +47,10 @@ type PreferencesState = {
 
   // Theme
   theme: ThemePreference
+  readerPalette: ReaderPaletteId
+
+  // Reader UX
+  bookReaderHintSeen: boolean
 
   // Reading config
   fontFamily: ReadingFontId
@@ -73,6 +78,8 @@ type PreferencesState = {
 
   // Theme setter
   setTheme: (theme: ThemePreference) => void
+  setReaderPalette: (palette: ReaderPaletteId) => void
+  setBookReaderHintSeen: (seen: boolean) => void
 
   // Reading config setters
   setFontFamily: (id: ReadingFontId) => void
@@ -97,6 +104,8 @@ export const usePreferencesStore = create<PreferencesState>()(
     secondaryLanguage: undefined,
     displayMode: 'side-by-side',
     theme: 'system',
+    readerPalette: 'auto',
+    bookReaderHintSeen: false,
     fontFamily: 'eb-garamond',
     fontSizeStep: 3,
     lineHeightStep: 5,
@@ -201,6 +210,20 @@ export const usePreferencesStore = create<PreferencesState>()(
       setPreference('theme', theme)
     },
 
+    setReaderPalette: (palette) => {
+      set((state) => {
+        state.readerPalette = palette
+      })
+      setPreference('reader-palette', palette)
+    },
+
+    setBookReaderHintSeen: (seen) => {
+      set((state) => {
+        state.bookReaderHintSeen = seen
+      })
+      setPreference('book-reader-hint-seen', seen ? '1' : '0')
+    },
+
     setFontFamily: (id) => {
       set((state) => {
         state.fontFamily = id
@@ -278,6 +301,13 @@ export const usePreferencesStore = create<PreferencesState>()(
 
         const theme = prefs.theme
         if (theme === 'light' || theme === 'dark' || theme === 'system') state.theme = theme
+
+        const readerPalette = prefs['reader-palette']
+        if (readerPalette && READER_PALETTE_IDS.includes(readerPalette as ReaderPaletteId)) {
+          state.readerPalette = readerPalette as ReaderPaletteId
+        }
+
+        if (prefs['book-reader-hint-seen'] === '1') state.bookReaderHintSeen = true
 
         const fontFamily = prefs['reading-font-family']
         if (fontFamily && validFontIds.has(fontFamily as ReadingFontId)) {

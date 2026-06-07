@@ -26,9 +26,12 @@ export default function TabsLayout() {
   // player is shown there) — otherwise the accessory renders an empty pill.
   const showPlayer = !!nowPlaying && !pathname?.endsWith(`/episode/${nowPlaying.itemId}`)
 
-  // Slide the tab bar away on the praying screen (Apple's "hide bottom bar when
-  // pushed" pattern) — that screen carries its own glass back / settings buttons.
-  const hideTabBar = pathname?.includes('/pray/') ?? false
+  // Slide the tab bar away on full-screen reading surfaces (Apple's "hide
+  // bottom bar when pushed" pattern). The book reader's WebView intercepts
+  // touches as an invisible overlay if the tab bar stays mounted — taps go
+  // dead app-wide after navigating away from the book. Hiding the tab bar
+  // forces the screen to take the whole height and unmount cleanly.
+  const hideTabBar = pathname?.includes('/pray/') || pathname?.endsWith('/read') || false
 
   return (
     <NativeTabs

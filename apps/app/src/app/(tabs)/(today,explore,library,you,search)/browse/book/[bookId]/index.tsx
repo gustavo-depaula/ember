@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query'
-import { useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronRight } from 'lucide-react-native'
+import { type Href, useLocalSearchParams, useRouter } from 'expo-router'
+import { Check, ChevronRight } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -13,28 +13,49 @@ import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
+import {
+  buildTitleLookup,
+  countLeavesUnder,
+  countTocNodes,
+  firstLeafId,
+  flattenTocLeaves,
+} from '@/features/books/reader/bookContent'
+import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
+import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
+import { ReaderTocSheet } from '@/features/books/reader/ReaderTocSheet'
+import { getReadingStreak } from '@/features/books/reader/readingStreak'
+import { getReadingTimeMs } from '@/features/books/reader/readingTime'
+import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
+import { SessionToast } from '@/features/books/SessionToast'
 import { PrologueProse } from '@/features/collections'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { localizeContent } from '@/lib/i18n'
+import { formatSoftRelative } from '@/lib/softRelative'
 import { useNowPlayingClearance } from '@/stores/creatorsStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const nativeTabBarClearance = 56
 
-type ReadingPosition = { chapterId: string; page: number }
+function formatMinutes(minutes: number): string {
+  if (minutes < 60) return `${minutes} min`
+  const h = Math.floor(minutes / 60)
+  const m = minutes % 60
+  return m === 0 ? `${h}h` : `${h}h ${m}m`
+}
 
 export default function BookDetailScreen() {
   const { bookId } = useLocalSearchParams<{ bookId: string }>()
   const { t } = useTranslation()
-  const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
+  const router = useRouter()
   const nowPlaying = useNowPlayingClearance()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const background = theme.background?.val ?? '#000000'
 
   const [addingToCollection, setAddingToCollection] = useState(false)
+  const [browsingToc, setBrowsingToc] = useState(false)
 
   const scrollY = useSharedValue(0)
   const onScroll = useAnimatedScrollHandler((e) => {
@@ -58,6 +79,38 @@ export default function BookDetailScreen() {
     return langs.includes(contentLanguage) ? contentLanguage : (langs[0] ?? 'en-US')
   }, [book?.languages, entry?.langs, contentLanguage])
 
+  const leaves = useMemo(() => (book?.toc ? flattenTocLeaves(book.toc) : []), [book?.toc])
+  const titleLookup = useMemo(
+    () => (book?.toc ? buildTitleLookup(book.toc, lang) : new Map<string, string>()),
+    [book?.toc, lang],
+  )
+  // 200 nodes is roughly the boundary where eager-rendering one
+  // Pressable+ZoomLink per node still feels snappy; beyond that the
+  // frontispiece collapses to a compact top-level view + a tap-to-open
+  // virtualized sheet (Catholic Encyclopedia is 12k+ nodes).
+  const tocTooLarge = useMemo(
+    () => (book?.toc ? countTocNodes(book.toc) > 200 : false),
+    [book?.toc],
+  )
+
+  const completed = useMemo(
+    () => (bookId ? listCompletedChapters(bookId) : new Set<string>()),
+    [bookId],
+  )
+  const chapterMinutes = useMemo(() => (bookId ? loadChapterMinutes(bookId) : undefined), [bookId])
+  const readingTimeMs = useMemo(() => (bookId ? getReadingTimeMs(bookId) : 0), [bookId])
+  const streakDays = useMemo(() => (bookId ? getReadingStreak(bookId) : 0), [bookId])
+  const minutesRemaining = useMemo(() => {
+    if (!chapterMinutes || leaves.length === 0) return undefined
+    let total = 0
+    for (const leaf of leaves) {
+      if (completed.has(leaf.id)) continue
+      const m = chapterMinutes[leaf.id]
+      if (typeof m === 'number') total += m
+    }
+    return total > 0 ? total : undefined
+  }, [chapterMinutes, leaves, completed])
+
   if (!entry) {
     return (
       <YStack flex={1} backgroundColor="$background" alignItems="center" justifyContent="center">
@@ -73,24 +126,21 @@ export default function BookDetailScreen() {
   const author = authorSrc ? localizeContent(authorSrc as never) : undefined
   const description = book?.description ? localizeContent(book.description) : undefined
 
-  // Resume: a short "Continue" pill (the long chapter title bloated the button),
-  // with the saved chapter marked in the Contents list below instead.
   const cursor = getCursor(bookRef)
-  let resumeChapterId: string | undefined
-  if (cursor) {
-    try {
-      resumeChapterId = (JSON.parse(cursor.position) as ReadingPosition).chapterId
-    } catch {
-      resumeChapterId = undefined
-    }
-  }
+  const position = cursor ? parseReaderPosition(cursor.position) : undefined
+  const resumeChapterId = position?.chapterId
   const ctaLabel = resumeChapterId ? t('book.continue') : t('book.startReading')
 
-  const openReader = (chapter?: string) =>
-    router.push({
-      pathname: '/browse/book/[bookId]/read',
-      params: chapter ? { bookId, chapter } : { bookId },
-    })
+  const currentLeafIndex = position ? leaves.findIndex((l) => l.id === position.chapterId) : -1
+  const progressFraction =
+    leaves.length > 0 && currentLeafIndex >= 0
+      ? (currentLeafIndex + (position?.fraction ?? 0)) / leaves.length
+      : 0
+
+  const readerHref = (chapter?: string): Href => ({
+    pathname: '/browse/book/[bookId]/read',
+    params: chapter ? { bookId, chapter } : { bookId },
+  })
 
   return (
     <>
@@ -109,7 +159,7 @@ export default function BookDetailScreen() {
           ctaLabel={ctaLabel}
           tone={toneByIndex(toneIndexForId(bookRef))}
           scrollY={scrollY}
-          onRead={() => openReader()}
+          readHref={readerHref()}
         />
 
         {/* Opaque column over the hero's lower bleed; paddingTop clears the
@@ -129,14 +179,32 @@ export default function BookDetailScreen() {
             onAddToCollection={() => setAddingToCollection(true)}
           />
 
+          {progressFraction > 0 && (
+            <BookProgressLine
+              fraction={progressFraction}
+              currentLeafIndex={currentLeafIndex}
+              totalLeaves={leaves.length}
+              completedCount={completed.size}
+              minutesRemaining={minutesRemaining}
+              minutesRead={readingTimeMs > 60_000 ? Math.round(readingTimeMs / 60_000) : undefined}
+              streakDays={streakDays > 1 ? streakDays : undefined}
+              updatedAt={position?.updatedAt}
+              label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
+            />
+          )}
+
           {description && <PrologueProse text={description} />}
 
           {book?.toc && book.toc.length > 0 && (
             <Contents
               toc={book.toc}
               lang={lang}
+              compact={tocTooLarge}
               currentChapterId={resumeChapterId}
-              onSelect={openReader}
+              completed={completed}
+              totalLeaves={leaves.length}
+              buildHref={readerHref}
+              onBrowseAll={() => setBrowsingToc(true)}
             />
           )}
         </YStack>
@@ -147,6 +215,22 @@ export default function BookDetailScreen() {
         open={addingToCollection}
         onClose={() => setAddingToCollection(false)}
       />
+
+      {book?.toc ? (
+        <ReaderTocSheet
+          open={browsingToc}
+          onClose={() => setBrowsingToc(false)}
+          toc={book.toc}
+          currentChapterId={resumeChapterId}
+          completedChapterIds={completed}
+          onSelect={(chapterId) => {
+            setBrowsingToc(false)
+            router.push(readerHref(chapterId))
+          }}
+        />
+      ) : null}
+
+      {bookId ? <SessionToast bookId={bookId} /> : null}
     </>
   )
 }
@@ -155,13 +239,22 @@ export default function BookDetailScreen() {
 function Contents({
   toc,
   lang,
+  compact,
   currentChapterId,
-  onSelect,
+  completed,
+  totalLeaves,
+  buildHref,
+  onBrowseAll,
 }: {
   toc: TocNode[]
   lang: string
+  /** True for huge TOCs: render only top-level sections + a "Browse all" button. */
+  compact: boolean
   currentChapterId?: string
-  onSelect: (chapterId: string) => void
+  completed: Set<string>
+  totalLeaves: number
+  buildHref: (chapterId: string) => Href
+  onBrowseAll: () => void
 }) {
   const { t } = useTranslation()
   return (
@@ -174,18 +267,113 @@ function Contents({
         <YStack flex={1} height={1} backgroundColor="$accentSubtle" />
       </XStack>
       <YStack>
-        {toc.map((node) => (
-          <TocNodeRow
-            key={node.id}
-            node={node}
-            lang={lang}
-            depth={0}
-            currentChapterId={currentChapterId}
-            onSelect={onSelect}
-          />
-        ))}
+        {compact
+          ? toc.map((node) => (
+              <CompactSectionRow
+                key={node.id}
+                node={node}
+                lang={lang}
+                completed={completed}
+                buildHref={buildHref}
+              />
+            ))
+          : toc.map((node) => (
+              <TocNodeRow
+                key={node.id}
+                node={node}
+                lang={lang}
+                depth={0}
+                currentChapterId={currentChapterId}
+                completed={completed}
+                buildHref={buildHref}
+              />
+            ))}
       </YStack>
+      {compact ? (
+        <Pressable onPress={onBrowseAll} accessibilityRole="button">
+          <XStack
+            alignItems="center"
+            justifyContent="center"
+            paddingVertical="$md"
+            borderRadius="$md"
+            backgroundColor="$accentSubtle"
+          >
+            <Typography variant="interface" fontSize="$2" color="$accent">
+              {t('book.browseAllChapters', {
+                defaultValue: 'Browse all {{count}} chapters',
+                count: totalLeaves,
+              })}
+            </Typography>
+          </XStack>
+        </Pressable>
+      ) : null}
     </YStack>
+  )
+}
+
+/**
+ * Top-level section row for huge TOCs (Catholic Encyclopedia etc.). Renders
+ * the section title + leaf count + completion fraction; tap opens the reader
+ * at the section's first leaf.
+ */
+function CompactSectionRow({
+  node,
+  lang,
+  completed,
+  buildHref,
+}: {
+  node: TocNode
+  lang: string
+  completed: Set<string>
+  buildHref: (chapterId: string) => Href
+}) {
+  const theme = useTheme()
+  const router = useRouter()
+  const title =
+    (node.title as Record<string, string>)[lang] ?? Object.values(node.title)[0] ?? node.id
+  const totalLeavesUnder = countLeavesUnder(node)
+  const completedUnder = useMemo(() => {
+    let n = 0
+    function walk(n2: TocNode) {
+      if (!n2.children?.length) {
+        if (completed.has(n2.id)) n++
+        return
+      }
+      for (const c of n2.children) walk(c)
+    }
+    walk(node)
+    return n
+  }, [node, completed])
+  const target = firstLeafId(node)
+
+  // Plain router.push (see TocNodeRow comment) — AppleZoom from inside a
+  // scrollable list left a ghost view that blocked taps on the frontispiece.
+  return (
+    <Pressable
+      onPress={() => router.push(buildHref(target))}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+    >
+      <XStack
+        alignItems="center"
+        gap="$sm"
+        paddingVertical="$md"
+        borderBottomWidth={0.5}
+        borderColor="$accentSubtle"
+      >
+        <YStack flex={1} gap="$xs">
+          <Typography variant="interface" fontSize="$3" numberOfLines={2}>
+            {title}
+          </Typography>
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.75}>
+            {completedUnder > 0
+              ? `${completedUnder} / ${totalLeavesUnder}`
+              : `${totalLeavesUnder} chapters`}
+          </Typography>
+        </YStack>
+        <ChevronRight size={16} color={theme.colorSecondary?.val} />
+      </XStack>
+    </Pressable>
   )
 }
 
@@ -194,19 +382,21 @@ function TocNodeRow({
   lang,
   depth,
   currentChapterId,
-  onSelect,
+  completed,
+  buildHref,
 }: {
   node: TocNode
   lang: string
   depth: number
   currentChapterId?: string
-  onSelect: (chapterId: string) => void
+  completed: Set<string>
+  buildHref: (chapterId: string) => Href
 }) {
   const theme = useTheme()
+  const router = useRouter()
   const title =
     (node.title as Record<string, string>)[lang] ?? Object.values(node.title)[0] ?? node.id
 
-  // A section (has children): a quiet tracked label, then its leaves indented.
   if (node.children?.length) {
     return (
       <YStack gap="$xs" paddingTop="$sm">
@@ -220,19 +410,25 @@ function TocNodeRow({
             lang={lang}
             depth={depth + 1}
             currentChapterId={currentChapterId}
-            onSelect={onSelect}
+            completed={completed}
+            buildHref={buildHref}
           />
         ))}
       </YStack>
     )
   }
 
-  // The chapter the reader left off on reads in gold — the resume marker.
   const isCurrent = !!currentChapterId && node.id === currentChapterId
+  const isCompleted = completed.has(node.id)
 
+  // Plain router.push instead of ZoomLink. AppleZoom triggered from a row
+  // inside a scrollable list appears to leave a snapshot view that blocks
+  // taps on the frontispiece after the modal dismisses (the bug doesn't
+  // recur when the user opens the reader from the BookHero CTA, which is
+  // outside the ScrollView). The Hero keeps its zoom morph.
   return (
     <Pressable
-      onPress={() => onSelect(node.id)}
+      onPress={() => router.push(buildHref(node.id))}
       accessibilityRole="link"
       accessibilityLabel={title}
     >
@@ -250,11 +446,123 @@ function TocNodeRow({
           flex={1}
           numberOfLines={2}
           color={isCurrent ? '$accent' : '$color'}
+          opacity={isCompleted && !isCurrent ? 0.6 : 1}
         >
           {title}
         </Typography>
+        {isCompleted ? (
+          <Check size={14} color={theme.accent?.val ?? theme.colorSecondary?.val} />
+        ) : null}
         <ChevronRight size={16} color={isCurrent ? theme.accent?.val : theme.colorSecondary?.val} />
       </XStack>
     </Pressable>
+  )
+}
+
+function BookProgressLine({
+  fraction,
+  currentLeafIndex,
+  totalLeaves,
+  completedCount,
+  minutesRemaining,
+  minutesRead,
+  streakDays,
+  updatedAt,
+  label,
+}: {
+  fraction: number
+  currentLeafIndex: number
+  totalLeaves: number
+  completedCount: number
+  minutesRemaining?: number
+  minutesRead?: number
+  streakDays?: number
+  updatedAt?: number
+  label?: string
+}) {
+  const { t } = useTranslation()
+  const percent = Math.max(1, Math.round(fraction * 100))
+
+  return (
+    <YStack gap="$xs" paddingHorizontal="$xs">
+      <XStack height={4} backgroundColor="$accentSubtle" borderRadius={2} overflow="hidden">
+        <YStack width={`${percent}%`} height={4} backgroundColor="$accent" borderRadius={2} />
+      </XStack>
+      <XStack alignItems="center" gap="$xs" justifyContent="space-between">
+        <Typography variant="label" fontSize="$1" color="$colorSecondary">
+          {t('book.progressLine', {
+            defaultValue: '{{percent}}% · Chapter {{current}} of {{total}}',
+            percent,
+            current: Math.max(1, currentLeafIndex + 1),
+            total: totalLeaves,
+          })}
+        </Typography>
+        {label ? (
+          <Typography
+            variant="label"
+            fontSize="$1"
+            color="$colorSecondary"
+            numberOfLines={1}
+            flex={1}
+            textAlign="right"
+            opacity={0.7}
+          >
+            {label}
+          </Typography>
+        ) : null}
+      </XStack>
+      <XStack alignItems="center" justifyContent="space-between">
+        {completedCount > 0 ? (
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+            {t('book.chaptersFinished', {
+              defaultValue: '{{done}} of {{total}} chapters finished',
+              done: completedCount,
+              total: totalLeaves,
+            })}
+          </Typography>
+        ) : (
+          <YStack />
+        )}
+        {updatedAt ? (
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+            {t('book.lastRead', {
+              defaultValue: 'Last read {{when}}',
+              when: formatSoftRelative(updatedAt, {
+                justNow: t('common.justNow', { defaultValue: 'just now' }),
+                aMomentAgo: t('common.aMomentAgo', { defaultValue: 'a moment ago' }),
+              }),
+            })}
+          </Typography>
+        ) : null}
+      </XStack>
+      <XStack alignItems="center" justifyContent="space-between">
+        {minutesRead ? (
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+            {t('book.totalReadTime', {
+              defaultValue: 'Read for {{when}}',
+              when: formatMinutes(minutesRead),
+            })}
+          </Typography>
+        ) : (
+          <YStack />
+        )}
+        {minutesRemaining ? (
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.7}>
+            {t('book.timeToFinish', {
+              defaultValue: '~{{when}} to finish',
+              when: formatMinutes(minutesRemaining),
+            })}
+          </Typography>
+        ) : null}
+      </XStack>
+      {streakDays ? (
+        <Typography variant="label" fontSize="$1" color="$accent" opacity={0.85}>
+          {t('book.streak', {
+            defaultValue: '🔥 {{count}}-day reading streak',
+            count: streakDays,
+          })}
+        </Typography>
+      ) : null}
+    </YStack>
   )
 }
