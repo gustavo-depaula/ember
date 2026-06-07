@@ -37,6 +37,16 @@ const src = raw
     'element[scrollProp], offset, 300, easeOutQuad',
     'element[scrollProp], offset, 200, easeOutQuad',
   )
+  // Promote #container to a compositor layer so JS-driven scrollLeft writes
+  // are GPU-accelerated. Without a layer hint, WebKit re-lays-out the
+  // multi-column content on every requestAnimationFrame frame and the page
+  // turn reads as low-fps even at the correct duration. `will-change:
+  // scroll-position` is the canonical hint; backstop with translateZ(0) for
+  // older WebKit versions that don't act on the hint.
+  .replace(
+    '#container {\n            grid-column: 2 / 5;\n            grid-row: 2;\n            overflow: hidden;\n        }',
+    '#container {\n            grid-column: 2 / 5;\n            grid-row: 2;\n            overflow: hidden;\n            will-change: scroll-position;\n            transform: translateZ(0);\n        }',
+  )
 
 const out = `// biome-ignore-all lint/suspicious/noTemplateCurlyInString: vendored foliate-js — \${…} sequences run inside the WebView, not in this TS module.
 // biome-ignore-all format: single-line embedded blob; reformatting would split it across thousands of lines.
