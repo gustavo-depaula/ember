@@ -1,8 +1,8 @@
 {
 	"sections": [
 		{
-			"type": "heading",
-			"text": {
+			"type": "prayer",
+			"inline": {
 				"la": "Sérviam!",
 				"en-US": "Sérviam! — I shall serve!",
 				"pt-BR": "Sérviam! — Servirei!"
@@ -305,14 +305,15 @@
 					"r": {
 						"la": "Et cum spíritu tuo.",
 						"en-US": "And with your spirit.",
-						"pt-BR": "Ele está no meio de nós."
+						"pt-BR": "E com o teu espírito."
 					}
 				}
 			]
 		},
 		{
-			"type": "rubric",
-			"text": {
+			"type": "prayer",
+			"speaker": "priest",
+			"inline": {
 				"la": "Orémus.",
 				"en-US": "Let us pray.",
 				"pt-BR": "Oremos."
