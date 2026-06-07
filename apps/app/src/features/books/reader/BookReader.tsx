@@ -275,6 +275,12 @@ export function BookReader({ bookId, chapter }: Props) {
   // ChapterCompleteToast.
   const [justCompletedTitle, setJustCompletedTitle] = useState<string | undefined>(undefined)
   const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => listBookmarks(bookId))
+  // Pull the current persisted list into local state. Called after every
+  // bookmark mutation (add / remove) so the scrubber ticks + sheet stay in
+  // sync — see the lifted-state design in `bookmarks` + `highlights` stores.
+  const refreshBookmarks = useCallback(() => {
+    setBookmarks(listBookmarks(bookId))
+  }, [bookId])
   const bookmarkFractions = useMemo(() => {
     const id = leaves[chapterIndex]?.id
     if (!id) return undefined
@@ -282,6 +288,31 @@ export function BookReader({ bookId, chapter }: Props) {
   }, [bookmarks, leaves, chapterIndex])
 
   const [highlights, setHighlights] = useState<Highlight[]>(() => listHighlights(bookId))
+  const refreshHighlights = useCallback(() => {
+    setHighlights(listHighlights(bookId))
+  }, [bookId])
+  // Single entry point for painting a highlight in the WebView. The bridge's
+  // addHighlight is idempotent (sweeps any existing rects for the same id
+  // before drawing). Centralised so paintColorFor + the BootstrapHighlight
+  // shape are applied identically at every call site.
+  const paintHighlight = useCallback(
+    (h: {
+      id: string
+      chapterIndex: number
+      anchor: Highlight['anchor']
+      color: HighlightColor
+      hasNote?: boolean
+    }) => {
+      foliateRef.current?.addHighlight({
+        id: h.id,
+        chapterIndex: h.chapterIndex,
+        anchor: h.anchor,
+        color: paintColorFor(h.color, config.isDark),
+        hasNote: !!h.hasNote,
+      })
+    },
+    [config.isDark],
+  )
   const [foliateReady, setFoliateReady] = useState(false)
   // The scrubber dots are derived from highlight `anchor.startOffset` divided
   // by the chapter's plain-text length. Foliate's column-flow doesn't expose a
@@ -554,16 +585,16 @@ export function BookReader({ bookId, chapter }: Props) {
   const handleAddBookmark = useCallback(async () => {
     if (!currentChapterId) return
     await addBookmark(bookId, { chapterId: currentChapterId, fraction }, currentChapterTitle)
-    setBookmarks(listBookmarks(bookId))
+    refreshBookmarks()
     void successBuzz()
-  }, [bookId, currentChapterId, currentChapterTitle, fraction])
+  }, [bookId, currentChapterId, currentChapterTitle, fraction, refreshBookmarks])
   const handleRemoveBookmark = useCallback(
     async (cursorId: string) => {
       await removeBookmark(cursorId)
-      setBookmarks(listBookmarks(bookId))
+      refreshBookmarks()
       void lightTap()
     },
-    [bookId],
+    [refreshBookmarks],
   )
 
   const handlePickColor = useCallback(
@@ -572,14 +603,14 @@ export function BookReader({ bookId, chapter }: Props) {
       void lightTap()
       if (editingHighlightId) {
         await updateHighlightInStore(editingHighlightId, { color })
-        foliateRef.current?.addHighlight({
+        paintHighlight({
           id: editingHighlightId,
           chapterIndex: selection.chapterIndex,
           anchor: selection.anchor,
-          color: paintColorFor(color, config.isDark),
+          color,
           hasNote: !!highlightsRef.current.find((h) => h.cursorId === editingHighlightId)?.note,
         })
-        setHighlights(listHighlights(bookId))
+        refreshHighlights()
         setSelection(undefined)
         setEditingHighlightId(undefined)
         return
@@ -590,18 +621,26 @@ export function BookReader({ bookId, chapter }: Props) {
         text: selection.text,
         color,
       })
-      setHighlights(listHighlights(bookId))
-      foliateRef.current?.addHighlight({
+      refreshHighlights()
+      paintHighlight({
         id: saved.cursorId,
         chapterIndex: selection.chapterIndex,
         anchor: saved.anchor,
-        color: paintColorFor(saved.color, config.isDark),
+        color: saved.color,
       })
       foliateRef.current?.clearSelection()
       setSelection(undefined)
       void successBuzz()
     },
-    [bookId, currentChapterId, selection, config.isDark, editingHighlightId, setEditingHighlightId],
+    [
+      bookId,
+      currentChapterId,
+      selection,
+      editingHighlightId,
+      setEditingHighlightId,
+      paintHighlight,
+      refreshHighlights,
+    ],
   )
 
   const handleCopySelection = useCallback(() => {
@@ -618,10 +657,10 @@ export function BookReader({ bookId, chapter }: Props) {
     void lightTap()
     foliateRef.current?.removeHighlight(editingHighlightId)
     await removeHighlightFromStore(editingHighlightId)
-    setHighlights(listHighlights(bookId))
+    refreshHighlights()
     setSelection(undefined)
     setEditingHighlightId(undefined)
-  }, [bookId, editingHighlightId, setEditingHighlightId])
+  }, [editingHighlightId, setEditingHighlightId, refreshHighlights])
 
   const handleOpenNote = useCallback(async () => {
     if (!selection || !currentChapterId) return
@@ -638,16 +677,16 @@ export function BookReader({ bookId, chapter }: Props) {
       text: selection.text,
       color: 'yellow',
     })
-    setHighlights(listHighlights(bookId))
-    foliateRef.current?.addHighlight({
+    refreshHighlights()
+    paintHighlight({
       id: saved.cursorId,
       chapterIndex: selection.chapterIndex,
       anchor: saved.anchor,
-      color: paintColorFor(saved.color, config.isDark),
+      color: saved.color,
     })
     foliateRef.current?.clearSelection()
     setNoteEditorForId(saved.cursorId)
-  }, [bookId, currentChapterId, selection, editingHighlightId, config.isDark])
+  }, [bookId, currentChapterId, selection, editingHighlightId, refreshHighlights, paintHighlight])
 
   const noteEditorTarget = noteEditorForId
     ? highlights.find((h) => h.cursorId === noteEditorForId)
@@ -663,21 +702,28 @@ export function BookReader({ bookId, chapter }: Props) {
       })
       const idx = leaves.findIndex((l) => l.id === noteEditorTarget.chapterId)
       if (idx >= 0) {
-        foliateRef.current?.addHighlight({
+        paintHighlight({
           id: noteEditorForId,
           chapterIndex: idx,
           anchor: noteEditorTarget.anchor,
-          color: paintColorFor(color, config.isDark),
+          color,
           hasNote: trimmed.length > 0,
         })
       }
-      setHighlights(listHighlights(bookId))
+      refreshHighlights()
       setNoteEditorForId(undefined)
       setSelection(undefined)
       setEditingHighlightId(undefined)
       void successBuzz()
     },
-    [bookId, noteEditorForId, noteEditorTarget, leaves, config.isDark, setEditingHighlightId],
+    [
+      noteEditorForId,
+      noteEditorTarget,
+      leaves,
+      paintHighlight,
+      setEditingHighlightId,
+      refreshHighlights,
+    ],
   )
 
   const handleDeleteNote = useCallback(async () => {
@@ -686,16 +732,16 @@ export function BookReader({ bookId, chapter }: Props) {
     await updateHighlightInStore(noteEditorForId, { note: undefined })
     const idx = leaves.findIndex((l) => l.id === noteEditorTarget.chapterId)
     if (idx >= 0) {
-      foliateRef.current?.addHighlight({
+      paintHighlight({
         id: noteEditorForId,
         chapterIndex: idx,
         anchor: noteEditorTarget.anchor,
-        color: paintColorFor(noteEditorTarget.color, config.isDark),
+        color: noteEditorTarget.color,
       })
     }
-    setHighlights(listHighlights(bookId))
+    refreshHighlights()
     setNoteEditorForId(undefined)
-  }, [bookId, noteEditorForId, noteEditorTarget, leaves, config.isDark])
+  }, [noteEditorForId, noteEditorTarget, leaves, refreshHighlights, paintHighlight])
 
   if (!bookEntry) {
     return (
@@ -795,7 +841,7 @@ export function BookReader({ bookId, chapter }: Props) {
         onRemove={async (cursorId) => {
           foliateRef.current?.removeHighlight(cursorId)
           await removeHighlightFromStore(cursorId)
-          setHighlights(listHighlights(bookId))
+          refreshHighlights()
         }}
       />
 

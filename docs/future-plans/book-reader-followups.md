@@ -82,6 +82,16 @@ restriction. Plan sketch in `night-work-plan.md` under "Feature 9".
 3. **Coord-translation helper named for what it does.** `_offsets()`
    renamed to `_iframeToSvgDelta()` with a tight docstring describing
    why the cross-document translation is necessary.
+4. **Bootstrap extracted from inline template literal.** The 500-line
+   WebView bootstrap used to live inside a JS template literal in
+   `FoliateReader.tsx`. Any backtick in any comment inside it closed
+   the literal early, and `biome --write` corrupted the half-broken
+   file. Now in its own `foliate/bootstrap.raw.js` file, bundled via
+   `bundle.mjs` into `bootstrapScript.ts` (same pattern as the
+   vendored paginator). The host HTML splices in both scripts plus a
+   trailing init call: `window.__foliateInit(cfg, chapters, idx, frac)`.
+   Backticks in comments are now harmless; biome can autofix the file
+   without risk.
 
 ### Still tech debt (intentional, but should be cleaned later)
 
@@ -93,24 +103,3 @@ view that blocked taps on the frontispiece after the modal dismissed.
 Reverted to `router.push`; the prominent BookHero CTA keeps its zoom morph
 (it works fine because it's outside the ScrollView). If we ever discover
 a way to use AppleZoom safely from inside a list, revert that change.
-
-#### Foliate bootstrap is an inline template literal — no backticks allowed in comments
-
-`FoliateReader.tsx` embeds the WebView bootstrap script as a JS template
-literal. Any backtick character in any comment or string inside that
-literal closes it early, and the resulting parse breakage compounds when
-`biome --write` autofixes the now-half-TS file (it reformats embedded JS
-as outer TS, corrupting it irreparably). Twice now I've hit this exact
-trap by writing comments like `` `doc` ``.
-
-Defensive measures in place:
-- Prominent `!!! NO BACKTICKS` warning at the top of the template literal.
-- Don't run `biome check --write` on `FoliateReader.tsx`. Use plain
-  `biome check` to verify the file lints, and edit by hand.
-
-**Proper structural fix (future work)**: move the bootstrap into its own
-`bootstrap.raw.js` file and inline it via `bundle.mjs` — same pattern as
-`paginator.raw.js`. Comments could then use any character freely; biome
-would never see the embedded JS at all. Roughly half a day of work
-(extract, update bundle.mjs to emit a `bootstrapScript.ts`, import and
-splice into the host HTML).
