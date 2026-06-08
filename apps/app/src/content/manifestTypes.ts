@@ -177,6 +177,9 @@ export type BookEntry = {
   // chapter without scanning. Producers can compute this implicitly when URL
   // structure encodes anchors; bundled books emit it from heading ids.
   anchors?: Record<string, { chapter: string }>
+  // Stemmed inverted index per language, fetched on first in-book search.
+  // See scripts/build-corpus.py:build_search_index_for_book for the shape.
+  searchIndex?: Record<string, BlobRef>
 }
 
 export type LangSplitItemManifest = {

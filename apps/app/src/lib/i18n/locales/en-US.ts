@@ -889,6 +889,7 @@ export default {
     searchNoResults: 'No matches',
     searchResultsCount_one: '1 match',
     searchResultsCount_other: '{{count}} matches',
+    preparingSearch: 'Preparing search…',
     bookmarks: 'Bookmarks',
     addBookmark: 'Bookmark this page',
     removeBookmark: 'Remove bookmark',
@@ -932,9 +933,6 @@ export default {
       midnight: 'Midnight',
     },
     opening: 'Opening…',
-    loadingManifest: 'Loading book…',
-    loadingChapters: 'Loading chapters ({{done}} of {{total}})',
-    loadingImages: 'Loading images ({{done}} of {{total}})',
   },
 
   position: {
