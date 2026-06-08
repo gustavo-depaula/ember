@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "Catholic Classics",
+    "pt-BR": "Catholic Classics"
+  },
+  "byline": {
+    "en-US": "Ascension · Reading the great Catholic spiritual writings"
+  },
+  "bio": {
+    "en-US": "Each season, a Catholic priest reads through a great Catholic spiritual writing with insightful commentary and practical guidance. Hosts have included Fr. Mike Schmitz, Fr. Gregory Pine, OP, Fr. Jacob Bertrand Mary, and Fr. Michael-Joseph Paris. Produced by Ascension."
+  },
+  "languages": ["en-US"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feeds.fireside.fm/catholicclassics/rss",
+      "format": "lecture",
+      "title": { "en-US": "Catholic Classics" }
+    }
+  ],
+  "links": {
+    "website": "https://catholicclassics.fireside.fm"
+  },
+  "tags": ["spiritual-classics", "formation", "commentary"]
+}
