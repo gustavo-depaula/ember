@@ -20,11 +20,11 @@ import {
   ReadingConfigBadge,
   ReadingConfigModal,
   ScreenLayout,
+  TwoColumnReaderHeader,
 } from '@/components'
 import { useCatechismStore } from '@/stores/catechismStore'
 
 import { useSegment, useSegments } from '../hooks'
-import { CatechismHeader } from './CatechismHeader'
 import { SegmentContent } from './SegmentContent'
 import { SegmentList } from './SegmentList'
 import { SegmentNav } from './SegmentNav'
@@ -214,11 +214,14 @@ export function CatechismReader() {
           <Animated.View style={[{ width: screenWidth }, dimStyle]}>
             <ScreenLayout>
               <YStack flex={1}>
-                <CatechismHeader
-                  sectionName={sectionName}
-                  paragraphRange={paragraphRange}
-                  onTocPress={openTocDrawer}
-                  onSectionPress={openSectionDrawer}
+                <TwoColumnReaderHeader
+                  variant="heading"
+                  leftLabel={sectionName}
+                  rightValue={paragraphRange}
+                  onLeftPress={openTocDrawer}
+                  onRightPress={openSectionDrawer}
+                  leftA11yLabel={t('a11y.openTableOfContents')}
+                  rightA11yLabel={t('a11y.selectSection')}
                 />
                 {renderContent()}
               </YStack>
