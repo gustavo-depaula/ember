@@ -8,25 +8,37 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"en-US": "For purity of body:\n\nHail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.",
-				"pt-BR": "Pela pureza do corpo:\n\nAve Maria, cheia de graça, o Senhor é convosco; bendita sois Vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém."
+			"type": "rubric",
+			"text": {
+				"en-US": "For purity of body.",
+				"pt-BR": "Pela pureza do corpo."
 			}
 		},
 		{
 			"type": "prayer",
-			"inline": {
-				"en-US": "For purity of mind:\n\nHail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.",
-				"pt-BR": "Pela pureza da mente:\n\nAve Maria, cheia de graça, o Senhor é convosco; bendita sois Vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém."
+			"ref": "hail-mary"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "For purity of mind.",
+				"pt-BR": "Pela pureza da mente."
 			}
 		},
 		{
 			"type": "prayer",
-			"inline": {
-				"en-US": "For purity of heart:\n\nHail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.",
-				"pt-BR": "Pela pureza do coração:\n\nAve Maria, cheia de graça, o Senhor é convosco; bendita sois Vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém."
+			"ref": "hail-mary"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "For purity of heart.",
+				"pt-BR": "Pela pureza do coração."
 			}
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
 		},
 		{
 			"type": "prayer",
