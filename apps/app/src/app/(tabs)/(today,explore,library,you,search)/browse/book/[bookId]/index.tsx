@@ -353,6 +353,7 @@ function CompactSectionRow({
       onPress={() => router.push(buildHref(target))}
       accessibilityRole="link"
       accessibilityLabel={title}
+      style={{ width: '100%' }}
     >
       <XStack
         alignItems="center"
@@ -431,6 +432,7 @@ function TocNodeRow({
       onPress={() => router.push(buildHref(node.id))}
       accessibilityRole="link"
       accessibilityLabel={title}
+      style={{ width: '100%' }}
     >
       <XStack
         alignItems="center"
