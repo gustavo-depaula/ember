@@ -957,6 +957,8 @@ export default {
       themedReadings: 'Find Something to Read',
       continueReading: 'Continue Reading',
       openBible: 'Browse the Bible',
+      openBibleLabel: 'The Word',
+      openBibleHint: 'Old & New Testaments, by book',
     },
   },
 

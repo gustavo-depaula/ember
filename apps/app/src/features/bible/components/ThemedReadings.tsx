@@ -1,23 +1,29 @@
-import { useRouter } from 'expo-router'
+import { Link } from 'expo-router'
 import {
+  Anchor,
+  BookOpen,
   Flame,
   HandHeart,
   Heart,
   type LucideIcon,
   Shield,
-  Smile,
   Sparkles,
   Sun,
   Waves,
 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { useWindowDimensions } from 'react-native'
+import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, SectionDivider } from '@/components'
+import { AnimatedPressable } from '@/components'
+import { Typography } from '@/components/typography'
 import { getAllManifests } from '@/content/resolver'
-import type { PracticeManifest } from '@/content/types'
+import { type BlockTone, blockInk, toneForKey } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
+// Per-theme icon, matched on the practice id suffix. Keeps the semantic of the
+// pre-facelift grid (Waves = anxiety, Shield = courage…) so a glance still tells
+// you what each tile is — abstract versal letters were too quiet here.
 const themeIcons: Record<string, LucideIcon> = {
   'scripture-anxiety': Waves,
   'scripture-gratitude': Sun,
@@ -25,90 +31,114 @@ const themeIcons: Record<string, LucideIcon> = {
   'scripture-joy': Sparkles,
   'scripture-forgiveness': HandHeart,
   'scripture-courage': Shield,
-  'scripture-trust': Heart,
-  'scripture-love': Smile,
+  // Anchor of the soul (Heb. 6:19) — trust as a steady anchor, freeing Heart
+  // for love (its more universal symbol).
+  'scripture-trust': Anchor,
+  'scripture-love': Heart,
 }
 
 function resolveIcon(id: string): LucideIcon {
   for (const [key, icon] of Object.entries(themeIcons)) {
     if (id.endsWith(key)) return icon
   }
-  return Sparkles
+  return BookOpen
 }
 
-function ScriptureTile({ manifest, onPress }: { manifest: PracticeManifest; onPress: () => void }) {
-  const theme = useTheme()
-  const Icon = resolveIcon(manifest.id)
-  const name = localizeContent(manifest.name)
+const columns = 2
+const gutter = 14
 
-  return (
-    <AnimatedPressable
-      onPress={onPress}
-      style={{ width: '48%' }}
-      accessibilityRole="link"
-      accessibilityLabel={name}
-    >
-      <YStack
-        backgroundColor="$backgroundSurface"
-        borderRadius="$lg"
-        padding="$md"
-        gap="$sm"
-        borderWidth={1}
-        borderColor="$borderColor"
-        aspectRatio={1}
-        justifyContent="center"
-        alignItems="center"
-      >
-        <Icon size={28} color={theme.accent.val} />
-        <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
-          {name}
-        </Text>
-      </YStack>
-    </AnimatedPressable>
-  )
+function useCardSize(): number {
+  const { width } = useWindowDimensions()
+  const content = Math.min(width, 640) - 24 * 2
+  return Math.floor((content - gutter * (columns - 1)) / columns)
 }
 
 export function ThemedReadings() {
   const { t } = useTranslation()
-  const router = useRouter()
+  const size = useCardSize()
 
+  // Drop Gospel of the Day — it already has its own hero card above this grid.
+  // `endsWith` covers bare ids and any future namespace prefix (`practice/…`).
   const scripturePractices = getAllManifests().filter(
-    (m) =>
-      m.categories?.includes('scripture') &&
-      m.id !== 'gospel-of-the-day' &&
-      !m.id.endsWith(':gospel-of-the-day'),
+    (m) => m.categories?.includes('scripture') && !m.id.endsWith('gospel-of-the-day'),
   )
 
   if (scripturePractices.length === 0) return null
 
   return (
-    <>
-      <SectionDivider />
-      <YStack gap="$sm">
-        <Text
-          fontFamily="$heading"
-          fontSize="$2"
-          color="$colorSecondary"
-          textTransform="uppercase"
-          letterSpacing={1}
+    <YStack gap="$md">
+      <Typography
+        variant="marker"
+        textAlign="left"
+        color="$colorSecondary"
+        fontSize="$1"
+        letterSpacing={1.5}
+      >
+        {t('bible.discovery.themedReadings')}
+      </Typography>
+      <XStack flexWrap="wrap" gap={gutter}>
+        {scripturePractices.map((manifest) => (
+          <ThemeTile
+            key={manifest.id}
+            id={manifest.id}
+            title={localizeContent(manifest.name)}
+            tone={toneForKey(manifest.id)}
+            size={size}
+          />
+        ))}
+      </XStack>
+    </YStack>
+  )
+}
+
+function ThemeTile({
+  id,
+  title,
+  tone,
+  size,
+}: {
+  id: string
+  title: string
+  tone: BlockTone
+  size: number
+}) {
+  const Icon = resolveIcon(id)
+  const iconSize = Math.round(size * 0.28)
+
+  return (
+    <Link
+      href={{ pathname: '/pray/[practiceId]', params: { practiceId: id } }}
+      asChild
+      accessibilityLabel={title}
+    >
+      <AnimatedPressable accessibilityRole="link" accessibilityLabel={title}>
+        <YStack
+          width={size}
+          height={size}
+          borderRadius={14}
+          overflow="hidden"
+          backgroundColor={tone.from}
+          alignItems="center"
+          justifyContent="center"
+          padding="$md"
+          gap="$sm"
+          shadowColor="#000"
+          shadowOffset={{ width: 0, height: 6 }}
+          shadowOpacity={0.18}
+          shadowRadius={12}
         >
-          {t('bible.discovery.themedReadings')}
-        </Text>
-        <XStack flexWrap="wrap" gap="$sm" justifyContent="space-between">
-          {scripturePractices.map((manifest) => (
-            <ScriptureTile
-              key={manifest.id}
-              manifest={manifest}
-              onPress={() =>
-                router.push({
-                  pathname: '/pray/[practiceId]',
-                  params: { practiceId: manifest.id },
-                })
-              }
-            />
-          ))}
-        </XStack>
-      </YStack>
-    </>
+          <Icon size={iconSize} color={blockInk} strokeWidth={1.2} />
+          <Text
+            fontFamily="$heading"
+            fontSize="$3"
+            color={blockInk}
+            textAlign="center"
+            numberOfLines={2}
+          >
+            {title}
+          </Text>
+        </YStack>
+      </AnimatedPressable>
+    </Link>
   )
 }

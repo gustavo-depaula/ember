@@ -1,14 +1,16 @@
 import { useRouter } from 'expo-router'
-import { Book } from 'lucide-react-native'
+import { BookOpen } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
+import { Typography } from '@/components/typography'
+import { blockInk, toneForKey } from '@/features/explore/bgColor'
 
 export function OpenBibleCard() {
   const { t } = useTranslation()
   const router = useRouter()
-  const theme = useTheme()
+  const tone = toneForKey('bible-reader')
 
   return (
     <AnimatedPressable
@@ -16,33 +18,39 @@ export function OpenBibleCard() {
       accessibilityRole="link"
       accessibilityLabel={t('bible.discovery.openBible')}
     >
-      <XStack
-        backgroundColor="$backgroundSurface"
-        borderRadius="$lg"
-        padding="$md"
-        gap="$md"
-        alignItems="center"
-        borderWidth={1}
-        borderColor="$borderColor"
-      >
+      <XStack backgroundColor="$backgroundSurface" borderRadius="$md" overflow="hidden">
         <YStack
-          width={36}
-          height={36}
+          width={96}
+          alignSelf="stretch"
+          backgroundColor={tone.from}
           alignItems="center"
           justifyContent="center"
-          backgroundColor="$accentSubtle"
-          borderRadius="$md"
         >
-          <Book size={20} color={theme.accent.val} />
+          <BookOpen size={28} color={blockInk} strokeWidth={1.4} />
         </YStack>
-        <YStack flex={1} gap={2}>
-          <Text fontFamily="$heading" fontSize="$3" color="$color">
+        <YStack
+          flex={1}
+          gap={4}
+          paddingVertical="$md"
+          paddingHorizontal="$md"
+          justifyContent="center"
+        >
+          <Typography
+            variant="marker"
+            textAlign="left"
+            color="$accent"
+            fontSize="$1"
+            letterSpacing={1.5}
+          >
+            {t('bible.discovery.openBibleLabel')}
+          </Typography>
+          <Typography variant="sacred-title" textAlign="left" fontSize="$3" color="$color">
             {t('bible.discovery.openBible')}
-          </Text>
+          </Typography>
+          <Typography variant="whisper" fontSize="$1" color="$colorSecondary" numberOfLines={1}>
+            {t('bible.discovery.openBibleHint')}
+          </Typography>
         </YStack>
-        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-          ›
-        </Text>
       </XStack>
     </AnimatedPressable>
   )
