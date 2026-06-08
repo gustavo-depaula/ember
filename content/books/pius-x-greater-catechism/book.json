@@ -1,66 +1,96 @@
 {
   "id": "pius-x-greater-catechism",
   "name": {
-    "it": "Catechismo Maggiore"
+    "it": "Catechismo Maggiore",
+    "pt-BR": "Catecismo Maior",
+    "en-US": "Greater Catechism"
   },
   "author": {
-    "it": "San Pio X"
+    "it": "San Pio X",
+    "pt-BR": "São Pio X",
+    "en-US": "Pope Saint Pius X"
   },
   "description": {
-    "it": "Il Catechismo Maggiore promulgato da Papa San Pio X il 14 giugno 1905 per la Diocesi e Provincia di Roma. Edizione ampia in circa 993 domande e risposte, distinta dal più breve Catechismo della Dottrina Cristiana del 1912. Comprende l'Avvertenza, la lettera di promulgazione, le Orazioni quotidiane ed altre preci (preghiere del mattino e della sera, atti di fede/speranza/carità/contrizione, preparazione alla Confessione e alla Santa Comunione, misteri del Rosario, modo di servire la S. Messa), le Prime nozioni di catechismo, la Lezione preliminare e le cinque parti canoniche: Credo, Orazione, Comandamenti, Sacramenti, Virtù."
+    "it": "Il Catechismo Maggiore promulgato da Papa San Pio X il 14 giugno 1905 per la Diocesi e Provincia di Roma. Edizione ampia in circa 993 domande e risposte, distinta dal più breve Catechismo della Dottrina Cristiana del 1912. Comprende l'Avvertenza, la lettera di promulgazione, le Orazioni quotidiane ed altre preci (preghiere del mattino e della sera, atti di fede/speranza/carità/contrizione, preparazione alla Confessione e alla Santa Comunione, misteri del Rosario, modo di servire la S. Messa), le Prime nozioni di catechismo, la Lezione preliminare e le cinque parti canoniche: Credo, Orazione, Comandamenti, Sacramenti, Virtù.",
+    "pt-BR": "O Catecismo Maior promulgado pelo Papa São Pio X em 14 de junho de 1905 para a Diocese e Província de Roma. Edição ampla com cerca de 993 perguntas e respostas, distinta do Catecismo da Doutrina Cristã, mais breve, de 1912. Compreende a Advertência, a carta de promulgação, as Orações cotidianas e outras preces (orações da manhã e da noite, atos de fé/esperança/caridade/contrição, preparação para a Confissão e para a Sagrada Comunhão, mistérios do Rosário, modo de servir a Santa Missa), as Primeiras noções de catecismo, a Lição preliminar e as cinco partes canônicas: Credo, Oração, Mandamentos, Sacramentos, Virtudes.",
+    "en-US": "The Greater Catechism promulgated by Pope Saint Pius X on 14 June 1905 for the Diocese and Province of Rome. A full edition in roughly 993 questions and answers, distinct from the shorter Catechism of Christian Doctrine of 1912. Includes the editor's notice, the letter of promulgation, the Daily Prayers and other devotions (morning and evening prayers, acts of faith/hope/charity/contrition, preparation for Confession and Holy Communion, Mysteries of the Rosary, how to serve at Holy Mass), the First Notions of catechism, the Preliminary Lesson, and the five canonical Parts: Creed, Prayer, Commandments, Sacraments, Virtues."
   },
   "composed": 1905,
   "languages": [
-    "it"
+    "it",
+    "pt-BR",
+    "en-US"
   ],
   "sources": [
     {
       "language": "it",
       "url": "https://it.wikisource.org/wiki/Compendio_della_dottrina_cristiana",
       "description": "Trascrizione critica al 100% del Compendio della dottrina cristiana (Roma, 1905) su Wikisource italiano, comprensiva della lettera di promulgazione, delle Prime nozioni di catechismo e del Catechismo Maggiore integrale (Lezione preliminare e cinque parti)."
+    },
+    {
+      "language": "pt-BR",
+      "description": "Tradução para o português do Brasil baseada no original italiano canônico (Wikisource), produzida internamente para o Ember. Mantém alinhamento estrutural integral com o original (mesmas perguntas, mesma divisão em capítulos)."
+    },
+    {
+      "language": "en-US",
+      "description": "English translation from the canonical 1905 Italian (Wikisource), produced in-house for Ember to provide a complete edition — the widely circulated 1910 Hagan translation omits the front-matter daily-prayers section. Maintains full structural alignment with the original (same questions, same chapter divisions)."
     }
   ],
   "toc": [
     {
       "id": "avvertenza",
       "title": {
-        "it": "Avvertenza"
+        "it": "Avvertenza",
+        "pt-BR": "Advertência",
+        "en-US": "Editor's Notice"
       }
     },
     {
       "id": "lettera-promulgazione",
       "title": {
-        "it": "Lettera di S.S. Papa Pio X al Cardinale Pietro Respighi"
+        "it": "Lettera di S.S. Papa Pio X al Cardinale Pietro Respighi",
+        "pt-BR": "Carta de S.S. o Papa Pio X ao Cardeal Pietro Respighi",
+        "en-US": "Letter of His Holiness Pope Pius X to Cardinal Pietro Respighi"
       }
     },
     {
       "id": "orazioni-quotidiane",
       "title": {
-        "it": "Orazioni quotidiane ed altre preci"
+        "it": "Orazioni quotidiane ed altre preci",
+        "pt-BR": "Orações cotidianas e outras preces",
+        "en-US": "Daily Prayers and Other Devotions"
       }
     },
     {
       "id": "prime-nozioni",
       "title": {
-        "it": "Prime nozioni di catechismo"
+        "it": "Prime nozioni di catechismo",
+        "pt-BR": "Primeiras noções de catecismo",
+        "en-US": "First Notions of Catechism"
       },
       "children": [
         {
           "id": "prime-nozioni-capo-i",
           "title": {
-            "it": "Capo I — Delle verità principali di nostra santa Fede"
+            "it": "Capo I — Delle verità principali di nostra santa Fede",
+            "pt-BR": "Capítulo I — Das verdades principais de nossa santa Fé",
+            "en-US": "Chapter I — On the principal truths of our holy Faith"
           }
         },
         {
           "id": "prime-nozioni-capo-ii",
           "title": {
-            "it": "Capo II — Parti principali della Dottrina cristiana"
+            "it": "Capo II — Parti principali della Dottrina cristiana",
+            "pt-BR": "Capítulo II — Partes principais da Doutrina cristã",
+            "en-US": "Chapter II — Principal parts of Christian Doctrine"
           }
         },
         {
           "id": "prime-nozioni-capo-iii",
           "title": {
-            "it": "Capo III — Atti di Fede, di Speranza, di Carità e di Contrizione"
+            "it": "Capo III — Atti di Fede, di Speranza, di Carità e di Contrizione",
+            "pt-BR": "Capítulo III — Atos de Fé, de Esperança, de Caridade e de Contrição",
+            "en-US": "Chapter III — Acts of Faith, Hope, Charity and Contrition"
           }
         }
       ]
@@ -68,91 +98,121 @@
     {
       "id": "lezione-preliminare",
       "title": {
-        "it": "Lezione preliminare — Della dottrina cristiana e delle sue parti principali"
+        "it": "Lezione preliminare — Della dottrina cristiana e delle sue parti principali",
+        "pt-BR": "Lição preliminar — Da doutrina cristã e de suas partes principais",
+        "en-US": "Preliminary Lesson — On Christian Doctrine and its principal parts"
       }
     },
     {
       "id": "parte-prima",
       "title": {
-        "it": "Parte I — Il Credo o Simbolo apostolico"
+        "it": "Parte I — Il Credo o Simbolo apostolico",
+        "pt-BR": "Parte I — O Credo ou Símbolo Apostólico",
+        "en-US": "Part I — The Creed, or Apostles' Symbol"
       },
       "children": [
         {
           "id": "parte-prima-capo-i",
           "title": {
-            "it": "Capo I — Del «Credo» in generale"
+            "it": "Capo I — Del «Credo» in generale",
+            "pt-BR": "Capítulo I — Do «Credo» em geral",
+            "en-US": "Chapter I — On the «Creed» in general"
           }
         },
         {
           "id": "parte-prima-capo-ii",
           "title": {
-            "it": "Capo II — Del primo articolo del Simbolo"
+            "it": "Capo II — Del primo articolo del Simbolo",
+            "pt-BR": "Capítulo II — Do primeiro artigo do Símbolo",
+            "en-US": "Chapter II — On the first article of the Creed"
           }
         },
         {
           "id": "parte-prima-capo-iii",
           "title": {
-            "it": "Capo III — Del secondo articolo"
+            "it": "Capo III — Del secondo articolo",
+            "pt-BR": "Capítulo III — Do segundo artigo",
+            "en-US": "Chapter III — On the second article"
           }
         },
         {
           "id": "parte-prima-capo-iv",
           "title": {
-            "it": "Capo IV — Del terzo articolo"
+            "it": "Capo IV — Del terzo articolo",
+            "pt-BR": "Capítulo IV — Do terceiro artigo",
+            "en-US": "Chapter IV — On the third article"
           }
         },
         {
           "id": "parte-prima-capo-v",
           "title": {
-            "it": "Capo V — Del quarto articolo"
+            "it": "Capo V — Del quarto articolo",
+            "pt-BR": "Capítulo V — Do quarto artigo",
+            "en-US": "Chapter V — On the fourth article"
           }
         },
         {
           "id": "parte-prima-capo-vi",
           "title": {
-            "it": "Capo VI — Del quinto articolo"
+            "it": "Capo VI — Del quinto articolo",
+            "pt-BR": "Capítulo VI — Do quinto artigo",
+            "en-US": "Chapter VI — On the fifth article"
           }
         },
         {
           "id": "parte-prima-capo-vii",
           "title": {
-            "it": "Capo VII — Del sesto articolo"
+            "it": "Capo VII — Del sesto articolo",
+            "pt-BR": "Capítulo VII — Do sexto artigo",
+            "en-US": "Chapter VII — On the sixth article"
           }
         },
         {
           "id": "parte-prima-capo-viii",
           "title": {
-            "it": "Capo VIII — Del settimo articolo"
+            "it": "Capo VIII — Del settimo articolo",
+            "pt-BR": "Capítulo VIII — Do sétimo artigo",
+            "en-US": "Chapter VIII — On the seventh article"
           }
         },
         {
           "id": "parte-prima-capo-ix",
           "title": {
-            "it": "Capo IX — Dell'ottavo articolo"
+            "it": "Capo IX — Dell'ottavo articolo",
+            "pt-BR": "Capítulo IX — Do oitavo artigo",
+            "en-US": "Chapter IX — On the eighth article"
           }
         },
         {
           "id": "parte-prima-capo-x",
           "title": {
-            "it": "Capo X — Del nono articolo"
+            "it": "Capo X — Del nono articolo",
+            "pt-BR": "Capítulo X — Do nono artigo",
+            "en-US": "Chapter X — On the ninth article"
           }
         },
         {
           "id": "parte-prima-capo-xi",
           "title": {
-            "it": "Capo XI — Del decimo articolo"
+            "it": "Capo XI — Del decimo articolo",
+            "pt-BR": "Capítulo XI — Do décimo artigo",
+            "en-US": "Chapter XI — On the tenth article"
           }
         },
         {
           "id": "parte-prima-capo-xii",
           "title": {
-            "it": "Capo XII — Dell'undecimo articolo"
+            "it": "Capo XII — Dell'undecimo articolo",
+            "pt-BR": "Capítulo XII — Do décimo primeiro artigo",
+            "en-US": "Chapter XII — On the eleventh article"
           }
         },
         {
           "id": "parte-prima-capo-xiii",
           "title": {
-            "it": "Capo XIII — Del dodicesimo articolo"
+            "it": "Capo XIII — Del dodicesimo articolo",
+            "pt-BR": "Capítulo XIII — Do décimo segundo artigo",
+            "en-US": "Chapter XIII — On the twelfth article"
           }
         }
       ]
@@ -160,31 +220,41 @@
     {
       "id": "parte-seconda",
       "title": {
-        "it": "Parte II — Dell'orazione"
+        "it": "Parte II — Dell'orazione",
+        "pt-BR": "Parte II — Da oração",
+        "en-US": "Part II — On Prayer"
       },
       "children": [
         {
           "id": "parte-seconda-capo-i",
           "title": {
-            "it": "Capo I — Dell'orazione in generale"
+            "it": "Capo I — Dell'orazione in generale",
+            "pt-BR": "Capítulo I — Da oração em geral",
+            "en-US": "Chapter I — On prayer in general"
           }
         },
         {
           "id": "parte-seconda-capo-ii",
           "title": {
-            "it": "Capo II — Dell'orazione domenicale"
+            "it": "Capo II — Dell'orazione domenicale",
+            "pt-BR": "Capítulo II — Da oração dominical",
+            "en-US": "Chapter II — On the Lord's Prayer"
           }
         },
         {
           "id": "parte-seconda-capo-iii",
           "title": {
-            "it": "Capo III — Dell'«Ave Maria»"
+            "it": "Capo III — Dell'«Ave Maria»",
+            "pt-BR": "Capítulo III — Da «Ave-Maria»",
+            "en-US": "Chapter III — On the «Hail Mary»"
           }
         },
         {
           "id": "parte-seconda-capo-iv",
           "title": {
-            "it": "Capo IV — Dell'invocazione dei Santi"
+            "it": "Capo IV — Dell'invocazione dei Santi",
+            "pt-BR": "Capítulo IV — Da invocação dos Santos",
+            "en-US": "Chapter IV — On the invocation of the Saints"
           }
         }
       ]
@@ -192,37 +262,49 @@
     {
       "id": "parte-terza",
       "title": {
-        "it": "Parte III — Dei comandamenti di Dio e della Chiesa"
+        "it": "Parte III — Dei comandamenti di Dio e della Chiesa",
+        "pt-BR": "Parte III — Dos mandamentos de Deus e da Igreja",
+        "en-US": "Part III — On the Commandments of God and of the Church"
       },
       "children": [
         {
           "id": "parte-terza-capo-i",
           "title": {
-            "it": "Capo I — Dei comandamenti di Dio in generale"
+            "it": "Capo I — Dei comandamenti di Dio in generale",
+            "pt-BR": "Capítulo I — Dos mandamentos de Deus em geral",
+            "en-US": "Chapter I — On the Commandments of God in general"
           }
         },
         {
           "id": "parte-terza-capo-ii",
           "title": {
-            "it": "Capo II — Dei comandamenti che riguardano Dio"
+            "it": "Capo II — Dei comandamenti che riguardano Dio",
+            "pt-BR": "Capítulo II — Dos mandamentos que se referem a Deus",
+            "en-US": "Chapter II — On the Commandments concerning God"
           }
         },
         {
           "id": "parte-terza-capo-iii",
           "title": {
-            "it": "Capo III — Dei comandamenti che riguardano il prossimo"
+            "it": "Capo III — Dei comandamenti che riguardano il prossimo",
+            "pt-BR": "Capítulo III — Dos mandamentos que se referem ao próximo",
+            "en-US": "Chapter III — On the Commandments concerning our neighbor"
           }
         },
         {
           "id": "parte-terza-capo-iv",
           "title": {
-            "it": "Capo IV — Dei precetti della Chiesa"
+            "it": "Capo IV — Dei precetti della Chiesa",
+            "pt-BR": "Capítulo IV — Dos preceitos da Igreja",
+            "en-US": "Chapter IV — On the precepts of the Church"
           }
         },
         {
           "id": "parte-terza-capo-v",
           "title": {
-            "it": "Capo V — Dei doveri particolari del proprio stato e dei consigli evangelici"
+            "it": "Capo V — Dei doveri particolari del proprio stato e dei consigli evangelici",
+            "pt-BR": "Capítulo V — Dos deveres particulares do próprio estado e dos conselhos evangélicos",
+            "en-US": "Chapter V — On the particular duties of one's state and the evangelical counsels"
           }
         }
       ]
@@ -230,61 +312,81 @@
     {
       "id": "parte-quarta",
       "title": {
-        "it": "Parte IV — Dei sacramenti"
+        "it": "Parte IV — Dei sacramenti",
+        "pt-BR": "Parte IV — Dos sacramentos",
+        "en-US": "Part IV — On the Sacraments"
       },
       "children": [
         {
           "id": "parte-quarta-capo-i",
           "title": {
-            "it": "Capo I — Dei sacramenti in generale"
+            "it": "Capo I — Dei sacramenti in generale",
+            "pt-BR": "Capítulo I — Dos sacramentos em geral",
+            "en-US": "Chapter I — On the Sacraments in general"
           }
         },
         {
           "id": "parte-quarta-capo-ii",
           "title": {
-            "it": "Capo II — Del Battesimo"
+            "it": "Capo II — Del Battesimo",
+            "pt-BR": "Capítulo II — Do Batismo",
+            "en-US": "Chapter II — On Baptism"
           }
         },
         {
           "id": "parte-quarta-capo-iii",
           "title": {
-            "it": "Capo III — Della Cresima o Confermazione"
+            "it": "Capo III — Della Cresima o Confermazione",
+            "pt-BR": "Capítulo III — Da Crisma ou Confirmação",
+            "en-US": "Chapter III — On Confirmation"
           }
         },
         {
           "id": "parte-quarta-capo-iv",
           "title": {
-            "it": "Capo IV — Dell'Eucaristia"
+            "it": "Capo IV — Dell'Eucaristia",
+            "pt-BR": "Capítulo IV — Da Eucaristia",
+            "en-US": "Chapter IV — On the Eucharist"
           }
         },
         {
           "id": "parte-quarta-capo-v",
           "title": {
-            "it": "Capo V — Del santo sacrificio della Messa"
+            "it": "Capo V — Del santo sacrificio della Messa",
+            "pt-BR": "Capítulo V — Do santo sacrifício da Missa",
+            "en-US": "Chapter V — On the Holy Sacrifice of the Mass"
           }
         },
         {
           "id": "parte-quarta-capo-vi",
           "title": {
-            "it": "Capo VI — Della Penitenza"
+            "it": "Capo VI — Della Penitenza",
+            "pt-BR": "Capítulo VI — Da Penitência",
+            "en-US": "Chapter VI — On Penance"
           }
         },
         {
           "id": "parte-quarta-capo-vii",
           "title": {
-            "it": "Capo VII — Dell'Estrema Unzione"
+            "it": "Capo VII — Dell'Estrema Unzione",
+            "pt-BR": "Capítulo VII — Da Extrema-Unção",
+            "en-US": "Chapter VII — On Extreme Unction"
           }
         },
         {
           "id": "parte-quarta-capo-viii",
           "title": {
-            "it": "Capo VIII — Dell'Ordine Sacro"
+            "it": "Capo VIII — Dell'Ordine Sacro",
+            "pt-BR": "Capítulo VIII — Da Ordem Sacra",
+            "en-US": "Chapter VIII — On Holy Orders"
           }
         },
         {
           "id": "parte-quarta-capo-ix",
           "title": {
-            "it": "Capo IX — Del Matrimonio"
+            "it": "Capo IX — Del Matrimonio",
+            "pt-BR": "Capítulo IX — Do Matrimônio",
+            "en-US": "Chapter IX — On Matrimony"
           }
         }
       ]
@@ -292,55 +394,73 @@
     {
       "id": "parte-quinta",
       "title": {
-        "it": "Parte V — Delle virtù principali e delle altre cose necessarie a sapersi del cristiano"
+        "it": "Parte V — Delle virtù principali e delle altre cose necessarie a sapersi del cristiano",
+        "pt-BR": "Parte V — Das virtudes principais e das outras coisas que o cristão deve saber",
+        "en-US": "Part V — On the principal virtues and other things a Christian must know"
       },
       "children": [
         {
           "id": "parte-quinta-capo-i",
           "title": {
-            "it": "Capo I — Delle virtù principali"
+            "it": "Capo I — Delle virtù principali",
+            "pt-BR": "Capítulo I — Das virtudes principais",
+            "en-US": "Chapter I — On the principal virtues"
           }
         },
         {
           "id": "parte-quinta-capo-ii",
           "title": {
-            "it": "Capo II — Dei doni dello Spirito Santo"
+            "it": "Capo II — Dei doni dello Spirito Santo",
+            "pt-BR": "Capítulo II — Dos dons do Espírito Santo",
+            "en-US": "Chapter II — On the gifts of the Holy Spirit"
           }
         },
         {
           "id": "parte-quinta-capo-iii",
           "title": {
-            "it": "Capo III — Delle Beatitudini evangeliche"
+            "it": "Capo III — Delle Beatitudini evangeliche",
+            "pt-BR": "Capítulo III — Das Bem-aventuranças evangélicas",
+            "en-US": "Chapter III — On the evangelical Beatitudes"
           }
         },
         {
           "id": "parte-quinta-capo-iv",
           "title": {
-            "it": "Capo IV — Delle opere di misericordia"
+            "it": "Capo IV — Delle opere di misericordia",
+            "pt-BR": "Capítulo IV — Das obras de misericórdia",
+            "en-US": "Chapter IV — On the works of mercy"
           }
         },
         {
           "id": "parte-quinta-capo-v",
           "title": {
-            "it": "Capo V — Dei peccati e delle loro specie principali"
+            "it": "Capo V — Dei peccati e delle loro specie principali",
+            "pt-BR": "Capítulo V — Dos pecados e de suas espécies principais",
+            "en-US": "Chapter V — On sins and their principal kinds"
           }
         },
         {
           "id": "parte-quinta-capo-vi",
           "title": {
-            "it": "Capo VI — Dei vizi capitali e di altri peccati più gravi"
+            "it": "Capo VI — Dei vizi capitali e di altri peccati più gravi",
+            "pt-BR": "Capítulo VI — Dos vícios capitais e de outros pecados mais graves",
+            "en-US": "Chapter VI — On the capital vices and other graver sins"
           }
         },
         {
           "id": "parte-quinta-capo-vii",
           "title": {
-            "it": "Capo VII — Dei Novissimi e di altri mezzi principali per evitare il peccato"
+            "it": "Capo VII — Dei Novissimi e di altri mezzi principali per evitare il peccato",
+            "pt-BR": "Capítulo VII — Dos Novíssimos e de outros meios principais para evitar o pecado",
+            "en-US": "Chapter VII — On the Last Things and other principal means of avoiding sin"
           }
         },
         {
           "id": "parte-quinta-capo-viii",
           "title": {
-            "it": "Capo VIII — Degli esercizi divoti che si consigliano al cristiano per ogni giorno"
+            "it": "Capo VIII — Degli esercizi divoti che si consigliano al cristiano per ogni giorno",
+            "pt-BR": "Capítulo VIII — Dos exercícios devotos que se recomendam ao cristão para cada dia",
+            "en-US": "Chapter VIII — On the devout exercises recommended to the Christian for each day"
           }
         }
       ]
