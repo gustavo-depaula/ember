@@ -19,6 +19,7 @@ import {
   ReadingConfigBadge,
   ReadingConfigModal,
   ScreenLayout,
+  TwoColumnReaderHeader,
 } from '@/components'
 import type { Book } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
@@ -27,7 +28,6 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useBooks, useChapter, usePrefetchAdjacentChapters } from '../hooks'
 import { ChapterContent } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
-import { ReaderHeader } from './ReaderHeader'
 import { TranslationBadge } from './TranslationBadge'
 import { TranslationModal } from './TranslationModal'
 
@@ -208,11 +208,14 @@ export function BibleReader() {
           <Animated.View style={[{ width: screenWidth }, dimStyle]}>
             <ScreenLayout>
               <YStack flex={1}>
-                <ReaderHeader
-                  bookName={bookName}
-                  chapter={chapter}
-                  onBookPress={openBookDrawer}
-                  onChapterPress={openChapterDrawer}
+                <TwoColumnReaderHeader
+                  variant="plain"
+                  leftLabel={bookName}
+                  rightValue={String(chapter)}
+                  onLeftPress={openBookDrawer}
+                  onRightPress={openChapterDrawer}
+                  leftA11yLabel={t('a11y.selectBook')}
+                  rightA11yLabel={t('a11y.selectChapter')}
                 />
                 {renderContent()}
               </YStack>

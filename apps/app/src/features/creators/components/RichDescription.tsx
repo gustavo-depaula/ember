@@ -11,7 +11,7 @@
 import { useMemo } from 'react'
 import { useTheme } from 'tamagui'
 
-import { ReaderWebView } from '@/features/books/ReaderWebView'
+import { HtmlWebView } from './HtmlWebView'
 
 function doc(body: string, color: string, link: string): string {
   return `<!doctype html>
@@ -30,5 +30,5 @@ export function RichDescription({ html }: { html: string }) {
   const color = theme.color.val
   const link = theme.accent.val
   const doc_ = useMemo(() => doc(html, color, link), [html, color, link])
-  return <ReaderWebView html={doc_} />
+  return <HtmlWebView html={doc_} />
 }
