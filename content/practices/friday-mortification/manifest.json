@@ -1,0 +1,39 @@
+{
+	"id": "friday-mortification",
+	"icon": "cross",
+	"source": {
+		"en-US": "St. Josemaría Escrivá, *The Way* (Camino) §§ 173, 175, 178, 186, 195 — *little mortifications*: hidden, constant, concrete; cf. *Furrow* §§ 988–989 on Friday penance. Friday penance as a universal duty of the faithful: CIC 1250–1253.",
+		"pt-BR": "São Josemaria Escrivá, *Caminho* §§ 173, 175, 178, 186, 195 — *pequenas mortificações*: ocultas, constantes, concretas; cf. *Sulco* §§ 988–989 sobre a penitência da sexta-feira. A penitência da sexta-feira como dever universal dos fiéis: CIC 1250–1253."
+	},
+	"name": {
+		"en-US": "Friday Mortification",
+		"pt-BR": "Mortificação de Sexta-Feira"
+	},
+	"categories": ["weekly", "penitential"],
+	"estimatedMinutes": 3,
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "A small, hidden, concrete penance offered each Friday in memory of the Passion. Not the cilice or the discipline — broadly applicable mortification: food, comfort, speech, gaze, time. *Without mortification there is no happiness on earth* (Camino §186).",
+		"pt-BR": "Uma penitência pequena, oculta e concreta, oferecida em cada sexta-feira em memória da Paixão. Não o cilício nem a disciplina — uma mortificação amplamente aplicável: comida, conforto, palavra, olhar, tempo. *Sem mortificação não há felicidade na terra* (Caminho §186)."
+	},
+	"history": {
+		"en-US": "Friday penance is a duty of the universal Church (CIC 1250–1253), kept by the faithful since apostolic times in memory of the day Christ died. In the spirituality of Opus Dei, St. Josemaría insisted that the penance be *small, hidden, and concrete* — the *little mortifications* of *The Way*: a glance held back, a word swallowed, a comfort declined, a second helping refused. Done out of love, not pride, and never on display.",
+		"pt-BR": "A penitência da sexta-feira é um dever da Igreja universal (CIC 1250–1253), guardado pelos fiéis desde os tempos apostólicos em memória do dia em que Cristo morreu. Na espiritualidade do Opus Dei, São Josemaria insistia que a penitência fosse *pequena, oculta e concreta* — as *pequenas mortificações* de *Caminho*: um olhar contido, uma palavra retida, um conforto declinado, uma segunda porção recusada. Feita por amor, não por orgulho, e nunca em exibição."
+	},
+	"howToPray": {
+		"en-US": "Each Friday, recall briefly the Passion of Christ. Choose one concrete mortification for the day — small enough that no one sees it, real enough that you feel it. Note it down. Offer it with a short aspiration through the day, and renew the offering when it costs.",
+		"pt-BR": "A cada sexta-feira, recorde brevemente a Paixão de Cristo. Escolha uma mortificação concreta para o dia — pequena o bastante para ninguém ver, real o bastante para você sentir. Anote-a. Ofereça-a com uma breve jaculatória ao longo do dia, e renove o oferecimento quando custar."
+	},
+	"tags": ["opus-dei", "friday", "penance", "passion", "weekly"],
+	"defaults": {
+		"sortOrder": 12,
+		"slots": [
+			{
+				"schedule": { "type": "days-of-week", "days": [5] },
+				"tier": "ideal"
+			}
+		]
+	}
+}

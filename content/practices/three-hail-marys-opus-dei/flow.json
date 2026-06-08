@@ -1,0 +1,51 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Before sleep, three Hail Marys to Our Lady for the gift of holy purity — the counsel St. Josemaría gave again and again. Pray them slowly, recalling that you are a child of God and that she is watching over you.",
+				"pt-BR": "Antes de dormir, três Ave-Marias a Nossa Senhora pelo dom da santa pureza — o conselho que São Josemaria dava uma e outra vez. Reze-as pausadamente, recordando que você é filho de Deus e que ela vela por você."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "For purity of body.",
+				"pt-BR": "Pela pureza do corpo."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "For purity of mind.",
+				"pt-BR": "Pela pureza da mente."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "For purity of heart.",
+				"pt-BR": "Pela pureza do coração."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Mater purissima, ora pro nobis.\nMother most pure, pray for us.",
+				"pt-BR": "Mater purissima, ora pro nobis.\nMãe puríssima, rogai por nós."
+			}
+		}
+	]
+}
