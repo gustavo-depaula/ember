@@ -9,8 +9,6 @@ export default function LibraryLayout() {
         headerShown: false,
         contentStyle: { backgroundColor: theme.background.val },
       }}
-    >
-      <Stack.Screen name="book" options={{ gestureEnabled: false }} />
-    </Stack>
+    />
   )
 }
