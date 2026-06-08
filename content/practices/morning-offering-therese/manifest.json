@@ -1,0 +1,51 @@
+{
+	"id": "morning-offering-therese",
+	"icon": "flower",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "Little Way",
+			"pt-BR": "Caminho Pequenino"
+		},
+		"description": {
+			"en-US": "St. Thérèse's morning prayer — every heartbeat and ordinary work cast into the furnace of Merciful Love.",
+			"pt-BR": "A oração matinal de Santa Teresinha — cada batida do coração e a obra mais simples lançadas no fogo do Amor Misericordioso."
+		}
+	},
+	"source": {
+		"en-US": "Morning offering composed by St. Thérèse of Lisieux (1873–1897). Verified via [EWTN](https://www.ewtn.com/catholicism/devotions/morning-prayer-written-by-st-therese-838) (English) and [Aleteia pt-BR](https://pt.aleteia.org/2023/12/28/esta-e-a-oracao-que-santa-teresinha-rezava-todas-as-manhas/) (Portuguese).",
+		"pt-BR": "Oferecimento matinal composto por Santa Teresinha de Lisieux (1873-1897). Verificado em [EWTN](https://www.ewtn.com/catholicism/devotions/morning-prayer-written-by-st-therese-838) (inglês) e [Aleteia pt-BR](https://pt.aleteia.org/2023/12/28/esta-e-a-oracao-que-santa-teresinha-rezava-todas-as-manhas/) (português)."
+	},
+	"name": {
+		"en-US": "Morning Offering — St. Thérèse",
+		"pt-BR": "Oferecimento Matinal — Santa Teresinha"
+	},
+	"categories": ["daily", "carmelite"],
+	"estimatedMinutes": 2,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "St. Thérèse of Lisieux's own morning offering — written into the rhythm of her Carmelite life and the soul of the Little Way.",
+		"pt-BR": "O oferecimento matinal da própria Santa Teresinha de Lisieux — inscrito no ritmo de sua vida carmelita e na alma do Caminho Pequenino."
+	},
+	"history": {
+		"en-US": "St. Thérèse of Lisieux (1873–1897) was a devoted member of the Apostleship of Prayer from her childhood, and composed this morning offering as her own daily act. It frames the Little Way: every heartbeat, every thought, every most ordinary work united to the infinite merits of the Sacred Heart, with one's sins themselves cast into the furnace of His Merciful Love.",
+			"pt-BR": "Santa Teresinha de Lisieux (1873-1897) foi devota do Apostolado da Oração desde a infância, e compôs este oferecimento matinal como o seu ato diário. Enquadra o Caminho Pequenino: cada batida do coração, cada pensamento, cada obra mais comum unidos aos méritos infinitos do Sagrado Coração, e os próprios pecados lançados no fogo do Seu Amor Misericordioso."
+	},
+	"howToPray": {
+		"en-US": "Upon waking, place the day before the Lord through Thérèse's words. Let her smallness be yours — there is nothing too ordinary to be offered.",
+		"pt-BR": "Ao acordar, ponha o dia diante do Senhor pelas palavras de Teresinha. Faça sua a pequenez dela — nada é demasiado comum para ser oferecido."
+	},
+	"tags": ["morning", "offering", "therese", "carmelite", "little-way"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

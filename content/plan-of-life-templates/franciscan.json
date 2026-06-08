@@ -20,6 +20,16 @@
   "tags": ["franciscan", "penance", "simplicity"],
   "practices": [
     {
+      "ref": "morning-offering-franciscan",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "06:45",
+      "note": {
+        "en-US": "The Secular Franciscan morning offering — the day united to the one Sacrifice of the Mass and to Mary's fiat, with a short prayer for the day's work, before Lauds opens.",
+        "pt-BR": "O oferecimento matinal do franciscano secular — o dia unido ao único Sacrifício da Missa e ao fiat de Maria, com uma breve oração pelo trabalho do dia, antes de abrir-se Laudes."
+      }
+    },
+    {
       "ref": "divine-office",
       "tier": "essential",
       "schedule": { "type": "daily" },

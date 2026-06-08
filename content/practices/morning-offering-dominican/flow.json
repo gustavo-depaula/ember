@@ -1,0 +1,49 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Morning Offering — Dominican",
+				"pt-BR": "Oferecimento Matinal — Dominicano"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Before Lauds, offer the whole day to the Holy Trinity through the hands of Our Lady.",
+				"pt-BR": "Antes de Laudes, ofereça o dia inteiro à Santíssima Trindade pelas mãos de Nossa Senhora."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O adorable Trinity, we offer You, through the hands of our Blessed Mother, all our prayers, communions, rosaries, and good works in behalf of our families, relatives, friends, and benefactors; for the sick and the dying; for the poor souls in Purgatory and all poor sinners; for all those who have been recommended to our prayers, for those for whom we have promised and are bound to pray. Amen.",
+				"pt-BR": "Ó Trindade adorável, nós Vos oferecemos, pelas mãos da nossa Mãe Santíssima, todas as nossas orações, comunhões, terços e boas obras em favor das nossas famílias, parentes, amigos e benfeitores; pelos enfermos e moribundos; pelas pobres almas do Purgatório e por todos os pobres pecadores; por todos aqueles que nos foram recomendados em nossas orações, por aqueles por quem prometemos e estamos obrigados a rezar. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

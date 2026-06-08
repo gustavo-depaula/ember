@@ -1,6 +1,21 @@
 {
 	"id": "morning-offering",
 	"icon": "sunrise",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "Traditional",
+			"pt-BR": "Tradicional"
+		},
+		"description": {
+			"en-US": "The classic morning act — adoration, thanksgiving, and the day's thoughts, words, and works offered to God.",
+			"pt-BR": "O ato matinal clássico — adoração, ação de graças e oferecimento dos pensamentos, palavras e obras do dia a Deus."
+		}
+	},
+	"source": {
+		"en-US": "Traditional Catholic morning prayer — \"O my God, I adore You\" — handed down for generations in Latin- and Lusophone-tradition catechisms and prayer manuals.",
+		"pt-BR": "Tradicional oração matinal católica — \"Ó meu Deus, eu vos adoro\" — transmitida há gerações em catecismos e manuais de oração da tradição latina e lusófona."
+	},
 	"name": {
 		"en-US": "Morning Offering",
 		"pt-BR": "Oferecimento do Dia"
@@ -13,12 +28,12 @@
 	"completion": "flow-end",
 	"flow": "flow.json",
 	"description": {
-		"en-US": "A prayer offering the day's activities, joys, and sufferings to God through the Immaculate Heart of Mary, uniting them with the Holy Sacrifice of the Mass throughout the world.",
-		"pt-BR": "Uma oração oferecendo as atividades, alegrias e sofrimentos do dia a Deus pelo Coração Imaculado de Maria, unindo-os ao Santo Sacrifício da Missa em todo o mundo."
+		"en-US": "A traditional morning act of adoration, thanksgiving, and offering — giving God the day's thoughts, words, and works through Jesus and Mary.",
+		"pt-BR": "Um tradicional ato matinal de adoração, ação de graças e oferecimento — entregando a Deus os pensamentos, palavras e obras do dia por Jesus e Maria."
 	},
 	"history": {
-		"en-US": "The Morning Offering tradition grew from the Apostleship of Prayer, founded in 1844 by Fr. François-Xavier Gautrelet, S.J., at the Jesuit seminary in Vals, France. He encouraged seminarians to offer each day's work for the intentions of the Sacred Heart. The practice quickly spread worldwide and was endorsed by multiple popes. The prayer transforms ordinary daily actions into acts of worship by uniting them with Christ's sacrifice.",
-		"pt-BR": "A tradição do Oferecimento do Dia cresceu a partir do Apostolado da Oração, fundado em 1844 pelo Pe. François-Xavier Gautrelet, S.J., no seminário jesuíta de Vals, França. Ele incentivava os seminaristas a oferecer o trabalho de cada dia pelas intenções do Sagrado Coração. A prática se espalhou rapidamente pelo mundo e foi endossada por vários papas."
+		"en-US": "This is the classic Catholic morning prayer — \"O my God, I adore You and I love You with all my heart…\" — printed for generations in catechisms and prayer manuals across the Latin and Lusophone Catholic world. It is distinct from (and older in form than) the better-known Apostleship of Prayer offering composed in the Jesuit tradition after 1844.",
+		"pt-BR": "Esta é a clássica oração matinal católica — \"Ó meu Deus, eu vos adoro e vos amo de todo o meu coração…\" — impressa há gerações em catecismos e manuais de oração de todo o mundo católico latino e lusófono. É distinta (e de forma mais antiga) do conhecido Oferecimento do Apostolado da Oração, composto na tradição jesuíta após 1844."
 	},
 	"howToPray": {
 		"en-US": "Upon waking, make the Sign of the Cross and slowly pray the offering, consciously dedicating your day. Pause to consider what lies ahead — your work, encounters, and potential difficulties — and offer them all to God. Some find it helpful to pray this before getting out of bed, as it sets the tone for the entire day.",

@@ -20,6 +20,16 @@
   "tags": ["carmelite", "contemplative", "mental-prayer"],
   "practices": [
     {
+      "ref": "morning-offering-carmelite",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "05:50",
+      "note": {
+        "en-US": "A brief offering before the hour of mental prayer — kissing the Brown Scapular, joining the Precious Blood of every altar to the day's thoughts and works, all through Mary of Mount Carmel.",
+        "pt-BR": "Um breve oferecimento antes da hora de oração mental — beijando o Escapulário do Carmo, unindo o Preciosíssimo Sangue de cada altar aos pensamentos e obras do dia, tudo pelas mãos de Nossa Senhora do Carmo."
+      }
+    },
+    {
       "ref": "mental-prayer",
       "tier": "essential",
       "schedule": { "type": "daily" },

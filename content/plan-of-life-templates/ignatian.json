@@ -19,7 +19,7 @@
   "tags": ["ignatian", "jesuit", "discernment"],
   "practices": [
     {
-      "ref": "morning-offering",
+      "ref": "morning-offering-suscipe",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "06:30",

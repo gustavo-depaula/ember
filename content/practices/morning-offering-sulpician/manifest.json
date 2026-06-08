@@ -1,0 +1,51 @@
+{
+	"id": "morning-offering-sulpician",
+	"icon": "cross",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "Sulpician (Olier)",
+			"pt-BR": "Sulpiciana (Olier)"
+		},
+		"description": {
+			"en-US": "The Olier prayer — *O Jesus, living in Mary, come and live in Thy servants* — opening the day in the spirit of the French School.",
+			"pt-BR": "A oração de Olier — *Ó Jesus, que viveis em Maria, vinde viver em vossos servos* — abrindo o dia no espírito da Escola Francesa."
+		}
+	},
+	"source": {
+		"en-US": "Fr. Jean-Jacques Olier, S.S. (1608–1657), *O Jesu vivens in Maria* — synthesis of the French School of Spirituality. English verified via [School of Mary](https://schoolofmary.org/the-interior-life-of-mary-according-to-monsieur-olier/); Portuguese via [Apostolado Adoração ao Sagrado Coração de Jesus](https://www.aascj.org.br/home/2021/03/oracao-jesus-vivendo-em-maria-reze-agora/).",
+		"pt-BR": "Pe. Jean-Jacques Olier, S.S. (1608-1657), *O Jesu vivens in Maria* — síntese da Escola Francesa de Espiritualidade. Inglês verificado em [School of Mary](https://schoolofmary.org/the-interior-life-of-mary-according-to-monsieur-olier/); português em [Apostolado Adoração ao Sagrado Coração de Jesus](https://www.aascj.org.br/home/2021/03/oracao-jesus-vivendo-em-maria-reze-agora/)."
+	},
+	"name": {
+		"en-US": "Morning Offering — Sulpician",
+		"pt-BR": "Oferecimento Matinal — Sulpiciano"
+	},
+	"categories": ["daily", "french-school"],
+	"estimatedMinutes": 2,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The morning act in the spirit of Fr. Jean-Jacques Olier (1608–1657), founder of the Society of Saint-Sulpice — Jesus invited to live anew each day in His servants, in the holiness, virtues, and mysteries of His own life.",
+		"pt-BR": "O ato matinal no espírito do Pe. Jean-Jacques Olier (1608-1657), fundador da Sociedade de São Sulpício — Jesus convidado a viver novamente cada dia em Seus servos, na santidade, virtudes e mistérios de Sua própria vida."
+	},
+	"history": {
+		"en-US": "Fr. Olier composed the prayer *O Jesu vivens in Maria* as the daily synthesis of the French School of Spirituality (Bérulle, Olier, de Montfort, Eudes). St. Louis de Montfort called it *a synthesis of the spiritual life and a summary of our Compendium.* The Sulpicians pray it at the close of every Office, and it serves admirably as the morning act for those drawn to this current of Christological-Marian interior life.",
+		"pt-BR": "O Pe. Olier compôs a oração *O Jesu vivens in Maria* como síntese diária da Escola Francesa de Espiritualidade (Bérulle, Olier, Montfort, Eudes). São Luís de Montfort chamou-a *síntese da vida espiritual e resumo do nosso Compêndio.* Os Sulpicianos rezam-na ao final de cada Ofício, e ela serve admiravelmente como ato matinal para os atraídos por essa corrente de vida interior cristológico-mariana."
+	},
+	"howToPray": {
+		"en-US": "Pray slowly upon waking. The prayer's structure mirrors the Sulpician method — Jesus before the eyes (adoration), Jesus in the heart (communion), Jesus in the hands (cooperation) — by which the day is to be lived.",
+		"pt-BR": "Reze devagar ao acordar. A estrutura da oração espelha o método sulpiciano — Jesus diante dos olhos (adoração), Jesus no coração (comunhão), Jesus nas mãos (cooperação) — pelo qual o dia há de ser vivido."
+	},
+	"tags": ["morning", "offering", "sulpician", "olier", "french-school"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

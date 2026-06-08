@@ -30,20 +30,13 @@
       }
     },
     {
-      "placeholder": true,
-      "name": {
-        "en-US": "Morning & Evening Prayers",
-        "pt-BR": "Orações da Manhã e da Tarde"
-      },
+      "ref": "morning-offering-byzantine",
       "tier": "essential",
-      "cadence": {
-        "en-US": "Daily",
-        "pt-BR": "Diárias"
-      },
-      "icon": "candle",
+      "schedule": { "type": "daily" },
+      "time": "06:30",
       "note": {
-        "en-US": "The daily prayer rule of the East — the Trisagion prayers, Psalm 50, the Creed, and intercessions — opening and closing the day before the icons.",
-        "pt-BR": "A regra de oração diária do Oriente — as orações do Trisságio, o Salmo 50, o Credo e as intercessões — que abre e fecha o dia diante dos ícones."
+        "en-US": "The opening of the Byzantine morning rule — Heavenly King, Trisagion, Most Holy Trinity, the Our Father — prayed before the icons, with bows and prostrations as the body too prays.",
+        "pt-BR": "A abertura da regra matinal bizantina — Rei celeste, Trisagion, Santíssima Trindade, o Pai-Nosso — rezada diante dos ícones, com inclinações e prostrações enquanto também o corpo reza."
       }
     },
     {

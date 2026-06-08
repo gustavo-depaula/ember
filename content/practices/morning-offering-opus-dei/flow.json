@@ -1,0 +1,77 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "At the fixed hour, rise without hesitation. Kiss the floor and say aloud:",
+				"pt-BR": "À hora marcada, levante-se sem hesitar. Beije o chão e diga em voz alta:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Serviam!",
+				"pt-BR": "Serviam!"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Morning Offering",
+				"pt-BR": "Oferecimento do Dia"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Now offer the day — its work, its prayer, its contradictions — for God's glory.",
+				"pt-BR": "Agora ofereça o dia — o seu trabalho, a sua oração, as suas contradições — para a glória de Deus."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "offering-to-sacred-heart"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "And to seal the offering:",
+				"pt-BR": "E para selar o oferecimento:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "All for the glory of God. *Deo omnis gloria!*",
+				"pt-BR": "Tudo para a glória de Deus. *Deo omnis gloria!*"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

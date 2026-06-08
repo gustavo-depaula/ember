@@ -1,0 +1,105 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Morning Offering — Divine Mercy",
+				"pt-BR": "Oferecimento Matinal — Divina Misericórdia"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Pray with St. Faustina, asking that the whole self be transformed into mercy for the neighbor.",
+				"pt-BR": "Reze com Santa Faustina, pedindo que todo o ser seja transformado em misericórdia para o próximo."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Lord, I want to be completely transformed into Your mercy and to be Your living reflection. May the greatest of all divine attributes, that of Your unfathomable mercy, pass through my heart and soul to my neighbor.",
+				"pt-BR": "Ó Senhor, desejo transformar-me toda em Vossa misericórdia, para tornar-me o Vosso reflexo vivo. Que a Vossa misericórdia, que é insondável e de todos os atributos de Deus o mais sublime, se derrame do meu coração e da minha alma sobre o próximo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Help me, O Lord, that my eyes may be merciful, so that I may never suspect or judge from appearances, but look for what is beautiful in my neighbors' souls and come to their rescue.",
+				"pt-BR": "Ajudai-me, Senhor, para que os meus olhos sejam misericordiosos, de modo que eu jamais suspeite nem julgue as pessoas pela aparência externa, mas perceba a beleza interior dos outros e possa ajudá-los."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Help me, O Lord, that my ears may be merciful, so that I may give heed to my neighbors' needs and not be indifferent to their pains and moanings.",
+				"pt-BR": "Ajudai-me, Senhor, para que os meus ouvidos sejam misericordiosos, de modo que eu esteja atenta às necessidades dos meus irmãos e não me permitais permanecer indiferente diante de suas dores e lágrimas."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Help me, O Lord, that my tongue may be merciful, so that I should never speak negatively of my neighbor, but have a word of comfort and forgiveness for all.",
+				"pt-BR": "Ajudai-me, Senhor, para que a minha língua seja misericordiosa, de modo que eu nunca fale mal dos meus irmãos; que eu tenha para cada um deles uma palavra de conforto e de perdão."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Help me, O Lord, that my hands may be merciful and filled with good deeds, so that I may do only good to my neighbors and take upon myself the most difficult and toilsome tasks.",
+				"pt-BR": "Ajudai-me, Senhor, para que as minhas mãos sejam misericordiosas e transbordantes de boas obras, e que jamais se cansem de fazer o bem aos outros, aceitando para mim as tarefas mais difíceis e penosas."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Help me, O Lord, that my feet may be merciful, so that I may hurry to assist my neighbor, overcoming my own fatigue and weariness.",
+				"pt-BR": "Ajudai-me, Senhor, para que sejam misericordiosos também os meus pés, para que levem sem descanso ajuda aos meus irmãos, vencendo a fadiga e o cansaço; o meu repouso esteja no serviço ao próximo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Help me, O Lord, that my heart may be merciful so that I myself may feel all the sufferings of my neighbor. May Your mercy, O Lord, rest upon me.",
+				"pt-BR": "Ajudai-me, Senhor, para que o meu coração seja misericordioso e se torne sensível a todos os sofrimentos do próximo; ninguém receba uma recusa do meu coração. Que a Vossa misericórdia, ó Senhor, repouse sobre mim."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "And to seal the offering:",
+				"pt-BR": "E para selar o oferecimento:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Jesus, I trust in You.",
+				"pt-BR": "Jesus, eu confio em Vós."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}
