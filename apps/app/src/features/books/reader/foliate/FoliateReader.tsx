@@ -37,6 +37,9 @@ export type FoliateMessage =
       chapterIndex: number
       rect: { x: number; y: number; width: number; height: number }
     }
+  /** Bridge asks the host for a chapter body the WebView doesn't have yet.
+   *  The host fetches via the BookSession and answers with provideChapter. */
+  | { type: 'requestChapter'; index: number }
   | { type: 'log'; message: string }
   | { type: 'error'; message: string }
 
@@ -75,11 +78,19 @@ export type FoliateReaderHandle = {
   /** Write a string to the system clipboard via the WebView (iOS WKWebView's
    *  navigator.clipboard). Avoids a native dep for the rare copy-text path. */
   copyText: (text: string) => void
+  /** Stream a chapter body into the WebView, resolving any pending
+   *  requestChapter for the same index. Idempotent — sending the same body
+   *  again is a no-op. */
+  provideChapter: (index: number, html: string) => void
 }
 
 type Props = {
-  /** Body HTML for each chapter, in reading order. */
-  chapters: string[]
+  /** Total number of chapters in the spine — drives the paginator's section
+   *  count without forcing every body into memory at open time. */
+  chapterCount: number
+  /** Body HTML for the chapter to open first; the host streams the rest in
+   *  response to requestChapter messages. */
+  initialChapter: string
   /** Index of the chapter to open initially. */
   initialIndex?: number
   /** Intra-chapter fraction (0..1) to open at. */
@@ -92,7 +103,7 @@ type Props = {
 const WebView: any = Platform.OS !== 'web' ? require('react-native-webview').default : undefined
 
 export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function FoliateReader(
-  { chapters, initialIndex = 0, initialFraction = 0, config, onMessage },
+  { chapterCount, initialChapter, initialIndex = 0, initialFraction = 0, config, onMessage },
   ref,
 ) {
   const webViewRef = useRef<unknown>(null)
@@ -110,27 +121,15 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
     }
   }, [])
 
-  // Host HTML is built ONCE with initial chapters + config baked in. Update
-  // effects below ride over `injectJavaScript` so we never remount the
-  // WebView (which would blank the screen).
+  // Host HTML is built ONCE with the spine length + initial chapter + config
+  // baked in. Additional chapter bodies stream in via provideChapter; we
+  // never remount the WebView (which would blank the screen).
   //
   // biome-ignore lint/correctness/useExhaustiveDependencies: baked at first paint only
-  const html = useMemo(() => buildHostHtml({ chapters, initialIndex, initialFraction, config }), [])
-
-  // First mount already has chapters + config baked in — skip the redundant
-  // re-inject that would re-open the book.
-  const chapterMounted = useRef(false)
-  useEffect(() => {
-    if (!chapterMounted.current) {
-      chapterMounted.current = true
-      return
-    }
-    // No index/fraction — bootstrap preserves current paginator position. The
-    // initial location was set on first paint; mid-session chapter list
-    // changes (e.g. titleLookup mutation on language switch) shouldn't yank
-    // the reader back to the start.
-    inject(webViewRef, `window.__foliate?.loadBook(${JSON.stringify(chapters)});true;`)
-  }, [chapters])
+  const html = useMemo(
+    () => buildHostHtml({ chapterCount, initialChapter, initialIndex, initialFraction, config }),
+    [],
+  )
 
   // Stringify-guard the config inject — identical configs (re-renders that
   // changed an unrelated prop) shouldn't trigger a full chapter re-blob.
@@ -178,6 +177,12 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
       },
       copyText: (text) => {
         inject(webViewRef, `window.__foliate?.copyText(${JSON.stringify(text)});true;`)
+      },
+      provideChapter: (index, htmlBody) => {
+        inject(
+          webViewRef,
+          `window.__foliate?.provideChapter(${index}, ${JSON.stringify(htmlBody)});true;`,
+        )
       },
     }),
     [],
@@ -252,12 +257,14 @@ function inject(ref: { current: unknown }, js: string) {
 }
 
 function buildHostHtml({
-  chapters,
+  chapterCount,
+  initialChapter,
   initialIndex,
   initialFraction,
   config,
 }: {
-  chapters: string[]
+  chapterCount: number
+  initialChapter: string
   initialIndex: number
   initialFraction: number
   config: FoliateConfig
@@ -265,9 +272,9 @@ function buildHostHtml({
   // Both scripts live as standalone .raw.js files bundled into TS modules
   // by bundle.mjs (`paginatorScript.ts`, `bootstrapScript.ts`). They run
   // inside the WebView, not in this RN JS context. The trailing init call
-  // hands the initial config + chapters into the bootstrap's
-  // `window.__foliateInit(...)` entry point.
-  const initCall = `window.__foliateInit(${JSON.stringify(config)}, ${JSON.stringify(chapters)}, ${JSON.stringify(initialIndex)}, ${JSON.stringify(initialFraction)});`
+  // hands the initial config + spine length + opening chapter into the
+  // bootstrap's `window.__foliateInit(...)` entry point.
+  const initCall = `window.__foliateInit(${JSON.stringify(config)}, ${JSON.stringify(chapterCount)}, ${JSON.stringify(initialIndex)}, ${JSON.stringify(initialFraction)}, ${JSON.stringify(initialChapter)});`
   return `<!doctype html>
 <html>
 <head>

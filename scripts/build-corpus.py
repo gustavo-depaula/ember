@@ -24,12 +24,15 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import shutil
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable
+
+import snowballstemmer
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
@@ -349,6 +352,243 @@ def build_chapters(b: Builder) -> None:
         b.add_catalog(f"chapter/{cid}", catalog_entry)
 
 
+# ---------------------------------------------------------------------------
+# Per-book full-text search index (stemmed inverted index, one blob per lang)
+# ---------------------------------------------------------------------------
+
+# Snowball ships no Latin algorithm. For 'la' we tokenize-only (no stemming);
+# Latin liturgical text is short and users typically search the surface form.
+SEARCH_STEMMERS: dict[str, str | None] = {
+    "en-US": "english",
+    "pt-BR": "portuguese",
+    "la": None,
+}
+
+# Per-language stopword list. Generous on purpose — high-document-frequency
+# words are useless for ranking and dominate the index size (a 150-stopword
+# list drops ~70% of postings on a 12k-chapter book). Stems are computed
+# from these surface forms below, so listing "be" also drops "is/was/were".
+SEARCH_STOPWORDS: dict[str, set[str]] = {
+    "en-US": {
+        # articles, prepositions, conjunctions
+        "the", "a", "an", "of", "in", "on", "at", "by", "to", "for", "with",
+        "from", "as", "and", "or", "but", "nor", "so", "yet", "if", "than",
+        "then", "because", "since", "while", "though", "although", "unless",
+        "until", "before", "after", "during", "about", "into", "onto", "upon",
+        "over", "under", "between", "among", "through", "above", "below",
+        "across", "behind", "beyond", "without", "within", "near",
+        # verbs (Snowball folds tense / number, but list surfaces for clarity)
+        "be", "is", "am", "are", "was", "were", "been", "being",
+        "have", "has", "had", "having",
+        "do", "does", "did", "done", "doing",
+        "will", "would", "shall", "should", "may", "might", "can", "could",
+        "must", "ought", "need",
+        # pronouns
+        "i", "me", "my", "mine", "myself",
+        "you", "your", "yours", "yourself", "yourselves",
+        "he", "him", "his", "himself",
+        "she", "her", "hers", "herself",
+        "it", "its", "itself",
+        "we", "us", "our", "ours", "ourselves",
+        "they", "them", "their", "theirs", "themselves",
+        # demonstratives / determiners / quantifiers
+        "this", "that", "these", "those", "such",
+        "all", "any", "each", "every", "some", "many", "much", "few", "more",
+        "most", "other", "another", "both", "either", "neither", "no", "not",
+        "none", "one", "two", "three", "first", "second", "last", "own",
+        # interrogatives / relatives
+        "who", "whom", "whose", "which", "what", "where", "when", "why", "how",
+        # common adverbs / fillers
+        "very", "just", "only", "also", "even", "still", "ever", "never",
+        "always", "often", "sometimes", "usually", "now", "here", "there",
+        "yes", "well", "thus", "hence", "therefore", "however", "indeed",
+        "rather", "really", "perhaps", "almost",
+        # very common verbs / nouns that crush the index
+        "say", "said", "see", "seen", "saw", "make", "made", "take", "took",
+        "give", "gave", "go", "went", "gone", "come", "came", "get", "got",
+        "find", "found", "know", "knew", "known", "think", "thought",
+        "called", "use", "used", "place", "places", "way", "ways", "time",
+        "times", "year", "years", "day", "days", "thing", "things",
+    },
+    "pt-BR": {
+        # artigos, preposições, conjunções
+        "o", "a", "os", "as", "um", "uma", "uns", "umas",
+        "de", "do", "da", "dos", "das", "em", "no", "na", "nos", "nas",
+        "ao", "à", "aos", "às", "por", "para", "com", "sem", "sob", "sobre",
+        "entre", "até", "desde", "contra", "perante",
+        "e", "ou", "mas", "porém", "todavia", "contudo", "que", "se", "como",
+        "quando", "porque", "pois", "então", "logo", "assim", "também", "ainda",
+        # verbos auxiliares e comuns
+        "ser", "é", "são", "era", "eram", "foi", "foram", "sido", "sendo",
+        "estar", "está", "estão", "estava", "estavam", "esteve", "estiveram",
+        "ter", "tem", "têm", "tinha", "tinham", "teve", "tiveram", "tido",
+        "haver", "há", "havia", "houve", "houveram",
+        "ir", "vai", "vão", "ia", "iam", "foi", "foram",
+        "fazer", "faz", "fazem", "fez", "fizeram", "feito",
+        "dizer", "diz", "dizem", "disse", "disseram", "dito",
+        "poder", "pode", "podem", "podia", "podiam", "pôde", "puderam",
+        "querer", "quer", "querem", "queria", "queriam",
+        # pronomes
+        "eu", "tu", "ele", "ela", "nós", "vós", "eles", "elas",
+        "me", "te", "lhe", "lhes", "nos", "vos", "se", "si",
+        "meu", "minha", "meus", "minhas",
+        "teu", "tua", "teus", "tuas",
+        "seu", "sua", "seus", "suas",
+        "nosso", "nossa", "nossos", "nossas",
+        "vosso", "vossa", "vossos", "vossas",
+        # demonstrativos / quantificadores
+        "este", "esta", "estes", "estas", "isto",
+        "esse", "essa", "esses", "essas", "isso",
+        "aquele", "aquela", "aqueles", "aquelas", "aquilo",
+        "todo", "toda", "todos", "todas", "muito", "muita", "muitos", "muitas",
+        "pouco", "pouca", "poucos", "poucas", "mais", "menos", "outro", "outra",
+        "outros", "outras", "mesmo", "mesma", "mesmos", "mesmas", "tal", "tais",
+        # interrogativos / negação
+        "qual", "quais", "quem", "onde", "quando", "como", "porque", "porquê",
+        "não", "nem", "nunca", "jamais", "sim",
+    },
+    "la": {
+        # conjunções e preposições
+        "et", "ac", "atque", "aut", "vel", "sed", "nec", "neque", "que",
+        "in", "ad", "ex", "de", "ab", "cum", "per", "pro", "sine", "sub",
+        "super", "inter", "ante", "post", "apud", "circa", "contra",
+        # auxiliares
+        "est", "sunt", "esse", "erat", "erant", "fuit", "fuerunt", "fuisse",
+        "sit", "sint", "esset", "essent",
+        # pronomes
+        "ego", "tu", "is", "ea", "id", "nos", "vos", "ipse", "ipsa", "ipsum",
+        "se", "sui", "sibi", "me", "te", "mihi", "tibi", "nobis", "vobis",
+        "meus", "mea", "meum", "tuus", "tua", "tuum",
+        "suus", "sua", "suum", "noster", "vester",
+        "hic", "haec", "hoc", "ille", "illa", "illud", "iste", "ista", "istud",
+        "qui", "quae", "quod", "quis", "quae", "quid",
+        # negação / advérbios comuns
+        "non", "ne", "nihil", "nullus", "nec", "neque", "etiam", "iam", "nunc",
+        "tunc", "ubi", "ibi", "hic", "inde", "tam", "ita", "sic", "ut", "uti",
+        "si", "nisi", "quia", "quoniam", "quod", "cum", "dum", "donec",
+        # verbos comuns
+        "facere", "facit", "fecit", "factus", "dicere", "dicit", "dixit",
+        "habere", "habet", "habuit", "potest", "posse", "potuit",
+    },
+}
+
+# Word boundary tokenizer — Unicode letters, ≥2 chars, lowercased. Mirrors
+# what the JS-side stemmer will see at query time.
+_TOKEN_RE = re.compile(r"[\w]{2,}", re.UNICODE)
+
+# Markdown and HTML stripping for search-index text extraction. The output
+# does not need to be presentation-perfect — only good enough to yield clean
+# tokens. Snippet text shown at query time comes from a runtime chapter
+# fetch + stripHtml, not from these strings.
+_MD_STRIPPERS: list[tuple[re.Pattern[str], str]] = [
+    (re.compile(r"^---\n.*?\n---\n", re.DOTALL), ""),     # frontmatter
+    (re.compile(r"```.*?```", re.DOTALL), " "),            # fenced code
+    (re.compile(r"`([^`]+)`"), r"\1"),                     # inline code
+    (re.compile(r"!\[[^\]]*\]\([^)]*\)"), " "),            # images
+    (re.compile(r"\[([^\]]+)\]\([^)]*\)"), r"\1"),         # links → text
+    (re.compile(r"\[\^[^\]]+\]"), " "),                    # footnote refs
+    (re.compile(r"^>\s?", re.MULTILINE), ""),              # blockquote
+    (re.compile(r"^#{1,6}\s+", re.MULTILINE), ""),         # headers
+    (re.compile(r"[*_]{1,3}([^*_]+)[*_]{1,3}"), r"\1"),    # emphasis
+    (re.compile(r"<[^>]+>"), " "),                         # html tags
+]
+
+
+def extract_plain_text(raw: str, is_html: bool) -> str:
+    """Strip markdown / HTML markup down to tokenizable plain text."""
+    text = raw
+    if is_html:
+        text = re.sub(r"<[^>]+>", " ", text)
+    else:
+        for pat, repl in _MD_STRIPPERS:
+            text = pat.sub(repl, text)
+    return text
+
+
+# Posting list cap per stem — top N chapters by frequency are kept; rarer
+# matches are dropped. Users almost never scroll past 100 results.
+POSTINGS_CAP_PER_STEM = 100
+
+# Document-frequency cap. A stem present in more than this fraction of the
+# book's chapters is dropped entirely — too common to be useful for ranking
+# and a major source of bloat.
+DF_FRACTION_CAP = 0.5
+
+
+def build_search_index_for_book(
+    chapters_by_lang: dict[str, dict[str, dict]],
+    chapter_sources: dict[str, dict[str, tuple[bytes, bool]]],
+) -> dict[str, dict]:
+    """Build {lang -> index dict} given the chapter raw bytes by id+lang.
+
+    Index shape (compact; the reader rebuilds the human form at query time):
+        { "v": 1, "l": "en-US", "s": "snowball-english",
+          "c": ["chapId0", "chapId1", ...],
+          "t": { "<stem>": [chapIdx, count, chapIdx, count, ...] } }
+
+    Posting lists are flat `[ci, n, ci, n, ...]` arrays sorted by count desc.
+    Surface forms are NOT stored — the reader re-stems chapter text at snippet
+    time to find an anchor (cheap, since only the top ~20 visible results need
+    snippets and the body is fetched lazily anyway).
+    """
+    langs: set[str] = set()
+    for per_lang in chapters_by_lang.values():
+        langs.update(per_lang.keys())
+
+    indexes: dict[str, dict] = {}
+    for lang in sorted(langs):
+        algo = SEARCH_STEMMERS.get(lang)
+        stemmer = snowballstemmer.stemmer(algo) if algo else None
+        stopwords = SEARCH_STOPWORDS.get(lang, set())
+        if stemmer is not None and stopwords:
+            stopwords = set(stemmer.stemWords(sorted(stopwords)))
+
+        chapter_ids = sorted(cid for cid, per in chapters_by_lang.items() if lang in per)
+        chapter_idx_of = {cid: i for i, cid in enumerate(chapter_ids)}
+        df_drop_threshold = max(1, int(len(chapter_ids) * DF_FRACTION_CAP))
+
+        # stem -> { chapter_idx: count }
+        postings: dict[str, dict[int, int]] = {}
+
+        for cid in chapter_ids:
+            raw_bytes, is_html = chapter_sources[cid][lang]
+            try:
+                raw = raw_bytes.decode("utf-8", errors="replace")
+            except Exception:
+                continue
+            text = extract_plain_text(raw, is_html)
+            ci = chapter_idx_of[cid]
+            for match in _TOKEN_RE.finditer(text):
+                surface = match.group(0).lower()
+                stem = stemmer.stemWord(surface) if stemmer else surface
+                if len(stem) < 2 or stem in stopwords:
+                    continue
+                bucket = postings.setdefault(stem, {})
+                bucket[ci] = bucket.get(ci, 0) + 1
+
+        compact_tokens: dict[str, list[int]] = {}
+        for stem, by_chap in postings.items():
+            if len(by_chap) > df_drop_threshold:
+                continue  # too common to be useful
+            ranked = sorted(by_chap.items(), key=lambda kv: (-kv[1], kv[0]))
+            ranked = ranked[:POSTINGS_CAP_PER_STEM]
+            flat: list[int] = []
+            for ci, n in ranked:
+                flat.append(ci)
+                flat.append(n)
+            compact_tokens[stem] = flat
+
+        indexes[lang] = {
+            "v": 1,
+            "l": lang,
+            "s": f"snowball-{algo}" if algo else "none",
+            "c": chapter_ids,
+            "t": compact_tokens,
+        }
+
+    return indexes
+
+
 def build_books(b: Builder) -> None:
     src = CONTENT / "books"
     if not src.is_dir():
@@ -370,17 +610,22 @@ def build_books(b: Builder) -> None:
         bid = meta.get("id") or d.name
 
         chapters_by_lang: dict[str, dict[str, dict]] = {}
+        chapter_sources: dict[str, dict[str, tuple[bytes, bool]]] = {}
         for sub in sorted(d.iterdir()):
             if sub.is_dir() and sub.name not in {"images", "fonts"} and not (sub / "book.json").is_file():
                 lang = sub.name
                 for ff in sorted(sub.glob("*.md")):
                     chap_id = ff.stem
-                    bh, bs = b.write_blob(ff.read_bytes())
+                    raw = ff.read_bytes()
+                    bh, bs = b.write_blob(raw)
                     chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs}
+                    chapter_sources.setdefault(chap_id, {})[lang] = (raw, False)
                 for ff in sorted(sub.glob("*.html")):
                     chap_id = ff.stem
-                    bh, bs = b.write_blob(ff.read_bytes())
+                    raw = ff.read_bytes()
+                    bh, bs = b.write_blob(raw)
                     chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs, "format": "html"}
+                    chapter_sources.setdefault(chap_id, {})[lang] = (raw, True)
 
         images = []
         img_dir = d / "images"
@@ -391,11 +636,20 @@ def build_books(b: Builder) -> None:
                     ih, isize = b.write_blob(ff.read_bytes())
                     images.append({"rel": rel, "hash": ih, "size": isize, "mime": _mime_for(ff)})
 
+        search_index_refs: dict[str, dict] = {}
+        if chapters_by_lang:
+            indexes = build_search_index_for_book(chapters_by_lang, chapter_sources)
+            for lang, index in indexes.items():
+                sih, sis = b.write_json_blob(index)
+                search_index_refs[lang] = {"hash": sih, "size": sis}
+
         item_manifest = {**meta, "id": f"book/{bid}", "chapters": chapters_by_lang}
         if style_entry:
             item_manifest["style"] = style_entry
         if images:
             item_manifest["images"] = images
+        if search_index_refs:
+            item_manifest["searchIndex"] = search_index_refs
 
         ih, isize = b.write_json_blob(item_manifest)
         catalog_entry = {"kind": "book", "hash": ih, "size": isize}

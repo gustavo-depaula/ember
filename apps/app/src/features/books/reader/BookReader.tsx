@@ -3,7 +3,6 @@ import { useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { AppState } from 'react-native'
-import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, View, YStack } from 'tamagui'
 
@@ -18,9 +17,8 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 import {
   buildTitleLookup,
   flattenTocLeaves,
-  getChapterBody,
-  type LoadProgress,
-  loadBookContent,
+  openBookSession,
+  withChapterTitle,
 } from './bookContent'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
@@ -30,7 +28,7 @@ import {
 } from './bookPaletteOverride'
 import { ChapterCompleteToast } from './ChapterCompleteToast'
 import { listCompletedChapters, markChapterCompleted } from './chapterCompletions'
-import { buildChapterTimings, persistChapterTimings } from './chapterTimings'
+import { type ChapterTiming, estimateChapterTiming, persistChapterTimings } from './chapterTimings'
 import { FootnoteSheet } from './FootnoteSheet'
 import {
   type BootstrapHighlight,
@@ -71,45 +69,21 @@ type Props = {
 
 type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | 'highlights' | null
 
-const BAR_WIDTH = 220
-
-function computeProgressFraction(p: LoadProgress | undefined): number {
-  if (!p) return 0
-  const ratio = p.total > 0 ? p.completed / p.total : 0
-  if (p.phase === 'manifest') return ratio * 0.1
-  if (p.phase === 'chapters') return 0.1 + ratio * 0.6
-  return 0.7 + ratio * 0.3
-}
-
-const phaseToKey = {
-  manifest: 'books.loadingManifest',
-  chapters: 'books.loadingChapters',
-  images: 'books.loadingImages',
-} as const
-
+/**
+ * Minimal splash shown while the manifest + initial chapter resolve. Once
+ * chapters stream in on demand (and the cache is warm on re-opens), this
+ * window is sub-second on any book — no per-chapter progress to surface.
+ */
 function LoadingPane({
   background,
   color,
   title,
-  progress,
 }: {
   background: string
   color: string
   title: string
-  progress: LoadProgress | undefined
 }) {
   const { t } = useTranslation()
-  const fillWidth = useSharedValue(0)
-
-  // React batches setLoadProgress calls within the same task — 200+ chapters
-  // resolving in one tick would otherwise snap from 0 to 100% in one frame.
-  useEffect(() => {
-    fillWidth.value = withTiming(computeProgressFraction(progress) * BAR_WIDTH, { duration: 300 })
-  }, [progress, fillWidth])
-
-  const fillStyle = useAnimatedStyle(() => ({ width: fillWidth.value }))
-  const statusKey = progress ? phaseToKey[progress.phase] : 'books.opening'
-
   return (
     <YStack
       flex={1}
@@ -129,22 +103,8 @@ function LoadingPane({
       >
         {title}
       </Text>
-      <View
-        width={BAR_WIDTH}
-        height={3}
-        backgroundColor={color}
-        opacity={0.15}
-        borderRadius={2}
-        overflow="hidden"
-      >
-        <Animated.View style={[{ height: 3, backgroundColor: color }, fillStyle]} />
-      </View>
       <Text fontFamily="$body" fontSize="$1" color={color} opacity={0.55}>
-        {t(statusKey, {
-          defaultValue: 'Opening…',
-          done: progress?.completed ?? 0,
-          total: progress?.total ?? 0,
-        })}
+        {t('books.opening', { defaultValue: 'Opening…' })}
       </Text>
     </YStack>
   )
@@ -221,47 +181,68 @@ export function BookReader({ bookId, chapter }: Props) {
     return { startIndex: 0, startFraction: 0 }
   }, [leaves, chapter, cursor.initial])
 
-  const [loadProgress, setLoadProgress] = useState<LoadProgress | undefined>(undefined)
-
+  // Session = manifest + CSS + a lazy chapter fetcher backed by a 32-entry
+  // LRU. Two HTTP round-trips on a cold cache (catalog + manifest) before
+  // we can render anything, both of which are also cached forever.
   const {
-    data: bookContent,
-    isLoading,
-    isError,
+    data: session,
+    isLoading: sessionLoading,
+    isError: sessionError,
     refetch,
   } = useQuery({
-    queryKey: ['book-content', bookId, lang, leaves.length],
-    queryFn: () =>
-      loadBookContent(
-        bookId,
-        lang,
-        leaves.map((l) => l.id),
-        setLoadProgress,
-      ),
-    enabled: !!bookEntry && leaves.length > 0 && cursor.initial.loaded,
+    queryKey: ['book-session', bookId, lang],
+    queryFn: () => openBookSession(bookId, lang),
+    enabled: !!bookEntry && leaves.length > 0,
     staleTime: Number.POSITIVE_INFINITY,
   })
 
-  const chapters = useMemo(() => {
-    if (!bookContent) return undefined
-    return leaves.map((l) => getChapterBody(bookContent, l.id, titleLookup.get(l.id)))
-  }, [bookContent, leaves, titleLookup])
+  // The first chapter needs to be in hand BEFORE we paint the WebView host
+  // HTML (foliate has to open *something*). Subsequent chapters stream in
+  // via the requestChapter bridge.
+  const {
+    data: initialChapterRaw,
+    isLoading: initialChapterLoading,
+    isError: initialChapterError,
+  } = useQuery({
+    queryKey: ['book-chapter', bookId, lang, startIndex],
+    queryFn: () => session?.getChapter(startIndex),
+    enabled: !!session && cursor.initial.loaded && leaves.length > 0,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+  const initialChapter =
+    initialChapterRaw === undefined
+      ? undefined
+      : withChapterTitle(initialChapterRaw, titleLookup.get(leaves[startIndex]?.id ?? ''))
 
-  const chapterTimings = useMemo(
-    () =>
-      buildChapterTimings(
-        chapters,
-        leaves.map((l) => l.id),
-      ),
-    [chapters, leaves],
+  const isLoading = sessionLoading || initialChapterLoading || !cursor.initial.loaded
+  const isError = sessionError || initialChapterError
+
+  // Frontispiece reads the persisted map to show remaining-time estimates
+  // without re-stripping every chapter. Each new body schedules a debounced
+  // flush — quiet sessions write zero times. Final flush on unmount.
+  const chapterTimingsRef = useRef<Map<string, ChapterTiming>>(new Map())
+  const persistTimeoutRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined)
+  const recordTiming = useCallback(
+    (chapterId: string, body: string) => {
+      const timings = chapterTimingsRef.current
+      if (timings.has(chapterId)) return
+      timings.set(chapterId, estimateChapterTiming(body))
+      if (persistTimeoutRef.current) return
+      persistTimeoutRef.current = setTimeout(() => {
+        persistTimeoutRef.current = undefined
+        void persistChapterTimings(bookId, new Map(chapterTimingsRef.current))
+      }, 5_000)
+    },
+    [bookId],
   )
-
-  // Persist timings once they're available so the frontispiece can show
-  // remaining-time estimates without loading every chapter.
-  useEffect(() => {
-    if (chapterTimings && chapterTimings.size > 0) {
-      void persistChapterTimings(bookId, chapterTimings)
-    }
-  }, [bookId, chapterTimings])
+  useEffect(
+    () => () => {
+      if (!persistTimeoutRef.current) return
+      clearTimeout(persistTimeoutRef.current)
+      void persistChapterTimings(bookId, new Map(chapterTimingsRef.current))
+    },
+    [bookId],
+  )
 
   const [chapterIndex, setChapterIndex] = useState(0)
   const [fraction, setFraction] = useState(0)
@@ -328,15 +309,14 @@ export function BookReader({ bookId, chapter }: Props) {
     [toBootstrapPayload],
   )
   const [foliateReady, setFoliateReady] = useState(false)
-  // The scrubber dots are derived from highlight `anchor.startOffset` divided
-  // by the chapter's plain-text length. Foliate's column-flow doesn't expose a
-  // direct offset→page mapping in RN, but the linear approximation is plenty
-  // accurate for a 5pt dot on a 200pt scrubber. Bounded by `bookContent`
-  // having loaded.
+  // Scrubber dot fractions = anchor.startOffset / chapter plain-text length.
+  // Foliate's column-flow doesn't expose offset→page in RN, but the linear
+  // approximation is plenty accurate for a 5pt dot on a 200pt scrubber.
   const highlightMarkers = useMemo(() => {
     const id = leaves[chapterIndex]?.id
-    if (!id || !bookContent) return undefined
-    const body = getChapterBody(bookContent, id, titleLookup.get(id))
+    if (!id || !session) return undefined
+    const body = session.getCachedChapter(chapterIndex)
+    if (!body) return undefined
     const total = stripHtml(body).length
     if (total === 0) return undefined
     return highlights
@@ -346,7 +326,7 @@ export function BookReader({ bookId, chapter }: Props) {
         fraction: Math.max(0, Math.min(1, h.anchor.startOffset / total)),
         color: HIGHLIGHT_COLORS[h.color].swatch,
       }))
-  }, [highlights, leaves, chapterIndex, bookContent, titleLookup])
+  }, [highlights, leaves, chapterIndex, session])
   // Anchored toolbar state. `editingHighlightId` is undefined for a fresh
   // selection (the user just dragged text) and set when the user tapped an
   // existing highlight rectangle — the toolbar shows the trash action in that
@@ -462,11 +442,36 @@ export function BookReader({ bookId, chapter }: Props) {
           }
           setChromeShown((s) => !s)
           return
+        case 'requestChapter': {
+          if (!session) return
+          const id = leaves[msg.index]?.id
+          void session
+            .getChapter(msg.index)
+            .then((body) => {
+              if (id) recordTiming(id, body)
+              foliateRef.current?.provideChapter(
+                msg.index,
+                withChapterTitle(body, id ? titleLookup.get(id) : undefined),
+              )
+            })
+            .catch((err) => {
+              console.warn(`[BookReader] requestChapter ${msg.index} failed:`, err)
+            })
+          return
+        }
         case 'relocate': {
           setChapterIndex(msg.index)
           setFraction(msg.fraction)
           setPagesLeft(Math.max(0, msg.pages - msg.page))
           setChapterPages(msg.pages)
+          // ±2 lookahead keeps page-flips through a section boundary instant.
+          if (session) {
+            for (const off of [-2, -1, 1, 2]) {
+              const i = msg.index + off
+              if (i < 0 || i >= leaves.length) continue
+              session.preloadChapter(i)
+            }
+          }
           // Page-turn haptic + session page counter. Skip the first relocate
           // (initial load) and any relocate that fires within 250ms of the
           // previous one (scrubbing).
@@ -483,6 +488,8 @@ export function BookReader({ bookId, chapter }: Props) {
           const chapterId = leaves[msg.index]?.id
           if (chapterId) {
             cursor.save({ chapterId, fraction: msg.fraction })
+            const cached = session?.getCachedChapter(msg.index)
+            if (cached) recordTiming(chapterId, cached)
             if (msg.fraction >= 0.95 && !justMarkedRef.current.has(chapterId)) {
               justMarkedRef.current.add(chapterId)
               sessionChaptersDoneRef.current += 1
@@ -550,7 +557,17 @@ export function BookReader({ bookId, chapter }: Props) {
         }
       }
     },
-    [leaves, cursor.save, chapterIndex, fraction, bookId, titleLookup, setEditingHighlightId],
+    [
+      leaves,
+      cursor.save,
+      chapterIndex,
+      fraction,
+      bookId,
+      titleLookup,
+      setEditingHighlightId,
+      session,
+      recordTiming,
+    ],
   )
 
   // Replay the persisted highlight set into the WebView whenever the engine
@@ -786,15 +803,8 @@ export function BookReader({ bookId, chapter }: Props) {
     )
   }
 
-  if (isLoading || !cursor.initial.loaded || !chapters) {
-    return (
-      <LoadingPane
-        background={config.background}
-        color={config.color}
-        title={bookTitle}
-        progress={loadProgress}
-      />
-    )
+  if (isLoading || !session || initialChapter === undefined) {
+    return <LoadingPane background={config.background} color={config.color} title={bookTitle} />
   }
 
   const currentPosition = currentChapterId ? { chapterId: currentChapterId, fraction } : undefined
@@ -803,7 +813,8 @@ export function BookReader({ bookId, chapter }: Props) {
     <View flex={1} backgroundColor={config.background}>
       <FoliateReader
         ref={foliateRef}
-        chapters={chapters}
+        chapterCount={leaves.length}
+        initialChapter={initialChapter}
         initialIndex={startIndex}
         initialFraction={startFraction}
         config={config}
@@ -871,7 +882,7 @@ export function BookReader({ bookId, chapter }: Props) {
           toc={bookEntry.toc}
           currentChapterId={currentChapterId}
           completedChapterIds={completed}
-          chapterTimings={chapterTimings}
+          chapterTimings={chapterTimingsRef.current}
           onSelect={handleSelectChapter}
         />
       )}
@@ -897,7 +908,10 @@ export function BookReader({ bookId, chapter }: Props) {
       <ReaderSearchSheet
         open={sheet === 'search'}
         onClose={() => setSheet(null)}
-        bodies={chapters}
+        bookId={bookId}
+        lang={lang}
+        manifest={bookEntry}
+        session={session}
         leaves={leaves}
         titleLookup={titleLookup}
         onSelect={(idx, query) => foliateRef.current?.goToWithFind(idx, query)}

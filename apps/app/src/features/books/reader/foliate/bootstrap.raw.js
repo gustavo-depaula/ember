@@ -8,7 +8,7 @@
 // — that's the entire point of extracting it. It's never embedded in a
 // host-side template literal.
 
-window.__foliateInit = (initialCfg, initialChapters, initialIndex, initialFraction) => {
+window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction, initialChapter) => {
   const post = (msg) => {
     const json = JSON.stringify(msg);
     if (window.ReactNativeWebView) window.ReactNativeWebView.postMessage(json);
@@ -17,8 +17,27 @@ window.__foliateInit = (initialCfg, initialChapters, initialIndex, initialFracti
   window.onerror = (m, _u, l) => post({ type: 'error', message: String(m) + ' @' + l });
 
   let cfg = initialCfg;
-  let chapters = initialChapters;
-  let urls = [];
+  let chapterTotal = chapterCount;
+  // One Map<index, {body?, url?, pending?}>. Map insertion order is recency
+  // for the LRU pass below — a long reading session would otherwise grow this
+  // unboundedly (12k chapters * ~10 KB = 120 MB worst case).
+  const SECTION_LRU_CAP = 64;
+  const sections = new Map();
+  const getSection = (i) => {
+    let s = sections.get(i);
+    if (!s) { s = {}; sections.set(i, s); }
+    return s;
+  };
+  const evictIfNeeded = () => {
+    while (sections.size > SECTION_LRU_CAP) {
+      const oldestIdx = sections.keys().next().value;
+      if (oldestIdx === undefined) break;
+      const old = sections.get(oldestIdx);
+      if (old && old.url) URL.revokeObjectURL(old.url);
+      sections.delete(oldestIdx);
+    }
+  };
+  if (typeof initialChapter === 'string') getSection(initialIndex).body = initialChapter;
   let paginator;
   // Per-chapter highlight store; persisted-state mirror that lives across
   // chapter loads. Replayed into each overlayer as foliate creates one.
@@ -272,20 +291,62 @@ window.__foliateInit = (initialCfg, initialChapters, initialIndex, initialFracti
     }
   }
 
+  // Lazy blob URL backed by the section's body. Returns undefined when the
+  // body hasn't arrived yet; loadSection handles the request round-trip.
+  const ensureSectionUrl = (i) => {
+    const s = getSection(i);
+    if (s.url) return s.url;
+    if (s.body === undefined) return undefined;
+    s.url = blobUrl(s.body);
+    return s.url;
+  };
+
+  // Foliate awaits this (paginator line ~1013). Cache-hit returns synchronously;
+  // cache-miss posts requestChapter and resolves once provideChapter lands.
+  const loadSection = (i) => {
+    const ready = ensureSectionUrl(i);
+    if (ready) return Promise.resolve(ready);
+    const s = getSection(i);
+    if (s.pending) return s.pending.promise;
+    let resolve, reject;
+    const promise = new Promise((res, rej) => { resolve = res; reject = rej; });
+    const timeoutId = setTimeout(() => {
+      const cur = sections.get(i);
+      if (cur) cur.pending = undefined;
+      reject(new Error('chapter ' + i + ' load timed out'));
+    }, 15000);
+    s.pending = { promise, resolve, reject, timeoutId };
+    post({ type: 'requestChapter', index: i });
+    return promise;
+  };
+
+  // Revoke the URL but keep the body — cheap to re-blob if foliate revisits.
+  const unloadSection = (i) => {
+    const s = sections.get(i);
+    if (!s || !s.url) return;
+    URL.revokeObjectURL(s.url);
+    s.url = undefined;
+  };
+
   const buildBook = () => {
-    for (const u of urls) URL.revokeObjectURL(u);
-    urls = chapters.map(blobUrl);
-    return {
-      dir: 'ltr',
-      sections: urls.map((u, i) => ({
-        id: 'ch' + i,
-        load: () => u,
-        unload: () => {},
-        size: chapters[i].length,
+    // Style change → drop stale URLs so the next load re-blobs with fresh CSS.
+    for (const s of sections.values()) {
+      if (s.url) { URL.revokeObjectURL(s.url); s.url = undefined; }
+    }
+    const out = [];
+    for (let i = 0; i < chapterTotal; i++) {
+      const idx = i;
+      const s = sections.get(idx);
+      out.push({
+        id: 'ch' + idx,
+        load: () => loadSection(idx),
+        unload: () => unloadSection(idx),
+        size: (s && s.body && s.body.length) || 1,
         linear: 'yes',
         cfi: '',
-      })),
-    };
+      });
+    }
+    return { dir: 'ltr', sections: out };
   };
 
   const postRelocate = (e) => {
@@ -476,15 +537,30 @@ window.__foliateInit = (initialCfg, initialChapters, initialIndex, initialFracti
   };
 
   window.__foliate = {
-    loadBook: (newChapters, index, fraction) => {
-      chapters = newChapters;
-      // No explicit location → preserve current paginator position so
-      // mid-session chapter-list changes don't reset the reader.
-      const here =
-        index === undefined && paginator
-          ? currentLocation()
-          : { index: index ?? 0, fraction: fraction ?? 0 };
-      openBook(here.index, here.fraction);
+    // Host streams chapter bodies as the user navigates. Idempotent — the
+    // same body arriving twice is a no-op.
+    provideChapter: (index, body) => {
+      const s = getSection(index);
+      if (s.body !== body) {
+        s.body = body;
+        // Drop the stale blob URL so ensureSectionUrl regenerates from the
+        // new body (covers lang switch / content edits).
+        if (s.url) { URL.revokeObjectURL(s.url); s.url = undefined; }
+      }
+      const pending = s.pending;
+      if (pending) {
+        clearTimeout(pending.timeoutId);
+        s.pending = undefined;
+        try {
+          const url = ensureSectionUrl(index);
+          if (url) pending.resolve(url);
+          else pending.reject(new Error('chapter ' + index + ' body unavailable'));
+        } catch (err) { pending.reject(err); }
+      }
+      // Move to most-recent slot in the LRU, then evict.
+      sections.delete(index);
+      sections.set(index, s);
+      evictIfNeeded();
     },
     goTo: ({ index, fraction }) => {
       if (!paginator) return;
