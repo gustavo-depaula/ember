@@ -1,0 +1,61 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "In memory of the Passion",
+				"pt-BR": "Em memória da Paixão"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Friday is the day Christ died. The Church asks every Friday a small penance of her faithful — and the spirit of Opus Dei asks that it be hidden, constant, and concrete. Not a great gesture; a real one.",
+				"pt-BR": "A sexta-feira é o dia em que Cristo morreu. A Igreja pede em cada sexta-feira uma pequena penitência aos seus fiéis — e o espírito do Opus Dei pede que ela seja oculta, constante e concreta. Não um gesto grandioso; um gesto real."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Small, hidden, concrete",
+				"pt-BR": "Pequena, oculta, concreta"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "*That mortification of yours, that constant mortification… is worth more than great penances done by fits and starts.* (Camino §175)\n\nWhere will you mortify today? — food (a second helping refused, sweets passed by), comfort (the elevator skipped, the cold of the shower kept a moment longer), speech (a sharp word swallowed, a complaint not voiced), gaze (a screen put down, a glance held back), or time (five minutes given without grudge, a task done at once that you would rather delay).\n\nChoose one. Small. Hidden. Concrete.",
+				"pt-BR": "*Essa tua mortificação, essa mortificação constante… vale mais que grandes penitências por arrancos.* (Caminho §175)\n\nOnde você vai mortificar-se hoje? — na comida (uma segunda porção recusada, um doce dispensado), no conforto (o elevador deixado de lado, o frio do chuveiro mantido por mais um instante), na palavra (uma resposta áspera engolida, uma queixa não dita), no olhar (uma tela deixada de lado, um olhar contido) ou no tempo (cinco minutos dados sem ranço, uma tarefa feita já, que você adiaria).\n\nEscolha uma. Pequena. Oculta. Concreta."
+			}
+		},
+		{
+			"type": "capture-resolution",
+			"level": "daily",
+			"for": "current",
+			"prompt": {
+				"en-US": "Your mortification for this Friday.",
+				"pt-BR": "Sua mortificação desta sexta-feira."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Offering",
+				"pt-BR": "Oferecimento"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "All for You, Jesus crucified.\nFor love of You, and through the Heart of Your Mother,\nI offer this small thing in union with Your Passion —\nfor the Church, for souls, and for the cleansing of my own.\nAmen.",
+				"pt-BR": "Tudo por Vós, Jesus crucificado.\nPor vosso amor, e pelo Coração de Vossa Mãe,\nofereço esta pequena coisa em união à vossa Paixão —\npela Igreja, pelas almas e pela purificação da minha.\nAmém."
+			}
+		}
+	]
+}

@@ -116,34 +116,19 @@
       }
     },
     {
-      "placeholder": true,
-      "name": {
-        "en-US": "The Preces",
-        "pt-BR": "As Preces"
-      },
+      "ref": "preces-opus-dei",
       "tier": "essential",
-      "cadence": {
-        "en-US": "Daily",
-        "pt-BR": "Diário"
-      },
-      "icon": "scroll",
+      "schedule": { "type": "daily" },
       "note": {
         "en-US": "The vocal prayers of the Work, prayed each day — a litany that binds the member to the whole of Opus Dei, to the Church, the Pope, and the souls entrusted to its apostolate.",
         "pt-BR": "As orações vocais da Obra, rezadas a cada dia — uma ladainha que une o membro a todo o Opus Dei, à Igreja, ao Papa e às almas confiadas ao seu apostolado."
       }
     },
     {
-      "placeholder": true,
-      "name": {
-        "en-US": "Three Hail Marys",
-        "pt-BR": "Três Ave-Marias"
-      },
+      "ref": "three-hail-marys-opus-dei",
       "tier": "ideal",
-      "cadence": {
-        "en-US": "Daily, before sleep",
-        "pt-BR": "Diário, antes de dormir"
-      },
-      "icon": "rosary",
+      "schedule": { "type": "daily" },
+      "time": "22:30",
       "note": {
         "en-US": "Three Hail Marys before sleep, asking Our Lady for the gift of holy purity to guard the day just ended and the one to come.",
         "pt-BR": "Três Ave-Marias antes de dormir, pedindo a Nossa Senhora o dom da santa pureza para guardar o dia que termina e o que há de vir."
@@ -167,17 +152,9 @@
       }
     },
     {
-      "placeholder": true,
-      "name": {
-        "en-US": "Friday mortification",
-        "pt-BR": "Mortificação de sexta-feira"
-      },
+      "ref": "friday-mortification",
       "tier": "ideal",
-      "cadence": {
-        "en-US": "Weekly, Friday",
-        "pt-BR": "Semanal, sexta-feira"
-      },
-      "icon": "cross",
+      "schedule": { "type": "days-of-week", "days": [5] },
       "note": {
         "en-US": "A penance offered each Friday in memory of the Passion — small, hidden, and concrete, so that love is proven in the body and not only intended.",
         "pt-BR": "Uma penitência oferecida em cada sexta-feira em memória da Paixão — pequena, oculta e concreta, para que o amor se prove no corpo e não fique apenas na intenção."

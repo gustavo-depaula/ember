@@ -1,0 +1,51 @@
+{
+	"id": "three-hail-marys-opus-dei",
+	"icon": "rosary",
+	"alternativeTo": {
+		"id": "three-hail-marys",
+		"label": {
+			"en-US": "Opus Dei (for purity, before sleep)",
+			"pt-BR": "Opus Dei (pela pureza, antes de dormir)"
+		},
+		"description": {
+			"en-US": "Three Hail Marys prayed each night asking Our Lady for the gift of holy purity — the counsel St. Josemaría gave again and again.",
+			"pt-BR": "Três Ave-Marias rezadas a cada noite pedindo a Nossa Senhora o dom da santa pureza — o conselho que São Josemaria deu uma e outra vez."
+		}
+	},
+	"source": {
+		"en-US": "St. Josemaría Escrivá, *The Way* (Camino) §514 — *My son, every day pray three Hail Marys to Our Lady for your purity*; cf. §§ 174, 282. Closing aspiration *Mater purissima* from the Litany of Loreto.",
+		"pt-BR": "São Josemaria Escrivá, *Caminho* §514 — *Filhinho meu, reza todos os dias três Ave-Marias a Nossa Senhora pela tua pureza*; cf. §§ 174, 282. Jaculatória final *Mãe puríssima* da Ladainha de Loreto."
+	},
+	"name": {
+		"en-US": "Three Hail Marys (Opus Dei)",
+		"pt-BR": "Três Ave-Marias (Opus Dei)"
+	},
+	"categories": ["daily", "marian"],
+	"estimatedMinutes": 2,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "Three Hail Marys prayed before sleep, asking Our Lady for the gift of holy purity — a counsel St. Josemaría gave continually to those who came to him for spiritual direction.",
+		"pt-BR": "Três Ave-Marias rezadas antes de dormir, pedindo a Nossa Senhora o dom da santa pureza — conselho que São Josemaria dava continuamente aos que iam até ele em direção espiritual."
+	},
+	"history": {
+		"en-US": "Among the counsels St. Josemaría repeated most often to his spiritual children was the nightly prayer of three Hail Marys for holy purity. *Camino* §514 puts it plainly: *My son, every day pray three Hail Marys to Our Lady for your purity, that you may close the night clean and rise unstained.* The practice predates Opus Dei in popular Spanish devotion, but Escrivá made it the small Marian seal of every member's day — short, hidden, and never to be omitted.",
+		"pt-BR": "Entre os conselhos que São Josemaria repetia com mais insistência aos seus filhos espirituais estava a oração noturna de três Ave-Marias pela santa pureza. *Caminho* §514 o diz com simplicidade: *Filhinho meu, reza todos os dias três Ave-Marias a Nossa Senhora pela tua pureza, para que feches a noite limpo e te levantes sem mancha.* A prática é anterior ao Opus Dei na devoção popular espanhola, mas Escrivá fez dela o pequeno selo mariano do dia de cada membro — breve, oculto e nunca a ser omitido."
+	},
+	"howToPray": {
+		"en-US": "At the end of the day, before sleep, recall briefly that you are a child of God and that Our Lady guards your purity. Pray three Hail Marys slowly, asking her for purity of body, of mind, and of heart. Close with the aspiration *Mater purissima, ora pro nobis.*",
+		"pt-BR": "Ao final do dia, antes de dormir, recorde brevemente que você é filho de Deus e que Nossa Senhora guarda a sua pureza. Reze três Ave-Marias pausadamente, pedindo-lhe pureza de corpo, de mente e de coração. Encerre com a jaculatória *Mãe puríssima, rogai por nós.*"
+	},
+	"tags": ["opus-dei", "marian", "night", "purity", "josemaria"],
+	"defaults": {
+		"sortOrder": 9,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"time": "22:30",
+				"tier": "ideal"
+			}
+		]
+	}
+}
