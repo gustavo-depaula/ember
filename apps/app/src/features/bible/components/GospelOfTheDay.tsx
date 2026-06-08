@@ -1,66 +1,35 @@
+import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { BookOpen } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { StyleSheet } from 'react-native'
+import { YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
-import { useTodayCelebration } from '@/features/calendar/hooks'
-import { localizeContent } from '@/lib/i18n'
+import { AnimatedPressable, InlineRetry } from '@/components'
+import { Typography } from '@/components/typography'
+import { blockInk, blockLabelInk, toneForKey } from '@/features/explore/bgColor'
+import { evangelistArtFor } from '@/features/explore/evangelistArt'
+import { useToday } from '@/hooks/useToday'
 import { useGospelOfTheDay as useGospelOfTheDayQuery } from '@/lib/mass-of/use-gospel-of-the-day'
+
+const dayMs = 86_400_000
 
 export function GospelOfTheDay() {
   const { t } = useTranslation()
   const router = useRouter()
-  const theme = useTheme()
+  const today = useToday()
   const { data: gospel, isLoading, isError, refetch } = useGospelOfTheDayQuery()
-  const dayCalendar = useTodayCelebration()
 
   if (isError) {
-    return (
-      <XStack
-        backgroundColor="$backgroundSurface"
-        borderRadius="$lg"
-        padding="$md"
-        gap="$sm"
-        alignItems="center"
-        borderWidth={1}
-        borderColor="$borderColor"
-        borderStyle="dashed"
-      >
-        <YStack
-          width={32}
-          height={32}
-          alignItems="center"
-          justifyContent="center"
-          backgroundColor="$accentSubtle"
-          borderRadius="$md"
-        >
-          <BookOpen size={18} color={theme.accent.val} />
-        </YStack>
-        <Text flex={1} fontFamily="$body" fontSize="$2" color="$colorSecondary">
-          {t('bible.discovery.gospelOffline')}
-        </Text>
-        <AnimatedPressable
-          onPress={refetch}
-          accessibilityRole="button"
-          accessibilityLabel={t('common.retry')}
-          hitSlop={8}
-        >
-          <Text fontFamily="$heading" fontSize="$2" color="$accent">
-            {t('common.retry')}
-          </Text>
-        </AnimatedPressable>
-      </XStack>
-    )
+    return <InlineRetry onRetry={refetch} />
   }
 
   if (isLoading || !gospel) return null
 
-  const celebrationName = dayCalendar?.principal
-    ? localizeContent(dayCalendar.principal.entry.name)
-    : undefined
-
-  const preview = gospel.text.length > 180 ? `${gospel.text.slice(0, 180)}...` : gospel.text
+  const dayIndex = Math.floor(today.getTime() / dayMs)
+  const image = evangelistArtFor(gospel.citation, dayIndex)
+  const tone = toneForKey('gospel-of-the-day')
+  const preview = gospel.text.length > 180 ? `${gospel.text.slice(0, 180).trimEnd()}…` : gospel.text
+  const title = gospel.citation ?? t('bible.discovery.gospelOfTheDay')
 
   return (
     <AnimatedPressable
@@ -74,44 +43,49 @@ export function GospelOfTheDay() {
       accessibilityLabel={t('bible.discovery.gospelOfTheDay')}
     >
       <YStack
-        backgroundColor="$backgroundSurface"
-        borderRadius="$lg"
-        padding="$md"
-        gap="$sm"
-        borderWidth={1}
-        borderColor="$borderColor"
+        height={340}
+        borderRadius={18}
+        overflow="hidden"
+        backgroundColor={tone.from}
+        justifyContent="flex-end"
       >
-        <XStack gap="$sm" alignItems="center">
-          <YStack
-            width={32}
-            height={32}
-            alignItems="center"
-            justifyContent="center"
-            backgroundColor="$accentSubtle"
-            borderRadius="$md"
+        {image && (
+          <Image
+            source={image}
+            style={StyleSheet.absoluteFill}
+            contentFit="cover"
+            transition={250}
+            cachePolicy="memory-disk"
+          />
+        )}
+        <YStack
+          padding="$lg"
+          gap="$xs"
+          backgroundColor={image ? 'rgba(0,0,0,0.42)' : 'transparent'}
+        >
+          <Typography
+            variant="marker"
+            textAlign="left"
+            color={blockLabelInk}
+            fontSize="$1"
+            letterSpacing={2}
           >
-            <BookOpen size={18} color={theme.accent.val} />
-          </YStack>
-          <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
-            {t('bible.discovery.gospelOfTheDay').toUpperCase()}
-          </Text>
-        </XStack>
-
-        {celebrationName && (
-          <Text fontFamily="$heading" fontSize="$3" color="$color">
-            {celebrationName}
-          </Text>
-        )}
-
-        {gospel.citation && (
-          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
-            {gospel.citation}
-          </Text>
-        )}
-
-        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" numberOfLines={3}>
-          {preview}
-        </Text>
+            {t('bible.discovery.gospelOfTheDay')}
+          </Typography>
+          <Typography
+            variant="sacred-title"
+            textAlign="left"
+            color={blockInk}
+            fontSize={30}
+            lineHeight={34}
+            numberOfLines={2}
+          >
+            {title}
+          </Typography>
+          <Typography variant="whisper" color="rgba(245,239,226,0.82)" numberOfLines={3}>
+            {preview}
+          </Typography>
+        </YStack>
       </YStack>
     </AnimatedPressable>
   )
