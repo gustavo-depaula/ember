@@ -4,7 +4,7 @@
 
 [1] Por estar incluído nos demais artigos de fé, não há dúvida que no Artigo sobre a remissão dos pecados vai um Mistério de caráter divino, que é de absoluta necessidade para a salvação.
 
-Conforme já foi explicado, ninguém pode chegar à Religião Cristã, se não admite com firmeza as doutrinas que o Símbolo nos propõe a crer.
+Conforme já explicado, ninguém pode chegar à Religião Cristã, se não admite com firmeza as doutrinas que o Símbolo nos propõe a crer.
 
 A verdade do presente Artigo devia ser familiar a todos os cristãos. No entanto, se for preciso confirmá-la com algum testemunho, basta lembrar o que disse Nosso Senhor, pouco antes de subir aos céus, quando esclarecia os Discípulos, para que alcançassem o sentido das Escrituras: "Era necessário que Cristo sofresse, e ao terceiro dia ressurgisse dos mortos, e que em Seu nome fosse pregada a penitência e a remissão dos pecados a todos os povos, a começar por Jerusalém"[^629].
 
@@ -12,7 +12,7 @@ Levando em conta estas palavras, os párocos sem mais reconhecerão que, embora 
 
 ## I. A Igreja tem poder de perdoar os pecados
 
-Nessa matéria, o pároco deverá ensinar que na Igreja Católica não existe apenas a remissão de pecados, conforme a predição de Isaías: "Do povo que nela habitar, será tirada toda a iniquidade"[^630]; — mas que na Igreja existe também o poder de remitir pecados.[^631]
+Nessa matéria, o pároco deverá ensinar que na Igreja Católica não existe apenas a remissão de pecados, conforme predição de Isaías: "Do povo que nela habitar, será tirada toda a iniquidade"[^630]; — mas que na Igreja existe também o poder de remitir pecados.[^631]
 
 Quando os sacerdotes fazem uso legítimo desse poder, segundo as leis prescritas por Cristo Nosso Senhor, devemos crer que os pecados são realmente extintos e perdoados.
 
@@ -24,7 +24,7 @@ Mas pela graça do Batismo ninguém se livra de toda a enfermidade da natureza.[
 
 ### b) na penitência
 
-Era, pois, necessário houvesse na Igreja o poder de perdoar pecados, mas de outro modo que no Sacramento do Batismo.
+Era, pois, necessário que houvesse na Igreja o poder de perdoar pecados, mas de outro modo que no Sacramento do Batismo.
 
 As chaves do Reino dos céus lhe foram confiadas, para [a Igreja] poder remitir as culpas de todos os penitentes, ainda que [estes] tenham pecado até o último termo de sua vida.
 
@@ -40,13 +40,13 @@ Nas Escrituras, temos evidentes testemunhos desta verdade. Segundo São Mateus, 
 
 O poder de remissão não se limita, tampouco, a ser aplicado só em dadas ocasiões. Pelo contrário. Em qualquer momento que o pecador queira recuperar a saúde da alma, nunca o devemos repelir, conforme o explicou Nosso Salvador. Quando o Príncipe dos Apóstolos Lhe perguntara quantas vezes devíamos perdoar aos pecadores, se porventura sete vezes, [Cristo] respondeu: "Não sete vezes, mas setenta vezes sete"[^638].
 
-### c) quanto aos ministros
+### a) quanto ao ministro
 
-### d) quanto à forma
+### b) quanto à forma
 
 [4] Quanto aos ministros que o exercem, este poder tem suas restrições. Nosso Senhor não conferiu a todos o desempenho de tão santo ministério, mas exclusivamente aos Bispos e sacerdotes.
 
-Existe restrição idêntica, quanto à maneira de exercê-lo. Os pecados só podem ser perdoados por meio dos Sacramentos, quando se observa a forma prescrita. Fora destas condições, a Igreja não tem nenhum poder para absolver pecados.
+Existem restrições idênticas, quanto à maneira de exercê-lo[^639]. Os pecados só podem ser perdoados por meio dos Sacramentos, quando se observa a forma prescrita. Fora destas condições, a Igreja não tem nenhum poder para absolver pecados.
 
 Daqui se infere que, na remissão dos pecados, tanto os sacerdotes como os Sacramentos não passam de [meros] instrumentos, pelos quais Cristo Nosso Senhor, Autor e Dispensador de nossa salvação, opera em nós o perdão dos pecados e a [própria] justificação.
 
@@ -58,11 +58,11 @@ Daqui se infere que, na remissão dos pecados, tanto os sacerdotes como os Sacra
 
 Será fácil a demonstração, se [o pároco] persiste em explicar de quem vem [propriamente] a virtude de perdoar pecados, e de converter em justos os pecadores. É sabido que tal efeito só pode provir da imensa e infinita virtude de Deus; é a mesma que a fé nos diz necessária para ressuscitar mortos, e para criar o mundo.
 
-No sentir de Santo Agostinho, deve considerar-se obra mais poderosa fazer de um ímpio um homem justo, do que criar do nada o céu e a terra. Ora, se para a criação se requer um poder infinito, é lógico que, por razões mais fortes, devemos atribuir [também] a um poder infinito a remissão dos pecados.
+No sentir de Santo Agostinho[^640], deve considerar-se obra mais poderosa fazer de um ímpio um homem justo, do que criar do nada o céu e a terra. Ora, se para a criação se requer um poder infinito, é lógico que, por razões mais fortes, devemos atribuir [também] a um poder infinito a remissão dos pecados.
 
 ### (segundo a doutrina dos Santos Padres)
 
-[6] Por tais raciocínios, chegamos a reconhecer quanta verdade havia nas opiniões dos antigos Padres[^641], quando afirmavam que só Deus perdoa os pecados dos homens, e que tão grande prodígio só podemos atribuir à Sua bondade e poder infinitos. "Sou Eu, diz o Senhor pelo Profeta, sou Eu mesmo que retiro as tuas iniquidades"[^642].
+[6] Por tais raciocínios, chegamos a reconhecer quanta verdade não havia nas opiniões dos antigos Padres[^641], quando afirmavam que só Deus perdoa os pecados dos homens, e que tão grande prodígio só podemos atribuir à Sua bondade e poder infinitos. "Sou Eu, diz o Senhor pelo Profeta, sou Eu mesmo que retiro as tuas iniquidades"[^642].
 
 Na remissão dos pecados, parece efetuar-se o mesmo processo que na solvência de uma dívida pecuniária. Assim como ninguém pode perdoar um débito, senão o próprio credor: assim também é claro que só Deus, e mais ninguém, pode perdoar nossas dívidas, porquanto só a Ele devemos, pelos pecados cometidos. Por isso, rezamos e pedimos diariamente: "Perdoai-nos as nossas dívidas!"[^643]
 
@@ -70,7 +70,7 @@ Na remissão dos pecados, parece efetuar-se o mesmo processo que na solvência d
 
 [7] Antes da Encarnação de Deus, este poder — admirável e divino — nunca fora outorgado a nenhuma criatura. Cristo Nosso Salvador foi o primeiro a recebê-lo do Pai celestial, mas enquanto Homem, porque [já o tinha] como verdadeiro Deus. "Para saberdes que o Filho do Homem tem o poder de perdoar pecados sobre a terra, disse ao paralítico: Levanta-te, toma teu leito, e vai para tua casa"[^644].
 
-### c) e aos seus representantes
+### b) aos seus representantes visíveis
 
 Como Se fizera Homem, para dar aos homens o perdão dos pecados, conferiu o mesmo poder aos Bispos e Presbíteros da Igreja, antes de subir aos céus, onde ia sentar-Se eternamente à mão direita de Deus.[^645]
 
@@ -96,7 +96,7 @@ Com efeito, se em doença grave se nos parecem bons e agradáveis os remédios, 
 
 E que dizer ainda, se esta medicação não dá apenas uma provável esperança de cura, como os remédios para doenças corporais, mas é de efeito certo e infalível para todos os que desejam curar-se?
 
-## V. Exortação para o uso deste poder
+## V. Exortação para o uso frequente da Confissão
 
 [10] Uma vez que os fiéis conheçam o valor deste amplo poder divino, devem ser [também] exortados a valer-se dele piedosamente, para a sua própria santificação.
 
@@ -115,13 +115,15 @@ No segundo caso, seria muito para temer que, apanhados pela morte, de nada lhes 
 [^629]: Lc 24, 46-47; Is 53, 1 ss.; Io 1, 29; Act 13, 26 ss.; Mt 1, 21; Dan 9, 24.
 [^630]: Is 33, 24.
 [^631]: Io 20, 23.
-[^632]: Conc. Trid. sess. V decr. de pecc. orig. 5; sess. VI decr. de iustif. 14 (DU 807 839); Aug. de peccator. meritis I 28.
+[^632]: Conc. Trid. sess. V decr. de pecc. orig. 5; sess. VI decr. de iustif. 14 (DU 807 839); Aug. de peccator. meritis II 28.
 [^633]: Mt 16, 19.
 [^634]: Mt 18, 18.
-[^635]: Ps 147, 18.
+[^635]: Sl 147, 18.
 [^636]: Io 20, 22 s.; DU 807 694 913.
 [^637]: Ezech 18, 21.
 [^638]: Mt 18, 21-22.
+[^639]: Conc. Trid.
+[^640]: Aug. tract. in Ioan.
 [^641]: Santos Padres.
 [^642]: Is 43, 15.
 [^643]: Mt 6, 12.

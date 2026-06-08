@@ -1,8 +1,8 @@
-# Capítulo VIII — Sétimo Artigo do Símbolo: "Donde há de vir a julgar os vivos e os mortos"
+# Capítulo VIII — Sétimo Artigo do Símbolo: "Donde há de vir julgar os vivos e os mortos"
 
 ## I. Importância do Artigo
 
-### 1. Tríplice ministério à Igreja
+### 1. O tríplice ministério de Cristo
 
 [1] Jesus Cristo honra e engrandece Sua Igreja com três importantes ministérios: de Redentor, de Protetor, e de Juiz.
 
@@ -46,7 +46,7 @@ Este Juízo se chama universal.
 
 ## III. Motivos para o juízo universal
 
-### a) ler todas as consciências
+### a) abrir todas as consciências
 
 [4] Será então necessário mostrar por que, além do Juízo Particular para cada um, se fará ainda outro geral para todos os homens.
 
@@ -84,7 +84,7 @@ Por isso, falando do Último Dia, Nosso Senhor e Salvador declarou que haveria u
 
 ### 3. O juiz...
 
-[5] Ensinam as Sagradas Escrituras, que a Cristo Nosso Senhor foi entregue o julgamento, não só enquanto Deus, mas também enquanto Homem. Ainda que o poder de julgar é comum a todas as Pessoas da Santíssima Trindade, contudo o atribuímos ao Filho de modo particular, por dizermos que Lhe compete também a sabedoria. Uma declaração do Senhor confirma que Ele, enquanto Homem, há de julgar o mundo: "Assim como o Pai tem a vida em Si mesmo, assim concedeu também ao Filho ter a vida em Si mesmo; conferiu-Lhe o poder de julgar, porque é o Filho do Homem"[^406].
+[5] Ensinaram as Sagradas Escrituras, que a Cristo Nosso Senhor foi entregue o julgamento, não só enquanto Deus, mas também enquanto Homem. Ainda que o poder de julgar é comum a todas as Pessoas da Santíssima Trindade, contudo o atribuímos ao Filho de modo particular, por dizermos que Lhe compete também a sabedoria. Uma declaração do Senhor confirma que Ele, enquanto Homem, há de julgar o mundo: "Assim como o Pai tem a vida em Si mesmo, assim concedeu também ao Filho ter a vida em Si mesmo; conferiu-Lhe o poder de julgar, porque é o Filho do Homem"[^406].
 
 ### Por que será Cristo?
 
@@ -104,7 +104,7 @@ Com efeito, assim falou Nosso Senhor: "Será pregado este Evangelho do Reino por
 
 [8] As circunstâncias do Juízo, os fiéis poderão vê-las comodamente nas profecias de Daniel[^411], na doutrina dos Santos Evangelhos[^412] e do Apóstolo São Paulo.[^413]
 
-Neste lugar, o que merece maior atenção é a sentença que pelo juiz será pronunciada.[^414]
+Neste lugar, o que merece maior atenção é a sentença que pelo juiz será pronunciada.
 
 Cristo Nosso Senhor lançará um olhar de jubilosa complacência para os justos colocados à direita, e com extremos de bondade lhes dirá a seguinte sentença: "Vinde, benditos de Meu Pai, tomai posse do Reino, que vos está preparado desde o princípio do mundo"[^414].
 
@@ -136,7 +136,7 @@ Muito justa será, naturalmente, a condenação que Nosso Senhor e Salvador há 
 
 ### Obrigação de pregá-las
 
-[10] São estas as verdades que os Pastores devem, muitas vezes, inculcar aos ouvidos do povo cristão. Quando aceita, com espírito de fé, a verdade que vai neste Artigo, ela tem grande virtude para refrear as depravações da alma, e para arredar os homens do pecado.[^417] Por esse motivo diz o Eclesiástico: "Em todas as tuas obras, lembra-te dos teus novíssimos, e não pecarás eternamente"[^418].
+[10] São estas as verdades que os Pastores devem, muitas vezes, inculcar aos ouvidos do povo cristão. Quando aceita, com espírito de fé, a verdade que vai neste Artigo, ela tem grande virtude para refrear as depravações da alma, e para arredar os homens do pecado. Por esse motivo diz o Eclesiástico: "Em todas as tuas obras, lembra-te dos teus novíssimos, e não pecarás eternamente"[^418].
 
 ### a) para a conversão dos pecadores
 
@@ -148,31 +148,31 @@ De sua parte, ainda que a vida lhe decorra em privações, calúnias e sofriment
 
 Só resta, pois, que os fiéis sejam exortados a procurarem uma santa maneira de viver, a adestrarem-se em todas as obras de piedade. Isto lhes permitirá aguardar, com maior firmeza de ânimo, o grande Dia do Senhor que está próximo; e almejar, até, a Sua vinda com o mais vivo amor e empenho, como convém a filhos [de Deus].
 
-[^391]: 1 Petr 3, 10; Apoc 3, 26.
-[^392]: 1 Th 5, 2; DU 2884.
+[^391]: 1 Petr 3, 10; Ap 3, 26.
+[^392]: 1 Th 5, 2; DU 288a.
 [^393]: Mt 24, 36.
 [^394]: 2 Cor 5, 10; Rom 14, 10.
-[^395]: Por exemplo: 1 Reg 2, 10; Ps 95, 13; 97, 9; Is 2, 12; Ier 46, 10; Dan 7, 26; Ioel 2, 1-13; Soph 1, 7-14; Mal 4, 1; Mt 13, 40; Lc 17, 24; Act 1, 11; Rom 2, 16; 1 Cor 15, 51; 1 Th 5, 10; 2 Th 3, 9; Apoc 20, 11.
+[^395]: Por exemplo: 1Sm 2, 10; Sl 95, 13; 97, 9; Is 2, 12; Jr 46, 10; Dn 7, 26; Jl 2, 1-13; Sf 1, 7-14; Ml 4, 1; Mt 13, 40; Lc 17, 24; At 1, 11; Rm 2, 16; 1Cor 15, 51; 1Ts 1, 10; 2Ts 1, 10; Ap 20, 11.
 [^396]: Tit 2, 13.
-[^397]: Hebr 9, 27; DU 464 530 693 531.
+[^397]: Hb 9, 27; DU 464 530 693 531.
 [^398]: Em latim está "liberi", que Figliucci, Costa e Cruz e outros traduzem erroneamente por "livros", "obras". Marinho, Doney e Carpentier traduzem por "amigos". Nós traduzimos por "parentes" — por haver contraposição com "filii" e "discipuli".
 [^399]: Basilius M. de vera virginitate.
 [^400]: ... para que cada qual veja o alcance de suas responsabilidades sociais.
 [^401]: Maior desenvolvimento, sob outro aspecto, veja-se CRO I XII 5.
-[^402]: Ps 72, 2-3.
-[^403]: Ps 72, 12-14.
-[^404]: Iob 22, 14.
-[^405]: Act 1, 11.
-[^406]: Io 5, 26 ss.; DU 40 255 287 422 427 429 462 464.
+[^402]: Sl 72, 2-3.
+[^403]: Sl 72, 12-14.
+[^404]: Jó 22, 14.
+[^405]: At 1, 11.
+[^406]: Jo 5, 26 ss.; DU 40 255 287 422 427 429 462 464.
 [^407]: Act 10, 42.
 [^408]: Mt 24, 14.
-[^409]: 1 Th 2, 2.
-[^410]: 2 Th 2, 3.
-[^411]: Dan 7, 9.
+[^409]: 1Ts 2, 2.
+[^410]: 2Ts 2, 3.
+[^411]: Dn 7, 9.
 [^412]: Mt 24, 1 ss.; 25, 1 ss.; Mc 13, 26.
-[^413]: 1 Cor 15, 52; 1 Th 2, 1-1; 4, 12-16; 5, 1-11.
-[^414]: DU 2284 287 344 427 429 462 531 693; Mt 25, 34.
-[^415]: DU 40 160b 228 410 429 531 714 1677; Mt 25, 41.
+[^413]: 1 Cor 15, 52; 1Ts 2, 11; 4, 12-16; 5, 1-11.
+[^414]: DU 228a 287 344 427 429 462 531 693; Mt 25, 34.
+[^415]: DU 40 160b 228a 410 429 531 714 1677; Mt 25, 41.
 [^416]: Chrysost. in Matth. hom. 13; Aug. sermo 181 de tempore; Greg. M. liber moral. 47; DU 321 410 464 693.
 [^417]: Aug. sermo 120 de temp.; Greg. M. homilia 39 in Evang.; Bernard. sermo 1 in festo omnium sanct.
 [^418]: Eccli 7, 40.

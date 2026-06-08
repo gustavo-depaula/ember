@@ -16,7 +16,7 @@ Por isso, os nossos antepassados também lhe chamaram Unção dos enfermos e Sac
 
 ## Verdadeiro Sacramento
 
-[3] Em primeira plana, é preciso demonstrar que a Extrema-Unção possui o caráter de verdadeiro Sacramento. Far-se-á com a maior clareza, se analisarmos as palavras com que o Apóstolo Santiago promulgou a obrigatoriedade deste Sacramento. Diz ele: "Há entre vós algum enfermo? Mande chamar os sacerdotes da Igreja para rezarem sobre ele, e ungirem-no com óleo, em nome do Senhor. E a oração da fé salvará o enfermo, e o Senhor lhe dará alívio. E, se estiver em pecados, ser-lhe-ão perdoados".[^3]
+[3] Em primeira plana, é preciso demonstrar que a Extrema-Unção possui o caráter de verdadeiro Sacramento. Far-se-á com a maior clareza, se analisarmos as palavras com que o Apóstolo São Tiago promulgou a obrigatoriedade deste Sacramento. Diz ele: "Há entre vós algum enfermo? Mande chamar os sacerdotes da Igreja para rezarem sobre ele, e ungirem-no com óleo, em nome do Senhor. E a oração da fé salvará o enfermo, e o Senhor lhe dará alívio. E, se estiver em pecados, ser-lhe-ão perdoados".[^3]
 
 Quando o Apóstolo diz que os pecados são perdoados, quer por aí declarar a ação e a natureza de um Sacramento. Esta foi sempre a inalterável doutrina da Igreja Católica acerca da Extrema-Unção, conforme o testemunharam não só muitos outros Concílios[^4], mas antes de tudo o Concílio de Trento, que chegou até a fulminar pena de excomunhão contra quem ousasse ensinar ou pensar de outra maneira.[^5] O Papa Inocêncio I também recomendou muito aos fiéis este Sacramento.[^6]
 
@@ -28,7 +28,7 @@ O Sacramento constitui uma unidade, não por uma junção indivisível de suas p
 
 ## Matéria e forma
 
-Os párocos ensinarão, outrossim, quais são as partes deste Sacramento, digamos melhor, o elemento e a palavra. Santiago não deixou de mencioná-las.[^7] Numa e outra há Mistérios que merecem a nossa atenção.
+Os párocos ensinarão, outrossim, quais são as partes deste Sacramento, digamos melhor, o elemento e a palavra. São Tiago não deixou de mencioná-las.[^7] Numa e outra há Mistérios que merecem a nossa atenção.
 
 ### 1. Matéria, azeite doce sagrado pelo Bispo
 
@@ -38,13 +38,13 @@ Esta matéria assinala, com muita propriedade, o efeito intrínseco que o Sacram
 
 O azeite tem ainda por efeito restituir a saúde, despertar alegria, alimentar o clarão e a luz; presta-se, também, para revigorar o corpo alquebrado pela fadiga.
 
-Ora, todas estas qualidades [do azeite] simbolizam os efeitos que, por virtude divina, produz no enfermo a administração deste Sacramento. Tanto basta acerca da matéria.
+Ora, todas estas qualidades [do azeite] simbolizaram os efeitos que, por virtude divina, produz no enfermo a administração deste Sacramento. Tanto basta acerca da matéria.
 
 ### 2. Forma é uma súplica
 
 [6] A forma sacramental consiste nos dizeres da solene deprecação, que o sacerdote profere, ao aplicar cada uma das unções. Seu teor é o seguinte: "Por esta santa Unção, Deus te perdoe tudo quanto fizeste de mal pela vista... pelo olfato... pelo tacto..."[^9]
 
-Tal é a forma autêntica e própria deste Sacramento, como o dá a entender o Apóstolo Santiago com as palavras: "E rezem sobre ele, e a oração da fé salvará o enfermo".[^10] Delas se conclui, também, que a forma deve ser deprecatória, embora o Apóstolo não indicasse o teor exato de sua redação.
+Tal é a forma autêntica e própria deste Sacramento, como o dá a entender o Apóstolo São Tiago com as palavras: "E rezem sobre ele, e a oração da fé salvará o enfermo".[^10] Delas se conclui, também, que a forma deve ser deprecatória, embora o Apóstolo não indicasse o teor exato de sua redação.
 
 Entretanto, esse teor chegou até nós, por fiel tradição dos Santos Padres, de sorte que todas as igrejas conservam a mesma forma empregada pela Santa Igreja de Roma, que é a Mãe e Mestra de todas as igrejas.
 
@@ -62,11 +62,11 @@ Há também ritos próprios, para a administração deste Sacramento; consistem,
 
 ## Instituição por Cristo
 
-[8] Ficou provado que a Extrema-Unção pertence ao número dos Sacramentos, em sentido próprio e verdadeiro. Segue-se, portanto, que sua instituição remonta a Cristo Nosso Senhor. Mais tarde, foi proposta e inculcada aos fiéis pelo Apóstolo Santiago.
+[8] Ficou provado que a Extrema-Unção pertence ao número dos Sacramentos, em sentido próprio e verdadeiro. Segue-se, portanto, que sua instituição remonta a Cristo Nosso Senhor. Mais tarde, foi proposta e inculcada aos fiéis pelo Apóstolo São Tiago.
 
 ### 1. Fato bíblico
 
-No mais, ao que parece, Cristo já havia instituído uma unção semelhante, quando enviou Seus Discípulos, dois a dois, diante de Si.[^12] Deles escreveu o Evangelista: "Postos a caminho, pregavam que fizessem penitência. Expulsavam muitos demônios. Ungiam com óleo muitos enfermos, e eles saravam".[^13] Devemos, pois, admitir que essa unção não foi inventada pelos Apóstolos, mas prescrita por Nosso Senhor, não dotada de qualquer virtude natural, mas cheia de mistério, instituída mais para curar as almas do que para socorrer ao corpo.
+No mais, ao que parece, Cristo já havia instituído uma unção semelhante, quando enviou Seus Discípulos, dois a dois, diante de Si. Deles escreveu o Evangelista: "Postos a caminho, pregavam que fizessem penitência. Expulsavam muitos demônios. Ungiam com óleo muitos enfermos, e eles saravam".[^13] Devemos, pois, admitir que essa unção não foi inventada pelos Apóstolos, mas prescrita por Nosso Senhor, não dotada de qualquer virtude natural, mas cheia de mistério, instituída mais para curar as almas do que para socorrer ao corpo.
 
 ### 2. Testemunhos dos SS. Padres
 
@@ -92,7 +92,7 @@ Pois é certo que muito concorre para intensificar a graça sacramental, se o do
 
 Não se deve, pois, dar o Sacramento da Extrema-Unção a quem não estiver gravemente enfermo, ainda que se exponha a perigo de vida, como acontece aos que se aprestam para uma navegação arriscada, ou que entram em batalha, com perigo de morrer, ou que são levados ao suplício, por sentença capital.
 
-### 4. Nem as crianças, os dementes, os loucos furiosos
+### 4. Não os dementes, os infantes
 
 Além disso, não são capazes de receber este Sacramento todos os que estão privados do uso da razão: as crianças que não cometem pecados, cujos resíduos devam ser purificados por este Sacramento; os alienados e loucos furiosos, a não ser que tenham intervalos lúcidos, durante os quais mostrem sentimentos religiosos, e peçam a Extrema-Unção.
 
@@ -100,7 +100,7 @@ Não pode, porém, receber a Extrema-Unção quem é louco de nascença. Deve to
 
 ### 5. Ungem-se só os órgãos dos sentidos
 
-[10] Não se devem ungir todas as partes do corpo, mas sòmente aquelas que a natureza assinalou, no homem, como instrumentos dos sentidos: os olhos, por causa da vista; as orelhas, por causa da audição; o nariz, por causa do olfato; a boca, por causa do paladar e da linguagem; as mãos, por causa do tacto que, embora distribuído pelo corpo inteiro, tem nessa parte sua esfera principal.[^15]
+[10] Não se devem ungir todas as partes do corpo, mas somente aquelas que a natureza assinalou, no homem, como instrumentos dos sentidos: os olhos, por causa da vista; as orelhas, por causa da audição; o nariz, por causa do olfato; a boca, por causa do paladar e da linguagem; as mãos, por causa do tacto que, embora distribuído pelo corpo inteiro, tem nessa parte sua esfera principal.[^15]
 
 A Igreja Universal conserva esta maneira de ungir, porque se adapta, engenhosamente, ao caráter deste Sacramento, instituído à semelhança de um remédio. Nas doenças corporais, ainda que o corpo esteja todo atacado, não se aplica o remédio senão na parte onde está localizada a fonte e causa da enfermidade. Assim, também, não se unge o corpo inteiro, mas só os membros, que são os órgãos principais das sensações; por igual, são ungidos os rins como centro das paixões libidinosas[^16], e os pés como instrumentos naturais de transporte e locomoção.[^17]
 
@@ -130,7 +130,7 @@ A razão decisiva para exortar os enfermos a que peçam, com fé e piedade, a ad
 
 ### 1. Por sinal que o próprio pároco
 
-Ao sacerdote, pois, está confiada a administração deste Sacramento.[^23] No entanto, por determinação da Santa Igreja, não é lícito a qualquer sacerdote administrar este Sacramento, mas sòmente ao próprio pároco jurisdicionado, ou a outro sacerdote que receba dele a autorização de substituí-lo.[^24]
+Ao sacerdote, pois, está confiada a administração deste Sacramento.[^23] No entanto, por determinação da Santa Igreja, não é lícito a qualquer sacerdote administrar este Sacramento, mas somente ao próprio pároco jurisdicionado, ou a outro sacerdote que receba dele a autorização de substituí-lo.[^24]
 
 ### 2. Em nome de Cristo
 
@@ -142,7 +142,7 @@ Acima de tudo, não se perca de vista que, nessa administração, como aliás em
 
 ### 1. Perdão dos pecados
 
-Ensinem, pois, os pastores que a graça, conferida por este Sacramento, apaga os pecados, principalmente os mais leves, os que se conhecem por veniais; as faltas mortais são tiradas pelo Sacramento da Penitência. A Extrema-Unção não foi instituída com o fito primordial de extinguir pecados graves; sòmente o Batismo e a Penitência é que o fazem, em virtude de sua própria finalidade.[^25]
+Ensinem, pois, os pastores que a graça, conferida por este Sacramento, apaga os pecados, principalmente os mais leves, os que se conhecem por veniais; as faltas mortais são tiradas pelo Sacramento da Penitência. A Extrema-Unção não foi instituída com o fito primordial de extinguir pecados graves; somente o Batismo e a Penitência é que o fazem, em virtude de sua própria finalidade.[^25]
 
 ### 2. Coragem e confiança
 
@@ -174,18 +174,17 @@ Sem embargo do que Deus, em Seus desígnios, aprouver determinar acerca da saúd
 
 Até aqui o tratado sobre a Extrema-Unção. Verdade é que o damos resumido, mas se os pastores desenvolverem mais amplamente estes pontos capitais, com o zelo que o assunto demanda, não há a menor dúvida de que os fiéis colherão, desta doutrina, os mais abundantes frutos de piedade.
 
-[^1]: Eccli 7, 40.
+[^1]: Sr 7, 40.
 [^2]: Em latim, é mais expressivo: Sacramentum exeuntium — Sacramento dos que partem.
-[^3]: Jac 5, 14 ss.
+[^3]: Tg 5, 14 ss.
 [^4]: II Conc. de Pavia em 850, I Conc. de Lião em 1274, Conc. de Constança em 1414, Conc. de Florença em 1438 (DU 315 465 669 700).
 [^5]: Conc. Trid. XIV de Extr. Unctione cap. 3 can. 1 (DU 909 926).
 [^6]: Innoc. I epist. 25, 8 (DU 99).
-[^7]: Jac 5, 14.
+[^7]: Tg 5, 14.
 [^8]: Conc. Trid. XIV de Extr. Unctione cap. 1 (DU 908).
 [^9]: O CRO resume, ao citar, as palavras do Ritual. Cfr. Rit. Rom. cap. II nº 8-10.
-[^10]: Jac 5, 14-15.
+[^10]: Tg 5, 14-15.
 [^11]: Difícil de traduzir, porque em vernáculo os termos se confundem: Indulgère, remìttere, párcere.
-[^12]: Mc 6, 7.
 [^13]: Mc 6, 12 ss.
 [^14]: Isto se refere ao sacerdote em primeiro lugar, mas também aos parentes do enfermo, que chamam o sacerdote no último instante. Ora, se chamar tarde é pecado, que dizer então dos que deixam de chamar o sacerdote?
 [^15]: O CRO não se refere aqui aos pés, por não constituírem propriamente um sentido, mas apenas um órgão de locomoção.

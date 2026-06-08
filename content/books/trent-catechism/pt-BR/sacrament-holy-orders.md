@@ -80,11 +80,11 @@ Sobre esta verdade, podem as supraditas passagens projetar muita luz e clareza, 
 
 #### a) Superior ao sacerdócio natural
 
-[8] O poder de que falamos sobrepuja, de muito, ao que a lei natural conferia outrora a certos indivíduos, para que se encarregassem do culto religioso. A era que precedeu à Lei escrita, tinha necessàriamente seu sacerdócio com o respectivo poder espiritual; pois consta, com bastante evidência, que tinha também uma lei própria.[^23] Esses dois elementos[^24], conforme ensina o Apóstolo, estão de tal modo ligados entre si, que a mudança de um acarreta forçosamente a imediata mudança do outro.[^25] Ora, como os homens reconhecessem, por um senso natural, a obrigação de prestarem culto a Deus, deviam instituir, pois, em cada comunidade, algumas pessoas a que fossem cometidos os sacrifícios e demais atos do culto divino, e cujo poder fosse, de certo modo, considerado como espiritual.
+[8] O poder de que falamos sobrepuja, de muito, ao que a lei natural conferia outrora a certos indivíduos, para que se encarregassem do culto religioso. A era que precedeu à Lei escrita, tinha necessariamente seu sacerdócio com o respectivo poder espiritual; pois consta, com bastante evidência, que tinha também uma lei própria.[^23] Esses dois elementos[^24], conforme ensina o Apóstolo, estão de tal modo ligados entre si, que a mudança de um acarreta forçosamente a imediata mudança do outro.[^25] Ora, como os homens reconhecessem, por um senso natural, a obrigação de prestarem culto a Deus, deviam instituir, pois, em cada comunidade, algumas pessoas a que fossem cometidos os sacrifícios e demais atos do culto divino, e cujo poder fosse, de certo modo, considerado como espiritual.
 
 #### b) Superior ao sacerdócio judaico
 
-No povo de Israel, havia também um poder assim, superior em dignidade ao que possuíam os sacerdotes no regime da lei natural; mas incomparàvelmente inferior ao poder espiritual que vigora na Lei do Evangelho.[^26]
+No povo de Israel, havia também um poder assim, superior em dignidade ao que possuíam os sacerdotes no regime da lei natural; mas incomparavelmente inferior ao poder espiritual que vigora na Lei do Evangelho.[^26]
 
 Este poder é celestial, e ultrapassa até a virtude dos próprios Anjos. Sua origem não remonta ao sacerdócio mosaico, mas a Cristo Nosso Senhor, que foi Sacerdote, "não à maneira de Aarão, mas segundo a ordem de Melquisedec".[^27] Ele é quem tinha um poder infinito para conferir a graça e perdoar os pecados, e quem deixou à sua Igreja esse mesmo poder, embora o limitasse em seus efeitos, e o ligasse aos Sacramentos.
 
@@ -220,13 +220,13 @@ São eles que, no altar de seus corações, oferecem a Deus sacrifícios espirit
 
 Nesse mesmo sentido, declarou o Príncipe dos Apóstolos: "Sobre Ele sois edificados, à maneira de pedras vivas, como edifícios espirituais, como um santo sacerdócio, a fim de oferecerdes sacrifícios espirituais, que sejam agradáveis a Deus por Jesus Cristo".[^45]
 
-E o Apóstolo nos exorta a que "façamos de nossos corpos uma oblação viva, santa, agradável a Deus, como um culto razoável de nossa parte".[^46] Muito antes, David também havia dito: "Aos olhos de Deus, o espírito compungido vale como um sacrifício. Vós, meu Deus, não desprezareis um coração contrito e humilhado".[^47] Naturalmente, todas estas passagens se referem ao sacerdócio interno.
+E o Apóstolo nos exorta a que "façamos de nossos corpos uma oblação viva, santa, agradável a Deus, como um culto razoável de nossa parte".[^46] Muito antes, Davi também havia dito: "Aos olhos de Deus, o espírito compungido vale como um sacrifício. Vós, meu Deus, não desprezareis um coração contrito e humilhado".[^47] Naturalmente, todas estas passagens se referem ao sacerdócio interno.
 
 #### c) Sacerdócio externo é o Sacramento da Ordem
 
 O sacerdócio externo, porém, não pertence à coletividade de todos os fiéis, mas só a certos indivíduos, ordenados e consagrados a Deus, pela legítima imposição das mãos, segundo o solene cerimonial da Santa Igreja, e que se destinam de modo particular ao sagrado ministério.
 
-Esta distinção, entre dois sacerdócios, também se verificava no Antigo Testamento. Acabamos de ver como David falou do sacerdócio interno. De outro lado, todos sabem perfeitamente que o Senhor havia dado muitas prescrições a Aarão e Moisés acerca do sacerdócio externo.[^48] Além do mais, reservou toda a tribo de Levi para o serviço do Templo, e assentou por lei que ninguém de outra tribo ousasse ingerir-se nesse ministério.[^49] E, de fato, o rei Ozias foi ferido de lepra pelo Senhor, porque havia usurpado o ministério sacerdotal, e assim expiou duríssimamente a sua sacrílega arrogância.[^50]
+Esta distinção, entre dois sacerdócios, também se verificava no Antigo Testamento. Acabamos de ver como Davi falou do sacerdócio interno. De outro lado, todos sabem perfeitamente que o Senhor havia dado muitas prescrições a Aarão e Moisés acerca do sacerdócio externo.[^48] Além do mais, reservou toda a tribo de Levi para o serviço do Templo, e assentou por lei que ninguém de outra tribo ousasse ingerir-se nesse ministério.[^49] E, de fato, o rei Ozias foi ferido de lepra pelo Senhor, porque havia usurpado o ministério sacerdotal, e assim expiou duríssimamente a sua sacrílega arrogância.[^50]
 
 Como na Lei do Evangelho também se pode averiguar a mesma distinção entre os dois sacerdócios, força é prevenir os fiéis que, neste lugar, tratamos do sacerdócio externo, conferido a uma determinada classe de homens, pois só este sacerdócio faz parte do Sacramento da Ordem.
 
@@ -258,7 +258,7 @@ O terceiro grau é constituído pelos Arcebispos. Estão à frente de vários Bi
 
 ### 4. Patriarcas
 
-Em quarto grau estão os patriarcas, ou sejam os primeiros e mais eminentes dos Padres.[^55] Além do Sumo Pontífice Romano, antigamente só havia quatro patriarcas na Igreja Universal; mas que por sua vez não se igualavam em dignidade. Por causa da predominância do Império Bizantino, o Patriarca de Constantinopla granjeou uma posição de maior prestígio, embora sua elevação fosse posterior a de todos os mais Patriarcas. O imediato era o Patriarca de Alexandria, cuja igreja o Evangelista São Marcos havia fundado por ordem do Príncipe dos Apóstolos. O terceiro é Patriarca de Antioquia, onde São Pedro havia primeiro assentado sua sede episcopal. No último grau, ficava o Patriarca de Jerusalém, e sua igreja foi governada por Santiago, o "irmão do Senhor".[^56]
+Em quarto grau estão os patriarcas, ou sejam os primeiros e mais eminentes dos Padres.[^55] Além do Sumo Pontífice Romano, antigamente só havia quatro patriarcas na Igreja Universal; mas que por sua vez não se igualavam em dignidade. Por causa da predominância do Império Bizantino, o Patriarca de Constantinopla granjeou uma posição de maior prestígio, embora sua elevação fosse posterior a de todos os mais Patriarcas. O imediato era o Patriarca de Alexandria, cuja igreja o Evangelista São Marcos havia fundado por ordem do Príncipe dos Apóstolos. O terceiro é Patriarca de Antioquia, onde São Pedro havia primeiro assentado sua sede episcopal. No último grau, ficava o Patriarca de Jerusalém, e sua igreja foi governada por São Tiago, o "irmão do Senhor".[^56]
 
 ### 5. Papa, o Bispo de Roma
 
@@ -274,7 +274,7 @@ Servindo-se destas exposições, os pastores ensinarão também quais são os pr
 
 ### Corolário: Poderes dos abades monásticos
 
-Alguns abades recebem, às vezes, a licença de conferir as Ordens Menores, não-Sacras[^57], mas nem por isso pode alguém contestar que esse ministério é próprio do Bispo, a quem únicamente pertence, e a mais ninguém, conferir as outras Ordens, que se chamam Maiores ou Sacras. Por conseguinte, sòmente o Bispo pode ordenar subdiáconos, diáconos e presbíteros. É de tradição apostólica, sempre mantida na Igreja, que os Bispos sejam sagrados por três Bispos.
+Alguns abades recebem, às vezes, a licença de conferir as Ordens Menores, não-Sacras[^57], mas nem por isso pode alguém contestar que esse ministério é próprio do Bispo, a quem únicamente pertence, e a mais ninguém, conferir as outras Ordens, que se chamam Maiores ou Sacras. Por conseguinte, somente o Bispo pode ordenar subdiáconos, diáconos e presbíteros. É de tradição apostólica, sempre mantida na Igreja, que os Bispos sejam sagrados por três Bispos.
 
 ## Sujeito
 
@@ -347,7 +347,7 @@ Basta o que já dissemos acerca do Sacramento da Ordem. Nosso intento era aprese
 [^11]: "É pecado forçar alguém, por qualquer motivo, a entrar no estado clerical, ou dele afastar a quem tenha canônica vocação" (CIC cân. 971). A Igreja fulmina tais pessoas com a pena de excomunhão (cân. 2352).
 [^12]: 1 Cor 9, 13.
 [^13]: Jo 10, 13.
-[^14]: Ezech 35, 2 ss.
+[^14]: Ez 34, 2 ss.
 [^15]: Jo 10, 1.
 [^16]: Deut 7, 5; Mt 22, 37; Lc 10, 27.
 [^17]: DU 803-804. CIC cân. 87.
@@ -370,7 +370,7 @@ Basta o que já dissemos acerca do Sacramento da Ordem. Nosso intento era aprese
 [^34]: Do grego: kléros. — O termo "Primeira Tonsura" refere-se às ampliações da Tonsura nas Ordens Maiores, principalmente no Episcopado.
 [^35]: Num 18, 20.
 [^36]: 1 Petr 2, 9; cfr. Exod 19, 6.
-[^37]: Situação do século XVI. Atualmente, esta idéia está inteiramente obliterada. Na sacristia, guardava-se muitas vezes a Santa Reserva.
+[^37]: Situação do século XVI. Atualmente, esta ideia está inteiramente obliterada. Na sacristia, guardava-se muitas vezes a Santa Reserva.
 [^38]: Esta rubrica, alegada pelo CRO, já não existe. Onde houver costume, o diácono ministra a água, e o subdiácono o manustérgio, na Missa Solene de Requiem (Reus, Curso de Liturgia).
 [^39]: Antes de conferir as Ordens Menores, deve o Bispo ter uma certeza moral da aptidão canônica do candidato (CIC cân. 973 § 3). Por isso mesmo, há obrigação de proclamar os ordinandos nas respectivas igrejas paroquiais, e os fiéis devem denunciar os inaptos ou impedidos (CIC cân. 998-999). O pároco deve fazer sindicância, e comunicar o resultado ao Bispo (cân. 1000).
 [^40]: Act 6, 6.
@@ -380,7 +380,7 @@ Basta o que já dissemos acerca do Sacramento da Ordem. Nosso intento era aprese
 [^44]: Apoc 1, 5 ss.
 [^45]: 1 Petr 2, 5.
 [^46]: Rom 12, 1 ss.
-[^47]: Ps 50, 19.
+[^47]: Sl 50, 19.
 [^48]: Exod 28-29; Lev 8-10, 21, 23; Num 8, 5 ss, 15, 18, 28.
 [^49]: Num 3, 10.
 [^50]: 2 Paral 26, 19.

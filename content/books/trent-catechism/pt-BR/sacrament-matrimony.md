@@ -12,9 +12,9 @@ Realmente, nesta vida não pode haver maior ventura para os fiéis, do que repou
 
 Como, todavia, o próprio Apóstolo adverte que "cada um recebe de Deus o seu dom particular, um desta maneira, outro daquela"[^2]; como também o Matrimônio foi enriquecido de grandes valores espirituais, pois é um Sacramento próprio e verdadeiro, entre os demais Sacramentos da Igreja Católica; como Nosso Senhor honrou, com Sua presença, a celebração de umas núpcias: daí se deduz, com bastante evidência, a necessidade de tratarmos também da doutrina sobre o Matrimônio.
 
-### 3. Doutrina de S. Paulo e S. Pedro
+### 3. Doutrina de S. Pedro e S. Paulo
 
-Isso tanto mais, quando vemos São Paulo[^3] e o Príncipe dos Apóstolos[^4] tratarem detidamente, em várias passagens, não só da dignidade do Matrimônio, mas também das obrigações que lhe são inerentes. Iluminados pelo Espírito de Deus, viam, perfeitamente, quantos e quão grandes benefícios deviam resultar para a sociedade, se os fiéis conhecessem bem a santidade do Matrimônio, e a guardassem inviolàvelmente: de outro lado, como seriam inúmeros e gravíssimos os danos e provações que recairiam sobre a Igreja, se não fosse reconhecida e respeitada essa mesma santidade.
+Isso tanto mais, quando vemos São Paulo[^3] e o Príncipe dos Apóstolos[^4] tratarem detidamente, em várias passagens, não só da dignidade do Matrimônio, mas também das obrigações que lhe são inerentes. Iluminados pelo Espírito de Deus, viam, perfeitamente, quantos e quão grandes benefícios deviam resultar para a sociedade, se os fiéis conhecessem bem a santidade do Matrimônio, e a guardassem inviolavelmente: de outro lado, como seriam inúmeros e gravíssimos os danos e provações que recairiam sobre a Igreja, se não fosse reconhecida e respeitada essa mesma santidade.
 
 De início, pois, devemos explicar a natureza e as propriedades do Matrimônio. Uma vez que os vícios costumam disfarçar-se em aparências de virtude, é preciso tomar precauções, para que os fiéis não se iludam com simulacros de casamento, e não manchem a alma com torpezas e excessos pecaminosos.
 
@@ -32,13 +32,13 @@ Dá-se-lhe, afinal, o nome de "núpcias"[^5], porque no dizer de Santo Ambrósio
 
 ### 2. Definição real
 
-[3] No sentir comum dos teólogos, o Matrimônio se define da maneira seguinte: "Matrimônio é a união conjugal do homem com a mulher, entre pessoas canônicamente habilitadas, e que estabelece uma inseparável comunhão de vida".
+[3] No sentir comum dos teólogos, o Matrimônio se define da maneira seguinte: "Matrimônio é a união conjugal do homem com a mulher, entre pessoas canonicamente habilitadas, e que estabelece uma inseparável comunhão de vida".
 
 Para melhor se compreender esta definição em suas partes, cumpre ensinar que, num Matrimônio perfeito, deve haver consentimento interior, contrato exterior manifestado por palavras, compromisso e vínculo decorrentes desse contrato, e união carnal dos cônjuges, pela qual fica consumado o Matrimônio; mas que nenhum destes elementos determina, propriamente, a natureza do Matrimônio, senão aquele dever e vínculo recíproco, expresso pelo próprio sentido da palavra "união".[^7]
 
-Acrescenta-se "conjugal", porquanto nenhuma relação têm, com a natureza do Matrimônio, todas as outras espécies de contratos, que fazer possam entre si homens e mulheres, para se auxiliarem mútuamente, por dinheiro ou por outros interesses.
+Acrescenta-se "conjugal", porquanto nenhuma relação têm, com a natureza do Matrimônio, todas as outras espécies de contratos, que fazer possam entre si homens e mulheres, para se auxiliarem mutuamente, por dinheiro ou por outros interesses.
 
-Seguem-se as palavras "entre pessoas canônicamente habilitadas", porque não podem contrair núpcias as pessoas que forem legitimamente excluídas. Se o fizerem, são nulas as núpcias. Por exemplo, os que estão ligados por parentesco até o quarto grau[^8]; os rapazes antes dos catorze anos, e as donzelas antes dos doze[^9] — idade prescrita pelas leis da Igreja — não podem contrair legítimo Matrimônio.
+Seguem-se as palavras "entre pessoas canonicamente habilitadas", porque não podem contrair núpcias as pessoas que forem legitimamente excluídas. Se o fizerem, são nulas as núpcias. Por exemplo, os que estão ligados por parentesco até o quarto grau[^8]; os rapazes antes dos catorze anos, e as donzelas antes dos doze[^9] — idade prescrita pelas leis da Igreja — não podem contrair legítimo Matrimônio.
 
 A última cláusula "estabelecendo inseparável comunhão de vida" designa o caráter do vínculo indissolúvel, que liga marido e mulher.
 
@@ -52,7 +52,7 @@ A última cláusula "estabelecendo inseparável comunhão de vida" designa o car
 
 [5] Mas é absolutamente necessário exprimir o consentimento em termos que se refiram ao tempo presente. O Matrimônio não é uma simples doação, é um contrato recíproco. Por conseguinte, não basta o consentimento de uma só parte. Para se contrair Matrimônio, é preciso o mútuo consentimento, dado por ambas as partes.
 
-É claro que, para manifestar o mútuo consentimento, se requer o uso de palavras. Se, para haver Matrimônio, bastasse o consentimento interior, sem nenhuma manifestação externa, seguir-se-ia necessàriamente que duas pessoas, residentes em lugares muito diversos e distantes, se consentissem interiormente em casar-se, ficariam ligadas por verdadeiro Matrimônio indissolúvel, antes até que pudessem declarar um ao outro as suas intenções, quer por carta, quer por mensageiro. Isto, porém, vai de encontro ao bom-senso humano e às tradições e leis da Santa Igreja.
+É claro que, para manifestar o mútuo consentimento, se requer o uso de palavras. Se, para haver Matrimônio, bastasse o consentimento interior, sem nenhuma manifestação externa, seguir-se-ia necessariamente que duas pessoas, residentes em lugares muito diversos e distantes, se consentissem interiormente em casar-se, ficariam ligadas por verdadeiro Matrimônio indissolúvel, antes até que pudessem declarar um ao outro as suas intenções, quer por carta, quer por mensageiro. Isto, porém, vai de encontro ao bom-senso humano e às tradições e leis da Santa Igreja.
 
 [6] Com razão se diz que o consentimento precisa ser expresso em palavras que designem tempo presente[^11], pois as palavras que indicam tempo futuro, não constituem o Matrimônio, mas só exprimem os esponsais.
 
@@ -62,9 +62,10 @@ De mais, é evidente que o futuro ainda não existe. Ora, daquilo que não exist
 
 Mas quem se liga a outra pessoa, mediante o contrato matrimonial, ainda que depois se arrependa, já não pode mudar, nem anular ou desfazer o que está feito. Por conseguinte, uma vez que o Matrimônio não consiste numa simples promessa, mas numa alienação recíproca, pela qual o marido entrega realmente à mulher o poder sobre o corpo, e a mulher faz outro tanto, com relação ao marido: é necessário que sua celebração se faça com palavras que exprimam tempo presente. Tanto que forem proferidas, essas palavras permanecem em vigor, e conservam marido e mulher ligados por um vínculo indissolúvel.
 
-#### c) Ou expresso por acenos (ou: silêncio)
+#### c) Ou expresso por acenos ou sinais
 
 [7] Entretanto, em lugar de palavras, podem bastar para o Matrimônio não só acenos e outros sinais que manifestem, claramente, o consentimento no íntimo do coração, mas também o próprio silêncio, quando a donzela se cala por acanhamento, e seus pais respondem por ela.[^13]
+
 
 ### 2. O vínculo matrimonial não depende da união carnal
 
@@ -100,7 +101,7 @@ Além do mais, a dissolubilidade do vínculo não se compadece com a boa educaç
 
 #### a) Mútuo amparo
 
-[13] Agora, vamos explicar as razões por que o homem e a mulher devem unir-se em Matrimônio. A primeira é a união dos sexos diferentes, apetecida pelo próprio instinto da natureza, baseada na esperança de mútuo auxílio, para que uma parte, amparada pela outra, possa mais fácilmente sofrer os incômodos da vida, e suportar a debilidade da velhice.
+[13] Agora, vamos explicar as razões por que o homem e a mulher devem unir-se em Matrimônio. A primeira é a união dos sexos diferentes, apetecida pelo próprio instinto da natureza, baseada na esperança de mútuo auxílio, para que uma parte, amparada pela outra, possa mais facilmente sofrer os incômodos da vida, e suportar a debilidade da velhice.
 
 #### b) Criação da prole
 
@@ -122,15 +123,15 @@ São estas as finalidades do casamento. Deve ter uma delas em vista quem deseja 
 
 ### Corolário: Critérios acidentais
 
-Se a tais razões acrescerem outras, que movam o homem a casar-se, e, na escolha da esposa, a preferir uma pessoa em lugar de outra, pelo desejo de deixar herdeiro, ou por causa da riqueza, formosura, nobreza de linhagem, afinidade de caráter: esses motivos não são em si reprováveis, porquanto não se opõem à santidade do Matrimônio. Nas Sagradas Escrituras, não vemos que o Patriarca Jacob merecesse repreensão, porque a Lia preferiu Raquel, por causa de sua formosura.[^32]
+Se a tais razões acrescerem outras, que movam o homem a casar-se, e, na escolha da esposa, a preferir uma pessoa em lugar de outra, pelo desejo de deixar herdeiro, ou por causa da riqueza, formosura, nobreza de linhagem, afinidade de caráter: esses motivos não são em si reprováveis, porquanto não se opõem à santidade do Matrimônio. Nas Sagradas Escrituras, não vemos que o Patriarca Jacó merecesse repreensão, porque a Lia preferiu Raquel, por causa de sua formosura.[^32]
 
-Tais são os pontos que se devem ensinar acerca do Matrimônio, como união baseada em a natureza.
+Tais são os pontos que se devem ensinar acerca do Matrimônio, como união baseada na natureza.
 
 ## O Matrimônio como Sacramento
 
 ### 1. Finalidade
 
-[15] Considerado como Sacramento, devemos explicar que [o Matrimônio] assume um caráter muito mais sublime, e tende a uma finalidade incomparàvelmente mais elevada.
+[15] Considerado como Sacramento, devemos explicar que [o Matrimônio] assume um caráter muito mais sublime, e tende a uma finalidade incomparavelmente mais elevada.
 
 Se como união natural fora, desde o início, instituído para a propagação do gênero humano, o Matrimônio foi depois elevado à dignidade de Sacramento, a fim de que se gerasse e criasse um povo para o culto e adoração do verdadeiro Deus e de Cristo Nosso Salvador.
 
@@ -212,13 +213,13 @@ Assim, torna-se evidente que o Matrimônio cristão sobrepuja aos casamentos dos
 
 O primeiro dos bens é a prole, quer dizer, os filhos havidos da esposa própria e legítima. O Apóstolo dava tanto valor a esse bem, que chegou a dizer: "A mulher salvar-se-á pela geração dos filhos".[^54] Isto, porém, não se entende apenas da geração, mas também da educação e preparação dos filhos para a vida de piedade. Por esse motivo, acrescenta sem demora: "... se perseverar na fé".
 
-A Sagrada Escritura, de mais a mais, adverte: "Tens filhos? Ensina-os bem, e acostuma-os à sujeição, desde a sua infância".[^55] O Apóstolo, por sua vez, professa os mesmos princípios.[^56] Nas Sagradas Escrituras, Tobias, Job e outros santos Patriarcas nos dão belíssimos exemplos dessa maneira de educar.[^57]
+A Sagrada Escritura, de mais a mais, adverte: "Tens filhos? Ensina-os bem, e acostuma-os à sujeição, desde a sua infância".[^55] O Apóstolo, por sua vez, professa os mesmos princípios.[^56] Nas Sagradas Escrituras, Tobias, Jó e outros santos Patriarcas nos dão belíssimos exemplos dessa maneira de educar.[^57]
 
 Quais sejam, porém, os deveres dos pais e dos filhos, isso explicaremos mais por extenso, quando tratarmos do Quarto Mandamento.
 
 ### 2. Fidelidade e santo amor
 
-[24] A seguir, falaremos da fidelidade, que é o segundo bem do Matrimônio. Não se trata daquele hábito de virtude[^58] que nos foi infundido na alma, quando recebemos o Batismo, mas de uma peculiar fidelidade, pela qual marido e mulher se ligam mútuamente, de maneira que um entrega ao outro o poder sobre seu corpo, e ambos prometem não violar jamais a santa aliança do casamento.
+[24] A seguir, falaremos da fidelidade, que é o segundo bem do Matrimônio. Não se trata daquele hábito de virtude[^58] que nos foi infundido na alma, quando recebemos o Batismo, mas de uma peculiar fidelidade, pela qual marido e mulher se ligam mutuamente, de maneira que um entrega ao outro o poder sobre seu corpo, e ambos prometem não violar jamais a santa aliança do casamento.
 
 Essa relação de fidelidade se deduz, facilmente, das palavras proferidas pelo nosso primeiro Pai, ao receber Eva como esposa, palavras que Cristo Nosso Senhor confirmou no Evangelho[^59]: "Por isso, deixará o homem seu pai e sua mãe, e unir-se-á à sua esposa, e serão dois numa só carne".[^60] E também desta passagem do Apóstolo: "A mulher não tem poder sobre o seu corpo, mas sim o marido; da mesma sorte, o marido não tem poder sobre o seu corpo mas sim a esposa".[^61]
 
@@ -278,7 +279,7 @@ Por conseguinte, lerão atentamente essas prescrições, bem como os decretos do
 
 ### 2. Obediência e respeito aos pais
 
-[32] Entre outras recomendações, é preciso exortar, sèriamente, os filhos adultos a terem tanta consideração aos pais e aos detentores do pátrio poder, que não contraiam núpcias, sem eles o saberem, muito menos contra a sua vontade, ou não obstante a sua oposição.[^75]
+[32] Entre outras recomendações, é preciso exortar, seriamente, os filhos adultos a terem tanta consideração aos pais e aos detentores do pátrio poder, que não contraiam núpcias, sem eles o saberem, muito menos contra a sua vontade, ou não obstante a sua oposição.[^75]
 
 Observa-se, no Antigo Testamento, que os pais sempre determinavam o casamento de seus filhos.[^76] A grande importância que, nessa parte, se deve consagrar à vontade dos pais, o Apóstolo parece insinuá-la naquelas suas palavras: "Quem casa sua filha donzela, faz bem; quem não a casa, faz melhor".[^77]
 
@@ -316,6 +317,7 @@ Desta forma, eles verão os bens do Matrimônio avultarem, dia a dia, com o aume
 [^12]: Para serem válidos, os esponsais devem ser feitos em termo escrito, assinado pelas partes, pelo pároco ou pelo Ordinário do lugar, ou, na falta de ambos, por duas testemunhas (CIC cân. 1017 § 1).
 [^13]: Isto, suppositis supponendis, com muita reserva, quanto à liberdade do consentimento.
 [^14]: Ambros. De institut. virginum 6, 42.
+[^15]: 1Cor 15, 46.
 [^16]: Gn 1, 27-28.
 [^17]: Gn 2, 18.
 [^18]: Gn 2, 20 ss. Cfr. Eph 5, 31.
@@ -357,8 +359,9 @@ Desta forma, eles verão os bens do Matrimônio avultarem, dia a dia, com o aume
 [^54]: 1 Tim 2, 15.
 [^55]: Eccli 7, 25.
 [^56]: Eph 6, 4.
-[^57]: Tob 4, 1 ss; Job 1, 5.
+[^57]: Tb 4, 1 ss; Jó 1, 5.
 [^58]: Esta explicação tem mais cabimento no texto original, por causa da noção de "fides". Em latim, pode ser "fé" e "fidelidade".
+[^59]: Mt 19, 5; Ef 5, 31.
 [^60]: Gn 2, 24.
 [^61]: 1 Cor 7, 4.
 [^62]: Lev 20, 10.

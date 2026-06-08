@@ -6,7 +6,7 @@
 
 ### 1. pela sua conexão com o 1º Mandamento
 
-[1] O primeiro Preceito da Lei Divina, mandando-nos honrar a Deus com filial afeição, contém necessàriamente o objeto do segundo; pois quem quer ser honrado, exige também que por palavras exprimamos nossa suma reverência para com ele, e proíbe qualquer atitude contrária.
+[1] O primeiro Preceito da Lei Divina, mandando-nos honrar a Deus com filial afeição, contém necessariamente o objeto do segundo; pois quem quer ser honrado, exige também que por palavras exprimamos nossa suma reverência para com ele, e proíbe qualquer atitude contrária.
 
 Este é o sentido evidente daquelas palavras, que o Senhor proferiu pela boca do Profeta Malaquias: "O filho honra a seu pai, e o servo a seu senhor. Então, se sou Eu vosso Pai, onde está pois a Minha honra?"[^167]
 
@@ -40,21 +40,21 @@ A seguir, cumpre ensinar a maneira de se prestar ao Nome de Deus a honra devida;
 
 [5] Vários são os modos de louvar o Nome de Deus, mas todos se reduzem, substancialmente, aos que passamos a explicar.
 
-Em primeiro lugar, Deus é louvado, quando temos a coragem de proclamá-l'O, pùblicamente, como Nosso Deus e Senhor; quando não só reconhecemos, mas também apregoamos, que Cristo é o Autor de nossa salvação.
+Em primeiro lugar, Deus é louvado, quando temos a coragem de proclamá-l'O, publicamente, como Nosso Deus e Senhor; quando não só reconhecemos, mas também apregoamos, que Cristo é o Autor de nossa salvação.
 
 Em segundo lugar, quando estudamos, com santo fervor, a palavra de Deus, pela qual se manifesta a Sua vontade; quando nos pomos a meditá-la assiduamente, e a decorá-la com interesse, quer lendo, quer ouvindo, conforme for mais útil e adequado para a pessoa, e para o cargo que ela ocupa.
 
 Em terceiro lugar, veneramos e respeitamos o Nome de Deus, quando por dever ou por devoção celebramos os louvores divinos[^172], agradecendo a Deus, de modo especial, por todos os bens e males que nos aconteçam.
 
-Assim dizia o Profeta: "Bendize, minha alma, ao Senhor, e não esqueças nenhum de Seus benefícios".[^173] Existem ainda muitos Salmos em que David, cheio de entranhado amor a Deus, canta os louvores divinos com a maior suavidade. Outro tanto fazia Job, que se nos apresenta como admirável exemplo de paciência. Tendo caído nas maiores e piores desgraças, nunca deixou de louvar a Deus com ânimo forte e inquebrantável.[^174]
+Assim dizia o Profeta: "Bendize, minha alma, ao Senhor, e não esqueças nenhum de Seus benefícios".[^173] Existem ainda muitos Salmos em que Davi, cheio de entranhado amor a Deus, canta os louvores divinos com a maior suavidade. Outro tanto fazia Jó, que se nos apresenta como admirável exemplo de paciência. Tendo caído nas maiores e piores desgraças, nunca deixou de louvar a Deus com ânimo forte e inquebrantável.[^174]
 
-Por conseguinte, quando nos debatemos com dores espirituais e corporais, quando nos contorcemos em misérias e provações, empenhemos logo o nosso zelo e todas as energias de nossa alma em louvar a Deus, repetindo aquela palavra de Job: "Bendito seja o Nome do Senhor!"[^175]
+Por conseguinte, quando nos debatemos com dores espirituais e corporais, quando nos contorcemos em misérias e provações, empenhemos logo o nosso zelo e todas as energias de nossa alma em louvar a Deus, repetindo aquela palavra de Jó: "Bendito seja o Nome do Senhor!"[^175]
 
 [6] Em quarto lugar, não menos honrado é o Nome de Deus, quando pedimos confiantes a Sua proteção, ou para que nos livre de calamidades, ou para que nos dê força e coragem de suportá-las com perseverança. Assim quer Deus que se faça: "Invoca-Me, diz Ele, no dia da tribulação. Eu te salvarei, e tu Me darás a glória".[^176] Desta invocação, encontram-se notáveis exemplos em muitos lugares da Escritura, mormente nos Salmos 16, 43 e 118.
 
 ### 3. Explicação do Juramento em particular
 
-Em quinto lugar, honramos também o Nome de Deus, quando invocamos a Deus por testemunha, para comprovar uma verdade. É um modo de louvor que muito difere dos precedentes. Pois os modos já enumerados são, de sua natureza, tão bons e desejáveis, que nada pode ser mais ditoso e mais apetecível para o homem, do que exercer-se dia e noite em sua prática frequente. "Bendirei ao Senhor em todo o tempo", dizia David, "e em minha boca estará sempre o Seu louvor".[^177]
+Em quinto lugar, honramos também o Nome de Deus, quando invocamos a Deus por testemunha, para comprovar uma verdade. É um modo de louvor que muito difere dos precedentes. Pois os modos já enumerados são, de sua natureza, tão bons e desejáveis, que nada pode ser mais ditoso e mais apetecível para o homem, do que exercer-se dia e noite em sua prática frequente. "Bendirei ao Senhor em todo o tempo", dizia Davi, "e em minha boca estará sempre o Seu louvor".[^177]
 
 O juramento, porém, ainda que seja bom em si, não é para louvar, quando usado frequentemente.
 
@@ -82,7 +82,7 @@ Não negamos, porém, que algumas dessas fórmulas se podem entender de tal mane
 
 [10] Há duas espécies de juramento. O primeiro se chama juramento assertório. Por exemplo, quando sob juramento afirmamos alguma coisa do presente ou do passado, como o fez o Apóstolo na epístola aos Gálatas: "Digo, na presença de Deus, que não minto".[^181]
 
-O segundo se chama promissório, a cuja categoria pertencem também os juramentos cominatórios.[^182] Refere-se ao tempo futuro. Consiste em prometermos alguma coisa, com absoluta certeza, e a garantirmos com um juramento. Desta espécie, era o juramento de David que, jurando à sua mulher Bersabé "pelo Senhor seu Deus", prometeu que o filho dela, Salomão, seria o herdeiro do reino, e lhe sucederia no trono.[^183]
+O segundo se chama promissório, a cuja categoria pertencem também os juramentos cominatórios.[^182] Refere-se ao tempo futuro. Consiste em prometermos alguma coisa, com absoluta certeza, e a garantirmos com um juramento. Desta espécie, era o juramento de Davi que, jurando à sua mulher Bersabé "pelo Senhor seu Deus", prometeu que o filho dela, Salomão, seria o herdeiro do reino, e lhe sucederia no trono.[^183]
 
 #### d) Condições para Jurar:
 
@@ -100,7 +100,7 @@ O homem honesto também não se comprometerá jamais a fazer alguma coisa, que j
 
 Em matéria lícita de promessa e juramento, não pode tampouco mudar o que uma vez prometeu; salvo o caso em que, por mudança das circunstâncias, já não possa levar adiante o prometido, sem incorrer no ódio e desagrado de Deus.[^186]
 
-Ora, que a verdade é um requisito necessário do juramento, declara-o também David com as palavras: "Quem jura a seu próximo, e não o engana".[^187]
+Ora, que a verdade é um requisito necessário do juramento, declara-o também Davi com as palavras: "Quem jura a seu próximo, e não o engana".[^187]
 
 ##### ... com critério
 
@@ -122,35 +122,35 @@ Desta matéria, há no Evangelho o exemplo do rei Herodes que, ligado por temer�
 
 [15] Depois de tais explicações, já não resta a menor dúvida de que pode jurar com segurança quem atender a todas estas circunstâncias, e usar dessas cláusulas como outras tantas garantias para o seu juramento.
 
-E fácil é provar esta asserção por meio de muitos argumentos. Pois a "Lei do Senhor", que é "imaculada"[^192] e "santa"[^193] contém o preceito seguinte: "Temerás o Senhor teu Deus, e só a Ele servirás; e pelo Seu Nome é que jurarás".[^194] E David escreveu: "Louvados serão todos aqueles que juram por Ele".[^195]
+E fácil é provar esta asserção por meio de muitos argumentos. Pois a "Lei do Senhor", que é "imaculada"[^192] e "santa"[^193] contém o preceito seguinte: "Temerás o Senhor teu Deus, e só a Ele servirás; e pelo Seu Nome é que jurarás".[^194] E Davi escreveu: "Louvados serão todos aqueles que juram por Ele".[^195]
 
 Além do mais, as Sagradas Escrituras atestam que os santíssimos Apóstolos, luzeiros da Igreja, recorreram por vezes ao juramento. Isto transparece das epístolas do Apóstolo.[^196]
 
 Acresce que os próprios Anjos juram de vez em quando. No Apocalipse, escreveu São João Evangelista que um Anjo havia jurado por "Aquele que vive pelos séculos dos séculos".[^197]
 
-O que mais é, o próprio Deus, Senhor dos Anjos, faz uso do juramento. Em muitas passagens do Antigo Testamento, confirma Deus Suas promessas, por meio de juramento, como o fez a Abraão e a David. Este nos deu a conhecer um célebre juramento de Deus: "Jurou o Senhor, e não há de arrepender-Se: Tu és Sacerdote por toda a eternidade, segundo a ordem de Melquisedec".[^198]
+O que mais é, o próprio Deus, Senhor dos Anjos, faz uso do juramento. Em muitas passagens do Antigo Testamento, confirma Deus Suas promessas, por meio de juramento, como o fez a Abraão e a Davi.[^198] Este nos deu a conhecer um célebre juramento de Deus: "Jurou o Senhor, e não há de arrepender-Se: Tu és Sacerdote por toda a eternidade, segundo a ordem de Melquisedec".[^199]
 
 #### f) Razões intrínsecas do juramento
 
 [16] Com efeito, se considerarmos mais de perto toda a questão, se levarmos em conta a origem e a finalidade do juramento, não nos será difícil determinar o motivo por que o juramento é um ato louvável.
 
-O juramento tem sua origem na fé, porquanto os homens crêem que Deus é o autor de toda a verdade; que Ele não pode jamais enganar-Se a Si mesmo, nem enganar a outrem; que "a Seus olhos estão patentes e descobertas todas as coisas"[^199]; que Ele afinal, por Sua admirável Providência, cuida de todos os negócios humanos, e governa o mundo inteiro.[^200]
+O juramento tem sua origem na fé, porquanto os homens crêem que Deus é o autor de toda a verdade; que Ele não pode jamais enganar-Se a Si mesmo, nem enganar a outrem; que "a Seus olhos estão patentes e descobertas todas as coisas"[^200]; que Ele afinal, por Sua admirável Providência, cuida de todos os negócios humanos, e governa o mundo inteiro.[^201]
 
 Assim, imbuídos desta fé, invocam os homens a Deus por testemunha da verdade. E negar-Lhe crédito [a Deus], seria crime e profanação.
 
 #### g) Finalidade do juramento
 
-[17] Quanto à sua finalidade, o juramento tende por natureza a provar, de modo absoluto, a justiça e a inocência de alguma pessoa, e pôr termo a litígios e demandas. Esta é também a doutrina do Apóstolo na epístola aos Hebreus.[^201]
+[17] Quanto à sua finalidade, o juramento tende por natureza a provar, de modo absoluto, a justiça e a inocência de alguma pessoa, e pôr termo a litígios e demandas. Esta é também a doutrina do Apóstolo na epístola aos Hebreus.[^202]
 
 #### Corolário: Cristo e o juramento
 
-[18] De modo algum contrariam esta exposição de princípios as palavras de Nosso Salvador que se encontram no Evangelho de São Mateus: "Ouvistes que se disse aos antigos: Não jurarás falso, e cumprirás ao Senhor os teus juramentos. Eu, porém, vos digo que não jureis de forma alguma: nem pelo céu, porque é o trono de Deus; nem pela terra, porque é o descanso de Seus pés[^202]; nem por Jerusalém, porque é a cidade do grande Rei. Nem pela tua cabeça jurarás, porque não és capaz de tornar branco nem preto um só fio de cabelo. Mas seja o vosso modo de falar: Sim, sim; não, não. O que daí passa, tem sua origem no mal".[^203]
+[18] De modo algum contrariam esta exposição de princípios as palavras de Nosso Salvador que se encontram no Evangelho de São Mateus: "Ouvistes que se disse aos antigos: Não jurarás falso, e cumprirás ao Senhor os teus juramentos. Eu, porém, vos digo que não jureis de forma alguma: nem pelo céu, porque é o trono de Deus; nem pela terra, porque é o descanso de Seus pés[^203]; nem por Jerusalém, porque é a cidade do grande Rei. Nem pela tua cabeça jurarás, porque não és capaz de tornar branco nem preto um só fio de cabelo. Mas seja o vosso modo de falar: Sim, sim; não, não. O que daí passa, tem sua origem no mal".[^204]
 
 Não se deve, pois, afirmar que tais palavras sejam uma reprovação formal e sumária do juramento, porque já vimos, há pouco, que o próprio Senhor e os Apóstolos juraram repetidas vezes.
 
 Nosso Senhor queria, apenas, refutar a perversa opinião dos judeus, pela qual estavam persuadidos de que no juramento nada mais era preciso evitar senão a mentira. Por isso, por qualquer coisa sem a menor importância, juravam pessoalmente, e exigiam também que os outros também jurassem, da mesma forma. Este mau vezo é que o Salvador censura e reprova, ensinando que devemos absolutamente abster-nos de jurar, quando não o exige a necessidade.
 
-#### b) O abuso de jurar
+#### h) O abuso de jurar
 
 [19] O juramento foi instituído por causa da fragilidade humana. Realmente, sua razão de ser está na malícia, pois revela de per si a inconstância de quem jura, ou a obstinação daquele que nos faz jurar, porquanto não podemos levá-lo a crer de outra forma.
 
@@ -160,9 +160,9 @@ Quando o Salvador diz: "Seja o vosso falar: Sim, sim; não, não" — Sua própr
 
 Pois não só pela autoridade das Sagradas Escrituras, como também pelo testemunho dos Santos Padres, temos provas de serem quase sem conta os males que resultam do exagerado costume de jurar.
 
-No Livro do Eclesiástico está escrito: "Não se acostume tua boca a jurar, porque isso traz ocasião para muitas quedas".[^204] E no mesmo lugar: "O homem que jura muito, será cheio de iniquidade, e a desgraça não se apartará de sua casa".[^205]
+No Livro do Eclesiástico está escrito: "Não se acostume tua boca a jurar, porque isso traz ocasião para muitas quedas".[^205] E no mesmo lugar: "O homem que jura muito, será cheio de iniquidade, e a desgraça não se apartará de sua casa".[^206]
 
-Mais explicações sobre a matéria, podemos encontrá-las nos escritos de São Basílio e Santo Agostinho sobre a mentira.[^206]
+Mais explicações sobre a matéria, podemos encontrá-las nos escritos de São Basílio e Santo Agostinho sobre a mentira.[^207]
 
 Até aqui se tratou do que o Preceito manda. Vejamos, doravante, o que ele proíbe.
 
@@ -170,29 +170,29 @@ Até aqui se tratou do que o Preceito manda. Vejamos, doravante, o que ele proí
 
 ### 1. Perjúrio
 
-[20] Proibido nos é tomar o Nome de Deus em vão. Evidentemente, grave pecado comete quem, no juramento, não se deixa guiar pela reflexão, mas antes por temerária leviandade. Mas que isto vem a ser até um pecado gravíssimo, declaram-no as palavras textuais: "Não tomarás em vão o Nome do Senhor teu Deus". Indicam[^207], por assim dizer, a razão por que esse pecado é tão funesto e abominável; é por desacatar a majestade d'Aquele a quem reconhecemos como Nosso Deus e Senhor.
+[20] Proibido nos é tomar o Nome de Deus em vão. Evidentemente, grave pecado comete quem, no juramento, não se deixa guiar pela reflexão, mas antes por temerária leviandade. Mas que isto vem a ser até um pecado gravíssimo, declaram-no as palavras textuais: "Não tomarás em vão o Nome do Senhor teu Deus". Indicam[^208], por assim dizer, a razão por que esse pecado é tão funesto e abominável; é por desacatar a majestade d'Aquele a quem reconhecemos como Nosso Deus e Senhor.
 
 Este Preceito proíbe, portanto, que se faça juramento falso. Quem não recua de tamanho crime, como o de invocar a Deus como falsa testemunha, faz a Deus uma tremenda injúria, pois Lhe atira a pecha de ignorância, julgando que Ele possa desconhecer a verdade, ou a de perversão e má fé, como se Ele se prontificasse a confirmar uma mentira com o Seu testemunho.
 
 #### a) perjúrio assertório
 
-[21] Ora, jura falso não só quem jura verdade aquilo que ele mesmo conhece como falso, mas também a pessoa que jura alguma coisa verdadeira, na persuasão de que é falsa, embora seja de per si verdadeira.[^208]
+[21] Ora, jura falso não só quem jura verdade aquilo que ele mesmo conhece como falso, mas também a pessoa que jura alguma coisa verdadeira, na persuasão de que é falsa, embora seja de per si verdadeira.[^209]
 
 Se, pois, mentira é mentira, porque é expressa contra a verdade e a própria convicção de quem a profere, não resta dúvida que tal pessoa de fato mente, e comete perjúrio.
 
-[22] Por igual motivo, comete também perjúrio quem jura uma coisa que julga verdadeira, mas que de fato é falsa, salvo se a pessoa de sua parte empregou toda a atenção e diligência de que era capaz, para descobrir e conhecer plenamente a verdade. Ainda que suas palavras estejam de acordo com o pensamento, a pessoa incorre todavia numa transgressão deste Preceito.[^209]
+[22] Por igual motivo, comete também perjúrio quem jura uma coisa que julga verdadeira, mas que de fato é falsa, salvo se a pessoa de sua parte empregou toda a atenção e diligência de que era capaz, para descobrir e conhecer plenamente a verdade. Ainda que suas palavras estejam de acordo com o pensamento, a pessoa incorre todavia numa transgressão deste Preceito.[^210]
 
 #### b) perjúrio promissório
 
 [23] Deve também considerar-se réu do mesmo pecado aquele que com juramento promete fazer alguma coisa, sem a intenção de cumprir o prometido; ou, se tinha intenção, não cumpre de fato o que prometeu.
 
-Aplica-se o mesmo princípio aos que se obrigam a Deus por algum voto, e deixam de satisfazê-lo.[^210]
+Aplica-se o mesmo princípio aos que se obrigam a Deus por algum voto, e deixam de satisfazê-lo.[^211]
 
 ### 2. Juramento iníquo ou injusto
 
 [24] Peca-se também contra este Preceito, quando se falta à justiça, uma das três condições que devem acompanhar o juramento.
 
-Portanto, se alguém jura cometer algum pecado mortal[^211], por exemplo o de matar um homem, peca contra este Preceito, embora a pessoa o prometa com reflexão e seriedade, e assim não falte ao juramento a verdade, condição que se exige em primeiro lugar, conforme já temos explicado.
+Portanto, se alguém jura cometer algum pecado mortal[^212], por exemplo o de matar um homem, peca contra este Preceito, embora a pessoa o prometa com reflexão e seriedade, e assim não falte ao juramento a verdade, condição que se exige em primeiro lugar, conforme já temos explicado.
 
 Devemos acrescentar aqui as espécies de juramento que procedem de certo menosprezo; quando, por exemplo, alguém jura que não há de obedecer aos conselhos evangélicos, porquanto exortam à observância do celibato e da pobreza. Verdade é que ninguém tem a estrita obrigação de segui-los; mas, se alguém jura não querer observar tais conselhos, há nesse juramento desprezo e profanação dos conselhos divinos.
 
@@ -204,35 +204,35 @@ Devemos acrescentar aqui as espécies de juramento que procedem de certo menospr
 
 ### 4. Profanação de coisas santas
 
-[27] Ao proibir o perjúrio, a Escritura acrescenta: "Não mancharás o Nome do teu Deus".[^212] Assim proíbe, outrossim, o menosprezo de outras coisas, às quais se deve veneração, em virtude deste mesmo Preceito.
+[27] Ao proibir o perjúrio, a Escritura acrescenta: "Não mancharás o Nome do teu Deus".[^213] Assim proíbe, outrossim, o menosprezo de outras coisas, às quais se deve veneração, em virtude deste mesmo Preceito.
 
-Tal se dá com a palavra de Deus, cuja majestade não só os homens piedosos, mas às vezes até os ímpios acatam com temor, como se conta na história dos Juízes a respeito de Eglon, rei dos Moabitas.[^213]
+Tal se dá com a palavra de Deus, cuja majestade não só os homens piedosos, mas às vezes até os ímpios acatam com temor, como se conta na história dos Juízes a respeito de Eglon, rei dos Moabitas.[^214]
 
-Ora, gravíssima injúria faz à palavra de Deus quem destitui a Sagrada Escritura de seu sentido reto e verdadeiro, para abonar doutrinas e heresias de homens ímpios. Contra tal crime nos põe em guarda o Príncipe dos Apóstolos com as palavras: "Há algumas coisas difíceis de entender [nas epístolas de São Paulo], que pessoas ignorantes adulteram para a sua própria perdição, bem como outras passagens da Escritura".[^214]
+Ora, gravíssima injúria faz à palavra de Deus quem destitui a Sagrada Escritura de seu sentido reto e verdadeiro, para abonar doutrinas e heresias de homens ímpios. Contra tal crime nos põe em guarda o Príncipe dos Apóstolos com as palavras: "Há algumas coisas difíceis de entender [nas epístolas de São Paulo], que pessoas ignorantes adulteram para a sua própria perdição, bem como outras passagens da Escritura".[^215]
 
 #### ... ludíbrio das Sagradas Escrituras
 
-Há também uma indigna e vergonhosa conspurcação das Sagradas Escrituras, quando pessoas perversas tomam suas palavras e sentenças, que merecem toda a veneração, para as torcerem em sentido profano, como seja de chocarrices, basófias, sandices, lisonjas, difamações, adivinhações, sátiras e outras infâmias. É um pecado que o Sagrado Concílio de Trento manda coibir com penas canônicas.[^215]
+Há também uma indigna e vergonhosa conspurcação das Sagradas Escrituras, quando pessoas perversas tomam suas palavras e sentenças, que merecem toda a veneração, para as torcerem em sentido profano, como seja de chocarrices, basófias, sandices, lisonjas, difamações, adivinhações, sátiras e outras infâmias. É um pecado que o Sagrado Concílio de Trento manda coibir com penas canônicas.[^216]
 
 #### desprezo da oração
 
-[28] Mais ainda. Assim como honram a Deus os que imploram Seu poderoso auxílio nas tribulações: assim também negam a Deus a devida honra os que não pedem o Seu socorro. David censura-os com as palavras: "Não invocam a Deus. Por isso, tremem de pavor, onde não há o que temer".[^216]
+[28] Mais ainda. Assim como honram a Deus os que imploram Seu poderoso auxílio nas tribulações: assim também negam a Deus a devida honra os que não pedem o Seu socorro. Davi censura-os com as palavras: "Não invocam a Deus. Por isso, tremem de pavor, onde não há o que temer".[^217]
 
 ### 5. Blasfêmia e maldição
 
 [29] Incorrem, porém, em culpa muito mais abominável os que, com a sua boca impura e maligna, ousam blasfemar e maldizer não só o sacrossanto Nome de Deus, que todas as criaturas devem bendizer e exaltar com os maiores louvores; mas também os nomes dos Santos, que com Deus já estão participando do Seu Reino.
 
-Este pecado é tão atroz e inqualificável, que as Sagradas Escrituras, quando falam da blasfêmia[^217], usam às vezes o termo "bênção" [em lugar da expressão própria].
+Este pecado é tão atroz e inqualificável, que as Sagradas Escrituras, quando falam da blasfêmia[^218], usam às vezes o termo "bênção" [em lugar da expressão própria].
 
 ## IV. As sanções de Deus
 
 ### Indicam
 
-[30] Para melhor sacudir as consciências, e mais fàcilmente mover os homens à observância deste Preceito, já que o temor de grave castigo costuma ser um vigoroso freio à leviandade de pecar, terá o pároco o cuidado de bem explicar esta segunda parte do Preceito, a qual vem à guisa de apêndice: "Pois o Senhor não deixará sem castigo aquele que tomar em vão o Nome do Senhor seu Deus".[^218]
+[30] Para melhor sacudir as consciências, e mais facilmente mover os homens à observância deste Preceito, já que o temor de grave castigo costuma ser um vigoroso freio à leviandade de pecar, terá o pároco o cuidado de bem explicar esta segunda parte do Preceito, a qual vem à guisa de apêndice: "Pois o Senhor não deixará sem castigo aquele que tomar em vão o Nome do Senhor seu Deus".[^219]
 
-### 1. a gravesa do pecado
+### 1. a gravidade do pecado
 
-Em primeiro lugar, explicará a profunda razão por que, ao Preceito, se acrescentaram ameaças de castigo. Dão elas a conhecer a graveza do pecado e a bondade de Deus para conosco. Pois, uma vez que não Se regozija com a perdição dos homens[^219], Deus nos incute temor por meio dessas úteis ameaças, para não atrairmos sobre nós Sua cólera e desagrado, de sorte que venhamos a sentir antes a Sua bondade do que a Sua indignação.
+Em primeiro lugar, explicará a profunda razão por que, ao Preceito, se acrescentaram ameaças de castigo. Dão elas a conhecer a graveza do pecado e a bondade de Deus para conosco. Pois, uma vez que não Se regozija com a perdição dos homens[^220], Deus nos incute temor por meio dessas úteis ameaças, para não atrairmos sobre nós Sua cólera e desagrado, de sorte que venhamos a sentir antes a Sua bondade do que a Sua indignação.
 
 Deve o pároco insistir neste ponto, e repisá-lo com toda a diligência, a fim de que o povo veja a gravidade de tal pecado; que o aborreça com mais decisão, e tenha mais empenho e cuidado em evitar as ocasiões de cometê-lo.
 
@@ -246,7 +246,7 @@ Não deixe tampouco de explicar que Deus não marcou um castigo determinado; ame
 
 Por isso, deste pecado devem escarmentar-nos os vários flagelos que todos os dias nos torturam, pois não será fora de propósito presumir que, na violação deste Preceito, esteja o motivo de caírem os homens nas maiores desgraças. Se os homens tomarem a peito esta verdade, é provável que se tornem mais cautelosos para o futuro.
 
-Os fiéis devem, pois, imbuir-se de santo temor, para fugirem desse pecado, custe o que custar. Se no último Juízo havemos de responder por toda palavra ociosa[^220], que se dirá então dos gravíssimos pecados que envolvem em si um grande desprezo do Nome de Deus?
+Os fiéis devem, pois, imbuir-se de santo temor, para fugirem desse pecado, custe o que custar. Se no último Juízo havemos de responder por toda palavra ociosa[^221], que se dirá então dos gravíssimos pecados que envolvem em si um grande desprezo do Nome de Deus?
 
 [^166]: Exod 20, 7.
 [^167]: Mal 1, 6.
@@ -256,8 +256,8 @@ Os fiéis devem, pois, imbuir-se de santo temor, para fugirem desse pecado, cust
 [^171]: Exod 13, 3; Apoc 1, 8; Is 13, 4; Apoc 19, 16; Is 9, 6; et passim.
 [^172]: Em primeiro lugar, pela recitação do Breviário, de outras preces litúrgicas, e de devoções aprovadas pela Igreja (cfr. Pio XII, encíclica "Mediator Dei" sobre a Liturgia).
 [^173]: Ps 102, 2.
-[^174]: Job 1, 21; 2, 10 et passim.
-[^175]: Job 1, 21.
+[^174]: Jó 1, 21; 2, 10 et passim.
+[^175]: Jó 1, 21.
 [^176]: Ps 49, 15.
 [^177]: Ps 33, 2.
 [^178]: Chrysost. In Acta hom. 9 (Doney indica Ad pop. Antioch. hom. 26).
@@ -280,26 +280,27 @@ Os fiéis devem, pois, imbuir-se de santo temor, para fugirem desse pecado, cust
 [^195]: Ps 62, 12.
 [^196]: Rom 1, 9; 1 Cor 15, 31; 2 Cor 1, 23; Phil 1, 8; 16, 3; 1 Thess 2, 10.
 [^197]: Apoc 10, 6.
-[^198]: Hb 6, 17; Ps 131, 11; Ps 109, 4.
-[^199]: Hb 4, 13.
-[^200]: Cfr. a antífona do Advento: O Sapientia (17 de Dezembro).
-[^201]: Hb 6, 16. Clemente XI, em 1705, e Pio VI, em 1794, condenaram como jansenista a opinião de que os juramentos exigidos pelas autoridades eclesiástica e civil são contrários ao espírito do cristianismo, e que em geral o juramento só é permitido em extrema necessidade, quando não haja outra evasiva. Cfr. DU 1451 1575.
-[^202]: Cfr. Is 66, 1.
-[^203]: Mt 5, 33-37.
-[^204]: Eccli 23, 9.
-[^205]: Eccli 23, 12.
-[^206]: Vide Basilium in Ps 14 ad haec verba: Qui iurat proximo suo; Aug. Liber de mendacio cap. 14.
-[^207]: O original latino traz "afferret" em vez de "afferrent". É um lapso de concordância, a não ser que se admita um anacoluto, aliás difícil de traduzir.
-[^208]: Vide Aug. De verbis Apost. serm. 28.
-[^209]: Transgressão pelo menos material.
-[^210]: Sobre votos e promessas: Levit 27; Deut 23, 21-22; Ps 75, 12; Eccli 5, etc.
-[^211]: Não só pecado mortal, mas também qualquer pecado leve.
-[^212]: Levit 19, 12.
-[^213]: Judices 3, 30.
-[^214]: 2 Petr 3, 16.
-[^215]: Conc. Trid. IV de editione et usu sacrorum libr. DU 786. As penas ficavam ao critério dos Ordinários. O CIC silencia a respeito.
-[^216]: Ps 13, 5.
-[^217]: 3 Reg 21, 13; Iob 1, 11; 2, 9.
-[^218]: Exod 20, 7.
-[^219]: Tob 3, 22.
-[^220]: Mt 12, 36.
+[^198]: Hb 6, 17; Sl 131, 11.
+[^199]: Sl 109, 4.
+[^200]: Hb 4, 13.
+[^201]: Cfr. a antífona do Advento: O Sapientia (17 de Dezembro).
+[^202]: Hb 6, 16. Clemente XI, em 1705, e Pio VI, em 1794, condenaram como jansenista a opinião de que os juramentos exigidos pelas autoridades eclesiástica e civil são contrários ao espírito do cristianismo, e que em geral o juramento só é permitido em extrema necessidade, quando não haja outra evasiva. Cfr. DU 1451 1575.
+[^203]: Cfr. Is 66, 1.
+[^204]: Mt 5, 33-37.
+[^205]: Eccli 23, 9.
+[^206]: Eccli 23, 12.
+[^207]: Vide Basilium in Ps 14 ad haec verba: Qui iurat proximo suo; Aug. Liber de mendacio cap. 14.
+[^208]: O original latino traz "afferret" em vez de "afferrent". É um lapso de concordância, a não ser que se admita um anacoluto, aliás difícil de traduzir.
+[^209]: Vide Aug. De verbis Apost. serm. 28.
+[^210]: Transgressão pelo menos material.
+[^211]: Sobre votos e promessas: Levit 27; Deut 23, 21-22; Ps 75, 12; Eccli 5, etc.
+[^212]: Não só pecado mortal, mas também qualquer pecado leve.
+[^213]: Levit 19, 12.
+[^214]: Judices 3, 30.
+[^215]: 2 Petr 3, 16.
+[^216]: Conc. Trid. IV de editione et usu sacrorum libr. DU 786. As penas ficavam ao critério dos Ordinários. O CIC silencia a respeito.
+[^217]: Ps 13, 5.
+[^218]: 3 Reg 21, 13; Jó 1, 11; 2, 9.
+[^219]: Exod 20, 7.
+[^220]: Tob 3, 22.
+[^221]: Mt 12, 36.

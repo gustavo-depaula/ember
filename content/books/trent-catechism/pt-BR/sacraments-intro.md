@@ -34,7 +34,7 @@ Até aqui as explicações em torno da palavra "Sacramento". São aplicáveis, c
 
 [3] Após a explicação etimológica, devemos agora analisar atentamente a natureza do próprio objeto, e mostrar aos fiéis o que é "Sacramento". Ora, não padece nenhuma dúvida que os Sacramentos pertencem à categoria dos meios, pelos quais se logra a salvação e a justificação.
 
-Embora haja várias explicações boas e admissíveis, nenhuma iguala à justa e luminosa definição de Santo Agostinho, perfilhada mais tarde por todos os teólogos escolásticos. "Sacramento, diz ele[^10], é o sinal de uma coisa sagrada". Noutros termos, que exprimem a mesma idéia: "Sacramento é o sinal visível de uma graça invisível, instituído para a nossa justificação".
+Embora haja várias explicações boas e admissíveis, nenhuma iguala à justa e luminosa definição de Santo Agostinho, perfilhada mais tarde por todos os teólogos escolásticos. "Sacramento, diz ele[^10], é o sinal de uma coisa sagrada". Noutros termos, que exprimem a mesma ideia: "Sacramento é o sinal visível de uma graça invisível, instituído para a nossa justificação".
 
 ### 1. O sinal sacramental
 
@@ -58,9 +58,9 @@ Grande vantagem haverá em saberem os fiéis que os Sacramentos pertencem à cla
 
 [6] Agora vem a explicação dos termos "coisa sagrada", que constituem a segunda parte da definição. Será mais cômodo fazê-la, se ampliarmos ligeiramente a penetrante análise, que Santo Agostinho fez das várias espécies de sinais.[^17]
 
-Uns se chamam sinais naturais. Além da impressão de si mesmos, dão-nos a idéia de outra coisa a mais. Ora, como já se demonstrou, isto é um caráter comum de todos os sinais. Assim, onde há fumo, conclui-se logo que ali há também fogo. Este sinal se chama natural, porque o fumo faz lembrar o fogo, não por uma convenção arbitrária, mas pela experiência natural de que nos basta enxergar fumaça, para logo concluirmos que por ali há fogo em ação, embora não apareça ainda à nossa vista.
+Uns se chamam sinais naturais. Além da impressão de si mesmos, dão-nos a ideia de outra coisa a mais. Ora, como já se demonstrou, isto é um caráter comum de todos os sinais. Assim, onde há fumo, conclui-se logo que ali há também fogo. Este sinal se chama natural, porque o fumo faz lembrar o fogo, não por uma convenção arbitrária, mas pela experiência natural de que nos basta enxergar fumaça, para logo concluirmos que por ali há fogo em ação, embora não apareça ainda à nossa vista.
 
-Outros sinais há, que não o são por natureza, mas por invenção e instituição humana, para que os homens possam comunicar-se entre si, transmitir a outrem suas próprias idéias, e conhecer as idéias e intenções de seus semelhantes.
+Outros sinais há, que não o são por natureza, mas por invenção e instituição humana, para que os homens possam comunicar-se entre si, transmitir a outrem suas próprias ideias, e conhecer as ideias e intenções de seus semelhantes.
 
 Grande é seu número e variedade, como se vê pelo fato que alguns sinais são próprios para a vista, muitos para os ouvidos, e os restantes para os outros sentidos. Por exemplo, quando acenamos a alguém, ou erguemos um pendão, é lógico que tais sinais se destinam à percepção da vista; assim como os sons de trombetas, flautas e cítaras, que se empregam não só para deleitar, mas também para exprimir alguma coisa convencional, são sinais acomodados ao ouvido. É também pelo ouvido que principalmente nos chegam as palavras, como os meios mais eficazes de exprimir as íntimas sensações de nossa alma.
 
@@ -210,7 +210,7 @@ Em seguida, temos a Eucaristia, alimento verdadeiramente celestial, que nutre e 
 
 O quarto lugar ocupa a Penitência, por cuja virtude recobramos a saúde, se a tivermos perdido com as lesões do pecado.[^45]
 
-Depois, a Extrema-Unção nos tira os remanescentes do pecado, e restaura as forças da alma. Com relação a este Sacramento, declarou Santiago: "E se estiver em pecados, ser-lhe-ão remitidos".[^46]
+Depois, a Extrema-Unção nos tira os remanescentes do pecado, e restaura as forças da alma. Com relação a este Sacramento, declarou São Tiago: "E se estiver em pecados, ser-lhe-ão remetidos".[^46]
 
 A seguir, vem a Ordem que confere o poder de perpetuar a administração pública dos Sacramentos e o exercício de todas as funções sagradas no seio da Igreja.[^47]
 
@@ -252,7 +252,7 @@ Outra prova ainda. Os Sacramentos possuem tal eficácia, que invadem os mais ín
 
 [19] No ato sacramental, os ministros não representam a sua própria pessoa, mas a Pessoa de Cristo. Desta forma, sejam eles bons, ou sejam maus, produzem e administram validamente os Sacramentos, se aplicarem a forma e a matéria que a Igreja sempre observou por instituição de Cristo, e se tiverem a intenção de fazer o que faz a Igreja na administração dos Sacramentos. Por conseguinte, não há o que possa impedir o fruto da graça, salvo se as pessoas que recebem os Sacramentos, quiserem por indisposição própria privar-se de tão grande benefício, e resistir à ação do Espírito Santo.
 
-Tal foi sempre a doutrina firme e inabalável da Igreja. Disso temos provas evidentíssimas, nas disputações que Santo Agostinho escreveu contra os donatistas.[^52]
+Tal foi sempre a doutrina firme e inabalável da Igreja. Disso temos provas evidentíssimas, nas disputas que Santo Agostinho escreveu contra os donatistas.[^52]
 
 ### Ministro indigno
 
@@ -306,7 +306,7 @@ Desta forma, produzem a graça que significam, em virtude do Sangue de Cristo. S
 
 ### a) Sua noção
 
-[24] O segundo efeito dos Sacramentos não é comum a todos, mas é próprio de três sòmente: do Batismo, da Confirmação e da Ordem. Consiste no caráter que imprimem na alma.
+[24] O segundo efeito dos Sacramentos não é comum a todos, mas é próprio de três somente: do Batismo, da Confirmação e da Ordem. Consiste no caráter que imprimem na alma.
 
 Diz o Apóstolo: "Foi Deus quem nos ungiu, quem nos marcou com o Seu selo, e pôs em nossos corações o penhor do Espírito".[^68] Ora, com as palavras "marcou com o Seu Selo" designou bem claramente esse "caráter", cuja propriedade natural é pôr selo ou fazer marca.
 
@@ -396,6 +396,7 @@ Por fim, mostrarão os pastores que todo o edifício do cristianismo, apesar de 
 [^58]: Eph 5, 25 ss.
 [^59]: Aug. Tract. in Joh. 80, 3.
 [^60]: Lc 3, 22.
+[^61]: At 5, 41.
 [^62]: Act 2, 2 ss.
 [^63]: Aug. contra Faustum 19, 13; in Psalm. 83; Ambros. de Sacram 4.
 [^64]: Gal 4, 9.

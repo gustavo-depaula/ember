@@ -10,7 +10,7 @@
 
 Ora, a verdadeira caridade manda-nos aplicar todo o nosso amor e afeto a Deus. Por ser em Si mesmo o único sumo bem, Ele deve merecidamente ser amado com um amor intenso e singular.
 
-Mas não podemos amar únicamente a Deus, de todo o coração, se não preferirmos Sua honra e glória a todas as coisas criadas. Todos os bens, tanto os nossos como os dos outros, e todas as coisas que mereçam o atributo de "boas", têm sua origem em Deus, mas não podem nem de longe igualar ao Sumo Bem.
+Mas não podemos amar unicamente a Deus, de todo o coração, se não preferirmos Sua honra e glória a todas as coisas criadas. Todos os bens, tanto os nossos como os dos outros, e todas as coisas que mereçam o atributo de "boas", têm sua origem em Deus, mas não podem nem de longe igualar ao Sumo Bem.
 
 Por conseguinte, para que se observasse na oração a ordem devida, Nosso Senhor antepôs a todas as outras, como primeira e principal, aquela petição que se refere ao Sumo Bem.
 
@@ -46,7 +46,7 @@ Noutros termos, Seu louvor e veneração deve de tal forma falar em nossos pensa
 
 Como os Santos do céu, em perfeita harmonia, glorificam e louvam a Deus, assim pedimos que o mesmo suceda no orbe da terra: que todos os povos conheçam, respeitem e adorem a Deus; que nenhum mortal deixe de abraçar a Religião Cristã e de consagrar-se totalmente a Deus, na firme convicção de que nada pode haver de puro ou santo, que se não derive da santidade do Nome Divino, fonte de toda a santidade.
 
-### 1. Que todos os homens reconheçam a Deus
+### 1. Que todos os homens conheçam a Deus e recebam o Batismo
 
 [5] Diz um testemunho do Apóstolo que a Igreja foi purificada "no Batismo de água pela palavra da vida".[^192]
 
@@ -68,17 +68,17 @@ Se o sol pelo seu esplendor, se os demais astros pelo seu curso regular trazem v
 
 Sendo assim, até as causas que os filósofos chamam "causas segundas", devemos considerá-las como se fossem uma espécie de mãos divinas, milagrosamente feitas e acomodadas às nossas necessidades, e pelas quais Deus nos distribui Seus benefícios, e os esparge profusamente por toda a parte.
 
-### 4. Que todos sentem a Igreja de Cristo
+### 4. Que todos acatem a verdadeira Igreja de Cristo
 
 [8] O sentido mais profundo desta Petição é fazer que todos reconheçam e acatem a Igreja como Esposa santíssima de Jesus Cristo e como nossa Mãe, pois que só nela existe uma fonte abundante e inexaurível para lavar e suprimir todas as impurezas do pecado. Dessa fonte brotam todos os Sacramentos da salvação e santificação, pelos quais Deus faz verter, como por canais sagrados, a linfa e o orvalho da santidade em nossa alma.
 
 Só a Igreja, e os que ela nutre e aconchega em seu regaço, podem na verdade invocar aquele Nome Divino, "o único dado aos homens debaixo do céu, em que nos cumpre operar a salvação".[^197]
 
-### 5. Que o Nome de Deus seja glorificado também pela vida
+### 5. Que o Nome de Deus não seja blasfemado, por causa dos cristãos
 
 [9] Há, porém, um ponto em que os párocos devem insistir sobremaneira. É que o bom filho não se limita a rezar a Deus Pai com palavras, mas também se esforça para que em suas obras e atitudes resplandeça a santificação do Nome Divino.
 
-Oxalá não houvesse pessoas que, na oração, pedem assiduamente a santificação do Nome de Deus, mas que pela sua vida fazem quanto podem para o deprimir e enxovalhar, tornando-se muitas vezes causa de blasfêmias contra Deus.
+Oxalá não houvesse pessoas que, na oração, pedem assiduamente a santificação do Nome de Deus, mas que pela sua vida fazem quanto podem para O deprimir e enxovalhar, tornando-se muitas vezes causa de blasfêmias contra Deus.
 
 De tais cristãos dizia o Apóstolo: "Por vossa causa, o Nome de Deus é blasfemado no meio da gentilidade".[^198] Em Ezequiel lemos também: "Foram ter com nações pagãs, e, chegados no meio delas, enxovalharam o Meu Santo Nome, porquanto se dizia a respeito deles: Este é o povo do Senhor, e não obstante, teve de sair de sua própria terra".[^199]
 
@@ -90,11 +90,11 @@ Ora, o próprio Nosso Senhor nos impôs a obrigação de mover os homens, por at
 
 No Evangelho, dirige-nos estas palavras: "De tal modo deve brilhar vossa luz diante dos homens, que vejam as vossas boas obras, e glorifiquem o vosso Pai, que está nos céus".[^200] E, por seu turno, diz o Príncipe dos Apóstolos: "Comportai-vos bem entre os gentios, para que... vos julguem pelas vossas boas obras, e glorifiquem a Deus".[^201]
 
-[^191]: Ps 110, 10.
-[^192]: Eph 5, 26.
+[^191]: Sl 110, 10.
+[^192]: Ef 5, 26.
 [^193]: Isto é, pela graça.
 [^194]: Mt 12, 43 ss.
-[^195]: Jac 1, 17.
+[^195]: Tg 1, 17.
 [^196]: Coleta da Missa da V dominga depois da Páscoa.
 [^197]: Act 4, 12.
 [^198]: Rom 2, 24. Cfr. Is 52, 5.

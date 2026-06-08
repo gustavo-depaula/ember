@@ -22,15 +22,15 @@ Na verdade, tão ampla é a riqueza e abundância dos bens celestes, incluídos 
 
 Ora, julgaríamos digno do título real o soberano que se não preocupasse com o bem-estar de seu reino? Mas, se há homens que velam, ciosamente, pela integridade de seu reino, força não é admitirmos quanto cuidado e providência desenvolve o Rei dos reis para garantir a vida e a salvação dos homens?
 
-### 3. Abrange tudo o que se pode desejar
+### 3. Abrange tudo o que se requer para a vida espiritual e corporal
 
 Portanto, nesta petição do Reino de Deus se encerram todas as coisas de que havemos mister nesta peregrinação, digamos antes, neste desterro. E são coisas que Deus, em Sua bondade, prometeu conceder-nos, pois logo adiantou: "Todas estas coisas vos serão dadas de acréscimo".[^209]
 
-Nestes termos, afirmou claramente ser Ele, na verdade, o Rei que, a mãos largas, reparte todos os bens ao gênero humano. Absorto na contemplação dessa infinita largueza, David se punha a cantar: "O Senhor me governa, e nada me há de faltar".[^210]
+Nestes termos, afirmou claramente ser Ele, na verdade, o Rei que, a mãos largas, reparte todos os bens ao gênero humano. Absorto na contemplação dessa infinita largueza, Davi se punha a cantar: "O Senhor me governa, e nada me há de faltar".[^210]
 
 ## II. Maneira de realizá-la
 
-### 1. Pedir o Reino de modo eficaz
+### 1. Procurar o Reino de Deus
 
 [3] Porém não basta de modo algum pedir ardentemente o Reino de Deus, se com o nosso pedido não empregarmos todos os meios necessários para o buscar e achar.
 
@@ -48,13 +48,13 @@ Que dizer, então, das ardentes lutas internas[^216], que de contínuo se travam
 
 [5] A triste condição do gênero humano, já manifesta por si mesma, torna-se ainda mais palpável pelo confronto com outros seres e criaturas. Quer nos seres irracionais, quer nos insensíveis, raramente vemos uma criatura falhar nos atos que lhe são próprios, nos seus instintos naturais, e não conseguir assim sua finalidade discriminada pela natureza. Isso é tão visível nos animais terrestres, aquáticos e voláteis, que já não se faz mister maior explicação.
 
-E, se erguermos os olhos para o céu, não vemos logo quão verdadeira é a palavra de David: "Vossa palavra, Senhor, se firma no céu para sempre"?[^218] Há, pois, no firmamento, rotações e traslações, em cadência contínua, de sorte que não ocorre a mínima digressão da órbita marcada por Deus.
+E, se erguermos os olhos para o céu, não vemos logo quão verdadeira é a palavra de Davi: "Vossa palavra, Senhor, se firma no céu para sempre"?[^218] Há, pois, no firmamento, rotações e traslações, em cadência contínua, de sorte que não ocorre a mínima digressão da órbita marcada por Deus.
 
 Se contemplarmos a terra e as outras partes do Universo, facilmente averiguamos que nenhuma ou pouca alteração apresentam em seu curso normal.
 
-Entanto, o miserável gênero humano é que descai muitas vezes. O homem raramente põe em prática idéias acertadas. Por via de regra, abandona e despreza boas obras, que estavam em andamento. O que há pouco lhe agradava, como o melhor dos alvitres, já lhe desagrada de uma hora para outra. E largando mão do que é bom, descamba em planos torpes e ruinosos.
+Entanto, o miserável gênero humano é que descai muitas vezes. O homem raramente põe em prática ideias acertadas. Por via de regra, abandona e despreza boas obras, que estavam em andamento. O que há pouco lhe agradava, como o melhor dos alvitres, já lhe desagrada de uma hora para outra. E largando mão do que é bom, descamba em planos torpes e ruinosos.
 
-#### Investigando ao longe a causa dessa miséria, e procurando os remédios
+#### b) investigando as causas dessa miséria, e procurando os remédios
 
 [6] Qual será, pois, a causa de tal inconstância e miséria? Outra não pode ser, senão o desprezo da graça divina.
 
@@ -74,7 +74,7 @@ Num sentido mais lato, encontradiço nas Sagradas Escrituras, Reino de Deus não
 
 ### b) Amparo das almas justas
 
-[8] Por Reino de Deus, entende-se também um aspecto todo particular da providência com que Deus protege e defende as pessoas justas e virtuosas. A esta firme e extremada solicitude de Deus se referia David naquelas suas palavras: "O Senhor é quem me governa, e nada me faltará".[^224] Da mesma forma Isaías: "O Senhor é o nosso Rei, Ele nos salvará".[^225]
+[8] Por Reino de Deus, entende-se também um aspecto todo particular da providência com que Deus protege e defende as pessoas justas e virtuosas. A esta firme e extremada solicitude de Deus se referia Davi naquelas suas palavras: "O Senhor é quem me governa, e nada me faltará".[^224] Da mesma forma Isaías: "O Senhor é o nosso Rei, Ele nos salvará".[^225]
 
 ### c) Reino supra-mundano
 
@@ -86,7 +86,7 @@ Seu Reino, como ensina o Apóstolo, é justiça. "O Reino de Deus, diz ele, é j
 
 [9] Mas Cristo Nosso Senhor reina dentro de nós pelas virtudes íntimas do coração, pela fé, esperança e caridade. Essas virtudes nos constituem, por assim dizer, partes integrantes de Seu Reino; tornam-nos, de modo particular, vassalos de Deus, e nos consagram para o Seu culto e veneração. Por isso mesmo, à semelhança do que dizia o Apóstolo: "Vivo, mas não eu propriamente, Cristo é quem vive em mim"[^229] — podemos também nós dizer: "Reino, mas não eu, Cristo é quem reina em mim".
 
-Chama-se de justiça este Reino, porque é fundado na justiça de Cristo Nosso Senhor. Desse Reino fala Nosso Senhor no Evangelho de São Lucas: "O Reino de Deus está dentro de vós".[^230] Pois ainda que Jesus Cristo reine pela fé em todos os filhos da Santíssima Madre Igreja, contudo reina de modo mais acentuado naqueles que, possuídos de maior fé, esperança e caridade, se consagraram a Deus como membros puros e vivos. Neles é que dizemos estar o Reino da graça de Deus.
+Chama-se de justiça este Reino, porque é fundado na justiça de Cristo Nosso Senhor. Desse Reino fala Nosso Senhor no Evangelho de São Lucas: "O Reino de Deus está dentro de vós".[^230] Pois ainda que Jesus Cristo reine pela fé em todos os filhos da Santíssima Mãe Igreja, contudo reina de modo mais acentuado naqueles que, possuídos de maior fé, esperança e caridade, se consagraram a Deus como membros puros e vivos. Neles é que dizemos estar o Reino da graça de Deus.
 
 ### e) Reino da glória celeste
 
@@ -102,9 +102,9 @@ São João menciona igualmente este Reino: "Quem não renascer da água e do Esp
 
 Enquanto estivermos revestidos deste corpo frágil e mortal, enquanto vivermos longe do Senhor, sem rumo e sem força, nas trevas da peregrinação, através do exílio deste mundo, tropeçamos e caímos muitas vezes, justamente porque lançamos para longe de nós o Reino da graça, esteio a que nos arrimávamos. Quando, porém, raiar para nós a luz do Reino da glória, que é perfeito[^238], ficaremos firmes e seguros por toda a eternidade. Desaparecerá então todo vício e obstáculo; toda fraqueza será sanada, e suprida pela força; o próprio Deus reinará afinal em nossa alma e em nosso corpo.
 
-No Símbolo, esta matéria foi tratada mais amplamente, quando discorríamos sobre a ressurreição da carne.[^239]
+No Símbolo, esta matéria foi tratada mais amplamente, quando discorríamos sobre a ressurreição da carne.[^239][^240]
 
-### Nesta petição, pedimos a propagação do Reino
+### 2. Nesta petição, pedimos: a) pela propagação da fé e da Igreja
 
 [12] Depois de desenvolvermos, em seu sentido comum, o conceito de Reino de Deus, é preciso agora explicar o objeto próprio desta petição.
 
@@ -114,15 +114,15 @@ Rogamos, pois, a Deus pela propagação do Reino de Cristo, que é a Igreja; pel
 
 [13] Muitos há, no seio da Igreja, que confessam a Deus por palavras, e por obras o renegam.[^243] Assim dão mostra de uma fé desvirtuada, e, por causa do pecado, o demônio mora e reina em seus corações, como se estivesse em sua própria casa. Esta é a razão por que também pedimos venha para eles o Reino de Deus, a fim de arrancá-los das trevas de seus pecados, esclarecê-los com os raios da luz divina, reintegrá-los na antiga dignidade de Filhos de Deus. [Pedimos, portanto], que o Pai Celestial, removendo do Seu Reino todos os hereges e cismáticos, todos os escândalos e ocasiões de pecado, limpe a eira de Sua Igreja[^244], para que esta possa render a Deus o devido culto e adoração, e gozar de absoluta paz e segurança.
 
-### c) Pela santificação e plenitude dos bens
+### c) pela santificação e perseverança dos bons na Igreja
 
 [14] Pedimos, afinal, que só Deus viva em nós, que só Ele reine dentro de nós[^245]; que doravante não haja lugar para a morte, mas que seja antes absorvida pela vitória de Cristo Nosso Senhor[^246]; que Ele vença e desbarate toda a vantagem, força e ousadia dos inimigos, e submeta tudo ao Seu próprio império.[^247]
 
-## IV. Motivos para se rezar bem
+## IV. Motivos para se recitar devotamente esta petição:
 
 ### 1. O imenso valor do Reino de Deus
 
-[15] De acordo com a importância da petição, será dever dos párocos ensinar ao povo fiel com quais idéias e considerações terá de preparar-se, se quiser dirigir a Deus uma oração piedosa.
+[15] De acordo com a importância da petição, será dever dos párocos ensinar ao povo fiel com quais ideias e considerações terá de preparar-se, se quiser dirigir a Deus uma oração piedosa.
 
 Antes de tudo, exortem-no a reparar no frutuoso sentido daquela parábola descrita pelo Salvador: "O Reino dos céus é semelhante a um tesouro escondido no campo. O homem que o descobre, torna a escondê-lo, e, cheio de alegria, a gozá-lo de antemão, vai vender tudo quanto possuía, e comprou aquele campo".[^248]
 
@@ -166,7 +166,7 @@ Deus nunca nos abandona, porque prometeu estar sempre conosco.[^258] Nosso únic
 [^207]: Lc 9, 60.
 [^208]: Act 1, 3.
 [^209]: Mt 6, 33.
-[^210]: Ps 22, 1.
+[^210]: Sl 22, 1.
 [^211]: Mt 25, 11.
 [^212]: Isto é, a vigilância e a cooperação com a graça.
 [^213]: Mt 7, 21.
@@ -174,16 +174,16 @@ Deus nunca nos abandona, porque prometeu estar sempre conosco.[^258] Nosso únic
 [^215]: Eph 6, 12.
 [^216]: Cfr. Mt 26, 41; Rom 7, 14 ss.; Gal 5, 17.
 [^217]: Rom 7, 24.
-[^218]: Ps 118, 89.
+[^218]: Sl 118, 89.
 [^219]: Vide Chrysost. In Ps 118; in cap. IV Isaiae; homil. 62 ad pop. Antioch.; serm. de vanitate et brevitate vitae; Aug. Confess. X 28 et 31; de Civit. Dei II 14; XXII 22.
-[^220]: CRO I, II 13; I VI 10; I VI 10-15; I VI 12-15; I VII 7-8; I VIII 4; I IX 7-8; I XI 1 ss; I XII 12; I XIII.
+[^220]: CRO I II 13; I III 10, I V 10-15; I VI 12-15; I VII 7-8; I VIII 4; I IX 7-8; I XI 1 ss; I XII 12; I XIII 11.
 [^221]: Lc 15, 18-19.
-[^222]: Ps 94, 4.
+[^222]: Sl 94, 4.
 [^223]: Esth 13, 9-11.
-[^224]: Ps 22, 1.
+[^224]: Sl 22, 1.
 [^225]: Is 33, 22.
 [^226]: Jo 18, 36.
-[^227]: Ps 2, 6.
+[^227]: Sl 2, 6.
 [^228]: Rom 14, 17. Veja-se a encíclica "Quas primas", de Pio XI, sobre Cristo-Rei.
 [^229]: Gal 2, 20.
 [^230]: Lc 17, 21.
@@ -195,7 +195,8 @@ Deus nunca nos abandona, porque prometeu estar sempre conosco.[^258] Nosso únic
 [^236]: Jo 4, 14.
 [^237]: Rom 6, 23.
 [^238]: 2 Cor 5, 6.
-[^239]: 1 Cor 13, 10. Cfr. CRO I XII 1 ss.
+[^239]: 1 Cor 13, 10.
+[^240]: Cfr. CRO I XII 1 ss.
 [^241]: Is 54, 2; 3, 5.
 [^242]: Is 60, 3 ss.
 [^243]: Tit 1, 16.
@@ -204,7 +205,7 @@ Deus nunca nos abandona, porque prometeu estar sempre conosco.[^258] Nosso únic
 [^246]: 1 Cor 15, 54-55; Os 13, 14; Is 25, 8.
 [^247]: 1 Cor 15, 24-25.
 [^248]: Mt 13, 44.
-[^249]: Phil 3, 8; Job 28, 15; Pro 8, 10; Sap 7, 9-10.
+[^249]: Fl 3, 8; Jó 28, 15; Pr 8, 10; Sb 7, 9-10.
 [^250]: Mt 13, 46.
 [^251]: Rom 8, 35.
 [^252]: Is 64, 4; 1 Cor 2, 9.

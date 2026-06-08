@@ -58,7 +58,7 @@ Foi Ele quem nos criou, Ele é quem nos governa, quem nos nutre desde as entranh
 
 ### b) Os pecados contra a fé, esperança e caridade
 
-[7] Pecam contra este Preceito todos aqueles que não têm fé, nem esperança, nem caridade. E seu pecado abrange muitas variantes. A essa classe de homens pertencem os que caem em heresia, não crendo as verdades que a Santa Madre Igreja propõe a crer; os que acreditam em sonhos, agouros, e outras coisas sumamente supersticiosas[^81]; os que desesperam de sua própria salvação, e não confiam na bondade divina; os que se apóiam sòmente em riquezas, saúde, vigor corporal.
+[7] Pecam contra este Preceito todos aqueles que não têm fé, nem esperança, nem caridade. E seu pecado abrange muitas variantes. A essa classe de homens pertencem os que caem em heresia, não crendo as verdades que a Santa Mãe Igreja propõe a crer; os que acreditam em sonhos, agouros, e outras coisas sumamente supersticiosas[^81]; os que desesperam de sua própria salvação, e não confiam na bondade divina; os que se apóiam somente em riquezas, saúde, vigor corporal.
 
 Desta matéria, encontra-se uma explicação mais ampla nos autores moralistas, na parte que trata dos vícios e dos pecados.
 
@@ -86,7 +86,7 @@ E Deus serve-Se de Seu ministério, para o governo, não só de Sua Igreja, mas 
 
 ##### ... pelo seu amor para conosco
 
-Acresce ainda a caridade com que eles nos amam, e que os induz a rezar pelas províncias confiadas à sua direção, como fàcilmente verificamos nas Escrituras.[^92] Sem dúvida alguma, o mesmo fazem por aqueles que são os seus tutelados, pois a Deus oferecem as nossas orações e as nossas lágrimas.[^93]
+Acresce ainda a caridade com que eles nos amam, e que os induz a rezar pelas províncias confiadas à sua direção, como facilmente verificamos nas Escrituras.[^92] Sem dúvida alguma, o mesmo fazem por aqueles que são os seus tutelados, pois a Deus oferecem as nossas orações e as nossas lágrimas.[^93]
 
 Por tal motivo, Nosso Senhor ensinou, no Evangelho, que se não devia dar escândalo aos pequeninos, "porque os seus Anjos no céu estão contemplando, continuamente, a face do Pai que está no céu".[^94]
 
@@ -94,7 +94,7 @@ Por tal motivo, Nosso Senhor ensinou, no Evangelho, que se não devia dar escân
 
 ##### ... pelos exemplos da Bíblia
 
-Nas Sagradas Escrituras, apresentam-se testemunhos de tal invocação. Ao Anjo, com quem havia lutado, pediu Jacob que o abençoasse. Chegou até a obrigá-lo, pois dizia que o não largaria, se não depois de ter recebido a bênção.[^95] Esta lhe foi dada, não só quando o Anjo estava à sua vista, mas também quando não o via de maneira alguma, pois ele disse mais tarde: "O Anjo que me livrou de todos os males, abençoe estes rapazes".[^96]
+Nas Sagradas Escrituras, apresentam-se testemunhos de tal invocação. Ao Anjo, com quem havia lutado, pediu Jacó que o abençoasse. Chegou até a obrigá-lo, pois dizia que o não largaria, se não depois de ter recebido a bênção.[^95] Esta lhe foi dada, não só quando o Anjo estava à sua vista, mas também quando não o via de maneira alguma, pois ele disse mais tarde: "O Anjo que me livrou de todos os males, abençoe estes rapazes".[^96]
 
 #### c) Culto dos Santos
 
@@ -122,7 +122,7 @@ Se "no céu reina alegria, quando um só pecador faz penitência"[^102], será p
 
 [13] Poderá alegar-se, como de fato alguns alegam, que o patrocínio dos Santos é supérfluo, porque Deus não precisa de medianeiro para atender as nossas orações.
 
-Estas ímpias asserções se rebatem facilmente com as palavras de Santo Agostinho de que Deus não concede muitas coisas, se não houver a intervenção de um mediador e advogado.[^103] Isto se prova pelos preclaros exemplos de Abimelec e dos amigos de Job. Deus perdoou-lhes os pecados, só depois que Abraão e Job intercederam por eles.[^104]
+Estas ímpias asserções se rebatem facilmente com as palavras de Santo Agostinho de que Deus não concede muitas coisas, se não houver a intervenção de um mediador e advogado.[^103] Isto se prova pelos preclaros exemplos de Abimelec e dos amigos de Jó. Deus perdoou-lhes os pecados, só depois que Abraão e Jó intercederam por eles.[^104]
 
 Podem ainda objetar que, recorrendo aos Santos como nossos mediadores e advogados[^105], só o fazemos por ausência e debilidade de fé. Mas que resposta terão eles ao luminoso exemplo do Centurião?[^106] Deus Nosso Senhor enalteceu a sua fé com os maiores elogios, apesar de ter o homem enviado ao Salvador os anciãos dos judeus, para que lhe impetrassem a cura do servo doente.[^107]
 
@@ -168,7 +168,7 @@ Com muita agudeza declarou o Apóstolo: "Eles [os pagãos] trocaram a glória de
 
 Por isso, são chamados idólatras os israelitas que gritavam diante da imagem do bezerro: "Eis aí, Israel, os teus deuses que te salvaram da terra do Egito".[^128] Pois "trocaram a sua glória pela imagem de um bezerro que come feno".[^129]
 
-### 3. Esse desvio, proibição
+### 3. Razões dessa proibição
 
 [19] Uma vez que o Senhor proibia de adorar deuses estranhos, interdisse também que da Divindade se fizessem imagens de bronze fundido, ou de qualquer outra matéria, para assim extirpar radicalmente a idolatria.
 
@@ -238,7 +238,7 @@ São estas mesmas normas que o pároco deve levar em conta, todas as vezes que s
 
 Pois Deus diz de Si mesmo que Ele é o "Forte". Ora, este atributo requer uma explicação mais minuciosa, justamente porque muitas vezes o coração humano pouco se abala com as ameaças divinas, e procura vários subterfúgios, pelos quais possa escapar à cólera de Deus, e livrar-se das penas que lhe são cominadas.
 
-Quem nutre, porém, a firme convicção de que Deus é o Forte, aplicar-se-á a si mesmo aquelas palavras do poderoso David: "Para onde posso eu desviar-me do Vosso Espírito? E para onde fugir de Vossa presença?"[^148]
+Quem nutre, porém, a firme convicção de que Deus é o Forte, aplicar-se-á a si mesmo aquelas palavras do poderoso Davi: "Para onde posso eu desviar-me do Vosso Espírito? E para onde fugir de Vossa presença?"[^148]
 
 Outras vezes, quando o coração humano desconfia das promessas divinas, as forças do inimigo parecem-lhe tão avantajadas, que ele se julga absolutamente incapaz de oferecer resistência.
 
@@ -246,7 +246,7 @@ Havendo, pelo contrário, uma fé firme e constante, que não vacila diante de n
 
 #### b) O segundo acicate
 
-[28] O segundo acicate é o zelo próprio de Deus. Os homens cuidam, muitas vezes, que Deus não se ocupa das coisas humanas[^150], nem sequer para ver se cumprimos ou desprezamos a Sua Lei. De tal opinião se derivam graves desmandos na vida do homem. Todavia, se crermos que Deus é zeloso de Seus direitos, essa lembrança fàcilmente nos conterá no cumprimento de nossas obrigações.
+[28] O segundo acicate é o zelo próprio de Deus. Os homens cuidam, muitas vezes, que Deus não se ocupa das coisas humanas[^150], nem sequer para ver se cumprimos ou desprezamos a Sua Lei. De tal opinião se derivam graves desmandos na vida do homem. Todavia, se crermos que Deus é zeloso de Seus direitos, essa lembrança facilmente nos conterá no cumprimento de nossas obrigações.
 
 [29] O zelo atribuído a Deus não envolve nenhuma perturbação de espírito, mas consiste antes no amor e carinho, pelo qual Deus não permite à alma quebrar, impunemente, a fidelidade para com Ele. Pois Deus deita a perder todos os que Lhe forem infiéis.[^151]
 
@@ -325,7 +325,7 @@ Doravante, esta verdade será lembrada em cada um dos Mandamentos.
 [^93]: Tob 3, 25.
 [^94]: Mt 18, 10.
 [^95]: Gn 32, 26.
-[^96]: Gn 48, 16. Refere-se à bênção de Jacob aos filhos de José.
+[^96]: Gn 48, 16. Refere-se à bênção de Jacó aos filhos de José.
 [^97]: Convocado em Setembro de 787, contra os iconoclastas. É o VII Concílio Ecumênico.
 [^98]: Foi por volta de 330. Gangres, hoje Chagreh, fica na Paflagônia (Ásia Menor).
 [^99]: Veja-se Damasc. De orthodoxa fide 4 0.
@@ -333,7 +333,7 @@ Doravante, esta verdade será lembrada em cada um dos Mandamentos.
 [^101]: Apoc 5, 8; DU 984.
 [^102]: Lc 15, 7.
 [^103]: Aug. Quaest. 140 super Exod. (segundo outros Quaest. 149).
-[^104]: Gn 20, 17; Job 42, 8.
+[^104]: Gn 20, 17; Jó 42, 8.
 [^105]: Por isso a Igreja condenou a opinião de que pessoas justas não precisavam dirigir atos de amor à Virgem Maria e aos Santos (Papa Inocêncio XI, em 1687. DU 1255).
 [^106]: Mt 8, 10.
 [^107]: Lc 7, 3.
@@ -344,6 +344,7 @@ Doravante, esta verdade será lembrada em cada um dos Mandamentos.
 [^112]: Rom 15, 30; 2 Cor 1, 11.
 [^113]: A Igreja condenou a proposição: "Nenhuma criatura, nem a Virgem Bem-aventurada, nem os Santos devem ocupar lugar em nosso coração; pois Deus quer ocupá-lo e possuí-lo sòzinho" (Papa Inocêncio XI em 1687; cfr. DU 1256).
 [^114]: Ambros. epist. 85; Aug. De Civit. Dei XXII 8; epist. 137 et 147.
+[^115]: At 19, 12, 5, 15; cfr. 2Rs 2, 14.
 [^116]: 4 Reg 13, 21.
 [^117]: Exod 20, 4-5.
 [^118]: Exod 20, 17.
@@ -366,11 +367,11 @@ Doravante, esta verdade será lembrada em cada um dos Mandamentos.
 [^135]: Hb 1, 14.
 [^136]: Mt 3, 13; Mc 1, 10; Lc 3, 22; Jo 1, 32; Act 2, 3.
 [^137]: "As sagradas relíquias e imagens devemos também prestar culto e veneração, que se aplica à pessoa, com a qual estão em relação" (CIC can. 255 § 2).
-[^138]: Conc. Trid. XXV de invocat. Sanctorum. DU <!-- OCR-illegible -->.
+[^138]: Conc. Trid. XXII de invocat. Sanctorum. DU 984-988.
 [^139]: É jansenismo rejeitar, por princípio, o culto de "imagens milagrosas". Veja-se a condenação de Pio VI em 1794: DU 1570.
 [^140]: Exod 20, 5-6.
 [^141]: Mt 19, 17.
-[^142]: Mt 6, 15. <!-- OCR-illegible: nota original parece dar referência diferente -->
+[^142]: Mt 6, 15.
 [^143]: Mt 3, 10.
 [^144]: Mt 5, 22.
 [^145]: Mt 6, 15.
@@ -378,7 +379,7 @@ Doravante, esta verdade será lembrada em cada um dos Mandamentos.
 [^147]: Rom 8, 15.
 [^148]: Ps 138, 7.
 [^149]: Ps 26, 1.
-[^150]: Iob 22, 13-14.
+[^150]: Jó 22, 13-14.
 [^151]: Ps 72, 27.
 [^152]: Ao pé da letra: ... para que com razão se possam dizer pessoas que zelam, mais do que amam.
 [^153]: 3 Reg 19, 14.

@@ -1,4 +1,4 @@
-# Capítulo I — Do Decálogo em geral
+# Capítulo Primeiro — Dos Preceitos Divinos contidos no Decálogo
 
 ## I. Importância do Decálogo
 
@@ -8,9 +8,9 @@ Na verdade, quem faz por compreender, reconhecerá que todas as outras determina
 
 ### 1. ... no púlpito
 
-[2] Sendo, portanto, o Decálogo a suma de toda a Lei, cabe aos pastores a obrigação de meditá-lo dia e noite[^4], não sòmente para ajustarem sua vida por essa norma, mas também para instruírem, na Lei do Senhor, o povo que lhes está confiado. Pois "os lábios do sacerdote guardam a ciência, e de sua boca procuram os homens conhecer a Lei, porque ele é um Anjo do Senhor dos exércitos".[^5]
+[2] Sendo, portanto, o Decálogo a suma de toda a Lei, cabe aos pastores a obrigação de meditá-lo dia e noite[^4], não somente para ajustarem sua vida por essa norma, mas também para instruírem, na Lei do Senhor, o povo que lhes está confiado. Pois "os lábios do sacerdote guardam a ciência, e de sua boca procuram os homens conhecer a Lei, porque ele é um Anjo do Senhor dos exércitos".[^5]
 
-Esta passagem se refere, de modo particular, aos pastores da Nova Lei. Eles estão mais chegados a Deus, e devem transformar-se "de claridade em claridade, como que levados pelo Espírito do Senhor".[^6] Como Cristo Nosso Senhor disse que eles eram "luz"[^7], compete-lhes a obrigação natural de serem um luzeiro[^8] para os que se acham nas trevas[^9]; de ensinarem os ignorantes, de educarem as crianças; e, "se alguém tiver o descuido de cair em algum pecado", eles, "que são homens espirituais, devem corrigi-lo".[^10]
+Esta passagem se refere, de modo particular, aos pastores da Nova Lei. Eles estão mais chegados a Deus, e devem transformar-se "de claridade em claridade, como levados pelo Espírito do Senhor".[^6] Como Cristo Nosso Senhor disse que eles eram "luz"[^7], compete-lhes a obrigação natural de serem um luzeiro[^8] para os que se acham nas trevas[^9]; de ensinarem os ignorantes, de educarem as crianças; e, "se alguém tiver o descuido de cair em algum pecado", eles, "que são homens espirituais, devem corrigi-lo".[^10]
 
 ### 2. no confessionário
 
@@ -24,7 +24,7 @@ Nestas explanações, o pároco proporá, a si mesmo e aos outros, os argumentos
 
 ### a) O Legislador é Deus
 
-Diga-se, muito embora, que a Lei "foi promulgada pelos Anjos"[^13]; contudo, ninguém pode contestar que seu autor é o próprio Deus. Atestam-no à saciedade, não só as palavras do Legislador, que logo mais serão explicadas, mas também os textos sem conta da Sagrada Escritura, que fàcilmente hão de acudir à lembrança dos pastores.
+Diga-se, muito embora, que a Lei "foi promulgada pelos Anjos"[^13]; contudo, ninguém pode contestar que seu autor é o próprio Deus. Atestam-no à saciedade, não só as palavras do Legislador, que logo mais serão explicadas, mas também os textos sem conta da Sagrada Escritura, que facilmente hão de acudir à lembrança dos pastores.
 
 Ademais, ninguém há que não sinta, em seu coração, uma lei gravada por Deus, mercê da qual lhe é dado distinguir o bem do mal, o honesto do torpe, o justo do injusto. Ora, sendo provado que a força e a natureza desta Lei não difere da Lei escrita, quem se atreverá a negar que Deus seja o autor da Lei escrita, assim como é o autor da Lei inata em nossos corações?
 
@@ -42,7 +42,7 @@ Ainda mais. É absolutamente certo que não devemos cumprir esses preceitos, por
 
 Por esse motivo, as Sagradas Escrituras, em mais de um lugar, enaltecem esse máximo benefício, e exortam o povo a reconhecer a sua própria dignidade e a munificência de Deus. Assim diz o Deuteronômio: "Tal é a vossa sabedoria e inteligência em face dos povos, que todos os que ouvirem estes preceitos, se põem a dizer: Eis aqui um povo sábio e entendido, uma grande nação".[^16] Nos Salmos se lê igualmente: "Não procedeu assim com todas as nações, nem lhes manifestou os Seus juízos".[^17]
 
-### Corolário: A promulgação da Lei no Monte
+### Corolário: A promulgação da Lei no Monte Sinai
 
 [6] Se então o pároco mostrar, pelos dizeres da Escritura, de que maneira foi a Lei promulgada, os fiéis compreenderão, facilmente, com quanto amor e humildade devem guardar a Lei que de Deus receberam.
 
@@ -62,7 +62,7 @@ Arrebatado, pois, pela imensa bondade de Deus, Santo Agostinho se volve a Deus m
 
 ### Graça do Espírito Santo
 
-Entanto, se alguém der por escusa que a fragilidade de sua natureza o impede de amar a Deus, é preciso dizer-lhe que Deus, exigindo amor, infunde nos corações a força de amar pelo Seu Espírito Santo.[^23] O Pai Celestial dá esse bom Espírito a quem Lh'O pede[^24], assim como Santo Agostinho teve toda a razão de pedir: "Dai o que mandais, e mandai o que é de Vossa vontade".[^25]
+No entanto, se alguém der por escusa que a fragilidade de sua natureza o impede de amar a Deus, é preciso dizer-lhe que Deus, exigindo amor, infunde nos corações a força de amar pelo Seu Espírito Santo.[^23] O Pai Celestial dá esse bom Espírito a quem Lh'O pede[^24], assim como Santo Agostinho teve toda a razão de pedir: "Dai o que mandais, e mandai o que é de Vossa vontade".[^25]
 
 Estando, pois, o auxílio de Deus à nossa disposição, mormente após a Morte de Cristo Nosso Senhor, pela qual o príncipe deste mundo foi lançado fora[^26], já não há motivo para alguém esmorecer com as dificuldades dos Mandamentos. Nada é difícil a quem ama.
 
@@ -80,13 +80,13 @@ De fato, quem tem os Mandamentos de Deus, e os põe em prática, esse ama a Deus
 
 [9] Para não se omitir nada do que possa induzir o povo cristão à observância da Lei, o pároco mostrará, finalmente, quão abundantes e consoladores são os frutos que dela se colhem.
 
-Isso lhe será fácil provar pelas palavras do Salmo XVIII, no qual se proclamam os louvores da Lei de Deus. O maior de todos está em se dizer que a Lei engrandece a glória e majestade de Deus, muito mais do que o fazem os próprios astros celestes em sua beleza e harmonia; os quais atraem a si a admiração de todos os povos, até dos mais bárbaros, e fazem com que reconheçam a glória, sabedoria, e grandeza do Artífice e Criador de todas as coisas.[^31] Por sua vez, a Lei do Senhor converte as almas para Deus.[^32] Logo que pela Lei reconhecemos os caminhos de Deus e Sua santíssima vontade, dirigimos nossos passos para os caminhos do Senhor. E, como sòmente os que temem a Deus são verdadeiramente sábios, atribui-se à Lei também a virtude de "dar sabedoria aos pequeninos".[^33]
+Isso lhe será fácil provar pelas palavras do Salmo 18, no qual se proclamam os louvores da Lei de Deus. O maior de todos está em se dizer que a Lei engrandece a glória e majestade de Deus, muito mais do que o fazem os próprios astros celestes em sua beleza e harmonia; os quais atraem a si a admiração de todos os povos, até dos mais bárbaros, e fazem com que reconheçam a glória, sabedoria, e grandeza do Artífice e Criador de todas as coisas.[^31] Por sua vez, a Lei do Senhor converte as almas para Deus.[^32] Logo que pela Lei reconhecemos os caminhos de Deus e Sua santíssima vontade, dirigimos nossos passos para os caminhos do Senhor. E, como somente os que temem a Deus são verdadeiramente sábios, atribui-se à Lei também a virtude de "dar sabedoria aos pequeninos".[^33]
 
 Por isso, quem observa a Lei de Deus, terá como galardão, nesta e na outra vida, verdadeiras alegrias, conhecimento dos mistérios divinos, além de incalculáveis gozos e prêmios.[^34]
 
 ### 5. Espírito de sua observância
 
-#### a) por atenção a Deus
+#### a) glória de Deus
 
 [10] Sem embargo, devemos cumprir a Lei, não tanto por nosso interesse, quanto por atenção a Deus, que na Lei manifestou Sua vontade ao gênero humano. Ora, se as outras criaturas se submetem à Sua vontade, com muito mais razão a deve também cumprir o próprio homem.
 
@@ -94,23 +94,23 @@ Não se deve também passar em silêncio que Deus mostrou Sua clemência para co
 
 #### b) nossa própria felicidade
 
-Em se tratando, afinal, do maior e mais assinalado benefício, o pároco ensinará o que o Profeta diz por último: "Na guarda dos preceitos, há uma grande recompensa".[^35] Pois não nos foram prometidas só aquelas bênçãos, que mais se referem à prosperidade temporal, para sermos abençoados na cidade, abençoados no campo[^36]; mas temos também em vista "uma larga recompensa no céu"[^37], e "uma boa medida, bem cheia, bem calcada, bem cogulada"[^38], que merecemos por obras boas e justas, com os auxílios da divina misericórdia.
+Em se tratando, afinal, do maior e mais assinalado benefício, o pároco ensinará o que o Profeta diz por último: "Na guarda dos preceitos, há uma grande recompensa".[^36] Pois não nos foram prometidas só aquelas bênçãos, que mais se referem à prosperidade temporal, para sermos abençoados na cidade, abençoados no campo[^37]; mas temos também em vista "uma larga recompensa no céu"[^38], e "uma boa medida, bem cheia, bem calcada, bem cogulada"[^39], que merecemos por obras boas e justas, com os auxílios da divina misericórdia.
 
-> "Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa de servidão. Não terás deuses estranhos diante de Mim. Não farás para ti imagem esculpida, etc."[^39]
+> "Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa de servidão. Não terás deuses estranhos diante de Mim. Não farás para ti imagem esculpida, etc."[^40]
 
 ## III. A particularidade da promulgação aos Hebreus
 
-[11] Apesar de ter sido dada pelo Senhor aos Judeus, no cimo da Montanha[^40], a Lei já estava, desde o princípio, impressa e gravada pela natureza nos corações de todos os homens.[^41] Por isso, quis Deus que todos os homens lhe estivessem sujeitos por uma obediência perpétua.
+[11] Apesar de ter sido dada pelo Senhor aos Judeus, no cimo da Montanha[^41], a Lei já estava, desde o princípio, impressa e gravada pela natureza nos corações de todos os homens.[^42] Por isso, quis Deus que todos os homens lhe estivessem sujeitos por uma obediência perpétua.
 
-Será, pois, de muito proveito não só explicar cuidadosamente os termos em que a Lei foi promulgada aos Hebreus, por ofício e interpretação de Moisés[^42], mas também contar a história do povo de Israel, que é toda cheia de mistérios.
+Será, pois, de muito proveito não só explicar cuidadosamente os termos em que a Lei foi promulgada aos Hebreus, por ofício e interpretação de Moisés[^43], mas também contar a história do povo de Israel, que é toda cheia de mistérios.
 
-O pároco começará por contar que, de todas as nações existentes debaixo do céu, Deus só escolheu uma[^43], cujo tronco é Abraão[^44], que por ordem de Deus viveu como forasteiro na terra de Canaã. Deus lhe havia prometido a posse dessa terra, mas ele e seus descendentes tiveram de vaguear por mais de quatrocentos anos, antes de poderem habitar na terra prometida.
+O pároco começará por contar que, de todas as nações existentes debaixo do céu, Deus só escolheu uma[^44], cujo tronco é Abraão[^45], que por ordem de Deus viveu como forasteiro na terra de Canaã. Deus lhe havia prometido a posse dessa terra, mas ele e seus descendentes tiveram de vaguear por mais de quatrocentos anos, antes de poderem habitar na terra prometida.
 
-Todavia, Deus nunca deixou de velar por eles durante essa peregrinação. Verdade é que passavam "de nação em nação, de um reino a outro reino", mas Ele nunca permitiu lhes fosse feito o menor agravo, e chegou até a castigar reis por causa deles.[^45]
+Todavia, Deus nunca deixou de velar por eles durante essa peregrinação. Verdade é que passavam "de nação em nação, de um reino a outro reino", mas Ele nunca permitiu lhes fosse feito o menor agravo, e chegou até a castigar reis por causa deles.[^46]
 
-Antes de descerem ao Egito, enviou, por diante, um homem que, graças à sua prudência, havia de salvá-los, tanto a eles como aos Egípcios.[^46] No Egito, porém, Sua bondade os amparou de tal forma, que se multiplicavam milagrosamente, por mais que Faraó se opusesse a eles, e procurasse exterminá-los.[^47]
+Antes de descerem ao Egito, enviou, por diante, um homem que, graças à sua prudência, havia de salvá-los, tanto a eles como aos Egípcios.[^47] No Egito, porém, Sua bondade os amparou de tal forma, que se multiplicavam milagrosamente, por mais que Faraó se opusesse a eles, e procurasse exterminá-los.[^48]
 
-Quando a perseguição recrudesceu, e que eles eram tratados como escravos, com a maior crueldade, suscitou como chefe a Moisés, que os livrou com mão forte. A esta libertação alude o Senhor, no início da Lei, quando diz expressamente: "Eu sou o Senhor teu Deus que te tirei da terra do Egito, da casa da servidão".[^48]
+Quando a perseguição recrudesceu, e que eles eram tratados como escravos, com a maior crueldade, suscitou como chefe a Moisés, que os livrou com mão forte. A esta libertação alude o Senhor, no início da Lei, quando diz expressamente: "Eu sou o Senhor teu Deus que te tirei da terra do Egito, da casa da servidão".
 
 ## 2. Finalidade dessa promulgação
 
@@ -146,6 +146,7 @@ Daí tiramos a conclusão de que os fiéis estarão tanto mais dispostos a segui
 [^8]: Rom 2, 19 ss.
 [^9]: Lc 1, 79.
 [^10]: Gal 6, 1.
+[^11]: 2Tm 4, 3.
 [^12]: Tit 2, 14.
 [^13]: Gal 3, 19.
 [^14]: Exod 20, 2.
@@ -168,21 +169,21 @@ Daí tiramos a conclusão de que os fiéis estarão tanto mais dispostos a segui
 [^31]: Rom 1, 20.
 [^32]: Ps 18, 8.
 [^33]: Lc 1, 77 ss.; Ps 18, 8.
-[^34]: Ps 18, 9 ss.; Ps 18, 12.
-[^35]: Deut 28, 3.
-[^36]: Mt 5, 12.
-[^37]: Lc 6, 38.
-[^38]: Exod 20, 2. Esta citação só ocorre em Tauchnitz e Lecoffre.
-[^39]: Exod 19, 20; Deut 5, 2.
-[^40]: Rom 2, 15.
-[^41]: Deut 5, 5; Gal 3, 19.
-[^42]: Deut 4, 37.
-[^43]: Gn 12, 5.
-[^44]: Ps 104, 13.
-[^45]: Ps 104, 14.
-[^46]: Gn 37, 28.
-[^47]: Exod 1, 12 ss.
-[^48]: Exod 20, 2.
+[^34]: Sl 18, 9 ss.
+[^35]: Sl 18, 12.
+[^36]: Deut 28, 3.
+[^37]: Mt 5, 12.
+[^38]: Lc 6, 38.
+[^39]: Exod 20, 2. Esta citação só ocorre em Tauchnitz e Lecoffre.
+[^40]: Exod 19, 20; Deut 5, 2.
+[^41]: Rom 2, 15.
+[^42]: Deut 5, 5; Gal 3, 19.
+[^43]: Deut 4, 37.
+[^44]: Gn 12, 5.
+[^45]: Sl 104, 13.
+[^46]: Sl 104, 14.
+[^47]: Gn 37, 28.
+[^48]: Exod 1, 12 ss.
 [^49]: Deut 7, 7.
 [^50]: os Hebreus.
 [^51]: Deut 10, 15.

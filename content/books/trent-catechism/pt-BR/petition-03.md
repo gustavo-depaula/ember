@@ -28,7 +28,7 @@ Esta é uma opinião errada e viciosa, que Deus rejeita com as seguintes palavra
 
 [5] Por conseguinte, para nos dar plena consciência de nossas misérias, as Sagradas Escrituras nos comparam aos que perderam o genuíno paladar, a ponto de recusarem a comida saudável, e preferirem alimentos prejudiciais.
 
-#### c) Incapacidade de conseguir o Reino do céu
+#### c) Incapacidade de conseguir o Reino de Deus
 
 Comparam-nos, também, com os enfermos.[^266] Como estes não podem fazer os serviços próprios de pessoas fortes e sadias, enquanto se não livrarem da doença, assim também nós não podemos praticar obras agradáveis a Deus, se não recebermos o apoio da graça divina.
 
@@ -88,7 +88,7 @@ Como conceito, a vontade de Deus abrange, aqui, todas as coisas que nos são pro
 
 Dentre os Santos, difícil será encontrar algum que não tenha implorado fervorosamente a Deus a graça contida nesta petição. Todos se serviam dessa valiosa súplica, ainda que muitas vezes o fizessem de várias maneiras.
 
-Vejamos só com que admirável ternura variava David as suas súplicas neste sentido. Ora dizia: "Oxalá que meus passos se dirijam ao cumprimento de Vossas justas Leis".[^281] Outra feita: "Guiai-me pelos caminhos de Vossos Mandamentos".[^282] E depois: "Orientai meus passos pela Vossa palavra, para que não me empolgue nenhuma injustiça".[^283] Aqui pertencem também as seguintes passagens: "Dai-me inteligência, para que eu compreenda os Vossos testemunhos".[^284]
+Vejamos só com que admirável ternura variava Davi as suas súplicas neste sentido. Ora dizia: "Oxalá que meus passos se dirijam ao cumprimento de Vossas justas Leis".[^281] Outra feita: "Guiai-me pelos caminhos de Vossos Mandamentos".[^282] E depois: "Orientai meus passos pela Vossa palavra, para que não me empolgue nenhuma injustiça".[^283] Aqui pertencem também as seguintes passagens: "Dai-me inteligência, para que eu compreenda os Vossos testemunhos".[^284]
 
 Assim vai ele repetindo, com outras palavras, os mesmos pensamentos. Tais passagens merecem a maior atenção, e devem ser explicadas aos fiéis, para que todos reconheçam a importância e riqueza dos salutares conceitos que se encerram nesta primeira parte da presente petição.
 
@@ -130,31 +130,31 @@ Devemos, pois, recorrer a esta petição, suplicando a Deus leve a bom termo o q
 
 Pedimos, outrossim, que o conhecimento da vontade de Deus se difunda por todo o orbe da terra[^295], para que o mistério divino, oculto às idades e gerações, seja amplamente divulgado a todos os homens.[^296]
 
-## III. "Assim na terra, como no céu"
+### "Assim na terra, como no céu"
 
-### 7. A graça de cumprir a vontade de Deus com perfeição
+#### 7. A graça de cumprir a vontade de Deus com perfeição
 
 [19] Pedimos, além disso, a forma e a medida de nossa obediência: isto é, que ela tenha a mesma norma que, no céu, observam os santos Anjos, e toda a legião dos Bem-aventurados.
 
 Assim como eles, de própria vontade e com sumo prazer, obedecem ao poder de Deus: assim também obedeçamos nós à vontade de Deus com a máxima prontidão, da maneira que Lhe for mais agradável.
 
-#### a) Por amor e reverência
+##### a) Por amor e reverência
 
 [20] Em tudo, porém, o que fazemos para o Seu culto e serviço, Deus exige de nós o mais alto grau de amor e uma dedicação a toda prova; a tal ponto que, se nos consagramos inteiramente a Ele, na esperança dos bens celestiais, não devemos esperá-los, senão porque aprouve à divina Majestade nutríssemos tal esperança. Por isso, toda a nossa esperança deve firmar-se naquele amor a Deus que, por prêmio de nosso amor, estabeleceu a eterna bem-aventurança.
 
-#### b) Não tanto pela recompensa
+##### b) Não tanto pela recompensa
 
 Há pessoas que servem a outrem com carinho, mas em vista da recompensa, a que vai propriamente o seu amor.
 
 Outras, enfim, são levadas únicamente pelo amor e a piedade filial. Naquele a quem servem, não consideram outra coisa senão a sua bondade e virtude. Com tais sentimentos, dão-se por felizes em poder prestar-lhe serviço.
 
-### Sentido de "na terra como no céu"
+#### Sentido de "na terra como no céu"
 
-[21] Esse é o sentido daquela contraposição: "...assim na terra, como no céu". De todos os modos, devemos esforçar-nos por obedecer a Deus, como dissemos que fazem os espíritos bem-aventurados, cujo ministério é prestar a Deus a mais perfeita obediência, pelo que David lhes consagra num Salmo os maiores louvores: "Bendizei ao Senhor, vós todos que sois as Suas Virtudes; vós que sois Seus ministros, e fazeis a Sua vontade".[^297]
+[21] Esse é o sentido daquela contraposição: "...assim na terra, como no céu". De todos os modos, devemos esforçar-nos por obedecer a Deus, como dissemos que fazem os espíritos bem-aventurados, cujo ministério é prestar a Deus a mais perfeita obediência, pelo que Davi lhes consagra num Salmo os maiores louvores: "Bendizei ao Senhor, vós todos que sois as Suas Virtudes; vós que sois Seus ministros, e fazeis a Sua vontade".[^297]
 
 Quem preferir a interpretação de São Cipriano[^298], pode entender por "céu" os bons e justos, e por "terra" os maus e ímpios. De nossa parte, perfilhamos também uma outra explicação sua, pela qual "céu" designa o espírito, e "terra" a carne, contanto que tudo e todos obedeçam à vontade de Deus em todas as coisas.
 
-### Corolário: A ação de graças nesta petição
+#### Corolário: A ação de graças nesta petição
 
 [22] A presente petição encerra também uma ação de graças. Pois, se veneramos a Sua santíssima vontade, engrandecemos também todas as Suas obras, num transporte da maior alegria, rendendo os maiores louvores e ações de graças, por sabermos perfeitamente que Deus fez bem todas as coisas.[^299]
 
@@ -184,7 +184,7 @@ Para encetar esse exercício, e continuá-lo com zelo e perseverança, devemos p
 
 [24] Como derradeira advertência, diga-se aos fiéis repousem na vontade simples e absoluta de Deus. Quem ocupa um lugar, que não condiz com seu mérito pessoal, suporte paciente a sua condição, não abandone o seu estado, mas permaneça na vocação a que foi chamado[^303], e submeta seu próprio juízo à vontade de Deus. Ele cuida de nós, muito melhor do que poderíamos desejar.
 
-Quando nos oprimem privações, doenças, vexames, e outros males e angústias, tenhamos por certo que nada disso nos pode surpreender, sem a vontade de Deus, que é a suprema razão de tudo quanto acontece. Não devemos, pois, turbar-nos por demais, e soframos tudo com ânimo inquebrantável, tendo sempre na boca as palavras: "Seja feita a vontade do Senhor"[^304] — ou aquela declaração de Job: "Como foi do agrado do Senhor, assim aconteceu. Bendito seja o Nome do Senhor!"[^305]
+Quando nos oprimem privações, doenças, vexames, e outros males e angústias, tenhamos por certo que nada disso nos pode surpreender, sem a vontade de Deus, que é a suprema razão de tudo quanto acontece. Não devemos, pois, turbar-nos por demais, e soframos tudo com ânimo inquebrantável, tendo sempre na boca as palavras: "Seja feita a vontade do Senhor"[^304] — ou aquela declaração de Jó: "Como foi do agrado do Senhor, assim aconteceu. Bendito seja o Nome do Senhor!"[^305]
 
 [^260]: Mt 7, 21.
 [^261]: Cfr. CRO I IH 2.
@@ -196,7 +196,7 @@ Quando nos oprimem privações, doenças, vexames, e outros males e angústias, 
 [^267]: Prov 1, 22.
 [^268]: 1 Cor 14, 20.
 [^269]: Rom 7, 23.
-[^270]: Jac 4, 1.
+[^270]: Tg 4, 1.
 [^271]: Mt 26, 41.
 [^272]: Rom 7, 18.
 [^273]: Rom 7, 17.
@@ -206,10 +206,11 @@ Quando nos oprimem privações, doenças, vexames, e outros males e angústias, 
 [^277]: Jo 1, 13.
 [^278]: Phil 2, 8.
 [^279]: Cfr. a pós-comunhão da Missa votiva "Pro Pace". É interessante consignar que Frei Luís de Sousa atribui a S. Antonino de Florença O. P. a frase citada pelo CRO: Servire Deo regnare est (Hist. de S. Domingos, 2ª Parte, Livro VI, cap. XXII).
-[^281]: Ps 118, 5.
-[^282]: Ps 118, 35.
-[^283]: Ps 118, 133.
-[^284]: Ps 118, 73; 108, 125.
+[^280]: Mt 12, 50.
+[^281]: Sl 118, 5.
+[^282]: Mt 12, 50.
+[^283]: Sl 118, 35.
+[^284]: Sl 118, 133.
 [^285]: Gal 5, 19.
 [^286]: Rom 8, 13.
 [^287]: Rom 13, 14.
@@ -230,4 +231,4 @@ Quando nos oprimem privações, doenças, vexames, e outros males e angústias, 
 [^302]: Ps 118, 91.
 [^303]: 1 Cor 7, 20.
 [^304]: Act 21, 14.
-[^305]: Job 1, 21.
+[^305]: Jó 1, 21.

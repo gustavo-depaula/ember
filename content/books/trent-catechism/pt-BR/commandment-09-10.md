@@ -56,7 +56,7 @@ A concupiscência, que é uma acendalha do pecado, provém da culpa original. Po
 
 ## Cláusula proibitiva
 
-[6] Ambos os Preceitos têm isto de comum com os outros, que em parte proíbem, em parte ordenam alguma coisa. Quanto à cláusula proibitiva, o pároco explicará qual é a concupiscência que devemos evitar, em virtude deste Preceito. Pois ninguém deve cuidar que haja vício em desejos escoimados, como o apetecer do espírito contra a carne[^554], e o ansiar continuamente pelas justas Leis de Deus, conforme o grande desejo que sentia David.[^555]
+[6] Ambos os Preceitos têm isto de comum com os outros, que em parte proíbem, em parte ordenam alguma coisa. Quanto à cláusula proibitiva, o pároco explicará qual é a concupiscência que devemos evitar, em virtude deste Preceito. Pois ninguém deve cuidar que haja vício em desejos escoimados, como o apetecer do espírito contra a carne[^554], e o ansiar continuamente pelas justas Leis de Deus, conforme o grande desejo que sentia Davi.[^555]
 
 ### Noção e origem da concupiscência
 
@@ -100,7 +100,7 @@ Há, além disso, outra razão de se proibir a cobiça. É por ser desordenada, 
 
 ### Cobiçar coisas alheias
 
-[12] Mas só se comete realmente pecado, quando a alma, sob a ação dos maus desejos, se compraz em coisas pecaminosas, dando-lhes pleno consentimento, ou pelo menos não lhes oferecendo resistência.[^564] É o que ensina Santiago, ao descrever a origem e o desenvolvimento do pecado: "Cada qual é tentado pela sua própria concupiscência, que o seduz e arrebata. Depois de conceber, a concupiscência dá vida ao pecado. E depois de cometido, o pecado produz a morte".[^565]
+[12] Mas só se comete realmente pecado, quando a alma, sob a ação dos maus desejos, se compraz em coisas pecaminosas, dando-lhes pleno consentimento, ou pelo menos não lhes oferecendo resistência.[^564] É o que ensina São Tiago, ao descrever a origem e o desenvolvimento do pecado: "Cada qual é tentado pela sua própria concupiscência, que o seduz e arrebata. Depois de conceber, a concupiscência dá vida ao pecado. E depois de cometido, o pecado produz a morte".[^565]
 
 ### Recapitulação
 
@@ -172,7 +172,7 @@ O primeiro dano está no absoluto domínio, que o pecado adquire sobre a nossa a
 
 Ora, o poder do pecado esmorecece, na medida que resistimos aos maus desejos; assim também, quando sucumbimos na luta contra os mesmos, lançamos o Senhor fora do Seu trono, para O suplantar pelo pecado.[^575]
 
-O segundo dano, ensina Santiago, é que da má concupiscência derivam, como de uma fonte, todas as espécies de pecado.[^576] E outra não é também a doutrina de São João: "Tudo o que há no mundo é concupiscência da carne, concupiscência dos olhos, e soberba da vida".[^577]
+O segundo dano, ensina São Tiago, é que da má concupiscência derivam, como de uma fonte, todas as espécies de pecado.[^576] E outra não é também a doutrina de São João: "Tudo o que há no mundo é concupiscência da carne, concupiscência dos olhos, e soberba da vida".[^577]
 
 O terceiro dano é que a má concupiscência turva o bom discernimento. Quando obcecados pelas trevas de suas paixões, os homens julgam honesto e digno tudo quanto cobiçam.
 
@@ -188,9 +188,10 @@ Afinal, pecam gravemente contra este Preceito os que desejam e cobiçam para si 
 
 [^546]: Exod 20, 17. Veja-se a citação do texto no cabeçalho deste mesmo capítulo.
 [^547]: Isto é, o domingo. Vide nota nº 260.
-[^548]: Cfr. 1 Tim 6, 10; Iac 1, 14; 4, 1 ss.
-[^549]: Vide August. Retract. 1 15; epist. 200; De Civit. Dei VII 45.
-[^550]: Aug. Quaest. in Exodum q. 71. Vide etiam Thom. 2 2 q. 122 art. 6 ad 3 et 4.
+[^548]: Cfr. 1Tm 6, 10; Tg 1, 14; 4, 1 ss.
+[^549]: Vide August. Retract. I 15; epist. 200; de civit. Dei VIII 4-5.
+[^550]: Aug. Quaest. in Exodum q. 71. Vide etiam Thom. II-II q. 122 art. 6 ad 3 et 4.
+[^551]: Mt 5, 27 ss.
 [^552]: Rom 7, 7.
 [^553]: A opinião de que o Batismo ou uma vida perfeita extinguem totalmente a má concupiscência no homem, foi condenada repetidas vezes. Cfr. DU 1275-1278 1393.
 [^554]: Gal 5, 17.
@@ -198,13 +199,13 @@ Afinal, pecam gravemente contra este Preceito os que desejam e cobiçam para si 
 [^556]: "Que diremos, pois? A Lei é pecado? Longe disso. Mas eu não conheci o pecado senão pela Lei; porque eu não conheceria a concupiscência, se a Lei não dissesse: Não cobiçarás" (Rom 7, 7).
 [^557]: Exod 20, 17. Veja-se a citação do texto no cabeçalho deste mesmo capítulo.
 [^558]: Gal 5, 16.
-[^559]: Sap 6, 12.
-[^560]: Eccli 24, 26.
+[^559]: Sb 6, 12.
+[^560]: Sr 24, 26.
 [^561]: Gal 5, 16; 1 Petr 2, 11; 1 Io 2, 16.
 [^562]: 1 Cor 10, 6.
 [^563]: Deut 7, 25.
 [^564]: Os erros jansenistas de Miguel du Bay a esse respeito foram condenados pela Igreja: DU 1050 ss. e 1074 ss.
-[^565]: Iac 1, 14.
+[^565]: Tg 1, 14.
 [^566]: Eccles 5, 9.
 [^567]: Is 5, 8.
 [^568]: Exod 1, 21. — Deus assim as recompensou, porque salvavam a vida dos recém-nascidos.
@@ -215,6 +216,6 @@ Afinal, pecam gravemente contra este Preceito os que desejam e cobiçam para si 
 [^573]: Mt 6, 10.
 [^574]: Rom 6, 12.
 [^575]: Cfr. 1 Cor 6, 15-19 ss.
-[^576]: Iac 1, 14.
+[^576]: Tg 1, 14.
 [^577]: 1 Io 2, 16.
 [^578]: Mc 4, 18-19.

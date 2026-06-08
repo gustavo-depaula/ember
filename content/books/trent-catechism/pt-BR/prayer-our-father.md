@@ -1,10 +1,10 @@
-# Capítulo IX — Preâmbulo da Oração Dominical: "Padre Nosso, que estais nos céus"
+# Capítulo IX — Preâmbulo da Oração Dominical: "Pai Nosso, que estais nos céus"
 
-> Padre Nosso, que estais nos céus
+> Pai-Nosso, que estais nos céus
 
-## I. A invocação de Deus como Pai
+## I. A invocação de Deus como Pai desperta a alegria de rezar
 
-[1] Esta fórmula de oração cristã, ensinada por Jesus Cristo, é de tal feitio que, antes de chegarmos às petições propriamente ditas, temos de começar por uma espécie de introdução. Todas as vezes que a Deus nos apresentamos como filhos, essas palavras nos tornam capazes de fazê-lo com maior confiança. Compete, pois, ao pároco a obrigação de explicá-las com toda a clareza possível, para que o povo fiel faça a oração com mais prazer, e compreenda que vai tratar com Deus, em quanto é seu Pai.[^129]
+[1] Esta fórmula de oração cristã, ensinada por Jesus Cristo, é de tal feitio que, antes de chegarmos às petições propriamente ditas, temos de começar por uma espécie de introdução. Todas as vezes que a Deus nos apresentamos como filhos, essas palavras nos tornam capazes de fazê-lo com maior confiança. Compete, pois, ao pároco a obrigação de explicá-las com toda a clareza possível, para que o povo fiel faça a oração com mais prazer, e compreenda que vai tratar com Deus, enquanto é seu Pai.[^129]
 
 Em seus termos, a introdução é brevíssima, mas o seu conteúdo é muito profundo e repleto de mistérios.
 
@@ -68,7 +68,7 @@ Vemos, também, como foram expulsos do Paraíso. Conforme se lê nas Escrituras,
 
 Não obstante, em tão graves sinais da cólera e vingança divina, transparece, como um clarão, o amor que Deus tem aos homens. Pois dizem as Escrituras: "Deus Nosso Senhor fez para Adão e sua mulher umas túnicas de peles, e assim os cobriu".[^144] Nesse fato vai a maior prova de que Deus jamais haveria de abandonar os homens.[^145]
 
-A verdade de que o amor de Deus não se estanca com nenhuma afronta dos homens, David a interpreta naquelas palavras: "Será que Deus, em Sua ira, detém as Suas misericórdias?"[^146] E Habacuc também a expõe, ao dirigir a Deus as seguintes palavras: "Quando estiverdes irado, lembrar-Vos-eis também da Vossa misericórdia".[^147] No mesmo sentido é a explicação de Miquéias: "Qual Deus se assemelha a Vós, que tirais a iniquidade, e perdoais os pecados dos sobreviventes de Vosso povo? Ele já não derramará o Seu furor, porque ama a misericórdia".[^148]
+A verdade de que o amor de Deus não se estanca com nenhuma afronta dos homens, Davi a interpreta naquelas palavras: "Será que Deus, em Sua ira, detém as Suas misericórdias?"[^146] E Habacuc também a expõe, ao dirigir a Deus as seguintes palavras: "Quando estiverdes irado, lembrar-Vos-eis também da Vossa misericórdia".[^147] No mesmo sentido é a explicação de Miquéias: "Qual Deus se assemelha a Vós, que tirais a iniquidade, e perdoais os pecados dos sobreviventes de Vosso povo? Ele já não derramará o Seu furor, porque ama a misericórdia".[^148]
 
 E assim é realmente. Quanto mais perdidos nos sentimos, e mais privados do auxílio divino, tanto mais Deus nos procura e protege com a Sua imensa bondade e providência, porquanto suspende a espada que havia alçado em Sua cólera, e não cessa de distribuir os inesgotáveis tesouros de Sua misericórdia.
 
@@ -100,7 +100,7 @@ Se castiga os pecadores, é para os regenerar, e, pela pena temporal, quer eximi
 
 ### 2. Suportando o sofrimento
 
-Devemos, pois, exortar os fiéis a que, nesses castigos, vejam o paternal amor de Deus para conosco, e que tenham sempre na boca e no coração aquelas palavras de Job, modelo de paciência: "Ele próprio fere, e cura ao mesmo tempo. Ele dá o golpe, e Suas mãos aplicam o remédio".[^162] Repitam também o que escreveu Jeremias em nome do povo de Israel: "Vós me castigastes, e eu me corrigi, à maneira do novilho que ainda não fora amansado. Convertei-me, e ficarei convertido, porque Vós sois o Senhor meu Deus".[^163] Tenham diante dos olhos o exemplo de Tobias que, na desgraça da cegueira, reconheceu a paternal mão de Deus que o feria, e por isso mesmo se pôs a exclamar: "Eu vos bendigo, Senhor Deus de Israel, por me terdes castigado, e por me terdes curado".[^164]
+Devemos, pois, exortar os fiéis a que, nesses castigos, vejam o paternal amor de Deus para conosco, e que tenham sempre na boca e no coração aquelas palavras de Jó, modelo de paciência: "Ele próprio fere, e cura ao mesmo tempo. Ele dá o golpe, e Suas mãos aplicam o remédio".[^162] Repitam também o que escreveu Jeremias em nome do povo de Israel: "Vós me castigastes, e eu me corrigi, à maneira do novilho que ainda não fora amansado. Convertei-me, e ficarei convertido, porque Vós sois o Senhor meu Deus".[^163] Tenham diante dos olhos o exemplo de Tobias que, na desgraça da cegueira, reconheceu a paternal mão de Deus que o feria, e por isso mesmo se pôs a exclamar: "Eu vos bendigo, Senhor Deus de Israel, por me terdes castigado, e por me terdes curado".[^164]
 
 ### 3. Não como condenados
 
@@ -108,7 +108,7 @@ Devemos, pois, exortar os fiéis a que, nesses castigos, vejam o paternal amor d
 
 ### 4. Mas como prova do amor de Deus
 
-Devem antes consolar-se com o oráculo divino, que se encontra no Apocalipse: "Eu repreendo e castigo os a que tenho amor".[^166] Nutram confiança na recomendação do Apóstolo aos Hebreus: "Meu filho, não desprezes a disciplina do Senhor, e não desanimes, quando Ele te repreender. Pois o Senhor castiga a quem Ele ama, e flagela todo filho que Lhe é querido... Se vos deixasse sem correção, seríeis bastardos, e não filhos legítimos... Se tivemos nossos pais por educadores corporais, e lhes prestávamos reverência, não havemos muito mais de obedecer ao Pai de nossas almas, e assim conseguir a vida?"[^167]
+Devem antes consolar-se com o oráculo divino, que se encontra no Apocalipse: "Eu repreendo e castigo a que tenho amor".[^166] Nutram confiança na recomendação do Apóstolo aos Hebreus: "Meu filho, não desprezes a disciplina do Senhor, e não desanimes, quando Ele te repreender. Pois o Senhor castiga a quem Ele ama, e flagela todo filho que Lhe é querido... Se vos deixasse sem correção, seríeis bastardos, e não filhos legítimos... Se tivemos nossos pais por educadores corporais, e lhes prestávamos reverência, não havemos muito mais de obedecer ao Pai de nossas almas, e assim conseguir a vida?"[^167]
 
 ## IV. "Nosso" — Todos os cristãos são irmãos
 
@@ -118,7 +118,7 @@ Devem antes consolar-se com o oráculo divino, que se encontra no Apocalipse: "E
 
 Daqui se tira outra ilação necessária. Pela mesma adoção divina, todos os fiéis não só ficam unidos como irmãos entre si, mas até se chamam e são realmente irmãos do Filho Unigênito de Deus, porquanto Ele assumiu a natureza humana.
 
-Pois assim escreveu o Apóstolo na epístola aos Hebreus, quando lhes falava do Filho de Deus: "Ele não se corre de chamá-los Seus irmãos, porque disse: Anunciarei o Vosso Nome aos Meus irmãos".[^170] Ora, havia muito que David tal coisa predissera de Cristo Nosso Senhor.[^171] Consoante o Evangelho, Cristo disse pessoalmente às mulheres: "Ide, dai notícia a Meus irmãos, que se dirijam à Galiléia; lá Me verão".[^172]
+Pois assim escreveu o Apóstolo na epístola aos Hebreus, quando lhes falava do Filho de Deus: "Ele não se corre de chamá-los Seus irmãos, porque disse: Anunciarei o Vosso Nome aos Meus irmãos".[^170] Ora, havia muito que Davi tal coisa predissera de Cristo Nosso Senhor.[^171] Consoante o Evangelho, Cristo disse pessoalmente às mulheres: "Ide, dai notícia a Meus irmãos, que se dirijam à Galiléia; lá Me verão".[^172]
 
 É sabido, porém, que assim falou, depois de haver ressuscitado e conseguido a imortalidade, a fim de ninguém julgar que, pela Ressurreição e pela Ascensão aos céus, rompera Suas relações de irmão para conosco. Pelo contrário, a Ressurreição tão longe estava de desfazer essa amorosa união de Cristo conosco, que do trono de Sua glória e majestade, quando vier a julgar todos os homens de todos os tempos, Ele nos há de chamar pelo nome de irmãos, a nós que somos os mais humildes de Seus fiéis.[^173]
 
@@ -152,9 +152,9 @@ Com efeito, não há um Cristo Deus para os ricos e poderosos, e outro para os p
 
 Tratem, pois, os pastores de almas esta matéria com a devida exatidão. Detenham-se nela, deliberadamente, por ser apropriada, não só para consolar e reanimar os pobres e humildes, como também para conter e reprimir a arrogância dos ricos e poderosos. A fim de remediar esse mal entre os homens, encarecia o Apóstolo a caridade fraterna, e a recomendava aos fiéis cristãos.
 
-## VI. O espírito do Padre-Nosso
+## VI. O espírito do Pai-Nosso
 
-[17] Quando, pois, ó cristão, te dispuseres a recitar esta prece, lembra-te que chegas como filho à presença de Deus, teu Pai. Assim que começas esta oração, e proferes as palavras "Padre nosso", considera a que relevância te exaltou a infinita bondade de Deus, porquanto te manda recorrer a Ele, não como um escravo que, contrafeito e temeroso, procura o seu senhor; mas, como um filho que, com espontânea confiança, se acolhe junto de seu pai.
+[17] Quando, pois, ó cristão, te dispuseres a recitar esta prece, lembra-te que chegas como filho à presença de Deus, teu Pai. Assim que começas esta oração, e proferes as palavras "Pai nosso", considera a que relevância te exaltou a infinita bondade de Deus, porquanto te manda recorrer a Ele, não como um escravo que, contrafeito e temeroso, procura o seu senhor; mas, como um filho que, com espontânea confiança, se acolhe junto de seu pai.
 
 Depois de recordar e assimilar esta doutrina, pondera ainda com que zelo e piedade deves tu também aplicar-te à oração. Faze por te haveres como convém a um filho de Deus, quer dizer, faze que tuas orações e tuas obras não desmereçam da estirpe divina a que Deus quis elevar-te, em Sua bondade infinita.
 
@@ -170,7 +170,7 @@ Quem se atreveria a imaginar a Deus imobilizado, circunscrito às raias de um es
 
 Esta expressão, por seu turno, deve entender-se da seguinte maneira. Com Sua força e poder, Deus abrange o céu e a terra, e tudo o que neles se contém; mas Ele próprio não está circunscrito a nenhum lugar. Deus está presente a todas as coisas, quer pelo ato de criá-las, quer pelo ato de conservá-las. Todavia, Ele não se circunscreve a nenhum lugar e limite, nem se fixa de tal maneira, que não esteja presente em toda a parte com a Sua essência e poder.
 
-É o que David, com santa intuição, exprimia naquelas palavras: "Se eu subir ao céu, Vós lá estais presente".[^187]
+É o que Davi, com santa intuição, exprimia naquelas palavras: "Se eu subir ao céu, Vós lá estais presente".[^187]
 
 ### Dizemos que Deus mora no céu
 
@@ -190,7 +190,7 @@ Estas palavras dão a entender, a quem reza, qual deve ser o objeto de sua oraç
 
 Os párocos devem, pois, instruir seus piedosos ouvintes acerca desta condição para bem rezarem. Como prova, podem invocar a palavra autorizada do Apóstolo: "Se ressuscitastes com Cristo, procurai o que está lá por cima, onde se acha Cristo, sentado à direita de Deus. Tende gosto pelas coisas do alto, e não pelas coisas da terra".[^190]
 
-[^129]: Orationem Dominicam explicant: Tert. in Libro de Oratione; Cyprianus in Libro de orat. Domini; Cyrillus Hieros. Catech. mystag. 5; Chrysost. hom. de orat. Dominica; Ambros. Lib. de Sacram. IV 4; Aug. epist. 121 ad Probam; de serm. Domini in monte II 59; homil. 42; de bono perseverantiae 2 ss.; serm. 126, 135, 182 de tempore; Cass. Collat. VII 18-21; Thomae Opusc. 1 et 2 2 q. 83 art. 9.
+[^129]: Orationem Dominicam explicant: Tert. in Libro de Oratione; Cyprianus in Libro de orat. Domini; Cyrillus Hieros. Catech. mystag. 5; Chrysost. hom. de orat. Dominica; Ambros. Lib. de Sacram. IV 4; Aug. epist. 121 ad Probam; de serm. Domini in monte II 5-9; homil. 42; de bono perseverantiae 2 ss.; serm. 126, 135, 182 de tempore; Cass. Collat. VII 18-21; Thomae Opusc. et II-II q. 83 art. 9.
 [^130]: Vide Leonem Magnum, serm. VI de Nativit. Domini.
 [^131]: CRO I II 15 ss.; I V 14-15.
 [^132]: Entenda-se isto de criaturas corpóreas, pois em a natureza angélica há também uma imagem e semelhança de Deus.
@@ -219,10 +219,11 @@ Os párocos devem, pois, instruir seus piedosos ouvintes acerca desta condição
 [^155]: 1 Petr 1, 23.
 [^156]: Rom 8, 15.
 [^157]: 1 Jo 3, 1.
-[^159]: Job 19, 21.
+[^158]: Cfr. Jó 19, 6 ss.
+[^159]: Jó 19, 21.
 [^160]: Deut 32, 39.
 [^161]: Ps 88, 33 ss.
-[^162]: Job 5, 18.
+[^162]: Jó 5, 18.
 [^163]: Jer 31, 18-19.
 [^164]: Tob 11, 17.
 [^165]: Lc 21, 18.
@@ -236,6 +237,7 @@ Os párocos devem, pois, instruir seus piedosos ouvintes acerca desta condição
 [^173]: Mt 25, 40.
 [^174]: Rom 8, 17.
 [^175]: Col 1, 18.
+[^176]: Hb 1, 2.
 [^177]: Hb 6, 10.
 [^178]: Cfr. Chrysost. Opus imperfectum in Matthaeum homil. 14.
 [^179]: Jo 3, 5.

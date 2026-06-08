@@ -30,9 +30,9 @@ Dava-se, às vezes, o nome de "assembleia"[^473], não só às nações que não
 
 ### b) comunidade cristã
 
-Depois, pelo uso comum da Sagrada Escritura, passou o termo a designar únicamente a comunidade cristã, as reuniões dos fiéis, isto é, daqueles que pela fé foram "convocados" à luz da verdade e ao conhecimento de Deus, que renunciaram [enfim] às trevas da ignorância e do erro, para adorarem pia e santamente o Deus vivo e verdadeiro, e servi-l'O de todo o coração.
+Depois, pelo uso comum da Sagrada Escritura, passou o termo a designar unicamente a comunidade cristã, as reuniões dos fiéis, isto é, daqueles que pela fé foram "convocados" à luz da verdade e ao conhecimento de Deus, que renunciaram [enfim] às trevas da ignorância e do erro, para adorarem pia e santamente o Deus vivo e verdadeiro, e servi-l'O de todo o coração.
 
-Resumindo tudo numa só palavra: "A Igreja, como diz Santo Agostinho, é o povo fiel disseminado pelo mundo inteiro".
+Resumindo tudo numa só palavra: "A Igreja, como diz Santo Agostinho, é o povo fiel disseminado pelo mundo inteiro".[^475]
 
 ### como "convocação"
 
@@ -204,7 +204,7 @@ Na bela explicação que faz das palavras do Profeta: "Guardai a minha alma, por
 
 Uma razão a mais é que só a Igreja possui o culto legítimo do Sacrifício e o uso salutar dos Sacramentos. São estes os meios eficazes, pelos quais Deus opera a verdadeira santidade. Por conseguinte, é impossível haver verdadeiros santos fora desta Igreja.
 
-Torna-se pois evidente, que a Igreja é santa, e realmente santa[^561], porque é Corpo de Cristo, sendo por Ele santificada, e purificada pelo Seu Sangue.[^562]
+Torna-se pois evidente, que a Igreja é santa[^562], e realmente santa[^561], porque é Corpo de Cristo, sendo por Ele santificada, e purificada pelo Seu Sangue.
 
 ### 3. Catolicidade
 
@@ -212,7 +212,7 @@ Torna-se pois evidente, que a Igreja é santa, e realmente santa[^561], porque �
 
 [A Igreja] não se circunscreve aos limites de um só reino, nem a uma só raça determinada, como acontece nas instituições políticas e nas agremiações heréticas. Abrange, pelo contrário, todos os homens no regaço de seu amor, sejam bárbaros ou citas, livres ou escravos[^564], homens ou mulheres.[^565]
 
-Por isso está escrito: "De todas as tribos e línguas, povos e nações, Vós nos remistes para Deus em Vosso Sangue, e de nós fizestes um Reino para Deus".[^566] Refere-se à Igreja o que David dizia: "Pede-Me, e eu te darei os povos em tua herança, e por domínio a redondeza da terra".[^567] Do mesmo sentido são as passagens: "Lembrar-Me-ei de Raab e Babilônia, que Me são afeiçoadas".[^568] — "Nela nasceu grande multidão de homens".[^569]
+Por isso está escrito: "De todas as tribos e línguas, povos e nações, Vós nos remistes para Deus em Vosso Sangue, e de nós fizestes um Reino para Deus".[^566] Refere-se à Igreja o que Davi dizia: "Pede-Me, e eu te darei os povos em tua herança, e por domínio a redondeza da terra".[^567] Do mesmo sentido são as passagens: "Lembrar-Me-ei de Raab e Babilônia, que Me são afeiçoadas".[^568] — "Nela nasceu grande multidão de homens".[^569]
 
 #### b) ... todos os tempos
 
@@ -252,7 +252,7 @@ Ora, entre as figuras, existe uma de grande alcance: a "Arca de Noé".[^583] Foi
 
 ### 2. Jerusalém
 
-Outra figura é aquela grandiosa cidade de Jerusalém, cujo nome as Escrituras empregam, não raras vezes, para designar a Santa Igreja.[^585] Só naquela [cidade] era lícito oferecer sacrifícios a Deus[^586]; assim também[^587] só na Igreja, e fora dela em parte alguma, se encontra o verdadeiro culto e o verdadeiro Sacrifício, que pode únicamente agradar a Deus.[^588]
+Outra figura é aquela grandiosa cidade de Jerusalém, cujo nome as Escrituras empregam, não raras vezes, para designar a Santa Igreja.[^585] Só naquela [cidade] era lícito oferecer sacrifícios a Deus[^586]; assim também[^587] só na Igreja, e fora dela em parte alguma, se encontra o verdadeiro culto e o verdadeiro Sacrifício, que pode unicamente agradar a Deus.[^588]
 
 ## A fé na Igreja
 
@@ -266,7 +266,7 @@ Logo, o presente Artigo excede, não menos que os demais, o alcance natural de n
 
 [19] De certo, a Igreja não é obra dos homens. Seu autor é o próprio Deus imortal, que a edificou sobre uma rocha inabalável[^589], como assegura o Profeta: "Ele mesmo, o Altíssimo, deitou os seus fundamentos".[^590] Por isso, a Igreja se chama "herança de Deus"[^591] e "povo de Deus".[^592]
 
-Humano não é o poder que recebeu, mas foi-lhe outorgado por mercê divina. Tais poderes não resultam de forças naturais; portanto, únicamente pela fé é que chegamos a compreender que na Igreja estão as chaves do Reino dos céus[^593], e que a ela foi dado o poder de remitir pecados[^594], de lançar anátemas[^595], e de consagrar o verdadeiro Corpo de Cristo[^596]; afinal, que "os cidadãos que nela habitam, cá em baixo não têm morada permanente, mas aguardam a vindoura".[^597]
+Humano não é o poder que recebeu, mas foi-lhe outorgado por mercê divina. Tais poderes não resultam de forças naturais; portanto, unicamente pela fé é que chegamos a compreender que na Igreja estão as chaves do Reino dos céus[^593], e que a ela foi dado o poder de remitir pecados[^594], de lançar anátemas[^595], e de consagrar o verdadeiro Corpo de Cristo[^596]; afinal, que "os cidadãos que nela habitam, cá em baixo não têm morada permanente, mas aguardam a vindoura".[^597]
 
 É, pois, necessário crermos que a Igreja é una, santa e católica.
 
@@ -286,7 +286,7 @@ Prouvera a Deus que, nesta explicação, os reitores das igrejas imitassem o zel
 
 ### é a mira de todos os mistérios do Símbolo
 
-Pois, se temos de estudar e considerar todos estes Mistérios, não o fazemos senão para sermos [um dia] admitidos à sublime e venturosa Comunhão dos Santos, e para depois perseverarmos nela com toda a fidelidade, "agradecendo jubilosos a Deus Padre, que nos fez dignos de partilhar, na luz[^603], a herança dos Santos".[^604]
+Pois, se temos de estudar e considerar todos estes Mistérios, não o fazemos senão para sermos [um dia] admitidos à sublime e venturosa Comunhão dos Santos, e para depois perseverarmos nela com toda a fidelidade, "agradecendo jubilosos a Deus Pai, que nos fez dignos de partilhar, na luz[^603], a herança dos Santos".[^604]
 
 ### Ampliação do Artigo anterior
 
@@ -347,7 +347,7 @@ O verdadeiro cristão nada tem, afinal, que não deva considerar comum para si e
 Sendo assim, é evidente que já gozam de certa bem-aventurança [todos] aqueles que pertencem a esta santa Comunhão. Na verdade, podem exclamar: "Quão amáveis são os Vossos Tabernáculos, Senhor dos exércitos! Minha alma suspira e desfalece ao contemplar a casa do Senhor". "Ditosos aqueles que moram em Vossa casa!"
 
 [^468]: Aug. in Ps 30, 15.
-[^469]: A expressão é de S. Cipriano: Epist. 73 ad Iubaj. 22.
+[^469]: A expressão é de S. Cipriano: epist. 73 ad Iabaj. 2.
 [^470]: O CRO refere-se aos vocábulos latino e grego.
 [^471]: O CRO tem em vista os hagiógrafos do Novo Testamento.
 [^472]: Act 19, 39. Em latim: in legitima ecclesia.
@@ -440,10 +440,10 @@ Sendo assim, é evidente que já gozam de certa bem-aventurança [todos] aqueles
 [^559]: Ps 85, 2.
 [^560]: Gal 3, 27; Rom 6, 3.
 [^561]: Aug. in Ps 85, 2.
-[^562]: Eph 1, 1.
-[^563]: Vide Iustinum in utraque Apolog.; Tertul. in Apologia; Aug. contra Faustum 18; Greg. Magn. epist. lib. 4.
+[^562]: Ef 1, 1-4.
+[^563]: Vide Iustinum in utraque Apolog.; Tertul. in Apologia; Aug. contra Faustum 17; Greg. M. Moral. XXXVII 7.
 [^564]: Eph 1, 7-23; 5, 26. DU 423 480.
-[^565]: Aug. serm. de temp. 242 (segundo outros: 181 et 182 de temp.).
+[^565]: Aug. serm. de temp. 242 (segundo outros: 131 et 182 de temp.).
 [^566]: Col 3, 11.
 [^567]: Gal 3, 28; Act 2, 5 ss.; 10, 1 ss.
 [^568]: Apoc 5, 10.

@@ -8,7 +8,7 @@
 
 ### 2. Razão de ser desta petição
 
-[2] Devemos pedir e desejar esses bens humanos, ou porque assim o requer a disposição de Deus; ou porque eles nos são necessários, para conseguirmos os bens divinos, em quanto nos servem de instrumentos para chegarmos ao fim que nos é proposto — o Reino e a glória do Pai Celestial — pela fiel observância dos Mandamentos, que são para nós a expressa manifestação da vontade de Deus. Por conseguinte, em Deus e Sua glória devemos colimar toda a razão de ser desta petição.
+[2] Devemos pedir e desejar esses bens humanos, ou porque assim o requer a disposição de Deus; ou porque eles nos são necessários, para conseguirmos os bens divinos, enquanto nos servem de instrumentos para chegarmos ao fim que nos é proposto — o Reino e a glória do Pai Celestial — pela fiel observância dos Mandamentos, que são para nós a expressa manifestação da vontade de Deus. Por conseguinte, em Deus e Sua glória devemos colimar toda a razão de ser desta petição.
 
 ## II. Disposições de quem reza
 
@@ -26,7 +26,7 @@ O Apóstolo também ensina, na epístola aos Coríntios, que todas as coisas rel
 
 ## III. Necessidade desta petição
 
-### 1. Necessidades materiais antes do pecado de Adão
+### 1. Exigências materiais antes do pecado de Adão
 
 [4] Devem os fiéis reconhecer também a necessidade da presente petição. Os párocos hão de mostrar-lhes quanto precisamos das coisas exteriores, para a nossa vida e sustento. Isso calará melhor no espírito, se confrontarmos as necessidades do primeiro pai do gênero humano com as condições de vida que, dali por diante, se impunham aos outros homens.
 
@@ -34,7 +34,7 @@ Verdade é que ele precisava de alimento para reparar as forças, não obstante 
 
 Mas, entre as maiores delícias do Paraíso, não ficaria o homem ocioso; pois foi para trabalhar que Deus o colocara naquele lugar de felicidade.[^310] Todavia, nenhum esforço lhe seria penoso, nenhuma atividade deixaria de ser agradável. Pelo cultivo daqueles ditosos jardins, colheria sempre os frutos mais suaves, e jamais veria baldarem-se seus esforços e esperanças.
 
-### 2. Depois da queda de Adão
+### 2. Depois da queda do homem
 
 [5] Seus descendentes, ao invés, foram não só esbulhados do fruto da árvore da vida, mas até atingidos por aquela tremenda condenação: "Maldita será a terra por causa de tua obra. Com fadiga, tirarás dela o que comer, todos os dias de tua vida. Ela te produzirá espinhos e abrolhos, e tu comerás ervas do campo. No suor do teu rosto comerás o teu pão, até voltares à terra, da qual foste tomado; porque tu és pó, e ao pó hás de voltar".[^311]
 
@@ -44,11 +44,11 @@ A aflição chega ao seu auge, quando as maiores despesas, os mais aturados trab
 
 Todas essas coisas são uma consequência de nossos enormes pecados. Deus os aborrece, e por causa deles não abençoa de modo algum os nossos trabalhos, e faz prevalecer aquela terrível sentença, que desde o princípio havia lavrado contra nós.
 
-### 3. Necessidade de nosso trabalho
+### 3. Necessidade de nosso esforço
 
 [6] Neste lugar, incumbe aos pastores mostrar ao povo cristão que os homens caem, por sua própria culpa, em tais angústias e misérias. Façam o povo compreender que se não deve poupar nenhum trabalho nem fadiga, para se conseguir os meios de subsistência; mas que são ilusórias as esperanças, e inúteis os esforços, se Deus não abençoar a nossa atividade. Pois "o que vale não é quem planta, nem rega, mas quem faz crescer, que é Deus".[^312] E mais: "Se o Senhor não edificar a casa, debalde se esforçam os que querem levantá-la".[^313]
 
-### Mas só Deus pode valer-nos
+### 4. Mas só Deus pode valer
 
 [7] Advirtam os párocos que há um sem-número de coisas, cuja privação nos tiraria a vida, ou no-la faria insuportável. Desde que o povo cristão reconheça a necessidade dessas coisas, agravada pela impotência da natureza humana, ver-se-á obrigado a recorrer ao Pai Celestial, e a pedir-Lhe suplicante todos os bens temporais e espirituais.
 
@@ -72,11 +72,11 @@ Mas, na sólida opinião dos Santos Padres, o que se pede aqui são os meios par
 
 [9] Por conseguinte, não devemos absolutamente dar ouvidos aos que dizem ser vedado aos cristãos pedir a Deus os bens da vida terrena. Contra esse erro, depõe o consenso unânime dos Santos Padres, e uma infinidade de exemplos do Antigo e Novo Testamento.
 
-Jacob, por exemplo, ao fazer um voto, rezou assim: "Se Deus for comigo, e me proteger no caminho que faço, e me der pão para comer e roupa para vestir; e se eu voltar são e salvo à casa de meu pai: o Senhor será o meu Deus, e esta pedra que levantei como padrão será chamada Casa de Deus; e de todas as coisas que me derdes, eu Vos oferecerei o dízimo".[^316]
+Jacó, por exemplo, ao fazer um voto, rezou assim: "Se Deus for comigo, e me proteger no caminho que faço, e me der pão para comer e roupa para vestir; e se eu voltar são e salvo à casa de meu pai: o Senhor será o meu Deus, e esta pedra que levantei como padrão será chamada Casa de Deus; e de todas as coisas que me derdes, eu Vos oferecerei o dízimo".[^316]
 
 Salomão certamente pedia meios de subsistência, quando formulava aquela célebre oração: "Não me deis penúria, nem tão pouco riqueza; dai-me somente o que for necessário para sustentar a vida".[^317]
 
-Que dizer então do Salvador do gênero humano? Ele nos manda pedir coisas que, indiscutivelmente, se reportam às exigências de nosso corpo. "Rogai, diz Ele, que a vossa fuga não seja durante o inverno, nem caia em dia de sábado".[^318] Que julgaremos também daquelas palavras de Santiago: "Está triste algum de vós? Recorra à oração. Se está alegre, meta-se a cantar".[^319]
+Que dizer então do Salvador do gênero humano? Ele nos manda pedir coisas que, indiscutivelmente, se reportam às exigências de nosso corpo. "Rogai, diz Ele, que a vossa fuga não seja durante o inverno, nem caia em dia de sábado".[^318] Que julgaremos também daquelas palavras de São Tiago: "Está triste algum de vós? Recorra à oração. Se está alegre, meta-se a cantar".[^319]
 
 Que opinião faremos do Apóstolo, que assim falava aos Romanos: "Rogo-vos, irmãos meus, por Nosso Senhor Jesus Cristo, e pelo amor do Espírito Santo, que me ajudeis com vossas orações a Deus, para eu ficar livre dos infiéis que vivem na Judéia".[^320]
 
@@ -100,7 +100,7 @@ Para atinarmos com o pleno sentido desta petição, devemos ter em conta que o t
 
 #### b) Proíbe o desperdício
 
-[11] O termo imediato, também, nos concita à mesma simplicidade e temperança. Pois, quando dizemos "nosso", damos a entender que pedimos pão para nosso sustento, e não para ser desperdiçado. Não lhe chamamos "nosso", como se fôssemos capazes de adquiri-lo por nosso esforço, sem a mão dadivosa de Deus, uma vez que David declarou: "Todos esperam de Vós, que lhes deis de comer a seu tempo. Se lho derdes, eles o receberão. Se abrirdes a Vossa mão, todos se encherão de Vossos bens".[^325] E noutra passagem: "Os olhos de todos em Vós se esperançam, e Vós lhes dais de comer na ocasião oportuna".[^326]
+[11] O termo imediato, também, nos concita à mesma simplicidade e temperança. Pois, quando dizemos "nosso", damos a entender que pedimos pão para nosso sustento, e não para ser desperdiçado. Não lhe chamamos "nosso", como se fôssemos capazes de adquiri-lo por nosso esforço, sem a mão dadivosa de Deus, uma vez que Davi declarou: "Todos esperam de Vós, que lhes deis de comer a seu tempo. Se lho derdes, eles o receberão. Se abrirdes a Vossa mão, todos se encherão de Vossos bens".[^325] E noutra passagem: "Os olhos de todos em Vós se esperançam, e Vós lhes dais de comer na ocasião oportuna".[^326]
 
 Dizemos "nosso", porquanto nos é necessário, e nos foi dado por Deus, Pai de todos, que pela Sua Providência sustenta todos os seres animados.[^327]
 
@@ -218,7 +218,7 @@ Na explicação deste problema, podem os párocos escudar-se nas exímias argume
 
 Reforça esta doutrina o que o Apóstolo expõe na primeira epístola a Timóteo.[^352] Dali podem os párocos tirar muitos pensamentos, divinamente inspirados, para confirmar esta tese com argumentações úteis e convincentes.
 
-[^306]: Rom 8, 26.
+[^306]: Rm 8, 26.
 [^307]: Mt 20, 22.
 [^308]: Aug. De serm. Domini in monte II, 16.
 [^309]: 1 Cor 10, 31.
@@ -227,41 +227,41 @@ Reforça esta doutrina o que o Apóstolo expõe na primeira epístola a Timóteo
 [^312]: 1 Cor 3, 7.
 [^313]: Ps 126, 1.
 [^314]: Lc 15, 11 ss.
-[^315]: Gn 3, 19; 14, 18; Eccles 11, 1; cfr. abaixo as citações do § 9.
+[^315]: Gn 3, 19; 14, 18; Ecl 11, 1; cfr. abaixo as citações do § 9.
 [^316]: Gn 28, 20 ss.
 [^317]: Prov 30, 8.
 [^318]: Mt 24, 20.
-[^319]: Jac 5, 13.
+[^319]: Tg 5, 13.
 [^320]: Rom 15, 30.
 [^321]: 4 Reg 6, 22-23.
 [^322]: Lc 14, 1.
 [^323]: 1 Tim 6, 8.
 [^324]: Prov 30, 8.
-[^325]: Ps 103, 27.
-[^326]: Ps 144, 15.
-[^327]: Ps 146, 9.
-[^328]: Ps 127, 2.
-[^329]: Deut 28, 8.
+[^325]: Sl 103, 27.
+[^326]: Sl 144, 15.
+[^327]: Sl 146, 9.
+[^328]: Sl 127, 2.
+[^329]: Dt 28, 8.
 [^330]: Is 5, 8.
-[^331]: Eccles 5, 9.
-[^332]: 1 Tim 6, 9.
-[^333]: Ps 23, 1.
+[^331]: Ecl 5, 9.
+[^332]: 1Tm 6, 9.
+[^333]: Sl 23, 1.
 [^334]: Lc 4, 6.
-[^335]: 1 Tim 6, 17.
+[^335]: 1Tm 6, 17.
 [^336]: Chrysost. Opus imperfectum in Matthaeum, homil. 14.
 [^337]: Ambrosius ex Basilii homilia in Lc 12, 18 (Destruam horrea) nº 7.
 [^338]: Mt 5, 45.
-[^339]: Prov 9, 5.
-[^340]: Amos 8, 11.
-[^341]: Job 21, 14.
+[^339]: Pr 9, 5.
+[^340]: Am 8, 11.
+[^341]: Jó 21, 14.
 [^342]: Em idênticas condições se acham, hoje, os que professam o espiritismo, o comunismo, etc.
 [^343]: Jo 6, 41.
-[^344]: Act 5, 41.
-[^345]: Apoc 2, 17.
+[^344]: At 5, 41.
+[^345]: Ap 2, 17.
 [^346]: Jo 6, 57.
 [^347]: Mt 26, 26; Mc 14, 22; Lc 22, 19; 1 Cor 11, 23.
 [^348]: Cfr. CRO II IV 1 ss.
 [^349]: Ambros. Lib. V de Sacram. 4.
-[^350]: Ps 54, 23.
-[^351]: Aug. epist. 130, alias 121, 17.
-[^352]: 1 Tim 6, 17 ss.
+[^350]: Sl 54, 23.
+[^351]: Aug. epist. 130, aliás 121, ad Probam viduam.
+[^352]: 1Tm 6, 6-10; 17-19.

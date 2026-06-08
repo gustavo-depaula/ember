@@ -2,7 +2,7 @@
 
 ## I. Importância do Artigo, segundo as Escrituras
 
-[1] O presente Artigo dá grande força à verdade de nossa fé. A prova principal desta asserção é que as Escrituras não o propõem simplesmente à crença dos fiéis, mas confirmam-no também com vários argumentos.[^651]
+[1] O presente Artigo dá grande firmeza à verdade de nossa fé. A prova principal desta asserção é que as Escrituras não o propõem simplesmente à crença dos fiéis, mas confirmam-no também com vários argumentos.[^651]
 
 Como raras vezes observamos que tal aconteça nos outros Artigos do Símbolo, podemos inferir que a esperança de nossa salvação se apóia neste Artigo, como que num alicerce inabalável. Com efeito, temos a argumentação do Apóstolo: "Se não há ressurreição dos mortos, também Cristo não ressuscitou. Mas, se Cristo não ressuscitou, é vã a nossa pregação, e vã é também a vossa fé"[^652].
 
@@ -36,7 +36,7 @@ Empregou-se o termo "carne" também para rebater a heresia de Himeneu e Fileto, 
 
 [3] Será obrigação do pároco esclarecer esta verdade por meio de exemplos, tirados do Antigo e Novo Testamentos, e de toda a História Eclesiástica.
 
-No Antigo Testamento, houve ressurreições feitas por Elias e Eliseu. Além dos ressuscitados por Cristo Nosso Senhor[^658], existem ressurreições operadas pelos santos Apóstolos[^659], e por muitos homens de Deus.[^660]
+No Antigo Testamento, houve ressurreições feitas por Elias e Eliseu. Além dos ressuscitados por Cristo Nosso Senhor[^658], existem ressurreições operadas pelos santos Apóstolos[^659], e por muitos homens de Deus.[^660][^661]
 
 A ocorrência de tantas ressurreições comprova a doutrina do presente Artigo. Se cremos, pois, que muitos já ressurgiram da morte, devemos também crer que um dia todos os homens hão de ressuscitar. Realmente, como fruto principal de tais ressurreições milagrosas, devemos aceitar, com fé absoluta, a verdade contida no presente Artigo.
 
@@ -44,7 +44,7 @@ A ocorrência de tantas ressurreições comprova a doutrina do presente Artigo. 
 
 Os párocos que tenham alguma noção dos Livros Sagrados[^662], encontrarão sem maior esforço ainda outros testemunhos.
 
-Do Velho Testamento, são mais notáveis as passagens que se encontram no Livro de Job, quando este declara que em sua própria carne havia de ver a seu Deus[^663]; e no Livro de Daniel, onde se fala "dos que dormem no pó da terra: uns acordarão para a vida eterna, e outros para a eterna humilhação"[^664].
+Do Velho Testamento, são mais notáveis as passagens que se encontram no livro de Jó, quando este declara que em sua própria carne havia de ver a seu Deus[^663]; e no Livro de Daniel, onde se fala "dos que dormem no pó da terra: uns acordarão para a vida eterna, e outros para a eterna humilhação"[^664].
 
 Do Novo Testamento, existem as passagens de São Mateus, relativas à discussão que Nosso Senhor teve com os saduceus[^665]; além disso, tudo quanto os Evangelistas escrevem a respeito do Último Juízo[^666]. Entram aqui [também] os trechos das epístolas aos Coríntios[^667] e aos Tessalonicenses[^668], em que o Apóstolo discorre sobre o assunto com todo o vagar.
 
@@ -58,7 +58,7 @@ A esta comparação, São Gregório mostra que se podem ainda emparelhar muitas 
 
 ### 4. Razões filosóficas
 
-#### a) postulado da natureza
+#### a) correlação entre alma e corpo
 
 [5] Os escritores eclesiásticos alegam razões [intrínsecas], que são de boa lei para demonstrar o fato real da ressurreição.
 
@@ -68,15 +68,15 @@ Deste arrazoado se conclui que haverá uma ressurreição dos corpos. É o racio
 
 #### b) postulado da justiça divina
 
-Em segundo lugar, a suprema justiça de Deus estatuiu penas para os maus, e prêmios para os justos. Acontece, porém, que a maior parte dos maus se vai deste mundo, sem ter expiado seus crimes; assim como morrem também muitos justos, sem conseguirem [na terra] nenhum galardão de suas virtudes.[^674] É, pois, necessário que as almas tornem a unir-se aos corpos. Tendo servido aos homens, como instrumento de prevaricação, devem os corpos participar dos prêmios e castigos das almas, na proporção dos crimes ou das virtudes, que houverem praticado. Esta idéia foi bem focalizada numa homilia de São João Crisóstomo ao povo de Antioquia.[^675]
+Em segundo lugar, a suprema justiça de Deus estatuiu penas para os maus, e prêmios para os justos. Acontece, porém, que a maior parte dos maus se vai deste mundo, sem ter expiado seus crimes; assim como morrem também muitos justos, sem conseguirem [na terra] nenhum galardão de suas virtudes.[^674] É, pois, necessário que as almas tornem a unir-se aos corpos. Tendo servido aos homens, como instrumento de prevaricação, devem os corpos participar dos prêmios e castigos das almas, na proporção dos crimes ou das virtudes, que houverem praticado. Esta ideia foi bem focalizada numa homilia de São João Crisóstomo ao povo de Antioquia.[^675]
 
-#### — em consideração desta vida...
+#### — em consideração ao sofrimento como fenômeno geral
 
 Por isso, discorrendo sobre a ressurreição, o Apóstolo chegou a dizer: "Se esperamos em Cristo só por consideração desta vida [mortal], somos então os mais deploráveis de todos os homens"[^676]. Palavras que não são para entendidas de alguma miséria da alma; sendo imortal, esta poderia ter a sua bem-aventurança na vida futura, ainda que não houvera ressurreição dos corpos.
 
 Aplicam-se, portanto, ao homem todo. Pois, se o corpo não recebesse a paga devida por seus sofrimentos, homens que no mundo sofrem, como sofreram os Apóstolos, tantas angústias e calamidades, seriam forçosamente as mais lastimáveis das criaturas.
 
-#### — em consideração às tribulações dos justos
+#### — em consideração às perseguições dos justos
 
 Em termos muito mais penetrantes, exprime o Apóstolo a mesma verdade, ao escrever aos Tessalonicenses: "Ufanamo-nos, nas igrejas de Deus, de vossa paciência e espírito de fé, em todas as vossas tribulações. Vós as sofreis em prova do justo juízo de Deus, para vos tornardes dignos do Reino de Deus, pelo qual também padeceis. Justo é que Deus [por sua voz] pague com tribulações aos que vos atribulam; e a vós, que sois atribulados, vos dê descanso conosco, quando o Senhor Jesus Se manifestar, vindo do céu com os Anjos, ministros de Seu poder, entre chamas de fogo, para tomar vingança daqueles que não reconhecem a Deus, e dos que não obedecem ao Evangelho de Nosso Senhor Jesus Cristo"[^677].
 
@@ -116,7 +116,7 @@ Esta interpretação tem por si também a autoridade de Santo Agostinho, que a e
 
 [7] Muito importa convencer-nos de que há de ressurgir o mesmo corpo que o homem teve neste mundo. Embora já esteja desfeito e reduzido a cinzas, esse corpo será chamado à nova vida. É um ponto que o pároco também deve explicar com atenção.
 
-O Apóstolo ensina: "É necessário que este [corpo] corruptível se revista de incorruptibilidade, e que este [corpo] mortal se revista de imortalidade"[^686]. Job também o havia predito com toda a clareza: "Na minha própria carne verei o meu Deus, hei de vê-Lo eu mesmo; meus olhos hão de vê-Lo, eu que não outro"[^687].
+O Apóstolo ensina: "É necessário que este [corpo] corruptível se revista de incorruptibilidade, e que este [corpo] mortal se revista de imortalidade"[^686]. Jó também o havia predito com toda a clareza: "Na minha própria carne verei o meu Deus, hei de vê-Lo eu mesmo; meus olhos hão de vê-Lo, eu que não outro"[^687].
 
 #### b) Definição do São João Damasceno
 
@@ -166,7 +166,7 @@ Aos párocos que maduramente refletirem nestas verdades, sempre acudirão muitos
 
 ### 1. Imortalidade para todos
 
-Sem falarmos de outros pontos, nos corpos ressuscitados haverá uma diferença capital, relativamente à sua condição anterior. Se nesta vida estavam sujeitos à lei da morte, hão de receber após a ressurreição o dom de imortalidade, sem que nisso se faça distinção entre bons e maus.
+Sem falarmos de outros pontos, nos corpos ressuscitados haverá uma diferença capital, relativamente à sua condição anterior. Se nesta vida estavam sujeitos à lei da morte, hão de receber após a ressurreição o dom de imortalidade, sem que nisso se faça distinção entre bons e maus.[^695]
 
 Esta admirável reconstituição da natureza humana é um fruto da insigne vitória que Cristo alcançou sobre a morte. Assim no-lo dizem as seguintes passagens da Escritura: "Aniquilará a morte para sempre"[^696]. Noutro lugar: "Ó morte, Eu hei de ser a tua morte"[^697]. Como explicação desta passagem, diz o Apóstolo: "A morte é o último inimigo que será destruído"[^698]. E em São João lemos: "E já não haverá morte"[^699].
 
@@ -186,7 +186,7 @@ Pela doutrina que os Santos Padres deduzem do Apóstolo [São Paulo], são quatr
 
 #### a) impassibilidade
 
-O primeiro é a impassibilidade, dom especial, cuja virtude é impedir que os corpos sintam qualquer dor, sofrimento ou incômodo. Aos corpos ressuscitados, não os poderá empecer nem a ação do frio, nem o ardor do fogo, nem a violência das águas. "Semeia-se [o corpo] na corrupção, diz o Apóstolo, e ressurgirá na incorruptibilidade"[^704].
+O primeiro é a impassibilidade, dom especial, cuja virtude é impedir que os corpos sintam qualquer dor, sofrimento ou incômodo. Aos corpos ressuscitados, não os poderá empecer nem a ação do frio, nem o ardor do fogo, nem a violência das águas.[^703] "Semeia-se [o corpo] na corrupção, diz o Apóstolo, e ressurgirá na incorruptibilidade"[^704].
 
 Os [teólogos] escolásticos preferiam o termo "impassibilidade" ao de "incorruptibilidade", para assim exprimir que é um caráter próprio dos corpos gloriosos. A impassibilidade não é comum aos condenados, cujos corpos podem, apesar de imperecíveis, arder de calor, tiritar de frio, e padecer toda a sorte de tormentos.
 
@@ -228,7 +228,7 @@ Entre os homens que se distinguem pelo saber, bom-senso e fina educação, quant
 
 Outro fruto importante que se colhe da meditação deste Artigo, é que nos dá [maior] facilidade de nos consolarmos, a nós e a outros, por ocasião da morte de pessoas parentas ou amigas. A esta fonte de consolação recorreu o Apóstolo, quando escrevia aos Tessalonicenses a respeito de seus mortos.[^718]
 
-Mas, em qualquer outra aflição ou calamidade, grande alívio traz às nossas dores, a lembrança da futura ressurreição. Vemo-lo no exemplo do santo Job que, nas tribulações e tristezas, nutria sua coragem com a única esperança de que, na ressurreição, lhe chegaria o momento de ver o Senhor seu Deus.
+Mas, em qualquer outra aflição ou calamidade, grande alívio traz às nossas dores, a lembrança da futura ressurreição. Vemo-lo no exemplo do santo Jó que, nas tribulações e tristezas, nutria sua coragem com a única esperança de que, na ressurreição, lhe chegaria o momento de ver o Senhor seu Deus.
 
 ### 3. Pureza de vida
 
@@ -236,18 +236,19 @@ Além de tudo, é uma verdade muito própria para convencer os cristãos da nece
 
 De outro lado, porém, nada é mais eficaz para reprimir as paixões, e converter os homens de seus pecados, do que a frequente recordação das penas e suplícios, reservados aos que, no dia final, terão de ressurgir para o juízo de [sua] condenação.[^721]
 
-[^651]: Por exemplo Iob 19, 5-26; Is 26, 19; Ezech 37, 1 ss.; 1 Cor 15, 1 ss.
+[^651]: Por exemplo Jó 19, 5-26; Is 26, 19; Ezech 37, 1 ss.; 1 Cor 15, 1 ss.
 [^652]: 1 Cor 15, 13-14.
-[^653]: Sap 2, 25; 3, 4; Mt 10, 12-22.
+[^653]: Sb 2, 25; 3, 4; Mt 10, 12-22.
 [^654]: Is 40, 6.
 [^655]: Io 1, 14.
 [^656]: Gen 3, 19.
 [^657]: 1 Tim 1, 20; 2 Tim 2, 17 ss.
-[^658]: 3 Reg 17, 17 ss.; 4 Reg 4, 32 ss.; 13, 21.
-[^659]: Mt 9, 25; Lc 5, 14; 7, 13-15; Io 11, 43-44.
-[^660]: Act 9, 40; 20, 10.
+[^658]: 1Rs 17, 17 ss.; 2Rs 4, 32 ss.; 13, 21. *Iren. adv. haer. I 2 56; Euseb. I 5 7; cfr. o Martirológio Romano e os processos de canonização.
+[^659]: Mt 9, 25; Lc 5, 14; 7, 13-15; Jo 11, 43-44.
+[^660]: At 9, 40; 20, 10.
+[^661]: *Iren. adv. haer. I 2 56; Euseb. I 5 7; cfr. o Martirológio Romano e os processos de canonização.
 [^662]: Observação hoje impertinente, graças à reforma dos estudos eclesiásticos desde o Concílio de Trento.
-[^663]: Iob 19, 26.
+[^663]: Jó 19, 26.
 [^664]: Dan 12, 2.
 [^665]: Mt 22, 23 ss.
 [^666]: Mt 12, 36; 13, 41 ss.; 19, 28; 25, 31 ss.
@@ -271,7 +272,7 @@ De outro lado, porém, nada é mais eficaz para reprimir as paixões, e converte
 [^684]: Ambr. in 1 Th. 4.
 [^685]: Aug. de civ. Dei XX 20.
 [^686]: 1 Cor 15, 53.
-[^687]: Iob 19, 26 ss.; DU 287 347 427.
+[^687]: Jó 19, 26 ss.; DU 287 347 427.
 [^688]: Io. Damasc. de fide orthod. IV 27.
 [^689]: 2 Cor 5, 10.
 [^690]: Aug. de civ. Dei XXII 19 ss. (cfr. Enchir. 26 ss.); Hier. epist. 59 61.
@@ -279,6 +280,7 @@ De outro lado, porém, nada é mais eficaz para reprimir as paixões, e converte
 [^692]: Aug. Enchir. 89.
 [^693]: Aug. de civ. Dei XII 19 (3).
 [^694]: Aug. sermo 362 20.
+[^695]: 1Cor 15, 51.
 [^696]: Is 25, 8.
 [^697]: Os 13, 14.
 [^698]: 1 Cor 15, 26.
@@ -286,6 +288,7 @@ De outro lado, porém, nada é mais eficaz para reprimir as paixões, e converte
 [^700]: Hebr 2, 14.
 [^701]: Rom 5, 12-21.
 [^702]: Apoc 9, 6.
+[^703]: Is 49, 10-13; Ap 7, 16-17.
 [^704]: 1 Cor 15, 42.
 [^705]: Mt 13, 43; Sap 3, 7.
 [^706]: Mt 17, 2 ss.

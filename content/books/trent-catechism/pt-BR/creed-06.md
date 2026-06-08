@@ -1,12 +1,12 @@
-# Capítulo VII — Sexto Artigo do Símbolo: "Subiu aos céus; está sentado à direita de Deus Pai Todo-Poderoso"
+# Capítulo VII — Sexto Artigo do Símbolo: "Subiu aos céus; está sentado à mão direita de Deus Pai Todo-Poderoso"
 
 ## I. Importância do Artigo
 
-[1] Ao contemplar, cheio do Espírito de Deus, a bem-aventurada Ascensão de Nosso Senhor, o profeta David exorta o mundo inteiro a celebrar o Seu triunfo, em transportes de alegria e satisfação. "Nações todas, diz ele, batei palmas, louvai a Deus em cantos de alegria! Subiu Deus no meio de aclamações"[^367].
+[1] Ao contemplar, cheio do Espírito de Deus, a bem-aventurada Ascensão de Nosso Senhor, o profeta Davi exorta o mundo inteiro a celebrar o Seu triunfo, em transportes de alegria e satisfação. "Nações todas, diz ele, batei palmas, louvai a Deus em cantos de alegria! Subiu Deus no meio de aclamações"[^365].
 
 Desta passagem, o pároco verá com quanto zelo não deve expor este Mistério, e tomar a peito que os fiéis não só o creiam e conheçam, mas que procurem com a graça de Deus traduzi-lo o mais possível em todos os seus atos e sentimentos.
 
-## II. Sentido literal e explicação
+## II. Explicação:
 
 ### 1. Cristo subiu aos céus
 
@@ -16,7 +16,7 @@ Os fiéis devem crer, sem a menor dúvida, que Jesus Cristo, depois de consumar 
 
 ### 2. por própria virtude...
 
-[2] Ensinará, todavia, que subiu por virtude própria. Não foi arrebatado por uma força estranha, como Elias que fora levado ao céu num carro de fogo, nem como Habacuc ou o diácono Filipe[^368] que, transportados através dos ares por uma virtude divina, venceram as distâncias de terras longínquas.
+[2] Ensinará, todavia, que subiu por virtude própria. Não foi arrebatado por uma força estranha, como Elias que fora levado ao céu num carro de fogo[^366], nem como Habacuc[^367] ou o diácono Filipe[^368] que, transportados através dos ares por uma virtude divina, venceram as distâncias de terras longínquas.
 
 ### como Deus e como homem
 
@@ -32,7 +32,7 @@ Mas, como nas relações sociais julgamos dar maior honra a quem colocamos à no
 
 ### 2. Significação
 
-O "estar sentado" não exprime aqui uma postura de corpo, mas põe em evidência a posse segura e inabalável do régio poder e da glória infinita, que [Cristo] recebeu de Seu Pai.[^370]
+O "estar sentado" não exprime aqui uma postura de corpo, mas põe em evidência a posse segura e inabalável do régio poder e da glória infinita, que [Cristo] recebeu de Seu Pai.[^369][^370]
 
 Disso fala o Apóstolo: "Ressuscitou-O da morte, e colocou-O à Sua direita no céu, acima de todos os principados e potestades, virtudes e dominações, e de todas as dignidades que possa haver não só neste mundo, mas também no mundo futuro. Pôs-Lhe aos pés todas as coisas"[^370].
 
@@ -54,7 +54,7 @@ Os demais Artigos do Credo, relativos a Cristo Nosso Senhor, dão a conhecer Sua
 
 ### b) e sua sublimidade
 
-Ora, como no Artigo anterior confessamos que [Cristo] ressuscitou dos mortos; e no presente, que subiu aos céus, e está sentado à direita de Deus Pai, não existe expressão mais sublime e grandiosa, para nos dar uma idéia de Sua glória suprema e divina majestade.
+Ora, como no Artigo anterior confessamos que [Cristo] ressuscitou dos mortos; e no presente, que subiu aos céus, e está sentado à direita de Deus Pai, não existe expressão mais sublime e grandiosa, para nos dar uma ideia de Sua glória suprema e divina majestade.
 
 ## V. Enumerar os motivos
 
@@ -70,7 +70,7 @@ E não foi só para tomar posse do trono de glória e poder, merecido pelo [Seu 
 
 Além disso, foi para provar realmente que "Seu Reino não é deste mundo"[^373]. Os reinos do mundo são terrenos e passageiros, apoiam-se em grandes cabedais e na força proveniente da carne. Ora, o Reino de Cristo não era terrestre, como os judeus esperavam, mas espiritual e eterno. Colocando Seu trono nos céus, o próprio Cristo demonstrou que as forças e riquezas de Seu reino eram de natureza espiritual.
 
-Neste Reino, os mais ricos e os mais providos com a abundância de todos os bens são aqueles que [na terra] procuram com maior ardor as coisas de Deus. Santiago, com efeito, declara que Deus escolheu "os pobres neste mundo, para serem ricos na fé, e herdeiros do Reino que Deus prometeu àqueles que O amam"[^374].
+Neste Reino, os mais ricos e os mais providos com a abundância de todos os bens são aqueles que [na terra] procuram com maior ardor as coisas de Deus. São Tiago, com efeito, declara que Deus escolheu "os pobres neste mundo, para serem ricos na fé, e herdeiros do Reino que Deus prometeu àqueles que O amam"[^374].
 
 ### d) elevar ao céu nosso pensamento
 
@@ -78,7 +78,7 @@ Pela Ascensão, Nosso Senhor queria que, subindo Ele aos céus, continuássemos 
 
 ### e) enviar-nos o Espírito Santo
 
-[6] A eficácia e a grandeza dos inefáveis benefícios que a bondade de Deus derramou sobre nós [por meio deste Mistério], desde muito as havia vaticinado o santo profeta David: "Subindo ao alto, arrebatou consigo os escravos, e distribuiu Seus dons aos homens"[^378]. Neste sentido é que o Apóstolo interpreta esta passagem.[^379]
+[6] A eficácia e a grandeza dos inefáveis benefícios que a bondade de Deus derramou sobre nós [por meio deste Mistério], desde muito as havia vaticinado o santo profeta Davi: "Subindo ao alto, arrebatou consigo os escravos, e distribuiu Seus dons aos homens"[^378]. Neste sentido é que o Apóstolo interpreta esta passagem.[^379]
 
 Efetivamente, ao cabo de dez dias, enviou [Cristo] o Espírito Santo, de cuja virtude e exuberância encheu a multidão de fiéis ali presentes. Então é que cumpriu verdadeiramente aquela grandiosa promessa: "Para vós convém que Eu me vá. Se Eu não for, não virá a vós o Consolador; mas, se for, Eu vo-Lo enviarei"[^380].
 
@@ -100,7 +100,7 @@ Com Sua ida para o céu, abriu as portas que se tinham fechado, em consequência
 
 [7] Esta admirável abundância de dons celestes vem acompanhada de uma valiosa série de frutos e vantagens.
 
-Primeiramente, o mérito de nossa fé cresce até o último grau; porquanto a fé se refere a coisas que são inacessíveis à nossa vista, e que ficam fora de alcance para nossa razão e inteligência. Portanto, se o Senhor Se não apartara de nós, diminuir-se-ia o mérito de nossa fé; pois Ele próprio exalta como bem-aventurados "os que não viram, mas creram"[^384].
+Primeiramente, o mérito de nossa fé cresce até o último grau; porquanto a fé se refere a coisas que são inacessíveis à nossa vista, e que ficam fora de alcance para nossa razão e inteligência. Portanto, se o Senhor Se não apartara de nós, diminuir-se-ia o mérito de nossa fé; pois Ele próprio exalta como bem-aventurado "os que não viram, mas creram"[^384].
 
 ### b) confirma-nos a esperança
 
@@ -110,7 +110,7 @@ Ademais, a subida de Cristo aos céus tem a grande força de confirmar a esperan
 
 Além disso, um dos maiores benefícios que auferimos [da Ascensão], foi o de Cristo arrebatar consigo para o céu o nosso amor, e de abrasá-lo no Espírito de Deus. É uma grande verdade o que se disse: "Nosso coração está onde estiver o nosso tesouro"[^387].
 
-### transforma o caráter desse amor
+### e tira-lhe o caráter terreno
 
 [8] Realmente, permanecesse Jesus Cristo conosco na terra, todas as nossas considerações se concentrariam em Seu porte e trato humano. Nele veríamos apenas um Homem, que nos cumulou de assinalados benefícios, e por Ele teríamos certa afeição natural e terrena.
 
@@ -132,26 +132,29 @@ Nossa perfeita salvação, nós a devemos aos sofrimentos de Cristo; e Seus mér
 
 Isto não obstante, a Ascensão de Cristo se nos apresenta como um modelo, que nos ensina a olhar para o alto, e transportar-nos ao céu em espírito. [Dizemos mais], ela também nos dá uma força divina, que nos põe em condições de fazê-lo.
 
-[^367]: Ps 46, 2-6.
-[^368]: Act 8, 39.
-[^370]: Eph 1, 20 ss.
-[^371]: Hebr 1, 13; Ps 109, 1.
-[^372]: Act 1, 1-11.
-[^373]: Io 18, 36.
-[^374]: Iac 2, 5.
-[^375]: Hebr 11, 13.
-[^376]: Eph 2, 19.
-[^377]: Ph 3, 20.
-[^378]: Ps 67, 19.
-[^379]: Eph 4, 8.
-[^380]: Io 16, 7; Act 1, 4-5; DU 344.
-[^381]: Hebr 9, 24.
-[^382]: 1 Io 2, 1 ss.
-[^383]: Io 14, 2; DU 160 410.
-[^384]: Io 20, 29.
-[^385]: Eph 4, 15; Col 1, 18.
-[^386]: Io 17, 24.
+[^365]: Sl 46, 2-6; DU 255 344 429 462 709.
+[^366]: 2Rs 2, 11-12.
+[^367]: Dn 14, 35.
+[^368]: At 8, 39.
+[^369]: Sem alterar o sentido, repartimos os atributos, por exigências da frase portuguesa. DU 874, e as referências da nota supra 365.
+[^370]: Ef 1, 20 ss.
+[^371]: Hb 1, 13; Sl 109, 1.
+[^372]: At 1, 1-11.
+[^373]: Jo 18, 36.
+[^374]: Tg 2, 5.
+[^375]: Hb 11, 13.
+[^376]: Ef 2, 19.
+[^377]: Fl 3, 20.
+[^378]: Sl 67, 19.
+[^379]: Ef 4, 8.
+[^380]: Jo 16, 7; At 1, 4-5; DU 344.
+[^381]: Hb 9, 24.
+[^382]: 1Jo 2, 1 ss.
+[^383]: Jo 14, 2; DU 160 410.
+[^384]: Jo 20, 29.
+[^385]: Ef 4, 15; Cl 1, 18.
+[^386]: Jo 17, 24.
 [^387]: Mt 6, 21.
-[^388]: Io 16, 7.
-[^389]: Eph 4, 11; 1 Cor 12, 28 ss.
-[^390]: Eph 4, 7.
+[^388]: Jo 16, 7.
+[^389]: Ef 4, 11; 1Cor 12, 28 ss.
+[^390]: Ef 4, 7.

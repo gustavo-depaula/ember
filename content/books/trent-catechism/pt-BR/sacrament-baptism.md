@@ -50,13 +50,13 @@ Já de início, quando se tratava dos Sacramentos em geral, dissemos que cada um
 
 ## Matéria do Batismo: a água
 
-[7] Matéria ou elemento deste Sacramento é qualquer espécie de água natural, seja de mar, de rio, de fonte, de cisterna ou de poço. Com efeito, Nosso Senhor assim doutrinou: "Se alguém não renascer da água e do Espírito Santo, não pode entrar no reino de Deus". E o Apóstolo diz que a Igreja foi purificada pela ablução da água. Numa epístola de São João, lemos a seguinte passagem: "Três são os que dão testemunho na terra: o espírito, a água, e o sangue". A mesma afirmação se comprova em outros testemunhos da Sagrada Escritura.
+[7] Matéria ou elemento deste Sacramento é qualquer espécie de água natural, seja de mar, de rio, de banhado, de poço ou de fonte. Com efeito, Nosso Senhor assim doutrinou: "Se alguém não renascer da água e do Espírito Santo, não pode entrar no reino de Deus". E o Apóstolo diz que a Igreja foi purificada pela ablução da água. Numa epístola de São João, lemos a seguinte passagem: "Três são os que dão testemunho na terra: o espírito, a água, e o sangue". A mesma afirmação se comprova em outros testemunhos da Sagrada Escritura.
 
 [8] Se contudo São João Batista anunciou que o Senhor viria para batizar "no fogo e no Espírito Santo", suas palavras não se referem de modo algum à matéria do Batismo, mas à operação interior do Espírito Santo, ou antes, ao milagre que se manifestou no dia de Pentecostes, "quando o Espírito Santo desceu do céu em forma de fogo", sobre os Apóstolos. É um milagre que Cristo Nosso Senhor havia predito em outro lugar: "João batizou na água, mas dentro de poucos dias sereis vós batizados no Espírito Santo".
 
 [9] De mais a mais, as Escrituras nos mostram que Nosso Senhor anunciou de antemão [a matéria do Batismo], por meio de figuras e profecias. Em sua primeira Epístola, o Príncipe dos Apóstolos nos dá a entender que uma imagem e semelhança dessa água era o Dilúvio, pelo qual o mundo foi purificado, porquanto "era enorme a malícia dos homens na terra, e todos os desejos de seu coração tendiam para o mal". A travessia do Mar Vermelho era também uma figura desta água, conforme a interpretação de São Paulo em sua Epístola aos Coríntios. Só de leve lembramos ainda as abluções de Naamã Sírio, a virtude milagrosa da piscina de Betsaida, e outros fatos semelhantes, nos quais facilmente se descobrem outros tantos símbolos deste Mistério.
 
-Quanto às visões proféticas, não há dúvida que a água do Batismo estava designada e simbolizada naquelas águas, para as quais o profeta Isaías convidava tão generosamente todos os sequiosos, ou que Ezequiel via em espírito jorrar do Templo para fora; bem como naquela fonte que, na predição de Zacarias, ficaria à disposição da casa de David e dos habitantes de Jerusalém, a fim de se purificar nela o pecador e a mulher legalmente contaminada.
+Quanto às visões proféticas, não há dúvida que a água do Batismo estava designada e simbolizada naquelas águas, para as quais o profeta Isaías convidava tão generosamente todos os sequiosos, ou que Ezequiel via em espírito jorrar do Templo para fora; bem como naquela fonte que, na predição de Zacarias, ficaria à disposição da casa de Davi e dos habitantes de Jerusalém, a fim de se purificar nela o pecador e a mulher legalmente contaminada.
 
 [10] Em sua carta a Oceano, São Jerônimo alega várias razões, para provar quanto convinha à natureza e eficiência do Batismo, que se tomasse a água para sua matéria sacramental.
 
@@ -66,7 +66,7 @@ Além disso, a água simboliza o efeito do Batismo com a máxima fidelidade. Ass
 
 Uma razão a mais é que a água tem a especial virtude de desalterar o corpo; de maneira análoga, o Batismo extingue parcialmente o ardor das paixões desordenadas.
 
-[11] Um ponto ainda, que merece sagrada consideração. Água natural, sem nenhum ingrediente, é matéria apta para a administração deste Sacramento, todas as vezes que o exija a necessidade. Contudo, na solene administração do Batismo, por uma tradição que remonta aos Apóstolos, a Igreja sempre observou o costume de adicionar à água o Santo Crisma, certamente para realçar melhor o efeito do Batismo.
+[11] Um ponto ainda, que merece consideração. Água natural, sem nenhum ingrediente, é matéria apta para a administração deste Sacramento, todas as vezes que o exija a necessidade. Contudo, na solene administração do Batismo, por uma tradição que remonta aos Apóstolos, a Igreja sempre observou o costume de adicionar à água o Santo Crisma, certamente para realçar melhor o efeito do Batismo.
 
 Às vezes, podem surgir dúvidas, se esta ou aquela água é genuína, conforme o exige a validade do Sacramento. O povo, porém, deve saber, com certeza absoluta, que o Batismo nunca pode ser validamente ministrado com outra matéria, senão com água que seja natural e líquida.
 
@@ -74,25 +74,25 @@ Uma razão a mais é que a água tem a especial virtude de desalterar o corpo; d
 
 [12] Explicada a matéria, como primeira das duas partes que constituem o Batismo, os pastores não terão menos cuidado em falar também da forma, que é a segunda parte essencialmente necessária.
 
-Convençam-se, porém, que devem redobrar seus esforços na explicação deste Sacramento, porque a prática de tão sagrado Mistério não é sòmente própria para dar, por sua natureza, grande satisfação aos fiéis — efeito comum das verdades divinas que aprendemos — mas é também sumamente desejável, em vista da necessidade de empregá-la quase que todos os dias.
+Convençam-se, porém, que devem redobrar seus esforços na explicação deste Sacramento, porque a prática de tão sagrado Mistério não é somente própria para dar, por sua natureza, grande satisfação aos fiéis — efeito comum das verdades divinas que aprendemos — mas é também sumamente desejável, em vista da necessidade de empregá-la quase que todos os dias.
 
 Como veremos mais amplamente no curso desta exposição, muitas vezes ocorrem circunstâncias em que pessoas do povo, quase sempre humildes mulheres, são obrigadas a conferir o Batismo. Por conseguinte, todos os fiéis de ambos os sexos devem conhecer, com exatidão, as partes essenciais deste Sacramento.
 
-[13] Em termos claros e singelos, de fácil compreensão para todos, devem os pastores ensinar que a forma exata e completa do Batismo é a seguinte: "Eu te batizo em nome do Padre, e do Filho, e do Espírito Santo".
+[13] Em termos claros e singelos, de fácil compreensão para todos, devem os pastores ensinar que a forma exata e completa do Batismo é a seguinte: "Eu te batizo em nome do Pai, e do Filho, e do Espírito Santo".
 
-Assim o ensinou Nosso Senhor e Salvador, quando prescreveu aos Apóstolos no Evangelho de São Mateus: "Ide, ensinai todos os povos, e batizai-os em nome do Padre, e do Filho, e do Espírito Santo".
+Assim o ensinou Nosso Senhor e Salvador, quando prescreveu aos Apóstolos no Evangelho de São Mateus: "Ide, ensinai todos os povos, e batizai-os em nome do Pai, e do Filho, e do Espírito Santo".
 
 Do verbo "batizai", a Igreja Católica, por inspiração divina, deduziu acertadamente que, na forma deste Sacramento, se deve exprimir a ação do ministro. É o que sucede, quando se diz: "Eu te batizo".
 
-Além do ministro, era preciso designar também a pessoa que é batizada, assim como a causa principal que opera o Batismo. Esta é a razão de se acrescentar o pronome "te", e o nome de cada uma das Pessoas Divinas. Assim temos a forma completa nas palavras que acabamos de explicar: "Eu te batizo em nome do Padre, e do Filho, e do Espírito Santo".
+Além do ministro, era preciso designar também a pessoa que é batizada, assim como a causa principal que opera o Batismo. Esta é a razão de se acrescentar o pronome "te", e o nome de cada uma das Pessoas Divinas. Assim temos a forma completa nas palavras que acabamos de explicar: "Eu te batizo em nome do Pai, e do Filho, e do Espírito Santo".
 
-No Sacramento do Batismo, operam juntamente todas as Pessoas da Santíssima Trindade, e não sòmente a Pessoa do Filho, do qual escreve São João: "Este é quem batiza".
+No Sacramento do Batismo, operam juntamente todas as Pessoas da Santíssima Trindade, e não somente a Pessoa do Filho, do qual escreve São João: "Este é quem batiza".
 
 Além disso se diz "em nome" e não "nos nomes", para indicar que é uma e una a natureza e divindade na Santíssima Trindade. O termo "nome" não se refere aqui às Pessoas, mas designa a substância, virtude e onipotência divina, que é uma e a mesma nas três Pessoas.
 
 [14] Expusemos a forma completa, em todos os sentidos. Mas cumpre notar que nela há algumas palavras estritamente essenciais, que não podem ser omitidas sem anular o Sacramento; e outras que não são tão necessárias, que não invalidam o Sacramento, se forem omitidas.
 
-De tal espécie é o pronome "eu", cujo sentido se subentende no verbo "batizo". Nas igrejas gregas, que usam outra fórmula, é até costume omiti-lo, porquanto os gregos não julgam necessário mencionar o ministro. Por isso, a fórmula que usam em toda a parte é a seguinte: "Este servo de Cristo é batizado em nome do Padre, e do Filho, e do Espírito Santo".
+De tal espécie é o pronome "eu", cujo sentido se subentende no verbo "batizo". Nas igrejas gregas, que usam outra fórmula, é até costume omiti-lo, porquanto os gregos não julgam necessário mencionar o ministro. Por isso, a fórmula que usam em toda a parte é a seguinte: "Este servo de Cristo é batizado em nome do Pai, e do Filho, e do Espírito Santo".
 
 No entanto, por decreto e definição do Concílio de Florença, eles assim conferem validamente o Sacramento. Aquelas palavras são suficientes para exprimir o elemento essencial do Batismo, isto é, a ablução que de fato se faz no mesmo instante.
 
@@ -128,7 +128,7 @@ Todavia, se alguém quiser indagar por que motivo Nosso Senhor conferiu à água
 
 No entanto, poderemos ao menos compreender que a água, no Batismo de Nosso Senhor, ao tocar o Seu Corpo santíssimo e puríssimo, foi consagrada para o uso salutar do Batismo. Mas, conforme a fé nos ensina, isso acontece de tal maneira, que este Sacramento, com ser instituído antes da Paixão, só tirou sua virtude e eficácia da própria Paixão, que era por assim dizer o fim e a consumação de todas as obras de Cristo.
 
-[21] Acerca do outro momento, em que a lei do Batismo foi promulgada, não há lugar para incertezas. Todos os escritores eclesiásticos concordam em dizer que foi depois da Ressurreição de Nosso Senhor, quando Ele ordenou aos Apóstolos: "Ide, ensinai todos os povos, batizai-os em nome do Padre, e do Filho, e do Espírito Santo". Desde então, começou a vigorar a lei do Batismo para todos os homens, que queiram alcançar a eterna salvação.
+[21] Acerca do outro momento, em que a lei do Batismo foi promulgada, não há lugar para incertezas. Todos os escritores eclesiásticos concordam em dizer que foi depois da Ressurreição de Nosso Senhor, quando Ele ordenou aos Apóstolos: "Ide, ensinai todos os povos, batizai-os em nome do Pai, e do Filho, e do Espírito Santo". Desde então, começou a vigorar a lei do Batismo para todos os homens, que queiram alcançar a eterna salvação.
 
 É o que provam as palavras autorizadas do Príncipe dos Apóstolos: "[Deus] nos fez renascer à esperança da vida, pela Ressurreição de Jesus Cristo dentre os mortos". Prova igual se pode tirar daquela passagem, em que São Paulo falava da Igreja: "[Cristo] entregou-Se a Si mesmo por ela, para a santificar, purificando-a no banho da água pela palavra".
 
@@ -142,7 +142,7 @@ Ora, não seria possível igual admiração de nossa parte, se os pastores revel
 
 ## Ministros do Batismo
 
-[23] Indicar, agora, quais são os ministros deste Sacramento, não é sòmente útil, mas até necessário: de um lado, para que os primeiros encarregados de tal ministério o exerçam com santo respeito; de outro lado, para que ninguém se ponha fora de suas atribuições, envolvendo-se afoitamente em direitos alheios, e lesando-os com presunção. De mais a mais, o Apóstolo admoesta-nos a ter ordem em todas as coisas.
+[23] Indicar, agora, quais são os ministros deste Sacramento, não é somente útil, mas até necessário: de um lado, para que os primeiros encarregados de tal ministério o exerçam com santo respeito; de outro lado, para que ninguém se ponha fora de suas atribuições, envolvendo-se afoitamente em direitos alheios, e lesando-os com presunção. De mais a mais, o Apóstolo admoesta-nos a ter ordem em todas as coisas.
 
 Os fiéis devem, pois, saber que há três categorias de ministros. À primeira pertencem os Bispos e sacerdotes. Compete-lhes batizar, por direito inerente ao seu ministério, e não por faculdade extraordinária.
 
@@ -158,7 +158,7 @@ A segunda categoria de ministros são os diáconos. Não podem, todavia, batizar
 
 Em caso de necessidade, até os judeus, os infiéis, e os hereges podem exercer este ministério, contanto que se proponham a fazer o que faz a Igreja Católica, quando confere o Batismo.
 
-Esta doutrina é confirmada por muitas determinações dos Santos Padres e dos Concílios. O Sagrado Concílio de Trento lançou formal anátema contra quem ousasse afirmar que não é verdadeiro o Batismo, que um herege administre em nome do Padre, e do Filho, e do Espírito Santo, com a intenção de fazer o que faz a Igreja.
+Esta doutrina é confirmada por muitas determinações dos Santos Padres e dos Concílios. O Sagrado Concílio de Trento lançou formal anátema contra quem ousasse afirmar que não é verdadeiro o Batismo, que um herege administre em nome do Pai, e do Filho, e do Espírito Santo, com a intenção de fazer o que faz a Igreja.
 
 E nisso devemos, realmente, admirar a suma bondade e sabedoria de Nosso Senhor. Como todos os homens estão estritamente obrigados a receber este Sacramento, [Nosso Senhor] escolheu a água como matéria dele, por ser a coisa mais comum que pode haver; e não quis, tampouco, excluir ninguém como ministro de sua válida administração.
 
@@ -192,13 +192,13 @@ Esta opinião tem a seu favor a autoridade de Santo Higino.
 
 [27] Além disso, devem os pastores instruir os fiéis acerca das obrigações de padrinho. Este cargo está sendo muito descuidado na Igreja. O nome, vazio de sentido, já parece exprimir uma simples formalidade. Muitos fiéis nem vislumbram o que nele há de sagrado.
 
-No entanto, todo padrinho deve lembrar-se que sua obrigação principal é velar sempre pelos filhos espirituais: orientá-los em tudo quanto se refira à vida cristã; empenhá-los, enfim, a moldarem todos os seus atos na solene promessa que o padrinho fizera por eles, durante as cerimônias do Batismo. Ouçamos o que São Dionísio escreve a esse respeito, interpretando as declarações do padrinho: "Logo que esta criança possa entender a Religião, eu prometo persuadi-la e exortá-la, com toda a instância, a renunciar categòricamente a tudo o que se oponha à virtude; e a cumprir assim, por palavras e obras, a santa promessa que acaba de fazer".
+No entanto, todo padrinho deve lembrar-se que sua obrigação principal é velar sempre pelos filhos espirituais: orientá-los em tudo quanto se refira à vida cristã; empenhá-los, enfim, a moldarem todos os seus atos na solene promessa que o padrinho fizera por eles, durante as cerimônias do Batismo. Ouçamos o que São Dionísio escreve a esse respeito, interpretando as declarações do padrinho: "Logo que esta criança possa entender a Religião, eu prometo persuadi-la e exortá-la, com toda a instância, a renunciar categoricamente a tudo o que se oponha à virtude; e a cumprir assim, por palavras e obras, a santa promessa que acaba de fazer".
 
 Santo Agostinho externa-se no mesmo sentido: "Antes de tudo, eu vos exorto a todos, homens e mulheres, que levastes afilhados à pia batismal, para ficardes sabendo que, diante de Deus, vos fizestes fiadores por aqueles que, à vista de todo o povo, haveis recebido da fonte batismal".
 
 Na verdade, quem assume algum encargo, tem o grande dever de honra de não fraquejar em sua fiel execução. Ora, quem públicamente se obrigou a ser mestre e protetor de alguém, não poderá, de modo algum, abandonar aquele que tomou debaixo de sua fiança e proteção, enquanto vir que ele precisa de sua valia e assistência.
 
-Numa instrução sobre os deveres dos padrinhos, Santo Agostinho resume, em poucas palavras, o que hão de ensinar a seus filhos espirituais: "Devem exortá-los, diz ele, a guardar a castidade, amar a justiça, e exercer a caridade. Devem, antes de tudo, ensinar-lhes o Credo, o Padre-Nosso, o Decálogo, bem como as noções mais rudimentares da Religião cristã".
+Numa instrução sobre os deveres dos padrinhos, Santo Agostinho resume, em poucas palavras, o que hão de ensinar a seus filhos espirituais: "Devem exortá-los, diz ele, a guardar a castidade, amar a justiça, e exercer a caridade. Devem, antes de tudo, ensinar-lhes o Credo, o Pai-Nosso, o Decálogo, bem como as noções mais rudimentares da Religião cristã".
 
 [28] Diante de tais normas, fácil é distinguirmos a que pessoas não se pode confiar o exercício desta santa tutela. São as que não querem cumpri-la fielmente, ou que não podem desempenhá-la com zelo e perfeição.
 
@@ -228,7 +228,7 @@ Os pastores, portanto, devem ensinar que é rigorosa obrigação batizar as cria
 
 [32] Não padece dúvida que as crianças, ao serem batizadas, recebem de fato o Sacramento da fé, não porque creiam por ato pessoal de sua inteligência, mas porque são assistidas pela fé dos próprios pais, se estes forem cristãos; em todo o caso, pela fé de toda a agremiação dos Santos, se assim quisermos afirmar com Santo Agostinho. Na verdade, podemos dizer que as crianças são levadas ao Batismo por todos aqueles que desejam vê-las batizadas, e que por sua caridade ajudam a serem admitidas na comunhão do Espírito Santo.
 
-[33] Sendo assim, é preciso exortar sèriamente os fiéis a levarem seus filhinhos à igreja, logo que possam fazê-lo sem perigo, para ali receberem o Batismo solene. Para as crianças, o único meio de salvação é a administração do Batismo. Compreende-se, pois, que grave é a culpa de quem as deixa sem a graça deste Sacramento, por mais tempo do que seja estritamente necessário. O motivo principal é que, nesse período precário, a vida da criança fica exposta a uma infinidade de perigos.
+[33] Sendo assim, é preciso exortar seriamente os fiéis a levarem seus filhinhos à igreja, logo que possam fazê-lo sem perigo, para ali receberem o Batismo solene. Para as crianças, o único meio de salvação é a administração do Batismo. Compreende-se, pois, que grave é a culpa de quem as deixa sem a graça deste Sacramento, por mais tempo do que seja estritamente necessário. O motivo principal é que, nesse período precário, a vida da criança fica exposta a uma infinidade de perigos.
 
 [34] Manda a praxe antiga da Igreja que se proceda de outra maneira com pessoas adultas, já em pleno uso da razão, mormente com pessoas oriundas de pais infiéis. Em primeiro lugar, é preciso explicar-lhes as verdades cristãs.
 
@@ -244,6 +244,8 @@ Privam-se, ainda por cima, do fruto principal que recebemos do próprio Batismo.
 
 De outro lado, essa dilação acarreta muitas vantagens. Antes de tudo, porque a Igreja deve tomar todas as precauções, para que ninguém receba este Sacramento por disfarce ou hipocrisia. A demora permite-lhe averiguar melhor as intenções do batizando. Por isso, lemos nos antigos Concílios uma disposição, segundo a qual os judeus, desejosos de abraçar a fé católica, deviam fazer alguns meses de catecumenato, antes de serem admitidos à regeneração do Batismo.
 
+Em segundo lugar, porque assim os catecúmenos adquirem uma noção mais nítida da fé que vão professar, e de todas as leis e normas que regem a vida cristã.
+
 Como última razão, podemos alegar o maior culto religioso que se tributa ao Sacramento, porquanto os catecúmenos só recebem o Batismo em dias determinados, com todo o esplendor das cerimônias litúrgicas.
 
 [36] De vez em quando, há razões de peso para não se diferir a administração do Batismo, como acontece em perigo de vida iminente, sobretudo se os batizandos já estão bem instruídos nos mistérios da fé.
@@ -254,7 +256,7 @@ Assim procederam [o diácono] Filipe e o Príncipe dos Apóstolos. Aquele batizo
 
 [37] É forçoso também ensinar e explicar ao povo, em que disposições devem as pessoas apresentar-se, para a recepção do Batismo.
 
-A primeira é que tenham desejo e vontade de serem batizadas. Já que pelo Batismo o homem morre ao pecado, e começa uma vida nova, é justo que o Batismo não seja conferido a quem o recusa e repele, mas tão sòmente aos que o aceitam com prazer e boa vontade.
+A primeira é que tenham desejo e vontade de serem batizadas. Já que pelo Batismo o homem morre ao pecado, e começa uma vida nova, é justo que o Batismo não seja conferido a quem o recusa e repele, mas tão somente aos que o aceitam com prazer e boa vontade.
 
 Por isso, vemos sempre observada a santa tradição de nunca se conferir o Batismo a quem quer que seja, sem lhe perguntar antes se deseja [realmente] ser batizado. Nem das crianças se pode afirmar que lhes falte tal intenção, porque nesse ponto manifesta é a vontade da Igreja, que por elas responde.
 
@@ -308,7 +310,7 @@ São Gregório sustenta a mesma opinião, porquanto escreve: "Dizem alguns que, 
 
 [43] Quem quiser contemplar uma imagem concreta desta realidade, ponha-se a refletir na história de Naamã, o Sírio leproso. Depois de se ter banhado sete vezes nas águas do Jordão, de tal modo ficou limpo da lepra, que sua pele, como diz a Escritura, se assemelhava à pele de uma criancinha.
 
-Daí nasce que o efeito pròpriamente dito do Batismo é a remissão total dos pecados, quer do original, quer dos pessoais, contraídos por malícia nossa. Para esse fim é que Nosso Senhor e Salvador instituiu o Batismo, conforme o declarou o Príncipe dos Apóstolos, com toda a evidência: "Convertei-vos, e faça-se cada um de vós batizar em nome de Jesus Cristo, para a remissão dos pecados". E aqui não faremos menção de outros testemunhos.
+Daí nasce que o efeito propriamente dito do Batismo é a remissão total dos pecados, quer do original, quer dos pessoais, contraídos por malícia nossa. Para esse fim é que Nosso Senhor e Salvador instituiu o Batismo, conforme o declarou o Príncipe dos Apóstolos, com toda a evidência: "Convertei-vos, e faça-se cada um de vós batizar em nome de Jesus Cristo, para a remissão dos pecados". E aqui não faremos menção de outros testemunhos.
 
 [44] No Batismo, Deus não só remite os pecados, mas por um efeito de sua bondade perdoa também todas as penas de nossos pecados e iniquidades.
 
@@ -374,7 +376,7 @@ Ora, esta linguagem indica abertamente que, se Cristo não pode morrer segunda v
 
 Vê-se que isso condiz, de todo o ponto, com a natureza e a razão de ser do Sacramento, porquanto o Batismo constitui uma espécie de regeneração espiritual. Ora, pela lei da natureza, somos gerados e nascemos uma só vez, e, como diz Santo Agostinho, não nos é possível tornar ao seio materno. Assim também, só pode haver uma só geração espiritual, e o Batismo não deve jamais ser repetido.
 
-[55] Na dúvida, se uma pessoa já foi batizada, não se deve julgar que a Igreja repita o Batismo, quando lho administra pela fórmula seguinte: "Se estás batizado, eu não te batizo de novo; mas, se não estás batizado, eu te batizo em nome do Padre, e do Filho, e do Espírito Santo". Não se trata, portanto, de uma pecaminosa repetição, mas de uma santa administração do Batismo, em forma condicional.
+[55] Na dúvida, se uma pessoa já foi batizada, não se deve julgar que a Igreja repita o Batismo, quando lho administra pela fórmula seguinte: "Se estás batizado, eu não te batizo de novo; mas, se não estás batizado, eu te batizo em nome do Pai, e do Filho, e do Espírito Santo". Não se trata, portanto, de uma pecaminosa repetição, mas de uma santa administração do Batismo, em forma condicional.
 
 [56] Nesta matéria, devem os pastores atender a um ponto, contra o qual se peca quase todos os dias, com grave profanação do Sacramento.
 
@@ -400,7 +402,7 @@ Até certo ponto, podemos aplicar aos ritos e cerimônias [sacramentais] o que o
 
 Ora, os ritos e cerimônias são imagens e sinais daquilo que se opera nos Sacramentos. Se o povo cristão ignorar o sentido e o alcance desses sinais, é claro que para ele não pode ser muita a utilidade das cerimônias.
 
-Devem, pois, os pastores empenhar-se em que os fiéis as compreendam, convencidos de que as cerimônias, apesar de menos essenciais, são muito valiosas e dignas do maior apreço e veneração. Em prova desta afirmativa, basta a autoridade de quem as instituiu — e foram inegàvelmente os Apóstolos — bem como o fim para o qual eles as queriam aplicadas.
+Devem, pois, os pastores empenhar-se em que os fiéis as compreendam, convencidos de que as cerimônias, apesar de menos essenciais, são muito valiosas e dignas do maior apreço e veneração. Em prova desta afirmativa, basta a autoridade de quem as instituiu — e foram inegavelmente os Apóstolos — bem como o fim para o qual eles as queriam aplicadas.
 
 É evidente que, por meio das cerimônias, a administração dos Sacramentos se reveste de maior respeito e santidade. Elas põem quase que à vista os admiráveis e grandiosos efeitos, que se ocultam no Sacramento; e fazem também calar mais ao vivo, no ânimo dos fiéis, a infinita grandeza dos benefícios de Deus.
 
@@ -418,7 +420,7 @@ Os batizandos são carregados ou conduzidos à entrada da igreja, mas não podem
 
 [62] Em seguida, o sacerdote pergunta-lhes o que pretendem da Igreja. Recebida a resposta, expõe-lhes primeiro a doutrina da fé cristã, que no Batismo deverão professar.
 
-Esta instrução, porém, se faz em forma de catecismo. É uma praxe que se estriba, inegavelmente, naquele preceito que Nosso Senhor dera aos Apóstolos: "Ide pelo mundo universo, e ensinai todos os povos. Batizai-os em nome do Padre, e do Filho, e do Espírito Santo, ensinando-os a observarem tudo o que vos tenho mandado".
+Esta instrução, porém, se faz em forma de catecismo. É uma praxe que se estriba, inegavelmente, naquele preceito que Nosso Senhor dera aos Apóstolos: "Ide pelo mundo universo, e ensinai todos os povos. Batizai-os em nome do Pai, e do Filho, e do Espírito Santo, ensinando-os a observarem tudo o que vos tenho mandado".
 
 Mostra-nos esta ordem que o Batismo não deve ser conferido, antes de se fazer, pelo menos, uma breve exposição dos principais artigos de nossa Religião.
 
@@ -442,11 +444,11 @@ Em termos precisos, faz o sacerdote três perguntas ao batizando: "Renuncias a S
 
 Quem quer, pois, alistar-se nas fileiras de Cristo, deve antes de tudo prestar o santo e inviolável compromisso de que há de renunciar ao demônio e ao mundo, e que nunca em sua vida deixará de odiá-los como os seus mais terríveis inimigos.
 
-Parando depois junto à pia batismal, o sacerdote interroga o candidato nestes termos: "Crês em Deus Padre Todo-Poderoso?" Ao que o batizando responde: "Creio". Interrogado a seguir acerca dos outros artigos do Símbolo, ele faz assim por diante uma solene profissão de sua fé.
+Parando depois junto à pia batismal, o sacerdote interroga o candidato nestes termos: "Crês em Deus Pai Todo-Poderoso?" Ao que o batizando responde: "Creio". Interrogado a seguir acerca dos outros artigos do Símbolo, ele faz assim por diante uma solene profissão de sua fé.
 
 Não se pode negar que este duplo compromisso abrange em si todos os princípios do dogma e da moral cristã.
 
-[69] Chegado, portanto, o momento de conferir o Batismo, o sacerdote pergunta ao candidato se quer ser batizado. Afirmando este a sua vontade, quer por si mesmo, quer por intermédio do padrinho, quando se trata de um infante, o sacerdote logo o batiza em nome do Padre, e do Filho, e do Espírito Santo.
+[69] Chegado, portanto, o momento de conferir o Batismo, o sacerdote pergunta ao candidato se quer ser batizado. Afirmando este a sua vontade, quer por si mesmo, quer por intermédio do padrinho, quando se trata de um infante, o sacerdote logo o batiza em nome do Pai, e do Filho, e do Espírito Santo.
 
 Assim como o homem por sua vontade obedeceu à serpente, e por própria culpa mereceu a condenação, assim também não quer Nosso Senhor admiti-lo em Sua milícia, senão como soldado voluntário, que consiga a salvação eterna por livre obediência aos Preceitos Divinos.
 

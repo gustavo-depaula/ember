@@ -8,7 +8,7 @@
 
 Este ensinamento tinha a vantagem não só de corrigir um vício, que era muito vulgar naqueles tempos, mas também de extirpar rixas e demandas, e outros males que o furto costuma provocar.
 
-Ora, nossa época, ainda mal, sofre dos mesmos vícios e suas funestas consequências. Por isso, a exemplo dos Santos Padres e dos mestres da disciplina cristã, devem os párocos insistir nessa passagem da Bíblia, pondo todo o esforço em explicar, assìduamente, o sentido e o alcance do presente Mandamento.
+Ora, nossa época, ainda mal, sofre dos mesmos vícios e suas funestas consequências. Por isso, a exemplo dos Santos Padres e dos mestres da disciplina cristã, devem os párocos insistir nessa passagem da Bíblia, pondo todo o esforço em explicar, assiduamente, o sentido e o alcance do presente Mandamento.
 
 Em primeiro lugar, farão por explicar o infinito amor de Deus para com o gênero humano, porquanto Deus — depois de colocar as duas proibições: "Não matarás" e "Não cometerás adultério" como baluartes para defender nossa vida, nosso corpo, nossa honra e reputação — quis também guardar e proteger nossos bens de fortuna pelo preceito: "Não furtarás", que lhes serve de proteção e segurança.[^446]
 
@@ -26,7 +26,7 @@ Começaremos, pois, pela primeira parte: "Não furtarás".
 
 ## II. Cláusula proibitiva
 
-### 1. Furto
+### 1. Furto e roubo:
 
 [3] Advertimos, desde já, que por furto não se entende apenas o tirar alguma coisa às ocultas[^448], contra a vontade do dono, mas também o possuir alguma coisa alheia, contra a vontade do dono, que disso tem conhecimento.
 
@@ -38,7 +38,7 @@ O roubo é pecado mais grave do que o furto. Além de tirar o alheio, faz violê
 
 De mais a mais, ninguém desconhece que, pela proibição das faltas mais leves, são implicitamente proibidas também as faltas mais graves da mesma espécie.
 
-### b) Gêneros comuns de furto: extorsão
+### b) gêneros comuns de furto e roubo
 
 [5] A usurpação e injusta retenção de coisas alheias tomam vários nomes, conforme a natureza daquilo que se tira contra a vontade e sem o conhecimento do próprio dono.
 
@@ -74,7 +74,7 @@ Quando, todavia, não logramos de modo algum descobrir o legítimo dono, tais ob
 
 #### b) enganar em compras e vendas
 
-Igual pecado cometem os que enganam em vendas e compras, e fazem falsa fé comercial. Nosso Senhor punirá tais fraudes.
+Igual pecado cometem os que enganam em vendas e compras, e fazem falsa propaganda comercial. Nosso Senhor punirá tais fraudes.
 
 Mais arteiros e maliciosos para roubar são os que vendem, por bons e verdadeiros, artigos falsos e avariados; os que enganam os fregueses em peso, medida, número e cumprimento. Pois no Deuteronômio está escrito: "Não terás no bolso pesos diversos".[^457] E no Levítico: "Não façais injustiça na aferição, na medida de comprimento, no peso, na medida de capacidade. Seja justa a balança, justos os pesos, justo o alqueire, justo o quartilho".[^458] E há ainda outra passagem: "Usar dois pesos é uma abominação diante de Deus. Não é boa a balança fraudulenta".[^459]
 
@@ -102,7 +102,7 @@ Iria longe, e, como já dissemos, muito difícil seria destrinçar todas as esp�
 
 #### a) Não pagar o salário devido
 
-Como vemos, a noção do roubo é muito ampla. São ladrões, por exemplo, os que não pagam aos operários o salário devido. Santiago convida-os à penitência naquela célebre passagem: "Eia, pois, vós que sois ricos, chorai, em altos brados, as misérias que estão para vos sobressaltar".[^463] E logo acrescenta o motivo que há para tal penitência: "Pois o salário que injustamente negastes aos trabalhadores, que segaram vossos campos, está clamando contra vós; e o clamor dos ceifeiros chegou aos ouvidos do Senhor dos exércitos".[^464] Esse modo de roubar é objeto de forte censura no Levítico, no Deuteronômio, em Malaquias, e em Tobias.[^465]
+Como vemos, a noção do roubo é muito ampla. São ladrões, por exemplo, os que não pagam aos operários o salário devido. São Tiago convida-os à penitência naquela célebre passagem: "Eia, pois, vós que sois ricos, chorai, em altos brados, as misérias que estão para vos sobressaltar".[^463] E logo acrescenta o motivo que há para tal penitência: "Pois o salário que injustamente negastes aos trabalhadores, que segaram vossos campos, está clamando contra vós; e o clamor dos ceifeiros chegou aos ouvidos do Senhor dos exércitos".[^464] Esse modo de roubar é objeto de forte censura no Levítico, no Deuteronômio, em Malaquias, e em Tobias.[^465]
 
 #### b) não pagar impostos, dízimos
 
@@ -122,11 +122,11 @@ Até entre os pagãos, este pecado foi sempre tido como gravíssimo e sobremanei
 
 #### e) especular ou calotear
 
-Serão condenados, pelo mesmo crime de roubo, os especuladores de crédito e os caloteiros que, usando de crédito próprio ou alheio, fazem compras a prazo determinado, e não solvem os seus compromissos. Tal crime se torna muito mais grave, porquanto os negociantes se prevalecem desta falta de palavra e seriedade, para venderem tudo mais caro, com grande detrimento do povo em geral. Contra eles parece aplicar-se o conceito de David: "O pecador pede emprestado e não restitui".[^471]
+Serão condenados, pelo mesmo crime de roubo, os especuladores de crédito e os caloteiros que, usando de crédito próprio ou alheio, fazem compras a prazo determinado, e não solvem os seus compromissos. Tal crime se torna muito mais grave, porquanto os negociantes se prevalecem desta falta de palavra e seriedade, para venderem tudo mais caro, com grande detrimento do povo em geral. Contra eles parece aplicar-se o conceito de Davi: "O pecador pede emprestado e não restitui".[^471]
 
 #### f) executar sem dó devedores insolventes
 
-[13] Que dizemos dos ricos que, sem dó, executam os credores insolventes, e, contra a proibição de Deus, tiram-lhes como penhor o que eles precisam para cobrir o corpo? Ora, Deus falou assim: "Se tomaste do teu próximo uma peça de roupa como penhor, tu lha restituirás, antes que o sol se ponha. Pois ela é a sua única cobertura, o resguardo de seu corpo, e [o pobre] não tem outra com que dormir. Se ele clamar por Mim, hei de atendê-lo, porque Eu sou misericordioso".[^472]
+[13] Que dizemos dos ricos que, sem dó, executam os devedores insolventes, e, contra a proibição de Deus, tiram-lhes como penhor o que eles precisam para cobrir o corpo? Ora, Deus falou assim: "Se tomaste do teu próximo uma peça de roupa como penhor, tu lha restituirás, antes que o sol se ponha. Pois ela é a sua única cobertura, o resguardo de seu corpo, e [o pobre] não tem outra com que dormir. Se ele clamar por Mim, hei de atendê-lo, porque Eu sou misericordioso".[^472]
 
 Essa maneira cruel de executar chama-se, com razão, rapacidade. Por isso mesmo, dizemos que é crime de ladroeira.
 
@@ -158,7 +158,7 @@ A terceira categoria se compõe dos que são solidários com os ladrões.
 
 #### d) quem participa
 
-A quarta categoria é daqueles que tomam parte nos furtos e disso auferem lucro; se é que se pode chamar lucro ao que os arrastará aos eternos suplícios, caso não façam antes penitência. Desses tais falava David: "Quando vias um ladrão, logo andavas com ele".[^477]
+A quarta categoria é daqueles que tomam parte nos furtos e disso auferem lucro; se é que se pode chamar lucro ao que os arrastará aos eternos suplícios, caso não façam antes penitência. Desses tais falava Davi: "Quando vias um ladrão, logo andavas com ele".[^477]
 
 #### e) quem não impede
 
@@ -176,7 +176,7 @@ A última categoria abrange todos os que prestam auxílio aos ladrões, os que o
 
 Afinal, não se escoimam absolutamente deste pecado os que aprovam ou louvam furtos cometidos. Incorrem, também, na mesma culpa, os filhos e as esposas que, às ocultas, tiram dinheiro de seus pais ou maridos.
 
-### 2. O papel da esmola
+### 2. O papel social da propriedade:
 
 #### a) Subentendido pelo preceito
 
@@ -194,7 +194,7 @@ Estas duas sentenças, Cristo Nosso Senhor as proferiu de própria boca: "Vinde,
 
 #### d) Modalidades da esmola — dar emprestado
 
-Não deixem igualmente de explicar as várias modalidades de se cumprir esta obra obrigatória. Os que não podem dar aos pobres o necessário para viverem, devem pelo menos emprestar-lhes o que precisam, conforme a ordem de Cristo Nosso Senhor: "Emprestai, sem esperar retribuição".[^484] A felicidade de quem assim procede, David a descreve com as palavras: "Ditoso o homem que se compadece, e dá emprestado".[^485]
+Não deixem igualmente de explicar as várias modalidades de se cumprir esta obra obrigatória. Os que não podem dar aos pobres o necessário para viverem, devem pelo menos emprestar-lhes o que precisam, conforme a ordem de Cristo Nosso Senhor: "Emprestai, sem esperar retribuição".[^484] A felicidade de quem assim procede, Davi a descreve com as palavras: "Ditoso o homem que se compadece, e dá emprestado".[^485]
 
 #### trabalhar pelos pobres
 
@@ -204,7 +204,7 @@ Não deixem igualmente de explicar as várias modalidades de se cumprir esta obr
 
 [19] É preciso também levar uma vida frugal, e não abusar dos bens alheios, para não sermos pesados ou molestos aos outros.
 
-Essa temperança se manifesta, inegàvelmente, em todos os Apóstolos, mas rebrilha de modo particular em São Paulo, que assim escreve aos Tessalonicenses: "Estareis lembrados, meus irmãos, de nossos trabalhos e fadigas. Trabalhávamos dia e noite, para não sermos pesados a nenhum de vós. Foi assim que vos anunciamos o Evangelho de Deus".[^489] O mesmo reafirma ele noutro lugar: "Noite e dia trabalhamos, com esforço e fadiga, para não incomodar nenhum de vós".[^490]
+Essa temperança se manifesta, inegavelmente, em todos os Apóstolos, mas rebrilha de modo particular em São Paulo, que assim escreve aos Tessalonicenses: "Estareis lembrados, meus irmãos, de nossos trabalhos e fadigas. Trabalhávamos dia e noite, para não sermos pesados a nenhum de vós. Foi assim que vos anunciamos o Evangelho de Deus".[^489] O mesmo reafirma ele noutro lugar: "Noite e dia trabalhamos, com esforço e fadiga, para não incomodar nenhum de vós".[^490]
 
 ## IV. Motivação do Preceito
 
@@ -246,7 +246,7 @@ De mais a mais, qual vantagem pode resultar do furto, se por sua natureza acarre
 
 #### d) dos que roubam por hábito
 
-Na opinião de outros, deve admitir-se como desculpa que, adquirido o hábito de furtar, a pessoa já não pode fàcilmente desistir de tal intento e obra. Ora, se não tomarem a peito a advertência do Apóstolo: "Quem furtava, deixe de furtar"[^496] — esses terão de habituar-se, queiram ou não queiram, aos eternos suplícios do inferno.
+Na opinião de outros, deve admitir-se como desculpa que, adquirido o hábito de furtar, a pessoa já não pode facilmente desistir de tal intento e obra. Ora, se não tomarem a peito a advertência do Apóstolo: "Quem furtava, deixe de furtar"[^496] — esses terão de habituar-se, queiram ou não queiram, aos eternos suplícios do inferno.
 
 #### e) dos que roubam só na ocasião
 
@@ -270,7 +270,7 @@ Restam, ainda, outros subterfúgios. Mas, pela prudência e o zelo próprio do s
 
 [^444]: Exod 20, 15.
 [^445]: Rom 2, 21.
-[^446]: Pròpriamente, são três as proibições, porque a honra e reputação é defendida pela proibição do VIII Mandamento: "Não levantarás falso testemunho".
+[^446]: Propriamente, são três as proibições, porque a honra e reputação é defendida pela proibição do VIII Mandamento: "Não levantarás falso testemunho".
 [^447]: Thom. 1 2 q. 100 art. 3; 2 2 q. 122 art. 6.
 [^448]: O que corresponde, na linguagem do povo, ao sentido do verbo "surripiar".
 [^449]: 1 Cor 6, 10.
@@ -287,22 +287,22 @@ Restam, ainda, outros subterfúgios. Mas, pela prudência e o zelo próprio do s
 [^460]: 1 Tim 6, 9.
 [^461]: Mt 7, 12.
 [^462]: Tob 4, 16.
-[^463]: Iac 5, 1.
-[^464]: Iac 5, 4.
-[^465]: Lev 19, 13; Deut 24, 14 ss; Mal 3, 5; Tob 4, 15.
+[^463]: Tg 5, 1.
+[^464]: Tg 5, 4.
+[^465]: Lv 19, 13; Dt 24, 14 ss; Ml 3, 5; Tb 4, 15.
 [^466]: Hoje, empregamos o termo "juros" em lugar de "usura".
 [^467]: Ezech 18, 17. No contexto, o Profeta se refere ao bom filho de um pai mau. O versículo termina assim: "... este não morrerá por causa da iniquidade de seu pai, mas certìssimamente viverá".
 [^468]: Lc 6, 35.
 [^469]: Ambros. cap. 14 de Tobia, citando Cicero "De officiis", cap. 2.
 [^470]: O CRO reproduz aqui a antiga teoria, hoje radicalmente modificada, em consequência das transformações econômicas, do século XVI a esta parte.
-[^471]: Ps 36, 21.
+[^471]: Sl 36, 21.
 [^472]: Exod 22, 26 ss.
 [^473]: Cfr. o câmbio ou mercado negro de hoje.
 [^474]: Prov 11, 26.
 [^475]: Aug. epist. 153 c. 6 (Gatterer cita 153 c. 20).
 [^476]: São os mandantes.
 [^477]: Ps 49, 18.
-[^478]: O CRO intercala aqui três parágrafos sobre a esmola. Lògicamente, devia seguir-se o assunto tratado mais adiante nos §§ 20 ss.
+[^478]: O CRO intercala aqui três parágrafos sobre a esmola. Logicamente, devia seguir-se o assunto tratado mais adiante nos §§ 20 ss.
 [^479]: Cypr. in libr. de opere et eleemosyna; Chrysost. homil 32 ad pop. Antiochenum et homil. 33 et 34 in Matthaeum; vide etiam homil. 16 ss. ad populum Antiochenum. Greg. Naz. orat. 16 de pauperum amore; Aug. serm. 50 et 227 de tempore; item homil. 18 19 ss.
 [^480]: Mt 25, 34-41.
 [^481]: Lc 6, 38.
@@ -316,7 +316,7 @@ Restam, ainda, outros subterfúgios. Mas, pela prudência e o zelo próprio do s
 [^489]: 1 Thess 2, 9.
 [^490]: 2 Thess 3, 8; Act 20, 34; 1 Cor 4, 12.
 [^491]: Amos 8, 4 ss.
-[^492]: Jer 7, 8 ss.; Prov 21, 6; 22, 16; Eccl 10, 9 ss.; 31; 35, 17.
+[^492]: Jr 7, 8 ss.; Pr 21, 6; 22, 16; Sr 10, 9 ss.; 31; 35, 17.
 [^493]: Se era assim no século XVI, que dizer do século XX?
 [^494]: Is 1, 23 ss.; veja-se o contexto desde o versículo 21. Vide etiam Conc. Trid. XXII decret. de reformatione c. 11.
 [^495]: Eccli 5, 17.

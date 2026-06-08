@@ -8,7 +8,7 @@
 
 [1] Este Preceito do Decálogo regula o culto externo, que devemos a Deus. Vem a propósito neste lugar, porque esse culto é, de certo modo, um fruto do Preceito anterior. De fato, não podemos deixar de render exteriormente culto e ação de graças Àquele que a fé e a esperança nos levam a venerar, amorosamente, no fundo do coração.
 
-Ora, como esse dever não pode ser facilmente cumprido, enquanto nos deixamos absorver por negócios e interesses humanos, foi marcado um tempo fixo, para que se possam còmodamente satisfazer as obrigações do culto externo.
+Ora, como esse dever não pode ser facilmente cumprido, enquanto nos deixamos absorver por negócios e interesses humanos, foi marcado um tempo fixo, para que se possam comodamente satisfazer as obrigações do culto externo.
 
 ### 2. pelo teor de suas palavras
 
@@ -18,7 +18,7 @@ Para lhe inflamar o zelo e entusiasmo, há uma grande força expressa nas primei
 
 ### 3. pela influência nos outros mandamentos
 
-O quanto aproveita aos fiéis respeitar este Preceito, transparece do fato de que sua exata observância induz, mais fàcilmente, os fiéis a guardarem os outros Preceitos do Decálogo. Dentre as mais obrigações prescritas em dias santos, uma é reunirem-se os fiéis na igreja, para escutar a palavra de Deus. Assim, quando conhecerem plenamente as prescrições divinas[^223], conseguirão também observar a Lei do Senhor de todo o coração.[^224]
+O quanto aproveita aos fiéis respeitar este Preceito, transparece do fato de que sua exata observância induz, mais facilmente, os fiéis a guardarem os outros Preceitos do Decálogo. Dentre as mais obrigações prescritas em dias santos, uma é reunirem-se os fiéis na igreja, para escutar a palavra de Deus. Assim, quando conhecerem plenamente as prescrições divinas[^223], conseguirão também observar a Lei do Senhor de todo o coração.[^224]
 
 Por esse motivo, a Sagrada Escritura ordena muitas vezes a celebração e santificação do sábado, como nos é dado verificar no Êxodo, Levítico, Deuteronômio, nos profetas Isaías, Jeremias e Ezequiel.[^225] Em todos esses lugares se fala da obrigação de guardar o sábado.[^226]
 
@@ -38,7 +38,7 @@ O Preceito, porém, de observar o sábado, no que refere à determinação do te
 
 [5] O tempo em que se devia ab-rogar a observância do sábado como tal, coincide com a época em que deviam também caducar os demais ritos e cerimônias hebraicas, quer dizer, por ocasião da Morte de Cristo.
 
-Essas cerimônias eram como que pálidas imagens da luz e da verdade. Força era, portanto, que desvanecessem ao raiar a própria luz e verdade, que é Jesus Cristo.[^228] Nesse sentido é que São Paulo escreveu aos Gálatas, repreendendo os que observavam o rito mosaico: "Observais os dias e os meses, os tempos e os anos. Receio, pois, ter trabalhado entre vós inùtilmente".[^229] A mesma declaração fez ele na epístola aos Colossenses.[^230]
+Essas cerimônias eram como que pálidas imagens da luz e da verdade. Força era, portanto, que desvanecessem ao raiar a própria luz e verdade, que é Jesus Cristo.[^228] Nesse sentido é que São Paulo escreveu aos Gálatas, repreendendo os que observavam o rito mosaico: "Observais os dias e os meses, os tempos e os anos. Receio, pois, ter trabalhado entre vós inutilmente".[^229] A mesma declaração fez ele na epístola aos Colossenses.[^230]
 
 Tanto basta dizer acerca da diferença.
 
@@ -156,7 +156,7 @@ Além disso, manda o Senhor, em virtude deste Preceito, fazer nossos trabalhos n
 
 Pois, diz o Senhor: "Não farás nesse dia trabalho algum, nem tu, nem teu filho, nem tua filha, nem teu servo, nem tua serva, nem teu animal de carga, nem o forasteiro que estiver dentro de tuas portas".[^261]
 
-Estas palavras nos ensinam, antes de tudo, a evitar categòricamente o que possa, de qualquer maneira, impedir a prática do culto divino.
+Estas palavras nos ensinam, antes de tudo, a evitar categoricamente o que possa, de qualquer maneira, impedir a prática do culto divino.
 
 É fácil reconhecer que se proíbe toda a espécie de obra servil, não porque seja indecorosa e má por natureza, mas porque distrai nosso espírito do culto a Deus, que é o fim determinado pelo Preceito.
 
@@ -190,9 +190,9 @@ Depois, é obrigação dos fiéis ouvirem a prédica com zelosa atenção. Nada 
 
 Além do mais, devem os fiéis adestrar-se na fervorosa prática da oração e louvor a Deus.
 
-Seja sua maior preocupação aprender, cuidadosamente, as regras da vida cristã, exercer-se nas obrigações da caridade, dando esmolas aos pobres e necessitados, visitando os enfermos, consolando os tristes e os oprimidos pela dor. Pois, como diz Santiago, "a religião pura e imaculada perante Deus Padre é esta: socorrer os órfãos e as viúvas em sua tribulação".[^268]
+Seja sua maior preocupação aprender, cuidadosamente, as regras da vida cristã, exercer-se nas obrigações da caridade, dando esmolas aos pobres e necessitados, visitando os enfermos, consolando os tristes e os oprimidos pela dor. Pois, como diz São Tiago, "a religião pura e imaculada perante Deus Pai é esta: socorrer os órfãos e as viúvas em sua tribulação".[^268]
 
-Do exposto, fàcilmente podemos inferir quais são as contravenções que se cometem contra a norma deste Preceito.
+Do exposto, facilmente podemos inferir quais são as contravenções que se cometem contra a norma deste Preceito.
 
 ### Corolário: Necessidade, para o pároco, de estudar a fundo a matéria
 
@@ -271,9 +271,9 @@ E muitas outras ideias atinentes ao assunto, um pároco bom e zeloso pode amplam
 [^262]: A circunstância de ser dia santo não acrescenta ao pecado uma malícia específica.
 [^263]: Subentende-se que o CRO fala de prejuízo grave.
 [^264]: O CIC fala da faculdade dos párocos para dispensar (cânon 1245 § 1).
-[^265]: Mt 12, 35; Jo 5, 8.
+[^265]: Mt 12, 3-5; Jo 5, 8.
 [^266]: Aqui é oportuna uma palavra sobre o trabalho dominical dos empregados domésticos.
 [^267]: CRO II V.
 [^268]: Jac 1, 27.
 [^269]: Mt 18, 17; Lc 10, 16; Jo 20, 21; Hb 13, 17.
-[^270]: <!-- OCR-illegible: footnote anchor cut off at end of file -->
+[^270]: Nm 15, 35.

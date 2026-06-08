@@ -4,7 +4,7 @@
 
 ## Importância do Preceito
 
-[1] O quanto é útil e até necessário explicar bem este Preceito e insistir na observância de suas obrigações, mostra-nos a palavra autorizada de Santiago: "Quem não comete falta no falar, é um homem perfeito".[^500] E mais adiante: "A língua é um membro pequenino, mas pode gloriar-se de grandes proezas. Reparai como um fogo insignificante põe a arder uma grande floresta".[^501] E assim vai o Apóstolo discorrendo sobre o mesmo assunto.
+[1] O quanto é útil e até necessário explicar bem este Preceito e insistir na observância de suas obrigações, mostra-nos a palavra autorizada de São Tiago: "Quem não comete falta no falar, é um homem perfeito".[^500] E mais adiante: "A língua é um membro pequenino, mas pode gloriar-se de grandes proezas. Reparai como um fogo insignificante põe a arder uma grande floresta".[^501] E assim vai o Apóstolo discorrendo sobre o mesmo assunto.
 
 Duas coisas quer ele lembrar-nos. Primeiro, que o vício da má língua é muito espalhado. E o Profeta no-lo confirma com as palavras: "Todo homem é mentiroso".[^502] Parece ser o único pecado que se encontra em todos os homens.
 
@@ -50,13 +50,13 @@ Mas a própria testemunha fica sumamente comprometida, porque a considera falsa 
 
 Por último, Deus proíbe todo [falso] testemunho que possa acarretar incômodo ou detrimento a terceiros, quer seja proferido em juízo, quer fora dele. No Levítico, onde novamente se inculcam estas determinações, está expresso: "Não furtareis, não mentireis, e ninguém se ponha a enganar o seu próximo".[^510]
 
-Assim, ninguém pode duvidar de que Deus, por este Preceito, proíbe e condena toda espécie de mentira. David também o atesta com a maior evidência: "Deitarás a perder todos aqueles que falam mentira".[^511]
+Assim, ninguém pode duvidar de que Deus, por este Preceito, proíbe e condena toda espécie de mentira. Davi também o atesta com a maior evidência: "Deitarás a perder todos aqueles que falam mentira".[^511]
 
 ### Calúnia
 
 [8] Em virtude deste Preceito, proíbe-se não só o falso testemunho, mas também o abominável vício e costume de falar mal do próximo. Parece incrível, mas esta peste engendra os maiores e os mais graves danos e males.
 
-O mau vezo de falar do próximo às ocultas, em termos maléficos e depreciativos, é reprovado a cada passo nas Sagradas Escrituras. "Com tal pessoa, eu não comia", declara David.[^512] E Santiago recomenda: "Não faleis mal uns dos outros".[^513] Mas, além das prescrições, as Sagradas Escrituras aduzem exemplos que evidenciam a graveza deste pecado. Assim, Amã conseguiu, por falsas acusações, indispor de tal maneira o rei Assuero contra os judeus, que este deu ordem de matar todos os varões daquele povo.[^514] De tais exemplos estão repletas as Sagradas Escrituras. Os sacerdotes dar-se-ão, pois, ao trabalho de citá-los, para que os fiéis tenham horror ao tremendo pecado.
+O mau vezo de falar do próximo às ocultas, em termos maléficos e depreciativos, é reprovado a cada passo nas Sagradas Escrituras. "Com tal pessoa, eu não comia", declara Davi.[^512] E São Tiago recomenda: "Não faleis mal uns dos outros".[^513] Mas, além das prescrições, as Sagradas Escrituras aduzem exemplos que evidenciam a graveza deste pecado. Assim, Amã conseguiu, por falsas acusações, indispor de tal maneira o rei Assuero contra os judeus, que este deu ordem de matar todos os varões daquele povo.[^514] De tais exemplos estão repletas as Sagradas Escrituras. Os sacerdotes dar-se-ão, pois, ao trabalho de citá-los, para que os fiéis tenham horror ao tremendo pecado.
 
 ### Detração
 
@@ -78,19 +78,19 @@ São da mesma categoria os que, por seus enredos, desunem os homens, e assanham-
 
 Essa peste de homens, Nosso Senhor a detesta pelas seguintes palavras: "Não sejas caluniador, nem difamador no meio do povo".[^516]
 
-De tal jaez eram muitos dos conselheiros de Saul. Tentavam desviar-lhe a afeição por David, e indispô-lo como rei contra ele.[^517]
+De tal jaez eram muitos dos conselheiros de Saul. Tentavam desviar-lhe a afeição por Davi, e indispô-lo como rei contra ele.[^517]
 
 ### Lisonjear
 
 [11] Afinal, pecam nesta parte contra o Preceito os aduladores e lisonjeiros. Com blandícias e fingidos louvores, procuram insinuar-se nos ouvidos e no coração de pessoas influentes, das quais esperam proteção, dinheiro e honras. Como observa o Profeta, eles "ao que é mal chamam bem, e ao que é bem chamam mal".[^518]
 
-David nos exorta a arredar tais pessoas de nosso trato e convivência. São suas as palavras seguintes: "Pode o justo, por caridade, corrigir-me e exprobrar-me; mas o óleo do pecador não há de ungir a minha cabeça".[^519]
+Davi nos exorta a arredar tais pessoas de nosso trato e convivência. São suas as palavras seguintes: "Pode o justo, por caridade, corrigir-me e exprobrar-me; mas o óleo do pecador não há de ungir a minha cabeça".[^519]
 
 Ainda que nenhum mal digam do seu próximo, elas não deixam contudo de prejudicá-lo sobremaneira. Louvando-lhes os pecados, tornam-se causa de que o próximo neles persista até o fim da vida.
 
 ### Adulação aleivosa
 
-Mais prejudicial, em seu gênero, é a adulação que visa a desgraça e a ruína do próximo. Destarte, querendo expor David ao furor e à espada dos Filisteus, para que fosse morto, Saul o lisonjeava com estas palavras: "Aí está Merobe, minha filha mais velha. Eu ta darei por mulher, contanto que sejas valoroso, e faças as guerras do Senhor".[^520] De maneira idêntica, os Judeus dirigiram a Cristo as palavras insidiosas: "Mestre, sabemos que és verdadeiro, e que ensinas na verdade o caminho de Deus".[^521]
+Mais prejudicial, em seu gênero, é a adulação que visa a desgraça e a ruína do próximo. Destarte, querendo expor Davi ao furor e à espada dos Filisteus, para que fosse morto, Saul o lisonjeava com estas palavras: "Aí está Merobe, minha filha mais velha. Eu ta darei por mulher, contanto que sejas valoroso, e faças as guerras do Senhor".[^520] De maneira idêntica, os Judeus dirigiram a Cristo as palavras insidiosas: "Mestre, sabemos que és verdadeiro, e que ensinas na verdade o caminho de Deus".[^521]
 
 ### Iludir moribundos
 
@@ -118,7 +118,7 @@ Tanto seja dito da primeira parte do Preceito, que é proibitiva.[^525] Daqui po
 
 [14] O objeto próprio desta segunda parte do Preceito é fazer que os tribunais exerçam a justiça de acordo com as leis, não desviando para si as causas, nem usurpando a respectiva jurisdição. Pois, como escreve o Apóstolo, não é lícito julgar um servo alheio[^526], para não se dar sentença sem pleno conhecimento de causa.
 
-Contra esse ponto, errou a assembléia de sacerdotes e escribas, que julgaram Santo Estêvão.[^527] O mesmo erro cometeram os magistrados de Filipos, dos quais escreveu o Apóstolo: "Sem processo algum nos mandaram açoitar publicamente e lançar no cárcere, a nós, que somos cidadãos romanos, e agora querem soltar-nos às escondidas".[^528]
+Contra esse ponto, errou a assembleia de sacerdotes e escribas, que julgaram Santo Estêvão.[^527] O mesmo erro cometeram os magistrados de Filipos, dos quais escreveu o Apóstolo: "Sem processo algum nos mandaram açoitar publicamente e lançar no cárcere, a nós, que somos cidadãos romanos, e agora querem soltar-nos às escondidas".[^528]
 
 Enfim, os juízes não condenem os inocentes[^529], nem absolvam os culpados, não se deixando levar pela cobiça, nem pelo respeito humano, nem pelo ódio, nem pela simpatia.
 
@@ -142,7 +142,7 @@ Resta falar-se, agora, dos autores e advogados, dos promotores e solicitadores.
 
 ### Deveres de outras partes
 
-[17] Nas ocasiões necessárias, não devem os primeiros negar às pessoas seu serviço e assistência profissional. De boa vontade assistirão aos pobres; não aceitarão a defesa de causas injustas; não devem protelar a ação com chicanas, nem paliá-las por avareza. A remuneração de seu esforço e trabalho seja, pois, determinada com justiça e equidade.
+[17] Nas ocasiões necessárias, não devem os primeiros negar às pessoas seu serviço e assistência profissional. De boa vontade assistirão aos pobres; não aceitarão a defesa de causas injustas; não devem protelar a ação com chicanas, nem paliá-las por avareza. A remuneração de seu esforço e trabalho seja, pois, determinada com justiça e equidade.[^536]
 
 [18] Os autores e promotores sejam exortados a não oprimirem ninguém com injustas pronúncias, movidas por amizade, por ódio, ou por qualquer outra paixão.
 
@@ -162,9 +162,9 @@ Ora, se o homem [mentiroso] é singularmente odiado por Deus, quem o poderia liv
 
 ### Exclui da eterna bem-aventurança
 
-[20] Depois, haverá coisa mais torpe e infame, como reparou Santiago, do que servir-nos da mesma língua com que bendizemos a Deus Pai, para maldizer os homens, feitos à imagem e semelhança de Deus. É como uma fonte que, pela mesma abertura, deita água doce e água salobra.[^540]
+[20] Depois, haverá coisa mais torpe e infame, como reparou São Tiago, do que servir-nos da mesma língua com que bendizemos a Deus Pai, para maldizer os homens, feitos à imagem e semelhança de Deus. É como uma fonte que, pela mesma abertura, deita água doce e água salobra.[^540]
 
-Com efeito, a mesma língua que, antes, louvava e glorificava a Deus, põe-se depois pela mentira a cobri-LO, quanto pode, de injúrias e vitupérios. Esta é a razão por que os mentirosos são excluídos da posse da celeste bem-aventurança. Por isso, quando David se dirigiu a Deus com a pergunta: "Quem há de morar no Vosso Tabernáculo?" — o Espírito Santo lhe respondeu: "Aquele que diz a verdade no seu coração, e que não faz embustes com a sua língua".[^541]
+Com efeito, a mesma língua que, antes, louvava e glorificava a Deus, põe-se depois pela mentira a cobri-LO, quanto pode, de injúrias e vitupérios. Esta é a razão por que os mentirosos são excluídos da posse da celeste bem-aventurança. Por isso, quando Davi se dirigiu a Deus com a pergunta: "Quem há de morar no Vosso Tabernáculo?" — o Espírito Santo lhe respondeu: "Aquele que diz a verdade no seu coração, e que não faz embustes com a sua língua".[^541]
 
 ### É quase incurável
 
@@ -253,6 +253,7 @@ Aos segundos repreenda, com mais rigor, porque sua desculpa envolve uma grave ac
 [^533]: Corpus Iuris Canonici canon 80 C. XI 3. — "Haec sententia citabatur olim a Gratiano ex Augustino, sed apud Augustinum non est inventa; similiter legebatur apud Isidorum l. 3 cap. 19" (Nota de Doncy e Lecoffre).
 [^534]: A proposição: É sempre lícito ocultar a verdade por meio de restrições, quando for necessário para a defesa da vida, da honra, da fortuna, ou para qualquer boa obra: — foi condenada pelo menos como doutrina perigosa (DU 1177).
 [^535]: "De ratione testis est, ut factum de quo testatur sciat; scire autem testis illud tantum censetur, quod suis ipsemet sensibus percipit" (Noldin Summa Theol. Mor. II IV q 5 nº 739).
+[^536]: Thom. II-II q. 71 art. 5.
 [^537]: 1 Cor 12, 12-13; Col 1, 18; 2, 19; Eph 1, 22 ss.; 4, 15 ss.; Gal 3, 27; Col 1, 24.
 [^538]: Io 8, 44 ss.
 [^539]: Prov 6, 16 ss.
