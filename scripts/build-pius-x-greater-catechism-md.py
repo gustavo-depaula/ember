@@ -29,11 +29,22 @@ OUT_DIR = BOOK_DIR / "it"
 # Some source files don't have a "D. ... R. ..." structure — they're just prose.
 # Listed here so we render them as plain markdown paragraphs instead of trying
 # to match a Q&A pattern.
-PROSE_FILES = {"lettera-promulgazione.txt"}
+PROSE_FILES = {
+    "avvertenza.txt",
+    "lettera-promulgazione.txt",
+    "orazioni-quotidiane.txt",
+}
+
+# These prose chapters have non-trivial sub-heading structure that the
+# generic prose renderer can't infer. The committed .md is hand-authored;
+# the builder skips them on re-run so manual edits aren't clobbered.
+HAND_AUTHORED = {"orazioni-quotidiane.txt"}
 
 # Chapter title map: source filename → markdown H1.
 TITLES: dict[str, str] = {
+    "avvertenza.txt": "Avvertenza",
     "lettera-promulgazione.txt": "Lettera di S.S. Papa Pio X al Cardinale Pietro Respighi",
+    "orazioni-quotidiane.txt": "Orazioni quotidiane ed altre preci",
     "prime-nozioni-capo-i.txt": "Prime nozioni — Capo I. Delle verità principali di nostra santa Fede",
     "prime-nozioni-capo-ii.txt": "Prime nozioni — Capo II. Parti principali della Dottrina cristiana",
     "prime-nozioni-capo-iii.txt": "Prime nozioni — Capo III. Atti di Fede, di Speranza, di Carità e di Contrizione",
@@ -199,6 +210,9 @@ def main() -> None:
     if not files:
         raise SystemExit(f"no .txt sources in {SRC_DIR}")
     for src in files:
+        if src.name in HAND_AUTHORED:
+            print(f"  · {src.name}: hand-authored, skipped")
+            continue
         body = strip_header(src.read_text(encoding="utf-8"))
         body = normalize_spacing(body)
         paragraphs = split_paragraphs(body)

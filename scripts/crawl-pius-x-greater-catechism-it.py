@@ -46,9 +46,19 @@ COMPENDIO = "/wiki/Compendio_della_dottrina_cristiana"
 # Standalone front-matter pages — fetched directly into individual .txt files.
 FRONT_MATTER: list[tuple[str, str, str]] = [
     (
+        "avvertenza.txt",
+        f"{COMPENDIO}/Avvertenza",
+        "Avvertenza",
+    ),
+    (
         "lettera-promulgazione.txt",
         f"{COMPENDIO}/Lettera_di_S.S._Papa_Pio_X",
         "Lettera di S.S. Papa Pio X",
+    ),
+    (
+        "orazioni-quotidiane.txt",
+        f"{COMPENDIO}/Orazioni_quotidiane_ed_altre_preci",
+        "Orazioni quotidiane ed altre preci",
     ),
     (
         "prime-nozioni-capo-i.txt",

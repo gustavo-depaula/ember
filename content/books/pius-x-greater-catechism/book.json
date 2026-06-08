@@ -7,7 +7,7 @@
     "it": "San Pio X"
   },
   "description": {
-    "it": "Il Catechismo Maggiore promulgato da Papa San Pio X il 14 giugno 1905 per la Diocesi e Provincia di Roma. Edizione ampia in circa 993 domande e risposte, distinta dal più breve Catechismo della Dottrina Cristiana del 1912. Comprende le preghiere quotidiane, gli atti di fede/speranza/carità/contrizione, la lezione preliminare e le cinque parti canoniche: Credo, Orazione, Comandamenti, Sacramenti, Virtù."
+    "it": "Il Catechismo Maggiore promulgato da Papa San Pio X il 14 giugno 1905 per la Diocesi e Provincia di Roma. Edizione ampia in circa 993 domande e risposte, distinta dal più breve Catechismo della Dottrina Cristiana del 1912. Comprende l'Avvertenza, la lettera di promulgazione, le Orazioni quotidiane ed altre preci (preghiere del mattino e della sera, atti di fede/speranza/carità/contrizione, preparazione alla Confessione e alla Santa Comunione, misteri del Rosario, modo di servire la S. Messa), le Prime nozioni di catechismo, la Lezione preliminare e le cinque parti canoniche: Credo, Orazione, Comandamenti, Sacramenti, Virtù."
   },
   "composed": 1905,
   "languages": [
@@ -22,9 +22,21 @@
   ],
   "toc": [
     {
+      "id": "avvertenza",
+      "title": {
+        "it": "Avvertenza"
+      }
+    },
+    {
       "id": "lettera-promulgazione",
       "title": {
         "it": "Lettera di S.S. Papa Pio X al Cardinale Pietro Respighi"
+      }
+    },
+    {
+      "id": "orazioni-quotidiane",
+      "title": {
+        "it": "Orazioni quotidiane ed altre preci"
       }
     },
     {
