@@ -1,0 +1,203 @@
+# Capo II — Dei comandamenti che riguardano Dio
+
+## § 1. Del primo comandamento
+
+**1.** Perchè si dice in principio: Io sono il Signore Iddio tuo?
+
+*In principio dei comandamenti si dice: Io sono il Signore Iddio tuo, perchè conosciamo che Dio, essendo il nostro Creatore e Signore, può comandare quello che vuole, e noi, sue creature, siamo tenuti ad obbedirgli.*
+
+**2.** Che cosa Iddio ci ordina colle parole del primo comandamento: Non avrai altro Dio avanti di me?
+
+*Con le parole del primo comandamento: Non avrai altro Dio avanti di me, Iddio ci ordina di riconoscere, di adorare, di amare e servire Lui solo, come nostro supremo Signore.*
+
+**3.** Come si adempie il primo comandamento?
+
+*Il primo comandamento si adempie coll’esercizio del culto interno ed esterno.*
+
+**4.** Che cosa è il culto interno?
+
+*Il culto interno è l’onore che si rende a Dio con le sole facoltà dello spirito, ossia con la mente e con la volontà.*
+
+**5.** Che cosa è il culto esterno?
+
+*Il culto esterno è l’omaggio che si rende a Dio per mezzo di atti esteriori e di oggetti sensibili.*
+
+**6.** Non basta adorar Dio solo col cuore internamente?
+
+*No, non basta adorar Dio solo col cuore internamente, ma bisogna adorarlo anche esternamente, collo spirito insieme e col corpo, perchè Egli è Creatore e Signore assoluto dell’uno e dell’altro.*
+
+**7.** Può stare il culto esterno, senza l’interno?
+
+*No, non può stare in verun modo il culto esterno senza l’interno, perchè quello scompagnato da questo rimane privo di vita, di merito e di efficacia, come corpo senz’anima.*
+
+**8.** Che cosa ci proibisce il primo comandamento?
+
+*Il primo comandamento ci proibisce l’idolatria, la superstizione, il sacrilegio, l’eresia ed ogni altro peccato contro la religione.*
+
+**9.** Che cosa è l’idolatria?
+
+*Si chiama idolatria il dare a qualche creatura, per esempio ad una statua, ad un’imagine, ad un uomo, il culto supremo di adorazione dovuto a Dio solo.*
+
+**10.** Come si trova espressa nella Sacra Scrittura questa proibizione?
+
+*Nella Sacra Scrittura si trova espressa questa proibizione con le parole: Tu non ti farai scultura, nè rappresentazione alcuna di quel che è lassù nel cielo e quaggiù in terra. E non adorerai tali cose, nè ad esse presterai culto.*
+
+**11.** Proibiscono queste parole ogni sorta d’imagini?
+
+*No certamente; ma soltanto quelle delle false divinità, fatte a scopo di adorazione, come facevano gl’idolatri. Ciò è tanto vero che Iddio stesso comandò a Mosè di farne alcune, come le due statue di cherubini sull’arca, e il serpente di bronzo nel deserto.*
+
+**12.** Che cosa è la superstizione?
+
+*Si chiama superstizione qualunque devozione contraria alla dottrina e all’uso della Chiesa, come anche l’attribuire ad un’azione o ad una cosa qualunque una virtù soprannaturale che non ha.*
+
+**13.** Che cosa è il sacrilegio?
+
+*Il sacrilegio è la profanazione di un luogo, di una persona o di una cosa consacrata a Dio e destinata al suo culto.*
+
+**14.** Che cosa è l’eresia?
+
+*L’eresia è un errore colpevole dell’intelletto, per cui si nega con pertinacia qualche verità della fede.*
+
+**15.** Quali altre cose proibisce il primo comandamento?
+
+*Il primo comandamento ci proibisce altresì qualunque commercio col demonio e l’aggregarsi alle sette anticristiane.*
+
+**16.** Chi ricorresse al demonio o lo invocasse, commetterebbe grave peccato?
+
+*Chi ricorresse al demonio o lo invocasse commetterebbe un peccato enorme, perchè il demonio è il più perverso nemico di Dio e dell’uomo.*
+
+**17.** È lecito interrogare le tavole così dette parlanti o scriventi, o consultare in qualunque modo le anime dei trapassati mediante lo spiritismo?
+
+*Tutte le pratiche dello spiritismo sono illecite, perchè superstiziose, e spesso non immuni da intervento diabolico, e perciò furono dalla Chiesa giustamente proibite.*
+
+**18.** Il primo comandamento proibisce forse di onorare ed invocare gli Angeli e i Santi?
+
+*No, non è proibito onorare ed invocare gli Angeli e i Santi; anzi dobbiamo farlo, perchè è cosa buona e utile, e dalla Chiesa altamente raccomandata, essendo essi gli amici di Dio e i nostri intercessori presso di Lui.*
+
+**19.** Essendo Gesù Cristo il nostro unico Mediatore presso Dio, perchè ricorriamo anche alla mediazione di Maria santissima e dei Santi?
+
+*Gesù Cristo è il nostro Mediatore presso Dio, inquantochè, essendo vero Dio e vero Uomo, Egli solo in virtù dei proprî meriti ci ha riconciliati con Dio e ce ne ottiene tutte le grazie. La Vergine poi e i Santi in virtù dei meriti di Gesù Cristo e per la carità che li unisce a Dio ed a noi, ci aiutano con la loro intercessione ad ottenere le grazie che domandiamo. E questo è uno dei grandi beni della comunione dei Santi.*
+
+**20.** Possiamo onorare anche le sacre imagini di Gesù Cristo e dei Santi?
+
+*Sì, perchè l’onore che si rende alle sacre imagini di Gesù Cristo e dei Santi si riferisce alle loro stesse persone.*
+
+**21.** E le reliquie dei Santi si possono onorare?
+
+*Sì, anche le reliquie dei Santi si debbono onorare, perchè i loro corpi furono vivi membri di Gesù Cristo, e templi dello Spirito Santo, e debbono risorgere gloriosi all’eterna vita.*
+
+**22.** Che differenza vi è tra il culto che rendiamo a Dio e il culto che rendiamo ai Santi?
+
+*Tra il culto che rendiamo a Dio e il culto che rendiamo ai Santi vi è questa differenza, che Iddio lo adoriamo per la sua infinita eccellenza, e i Santi invece non li adoriamo, ma li onoriamo e veneriamo come amici di Dio e nostri intercessori presso di Lui. Il culto che si rende a Dio si chiama latria cioè di adorazione, ed il culto che si rende ai Santi si chiama dulia cioè di venerazione a’ servi di Dio; il culto poi particolare, che prestiamo a Maria santissima, si chiama iperdulia, cioè di specialissima venerazione, come a Madre di Dio.*
+
+## § 2. Del secondo comandamento
+
+**23.** Che cosa ci proibisce il secondo comandamento: Non nominare il nome di Dio invano?
+
+*Il secondo comandamento: Non nominare il nome di Dio invano, ci proibisce: 1.º di nominare il nome di Dio senza rispetto; 2.º di bestemmiare contro Dio, contro la santissima Vergine e contro i Santi; 3.º di fare giuramenti falsi o non necessari, o in qualunque modo illeciti.*
+
+**24.** Che vuol dire nominare il nome di Dio senza rispetto?
+
+*Nominare il nome di Dio senza rispetto vuol dire pronunziare questo santo nome e tutto ciò che si riferisce in modo speciale a Dio stesso, come il nome di Gesù, di Maria e dei Santi, nella collera, per ischerzo, o in altro modo poco riverente.*
+
+**25.** Che cosa è la bestemmia?
+
+*La bestemmia è un orribile peccato che consiste in parole o atti di disprezzo o di maledizione contro Dio, la Vergine, i Santi, o contro le cose sante.*
+
+**26.** Vi è differenza tra la bestemmia e l’imprecazione?
+
+*V’è differenza perchè con la bestemmia si maledice, o si desidera il male a Dio, alla Madonna, ai Santi: mentre con la imprecazione si maledice o si desidera il male a sè stesso, o al prossimo.*
+
+**27.** Che cosa è il giuramento?
+
+*Il giuramento è il chiamare Dio in testimonio della verità di ciò che si dice, o si promette.*
+
+**28.** È sempre proibito il giurare?
+
+*Non è sempre proibito il giurare, ma è lecito anzi onorevole a Dio quando vi sia necessità e il giuramento sia fatto con verità, con giudizio e con giustizia.*
+
+**29.** Quando non si giura con verità?
+
+*Quando si afferma con giuramento ciò che si sa, o si crede che sia falso, e quando con giuramento si promette di fare ciò che non si ha intenzione di eseguire.*
+
+**30.** Quando non si giura con giudizio?
+
+*Quando si giura senza prudenza e senza matura considerazione, ovvero per cose di poca importanza.*
+
+**31.** Quando non si giura con giustizia?
+
+*Quando si giura di fare una cosa che non sia giusta o lecita, come vendicarsi, rubare ed altre cose simili.*
+
+**32.** Siamo noi obbligati di mantenere il giuramento di fare cose ingiuste od illecite?
+
+*Non solo non siamo obbligati, ma peccheremmo facendole, perchè proibite dalla legge di Dio, o della Chiesa.*
+
+**33.** Chi giura il falso che peccato commette?
+
+*Chi giura il falso commette peccato mortale, perchè disonora gravemente Dio verità infinita, chiamandolo in testimonio del falso.*
+
+**34.** Che cosa ci ordina il secondo comandamento?
+
+*Il secondo comandamento ci ordina di onorare il nome santo di Dio e di adempiere oltre i giuramenti anche i voti.*
+
+**35.** Che cosa è il voto?
+
+*Il voto è una promessa che si fa a Dio di una cosa buona e a noi possibile e migliore della cosa contraria, alla quale ci obblighiamo come se ci fosse comandata.*
+
+**36.** Se la osservanza del voto riuscisse in tutto o in parte molto difficile, che si dovrebbe fare?
+
+*Si può domandare la commutazione o la dispensa al proprio Vescovo, od al Sommo Pontefice, secondo la qualità del voto.*
+
+**37.** È peccato trasgredire i voti?
+
+*Il trasgredire i voti è peccato, e perciò non dobbiamo far voti senza matura riflessione e, ordinariamente, senza il consiglio del confessore, o d’altra persona prudente, per non esporci al pericolo di peccare.*
+
+**38.** Si possono fare i voti alla Madonna ed ai Santi?
+
+*I voti si fanno solamente a Dio: si può però promettere a Dio di far qualche cosa in onore della Madonna, o dei Santi.*
+
+## § 3. Del terzo comandamento
+
+**39.** Che cosa ci ordina il terzo comandamento: Ricordati di santificare le feste?
+
+*Il terzo comandamento: Ricordati di santificare le feste, ci ordina di onorare Dio con opere di culto nei giorni di festa.*
+
+**40.** Quali sono i giorni di festa?
+
+*Nell’antica legge erano i sabati ed altri giorni particolarmente solenni per il popolo ebreo; nella legge nuova sono le domeniche ed altre festività stabilite dalla Chiesa.*
+
+**41.** Perchè nella legge nuova si santifica la domenica invece del sabato?
+
+*La domenica, che significa giorno del Signore, fu sostituita al sabato perchè in tal giorno Gesù Cristo Signor nostro risuscitò.*
+
+**42.** Quale opera di culto ci viene comandata nei giorni di festa?
+
+*Ci viene comandato di assistere divotamente al santo sacrificio della Messa.*
+
+**43.** Con quali altre opere un buon cristiano santifica le feste?
+
+*Il buon cristiano santifica le feste: 1.º coll’intervenire alla Dottrina cristiana, alle prediche ed ai divini uffizî; 2.º col ricevere spesso, con le dovute disposizioni i sacramenti della Penitenza e dell’Eucaristia; 3.º coll’esercitarsi nell’orazione e nelle opere di cristiana carità verso il prossimo.*
+
+**44.** Che cosa ci proibisce il terzo comandamento?
+
+*Il terzo comandamento ci proibisce le opere servili e qualunque opera che ci impedisca il culto di Dio.*
+
+**45.** Quali sono le opere servili proibite nei giorni di festa?
+
+*Le opere servili proibite nei giorni di festa sono le opere dette manuali, cioè quei lavori materiali in cui ha parte più il corpo che lo spirito; come quelle che ordinariamente si fanno dai servi, dagli operai e dagli artieri.*
+
+**46.** Quale peccato si commette lavorando in giorno di festa?
+
+*Lavorando in giorno di festa si commette peccato mortale: scusa però dalla colpa grave la brevità del tempo che si occupa.*
+
+**47.** Non vi è alcuna opera servile che sia permessa nei giorni di festa?
+
+*Nei giorni di festa sono permesse quelle opere che sono necessarie alla vita, o al servizio di Dio; e quelle che si fanno per una causa grave domandando licenza, se si può, al proprio parroco.*
+
+**48.** Per qual fine nelle feste sono proibite le opere servili?
+
+*Sono proibite nelle feste le opere servili, affinchè possiamo meglio attendere al divin culto e alla salute dell’anima nostra; e riposarci dalle fatiche. Per questo non è proibito qualche onesto divertimento.*
+
+**49.** Quali altre cose dobbiamo schivare sovrattutto nelle feste?
+
+*Nelle feste dobbiamo schivare sopra tutto il peccato e tutto ciò che può indurci al peccato, come i divertimenti e i ritrovi pericolosi.*

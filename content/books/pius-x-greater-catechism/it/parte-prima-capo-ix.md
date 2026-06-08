@@ -1,0 +1,49 @@
+# Capo IX — Dell’ottavo articolo
+
+**1.** Che cosa c’insegna l’ottavo articolo: Io credo nello Spirito Santo?
+
+*L’ottavo articolo del Credo c’insegna che vi è lo Spirito Santo, terza Persona della santissima Trinità, che Egli è Dio eterno, infinito, onnipotente, Creatore e Signore di tutte le cose, come il Padre e il Figliuolo.*
+
+**2.** Da chi procede lo Spirito Santo?
+
+*Lo Spirito Santo procede dal Padre e dal Figliuolo per via di volontà e di amore, come da un solo principio.*
+
+**3.** Se il Figliuolo procede dal Padre, e lo Spirito Santo procede dal Padre e dal Figliuolo, pare che il Padre e il Figliuolo siano prima dello Spirito Santo: come dunque si dice che sono eterne tutte e tre le Persone?
+
+*Si dice che sono eterne tutte e tre le Persone, perchè il Padre ab eterno ha generato il Figliuolo; e dal Padre e dal Figliuolo ab eterno procede lo Spirito Santo.*
+
+**4.** Perchè la terza Persona della santissima Trinità si chiama particolarmente col nome di Spirito Santo?
+
+*La terza Persona della santissima Trinità si chiama particolarmente col nome di Spirito Santo perchè Essa procede dal Padre e dal Figliuolo per modo di spirazione e d’amore.*
+
+**5.** Quale opera viene attribuita specialmente allo Spirito Santo?
+
+*Allo Spirito Santo viene attribuita specialmente la santificazione delle anime.*
+
+**6.** Il Padre e il Figliuolo ci santificano egualmente che lo Spirito Santo?
+
+*Sì, tutte e tre le divine Persone ci santificano egualmente.*
+
+**7.** Se così è, perchè la santificazione delle anime si attribuisce in particolare allo Spirito Santo?
+
+*La santificazione delle anime si attribuisce in particolare allo Spirito Santo perchè essa è opera d’amore, e le opere d’amore si attribuiscono allo Spirito Santo.*
+
+**8.** Quando discese lo Spirito Santo sopra gli Apostoli?
+
+*Lo Spirito Santo discese sopra gli Apostoli nel giorno della Pentecoste, cioè cinquanta giorni dopo la Risurrezione di Gesù Cristo, e dieci dopo la sua Ascensione.*
+
+**9.** Dov’erano gli Apostoli nei dieci giorni prima della Pentecoste?
+
+*Gli Apostoli erano riuniti nel cenacolo in compagnia di Maria Vergine e degli altri discepoli, e perseveravano nell’orazione, aspettando lo Spirito Santo, che Gesù Cristo aveva loro promesso.*
+
+**10.** Quali effetti produsse lo Spirito Santo negli Apostoli?
+
+*Lo Spirito Santo confermò nella fede gli Apostoli, li riempì di lumi, di forza, di carità e dell’abbondanza di tutti i suoi doni.*
+
+**11.** Lo Spirito Santo è egli stato mandato per i soli Apostoli?
+
+*Lo Spirito Santo è stato mandato per tutta la Chiesa, e per ogni anima fedele.*
+
+**12.** Che cosa opera lo Spirito Santo nella Chiesa?
+
+*Lo Spirito Santo, come l’anima nel corpo, vivifica la Chiesa con la sua grazia e coi suoi doni; vi stabilisce il regno della verità e dell’amore; e l’assiste perchè conduca sicuramente i suoi figliuoli per la via del cielo.*

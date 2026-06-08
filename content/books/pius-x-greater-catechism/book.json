@@ -1,0 +1,337 @@
+{
+  "id": "pius-x-greater-catechism",
+  "name": {
+    "it": "Catechismo Maggiore"
+  },
+  "author": {
+    "it": "San Pio X"
+  },
+  "description": {
+    "it": "Il Catechismo Maggiore promulgato da Papa San Pio X il 14 giugno 1905 per la Diocesi e Provincia di Roma. Edizione ampia in circa 993 domande e risposte, distinta dal più breve Catechismo della Dottrina Cristiana del 1912. Comprende le preghiere quotidiane, gli atti di fede/speranza/carità/contrizione, la lezione preliminare e le cinque parti canoniche: Credo, Orazione, Comandamenti, Sacramenti, Virtù."
+  },
+  "composed": 1905,
+  "languages": [
+    "it"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://it.wikisource.org/wiki/Compendio_della_dottrina_cristiana",
+      "description": "Trascrizione critica al 100% del Compendio della dottrina cristiana (Roma, 1905) su Wikisource italiano, comprensiva della lettera di promulgazione, delle Prime nozioni di catechismo e del Catechismo Maggiore integrale (Lezione preliminare e cinque parti)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lettera-promulgazione",
+      "title": {
+        "it": "Lettera di S.S. Papa Pio X al Cardinale Pietro Respighi"
+      }
+    },
+    {
+      "id": "prime-nozioni",
+      "title": {
+        "it": "Prime nozioni di catechismo"
+      },
+      "children": [
+        {
+          "id": "prime-nozioni-capo-i",
+          "title": {
+            "it": "Capo I — Delle verità principali di nostra santa Fede"
+          }
+        },
+        {
+          "id": "prime-nozioni-capo-ii",
+          "title": {
+            "it": "Capo II — Parti principali della Dottrina cristiana"
+          }
+        },
+        {
+          "id": "prime-nozioni-capo-iii",
+          "title": {
+            "it": "Capo III — Atti di Fede, di Speranza, di Carità e di Contrizione"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lezione-preliminare",
+      "title": {
+        "it": "Lezione preliminare — Della dottrina cristiana e delle sue parti principali"
+      }
+    },
+    {
+      "id": "parte-prima",
+      "title": {
+        "it": "Parte I — Il Credo o Simbolo apostolico"
+      },
+      "children": [
+        {
+          "id": "parte-prima-capo-i",
+          "title": {
+            "it": "Capo I — Del «Credo» in generale"
+          }
+        },
+        {
+          "id": "parte-prima-capo-ii",
+          "title": {
+            "it": "Capo II — Del primo articolo del Simbolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-iii",
+          "title": {
+            "it": "Capo III — Del secondo articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-iv",
+          "title": {
+            "it": "Capo IV — Del terzo articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-v",
+          "title": {
+            "it": "Capo V — Del quarto articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-vi",
+          "title": {
+            "it": "Capo VI — Del quinto articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-vii",
+          "title": {
+            "it": "Capo VII — Del sesto articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-viii",
+          "title": {
+            "it": "Capo VIII — Del settimo articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-ix",
+          "title": {
+            "it": "Capo IX — Dell'ottavo articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-x",
+          "title": {
+            "it": "Capo X — Del nono articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-xi",
+          "title": {
+            "it": "Capo XI — Del decimo articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-xii",
+          "title": {
+            "it": "Capo XII — Dell'undecimo articolo"
+          }
+        },
+        {
+          "id": "parte-prima-capo-xiii",
+          "title": {
+            "it": "Capo XIII — Del dodicesimo articolo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-seconda",
+      "title": {
+        "it": "Parte II — Dell'orazione"
+      },
+      "children": [
+        {
+          "id": "parte-seconda-capo-i",
+          "title": {
+            "it": "Capo I — Dell'orazione in generale"
+          }
+        },
+        {
+          "id": "parte-seconda-capo-ii",
+          "title": {
+            "it": "Capo II — Dell'orazione domenicale"
+          }
+        },
+        {
+          "id": "parte-seconda-capo-iii",
+          "title": {
+            "it": "Capo III — Dell'«Ave Maria»"
+          }
+        },
+        {
+          "id": "parte-seconda-capo-iv",
+          "title": {
+            "it": "Capo IV — Dell'invocazione dei Santi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-terza",
+      "title": {
+        "it": "Parte III — Dei comandamenti di Dio e della Chiesa"
+      },
+      "children": [
+        {
+          "id": "parte-terza-capo-i",
+          "title": {
+            "it": "Capo I — Dei comandamenti di Dio in generale"
+          }
+        },
+        {
+          "id": "parte-terza-capo-ii",
+          "title": {
+            "it": "Capo II — Dei comandamenti che riguardano Dio"
+          }
+        },
+        {
+          "id": "parte-terza-capo-iii",
+          "title": {
+            "it": "Capo III — Dei comandamenti che riguardano il prossimo"
+          }
+        },
+        {
+          "id": "parte-terza-capo-iv",
+          "title": {
+            "it": "Capo IV — Dei precetti della Chiesa"
+          }
+        },
+        {
+          "id": "parte-terza-capo-v",
+          "title": {
+            "it": "Capo V — Dei doveri particolari del proprio stato e dei consigli evangelici"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-quarta",
+      "title": {
+        "it": "Parte IV — Dei sacramenti"
+      },
+      "children": [
+        {
+          "id": "parte-quarta-capo-i",
+          "title": {
+            "it": "Capo I — Dei sacramenti in generale"
+          }
+        },
+        {
+          "id": "parte-quarta-capo-ii",
+          "title": {
+            "it": "Capo II — Del Battesimo"
+          }
+        },
+        {
+          "id": "parte-quarta-capo-iii",
+          "title": {
+            "it": "Capo III — Della Cresima o Confermazione"
+          }
+        },
+        {
+          "id": "parte-quarta-capo-iv",
+          "title": {
+            "it": "Capo IV — Dell'Eucaristia"
+          }
+        },
+        {
+          "id": "parte-quarta-capo-v",
+          "title": {
+            "it": "Capo V — Del santo sacrificio della Messa"
+          }
+        },
+        {
+          "id": "parte-quarta-capo-vi",
+          "title": {
+            "it": "Capo VI — Della Penitenza"
+          }
+        },
+        {
+          "id": "parte-quarta-capo-vii",
+          "title": {
+            "it": "Capo VII — Dell'Estrema Unzione"
+          }
+        },
+        {
+          "id": "parte-quarta-capo-viii",
+          "title": {
+            "it": "Capo VIII — Dell'Ordine Sacro"
+          }
+        },
+        {
+          "id": "parte-quarta-capo-ix",
+          "title": {
+            "it": "Capo IX — Del Matrimonio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-quinta",
+      "title": {
+        "it": "Parte V — Delle virtù principali e delle altre cose necessarie a sapersi del cristiano"
+      },
+      "children": [
+        {
+          "id": "parte-quinta-capo-i",
+          "title": {
+            "it": "Capo I — Delle virtù principali"
+          }
+        },
+        {
+          "id": "parte-quinta-capo-ii",
+          "title": {
+            "it": "Capo II — Dei doni dello Spirito Santo"
+          }
+        },
+        {
+          "id": "parte-quinta-capo-iii",
+          "title": {
+            "it": "Capo III — Delle Beatitudini evangeliche"
+          }
+        },
+        {
+          "id": "parte-quinta-capo-iv",
+          "title": {
+            "it": "Capo IV — Delle opere di misericordia"
+          }
+        },
+        {
+          "id": "parte-quinta-capo-v",
+          "title": {
+            "it": "Capo V — Dei peccati e delle loro specie principali"
+          }
+        },
+        {
+          "id": "parte-quinta-capo-vi",
+          "title": {
+            "it": "Capo VI — Dei vizi capitali e di altri peccati più gravi"
+          }
+        },
+        {
+          "id": "parte-quinta-capo-vii",
+          "title": {
+            "it": "Capo VII — Dei Novissimi e di altri mezzi principali per evitare il peccato"
+          }
+        },
+        {
+          "id": "parte-quinta-capo-viii",
+          "title": {
+            "it": "Capo VIII — Degli esercizi divoti che si consigliano al cristiano per ogni giorno"
+          }
+        }
+      ]
+    }
+  ]
+}
