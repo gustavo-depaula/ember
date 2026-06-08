@@ -1,0 +1,51 @@
+{
+	"id": "morning-offering-suscipe",
+	"icon": "scroll",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "Suscipe",
+			"pt-BR": "Suscipe"
+		},
+		"description": {
+			"en-US": "St. Ignatius's Suscipe — the day's liberty, memory, understanding, and will offered to God.",
+			"pt-BR": "O Suscipe de Santo Inácio — a liberdade, memória, entendimento e vontade do dia oferecidos a Deus."
+		}
+	},
+	"source": {
+		"en-US": "St. Ignatius of Loyola, *Spiritual Exercises* — Contemplation to Attain Love (§234). Standard English and Latin texts (1548 *Vulgata*); pt-BR per the Loyola edition.",
+		"pt-BR": "Santo Inácio de Loyola, *Exercícios Espirituais* — Contemplação para Alcançar o Amor (§234). Textos padrão em latim (*Vulgata* de 1548) e inglês; pt-BR conforme edição Loyola."
+	},
+	"name": {
+		"en-US": "Morning Offering — Suscipe",
+		"pt-BR": "Oferecimento Matinal — Suscipe"
+	},
+	"categories": ["daily", "ignatian"],
+	"estimatedMinutes": 2,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "St. Ignatius of Loyola's Suscipe prayed as the daily morning offering — the summit of the Spiritual Exercises set at the threshold of the day.",
+		"pt-BR": "O Suscipe de Santo Inácio de Loyola rezado como oferecimento matinal — o ápice dos Exercícios Espirituais posto no limiar do dia."
+	},
+	"history": {
+		"en-US": "St. Ignatius placed the Suscipe at the close of the Contemplation to Attain Love — the final movement of the Spiritual Exercises. Praying it at the start of the day, before discernment begins, makes of the whole day a single offering: liberty, memory, understanding, and will placed in the Lord's hands.",
+		"pt-BR": "Santo Inácio colocou o Suscipe ao final da Contemplação para Alcançar o Amor — o último movimento dos Exercícios Espirituais. Rezá-lo no início do dia, antes que comece o discernimento, faz de todo o dia um único oferecimento: liberdade, memória, entendimento e vontade colocados nas mãos do Senhor."
+	},
+	"howToPray": {
+		"en-US": "Upon waking, make the Sign of the Cross. Pray the Suscipe slowly, pausing on each gift you offer — liberty, memory, understanding, will. Let it be a real surrender of the day ahead, not a recitation.",
+		"pt-BR": "Ao acordar, faça o Sinal da Cruz. Reze o Suscipe devagar, pausando em cada dom que oferece — liberdade, memória, entendimento, vontade. Seja entrega real do dia que se abre, não recitação."
+	},
+	"tags": ["morning", "offering", "ignatian", "jesuit", "suscipe"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

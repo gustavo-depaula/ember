@@ -20,6 +20,16 @@
   "tags": ["sulpician", "christocentric", "mental-prayer"],
   "practices": [
     {
+      "ref": "morning-offering-sulpician",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:15",
+      "note": {
+        "en-US": "The Olier prayer — O Jesus, living in Mary, come and live in Thy servants — as the daily synthesis of the French School, opening the way to the three-movement mental prayer that follows.",
+        "pt-BR": "A oração de Olier — Ó Jesus, que viveis em Maria, vinde viver em vossos servos — como síntese diária da Escola Francesa, abrindo o caminho para a oração mental em três movimentos que se segue."
+      }
+    },
+    {
       "ref": "mental-prayer",
       "tier": "essential",
       "schedule": { "type": "daily" },

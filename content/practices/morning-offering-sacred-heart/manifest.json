@@ -1,6 +1,21 @@
 {
   "id": "morning-offering-sacred-heart",
   "icon": "sacred-heart",
+  "alternativeTo": {
+    "id": "morning-offering",
+    "label": {
+      "en-US": "Sacred Heart",
+      "pt-BR": "Sagrado Coração"
+    },
+    "description": {
+      "en-US": "A short morning consecration to the Sacred Heart of Jesus through the Immaculate Heart of Mary.",
+      "pt-BR": "Breve consagração matinal ao Sagrado Coração de Jesus pelo Coração Imaculado de Maria."
+    }
+  },
+  "source": {
+    "en-US": "Apostleship of Prayer (founded 1844 by Fr. François-Xavier Gautrelet, S.J.); the traditional offering \"O Jesus, through the Immaculate Heart of Mary…\" — Pope's Worldwide Prayer Network.",
+    "pt-BR": "Apostolado da Oração (fundado em 1844 pelo Pe. François-Xavier Gautrelet, S.J.); o tradicional oferecimento \"Ó Jesus, pelo Imaculado Coração de Maria…\" — Rede Mundial de Oração do Papa."
+  },
   "name": {
     "en-US": "Morning Offering to the Sacred Heart",
     "pt-BR": "Oferecimento ao Sagrado Coração"

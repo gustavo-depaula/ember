@@ -1,0 +1,51 @@
+{
+	"id": "morning-offering-carmelite",
+	"icon": "mary",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "Carmelite (Brown Scapular)",
+			"pt-BR": "Carmelita (Escapulário)"
+		},
+		"description": {
+			"en-US": "The morning act of the scapular wearer — the Precious Blood and the day's thoughts and works offered through the Immaculate Heart of Mary.",
+			"pt-BR": "O ato matinal do que veste o escapulário — o Preciosíssimo Sangue e os pensamentos e obras do dia oferecidos pelo Coração Imaculado de Maria."
+		}
+	},
+	"source": {
+		"en-US": "Traditional morning offering for wearers of the Brown Scapular of Our Lady of Mount Carmel. Verified via [Aleteia](https://aleteia.org/2021/07/16/morning-offering-prayer-with-the-brown-scapular/) and [CatholicTradition.org](https://www.catholictradition.org/Mary/morning-offering.htm).",
+		"pt-BR": "Oferecimento matinal tradicional para quem usa o Escapulário do Carmo de Nossa Senhora do Monte Carmelo. Verificado em [Aleteia](https://aleteia.org/2021/07/16/morning-offering-prayer-with-the-brown-scapular/) e [CatholicTradition.org](https://www.catholictradition.org/Mary/morning-offering.htm)."
+	},
+	"name": {
+		"en-US": "Morning Offering — Brown Scapular",
+		"pt-BR": "Oferecimento Matinal — Escapulário do Carmo"
+	},
+	"categories": ["daily", "carmelite", "marian"],
+	"estimatedMinutes": 2,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The morning offering of those clothed in the Brown Scapular of Our Lady of Mount Carmel — the Precious Blood from every altar in the world joined to the day's thoughts, words, and works, presented through Mary's Immaculate Heart.",
+		"pt-BR": "O oferecimento matinal dos que vestem o Escapulário do Carmo — o Preciosíssimo Sangue de cada altar do mundo unido aos pensamentos, palavras e obras do dia, apresentados pelo Coração Imaculado de Maria."
+	},
+	"history": {
+		"en-US": "Carmelite spirituality binds the soul to Mary by the visible sign of the Brown Scapular, given to St. Simon Stock in 1251. Those clothed in it traditionally make a daily offering joining the Precious Blood of Christ — offered continually at every altar in the world — to their own day's actions, all passed through the hands of the Mother of Carmel.",
+		"pt-BR": "A espiritualidade carmelita liga a alma a Maria pelo sinal visível do Escapulário, entregue a São Simão Stock em 1251. Os que se revestem dele tradicionalmente fazem um oferecimento diário unindo o Preciosíssimo Sangue de Cristo — oferecido continuamente em cada altar do mundo — às próprias ações do dia, tudo passando pelas mãos da Mãe do Carmo."
+	},
+	"howToPray": {
+		"en-US": "Upon waking, kiss your scapular at the marked line and pray slowly. The gesture — small as it is — is the sign of belonging to Mary, and the prayer enlarges the day's tiny offering into the eternal one of Calvary.",
+		"pt-BR": "Ao acordar, beije o escapulário no momento indicado e reze devagar. O gesto — por mais pequeno — é o sinal do pertencimento a Maria, e a oração amplia o pequeno oferecimento do dia ao eterno do Calvário."
+	},
+	"tags": ["morning", "offering", "carmelite", "scapular", "marian"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Morning Offering — Sulpician",
+				"pt-BR": "Oferecimento Matinal — Sulpiciano"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Pray with Fr. Olier the daily synthesis of the French School — Jesus invited to live again in His servants.",
+				"pt-BR": "Reze com o Pe. Olier a síntese diária da Escola Francesa — Jesus convidado a viver novamente em Seus servos."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Jesus, living in Mary,\nCome and live in Thy servants,\nIn the spirit of Thy holiness,\nIn the fullness of Thy might,\nIn the truth of Thy virtues,\nIn the perfection of Thy ways,\nIn the communion of Thy mysteries.\nSubdue every hostile power,\nIn Thy Spirit, for the glory of the Father. Amen.",
+				"pt-BR": "Ó Jesus, que viveis em Maria,\nvinde viver em vossos servos,\nno espírito de vossa santidade,\nna plenitude de vossa força,\nna verdade de vossas virtudes,\nna perfeição de vossos caminhos,\nna comunhão de vossos mistérios.\nDominai sobre todo o poder inimigo,\nem vosso Espírito e para a glória do Pai. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Then, in the spirit of the three movements, pause briefly on each:",
+				"pt-BR": "Em seguida, no espírito dos três movimentos, faça uma breve pausa em cada um:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Jesus before my eyes — that I may adore.\nJesus in my heart — that I may love.\nJesus in my hands — that I may serve.",
+				"pt-BR": "Jesus diante dos meus olhos — para que eu adore.\nJesus em meu coração — para que eu ame.\nJesus em minhas mãos — para que eu sirva."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

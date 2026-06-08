@@ -1,0 +1,63 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Morning Offering — Brown Scapular",
+				"pt-BR": "Oferecimento Matinal — Escapulário do Carmo"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Upon waking, kiss the scapular and offer the day through the Immaculate Heart of Mary.",
+				"pt-BR": "Ao acordar, beije o escapulário e ofereça o dia pelo Coração Imaculado de Maria."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O my God, in union with the Immaculate Heart of Mary — (here kiss your Brown Scapular) — I offer Thee the Precious Blood of Jesus from all the altars throughout the world, joining with it the offering of my every thought, word, and action of this day.\n\nO my Jesus, I desire today to gain every indulgence and merit I can, and I offer them, together with myself, to Mary Immaculate, that she may best apply them to the interests of Thy most Sacred Heart. Amen.",
+				"pt-BR": "Ó meu Deus, em união com o Coração Imaculado de Maria — (aqui beije o Escapulário) — eu Vos ofereço o Preciosíssimo Sangue de Jesus de todos os altares do mundo, unindo a Ele o oferecimento de cada pensamento, palavra e ação deste meu dia.\n\nÓ meu Jesus, desejo hoje ganhar todas as indulgências e méritos que puder, e os ofereço, juntamente comigo mesmo, a Maria Imaculada, para que Ela os aplique do melhor modo aos interesses do Vosso Sacratíssimo Coração. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "And conclude with three short aspirations:",
+				"pt-BR": "E conclua com três breves jaculatórias:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Precious Blood of Jesus, save us.\nImmaculate Heart of Mary, save us.\nSacred Heart of Jesus, have mercy on us.",
+				"pt-BR": "Preciosíssimo Sangue de Jesus, salvai-nos.\nImaculado Coração de Maria, salvai-nos.\nSagrado Coração de Jesus, tende piedade de nós."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

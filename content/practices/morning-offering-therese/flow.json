@@ -1,0 +1,49 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Morning Offering — St. Thérèse",
+				"pt-BR": "Oferecimento Matinal — Santa Teresinha"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Pray with St. Thérèse, offering each beat of your heart, each small action, to the Sacred Heart of Jesus.",
+				"pt-BR": "Reze com Santa Teresinha, oferecendo cada batida do coração e cada pequena ação ao Sagrado Coração de Jesus."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O my God! I offer Thee all my actions of this day for the intentions and for the glory of the Sacred Heart of Jesus. I desire to sanctify every beat of my heart, my every thought, my simplest works, by uniting them to Its infinite merits; and I wish to make reparation for my sins by casting them into the furnace of Its Merciful Love.\n\nO my God! I ask of Thee for myself and for those whom I hold dear, the grace to fulfill perfectly Thy Holy Will, to accept for love of Thee the joys and sorrows of this passing life, so that we may one day be united together in heaven for all Eternity. Amen.",
+				"pt-BR": "Ó meu Deus! Ofereço-Te todas as minhas ações deste dia pelas intenções e pela glória do Sagrado Coração de Jesus. Desejo santificar cada batida do meu coração, cada pensamento, as minhas obras mais simples, unindo-os aos Seus méritos infinitos; e quero reparar os meus pecados lançando-os na fornalha do Seu Amor Misericordioso.\n\nÓ meu Deus! Peço-Te, para mim e para aqueles que me são caros, a graça de cumprir perfeitamente a Tua Santa Vontade, de aceitar por amor a Ti as alegrias e as dores desta vida passageira, para que um dia estejamos todos reunidos no céu por toda a Eternidade. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

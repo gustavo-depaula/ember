@@ -20,6 +20,16 @@
   "tags": ["dominican", "study", "veritas"],
   "practices": [
     {
+      "ref": "morning-offering-dominican",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:45",
+      "note": {
+        "en-US": "The Dominican morning offering — before Lauds, the day's prayers, communions, rosaries, and works given to the Holy Trinity through Our Lady, for the wide horizon of charity proper to the Order of Preachers.",
+        "pt-BR": "O oferecimento matinal dominicano — antes de Laudes, as orações, comunhões, terços e obras do dia entregues à Santíssima Trindade por Nossa Senhora, pelo amplo horizonte de caridade próprio da Ordem dos Pregadores."
+      }
+    },
+    {
       "ref": "divine-office",
       "tier": "essential",
       "schedule": { "type": "daily" },

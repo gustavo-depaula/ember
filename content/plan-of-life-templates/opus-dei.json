@@ -19,13 +19,13 @@
   "tags": ["opus-dei", "laity", "structured"],
   "practices": [
     {
-      "ref": "morning-offering",
+      "ref": "morning-offering-opus-dei",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "06:30",
       "note": {
-        "en-US": "The day's first act as a child of God — work, rest, and every ordinary task offered whole, so that nothing is left outside the one life given to the Father.",
-        "pt-BR": "O primeiro ato do dia como filho de Deus — o trabalho, o descanso e cada tarefa comum oferecidos por inteiro, para que nada fique de fora da única vida entregue ao Pai."
+        "en-US": "The Heroic Minute — rising at the fixed hour without hesitation, Serviam! on the lips — followed by the offering of every ordinary task as a child of God.",
+        "pt-BR": "O Minuto Heroico — levantar-se à hora marcada sem hesitar, Serviam! nos lábios — seguido do oferecimento de cada tarefa comum como filho de Deus."
       }
     },
     {

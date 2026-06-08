@@ -19,7 +19,7 @@
   "tags": ["marian", "montfort", "consecration"],
   "practices": [
     {
-      "ref": "morning-offering",
+      "ref": "morning-offering-montfort",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "07:00",

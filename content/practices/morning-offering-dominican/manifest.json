@@ -1,0 +1,51 @@
+{
+	"id": "morning-offering-dominican",
+	"icon": "scroll",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "Dominican",
+			"pt-BR": "Dominicana"
+		},
+		"description": {
+			"en-US": "The day's prayers, communions, rosaries, and good works offered through Our Lady to the Holy Trinity.",
+			"pt-BR": "As orações, comunhões, rosários e boas obras do dia oferecidos pelas mãos de Nossa Senhora à Santíssima Trindade."
+		}
+	},
+	"source": {
+		"en-US": "Traditional morning offering of the Lay Fraternities of St. Dominic. Verified via [Dominican Monastery of Our Lady of the Rosary (Summit, NJ)](https://www.summitdominicans.org/blog/2015/03/the-morning-offering); cf. Lay Dominicans Rule of Life resources.",
+		"pt-BR": "Oferecimento matinal tradicional das Fraternidades Leigas de São Domingos. Verificado em [Dominican Monastery of Our Lady of the Rosary (Summit, NJ)](https://www.summitdominicans.org/blog/2015/03/the-morning-offering); cf. recursos da Regra de Vida dos Dominicanos Leigos."
+	},
+	"name": {
+		"en-US": "Morning Offering — Dominican",
+		"pt-BR": "Oferecimento Matinal — Dominicano"
+	},
+	"categories": ["daily", "dominican"],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The morning offering of Lay Dominicans — the day given to the Holy Trinity through Mary, for the living and the dead and the souls entrusted to one's prayer.",
+		"pt-BR": "O oferecimento matinal dos Dominicanos Leigos — o dia entregue à Santíssima Trindade por Maria, pelos vivos e pelos defuntos e pelas almas confiadas à nossa oração."
+	},
+	"history": {
+		"en-US": "Lay Dominicans traditionally begin each day before Lauds with this morning offering, consecrating to God the prayers, communions, rosaries, and works that will follow. Its breadth — embracing family, benefactors, the sick and dying, the souls in Purgatory, and all sinners — reflects the Dominican vocation of *contemplata aliis tradere* (handing on to others the fruits of contemplation).",
+		"pt-BR": "Os Dominicanos Leigos tradicionalmente começam cada dia antes de Laudes com este oferecimento matinal, consagrando a Deus as orações, comunhões, rosários e obras que se seguirão. A sua amplitude — abraçando a família, os benfeitores, os enfermos e moribundos, as almas do Purgatório e todos os pecadores — reflete a vocação dominicana do *contemplata aliis tradere* (entregar aos outros os frutos da contemplação)."
+	},
+	"howToPray": {
+		"en-US": "Pray slowly upon waking, letting each name and intention surface — the Order's wide horizon of charity begins with intentional remembrance.",
+		"pt-BR": "Reze devagar ao acordar, deixando cada nome e intenção subir — o amplo horizonte de caridade da Ordem começa pela lembrança intencional."
+	},
+	"tags": ["morning", "offering", "dominican", "trinity", "marian"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Morning Offering — Franciscan",
+				"pt-BR": "Oferecimento Matinal — Franciscano"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Upon waking — before the Crucifix if possible — offer the whole day in union with the Mass and with Mary, the faithful handmaid of the Lord.",
+				"pt-BR": "Ao acordar — diante do Crucifixo, se possível — ofereça o dia inteiro em união com a Missa e com Maria, a fiel serva do Senhor."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "I make this morning offering in union with the divine intentions of Jesus Christ, who offers Himself daily in the Holy Sacrifice of the Mass, and in union with Mary, His Virgin Mother and our Mother, who was always the faithful handmaid of the Lord. Amen.",
+				"pt-BR": "Faço este oferecimento matinal em união com as intenções divinas de Jesus Cristo, que se oferece a Si mesmo cada dia no Santo Sacrifício da Missa, e em união com Maria, sua Virgem Mãe e nossa Mãe, que foi sempre a fiel serva do Senhor. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "And ask the Lord's protection on the day's work:",
+				"pt-BR": "E peça a proteção do Senhor sobre o trabalho do dia:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord God Almighty, You have brought us safely to the beginning of this day. Defend us today by Your mighty power, that we may not fall into any sin, but that all our words may so proceed and all our thoughts and actions be so directed, as to be always just in Your sight. Through Christ our Lord. Amen.",
+				"pt-BR": "Senhor Deus todo-poderoso, que nos trouxeste em segurança ao princípio deste dia, defendei-nos hoje com o vosso poder, para que não venhamos a cair em pecado algum, mas que todas as nossas palavras se digam e todos os nossos pensamentos e ações se dirijam segundo a vossa justiça. Por Cristo nosso Senhor. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

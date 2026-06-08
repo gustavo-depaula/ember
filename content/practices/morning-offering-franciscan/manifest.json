@@ -1,0 +1,51 @@
+{
+	"id": "morning-offering-franciscan",
+	"icon": "tau-cross",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "Franciscan",
+			"pt-BR": "Franciscana"
+		},
+		"description": {
+			"en-US": "The day offered in union with Christ's daily self-offering at Mass and with Mary, the faithful handmaid of the Lord.",
+			"pt-BR": "O dia oferecido em união com o cotidiano oferecimento de Cristo na Missa e com Maria, a fiel serva do Senhor."
+		}
+	},
+	"source": {
+		"en-US": "Secular Franciscan Order (OFS) — *Come and See* prayer digest and the Rule of the Secular Franciscan Order (Paul VI, 1978). Verified via [Secular Franciscans USA](https://www.secularfranciscansusa.org/wp-content/uploads/Come-and-See-Digest-Prayer.pdf). Closing collect (Deus, qui ad principium huius diei): Roman Breviary, Lauds opening.",
+		"pt-BR": "Ordem Franciscana Secular (OFS) — *Come and See* e a Regra da OFS (Paulo VI, 1978). Verificado em [Secular Franciscans USA](https://www.secularfranciscansusa.org/wp-content/uploads/Come-and-See-Digest-Prayer.pdf). Coleta final (Deus, qui ad principium huius diei): Breviário Romano, abertura de Laudes."
+	},
+	"name": {
+		"en-US": "Morning Offering — Franciscan",
+		"pt-BR": "Oferecimento Matinal — Franciscano"
+	},
+	"categories": ["daily", "franciscan"],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The Secular Franciscan morning offering — the day's prayers and work joined to the Holy Sacrifice of the Mass and to Mary's *fiat*, that the soul too may be a faithful handmaid of the Lord.",
+		"pt-BR": "O oferecimento matinal dos Franciscanos Seculares — as orações e o trabalho do dia unidos ao Santo Sacrifício da Missa e ao *fiat* de Maria, para que também a alma seja fiel serva do Senhor."
+	},
+	"history": {
+		"en-US": "The Secular Franciscan Order (OFS) draws this morning offering from its rule of life — a simple act binding the lay Franciscan's day to the one perpetual offering of Christ, in the company of the Virgin who said yes. The prayer breathes the spirit of St. Francis: poverty of heart, fraternal availability, and union with the Crucified.",
+		"pt-BR": "A Ordem Franciscana Secular (OFS) toma este oferecimento matinal da sua regra de vida — ato simples que liga o dia do franciscano leigo ao único oferecimento perpétuo de Cristo, na companhia da Virgem que disse sim. A oração respira o espírito de São Francisco: pobreza de coração, disponibilidade fraterna, união com o Crucificado."
+	},
+	"howToPray": {
+		"en-US": "Begin the day before the Crucifix if possible. Say the offering with Marian simplicity — the *fiat* of the lay Franciscan vocation, hidden among ordinary works.",
+		"pt-BR": "Comece o dia diante do Crucifixo, se possível. Reze o oferecimento com a simplicidade mariana — o *fiat* da vocação franciscana leiga, oculto entre as obras comuns."
+	},
+	"tags": ["morning", "offering", "franciscan", "ofs", "marian"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

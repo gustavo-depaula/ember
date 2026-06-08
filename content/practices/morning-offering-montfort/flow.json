@@ -1,0 +1,67 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Morning Offering — Renewal of the Consecration",
+				"pt-BR": "Oferecimento Matinal — Renovação da Consagração"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Upon waking, renew the gift of yourself to Jesus through Mary.",
+				"pt-BR": "Ao acordar, renove a entrega de si a Jesus por Maria."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "I am all Thine, and all that I have is Thine, O most loving Jesus, through Mary, Thy most holy Mother.",
+				"pt-BR": "Eu sou todo Vosso, e tudo o que tenho Vos pertence, ó meu amável Jesus, por Maria, Vossa Santa Mãe."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "I renounce myself; I give myself to thee, my dear Mother.",
+				"pt-BR": "Renuncio a mim mesmo; entrego-me a vós, minha querida Mãe."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "And to seal the offering, pray:",
+				"pt-BR": "E para selar o oferecimento, reze:"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

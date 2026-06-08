@@ -1,0 +1,51 @@
+{
+	"id": "morning-offering-faustina",
+	"icon": "divine-mercy",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "Divine Mercy",
+			"pt-BR": "Divina Misericórdia"
+		},
+		"description": {
+			"en-US": "The day given to be transformed into Christ's mercy and offered as a living reflection of it to others.",
+			"pt-BR": "O dia entregue para ser transformado na misericórdia de Cristo e oferecido como reflexo vivo dela aos outros."
+		}
+	},
+	"source": {
+		"en-US": "St. Maria Faustina Kowalska, *Diary: Divine Mercy in My Soul* §163. English text verified via [Divine Mercy Life](https://divinemercy.life/the-prayers-of-saint-faustina/); Portuguese verified via [Jesus Misericordioso](https://www.jesus-misericordioso.com/oracoes-santa-faustina.htm).",
+		"pt-BR": "Santa Maria Faustina Kowalska, *Diário: A Divina Misericórdia na Minha Alma* §163. Texto em inglês verificado em [Divine Mercy Life](https://divinemercy.life/the-prayers-of-saint-faustina/); em português via [Jesus Misericordioso](https://www.jesus-misericordioso.com/oracoes-santa-faustina.htm)."
+	},
+	"name": {
+		"en-US": "Morning Offering — Divine Mercy",
+		"pt-BR": "Oferecimento Matinal — Divina Misericórdia"
+	},
+	"categories": ["daily", "divine-mercy"],
+	"estimatedMinutes": 2,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The morning act of the soul devoted to Divine Mercy — the day offered to be transformed into Christ's own mercy and to become a living reflection of it for one's neighbor.",
+		"pt-BR": "O ato matinal da alma devota à Divina Misericórdia — o dia oferecido para ser transformado na própria misericórdia de Cristo e tornar-se um reflexo vivo dela para o próximo."
+	},
+	"history": {
+		"en-US": "Drawn from St. Maria Faustina Kowalska's *Diary* (notably §163), this morning act distills the heart of the Divine Mercy devotion as Our Lord revealed it to her: the soul that asks to be wholly transformed into mercy, that her eyes, ears, tongue, hands, feet, and heart may be merciful — every faculty given over so that mercy may pass through her to others. The Hour of Mercy will follow at three, but here the day begins.",
+		"pt-BR": "Tomado do *Diário* de Santa Maria Faustina Kowalska (notadamente §163), este ato matinal destila o coração da devoção à Divina Misericórdia tal como o Senhor lha revelou: a alma que pede ser inteiramente transformada em misericórdia, para que os seus olhos, ouvidos, língua, mãos, pés e coração sejam misericordiosos — cada faculdade entregue para que a misericórdia passe através dela aos outros. A Hora da Misericórdia virá às três, mas aqui o dia começa."
+	},
+	"howToPray": {
+		"en-US": "Pray slowly upon waking. Each clause names a faculty that mercy must pass through — let the prayer settle as a real commitment, not a list. End with the trust aspiration Jesus asked of St. Faustina: *Jesus, I trust in You.*",
+		"pt-BR": "Reze devagar ao acordar. Cada oração nomeia uma faculdade pela qual a misericórdia deve passar — deixe a oração assentar como compromisso real, não como lista. Termine com a jaculatória da confiança que Jesus pediu a Santa Faustina: *Jesus, eu confio em Vós.*"
+	},
+	"tags": ["morning", "offering", "divine-mercy", "faustina", "trust"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

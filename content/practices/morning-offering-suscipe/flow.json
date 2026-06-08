@@ -1,0 +1,49 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Morning Offering — Suscipe",
+				"pt-BR": "Oferecimento Matinal — Suscipe"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Upon waking, place the day before the Lord. Pray slowly, pausing on each gift you offer.",
+				"pt-BR": "Ao acordar, ponha o dia diante do Senhor. Reze devagar, pausando em cada dom que oferece."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Take, Lord, and receive all my liberty,\nmy memory, my understanding,\nand my entire will,\nall I have and call my own.\nYou have given all to me.\nTo you, Lord, I return it.\nEverything is yours; do with it what you will.\nGive me only your love and your grace,\nthat is enough for me. Amen.",
+				"pt-BR": "Tomai, Senhor, e recebei toda a minha liberdade,\na minha memória, o meu entendimento\ne toda a minha vontade,\ntudo o que tenho e possuo.\nVós me destes tudo isto;\na Vós, Senhor, o devolvo.\nTudo é Vosso, disponde de tudo segundo a Vossa vontade.\nDai-me somente o Vosso amor e a Vossa graça,\npois isto me basta. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

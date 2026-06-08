@@ -19,13 +19,13 @@
   "tags": ["divine-mercy", "trust", "faustina"],
   "practices": [
     {
-      "ref": "morning-offering",
+      "ref": "morning-offering-faustina",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "07:00",
       "note": {
-        "en-US": "The day surrendered to Jesus with the trust formula — Jesus, I trust in You — naming Him as the source of every grace the day will draw.",
-        "pt-BR": "O dia entregue a Jesus com a fórmula da confiança — Jesus, eu confio em Vós —, nomeando-O como a fonte de toda graça que o dia há de receber."
+        "en-US": "St. Faustina's mercy prayer — eyes, ears, tongue, hands, feet, heart each given over so mercy may pass through to the neighbor — sealed with: Jesus, I trust in You.",
+        "pt-BR": "A oração da misericórdia de Santa Faustina — olhos, ouvidos, língua, mãos, pés e coração entregues para que a misericórdia passe ao próximo — selada com: Jesus, eu confio em Vós."
       }
     },
     {

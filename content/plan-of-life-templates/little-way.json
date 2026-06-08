@@ -19,13 +19,13 @@
   "tags": ["little-way", "carmelite", "gentle", "beginner-friendly"],
   "practices": [
     {
-      "ref": "morning-offering",
+      "ref": "morning-offering-therese",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "07:00",
       "note": {
-        "en-US": "The day surrendered to Jesus through Mary with a child's trust, asking only to do little things with great love.",
-        "pt-BR": "O dia entregue a Jesus por Maria com a confiança de uma criança, pedindo apenas fazer as pequenas coisas com grande amor."
+        "en-US": "Thérèse's own morning prayer — every heartbeat and the simplest works cast into the furnace of Merciful Love, with a child's trust.",
+        "pt-BR": "A oração matinal da própria Teresinha — cada batida do coração e as obras mais simples lançadas no fogo do Amor Misericordioso, com a confiança de uma criança."
       }
     },
     {

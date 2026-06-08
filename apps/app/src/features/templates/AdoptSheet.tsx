@@ -10,18 +10,23 @@ import { PracticeIcon } from '@/components/PracticeIcon'
 import { Typography } from '@/components/typography'
 import { bareId } from '@/content/contentIndex'
 import { isTemplatePlaceholder, type PlanOfLifeTemplateManifest } from '@/content/manifestTypes'
-import { useCreatePractice, useSlots } from '@/features/plan-of-life'
+import { findGroupMemberInSet, getManifest } from '@/content/resolver'
+import { useCreatePractice, useSlots, useUpdatePractice } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
 
 import { cadenceLabel } from './cadence'
 import { resolvePracticeIcon, resolvePracticeName } from './resolvePractice'
 
 /**
- * Cherry-pick adopt — NON-DESTRUCTIVE. Lists every practice the template
- * proposes; each not-already-present one is a checkbox (checked by default).
- * Practices already in the user's rule render disabled with "já na sua regra".
- * Confirm replays `useCreatePractice` for the checked, new ones only — the
- * existing rule is never overwritten.
+ * Cherry-pick adopt. Each proposed practice falls into one of four buckets:
+ *   - placeholder: shown but never adoptable (corpus doesn't host it yet)
+ *   - already: exact-ref match in rule — disabled, "already in your rule"
+ *   - replaces: a different member of the same alternativeTo group is in rule;
+ *     adopting this row flips the existing practice's active_variant to the
+ *     tradition's variant, mirroring what VariantSelector does manually
+ *   - adoptable: new ref, creates a fresh practice + slot
+ * Confirm runs the swaps and the adds; the existing rule's slots/times/tiers
+ * are never touched.
  */
 export function AdoptSheet({
   template,
@@ -39,6 +44,7 @@ export function AdoptSheet({
   const insets = useSafeAreaInsets()
   const slots = useSlots()
   const createPractice = useCreatePractice()
+  const updatePractice = useUpdatePractice()
 
   // A practice is "already in the rule" if any enabled slot shares its bare id.
   const inRule = useMemo(() => new Set(slots.map((s) => s.practice_id)), [slots])
@@ -56,6 +62,10 @@ export function AdoptSheet({
       }
     }
     const ref = bareId(p.ref)
+    const already = inRule.has(ref)
+    // If an exact match isn't in the rule but a sibling in the same
+    // alternativeTo group is, this row is a variant swap, not a new add.
+    const replacesId = already ? undefined : findGroupMemberInSet(ref, inRule)
     return {
       index: i,
       placeholder: false as const,
@@ -65,15 +75,19 @@ export function AdoptSheet({
       schedule: p.schedule,
       name: resolvePracticeName(ref),
       icon: resolvePracticeIcon(ref),
-      already: inRule.has(ref),
+      already,
+      replacesId,
+      replacesLabel: replacesId ? variantDisplayName(replacesId) : undefined,
     }
   })
 
-  const adoptable = proposed.filter((p) => !p.placeholder && !p.already)
+  const actionable = proposed.filter((p) => !p.placeholder && !p.already)
 
-  const [checked, setChecked] = useState<Set<number>>(() => new Set(adoptable.map((p) => p.index)))
+  const [checked, setChecked] = useState<Set<number>>(() => new Set(actionable.map((p) => p.index)))
 
-  const selectedCount = adoptable.filter((p) => checked.has(p.index)).length
+  const selectedAdds = actionable.filter((p) => checked.has(p.index) && !p.replacesId).length
+  const selectedSwaps = actionable.filter((p) => checked.has(p.index) && !!p.replacesId).length
+  const selectedCount = selectedAdds + selectedSwaps
 
   function toggle(index: number) {
     setChecked((prev) => {
@@ -85,23 +99,44 @@ export function AdoptSheet({
   }
 
   async function confirm() {
-    if (selectedCount === 0 || createPractice.isPending) return
+    if (selectedCount === 0 || createPractice.isPending || updatePractice.isPending) return
     for (const p of proposed) {
       if (p.placeholder || p.already || !checked.has(p.index)) continue
-      await createPractice.mutateAsync({
-        id: p.ref,
-        slot: {
-          tier: p.tier,
-          time: p.time,
-          schedule: JSON.stringify(p.schedule),
-        },
-      })
+      if (p.replacesId) {
+        // Mirror VariantSelector: flip active_variant on the existing row.
+        // No archive, no new slot — the user's schedule and tier survive.
+        await updatePractice.mutateAsync({
+          id: p.replacesId,
+          data: { activeVariant: p.ref },
+        })
+      } else {
+        await createPractice.mutateAsync({
+          id: p.ref,
+          slot: {
+            tier: p.tier,
+            time: p.time,
+            schedule: JSON.stringify(p.schedule),
+          },
+        })
+      }
     }
     // TODO: pre-fill template.resolutions into the Resolutions panel and pin
     // template.collections — deferred; practice adoption is the priority.
     onClose()
     onAdopted?.()
   }
+
+  const ctaLabel =
+    selectedCount === 0
+      ? t('templates.adoptCtaEmpty')
+      : selectedSwaps === 0
+        ? t('templates.adoptCta', { count: selectedAdds })
+        : selectedAdds === 0
+          ? t('templates.adoptCtaSwapOnly', { count: selectedSwaps, swaps: selectedSwaps })
+          : t('templates.adoptCtaWithSwaps', {
+              count: selectedAdds,
+              swaps: selectedSwaps,
+            })
 
   return (
     <BottomSheet
@@ -128,11 +163,14 @@ export function AdoptSheet({
             {proposed.map((p) => {
               const disabled = p.placeholder || p.already
               const isChecked = !disabled && checked.has(p.index)
+              const isSwap = !p.placeholder && !p.already && !!p.replacesId
               const caption = p.placeholder
                 ? t('templates.comingSoon')
                 : p.already
                   ? t('templates.alreadyInRule')
-                  : cadenceLabel(p.schedule, t)
+                  : isSwap
+                    ? t('templates.willReplace', { name: p.replacesLabel })
+                    : cadenceLabel(p.schedule, t)
               return (
                 <Pressable
                   key={`${p.placeholder ? 'ph' : p.ref}-${p.index}`}
@@ -154,7 +192,11 @@ export function AdoptSheet({
                       <Typography variant="interface" numberOfLines={1}>
                         {p.name}
                       </Typography>
-                      <Typography variant="caption" tone="muted">
+                      <Typography
+                        variant="caption"
+                        tone={isSwap ? undefined : 'muted'}
+                        color={isSwap ? '$accent' : undefined}
+                      >
                         {caption}
                       </Typography>
                     </YStack>
@@ -168,21 +210,23 @@ export function AdoptSheet({
         <YStack paddingHorizontal="$lg">
           <Pressable
             onPress={confirm}
-            disabled={selectedCount === 0 || createPractice.isPending}
+            disabled={selectedCount === 0 || createPractice.isPending || updatePractice.isPending}
             accessibilityRole="button"
-            accessibilityLabel={t('templates.adoptCta', { count: selectedCount })}
+            accessibilityLabel={ctaLabel}
           >
             <YStack
               backgroundColor="$accent"
               borderRadius="$md"
               padding="$md"
               alignItems="center"
-              opacity={selectedCount === 0 || createPractice.isPending ? 0.5 : 1}
+              opacity={
+                selectedCount === 0 || createPractice.isPending || updatePractice.isPending
+                  ? 0.5
+                  : 1
+              }
             >
               <Typography variant="label" fontSize="$3" color="$background">
-                {selectedCount === 0
-                  ? t('templates.adoptCtaEmpty')
-                  : t('templates.adoptCta', { count: selectedCount })}
+                {ctaLabel}
               </Typography>
             </YStack>
           </Pressable>
@@ -190,6 +234,17 @@ export function AdoptSheet({
       </YStack>
     </BottomSheet>
   )
+}
+
+/**
+ * Label to show in "Replaces: {name}" — prefers the variant label
+ * ("Traditional", "Sacred Heart") when the practice is part of an
+ * alternativeTo group, since otherwise all variants would share the same name.
+ */
+function variantDisplayName(ref: string): string {
+  const manifest = getManifest(ref)
+  if (manifest?.alternativeTo) return localizeContent(manifest.alternativeTo.label)
+  return resolvePracticeName(ref)
 }
 
 /** A small square that fills gold with a check when selected — no boxed pill. */

@@ -1,0 +1,51 @@
+{
+	"id": "morning-offering-montfort",
+	"icon": "mary",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "de Montfort Renewal",
+			"pt-BR": "Renovação de Montfort"
+		},
+		"description": {
+			"en-US": "The daily renewal of the Total Consecration through the hands of Mary.",
+			"pt-BR": "A renovação diária da Consagração Total pelas mãos de Maria."
+		}
+	},
+	"source": {
+		"en-US": "St. Louis-Marie Grignion de Montfort, *True Devotion to the Blessed Virgin* §233 and §266 (composed c. 1712). Verified via [Montfort.org.br](https://www.montfort.org.br/bra/oracoes/oracoes/consagracao_n_sra/) and [CatholicTradition.org](http://www.catholictradition.org/Classics/secret-marytxt.htm).",
+		"pt-BR": "São Luís Maria Grignion de Montfort, *Tratado da Verdadeira Devoção à Santíssima Virgem* §233 e §266 (composto c. 1712). Verificado em [Montfort.org.br](https://www.montfort.org.br/bra/oracoes/oracoes/consagracao_n_sra/) e [CatholicTradition.org](http://www.catholictradition.org/Classics/secret-marytxt.htm)."
+	},
+	"name": {
+		"en-US": "Morning Offering — Renewal of the Consecration",
+		"pt-BR": "Oferecimento Matinal — Renovação da Consagração"
+	},
+	"categories": ["daily", "marian", "consecration"],
+	"estimatedMinutes": 2,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The morning act of those consecrated to Jesus through Mary — the renewal recommended by St. Louis de Montfort, by which the soul gives itself again each day to the Lord through the hands of His Mother.",
+		"pt-BR": "O ato matinal dos consagrados a Jesus por Maria — a renovação recomendada por São Luís de Montfort, pela qual a alma se entrega cada dia novamente ao Senhor pelas mãos de sua Mãe."
+	},
+	"history": {
+		"en-US": "St. Louis-Marie Grignion de Montfort (1673–1716) presented this short act in his *True Devotion to Mary* (§233 and §266) as the daily renewal of the Total Consecration. He counsels that the consecration be renewed yearly, monthly, and even daily, and gives this brief formula so the act can live in the rhythm of ordinary days.",
+		"pt-BR": "São Luís Maria Grignion de Montfort (1673-1716) apresentou este breve ato no *Tratado da Verdadeira Devoção* (§233 e §266) como renovação diária da Consagração Total. Aconselha que a consagração seja renovada anualmente, mensalmente e mesmo diariamente, e oferece esta fórmula breve para que o ato viva no ritmo dos dias comuns."
+	},
+	"howToPray": {
+		"en-US": "Upon waking, make the Sign of the Cross. Pray the renewal slowly — it is a real act of self-gift, not a phrase. Some add a short Hail Mary to seal it; the consecrated soul places the whole day in Mary's hands.",
+		"pt-BR": "Ao acordar, faça o Sinal da Cruz. Reze a renovação devagar — é ato real de entrega, não frase. Alguns acrescentam uma breve Ave-Maria para selar o ofício; a alma consagrada coloca o dia inteiro nas mãos de Maria."
+	},
+	"tags": ["morning", "offering", "marian", "montfort", "consecration"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
