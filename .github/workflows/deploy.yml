@@ -64,6 +64,9 @@ jobs:
           done
           rm -rf _site_hearth
 
+      - name: Install corpus builder deps
+        run: pip install snowballstemmer
+
       - name: Build content corpus (Hearth v2)
         run: python3 scripts/build-corpus.py _site/hearth/v2
 
