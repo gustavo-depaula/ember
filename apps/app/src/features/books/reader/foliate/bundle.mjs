@@ -42,12 +42,32 @@ const paginatorSrc = paginatorRaw
     'if (this.scrolled || state.pinched) return',
     "if (this.scrolled || state.pinched) return; const __sel = e.target && e.target.ownerDocument && e.target.ownerDocument.getSelection && e.target.ownerDocument.getSelection(); if (__sel && __sel.type === 'Range' && !__sel.isCollapsed) return",
   )
-  // Snappier page-turn animation — foliate ships 300ms; Apple Books and the
-  // iOS short-transition standard feel closer to 200ms. Anchor on the unique
-  // 3-arg slot of the `animate(...)` call inside the page-scroll path.
+  // Snappier page-turn animation — foliate ships 300ms; 200ms felt closer to
+  // Apple Books but still draggy because `easeOutQuad` only decays as a
+  // quadratic and lingers at the tail. 150ms with `easeOutCubic` (sharper
+  // landing) is the threshold where the flip reads as instantaneous without
+  // dropping the in-flight motion cue. Anchor on the unique 3-arg slot of the
+  // `animate(...)` call inside the page-scroll path.
   .replace(
     'element[scrollProp], offset, 300, easeOutQuad',
-    'element[scrollProp], offset, 200, easeOutQuad',
+    'element[scrollProp], offset, 150, easeOutCubic',
+  )
+  // Inject `easeOutCubic` next to the existing `easeOutQuad` definition so
+  // the patched `animate(...)` call above has the symbol in scope.
+  .replace(
+    'const easeOutQuad = x => 1 - (1 - x) * (1 - x)',
+    'const easeOutQuad = x => 1 - (1 - x) * (1 - x)\nconst easeOutCubic = x => 1 - (1 - x) * (1 - x) * (1 - x)',
+  )
+  // Snap each animation frame's scrollLeft to an integer pixel. `animate()`
+  // lerps a floating-point offset and writes it straight to `scrollProp`;
+  // sub-pixel scrollLeft values force WebKit/Blink to re-rasterize text with
+  // a different sub-pixel antialiasing pattern every frame, which reads as
+  // shimmery / "low-res image being slid" during the flip. Math.round keeps
+  // the layer's text raster identical frame-to-frame, so only the integer
+  // translation actually changes — the compositor's job.
+  .replace(
+    'x => element[scrollProp] = x',
+    'x => element[scrollProp] = Math.round(x)',
   )
   // Promote #container to a compositor layer so JS-driven scrollLeft writes
   // are GPU-accelerated. Without a layer hint, WebKit re-lays-out the

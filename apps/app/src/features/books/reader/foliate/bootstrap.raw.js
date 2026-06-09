@@ -457,12 +457,14 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
   };
 
   // Cross-chapter fade-in. Foliate swaps the iframe element outright on
-  // chapter boundaries, which otherwise reads as a hard snap.
+  // chapter boundaries, which otherwise reads as a hard snap. 200ms read as a
+  // perceptible lag at the boundary; 120ms is short enough to feel like a
+  // page-flip continuation rather than a transition of its own.
   const fadeInChapter = (doc) => {
     const docEl = doc && doc.documentElement;
     if (!docEl) return;
     docEl.style.opacity = '0';
-    docEl.style.transition = 'opacity 200ms ease-out';
+    docEl.style.transition = 'opacity 120ms ease-out';
     requestAnimationFrame(() => {
       docEl.style.opacity = '1';
     });
