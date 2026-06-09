@@ -3,7 +3,16 @@ import { Platform, View } from 'react-native'
 // biome-ignore lint/suspicious/noExplicitAny: WebView type not exported from react-native-webview
 const WebView: any = Platform.OS !== 'web' ? require('react-native-webview').default : undefined
 
-export function HtmlWebView({ html }: { html: string }) {
+export function HtmlWebView({
+  html,
+  scrollEnabled = false,
+}: {
+  html: string
+  /** Let the WebView own its own scroll. Opt-in: keep off when the parent is
+   * already a ScrollView (avoids nested scrolling), turn on for fixed-height
+   * containers like the audio player description. */
+  scrollEnabled?: boolean
+}) {
   if (Platform.OS === 'web') {
     return (
       <View style={{ flex: 1 }}>
@@ -30,9 +39,9 @@ export function HtmlWebView({ html }: { html: string }) {
       originWhitelist={['*']}
       javaScriptEnabled
       showsVerticalScrollIndicator={false}
-      scrollEnabled={false}
-      bounces={false}
-      overScrollMode="never"
+      scrollEnabled={scrollEnabled}
+      bounces={scrollEnabled}
+      overScrollMode={scrollEnabled ? 'auto' : 'never'}
     />
   )
 }

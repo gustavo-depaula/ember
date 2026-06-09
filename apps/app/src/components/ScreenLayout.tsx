@@ -18,6 +18,7 @@ export function ScreenLayout({
   padded = true,
   refreshing,
   onRefresh,
+  modal = false,
 }: {
   children: ReactNode
   scroll?: boolean
@@ -25,12 +26,16 @@ export function ScreenLayout({
   /** Pull-to-refresh: when provided, the scroll view shows a RefreshControl. */
   refreshing?: boolean
   onRefresh?: () => void | Promise<void>
+  /** fullScreenModal route — the modal covers the tab bar and the
+   * now-playing accessory, so skip the manual bottom clearance. Without
+   * this, modals reserve ~128pt of empty padding at the bottom. */
+  modal?: boolean
 }) {
   const insets = useSafeAreaInsets()
   const nowPlayingClearance = useNowPlayingClearance()
   // The tabs disable automatic content insets so this manual padding is the
   // single source of truth (lets the home flourish bleed into the notch).
-  const bottomClearance = nativeTabBarClearance + nowPlayingClearance
+  const bottomClearance = modal ? 0 : nativeTabBarClearance + nowPlayingClearance
 
   const inner = (
     <YStack

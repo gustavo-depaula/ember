@@ -25,10 +25,16 @@ function doc(body: string, color: string, link: string): string {
 </style></head><body>${body}</body></html>`
 }
 
-export function RichDescription({ html }: { html: string }) {
+export function RichDescription({
+  html,
+  scrollEnabled = false,
+}: {
+  html: string
+  scrollEnabled?: boolean
+}) {
   const theme = useTheme()
   const color = theme.color.val
   const link = theme.accent.val
   const doc_ = useMemo(() => doc(html, color, link), [html, color, link])
-  return <HtmlWebView html={doc_} />
+  return <HtmlWebView html={doc_} scrollEnabled={scrollEnabled} />
 }

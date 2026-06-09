@@ -37,7 +37,7 @@ export function AudioPlayerScreen({ onBack }: { onBack: () => void }) {
 
   if (!nowPlaying) {
     return (
-      <ScreenLayout>
+      <ScreenLayout modal>
         <YStack flex={1} alignItems="center" justifyContent="center" padding="$lg">
           <Text fontFamily="$body" color="$colorSecondary">
             {t('creators.nothingPlaying')}
@@ -59,7 +59,7 @@ export function AudioPlayerScreen({ onBack }: { onBack: () => void }) {
   const artworkSize = hasDescription ? 180 : 240
 
   return (
-    <ScreenLayout scroll={false}>
+    <ScreenLayout scroll={false} modal>
       <YStack flex={1} gap="$md" paddingVertical="$lg">
         <Pressable
           onPress={onBack}
@@ -199,7 +199,7 @@ export function AudioPlayerScreen({ onBack }: { onBack: () => void }) {
               {t('creators.description')}
             </Text>
             <YStack flex={1}>
-              <RichDescription html={nowPlaying.summary ?? ''} />
+              <RichDescription html={nowPlaying.summary ?? ''} scrollEnabled />
             </YStack>
           </YStack>
         )}
