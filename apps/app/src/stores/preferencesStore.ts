@@ -2,6 +2,7 @@ import type { ContentLanguage } from '@ember/content-engine'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
+import { READER_FLOW_MODES, type ReaderFlowMode } from '@/config/readerFlow'
 import { READER_PALETTE_IDS, type ReaderPaletteId } from '@/config/readerPalettes'
 import { type ReadingFontId, readingFonts } from '@/config/readingFonts'
 import { getAllPreferences, removePreference, setPreference } from '@/db/repositories/preferences'
@@ -58,6 +59,7 @@ type PreferencesState = {
   lineHeightStep: number
   margin: MarginPreset
   textAlign: TextAlignment
+  readerFlow: ReaderFlowMode
 
   // State
   hydrated: boolean
@@ -87,6 +89,7 @@ type PreferencesState = {
   setLineHeightStep: (step: number) => void
   setMargin: (margin: MarginPreset) => void
   setTextAlign: (align: TextAlignment) => void
+  setReaderFlow: (flow: ReaderFlowMode) => void
 
   hydrate: () => Promise<void>
 }
@@ -111,6 +114,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     lineHeightStep: 5,
     margin: 'normal',
     textAlign: 'justify',
+    readerFlow: 'paginated',
     hydrated: false,
 
     setTranslation: (translation) => {
@@ -271,6 +275,13 @@ export const usePreferencesStore = create<PreferencesState>()(
       setPreference('reading-text-align', align)
     },
 
+    setReaderFlow: (flow) => {
+      set((state) => {
+        state.readerFlow = flow
+      })
+      setPreference('reader-flow', flow)
+    },
+
     hydrate: async () => {
       const prefs = await getAllPreferences()
 
@@ -327,6 +338,10 @@ export const usePreferencesStore = create<PreferencesState>()(
         if (margin === 'narrow' || margin === 'normal' || margin === 'wide') state.margin = margin
         const textAlign = prefs['reading-text-align']
         if (textAlign === 'justify' || textAlign === 'left') state.textAlign = textAlign
+        const readerFlow = prefs['reader-flow']
+        if (readerFlow && READER_FLOW_MODES.includes(readerFlow as ReaderFlowMode)) {
+          state.readerFlow = readerFlow as ReaderFlowMode
+        }
 
         // Enforce line height >= font size - 1
         const minLineHeight = Math.max(minStep, state.fontSizeStep - 1)

@@ -1,5 +1,6 @@
 import { useMemo } from 'react'
 import { useColorScheme } from 'react-native'
+import type { ReaderFlowMode } from '@/config/readerFlow'
 import { resolvePalette } from '@/config/readerPalettes'
 import { getCssFontFamily } from '@/config/readingFonts'
 import { readingScale } from '@/hooks/useReadingStyle'
@@ -16,6 +17,7 @@ export type ReaderConfig = {
   background: string
   color: string
   isDark: boolean
+  flow: ReaderFlowMode
 }
 
 export function useReaderConfig(): ReaderConfig {
@@ -27,6 +29,7 @@ export function useReaderConfig(): ReaderConfig {
   const lineHeightStep = usePreferencesStore((s) => s.lineHeightStep)
   const textAlign = usePreferencesStore((s) => s.textAlign)
   const margin = usePreferencesStore((s) => s.margin)
+  const readerFlow = usePreferencesStore((s) => s.readerFlow)
 
   return useMemo(() => {
     const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
@@ -43,6 +46,7 @@ export function useReaderConfig(): ReaderConfig {
       background: palette.background,
       color: palette.color,
       isDark: palette.isDark,
+      flow: readerFlow,
     }
   }, [
     themePreference,
@@ -53,5 +57,6 @@ export function useReaderConfig(): ReaderConfig {
     lineHeightStep,
     textAlign,
     margin,
+    readerFlow,
   ])
 }

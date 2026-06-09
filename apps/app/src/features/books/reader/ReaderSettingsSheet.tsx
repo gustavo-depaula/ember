@@ -6,6 +6,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ReadingConfig } from '@/components/ReadingConfigModal'
+import { READER_FLOW_MODES } from '@/config/readerFlow'
 import { READER_PALETTE_IDS, type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
 import { lightTap } from '@/lib/haptics'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -50,6 +51,8 @@ export function ReaderSettingsSheet({
   const setTheme = usePreferencesStore((s) => s.setTheme)
   const readerPalette = usePreferencesStore((s) => s.readerPalette)
   const setReaderPalette = usePreferencesStore((s) => s.setReaderPalette)
+  const readerFlow = usePreferencesStore((s) => s.readerFlow)
+  const setReaderFlow = usePreferencesStore((s) => s.setReaderFlow)
 
   return (
     <BottomSheet
@@ -98,8 +101,9 @@ export function ReaderSettingsSheet({
               </Pressable>
             ) : null}
 
-            <ThemePicker
+            <SegmentedPicker
               value={themePreference}
+              options={themeOptions}
               onChange={(v) => {
                 void lightTap()
                 setTheme(v)
@@ -108,6 +112,18 @@ export function ReaderSettingsSheet({
                 light: t('settings.themeLight', { defaultValue: 'Light' }),
                 dark: t('settings.themeDark', { defaultValue: 'Dark' }),
                 system: t('settings.themeSystem', { defaultValue: 'System' }),
+              }}
+            />
+            <SegmentedPicker
+              value={readerFlow}
+              options={READER_FLOW_MODES}
+              onChange={(v) => {
+                void lightTap()
+                setReaderFlow(v)
+              }}
+              labels={{
+                paginated: t('books.layoutPaginated', { defaultValue: 'Pages' }),
+                scrolled: t('books.layoutScrolled', { defaultValue: 'Scroll' }),
               }}
             />
             <ReadingConfig />
@@ -238,18 +254,22 @@ function PalettePicker({
   )
 }
 
-function ThemePicker({
+const themeOptions = ['light', 'dark', 'system'] as const
+
+function SegmentedPicker<T extends string>({
   value,
+  options,
   onChange,
   labels,
 }: {
-  value: 'light' | 'dark' | 'system'
-  onChange: (v: 'light' | 'dark' | 'system') => void
-  labels: { light: string; dark: string; system: string }
+  value: T
+  options: readonly T[]
+  onChange: (v: T) => void
+  labels: Record<T, string>
 }) {
   return (
     <XStack borderRadius="$lg" borderWidth={1} borderColor="$borderColor" overflow="hidden">
-      {(['light', 'dark', 'system'] as const).map((opt) => {
+      {options.map((opt) => {
         const selected = opt === value
         return (
           <XStack

@@ -1,5 +1,6 @@
 import { forwardRef, useEffect, useImperativeHandle, useMemo, useRef } from 'react'
 import { Platform, View } from 'react-native'
+import type { ReaderFlowMode } from '@/config/readerFlow'
 import { bootstrapScript } from './bootstrapScript'
 import { paginatorScript } from './paginatorScript'
 
@@ -14,6 +15,8 @@ export type FoliateConfig = {
   /** BCP-47 language tag for the chapter content (e.g. `en-US`, `pt-BR`, `la`).
    *  Drives WebKit's `hyphens: auto` dictionary selection. */
   lang: string
+  /** 'paginated' = horizontal columns; 'scrolled' = vertical scroll. */
+  flow: ReaderFlowMode
 }
 
 export type FoliateMessage =
