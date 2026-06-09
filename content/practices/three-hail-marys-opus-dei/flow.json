@@ -8,8 +8,8 @@
 			}
 		},
 		{
-			"type": "rubric",
-			"text": {
+			"type": "prayer",
+			"inline": {
 				"en-US": "For purity of body.",
 				"pt-BR": "Pela pureza do corpo."
 			}
@@ -19,8 +19,8 @@
 			"ref": "hail-mary"
 		},
 		{
-			"type": "rubric",
-			"text": {
+			"type": "prayer",
+			"inline": {
 				"en-US": "For purity of mind.",
 				"pt-BR": "Pela pureza da mente."
 			}
@@ -30,8 +30,8 @@
 			"ref": "hail-mary"
 		},
 		{
-			"type": "rubric",
-			"text": {
+			"type": "prayer",
+			"inline": {
 				"en-US": "For purity of heart.",
 				"pt-BR": "Pela pureza do coração."
 			}
@@ -43,8 +43,9 @@
 		{
 			"type": "prayer",
 			"inline": {
-				"en-US": "Mater purissima, ora pro nobis.\nMother most pure, pray for us.",
-				"pt-BR": "Mater purissima, ora pro nobis.\nMãe puríssima, rogai por nós."
+				"la": "Mater purissima, ora pro nobis.",
+				"en-US": "Mother most pure, pray for us.",
+				"pt-BR": "Mãe puríssima, rogai por nós."
 			}
 		}
 	]
