@@ -1,63 +1,14 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static parsed markdown nodes never reorder
 import type { BilingualText } from '@ember/content-engine'
-import { Fragment } from 'react'
-import { Text as RNText, type TextStyle } from 'react-native'
 import { Text, YStack } from 'tamagui'
-import { bodyFont } from '@/config/fonts'
 import { useReadingStyle } from '@/hooks/useReadingStyle'
 import { Typography } from '../typography'
 import { ImageBlock } from './ImageBlock'
+import { InlineText } from './InlineMarkdown'
 import type { InlineNode } from './parseMarkdown'
 import { parseMarkdown } from './parseMarkdown'
 
 export { parseMarkdown }
-
-// React Native's Text ignores inherited fontWeight/fontStyle when fontFamily is
-// set, so nested emphasis must resolve a concrete face. EB Garamond ships
-// bold/italic faces; the other reading fonts load only Regular, so fall back to
-// synthetic weight/style on the base family.
-function emphasisStyle(baseFamily: string, weight: 400 | 700, italic: boolean): TextStyle {
-  if (baseFamily.startsWith('EBGaramond')) {
-    const variants = bodyFont.face?.[weight]
-    return { fontFamily: (italic ? variants?.italic : variants?.normal) ?? baseFamily }
-  }
-  return {
-    fontFamily: baseFamily,
-    ...(weight === 700 ? { fontWeight: '700' } : {}),
-    ...(italic ? { fontStyle: 'italic' } : {}),
-  }
-}
-
-function InlineText({ nodes, baseFamily }: { nodes: InlineNode[]; baseFamily: string }) {
-  return (
-    <>
-      {nodes.map((node, i) => {
-        switch (node.type) {
-          case 'bold':
-            return (
-              <RNText key={i} style={emphasisStyle(baseFamily, 700, false)}>
-                {node.text}
-              </RNText>
-            )
-          case 'italic':
-            return (
-              <RNText key={i} style={emphasisStyle(baseFamily, 400, true)}>
-                {node.text}
-              </RNText>
-            )
-          case 'bolditalic':
-            return (
-              <RNText key={i} style={emphasisStyle(baseFamily, 700, true)}>
-                {node.text}
-              </RNText>
-            )
-          default:
-            return <Fragment key={i}>{node.text}</Fragment>
-        }
-      })}
-    </>
-  )
-}
 
 export function ProseBlock({ text }: { text: BilingualText }) {
   const nodes = parseMarkdown(text.primary)
