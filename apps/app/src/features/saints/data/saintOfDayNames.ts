@@ -2,12 +2,15 @@
 // Per-day saint name + first available reflection from Pictorial Lives of the Saints.
 export type SaintOfDayEntry = {
   name: { 'en-US': string; 'pt-BR': string }
+  /** Primary chapter id (matches the image filename in the book). */
+  chapter: string
   reflection?: { 'en-US': string; 'pt-BR': string }
 }
 
 export const saintOfDay: Record<string, SaintOfDayEntry> = {
   '01-01': {
     name: { 'en-US': 'The Circumcision of our Lord', 'pt-BR': 'A Circuncisão de Nosso Senhor' },
+    chapter: 'jan-01-the-circumcision-of-our-lord',
     reflection: {
       'en-US':
         'Let us profit by the circumstance of the new year, and of the wonderful renewal wrought in the world by the great mystery of this day, to renew in our hearts an increase of fervor and of generosity in the service of God. May this year be one of fervor and of progress! It will go by rapidly, like that which has just ended. If God permits us to see its end, how glad and happy we shall be to have passed it holily!',
@@ -20,6 +23,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Fulgentius, Bishop · St. Macarius of Alexandria',
       'pt-BR': 'São Fulgêncio, Bispo · São Macário de Alexandria',
     },
+    chapter: 'jan-02-macarius-of-alexandria',
     reflection: {
       'en-US':
         'Each year may bring us fresh changes and trials; let us learn from St. Fulgentius to receive all that happens as from the hand of God, and appointed for our salvation.',
@@ -29,6 +33,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-03': {
     name: { 'en-US': 'St. Genevieve, Virgin', 'pt-BR': 'Santa Genoveva, Virgem' },
+    chapter: 'jan-03-genevieve',
     reflection: {
       'en-US':
         'Genevieve was only a poor peasant girl, but Christ dwelt in her heart. She was anointed with His Spirit, and with power; she went about doing good, and God was with her.',
@@ -41,6 +46,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Titus, Bishop · St. Gregory, Bishop',
       'pt-BR': 'São Tito, Bispo · São Gregório, Bispo',
     },
+    chapter: 'jan-04-gregory',
     reflection: {
       'en-US':
         'Saints win their empire over the hearts of men by their wide and affectionate sympathy. This was the characteristic gift of St. Titus, as it was of St. Paul, St. Francis Xavier, and many others.',
@@ -50,6 +56,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-05': {
     name: { 'en-US': 'St. Simeon Stylites', 'pt-BR': 'São Simeão Estilita' },
+    chapter: 'jan-05-simeon-stylites',
     reflection: {
       'en-US':
         'St. Augustine says: "This is the business of our life: by effort and by toil, by prayer and supplication, to advance in the grace of God, till we come to that height of perfection in which with clean hearts we may behold God."',
@@ -59,6 +66,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-06': {
     name: { 'en-US': 'The Epiphany of Our Lord', 'pt-BR': 'A Epifania de Nosso Senhor' },
+    chapter: 'jan-06-the-epiphany-of-our-lord',
     reflection: {
       'en-US':
         'Admire the almighty power of this little Child, Who from His cradle makes known His coming to the shepherds and magi—to the shepherds by means of His angel, to the magi by a star in the East. Admire the docility of these kings. Jesus is born; behold them at His feet? Let us be little, let us hide ourselves, and the divine strength will be granted to us. Let us be docile and quick in following divine inspirations, and we shall then become wise of the wisdom of God, powerful in His almighty power.',
@@ -68,6 +76,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-07': {
     name: { 'en-US': 'St. Lucian, Martyr', 'pt-BR': 'São Luciano, Mártir' },
+    chapter: 'jan-07-lucian',
     reflection: {
       'en-US':
         'If we would keep our faith pure, we must study its holy truths. We cannot detect falsehood till we know and love the truth; and to us the truth is not an abstraction, but a Person, Jesus Christ, God and Man.',
@@ -80,6 +89,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Apollinaris, the Apologist, Bishop',
       'pt-BR': 'Santo Apolinário, o Apologista, Bispo',
     },
+    chapter: 'jan-08-apollinaris-the-apologist',
     reflection: {
       'en-US':
         '"Therefore I say unto you, all things whatsoever you ask when you pray, believe that you shall receive: and they shall come unto you."',
@@ -92,6 +102,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Ss. Julian and Basilissa, Martyrs',
       'pt-BR': 'São Julião e Santa Basilissa, Mártires',
     },
+    chapter: 'jan-09-ss-julian-and-basilissa',
     reflection: {
       'en-US':
         'God often rewards men for works that are pleasing in His sight by giving them grace and opportunity to do other works higher still. St. Augustine said, "I have never seen a compassionate and charitable man die a bad death."',
@@ -101,6 +112,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-10': {
     name: { 'en-US': 'St. William, Archbishop', 'pt-BR': 'São Guilherme, Arcebispo' },
+    chapter: 'jan-10-william',
     reflection: {
       'en-US':
         'The champions of faith prove the truth of their teaching no less by the holiness of their lives than by the force of their arguments. Never forget that to convert others we must first see to our own souls.',
@@ -110,6 +122,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-11': {
     name: { 'en-US': 'St. Theodosius, The Cenobiarch', 'pt-BR': 'São Teodósio, o Cenobiarca' },
+    chapter: 'jan-11-theodosius-the-cenobiarch',
     reflection: {
       'en-US':
         'St. Theodosius, for the sake of charity, sacrificed all he most prized—his home for the love of God, and his solitude for the love of his neighbor. Can ours be true charity if it costs us little or nothing?',
@@ -119,6 +132,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-12': {
     name: { 'en-US': 'St. Aelred, Abbot', 'pt-BR': 'Santo Elredo, Abade' },
+    chapter: 'jan-12-aelred',
     reflection: {
       'en-US':
         'When a man has given himself to God, God gives back friendship with all His other gifts a hundredfold. Friends are then loved no longer for themselves only, but for God, and that with a love lively and tender; for God can easily purify feeling. It is not feeling, but self-love, which corrupts friendship.',
@@ -128,6 +142,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-13': {
     name: { 'en-US': 'St. Veronica of Milan', 'pt-BR': 'Santa Verônica de Milão' },
+    chapter: 'jan-13-veronica-of-milan',
     reflection: {
       'en-US':
         'When Veronica was urged in sickness to accept some exemption from her labors, her one answer was, "I must work while I can, while I have time." Dare we, then, waste ours?',
@@ -137,6 +152,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-14': {
     name: { 'en-US': 'St. Hilary of Poitiers', 'pt-BR': 'Santo Hilário de Poitiers' },
+    chapter: 'jan-14-hilary-of-poitiers',
     reflection: {
       'en-US':
         'Like St. Hilary, we, too, are called to a lifelong contest with heretics; we shall succeed in proportion as we combine hatred of heresy, with compassion for its victims.',
@@ -146,6 +162,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-15': {
     name: { 'en-US': 'St. Paul, the First Hermit', 'pt-BR': 'São Paulo, o Primeiro Eremita' },
+    chapter: 'jan-15-paul-the-first',
     reflection: {
       'en-US':
         'We shall never repent of having trusted in God, for He cannot fail those who lean on Him; nor shall We ever trust in ourselves without being deceived.',
@@ -155,6 +172,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-16': {
     name: { 'en-US': 'St. Honoratus, Archbishop', 'pt-BR': 'Santo Honorato, Arcebispo' },
+    chapter: 'jan-16-honoratus',
     reflection: {
       'en-US':
         'The soul cannot truly serve God while it is involved in the distractions and pleasures of the world. St. Honoratus knew this, and chose to be a servant of Christ his Lord. Resolve, in whatever state you are, to live absolutely detached from the world, and to separate yourself as much as possible from it.',
@@ -167,6 +185,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Antony, Patriarch of Monks',
       'pt-BR': 'Santo Antão, Patriarca dos Monges',
     },
+    chapter: 'jan-17-antony',
     reflection: {
       'en-US':
         'The more violent were the assaults of temptation suffered by St. Antony, the more firmly did he grasp his weapons, namely, mortification and prayer. Let us imitate him in this if we wish to obtain victories like his.',
@@ -176,6 +195,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-18': {
     name: { 'en-US': "St. Peter's Chair at Rome", 'pt-BR': 'A Cátedra de São Pedro em Roma' },
+    chapter: 'jan-18-peters-chair-at-rome',
     reflection: {
       'en-US':
         "As one of God's greatest mercies to His Church, let us earnestly beg of Him to raise up in it zealous pastors, eminently replenished with His Spirit, with which He animated His apostles.",
@@ -185,6 +205,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-19': {
     name: { 'en-US': 'St. Canutus, King, Martyr', 'pt-BR': 'São Canuto, Rei, Mártir' },
+    chapter: 'jan-19-canutus',
     reflection: {
       'en-US':
         'The soul of a man is endowed with many noble powers, and feels a keen joy in their exercise; but the keenest joy we are capable of feeling consists in prostrating all our powers of mind and heart in humblest adoration before the majesty of God.',
@@ -194,6 +215,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-20': {
     name: { 'en-US': 'St. Sebastian, Martyr', 'pt-BR': 'São Sebastião, Mártir' },
+    chapter: 'jan-20-sebastian',
     reflection: {
       'en-US':
         'Your ordinary occupations will give you opportunities of laboring for the faith. Ask help from St. Sebastian. He was not a priest nor a religious, but a soldier.',
@@ -203,6 +225,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-21': {
     name: { 'en-US': 'St. Agnes, Virgin, Martyr', 'pt-BR': 'Santa Inês, Virgem, Mártir' },
+    chapter: 'jan-21-agnes',
     reflection: {
       'en-US':
         'Her innocence endeared St. Agnes to Christ, as it has endeared her to His Church ever since. Even as penitents we may imitate this innocence of hers in our own degree. Let us strictly guard our eyes, and Christ, when He sees that we keep our hearts pure for love of Him, will renew our youth and give us back the years which the canker-worm has wasted.',
@@ -212,6 +235,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-22': {
     name: { 'en-US': 'St. Vincent, Martyr', 'pt-BR': 'São Vicente, Mártir' },
+    chapter: 'jan-22-vincent',
     reflection: {
       'en-US':
         'Do you wish to be at peace amidst suffering and temptation? Then make it your principal endeavor to grow in habits of prayer and in union with Christ. Have confidence in Him. He will make you victorious over your spiritual enemies and over yourself. He will enlighten your darkness and sweeten your sufferings, and in your solitude and desolation He will draw nigh to you with His holy angels.',
@@ -221,6 +245,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-23': {
     name: { 'en-US': 'St. Raymund of Pennafort', 'pt-BR': 'São Raimundo de Penafort' },
+    chapter: 'jan-23-raymund-of-pennafort',
     reflection: {
       'en-US':
         'Ask St. Raymund to protect you from that fearful servitude, worse than any bodily slavery, which even one sinful habit tends to form.',
@@ -230,6 +255,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-24': {
     name: { 'en-US': 'St. Timothy, Bishop, Martyr', 'pt-BR': 'São Timóteo, Bispo, Mártir' },
+    chapter: 'jan-24-timothy',
     reflection: {
       'en-US':
         'St. Paul, in writing to Timothy, a faithful and well-tried servant of God, and a bishop now getting on in years, addresses him as a child, and seems most anxious about his perseverance in faith and piety. The letters abound in minute personal instructions for this end. It is therefore remarkable what great stress the Apostle lays on the avoiding of idle talk, and on the application to holy reading. These are his chief topics. Over and over again he exhorts his son Timothy to "avoid tattlers and busybodies; to give no heed to novelties; to shun profane and vain babblings, but to hold the form of sound words; to be an example in word and conversation; to attend to reading, to exhortation, and to doctrine."',
@@ -239,6 +265,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-25': {
     name: { 'en-US': 'The Conversion of St. Paul', 'pt-BR': 'A Conversão de São Paulo' },
+    chapter: 'jan-25-the-conversion-of-st-paul',
     reflection: {
       'en-US':
         'Listen to the words of the "*Imitation of Christ*," and let them sink into your heart: "He who would keep the grace of God, let him be grateful for grace when it is given, and patient when it is taken away. Let him pray that it may be given back to him, and be careful and humble, lest he lose it."',
@@ -248,6 +275,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-26': {
     name: { 'en-US': 'St. Polycarp, Bishop, Martyr', 'pt-BR': 'São Policarpo, Bispo, Mártir' },
+    chapter: 'jan-26-polycarp',
     reflection: {
       'en-US':
         'If we love Jesus Christ, we shall love the Church and hate heresy, which rends His mystical body, and destroys the souls for which He died. Like St. Polycarp, we shall maintain our constancy in the faith by loves of Jesus Christ, Who is its author and its finisher.',
@@ -257,6 +285,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-27': {
     name: { 'en-US': 'St. John Chrysostom', 'pt-BR': 'São João Crisóstomo' },
+    chapter: 'jan-27-john-chrysostom',
     reflection: {
       'en-US':
         'We should try to understand that the most productive work in the whole day, both for time and eternity, is that involved in hearing Mass. St. John Chrysostom felt this so keenly that he allowed no consideration of venerable usage to interfere with the easiness of hearing Mass.',
@@ -266,6 +295,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-28': {
     name: { 'en-US': 'St. Cyril of Alexandria', 'pt-BR': 'São Cirilo de Alexandria' },
+    chapter: 'jan-28-cyril-of-alexandria',
     reflection: {
       'en-US':
         "The Incarnation is the mystery of God's dwelling within us, and therefore should be the dearest object of our contemplation. It was the passion of St. Cyril's life; for it he underwent toil and persecution, and willingly sacrificed credit and friends.",
@@ -275,6 +305,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-29': {
     name: { 'en-US': 'St. Francis of Sales', 'pt-BR': 'São Francisco de Sales' },
+    chapter: 'jan-29-francis-of-sales',
     reflection: {
       'en-US':
         '"You will catch more flies," St. Francis used to say, "with a spoonful of honey than with a hundred barrels of vinegar. Were there anything better or fairer on earth than gentleness, Jesus Christ would have taught it us; and yet He has given us only two lessons to learn of Him—meekness and humility of heart."',
@@ -284,6 +315,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-30': {
     name: { 'en-US': 'St. Bathildes, Queen', 'pt-BR': 'Santa Batildes, Rainha' },
+    chapter: 'jan-30-bathildes',
     reflection: {
       'en-US':
         'In all that we do, let God and His holy will be always before our eyes, and our only aim and desire be to please Him.',
@@ -293,12 +325,14 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '01-31': {
     name: { 'en-US': 'St. Marcella, Widow', 'pt-BR': 'Santa Marcela, Viúva' },
+    chapter: 'jan-31-marcella',
   },
   '02-01': {
     name: {
       'en-US': 'St. Bridgid, Abbess, and Patroness of Ireland · St. Ignatius, Bishop, Martyr',
       'pt-BR': 'Santa Brígida, Abadessa e Padroeira da Irlanda · Santo Inácio, Bispo, Mártir',
     },
+    chapter: 'feb-01-bridgid',
     reflection: {
       'en-US':
         "Outward resemblance to Our Lady was St. Bridgid's peculiar privilege; but all are bound to grow like her in interior purity of heart. This grace St. Bridgid has obtained in a wonderful degree for the daughters of her native land, and will never fail to procure for all her devout clients.",
@@ -311,6 +345,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Purification, Commonly Called Candlemas-Day',
       'pt-BR': 'A Purificação, Comumente Chamada Dia de Candelária',
     },
+    chapter: 'feb-02-the-purification-commonly-called-candlemas-day',
     reflection: {
       'en-US':
         'Let us strive to imitate the humility of the ever-blessed Mother of God, remembering that humility is the path which leads to abiding peace and brings us near to the consolations of God.',
@@ -320,6 +355,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-03': {
     name: { 'en-US': 'St. Blase, Bishop and Martyr', 'pt-BR': 'São Brás, Bispo e Mártir' },
+    chapter: 'feb-03-blase',
     reflection: {
       'en-US':
         'There is no sacrifice which, by the aid of grace, human nature is not capable of accomplishing. When St. Paul complained to God of the violence of the temptation, God answered, "My grace is sufficient for thee, for power is made perfect in infirmity."',
@@ -329,6 +365,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-04': {
     name: { 'en-US': 'St. Jane of Valois', 'pt-BR': 'Santa Joana de Valois' },
+    chapter: 'feb-04-jane-of-valois',
     reflection: {
       'en-US':
         'During the lifetime of St. Jane, the Angelus was established in France. The sound of the thrice each day gave her hope in her sorrow, and fostered in her the desire still further to honor the Incarnation. How often might we derive grace from the same beautiful devotion, so enriched by the Church, yet neglected by so many Christians!',
@@ -341,6 +378,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Agatha, Virgin, Martyr · The Martyrs of Japan',
       'pt-BR': 'Santa Ágata, Virgem, Mártir · Os Mártires do Japão',
     },
+    chapter: 'feb-05-the-martyrs-of-japan',
     reflection: {
       'en-US':
         'Purity is a gift of God: we can gain it and preserve it only by care and diligence in avoiding all that may prove an incentive to sin.',
@@ -350,6 +388,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-06': {
     name: { 'en-US': 'St. Dorothy, Virgin, Martyr', 'pt-BR': 'Santa Doroteia, Virgem, Mártir' },
+    chapter: 'feb-06-dorothy',
     reflection: {
       'en-US':
         'Do you wish to be safe in the pleasures and happy in the troubles of the world? Pray for heavenly desires, and say, with St. Philip, "Paradise, Paradise!"',
@@ -359,6 +398,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-07': {
     name: { 'en-US': 'St. Romuald, Abbot', 'pt-BR': 'São Romualdo, Abade' },
+    chapter: 'feb-07-romuald',
     reflection: {
       'en-US':
         "St. Romuald's life teaches us that, if we only follow the impulse of the Holy Spirit, we shall easily find good everywhere, even on the most unlikely occasions. Our own sins, the sins of others, their ill will against us, or our own mistakes and misfortunes, are equally capable of leading us, with softened hearts, to the feet of God's mercy and love.",
@@ -368,6 +408,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-08': {
     name: { 'en-US': 'St. John of Matha', 'pt-BR': 'São João de Matha' },
+    chapter: 'feb-08-john-of-matha',
     reflection: {
       'en-US':
         'Let us never forget that our blessed Lord bade us love our neighbor not only as ourselves, but as He loved us, Who afterwards sacrificed Himself for us.',
@@ -380,6 +421,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Apollonia and the Martyrs of Alexandria',
       'pt-BR': 'Santa Apolônia e os Mártires de Alexandria',
     },
+    chapter: 'feb-09-apollonia-and-the',
     reflection: {
       'en-US':
         'Many saints, who were not martyrs, have longed to shed their blood for Christ. We, too, may pray for some portion of their spirit; and the least suffering for the faith, borne with humility and courage, is the proof that Christ has heard our prayer.',
@@ -389,6 +431,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-10': {
     name: { 'en-US': 'St. Scholastica, Abbess', 'pt-BR': 'Santa Escolástica, Abadessa' },
+    chapter: 'feb-10-scholastica',
     reflection: {
       'en-US':
         'Our relatives must be loved in and for God; otherwise the purest affection becomes inordinate and is so much taken from Him.',
@@ -398,6 +441,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-11': {
     name: { 'en-US': 'St. Severinus, Abbot of Agaunum', 'pt-BR': 'São Severino, Abade de Agauno' },
+    chapter: 'feb-11-severinus',
     reflection: {
       'en-US':
         'God loads with His favor those who delight in exercising mercy. "According to thy ability be merciful: if thou hast much, give abundantly; if thou hast little, take care even so to bestow willingly a little."',
@@ -407,6 +451,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-12': {
     name: { 'en-US': 'St. Benedict of Anian', 'pt-BR': 'São Bento de Aniane' },
+    chapter: 'feb-12-benedict-of-anian',
     reflection: {
       'en-US':
         'The decay of monastic discipline and its restoration by St. Benedict prove that none are safe from loss of fervor, but that all can regain it by fidelity to grace.',
@@ -416,6 +461,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-13': {
     name: { 'en-US': 'St. Catherine of Ricci', 'pt-BR': 'Santa Catarina de Ricci' },
+    chapter: 'feb-13-catherine-of-ricci',
     reflection: {
       'en-US':
         'If we truly love Jesus crucified, we must long, as did St. Catherine, to release the Holy Souls whom He has redeemed but has left to our charity to set free.',
@@ -428,6 +474,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Valentine, Priest and Martyr',
       'pt-BR': 'São Valentim, Sacerdote e Mártir',
     },
+    chapter: 'feb-14-valentine',
     reflection: {
       'en-US':
         'In the cause of justice and truth, prudence should not be held in account; otherwise prudence is mere human respect. St. Paul says: "The wisdom of the flesh is death."',
@@ -440,6 +487,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Faustinus and Jovita, Martyrs',
       'pt-BR': 'São Faustino e São Jovita, Mártires',
     },
+    chapter: 'feb-15-sts-faustinus-and-jovita',
     reflection: {
       'en-US':
         'The spirit of Christ is a spirit of martyrdom—at least of mortification and penance. It is always the spirit of the cross. The more we share in the suffering life of Christ, the greater share we inherit in His spirit, and in the fruit of His death. To souls mortified to their senses and disengaged from earthly things, God gives frequent foretastes of the sweetness of eternal life, and the most ardent desires of possessing Him in His glory. This is the spirit of martyrdom, which entitles a Christian to a happy resurrection and to the bliss of the life to come.',
@@ -452,6 +500,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Blessed John de Britto, Martyr · St. Onesimus, Disciple of St. Paul',
       'pt-BR': 'Beato João de Brito, Mártir · Santo Onésimo, Discípulo de São Paulo',
     },
+    chapter: 'feb-16-onesimus-disciple-of-st-paul',
     reflection: {
       'en-US':
         '"It is a great honor, a great glory to serve God, and to contemn all things for God. They will have a great grace who freely subject themselves to God\'s most holy will."—*The Imitation of Christ*.',
@@ -461,6 +510,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-17': {
     name: { 'en-US': 'St. Flavian, Bishop, Martyr', 'pt-BR': 'São Flaviano, Bispo, Mártir' },
+    chapter: 'feb-17-flavian',
     reflection: {
       'en-US':
         "By his unswerving loyalty to the Vicar of Christ, Flavian held fast to the truth and gained the martyr's crown. Let us learn from him to turn instinctively to that one true guide in all matters concerning our salvation.",
@@ -470,6 +520,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-18': {
     name: { 'en-US': 'St. Simeon, Bishop, Martyr', 'pt-BR': 'São Simeão, Bispo, Mártir' },
+    chapter: 'feb-18-simeon',
     reflection: {
       'en-US':
         'We bear the name of Christians, but are full of the spirit of worldlings, and our actions are infected with the poison of the world. We secretly seek ourselves, even when we flatter ourselves that God is our only aim; and whilst we undertake to convert the world, we suffer it to pervert us. When shall we begin to study to crucify our passions and die to ourselves, that we may lay a solid foundation of true virtue and establish its reign in our hearts?',
@@ -479,6 +530,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-19': {
     name: { 'en-US': 'St. Barbatus, Bishop', 'pt-BR': 'São Barbato, Bispo' },
+    chapter: 'feb-19-barbatus',
     reflection: {
       'en-US':
         'St. Augustine says: "When the enemy has been cast out of your hearts, renounce him, not only in word, but in work; not only by the sound of the lips, but in every act of your life."',
@@ -488,6 +540,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-20': {
     name: { 'en-US': 'St. Eucherius, Bishop', 'pt-BR': 'Santo Euquério, Bispo' },
+    chapter: 'feb-20-eucherius',
     reflection: {
       'en-US':
         'Nothing softens the soul and weakens piety so much as frivolous indulgence. God has revealed what high store He sets by "retirement" in these words: "I will lead her into solitude, and I will speak to her heart."',
@@ -497,6 +550,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-21': {
     name: { 'en-US': 'St. Severianus, Martyr, Bishop', 'pt-BR': 'São Severiano, Mártir, Bispo' },
+    chapter: 'feb-21-severianus',
     reflection: {
       'en-US':
         'With what floods of tears can we sufficiently bewail so grievous a misfortune, and implore the divine mercy in behalf of so many souls! How ought we to be alarmed at the consideration of so many dreadful examples of God\'s inscrutable judgments, and tremble for ourselves! "Let him who stands beware lest he fall" "Hold fast what thou hast," says the oracle of the Holy Ghost to every one of us, "lest another bear away thy crown."',
@@ -509,6 +563,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': "St. Peter's Chair at Antioch",
       'pt-BR': 'A Cátedra de São Pedro em Antioquia',
     },
+    chapter: 'feb-22-peters-chair-at-antioch',
     reflection: {
       'en-US':
         'On this festival we are especially bound to adore and thank the Divine Goodness for the establishment and propagation of His Church, and earnestly to pray that in His mercy He preserve the same, and dilate its pale, that His name may be glorified by all nations, and by all hearts, to the boundaries of the earth, for His divine honor and the salvation of souls, framed to His divine image, and the price of His adorable blood.',
@@ -521,6 +576,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Peter Damian · St. Serenus, a Gardener, Martyr',
       'pt-BR': 'São Pedro Damião · São Sereno, um Jardineiro, Mártir',
     },
+    chapter: 'feb-23-serenus-a-gardener',
     reflection: {
       'en-US':
         'The Saints studied, not in order to be accounted learned, but to become perfect. This only is wisdom and true greatness, to account ourselves as ignorant, and to adhere in all things to the teachings and instincts of the Church.',
@@ -530,6 +586,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-24': {
     name: { 'en-US': 'St. Matthias, Apostle', 'pt-BR': 'São Matias, Apóstolo' },
+    chapter: 'feb-24-matthias',
     reflection: {
       'en-US':
         "Our ignorance of many points in St. Matthias's life serves to fix the attention all the more firmly upon these two—the occasion of his call to the apostolate, and the fact of his perseverance. We then naturally turn in thought to our own vocation and our own end.",
@@ -539,6 +596,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-25': {
     name: { 'en-US': 'St. Tarasius', 'pt-BR': 'São Tarásio' },
+    chapter: 'feb-25-tarasius',
     reflection: {
       'en-US':
         'The highest praise which Scripture pronounces on the holy man Job is comprised in these words, "He was simple and upright."',
@@ -548,6 +606,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-26': {
     name: { 'en-US': 'St. Porphyry, Bishop', 'pt-BR': 'São Porfírio, Bispo' },
+    chapter: 'feb-26-porphyry',
     reflection: {
       'en-US':
         'All superstitious searching into secret things is forbidden by the First Commandment equally with the worship of any false god. Let us ask St. Porphyry for a great zeal in keeping this commandment, lest we be led away, as so many are, by a curious and prying mind.',
@@ -557,15 +616,18 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '02-27': {
     name: { 'en-US': 'St. Leander, Bishop', 'pt-BR': 'São Leandro, Bispo' },
+    chapter: 'feb-27-leander',
   },
   '02-28': {
     name: {
       'en-US': 'Sts. Romanus and Lupicinus, Abbots',
       'pt-BR': 'São Romano e São Lupicino, Abades',
     },
+    chapter: 'feb-28-sts-romanus-and-lupicinus',
   },
   '02-29': {
     name: { 'en-US': 'St. Oswald, Bishop', 'pt-BR': 'Santo Osvaldo, Bispo' },
+    chapter: 'feb-29-oswald',
     reflection: {
       'en-US':
         'A soul without discipline is like a ship without a helm; she must inevitably strike unawares upon the rocks, founder on the shoals, or float unknowingly into the harbor of the enemy.',
@@ -578,6 +640,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. David, Bishop · St. Albinus, Bishop',
       'pt-BR': 'São David, Bispo · Santo Albino, Bispo',
     },
+    chapter: 'mar-01-albinus',
     reflection: {
       'en-US':
         'With whatever virtues a man may be endowed, he will discover, if he considers himself attentively, a sufficient depth of misery to afford cause for deep humility; but Jesus Christ says, "He that humbleth himself shall be exalted."',
@@ -587,6 +650,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-02': {
     name: { 'en-US': 'St. Simplicius, Pope', 'pt-BR': 'São Simplício, Papa' },
+    chapter: 'mar-02-simplicius',
     reflection: {
       'en-US':
         '"He that trusteth in God shall fare never the worse," saith the Wise Man in the Book of Ecclesiasticus.',
@@ -596,6 +660,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-03': {
     name: { 'en-US': 'St. Cunegundes, Empress', 'pt-BR': 'Santa Cunegundes, Imperatriz' },
+    chapter: 'mar-03-cunegundes',
     reflection: {
       'en-US':
         'Detachment of the mind, at least, is needful to those who cannot venture on an effectual renunciation. "So likewise every one of you," saith Jesus Christ, "that doth not renounce all that he possesseth, cannot be My disciple."',
@@ -605,6 +670,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-04': {
     name: { 'en-US': 'St. Casimir, King', 'pt-BR': 'São Casimiro, Rei' },
+    chapter: 'mar-04-casimir',
     reflection: {
       'en-US':
         "Let the study of St. Casimir's life make us increase in devotion to the most pure Mother of God—a sure means of preserving holy purity.",
@@ -617,6 +683,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Adrian and Eubulus, Martyrs',
       'pt-BR': 'Santo Adrião e Santo Êubulo, Mártires',
     },
+    chapter: 'mar-05-sts-adrian-and-eubulus',
     reflection: {
       'en-US':
         'It is in vain that we take the name of Christians, or pretend to follow Christ, unless we carry our crosses after Him. It is in vain that we hope to share in His glory, and in His kingdom, if we accept not the condition. We cannot arrive at heaven by any other road but that which Christ held, Who bequeathed His cross to all His elect as their portion and inheritance in this world.',
@@ -626,6 +693,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-06': {
     name: { 'en-US': 'St. Colette, Virgin', 'pt-BR': 'Santa Coleta, Virgem' },
+    chapter: 'mar-06-colette',
     reflection: {
       'en-US':
         "One of the greatest tests of being a good Catholic is zeal for the Church and, devotion to Christ's Vicar.",
@@ -635,6 +703,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-07': {
     name: { 'en-US': 'St. Thomas Aquinas', 'pt-BR': 'São Tomás de Aquino' },
+    chapter: 'mar-07-thomas-aquinas',
     reflection: {
       'en-US':
         'The knowledge of God is for all, but hidden treasures are reserved for those who have ever followed the Lamb.',
@@ -644,6 +713,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-08': {
     name: { 'en-US': 'St. John of God', 'pt-BR': 'São João de Deus' },
+    chapter: 'mar-08-john-of-god',
     reflection: {
       'en-US':
         'God often rewards men for works that are pleasing in His sight by giving them grace and opportunity to do other works higher still. St. John of God used to attribute his conversion, and the graces which enabled him to do such great works, to his self-denying charity in Africa.',
@@ -653,6 +723,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-09': {
     name: { 'en-US': 'St. Frances of Rome', 'pt-BR': 'Santa Francisca Romana' },
+    chapter: 'mar-09-frances-of-rome',
     reflection: {
       'en-US':
         'God has appointed an angel to guard each one of us, to whose warnings we are bound to attend. Let us listen to his voice here, and we shall see him hereafter when he leads us before the throne of God.',
@@ -662,6 +733,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-10': {
     name: { 'en-US': 'The Forty Martyrs of Sebaste', 'pt-BR': 'Os Quarenta Mártires de Sebaste' },
+    chapter: 'mar-10-the-forty',
     reflection: {
       'en-US':
         'All who live the life of grace are one in Christ. But besides this there are many specialties—of religion, of community life, or at least of aspirations in prayer, and pious works. Thank God if He has bound you to others by these spiritual ties; remember the character you have to support, and pray that the bond which unites you here may last for eternity.',
@@ -671,6 +743,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-11': {
     name: { 'en-US': 'St. Eulogius, Martyr', 'pt-BR': 'Santo Eulógio, Mártir' },
+    chapter: 'mar-11-eulogius',
     reflection: {
       'en-US':
         'Beg of God, through the intercession of these holy martyrs, the gift of perseverance. Their example will supply you with an admirable rule for obtaining this crowning gift. Remember that you have renounced the world and the devil once for all at your Baptism. Do not hesitate; do not look back; do not listen to suggestions against faith or virtue; but advance, day by day, along the road which you have chosen, to God Who is your portion forever.',
@@ -680,6 +753,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-12': {
     name: { 'en-US': 'St. Gregory the Great', 'pt-BR': 'São Gregório Magno' },
+    chapter: 'mar-12-gregory-the-great',
     reflection: {
       'en-US':
         'The champions of faith prove the truth of their teaching no less by the holiness of their lives than by the force of their arguments. Never forget that to convert others you must first see to your own soul.',
@@ -689,9 +763,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-13': {
     name: { 'en-US': 'St. Euphrasia, Virgin', 'pt-BR': 'Santa Eufrásia, Virgem' },
+    chapter: 'mar-13-euphrasia',
   },
   '03-14': {
     name: { 'en-US': 'St. Maud. Queen', 'pt-BR': 'Santa Maud, Rainha' },
+    chapter: 'mar-14-maud',
     reflection: {
       'en-US':
         'The beginning of true virtue is most ardently to desire it, and to ask it of God with the utmost assiduity and earnestness. Fervent prayer, holy meditation, and reading pious books, are the principal means by which this virtue is to be constantly improved, and the interior life of the soul to be strengthened.',
@@ -701,9 +777,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-15': {
     name: { 'en-US': 'St. Zachary, Pope', 'pt-BR': 'São Zacarias, Papa' },
+    chapter: 'mar-15-zachary',
   },
   '03-16': {
     name: { 'en-US': 'Sts. Abraham and Mary', 'pt-BR': 'Santo Abraão e Santa Maria' },
+    chapter: 'mar-16-sts-abraham-and-mary',
     reflection: {
       'en-US':
         "Oh, that we realized the omnipotence of prayer! Every soul was created to glorify God eternally; and it is in the power of every one to add by the salvation of his neighbor to the glory of God. Let us make good use of this talent of prayer, lest our brother's blood be required of us at the last.",
@@ -716,6 +794,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Patrick, Bishop, Apostle of Ireland',
       'pt-BR': 'São Patrício, Bispo, Apóstolo da Irlanda',
     },
+    chapter: 'mar-17-patrick',
     reflection: {
       'en-US':
         'By the instrumentality of St. Patrick the Faith is now as fresh in Ireland, even in this cold nineteenth century, as when it was first planted. Ask him to obtain for you the special grace of his children—to prefer the loss of every earthly good to the least compromise in matters of faith.',
@@ -725,6 +804,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-18': {
     name: { 'en-US': 'St. Cyril of Jerusalem', 'pt-BR': 'São Cirilo de Jerusalém' },
+    chapter: 'mar-18-cyril-of-jerusalem',
     reflection: {
       'en-US':
         '"As a stout staff," says St. John Chrysostom, "supports the trembling limbs of a feeble old man, so does faith sustain our vacillating mind, lest it be tossed about by sinful hesitation and perplexity."',
@@ -737,6 +817,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Joseph, Spouse of the Blessed Virgin and Patron of the Universal Church',
       'pt-BR': 'São José, Esposo da Santíssima Virgem e Patrono da Igreja Universal',
     },
+    chapter: 'mar-19-joseph-spouse-of-the-blessed',
     reflection: {
       'en-US':
         'St. Joseph, the shadow of the Eternal Father upon earth, the protector of Jesus in His home at Nazareth, and a lover of all children for the sake of the Holy Child, should be the chosen guardian and pattern of every true Christian family.',
@@ -746,6 +827,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-20': {
     name: { 'en-US': 'St. Wulfran, Archbishop', 'pt-BR': 'São Wulfrano, Arcebispo' },
+    chapter: 'mar-20-wulfran',
     reflection: {
       'en-US':
         'In every age the Catholic Church is a missionary church. She has received the world for her inheritance, and in our own days many missioners have watered with their blood the lands in which they labored. Help the propagation of the faith by alms, and above all by prayers. You will quicken your own faith and gain a part in the merits of the glorious apostolate.',
@@ -755,6 +837,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-21': {
     name: { 'en-US': 'St. Benedict, Abbot', 'pt-BR': 'São Bento, Abade' },
+    chapter: 'mar-21-benedict',
     reflection: {
       'en-US':
         'The Saints never feared to undertake any work, however arduous, for God, because, distrusting self, they relied for assistance and support wholly upon prayer.',
@@ -767,6 +850,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Catharine of Sweden, Virgin',
       'pt-BR': 'Santa Catarina da Suécia, Virgem',
     },
+    chapter: 'mar-22-catharine-of-sweden',
     reflection: {
       'en-US':
         'Whoever has to dwell in the world stands in need of great prudence; the Holy Scripture itself assures us that "the knowledge of the holy is prudence."',
@@ -779,9 +863,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Victorian and Others, Martyrs',
       'pt-BR': 'Santos Vitoriano e Outros, Mártires',
     },
+    chapter: 'mar-23-sts-victorian-and-others',
   },
   '03-24': {
     name: { 'en-US': 'St. Simon, Infant Martyr', 'pt-BR': 'São Simão, Mártir Infante' },
+    chapter: 'mar-24-simon-infant',
     reflection: {
       'en-US':
         "Learn from the infant martyrs that, however weak you may be, you still can suffer for Christ's sake.",
@@ -794,6 +880,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Annunciation of the Blessed Virgin Mary',
       'pt-BR': 'A Anunciação da Santíssima Virgem Maria',
     },
+    chapter: 'mar-25-the-annunciation-of-the-blessed',
     reflection: {
       'en-US':
         'From the example of the Blessed Virgin in this mystery, how ardent a love ought we to conceive of purity and humility! The Holy Ghost is invited by purity to dwell in souls, but is chased away by the filth of the contrary vice. Humility is the foundation of a spiritual life. By it Mary was prepared for the extraordinary graces and all virtues with which she was enriched, and for the eminent dignity of Mother of God.',
@@ -803,6 +890,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-26': {
     name: { 'en-US': 'St. Ludger, Bishop', 'pt-BR': 'São Ludgero, Bispo' },
+    chapter: 'mar-26-ludger',
     reflection: {
       'en-US':
         'Prayer is an action so sublime and supernatural that the Church in her Canonical Hours teaches us to begin it by a fervent petition of grace to perform it well. What an insolence and mockery is it to join with this petition an open disrespect and a neglect of all necessary precautions against distractions! We ought never to appear before God, to tender Him our homages or supplications, without trembling, and without being deaf to all creatures and shutting all our senses to every object that can distract our minds from God.',
@@ -812,6 +900,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-27': {
     name: { 'en-US': 'St. John of Egypt', 'pt-BR': 'São João do Egito' },
+    chapter: 'mar-27-john-of-egypt',
     reflection: {
       'en-US':
         'The Saints examine themselves by the perfections of God, and do penance. We judge our conduct by the standard of other men, and rest satisfied with it. Yet it is by the divine holiness alone that we shall be judged when we die.',
@@ -821,6 +910,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-28': {
     name: { 'en-US': 'St. Gontran, King', 'pt-BR': 'São Gontrão, Rei' },
+    chapter: 'mar-28-gontran',
     reflection: {
       'en-US':
         'There is no means of salvation more reliable than the practice of mercy, since Our Lord has said it: "Blessed are the merciful, for they shall find mercy."',
@@ -833,6 +923,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Jonas, Barachisius, and their Companions, Martyrs',
       'pt-BR': 'São Jonas, São Baraquísio e seus Companheiros, Mártires',
     },
+    chapter: 'mar-29-sts-jonas-barachisius-and-their-companions',
     reflection: {
       'en-US':
         'Those powerful motives which supported the martyrs under the sharpest torments ought to inspire us with patience, resignation, and holy joy under sickness and all crosses or trials. Nothing is more heroic in the practice of Christian virtue, nothing more precious in the sight of God, than the sacrifice of patience, submission, constant fidelity, and charity in a state of suffering.',
@@ -842,6 +933,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-30': {
     name: { 'en-US': 'St. John Climacus', 'pt-BR': 'São João Clímaco' },
+    chapter: 'mar-30-john-climacus',
     reflection: {
       'en-US':
         '"Cast not from thee, my brother," says the *Imitation of Christ*," the sure hope of attaining to the spiritual life; still hast thou the time and the means."',
@@ -851,6 +943,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '03-31': {
     name: { 'en-US': 'St. Benjamin, Deacon, Martyr', 'pt-BR': 'São Benjamim, Diácono, Mártir' },
+    chapter: 'mar-31-benjamin',
     reflection: {
       'en-US':
         'We entreat you, O most holy martyrs, who cheerfully suffered most cruel torments for God our Saviour and His love, on which account you are now most intimately and familiarly united to Him, that you pray to the Lord for us miserable sinners, covered with filth, that He infuse into us the grace of Christ, that it may enlighten our souls that we may love Him.',
@@ -860,6 +953,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-01': {
     name: { 'en-US': 'St. Hugh, Bishop', 'pt-BR': 'Santo Hugo, Bispo' },
+    chapter: 'apr-01-hugh',
     reflection: {
       'en-US':
         'Let us learn from the example of the Saints to shun the tumult of the world as much as our circumstances will allow, and give ourselves up to the exercises of holy solitude, prayer, and pious reading.',
@@ -869,6 +963,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-02': {
     name: { 'en-US': 'St. Francis of Paula', 'pt-BR': 'São Francisco de Paula' },
+    chapter: 'apr-02-francis-of-paula',
     reflection: {
       'en-US':
         'Rely in all difficulties upon God. That which enabled St. Francis to work miracles will in proportion do wonders for yourself, by giving you strength and consolation.',
@@ -878,6 +973,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-03': {
     name: { 'en-US': 'St. Richard of Chichester', 'pt-BR': 'São Ricardo de Chichester' },
+    chapter: 'apr-03-richard-of-chichester',
     reflection: {
       'en-US':
         'As a brother, as chancellor, and as bishop, St. Richard faithfully performed each duty of his state without a thought of his own interests. Neglect of duty is the first sign of that self-love which ends with the loss of grace.',
@@ -887,6 +983,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-04': {
     name: { 'en-US': 'St. Isidore, Archbishop', 'pt-BR': 'Santo Isidoro, Arcebispo' },
+    chapter: 'apr-04-isidore',
     reflection: {
       'en-US':
         'The strength of temptation usually lies in the fact that its object is something flattering to our pride, soothing to our sloth, or in some way attractive to the meaner passions. St. Isidore teaches us to listen neither to the promptings of nature nor the plausible advice of friends when they contradict the voice of God.',
@@ -896,6 +993,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-05': {
     name: { 'en-US': 'St. Vincent Ferrer', 'pt-BR': 'São Vicente Ferrer' },
+    chapter: 'apr-05-vincent-ferrer',
     reflection: {
       'en-US':
         '"Whatever you do," said St. Vincent, "think not of yourself, but of God." In this spirit he preached, and God spoke by him; in this spirit, if we listen, we shall hear the voice of God.',
@@ -905,6 +1003,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-06': {
     name: { 'en-US': 'St. Celestine, Pope', 'pt-BR': 'São Celestino, Papa' },
+    chapter: 'apr-06-celestine',
     reflection: {
       'en-US':
         'Vigilance is truly needful to those to whom the care of souls has been confided. "Blessed are the servants whom the Lord at His coming shall find watching."',
@@ -917,6 +1016,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Hegesippus, a Primitive Father · Blessed Herman Joseph of Steinfeld',
       'pt-BR': 'São Hegésipo, um Padre Primitivo · Beato Hermano José de Steinfeld',
     },
+    chapter: 'apr-07-hegesippus-a-primitive-father',
     reflection: {
       'en-US':
         'Do not approach our Blessed Mother with set prayers only. Be intimate with her; confide in her; commend to her every want and every project, small as well as great. It is a childlike reliance and a trustful appeal which she delights to reward.',
@@ -926,6 +1026,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-08': {
     name: { 'en-US': 'St. Perpetuus, Bishop', 'pt-BR': 'São Perpétuo, Bispo' },
+    chapter: 'apr-08-perpetuus',
     reflection: {
       'en-US':
         'The smart of poverty, says a spiritual writer, is allayed even more by one word of true sympathy than by the alms we give. Alms coldly and harshly given irritate rather than soothe. Even when we cannot give, words of kindness are as a precious balm; and when we can give, they are the salt and seasoning of our alms.',
@@ -938,6 +1039,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Mary of Egypt · St. John the Almoner',
       'pt-BR': 'Santa Maria Egipcíaca · São João, o Esmoler',
     },
+    chapter: 'apr-09-john-the-almoner',
     reflection: {
       'en-US':
         "Blessed John Colombini was converted to God by reading St. Mary's life. Let us, too, learn from her not to be content with confessing and lamenting our sins, but to fly from what leads us to commit them.",
@@ -947,6 +1049,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-10': {
     name: { 'en-US': 'St. Bademus, Martyr', 'pt-BR': 'São Bademo, Mártir' },
+    chapter: 'apr-10-bademus',
     reflection: {
       'en-US':
         'Oh! what ravishing delights does the soul taste which is accustomed, by a familiar habit, to converse in the heaven of its own interior with the Three Persons of the adorable Trinity! Worldlings wonder how holy solitaries can pass their whole time buried in the most profound solitude and silence. But those who have had any experience of this happiness are surprised, with far greater reason, how it is possible that any souls which are created to converse eternally with God should here live in constant dissipation, seldom entertaining a devout thought of Him Whose charms and sweet conversation eternally ravish all the blessed.',
@@ -956,6 +1059,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-11': {
     name: { 'en-US': 'St. Leo the Great', 'pt-BR': 'São Leão Magno' },
+    chapter: 'apr-11-leo-the-great',
     reflection: {
       'en-US':
         'Leo loved to ascribe all the fruits of his unsparing labors to the glorious chief of the apostles, who, he often declared, lives and governs in his successors.',
@@ -965,9 +1069,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-12': {
     name: { 'en-US': 'St. Julius, Pope', 'pt-BR': 'São Júlio, Papa' },
+    chapter: 'apr-12-julius',
   },
   '04-13': {
     name: { 'en-US': 'St. Hermenegild, Martyr', 'pt-BR': 'São Hermenegildo, Mártir' },
+    chapter: 'apr-13-hermenegild',
     reflection: {
       'en-US':
         'St. Hermenegild teaches us that constancy and sacrifice are the best arguments for the Faith, and the surest way to win souls to God.',
@@ -977,6 +1083,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-14': {
     name: { 'en-US': 'St. Benezet, or Little Bennet', 'pt-BR': 'São Benezet, ou o Pequeno Bennet' },
+    chapter: 'apr-14-benezet-or-little-bennet',
     reflection: {
       'en-US':
         'Let us pray for perseverance in good works. St. Augustine says, "When the Saints pray in the words which Christ taught, they ask for little else than the gift of perseverance."',
@@ -986,6 +1093,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-15': {
     name: { 'en-US': 'St. Paternus, Bishop', 'pt-BR': 'São Paterno, Bispo' },
+    chapter: 'apr-15-paternus',
     reflection: {
       'en-US':
         'The greatest sacrifices imposed by the love of peace will appear as naught if we call to mind the example of Our Saviour, and remember His words, "Blessed are the peacemakers, for they shall be called the children of God."',
@@ -998,6 +1106,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Eighteen Martyrs of Saragossa, and St. Encratis, or Engratia, Virgin, Martyr',
       'pt-BR': 'Dezoito Mártires de Saragoça, e Santa Êncratis, ou Engrácia, Virgem, Mártir',
     },
+    chapter: 'apr-16-eighteen',
     reflection: {
       'en-US':
         'Men do not pursue temporal goods at haphazard, or by fits and starts. Let us be as punctual and orderly in the service of God, not casting about for new paths, but perfecting our ordinary devotions. If we persevere in these, Paradise is ours.',
@@ -1007,6 +1116,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-17': {
     name: { 'en-US': 'St. Anicetus, Pope, Martyr', 'pt-BR': 'Santo Aniceto, Papa, Mártir' },
+    chapter: 'apr-17-anicetus',
     reflection: {
       'en-US':
         'If, after making the most solemn protestations of inviolable friendship and affection for a fellow-creature, we should the next moment revile and contemn him, without having received any provocation or affront, and this habitually, would not the whole world justly call our protestations hypocrisy, and our pretended friendship a mockery? Let us by this rule judge if our love of God be sovereign, so long as our inconstancy betrays the insincerity of our hearts.',
@@ -1016,6 +1126,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-18': {
     name: { 'en-US': 'St. Apollonius, Martyr', 'pt-BR': 'Santo Apolônio, Mártir' },
+    chapter: 'apr-18-apollonius',
     reflection: {
       'en-US':
         'It is the prerogative of the Christian religion to inspire men with such resolution, and form them to such heroism, that they rejoice to sacrifice their life to truth. This is not the bare force and exertion of nature, but the undoubted power of the Almighty, Whose strength is thus made perfect in weakness. Every Christian ought, by his manner, to bear witness to the sanctity of his faith. Such would be the force of universal good example, that no libertine or infidel could withstand it.',
@@ -1025,6 +1136,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-19': {
     name: { 'en-US': 'St. Elphege, Archbishop', 'pt-BR': 'Santo Elfego, Arcebispo' },
+    chapter: 'apr-19-elphege',
     reflection: {
       'en-US':
         'Those who are in high positions should consider themselves as stewards rather than masters of the wealth or power intrusted to them for the benefit of the poor and weak. St. Elphege died rather than extort his ransom from the poor tenants of the Church lands.',
@@ -1034,6 +1146,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-20': {
     name: { 'en-US': 'St. Marcellinus, Bishop', 'pt-BR': 'São Marcelino, Bispo' },
+    chapter: 'apr-20-marcellinus',
     reflection: {
       'en-US':
         'Though you may not be called upon to preach, at least endeavor to set a good example, remembering that deeds often speak louder than words.',
@@ -1043,6 +1156,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-21': {
     name: { 'en-US': 'St. Anselm, Archbishop', 'pt-BR': 'Santo Anselmo, Arcebispo' },
+    chapter: 'apr-21-anselm',
     reflection: {
       'en-US':
         "Whoever, like St. Anselm, contends for the Church's rights, is fighting on the side of God against the tyranny of Satan.",
@@ -1055,9 +1169,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Soter, Pope, Martyr · St. Leonides, Martyr',
       'pt-BR': 'São Sótero, Papa, Mártir · São Leônides, Mártir',
     },
+    chapter: 'apr-22-leonides',
   },
   '04-23': {
     name: { 'en-US': 'St. George, Martyr', 'pt-BR': 'São Jorge, Mártir' },
+    chapter: 'apr-23-george',
     reflection: {
       'en-US':
         "\"What shall I say of fortitude, without which neither wisdom nor justice is of any worth? Fortitude is not of the body, but is a constancy of soul; wherewith we are conquerors in righteousness, patiently bear all adversities, and in prosperity are not puffed up. This fortitude he lacks who is overcome by pride, anger, greed, drunkenness, and the like. Neither have they fortitude who when in adversity make shift to escape at their souls’ expense; wherefore the Lord saith, 'Fear not those who kill the body, but cannot kill the soul.' In like manner those who are puffed up in prosperity and abandon themselves to excessive joviality cannot be called strong. For how can they be called strong who cannot hide and repress the heart's emotion? Fortitude is never conquered, or if conquered, is not fortitude.\"—*St. Bruno*.",
@@ -1067,6 +1183,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-24': {
     name: { 'en-US': 'St. Fidelis of Sigmaringen', 'pt-BR': 'São Fidélis de Sigmaringen' },
+    chapter: 'apr-24-fidelis-of-sigmaringen',
     reflection: {
       'en-US':
         'We delight in decorating the altars of God with flowers, lights, and jewels, and it is right to do so; but if we wish to offer to God gifts of higher value, let us, in imitation of St. Fidelis, save the souls who but for us would be lost; for so we shall offer Him, as it were, the jewels of paradise.',
@@ -1076,6 +1193,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-25': {
     name: { 'en-US': 'St. Mark, Evangelist', 'pt-BR': 'São Marcos, Evangelista' },
+    chapter: 'apr-25-mark',
     reflection: {
       'en-US':
         'Learn from St. Mark to keep the image of the Son of man ever before your mind, and to ponder every syllable which fell from His lips.',
@@ -1088,6 +1206,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Cletus and Marcellinus, Popes, Martyrs',
       'pt-BR': 'São Cleto e São Marcelino, Papas, Mártires',
     },
+    chapter: 'apr-26-sts-cletus-and-marcellinus',
     reflection: {
       'en-US':
         'It is a fundamental maxim of the Christian morality, and a truth which Christ has established in the clearest terms and in innumerable passages of the Gospel, that the cross or sufferings and mortification are the road to eternal bliss. They, therefore, who lead not here a crucified and mortified life are unworthy ever to possess the unspeakable joys of His kingdom. Our Lord Himself, our model and our head, walked in this path, and His great Apostle puts us in mind that He entered into bliss only by His blood and by the cross.',
@@ -1097,6 +1216,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-27': {
     name: { 'en-US': 'St. Zita, Virgin', 'pt-BR': 'Santa Zita, Virgem' },
+    chapter: 'apr-27-zita',
     reflection: {
       'en-US':
         '"What must I do to be saved?" said a certain one in fear of damnation. "Work and pray, pray and work," a voice replied, "and thou shalt be saved." The whole life of St. Zita teaches us this truth.',
@@ -1109,6 +1229,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Paul of the Cross · St. Vitalis, Martyr',
       'pt-BR': 'São Paulo da Cruz · São Vital, Mártir',
     },
+    chapter: 'apr-28-vitalis',
     reflection: {
       'en-US':
         'We are not all called to the sacrifice of martyrdom; but we are all bound to make our lives a continued sacrifice of ourselves to God, and to perform every action in this perfect spirit of sacrifice. Thus we shall both live and die to God, perfectly resigned to His holy will in all His appointments.',
@@ -1121,6 +1242,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Peter, Martyr · St. Hugh, Abbot of Cluny',
       'pt-BR': 'São Pedro, Mártir · Santo Hugo, Abade de Cluny',
     },
+    chapter: 'apr-29-hugh',
     reflection: {
       'en-US':
         'From a boy St. Peter boldly professed his faith among heretics. He spent his life in preaching the faith to heretics, and received the glorious and long-desired crown of martyrdom from heretics. We are surrounded by heretics. Are we courageous, firm, zealous, full of prayer for their conversion, unflinching in our profession of faith?',
@@ -1130,6 +1252,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '04-30': {
     name: { 'en-US': 'St. Catherine of Siena', 'pt-BR': 'Santa Catarina de Sena' },
+    chapter: 'apr-30-catherine-of-siena',
     reflection: {
       'en-US':
         'The seraphic St. Catherine willingly sacrificed the delights of contemplation to labor for the Church and the Apostolic See. How deeply do the troubles of the Church and the consequent loss of souls afflict us? How often do we pray for the Church and the Pope?',
@@ -1142,6 +1265,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Philip and James, Apostles',
       'pt-BR': 'São Filipe e São Tiago, Apóstolos',
     },
+    chapter: 'may-01-sts-philip-and-james',
     reflection: {
       'en-US':
         'The Church commemorates on the same day Sts. Philip and James, whose bodies lie side by side at Rome. They represent to us two aspects of Christian holiness. The first preaches faith, the second works; the one holy aspirations, the other purity of heart.',
@@ -1151,6 +1275,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-02': {
     name: { 'en-US': 'St. Athanasius, Bishop', 'pt-BR': 'Santo Atanásio, Bispo' },
+    chapter: 'may-02-athanasius',
     reflection: {
       'en-US':
         'The Catholic Faith, says St. Augustine, is more precious far than all the riches and treasures of earth; more glorious and greater than all its honors, all its possessions. This it is which saves sinners, gives light to the blind, restores penitents, perfects the just, and is the crown of martyrs.',
@@ -1160,6 +1285,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-03': {
     name: { 'en-US': 'The Discovery of the Holy Cross', 'pt-BR': 'A Descoberta da Santa Cruz' },
+    chapter: 'may-03-the-discovery-of-the-holy-cross',
     reflection: {
       'en-US':
         'In every pious undertaking the beginning merely does not suffice. "Whoso shall persevere unto the end, he shall be saved."',
@@ -1169,6 +1295,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-04': {
     name: { 'en-US': 'St. Monica', 'pt-BR': 'Santa Mônica' },
+    chapter: 'may-04-monica',
     reflection: {
       'en-US':
         "It is impossible to set any bounds to what persevering prayer may do. It gives man a share in the Divine Omnipotence. St. Augustine's soul lay bound in the chains of heresy and impurity, both of which had by long habit grown inveterate. They were broken by his mother's prayers.",
@@ -1178,6 +1305,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-05': {
     name: { 'en-US': 'St. Pius V', 'pt-BR': 'São Pio V' },
+    chapter: 'may-05-pius-v',
     reflection: {
       'en-US':
         '"Thy cross, O Lord, is the source of all blessings, the cause of all graces: by it the faithful find strength in weakness, glory in shame, life in death."—St. Leo.',
@@ -1187,6 +1315,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-06': {
     name: { 'en-US': 'St. John Before the Latin Gate', 'pt-BR': 'São João ante a Porta Latina' },
+    chapter: 'may-06-john-before-the-latin-gate',
     reflection: {
       'en-US':
         'St. John suffered above the other Saints a martyrdom of love, being a martyr, and more than a martyr, at the foot of the cross of his divine Master. All his sufferings were by love and compassion imprinted in his soul, and thus shared by him. O singular happiness, to have stood under the cross of Christ! O extraordinary privilege, to have suffered martyrdom in the person of Jesus, and been eye-witness of all He did or endured! If nature revolt within us against suffering, let us call to mind those words of the divine Master: "Thou knowest not now wherefore; but thou shalt know hereafter."',
@@ -1196,6 +1325,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-07': {
     name: { 'en-US': 'St. Stanislas, Bishop, Martyr', 'pt-BR': 'São Estanislau, Bispo, Mártir' },
+    chapter: 'may-07-stanislas',
     reflection: {
       'en-US':
         'The safest correction of vice is a blameless life. Yet there are times when silence would make us answerable for the sins of others. At such times let us, in the name of God, rebuke the offender without fear.',
@@ -1208,6 +1338,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Apparition of St. Michael the Archangel',
       'pt-BR': 'A Aparição de São Miguel Arcanjo',
     },
+    chapter: 'may-08-the-apparition-of-st-michael-the-archangel',
     reflection: {
       'en-US':
         'St. Michael is not only the protector of the Church, but of every faithful soul. He defeated the devil by humility: we are enlisted in the same warfare. His arms were humility and ardent love of God: the same must be our weapons. We ought to regard this archangel as our leader under God: and, courageously resisting the devil in all his assaults, to cry out, Who can be compared to God?',
@@ -1217,6 +1348,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-09': {
     name: { 'en-US': 'St. Gregory Nazianzen', 'pt-BR': 'São Gregório Nazianzeno' },
+    chapter: 'may-09-gregory-nazianzen',
     reflection: {
       'en-US':
         '"We must overcome our enemies," said St. Gregory, "by gentleness; win them over by forbearance. Let them be punished by their own conscience, not by our wrath. Let us not at once wither the fig-tree, from which a more skilful gardener may yet entice fruit."',
@@ -1226,6 +1358,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-10': {
     name: { 'en-US': 'St. Antoninus, Bishop', 'pt-BR': 'Santo Antonino, Bispo' },
+    chapter: 'may-10-antoninus',
     reflection: {
       'en-US':
         '"Alms-deeds," says St. Augustine, "comprise every kind of service rendered to our neighbor who needs such assistance. He who supports a lame man bestows an alms on him with his feet; he who guides a blind man does him a charity with his eyes; he who carries an invalid or an old man upon his shoulders imparts to him an alms of his strength. Hence none are so poor but they may bestow an alms on the wealthiest man in the world."',
@@ -1235,6 +1368,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-11': {
     name: { 'en-US': 'St. Mammertus, Archbishop', 'pt-BR': 'São Mamerto, Arcebispo' },
+    chapter: 'may-11-mammertus',
     reflection: {
       'en-US':
         '"Know ye that the Lord will hear your prayers, if you continue with perseverance in fastings and prayers in the sight of the Lord" (Judith iv. 11).',
@@ -1244,6 +1378,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-12': {
     name: { 'en-US': 'St. Epiphanius, Archbishop', 'pt-BR': 'Santo Epifânio, Arcebispo' },
+    chapter: 'may-12-epiphanius',
     reflection: {
       'en-US':
         '"In this is charity: not as though we had loved God, but because He hath first loved us."',
@@ -1253,6 +1388,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-13': {
     name: { 'en-US': 'St. John the Silent', 'pt-BR': 'São João, o Silencioso' },
+    chapter: 'may-13-john-the-silent',
     reflection: {
       'en-US':
         'A love of Christian silence is a proof that a soul makes it her chiefest delight to be occupied on God, and finds no comfort like that of conversing with Him. This is the paradise of all devout souls.',
@@ -1262,6 +1398,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-14': {
     name: { 'en-US': 'St. Pachomius, Abbot', 'pt-BR': 'São Pacômio, Abade' },
+    chapter: 'may-14-pachomius',
     reflection: {
       'en-US':
         '"To live in great simplicity," said St. Pachomius, "and in a wise ignorance, is exceeding wise."',
@@ -1271,6 +1408,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-15': {
     name: { 'en-US': 'Sts. Peter and Dionysia', 'pt-BR': 'São Pedro e Santa Dionísia' },
+    chapter: 'may-15-sts-peter-and-dionysia',
     reflection: {
       'en-US':
         'The martyrs were even like us, with natures which shrank from suffering. They were patient under it because they looked to the eternal recompense, and endured as seeing Him Who is invisible.',
@@ -1280,6 +1418,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-16': {
     name: { 'en-US': 'St. John Nepomucen', 'pt-BR': 'São João Nepomuceno' },
+    chapter: 'may-16-john-nepomucen',
     reflection: {
       'en-US':
         'St. John, who by his invincible sacramental silence won his crown, teaches us to prefer torture and death to offending the Creator with our tongue. How many times each day do we forfeit grace and strength by sins of speech!',
@@ -1289,6 +1428,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-17': {
     name: { 'en-US': 'St. Paschal Baylon', 'pt-BR': 'São Pascoal Baylon' },
+    chapter: 'may-17-paschal-baylon',
     reflection: {
       'en-US':
         'St. Paschal teaches us never to suffer a day to pass without visiting Jesus in the narrow chamber where He, Whom the heaven itself cannot contain, abides day and night for our sake.',
@@ -1298,6 +1438,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-18': {
     name: { 'en-US': 'St. Venantius, Martyr', 'pt-BR': 'São Venâncio, Mártir' },
+    chapter: 'may-18-venantius',
     reflection: {
       'en-US':
         'Love of suffering marks the most perfect degree in the love of God. Our Lord Himself was consumed with the desire to suffer, because He burnt with the love of God. We must begin with patience and detachment. At last we shall learn to love the sufferings which conform us to the Passion of our Redeemer.',
@@ -1307,6 +1448,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-19': {
     name: { 'en-US': 'St. Peter Celestine', 'pt-BR': 'São Pedro Celestino' },
+    chapter: 'may-19-peter-celestine',
     reflection: {
       'en-US':
         '"Whoso," says the *Imitation of Christ*, "withdraweth himself from acquaintances and friends, to him will God draw near with His holy angels."',
@@ -1316,6 +1458,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-20': {
     name: { 'en-US': 'St. Bernardine of Siena', 'pt-BR': 'São Bernardino de Siena' },
+    chapter: 'may-20-bernardine-of-siena',
     reflection: {
       'en-US':
         'Let us learn from the life of St. Bernardine the power of the Holy Name in life and death.',
@@ -1325,6 +1468,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-21': {
     name: { 'en-US': 'St. Hospitius, Recluse', 'pt-BR': 'Santo Hospício, Recluso' },
+    chapter: 'may-21-hospitius-recluse',
     reflection: {
       'en-US':
         'If we do not love penitence for its own sake, let us love it on account of our sins; for we should "work out our salvation in fear and trembling."',
@@ -1334,6 +1478,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-22': {
     name: { 'en-US': 'St. Yvo, Confessor', 'pt-BR': 'Santo Ivo, Confessor' },
+    chapter: 'may-22-yvo',
     reflection: {
       'en-US':
         'St. Yvo was a Saint amidst the dangers of the world; but he preserved his virtue untainted only by arming himself carefully against them, by conversing assiduously with God in prayer and holy meditation, and by most watchfully shunning the snares of bad company. Without this precaution all the instructions of parents and all other means of virtue are ineffectual; and the soul is sure to split against this rock which does not steer wide of it.',
@@ -1343,6 +1488,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-23': {
     name: { 'en-US': 'St. Julia, Virgin, Martyr', 'pt-BR': 'Santa Júlia, Virgem, Mártir' },
+    chapter: 'may-23-julia',
     reflection: {
       'en-US':
         'St. Julia, whether free or a slave, whether in prosperity or in adversity, was equally fervent and devout. She adored all the sweet designs of Providence; and far from complaining, she never ceased to praise and thank God under all His holy appointments, making them always the means of her virtue and sanctification. God, by an admirable chain of events, raised her by her fidelity to the honor of the saints, and to the dignity of a virgin and martyr.',
@@ -1355,6 +1501,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Donatian and Rogatian, Martyrs',
       'pt-BR': 'São Donaciano e São Rogaciano, Mártires',
     },
+    chapter: 'may-24-sts-donatian-and-rogatian',
     reflection: {
       'en-US':
         'Three things are pleasing unto God and man: concord among brethren, the love of parents, and the union of man and wife.',
@@ -1364,6 +1511,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-25': {
     name: { 'en-US': 'St. Gregory VII', 'pt-BR': 'São Gregório VII' },
+    chapter: 'may-25-gregory-vii',
     reflection: {
       'en-US':
         'Eight hundred years are passed since St. Gregory died, and we see the same conflict renewed before our eyes. Let us learn from him to suffer any persecution from the world or the state, rather than betray the rights of the Holy See.',
@@ -1376,6 +1524,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Philip Neri · St. Augustine, Apostle of England',
       'pt-BR': 'São Filipe Neri · Santo Agostinho, Apóstolo da Inglaterra',
     },
+    chapter: 'may-26-philip-neri',
     reflection: {
       'en-US':
         'Philip wished his children to serve God, like the first Christians, in gladness of heart. He said this was the true filial spirit; this expands the soul, giving it liberty and perfection in action, power over temptations, and fuller aid to perseverance.',
@@ -1388,6 +1537,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Mary Magdalen of Pazzi · Venerable Bede',
       'pt-BR': 'Santa Maria Madalena de Pazzi · Venerável Beda',
     },
+    chapter: 'may-27-mary-magdalen-of-pazzi',
     reflection: {
       'en-US':
         'St. Mary Magdalen of Pazzi was so filled with the love of God that her sisters in the monastery observed it in her love of themselves, and called her "the Mother of Charity" and "the Charity of the Monastery."',
@@ -1397,6 +1547,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-28': {
     name: { 'en-US': 'St. Germanus, Bishop', 'pt-BR': 'São Germano, Bispo' },
+    chapter: 'may-28-germanus',
     reflection: {
       'en-US':
         '"In the churches bless ye God the Lord. From Thy temple kings shall offer presents to Thee."',
@@ -1406,6 +1557,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-29': {
     name: { 'en-US': 'St. Cyril, Martyr', 'pt-BR': 'São Cirilo, Mártir' },
+    chapter: 'may-29-cyril',
     reflection: {
       'en-US':
         'Ask Our Lord to make all earthly joy insipid, and to fill you with the constant desire of heaven. This desire will make labor easy and suffering light. It will make you fervent and detached, and bring you even here a foretaste of that eternal joy and peace to which you are hastening.',
@@ -1415,6 +1567,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-30': {
     name: { 'en-US': 'St. Felix I., Pope and Martyr', 'pt-BR': 'São Félix I, Papa e Mártir' },
+    chapter: 'may-30-felix-i',
     reflection: {
       'en-US':
         'The example of Our Saviour and of all His saints ought to encourage us under all trials to suffer with patience and even with joy. We shall soon begin to feel that it is sweet to tread in the steps of a God-man, and shall find that if we courageously take up our crosses, He will make them light by sharing the burden with us.',
@@ -1424,6 +1577,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '05-31': {
     name: { 'en-US': 'St. Petronilla, Virgin', 'pt-BR': 'Santa Petronilha, Virgem' },
+    chapter: 'may-31-petronilla',
     reflection: {
       'en-US':
         'With the saints the great end for which they lived was always present to their minds, and they thought every moment lost in which they did not make some advances toward eternal bliss. How will their example condemn at the last day the trifling fooleries and the greatest part of the conversation and employments of the world, which aim at nothing but present amusements, and forget the only important affair—the business of eternity.',
@@ -1436,6 +1590,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Justin, Martyr · St. Pamphilus, Martyr',
       'pt-BR': 'São Justino, Mártir · São Pânfilo, Mártir',
     },
+    chapter: 'jun-01-pamphilus',
     reflection: {
       'en-US':
         'We have received the gift of faith with little labor of our own. Let us learn how to value it from those who reached it after long search, and lived in the misery of a world which did not know God. Let us fear, as St. Justin did, the account we shall have to render for the gift of God.',
@@ -1448,6 +1603,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Pothinus, Bishop, Sanctus, Attalus, Blandina, and the other Martyrs of Lyons',
       'pt-BR': 'São Potino, Bispo, Sanctus, Atalo, Blandina e os demais Mártires de Lião',
     },
+    chapter: 'jun-02-sts-pothinus',
     reflection: {
       'en-US':
         'In early times the Christians were called the children of joy. Let us seek the joy of the Holy Spirit to sweeten suffering, to temper earthly delight, till we enter into the joy of Our Lord.',
@@ -1457,6 +1613,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-03': {
     name: { 'en-US': 'St. Clotilda, Queen', 'pt-BR': 'Santa Clotilde, Rainha' },
+    chapter: 'jun-03-clotilda',
     reflection: {
       'en-US':
         'St. Peter defines the mission of the Christian woman; to win the heart of those who believe not the word.',
@@ -1466,6 +1623,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-04': {
     name: { 'en-US': 'St. Francis Caracciolo', 'pt-BR': 'São Francisco Caracciolo' },
+    chapter: 'jun-04-francis-caracciolo',
     reflection: {
       'en-US':
         'It is for men, and not for angels, that our blessed Lord resides upon the altar. Yet angels throng our churches to worship Him while men desert Him. Learn from St. Francis to avoid such ingratitude, and to spend, as he did, every possible moment before the Most Holy Sacrament.',
@@ -1475,6 +1633,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-05': {
     name: { 'en-US': 'St. Boniface, Bishop, Martyr', 'pt-BR': 'São Bonifácio, Bispo, Mártir' },
+    chapter: 'jun-05-boniface',
     reflection: {
       'en-US':
         "St. Boniface teaches us how the love of Christ changes all things. It was for Christ's sake that he toiled for souls, preferring poverty to riches, labor to rest, suffering to pleasure, death to life, that by dying he might live with Christ.",
@@ -1484,6 +1643,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-06': {
     name: { 'en-US': 'St. Norbert, Bishop', 'pt-BR': 'São Norberto, Bispo' },
+    chapter: 'jun-06-norbert',
     reflection: {
       'en-US':
         "Reparation for the injuries offered to the Blessed Sacrament was the aim of St. Norbert's great work of reform—in himself, in the clergy, and in the faithful. How much does our present worship repair for our own past irreverences, and for the outrages offered by others to the Blessed Eucharist.",
@@ -1496,6 +1656,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Robert of Newminster · St. Claude, Archbishop',
       'pt-BR': 'São Roberto de Newminster · São Cláudio, Arcebispo',
     },
+    chapter: 'jun-07-claude',
     reflection: {
       'en-US':
         'Reason and authority prove that virtue ought to be practised. But facts alone prove that it is practised; and this is why examples have more power to move our souls, and why our individual actions are of such fearful importance for others as well as for ourselves.',
@@ -1505,6 +1666,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-08': {
     name: { 'en-US': 'St. Medard, Bishop', 'pt-BR': 'São Medardo, Bispo' },
+    chapter: 'jun-08-medard',
     reflection: {
       'en-US':
         'The Church takes delight in styling her founder "THE AMIABLE JESUS," and He likewise says of Himself, "I am meek and humble of heart."',
@@ -1517,6 +1679,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Primus and Felicianus, Martyrs · St. Columba, or Columkille, Abbot',
       'pt-BR': 'São Primo e São Feliciano, Mártires · São Columba, ou Columkille, Abade',
     },
+    chapter: 'jun-09-sts-primus-and-felicianus',
     reflection: {
       'en-US':
         'A soul which truly loves God regards all the things of this world as nothing. The loss of goods, the disgrace of the world, torments, sickness, and other afflictions are bitter to the senses, but appear light to him that loves. If we cannot bear our trials with patience and silence, it is because we love God only in words. "One who is slothful and lukewarm complains of everything, and calls the lightest precepts hard," says Thomas à Kempis.',
@@ -1526,6 +1689,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-10': {
     name: { 'en-US': 'St. Margaret of Scotland', 'pt-BR': 'Santa Margarida da Escócia' },
+    chapter: 'jun-10-margaret-of-scotland',
     reflection: {
       'en-US':
         'All perfection consists in keeping a guard upon the heart. Wherever we are, we can make a solitude in our hearts, detach ourselves from the world, and converse familiarly with God. Let us take St. Margaret for our example and encouragement.',
@@ -1535,6 +1699,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-11': {
     name: { 'en-US': 'St. Barnabas, Apostle', 'pt-BR': 'São Barnabé, Apóstolo' },
+    chapter: 'jun-11-barnabas',
     reflection: {
       'en-US':
         "St. Barnabas's life is full of suggestions to us who live in days when once more the abundant alms of the faithful are sorely needed by the whole Church, from the Sovereign Pontiff to the poor children in our streets.",
@@ -1544,6 +1709,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-12': {
     name: { 'en-US': 'St. John of St. Fagondez', 'pt-BR': 'São João de São Fagondez' },
+    chapter: 'jun-12-john-of-st-fagondez',
     reflection: {
       'en-US':
         'All men desire peace, but those alone enjoy it who, like St. John, are completely dead to themselves, and love to bear all things for Christ.',
@@ -1553,6 +1719,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-13': {
     name: { 'en-US': 'St. Antony of Padua', 'pt-BR': 'Santo Antônio de Pádua' },
+    chapter: 'jun-13-antony-of-padua',
     reflection: {
       'en-US':
         'Let us love to pray and labor unseen, and cherish in the secret of our hearts the graces of God and the growth of our immortal souls. Like St. Antony, let us attend to this, and leave the rest to God.',
@@ -1562,6 +1729,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-14': {
     name: { 'en-US': 'St. Basil the Great', 'pt-BR': 'São Basílio Magno' },
+    chapter: 'jun-14-basil-the-great',
     reflection: {
       'en-US':
         '"Fear God," says the *Imitation of Christ*, "and thou shalt have no need of being afraid of any man."',
@@ -1574,6 +1742,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Vitus, Crescentia, and Modestus, Martyrs',
       'pt-BR': 'São Vito, Santa Crescência e São Modesto, Mártires',
     },
+    chapter: 'jun-15-sts-vitus-crescentia-and-modestus',
     reflection: {
       'en-US':
         'What happiness for an infant to be formed naturally to all virtue, and for the spirit of simplicity, meekness, goodness, and piety to be moulded in its tender frame! Such a foundation being well laid, further graces are abundantly communicated, and a soul improves daily these seeds, and rises to the height of Christian virtue often without experiencing severe conflicts of the passions.',
@@ -1583,6 +1752,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-16': {
     name: { 'en-US': 'St. John Francis Regis', 'pt-BR': 'São João Francisco Regis' },
+    chapter: 'jun-16-john-francis-regis',
     reflection: {
       'en-US':
         'When St. John Francis was struck in the face by a sinner whom he was reproving, he replied, "If you only knew me, you would give me much more than that." His meekness converted the man, and it is in this spirit that he teaches us to win souls to God. How much might we do if we could forget our own wants in remembering those of others, and put our trust in God!',
@@ -1592,12 +1762,14 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-17': {
     name: { 'en-US': 'St. Avitus, Abbot', 'pt-BR': 'Santo Ávito, Abade' },
+    chapter: 'jun-17-avitus',
   },
   '06-18': {
     name: {
       'en-US': 'Sts. Marcus and Marcellianus, Martyrs',
       'pt-BR': 'São Marco e São Marceliano, Mártires',
     },
+    chapter: 'jun-18-sts-marcus-and-marcellianus',
     reflection: {
       'en-US':
         'We know not what we are till we have been tried. It costs nothing to say we love God above all things, and to show the courage of martyrs at a distance from the danger; but that love is sincere which has stood the proof. "Persecution shows who is a hireling, and who a true pastor," says St. Bernard.',
@@ -1607,6 +1779,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-19': {
     name: { 'en-US': 'St. Juliana Falconieri', 'pt-BR': 'Santa Juliana Falconieri' },
+    chapter: 'jun-19-juliana-falconieri',
     reflection: {
       'en-US':
         '"Meditate often," says St. Paul of the Cross, "on the sorrows of the holy Mother, sorrows inseparable from those of her beloved Son. If you seek the Cross, there you will find the Mother; and where the Mother is, there also is the Son."',
@@ -1616,9 +1789,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-20': {
     name: { 'en-US': 'St. Silverius, Pope and Martyr', 'pt-BR': 'São Silvério, Papa e Mártir' },
+    chapter: 'jun-20-silverius',
   },
   '06-21': {
     name: { 'en-US': 'St. Aloysius Gonzaga', 'pt-BR': 'São Luís Gonzaga' },
+    chapter: 'jun-21-aloysius-gonzaga',
     reflection: {
       'en-US':
         "Cardinal Bellarmine, the Saint's confessor, testified that he had never mortally offended God. Yet he chastised his body rigorously, rose at night to pray, and shed many tears for his sins. Pray that, not having followed his innocence, you may yet imitate his penance.",
@@ -1628,6 +1803,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-22': {
     name: { 'en-US': 'St. Paulinus of Nola', 'pt-BR': 'São Paulino de Nola' },
+    chapter: 'jun-22-paulinus-of-nola',
     reflection: {
       'en-US':
         '"Go to Campania," writes St. Augustine; "there study Paulinus, that choice servant of God. With what generosity, with what still greater humility, he has flung from him the burden of this world\'s grandeurs to take on him the yoke of Christ, and in His service how serene and unobtrusive his life!"',
@@ -1637,6 +1813,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-23': {
     name: { 'en-US': 'St. Etheldreda, Abbess', 'pt-BR': 'Santa Eteldreda, Abadessa' },
+    chapter: 'jun-23-etheldreda',
     reflection: {
       'en-US':
         'The soul cannot truly serve God while it is involved in the distractions and pleasures of the world. Etheldreda knew this, and chose rather to be a servant of Christ her Lord than the mistress of an earthly court. Resolve, in whatever state you are, to live absolutely detached from the world, and to separate yourself as much as possible from it.',
@@ -1646,6 +1823,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-24': {
     name: { 'en-US': 'St. John the Baptist', 'pt-BR': 'São João Batista' },
+    chapter: 'jun-24-john-the-baptist',
     reflection: {
       'en-US':
         'St. John was great before God because he forgot himself and lived for Jesus Christ, Who is the source of all greatness. Remember that you are nothing; your own will and your own desires can only lead to misery and sin. Therefore sacrifice every day some one of your natural inclinations to the Sacred Heart of Our Lord, and learn little by little to lose yourself in Him.',
@@ -1658,9 +1836,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Prosper of Aquitaine. St William of Monte-Vergine',
       'pt-BR': 'São Próspero da Aquitânia. São Guilherme de Monte-Vergine',
     },
+    chapter: 'jun-25-prosper-of-aquitaine-st-william-of-monte-vergine',
   },
   '06-26': {
     name: { 'en-US': 'Sts. John and Paul, Martyrs', 'pt-BR': 'São João e São Paulo, Mártires' },
+    chapter: 'jun-26-sts-john-and-paul',
     reflection: {
       'en-US':
         'The Saints always accounted that they had done nothing for Christ so long as they had not resisted to blood, and by pouring forth the last drop completed their sacrifice. Every action of our lives ought to spring from this fervent motive, and we should consecrate ourselves to the divine service with our whole strength; we must always bear in mind that we owe to God all that we are, and, after all we can do, are unprofitable servants, and do only what we are bound to do.',
@@ -1670,6 +1850,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-27': {
     name: { 'en-US': 'St. Ladislas, King', 'pt-BR': 'São Ladislau, Rei' },
+    chapter: 'jun-27-ladislas',
     reflection: {
       'en-US':
         'The Saints filled all their moments with good works and great actions; and, whilst they labored for an immortal crown, the greatest share of worldly happiness of which this life is capable fell in their way without being even looked for by them. In their afflictions themselves virtue afforded them the most solid comfort, pointed out the remedy, and converted their tribulations into the greatest advantages.',
@@ -1679,6 +1860,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-28': {
     name: { 'en-US': 'St. Irenæus, Bishop, Martyr', 'pt-BR': 'Santo Irineu, Bispo, Mártir' },
+    chapter: 'jun-28-iren-us',
     reflection: {
       'en-US':
         'Fathers and mothers, and heads of families, spiritual and temporal, should bear in mind that inferiors "will not be corrected by words" alone, but that example is likewise needful.',
@@ -1688,6 +1870,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-29': {
     name: { 'en-US': 'St. Peter, Apostle', 'pt-BR': 'São Pedro, Apóstolo' },
+    chapter: 'jun-29-peter',
     reflection: {
       'en-US':
         'Peter still lives on in his successors, and rules and feeds the flock committed to him. The reality of our devotion to him is the surest test of the purity of our faith.',
@@ -1697,6 +1880,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '06-30': {
     name: { 'en-US': 'St. Paul', 'pt-BR': 'São Paulo' },
+    chapter: 'jun-30-paul',
     reflection: {
       'en-US':
         "St. Paul complains that all seek the things which are their own, and not the things which are Christ's. See if these words apply to you, and resolve to give yourself without reserve to God.",
@@ -1706,12 +1890,14 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-01': {
     name: { 'en-US': 'St. Gal, Bishop', 'pt-BR': 'São Galo, Bispo' },
+    chapter: 'jul-01-gal',
   },
   '07-02': {
     name: {
       'en-US': 'The Visitation of the Blessed Virgin',
       'pt-BR': 'A Visitação da Santíssima Virgem',
     },
+    chapter: 'jul-02-the-visitation-of-the-blessed',
     reflection: {
       'en-US':
         'Whilst with the Church we praise God for the mercies and wonders which He wrought in this mystery, we ought to apply ourselves to the imitation of the virtues of which Mary sets us a perfect example. From her we ought particularly to learn the lessons by which we shall sanctify our visits and conversation, actions which are to so many Christians the sources of innumerable dangers and sins.',
@@ -1721,12 +1907,15 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-03': {
     name: { 'en-US': 'St. Heliodorus, Bishop', 'pt-BR': 'Santo Heliodoro, Bispo' },
+    chapter: 'jul-03-heliodorus',
   },
   '07-04': {
     name: { 'en-US': 'St. Bertha, Widow, Abbess', 'pt-BR': 'Santa Berta, Viúva, Abadessa' },
+    chapter: 'jul-04-bertha',
   },
   '07-05': {
     name: { 'en-US': 'St. Peter of Luxemburg', 'pt-BR': 'São Pedro de Luxemburgo' },
+    chapter: 'jul-05-peter-of-luxemburg',
     reflection: {
       'en-US':
         'St. Peter teaches us how, by self-denial, rank, riches, the highest dignities, and all this world can give, may serve to make a Saint.',
@@ -1739,6 +1928,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Goar, Priest · St. Palladius, Bishop, Apostle of the Scots',
       'pt-BR': 'São Goar, Sacerdote · São Paládio, Bispo, Apóstolo dos Escotos',
     },
+    chapter: 'jul-06-goar',
     reflection: {
       'en-US':
         'St. Palladius surmounted every obstacle which a fierce nation had opposed to the establishment of the kingdom of Jesus Christ. Ought not our hearts to be impressed with the most lively sentiments of love and gratitude to our merciful God for having raised up such great and zealous men, by whose ministry the light of true faith has been conveyed to us?',
@@ -1751,6 +1941,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Pantænus, Father of the Church',
       'pt-BR': 'São Panteno, Padre da Igreja',
     },
+    chapter: 'jul-07-pant-nus-father-of-the-church',
     reflection: {
       'en-US':
         '"Have a care that none lead you astray by a false philosophy," says St. Paul, for philosophy without religion is a vain thing.',
@@ -1760,6 +1951,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-08': {
     name: { 'en-US': 'St. Elizabeth of Portugal', 'pt-BR': 'Santa Isabel de Portugal' },
+    chapter: 'jul-08-elizabeth-of-portugal',
     reflection: {
       'en-US':
         'In the Holy Sacrifice of the Altar St. Elizabeth daily found strength to bear with sweetness suspicion and cruelty; and by that same Holy Sacrifice her innocence was proved. What succor do we forfeit by neglect of daily Mass!',
@@ -1769,6 +1961,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-09': {
     name: { 'en-US': 'St. Ephrem, Deacon', 'pt-BR': 'Santo Efrém, Diácono' },
+    chapter: 'jul-09-ephrem',
     reflection: {
       'en-US':
         'Humility is the path which leads to abiding peace and brings us near to the consolations of God.',
@@ -1781,6 +1974,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Seven Brothers, Martyrs, and St. Felicitas, their Mother',
       'pt-BR': 'Os Sete Irmãos, Mártires, e Santa Felicidade, sua Mãe',
     },
+    chapter: 'jul-10-the-seven-brothers',
     reflection: {
       'en-US':
         'What afflictions do parents daily meet with from the disorders into which their children fall through their own bad example or neglect! Let them imitate the earnestness of St. Felicitas in forming to perfect virtue the tender souls which God hath committed to their charge, and with this Saint they will have the greatest of all comforts in them, and will by His grace count as many Saints in their family as they are blessed with children.',
@@ -1790,9 +1984,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-11': {
     name: { 'en-US': 'St. James, Bishop', 'pt-BR': 'São Tiago, Bispo' },
+    chapter: 'jul-11-james',
   },
   '07-12': {
     name: { 'en-US': 'St. John Gualbert', 'pt-BR': 'São João Gualberto' },
+    chapter: 'jul-12-john-gualbert',
     reflection: {
       'en-US':
         'The heroic act which merited for St. John Gualbert his conversion was the forgiveness of his enemy. Let us imitate him in this virtue, resolving never to revenge ourselves in deed, in word, or in thought.',
@@ -1802,6 +1998,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-13': {
     name: { 'en-US': 'St. Eugenius, Bishop', 'pt-BR': 'São Eugênio, Bispo' },
+    chapter: 'jul-13-eugenius',
     reflection: {
       'en-US':
         '"Alms shall be a great confidence before the Most High God to them that give it. Water quencheth a flaming fire, and alms resisteth sin."',
@@ -1811,6 +2008,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-14': {
     name: { 'en-US': 'St. Bonaventure', 'pt-BR': 'São Boaventura' },
+    chapter: 'jul-14-bonaventure',
     reflection: {
       'en-US':
         '"The fear of God," says St. Bonaventure, "forbids a man to give his heart to transitory things, which are the true seeds of sin."',
@@ -1820,6 +2018,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-15': {
     name: { 'en-US': 'St. Henry, Emperor', 'pt-BR': 'Santo Henrique, Imperador' },
+    chapter: 'jul-15-henry-emperor',
     reflection: {
       'en-US':
         'St. Henry deprived himself of many things to enrich the house of God. We clothe ourselves in purple and fine linen, and leave Jesus in poverty and neglect.',
@@ -1829,6 +2028,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-16': {
     name: { 'en-US': 'St. Simon Stock', 'pt-BR': 'São Simão Stock' },
+    chapter: 'jul-16-simon-stock',
     reflection: {
       'en-US':
         'To enjoy the privileges of the scapular, it is sufficient that it be received lawfully and worn devoutly. How, then, can any one fail to profit by a devotion so easy, so simple, and so wonderfully blessed? "He that shall overcome, shall thus be clothed in white garments, and I will not blot out his name out of the book of life, and I will confess his name before My Father and before His angels" (Apoc. iii. 5).',
@@ -1838,6 +2038,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-17': {
     name: { 'en-US': 'St. Alexius', 'pt-BR': 'Santo Aleixo' },
+    chapter: 'jul-17-alexius',
     reflection: {
       'en-US':
         'We must always be ready to sacrifice our dearest and best natural affections in obedience to the call of our heavenly Father. "Call none your father upon earth, for one is your Father in heaven" (Matt. xxiii. 9). Our Lord has taught us this not by words only, but by His own example and by that of His Saints.',
@@ -1847,6 +2048,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-18': {
     name: { 'en-US': 'St. Camillus Of Lellis', 'pt-BR': 'São Camilo de Lélis' },
+    chapter: 'jul-18-camillus-of-lellis',
     reflection: {
       'en-US':
         'St. Camillus venerated the sick as living images of Christ, and by ministering to them in this spirit did penance for the sins of his youth, led a life precious in merit, and from a violent and quarrelsome soldier became a gentle and tender Saint.',
@@ -1856,6 +2058,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-19': {
     name: { 'en-US': 'St. Vincent of Paul', 'pt-BR': 'São Vicente de Paulo' },
+    chapter: 'jul-19-vincent-of-paul',
     reflection: {
       'en-US':
         'Most people who profess piety ask advice of directors about their prayers and spiritual exercises. Few inquire whether they are not in danger of damnation from neglect of works of charity.',
@@ -1868,6 +2071,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Margaret, Virgin and Martyr · St. Jerome Emiliani',
       'pt-BR': 'Santa Margarida, Virgem e Mártir · São Jerônimo Emiliani',
     },
+    chapter: 'jul-20-margaret',
     reflection: {
       'en-US':
         'Let us learn from St. Jerome to exert ourselves in behalf of the many hundred children whose souls are perishing around us for want of some one to show them the way to heaven.',
@@ -1877,9 +2081,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-21': {
     name: { 'en-US': 'St. Victor, Martyr', 'pt-BR': 'São Vítor, Mártir' },
+    chapter: 'jul-21-victor',
   },
   '07-22': {
     name: { 'en-US': 'St. Mary Magdalen', 'pt-BR': 'Santa Maria Madalena' },
+    chapter: 'jul-22-mary-magdalen',
     reflection: {
       'en-US':
         '"Compunction of heart," says St. Bernard, "is a treasure infinitely to be desired, and an unspeakable gladness to the heart. It is healing to the soul; it is remission of sins; it brings back again the Holy Spirit into the humble and loving heart."',
@@ -1892,6 +2098,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Apollinaris, Bishop and Martyr',
       'pt-BR': 'Santo Apolinário, Bispo e Mártir',
     },
+    chapter: 'jul-23-apollinaris',
     reflection: {
       'en-US':
         'The virtue of the Saints was true and heroic, because humble and proof against all trials. Persevere in your good resolutions: it is not enough to begin well; you must so continue to the end.',
@@ -1904,9 +2111,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Christina, Virgin and Martyr',
       'pt-BR': 'Santa Cristina, Virgem e Mártir',
     },
+    chapter: 'jul-24-christina',
   },
   '07-25': {
     name: { 'en-US': 'St. James, Apostle', 'pt-BR': 'São Tiago, Apóstolo' },
+    chapter: 'jul-25-james',
     reflection: {
       'en-US':
         'We must all desire a place in the kingdom of our Father; but can we drink the chalice which He holds out to each? *Possumus*, we must say with St. James—"We can"—but only in the strength of Him Who has drunk it first for us.',
@@ -1916,6 +2125,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-26': {
     name: { 'en-US': 'St. Anne', 'pt-BR': 'Santa Ana' },
+    chapter: 'jul-26-anne',
     reflection: {
       'en-US':
         'St. Anne is glorious among the Saints, not only as the mother of Mary, but because she gave Mary to God. Learn from her to reverence a divine vocation as the highest privilege, and to sacrifice every natural tie, however holy, at the call of God.',
@@ -1925,6 +2135,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-27': {
     name: { 'en-US': 'St. Pantaleon, Martyr', 'pt-BR': 'São Pantaleão, Mártir' },
+    chapter: 'jul-27-pantaleon',
     reflection: {
       'en-US': '"With the elect thou shalt be elect, and with the perverse wilt be perverted."',
       'pt-BR': '"Com os eleitos serás eleito, e com os perversos serás pervertido."',
@@ -1935,6 +2146,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Nazarius and Celsus, Martyrs',
       'pt-BR': 'São Nazário e São Celso, Mártires',
     },
+    chapter: 'jul-28-sts-nazarius-and-celsus',
     reflection: {
       'en-US':
         'The martyrs died as the outcasts of the world, but are crowned by God with immortal honor. The glory of the world is false and transitory, and an empty bubble or shadow, but that of virtue is true, solid, and permanent, even in the eyes of men.',
@@ -1944,6 +2156,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-29': {
     name: { 'en-US': 'St. Martha, Virgin', 'pt-BR': 'Santa Marta, Virgem' },
+    chapter: 'jul-29-martha',
     reflection: {
       'en-US':
         'When Martha received Jesus into her house, she was naturally busy in preparations for such a Guest. Mary sat at His feet, intent alone on listening to His gracious words. Her sister thought that the time required other service than this, and asked our Lord to bid Mary help in serving. Once again Jesus spoke in defence of Mary. "Martha, Martha," He said, "thou art lovingly anxious about many things; be not over-eager; do thy chosen work with recollectedness. Judge not Mary. Hers is the good part, the one only thing really necessary. Thine will be taken away, that something better be given thee." The life of action ceases when the body is laid down; but the life of contemplation endures and is perfected in heaven.',
@@ -1953,6 +2166,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-30': {
     name: { 'en-US': 'St. Germanus, Bishop', 'pt-BR': 'São Germano, Bispo' },
+    chapter: 'jul-30-germanus',
     reflection: {
       'en-US':
         '"Hold the form of sound words, which thou hast heard of me in faith, and in the love which is in Christ Jesus" (II. Tim. i. 13).',
@@ -1962,6 +2176,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '07-31': {
     name: { 'en-US': 'St. Ignatius of Loyola', 'pt-BR': 'Santo Inácio de Loiola' },
+    chapter: 'jul-31-ignatius-of-loyola',
     reflection: {
       'en-US':
         'Ask St. Ignatius to obtain for you the grace to desire ardently the greater glory of God, even though it may cost you much suffering and humiliation.',
@@ -1971,6 +2186,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-01': {
     name: { 'en-US': "St. Peter's Chains", 'pt-BR': 'As Cadeias de São Pedro' },
+    chapter: 'aug-01-peters-chains',
     reflection: {
       'en-US':
         'This miracle affords a confirmation of the divine promise, "If two of you shall consent upon earth concerning anything whatsoever they shall ask, it shall be done to them by My Father Who is in heaven."',
@@ -1983,6 +2199,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Stephen, Pope and Martyr · St. Alphonsus Liguori',
       'pt-BR': 'São Estêvão, Papa e Mártir · Santo Afonso de Ligório',
     },
+    chapter: 'aug-02-stephen',
     reflection: {
       'en-US':
         'Let us do with all our heart the duty of each day, leaving the result to God, as well as the care of the future.',
@@ -1995,6 +2212,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': "The Finding of St. Stephen's Relics",
       'pt-BR': 'O Achado das Relíquias de Santo Estêvão',
     },
+    chapter: 'aug-03-the-finding-of-st-stephens-relics',
     reflection: {
       'en-US':
         'St. Austin, speaking of the miracles of St. Stephen, addresses himself to his flock as follows: "Let us so desire to obtain temporal blessings by his intercession that we may merit, in imitating him, those which are eternal."',
@@ -2004,6 +2222,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-04': {
     name: { 'en-US': 'St. Dominic', 'pt-BR': 'São Domingos' },
+    chapter: 'aug-04-dominic',
     reflection: {
       'en-US':
         '"God has never," said St. Dominic, "refused me what I have asked;" and he has left us the Rosary, that we may learn, with Mary\'s help, to pray easily and simply in the same holy trust.',
@@ -2016,6 +2235,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Dedication of St. Mary ad Nives',
       'pt-BR': 'A Dedicação de Santa Maria ad Nives',
     },
+    chapter: 'aug-05-the-dedication-of-st-mary-ad-nives',
     reflection: {
       'en-US':
         'To render our supplications the more efficacious, we ought to unite them in spirit to those of all fervent penitents and devout souls, in invoking this advocate for sinners.',
@@ -2028,6 +2248,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Transfiguration of Our Lord',
       'pt-BR': 'A Transfiguração de Nosso Senhor',
     },
+    chapter: 'aug-06-the-transfiguration-of-our-lord',
     reflection: {
       'en-US':
         "From the contemplation of this glorious mystery we ought to conceive a true idea of future happiness; if this once possess our souls, we will think nothing of any difficulties or labors we can meet with here, but regard with great indifference all the goods and evils of this life, provided we can but secure our portion in the kingdom of God's glory.",
@@ -2037,6 +2258,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-07': {
     name: { 'en-US': 'St. Cajetan', 'pt-BR': 'São Caetano' },
+    chapter: 'aug-07-cajetan',
     reflection: {
       'en-US':
         "Imitate St. Cajetan's devotion to our blessed Lady, by invoking her aid before every work.",
@@ -2049,6 +2271,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Cyriacus and His Companions, Martyrs · Blessed Peter Favre',
       'pt-BR': 'São Ciríaco e Seus Companheiros, Mártires · Beato Pedro Favre',
     },
+    chapter: 'aug-08-cyriacus-and-his-companions',
     reflection: {
       'en-US':
         'To honor the martyrs and duly celebrate their festivals, we must learn their spirit and study to imitate them according to the circumstances of our state. We must, like them, resist evil, must subdue our passions, suffer afflictions with patience, and bear with others without murmuring or complaining. The cross is the ladder by which we must ascend to heaven.',
@@ -2058,6 +2281,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-09': {
     name: { 'en-US': 'St. Romanus, Martyr', 'pt-BR': 'São Romano, Mártir' },
+    chapter: 'aug-09-romanus',
     reflection: {
       'en-US':
         'We are bound to glorify God by our lives, and Christ commands that our good works shine before men. It was the usual saying of the apostle St. Matthias, "The faithful sins if his neighbor sins." Such ought to be the zeal of every one to instruct and edify his neighbor by word and example.',
@@ -2067,6 +2291,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-10': {
     name: { 'en-US': 'St. Laurence, Martyr', 'pt-BR': 'São Lourenço, Mártir' },
+    chapter: 'aug-10-laurence',
     reflection: {
       'en-US':
         "Our Lord appears before us in the persons of the poor. Charity to them is a great sign of predestination. It is almost impossible, the holy Fathers assure us, for any one who is charitable to the poor for Christ's sake to perish.",
@@ -2079,6 +2304,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Tiburtius and Susanna, Martyrs',
       'pt-BR': 'São Tibúrcio e Santa Susana, Mártires',
     },
+    chapter: 'aug-11-sts-tiburtius-and-susanna',
     reflection: {
       'en-US':
         'Sufferings were to the martyrs the most distinguishing mercy, extraordinary graces, and sources of the greatest crowns and glory. All afflictions which God sends are in like manner the greatest mercies and blessings; they are the most precious talents to be improved by us to the increasing of our love and affection to God, and the exercise of the most heroic virtues of self-denial, patience, humility, resignation, and penance.',
@@ -2088,6 +2314,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-12': {
     name: { 'en-US': 'St. Clare, Abbess', 'pt-BR': 'Santa Clara, Abadessa' },
+    chapter: 'aug-12-clare',
     reflection: {
       'en-US':
         'In a luxurious and effeminate age, the daughters of St. Clare still bear the noble title of poor, and preach by their daily lives the poverty of Jesus Christ.',
@@ -2097,9 +2324,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-13': {
     name: { 'en-US': 'St. Radegundes, Queen', 'pt-BR': 'Santa Radegundes, Rainha' },
+    chapter: 'aug-13-radegundes',
   },
   '08-14': {
     name: { 'en-US': 'St. Eusebius, Priest', 'pt-BR': 'Santo Eusébio, Sacerdote' },
+    chapter: 'aug-14-eusebius',
     reflection: {
       'en-US':
         'Let us learn, from the example of the Saints, courage in the service of God. He calls upon us to endure suffering of body and of mind, if it is necessary, to prove our fidelity to Him; and He promises to support us by His strength, His light, and His heavenly consolation.',
@@ -2112,6 +2341,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Assumption of the Blessed Virgin Mary',
       'pt-BR': 'A Assunção da Santíssima Virgem Maria',
     },
+    chapter: 'aug-15-the-assumption-of-the-blessed',
     reflection: {
       'en-US':
         'Whilst we contemplate, in profound sentiments of veneration, astonishment, and praise, the glory to which Mary is raised by her triumph on this day, we ought, for our own advantage, to consider by what means she arrived at this sublime degree of honor and happiness, that we may walk in her steps. No other way is open to us. The same path which conducted her to glory will also lead us thither; we shall be partners in her reward if we copy her virtues.',
@@ -2121,6 +2351,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-16': {
     name: { 'en-US': 'St. Hyacinth', 'pt-BR': 'São Jacinto' },
+    chapter: 'aug-16-hyacinth',
     reflection: {
       'en-US':
         'St. Hyacinth teaches us to employ every effort in the service of God, and to rely for success not on our own industry, but on the prayer of His Immaculate Mother.',
@@ -2133,6 +2364,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Liberatus, Abbot, and Six Monks, Martyrs',
       'pt-BR': 'São Liberato, Abade, e Seis Monges, Mártires',
     },
+    chapter: 'aug-17-liberatus',
     reflection: {
       'en-US':
         '"Let none of you suffer as a murderer, or a thief, or a railer, or a coveter of other men\'s things; but if as a Christian, let him not be ashamed, but let him glorify God in that name."',
@@ -2145,6 +2377,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Helena, Empress; St. Agapetus, Martyr',
       'pt-BR': 'Santa Helena, Imperatriz; Santo Agapito, Mártir',
     },
+    chapter: 'aug-18-helena',
     reflection: {
       'en-US':
         'St. Helena thought it the glory of her life to find the cross of Christ, and to raise a temple in its honor. How many Christians in these days are ashamed to make this life-giving sign, and to confess themselves the followers of the Crucified!',
@@ -2154,9 +2387,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-19': {
     name: { 'en-US': 'St. Louis, Bishop', 'pt-BR': 'São Luís, Bispo' },
+    chapter: 'aug-19-louis',
   },
   '08-20': {
     name: { 'en-US': 'St. Bernard', 'pt-BR': 'São Bernardo' },
+    chapter: 'aug-20-bernard',
     reflection: {
       'en-US':
         'St. Bernard used to say to those who applied for admission to the monastery, "If you desire to enter here, leave at the threshold the body you have brought with you from the world; here there is room only for your soul." Let us constantly ask ourselves St. Bernard\'s daily question, "To what end didst thou come hither?"',
@@ -2166,6 +2401,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-21': {
     name: { 'en-US': 'St. Jane Frances de Chantal', 'pt-BR': 'Santa Joana Francisca de Chantal' },
+    chapter: 'aug-21-jane-frances-de-chantal',
     reflection: {
       'en-US':
         'Profit by the successive trials of life to gain the strength and courage of St. Jane Frances, and they will become stepping-stones from earth to heaven.',
@@ -2175,6 +2411,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-22': {
     name: { 'en-US': 'St. Symphorian, Martyr', 'pt-BR': 'São Sinforiano, Mártir' },
+    chapter: 'aug-22-symphorian',
     reflection: {
       'en-US':
         'The Catholic religion teaches us to be subject to every rightful authority. But no earthly authority has any right against Christ and His Church. If we are accused of sedition or disobedience because we are faithful to our religion, then we must choose as St. Symphorian chose, and obey God rather than man.',
@@ -2184,6 +2421,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-23': {
     name: { 'en-US': 'St. Philip Benizi', 'pt-BR': 'São Filipe Benício' },
+    chapter: 'aug-23-philip-benizi',
     reflection: {
       'en-US':
         'Endeavor so to act as you would wish to have acted when you stand before your Judge. This is the rule of the Saints, and the only safe rule for all.',
@@ -2193,6 +2431,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-24': {
     name: { 'en-US': 'St. Bartholomew, Apostle', 'pt-BR': 'São Bartolomeu, Apóstolo' },
+    chapter: 'aug-24-bartholomew',
     reflection: {
       'en-US':
         'The characteristic virtue of the apostles was zeal for the divine glory, the first property of the love of God. A soldier is always ready to defend the honor of his prince, and a son that of his father; and can a Christian say he loves God who is indifferent to His honor?',
@@ -2202,6 +2441,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-25': {
     name: { 'en-US': 'St. Louis, King', 'pt-BR': 'São Luís, Rei' },
+    chapter: 'aug-25-louis',
     reflection: {
       'en-US':
         'If we cannot imitate St. Louis in dying for the honor of God, we can at least resemble him in resenting the blasphemies offered against God by the infidel, the heretic, and the scoffer.',
@@ -2211,6 +2451,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-26': {
     name: { 'en-US': 'St. Zephyrinus, Pope and Martyr', 'pt-BR': 'São Zeferino, Papa e Mártir' },
+    chapter: 'aug-26-zephyrinus',
     reflection: {
       'en-US':
         'God has always raised up holy pastors zealous to maintain the faith of His Church inviolable, and to watch over the purity of its morals and the sanctity of its discipline. We enjoy the greatest advantages of the divine grace through their labors, and we owe to God a tribute of perpetual thanksgiving and immortal praise for all those mercies which He has afforded His Church on earth.',
@@ -2220,6 +2461,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-27': {
     name: { 'en-US': 'St. Joseph Calasanctius', 'pt-BR': 'São José de Calasanz' },
+    chapter: 'aug-27-joseph-calasanctius',
     reflection: {
       'en-US':
         '"My children," said the Curé of Ars, "I often think that most of the Christians who are lost are lost for want of instruction; they do not know their religion well."',
@@ -2229,6 +2471,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-28': {
     name: { 'en-US': 'St. Augustine of Hippo', 'pt-BR': 'Santo Agostinho de Hipona' },
+    chapter: 'aug-28-augustine-of-hippo',
     reflection: {
       'en-US':
         'Read the lives of the Saints, and you will find that you are gradually creating a society about you to which in some measure you will be forced to raise the standard of your daily life.',
@@ -2241,6 +2484,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Beheading of St. John the Baptist',
       'pt-BR': 'A Degolação de São João Batista',
     },
+    chapter: 'aug-29-the-beheading-of-st-john-the-baptist',
     reflection: {
       'en-US':
         'All the high graces with which St. John was favored sprang from his humility; in this all his other virtues were founded. If we desire to form ourselves upon so great a model, we must, above all things, labor to lay the same deep foundation.',
@@ -2253,6 +2497,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Rose of Lima · St. Fiaker, Anchorite',
       'pt-BR': 'Santa Rosa de Lima · São Fiacro, Anacoreta',
     },
+    chapter: 'aug-30-rose-of-lima',
     reflection: {
       'en-US':
         'Rose, pure as driven snow, was filled with deepest contrition and humility, and did constant and terrible penance. Our sins are continual, our repentance passing, our contrition slight, our penance nothing. How will it fare with us?',
@@ -2262,6 +2507,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '08-31': {
     name: { 'en-US': 'St. Raymund Nonnatus', 'pt-BR': 'São Raimundo Nonato' },
+    chapter: 'aug-31-raymund-nonnatus',
     reflection: {
       'en-US':
         'This Saint gave not only his substance but his liberty, and even exposed himself to the most cruel torments and death, for the redemption of captives and the salvation of souls. But alas! do not we, merely to gratify our prodigality, vanity, or avarice, refuse to give the superfluous part of our possessions to the poor, who for want of it are perishing with cold and hunger? Let us remember that "He that giveth to the poor shall not want."',
@@ -2271,6 +2517,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-01': {
     name: { 'en-US': 'St. Giles, Abbot', 'pt-BR': 'Santo Egídio, Abade' },
+    chapter: 'sep-01-giles',
     reflection: {
       'en-US':
         'He who accompanies the exercises of contemplation and arduous penance with zealous and undaunted endeavors to conduct others to the same glorious term with himself, shall be truly great in the kingdom of heaven.',
@@ -2280,6 +2527,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-02': {
     name: { 'en-US': 'St. Stephen, King', 'pt-BR': 'Santo Estêvão, Rei' },
+    chapter: 'sep-02-stephen',
     reflection: {
       'en-US':
         '"Our duty," says Father Newman, "is to follow the Vicar of Christ whither he goeth, and never to desert him, however we may be tried; but to defend him at all hazards and against all corners, as a son would a father, and as a wife a husband, knowing that his cause is the cause of God."',
@@ -2289,6 +2537,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-03': {
     name: { 'en-US': 'St. Seraphia, Virgin and Martyr', 'pt-BR': 'Santa Seráfia, Virgem e Mártir' },
+    chapter: 'sep-03-seraphia',
     reflection: {
       'en-US':
         'Christian courage bears relation to our faith. "If we continue in the faith, grounded, and settled, and immovable," all things will be found possible to us.',
@@ -2298,6 +2547,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-04': {
     name: { 'en-US': 'St. Rosalia, Virgin', 'pt-BR': 'Santa Rosália, Virgem' },
+    chapter: 'sep-04-rosalia',
     reflection: {
       'en-US':
         "Rose lived but seventeen years, saved the Church's cause, and died a Saint. We have lived, perhaps, much longer, and yet with what result? Every minute something can be done for God. Let us be up and doing.",
@@ -2307,6 +2557,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-05': {
     name: { 'en-US': 'St. Laurence Justinian', 'pt-BR': 'São Lourenço Justiniano' },
+    chapter: 'sep-05-laurence-justinian',
     reflection: {
       'en-US':
         'Ask St. Laurence to vouchsafe you such a sense of the sufficiency of God that you too may fly to Him and be at rest.',
@@ -2316,6 +2567,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-06': {
     name: { 'en-US': 'St. Eleutherius, Abbot', 'pt-BR': 'Santo Eleutério, Abade' },
+    chapter: 'sep-06-eleutherius',
     reflection: {
       'en-US':
         '"Appear not to men to fast, but to thy Father Who is in heaven, and thy Father, Who seeth in secret, He will repay thee."',
@@ -2325,6 +2577,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-07': {
     name: { 'en-US': 'St. Cloud, Confessor', 'pt-BR': 'São Clodoaldo, Confessor' },
+    chapter: 'sep-07-cloud',
     reflection: {
       'en-US':
         'Let us remember that "the just shall live for evermore; they shall receive a kingdom of glory, and a crown of beauty at the hand of the Lord."',
@@ -2339,12 +2592,14 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'pt-BR':
         'A Natividade da Santíssima Virgem · A Festa, no Domingo Dentro da Oitava de Sua Natividade, do Santíssimo Nome de Maria',
     },
+    chapter: 'sep-08-the-nativity-of-the-blessed',
   },
   '09-09': {
     name: {
       'en-US': 'St. Omer, Bishop · Saint Peter Claver',
       'pt-BR': 'Santo Omer, Bispo · São Pedro Claver',
     },
+    chapter: 'sep-09-omer',
     reflection: {
       'en-US':
         'When you see any one standing in need of your assistance, either for body or soul, do not ask yourself why some one else did not help him, but think to yourself that you have found a treasure.',
@@ -2354,6 +2609,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-10': {
     name: { 'en-US': 'St. Nicholas of Tolentino', 'pt-BR': 'São Nicolau de Tolentino' },
+    chapter: 'sep-10-nicholas-of-tolentino',
     reflection: {
       'en-US':
         'Would you die the death of the just? there is only one way to secure the fulfilment of your wish. Live the life of the just. For it is impossible that one who has been faithful to God in life should make a bad or an unhappy end.',
@@ -2363,6 +2619,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-11': {
     name: { 'en-US': 'St. Paphnutius, Bishop', 'pt-BR': 'São Pafnúcio, Bispo' },
+    chapter: 'sep-11-paphnutius',
     reflection: {
       'en-US':
         'If to fight for our country be glorious, "it is likewise great glory to follow the Lord," saith the Wise Man.',
@@ -2372,6 +2629,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-12': {
     name: { 'en-US': 'St. Guy of Anderlecht', 'pt-BR': 'São Guido de Anderlecht' },
+    chapter: 'sep-12-guy-of-anderlecht',
     reflection: {
       'en-US':
         'Jesus was only nine months in the womb of Mary, three hours on the cross, three days in the sepulchre, but He is always in the tabernacle. Does our reverence before Him bear witness to this most blessed truth?',
@@ -2384,6 +2642,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Eulogius, Patriarch of Alexandria',
       'pt-BR': 'Santo Eulógio, Patriarca de Alexandria',
     },
+    chapter: 'sep-13-eulogius',
     reflection: {
       'en-US':
         'We admire the great actions and the glorious triumph of the Saints; yet it is not so much in these that their sanctity consisted, as in the constant, habitual heroic disposition of their souls. There is no one who does not sometimes do good actions; but he can never be called virtuous who does well only by humor, or by fits and starts, not by steady habits.',
@@ -2396,6 +2655,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Exaltation of the Holy Cross of Our Lord Jesus Christ',
       'pt-BR': 'A Exaltação da Santa Cruz de Nosso Senhor Jesus Cristo',
     },
+    chapter: 'sep-14-the-exaltation-of-the-holy-cross-of-our-lord-jesus-christ',
     reflection: {
       'en-US':
         'Herein is found the accomplishment of the Saviour\'s word: "If I be lifted up from the earth, I will draw all things to Myself."',
@@ -2405,6 +2665,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-15': {
     name: { 'en-US': 'St. Catherine of Genoa', 'pt-BR': 'Santa Catarina de Gênova' },
+    chapter: 'sep-15-catherine-of-genoa',
     reflection: {
       'en-US':
         'The constant thought of purgatory will help us not only to escape its dreadful pains, but also to avoid the least imperfection which hinders our approach to God.',
@@ -2414,6 +2675,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-16': {
     name: { 'en-US': 'St. Cyprian, Bishop, Martyr', 'pt-BR': 'São Cipriano, Bispo, Mártir' },
+    chapter: 'sep-16-cyprian',
     reflection: {
       'en-US':
         'The duty of almsgiving is declared both by nature and revelation: by nature, because it flows from the principle imprinted within us of doing to others as we would they should do to us; by revelation, in many special commands of Scripture, and in the precept of divine charity which binds us to love God for His own sake, and our neighbor for the sake of God.',
@@ -2423,6 +2685,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-17': {
     name: { 'en-US': 'St. Lambert, Bishop, Martyr', 'pt-BR': 'São Lamberto, Bispo, Mártir' },
+    chapter: 'sep-17-lambert',
     reflection: {
       'en-US':
         'How noble and heroic is this virtue of fortitude! how necessary for every Christian, especially for a pastor of souls, that neither worldly views nor fears may ever in the least warp his integrity or blind his judgment!',
@@ -2432,6 +2695,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-18': {
     name: { 'en-US': 'St. Thomas of Villanova', 'pt-BR': 'São Tomás de Vilanova' },
+    chapter: 'sep-18-thomas-of-villanova',
     reflection: {
       'en-US':
         '"Answer me, O sinner!" St. Thomas would say, "what can you purchase with your money better or more necessary than the redemption of your sins?"',
@@ -2441,6 +2705,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-19': {
     name: { 'en-US': 'St. Januarius, Martyr', 'pt-BR': 'São Januário, Mártir' },
+    chapter: 'sep-19-januarius',
     reflection: {
       'en-US':
         'Thank God Who has given you superabundant motives for your faith; and pray for the spirit of the first Christians, the spirit which exults and rejoices in belief.',
@@ -2453,6 +2718,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Eustachius and Companions, Martyrs',
       'pt-BR': 'Santo Eustáquio e Companheiros, Mártires',
     },
+    chapter: 'sep-20-sts-eustachius-and-companions',
     reflection: {
       'en-US':
         'It is not enough to encounter dangers with resolution; we must with equal courage and constancy vanquish pleasure and the softer passions, or we possess not the virtue of true fortitude.',
@@ -2462,6 +2728,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-21': {
     name: { 'en-US': 'St. Matthew, Apostle', 'pt-BR': 'São Mateus, Apóstolo' },
+    chapter: 'sep-21-matthew',
     reflection: {
       'en-US':
         'Obey all inspirations of Our Lord as promptly as St. Matthew, who, at a single word, "laid down," says St. Bridget, "the heavy burden of the world to put on the light and sweet yoke of Christ."',
@@ -2471,6 +2738,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-22': {
     name: { 'en-US': 'The Theban Legion', 'pt-BR': 'A Legião Tebana' },
+    chapter: 'sep-22-the-theban-legion',
     reflection: {
       'en-US':
         'Thank God for every slight and injury you have to bear. An injury borne in meekness and silence is a true victory. It is the proof that we are good soldiers of Jesus Christ, disciples of that heavenly wisdom which is first pure, then peaceable.',
@@ -2480,6 +2748,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-23': {
     name: { 'en-US': 'St. Thecla, Virgin, Martyr', 'pt-BR': 'Santa Tecla, Virgem, Mártir' },
+    chapter: 'sep-23-thecla',
     reflection: {
       'en-US':
         'It is purity in soul and body which will make you strong in pain, in temptation, and in the hour of death. Imitate the purity of this glorious virgin, and take her for your special patroness in your last agony.',
@@ -2492,6 +2761,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Blessed Virgin Mary of Mercy',
       'pt-BR': 'A Santíssima Virgem Maria da Mercê',
     },
+    chapter: 'sep-24-the-blessed',
     reflection: {
       'en-US':
         'St. Peter Nolasco and his knights were laymen, not priests, and yet they considered the salvation of their neighbor intrusted to them. We can each of us by counsel, by prayer, but above all by holy example, assist the salvation of our brethren, and thus secure our own.',
@@ -2504,12 +2774,14 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Firmin, Bishop, Martyr. St. Finbarr, Bishop',
       'pt-BR': 'São Firmino, Bispo, Mártir. São Finbarr, Bispo',
     },
+    chapter: 'sep-25-firmin',
   },
   '09-26': {
     name: {
       'en-US': 'Sts. Cyprian and Justina, Martyrs',
       'pt-BR': 'São Cipriano e Santa Justina, Mártires',
     },
+    chapter: 'sep-26-sts-cyprian-and-justina',
     reflection: {
       'en-US':
         'If the errors and disorders of St. Cyprian show the degeneracy of human nature corrupted by sin and enslaved to vice, his conversion displays the power of grace and virtue to repair it. Let us beg of God to send us grace to resist temptation, and to do His holy will in all things.',
@@ -2522,6 +2794,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Cosmas and Damian, Martyrs',
       'pt-BR': 'São Cosme e São Damião, Mártires',
     },
+    chapter: 'sep-27-sts-cosmas-and-damian',
     reflection: {
       'en-US':
         'We may sanctify our labor or industry, if actuated by the motive of charity toward others, even whilst we fulfil the obligation we owe to ourselves and our families of procuring an honest and necessary subsistence, which of itself is no less noble a virtue, if founded in motives equally pure and perfect.',
@@ -2531,6 +2804,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-28': {
     name: { 'en-US': 'St. Wenceslas, Martyr', 'pt-BR': 'São Venceslau, Mártir' },
+    chapter: 'sep-28-wenceslas',
     reflection: {
       'en-US':
         'St. Wenceslas teaches us that the safest place to meet the trials of life, or to prepare for the stroke of death, is before Jesus in the Blessed Sacrament.',
@@ -2540,6 +2814,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-29': {
     name: { 'en-US': 'St. Michael, Archangel', 'pt-BR': 'São Miguel, Arcanjo' },
+    chapter: 'sep-29-michael-archangel',
     reflection: {
       'en-US':
         '"Whenever," says St. Bernard, "any grievous temptation or vehement sorrow oppresses thee, invoke thy guardian, thy leader; cry out to him, and say, \'Lord, save us, lest we perish!\'"',
@@ -2549,6 +2824,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '09-30': {
     name: { 'en-US': 'St. Jerome, Doctor', 'pt-BR': 'São Jerônimo, Doutor' },
+    chapter: 'sep-30-jerome',
     reflection: {
       'en-US':
         '"To know," says St. Basil, "how to submit thyself with thy whole soul, is to know how to imitate Christ."',
@@ -2558,6 +2834,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-01': {
     name: { 'en-US': 'St. Remigius, Bishop', 'pt-BR': 'São Remígio, Bispo' },
+    chapter: 'oct-01-remigius',
     reflection: {
       'en-US':
         "Few men have had such natural advantages and such gifts of grace as St. Remi, and few have done so great a work. Learn from him to bear the world's praise as well as its scorn with a lowly and chastened heart.",
@@ -2567,6 +2844,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-02': {
     name: { 'en-US': 'The Holy Guardian Angels', 'pt-BR': 'Os Santos Anjos da Guarda' },
+    chapter: 'oct-02-the-holy-guardian-angels',
     reflection: {
       'en-US':
         'Ah! let us not give occasion, in the language of Holy Scripture, to the angels of peace to weep bitterly.',
@@ -2576,6 +2854,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-03': {
     name: { 'en-US': 'St. Gerard, Abbot', 'pt-BR': 'São Gerardo, Abade' },
+    chapter: 'oct-03-gerard',
     reflection: {
       'en-US':
         'Though we are in the world, let us strive to separate ourselves from it and consecrate ourselves to God, remembering that "the world passeth away, but he that doth the will of God abideth forever."',
@@ -2585,6 +2864,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-04': {
     name: { 'en-US': 'St. Francis of Assisi', 'pt-BR': 'São Francisco de Assis' },
+    chapter: 'oct-04-francis-of-assisi',
     reflection: {
       'en-US':
         '"My God and my all," St. Francis’ constant prayer, explains both his poverty and his wealth.',
@@ -2594,6 +2874,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-05': {
     name: { 'en-US': 'St. Placid, Martyr', 'pt-BR': 'São Plácido, Mártir' },
+    chapter: 'oct-05-placid',
     reflection: {
       'en-US':
         'Adversity is the touchstone of the soul, because it discovers the character of the virtue which it possesses. One act of thanksgiving when matters go wrong with us is worth a thousand thanks when things are agreeable to our inclinations.',
@@ -2603,6 +2884,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-06': {
     name: { 'en-US': 'St. Bruno', 'pt-BR': 'São Bruno' },
+    chapter: 'oct-06-bruno',
     reflection: {
       'en-US':
         '"O everlasting kingdom," said St. Augustine; "kingdom of endless ages, whereon rests the untroubled light and the peace of God which passeth all understanding, where the souls of the Saints are in rest, and everlasting joy is on their heads, and sorrow and sighing have fled away! When shall I come and appear before God?"',
@@ -2612,6 +2894,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-07': {
     name: { 'en-US': 'St. Mark, Pope', 'pt-BR': 'São Marcos, Papa' },
+    chapter: 'oct-07-mark',
     reflection: {
       'en-US':
         'A Christian ought to be afraid of no enemy more than himself, whom he carries always about with him, and from whom he is not able to flee. He should therefore never cease to cry out to God, "Unless Thou, O Lord, art my light and support, I watch in vain."',
@@ -2621,6 +2904,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-08': {
     name: { 'en-US': 'St. Bridget of Sweden', 'pt-BR': 'Santa Brígida da Suécia' },
+    chapter: 'oct-08-bridget-of-sweden',
     reflection: {
       'en-US':
         '"Is confession a matter of much time or expense?" asks St. John Chrysostom. "Is it a difficult and painful remedy? Without cost or hurt, the medicine is ever ready to restore you to perfect health."',
@@ -2633,6 +2917,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Dionysius and his Companions, Martyrs. St. Louis Bertrand',
       'pt-BR': 'São Dionísio e seus Companheiros, Mártires. São Luís Bertrando',
     },
+    chapter: 'oct-09-dionysius-and-his-companions',
     reflection: {
       'en-US':
         'The Saints fasted, toiled, and wept, not only for love of God, but for fear of damnation. How shall we, with our self-indulgent lives and unexamined consciences, face the judgment-seat of Christ?',
@@ -2642,6 +2927,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-10': {
     name: { 'en-US': 'St. Francis Borgia', 'pt-BR': 'São Francisco de Borja' },
+    chapter: 'oct-10-francis-borgia',
     reflection: {
       'en-US':
         'St. Francis Borgia learnt the worthlessness of earthly greatness at the funeral of Queen Isabella. Do the deaths of friends teach us aught about ourselves?',
@@ -2651,6 +2937,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-11': {
     name: { 'en-US': 'St. Tarachus and his Companions', 'pt-BR': 'São Taraco e seus Companheiros' },
+    chapter: 'oct-11-tarachus-and-his-companions',
     reflection: {
       'en-US':
         'Such is true Christian devotion. "Neither death nor life shall be able to separate us from the love that is in Christ Jesus."',
@@ -2660,6 +2947,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-12': {
     name: { 'en-US': 'St. Wilfrid, Bishop', 'pt-BR': 'São Wilfrido, Bispo' },
+    chapter: 'oct-12-wilfrid',
     reflection: {
       'en-US':
         'To look towards Rome is an instinct planted in us for the preservation of the Faith. Trust in the Vicar of Christ necessarily results from the reign of His love in our hearts.',
@@ -2669,6 +2957,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-13': {
     name: { 'en-US': 'St. Edward the Confessor', 'pt-BR': 'Santo Eduardo, o Confessor' },
+    chapter: 'oct-13-edward-the',
     reflection: {
       'en-US':
         "David longed to build a temple for God's service. Solomon reckoned it his glory to accomplish the work. But we, who have God made flesh dwelling in our tabernacles, ought to think no time, no zeal, no treasures too much to devote to the splendor and beauty of a Christian church.",
@@ -2678,6 +2967,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-14': {
     name: { 'en-US': 'St. Callistus, Pope, Martyr', 'pt-BR': 'São Calisto, Papa, Mártir' },
+    chapter: 'oct-14-callistus',
     reflection: {
       'en-US':
         'In the body of a Christian we see that which has been the temple of the Holy Ghost, which even now is precious in the eyes of God, Who will watch over it, and one day raise it up in glory to shine forever in His kingdom. Let our actions bear witness to our belief in these truths.',
@@ -2687,6 +2977,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-15': {
     name: { 'en-US': 'St. Teresa', 'pt-BR': 'Santa Teresa' },
+    chapter: 'oct-15-teresa',
     reflection: {
       'en-US':
         '"After all I die a child of the Church." These were the Saint\'s last words. They teach us the lesson of her life—to trust in humble, childlike obedience to our spiritual guides as the surest means of salvation.',
@@ -2696,6 +2987,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-16': {
     name: { 'en-US': 'St. Gall, Abbot', 'pt-BR': 'São Galo, Abade' },
+    chapter: 'oct-16-gall',
     reflection: {
       'en-US':
         '"If any one would be My disciple," says Our Saviour, "let him deny himself." The denial of self is, then, the royal road to perfection.',
@@ -2708,6 +3000,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Hedwige. Saint Margaret Mary Alacoque',
       'pt-BR': 'Santa Edviges. Santa Margarida Maria Alacoque',
     },
+    chapter: 'oct-17-hedwige-saint-margaret-mary-alacoque',
     reflection: {
       'en-US':
         'Love for the Sacred Heart especially honors the Incarnation, and makes the soul grow rapidly in humility, generosity, patience, and union with its Beloved.',
@@ -2717,6 +3010,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-18': {
     name: { 'en-US': 'St. Luke', 'pt-BR': 'São Lucas' },
+    chapter: 'oct-18-luke',
     reflection: {
       'en-US': 'Christ has given all He had for thee; do thou give all thou hast for Him.',
       'pt-BR': 'Cristo deu tudo o que tinha por ti; dá tu tudo o que tens por Ele.',
@@ -2724,6 +3018,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-19': {
     name: { 'en-US': 'St. Peter of Alcantara', 'pt-BR': 'São Pedro de Alcântara' },
+    chapter: 'oct-19-peter-of-alcantara',
     reflection: {
       'en-US':
         'If men do not go about barefoot now, nor undergo sharp penances, as St. Peter did, there are many ways of trampling on the world; and Our Lord teaches them when He finds the necessary courage.',
@@ -2733,6 +3028,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-20': {
     name: { 'en-US': 'St. John Cantius', 'pt-BR': 'São João Câncio' },
+    chapter: 'oct-20-john-cantius',
     reflection: {
       'en-US':
         'He who orders all his doings according to the will of God may often be spoken of by the world as simple and stupid; but in the end he wins the esteem and confidence of the world itself, and the approval and peace of God.',
@@ -2742,6 +3038,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-21': {
     name: { 'en-US': 'St. Ursula, Virgin and Martyr', 'pt-BR': 'Santa Úrsula, Virgem e Mártir' },
+    chapter: 'oct-21-ursula',
     reflection: {
       'en-US':
         'In the estimation of the wise man, "the guarding of virtue" is the most important part of the education of youth.',
@@ -2754,9 +3051,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Mello, Bishop. St. Hilarion, Abbot',
       'pt-BR': 'São Melônio, Bispo. Santo Hilarião, Abade',
     },
+    chapter: 'oct-22-mello',
   },
   '10-23': {
     name: { 'en-US': 'St. Theodoret, Martyr', 'pt-BR': 'São Teodoreto, Mártir' },
+    chapter: 'oct-23-theodoret',
     reflection: {
       'en-US':
         'Those who do not go down to hell in spirit are very likely to go there in reality. Take care to meditate upon the four last things, and to live in holy fear. You will learn to love God better by thinking how He punishes those who do not love Him.',
@@ -2766,6 +3065,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-24': {
     name: { 'en-US': 'St. Magloire, Bishop', 'pt-BR': 'São Maglório, Bispo' },
+    chapter: 'oct-24-magloire',
     reflection: {
       'en-US':
         '"Be mindful of them that have rule over you, who have spoken to you the word of God, whose faith follow, considering the end."',
@@ -2778,6 +3078,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'Sts. Crispin and Crispinian, Martyrs',
       'pt-BR': 'São Crispim e São Crispiniano, Mártires',
     },
+    chapter: 'oct-25-sts-crispin-and-crispinian',
     reflection: {
       'en-US':
         'Of how many may it be said that "they labor in vain," since God is not the end and purpose that inspires the labor?',
@@ -2787,6 +3088,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-26': {
     name: { 'en-US': 'St. Evaristus, Pope and Martyr', 'pt-BR': 'Santo Evaristo, Papa e Mártir' },
+    chapter: 'oct-26-evaristus',
     reflection: {
       'en-US':
         'The disciples of the apostles, by assiduous meditation on heavenly things, were so swallowed up in the life to come, that they seemed no longer inhabitants of this world. If Christians esteem and set their hearts on earthly goods, and lose sight of eternity in the course of their actions, they are no longer animated by the spirit of the primitive Saints, and are become children of this world, slaves to its vanities, and to their own irregular passions. If we do not correct this disorder of our hearts, and conform our interior to the spirit of Christ, we cannot be entitled to His promises.',
@@ -2796,6 +3098,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-27': {
     name: { 'en-US': 'St. Frumentius, Bishop', 'pt-BR': 'São Frumêncio, Bispo' },
+    chapter: 'oct-27-frumentius',
     reflection: {
       'en-US':
         '"The soul that journeys in the light and the truths of the Faith is safe against all error."',
@@ -2804,6 +3107,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-28': {
     name: { 'en-US': 'Sts. Simon and Jude', 'pt-BR': 'São Simão e São Judas' },
+    chapter: 'oct-28-sts-simon-and-jude',
     reflection: {
       'en-US':
         "Zeal is an ardent love which makes a man fearless in defence of God's honor, and earnest at all costs to make known the truth. If we would be children of the Saints, we must be zealous for the Faith.",
@@ -2813,6 +3117,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-29': {
     name: { 'en-US': 'St. Narcissus, Bishop', 'pt-BR': 'São Narciso, Bispo' },
+    chapter: 'oct-29-narcissus',
     reflection: {
       'en-US':
         'God never fails those who trust in Him; He guides them through darkness and through trials secretly and surely to their end, and in the evening time there is light.',
@@ -2825,6 +3130,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Marcellus, the Centurion, Martyr',
       'pt-BR': 'São Marcelo, o Centurião, Mártir',
     },
+    chapter: 'oct-30-marcellus-the-centurion',
     reflection: {
       'en-US':
         '"We are ready to die rather than to transgress the laws of God!" exclaimed one of the Machabees. This sentiment should ever be that of a Christian in presence of temptation.',
@@ -2834,6 +3140,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '10-31': {
     name: { 'en-US': 'St. Quintin, Martyr', 'pt-BR': 'São Quintino, Mártir' },
+    chapter: 'oct-31-quintin',
     reflection: {
       'en-US':
         'Let us bear in mind that the ills of this life are not worthy to be compared to the glory "God has reserved for those who love Him."',
@@ -2843,6 +3150,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-01': {
     name: { 'en-US': 'All-Saints', 'pt-BR': 'Todos os Santos' },
+    chapter: 'nov-01-all-saints',
     reflection: {
       'en-US':
         'Let us have a solicitude to render ourselves worthy of "that chaste generation, so beautiful amid the glory where it dwells."',
@@ -2855,6 +3163,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'All-Souls · St. Malachi, Bishop',
       'pt-BR': 'Todos os Fiéis Defuntos · São Malaquias, Bispo',
     },
+    chapter: 'nov-02-all-souls',
     reflection: {
       'en-US':
         'Our Lord said to St. Gertrude, "God accepts every soul you set free, as if you had redeemed him from captivity, and will reward you in a fitting time for the benefit you have conferred."',
@@ -2864,6 +3173,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-03': {
     name: { 'en-US': 'St. Hubert, Bishop', 'pt-BR': 'Santo Huberto, Bispo' },
+    chapter: 'nov-03-hubert',
     reflection: {
       'en-US':
         'What the Wise Man has said of Wisdom may be applied to Grace: "That it ordereth the means with gentleness, and attaineth its end with power."',
@@ -2873,6 +3183,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-04': {
     name: { 'en-US': 'St. Charles Borromeo', 'pt-BR': 'São Carlos Borromeu' },
+    chapter: 'nov-04-charles-borromeo',
     reflection: {
       'en-US':
         'Daily resolutions to fulfil, at all cost, every duty demanded by God, is the lesson taught by St. Charles; and a lesson we must learn if we would overcome our corrupt nature and reform our lives.',
@@ -2882,6 +3193,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-05': {
     name: { 'en-US': 'St. Bertille, Abbess', 'pt-BR': 'Santa Bertila, Abadessa' },
+    chapter: 'nov-05-bertille',
     reflection: {
       'en-US':
         'It is written that the Saints raise themselves heavenward, going from virtue to virtue, as by steps.',
@@ -2891,6 +3203,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-06': {
     name: { 'en-US': 'St. Leonard', 'pt-BR': 'São Leonardo' },
+    chapter: 'nov-06-leonard',
     reflection: {
       'en-US':
         '"The wicked shall be taken with his own iniquities, and shall be held by the cords of his own sin."',
@@ -2900,6 +3213,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-07': {
     name: { 'en-US': 'St. Willibrord', 'pt-BR': 'São Vilibrordo' },
+    chapter: 'nov-07-willibrord',
     reflection: {
       'en-US':
         'True zeal has its root in the love of God. It can never be idle; it must labor, toil, be doing great things. It glows as fire; it is, like fire, insatiable. See if this spirit be in you!',
@@ -2909,9 +3223,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-08': {
     name: { 'en-US': 'The Feast of the Holy Relics', 'pt-BR': 'A Festa das Santas Relíquias' },
+    chapter: 'nov-08-the-feast-of-the-holy-relics',
   },
   '11-09': {
     name: { 'en-US': 'St. Theodore Tyro, Martyr', 'pt-BR': 'São Teodoro Tiro, Mártir' },
+    chapter: 'nov-09-theodore-tyro',
     reflection: {
       'en-US':
         "We are enlisted in the same service as the holy martyrs, and we too must have courage and constancy if we would be perfect soldiers of Jesus Christ. Let us take our part with them in confessing the faith of Christ and despising the world, that we may have our part with them in Christ's kingdom.",
@@ -2921,6 +3237,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-10': {
     name: { 'en-US': '10: St. Andrew Avellino', 'pt-BR': 'Santo André Avelino' },
+    chapter: 'nov-10-st-andrew-avellino',
     reflection: {
       'en-US':
         'St. Andrew, who suffered so terrible an agony, is the special patron against sudden death. Ask him to be with you in your last hour, and to bring Jesus and Mary to your aid.',
@@ -2930,6 +3247,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-11': {
     name: { 'en-US': 'St. Martin of Tours', 'pt-BR': 'São Martinho de Tours' },
+    chapter: 'nov-11-martin-of-tours',
     reflection: {
       'en-US':
         'It was for Christ crucified that St. Martin worked. Are you working for the same Lord?',
@@ -2939,6 +3257,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-12': {
     name: { 'en-US': 'St. Martin, Pope', 'pt-BR': 'São Martinho, Papa' },
+    chapter: 'nov-12-martin',
     reflection: {
       'en-US':
         'There have been times in the history of Christianity when its truths have seemed on the verge of extinction. But there is one Church whose testimony has never failed: it is the Church of St. Peter, the Apostolic and Roman See. Put your whole trust in her teaching!',
@@ -2948,6 +3267,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-13': {
     name: { 'en-US': 'St. Stanislas Kostka', 'pt-BR': 'São Estanislau Kostka' },
+    chapter: 'nov-13-stanislas-kostka',
     reflection: {
       'en-US':
         'St. Stanislas teaches us in every trial of life, and above all in the hour of death, to have recourse to our patron Saint, and to trust without fear to his aid.',
@@ -2960,6 +3280,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': "St. Didacus · St. Laurence O'Toole, Archbishop of Dublin",
       'pt-BR': "São Dídaco · São Lourenço O'Toole, Arcebispo de Dublin",
     },
+    chapter: 'nov-14-didacus',
     reflection: {
       'en-US':
         'If God be in your heart, He will be also on your lips; for Christ has said, "From the abundance of the heart the mouth speaketh."',
@@ -2969,6 +3290,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-15': {
     name: { 'en-US': 'St. Gertrude, Abbess', 'pt-BR': 'Santa Gertrudes, Abadessa' },
+    chapter: 'nov-15-gertrude',
     reflection: {
       'en-US':
         'No preparation for death can be better than to offer and resign ourselves anew to the Divine Will—humbly, lovingly, with unbounded confidence in the infinite mercy and goodness of God.',
@@ -2978,6 +3300,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-16': {
     name: { 'en-US': 'St. Edmund of Canterbury', 'pt-BR': 'Santo Edmundo de Cantuária' },
+    chapter: 'nov-16-edmund-of-canterbury',
     reflection: {
       'en-US':
         'The Saints were tempted even more than ourselves; but they stood where we fall, because they trusted to Mary, and not to themselves.',
@@ -2987,6 +3310,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-17': {
     name: { 'en-US': 'St. Gregory Thaumaturgus', 'pt-BR': 'São Gregório Taumaturgo' },
+    chapter: 'nov-17-gregory-thaumaturgus',
     reflection: {
       'en-US':
         'Devotion to the blessed Mother of God is the sure protection of faith in her Divine Son. Every time that we invoke her, we renew our faith in the Incarnate God; we reverse the sin and unbelief of our first parents; we take our part with her who was blessed because she believed.',
@@ -2996,6 +3320,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-18': {
     name: { 'en-US': 'St. Odo of Cluny', 'pt-BR': 'Santo Odão de Cluny' },
+    chapter: 'nov-18-odo-of-cluny',
     reflection: {
       'en-US':
         '"It needs only," says Father Newman, "for a Catholic to show devotion to any Saint, in order to receive special benefits from his intercession."',
@@ -3005,6 +3330,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-19': {
     name: { 'en-US': 'St. Elizabeth of Hungary', 'pt-BR': 'Santa Isabel da Hungria' },
+    chapter: 'nov-19-elizabeth-of-hungary',
     reflection: {
       'en-US':
         'This young and delicate princess made herself the servant and nurse of the poor. Let her example teach us to disregard the opinions of the world and to overcome our natural repugnances, in order to serve Christ in the persons of His poor.',
@@ -3014,6 +3340,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-20': {
     name: { 'en-US': 'St. Felix of Valois', 'pt-BR': 'São Félix de Valois' },
+    chapter: 'nov-20-felix-of-valois',
     reflection: {
       'en-US':
         '"Think how much," says St. John Chrysostom, "and how often thy mouth has sinned, and thou wilt devote thyself entirely to the conversion of sinners. For by this one means thou wilt blot out all thy sins, in that thy mouth will become the mouth of God."',
@@ -3026,6 +3353,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Presentation of the Blessed Virgin Mary',
       'pt-BR': 'A Apresentação da Santíssima Virgem Maria',
     },
+    chapter: 'nov-21-the-presentation-of-the-blessed',
     reflection: {
       'en-US':
         "Mary's first presentation to God was an offering most acceptable in His sight. Let our consecration of ourselves to God be made under her patronage, and assisted by her powerful intercession and the union of her merits.",
@@ -3035,6 +3363,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-22': {
     name: { 'en-US': 'St. Cecilia, Virgin, Martyr', 'pt-BR': 'Santa Cecília, Virgem, Mártir' },
+    chapter: 'nov-22-cecilia',
     reflection: {
       'en-US':
         'St. Cecilia teaches us to rejoice in every sacrifice as a pledge of our love of Christ, and to welcome sufferings and death as hastening our union with Him.',
@@ -3044,6 +3373,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-23': {
     name: { 'en-US': 'St. Clement of Rome', 'pt-BR': 'São Clemente de Roma' },
+    chapter: 'nov-23-clement-of-rome',
     reflection: {
       'en-US':
         'God rewards a simple spirit of submission to the clergy, for the honor done to them is done to Him. Your virtue is unreal, your faith in danger, if you fail in this.',
@@ -3053,6 +3383,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-24': {
     name: { 'en-US': 'St. John of the Cross', 'pt-BR': 'São João da Cruz' },
+    chapter: 'nov-24-john-of-the-cross',
     reflection: {
       'en-US':
         '"Live in the world," said St. John, "as if God and your soul only were in it; so shall your heart be never made captive by any earthly thing."',
@@ -3062,6 +3393,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-25': {
     name: { 'en-US': 'St. Catherine of Alexandria', 'pt-BR': 'Santa Catarina de Alexandria' },
+    chapter: 'nov-25-catherine-of-alexandria',
     reflection: {
       'en-US':
         'The constancy displayed by the Saints in their glorious martyrdom cannot be isolated from their previous lives, but is their natural sequence. If we wish to emulate their perseverance, let us first imitate their fidelity to grace.',
@@ -3074,6 +3406,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Peter of Alexandria, Bishop, Martyr',
       'pt-BR': 'São Pedro de Alexandria, Bispo, Mártir',
     },
+    chapter: 'nov-26-peter-of-alexandria',
     reflection: {
       'en-US':
         '"How hardly shall they that have riches enter into the kingdom of God!" says Our Saviour; because they are bound to earth by the strong ties of their riches.',
@@ -3083,6 +3416,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-27': {
     name: { 'en-US': 'St. Maximus, Bishop', 'pt-BR': 'São Máximo, Bispo' },
+    chapter: 'nov-27-maximus',
     reflection: {
       'en-US':
         '"Masters, do to your servants that which is just and equal, knowing that you also have a Master in heaven."',
@@ -3095,9 +3429,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. James of La Marca of Ancona',
       'pt-BR': 'São Tiago de La Marca de Ancona',
     },
+    chapter: 'nov-28-james-of-la-marca-of-ancona',
   },
   '11-29': {
     name: { 'en-US': 'St. Saturninus, Martyr', 'pt-BR': 'São Saturnino, Mártir' },
+    chapter: 'nov-29-saturninus',
     reflection: {
       'en-US':
         'When beset by the temptations of the devil, let us call upon the Saints, who reign with Christ. They were powerful during their lives against the devil and his angels. They are more powerful now that they have passed from the Church on earth to the Church triumphant.',
@@ -3107,6 +3443,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '11-30': {
     name: { 'en-US': 'St. Andrew, Apostle', 'pt-BR': 'Santo André, Apóstolo' },
+    chapter: 'nov-30-andrew',
     reflection: {
       'en-US': 'If we would do good to others, we must, like St. Andrew, keep close to the cross.',
       'pt-BR':
@@ -3115,6 +3452,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-01': {
     name: { 'en-US': 'St. Eligius', 'pt-BR': 'Santo Elói' },
+    chapter: 'dec-01-eligius',
     reflection: {
       'en-US':
         'When God called His Saints to Himself, He might, had He so pleased, have taken their bodies also; but He willed to leave them in our charge, for our help and consolation. Be careful to imitate St. Eligius in making a good use of so great a treasure.',
@@ -3124,6 +3462,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-02': {
     name: { 'en-US': 'St. Bibiana, Virgin, Martyr', 'pt-BR': 'Santa Bibiana, Virgem, Mártir' },
+    chapter: 'dec-02-bibiana',
     reflection: {
       'en-US':
         "Pray for a fidelity and patience like Bibiana's under all trials, that neither convenience nor any worldly advantage may ever prevail upon you to transgress your duty.",
@@ -3133,6 +3472,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-03': {
     name: { 'en-US': 'St. Francis Xavier', 'pt-BR': 'São Francisco Xavier' },
+    chapter: 'dec-03-francis-xavier',
     reflection: {
       'en-US':
         'Some are specially called to work for souls; but there is no one who cannot help much in their salvation. Holy example, earnest intercession, the offerings of our actions in their behalf—all this needs only the spirit which animated St. Francis Xavier, the desire to make some return to God.',
@@ -3142,6 +3482,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-04': {
     name: { 'en-US': 'St. Barbara, Virgin, Martyr', 'pt-BR': 'Santa Bárbara, Virgem, Mártir' },
+    chapter: 'dec-04-barbara',
     reflection: {
       'en-US':
         'Pray often against a sudden and unprovided death; and, above all, that you may be strengthened by the Holy Viaticum against the dangers of your last hour.',
@@ -3151,9 +3492,11 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-05': {
     name: { 'en-US': 'St. Sabas, Abbot', 'pt-BR': 'São Sabas, Abade' },
+    chapter: 'dec-05-sabas',
   },
   '12-06': {
     name: { 'en-US': 'St. Nicholas of Bari', 'pt-BR': 'São Nicolau de Bari' },
+    chapter: 'dec-06-nicholas-of-bari',
     reflection: {
       'en-US':
         'Those who would enter heaven must be as little children, whose greatest glory is their innocence. Now, two things are ours to do: first, to preserve it in ourselves, or regain it by penance; secondly, to love and shield it in others.',
@@ -3163,6 +3506,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-07': {
     name: { 'en-US': 'St. Ambrose, Bishop', 'pt-BR': 'Santo Ambrósio, Bispo' },
+    chapter: 'dec-07-ambrose',
     reflection: {
       'en-US':
         'Whence came to St. Ambrose his grandeur of mind, his clearness of insight, his intrepidity in maintaining the faith and discipline of the Church? Whence but from his contempt of the world, from his fearing God alone?',
@@ -3175,6 +3519,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Feast of the Immaculate Conception',
       'pt-BR': 'A Festa da Imaculada Conceição',
     },
+    chapter: 'dec-08-the-feast-of-the-immaculate-conception',
     reflection: {
       'en-US':
         'Let us repeat frequently these words applied by the Church to the Blessed Virgin: "Thou art all fair, O Mary, and there is not a spot in thee" (Cant. iv. 7).',
@@ -3184,6 +3529,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-09': {
     name: { 'en-US': 'St. Leocadia, Virgin, Martyr', 'pt-BR': 'Santa Leocádia, Virgem, Mártir' },
+    chapter: 'dec-09-leocadia',
     reflection: {
       'en-US':
         'Were we not blinded by the world and the enchantment of its follies, the near prospect of eternity, the uncertainty of the hour of our death, and the repeated precepts of Christ would produce in us the same fervent dispositions which they did in the primitive Christians.',
@@ -3193,6 +3539,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-10': {
     name: { 'en-US': 'St. Eulalia, Virgin, Martyr', 'pt-BR': 'Santa Eulália, Virgem, Mártir' },
+    chapter: 'dec-10-eulalia',
     reflection: {
       'en-US':
         'The apostles rejoiced "that they were accounted worthy to suffer reproach for the name of Jesus." Do we bear our crosses with the same spirit?',
@@ -3202,15 +3549,18 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-11': {
     name: { 'en-US': 'St. Damasus, Pope', 'pt-BR': 'São Dâmaso, Papa' },
+    chapter: 'dec-11-damasus',
   },
   '12-12': {
     name: {
       'en-US': 'St. Valery, Abbot. St. Finian, Bishop',
       'pt-BR': 'São Valério, Abade. São Finiano, Bispo',
     },
+    chapter: 'dec-12-valery',
   },
   '12-13': {
     name: { 'en-US': 'St. Lucy, Virgin, Martyr', 'pt-BR': 'Santa Luzia, Virgem, Mártir' },
+    chapter: 'dec-13-lucy',
     reflection: {
       'en-US':
         "The Saints had to bear sufferings and temptations greater far than yours. How did they overcome them? By the love of Christ. Nourish this pure love by meditating on the mysteries of Christ's life; and, above all, by devotion to the Holy Eucharist, which is the antidote against sin and the pledge of eternal life.",
@@ -3223,6 +3573,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Nicasius, Archbishop, and his Companions, Martyrs',
       'pt-BR': 'São Nicásio, Arcebispo, e seus Companheiros, Mártires',
     },
+    chapter: 'dec-14-nicasius',
     reflection: {
       'en-US':
         'Bear patiently and sweetly bodily sufferings, and prepare for the day of trial by the courageous endurance of the daily crosses incident to your state.',
@@ -3232,6 +3583,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-15': {
     name: { 'en-US': 'St. Mesmin', 'pt-BR': 'São Mesmin' },
+    chapter: 'dec-15-mesmin',
     reflection: {
       'en-US':
         'Few are called to serve God by great actions, but all are bound to strive after perfection in the ordinary actions of their daily life.',
@@ -3241,6 +3593,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-16': {
     name: { 'en-US': 'St. Eusebius, Bishop', 'pt-BR': 'Santo Eusébio, Bispo' },
+    chapter: 'dec-16-eusebius',
     reflection: {
       'en-US':
         'The routine of every-day, commonplace duties is no hindrance to a free intimacy with God. He will disclose His hidden ways to you in proportion as you follow your vocation faithfully, whether in the world or the cloister.',
@@ -3250,6 +3603,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-17': {
     name: { 'en-US': 'St. Olympias, Widow', 'pt-BR': 'Santa Olímpia, Viúva' },
+    chapter: 'dec-17-olympias',
     reflection: {
       'en-US':
         '"Lay not up to yourselves treasures on earth, but in heaven, where neither rust nor moth doth consume."',
@@ -3259,6 +3613,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-18': {
     name: { 'en-US': 'St. Gatian, Bishop', 'pt-BR': 'São Gaciano, Bispo' },
+    chapter: 'dec-18-gatian',
     reflection: {
       'en-US':
         'God does not ask great sacrifices from all; but in His goodness He gives us all some things to renounce or to suffer for Him, and it is by our loving submission to His will that we show ourselves to be Christians.',
@@ -3268,6 +3623,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-19': {
     name: { 'en-US': 'St. Nemesion, Martyr', 'pt-BR': 'São Nemésio, Mártir' },
+    chapter: 'dec-19-nemesion',
     reflection: {
       'en-US':
         'Can we call to mind the fervor of the Saints in laboring and suffering cheerfully for God, and not feel a holy ardor glow in our own breasts, and our souls strongly affected with their heroic sentiments of virtue?',
@@ -3277,6 +3633,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-20': {
     name: { 'en-US': 'St. Philogonius, Bishop', 'pt-BR': 'São Filogônio, Bispo' },
+    chapter: 'dec-20-philogonius',
     reflection: {
       'en-US':
         "St. Philogonius had so perfectly renounced the world, and crucified its inordinate desires in his heart, that he received in this life the earnest of Christ's Spirit, was admitted to the sacred council of the heavenly King, and had free access to the Almighty. A soul must here learn the heavenly spirit, and be well versed in the occupations of the blessed, that hopes to reign with them hereafter.",
@@ -3286,6 +3643,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-21': {
     name: { 'en-US': 'St. Thomas, Apostle', 'pt-BR': 'São Tomé, Apóstolo' },
+    chapter: 'dec-21-thomas',
     reflection: {
       'en-US':
         'Cast away all disquieting doubts, and learn to triumph over old weaknesses as St. Thomas did, who "by his ignorance hath instructed the ignorant, and by, his incredulity hath served for the faith of all ages."',
@@ -3295,6 +3653,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-22': {
     name: { 'en-US': 'St. Ischyrion, Martyr', 'pt-BR': 'Santo Isquírion, Mártir' },
+    chapter: 'dec-22-ischyrion',
     reflection: {
       'en-US':
         "It is not a man's condition, but virtue, that can make him truly great or truly happy. How mean soever a person's station or circumstances may be, the road to both is open to him; and there is not a servant or slave who ought not to be enkindled with a laudable ambition of arriving at this greatness, which will set him on the same level with the rich and the most powerful.",
@@ -3304,6 +3663,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-23': {
     name: { 'en-US': 'St. Servulus', 'pt-BR': 'São Sérvulo' },
+    chapter: 'dec-23-servulus',
     reflection: {
       'en-US':
         'The whole behaviour of this poor sick beggar loudly condemns those who, when blessed with good health and a plentiful fortune, neither do good works nor suffer the least cross with tolerable patience.',
@@ -3316,6 +3676,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Delphinus, Bishop. Sts. Thrasilla and Emiliana, Virgins',
       'pt-BR': 'São Delfino, Bispo. Santas Trasila e Emiliana, Virgens',
     },
+    chapter: 'dec-24-delphinus',
     reflection: {
       'en-US':
         'We may often think the austerities of the Saints are beyond our strength; let us, then, imitate the guard they kept over their tongue. This is within the reach of all.',
@@ -3328,6 +3689,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'The Nativity of Christ, or Christmas Day',
       'pt-BR': 'A Natividade de Cristo, ou Dia de Natal',
     },
+    chapter: 'dec-25-the-nativity-of-christ-or-christmas-day',
     reflection: {
       'en-US':
         'Our Saviour sanctified our flesh by taking it on Himself, and with His last breath He commended us to the care of His Virgin Mother. Day by day He still feeds us at the altar with the food of incorruption—His body and His blood.',
@@ -3337,6 +3699,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-26': {
     name: { 'en-US': 'St. Stephen, First Martyr', 'pt-BR': 'Santo Estêvão, Primeiro Mártir' },
+    chapter: 'dec-26-stephen-first',
     reflection: {
       'en-US':
         'If ever you are tempted to resentment, pray from your heart for him who has offended you.',
@@ -3346,6 +3709,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-27': {
     name: { 'en-US': 'St. John, Evangelist', 'pt-BR': 'São João, Evangelista' },
+    chapter: 'dec-27-john',
     reflection: {
       'en-US':
         'St. John is a living example of Our Lord\'s saying, "Blessed are the clean of heart, for they shall see God."',
@@ -3355,6 +3719,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-28': {
     name: { 'en-US': 'The Holy Innocents', 'pt-BR': 'Os Santos Inocentes' },
+    chapter: 'dec-28-the-holy-innocents',
     reflection: {
       'en-US':
         'How few perhaps of these children, if they had lived, would have escaped the dangers of the world! What snares, what sins, what miseries were they preserved from! So we often lament as misfortunes many accidents which in the designs of Heaven are the greatest mercies.',
@@ -3364,6 +3729,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-29': {
     name: { 'en-US': 'St. Thomas of Canterbury', 'pt-BR': 'São Tomás de Cantuária' },
+    chapter: 'dec-29-thomas-of-canterbury',
     reflection: {
       'en-US':
         '"Learn from St. Thomas," says Father Faber, "to fight the good fight even to the shedding of blood, or, to what men find harder, the shedding of their good name by pouring it out to waste on the earth."',
@@ -3376,6 +3742,7 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
       'en-US': 'St. Sabinus, Bishop, and his Companions, Martyrs',
       'pt-BR': 'São Sabino, Bispo, e seus Companheiros, Mártires',
     },
+    chapter: 'dec-30-sabinus',
     reflection: {
       'en-US':
         'How powerfully do the martyrs cry out to us by their example, exhorting us to despise a false and wicked world!',
@@ -3385,5 +3752,6 @@ export const saintOfDay: Record<string, SaintOfDayEntry> = {
   },
   '12-31': {
     name: { 'en-US': 'St. Sylvester, Pope', 'pt-BR': 'São Silvestre, Papa' },
+    chapter: 'dec-31-sylvester',
   },
 }

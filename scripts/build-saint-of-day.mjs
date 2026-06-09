@@ -17,7 +17,7 @@
  * Usage: node scripts/build-saint-of-day.mjs
  */
 import { spawnSync } from 'node:child_process'
-import { readFileSync, writeFileSync } from 'node:fs'
+import { existsSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -26,6 +26,7 @@ const flowPath = resolve(root, 'content/practices/saint-of-the-day/flow.json')
 const bookPath = resolve(root, 'content/books/pictorial-lives-of-saints/book.json')
 const enChaptersDir = resolve(root, 'content/books/pictorial-lives-of-saints/en-US')
 const ptChaptersDir = resolve(root, 'content/books/pictorial-lives-of-saints/pt-BR')
+const imagesDir = resolve(root, 'content/books/pictorial-lives-of-saints/images')
 const dataOutPath = resolve(root, 'apps/app/src/features/saints/data/saintOfDayNames.ts')
 
 const NUMBER_PREFIX = /^\d+\.\s*/
@@ -134,7 +135,14 @@ for (const option of dateSelect.options) {
     }
   }
 
-  dataEntries.push({ dateKey, name, reflection })
+  // For the Explore card image, pick the first chapter that ships a portrait.
+  // Not every saint has art (e.g. early-Christian figures), and the first saint
+  // in a multi-saint day may be the one without — falling back to the second
+  // keeps the day's card painted instead of dropping to a solid jewel tone.
+  const chapterWithImage =
+    chapters.find((c) => existsSync(resolve(imagesDir, `${c}.webp`))) ?? chapters[0]
+
+  dataEntries.push({ dateKey, name, reflection, chapter: chapterWithImage })
 
   // Rewrite the option in place: bilingual label + nested select for multi-saint days.
   option.label = name
@@ -183,16 +191,19 @@ const dataLines = [
   '// Per-day saint name + first available reflection from Pictorial Lives of the Saints.',
   'export type SaintOfDayEntry = {',
   "  name: { 'en-US': string; 'pt-BR': string }",
+  '  /** Primary chapter id (matches the image filename in the book). */',
+  '  chapter: string',
   "  reflection?: { 'en-US': string; 'pt-BR': string }",
   '}',
   '',
   'export const saintOfDay: Record<string, SaintOfDayEntry> = {',
 ]
-for (const { dateKey, name, reflection } of dataEntries) {
+for (const { dateKey, name, reflection, chapter } of dataEntries) {
   dataLines.push(`  '${dateKey}': {`)
   dataLines.push(
     `    name: { 'en-US': ${JSON.stringify(name['en-US'])}, 'pt-BR': ${JSON.stringify(name['pt-BR'])} },`,
   )
+  dataLines.push(`    chapter: ${JSON.stringify(chapter)},`)
   if (reflection) {
     dataLines.push(
       `    reflection: { 'en-US': ${JSON.stringify(reflection['en-US'])}, 'pt-BR': ${JSON.stringify(reflection['pt-BR'])} },`,

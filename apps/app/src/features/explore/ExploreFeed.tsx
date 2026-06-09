@@ -8,7 +8,7 @@ import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { collectionHref, warmCollection } from '@/features/collections'
 import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
-import { saintOfDay } from '@/features/saints'
+import { saintOfDay, useSaintOfDayBookImage } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason, type LiturgicalCalendarForm } from '@/lib/liturgical'
@@ -127,6 +127,7 @@ export function ExploreFeed() {
     saintOfDay[
       `${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`
     ]
+  const saintBookImage = useSaintOfDayBookImage(saintEntry?.chapter)
   if (saintEntry) {
     const reflection = saintEntry.reflection ? localizeContent(saintEntry.reflection) : undefined
     blocks.push({
@@ -134,6 +135,7 @@ export function ExploreFeed() {
       label: t('explore.saintOfDay'),
       title: localizeContent(saintEntry.name),
       subtitle: reflection ?? t('explore.saintReadingTagline'),
+      image: saintBookImage,
       tone: toneForKey('saint-of-the-day'),
       onPress: () =>
         router.push({ pathname: '/pray/[practiceId]', params: { practiceId: 'saint-of-the-day' } }),
