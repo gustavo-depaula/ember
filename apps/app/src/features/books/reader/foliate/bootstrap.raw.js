@@ -446,6 +446,12 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
         post({ type: 'crossRefTap', href: href });
         return;
       }
+      // In scrolled mode every tap toggles chrome; side-tap paging would
+      // fight the active vertical scroll the user is reading with.
+      if (cfg.flow === 'scrolled') {
+        post({ type: 'centerTap' });
+        return;
+      }
       const frame = doc.defaultView.frameElement;
       if (!frame) return;
       const onScreenX = frame.getBoundingClientRect().left + ev.clientX;
@@ -473,7 +479,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
   const ensurePaginator = () => {
     if (paginator) return;
     paginator = document.createElement('foliate-paginator');
-    paginator.setAttribute('flow', 'paginated');
+    paginator.setAttribute('flow', cfg.flow);
     paginator.setAttribute('animated', '');
     paginator.setAttribute('margin', cfg.marginPx + 'px');
     paginator.setAttribute('gap', '7%');
@@ -588,6 +594,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       cfg = newCfg;
       if (!paginator) return;
       paginator.setAttribute('margin', cfg.marginPx + 'px');
+      paginator.setAttribute('flow', cfg.flow);
       paginator.style.background = cfg.background;
       // Re-blob every chapter with the new STYLE (foliate-paginator has no
       // setStyles); restore {index, fraction} so position is preserved.
