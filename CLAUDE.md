@@ -54,6 +54,7 @@ See `docs/ARCHITECTURE.md` for the full content model and `docs/features/feature
 - `docs/content/book-format.md` — book manifest, chapter format, ID conventions
 - `docs/design/design-system.md` — colors, typography, layout, Tamagui config
 - `docs/content/content-sources.md` — Bible APIs, CCC, hymn sources, licensing
+- `docs/content/primitives-guide.md` — when to use rubric vs prayer vs meditation, bilingual pairing rules, `defaultOpen` guidance (read before authoring practice JSON)
 - `docs/journal.md` — dev journal (accumulated learnings)
 
 ## Code Style (Quick Reference)
@@ -154,6 +155,10 @@ pnpm test:watch          # test watch mode
 ## UI/UX Guidelines
 
 - When the user describes a UI/UX change, ask clarifying questions about the exact visual/interaction model BEFORE writing any code. Do not assume overlay/modal patterns — the user often prefers sliding/gesture-driven layouts.
+
+## Content Authoring
+
+- Before writing or editing any practice/prayer JSON, read `docs/content/primitives-guide.md`. Key rules: a `rubric` is a stage direction (never text the user prays aloud); Latin + vernacular translations of the same line go in separate language keys (`la`, `pt-BR`, `en-US`), never stacked in one string with `\n`.
 
 ## Project Context
 
