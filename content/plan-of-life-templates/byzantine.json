@@ -16,6 +16,10 @@
     "en-US": "The Philokalia; The Way of a Pilgrim",
     "pt-BR": "A Filocalia; Relatos de um Peregrino Russo"
   },
+  "source": {
+    "en-US": "Daily rule of prayer from the Byzantine Catholic Church: [A Morning Rule of Prayer](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) and [An Evening Rule of Prayer](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2706:an-evening-rule-of-prayer&catid=31) (byzcath.org).",
+    "pt-BR": "Regra diária de oração da Igreja Católica Bizantina: [Regra Matinal de Oração](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) e [Regra Vespertina de Oração](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2706:an-evening-rule-of-prayer&catid=31) (byzcath.org)."
+  },
   "icon": "cross",
   "tags": ["byzantine", "eastern", "hesychasm"],
   "practices": [

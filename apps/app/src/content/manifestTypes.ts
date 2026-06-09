@@ -315,6 +315,8 @@ export type PlanOfLifeTemplateManifest = {
   /** 1–3 paragraphs: what this rule is and who it's for. */
   manifesto: LocalizedText
   attribution?: LocalizedText
+  /** Provenance — primary URLs/works the rule of life is drawn from. Markdown links allowed. */
+  source?: LocalizedText
   icon?: string
   tags?: string[]
   practices: PlanOfLifeTemplatePractice[]
