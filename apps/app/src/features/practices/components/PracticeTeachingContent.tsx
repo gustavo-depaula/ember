@@ -1,5 +1,5 @@
 import { ChevronDown, ChevronRight } from 'lucide-react-native'
-import { useState } from 'react'
+import { type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
@@ -50,9 +50,14 @@ function CollapsibleSection({
 export function PracticeTeachingContent({
   manifest,
   defaultExpanded = false,
+  afterDescription,
 }: {
   manifest: PracticeManifest
   defaultExpanded?: boolean
+  /** Optional slot rendered between the short description and the collapsible
+   * History / How To Pray sections — used to drop the variant picker into the
+   * page flow without bypassing the teaching component. */
+  afterDescription?: ReactNode
 }) {
   const { t } = useTranslation()
 
@@ -60,15 +65,19 @@ export function PracticeTeachingContent({
   const history = manifest.history ? localizeContent(manifest.history) : undefined
   const howToPray = manifest.howToPray ? localizeContent(manifest.howToPray) : undefined
 
-  if (!description && !history && !howToPray) return null
+  if (!description && !history && !howToPray && !afterDescription) return null
+
+  const beforeHistory = description || afterDescription
 
   return (
     <YStack gap="$lg">
       {description && <PrologueProse text={description} />}
 
+      {afterDescription}
+
       {history && (
         <>
-          {description && <SectionDivider />}
+          {beforeHistory && <SectionDivider />}
           <CollapsibleSection
             title={t('catalog.history')}
             content={history}
@@ -79,7 +88,7 @@ export function PracticeTeachingContent({
 
       {howToPray && (
         <>
-          {(description || history) && <SectionDivider />}
+          {(beforeHistory || history) && <SectionDivider />}
           <CollapsibleSection
             title={t('catalog.howToPray')}
             content={howToPray}

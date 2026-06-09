@@ -10,6 +10,7 @@ import { fetchHearth } from '@/lib/hearth'
 import { localizeContent } from '@/lib/i18n'
 import { fuzzyMatches, normalizeForSearch } from '@/lib/search'
 import {
+  bareId,
   canonicalize,
   ensureManifestBody,
   getEntriesByKind,
@@ -282,7 +283,16 @@ export function findGroupMemberInSet(
 ): string | undefined {
   const group = getAlternativeGroup(qualifiedId)
   if (!group) return undefined
-  for (const m of group.members) if (practiceIds.has(m.manifest.id)) return m.manifest.id
+  // Slot.practice_id is stored as whatever id was passed at creation — bare
+  // when added via AdoptSheet, canonical when added via catalog detail — so
+  // accept either form and return the one that matched, so callers can use the
+  // returned id directly as a Map/Set key.
+  for (const m of group.members) {
+    const canonical = m.manifest.id
+    if (practiceIds.has(canonical)) return canonical
+    const bare = bareId(canonical)
+    if (bare !== canonical && practiceIds.has(bare)) return bare
+  }
   return undefined
 }
 

@@ -1259,6 +1259,7 @@ export default {
     all: 'Todas',
     addToPlan: 'Adicionar ao Plano',
     alreadyInPlan: 'No seu Plano',
+    alreadyInPlanAsVariant: 'Você já tem esta prática no seu Plano como {{name}}.',
     estimatedTime: '{{minutes}} min',
     about: 'Sobre',
     history: 'Hist\u00f3ria',
@@ -1565,6 +1566,10 @@ export default {
     completionSyncFailed: 'Não foi possível atualizar seu progresso',
     completionSyncFailedDesc:
       'Sua oração foi registrada, mas não conseguimos avançar para o próximo dia. Tente novamente mais tarde.',
+    variants: 'Variantes',
+    variantsOf: 'Variantes de {{name}}',
+    selectVariant: 'Selecionar {{name}}',
+    previewVariant: 'Pré-visualizar {{name}}',
   },
 
   practices: {
