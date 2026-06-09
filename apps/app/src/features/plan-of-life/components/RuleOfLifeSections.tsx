@@ -222,7 +222,7 @@ export function RuleOfLifeSections({ belowWall }: { belowWall?: ReactNode }) {
 
       {slots.length === 0 ? (
         <AnimatedPressable
-          onPress={() => router.push('/practices')}
+          onPress={() => router.push('/templates' as never)}
           accessibilityRole="button"
           accessibilityLabel={t('plan.emptyStateAction')}
         >

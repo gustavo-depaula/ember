@@ -715,7 +715,7 @@ export default {
     emptyState: 'Sua regra de vida ainda é uma página em branco.',
     emptyStateDescription:
       'Adicione práticas para começar a moldar seus dias — oração, leitura, silêncio, caridade.',
-    emptyStateAction: 'Ver práticas →',
+    emptyStateAction: 'Ver tradições →',
     pinAll: 'Tornar plano disponível offline',
     pinAllInProgress: 'Salvando para offline… {{done}} de {{total}}',
     planOffline: 'Plano disponível offline',
