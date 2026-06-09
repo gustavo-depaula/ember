@@ -1,0 +1,52 @@
+{
+	"id": "morning-rule-byzantine",
+	"icon": "sunrise",
+	"alternativeTo": {
+		"id": "morning-offering",
+		"label": {
+			"en-US": "Byzantine — full rule",
+			"pt-BR": "Bizantina — regra completa"
+		},
+		"description": {
+			"en-US": "The full Byzantine morning rule of prayer — Heavenly King, Trisagion, Trinity, Our Father, Psalm 50, the Jesus Prayer, and the hymn to the Mother of God.",
+			"pt-BR": "A regra matinal bizantina completa — Rei celeste, Trisagion, Trindade, Pai-Nosso, Salmo 50, a Oração de Jesus e o hino à Mãe de Deus."
+		}
+	},
+	"source": {
+		"en-US": "Structured after the [Byzantine Catholic morning rule of prayer](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) (byzcath.org). Portuguese text from the *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019); Psalm 140 from the *Bíblia Ave-Maria*.",
+		"pt-BR": "Estruturada conforme a [regra matinal bizantina católica](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) (byzcath.org). Texto português retirado do *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019); Salmo 140 da *Bíblia Ave-Maria*."
+	},
+	"name": {
+		"en-US": "Morning Rule — Byzantine",
+		"pt-BR": "Regra Matinal — Bizantina"
+	},
+	"categories": ["daily", "byzantine"],
+	"estimatedMinutes": 25,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The lay morning rule of the Byzantine tradition — opening before the icons, the *Heavenly King*, the *Trisagion*, the prayer to the Trinity, the Our Father, the call to worship from Psalm 94, the Penitential Psalm 50, the Jesus Prayer counted on a prayer rope, and the hymn to the Mother of God.",
+		"pt-BR": "A regra matinal dos leigos da tradição bizantina — abertura diante dos ícones, o *Rei celeste*, o *Trisagion*, a oração à Trindade, o Pai-Nosso, o convite ao louvor do Salmo 94, o Salmo penitencial 50, a Oração de Jesus contada no cordão de orações e o hino à Mãe de Deus."
+	},
+	"history": {
+		"en-US": "The Byzantine morning rule descends from the monastic *Horologion* and was simplified for lay use, especially through the Russian *molitvoslov* and its diaspora editions. Its shape — opening prayers, the Trinitarian doxology, Psalm 50, the Jesus Prayer, and the *Axion Estin* hymn to the Mother of God — is the common inheritance of all Byzantine Christians, Catholic and Orthodox. The 150 repetitions of the Jesus Prayer correspond to the Psalter and to the older monastic discipline of praying a string of one hundred fifty knots (a *chotki*).",
+		"pt-BR": "A regra matinal bizantina descende do *Horológio* monástico e foi simplificada para uso leigo, sobretudo pelo *molitvoslov* russo e suas edições da diáspora. Sua forma — orações iniciais, a doxologia trinitária, o Salmo 50, a Oração de Jesus e o hino à Mãe de Deus *Axion Estin* — é a herança comum de todos os cristãos bizantinos, católicos e ortodoxos. As 150 repetições da Oração de Jesus correspondem ao Saltério e à antiga disciplina monástica de rezar um cordão de cento e cinquenta nós (um *chotki*)."
+	},
+	"howToPray": {
+		"en-US": "Pray before an icon, standing if possible, after washing and the sign of the cross. Make three small bows at the beginning. Move through each prayer unhurriedly. When you reach the Jesus Prayer, count one hundred fifty repetitions on a prayer rope — let the words unite with the breath. Begin with what is keepable: a shorter count of the rope is better than a number you cannot sustain.",
+		"pt-BR": "Reze diante de um ícone, em pé, se possível, depois de se lavar e fazer o sinal da cruz. Faça três pequenas inclinações ao começar. Percorra cada oração sem pressa. Ao chegar à Oração de Jesus, conte cento e cinquenta repetições no cordão — deixe as palavras unirem-se à respiração. Comece pelo que se pode sustentar: uma contagem menor é melhor que um número que não se mantém."
+	},
+	"tags": ["morning", "byzantine", "eastern", "horologion", "jesus-prayer", "hesychasm"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"time": "06:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

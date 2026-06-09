@@ -1,0 +1,52 @@
+{
+	"id": "evening-rule-byzantine",
+	"icon": "moon",
+	"alternativeTo": {
+		"id": "night-prayer",
+		"label": {
+			"en-US": "Byzantine — full rule",
+			"pt-BR": "Bizantina — regra completa"
+		},
+		"description": {
+			"en-US": "The full Byzantine evening rule of prayer — Heavenly King, Trisagion, Trinity, Our Father, Psalm 140, the Jesus Prayer, and the hymn to the Mother of God.",
+			"pt-BR": "A regra vespertina bizantina completa — Rei celeste, Trisagion, Trindade, Pai-Nosso, Salmo 140, a Oração de Jesus e o hino à Mãe de Deus."
+		}
+	},
+	"source": {
+		"en-US": "Structured after the [Byzantine Catholic evening rule of prayer](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2706:an-evening-rule-of-prayer&catid=31) (byzcath.org). Portuguese text from the *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019); Psalm 140 from the *Bíblia Ave-Maria*.",
+		"pt-BR": "Estruturada conforme a [regra vespertina bizantina católica](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2706:an-evening-rule-of-prayer&catid=31) (byzcath.org). Texto português retirado do *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019); Salmo 140 da *Bíblia Ave-Maria*."
+	},
+	"name": {
+		"en-US": "Evening Rule — Byzantine",
+		"pt-BR": "Regra Vespertina — Bizantina"
+	},
+	"categories": ["daily", "byzantine"],
+	"estimatedMinutes": 25,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The lay evening rule of the Byzantine tradition — opening prayers before the icons, the *Heavenly King*, the *Trisagion*, the prayer to the Trinity, the Our Father, the call to worship from Psalm 94, the evening Psalm 140 (\"Let my prayer rise as incense\"), the Jesus Prayer counted on a prayer rope, and the hymn to the Mother of God.",
+		"pt-BR": "A regra vespertina dos leigos da tradição bizantina — orações iniciais diante dos ícones, o *Rei celeste*, o *Trisagion*, a oração à Trindade, o Pai-Nosso, o convite ao louvor do Salmo 94, o Salmo vespertino 140 (\"Suba a Vós a minha oração como incenso\"), a Oração de Jesus contada no cordão de orações e o hino à Mãe de Deus."
+	},
+	"history": {
+		"en-US": "The evening rule descends from the same monastic *Horologion* as the morning rule and from the great cathedral office of Vespers. Psalm 140 — *Let my prayer rise as incense* — has been the bedrock of Christian evening worship since the earliest centuries; the *Apostolic Constitutions* already name it the *psalm of incense*. The 150 repetitions of the Jesus Prayer parallel the morning's count and recapitulate the day before God.",
+		"pt-BR": "A regra vespertina descende do mesmo *Horológio* monástico da regra matinal e do grande ofício catedral das Vésperas. O Salmo 140 — *Suba a Vós a minha oração como incenso* — tem sido o esteio do culto cristão vespertino desde os primeiros séculos; as *Constituições Apostólicas* já o chamam de *salmo do incenso*. As 150 repetições da Oração de Jesus paralelam a contagem matinal e recapitulam o dia diante de Deus."
+	},
+	"howToPray": {
+		"en-US": "Pray before an icon at the close of the day, after the day's work is finished. Stand if you can; if not, sit reverently. Move through each prayer unhurriedly. When you reach the Jesus Prayer, count one hundred fifty repetitions on a prayer rope. End by examining the day's words, thoughts, and actions before sleep — the watchfulness (*nepsis*) that guards the prayer of the heart.",
+		"pt-BR": "Reze diante de um ícone ao encerrar o dia, depois de terminado o trabalho. Fique em pé se puder; caso contrário, sente-se com reverência. Percorra cada oração sem pressa. Ao chegar à Oração de Jesus, conte cento e cinquenta repetições no cordão. Encerre examinando as palavras, pensamentos e ações do dia diante do sono — a vigilância (*nepsis*) que guarda a oração do coração."
+	},
+	"tags": ["evening", "night", "byzantine", "eastern", "horologion", "jesus-prayer", "hesychasm"],
+	"defaults": {
+		"sortOrder": 6,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"time": "21:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
