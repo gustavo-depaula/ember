@@ -9,7 +9,7 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
 /**
  * Resolves the per-day saint portrait from Pictorial Lives of the Saints to an
  * expo-image source. The book ships one webp per chapter id (`apr-01-hugh.webp`),
- * so the chapter id from {@link saintOfDay} maps 1:1 to a manifest image. Returns
+ * so the chapter id from the saint-of-day index maps 1:1 to a manifest image. Returns
  * undefined while the catalog warms or for chapters whose image hasn't been
  * published yet.
  */
