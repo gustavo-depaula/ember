@@ -4,6 +4,7 @@
  * module scope, not in a route component.
  */
 
+import { usePathname } from 'expo-router'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
@@ -89,10 +90,16 @@ const NOW_PLAYING_BAR_GAP = 16
 
 /**
  * Vertical space ScrollViews must reserve so the mini-bar doesn't occlude
- * their last items. Zero when nothing is playing.
+ * their last items. Zero when nothing is playing, or when on the now-playing
+ * item's own page — the tabs layout hides the accessory there (the full
+ * player IS the surface), so reserving space leaves a dead black band.
  */
 export function useNowPlayingClearance(): number {
-  return useCreatorsStore((s) => (s.nowPlaying ? NOW_PLAYING_BAR_HEIGHT + NOW_PLAYING_BAR_GAP : 0))
+  const pathname = usePathname()
+  const nowPlaying = useCreatorsStore((s) => s.nowPlaying)
+  if (!nowPlaying) return 0
+  if (pathname?.endsWith(`/episode/${nowPlaying.itemId}`)) return 0
+  return NOW_PLAYING_BAR_HEIGHT + NOW_PLAYING_BAR_GAP
 }
 
 export const useCreatorsStore = create<CreatorsState>()(

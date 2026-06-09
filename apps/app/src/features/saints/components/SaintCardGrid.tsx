@@ -76,6 +76,7 @@ export function SaintCardGrid() {
 
   return (
     <FlatList
+      style={styles.flex}
       data={saints}
       renderItem={renderItem}
       keyExtractor={keyExtractor}
@@ -88,6 +89,12 @@ export function SaintCardGrid() {
 }
 
 const styles = StyleSheet.create({
+  // Without flex:1, the FlatList sizes to its full content height (all rows
+  // stacked) — the parent YStack overflows ScreenLayout's bounded area and
+  // the grid stops scrolling: any row past the first ~2.2 is clipped and
+  // unreachable. flex:1 binds the list to the remaining parent height so
+  // the inner ScrollView has a finite viewport to scroll within.
+  flex: { flex: 1 },
   list: {
     paddingBottom: 24,
     gap: 12,
