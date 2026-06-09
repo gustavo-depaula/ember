@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import { Text, YStack } from 'tamagui'
 
 import { useReadingStyle } from '@/hooks/useReadingStyle'
-import { hyphenate } from '@/lib/hyphenate'
+import { InlineMarkdownLine } from './prayer/InlineMarkdown'
 import { ResponseMark } from './prayer/ResponseMark'
 
 export function PrayerText(props: ComponentProps<typeof Text>) {
@@ -15,28 +15,29 @@ export function PrayerText(props: ComponentProps<typeof Text>) {
 export function PrayerLines({
   text,
   fontWeight,
+  fontStyle,
   language,
   prefix,
 }: {
   text: string
   fontWeight?: ComponentProps<typeof Text>['fontWeight']
+  fontStyle?: ComponentProps<typeof Text>['fontStyle']
   language?: string
   // Inline missal mark placed at the start of the first line (e.g. "℟. "
   // for people responses). Rendered through `ResponseMark` so styling
   // stays in sync with versicle/response markers across the app.
   prefix?: string
 }) {
-  const lines = useMemo(
-    () => text.split('\n').map((line) => hyphenate(line, language)),
-    [text, language],
-  )
+  const reading = useReadingStyle()
+  const baseFamily = reading.fontFamily as unknown as string
+  const lines = useMemo(() => text.split('\n'), [text])
 
   return (
     <YStack gap="$xs">
       {lines.map((line, i) => (
-        <PrayerText key={`${i}`} fontWeight={fontWeight}>
+        <PrayerText key={`${i}`} fontWeight={fontWeight} fontStyle={fontStyle}>
           {i === 0 && prefix && <ResponseMark value={prefix} />}
-          {line}
+          <InlineMarkdownLine text={line} baseFamily={baseFamily} language={language} />
         </PrayerText>
       ))}
     </YStack>

@@ -9,7 +9,6 @@ import {
   RenderedReviewResolutionBlock,
 } from '@/features/resolutions'
 import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
-import { PrayerText } from './PrayerText'
 import { CelebrationBanner } from './prayer/CelebrationBanner'
 import { ChoiceRichTextBlock } from './prayer/ChoiceRichTextBlock'
 import { CollapsibleBlock } from './prayer/CollapsibleBlock'
@@ -56,12 +55,11 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
 
   switch (primitive.type) {
     case 'text':
-      return primitive.style === 'italic' ? (
-        <PrayerText fontStyle="italic" color="$color">
-          {primitive.text.primary}
-        </PrayerText>
-      ) : (
-        <PrayerTextBlock text={primitive.text} />
+      return (
+        <PrayerTextBlock
+          text={primitive.text}
+          fontStyle={primitive.style === 'italic' ? 'italic' : undefined}
+        />
       )
 
     case 'heading':
