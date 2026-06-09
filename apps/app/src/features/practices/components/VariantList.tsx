@@ -5,8 +5,10 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
 import { Typography } from '@/components/typography'
+import { bareId } from '@/content/contentIndex'
 import type { AlternativeGroup } from '@/content/resolver'
 import { lightTap } from '@/lib/haptics'
+import { localizeContent } from '@/lib/i18n'
 
 export function VariantList({
   group,
@@ -22,10 +24,19 @@ export function VariantList({
   const { t } = useTranslation()
   const theme = useTheme()
 
+  // The canonical/default practice of the group is the member whose bare id
+  // matches the groupId (e.g. `morning-offering` for the `morning-offering`
+  // group); fall back to the plain "Variants" label if none found.
+  const canonicalMember = group.members.find((m) => bareId(m.manifest.id) === group.groupId)
+  const canonicalName = canonicalMember ? localizeContent(canonicalMember.manifest.name) : undefined
+  const sectionLabel = canonicalName
+    ? t('practice.variantsOf', { name: canonicalName })
+    : t('practice.variants')
+
   return (
     <YStack gap="$md">
       <Typography variant="label" fontSize="$1" textAlign="center" color="$colorSecondary">
-        {t('practice.variants')}
+        {sectionLabel}
       </Typography>
       <YStack gap="$sm">
         {group.members.map((member) => {

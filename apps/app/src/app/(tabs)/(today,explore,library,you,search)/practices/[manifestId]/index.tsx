@@ -80,6 +80,11 @@ export default function CatalogDetailScreen() {
   }, [viewingId, isDirectlyInPlan, practices])
   const isInPlan = isDirectlyInPlan || !!groupMemberInPlan
   const planPracticeId = groupMemberInPlan ?? viewingId
+  const groupMemberVariantLabel = useMemo(() => {
+    if (!groupMemberInPlan) return undefined
+    const m = getManifest(groupMemberInPlan)
+    return m?.alternativeTo?.label ? localizeContent(m.alternativeTo.label) : undefined
+  }, [groupMemberInPlan])
 
   const createPractice = useCreatePractice()
   const updateSlot = useUpdateSlot()
@@ -270,20 +275,6 @@ export default function CatalogDetailScreen() {
             </Typography>
           )}
 
-          {group && (
-            <VariantList
-              group={group}
-              activeVariant={manifest.id}
-              onSelect={(id) => setPickedVariantId(id)}
-              onPreview={(id) =>
-                router.push({
-                  pathname: '/pray/[practiceId]',
-                  params: { practiceId: id },
-                })
-              }
-            />
-          )}
-
           {isProgram ? (
             isInPlan ? (
               programProgress?.isComplete ? (
@@ -346,17 +337,30 @@ export default function CatalogDetailScreen() {
               />
             )
           ) : isInPlan ? (
-            <TextLink
-              label={t('catalog.alreadyInPlan')}
-              onPress={() =>
-                router.push({
-                  pathname: '/plan/[practiceId]',
-                  params: { practiceId: planPracticeId },
-                })
-              }
-              accessibilityRole="link"
-              chevron
-            />
+            <YStack gap="$xs">
+              {groupMemberVariantLabel && (
+                <Typography
+                  variant="caption"
+                  fontSize="$1"
+                  textAlign="center"
+                  tone="muted"
+                  fontStyle="italic"
+                >
+                  {t('catalog.alreadyInPlanAsVariant', { name: groupMemberVariantLabel })}
+                </Typography>
+              )}
+              <TextLink
+                label={t('catalog.alreadyInPlan')}
+                onPress={() =>
+                  router.push({
+                    pathname: '/plan/[practiceId]',
+                    params: { practiceId: planPracticeId },
+                  })
+                }
+                accessibilityRole="link"
+                chevron
+              />
+            </YStack>
           ) : (
             <TextLink
               label={t('catalog.addToPlan')}
@@ -368,7 +372,25 @@ export default function CatalogDetailScreen() {
 
           <SectionDivider />
 
-          <PracticeTeachingContent manifest={manifest} defaultExpanded />
+          <PracticeTeachingContent
+            manifest={manifest}
+            defaultExpanded
+            afterDescription={
+              group && (
+                <VariantList
+                  group={group}
+                  activeVariant={manifest.id}
+                  onSelect={(id) => setPickedVariantId(id)}
+                  onPreview={(id) =>
+                    router.push({
+                      pathname: '/pray/[practiceId]',
+                      params: { practiceId: id },
+                    })
+                  }
+                />
+              )
+            }
+          />
         </YStack>
       </Animated.ScrollView>
 

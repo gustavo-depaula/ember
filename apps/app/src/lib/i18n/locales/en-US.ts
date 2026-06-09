@@ -1252,6 +1252,7 @@ export default {
     all: 'All',
     addToPlan: 'Add to Plan',
     alreadyInPlan: 'In your Plan',
+    alreadyInPlanAsVariant: 'You already have this in your Plan as {{name}}.',
     estimatedTime: '{{minutes}} min',
     about: 'About',
     history: 'History',
@@ -1535,6 +1536,7 @@ export default {
     completionSyncFailedDesc:
       'Your prayer was recorded, but we couldn’t advance to the next day. Please try again later.',
     variants: 'Variants',
+    variantsOf: 'Variants of {{name}}',
     selectVariant: 'Select {{name}}',
     previewVariant: 'Preview {{name}}',
   },

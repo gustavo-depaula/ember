@@ -2,7 +2,7 @@ import { BottomSheet } from '@expo/ui/community/bottom-sheet'
 import { Check } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView } from 'react-native'
+import { Pressable, ScrollView, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
 
@@ -42,6 +42,7 @@ export function AdoptSheet({
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
+  const { height: windowHeight } = useWindowDimensions()
   const slots = useSlots()
   const createPractice = useCreatePractice()
   const updatePractice = useUpdatePractice()
@@ -146,7 +147,12 @@ export function AdoptSheet({
       onClose={onClose}
       backgroundStyle={{ backgroundColor: theme.background?.val }}
     >
-      <YStack paddingTop="$lg" paddingBottom={insets.bottom + 24} gap="$md" height="100%">
+      <YStack
+        paddingTop="$lg"
+        paddingBottom={insets.bottom + 24}
+        gap="$md"
+        height={windowHeight * 0.7}
+      >
         <YStack paddingHorizontal="$lg" gap="$xs">
           <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
             {t('templates.adoptTitle', { name: localizeContent(template.name) })}
