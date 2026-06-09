@@ -1,5 +1,7 @@
 import type { LiturgicalSeason } from '@ember/liturgical'
 
+import { getEntry } from '@/content/contentIndex'
+import type { CatalogEntry } from '@/content/manifestTypes'
 import { pickSpotlight } from '@/features/collections/seasonalSpotlight'
 
 export type Featured = {
@@ -11,10 +13,10 @@ export type Featured = {
   traditionRow: string[]
 }
 
-// Explore owns its own curation now (the old hardcoded `sectionLayout` rows are
-// retired here). Ids are filtered against the live catalog at render, so a
-// missing collection simply drops out of the row.
-const devotionRow = [
+// The same curated rows feed both /explore and /practices — single source of
+// truth keeps the editorial heart of the app consistent. Ids are filtered
+// against the live catalog at render, so a missing collection simply drops out.
+export const devotionRow = [
   'collection/sacred-heart',
   'collection/divine-mercy',
   'collection/marian',
@@ -24,7 +26,7 @@ const devotionRow = [
   'collection/for-the-dead',
 ]
 
-const traditionRow = [
+export const traditionRow = [
   'collection/carmelite',
   'collection/alphonsus-liguori',
   'collection/montfort-spirituality',
@@ -33,6 +35,14 @@ const traditionRow = [
   'collection/novenas',
   'collection/litanies',
 ]
+
+/** Resolve a list of collection ids against the live catalog, dropping any that
+ *  aren't present yet (or aren't collections). Pure — depends only on the catalog. */
+export function collectionRow(ids: string[]): [string, CatalogEntry][] {
+  return ids
+    .map((id) => [id, getEntry(id)] as const)
+    .filter((pair): pair is [string, CatalogEntry] => !!pair[1] && pair[1].kind === 'collection')
+}
 
 // The traditional weekly devotional cycle (dies domini) — one curated
 // collection per weekday, each with its own short prayer guide + go-deeper.

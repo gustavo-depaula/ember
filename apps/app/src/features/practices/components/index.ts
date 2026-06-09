@@ -1,8 +1,6 @@
-export { CollectionCard } from './CollectionCard'
 export { PracticeFlow } from './PracticeFlow'
 export { PracticeHero } from './PracticeHero'
 export { PracticeTeachingContent } from './PracticeTeachingContent'
-export { PrayNowCard } from './PrayNowCard'
 export { ProgramRestartModal } from './ProgramRestartModal'
 export { SearchAutocomplete } from './SearchAutocomplete'
 export { TrackPicker } from './TrackPicker'

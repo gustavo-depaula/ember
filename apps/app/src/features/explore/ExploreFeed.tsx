@@ -4,7 +4,6 @@ import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
 import { bareId, getEntriesByKind, getEntry } from '@/content/contentIndex'
-import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { collectionHref, warmCollection } from '@/features/collections'
 import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
@@ -23,18 +22,11 @@ import { evangelistArtFor } from './evangelistArt'
 import type { FeatureBlockData } from './FeatureBlock'
 import { FeaturedCarousel } from './FeaturedCarousel'
 import { FromRome } from './FromRome'
-import { pickFeatured, weekdayDevotion } from './pickFeatured'
+import { collectionRow, pickFeatured, weekdayDevotion } from './pickFeatured'
 import { useSaintOfDay } from './useSaintOfDay'
 
 const dayMs = 86_400_000
 const isMeta = (id: string) => /example|starter|sandbox/.test(id)
-
-// Resolve a list of collection ids against the live catalog, dropping any that
-// aren't present yet (or aren't collections). Pure — depends only on the catalog.
-const collectionRow = (ids: string[]) =>
-  ids
-    .map((id) => [id, getEntry(id)] as const)
-    .filter((pair): pair is [string, CatalogEntry] => !!pair[1] && pair[1].kind === 'collection')
 
 /**
  * The Explore feed body: a featured carousel (Gospel of the Day → Saint of the
