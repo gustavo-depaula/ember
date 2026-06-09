@@ -16,27 +16,40 @@
     "en-US": "The Philokalia; The Way of a Pilgrim",
     "pt-BR": "A Filocalia; Relatos de um Peregrino Russo"
   },
+  "source": {
+    "en-US": "Daily rule of prayer from the Byzantine Catholic Church: [A Morning Rule of Prayer](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) and [An Evening Rule of Prayer](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2706:an-evening-rule-of-prayer&catid=31) (byzcath.org).",
+    "pt-BR": "Regra diária de oração da Igreja Católica Bizantina: [Regra Matinal de Oração](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) e [Regra Vespertina de Oração](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2706:an-evening-rule-of-prayer&catid=31) (byzcath.org)."
+  },
   "icon": "cross",
   "tags": ["byzantine", "eastern", "hesychasm"],
   "practices": [
     {
-      "ref": "jesus-prayer",
+      "ref": "morning-rule-byzantine",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "06:30",
       "note": {
-        "en-US": "The Jesus Prayer as ceaseless prayer through the day — \"Lord Jesus Christ, Son of God, have mercy on me, a sinner\" — often counted on a knotted prayer rope.",
-        "pt-BR": "A Oração de Jesus como oração incessante ao longo do dia — \"Senhor Jesus Cristo, Filho de Deus, tende misericórdia de mim, pecador\" — muitas vezes contada num cordão de nós."
+        "en-US": "The full Byzantine morning rule — opening prayers before the icons, Heavenly King, Trisagion, the Trinity, the Our Father, Psalm 50, one hundred fifty repetitions of the Jesus Prayer on the prayer rope, and the hymn to the Mother of God.",
+        "pt-BR": "A regra matinal bizantina completa — orações iniciais diante dos ícones, Rei celeste, Trisagion, a Trindade, o Pai-Nosso, o Salmo 50, cento e cinquenta repetições da Oração de Jesus no cordão e o hino à Mãe de Deus."
       }
     },
     {
-      "ref": "morning-offering-byzantine",
+      "ref": "evening-rule-byzantine",
       "tier": "essential",
       "schedule": { "type": "daily" },
-      "time": "06:30",
+      "time": "21:30",
       "note": {
-        "en-US": "The opening of the Byzantine morning rule — Heavenly King, Trisagion, Most Holy Trinity, the Our Father — prayed before the icons, with bows and prostrations as the body too prays.",
-        "pt-BR": "A abertura da regra matinal bizantina — Rei celeste, Trisagion, Santíssima Trindade, o Pai-Nosso — rezada diante dos ícones, com inclinações e prostrações enquanto também o corpo reza."
+        "en-US": "The full Byzantine evening rule — Heavenly King, Trisagion, the Trinity, the Our Father, the evening Psalm 140 (\"Let my prayer rise as incense\"), one hundred fifty repetitions of the Jesus Prayer, the hymn to the Mother of God, and a brief examination of the day.",
+        "pt-BR": "A regra vespertina bizantina completa — Rei celeste, Trisagion, a Trindade, o Pai-Nosso, o Salmo vespertino 140 (\"Suba a Vós a minha oração como incenso\"), cento e cinquenta repetições da Oração de Jesus, o hino à Mãe de Deus e um breve exame do dia."
+      }
+    },
+    {
+      "ref": "jesus-prayer",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "The Jesus Prayer as ceaseless prayer through the day — \"Lord Jesus Christ, Son of God, have mercy on me, a sinner\" — carried beyond the morning and evening rules into walking, working, and waiting.",
+        "pt-BR": "A Oração de Jesus como oração incessante ao longo do dia — \"Senhor Jesus Cristo, Filho de Deus, tende misericórdia de mim, pecador\" — levada para além das regras matinal e vespertina, no caminhar, no trabalho e na espera."
       }
     },
     {

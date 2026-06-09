@@ -1,0 +1,251 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Having risen from sleep, before any other action, stand reverently before an icon, conscious of being in the presence of God who sees all things, and make the sign of the cross.",
+				"pt-BR": "Tendo despertado do sono, antes de qualquer outra ação, levante-se com reverência diante de um ícone, consciente de estar na presença do Deus que tudo vê, e faça o sinal da cruz."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+				"pt-BR": "Em nome do Pai, do Filho e do Espírito Santo. Amém."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Pause for a moment, until your senses have settled and your thoughts have left every worldly thing behind. Then make three small bows, saying:",
+				"pt-BR": "Pause por um momento, até que os sentidos se recolham e os pensamentos abandonem toda coisa mundana. Em seguida, faça três pequenas inclinações, dizendo:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O God, be merciful to me a sinner. (Three times)",
+				"pt-BR": "Ó Deus, sede misericordioso comigo, pecador. (Três vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus Christ, Son of God, through the prayers of Your most pure Mother and of all the saints, have mercy on us. Amen.",
+				"pt-BR": "Senhor Jesus Cristo, Filho de Deus, pelas orações de Vossa puríssima Mãe e de todos os santos, tende piedade de nós. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to You, our God, glory to You.",
+				"pt-BR": "Glória a Vós, nosso Deus, glória a Vós."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "O Heavenly King",
+				"pt-BR": "Ó Rei celeste"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Heavenly King, Comforter, Spirit of Truth, who are everywhere present and fill all things, Treasury of blessings and Giver of life: come and dwell within us, cleanse us of all stain, and save our souls, O Good One.",
+				"pt-BR": "Ó Rei celeste, Consolador, Espírito da Verdade, que em tudo estais presente e tudo preencheis, Tesouro dos bens e Doador da vida: vinde habitar em nós, purificai-nos de toda mancha e salvai, ó Bondoso, as nossas almas."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "From Easter to Ascension, the Heavenly King is replaced by the Paschal troparion: *Christ is risen from the dead, by death He trampled death, and to those in the tombs He granted life.* (Three times)",
+				"pt-BR": "Da Páscoa à Ascensão, o *Rei celeste* é substituído pelo tropário pascal: *Cristo ressuscitou dos mortos, pela morte calcou a morte, e aos que estavam nos sepulcros deu a vida.* (Três vezes)"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Trisagion",
+				"pt-BR": "Trisagion"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Holy God, Holy Mighty, Holy Immortal: have mercy on us.\n(Three times)",
+				"pt-BR": "Santo Deus, Santo Forte, Santo Imortal: tende piedade de nós.\n(Três vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Most Holy Trinity",
+				"pt-BR": "Santíssima Trindade"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Most Holy Trinity, have mercy on us. Lord, cleanse us of our sins. Master, pardon our transgressions. Holy One, visit and heal our infirmities, for the sake of Your Name.",
+				"pt-BR": "Santíssima Trindade, tende piedade de nós. Senhor, purificai-nos dos nossos pecados. Soberano, perdoai as nossas faltas. Santíssimo, visitai e curai as nossas enfermidades, por amor do Vosso Nome."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, have mercy. (Three times)",
+				"pt-BR": "Senhor, tende piedade. (Três vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Call to Worship",
+				"pt-BR": "Convite ao louvor"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Come, let us worship our King and God.\n\nCome, let us worship and bow down before Christ, our King and God.\n\nCome, let us worship and bow down before Christ Himself, our King and God.",
+				"pt-BR": "Vinde, adoremos o nosso Rei e Deus.\n\nVinde, adoremos e prostremo-nos diante de Cristo, nosso Rei e Deus.\n\nVinde, adoremos e prostremo-nos diante do próprio Cristo, nosso Rei e Deus."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Psalm 50 — A Prayer of Repentance",
+				"pt-BR": "Salmo 50 — Oração de Arrependimento"
+			}
+		},
+		{
+			"type": "prayer",
+			"defaultOpen": true,
+			"title": {
+				"en-US": "Have mercy on me, O God",
+				"pt-BR": "Tende misericórdia de mim, ó Deus"
+			},
+			"inline": {
+				"en-US": "Have mercy on me, O God, according to Your great mercy, and according to the multitude of Your compassions, blot out my transgression. Wash me thoroughly from my iniquity and cleanse me from my sin. For I acknowledge my iniquity, and my sin is ever before me. Against You only have I sinned and done evil in Your sight, that You may be justified in Your words and prevail when You are judged.\n\nFor behold, I was conceived in iniquities, and in sins did my mother bear me. For behold, You have loved truth: You have made known to me the secret and hidden things of Your wisdom. Sprinkle me with hyssop, and I shall be clean; wash me, and I shall be made whiter than snow. Make me to hear joy and gladness; the bones that are humbled shall rejoice.\n\nTurn Your face from my sins and blot out all my iniquities. Create in me a clean heart, O God, and renew a right spirit within me. Cast me not away from Your presence, and take not Your Holy Spirit from me. Restore unto me the joy of Your salvation, and with a governing spirit establish me. I shall teach transgressors Your ways, and the ungodly shall turn back to You.\n\nDeliver me from blood-guiltiness, O God, the God of my salvation; my tongue shall rejoice in Your righteousness. O Lord, open my lips, and my mouth shall declare Your praise. For if You had desired sacrifice, I would have given it; with whole-burnt offerings You shall not be pleased. A sacrifice unto God is a broken spirit; a heart that is broken and humbled God will not despise. Do good, O Lord, in Your good pleasure unto Sion, and let the walls of Jerusalem be built. Then shall You be pleased with a sacrifice of righteousness, with oblation and whole-burnt offerings; then shall they offer bullocks upon Your altar.",
+				"pt-BR": "Tende misericórdia de mim, ó Deus, segundo a Vossa grande piedade, e segundo a Vossa imensa clemência, apagai a minha transgressão. Lavai-me completamente da minha iniquidade e purificai-me do meu pecado. Pois reconheço as minhas culpas, e o meu pecado tenho sempre diante de mim. Só contra Vós pequei e fiz o mal diante de Vós, para que sejais achado justo em Vossas sentenças e venceis se Vos puserem em questão.\n\nEis que entre iniquidades fui concebido, e em pecados nasceu-me minha mãe. Mas Vós amastes a verdade, e mostrastes-me os arcanos e os segredos da Vossa sabedoria. Aspergir-me-eis com o hissope e ficarei puro; lavar-me-eis e ficarei mais branco do que a neve. Far-me-eis ouvir júbilo e alegria, e rejubilarão os ossos que humilhastes.\n\nDesviai a Vossa face dos meus pecados e apagai todas as minhas iniquidades. Ó Deus, criai em mim um coração puro, e renovai nas minhas entranhas um espírito de retidão. Não me repudieis da Vossa face, nem afasteis de mim o Vosso Santo Espírito. Restitui-me a alegria da Vossa salvação e amparai-me com o Espírito soberano. Ensinarei aos iníquos os Vossos caminhos, e os ímpios voltar-se-ão para Vós.\n\nLivrai-me da punição de sangue, ó Deus, ó Deus da minha salvação, e a minha língua exaltará a Vossa justiça. Abri, Senhor, os meus lábios, e a minha boca proclamará o Vosso louvor. Se Vos aprouvessem sacrifícios, oferecer-Vo-los-ia, mas não Vos comprazeis nos holocaustos. O sacrifício que praz a Deus é o espírito contrito; um coração contrito e humilhado, Deus não desprezará. Bem-fazei, Senhor, na Vossa benevolência, a Sião, e reerguer-se-ão as muralhas de Jerusalém. Então aceitareis com agrado um sacrifício de justiça, oferendas e holocaustos; então serão oferecidos novilhos sobre o Vosso altar."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Jesus Prayer",
+				"pt-BR": "A Oração de Jesus"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Counted on a prayer rope (*chotki*), repeat the Jesus Prayer one hundred fifty times. Let the words unite with the breath — *Lord Jesus Christ, Son of God* on the in-breath, *have mercy on me, a sinner* on the out-breath. Let the prayer rest in the heart, not in the mind.",
+				"pt-BR": "Contada num cordão de orações (*chotki*), repita a Oração de Jesus cento e cinquenta vezes. Deixe as palavras unirem-se à respiração — *Senhor Jesus Cristo, Filho de Deus* ao inspirar, *tende misericórdia de mim, pecador* ao expirar. Deixe a oração repousar no coração, e não na mente."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus Christ, Son of God, have mercy on me, a sinner.",
+				"pt-BR": "Senhor Jesus Cristo, Filho de Deus, tende misericórdia de mim, pecador."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Hymn to the Mother of God",
+				"pt-BR": "Hino à Mãe de Deus"
+			}
+		},
+		{
+			"type": "prayer",
+			"defaultOpen": true,
+			"title": {
+				"en-US": "It is truly proper",
+				"pt-BR": "Verdadeiramente é digno"
+			},
+			"inline": {
+				"en-US": "It is truly proper to glorify you, who have borne God, the ever-blessed, immaculate, and the Mother of our God. More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, who, a virgin, gave birth to God the Word — you, truly the Mother of God, we magnify.",
+				"pt-BR": "Verdadeiramente é digno honrar-Vos, ó Deípara, sempre venturosa e toda imaculada, e Mãe do nosso Deus. Mais veneranda que os Querubins e mais gloriosa, sem comparação, que os Serafins, a Vós que, sem corrupção, destes nascimento ao Verbo de Deus — a Vós, verdadeira Mãe de Deus, nós Vos magnificamos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, have mercy. (Three times)",
+				"pt-BR": "Senhor, tende piedade. (Três vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus Christ, Son of God, through the prayers of Your most pure Mother and of all the saints, have mercy on us. Amen.",
+				"pt-BR": "Senhor Jesus Cristo, Filho de Deus, pelas orações de Vossa puríssima Mãe e de todos os santos, tende piedade de nós. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		}
+	]
+}
