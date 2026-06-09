@@ -22,6 +22,9 @@
   "flowMode": "scroll",
   "completion": "flow-end",
   "flow": "flow.json",
+  "data": {
+    "saint-of-day-index": "data/saint-of-day-index.json"
+  },
   "tags": [
     "saints",
     "daily",
