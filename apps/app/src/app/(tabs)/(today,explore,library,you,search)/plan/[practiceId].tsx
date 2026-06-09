@@ -33,8 +33,7 @@ import {
   useUpdateSlot,
 } from '@/features/plan-of-life'
 import { SlotConfigurator } from '@/features/plan-of-life/components/SlotConfigurator'
-import { VariantSelector } from '@/features/plan-of-life/components/VariantSelector'
-import { PracticeTeachingContent, TrackPicker } from '@/features/practices/components'
+import { PracticeTeachingContent, TrackPicker, VariantList } from '@/features/practices/components'
 
 export default function PracticeDetailScreen() {
   const { t } = useTranslation()
@@ -128,12 +127,18 @@ export default function PracticeDetailScreen() {
         </XStack>
 
         {group && activeVariant && (
-          <VariantSelector
+          <VariantList
             group={group}
             activeVariant={activeVariant}
             onSelect={(id) =>
               // biome-ignore lint/style/noNonNullAssertion: guarded by the early loading return above
               updatePractice.mutate({ id: practiceId!, data: { activeVariant: id } })
+            }
+            onPreview={(id) =>
+              router.push({
+                pathname: '/pray/[practiceId]',
+                params: { practiceId: id },
+              })
             }
           />
         )}

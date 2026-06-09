@@ -1534,6 +1534,9 @@ export default {
     completionSyncFailed: 'Couldn’t update your progress',
     completionSyncFailedDesc:
       'Your prayer was recorded, but we couldn’t advance to the next day. Please try again later.',
+    variants: 'Variants',
+    selectVariant: 'Select {{name}}',
+    previewVariant: 'Preview {{name}}',
   },
 
   practices: {

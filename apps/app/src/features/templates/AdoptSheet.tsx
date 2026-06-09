@@ -23,7 +23,7 @@ import { resolvePracticeIcon, resolvePracticeName } from './resolvePractice'
  *   - already: exact-ref match in rule — disabled, "already in your rule"
  *   - replaces: a different member of the same alternativeTo group is in rule;
  *     adopting this row flips the existing practice's active_variant to the
- *     tradition's variant, mirroring what VariantSelector does manually
+ *     tradition's variant, mirroring what VariantList does manually
  *   - adoptable: new ref, creates a fresh practice + slot
  * Confirm runs the swaps and the adds; the existing rule's slots/times/tiers
  * are never touched.
@@ -103,7 +103,7 @@ export function AdoptSheet({
     for (const p of proposed) {
       if (p.placeholder || p.already || !checked.has(p.index)) continue
       if (p.replacesId) {
-        // Mirror VariantSelector: flip active_variant on the existing row.
+        // Mirror VariantList: flip active_variant on the existing row.
         // No archive, no new slot — the user's schedule and tier survive.
         await updatePractice.mutateAsync({
           id: p.replacesId,

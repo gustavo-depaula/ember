@@ -1541,6 +1541,9 @@ export default {
     completionSyncFailed: 'Não foi possível atualizar seu progresso',
     completionSyncFailedDesc:
       'Sua oração foi registrada, mas não conseguimos avançar para o próximo dia. Tente novamente mais tarde.',
+    variants: 'Variantes',
+    selectVariant: 'Selecionar {{name}}',
+    previewVariant: 'Pré-visualizar {{name}}',
   },
 
   practices: {
