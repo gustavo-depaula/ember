@@ -8,7 +8,7 @@ import { officestring } from '../kalendar/officestring'
 import { type DayResolution, resolveDay } from '../kalendar/precedence'
 import type { DoLoader } from '../loader'
 import type { Sections } from '../references/resolve'
-import { hooks, scriptFunctions, translateLabel } from './handlers'
+import { hooks, replaceNpb, scriptFunctions, translateLabel } from './handlers'
 import { type MassState, winnerOf } from './state'
 import { createTextTables } from './texts'
 
@@ -43,8 +43,8 @@ async function specials(state: MassState, script: string[], lang: string): Promi
       while (state.tind < state.t.length && !/!!!/.test(state.t[state.tind])) state.tind++
       state.tind--
     }
-    if (/N\.p/.test(item)) item = item.split('N.p').join('N.')
-    if (/N\.b/.test(item)) item = item.split('N.b').join('N.')
+    if (/N\.p/.test(item)) item = replaceNpb(item, state.pope, lang, 'p', 'o')
+    if (/N\.b/.test(item)) item = replaceNpb(item, state.bishop, lang, 'b', 'o')
     state.tind++
 
     // Hooks (!&name): run and drop the line.
@@ -59,7 +59,9 @@ async function specials(state: MassState, script: string[], lang: string): Promi
     // Conditional skip directives (!*…): skip to the next blank line.
     if (/^\s*!\*/.test(item)) {
       let skipflag = false
-      const evalMatch = /!\*(&[a-z]+)\s/i.exec(item)
+      // Perl items carry a trailing newline (getordinarium appends one), so
+      // its `\s` matched at end-of-line; accept end-of-string too.
+      const evalMatch = /!\*(&[a-z]+)(?:\s|$)/i.exec(item)
       if (evalMatch) {
         const hook = hooks[evalMatch[1].slice(1) as keyof typeof hooks]
         if (!hook) throw new Error(`unknown mass hook: ${evalMatch[1]}`)
@@ -126,8 +128,11 @@ async function expandText(state: MassState, text: string, lang: string): Promise
   const lines = text.split('\n')
   const out: string[] = []
   for (const raw of lines) {
-    const line = raw.replace(/\s+$/, '')
-    if (/^\s*[$&]/.test(line.trimStart())) {
+    let line = raw.replace(/\s+$/, '')
+    if (/^\s*[$&]/.test(line.trimStart()) && !/(callpopup|rubrics)/i.test(line)) {
+      // resolve_refs strips dots from reference lines before expanding
+      // ('$Per Dominum.' → the 'Per Dominum' prayer).
+      line = line.replace(/\./g, '')
       const expanded = await expandLine(state, line.trim(), lang)
       if (/^\s*$/.test(expanded)) continue
       out.push(await expandText(state, expanded.replace(/\n$/, ''), lang))
@@ -206,6 +211,17 @@ export async function assembleMass(opts: {
   const texts = createTextTables(day.state.session, true)
   const lang2 = opts.lang2 ?? 'Latin'
 
+  // Runtime defaults from missa.setup ($pope='Leone,Leo', bishop placeholder).
+  const setupDefaults: Record<string, string> = {}
+  const setupFile = await opts.loader.load('missa/missa.setup')
+  if (setupFile && 'sections' in setupFile) {
+    const params = setupFile.sections.find((s) => s.name === 'parameters')
+    for (const line of params?.lines ?? []) {
+      const m = /^\$(\w+)='(.*?)';;/.exec(line)
+      if (m) setupDefaults[m[1]] = m[2]
+    }
+  }
+
   const state: MassState = {
     day,
     session: day.state.session,
@@ -218,6 +234,8 @@ export async function assembleMass(opts: {
     solemn: opts.solemn ?? false,
     propers: opts.propers ?? false,
     votive: /Defunctorum/.test(day.winnerSections.Rank ?? '') ? 'Defunct' : '',
+    pope: setupDefaults.pope ?? '',
+    bishop: setupDefaults.bishop ?? '',
     column: 1,
     rule: day.rule,
     communerule: day.communerule,
@@ -264,20 +282,64 @@ export async function assembleMass(opts: {
     }
   }
 
+  // Perl order: specials → Prelude/Post-Missam splicing → resolve_refs
+  // (expansion) at print time.
   state.column = 1
   const script1 = await readScript(state, 'Latin')
-  const items1 = await expandItems(state, await specials(state, script1, 'Latin'), 'Latin')
+  let items1 = await specials(state, script1, 'Latin')
   applyPreludeRules(state, winnerOf(state, 'Latin'), items1)
+  items1 = await renderFinish(state, await expandItems(state, items1, 'Latin'), 'Latin')
 
   let items2: string[] | undefined
   if (!state.only) {
     state.column = 2
     const script2 = await readScript(state, lang2)
-    items2 = await expandItems(state, await specials(state, script2, lang2), lang2)
+    items2 = await specials(state, script2, lang2)
     applyPreludeRules(state, state.winner2, items2)
+    items2 = await renderFinish(state, await expandItems(state, items2, lang2), lang2)
   }
 
   return { day, latin: items1, vernacular: items2 }
+}
+
+// Port of horascommon.pl::spell_var — version-dependent Latin orthography.
+function spellVar(text: string, version: string): string {
+  if (/196/.test(version)) {
+    return text
+      .replace(/[Jj]/g, (c) => (c === 'J' ? 'I' : 'i'))
+      .replace(/H-Iesu/g, 'H-Jesu')
+      .replace(/er eúmdem/g, 'er eúndem')
+  }
+  return text
+    .replace(/Génetrix/g, 'Génitrix')
+    .replace(/Genetrí/g, 'Genitrí')
+    .replace(/\bco(t[ií]d[ií])/g, 'quo$1')
+}
+
+// Render-time text fixes from webdia.pl::setcell that carry meaning (the
+// purely-typographic ones stay in the app's block mapper).
+async function renderFinish(state: MassState, items: string[], lang: string): Promise<string[]> {
+  const { ctx } = state.day
+  let alleluiaRegex: RegExp | undefined
+  if (/Quadp|Quad[1-5]|Quad6-[0-5]/i.test(ctx.dayname[0])) {
+    const words = new Set<string>()
+    for (const l of ['Latin', state.lang1, state.lang2, state.session.fallbackLang]) {
+      const text = await state.texts.prayer('Alleluia', l)
+      const word = text.replace(/^v\. (.*?)\..*/s, '$1')
+      if (word) words.add(word.toLowerCase())
+    }
+    alleluiaRegex = new RegExp(`[,.]?\\s*(?:${[...words].join('|')}|allel[uú][ij]a)`, 'gi')
+  }
+
+  return items.map((itemIn) => {
+    let item = itemIn
+    if (alleluiaRegex) item = item.replace(alleluiaRegex, '')
+    if (/Latin/.test(lang)) item = spellVar(item, ctx.version)
+    item = item.replace(/wait[0-9]+/gi, '')
+    item = item.replace(/\{:[\s\S]*?:\}/g, '')
+    item = item.replace(/`/g, '')
+    return item
+  })
 }
 
 // Port of the Prelude / Post Missam rule handling in ordo().

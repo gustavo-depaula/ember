@@ -302,7 +302,7 @@ async function getcommemoratio(
     if (papal) o = await papalPrayer(state, lang, papal[0], papal[1], papal[2], type)
   }
   if (!o) return ''
-  let comm = await state.texts.translate('Commemoratio', lang)
+  let comm = await translateLabel(state, 'Commemoratio', lang)
   comm = comm.replace(/\s$/, '')
   return `!${comm} ${rank[0]}\nv. ${o}\n`
 }
@@ -380,13 +380,13 @@ async function lectionesTemporum(state: MassState, lang: string): Promise<string
   const w = winnerOf(state, lang)
   let s = ''
   for (let i = 1; i <= n; i++) {
-    s += `\n_\n#${await state.texts.translate('Lectio', lang)}\n`
+    s += `\n_\n#${await translateLabel(state, 'Lectio', lang)}\n`
     s += `${w[`LectioL${i}`] ?? ''}\n_\n`
     if (w[`GradualeL${i}`] !== undefined) {
-      s += `\n#${await state.texts.translate('Graduale', lang)}\n`
+      s += `\n#${await translateLabel(state, 'Graduale', lang)}\n`
       s += `${w[`GradualeL${i}`]}\n_\n`
     }
-    s += `#${await state.texts.translate('Oratio', lang)}\n`
+    s += `#${await translateLabel(state, 'Oratio', lang)}\n`
     if (i === n) s += await dominusVobiscum(state, lang, 1)
     s += '$Oremus\n'
     if (i < n && !/Pasc/i.test(state.day.ctx.dayname[0])) {
@@ -420,27 +420,17 @@ export async function translateLabel(
   return /Latin/.test(lang) ? item : state.texts.prayer(item, lang)
 }
 
-// Port of setcomment — chapter headline {comment} suffix from Ordo/Comment.txt.
-async function setcomment(
-  state: MassState,
-  label: string,
-  comment: string,
-  ind: number,
-  lang: string,
-): Promise<void> {
-  let index = ind
-  if (/Source/i.test(comment) && state.votive) index = 7
-  const translated = await translateLabel(state, label, lang)
-  const comm = await setup(state, lang, 'Ordo/Comment')
-  const commentText = (comm[comment] ?? '').split('\n')[index] ?? ''
-  let line = translated
-  if (/\}\s*/.test(line)) {
-    line = line.replace(/\}\s*$/, ` ${commentText}}`)
-  } else {
-    line += `{${commentText}}`
-  }
-  state.s.push(line)
-}
+// Port of setcomment — in the missa flow this is effectively a no-op:
+// specials() has already returned a copy of @s by the time oratio() runs
+// (during reference expansion), so the Perl's push lands in a dead array and
+// the {comment} headline suffix never renders. Kept as a stub for fidelity.
+function setcomment(
+  _state: MassState,
+  _label: string,
+  _comment: string,
+  _ind: number,
+  _lang: string,
+): void {}
 
 // Port of oratio() — collect/secret/postcommunion with commemorations.
 async function oratio(state: MassState, lang: string, type: string): Promise<string> {
@@ -453,7 +443,7 @@ async function oratio(state: MassState, lang: string, type: string): Promise<str
 
   let w: Sections = winnerOf(state, lang)
   const comment = /sancti/i.test(state.day.winner) ? 3 : 2
-  await setcomment(state, state.label, 'Source', comment, lang)
+  setcomment(state, state.label, 'Source', comment, lang)
 
   if (/Oratio Dominica/i.test(state.rule) && w[type] === undefined) {
     let name = `${ctx.dayname[0]}-0`
@@ -611,7 +601,28 @@ async function oratio(state: MassState, lang: string, type: string): Promise<str
     return retvalue
   }
 
-  // Pre-1955 suffragium (Ordo/Suffragium.txt) — Tridentine/DA Masses.
+  // Pre-1955 suffragium (Ordo/Suffragium.txt) — Tridentine/DA Masses. On a
+  // semiduplex-or-lower sanctoral day the suffragium spec accretes from the
+  // displaced feria (scriptura) or the commemoration.
+  if (
+    /Sancti/i.test(state.day.winner) &&
+    state.day.duplex < 3 &&
+    state.day.scriptura &&
+    !/Suffr.*;;/.test(state.day.winnerSections.Rule ?? '') &&
+    !/Suffr.*;;/.test(state.day.commemoratioSections.Rule ?? '')
+  ) {
+    const m = /(Suffr.*?=.*?;;)/i.exec(state.day.scripturaSections.Rule ?? '')
+    if (m) state.rule += m[1]
+  }
+  if (
+    /Sancti/i.test(state.day.winner) &&
+    state.day.duplex < 3 &&
+    state.day.commemoratio &&
+    !/Suffr.*;;/.test(state.day.winnerSections.Rule ?? '')
+  ) {
+    const m = /(Suffr.*?=.*?;;)/i.exec(state.day.commemoratioSections.Rule ?? '')
+    if (m) state.rule += m[1]
+  }
   const sufRule = /Suffr.*?=(.*?);;/i.exec(state.rule)
   if (sufRule) {
     let sf = sufRule[1]
@@ -898,7 +909,9 @@ export const scriptFunctions: Record<
     if (/defunct|C9/i.test(state.rule)) return state.texts.prayer('Requiem', lang)
     return state.texts.prayer('Gloria', lang)
   },
-  Communio_Populi: () => '',
+  // The Perl renders a popup link labelled 'Communio' (the faithful's
+  // communion devotions, Ordo/Communio.txt). TODO(M8): inline the content.
+  Communio_Populi: () => 'Communio\n',
   Ultimaev: async (state, lang) => {
     const { ctx } = state.day
     const version = ctx.version

@@ -19,6 +19,8 @@ export type MassState = {
   solemn: boolean
   propers: boolean
   votive: string
+  pope: string
+  bishop: string
   column: number
 
   // Mutable copies — prefatio() and the suffragium logic append to rule.

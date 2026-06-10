@@ -57,8 +57,12 @@ function collectSourceFiles(): string[] {
     for (const dir of missaDirs) files.push(...listTxtFiles(join(sourceRoot, 'missa', lang, dir)))
   }
   files.push(...listTxtFiles(join(sourceRoot, 'horas', 'Ordinarium')))
-  // Language-independent dialog data (communes names, version lists, …).
+  // Language-independent dialog data (communes names, version lists, …) and
+  // runtime defaults (pope/bishop names, fonts — the engine reads a few).
   files.push(join(sourceRoot, 'horas', 'horas.dialog'))
+  files.push(join(sourceRoot, 'horas', 'horas.setup'))
+  files.push(join(sourceRoot, 'missa', 'missa.dialog'))
+  files.push(join(sourceRoot, 'missa', 'missa.setup'))
   for (const entry of tabulaeEntries) {
     const full = join(sourceRoot, 'Tabulae', entry)
     if (entry.endsWith('.txt')) files.push(full)
