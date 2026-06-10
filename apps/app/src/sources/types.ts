@@ -6,8 +6,11 @@ import type { QueryClient } from '@tanstack/react-query'
 import type { Primitive } from '@/content/primitives'
 
 export type ProducerPrefs = {
-  lang: string // content language: 'en-US' | 'pt-BR'
+  lang: string // content language: 'en-US' | 'pt-BR' | 'la'
   translation: string // bible translation: 'DRB' | 'RSV2CE' | 'CNBB' | ...
+  // The user's secondary (pairing) language, when set — sources that emit
+  // bilingual primitives declare it in prefsDeps so cache rows split on it.
+  secondary?: string
 }
 
 export type SourceAccessor = {
