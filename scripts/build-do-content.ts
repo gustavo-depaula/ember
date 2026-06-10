@@ -57,6 +57,8 @@ function collectSourceFiles(): string[] {
     for (const dir of missaDirs) files.push(...listTxtFiles(join(sourceRoot, 'missa', lang, dir)))
   }
   files.push(...listTxtFiles(join(sourceRoot, 'horas', 'Ordinarium')))
+  // Language-independent dialog data (communes names, version lists, …).
+  files.push(join(sourceRoot, 'horas', 'horas.dialog'))
   for (const entry of tabulaeEntries) {
     const full = join(sourceRoot, 'Tabulae', entry)
     if (entry.endsWith('.txt')) files.push(full)
@@ -154,7 +156,10 @@ function main() {
     }
     inv.files++
 
-    const outPath = join(outRoot, relPath.replace(/\.txt$/, '.json'))
+    const outPath = join(
+      outRoot,
+      relPath.endsWith('.txt') ? relPath.replace(/\.txt$/, '.json') : `${relPath}.json`,
+    )
     mkdirSync(dirname(outPath), { recursive: true })
     writeFileSync(outPath, `${JSON.stringify(parsed, null, 1)}\n`)
   }

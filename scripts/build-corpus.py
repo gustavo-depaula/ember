@@ -762,6 +762,8 @@ def build_do(b: Builder) -> None:
             plain.setdefault("tabulae", {})["/".join(parts[1:])] = ref
         elif parts[0] == "horas" and parts[1] == "Ordinarium":
             plain.setdefault("ordinarium", {})["/".join(parts[2:])] = ref
+        elif parts[0] == "horas" and parts[1] == "horas.dialog":
+            plain.setdefault("dialog", {})["horas.dialog"] = ref
         elif parts[0] in ("horas", "missa") and len(parts) >= 4:
             lang = DO_LANG_DIRS.get(parts[1])
             datasets = DO_HORAS_DATASETS if parts[0] == "horas" else DO_MISSA_DATASETS

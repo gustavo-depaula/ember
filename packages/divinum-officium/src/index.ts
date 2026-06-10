@@ -10,6 +10,30 @@ export {
   processConditionalLines,
   vero,
 } from './conditions/evaluate'
+export {
+  dateToYdays,
+  dayOfWeek,
+  getadvent,
+  geteaster,
+  getSday,
+  getweek,
+  leapyear,
+  monthday,
+  nextday,
+  ydaysToDate,
+} from './kalendar/date'
+export { createDirectorium, type Directorium } from './kalendar/directorium'
+export {
+  checkLatinFileExists,
+  climit1960,
+  emberday,
+  extractCommon,
+  nooctnat,
+  occurrence,
+} from './kalendar/occurrence'
+export { officestring } from './kalendar/officestring'
+export { type DayResolution, resolveDay } from './kalendar/precedence'
+export { createKalendarState, type KalendarState, num, subdirname } from './kalendar/state'
 export { type DoLoader, memoizedLoader } from './loader'
 export {
   type ConditionalDirective,
