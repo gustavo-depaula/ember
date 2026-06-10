@@ -1,0 +1,47 @@
+{
+  "id": "liturgy-of-the-hours",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Liturgy of the Hours",
+    "pt-BR": "Liturgia das Horas",
+    "la": "Liturgia Horarum"
+  },
+  "categories": [
+    "liturgical"
+  ],
+  "estimatedMinutes": 15,
+  "description": {
+    "en-US": "The official daily prayer of the Church, with today's texts for all seven canonical hours — from the Office of Readings to Compline — provided by iBreviary.",
+    "pt-BR": "A oração diária oficial da Igreja, com os textos do dia para as sete horas canónicas — do Ofício das Leituras às Completas — fornecidos pelo iBreviary."
+  },
+  "history": {
+    "en-US": "The Liturgy of the Hours is the public, daily prayer of the Church, sanctifying the whole course of the day and night with psalms, hymns, readings, and intercessions. Rooted in the Jewish hours of prayer kept by the apostles, it grew through the cathedral and monastic traditions into the Divine Office, and was renewed after the Second Vatican Council so that clergy, religious, and laity alike could pray with the whole Church. Praying even one hour joins your voice to the unceasing praise the Church offers around the world.",
+    "pt-BR": "A Liturgia das Horas é a oração pública e diária da Igreja, santificando todo o curso do dia e da noite com salmos, hinos, leituras e preces. Enraizada nas horas de oração judaicas guardadas pelos apóstolos, desenvolveu-se nas tradições catedral e monástica até formar o Ofício Divino, renovado após o Concílio Vaticano II para que clero, religiosos e leigos rezassem com toda a Igreja. Rezar mesmo uma só hora une a sua voz ao louvor incessante que a Igreja oferece pelo mundo inteiro."
+  },
+  "howToPray": {
+    "en-US": "Choose the hour that matches the moment of your day — Office of Readings at any time, Lauds in the morning, Terce, Sext, or None through the day, Vespers in the evening, Compline before sleep. The texts are fetched fresh each day from iBreviary and follow the liturgical calendar. Pray slowly, pausing at the asterisk in each psalm verse.",
+    "pt-BR": "Escolha a hora que corresponde ao momento do seu dia — Ofício das Leituras a qualquer hora, Laudes de manhã, Tércia, Sexta ou Noa ao longo do dia, Vésperas ao entardecer, Completas antes de dormir. Os textos são obtidos diariamente do iBreviary e seguem o calendário litúrgico. Reze devagar, fazendo pausa no asterisco de cada versículo dos salmos."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "theme": "office",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary",
+    "liturgy-of-the-hours",
+    "daily"
+  ],
+  "defaults": {
+    "sortOrder": 18,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "essential",
+        "enabled": false
+      }
+    ]
+  }
+}
