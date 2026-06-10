@@ -1,0 +1,122 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-3": "compline",
+        "4-6": "office-of-readings",
+        "7-9": "lauds",
+        "10-11": "terce",
+        "12-14": "sext",
+        "15-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "office-of-readings",
+          "label": {
+            "en-US": "Office of Readings",
+            "pt-BR": "Ofício das Leituras"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/breviary-of-the-day",
+              "params": { "hour": "office-of-readings" }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Morning Prayer",
+            "pt-BR": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/breviary-of-the-day",
+              "params": { "hour": "lauds" }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Midmorning (Terce)",
+            "pt-BR": "Tércia"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/breviary-of-the-day",
+              "params": { "hour": "terce" }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Midday (Sext)",
+            "pt-BR": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/breviary-of-the-day",
+              "params": { "hour": "sext" }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "Midafternoon (None)",
+            "pt-BR": "Noa"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/breviary-of-the-day",
+              "params": { "hour": "none" }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Evening Prayer",
+            "pt-BR": "Vésperas"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/breviary-of-the-day",
+              "params": { "hour": "vespers" }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Night Prayer",
+            "pt-BR": "Completas"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/breviary-of-the-day",
+              "params": { "hour": "compline" }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 import { bibleChapterSource } from './bible-chapter'
 import { cccChapterSource } from './ccc-chapter'
 import { cccCompendiumSource } from './ccc-compendium'
+import { breviarySource } from './ibreviary'
 import { massFlowSource } from './mass-flow'
 import { psalmodySource } from './psalmody'
 import type { ContentSource } from './types'
@@ -27,3 +28,4 @@ registerSource(psalmodySource)
 registerSource(gospelOfTheDaySource as ContentSource)
 registerSource(wordOfThePopeSource as ContentSource)
 registerSource(massFlowSource as ContentSource)
+registerSource(breviarySource as ContentSource)

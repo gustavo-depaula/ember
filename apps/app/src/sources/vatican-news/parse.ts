@@ -1,11 +1,10 @@
 import type { ChildNode, Element } from 'domhandler'
 import { parseDocument } from 'htmlparser2'
 import type { ProseBlock, ProseInline } from '@/content/primitives'
+import { findElement, findElementInList, hasClass, isTag } from '../dom'
 import { blockHeading, type DayBlock, type Lang } from './url'
 
 const collapseWs = (s: string): string => s.replace(/\s+/g, ' ').trim()
-
-const isTag = (n: ChildNode): n is Element => n.type === 'tag'
 
 function innerText(el: Element): string {
   let s = ''
@@ -14,33 +13,6 @@ function innerText(el: Element): string {
     else if (c.type === 'tag') s += innerText(c)
   }
   return collapseWs(s)
-}
-
-function hasClass(el: Element, cls: string): boolean {
-  const c = el.attribs.class
-  return c ? c.split(/\s+/).includes(cls) : false
-}
-
-// Depth-first search for the first element (self included) matching `pred`.
-function findElement(node: ChildNode, pred: (el: Element) => boolean): Element | undefined {
-  if (!isTag(node)) return undefined
-  if (pred(node)) return node
-  for (const c of node.children) {
-    const found = findElement(c, pred)
-    if (found) return found
-  }
-  return undefined
-}
-
-function findElementInList(
-  nodes: ChildNode[],
-  pred: (el: Element) => boolean,
-): Element | undefined {
-  for (const n of nodes) {
-    const found = findElement(n, pred)
-    if (found) return found
-  }
-  return undefined
 }
 
 // Vatican News wraps each <p>'s runs in <br>, <em>, <a> etc. We only need
