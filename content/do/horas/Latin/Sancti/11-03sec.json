@@ -1,0 +1,18 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/11-02",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio 3",
+   "lines": [
+    "!Commemoratio diei infra Octavam Omnium Sanctorum",
+    "@Sancti/11-01:Oratio"
+   ]
+  }
+ ]
+}

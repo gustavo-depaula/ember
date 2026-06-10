@@ -1,0 +1,54 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent20-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent20-0:Lectio7:s/Quare .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent20-0:Lectio7:s/.* Quare /Quare /s s/$/~/",
+    "@Tempora/Pent20-0:Lectio8:s/Minus .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent20-0:Lectio8:s/.* Minus /Minus /s s/$/~/",
+    "@Tempora/Pent20-0:Lectio9:s/Salútem .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pent20-0:Lectio9:s/.* Salútem /Salútem /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Tempora/Pent01-0:Responsory8"
+   ]
+  }
+ ]
+}

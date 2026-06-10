@@ -1,0 +1,72 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/01-12",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "@SanctiM/01-07",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@SanctiM/01-07",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@SanctiM/01-07",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@SanctiM/01-07",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@SanctiM/01-06:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/01-06:Ant 1:s/Magi vidéntes \\* stellam,/Magi \\* vidérunt stellam, et/i s/, allel[úu][ij]a//",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@SanctiM/01-06:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/01-06",
+    "(sed feria 7)",
+    "@Sancti/01-06:Ant 1"
+   ]
+  }
+ ]
+}

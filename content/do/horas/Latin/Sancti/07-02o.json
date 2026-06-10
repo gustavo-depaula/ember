@@ -1,0 +1,139 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/07-02",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    "In Visitatione Beatæ Mariæ Virginis;;Duplex majus;;4;;ex C11",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera",
+   "lines": [
+    "@Sancti/09-08::s/Natívitas/Visitatio/g s/Nativitátem/visitatiónem/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Sancti/09-08::s/nata est/visitávit Elízabeth/ s/Nativitátem/Visitatiónem/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Sancti/09-08::s/Nativitátem/visitatiónem/g",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Sancti/09-08::s/ortum/visitatiónem/ s/mum /mam / s/Nativitátem/visitatiónem/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "Sermo venerabilis Bedæ presbyteri",
+    "!In Luc. Evang. Cap. I",
+    "Accepto virginis consensu, mox angelus cælestia repetit, illa petit montana, festinat invisere Elisabeth, non quasi incredula de oraculo, vel dubia de exemplo, sed ut læta de voto, religiosa pro officio, typicum pariter exemplum tribuens, quod omnis anima, quæ Verbum Dei mente conceperit, virtutum statim celsa cacumina gressu conscendat amoris, quatenus civitatem Juda, id est confessionis, et laudis arcem penetrare, et usque ad perfectionem fidei, spei, et caritatis, quasi tribus in ea mensibus valeat commorari.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@Sancti/09-08::s/nata est/visitávit Elízabeth/ s/Natívitas/Visitatio/g",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "Disce virgo humilitatem Mariæ, ut et corpore casta, et pectore possis esse devota. Visitat junior seniorem, salutat virgo uxorem. Decet enim, ut quo castior virgo, eo sit humilior, et senioribus deferens, habitum castitatis præconio commendet humilitatis. Aliter Maria ad Elisabeth, Dominus venit ad Joánnem, hæc ut Spiritu Sancto repleatur, illius ut baptisma consacretur: majorumque humiliatio minorum est utique exaltatio.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/09-08::s/Nativitátem/visitatiónem/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "Vocem prior Elisabeth audivit, sed Joannes prior gratiam sensit. Illa naturæ ordine audivit, iste exaltavit ratione mysterii. Illa Mariæ, iste Domini sensit adventum. Istæ gratiam loquuntur, illi intus operantur, pietatisque mysterium maternis adoriuntur profectibus, duplicique miraculo prophetant matres spiritu paruulorum. Exultavit infans, et repleta mater est; non prius mater repleta quam filius, sed cum filius esset repletus Spiritu Sancto, replevit et matrem.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/09-08::1-4 s/Natívitas/Visitatio/g",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/07-02::1-4",
+    "@Sancti/07-02:Lectio4:s/Sermo/Homilia/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/07-02:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@Commune/C12:Responsory3:s/commemoratiónem/visitatiónem/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/07-02:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Laudes",
+   "lines": [
+    "@Sancti/09-08:Ant Vespera:s/Natívitas/Visitatio/g s/Nativitátem/visitatiónem/ s/;;.*//g",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@Commune/C11"
+   ]
+  }
+ ]
+}

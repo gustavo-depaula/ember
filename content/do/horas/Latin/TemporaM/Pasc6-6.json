@@ -1,0 +1,162 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc6-6",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Sabbato in Vigilia Pentecostes",
+    "(sed rubrica 1963)",
+    "In Vigilia Pentecostes",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;I classis Semiduplex;;6.9;;ex TemporaM/Pasc5-4",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 1963",
+   "lines": [
+    ";;I classis Semiduplex;;7;;vide TemporaM/Pasc5-4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex TemporaM/Pasc5-4;",
+    "3 Lectiones",
+    "Psalmi Dominica",
+    "(sed rubrica cisterciensis) Psalmi Feria ",
+    "Antiphonas Horas",
+    "Doxology=Asc",
+    "Feria Te Deum",
+    "No suffragium",
+    "No93",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica 196",
+   "lines": [
+    "",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Tempora/Pasc6-0",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Tempora/Pasc5-4::3 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Tempora/Pasc5-4::14-15",
+    "@Tempora/Pasc5-4::6 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Pasc5-4:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Pasc5-4:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Pasc6-0:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "condition": "rubrica tridentina aut rubrica divino",
+   "lines": [
+    "@Tempora/Pasc6-0:Capitulum Sexta",
+    "_",
+    "@Tempora/Pasc5-4:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Laudes",
+   "lines": [
+    "@TemporaM/Pasc6-0",
+    "(sed rubrica 1963)",
+    "@TemporaM/Pasc5-5",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Sexta",
+   "lines": [
+    "@TemporaM/Pasc6-0",
+    "(sed rubrica 1963)",
+    "@TemporaM/Pasc5-5",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "lines": [
+    "@TemporaM/Pasc6-0",
+    "(sed rubrica 1963)",
+    "@TemporaM/Pasc5-5"
+   ]
+  }
+ ]
+}

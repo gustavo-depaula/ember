@@ -1,0 +1,49 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/11-26",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "ex C5b;",
+    "12 lectiones",
+    "In 1 Nocturno lectiones ex Commune in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/11-26:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/11-26:Lectio5:s/Ut autem.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/11-26:Lectio5:s/.*(Ut autem)/$1/s s/$/~/",
+    "@Sancti/11-26:Lectio6:s/Spíritu.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/11-26:Lectio6:s/.*(Spíritu)/$1/s"
+   ]
+  }
+ ]
+}

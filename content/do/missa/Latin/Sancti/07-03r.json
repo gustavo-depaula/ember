@@ -1,0 +1,96 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "S. Irenæi Episcopi et Martyris;;Duplex;;3;;vide C2",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2;",
+    "Gloria",
+    "nocomm1960",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Sancti/06-28",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Sancti/06-28"
+   ]
+  }
+ ]
+}

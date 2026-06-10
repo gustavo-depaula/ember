@@ -1,0 +1,175 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Adv3-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "(rubrica cisterciensis) Psalmi Feria",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio1:s/-6/-3/ s/4 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio1:2-8 s/1-/4-/ s/1 .*4 /4 /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio2:",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Ecce véniet Dóminus princeps regum terræ;",
+    "* Beáti qui paráti sunt occúrrere illi, † habébunt partem in civitáte Jerúsalem.",
+    "V. Veniens veniet Dominus, et non tardabit.",
+    "R. Beáti qui paráti sunt occúrrere illi, † habébunt partem in civitáte Jerúsalem.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio4:s/Quid .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Tempora/Adv3-0:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio4:s/.* Quid /Quid /s s/$/~/",
+    "@Tempora/Adv3-0:Lectio5:s/Sed quia .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Tempora/Adv3-0:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio5:s/.* Sed quia /Sed quia /s s/$/~/",
+    "@Tempora/Adv3-0:Lectio6:s/Quarta .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Tempora/Adv3-0:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio6:s/.* Quarta /Quarta /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. Egrediétur virga de radíce Jesse, et flos de radíce ejus ascendet:",
+    "* Et erit justítia cíngulum lumbórum ejus, † et fides cinctórium renum ejus.",
+    "V. Et requiéscet super eum spíritus Dómini: † spíritus sapiéntiæ, et intelléctus: spíritus consílii, et fortitúdinis.",
+    "R. Et erit justítia cíngulum lumbórum ejus, † et fides cinctórium renum ejus.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio7:s/Cum ergo .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Tempora/Adv3-0:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio7:s/.* Cum ergo /Cum ergo /s s/$/~/",
+    "@Tempora/Adv3-0:Lectio8:s/Requisítus .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Tempora/Adv3-0:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio8:s/.* Requisítus /Requisítus /s s/$/~/",
+    "@Tempora/Adv3-0:Lectio9:s/Ad Zacharíam .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@Tempora/Adv3-0:Responsory9",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio9:s/.* Ad Zacharíam /Ad Zacharíam /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Tempora/Adv1-1:Responsory1"
+   ]
+  }
+ ]
+}

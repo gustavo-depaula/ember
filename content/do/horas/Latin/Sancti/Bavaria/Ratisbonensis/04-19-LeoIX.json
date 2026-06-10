@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/Urbis/04-19-LeoIX",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4b;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Leónis",
+    "(sed communi Summorum Pontificum)",
+    "Leónem",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio94",
+   "lines": [
+    "@Sancti/Urbis/04-19-LeoIX:Lectio4: s/$/~/",
+    "@Sancti/Urbis/04-19-LeoIX:Lectio5: s/$/~/",
+    "@Sancti/Urbis/04-19-LeoIX:Lectio6"
+   ]
+  }
+ ]
+}

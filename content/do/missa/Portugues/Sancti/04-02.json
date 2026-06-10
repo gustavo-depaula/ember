@@ -1,0 +1,43 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "São Francisco de Paula, WyznawcyConfessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 02 IV – São Francisco de Paula, WyznawcyConfessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, grandeza dos humildes, que coroastes com a glória dos vossos Santos o B. Francisco, Confessor, concedei-nos, pelos seus méritos e pela imitação das suas virtudes, Vos suplicamos, a felicidade de conseguirmos as recompensas prometidas aos humildes.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Que estes dons do vosso povo, que depositamos nos vossos altares, se tornem agradáveis a Vós, Senhor, e salutares para nós por intercessão dos méritos do B. Francisco, e por efeito da vossa misericórdia.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Senhor, Vos suplicamos, permiti que os celestiais sacramentos, que acabámos de receber, nos consigam, pela intercessão do B. Francisco, vosso Confessor, auxílios para a vida presente e para a eterna.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

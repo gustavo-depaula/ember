@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/09-12:Lectio4:s/ The .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/09-12:Lectio4:s/.* (?=The)//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/09-12:Lectio8:s/ Even .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/09-12:Lectio8:s/.* (?=Even)//"
+   ]
+  }
+ ]
+}

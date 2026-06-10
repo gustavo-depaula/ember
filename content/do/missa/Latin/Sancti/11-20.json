@@ -1,0 +1,41 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Felicis de Valois Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5-1;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Felícem",
+    "Postcommunio=Felíce",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátum Felícem Confessórem tuum ex erémo ad munus rediméndi captívos cǽlitus vocáre dignátus es: præsta, quǽsumus; ut per grátiam tuam ex peccatórum nostrórum captivitáte, eius intercessióne, liberáti, ad cæléstem pátriam perducámur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

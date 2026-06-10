@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Sts. Peter Nolasco and Raymond of Penafort, Confessors",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/01-28::s/St\\. Peter/Sts. Peter and Raymond/ s/his/their/"
+   ]
+  }
+ ]
+}

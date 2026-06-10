@@ -1,0 +1,38 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Simplicii, Faustini et Beatricis Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C3a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C3a;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Postcommunio=Simplicio, Faustino et Beatrice",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/07-29cc::s/Fel\\w+\\, //"
+   ]
+  }
+ ]
+}

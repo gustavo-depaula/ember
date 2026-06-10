@@ -1,0 +1,47 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/08-24:Lectio4:s/When .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-24:Lectio4:s/.* When /When /s s/$/~/",
+    "@Sancti/08-24:Lectio5:s/This .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-24:Lectio5:s/.* This/This/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/08-24:Lectio7:s/The .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/08-24:Lectio7:s/.* The /The /s s/$/~/",
+    "@Sancti/08-24:Lectio8:s/What doth it not.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/08-24:Lectio8:s/.* What doth it not/What doth it not/s"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/09-15",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica Trident",
+   "lines": [
+    "Septem Dolorum Beatæ Mariæ Virginis;;Duplex majus;;4.1;;ex C11"
+   ]
+  }
+ ]
+}

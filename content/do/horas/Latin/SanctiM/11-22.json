@@ -1,0 +1,179 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/11-22",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6;",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica tridentina aut rubrica divino aut rubrica Barroux",
+   "lines": [
+    "vide C6;",
+    "12 lectiones;",
+    "in 1 Nocturno Lectiones ex Commune in 1 loco",
+    ""
+   ]
+  },
+  {
+   "name": "AntMatutinumM",
+   "lines": [
+    "Cæcília * me misit ad vos, ut ostendátis mihi sanctum Urbánum; quia ad ipsum hábeo secréta, quæ pérferam;;84",
+    "Triduánas * a Dómino popósci indúcias, ut domum meam ecclésiam consecrárem.;;86",
+    "Accínxit * fortitúdine lumbos suos, et roborávit bráchium suum; ideóque lucérna ejus non exstinguétur in sempitérnum.;;98",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum 3N",
+   "lines": [
+    "Virgo gloriósa * semper Evangélium Christi gerébat in péctore suo, et non diébus neque nóctibus, a collóquiis divínis et oratióne cessábat.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Sancti/11-22::1-6",
+    "@:AntMatutinumM:1-2",
+    "@Sancti/11-22::7-9",
+    "@:AntMatutinumM:3",
+    ";;249;250;251",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Dum auróra finem daret, Cæcília dixit:",
+    "* Eja, mílites Christi, abjícite ópera tenebrárum, et induímini arma lucis.",
+    "V. Cæcília valedícens frátribus, et exhórtans eos, dixit.",
+    "R. Eja, mílites Christi, abjícite ópera tenebrárum, et induímini arma lucis.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/11-22:Lectio4:s/ Cui.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/11-22:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/11-22:Lectio4:s/.* Cui/Cui/ s/$/~/",
+    "@Sancti/11-22:Lectio5:s/ Quo.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/11-22:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/11-22:Lectio5:s/.* Quo/Quo/ s/$/~/",
+    "@Sancti/11-22:Lectio6:s/ Quo.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/11-22:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/11-22:Lectio6:s/.* Quo/Quo/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@Commune/C6:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/11-22:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/11-22:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/11-22:Lectio8:s/ Non est.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/11-22:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/11-22:Lectio8:s/.* Non est/Non est/ s/$/~/",
+    "@Sancti/11-22:Lectio9:s/ Tardante.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@Commune/C6:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/11-22:Lectio9:s/.* Tardante/Tardante/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Commune/C6:Responsory3"
+   ]
+  }
+ ]
+}

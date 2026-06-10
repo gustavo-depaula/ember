@@ -1,0 +1,99 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Silvestri Papæ et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4b;",
+    "Gloria",
+    "Credo",
+    "Prefatio=Nat",
+    "Evangelium non appropriatum",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Silvéstri",
+    "(sed rubrica 196)",
+    "Silvéstrum",
+    "Postcommunio=Silvéstro",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4a:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Eccli 44:16",
+    "Ecce sacérdos magnus, qui in diébus suis plácuit Deo.",
+    "!Eccli 44:20",
+    "V. Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja.",
+    "!Ps 88:21",
+    "V. Invéni David servum meum: óleo sancto meo unxi eum. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "@Commune/C4:GradualeP",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C5:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C4b"
+   ]
+  }
+ ]
+}

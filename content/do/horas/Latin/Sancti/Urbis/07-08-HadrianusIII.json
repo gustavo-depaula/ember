@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Hadriani III Papæ et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4b-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4b-1;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Hadriáni",
+    "(sed communi Summorum Pontificum)",
+    "Hadriánum",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Omnípotens mitissime Deus, qui beátum Hadriánum Confessórem tuum apostólica dignitáte sublimásti, quique illi cæléstis regni jánuam misericórditer aperuísti: tríbue, quásumus; ut ejus piis intercessiónibus et præséntis vitæ suffrágia, et térna promia cónsequi mereámur.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Hac múnera nostrae redemptiónis, beati Hadriáni Confessóris tui atque Pontíficis intervéntu deprecámur, omnípotens Deus, cleménter accípias: quátenus per hæc, vitiórum labe depúlsa, sempitérnæ beatitúdinís múnere pérfrui valeámus.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Sacrosancti corporis et sanguinis tui dápibus refécti, miséricors Deus, cleméntiam tuam suppliciter exorámus: ut, mundi hujus erróribus renuntiántes, interveniénte beáto Hadriáno Confessóre tuo atque Pontífice; quæ tibi plácita sunt toto mentis desidério perquirámus, ac, te donánte, opéribus impleámus:",
+    "$Qui vivis"
+   ]
+  }
+ ]
+}

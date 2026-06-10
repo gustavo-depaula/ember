@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Commune plurimarum non Virginum Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C6b::s/Virgens e // s/N\\. e N\\./N. e N./",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C6b::s/Virgens e // s/N\\. e N\\./N. e N./",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C6b::s/Virgens e // s/N\\. e N\\./N. e N./"
+   ]
+  }
+ ]
+}

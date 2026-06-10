@@ -1,0 +1,181 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica 1963",
+   "lines": [
+    "Dominica I post Epiphaniam",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 1963",
+   "lines": [
+    ";;Semiduplex;;5;;vide SanctiM/01-06",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "Doxology=Epi",
+    "Initia cum responsory",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "V. Adoráte Deum.",
+    "R. Omnes Angeli ejus.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum 3N",
+   "lines": [
+    "Allelúja, * allelúja, allelúja.;;263;264;265",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio1:",
+    "@Tempora/Epi1-0a:Lectio2:s/!.*// s/4 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio2:",
+    "@Tempora/Epi1-0a:Lectio3:s/!.*// s/10 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio3:s/-13/-11/ s/12 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio3:s/10-/12-/ s/10.*12/12/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@SanctiM/01-06",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio5:s/Hoc enim .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio5:s/.* Hoc enim /Hoc enim /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@SanctiM/01-06",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio8:s/Alibi .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio8:s/.* Alibi /Alibi /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@SanctiM/01-06",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@SanctiM/01-06",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@:Versum 1"
+   ]
+  }
+ ]
+}

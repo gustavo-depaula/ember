@@ -1,0 +1,75 @@
+{
+ "sections": [
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Osee 2:14",
+    "Ducam eum in solitúdinem: et loquar ad cor eius.",
+    "!Ps 110:1",
+    "V. Beáti immaculáti in via, qui ámbulant in lege Dómini.",
+    "&Gloria",
+    "Ducam eum in solitúdinem: et loquar ad cor eius.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Exáudi, quǽsumus, Dómine, pópulum tuum tota mente tibi subiéctum: et beáti Bogumili Confessóris tui atque Pontíficis supplicatióne custódi; ut, corde et córpore protéctus, quæ pie credit, iusta petíta accípiat.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C5b",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C5b",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C5b",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "!Ps 140:2",
+    "Dirigátur, Dómine, orátio mea, sicut incénsum in conspéctu tuo.",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Súscipe, Dómine, preces et múnera: quæ, ut tuo sint digna conspéctu, sancti Confessóris tui atque Pontíficis Bogumili précibus adiuvémur.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C5-1",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Præsta, quǽsumus, omnípotens Deus, ut, de percéptis munéribus grátias exhibéntes, intercedénte beáto Bogumilo, Confessóre tuo atque Pontífice, benefícia potióra sumámus.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

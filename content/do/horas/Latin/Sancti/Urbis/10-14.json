@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/10-14",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/10-14::s/Sanctórum tuórum/beáti Callísti, Mártyris tui atque Pontíficis,/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "St. Anacletus, Pope and Martyr",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "OPapaM=Anacletus;",
+    "vide C4D;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Anacletus"
+   ]
+  }
+ ]
+}

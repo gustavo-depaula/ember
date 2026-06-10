@@ -17,6 +17,8 @@
     "build:missal": "pnpm --filter @ember/missal-build run cli",
     "build:ef-ranks": "node scripts/build-ef-ranks.mjs",
     "build:mass-fragments": "node scripts/build-mass-fragments.mjs",
+    "import:do": "tsx scripts/import-do.ts",
+    "build:do": "tsx scripts/build-do-content.ts",
     "build:corpus": "node scripts/build-of-calendar.mjs && node scripts/build-mass-fragments.mjs && python3 scripts/build-corpus.py _site/hearth/v2 && node scripts/copy-hearth-aux.mjs",
     "validate-flows": "tsx scripts/validate-flows.ts",
     "hearth:clean": "rm -rf _site/hearth",

@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Quadp3-2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Quadp3-2::s/\\n10 / ¶\\n10 /",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@TemporaM/Quadp3-0:Responsory8"
+   ]
+  }
+ ]
+}

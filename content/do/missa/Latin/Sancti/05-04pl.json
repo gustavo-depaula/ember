@@ -1,0 +1,48 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Floriani Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2bp;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui nos beáti Floriáni Mártyris solemnitáte lætíficas: concéde propítius; ut, cuius gloriósum triúmphum venerámur in terris, societátis eius lætítiam adipísci mereámur in cælis.",
+    "$Per Dominum.",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Hanc oblatiónis hóstiam, quǽsumus, omnípotens Deus, beáti Floriáni Mártyris tui digna comméndet orátio: qui sancto caritátis tuæ devíctus amóre, própriam sui córporis hóstiam in odórem suavitátis tibi óbtulit vivam.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Sancta nos, quǽsumus, Dómine, sacraménti cæléstis participátio: et ab hóstium cállido tueátur incúrsu; et sancto Floriáno intercedénte, nobis remédia salútis cónferat sempitérna.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

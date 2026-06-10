@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Turibius of Mogrovejo, bishop",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex optional;;2;;vide C4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4;"
+   ]
+  }
+ ]
+}

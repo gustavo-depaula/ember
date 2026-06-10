@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "De IV die infra Octavam Concept. Immac. Beatæ Mariæ Virginis;;Semiduplex;;2.19;;vide Sancti/12-08",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide Sancti/12-08;",
+    "Doxology=Nat",
+    "(rubrica cisterciensis) Psalmi Feria",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/12-08::s/;;.*//g"
+   ]
+  }
+ ]
+}

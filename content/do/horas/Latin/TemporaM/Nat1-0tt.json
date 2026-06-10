@@ -1,0 +1,129 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "De Dominica Infra Octavam Nativitatis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;5.9;;ex SanctiM/12-25",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "3 lectiones",
+    "Psalmi Dominica",
+    "Antiphonas horas",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "This file to be used when Dominica transferred to Dec30 (M1617) or 29 (M1930)",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "lines": [
+    "@TemporaM/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Sancti/01-01::7 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "Natus est nobis * hódie Salvátor, qui est Christus Dóminus, in civitáte David.",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Nat1-0:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@SanctiM/12-25:Responsory11",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Nat1-0:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Sancti/12-25:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Nat1-0:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Nat1-0:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@Psalterium/Special/Matutinum Special:MM Capitulum Nat:1-4",
+    "@Sancti/12-25:Versum 2",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@Sancti/12-25:Versum Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@:Versum 1"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Silvestre, Abade",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 26 XI – S. Silvestre, Abade",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C5b:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó clementíssimo Deus, que Vos dignastes chamar à solidão o Santo Abade Silvestre quando meditava piedosamente em um túmulo aberto sobre a vaidade deste mundo, assim como o ornastes com os méritos de uma vida preclara, humildemente Vos suplicamos que, imitando o seu exemplo, desprezemos os bens terrenos, a fim de gozarmos eternamente a vossa companhia.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C5b:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C5b:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C5b:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C5b:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Senhor, Vos suplicamos, permiti que, oferecendo reverentemente à vossa divina majestade estes dons, nos tornemos imitadores do B. Abade Silvestre pela piedosa disposição da alma e pela pureza de coração, a fim de que mereçamos receber santamente o Corpo e o Sangue de vosso Filho.",
+    "$Qui tecum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C5b:Communio",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Havendo comparticipado do divino banquete, concedei-nos, Senhor, Vos suplicamos, que sigamos de tal sorte os passos do Santo Abade Silvestre que tenhamos com vossos Santos copiosa recompensa no reino da vossa glória.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

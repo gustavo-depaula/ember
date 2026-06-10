@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/06-20:Lectio93:s/The woman.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio93",
+   "lines": [
+    "@Sancti/06-20:Lectio93:s/.*The woman/The woman/s"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/08-20:Lectio4:s/ As a monk.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-20:Lectio4:s/.* (?=As a monk)// s/$/~/",
+    "@Sancti/08-20:Lectio5:s/ Being.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-20:Lectio5:s/.* (?=Being)// s/$/~/",
+    "@Sancti/08-20:Lectio6:1 s/ In .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "condition": "nisi rubrica 1617",
+   "lines": [
+    "@Commune/C4a:Ant 1:s/N\\./Bernard/"
+   ]
+  }
+ ]
+}

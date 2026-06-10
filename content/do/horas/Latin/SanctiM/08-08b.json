@@ -1,0 +1,20 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-08r",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio 2",
+   "lines": [
+    "!Commemoratio S. Cyríaci, Mártyris",
+    "@Commune/C2:Oratio proper",
+    "v. Deus, qui nos annua beáti Cyríaci Mártyris tui solemnitáte lætíficas: concede propítius; ut, cujus natalícia colimus, virtútem quoque passiónis imitémur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

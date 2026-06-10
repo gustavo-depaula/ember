@@ -1,0 +1,70 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Cyrilli et Methodii Pont. et Conf.",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Evangelium non appropriatum",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Omnípotens sempitérne Deus, qui Slavóniæ gentes per beátos Confessóris tuos atque Pontífices Cyríllum et Methódium ad agnitiónem tui nóminis veníre tribuísti: præsta; ut, quorum festivitáte (commemoratióne) gloriámur, eórum consórtio copulémur.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/02-06",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C3::s/[\\,\\.]? al.*?$/./i",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Preces nostras, quǽsumus, Dómine, et tuórum réspice oblatiónes fidélium: ut tibi gratæ sint in tuórum festivitáte commemoratione Sanctórum, et nobis conferant tuæ propitiatiónis auxílium.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C3a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Quǽsumus, omnípotens Deus: ut, qui nobis múnera dignáris præbére cœléstia, intercedéntibus sanctis tuis Cyríllo et Methódio, despícere terréna concédas.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

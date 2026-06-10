@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent01-0",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Dominica Sanctissimæ Trinitatis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex I classis;;7"
+   ]
+  }
+ ]
+}

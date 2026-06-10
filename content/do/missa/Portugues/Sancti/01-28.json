@@ -1,0 +1,85 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Petri Nolasci Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 28 I – S. Pedro Nolasco, Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C5-1:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que em prova da vossa caridade quisestes inspirar sobrenaturalmente S. Pedro a fundar na vossa Igreja uma nova família, destinada à redenção dos fiéis cativos, concedei-nos por sua intercessão que, livres nós do cativeiro do pecado, gozemos perpétua liberdade na pátria celestial.",
+    "$Qui vivis",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C5-1:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C5-1:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C5-1:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C5-1:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Vos oferecemos este sacrifício de louvor em memória dos vossos Santos, para que por meio deles nos livremos dos males presentes e futuros.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C5-1:Communio",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Fortalecidos com o alimento e com a bebida celestiais, Vos suplicamos humildemente, ó nosso Deus, que nos protejam as preces daquele em cuja memória os recebermos.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

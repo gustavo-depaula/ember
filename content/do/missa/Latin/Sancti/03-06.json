@@ -1,0 +1,66 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Perpetuæ et Felicitatis Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C7b",
+    "(rubrica innovata)",
+    ";;Duplex;;3.91;;vide C7b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C7b;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Perpétuæ et Felicitátis",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "condition": "rubrica 1960",
+   "lines": [
+    "@Commune/C6-1",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "condition": "rubrica 1960",
+   "lines": [
+    "@Commune/C6-1",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "condition": "rubrica 1960",
+   "lines": [
+    "@Commune/C6-1",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Mýsticis, Dómine, repléti sumus votis et gáudiis: præsta, quǽsumus; ut intercessiónibus sanctárum Mártyrum tuárum Perpétuæ et Felicitátis, quæ temporáliter ágimus, spirituáliter consequámur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

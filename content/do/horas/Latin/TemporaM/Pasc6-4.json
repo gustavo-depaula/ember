@@ -1,0 +1,186 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc6-4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex TemporaM/Pasc5-4;",
+    "12 lectiones",
+    "Psalmi Dominica",
+    "Feria Te Deum",
+    "Antiphonas Horas",
+    "Doxology=Asc",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica 196",
+   "lines": [
+    "",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "rubrica 196",
+   "lines": [
+    "@Tempora/Pasc6-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pasc6-4::1-8 s/-8/-6/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Tempora/Pasc6-3::1-5 s/-5/-3/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio2:1 s/9-14/7-10/",
+    "@Tempora/Pasc6-4:Lectio1:9-10",
+    "@Tempora/Pasc6-4:Lectio2:2-3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Tempora/Pasc6-3:Lectio1:2 s/1-5/4-6a/",
+    "@Tempora/Pasc6-3:Lectio1:6-7",
+    "@Tempora/Pasc6-3:Lectio2:2 s/\\. .*/./",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio2:1 s/9-/11-/",
+    "@Tempora/Pasc6-4:Lectio2:4-7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Tempora/Pasc6-3:Lectio2:1 s/6/6b/",
+    "@Tempora/Pasc6-3:Lectio2:2 s/6 .*?\\./6 /",
+    "@Tempora/Pasc6-3:Lectio2:3-5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Tempora/Pasc6-3:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio4: s/Ascénsio .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio4: s/.* Ascénsio/Ascénsio/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio8: s/Ecce, .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio8: s/.* Ecce,/Ecce,/ s/$/~/",
+    "@Tempora/Pasc6-4:Lectio9: s/Desidéria .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pasc6-4:Lectio9: s/.* Desidéria/Desidéria/",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Laudes",
+   "condition": "rubrica 1963",
+   "lines": [
+    "@TemporaM/Pasc5-5",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Sexta",
+   "condition": "rubrica 1963",
+   "lines": [
+    "@TemporaM/Pasc5-5",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "condition": "rubrica 1963",
+   "lines": [
+    "@TemporaM/Pasc5-5"
+   ]
+  }
+ ]
+}

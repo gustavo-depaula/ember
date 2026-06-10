@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "condition": "rubrica 1963 aut rubrica 1930",
+   "lines": [
+    "Ss. Marcellini et Petri Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 1963 aut rubrica 1930",
+   "lines": [
+    ";;Simplex;;1.1;;vide C3",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "rubrica 1963",
+   "lines": [
+    "@Sancti/06-02::s/, Petri atque Er.smi/ et Petri/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/12-21",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@CommuneCist/C1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@CommuneM/C1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/12-21:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Commune/C1:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Commune/C1:Lectio5:s/Quales .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Commune/C1:Lectio5:s/.* Quales/Quales/ s/$/~/",
+    "Certe iste ipse pastor Ecclésiæ, ad cujus sacratíssimum corpus sedémus, quantæ debilitátis, quantǽque formídinis ante advéntum Spíritus fúerit, ancílla ostiária requisíta dicat. Una enim mulíeris voce percúlsus, dum mori tímuit, vitam negávit.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/12-21:Lectio7:s/Plus .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/12-21:Lectio7:s/.* Plus /Plus /s s/$/~/",
+    "@Sancti/12-21:Lectio8:s/Palpávit .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/12-21:Lectio8:s/.* Palpávit /Palpávit /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/12-21:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@CommuneCist/C1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@CommuneCist/C1"
+   ]
+  }
+ ]
+}

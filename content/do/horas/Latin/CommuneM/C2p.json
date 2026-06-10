@@ -1,0 +1,318 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@CommuneM/C1p",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "@Commune/C2p",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Vespera",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "HymnusM Vespera",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Invit",
+   "lines": [
+    "@Commune/C2p",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Matutinum",
+   "lines": [
+    "@Commune/C2:Hymnus Vespera",
+    ""
+   ]
+  },
+  {
+   "name": "HymnusM Matutinum",
+   "lines": [
+    "@Commune/C2:HymnusM Vespera",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Commune/C1p::1 s/;;18/;;1/",
+    ";;2",
+    ";;4",
+    ";;5",
+    ";;8",
+    ";;10",
+    "@Commune/C1p:Ant Vespera:5 s/\\d+/74/",
+    ";;20",
+    ";;23",
+    ";;63",
+    ";;64",
+    ";;95",
+    "@Commune/C1p::7 s/;;74/;;256;257;258/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "De libro Sapiéntiæ",
+    "!Sap 5:1-4",
+    "1 Stabunt justi in magna constántia advérsus eos qui se angustiavérunt, et qui abstulérunt labóres eórum.",
+    "2 Vidéntes turbabúntur timóre horríbili, et mirabúntur in subitatióne insperátæ salútis:",
+    "3 dicéntes intra se, pœniténtiam agéntes, et præ angústia spíritus geméntes: Hi sunt quos habúimus aliquándo in derísum, et in similitúdinem impropérii.",
+    "4 Nos insensáti, vitam illórum æstimabámus insániam, et finem illórum sine honóre.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "!Sap 5:5-7;14",
+    "5 Ecce quómodo computáti sunt inter fílios Dei, et inter sanctos sors illórum est.",
+    "6 Ergo errávimus a via veritátis, et justítiæ lumen non luxit nobis, et sol intelligéntiæ non est ortus nobis.",
+    "7 Lassáti sumus in via iniquitátis et perditiónis, et ambulávimus vias diffíciles: viam autem Dómini ignorávimus.",
+    "14 Tália dixérunt in inférno hi qui peccavérunt.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "!Sap 5:16-17",
+    "16 Justi autem in perpétuum vivent, et apud Dóminum est merces eórum, et cogitátio illórum apud Altíssimum.",
+    "17 Ideo accípient regnum decóris, et diadéma speciéi de manu Dómini: quóniam déxtera sua teget eos, et bráchio sancto suo deféndet illos.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "!Sap 5:18-21",
+    "18 Accípiet armatúram zelus illíus, et armábit creatúram ad ultiónem inimicórum.",
+    "19 Induet pro thoráce justítiam, et accípiet pro gálea judícium certum:",
+    "20 sumet scutum inexpugnábile æquitátem.",
+    "21 Acuet autem duram iram in lánceam, et pugnábit cum illo orbis terrárum contra insensátos.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@Tempora/Pasc0-2:Responsory2:1-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Commune/C2p:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Commune/C2p:Lectio5:s/Éadem .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Commune/C2p:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Commune/C2p:Lectio5:s/.* Éadem /Éadem /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Commune/C2p:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Commune/C2p:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. Lætábitur justus in Dómino, et sperábit in eo, et laudabúntur",
+    "* Omnes recti corde, allelúja, allelúja.",
+    "V. Lætamini in Dómino et exsultáte, justi, et gloriámini.",
+    "R. Omnes recti corde, allelúja, allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Commune/C2p:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Commune/C2p:Lectio8:s/Sed cum .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Commune/C2p:Lectio8:s/.* Sed cum /Sed cum /s s/$/~/",
+    "@Commune/C2p:Lectio9:s/Numquid .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "R. Fulgébunt justi sicut lílium:",
+    "* Et sicut rosæ in Jéricho florébunt ante Dóminum, allelúja.",
+    "V. Justi autem in perpétuum vivent, et apud Dóminum est merces eórum.",
+    "R. Et sicut rosæ in Jéricho florébunt ante Dóminum, allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Commune/C2p:Lectio9:s/.* Numquid /Numquid /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "R. Gaudéte, justi, in Dómino, allelúja:",
+    "* Rectos decet collaudátio, allelúja, allelúja.",
+    "V. Cantáte ei cánticum novum: bene psállite ei in vociferatióne.",
+    "R. Rectos decet collaudátio, allelúja, allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Laudes",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "HymnusM Laudes",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera 3",
+   "lines": [
+    "@Commune/C1p:Ant Vespera:1 s/$/;;109/",
+    "@Commune/C1p:Ant Vespera:2 s/$/;;111/",
+    "@Commune/C1p:Ant Vespera:3 s/$/;;112/",
+    "@Commune/C1p:Ant Vespera:5 s/$/;;115/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5 in 2 loco",
+   "lines": [
+    "@Commune/C2p:Lectio4 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6 in 2 loco",
+   "lines": [
+    "@Commune/C2p:Lectio5 in 2 loco:s/Inexpugnábilem .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7 in 2 loco",
+   "lines": [
+    "@Commune/C2p:Lectio5 in 2 loco:s/.* Inexpugnábilem /Inexpugnábilem /s s/$/~/",
+    "@Commune/C2p:Lectio6 in 2 loco:s/Pretiósa est .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8 in 2 loco",
+   "lines": [
+    "@Commune/C2p:Lectio6 in 2 loco:s/.* Pretiósa est /Pretiósa est /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9 in 2 loco",
+   "lines": [
+    "@Commune/C2p:Lectio7 in 2 loco:s/Quamvis .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10 in 2 loco",
+   "lines": [
+    "@Commune/C2p:Lectio7 in 2 loco:s/.* Quamvis /Quamvis /s s/$/~/",
+    "@Commune/C2p:Lectio8 in 2 loco:s/Ligna .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11 in 2 loco",
+   "lines": [
+    "@Commune/C2p:Lectio8 in 2 loco:s/.* Ligna /Ligna /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12 in 2 loco",
+   "lines": [
+    "@Commune/C2p:Lectio9 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium in 2 loco",
+   "lines": [
+    "@Commune/C3p:Evangelium"
+   ]
+  }
+ ]
+}

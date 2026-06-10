@@ -1,0 +1,60 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/02-11",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Laudes",
+   "lines": [
+    "@Sancti/02-11::1-25",
+    "@Psalterium/Doxologies:NatT",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@Sancti/12-08:Versum Nona",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "lines": [
+    "@Sancti/02-11:Versum Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory SextaM",
+   "lines": [
+    "@Sancti/02-11:Versum Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory NonaM",
+   "lines": [
+    "@Sancti/02-11:Versum Nona",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Vespera 3",
+   "lines": [
+    "@Sancti/02-11::s/Sit decus/Glória/ s/semper/alme/ s/virtus/semper/ s/ævo/sæcli/",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@:Versum 2"
+   ]
+  }
+ ]
+}

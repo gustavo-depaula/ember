@@ -1,0 +1,32 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Christinæ Virginis et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C6-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6-1;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Christína",
+    "Secreta=Christínæ"
+   ]
+  }
+ ]
+}

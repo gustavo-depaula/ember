@@ -1,0 +1,35 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Sancti/01-04:Lectio4: s/ And here .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Sancti/01-04:Lectio4: s/.*?(And here )/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Sancti/01-04:Lectio9: s/ The star.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Sancti/01-04:Lectio9: s/.* (The star)/$1/s"
+   ]
+  }
+ ]
+}

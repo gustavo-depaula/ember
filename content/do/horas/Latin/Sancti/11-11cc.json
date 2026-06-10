@@ -1,0 +1,45 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Mennæ Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2a-1;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Mennæ",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio93",
+   "lines": [
+    "Mennas Ægýptius, christiánus miles, in persecutióne Diocletiáni et Maximiáni imperatórum, cum pœniténtiæ causa in solitúdinem secessísset, natáli die imperatórum, quo pópulus célebri spectáculo tenebátur, in theátrum prosíliens, líbera voce Gentílium superstitiónem insectabátur. Quam ob rem comprehénsus, et, Pyrrho prǽside, in metrópoli Cottiénsium Phrýgiæ vinctus, loris crudéliter cœditur. Deínde, equúleo tortus, lampádibus ardéntibus ad corpus admótis plagísque cilício confricátis, tum per tríbulos et virgas férreas mánibus ac pédibus colligátis tractus, plumbátis étiam contúsus, demum gládio interfícitur in ignémque conjícitur. Corpus, inde a Christiánis eréptum, sepúltum est ac póstea Constantinópolim translátum."
+   ]
+  }
+ ]
+}

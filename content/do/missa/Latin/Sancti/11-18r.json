@@ -1,0 +1,26 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli;;Duplex maius;;4;;ex C8",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C8;",
+    "Gloria",
+    "CredoDA",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C8"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Agnes Virgin and Martyr, second",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "O God, You Who gladden us each year by the feast of blessed Agnes, Your Virgin and Martyr, grant us, we beseech You, that as we honor her by these sacred rites, we may follow her example of a holy life.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "May a bountiful blessing, O Lord, descend upon these offerings and, through Your mercy, may it help to make us holy and to be joyful on the feast of the Martyrs.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "O Lord, in celebrating this yearly feast, we have partaken of the sacrament. Grant, we beseech You, that it may give us help for life on earth and for life everlasting.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

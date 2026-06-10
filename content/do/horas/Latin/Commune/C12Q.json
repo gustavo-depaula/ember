@@ -1,0 +1,36 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Commune/C12",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Officium Parvum Beatae Mariae Virginis tempore Septuagesimae usque Sabbato Sancto",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Ave only",
+    "Doxology=Nat",
+    "Omit Suffragium",
+    "Special Benedictio",
+    "Votive nocturn",
+    "no Te Deum"
+   ]
+  }
+ ]
+}

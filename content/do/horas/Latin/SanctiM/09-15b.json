@@ -1,0 +1,108 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/09-15",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    "Septem Dolorum Beatæ Mariæ Virginis;;Duplex;;3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Psalmi Dominica",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera",
+   "lines": [
+    "@Sancti/09-15:Responsory Breve Nona",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Vespera",
+   "lines": [
+    "@:Hymnus Laudes",
+    ""
+   ]
+  },
+  {
+   "name": "Doxology",
+   "lines": [
+    "Glória, tibi sit glória,",
+    "Qui passus es pro sérvulis,",
+    "Cum Patre et Sancto Spíritu,",
+    "In sempitérna sǽcula.",
+    "Amen.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Sancti/09-15:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio94",
+   "lines": [
+    "@Tempora/Quad5-5:Lectio4:s/$/~/",
+    "@Tempora/Quad5-5:Lectio6:s/Sed .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@Sancti/09-15:Capitulum Sexta",
+    "_",
+    "@Sancti/09-15:Versum Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Laudes",
+   "lines": [
+    "@Sancti/09-15:Responsory Breve Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Laudes",
+   "lines": [
+    "@Sancti/09-15::s/Tempora.Quad5-5//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "lines": [
+    "@Sancti/09-15:Versum Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory SextaM",
+   "lines": [
+    "@Sancti/09-15:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory NonaM",
+   "lines": [
+    "@Sancti/09-15:Versum Nona"
+   ]
+  }
+ ]
+}

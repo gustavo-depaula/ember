@@ -1,0 +1,76 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "Ss. Protomartyrum Poloniae",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Sancti/06-15",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui primítias fídei apud Polonórum gentem sanctórum Mártyrum tuórum Benedícti, Ioánnis, Matthǽi, Isáaci atque Christíni sánguine consecrásti: concéde propítius; ut ad tui nóminis confessiónem, quorum excitámur exémplis, eórum précibus adiuvémur.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Sancti/06-26",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Sancti/06-26",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C3a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Sancti/06-26",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Hóstias tibi, Dómine, sanctórum Mártyrum tuórum dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C3",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Súmpsimus, Dómine, sanctórum Mártyrum tuórum Benedícti, Ioánnis, Matthǽi, Isáaci atque Christíni solémnia celebrántes, sacraménta cæléstia: præsta, quǽsumus: ut, quod temporáliter gérimus, ætérnis gáudiis consequámur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

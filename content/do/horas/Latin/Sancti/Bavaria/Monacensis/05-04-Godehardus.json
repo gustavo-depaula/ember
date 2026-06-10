@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/Bavaria/Passaviensis/05-04-Godehardus",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C4-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4-1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio94",
+   "lines": [
+    "Godehárdus honéstis natálibus apud inférius Altach oriúndus, adhuc puer ibídem bonis ártibus intrúitur, et adolescéntior factus religiónem sancti patris Benedícti profitétur; póstmodum a sancto Wolfgángo epíscopo Ratisbonénsi sacérdos consecrátur. Cum vero in virtútum stúdio mirabíliter profíceret, ex Abbáte Altachiénsis monastérii epíscopus Hildesheiménsis creátur, ubi multa supra natúram miránda patrávit. Singuláre plane est, quod, cum sacrifícii témpore quosdam e súbditis suis excommunicátos templo exíre jubéret, illi vero contumáces resísterent, in excommunicatióne quidam mórtui surréxerint ex sepúlcris et templum (vivis obsequentióres) egréssi sint. Quibus cum Godehárdus absolutiónem impendísset, cápita sancti Pontífici inclínant et ad sepúlcra rédeunt; unde vivi discant, mandátis sui epíscopi obœdíre. Tandem plenus diérum beáto fine quiévit anno millésimo trigésimo octávo. Multis post mortem miráculis clarum Innocéntius secúndus in Concílio Viennénsi Sanctórum catálogo adnumerávit."
+   ]
+  }
+ ]
+}

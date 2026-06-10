@@ -1,0 +1,101 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Santos Néreo, Aquiles, Domitila e Pancrácio, Mártires",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 12 V – Santos Néreo, Aquiles, Domitila e Pancrácio, Mártires",
+    "! 3 classe",
+    "! Paramentos vermelhos",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Sl 32:18-20",
+    "v. Eis que os olhos do Senhor se dirigem aos que o temem, e esperam na sua misericórdia, aleluia: para livrar as suas almas da morte: porque Ele é o nosso socorro e o nosso protector, aleluia, aleluia.",
+    "!Sl 32:1",
+    "Justos, alegrai-vos no Senhor: aos rectos convém que o louvem.",
+    "&Gloria",
+    "v. Eis que os olhos do Senhor se dirigem aos que o temem, e esperam na sua misericórdia, aleluia: para livrar as suas almas da morte: porque Ele é o nosso socorro e o nosso protector, aleluia, aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Fazei, Senhor, Vos suplicamos, que a feliz solenidade dos vossos Mártires Néreo, Aquiles, Domitila e Pancrácio nos reanime e nos torne dignos de Vos servirmos.",
+    "$Per Dominium",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C2p:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "Aleluia, aleluia.",
+    "V. Esta é a verdadeira fraternidade que venceu os crimes do mundo; eles seguiram ao Cristo e possuem com glória o reino celeste. Aleluia.",
+    "V. A Vós louva o cândido exército dos Mártires, Senhor. Aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Tempora/Pent20-0:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "!Sl 88:6",
+    "Os céus publicarão, Senhor, as vossas maravilhas e se louvará a vossa verdade na assembleia dos Santos, aleluia, aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Dignai-Vos receber, Senhor, com ânimo agradável a confissão dos vossos Santos Mártires Néreo, Aquiles, Domitila e Pancrácio; e que ela Vos disponha a aceitardes as nossas ofertas e elas nos tornem sempre merecedores da vossa indulgência.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Sl 32:1",
+    "Exultai, ó justos, no Senhor, aleluia: aos rectos convém que O louvem.",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Vos pedimos, Senhor, fazei que pelas preces dos vossos Mártires Néreo, Aquiles, Domitila e Pancrácio os sagrados mystérios, que recebemos, Vos tornem cada vez mais propício para connosco.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

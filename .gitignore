@@ -79,3 +79,4 @@ scripts/_cache/
 apps/*/ios/
 apps/*/android/
 apps/*/targets/
+.do-golden-lib/

@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "In Vigilia S. Thomæ Ap.",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Vigilia;;1.5;;ex C1v",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Thomæ",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C1v"
+   ]
+  }
+ ]
+}

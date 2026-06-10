@@ -1,0 +1,69 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. André Avelino, Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 10 XI – S. André Avelino, Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C5:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que, inspirando ao B. André, vosso Confessor, o voto heróico de progredir quotidianamente na virtude, dispusestes a sua alma em admiráveis ascensões na perfeição, concedei-nos pelos seus méritos e intercessão que compartilhemos desta graça, de sorte que, aspirando sempre ao que é mais perfeito, cheguemos com alegria ao cume da vossa glória.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C5:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C5:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C5:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C5:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C5:Communio"
+   ]
+  }
+ ]
+}

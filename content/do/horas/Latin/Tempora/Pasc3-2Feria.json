@@ -1,0 +1,81 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria Tertia infra Hebdomadam III post Octavam Paschæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Una Antiphona",
+    "Feria Te Deum",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "Tristítia implévit * cor vestrum: et gáudium vestrum nemo tollet a vobis, allelúja, allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pasc3-2:Lectio1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Pasc3-2:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pasc3-2:Lectio2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Pasc3-2:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pasc3-2:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Pasc3-0:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "Et coëgérunt illum, * dicéntes: Mane nobíscum, Dómine, quóniam advesperáscit, allelúja."
+   ]
+  }
+ ]
+}

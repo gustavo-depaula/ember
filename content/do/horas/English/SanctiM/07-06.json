@@ -1,0 +1,55 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/07-06:Lectio4:s/ Ye have.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/07-06:Lectio4:s/.* (?=Ye have)//s s/$/~/",
+    "@Sancti/07-06:Lectio5:s/ Blessed.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/07-06:Lectio5:s/.* (?=Blessed)// s/$/~/",
+    "@Sancti/07-06:Lectio6:s/ What place.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/07-06:Lectio6:s/.* (?=What place)//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/07-06:Lectio8:s/ But.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/07-06:Lectio8:s/.* (?=But)// s/$/~/",
+    "@Sancti/07-06:Lectio9:s/ And.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/07-06:Lectio9:s/.* (?=And)//"
+   ]
+  }
+ ]
+}

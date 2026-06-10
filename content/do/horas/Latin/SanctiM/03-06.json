@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/03-06",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "lectio1 tempora",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Commune/C6:Responsory1"
+   ]
+  }
+ ]
+}

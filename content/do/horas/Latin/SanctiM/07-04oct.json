@@ -1,0 +1,91 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/07-04oct",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "3 lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera",
+   "lines": [
+    "@Commune/C1:Responsory Breve Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Commune/C1::3 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Commune/C1::4 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/07-04oct:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/07-04oct:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/07-04oct:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@SanctiM/07-03oct",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Laudes",
+   "lines": [
+    "@Commune/C1:Responsory Breve Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@Commune/C1:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@Sancti/07-03oct:Ant 1"
+   ]
+  }
+ ]
+}

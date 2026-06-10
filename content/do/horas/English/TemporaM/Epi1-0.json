@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio5:s/For this .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio5:s/.* For this /For this /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio8:s/On another .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Epi1-0a:Lectio8:s/.* On another /On another /s"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Hygini Papæ et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b;",
+    "Prefatio=Epi",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Hygíni",
+    "(sed communi Summorum Pontificum)",
+    "Hygínum",
+    "Secreta=Hygíno",
+    "Postcommunio=Hygíno"
+   ]
+  }
+ ]
+}

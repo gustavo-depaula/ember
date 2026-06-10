@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Doze Irmãos Mártires",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Fazei-nos, Senhor, alegrar-nos com a corôa adquirida por estes Irmãos Mártires, a qual obtenha para a nossa fé um acréscimo de força e nos console com a múltipla intercessão dos vossos Santos.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Que os mystérios, Senhor, celebrados devotamente em honra de vossos santos Mártires, nos obtenham maior socorro e alegreia.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Dignai-Vos, ó Deus omnipotente, conceder-nos a graça de, progredindo na fé, imitarmos aqueles cuja memória honramos pela participação deste Sacramento.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

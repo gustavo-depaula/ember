@@ -1,0 +1,80 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Commune/C1p",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Commune Evangelistarum tempore Paschali",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Commune/C1a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Commune/C1a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Commune/C1a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Commune/C1a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Commune/C1a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Commune/C1a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Commune/C1a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Commune/C1a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Commune/C1a"
+   ]
+  }
+ ]
+}

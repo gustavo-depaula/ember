@@ -1,0 +1,87 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Bernardini Senensis Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.2;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C5b",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Dómine Jesu, qui beáto Bernardíno Confessóri tuo exímium sancti nóminis tui amórem tribuísti: ejus, quǽsumus, méritis et intercessióne, spíritum nobis tuæ dilectiónis benígnus infúnde:",
+    "$Qui vivis",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C5",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Ps 91:13; 91:14",
+    "Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini.",
+    "!Ps 91:3",
+    "Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúja, allelúja.",
+    "!Jas 1:1-2",
+    "Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "@Commune/C5",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C5b",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4-1"
+   ]
+  }
+ ]
+}

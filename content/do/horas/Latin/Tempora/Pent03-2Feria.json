@@ -1,0 +1,97 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria tertia infra Hebdomadam III post Octavam Pentecostes",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Oratio Dominica",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pent03-2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1_",
+   "lines": [
+    "R. Dómine, si convérsus fúerit pópulus tuus, et oráverit ad sanctuárium tuum:",
+    "* Tu exáudies de cælo, Dómine, et líbera eos de mánibus inimicórum suórum.",
+    "V. Si peccáverit in te pópulus tuus, et convérsus égerit pœniténtiam, veniénsque oráverit in isto loco.",
+    "R. Tu exáudies de cælo, Dómine, et líbera eos de mánibus inimicórum suórum.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@:Responsory1_",
+    "(sed rubrica cisterciensis)",
+    "@Tempora/Pent03-1Feria:Responsory1_",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pent03-2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "R. Factum est, dum tólleret Dóminus Elíam per túrbinem in cælum,",
+    "* Eliséus clamábat, dicens: Pater mi, pater mi, currus Israël, et auríga ejus.",
+    "V. Cumque pérgerent, et incedéntes sermocinaréntur, ecce currus ígneus et equi ígnei divisérunt utrúmque, et ascéndit Elías per túrbinem in cælum.",
+    "R. Eliséus clamábat, dicens: Pater mi, pater mi, currus Israël, et auríga ejus.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "R. Factum est, dum tólleret Dóminus Elíam per túrbinem in cælum, Eliséus clamábat, dicens: ",
+    "* Pater mi, pater mi, currus Israël, et auríga ejus.",
+    "V. Cumque simul pérgerent, et incedéntes sermocinaréntur, ecce currus ígneus, et equi ígnei divisérunt utrúmque, et clamábat Eliséus:",
+    "R. Pater mi, pater mi, currus Israël, et auríga ejus.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pent03-2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "R. Ego te tuli de domo patris tui, dicit Dóminus, et pósui te páscere gregem pópuli mei:",
+    "* Et fui tecum in ómnibus ubicúmque ambulásti, firmans regnum tuum in ætérnum.",
+    "V. Fecíque tibi nomen grande, juxta nomen magnórum, qui sunt in terra: et réquiem dedi tibi ab ómnibus inimícis tuis.",
+    "R. Et fui tecum in ómnibus ubicúmque ambulásti, firmans regnum tuum in ætérnum.",
+    "&Gloria",
+    "R. Et fui tecum in ómnibus ubicúmque ambulásti, firmans regnum tuum in ætérnum."
+   ]
+  }
+ ]
+}

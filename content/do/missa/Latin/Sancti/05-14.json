@@ -1,0 +1,47 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Bonifatii Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2a;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Bonifátii",
+    "Postcommunio=Bonifátio",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Da, quǽsumus, omnípotens Deus: ut, qui beáti Bonifátii Mártyris tui sollémnia cólimus, ejus apud te intercessiónibus adjuvémur.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C2a-1"
+   ]
+  }
+ ]
+}

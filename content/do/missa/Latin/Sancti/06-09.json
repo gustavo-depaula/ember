@@ -1,0 +1,104 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Primi et Feliciani Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C3a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Evangelium non appropriatum",
+    "vide C3a;",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C3a",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Fac nos, quǽsumus. Dómine, sanctórum Martyrum tuórum Primi et Feliciáni semper festa sectári: quorum suffrágiis protectiónis tuæ dona sentiámus.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C3a",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Ps 88:6; 88:2",
+    "Confitebúntur cœli mirabília tua, Dómine: etenim veritátem tuam in ecclésia sanctórum.",
+    "V. Misericórdias tuas, Dómine, in ætérnum cantábo: in generatióne et progénie. Allelúja, allelúja.",
+    "V. Hæc est vera fratérnitas, quæ vicit mundi crímina: Christum secúta est, ínclita tenens regna cœléstia. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "Allelúja, allelúja.",
+    "V. Hæc est vera fratérnitas, quæ vicit mundi crímina: Christum secúta est, ínclita tenens regna cœléstia. Allelúja.",
+    "V. Te Mártyrum candidátus laudat exércitus, Dómine. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/01-15",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C3",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Fiat tibi, quǽsumus, Dómine, hóstia sacránda placábilis, pretiósi celebritáte martýrii: quæ et peccáta nostra puríficet, et tuórum tibi vota concíliet famulórum.",
+    "$Per Dominum.",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Joannes 15:16",
+    "Ego vos elégi de mundo, ut eátis et fructum afferátis: et fructus vester máneat.",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Quǽsumus, omnípotens Deus: ut sanctórum Mártyrum tuórum Primi et Feliciáni cœléstibus mystériis celebráta sollémnitas, indulgéntiam nobis tuæ propitiatiónis acquírat.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

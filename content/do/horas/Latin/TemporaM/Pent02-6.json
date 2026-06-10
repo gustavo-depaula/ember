@@ -1,0 +1,90 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent02-6",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex TemporaM/Pent02-5;",
+    "3 Lectiones",
+    "Doxology=Heart",
+    "Feria Te Deum",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Tempora/Pent02-5::1 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Tempora/Pent02-5:Nocturn 3 Versum",
+    "@TemporaM/Pent02-5:AntMatutinumM:1 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pent02-6:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Pent02-5:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pent02-6:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Quad6-0:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pent02-6:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@TemporaM/Pent02-5:Responsory11",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@Tempora/Pent02-5:Capitulum Sexta",
+    "_",
+    "@Tempora/Pent02-5:Nocturn 2 Versum"
+   ]
+  }
+ ]
+}

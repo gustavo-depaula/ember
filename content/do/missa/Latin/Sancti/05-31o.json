@@ -1,0 +1,32 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Petronillæ Virginis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C6a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6a-1;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Petroníllæ"
+   ]
+  }
+ ]
+}

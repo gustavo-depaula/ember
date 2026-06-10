@@ -1,0 +1,101 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/12-09bmv",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide Sancti/12-08;",
+    "3 Lectiones",
+    "Doxology=Nat",
+    "No prima Vespera",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Sancti/12-08::1 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Sancti/12-08::2 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/12-09bmv:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Sancti/12-08:Responsory1",
+    "(sed feria 3 aut feria 6)",
+    "@Sancti/12-08:Responsory4",
+    "(sed feria 4 aut feria 7)",
+    "@Sancti/12-08:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/12-09bmv:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Sancti/12-08:Responsory2",
+    "(sed feria 3 aut feria 6)",
+    "@Sancti/12-08:Responsory5",
+    "(sed feria 4 aut feria 7)",
+    "@Sancti/12-08:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/12-09bmv:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Sancti/12-08:Responsory3",
+    "(sed feria 3 aut feria 6)",
+    "@Sancti/12-08:Responsory6",
+    "(sed feria 4 aut feria 7)",
+    "@SanctiM/12-08:Responsory11",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@CommuneM/C10:MM Capitulum:1-3",
+    "_",
+    "@Commune/C6:Versum 2"
+   ]
+  }
+ ]
+}

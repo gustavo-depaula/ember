@@ -1,0 +1,77 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Secunda die infra Octavam Ss. Apostolorum Petri et Pauli",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2;;vide C1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C1;",
+    "9 lectiones",
+    "no prima vespera",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "lines": [
+    "@Commune/C1:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@Sancti/07-03oct",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/07-03oct:Ant 2",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/06-29",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@Commune/C1:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@Sancti/07-03oct",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/07-03oct:Ant 1"
+   ]
+  }
+ ]
+}

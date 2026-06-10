@@ -1,0 +1,18 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria II infra Octavam Ascensionis",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica 196 aut rubrica 1955",
+   "lines": [
+    "Feria II post Ascensionem"
+   ]
+  }
+ ]
+}

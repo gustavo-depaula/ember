@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Eusebius, Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C5:Oratio:s/N\\./Eusebius/"
+   ]
+  }
+ ]
+}

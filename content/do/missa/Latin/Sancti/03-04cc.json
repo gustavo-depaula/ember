@@ -1,0 +1,35 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Lucii I Papæ et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2b-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b-1",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Lúcii",
+    "(sed communi Summorum Pontificum)",
+    "Lúcium",
+    "Secreta=Lúcio",
+    "Postcommunio=Lúcio"
+   ]
+  }
+ ]
+}

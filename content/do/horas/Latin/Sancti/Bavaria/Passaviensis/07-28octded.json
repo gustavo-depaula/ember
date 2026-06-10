@@ -1,0 +1,28 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Secunda die infra Octavam Dedicationis Ecclesiæ Cathedralis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2;;vide C8",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C8;",
+    "No prima vespera",
+    "In 2 Nocturno Lectiones ex C8 in 2 loco",
+    "In 3 Nocturno Lectiones ex C8 in 2 loco",
+    "Suffr=Maria3;Ecclesiæ,Papa;;"
+   ]
+  }
+ ]
+}

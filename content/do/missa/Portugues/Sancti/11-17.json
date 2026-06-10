@@ -1,0 +1,70 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Gregório Taumaturgo, Bispo e Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 17 XI – S. Gregório Taumaturgo, Bispo e Confessor",
+    "! Comemoração",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Gregório",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C4:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C4:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "Continuação ++ do santo Evangelho segundo S. Marcos.",
+    "!Mc 11:22-24",
+    "Naquele tempo, Jesus disse aos seus discípulos: «Tende fé em Deus. Em verdade vos digo que todo aquele que disser a esta montanha «tira-te e lança-te no mar», e disser isto sem hesitar no seu coração e até acreditando que tudo o que disse acontecerá, fique certo de que o verá cumprir-se. Eis porque vos digo: Tudo quanto pedirdes na oração acreditai que o alcançareis e vereis».",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4:Communio"
+   ]
+  }
+ ]
+}

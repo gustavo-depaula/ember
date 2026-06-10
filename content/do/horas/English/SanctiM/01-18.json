@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/01-18:Lectio4:s/At that.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/01-18:Lectio4:s/.*At that/At that/s s/$/~/",
+    "@Sancti/01-18:Lectio5:s/O most.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio94",
+   "lines": [
+    "@Sancti/01-18:Lectio4:s/At that.*//s",
+    "@Sancti/01-18:Lectio5:s/.*(O most.*). The.*/$1. /s",
+    "@Sancti/01-18:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/01-18:Lectio5:s/.*O most/O most/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/01-18:Lectio7:s/Peter had.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/01-18:Lectio7:s/.*Peter had/Peter had/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/01-18:Lectio8:s/God bless.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/01-18:Lectio8:s/.*?God bless/God bless/s"
+   ]
+  }
+ ]
+}

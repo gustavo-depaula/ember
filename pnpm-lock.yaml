@@ -336,6 +336,8 @@ importers:
         specifier: workspace:*
         version: link:../liturgical
 
+  packages/divinum-officium: {}
+
   packages/liturgical: {}
 
   packages/mass:

@@ -1,0 +1,40 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Theclæ Virginis et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C6",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Theclæ",
+    "Postcommunio=Thecla",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Da, quǽsumus, omnípotens Deus: ut, qui beátæ Theclæ Vírginis et Mártyris tuæ natalítia cólimus; et ánnua sollemnitáte lætémur, et tantæ fídei proficiámus exémplo.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

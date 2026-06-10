@@ -1,0 +1,45 @@
+{
+ "sections": [
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/05-03:Lectio6:s/She also.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/05-03:Lectio6:s/.*(She also)/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/05-03:Lectio7:s/And now.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/05-03:Lectio7:s/.* (And now)/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/05-03:Lectio8:s/Now I.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/05-03:Lectio8:s/.*(Now I)/$1/s"
+   ]
+  }
+ ]
+}

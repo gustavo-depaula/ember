@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "St. Callistus, Pope and Martyr",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "O God, Who behold how we fail in our weakness, mercifully restore us to Your love through the examples of Your Saints.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "May this sacrificial offering help to cleanse us of our sins, O Lord, and to assure us of Your everlasting salvation.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "We beseech You, almighty God, that these consecrated gifts may cleanse us of our sins and by their effect make us lead holy lives.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

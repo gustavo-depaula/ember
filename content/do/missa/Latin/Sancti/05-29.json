@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Mariæ Magdalenæ de Pazzis Virginis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.2;;vide C6a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6a;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, virginitátis amátor, qui beátam Maríam Magdalénam Vírginem, tuo amóre succénsam, cœléstibus donis decorásti: da; ut, quam festíva celebritáte venerámur, puritáte et caritáte imitémur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

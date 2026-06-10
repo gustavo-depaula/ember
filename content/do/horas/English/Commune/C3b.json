@@ -1,0 +1,20 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "Common of Martyr Popes",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "v. Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed N. and N. thy Martyrs and Sovereign Pontiffs, whom thou didst constitute Shepherds of the whole Church.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria secunda infra Hebdomadam VI post Octavam Pentecostes",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Oratio Dominica",
+    "Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;"
+   ]
+  }
+ ]
+}

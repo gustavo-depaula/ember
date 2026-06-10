@@ -1,0 +1,107 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Agnetis Virginis et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C6-1",
+    "(sed rubrica 1930)",
+    ";;Duplex majus;;4;;ex C6-1",
+    "(sed rubrica cisterciensis)",
+    ";;Semiduplex;;2.2;;vide C6-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6-1;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C6-1",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Omnípotens sempitérne Deus, qui infírma mundi éligis, ut fórtia quæque confúndas: concéde propítius; ut, qui beátæ Agnétis Vírginis et Mártyris tuæ sollémnia cólimus, ejus apud te patrocínia sentiámus.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C6",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Ps 44:3",
+    "Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum.",
+    "!Ps 44:5",
+    "Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. ",
+    "Allelúja, allelúja.",
+    "!Matt 25:4 25:6",
+    "Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "lines": [
+    "@Commune/C7a",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C6",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C6",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Hóstias, Dómine, quas tibi offérimus, propítius súscipe: et, intercedénte beáta Agnéte Vírgine et Mártyre tua, víncula peccatórum nostrórum absólve.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C6a",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C5"
+   ]
+  }
+ ]
+}

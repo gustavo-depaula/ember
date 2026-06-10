@@ -1,0 +1,90 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/07-07",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    "Ss. Cyrilli et Methodii Pont. et Conf. Europæ Patronum;;Duplex;;5;;vide C3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Psalmi Dominica",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera",
+   "lines": [
+    "@:Ant Laudes:s/$/_/gm s/_/;;109/ s/_/;;111/ s/_/;;112/ s/_/;;131/ s/_//",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Laudes",
+   "lines": [
+    "Sapiéntiam * sanctórum narrent pópuli, et laudes eórum núntiet Ecclésia.",
+    "Dabo sanctis meis * locum nominátum in regno Patris mei, dicit Dóminus.",
+    "Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.",
+    "Sacerdótes Dei, benedícite Dóminum: servi Dómini, hymnum dícite Deo.",
+    "Nomen sempitérnum * dabo sanctis meis, dicit Dóminus: gáudium et lætítiam obtinébunt in ætérnum.",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Laudes",
+   "lines": [
+    "!Sir 44:10-11",
+    "v. Illi viri misericórdiæ sunt, quorum pietátes non defuérunt. Cum sémine eórum pérmanent bona.",
+    "$Deo gratias",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "lines": [
+    "@Commune/C3:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Sexta",
+   "lines": [
+    "!Sir 44:12",
+    "v. Heréditas sancta nepótes eórum, et in testaméntis stetit semen eórum.",
+    "$Deo gratias",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory SextaM",
+   "lines": [
+    "@Commune/C3:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "lines": [
+    "!Sir 49:14",
+    "v. In diébus suis ædificavérunt domum, et exaltavérunt templum sanctum Dómino, parátum in glóriam sempitérnam.",
+    "$Deo gratias",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory NonaM",
+   "lines": [
+    "@Commune/C3:Nocturn 3 Versum"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Petri Alexandrini Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Petri",
+    "Postcommunio=Petro"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. António Maria Claret, Bispo e Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 23 X – S. António Maria Claret, Bispo e Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "António Maria",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C4-1:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que embelezastes o B. António Maria, vosso Confessor e Pontífice, com as virtudes apostólicas, e por ele fundastes na vossa Igreja novas congregações de clérigos e de virgens, concedei-nos, Vos suplicamos, que, esclarecidos com seus salutares conselhos e confortados com seus exemplos, consigamos com felicidade unirmo-nos convosco.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4-1:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C4-1:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4-1:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4-1:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4-1:Communio"
+   ]
+  }
+ ]
+}

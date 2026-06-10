@@ -1,0 +1,65 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Bedæ Venerabilis Confessoris et Ecclesiæ Doctoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5a",
+    "(sed rubrica innovata)",
+    ";;Duplex optional;;2;;vide C5a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5a;",
+    "Gloria",
+    "CredoDA",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Bedæ",
+    "Postcommunio=Beda",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui Ecclésiam tuam beáti Bedæ Confessóris tui atque Doctóris eruditióne claríficas: concéde propítius fámulis tuis; ejus semper ilustrári sapiéntia et méritis adjuvári.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4"
+   ]
+  }
+ ]
+}

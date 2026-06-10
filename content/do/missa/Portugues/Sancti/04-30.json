@@ -1,0 +1,43 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Santa Catarina de Sena, Virgem",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# Santa Catarina de Sena, Virgem",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Permiti, ó Deus omnipotente, Vos rogamos, que, honrando nós o nascimento no céu da B. Catarina, vossa Virgem, nos alegremos nesta solenidade anual e aproveitemos com o exemplo de tão grande virtude.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Deixai subir até Vós, Senhor, as preces que Vos oferecemos na solenidade da B. Catarina, e aceitai também esta salutar hóstia, perfumada com seu virginal odor.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Que este celestial banquete em que nos alimentámos, Senhor, nos comunique a vida eterna, como ele alentou também a vida temporal da B. Virgem Catarina.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

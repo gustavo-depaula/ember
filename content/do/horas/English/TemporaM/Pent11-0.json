@@ -1,0 +1,54 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pent11-0:Lectio4:s/Hezekiah turned .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pent11-0:Lectio4:s/.* Hezekiah turned /Hezekiah turned /s s/$/~/",
+    "@Tempora/Pent11-0:Lectio5:s/He knew .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pent11-0:Lectio5:s/.* He knew /He knew /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Pent11-0:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent11-0:Lectio7:s/For our .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent11-0:Lectio7:s/.* For our /For our /s s/$/~/",
+    "@Tempora/Pent11-0:Lectio8:s/“And .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent11-0:Lectio8:s/.* “And /“And /s"
+   ]
+  }
+ ]
+}

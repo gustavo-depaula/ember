@@ -1,0 +1,32 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S Pachomii Abbatis",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "S. Pachomii, Abbatis (1965)",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C5b",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Pachómii"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/09-30:Lectio4:s/ Then,.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/09-30:Lectio4:s/.* (?=Then)// s/$/~/",
+    "@Sancti/09-30:Lectio5:s/ He was .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/09-30:Lectio5:s/.* (?=He was)//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/09-30:Lectio7:s/ In .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/09-30:Lectio7:s/.* (?=In)//s",
+    "@Sancti/09-30:Lectio8:s/ Here .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/09-30:Lectio8:s/.* (?=Here)// s/$/~/",
+    "@Sancti/09-30:Lectio9:s/ Till .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/09-30:Lectio9:s/.* (?=Till)// s/$/~/",
+    "Quod autem sequitur: Jota unum aut unus apex non praeteribit a lege, donec omnia fiant; ex figura litterae ostenditur,quod etiam quae minima putantur in lege, sacramentis spiritualibus plena sint, et omnia recapitulentur in Evangelio."
+   ]
+  }
+ ]
+}

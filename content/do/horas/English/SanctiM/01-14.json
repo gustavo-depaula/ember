@@ -1,0 +1,40 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/01-14:Lectio4:s/They assailed.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/01-14:Lectio4:s/.*(They assailed)/$1/s s/$/~/",
+    "@Sancti/01-14:Lectio5:s/The Arian.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/01-14:Lectio5:s/.*(The Arian)/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Commune/C4a:Lectio8 in 2 loco:s/$/~/",
+    "@Commune/C4a:Lectio9 in 2 loco:s/He only.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Commune/C4a:Lectio9 in 2 loco:s/.*(He only)/$1/s"
+   ]
+  }
+ ]
+}

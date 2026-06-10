@@ -1,0 +1,69 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@SanctiM/07-11M",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    "Translatio S.P.N. Benedicti Abbatis Europæ Patroni;;I class;;7;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera 1",
+   "lines": [
+    "@SanctiM/03-21:Responsory9",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus1 Vespera",
+   "lines": [
+    "Claris conjúbila Gállia láudibus,",
+    "Lætéris Benedicti patris óssibus:",
+    "Felix, quæ grémio cóndita próprio",
+    "Servas membra celébria.",
+    "_",
+    "Miris Itália fúlserat áctibus;",
+    "Gallos irrádiat córpore mórtuus;",
+    "Signis ad túmulum crébrius émicat,",
+    "Illústrans pátriam novam.",
+    "_",
+    "Hinc vatum véterum facta resúscitat,",
+    "Morti quod líbuit mórtuus ímperat,",
+    "Extínctum própris óssibus éxcitat:",
+    "O quam mira poténtia!",
+    "_",
+    "Jam cælo résidens, o Pater óptime,",
+    "Divínis fámulos ímbue régulis,",
+    "Angústum per iter scándere lárgiens,",
+    "Dona regna perénnia.",
+    "_",
+    "Cunctórum dóminans Omnipoténtia,",
+    "Tu, qui sede poli cónspicis ómnia,",
+    "Psalléntum plácide súscipe cántica,",
+    "Votis, voce precántia.",
+    "Amen.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@SanctiM/03-21::s/festa/Translatiónem/",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@SanctiM/07-11M::s/Solemnitátem/Translatiónem/"
+   ]
+  }
+ ]
+}

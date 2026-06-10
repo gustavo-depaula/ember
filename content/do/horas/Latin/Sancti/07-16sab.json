@@ -1,0 +1,40 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "Sanctæ Mariæ Sabbato;;Feria;;1.4;;ex C10",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Special Benedictio",
+    "Doxology=Nat",
+    "no secunda vesperas",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/07-16",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@Commune/C10:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@Sancti/07-16"
+   ]
+  }
+ ]
+}

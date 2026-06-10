@@ -1,0 +1,65 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/09-12bmv",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Psalmi Dominica",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Commune/C6:Ant Matutinum:5 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@CommuneM/C11:AntMatutinumM:1 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/09-12bmv:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/09-12bmv:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/09-12bmv:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@CommuneM/C10:MM Capitulum:1-3",
+    "_",
+    "@Commune/C6:Versum 2"
+   ]
+  }
+ ]
+}

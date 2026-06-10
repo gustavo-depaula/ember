@@ -1,0 +1,241 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent02-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "ex TemporaM/Pent01-4; ",
+    "Doxology=Corp",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica 196",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera",
+   "condition": "rubrica tridentina aut rubrica divino",
+   "lines": [
+    "@TemporaM/Pent01-4:Ant Vespera 3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera",
+   "lines": [
+    "@Tempora/Pent01-4:Responsory Breve Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio",
+   "condition": "rubrica 196",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "condition": "rubrica tridentina aut rubrica divino",
+   "lines": [
+    "@TemporaM/Pent01-4:Ant Matutinum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pent01-1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pent01-1::s/: porro.*/./s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pent01-1:Lectio2:s/4-8/7-8/ s/4 .*: porro/7 Porro/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Pent01-1:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio5:s/ Quaprópter .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio5:s/.*(Quaprópter)/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio7:s/In illis .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio7:s/.* (In illis)/$1/s s/$/~/",
+    "@Tempora/Pent02-0:Lectio8:s/Proínde .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio8:s/.* (Proínde)/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Tempora/Pent02-0:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Laudes",
+   "lines": [
+    "@Tempora/Pent01-4:Responsory Breve Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera 3",
+   "condition": "rubrica tridentina aut rubrica divino nisi rubrica cisterciensis",
+   "lines": [
+    "@TemporaM/Pent01-4:Ant Vespera"
+   ]
+  }
+ ]
+}

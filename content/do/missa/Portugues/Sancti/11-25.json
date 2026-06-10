@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Santa Catarina, Virgem e Mártir",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 25 XI – Santa Catarina, Virgem e Mártir",
+    "! 3 classe",
+    "! Paramentos vermelhos",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Catarina",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que destes a Lei a Moisés no cimo do monte Sinai e que nesse lugar colocastes miraculosamente pelos vossos Santos Anjos o corpo da B. Catarina, vossa Virgem e Mártir, concedei-nos, Vos rogamos, que pelos seus méritos e intercessão possamos chegar à montanha, que é Cristo:",
+    "$Qui tecum"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/08-15t:Lectio4_:s/This day the Eden.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-15t:Lectio4_:s/.*This day the Eden/This day the Eden/s s/$/~/",
+    "@Sancti/08-15t:Lectio5_:s/ From.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-15t:Lectio5_:s/.*From/From/ s/$/~/",
+    "@Sancti/08-15t:Lectio6_:s/ But this.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/08-15t:Lectio6_:s/.*But this/But this/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/08-15t:Lectio7:s/ Nevertheless.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/08-15t:Lectio7:s/.*Nevertheless/Nevertheless/s s/$/~/",
+    "@Sancti/08-15t:Lectio8:s/ We have heard.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/08-15t:Lectio8:s/.*We have heard/We have heard/"
+   ]
+  }
+ ]
+}

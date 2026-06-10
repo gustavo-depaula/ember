@@ -1,0 +1,60 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "In Vigilia Ss. Simonis et Judæ Ap.",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Vigilia;;1.5;;ex C1v",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C1v;",
+    "Responsory Feria",
+    "Preces feriales",
+    "Versum Feria",
+    "no Te Deum",
+    "Laudes 2",
+    "no Gloria",
+    "Suffragium=Maria3;Papa;Ecclesia;;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Concede, quǽsumus, omnípotens Deus: ut, sicut Apostolórum tuórum Simónis et Judæ gloriósa natalícia prævenimus; sic ad tua benefícia promerenda, majestátem tuam pro nobis ipsi præveniant.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Commune/C2p:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Commune/C2p:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Commune/C2p:Lectio9:s/\\&teDeum//s"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Tertia die infra Octavam Ss. Apostolorum Petri et Pauli",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2;;vide C1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": []
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    "CredoDA",
+    "Prefatio=Apostolis",
+    "Suffr=Maria3;Ecclesiæ,Papa;;",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "In Divino Afflatu, when Pretiossisimi Sanguinis is transferred, in case of the Dies Octava Corp. Christi (e.g. 2038), the proper last gospel from the Octave of the Apostels is said on this day.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/06-29",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "condition": "rubrica divino et feria 5 et tempore Octava Corpus",
+   "lines": [
+    "@Commune/C5b",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Sancti/07-04oct",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Sancti/06-29"
+   ]
+  }
+ ]
+}

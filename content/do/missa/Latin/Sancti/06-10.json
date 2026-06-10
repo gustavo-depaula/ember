@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Margaritæ Reginæ Viduæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.2;;vide C7a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C7a;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátam Margarítam regínam exímia in páuperes caritáte mirábilem effecísti: da; ut, ejus intercessióne et exémplo, tua in córdibus nostris cáritas júgiter augeátur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

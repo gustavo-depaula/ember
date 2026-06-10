@@ -1,0 +1,111 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc5-6",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "@TemporaM/Pasc5-5",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Tempora/Pasc5-4::3 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Tempora/Pasc5-4::4 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pasc5-6:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Pasc5-4:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pasc5-6:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Pasc5-4:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pasc5-6:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@TemporaM/Pasc5-4:Responsory11",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "condition": "rubrica tridentina aut rubrica divino",
+   "lines": [
+    "@Tempora/Pasc5-4:Capitulum Sexta",
+    "_",
+    "@Tempora/Pasc5-4:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Laudes",
+   "condition": "rubrica 1963",
+   "lines": [
+    "@TemporaM/Pasc5-5",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Sexta",
+   "condition": "rubrica 1963",
+   "lines": [
+    "@TemporaM/Pasc5-5",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "condition": "rubrica 1963",
+   "lines": [
+    "@TemporaM/Pasc5-5"
+   ]
+  }
+ ]
+}

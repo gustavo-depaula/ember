@@ -1,0 +1,39 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Commune/C10",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@Sancti/01-01:Ant 3",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/01-01",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Laudes",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Sancti/01-01:Ant Vespera:s/;;.*//g",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@Sancti/01-01:Ant 2"
+   ]
+  }
+ ]
+}

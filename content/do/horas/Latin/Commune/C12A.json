@@ -1,0 +1,347 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Officium parvum Beatae Mariae Virginis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    "Officium Parvum Beatae Mariae Virginis tempore Adventus et in Annuntiationis;;Simplex;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Ave only",
+    "Doxology=Nat",
+    "Omit Suffragium",
+    "Special Benedictio",
+    "Votive nocturn",
+    "no Te Deum",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera",
+   "lines": [
+    "@Sancti/03-25",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Vespera",
+   "lines": [
+    "@:Capitulum Laudes",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "lines": [
+    "@Commune/C6:Versum 2",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@Tempora/Adv1-0:Ant 2",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C12:Oratio 2",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio",
+   "lines": [
+    "!Commemoratio de Sanctis",
+    "Ant. Ecce Dóminus véniet, et omnes Sancti ejus cum eo: et erit in die illa lux magna, allelúja.",
+    "V. Ecce apparébit Dóminus super nubem cándidam.",
+    "R. Et cum eo Sanctórum míllia.",
+    "$Oremus",
+    "v. Consciéntias nostras, quǽsumus, Dómine, visitándo purífica: ut, véniens Jesus Christus, Fílius tuus, Dóminus noster, cum ómnibus Sanctis, parátam sibi in nobis invéniat mansiónem:",
+    "$Qui tecum",
+    "(sed rubrica 1955 aut rubrica 1960 omittitur)",
+    ""
+   ]
+  },
+  {
+   "name": "Invit",
+   "lines": [
+    "@Commune/C12",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum 9",
+   "lines": [
+    "Ángelus Dómini * nuntiávit Maríæ, et concépit de Spíritu Sancto.;;97",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Commune/C11::1-3 s/7/6/",
+    "@:Ant Matutinum 9",
+    ""
+   ]
+  },
+  {
+   "name": "Nocturn 1 Versum",
+   "lines": [
+    "@Commune/C6:Versum 2",
+    ""
+   ]
+  },
+  {
+   "name": "Nocturn 2 Versum",
+   "lines": [
+    "@Commune/C6:Versum 2",
+    ""
+   ]
+  },
+  {
+   "name": "Nocturn 3 Versum",
+   "lines": [
+    "@Commune/C6:Versum 2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "!Luc 1:26-28",
+    "26 Missus est Angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth,",
+    "27 Ad virginem desponsatam viro, cui nomen erat Joseph, de domo David: et nomen virginis Maria.",
+    "28 Et ingressus Angelus ad eam dixit: Ave gratia plena: Dominus tecum: benedicta tu in mulieribus.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Sancti/03-25",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "!Luc 1:29-33",
+    "29 Quae cum audisset, turbata est in sermone ejus, et cogitabat qualis esset ista salutatio.",
+    "30 Et ait Angelus ei: Ne timeas, Maria: invenisti enim gratiam apud Deum:",
+    "31 Ecce concipies in utero, et paries filium, et vocabis nomen ejus Jesum:",
+    "32 Hic erit magnus, et Filius Altissimi vocabitur, et dabit illi Dominus Deus sedem David patris ejus: et regnabit in domo Jacob in aeternum,",
+    "33 Et regni ejus non erit finis.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Sancti/03-25",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "!Luc 1:34-38",
+    "34 Dixit autem Maria ad Angelum: Quomodo fiet istud, quoniam virum non cognosco?",
+    "35 Et respondens Angelus dixit ei: Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi. Ideoque et quod nascetur ex te Sanctum, vocabitur Filius Dei.",
+    "36 Et ecce Elisabeth cognata tua, et ipsa concepit filium in senectute sua: et hic mensis sextus est illi, quae vocatur sterilis:",
+    "37 Quia non erit impossibile apud Deum omne verbum.",
+    "38 Dixit autem Maria: Ecce ancilla Domini: fiat mihi secundum verbum tuum.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Adv1-1:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Minor final",
+   "lines": [
+    "#Oratio",
+    "@Commune/C12:Pre oratio",
+    "@:Oratio",
+    "@Commune/C12:Minor final",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Laudes",
+   "lines": [
+    "@Sancti/03-25:Ant Vespera:s/;;.*//g",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Laudes",
+   "lines": [
+    "@Sancti/03-25:Lectio Prima",
+    "$Deo gratias",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@Commune/C10",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@Tempora/Adv1-0:Ant 2",
+    ""
+   ]
+  },
+  {
+   "name": "Special Prima",
+   "lines": [
+    "@Commune/C12:Minor intro",
+    "@Commune/C12:Hymnus minor",
+    "",
+    "#Psalmi",
+    "@Sancti/03-25:Ant Vespera:1 s/^/Ant. / s/;;.*//",
+    "&psalm(53)",
+    "",
+    "&psalm(84)",
+    "",
+    "&psalm(116)",
+    "_",
+    "@Sancti/03-25:Ant Vespera:1 s/^/Ant. / s/;;.*//",
+    "",
+    "#Capitulum",
+    "@Sancti/03-25:Capitulum Laudes",
+    "_",
+    "@Commune/C11:Versum 1",
+    "@:Minor final",
+    ""
+   ]
+  },
+  {
+   "name": "Special Tertia",
+   "lines": [
+    "@Commune/C12:Minor intro",
+    "@Commune/C12:Hymnus minor",
+    "",
+    "#Psalmi",
+    "@Sancti/03-25:Ant Vespera:2 s/^/Ant. / s/;;.*//",
+    "&psalm(119)",
+    "",
+    "&psalm(120)",
+    "",
+    "&psalm(121)",
+    "_",
+    "@Sancti/03-25:Ant Vespera:2 s/^/Ant. / s/;;.*//",
+    "",
+    "#Capitulum",
+    "@Sancti/03-25:Lectio Prima",
+    "$Deo gratias",
+    "_",
+    "@Commune/C11:Versum 2",
+    "@:Minor final",
+    ""
+   ]
+  },
+  {
+   "name": "Special Sexta",
+   "lines": [
+    "@Commune/C12:Minor intro",
+    "@Commune/C12:Hymnus minor",
+    "",
+    "#Psalmi",
+    "@Sancti/03-25:Ant Vespera:3 s/^/Ant. / s/;;.*//",
+    "&psalm(122)",
+    "",
+    "&psalm(123)",
+    "",
+    "&psalm(124)",
+    "_",
+    "@Sancti/03-25:Ant Vespera:3 s/^/Ant. / s/;;.*//",
+    "",
+    "#Capitulum",
+    "@Sancti/03-25:Capitulum Sexta",
+    "_",
+    "@Commune/C12:Versum 2",
+    "@:Minor final",
+    ""
+   ]
+  },
+  {
+   "name": "Special Nona",
+   "lines": [
+    "@Commune/C12:Minor intro",
+    "@Commune/C12:Hymnus minor",
+    "",
+    "#Psalmi",
+    "@Sancti/03-25:Ant Vespera:5 s/^/Ant. / s/;;.*//",
+    "&psalm(125)",
+    "",
+    "&psalm(126)",
+    "",
+    "&psalm(127)",
+    "_",
+    "@Sancti/03-25:Ant Vespera:5 s/^/Ant. / s/;;.*//",
+    "",
+    "#Capitulum",
+    "@Sancti/03-25:Capitulum Laudes",
+    "_",
+    "@Psalterium/Mariaant:Advent:8-9",
+    "@:Minor final",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@:Ant 1",
+    ""
+   ]
+  },
+  {
+   "name": "Special Completorium",
+   "lines": [
+    "@Commune/C12::s/(#Capitulum Versus).*/$1\\n/s",
+    "@Sancti/03-25:Capitulum Laudes",
+    "_",
+    "@Psalterium/Mariaant:Advent:8-9",
+    "",
+    "#Canticum: Nunc dimittis",
+    "@Tempora/Adv1-0:Ant 2:s/^/Ant. /",
+    "&psalm(233)",
+    "@Tempora/Adv1-0:Ant 2:s/^/Ant. /",
+    "",
+    "#Oratio",
+    "@Commune/C12:Pre oratio",
+    "@:Oratio",
+    "",
+    "@Commune/C12::s/.*(.#Conclusio)/$1/s"
+   ]
+  }
+ ]
+}

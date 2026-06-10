@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-06",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "In Transfiguratione Domini Nostri Jesu Christi, Titulus Archibasilicæ Lateranensis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex I classis cum Octavæ communi;;6.5;;"
+   ]
+  }
+ ]
+}

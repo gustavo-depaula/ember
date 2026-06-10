@@ -1,0 +1,52 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Mennæ Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2a-1;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Mennæ",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C2a"
+   ]
+  }
+ ]
+}

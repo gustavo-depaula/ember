@@ -1,0 +1,226 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/02-02",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "Doxology=Nat",
+    "Festum Domini",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@CommuneCist/C10n",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum 3N",
+   "lines": [
+    "Adórna * thálamum tuum, Sion, et súspice Regem Christum: † quem Virgo post partum, quem génuit, adorávit.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/02-02:Lectio1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/02-02:Lectio2:s/-5/-4/ s/ Omne.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/02-02:Lectio2:2-7 s/1-/4-/ s/1 .*Omne/4 Omne/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/02-02:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Suscépimus Deus misericórdiam tuam in médio templi tui: † secúndum nomen tuum, Deus, sic et laus tua in fines terræ:",
+    "* Justítia plena est déxtera tua.",
+    "V. Lætétur mons Sion, et exsúltent fíliæ Judæ: propter judícia tua, Dómine.",
+    "R. Justítia plena est déxtera tua.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/02-02:Lectio4:s/Tunc .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/02-02:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/02-02:Lectio4:s/.* Tunc /Tunc /s s/$/~/",
+    "@Sancti/02-02:Lectio5:s/Dictum .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/02-02:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/02-02:Lectio5:s/.* Dictum /Dictum /s s/$/~/",
+    "@Sancti/02-02:Lectio6:s/Dénique, .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/02-02:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/02-02:Lectio6:s/.* Dénique, /Dénique, /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. Nunc dimíttis servum tuum, Dómine, secúndum verbum tuum in pace:",
+    "* Quia vidérunt óculi mei salutáre tuum.",
+    "V. Lumen ad revelatiónem Géntium, et glóriam plebis tuæ Israël.",
+    "R. Quia vidérunt óculi mei salutáre tuum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/02-02:Lectio7:s/Virgo .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/02-02:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/02-02:Lectio7:s/.* Virgo /Virgo /s s/$/~/",
+    "@Sancti/02-02:Lectio8:s/Et ipse .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/02-02:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/02-02:Lectio8:s/.* Et ipse /Et ipse /s s/$/~/",
+    "@Sancti/02-02:Lectio9:s/Vides .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "R. Hódie María Virgo púerum offert in templo, † quem Símeon senex accépit in mánibus:",
+    "* Et Anna vídua Christum agnóvit advenísse in terris.",
+    "V. Cum indúcerent púerum Jesum paréntes ejus in templum, † accépit eum Símeon in ulnas suas.",
+    "R. Et Anna vídua Christum agnóvit advenísse in terris.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/02-02:Lectio9:s/.* Vides /Vides /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Sancti/03-25:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Laudes",
+   "lines": [
+    "@CommuneM/C11",
+    "(sed rubrica cisterciensis)",
+    "@CommuneCist/C11",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "lines": [
+    "@Commune/C6:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory SextaM",
+   "lines": [
+    "@Commune/C6:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory NonaM",
+   "lines": [
+    "@Commune/C6:Nocturn 3 Versum",
+    "(sed rubrica cisterciensis)",
+    "@CommuneCist/C6:Nocturn 3 Versum"
+   ]
+  }
+ ]
+}

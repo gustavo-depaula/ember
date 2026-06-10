@@ -1,0 +1,25 @@
+{
+ "sections": [
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/111-0:Lectio5:s/Hence .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/111-0:Lectio5:s/.* Hence /Hence /s s/$/~/",
+    "@Tempora/111-0:Lectio6:s/The words .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/111-0:Lectio6:s/.* The words /The words /s"
+   ]
+  }
+ ]
+}

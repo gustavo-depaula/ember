@@ -1,0 +1,185 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@CommuneM/C5",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "@Commune/C5a",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@Commune/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@Commune/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9 in 2 loco",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10 in 2 loco",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11 in 2 loco",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12 in 2 loco",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9 in 3 loco",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10 in 3 loco",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11 in 3 loco",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12 in 3 loco",
+   "lines": [
+    "@CommuneM/C4a"
+   ]
+  }
+ ]
+}

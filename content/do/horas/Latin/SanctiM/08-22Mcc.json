@@ -1,0 +1,51 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-22cc",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica 1930",
+   "lines": [
+    "Ss. Timothei et Symphoriani Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica 1963",
+   "lines": [
+    "S. Timothei Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 1930",
+   "lines": [
+    ";;Simplex;;1.1;;vide C3a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 1963",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "rubrica 1963",
+   "lines": [
+    "Auxílium tuum nobis, Dómine, quǽsumus, placátus impende: et, intercedéntibus beáto Mártyre tuo Timótheo, déxteram super nos tuæ propitiatiónis exténde.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

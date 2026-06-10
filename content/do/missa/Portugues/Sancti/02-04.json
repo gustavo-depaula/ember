@@ -1,0 +1,76 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Andreae Corsini Episcopi et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 04 II – S. André Corsino, Bispo e Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "André",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C4:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que na vossa Igreja apresentais constantemente novos exemplos de virtudes, concedei ao vosso povo que de tal modo siga os vestígios do B. André, vosso Confessor e Pontífice, que possa alcançar o mesmo prémio.",
+    "$Per Dominum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C4:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4:Communio"
+   ]
+  }
+ ]
+}

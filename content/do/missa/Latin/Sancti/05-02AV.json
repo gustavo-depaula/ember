@@ -1,0 +1,49 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Sigismundi, Martyris et Patroni Regni Bohemiæ (Propria Bohemiæ)",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;MM. min.;;3;;ex C2",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    "CredoDA",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui Beátum Sigismúndum Regem utróque diadémate, temporáli scílicet et ætérno, cum desideráta palma honoráre dignátus es: * et ejus Relíquias ex profúndo gúrgite aquárum ad celebrándum fidélibus revelásti, § tríbue quǽsumus: * ut qui ejus mérita venerámur, § ipsíus intercessiónibus ab ómnibus protegámur advérsis.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Per hæc múnera Dómine, quæ in honórem Sancti tibi humíliter offérimus, nos a peccátis ómnibus dignánter emúnda.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Sacramentórum tuórum Dómine múnera vegetáti, tuam súpplices deprecámur cleméntiam, ut cujus solémnia temporáliter ágimus ejus méritis ad ætérna gáudia perveníre mereámur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

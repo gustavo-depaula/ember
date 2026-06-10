@@ -1,0 +1,46 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/01-05cc",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C2b-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b-1;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "Telesphorus, natióne Græcus, pátria Thuriensis in magna Græcia, ex presbytero Románæ Ecclésiæ (cujus dignum minístrum egerat) Póntifex Máximus creátus est. Hoc suprémum munus ita óbiit, ut exímius Petri successor lectus esse viderétur. In ejus cáthedra sedit sub imperatóre Antoníno Pio, fervente persecutionis æstu. Qui tamen non óbstitit, ne sedulam óperam regendæ Christi Ecclésiæ sollícitus navarit.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "Hinc novis decrétis multa illum egrégie sancivisse legimus, quas ad fidélium mores, Ecclesiasticórum libertatem, et sacros ritus attinent: scílicet quadragesimale jejúnium, jam olim ab Apóstolis traditum,novo edícto restaurasse; ac mandasse ut in Natali Dómini sanctum Missæ sacrificiumter celebraretur, média nocte, illucescénte aurora, hora demum tortia post solis ortum; et constituisse ut sacræ Liturgiæ hymnus angélicus, Glória in excélsis Deo, adderetur.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "Edixisse quoque ne sacerdótes a pópulo arguerentur, ut sublimis órdinis dignitati consuleret. Ordinatióne quadruplici, mense Decémbri, creávit presbyteros duódecim, diáconos octo, epíscopos trédecim per divérsa loca. Cum autem in propagánda fide ardentissimus esset, ac proínde idolórum sacerdótibus invisus, captus tandem cápitis abscissione martyrium consummávit Nonis Januárii, et ejus corpus in Vaticáno sepúltum est."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Sabbato infra Hebdomadam VI post Epiphaniam",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1;;vide Epi6-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide Epi6-0",
+    "Suffragium=Maria2;Papa,Ecclesiæ;;"
+   ]
+  }
+ ]
+}

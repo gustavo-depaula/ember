@@ -1,0 +1,41 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Gregorii Barbadici Episcopi et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Gregórium",
+    "Postcommunio=Gregório",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátum Gregórium Confessórem tuum atque Pontíficem pastoráli sollicitúdine, et páuperum miseratióne claréscere voluísti: concéde propítius; ut, cuius mérita celebrámus, caritátis imitémur exémpla.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

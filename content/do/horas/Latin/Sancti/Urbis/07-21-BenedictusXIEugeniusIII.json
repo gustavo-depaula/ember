@@ -1,0 +1,66 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Bb. Benedicti XI et Eugenii III Pontificum et Confessorum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide aliquibus locis/C4b-3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide aliquibus locis/C4b-3",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Benedícti et Eugénii",
+    "(sed communi Summorum Pontificum)",
+    "Benedíctum et Eugénium",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátum Benedíctum Pontíficem benedictionis tuæ grátia ad cælum sublevasti: pópulum tuum, quǽsumus, nova benedictióne sanctífica; et a cunctis malis imminentibus, ejus méritis et précibus, tua virtúte defende.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/Urbis/07-07-BenedictusXI:: s/$/~/",
+    "@Sancti/Urbis/07-07-BenedictusXI:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/Urbis/07-07-BenedictusXI:Lectio6: s/$/~/",
+    "@Sancti/Urbis/07-08-EugeniusIII:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/Urbis/07-08-EugeniusIII:Lectio5: s/$/~/",
+    "@Sancti/Urbis/07-08-EugeniusIII:Lectio6"
+   ]
+  }
+ ]
+}

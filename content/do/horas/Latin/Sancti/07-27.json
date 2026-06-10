@@ -1,0 +1,39 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Pantaleonis Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2a-1;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Pantaleóne",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio93",
+   "lines": [
+    "Pantáleon Nicomediénsis, nobilis médicus, ab Hermoláo presbytero in Jesu Christi fide eruditus, baptizátus est. Qui mox patri Eustorgio persuasit, ut Christianus fieret. Quare, cum Nicomedíæ póstea Christi Dómini fidem líbere prædicaret, et ad ejus doctrinam omnes cohortarétur, Diocletiáno imperatóre, equuleo tortus, et, admotis ad ejus corpus láminis candéntibus, cruciátus est. Quam tormentórum vim æquo et forti animo ferens, ad extremum gládio percússus, martyrii corónam adeptus est.",
+    "&teDeum"
+   ]
+  }
+ ]
+}

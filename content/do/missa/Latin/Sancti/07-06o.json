@@ -1,0 +1,82 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/07-06",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    "CredoDA",
+    "Prefatio=Apostolis",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C3a",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/07-06",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Sancti/06-26",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Sancti/07-06",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/07-06",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C3a",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Sancti/07-06",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Sancti/07-06",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Sancti/07-06"
+   ]
+  }
+ ]
+}

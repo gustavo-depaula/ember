@@ -1,0 +1,16 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/04-26",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": []
+  }
+ ]
+}

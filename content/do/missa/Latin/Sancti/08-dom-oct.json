@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-16",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Joachim Confessoris, Patris B. M. V.",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex II classis;;5;;ex C5"
+   ]
+  }
+ ]
+}

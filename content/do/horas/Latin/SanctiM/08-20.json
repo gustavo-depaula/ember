@@ -1,0 +1,244 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-20",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "nisi rubrica 1963",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Vespera",
+   "condition": "nisi rubrica 1617",
+   "lines": [
+    "v. Jam Regína discúbuit,",
+    "Sedens post Unigénitum:",
+    "Nardus odórem tríbuit,",
+    "Bernárdus tradens spíritum.",
+    "_",
+    "Dulcis Regínæ gústui",
+    "Fructus sui suávitas:",
+    "Dulcis ejus olfáctui",
+    "Nardi Bernárdi sánctitas.",
+    "_",
+    "Veni sponsa de Líbano,",
+    "Coronánda divínitus,",
+    "Ut Bernárdus de clíbano",
+    "Veníret Sancti Spíritus.",
+    "_",
+    "Quæ est ista progrédiens",
+    "Velut auróra rútilans?",
+    "Quis est iste transíliens",
+    "Colles, sanctis conjúbilans?",
+    "_",
+    "Hæc glória terríbilis,",
+    "Sicut castrórum ácies:",
+    "Hic grátia mirábilis,",
+    "Ut Assuéri fácies.",
+    "_",
+    "Ora pro nobis Dóminum,",
+    "Prædúlcis fumi vírgula:",
+    "Inclína Patrem lúminum,",
+    "Pastor, ardens ut fácula.",
+    "_",
+    "Sit Trinitáti glória,",
+    "Per quam triúmphus Vírginis",
+    "Et Bernárdi felícitas",
+    "Manent in cæli cúria.",
+    "Amen.",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Matutinum",
+   "condition": "nisi rubrica 1617",
+   "lines": [
+    "@:Hymnus Vespera",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "condition": "rubrica 1617",
+   "lines": [
+    "@CommuneM/C5:Lectio1 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "condition": "rubrica 1963",
+   "lines": [
+    "@Commune/C4a:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "condition": "rubrica 1617",
+   "lines": [
+    "@CommuneM/C5:Lectio2 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "condition": "rubrica 1617",
+   "lines": [
+    "@CommuneM/C5:Lectio3 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "condition": "rubrica 1617",
+   "lines": [
+    "@CommuneM/C5:Lectio4 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/08-20:Lectio4:s/ Mónachus.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-20:Lectio4:s/.* (?=Mónachus)// s/$/~/",
+    "@Sancti/08-20:Lectio5:s/ Abbas.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-20:Lectio5:s/.* (?=Abbas)// s/$/~/",
+    "@Sancti/08-20:Lectio6:1 s/ In .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/08-20:Lectio6:s/.* (?=In )//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "condition": "rubrica 1617",
+   "lines": [
+    "@Sancti/08-20:Lectio6:1 s/.* (?=In )// s/~//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "condition": "rubrica 1617",
+   "lines": [
+    "@SanctiM/07-11M::s/, et cétera.*/./",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "condition": "rubrica 1617",
+   "lines": [
+    "@SanctiM/07-11M",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "condition": "rubrica 1617",
+   "lines": [
+    "@SanctiM/07-11M::s/ Et .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "condition": "rubrica 1617",
+   "lines": [
+    "@SanctiM/07-11M:Lectio11:s/.* (?=Et )// s/$/~/",
+    "@SanctiM/07-11M::s/: ejus.*/./",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Laudes",
+   "condition": "nisi rubrica 1617",
+   "lines": [
+    "v. Lacte quondam profluéntes,",
+    "Ite, montes vos procul:",
+    "Ite, colles, fusa quondam",
+    "Unde mellis flúmina;",
+    "Israël, jactáre late",
+    "Manna priscum désine.",
+    "_",
+    "Ecce cujus corde sudant,",
+    "Cujus ore prófluunt",
+    "Dulcióres lacte fontes,",
+    "Mellis amnes ǽmuli:",
+    "Ore tanto, corde tanto",
+    "Manna nullum dúlcius.",
+    "_",
+    "Quæris unde duxit ortum",
+    "Tanta lactis cópia;",
+    "Unde favus, unde prompta",
+    "Tanta mellis s[u]ávitas;",
+    "Unde tantum manna fluxit,",
+    "Unde tot dulcédines.",
+    "_",
+    "Lactis imbres Virgo fudit",
+    "Cǽlitus puérpera:",
+    "Mellis amnes os leónis",
+    "Excitávit mórtui:",
+    "Manna sylvæ, cælitúmque",
+    "Solitúdo próxima.",
+    "_",
+    "Doctor o Bernárde, tantis",
+    "Aucte cæli dótibus,",
+    "Lactis hujus, mellis hujus,",
+    "Funde rores désuper;",
+    "Funde stillas, plenióre",
+    "Jam potítus gúrgite.",
+    "_",
+    "Summa summo laus Parénti,",
+    "Summa laus et Fílio:",
+    "Far tibi sit, sancte, manans",
+    "Ex utróque, Spíritus;",
+    "Ut fuit, nunc et per ævum",
+    "Compar semper glória.",
+    "Amen.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "condition": "rubrica 1930",
+   "lines": [
+    "Bernárdus, * Doctor mellífluus, amícus Sponsi, Vírginis Matris præco miríficus, in clara valle pastor effúlsit claríssimus.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "condition": "nisi rubrica 1617",
+   "lines": [
+    "@Commune/C4a:Ant 1:s/N\\./Bernárde/"
+   ]
+  }
+ ]
+}

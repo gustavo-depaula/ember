@@ -1,0 +1,213 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/12-24",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "9 lectiones",
+    "Psalmi Dominica",
+    "Antiphonas horas",
+    "no93",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica 196",
+   "lines": [
+    "Matins simplex",
+    "Psalmi Dominica",
+    "Antiphonas horas",
+    "Tempora none",
+    "no93",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "condition": "rubrica 196",
+   "lines": [
+    "@Sancti/12-24:Lectio1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "condition": "rubrica 196",
+   "lines": [
+    "@Sancti/12-24:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "condition": "rubrica 196",
+   "lines": [
+    "@Sancti/12-24:Lectio2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "condition": "rubrica 196",
+   "lines": [
+    "@Sancti/12-24:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "condition": "rubrica 196",
+   "lines": [
+    "@Sancti/12-24:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "condition": "rubrica 196",
+   "lines": [
+    "@Sancti/12-24:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/12-24:Lectio1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/12-24:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/12-24:Lectio2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@Sancti/12-24:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/12-24:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/12-24:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@Sancti/12-24:Ant 2"
+   ]
+  }
+ ]
+}

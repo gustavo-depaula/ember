@@ -1,0 +1,57 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Joannis I, Urbani I et Eleutherii Pontificum et Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C3b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C3b;",
+    "9 lectiones",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Joánnis, Urbáni et Eleuthérii",
+    "(sed communi Summorum Pontificum)",
+    "Joánnem, Urbánum et Eleuthérium",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/05-27o:Lectio2: s/$/~/",
+    "@Sancti/05-27o:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti:05-25o:Lectio93",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti:05-26o:Lectio93"
+   ]
+  }
+ ]
+}

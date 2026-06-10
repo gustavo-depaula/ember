@@ -1,0 +1,39 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/09-15t:Lectio4:s/ Thou .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/09-15t:Lectio4:s/.* (?=Thou)//s",
+    "@Sancti/09-15t:Lectio5:s/ Through thee there.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/09-15t:Lectio5:s/.* (?=Through thee there)//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/09-15t:Lectio7:s/ Wonder .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/09-15t:Lectio7:s/.* (?=Wonder)//s"
+   ]
+  }
+ ]
+}
