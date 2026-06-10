@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.06-30.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Otto, Bischof, Glaubensbote"
+  },
+  "description": {
+    "de": "Otto, geboren um 1062, stammte aus dem schwäbischen (oder fränkischen) Adel. Er wurde Hofkaplan und 1101 Kanzler Kaiser Heinrichs IV. 1102 wurde er zum Bischof von Bamberg ernannt. 1106 von Papst Paschalis II. geweiht. Im Streit zwischen Heinrich V. und dem Papst (Investiturstreit) versuchte er zu vermitteln. Von 1124 an übernahm er es, in Pommern zu missionieren; er soll mehr als 20000 Menschen getauft haben. Otto starb 1139 in Bamberg."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, in der Kraft deines Geistes hat der heilige Bischof Otto ungezählte Menschen zum christlichen Glauben geführt und ihnen die Sakramente des Lebens gespendet. Hilf uns, den Glauben dankbar zu bewahren, den auch wir durch deine Vorsehung empfangen haben. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

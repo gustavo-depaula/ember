@@ -1,0 +1,13 @@
+{
+  "id": "sanctorale.movable.05-34.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Montag nach Pfingsten PFINGSTMONTAG"
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false
+}

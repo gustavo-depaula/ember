@@ -1,0 +1,886 @@
+{
+  "id": "sanctorale.08-23",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Rosæ de Lima, virginis",
+    "es": "Santa Rosa de Lima",
+    "en-US": "Saint Rose of Lima, virgin",
+    "pt-BR": "Santa Rosa de Lima, virgem",
+    "it": "SANTA ROSA DA LIMA, vergine",
+    "fr": "Sainte Rose de Lima, vierge",
+    "de": "Hl. Rosa von Lima, Jungfrau"
+  },
+  "description": {
+    "la": "Nata est Limæ in Peruvia anno 1586; iam domi virtutes colere cœpit, sed habitu tertii Ordinis S. Dominici assumpto, maximos progressus fecit in via pænitentiæ et mysticæ contemplationis. Mortua est anno 1617, die 24 augusti.",
+    "es": "Nació en Lima (Perú) el año 1586; cuando vivía en su casa, se dedicó ya a una vida de piedad y de virtud, y, cuando vistió el hábito de la tercera Orden de santo Domingo, hizo grandes progresos en el camino de la penitencia y de la contemplación mística. Murió el día 24 de agosto del año 1617.",
+    "pt-BR": "Isabel (Lima, Peru, 1586 - 24 de agosto de 1617), apelidada de Rosa pela beleza de seu rosto, é a primeira santa do continente americano. Foi modelo de vida penitente e de oração contínua na simplicidade da vida laical. Inscrita na Terceira Ordem Dominicana, manteve sempre extraordinária serenidade em meio às provações dolorosas que acompanharam sua vida, imitando a Cristo pobre e crucificado. Particularmente devota de Nossa Senhora, orou pelo crescimento da Igreja especialmente entre os índios da América.",
+    "it": "Rosa de santa Maria, al secolo Isabella Flores de Oliva (Lima, Perù, 20 aprile 1586 - 24 agosto 1617), battezzata dall’arcivescovo san Turibio de Mogrovejo, fu accolta tra le terziarie domenicane. Visse la quotidiana esperienza della famiglia, prendendosi cura della casa e della nonna malata, aprendo le porte all’accoglienza di bambini abbandonati e anziani soli. Unita nelle sofferenze alla passione di Cristo, poté godere dell’intimità mistica con lui. Fu la prima donna latino-americana a essere proclamata santa (1672).",
+    "fr": "Rose de Lima (1586-1617) est la première sainte du Nouveau Monde. Retirée dans le jardin de ses parents, elle y vécut l’idéal dominicain de contemplation et de rayonnement apostolique. Pour obtenir le salut des Indiens, elle se livrait à des austérités effrayantes, que seule l’intimité avec le Christ lui donnait la force de supporter.",
+    "de": "Sie wurde in Lima (Pers) im Jahr 1586 geboren und lebte seit ihrer Kindheit eine besondere Frömmigkeit und Tugendhaftigkeit. Später wurde sie Dominikaner-Terziarin und machte große Fortschritte auf dem Weg der Vollkommenheit durch Buße und Kontemplation. Sie starb 1617."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui beátam Rosam, tuo amóre succénsam, mundum relínquere et tibi soli in austeritáte pæniténtiæ vacáre fecísti, da nobis, eius intercessióne, ut, vias vitæ sectántes in terris, torrénte deliciárum tuárum perfruámur in cælis. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tú hiciste que santa Rosa de Lima,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "encendida en tu amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "se apartara del mundo y se consagrara solo a ti en la austeridad de la penitencia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por su intercesión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, siguiendo en la tierra los caminos que conducen a la vida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "gocemos en el cielo del torrente de tus delicias."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, you set Saint Rose of Lima on fire with your love, so that, secluded from the world in the austerity of a life of penance,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "she might give herself to you alone;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, we pray, that through her intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may tread the paths of life on earth and drink at the stream of your delights in heaven."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, inspirastes Santa Rosa de Lima,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "inflamada por vosso amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a deixar as coisas do mundo e dedicar-se inteiramente a vós,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "em austera penitência;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos, por sua intercessão,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "seguir na terra os vossos caminhos e saborear no céu as alegrias eternas."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che a santa Rosa [da Lima], ardente del tuo amore, hai ispirato il proposito di rinunciare al mondo per dedicarsi interamente a te in austera penitenza, concedi a noi, per sua intercessione, di seguire in terra la via della vita, per dissetarci in cielo al torrente delle tue delizie. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as inspiré à sainte Rose de Lima,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "brûlant de ton amour,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de quitter le monde pour s’attacher à toi seul dans une austère pénitence ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous, à son intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de choisir sur la terre le chemin de la vie,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour goûter au ciel des joies inépuisables."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Sehnsucht der Menschen, du hast die heilige Rosa von Lima mit solcher Liebe an dich gezogen, dass sie die Welt verließ und in harter Buße für dich allein lebte. Hilf uns auf ihre Fürsprache, unseren Weg durch diese Welt so zu gehen, dass wir dich, den unversiegbaren Quell der Freude, finden. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "2 Cor 10, 17 — 11, 2",
+              "es": "2 Cor 10, 17 - 11, 2",
+              "en-US": "2 Cor 10:17 - 11:2",
+              "pt-BR": "2 Cor 10, 17 - 11, 2",
+              "it": "2 Cor 10, 17-11, 2",
+              "fr": "2 Co 10, 17 — 11, 2",
+              "de": "2 Kor 10, 17 - 11, 2"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Corínthios",
+              "es": "Lectura de la segunda carta del apóstol san Pablo a los Corintios",
+              "en-US": "A reading from the second letter of St. Paul to the Corinthians",
+              "pt-BR": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+              "it": "Dalla seconda lettera di san Paolo apostolo ai Corinzi",
+              "fr": "Deuxième lettre de saint Paul Apôtre aux Corinthiens",
+              "de": "Lesung aus dem zweiten Brief des Apostels Paulus an die Korinther"
+            },
+            "summary": {
+              "la": "Despondi vos uni viro virginem castam exhibere Christo.",
+              "es": "Os he desposado con un solo marido, para presen toros a Cristo como una virgen casta",
+              "pt-BR": "Eu Vos desposarei a um único esposo, apresentando-vos a Cristo como virgem pura.",
+              "it": "Vi ho promessi a un unico sposo, per presentarvi a Cristo come vergine casta."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Qui gloriátur, in Dómino gloriétur; non enim qui seípsum comméndat, ille probátus est, sed quem Dóminus comméndat. Utinam sustinerétis módicum quid insipiéntiæ meæ; sed et supportáte me! Æmulor enim vos Dei æmulatióne; despóndi enim vos uni viro vírginem castam exhibére Christo."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: El que se gloría, que se gloríe en el Señor, porque no está aprobado el que se recomienda a sí mismo, sino aquel a quien el Señor recomienda. ¡Ojalá me toleraseis algo de locura!; aunque ya sé que me la toleráis. Tengo celos de vosotros, los celos de Dios, pues os he desposado con un solo marido, para presentaros a Cristo como una virgen casta."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "“Whoever boasts, should boast in the Lord.” For it is not the one who recommends himself who is approved,* but the one whom the Lord recommends. If only you would put up with a little foolishness from me!* Please put up with me. For I am jealous of you with the jealousy of God, since I betrothed you to one husband to present you as a chaste virgin to Christ."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos: Quem se gloria, glorie-se no Senhor. Pois é aprovado só aquele que o Senhor recomenda e não aquele que se recomenda a si mesmo. Oxalá pudésseis suportar um pouco de insensatez, da minha parte. Na verdade, vós me suportais. Sinto por vós um amor ciumento semelhante ao amor que Deus vos tem. Fui eu que vos desposei a um único esposo, apresentando-vos a Cristo como virgem pura."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, chi si vanta, si vanti nel Signore; infatti non colui che si raccomanda da sé viene approvato, ma colui che il Signore raccomanda. Se soltanto poteste sopportare un po' di follia da parte mia! Ma, certo, voi mi sopportate. Io provo infatti per voi una specie di gelosia divina: vi ho promessi infatti a un unico sposo, per presentarvi a Cristo come vergine casta."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, celui qui veut être fier qu’il mette sa fierté dans le Seigneur. Celui dont on reconnaît la valeur n’est pas celui qui se recommande lui-même, c’est celui que le Seigneur recommande. Pourriez-vous supporter de ma part un peu de folie ? Oui, de ma part, vous allez le supporter, à cause de mon amour jaloux qui est l’amour même de Dieu pour vous. Car je vous ai unis au seul Époux : vous êtes la vierge pure que j’ai présentée au Christ."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Wer sich rühmen will, der rühme sich des Herrn. Denn nicht, wer sich selbst empfiehlt, ist anerkannt, sondern der, den der Herr empfiehlt. Lasst euch doch ein wenig Unverstand von mir gefallen! Aber das tut ihr ja. Denn ich liebe euch mit der Eifersucht Gottes; ich habe euch einem einzigen Mann verlobt, um euch als reine Jungfrau zu Christus zu führen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

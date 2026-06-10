@@ -1,0 +1,31 @@
+{
+  "id": "sanctorale.09-19.uruguay",
+  "kind": "sanctoral",
+  "scope": "uruguay",
+  "structure": "mass",
+  "title": {
+    "es": "Beatas Dolores y Consuelo Aguiar-Mella y Díaz y compañeras, Mártires"
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh Dios, que coronaste con glorioso martirio a las beatas Dolores, Consuelo y compañeras, que vivían entregadas a la educación de las jóvenes; concédenos, por su intercesión, amarte a Ti sobre todas las cosas, y que sepamos servir con humildad a los hermanos. Por nuestro Señor Jesucristo, tu Hijo que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

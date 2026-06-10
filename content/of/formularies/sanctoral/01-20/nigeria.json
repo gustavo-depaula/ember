@@ -1,0 +1,169 @@
+{
+  "id": "sanctorale.01-20.nigeria",
+  "kind": "sanctoral",
+  "scope": "nigeria",
+  "structure": "mass",
+  "title": {
+    "en-US": "Blessed Cyprian Michael Tansi, Priest"
+  },
+  "color": "white",
+  "rank": "feast",
+  "cycleScheme": "fixed",
+  "includeGloria": true,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who joined the apostolic zeal of a pastor"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to the way of life of a monk in Blessed Cyprian Michael;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant us, by his intercession, that persevering in prayer,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may seek untiringly the coming of your kingdom."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Receive, O Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the offerings placed on your altar"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in commemoration of blessed Cyprian Michael,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that as you brought him glory"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "you may, through these sacred mysteries,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant to us your pardon."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May partaking at the heavenly table, almighty God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "confirm and increase strength from on high"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in all who celebrate the feast day of blessed Cyprian Michael,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we may preserve in integrity the gift of faith"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and walk in the path of salvation you trace for us."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord. Amen."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

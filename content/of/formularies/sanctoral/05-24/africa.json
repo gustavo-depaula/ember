@@ -1,0 +1,267 @@
+{
+  "id": "sanctorale.05-24.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "The Blessed Virgin Mary, Help of Christians"
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lord our God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who chose the mother oy your beloved Son"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to be the mother and help of Christians"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that we may live under her protection"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and that your Church may enjoy unbroken peace."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lord, we offer you this sacrifice of praise"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "as we rejoice in this memorial of the mother of your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that through the help of so great a mother"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may find you coming to our rescue in every trial."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.05-24.africa.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The Blessed Virgin Mary as the Mother and Help of Christians."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "You chose the immaculate Virgin Mary, the mother of your Son,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "to be the mother and help of Christians."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that under her protection"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we might be fearless in waging the battle of faith,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "steadfast in holding the teaching of the apostles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and tranquil in spirit in the storms of this world,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "until we reach the joy of heavenly city."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, now and for ages unending,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with all the host of Angels"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing to you with all our hearts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "crying out as we acclaim:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lord God, refreshed by this heavenly Sacrament"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and relying on the help of the Blessed Virgin Mary,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we ask that we may cast aside the old ways of sin"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and put on Jesus Christ, the author of the new creation,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

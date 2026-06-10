@@ -664,96 +664,54 @@ def build_books(b: Builder) -> None:
         b.add_catalog(f"book/{bid}", catalog_entry)
 
 
-def build_masses(b: Builder) -> None:
-    """OF Mass propers — split shape + per-language."""
-    src = CONTENT / "masses" / "of"
+
+def build_of(b: Builder) -> None:
+    """New OF Mass corpus (content/of/): rebuilt missal in the @ember/missal-schema
+    shape. Each item is a single multilingual blob (formularies are small and
+    fetched per-day; the app selects its language client-side).
+
+    Catalog kinds:
+      mass-formulary/<id>   one formulary (propers, readings, prefaces, parts)
+      order-of-mass         the Order of Mass bundle (EPs, blessings, frame)
+      of-calendar/<name>    temporal + sanctoral statics (fetched once, cached)
+    """
+    src = CONTENT / "of"
     if not src.is_dir():
         return
-    for f in sorted(src.rglob("*.json")):
-        rel = f.relative_to(CONTENT / "masses").with_suffix("")
-        item_id = f"mass/{rel.as_posix()}"
-        with f.open(encoding="utf-8") as fh:
-            data = json.load(fh)
-        shape, per_lang = split_languages(data)
-        sh, ss = b.write_json_blob(shape)
-        langs_dict = {}
-        for lang, payload in per_lang.items():
-            lh, lsize = b.write_json_blob(payload)
-            langs_dict[lang] = {"hash": lh, "size": lsize}
 
-        item_manifest = {
-            "id": item_id,
-            "shape": {"hash": sh, "size": ss},
-            "langs": langs_dict,
-        }
-        # Pull out language-independent metadata for catalog hints
-        ih, isize = b.write_json_blob(item_manifest)
-        catalog_entry = {
-            "kind": "mass",
-            "hash": ih,
-            "size": isize,
-            "langs": sorted(langs_dict.keys()),
-        }
-        for k in ("group", "season", "rite", "rank", "liturgicalColor"):
-            if k in data and not isinstance(data[k], dict):
-                catalog_entry[k] = data[k]
-        b.add_catalog(item_id, catalog_entry)
-
-
-def build_of_library(b: Builder) -> None:
-    """OF library files: ordinary, preface, eucharistic-prayer."""
-    src = CONTENT / "of-library"
-    if not src.is_dir():
-        return
-    for kind_dir in sorted(p for p in src.iterdir() if p.is_dir()):
-        kind = kind_dir.name  # ordinary | preface | eucharistic-prayer
-        catalog_kind = f"of-{kind}"
-        for f in sorted(kind_dir.rglob("*.json")):
-            rel = f.relative_to(kind_dir).with_suffix("")
-            item_id = f"of/{kind}/{rel.as_posix()}"
+    fdir = src / "formularies"
+    if fdir.is_dir():
+        for f in sorted(fdir.rglob("*.json")):
             with f.open(encoding="utf-8") as fh:
                 data = json.load(fh)
-            shape, per_lang = split_languages(data)
-            sh, ss = b.write_json_blob(shape)
-            langs_dict = {}
-            for lang, payload in per_lang.items():
-                lh, lsize = b.write_json_blob(payload)
-                langs_dict[lang] = {"hash": lh, "size": lsize}
+            fid = data.get("id")
+            if not fid:
+                continue
+            item_id = f"mass-formulary/{fid}"
+            h, size = b.write_json_blob(data)
+            entry = {"kind": "mass-formulary", "hash": h, "size": size}
+            for k in ("kind", "scope", "structure", "season", "color", "rank"):
+                v = data.get(k)
+                if isinstance(v, str):
+                    # `kind` collides with the catalog key name; expose as massKind.
+                    entry["massKind" if k == "kind" else k] = v
+            b.add_catalog(item_id, entry)
 
-            item_manifest = {
-                "id": item_id,
-                "shape": {"hash": sh, "size": ss},
-                "langs": langs_dict,
-            }
-            ih, isize = b.write_json_blob(item_manifest)
-            b.add_catalog(item_id, {
-                "kind": catalog_kind,
-                "hash": ih,
-                "size": isize,
-                "langs": sorted(langs_dict.keys()),
-            })
-
-
-def build_of_data(b: Builder) -> None:
-    """OF data: calendar, saints, IGMR, sacerdotale.
-
-    These are mostly metadata-heavy. Emit each file as a single multilingual blob.
-    """
-    src = CONTENT / "of-data"
-    if not src.is_dir():
-        return
-    for f in sorted(src.rglob("*.json")):
-        rel = f.relative_to(src).with_suffix("")
-        item_id = f"of-data/{rel.as_posix()}"
-        with f.open(encoding="utf-8") as fh:
+    order_path = src / "order" / "order-of-mass.json"
+    if order_path.is_file():
+        with order_path.open(encoding="utf-8") as fh:
             data = json.load(fh)
         h, size = b.write_json_blob(data)
-        item_manifest = {
-            "id": item_id,
-            "data": {"hash": h, "size": size},
-        }
-        ih, isize = b.write_json_blob(item_manifest)
-        b.add_catalog(item_id, {"kind": "of-data", "hash": ih, "size": isize})
+        b.add_catalog("order-of-mass", {"kind": "order-of-mass", "hash": h, "size": size})
+
+    cal_dir = src / "calendar"
+    if cal_dir.is_dir():
+        for f in sorted(cal_dir.glob("*.json")):
+            name = f.stem  # temporal | sanctoral
+            with f.open(encoding="utf-8") as fh:
+                data = json.load(fh)
+            h, size = b.write_json_blob(data)
+            b.add_catalog(f"of-calendar/{name}", {"kind": "of-calendar", "hash": h, "size": size})
 
 
 def _count_collection_items(blocks: list[dict] | None, depth: int = 0, cid: str = "") -> int:
@@ -1008,12 +966,8 @@ def main(argv: list[str]) -> int:
     build_chapters(b)
     print("[corpus] books...")
     build_books(b)
-    print("[corpus] masses (per-language splitting)...")
-    build_masses(b)
-    print("[corpus] of-library (per-language splitting)...")
-    build_of_library(b)
-    print("[corpus] of-data...")
-    build_of_data(b)
+    print("[corpus] of (rebuilt missal corpus)...")
+    build_of(b)
     print("[corpus] collections...")
     build_collections(b)
     print("[corpus] plan-of-life templates...")

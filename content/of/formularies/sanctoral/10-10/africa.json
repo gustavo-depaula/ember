@@ -1,0 +1,181 @@
+{
+  "id": "sanctorale.10-10.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Daniel Comboni, Bishop"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, Father of all nations,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who spread your Chgurch among the peoples of Africa"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "through the apostolic zeal of Saint Daniel, your bishop;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant we beseech you, through his intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that she may grow in faith and holiness,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and be increasingly enriched with new children,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to the glory of your Name."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lord, may these gifts we offer you"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in memory of Saint Daniel"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "be aceptable to you;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "given life by the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may they be a source of redemption and of peace."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lord, may the holy mysteries we have received"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "bring us the wisdom of the Cross"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "which gave strength to the life of Saint Daniel,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that we may work generously within the Church"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "for the life of the world."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

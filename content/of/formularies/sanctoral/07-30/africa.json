@@ -1,0 +1,79 @@
+{
+  "id": "sanctorale.07-30.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Justin De Jacobis, Bishop"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Father of mercy, who gave your saint, Bishop Justin,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the grace to become all things to all people,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in order to preach the good news of the Kingdom,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may his intercession help us to preach the Gospel"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and to bring all peoples to the unity of one faith"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "through our fraternal service."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2231 @@
+{
+  "id": "tempore.ordinary-time.week-22.friday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Feria VI hebd. XXII",
+    "es": "Viernes 22ª semana",
+    "en-US": "Friday of the Xxii Week in Ordinary Time",
+    "pt-BR": "Sexta-feira da Xxii Semana do Tempo Comum",
+    "it": "VENERDI della XXII settimana del Tempo Ordinario",
+    "fr": "Vendredi de la 22e semaine",
+    "de": "22. Woche im Jahreskreis FREITAG"
+  },
+  "season": "ordinary-time",
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "weekday",
+  "includeGloria": false,
+  "inheritsOrationsFrom": "tempore.ordinary-time.week-22.sunday",
+  "readings": {
+    "I": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Col 1, 15-20",
+              "es": "Col 1, 15-20",
+              "en-US": "Col 1:15-20",
+              "pt-BR": "Cl 1, 15-20",
+              "it": "Col 1,15-20",
+              "fr": "Col 1, 15-20",
+              "de": "Kol 1, 15-20"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Colossénses",
+              "es": "Lectura de la carta del apóstol san Pablo a los Colosenses",
+              "en-US": "A reading from the Letter of Saint Paul to the Colossians",
+              "pt-BR": "Leitura da Carta de São Paulo aos Colossenses",
+              "it": "Dalla lettera di san Paolo apostolo ai Colossési",
+              "fr": "Lettre de saint Paul Apôtre aux Colossiens",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Kolosser"
+            },
+            "summary": {
+              "la": "Omnia per ipsum et in ipsum creata sunt",
+              "es": "Todo fue creado por él y para él",
+              "pt-BR": "Tudo foi criado por meio dele e para ele.",
+              "it": "Tutte le cose sono state create per mezzo di lui e in vista di lui."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Christus Iesus est imágo Dei invisíbilis, primogénitus omnis creatúræ, quia in ipso cóndita sunt univérsa in cælis et in terra, visibília et invisibília, sive throni sive dominatiónes sive principátus sive potestátes. Omnia per ipsum et in ipsum creáta sunt, et ipse est ante ómnia, et ómnia in ipso constant. Et ipse est caput córporis Ecclésiæ; qui est princípium, primogénitus ex mórtuis, ut sit in ómnibus ipse primátum tenens, quia in ipso complácuit omnem plenitúdinem habitáre et per eum reconciliáre ómnia in ipsum, pacíficans per sánguinem crucis eius, sive quæ in terris sive quæ in cælis sunt."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cristo Jesús es imagen del Dios invisible, primogénito de toda criatura; porque en él fueron creadas todas las cosas: celestes y terrestres, visibles e invisibles. Tronos y Dominaciones, Principados y Potestades; todo fue creado por él y para él. Él es anterior a todo, y todo se mantiene en él. Él es también la cabeza del cuerpo: de la Iglesia. Él es el principio, el primogénito de entre los muertos, y así es el primero en todo. Porque en él quiso Dios que residiera toda la plenitud. Y por él y para él quiso reconciliar todas las cosas, las del cielo y las de la tierra, haciendo la paz por la sangre de su cruz."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Christ Jesus is the image of the unseen God and the first-born of all creation, for in him were created all things in heaven and on earth: everything visible and everything invisible, Thrones, Dominations, Sovereignties, Powers - all things were created through him and for him. Before anything was created, he existed, and he holds all things in unity. Now the Church is his body, he is its head. As he is the Beginning, he was first to be born from the dead, so that he should be first in every way; because God wanted all perfection to be found in him and all things to be reconciled through him and for him, everything in heaven and everything on earth, when he made peace by his death on the cross."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cristo Jesus é a imagem do Deus invisível, o primogênito de toda a criação, pois por causa dele foram criadas todas as coisas no céu e na terra, as visíveis e as invisíveis, tronos e dominações, soberanias e poderes. Tudo foi criado por meio dele e para ele. Ele existe antes de todas as coisas e todas têm nele a sua consistência. Ele é a Cabeça do corpo, isto é, da Igreja. Ele é o princípio, o Primogênito dentre os mortos; de sorte que em tudo ele tem a primazia, porque Deus quis habitar nele com toda a sua plenitude e por ele reconciliar consigo todos os seres, os que estão na terra e no céu, realizando a paz pelo sangue da sua cruz."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cristo Gesù è immagine del Dio invisibile, primogenito di tutta la creazione, perché in lui furono create tutte le cose nei cieli e sulla terra, quelle visibili e quelle invisibili: Troni, Dominazioni, Principati e Potenze. Tutte le cose sono state create per mezzo di lui e in vista di lui. Egli è prima di tutte le cose e tutte in lui sussistono. Egli è anche il capo del corpo, della Chiesa. Egli è principio, primogenito di quelli che risorgono dai morti, perché sia lui ad avere il primato su tutte le cose. È piaciuto infatti a Dio che abiti in lui tutta la pienezza e che per mezzo di lui e in vista di lui siano riconciliate tutte le cose, avendo pacificato con il sangue della sua croce sia le cose che stanno sulla terra, sia quelle che stanno nei cieli."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Christ est l’image du Dieu invisible, le premier-né, avant toute créature : en lui, tout fut créé, dans le ciel et sur la terre. Les êtres visibles et invisibles, Puissances, Principautés, Souverainetés, Dominations, tout est créé par lui et pour lui. Il est avant toute chose, et tout subsiste en lui. Il est aussi la tête du corps, la tête de l’Église : c’est lui le commencement, le premier-né d’entre les morts, afin qu’il ait en tout la primauté. Car Dieu a jugé bon qu’habite en lui toute plénitude et que tout, par le Christ, lui soit enfin réconcilié, faisant la paix par le sang de sa Croix, la paix pour tous les êtres sur la terre et dans le ciel."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Christus ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene der ganzen Schöpfung. Denn in ihm wurde alles erschaffen im Himmel und auf Erden, das Sichtbare und das Unsichtbare, Throne und Herrschaften, Mächte und Gewalten; alles ist durch ihn und auf ihn hin geschaffen. Er ist vor aller Schöpfung, in ihm hat alles Bestand. Er ist das Haupt des Leibes, der Leib aber ist die Kirche. Er ist der Ursprung, der Erstgeborene der Toten; so hat er in allem den Vorrang. Denn Gott wollte mit seiner ganzen Fülle in ihm wohnen, um durch ihn alles zu versöhnen. Alles im Himmel und auf Erden wollte er zu Christus führen, der Friede gestiftet hat am Kreuz durch sein Blut."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 99, 2. 3. 4. 5",
+              "es": "Sal 99, 2. 3. 4. 5",
+              "en-US": "Ps 99:2, 3, 4, 5",
+              "pt-BR": "Sl 99, 2. 3. 4. 5",
+              "it": "Sal 99, 2. 3. 4. 5",
+              "fr": "Ps 99, 2. 3. 4. 5",
+              "de": "Ps 100"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Introíte in conspéctu Dómini in exsultatióne."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Entrad en la presencia del Señor con vítores."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Come with joy into the presence of the Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Com canto apresentai-vos diante do Senhor!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Presentatevi al Signore con esultanza."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Allez vers le Seigneur parmi les chants d’allégresse."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Jauchzt vor dem Herrn, alle Länder der Erde!"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Iubiláte Dómino, omnis terra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "servíte Dómino in lætítia;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "introíte in conspéctu eius in exsultatióne."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Scitóte quóniam Dóminus ipse est Deus;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ipse fecit nos, et ipsíus sumus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "pópulus eius et oves páscuæ eius."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Introíte portas eius in confessióne,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "átria eius in hymnis,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "confitémini illi, benedícite nómini eius."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quóniam suávis est Dóminus;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in ætérnum misericórdia eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et usque in generatiónem et generatiónem véritas eius."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Aclama al Señor, tierra entera,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "servid al Señor con alegría,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "entrad en su presencia con vítores."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sabed que el Señor es Dios:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que él nos hizo y somos suyos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "su pueblo y ovejas de su rebaño."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Entrad por sus puertas con acción de gracias,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "por sus atrios con himnos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dándole gracias y bendiciendo su nombre."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es bueno,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "su misericordia es eterna,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "su fidelidad por todas las edades."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cry out with joy to the Lord, all the earth. Serve the Lord with gladness."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Come before him, singing for joy."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Know that he, the Lord, is God. He made us, we belong to him, we are his people, the sheep of his flock."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Go within his gates, giving thanks. Enter his courts with songs of praise."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Give thanks to him and bless his name."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Indeed, how good is the Lord, eternal his merciful love. He is faithful from age to age."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Aclamai o Senhor, ó terra inteira,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "servi ao Senhor com alegria,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ide a ele cantando jubilosos!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sabei que o Senhor, só ele, é Deus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ele mesmo nos fez, e somos seus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nós somos seu povo e seu rebanho."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Entrai por suas portas dando graças,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e em seus átrios com hinos de louvor;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dai-lhe graças, seu nome bendizei!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sim, é bom o Senhor e nosso Deus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sua bondade perdura para sempre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "seu amor é fiel eternamente!"
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Acclamate il Signore, voi tutti della terra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "servite il Signore nella gioia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "presentatevi a lui con esultanza."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Riconoscete che solo il Signore è Dio:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "egli ci ha fatti e noi siamo suoi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "suo popolo e gregge del suo pascolo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Varcate le sue porte con inni di grazie,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "i suoi atri con canti di lode,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lodatelo, benedite il suo nome."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Buono è il Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il suo amore è per sempre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la sua fedeltà di generazione in generazione."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Acclamez le Seigneur, terre entière,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "servez le Seigneur dans l’allégresse,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "venez à lui avec des chants de joie !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Reconnaissez que le Seigneur est Dieu :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il nous a faits, et nous sommes à lui,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nous, son peuple, son troupeau."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Venez dans sa maison lui rendre grâce,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dans sa demeure chanter ses louanges ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "rendez-lui grâce et bénissez son nom !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Oui, le Seigneur est bon,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "éternel est son amour,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sa fidélité demeure d’âge en âge."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dient dem Herrn mit Freude!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Kommt vor sein Antlitz mit Jubel!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Erkennt: Der Herr allein ist Gott."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er hat uns geschaffen, wir sind sein Eigentum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sein Volk und die Herde seiner Weide."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tretet mit Dank durch seine Tore ein!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Kommt mit Lobgesang in die Vorhöfe seines Tempels!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dankt ihm, preist seinen Namen!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denn der Herr ist gütig,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ewig währt seine Huld,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "von Geschlecht zu Geschlecht seine Treue."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ego sum lux mundi, dicit Dóminus; qui séquitur me habébit lucem vitæ."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Yo soy la luz del mundo —dice el Señor—; el que me sigue tendrá la luz de la vida."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "I am the light of the world, says the Lord; the man who follows me will have the light of life."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Eu sou a luz do mundo, aquele que me segue, não caminha entre as trevas, mas terá a luz da vida."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Io sono la luce del mondo, dice il Signore; chi segue me avrà la luce della vita."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Moi, je suis la lumière du monde, dit le Seigneur. Celui qui me suit aura la lumière de la vie."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "(So spricht der Herr:) Ich bin das Licht der Welt. Wer mir nachfolgt, hat das Licht des Lebens."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Io 8, 12",
+              "es": "Jn 8, 12",
+              "pt-BR": "Jo 8, 12",
+              "it": "Gv 8,12",
+              "fr": "Io 8, 12",
+              "de": "vgl. Joh 8, 12"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 5, 33-39",
+              "es": "Lc 5, 33-39",
+              "en-US": "Lk 5:33-39",
+              "pt-BR": "Lc 5, 33-39",
+              "it": "Lc 5, 33-39",
+              "fr": "Lc 5, 33-39",
+              "de": "Lk 5, 33-39"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Cum ablatus fuerit ab illis sponsus, tunc ieiunabunt",
+              "es": "Les arrebatarán al esposo, entonces ayunarán",
+              "pt-BR": "Mas dias virão em que o noivo será tirado do meio deles. Então, naqueles dias, eles jejuarão.",
+              "it": "Quando lo sposo sarà loro tolto, allora in quei giorni digiuneranno."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dixérunt ad Iesum pharisǽi et scribæ: «Discípuli Ioánnis ieiúnant frequénter et obsecratiónes fáciunt, simíliter et pharisæórum; tui autem edunt et bibunt». Quibus Iesus ait: «Numquid potéstis convívas nuptiárum, dum cum illis est sponsus, fácere ieiunáre? Vénient autem dies; et cum ablátus fúerit ab illis sponsus, tunc ieiunábunt in illis diébus». Dicébat autem et similitúdinem ad illos: «Nemo abscíndit commissúram a vestiménto novo et immíttit in vestiméntum vetus; alióquin et novum rumpet, et véteri non convéniet commissúra a novo. Et nemo mittit vinum novum in utres véteres; alióquin rumpet vinum novum utres et ipsum effundétur, et utres períbunt; sed vinum novum in utres novos mitténdum est. Et nemo bibens vetus vult novum; dicit enim: «Vetus mélius est!»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, los fariseos y los escribas dijeron a Jesús: «Los discípulos de Juan ayunan a menudo y oran, y los de los fariseos también; en cambio, los tuyos, a comer y a beber». Jesús les dijo: «¿Acaso podéis hacer ayunar a los invitados a la boda mientras el esposo está con ellos? Llegarán días en que les arrebatarán al esposo, entonces ayunarán en aquellos días». Les dijo también una parábola: «Nadie recorta una pieza de un manto nuevo para ponérsela a un manto viejo; porque, si lo hace, el nuevo se rompe y al viejo no le cuadra la pieza del nuevo. Nadie echa vino nuevo en odres viejos: porque, si lo hace, el vino nuevo reventará los odres y se derramará, y los odres se estropearán. A vino nuevo, odres nuevos. Nadie que cate vino añejo quiere del nuevo, pues dirá: “El añejo es mejor”»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The Pharisees and the Scribes said to Jesus, 'John's disciples are always fasting and saying prayers, and the disciples of the Pharisees too, but yours go on eating and drinking'. Jesus replied, 'Surely you cannot make the bridegroom's attendants fast while the bridegroom is still with them? But the time will come, the time for the bridegroom to be taken away from them; that will be the time when they will fast.' He also told them this parable, 'No one tears a piece from a new cloak to put it on an old cloak; if he does, not only will he have torn the new one, but the piece taken from the new will not match the old. 'And nobody puts new wine into old skins; if he does, the new wine will burst the skins and then run out, and the skins will be lost. No; new wine must be put into fresh skins. And nobody who has been drinking old wine wants new. \"The old is good\" he says.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, os fariseus e os mestres da Lei disseram a Jesus: \"Os discípulos de João, e também os discípulos dos fariseus, jejuam com frequência e fazem orações. Mas os teus discípulos comem e bebem\". Jesus, porém, lhes disse: \"Os convidados de um casamento podem fazer jejum enquanto o noivo está com eles? Dias virão em que o noivo será tirado do meio deles. Então, naqueles dias, eles jejuarão\". Jesus contou-lhes ainda uma parábola: \"Ninguém tira retalho de roupa nova para fazer remendo em roupa velha; senão vai rasgar a roupa nova, e o retalho novo não combinará com a roupa velha. Ninguém põe vinho novo em odres velhos; porque, senão, o vinho novo arrebenta os odres velhos e se derrama; e os odres se perdem. Vinho novo deve ser colocado em odres novos. E ninguém, depois de beber vinho velho, deseja vinho novo; porque diz: o velho é melhor\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, i farisei e i loro scribi dissero a Gesù: «I discepoli di Giovanni digiunano spesso e fanno preghiere, così pure i discepoli dei farisei; i tuoi invece mangiano e bevono!». Gesù rispose loro: «Potete forse far digiunare gli invitati a nozze quando lo sposo è con loro? Ma verranno giorni quando lo sposo sarà loro tolto: allora in quei giorni digiuneranno». Diceva loro anche una parabola: «Nessuno strappa un pezzo da un vestito nuovo per metterlo su un vestito vecchio; altrimenti il nuovo lo strappa e al vecchio non si adatta il pezzo preso dal nuovo. E nessuno versa vino nuovo in otri vecchi; altrimenti il vino nuovo spaccherà gli otri, si spanderà e gli otri andranno perduti. Il vino nuovo bisogna versarlo in otri nuovi. Nessuno poi che beve il vino vecchio desidera il nuovo, perché dice: “Il vecchio è gradevole!”»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, les pharisiens et les scribes dirent à Jésus : « Les disciples de Jean le Baptiste jeûnent souvent et font des prières ; de même ceux des pharisiens. Au contraire, les tiens mangent et boivent ! » Jésus leur dit : « Pouvez-vous faire jeûner les invités de la noce, pendant que l’Époux est avec eux ? Mais des jours viendront où l’Époux leur sera enlevé ; alors, en ces jours-là, ils jeûneront. » Il leur dit aussi en parabole : « Personne ne déchire un morceau à un vêtement neuf pour le coudre sur un vieux vêtement. Autrement, on aura déchiré le neuf, et le morceau qui vient du neuf ne s’accordera pas avec le vieux. Et personne ne met du vin nouveau dans de vieilles outres ; autrement, le vin nouveau fera éclater les outres, il se répandra et les outres seront perdues. Mais on doit mettre le vin nouveau dans des outres neuves. Jamais celui qui a bu du vin vieux ne désire du nouveau. Car il dit : »C’est le vieux qui est bon.« »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sagten die Pharisäer und ihre Schriftgelehrten zu Jesus: Die Jünger des Johannes fasten und beten viel, ebenso die Jünger der Pharisäer; deine Jünger aber essen und trinken. Jesus erwiderte ihnen: Könnt ihr denn die Hochzeitsgäste fasten lassen, solange der Bräutigam bei ihnen ist? Es werden aber Tage kommen, da wird ihnen der Bräutigam genommen sein; in jenen Tagen werden sie fasten. Und er erzählte ihnen auch noch ein Gleichnis: Niemand schneidet ein Stück von einem neuen Kleid ab und setzt es auf ein altes Kleid; denn das neue Kleid wäre zerschnitten, und zu dem alten Kleid würde das Stück von dem neuen nicht passen. Auch füllt niemand neuen Wein in alte Schläuche. Denn der neue Wein zerreißt die Schläuche; er läuft aus, und die Schläuche sind unbrauchbar. Neuen Wein muss man in neue Schläuche füllen. Und niemand, der alten Wein getrunken hat, will neuen; denn er sagt: Der alte Wein ist besser."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    },
+    "II": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primera Lectura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "1 Cor 4, 1-5",
+              "es": "1 Cor 4, 1-5",
+              "en-US": "1 Cor 4:1-5",
+              "pt-BR": "1 Cor 4, 1-5",
+              "it": "1 Cor 4,1-5",
+              "fr": "1 Co 4, 1-5",
+              "de": "1 Kor 4, 1-5"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios",
+              "es": "Lectura de la primera carta del apóstol san Pablo a los Corintios",
+              "en-US": "A reading from the first Letter of Saint Paul to the Corinthians",
+              "pt-BR": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+              "it": "Dalla prima lettera di san Paolo apostolo ai Corinzi",
+              "fr": "Première lettre de saint Paul Apôtre aux Corinthiens",
+              "de": "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+            },
+            "summary": {
+              "la": "Manifestabit Dóminus consilia cordium",
+              "es": "El Señor pondrá al descubierto los designios del corazón",
+              "pt-BR": "O Senhor manifestará os projetos dos corações.",
+              "it": "Il Signore manifesterà le intenzioni dei cuori."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Sic nos exístimet homo ut minístros Christi et dispensatóres mysteriórum Dei. Hic iam quǽritur inter dispensatóres, ut fidélis quis inveniátur. Mihi autem pro mínimo est, ut a vobis iúdicer aut ab humáno die. Sed neque meípsum iúdico; nihil enim mihi cónscius sum, sed non in hoc iustificátus sum. Qui autem iúdicat me, Dóminus est! Itaque nolíte ante témpus quidquam iudicáre, quoadúsque véniat Dóminus, qui et illuminábit abscóndita tenebrárum et manifestábit consília córdium; et tunc laus erit unicuíque a Deo."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Que la gente solo vea en nosotros servidores de Cristo y administradores de los misterios de Dios. Ahora, lo que se busca en los administradores es que sean fieles. Para mí lo de menos es que me pidáis cuentas vosotros o un tribunal humano; ni siquiera yo me pido cuentas. La conciencia, es verdad, no me remuerde; pero tampoco por eso quedo absuelto: mi juez es el Señor. Así, pues, no juzguéis antes de tiempo, dejad que venga el Señor. Él iluminará lo que esconden las tinieblas y pondrá al descubierto los designios del corazón; entonces cada uno recibirá de Dios lo que merece."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "People must think of us as Christ's servants, stewards entrusted with the mysteries of God. What is expected of stewards is that each one should be found worthy of his trust. Not that it makes the slightest difference to me whether you, or indeed any human tribunal, find me worthy or not. I will not even pass judgment on myself. True, my conscience does not reproach me at all, but that does not prove that I am acquitted: the Lord alone is my judge. There must be no passing of premature judgment. Leave that until the Lord comes; he will light up all that is hidden in the dark and reveal the secret intentions of men's hearts. Then will be the time for each one to have whatever praise he deserves, from God."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos, que todo o mundo nos considere como servidores de Cristo e administradores dos mistérios de Deus. A este respeito, o que se exige dos administradores é que sejam fiéis. Quanto a mim, pouco me importa ser julgado por vós ou por algum tribunal humano. Nem eu me julgo a mim mesmo. É verdade que a minha consciência não me acusa de nada. Mas não é por isso que eu posso ser considerado justo. Quem me julga é o Senhor. Portanto, não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, ognuno ci consideri come servi di Cristo e amministratori dei misteri di Dio. Ora, ciò che si richiede agli amministratori è che ognuno risulti fedele. A me però importa assai poco di venire giudicato da voi o da un tribunale umano; anzi, io non giudico neppure me stesso, perché, anche se non sono consapevole di alcuna colpa, non per questo sono giustificato. Il mio giudice è il Signore! Non vogliate perciò giudicare nulla prima del tempo, fino a quando il Signore verrà. Egli metterà in luce i segreti delle tenebre e manifesterà le intenzioni dei cuori; allora ciascuno riceverà da Dio la lode."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, que l’on nous regarde donc comme des auxiliaires du Christ et des intendants des mystères de Dieu. Or, tout ce que l’on demande aux intendants, c’est d’être trouvés dignes de confiance. Pour ma part, je me soucie fort peu d’être soumis à votre jugement, ou à celui d’une autorité humaine ; d’ailleurs, je ne me juge même pas moi-même. Ma conscience ne me reproche rien, mais ce n’est pas pour cela que je suis juste : celui qui me soumet au jugement, c’est le Seigneur. Ainsi, ne portez pas de jugement prématuré, mais attendez la venue du Seigneur, car il mettra en lumière ce qui est caché dans les ténèbres, et il rendra manifestes les intentions des cœurs. Alors, la louange qui revient à chacun lui sera donnée par Dieu."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Als Diener Christi soll man uns betrachten und als Verwalter von Geheimnissen Gottes. Von Verwaltern aber verlangt man, dass sie sich treu erweisen. Mir macht es allerdings nichts aus, wenn ihr oder ein menschliches Gericht mich zur Verantwortung zieht; ich urteile auch nicht über mich selbst. Ich bin mir zwar keiner Schuld bewusst, doch bin ich dadurch noch nicht gerecht gesprochen; der Herr ist es, der mich zur Rechenschaft zieht. Richtet also nicht vor der Zeit; wartet, bis der Herr kommt, der das im Dunkeln Verborgene ans Licht bringen und die Absichten der Herzen aufdecken wird. Dann wird jeder sein Lob von Gott erhalten."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 36, 3-4. 5-6. 27-28. 39-40",
+              "es": "Sal 36, 3-4. 5-6. 27-28. 39-40",
+              "en-US": "Ps 36:3-4, 5-6, 27-28, 39-40",
+              "pt-BR": "Sl 36, 3-4. 5-6. 27-28. 39-40",
+              "it": "Sal 36, 3-4. 5-6. 27-28. 39-40",
+              "fr": "Ps 36, 3-4. 5-6. 27-28. 39-40",
+              "de": "Ps 37"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Salus iustórum a Dómino est."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "El Señor es quien salva a los justos."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "The salvation of the just comes from the Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "A salvação de quem é justo vem de Deus."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "La salvezza dei giusti viene dal Signore."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Le salut des justes vient du Seigneur."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Die Rettung der Gerechten kommt vom Herrn."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Spera in Dómino et fac bonitátem,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et inhabitábis terram et pascéris in fide."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Delectáre in Dómino,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et dabit tibi petitiónes cordis tui."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Commítte Dómino viam tuam et spera in eo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et ipse fáciet;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et edúcet quasi lumen iustítiam tuam,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et iudícium tuum tamquam merídiem."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Declína a malo et fac bonum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et inhabitábis in sǽculum sǽculi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quia Dóminus amat iudícium,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et non derelínquet sanctos suos."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Iniústi in ætérnum disperíbunt,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et semen impiórum exterminábitur."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Salus autem iustórum a Dómino,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et protéctor eórum in témpore tribulatiónis."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Et adiuvábit eos Dóminus et liberábit eos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et éruet eos a peccatóribus et salvábit eos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quia speravérunt in eo."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Confía en el Señor y haz el bien:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "habitarás tu tierra y reposarás en ella en fidelidad;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sea el Señor tu delicia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y él te dará lo que pide tu corazón."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Encomienda tu camino al Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "confía en él, y él actuará:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hará tu justicia como el amanecer,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tu derecho como el mediodía."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Apártate del mal y haz el bien,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y siempre tendrás una casa;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque el Señor ama la justicia y no abandona a sus fieles."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Los inicuos son exterminados,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la estirpe de los malvados se extinguirá."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es quien salva a los justos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "él es su alcázar en el peligro;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "el Señor los protege y los libra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "los libra de los malvados y los salva porque se acogen a él."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "If you trust in the Lord and do good, then you will live in the land and be secure. If you find your delight in the Lord, he will grant your heart's desire."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Commit your life to the Lord, trust in him and he will act, so that your justice breaks forth like the light, your cause like the noon-day sun."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Then turn away from evil and do good and you shall have a home for ever; for the Lord loves justice and will never forsake his friends. The unjust shall be wiped out for ever and the children of the wicked destroyed."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The salvation of the just comes from the Lord their stronghold in time of distress. The Lord helps them and delivers them and saves them: for their refuge is in him."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Confia no Senhor e faze o bem,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e sobre a terra habitarás em segurança."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Coloca no Senhor tua alegria,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e ele dará o que pedir teu coração."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deixa aos cuidados do Senhor o teu destino;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "confia nele, e com certeza ele agirá."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fará brilhar tua inocência como a luz,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e o teu direito,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "como o sol do meio-dia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Afasta-te do mal e faze o bem,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e terás tua morada para sempre."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Porque o Senhor Deus ama a justiça,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e jamais ele abandona os seus amigos."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "A salvação dos piedosos vem de Deus;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ele os protege nos momentos de aflição."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Senhor lhes dá ajuda e os liberta,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "defende-os e protege-os contra os ímpios,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e os guarda porque nele confiaram."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Confida nel Signore e fa' il bene:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "abiterai la terra e vi pascolerai con sicurezza."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cerca la gioia nel Signore:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "esaudirà i desideri del tuo cuore."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Affida al Signore la tua via,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "confida in lui ed egli agirà:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "farà brillare come luce la tua giustizia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il tuo diritto come il mezzogiorno."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sta' lontano dal male e fa' il bene e avrai sempre una casa."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Perché il Signore ama il diritto e non abbandona i suoi fedeli."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "La salvezza dei giusti viene dal Signore:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nel tempo dell’angoscia è loro fortezza."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore li aiuta e li libera,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "li libera dai malvagi e li salva,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "perché in lui si sono rifugiati."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fais confiance au Seigneur, agis bien,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "habite la terre et reste fidèle ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mets ta joie dans le Seigneur :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il comblera les désirs de ton cœur."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dirige ton chemin vers le Seigneur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "fais-lui confiance, et lui, il agira."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il fera lever comme le jour ta justice,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et ton droit comme le plein midi."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Évite le mal,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "fais ce qui est bien,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et tu auras une habitation pour toujours,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "car le Seigneur aime le bon droit,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il n’abandonne pas ses amis."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur est le salut pour les justes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "leur abri au temps de la détresse."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur les aide et les délivre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "car ils cherchent en lui leur refuge."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vertrau auf den Herrn und tu das Gute,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "bleib wohnen im Land und bewahre Treue!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Freu dich innig am Herrn!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dann gibt er dir, was dein Herz begehrt."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr kennt die Tage der Bewährten,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihr Erbe hat ewig Bestand."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "In bösen Zeiten werden sie nicht zuschanden,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sie werden satt in den Tagen des Hungers."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Meide das Böse und tu das Gute,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "so bleibst du wohnen für immer."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denn der Herr liebt das Recht und verlässt seine Frommen nicht."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Die Rettung der Gerechten kommt vom Herrn,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er ist ihre Zuflucht in Zeiten der Not."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr hilft ihnen und rettet sie,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er rettet sie vor den Frevlern."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ego sum lux mundi, dicit Dóminus; qui séquitur me habébit lucem vitæ."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Yo soy la luz del mundo —dice el Señor—; el que me sigue tendrá la luz de la vida."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "I am the light of the world, says the Lord; the man who follows me will have the light of life."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Eu sou a luz do mundo, aquele que me segue, não caminha entre as trevas, mas terá a luz da vida."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Io sono la luce del mondo, dice il Signore; chi segue me avrà la luce della vita."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Moi, je suis la lumière du monde, dit le Seigneur. Celui qui me suit aura la lumière de la vie."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "(So spricht der Herr:) Ich bin das Licht der Welt. Wer mir nachfolgt, hat das Licht des Lebens."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Io 8, 12",
+              "es": "Jn 8, 12",
+              "pt-BR": "Jo 8, 12",
+              "it": "Gv 8,12",
+              "fr": "Io 8, 12",
+              "de": "vgl. Joh 8, 12"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 5, 33-39",
+              "es": "Lc 5, 33-39",
+              "en-US": "Lk 5:33-39",
+              "pt-BR": "Lc 5, 33-39",
+              "it": "Lc 5, 33-39",
+              "fr": "Lc 5, 33-39",
+              "de": "Lk 5, 33-39"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Cum ablatus fuerit ab illis sponsus, tunc ieiunabunt",
+              "es": "Les arrebatarán al esposo, entonces ayunarán",
+              "pt-BR": "Mas dias virão em que o noivo será tirado do meio deles. Então, naqueles dias, eles jejuarão.",
+              "it": "Quando lo sposo sarà loro tolto, allora in quei giorni digiuneranno."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dixérunt ad Iesum pharisǽi et scribæ: «Discípuli Ioánnis ieiúnant frequénter et obsecratiónes fáciunt, simíliter et pharisæórum; tui autem edunt et bibunt». Quibus Iesus ait: «Numquid potéstis convívas nuptiárum, dum cum illis est sponsus, fácere ieiunáre? Vénient autem dies; et cum ablátus fúerit ab illis sponsus, tunc ieiunábunt in illis diébus». Dicébat autem et similitúdinem ad illos: «Nemo abscíndit commissúram a vestiménto novo et immíttit in vestiméntum vetus; alióquin et novum rumpet, et véteri non convéniet commissúra a novo. Et nemo mittit vinum novum in utres véteres; alióquin rumpet vinum novum utres et ipsum effundétur, et utres períbunt; sed vinum novum in utres novos mitténdum est. Et nemo bibens vetus vult novum; dicit enim: «Vetus mélius est!»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, los fariseos y los escribas dijeron a Jesús: «Los discípulos de Juan ayunan a menudo y oran, y los de los fariseos también; en cambio, los tuyos, a comer y a beber». Jesús les dijo: «¿Acaso podéis hacer ayunar a los invitados a la boda mientras el esposo está con ellos? Llegarán días en que les arrebatarán al esposo, entonces ayunarán en aquellos días». Les dijo también una parábola: «Nadie recorta una pieza de un manto nuevo para ponérsela a un manto viejo; porque, si lo hace, el nuevo se rompe y al viejo no le cuadra la pieza del nuevo. Nadie echa vino nuevo en odres viejos: porque, si lo hace, el vino nuevo reventará los odres y se derramará, y los odres se estropearán. A vino nuevo, odres nuevos. Nadie que cate vino añejo quiere del nuevo, pues dirá: “El añejo es mejor”»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The Pharisees and the Scribes said to Jesus, 'John's disciples are always fasting and saying prayers, and the disciples of the Pharisees too, but yours go on eating and drinking'. Jesus replied, 'Surely you cannot make the bridegroom's attendants fast while the bridegroom is still with them? But the time will come, the time for the bridegroom to be taken away from them; that will be the time when they will fast.' He also told them this parable, 'No one tears a piece from a new cloak to put it on an old cloak; if he does, not only will he have torn the new one, but the piece taken from the new will not match the old. 'And nobody puts new wine into old skins; if he does, the new wine will burst the skins and then run out, and the skins will be lost. No; new wine must be put into fresh skins. And nobody who has been drinking old wine wants new. \"The old is good\" he says.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, os fariseus e os mestres da Lei disseram a Jesus: \"Os discípulos de João, e também os discípulos dos fariseus, jejuam com frequência e fazem orações. Mas os teus discípulos comem e bebem\". Jesus, porém, lhes disse: \"Os convidados de um casamento podem fazer jejum enquanto o noivo está com eles? Dias virão em que o noivo será tirado do meio deles. Então, naqueles dias, eles jejuarão\". Jesus contou-lhes ainda uma parábola: \"Ninguém tira retalho de roupa nova para fazer remendo em roupa velha; senão vai rasgar a roupa nova, e o retalho novo não combinará com a roupa velha. Ninguém põe vinho novo em odres velhos; porque, senão, o vinho novo arrebenta os odres velhos e se derrama; e os odres se perdem. Vinho novo deve ser colocado em odres novos. E ninguém, depois de beber vinho velho, deseja vinho novo; porque diz: o velho é melhor\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, i farisei e i loro scribi dissero a Gesù: «I discepoli di Giovanni digiunano spesso e fanno preghiere, così pure i discepoli dei farisei; i tuoi invece mangiano e bevono!». Gesù rispose loro: «Potete forse far digiunare gli invitati a nozze quando lo sposo è con loro? Ma verranno giorni quando lo sposo sarà loro tolto: allora in quei giorni digiuneranno». Diceva loro anche una parabola: «Nessuno strappa un pezzo da un vestito nuovo per metterlo su un vestito vecchio; altrimenti il nuovo lo strappa e al vecchio non si adatta il pezzo preso dal nuovo. E nessuno versa vino nuovo in otri vecchi; altrimenti il vino nuovo spaccherà gli otri, si spanderà e gli otri andranno perduti. Il vino nuovo bisogna versarlo in otri nuovi. Nessuno poi che beve il vino vecchio desidera il nuovo, perché dice: “Il vecchio è gradevole!”»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, les pharisiens et les scribes dirent à Jésus : « Les disciples de Jean le Baptiste jeûnent souvent et font des prières ; de même ceux des pharisiens. Au contraire, les tiens mangent et boivent ! » Jésus leur dit : « Pouvez-vous faire jeûner les invités de la noce, pendant que l’Époux est avec eux ? Mais des jours viendront où l’Époux leur sera enlevé ; alors, en ces jours-là, ils jeûneront. » Il leur dit aussi en parabole : « Personne ne déchire un morceau à un vêtement neuf pour le coudre sur un vieux vêtement. Autrement, on aura déchiré le neuf, et le morceau qui vient du neuf ne s’accordera pas avec le vieux. Et personne ne met du vin nouveau dans de vieilles outres ; autrement, le vin nouveau fera éclater les outres, il se répandra et les outres seront perdues. Mais on doit mettre le vin nouveau dans des outres neuves. Jamais celui qui a bu du vin vieux ne désire du nouveau. Car il dit : »C’est le vieux qui est bon.« »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sagten die Pharisäer und ihre Schriftgelehrten zu Jesus: Die Jünger des Johannes fasten und beten viel, ebenso die Jünger der Pharisäer; deine Jünger aber essen und trinken. Jesus erwiderte ihnen: Könnt ihr denn die Hochzeitsgäste fasten lassen, solange der Bräutigam bei ihnen ist? Es werden aber Tage kommen, da wird ihnen der Bräutigam genommen sein; in jenen Tagen werden sie fasten. Und er erzählte ihnen auch noch ein Gleichnis: Niemand schneidet ein Stück von einem neuen Kleid ab und setzt es auf ein altes Kleid; denn das neue Kleid wäre zerschnitten, und zu dem alten Kleid würde das Stück von dem neuen nicht passen. Auch füllt niemand neuen Wein in alte Schläuche. Denn der neue Wein zerreißt die Schläuche; er läuft aus, und die Schläuche sind unbrauchbar. Neuen Wein muss man in neue Schläuche füllen. Und niemand, der alten Wein getrunken hat, will neuen; denn er sagt: Der alte Wein ist besser."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

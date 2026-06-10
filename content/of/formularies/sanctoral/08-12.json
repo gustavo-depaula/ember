@@ -1,0 +1,714 @@
+{
+  "id": "sanctorale.08-12",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Ioannæ Franciscæ de Chantal, religiosæ",
+    "es": "Santa Juana Francisca de Chantal, religiosa",
+    "en-US": "Saint Jane Frances de Chantal, religious",
+    "pt-BR": "Santa Joana Francisca de Chantal, religiosa",
+    "it": "Santa Giovanna Francesca de Chantal, religiosa",
+    "fr": "Sainte Jeanne-Françoise de Chantal, religieuse",
+    "de": "Hl. Johanna Franziska von Chantal, Ordensgründerin"
+  },
+  "description": {
+    "la": "Divione (Dijon) in Gallia, anno 1572 nata est; nobili viro de Chantal nuptui tradita, sex habuit filios quos pie educavit. Viro vita functo, sub moderatione sancti Francisci de Sales viam perfectionis alacriter percurrit atque ópera caritatis in pauperes præsertim et ægrotos exercuit. Instituto a Visitatione initium dedit, quod et sapienter direxit. Mortua est anno 1641.",
+    "es": "Nació en el año 1572 en Dijon (Francia), casada con el Barón de Chantal, tuvo seis hijos a los que educó cristianamente. Muerto su marido, llevó, bajo la dirección de san Francisco de Sales, una admirable vida de perfección, ejerciendo, sobre todo, la caridad con los pobres y enfermos. Fundó el instituto de la Visitación, y lo gobernó sabiamente. Murió el año 1641.",
+    "pt-BR": "Joana Frémiot (Dijon, França, 1572 - Moulins, 13 de dezembro de 1641) é modelo de perfeição evangélica em todos os estados de vida. Esposa do barão de Chantal e mãe de seis filhos, ficando viúva, seguiu o itinerário de vida devota sob a direção de São Francisco de Sales, praticando, de modo especial, as obras de caridade para com os pobres e doentes. Fundou em Annecy a Ordem da Visitação em 1610.",
+    "it": "Giovanna Francesca Frémyot (Dijon, Francia, 23 gennaio 1572 - Moulins, 13 dicembre 1641), sposa del barone di Chantal e madre di sei figli, dopo la morte del marito si dedicò interamente alla preghiera e alle opere di carità, già esercitate nel matrimonio. Con san Francesco di Sales fondò i monasteri della Visitazione, consentendo anche a donne deboli di salute o avanzate in età di accedere alla vita contemplativa.",
+    "fr": "Veuve du baron Frémiot de Chantal à vingt-huit ans et mère de quatre enfants, Jeanne-Françoise (1572-1641) eut la grâce de trouver sur sa route François de Sales, qui allait guider sa montée vers Dieu. En 1610, quittant les siens, elle fonda l’Ordre de la Visitation à Annecy. Le reste de sa vie devait être consacré au développement de sa famille religieuse.",
+    "de": "Sie wurde 1572 in Dijon geboren und mit dem Herzog von Chantal verheiratet, hatte 6 Kinder, welche sie im christlichen Glauben erzog. Nach dem Tod ihres Gatten führte sie ein Leben der Vollkommenheit unter der geistlichen Leitung von Franz von Sales, und übte sich besonders in Werken der Nächstenliebe mit den Armen und Kranken. Sie gründete den Orden der Heimsuchung Mariens (Salesianerinnen) und starb im Jahr 1641."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui beátam Ioánnam Francíscam per várias vitæ sémitas præcláris méritis illustrásti, ipsíus nobis intercessióne concéde, ut, in vocatióne nostra fidéliter ambulántes, lucis exémpla iúgiter ostendámus. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que adornaste con excelsas virtudes a santa Juana Francisca en los distintos estados de su vida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por su intercesión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, caminando fielmente según nuestra vocación,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "manifestemos siempre las obras de la luz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who made Saint Jane Frances de Chantal radiant with outstanding merits in different walks of life, grant us, through her intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, walking faithfully in our vocation,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may constantly be examples of shining light."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que fizestes brilhar Santa Joana Francisca com admiráveis méritos nos diferentes caminhos da vida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos por suas preces que,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "vivendo fielmente a nossa vocação,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a vossa luz resplandeça em nossas obras."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che hai fatto risplendere di eccelse virtù santa Giovanna Francesca [de Chantal] nella vita familiare e monastica, per sua intercessione concedi anche a noi di vivere fedelmente la nostra vocazione, perché manifestiamo nelle opere la tua luce. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en sainte Jeanne-Françoise de Chantal tu as fait resplendir une remarquable sainteté par divers chemins de vie ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "à sa prière, accorde-nous de progresser dans la fidélité à notre vocation et ainsi de rayonner sans cesse de ta lumière."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du hast die heilige Johanna Franziska auf den verschiedenen Wegen ihres Lebens zu großen Taten befähigt. Höre auf ihre Fürsprache. Hilf jedem von uns,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "seine Berufung zu erkennen und deinen Auftrag zu erfüllen, damit wir Zeugen deines Lichtes werden. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

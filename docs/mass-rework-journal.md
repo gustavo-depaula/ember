@@ -944,3 +944,130 @@ Library bumped to 1.5.10.
 
 ---
 
+
+## Full Rebuild (new corpus + calendar engine + all-TS renderer)
+
+The 22 iterations above were patches on the old `mass-of` stack. This entry
+records the ground-up rebuild that replaces it — new schema, new corpus, new
+calendar engine, new renderer — landed across four PR-shaped phases.
+
+### Decision: where the rebuild is "from scratch" vs. transformed
+
+The HTML parser + parity gate (`tools/missal/src/parse/` + `src/parity/`) was
+built fresh and **proves the old ember-extra corpus faithfully represents the
+upstream MissaleRomanum HTML** — 52,122 strings exact-matched, the rest
+categorized (casing / punct / spacing / cross-file / derived / composed), with
+a 206-string reviewed residue (refine.py editorial fixes, alternative-source
+readings, hand-added saints). Because that fidelity is proven, the **enrich
+stage transforms from the validated baseline `data/` into the new schema**
+rather than re-deriving refine.py's ~9,800 lines of structural algorithms
+(reading-cycle splitting, psalm/acclamation typing, special-rite part typing).
+The genuine rewrites — schema, calendar engine, renderer — are 100% fresh.
+"Full-HTML re-derivation" (redoing the structural decomposition straight from
+HTML, zero baseline dependence) is the deferred alternative; the parity harness
+is exactly the tool that would verify it.
+
+### What landed
+
+- **`packages/missal-schema/`** — zod schema + types. Every fix-the-bug
+  decision is structural: `RichText` is lines-only (no `plain`); every
+  prayer/reading/psalm/acclamation slot is `{ options: [...] }` (no
+  `T | {alternatives}` branch); EPs carry an intrinsic `preface` (EP IV/V
+  duplication unrepresentable); prefaces are pre-resolved with baked
+  label+excerpt; titles are display-ready at rest; `cycleScheme` /
+  `includeGloria` / `inheritsOrationsFrom` baked; calendar statics carry
+  `dateRule` (fixed | easter-relative) + `vigilOf`.
+- **`tools/missal/`** — the build tool. `parse` (HTML→RawMass), `parity` (the
+  fidelity gate), `build` (baseline→new schema → `content/of/`). Ported as data
+  from refine.py: psalm/gospel-acclamation splitters, universal OCR fixes, the
+  scanno table (now a declarative `patches/` system with a stale-patch build
+  gate). Census classifies every formulary against the structure enum and
+  checks same-day chip-uniqueness (0 collisions).
+- **`content/of/`** — 954 formularies + the Order-of-Mass bundle + temporal /
+  sanctoral calendar statics. All schema-validated. `scripts/build-corpus.py`
+  `build_of()` emits catalog kinds `mass-formulary` (954), `order-of-mass` (1),
+  `of-calendar` (2), coexisting with the old `mass`/`of-library`/`of-data`.
+- **`packages/mass/src/of/calendar/`** — `resolveOfDay(date, statics, {scope})`.
+  Reuses the validated `@ember/liturgical` temporal math (computus, week
+  numbering, cycles); fresh precedence (GIRM table), sanctoral matching
+  (fixed + easter-relative), impeded-solemnity transfers (Annunciation/St
+  Joseph), privileged-feria commemoration, multi-Mass-day expansion. Tested.
+- **`apps/app/src/sources/of/`** — `buildOfMassFlow` → `Primitive[]` directly,
+  no engine, no fragments. Celebration picker → colour scope → banner + saint
+  description → structure dispatch. `mass`/`vigil-mass` render the full
+  Mass (section markers + per-slot choice-rich-text pickers + preface/EP card
+  pickers + Full/Readings view switch); the 7 special rites render losslessly
+  from their typed `parts` content tree. Integration-tested over the real
+  corpus (OT Sunday, Christmas multi-celebration, memorial, Good Friday).
+- **`apps/app/src/sources/of-mass-flow.ts`** — `producer/mass-of`, registered
+  alongside the legacy `producer/mass`. Loaders in `lib/mass-of/loaders.ts`.
+
+### Known coarseness (refinement, not blockers)
+
+- The Order-of-Mass frame (`ordinario.json`) ships as one mono-blob rendered as
+  a collapsible "Ordinário da Missa", not split into per-slot files (the flat
+  body lacks reliable section anchors across 7 languages). EPs and blessings
+  ARE separate. Per-slot splitting + interleaving with the propers is the next
+  UX refinement.
+- Special-rite typed sub-structures (Good Friday intercessions, Easter Vigil OT
+  readings + baptismal renewal) are folded into the content tree (lossless) but
+  not yet promoted to bespoke interactive blocks.
+- Preface excerpts use the title subtitle, not the prayed-words heuristic
+  (journal iteration 20). The schema field is the same; only the build heuristic
+  would change.
+
+### Remaining cutover (destructive — do with the app open in a browser)
+
+1. Flip the Mass practice flow.json OF branch from `producer/mass` to
+   `producer/mass-of` (the one-line toggle).
+2. Browser smoke-test (dev server `--port 8082`): Easter Vigil 2026, Good
+   Friday 2026, Holy Thursday, Palm Sunday, Christmas Eve/Day, Pentecost
+   vigil+day, Ash Wednesday, All Souls, an OT Sunday cycle A, an OT ferial
+   (orations inherited from the Sunday), a memorial with ferial readings, a
+   Brazilian-scope saint (Oct 12 Aparecida), Jan 20 (Fabian + Sebastian both
+   selectable), EP IV (intrinsic preface).
+3. Delete the old OF stack: `packages/mass/src/{source,buildMassFlow,calendar,
+   dataSource,transformReadings,prefaceBodyExcerpt,prettifyCelebrationTitle,
+   types}.ts` (+ tests), `apps/app/src/lib/mass-of/dataSource.ts`, the
+   `of-*.json` fragments, `content/of-data` + `content/of-library` +
+   `content/masses/of`, `packages/liturgical/src/of-day.ts`, and the old
+   `build_masses`/`build_of_library`/`build_of_data` in build-corpus.py. Drop
+   the `mass-of` registration. Remove the `vendor/ember-extra` submodule.
+4. Add resolver/contentIndex/pinning support if the new kinds need pin-gather
+   entries (`pinningManager.ts`).
+
+The new stack is fully built and tested; the old stack's integration tests were
+already failing on arrival (the in-flight uncommitted rework) and get removed in
+step 3.
+
+### Cutover complete
+
+The destructive cutover landed:
+
+- `content/practices/mass/flow.json` OF branch → `producer/mass-of`.
+- `producer/mass` (`sources/mass-flow.ts`) is now **EF-only**; OF is built
+  directly to primitives by `producer/mass-of` (`sources/of-mass-flow.ts` +
+  `sources/of/`).
+- `lib/mass-of/gospelOfDay.ts` rewritten onto the new corpus (`resolveOfDay` +
+  `loaders.ts`); the `mass-of` DataSource registration is dropped.
+- **Deleted**: `packages/mass/src/{source,buildMassFlow,calendar,dataSource,
+  transformReadings,prefaceBodyExcerpt,prettifyCelebrationTitle,types}.ts` +
+  their tests + `integration.test.ts`; `apps/app/src/lib/mass-of/dataSource.ts`;
+  all `content/practices/mass/fragments/of-*.json`; `content/of-data`,
+  `content/of-library`, `content/masses/of`; `packages/liturgical/src/of-day.ts`
+  (+ its 2 tests); the `build_masses`/`build_of_library`/`build_of_data`
+  functions in `scripts/build-corpus.py`; the `vendor/ember-extra` submodule.
+- **Kept** (out of scope / still used): `packages/liturgical/src/of-tempore.ts`
+  + `of-position.ts` (the validated temporal math the new engine reuses);
+  `content/liturgical/of-calendar.json` + `build-of-calendar.mjs` (the calendar
+  *feature*, decoupled); `build-mass-fragments.mjs` (now EF-only, globs the
+  remaining `ef-*.json`).
+
+Post-cutover: 293 tests green across missal-schema (6), missal-build (42), mass
+(26 — EF + calendar; the old failing OF integration test is gone), liturgical
+(211), app of/registry (8). `@ember/mass` + `@ember/liturgical` tsc clean; the
+app's remaining tsc errors (PsalmodyBlock missing module, pinning ChapterRef,
+resolver.test `la` key) predate this work and are unrelated.
+
+Not yet done (needs a browser): the visual smoke-test of the hard days, and
+per-slot splitting of the Order-of-Mass frame.

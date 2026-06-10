@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.07-08.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Kilian, Bischof, und Gefährten, Glaubensboten, Märtyrer"
+  },
+  "description": {
+    "de": "Der irische Wanderbischof Kilian kam mit seinen Begleitern, dem Priester Kolonat und dem Diakon Totnan, im 7. Jh. nach Würzburg. Nach einem Bericht, der ums Jahr 840 abgefasst wurde, kam es zu einem Konflikt mit den in Würzburg ansässigen, christlichen Herzogsfamilien, weil Kilian dem Herzog gegenüber auf die Beachtung des kirchlichen Eherechts bestand. Um 689 wurde Kilian mit seinen beiden Begleitern im Auftrag der Herzogin ermordet."
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger und barmherziger Gott, durch die Missionsarbeit des heiligen Kilian und seiner Gefährten hast du im fränkischen Land den christlichen Glauben grundgelegt. Auf die Fürsprache dieser Glaubensboten festige uns alle in der Treue zu unserem Herrn Jesus Christus, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

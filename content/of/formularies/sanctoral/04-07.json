@@ -1,0 +1,1549 @@
+{
+  "id": "sanctorale.04-07",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Ioannis Baptistæ de la Salle, presbyteri",
+    "es": "San Juan Bautista de la Salle, presbítero",
+    "en-US": "Saint John Baptist de la Salle, priest",
+    "pt-BR": "São João Batista de la Salle, presbítero",
+    "it": "SAN GIOVANNI BATTISTA DE LA SALLE, presbitero",
+    "fr": "Saint Jean-Baptiste de La Salle, prêtre",
+    "de": "Hl. Johannes Baptist de la Salle, Priester, Ordensgründer"
+  },
+  "description": {
+    "la": "Natus est Rhemis (Reims) in Gallia anno 1651. Sacerdotio initiatus, præcipue educandis pueris totum se dedit, scholas pro pauperibus fundando. Socios adscriptos in Congregationem collegit, pro cuius exsistentia multas sustinuit tribulationes. Mortuus est Rothomagi (Rouen) anno 1719.",
+    "es": "Nació en Reims (Francia) el año 1651. Ordenado sacerdote, se dedicó por entero a la educación de la infancia y a la fundación de escuelas para los pobres. Constituyó una Congregación, por cuya existencia hubo de soportar innumerables dificultades. Murió en Ruán el año 1719.",
+    "pt-BR": "João (Reims, França, 1651 - Rouen, 7 de abril de 1719) abriu escolas para a educação dos meninos pobres em Reims, Paris (1688) e Rouen (1705) com novo método didático e pedagógico. A Congregação dos Irmãos das Escolas Cristãs, por ele fundada (1684), muito contribuiu para a educação popular.",
+    "it": "Giovanni Battista (Reims, Francia, 30 aprile 1651 - Saint Yon presso Rouen, 7 aprile 1719), dopo essersi preso cura, alla morte dei genitori, dei suoi numerosi fratelli, ordinato presbitero si dedicò alla gioventù disagiata, aprendo scuole per poveri e redigendo testi per la formazione dei maestri. Fondò la Congregazione dei Fratelli delle Scuole Cristiane, dedita all’educazione popolare.",
+    "fr": "Jean-Baptiste de La Salle (1651-1719) fut un pionnier en ouvrant une école qui offrait aux enfants pauvres un enseignement populaire. Reims, Paris, Rouen virent les premières fondations de ce prêtre rémois autour duquel s’étaient groupés quelques enseignants, les Frères des Écoles chrétiennes (1684). Dans sa vieillesse, le fondateur eut à subir de lourdes épreuves de la part de ses frères.",
+    "de": "In Reims (Frankreich) im Jahre 1651 geboren, wurde der heilige Johannes Baptist später zum Priester geweiht und widmete sich ganz der Bildung der Kinder und Jugendlichen und gründete viele Schulen für die Armen. Er gründete ebenfalls eine Gemeinschaft, musste jedoch aufgrund dessen viele Schwierigkeiten ertragen. 1719 starb er in Ruan."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui ad christiánam iuventútem educándam beátum Ioánnem Baptístam elegísti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "éxcita in Ecclésia tua institutóres,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui humánæ et christiánæ iúvenum disciplínæ toto corde sese devóveant."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has elegido a san Juan Bautista de la Salle para educar a la juventud cristiana,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "suscita maestros en tu Iglesia que se entreguen de todo corazón a la formación humana y cristiana de los jóvenes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who chose Saint John Baptist de la Salle to educate young Christians,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "raise up, we pray, teachers in your Church ready to devote themselves wholeheartedly to the human and Christian formation of the young."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que escolhestes São João Batista de la Salle para a educação cristã dos jovens,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "suscitai na vossa Igreja educadores que se dediquem de todo o coração à formação humana e cristã da juventude."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che hai scelto san Giovanni Battista [de la Salle] per l’educazione cristiana della gioventù, suscita nella tua Chiesa educatori che si consacrino con amore alla formazione umana e cristiana dei giovani. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as choisi saint Jean-Baptiste de La Salle pour former les jeunes à la vie chrétienne ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "suscite encore dans ton Église des éducateurs qui se dévoueront de tout cœur à la formation humaine et chrétienne des jeunes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du hast den heiligen Johannes Baptist de la Salle berufen, jungen Menschen den Weg des Heils zu zeigen. Erwecke in deiner Kirche verantwortungsbewusste Erzieher voll schöpferischen Geistes, die sich mit aller Kraft dafür einsetzen, gute Menschen und wahre Christen heranzubilden."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 1, 1-2. 3. 4 et 6",
+              "es": "Sal 1, 1-2. 3. 4 et 6",
+              "en-US": "Ps 1:1-2, 3, 4 and 6",
+              "pt-BR": "Sl 1, 1-2. 3. 4 et 6",
+              "it": "Sal 1, 1-2. 3. 4 et 6",
+              "fr": "Ps 1, 1-2. 3. 4 et 6",
+              "de": "Ps 1, 1-2. 3. 4 et 6"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "In lege Dómini volúntas eius."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Su gozo es la ley del Señor."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Happy are they who hope in the Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "É feliz quem a Deus se confia."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Beato l’uomo che confida nel Signore."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Heureux qui se plaît dans la loi du Seigneur."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Selig der Mann, der Freude hat an der Weisung des Herrn."
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Beátus vir qui pósuit Dóminum spem suam."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "El justo crecerá como una palmera en los atrios de nuestro Dios."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Gesegnet, wer auf den Herrn"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Iustus ut palma florébit in átriis Dei nostri."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beátus vir qui non ábiit in consílio impiórum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et in via peccatórum non stetit,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et in convéntu derisórum non sedit;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sed in lege Dómini volúntas eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et in lege eius meditátur die ac nocte."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Et erit tamquam lignum plantátum secus decúrsus aquárum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quod fructum suum dabit in témpore suo;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et fólium eius non défluet,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et ómnia quæcúmque fáciet prosperabúntur."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Non sic ímpii, non sic,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sed tamquam pulvis quem próicit ventus."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quóniam novit Dóminus viam iustórum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et iter impiórum períbit."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dichoso el hombre que no sigue el consejo de los impíos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ni entra por la senda de los pecadores,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ni se sienta en la reunión de los cínicos;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sino que su gozo es la ley del Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y medita su ley día y noche."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Será como un árbol plantado al borde de la acequia:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "da fruto en su sazón y no se marchitan sus hojas;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y cuanto emprende tiene buen fin."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "No así los impíos, no así;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "serán paja que arrebata el viento."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Porque el Señor protege el camino de los justos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "pero el camino de los impíos acaba mal."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Happy indeed is the man who follows not the counsel of the wicked; nor lingers in the way of sinners nor sits in the company of scorners, but whose delight is the law of the Lord and who ponders his law day and night."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "He is like a tree that is planted beside the flowing waters, that yields its fruit in due season and whose leaves shall never fade; and all that he does shall prosper."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Not so are the wicked, not so! For they like winnowed chaff shall be driven away by the wind. For the Lord guards the way of the just but the way of the wicked leads to doom."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados, nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Eis que ele é semelhante a uma árvore que à beira da torrente está plantada;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Eis que tudo o que ele faz vai prosperar."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beato l’uomo che non entra nel consiglio dei malvagi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "non resta nella via dei peccatori e non siede in compagnia degli arroganti,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ma nella legge del Signore trova la sua gioia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la sua legge medita giorno e notte."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "È come albero piantato lungo corsi d’acqua,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "che dà frutto a suo tempo:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le sue foglie non appassiscono e tutto quello che fa, riesce bene."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Non così, non così i malvagi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ma come pula che il vento disperde;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "poiché il Signore veglia sul cammino dei giusti,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mentre la via dei malvagi va in rovina."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Heureux est l’homme qui n’entre pas au conseil des méchants,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "qui ne suit pas le chemin des pécheurs,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ne siège pas avec ceux qui ricanent,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mais se plaît dans la loi du Seigneur et murmure sa loi jour et nuit !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il est comme un arbre planté près d’un ruisseau,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "qui donne du fruit en son temps,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et jamais son feuillage ne meurt ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tout ce qu’il entreprend réussira."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tel n’est pas le sort des méchants."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mais ils sont comme la paille balayée par le vent."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur connaît le chemin des justes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mais le chemin des méchants se perdra."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "sich verlässt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rubric",
+                      "text": "Oder:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Der Gerechte gedeiht"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wie die Palme in den Vorhöfen unseres Gottes."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wohl dem Mann, der nicht dem Rat der Frevler folgt,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nicht auf dem Weg der Sünder geht,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nicht im Kreis der Spötter sitzt,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sondern Freude hat an der Weisung des Herrn,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "über seine Weisung nachsinnt bei Tag und bei Nacht."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "sich verlässt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rubric",
+                      "text": "Oder:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Der Gerechte gedeiht"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wie die Palme in den Vorhöfen unseres Gottes."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er ist wie ein Baum, der an Wasserbächen gepflanzt ist,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "der zur rechten Zeit seine Frucht bringt und dessen Blätter nicht welken."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Alles, was er tut, wird ihm gut gelingen."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "sich verlässt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rubric",
+                      "text": "Oder:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Der Gerechte gedeiht"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wie die Palme in den Vorhöfen unseres Gottes."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Nicht so die Frevler:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sie sind wie Spreu, die der Wind verweht."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denn der Herr kennt den Weg der Gerechten,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "der Weg der Frevler aber führt in den Abgrund."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "sich verlässt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rubric",
+                      "text": "Oder:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Der Gerechte gedeiht"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wie die Palme in den Vorhöfen unseres Gottes."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

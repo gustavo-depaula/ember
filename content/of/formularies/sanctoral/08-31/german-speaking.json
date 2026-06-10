@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.08-31.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Paulinus von Trier, Bischof"
+  },
+  "description": {
+    "de": "Paulinus von Trier wurde 346 Bischof von Trier. Auf der von den Arianern beherrschten Synode von Arles 353 weigerte er sich, der Verurteilung des Athanasius zuzustimmen. Deshalb wurde er abgesetzt und von Kaiser Konstantius II. nach Phrygien verbannt, wo er 358 starb, sein Leibe jedoch soll danach nach Trier übertragen worden sein."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, du hast dem heiligen Paulinus von Trier im Kampf gegen die arianische Irrlehre unerschrockenen Mut gegeben, so dass er auch die Verbannung nicht scheute. Lehre uns, das Wahre vom Falschen zu unterscheiden, und hilf uns, ohne Furcht für die Wahrheit einzutreten. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

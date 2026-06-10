@@ -1,0 +1,1542 @@
+{
+  "id": "sanctorale.07-31",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Ignatii de Loyola, presbyteri",
+    "es": "San Ignacio de Loyola, presbítero",
+    "en-US": "Saint Ignatius of Loyola, priest",
+    "pt-BR": "Santo Inácio de Loyola, presbítero",
+    "it": "SANT’IGNAZIO DI LOYOLA, presbitero",
+    "fr": "Saint Ignace de Loyola, prêtre",
+    "de": "Hl. Ignatius von Loyola, Priester, Ordensgründer"
+  },
+  "description": {
+    "la": "Natus est anno 1491 Loyolæ in Hispania; in aula regia et in militia vitam egit; postea ad Deum conversus, Lutetiæ Parisiorum studia theologica complevit et primos socios sibi adscivit, quos postea Romæ in Societatem constituit. Fructuosum exercuit apostolatum et ópera conscribendo et discipulos instituendo, qui de Ecclésiæ instauratione optime meriti sunt. Mortuus est Romæ anno 1556.",
+    "es": "Nació el año 1491 en Loyola, España; su vida transcurrió primero entre la corte real y la milicia; luego se convirtió y estudió teología en París, donde se le juntaron los primeros compañeros con los que había de fundar más tarde, en Roma, la Compañía de Jesús. Ejerció un fecundo apostolado con sus escritos y con la formación de discípulos, que habían de trabajar intensamente por la reforma de la Iglesia. Murió en Roma el año 1556.",
+    "pt-BR": "Inácio (Loyola, Espanha, por volta de 1491- Roma, 31 de julho de 1556), ferido no cerco de Pamplona (1521), amadureceu na leitura da vida de Cristo a decisão de passar do serviço militar ao seguimento do Senhor. Fundou em Montmartre, Paris, em 1534, a Companhia de Jesus (Jesuítas) para a maior glória de Deus e o serviço da Igreja em obediência total ao sucessor de Pedro. Sua experiência espiritual está consignada nos \"Exercícios Espirituais\", por ele compostos em Manresa (1523), os quais se tornaram um clássico guia para o itinerário espiritual. Promoveu a catequese e o apostolado missionário e teve entre seus discípulos São Francisco Xavier.",
+    "it": "Iñigo Lòpez (Loyola, Spagna, 1491 - Roma, 3 luglio 1556), di nobile famiglia basca, fu ferito nella difesa della città di Pamplona. Durante la convalescenza, la lettura della vita di Cristo e di alcuni santi segnò per lui l’inizio della conversione. Un lungo itinerario lo portò ad attraversare un periodo di discernimento spirituale e una prolungata stagione di studi filosofici e teologici, culminati a Parigi. Qui si formò attorno a lui un gruppo di compagni, con i quali si presentò al papa Paolo III. A lui esposero il proprio ideale: difesa e propagazione della fede e disponibilità assoluta al Romano Pontefice riguardo a qualsiasi missione questi volesse affidare loro per l’espansione missionaria del Vangelo e la riforma della Chiesa. La spiritualità della Compagnia di Gesù ha il suo cardine negli Esercizi spirituali, che compendiano l’esperienza interiore di Ignazio. Papa Gregorio XV lo iscrisse tra i santi nel 1622.",
+    "fr": "Ignace de Loyola (1491-1556), qui fonda la Compagnie de Jésus à Paris en 1534, était né au Pays basque, mais c’est de Rome qu’il travailla à la diffusion de la Compagnie en Europe et à son essor missionnaire, donnant l’exemple d’un attachement sans réserve à l’Église et au Pape. Ses Exercices spirituels tracent un chemin à qui veut consacrer sa vie à la plus grande gloire de Dieu.",
+    "de": "Er wurde 1491 auf Schloss Loyola (Spanien) geboren und schlug zunächst die militärische Laufbahn ein. Nach seiner Bekehrung studierte er Theologie in Paris, wo er die ersten Anhänger um sich sammelte, mit welchen er wenig später in Rom den Orden der Jesuiter gründete. Er entfaltete eine große apostolische Tätigkeit durch seine Schriften und die Bildung seiner Anhänger, welche intensiv an der Kirchenreform arbeiteten. Er starb in Rom im Jahr 1556."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "In nómine Iesu omne genu flectátur, cæléstium, terréstrium et infernórum; et omnis lingua confiteátur quia Dóminus Iesus Christus in glória est Dei Patris."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Al nombre de Jesús toda rodilla se doble, en el cielo, en la tierra, en el abismo, y toda lengua proclame: «Jesucristo es Señor, para gloria de Dios Padre»."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "At the name of Jesus, every knee should bend of those in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to the glory of God the Father."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ao nome de Jesus, todo joelho se dobre no céu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na terra e abaixo da terra, e toda língua proclame:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Jesus Cristo é o Senhor, para a glória de Deus Pai."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nel nome di Gesù ogni ginocchio si pieghi nei cieli, sulla terra e sotto terra, e ogni lingua proclami: «Gesù Cristo è Signore!», a gloria di Dio Padre."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Au nom de Jésus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que tout genou fléchisse au ciel, sur terre et aux enfers,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et que toute langue proclame :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "« Jésus Christ est Seigneur »"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "à la gloire de Dieu le Père."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vor dem Namen Jesu sollen alle Mächte im Himmel, auf der Erde und unter der Erde ihre Knie beugen, und jede Zunge soll bekennen: Jesus Christus ist der Herr, in der Herrlichkeit Gottes, des Vaters."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui ad maiórem tui nóminis glóriam propagándam beátum Ignátium in Ecclésia tua suscitásti, concéde, ut, eius auxílio et imitatióne certántes in terris, coronári cum ipso mereámur in cælis. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has suscitado en tu Iglesia a san Ignacio de Loyola para propagar la mayor gloria de tu nombre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos que,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "combatiendo en la tierra con su protección y su ejemplo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "merezcamos ser coronados con él en el cielo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who raised up Saint Ignatius of Loyola in your Church to further the greater glory of your name,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that by his help we may imitate him in fighting the good fight on earth and merit to receive with him a crown in heaven."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que suscitastes em vossa Igreja Santo Inácio de Loyola para propagar a maior glória do vosso nome,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos que, auxiliados por sua intercessão e imitando seus exemplos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mereçamos, por nosso combate na terra,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ser coroados com ele no céu."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che hai chiamato sant’Ignazio [di Loyola] a operare nella Chiesa per la maggior gloria del tuo nome, concedi anche a noi, con il suo aiuto e il suo esempio, di combattere in terra la buona battaglia della fede per ricevere con lui in cielo la corona dei santi. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour que rayonne la plus grande gloire de ton nom,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as suscité dans ton Église saint Ignace de Loyola ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais qu’avec son aide et à son exemple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "après avoir combattu sur la terre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous partagions sa victoire dans le ciel."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger, ewiger Gott, du hast den heiligen Ignatius von Loyola berufen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in der Nachfolge Christi zur größeren Ehre deines Namens zu wirken. Lass uns nach seinem Beispiel und mit seiner Hilfe auf Erden den guten Kampf bestehen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "damit wir auch im Himmel den Siegeskranz empfangen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "1 Cor 10, 31 — 11, 1",
+              "es": "1 Cor 10, 31 - 11, 1",
+              "en-US": "1 Cor 10:31-11:1",
+              "pt-BR": "1 Cor 10, 31 - 11, 1",
+              "it": "1 Cor 10,31 -11,1",
+              "fr": "1 Co 10, 31 — 11, 1",
+              "de": "1 Kor 10, 31 - 11, 1"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios",
+              "es": "Lectura de la primera carta del apóstol san Pablo a los Corintios",
+              "en-US": "A reading from the first Letter of Saint Paul to the Corinthians",
+              "pt-BR": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+              "it": "Dalla prima lettera di san Paolo apostolo ai Corinzi",
+              "fr": "Première lettre de saint Paul Apôtre aux Corinthiens",
+              "de": "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+            },
+            "summary": {
+              "la": "Omnia in glóriam Dei facite.",
+              "es": "Hacedlo todo para gloria de Dios",
+              "pt-BR": "Fazei tudo para glória de Deus.",
+              "it": "Fate tutto per la gloria di Dio."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Sive manducátis sive bíbitis sive áliud quid fácitis, ómnia in glóriam Dei fácite. Sine offensióne estóte Iudæis et Græcis et Ecclésiæ Dei, sicut et ego per ómnia ómnibus pláceo, non quærens, quod mihi útile est, sed quod multis, ut salvi fiant. Imitatóres mei estóte, sicut et ego Christi."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Ya comáis, ya bebáis o hagáis lo que hagáis, hacedlo todo para gloria de Dios. No deis motivo de escándalo ni a judíos, ni a griegos, ni a la Iglesia de Dios; como yo, que procuro contentar en todo a todos, no buscando mi propia ventaja, sino la de la mayoría, para que se salven. Sed imitadores míos como yo lo soy de Cristo."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Whatever you eat, whatever you drink, whatever you do at all, do it for the glory of God. Never do anything offensive to anyone - to Jews or Greeks or to the Church of God; just as I try to be helpful to everyone at all times, not anxious for my own advantage but for the advantage of everybody else, so that they may be saved. Take me for your model, as I take Christ."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos: Quer comais, quer bebais, ou façais qualquer outra coisa, fazei tudo para glória de Deus. Não escandalizeis ninguém, nem judeus, nem gregos, nem a Igreja de Deus. Fazei como eu, que procuro agradar a todos, em tudo, não buscando o que é vanjasos para mim mesmo, mas o que é vantajoso para todos, a fim de que sejamos salvos. Sede meus imitadores, como também eu o sou de Cristo."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, sia che mangiate sia che beviate sia che facciate qualsiasi altra cosa, fate tutto per la gloria di Dio. Non date motivo di scandalo né ai Giudei, né ai Greci, né alla Chiesa di Dio; così come io mi sforzo di piacere a tutti in tutto, senza cercare l’utile mio ma quello di molti, perché giungano alla salvezza. Fatevi miei imitatori, come io lo sono di Cristo."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, tout ce que vous faites : manger, boire, ou toute autre action, faites-le pour la gloire de Dieu. Ne soyez un obstacle pour personne, ni pour les Juifs, ni pour les païens, ni pour l’Église de Dieu. Ainsi, moi-même, en toute circonstance, je tâche de m’adapter à tout le monde, sans chercher mon intérêt personnel, mais celui de la multitude des hommes, pour qu’ils soient sauvés. Imitez-moi, comme moi aussi j’imite le Christ."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Ob ihr esst oder trinkt oder etwas anderes tut: tut alles zur Verherrlichung Gottes! Gebt weder Juden noch Griechen, noch der Kirche Gottes Anlass zu einem Vorwurf! Auch ich suche allen in allem entgegenzukommen; ich suche nicht meinen Nutzen, sondern den Nutzen aller, damit sie gerettet werden. Nehmt mich zum Vorbild, wie ich Christus zum Vorbild nehme."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Pláceant, Dómine Deus, oblatiónes in celebratióne beáti Ignátii tibi delátæ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et præsta, ut sacrosáncta mystéria, in quibus omnis sanctitátis fontem constituísti, nos quoque in veritáte sanctíficent. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que te agraden, Señor Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "las ofrendas que te presentamos en la fiesta de san Ignacio de Loyola;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos que estos divinos misterios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que estableciste como fuente de toda santificación,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos santifiquen también en la verdad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May these offerings we make to you as we celebrate Saint Ignatius be pleasing, Lord God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and grant that the sacred mysteries,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "which you have made the fount of all holiness, may sanctify us, too, in the truth."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor nosso Deus, sejam do vosso agrado as oferendas que trazemos na comemoração de santo Inácio de Loyola,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e concedei que os sagrados mistérios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "instituídos como fonte de toda santidade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos santifiquem verdadeiramente."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ti siano gradite, Signore Dio, le offerte che ti presentiamo nella memoria di sant’Ignazio, e fa' che i divini misteri, sorgente di ogni santità nella Chiesa, santifichino anche noi nella verità. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que l’offrande présentée en la fête de saint Ignace te soit agréable, Seigneur Dieu :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et que ces mystères sacrés,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dont tu as fait la source de toute sainteté,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous sanctifient nous aussi dans la vérité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, nimm die Gaben an, die wir am Fest des heiligen Ignatius darbringen."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Heilige uns in der Wahrheit durch dieses Opfer, das du zum Quell aller Heiligung bestimmt hast. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dicit Dóminus: Ignem veni míttere in terram, et quid volo, nisi ut accendátur?"
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "He venido a prender fuego a la tierra, y cuánto deseo que ya esté ardiendo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dice el Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Thus says the Lord: I have come to cast fire on the earth, and how I wish that it were kindled!"
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Disse o Senhor: vim trazer fogo à terra;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "como gostaria que já estivesse aceso!"
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "«Sono venuto a gettare fuoco sulla terra, e quanto vorrei che fosse già acceso!», dice il Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Je suis venu apporter un feu sur la terre, dit le Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et comme je voudrais qu’il soit déjà allumé !"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "So spricht der Herr: Ich bin gekommen, um Feuer auf die Erde zu werfen; wie froh wäre ich, wenn es schon brennen würde!"
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Laudis hóstia, Dómine, quam pro beáto Ignátio grátias agéntes obtúlimus, ad perpétuam nos maiestátis tuæ laudatiónem perdúcat. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que el sacrificio de alabanza que te hemos ofrecido para darte gracias en honor de san Ignacio de Loyola,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos conduzca a la eterna glorificación de tu majestad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the sacrifice of praise that we have offered with thanksgiving in honor of Saint Ignatius, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "bring us to exalt your majesty without end."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, este sacrifício de louvor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que vos oferecemos em ação de graças,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na comemoração de Santo Inácio de Loyola,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos conduza à bem-aventurança eterna,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para louvarmos sem fim a vossa imensa glória."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Il sacrificio di lode che ti abbiamo offerto, o Signore, in rendimento di grazie nella memoria di sant’Ignazio, orienti la nostra vita alla lode perenne del tuo nome. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que le sacrifice de louange, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "offert pour te rendre grâce en l’honneur de saint Ignace,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous conduise à louer sans fin ton immense gloire."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott wir haben das Opfer des Lobes dargebracht und danken dir,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dass du deiner Kirche den heiligen Ignatius geschenkt hast. Das heilige Sakrament stärke uns, damit wir alles zu deiner größeren Ehre tun und zum ewigen Lob deiner Herrlichkeit gelangen. Darum bitten wir durch Christus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "sanctorale.07-14.united-states",
+  "kind": "sanctoral",
+  "scope": "united-states",
+  "structure": "mass",
+  "title": {
+    "en-US": "Blessed Kateri Tekakwitha, Virgin"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who desired the Virgin Blessed Kateri Tekakwitha to flower among Native Americans"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in a life of innocence,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, through her intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that when all are gathered into your Church from every nation, tribe and tongue,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "they may magnify you"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in a single canticle of praise."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

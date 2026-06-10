@@ -1,0 +1,1286 @@
+{
+  "id": "sanctorale.05-20",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Bernardini Senensis, presbyteri",
+    "es": "San Bernardino de Siena, presbítero",
+    "en-US": "Saint Bernardine of Siena, priest",
+    "pt-BR": "São Bernardino de Sena, presbítero",
+    "it": "SAN BERNARDINO DA SIENA, presbitero",
+    "fr": "Saint Bernardin de Sienne, prêtre",
+    "de": "Hl. Bernhardin von Siena, Ordenspriester, Volksprediger"
+  },
+  "description": {
+    "la": "Natus est Massæ (Massa Marittima) in Tuscia anno 1380; inter Fratres Minores adscriptus et sacerdotio initiatus, munus prædicationis per totam Italiam exercuit magno cum animarum fructu. Devotionem erga sanctissimum Iesu Nomen propagavit; de studio et disciplina in suo Ordine provehendis optime meritus, tractatus etiam theologicos scripsit. Mortuus est Aquilæ anno 1444.",
+    "es": "Nacido en Massa Marittima, territorio de Siena, el año 1380, entró en la Orden de los Frailes Menores, se ordenó sacerdote y desplegó por toda Italia una gran actividad como predicador, con notables frutos. Propagó la devoción al santísimo nombre de Jesús. Tuvo un papel importante en la promoción intelectual y espiritual de su Orden; escribió, además, algunos tratados de teología. Murió el año 1444.",
+    "pt-BR": "Bernardino (Massa Marítima, Grosseto, Itália, 1380 - Águila, 20 de maio de 1444), religioso franciscano, foi grande pregador popular do nome de Jesus. Percorreu povoados e cidades da Itália setentrional e central, levando, pela palavra e pelo exemplo, populações inteiras a uma profunda renovação cristã. Trabalhou para a reforma da Ordem franciscana. Dele temos alguns escritos em língua latina e vernácula.",
+    "it": "Bernardino (Massa Marittima, Grosseto, 8 settembre 1380 - L’Aquila, 20 maggio 1444), della nobile famiglia senese degli Albizzeschi, dopo gli studi giuridici, fu accolto fra i Frati Minori, aderendo al movimento dell’Osservanza. Predicatore di vasta cultura, immediata concretezza e grande popolarità, percorse l’Italia centro- settentrionale suscitando un intenso rinnovamento di vita cristiana. Diffuse ovunque la devozione al nome di Gesù.",
+    "fr": "Le franciscain Bernardin de Sienne (1380-1444) prit en quelque sorte la relève du dominicain Vincent Ferrier comme prédicateur populaire pour inviter les chrétiens à regarder au-delà d’un monde déchiré. De Milan à Rome, il parcourait les villes, prêchant l’amour infini de Dieu et présentant le nom de Jésus comme la sauvegarde contre tous les maux.",
+    "de": "Bernhardin wurde im Todesjahr der heiligen Katharina von Siena (1380) in Massa Marittima (Toskana) geboren. Er trat 1402 in den Franziskanerorden ein und wirkte nach Jahren stiller Vorbereitung als großer Volksprediger in ganz Italien. Er verbreitete die Verehrung des Namens Jesu, förderte die Marienverehrung und die Verehrung zum heiligen Josef. Er war dabei immer kränklich, da er sich als junger Student bei der Pflege der Pestkranken im Jahr 1400 zu viel zugemutet hatte. 1438-1442 war er Generalvikar seines Ordens und nahm als solcher am Konzil von Florenz teil. Er starb 1444 in Aquila."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui beáto Bernardíno presbýtero sancti nóminis Iesu amórem exímium tribuísti, eius méritis precibúsque concéde, ut spíritus nos semper tuæ dilectiónis accéndat. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has otorgado al presbítero san Bernardino de Siena un amor admirable al santo Nombre de Jesús,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por sus méritos y oraciones,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos inflame siempre el espíritu de tu amor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who gave the Priest Saint Bernardine of Siena a great love for the holy Name of Jesus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, through his merits and prayers,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we may ever be set aflame with the spirit of your love."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que destes ao presbítero São Bernardino de Sena ardente amor pelo santo nome de Jesus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por seus méritos e preces,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "acendei sempre em nossos corações a chama da vossa caridade."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che al presbitero san Bernardino [da Siena] hai donato un singolare amore per il santo nome di Gesù, concedi che, per i suoi meriti e le sue preghiere, lo Spirito ci infiammi della tua carità. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as inspiré au prêtre saint Bernardin,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "un très grand amour pour le nom de Jésus ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous, à sa prière et par ses mérites,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "d’être toujours embrasés par ton esprit de charité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott und Vater unseres Herrn Jesus Christus, du hast im heiligen Bernhardin von Siena der Kirche einen großen Prediger geschenkt und ihm eine besondere Liebe zum Namen Jesus gegeben. Blicke auf sein heiliges Wirken und schenke uns auf seine Fürsprache die Liebe zu diesem Namen, der über allen Namen ist."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Act 4, 8-12",
+              "es": "Hch 4, 8-12",
+              "en-US": "Acts 4:8-12",
+              "pt-BR": "At 4, 8-12",
+              "it": "At 4,8-12",
+              "fr": "Ac 4, 8-12",
+              "de": "Apg 4, 8-12"
+            },
+            "introduction": {
+              "la": "Léctio Actuum Apostolórum",
+              "es": "Lectura del libro de los Hechos de los apóstoles",
+              "en-US": "A reading from the Acts of the Apostles",
+              "pt-BR": "Leitura dos Atos dos Apóstolos",
+              "it": "Dagli Atti degli Apostoli",
+              "fr": "Livre des Actes des Apôtres",
+              "de": "Lesung aus der Apostelgeschichte"
+            },
+            "summary": {
+              "la": "Non est in alio aliquo salus.",
+              "es": "No hay salvación en ningún otro",
+              "pt-BR": "Não existe outro nome pelo qual possamos ser salvos."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In diébus illis: Replétus Spíritu Sancto, Petrus dixit: «Príncipes pópuli et senióres, si nos hódie diiudicámur in benefácto hóminis infírmi, in quo iste salvus factus est, notum sit ómnibus vobis et omni plebi Israel quia in nómine Iesu Christi Nazaréni, quem vos crucifixístis, quem Deus suscitávit a mórtuis, in hoc iste astat coram vobis sanus. Hic est lapis, qui reprobátus est a vobis ædificatóribus, qui factus est in caput ánguli. Et non est in álio áliquo salus, nec enim nomen áliud est sub cælo datum in homínibus, in quo opórtet nos salvos fíeri»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquellos días, Pedro, lleno de Espíritu Santo, dijo: «Jefes del pueblo y ancianos: Porque le hemos hecho un favor a un enfermo, nos interrogáis hoy para averiguar qué poder ha curado a ese hombre; quede bien claro a todos vosotros y a todo Israel que ha sido el Nombre de Jesucristo el Nazareno, a quien vosotros crucificasteis y a quien Dios resucitó de entre los muertos; por este Nombre, se presenta este sano ante vosotros. Él es ula piedra que desechasteis vosotros, los arquitectos, y que se ha convertido en piedra angular”; no hay salvación en ningún otro, pues bajo el cielo no se ha dado a los hombres otro nombre por el que debamos salvarnos»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Peter, filled with the Holy Spirit, addressed them, 'Rulers of the people, and elders! If you are questioning us today about an act of kindness to a cripple, and asking us how he was healed, then I am glad to tell you all, and would indeed be glad to tell the whole people of Israel, that it was by the name of Jesus Christ the Nazarene, the one you crucified, whom God raised from the dead, by this name and by no other that this man is able to stand up perfectly healthy, here in your presence, today. This is the stone rejected by you the builders, but which has proved to be the keystone. For of all the names in the world given to men, this is the only one by which we can be saved.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naqueles dias, Pedro, cheio do Espírito Santo, disse: \"Chefes do povo e anciãos, hoje estamos sendo interrogados por termos feito o bem a um enfermo e pelo modo como foi curado. Ficai, pois, sabendo todos vós e todo o povo de Israel: é pelo nome de Jesus Cristo, de Nazaré, - aquele que vós crucificastes e que Deus ressuscitou dos mortos -, que este homem está curado, diante de vós. Jesus é a pedra, que vós, os construtores, desprezastes, e que se tornou a pedra angular. Em nenhum outro há salvação, pois não existe debaixo do céu outro nome dado aos homens pelo qual possamos ser salvos”."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quei giorni, Pietro, pieno di Spirito Santo, disse loro: “Capi del popolo e anziani, visto che oggi veniamo interrogati sul beneficio recato ad un uomo infermo e in qual modo egli abbia ottenuto la salute, la cosa sia nota a tutti voi e a tutto il popolo d’Israele: nel nome di Gesù Cristo il Nazareno, che voi avete crocifisso e che Dio ha risuscitato dai morti, costui vi sta innanzi sano e salvo. Questo Gesù è la pietra che, scartata da voi, costruttori, è diventata testata d’angolo. In nessun altro c’è salvezza; non vi è infatti altro nome dato agli uomini sotto il cielo nel quale è stabilito che possiamo essere salvati”."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ces jours-là, Pierre, rempli de l’Esprit Saint, déclara : « Chefs du peuple et anciens, nous sommes interrogés aujourd’hui pour avoir fait du bien à un infirme, et l’on nous demande comment cet homme a été sauvé. Sachez-le donc, vous tous, ainsi que tout le peuple d’Israël : c’est par le nom de Jésus le Nazaréen, lui que vous avez crucifié mais que Dieu a ressuscité d’entre les morts, c’est par lui que cet homme se trouve là, devant vous, bien portant. Ce Jésus est la pierre méprisée de vous, les bâtisseurs, mais devenue la pierre d’angle. En nul autre que lui, il n’y a de salut, car, sous le ciel, aucun autre nom n’est donné aux hommes, qui puisse nous sauver. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jenen Tagen sagte Petrus, erfüllt vom Heiligen Geist: Ihr Führer des Volkes und ihr Ältesten! Wenn wir heute wegen einer guten Tat an einem kranken Menschen darüber vernommen werden, durch wen er geheilt worden ist, so sollt ihr alle und das ganze Volk Israel wissen: im Namen Jesu Christi, des Nazoräers, den ihr gekreuzigt habt und den Gott von den Toten auferweckt hat. Durch ihn steht dieser Mann gesund vor euch. Er – Jesus - ist der Stein, der von euch Bauleuten verworfen wurde, der aber zum Eckstein geworden ist. Und in keinem anderen ist das Heil zu finden. Denn es ist uns Menschen kein anderer Name unter dem Himmel gegeben, durch den wir gerettet werden sollen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ego sum lux mundi, dicit Dóminus; qui séquitur me habébit lucem vitæ."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Yo soy la luz del mundo —dice el Señor—; el que me sigue tendrá la luz de la vida."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "I am the light of the world, says the Lord: the man who follows me will have the light of life."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Eu sou a luz do mundo, aquele que me segue não caminha entre as trevas, mas terá a luz da vida."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Io sono la luce del mondo, dice il Signore; chi segue me, avrà la luce della vita."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Moi, je suis la lumière du monde, dit le Seigneur. Celui qui me suit aura la lumière de la vie."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "(So spricht der Herr:) Ich bin das Licht der Welt. Wer mir nachfolgt, hat das Licht des Lebens."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Io 8, 12",
+              "es": "Jn 8, 12b",
+              "pt-BR": "Jo 8, 12b",
+              "it": "Cf. Gv 8, 12",
+              "fr": "Io 8, 12",
+              "de": "Joh 8, 12"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 9, 57-62",
+              "es": "Lc 9, 57-62",
+              "en-US": "Lk 9:57-62",
+              "pt-BR": "Lc 9, 57-62",
+              "it": "Lc 9, 57-62",
+              "fr": "Lc 9, 57-62",
+              "de": "Lk 9, 57-62"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal Vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Sequar te quocumque ieris.",
+              "es": "Te seguiré adondequiera que vayas",
+              "pt-BR": "Eu te seguirei para onde quer que fores.",
+              "it": "Ti seguirò dovunque tu vada."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Eúntibus Iesu et discipulis suis in via, dixit quidam ad illum: «Sequar te, quocúmque íeris». Et ait illi Iesus: «Vulpes fóveas habent, et vólucres cæli nidos, Fílius autem hóminis non habet, ubi caput reclínet». Ait autem ad álterum: «Séquere me». Ille autem dixit: «Dómine, permítte mihi primum ire et sepelíre patrem meum». Dixítque ei Iesus: «Sine, ut mórtui sepéliant mórtuos suos; tu autem vade, annúntia regnum Dei». Et ait alter: «Sequar te, Dómine, sed primum permítte mihi renuntiáre his, qui domi sunt». Ait ad illum Iesus: «Nemo mittens manum suam in arátrum et aspíciens retro, aptus est regno Dei»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, mientras Jesús y sus discípulos iban de camino, le dijo uno: «Te seguiré adondequiera que vayas». Jesús le respondió: «Las zorras tienen madrigueras, y los pájaros del cielo nidos, pero el Hijo del hombre no tiene donde reclinar la cabeza». A otro le dijo: «Sígueme». Él respondió: «Señor, déjame primero ir a enterrar a mi padre». Le contestó: «Deja que los muertos entierren a sus muertos; tú vete a anunciar el reino de Dios». Otro le dijo: «Te seguiré, Señor. Pero déjame primero despedirme de los de mi casa». Jesús le contestó: «Nadie que pone la mano en el arado y mira hacia atrás vale para el reino de Dios»."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, enquanto Jesus e seus discípulos caminhavam, alguém na estrada disse a Jesus: \"Eu te seguirei para onde quer que fores\". Jesus lhe respondeu: \"As raposas têm tocas e os pássaros têm ninhos; mas o Filho do Homem não tem onde repousar a cabeça\". Jesus disse a outro: \"Segue-me\". Este respondeu: \"Deixa-me primeiro ir enterrar meu pai\". Jesus respondeu: \"Deixa que os mortos enterrem os seus mortos; mas tu, vai anunciar o Reino de Deus\". Um outro ainda lhe disse: \"Eu te seguirei, Senhor, mas deixa-me primeiro despedir-me dos meus familiares\". Jesus, porém, respondeu-lhe: \"Quem põe a mão no arado e olha para trás, não está apto para o Reino de Deus\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, mentre camminavano per la strada, un tale disse a Gesù: «Ti seguirò dovunque tu vada». E Gesù gli rispose: «Le volpi hanno le loro tane e gli uccelli del cielo i loro nidi, ma il Figlio dell’uomo non ha dove posare il capo». A un altro disse: «Seguimi». E costui rispose: «Signore, permettimi di andare prima a seppellire mio padre». Gli replicò: «Lascia che i morti seppelliscano i loro morti; tu invece va' e annuncia il regno di Dio». Un altro disse: «Ti seguirò, Signore; prima però lascia che io mi congedi da quelli di casa mia». Ma Gesù gli rispose: «Nessuno che mette mano all’aratro e poi si volge indietro è adatto per il regno di Dio»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, en cours de route, un homme dit à Jésus : « Je te suivrai partout où tu iras. » Jésus lui déclara : « Les renards ont des terriers, les oiseaux du ciel ont des nids ; mais le Fils de l’homme n’a pas d’endroit où reposer la tête. » Il dit à un autre : « Suis-moi. » L’homme répondit : « Seigneur, permets-moi d’aller d’abord enterrer mon père. » Mais Jésus répliqua : « Laisse les morts enterrer leurs morts. Toi, pars, et annonce le règne de Dieu. » Un autre encore lui dit : « Je te suivrai, Seigneur ; mais laisse-moi d’abord faire mes adieux aux gens de ma maison. » Jésus lui répondit : « Quiconque met la main à la charrue, puis regarde en arrière, n’est pas fait pour le royaume de Dieu. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit, als Jesus und seine Jünger auf ihrem Weg nach Jerusalem weiterzogen, redete ein Mann Jesus an und sagte: Ich will dir folgen, wohin du auch gehst. Jesus antwortete ihm: Die Füchse haben ihre Höhlen und die Vögel ihre Nester; der Menschensohn aber hat keinen Ort, wo er sein Haupt hinlegen kann. Zu einem anderen sagte er: Folge mir nach! Der erwiderte: Lass mich zuerst heimgehen und meinen Vater begraben. Jesus sagte zu ihm: Lass die Toten ihre Toten begraben; du aber geh und verkünde das Reich Gottes! Wieder ein anderer sagte: Ich will dir nachfolgen, Herr. Zuvor aber lass mich von meiner Familie Abschied nehmen. Jesus erwiderte ihm: Keiner, der die Hand an den Pflug gelegt hat und nochmals zurückblickt, taugt für das Reich Gottes."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

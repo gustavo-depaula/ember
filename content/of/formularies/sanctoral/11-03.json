@@ -1,0 +1,714 @@
+{
+  "id": "sanctorale.11-03",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Martini de Porres, religiosi",
+    "es": "San Martín de Porres, religioso",
+    "en-US": "Saint Martin de Porres, religious",
+    "pt-BR": "São Martinho (de Lima), religioso",
+    "it": "SAN MARTINO DE PORRES, religioso",
+    "fr": "Saint Martin de Porrès, religieux",
+    "de": "Hl. Martin von Porres, Ordensmann"
+  },
+  "description": {
+    "la": "Ex patre Hispano et nigra muliere natus est Limæ in Peruvia anno 1579. Puerulus medicamentariam artem didicit, quam postea, inter Fratres Prædicatores adlectus, pro pauperibus large exercuit. Vitam gessit asperam atque humilem, et eucharistiam maxime coluit. Mortuus est anno 1639.",
+    "es": "Nació en Lima (Perú), de padre español y madre mulata, el año 1579. De jovencito aprendió el oficio de barbero-cirujano, que luego, al ingresar en la Orden de Predicadores, ejerció ampliamente en favor de los pobres. Llevó una vida de mortificación, de humildad y de gran devoción a la eucaristía. Murió el año 1639.",
+    "pt-BR": "Martinho (Lima, Peru, 1579 - 3 de novembro de 1639), filho de um cavaleiro espanhol e de uma ex-escrava negra, entrou como irmão leigo na Ordem Dominicana. Exercendo sua profissão de enfermeiro (barbeiro-cirurgião), serviu os confrades e os pobres na humildade e alegria e com generosidade sem limites. É a expressão típica da santidade evangélica que se encarna nos pequenos e nos pobres.",
+    "it": "Martino (Lima, Perù, 9 dicembre 1579 - 3 novembre 1639), figlio naturale di un cavaliere spagnolo e di una ex schiava nera, solo a fatica poté accedere, come fratello coadiutore, al convento dei Domenicani. Con generosa semplicità, quale «barbiere cerusico (chirurgo)», si prese cura dei confratelli e di tutti coloro che bussavano alla porta, testimoniando la grazia che Dio concede agli umili (cf. 1 Pt 5, 5).",
+    "fr": "Né à Lima au Pérou, Martin de Porrès (1579-1639) était un métis, fils naturel d’un chevalier espagnol. Religieux laïc au couvent des Dominicains de Lima, il y exerçait les fonctions d’infirmier. Il puisait dans la prière, spécialement la prière nocturne, des lumières qui firent aussi de lui un merveilleux catéchiste.",
+    "de": "Er wurde 1579 in Lima (Peru) geboren, übte als junger Mann seine Tätigkeit als Wundarzt aus, welche er später, nach dem Eintritt in den Predigerorden, auf die Armen ausweitete. Er lebte ein Leben der Buße und Bescheidenheit, mit einer großen Verehrung der Eucharistie. Er starb im Jahr 1639."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui beátum Martínum per humilitátis iter ad cæléstem glóriam perduxísti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tríbue nobis eius ita nunc pérsequi exémpla præclára, ut exaltári cum ipso mereámur in cælis. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has conducido a san Martín de Porres a la gloria celeste por el camino de la humildad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos seguir ahora sus admirables ejemplos para que merezcamos ser elevados con él a los cielos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who led Saint Martin de Porres by the path of humility to heavenly glory,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that we may so follow his radiant example in this life as to merit to be exalted with him in heaven."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que pelos caminhos da humildade conduzistes São Martinho à glória do céu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dai-nos seguir de tal modo o admirável exemplo de sua vida na terra,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que mereçamos ser glorificados com ele no céu."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che per la via dell’umiltà hai guidato san Martino [de Porres] alla gloria celeste, donaci di seguire il suo luminoso esempio, per essere glorificati con lui in cielo. Per il nostro Signore Gesù Cristo, tuo Figlio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as conduit saint Martin de Porrès jusqu’à la gloire du ciel par un chemin d’humilité ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne-nous de suivre son exemple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour mériter d’être élevés avec lui dans les cieux."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, du hast den heiligen Martin von Porres auf dem Weg der Armut zur himmlischen Herrlichkeit geführt. Mit großer Hingabe hat er den Notleidenden seiner Vaterstadt gedient. Wecke auch in uns die Bereitschaft,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "den Mitmenschen in Not und Krankheit beizustehen, und lass uns zusammen mit ihnen die Fülle des Lebens empfangen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

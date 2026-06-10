@@ -1,0 +1,1294 @@
+{
+  "id": "sanctorale.05-18",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Ioannis I, papæ et martyris",
+    "es": "San Juan I, papa y mártir",
+    "en-US": "Saint John I, pope and martyr",
+    "pt-BR": "São João I, papa e mártir",
+    "it": "SAN GIOVANNI I, papa e martire",
+    "de": "Hl. Johannes I., Papst, Märtyrer"
+  },
+  "description": {
+    "la": "Natus in Tuscia, episcopus Ecclésiæ Romanæ electus est anno 523. Constantinopolim ad imperatorem Iustinum se contulit, legatus regis Theodorici; inde reversus et captus a rege, qui de exitu legationis indignabatur, in carcerem detrusus est Ravennæ, ibique mortuus anno 526.",
+    "es": "Nació en Toscana, y fue elegido papa el año 523. Enviado como legado de Teodorico a Justino, emperador de Constantinopla, fue detenido a su vuelta y encarcelado. Su gestión no había sido del agrado del monarca. Murió en Ravena el 526.",
+    "pt-BR": "João, eleito papa no ano de 523, sofreu por amor de Cristo e da Igreja a perseguição do rei ariano Teodorico, que o tinha enviado a Constantinopla junto ao imperador Justino I para pleitear a causa dos arianos. Morreu na cadeia em Ravena aos 18 de maio de 526 e seu corpo foi trasladado para a basílica vaticana em Roma, onde foi honrado como mártir.",
+    "it": "Giovanni († Ravenna, 18 maggio 526), papa dal 523, fu costretto da Teodorico, re dei Goti, a svolgere un’ambasceria presso l’imperatore d’Oriente in favore degli ariani, molto numerosi tra le popolazioni germaniche. Accettò di sostenere solo in parte la causa di quella componente ereticale; subì, pertanto, la vendetta del re e fu rinchiuso in carcere, dove morì. Il suo corpo fu trasferito a Roma nella basilica vaticana, dove venne onorato come martire.",
+    "fr": "Le pape Jean Ier (523-526) fut victime de la persécution exercée contre l’Église catholique par le roi arien Théodoric qui, de Ravenne, régnait sur une partie de la Péninsule italienne. Après avoir envoyé le pape à Constantinople pour une mission vouée d’avance à l’échec, Théodoric le jeta à son retour dans une prison de Ravenne, où il le laissa mourir de faim (526).",
+    "de": "Er wurde in der Toskana geboren und 523 zum Papst gewählt. Theoderich, welcher Italien zu diesem Zeitpunkt regierte, entsandte ihn zusammen mit einer Abordnung an den Kaiser nach Konstantinopel, welches er nie erreichte. Auf der Rückreise ließ Theoderich ihn aus Misstrauen festnehmen. Er starb wenige Tage darauf in Ravenna im Jahr 526."
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, fidélium remunerátor animárum, qui hunc diem beáti Ioánnis papæ martýrio consecrásti, exáudi preces pópuli tui, et præsta, ut, qui eius mérita venerámur, fídei constántiam imitémur. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "recompensa de las almas fieles,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has consagrado este día con el martirio del papa san Juan,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "escucha las oraciones de tu pueblo y concédenos imitar la constancia en la fe de aquel cuyos méritos veneramos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who reward faithful souls and who have consecrated this day by the martyrdom of Pope Saint John the First,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "graciously hear the prayers of your people and grant that we, who venerate his merits,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may imitate his constancy in the faith."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, recompensa dos vossos fiéis,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que consagrastes este dia com o martírio do papa São João I,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ouvi as preces do vosso povo e concedei que, celebrando seus méritos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "imitemos sua constância na fé."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, eterna ricompensa delle anime fedeli, che hai consacrato questo giorno con il martirio del papa san Giovanni I, esaudisci le preghiere del tuo popolo e concedi che, mentre onoriamo i suoi meriti, ne imitiamo la costanza nella fede. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "toi qui récompenses les âmes fidèles,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "écoute la prière de ton peuple en ce jour que tu as sanctifié par le martyre du bienheureux pape Jean Ier ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tandis que nous honorons ses mérites,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais que nous imitions sa constance dans la foi."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du selbst bist der Lohn deiner getreuen Knechte; wir ehren die Verdienste des Bekennerpapstes Johannes, den du am heutigen Tag zu dir heimgerufen hast. Auf seine Fürsprache gib auch uns einen festen Glauben und Geduld in aller Bedrängnis. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Io 3, 14b. 20-22",
+              "es": "Ap 3, 14b. 20-22",
+              "en-US": "Rev 3:14b, 20-22",
+              "pt-BR": "Jo 3, 14b. 20-22",
+              "it": "Ap 3, 14b. 20-22",
+              "fr": "Ap 3, 14b. 20-22",
+              "de": "Offb 3, 14b. 20-22"
+            },
+            "introduction": {
+              "la": "Léctio libri Apocalýpsis beáti Ioánnis apóstoli",
+              "es": "Lectura del libro del Apocalipsis",
+              "en-US": "A reading from the Book of Revelation",
+              "pt-BR": "Leitura do Apocalipse de São João",
+              "it": "Dal libro dell’Apocalisse di san Giovanni apostolo",
+              "fr": "Livre de l’Apocalypse de saint Jean",
+              "de": "Lesung aus der Offenbarung des Johannes"
+            },
+            "summary": {
+              "la": "Cenabo cum illo et ipse mecum.",
+              "es": "Cenaré con él y él conmigo",
+              "pt-BR": "Tomaremos a refeição, eu com ele e ele comigo.",
+              "it": "Cenerò con lui ed egli con me."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hæc dicit Amen, testis fidélis et verus, princípium creatúræ Dei: «Ecce sto ad óstium et pulso. Si quis audíerit vocem meam et aperúerit iánuam, introíbo ad illum et cenábo cum illo, et ipse mecum. Qui vícerit, dabo ei sedére mecum in throno meo, sicut et ego vici et sedi cum Patre meo in throno eius. Qui habet aurem, áudiat quid Spíritus dicat Ecclésiis»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Esto dice el Amén, el testigo fiel y veraz, el principio de la creación de Dios: «Mira, estoy de pie a la puerta y llamo. Si alguien escucha mi voz y abre la puerta, entraré en su casa y cenaré con él y él conmigo. Al vencedor le concederé sentarse conmigo en mi trono, como yo he vencido y me he sentado con mi Padre en su trono. El que tenga oídos, oiga lo que el Espíritu dice a las iglesias»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "‘The Amen, the faithful and true witness, the source of God's creation, says this: “Behold, I stand at the door and knock. If anyone hears my voice and opens the door, [then] I will enter his house and dine with him, and he with me. I will give the victor the right to sit with me on my throne, as I myself first won the victory and sit with my Father on his throne. “Whoever has ears ought to hear what the Spirit says to the churches.”"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "\"Assim fala o Amém. a testemunha fiel e verdadeira, o principio da criação de Deus: 'Eis que estou à porta, e bato; se algué, ouvir a minha voz e abrir a porta, eu entrarei na sua casa e tomaremos a refeição, eu com ele e ele comigo. Ao vencedor farei sentar-se comigo no meu trono, como também eu venci e estou sentado com meu Pai no seu trono. Quem tem ouvidos, ouça o que o Espírito diz às Igrejas'\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Così parla l’Amen, il Testimone degno di fede e veritiero, il Principio della creazione di Dio. Ecco: sto alla porta e busso. Se qualcuno ascolta la mia voce e mi apre la porta, io verrò da lui, cenerò con lui ed egli con me. II vincitore lo farò sedere con me, sul mio trono, come anche io ho vinto e siedo con il Padre mio sul suo trono. Chi ha orecchi, ascolti ciò che lo Spirito dice alle Chiese."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ainsi parle celui qui est l’Amen, le témoin fidèle et vrai, le principe de la création de Dieu : Voici que je me tiens à la porte, et je frappe. Si quelqu’un entend ma voix et ouvre la porte, j’entrerai chez lui ; je prendrai mon repas avec lui, et lui avec moi. Le vainqueur, je lui donnerai de siéger avec moi sur mon Trône, comme moi-même, après ma victoire, j’ai siégé avec mon Père sur son Trône. Celui qui a des oreilles, qu’il entende ce que l’Esprit dit aux Églises."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "So spricht Er, der „Amen“ heißt, der treue und zuverlässige Zeuge, der Anfang der Schöpfung Gottes: Ich stehe vor der Tür und klopfe an. Wer meine Stimme hört und die Tür öffnet, bei dem werde ich eintreten, und wir werden Mahl halten, ich mit ihm und er mit mir. Wer siegt, der darf mit mir auf meinem Thron sitzen, so wie auch ich gesiegt habe und mich mit meinem Vater auf seinen Thron gesetzt habe. Wer Ohren hat, der höre, was der Geist den Gemeinden sagt."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Vos dixi amícos, dicit Dóminus, quia ómnia quæ audívi a Patre meo nota feci vobis."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "A vosotros os llamo amigos —dice el Señor—, porque todo lo que he oído a mi Padre os lo he dado a conocer."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "I call you my friends, says the Lord, for I have made known to you all what the Father has told me."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Eu vos chamo amigos, pois vos dei a conhecer o que o Pai me revelou."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Vi ho chiamato amici, dice il Signore, perché tutto ciò che ho udito dal Padre mio l’ho fatto conoscere a voi."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Je vous appelle mes amis, dit le Seigneur, car tout ce que j’ai entendu de mon Père, je vous l’ai fait connaître."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "(So spricht der Herr:) Ich habe euch Freunde genannt; denn ich habe euch alles mitgeteilt, was ich gehört habe von meinem Vater."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Io 15, 15b",
+              "es": "Jn 15, 15b",
+              "pt-BR": "Jo 15, 15b",
+              "it": "Gv 15, 15b",
+              "fr": "Io 15, 15b",
+              "de": "Joh 15, 15b"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 22, 24-30",
+              "es": "Lc 22, 24-30",
+              "en-US": "Lk 22:24-30",
+              "pt-BR": "Lc 22, 24-30",
+              "it": "Lc 22, 24-30",
+              "fr": "Lc 22, 24-30",
+              "de": "Lk 22, 24-30"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal Vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Dispono vobis, sicut disposuit mihi Pater meus regnum.",
+              "es": "Preparo para vosotros el reino como me lo preparó mi Padre a mí",
+              "pt-BR": "Assim como o meu Pai me confiou o Reino, eu também vos confio o Reino.",
+              "it": "Io preparo per voi un regno, come il Padre mio l’ha preparato per me."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Facta est conténtio inter apostolos, quis eórum viderétur esse maior. Dixit autem eis: «Reges géntium dominántur eórum; et, qui potestátem habent super eos, benéfici vocántur. Vos autem non sic, sed qui maior est in vobis, fiat sicut iúnior; et, qui præcéssor est, sicut ministrátor. Nam quis maior est: qui recúmbit, an qui minístrat? Nonne qui recúmbit? Ego autem in médio vestrum sum, sicut qui minístrat. Vos autem estis, qui permansístis mecum in tentatiónibus meis; et ego dispóno vobis, sicut dispósuit mihi Pater meus regnum, ut edátis et bibátis super mensam meam in regno meo et sedeátis super thronos iudicántes duódecim tribus Israel»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, se produjo un altercado a propósito de quién de los apóstoles debía ser tenido como el mayor. Pero Jesús les dijo: «Los reyes de las naciones las dominan, y los que ejercen la autoridad se hacen llamar bienhechores. Vosotros no hagáis así, sino que el mayor entre vosotros se ha de hacer como el menor, y el que gobierna, como el que sirve. Porque ¿quién es más, el que está a la mesa o el que sirve? ¿Verdad que el que está a la mesa? Pues yo estoy en medio de vosotros como el que sirve. Vosotros sois los que habéis perseverado conmigo en mis pruebas, y yo preparo para vosotros el reino como me lo preparó mi Padre a mí, de forma que comáis y bebáis a mi mesa en mi reino, y os sentéis en tronos para juzgar a las doce tribus de Israel»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "A dispute arose also between them about which should be reckoned the greatest, but Jesus said to them, 'Among pagans it is the kings who lord it over them, and those who have authority over them are given the title Benefactor. This must not happen with you. No; the greatest among you must behave as if he were the youngest, the leader as if he were the one who serves. For who is the greater: the one at table or the one who serves? The one at table, surely? Yet here am I among you as one who serves! 'You are the men who have stood by me faithfully in my trials; and now I confer a kingdom on you, just as my Father conferred one on me: you will eat and drink at my table in my kingdom, and you will sit on thrones to judge the twelve tribes of Israel."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, houve uma discussão entre os apóstolos; sobre qual deles deveria ser considerado o maior? Jesus, porém, lhes disse: \"Os reis das nações domina sobre elas, e os que têm poder se fazem chamar benfeitores. Entre vós, não deve ser assim. Pelo contrário, o maior entre vós seja como o mais novo, o e o que manda, como quem está servindo. Afinal, quem é o maior, quem está sentado à mesa ou quem está servindo? Não é quem está sentando à mesa? Eu, porém, estou no meio de vós como aquele que serve. Vós ficastes comigo em minhas provações. Por isso, assim como o meu Pai me confiou o Reino, eu também vos confio o Reino. Vos havereis de comer e beber à minha mesa no meu Reino, e sentar-vos em tronos para julgar as doze tribos de Israel\""
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, nacque tra gli apostoli una discussione: chi di loro fosse da considerare più grande. Gesù disse: «I re delle nazioni le governano, e coloro che hanno potere su di esse sono chiamati benefattori. Voi però non fate così; ma chi tra voi è più grande diventi come il più giovane, e chi governa come colui che serve. Infatti chi è più grande, chi sta a tavola o chi serve? Non è forse colui che sta a tavola? Eppure io sto in mezzo a voi come colui che serve. Voi siete quelli che avete perseverato con me nelle mie prove e io preparo per voi un regno, come il Padre mio l’ha preparato per me, perché mangiate e beviate alla mia mensa nel mio regno. E siederete in trono a giudicare le dodici tribù di Israele»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, les Apôtres en arrivèrent à se quereller : lequel d’entre eux, à leur avis, était le plus grand ? Mais il leur dit : « Les rois des nations les commandent en maîtres, et ceux qui exercent le pouvoir sur elles se font appeler bienfaiteurs. Pour vous, rien de tel ! Au contraire, que le plus grand d’entre vous devienne comme le plus jeune, et le chef, comme celui qui sert. Quel est en effet le plus grand : celui qui est à table, ou celui qui sert ? N’est-ce pas celui qui est à table ? Eh bien moi, je suis au milieu de vous comme celui qui sert. Vous, vous avez tenu bon avec moi dans mes épreuves. Et moi, je dispose pour vous du Royaume, comme mon Père en a disposé pour moi. Ainsi vous mangerez et boirez à ma table dans mon Royaume, et vous siégerez sur des trônes pour juger les douze tribus d’Israël. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit entstand unter den Jüngern ein Streit darüber, wer von ihnen wohl der Größte sei. Da sagte Jesus: Die Könige herrschen über ihre Völker, und die Mächtigen lassen sich Wohltäter nennen. Bei euch aber soll es nicht so sein, sondern der Größte unter euch soll werden wie der Kleinste, und der Führende soll werden wie der Dienende. Welcher von beiden ist größer: wer bei Tisch sitzt oder wer bedient? Natürlich der, der bei Tisch sitzt. Ich aber bin unter euch wie der, der bedient. In allen meinen Prüfungen habt ihr bei mir ausgeharrt. Darum vermache ich euch das Reich, wie es mein Vater mir vermacht hat: Ihr sollt in meinem Reich mit mir an meinem Tisch essen und trinken, und ihr sollt auf Thronen sitzen und die zwölf Stämme Israels richten."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

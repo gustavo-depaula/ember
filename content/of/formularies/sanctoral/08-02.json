@@ -1,0 +1,866 @@
+{
+  "id": "sanctorale.08-02",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Eusebii Vercellensis, episcopi",
+    "es": "San Eusebio de Vercelli, obispo",
+    "en-US": "Saint Eusebius of Vercelli, bishop",
+    "pt-BR": "Santo Eusébio de Vercelli, bispo",
+    "it": "SANT’EUSEBIO DI VERCELLI, vescovo",
+    "fr": "Saint Eusèbe de Verceil, évêque",
+    "de": "Hl. Eusebius von Vercelli, Bischof"
+  },
+  "description": {
+    "la": "In Sardinia natus est initio sǽculi IV et, Romæ in clerum adscitus, anno 345 primus episcopus Vercellensis electus est. Religionem prædicatione propagavit et vitam monasticam instituit in sua diœcesi. Propter fidem, ab imperatore Constantino in exsilium pulsus, multa perpessus est. In patriam reversus strenue adlaboravit pro fidei restauratione contra Arianos. Mortuus est Vercellis anno 371.",
+    "es": "Nació en Cerdeña a principios del siglo IV, formó parte del clero de Roma y, el año 345, fue elegido primer obispo de Vercelli. Con su predicación, contribuyó al incremento de la religión cristiana e introdujo en su diócesis la vida monástica. Sufrió muchos sinsabores por la defensa de la fe, siendo desterrado por el emperador Constancio. Al regresar a su patria, trabajó asiduamente por la restauración de la fe, contra los arrianos. Murió en Vercelli el año 371.",
+    "pt-BR": "Eusébio (Sardenha, Itália, por volta do ano 300 - Vercelli, por volta do ano 371), eleito bispo de Vercelli, por volta do ano de 345, promoveu e testemunhou a fé nicena na divindade do Cristo e, por isso, teve que sofrer até o exílio (355-361). Instaurou em sua Igreja nova forma de vida em comum com os sacerdotes, animando-os no espírito de fraternidade e de mútua edificação. Seu sepultamento a 1º de agosto é lembrado pelo Martirológio Jeronimiano (séc. VI).",
+    "it": "Eusebio (Sardegna, inizio sec. IV - Vercelli, 371 ca.), vescovo di Vercelli, intraprese una tenace opera di evangelizzazione in quella Chiesa, allora molto estesa. Essendosi apertamente opposto all’imperatore, favorevole all’arianesimo, subì un lungo esilio. Secondo la testimonianza di sant’Ambrogio, diede forte impulso alla vita comune del clero. Il Martirologio geronimiano (sec. V-VI) lo ricorda il primo agosto.",
+    "fr": "Évêque de Verceil (Piémont) de 345 à 371, Eusèbe fut exilé en Orient pour sa fidélité à la foi en la divinité de Jésus Christ définie au concile de Nicée. À son retour d’exil (361), il voulut vivre en communauté avec les clercs qui partageaient son activité pastorale ; en cela, il fut un précurseur.",
+    "de": "Er wurde in Sardinien zu Beginn des 4.Jh. geboren, wurde Teil des Klerus von Rom und 345 zum ersten Bischof von Vercelli gewählt. Mit seiner Predigt trug er zur Festigung des christlichen Glaubens bei und führte das klösterliche Leben in seiner Gemeinde ein. Kaiser Konstantius ließ ihn verbannen, weil er unermüdlich den Glauben verteidigte. Nach der Rückkehr in seine Heimat arbeitete er ohne Unterlass an der Erneuerung des Glaubens und versuchte ihn gegen die Irrlehren der Arianer zu verteidigen. Er starb 371 in Vercelli."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Fac nos, Dómine Deus, in asserénda Fílii tui divinitáte, beáti Eusébii epíscopi constántiam imitári, ut, fidem servántes quam ipse dócuit, eiúsdem Fílii tui vitæ partícipes esse mereámur. Qui tecum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor y Dios nuestro,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos imitar la constancia del obispo san Eusebio de Verceli en la defensa de la divinidad de Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, perseverando en la fe que él nos enseñó,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "merezcamos participar de la vida de tu Hijo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Él, que vive y reina contigo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lead us, Lord God, to imitate the constancy of Saint Eusebius in affirming the divinity of your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that, by preserving the faith he taught as your Bishop,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may merit a share in the very life of your Son."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fazei-nos imitar a firmeza do bispo Santo Eusébio na proclamação da divindade de Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, perseverando na fé que ele ensinou,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "possamos participar da vida do vosso Filho."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ele, que é Deus, e convosco vive e reina,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Signore Dio, concedi a noi di imitare la fortezza del vescovo sant’Eusebio [di Vercelli] nel professare la divinità di Cristo, perché nella ferma adesione alla fede che egli insegnò siamo partecipi della vita del tuo Figlio. Egli è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accorde-nous, Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de savoir imiter le courage du bienheureux évêque Eusèbe de Verceil pour affirmer la divinité du Christ ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "gardant ainsi la foi qu’il a enseignée,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous obtiendrons de participer à la vie de ton Fils."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Wir bitten dich, Herr, unser Gott, gib, dass wir die Glaubenstreue des heiligen Bischofs Eusebius nachahmen, der die Lehre von der Gottheit Christi unerschrocken verteidigt hat, und lass uns teilhaben am göttlichen Leben deines Sohnes, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -10,6 +10,7 @@
   "dependencies": {
     "@ember/content-engine": "workspace:*",
     "@ember/liturgical": "workspace:*",
+    "@ember/missal-schema": "workspace:*",
     "date-fns": "*"
   }
 }

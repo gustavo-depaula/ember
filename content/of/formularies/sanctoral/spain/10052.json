@@ -1,0 +1,225 @@
+{
+  "id": "sanctorale.spain.10052",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "es": "Témporas de acción de gracias y de petición Otra misa para el día de acción de gracias"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que canten de alegría las naciones porque riges el mundo con justicia y gobiernas las naciones de la tierra."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Sal 66, 5"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Padre de bondad, que, en tu providencia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "entregaste la tierra al hombre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos que podamos vivir de sus frutos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y emplearlos siempre en alabanza tuya y en bien de todos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Recibe, Señor, este sacrificio de acción de gracias"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por los dones que hasta hoy hemos recibido de tu bondad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y continúa mostrando tu amor de Padre"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a quienes tan generosamente has protegido,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "así creceremos sin cesar en tu amor"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y seremos más fieles en tu servicio."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.spain.10052.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "text",
+                "text": "El más apropiado es el Prefacio común IV."
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "La tierra ha dado su fruto; nos bendice el Señor, nuestro Dios."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Sal 66, 7"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Padre nuestro, fuente de todo bien,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nunca defraudas la esperanza de los que a ti acuden,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sino que atiendes siempre los deseos de los que te suplican,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te damos gracias porque has colmado de bienes a tus hijos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y te pedimos que, por esta eucaristía que hemos celebrado,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos libres de todo mal."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

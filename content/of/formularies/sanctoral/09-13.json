@@ -1,0 +1,1517 @@
+{
+  "id": "sanctorale.09-13",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Ioannis Chrysostomi, episcopi et Ecclésiæ doctoris",
+    "es": "San Juan Crisóstomo, obispo y doctor de la Iglesia",
+    "en-US": "Saint John Chrysostom, bishop and doctor of the Church",
+    "pt-BR": "São João Crisóstomo, bispo e doutor da Igreja",
+    "it": "SAN GIOVANNI CRISOSTOMO, vescovo e dottore della Chiesa",
+    "fr": "Saint Jean Chrysostome, évêque et docteur de l’Église",
+    "de": "Hl. Johannes Chrysostomus, Bischof, Kirchenlehrer"
+  },
+  "description": {
+    "la": "Antiochiæ natus est circa annum 349; optime educatus, vitam asceticam cœpit, et sacerdotio initiatus, magno cum fructu munere prædicationis functus est. Episcopus Constantinopolitanus anno 397 electus, optimum se præbuit pastorem, mores cleri et fidélium ad amussim redigere satagens. Odio aulæ imperialis et invidorum obrutus, semel et bis exsulare coactus est; ærumnis confectus, mortuus est apud Comanam in Ponto, die 14 septembris anni 407. Multa dixit et scripsit ad doctrinam catholicam explicandam et vitam christianam recte informandam, ita ut nómine Chrysostomi appellari meruerit.",
+    "es": "Nació en Antioquía, hacia el año 349; después de recibir una excelente formación, comenzó por dedicarse a la vida ascética. Más tarde, fue ordenado sacerdote y ejerció, con gran provecho, el ministerio de la predicación. El año 397 fue elegido obispo de Constantinopla, cargo en el que se comportó como un pastor ejemplar, esforzándose por llevar a cabo una estricta reforma de las costumbres del clero y de los fieles. La oposición de la corte imperial y de los envidiosos lo llevó por dos veces al destierro. Acabado por tantas miserias, murió en Comuna, en el Ponto, el día 14 de septiembre del año 407. Contribuyó en gran manera, por su palabra y escritos, al enriquecimiento de la doctrina cristiana, mereciendo el apelativo de Crisóstomo, es decir, «Boca de oro».",
+    "pt-BR": "Crisóstomo (Antioquia, por volta do ano de 349 - Comana, junto ao Mar Negro, 14 de setembro de 407) foi anunciador fiel da Palavra de Deus, como presbítero em Antioquia (386-397) e como bispo em Constantinopla (397-404), onde se dedicou à evangelização e à catequese, à obra litúrgica, caritativa e missionária. A anáfora eucarística por ele reelaborada de forma definitiva a partir do antigo esquema antioqueno é ainda hoje a mais difundida em todo o Oriente. Sua pregação no campo moral e social acarretou-lhe duras oposições e, enfim, o desterro (404-407), onde faleceu. Em sua obra de mestre e doutor, destaca-se o comentário às Escrituras, especialmente às cartas paulinas, e seu contributo à doutrina eucarística.",
+    "it": "Giovanni (Antiochia di Siria, attuale Antakya, Turchia, metà sec. IV - Comana Pontica, 14 settembre 407) ebbe un’accurata formazione culturale, nella prospettiva di succedere al padre quale funzionario imperiale. Invece si ritirò nel deserto, immergendosi nello studio della Scrittura. Tornato in città e ordinato presbitero, affascinò le folle con la sua predicazione, tanto da essere chiamato «Crisostomo» («bocca d’oro»). Eletto vescovo di Costantinopoli, ebbe particolare attenzione alla liturgia: la sua anafora eucaristica è ancora oggi la più diffusa in Oriente. Predicò il Vangelo con franchezza e coraggio, denunciando le colpe del clero e i soprusi dei potenti. Il suo zelo gli attirò molti nemici: deposto dalla carica episcopale e condannato all’esilio, morì stremato dalle fatiche sopportate lungo il viaggio.",
+    "fr": "Le patriarche de Constantinople Jean Ier (349-404), qui devait recevoir le nom de Chrysostome (« Bouche d’or ») en raison de ses dons exceptionnels d’orateur, avait été formé en Syrie à la rude discipline des moines. Il fut avant tout un témoin intrépide de l’Évangile, le défenseur des pauvres face au luxe insolent des riches. C’est pour cela qu’il mourut en exil.",
+    "de": "Der heilige Johannes Chrysostomus wurde 349 in Antiochien geboren, empfing eine ausgezeichnete Ausbildung und widmete sich dem asketischen Leben. Später wurde er zum Priester geweiht und übte mit großem Erfolg seine Tätigkeit als Prediger aus. 397 wurde er zum Bischof von Konstantinopel gewählt und übte dieses Amt als beispielhafter Seelenführer aus und arbeitete unermüdlich an der Reform des Brauchtums. Trotz allem machte sich Johannes auch einige Feinde und Neider unter dem Hofstaat des Reiches und wurde zweimal in die Verbannung geschickt. Als er danach ans Ostufer des Schwarzen Meeres gebracht werden sollte, starb er unterwegs an Erschöpfung (407). Seine Predigten und Schriften bereicherten so sehr die christliche Lehre, dass er auch den Beinamen “Goldmund” trägt."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Qui docti fúerint, fulgébunt quasi splendor firmaménti, et qui ad iustítiam erúdiunt multos, quasi stellæ in perpétuas æternitátes."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Los sabios brillarán como el fulgor del firmamento, y los que enseñaron a muchos la justicia, como las estrellas, por toda la eternidad."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Those who are wise will shine brightly like the splendor of the firmament and those who lead the many to justice shall be like the stars for ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Os sábios brilharão como o esplendor do firmamento;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e os que ensinam a justiça para muitos brilharão como as estrelas para sempre."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "I saggi risplenderanno come il firmamento; hanno indotto molti alla giustizia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "risplenderanno come le stelle per sempre."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ceux qui ont l’intelligence resplendiront comme la splendeur du firmament,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et ceux qui sont des maîtres de justice pour la multitude brilleront comme les étoiles pour toujours et à jamais."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, in te sperántium fortitúdo, qui beátum Ioánnem Chrysóstomum epíscopum mira eloquéntia et tribulatiónis experiménto claréscere voluísti, da nobis,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quǽsumus, ut, eius doctrínis erudíti, invíctæ patiéntiæ roborémur exémplo. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fortaleza de los que en ti esperan,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has hecho brillar al obispo san Juan Crisóstomo por su admirable elocuencia y su fortaleza en la tribulación,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos que, instruidos por sus enseñanzas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos fortalezca el ejemplo de su invencible paciencia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, strength of those who hope in you,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who willed that the Bishop Saint John Chrysostom should be illustrious by his wonderful eloquence and his experience of suffering,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant us, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, instructed by his teachings,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may be strengthened through the example of his invincible patience."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, força dos que esperam em vós,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quisestes que o bispo São João Crisóstomo brilhasse por sua admirável eloquência e coragem nas tribulações;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei que, instruídos por seus ensinamentos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sejamos fortalecidos pelo exemplo de sua invencível constância."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, forza di chi spera in te, che hai fatto risplendere il santo vescovo Giovanni Crisostomo per la mirabile eloquenza e la perseveranza nella tribolazione, fa' che, illuminati dai suoi insegnamenti, siamo rafforzati dal suo esempio di eroica costanza. Per il nostro Signore Gesù Cristo, tuo Figlio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "force de ceux qui espèrent en toi,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as rendu illustre le bienheureux évêque Jean Chrysostome par une merveilleuse éloquence et par les épreuves qu’il a endurées ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous la grâce de suivre ses enseignements pour avoir la force d’imiter sa patience inébranlable."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Stärke aller, die auf dich vertrauen. Du hast dem heiligen Johannes Chrysostomus die Gabe der Rede geschenkt und ihm in den Bedrängnissen seines Lebens geholfen. Belehre uns durch sein Wort und ermutige uns durch sein Vorbild. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Semen est verbum Dei, sator autem Christus; omnis qui ínvenit eum, manébit in ætérnum."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "La semilla es la palabra de Dios."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "The seed is the word of God, Christ is the sower; all who come to him will live for ever."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Semente é a Palavra de Deus, o Cristo é o Semeador, todo aquele que o encontra vida eterna encontrou."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "La semence est la parole de Dieu ; le semeur est le Christ ; celui qui le trouve demeure pour toujours."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Der Samen ist das Wort Gottes, der Sämann ist Christus. Wer Christus findet, der bleibt in Ewigkeit."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sacrifícium tibi pláceat, Deus, in commemoratióne beáti Ioánnis Chrysóstomi libénter exhíbitum, quo monénte, nos étiam totos tibi réddimus collaudántes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que te agrade el sacrificio que te ofrecemos con alegría en la memoria de san Juan Crisóstomo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cuyas enseñanzas nos impulsan a alabarte y a entregarnos enteramente a ti."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the sacrifice which we gladly present in commemoration of Saint John Chrysostom be pleasing to you, O God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "for, taught by him,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we, too,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "give ourselves entirely to you in praise."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, possa agradar-vos o sacrifício oferecido com alegria na comemoração de São João Crisóstomo;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fazei que, por sua exortação, também nós nos entreguemos totalmente ao vosso louvor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sia a te gradito, o Dio, il sacrificio che ti offriamo con gioia nella memoria di san Giovanni Crisostomo, che ci ha insegnato a offrirti tutta la nostra vita nell’unico canto di lode. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Daigne accepter,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ce sacrifice que nous t’offrons de grand cœur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en faisant mémoire du bienheureux Jean Chrysostome :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fidèles à son enseignement,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous voulons nous offrir tout entiers en célébrant ta louange."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, sieh auf die Gaben, die wir dir am Gedenktag des heiligen Johannes Chrysostomus weihen. Da wir getreu seiner Weisung uns selbst dir schenken, nimm mit dem Opfer des Lobes uns alle an. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nos prædicámus Christum crucifíxum, Christum, Dei virtútem et Dei sapiéntiam."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nosotros predicamos a Cristo crucificado: fuerza de Dios y sabiduría de Dios."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "We proclaim Christ crucified;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Christ, the power of God and the wisdom of God."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nós anunciamos Cristo crucificado,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "poder e sabedoria de Deus."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Noi annunciamo Cristo crocifisso, potenza di Dio e sapienza di Dio."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nous proclamons le Christ crucifié,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "le Christ, puissance de Dieu et sagesse de Dieu."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concéde, miséricors Deus, ut mystéria, quæ pro beáti Ioánnis Chrysóstomi commemoratióne súmpsimus, nos in tua caritáte confírment, et tuæ fidéles confessóres veritátis effíciant. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concédenos, Dios misericordioso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que los sacramentos recibidos en la memoria de san Juan Crisóstomo nos confirmen en tu amor y nos conviertan en fieles testigos de tu verdad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant, O merciful God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that these mysteries we have received as we commemorate Saint John Chrysostom,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may confirm us in your love and enable us to be faithful in confessing your truth."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus de misericórdia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei que os mistérios recebidos na comemoração de São João Crisóstomo nos confirmem em vossa caridade e nos tornem fiéis testemunhas da vossa verdade."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedi, Dio misericordioso, che i santi misteri, ricevuti nella memoria di san Giovanni Crisostomo, ci confermino nel tuo amore e ci rendano fedeli testimoni della tua verità. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu de miséricorde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que les mystères auxquels nous avons communié,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en faisant mémoire du bienheureux Jean Chrysostome,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous affermissent dans ton amour et fassent de nous les témoins fidèles de ta vérité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, stärke durch die heiligen Gaben unsere Liebe zu dir, damit wir nach dem Beispiel des heiligen Chrysostomus getreu deine Botschaft bezeugen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

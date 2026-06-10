@@ -1,0 +1,86 @@
+[
+  {
+    "match": "do qu me deu",
+    "replace": "do que me deu",
+    "lang": "pt-BR",
+    "note": "sanctorale 11-02: OCR dropped the final e of 'que'"
+  },
+  {
+    "match": "esinter",
+    "replace": "es inter",
+    "lang": "la",
+    "note": "Latin 'dignátus esinter labóres': missing space"
+  },
+  {
+    "match": "o .seu amor",
+    "replace": "o seu amor",
+    "lang": "pt-BR",
+    "note": "stray period mid-text"
+  },
+  {
+    "match": "(E . alleluia )",
+    "replace": "(E. T. alleluia)",
+    "lang": "en-US",
+    "note": "Easter Time abbreviation mangled upstream"
+  },
+  {
+    "match": "with christ",
+    "replace": "with Christ",
+    "lang": "en-US",
+    "note": "lowercase Christ after 'with'"
+  },
+  {
+    "match": "aSim",
+    "replace": "assim",
+    "lang": "pt-BR",
+    "note": "OCR of doubled ss rendered as capital S"
+  },
+  {
+    "match": "rnJentras",
+    "replace": "mientras",
+    "lang": "es",
+    "note": "Spanish OCR m→rn, i→J"
+  },
+  {
+    "match": "sacerdoTali",
+    "replace": "sacerdotali",
+    "lang": "la",
+    "note": "mid-word capital"
+  },
+  {
+    "match": "sacerdótesDeo",
+    "replace": "sacerdótes Deo",
+    "lang": "la",
+    "note": "missing space"
+  },
+  {
+    "match": "beatárumNous",
+    "replace": "beatárum Nous",
+    "lang": "fr",
+    "note": "concatenated Latin+French"
+  },
+  {
+    "match": "tuórumSeigneur",
+    "replace": "tuórum Seigneur",
+    "lang": "fr",
+    "note": "concatenated Latin+French"
+  },
+  {
+    "match": "sanAccogli",
+    "replace": "san Accogli",
+    "lang": "it",
+    "note": "missing space after 'san'"
+  },
+  {
+    "match": "Procesion",
+    "replace": "Procession",
+    "lang": "en-US",
+    "note": "palm-sunday metadata typo"
+  },
+  {
+    "match": "Comemoration",
+    "replace": "Commemoration",
+    "lang": "en-US",
+    "note": "lord's-supper section heading typo"
+  }
+]

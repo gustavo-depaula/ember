@@ -1,0 +1,1079 @@
+{
+  "id": "sanctorale.06-19",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Romualdi, abbatis",
+    "es": "San Romualdo, abad",
+    "en-US": "Saint Romuald, abbot",
+    "pt-BR": "São Romualdo, abade",
+    "it": "SAN ROMUALDO, abate",
+    "fr": "Saint Romuald, abbé",
+    "de": "Hl. Romuald, Abt, Ordensgründer"
+  },
+  "description": {
+    "la": "Natus est Ravennæ circa medium sǽculum X. Vitam eremiticam aggressus, per plures annos terras peragravit, solitudinem quærens et parvula monasteria ædificans. Contra pravos mores monachorum illius temporis strenue est renisus, dum exercitio virtutum ad perfectionis vitam contendit. Mortuus est circa annum 1027.",
+    "es": "Nació en Ravena, hacia la mitad del siglo X. Practicó la vida eremítica y, durante varios años, recorrió diversos lugares en busca de la soledad y fundando pequeños monasterios. Luchó denodadamente contra la relajación de costumbres de los monjes de su tiempo, mientras se esforzaba en adquirir la propia perfección. Murió hacia el año 1027.",
+    "pt-BR": "Romualdo (Ravena, Itália, meados do séc. X - 19 de junho de 1027), sacerdote e asceta, viveu com extraordinária intensidade e coerência o ideal monástico nos três graus: o cenóbio (Santo Apolinário em Classe), o ermo (Camáldoli, perto de Arezzo) e a evangelização dos pagãos em terras distantes. Seus discípulos chegaram até a Polônia.",
+    "it": "Romualdo (Ravenna, metà sec. X - Valdicastro, Ancona, 19 giugno 1027), dopo una breve esperienza cenobitica nell’abbazia di Sant’Apollinare in Classe, intraprese una rigorosa vita eremitica, sollecitando con il proprio esempio la riforma del monachesimo e dando vita ad alcune fondazioni, tra cui Camaldoli, presso Arezzo. San Pier Damiani ne scrisse la Vita.",
+    "fr": "Après une jeunesse dissipée, Romuald († vers 1027) se fit moine à Ravenne. Mais il souhaitait unir la vie de communauté et celle des ermites. Il chercha longtemps sa voie avant de se fixer à Camaldoli, dans les Apennins (Italie). Les Camaldules ont le choix entre trois types de vie consacrée : l’observance commune des moines bénédictins, la vie recluse, ou une harmonisation des deux.",
+    "de": "Er wurde in Ravenna in der Mitte des 10. Jh. geboren, wurde Eremit und durchwanderte über Jahre verschiedene Orte auf der Suche nach Abgeschiedenheit und gründete einige kleinere Kloster. Er kämpfte entschlossen gegen die Lockerungen im klösterlichen Leben seiner Zeit, während er den Weg seiner persönlichen Vollkommenheit nie aus den Augen verlor. Er starb im Jahr 1027."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui per beátum Romuáldum in Ecclésia tua eremíticam vitam renovásti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concéde, ut, nosmetípsos abnegántes et Christum sequéntes, felíciter ad cæléstia regna mereámur ascéndere. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has renovado en tu Iglesia la vida eremítica por medio de san Romualdo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "haz que, negándonos a nosotros mismos y siguiendo a Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "merezcamos llegar felizmente al reino de los cielos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who through Saint Romuald renewed the manner of life of hermits in your Church,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that, denying ourselves and following Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may merit to reach the heavenly realms on high. Through our Lord Jesus Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que por São Romualdo renovastes na vossa Igreja a vida eremítica,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei que, renunciando a nós mesmos e seguindo o Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mereçamos chegar felizes ao reino celestial."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che per mezzo di san Romualdo hai rinnovato nella tua Chiesa la vita eremitica, donaci di rinnegare noi stessi e di seguire Cristo, per giungere nella gioia al regno dei cieli. Per il nostro Signore Gesù Cristo, tuo Figlio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par saint Romuald,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as renouvelé la vie érémitique dans ton Église ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous de renoncer à nous-mêmes pour suivre le Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et de parvenir ainsi au royaume des Cieux."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Freund der Heiligen, du hast den Abt Romuald berufen, einen Orden für Mönche zu gründen, die in strenger Einsamkeit leben. Schenke uns die Gnade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "uns selbst zu verleugnen und Christus nachzufolgen, damit wir mit ihm in die Herrlichkeit des Himmels gelangen, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 130, 1. 2. 3",
+              "es": "Sal 130, 1. 2. 3",
+              "en-US": "Ps 130:1, 2",
+              "pt-BR": "Sl 130, 1. 2. 3",
+              "it": "Sal 130, 1. 2. 3",
+              "fr": "Ps 130, 1. 2. 3",
+              "de": "Ps 131"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Custódi ánimam meam in pace apud te, Dómine."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Guarda mi alma en la paz, junto a ti, Señor."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "In you, Lord, I have found my peace."
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": "O Lord, my heart is not proud nor haughty my eyes. I have not gone after things too great nor marvels beyond me."
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": "Truly I have set my soul in silence and peace. A weaned child on its mother's breast, even so is my soul."
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": "O Israel, hope in the Lord both now and for ever."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Guardai-me, em paz, junto a vós, ó Senhor!"
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Garde mon âme dans la paix près de toi, Seigneur."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Herr, bewahre meine Seele in deinem Frieden!"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dómine, non est exaltátum cor meum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "neque eláti sunt óculi mei;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "neque ambulávi in magnis,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "neque in mirabílibus super me."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vere pacátam et quiétam feci ánimam meam,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sicut ablactátus in sinu matris suæ,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sicut ablactátus, ita in me est ánima mea."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Speret Israel in Dómino,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ex hoc nunc et usque in sǽculum."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Señor, mi corazón no es ambicioso, ni mis ojos altaneros;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "no pretendo grandezas que superan mi capacidad."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sino que acallo y modero mis deseos, como un niño en brazos de su madre; como un niño saciado así está mi alma dentro de mí."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Espere Israel en el Señor ahora y por siempre."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Senhor, meu coração não é orgulhoso,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nem se eleva arrogante o meu olhar:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Não ando à procura de grandezas,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nem tenho pretensões ambiciosas!."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fiz calar e sossegar a minha alma;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ela está em grande paz dentro de mim,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "como a criança bem tranquila, amamentada no regaço acolhedor de sua mãe"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Confia no Senhor, ó Israel,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "desde agora e por toda a eternidade!"
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seigneur, je n’ai pas le cœur fier ni le regard ambitieux ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "je ne poursuis ni grands desseins,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ni merveilles qui me dépassent."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Non, mais je tiens mon âme égale et silencieuse ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mon âme est en moi comme un enfant,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "comme un petit enfant contre sa mère."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Attends le Seigneur, Israël,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "maintenant et à jamais."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Herr, mein Herz ist nicht stolz,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nicht hochmütig blicken meine Augen."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich gehe nicht um mit Dingen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die mir zu wunderbar und zu hoch sind."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich ließ meine Seele ruhig werden und still;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wie ein kleines Kind bei der Mutter ist meine Seele still in mir."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Israel, harre auf den Herrn von nun an bis in Ewigkeit!"
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

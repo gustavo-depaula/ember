@@ -1,0 +1,4967 @@
+{
+  "id": "tempore.easter.week-2.wednesday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Hebdomada II Feria quarta",
+    "es": "II Semana Miércoles",
+    "en-US": "Wednesday of the Ii Week of Easter",
+    "pt-BR": "Quarta-feira da Ii Semana da Páscoa",
+    "it": "II Settimana Mercoledì",
+    "fr": "MERCREDI DE LA 2e SEMAINE",
+    "de": "MITTWOCH der zweiten Osterwoche"
+  },
+  "season": "easter",
+  "color": "white",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Confitébor tibi in pópulis, Dómine,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et narrábo nomen tuum frátribus meis,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "allelúia."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te daré gracias entre las naciones, Señor; contaré tu fama a mis hermanos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Aleluya."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "I will praise you, Lord, among the nations; I will tell of your name to my kin, alleluia."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Eu vos louvarei, Senhor, entre os povos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e anunciarei o vosso nome aos meus irmãos, aleluia."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ti loderò, Signore, tra le genti, e annuncerò il tuo nome ai miei fratelli."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Alleluia."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Je te rendrai grâce parmi les peuples, Seigneur ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "je proclamerai ton nom devant mes frères, alléluia."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ich will dir danken, Herr, vor den Völkern; deinen Namen will ich meinen Brüdern verkünden. Halleluja."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Annua recoléntes mystéria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quibus per renovátam oríginis dignitátem humána substántia spem resurrectiónis accépit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cleméntiam tuam, Dómine,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "supplíciter exorámus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, quod fide recólimus, perpétua dilectióne capiámus."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Al celebrar un año más los misterios en los que la humanidad recibió la esperanza de la resurrección recuperando la dignidad original,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "invocamos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, tu compasión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que percibamos siempre en el amor lo que hemos celebrado con fe."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "As we recall year by year the mysteries by which, through the restoration of its original dignity, human nature has received the hope of rising again,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we earnestly beseech your mercy, Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that what we celebrate in faith we may possess in unending love."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, ao comemorar cada ano os mistérios pelos quais renovastes a dignidade original da pessoa humana e lhe destes a esperança da ressurreição,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "imploramos humildemente a vossa clemência,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a fim de vivermos sempre com amor o que celebramos com fé."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Padre, che nella Pasqua del tuo Figlio hai ristabilito l’uomo nella dignità perduta e gli hai dato la speranza della risurrezione, fa' che accogliamo nell’amore il mistero celebrato ogni anno nella fede. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Chaque année, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu nous fais revivre le mystère pascal où la nature humaine, renouvelée dans sa dignité originelle,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "reçoit l’espérance de la résurrection ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous implorons humblement ta bonté :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne-nous de toujours accueillir avec amour ce que nous célébrons dans la foi."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, in den österlichen Geheimnissen, die wir jedes Jahr feiern,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "hast du dem Menschen seine ursprüngliche Würde wiedergeschenkt und uns die sichere Hoffnung gegeben, dass wir auferstehen werden. Gib, dass die Erlösung,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "die wir gläubig feiern, in täglichen Werken der Liebe an uns sichtbar wird."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Act 5, 17-26",
+              "es": "Hch 5, 17-26",
+              "en-US": "Acts 5:17–26",
+              "pt-BR": "At 5, 17-26",
+              "it": "At 5,17-26",
+              "fr": "Ac 5, 17-26",
+              "de": "Apg 5, 17-26"
+            },
+            "introduction": {
+              "la": "Léctio Actuum Apostolórum",
+              "es": "Lectura del libro de los Hechos de los Apóstoles",
+              "en-US": "A reading from the Acts of the Apostles",
+              "pt-BR": "Leitura dos Atos dos Apóstolos",
+              "it": "Dagli Atti degli Apostoli",
+              "fr": "Livre des Actes des Apôtres",
+              "de": "Lesung aus der Apostelgeschichte"
+            },
+            "summary": {
+              "la": "Ecce viri quos posuistis in carcere sunt in templo docentes pópulum",
+              "es": "Mirad, los hombres que metisteis en la cárcel están en el templo, enseñando al pueblo",
+              "pt-BR": "Os homens que vós pusestes na prisão estão no Templo ensinando o povo!",
+              "it": "Ecco, gli uomini che avete messo in carcere si trovano nel tempio a insegnare al popolo."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In diébus illis: Exsúrgens princeps sacerdótum et omnes, qui cum illo erant, quæ est haéresis sadducæórum, repléti sunt zelo et iniecérunt manus in apóstolos et posuérunt illos in custódia pública. Angelus autem Dómini per noctem apéruit iánuas cárceris et edúcens eos dixit: «Ite et stantes loquímini in templo plebi ómnia verba vitæ huius». Qui cum audíssent, intravérunt dilúculo in templum et docébant. Advéniens autem princeps sacerdótum et, qui cum eo erant, convocavérunt concílium et omnes senióres filiórum Israel et misérunt in cárcerem, ut adduceréntur illi. Cum veníssent autem minístri, non invenérunt illos in cárcere; revérsi autem nuntiavérunt dicéntes: «Cárcerem invénimus clausum cum omni diligéntia et custódes stantes ad iánuas; aperiéntes autem intus néminem invénimus!». Ut audiérunt autem hos sermónes, magistrátus templi et príncipes sacerdótum ambigébant de illis quidnam fíeret illud. Advéniens autem quidam nuntiávit eis: «Ecce viri, quos posuístis in cárcere, sunt in templo stantes et docéntes pópulum». Tunc ábiens magistrátus cum minístris adducébat illos, non per vim; timébant enim pópulum, ne lapidaréntur."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquellos días, el sumo sacerdote y todos los suyos, que integran la secta de los saduceos, en un arrebato de celo, prendieron a los apóstoles y los metieron en la cárcel pública. Pero, por la noche, el ángel del Señor les abrió las puertas de la cárcel y los sacó fuera, diciéndoles: «Marchaos y, cuando lleguéis al templo, explicad al pueblo todas estas palabras de vida». Entonces ellos, al oírlo, entraron en el templo al amanecer y se pusieron a enseñar. Llegó entre tanto el sumo sacerdote con todos los suyos, convocaron el Sanedrín y el pleno de los ancianos de los hijos de Israel, y mandaron a la prisión para que los trajesen. Fueron los guardias, no los encontraron en la cárcel, y volvieron a informar, diciendo: «Hemos encontrado la prisión cerrada con toda seguridad, y a los centinelas en pie a las puertas; pero, al abrir, no encontramos a nadie dentro». Al oír estas palabras, ni el jefe de la guardia del templo ni los sumos sacerdotes atinaban a explicarse qué había pasado. Uno se presentó, avisando: «Mirad, los hombres que metisteis en la cárcel están en el templo, enseñando al pueblo». Entonces el jefe salió con los guardias y se los trajo, sin emplear la fuerza, por miedo a que el pueblo los apedrease."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The high priest intervened with all his supporters from the party of the Sadducees. Prompted by jealousy, they arrested the apostles and had them put in the common gaol. But at night the angel of the Lord opened the prison gates and said as he led them out, 'Go and stand in the Temple, and tell the people all about this new Life'. They did as they were told; they went into the Temple at dawn and began to preach. When the high priest arrived, he and his supporters convened the Sanhedrin - this was the full Senate of Israel - and sent to the gaol for them to be brought. But when the officials arrived at the prison they found they were not inside, so they went back and reported, 'We found the gaol securely locked and the warders on duty at the gates, but when we unlocked the door we found no one inside'. When the captain of the Temple and the chief priests heard this news they wondered what this could mean. Then a man arrived with fresh news. 'At this very moment' he said 'the men you imprisoned are in the Temple. They are standing there preaching to the people.' The captain went with his men and fetched them. They were afraid to use force in case the people stoned them."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naqueles dias, levantaram-se o sumo sacerdote e todos os do seu partido - isto é, o partido dos saduceus - cheios de raiva e mandaram prender os apóstolos e lançá-los na cadeia pública. Porém, durante a noite, o anjo do Senhor abriu as portas da prisão e os fez sair, dizendo: \"Ide falar ao povo, no Templo, sobre tudo o que se refere a este modo de viver\". Eles obedeceram e, ao amanhecer, entraram no Templo e começaram a ensinar. O sumo sacerdote chegou com os seus partidários e convocou o Sinédrio e o Conselho formado pelas pessoas importantes do povo de Israel. Então mandaram buscar os apóstolos à prisão. Mas, ao chegarem à prisão, os servos não os encontraram e voltaram dizendo: \"Encontramos a prisão fechada, com toda segurança, e os guardas estavam a postos na frente da porta. Mas, quando abrimos a porta, não encontramos ninguém lá dentro\". Ao ouvirem essa notícia, o chefe da guarda do Templo e os sumos sacerdotes não sabiam o que pensar e perguntavam-se o que poderia ter acontecido. Chegou alguém que lhes disse: \"Os homens que vós pusestes na prisão estão no Templo ensinando o povo!\" Então o chefe da guarda do Templo saiu com os guardas e trouxe os apóstolos, mas sem violência, porque eles tinham medo que o povo os atacasse com pedras."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quei giorni, si levò il sommo sacerdote con tutti quelli della sua parte, cioè la setta dei sadducei, pieni di gelosia, e, presi gli apostoli, li gettarono nella prigione pubblica. Ma, durante la notte, un angelo del Signore aprì le porte del carcere, li condusse fuori e disse: «Andate e proclamate al popolo, nel tempio, tutte queste parole di vita». Udito questo, entrarono nel tempio sul far del giorno e si misero a insegnare. Quando arrivò il sommo sacerdote con quelli della sua parte, convocarono il sinedrio, cioè tutto il senato dei figli d’Israele; mandarono quindi a prelevare gli apostoli nella prigione. Ma gli inservienti, giunti sul posto, non li trovarono nel carcere e tornarono a riferire: «Abbiamo trovato la prigione scrupolosamente sbarrata e le guardie che stavano davanti alle porte, ma, quando abbiamo aperto, non vi abbiamo trovato nessuno». Udite queste parole, il comandante delle guardie del tempio e i capi dei sacerdoti si domandavano perplessi a loro riguardo che cosa fosse successo. In quel momento arrivò un tale a riferire loro: «Ecco, gli uomini che avete messo in carcere si trovano nel tempio a insegnare al popolo». Allora il comandante uscì con gli inservienti e li condusse via, ma senza violenza, per timore di essere lapidati dal popolo."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ces jours-là, intervint le grand prêtre, ainsi que tout son entourage, c’est-à-dire le groupe des sadducéens, qui étaient remplis d’une ardeur jalouse pour la Loi. Ils mirent la main sur les Apôtres et les placèrent publiquement sous bonne garde. Mais, pendant la nuit, l’ange du Seigneur ouvrit les portes de la prison et les fit sortir. Il leur dit : « Partez, tenez-vous dans le Temple et là, dites au peuple toutes ces paroles de vie. » Ils l’écoutèrent ; dès l’aurore, ils entrèrent dans le Temple, et là, ils enseignaient. Alors arriva le grand prêtre, ainsi que son entourage. Ils convoquèrent le Conseil suprême, toute l’assemblée des anciens d’Israël, et ils envoyèrent chercher les Apôtres dans leur cachot. En arrivant, les gardes ne les trouvèrent pas à la prison. Ils revinrent donc annoncer : « Nous avons trouvé le cachot parfaitement verrouillé, et les gardes en faction devant les portes ; mais, quand nous avons ouvert, nous n’avons trouvé personne à l’intérieur. » Ayant entendu ce rapport, le commandant du Temple et les grands prêtres, tout perplexes, se demandaient ce qu’il adviendrait de cette affaire. Là-dessus, quelqu’un vient leur annoncer : « Les hommes que vous aviez mis en prison, voilà qu’ils se tiennent dans le Temple et enseignent le peuple ! » Alors, le commandant partit avec son escorte pour les ramener, mais sans violence, parce qu’ils avaient peur d’être lapidés par le peuple."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jenen Tagen erhoben sich voll Eifersucht der Hohepriester und alle, die auf seiner Seite standen, nämlich die Gruppe der Sadduzäer. Sie ließen die Apostel verhaften und in das öffentliche Gefängnis werfen. Ein Engel des Herrn aber öffnete nachts die Gefängnistore, führte sie heraus und sagte: Geht, tretet im Tempel auf, und verkündet dem Volk alle Worte dieses Lebens! Sie gehorchten und gingen bei Tagesanbruch in den Tempel und lehrten. Währenddessen kam der Hohepriester mit seinen Begleitern. Sie riefen den Hohen Rat und alle Ältesten der Söhne Israels zusammen; man schickte Boten zum Gefängnis, um die Apostel vorführen zu lassen. Die Diener gingen, fanden sie aber nicht im Gefängnis. Sie kehrten zurück und meldeten: Wir fanden das Gefängnis sorgfältig verschlossen und die Wachen vor den Toren stehen; als wir aber öffneten, fanden wir niemand darin. Der Tempelhauptmann und die Hohenpriester waren ratlos, als sie das hörten, und wussten nicht, was nun werden sollte. Da kam jemand und meldete ihnen: Die Männer, die ihr ins Gefängnis geworfen habt, stehen im Tempel und lehren das Volk. Da ging der Tempelhauptmann mit seinen Leuten hin und holte sie, allerdings nicht mit Gewalt; denn sie fürchteten, vom Volk gesteinigt zu werden."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 33",
+              "es": "Sal 33",
+              "en-US": "Ps 33",
+              "pt-BR": "Sl 33",
+              "it": "Sal 33",
+              "fr": "Ps 33",
+              "de": "Ps 34"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Pauper clamávit, et Dóminus exaudívit eum."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "El afligido invocó al Señor, y él lo escuchó."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "This poor man called and the Lord heard him."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Este infeliz gritou a Deus, e foi ouvido."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Il povero grida e il Signore lo ascolta."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Un pauvre crie ; le Seigneur entend."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Der Herr erhört den Armen, er hilft ihm aus der Not."
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Allelúia."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Aleluya."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Alleluia."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Aleluia."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Alleluia."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Alléluia !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "response",
+                        "text": "Halleluja."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Benedícam Dóminum in omni témpore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "semper laus eius in ore meo."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "In Dómino gloriábitur ánima mea,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "áudiant mansuéti et læténtur."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Magnificáte Dóminum mecum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et exaltémus nomen eius in idípsum."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exquisívi Dóminum, et exaudívit me et ex ómnibus terróribus meis erípuit me."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Respícite ad eum, et illuminámini,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et fácies vestræ non confundéntur."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Iste pauper clamávit, et Dóminus exaudívit eum et de ómnibus tribulatiónibus eius salvávit eum."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vallábit ángelus Dómini in circúitu timéntes eum et erípiet eos."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gustáte et vidéte quóniam suávis est Dóminus;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "beátus vir, qui sperat in eo."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Bendigo al Señor en todo momento,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "su alabanza está siempre en mi boca;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mi alma se gloría en el Señor:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que los humildes lo escuchen y se alegren."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Proclamad conmigo la grandeza del Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ensalcemos juntos su nombre."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Yo consulté al Señor, y me respondió,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "me libró de todas mis ansias."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Contempladlo, y quedaréis radiantes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vuestro rostro no se avergonzará."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "El afligido invocó al Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "él lo escuchó y lo salvó de sus angustias."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El ángel del Señor acampa en torno a quienes lo temen y los protege."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gustad y ved qué bueno es el Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dichoso el que se acoge a él."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I will bless the Lord at all times,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "his praise always on my lips;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in the Lord my soul shall make its boast."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "The humble shall hear and be glad."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Glorify the Lord with me."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Together let us praise his name."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "I sought the Lord and he answered me;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "from all my terrors he set me free."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Look towards him and be radiant;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "let your faces not be abashed."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "This poor man called; the Lord heard him and rescued him from all his distress."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The angel of the Lord is encamped around those who revere him, to rescue them."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Taste and see that the Lord is good."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "He is happy who seeks refuge in him."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Bendirei o Senhor Deus em todo o tempo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "seu louvor estará sempre em minha boca."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Minha alma se gloria no Senhor;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que ouçam os humildes e se alegrem!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Comigo engrandecei ao Senhor Deus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "exaltemos todos juntos o seu nome!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Todas as vezes que o busquei, ele me ouviu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e de todos os temores me livrou."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Contemplai a sua face e alegrai-vos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e vosso rosto não se cubra de vergonha!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Este infeliz gritou a Deus, e foi ouvido, e o Senhor o libertou de toda angústia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O anjo do Senhor vem acampar ao redor dos que o temem, e os salva."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Provai e vede quão suave é o Senhor!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Feliz o homem que tem nele o seu refúgio!."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Benedirò il Signore in ogni tempo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sulla mia bocca sempre la sua lode."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Io mi glorio nel Signore:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "i poveri ascoltino e si rallegrino."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Magnificate con me il Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "esaltiamo insieme il suo nome."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ho cercato il Signore: mi ha risposto e da ogni mia paura mi ha liberato."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Guardate a lui e sarete raggianti,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "i vostri volti non dovranno arrossire."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Questo povero grida e il Signore lo ascolta,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lo salva da tutte le sue angosce."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’angelo del Signore si accampa attorno a quelli che lo temono, e li libera."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gustate e vedete com’è buono il Signore;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "beato l’uomo che in lui si rifugia."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Je bénirai le Seigneur en tout temps,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sa louange sans cesse à mes lèvres."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Je me glorifierai dans le Seigneur :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que les pauvres m’entendent et soient en fête !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Magnifiez avec moi le Seigneur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "exaltons tous ensemble son nom."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Je cherche le Seigneur, il me répond :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de toutes mes frayeurs, il me délivre."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qui regarde vers lui resplendira,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sans ombre ni trouble au visage."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Un pauvre crie ; le Seigneur entend :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il le sauve de toutes ses angoisses."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’ange du Seigneur campe à l’entour pour libérer ceux qui le craignent."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Goûtez et voyez : le Seigneur est bon !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Heureux qui trouve en lui son refuge !"
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich will den Herrn allezeit preisen;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "immer sei sein Lob in meinem Mund."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Meine Seele rühme sich des Herrn;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die Armen sollen es hören und sich freuen."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Verherrlicht mit mir den Herrn,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lasst uns gemeinsam seinen Namen rühmen."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich suchte den Herrn, und er hat mich erhört,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er hat mich all meinen Ängsten entrissen."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Blickt auf zu ihm, so wird euer Gesicht leuchten,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "und ihr braucht nicht zu erröten."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Da ist ein Armer; er rief, und der Herr erhörte ihn."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er half ihm aus all seinen Nöten."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Engel des Herrn umschirmt alle, die ihn fürchten und ehren,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "und er befreit sie."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Kostet und seht, wie gütig der Herr ist;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wohl dem, der zu ihm sich flüchtet."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja, Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Sic Deus dilexit mundum, ut Fílium suum unigenitum daret; omnis qui credit in eum habet vitam ætérnam."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tanto amó Dios al mundo que entregó a su Hijo único; todos los que creen en él tienen vida eterna."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "God loved the world so much that he gave his only Son; everyone who believes in him has eternal life."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Deus o mundo tanto amou, que lhe deu seu próprio Filho, para que todo o que nele crer, encontre vida eterna."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Dio ha tanto amato il mondo da dare il Figlio unigenito, perché chiunque crede in lui non vada perduto, ma abbia la vita eterna."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Dieu a tellement aimé le monde qu’il a donné son Fils unique, afin que ceux qui croient en Lui aient la vie éternelle."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja, Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "So sehr hat Gott die Welt geliebt, dass er seinen einzigen Sohn hingab, damit jeder, der glaubt, in ihm das ewige Leben hat."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Io 3, 16-21",
+              "es": "Jn 3, 16-21",
+              "en-US": "Jn 3:16-21",
+              "pt-BR": "Jo 3, 16-21",
+              "it": "Gv 3, 16-21",
+              "fr": "Jn 3, 16-21",
+              "de": "Joh 3, 16–21"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Ioánnem",
+              "es": "✠ Lectura del santo Evangelio según san Juan",
+              "en-US": "✠ A reading from the holy Gospel according to John",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo João",
+              "it": "✠ Dal vangelo secondo Giovanni",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Jean",
+              "de": "✠ Aus dem heiligen Evangelium nach Johannes"
+            },
+            "summary": {
+              "la": "Misit Deus Fílium ut salvetur mundus per ipsum",
+              "es": "Dios envió a su Hijo para que el mundo se salve por él",
+              "pt-BR": "Deus enviou seu Filho ao mundo para que o mundo seja salvo por ele.",
+              "it": "Dio ha mandato il Figlio nel mondo, perché il mondo sia salvato per mezzo di lui."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sic diléxit Deus mundum, ut Fílium suum unigénitum daret, ut omnis, qui credit in eum, non péreat, sed hábeat vitam ætérnam. Non enim misit Deus Fílium in mundum, ut iúdicet mundum, sed ut salvétur mundus per ipsum. Qui credit in eum, non iudicátur; qui autem non credit, iam iudicátus est, quia non crédidit in nomen Unigéniti Fílii Dei. Hoc est autem iudícium: Lux venit in mundum, et dilexérunt hómines magis ténebras quam lucem; erant enim eórum mala ópera. Omnis enim, qui mala agit, odit lucem et non venit ad lucem, ut non arguántur ópera eius; qui autem facit veritátem, venit ad lucem, ut manifesténtur eius ópera, quia in Deo sunt facta."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tanto amó Dios al mundo, que entregó a su Unigénito, para que todo el que cree en él no perezca, sino que tenga vida eterna. Porque Dios no envió a su Hijo al mundo para juzgar al mundo, sino para que el mundo se salve por él. El que cree en él no será juzgado; el que no cree ya está juzgado, porque no ha creído en el nombre del Unigénito de Dios. Este es el juicio: que la luz vino al mundo, y los hombres prefirieron la tiniebla a la luz, porque sus obras eran malas. Pues todo el que obra el mal detesta la luz, y no se acerca a la luz, para no verse acusado por sus obras. En cambio, el que obra la verdad se acerca a la luz, para que se vea que sus obras están hechas según Dios."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "God loved the world so much that he gave his only Son, so that everyone who believes in him may not be lost but may have eternal life. For God sent his Son into the world not to condemn the world, but so that through him the world might be saved. No one who believes in him will be condemned; but whoever refuses to believe is condemned already, because he has refused to believe in the name of God's only Son. On these grounds is sentence pronounced: that though the light has come into the world men have shown they prefer darkness to the light because their deeds were evil. And indeed, everybody who does wrong hates the light and avoids it, for fear his actions should be exposed; but the man who lives by the truth comes out into the light, so that it may be plainly seen that what he does is done in God."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele. Quem nele crê, não é condenado, mas quem não crê, já está condenado, porque não acreditou no nome do Filho unigênito. Ora, o julgamento é este: a luz veio ao mundo, mas os homens preferiram as trevas à luz, porque suas ações eram más. Quem pratica o mal odeia a luz e não se aproxima da luz, para que suas ações não sejam denunciadas. Mas quem age conforme a verdade aproxima-se da luz, para que se manifeste que suas ações são realizadas em Deus."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù disse a Nicodemo: «Dio ha tanto amato il mondo da dare il Figlio unigenito, perché chiunque crede in lui non vada perduto, ma abbia la vita eterna. Dio, infatti, non ha mandato il Figlio nel mondo per condannare il mondo, ma perché il mondo sia salvato per mezzo di lui. Chi crede in lui non è condannato; ma chi non crede è già stato condannato, perché non ha creduto nel nome dell’unigenito Figlio di Dio. E il giudizio è questo: la luce è venuta nel mondo, ma gli uomini hanno amato più le tenebre che la luce, perché le loro opere erano malvagie. Chiunque infatti fa il male, odia la luce, e non viene alla luce perché le sue opere non vengano riprovate. Invece chi fa la verità viene verso la luce, perché appaia chiaramente che le sue opere sono state fatte in Dio»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait à Nicodème : « Dieu a tellement aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne se perde pas, mais obtienne la vie éternelle. Car Dieu a envoyé son Fils dans le monde, non pas pour juger le monde, mais pour que, par lui, le monde soit sauvé. Celui qui croit en lui échappe au Jugement ; celui qui ne croit pas est déjà jugé, du fait qu’il n’a pas cru au nom du Fils unique de Dieu. Et le Jugement, le voici : la lumière est venue dans le monde, et les hommes ont préféré les ténèbres à la lumière, parce que leurs œuvres étaient mauvaises. Celui qui fait le mal déteste la lumière : il ne vient pas à la lumière, de peur que ses œuvres ne soient dénoncées ; mais celui qui fait la vérité vient à la lumière, pour qu’il soit manifeste que ses œuvres ont été accomplies en union avec Dieu. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gott hat die Welt so sehr geliebt, dass er seinen einzigen Sohn hingab, damit jeder, der an ihn glaubt, nicht zugrunde geht, sondern das ewige Leben hat. Denn Gott hat seinen Sohn nicht in die Welt gesandt, damit er die Welt richtet, sondern damit die Welt durch ihn gerettet wird. Wer an ihn glaubt, wird nicht gerichtet; wer nicht glaubt, ist schon gerichtet, weil er an den Namen des einzigen Sohnes Gottes nicht geglaubt hat. Denn mit dem Gericht verhält es sich so: Das Licht kam in die Welt, und die Menschen liebten die Finsternis mehr als das Licht; denn ihre Taten waren böse. Jeder, der Böses tut, hasst das Licht und kommt nicht zum Licht, damit seine Taten nicht aufgedeckt werden. Wer aber die Wahrheit tut, kommt zum Licht, damit offenbar wird, dass seine Taten in Gott vollbracht sind."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui nos, per huius sacrifícii veneránda commércia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "uníus summǽque divinitátis partícipes effecísti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "præsta, quǽsumus, ut, sicut tuam cognóvimus veritátem,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sic eam dignis móribus assequámur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos haces partícipes de tu única y suprema divinidad por el admirable intercambio de este sacrificio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos alcanzar en una vida santa la realidad que hemos conocido en ti."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who by the wonderful exchange effected in this sacrifice have made us partakers of the one supreme Godhead,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, as we have come to know your truth,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may make it ours by a worthy way of life."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pelo venerável intercâmbio deste sacrifício nos fizestes participar de vossa única e suprema divindade;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei, nós vos pedimos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que conhecendo a vossa verdade a testemunhemos pela prática das boas obras."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che nella comunione mirabile a questo sacrificio ci hai resi partecipi della tua natura divina, dona a noi, che abbiamo conosciuto la tua verità, di testimoniarla con una degna condotta di vita. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur notre Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dans l’admirable échange du sacrifice eucharistique,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu nous fais participer à ton unique et souveraine divinité ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous avons reçu la connaissance de ta vérité :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous de lui être fidèles par toute notre vie."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Erhabener Gott, durch die Feier des heiligen Opfers gewährst du uns Anteil an deiner göttlichen Natur. Gib, dass wir dich nicht nur als den einen wahren Gott erkennen, sondern unser ganzes Leben nach dir ausrichten. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf016",
+      "label": {
+        "la": "PRÆFATIO PASCHALIS I",
+        "es": "PREFACIO PASCUAL I",
+        "en-US": "Preface I of Easter",
+        "pt-BR": "Prefácio da Páscoa I o",
+        "it": "PREFAZIO PASQUALE I",
+        "fr": "PRÉFACE DE PÂQUES N°1",
+        "de": "PRÄFATION FÜR DIE OSTERZEIT I"
+      },
+      "excerpt": {
+        "la": "De mysterio paschali",
+        "es": "El misterio pascual",
+        "en-US": "The Paschal Mystery",
+        "pt-BR": "mistério pascal",
+        "it": "Il mistero pasquale",
+        "fr": "Le mystère pascal",
+        "de": "Das wahre Osterlamm"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur témpore paschali. In Missa Vigiliæ paschalis dicitur: in hac potíssimum nocte; a die Paschæ et per totam octavam: in hac potíssimum die; alias: in hoc potíssimum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Te quidem, Dómine,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "omni témpore confitéri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed in hac potíssimum nocte"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "die"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "gloriósius prædicáre,"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "sed in hoc potíssimum gloriósius prædicáre"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Pascha nostrum immolátus est Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ipse enim verus est Agnus qui ábstulit peccáta mundi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui mortem nostram moriéndo destrúxit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et vitam resurgéndo reparávit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quaprópter, profúsis paschálibus gáudiis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "totus in orbe terrárum mundus exsúltat."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sed et supérnæ virtútes atque angélicæ potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando adhibetur Canon romanus, dicuntur Communicántes et Hanc ígitur propria, ut infra. In Missa Vigiliæ paschalis dicitur: et noctem sacratíssimam celebrántes."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice durante el tiempo pascual. En la Misa de la Vigilia pascual se dice «en esta noche»; el día de pascua y durante la octava: «en este día»; en las restantes Misas: «en este tiempo»."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación glorificarte siempre, Señor;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pero más que nunca exaltarte en este día glorioso"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "(o bien:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "esta noche"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "- o bien:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "este tiempo"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": ")"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en que Cristo, nuestra Pascua,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ha sido inmolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque él es el verdadero Cordero que quitó el pecado del mundo;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "muriendo destruyó nuestra muerte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y resucitando restauró la vida."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con esta efusión de gozo pascual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "el mundo entero se desborda de alegría,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y también los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los ángeles y los arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantan el himno de tu gloria diciendo sin cesar:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Durante la Octava de Pascua, en las Plegarias eucarísticas se utilizan los elementos propios."
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said during Easter Time. At the Easter Vigil, is said on this night; on Easter Sunday and throughout the Octave of Easter, is said on this day; on other days of Easter Time, is said in this time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "at all times to acclaim you, O Lord,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "but"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "on this night"
+              },
+              {
+                "type": "text",
+                "text": "on this day in this time"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "above all to laud you yet more gloriously,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "when Christ our Passover has been sacrificed."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For he is the true Lamb who has taken away the sins of the world;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by dying he has destroyed our death,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and by rising, restored our life."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, overcome with paschal joy,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "every land, every people exults in your praise and even the heavenly Powers, with the angelic hosts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sing together the unending hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as they acclaim:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "When the Roman Canon is used, there is a proper Communicantes and a proper Hanc igitur, as below In the Communicantes at the Easter Vigil, Celebrating the most sacred night, etc. is said."
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado no tempo pascal. Na Missa da Vigília pascal diz-se:"
+              },
+              {
+                "type": "text",
+                "text": "nesta noite"
+              },
+              {
+                "type": "rubric",
+                "text": "; no domingo da ressurreição e durante a oitava:"
+              },
+              {
+                "type": "text",
+                "text": "neste dia"
+              },
+              {
+                "type": "rubric",
+                "text": "; e depois:"
+              },
+              {
+                "type": "text",
+                "text": "neste tempo Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação proclamar vossa glória, ó Pai, em todo tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mas, com maior júbilo, louvar-vos nesta noite"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "neste dia"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "neste tempo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "porque Cristo, nossa Páscoa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "foi imolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "É ele o verdadeiro Cordeiro,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "que tirou o pecado do mundo;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "morrendo, destruiu a nossa morte e, ressurgindo, restaurou a vida."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, transbordando de alegria pascal,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "exulta a criação por toda a terra;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "também as Virtudes celestes e as Potestades angélicas proclamam um hino à vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando se usa a Oração Eucarística I, dizem-se o"
+              },
+              {
+                "type": "text",
+                "text": "Em comunhão"
+              },
+              {
+                "type": "rubric",
+                "text": "e o"
+              },
+              {
+                "type": "text",
+                "text": "Aceitai, ó Pai"
+              },
+              {
+                "type": "rubric",
+                "text": "próprios. Na Missa da Vigília Pascal, diz-se o:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos a noite santíssima"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nel Tempo Pasquale. Nella Veglia Pasquale si dice: in questa notte, nel giorno di Pasqua e per tutta l’Ottava si dice: in questo giorno, le altre volte: in questo tempo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamare sempre la tua gloria, o Signore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e soprattutto esaltarti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "["
+              },
+              {
+                "type": "text",
+                "text": "in questa notte"
+              },
+              {
+                "type": "rubric",
+                "text": "]"
+              },
+              {
+                "type": "text",
+                "text": "in questo giorno"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "["
+              },
+              {
+                "type": "text",
+                "text": "in questo tempo"
+              },
+              {
+                "type": "rubric",
+                "text": "]"
+              },
+              {
+                "type": "text",
+                "text": "nel quale Cristo, nostra Pasqua, si è immolato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È lui il vero Agnello che ha tolto i peccati del mondo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "è lui che morendo ha distrutto la morte e risorgendo ha ridato a noi la vita."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero, nella pienezza della gioia pasquale,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’umanità esulta su tutta la terra e le schiere degli angeli e dei santi cantano senza fine l’inno della tua gloria:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Nella Veglia Pasquale, nel giorno di Pasqua e per tutta l’Ottava, nel Canone Romano si dicono il Communicántes e l’Hanc ígitur propri."
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit depuis la Veillée pascale jusqu’à la veille de l’Ascension."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de te louer, Seigneur, en tout temps,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mais plus encore de te glorifier en cette nuit"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "aujourd’hui"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "gloriósius prædicáre,"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "en ces jours"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "où le Christ, notre Pâque, a été immolé."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car il est l’Agneau véritable qui a enlevé les péchés du monde :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en mourant, il a détruit notre mort ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en ressuscitant, il nous a rendu la vie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi la joie pascale rayonne par tout l’univers,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la terre entière exulte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "les puissances d’en haut et les anges dans le ciel chantent sans fin l’hymne de ta gloire :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in der Osternacht, am Ostersonntag und während der Osteroktav genommen. In der Osternacht heißt es: diese Nacht; am Ostersonntag: diesen Tag; vom Ostermontag bis zum Weißen Sonntag: diese Tage."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater, immer und überall zu danken,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "diese Nacht"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "diesen Tag,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "diese Tage"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "aber aufs höchste zu feiern, da unser Osterlamm geopfert ist, Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn er ist das wahre Lamm, das die Sünde der Welt hinwegnimmt. Durch seinen Tod hat er unseren Tod vernichtet und durch seine Auferstehung das Leben neu geschaffen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum jubelt in dieser Nacht"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "heute"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "der ganze Erdkreis in österlicher Freude, darum preisen dich die himmlischen Mächte und die Chöre der Engel und singen das Lob deiner Herrlichkeit:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "In den Hochgebeten I - III eigene Einschübe. In der Osternacht heißt es: die hochheilige Nacht."
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf017",
+      "label": {
+        "la": "PRÆFATIO PASCHALIS II",
+        "es": "PREFACIO PASCUAL II",
+        "en-US": "Preface Ii of Easter",
+        "pt-BR": "Prefácio da Páscoa Ii a",
+        "it": "PREFAZIO PASQUALE II",
+        "fr": "PRÉFACE DE PÂQUES N°2",
+        "de": "PRÄFATION FÜR DIE OSTERZEIT II"
+      },
+      "excerpt": {
+        "la": "De vita nova in Christo",
+        "es": "La nueva vida en Cristo",
+        "en-US": "New life in Christ",
+        "pt-BR": "vida nova em Cristo",
+        "it": "La vita nuova in Cristo",
+        "fr": "La vie nouvelle dans le Christ",
+        "de": "Das neue Leben in Christus"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur témpore paschali."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Te quidem, Dómine,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "omni témpore confitéri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed in hoc potíssimum gloriósius prædicáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Pascha nostrum immolátus est Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per quem in ætérnam vitam fílii lucis oriúntur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et regni cæléstis átria fidélibus reserántur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia mors nostra est eius morte redémpta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et in eius resurrectióne vita ómnium resurréxit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quaprópter, profúsis paschálibus gáudiis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "totus in orbe terrárum mundus exsúltat."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sed et supérnæ virtútes atque angélicæ potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice durante el tiempo pasacual."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación glorificarte siempre, Señor;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pero más que nunca exaltarte en este tiempo glorioso en que Cristo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nuestra Pascua,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ha sido inmolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él, los hijos de la luz amanecen a la vida eterna,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y se abren a los fieles las puertas del reino de los cielos;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "porque en la muerte de Cristo nuestra muerte ha sido vencida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y en su gloriosa resurrección hemos resucitado todos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con esta efusión de gozo pascual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "el mundo entero se desborda de alegría y también los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los ángeles y los arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantan el himno de tu gloria diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said during Easter Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "at all times to acclaim you, O Lord,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "but in this time above all to laud you yet more gloriously,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "when Christ our Passover has been sacrificed."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Through him the children of light rise to eternal life and the halls of the heavenly Kingdom are thrown open to the faithful;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "for his Death is our ransom from death,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and in his rising the life of all has risen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, overcome with paschal joy,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "every land, every people exults in your praise and even the heavenly Powers, with the angelic hosts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sing together the unending hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as they acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado no tempo pascal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação proclamar vossa glória, ó Pai, em todo tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mas, com maior júbilo, louvar-vos neste tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "porque Cristo, nossa Páscoa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "foi imolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele os filhos da luz nascem para a vida eterna e para os vossos fiéis abrem-se as portas do reino dos céus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "N assa morte foi redimida pela sua e na sua ressurreição ressurgiu a vida para todos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, transbordando de alegria pascal,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "exulta a criação por toda a terra;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "também as Virtudes celestes e as Potestades angélicas proclamam um hino à vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nel Tempo Pasquale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamare sempre la tua gloria, o Signore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e soprattutto esaltarti in questo tempo nel quale Cristo, nostra Pasqua, si è immolato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per mezzo di lui rinascono a vita nuova i figli della luce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e si aprono ai credenti le porte del regno dei cieli."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In lui morto è redenta la nostra morte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in lui risorto tutta la vita risorge."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nella pienezza della gioia pasquale, l’umanità esulta su tutta la terra e le schiere degli angeli e dei santi cantano senza fine l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant le temps pascal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de te louer, Seigneur, en tout temps,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mais plus encore de te glorifier en ces jours où le Christ, notre Pâque, a été immolé."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Grâce à lui se lèvent des enfants de lumière pour une vie éternelle,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et les portes du royaume des Cieux s’ouvrent pour accueillir les croyants."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car sa mort nous affranchit de la mort et, dans sa résurrection,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "chacun de nous est déjà ressuscité."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi la joie pascale rayonne par tout l’univers,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la terre entière exulte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "les puissances d’en haut et les anges dans le ciel chantent sans fin l’hymne de ta gloire :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird während der Osterzeit genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Wir danken dir, Vater im Himmel, und rühmen dich durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn erstehen die Kinder des Lichtes zum ewigen Leben, durch ihn wird den Gläubigen das Tor des himmlischen Reiches geöffnet."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn unser Tod ist durch seinen Tod überwunden, in seiner Auferstehung ist das Leben für alle erstanden."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in österlicher Freude und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf018",
+      "label": {
+        "la": "PRÆFATIO PASCHALIS III",
+        "es": "PREFACIO PASCUAL III",
+        "en-US": "Preface Iii of Easter",
+        "pt-BR": "Prefácio da Páscoa Iii o",
+        "it": "PREFAZIO PASQUALE III",
+        "fr": "PRÉFACE DE PÂQUES N°3",
+        "de": "PRÄFATION FÜR DIE OSTERZEIT III"
+      },
+      "excerpt": {
+        "la": "De Christo vivente et semper interpellante pro nobis",
+        "es": "Cristo vivo e intercesor perpetuo en favor nuestro",
+        "en-US": "Christ living and always interceding for us",
+        "pt-BR": "Cristo vivo, que sempre intercede por nós",
+        "it": "Cristo vive per sempre e intercede per noi",
+        "fr": "Le Christ est vivant et intercède toujours pour nous",
+        "de": "Christus lebt und tritt beim Vater für uns ein"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur témpore paschali."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Te quidem, Dómine,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "omni témpore confitéri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed in hoc potíssimum gloriósius prædicáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Pascha nostrum immolátus est Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui se pro nobis offérre non désinit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nosque apud te perénni advocatióne deféndit;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qui immolátus iam non móritur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed semper vivit occísus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quaprópter, profúsis paschálibus gáudiis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "totus in orbe terrárum mundus exsúltat."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sed et supérnæ virtútes atque angélicæ potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice durante el tiempo pascual."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación glorificarte siempre, Señor;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pero más que nunca exaltarte en este tiempo glorioso en que Cristo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nuestra Pascua, ha sido inmolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque él no cesa de ofrecerse por nosotros,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "intercediendo continuamente ante ti;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "inmolado, ya no vuelve a morir;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sacrificado, vive para siempre."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con esta efusión de gozo pascual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "el mundo entero se desborda de alegría,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y también los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los ángeles y los arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantan el himno de tu gloria diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said during Easter Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "at all times to acclaim you, O Lord,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "but in this time above all to laud you yet more gloriously,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "when Christ our Passover has been sacrificed."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "He never ceases to offer himself for us but defends us and ever pleads our cause before you:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he is the sacrificial Victim who dies no more,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "the Lamb, once slain, who lives for ever."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, overcome with paschal joy,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "every land, every people exults in your praise and even the heavenly Powers, with the angelic hosts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sing together the unending hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as they acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado no tempo pascal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação proclamar vossa glória, ó Pai, em todo tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mas, com maior júbilo, louvar-vos neste tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "porque Cristo, nossa Páscoa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "foi imolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ele continua a oferecer-se por nós,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e junto de vós é nosso eterno defensor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Imolado, já não morre;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e, morto, agora vive eternamente."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, transbordando de alegria pascal,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "exulta a criação por toda a terra;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "também as Virtudes celestes e as Potestades angélicas proclamam um hino à vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nel Tempo Pasquale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamare sempre la tua gloria, o Signore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e soprattutto esaltarti in questo tempo nel quale Cristo, nostra Pasqua, si è immolato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Egli continua a offrirsi per noi e intercede come nostro avvocato; immolato sulla croce, più non muore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e con i segni della passione vive immortale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nella pienezza della gioia pasquale,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’umanità esulta su tutta la terra e le schiere degli angeli e dei santi cantano senza fine l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant le temps pascal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de te louer, Seigneur, en tout temps,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mais plus encore de te glorifier en ces jours où le Christ, notre Pâque, a été immolé."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Il ne cesse pas de s’offrir pour nous,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et demeure éternellement notre défenseur auprès de toi ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "immolé,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il a vaincu la mort ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mis à mort,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il est vivant pour toujours."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi la joie pascale rayonne par tout l’univers,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la terre entière exulte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "les puissances d’en haut et les anges dans le ciel chantent sans fin l’hymne de ta gloire :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird während der Osterzeit genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater, in diesen Tagen freudig zu danken, da unser Osterlamm geopfert ist, Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Er bringt sich dir allzeit für uns dar und steht vor dir als unser Anwalt."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn einmal geopfert, stirbt er nicht wieder, sondern lebt auf ewig als das Lamm, das geschlachtet ist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in österlicher Freude und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf019",
+      "label": {
+        "la": "PRÆFATIO PASCHALIS IV",
+        "es": "PREFACIO PASCUAL IV",
+        "en-US": "Preface Iv of Easter",
+        "pt-BR": "Prefácio da Páscoa Iv a",
+        "it": "PREFAZIO PASQUALE IV",
+        "fr": "PRÉFACE DE PÂQUES N°4",
+        "de": "PRÄFATION FÜR DIE OSTERZEIT IV"
+      },
+      "excerpt": {
+        "la": "De restauratione universi per mystérium paschale",
+        "es": "La restauración del universo por el misterio pascual",
+        "en-US": "The restoration of the universe through the Paschal Mystery",
+        "pt-BR": "restauração do universo pelo mistério pascal",
+        "it": "La restaurazione dell’universo per mezzo del mistero pasquale",
+        "fr": "La restauration de l’univers par le mystère pascal",
+        "de": "Die Erneuerung der ganzen Schöpfung durch das Ostergeheimnis"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur témpore paschali."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Te quidem, Dómine,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "omni témpore confitéri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed in hoc potíssimum gloriósius prædicáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Pascha nostrum immolátus est Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia, vetustáte destrúcta, renovántur univérsa deiécta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et vitæ nobis in Christo reparátur intégritas."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quaprópter, profúsis paschálibus gáudiis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "totus in orbe terrárum mundus exsúltat."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sed et supérnæ virtútes atque angélicæ potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice durante el tiempo pascual."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación glorificarte siempre, Señor;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pero más que nunca exaltarte en este tiempo glorioso en que Cristo, nuestra Pascua,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ha sido inmolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque, demolida nuestra antigua miseria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fue reconstruido cuanto estaba derrumbado y renovada en plenitud nuestra vida en Cristo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con esta efusión de gozo pascual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "el mundo entero se desborda de alegría,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y también los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los ángeles y los arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantan el himno de tu gloria diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said during Easter Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "at all times to acclaim you, O Lord,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "but in this time above all to laud you yet more gloriously,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "when Christ our Passover has been sacrificed."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, with the old order destroyed,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a universe cast down is renewed,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and integrity of life is restored to us in Christ."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, overcome with paschal joy,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "every land, every people exults in your praise and even the heavenly Powers, with the angelic hosts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sing together the unending hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as they acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado no tempo pascal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação proclamar vossa glória, ó Pai, em todo tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mas, com maior júbilo, louvar-vos neste tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "porque Cristo, nossa Páscoa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "foi imolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pois, destruído o que era velho,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toda a criação decaída é renovada e em Cristo nos foi recuperada a integridade da vida."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, transbordando de alegria pascal,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "exulta a criação por toda a terra;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "também as Virtudes celestes e as Potestades angélicas proclamam um hino à vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nel Tempo Pasquale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamare sempre la tua gloria, o Signore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e soprattutto esaltarti in questo tempo nel quale Cristo, nostra Pasqua, si è immolato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In lui, vincitore del peccato e della morte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’universo risorge e si rinnova,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e l’uomo ritorna alle sorgenti della vita."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nella pienezza della gioia pasquale, l’umanità esulta su tutta la terra e le schiere degli angeli e dei santi cantano senza fine l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant le temps pascal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de te louer, Seigneur, en tout temps,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mais plus encore de te glorifier en ces jours où le Christ, notre Pâque, a été immolé."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Le monde ancien est détruit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la création déchue est renouvelée,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et, dans le Christ,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous est rendue la vie en plénitude."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi la joie pascale rayonne par tout l’univers,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la terre entière exulte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "les puissances d’en haut et les anges dans le ciel chantent sans fin l’hymne de ta gloire :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird während der Osterzeit genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater, in diesen Tagen freudig zu danken, da unser Osterlamm geopfert ist, Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Das Alte ist vergangen, die gefallene Welt erlöst, das Leben in Christus erneuert."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich in österlicher Freude und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf020",
+      "label": {
+        "la": "PRÆFATIO PASCHALIS V",
+        "es": "PREFACIO PASCUAL V",
+        "en-US": "Preface V of Easter",
+        "pt-BR": "Prefácio da Páscoa V o",
+        "it": "PREFAZIO PASQUALE V",
+        "fr": "PRÉFACE DE PÂQUES N°5",
+        "de": "PRÄFATION FÜR DIE OSTERZEIT V"
+      },
+      "excerpt": {
+        "la": "De Christo sacerdote et victima",
+        "es": "Cristo, sacerdote y víctima",
+        "en-US": "Christ, Priest and Victim",
+        "pt-BR": "Cristo sacerdote e vítima",
+        "it": "Cristo Agnello e sacerdote",
+        "fr": "Le Christ, prêtre et victime",
+        "de": "Christus als Priester und Opferlamm"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur témpore paschali."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Te quidem, Dómine,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "omni témpore confitéri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed in hoc potíssimum gloriósius prædicáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Pascha nostrum immolátus est Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui, oblatióne córporis sui,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "antíqua sacrifícia in crucis veritáte perfécit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et, seípsum tibi pro nostra salúte comméndans,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "idem sacérdos, altáre et agnus exhíbuit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quaprópter, profúsis paschálibus gáudiis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "totus in orbe terrárum mundus exsúltat."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sed et supérnæ virtútes atque angélicæ potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice durante el tiempo pascual"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación glorificarte siempre, Señor;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pero más que nunca exaltarte en este tiempo glorioso en que Cristo, nuestra Pascua,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ha sido inmolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la inmolación de su cuerpo en la cruz,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dio pleno cumplimiento a lo que anunciaban los antiguos sacrificios y, ofreciéndose a sí mismo por nuestra salvación,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "se manifestó, a la vez,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "como sacerdote, altar y víctima."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con esta efusión de gozo pascual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "el mundo entero se desborda de alegría,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y también los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los ángeles y los arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantan el himno de tu gloria diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said during Easter Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "at all times to acclaim you, O Lord,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "but in this time above all to laud you yet more gloriously,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "when Christ our Passover has been sacrificed."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "By the oblation of his Body,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he brought the sacrifices of old to fulfilment in the reality of the Cross and, by commending himself to you for our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "showed himself the Priest, the Altar, and the Lamb of sacrifice."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, overcome with paschal joy,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "every land, every people exults in your praise and even the heavenly Powers, with the angelic hosts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sing together the unending hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as they acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado no tempo pascal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação proclamar vossa glória, ó Pai, em todo tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mas, com maior júbilo, louvar-vos neste tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "porque Cristo, nossa Páscoa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "foi imolado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pela oblação do seu corpo na cruz levou à plenitude os sacrifícios antigos e, entregando-se a vós para nossa salvação,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "revelou-se, ao mesmo tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sacerdote, altar e cordeiro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, transbordando de alegria pascal,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "exulta a criação por toda a terra;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "também as Virtudes celestes e as Potestades angélicas proclamam um hino à vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nel Tempo Pasquale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamare sempre la tua gloria, o Signore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e soprattutto esaltarti in questo tempo nel quale Cristo, nostra Pasqua, si è immolato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Offrendo il suo corpo sulla croce, diede compimento ai sacrifici antichi e,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "donandosi per la nostra redenzione,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "divenne altare, Agnello e sacerdote."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero, nella pienezza della gioia pasquale,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’umanità esulta su tutta la terra e le schiere degli angeli e dei santi cantano senza fine l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens Préface dicitur tempore paschali."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de te louer, Seigneur, en tout temps,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mais plus encore de te glorifier en ces jours où le Christ, notre Pâque, a été immolé."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par l’offrande de son corps,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il mène à leur achèvement, dans la vérité de la croix,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "les sacrifices de l’ancienne Alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et quand il te remet son esprit pour notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il est à lui seul le prêtre, l’autel et l’agneau du sacrifice."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi la joie pascale rayonne par tout l’univers,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la terre entière exulte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "les puissances d’en haut et les anges dans le ciel chantent sans fin l’hymne de ta gloire :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird während der Osterzeit genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater, in diesen Tagen freudig zu danken, da unser Osterlamm geopfert ist, Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Als er seinen Leib am Kreuz dahingab, hat er die Opfer der Vorzeit vollendet. Er hat sich dir dargebracht zu unserem Heil, er selbst ist der Priester, der Altar und das Opferlamm."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in österlicher Freude und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dicit Dóminus: Ego elégi vos de mundo et pósui vos ut eátis, et fructum afferátis,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et fructus vester máneat, allelúia."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dice el Señor: «Yo os he escogido sacándoos del mundo y os he destinado para que vayáis y deis fruto y vuestro fruto permanezca». Aleluya."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "I have chosen you from the world, says the Lord, and have appointed you to go and bear fruit, fruit that will last, alleluia."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Assim diz o Senhor:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Eu vos escolhi do mundo e vos destinei para irdes e produzirdes fruto e o vosso fruto permaneça, aleluia."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dice il Signore: «Io ho scelto voi e vi ho costituiti perché andiate e portiate frutto e il vostro frutto rimanga». Alleluia."
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "Oppure: Cf. Gv 3, 19.21"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "La luce è venuta nel mondo. Chi fa la verità viene alla luce. Alleluia."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Je vous ai choisis en vous prenant dans le monde, dit le Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin que vous alliez, que vous portiez du fruit et que votre fruit demeure, alléluia."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "So spricht der Herr: Ich habe euch aus der Welt erwählt und euch dazu bestimmt, dass ihr hingeht und Frucht bringt und dass eure Frucht bleibt."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Halleluja."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Pópulo tuo, quǽsumus, Dómine, adésto propítius,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et, quem mystériis cæléstibus imbuísti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fac ad novitátem vitæ de vetustáte transíre."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Asiste, Señor, a tu pueblo y haz que pasemos del antiguo pecado a la vida nueva los que hemos sido alimentados con los sacramentos del cielo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Graciously be present to your people, we pray, O Lord, and lead those you have imbued with heavenly mysteries to pass from former ways to newness of life."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, nós vos pedimos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "permanecei com misericórdia junto ao vosso povo e fazei passar da antiga para a nova vida aqueles que iniciastes nos mistérios celestes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Assisti con bontà il tuo popolo, o Signore, e poiché lo hai colmato della grazia di questi santi misteri, donagli di passare dalla nativa fragilità umana alla vita nuova nel Cristo risorto. Egli vive e regna nei secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dans ta bienveillance,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "reste auprès de ton peuple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’en prions, Seigneur ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puisque tu l’as initié aux sacrements du ciel,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais-le passer de ce qui est ancien à la vie nouvelle."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, höre unser Gebet. Du hast uns im Sakrament das Brot des Himmels gegeben, damit wir an Leib und Seele gesunden. Gib, dass wir die Gewohnheiten des alten Menschen ablegen und als neue Menschen leben. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

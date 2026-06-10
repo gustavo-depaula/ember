@@ -1,0 +1,1190 @@
+{
+  "id": "ritual.various-needs.div023",
+  "kind": "ritual",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "I. PRO SANCTA ECCLESIA 17. PRO UNITATE CHRISTIANORUM A",
+    "es": "I. POR LA SANTA IGLESIA 17. POR LA UNIDAD DE LOS CRISTIANOS A",
+    "en-US": "I. for Holy Church 17. for the Unity of Christians a",
+    "pt-BR": "I. pela Santa Igreja 17. pela Unidade dos Cristãos a",
+    "it": "I. PER LA SANTA CHIESA 17. PER L’UNITÀ DEI CRISTIANI A",
+    "fr": "I. POUR LA SAINTE ÉGLISE 17. POUR L’UNITÉ DES CHRÉTIENS A",
+    "de": "I. FÜR DIE HEILIGE KIRCHE 17. FÜR DIE EINHEIT DER CHRISTEN A"
+  },
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ego sum pastor bonus, et cognósco oves meas, et cognóscunt me meæ, dicit Dóminus. Sicut novit me Pater, et ego cognósco Patrem; et ánimam meam pono pro óvibus meis."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Yo soy el Buen Pastor que conozco a las ovejas, y las mías me conocen, dice el Señor; igual que el Padre me conoce, y yo conozco al Padre; yo doy mi vida por las ovejas."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "I am the good Shepherd,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and I know my sheep and mine know me, says the Lord, just as the Father knows me and I know the Father;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and I lay down my life for the sheep."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Eu sou o bom pastor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Conheço as minhas ovelhas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e elas me conhecem, diz o Senhor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Assim como o Pai me conhece e eu conheço o Pai."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Eu dou minha vida pelas ovelhas."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Io sono il buon pastore, conosco le mie pecore e le mie pecore conoscono me,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "così come il Padre conosce me e io conosco il Padre, e do la mia vita per le pecore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Je suis le bon pasteur, dit le Seigneur ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "je connais mes brebis, et mes brebis me connaissent,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "comme le Père me connaît, et que je connais le Père ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et je donne ma vie pour mes brebis."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "So spricht der Herr: Ich bin der gute Hirt; ich kenne die Meinen, und die Meinen kennen mich, wie mich der Vater kennt und ich den Vater kenne; und ich gebe mein Leben für meine Schafe."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Súpplices te rogámus, amátor hóminum, Dómine: pleniórem Spíritus tui grátiam super nos effúnde benígnus, et præsta, ut, digne qua nos vocásti vocatióne ambulántes, testimónium veritátis exhibeámus homínibus, et ómnium credéntium unitátem in vínculo pacis fidéntes inquirámus. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que amas a los hombres,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te rogamos derrames con bondad sobre nosotros la gracia abundante de tu Espíritu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y concédenos que,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "caminando en santidad según la vocación a que nos llamas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "demos testimonio de la verdad a los hombres,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y busquemos confiados,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en el vínculo de la paz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la unidad de todos los creyentes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "We humbly ask you, Lord, lover of the human family,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to pour out more fully upon us the grace of your spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and grant that, walking worthily in the vocation to which you have called us,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may bear witness to the truth before others and seek with confidence the unity of all believers in the bond of peace."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, que amais todas as pessoas, suplicantes vos pedimos:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "infundi compassivo sobre nós a plenitude da graça do vosso Espírito;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos caminhar de maneira digna da vocação a que fomos chamados para testemunhar a todos a verdade e buscar confiantes a unidade dos cristãos no vínculo da paz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, che ami l’umana famiglia, effondi benevolo su di noi la grazia sovrabbondante del tuo Spirito, perché, camminando in maniera degna della vocazione alla quale ci hai chiamati, offriamo agli uomini la testimonianza della verità e, nel vincolo della pace, ricerchiamo con fiducia l’unità di tutti i cristiani. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, ami des hommes, nous t’en supplions :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dans ta bonté, répands plus largement sur nous la grâce de ton Esprit ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "aide-nous à répondre fidèlement à notre vocation,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour rendre témoignage à la vérité devant les hommes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et rechercher avec confiance dans le lien de la paix l’unité de ceux qui croient au Christ."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, unser Vater, gieße die Gnade deines Geistes von neuen über uns aus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "damit wir unserer Berufung würdig leben und vor den Menschen für deine Wahrheit Zeugnis ablegen. Hilf uns, dass wir voll Zuversicht nach der Einheit aller Christen und nach der Gemeinschaft in der einen Kirche streben. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Qui una semel hóstia, Dómine, adoptiónis tibi pópulum acquisísti, unitátis et pacis in Ecclésia tua propítius nobis dona concédas. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, que adquiriste para ti un pueblo de adopción con el sacrificio de una vez para siempre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos propicio los dones de la unidad y de la paz en tu Iglesia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Lord, who gained for yourself a people by adoption through the one sacrifice offered once for all,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "bestow graciously on us, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the gifts of unity and peace in your Church."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, pelo único sacrifício do vosso Filho,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "adquiristes para vós um povo de adoção filial;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos benigno, na vossa Igreja,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "os dons da unidade e da paz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Padre, che nell’unico sacrificio del tuo Figlio ti sei acquistato un popolo di adozione, concedi e custodisci sempre nella tua Chiesa i doni dell’unità e della pace. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Par l’unique sacrifice, offert une fois pour toutes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu t’es donné, Seigneur, le peuple que tu as adopté ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en ta bienveillance, accorde-nous la grâce de l’unité et de la paix dans ton Église."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr und Gott, du hast dir das eine Volk des Neuen Bundes erworben durch das Opfer deines Sohnes, das er ein für allemal dargebracht hat. Sieh gnädig auf uns und schenke uns in deiner Kirche Einheit und Frieden. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf083",
+      "label": {
+        "la": "Præfatio",
+        "es": "Prefacio",
+        "en-US": "Preface",
+        "pt-BR": "Prefácio da Unidade dos Cristãos",
+        "it": "Prefazio",
+        "fr": "PRÉFACE POUR L’UNITÉ DES CHRÉTIENS",
+        "de": "Präfation"
+      },
+      "excerpt": {
+        "la": "de unitate christianorum",
+        "es": "de la unidad de los cristianos",
+        "en-US": "for the unity of christians",
+        "it": "de la unidad de los cristianos",
+        "de": "von der Einheit der Christen"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "De unitate Corporis Christi, quod est Ecclésia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per ipsum enim nos adduxísti ad agnitiónem tuæ veritátis, ut uníus fídei et baptísmi vínculo Corpus eius efficerémur; per ipsum in cunctis géntibus largítus es Spíritum Sanctum tuum, qui, in diversitáte donórum mirábilis operátor et unitátis efféctor, fílios adoptiónis inhábitat totámque replet et regit Ecclésiam."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, choris angélicis sociáti, te laudámus in gáudio confiténtes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "La unidad del Cuerpo de Cristo, que es la Iglesia"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él nos has conducido al conocimiento de tu verdad,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para hacernos miembros de su Cuerpo mediante el vínculo de una misma fe y un mismo bautismo;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por él has derramado sobre todas las gentes tu Espíritu Santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "admirable constructor de la unidad por la diversidad de sus dones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "que habita en tus hijos de adopción,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y colma y dirige a toda la Iglesia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a los coros angélicos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos proclamando llenos de alegría:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The action of the spirit in the Church."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For through him you brought us to the knowledge of your truth,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that by the bond of one faith and one Baptism we might become his Body."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Through him you poured out your Holy Spirit among all the nations, so that in a wondrous manner he might prompt and engender unity in the diversity of your gifts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dwelling within your adopted children and filling and ruling the whole Church."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, in company with the choirs of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, and with joy we proclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "A Unidade do Corpo de Cristo, que é a Igreja."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele nos conduzistes ao conhecimento da vossa verdade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a fim de nos tornarmos o seu Corpo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pelo vínculo da mesma fé e do mesmo Batismo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele derramastes sobre todas as nações o vosso Espírito Santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "admirável artífice e fonte de unidade na diversidade dos dons,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o qual habita nos filhos e filhas adotivos e enche e governa toda a Igreja."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, unidos aos coros dos anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos e cantamos"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "alegres a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "L’unità del corpo di Cristo che è la Chiesa"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In lui ci hai portato alla conoscenza della tua verità affinché formassimo la Chiesa, suo corpo, nell’unità di una sola fede e di un solo Battesimo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per mezzo di lui a tutti i popoli hai donato il tuo santo Spirito, principio mirabile della varietà dei carismi e artefice di unità nell’amore: egli dimora nei tuoi figli di adozione e riempie e guida tutta la Chiesa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi, uniti all’assemblea degli angeli e dei santi, cantiamo con gioia l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon de te rendre gloire,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce, toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à toi, Père très saint, Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par lui, tu nous conduis à la connaissance de la vérité,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous appelant à devenir son corps grâce à la même foi et par un seul baptême ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par lui, tu répands ton Esprit Saint sur tous les peuples du monde,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’Esprit qui met en œuvre ses dons les plus divers et qui réalise l’unité :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il habite le cœur de tes fils,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il remplit l’Église tout entière,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il ne cesse de la guider."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et tous les saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous proclamons ta gloire en (disant) chantant d’une seule voix :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Die Einheit als Werk Gottes durch Christus und den Heiligen Geist"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In ihm hast du uns zur Erkenntnis der Wahrheit geführt und uns zu Gliedern seines Leibes gemacht durch den einen Glauben und die eine Taufe."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn hast du deinen Heiligen Geist ausgegossen über alle Völker, damit er Großes wirke mit seinen Gaben. Er wohnt in den Herzen der Glaubenden, er durchdringt und leitet die ganze Kirche und schafft ihre Einheit in Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir jetzt und in Ewigkeit dein Erbarmen und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Unus panis, et unum corpus multi sumus, omnes qui de uno pane et de uno cálice participámus."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Porque el pan es uno, nosotros, siendo muchos, formamos un solo cuerpo, pues todos participamos del mismo pan y del mismo cáliz."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Though many, we are one bread, one body,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "for we all partake of the one bread and one chalice."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Há um só pão e, embora sendo muitos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "formamos um só corpo, todos os que participamos do mesmo pão e do mesmo cálice."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Uno solo è il pane, e noi, pur essendo molti, siamo un corpo solo: tutti partecipiamo all’unico pane e all’unico calice."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Puisqu’il y a un seul pain, la multitude que nous sommes est un seul corps,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "car nous avons tous part à un seul pain et à un seul calice."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ein Brot ist es. Darum sind wir viele e i n Leib; denn wir alle haben teil an dem e i n e n Brot und dem e i n e n Kelch."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Hæc tua, Dómine, sumpta sacra commúnio, sicut fidélium in te uniónem præsígnat, sic in Ecclésia tua unitátis operétur efféctum. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, esta santa comunión contigo que hemos recibido,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "anticipo de la unión de los fieles en ti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "realice también la unidad en tu Iglesia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "As this reception of your holy Communion, O Lord, foreshadows the union of the faithful in you,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so may it bring about unity in your Church."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Fazei, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que a sagrada comunhão dos vossos mistérios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sinal da nossa união convosco,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "realize a unidade na vossa Igreja Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "La partecipazione ai tuoi santi misteri, o Signore, come prefigura la nostra unione in te, così realizzi l’unità nella tua Chiesa. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cette communion à tes mystères, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "préfigure l’union des fidèles en toi ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais qu’elle produise un fruit d’unité dans ton Église."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, das heilige Mahl ist ein sichtbares Zeichen, dass deine Gläubigen in dir eins sind. Lass diese Feier wirksam werden für die Einheit der Kirche. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

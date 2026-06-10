@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.03-17.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Gertrud von Nivelles, Äbtissin"
+  },
+  "description": {
+    "de": "Die 626 geborene Tochter Pippins d. Ä. trat in das von ihrer Mutter, der hl. Iduberga, gegründete Kloster Nivelles ein und wurde nach dem Tod der Mutter dessen erste Äbtissin. Ausgezeichnet durch Schriftkenntnis, Nächstenliebe und Tugendeifer, vermittelte sie in ihrem Wirkungsbereich Bücher und sorgte für die Schrifterklärung durch Mönche aus Irland. Sie starb am 17. März 653 oder 659. Ihr Reliquienschrein befindet sich in der Kollegiatkirche zu Nivelles."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, du hast im Herzen der heiligen Gertrud das Verlangen geweckt, das Wort der Schrift zu verstehen und deine Weisung zu erkennen. Lehre auch uns, aus der Kraft deines Wortes zu leben und Werke der Liebe zu tun. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

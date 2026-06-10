@@ -1,0 +1,1238 @@
+{
+  "id": "sanctorale.01-24",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Francisci de Sales, episcopi et Ecclésiæ doctoris",
+    "es": "San Francisco de Sales, obispo y doctor de la Iglesia",
+    "en-US": "Saint Francis de Sales, bishop and doctor of the Church",
+    "pt-BR": "São Francisco de Sales, bispo e doutor da Igreja",
+    "it": "SAN FRANCESCO DI SALES, vescovo e dottore della Chiesa",
+    "fr": "Saint François de Sales, évêque et docteur de l’Église",
+    "de": "Hl. Franz von Sales, Bischof, Ordensgründer, Kirchenlehrer"
+  },
+  "description": {
+    "la": "In Sabaudia anno 1567 natus est. Sacerdotio initiatus multa operatus est pro restauratione catholica in patria sua. Episcopus Genevensis electus, verum pastorem se præbuit erga clericos et fideles, ad fidem eos informans scriptis et operibus, exemplar ómnibus factus. Mortuus est Lugduni, die 28 decembris anni 1622, sed hac die Annesii depositus.",
+    "es": "Nació en Saboya el año 1567. Una vez ordenado sacerdote, trabajó intensamente por la restauración católica en su patria. Nombrado obispo de Ginebra, actuó como un verdadero pastor para con los clérigos y fieles, adoctrinándolos en la fe con sus escritos y con sus obras, convirtiéndose en un ejemplo para todos. Murió en Lyon el día 28 de diciembre del año 1622, pero fue el día 24 de enero del año siguiente cuando se realizó su sepultura definitiva en Annecy.",
+    "pt-BR": "Francisco (Thorens, Sabóia, em 1567 - Lião, França, 28 de dezembro de 1622), bispo de Genebra, Suíça, foi um dos grandes mestres de espiritualidade dos últimos séculos. Escreveu a \"Introdução à Vida Devota\" (Filoteia) e outras obras ascético-místicas. Nelas propõe uma vida de santidade acessível a todos e alicerçada inteiramente no amor a Deus, síntese de toda perfeição (Teótimo). Fundou, com Santa Joana Francisca Fremyot de Chantal, a Ordem da Visitação. Com sua doçura e sabedoria pastoral, soube atrair para a Igreja muitos calvinistas. Foi sepultado em Annecy, onde tinha passado a maior parte de sua vida, a 24 de janeiro de 1623.",
+    "it": "Francesco (Sales, Francia, 1567 - Lione, 28 dicembre 1622), vescovo di Ginevra (Svizzera) con sede ad Annecy (Francia), grazie alla sua umana dolcezza e alla saggezza pastorale, favorì l’unità della Chiesa in un territorio caratterizzato da forti contrasti tra cattolici e calvinisti. Con l’Introduzione alla vita devota e altre opere ascetico-mistiche propose una via di santità accessibile in tutte le condizioni di vita, in quanto fondata interamente sull’amore di Dio, compendio di ogni perfezione. Con santa Giovanna Francesca Frémyot de Chantal fondò l’Ordine femminile della Visitazione. Il giorno della memoria liturgica corrisponde a quello della sua sepoltura ad Annecy.",
+    "fr": "François de Sales (1567-1622) fut essentiellement un pasteur. Missionnaire, puis évêque de Genève résidant à Annecy, fondateur de la Visitation avec Jeanne-Françoise de Chantal, il se fit tout à tous par la parole et par l’écrit, traitant de théologie avec les Protestants, mettant la vie spirituelle à la portée des laïcs, attentif aux petits comme aux grands.",
+    "de": "Er wurde im Jahr 1567 in Savoyen (Frankreich) geboren. Nach seiner Priesterweihe arbeitete er intensiv für den Wiederaufbau der katholischen Kirche in seinem Heimatland. Nach der Ernennung zum Bischof von Genf, agierte er als guter Seelsorger für die Kleriker und Laien, indem er sie durch seine Schriften und Werke im Glauben unterwies und so zu einem Beispiel für alle wurde. Er starb am 28. Dezember 1622 in Lyon, seine Gebeine erreichten jedoch erst am 24. Januar des darauffolgenden Jahres ihre Ruhestätte in Annecy."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui ad animárum salútem beátum Francíscum epíscopum ómnibus ómnia factum esse voluísti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concéde propítius,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, eius exémplo, tuæ mansuetúdinem caritátis in fratrum servítio semper ostendámus."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tú has querido que el santo obispo Francisco de Sales se hiciera todo para todos por la salvación de las almas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en tu bondad, a ejemplo suyo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "manifestar siempre la dulzura de tu amor en el servicio a los hermanos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who for the salvation of souls willed that the Bishop Saint Francis de Sales become all things to all,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "graciously grant that,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "following his example,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may always display the gentleness of your charity in the service of our neighbor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, quisestes que na caridade apostólica o bispo São Francisco de Sales se fizesse tudo para todos;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos benigno que; a seu exemplo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "manifestemos sempre a mansidão do vosso amor no serviço aos irmãos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, per la salvezza delle anime hai voluto che il vescovo san Francesco [di Sales] si facesse tutto a tutti: concedi a noi, sul suo esempio, di testimoniare sempre nel servizio ai fratelli la dolcezza del tuo amore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour le salut des âmes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as voulu que l’évêque saint François de Sales devienne le serviteur de tous en toutes choses ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dans ta bonté, accorde-nous, à son exemple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de manifester toujours ta douce charité dans le service fraternel."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gütiger Gott, du hast den heiligen Franz von Sales dazu berufen, als Bischof und Lehrer allen alles zu werden. Hilf uns, sein Beispiel nachzuahmen und den Brüdern zu dienen, damit durch uns deine Menschenfreundlichkeit sichtbar wird."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Per hanc salutárem hóstiam quam offérimus tibi, Dómine,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cor nostrum divíno illo Sancti Spíritus igne succénde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quo mitíssimum beáti Francísci ánimum mirabíliter inflammásti."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Por este sacrificio de salvación que te ofrecemos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "enciende nuestro corazón en el fuego del Espíritu Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "con el que inflamaste admirablemente el alma llena de ternura de san Francisco de Sales."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Through this saving sacrifice which we offer you, O Lord, kindle in our hearts that divine fire of the Holy Spirit with which you wonderfully inflamed the most gentle soul of Saint Francis de Sales."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, por este sacrifício salutar que vos oferecemos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "acendei em nós aquele fogo do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que abrasava de modo admirável o coração manso e humilde de São Francisco de Sales."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, per questo sacrificio di salvezza accendi il nostro cuore con il fuoco dello Spirito Santo che infiammò mirabilmente l’animo mitissimo di san Francesco [di Sales]. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nous t’offrons, Seigneur, le sacrifice qui nous sauve :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par lui, embrase-nous du feu de l’Esprit Saint qui brûlait admirablement le cœur très doux de saint François."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, das Opfer, das wir darbringen, entzünde in unseren Herzen das Feuer des Heiligen Geistes. Lass in uns jene Güte wachsen, die den heiligen Franz von Sales so liebenswert gemacht hat. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concéde, quǽsumus, omnípotens Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, per sacraménta quæ súmpsimus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "beáti Francísci caritátem et mansuetúdinem imitántes in terris,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "glóriam quoque consequámur in cælis."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios todopoderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por estos sacramentos que hemos recibido,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos que, imitando en la tierra el amor y mansedumbre de san Francisco de Sales,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "alcancemos también la gloria del cielo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant, we pray, almighty God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that through the Sacrament we have received,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may imitate on earth the charity and meekness of Saint Francis de Sales and so attain like him the glory of heaven."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus todo-poderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos, pelo sacramento que recebemos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, imitando na terra a bondade e a mansidão de São Francisco de Sales,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "alcancemos também a glória no céu."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedi a noi, Dio onnipotente, che, nutriti da questi sacramenti, possiamo imitare in terra la carità e la mitezza di san Francesco [di Sales], e raggiungere anche noi la gloria nei cieli. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Par le sacrement que nous avons reçu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous, Dieu tout-puissant, d’imiter sur la terre la douceur et la charité de saint François,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour obtenir avec lui la gloire du ciel."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, hilf uns durch das Sakrament, das wir empfangen haben, die Freundlichkeit und Liebe des heiligen Franz von Sales nachzuahmen, und führe uns mit ihm zur Vollendung in dir. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

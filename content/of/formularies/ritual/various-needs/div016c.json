@@ -1,0 +1,1674 @@
+{
+  "id": "ritual.various-needs.div016c",
+  "kind": "ritual",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "I. PRO SANCTA ECCLESIA 11. IN ANNIVERSARIIS MATRIMONII C In L anniversario",
+    "es": "I. POR LA SANTA IGLESIA 11. EN LOS ANIVERSARIOS DEL MATRIMONIO C En el L aniversario (bodas de oro)",
+    "en-US": "I. for Holy Church 11. on the Anniversaries of Marriage C On the Fiftieth Anniversary",
+    "pt-BR": "I. Pela Santa Igreja 11. nos Aniversários de Casamento C No 50º aniversário",
+    "it": "I. PER LA SANTA CHIESA 11. PER L’ANNIVERSARIO DEL MATRIMONIO B.Nel venticinquesimo anniversario",
+    "fr": "I. POUR LA SAINTE ÉGLISE 11. POUR LES ANNIVERSAIRES DE MARIAGE C Pour le 50e anniversaire",
+    "de": "I. FÜR DIE HEILIGE KIRCHE"
+  },
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cantáte et psállite in córdibus vestris Dómino, grátias agéntes semper pro ómnibus in nómine Dómini nostri Iesu Christi Deo et Patri."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cantad y tocad con toda el alma para el Señor. Dad siempre gracias a Dios Padre por todo, en nombre de nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sing and make music to the Lord in your hearts, always thanking god the father for all things in the name of our Lord Jesus Christ."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cantai e celebrai o Senhor de todo o vosso coração."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Em todo o tempo e a propósito de tudo rendei graças a Deus Pai em nome de nosso Senhor Jesus Cristo."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Chantez le Seigneur et célébrez-le de tout votre cœur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "À tout moment et pour toutes choses,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "au nom de notre Seigneur Jésus Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "rendez grâce à Dieu le Père."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Singt und jubelt aus vollen Herzen zum Lob des Herrn! Sagt Gott, dem Vater,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "jederzeit Dank für alles im Namen unseres Herrn Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus Pater omnípotens, hos cóniuges"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "cleménter aspícias, cum sóbole sua, quam ad vitam fidémque genuérunt pro bonis longǽvæ conversatiónis opéribus, et eórum fructíferam bénedic senectútem, sicut eórum caritátis primítias sacraménto mirábili confirmásti."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios, Padre todopoderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mira con bondad a estos esposos,"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "y"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "text": "y a los hijos que engendraron para la vida y la fe"
+                },
+                {
+                  "type": "rubric",
+                  "text": "]"
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "con las buenas obras de su larga vida matrimonial,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y bendice su fecunda longevidad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "del mismo modo que confirmaste las primicias de su amor con un maravilloso sacramento."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, almighty Father,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "for the sake of the good works they have done through their long life together,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "look kindly on this husband and wife"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "and"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "(with the children they have brought to life and faith)"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and, as you sealed the beginnings of their love by a wonderful sacrament,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so bless their fruitful old age."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus Pai onipotente,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "olhai com bondade este casal"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "com os filhos que geraram para a vida e a fé e considerai o bem que praticaram em seu fiel convívio."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Assim como abençoastes as primícias do seu amor no admirável sacramento do Matrimônio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cobri agora de bênçãos os frutos de sua longa vida."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, che hai unito"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "y"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "nel vincolo indissolubile del Matrimonio e hai voluto sostenerli in comunione di spirito tra le fatiche e le gioie della vita, accresci e purifica il loro amore, perché si allietino"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "text": "con i loro figli]"
+                },
+                {
+                  "type": "rubric",
+                  "text": "]"
+                },
+                {
+                  "type": "text",
+                  "text": "nella vicendevole santificazione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, Père tout-puissant,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "regarde avec bonté ces époux"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "(avec ceux auxquels ils ont transmis la vie et la foi) ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "regarde tout le bien qu’ils ont fait au long de leur vie commune ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "bénis-les dans l’âge qu’ils ont atteint et qui porte encore du fruit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "comme tu as soutenu par un sacrement admirable les commencements de leur amour."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, sieh in Gnaden auf dieses Jubelpaar (N. und N.) (und ihre Kinder und Kindeskinder, die ihnen das Leben und den christlichen Glauben verdanken). Du hast den Anfang ihrer Liebe gesegnet und im Sakrament gestärkt. Fünfzig Jahre haben sie gemeinsam nach deinem Willen gelebt; schenke ihnen nun ein gesegnetes Alter. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Hæc múnera, Deus, in gratiárum actiónem pro fámulis tuis"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "dignánter assúme,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui tot annos una simul fide sincéra vixérunt, et ómnia bona unitátis et pacis a tua póstulant largitáte. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Acoge, Señor, estos dones que te presentamos en acción de gracias por tus siervos"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "y"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que durante tantos años han vivido juntos en fidelidad y amor sinceros,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y piden de tu generosidad todos los bienes de la unidad y de la paz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Be pleased, O God, to receive these offerings,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "presented in thanksgiving for your servants"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "and"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who have lived as one in true fidelity these many years and who ask of your bounty all the blessings of unity and peace."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, acolhei benigno estas oferendas que apresentamos em ação de graças pelos vossos filhos"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "Depois de tantos anos vividos juntos em fidelidade sincera,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pedem de vossa generosidade os bens da unidade e da paz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accogli con bontà, o Signore, i doni che ti offriamo in rendimento di grazie per"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "da venticinque anni uniti in Matrimonio, perché dal sacramento dell’altare possano attingere abbondanza di gioia e di pace. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accueille avec bonté, Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "l’offrande que nous te présentons en action de grâce pour tes serviteurs"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ";"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "après tant d’années de vie commune dans la fidélité de leur amour,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ils te demandent de leur accorder largement tout ce qui favorise la paix et l’unité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, nimm die Gaben an, die wir dir voll Dankbarkeit für deine Diener darbringen. Viele Jahre haben sie in ehelicher Gemeinschaft miteinander gelebt; schenke ihnen weiterhin deinen Segen, Gesundheit, Eintracht und Frieden. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf061",
+      "label": {
+        "la": "PRÆFATIO COMMUNIS IV",
+        "es": "PREFACIO COMÚN IV",
+        "en-US": "Common Preface Iv",
+        "pt-BR": "Prefácio Comum Iv o",
+        "it": "PREFAZIO COMUNE IV",
+        "fr": "PRÉFACE COMMUNE N°4",
+        "de": "PRÄFATION FÜR DIE WOCHENTAGE IV"
+      },
+      "excerpt": {
+        "la": "De laude, dono Dei",
+        "es": "Nuestra misma acción de gracias es un don de Dios",
+        "en-US": "Praise, the gift of God",
+        "pt-BR": "louvor, dom de Deus",
+        "it": "La lode, dono di Dio",
+        "fr": "La louange, don de Dieu",
+        "de": "Gotteslob als Gottesgeschenk"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis, quæ præfatione propria carent, nec sumere debent præfationem de témpore."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia, cum nostra laude non égeas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuum tamen est donum quod tibi grates rependámus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nam te non augent nostra præcónia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed nobis profíciunt ad salútem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, choris angélicis sociáti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te laudámus in gáudio confiténtes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas que carecen de prefacio propio y no deben tomar un prefacio del tiempo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pues aunque no necesitas nuestra alabanza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ni nuestras bendiciones te enriquecen,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tú inspiras y haces tuya nuestra acción de gracias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que nos sirva de salvación,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a los coros angélicos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos proclamando llenos de alegría:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses that have no proper Preface, and for which a Preface related to a specific liturgical time is not indicated."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, although you have no need of our praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "yet our thanksgiving is itself your gift,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "since our praises add nothing to your greatness but profit us for salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, in company with the choirs of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, and with joy we proclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas que não têm prefácio próprio e quando não se deve usar um prefácio do tempo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ainda que nossos louvores não vos sejam necessários,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vós nos concedeis o dom de vos louvar."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nossos hinos de louvor não acrescentam nada à vossa infinita grandeza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mas nos ajudam alcançar a salvação,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, associados aos coros dos Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos com alegria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle Messe che non hanno prefazio proprio e quando non è richiesto il prefazio del Tempo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lodarti e ringraziarti sempre per i tuoi benefici,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu non hai bisogno della nostra lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ma per un dono del tuo amore ci chiami a renderti grazie;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "i nostri inni di benedizione non accrescono la tua grandezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ma ci ottengono la grazia che ci salva,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo nostro Signore."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con tutti gli angeli del cielo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "innalziamo a te il nostro canto,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e proclamiamo insieme la tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les Messes qui n’ont pas de Préface propre et ne doivent pas prendre une Préface du temps."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu n’as pas besoin de notre louange,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et pourtant c’est toi qui nous donnes de répondre à tes bienfaits en te rendant grâce :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos chants n’ajoutent rien à ce que tu es,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mais nous font progresser vers le salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unissant nos voix à celles des anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons dans la joie en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen genommen, die keine eigene Präfation haben und in denen nicht die Präfation von der jeweiligen Zeit im Kirchenjahr zu nehmen ist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und deine Größe zu preisen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Du bedarfst nicht unseres Lobes, es ist ein Geschenk deiner Gnade, dass wir dir danken. Unser Lobpreis kann deine Größe nicht mehren, doch uns bringt er Segen und Heil durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn rühmen wir jetzt und in Ewigkeit dein Erbarmen und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Quid retríbuam Dómino pro ómnibus quæ retríbuit mihi? Cálicem salutáris accípiam, et nomen Dómini invocábo."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "¿Cómo pagaré al Señor todo el bien que me ha hecho? Alzaré la copa de la salvación, invocando el nombre del Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "How can I repay the Lord for all his goodness to me? the chalice of salvation I will raise,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and I will call on the name of the Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que poderei retribuir ao Senhor Deus por tudo aquilo que ele fez em meu favor?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Elevo o cálice da minha salvação,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "invocando o nome santo do Senhor."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Comment rendrai-je au Seigneur tout le bien qu’il m’a fait ?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "J’élèverai la coupe du salut,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "j’invoquerai le nom du Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Wie kann ich dem Herrn all das vergelten, was er mir Gutes getan hat? Ich will den Kelch des Heils erheben und anrufen den Namen des Herrn."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "la": "Ps 115, 12-13",
+            "es": "Ps 115, 12-13",
+            "en-US": "Ps 115, 12-13",
+            "pt-BR": "Sl 115, 12-13",
+            "fr": "Ps 115, 12-13",
+            "de": "Ps 116 (115), 12-13"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mensæ tuæ pasti delíciis, te, Dómine, deprecámur, ut hos cóniuges"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "in sancta senectúte custódias, donec ambos, plenos diérum, ad tuum admíttas cæléste convívium. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alimentados con las delicias de tu mesa,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que guardes a estos esposos"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "y"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en una santa ancianidad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "hasta que admitas a ambos, llenos de días,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en tu banquete del cielo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Having tasted the delights of your table, we entreat you, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to keep this married couple"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "and"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "safe and holy in the years ahead,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "until you welcome them both, in the fullness of their days, to your heavenly banquet."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, que nos fizestes saborear o alimento admirável da vossa mesa,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "confirmai na santidade estes esposos"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ao longo de toda a sua vida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que um dia, ricos de boas obras,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sejam recebidos no banquete celeste."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che hai accolto con benevolenza alla mensa della tua famiglia i coniugi"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "text": "con i figli e gli amici"
+                },
+                {
+                  "type": "rubric",
+                  "text": "]"
+                },
+                {
+                  "type": "text",
+                  "text": ", concedi loro di progredire fedelmente nella comunione che li unisce, fino a partecipare insieme, per tuo dono, al convito del cielo. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Après avoir goûté aux joies de cette table,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’en prions, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais grandir en sainteté ces époux"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "qui avancent en âge ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "garde-les longtemps l’un à l’autre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "jusqu’à l’heure où tu les convieras au banquet du ciel."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, wir danken dir, dass du uns an deinem Tisch gestärkt hast."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Sieh gnädig auf dieses Jubelpaar (N. und N.) und behüte sie in ihrem Alter, bis du beide,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "reich an Jahren und guten Werken, heimführst zum ewigen Gastmahl. Darum bitten wir durch Christus, unsren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

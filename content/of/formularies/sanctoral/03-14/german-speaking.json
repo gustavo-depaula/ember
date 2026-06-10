@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.03-14.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Mathilde, Königin"
+  },
+  "description": {
+    "de": "Als zweite Gemahlin Heinrichs I. und Urenkelin des Sachsenherzogs Widukind, im Kloster Herford erzogen, erschien sie schon den Zeitgenossen als “Frau von wunderbarer Heiligkeit”. Von den fünf Kindern wurde Otto Kaiser, Bruno Erzbischof von Köln und Heinrich Herzog von Bayern. Mehrere Stifte und Klöster haben die Heilige Mathilde zur Gründerin. Sie starb 968 in Quedlinburg und wurde in der dortigen Schlosskirche beigesetzt."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du liebst die Menschen, die Frieden stiften und barmherzig sind. Mit deiner Hilfe hat die heilige Königin Mathilde Streitende versöhnt und den Notleidenden geholfen. Schenke auch uns Güte und Geduld und mache uns zum Werkzeug deines Friedens. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

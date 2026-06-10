@@ -1,0 +1,79 @@
+{
+  "id": "sanctorale.07-01.united-states",
+  "kind": "sanctoral",
+  "scope": "united-states",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Junípero Serra, Priest"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who by your ineffable mercy,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "have been pleased through the labors"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "of your priest Saint Junipero Serra"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to count many American peoples within your Church, grant by his intercession"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we may so join our hearts to you in love,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "as to carry always and everywhere before all people"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the image of your Only Begotten Son."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

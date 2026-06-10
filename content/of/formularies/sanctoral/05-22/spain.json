@@ -1,0 +1,184 @@
+{
+  "id": "sanctorale.05-22.spain",
+  "kind": "sanctoral",
+  "scope": "spain",
+  "structure": "mass",
+  "title": {
+    "es": "Santa Joaquina Vedruna, religiosa"
+  },
+  "description": {
+    "es": "Joaquina Vedruna y de Mas nació en Barcelona el año 1783. Como esposa y madre fue modelo de abnegación, prudencia y delicadeza. En el año 1826 fundó el Instituto de las Hermanas Carmelitas de la Caridad, dedicado al cuidado de los enfermos y a la educación de las jóvenes. Murió en Barcelona en 1854."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tú que has hecho surgir en la Iglesia a santa Joaquina Vedruna"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para la educación cristiana de la juventud y el alivio de los enfermos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "haz que sepamos imitar sus ejemplos"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y dediquemos nuestra vida"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a servir con amor a nuestros hermanos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Acepta, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "estos dones con los que vamos a celebrar"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "el memorial del amor de tu Hijo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y concede a cuantos participamos en estos misterios"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, a ejemplo de santa Joaquina Vedruna,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sepamos amarte sobre todas las cosas"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y a todas las personas por amor a ti."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te pedimos, Señor, que esta eucaristía"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "acreciente tu vida en nosotros"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y que, por nuestras palabras y acciones,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "seamos, como santa Joaquina,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "amor para los que nos rodean"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y luz para los que nos contemplan."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

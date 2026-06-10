@@ -1,0 +1,79 @@
+{
+  "id": "sanctorale.11-18.united-states",
+  "kind": "sanctoral",
+  "scope": "united-states",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Rose Philippine Duchesne, Virgin"
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Almighty God, who filled the heart of Saint Rose Philippine Duchesne with charity and missionary zeal,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and gave her the desire"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to make you known among all peoples,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant us to follow her way"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and fill us with that same love and zeal"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to extend your kingdom to the ends of the earth."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

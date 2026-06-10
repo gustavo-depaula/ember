@@ -1,0 +1,1726 @@
+{
+  "id": "sanctorale.01-20",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Fabiani, papæ et martyris",
+    "es": "San Fabián, papa y mártir",
+    "en-US": "Saint Fabian, pope and martyr",
+    "pt-BR": "São Fabiano, papa e mártir",
+    "it": "SAN FABIANO, papa e martire",
+    "fr": "Saint Fabien, pape et martyr",
+    "de": "Hl. Fabian, Papst, Märtyrer"
+  },
+  "description": {
+    "la": "Anno 236 episcopus Ecclésiæ Romanæ electus, anno 250 martyrio coronatus est, initio persecutionis Decii, ut testatur sanctus Cyprianus, et in cœmeterio Callisti sepultus est.",
+    "es": "Fue elegido obispo de la Iglesia de Roma el año 236 y recibió la corona del martirio el año 250, al comienzo de la persecución de Decio, como atestigua san Cipriano; fue sepultado en las catacumbas de Calixto.",
+    "pt-BR": "Fabiano, papa por quatorze anos (236-250), promoveu a consolidação e o desenvolvimento da Igreja. Dividiu Roma em sete diaconias para a assistência aos pobres. Com ele a figura do bispo de Roma assumiu prestígio tão grande que despertou preocupação no imperador Décio, sob o qual sofreu o martírio. Foi sepultado no cemitério de Calisto. A \"Depositio Martyrum\" (354) o recorda aos 20 de janeiro.",
+    "it": "Fabiano, papa per quasi quindici anni (236-250/251), organizzò la Chiesa di Roma in sette circoscrizioni ecclesiastiche, affidando ciascuna di esse a un diacono. Subì il martirio durante la persecuzione dell’imperatore Decio e fu sepolto nel cimitero di Callisto. Sia la Depositio martyrum (336) sia il Martirologio geronimiano (sec. V-VI) lo ricordano il 20 gennaio.",
+    "fr": "Le pape Fabien gouverna l’Église romaine durant quatorze années (236-250), qui furent des années de paix, d’organisation et d’essor missionnaire. Lorsque éclata la persécution de Dèce, il fut l’une de ses premières victimes.",
+    "de": "Er wurde im Jahr 236 zum Bischof der Kirche in Rom gewählt und empfing die Krone des Martyriums im Jahr 250, zu Beginn der Verfolgung durch Decius, wie der heilige Zyprianus bezeugt. Er wurde in der Calixtus-Katakombe beigesetzt."
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, tuórum glória sacerdótum,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "præsta, quǽsumus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, beáti Fabiáni mártyris tui interveniénte suffrágio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "eiúsdem proficiámus fídei consórtio dignóque servítio."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "gloria de tus sacerdotes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por la intercesión del mártir san Fabián,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "progresar en la comunión de la misma fe y en la dignidad del servicio."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, glory of your Priests,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, helped by the intercession of your Martyr Saint Fabian, we may make progress by communion in the faith and by worthy service."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que sois a glória de vossos sacerdotes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos, pela intercessão do vosso mártir São Fabiano,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "progredir na comunhão da mesma fé e na dedicação ao vosso serviço."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, gloria dei tuoi sacerdoti, donaci, per l’intercessione del tuo martire san Fabiano, di crescere nella comunione dell’unica fede e nel degno compimento del nostro servizio. Per il nostro Signore Gesù Cristo, tuo Figlio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu es la gloire de tes prêtres ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais qu’à la prière du bienheureux Fabien, ton martyr,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous progressions dans le partage de la même foi et dans le souci de mieux te servir."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du bist der Ruhm deiner Kirche und die Kraft ihrer Hirten. Du stärkst die Märtyrer zum Zeugnis und belohnst sie mit ewiger Herrlichkeit. Höre auf die Fürsprache des heiligen Papstes Fabian, mit dem uns der Glaube an Christus verbindet, und hilf auch uns, dir bis in den Tod die Treue zu bewahren. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 40",
+              "es": "Sal 40",
+              "en-US": "Ps 40",
+              "pt-BR": "Sl 40",
+              "it": "Sal 40",
+              "fr": "Ps 40",
+              "de": "Ps 40"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Aquí estoy, Señor, para hacer tu voluntad."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Here am I, Lord; I come to do your will."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Eis que venho fazer com prazer avossa vontade,"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": "Senhor!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ecco, Signore, io vengo per fare la tua volontà."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Me voici, Seigneur, je viens faire ta volonté."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exspéctans exspectávi Dóminum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et inténdit mihi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Et immísit in os meum cánticum novum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "carmen Deo nostro."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sacrifícium et oblatiónem noluísti,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "aures autem fodísti mihi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Holocáustum et pro peccáto non postulásti,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tunc dixi: «Ecce vénio»."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "«In volúmine libri scriptum est de me fácere voluntátem tuam."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deus meus, vólui,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et lex tua in præcórdiis meis»."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Annuntiávi iustítiam tuam in ecclésia magna;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ecce lábia mea non prohibébo, Dómine, tu scisti."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Yo esperaba con ansia al Señor;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "él se inclinó y escuchó mi grito."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Me puso en la boca un cántico nuevo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "un himno a nuestro Dios."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tú no quieres sacrificios ni ofrendas, y, en cambio, me abriste el oído;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "no pides holocaustos ni sacrificios expiatorios; entonces yo digo: «Aquí estoy»."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "«—Como está escrito en mi libro— para hacer tu voluntad."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dios mío, lo quiero, y llevo tu ley en las entrañas»."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "He proclamado tu justicia ante la gran asamblea;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "no he cerrado los labios, Señor, tú lo sabes."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "No me he guardado en el pecho tu justicia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "he contado tu fidelidad y tu salvación."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I waited, I waited for the Lord and he stooped down to me. He put a new song into my mouth, praise of our God."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "You do not ask for sacrifice and offerings, but an open ear. You do not ask for holocaust and victim. Instead, here am I."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In the scroll of the book it stands written that I should do your will. My God, I delight in your law in the depth of my heart."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Your justice I have proclaim in the great assembly. My lips I have not sealed;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "you know it, O Lord."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Esperando, esperei no Senhor e inclinando-se ouviu meu clamor."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Um canto novo ele pôs em meus lábios, um poema em louvor ao Senhor."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; não pedistes ofertas nem vítimas, holocaustos por nossos pecados, e então eu vos disse: \"Eis que venho!\"."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sobre mim está escrito no livro: \"Com prazer faço a vossa vontade, guardo em meu coração vossa lei!\""
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Boas novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!"
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ho sperato, ho sperato nel Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ed egli su di me si è chinato,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ha dato ascolto al mio grido."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mi ha messo sulla bocca un canto nuovo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "una lode al nostro Dio."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sacrificio e offerta non gradisci,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "gli orecchi mi hai aperto,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "non hai chiesto olocausto né sacrificio per il peccato."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Allora ho detto:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "«Ecco, io vengo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Nel rotolo del libro su di me è scritto di fare la tua volontà:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mio Dio, questo io desidero;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la tua legge è nel mio intimo»."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ho annunciato la tua giustizia nella grande assemblea;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vedi: non tengo chiuse le labbra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Signore, tu lo sai."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "D’un grand espoir j’espérais le Seigneur :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il s’est penché vers moi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ma bouche il a mis un chant nouveau,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "une louange à notre Dieu."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu ne voulais ni offrande ni sacrifice,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tu as ouvert mes oreilles ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tu ne demandais ni holocauste ni victime,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "alors j’ai dit : \" Voici, je viens."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "\" Dans le livre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "est écrit pour moi ce que tu veux que je fasse."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mon Dieu, voilà ce que j’aime :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ta loi me tient aux entrailles. \""
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "J’annonce la justice dans la grande assemblée ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vois, je ne retiens pas mes lèvres,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seigneur, tu le sais."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich hoffte, ja ich hoffte auf den Herrn."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Da neigte er sich mir zu und hörte mein Schreien."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er legte mir ein neues Lied in den Mund,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "einen Lobgesang auf ihn, unsern Gott."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "An Schlacht- und Speiseopfern hast du kein Gefallen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brand- und Sündopfer forderst du nicht."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Doch das Gehör hast du mir eingepflanzt;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "darum sage ich: Ja, ich komme."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In dieser Schriftrolle steht, was an mir geschehen ist."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deinen Willen zu tun, mein Gott, macht mir Freude,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "deine Weisung trag‘ ich im Herzen."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gerechtigkeit verkünde ich in großer Gemeinde,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "meine Lippen verschließe ich nicht; Herr, du weißt es."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ego sum pastor bonus, dicit Dóminus, et cognósco oves meas, et cognóscunt me meæ."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Yo soy el Buen Pastor —dice el Señor— que conozco a mis ovejas, y las mías me conocen."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "I am the good shepherd, says the Lord; I know my sheep, and mine know me."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Eu sou o bom Pastor, conheço minhas ovelhas e elas me conhecem, assim fala o Senhor."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Io sono il buon pastore, dice il Signore, conosco le mie pecore e le mie pecore conoscono me."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "e suis le Bon Pasteur, dit le Seigneur ; je connais mes brebis et mes brebis me connaissent."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "(So spricht der Herr:) Ich bin der gute Hirt. Ich kenne die Meinen, und die Meinen kennen mich."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Io 10, 14",
+              "es": "Jn 10, 14",
+              "pt-BR": "Jo 10, 14",
+              "it": "Gv 10, 14",
+              "fr": "Io 10, 14",
+              "de": "Joh 10, 14"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

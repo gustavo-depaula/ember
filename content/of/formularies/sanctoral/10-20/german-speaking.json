@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.10-20.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Wendelin, Einsiedler"
+  },
+  "description": {
+    "de": "Wendelin lebte zur Zeit des Bischofs Magnerich von Tier (zwischen 560-580) als Einsiedler in den Vogesen. Nach der Legende war er ein iro-schottischer Königssohn, der Hirt und Einsiedler und schließlich Abt von Tholey wurde."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, unser Ursprung und Ziel, du hast deinen Knecht, den heiligen Einsiedler Wendelin, auf dem Weg der evangelischen Armut zur Freiheit des Geistes geführt und ihn zu unserem Fürsprecher bestellt. Hilf uns, dass wir in allen Sorgen dieses Lebens stets das eine Notwendige suchen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

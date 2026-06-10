@@ -1,0 +1,1814 @@
+{
+  "id": "sanctorale.01-27",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Angelæ Merici, virginis",
+    "es": "Santa Ángela de Mérici, virgen",
+    "en-US": "Saint Angela Merici, virgin",
+    "pt-BR": "Santa Ângela Mérici, virgem",
+    "it": "SANT’ANGELA MERICI, vergine",
+    "fr": "Sainte Angèle Merici, vierge",
+    "de": "Hl. Angela Meríci, Ordensgründerin"
+  },
+  "description": {
+    "la": "Circa annum 1470 nata est Desentiani in dicione Veneta. Tertii Ordinis sancti Francisci habitum sumpsit et puellas convocavit, quas in operibus caritatis instrueret. Anno 1535 Brixiæ, sub nómine S. Ursulæ, societatem instituit mulierum ad puellas pauperes erudiendas in vita christiana. Mortua est anno 1540.",
+    "es": "Nació alrededor del año 1470 en Desenzano, región de Venecia. Tomó el hábito de la tercera Orden franciscana y reunió a un grupo de jóvenes, a las que instruyó en la práctica de la caridad. El año 1535 fundó en Brescia una sociedad de mujeres, bajo la advocación de santa Úrsula, dedicadas a la formación cristiana de las niñas pobres. Murió el año 1540.",
+    "pt-BR": "Ângela (Desenzano, Veneto, Itália, entre os anos 1470-1475 - Bréscia, 27 de janeiro de 1540) fundou o Instituto das Ursulinas para a assistência espiritual e material das meninas órfãs e pobres, vendo nelas a presença viva de Cristo. Criou um método pedagógico profundamente animado de solicitude maternal. Com sua experiência, é precursora das intuições que hoje encontraram expressão nos institutos seculares e na participação dos leigos na missão da Igreja.",
+    "it": "Angela Merici (Desenzano del Garda, 1470 - Brescia, 1540) fondò a Brescia nel 1535 la Compagnia di sant’Orsola, istituzione di vita consacrata nel mondo, dotandola di Regola propria. I Ricordi e il Testamento manifestano profondo spirito evangelico e intensa vita spirituale. La diffusione della Compagnia e la nascita dei diversi Istituti di suore Orsoline hanno divulgato la venerazione della santa nel mondo. Fu canonizzata da Pio VII nel 1807.",
+    "fr": "Angèle Merici (1470-1540) fonda à Brescia (Lombardie) l’ordre des Ursulines pour l’éducation des filles et les missions. Elle dota ses compagnes d’une règle qui ne comportait ni clôture, ni multiplicité de dévotions, mais la recherche des contacts humains dans la prudence et la charité.",
+    "de": "Sie wurde um das Jahr 1470 in Desenzano, in der Region von Venedig, geboren. Sie trat in den dritten Orden der Franziskanerinnen ein und versammelte eine Gruppe von Jugendlichen um sich, welche sie in der Ausübung der Nächstenliebe unterwies. Im Jahr 1535 gründete sie in Brescia die Gemeinschaft der Heiligen Ursula, welche sich der christlichen Bildung bedürftiger Mädchen widmete. Sie starb im Jahr 1540."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Pietáti tuæ, quǽsumus, Dómine,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos beáta virgo Angela commendáre non désinat,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, eius caritátis et prudéntiæ documénta sectántes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tuam valeámus doctrínam custodíre et móribus profitéri."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Imploramos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de tu piedad, que no nos falte la intercesión de santa Angela de Mérici, virgen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, siguiendo su testimonio de caridad y prudencia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "podamos guardar tu doctrina y manifestarla en nuestras obras."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the Virgin Saint Angela never fail to commend us to your compassion,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "O Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, following the lessons of her charity and prudence,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may hold fast to your teaching and express it in what we do."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, a prece da virgem Santa Ângela nos recomende sem cessar à vossa paternal bondade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, seguindo os exemplos de sua caridade e prudência,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "possamos guardar os vossos ensinamentos e crescer na prática das virtudes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, l’intercessione della santa vergine Angela [Merici] ci affidi sempre al tuo amore di Padre, perché, seguendo i suoi esempi di carità e prudenza, custodiamo i tuoi insegnamenti e li testimoniamo nella nostra vita."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que la prière de sainte Angèle, vierge bienheureuse,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous recommande sans cesse à ta bonté, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour que, dociles à ses exemples de prudence et de charité,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous puissions être fidèles à ton enseignement et en témoigner dans toute notre vie."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gütiger Gott, höre auf die Fürsprache der heiligen Angela. Öffne unsere Augen für das Beispiel der Liebe und der Klugheit, das sie als christliche Erzieherin gegeben hat. Hilf uns, an der wahren Lehre festzuhalten und sie im Leben zu bezeugen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "1 Pe 4, 7-11",
+              "es": "1 Pe 4, 7b-11",
+              "en-US": "1 Pet 4:7-11",
+              "pt-BR": "1 Pd 4, 7b-11",
+              "it": "1 Pt 4, 7-11",
+              "fr": "1 P 4, 7-11",
+              "de": "1 Petr 4, 7b-11"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ primæ beáti Petri apóstoli",
+              "es": "Lectura de la primera carta del apóstol san Pedro",
+              "en-US": "A reading from the first Letter of Saint Peter",
+              "pt-BR": "Leitura da Primeira Carta de São Pedro",
+              "it": "Dalla prima lettera di san Pietro apostolo",
+              "fr": "Première lettre de saint Pierre Apôtre",
+              "de": "Lesung aus dem ersten Brief des Apostels Petrus"
+            },
+            "summary": {
+              "la": "Uniusquisque, sicut accepit donationem, in alterutrum illam administrantes.",
+              "es": "Poned al servicio de los demás el carisma que cada uno ha recibido",
+              "pt-BR": "Cada um coloque à disposição dos outros o dom que recebeu.",
+              "it": "Ciascuno, secondo il dono ricevuto, lo metta a servizio degli altri."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Caríssimi: Estóte prudéntes et vigiláte in oratiónibus. Ante ómnia mútuam in vosmetípsos caritátem contínuam habéntes, quia cáritas óperit multitúdinem peccatórum; hospitáles ínvicem sine murmuratióne; unusquísque, sicut accépit donatiónem, in altérutrum illam administrántes, sicut boni dispensatóres multifórmis grátiæ Dei. Si quis lóquitur, quasi sermónes Dei; si quis minístrat, tamquam ex virtúte, quam largítur Deus, ut in ómnibus glorificétur Deus per Iesum Christum: cui est glória et impérium in sǽcula sæculórum. Amen."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Queridos hermanos: Sed sensatos y sobrios para la oración. Ante todo, mantened un amor intenso entre vosotros, porque el amor tapa multitud de pecados. Sed hospitalarios unos con otros sin protestar. Como buenos administradores de la multiforme gracia de Dios, poned al servicio de los demás el carisma que cada uno ha recibido. Si uno habla, que sean sus palabras como palabras de Dios; si uno presta servicio, que lo haga con la fuerza que Dios le concede, para que Dios sea glorificado en todo, por medio de Jesucristo, a quien corresponden la gloria y el poder por los siglos de los siglos. Amén."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "To pray better, keep a calm and sober mind. Above all, never let your love for each other grow insincere, since love covers over many a sin. Welcome each other into your houses without grumbling. Each one of you has received a special grace, so, like good stewards responsible for all these different graces of God, put yourselves at the service of others. If you are a speaker, speak in words which seem to come from God; if you are a helper, help as though every action was done at God's orders; so that in everything God may receive the glory, through Jesus Christ, since to him alone belong all glory and power for ever and ever. Amen."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Caríssimos: Vivei com inteligência e vigiai, dados à oração. Sobretudo, cultivai o amor mutuo, com todo o ardor, porque o amor cobre uma multidão de pecados. Sede hospitaleiros uns com os outros, sem reclamações. Como bons administradores da multiforme graça de Deus, cada um coloque à disposição dos outros o dom que recebeu. Se alguém tem o dom de falar, proceda como com palavras de Deus. Se alguém tem o dom de serviço, exerça-o como capacidade proporcionada por Deus, a fim de que em todas as coisas, Deus seja glorificado, em virtude de Jesus Cristo, a quem pertencem a glória e o poder, pelos séculos dos séculos. Amém."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Carissimi, la fine di tutte le cose è vicina. Siate dunque moderati e sobri, per dedicarvi alla preghiera. Soprattutto conservate tra voi una carità fervente, perché la carità copre una moltitudine di peccati. Praticate l’ospitalità gli uni verso gli altri, senza mormorare. Ciascuno, secondo il dono ricevuto, lo metta a servizio degli altri, come buoni amministratori della multiforme grazia di Dio. Chi parla, lo faccia con parole di Dio; chi esercita un ufficio, lo compia con l’energia ricevuta da Dio, perché in tutto sia glorificato Dio per mezzo di Gesù Cristo, al quale appartengono la gloria e la potenza nei secoli dei secoli. Amen!"
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Bien-aimés, soyez raisonnables et sobres en vue de la prière. Avant tout, ayez entre vous une charité intense, car la charité couvre une multitude de péchés. Pratiquez l’hospitalité les uns envers les autres sans récriminer. Ce que chacun de vous a reçu comme don de la grâce, mettez-le au service des autres, en bons gérants de la grâce de Dieu qui est si diverse : si quelqu’un parle, qu’il le fasse comme pour des paroles de Dieu ; celui qui assure le service, qu’il s’en acquitte comme avec la force procurée par Dieu. Ainsi, en tout, Dieu sera glorifié par Jésus Christ, à qui appartiennent la gloire et la souveraineté pour les siècles des siècles. Amen."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Seid besonnen und nüchtern, und betet! Vor allem haltet fest an der Liebe zueinander; denn die Liebe deckt viele Sünden zu. Seid untereinander gastfreundlich, ohne zu murren. Dient einander als gute Verwalter der vielfältigen Gnade Gottes, jeder mit der Gabe, die er empfangen hat. Wer redet, der rede mit den Worten, die Gott ihm gibt; wer dient, der diene aus der Kraft, die Gott verleiht. So wird in allem Gott verherrlicht durch Jesus Christus. Sein ist die Herrlichkeit und die Macht in alle Ewigkeit. Amen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 148, 1-2. 11-13a. 13c-14",
+              "es": "Sal 148, 1-2. 11-13a. 13c-14",
+              "en-US": "Ps 148:1-2, 11-13a, 13c-14",
+              "pt-BR": "Sl 148, 1-2. 11-13a. 13c-14",
+              "it": "Sal 148, 1-2. 11-13a. 13c-14",
+              "fr": "Ps 148, 1-2. 11-13a. 13c-14",
+              "de": "Ps 148, 1-2. 11-12. 13-14"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Iúvenes et vírgines, láudate nomen Dómini."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Jóvenes y doncellas, alabad el nombre del Señor."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Young men and women, praise the name of the Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Vós jovens, vós moças e rapazes, louvai todos o nome do Senhor!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Giovani e ragazze lodate il nome del Signore."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Jeunes gens et jeunes filles, louez le nom du Seigneur"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ihr jungen Männer und auch ihr Mädchen, lobt den Namen des Herrn!"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "response",
+                        "text": "Allelúia."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Aleluya."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Alleluia, alleluia, alleluia."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Alléluia"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "response",
+                        "text": "Halleluja."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Laudáte Dóminum de cælis,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "laudáte eum, in excélsis."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Laudáte eum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "omnes ángeli eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "laudáte eum, omnes virtútes eius."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Reges terræ et omnes pópuli,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "príncipes et omnes iúdices terræ,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "iúvenes et vírgines,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "senes cum iunióribus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "laudent nomen Dómini."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Conféssio eius super cælum et terram,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et exaltávit cornu pópuli sui."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hymnus ómnibus sanctis eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "fíliis Israel, pópulo qui propínquus est ei."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Alabad al Señor en el cielo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "alabad al Señor en lo alto."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Alabadlo todos sus ángeles;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "alabadlo todos sus ejércitos."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Reyes del orbe y todos los pueblos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "príncipes y jueces del mundo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "los jóvenes y también las doncellas,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "los ancianos junto con los niños,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "alaben el nombre del Señor."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Su majestad sobre el cielo y la tierra."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Él acrece el vigor de su pueblo."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Alabanza de todos sus fieles,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de Israel, su pueblo escogido."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Praise the Lord from the heavens, praise him in the heights. Praise him, all his angels, praise him all his host."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "All earth's kings and peoples, earth's princes and rulers; young men and maidens, old men together with children."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The splendor of his name reaches beyond heaven and earth. He exalts the strength of his people. He is the praise of all his saints, of the sons of Israel, of the people to whom he comes close."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Louvai o Senhor Deus nos altos céus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "louvai-o no excelso firmamento!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Louvai-o,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "anjos seus, todos louvai-o,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "louvai-o legiões celestiais!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Reis da terra, povos todos, bendizei-o e vós, príncipes e todos os juízes;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e vós, jovens, e vós moças e rapazes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "anciãos e criancinhas,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "bendizei-o!."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Louvai o nome do Senhor, louvai-o todos"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "A majestade e esplendor de sua glória ultrapassam em grandeza o séu e a terra."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ele exaltou seu povo eleito em poderio ele é o motivo de louvor para os seus santos É um hino para os filhos de Israel este povo que ele ama e lhe pertence"
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lodate il Signore dai cieli,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lodatelo nell’alto dei cieli."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lodatelo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "voi tutti, suoi angeli,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lodatelo, voi tutte, sue schiere."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I re della terra e i popoli tutti,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "i governanti e i giudici della terra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "i giovani e le ragazze,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "i vecchi insieme ai bambini lodino il nome del Signore."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "La sua maestà sovrasta la terra e i cieli."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ha accresciuto la potenza del suo popolo."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Egli è la lode, per tutti i suoi fedeli,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "per i figli d’Israele, popolo a lui vicino."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Louez le Seigneur du haut des cieux,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "louez-le dans les hauteurs."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vous, tous ses anges, louez-le,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "louez-le, tous les univers."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Louez le Seigneur depuis la terre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "les rois de la terre et tous les peuples."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tous les jeunes gens et jeunes filles,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "les vieillards comme les enfants."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qu’ils louent le nom du Seigneur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le seul au-dessus de tout nom ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sur le ciel et sur la terre, sa splendeur :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "louange de tous ses fidèles."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lobet den Herrn vom Himmel her,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lobt ihn in den Höhen."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lobt ihn, all seine Engel,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lobt ihn, all seine Scharen!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lobt ihn, ihr Könige der Erde und alle Völker,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihr Fürsten und alle Richter auf Erden,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihr jungen Männer und auch ihr Mädchen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihr Alten mit den Jungen!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Loben sollen sie den Namen des Herrn;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "denn sein Name allein ist erhaben,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "seine Hoheit strahlt über Erde und Himmel."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seinem Volk verleiht er Macht,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "das ist ein Ruhm für all seine Frommen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "für Israels Kinder, das Volk, das ihm nahen darf."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Benedíctus es, Pater, Dómine cæli et terræ, quia mystéria regni párvulis revelásti."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bendito seas, Padre, Señor del cielo y de la tierra, porque has revelado los misterios del reino a los pequeños."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Blessed are you, Father, Lord of heaven and earth; you have revealed to little ones the mysteries of the kingdom."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios de teu Reino aos pequeninos, escondendo-os aos doutores."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tu es béni, Père, Seigneur du ciel et de la terre, tu as révélé aux tout-petits les mystères du Royaume !"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Sei gepriesen, Vater, Herr des Himmels und der Erde; du hast die Geheimnisse des Reiches den Unmündigen offenbart."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Cf. Mt 11, 25",
+              "es": "Cf. Mt 11, 25",
+              "pt-BR": "Cf. Mt 11, 25",
+              "it": "Cf. Mt 11, 25",
+              "fr": "Cf. Mt 11, 25",
+              "de": "vgl. Mt 11, 25"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Mc 9, 34-37",
+              "es": "Mc 9, 34-37",
+              "en-US": "Mk 9:34-37",
+              "pt-BR": "Mc 9, 34-37",
+              "it": "Mc 9, 34-37",
+              "fr": "Mc 9, 34-37",
+              "de": "Mk 9, 34-37"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Marcum",
+              "es": "✠ Lectura del santo Evangelio según san Marcos",
+              "en-US": "✠ A reading from the holy Gospel according to Mark",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+              "it": "Dal Vangelo secondo Marco ✠ Dal Vangelo secondo Giovanni",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Marc",
+              "de": "✠ Aus dem heiligen Evangelium nach Markus"
+            },
+            "summary": {
+              "la": "Quisquis unum ex pueris receperit, me recipit.",
+              "es": "El que acoge a un niño me acoge a mí",
+              "pt-BR": "Quem acolher em meu nome uma destas crianças, é a mim que estará acolhendo.",
+              "it": "Chi accoglie uno solo di questi bambini nel mio nome, accoglie me."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Discípuli inter se in via disputáverant, quis esset maior. Et résidens vocávit Duódecim et ait illis: «Si quis vult primus esse, erit ómnium novíssimus et ómnium miníster». Et accípiens púerum, státuit eum in médio eórum; quem ut compléxus esset, ait illis: «Quisquis unum ex huiúsmodi púeris recéperit in nómine meo, me récipit; et, quicúmque me suscéperit, non me súscipit, sed eum qui me misit»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, los discípulos habían discutido por el camino quién era el más importante. Jesús se sentó, llamó a los Doce y les dijo: «Quien quiera ser el primero, que sea el último de todos y el servidor de todos». Y tomando un niño, lo puso en medio de ellos, lo abrazó y les dijo: «El que acoge a un niño como este en mi nombre, me acoge a mí; y el que me acoge a mí, no me acoge a mí, sino al que me ha enviado»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "They had been discussing among themselves on the way who was the greatest. Then he sat down, called the Twelve, and said to them, “If anyone wishes to be first, he shall be the last of all and the servant of all.” Taking a child he placed it in their midst, and putting his arms around it he said to them, “Whoever receives one child such as this in my name, receives me; and whoever receives me, receives not me but the One who sent me.”"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, os discípulos tinham discutido pelo caminho quem era o maior. Jesus sentou-se, chamou os doze e lhes disse: \"Se alguém quiser ser o primeiro, que seja o último de todos e aquele que serve a todos!\" Em seguida, pegou uma criança, colocou-a no meio deles, e abraçando-a disse: \"Quem acolher em meu nome uma destas crianças, é a mim que estará acolhendo. E quem me acolher está acolhendo não a mim, mas àquele que me enviou\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, i discepoli per la strada avevano discusso tra loro chi fosse più grande. Gesù, sedutosi, chiamò i Dodici e disse loro: «Se uno vuole essere il primo, sia l’ultimo di tutti e il servitore di tutti». E, preso un bambino, lo pose in mezzo a loro e, abbracciandolo, disse loro: «Chi accoglie uno solo di questi bambini nel mio nome, accoglie me; e chi accoglie me, non accoglie me, ma colui che mi ha mandato»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, en chemin, les disciples avaient discuté entre eux pour savoir qui était le plus grand. S’étant assis, Jésus appela les Douze et leur dit : « Si quelqu’un veut être le premier, qu’il soit le dernier de tous et le serviteur de tous. » Prenant alors un enfant, il le plaça au milieu d’eux, l’embrassa, et leur dit : « Quiconque accueille en mon nom un enfant comme celui-ci, c’est moi qu’il accueille. Et celui qui m’accueille, ce n’est pas moi qu’il accueille, mais Celui qui m’a envoyé. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit hatten die Jünger unterwegs miteinander darüber gesprochen, wer von ihnen der Größte sei. Da setzte sich Jesus, rief die Zwölf und sagte zu ihnen: Wer der Erste sein will, soll der Letzte von allen und der Diener aller sein. Und er stellte ein Kind in ihre Mitte, nahm es in seine Arme und sagte zu ihnen: Wer ein solches Kind um meinetwillen aufnimmt, der nimmt mich auf; wer aber mich aufnimmt, der nimmt nicht nur mich auf, sondern den, der mich gesandt hat."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1104 @@
+{
+  "id": "sanctorale.12-06",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Nicolai, episcopi",
+    "es": "San Nicolás, obispo",
+    "en-US": "Saint Nicholas, bishop",
+    "pt-BR": "São Nicolau, bispo",
+    "it": "SAN NICOLA, vescovo",
+    "fr": "Saint Nicolas, évêque",
+    "de": "Hl. Nikolaus, Bischof"
+  },
+  "description": {
+    "la": "Episcopus Myræ in Lycia (nunc in Turcarum regione) mortuus est circa medietatem sǽculi IV et in tota Ecclésia, præsertim a sæculo X, honoratur.",
+    "es": "Obispo de Mira, en Licia (hoy Turquía), murió mediado el siglo IV y fue venerado por toda la Iglesia, sobre todo desde el siglo X.",
+    "pt-BR": "Nicolau foi bispo de Mira, atual Demre marítima, na Turquia meridional (meados do séc. IV). É particularmente venerado na Rússia e em todo o Oriente. O seu culto difundiu-se também na Itália no séc. XI, quando em Bári lhe foi dedicada a basílica homônima. Associadas ao seu nome floresceram muitas tradições populares e iniciativas de caridade particularmente ligadas ao Natal. O seu sepultamento em 6 de dezembro é lembrado também nos ritos bizantino e copta.",
+    "it": "Nicola (sec. IV) fu vescovo di Myra (attuale Demre, Turchia). Dall’Oriente il suo culto si diffuse anche in Italia, dopo il trafugamento delle sue reliquie (1087) e la loro collocazione a Bari, nella basilica a lui intitolata, dove sono tuttora custodite. Nel suo nome fiorirono tradizioni popolari e iniziative di carità legate al Natale. La memoria della sua morte e sepoltura è indicata al 6 dicembre nei riti bizantino e copto.",
+    "fr": "Nicolas fut évêque de Myre (Asie Mineure) dans la première moitié du 4e siècle. Au 6e siècle, une église à son nom abritait son tombeau. Mais, en 1087, des marins de Bari s’emparèrent de ses reliques et les apportèrent dans leur ville, qui est devenue le centre de son culte.",
+    "de": "Nikolaus war Bischof von Myra (Kleinasien) und lebte wahrscheinlich im 4. Jh. Seine Verehrung breitete sich ab dem 10. Jh. in der ganzen Kirche aus."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Misericórdiam tuam, Dómine, súpplices implorámus, et, beáti Nicolái epíscopi interveniénte suffrágio, nos in ómnibus custódi perículis, ut via salútis nobis páteat expedíta. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Imploramos tu misericordia, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y te suplicamos, por intercesión del obispo san Nicolás,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos protejas en todos los peligros,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que el camino de la salvación sea más accesible para nosotros."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "We humbly implore your mercy, Lord:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "protect us in all dangers through the prayers of the Bishop Saint Nicholas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that the way of salvation may lie open before us."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Imploramos, Senhor, a vossa misericórdia e vos suplicamos que, por intercessão do bispo São Nicolau,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sejamos protegidos de todos os perigos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e se abra para nós, sem obstáculos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "o caminho da salvação."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Imploriamo umilmente la tua misericordia, o Signore: per intercessione del santo vescovo Nicola salvaci da tutti i pericoli, perché procediamo sicuri sulla via della salvezza. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nous implorons ta miséricorde, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et nous te supplions :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "à la prière de l’évêque saint Nicolas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "garde-nous de tout danger,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour que le chemin du salut s’ouvre sans obstacle devant nous."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Spender alles Guten, hilf uns auf die Fürsprache des heiligen Nikolaus in aller Not und steh uns bei in jeder Gefahr. Gib uns ein großmütiges Herz, damit wir anderen schenken, was wir empfangen, und den Weg des Heiles ungehindert gehen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Is 6, 1-8",
+              "es": "Is 6, 1-8",
+              "en-US": "Is 6:1-8",
+              "pt-BR": "Is 6, 1-8",
+              "it": "Is 6, 1-8",
+              "fr": "Is 6, 1-8",
+              "de": "Jes 6, 1-8"
+            },
+            "introduction": {
+              "la": "Léctio libri Isaíæ prophétæ",
+              "es": "Lectura del libro de Isaías",
+              "en-US": "A reading from the book of Isaiah",
+              "pt-BR": "Leitura do Livro do Profeta Isaías",
+              "it": "Dal libro del profeta Isaia",
+              "fr": "Livre d’Isaïe",
+              "de": "Lesung aus dem Buch Jesája"
+            },
+            "summary": {
+              "la": "Quem mittam? Et quis ibit nobis?",
+              "es": "¿A quién enviaré? ¿Y quién irá por nosotros?",
+              "pt-BR": "Quem enviarei? Quem irá por nós?»",
+              "it": "Chi manderò e chi andrà per noi?"
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In anno, quo mórtuus est rex Ozías, vidi Dóminum edéntem super sólium excélsum et elevátum; et fímbriæ eius replébant templum. Séraphim stabant iuxta eum; sex alæ uni et sex alæ álteri: duábus velábat fáciem suam et duábus velábat pedes suos et duábus volábat. Et clamábat alter ad álterum et dicébat: «Sanctus, Sanctus, Sanctus Dóminus exercítuum; plena est omnis terra glória eius». Et commóta sunt superliminária cárdinum a voce clamántis, et domus repléta est fumo. Et dixi: «Væ mihi, quia périi! Quia vir pollútus lábiis ego sum et in médio pópuli pollúta lábia habéntis ego hábito et regem, Dóminum exercítuum, vidi óculis meis». Et volávit ad me unus de Séraphim, et in manu eius cálculus, quem fórcipe túlerat de altári, et tétigit os meum et dixit: «Ecce tétigit hoc lábia tua, et auferétur iníquitas tua, et peccátum tuum mundábitur». Et audívi vocem Dómini dicéntis: «Quem mittam? Et quis ibit nobis?». Et dixi: «Ecce ego, mitte me»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En el año de la muerte del rey Ozías, vi al Señor sentado sobre un trono alto y excelso: la orla de su manto llenaba el templo. Junto a él estaban los serafines, cada uno con seis alas: con dos alas se cubrían el rostro, con dos el cuerpo, con dos volaban, y se gritaban uno a otro diciendo: «¡Santo, santo, santo es el Señor del universo, llena está la tierra de su gloria!». Temblaban las jambas y los umbrales al clamor de su voz, y el templo estaba lleno de humo. Yo dije: «Ay de mí, estoy perdido! Yo, hombre de labios impuros, que habito en medio de gente de labios impuros, he visto con mis ojos al Rey, Señor del universo». Uno de los seres de fuego voló hacia mí con un ascua en la mano, que había tomado del altar con unas tenazas; la aplicó a mi boca y me dijo: «Al tocar esto tus labios, ha desaparecido tu culpa, está perdonado tu pecado». Entonces escuché la voz del Señor, que decía: «¿A quién enviaré? ¿Y quién irá por nosotros?». Contesté: «Aquí estoy, mándame»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In the year of King Uzziah's death I saw the Lord seated on a high throne; his train filled the sanctuary; above him stood seraphs, each one with six wings: two to cover its face, two to cover its feet and two for flying. And they cried out one to another in this way, 'Holy, holy, holy is the Lord of hosts. His glory fills the whole earth.' The foundations of the threshold shook with the voice of the one who cried out and the Temple was filled with smoke. I said: 'What a wretched state I am in! I am lost, for I am a man of unclean lips and I live among a people of unclean lips, and my eyes have looked at the King, Lord of hosts.' Then one of the seraphs flew to me, holding in his hand a live coal which he had taken from the altar with a pair of tongs. With this he touched my mouth and said: 'See now, this has touched your lips, your sin is taken away, your iniquity is purged'. Then I heard the voice of the Lord saying: 'Whom shall I send? Who will be our messenger?' I answered, 'Here I am, send me'."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "No ano da morte do rei Ozias, vi o Senhor sentado num trono de grande altura; o seu manto estendia-se pelo templo. Havia serafins de pé a seu lado; cada um tinha seis asas, duas cobriam-lhes o rosto, duas, os pés e, com duas, eles podiam voar. Eles exclamavam uns para os outros: \"Santo, santo, santo é o Senhor dos exércitos; toda a terra está repleta de sua glória\". Ao clamor dessas vozes, começaram a tremer as portas em seus gonzos e o templo encheu-se de fumaça. Disse eu então: \"Ai de mim, estou perdido! Sou apenas um homem de lábios impuros, mas eu vi com meus olhos o rei, o Senhor dos exércitos\". Nisto, um dos serafins voou para mim, tendo na mão uma brasa, que retirara do altar com uma tenaz, e tocou minha boca, dizendo: \"Assim que isto tocou teus lábios, desapareceu tua culpa, e teu pecado está perdoado\". Ouvi a voz do Senhor que dizia: \"Quem enviarei? Quem irá por nós?\" Eu respondi: \"Aqui estou! Envia-me\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Nell’anno in cui morì il re Ozia, io vidi il Signore seduto su un trono alto ed elevato; i lembi del suo manto riempivano il tempio. Sopra di lui stavano dei serafini; ognuno aveva sei ali: con due si copriva la faccia, con due si copriva i piedi e con due volava. Proclamavano l’uno all’altro, dicendo: «Santo, santo, santo il Signore degli eserciti! Tutta la terra è piena della sua gloria». Vibravano gli stipiti delle porte al risuonare di quella voce, mentre il tempio si riempiva di fumo. E dissi: «Ohimè! Io sono perduto, perché un uomo dalle labbra impure io sono e in mezzo a un popolo dalle labbra impure io abito; eppure i miei occhi hanno visto il re, il Signore degli eserciti». Allora uno dei serafini volò verso di me; teneva in mano un carbone ardente che aveva preso con le molle dall’altare. Egli mi toccò la bocca e disse: «Ecco, questo ha toccato le tue labbra, perciò è scomparsa la tua colpa e il tuo peccato è espiato». Poi io udii la voce del Signore che diceva: «Chi manderò e chi andrà per noi?». E io risposi: «Eccomi, manda me!»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’année de la mort du roi Ozias, je vis le Seigneur qui siégeait sur un trône très élevé ; les pans de son manteau remplissaient le Temple. Des séraphins se tenaient au-dessus de lui. Ils avaient chacun six ailes : deux pour se couvrir le visage, deux pour se couvrir les pieds, et deux pour voler. Ils se criaient l’un à l’autre : « Saint ! Saint ! Saint, le Seigneur de l’univers ! Toute la terre est remplie de sa gloire. » Les pivots des portes se mirent à trembler à la voix de celui qui criait, et le Temple se remplissait de fumée. Je dis alors : « Malheur à moi ! je suis perdu, car je suis un homme aux lèvres impures, j’habite au milieu d’un peuple aux lèvres impures : et mes yeux ont vu le Roi, le Seigneur de l’univers ! » L’un des séraphins vola vers moi, tenant un charbon brûlant qu’il avait pris avec des pinces sur l’autel. Il l’approcha de ma bouche et dit : « Ceci a touché tes lèvres, et maintenant ta faute est enlevée, ton péché est pardonné. » J’entendis alors la voix du Seigneur qui disait : « Qui enverrai-je ? qui sera notre messager ? » Et j’ai répondu : « Me voici : envoie-moi ! »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Im Todesjahr des Königs Usíja sah ich den Herrn. Er saß auf einem hohen und erhabenen Thron. Der Saum seines Gewandes füllte den Tempel aus. Sérafim standen über ihm. Jeder hatte sechs Flügel: Mit zwei Flügeln bedeckten sie ihr Gesicht, mit zwei bedeckten sie ihre Füße, und mit zwei flogen sie. Sie riefen einander zu: Heilig, heilig, heilig ist der Herr der Heere. Von seiner Herrlichkeit ist die ganze Erde erfüllt. Die Türschwellen bebten bei ihrem lauten Ruf, und der Tempel füllte sich mit Rauch. Da sagte ich: Weh mir, ich bin verloren. Denn ich bin ein Mann mit unreinen Lippen und lebe mitten in einem Volk mit unreinen Lippen, und meine Augen haben den König, den Herrn der Heere, gesehen. Da flog einer der Sérafim zu mir; er trug in seiner Hand eine glühende Kohle, die er mit einer Zange vom Altar genommen hatte. Er berührte damit meinen Mund und sagte: Das hier hat deine Lippen berührt: Deine Schuld ist getilgt, deine Sünde gesühnt. Danach hörte ich die Stimme des Herrn, der sagte: Wen soll ich senden? Wer wird für uns gehen? Ich antwortete: Hier bin ich, sende mich!"
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 10, 1-9",
+              "es": "Lc 10, 1-9",
+              "en-US": "Lk 10:1-9",
+              "pt-BR": "Lc 10, 1-9",
+              "it": "Lc 10, 1-9",
+              "fr": "Lc 10, 1-9",
+              "de": "Lk 10, 1-9"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal Vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Messis quidem multa, operarii autem pauci.",
+              "es": "La mies es abundante, pero los trabajadores son pocos",
+              "pt-BR": "A messe é grande, mas os trabalhadores são poucos.",
+              "it": "La messe è abbondante, ma sono pochi gli operai."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Designávit Dóminus álios septuagínta duos et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. Et dicébat illis: «Messis quidem multa, operárii autem pauci; rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite; ecce ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: “Pax huic dómui”. Et si ibi fúerit fílius pacis, requiéscet super illam pax vestra; sin autem, ad vos revertétur. In eádem autem domo manéte edéntes et bibéntes, quæ apud illos sunt: dignus enim est operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte, quæ apponúntur vobis, et curáte infírmos, qui in illa sunt, et dícite illis: “Appropinquávit in vos regnum Dei”."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, Jesús recorría todas las ciudades y aldeas, enseñando en sus sinagogas, proclamando el evangelio del reino y curando toda enfermedad y toda dolencia. Al ver a las muchedumbres, se compadecía de ellas, porque estaban extenuadas y abandonadas, «como ovejas que no tienen pastor». Entonces dice a sus discípulos: «La mies es abundante, pero los trabajadores son pocos; rogad, pues, al Señor de la mies que mande trabajadores a su mies»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The Lord appointed seventy-two others and sent them out ahead of him, in pairs, to all the towns and places he himself was to visit. He said to them, 'The harvest is rich but the labourers are few, so ask the Lord of the harvest to send labourers to his harvest. Start off now, but remember, I am sending you out like lambs among wolves. Carry no purse, no haversack, no sandals. Salute no one on the road. Whatever house you go into, let your first words be, \"Peace to this house!\" And if a man of peace lives there, your peace will go and rest on him; if not, it will come back to you. Stay in the same house, taking what food and drink they have to offer, for the labourer deserves his wages; do not move from house to house. Whenever you go into a town where they make you welcome, eat what is set before you. Cure those in it who are sick, and say, \"The kingdom of God is very near to you\"."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo: O Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir. E dizia-lhes: \"A messe é grande, mas os trabalhadores são poucos. Por isso, pedi ao dono da messe que mande trabalhadores para a colheita. Eis que vos envio como cordeiros para o meio de lobos. Não leveis bolsa, nem sacola, nem sandálias, e não cumprimenteis ninguém pelo caminho! Em qualquer casa em que entrardes, dizei primeiro: 'A paz esteja nesta casa!' Se ali morar um amigo da paz, a vossa paz repousará sobre ele; se não, ela voltará para vós. Permanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário. Não passeis de casa em casa. Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, curai os doentes que nela houver e dizei ao povo: \"O Reino de Deus está próximo de vós\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, il Signore designò altri settantadue e li inviò a due a due davanti a sé in ogni città e luogo dove stava per recarsi. Diceva loro: «La messe è abbondante, ma sono pochi gli operai! Pregate dunque il signore della messe, perché mandi operai nella sua messe! Andate: ecco, vi mando come agnelli in mezzo a lupi; non portate borsa, né sacca, né sandali e non fermatevi a salutare nessuno lungo la strada. In qualunque casa entriate, prima dite: \"Pace a questa casa!\" Se vi sarà un figlio della pace, la vostra pace scenderà su di lui, altrimenti ritornerà su di voi. Restate in quella casa, mangiando e bevendo di quello che hanno, perché chi lavora ha diritto alla sua ricompensa. Non passate da una casa all’altra. Quando entrerete in una città e vi accoglieranno, mangiate quello che vi sarà offerto, guarite i malati che vi si trovano, e dite loro: \"È vicino a voi il regno di Dio\"»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, parmi les disciples, le Seigneur en désigna encore soixante-douze, et il les envoya deux par deux, en avant de lui, en toute ville et localité où lui-même allait se rendre. Il leur dit : « La moisson est abondante, mais les ouvriers sont peu nombreux. Priez donc le maître de la moisson d’envoyer des ouvriers pour sa moisson. Allez ! Voici que je vous envoie comme des agneaux au milieu des loups. Ne portez ni bourse, ni sac, ni sandales, et ne saluez personne en chemin. Mais dans toute maison où vous entrerez, dites d’abord : »Paix à cette maison.« S’il y a là un ami de la paix, votre paix ira reposer sur lui ; sinon, elle reviendra sur vous. Restez dans cette maison, mangeant et buvant ce que l’on vous sert ; car l’ouvrier mérite son salaire. Ne passez pas de maison en maison. Dans toute ville où vous entrerez et où vous serez accueillis, mangez ce qui vous est présenté. Guérissez les malades qui s’y trouvent et dites-leur : »Le règne de Dieu s’est approché de vous.« »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit suchte der Herr zweiundsiebzig andere Jünger aus und sandte sie zu zweit voraus in alle Städte und Ortschaften, in die er selbst gehen wollte. Er sagte zu ihnen: Die Ernte ist groß, aber es gibt nur wenig Arbeiter. Bittet also den Herrn der Ernte, Arbeiter für seine Ernte auszusenden. Geht! Ich sende euch wie Schafe mitten unter die Wölfe. Nehmt keinen Geldbeutel mit, keine Vorratstasche und keine Schuhe! Grüßt niemand unterwegs! Wenn ihr in ein Haus kommt, so sagt als erstes: Friede diesem Haus! Und wenn dort ein Mann des Friedens wohnt, wird der Friede, den ihr ihm wünscht, auf ihm ruhen; andernfalls wird er zu euch zurückkehren. Bleibt in diesem Haus, esst und trinkt, was man euch anbietet; denn wer arbeitet, hat ein Recht auf seinen Lohn. Zieht nicht von einem Haus in ein anderes! Wenn ihr in eine Stadt kommt und man euch aufnimmt, so esst, was man euch vorsetzt. Heilt die Kranken, die dort sind, und sagt den Leuten: Das Reich Gottes ist euch nahe."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "sanctorale.10-05.spain",
+  "kind": "sanctoral",
+  "scope": "spain",
+  "structure": "mass",
+  "title": {
+    "es": "Témporas de acción de gracias y de petición"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cantad y tocad con toda el alma para el Señor, dad siempre gracias a Dios Padre por todo, en nombre de nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Cf. Ef 5, 19-20"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor Dios, lleno de amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que diste a nuestros padres de Israel"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "una tierra buena y fértil,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que en ella encontraran descanso y bienestar,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y con el mismo amor"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos das a nosotros fuerza para dominar la creación"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y sacar de ella nuestro progreso y nuestro sustento,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "al darte gracias por todas tus maravillas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos que tu luz nos haga descubrir siempre"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has sido tú, y no nuestro poder,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quien nos ha dado fuerza"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para crear las riquezas de la tierra."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te ofrecemos, Señor, este sacrificio de alabanza"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en acción de gracias por los dones que nos has dado,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos ofrecer, para gloria de tu nombre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lo que hemos recibido sin merecerlo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.10-05.spain.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "text",
+                "text": "El más apropiado es el Prefacio común IV."
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Coronas el año con tus bienes, Señor, y serás la esperanza del confín de la tierra."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Cf. Sal 66, 12.6"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, tú que nos has hecho participar"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en la mesa de la unidad y del amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "danos tu fuerza para que, con nuestra actividad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cooperemos en la construcción de la ciudad terrena"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y trabajemos con fe para la llegada de tu reino."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1316 @@
+{
+  "id": "sanctorale.08-28",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Augustini, episcopi et Ecclésiæ doctoris",
+    "es": "San Agustín, obispo y doctor de la Iglesia",
+    "en-US": "Saint Augustine, bishop and doctor of the Church",
+    "pt-BR": "Santo Agostinho, bispo e doutor da Igreja",
+    "it": "SANT’AGOSTINO, vescovo e dottore della Chiesa",
+    "fr": "Saint Augustin, évêque et docteur de l’Église",
+    "de": "Hl. Augustinus, Bischof, Kirchenlehrer"
+  },
+  "description": {
+    "la": "Natus est Tagaste in Africa anno 354, adulescentiam doctrinis et moribus inquietam transegit, donec Mediolani, ad fidem conversus, anno 387 ab episcopo Ambrosio baptizatus est. In patriam reversus vitam asceticam professus est, et episcopus Hipponensis electus, per triginta quattuor annos forma gregis factus, illum erudivit sermonibus et scriptis copiosis, quibus etiam strenue contra errores sui temporis dimicavit vel fidem erudite illustravit. Mortuus est anno 430.",
+    "es": "Nació en Tagaste (África) el año 354; después de una juventud algo desviada doctrinal y moralmente, se convirtió, estando en Milán, y el año 387 fue bautizado por el obispo Ambrosio. Vuelto a su patria, llevó una vida dedicada al ascetismo, y fue elegido obispo de Hipona. Durante treinta y cuatro años, en que ejerció este ministerio, fue un modelo para su grey, a la que dio una sólida formación por medio de sus sermones y de sus numerosos escritos, con los que contribuyó en gran manera a una mayor profundización de la fe cristiana contra los errores doctrinales de su tiempo. Murió el año 430.",
+    "pt-BR": "Agostinho (Tagaste, Argélia, 354 - Hipona, Argélia, 28 de agosto de 430) teve como decisivo em sua vida, além do influxo da mãe, o encontro com o bispo Ambrósio, de quem recebeu o Batismo. De seu currículo de estudos e de magistério na escola pública, mediante apaixonada busca da verdade, passou à total sequela de Cristo Senhor, ponto de convergência da criação e da história. Em Agostinho se encontram, em rara síntese, o contemplativo, o teólogo, o pastor de almas, o catequista, o homileta, o mistagogo, o defensor da fé, o promotor da vida comunitária. É autor de uma regra monástica que influenciou todas as sucessivas regras do Ocidente cristão. Seus escritos permanecem monumento de extraordinária sabedoria e o qualificam como o maior entre os Padres e doutores da Igreja Latina.",
+    "it": "Agostino (Tagaste, attuale Souk Ahras, Algeria, 13 novembre 354 - Ippona, attuale Annaba, 28 agosto 430), di padre pagano e madre cristiana, fu avviato agli studi letterari. Dopo un periodo di disorientamento giovanile, iniziò un’appassionata ricerca della verità, aderendo a un cristianesimo di stampo manicheo. Professore di retorica a Milano, incontrò sant’Ambrogio, di cui ascoltò la predicazione e dal quale ricevette il Battesimo. Tornato in Africa ed eletto vescovo di Ippona, visse con il proprio clero in una comunità di tipo monastico; la regola da lui composta diventerà testo di riferimento per moltissimi istituti di vita consacrata in Occidente. All’esercizio del ministero, in particolare della predicazione, affiancò un costante impegno di approfondimento e di difesa della fede, producendo un corpus di opere di tale ampiezza e profondità da costituire una delle più feconde eredità della tradizione cristiana antica.",
+    "fr": "Les étapes de la vie d’Augustin sont bien connues : sa naissance à Thagaste (354), sa conversion à Milan (387), son épiscopat à Hippone (395-430). Mais ce qui compte surtout c’est le rayonnement de sa pensée et le témoignage d’une vie toute consacrée à la recherche de Dieu et au service de l’Église, qui est à la fois pour lui la communauté des chrétiens d’Hippone et le Corps du Christ répandu à travers le monde.",
+    "de": "Augustinus wurde in Tagaste (Afrika) im Jahr 354 geboren und bekehrte sich nach einer Jugend fern von Gott und der Moral der Kirche, dank dem Gebet seiner heiligen Mutter. In Mailand ließ er sich 387 von Bischof Ambrosius taufen. Nach der Rückkehr in seine Heimat lebte er ein Leben des Askese und wurde zum Bischof von Hippo gewählt. 34 Jahre lang übte er jenes Amt aus und wurde ein Vorbild der Frömmigkeit für seine Gemeinden, welche er durch Predigten lehrte und in denen er durch zahlreiche Schreiben die christliche Lehre vertiefte, welche gegen einige doktrinelle Irrlehren zu verteidigen war. Er starb im Jahr 430."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "In médio Ecclésiæ apéruit os eius, et implévit eum Dóminus spíritu sapiéntiæ et intelléctus; stolam glóriæ índuit eum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "En medio de la asamblea le abrirá la boca y el Señor lo llenará del espíritu de sabiduría y de inteligencia, lo revestirá con un vestido de gloria."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "In the midst of the Church he opened his mouth, and the Lord filled him with the spirit of wisdom and understanding and clothed him in a robe of glory."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "No meio da Igreja o Senhor abriu os seus lábios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "encheu-o com o espírito de sabedoria e inteligência e o revestiu com um manto de glória."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "In mezzo alla Chiesa gli ha aperto la bocca, il Signore lo ha colmato dello spirito di sapienza e d’intelligenza; gli ha fatto indossare una veste di gloria."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dans son Église, le Seigneur lui a donné la parole ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "il l’a rempli de l’esprit de sagesse et d’intelligence,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et l’a revêtu de gloire."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Inmitten der Kirche öffnete der Herr ihm den Mund. Er hat ihn erfüllt mit dem Geist der Weisheit und des Verstandes; er hat ihn bekleidet mit dem Gewand der Herrlichkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Innova, quǽsumus, Dómine, in Ecclésia tua spíritum, quo beátum Augustínum epíscopum imbuísti, ut, eódem nos repléti, te solum veræ fontem sapiéntiæ sitiámus, et supérni amóris quærámus auctórem. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Renueva, Señor, en tu Iglesia el espíritu que infundiste en tu obispo san Agustín,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, llenos de ese mismo espíritu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tengamos sed solamente de ti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fuente de la verdadera sabiduría,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y te busquemos como creador del amor supremo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Renew in your Church, we pray, O Lord, the spirit with which you endowed your Bishop Saint Augustine that, filled with the same spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may thirst for you,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the sole fount of true wisdom,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and seek you, the author of heavenly love."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, nós vos pedimos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "renovai em vossa Igreja o espírito com o qual dotastes o bispo Santo Agostinho;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "repletos do mesmo espírito,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "só de vós tenhamos sede, fonte da verdadeira sabedoria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "só a vós busquemos, autor do amor eterno."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Suscita sempre nella tua Chiesa, o Signore, lo spirito che animò il tuo vescovo Agostino, perché anche noi, assetati della vera sapienza, non ci stanchiamo di cercare te, fonte viva dell’eterno amore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Renouvelle, Seigneur, dans ton Église,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "l’esprit dont tu as comblé le bienheureux évêque Augustin,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour que, remplis de ce même esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous n’ayons soif que de toi, source de la vraie sagesse,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et ne cherchions que toi, auteur de l’éternel amour."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, wir rufen dich an: Erwecke in deiner Kirche aufs Neue den Geist, mit dem du den heiligen Bischof Augustinus erfüllt hast. Gib auch uns die Sehnsucht nach dir, dem Quell der wahren Weisheit und dem Ursprung der Liebe. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Salútis nostræ memoriále celebrántes, cleméntiam tuam, Dómine, supplíciter exorámus, ut hoc sacraméntum pietátis fiat nobis signum unitátis et vínculum caritátis. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Al celebrar el memorial de nuestra salvación,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "suplicamos, Señor, tu clemencia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que este sacramento de piedad sea para nosotros signo de unidad y vínculo de caridad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Celebrating the memorial of our salvation, we humbly beseech your mercy, O Lord, that this Sacrament of your loving kindness may be for us the sign of unity and the bond of charity."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, celebrando o memorial da nossa salvação,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "imploramos humildemente a vossa misericórdia;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que este sacramento do vosso amor seja para nós sinal de unidade e vínculo de caridade."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Celebrando il memoriale della nostra salvezza invochiamo la tua clemenza, o Signore: questo sacramento del tuo amore sia per noi segno di unità e vincolo di carità. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "En célébrant le mémorial de notre salut,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous implorons humblement ta bonté, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ce sacrement offert avec amour devienne pour nous le signe de l’unité et le lien de la charité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gütiger Gott, nach dem Auftrag Christi feiern wir das Gedächtnis unserer Erlösung. Mache diese Gaben zum Sakrament, das uns die Einheit verheißt und uns in Liebe zusammenschließt. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dicit Dóminus: Magíster vester unus est, Christus. Omnes autem vos fratres estis."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dice el Señor: «Uno solo es vuestro maestro, Cristo. Todos vosotros sois hermanos»."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Thus says the Lord: You have but one teacher, the Christ, and you are all brothers."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Um só é o vosso Guia, Cristo;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e todos vós sois irmãos, diz o Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dice il Signore: «Uno solo è il vostro Maestro, il Cristo, e voi siete tutti fratelli»."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vous n’avez qu’un seul Maître, le Christ ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "vous êtes tous frères, dit le Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nur einer ist euer Lehrer: Christus. Ihr alle aber seid Brüder."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sanctíficet nos, quǽsumus, Dómine, mensæ Christi participátio, ut, eius membra effécti, simus quod accépimus. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te rogamos, Señor, que nos santifique la participación en la mesa de Cristo para que, hechos miembros suyos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "seamos lo que recibimos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May partaking of Christ's table sanctify us, we pray, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, being made members of his Body, we may become what we have received."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, a participação na mesa celeste nos santifique a fim de que, membros do seu Corpo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sejamos transformados naquele que recebemos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ci santifichi, o Signore, la partecipazione alla mensa di Cristo perché, fatti membra del suo corpo, siamo trasformati in colui che abbiamo ricevuto. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que la participation à la table du Christ nous sanctifie, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin que, membres de son Corps,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous devenions ce que nous avons reçu."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, heilige uns durch die Teilnahme am Mahl deines Sohnes, damit wir als Glieder am Leibe Christi in Wahrheit das sind, was wir im Sakrament empfangen haben. Darum bitten wir durch ihn, Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

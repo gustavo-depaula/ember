@@ -1,0 +1,237 @@
+{
+  "id": "sanctorale.spain.10054",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "es": "Témporas de acción de gracias y de petición Día de petición por la actividad humana"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Haz prósperas, Señor, las obras de nuestras manos, y toda nuestra vida será alegría y júbilo."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Sal 89, 17"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tú has querido que el estudio y el trabajo del hombre"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "perfeccionaran cada día el universo que has creado,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos que nuestros afanes y trabajos"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "resulten siempre provechosos a la familia humana,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y contribuyan al cumplimiento"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de tus designios sobre el mundo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te presentamos, Señor, el pan y el vino"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "con los que tú alimentas nuestra vida en la tierra"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y renuevas nuestra vida eterna;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos que no ceses de darnos"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "este pan que es nuestro sustento"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y este sacramento que es fuente de vida eterna."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.spain.10054.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "text",
+                "text": "El más apropiado es el Prefacio común IV."
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Pedid y se os dará, buscad y encontraréis, llamad y se os abrirá, dice el Señor."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Mt 7, 7"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tú que nos has fortalecido"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "con estos sacramentos de vida eterna,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "no dejes de ayudarnos con tu gracia"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "también en los quehaceres temporales."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

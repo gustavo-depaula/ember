@@ -1,0 +1,1651 @@
+{
+  "id": "common.pastors.past12",
+  "kind": "common",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "COMMUNE PASTORUM V. PRO MISSIONARIIS 3",
+    "es": "COMÚN DE PASTORES V. Para misioneros 3",
+    "en-US": "Common of Pastors V. For Missionaries 3",
+    "pt-BR": "Comum dos Pastores V. para Missionários 3",
+    "it": "COMUNE DEI PASTORI V. Per i missionari 3.",
+    "fr": "COMMUN DES PASTEURS V. POUR DES MISSIONNAIRES 3",
+    "de": "COMMUNE-TEXTE FÜR HIRTEN DER KIRCHE V. Für Glaubensboten 3"
+  },
+  "color": "white",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Annuntiáte inter gentes glóriam Dómini, in ómnibus pópulis mirabília eius,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quóniam magnus Dóminus et laudábilis nimis"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "allelúia"
+                },
+                {
+                  "type": "rubric",
+                  "text": "."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Contad a los pueblos su gloria, sus maravillas a todas las naciones; porque es grande el Señor y muy digno de alabanza"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "Aleluya"
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Tell among the nations his glory, and his wonders among all the peoples, for the Lord is great and highly to be praised"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "E. T."
+                },
+                {
+                  "type": "text",
+                  "text": "alleluia"
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Manifestai a sua glória entre as nações e entre os povos do universo seus prodígios!"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Pois Deus é grande e muito digno de louvor"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "aleluia"
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "In mezzo alle genti narrate la sua gloria, a tutti i popoli dite le sue meraviglie. Grande è il Signore e degno di ogni lode"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "Alleluia"
+                },
+                {
+                  "type": "rubric",
+                  "text": "."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Annoncez parmi les nations la gloire du Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "chez tous les peuples ses merveilles,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "car il est grand, le Seigneur, hautement loué"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "alléluia"
+                },
+                {
+                  "type": "rubric",
+                  "text": "."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Erzählt bei den Völkern von der Herrlichkeit des Herrn, bei allen Nationen von seinen Wundern; denn groß ist der Herr und hoch zu preisen."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, cuius ineffábili misericórdia beátus"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "evangelizávit investigábiles divítias Christi, da nos, eius intercessióne, créscere in sciéntia tua, et, in omni ópere bono fructificántes, secúndum Evangélii veritátem coram te fidéliter ambuláre. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por tu inefable misericordia san"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "anunció las riquezas insondables de Cristo;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por su intercesión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "crecer en tu conocimiento y, dando fruto en toda obra buena,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "caminar fielmente en tu presencia según la verdad del Evangelio."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, by whose untold mercy blessed"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "preached the good news of the unfathomable riches of Christ, grant that through his intercession we may grow in knowledge of you and, bearing fruit in every good work, faithfully walk in your presence, in accord with the truth of the Gospel."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, por vossa inefável misericórdia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "São"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "anunciou as insondáveis riquezas de Cristo;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por sua intercessão,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos crescer no vosso conhecimento e caminhar fielmente na vossa presença segundo a verdade do Evangelho,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "frutificando em boas obras."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che con ineffabile amore hai affidato a san"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "la missione di annunciare alle genti le inesauribili ricchezze di Cristo, per sua intercessione concedi a noi di crescere nella tua conoscenza e di camminare fedelmente alla tua presenza nello spirito del Vangelo, portando frutti di opere buone. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Par ta miséricorde ineffable, Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "saint"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "a proclamé l’insondable richesse du Christ ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "à son intercession, accorde-nous de grandir dans ta connaissance,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de porter du fruit par tout le bien que nous ferons et de marcher fidèlement en ta présence selon la vérité de l’Évangile."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, du hast den heiligen"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "dazu berufen, den unergründlichen Reichtum der Liebe Christi zu verkünden. Lass uns in der Erkenntnis dieses Geheimnisses wachsen und aus dem Wort des Evangeliums leben. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Beáti"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "memóriam recenséntes, quǽsumus, Dómine, ut his munéribus tibi oblátis benedictiónem effúndas de cælis, quo, ex eis suméntes, et ómnibus careámus culpis et cæléstibus repleámur edúliis. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te pedimos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que derrames tu bendición desde lo alto sobre estos dones que te presentamos al celebrar la memoria de san"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, al recibirlos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos veamos libres de todas nuestras culpas y nos saciemos con el alimento del cielo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "As we celebrate the memory of blessed"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ", we pray, O Lord, that you may pour out your blessing from heaven on these offerings we have made to you, so that in partaking of them we may be without fault and be replenished with heavenly food."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Na celebração de São"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos pedimos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "abençoai do céu estes dons que vos apresentamos para que, ao recebê-los,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sejamos livres de toda culpa e saciados pelos alimentos celestes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Effondi dal cielo la tua divina benedizione, o Signore, su queste offerte che ti presentiamo nella memoria di san"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "perché,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nutrendoci al tuo altare, viviamo liberi da ogni colpa e siamo saziati con i doni della vita eterna. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "En célébrant la mémoire de saint"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te prions, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de répandre du ciel ta bénédiction sur les offrandes qui te sont présentées :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lorsque nous y communions,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous d’être préservés de toute faute et comblés de la nourriture du ciel."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, am Gedenktag des heiligen"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "bringen wir diese Gaben dar. Heilige sie und mache sie uns zum Brot des Lebens, das uns von Schuld befreit und uns mit himmlischer Kraft erfüllt. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Semen quod cécidit in terram bonam, hi sunt, qui in corde bono et óptimo fructum áfferunt in patiéntia"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "allelúia"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "La semilla que cayó en tierra buena es quien, con corazón bueno, produce fruto con paciencia"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "Aleluya"
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "This is the seed that fell on rich soil: those who with a good and perfect heart patiently bring forth fruit"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "E. T."
+                },
+                {
+                  "type": "text",
+                  "text": "alleluia"
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "A semente que caiu em terra boa são aqueles que,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de coração sincero e generoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "produzem fruto com perseverança"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "aleluia"
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ceux qui ont reçu la semence dans la bonne terre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dans un cœur bon et généreux,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "portent du fruit par leur persévérance"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "alléluia"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "la": "Cf. Mt 13, 8",
+            "es": "Cf. Mt 13, 8",
+            "en-US": "Mt 13: 8, 23",
+            "pt-BR": "Cf. Mt 13, 8",
+            "fr": "Cf. Mt 13, 8"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sancta tua nos, Dómine, sumpta vivíficent, ut, qui beáti"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "commemoratióne gaudémus, eius quoque apostólicæ virtútis proficiámus exémplo. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Los dones santos que hemos recibido de ti, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos llenen de vida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, al alegrarnos en la conmemoración de san"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "progresemos también con el ejemplo de su celo apostólico."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May your holy gifts which we have received fill us with life, O Lord, so that we, who rejoice in commemorating blessed"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ", may also profit from his example of apostolic virtue."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "os vossos santos mistérios que recebemos nos revigorem,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que nos alegremos na comemoração de São"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e sejamos estimulados pelo exemplo de suas virtudes apostólicas."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "I santi doni da te ricevuti ci rinnovino, o Signore, perché, celebrando con gioia la memoria di san"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ", possiamo crescere nel tuo servizio sul suo esempio di dedizione apostolica. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que la communion à tes saints mystères, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ravive nos forces ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous avons la joie de célébrer la mémoire de saint"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ":"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puissions-nous également progresser à l’exemple de son courage apostolique."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ewiger Gott, schenke uns neues Leben und neue Glaubensfreude durch das Sakrament, das wir am Gedenktag des heiligen"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "empfangen haben, damit wir nach seinem Vorbild deine Botschaft mutig verkünden. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.05-05.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Godehard, Bischof"
+  },
+  "description": {
+    "de": "Godehard (Gotthart) war ein Bayer, geboren 960 in der Nähe von Niederaltaich. 990 wurde er Mönch in Niederaltaich und schon 996 Abt dieses Klosters. Später wirkte er als Reformabt ins Hersfeld und Tegernsee. Seit 1022 war er, als Nachfolger Barnwards, Bischof von Hildesheim. Er tat viel für den Kirchenbau, die kirchliche Kunst und das Bildungswesen und er war ein großer Freund der Kinder. Er starb 1038."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr und Gott, du hast den heiligen Godehard berufen, das klösterliche Leben zu erneuern und den Gläubigen seines Bistums ein weiser und gütiger Bischof zu sein. Erhalte in uns den Willen, unser Leben auf dich hin auszurichten und dem Nächsten in Liebe zu begegnen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

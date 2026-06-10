@@ -1,7 +1,5 @@
 // See docs/features/features-overview.md for the full spec
 
-import type { PsalmRef, ReadingReference } from '@ember/liturgical'
-
 export type ContentLanguage = 'en-US' | 'pt-BR' | 'la'
 
 export type BilingualText = {

@@ -1,0 +1,2468 @@
+{
+  "id": "tempore.advent.week-2.saturday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Hebdomada II Sabbato",
+    "es": "Adviento Sábado de la II Semana",
+    "en-US": "Saturday of the Ii Week of Advent",
+    "pt-BR": "Sábado da Ii Semana do Advento",
+    "it": "Avvento II SETTIMANA Sabato",
+    "fr": "2e semaine Samedi",
+    "de": "SAMSTAG der zweiten Adventswoche"
+  },
+  "season": "advent",
+  "color": "violet",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Veni, et osténde nobis fáciem tuam, Dómine, qui sedes super Chérubim, et salvi érimus."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ven, Señor, tú que te sientas sobre querubines, muéstranos tu rostro y sálvanos."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Come and show us your face, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who are seated upon the Cherubim, and we will be saved."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vinde, Senhor, que estais acima dos querubins;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mostrai-nos a vossa face, e seremos salvos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vieni, e fa' splendere il tuo volto su di noi, o Signore, che siedi nei cieli,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e noi saremo salvi."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Viens,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "toi qui sièges au-dessus des Kéroubim ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "montre-nous ton visage,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et nous serons sauvés."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Komm, Herr, lass dein Antlitz leuchten, so ist uns geholfen. Der du auf den Kerubim thronst, erscheine!"
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oriátur, quǽsumus, omnípotens Deus, in córdibus nostris splendor glóriæ tuæ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, omni noctis obscuritáte subláta, fílios nos esse lucis Unigéniti tui maniféstet advéntus. Qui tecum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Amanezca en nuestros corazones, Dios todopoderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "el resplandor de tu gloria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, disipadas las tinieblas de la noche,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la llegada de tu Unigénito manifieste que somos hijos de la luz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the splendor of your glory dawn in our hearts, we pray, almighty God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that all shadows of the night may be scattered and we may be shown to be children of light by the advent of your Only Begotten Son."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedei-nos, ó Deus todo-poderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que desponte em nossos corações o esplendor da vossa glória,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, dissipada toda escuridão da noite,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a vinda do vosso Filho Unigênito revele que somos filhos da luz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sorga nei nostri cuori, Dio onnipotente, lo splendore della tua gloria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "perché, vinta ogni oscurità della notte, la venuta del tuo Figlio unigenito manifesti al mondo che siamo figli della luce. Egli è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que se lève en nos cœurs la splendeur de ta gloire,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’en prions, Dieu tout-puissant ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ainsi, l’avènement de ton Fils unique,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dissipant les ombres de la nuit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fera voir au grand jour que nous sommes fils de la lumière."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, lass deine Herrlichkeit in unseren Herzen aufstrahlen und nimm den Todesschatten der Sünde von uns, damit wir bei der Ankunft deines Sohnes als Kinder des Lichtes offenbar werden. Darum bitten wir durch ihn, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Eccli 48, 1-4. 9-11",
+              "es": "Sir 48, 1-4.9-11",
+              "en-US": "Sir 48:1-4.9-11",
+              "pt-BR": "Eclo 48, 1-4.9-11",
+              "it": "Sir 48, 1-4.9-11",
+              "fr": "Si 48, 1-4.9-11",
+              "de": "Sir 48, 1-4. 9-11"
+            },
+            "introduction": {
+              "la": "Léctio libri Ecclesiástici",
+              "es": "Lectura del libro del Eclesiástico",
+              "en-US": "A reading from the book of Ecclesiasticus",
+              "pt-BR": "Leitura do Livro do Eclesiástico",
+              "it": "Dal libro di Siracide",
+              "fr": "Livre de Ben Sirac le Sage",
+              "de": "Lesung aus dem Buch Jesus Sirach"
+            },
+            "summary": {
+              "la": "Iterum veniet Elias",
+              "es": "Elías volverá de nuevo",
+              "pt-BR": "Elias retornará.",
+              "it": "Elia ritornerà."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Surréxit Elías prophéta quasi ignis, et verbum ipsíus quasi fácula ardébat. Qui indúxit in illos famem et zelo suo paucos fecit eos. Verbo Dómini contínuit cælum et deiécit de cælo ignem ter. Quam amplificátus es, Elías, in mirabílibus tuis! Et quis potest simíliter gloriári tibi? Qui recéptus es in túrbine ignis et in curru equórum igneórum; qui scriptus es parátus in témpora leníre iracúndiam Dómini ante furórem, convértere cor patris ad fílium et restitúere tribus Iacob. Beáti sunt, qui te vidérunt et in amicítia tua dormiérunt!"
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquellos días, surgió el profeta Elías como un fuego, su palabra quemaba como antorcha. Él hizo venir sobre ellos el hambre, y con su celo los diezmó. Por la palabra del Señor cerró los cielos y también hizo caer fuego tres veces. ¡Qué glorioso fuiste, Elías, con tus portentos! ¿Quién puede gloriarse de ser como tú? Fuiste arrebatado en un torbellino ardiente, en un carro de caballos de fuego; tú fuiste designado para reprochar los tiempos futuros, para aplacar la ira antes de que estallara, para reconciliar a los padres con los hijos y restablecer las tribus de Jacob. Dichosos los que te vieron y se durmieron en el amor."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The prophet Elijah arose like a fire, his word flaring like a torch. It was he who brought famine on them, and who decimated them in his zeal. By the word of the Lord, he shut up the heavens, he also, three times, brought down fire. How glorious you were in your miracles, Elijah! Has anyone reason to boast as you have?- taken up in the whirlwind of fire, in a chariot with fiery horses; designated in the prophecies of doom to allay God's wrath before the fury breaks, to turn the hearts of fathers towards their children, and to restore the tribes of Jacob, Happy shall they be who see you, and those who have fallen asleep in love."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naqueles dias, o profeta Elias surgiu como um fogo, e sua palavra queimava como uma tocha. Fez vir a fome sobre eles e, no seu zelo, reduziu-os a pouca gente. Pela palavra do Senhor fechou o céu e de lá fez cair fogo por três vezes. Ó Elias, como te tornaste glorioso por teus prodígios! Quem poderia gloriar-se de ser semelhante a ti? Tu foste arrebatado num turbilhão de fogo, num carro de cavalos também de fogo, tu, nas ameaças para os tempos futuros, foste designado para acalmar a ira do Senhor antes do furor, para reconduzir o coração do pai ao filho, e restabelecer as tribos de Jacó. Felizes os que te viram, e os que adormeceram na tua amizade!"
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quei giorni, sorse Elia profeta, come un fuoco; la sua parola bruciava come fiaccola. Egli fece venire su di loro la carestia e con zelo li ridusse a pochi. Per la parola del Signore chiuse il cielo e così fece scendere per tre volte il fuoco. Come ti rendesti glorioso, Elia, con i tuoi prodigi! E chi può vantarsi di esserti uguale? Tu sei stato assunto in un turbine di fuoco, su un carro di cavalli di fuoco; tu sei stato designato a rimproverare i tempi futuri, per placare l’ira prima che divampi, per ricondurre il cuore del padre verso il figlio e ristabilire le tribù di Giacobbe. Beati coloro che ti hanno visto e si sono addormentati nell’amore."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ces jours-là, le prophète Élie surgit comme un feu, sa parole brûlait comme une torche. Il fit venir la famine sur Israël, et, dans son ardeur, les réduisit à un petit nombre. Par la parole du Seigneur, il retint les eaux du ciel, et à trois reprises il en fit descendre le feu. Comme tu étais redoutable, Élie, dans tes prodiges ! Qui pourrait se glorifier d’être ton égal ? Toi qui fus enlevé dans un tourbillon de feu par un char aux coursiers de feu ; toi qui fus préparé pour la fin des temps, ainsi qu’il est écrit, afin d’apaiser la colère avant qu’elle n’éclate, afin de ramener le cœur des pères vers les fils et de rétablir les tribus de Jacob… heureux ceux qui te verront, heureux ceux qui, dans l’amour, se seront endormis ; nous aussi, nous posséderons la vraie vie."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jenen Tagen stand Elíja auf, ein Prophet wie Feuer, seine Worte waren wie ein brennender Ofen. Er entzog ihnen ihren Vorrat an Brot, durch sein Eifern verringerte er ihre Zahl. Auf Gottes Wort hin verschloss er den Himmel, und dreimal ließ er Feuer herniederfallen. Wie ehrfurchtgebietend warst du, Elíja, wer dir gleichkommt, kann sich rühmen. Du wurdest im Wirbelsturm nach oben entrückt, in Feuermassen himmelwärts. Von dir sagt die Schrift, du stehst bereit für die Endzeit, um den Zorn zu beschwichtigen, bevor er entbrennt, um den Söhnen das Herz der Väter zuzuwenden und Jakobs Stämme wieder aufzurichten. Wohl dem, der dich sieht und stirbt; denn auch er wird leben."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 79",
+              "es": "Sal 79",
+              "en-US": "Ps 79",
+              "pt-BR": "Sl 79",
+              "it": "Sal 79",
+              "fr": "Ps 79",
+              "de": "Ps 80"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Deus, convérte nos, illústra fáciem tuam, et salvi érimus."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Oh Dios, restáuranos, que brille tu rostro y nos salve."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Lord, make us turn to you, let us see your face and we shall be saved."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Convertei-nos, ó Senhor, resplandecei a vossa face e nós seremos salvos!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Fa' splendere il tuo volto, Signore, e noi saremo salvi."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Dieu, fais-nous revenir ; que ton visage s’éclaire, et nous serons sauvés !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Richte uns wieder auf, o Gott, lass dein Angesicht leuchten, dann sind wir gerettet."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qui pascis Israel, inténde."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qui sedes super Chérubim, effúlge."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Excita poténtiam tuam et veni,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ut salvos fácias nos."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deus virtútum, convértere;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "réspice de cælo et vide, et vísita víneam istam."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Et prótege eam quam plantávit déxtera tua,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et super fílium hóminis quem confirmásti tibi."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fiat manus tua super virum déxteræ tuæ,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "super fílium hóminis quem confirmásti tibi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Et non discedémus a te, vivificábis nos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et nomen tuum invocábimus."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pastor de Israel, escucha;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tú que te sientas sobre querubines,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "resplandece;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "despierta tu poder y ven a salvarnos."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dios del universo, vuélvete:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mira desde el cielo, fíjate,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ven a visitar tu viña."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cuida la cepa que tu diestra plantó y al hijo del hombre que tú has fortalecido."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Que tu mano proteja a tu escogido,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "al hombre que tú fortaleciste."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "No nos alejaremos de ti:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "danos vida, para que invoquemos tu nombre."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O shepherd of Israel, hear us, shine forth from your cherubim throne. O Lord,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "rouse up your might, O Lord, come to our help."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "God of hosts, turn again, we implore, look down from heaven and see. Visit this vine and protect it, the vine your right hand has planted."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "May your hand be on the man you have chosen, the man you have given your strength. And we shall never forsake you again: give us life that we may call upon your name."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pastor de Israel, prestai ouvidos."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vós que sobre os querubins vos assentais. Despertai vosso poder, ó nosso Deus e vinde logo nos trazer a salvação!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Voltai-vos para nós, Deus do universo!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Olhai dos altos céus e observai."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Visitai a vossa vinha e protegei-a! Foi a vossa mão direita que a plantou;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "protegei-a, e ao rebento que firmastes!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pousai a mão por sobre o vosso Protegido,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "o filho do homem que escolhestes para vós!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "E nunca mais vos deixaremos, Senhor Deus!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dai-nos vida, e louvaremos vosso nome!"
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu, pastore d’Israele, ascolta."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seduto sui cherubini, risplendi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Risveglia la tua potenza e vieni a salvarci."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dio degli eserciti, ritorna!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Guarda dal cielo e vedi e visita questa vigna,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "proteggi quello che la tua destra ha piantato,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il figlio dell’uomo che per te hai reso forte."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sia la tua mano sull’uomo della tua destra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sul figlio dell’uomo che per te hai reso forte."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Da te mai più ci allontaneremo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "facci rivivere e noi invocheremo il tuo nome."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Berger d’Israël, écoute,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "resplendis au-dessus des Kéroubim !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Réveille ta vaillance et viens nous sauver."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dieu de l’univers, reviens !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Du haut des cieux, regarde et vois :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "visite cette vigne, protège-la,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "celle qu’a plantée ta main puissante."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Que ta main soutienne ton protégé,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le fils de l’homme qui te doit sa force."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jamais plus nous n’irons loin de toi :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "fais-nous vivre et invoquer ton nom !"
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Du Hirte Israels, höre!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der du auf den Kerubim thronst, erscheine."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Biete deine gewaltige Macht auf,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "und komm uns zu Hilfe!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gott der Heerscharen, wende dich uns wieder zu!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Blick vom Himmel herab,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "und sieh auf uns!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sorge für diesen Weinstock und für den Garten, den deine Rechte gepflanzt hat."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deine Hand schütze den Mann zu deiner Rechten,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "den Menschensohn, den du für dich groß und stark gemacht."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Erhalt uns am Leben!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dann wollen wir deinen Namen anrufen und nicht von dir weichen."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Paráte viam Dómini, rectas fácite sémitas eius; vidébit omnis caro salutáre Dei."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Preparad el camino del Señor, allanad sus senderos. Toda carne verá la salvación de Dios."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Prepare the way of the Lord, make straight his paths: all mankind shall see the salvation of God."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Preparai o caminho do Senhor, endireitai as suas veredas! Toda carne há de ver a salvação que vem de Deus!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Preparate la via del Signore, raddrizzate i suoi sentieri! Ogni uomo vedrà la salvezza di Dio."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Alléluia. Préparez le chemin du Seigneur, rendez droits ses sentiers : tout être vivant verra le salut de Dieu."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bereitet dem Herrn den Weg! Ebnet ihm die Straßen! Und alle Menschen werden das Heil sehen, das von Gott kommt."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "it": "(Lc 3,4.6)",
+              "de": "Lk 3, 4. 6"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Mt 17, 10-13",
+              "es": "Mt 17, 10-13",
+              "en-US": "Mt 17:10-13",
+              "pt-BR": "Mt 17, 10-13",
+              "it": "Mt 17, 10-13",
+              "fr": "Mt 17, 10-13",
+              "de": "Mt 17, 9a. 10-13"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Matthǽum",
+              "es": "✠ Lectura del santo Evangelio según san Mateo",
+              "en-US": "✠ A reading from the holy Gospel according to Matthew",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+              "it": "✠ Dal vangelo secondo Matteo",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Matthieu",
+              "de": "✠ Aus dem heiligen Evangelium nach Matthäus"
+            },
+            "summary": {
+              "la": "Elias iam venit, et non cognoverunt eum",
+              "es": "Elías ya ha venido y no lo reconocieron",
+              "pt-BR": "Elias já veio, mas não o reconheceram.",
+              "it": "Elia è già venuto, e non l’hanno riconosciuto."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Descendéntibus illis de monte, interrogavérunt Iesum discípuli dicéntes: «Quid ergo scribæ dicunt quod Elíam opórteat primum veníre?». At ille respóndens ait: «Elías quidem ventúrus est et restítuet ómnia. Dico autem vobis quia Elías iam venit, et non cognovérunt eum, sed fecérunt in eo, quæcúmque voluérunt; sic et Fílius hóminis passúrus est ab eis». Tunc intellexérunt discípuli quia de Ioánne Baptísta dixísset eis."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cuando bajaban del monte, los discípulos preguntaron a Jesús: «¿Por qué dicen los escribas que primero tiene que venir Elías?». Él les contestó: «Elías vendrá y lo renovará todo. Pero os digo que Elías ya ha venido y no lo reconocieron, sino que han hecho con él lo que han querido. Así también el Hijo del hombre va a padecer a manos de ellos». Entonces entendieron los discípulos que se refería a Juan el Bautista."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "As they came down from the mountain the disciples put this question to Jesus, 'Why do the scribes say then that Elijah has to come first?' 'True;' he replied 'Elijah is to come to see that everything is once more as it should be; however, I tell you that Elijah has come already and they did not recognise him but treated him as they pleased; and the Son of Man will suffer similarly at their hands.' The disciples understood then that he had been speaking of John the Baptist."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ao descerem do monte, os discípulos perguntaram a Jesus: \"Por que os mestres da Lei dizem que Elias deve vir primeiro?\" Jesus respondeu: \"Elias vem e colocará tudo em ordem. Ora, eu vos digo: Elias já veio, mas eles não o reconheceram. Ao contrário, fizeram com ele tudo o que quiseram. Assim também o Filho do Homem será maltratado por eles\". Então os discípulos compreenderam que Jesus lhes falava de João Batista."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mentre scendevano dal monte, i discepoli domandarono a Gesù: «Perché dunque gli scribi dicono che prima deve venire Elia?». Ed egli rispose: «Sì, verrà Elia e ristabilirà ogni cosa. Ma io vi dico: Elia è già venuto e non l’hanno riconosciuto; anzi, hanno fatto di lui quello che hanno voluto. Così anche il Figlio dell’uomo dovrà soffrire per opera loro». Allora i discepoli compresero che egli parlava loro di Giovanni il Battista."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Descendant de la montagne, les disciples interrogèrent Jésus : « Pourquoi donc les scribes disent-ils que le prophète Élie doit venir d’abord ? » Jésus leur répondit : « Élie va venir pour remettre toute chose à sa place. Mais, je vous le déclare : Élie est déjà venu ; au lieu de le reconnaître, ils lui ont fait tout ce qu’ils ont voulu. Et de même, le Fils de l’homme va souffrir par eux. » Alors les disciples comprirent qu’il leur parlait de Jean le Baptiste."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Während Jesus und seine Jünger den Berg hinabstiegen, fragten ihn die Jünger: Warum sagen denn die Schriftgelehrten, zuerst müsse Elíja kommen? Er gab zur Antwort: Ja, Elíja kommt, und er wird alles wiederherstellen. Ich sage euch aber: Elíja ist schon gekommen, doch sie haben ihn nicht erkannt, sondern mit ihm gemacht, was sie wollten. Ebenso wird auch der Menschensohn durch sie leiden müssen. Da verstanden die Jünger, dass er von Johannes dem Täufer sprach."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Devotiónis nostræ tibi, Dómine, quǽsumus, hóstia iúgiter immolétur, quæ et sacri péragat institúta mystérii, et salutáre tuum nobis poténter operétur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Haz, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que te ofrezcamos siempre este sacrificio como expresión de nuestra propia entrega,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que se realice el santo sacramento que tú instituiste y se lleve a cabo en nosotros eficazmente la obra de tu salvación."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the sacrifice of our worship, Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "be offered to you unceasingly,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to complete what was begun in sacred mystery and powerfully accomplish for us your saving work."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Possamos, Senhor, oferecer-vos sem cessar este nosso sacrifício,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, ao celebrarmos o sacramento que nos destes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "realizem-se em nós as maravilhas da salvação."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sempre si rinnovi, o Signore, l’offerta di questo sacrificio che attua il santo mistero da te istituito, e con la sua divina potenza renda efficace in noi l’opera della salvezza. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nous t’en prions, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous de t’offrir toujours ce sacrifice d’un cœur généreux :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qu’il réalise le mystère sacré que tu as institué,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et opère en nous ton salut avec puissance."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, in dieser Feier erfüllen wir den Auftrag deines Sohnes. Nimm unsere Gaben an und gib deiner Kirche die Gnade, immer und überall sein Opfer zu feiern. Schenke uns durch dieses Geheimnis dein Heil, das du der Welt bereitet hast. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf001",
+      "label": {
+        "la": "PRÆFATIO I DE ADVENTU",
+        "es": "PREFACIO I DE ADVIENTO",
+        "en-US": "Preface I of Advent",
+        "pt-BR": "Prefácio do Advento I",
+        "it": "PREFAZIO DELL’AVVENTO I",
+        "fr": "PRÉFACE DE L’AVENT N°1",
+        "de": "PRÄFATION VOM ADVENT I"
+      },
+      "excerpt": {
+        "la": "De duobus adventibus Christi",
+        "es": "Las dos venidas de Cristo",
+        "en-US": "The two comings of Christ",
+        "pt-BR": "As duas vindas de Cristo",
+        "it": "La duplice venuta del Cristo",
+        "fr": "Les deux avènements du Christ",
+        "de": "Das zweimalige Kommen Christi"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur: in Missis de témpore a prima dominica Adventus usque ad diem 16 decembris; in ceteris Missis, quæ celebrantur eodem témpore et præfatione propria carent."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui, primo advéntu in humilitáte carnis assúmptæ,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dispositiónis antíquæ munus implévit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nobísque salútis perpétuæ trámitem reserávit:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum secúndo vénerit in suæ glória maiestátis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "manifésto demum múnere capiámus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quod vigilántes nunc audémus exspectáre promíssum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Thronis et Dominatiónibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque omni milítia cæléstis exércitus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum glóriæ tuæ cánimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del tiempo, desde el primer domingo de Adviento hasta el día 16 de diciembre, y en las restantes misas que se celebran durante este mismo tiempo y no tienen prefacio propio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quien, al venir por vez primera en la humildad de nuestra carne, realizó el plan de redención trazado desde antiguo y nos abrió el camino de la salvación eterna, para que cuando venga de nuevo en la majestad de su gloria, revelando así la plenitud de su obra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "podamos recibir los bienes prometidos que ahora, en vigilante espera, confiamos alcanzar."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tronos y dominaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y con todos los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos sin cesar el himno de tu gloria:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of Advent from the First Sunday of Advent to 16 December and in other Masses that are celebrated in Advent and have no proper Preface."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For he assumed at his first coming the lowliness of human flesh,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and so fulfilled the design you formed long ago,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and opened for us the way to eternal salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "that, when he comes again in glory and majesty and all is at last made manifest,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we who watch for that day may inherit the great promise in which now we dare to hope."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with Thrones and Dominions,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with all the hosts and Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado no Advento, até o dia 16 de dezembro, em todas as Missas que não têm um prefácio próprio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Revestido da nossa fragilidade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ele veio a primeira vez para realizar seu eterno plano de amor e abrir-nos o caminho da salvação."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Revestido de sua glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ele virá uma segunda vez,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para conceder-nos em plenitude os dons prometidos que hoje vigilantes esperamos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Arcanjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os Tronos e as Dominações e todos os coros celestes entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando (dizendo) a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe del Tempo di Avvento, dalla prima domenica al 16 dicembre, e nelle Messe che non hanno un prefazio proprio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nostro dovere e fonte di salvezza rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Al suo primo avvento nell’umiltà della condizione umana egli portò a compimento la promessa antica e ci aprì la via dell’eterna salvezza."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quando verrà di nuovo nello splendore della gloria, ci chiamerà a possedere il regno promesso che ora osiamo sperare vigilanti nell’attesa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli Angeli e agli Arcangeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ai Troni e alle Dominazioni e alla moltitudine dei cori celesti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo con voce incessante l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Pour les messes du temps, du 1er dimanche de l’Avent au 16 décembre et, éventuellement, pour les messes des saints célébrées durant ce temps."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car il est déjà venu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en assumant l’humble condition de notre chair,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour accomplir l’éternel dessein de ton amour et nous ouvrir à jamais le chemin du salut ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il viendra de nouveau,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "revêtu de sa gloire,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "afin que nous possédions dans la pleine lumière les biens que tu nous as promis et que nous attendons en veillant dans la foi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les puissances d’en haut et tous les esprits bienheureux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in der Adventszeit genommen in jenen Messen, die keine eigene Präfation haben. Für die Tage vom 17. bis zum 24. Dezember siehe Adventspräfation V."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn in seinem ersten Kommen hat er sich entäußert und ist Mensch geworden."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "So hat er die alte Verheißung erfüllt und den Weg des Heiles erschlossen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Wenn er wiederkommt im Glanz seiner Herrlichkeit, werden wir sichtbar empfangen,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "was wir jetzt mit wachem Herzen gläubig erwarten."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich mit allen Engeln und Heiligen und singen vereint mit ihnen das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf003",
+      "label": {
+        "es": "PREFACIO III DE ADVIENTO",
+        "it": "PREFAZIO DELL’AVVENTO I/A",
+        "de": "PRÄFATION VOM ADVENT III"
+      },
+      "excerpt": {
+        "es": "Cristo, Señor y Juez de la Historia",
+        "it": "Cristo, Signore e giudice della storia",
+        "de": "Die Geschenke des kommenden Herrn"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del tiempo, desde el primer domingo de Adviento hasta el día 16 de diciembre, y en las restantes misas que se celebran durante este mismo tiempo y no tienen prefacio propio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo darte gracias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber cantar en tu honor himnos de bendición y de alabanza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Padre todopoderoso, principio y fin de todo lo creado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tú nos has ocultado el día y la hora en que Cristo, tu Hijo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor y Juez de la historia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "aparecerá, revestido de poder y de gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sobre las nubes del cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En aquel día terrible y glorioso pasará la figura de este mundo y nacerán los cielos nuevos y la tierra nueva."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "El mismo Señor que se nos mostrará entonces lleno de gloria viene ahora a nuestro encuentro en cada hombre y en cada acontecimiento,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que lo recibamos en la fe y por el amor demos testimonio de la espera dichosa de su reino."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mientras aguardamos su última venida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a los ángeles y a los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos el himno de tu gloria:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe del Tempo di Avvento, dalla prima domenica al 16 dicembre, e nelle Messe che non hanno un prefazio proprio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "è veramente giusto renderti grazie e innalzare a te l’inno di benedizione e di lode, Padre onnipotente,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "principio e fine di tutte le cose."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu ci hai nascosto il giorno e l’ora in cui il Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Signore e giudice della storia, apparirà sulle nubi del cielo rivestito di potenza e splendore. In quel giorno tremendo e glorioso passerà il mondo presente Ora egli viene incontro a noi in ogni uomo e in ogni tempo, perché lo accogliamo nella fede e testimoniamo nell’amore la beata speranza del suo regno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nell’attesa del suo ultimo avvento, insieme agli angeli e ai santi, cantiamo unanimi l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in der Adventszeit genommen in jenen Messen, die keine eigene Präfation haben. Für die Tage vom 17. bis zum 24. Dezember siehe Adventspräfation V."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Wir danken dir, Vater im Himmel, und rühmen dich durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ihn hast du der verlorenen Menschheit als Erlöser verheißen. Seine Wahrheit leuchtet den Suchenden, seine Kraft stärkt die Schwachen, seine Heiligkeit bringt den Sündern Vergebung."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn er ist der Heiland der Welt, den du gesandt hast, weil du getreu bist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich mit den Kerubim und Serafim und singen mit allen Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ecce vénio cito et merces mea mecum est, dicit Dóminus, dare unicuíque secúndum ópera sua."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mira, yo vengo pronto y traeré mi recompensa conmigo, dice el Señor, para dar a cada uno según sus obras."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Behold, I am coming soon and my recompense is with me, says the Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to bestow a reward according to the deeds of each."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Eis que venho logo, diz o Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e trago comigo a recompensa;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "darei a cada um segundo as suas obras."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "«Ecco, io vengo presto e ho con me il mio salario», dice il Signore, «per rendere a ciascuno secondo le sue opere»"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "Oppure: Mt 17, 12"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Elia è già venuto e non l’hanno riconosciuto. Così anche il Figlio dell’uomo."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Voici que je viens sans tarder, dit le Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et j’apporte avec moi le salaire que je vais donner à chacun selon ce qu’il a fait."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Siehe, ich komme bald, und mit mir kommt mein Lohn; und ich werde jedem nach seinem Tun vergelten - so spricht der Herr."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Tuam, Dómine, cleméntiam implorámus, ut hæc divína subsídia, a vítiis expiátos, ad festa ventúra nos prǽparent. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Imploramos tu misericordia, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que este divino alimento que hemos recibido nos purifique del pecado y nos prepare a las fiestas que se acercan."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "We implore your mercy, Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that this divine sustenance may cleanse us of our faults and prepare us for the coming feasts."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Imploramos, Senhor, vossa clemência,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que estes divinos auxílios nos purifiquem dos pecados e nos preparem para as festas que se aproximam."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Imploriamo, o Signore, la tua misericordia: la forza divina di questo sacramento ci purifichi dal peccato e ci prepari alle feste del Natale. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nous implorons,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, ta bonté :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ce réconfort divin nous délivre de nos penchants mauvais et nous prépare aux fêtes qui approchent."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, komm durch dieses heilige Mahl uns schwachen Menschen zu Hilfe. Reinige uns von Schuld und mache uns bereit für das kommende Fest."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

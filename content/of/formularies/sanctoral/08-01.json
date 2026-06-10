@@ -1,0 +1,1266 @@
+{
+  "id": "sanctorale.08-01",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Alfonsi Maríæ de Liguori, episcopi et Ecclésiæ doctoris",
+    "es": "San Alfonso María de Ligorio, obispo y doctor de la Iglesia",
+    "en-US": "Saint Alphonsus Liguori, Bishop and Doctor of the Church",
+    "pt-BR": "Santo Afonso Maria de Ligório, bispo e doutor da Igreja",
+    "it": "SANT’ALFONSO MARIA DE' LIGUORI, vescovo e dottore della Chiesa",
+    "fr": "Saint Alphonse-Marie de Liguori, évêque et docteur de l’Église",
+    "de": "Hl. Alfons Maria von Liguori, Ordensgründer, Bischof, Kirchenlehrer"
+  },
+  "description": {
+    "la": "Natus est Neapoli anno 1696; doctor utriusque iuris renuntiatus, ad sacerdotium accessit et Congregationem a Sanctissimo Redemptore nuncupatam instituit. Ad vitam christianam fovendam in populo prædicationi incubuit et libros conscripsit, præsertim de re morali, cuius disciplinæ magister habetur. Episcopus Sanctæ Agathæ Gothorum electus, munus paulo post dimisit et apud suos Nuceriæ Paganorum (Pagani) in Campania mortuus est anno 1787.",
+    "es": "Nació en Nápoles el año 1696; obtuvo el doctorado en ambos derechos, recibió la ordenación sacerdotal e instituyó la Congregación llamada del Santísimo Redentor. Para fomentar la vida cristiana en el pueblo, se dedicó a la predicación y a la publicación de diversas obras, sobre todo de teología moral, materia en la que es considerado un auténtico maestro. Fue elegido obispo de Sant' Agata de' Goti, pero algunos años después renunció a dicho cargo y murió entre los suyos, en Pagani, cerca de Nápoles, el año 1787.",
+    "pt-BR": "Afonso (Nápoles, Itália, 1696 - Nocera de Pagani, Salerno, 1º de agosto de 1787), já advogado no foro de Nápoles, deixou a toga pela vida eclesiástica. Bispo de Santa Ágata dos Godos (1762-1775) e fundador dos Redentoristas (1732), empenhou-se, com grande zelo, nas missões para o povo; dedicou-se aos pobres e aos doentes; foi mestre de ciências morais, para as quais se inspirou em critérios de prudência pastoral, fundada na procura sincera e objetiva da verdade, sensível, porém, às necessidades e às situações das consciências. Compôs escritos ascéticos de grande repercussão. Apóstolo do culto à Eucaristia e à Virgem Maria, levou os fiéis à meditação dos novíssimos, à oração e à vida sacramental.",
+    "it": "Alfonso (Marianella, Napoli, 27 settembre 1696 - Pagani, Salerno, 1 agosto 1787), avvicinatosi in giovinezza all’Oratorio filippino e all’assistenza dei malati incurabili, lasciò la professione forense e fu ordinato presbitero. Predicò con stile semplice nei quartieri più poveri di Napoli e nelle comunità rurali, promovendo devozioni ricche di sentimento religioso. Per incrementare le missioni al popolo, fondò la Congregazione del Santissimo Redentore (Redentoristi). Vescovo di Sant’Agata dei Goti (Benevento), si dedicò particolarmente alla formazione del clero. Con i suoi numerosi scritti e con canti dalla dolce melodia popolare alimentò la spiritualità dei fedeli e contribuì a una equilibrata preparazione teologico-morale dei confessori.",
+    "fr": "Alphonse-Marie de Liguori (1696-1787) était napolitain. D’abord avocat, il devint prêtre puis évêque. Prédicateur infatigable, confesseur plein de bonté, il ne cessa d’annoncer l’amour du Christ et fonda la Congrégation du Très Saint Rédempteur en vue d’évangéliser les campagnes (1732). Son enseignement de moraliste et ses écrits spirituels eurent une large audience.",
+    "de": "Der heilige Alfons Maria wurde 1696 in Neapel geboren und studierte Rechtswissenschaften. Er wurde zum Priester geweiht und gründete die Kongregation des allerheiligsten Erlösers (Redemptoristen). Um den Glauben im Volk zu stärken widmete er sich der Predigt und veröffentlichte einige Schriften, vor allem über die Moraltheologie. Später wurde er zum Bischof von S. Agata de´Goti gewählt, verzichtete jedoch wenige Jahre danach auf dieses Amt um sich mehr der Seelsorge widmen zu können. Er starb 1787."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui in Ecclésia tua nova semper instáuras exémpla virtútum, da nobis in zelo animárum beáti Alfónsi Maríæ epíscopi ita vestígiis adhærére, ut eius in cælis assequámur et prǽmia. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que suscitas continuamente en tu Iglesia nuevos ejemplos de virtud,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos seguir las huellas del obispo san Alfonso María en el celo por las almas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de modo que consigamos su recompensa en el cielo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who constantly raise up in your Church new examples of virtue, grant that we may follow so closely in the footsteps of the Bishop Saint Alphonsus in his zeal for souls as to attain the same rewards that are his in heaven."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que despertais continuamente em vossa Igreja novos exemplos de virtude,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dai-nos seguir de tal modo os passos do bispo Santo Afonso Maria de Ligório,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "em seu zelo pela salvação de todos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que alcancemos com ele o prêmio no céu."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che fai sorgere nella tua Chiesa forme sempre nuove di santità, fa' che imitiamo l’ardore apostolico del santo vescovo Alfonso Maria [de' Liguori],"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "per ricevere la sua stessa ricompensa nei cieli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "toi qui toujours suscites en ton Église de nouveaux exemples de vertu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais-nous marcher avec ardeur pour le salut des âmes sur les traces de l’évêque saint Alphonse-Marie de Liguori,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin que nous obtenions comme lui la récompense du ciel."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Hirt deines Volkes, du schenkst der Kirche zu allen Zeiten Menschen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "die durch ihren Glauben und ihre Liebe ein Vorbild sind. Gib, dass uns gleich dem heiligen Alfons das Heil der Menschen am Herzen liegt, und schenke uns im Himmel den Lohn, den er schon empfangen hat. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Rom 8, 1-4",
+              "es": "Rom 8, 1-4",
+              "en-US": "Rom 8:1-4",
+              "pt-BR": "Rom 8, 1-4",
+              "it": "Rm 8,1-4",
+              "fr": "Rm 8, 1-4",
+              "de": "Röm 8, 1-4"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ beáti Pauli apóstoli ad Romános",
+              "es": "Lectura de la carta del apóstol san Pablo a los Romanos",
+              "en-US": "A reading from the Letter of Saint Paul to the Romans",
+              "pt-BR": "Leitura da Carta de São Paulo aos Romanos",
+              "it": "Dalla lettera di san Paolo apostolo ai Romani",
+              "fr": "Lettre de saint Paul Apôtre aux Romains",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Römer"
+            },
+            "summary": {
+              "la": "Lex Spíritus vitæ in Christo Iesu liberavit te a lege peccati et mortis.",
+              "es": "La ley del Espíritu de vida en Cristo Jesús te ha librado de la ley del pecado y de la muerte",
+              "pt-BR": "A lei do Espírito que dá a vida em Jesus Cristo te libertou da lei do pecado e da morte.",
+              "it": "La legge dello Spirito, che dà vita in Cristo Gesù, ti ha liberato dalla legge del peccato e della morte."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Nihil nunc damnatiónis est his, qui sunt in Christo Iesu; lex enim Spíritus vitæ in Christo Iesu liberávit te a lege peccáti et mortis. Nam, quod impossíbile erat legi, in quo infirmabátur per carnem, Deus Fílium suum mittens in similitúdine carnis peccáti et pro peccáto, damnávit peccátum in carne, ut iustítia legis implerétur in nobis, qui non secúndum carnem ambulámus sed secúndum Spíritum."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: No hay condena alguna para los que están en Cristo Jesús, pues la ley del Espíritu de vida en Cristo Jesús te ha librado de la ley del pecado y de la muerte. Lo que era imposible a la ley, por cuanto que estaba debilitada a causa de la carne, lo ha hecho Dios: enviando a su Hijo en semejanza de carne de pecado y en orden al pecado, condenó el pecado en la carne, para que la justa exigencia de la ley se cumpliera en nosotros, los que actuamos no de acuerdo con la carne, sino de acuerdo con el Espíritu."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hence, now there is no condemnation for those who are in Christ Jesus. For the law of the spirit of life in Christ Jesus has freed you from the law of sin and death. For what the law, weakened by the flesh, was powerless to do, this God has done: by sending his own Son in the likeness of sinful flesh and for the sake of sin, he condemned sin in the flesh, so that the righteous decree of the law might be fulfilled in us, who live not according to the flesh but according to the spirit."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos: Não há mais condenação para aqueles que estão em Cristo Jesus. Pois a lei do Espírito que dá a vida em Jesus Cristo te libertou da lei do pecado e da morte. Com efeito, aquilo que era impossível para a Lei, já que ela estava enfraquecida pela carne, Deus o realizou; tendo enviado seu próprio Filho numa condição semelhante àquela da humanidade pecadora, e por causa justamente do pecado, condenou o pecado em nossa condição humana, para que toda a justiça exigida pela Lei seja cumprida em nós que não procedemos segundo a carne, mas segundo o Espírito."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, non c’è più nessuna condanna per quelli che sono in Cristo Gesù. Poiché la legge dello Spirito che da' vita in Cristo Gesù ti ha liberato dalla legge del peccato e della morte. Infatti ciò che era impossibile alla legge, perché la carne la rendeva impotente, Dio lo ha reso possibile: mandando il proprio Figlio in una carne simile a quella del peccato e in vista del peccato, egli ha condannato il peccato nella carne, perché la giustizia della legge si adempisse in noi, che non camminiamo secondo la carne ma secondo lo Spirito."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, pour ceux qui sont dans le Christ Jésus, il n’y a plus de condamnation. Car la loi de l’Esprit qui donne la vie dans le Christ Jésus t’a libéré de la loi du péché et de la mort. En effet, quand Dieu a envoyé son propre Fils dans une condition charnelle semblable à celle des pécheurs pour vaincre le péché, il a fait ce que la loi de Moïse ne pouvait pas faire à cause de la faiblesse humaine : il a condamné le péché dans l’homme charnel. Il voulait ainsi que l’exigence de la Loi s’accomplisse en nous, dont la conduite n’est pas selon la chair mais selon l’Esprit."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Jetzt gibt es keine Verurteilung mehr für die, welche in Christus Jesus sind. Denn das Gesetz des Geistes und des Lebens in Christus Jesus hat dich frei gemacht vom Gesetz der Sünde und des Todes. Weil das Gesetz, ohnmächtig durch das Fleisch, nichts vermochte, sandte Gott seinen Sohn in der Gestalt des Fleisches, das unter der Macht der Sünde steht, zur Sühne für die Sünde, um an seinem Fleisch die Sünde zu verurteilen; dies tat er, damit die Forderung des Gesetzes durch uns erfüllt werde, die wir nicht nach dem Fleisch, sondern nach dem Geist leben."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cælésti, Dómine, Spíritus igne corda nostra cleménter exúre, qui beáto Alfónso Maríæ tribuísti et hæc mystéria celebráre, et per éadem hóstiam tibi sanctam seípsum exhibére. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, enciende misericordioso nuestros corazones en el fuego celestial del Espíritu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tú que concediste a san Alfonso María celebrar estos misterios ofreciéndose él mismo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por medio de ellos, como víctima santa."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Be pleased, O Lord, to enkindle our hearts with the celestial fire of your Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "just as you granted that Saint Alphonsus should celebrate these mysteries and by them offer himself to you as a holy sacrifice."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, acendei com bondade em nossos corações o fogo do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que concedestes a Santo Afonso Maria de Ligório ao celebrar estes mistérios e oferecer-se a si mesmo como oferenda santa."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, che hai concesso a sant’Alfonso Maria la grazia di celebrare questi misteri offrendo se stesso come sacrificio santo a te consacrato, infiamma i nostri cuori con il fuoco del tuo Spirito. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dans ta bonté, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "brûle nos cœurs du feu céleste de l’Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "toi qui as donné à saint Alphonse-Marie la grâce de célébrer ces mystères et, par eux, de s’offrir lui-même en sacrifice vivant et saint."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, du hast dem Bischof Alfons die Gnade gegeben, beim eucharistischen Opfer sich selber dir als heilige Gabe zu schenken. Läutere auch unsere Herzen im Feuer deines Geistes und heilige sie. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui beátum Alfónsum Maríam fidélem dispensatórem et præcónem tanti mystérii providísti, concéde, ut fidéles tui illud frequénter percípiant, et,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "percipiéndo, te sine fine colláudent. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que hiciste a san Alfonso María fiel dispensador y predicador de este misterio tan grande,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concede a tus fieles recibirlo frecuentemente y alabarte sin cesar al recibirlo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who gave us Saint Alphonsus to be a faithful steward and preacher of this great mystery, grant that your faithful may receive it often and, receiving it,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "praise you without end."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que nos destes Santo Afonso Maria de Ligório como fiel ministro e pregador de tão grande sacramento,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei que os vossos fiéis recebam com frequência a santa Eucaristia e, recebendo-a, vos louvem para sempre."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che hai fatto del santo vescovo Alfonso Maria un fedele ministro e apostolo dell’Eucaristia, concedi ai tuoi fedeli di parteciparvi assiduamente per cantare in eterno la tua lode. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as fait de saint Alphonse-Marie un intendant fidèle et le prédicateur du grand mystère que nous célébrons ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous d’y communier souvent et, par cette communion, de te bénir à jamais."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, du hast den heiligen Alfons zum treuen Ausspender und Verkünder dieses Sakramentes gemacht. Gewähre auf seine Fürsprache, dass deine Gläubigen diese heilige Speise oft empfangen und dich in Ewigkeit preisen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

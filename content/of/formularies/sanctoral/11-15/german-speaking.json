@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.11-15.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Leopold, Markgraf von Österreich"
+  },
+  "description": {
+    "de": "Leopold III. wurde 1075 geboren und von Bischof Altmann von Passau erzogen. 1105 heiratete er Agnes, die Tochter Heinrich IV. In seiner mehr als vierzigjährigen Regierungszeit hat Leopold, mitten in einer wirren Zeit, die Grundlage für die künftige Größe Österreichs geschaffen. Er stiftete mehrere Klöster und galt als Mann des Glaubens und des Gebetes, aber auch als Herrscher, der zu regieren verstand. Er starb 1136 auf der Jagd."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allherrschender Gott, du hast dem heiligen Markgrafen Leopold für die Ausübung seines Amtes die Gaben deines Geistes geschenkt. Hilf uns, unsere Pflichten treu zu erfüllen, und nimm uns einst auf in dein himmlisches Reich. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

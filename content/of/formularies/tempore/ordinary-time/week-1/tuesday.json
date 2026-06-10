@@ -1,0 +1,2230 @@
+{
+  "id": "tempore.ordinary-time.week-1.tuesday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Feria III hebd. I",
+    "es": "Martes 1ª semana",
+    "en-US": "Tuesday of the I Week in Ordinary Time",
+    "pt-BR": "Terça-feira da I Semana do Tempo Comum",
+    "it": "MARTEDI della I settimana del Tempo Ordinario",
+    "fr": "Mardi de la 1e semaine",
+    "de": "1. Woche im Jahreskreis DIENSTAG"
+  },
+  "season": "ordinary-time",
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "weekday",
+  "includeGloria": false,
+  "inheritsOrationsFrom": "tempore.ordinary-time.week-1.sunday",
+  "readings": {
+    "I": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Hebr 2, 5-12",
+              "es": "Heb 2, 5-12",
+              "en-US": "Heb 2:5-12",
+              "pt-BR": "Heb 2, 5-12",
+              "it": "Eb 2,5-12",
+              "fr": "He 2, 5-12",
+              "de": "Hebr 2, 5-12"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ ad Hebrǽos",
+              "es": "Lectura de la carta a los Hebreos",
+              "en-US": "A reading from the Letter to the Hebrews",
+              "pt-BR": "Leitura da Carta aos Hebreus",
+              "it": "Dalla lettera agli Ebrei",
+              "fr": "Lettre aux Hébreux",
+              "de": "Lesung aus dem Hebräerbrief"
+            },
+            "summary": {
+              "la": "Decebat auctorem salutis per passiones consummare",
+              "es": "Convenía perfeccionar mediante el sufrimiento al jefe que iba a guiarlos a la salvación",
+              "pt-BR": "Convinha que por meio dos sofrimentos levasse o iniciador da salvação deles à consumação.",
+              "it": "Conveniva infatti che Dio rendesse perfetto per mezzo delle sofferenze il capo che guida alla salvezza."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Non ángelis subiécit orbem terræ futúrum, de quo lóquimur. Testátus est autem in quodam loco quis dicens: «Quid est homo, quod memor es eius, aut fílius hóminis, quóniam vísitas eum? Minuísti eum paulo minus ab ángelis, glória et honóre coronásti eum, ómnia subiecísti sub pédibus eius». In eo enim quod ei ómnia subiécit, nihil dimísit non subiectíbile ei. Nunc autem necdum vidémus ómnia subiécta ei; eum autem, qui paulo minus ab ángelis minorátus est, vidémus Iesum propter passiónem mortis glória et honóre coronátum, ut grátia Dei pro ómnibus gustáverit mortem. Decébat enim eum, propter quem ómnia et per quem ómnia, qui multos fílios in glóriam addúxit, ducem salútis eórum per passiónes consummáre. Qui enim sanctíficat et qui sanctificántur, ex uno omnes; propter quam causam non erubéscit fratres eos vocáre dicens: «Nuntiábo nomen tuum frátribus meis, in médio Ecclésiæ laudábo te»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dios no sometió a los ángeles el mundo venidero, del que estamos hablando; de ello dan fe estas palabras: «¿Qué es el hombre, para que te acuerdes de él, o el ser humano, para que mires por él? Lo hiciste poco inferior a los ángeles, lo coronaste de gloria y dignidad, todo lo sometiste bajo sus pies». En efecto, al someterle todo, nada dejó fuera de su dominio. Pero ahora no vemos todavía que le esté sometido todo. Al que Dios había hecho un poco inferior a los ángeles, a Jesús, lo vemos ahora coronado de gloria y honor por su pasión y muerte. Pues, por la gracia de Dios, gustó la muerte por todos. Convenía que aquel, para quien y por quien existe todo, llevara muchos hijos a la gloria perfeccionando mediante el sufrimiento al jefe que iba a guiarlos a la salvación. El santificador y los santificados proceden todos del mismo. Por eso no se avergüenza de llamarlos hermanos, pues dice: «Anunciaré tu nombre a mis hermanos, en medio de la asamblea te alabaré»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "God did not appoint angels to be rulers of the world to come, and that world is what we are talking about. Somewhere there is a passage that shows us this. It runs: What is man that you should spare a thought for him, the son of man that you should care for him? For a short while you made him lower than the angels; you crowned him with glory and splendour. You have put him in command of everything. Well then, if he has put him in command of everything, he has left nothing which is not under his command. At present, it is true, we are not able to see that everything has been put under his command, but we do see in Jesus one who was for a short while made lower than the angels and is now crowned with glory and splendour because he submitted to death; by God's grace he had to experience death for all mankind. As it was his purpose to bring a great many of his sons into glory, it was appropriate that God, for whom everything exists and through whom everything exists, should make perfect, through suffering, the leader who would take them to their salvation. For the one who sanctifies, and the ones who are sanctified, are of the same stock; that is why he openly calls them brothers in the text: I shall announce your name to my brothers, praise you in full assembly."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Não foi aos anjos que Deus submeteu o mundo futuro, do qual estamos falando. A este respeito, porém, houve quem afirmasse: \"O que é o homem, para dele te lembrares, ou o filho do homem, para com ele te ocupares? Tu o fizeste um pouco menor que os anjos, de glória e honra o coroaste, e todas as coisas puseste debaixo de seus pés\". Se Deus lhe submeteu todas as coisas, nada deixou que não lhe fosse submisso. Atualmente, porém, ainda não vemos que tudo lhe esteja submisso. Jesus, a quem Deus fez pouco menor do que os anjos, nós o vemos coroado de glória e honra, por ter sofrido a morte. Sim, pela graça de Deus em favor de todos, ele provou a morte. Convinha de fato que aquele, por quem e para quem todas as coisas existem, e que desejou conduzir muitos filhos à glória, levasse o iniciador da salvação deles à consumação, por meio de sofrimentos. Pois tanto Jesus, o Santificador, como os santificados, são descendentes do mesmo ancestral; por esta razão, ele não se envergonha de os chamar irmãos, dizendo: \"Anunciarei o teu nome a meus irmãos; e no meio da assembléia te louvarei\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, non certo a degli angeli Dio ha sottomesso il mondo futuro, del quale parliamo. Anzi, in un passo della Scrittura qualcuno ha dichiarato: «Che cos’è l’uomo perché di lui ti ricordi o il figlio dell’uomo perché tu te ne curi? Di poco l’hai fatto inferiore agli angeli, di gloria e di onore l’hai coronato e hai messo ogni cosa sotto i suoi piedi». Avendo sottomesso a lui tutte le cose, nulla ha lasciato che non gli fosse sottomesso. Al momento presente però non vediamo ancora che ogni cosa sia a lui sottomessa. Tuttavia quel Gesù, che fu fatto di poco inferiore agli angeli, lo vediamo coronato di gloria e di onore a causa della morte che ha sofferto, perché per la grazia di Dio egli provasse la morte a vantaggio di tutti. Conveniva infatti che Dio - per il quale e mediante il quale esistono tutte le cose, lui che conduce molti figli alla gloria - rendesse perfetto per mezzo delle sofferenze il capo che guida alla salvezza. Infatti, colui che santifica e coloro che sono santificati provengono tutti da una stessa origine; per questo non si vergogna di chiamarli fratelli, dicendo: «Annuncerò il tuo nome ai miei fratelli, in mezzo all’assemblea canterò le tue lodi»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ce n’est pas à des anges que Dieu a soumis le monde à venir, dont nous parlons. Un psaume l’atteste en disant : Qu’est-ce que l’homme pour que tu penses à lui, le fils d’un homme, que tu en prennes souci ? Tu l’as abaissé un peu au-dessous des anges, tu l’as couronné de gloire et d’honneur ; tu as mis sous ses pieds toutes choses. Quand Dieu lui a tout soumis, il n’a rien exclu de cette soumission. Maintenant, nous ne voyons pas encore que tout lui soit soumis ; mais Jésus, qui a été abaissé un peu au-dessous des anges, nous le voyons couronné de gloire et d’honneur à cause de sa Passion et de sa mort. Si donc il a fait l’expérience de la mort, c’est, par grâce de Dieu, au profit de tous. Celui pour qui et par qui tout existe voulait conduire une multitude de fils jusqu’à la gloire ; c’est pourquoi il convenait qu’il mène à sa perfection, par des souffrances, celui qui est à l’origine de leur salut. Car celui qui sanctifie, et ceux qui sont sanctifiés, doivent tous avoir même origine ; pour cette raison, Jésus n’a pas honte de les appeler ses frères, quand il dit : Je proclamerai ton nom devant mes frères, je te chanterai en pleine assemblée."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Nicht Engeln hat Gott die zukünftige Welt unterworfen, von der wir reden, vielmehr heißt es an einer Stelle ausdrücklich: Was ist der Mensch, dass du an ihn denkst, oder der Menschensohn, dass du dich seiner annimmst? Du hast ihn nur für kurze Zeit unter die Engel erniedrigt. Du hast ihn mit Herrlichkeit und Ehre gekrönt, alles hast du ihm zu Füßen gelegt. Denn als er ihm alles zu Füßen legte, hat er nichts von der Unterwerfung ausgenommen. Jetzt sehen wir noch nicht alles ihm zu Füßen gelegt; aber den, der nur für kurze Zeit unter die Engel erniedrigt war, Jesus, ihn sehen wir um seines Todesleidens willen mit Herrlichkeit und Ehre gekrönt; es war nämlich Gottes gnädiger Wille, dass er für alle den Tod erlitt. Denn es war angemessen, dass Gott, für den und durch den das All ist und der viele Söhne zur Herrlichkeit führen wollte, den Urheber ihres Heils durch Leiden vollendete. Denn er, der heiligt, und sie, die geheiligt werden, stammen alle von Einem ab; darum scheut er sich nicht, sie Brüder zu nennen und zu sagen: Ich will deinen Namen meinen Brüdern verkünden, inmitten der Gemeinde dich preisen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 8, 2a et 5. 6-7. 8-9",
+              "es": "Sal 8, 2a et 5. 6-7. 8-9",
+              "en-US": "Ps 8:2a and 5, 6-7, 8-9",
+              "pt-BR": "Sl 8, 2a et 5. 6-7. 8-9",
+              "it": "Sal 8, 2a et 5. 6-7. 8-9",
+              "fr": "Ps 8, 2a et 5. 6-7. 8-9",
+              "de": "Ps 8, 2a et 5. 6-7. 8-9"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Constituísti Fílium tuum super ópera mánuum tuárum."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Diste a tu Hijo el mando sobre las obras de tus manos."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "You gave your Son authority over all your creation."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Destes domínio ao vosso Filho sobre tudo o que criastes."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Hai posto il tuo Figlio sopra ogni cosa."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Tu établis ton Fils sur les œuvres de tes mains."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Deinen Sohn hast du als Herrscher eingesetzt über das Werk deiner Hände."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dómine, Dóminus noster,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quam admirábile est nomen tuum in univérsa terra."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quid est homo, quod memor es eius?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "aut fílius hóminis,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quóniam vísitas eum?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Minuísti eum paulo minus ab ángelis,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "glória et honóre coronásti eum;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et constituísti eum super ópera mánuum tuárum."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Omnia subiecísti sub pédibus eius."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Oves et boves univérsas,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ínsuper et pécora campi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vólucres cæli et pisces maris,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quæcúmque perámbulant sémitas maris."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "¡Señor, Dios nuestro,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "qué admirable es tu nombre en toda la tierra!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "¿Qué es el hombre para que te acuerdes de él,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "el ser humano, para mirar por él?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lo hiciste poco inferior a los ángeles,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lo coronaste de gloria y dignidad;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le diste el mando sobre las obras de tus manos."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Todo lo sometiste bajo sus pies."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Rebaños de ovejas y toros,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y hasta las bestias del campo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "las aves del cielo, los peces del mar que trazan sendas por el mar."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Lord our God, what is man that you should keep him in mind, mortal man that you care for him?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Yet you have made him little less than a god; with glory and honor you crowned him, gave him power over the works of your hand, put all things under his feet."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "All of them, sheep and cattle, yes, even the savage beasts, birds of the air,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "and fish that make their way through the waters."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ó Senhor, nosso Deus, como é grande vosso nome por todo o universo!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Perguntamos:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "\"Senhor que é o homem, para dele assim vos lembrardes e o trtaes com tanto carinho?\""
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pouco abaixo de Deus o fizestes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "coroando-o de glória e esplendor;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vós lhe destes poder sobre tudo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vossas obras aos pés lhe pusestes."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "As ovelhas, os bois, os rebanhos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "todo o gado e as feras da mata;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "passarinhos e peixes dos mares,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "todo ser que se move nas águas."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Signore, Signore nostro,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quanto è mirabile il tuo nome su tutta la terra!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Che cosa è mai l’uomo perché di lui ti ricordi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il figlio dell’uomo, perché te ne curi?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Davvero l’hai fatto poco meno di un dio,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "di gloria e di onore lo hai coronato."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gli hai dato potere sulle opere delle tue mani,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tutto hai posto sotto i suoi piedi."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tutte le greggi e gli armenti e anche le bestie della campagna,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "gli uccelli del cielo e i pesci del mare,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ogni essere che percorre le vie dei mari."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ô Seigneur, notre Dieu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "qu’il est grand ton nom par toute la terre !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qu’est-ce que l’homme pour que tu penses à lui,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le fils d’un homme, que tu en prennes souci ?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu l’as voulu un peu moindre qu’un dieu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le couronnant de gloire et d’honneur ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tu l’établis sur les œuvres de tes mains,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tu mets toute chose à ses pieds."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Les troupeaux de bœufs et de brebis,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et même les bêtes sauvages,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "les oiseaux du ciel et les poissons de la mer,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tout ce qui va son chemin dans les eaux."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Herr, unser Herrscher,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wie gewaltig ist dein Name auf der ganzen Erde;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "über den Himmel breitest du deine Hoheit aus."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Was ist der Mensch, dass du an ihn denkst,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "des Menschen Kind, dass du dich seiner annimmst?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Du hast ihn nur wenig geringer gemacht als Gott,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hast ihn mit Herrlichkeit und Ehre gekrönt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Du hast ihn als Herrscher eingesetzt über das Werk deiner Hände,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hast ihm alles zu Füßen gelegt:"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "All die Schafe, Ziegen und Rinder und auch die wilden Tiere,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die Vögel des Himmels und die Fische im Meer,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "alles, was auf den Pfaden der Meere dahinzieht."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Accípite verbum Dei, non ut verbum hóminum, sed, sicut est vere, verbum Dei."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Acoged la palabra de Dios, no como palabra humana, sino, cual es en verdad, como palabra de Dios."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Receive this message not as words of man, but as truly the word of God."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Acolhei a palavra de Deus, não como palavra humana, mas como mensagem de Deus; o que ele é, em verdade!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Accogliete la parola di Dio non come parola di uomini, ma qual è veramente, come parola di Dio."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Accueillez la parole de Dieu pour ce qu’elle est réellement : non pas une parole d’hommes, mais la parole de Dieu."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Nehmt das Wort Gottes an, nicht als Menschenwort, sondern - was es in Wahrheit ist - als Gottes Wort."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Cf. 1 Th 2, 13",
+              "es": "Cf. 1 Th 2, 13",
+              "pt-BR": "Cf. 1 Tes 2, 13",
+              "it": "(Cfr. 1Ts 2,13)",
+              "fr": "Cf. 1 Th 2, 13",
+              "de": "vgl. 1 Thess 2, 13"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Mc 1, 21b-28",
+              "es": "Mc 1, 21b-28",
+              "en-US": "Mk 1:21-28",
+              "pt-BR": "Mc 1, 21b-28",
+              "it": "Mc 1, 21b-28",
+              "fr": "Mc 1, 21b-28",
+              "de": "Mk 1, 21-28"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Marcum",
+              "es": "✠ Lectura del Santo Evangelio según san Marcos",
+              "en-US": "✠ A reading from the holy Gospel according to Mark",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+              "it": "✠ Dal vangelo secondo Marco",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Marc",
+              "de": "✠ Aus dem heiligen Evangelium nach Markus"
+            },
+            "summary": {
+              "la": "Erat docens eos quasi potestatem habens.",
+              "es": "Les enseñaba con autoridad",
+              "pt-BR": "Ensinava como quem tem autoridade.",
+              "it": "Gesù insegnava come uno che ha autorità."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "[In civitáte Caphárnaum,] sábbatis ingréssus Iesus synagógam docébat. Et stupébant super doctrína eius: erat enim docens eos quasi potestátem habens et non sicut scribæ. Et statim erat in synagóga eórum homo in spíritu immúndo; et exclamávit dicens: «Quid nobis et tibi, Iesu Nazaréne? Venísti pérdere nos? Scio qui sis: Sanctus Dei». Et comminátus est ei Iesus dicens: «Obmutésce et exi de hómine!». Et discérpens eum spíritus immúndus et exclámans voce magna exívit ab eo. Et miráti sunt omnes, ita ut conquírerent inter se dicéntes: «Quidnam est hoc? Doctrína nova cum potestáte; et spirítibus immúndis ímperat, et oboédiunt ei». Et procéssit rumor eius statim ubíque in omnem regiónem Galilǽæ."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En la ciudad de Cafarnaún, el sábado entró Jesús en la sinagoga a enseñar; estaban asombrados de su enseñanza, porque les enseñaba con autoridad y no como los escribas. Había precisamente en su sinagoga un hombre que tenía un espíritu inmundo y se puso a gritar: «¿Qué tenemos que ver nosotros contigo, Jesús Nazareno? ¿Has venido a acabar con nosotros? Sé quién eres: el Santo de Dios». Jesús lo increpó: «¡Cállate y sal de él!». El espíritu inmundo lo retorció violentamente y, dando un grito muy fuerte, salió de él. Todos se preguntaron estupefactos: «¿Qué es esto? Una enseñanza nueva expuesta con autoridad. Incluso manda a los espíritus inmundos y lo obedecen». Su fama se extendió enseguida por todas partes, alcanzando la comarca entera de Galilea."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In the city of Capernaum, on a Sabbath, Jesus went to the synagogue and began to teach. And his teaching made a deep impression on them because, unlike the scribes, he taught them with authority In their synagogue just then there was a man possessed by an unclean spirit and it shouted, 'What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are: the Holy One of God.' But Jesus said sharply, 'Be quiet! Come out of him!' And the unclean spirit threw the man into convulsions and with a loud cry went out of him. The people were so astonished that they started asking each other what it all meant. 'Here is a teaching that is new' they said 'and with authority behind it: he gives orders even to unclean spirits and they obey him.' And his reputation rapidly spread everywhere, through all the surrounding Galilean countryside."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Estando com seus discípulos em Cafarnaum, Jesus, num dia de sábado, entrou na sinagoga e começou a ensinar. Todos ficavam admirados com o seu ensinamento, pois ensinava como quem tem autoridade, não como os mestres da Lei. Estava então na sinagoga um homem possuído por um espírito mau. Ele gritou: \"Que queres de nós, Jesus Nazareno? Vieste para nos destruir? Eu sei quem tu és: tu és o Santo de Deus\". Jesus o intimou: \"Cala-te e sai dele!\" Então o espírito mau sacudiu o homem com violência, deu um grande grito e saiu. E todos ficaram muito espantados e perguntavam uns aos outros: \"O que é isto? Um ensinamento novo dado com autoridade: Ele manda até nos espíritos maus, e eles obedecem! E a fama de Jesus logo se espalhou por toda a parte, em toda a região da Galiléia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù, entrato di sabato nella sinagoga, [a Cafarnao,] insegnava. Ed erano stupiti del suo insegnamento: egli infatti insegnava loro come uno che ha autorità, e non come gli scribi. Ed ecco, nella loro sinagoga vi era un uomo posseduto da uno spirito impuro e cominciò a gridare, dicendo: «Che vuoi da noi, Gesù Nazareno? Sei venuto a rovinarci? Io so chi tu sei: il santo di Dio!». E Gesù gli ordinò severamente: «Taci! Esci da lui!». E lo spirito impuro, straziandolo e gridando forte, uscì da lui. Tutti furono presi da timore, tanto che si chiedevano a vicenda: «Che è mai questo? Un insegnamento nuovo, dato con autorità. Comanda persino agli spiriti impuri e gli obbediscono!». La sua fama si diffuse subito dovunque, in tutta la regione della Galilea."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jésus et ses disciples entrèrent à Capharnaüm. Aussitôt, le jour du sabbat, il se rendit à la synagogue, et là, il enseignait. On était frappé par son enseignement, car il enseignait en homme qui a autorité, et non pas comme les scribes. Or, il y avait dans leur synagogue un homme tourmenté par un esprit impur, qui se mit à crier : « Que nous veux-tu, Jésus de Nazareth ? Es-tu venu pour nous perdre ? Je sais qui tu es : tu es le Saint de Dieu. » Jésus l’interpella vivement : « Tais-toi ! Sors de cet homme. » L’esprit impur le fit entrer en convulsions, puis, poussant un grand cri, sortit de lui. Ils furent tous frappés de stupeur et se demandaient entre eux : « Qu’est-ce que cela veut dire ? Voilà un enseignement nouveau, donné avec autorité ! Il commande même aux esprits impurs, et ils lui obéissent. » Sa renommée se répandit aussitôt partout, dans toute la région de la Galilée."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In Kafárnaum ging Jesus am Sabbat in die Synagoge und lehrte. Und die Menschen waren sehr betroffen von seiner Lehre; denn er lehrte sie wie einer, der göttliche Vollmacht hat, nicht wie die Schriftgelehrten. In ihrer Synagoge saß ein Mann, der von einem unreinen Geist besessen war. Der begann zu schreien: Was haben wir mit dir zu tun, Jesus von Nazaret? Bist du gekommen, um uns ins Verderben zu stürzen? Ich weiß, wer du bist: der Heilige Gottes. Da befahl ihm Jesus: Schweig und verlass ihn! Der unreine Geist zerrte den Mann hin und her und verließ ihn mit lautem Geschrei. Da erschraken alle, und einer fragte den andern: Was hat das zu bedeuten? Hier wird mit Vollmacht eine ganz neue Lehre verkündet. Sogar die unreinen Geister gehorchen seinem Befehl. Und sein Ruf verbreitete sich rasch im ganzen Gebiet von Galiläa."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    },
+    "II": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "1 Sam 1, 9-20",
+              "es": "1 Sam 1, 9-20",
+              "en-US": "1 Sm 1:9-20",
+              "pt-BR": "1 Sm 1, 9-20",
+              "it": "1 Sam 1,9-20",
+              "fr": "1 S 1, 9-20",
+              "de": "1 Sam 1, 9-20"
+            },
+            "introduction": {
+              "la": "Léctio libri primi Samuélis",
+              "es": "Lectura del primer libro de Samuel",
+              "en-US": "A reading from the first Book of Samuel",
+              "pt-BR": "Leitura do Primeiro Livro de Samuel",
+              "it": "Dal primo libro di Samuele",
+              "fr": "Premier livre de Samuel",
+              "de": "Lesung aus dem ersten Buch Samuel"
+            },
+            "summary": {
+              "la": "Recordatus est Annæ Dóminus et peperit Samuelem",
+              "es": "El Señor se acordó de Ana, y dio a luz a Samuel",
+              "pt-BR": "O Senhor lembrou-Se de Ana e ela deu à luz um filho e chamou-o Samuel.",
+              "it": "Il Signore si ricordò di Anna ed ella partorì Samuele."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In diébus illis: Surréxit Anna, postquam coméderant et bíberant in Silo, et Heli sacerdóte sedénte super sellam ante postes templi Dómini. Cum esset Anna amáro ánimo, orávit Dóminum flens lárgiter et votum vovit dicens: «Dómine exercítuum, si respíciens víderis afflictiónem fámulæ tuæ et recordátus mei fúeris nec oblítus ancíllæ tuæ dederísque servæ tuæ sexum virílem, dabo eum Dómino omnes dies vitæ eius, et novácula non ascéndet super caput eius». Factum est ergo, cum illa multiplicáret preces coram Dómino, ut Heli observáret os eius. Porro Anna loquebátur in corde suo; tantúmque lábia illíus movebántur, et vox pénitus non audiebátur. Æstimávit ígitur eam Heli temuléntam dixítque ei: «Usquequo ébria eris? Dígere paulísper vinum, quo mades!». Respóndens Anna: «Nequáquam, inquit, dómine mi; nam múlier infélix nimis ego sum: vinúmque et omne, quod inebriáre potest, non bibi, sed effúdi ánimam meam in conspéctu Dómini. Ne réputes ancíllam tuam quasi unam de filiábus Bélial, quia ex multitúdine dolóris et mæróris mei locúta sum usque in præsens». Tunc Heli ait ei: «Vade in pace, et Deus Israel det tibi petitiónem, quam rogásti eum». Et illa dixit: «Utinam invéniat ancílla tua grátiam in óculis tuis». Et ábiit múlier in viam suam et comédit; vultúsque illíus non fuérunt ámplius sicut prius. Et surrexérunt mane et adoravérunt coram Dómino. Reversíque sunt et venérunt in domum suam in Rama. Cognóvit autem Elcana Annam uxórem suam, et recordátus est eius Dóminus. Et factum est post círculum diérum concépit Anna et péperit fílium vocavítque nomen eius Sámuel, eo quod a Dómino postulásset eum."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquellos días, se levantó Ana, después de comer y beber en Siló. El sacerdote Elí estaba sentado en el sitial junto a una de las jambas del templo del Señor. Ella se puso a implorar al Señor con el ánimo amargado, y lloró copiosamente. E hizo este voto: «Señor del universo, si miras la aflicción de tu sierva y te acuerdas de mí y no olvidas a tu sierva, y concedes a tu sierva un retoño varón, lo ofreceré al Señor por todos los días de su vida, y la navaja no pasará por su cabeza». Mientras insistía implorando ante el Señor, Elí observaba su boca. Ana hablaba para sí en su corazón; solo sus labios se movían, mas su voz no se oía. Elí la creyó borracha. Entonces le dijo: «¿Hasta cuándo vas a seguir borracha? Echa el vino que llevas dentro». Pero Ana tomó la palabra y respondió: «No, mi señor, yo soy una mujer de espíritu tenaz. No he bebido vino ni licor, solo desahogaba mi alma ante el Señor. No trates a tu sierva como a una perdida, pues he hablado así por mi gran congoja y aflicción». Elí le dijo: «Vete en paz y que el Dios de Israel te conceda el favor que le has pedido». Ella respondió: «Que tu sierva encuentre gracia a tus ojos». Luego, la mujer emprendió su camino; comió y su semblante no fue ya el mismo. Se levantaron de madrugada y se postraron ante el Señor. Después se volvieron y llegaron a su casa de Ramá. Elcaná se unió a Ana, su mujer, y el Señor se acordó de ella. Al cabo de los días Ana concibió y dio a luz un hijo, al que puso por nombre Samuel, diciendo: «Se lo pedí al Señor»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "After they had eaten in the hall, Hannah rose and took her stand before the Lord, while Eli the priest was sitting on his seat by the doorpost of the temple of the Lord. In the bitterness of her soul she prayed to the Lord with many tears and made a vow, saying, ‘Lord of hosts! If you will take notice of the distress of your servant, and bear me in mind and not forget your servant and give her a manchild, I will give him to the Lord for the whole of his life and no razor shall ever touch his head'. While she prayed before the Lord which she did for some time, Eli was watching her mouth, for she was speaking under her breath; her lips were moving but her voice could not be heard. He therefore supposed that she was drunk and said to her, 'How long are you going to be in this drunken state? Rid yourself of your wine.' 'No, my lord,' Hannah replied 'I am a woman in great trouble; I have taken neither wine nor strong drink - I was pouring out my soul before the Lord. Do not take your maidservant for a worthless woman; all this time I have been speaking from the depth of my grief and my resentment.' Then Eli answered her: 'Go in peace,' he said 'and may the God of Israel grant what you have asked of him'. And she said, 'May your maidservant find favour in your sight'; and with that the woman went away; she returned to the hall and ate and was dejected no longer. They rose early in the morning and worshipped before the Lord and then set out and returned to their home in Ramah. Elkanah had intercourse with Hannah his wife and the Lord was mindful of her. She conceived and gave birth to a son, and called him Samuel 'since' she said 'I asked the Lord for him.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naqueles dias, Ana levantou-se, depois de ter comido e bebido em Silo. Ora, o sacerdote Eli estava sentado em sua cadeira à porta do templo do Senhor. Ana, com o coração cheio de amargura, orou ao Senhor, derramando copiosas lágrimas. E fez a seguinte promessa, dizendo: \"Senhor Todo-poderoso, se olhares para a aflição de tua serva e te lembrares de mim, se não te esqueceres da tua escrava e lhe deres um filho homem, eu o oferecerei a ti por todos os dias de sua vida, e não passará navalha sobre a sua cabeça\". Como ela se demorasse nas preces diante do Senhor, Eli observava o movimento de seus lábios. Ana, porém, apenas murmurava; os seus lábios se moviam, mas não se podia ouvir palavra alguma. Eli julgou que ela estivesse embriagada, por isso lhe disse: \"Até quando estarás bêbada? Vai curar essa bebedeira!\" Ana, porém, respondeu: \"Não é isso, meu senhor! Sou apenas uma mulher muito infeliz; não bebi vinho, nem outra coisa que possa embebedar, mas desafoguei a minha alma na presença do Senhor. Não julgues a tua serva como uma mulher perdida, pois foi pelo excesso da minha dor e da minha aflição que falei até agora\". Eli então lhe disse: \"Vai em paz, e que o Deus de Israel te conceda o que lhe pediste\". Ela respondeu: \"Que tua serva encontre graça diante dos teus olhos\". E a mulher foi embora, comeu e o seu semblante não era mais o mesmo. Na manhã seguinte, ela e seu marido levantaram-se muito cedo e, depois de terem adorado o Senhor, voltaram para sua casa em Ramá. Elcana uniu-se a Ana, sua mulher, e o Senhor lembrou-se dela. Ana concebeu e, no devido tempo, deu à luz um filho e chamou-o Samuel, porque - disse ela - \"eu o pedi ao Senhor\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quei giorni Anna si alzò, dopo aver mangiato e bevuto a Silo; in quel momento il sacerdote Eli stava seduto sul suo seggio davanti a uno stipite del tempio del Signore. Ella aveva l’animo amareggiato e si mise a pregare il Signore, piangendo dirottamente. Poi fece questo voto: «Signore degli eserciti, se vorrai considerare la miseria della tua schiava e ricordarti di me, se non dimenticherai la tua schiava e darai alla tua schiava un figlio maschio, io lo offrirò al Signore per tutti i giorni della sua vita e il rasoio non passerà sul suo capo». Mentre ella prolungava la preghiera davanti al Signore, Eli stava osservando la sua bocca. Anna pregava in cuor suo e si muovevano soltanto le labbra, ma la voce non si udiva; perciò Eli la ritenne ubriaca. Le disse Eli: «Fino a quando rimarrai ubriaca? Smaltisci il tuo vino!». Anna rispose: «No, mio signore; io sono una donna affranta e non ho bevuto né vino né altra bevanda inebriante, ma sto solo sfogando il mio cuore davanti al Signore. Non considerare la tua schiava una donna perversa, poiché finora mi ha fatto parlare l’eccesso del mio dolore e della mia angoscia». Allora Eli le rispose: «Va' in pace e il Dio d’Israele ti conceda quello che gli hai chiesto». Ella replicò: «Possa la tua serva trovare grazia ai tuoi occhi». Poi la donna se ne andò per la sua via, mangiò e il suo volto non fu più come prima. Il mattino dopo si alzarono e dopo essersi prostrati davanti al Signore, tornarono a casa a Rama. Elkanà si unì a sua moglie e il Signore si ricordò di lei. Così al finir dell’anno Anna concepì e partorì un figlio e lo chiamò Samuele, «perché - diceva - al Signore l’ho richiesto»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In diébus illis : En ces jours-là, Anne se leva, après qu’ils eurent mangé et bu à Silo. Le prêtre Éli était assis sur son siège, à l’entrée du sanctuaire du Seigneur. Anne, pleine d’amertume, se mit à prier le Seigneur et pleura abondamment. Elle fit un vœu en disant : « Seigneur de l’univers ! Si tu veux bien regarder l’humiliation de ta servante, te souvenir de moi, ne pas m’oublier, et me donner un fils, je le donnerai au Seigneur pour toute sa vie, et le rasoir ne passera pas sur sa tête. » Tandis qu’elle prolongeait sa prière devant le Seigneur, Éli observait sa bouche. Anne parlait dans son cœur : seules ses lèvres remuaient, et l’on n’entendait pas sa voix. Éli pensa qu’elle était ivre et lui dit : « Combien de temps vas-tu rester ivre ? Cuve donc ton vin ! » Anne répondit : « Non, mon seigneur, je ne suis qu’une femme affligée, je n’ai bu ni vin ni boisson forte ; j’épanche mon âme devant le Seigneur. Ne prends pas ta servante pour une vaurienne : c’est l’excès de mon chagrin et de mon dépit qui m’a fait prier aussi longtemps. » Éli lui répondit : « Va en paix, et que le Dieu d’Israël t’accorde ce que tu lui as demandé. » Anne dit alors : « Que ta servante trouve grâce devant toi ! » Elle s’en alla, elle se mit à manger, et son visage n’était plus le même. Le lendemain, Elcana et les siens se levèrent de bon matin. Après s’être prosternés devant le Seigneur, ils s’en retournèrent chez eux, à Rama. Elcana s’unit à Anne sa femme, et le Seigneur se souvint d’elle. Anne conçut et, le temps venu, elle enfanta un fils ; elle lui donna le nom de Samuel (c’est-à-dire : Dieu exauce) car, disait-elle, « Je l’ai demandé au Seigneur. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jenen Tagen, nachdem man in Schilo gegessen und getrunken hatte, stand Hanna auf und trat vor den Herrn. Der Priester Eli saß an den Türpfosten des Tempels des Herrn auf seinem Stuhl. Hanna war verzweifelt, betete zum Herrn und weinte sehr. Sie machte ein Gelübde und sagte: Herr der Heere, wenn du das Elend deiner Magd wirklich ansiehst, wenn du an mich denkst und deine Magd nicht vergisst und deiner Magd einen männlichen Nachkommen schenkst, dann will ich ihn für sein ganzes Leben dem Herrn überlassen; kein Schermesser soll an sein Haupt kommen. So betete sie lange vor dem Herrn. Eli beobachtete ihren Mund; denn Hanna redete nur still vor sich hin, ihre Lippen bewegten sich, doch ihre Stimme war nicht zu hören. Eli hielt sie deshalb für betrunken und sagte zu ihr: Wie lange willst du dich noch wie eine Betrunkene aufführen? Sieh zu, dass du deinen Weinrausch los wirst! Hanna gab zur Antwort: Nein, Herr! Ich bin eine unglückliche Frau. Ich habe weder Wein getrunken noch Bier; ich habe nur dem Herrn mein Herz ausgeschüttet. Halte deine Magd nicht für eine nichtsnutzige Frau; denn nur aus großem Kummer und aus Traurigkeit habe ich so lange geredet. Eli erwiderte und sagte: Geh in Frieden! Der Gott Israels wird dir die Bitte erfüllen, die du an ihn gerichtet hast. Sie sagte: Möge deine Magd Gnade finden vor deinen Augen. Dann ging sie weg; sie aß wieder und hatte kein trauriges Gesicht mehr. Am nächsten Morgen standen sie früh auf und beteten den Herrn an. Dann machten sie sich auf den Heimweg und kehrten in ihr Haus nach Rama zurück. Elkána erkannte seine Frau Hanna; der Herr dachte an sie, und Hanna wurde schwanger. Als die Zeit abgelaufen war, gebar sie einen Sohn und nannte ihn Samuel – „Gott erhört“ -, denn sie sagte: Ich habe ihn vom Herrn erbeten."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Exsultávit cor meum in Dómino Salvatóre meo."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Mi corazón se regocija en el Señor, mi Salvador."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "My heart rejoices in the Lord, my Savior."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Meu coração se alegrou em Deus, meu Salvador."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Il mio cuore esulta nel Signore, mio salvatore."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Mon cœur exulte à cause du Seigneur : il donne le salut."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Mein Herz ist voll Freude über den Herrn, meinen Retter."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exsultávit cor meum in Dómino,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "exaltátum est cornu meum in Deo meo;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dilatátum est os meum super inimícos meos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quóniam lætáta sum in salutári tuo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Arcus fórtium confráctus est,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et infírmi accíncti sunt róbore."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Saturáti prius pro pane se locavérunt,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et famélici non eguérunt ámplius."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Stérilis péperit plúrimos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et, quæ multos habébat fílios, emárcuit."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dóminus mortíficat et vivíficat,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dedúcit ad inférnum et redúcit."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dóminus páuperem facit et ditat,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "humíliat et súblevat."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Súscitat de púlvere egénum et de stércore élevat páuperem,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ut sédeat cum princípibus et sólium glóriæ téneat."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mi corazón se regocija en el Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mi poder se exalta por Dios."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mi boca se ríe de mis enemigos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque gozo con tu salvación."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Se rompen los arcos de los valientes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mientras los cobardes se ciñen de valor."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Los hartos se contratan por el pan,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mientras los hambrientos engordan;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la mujer estéril da a luz siete hijos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mientras la madre de muchos queda baldía."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor da la muerte y la vida,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hunde en el abismo y levanta;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "da la pobreza y la riqueza,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "humilla y enaltece."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Él levanta del polvo al desvalido,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "alza de la basura al pobre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "para hacer que se siente entre príncipes y que herede un trono de gloria."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "My heart exults in the Lord,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "I find my strength in my God;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "my mouth laughs at my enemies as I rejoice in your saving help."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The bows of the mighty are broken,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "but the weak are clothed with strength."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Those with plenty must labor for bread,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "but the hungry need work no more."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "The childless wife has children now but the fruitful wife bears no more."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "It is the Lord who gives life and death,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "he brings men to the grave and back;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "it is the Lord who gives poverty and riches."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "He brings men low and raises them on high."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "He lifts up the lowly from the dust,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "from the dungheap he raises the poor to set him in the company of princes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "to give him a glorious throne."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "For the pillars of the earth are the Lord's,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "on them he has set the world."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exulta no Senhor meu coração,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e se eleva aminha fronte no meu Deus."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Minha boca desafia meus rivais,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque me alegro com a vossa salvação."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O arco dos fortes foi dobrado, foi quebrado,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mas os fracos se vestiram de vigor."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Os saciados se empregam por um pão,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mas os pobres e os famintos se fartaram."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Muitas vezes deu à luz a que era esteril, mas a mãe de muto filhos definhou."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "É o Senhor quem dá a morte e dá a vida,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "faz descer à sepultura e faz voltar;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "é o Senhor quem faz o pobre e faz o rico,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "é Senhor quem nos humilha e nos exalta."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O senho ergue do pó o homem fraco,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e do lixo ele retira o indigente,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "para fazê-los assentar-se com os nobres."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "num lugar de muita honra e distinção."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il mio cuore esulta nel Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la mia forza s’innalza grazie al mio Dio."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Si apre la mia bocca contro i miei nemici,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "perché io gioisco per la tua salvezza."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’arco dei forti s’è spezzato,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ma i deboli si sono rivestiti di vigore."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "I sazi si sono venduti per un pane,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hanno smesso di farlo gli affamati."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "La sterile ha partorito sette volte e la ricca di figli è sfiorita."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore fa morire e fa vivere,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "scendere agli inferi e risalire."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore rende povero e arricchisce,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "abbassa ed esalta."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Solleva dalla polvere il debole,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dall’immondizia rialza il povero,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "per farli sedere con i nobili e assegnare loro un trono di gloria."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mon cœur exulte à cause du Seigneur ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mon front s’est relevé grâce à mon Dieu !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Face à mes ennemis, s’ouvre ma bouche :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "oui, je me réjouis de ton salut !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’arc des forts est brisé,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mais le faible se revêt de vigueur."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Les plus comblés s’embauchent pour du pain,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et les affamés se reposent."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur fait mourir et vivre ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il fait descendre à l’abîme et en ramène."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur rend pauvre et riche ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il abaisse et il élève."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "De la poussière il relève le faible,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il retire le malheureux de la cendre pour qu’il siège parmi les princes et reçoive un trône de gloire."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mein Herz ist voll Freude über den Herrn,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "große Kraft gibt mir der Herr."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Weit öffnet sich mein Mund gegen meine Feinde;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "denn ich freue mich über deine Hilfe."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Bogen der Helden wird zerbrochen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die Wankenden aber gürten sich mit Kraft."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Die Satten verdingen sich um Brot,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "doch die Hungrigen können feiern für immer."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr macht tot und lebendig,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er führt zum Totenreich hinab und führt auch herauf."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr macht arm und macht reich,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er erniedrigt, und er erhöht."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Den Schwachen hebt er empor aus dem Staub und erhöht den Armen, der im Schmutz liegt;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er gibt ihm einen Sitz bei den Edlen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "einen Ehrenplatz weist er ihm zu."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Accípite verbum Dei, non ut verbum hóminum, sed, sicut est vere, verbum Dei."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Acoged la palabra de Dios, no como palabra humana, sino, cual es en verdad, como palabra de Dios."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Receive this message not as words of man, but as truly the word of God."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Acolhei a palavra de Deus, não como palavra humana, mas como mensagem de Deus; o que ele é, em verdade!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Accogliete la parola di Dio non come parola di uomini, ma qual è veramente, come parola di Dio."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Accueillez la parole de Dieu pour ce qu’elle est réellement : non pas une parole d’hommes, mais la parole de Dieu."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Nehmt das Wort Gottes an, nicht als Menschenwort, sondern - was es in Wahrheit ist - als Gottes Wort."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Cf. 1 Th 2, 13",
+              "es": "Cf. 1 Th 2, 13",
+              "pt-BR": "Cf. 1 Tes 2, 13",
+              "it": "(Cfr. 1Ts 2,13)",
+              "fr": "Cf. 1 Th 2, 13",
+              "de": "vgl. 1 Thess 2, 13"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Mc 1, 21b-28",
+              "es": "Mc 1, 21b-28",
+              "en-US": "Mk 1:21-28",
+              "pt-BR": "Mc 1, 21b-28",
+              "it": "Mc 1, 21b-28",
+              "fr": "Mc 1, 21b-28",
+              "de": "Mk 1, 21-28"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Marcum",
+              "es": "✠ Lectura del Santo Evangelio según san Marcos",
+              "en-US": "✠ A reading from the holy Gospel according to Mark",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+              "it": "✠ Dal vangelo secondo Marco",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Marc",
+              "de": "✠ Aus dem heiligen Evangelium nach Markus"
+            },
+            "summary": {
+              "la": "Erat docens eos quasi potestatem habens.",
+              "es": "Les enseñaba con autoridad",
+              "pt-BR": "Ensinava como quem tem autoridade.",
+              "it": "Gesù insegnava come uno che ha autorità."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "[In civitáte Caphárnaum,] sábbatis ingréssus Iesus synagógam docébat. Et stupébant super doctrína eius: erat enim docens eos quasi potestátem habens et non sicut scribæ. Et statim erat in synagóga eórum homo in spíritu immúndo; et exclamávit dicens: «Quid nobis et tibi, Iesu Nazaréne? Venísti pérdere nos? Scio qui sis: Sanctus Dei». Et comminátus est ei Iesus dicens: «Obmutésce et exi de hómine!». Et discérpens eum spíritus immúndus et exclámans voce magna exívit ab eo. Et miráti sunt omnes, ita ut conquírerent inter se dicéntes: «Quidnam est hoc? Doctrína nova cum potestáte; et spirítibus immúndis ímperat, et oboédiunt ei». Et procéssit rumor eius statim ubíque in omnem regiónem Galilǽæ."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En la ciudad de Cafarnaún, el sábado entró Jesús en la sinagoga a enseñar; estaban asombrados de su enseñanza, porque les enseñaba con autoridad y no como los escribas. Había precisamente en su sinagoga un hombre que tenía un espíritu inmundo y se puso a gritar: «¿Qué tenemos que ver nosotros contigo, Jesús Nazareno? ¿Has venido a acabar con nosotros? Sé quién eres: el Santo de Dios». Jesús lo increpó: «¡Cállate y sal de él!». El espíritu inmundo lo retorció violentamente y, dando un grito muy fuerte, salió de él. Todos se preguntaron estupefactos: «¿Qué es esto? Una enseñanza nueva expuesta con autoridad. Incluso manda a los espíritus inmundos y lo obedecen». Su fama se extendió enseguida por todas partes, alcanzando la comarca entera de Galilea."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In the city of Capernaum, on a Sabbath, Jesus went to the synagogue and began to teach. And his teaching made a deep impression on them because, unlike the scribes, he taught them with authority In their synagogue just then there was a man possessed by an unclean spirit and it shouted, 'What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are: the Holy One of God.' But Jesus said sharply, 'Be quiet! Come out of him!' And the unclean spirit threw the man into convulsions and with a loud cry went out of him. The people were so astonished that they started asking each other what it all meant. 'Here is a teaching that is new' they said 'and with authority behind it: he gives orders even to unclean spirits and they obey him.' And his reputation rapidly spread everywhere, through all the surrounding Galilean countryside."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Estando com seus discípulos em Cafarnaum, Jesus, num dia de sábado, entrou na sinagoga e começou a ensinar. Todos ficavam admirados com o seu ensinamento, pois ensinava como quem tem autoridade, não como os mestres da Lei. Estava então na sinagoga um homem possuído por um espírito mau. Ele gritou: \"Que queres de nós, Jesus Nazareno? Vieste para nos destruir? Eu sei quem tu és: tu és o Santo de Deus\". Jesus o intimou: \"Cala-te e sai dele!\" Então o espírito mau sacudiu o homem com violência, deu um grande grito e saiu. E todos ficaram muito espantados e perguntavam uns aos outros: \"O que é isto? Um ensinamento novo dado com autoridade: Ele manda até nos espíritos maus, e eles obedecem! E a fama de Jesus logo se espalhou por toda a parte, em toda a região da Galiléia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù, entrato di sabato nella sinagoga, [a Cafarnao,] insegnava. Ed erano stupiti del suo insegnamento: egli infatti insegnava loro come uno che ha autorità, e non come gli scribi. Ed ecco, nella loro sinagoga vi era un uomo posseduto da uno spirito impuro e cominciò a gridare, dicendo: «Che vuoi da noi, Gesù Nazareno? Sei venuto a rovinarci? Io so chi tu sei: il santo di Dio!». E Gesù gli ordinò severamente: «Taci! Esci da lui!». E lo spirito impuro, straziandolo e gridando forte, uscì da lui. Tutti furono presi da timore, tanto che si chiedevano a vicenda: «Che è mai questo? Un insegnamento nuovo, dato con autorità. Comanda persino agli spiriti impuri e gli obbediscono!». La sua fama si diffuse subito dovunque, in tutta la regione della Galilea."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jésus et ses disciples entrèrent à Capharnaüm. Aussitôt, le jour du sabbat, il se rendit à la synagogue, et là, il enseignait. On était frappé par son enseignement, car il enseignait en homme qui a autorité, et non pas comme les scribes. Or, il y avait dans leur synagogue un homme tourmenté par un esprit impur, qui se mit à crier : « Que nous veux-tu, Jésus de Nazareth ? Es-tu venu pour nous perdre ? Je sais qui tu es : tu es le Saint de Dieu. » Jésus l’interpella vivement : « Tais-toi ! Sors de cet homme. » L’esprit impur le fit entrer en convulsions, puis, poussant un grand cri, sortit de lui. Ils furent tous frappés de stupeur et se demandaient entre eux : « Qu’est-ce que cela veut dire ? Voilà un enseignement nouveau, donné avec autorité ! Il commande même aux esprits impurs, et ils lui obéissent. » Sa renommée se répandit aussitôt partout, dans toute la région de la Galilée."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In Kafárnaum ging Jesus am Sabbat in die Synagoge und lehrte. Und die Menschen waren sehr betroffen von seiner Lehre; denn er lehrte sie wie einer, der göttliche Vollmacht hat, nicht wie die Schriftgelehrten. In ihrer Synagoge saß ein Mann, der von einem unreinen Geist besessen war. Der begann zu schreien: Was haben wir mit dir zu tun, Jesus von Nazaret? Bist du gekommen, um uns ins Verderben zu stürzen? Ich weiß, wer du bist: der Heilige Gottes. Da befahl ihm Jesus: Schweig und verlass ihn! Der unreine Geist zerrte den Mann hin und her und verließ ihn mit lautem Geschrei. Da erschraken alle, und einer fragte den andern: Was hat das zu bedeuten? Hier wird mit Vollmacht eine ganz neue Lehre verkündet. Sogar die unreinen Geister gehorchen seinem Befehl. Und sein Ruf verbreitete sich rasch im ganzen Gebiet von Galiläa."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

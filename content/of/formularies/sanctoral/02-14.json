@@ -1,0 +1,1444 @@
+{
+  "id": "sanctorale.02-14",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Ss. Cyrilli, monachi, et Methodii, episcopi",
+    "es": "San Cirilo, monje, y san Metodio, obispo",
+    "en-US": "Ss Cyril, monk, and Methodius, bishop",
+    "pt-BR": "Santos Cirilo, monge, e Metódio, bispo",
+    "it": "SANTI CIRILLO, monaco, E METODIO, vescovo patroni d’Europa",
+    "fr": "Saints Cyrille, moine, et Méthode, évêque",
+    "de": "Hl. CYRILL, Mönch, und Hl. METHODIUS, Bischof, Schutzpatrone Europas"
+  },
+  "description": {
+    "la": "Thessalonicæ natus, Cyrillus optime eruditus est Constantinopoli. Cum fratre Methodio in Moraviam se contulit ad fidem prædicandam. Textus liturgicos ambo paraverunt lingua slavica, typis «cyrillicis» postea sic dictis conscriptos. Romam cum essent vocati, ibi Cyrillus mortuus est die 14 februarii anno 869, Methodius vero episcopus creatus, qui deinde in Pannoniam se contulit, quam indefesse evangelizavit. Multa perpessus est ab invidis, sed a Pontificibus Romanis adiutus est. Mortem obiit die 6 aprilis anno 885 Velahradii in Cecoslovachia.",
+    "es": "Cirilo, nacido en Tesalónica, hizo brillantes estudios en Constantinopla. En unión de su hermano Metodio se dirigió a Moravia a predicar la fe. Entre los dos publicaron los textos litúrgicos en lengua eslava escritos en caracteres «cirílicos», como después se designaron. Llamados a Roma, Cirilo murió allí el 14 de febrero del año 869. Metodio, consagrado obispo, marchó a Panonia, donde desarrolló una infatigable labor de evangelización. Tuvo que sufrir mucho a causa de los envidiosos, pero contó siempre con el apoyo de los papas. Murió el 6 de abril del año 885 en la ciudad checa de Vellehrad.",
+    "pt-BR": "Cirilo e Metódio, irmãos de sangue e na fé, nascidos em Tessalônica (atual Salonica, Grécia) no início do séc. IX, evangelizaram os povos da Panônia e da Morávia. Criaram o alfabeto eslavo e traduziram para essa língua a Sagrada Escritura e os textos da liturgia latina, para abrir aos novos povos os tesouros da Palavra de Deus e dos Sacramentos. Por essa missão apostólica, suportaram provações e sofrimentos de toda sorte. O Papa Adriano 11 aprovou sua obra, confirmando a língua eslava para a liturgia. Cirilo faleceu em Roma aos 14 de fevereiro de 869. Metódio, ordenado bispo de Sírtnio (Sérvia) e nomeado delegado do papa junto aos eslavos, faleceu em Veleharad (República Tcheca) aos 6 de abril de 885. Pela carta apostólica \"Egregiae Virtutis\", de 31 de dezembro de 1980, São João Paulo II proclamou-os, juntamente com São Bento, abade, padroeiros da Europa.",
+    "it": "I fratelli Cirillo (Costantino) e Metodio (Michele), nati a Tessalonica (attuale Salonicco, Grecia) all’inizio del secolo IX, evangelizzarono i popoli della Pannonia e della Moravia. Inventando l’alfabeto glagolitico per scrivere in lingua slava, tradussero la Sacra Scrittura e i testi della liturgia per i nuovi popoli ai quali erano stati inviati. Nonostante le opposizioni sollevate da alcuni vescovi di area germanica, la loro missione venne approvata da papa Adriano II. Cirillo morì a Roma il 14 febbraio 869. Metodio, eletto arcivescovo di Sirmio (attuale Sremska Mitrovica, Serbia) e legato papale presso gli Slavi, morì in Moravia (nell’attuale Repubblica Ceca) il 6 aprile 885. L’annuncio del Vangelo a nuovi popoli nel rispetto della loro cultura, attuato da questi santi, «rimane un modello vivo per la Chiesa e per i missionari di tutti i tempi» (Giovanni Paolo II, Slavorum apostoli, 7).",
+    "fr": "Les deux frères Constantin et Méthode furent envoyés en Moravie par le patriarche de Constantinople pour y annoncer le Christ. En 868, ils allèrent à Rome faire le point de leurs travaux avec le pape. Constantin y mourut sous le nom monastique de Cyrille (869). Quant à Méthode, ordonné archevêque de Sirmium, il repartit évangéliser les Slaves († 885). Ils ont été déclarés patrons de l’Europe, avec S. Benoît, par le pape Jean-Paul II le 31 décembre 1980.",
+    "de": "Cyrill, geboren in Thessaloniki, absolvierte mit großem Erfolg seine Studien in Konstantinopel. Gemeinsam mit seinem Bruder Methodius reiste er nach Moravia um dort den christlichen Glauben zu predigen. Die beiden veröffentlichten die für die Liturgie bestimmten Texte in slawischer Sprache und gelten als die Erfinder der glagolitischen Schrift, welche sich zu dem heute bekannten Kyrillisch entwickelte. Nach ihrer Ankunft in Roma, starb Cyrill am 14. Februar 869. Methodius wurde zum Bischof geweiht und reiste nach Pannonia, wo er durch seine unermüdliche Arbeit zur Evangelisierung beitrug. Er hatte viel unter der Missgunst einiger Neider zu leiden, konnte aber jederzeit mit der Unterstützung des Papstes rechnen. Er starb am 6. April 885 in der tschechischen Stadt Velehrad."
+  },
+  "color": "white",
+  "rank": "feast",
+  "cycleScheme": "fixed",
+  "includeGloria": true,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Isti sunt viri sancti facti amíci Dei, divínæ veritátis præcónio gloriósi."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Estos son los varones santos, amigos de Dios, insignes en la predicación de la verdad divina."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "These are holy men who became friends of God, glorious heralds of divine truth."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Estes são homens santos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que se tornaram amigos de Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "gloriosos arautos da verdade divina."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Questi sono uomini santi, amici di Dio, gloriosi araldi della verità divina."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Fêtons les amis de Dieu, saint Cyrille et saint Méthode :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la gloire des deux frères fut de proclamer la vérité reçue du Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Diese Männer sind Freunde Gottes geworden, Künder der göttlichen Wahrheit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui per beátos fratres Cyríllum et Methódium Slavóniæ gentes illuminásti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "da córdibus nostris tuæ doctrínæ verba percípere,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nosque pérfice pópulum in vera fide et recta confessióne concórdem."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que iluminaste a los pueblos eslavos por medio de los santos hermanos Cirilo y Metodio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos acoger en nuestros corazones las palabras de tu enseñanza,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y haz de nosotros un pueblo concorde en la fe verdadera y en su recta confesión."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who enlightened the Slavic peoples through the brothers Saints Cyril and Methodius,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that our hearts may grasp the words of your teaching, and perfect us as a people of one accord in true faith and right confession."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, pelos Santos irmãos Cirilo e Metódio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedestes a luz da verdade aos povos eslavos;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dai-nos acolher em nossos corações as palavras da vossa doutrina,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e fazei de nós um povo unido na verdadeira fé e no fiel testemunho do Evangelho."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che per mezzo dei santi fratelli Cirillo e Metodio hai dato ai popoli slavi la luce del Vangelo, concedi ai nostri cuori di accogliere il tuo insegnamento e fa' di noi un popolo concorde nella vera fede e coerente nella testimonianza. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as conduit les peuples slaves à la lumière,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grâce aux frères saints Cyrille et Méthode ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ouvre nos cœurs à l’intelligence de ta Parole :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais de nous un peuple uni dans la vraie foi et dans un témoignage authentique."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Heil aller Menschen, du hast durch die Brüder Cyrill und Methodius den slawischen Völkern das Licht deiner Wahrheit geschenkt. Gib, dass wir deine Lehre mit bereitem Herzen aufnehmen und zu einem Volk werden, das im wahren Glauben und im rechten Bekenntnis geeint ist. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Act 13, 46-49",
+              "es": "Hch 13, 46-49",
+              "en-US": "Acts 13:46-49",
+              "pt-BR": "At 13, 46-49",
+              "it": "At 13, 46-49",
+              "fr": "Ac 13, 46-49",
+              "de": "Apg 13, 46-49"
+            },
+            "introduction": {
+              "la": "Léctio Actuum Apostolórum",
+              "es": "Lectura del libro de los Hechos de los apóstoles",
+              "en-US": "A reading from the Acts of the Apostles",
+              "pt-BR": "Leitura dos Atos dos Apóstolos",
+              "it": "Dagli Atti degli Apostoli",
+              "fr": "Livre des Actes des Apôtres",
+              "de": "Lesung aus der Apostelgeschichte"
+            },
+            "summary": {
+              "la": "Ecce convertimur ad gentes.",
+              "es": "Sabed que nos dedicamos a los gentiles",
+              "pt-BR": "Vamos dirigir-nos aos pagãos",
+              "it": "Noi ci rivolgiamo ai pagani."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In diébus illis: Paulus et Bárnabas dixérunt Iudæis: «Vobis oportébat primum loqui verbum Dei; sed quóniam repéllitis illud et indígnos vos iudicátis ætérnæ vitæ, ecce convértimur ad gentes. Sic enim præcépit nobis Dóminus: “Pósui te in lumen géntium, ut sis in salútem usque ad extrémum terræ”». Audiéntes autem gentes gaudébant et glorificábant verbum Dómini, et credidérunt, quotquot erant præordináti ad vitam ætérnam; ferebátur autem verbum Dómini per univérsam regiónem."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquellos días, Pablo y Bernabé dijeron a los judíos: «Teníamos que anunciaros primero a vosotros la palabra de Dios; pero como la rechazáis y no os consideráis dignos de la vida eterna, sabed que nos dedicamos a los gentiles. Así nos lo ha mandado el Señor: “Yo te he puesto como luz de los gentiles, para que lleves la salvación hasta el confín de la tierra”». Cuando los gentiles oyeron esto, se alegraron y alababan la palabra del Señor; y creyeron los que estaban destinados a la vida eterna. La palabra del Señor se iba difundiendo por toda la región."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Paul and Barnabas spoke out boldly to the Jews, 'We had to proclaim the word of God to you first, but since you have rejected it, since you do not think yourselves worthy of eternal life, we must turn to the pagans. For this is what the Lord commanded us to do when he said: I have made you a light for the nations, so that my salvation may reach the ends of the earth.' It made the pagans very happy to hear this and they thanked the Lord for his message; all who were destined for eternal life became believers. Thus the word of the Lord spread through the whole countryside."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naqueles dias, Paulo e Barnabé declararam: \"Era preciso anunciar a palavra de Deus primeiro a vós. Mas, como a rejeitais e vos considerais indignos da vida eterna, sabei que nos vamos dirigir aos pagãos. 'Porque esta é a ordem que o Senhor nos deu: Eu te coloquei como luz para as nações, para que leves a salvação até os confins da terra'\". Os pagãos ficaram muito contentes, quando ouviram isso, e glorificavam a palavra do Senhor. Todos os que eram destinados à vida eterna, abraçaram a fé. Desse modo, a palavra do Senhor espalhava-se por toda a região."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quei giorni, [ad Antiochia di Pisìdia] Paolo e Barnaba con franchezza dichiararono [ai Giudei]: «Era necessario che fosse proclamata prima di tutto a voi la parola di Dio, ma poiché la respingete e non vi giudicate degni della vita eterna, ecco: noi ci rivolgiamo ai pagani. Così infatti ci ha ordinato il Signore: \"Io ti ho posto per essere luce delle genti, perché tu porti la salvezza sino all’estremità della terra\"». Nell’udire ciò, i pagani si rallegravano e glorificavano la parola del Signore, e tutti quelli che erano destinati alla vita eterna credettero. La parola del Signore si diffondeva per tutta la regione."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ces jours-là, à Antioche de Pisidie, Paul et Barnabé déclarèrent aux Juifs avec assurance : « C’est à vous d’abord qu’il était nécessaire d’adresser la parole de Dieu. Puisque vous la rejetez et que vous-mêmes ne vous jugez pas dignes de la vie éternelle, eh bien ! nous tournons vers les nations païennes. C’est le commandement que le Seigneur nous a donné : J’ai fait de toi la lumière des nations pour que, grâce à toi, le salut parvienne jusqu’aux extrémités de la terre. » En entendant cela, les païens étaient dans la joie et rendaient gloire à la parole du Seigneur ; tous ceux qui étaient destinés à la vie éternelle devinrent croyants. Ainsi la parole du Seigneur se répandait dans toute la région."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jenen Tagen sagten Paulus und Bárnabas zu den Juden: Euch musste das Wort Gottes zuerst verkündet werden. Da ihr es aber zurückstoßt und euch des ewigen Lebens unwürdig zeigt, wenden wir uns jetzt an die Heiden. Denn so hat uns der Herr aufgetragen: Ich habe dich zum Licht für die Völker gemacht, bis an das Ende der Erde sollst du das Heil sein. Als die Heiden das hörten, freuten sie sich und priesen das Wort des Herrn; und alle wurden gläubig, die für das ewige Leben bestimmt waren. Das Wort des Herrn aber verbreitete sich in der ganzen Gegend."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Réspice, Dómine, múnera quæ in commemoratióne beatórum Cyrílli et Methódii maiestáti tuæ deférimus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et præsta,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut signum fiant humanitátis novæ in dilectióne caritátis tibi reconciliátæ."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mira, Señor, los dones que presentamos a tu majestad en la conmemoración de los santos Cirilo y Metodio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y haz que se conviertan en signo de la humanidad nueva,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "reconciliada contigo en ferviente caridad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Look, O Lord, upon the offerings which we bring before your majesty in commemoration of Saints Cyril and Methodius,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and grant that these gifts may become the sign of a new humanity, reconciled to you in loving charity."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Acolhei, Senhor, os dons que vos apresentamos na comemoração dos Santos Cirilo e Metódio;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei que se tornem sinais de uma nova humanidade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "reconciliada convosco na caridade e no amor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Guarda, o Signore, i doni che nella memoria dei santi Cirillo e Metodio presentiamo alla tua maestà divina e rendili segno dell’umanità nuova, con te riconciliata nella pienezza dell’amore. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Regarde les offrandes que nous te présentons,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, Dieu de majesté,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en mémoire des saints Cyrille et Méthode :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais qu’elles deviennent le signe de l’humanité nouvelle réconciliée avec toi dans la perfection de l’amour."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, am Gedenktag der Heiligen Cyrill und Methodius bringen wir unsere Gaben vor dein Angesicht. Nimm sie entgegen auf deinem himmlischen Altar und schenke sie uns wieder als Sakrament des Heils. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Profécti sunt discípuli Evangélium prædicántes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dómino cooperánte et sermónem confirmánte,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sequéntibus signis."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Los discípulos se fueron a predicar el Evangelio, y el Señor cooperaba confirmando la palabra con las señales que los acompañaban."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "The disciples went forth and preached the Gospel, while the Lord worked with them,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "confirming the word through accompanying signs."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Os discípulos partiram para pregar o Evangelho."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "O Senhor os ajudava e confirmava a sua palavra pelos sinais que a acompanhavam."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "I discepoli partirono e predicarono il Vangelo, mentre il Signore agiva insieme a loro e confermava la Parola con i segni che l’accompagnavano."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Les disciples s’en allèrent proclamer partout l’Évangile."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Le Seigneur travaillait avec eux et confirmait leur parole par les signes qui l’accompagnaient."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sie aber zogen aus und predigten überall. Der Herr stand ihnen bei und bekräftigte die Verkündigung durch die Zeichen, die er geschehen ließ."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, cunctárum Pater géntium,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui nos de uno pane et uno Spíritu partícipes éfficis ac ætérni herédes convívii,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in hac festivitáte beatórum Cyrílli et Methódii benígnus concéde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut tuórum multitúdo filiórum, in eádem fide persevérans,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "unánimis regnum iustítiæ et pacis ædíficet."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Padre de todos los pueblos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos haces partícipes de un mismo Pan y un mismo Espíritu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y herederos del convite eterno,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos con bondad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en la fiesta de los santos Cirilo y Metodio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que la multitud de tus hijos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "perseverando en la misma fe,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "construya unánime el reino de la justicia y de la paz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, Father of all nations,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who make us sharers in the one Bread and the one Spirit and heirs of the eternal banquet,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant in your kindness on this feast day of Saints Cyril and Methodius,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that the multitude of your children,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "persevering in the same faith,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may be united in building up the Kingdom of justice and peace."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, Pai de todas as nações,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos fizestes herdeiros do eterno banquete e participantes de um único pão e um só Espírito,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos benigno, na comemoração dos Santos Cirilo e Metódio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que a multidão de vossos filhos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "perseverando na mesma fé,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "edifique um único reino de justiça e de paz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, Padre di tutte le genti, che nell’unico pane e nell’unico Spirito ci fai commensali ed eredi del banchetto eterno, in questa festa dei santi Cirillo e Metodio concedi che la moltitudine dei tuoi figli, perseverando nella stessa fede, edifichi nella concordia il regno di giustizia e di pace."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, Père de toutes les nations,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu nous donnes d’avoir part à un seul Pain et à un seul Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et tu fais de nous les héritiers du banquet éternel ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en cette fête des saints Cyrille et Méthode,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde en ta bonté à la multitude de tes enfants de persévérer dans la même foi et de construire ensemble un règne de justice et de paix."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ewiger Gott, schenke uns neues Leben und neue Glaubensfreude durch das Sakrament, das wir am Fest der Heiligen Cyrill und Methodius empfangen haben,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "damit wir nach ihrem Vorbild deine Botschaft mutig verkünden. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

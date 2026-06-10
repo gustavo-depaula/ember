@@ -1,0 +1,3656 @@
+{
+  "id": "ritual.for-the-dead.dif026",
+  "kind": "ritual",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "III. IN VARIIS COMMEMORATIONIBUS B. PRO PLURIBUS VEL PRO OMNIBUS DEFUNCTIS 9 Aliæ oratiónes",
+    "es": "III. EN DIVERSAS CONMEMORACIONES B. Por varios o por todos los difuntos 9 Otras oraciones",
+    "en-US": "Iii. Various Commemorations B. For Several Deceased Persons or for All the Dead 9 Other Prayers",
+    "pt-BR": "Iii. Para Diversas Comemorações B. Para Vários Ou Para Todos os Defuntos 9 Outras orações",
+    "it": "III. PER DIVERSE COMMEMORAZIONI B. Per più defunti o per tutti i defunti 9. Altre orazioni",
+    "fr": "III. POUR DIVERSES COMMÉMORATIONS B. POUR PLUSIEURS DÉFUNTS OU POUR TOUS LES DÉFUNTS 9 Autres oraisons",
+    "de": "III. WEITERE ORATIONEN FÜR VERSTORBENE 11. FÜR MEHRERE VERSTORBENE C"
+  },
+  "color": "violet",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Beáti mórtui, qui in Dómino moriúntur. Amodo requiéscant a labóribus suis:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ópera enim illórum sequúntur illos."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Bienaventurados los que mueren en el Señor. Que descansen de sus fatigas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "porque sus obras los acompañan."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Blessed are the dead who die in the Lord. Let them rest from their labors,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "for their works accompany them."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Bem-aventurados os que morrem no Senhor. Descansem agora de suas fadigas, pois suas obras os acompanham."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Beati i morti che muoiono nel Signore. Riposeranno dalle loro fatiche, poiché le loro opere li accompagnano."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Heureux les morts qui meurent dans le Seigneur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Qu’ils se reposent désormais de leurs peines,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "car leurs actes les suivent !"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Selig sind die Toten, die im Herrn sterben. Sie sollen ausruhen von ihren Mühen; denn ihre Taten gehen mit ihnen."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "la": "Cf. Ap 14, 13",
+            "es": "Ap 14, 13",
+            "en-US": "Cf. Rev 14, 13",
+            "pt-BR": "Cf. Ap 14, 13",
+            "fr": "Cf. Ap 14, 13"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Omnípotens sempitérne Deus, cui numquam sine spe misericórdiæ supplicátur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "propitiáre fámulis tuis"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "ut, qui de hac vita in tui nóminis confessióne discessérunt, Sanctórum tuórum número fácias aggregári. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios todopoderoso y eterno,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a quien suplicamos siempre con esperanza de alcanzar misericordia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "muéstrate compasivo con tus siervos"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "[N."
+                },
+                {
+                  "type": "text",
+                  "text": "y"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N.]"
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que dejaron este mundo confesando tu nombre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y admítelos en la asamblea de tus santos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Almighty ever-living God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to whom we never pray without hope of your mercy,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "be gracious to your servants"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "and"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who departed this life confessing your name,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and admit them to the company of your saints."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our lord Jesus Christ, your son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Onipotente e eterno Deus, a quem sempre suplicamos com a esperança de alcançar misericórdia, sede propício para com os vossos servos"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ", que partiram desta vida confessando o vosso nome, e concedei que sejam contados no número dos vossos santos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dio onnipotente ed eterno, che mai deludi la speranza di coloro che si affidano alla tua misericordia, guarda con bontà ai tuoi figli"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "text": "[alle tue figlie"
+                },
+                {
+                  "type": "rubric",
+                  "text": "] [N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N.]"
+                },
+                {
+                  "type": "text",
+                  "text": ", che hanno lasciato questa vita fedeli nella confessione del tuo nome, e accoglili"
+                },
+                {
+                  "type": "rubric",
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "]"
+                },
+                {
+                  "type": "text",
+                  "text": "nella comunità dei santi. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu éternel et tout-puissant,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur des vivants et des morts,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as pitié de tous ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te supplions humblement de regarder ceux que nous portons dans la prière :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ta tendresse bienveillante leur obtienne le pardon de leurs fautes ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, dans la béatitude,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ils se réjouissent de ta présence et chantent sans fin ta louange."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger, ewiger Gott, jeder, der zu dir ruft, darf auf dein Erbarmen hoffen. Sei unseren Verstorbenen"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "und"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "gnädig. Sie haben im Leben und Sterben an dich geglaubt und dir vertraut; nimm sie auf in die Schar deiner Heiligen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dómine Deus, cuius Fílius se tibi óbtulit hóstiam vivam, áccipe, quǽsumus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ecclésiæ tuæ sacrifícium, ut fámuli tui"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "a peccátis ómnibus absolúti, ad prǽmium immortalitátis mereántur pertíngere. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor Dios, tu Hijo se ofreció a ti como víctima viva;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "acepta el sacrificio de tu Iglesia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que tus siervos"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "[N."
+                },
+                {
+                  "type": "text",
+                  "text": "y"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N.]"
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "absueltos de todos los pecados,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "merezcan alcanzar el premio de la inmortalidad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lord God, whose son offered himself to you as a living oblation, accept, we pray, the sacrifice of your Church,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that your servants"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "and"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ", freed from all sins,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may merit to attain the prize of immortality."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor nosso Deus, vosso Filho se ofereceu como hóstia viva; aceitai, nós vos pedimos, o sacrifício da vossa Igreja para que vossos servos"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ", absolvidos de todos os pecados, mereçam alcançar o prêmio da imortalidade. Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Signore Dio, il tuo Figlio si è donato a te in sacrificio vivente: accogli l’offerta della tua Chiesa perché i nostri fratelli"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "text": "le nostre sorelle]"
+                },
+                {
+                  "type": "rubric",
+                  "text": "] [N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N.]"
+                },
+                {
+                  "type": "text",
+                  "text": ", liberati"
+                },
+                {
+                  "type": "rubric",
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "]"
+                },
+                {
+                  "type": "text",
+                  "text": "da tutti i peccati, possano ottenere il premio della vita immortale. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accueille,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ce sacrifice que nous t’offrons,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et donne à tes serviteurs N. et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "d’avoir part à la profusion des richesses du Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin qu’ils puissent ressusciter avec ton Fils et être placés à sa droite."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr und Gott, dein Sohn hat sich dir als lebendiges Opfer dargebracht. Nimm das Opfer deiner Kirche an, befreie unsere Verstorbenen von ihren Sünden und schenke ihnen das unvergängliche Leben. Darum bitten wir durch Christus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf067",
+      "label": {
+        "la": "PRÆFATIO I DE DEFUNCTIS",
+        "es": "PREFACIO I DE DIFUNTOS",
+        "en-US": "Preface I for the Dead",
+        "pt-BR": "Prefácio dos Defuntos I a",
+        "it": "PREFAZIO DEI DEFUNTI I",
+        "fr": "PRÉFACE DES DÉFUNTS N°1",
+        "de": "PRÄFATION VON DEN VERSTORBENEN I"
+      },
+      "excerpt": {
+        "la": "De spe resurrectionis in Christo",
+        "es": "La esperanza de la resurrección en Cristo",
+        "en-US": "The hope of resurrection in Christ",
+        "pt-BR": "esperança da ressurreição em Cristo",
+        "it": "La speranza della risurrezione in Cristo",
+        "fr": "L’espérance de la résurrection dans le Christ",
+        "de": "Die Hoffnung der Gläubigen"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis defunctorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In quo nobis spes beátæ resurrectiónis effúlsit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut, quos contrístat certa moriéndi condício,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "eósdem consolétur futúræ immortalitátis promíssio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tuis enim fidélibus, Dómine, vita mutátur, non tóllitur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dissolúta terréstris huius incolátus domo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ætérna in cælis habitátio comparátur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Thronis et Dominatiónibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque omni milítia cæléstis exércitus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum glóriæ tuæ cánimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de difuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En él brilla la esperanza de nuestra feliz resurrección;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y así, aunque la certeza de morir nos entristece,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos consuela la promesa de la futura inmortalidad."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque la vida de tus fieles, Señor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "no termina, se transforma,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y, al deshacerse nuestra morada terrenal,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "adquirimos una mansión eterna en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tronos y dominaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y con todos los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos sin cesar el himno de tu gloria:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses for the Dead."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In him the hope of blessed resurrection has dawned,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "that those saddened by the certainty of dying might be consoled by the promise of immortality to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Indeed for your faithful, Lord,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "life is changed not ended,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and, when this earthly dwelling turns to dust,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "an eternal dwelling is made ready for them in heaven."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with Thrones and Dominions,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with all the hosts and Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas dos defuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nele brilha para nós a esperança da feliz ressurreição;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e, se a certeza da morte nos entristece,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "conforta-nos a promessa da futura imortalidade."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, para os que creem em vós a vida não é tirada, mas transformada e, desfeita esta morada terrestre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos é dada uma habitação eterna no céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Arcanjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os Tronos e as Dominações e todos os coros celestes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe dei defunti."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In lui rifulge a noi la speranza della beata risurrezione e, se ci rattrista la certezza di dover morire, ci consola la promessa dell’immortalità futura."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ai tuoi fedeli, o Signore, la vita non è tolta, ma trasformata; e mentre si distrugge la dimora di questo esilio terreno, viene preparata un’abitazione eterna nel cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza, uniti agli Angeli e agli Arcangeli, ai Troni e alle Dominazioni e alla moltitudine delle schiere celesti, cantiamo con voce incessante l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit à toutes les Messes des défunts."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est en lui qu’a resplendi pour nous l’espérance de la résurrection bienheureuse ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et si la loi de la mort nous afflige,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la promesse de l’immortalité nous apporte la consolation."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car pour ceux qui croient en toi, Seigneur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la vie est transformée, elle n’est pas enlevée ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et lorsque prend fin leur séjour sur la terre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ils ont déjà une demeure éternelle dans les cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les puissances d’en haut et tous les esprits bienheureux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen für Verstorbene genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In ihm erstrahlt uns die Hoffnung, dass wir zur Seligkeit auferstehen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Bedrückt uns auch das Los des sicheren Todes, so tröstet uns doch die Verheißung der künftigen Unsterblichkeit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn deinen Gläubigen, o Herr, wird das Leben gewandelt, nicht genommen. Und wenn die Herberge der irdischen Pilgerschaft zerfällt, ist uns im Himmel eine ewige Wohnung bereitet."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum singen wir mit den Engeln und Erzengeln, den Thronen und Mächten und mit all den Scharen des himmlischen Heeres den Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf068",
+      "label": {
+        "la": "PRÆFATIO II DE DEFUNCTIS",
+        "es": "PREFACIO II DE DIFUNTOS",
+        "en-US": "Preface Ii for the Dead",
+        "pt-BR": "Prefácio dos Defuntos Ii",
+        "it": "PREFAZIO DEI DEFUNTI II",
+        "fr": "PRÉFACE DES DÉFUNTS N°2",
+        "de": "PRÄFATION VON DEN VERSTORBENEN II"
+      },
+      "excerpt": {
+        "la": "Christus mortuus est pro vita nostra",
+        "es": "Cristo ha muerto para nuestra vida",
+        "en-US": "Christ died so that we might live",
+        "pt-BR": "Morte de Cristo, vida do cristão",
+        "it": "Cristo è morto per la nostra vita",
+        "fr": "Le Christ est mort pour que nous vivions",
+        "de": "Der Eine, der für alle starb"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis defunctorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ipse enim mortem unus accépit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ne omnes nos morerémur;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "immo unus mori dignátus est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut omnes tibi perpétuo viverémus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, choris angélicis sociáti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te laudámus in gáudio confiténtes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de difuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque él aceptó la muerte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uno por todos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para librarnos del morir eterno;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es más, quiso entregar su vida para que todos tuviéramos vida eterna."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a los coros angélicos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos proclamando llenos de alegría:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses for the Dead."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For as one alone he accepted death,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that we might all escape from dying;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as one man he chose to die,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that in your sight we all might live for ever."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, in company with the choirs of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, and with joy we proclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas dos defuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Um por todos, ele aceitou morrer na cruz para nos livrar a todos da morte."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Entregou de boa vontade sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que todos pudéssemos viver eternamente para vós."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, unidos aos Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vos louvamos com alegria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe dei defunti."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Egli, prendendo su di sé la nostra morte, ci ha liberati dalla morte e,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sacrificando la sua vita, ci ha aperto il passaggio alla vita immortale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza, uniti ai cori degli angeli, cantiamo senza fine la tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit à toutes les Messes des défunts."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lui seul accepta la mort afin de nous arracher tous à la mort ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lui seul a bien voulu mourir afin que tous, nous vivions à jamais pour toi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unissant nos voix à celles des anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons dans la joie en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in Messen für Verstorbene genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Wir danken dir, Vater im Himmel, und rühmen dich durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn er ist der Eine, der den Tod auf sich nahm für uns alle, damit wir im Tode nicht untergehen. Er ist der Eine, der für uns alle gestorben ist,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "damit wir bei dir in Ewigkeit leben."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich deine Erlösten und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf069",
+      "label": {
+        "la": "PRÆFATIO III DE DEFUNCTIS",
+        "es": "PREFACIO III DE DIFUNTOS",
+        "en-US": "Preface Iii for the Dead",
+        "pt-BR": "Prefácio dos Defuntos Iii",
+        "it": "PREFAZIO DEI DEFUNTI III",
+        "fr": "PRÉFACE DES DÉFUNTS N°3",
+        "de": "PRÄFATION VON DEN VERSTORBENEN III"
+      },
+      "excerpt": {
+        "la": "Christus, salus et vita",
+        "es": "Cristo, salvación y vida",
+        "en-US": "Christ, the salvation and the life",
+        "pt-BR": "Cristo, salvação e vida",
+        "it": "Cristo, salvezza e vita",
+        "fr": "Le Christ, salut et vie",
+        "de": "Christus, die Auferstehung und das Leben"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis defunctorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui est salus mundi, vita hóminum, resurréctio mortuórum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per quem maiestátem tuam adórat exércitus Angelórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ante conspéctum tuum in æternitáte lætántium."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cum quibus et nostras voces ut admítti iúbeas, deprecámur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sócia exsultatióne dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de difuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque él es la salvación del mundo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la vida de los hombres,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la resurrección de los muertos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los coros de los ángeles adoran tu gloria eternamente,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gozosos en tu presencia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Permítenos asociarnos a sus voces cantando con ellos tu alabanza:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses for the Dead."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For he is the salvation of the world,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "the life of the human race,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "the resurrection of the dead."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Through him the host of Angels adores your majesty and rejoices in your presence for ever."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "May our voices, we pray, join with theirs in one chorus of exultant praise, as we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas dos defuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ele é a salvação do mundo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a vida da humanidade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a ressurreição dos mortos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele os coros dos Anjos adoram a vossa grandeza e se alegram eternamente na vossa presença."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Concedei-nos, também a nós,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "associar-nos a seus louvores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe dei defunti."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Egli è la salvezza del mondo, la vita degli uomini, la risurrezione dei morti."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per mezzo di lui si allietano gli angeli, e nell’eternità adorano la gloria del tuo volto. Al loro canto concedi, o Signore, che si uniscano le nostre umili voci nell’inno di lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit à toutes les Messes des défunts."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Il est le salut du monde,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il est la vie des hommes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et la résurrection des morts."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par lui, les anges adorent ta majesté et se réjouissent en ta présence à jamais."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "À leur hymne de louange,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "laisse-nous joindre nos voix,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour chanter et proclamer :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in Messen für Verstorbene genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn er ist das Heil der Welt, das Leben der Menschen, die Auferstehung der Toten."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn rühmen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf070",
+      "label": {
+        "la": "PRÆFATIO IV DE DEFUNCTIS",
+        "es": "PREFACIO IV DE DIFUNTOS",
+        "en-US": "Preface Iv for the Dead",
+        "pt-BR": "Prefácio dos Defuntos Iv",
+        "it": "PREFAZIO DEI DEFUNTI IV",
+        "fr": "PRÉFACE DES DÉFUNTS N°4",
+        "de": "PRÄFATION VON DEN VERSTORBENEN IV"
+      },
+      "excerpt": {
+        "la": "De vita terrena ad glóriam cælestem",
+        "es": "La vida terrena y la gloria celeste",
+        "en-US": "From earthly life to heavenly glory",
+        "pt-BR": "Da vida terrena à glória do céu",
+        "it": "Dalla vita terrena alla gloria eterna",
+        "fr": "De la vie sur terre à la gloire du ciel",
+        "de": "Der Mensch in Gottes Hand"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis defunctorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cuius império náscimur, cuius arbítrio régimur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cuius præcépto in terra, de qua sumpti sumus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "peccáti lege absólvimur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et, qui per mortem Fílii tui redémpti sumus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ad ipsíus resurrectiónis glóriam tuo nutu excitámur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de difuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Bajo tu poder hemos nacido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con tu libertad nos gobernamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y por un mandato tuyo a causa del pecado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "somos devueltos a la tierra de la que habíamos sido sacados."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Y los redimidos por la muerte de tu Hijo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por una señal tuya, seremos despertados a la gloria de su misma resurrección."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses for the Dead."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For it is at your summons that we come to birth,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by your will that we are governed,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and at your command that we return,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "on account of sin,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "to the earth from which we came."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And when you give the sign,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we who have been redeemed by the Death of your Son,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "shall be raised up to the glory of his Resurrection."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas dos defuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vosso poder nos chamou à vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vossa providência nos conduz;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por vossa ordem na terra, da qual fomos tirados,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "somos absolvidos da lei do pecado e, redimidos pela morte do vosso Filho,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "despertaremos, ao vosso chamado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para termos parte na glória da sua ressurreição."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e a multidão dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vos entoamos um hino de louvor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe dei defunti."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sei tu, Signore, che ci dai la vita e ci sostieni con la tua provvidenza; e se a causa del peccato il nostro corpo ritorna alla terra, dalla quale lo hai formato, per la morte redentrice del tuo Figlio la tua potenza ci risveglia alla gloria della risurrezione."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza, con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit à toutes les Messes des défunts."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est toi qui nous donnes de naître,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "c’est ta providence qui nous conduit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et, sur cette terre dont nous sommes tirés,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "c’est ta volonté qui nous libère de la loi du péché."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Oui, nous sommes rachetés par la mort de ton Fils,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et, sur un signe de toi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous sommes éveillés à la gloire de sa résurrection."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in Messen für Verstorbene genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn in deinen Händen ruht unser Leben: nach deinem Willen werden wir geboren und durch deine Führung geleitet. Nach deiner Verfügung empfangen wir den Sold der Sünde und kehren zurück zur Erde, von der wir genommen sind."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Doch du hast uns erlöst durch das Kreuz deines Sohnes, darum erweckt uns einst dein Befehl zur Herrlichkeit der Auferstehung mit Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir jetzt und in Ewigkeit dein Erbarmen und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf071",
+      "label": {
+        "la": "PRÆFATIO V DE DEFUNCTIS",
+        "es": "PREFACIO V DE DIFUNTOS",
+        "en-US": "Preface V for the Dead",
+        "pt-BR": "Prefácio dos Defuntos V",
+        "it": "PREFAZIO DEI DEFUNTI V",
+        "fr": "PRÉFACE DES DÉFUNTS N°5",
+        "de": "PRÄFATION VON DEN VERSTORBENEN V"
+      },
+      "excerpt": {
+        "la": "De resurrectione nostra per victoriam Christi",
+        "es": "Nuestra resurrección por medio de la victoria de Cristo",
+        "en-US": "Our resurrection through the victory of Christ",
+        "pt-BR": "Nossa ressurreição pela vitória de Cristo",
+        "it": "La nostra risurrezione grazie alla vittoria di Cristo",
+        "fr": "Grâce à la victoire du Christ, nous ressusciterons avec lui",
+        "de": "Der Tod als Sold der Sünde und das neue Leben als Geschenk Gottes"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis defunctorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia, etsi nostri est mériti quod perímus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuæ tamen est pietátis et grátiæ quod, pro peccáto morte consúmpti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christi victóriam redémpti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum ipso revocámur ad vitam."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum cælórum Virtútibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in terris te iúgiter celebrámus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "maiestáti tuæ sine fine clamántes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de difuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque el ser llamados de nuevo a la vida es obra de tu amor y gracia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ya que, habiendo muerto a causa del pecado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los redimidos por la victoria de Cristo hemos sido llamados con él a la vida."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con las virtudes del cielo te aclamamos continuamente en la tierra alabando tu gloria sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses for the Dead."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For even though by our own fault we perish,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "yet by your compassion and your grace,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "when seized by death according to our sins,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we are redeemed through Christ's great victory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with him called back into life."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we worship you constantly on earth,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and before your majesty without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas dos defuntos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pois, embora mereçamos morrer,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por vossa graça e amor de Pai nós, os derrotados pela morte por causa do pecado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "somos redimidos pela vitória de Cristo e com ele chamados de volta à vida."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Santos do céu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos celebramos sem cessar aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe dei defunti."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "La morte è comune eredità di tutti gli uomini, ma, per un dono misterioso del tuo amore, Cristo con la sua vittoria ci redime dalla morte e ci richiama con sé a vita nuova."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi, con tutti gli angeli del cielo, a te innalziamo sulla terra il nostro canto e proclamiamo senza fine la tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit à toutes les Messes des défunts."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Même si nous sommes destinés à mourir,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quand la mort nous atteint à cause du péché,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ta tendresse et ta grâce nous donnent d’être rachetés par la victoire du Christ et nous appellent à revivre avec lui."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les puissances des cieux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous pouvons te bénir sur la terre et t’adorer sans fin en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in Messen für Verstorbene genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch die Sünde kam der Tod in die Welt, und niemand kann ihm entrinnen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Doch deine Liebe hat die Macht des Todes gebrochen und uns gerettet durch den Sieg unseres Herrn Jesus Christus, der uns aus der Vergänglichkeit hinüberführt in das ewige Leben."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn rühmen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Pro quorum memória Corpus et Sanguis Christi súmitur, dona eis, Dómine,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "réquiem sempitérnam."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concede, Señor, el descanso eterno a aquellos en cuyo recuerdo comulgamos el Cuerpo y la Sangre de Cristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant everlasting rest to them, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "for whose memory the body and blood of christ are here received."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedei, Senhor, o descanso eterno aos fiéis defuntos em cuja memória recebemos o Corpo e o Sangue de Cristo."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Comunichiamo al corpo e al sangue di Cristo in suffragio dei nostri defunti:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dona loro, Signore, il riposo eterno."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accorde, Seigneur, le repos éternel aux défunts dont nous avons fait mémoire en recevant le Corps et le Sang du Christ."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dein Leib, Herr Jesus Christus, gibt uns Gemeinschaft mit deinen Heiligen."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Schenke den Heimgegangenen die ewige Ruhe in dir."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "la": "Phil 3, 20-21",
+            "es": "Flp 3, 20-21",
+            "en-US": "Phil 3: 20-21",
+            "pt-BR": "Fl 3, 20-21",
+            "fr": "Phil 3, 20-21"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Puríficent nos, quǽsumus, omnípotens et miséricors Deus, sacraménta quæ súmpsimus, et præsta, ut hoc sacrifícium sit nobis intercéssio ad véniam, sit fortitúdo fragílium, sit in perículis firmaméntum, sit vivis atque defúnctis remíssio ómnium peccatórum, et pignus redemptiónis ætérnæ. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios omnipotente y misericordioso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "haz que los sacramentos recibidos nos purifiquen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y concede que este sacrificio sea fuente de perdón para nosotros,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fortaleza de los débiles,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "auxilio en los peligros,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "remisión de los pecados para vivos y difuntos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y prenda de la redención eterna."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the sacrament we have received purify us, almighty and merciful God, and grant, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that this sacrifice may be for us a plea for pardon,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "strength for the weak,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a stronghold in all danger;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and may it be for the living and the dead remission of all their sins and the pledge of eternal redemption."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Onipotente e misericordioso Deus, purifique-nos o sacramento que recebemos, e concedei que este sacrifício seja fonte de perdão para nós, força para os fracos, apoio nos perigos e, para os vivos e defuntos, remissão dos pecados e penhor de eterna redenção. Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "I sacramenti che abbiamo ricevuto ci purifichino, Dio onnipotente e misericordioso: questo sacrificio sia per noi sorgente di perdono, sia forza dei deboli, difesa nei pericoli, remissione di ogni peccato per i vivi e per i morti, pegno di redenzione eterna. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "exauce tes fils nourris par le sacrement du salut,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et toi qui, par le Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "as ressuscité d’entre les morts le Christ, ton Fils unique,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne à tes fidèles N. et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la joie de l’immortalité et de la vie."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, wir haben das heilige Sakrament empfangen und rufen zu dir:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieses Opfer stärke die Schwachen, richte die Gebeugten auf, erlöse die Lebenden und die Verstorbenen von ihren Sünden und sei allen ein Unterpfand der künftigen Herrlichkeit. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

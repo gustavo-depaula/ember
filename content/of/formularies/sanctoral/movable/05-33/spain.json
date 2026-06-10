@@ -1,0 +1,378 @@
+{
+  "id": "sanctorale.movable.05-33.spain",
+  "kind": "sanctoral",
+  "scope": "spain",
+  "structure": "mass",
+  "title": {
+    "es": "Jueves después de Pentecostés: NUESTRO SEÑOR JESUCRISTO, SUMO Y ETERNO SACERDOTE"
+  },
+  "color": "white",
+  "rank": "feast",
+  "cycleScheme": "fixed",
+  "includeGloria": true,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cristo, mediador de una nueva alianza, como permanece para siempre, tiene el sacerdocio que no pasa."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Hb 7, 24"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que para gloria tuya y salvación del género humano"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "constituiste a tu Hijo único sumo y eterno Sacerdote,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concede, por la acción del Espíritu Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a quienes él eligió para ministros y dispensadores de sus misterios la gracia de ser fieles"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en el cumplimiento del ministerio recibido."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Jesucristo, nuestro Mediador,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te haga aceptables estos dones, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y nos presente juntamente con él"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "como ofrenda agradable a tus ojos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.movable.05-33.spain.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Jesucristo, Sumo y Eterno Sacerdote"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Que constituiste a tu único Hijo"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pontífice de la Alianza nueva y eterna"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por la unción del Espíritu Santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y determinaste, en tu designio salvífico,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perpetuar en la Iglesia su único sacerdocio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Él no sólo ha conferido el honor del sacerdocio real"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a todo su pueblo santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sino también, con amor de hermano,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "elige hombres de este pueblo"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, por la imposición de las manos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "participen de su sagrada misión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ellos renuevan en nombre de Cristo el sacrificio de la redención,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "preparan a tus hijos el banquete pascual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "presiden a tu pueblo santo en el amor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lo alimentan con tu palabra"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y lo fortalecen con tus sacramentos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tus sacerdotes, Señor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "al entregar su vida por ti y por la salvación de los hermanos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "van configurándose a Cristo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y han de darle así testimonio constante de fidelidad y amor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso, nosotros, Señor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos tu gloria diciendo:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sabed que yo estoy con vosotros todos los días, hasta el final del mundo, dice el Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "La eucaristía que hemos ofrecido y recibido"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos dé la vida, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, unidos a ti en caridad perpetua,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "demos frutos que siempre permanezcan."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "sanctorale.04-12.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Zeno of Verona, Bishop"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who brought many people to the Christian faith"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "through the example and teaching of your Bishop Saint Zeno;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that, through his intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we too may welcome Christ in our hearts"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and be witnesses of his resurrection in word and deed."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

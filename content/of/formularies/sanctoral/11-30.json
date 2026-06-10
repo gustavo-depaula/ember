@@ -1,0 +1,2622 @@
+{
+  "id": "sanctorale.11-30",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. ANDREÆ, APOSTOLI",
+    "es": "SAN ANDRÉS, APÓSTOL",
+    "en-US": "Saint Andrew, Apostle",
+    "pt-BR": "Santo André, apóstolo",
+    "it": "SANT’ANDREA, APOSTOLO",
+    "fr": "SAINT ANDRÉ, APÔTRE",
+    "de": "Hl. ANDREAS, APOSTEL"
+  },
+  "description": {
+    "la": "Andreas Bethsaidæ natus, prius discipulus fuit Ioannis Baptistæ, deinde Christum secutus est, ad quem etiam fratrem Petrum adduxit. Una cum Philippo ipsi Christo gentiles præsentavit atque puerum pisces panesque ferentem indicavit. Post Pentecosten traditur Evangelium prædicasse in multis regionibus et in Achaia cruci affixus esse.",
+    "es": "Andrés, nacido en Betsaida, fue primeramente discípulo de Juan Bautista, siguió después a Cristo y le presentó también a su hermano Pedro. Él y Felipe son los que llevaron ante Jesús a unos griegos, y el propio Andrés fue el que hizo saber a Cristo que había un muchacho que tenía unos panes y unos peces. Según la tradición, después de Pentecostés predicó el Evangelio en muchas regiones y fue crucificado en Acaya.",
+    "pt-BR": "André, que era discípulo de João Batista, seguiu a Jesus, quando o Precursor o apontou como Cordeiro de Deus que tira o pecado do mundo (Jo 1,35-40). Irmão de Pedro, comunicou-lhe a descoberta do Messias (Jo 1,41-42). Ambos foram chamados pelo Mestre à beira do lago para se tornarem pescadores de homens (Mt 4,18-19). No prodígio da multiplicação dos pães, apresenta a Jesus o menino dos cinco pães e dois peixes (Jo 6,8-9). Junto com Filipe informa que alguns gregos querem ver Jesus (Jo 12,20-21). Crucificado em Patrasso, segundo a tradição, é particularmente venerado na Igreja grega. Sua memória em 30 de novembro é lembrada por todos os calendários, os orientais e os ocidentais.",
+    "fr": "André, frère de Pierre et pêcheur comme lui à Bethsaïde, fut le premier des futurs Apôtres à rencontrer Jésus sur le bord du Jourdain. C’est lui qui amena Pierre à Jésus. Selon la tradition il aurait été crucifié à Patras après avoir prêché l’Évangile en Grèce. L’Église de Constantinople a choisi pour patron celui qu’elle honore comme « le Premier appelé ».",
+    "de": "Andreas wurde in Betsaida geboren und war zunächst Jünger des Täufers, folgte später jedoch Christus nach und stelle ihn auch seinem Bruder Simon (Petrus) vor. Er trat bei der Speisung der Fünftausend hervor und an ihn wandten sich die Griechen, die nach dem Einzug in Jerusalem mit Jesus sprechen wollten. Später hat Andreas der Überlieferung zufolge am schwarzen Meer und in Griechenland das Evangelium verkündet und ist in Patras in Achaia den Martertod am Kreuz gestorben."
+  },
+  "color": "red",
+  "rank": "feast",
+  "cycleScheme": "fixed",
+  "includeGloria": true,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dóminus secus mare Galilǽæ vidit duos fratres, Petrum et Andréam, et vocávit eos: Veníte post me, fáciam vos fíeri piscatóres hóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "El Señor, paseando junto al lago de Galilea, vio a dos hermanos, Pedro y Andrés, y los llamó: «Venid en pos de mí y os haré pescadores de hombres»."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Beside the Sea of Galilee,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the Lord saw two brothers, Peter and Andrew,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and he said to them:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Come after me and I will make you fishers of men."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Às margens do mar da Galileia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "o Senhor viu dois irmãos: Pedro e André,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e os chamou, dizendo: Vinde e segui-me,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "farei de vós pescadores de homens."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mentre camminava lungo il mare di Galilea, il Signore vide due fratelli,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Pietro e Andrea, e disse loro: «Venite dietro a me e vi farò pescatori di uomini»."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Au bord de la mer de Galilée,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "le Seigneur vit deux frères, Pierre et André ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "il les appela : « Venez à ma suite,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "je vous ferai pêcheurs d’hommes. »"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Als Jesus am See von Galiläa entlangging, sah er zwei Brüder, Petrus und Andreas. Er sagte zu ihnen: Kommt her, folgt mir nach! Ich werde euch zu Menschenfischern machen."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Maiestátem tuam, Dómine, supplíciter exorámus, ut, sicut Ecclésiæ tuæ beátus Andréas apóstolus éxstitit prædicátor et rector, ita apud te sit pro nobis perpétuus intercéssor. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "humildemente pedimos a tu majestad que, así como san Andrés,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "apóstol de tu Iglesia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "brilló como predicador y pastor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sea también nuestro perpetuo intercesor delante de ti."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "We humbly implore your majesty, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, just as the blessed Apostle Andrew was for your Church a preacher and pastor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so he may be for us a constant intercessor before you. Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, Deus de poder,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos suplicamos humildemente que, assim como o apóstolo Santo André foi exímio pregador e guia da vossa Igreja,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "seja também, junto de vós, nosso constante intercessor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Umilmente ti invochiamo, o Signore: il santo apostolo Andrea, che fu annunciatore del Vangelo e guida per la tua Chiesa, sia presso di te nostro perenne intercessore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu de majesté, nous te supplions humblement :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais que le bienheureux apôtre André,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui a évangélisé et guidé ton Église,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ne cesse d’intercéder pour nous auprès de toi."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, du hast deiner Kirche den heiligen Apostel Andreas als Boten des Glaubens und als Hirten gegeben. Erhöre unser Gebet und gib, dass auch die Kirche unserer Tage die Macht seiner Fürsprache erfahre. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Rom 10, 9-18",
+              "es": "Rom 10, 9-18",
+              "en-US": "Rom 10:9-18",
+              "pt-BR": "Rom 10, 9-18",
+              "it": "Rm 10,9-18",
+              "fr": "Rm 10, 9-18",
+              "de": "Röm 10, 9-18"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Romános",
+              "es": "Lectura de la carta del apóstol san Pablo a los Romanos",
+              "en-US": "A reading from the letter of St. Paul to the Romans",
+              "pt-BR": "Leitura da Carta São Paulo aos Romanos",
+              "it": "Dalla lettera di san Paolo apostolo ai Romani",
+              "fr": "Lettre de saint Paul Apôtre aux Romains",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Römer"
+            },
+            "summary": {
+              "la": "Fides ex auditu, auditus autem per verbum Christi.",
+              "es": "La fe nace del mensaje que se escucha, y la escucha viene a través de la palabra de Cristo",
+              "pt-BR": "A fé vem da pregação e a pregação se faz pela palavra de Cristo"
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Si confiteáris in ore tuo: «Dóminum Iesum!», et in corde tuo credíderis quod Deus illum excitávit ex mórtuis, salvus eris. Corde enim créditur ad iustítiam, ore autem conféssio fit in salútem. Dicit enim Scriptúra: «Omnis, qui credit in illo, non confundétur». Non enim est distínctio Iudæi et Græci, nam idem Dóminus ómnium, dives in omnes, qui ínvocant illum: Omnis enim, quicúmque invocáverit nomen Dómini, salvus erit. Quómodo ergo invocábunt, in quem non credidérunt? Aut quómodo credent ei, quem non audiérunt? Quómodo autem áudient sine prædicánte? Quómodo vero prædicábunt nisi mittántur? Sicut scriptum est: «Quam speciósi pedes evangelizántium bona». Sed non omnes obœdiérunt Evangélio; Isaías enim dicit: «Dómine, quis crédidit audítui nostro?». Ergo fides ex audítu, audítus autem per verbum Christi. Sed dico: Numquid non audiérunt? Quin immo, in omnem terram éxiit sonus eórum, et in fines orbis terræ verba eórum."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Si profesas con tus labios que Jesús es Señor, y crees con tu corazón que Dios lo resucitó de entre los muertos, serás salvo. Pues con el corazón se cree para alcanzar la justicia, y con los labios se profesa para alcanzar la salvación. Pues dice la Escritura: «Nadie que crea en él quedará confundido». En efecto, no hay distinción entre judío y griego, porque uno mismo es el Señor de todos, generoso con todos los que lo invocan, pues «todo el que invoque el nombre del Señor será salvo». Ahora bien, ¿cómo invocarán a aquel en quien no han creído?; ¿cómo creerán en aquel de quien no han oído hablar? ¿cómo oirán hablar de él sin nadie que anuncie? y ¿cómo anunciarán si no los envían? Según está escrito: «¡Qué hermosos los pies de los que anuncian la Buena Noticia del bien!». Pero no todos han prestado oídos al Evangelio. Pues Isaías afirma: «Señor, ¿quién ha creído nuestro mensaje?». Así, pues, la fe nace del mensaje que se escucha, y la escucha viene a través de la palabra de Cristo. Pero digo yo: ¿Es que no lo han oído? Todo lo contrario: «A toda la tierra alcanza su pregón, y hasta los confines del orbe sus palabras»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "If your lips confess that Jesus is Lord and if you believe in your heart that God raised him from the dead, then you will be saved. By believing from the heart you are made righteous; by confessing with your lips you are saved. When scripture says: those who believe in him will have no cause for shame, it makes no distinction between Jew and Greek: all belong to the same Lord who is rich enough, however many ask his help, for everyone who calls on the name of the Lord will be saved. But they will not ask his help unless they believe in him, and they will not believe in him unless they have heard of him, and they will not hear of him unless they get a preacher, and they will never have a preacher unless one is sent, but as scripture says: The footsteps of those who bring good news is a welcome sound. Not everyone, of course, listens to the Good News. As Isaiah says: Lord, how many believed what we proclaimed? So faith comes from what is preached, and what is preached comes from the word of Christ. Let me put the question: is it possible that they did not hear? Indeed they did; in the words of the psalm, their voice has gone out through all the earth, and their message to the ends of the world."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos: Se, com vossa boca, confessares Jesus como Senhor e, em vosso coração, crerdes que Deus o ressuscitou dos mortos, sereis salvos. É crendo no coração que se alcança a justiça e é confessando a fé com a boca que se consegue a salvação. Pois a Escritura diz: \"Todo aquele que nele crer não ficará confundido\". Portanto, não importa a diferença entre judeu e grego; todos têm o mesmo Senhor, que é generoso para com todos os que o invocam. De fato, todo aquele que invocar o Nome do Senhor será salvo. Mas, como invocá-lo, sem antes crer nele? E como crer, sem antes ter ouvido falar dele? E como ouvir, sem alguém que pregue? E como pregar, sem ser enviado para isso? Assim é que está escrito: \"Quão belos são os pés dos que anunciam o bem\". Mas nem todos obedeceram à Boa nova. Pois Isaías diz: \"Senhor, quem acreditou em nossa pregação?\" Logo, a fé vem da pregação e a pregação se faz pela palavra de Cristo. Então, eu pergunto: Será que eles não ouviram? Certamente que ouviram, pois \"a voz deles se espalhou por toda a terra, e as suas palavras chegaram aos confins do mundo\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratello, se confesserai con la tua bocca che Gesù è il Signore, e crederai con il tuo cuore che Dio lo ha risuscitato dai morti, sarai salvo. Con il cuore infatti si crede per ottenere la giustizia e con la bocca si fa la professione di fede per avere la salvezza. Dice infatti la Scrittura: Chiunque crede in lui non sarà deluso. Poiché non c’è distinzione fra Giudeo e Greco, dato che lui stesso è il Signore di tutti, ricco verso tutti quelli che l’invocano. Infatti: Chiunque invocherà il nome del Signore sarà salvato. Ora, come potranno invocarlo senza aver prima creduto in lui? E come potranno credere, senza averne sentito parlare? E come potranno sentirne parlare senza uno che lo annunzi? E come lo annunzieranno, senza essere prima inviati? Come sta scritto: Quanto son belli i piedi di coloro che recano un lieto annunzio di bene! Ma non tutti hanno obbedito al vangelo. Lo dice Isaia: Signore, chi ha creduto alla nostra predicazione? La fede dipende dunque dalla predicazione e la predicazione a sua volta si attua per la parola di Cristo. Ora io dico: Non hanno forse udito? Tutt’altro: per tutta la terra è corsa la loro voce, e fino ai confini del mondo le loro parole\"."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frère, si de ta bouche, tu affirmes que Jésus est Seigneur, si, dans ton cœur, tu crois que Dieu l’a ressuscité d’entre les morts, alors tu seras sauvé. Car c’est avec le cœur que l’on croit pour devenir juste, c’est avec la bouche que l’on affirme sa foi pour parvenir au salut. En effet, l’Écriture dit : Quiconque met en lui sa foi ne connaîtra pas la honte. Ainsi, entre les Juifs et les païens, il n’y a pas de différence : tous ont le même Seigneur, généreux envers tous ceux qui l’invoquent. En effet, quiconque invoquera le nom du Seigneur sera sauvé. Or, comment l’invoquer, si on n’a pas mis sa foi en lui ? Comment mettre sa foi en lui, si on ne l’a pas entendu ? Comment entendre si personne ne proclame ? Comment proclamer sans être envoyé ? Il est écrit : Comme ils sont beaux, les pas des messagers qui annoncent les bonnes nouvelles ! Et pourtant, tous n’ont pas obéi à la Bonne Nouvelle. Isaïe demande en effet : Qui a cru, Seigneur, en nous entendant parler ? Or la foi naît de ce que l’on entend ; et ce que l’on entend, c’est la parole du Christ. Alors, je pose la question : n’aurait-on pas entendu ? Mais si, bien sûr ! Un psaume le dit : Sur toute la terre se répand leur message, et leurs paroles, jusqu’aux limites du monde."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wenn du mit deinem Mund bekennst: „Jesus ist der Herr“ und in deinem Herzen glaubst: „Gott hat ihn von den Toten auferweckt“, so wirst du gerettet werden. Wer mit dem Herzen glaubt und mit dem Mund bekennt, wird Gerechtigkeit und Heil erlangen. Denn die Schrift sagt: Wer an ihn glaubt, wird nicht zugrunde gehen. Darin gibt es keinen Unterschied zwischen Juden und Griechen. Alle haben denselben Herrn; aus seinem Reichtum beschenkt er alle, die ihn anrufen. Denn jeder, der den Namen des Herrn anruft, wird gerettet werden. Wie sollen sie nun den anrufen, an den sie nicht glauben? Wie sollen sie an den glauben, von dem sie nichts gehört haben? Wie sollen sie hören, wenn niemand verkündigt? Wie soll aber jemand verkündigen, wenn er nicht gesandt ist? Darum heißt es in der Schrift: Wie sind die Freudenboten willkommen, die Gutes verkündigen! Doch nicht alle sind dem Evangelium gehorsam geworden. Denn Jesája sagt: Herr, wer hat unserer Botschaft geglaubt? So gründet der Glaube in der Botschaft, die Botschaft im Wort Christi. Aber, so frage ich, haben sie die Boten etwa nicht gehört? Doch, sie haben sie gehört; denn ihre Stimme war in der ganzen Welt zu hören und ihr Wort bis an die Enden der Erde."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 18, 2-3. 4-5",
+              "es": "Sal 18, 2-3. 4-5",
+              "en-US": "Ps 18:2-3, 4-5",
+              "pt-BR": "Sl 18, 2-3. 4-5",
+              "it": "Sal 18, 2-3. 4-5",
+              "fr": "Ps 18, 2-3. 4-5",
+              "de": "Ps 19"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "In omnem terram exivit sonus eórum."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "A toda la tierra alcanza su pregón."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Their message goes out through all the earth."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Seu som ressoa e se espalha em toda terra"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "In tutta la terra risuona il lieto annunzio."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Par toute la terre s’en va leur message."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ihre Botschaft geht hinaus in die ganze Welt."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cæli enárrant glóriam Dei,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et ópera mánuum eius annúntiat firmaméntum."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dies diéi erúctat verbum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et nox nocti índicat sciéntiam."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Non sunt loquélæ neque sermónes quorum non intellegántur voces."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "In omnem terram exívit sonus eórum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et in fines orbis terræ verba eórum."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El cielo proclama la gloria de Dios,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "el firmamento pregona la obra de sus manos:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "el día al día le pasa el mensaje,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la noche a la noche se lo susurra."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sin que hablen, sin que pronuncien,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sin que resuene su voz,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "a toda la tierra alcanza su pregón y hasta los límites del orbe su lenguaje."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The heavens proclaim the glory of god and the firmament shows forth the work of his hands. Day unto day takes up the story and night unto night makes known the message."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "No speech, no word, no voice is heard yet their span extends through all the earth, their words to the utmost bounds of the world."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "e o firmamento, a obra de suas mãos;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "o dia ao dia transmite esta mensagem,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "a noite à noite publica esta notícia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "nem são vozes que possam ser ouvidas;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "seu som ressoa e se espalha em toda a terra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "chega aos confins do universo a sua voz."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I cieli narrano la gloria di Dio,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e l’opera delle sue mani annunzia il firmamento."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il giorno al giorno ne affida il messaggio e la notte alla notte ne trasmette notizia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Non è linguaggio e non sono parole di cui non si oda il suono."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Per tutta la terra si diffonde la loro voce e ai confini del mondo la loro parola."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Les cieux proclament la gloire de Dieu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le firmament raconte l’ouvrage de ses mains."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le jour au jour en livre le récit et la nuit à la nuit en donne connaissance."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pas de paroles dans ce récit,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "pas de voix qui s’entende ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mais sur toute la terre en paraît le message et la nouvelle, aux limites du monde."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Die Himmel rühmen die Herrlichkeit Gottes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vom Werk seiner Hände kündet das Firmament."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ein Tag sagt es dem andern,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "eine Nacht tut es der andern kund,"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "ohne Worte und ohne Reden,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "unhörbar bleibt ihre Stimme."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Doch ihre Botschaft geht in die ganze Welt hinaus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihre Kunde bis zu den Enden der Erde."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Veníte post me, dicit Dóminus, et fáciam vos piscatóres hóminum."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Venid en pos de mí —dice el Señor—, y os haré pescadores de hombres."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Come, follow me, says the Lord, and I will make you fishers of men."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Vinde após mim, disse o Senhor, e eu ensinarei a pescar gente."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Seguitemi, dice il Signore, e vi farò pescatori di uomini."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "« Venez à ma suite, dit le Seigneur, et je vous ferai pêcheurs d’hommes. »"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "(So spricht der Herr:) Folgt mir nach! Ich werde euch zu Menschenfischern machen."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Mt 4, 19",
+              "es": "Mt 4, 19",
+              "pt-BR": "Mt 4, 19",
+              "fr": "Mt 4, 19",
+              "de": "Mk 1, 17b"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Mt 4, 18-22",
+              "es": "Mt 4, 18-22",
+              "en-US": "Mt 4:18-22",
+              "pt-BR": "Mt 4, 18-22",
+              "it": "Mt 4, 18-22",
+              "fr": "Mt 4, 18-22",
+              "de": "Mt 4, 18-22"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Matthǽum",
+              "es": "✠ Lectura del santo Evangelio según san Mateo",
+              "en-US": "✠ A reading from the holy Gospel according to Matthew",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+              "it": "✠ Dal Vangelo secondo Matteo",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Matthieu",
+              "de": "✠ Aus dem heiligen Evangelium nach Matthäus"
+            },
+            "summary": {
+              "la": "Illi continuo, relictis retibus, secuti sunt eum.",
+              "es": "Inmediatamente dejaron las redes y lo siguieron",
+              "pt-BR": "Imediatamente deixaram as redes e o seguiram.",
+              "it": "Essi subito lasciarono le reti e lo seguirono."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Ambulans Iesus iuxta mare Galilææ, vidit duos fratres, Simónem, qui vocátur Petrus, et Andréam fratrem eius, mitténtes rete in mare; erant enim piscatóres. Et ait illis: «Veníte post me, et fáciam vos piscatóres hóminum». At illi contínuo, relíctis rétibus, secúti sunt eum. Et procédens inde vidit álios duos fratres, Iacóbum Zebedæi et Ioánnem fratrem eius, in navi cum Zebedæo patre eórum reficiéntes rétia sua; et vocávit eos. Illi autem statim, relícta navi et patre suo, secúti sunt eum."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, paseando Jesús junto al mar de Galilea vio a dos hermanos, a Simón, llamado Pedro, y a Andrés, que estaban echando la red en el mar, pues eran pescadores. Les dijo: «Venid en pos de mí y os haré pescadores de hombres». Inmediatamente dejaron las redes y lo siguieron. Y pasando adelante vio a otros dos hermanos, a Santiago, hijo de Zebedeo, y a Juan, su hermano, que estaban en la barca repasando las redes con Zebedeo, su padre, y los llamó. Inmediatamente dejaron la barca y a su padre y lo siguieron."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "As Jesus was walking by the Sea of Galilee he saw two brothers, Simon, who was called Peter, and his brother Andrew; they were making a cast in the lake with their net, for they were fishermen. And he said to them, 'Follow me and I will make you fishers of men'. And they left their nets at once and followed him. Going on from there he saw another pair of brothers, James son of Zebedee and his brother John; they were in their boat with their father Zebedee, mending their nets, and he called them. At once, leaving the boat and their father, they followed him."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, quando Jesus andava à beira do mar da Galileia, viu dois irmãos: Simão, chamado Pedro, e seu irmão André. Estavam lançando a rede ao mar, pois eram pescadores. Jesus disse a eles: \"Segui-me, e eu farei de vós pescadores de homens\". Eles, imediatamente deixaram as redes e o seguiram. Caminhando um pouco mais, Jesus viu outros dois irmãos: Tiago, filho de Zebedeu, e seu irmão João. Estavam na barca com seu pai Zebedeu consertando as redes. Jesus os chamou. Eles, imediatamente deixaram a barca e o pai, e o seguiram."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, mentre camminava lungo il mare di Galilea, Gesù vide due fratelli, Simone, chiamato Pietro, e Andrea suo fratello, che gettavano le reti in mare; erano infatti pescatori. E disse loro: «Venite dietro a me, vi farò pescatori di uomini». Ed essi subito lasciarono le reti e lo seguirono. Andando oltre, vide altri due fratelli, Giacomo, figlio di Zebedeo, e Giovanni suo fratello, che nella barca, insieme a Zebedeo loro padre, riparavano le loro reti, e li chiamò. Ed essi subito lasciarono la barca e il loro padre e lo seguirono."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, comme Jésus marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et son frère André, qui jetaient leurs filets dans la mer ; car c’étaient des pêcheurs. Jésus leur dit : « Venez à ma suite, et je vous ferai pêcheurs d’hommes. » Aussitôt, laissant leurs filets, ils le suivirent. De là, il avança et il vit deux autres frères, Jacques, fils de Zébédée, et son frère Jean, qui étaient dans la barque avec leur père, en train de réparer leurs filets. Il les appela. Aussitôt, laissant la barque et leur père, ils le suivirent."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit, als Jesus am See von Galiläa entlangging, sah er zwei Brüder, Simon, genannt Petrus, und seinen Bruder Andreas; sie warfen gerade ihr Netz in den See, denn sie waren Fischer. Da sagte er zu ihnen: Kommt her, folgt mir nach! Ich werde euch zu Menschenfischern machen. Als er weiterging, sah er zwei andere Brüder, Jakobus, den Sohn des Zebedäus, und seinen Bruder Johannes; sie waren mit ihrem Vater Zebedäus im Boot und richteten ihre Netze her. Er rief sie, und sogleich verließen sie das Boot und ihren Vater und folgten Jesus."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concéde nobis, omnípotens Deus, ut his munéribus, quæ in beáti Andréæ festivitáte deférimus, et tibi placeámus exhíbitis, et vivificémur accéptis."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios todopoderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos agradarte con estos dones que hemos traído en la fiesta de san Andrés,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y, al aceptarlos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "haz que renueven nuestra vida."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant us, almighty God, that through these offerings, which we bring on the feast day of Saint Andrew, we may please you by what we have brought and be given life by what you have accepted."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Possam agradar-vos, ó Deus todo poderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "estas oferendas que vos apresentamos na festa de Santo André,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a fim de que, sendo aceitas por vós,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "se tornem para nós fonte de vida."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dio onnipotente, nella festa di sant’Andrea portiamo questi doni al tuo altare; fa' che, offrendoli, siamo a te graditi e, ricevendoli da te santificati, otteniamo la vita. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu tout-puissant,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en la fête du bienheureux André,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous de te plaire par les offrandes que nous t’apportons ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accueille-les pour que nous en recevions la vie."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, am Fest des heiligen Andreas kommen wir mit unseren Gaben zu deinem Altar. Nimm in diesem Opfer auch uns an und schenke uns Leben aus dir. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf050",
+      "label": {
+        "la": "PRÆFATIO I DE APOSTOLIS",
+        "es": "PREFACIO I DE LOS APÓSTOLES",
+        "en-US": "Preface I of Apostles",
+        "pt-BR": "Prefácio dos Apóstolos I",
+        "it": "PREFAZIO DEGLI APOSTOLI I",
+        "fr": "PRÉFACE DES APÔTRES N°1",
+        "de": "PRÄFATION VON DEN APOSTELN I"
+      },
+      "excerpt": {
+        "la": "De Apostolis pastoribus pópuli Dei",
+        "es": "Los Apóstoles, pastores del pueblo de Dios",
+        "en-US": "The Apostles, shepherds of God's people",
+        "pt-BR": "Os Apóstolos, pastores do povo de Deus",
+        "it": "Gli Apostoli, pastori del popolo di Dio",
+        "fr": "Les Apôtres, pasteurs du peuple de Dieu",
+        "de": "Die Apostel als Hirten des Gottesvolkes"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis Apostolorum, præsertim sanctorum Petri et Pauli."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui gregem tuum, Pastor ætérne, non déseris,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed per beátos Apóstolos contínua protectióne custódis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut iísdem rectóribus gubernétur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quos Fílii tui vicários eídem contulísti præésse pastóres."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Thronis et Dominatiónibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque omni milítia cæléstis exércitus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum glóriæ tuæ cánimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de los Apóstoles, principalmente en las de san Pedro y san Pablo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque tú, Pastor eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "no abandonas nunca a tu rebaño,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sino que por medio de los santos apóstoles lo proteges y conservas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y quieres que tenga siempre por guías a los mismos pastores a quienes tu Hijo estableció como enviados suyos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tronos y dominaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y con todos los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos sin cesar el himno de tu gloria:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Apostles, especially of Saints Peter and Paul."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you, eternal Shepherd, do not desert your flock,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "but through the blessed Apostles watch over it and protect it always,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that it may be governed by those you have appointed shepherds to lead it in the name of your Son."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with Thrones and Dominions,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with all the hosts and Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio usa-se nas Missas dos Apóstolos, sobretudo dos Santos Pedro e Paulo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pastor eterno, vós nunca abandonais o vosso rebanho,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mas o guardais constantemente pela proteção dos vossos santos Apóstolos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que ele seja conduzido por aqueles mesmos pastores que colocastes à sua frente como representantes do vosso Filho."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Arcanjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os Tronos e as Dominações e todos os coros celestes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe degli apostoli, specialmente nelle Messe votive dei santi Pietro e Paolo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pastore eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu non abbandoni il tuo gregge,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ma lo custodisci e proteggi sempre per mezzo dei santi apostoli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e lo conduci attraverso i tempi sotto la guida di coloro che tu stesso hai eletto vicari del tuo Figlio e hai costituito pastori."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli Angeli e agli Arcangeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ai Troni e alle Dominazioni e alla moltitudine delle schiere celesti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo con voce incessante l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit aux messes des Apôtres, en particulier des saints Pierre et Paul."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu n’abandonnes pas ton troupeau, Pasteur éternel,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mais tu le gardes par les bienheureux Apôtres sous ta constante protection,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour qu’il soit dirigé par ceux-là mêmes que tu as établis à sa tête comme pasteurs au nom de ton Fils."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les puissances d’en haut et tous les esprits bienheureux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen von den Aposteln genommen, vor allem von den Aposteln Petrus und Paulus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn du bist der ewige Hirt, der seine Herde nicht verlässt, du hütest sie allezeit durch deine heiligen Apostel. Du hast sie der Kirche als Hirten gegeben, damit sie ihr vorstehen als Stellvertreter deines Sohnes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum singen wir mit den Engeln und Erzengeln, den Thronen und Mächten und mit all den Scharen des himmlischen Heeres den Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf051",
+      "label": {
+        "la": "PRÆFATIO II DE APOSTOLIS",
+        "es": "PREFACIO II DE APÓSTOLES",
+        "en-US": "Preface Ii of Apostles",
+        "pt-BR": "Prefácio dos Apóstolos Ii a",
+        "it": "PREFAZIO DEGLI APOSTOLI II",
+        "fr": "PRÉFACE DES APÔTRES N°2",
+        "de": "PRÄFATION VON DEN APOSTELN II"
+      },
+      "excerpt": {
+        "la": "De apostolico fundamento et testimonio",
+        "es": "Los Apóstoles, fundamento de la Iglesia y testimonio para el mundo",
+        "en-US": "The apostolic foundation and witness",
+        "pt-BR": "Igreja fundada sobre os Apóstolos e o seu testemunho",
+        "it": "La Chiesa fondata sugli Apostoli e sulla loro testimonianza",
+        "fr": "Les Apôtres, fondements de l’Église et témoins",
+        "de": "Das apostolische Fundament und Zeugnis der Kirche"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis Apostolorum et Evangelistarum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quóniam Ecclésiam tuam in apostólicis tribuísti consístere fundaméntis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut signum sanctitátis tuæ in terris manéret ipsa perpétuum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et cæléstia præbéret cunctis homínibus documénta."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quaprópter nunc et usque in sǽculum cum omni milítia Angelórum devóta tibi mente concínimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "clamántes atque dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de los Apóstoles y de los Evangelistas."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque has querido que tu Iglesia tenga por fundamento a los apóstoles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que permanezca en la tierra como signo perpetuo de tu santidad y ofrezca a todos los hombres las enseñanzas del cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, con toda la multitud de los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te aclamamos ahora y por siempre diciendo con humilde fe:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Apostles and Evangelists."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you have built your Church to stand firm on apostolic foundations,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "to be a lasting sign of your holiness on earth and offer all humanity your heavenly teaching."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, now and for ages unending,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with all the host of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing to you with all our hearts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "crying out as we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio usa-se nas Missas dos Apóstolos e dos Evangelistas."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós fundastes a Igreja sobre o alicerce dos Apóstolos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a fim de que ela seja na terra sinal permanente da vossa santidade e anuncie a todo o mundo o Evangelho do Reino dos céus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, agora e sempre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "com todos os coros dos Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "jubilosos, cantamos"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe degli apostoli e degli evangelisti."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu hai stabilito la tua Chiesa sul fondamento degli apostoli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché sulla terra sia segno visibile della tua santità nei secoli e trasmetta a tutti gli uomini gli insegnamenti che sono via al cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti a tutte le schiere degli angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ora e sempre, con cuore riconoscente,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamiamo nel canto la tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette préface se dit aux messes des Apôtres et des Évangélistes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car tu as fondé ton Église sur les Apôtres,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour qu’elle soit à jamais dans le monde le signe de ta sainteté,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et qu’elle enseigne à tous les hommes l’Évangile du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dès maintenant et pour l’éternité,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous pouvons te chanter avec tous les anges et, d’un cœur fervent, proclamer :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen von Aposteln und Evangelisten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn hast du die Kirche auf das Fundament der Apostel gegründet, damit sie bis ans Ende der Tage fortbestehe als Zeichen deiner Heiligkeit und allen Menschen die Botschaft des Heiles verkünde."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir das Werk deiner Liebe und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dixit Andréas Simóni fratri suo: Invénimus Messíam, qui dícitur Christus. Et addúxit eum ad Iesum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dijo Andrés a su hermano Simón: «Hemos encontrado al Mesías, que significa Cristo». Y lo llevó a Jesús."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Andrew told his brother Simon:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "We have found the Messiah, the Christ, and he brought him to Jesus."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Disse André a Simão Pedro, seu irmão:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Encontramos o Messias, isto é o Cristo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "E o conduziu a Jesus."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Disse Andrea a Simone, suo fratello: «Abbiamo trovato il Messia, il Cristo». E lo condusse da Gesù."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "André dit à Simon, son frère :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "« Nous avons trouvé le Messie – ce qui veut dire Christ. »"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Et il le conduisit à Jésus."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Andreas sagte zu seinem Bruder Simon: Wir haben den Messias gefunden, das heißt übersetzt: Christus. Und er führte ihn zu Jesus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Róboret nos, Dómine, sacraménti tui commúnio, ut, exémplo beáti Andréæ apóstoli, Christi mortificatiónem feréntes, cum ipso vívere mereámur in glória. Qui vivit et regnat in sǽcula sæculórum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la comunión de tu sacramento nos dé fortaleza para que, a ejemplo del apóstol san Andrés,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "compartiendo la muerte de Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "merezcamos vivir con él en la gloria."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May communion in your Sacrament strengthen us, O Lord, so that by the example of the blessed Apostle Andrew we, who carry in our body the Death of Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may merit to live with him in glory."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Fortifique-nos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a comunhão do vosso sacramento,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, a exemplo do apóstolo Santo André,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "carregando a cruz de Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mereçamos viver com ele na glória do céu."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "La comunione al tuo sacramento, o Signore, ci fortifichi, perché, portando in noi i patimenti di Cristo sull’esempio del santo apostolo Andrea, possiamo vivere con lui nella gloria. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que la communion à ton sacrement nous fortifie, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin qu’à l’exemple du bienheureux apôtre André,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous portions dans notre corps la mort du Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour obtenir de vivre avec lui dans la gloire."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, stärke uns durch das Sakrament, das wir empfangen haben,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "damit wir nach dem Beispiel des heiligen Andreas Christus, dem Gekreuzigten,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nachfolgen und mit ihm zur Herrlichkeit der Auferstehung gelangen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverPeople": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "rubric",
+                  "text": "Adhiberi potest formula benedictionis sollemnis."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "rubric",
+                  "text": "Pode-se usar a fórmula da Benção Solene."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "rubric",
+                  "text": "On peut utiliser la formule de la bénédiction solennelle."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1697 @@
+{
+  "id": "sanctorale.06-13",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Antonii de Padova, presbyteri et Ecclésiæ doctoris",
+    "es": "San Antonio de Padua, presbítero y doctor de la Iglesia",
+    "en-US": "Saint Anthony of Padua, priest and doctor of the Church",
+    "pt-BR": "Santo Antônio de Pádua, presbítero e doutor da Igreja",
+    "it": "SANT’ANTONIO DI PADOVA, sacerdote e dottore della Chiesa",
+    "fr": "Saint Antoine de Padoue, prêtre et docteur de l’Église",
+    "de": "Hl. Antonius von Padua, Ordenspriester, Kirchenlehrer"
+  },
+  "description": {
+    "la": "Ulisippone (Lisboa) in Lusitania natus est circa finem sǽculi XII. Inter canonicos regulares sancti Augustini adscitus, paulo post adeptum sacerdotium ad Fratres Minores transgressus est, ut fidei propagationi incumberet inter Africæ populos. In Gallia tamen et in Italia munere prædicationis magno cum fructu fungens, multos hæreticos convertit et primus in suo Ordine theologiam Fratres docuit. Sermones scripsit doctrina et suavitate perfusos. Mortuus est Patavii anno 1231.",
+    "es": "Nació en Lisboa a finales del siglo XII. Primero formó parte de los canónigos regulares de san Agustín, y, poco después de su ordenación sacerdotal, ingresó en la Orden de los frailes Menores, con la intención de dedicarse a propagar la fe cristiana en África. Sin embargo, fue en Francia y en Italia donde ejerció con gran provecho sus dotes de predicador, convirtiendo a muchos herejes. Fue el primero que enseñó teología en su Orden. Escribió varios sermones llenos de doctrina y de unción. Murió en Padua el año 1231.",
+    "pt-BR": "Antônio (Lisboa, Portugal, 1195 - Pádua, Itália, 13 de junho de 1231), batizado com o nome de Fernando, depois de intensa vida ascética, junto aos Cônegos Regulares Agostinianos de Coimbra, passou para os Menores de São Francisco de Assis, com quem se encontrou na Porciúncula (1221). Pregador do Evangelho, exerceu seu ministério sobretudo na Itália do norte e no sul da França. De sua pregação, restam significativos testemunhos em seus escritos homiléticos. Gregório IX proclamou-o santo, aos 30 de maio de 1232, antes mesmo de completar um ano de seu falecimento. Pio XII, em 1946, reconhecendo sua sabedoria e doutrina, declarou-o Doutor da Igreja com o título de \"Doutor Evangélico\". É universalmente venerado pelo povo cristão.",
+    "it": "Antonio, al secolo Fernando (Lisbona, Portogallo, 1190/1195 ca. - Padova, 13 giugno 1231), dopo un’intensa vita ascetica presso i Canonici regolari agostiniani di Coimbra, entrò tra i Frati Minori con il desiderio, non realizzato a causa di una malattia, di partire per la missione in Marocco. Fu il primo francescano a insegnare teologia, con il consenso dello stesso san Francesco. Di grande cultura biblica ed efficace predicatore del Vangelo, esercitò il ministero nell’Italia settentrionale e nella Francia meridionale, suscitando numerose conversioni. Concluse la sua vita a Padova, dove contribuì alla pacificazione cittadina: là rimasero le sue spoglie mortali, oggetto di venerazione molto diffusa.",
+    "fr": "Antoine naquit à Lisbonne (vers 1195). En 1221, il était à Assise près de saint François, dont le projet de vie évangélique l’avait séduit. Ses dons exceptionnels de prédicateur le firent envoyer en France, où se répandaient les doctrines cathares. Il fonda un couvent à Brive-la-Gaillarde. De retour en Italie, il mourut à Padoue après y avoir prêché le Carême (1231).",
+    "de": "Der heilige Antonius wurde in Lissabon am Ende des 12. Jh. geboren, trat zunächst bei den Augustinerchorherren ein und schloss sich kurz nach seiner Priesterweihe den Franziskanern an, mit dem Wunsch den Glauben in Afrika zu verkünden. Letztlich wurden jedoch Frankreich und Italien zu den Orten an den Antonius mit großem Erfolg als Prediger wirkte und vielen Häretikern zur Umkehr verhalf. Er war der erste Lehrer der Theologie seines Ordens und verfasste viele Predigten. Er starb in Padua im Jahr 1231."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Omnípotens sempitérne Deus, qui pópulo tuo beátum Antónium prædicatórem insígnem dedísti, atque in necessitátibus intercessórem, concéde, ut, eius auxílio, christiánæ vitæ documénta sectántes, in ómnibus adversitátibus te subveniéntem sentiámus. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios todopoderoso y eterno,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que en san Antonio de Padua has dado a tu pueblo un predicador insigne y un intercesor en las necesidades,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "con su ayuda,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "seguir las enseñanzas de la vida cristiana y experimentar tu protección en todas las adversidades."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Almighty ever-living God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who gave Saint Anthony of Padua to your people as an outstanding preacher and an intercessor in their need,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that, with his assistance,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "as we follow the teachings of the Christian life,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may know your help in every trial."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus eterno e todo-poderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que destes ao vosso povo Santo Antônio como insigne pregador e intercessor nas necessidades,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei, por seu auxílio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, seguindo os ensinamentos da vida cristã,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sintamos a vossa ajuda em todas as adversidades."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dio onnipotente ed eterno, che in sant’Antonio [di Padova] hai dato al tuo popolo un insigne predicatore e un patrono dei poveri e dei sofferenti, fa' che per sua intercessione seguiamo gli insegnamenti del Vangelo e sperimentiamo nella prova il soccorso della tua misericordia. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu éternel et tout-puissant,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en saint Antoine de Padoue,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as donné à ton peuple un grand prédicateur de l’Évangile et un recours en toute nécessité ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "permets qu’avec son aide,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et fidèles à ses leçons de vie chrétienne,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous ressentions dans toutes nos épreuves le bienfait de ton secours."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger, ewiger Gott, du hast deiner Kirche im heiligen Antonius von Padua einen machtvollen Verkünder des wahren Glaubens und einen Helfer in der Not geschenkt. Gib, dass wir nach seinem Vorbild ein christliches Leben führen und in allen Nöten deine Hilfe erfahren. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Is 61, 1-3a",
+              "es": "Is 61, 1-3a",
+              "en-US": "Is 61:1-3.6.8-9",
+              "pt-BR": "Is 61, 1-3a",
+              "it": "Is 61,1-3",
+              "fr": "Is 61, 1-3a",
+              "de": "Jes 61, 1-3a"
+            },
+            "introduction": {
+              "la": "Léctio libri Isaíæ prophétæ",
+              "es": "Lectura del libro de Isaías",
+              "en-US": "A reading from the Book of the Prophet Isaiah",
+              "pt-BR": "Leitura do Livro do Profeta Isaías",
+              "it": "Dal libro del profeta Isaia",
+              "fr": "Livre d’Isaïe",
+              "de": "Lesung aus dem Buch Jesája"
+            },
+            "summary": {
+              "la": "Unxit me Dóminus et evangelizare pauperibus misit me (cf. Lc 4, 18).",
+              "es": "El Señor me ha ungido y me ha enviado para dar la buena noticia a los pobres",
+              "pt-BR": "O Senhor me ungiu e enviou-me para dar a boa nova aos humildes.",
+              "it": "II Signore mi ha consacrato con l’unzione; mi ha mandato a portare il lieto annuncio ai miseri."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Spíritus Dómini Dei super me, eo quod únxerit Dóminus me; ad annuntiándum læta mansuétis misit me, ut medérer contrítis corde et prædicárem captívis liberatiónem et clausis apertiónem; ut prædicárem annum placábilem Dómino et diem ultiónis Deo nostro; ut consolárer omnes lugéntes, ut pónerem lugéntibus Sion et darem eis corónam pro cínere, óleum gáudii pro luctu, pállium laudis pro spíritu mæróris."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Espíritu del Señor está sobre mí, porque el Señor me ha ungido. Me ha enviado para dar la buena noticia a los pobres, para curar los corazones desgarrados, proclamar la amnistía a los cautivos, y a los prisioneros la libertad; para proclamar un año de gracia del Señor, un día de venganza de nuestro Dios, para consolar a los afligidos, para dar a los afligidos de Sion una diadema en lugar de cenizas, perfume de fiesta en lugar de duelo, un vestido de alabanza en lugar de un espíritu abatido."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The spirit of the Lord has been given to me, for the Lord has anointed me. He has sent me to bring good news to the poor, to bind up hearts that are broken; to proclaim liberty to captives, freedom to those in prison; to proclaim a year of favour from the Lord, a day of vengeance for our God, to comfort all those who mourn and to give them for ashes a garland; for mourning robe the oil of gladness, for despondency, praise. But you, you will be named 'priests of the Lord', they will call you 'ministers of our God'. I reward them faithfully and make an everlasting covenant with them. Their race will be famous throughout the nations, their descendants throughout the peoples. All who see them will admit that they are a race whom the Lord has blessed."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu; enviou-me para dar a boa-nova aos humildes, curar as feridas da alma, pregar a redenção para os cativos e a liberdade para os que estão presos; para proclamar o tempo da graça do Senhor e o dia da vingança do nosso Deus; para consolar todos os que choram, para reservar e dar aos que sofrem por Sião uma coroa, em vez de cinza, o óleo da alegria, em vez da aflição."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lo spirito del Signore Dio è su di me perché il Signore mi ha consacrato con l’unzione; mi ha mandato a portare il lieto annunzio ai miseri, a fasciare le piaghe dei cuori spezzati, a proclamare la libertà degli schiavi, la scarcerazione dei prigionieri, a promulgare l’anno di misericordia del Signore, un giorno di vendetta per il nostro Dio, per consolare tutti gli afflitti, per allietare gli afflitti di Sion, per dare loro una corona invece della cenere, olio di letizia invece dell’abito da lutto, canto di lode invece di un cuore mesto. Essi si chiameranno querce di giustizia, piantagione del Signore per manifestare la sua gloria."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’esprit du Seigneur Dieu est sur moi parce que le Seigneur m’a consacré par l’onction. Il m’a envoyé annoncer la bonne nouvelle aux humbles, guérir ceux qui ont le cœur brisé, proclamer aux captifs leur délivrance, aux prisonniers leur libération, proclamer une année de bienfaits accordée par le Seigneur, et un jour de vengeance pour notre Dieu, consoler tous ceux qui sont en deuil, ceux qui sont en deuil dans Sion, mettre le diadème sur leur tête au lieu de la cendre, l’huile de joie au lieu du deuil, un habit de fête au lieu d’un esprit abattu."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Geist Gottes, des Herrn, ruht auf mir; denn der Herr hat mich gesalbt. Er hat mich gesandt, damit ich den Armen eine frohe Botschaft bringe und alle heile, deren Herz zerbrochen ist, damit ich den Gefangenen die Entlassung verkünde und den Gefesselten die Befreiung, damit ich ein Gnadenjahr des Herrn ausrufe, einen Tag der Vergeltung unseres Gottes, damit ich alle Trauernden tröste, die Trauernden Zions erfreue, ihnen Schmuck bringe anstelle von Schmutz, Freudenöl statt Trauergewand, Jubel statt der Verzweiflung."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 88, 2-3. 4-5. 21-22. 25 et 27",
+              "es": "Sal 88, 2-3. 4-5. 21-22. 25 y 27",
+              "en-US": "Ps 88:2-3, 4-5, 21-22, 25 and 27",
+              "pt-BR": "Sl 88, 2-3. 4-5. 21-22. 25 et 27",
+              "it": "Sal 88, 2-3. 4-5. 21-22. 25 et 27",
+              "fr": "Ps 88, 2-3. 4-5. 21-22. 25 et 27",
+              "de": "Ps 89"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Misericórdias tuas, Dómine, in ætérnum cantábo."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Cantaré eternamente tus misericordias, Señor."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "For ever I will sing the goodness of the Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ó Senhor, eu cantarei eternamente vosso amor!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Canterò per sempre L’amore del Signore."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ton amour, Seigneur, sans fin je le chante !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Von den Taten deiner Huld, o Herr, will ich ewig singen."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Misericórdias Dómini in ætérnum cantábo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quóniam dixísti:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "«In ætérnum misericórdia ædificábitur»,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in cælis firmábitur véritas tua."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dispósui testaméntum elécto meo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "iurávi David servo meo:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Usque in ætérnum confirmábo semen tuum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et ædificábo in generatiónem et generatiónem sedem tuam."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Invéni David servum meum;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "óleo sancto meo unxi eum."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Manus enim mea firma erit cum eo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et bráchium meum confortábit eum."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Et véritas mea et misericórdia mea cum ipso et in nómine meo exaltábitur cornu eius."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ipse invocábit me: Pater meus es tu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deus meus et refúgium salútis meæ."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantaré eternamente las misericordias del Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "anunciaré tu fidelidad por todas las edades."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Porque dijiste: «La misericordia es un edificio eterno»,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "más que el cielo has afianzado tu fidelidad."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "«Sellé una alianza con mi elegido,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "jurando a David, mi siervo:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Te fundaré un linaje perpetuo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "edificaré tu trono para todas las edades»."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Encontré a David, mi siervo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y lo he ungido con óleo sagrado;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "para que mi mano esté siempre con él y mi brazo lo haga valeroso."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mi fidelidad y misericordia lo acompañarán,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "por mi nombre crecerá su poder."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Él me invocará: «Tú eres mi padre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mi Dios, mi Roca salvadora»."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I will sing for ever of your love, O Lord; through all ages my mouth will proclaim your truth. Of this I am sure, that your love lasts for ever, that your truth is firmly established as the heavens."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "‘I have made a covenant with my chosen one; I have sworn to David my servant:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "I will establish your dynasty for ever and set up your throne through all ages."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "‘I have found David my servant and with my holy oil anointed him. My hand shall always be with him and my arm shall make him strong."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "‘My truth and my love shall be with him; by my name his might shall be exalted. He will say to me: ‘You are my father, my God, the rock who saves me.'"
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ó Senhor, eu cantarei eternamente o vosso amor, de geração em geração eu cantarei vossa verdade! Porque dissestes: \"O amor é garantido para sempre\"!E a vossa lealdade é tão firme como os céus."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "\"Eu firmei uma Aliança com meu servo, meu eleito, e eu fiz um juramento a Davi, meu servidor. Para sempre, no teu trono, firmarei tua linhagem, de geração em geração garantirei o teu reinado!\"."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Encontrei e escolhi a Davi, meu servidor, e o ungi, para ser rei, com meu óleo consagrado. Estará sempre com ele minha mão onipotente, e meu braço poderoso há de ser a sua força."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Minha verdade e meu amor estarão sempre com ele, sua força e seu poder por meu nome crescerão. Ele, então, me invocará:'\"Ó Senhor, vos sois mei Pai, sois meu Deus, sois meu Rochedo onde encontro a salvação!\""
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Canterò in eterno l’amore del Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "di generazione in generazione farò conoscere con la mia bocca la tua fedeltà,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "perché ho detto: «È un amore edificato per sempre;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nel cielo rendi stabile la tua fedeltà»."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "«Ho stretto un’alleanza con il mio eletto,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ho giurato a Davide, mio servo."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Stabilirò per sempre la tua discendenza,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "di generazione in generazione edificherò il tuo trono."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ho trovato Davide, mio servo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "con il mio santo olio l’ho consacrato;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la mia mano è il suo sostegno,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il mio braccio è la sua forza."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "La mia fedeltà e il mio amore saranno con lui e nel mio nome s’innalzerà la sua fronte."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Egli mi invocherà: \"Tu sei mio padre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mio Dio e roccia della mia salvezza\"»."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’amour du Seigneur, sans fin je le chante ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ta fidélité, je l’annonce d’âge en âge."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Je le dis : C’est un amour bâti pour toujours ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ta fidélité est plus stable que les cieux."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "\" Avec mon élu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "j’ai fait une alliance,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "j’ai juré à David, mon serviteur :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "j’établirai ta dynastie pour toujours,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "je te bâtis un trône pour la suite des âges. \""
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "\" J’ai trouvé David, mon serviteur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "je l’ai sacré avec mon huile sainte ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et ma main sera pour toujours avec lui,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mon bras fortifiera son courage."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "\" Mon amour et ma fidélité sont avec lui,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mon nom accroît sa vigueur ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il me dira : \"Tu es mon Père,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mon Dieu, mon roc et mon salut !« »"
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Von den Taten deiner Huld, Herr, will ich ewig singen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "bis zum fernsten Geschlecht laut deine Treue verkünden."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denn ich bekenne: Deine Huld besteht für immer und ewig;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "deine Treue steht fest im Himmel."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Einst hast du in einer Vision zu deinen Frommen gesprochen:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "„Ich habe einen Bund geschlossen mit meinem Erwählten und David, meinem Knecht,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "geschworen:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deinem Haus gebe ich auf ewig Bestand,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "und von Geschlecht zu Geschlecht richte ich deinen Thron auf."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich habe David, meinen Knecht, gefunden und ihn mit meinem heiligen Öl gesalbt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beständig wird meine Hand ihn halten und mein Arm ihn stärken."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Meine Treue und meine Huld begleiten ihn,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "und in meinem Namen erhebt er sein Haupt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er wird zu mir rufen: Mein Vater bist du,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mein Gott, der Fels meines Heiles.“"
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

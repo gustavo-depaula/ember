@@ -1,0 +1,108 @@
+{
+  "id": "sanctorale.01-03.france",
+  "kind": "sanctoral",
+  "scope": "france",
+  "structure": "mass",
+  "title": {
+    "fr": "Sainte Geneviève, vierge"
+  },
+  "description": {
+    "fr": "Née à Nanterre vers 420, Geneviève menait à Paris la vie retirée des vierges consacrées, dans le jeûne, la prière et le silence. En 451, elle réconforta les Parisiens effrayés par l’avance d’Attila. Plus tard, elle devait ravitailler Paris menacé de famine. A sa mort, vers 500, on l’inhuma sur la colline devenue depuis lors la Montagne-Sainte-Geneviève."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Répands sur nous, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "l’esprit d’intelligence et d’amour"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dont tu as rempli sainte Geneviève, ta servante :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais que nous imitions avec empressement"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sa fidélité et son obéissance,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et que nous sachions te plaire"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par notre foi et toute notre vie."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.01-03.france.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Commun des vierges : 1 2 3, ou des saints : éducateurs."
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

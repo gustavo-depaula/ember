@@ -1,0 +1,366 @@
+{
+  "id": "sanctorale.07-13.chile",
+  "kind": "sanctoral",
+  "scope": "chile",
+  "structure": "mass",
+  "title": {
+    "es": "Santa Teresa de Jesús de los Andes, virgen"
+  },
+  "color": "white",
+  "rank": "feast",
+  "cycleScheme": "fixed",
+  "includeGloria": true,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Esta es una Virgen sabia y prudente, que salió a recibir a Cristo con la lámpara encendida."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios misericordioso, alegría de los santos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que encendiste el corazón juvenil"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de santa Teresa (de Jesús de los Andes)"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "con el fuego del amor virginal a Cristo y a su Iglesia"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y la hiciste testigo gozoso de la caridad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "aun en medio de los sufrimientos;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por su intercesión, que también nosotros"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "proclamemos de palabra y de obra el Evangelio de la caridad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo, tu Hijo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que vive y reina contigo en la unidad del Espíritu Santo"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y es Dios, por los siglos de los siglos."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te pedimos, Señor, que te dignes santificar estas ofrendas"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y, por la intercesión de santa Teresa (de Jesús de los Andes)"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que se ofreció a ti como sacrificio espiritual,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concede a tu pueblo los dones de la perfecta reconciliación y de la paz"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.07-13.chile.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo nuestro Señor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque Él, maestro divino y modelo de perfección,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "atrajo amorosamente desde su tierna infancia"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a santa Teresa (de Jesús de los Andes),"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para hacerla participe de la verdad del Evangelio"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "que ocultas a los sabios y prudentes"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y revelas a los pequeños del Reino."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ella, consagrada a la vida de oración en favor de la Iglesia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te ofreció un eximio sacrificio de alabanza"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y fue testimonio vivo de las riquezas de tu Hijo"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y del gozo en el Espíritu Santo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "como los ángeles te cantan en el cielo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "así nosotros en la tierra te aclamamos"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "diciendo sin cesar:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Como el Padre me ha amado, así los he amado yo, dice el Señor"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Permanezcan en mi amor."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Jn 15, 9"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Habiendo recibido los sagrados misterios"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "del precioso Cuerpo y Sangre de tu Hijo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos humildemente, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que siguiendo el ejemplo de santa Teresa (de Jesús de los Andes)"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te alabemos siempre"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y te sirvamos con alegría y generosidad en nuestros hermanos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

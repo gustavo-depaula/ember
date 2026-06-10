@@ -1,0 +1,64 @@
+{
+  "id": "sanctorale.11-13.spain",
+  "kind": "sanctoral",
+  "scope": "spain",
+  "structure": "mass",
+  "title": {
+    "es": "San Leandro, obispo"
+  },
+  "description": {
+    "es": "Leandro, arzobispo de Sevilla, hermano de los santos Fulgencio, Florentina e Isidoro, presidió el Concilio III de Toledo (año 589), en el que se logró la conversión del rey visigodo Recaredo y la unidad católica de la nación. Murió hacia el año 600, y su cuerpo fue trasladado a la catedral hispalense."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que por medio de tu obispo san Leandro"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mantuviste en tu Iglesia la integridad de la fe,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concede a tu pueblo"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "permanecer siempre libre de todos los errores."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

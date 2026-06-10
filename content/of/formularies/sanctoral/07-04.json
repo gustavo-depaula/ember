@@ -1,0 +1,1609 @@
+{
+  "id": "sanctorale.07-04",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Elisabeth Lusitaniæ",
+    "es": "Santa Isabel de Portugal",
+    "en-US": "Saint Elizabeth of Portugal",
+    "pt-BR": "Santa Isabel de Portugal",
+    "it": "SANTA ELISABETTA DI PORTOGALLO",
+    "fr": "Sainte Élisabeth de Portugal",
+    "de": "Hl. Elisabeth von Portugal"
+  },
+  "description": {
+    "la": "Aragoniæ regibus orta, nata est anno 1271; puellula regi Lusitaniæ nuptui tradita, duos peperit filios. Ærumnas et difficultates fortiter sustinuit orando et ópera caritatis exercendo. Viro defuncto, bona pauperibus distribuit et habitum Tertii Ordinis S. Francisci suscepit. Dum pacem firmaret inter fílium et generum, morte occubuit anno 1336.",
+    "es": "Nació el año 1271, hija del rey Pedro III de Aragón. Cuando era aún casi una niña, fue dada en matrimonio al rey de Portugal, del que tuvo dos hijos. Fortalecida con la oración y la práctica de la caridad, soportó infinidad de tribulaciones y dificultades. Al morir su esposo, distribuyó sus bienes entre los pobres y recibió el hábito de terciaria franciscana. Murió el año 1336, mientras se esforzaba por restablecer la paz entre su hijo y su yerno.",
+    "pt-BR": "Isabel de Aragão (por volta do ano de 1271 - Estremoz, Portugal, 4 de julho de 1336) era filha de Pedro, futuro rei de Aragão. Aos doze anos, esposa de Diniz, rei de Portugal, suportou com heroica abnegação provações e dificuldades, e agiu como anjo de paz para acalmar graves dissídios surgidos no âmbito da família e do reino. Ficando viúva em 1325, fez-se terceira franciscana e viveu os últimos anos no colóquio com Deus e na caridade para com os pobres.",
+    "it": "Elisabetta (Spagna, 1269/1270 - Estremoz, Portogallo, 4 luglio 1336), figlia di Pietro, futuro re di Aragona, fu data in sposa, dodicenne, a Dionigi re del Portogallo. Sostenne coraggiosamente la difficile convivenza matrimoniale, rendendosi operatrice di riconciliazione nei gravi dissidi che turbarono la famiglia e il regno. Rimasta vedova, si fece terziaria francescana, dedicandosi totalmente alla preghiera e alla carità verso i poveri.",
+    "fr": "Élisabeth d’Aragon (1271-1336), épouse du roi Denis de Portugal, fut une épouse et une mère malheureuse. Bafouée par un mari jouisseur, elle perdit sa fille et son gendre, et elle vit son fils se révolter contre le roi. Au milieu de ses épreuves, elle priait, jeûnait, tentait de faire la paix. Devenue veuve, elle mourut sous l’habit du tiers-ordre franciscain.",
+    "de": "Sie wurde 1271, als Tochter des Königs Peter III. von Aragón, geboren. Noch als junges Mädchen wurde sie mit dem König von Portugal verheiratet und hatte mit ihm zwei Kinder. Gestärkt durch den Glauben und die Verrichtung von Werken der Nächstenliebe, ertrug sie eine Vielzahl von Widerwärtigkeiten und Schwierigkeiten. Nach dem Tod ihres Mannes verteilte sie alle ihren Besitz unter den Armen und schloss sich als Terziarin den Klarissen von Coímbra an. Bis zu ihrem Lebensende bemühte sie sich um den Frieden zwischen ihrem Sohn und Schwiegersohn. Sie starb 1336."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, auctor pacis et amátor caritátis, qui beátam Elísabeth mira dissidéntes componéndi grátia decorásti, da nobis, eius intercessióne, pacis ópera exercére, ut fílii Dei nominári possímus. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que creas la paz y amas la caridad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "haciendo brillar a santa Isabel de Portugal con la gracia admirable de reconciliar a los enemigos;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por su intercesión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ser constructores de paz para que podamos ser llamados hijos de Dios."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, author of peace and lover of charity,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who adorned Saint Elizabeth of Portugal with a marvelous grace for reconciling those in conflict,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, through her intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we may become peacemakers,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and so be called children of God."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, autor da paz e fonte da caridade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que destes a Santa Isabel de Portugal a graça de reconciliar os desunidos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos, por sua intercessão, trabalhar pela paz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que possamos ser chamados filhos de Deus."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, fonte della pace e amante della carità, che hai arricchito santa Elisabetta [di Portogallo] del mirabile dono di riconciliare tra loro i nemici, concedi a noi, per sua intercessione, di essere operatori di pace,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "perché possiamo chiamarci tuoi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, source de la paix, toi qui aimes la charité,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as donné à sainte Élisabeth de Portugal une grâce merveilleuse pour réconcilier les adversaires ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous, à son intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de travailler au service de la paix,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et de pouvoir ainsi être appelés enfants de Dieu."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Ursprung der Liebe und des Friedens, du hast der heiligen Königin Elisabeth von Portugal die Gnade verliehen, Feinde miteinander zu versöhnen."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Auf ihre Fürbitte lehre auch uns, Frieden zu stiften, damit wir uns als deine Kinder erweisen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Mt 25, 31-46",
+              "es": "Mt 25, 31-46",
+              "en-US": "Mt 25:31-46",
+              "pt-BR": "Mt 25, 31-46",
+              "it": "Mt 25, 31-46",
+              "fr": "Mt 25, 31-46",
+              "de": "Mt 25, 31-46"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Matthǽum",
+              "es": "✠ Lectura del santo Evangelio según san Mateo",
+              "en-US": "✠ A reading from the holy Gospel according to Matthew",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+              "it": "✠ Dal Vangelo secondo Matteo",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Matthieu",
+              "de": "✠ Aus dem heiligen Evangelium nach Matthäus"
+            },
+            "summary": {
+              "la": "Quamdiu fecistis fratribus meis minimis, mihi fecistis.",
+              "es": "Cada vez que lo hicisteis con mis hermanos más pequeños, conmigo lo hicisteis",
+              "pt-BR": "Todas as vezes que fizestes isso a um dos menores de meus irmãos foi a mim que o fizestes.",
+              "it": "Tutto quello che avete fatto a uno solo di questi miei fratelli più piccoli, l’avete fatto a me."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dixit Iesus discípulis suis: «Cum vénerit Fílius hóminis in glória sua, et omnes ángeli cum eo, tunc sedébit super thronum glóriæ suæ. Et congregabúntur ante eum omnes gentes; et separábit eos ab ínvicem, sicut pastor ségregat oves ab hædis, et státuet oves quidem a dextris suis, hædos autem a sinístris. Tunc dicet Rex his, qui a dextris eius erunt: “Veníte, benedícti Patris mei; possidéte parátum vobis regnum a constitutióne mundi. Esurívi enim, et dedístis mihi manducáre; sitívi, et dedístis mihi bíbere; hospes eram, et collegístis me; nudus, et operuístis me; infírmus, et visitástis me; in cárcere eram, et venístis ad me”. Tunc respondébunt ei iusti dicéntes: “Dómine, quando te vídimus esuriéntem et pávimus, aut sitiéntem et dédimus tibi potum? Quando autem te vídimus hóspitem et collégimus, aut nudum et cooperúimus? Quando autem te vídimus infírmum aut in cárcere et vénimus ad te?”. Et respóndens Rex dicet illis: “Amen dico vobis: Quámdiu fecístis uni de his frátribus meis mínimis, mihi fecístis”. Tunc dicet et his, qui a sinístris erunt: “Discédite a me, maledícti, in ignem ætérnum, qui præparátus est Diábolo et ángelis eius. Esurívi enim, et non dedístis mihi manducáre; sitívi, et non dedístis mihi potum; hospes eram, et non collegístis me; nudus, et non operuístis me; infírmus et in cárcere, et non visitástis me”. Tunc respondébunt et ipsi dicéntes: “Dómine, quando te vídimus esuriéntem aut sitiéntem aut hóspitem aut nudum aut infírmum vel in cárcere et non ministrávimus tibi?”. Tunc respondébit illis dicens: “Amen dico vobis: Quámdiu non fecístis uni de mínimis his, nec mihi fecístis”. Et ibunt hi in supplícium ætérnum, iusti autem in vitam ætérnam»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, dijo Jesús a sus discípulos: «Cuando venga en su gloria el Hijo del hombre, y todos los ángeles con él, se sentará en el trono de su gloria y serán reunidas ante él todas las naciones. Él separará a unos de otros, como un pastor separa las ovejas de las cabras. Y pondrá las ovejas a su derecha y las cabras a su izquierda. Entonces dirá el rey a los de su derecha: “Venid vosotros, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo. Porque tuve hambre y me disteis de comer, tuve sed y me disteis de beber, fui forastero y me hospedasteis, estuve desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme”. Entonces los justos le contestarán: “Señor, ¿cuándo te vimos con hambre y te alimentamos, o con sed y te dimos de beber?; ¿cuándo te vimos forastero y te hospedamos, o desnudo y te vestimos?; ¿cuándo te vimos enfermo o en la cárcel y fuimos a verte?”. Y el rey les dirá: “En verdad os digo que cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis”. Entonces dirá a los de su izquierda: “Apartaos de mí, malditos, id al fuego eterno preparado para el diablo y sus ángeles. Porque tuve hambre y no me disteis de comer, tuve sed y no me disteis de beber, fui forastero y no me hospedasteis, estuve desnudo y no me vestisteis, enfermo y en la cárcel y no me visitasteis”. Entonces también estos contestarán: “Señor, ¿cuándo te vimos con hambre o con sed, o forastero o desnudo, o enfermo o en la cárcel, y no te asistimos?”. Él les replicará: “En verdad os digo: lo que no hicisteis con uno de estos, los más pequeños, tampoco lo hicisteis conmigo”. Y estos irán al castigo eterno y los justos a la vida eterna»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jesus said to his disciples: When the Son of Man comes in his glory, escorted by all the angels, then he will take his seat on his throne of glory. All the nations will be assembled before him and he will separate men one from another as the shepherd separates sheep from goats. He will place the sheep on his right hand and the goats on his left. Then the King will say to those on his right hand, \"Come, you whom my Father has blessed, take for your heritage the kingdom prepared for you since the foundation of the world. For I was hungry and you gave me food; I was thirsty and you gave me drink; I was a stranger and you made me welcome; naked and you clothed me, sick and you visited me, in prison and you came to see me.\" Then the virtuous will say to him in reply, \"Lord, when did we see you hungry and feed you; or thirsty and give you drink? When did we see you a stranger and make you welcome; naked and clothe you; sick or in prison and go to see you?\" And the King will answer, \"I tell you solemnly, in so far as you did this to one of the least of these brothers of mine, you did it to me\". Next he will say to those on his left hand, \"Go away from me, with your curse upon you, to the eternal fire prepared for the devil and his angels. For I was hungry and you never gave me food; I was thirsty and you never gave me anything to drink; I was a stranger and you never made me welcome, naked and you never clothed me, sick and in prison and you never visited me.\" Then it will be their turn to ask, \"Lord, when did we see you hungry or thirsty, a stranger or naked, sick or in prison, and did not come to your help?\" Then he will answer, \"I tell you solemnly, in so far as you neglected to do this to one of the least of these, you neglected to do it to me\". And they will go away to eternal punishment, and the virtuous to eternal life.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, disse Jesus a seus discípulos: \"Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso. Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos. E colocará as ovelhas à sua direita e os cabritos à sua esquerda. Então o Rei dirá aos que estiverem à sua direita: \"Vinde benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo! Pois eu estava com fome e me destes de comer; eu estava com sede e me destes de beber; eu era estrangeiro e me recebestes em casa; eu estava nu e me vestistes; eu estava doente e cuidastes de mim; eu estava na prisão e fostes me visitar\". Então os justos lhe perguntarão: \"Senhor, quando foi que te vimos com fome e te demos de comer? Com sede e te demos de beber? Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos? Quando foi que te vimos doente ou preso, e fomos te visitar?\" Então o Rei lhes responderá: \"Em verdade eu vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!\" Depois o Rei dirá aos que estiverem à sua esquerda: \"Afastai-vos de mim, malditos! Ide para o fogo eterno, preparado para o diabo e para os seus anjos. Pois eu estava com fome e não me destes de comer; eu estava com sede e não me destes de beber; eu era estrangeiro e não me recebestes em casa; eu estava nu e não me vestistes; eu estava doente e na prisão e não fostes me visitar\". E responderão também eles: \"Senhor, quando foi que te vimos com fome, ou com sede, como estrangeiro, ou nu, doente ou preso, e não te servimos?\" Então o Rei lhes responderá: \"Em verdade eu vos digo, todas as vezes que não fizestes isso a um desses pequeninos, foi a mim que não o fizestes!\" Portanto, estes irão para o castigo eterno, enquanto os justos irão para a vida eterna\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù disse ai suoi discepoli: «Quando il Figlio dell’uomo verrà nella sua gloria, e tutti gli angeli con lui, siederà sul trono della sua gloria. Davanti a lui verranno radunati tutti i popoli. Egli separerà gli uni dagli altri, come il pastore separa le pecore dalle capre, e porrà le pecore alla sua destra e le capre alla sinistra. Allora il re dirà a quelli che saranno alla sua destra: \"Venite, benedetti del Padre mio, ricevete in eredità il regno preparato per voi fin dalla creazione del mondo, perché ho avuto fame e mi avete dato da mangiare, ho avuto sete e mi avete dato da bere, ero straniero e mi avete accolto, nudo e mi avete vestito, malato e mi avete visitato, ero in carcere e siete venuti a trovarmi\". Allora i giusti gli risponderanno: \"Signore, quando ti abbiamo visto affamato e ti abbiamo dato da mangiare, o assetato e ti abbiamo dato da bere? Quando mai ti abbiamo visto straniero e ti abbiamo accolto, o nudo e ti abbiamo vestito? Quando mai ti abbiamo visto malato o in carcere e siamo venuti a visitarti?\" E il re risponderà loro: \"In verità io vi dico: tutto quello che avete fatto a uno solo di questi miei fratelli più piccoli, l’avete fatto a me\". Poi dirà anche a quelli che saranno alla sinistra: \"Via, lontano da me, maledetti, nel fuoco eterno, preparato per il diavolo e per i suoi angeli, perché ho avuto fame e non mi avete dato da mangiare, ho avuto sete e non mi avete dato da bere, ero straniero e non mi avete accolto, nudo e non mi avete vestito, malato e in carcere e non mi avete visitato\". Anch’essi allora risponderanno: \"Signore, quando ti abbiamo visto affamato o assetato o straniero o nudo o malato o in carcere, e non ti abbiamo servito?\" Allora egli risponderà loro: \"In verità io vi dico: tutto quello che non avete fatto a uno solo di questi più piccoli, non l’avete fatto a me\". E se ne andranno: questi al supplizio eterno, i giusti invece alla vita eterna»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait à ses disciples : « Quand le Fils de l’homme viendra dans sa gloire, et tous les anges avec lui, alors il siégera sur son trône de gloire. Toutes les nations seront rassemblées devant lui ; il séparera les hommes les uns des autres, comme le berger sépare les brebis des boucs : il placera les brebis à sa droite, et les boucs à gauche. Alors le Roi dira à ceux qui seront à sa droite : »Venez, les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde. Car j’avais faim, et vous m’avez donné à manger ; j’avais soif, et vous m’avez donné à boire ; j’étais un étranger, et vous m’avez accueilli ; j’étais nu, et vous m’avez habillé ; j’étais malade, et vous m’avez visité ; j’étais en prison, et vous êtes venus jusqu’à moi !« Alors les justes lui répondront : »Seigneur, quand est-ce que nous t’avons vu... ? tu avais donc faim, et nous t’avons nourri ? tu avais soif, et nous t’avons donné à boire ? tu étais un étranger, et nous t’avons accueilli ? tu étais nu, et nous t’avons habillé ? tu étais malade ou en prison... Quand sommes-nous venus jusqu’à toi ?« Et le Roi leur répondra : »Amen, je vous le dis : chaque fois que vous l’avez fait à l’un de ces plus petits de mes frères, c’est à moi que vous l’avez fait.« Alors il dira à ceux qui seront à sa gauche : »Allez-vous-en loin de moi, vous les maudits, dans le feu éternel préparé pour le diable et ses anges. Car j’avais faim, et vous ne m’avez pas donné à manger ; j’avais soif, et vous ne m’avez pas donné à boire ; j’étais un étranger, et vous ne m’avez pas accueilli ; j’étais nu, et vous ne m’avez pas habillé ; j’étais malade et en prison, et vous ne m’avez pas visité.« Alors ils répondront, eux aussi : »Seigneur, quand t’avons-nous vu avoir faim, avoir soif, être nu, étranger, malade ou en prison, sans nous mettre à ton service ?« Il leur répondra : »Amen, je vous le dis : chaque fois que vous ne l’avez pas fait à l’un de ces plus petits, c’est à moi que vous ne l’avez pas fait.« Et ils s’en iront, ceux-ci au châtiment éternel, et les justes, à la vie éternelle. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sprach Jesus zu seinen Jüngern: Wenn der Menschensohn in seiner Herrlichkeit kommt und alle Engel mit ihm, dann wird er sich auf den Thron seiner Herrlichkeit setzen. Und alle Völker werden vor ihm zusammengerufen werden, und er wird sie voneinander scheiden, wie der Hirt die Schafe von den Böcken scheidet. Er wird die Schafe zu seiner Rechten versammeln, die Böcke aber zur Linken. Dann wird der König denen auf der rechten Seite sagen: Kommt her, die ihr von meinem Vater gesegnet seid, nehmt das Reich in Besitz, das seit der Erschaffung der Welt für euch bestimmt ist. Denn ich war hungrig, und ihr habt mir zu essen gegeben; ich war durstig, und ihr habt mir zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich aufgenommen; ich war nackt, und ihr habt mir Kleidung gegeben; ich war krank, und ihr habt mich besucht; ich war im Gefängnis, und ihr seid zu mir gekommen. Dann werden ihm die Gerechten antworten: Herr, wann haben wir dich hungrig gesehen und dir zu essen gegeben, oder durstig und dir zu trinken gegeben? Und wann haben wir dich fremd und obdachlos gesehen und aufgenommen, oder nackt und dir Kleidung gegeben? Und wann haben wir dich krank oder im Gefängnis gesehen und sind zu dir gekommen? Darauf wird der König ihnen antworten: Amen, ich sage euch: Was ihr für einen meiner geringsten Brüder getan habt, das habt ihr mir getan. Dann wird er sich auch an die auf der linken Seite wenden und zu ihnen sagen: Weg von mir, ihr Verfluchten, in das ewige Feuer, das für den Teufel und seine Engel bestimmt ist! Denn ich war hungrig, und ihr habt mir nichts zu essen gegeben; ich war durstig, und ihr habt mir nichts zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich nicht aufgenommen; ich war nackt, und ihr habt mir keine Kleidung gegeben; ich war krank und im Gefängnis, und ihr habt mich nicht besucht. Dann werden auch sie antworten: Herr, wann haben wir dich hungrig oder durstig oder obdachlos oder nackt oder krank oder im Gefängnis gesehen und haben dir nicht geholfen? Darauf wird er ihnen antworten: Amen, ich sage euch: Was ihr für einen dieser Geringsten nicht getan habt, das habt ihr auch mir nicht getan. Und sie werden weggehen und die ewige Strafe erhalten, die Gerechten aber das ewige Leben."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf052",
+      "label": {
+        "la": "PRÆFATIO I DE SANCTIS",
+        "es": "PREFACIO I DE LOS SANTOS",
+        "en-US": "Preface I of Saints",
+        "pt-BR": "Prefácio dos Santos I a",
+        "it": "PREFAZIO DEI SANTI I",
+        "fr": "PRÉFACE DES SAINTS N°1",
+        "de": "PRÄFATION VON DEN HEILIGEN I"
+      },
+      "excerpt": {
+        "la": "De glória Sanctorum",
+        "es": "La gloria de los santos",
+        "en-US": "The glory of the Saints",
+        "pt-BR": "glória dos Santos",
+        "it": "La gloria dei santi",
+        "fr": "La gloire des saints",
+        "de": "Die Glorie der Heiligen und die Gläubigen"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis «de ómnibus Sanctis», de Sanctis Patronis et Titularibus ecclesiæ, et in sollemnitatibus et festis Sanctorum, nisi præfatio magis propria sit dicenda. Dici potest in memoriis Sanctorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui in Sanctórum concílio celebráris,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et eórum coronándo mérita tua dona corónas."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui nobis eórum conversatióne largíris exémplum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et communióne consórtium, et intercessióne subsídium;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut, tantis téstibus confirmáti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ad propósitum certámen currámus invícti et immarcescíbilem cum eis corónam glóriæ consequámur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque multíplici congregatióne Sanctórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en la Misa votiva de todos los Santos, de los Santos Patronos y Titulares de la Iglesia, y en las solemnidades y fiestas de los Santos cuando no tengan un prefacio más apropiado. También pueden decirse en las memorias de los Santos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque eres glorificado en la asamblea de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y, al coronar sus méritos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "coronas tus propios dones."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tú nos ofreces el ejemplo de su vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la ayuda de su intercesión y la participación en su destino;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, animados por tan abundantes testigos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cubramos sin desfallecer la carrera que nos corresponde y alcancemos, con ellos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la corona de gloria que no se marchita,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y los arcángeles y con la variada asamblea de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of All Saints, of Patron Saints and of Saints who are Titulars of a church, and on Solemnities and Feasts of Saints, unless a proper Preface is to be said. This Preface may be said also on Memorials of Saints."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you are praised in the company of your Saints and, in crowning their merits, you crown your own gifts."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "By their way of life you offer us an example,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by communion with them you give us companionship,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by their intercession, sure support,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that, encouraged by so great a cloud of witnesses,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we may run as victors in the race before us and win with them the imperishable crown of glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with the great multitude of the Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas de \"Todos os Santos\", dos Padroeiros e Titulares de igreja, nas solenidades e festas dos Santos, se não houver outro prefácio mais apropriado. Pode ser usado também nas memórias dos Santos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na assembleia dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vós sois glorificado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e, coroando os seus méritos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "exaltais os vossos próprios dons."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Com sua vida nos dais um exemplo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "em sua comunhão, um laço de amor fraterno e, por sua intercessão, um auxílio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Assim, confirmados por tão grandes testemunhas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "corremos vitoriosos para o combate que nos é proposto,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a fim de alcançarmos com eles a imperecível coroa da glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe dei santi, dei santi patroni e dei titolari della chiesa, nelle solennità e nelle feste dei santi, se non è indicato un prefazio proprio. Si può dire anche nelle memorie dei santi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nella festosa assemblea dei santi risplende la tua gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e il loro trionfo celebra i doni della tua misericordia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nella vita di san N. [dei santi N. e N.] ci offri un esempio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nella comunione con lui [con loro] un vincolo di amore fraterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nella sua [loro] intercessione aiuto e sostegno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Confortati da così grande testimonianza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "affrontiamo il buon combattimento della fede,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per condividere al di là della morte la stessa corona di gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi, uniti agli angeli e agli arcangeli e a tutti i santi del cielo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit aux messes « de tous les saints », ainsi que : - aux messes des saints patrons et titulaires d’église ; - aux solennités et fêtes des saints si elles n’ont pas de préface propre. On peut la dire aux mémoires des saints."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car tu es glorifié dans l’assemblée des saints :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lorsque tu couronnes leurs mérites,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu couronnes tes propres dons."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dans leur vie, tu nous procures un modèle,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dans la communion avec eux, une famille,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et dans leur intercession, un appui ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "afin que, soutenus par de si nombreux témoins,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous courions jusqu’au bout l’épreuve qui nous est proposée et recevions avec eux l’impérissable couronne de gloire,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la foule immense des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird genommen in den Messen von allen Heiligen, von den Patronen und Titelheiligen der Kirchen und an Hochfesten und Festen von Heiligen, außer wenn eine eigene Präfation vorgeschrieben ist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater, allmächtiger ewiger Gott, immer und überall zu danken."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Die Schar der Heiligen verkündet deine Größe, denn in der Krönung ihrer Verdienste krönst du das Werk deiner Gnade."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Du schenkst uns in ihrem Leben ein Vorbild, auf ihre Fürsprache gewährst du uns Hilfe und gibst uns in ihrer Gemeinschaft das verheißene Erbe."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ihr Zeugnis verleiht uns die Kraft, im Kampf gegen das Böse zu siegen und mit ihnen die Krone der Herrlichkeit zu empfangen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich mit allen Engeln und Heiligen und singen vereint mit ihnen das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf053",
+      "label": {
+        "la": "PRÆFATIO II DE SANCTIS",
+        "es": "PREFACIO II DE SANTOS",
+        "en-US": "Preface Ii of Saints",
+        "pt-BR": "Prefácio dos Santos Ii o",
+        "it": "PREFAZIO DEI SANTI II",
+        "fr": "PRÉFACE DES SAINTS N°2",
+        "de": "PRÄFATION VON DEN HEILIGEN II"
+      },
+      "excerpt": {
+        "la": "De actione Sanctorum",
+        "es": "Eficacia de la acción de los santos",
+        "en-US": "The action of the Saints",
+        "pt-BR": "exemplo e a intercessão dos Santos",
+        "it": "L’esempio e l’intercessione dei santi",
+        "fr": "Le rôle des saints",
+        "de": "Die Heiligen und wir"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis «de ómnibus Sanctis», de Sanctis Patronis et Titularibus ecclesiæ, et in sollemnitatibus et festis Sanctorum, nisi præfatio magis propria sit dicenda. Dici potest in memoriis Sanctorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu enim Sanctórum tuórum confessióne mirábili Ecclésiam tuam nova semper virtúte fecúndas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nobísque certíssima præbes tuæ dilectiónis indícia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sed étiam, ad mystéria salútis implénda,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et ipsórum insígni incitámur exémplo et pia intercessióne perpétuo commendámur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Unde et nos, Dómine, cum Angelis et Sanctis univérsis tibi confitémur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in exsultatióne dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en la Misa votiva de todos los Santos, de los Santos Patronos y Titulares de la Iglesia, y en las solemnidades y fiestas de los Santos cuando no tengan un prefacio más apropiado. También pueden decirse en las memorias de los Santos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque mediante el testimonio admirable de tus santos fecundas sin cesar a tu Iglesia con vitalidad siempre nueva,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y nos das así pruebas evidentes de tu amor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Su insigne ejemplo nos anima,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y a su permanente intercesión nos confiamos para que se cumplan tus designios de salvación."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso, Señor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nosotros, llenos de alegría,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te aclamamos con los ángeles y con todos los santos, diciendo:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of All Saints, of Patron Saints and of Saints who are Titulars of a church, and on Solemnities and Feasts of Saints, unless a proper Preface is to be said. This Preface may be said also on Memorials of Saints."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the marvellous confession of your Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "you make your Church fruitful with strength ever new and offer us sure signs of your love."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And that your saving mysteries may be fulfilled,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "their great example lends us courage,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "their fervent prayers sustain us in all we do."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, Lord, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we, too, give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as in exultation we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas de \"Todos os Santos\", dos Padroeiros e Titulares de igreja, nas solenidades e festas dos Santos, se não houver outro prefácio mais apropriado. Pode ser usado também nas memórias dos Santos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pois, pelo testemunho admirável dos vossos Santos e Santas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre fecundais com novo vigor a vossa Igreja e nos dais provas evidentes do vosso amor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Para levar à plenitude o mistério da salvação,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o exemplo dos Santos nos estimula e sua intercessão constantemente nos ajuda Por isso, também nós, Senhor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "jubilosos, vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe dei santi, dei santi patroni e dei titolari della chiesa, nelle solennità e nelle feste dei santi, se non è indicato un prefazio proprio. Si può dire anche nelle memorie dei santi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nella mirabile testimonianza dei tuoi santi tu rendi sempre feconda la tua Chiesa e doni a noi un segno sicuro del tuo amore."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Il loro grande esempio e la loro fraterna intercessione ci sostengono nel cammino della vita,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché si compia in noi il tuo mistero di salvezza."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e a tutti i santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo con gioia l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit aux messes « de tous les saints », ainsi que : - aux messes des saints patrons et titulaires d’église ; - aux solennités et fêtes des saints si elles n’ont pas de préface propre. On peut la dire aux mémoires des saints."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu ne cesses de fortifier ton Église,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et tu lui donnes une fécondité nouvelle par la foi admirable dont témoignent les saints ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu nous présentes en eux des signes très sûrs de ton amour."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et pour que s’accomplissent les mystères du salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "le rayonnement de leur exemple nous stimule,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et leur intercession fervente nous assure un appui."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les anges et tous les saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons, Seigneur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nous exultons de joie en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird genommen in den Messen von allen Heiligen, von den Patronen und Titelheiligen der Kirchen und an Hochfesten und Festen von Heiligen, außer wenn eine eigene Präfation vorgeschrieben ist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater im Himmel, zu danken und das Werk deiner Gnade zu preisen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn in den Heiligen schenkst du der Kirche leuchtende Zeichen deiner Liebe."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch das Zeugnis ihres Glaubens verleihst du uns immer neu die Kraft, nach der Fülle des Heiles zu streben. Durch ihre Fürsprache und ihr heiliges Leben gibst du uns Hoffnung und Zuversicht."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum rühmen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

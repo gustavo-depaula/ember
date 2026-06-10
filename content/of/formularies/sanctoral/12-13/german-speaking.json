@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.12-13.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Odilia, Äbtissin"
+  },
+  "description": {
+    "de": "Odilia, geboren um 660, war die Tochter des Herzogs Attich, der im Elsass große Besitzungen hatte. Sie gründete die Klöster Hohenburg (später Odilienberg) und Niedermünster. Beide Klöster wurden im 16 Jh. aufgegeben. Odilia starb 720 und wurde auf Odilienberg begraben."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du wahres Licht, du hast den Blinden und Augenkranken in der heiligen Odilia eine himmlische Patronin gegeben. Öffne uns auf ihre Fürsprache die Augen, damit wir in der geschaffenen Schönheit deine Größe erahnen und dich einst schauen in deinem himmlischen Licht. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

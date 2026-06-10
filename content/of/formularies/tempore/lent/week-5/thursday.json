@@ -1,0 +1,2263 @@
+{
+  "id": "tempore.lent.week-5.thursday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Hebdomada V Feria quinta",
+    "es": "Cuaresma Jueves de la V Semana",
+    "en-US": "Thursday of the V Week of Lent",
+    "pt-BR": "Quinta-feira da V Semana da Quaresma",
+    "it": "V SETTIMANA DI QUARESIMA Lunedì",
+    "fr": "Hebdomada V Jeudi",
+    "de": "Donnerstag der 5. Woche"
+  },
+  "season": "lent",
+  "color": "violet",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Novi Testaménti mediátor est Christus, ut, morte intercedénte, repromissiónem accípiant, qui vocáti sunt ætérnæ hereditátis."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cristo es mediador de una alianza nueva: en ella ha habido una muerte, y así los llamados pueden recibir la promesa de la herencia eterna."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Christ is mediator of a New Covenant,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that by means of his death,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "those who are called may receive the promise of an eternal inheritance."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cristo é mediador de uma nova aliança."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Pela sua morte, aqueles que são chamados recebem a promessa da herança eterna."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cristo è mediatore di una nuova alleanza, perché, nella sua morte, coloro che sono stati chiamati ricevano l’eredità eterna."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Le Christ est le médiateur d’une alliance nouvelle,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "d’un testament nouveau,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puisque par sa mort, ceux qui sont appelés peuvent recevoir l’héritage éternel."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Christus ist der Mittler des Neuen Bundes;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "durch seinen Tod erhalten die Berufenen die Verheißung des ewigen Lebens."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Adésto, Dómine, supplícibus tuis, et spem suam in tua misericórdia collocántes tuére propítius, ut, a peccatórum labe mundáti, in sancta conversatióne permáneant, et promissiónis tuæ perficiántur herédes. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Escucha nuestras súplicas, Señor, y protege con amor a los que han puesto su esperanza en tu misericordia, para que, limpios de la mancha de los pecados,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "perseveren en una vida santa y lleguen de este modo a heredar tus promesas."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Be near, O Lord, to those who plead before you,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and look kindly on those who place their hope in your mercy, that, cleansed from the stain of their sins,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "they may persevere in holy living and be made full heirs of your promise."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Assisti, Senhor, aqueles que vos suplicam e guardai com solicitude os que esperam em vossa misericórdia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, purificados dos seus pecados,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "levem uma vida santa e mereçam tornar-se herdeiros das vossas promessas."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ascolta, o Padre, coloro che ti supplicano e custodisci con amore quanti ripongono ogni speranza nella tua misericordia, perché, purificati dalla corruzione del peccato, permangano in una vita santa e siano fatti eredi della tua promessa. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sois attentif à nos appels, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et, dans ta bonté, protège ceux qui mettent leur espérance en ta miséricorde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin que, purifiés de leurs péchés,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ils persévèrent dans une vie de sainteté et deviennent les héritiers de ta promesse."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, erhöre unser Gebet und beschütze uns,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "denn wir setzen unsere ganze Hoffnung auf dich."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Reinige uns von aller Sünde und hilf uns,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in deiner Gnade zu leben,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "damit wir Erben deiner Verheißung werden."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Gen 17, 3-9",
+              "es": "Gn 17, 3-9",
+              "en-US": "Gn 17:3-9",
+              "pt-BR": "Gn 17, 3-9",
+              "it": "Gn 17,3-9",
+              "fr": "Gn 17, 3-9",
+              "de": "Gen 17, 1a. 3-9"
+            },
+            "introduction": {
+              "la": "Léctio libri Génesis",
+              "es": "Lectura del libro del Génesis",
+              "en-US": "A reading from the Book of Genesis",
+              "pt-BR": "Leitura do Livro do Gênesis",
+              "it": "Dal libro della Genesi",
+              "fr": "Livre de la Genèse",
+              "de": "Lesung aus dem Buch Génesis"
+            },
+            "summary": {
+              "la": "Eris pater multarum géntium",
+              "es": "Serás padre de muchedumbre de pueblos",
+              "pt-BR": "Farei de ti o pai de uma multidão de nações.",
+              "it": "Diventerai padre di una moltitudine di nazioni."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In diébus illis: Cécidit Abram pronus in fáciem. Dixítque ei Deus: «Ecce pactum meum tecum. Erísque pater multárum géntium, nec ultra vocábitur nomen tuum Abram, sed Abraham erit nomen tuum, quia patrem multárum géntium constítui te. Faciámque te créscere vehementíssime et ponam te in gentes; regésque ex te egrediéntur. Et státuam pactum meum inter me et te et inter semen tuum post te in generatiónibus suis foédere sempitérno, ut sim Deus tuus et séminis tui post te. Dabóque tibi et sémini tuo post te terram peregrinatiónis tuæ, omnem terram Chánaan in possessiónem ætérnam; eróque Deus eórum». Dixit íterum Deus ad Abraham: «Tu autem pactum meum custódies, et semen tuum post te in generatiónibus suis»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquellos días, Abrán cayó rostro en tierra y Dios le habló así: «Por mi parte, esta es mi alianza contigo: serás padre de muchedumbre de pueblos. Ya no te llamarás Abrán, sino Abrahán, porque te hago padre de muchedumbre de pueblos. Te haré fecundo sobremanera: sacaré pueblos de ti, y reyes nacerán de ti. Mantendré mi alianza contigo y con tu descendencia en futuras generaciones, como alianza perpetua. Seré tu Dios y el de tus descendientes futuros. Os daré a ti y a tu descendencia futura la tierra en que peregrinas, la tierra de Canaán, como posesión perpetua, y seré su Dios». El Señor añadió a Abrahán: «Por tu parte, guarda mi alianza, tú y tus descendientes en sucesivas generaciones»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Abram bowed to the ground and God said this to him, Here now is my covenant with you: you shall become the father of a multitude of nations. You shall no longer be called Abram; Your name shall be Abraham, for I make you father of a multitude of nations. I will make you most fruitful. I will make you into nations, and your issue shall be kings. I will establish my Covenant between myself and you, and your descendants after you, generation after generation, a Covenant in perpetuity, to be your God and the God of your descendants after you. I will give to you and to your descendants after you the land you are living in, the whole land of Canaan, to own in perpetuity, and I will be your God' God said to Abraham, 'You on your part shall maintain my Covenant, yourself and your descendants after you, generation after generation."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naqueles dias, Abrão prostrou-se com o rosto por terra. E Deus lhe disse: \"Eis a minha aliança contigo: tu serás pai de uma multidão de nações. Já não te chamarás Abrão, mas o teu nome será Abraão, porque farei de ti o pai de uma multidão de nações. Farei crescer tua descendência infinitamente. Farei nascer de ti nações, e reis sairão de ti. Estabelecerei minha aliança entre mim e ti e teus descendentes para sempre; uma aliança eterna, para que eu seja teu Deus e o Deus de teus descendentes. A ti e aos teus descendentes darei a terra em que vives como estrangeiro, todo o país de Canaã como propriedade para sempre. E eu serei o Deus dos teus descendentes\". Deus disse a Abraão: \"Guarda a minha aliança, tu e a tua descendência para sempre\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quei giorni Abram si prostrò con il viso a terra e Dio parlò con lui: «Quanto a me. ecco la mia alleanza è con te: diventerai padre di una moltitudine di nazioni. Non ti chiamerai più Abram, ma ti chiamerai Abramo, perché padre di una moltitudine di nazioni ti renderò. E ti renderò molto, molto fecondo; ti farò diventare nazioni e da te usciranno dei re. Stabilirò la mia alleanza con te e con la tua discendenza dopo di te di generazione in generazione, come alleanza perenne, per essere il Dio tuo e della tua discendenza dopo di te. La terra dove sei forestiero, tutta la terra di Canaan, la darò in possesso per sempre a te e alla tua discendenza dopo di te; sarò il loro Dio». Disse Dio ad Abramo: «Da parte tua devi osservare la mia alleanza, tu e la tua discendenza dopo di te, di generazione in generazione»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ces jours-là, Abram tomba face contre terre et Dieu lui parla ainsi : « Moi, voici l’alliance que je fais avec toi : tu deviendras le père d’une multitude de nations. Tu ne seras plus appelé du nom d’Abram, ton nom sera Abraham, car je fais de toi le père d’une multitude de nations. Je te ferai porter des fruits à l’infini, de toi je ferai des nations, et des rois sortiront de toi. J’établirai mon alliance entre moi et toi, et après toi avec ta descendance, de génération en génération ; ce sera une alliance éternelle ; ainsi je serai ton Dieu et le Dieu de ta descendance après toi. À toi et à ta descendance après toi je donnerai le pays où tu résides, tout le pays de Canaan en propriété perpétuelle, et je serai leur Dieu. » Dieu dit à Abraham : « Toi, tu observeras mon alliance, toi et ta descendance après toi, de génération en génération. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jenen Tagen erschien der Herr dem Abram. Abram fiel auf sein Gesicht nieder; Gott redete mit ihm und sprach: Das ist mein Bund mit dir: Du wirst Stammvater einer Menge von Völkern. Man wird dich nicht mehr Abram nennen. Abraham - Vater der Menge - wirst du heißen; denn zum Stammvater einer Menge von Völkern habe ich dich bestimmt. Ich mache dich sehr fruchtbar und lasse Völker aus dir entstehen; Könige werden von dir abstammen. Ich schließe meinen Bund zwischen mir und dir samt deinen Nachkommen, Generation um Generation, einen ewigen Bund: Dir und deinen Nachkommen werde ich Gott sein. Dir und deinen Nachkommen gebe ich ganz Kánaan, das Land, in dem du als Fremder weilst, für immer zu Eigen, und ich will ihnen Gott sein. Und Gott sprach zu Abraham: Du aber halte meinen Bund, du und deine Nachkommen, Generation um Generation."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 104, 4-5. 6-7. 8-9",
+              "es": "Sal 104, 4-5. 6-7. 8-9",
+              "en-US": "Ps 104:4-5, 6-7, 8-9",
+              "pt-BR": "Sl 104, 4-5. 6-7. 8-9",
+              "it": "Sal 104, 4-5. 6-7. 8-9",
+              "fr": "Ps 104, 4-5. 6-7. 8-9",
+              "de": "Ps 105"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Memor fuit Dóminus in sǽculum testaménti sui."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "El Señor se acuerda de su alianza eternamente."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "The Lord remembers his covenant for ever."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "O Senhor se lembra sempre da Aliança!."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Il Signore si è sempre ricordato della sua alleanza."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Le Seigneur s’est toujours souvenu de son alliance."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Der Herr ist unser Gott; ewig denkt er an seinen Bund."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quǽrite Dóminum et poténtiam eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quǽrite fáciem eius semper."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mementóte mirabílium eius quæ fecit,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "prodígia eius et iudícia oris eius."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Semen Abraham, servi eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "fílii Iacob, elécti eius."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ipse Dóminus Deus noster;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in univérsa terra iudícia eius."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Memor fuit in sǽculum testaménti sui,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "verbi quod mandávit in mille generatiónes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quod dispósuit cum Abraham,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et iuraménti sui ad Isaac."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Recurrid al Señor y a su poder,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "buscad continuamente su rostro."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Recordad las maravillas que hizo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sus prodigios, las sentencias de su boca."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "¡Estirpe de Abrahán, su siervo;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hijos de Jacob, su elegido!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es nuestro Dios,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "él gobierna toda la tierra."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Se acuerda de su alianza eternamente,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de la palabra dada, por mil generaciones;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de la alianza sellada con Abrahán,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "del juramento hecho a Isaac."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Consider the Lord and his strength; constantly seek his face. Remember the wonders he has done, his miracles, the judgments he spoke."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O children of Abraham, his servant, O sons of the Jacob he chose. He, the Lord, is our God: his judgments prevail in all the earth."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "He remembers his covenant for ever, his promise for a thousand generations,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "the covenant he made with Abraham, the oath he swore to Isaac."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Procurai o Senhor Deus e seu poder,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "buscai constantemente a sua face!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lembrai as maravilhas que ele fez,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "seus prodígios e as palavras de seus lábios!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Descendentes de Abraão, seu servidor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e filhos de Jacó, seu escolhido,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ele mesmo, o Senhor, é nosso Deus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vigoram suas leis em toda a terra."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ele sempre se recorda da Aliança,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "promulgada a incontáveis gerações;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "da Aliança que ele fez com Abraão,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e do seu santo juramento a Isaac."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cercate il Signore e la sua potenza,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "cercate sempre il suo volto."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ricordate le meraviglie che ha compiuto,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "i suoi prodigi e i giudizi della sua bocca."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Voi, stirpe di Abramo, suo servo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "figli di Giacobbe, suo eletto."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "È lui il Signore, nostro Dio:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "su tutta la terra i suoi giudizi."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Si è sempre ricordato della sua alleanza,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "parola data per mille generazioni,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dell’alleanza stabilita con Abramo e del suo giuramento a Isacco."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cherchez le Seigneur et sa puissance,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "recherchez sans trêve sa face ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "souvenez-vous des merveilles qu’il a faites,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de ses prodiges, des jugements qu’il prononça."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vous, la race d’Abraham son serviteur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "les fils de Jacob, qu’il a choisis."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur, c’est lui notre Dieu :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ses jugements font loi pour l’univers."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il s’est toujours souvenu de son alliance,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "parole édictée pour mille générations :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "promesse faite à Abraham,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "garantie par serment à Isaac."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fragt nach dem Herrn und seiner Macht;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sucht sein Antlitz allezeit!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denkt an die Wunder, die er getan hat,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "an seine Zeichen und die Beschlüsse aus seinem Mund."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Bedenkt es, ihr Nachkommen seines Knechtes Abraham,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihr Kinder Jakobs,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die er erwählt hat."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er, der Herr, ist unser Gott."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seine Herrschaft umgreift die Erde."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ewig denkt er an seinen Bund,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "an das Wort, das er gegeben hat für tausend Geschlechter,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "an den Bund, den er mit Abraham geschlossen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "an den Eid, den er Isaak geschworen hat."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "versus-ante-evangelium",
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hódie, nolíte obduráre corda vestra, sed vocem Dómini audíte."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "No endurezcáis hoy vuestro corazón; escuchad la voz del Señor."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "If today you hear his voice, harden not your hearts."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Oxalá ouvísseis hoje a sua voz. Não fecheis os corações como em Meriba!"
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lode e onore a te, Signore Gesù! Oggi non indurite il vostro cuore, ma ascoltate la voce del Signore. Lode e onore a te, Signore Gesù!"
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tes paroles, Seigneur, sont esprit et elles sont vie. Aujourd’hui, ne fermez pas votre cœur, mais écoutez la voix du Seigneur. Tes paroles, Seigneur, sont esprit et elles sont vie."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lob dir, Christus, König und Erlöser! Wenn ihr heute seine Stimme hört, verhärtet nicht euer Herz! Lob dir, Christus, König und Erlöser!"
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Cf. Ps 94, 8",
+              "es": "Cf. Ps 94, 8",
+              "pt-BR": "cf. Salmo 94 (95), 8ab",
+              "it": "(Cfr. Sal 94,8ab)",
+              "fr": "Cf. Ps 94, 8",
+              "de": "Ps 95 (94), 7d. 8a"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Io 8, 51-59",
+              "es": "Jn 8, 51-59",
+              "en-US": "Jn 8:51-59",
+              "pt-BR": "Jo 8, 51-59",
+              "it": "Gv 8, 51-59",
+              "fr": "Jn 8, 51-59",
+              "de": "Joh 8, 51-59"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Ioánnem",
+              "es": "✠ Lectura del santo Evangelio según san Juan",
+              "en-US": "✠ A reading from the holy Gospel according to John",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo João",
+              "it": "✠ Dal vangelo secondo Giovanni",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Jean",
+              "de": "✠ Aus dem heiligen Evangelium nach Johannes"
+            },
+            "summary": {
+              "la": "Abraham pater vester exsultavit ut videret diem meum",
+              "es": "Abrahán, vuestro padre, saltaba de gozo pensando ver mi día",
+              "pt-BR": "Vosso pai Abraão exultou, por ver o meu dia.",
+              "it": "Abramo, vostro padre, esultò nella speranza di vedere il mio giorno."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dixit Iesus Iudǽis: «Amen, amen dico vobis: Si quis sermónem meum serváverit, mortem non vidébit in ætérnum». Dixérunt ergo ei Iudǽi: «Nunc cognóvimus quia dæmónium habes. Abraham mórtuus est et prophétæ, et tu dicis: «Si quis sermónem meum serváverit, non gustábit mortem in ætérnum». Numquid tu maior es patre nostro Abraham, qui mórtuus est? Et prophétæ mórtui sunt! Quem teípsum facis?». Respóndit Iesus: «Si ego glorífico meípsum, glória mea nihil est; est Pater meus, qui gloríficat me, quem vos dícitis: «Deus noster est!», et non cognovístis eum. Ego autem novi eum. Et si díxero: Non scio eum, ero símilis vobis, mendax; sed scio eum et sermónem eius servo. Abraham pater vester exsultávit, ut vidéret diem meum; et vidit et gavísus est». Dixérunt ergo Iudǽi ad eum: «Quinquagínta annos nondum habes et Abraham vidísti?». Dixit eis Iesus: «Amen, amen dico vobis: Antequam Abraham fíeret, ego sum». Tulérunt ergo lápides, ut iácerent in eum; Iesus autem abscóndit se et exívit de templo."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, dijo Jesús a los judíos: «En verdad, en verdad os digo: quien guarda mi palabra no verá la muerte para siempre». Los judíos le dijeron: «Ahora vemos claro que estás endemoniado; Abrahán murió, los profetas también, ¿y tú dices: “Quien guarde mi palabra no gustará la muerte para siempre”? ¿Eres tú más que nuestro padre Abrahán, que murió? También los profetas murieron, ¿por quién te tienes?». Jesús contestó: «Si yo me glorificara a mí mismo, mi gloria no valdría nada. El que me glorifica es mi Padre, de quien vosotros decís: “Es nuestro Dios”, aunque no lo conocéis. Yo sí lo conozco, y si dijera “No lo conozco” sería, como vosotros, un embustero; pero yo lo conozco y guardo su palabra. Abrahán, vuestro padre, saltaba de gozo pensando ver mi día; lo vio, y se llenó de alegría». Los judíos le dijeron: «No tienes todavía cincuenta años, ¿y has visto a Abrahán?». Jesús les dijo: «En verdad, en verdad os digo: antes de que Abrahán existiera, yo soy». Entonces cogieron piedras para tirárselas, pero Jesús se escondió y salió del templo."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jesus said to the Jews: I tell you most solemnly, whoever keeps my word will never see death.' The Jews said, 'Now we know for certain that you are possessed. Abraham is dead, and the prophets are dead, and yet you say, \"Whoever keeps my word will never know the taste of death\". Are you greater than our father Abraham, who is dead? The prophets are dead too. Who are you claiming to be?' Jesus answered: 'If I were to seek my own glory that would be no glory at all; my glory is conferred by the Father, by the one of whom you say, \"He is our God\" although you do not know him. But I know him, and if I were to say: I do not know him, I should be a liar, as you are liars yourselves. But I do know him, and I faithfully keep his word. Your father Abraham rejoiced to think that he would see my Day; he saw it and was glad.' The Jews then said, 'You are not fifty yet, and you have seen Abraham!' Jesus replied: 'I tell you most solemnly, before Abraham ever was, I Am'. At this they picked up stones to throw at him; but Jesus hid himself and left the Temple."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, disse Jesus aos judeus: \"Em verdade, em verdade, eu vos digo: se alguém guardar a minha palavra, jamais verá a morte\". Disseram então os judeus: \"Agora sabemos que tens um demônio. Abraão morreu e os profetas também, e tu dizes: 'Se alguém guardar a minha palavra jamais verá a morte'. Acaso és maior do que nosso pai Abraão, que morreu, como também os profetas? Quem pretendes tu ser? Jesus respondeu: \"Se me glorifico a mim mesmo, minha glória não vale nada. Quem me glorifica é o meu Pai, aquele que vós dizeis ser o vosso Deus. No entanto, não o conheceis. Mas eu o conheço e, se dissesse que não o conheço, seria um mentiroso, como vós! Mas eu o conheço e guardo a sua palavra. Vosso pai Abraão exultou, por ver o meu dia; ele o viu, e alegrou-se\". Os judeus disseram-lhe então: \"Nem sequer cinquenta anos tens, e viste Abraão!\" Jesus respondeu: \"Em verdade, em verdade vos digo, antes que Abraão existisse, eu sou\". Então eles pegaram em pedras para apedrejar Jesus, mas ele escondeu-se e saiu do Templo."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù disse ai Giudei: «In verità, in verità io vi dico: se uno osserva la mia parola, non vedrà la morte in eterno». Gli dissero allora i Giudei: «Ora sappiamo che sei indemoniato. Abramo è morto, come anche i profeti, e tu dici: \"Se uno osserva la mia parola, non sperimenterà la morte in eterno”. Sei tu più grande del nostro padre Abramo, che è morto? Anche i profeti sono morti. Chi credi di essere?». Rispose Gesù: «Se io glorificassi me stesso, la mia gloria sarebbe nulla. Chi mi glorifica è il Padre mio, del quale voi dite: ”È nostro Dio!”, e non lo conoscete. Io invece lo conosco. Se dicessi che non lo conosco, sarei come voi: un mentitore. Ma io lo conosco e osservo la sua parola. Abramo, vostro padre, esultò nella speranza di vedere il mio giorno; lo vide e fu pieno di gioia». Allora i Giudei gli dissero: «Non hai ancora cinquant’anni e hai visto Abramo?». Rispose loro Gesù: «In verità, in verità io vi dico: prima che Abramo fosse, Io Sono». Allora raccolsero delle pietre per gettarle contro di lui; ma Gesù si nascose e uscì dal tempio."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait aux Juifs : « Amen, amen, je vous le dis : si quelqu’un garde ma parole, jamais il ne verra la mort. » Les Juifs lui dirent : « Maintenant nous savons bien que tu as un démon. Abraham est mort, les prophètes aussi, et toi, tu dis : “Si quelqu’un garde ma parole, il ne connaîtra jamais la mort.” Es-tu donc plus grand que notre père Abraham ? Il est mort, et les prophètes aussi sont morts. Pour qui te prends-tu ? » Jésus répondit : « Si je me glorifie moi-même, ma gloire n’est rien ; c’est mon Père qui me glorifie, lui dont vous dites : “Il est notre Dieu”, alors que vous ne le connaissez pas. Moi, je le connais et, si je dis que je ne le connais pas, je serai comme vous, un menteur. Mais je le connais, et sa parole, je la garde. Abraham votre père a exulté, sachant qu’il verrait mon Jour. Il l’a vu, et il s’est réjoui. » Les Juifs lui dirent alors : « Toi qui n’as pas encore cinquante ans, tu as vu Abraham ! » Jésus leur répondit : « Amen, amen, je vous le dis : avant qu’Abraham fût, moi, JE SUIS. » Alors ils ramassèrent des pierres pour les lui jeter. Mais Jésus, en se cachant, sortit du Temple."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sprach Jesus zu den Juden: Amen, amen, ich sage euch: Wenn jemand an meinem Wort festhält, wird er auf ewig den Tod nicht schauen. Da sagten die Juden zu ihm: Jetzt wissen wir, dass du von einem Dämon besessen bist. Abraham und die Propheten sind gestorben, du aber sagst: Wenn jemand an meinem Wort festhält, wird er auf ewig den Tod nicht erleiden. Bist du etwa größer als unser Vater Abraham? Er ist gestorben, und die Propheten sind gestorben. Für wen gibst du dich aus? Jesus antwortete: Wenn ich mich selbst ehre, so gilt meine Ehre nichts. Mein Vater ist es, der mich ehrt, er, von dem ihr sagt: Er ist unser Gott. Doch ihr habt ihn nicht erkannt. Ich aber kenne ihn, und wenn ich sagen würde: Ich kenne ihn nicht, so wäre ich ein Lügner wie ihr. Aber ich kenne ihn und halte an seinem Wort fest. Euer Vater Abraham jubelte, weil er meinen Tag sehen sollte. Er sah ihn und freute sich. Die Juden entgegneten: Du bist noch keine fünfzig Jahre alt und willst Abraham gesehen haben? Jesus erwiderte ihnen: Amen, amen, ich sage euch: Noch ehe Abraham wurde, bin ich. Da hoben sie Steine auf, um sie auf ihn zu werfen. Jesus aber verbarg sich und verließ den Tempel."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sacrifíciis præséntibus, quǽsumus, Dómine, placátus inténde, ut et conversióni nostræ profíciant et totíus mundi salúti. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Complacido, Señor, con las ofrendas presentes, haz que favorezcan nuestra conversión y la salvación de todo el mundo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Look with favor, Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "on these sacrificial offerings,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that they may profit our conversion and the salvation of all the world."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Acolhei, Senhor, com bondade, este sacrifício,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que seja proveitoso à nossa conversão e à salvação do mundo inteiro."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Guarda, o Signore, il sacrificio di riconciliazione che ti presentiamo, perché giovi alla nostra conversione e alla salvezza del mondo intero. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Regarde favorablement, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "le sacrifice que nous te présentons :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qu’il serve à notre conversion et au salut du monde entier."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, sieh gnädig auf die Gaben, die wir zu deinem Altar gebracht haben."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Gib,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dass sie unserer Bekehrung dienen und der ganzen Welt Heil bringen."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf014",
+      "label": {
+        "la": "PRÆFATIO I DE PASSIONE DOMINI",
+        "es": "PREFACIO I DE LA PASIÓN DEL SEÑOR",
+        "en-US": "Preface I of the Passion of the Lord",
+        "pt-BR": "Prefácio da Paixão do Senhor I o",
+        "it": "PREFAZIO DELLA PASSIONE DEL SIGNORE I",
+        "fr": "PRÉFACE N°1 DE LA PASSION",
+        "de": "PRÄFATION VOM LEIDEN CHRISTI I"
+      },
+      "excerpt": {
+        "la": "De virtute Crucis",
+        "es": "La fuerza de la Cruz",
+        "en-US": "The power of the Cross",
+        "pt-BR": "poder da Cruz",
+        "it": "La potenza della Croce",
+        "fr": "La puissance de la croix",
+        "de": "Die Macht des gekreuzigten Herrn"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur infra hebdomadam quintam Quadragesimæ, et in Missis de mysteriis Crucis et Passionis Dómini."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia per Fílii tui salutíferam passiónem sensum confiténdæ tuæ maiestátis totus mundus accépit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dum ineffábili crucis poténtia iudícium mundi et potéstas émicat Crucifíxi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Unde et nos, Dómine, cum Angelis et Sanctis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tibi confitémur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in exsultatióne dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las ferias de la quinta semana de Cuaresma y en las misas de los misterios de la cruz y de la pasión del Señor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque en la pasión salvadora de tu Hijo el universo aprende a proclamar tu grandeza y, por la fuerza inefable de la cruz,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "se hace patente el juicio del mundo y el poder del Crucificado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nosotros, llenos de alegría,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te aclamamos con los ángeles y con todos los santos, diciendo:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said during the Fifth Week of Lent and in Masses of the mysteries of the Cross and Passion of the Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For through the saving Passion of your Son the whole world has received a heart to confess the infinite power of your majesty,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "since by the wondrous power of the Cross your judgement on the world is now revealed and the authority of Christ crucified."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, Lord, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we, too, give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as in exultation we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado durante a quinta semana da Quaresma e nas Missas dos mistérios da Cruz e da Paixão do Senhor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pois, pela paixão salvadora do vosso Filho,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o mundo inteiro recebeu a missão de proclamar a vossa glória."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "A força radiante da cruz manifesta o julgamento do mundo e o poder de Jesus Crucificado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, Senhor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "também nós, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vos aclamamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "alegres a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle ferie della quinta settimana di Quaresima e nelle Messe che celebrano i misteri della Croce e della Passione del Signore."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per la passione salvifica del tuo Figlio l’intero universo ha riconosciuto il senso della tua gloria;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nella potenza ineffabile della croce splende il giudizio sul mondo e il potere regale di Cristo crocifisso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi, o Signore, uniti agli angeli e a tutti i santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "eleviamo a te un inno di lode ed esultanti cantiamo:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les Messes de la Vème semaine de Carême ; elle se dit aux Messes de la Sainte-Croix, de la Passion du Seigneur, du Très Précieux Sang de Notre-Seigneur Jésus-Christ."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Oui, l’univers entier, sauvé par la passion de ton Fils,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "peut désormais proclamer ta grandeur :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par la puissance incomparable de la Croix,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "apparaît en pleine lumière le jugement du monde,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la victoire du Crucifié."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les anges et tous les saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons, Seigneur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nous exultons de joie en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in der fünften Fastenwoche genommen und in den Messen vom heiligen Kreuz und vom Leiden des Herrn."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und das Werk deiner Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn das Leiden deines Sohnes wurde zum Heil für die Welt. Seine Erlösungstat bewegt uns, deine Größe zu preisen. Im Kreuz enthüllt sich dein Gericht, im Kreuz erstrahlt die Macht des Retters, der sich für uns dahingab, unseres Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn loben dich deine Erlösten und vereinen sich mit den Chören der Engel zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Próprio Fílio suo non pepércit Deus, sed pro nobis ómnibus trádidit illum: cum illo ómnia nobis donávit."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios no se reservó a su propio Hijo, sino que lo entregó por todos nosotros:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "con él nos lo ha dado todo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "God did not spare his own Son, but handed him over for us all; with him, he has given us all things."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus não poupou seu próprio Filho,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mas o entregou por todos nós:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "com ele nos concedeu todas as coisas."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dio, che non ha risparmiato il proprio Figlio, ma lo ha consegnato per tutti noi, non ci donerà forse ogni cosa, insieme a lui?"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "Oppure: Gv 8, 56"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "«Abramo, vostro padre, esultò nella speranza di vedere il mio giorno:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lo vide e fu pieno di gioia», dice il Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu n’a pas épargné son propre Fils,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mais il l’a livré pour nous tous :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "avec lui, il nous a tout donné."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott hat seinen eigenen Sohn nicht verschont, sondern ihn für uns alle dahingegeben. Mit ihm hat er uns alles geschenkt."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Satiáti múnere salutári, tuam, Dómine, misericórdiam deprecámur, ut hoc eódem sacraménto, quo nos temporáliter végetas, effícias perpétuæ vitæ partícipes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Saciados con los dones de la salvación, invocamos, Señor, tu misericordia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que este sacramento, con el que nos alimentas en nuestra vida temporal,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos haga partícipes de la vida eterna."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nourished by your saving gifts,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we beseech your mercy, Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that by this same Sacrament,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "with which you feed us in the present age, you may make us partakers of life eternal."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Saciados pelo dom que nos salva,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "imploramos, Senhor, a vossa misericórdia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a fim de que, pelo mesmo sacramento que nos dais como alimento neste mundo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos leveis a participar da vida eterna."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Saziati dal dono di salvezza, invochiamo la tua misericordia, o Signore,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "perché, con questo sacramento che ci nutre nel tempo, tu ci renda partecipi della vita eterna. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Tu nous as rassasiés, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par ce don qui nous sauve,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et nous implorons ta miséricorde :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par ce même sacrement qui nous fortifie en cette vie,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "rends-nous participants de la vie éternelle."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, du hast uns in diesem Mahl die Gabe des Heiles geschenkt."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dein Sakrament gebe uns Kraft in dieser Zeit und in der kommenden Welt das ewige Leben."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverPeople": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Esto, quǽsumus, Dómine, propítius plebi tuæ, ut, de die in diem, quæ tibi non plácent réspuens, tuórum pótius repleátur delectatiónibus mandatórum. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sé propicio, Señor, a tu pueblo para que, rechazando día tras día lo que te desagrada, encuentre su alegría en el cumplimiento fiel de tus mandatos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Be gracious to your people, Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, as from day to day they reject what does not please you, they may be filled instead with delight at your commands."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sede propício, Senhor, ao vosso povo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, rejeitando sempre o que vos desagrada,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "se alegre em cumprir os vossos mandamentos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sii propizio, o Signore, verso il tuo popolo perché, rinunciando di giorno in giorno a ciò che non ti è gradito, trovi la sua gioia nei tuoi comandamenti."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Le prêtre peut dire la prière suivante :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Sois favorable à ton peuple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, nous t’en prions,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin que, rejetant jour après jour ce qui te déplaît,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "il préfère trouver toute sa joie dans tes commandements."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

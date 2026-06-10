@@ -1,0 +1,2337 @@
+{
+  "id": "votive.votive-masses.0003",
+  "kind": "votive",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "3. DE DOMINO NOSTRO IESU CHRISTO SUMMO ET ÆTERNO SACERDOTE",
+    "es": "3. DE NUESTRO SEÑOR JESUCRISTO, SUMO Y ETERNO SACERDOTE",
+    "en-US": "3. Our Lord Jesus Christ, the Eternal High Priest",
+    "pt-BR": "3. Nosso Senhor Jesus Cristo, Sumo e Eterno Sacerdote",
+    "it": "3. NOSTRO SIGNORE GESÙ CRISTO, SOMMO ED ETERNO SACERDOTE.",
+    "fr": "3. NOTRE SEIGNEUR JÉSUS-CHRIST, ÉTERNEL ET SOUVERAIN PRÊTR",
+    "de": "3. VON JESUS CHRISTUS, DEM EWIGEN HOHENPRIESTER"
+  },
+  "color": "white",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Iurávit Dóminus et non pænitébit eum: Tu es sacérdos in ætérnum secúndum órdinem Melchísedech."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "El Señor lo ha jurado y no se arrepiente: «Tú eres sacerdote eterno según el rito de Melquisedec»."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "The Lord has sworn an oath he will not change:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "you are a priest for ever,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "according to the order of Melchizedek."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Jurou o Senhor e manterá sua palavra: Tu és sacerdote eternamente segundo a ordem do rei Melquisedec!"
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Il Signore ha giurato e non si pente: «Tu sei sacerdote per sempre al modo di Melchisedek»."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Le Seigneur l’a juré dans un serment irrévocable :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "« Tu es prêtre de l’ordre de Melkisédek pour l’éternité. »"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Der Herr hat geschworen, und nie wird es ihn reuen: Du bist Priester auf ewig nach der Ordnung Melchísedeks."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "it": "Sal 109, 4"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui ad glóriam tuam et géneris humáni salútem Christum voluísti summum æternúmque constitúere sacerdótem, præsta, ut pópulus, quem sánguine suo tibi acquisívit, ex eius memoriális participatióne, virtútem crucis ipsíus cápiat et resurrectiónis. Qui tecum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que para gloria de tu nombre y salvación del género humano quisiste constituir a Cristo sumo y eterno sacerdote, te suplicamos que el pueblo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "adquirido para ti con su sangre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "consiga, por la participación en este memorial,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la fuerza de su cruz y Resurrección."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who for your glory and the salvation of the human race willed to establish Christ as the eternal high Priest,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that the people he has gained for you by his Blood may, through their participation in his memorial,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "experience the power of his Cross and Resurrection."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, para vossa glória e salvação do gênero humano, quisestes constituir vosso Filho sumo e eterno sacerdote. Concedei que o povo adquirido com seu sangue receba, pela participação neste memorial, os frutos da sua cruz e ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Padre, che per la tua gloria e per la salvezza del genere umano hai costituito Cristo sommo ed eterno sacerdote, concedi al popolo, che ti sei acquistato con il suo sangue, di sperimentare nella partecipazione al memoriale del tuo Figlio la potenza della sua croce e della sua risurrezione."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Egli è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour ta gloire et le salut du genre humain,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as voulu établir le Christ éternel et souverain prêtre ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde au peuple qu’il a acquis pour toi par son sang de recueillir dans la participation à son mémorial les fruits de sa croix et de sa résurrection."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, zu deiner Ehre und zum Heil der Menschen hast du Christus als ewigen Hohenpriester eingesetzt. Er hat dir durch sein kostbares Blut ein heiliges Volk erworben. Gib, dass wir das Gedächtnis deines Sohnes in Ehrfurcht feiern und die Kraft seines Kreuzes und seiner Auferstehung empfangen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concéde nobis, quǽsumus, Dómine, hæc digne frequentáre mystéria, quia, quóties huius hóstiæ commemorátio celebrátur, opus nostræ redemptiónis exercétur. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concédenos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "participar dignamente en estos sacramentos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pues cada vez que se celebra el memorial del sacrificio de Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "se realiza la obra de nuestra redención."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant us, o Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we may participate worthily in these mysteries,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "for, whenever the memorial of this sacrifice is celebrated,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the work of our redemption is accomplished."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedei-nos, Senhor, O mistério da Santa Cruz 1135 a graça de participar dignamente destes mistérios, pois todas as vezes que celebramos a memória deste sacrifício, realiza-se a obra da nossa redenção. Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedi a noi tuoi fedeli, o Padre, di partecipare con viva fede ai santi misteri, poiché, ogni volta che celebriamo questo memoriale del sacrificio del tuo Figlio, si compie l’opera della nostra redenzione. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accorde-nous, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de participer dignement à ces mystères,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "car chaque fois qu’est célébré ce sacrifice en mémorial,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "c’est l'œuvre de notre rédemption qui s’accomplit."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, gib, dass wir das Geheimnis des Altares ehrfürchtig feiern, denn sooft wir die Gedächtnisfeier dieses Opfers begehen, vollzieht sich an uns das Werk der Erlösung. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf036",
+      "label": {
+        "la": "PRÆFATIO I DE SS. MA EUCHARISTIA",
+        "es": "PREFACIO I DE LA SANTÍSIMA EUCARISTÍA",
+        "en-US": "Preface I of the Most Holy Eucharist",
+        "pt-BR": "Prefácio da Santíssima Eucaristia I",
+        "it": "PREFAZIO DELLA SS. EUCARISTIA I",
+        "fr": "PRÉFACE DE L’EUCHARISTIE N°1",
+        "de": "PRÄFATION VON DER HEILIGEN EUCHARISTIE I"
+      },
+      "excerpt": {
+        "la": "De sacrificio et de sacramento Christi",
+        "es": "El sacrificio y el sacramento de Cristo",
+        "en-US": "The Sacrifice and the Sacrament of Christ",
+        "pt-BR": "Sacrifício e sacramento de Cristo",
+        "it": "L’Eucaristia memoriale del sacrificio di Cristo",
+        "fr": "Le sacrifice et le sacrement du Christ",
+        "de": "Die Eucharistie als Opfer Christi und Opfer der Kirche"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missa «In Cena Dómini»; dici potest etiam in sollemnitate Ss. mi Corporis et Sanguinis Christi et in Missis votivis de Ss. ma Eucharistia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui, verus æternúsque Sacérdos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "formam sacrifícii perénnis instítuens,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hóstiam tibi se primus óbtulit salutárem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nos, in sui memóriam, præcépit offérre."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cuius carnem pro nobis immolátam dum súmimus, roborámur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et fusum pro nobis sánguinem dum potámus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ablúimur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Thronis et Dominatiónibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque omni milítia cæléstis exércitus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum glóriæ tuæ cánimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando adhibetur Canon romanus, in Missa «In Cena Dómini» dicuntur Communicántes, Hanc ígitur et Qui prídie propria."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en la Misa de la Cena del Señor; puede decirse también en la solemnidad del Cuerpo y Sangre de Cristo y en las Misas votivas de la Santísima Eucaristía."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "El cual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verdadero y único sacerdote,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "al instituir el sacrificio de la eterna alianza se ofreció el primero a ti como víctima de salvación,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y nos mandó perpetuar esta ofrenda en memoria suya."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Su carne, inmolada por nosotros,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es alimento que nos fortalece;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "su sangre, derramada por nosotros,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es bebida que nos purifica."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los tronos y dominaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y con todos los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos sin cesar el himno de tu gloria:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in the Mass of the Lord's Supper. It may also be said on the Solemnity of the Most Holy Body and Blood of Christ and in Votive Masses of the Most Holy Eucharist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For he is the true and eternal Priest,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "who instituted the pattern of an everlasting sacrifice and was the first to offer himself as the saving Victim,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "commanding us to make this offering as his memorial."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "As we eat his flesh that was sacrificed for us,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we are made strong,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as we drink his Blood that was poured out for us,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we are washed clean."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with Thrones and Dominions,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with all the hosts and Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado na Missa da Ceia do Senhor. Pode ser usado também na Solenidade do Corpo e Sangue de Cristo e nas Missas votivas da Santíssima Eucaristia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sacerdote verdadeiro e eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ao instituir o rito do sacrifício perene,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ele se ofereceu a vós por primeiro como vítima de salvação,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e nos mandou perpetuar a oferta em sua memória."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seu corpo, por nós imolado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é alimento que nos dá força;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "seu sangue, por nós derramado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é bebida que nos purifica."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Arcanjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os Tronos e as Dominações e todos os coros celestes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando se usa a Oração Eucarística I, na Missa da Ceia do Senhor, dizem-se o"
+              },
+              {
+                "type": "text",
+                "text": "Em comunhão"
+              },
+              {
+                "type": "rubric",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": "Aceitai, ó Pai"
+              },
+              {
+                "type": "rubric",
+                "text": "e"
+              },
+              {
+                "type": "text",
+                "text": "Na noite em que ia ser entregue"
+              },
+              {
+                "type": "rubric",
+                "text": "próprios."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nella Messa «Cena del Signore». Si può dire anche nella so- lennità del Santissimo Corpo e Sangue di Cristo e nelle Messe votive della Santissima Eucaristia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sacerdote vero ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "egli istituì il rito del sacrificio perenne;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a te per primo si offrì vittima di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e comandò a noi di compiere l’offerta in sua memoria."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Il suo Corpo per noi immolato è nostro cibo e ci dà forza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il suo Sangue per noi versato è la bevanda che ci redime da ogni colpa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il cielo e la terra si uniscono in un cantico nuovo di adorazione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e noi, con tutti gli angeli del cielo, proclamiamo senza fine la tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Il est le Prêtre éternel et véritable,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qui institua le sacrement destiné à perpétuer son sacrifice ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il s’est d’abord offert à toi en victime pour notre salut et nous a prescrit de faire cette offrande en mémoire de lui."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quand nous recevons sa chair immolée pour nous,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous sommes fortifiés ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quand nous buvons le sang qu’il a versé pour nous,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous sommes purifiés."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les puissances d’en haut et tous les esprits bienheureux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in der Abendmesse des Gründonnerstags genommen; sie kann auch an Fronleichnam und in den Votivmessen von der heiligen Eucharistie genommen werden."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Als der wahre und ewige Hohepriester hat er die Feier eines immerwährenden Opfers gestiftet. Er hat sich selbst als Opfergabe dargebracht für das Heil der Welt und uns geboten, dass auch wir diese Gabe darbringen zu seinem Gedächtnis."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Er stärkt uns, wenn wir seinen Leib empfangen, den er für uns geopfert hat. Er heiligt uns, wenn wir sein Blut trinken, das er für uns vergossen hat."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf037",
+      "label": {
+        "la": "PRÆFATIO II DE SS. MA EUCHARISTIA",
+        "es": "PREFACIO II DE LA SANTÍSIMA EUCARISTÍA",
+        "en-US": "Preface Ii of the Most Holy Eucharist",
+        "pt-BR": "Prefácio da Santíssima Eucaristia Ii",
+        "it": "PREFAZIO DELLA SS. EUCARISTIA II I",
+        "fr": "PRÉFACE DE L’EUCHARISTIE N°2",
+        "de": "PRÄFATION VON DER HEILIGEN EUCHARISTIE II"
+      },
+      "excerpt": {
+        "la": "De fructibus Sanctissimæ Eucharistiæ",
+        "es": "Los frutos de la Santísima Eucaristía",
+        "en-US": "The fruits of the Most Holy Eucharist",
+        "pt-BR": "Os frutos da Santíssima Eucaristia",
+        "it": "frutti della Santissima Eucaristia",
+        "fr": "Les fruits de la Sainte Eucharistie",
+        "de": "Abendmahl Christi und Eucharistiefeier der Gläubigen"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitate Ss. mi Corporis et Sanguinis Christi et in Missis votivis de Ss. ma Eucharistia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui cum Apóstolis suis in novíssima cena convéscens,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "salutíferam crucis memóriam prosecutúrus in sǽcula,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Agnum sine mácula se tibi óbtulit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perféctæ laudis munus accéptum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quo venerábili mystério fidéles tuos aléndo sanctíficas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut humánum genus, quod cóntinet unus orbis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "una fides illúminet, cáritas una coniúngat."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ad mensam ígitur accédimus tam mirábilis sacraménti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut, grátiæ tuæ suavitáte perfúsi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ad cæléstis formæ imáginem transeámus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Propter quod cæléstia tibi atque terréstria cánticum novum cóncinunt adorándo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nos cum omni exércitu Angelórum proclamámus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en la solemnidad del Cuerpo y Sangre de Cristo y en las Misas votivas de la Santísima Eucaristía."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "El cual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en la última cena con sus apóstoles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para perpetuar a través de los siglos el memorial de la cruz salvadora,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "se entregó a ti como Cordero inmaculado y ofrenda perfecta de alabanza."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Con este sacramento alimentas y santificas a tus fieles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que una misma fe ilumine,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y un mismo amor congregue,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a todos los hombres que habitan un mismo mundo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Así, pues,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos acercamos a la mesa de este sacramento admirable,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, impregnados de la suavidad de tu gracia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos transformemos según el modelo celestial."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso, Señor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tus criaturas del cielo y de la tierra te adoran cantando un cántico nuevo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y también nosotros,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con todo el ejército de los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te aclamamos por siempre diciendo:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnity of the Most Holy Body and Blood of Christ (Corpus Christi) and in Votive Masses of the Most Holy Eucharist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For at the Last Supper with his Apostles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "establishing for the ages to come the saving memorial of the Cross,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he offered himself to you as the unblemished Lamb,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "the acceptable gift of perfect praise."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nourishing your faithful by this sacred mystery,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "you make them holy, so that the human race,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "bounded by one world,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "may be enlightened by one faith and united by one bond of charity."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, we approach the table of this wondrous Sacrament,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "bathed in the sweetness of your grace,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we may pass over to the heavenly realities here foreshadowed."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, all creatures of heaven and earth sing a new song in adoration,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and we, with all the host of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cry out, and without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado na Solenidade do Corpo e Sangue de Cristo e nas Missas votivas da Santíssima Eucaristia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quando estava reunido com os Apóstolos na última ceia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para perpetuar pelos séculos a memória da sua paixão salvadora,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ele ofereceu-se a vós como Cordeiro sem mancha e foi aceito como perfeito sacrifício de louvor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Neste sublime mistério alimentais e santificais os vossos fiéis para que, no mundo inteiro,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o gênero humano seja iluminado por uma só fé e unido na mesma caridade."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Assim nos aproximamos da mesa deste admirável sacramento para que, repletos da doçura da vossa graça,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos transformemos em imagem da vossa glória."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso o céu e a terra entoam um hino novo de adoração e também nós, com a multidão dos Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nella solennità del Santissimo Corpo e Sangue di Cristo e nelle Messe votive della Santissima Eucaristia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nell’ultima Cena con i suoi apostoli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "egli volle perpetuare nei secoli il memoriale di salvezza della sua croce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e si offrì a te, Agnello senza macchia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lode perfetta e sacrificio a te gradito."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In questo grande mistero tu nutri e santifichi i tuoi fedeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché l’umanità, diffusa su tutta la terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sia illuminata dall’unica fede e riunita dall’unico amore."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi ci accostiamo a questo santo convito,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché l’effusione del tuo Spirito ci trasformi a immagine della tua gloria."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il cielo e la terra si uniscono in un cantico nuovo di adorazione e di lode;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e noi, con tutte le schiere degli angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamiamo senza fine la tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lors du dernier repas qu’il partageait avec ses Apôtres,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "voulant perpétuer la mémoire du salut par la croix,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il s’est offert à toi, comme l’Agneau sans tache,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et tu as accueilli son sacrifice de parfaite louange."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quand tes fidèles communient à ce mystère incomparable,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu les sanctifies,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour que la famille humaine, habitant un même univers,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "soit éclairée par une même foi et réunie par une même charité."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous venons à la table de cet admirable sacrement,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour être imprégnés de la douceur de ta grâce et transformés à l’image de ce que nous serons au ciel."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi le ciel et la terre t’adorent ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ils te chantent le cantique nouveau,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nous-mêmes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unissant notre voix à celle des anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous t’acclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Fronleichnam und in den Votivmessen von der heiligen Eucharistie genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn er hat beim Letzten Abendmahl das Gedächtnis des Kreuzesopfers gestiftet zum Heil der Menschen bis ans Ende der Zeiten. Er hat sich dargebracht als Lamm ohne Makel, als Gabe, die dir gefällt, als Opfer des Lobes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieses erhabene Geheimnis heiligt und stärkt deine Gläubigen, damit der eine Glaube die Menschen der einen Erde erleuchte, die eine Liebe sie alle verbinde."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "So kommen wir zu deinem Tisch, empfangen von dir Gnade um Gnade und werden neu gestaltet nach dem Bild deines Sohnes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn rühmen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf038",
+      "label": {
+        "es": "PREFACIO III DE LA SANTÍSIMA EUCARISTÍA",
+        "it": "PREFAZIO DELLA SS. EUCARISTIA III"
+      },
+      "excerpt": {
+        "es": "La Eucaristía, viático para la Pascua eterna",
+        "it": "Il seguente prefazio si può dire nella Messa rituale per il Viatico."
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las Misas en las que se imparte el Viático o cuando las circunstancias lo aconsejen y no corresponda un prefacio más propio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo darte gracias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es bueno bendecir tu nombre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios de misericordia y de paz."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque has querido que tu Hijo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "obediente hasta la muerte de cruz,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos precediera en el camino del retorno a ti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "término de toda esperanza humana."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En la Eucaristía,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "testamento de su amor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "él se hace comida y bebida espiritual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para alimentarnos en nuestro viaje hacia la Pascua eterna."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Con esta prenda de la resurrección futura,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en la esperanza participamos ya de la mesa gloriosa de tu reino y, unidos a los ángeles y a los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamamos el himno de tu gloria:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si può dire nella Messa del Viatico."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente giusto renderti grazie e benedire il tuo nome, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio di misericordia e di pace."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu hai voluto che il tuo Figlio, obbediente fino alla morte di croce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ci precedesse sulla via del ritorno a te,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "termine ultimo di ogni umana attesa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nell’Eucaristia, testamento del suo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "egli si fa cibo e bevanda spirituale per il nostro viaggio verso la Pasqua eterna."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Con questo pegno della risurrezione finale partecipiamo nella speranza alla mensa gloriosa del tuo regno e, uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamiamo l’inno della tua lode:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Hoc Corpus, quod pro vobis tradétur; hic calix novi testaménti est in meo Sánguine, dicit Dóminus. Hoc fácite, quotiescúmque súmitis, in meam commemoratiónem."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Esto es mi Cuerpo, que se entrega por vosotros; este cáliz es la nueva alianza en mi Sangre, dice el Señor; haced esto, cada vez que lo bebáis, en memoria mía."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "This is the body that will be given up for you;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "this is the chalice of the new covenant in my blood, says the Lord;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "do this, whenever you receive it in memory of me."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Isto é o meu corpo que é dado por vós. Este cálice é a nova aliança, em meu sangue, diz o Senhor. Todas as vezes que dele beberdes, fazei isto em minha memória."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "«Questo è il mio Corpo, che è per voi; questo calice è la nuova alleanza nel mio Sangue», dice il Signore. «Ogni volta che ne mangiate e ne bevete, fate questo in memoria di me»."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ceci est mon corps, livré pour vous, dit le Seigneur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ce calice est la nouvelle Alliance en mon sang."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Chaque fois que vous en boirez,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "faites cela en mémoire de moi."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "So spricht der Herr: Das ist mein Leib, der für euch hingegeben wird. Dieser Kelch ist der neue Bund in meinem Blut. Das tut, sooft ihr davon nehmt, zum Gedenken an mich."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Quǽsumus, Dómine, ut, huius participatióne sacrifícii, quod in sui commemoratiónem Fílius tuus præcépit offérri, nosmetípsos cum illo oblatiónem fácias tibi sempitérnam. Qui vivit et regnat in sǽcula sæculórum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "La participación en este sacrificio que tu Hijo nos ha mandado ofrecer en conmemoración suya,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos convierta, Señor, en ofrenda perpetua para ti juntamente con él."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Él, que vive y reina por los siglos de los siglos."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "We pray, o Lord, that through our partaking in this sacrifice, which your Son commanded to be offered in his memory, you may make us together with him an everlasting oblation to you."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, pela participação neste sacrifício que vosso Filho mandou oferecer em sua memória, fazei que nos tornemos com ele uma oblação eterna em vossa honra."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Padre, per la partecipazione a questo sacrificio che il tuo Figlio ci ha comandato di offrire in sua memoria, fa' di tutti noi, uniti a lui, un’offerta perenne per la tua gloria. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nous te le demandons, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quand nous participons à ce sacrifice que ton Fils nous a dit d’offrir en mémoire de lui,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais de nous-mêmes avec lui une éternelle offrande à ta gloire."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, wir haben zum Gedenken an deinen Sohn das Opfer dargebracht,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "wie er es uns aufgetragen hat. Durch die Teilnahme an dieser Feier mache uns mit Christus zu einer Gabe, die für immer dir gehört. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
