@@ -3,9 +3,12 @@
   "icon": "prayer",
   "name": {
     "en-US": "Liturgy of the Hours",
-    "pt-BR": "Liturgia das Horas"
+    "pt-BR": "Liturgia das Horas",
+    "la": "Liturgia Horarum"
   },
-  "categories": ["liturgical"],
+  "categories": [
+    "liturgical"
+  ],
   "estimatedMinutes": 15,
   "description": {
     "en-US": "The official daily prayer of the Church, with today's texts for all seven canonical hours — from the Office of Readings to Compline — provided by iBreviary.",
@@ -23,12 +26,19 @@
   "completion": "flow-end",
   "theme": "office",
   "flow": "flow.json",
-  "tags": ["office", "breviary", "liturgy-of-the-hours", "daily"],
+  "tags": [
+    "office",
+    "breviary",
+    "liturgy-of-the-hours",
+    "daily"
+  ],
   "defaults": {
     "sortOrder": 18,
     "slots": [
       {
-        "schedule": { "type": "daily" },
+        "schedule": {
+          "type": "daily"
+        },
         "tier": "essential",
         "enabled": false
       }

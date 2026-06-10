@@ -28,6 +28,11 @@ const fixtures = [
   'en-compieta.html',
   'en-ufficio_delle_letture.html',
   'en-ora_media.html',
+  'la-lodi.html',
+  'la-vespri.html',
+  'la-compieta.html',
+  'la-ufficio_delle_letture.html',
+  'la-ora_media.html',
 ]
 
 describe('parseHour — all fixtures', () => {
@@ -176,6 +181,25 @@ describe('splitDaytime', () => {
     expect(allText(en.terce)).toContain('Romans 8:15-16')
     expect(allText(en.sext)).toContain('Romans 8:22-23')
     expect(allText(en.terce)).not.toContain('Romans 8:22-23')
+  })
+
+  it('gives each LA hour its own hymn and reading around the shared psalmody', () => {
+    const la = splitDaytime(parseHour(load('la-ora_media.html')), 'la')
+    // per-hour hymns — the LA page repeats the markers (hymns up top, readings below)
+    expect(allText(la.terce)).toContain('Nunc, Sancte, nobis')
+    expect(allText(la.sext)).toContain('Rector potens')
+    expect(allText(la.sext)).not.toContain('Nunc, Sancte, nobis')
+    // per-hour readings
+    expect(allText(la.terce)).toContain('Rom 8, 15-16')
+    expect(allText(la.sext)).toContain('Rom 8, 22-23')
+    expect(allText(la.terce)).not.toContain('Rom 8, 22-23')
+    for (const hour of [la.terce, la.sext, la.none]) {
+      const r = rubrics(hour)
+      expect(r.some((t) => t.startsWith('PSALMODIA'))).toBe(true) // shared psalmody
+      expect(r.some((t) => t.startsWith('ORATIO'))).toBe(true) // shared ending
+      expect(allText(hour)).toContain('Benedicámus Dómino')
+      expect(r.some((t) => t.startsWith('AD '))).toBe(false) // markers dropped
+    }
   })
 
   it('drops the hour marker paragraphs themselves', () => {

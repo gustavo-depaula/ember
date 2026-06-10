@@ -8,9 +8,9 @@ export type HourId =
   | 'compline'
 
 // iBreviary's `lang` form value. Beyond vernaculars it also selects editions:
-// 'la' (Latin) and 'vt' (Vetus Ordo) are valid future values — extend the
-// tables, never branch on literals elsewhere.
-export type IbLang = 'en' | 'pt'
+// 'vt' (Vetus Ordo) is a valid future value — extend the tables, never branch
+// on literals elsewhere.
+export type IbLang = 'en' | 'pt' | 'la'
 
 export const baseUrl = 'https://www.ibreviary.com/m2'
 
@@ -33,13 +33,15 @@ export type DaytimeHour = (typeof daytimeHours)[number]
 export const isDaytimeHour = (h: HourId): h is DaytimeHour =>
   (daytimeHours as readonly HourId[]).includes(h)
 
-// First-line text that opens each little hour's own block (reading, versicle,
-// oration) inside the combined ora_media page, in terce/sext/none order.
-// PT marks them as bare <strong>Tércia</strong> paragraphs; EN as
-// "MIDMORNING [Terce]" label runs.
+// First-line text that opens each little hour's own block inside the combined
+// ora_media page, in terce/sext/none order. PT marks them as bare
+// <strong>Tércia</strong> paragraphs; EN as "MIDMORNING [Terce]" label runs;
+// LA uses each marker twice (per-hour hymn near the top, per-hour reading
+// after the shared psalmody — the region walk in splitDaytime handles both).
 export const daytimeMarkers: Record<IbLang, [string, string, string]> = {
   pt: ['Tércia', 'Sexta', 'Noa'],
   en: ['MIDMORNING', 'MIDDAY', 'MIDAFTERNOON'],
+  la: ['AD TERTIAM', 'AD SEXTAM', 'AD NONAM'],
 }
 
 const hourIds = Object.keys(hourSections) as HourId[]
@@ -50,7 +52,10 @@ export function narrowHour(raw: unknown): HourId {
 }
 
 // iBreviary's `pt` is the European Portuguese LOTH edition — accepted for
-// pt-BR users (Brazil's CNBB edition isn't available there).
+// pt-BR users (Brazil's CNBB edition isn't available there). `la` is the
+// Liturgia Horarum editio typica.
 export function ibLangFor(appLang: string): IbLang {
-  return appLang === 'pt-BR' ? 'pt' : 'en'
+  if (appLang === 'pt-BR') return 'pt'
+  if (appLang === 'la') return 'la'
+  return 'en'
 }

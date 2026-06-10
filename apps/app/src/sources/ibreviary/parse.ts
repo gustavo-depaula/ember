@@ -2,7 +2,14 @@ import type { ChildNode, Element } from 'domhandler'
 import { parseDocument } from 'htmlparser2'
 import type { Primitive, RubricPrimitive, VersesPrimitive } from '@/content/primitives'
 import { findElement, findElementInList, hasClass, isTag } from '../dom'
-import { type DaytimeHour, daytimeMarkers, type HourId, type IbLang, isDaytimeHour } from './config'
+import {
+  type DaytimeHour,
+  daytimeHours,
+  daytimeMarkers,
+  type HourId,
+  type IbLang,
+  isDaytimeHour,
+} from './config'
 
 // iBreviary serves one office as linear HTML, but the two editions mark it up
 // differently: PT uses many small <p>s (one per stanza/rubric), EN packs whole
@@ -241,58 +248,55 @@ const primitiveFirstLine = (p: Primitive): string => {
   return ''
 }
 
-// Where the shared ending starts inside the last hour's segment, per edition
-// (each edition marks up the office differently, so this is per-IbLang and
-// the Record keeps it exhaustive when new editions are added). PT repeats the
-// oration per hour and closes with one V/R versicle; EN prints the concluding
-// prayer only once, followed by the ACCLAMATION — so the EN conclusion starts
-// there (acclamation alone as drift fallback).
-const conclusionFinders: Record<IbLang, (segment: Primitive[]) => number> = {
-  en: (segment) => {
-    for (const prefix of [/^CONCLUDING PRAYER/i, /^ACCLAMATION/i]) {
-      for (let i = segment.length - 1; i >= 0; i--) {
-        const p = segment[i]
-        if (p.type === 'rubric' && prefix.test(p.text.primary)) return i
-      }
-    }
-    return -1
-  },
-  pt: (segment) => {
-    const last = segment[segment.length - 1]
-    return last?.type === 'verses' ? segment.length - 1 : -1
-  },
+// A primitive that returns the stream to common (shared by all three hours)
+// after an hour-specific block, per edition. EN prints the concluding prayer
+// + acclamation once after the last hour's reading; PT repeats the oration
+// per hour and shares only the closing Benedicamus versicle; LA returns to
+// common twice — at the psalmody (after the per-hour hymns) and at the
+// shared oration.
+const commonStarts: Record<IbLang, (p: Primitive) => boolean> = {
+  en: (p) => p.type === 'rubric' && /^(CONCLUDING PRAYER|ACCLAMATION)/i.test(p.text.primary),
+  pt: (p) => p.type === 'verses' && /^Bendigamos/.test(p.items[0]?.text.primary ?? ''),
+  la: (p) => p.type === 'rubric' && /^(PSALMODIA|ORATIO)/i.test(p.text.primary),
 }
 
-// ora_media carries the three little hours on one page: a common part
-// (opening, hymn, psalmody), one block per hour (reading, versicle, oration)
-// introduced by a marker paragraph, and a shared dismissal. Compose each
-// canonical hour as common + its own block + dismissal.
+// ora_media carries the three little hours on one page, alternating shared
+// parts (opening, psalmody, ending) with hour-specific blocks introduced by
+// marker paragraphs. Walk the stream tracking the current region: a marker
+// switches to its hour, a commonStarts hit switches back; common primitives
+// go to all three hours, hour primitives only to theirs.
 export function splitDaytime(
   primitives: Primitive[],
   ibLang: IbLang,
 ): Record<DaytimeHour, Primitive[]> {
   const markers = daytimeMarkers[ibLang]
-  const idx = markers.map((m) =>
-    primitives.findIndex((p) => primitiveFirstLine(p).toUpperCase().startsWith(m.toUpperCase())),
-  )
-  if (idx.some((i) => i === -1) || !(idx[0] < idx[1] && idx[1] < idx[2])) {
+  const markerHourOf = (p: Primitive): DaytimeHour | undefined => {
+    const first = primitiveFirstLine(p).toUpperCase()
+    const i = markers.findIndex((m) => first.startsWith(m.toUpperCase()))
+    return i === -1 ? undefined : daytimeHours[i]
+  }
+
+  const out: Record<DaytimeHour, Primitive[]> = { terce: [], sext: [], none: [] }
+  let region: DaytimeHour | 'common' = 'common'
+  const seen = new Set<DaytimeHour>()
+  for (const p of primitives) {
+    const hour = markerHourOf(p)
+    if (hour) {
+      region = hour
+      seen.add(hour)
+      continue // the marker itself is dropped — the hour picker already names it
+    }
+    if (region !== 'common' && commonStarts[ibLang](p)) region = 'common'
+    if (region === 'common') {
+      for (const h of daytimeHours) out[h].push(p)
+    } else {
+      out[region].push(p)
+    }
+  }
+  if (seen.size < daytimeHours.length) {
     throw new Error(`ibreviary: daytime hour markers not found (${markers.join(', ')})`)
   }
-
-  const common = primitives.slice(0, idx[0])
-  const segments = [
-    primitives.slice(idx[0] + 1, idx[1]),
-    primitives.slice(idx[1] + 1, idx[2]),
-    primitives.slice(idx[2] + 1),
-  ]
-  const concIdx = conclusionFinders[ibLang](segments[2])
-  const conclusion = concIdx === -1 ? [] : segments[2].slice(concIdx)
-
-  return {
-    terce: [...common, ...segments[0], ...conclusion],
-    sext: [...common, ...segments[1], ...conclusion],
-    none: [...common, ...segments[2]],
-  }
+  return out
 }
 
 export function parseHourPage(html: string, hour: HourId, ibLang: IbLang): Primitive[] {

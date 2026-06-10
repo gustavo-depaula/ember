@@ -9,11 +9,15 @@ import { fetchSectionHtml } from './session'
 // (ibreviary.org/en/tools/ibreviary-on-your-website.html). Emitted by the
 // source so it travels with the content and never shows under failure
 // placeholders.
+const attributionMessages: Record<string, string> = {
+  'pt-BR': 'Textos da Liturgia das Horas fornecidos por iBreviary — ibreviary.org',
+  la: 'Textus Liturgiæ Horarum ab iBreviary præbiti — ibreviary.org',
+}
+
 function attribution(lang: string): TextPrimitive {
   const message =
-    lang === 'pt-BR'
-      ? 'Textos da Liturgia das Horas fornecidos por iBreviary — ibreviary.org'
-      : 'Texts of the Liturgy of the Hours provided by iBreviary — ibreviary.org'
+    attributionMessages[lang] ??
+    'Texts of the Liturgy of the Hours provided by iBreviary — ibreviary.org'
   return { type: 'text', text: { primary: message }, style: 'italic' }
 }
 
