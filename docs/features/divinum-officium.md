@@ -121,4 +121,5 @@ Kept: `packages/liturgical` EF season/position (`ef-position.ts` — drives Ange
 
 - M0: spec written (this document).
 - M1: done — `scripts/import-do.ts` (pinned clone), parser in `packages/divinum-officium/src/parser/` (38 tests incl. fixture round-trips), `scripts/build-do-content.ts` → `content/do/` (deterministic), `build_do()` in `scripts/build-corpus.py` (15 `do-data` items), pinning collector. Cofficium runnability confirmed: vendor CGI.pm + URI from CPAN into `.do-golden-lib/` (gitignored) and run `PERL5LIB=<repo>/.do-golden-lib perl Cofficium.pl 'date1=MM-DD-YYYY' 'command=prayLaudes' 'version=Rubrics 1960 - 1960' 'lang2=English'`.
-- M2–M8: not started.
+- M2: done — `conditions/` (vero + parse_conditional + the process_conditional_lines scope machine), `references/` (setupstring port: per-section language layering, whole-file preamble inheritance, @-inclusion resolution with Perl-substitution semantics, Paschaltide commons redirect, missa→horas and Cist→M→Roman fallbacks), `rules.ts`, `loader.ts` + `node/fsLoader.ts`. **Differential-tested against DO's own Perl** via `test/perl-harness/{process-lines,setupstring}.pl`: every conditional-bearing Latin section × 3 versions (scope machine) and ~190 sampled files × 3 languages × 3 versions (full setupstring) are byte-identical.
+- M3–M8: not started.
