@@ -109,6 +109,11 @@ export type ResolutionLite = {
 
 export type FlowContext = {
   date: Date
+  // Wall-clock time for time-of-day dispatch (`hour`, `timeOfDay`). `date` is
+  // the logical day — midnight-normalized with the app's 4am cutoff — so its
+  // getHours() silently reads 0; callers that resolve hour-mapped selects
+  // must pass the real clock here.
+  now?: Date
   numbering?: string
   liturgicalCalendar?: LiturgicalCalendarForm
   trackDefs?: Record<string, LectioTrackDef>
@@ -130,9 +135,9 @@ export function getContextValue(context: FlowContext, key: string): string | und
     case 'dayOfMonth':
       return String(getDate(context.date))
     case 'hour':
-      return String(context.date.getHours())
+      return String((context.now ?? context.date).getHours())
     case 'timeOfDay': {
-      const h = context.date.getHours()
+      const h = (context.now ?? context.date).getHours()
       if (h >= 5 && h < 12) return 'morning'
       if (h >= 12 && h < 17) return 'afternoon'
       if (h >= 17 && h < 21) return 'evening'
