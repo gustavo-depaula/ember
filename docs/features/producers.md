@@ -198,7 +198,7 @@ These are mentioned here so we don't pretend they don't exist; they are not desi
 - **Web parity for external fetching.** Native uses `fetch()` directly. Web needs either a thin no-store CORS proxy or a "open original" fallback. Resolve when a real source forces the decision.
 - **Lírio Católico partnership.** Approach the site owner about a JSON endpoint instead of scraping — better for both sides.
 - **Escriva legal posture.** Confirm transient display with attribution is acceptable before any adapter work.
-- ~~**iBreviary terms-of-use review** before shipping the producer.~~ Resolved — iBreviary invites third-party reuse of its texts (see link in the table above); the producer emits an attribution line with every hour.
+- ~~**iBreviary terms-of-use review** before shipping the producer.~~ Resolved — iBreviary invites third-party reuse of its texts (see link in the table above); the credit lives in the practice's manifest description.
 
 ---
 

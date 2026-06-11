@@ -47,6 +47,9 @@ export function usePracticeContent(
 
   const now = useToday()
   const todayKey = now.getTime()
+  // `now` is the logical day at midnight — hour-mapped selects need the real
+  // clock, and keying by it re-resolves the default as the day advances.
+  const clockHour = new Date().getHours()
 
   return useQuery({
     queryKey: [
@@ -59,6 +62,7 @@ export function usePracticeContent(
       liturgicalCalendar ?? null,
       numbering,
       todayKey,
+      clockHour,
       trackDefs,
       trackState,
       cycleData,
@@ -68,6 +72,7 @@ export function usePracticeContent(
       if (!flow) return { renderedSections: [], primitives: [] }
       const context: FlowContext = {
         date: now,
+        now: new Date(),
         numbering,
         liturgicalCalendar,
         trackDefs,

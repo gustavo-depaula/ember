@@ -42,6 +42,17 @@ describe('getContextValue', () => {
     ).toBe('night')
   })
 
+  it('prefers the wall-clock `now` over the logical `date` for hour and timeOfDay', () => {
+    // Hosts pass `date` as the logical day at midnight (getHours() reads 0);
+    // hour-mapped selects must follow the real clock when provided.
+    const ctx = makeContext({
+      date: new Date('2026-04-12T00:00:00'),
+      now: new Date('2026-04-12T18:30:00'),
+    })
+    expect(getContextValue(ctx, 'hour')).toBe('18')
+    expect(getContextValue(ctx, 'timeOfDay')).toBe('evening')
+  })
+
   it('returns liturgicalCalendar and numbering from context', () => {
     expect(getContextValue(makeContext({ liturgicalCalendar: 'ef' }), 'liturgicalCalendar')).toBe(
       'ef',

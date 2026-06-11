@@ -6,20 +6,8 @@ import { parseHourPage } from './parse'
 import { fetchSectionHtml } from './session'
 
 // iBreviary asks integrators to credit the app when reusing its texts
-// (ibreviary.org/en/tools/ibreviary-on-your-website.html). Emitted by the
-// source so it travels with the content and never shows under failure
-// placeholders.
-const attributionMessages: Record<string, string> = {
-  'pt-BR': 'Textos da Liturgia das Horas fornecidos por iBreviary — ibreviary.org',
-  la: 'Textus Liturgiæ Horarum ab iBreviary præbiti — ibreviary.org',
-}
-
-function attribution(lang: string): TextPrimitive {
-  const message =
-    attributionMessages[lang] ??
-    'Texts of the Liturgy of the Hours provided by iBreviary — ibreviary.org'
-  return { type: 'text', text: { primary: message }, style: 'italic' }
-}
+// (ibreviary.org/en/tools/ibreviary-on-your-website.html) — the credit lives
+// in the practice's manifest description rather than inside every hour.
 
 // ibreviary.com sends no CORS headers, so the browser can't fetch it. There
 // is no offline office to substitute (unlike the Gospel producer), so web
@@ -39,7 +27,9 @@ function webPlaceholder(lang: string): TextPrimitive {
 // ora_media download and are split in parse).
 export const breviarySource = {
   id: 'producer/breviary-of-the-day',
-  version: '1',
+  // v1.1: attribution line no longer emitted — bump drops cached payloads
+  // that still carry it.
+  version: '1.1',
   prefsDeps: ['lang' as const],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[] | TextPrimitive> {
@@ -48,6 +38,6 @@ export const breviarySource = {
 
     const ibLang = ibLangFor(ctx.prefs.lang)
     const html = await fetchSectionHtml(ibLang, ctx.date, hourSections[hour])
-    return [...parseHourPage(html, hour, ibLang), attribution(ctx.prefs.lang)]
+    return parseHourPage(html, hour, ibLang)
   },
 }
