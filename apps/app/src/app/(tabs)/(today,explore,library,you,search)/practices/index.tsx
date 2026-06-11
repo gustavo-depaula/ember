@@ -37,8 +37,8 @@ import { SearchAutocomplete } from '@/features/practices/components'
 import { ShortcutGrid, type ShortcutTileData } from '@/features/search'
 import { localizeContent } from '@/lib/i18n'
 
-const flourishDark = require('../../../../assets/textures/notch_search_dark.png')
-const flourishLight = require('../../../../assets/textures/notch_search_light.png')
+const flourishDark = require('../../../../../assets/textures/notch_search_dark.png')
+const flourishLight = require('../../../../../assets/textures/notch_search_light.png')
 const flourishAspect = 2172 / 478
 const flourishLightAspect = 2153 / 334
 
