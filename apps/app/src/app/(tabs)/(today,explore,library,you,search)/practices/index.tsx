@@ -1,4 +1,3 @@
-import { Stack } from 'expo-router'
 import {
   BookOpen,
   Church,
@@ -33,7 +32,6 @@ import { collectionRow, devotionRow, traditionRow } from '@/features/explore/pic
 import { useCreatePractice } from '@/features/plan-of-life'
 import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
-import { SearchAutocomplete } from '@/features/practices/components'
 import { ShortcutGrid, type ShortcutTileData } from '@/features/search'
 import { localizeContent } from '@/lib/i18n'
 
@@ -51,21 +49,20 @@ function slugify(name: string): string {
 
 /**
  * The Orar (Pray) catalog: an illuminated portfolio of every way to pray,
- * structured for browsing rather than scanning a flat list. The native iOS
- * search bar morphs out of the header; clearing it returns to the curated
- * sections (Por momento → Caminhos → Devoções → Por tipo → Personalizadas).
- * The flat virtualized list lives one tap deeper at `/practices/all` and is
- * pre-filterable via URL params (`?category=…&moment=…`).
+ * structured for browsing rather than scanning a flat list. No header search
+ * bar here — corpus search lives in the tab bar's search role (the circular
+ * affordance that expands into a field, à la Apple Podcasts), so the page
+ * stays a clean stack of curated sections (Por momento → Caminhos → Devoções
+ * → Por tipo → Personalizadas). The flat virtualized list lives one tap
+ * deeper at `/practices/all` and is pre-filterable via URL params
+ * (`?category=…&moment=…`).
  */
 export default function PracticeCatalogScreen() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
 
-  const [query, setQuery] = useState('')
   const [showEditor, setShowEditor] = useState(false)
   const createPractice = useCreatePractice()
-
-  const isSearching = query.trim().length > 0
 
   function handleSave(data: PracticeFormData) {
     createPractice.mutate({
@@ -191,78 +188,58 @@ export default function PracticeCatalogScreen() {
 
   return (
     <>
-      <Stack.Screen
-        options={{
-          headerShown: true,
-          headerTransparent: true,
-          headerTitle: '',
-          scrollEdgeEffects: { top: 'hidden' },
-          headerSearchBarOptions: {
-            placeholder: t('pray.searchPlaceholder'),
-            onChangeText: (e: { nativeEvent: { text: string } }) => setQuery(e.nativeEvent.text),
-          },
-        }}
-      />
       <ScreenLayout>
-        {!isSearching && (
-          <PageFlourish
-            dark={flourishDark}
-            light={flourishLight}
-            aspectRatio={flourishAspect}
-            lightAspectRatio={flourishLightAspect}
-          />
-        )}
-        {isSearching ? (
-          <YStack paddingVertical="$lg">
-            <SearchAutocomplete query={query} />
-          </YStack>
-        ) : (
-          <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
-            <PageHeader title={t('catalog.title')} />
+        <PageFlourish
+          dark={flourishDark}
+          light={flourishLight}
+          aspectRatio={flourishAspect}
+          lightAspectRatio={flourishLightAspect}
+        />
+        <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
+          <PageHeader title={t('catalog.title')} />
 
-            <Section title={t('catalog.byMoment')}>
-              <ShortcutGrid items={withTones(momentTiles)} />
-            </Section>
+          <Section title={t('catalog.byMoment')}>
+            <ShortcutGrid items={withTones(momentTiles)} />
+          </Section>
 
-            {traditions.length > 0 && (
-              <ArtCarousel title={t('catalog.traditions')}>
-                {traditions.map(([id, entry]) => (
-                  <ArtCoverCard
-                    key={id}
-                    title={localizeContent(entry.name ?? {})}
-                    image={artFor(id)}
-                    tone={toneForKey(id)}
-                    href={collectionHref(id)}
-                    onPress={() => warmCollection(id)}
-                  />
-                ))}
-              </ArtCarousel>
-            )}
+          {traditions.length > 0 && (
+            <ArtCarousel title={t('catalog.traditions')}>
+              {traditions.map(([id, entry]) => (
+                <ArtCoverCard
+                  key={id}
+                  title={localizeContent(entry.name ?? {})}
+                  image={artFor(id)}
+                  tone={toneForKey(id)}
+                  href={collectionHref(id)}
+                  onPress={() => warmCollection(id)}
+                />
+              ))}
+            </ArtCarousel>
+          )}
 
-            {devotions.length > 0 && (
-              <ArtCarousel title={t('catalog.devotions')}>
-                {devotions.map(([id, entry]) => (
-                  <ArtCoverCard
-                    key={id}
-                    title={localizeContent(entry.name ?? {})}
-                    image={artFor(id)}
-                    tone={toneForKey(id)}
-                    href={collectionHref(id)}
-                    onPress={() => warmCollection(id)}
-                  />
-                ))}
-              </ArtCarousel>
-            )}
+          {devotions.length > 0 && (
+            <ArtCarousel title={t('catalog.devotions')}>
+              {devotions.map(([id, entry]) => (
+                <ArtCoverCard
+                  key={id}
+                  title={localizeContent(entry.name ?? {})}
+                  image={artFor(id)}
+                  tone={toneForKey(id)}
+                  href={collectionHref(id)}
+                  onPress={() => warmCollection(id)}
+                />
+              ))}
+            </ArtCarousel>
+          )}
 
-            <Section title={t('catalog.byType')}>
-              <ShortcutGrid items={withTones(typeTiles)} />
-            </Section>
+          <Section title={t('catalog.byType')}>
+            <ShortcutGrid items={withTones(typeTiles)} />
+          </Section>
 
-            <Section title={t('catalog.personal')}>
-              <ShortcutGrid items={withTones(personalTiles)} />
-            </Section>
-          </YStack>
-        )}
+          <Section title={t('catalog.personal')}>
+            <ShortcutGrid items={withTones(personalTiles)} />
+          </Section>
+        </YStack>
       </ScreenLayout>
 
       <Modal
