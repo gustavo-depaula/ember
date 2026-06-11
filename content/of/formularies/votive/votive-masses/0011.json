@@ -1,0 +1,1558 @@
+{
+  "id": "votive.votive-masses.0011",
+  "kind": "votive",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "9. DE SPIRITU SANCTO",
+    "es": "9. DEL ESPÍRITU SANTO C",
+    "en-US": "9. Holy Spirit C",
+    "pt-BR": "9. Espírito Santo C",
+    "it": "9. SPIRITO SANTO",
+    "fr": "9. SAINT-ESPRIT C",
+    "de": "9. VOM HEILIGEN GEIST C"
+  },
+  "color": "red",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Spíritus Dómini super me, evangelizáre paupéribus misit me, dicit Dóminus."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "El Espíritu del Señor está sobre mí. Me ha enviado a evangelizar a los pobres,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dice el Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "The Spirit of the Lord is upon me,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "he has sent me to preach the good news to the poor, says the Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Espírito do Senhor está sobre mim, enviou-me para anunciar a boa-nova aos pobres, diz o Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "«Lo Spirito del Signore è sopra di me; mi ha mandato a portare ai poveri il lieto annuncio», dice il Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "L’Esprit du Seigneur est sur moi ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "il m’a envoyé porter la Bonne Nouvelle aux pauvres,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dit le Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Der Geist Gottes des Herrn ruht auf mir. Der Herr hat mich gesandt, damit ich den Armen eine gute Nachricht bringe."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "it": "Lc 4,18"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, cuius Spíritu régimur, cuius protectióne servámur, præténde nobis misericórdiam tuam, et exorábilis tuis esto supplícibus, ut in te credéntium fides tuis semper benefíciis adiuvétur. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cuyo Espíritu nos gobierna y nos protege,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "atiende misericordioso nuestras súplicas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que la fe de los que creemos en ti se afiance siempre con tus beneficios."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, by whose spirit we are governed and by whose protection we are kept safe, extend over us your mercy and give ear to our supplications,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that the faith of those who believe in you may always be sustained by your gifts."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que nos governais pelo vosso Espírito e nos guardais com vossa proteção, estendei sobre nós a vossa misericórdia e sede propício às nossas súplicas, para que a fé dos que creem em vós seja sustentada pelos vossos benefícios. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che guidi la Chiesa con il tuo Spirito e la custodisci con la tua protezione, effondi su di noi la tua misericordia: ascolta le nostre umili preghiere, perché quanti credono in te siano sempre sostenuti dai benefici del tuo amore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu nous conduis par ton Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu nous gardes sous ta protection ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "étends sur nous ta miséricorde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sois favorable à ceux qui te supplient :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que tes bienfaits soutiennent toujours la foi de ceux qui croient en toi."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du leitest und behütest uns durch deinen Geist. Erweise an uns deine Barmherzigkeit und erhöre unsere Gebete, damit durch deine Gnadengaben unser Glaube erstarke. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sacrifícia, Dómine, tuis obláta conspéctibus, ignis Spíritus sanctíficet, qui discipulórum Fílii tui corda succéndit. Qui vivit et regnat in sǽcula sæculórum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, el fuego del Espíritu que inflamó los corazones de los discípulos de tu Hijo santifique también estas ofrendas que presentamos ante tus ojos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the fire of the spirit, o Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sanctify the sacrificial gifts offered in your sight,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "just as it enkindled the hearts of the disciples of your Son. Who lives and reigns for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, o fogo do Espírito Santo, que inflamou os corações dos discípulos do vosso Filho, santifique os dons que trazemos à vossa presença. Por Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Padre, il fuoco dello Spirito che infiammò il cuore dei discepoli del tuo Figlio santifichi le offerte che ti presentiamo. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que le feu de ton Esprit, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "vienne consacrer les offrandes que nous présentons devant toi,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "comme il a embrasé autrefois le cœur des disciples de ton Fils."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, wir bringen diese Gaben vor dein Angesicht. Heilige sie durch das Feuer deines Geistes, der einst auf die Jünger herabgekommen ist und ihre Herzen entflammt hat. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf081",
+      "label": {
+        "la": "Præfatio I",
+        "es": "Prefacio I",
+        "en-US": "Preface I",
+        "pt-BR": "Prefácio do Espírito Santo I",
+        "it": "PREFAZIO DELLO SPIRITO SANTO I",
+        "fr": "Préface",
+        "de": "Präfation"
+      },
+      "excerpt": {
+        "la": "de Spíritu Sancto",
+        "es": "del Espíritu Santo",
+        "en-US": "of the Holy Spirit",
+        "fr": "du Saint-Esprit n° 1",
+        "de": "vom Heiligen Geist I"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "De missione Spíritus a Dómino in Ecclésiam."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui, ascéndens super omnes cælos sedénsque ad déxteram tuam,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "promíssum Spíritum Sanctum in fílios adoptiónis effúdit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quaprópter nunc et usque in sǽculum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum omni milítia Angelórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "devóta tibi mente concínimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "clamántes atque dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El Señor envía el Espíritu a la Iglesia"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "después de subir al cielo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "donde está sentado a tu derecha,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ha derramado sobre tus hijos de adopción el Espíritu Santo que había prometido."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, con toda la multitud de los ángeles te aclamamos ahora y por siempre diciendo con humilde fe:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The sending of the spirit by the lord upon the Church"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ascending above all the heavens and sitting at your right hand,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he poured out the promised Holy Spirit on your adopted children."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, now and for ages unending,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with all the host of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing to you with all our hearts crying out as we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "O Espírito Santo, enviado por Cristo à Igreja."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tendo subido ao mais alto dos céus e sentando-se à vossa direita,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ele derramou o Espírito Santo prometido sobre os filhos e filhas de adoção."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, agora e sempre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "com grande devoção,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos aclamamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a todos os coros dos anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il Signore manda lo Spirito nella Chiesa"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Elevato al di sopra dei cieli e assiso alla tua destra, egli secondo la sua promessa ha effuso sui figli d’adozione lo Spirito Santo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di santità e di grazia, uniti a tutte le schiere degli angeli, ora e sempre, con cuore riconoscente, proclamiamo nel canto la tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "L’envoi de l’Esprit par le Seigneur à l’Église."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et pour notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Il est monté plus haut que les cieux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il siège à ta droite,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et c’est lui qui répand sur tes enfants d’adoption l’Esprit Saint qu’il avait promis."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dès maintenant et pour l’éternité,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous pouvons te chanter avec tous les anges et, d’un cœur fervent, proclamer :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Der Heilige Geist als Geschenk des erhöhten Christus"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn er hat das Werk der Erlösung vollbracht, er ist aufgefahren über alle Himmel und thront zu deiner Rechten. Er hat den Heiligen Geist, wie er den Jüngern versprochen, ausgegossen über alle, die du zu deinen Kindern erwählt hast."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir jetzt und in Ewigkeit dein Erbarmen und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf082",
+      "label": {
+        "la": "Præfatio II",
+        "es": "Prefacio II",
+        "en-US": "Preface Ii",
+        "pt-BR": "Prefácio do Espírito Santo Ii",
+        "it": "PREFAZIO DELLO SPIRITO SANTO II",
+        "fr": "Préface",
+        "de": "Präfation"
+      },
+      "excerpt": {
+        "la": "de Spíritu Sancto",
+        "es": "del Espíritu Santo",
+        "en-US": "of the Holy Spirit",
+        "fr": "du Saint-Esprit n° 2",
+        "de": "vom Heiligen Geist II"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "De actione Spíritus in Ecclésia"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui síngulis quibúsque tempóribus aptánda dispénsas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mirísque modis Ecclésiæ tuæ gubernácula moderáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Virtúte enim Spíritus Sancti ita eam adiuváre non désinis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut súbdito tibi semper afféctunec in tribulatióne supplicáre defíciat,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nec inter gáudia grátias reférre desístat,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, choris angélicis sociáti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te laudámus in gáudio confiténtes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "La acción del Espíritu en la Iglesia"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes en cada momento lo que más conviene y diriges sabiamente la nave de tu Iglesia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "asistiéndola siempre con la fuerza del Espíritu Santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, a impulso de su amor confiado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "no abandone la plegaria en la tribulación,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ni la acción de gracias en el gozo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "A quien alaban los cielos y la tierra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los ángeles y los arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The action of the spirit in the Church"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you bestow gifts suited to every season and guide the governing of your Church in wonderful ways."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "By the power of the Holy Spirit you come unfailingly to her aid so that with a heart always subject to you she may never fail to seek your help in time of trouble nor cease to give you thanks in time of joy,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, in company with the choirs of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, and with joy we proclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "A ação do Espírito Santo na Igreja"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis, a cada momento,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o que mais nos convém,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e conduzis a vossa Igreja por admiráveis e diversos caminhos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós não cessais de ajudá-la com a força do Espírito Santo para que, sempre fiel ao vosso amor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "jamais deixe de invocar-vos na tribulação nem se esqueça de louvar-vos na alegria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, associados aos coros dos anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos com alegria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "La missione dello Spirito nella Chiesa"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In ogni tempo tu doni energie nuove alla tua Chiesa e lungo il suo cammino mirabilmente la guidi e la proteggi. Con la potenza del tuo santo Spirito le assicuri il tuo sostegno, ed essa, nel suo amore fiducioso, non si stanca mai d’invocarti nella prova, e nella gioia sempre ti rende grazie, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per mezzo di lui cieli e terra inneggiano al tuo amore; e noi, uniti agli angeli e ai santi, cantiamo senza fine la tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "L’action de l’Esprit dans l’Église."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et pour notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Toi qui sais ce qu’il faut à chacun et le lui donnes à chaque instant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu gouvernes ton Église avec une sagesse admirable."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car tu ne cesses de la soutenir par la force de l’Esprit Saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour que, d’un cœur toujours attaché à toi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "elle persévère dans la supplication au milieu des épreuves,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et dans l’action de grâce lorsqu’elle est dans la joie,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unissant nos voix à celles des anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons dans la joie en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Durch den Heiligen Geist führt Gott die Kirche"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater im Himmel, zu danken und dich mit der ganzen Schöpfung zu loben."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn deine Vorsehung waltet über jeder Zeit; in deiner Weisheit und Allmacht führst du das Steuer der Kirche und stärkst sie durch die Kraft des Heiligen Geistes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In ihm kann sie allezeit auf deine Hilfe vertrauen, in Not und Bedrängnis zu dir rufen und in Tagen der Freude dir danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dein Erbarmen und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Emítte Spíritum tuum, et creabúntur, et renovábis fáciem terræ."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Envía tu Espíritu y serán creados, y renovarás la faz de la tierra."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Send forth your Spirit, and they shall be created, and you shall renew the face of the earth."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Enviai, Senhor, o vosso Espírito e tudo será criado, e renovareis a face da terra."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mandi il tuo Spirito e ogni cosa prende vita: egli rinnova la faccia della terra."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Envoie ton Esprit, et tout sera créé ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et tu renouvelleras la face de la terre."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sende deinen Geist aus, und alles wird neu geschaffen, und du wirst das Angesicht der Erde erneuern."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Hæc nobis, Dómine, múnera sumpta profíciant, ut illo iúgiter Spíritu ferveámus, quem Apóstolis tuis ineffabíliter infudísti. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Estos dones que acabamos de recibir, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos sirvan de provecho,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que nos inflame el mismo Espíritu que infundiste de modo inefable en tus apóstoles."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May these gifts we have consumed benefit us, o Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we may always be aflame with the same spirit whom you wondrously poured out on your apostles."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Aproveitem-nos, Senhor, estes dons que recebemos, para que vivamos sempre no fervor daquele Espírito que de modo admirável derramastes sobre os vossos Apóstolos. Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "I doni che abbiamo ricevuto, o Signore, accendano in noi il fuoco dello Spirito che hai effuso in modo mirabile sugli apostoli. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que les dons reçus dans cette communion, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous soient profitables et nous remplissent toujours de la ferveur de l’Esprit que tu as répandu de manière ineffable sur tes Apôtres."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, lass das Sakrament, das wir empfangen haben, in uns wirksam werden und nähre in uns das Feuer des Heiligen Geistes, den du am Pfingstfest den Aposteln eingegossen hast. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

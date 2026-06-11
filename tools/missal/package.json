@@ -1,0 +1,21 @@
+{
+  "name": "@ember/missal-build",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cli": "tsx src/cli.ts",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@ember/missal-schema": "workspace:*",
+    "cheerio": "^1.0.0",
+    "domhandler": "^5.0.3",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "vitest": "^3.0.0"
+  }
+}

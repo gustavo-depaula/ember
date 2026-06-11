@@ -1,0 +1,51 @@
+{
+  "id": "sanctorale.movable.99-99.france",
+  "kind": "sanctoral",
+  "scope": "france",
+  "structure": "mass",
+  "title": {
+    "pt-BR": "sanctorale.movable.99-99. france"
+  },
+  "color": "white",
+  "rank": "solemnity",
+  "cycleScheme": "fixed",
+  "includeGloria": true,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "(Collecte)."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.movable.99-99.france.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Préface."
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

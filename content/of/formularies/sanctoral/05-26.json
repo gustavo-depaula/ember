@@ -1,0 +1,1492 @@
+{
+  "id": "sanctorale.05-26",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Philippi Neri, presbyteri",
+    "es": "San Felipe Neri, presbítero",
+    "en-US": "Saint Philip Neri, Priest",
+    "pt-BR": "São Filipe Néri, presbítero",
+    "it": "SAN FILIPPO NERI, presbitero",
+    "fr": "Saint Philippe Néri, prêtre",
+    "de": "Hl. Philipp Neri, Priester"
+  },
+  "description": {
+    "la": "Natus est Florentiæ anno 1515; Romam profectus, iuvenibus se impendere cœpit, dum vitam christianam colebat, et consociationem pro pauperibus ægrotis instituit. Sacerdotio initiatus anno 1551, Oratorium instituit, in quo lectiones spiritales, cantus et ópera caritatis exercebantur. Enituit amore in proximum, evangelica simplicitate et hilari servitio Dei. Mortuus est anno 1595.",
+    "es": "Nació en Florencia el año 1515; marchó a Roma y se dedicó al cuidado de los jóvenes; destacó en el camino de la perfección cristiana y fundó una asociación para atender a los pobres. Ordenado sacerdote en 1551, fundó la Congregación del Oratorio, en la que se cultivaba especialmente la lectura espiritual, el canto y las obras de caridad. Brilló por sus obras de caridad con el prójimo, por su sencillez y su alegría. Murió el año 1595.",
+    "pt-BR": "Filipe (Florença, Itália, 1515 - Roma, 26 de maio de 1595), sacerdote (1551), fundou o Oratório que dele teve o nome. Uniu à experiência mística, que teve a sua mais alta expressão na celebração da Missa, grande capacidade de contato humano e popular. Promoveu novas formas de arte e de cultura. Catequista e guia espiritual de extraordinário talento, difundia em torno de si uma sensação de alegria que brotava de sua união com Deus e de seu bom humor.",
+    "it": "Filippo (Firenze, 21 luglio 1515 - Roma, 26 maggio 1595), giunto a Roma in giovane età, si dedicò all’assistenza dei malati incurabili e dei pellegrini poveri. Ordinato presbitero, fu assiduo al confessionale e celebrò l’Eucaristia con devozione intensa, fino al trasporto mistico. Dagli incontri periodici con un gruppo di suoi penitenti – che egli intratteneva, con stile gioioso, in dialoghi spirituali e in attività ricreative, culturali, caritative – nacquero l’esperienza dell'«Oratorio» e la Congregazione dei sacerdoti che porta lo stesso nome, riconosciuta da Gregorio XIII il 15 luglio 1575.",
+    "fr": "Philippe Néri (1515-1595), Florentin de naissance mais Romain d’adoption, sut assumer dans la joie l’austérité des Béatitudes. Il suffisait de voir vivre ce prêtre, tour à tour perdu en extase devant l’Hostie et donné sans réserve aux jeunes, aux malades, aux prisonniers. Ce fut le secret du succès de l'« Oratoire du divin Amour » qu’il avait fondé.",
+    "de": "Der heilige Philipp Neri wurde 1515 in Florenz geboren, ging als junger Mann nach Rom und widmete sich dort den Jugendlichen. Er ging den Weg der christlichen Vollkommenheit und gründete eine Vereinigung, die sich dem Dienst an den Armen verschrieb. 1551 wurde er zum Priester geweiht und gründete eine Vereinigung von Weltpriestern, die Oratorium genannt wurde, und versuchte besonders die geistliche Lektüre, den Gesang und die Werke der Nächstenliebe zu pflegen. Er selbst stach hervor durch die Liebe zu seinen Mitmenschen, seine Einfachheit und Freude. Er starb 1595."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cáritas Dei diffúsa est in córdibus nostris, per inhabitántem Spíritum eius in nobis"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "allelúia"
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "El amor de Dios ha sido derramado en nuestros corazones por el mismo Espíritu que habita en nosotros"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "Aleluya"
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "The love of God has been poured into our hearts through the Spirit of God dwelling within us"
+                },
+                {
+                  "type": "rubric",
+                  "text": "E. T."
+                },
+                {
+                  "type": "text",
+                  "text": "alleluia"
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "O amor de Deus foi derramado em nossos corações pelo seu Espírito que habita em nós"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "aleluia"
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "L’amore di Dio è stato riversato nei nostri cuori per mezzo dello Spirito che abita in noi"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "Alleluia"
+                },
+                {
+                  "type": "rubric",
+                  "text": "."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "L’amour de Dieu a été répandu dans nos cœurs par l’Esprit Saint qui nous a été donné"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "alléluia"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Die Liebe Gottes ist ausgegossen in unsere Herzen durch den Heiligen Geist,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "der uns gegeben ist"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "Halleluja"
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui fidéles tibi servos sanctitátis glória sublimáre non desístis,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concéde propítius, ut illo nos igne Spíritus Sanctus inflámmet, quo beáti Philíppi cor mirabíliter penetrávit. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que no cesas de enaltecer a tus siervos con la gloria de la santidad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por tu bondad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que el Espíritu Santo encienda en nosotros aquel mismo fuego que atravesó admirablemente el corazón de san Felipe Neri."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who never cease to bestow the glory of holiness on the faithful servants you raise up for yourself, graciously grant that the Holy Spirit may kindle in us that fire with which he wonderfully filled the heart of Saint Philip Neri."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que não cessais de elevar à glória da santidade aqueles que vos servem fielmente,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei, benigno,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos inflame o fogo do Espírito Santo que ardia maravilhosamente no coração de São Filipe Néri."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che sempre esalti i tuoi servi fedeli con la gloria della santità,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "infondi in noi il tuo santo Spirito, che infiammò mirabilmente il cuore di san Filippo [Neri]. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu ne cesses d’élever à la gloire de la sainteté ceux qui te servent fidèlement ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous d’être embrasés du feu de l’Esprit Saint qui habitait admirablement le cœur de saint Philippe Néri."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du hast im Leben deines Dieners Philipp Neri den Glanz deiner Heiligkeit aufleuchten lassen. Gib uns eine brennende Liebe, wie er sie im Herzen trug,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "und die Heiterkeit des Geistes, die ihn zum Boten deiner Freude gemacht hat."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Hóstiam tibi laudis offeréntes, quǽsumus, Dómine, ut, beáti Philíppi exémplo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ad tui nóminis glóriam proximíque servítium hílares nos semper præstémus. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Al ofrecerte, Señor, este sacrificio de alabanza,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te rogamos que, a ejemplo de san Felipe Neri,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos consagremos siempre con entusiasmo a glorificar tu nombre y a servir al prójimo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "As we offer you the sacrifice of praise, O Lord, we ask that by the example of Saint Philip we may always give ourselves cheerfully for the glory of your name and the service of our neighbor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ao oferecermos este sacrifício de louvor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos pedimos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, a exemplo de São Filipe Néri,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sempre nos dediquemos com alegria à glória do vosso nome e ao serviço do próximo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accogli questo sacrificio di lode, o Signore, e fa' che sull’esempio di san Filippo siamo sempre lieti di donare la vita a gloria del tuo nome e a servizio dei fratelli. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "En t’offrant, Seigneur, le sacrifice de louange,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te prions :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puissions-nous toujours,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "à l’exemple de saint Philippe,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "travailler joyeusement à la gloire de ton nom et au service du prochain."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gütiger Gott, am Fest des heiligen Philipp Neri bringen wir dir das Opfer des Lobes dar. Wie du ihm ein fröhliches Herz geschenkt hast, so mache auch uns froh in deinem Dienst, damit wir deinen Namen preisen und die Menschen lieben."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sicut diléxit me Pater, et ego diléxi vos, dicit Dóminus; manéte in dilectióne mea"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "allelúia."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Como el Padre me ha amado, así os he amado yo, dice el Señor; permaneced en mi amor"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "Aleluya"
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "As the Father loves me, so I also love you; remain in my love"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "E. T."
+                },
+                {
+                  "type": "text",
+                  "text": "alleluia"
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Como meu Pai me amou,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "assim também eu vos amei."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Permanecei no meu amor, diz o Senhor"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "aleluia."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Come il Padre ha amato me, anche io ho amato voi. Rimanete nel mio amore"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "Alleluia"
+                },
+                {
+                  "type": "rubric",
+                  "text": "."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Comme le Père m’a aimé,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "moi aussi je vous ai aimés, dit le Seigneur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Demeurez dans mon amour"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "alléluia."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Wie mich der Vater geliebt hat, so habe auch ich euch geliebt. Bleibt in meiner Liebe!"
+                },
+                {
+                  "type": "rubric",
+                  "text": "T. P."
+                },
+                {
+                  "type": "text",
+                  "text": "Halleluja."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cæléstibus, Dómine, pasti delíciis, quǽsumus, ut, beáti Philíppi imitatióne,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "semper éadem, per quæ veráciter vívimus, appetámus. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alimentados con las delicias del cielo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, a imitación de san Felipe Neri,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "procuremos siempre aquello que nos asegura vida verdadera."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Having fed upon these heavenly delights,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we pray, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that in imitation of Saint Philip we may always long for that food by which we truly live."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, que nos fizestes provar o alimento celeste,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos pedimos que,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "imitando São Filipe Néri,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "desejemos sempre o alimento que nos traz a verdadeira vida."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, che ci hai fatto gustare il pane del cielo, fa' che a imitazione di san Filippo desideriamo sempre questo cibo che ci dona la vera vita. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Tu nous as fait goûter, Seigneur, aux joies du ciel,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et nous te prions :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne-nous, à l’exemple de saint Philippe,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de toujours désirer ce qui nous fait vivre en vérité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, durch die Teilnahme an diesem Mahl schenke uns jene Freude,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "durch die der heilige Philipp Neri deine Liebe zu den Menschen bezeugt hat."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lass uns immer nach dieser Speise hungern, die das wahre Leben gibt. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

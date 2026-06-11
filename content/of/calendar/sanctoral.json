@@ -1,0 +1,6158 @@
+[
+  {
+    "formularyRef": "sanctorale.01-02",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 2
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Basilii Magni et Gregorii Nazianzeni, episcoporum et Ecclésiæ doctorum",
+      "es": "San Basilio Magno y san Gregorio Nacianceno, obispos y doctores de la Iglesia",
+      "en-US": "Ss Basil the Great and Gregory Nazianzen, bishops and doctors of the Church",
+      "pt-BR": "Santos Basílio Magno e Gregório Nazianzeno, bispos e doutores da Igreja",
+      "it": "SANTI BASILIO MAGNO e GREGORIO NAZIANZENO, vescovi e dottori della Chiesa",
+      "fr": "Ss. Basilii Magni et Gregorii Nazianzeni, episcoporum et Ecclesiæ doctorum",
+      "de": "Hl. Basilius der Große und hl. Gregor von Nazianz, Bischöfe, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-03.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 3
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "france",
+    "title": {
+      "fr": "Sainte Geneviève, vierge"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-03",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 3
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Sanctissimi Nominis Iesu",
+      "es": "Santo Nombre de Jesús",
+      "en-US": "The Most Holy Name of Jesus",
+      "pt-BR": "Santíssimo Nome de Jesus",
+      "it": "SANTISSIMO NOME DI GESÙ",
+      "fr": "Saint Nom de Jésus",
+      "de": "Heiligster Name Jesu"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-04.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 4
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Saint Elizabeth Ann Seton, Religious"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-05.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 5
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Saint John Neumann, Bishop"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-06.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 6
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Saint André Bessette, Religious"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-07",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 7
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Raimundi de Penyafort, presbyteri",
+      "es": "San Raimundo de Peñafort, presbítero",
+      "en-US": "Saint Raymund of Penyafort, Priest",
+      "pt-BR": "São Raimundo de Penhaforte, presbítero",
+      "it": "SAN RAIMONDO DE PEÑAFORT, sacerdote",
+      "fr": "Saint Raymond de Penyafort, prêtre",
+      "de": "Hl. Raimund von Peñafort, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-08.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 8
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Severin, Mönch in Norikum"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-09.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "Saint Adrian of Canterbury, Abbot"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-09.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "spain",
+    "title": {
+      "es": "San Eulogio de Córdoba, presbítero y mártir"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-10.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 10
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "Beata Ana de los Ángeles Monteagudo, virgen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-13",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 13
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Hilarii, episcopi et Ecclésiæ doctoris",
+      "es": "San Hilario, obispo y doctor de la Iglesia",
+      "en-US": "Saint Hilary, Bishop and Doctor of the Church",
+      "pt-BR": "Santo Hilário, bispo e doutor da Igreja",
+      "it": "SANT’ILARIO, vescovo e dottore della Chiesa",
+      "fr": "Saint Hilaire, évêque et docteur de l’Église",
+      "de": "Hl. Hilarius, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-15.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 15
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "france",
+    "title": {
+      "fr": "Saint Remi, évêque"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-17",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 17
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Antonii, abbatis",
+      "es": "San Antonio, abad",
+      "en-US": "Saint Anthony, abbot",
+      "pt-BR": "Santo Antão, abade",
+      "it": "SANT’ANTONIO, abate",
+      "fr": "Saint Antoine, abbé",
+      "de": "Hl. Antonius, Mönchsvater"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-20.nigeria",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 20
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "nigeria",
+    "title": {
+      "en-US": "Blessed Cyprian Michael Tansi, Priest"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-20.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 20
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "spain",
+    "title": {
+      "es": "San Fructuoso obispo y mártir, y sus diaconos, santos Augurio y Eulogio, mártires"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-20",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 20
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Fabiani, papæ et martyris",
+      "es": "San Fabián, papa y mártir",
+      "en-US": "Saint Fabian, pope and martyr",
+      "pt-BR": "São Fabiano, papa e mártir",
+      "it": "SAN FABIANO, papa e martire",
+      "fr": "Saint Fabien, pape et martyr",
+      "de": "Hl. Fabian, Papst, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-21.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 21
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Meinrad, Mönch, Einsiedler, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 21
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Agnetis, virginis et martyris",
+      "es": "Santa Inés, virgen y mártir",
+      "en-US": "Saint Agnes, virgin and martyr",
+      "pt-BR": "Santa Inês, virgem e mártir",
+      "it": "SANT’AGNESE, vergine e martire",
+      "fr": "Sainte Agnès, vierge et martyre",
+      "de": "Hl. Agnes, Jungfrau, Märtyrin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-22.argentina-chile",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 22
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "argentina-chile",
+    "title": {
+      "es": "Beata Laura Vicuña, Virgen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-22",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 22
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Vincentii, diaconi et martyris",
+      "es": "San Vicente, diácono y mártir",
+      "en-US": "Saint Vincent, deacon and martyr",
+      "pt-BR": "São Vicente, diácono e mártir",
+      "it": "SAN VINCENZO, diacono e martire",
+      "fr": "Saint Vincent, diacre et martyr",
+      "de": "Hl. Vinzenz, Diakon, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-23.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 23
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Sel. Heinrich Seuse, Ordenspriester, Mystiker"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-23.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 23
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "San Ildefonso, obispo"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-24.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 24
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "es": "María, Reina de la Paz"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-24",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 24
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Francisci de Sales, episcopi et Ecclésiæ doctoris",
+      "es": "San Francisco de Sales, obispo y doctor de la Iglesia",
+      "en-US": "Saint Francis de Sales, bishop and doctor of the Church",
+      "pt-BR": "São Francisco de Sales, bispo e doutor da Igreja",
+      "it": "SAN FRANCESCO DI SALES, vescovo e dottore della Chiesa",
+      "fr": "Saint François de Sales, évêque et docteur de l’Église",
+      "de": "Hl. Franz von Sales, Bischof, Ordensgründer, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-25",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 25
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "IN CONVERSIONE S. PAULI, APOSTOLI",
+      "es": "LA CONVERSIÓN DEL APÓSTOL SAN PABLO",
+      "en-US": "The Conversion of Saint Paul, Apostle",
+      "pt-BR": "Conversão de São Paulo, apóstolo",
+      "it": "CONVERSIONE DI SAN PAOLO APOSTOLO",
+      "fr": "CONVERSION DE SAINT PAUL, APÔTRE",
+      "de": "BEKEHRUNG DES Hl. APOSTELS PAULUS"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-26",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 26
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Timothei et Titi, episcoporum",
+      "es": "San Timoteo y san Tito, obispos",
+      "en-US": "Ss. Timothy and Titus, bishops",
+      "pt-BR": "Santos Timóteo e Tito, bispos",
+      "it": "SANTI TIMOTEO e TITO, vescovi",
+      "fr": "Saints Timothée et Tite, évêques",
+      "de": "Hl. Timotheus und hl. Titus, Bischöfe, Apostelschüler"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-27",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 27
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Angelæ Merici, virginis",
+      "es": "Santa Ángela de Mérici, virgen",
+      "en-US": "Saint Angela Merici, virgin",
+      "pt-BR": "Santa Ângela Mérici, virgem",
+      "it": "SANT’ANGELA MERICI, vergine",
+      "fr": "Sainte Angèle Merici, vierge",
+      "de": "Hl. Angela Meríci, Ordensgründerin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-28",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 28
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Thomæ de Aquino, presbyteri et Ecclésiæ doctoris",
+      "es": "Santo Tomás de Aquino, presbítero y doctor de la Iglesia",
+      "en-US": "Saint Thomas Aquinas, priest and doctor of the Church",
+      "pt-BR": "Santo Tomás de Aquino, presbítero e doutor da Igreja",
+      "it": "SAN TOMMASO D’AQUINO, sacerdote e dottore della Chiesa",
+      "fr": "Saint Thomas d’Aquin, prêtre et docteur de l’Église",
+      "de": "Hl. Thomas von Aquin, Ordenspriester, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.01-31",
+    "dateRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 31
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis Bosco, presbyteri",
+      "es": "San Juan Bosco, presbítero",
+      "en-US": "Saint John Bosco, priest",
+      "pt-BR": "São João Bosco, presbítero",
+      "it": "SAN GIOVANNI BOSCO, sacerdote",
+      "fr": "S. Ioannis Bosco, presbyteri",
+      "de": "Hl. Johannes Bosco, Priester, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-02",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 2
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "IN PRÆSENTATIONE DOMINI",
+      "es": "LA PRESENTACIÓN DEL SEÑOR",
+      "en-US": "The Presentation of the Lord",
+      "pt-BR": "Apresentação do Senhor",
+      "it": "PRESENTAZIONE DEL SIGNORE",
+      "fr": "PRÉSENTATION DU SEIGNEUR AU TEMPLE",
+      "de": "DARSTELLUNG DES HERRN"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-03",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 3
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Blasii, episcopi et martyris",
+      "es": "San Blas, obispo y mártir",
+      "en-US": "Saint Blase, bishop and martyr",
+      "pt-BR": "São Brás, bispo e mártir",
+      "it": "SAN BIAGIO, vescovo e martire",
+      "fr": "Saint Blaise, évêque et martyr",
+      "de": "Hl. Blasius, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-04.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Rabanus Maurus, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-05",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 5
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Agathæ, virginis et martyris",
+      "es": "Santa Águeda, virgen y mártir",
+      "en-US": "Saint Agatha, virgin and martyr",
+      "pt-BR": "Santa Águeda, virgem e mártir",
+      "it": "SANT’AGATA, vergine e martire",
+      "fr": "Sainte Agathe, vierge et martyre",
+      "de": "Hl. Agatha, Jungfrau, Märtyrin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-06",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 6
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Pauli Miki et sociorum, martyrum",
+      "es": "San Pablo Miki y compañeros, mártires",
+      "en-US": "Ss Paul Miki and companions, martyrs",
+      "pt-BR": "São Paulo Miki e companheiros, mártires",
+      "it": "SAN PAOLO MIKI, presbitero e COMPAGNI martiri",
+      "fr": "Saint Paul Miki et ses compagnons, martyrs",
+      "de": "Hl. Paul Miki und Gefährten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-08",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 8
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Hieronymi Emiliani",
+      "es": "San Jerónimo Emiliani",
+      "en-US": "Saint Jerome Emiliani",
+      "pt-BR": "São Jerônimo Emiliani",
+      "it": "SAN GIROLAMO EMILIANI",
+      "fr": "Saint Jérôme Émilien",
+      "de": "Hl. Hieronymus Ämiliani, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-10",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 10
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Scholasticæ, virginis",
+      "es": "Santa Escolástica, virgen",
+      "en-US": "Saint Scholastica, virgin",
+      "pt-BR": "Santa Escolástica, virgem",
+      "it": "SANTA SCOLASTICA, vergine",
+      "fr": "Sainte Scholastique, vierge",
+      "de": "Hl. Scholastika, Jungfrau"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-11",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 11
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Beatæ Maríæ Virginis de Lourdes",
+      "es": "Nuestra Señora de Lourdes",
+      "en-US": "Our Lady of Lourdes",
+      "pt-BR": "Bem-aventurada Virgem Maria de Lourdes",
+      "it": "BEATA VERGINE MARIA DI LOURDES",
+      "fr": "Bienheureuse Vierge Marie de Lourdes",
+      "de": "Gedenktag Unserer Lieben Frau in Lourdes"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-14.religious-orders",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 14
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "religious-orders",
+    "title": {
+      "la": "Beatæ Maríæ Virginis, Matris Pulchræ Dilectionis",
+      "es": "Santa María, Madre del Amor Hermoso",
+      "en-US": "Holy Mary, Mother of Fair Love",
+      "pt-BR": "Bem-aventurada Virgem Maria, Mãe do Amor Formoso",
+      "it": "Beata Vergine Maria, Madre del Bell’Amore",
+      "fr": "Sainte Marie, Mère du Bel Amour",
+      "de": "SELIGE JUNGFRAU MARIA, MUTTER DER SCHÖNEN LIEBE"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-14",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 14
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Cyrilli, monachi, et Methodii, episcopi",
+      "es": "San Cirilo, monje, y san Metodio, obispo",
+      "en-US": "Ss Cyril, monk, and Methodius, bishop",
+      "pt-BR": "Santos Cirilo, monge, e Metódio, bispo",
+      "it": "SANTI CIRILLO, monaco, E METODIO, vescovo patroni d’Europa",
+      "fr": "Saints Cyrille, moine, et Méthode, évêque",
+      "de": "Hl. CYRILL, Mönch, und Hl. METHODIUS, Bischof, Schutzpatrone Europas"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-17",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 17
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. septem Fundatorum Ordinis Servorum B. M. V.",
+      "es": "Los siete santos fundadores de la Orden de los Siervos de la Virgen María",
+      "en-US": "The Seven Holy Founders of the Servite Order",
+      "pt-BR": "Os sete Santos fundadores da Ordem dos Servos de Maria",
+      "it": "SANTI SETTE FONDATORI DELL’ORDINE DEI SERVI DELLA BEATA VERGINE MARIA",
+      "fr": "Les sept saints fondateurs de l’ordre des Servites de Marie",
+      "de": "Die hll. Gründer des Servitenordens"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-18.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 18
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "france",
+    "title": {
+      "fr": "Sainte Bernadette Soubirous"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 21
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Petri Damiani, episcopi et Ecclésiæ doctoris",
+      "es": "San Pedro Damiani, obispo y doctor de la Iglesia",
+      "en-US": "Saint Peter Damian, bishop and doctor of the Church",
+      "pt-BR": "São Pedro Damião, bispo e doutor da Igreja",
+      "it": "SAN PIER DAMIANI, vescovo e dottore della Chiesa",
+      "fr": "Saint Pierre Damien, évêque et docteur de l’Église",
+      "de": "Hl. Petrus Damiani, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-22",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 22
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "CATHEDRÆ S. PETRI, APOSTOLI",
+      "es": "LA CÁTEDRA DEL APÓSTOL SAN PEDRO",
+      "en-US": "The Chair of Saint Peter, Apostle",
+      "pt-BR": "Cátedra de São Pedro, apóstolo",
+      "it": "CATTEDRA DI SAN PIETRO APOSTOLO",
+      "fr": "CHAIRE DE SAINT PIERRE, APÔTRE",
+      "de": "KATHEDRA PETRI"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-23",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 23
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Polycarpi, episcopi et martyris",
+      "es": "San Policarpo, obispo y mártir",
+      "en-US": "Saint Polycarp, bishop and martyr",
+      "pt-BR": "São Policarpo, bispo e mártir",
+      "it": "SAN POLICARPO, vescovo e martire",
+      "fr": "Saint Polycarpe, évêque et martyr",
+      "de": "Hl. Polykarp, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-25.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 25
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Walburga, Äbtissin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-26.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 26
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "Saint Alexander of Alexandria, Bishop"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.02-27",
+    "dateRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 27
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Gregorii Narecensis, abbatis et Ecclesiœ doctoris",
+      "es": "S. Gregorio de Narek, abad y doctor de la Iglesia",
+      "en-US": "Saint Gregory of Narek, Abbot and Doctor of the Church",
+      "pt-BR": "São Gregório de Narek, abade e doutor da Igreja",
+      "it": "S. Gregorio di Narek, abate e dottore della Chiesa",
+      "fr": "Saint Grégoire de Narek, abbé et docteur de l’Église",
+      "de": "Hl. Gregor von Narek, Abt und Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-03.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 3
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Saint Katharine Drexel, Virgin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-04",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Casimiri",
+      "es": "San Casimiro",
+      "en-US": "Saint Casimir",
+      "pt-BR": "São Casimiro",
+      "it": "SAN CASIMIRO",
+      "fr": "Saint Casimir",
+      "de": "Hl. Kasimir"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-06.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 6
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Fridolin von Säckingen, Mönch, Glaubensbote"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-07",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 7
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Perpetuæ et Felicitatis, martyrum",
+      "es": "Santa Perpetua y santa Felicidad, mártires",
+      "en-US": "Ss. Perpetua and Felicity, martyrs",
+      "pt-BR": "Santas Perpétua e Felicidade, mártires",
+      "it": "SANTE PERPETUA e FELICITA, martiri",
+      "fr": "Saintes Perpétue et Félicité, martyres",
+      "de": "Hl. Perpetua und hl. Felicitas, Märtyrinnen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-08",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 8
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis a Deo, religiosi",
+      "es": "San Juan de Dios, religioso",
+      "en-US": "Saint John of God, religious",
+      "pt-BR": "São João de Deus, religioso",
+      "it": "SAN GIOVANNI DI DIO, religioso",
+      "fr": "Saint Jean de Dieu, religieux",
+      "de": "Hl. Johannes von Gott, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-09.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Bruno von Querfurt, Bischof, Glaubensbote, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-09",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Franciscæ Romanæ, religiosæ",
+      "es": "Santa Francisca Romana, religiosa",
+      "en-US": "Saint Frances of Rome, religious",
+      "pt-BR": "Santa Francisca Romana, religiosa",
+      "it": "Santa Francesca Romana, religiosa",
+      "fr": "Sainte Françoise Romaine, religieuse",
+      "de": "Hl. Franziska von Rom, Witwe, Ordensgründerin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-14.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 14
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Mathilde, Königin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-15.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 15
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Klemens Maria Hofbauer, Ordenspriester"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-17.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 17
+    },
+    "rank": "weekday",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "pt-BR": "sanctorale.03-17. africa"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-17.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 17
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Gertrud von Nivelles, Äbtissin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-17",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 17
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Patricii, episcopi",
+      "es": "San Patricio, obispo",
+      "en-US": "Saint Patrick, bishop",
+      "pt-BR": "São Patrício, bispo",
+      "it": "SAN PATRIZIO, vescovo",
+      "fr": "Saint Patrick, évêque",
+      "de": "Hl. Patrick, Bischof, Glaubensbote"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-18",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 18
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Cyrilli Hierosolymitani, episcopi et Ecclésiæ doctoris",
+      "es": "San Cirilo de Jerusalén, obispo y doctor de la Iglesia",
+      "en-US": "Saint Cyril of Jerusalem, bishop and doctor of the Church",
+      "pt-BR": "São Cirilo de Jerusalém, bispo e doutor da Igreja",
+      "it": "SAN CIRILLO DI GERUSALEMME, vescovo e dottore della Chiesa",
+      "fr": "Saint Cyrille de Jérusalem, évêque et docteur de l’Église",
+      "de": "Hl. Cyrill von Jerusalem, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-19",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 19
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. IOSEPH SPONSI BEATÆ MARIÆ VIRGINIS",
+      "es": "SAN JOSÉ, ESPOSO DE LA VIRGEN MARÍA",
+      "en-US": "Saint Joseph the Husband of Mary",
+      "pt-BR": "São José, Esposo da Bem-Aventurada Virgem Maria",
+      "it": "SAN GIUSEPPE SPOSO DELLA BEATA VERGINE MARIA",
+      "fr": "SAINT JOSEPH, ÉPOUX DE LA BIENHEUREUSE VIERGE MARIE",
+      "de": "Hl. JOSEF, BRÄUTIGAM DER GOTTESMUTTER MARIA"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-23",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 23
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Turibii de Mogrovejo, episcopi",
+      "es": "Santo Toribio de Mogrovejo, obispo",
+      "en-US": "Saint Turibius of Mogrovejo, bishop",
+      "pt-BR": "São Turíbio de Mogrovejo, bispo",
+      "it": "SAN TURIBIO DE MOGROVEJO, vescovo",
+      "fr": "Saint Turibio de Mogrovejo, évêque",
+      "de": "Hl. Turibio von Mogrovejo, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-25",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 25
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "IN ANNUNTIATIONE DOMINI",
+      "es": "LA ANUNCIACIÓN DEL SEÑOR",
+      "en-US": "The Annunciation of the Lord",
+      "pt-BR": "Anunciação do Senhor",
+      "it": "ANNUNCIAZIONE DEL SIGNORE",
+      "fr": "ANNONCIATION DU SEIGNEUR",
+      "de": "VERKÜNDIGUNG DES HERRN"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.03-26.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 26
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Liudger, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-02",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 2
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Francisci de Paola, eremitæ",
+      "es": "San Francisco de Paula, ermitaño",
+      "en-US": "Saint Francis of Paola, hermit",
+      "pt-BR": "São Francisco de Paula, eremita",
+      "it": "SAN FRANCESCO DA PAOLA, eremita",
+      "fr": "Saint François de Paule, ermite",
+      "de": "Hl. Franz von Paola, Einsiedler, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-04.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 4
+    },
+    "rank": "weekday",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "pt-BR": "sanctorale.04-04. africa"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-04",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Isidori, episcopi et Ecclésiæ doctoris",
+      "es": "San Isidoro, obispo y doctor de la Iglesia",
+      "en-US": "Saint Isidore, bishop and doctor of the Church",
+      "pt-BR": "Santo Isidoro, bispo e doutor da Igreja",
+      "it": "SANT’ISIDORO, vescovo e dottore della Chiesa",
+      "fr": "Saint Isidore, évêque et docteur de l’Église",
+      "de": "Hl. Isidor, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-05",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Vincentii Ferrer, presbyteri",
+      "es": "San Vicente Ferrer, presbítero",
+      "en-US": "Saint Vincent Ferrer, priest",
+      "pt-BR": "São Vicente Ferrer, presbítero",
+      "it": "SAN VINCENZO FERRER, presbitero",
+      "fr": "Saint Vincent Ferrier, prêtre",
+      "de": "Hl. Vinzenz Ferrer, Ordenspriester, Bußprediger"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-07",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 7
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis Baptistæ de la Salle, presbyteri",
+      "es": "San Juan Bautista de la Salle, presbítero",
+      "en-US": "Saint John Baptist de la Salle, priest",
+      "pt-BR": "São João Batista de la Salle, presbítero",
+      "it": "SAN GIOVANNI BATTISTA DE LA SALLE, presbitero",
+      "fr": "Saint Jean-Baptiste de La Salle, prêtre",
+      "de": "Hl. Johannes Baptist de la Salle, Priester, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-11",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 11
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Stanislai, episcopi et martyris",
+      "es": "San Estanislao, obispo y mártir",
+      "en-US": "Saint Stanislaus, bishop and martyr",
+      "pt-BR": "Santo Estanislau, bispo e mártir",
+      "it": "SANTO STANISLAO, vescovo e martire",
+      "fr": "Saint Stanislas, évêque et martyr",
+      "de": "Hl. Stanislaus, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-12.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 12
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "Saint Zeno of Verona, Bishop"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-13.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 13
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "spain",
+    "title": {
+      "es": "San Hermenegildo, mártir"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-13",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 13
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Martini I, papæ et martyris",
+      "es": "San Martín I, Papa y mártir",
+      "en-US": "Saint Martin I, pope and martyr",
+      "pt-BR": "São Martinho I, papa e mártir",
+      "it": "SAN MARTINO I, papa e martire",
+      "fr": "Saint Martin Ier, pape et martyr",
+      "de": "Hl. Martin I., Papst, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-19.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Leo IX., Papst"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-19.uruguay",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "uruguay",
+    "title": {
+      "es": "Nuestra Señora, la Virgen del Verdún"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-20.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 20
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "Saint Marcellinus, Bishop"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-21.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 21
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Konrad von Parzham, Ordensbruder"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 21
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Anselmi, episcopi et Ecclésiæ doctoris",
+      "es": "San Anselmo, obispo y Doctor de la Iglesia",
+      "en-US": "Saint Anselm, bishop and doctor of the Church",
+      "pt-BR": "Santo Anselmo, bispo e doutor da Igreja",
+      "it": "SANT’ANSELMO, vescovo e dottore della Chiesa",
+      "fr": "Saint Anselme, évêque et docteur de l’Église",
+      "de": "Hl. Anselm, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-23",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 23
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Georgii, martyris",
+      "es": "San Jorge, mártir",
+      "en-US": "Saint George, martyr",
+      "pt-BR": "São Jorge, mártir",
+      "it": "SAN GIORGIO, martire",
+      "fr": "Saint Georges, martyr",
+      "de": "Hl. Georg, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-24",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 24
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Fidelis de Sigmaringen, presbyteri et martyris",
+      "es": "San Fidel de Sigmaringa, presbítero y mártir",
+      "en-US": "Saint Fidelis of Sigmaringen, priest and martyr",
+      "pt-BR": "São Fidélis de Sigmaringa, presbítero e mártir",
+      "it": "SAN FEDELE DA SIGMARINGEN, presbitero e martire",
+      "fr": "Saint Fidèle de Sigmaringen, prêtre et martyr",
+      "de": "Hl. Fidelis von Sigmaringen, Ordenspriester, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-25",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 25
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. MARCI, EVANGELISTÆ",
+      "es": "SAN MARCOS, EVANGELISTA",
+      "en-US": "Saint Mark, Evangelist",
+      "pt-BR": "São Marcos, evangelista",
+      "it": "SAN MARCO EVANGELISTA",
+      "fr": "SAINT MARC, ÉVANGÉLISTE",
+      "de": "Hl. MARKUS, EVANGELIST"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-26.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 26
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "San Isidoro, obispo y doctor de la Iglesia"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-27.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 27
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "es": "Santo Toribio de Mogrovejo, obispo"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-27.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 27
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Petrus Kanisius, Ordenspriester, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-28",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 28
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Petri Chanel, presbyteri et martyris",
+      "es": "San Pedro Chanel, presbítero y mártir",
+      "en-US": "Saint Peter Chanel, priest and martyr",
+      "pt-BR": "São Pedro Chanel, presbítero e mártir",
+      "it": "SAN PIETRO CHANEL, presbitero e martire",
+      "fr": "Saint Pierre Chanel, prêtre et martyr",
+      "de": "Hl. Peter Chanel, Priester, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-29",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 29
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Catharinæ Senensis, virginis et Ecclésiæ doctoris",
+      "es": "Santa Catalina de Siena, virgen y doctora de la Iglesia",
+      "en-US": "Saint Catherine of Siena, virgin and doctor of the Church",
+      "pt-BR": "Santa Catarina de Sena, virgem e doutora da Igreja",
+      "it": "SANTA CATERINA DA SIENA, vergine e dottore della Chiesa, patrona d’Italia e d’Europa",
+      "fr": "Sainte Catherine de Sienne, vierge et docteur de l’Église",
+      "de": "Hl. KATHARINA VON SIENA, Ordensfrau, Kirchenlehrerin, Schutzpatronin Europas"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-30.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 30
+    },
+    "rank": "weekday",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "pt-BR": "sanctorale.04-30. africa"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.04-30",
+    "dateRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 30
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Pii V, papæ",
+      "es": "San Pío V, papa",
+      "en-US": "Saint Pius V, pope",
+      "pt-BR": "São Pio V, papa",
+      "it": "SAN PIO V, papa",
+      "fr": "Saint Pie V, pape",
+      "de": "Hl. Pius V., Papst"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-01",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 1
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioseph opificis",
+      "es": "San José, obrero",
+      "en-US": "Saint Joseph the worker",
+      "pt-BR": "São José Operário",
+      "it": "SAN GIUSEPPE LAVORATORE",
+      "fr": "Saint Joseph, travailleur",
+      "de": "Hl. Josef, der Arbeiter"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-02.religious-orders",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 2
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "religious-orders",
+    "title": {
+      "la": "In Dedicatione Ecclésiæ Prælatitiæ",
+      "es": "Dedicación de la Iglesia Prelaticia",
+      "en-US": "Dedication of the Prelature's church",
+      "pt-BR": "Dedicação da Igreja Prelatícia",
+      "it": "Dedicazione della Chiesa Prelatizia",
+      "fr": "Dédicace de Saint Marie de la Paix",
+      "de": "WEIHETAG DER PRÄLATURKIRCHE"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-02",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 2
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Athanasii, episcopi et Ecclésiæ doctoris",
+      "es": "San Atanasio, obispo y doctor de la Iglesia",
+      "en-US": "Saint Athanasius, bishop and doctor of the Church",
+      "pt-BR": "Santo Atanásio, bispo e doutor da Igreja",
+      "it": "SANT’ATANASIO, vescovo e dottore della Chiesa",
+      "fr": "Saint Athanase, évêque et docteur de l’Église",
+      "de": "Hl. Athanasius, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-03",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 3
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "SS. PHILIPPI ET IACOBI, APOSTOLORUM",
+      "es": "SAN FELIPE Y SANTIAGO, APÓSTOLES",
+      "en-US": "Ss. Philip and James, Apostles",
+      "pt-BR": "Santos Filipe e Tiago, apóstolos",
+      "it": "SANTI FILIPPO E GIACOMO APOSTOLI",
+      "fr": "SAINTS PHILIPPE ET JACQUES, APÔTRES",
+      "de": "Hl. PHILIPPUS UND Hl. JAKOBUS, APOSTEL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-04.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Florian, Märtyrer, Hll. Märtyrer von Lorch"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-05.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Godehard, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-08.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 8
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "es": "Nuestra Señora de Luján"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-09.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "france",
+    "title": {
+      "fr": "Sainte Louise de Marillac"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-10.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 10
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Saint Damien de Veuster, Priest"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-10",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 10
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis de Avila, presbyteri et Ecclésiæ doctoris",
+      "es": "San Juan de Ávila, presbítero y Doctor de la Iglesia",
+      "en-US": "Saint John De Avila, Priest and Doctor of the Church",
+      "pt-BR": "São João de Ávila, presbítero e doutor da Igreja",
+      "it": "S. Giovanni De Avila, presbitero e dottore della Chiesa",
+      "fr": "Saint Jean d’Avila, prêtre et Docteur de l’Église",
+      "de": "Hl. Johannes De Avila, Priester und Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-12.religious-orders",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 12
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "religious-orders",
+    "title": {
+      "la": "B. Alvari del Portillo, episcopi",
+      "es": "B. Álvaro del Portillo, obispo",
+      "en-US": "B. Alvaro del Portillo, Bishop",
+      "pt-BR": "Beato Álvaro del Portillo, bispo",
+      "it": "B. Álvaro del Portillo, vescovo",
+      "fr": "Bienheureux Alvaro del Portillo, évêque",
+      "de": "Sel. Álvaro del Portillo, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-12",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 12
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Nerei et Achillei, martyrum",
+      "es": "San Nereo y san Aquiles, mártires",
+      "en-US": "Ss. Nereus and Achilleus, martyrs",
+      "pt-BR": "Santos Nereu e Aquiles, mártires",
+      "it": "SANTI NEREO e ACHILLEO, martiri",
+      "fr": "Saints Nérée et Achille, martyrs",
+      "de": "Hl. Nereus und hl. Achilleus, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-13",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 13
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Beatæ Maríæ Virginis de Fatima",
+      "es": "La Virgen de Fátima",
+      "en-US": "Our Lady of Fatima",
+      "pt-BR": "Bem-aventurada Virgem Maria de Fátima",
+      "it": "BEATA VERGINE MARIA DI FATIMA",
+      "fr": "Bienheureuse Vierge Marie de Fatima",
+      "de": "Gedenktag Unserer Lieben Frau von Fatima"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-14",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 14
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. MATTHIÆ, APOSTOLI",
+      "es": "SAN MATÍAS, APÓSTOL",
+      "en-US": "Saint Matthias, Apostle",
+      "pt-BR": "São Matias, apóstolo",
+      "it": "SAN MATTIA APOSTOLO",
+      "fr": "SAINT MATTHIAS, APÔTRE",
+      "de": "(14. Mai) Hl. MATTHIAS, APOSTEL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-15.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 15
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "San Isidro, labrador"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-15.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 15
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Saint Isidore"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-16.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 16
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Johannes Nepomuk, Priester, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-17.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 17
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "San Pascual Bailón, religioso"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-18.religious-orders",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 18
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "religious-orders",
+    "title": {
+      "la": "B. Guadalupe Ortiz de Landázuri",
+      "pt-BR": "Beata Guadalupe Ortiz de Landázuri",
+      "fr": "Bienheureuse Guadalupe Ortiz de Landazuri",
+      "de": "Sel. Guadalupe Ortiz de Landázuri"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-18",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 18
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis I, papæ et martyris",
+      "es": "San Juan I, papa y mártir",
+      "en-US": "Saint John I, pope and martyr",
+      "pt-BR": "São João I, papa e mártir",
+      "it": "SAN GIOVANNI I, papa e martire",
+      "de": "Hl. Johannes I., Papst, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-19.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "france",
+    "title": {
+      "fr": "Saint Yves, prêtre"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-20",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 20
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Bernardini Senensis, presbyteri",
+      "es": "San Bernardino de Siena, presbítero",
+      "en-US": "Saint Bernardine of Siena, priest",
+      "pt-BR": "São Bernardino de Sena, presbítero",
+      "it": "SAN BERNARDINO DA SIENA, presbitero",
+      "fr": "Saint Bernardin de Sienne, prêtre",
+      "de": "Hl. Bernhardin von Siena, Ordenspriester, Volksprediger"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-21.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 21
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Hermann Josef, Ordenspriester, Mystiker"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 21
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Christophori Magallanes, presbyteri, et sociorum, martyrum",
+      "es": "San Cristóbal Magallanes, presbítero, y compañeros, mártires",
+      "en-US": "Saint Christopher Magallanes, Priest, and Companions, Martyrs",
+      "pt-BR": "São Cristóvão Magalhães, presbítero, e companheiros, mártires",
+      "it": "SANTI CRISTOFORO MAGALLANES, presbitero e COMPAGNI, martiri",
+      "fr": "Saint Christophe Magallanès, prêtre, et ses compagnons, martyrs",
+      "de": "Hl. Christophorus Magallanes, Priester, und Gefährten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-22.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 22
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "Santa Joaquina Vedruna, religiosa"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-22",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 22
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ritæ de Cascia, religiosæ",
+      "es": "Santa Rita de Cascia",
+      "en-US": "Saint Rita of Cascia, religious",
+      "pt-BR": "Santa Rita de Cássia, religiosa",
+      "it": "SANTA RITA DA CASCIA, religiosa",
+      "fr": "Sainte Rita de Cascia, religieuse",
+      "de": "Hl. Rita von Cascia, Ordensfrau"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-24.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 24
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "The Blessed Virgin Mary, Help of Christians"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-24.uruguay",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 24
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "uruguay",
+    "title": {
+      "es": "Santa María auxilio de los cristianos"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-25",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 25
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Bedæ Venerabilis, presbyteri et Ecclésiæ doctoris",
+      "es": "San Beda el Venerable, presbítero y doctor de la Iglesia",
+      "en-US": "Saint Bede the Venerable, priest and doctor of the Church",
+      "pt-BR": "São Beda, o Venerável, presbítero e doutor da Igreja",
+      "it": "SAN BEDA VENERABILE, presbitero e dottore della Chiesa",
+      "fr": "Saint Bède le Vénérable, prêtre et docteur de l’Église",
+      "de": "Hl. Beda der Ehrwürdige, Ordenspriester, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-26",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 26
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Philippi Neri, presbyteri",
+      "es": "San Felipe Neri, presbítero",
+      "en-US": "Saint Philip Neri, Priest",
+      "pt-BR": "São Filipe Néri, presbítero",
+      "it": "SAN FILIPPO NERI, presbitero",
+      "fr": "Saint Philippe Néri, prêtre",
+      "de": "Hl. Philipp Neri, Priester"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-27",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 27
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Augustini Cantuariensis, episcopi",
+      "es": "San Agustín de Cantorbery, obispo",
+      "en-US": "Saint Augustine of Canterbury, Bishop",
+      "pt-BR": "Santo Agostinho de Cantuária, bispo",
+      "it": "SANT’AGOSTINO DI CANTERBURY, vescovo",
+      "fr": "Saint Augustin de Cantorbéry, évêque",
+      "de": "Hl. Augustinus von Canterbury, Bischof, Glaubensbote"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-29",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 29
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Pauli VI, Papæ",
+      "es": "S. Pablo VI, Papa",
+      "en-US": "Saint Paul Vi, pope",
+      "pt-BR": "São Paulo Vi, papa",
+      "it": "S. Paolo VI, Papa",
+      "fr": "Saint Paul VI, pape",
+      "de": "Hl. Paul VI., Papst"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-30.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 30
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "france",
+    "title": {
+      "fr": "Sainte Jeanne d’Arc, vierge"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-30.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 30
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "San Fernando"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.05-31",
+    "dateRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 31
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "IN VISITATIONE BEATÆ MARIÆ VIRGINIS",
+      "es": "LA VISITACIÓN DE LA VIRGEN MARÍA",
+      "en-US": "The Visitation of the Blessed Virgin Mary",
+      "pt-BR": "Visitação da Bem-Aventurada Virgem Maria",
+      "it": "VISITAZIONE DELLA BEATA VERGINE MARIA",
+      "fr": "VISITATION DE LA BIENHEUREUSE VIERGE MARIE",
+      "de": "(31. Mai) MARIÄ HEIMSUCHUNG"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-01",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 1
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Iustini, martyris",
+      "es": "San Justino, mártir",
+      "en-US": "Saint Justin, martyr",
+      "pt-BR": "São Justino, mártir",
+      "it": "SAN GIUSTINO, martire",
+      "fr": "Saint Justin, martyr",
+      "de": "Hl. Justin, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-02.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 2
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "france",
+    "title": {
+      "fr": "Saints Pothin, évêque, Blandine, vierge, et leurs compagnons, martyrs"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-02",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 2
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Marcellini et Petri, martyrum",
+      "es": "San Marcelino y san Pedro, mártires",
+      "en-US": "Sts. Marcellinus and Peter, martyrs",
+      "pt-BR": "Santos Marcelino e Pedro, mártires",
+      "it": "SANTI MARCELLINO e PIETRO, martiri",
+      "fr": "Saints Marcellin et Pierre, martyrs",
+      "de": "Hl. Marcellinus und hl. Petrus, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-03",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 3
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Caroli Lwanga et sociorum, martyrum",
+      "es": "San Carlos Luanga y compañeros, mártires",
+      "en-US": "Sts. Charles Lwanga and Companions, martyrs",
+      "pt-BR": "São Carlos Lwanga e companheiros, mártires",
+      "it": "SAN CARLO LWANGA e COMPAGNI, martiri",
+      "fr": "Saint Charles Lwanga et ses compagnons, martyrs",
+      "de": "Hl. Karl Lwanga und Gefährten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-04.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "france",
+    "title": {
+      "fr": "Sainte Clotilde"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-05",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 5
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Bonifatii, episcopi et martyris",
+      "es": "San Bonifacio, obispo y mártir",
+      "en-US": "Saint Boniface, bishop and martyr",
+      "pt-BR": "São Bonifácio, bispo e mártir",
+      "it": "SAN BONIFACIO, vescovo e martire",
+      "fr": "Saint Boniface, évêque et martyr",
+      "de": "Hl. Bonifatius, Bischof, Glaubensbote, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-06",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 6
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Norberti, episcopi",
+      "es": "San Norberto, obispo",
+      "en-US": "Saint Norbert, bishop",
+      "pt-BR": "São Norberto, bispo",
+      "it": "SAN NORBERTO, vescovo",
+      "fr": "Saint Norbert, évêque",
+      "de": "Hl. Norbert von Xanten, Ordensgründer, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-09.brazil",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 9
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "brazil",
+    "title": {
+      "pt-BR": "São José de Anchieta, presbítero"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-09",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ephræm, diaconi et Ecclésiæ doctoris",
+      "es": "San Efrén, diácono y doctor de la Iglesia",
+      "en-US": "Saint Ephrem, deacon and doctor of the Church",
+      "pt-BR": "Santo Efrém, diácono e doutor da Igreja",
+      "it": "SANT’EFREM, diacono e dottore della Chiesa",
+      "fr": "Saint Éphrem, diacre et docteur de l’Église",
+      "de": "Hl. Ephräm der Syrer, Diakon, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-11",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 11
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Barnabæ, apóstoli",
+      "es": "San Bernabé, apóstol",
+      "en-US": "Saint Barnabas, apostle",
+      "pt-BR": "São Barnabé, apóstolo",
+      "it": "SAN BARNABA, Apostolo",
+      "fr": "Saint Barnabé, apôtre",
+      "de": "Hl. Barnabas, Apostel"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-12.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 12
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "Saint Onophrius, Hermit"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-13",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Antonii de Padova, presbyteri et Ecclésiæ doctoris",
+      "es": "San Antonio de Padua, presbítero y doctor de la Iglesia",
+      "en-US": "Saint Anthony of Padua, priest and doctor of the Church",
+      "pt-BR": "Santo Antônio de Pádua, presbítero e doutor da Igreja",
+      "it": "SANT’ANTONIO DI PADOVA, sacerdote e dottore della Chiesa",
+      "fr": "Saint Antoine de Padoue, prêtre et docteur de l’Église",
+      "de": "Hl. Antonius von Padua, Ordenspriester, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-15.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 15
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Vitus (Veit), Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-15.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 15
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "Santa María Micaela del Santísimo Sacramento, virgen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-16.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 16
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Benno, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-19",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Romualdi, abbatis",
+      "es": "San Romualdo, abad",
+      "en-US": "Saint Romuald, abbot",
+      "pt-BR": "São Romualdo, abade",
+      "it": "SAN ROMUALDO, abate",
+      "fr": "Saint Romuald, abbé",
+      "de": "Hl. Romuald, Abt, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 21
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Aloisii Gonzaga, religiosi",
+      "es": "San Luis Gonzaga, religioso",
+      "en-US": "Saint Aloysius Gonzaga, religious",
+      "pt-BR": "São Luís Gonzaga, religioso",
+      "it": "SAN LUIGI GONZAGA, religioso",
+      "fr": "Saint Louis de Gonzague, religieux",
+      "de": "Hl. Aloisius Gonzaga, Ordensmann"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-22",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 22
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Paulini Nolani, episcopi",
+      "es": "San Paulino de Nola, obispo",
+      "en-US": "Saint Paulinus of Nola, bishop",
+      "pt-BR": "São Paulino de Nola, bispo",
+      "it": "SAN PAOLINO DA NOLA, vescovo",
+      "fr": "Saint Paulin de Nole, évêque",
+      "de": "Hl. Paulinus von Nola, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-24",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "IN NATIVITATE S. IOANNIS BAPTISTÆ",
+      "es": "NATIVIDAD DE SAN JUAN BAUTISTA",
+      "en-US": "The Nativity of Saint John the Baptist",
+      "pt-BR": "Natividade de São João Batista",
+      "it": "NATIVITA' DI SAN GIOVANNI BATTISTA",
+      "fr": "NATIVITÉ DE SAINT JEAN BAPTISTE",
+      "de": "GEBURT DES Hl. JOHANNES DES TÄUFERS"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-26.religious-orders",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 26
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "religious-orders",
+    "title": {
+      "la": "S. Iosephmariæ Escrivá de Balaguer, presbyteri",
+      "es": "San Josemaría Escrivá de Balaguer, presbítero",
+      "en-US": "Saint Josemaria Escriva de Balaguer, priest",
+      "pt-BR": "São Josemaria Escrivá de Balaguer, presbítero",
+      "it": "San Josemaria Escrivá de Balaguer, sacerdote",
+      "fr": "Saint Josémaria Escriva, prêtre",
+      "de": "Hl. JOSEFMARIA ESCRIVÁ DE BALAGUER, PRIESTER"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-26.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 26
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "spain",
+    "title": {
+      "es": "San Pelayo, mártir"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-26",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 26
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Iosephmariæ Escrivá de Balaguer, presbyteri",
+      "es": "San Josemaría Escrivá de Balaguer, presbítero",
+      "en-US": "Saint Josemaria Escriva de Balaguer, priest",
+      "pt-BR": "São Josemaria Escrivá de Balaguer, presbítero",
+      "it": "SAN JOSEMARÍA ESCRIVÁ, sacerdote",
+      "fr": "Saint Josémaria Escriva, prêtre",
+      "de": "Hl. Josefmaria Escrivá de Balaguer, Priester"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-27.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 27
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Hemma von Gurk"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-27",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 27
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Cyrilli Alexandrini, episcopi et Ecclésiæ doctoris",
+      "es": "San Cirilo de Alejandría, obispo y doctor de la Iglesia",
+      "en-US": "Saint Cyril of Alexandria, bishop and doctor of the Church",
+      "pt-BR": "São Cirilo de Alexandria, bispo e doutor da Igreja",
+      "it": "SAN CIRILLO D’ALESSANDRIA, vescovo e dottore della Chiesa",
+      "fr": "Saint Cyrille d’Alexandrie, évêque et docteur de l’Église",
+      "de": "Hl. Cyrill von Alexandrien, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-28",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 28
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Irenæi, episcopi et martyris",
+      "es": "San Ireneo, obispo y mártir",
+      "en-US": "Saint Irenaeus, bishop and martyr",
+      "pt-BR": "Santo Irineu, bispo e mártir",
+      "it": "SANT’IRENEO, vescovo e martire",
+      "fr": "Saint Irénée, évêque et martyr",
+      "de": "Hl. Irenäus, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-29",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    },
+    "rank": "solemnity",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "SS. PETRI ET PAULI, APOSTOLORUM",
+      "es": "SAN PEDRO Y SAN PABLO, APÓSTOLES",
+      "en-US": "Ss. Peter and Paul, Apostles",
+      "pt-BR": "Santos Pedro e Paulo, apóstolos",
+      "it": "SANTI PIETO E PAOLO, APOSTOLI",
+      "fr": "SAINTS PIERRE ET PAUL, APÔTRES",
+      "de": "Hl. PETRUS UND Hl. PAULUS, APOSTEL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-30.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 30
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Otto, Bischof, Glaubensbote"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.06-30",
+    "dateRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 30
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Protomartyrum sanctæ Romanæ Ecclésiæ",
+      "es": "Santos Protomártires de la santa Iglesia Romana",
+      "en-US": "The First Martyrs of the Church of Rome",
+      "pt-BR": "Santos Protomártires da Igreja de Roma",
+      "it": "SANTI PRIMI MARTIRI DELLA CHIESA ROMANA",
+      "fr": "Les saints premiers Martyrs de l’Église de Rome",
+      "de": "Die ersten hll. Märtyrer der Stadt Rom"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-01.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 1
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Saint Junípero Serra, Priest"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-03",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 3
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. THOMÆ, APOSTOLI",
+      "es": "SANTO TOMÁS, APÓSTOL",
+      "en-US": "Saint Thomas, Apostle",
+      "pt-BR": "São Tomé, apóstolo",
+      "it": "SAN TOMMASO APOSTOLO",
+      "fr": "SAINT THOMAS, APÔTRE",
+      "de": "Hl. THOMAS, APOSTEL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-04.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Ulrich, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-04.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "July 4 Independence Day"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-04",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Elisabeth Lusitaniæ",
+      "es": "Santa Isabel de Portugal",
+      "en-US": "Saint Elizabeth of Portugal",
+      "pt-BR": "Santa Isabel de Portugal",
+      "it": "SANTA ELISABETTA DI PORTOGALLO",
+      "fr": "Sainte Élisabeth de Portugal",
+      "de": "Hl. Elisabeth von Portugal"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-05",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Antonii Maríæ Zaccaria, presbyteri",
+      "es": "San Antonio María Zaccaría, presbítero",
+      "en-US": "Saint Anthony Zaccaria, priest",
+      "pt-BR": "Santo Antônio Maria Zaccaria, presbítero",
+      "it": "SANT’ANTONIO MARIA ZACCARIA, presbitero",
+      "fr": "Saint Antoine-Marie Zaccaria, prêtre",
+      "de": "Hl. Antonius Maria Zaccaria, Priester, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-06",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 6
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Maríæ Goretti, virginis et martyris",
+      "es": "Santa María Goretti, virgen y mártir",
+      "en-US": "Saint Maria Goretti, virgin and martyr",
+      "pt-BR": "Santa Maria Goretti, virgem e mártir",
+      "it": "SANTA MARIA GORETTI, vergine e martire",
+      "fr": "Sainte Maria Goretti, vierge et martyre",
+      "de": "Hl. Maria Goretti, Jungfrau, Märtyrin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-07.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 7
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Willibald, Bischof, Glaubensbote"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-08.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 8
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Kilian, Bischof, und Gefährten, Glaubensboten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-09.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 9
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "es": "Nuestra Señora de Itatí"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-09",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Augustini Zhao Rong, presbyteri, et sociorum, martyrum",
+      "es": "San Agustín Zhao Rong, presbítero, y compañeros, mártires",
+      "en-US": "Ss. Augustine Zhao Rong, and Companions",
+      "pt-BR": "Santos Agostinho Zhao Rong, presbítero, e companheiros, mártires",
+      "it": "SANTI AGOSTINO ZHAO RONG, presbitero e COMPAGNI, martiri",
+      "fr": "Saint Augustin Zhao Rong, prêtre, et ses compagnons, martyrs",
+      "de": "Hl. Augustinus Zhao Rong, Priester, und Gefährten, Märtyrer in China"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-10.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 10
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Knud von Dänemark, Märtyrer, Hl. Erich von Schweden, Märtyrer, Hl. Olaf von Norwegen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-11",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 11
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Benedicti, abbatis",
+      "es": "San Benito, abad, patrono de Europa",
+      "en-US": "Saint Benedict, abbot",
+      "pt-BR": "São Bento, abade",
+      "it": "SAN BENEDETTO, abate, patrono d’Europa",
+      "fr": "SAINT BENOÎT, ABBÉ",
+      "de": "Hl. BENEDIKT VON NURSIA, Vater des abendländischen Mönchtums, Schutzpatron Europas"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-13.chile",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 13
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "chile",
+    "title": {
+      "es": "Santa Teresa de Jesús de los Andes, virgen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-13",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 13
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Henrici",
+      "es": "San Enrique",
+      "en-US": "Saint Henry",
+      "pt-BR": "Santo Henrique",
+      "it": "SANT’ENRICO",
+      "fr": "Saint Henri",
+      "de": "Hl. Heinrich II., Kaiser, und hl. Kunigunde, Kaiserin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-14.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 14
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Blessed Kateri Tekakwitha, Virgin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-14",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 14
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Camilli de Lellis, presbyteri",
+      "es": "San Camilo de Lelis, presbítero",
+      "en-US": "Saint Camillus de Lellis, priest",
+      "pt-BR": "São Camilo de Lellis, presbítero",
+      "it": "SAN CAMILLO DE LELLIS, presbitero",
+      "fr": "Saint Camille de Lellis, prêtre",
+      "de": "Hl. Kamillus von Lellis, Priester, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-15",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 15
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Bonaventuræ, episcopi et Ecclésiæ doctoris",
+      "es": "San Buenaventura, obispo y doctor de la Iglesia",
+      "en-US": "Saint Bonaventure, bishop and doctor of the Church",
+      "pt-BR": "São Boaventura, bispo e doutor da Igreja",
+      "it": "SAN BONAVENTURA, vescovo e dottore della Chiesa",
+      "fr": "Saint Bonaventure, évêque et docteur de l’Église",
+      "de": "Hl. Bonaventura, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-16.chile",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 16
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "chile",
+    "title": {
+      "es": "Nuestra Señora del Carmen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-16",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 16
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Beatæ Maríæ Virginis de Monte Carmelo",
+      "es": "Nuestra Señora del Carmen",
+      "en-US": "Our Lady of Mount Carmel",
+      "pt-BR": "Bem-Aventurada Virgem Maria do Monte Carmelo",
+      "it": "Beata Vergine Maria del Monte Carmelo",
+      "fr": "Bienheureuse Vierge Marie du Mont Carmel",
+      "de": "Gedenktag Unserer Lieben Frau auf dem Berge Karmel"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-17.brazil",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 17
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "brazil",
+    "title": {
+      "pt-BR": "Bem-aventurado Inácio de Azevedo, presbítero, e seus companheiros, mártires"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-20.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 20
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Margareta, Jungfrau, Märtyrin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-20",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 20
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Apollinaris, episcopi et martyris",
+      "es": "San Apolinar, obispo y mártir",
+      "en-US": "Saint Apollinaris, bishop and martyr",
+      "pt-BR": "Santo Apolinário, bispo e mártir",
+      "it": "SANT’APOLLINARE, vescovo e martire",
+      "fr": "Saint Apollinaire, évêque et martyr",
+      "de": "Hl. Apollinaris, Bischof und Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 21
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Laurentii de Brindisi, presbyteri et Ecclésiæ doctoris",
+      "es": "San Lorenzo de Brindis, presbítero y doctor de la Iglesia",
+      "en-US": "Saint Lawrence of Brindisi, priest and doctor of the Church",
+      "pt-BR": "São Lourenço de Bríndisi, presbítero e doutor da Igreja",
+      "it": "SAN LORENZO DA BRINDISI, presbitero e dottore della Chiesa",
+      "fr": "Saint Laurent de Brindisi, prêtre et docteur de l’Église",
+      "de": "Hl. Laurentius von Brindisi, Ordenspriester, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-22",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 22
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Maríæ Magdalenæ",
+      "es": "Santa María Magdalena",
+      "en-US": "Saint Mary Magdalene",
+      "pt-BR": "Santa Maria Madalena",
+      "it": "SANTA MARIA MADDALENA",
+      "fr": "SAINTE MARIE MADELEINE",
+      "de": "Hl. Maria Magdalena"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-23",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 23
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Birgittæ, religiosæ",
+      "es": "Santa Brígida, religiosa",
+      "en-US": "Saint Bridget, religious",
+      "pt-BR": "Santa Brígida, religiosa",
+      "it": "SANTA BRIGIDA, religiosa, patrona d’Europa",
+      "fr": "Sainte Brigitte, religieuse",
+      "de": "Hl. Brigitta von Schweden, Ordensgründerin, Schutzpatronin Europas"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-24.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 24
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "es": "San Francisco Solano, Presbítero"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-24.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 24
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Christophorus, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-24",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 24
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Sarbelii Makhluf, presbyteri",
+      "es": "San Sarbelio Makllüf, presbítero",
+      "en-US": "Saint Charbel Makhluf, priest",
+      "pt-BR": "São Charbel Makhluf, presbítero",
+      "it": "SAN CHARBEL MAKHLUF, presbitero",
+      "fr": "Saint Charbel Makhlouf, prêtre",
+      "de": "Hl. Scharbel Mahluf, Ordenspriester"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-25.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    },
+    "rank": "solemnity",
+    "color": "red",
+    "scope": "spain",
+    "title": {
+      "es": "SANTIAGO, APÓSTOL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-25",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. IACOBI, APOSTOLI",
+      "es": "SANTIAGO, APÓSTOL",
+      "en-US": "Saint James, Apostle",
+      "pt-BR": "São Tiago, apóstolo",
+      "it": "SAN GIACOMO, APOSTOLO",
+      "fr": "SAINT JACQUES, APÔTRE",
+      "de": "Hl. JAKOBUS, APOSTEL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-26",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 26
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Ioachim et Annæ, parentum beatæ Maríæ Virginis",
+      "es": "San Joaquín y santa Ana, padres de la Virgen María",
+      "en-US": "Saints Joachim and Anne, Parents of the Blessed Virgin Mary",
+      "pt-BR": "Santos Joaquim e Ana, pais da Bem-aventurada Virgem Maria",
+      "it": "SANTI GIOACCHINO e ANNA, genitori della beata Vergine Maria",
+      "fr": "Saint Joachim et sainte Anne, parents de la bienheureuse Vierge Marie",
+      "de": "Hl. Joachim und hl. Anna, Eltern der Gottesmutter Maria"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-28.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 28
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "africa",
+    "title": {
+      "en-US": "Saint Victor I, Pope and Martyr"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-29",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 29
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Marthæ, Mariæ et Lazari",
+      "es": "Santos Marta, María y Lázaro",
+      "en-US": "Saints Martha, Mary and Lazarus",
+      "pt-BR": "Santos Marta, Maria e Lázaro",
+      "it": "Santi Marta, Maria e Lazzaro",
+      "fr": "Saintes Marthe, Marie et saint Lazare",
+      "de": "Hl. Marta, Maria und Lazarus"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-30.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 30
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "Saint Justin De Jacobis, Bishop"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-30",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 30
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Petri Chrysologi, episcopi et Ecclésiæ doctoris",
+      "es": "San Pedro Crisólogo, obispo y doctor de la Iglesia",
+      "en-US": "Saint Peter Chrysologus, bishop and doctor of the Church",
+      "pt-BR": "São Pedro Crisólogo, bispo e doutor da Igreja",
+      "it": "SAN PIETRO CRISOLOGO, vescovo e dottore della Chiesa",
+      "fr": "Saint Pierre Chrysologue, évêque et docteur de l’Église",
+      "de": "Hl. Petrus Chrysologus, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.07-31",
+    "dateRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 31
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ignatii de Loyola, presbyteri",
+      "es": "San Ignacio de Loyola, presbítero",
+      "en-US": "Saint Ignatius of Loyola, priest",
+      "pt-BR": "Santo Inácio de Loyola, presbítero",
+      "it": "SANT’IGNAZIO DI LOYOLA, presbitero",
+      "fr": "Saint Ignace de Loyola, prêtre",
+      "de": "Hl. Ignatius von Loyola, Priester, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-01",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 1
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Alfonsi Maríæ de Liguori, episcopi et Ecclésiæ doctoris",
+      "es": "San Alfonso María de Ligorio, obispo y doctor de la Iglesia",
+      "en-US": "Saint Alphonsus Liguori, Bishop and Doctor of the Church",
+      "pt-BR": "Santo Afonso Maria de Ligório, bispo e doutor da Igreja",
+      "it": "SANT’ALFONSO MARIA DE' LIGUORI, vescovo e dottore della Chiesa",
+      "fr": "Saint Alphonse-Marie de Liguori, évêque et docteur de l’Église",
+      "de": "Hl. Alfons Maria von Liguori, Ordensgründer, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-02",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 2
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Eusebii Vercellensis, episcopi",
+      "es": "San Eusebio de Vercelli, obispo",
+      "en-US": "Saint Eusebius of Vercelli, bishop",
+      "pt-BR": "Santo Eusébio de Vercelli, bispo",
+      "it": "SANT’EUSEBIO DI VERCELLI, vescovo",
+      "fr": "Saint Eusèbe de Verceil, évêque",
+      "de": "Hl. Eusebius von Vercelli, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-04",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 4
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis Maríæ Vianney, presbyteri",
+      "es": "San Juan María Vianney, presbítero",
+      "en-US": "Saint John Vianney, priest",
+      "pt-BR": "São João Maria Vianney, presbítero",
+      "it": "SAN GIOVANNI MARIA VIANNEY, presbitero",
+      "fr": "Saint Jean-Marie Vianney, prêtre",
+      "de": "Hl. Johannes Maria Vianney, Pfarrer von Ars"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-05",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "In Dedicatione basilicæ S. Maríæ",
+      "es": "La Dedicación de la basílica de Santa María",
+      "en-US": "Dedication of the Basilica of Saint Mary Major",
+      "pt-BR": "Dedicação da Basílica de Santa Maria",
+      "it": "DEDICAZIONE DELLA BASILICA DI SANTA MARIA MAGGIORE",
+      "fr": "Dédicace de la basilique Sainte-Marie Majeure",
+      "de": "Weihe der Basilika Santa Maria Maggiore in Rom"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-06",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 6
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "IN TRANSFIGURATIONE DOMINI",
+      "es": "LA TRANSFIGURACIÓN DEL SEÑOR",
+      "en-US": "The Transfiguration of the Lord",
+      "pt-BR": "Transfiguração do Senhor",
+      "it": "TRASFIGURAZIONE DEL SIGNORE",
+      "fr": "TRANSFIGURATION DU SEIGNEUR",
+      "de": "VERKLÄRUNG DES HERRN"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-07",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 7
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Xysti II, papæ, et sociorum, martyrum",
+      "es": "San Sixto II, papa, y compañeros, mártires",
+      "en-US": "Ss. Sixtus Ii, pope and martyr, and Companions martyrs",
+      "pt-BR": "São Sisto Ii, papa, e companheiros, mártires",
+      "it": "SAN SISTO II, papa, e COMPAGNI, martiri",
+      "fr": "Saint Sixte II, pape, et ses compagnons, martyrs",
+      "de": "Hl. Xystus II., Papst, und Gefährten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-08",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 8
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Dominici, presbyteri",
+      "es": "Santo Domingo de Guzmán, presbítero",
+      "en-US": "Saint Dominic, priest",
+      "pt-BR": "São Domingos, presbítero",
+      "it": "SAN DOMENICO, presbitero",
+      "fr": "Saint Dominique, prêtre",
+      "de": "Hl. Dominikus, Priester, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-09.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "es": "Beata María Francisca Rubatto, Virgen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-09",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 9
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Teresiæ Benedictæ a Cruce, virginis et martyris",
+      "es": "Santa Teresa Benedicta de la Cruz (Edith Stein), mártir y religiosa",
+      "en-US": "Saint Teresa Benedicta of the Cross (Edith Stein), Virgin and Martyr",
+      "pt-BR": "Santa Teresa Benedita da Cruz, virgem e mártir",
+      "it": "SANTA TERESA BENEDETTA DELLA CROCE, vergine e martire, patrona d’Europa",
+      "fr": "Sainte Thérèse-Bénédicte de la Croix, vierge et martyre",
+      "de": "Hl. TERESIA BENEDICTA VOM KREUZ (EDITH STEIN), Jungfrau und Märtyrin, Schutzpatronin Europas"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-10",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 10
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. LAURENTII, DIACONI ET MARTYRIS",
+      "es": "SAN LORENZO, DIÁCONO Y MÁRTIR",
+      "en-US": "Saint Lawrence, Deacon and Martyr",
+      "pt-BR": "São Lourenço, diácono e mártir",
+      "it": "SAN LORENZO, diacono e martire",
+      "fr": "SAINT LAURENT, DIACRE ET MARTYR",
+      "de": "Hl. LAURENTIUS, DIAKON, MÄRTYRER"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-11",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 11
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Claræ, virginis",
+      "es": "Santa Clara, virgen",
+      "en-US": "Saint Clare, virgin",
+      "pt-BR": "Santa Clara, virgem",
+      "it": "SANTA CHIARA, vergine",
+      "fr": "Sainte Claire, vierge",
+      "de": "Hl. Klara, Jungfrau"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-12.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 12
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "africa",
+    "title": {
+      "en-US": "Blessed Isidoro Bakanja, Martyr"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-12",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 12
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannæ Franciscæ de Chantal, religiosæ",
+      "es": "Santa Juana Francisca de Chantal, religiosa",
+      "en-US": "Saint Jane Frances de Chantal, religious",
+      "pt-BR": "Santa Joana Francisca de Chantal, religiosa",
+      "it": "Santa Giovanna Francesca de Chantal, religiosa",
+      "fr": "Sainte Jeanne-Françoise de Chantal, religieuse",
+      "de": "Hl. Johanna Franziska von Chantal, Ordensgründerin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-13",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 13
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Pontiani, papæ, et Hippolyti, presbyteri, martyrum",
+      "es": "San Ponciano, papa, y san Hipólito, presbítero, mártires",
+      "en-US": "Ss. Pontian, pope, and Hippolytus, priest, martyrs",
+      "pt-BR": "Santos Ponciano, papa, e Hipólito, presbítero, mártires",
+      "it": "SANTI PONZIANO, papa e IPPOLITO, presbitero, martiri",
+      "fr": "Saints Pontien, pape, et Hippolyte, prêtre, martyrs",
+      "de": "Hl. Pontianus, Papst, und hl. Hippolyt, Priester, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-14",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 14
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Maximiliani Maríæ Kolbe, presbyteri et martyris",
+      "es": "San Maximiliano María Kolbe, presbítero y mártir",
+      "en-US": "Saint Maximilian Mary Kolbe, Priest and Martyr",
+      "pt-BR": "São Maximiliano Maria Kolbe, presbítero e mártir",
+      "it": "SAN MASSIMILIANO MARIA KOLBE, presbitero e martire",
+      "fr": "Saint Maximilien-Marie Kolbe, prêtre et martyr",
+      "de": "Hl. Maximilian Maria Kolbe, Priester und Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-15",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 15
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "IN VIGILIA IN ASSUMPTIONE BEATÆ MARIÆ VIRGINIS",
+      "es": "La Asunción de la Virgen María (Misa de la vigilia)",
+      "en-US": "The Assumption of the Blessed Virgin Mary (Vigil Mass)",
+      "pt-BR": "Assunção da Bem-Aventurada Virgem Maria (Missa da Vigília)",
+      "it": "Assunzione della beata Vergine Maria (Messa Vigiliare)",
+      "fr": "ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE (Messe de la vigile)",
+      "de": "MARIÄ AUFNAHME IN DEN HIMMEL (Vigilmesse)"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-16.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 16
+    },
+    "rank": "weekday",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "pt-BR": "sanctorale.08-16. argentina"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-16",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 16
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Stephani Hungariæ",
+      "es": "Esteban de Hungría",
+      "en-US": "Saint Stephen of Hungary",
+      "pt-BR": "Santo Estêvão da Hungria",
+      "it": "SANTO STEFANO DI UNGHERIA",
+      "fr": "Saint Étienne de Hongrie",
+      "de": "Hl. Stephan von Ungarn, König"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-18.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 18
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "Blessed Victoria Rasoamanarivo"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-18.chile",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 18
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "chile",
+    "title": {
+      "es": "San Alberto Hurtado Cruchaga, presbítero"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-19.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "San Ezequiel Moreno Díaz, obispo"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-19",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis Eudes, presbyteri",
+      "es": "San Juan Eudes, presbítero",
+      "en-US": "Saint John Eudes, priest",
+      "pt-BR": "São João Eudes, presbítero",
+      "it": "SAN GIOVANNI EUDES, presbitero",
+      "fr": "Saint Jean Eudes, prêtre",
+      "de": "Hl. Johannes Eudes, Priester, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-20",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 20
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Bernardi, abbatis et Ecclésiæ doctoris",
+      "es": "San Bernardo, abad y doctor de la Iglesia",
+      "en-US": "Saint Bernard, abbot and doctor of the Church",
+      "pt-BR": "São Bernardo, abade e doutor da Igreja",
+      "it": "SAN BERNARDO, abate e dottore della Chiesa",
+      "fr": "Saint Bernard, abbé et docteur de l’Église",
+      "de": "Hl. Bernhard von Clairvaux, Abt, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 21
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Pii X, papæ",
+      "es": "San Pío X, papa",
+      "en-US": "Saint Pius X, pope",
+      "pt-BR": "São Pio X, papa",
+      "it": "SAN PIO X, papa",
+      "fr": "Saint Pie X, pape",
+      "de": "Hl. Pius X., Papst"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-22",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 22
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Beatæ Maríæ Virginis Reginæ",
+      "es": "Santa María Virgen, Reina",
+      "en-US": "The Queenship of the Blessed Virgin Mary",
+      "pt-BR": "Bem-aventurada Virgem Maria Rainha",
+      "it": "BEATA VERGINE MARIA REGINA",
+      "fr": "Bienheureuse Vierge Marie Reine",
+      "de": "Maria Königin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-23",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 23
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Rosæ de Lima, virginis",
+      "es": "Santa Rosa de Lima",
+      "en-US": "Saint Rose of Lima, virgin",
+      "pt-BR": "Santa Rosa de Lima, virgem",
+      "it": "SANTA ROSA DA LIMA, vergine",
+      "fr": "Sainte Rose de Lima, vierge",
+      "de": "Hl. Rosa von Lima, Jungfrau"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-24",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 24
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. BARTHOLOMÆI, APOSTOLI",
+      "es": "SAN BARTOLOMÉ, APÓSTOL",
+      "en-US": "Saint Bartholomew, Apostle",
+      "pt-BR": "São Bartolomeu, apóstolo",
+      "it": "SAN BARTOLOMEO, APOSTOLO",
+      "fr": "SAINT BARTHÉLEMY, APÔTRE",
+      "de": "Hl. BARTHOLOMÄUS, APOSTEL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-25",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 25
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ludovici",
+      "es": "San Luis de Francia",
+      "en-US": "Saint Louis of France",
+      "pt-BR": "São Luís de França",
+      "it": "San Luigi IX",
+      "fr": "Saint Louis",
+      "de": "Hl. Ludwig, König von Frankreich"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-26.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 26
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "es": "Beato Ceferino Namuncurá"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-26.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 26
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "france",
+    "title": {
+      "fr": "Saint Césaire d’Arles, évêque"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-26.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 26
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "Santa Teresa de Jesús Jornet e Ibars, virgen, patrona de la ancianidad"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-27",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 27
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Monicæ",
+      "es": "Santa Mónica",
+      "en-US": "Saint Monica",
+      "pt-BR": "Santa Mônica",
+      "it": "SANTA MONICA",
+      "fr": "Sainte Monique",
+      "de": "Hl. Monika"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-28",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 28
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Augustini, episcopi et Ecclésiæ doctoris",
+      "es": "San Agustín, obispo y doctor de la Iglesia",
+      "en-US": "Saint Augustine, bishop and doctor of the Church",
+      "pt-BR": "Santo Agostinho, bispo e doutor da Igreja",
+      "it": "SANT’AGOSTINO, vescovo e dottore della Chiesa",
+      "fr": "Saint Augustin, évêque et docteur de l’Église",
+      "de": "Hl. Augustinus, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-29",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 29
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "In Passione S. Ioannis Baptistæ",
+      "es": "El Martirio de san Juan Bautista",
+      "en-US": "The Beheading of John the Baptist",
+      "pt-BR": "Martírio de São João Batista",
+      "it": "MARTIRIO DI SAN GIOVANNI BATTISTA",
+      "fr": "Martyre de saint Jean Baptiste",
+      "de": "Enthauptung Johannes' des Täufers"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-30.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 30
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "es": "Santa Rosa de Lima, Virgen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.08-31.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 31
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Paulinus von Trier, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-03",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 3
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Gregorii Magni, papæ et Ecclésiæ doctoris",
+      "es": "San Gregorio Magno, papa y doctor de la Iglesia",
+      "en-US": "Saint Gregory the Great, pope and doctor of the Church",
+      "pt-BR": "São Gregório Magno, papa e doutor da Igreja",
+      "it": "SAN GREGORIO MAGNO, papa e dottore della Chiesa",
+      "fr": "Saint Grégoire le Grand, pape et docteur de l’Église",
+      "de": "Hl. Gregor der Große, Papst, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-05",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Teresiæ de Calcutta, virginis",
+      "es": "Santa Teresa de Calcuta, virgen",
+      "en-US": "Saint Teresa of Calcutta, Virgin",
+      "pt-BR": "Santa Teresa de Calcutá, virgem",
+      "it": "Santa Teresa di Calcutta, vergine",
+      "fr": "Sainte Teresa de Calcutta, vierge",
+      "de": "Heilige Teresa von Kalkutta, Jungfrau"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-08",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "IN NATIVITATE BEATÆ MARIÆ VIRGINIS",
+      "es": "LA NATIVIDAD DE LA SANTÍSIMA VIRGEN MARÍA",
+      "en-US": "The Nativity of the Blessed Virgin Mary",
+      "pt-BR": "Natividade da Bem-Aventurada Virgem Maria",
+      "it": "NATIVITÀ DELLA BEATA VERGINE MARIA",
+      "fr": "NATIVITÉ DE LA BIENHEUREUSE VIERGE MARIE",
+      "de": "MARIÄ GEBURT"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-09",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Petri Claver, presbyteri",
+      "es": "San Pedro Claver, presbítero",
+      "en-US": "Saint Peter Claver, priest",
+      "pt-BR": "São Pedro Claver, presbítero",
+      "it": "S. PIETRO CLAVER, presbitero",
+      "fr": "Saint Pierre Claver, prêtre",
+      "de": "Hl. Petrus Claver, Ordenspriester"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-12",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 12
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Sanctissimi Nominis Maríæ",
+      "es": "Dulce Nombre de María",
+      "en-US": "The Most Holy Name of Mary",
+      "pt-BR": "Santíssimo Nome de Maria",
+      "it": "Santissimo Nome di Maria",
+      "fr": "Saint Nom de Marie",
+      "de": "Heiligster Name Mariens"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-13",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 13
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis Chrysostomi, episcopi et Ecclésiæ doctoris",
+      "es": "San Juan Crisóstomo, obispo y doctor de la Iglesia",
+      "en-US": "Saint John Chrysostom, bishop and doctor of the Church",
+      "pt-BR": "São João Crisóstomo, bispo e doutor da Igreja",
+      "it": "SAN GIOVANNI CRISOSTOMO, vescovo e dottore della Chiesa",
+      "fr": "Saint Jean Chrysostome, évêque et docteur de l’Église",
+      "de": "Hl. Johannes Chrysostomus, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-14",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 14
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "IN EXALTATIONE SANCTÆ CRUCIS",
+      "es": "LA EXALTACIÓN DE LA SANTA CRUZ",
+      "en-US": "The Exaltation of the Holy Cross",
+      "pt-BR": "Exaltação da Santa Cruz",
+      "it": "ESALTAZIONE DELLA SANTA CROCE",
+      "fr": "LA CROIX GLORIEUSE",
+      "de": "KREUZERHÖHUNG"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-15",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 15
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Beatæ Maríæ Virginis Perdolentis",
+      "es": "Nuestra Señora, la Virgen de los Dolores",
+      "en-US": "Our Lady of Sorrows",
+      "pt-BR": "Bem-aventurada Virgem Maria das Dores",
+      "it": "Beata Vergine Maria Addolorata",
+      "fr": "Bienheureuse Vierge Marie des Douleurs",
+      "de": "Gedächtnis der Schmerzen Mariens"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-16",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 16
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Cornelii, papæ, et Cypriani, episcopi, martyrum",
+      "es": "San Cornelio y san Cipriano, obispos y mártires",
+      "en-US": "Ss. Cornelius, pope, and Cyprian, bishop, martyrs",
+      "pt-BR": "Santos Cornélio, papa, e Cipriano, bispo, mártires",
+      "it": "SANTI CORNELIO, papa e CIPRIANO, vescovo, martiri",
+      "fr": "Saint Corneille, pape, et saint Cyprien, évêque, martyrs",
+      "de": "Hl. Kornelius, Papst, und hl. Cyprian, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-17",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 17
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Roberti Bellarmino, episcopi et Ecclésiæ doctoris",
+      "es": "San Roberto Belarmino, obispo y doctor de la Iglesia",
+      "en-US": "Saint Robert Bellarmine, bishop and doctor of the Church",
+      "pt-BR": "São Roberto Belarmino, bispo e doutor da Igreja",
+      "it": "SAN ROBERTO BELLARMINO, vescovo e dottore della Chiesa",
+      "fr": "Saint Robert Bellarmin, évêque et docteur de l’Église",
+      "de": "Hl. Robert Bellarmin, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-18.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 18
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Lambert, Bischof, Glaubensbote, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-19.france",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "france",
+    "title": {
+      "fr": "Bienheureuse Vierge Marie de la Salette"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-19.uruguay",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "uruguay",
+    "title": {
+      "es": "Beatas Dolores y Consuelo Aguiar-Mella y Díaz y compañeras, Mártires"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-19",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ianuarii, episcopi et martyris",
+      "es": "San Jenaro, obispo y mártir",
+      "en-US": "Saint Januarius, bishop and martyr",
+      "pt-BR": "São Januário, bi5po e mártir",
+      "it": "SAN GENNARO, vescovo e martire",
+      "fr": "Saint Janvier, évêque et martyr",
+      "de": "Hl. Januarius, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-20",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 20
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Andreæ Kim Tae-gon, presbyteri, et Pauli Chong Ha-sang, et sociorum, martyrum",
+      "es": "San Andrés Kim Taegon, presbítero, y san Pablo Chong Hasang y compañeros, mártires",
+      "en-US": "Ss Andrew Kim Taegon, priest, Paul Chong Hasang, and Companions, martyrs",
+      "pt-BR": "Santos André Kim Tae-gon, presbítero, Paulo Chóng Hasang e companheiros, mártires",
+      "it": "SANTI ANDREA KIM TAEGÔN, sacerdote e PAOLO CHÔNG HASANG E COMPAGNI martiri",
+      "fr": "Saint André Kim Tae-gon, prêtre, saint Paul Chong Ha-sang et leurs compagnons, martyrs",
+      "de": "Hl. Andreas Kim Taegon, Priester, und hl. Paulus Chong Hasang und Gefährten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 21
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. MATTHÆI, APOSTOLI ET EVANGELISTÆ",
+      "es": "SAN MATEO, APÓSTOL",
+      "en-US": "Saint Matthew, Apostle and Evangelist",
+      "pt-BR": "São Mateus, apóstolo e evangelista",
+      "it": "SAN MATTEO APOSTOLO ED EVANGELISTA",
+      "fr": "SAINT MATTHIEU, APÔTRE ET ÉVANGÉLISTE",
+      "de": "Hl. MATTHÄUS, APOSTEL UND EVANGELIST"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-22.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 22
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "africa",
+    "title": {
+      "en-US": "Saint Maurice and Companions, Martyrs"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-22.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 22
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Mauritius und Gefährten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-23",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 23
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Pii de Pietrelcina, presbyteri",
+      "es": "San Pío de Pietrelcina, presbítero",
+      "en-US": "Saint Pius of Pietrelcina (Padre Pio), priest",
+      "pt-BR": "São Pio de Pietrelcina, presbítero",
+      "it": "SAN PIO DA PIETRELCINA, presbitero",
+      "fr": "Saint Pio de Pietrelcina, prêtre",
+      "de": "Hl. Pius von Pietrelcina (Padre Pio), Ordenspriester"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-24.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 24
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Rupert und hl. Virgil, Bischöfe, Glaubensboten"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-25.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 25
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Niklaus von Flüe, Einsiedler, Friedensstifter"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-26",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 26
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Cosmæ et Damiani, martyrum",
+      "es": "San Cosme y san Damián, mártires",
+      "en-US": "Ss. Cosmas and Damian, martyrs",
+      "pt-BR": "Santos Cosme e Damião, mártires",
+      "it": "SANTI COSMA E DAMIANO, martiri",
+      "fr": "Saints Côme et Damien, martyrs",
+      "de": "Hl. Kosmas und hl. Damian, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-27",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 27
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Vincentii de Paul, presbyteri",
+      "es": "San Vicente de Paúl, presbítero",
+      "en-US": "Saint Vincent de Paul, priest",
+      "pt-BR": "São Vicente de Paulo, presbítero",
+      "it": "SAN VINCENZO DE' PAOLI, presbitero",
+      "fr": "Saint Vincent de Paul, prêtre",
+      "de": "Hl. Vinzenz von Paul, Priester, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-28.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 28
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Lioba, Äbtissin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-28",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 28
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Venceslai, martyris",
+      "es": "San Wenceslao, mártir",
+      "en-US": "Saint Wenceslaus, martyr",
+      "pt-BR": "São Venceslau, mártir",
+      "it": "SAN VENCESLAO, martire",
+      "fr": "Saint Venceslas, martyr",
+      "de": "Hl. Wenzel, Herzog, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-29",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 29
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "SS. MICHAELIS, GABRIELIS ET RAPHAELIS, ARCHANGELORUM",
+      "es": "SANTOS ARCÁNGELES MIGUEL, GABRIEL Y RAFAEL",
+      "en-US": "Ss Michael, Gabriel and Raphael, Archangels",
+      "pt-BR": "Santos Miguel, Gabriel e Rafael, Arcanjos",
+      "it": "Santi Michele, Gabriele e Raffaele, arcangeli",
+      "fr": "SAINTS MICHEL, GABRIEL ET RAPHAËL, ARCHANGES",
+      "de": "MICHAEL, GABRIEL UND RAFAEL, Erzengel"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.09-30",
+    "dateRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 30
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Hieronymi, presbyteri et Ecclésiæ doctoris",
+      "es": "San Jerónimo, presbítero y doctor de la Iglesia",
+      "en-US": "Saint Jerome, priest and Doctor of the Church",
+      "pt-BR": "São Jerônimo, presbítero e doutor da Igreja",
+      "it": "SAN GIROLAMO, presbitero e dottore della Chiesa",
+      "fr": "Saint Jérôme, prêtre et docteur de l’Église",
+      "de": "Hl. Hieronymus, Priester, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-01.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 1
+    },
+    "rank": "weekday",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "pt-BR": "sanctorale.10-01. africa"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-01.nigeria",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 1
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "nigeria",
+    "title": {
+      "en-US": "Our Lady, Queen of Nigeria"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-01",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 1
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Teresiæ a Iesu Infante, virginis et Ecclésiæ doctoris",
+      "es": "Santa Teresa del Niño Jesús, virgen",
+      "en-US": "Saint Theresa of the Child Jesus, virgin",
+      "pt-BR": "Santa Teresa do Menino Jesus, virgem e doutora da Igreja",
+      "it": "SANTA TERESA DI GESÙ BAMBINO, vergine e dottore della Chiesa",
+      "fr": "Sainte Thérèse de l’Enfant-Jésus, vierge et docteur de l’Église",
+      "de": "Hl. Theresia vom Kinde Jesus, Ordensfrau"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-02.religious-orders",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 2
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "religious-orders",
+    "title": {
+      "la": "Ss. Angelorum Custodum",
+      "es": "Santos Ángeles Custodios",
+      "en-US": "The Guardian Angels",
+      "pt-BR": "Santos Anjos da Guarda",
+      "it": "SANTI ANGELI CUSTODI",
+      "fr": "Saints anges gardiens",
+      "de": "HEILIGE SCHUTZENGEL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-02",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 2
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Angelorum Custodum",
+      "es": "Santos Ángeles Custodios",
+      "en-US": "The Guardian Angels",
+      "pt-BR": "Santos Anjos da Guarda",
+      "it": "SANTI ANGELI CUSTODI",
+      "fr": "Saints anges gardiens",
+      "de": "Heilige Schutzengel"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-03.brazil",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 3
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "brazil",
+    "title": {
+      "pt-BR": "Beatos mártires André de Soveral e companheiros mártires"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-03.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 3
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "San Francisco de Borja, presbítero"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-04",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 4
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Francisci Assisiensis",
+      "es": "San Francisco de Asís",
+      "en-US": "Saint Francis of Assisi",
+      "pt-BR": "São Francisco de Assis",
+      "it": "SAN FRANCESCO D’ASSISI, patrono d’Italia",
+      "fr": "Saint François d’Assise",
+      "de": "Hl. Franz von Assisi, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-05.brazil",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "brazil",
+    "title": {
+      "pt-BR": "São Benedito, o Negro, religioso"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-05.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "Témporas de acción de gracias y de petición"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-05",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Faustinæ Kowalska, virginis",
+      "es": "Santa Faustina Kowalska, virgen",
+      "en-US": "Saint Faustina Kowalska, virgin",
+      "pt-BR": "S. Faustina Kowalska, virgem",
+      "it": "Santa Faustina Kowalska, vergine",
+      "de": "Hl. Faustina Kowalska, Jungfrau"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-06.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 6
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Blessed Marie Rose Durocher, Virgin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-06",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 6
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Brunonis, presbyteri",
+      "es": "San Bruno, presbítero",
+      "en-US": "Saint Bruno, priest",
+      "pt-BR": "São Bruno, presbítero",
+      "it": "SAN BRUNO, presbitero",
+      "fr": "Saint Bruno, prêtre",
+      "de": "Hl. Bruno, Mönch, Einsiedler, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-07",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 7
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Beatæ Maríæ Virginis a Rosario",
+      "es": "Nuestra Señora, la Virgen del Rosario",
+      "en-US": "Our Lady of the Rosary",
+      "pt-BR": "Bem-aventurada Virgem Maria do Rosário",
+      "it": "BEATA VERGINE MARIA DEL ROSARIO",
+      "fr": "Bienheureuse Vierge Marie du Rosaire",
+      "de": "Unsere Liebe Frau vom Rosenkranz"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-09.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 9
+    },
+    "rank": "weekday",
+    "color": "white",
+    "scope": "argentina",
+    "title": {
+      "pt-BR": "sanctorale.10-09. argentina"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-09",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Dionysii, episcopi, et sociorum, martyrum",
+      "es": "San Dionisio, obispo, y compañeros mártires",
+      "en-US": "Saint Denis, bishop and martyr and Companions, martyrs",
+      "pt-BR": "São Dionísio, bispo, e companheiros, mártires",
+      "it": "SAN DIONIGI vescovo, e COMPAGNI, martiri",
+      "fr": "Saint Denis, évêque, et ses compagnons, martyrs",
+      "de": "Hl. Dionysius, Bischof, und Gefährten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-10.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 10
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "Saint Daniel Comboni, Bishop"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-10.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 10
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "Santo Tomás de Villanueva, obispo"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-11.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 11
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "Santa Soledad Torres Acosta, virgen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-11",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 11
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis XXIII, Papæ",
+      "es": "S. Juan XXIII, Papa",
+      "en-US": "Saint John Xxiii, pope",
+      "pt-BR": "São João Xxiii, papa",
+      "it": "S. GIOVANNI XXIII, Papa",
+      "fr": "Saint Jean XXIII, Pape",
+      "de": "Hl. Johannes XXIII., Papst"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-12.brazil",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 12
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "brazil",
+    "title": {
+      "pt-BR": "Nossa Senhora da Conceição Aparecida"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-12.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 12
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "Bienaventurada Virgen María del Pilar"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-14",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 14
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Callisti I, papæ et martyris",
+      "es": "San Calixto I, papa y mártir",
+      "en-US": "Saint Callistus I, pope and martyr",
+      "pt-BR": "São Calisto I, papa e mártir",
+      "it": "SAN CALLISTO I, papa e martire",
+      "fr": "Saint Calliste Ier, pape et martyrs",
+      "de": "Hl. Kallistus I., Papst, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-15",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 15
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Teresiæ a Iesu, virginis et Ecclésiæ doctoris",
+      "es": "Santa Teresa de Jesús, virgen y doctora de la Iglesia",
+      "en-US": "Saint Teresa of Jesus, virgin and doctor of the Church",
+      "pt-BR": "Santa Teresa de Jesus, virgem e doutora da Igreja",
+      "it": "SANTA TERESA DI GESÙ, vergine e dottore della Chiesa",
+      "fr": "Sainte Thérèse de Jésus, vierge et docteur de l’Églises",
+      "de": "Hl. Theresia von Jesus (von Ávila), Ordensfrau, Kirchenlehrerin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-16.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 16
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Gallus, Mönch, Einsiedler, Glaubensbote"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-16",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 16
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Hedvigis, religiosæ",
+      "es": "Santa Eduvigis, religiosa",
+      "en-US": "Saint Hedwig, religious",
+      "pt-BR": "Santa Edviges, religiosa",
+      "it": "SANTA EDVIGE, religiosa",
+      "fr": "Sainte Edwige, religieuse",
+      "de": "Hl. Hedwig, Herzogin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-17",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 17
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ignatii Antiocheni, episcopi et martyris",
+      "es": "San Ignacio de Antioquía, obispo y mártir",
+      "en-US": "Saint Ignatius of Antioch, bishop and martyr",
+      "pt-BR": "Santo Inácio de Antioquia, bispo e mártir",
+      "it": "SANT’IGNAZIO DI ANTIOCHIA, vescovo e martire",
+      "fr": "Saint Ignace d’Antioche, évêque et martyr",
+      "de": "Hl. Ignatius von Antiochien, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-18",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 18
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. LUCÆ, EVANGELISTÆ",
+      "es": "SAN LUCAS, EVANGELISTA",
+      "en-US": "Saint Luke, Evangelist",
+      "pt-BR": "São Lucas, evangelista",
+      "it": "SAN LUCA, EVANGELISTA",
+      "fr": "SAINT LUC, ÉVANGÉLISTE",
+      "de": "Hl. LUKAS, EVANGELIST"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-19.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "San Pedro de Alcántara, presbítero"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-19",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 19
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Ioannis de Brébeuf et Isaac Jogues, presbyterorum, et sociorum, martyrum",
+      "es": "San Juan de Breveuf y san Isaac Jogues, presbíteros, y compañeros mártires",
+      "en-US": "Ss. John de Brebeuf and Isaac Jogues, priests and martyrs, and Companions, martyrs",
+      "pt-BR": "Santos João de Brébeuf e Isaac Jogues, presbíteros, e companheiros, mártires",
+      "it": "SANTI GIOVANNI DE BRÉBEUF e ISACCO JOGUES, presbiteri, e COMPAGNI, martiri",
+      "fr": "Saint Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons, martyrs",
+      "de": "Hl. Johannes de Brébeuf und hl. Isaak Jogues und Gefährten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-20.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 20
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "africa",
+    "title": {
+      "en-US": "Blessed Daudi Okelo and Jildo Irwa, Martyrs"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-20.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 20
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Wendelin, Einsiedler"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-21.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 21
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Ursula und Gefährtinnen, Märtyrinnen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-22",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 22
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis Pauli II, Papæ",
+      "es": "S. Juan Pablo II, Papa",
+      "en-US": "Saint Iohn Paul Ii, pope",
+      "pt-BR": "São João Paulo Ii, papa",
+      "it": "SAN GIOVANNI PAOLO II, Papa",
+      "fr": "Saint Jean-Paul II, pape",
+      "de": "Hl. Johannes Paul II., Papst"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-23",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 23
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis de Capestrano, presbyteri",
+      "es": "San Juan de Capistrano, presbítero",
+      "en-US": "Saint John of Capistrano, priest",
+      "pt-BR": "São João de Capistrano, presbítero",
+      "it": "SAN GIOVANNI DA CAPESTRANO, presbitero",
+      "fr": "Saint Jean de Capistran, prêtre",
+      "de": "Hl. Johannes von Capestrano, Ordenspriester, Wanderprediger"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-24",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 24
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Antonii Maríæ Claret, episcopi",
+      "es": "San Antonio María Claret, obispo",
+      "en-US": "Saint Anthony Claret, bishop",
+      "pt-BR": "Santo Antônio Maria Claret, bispo",
+      "it": "SANT’ANTONIO MARIA CLARET, vescovo",
+      "fr": "Saint Antoine-Marie Claret, évêque",
+      "de": "Hl. Antonius Maria Claret, Bischof, Ordensgründer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-25.brazil",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 25
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "brazil",
+    "title": {
+      "pt-BR": "Santo Antônio de Santana Galvão"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-28",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 28
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "SS. SIMONIS ET IUDÆ, APOSTOLORUM",
+      "es": "SAN SIMÓN Y SAN JUDAS, APÓSTOLES",
+      "en-US": "Ss. Simon and Jude, Apostles",
+      "pt-BR": "Santos Simão e Judas, apóstolos",
+      "it": "SANTI SIMONE E GIUDA, APOSTOLI",
+      "fr": "SAINTS SIMON ET JUDE, APÔTRES",
+      "de": "Hl. SIMON UND Hl. JUDAS, APOSTEL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.10-31.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 31
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Wolfgang, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-01",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 1
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "OMNIUM SANCTORUM",
+      "es": "TODOS LOS SANTOS",
+      "en-US": "All Saints",
+      "pt-BR": "Todos os Santos",
+      "it": "TUTTI I SANTI",
+      "fr": "TOUS LES SAINTS",
+      "de": "ALLERHEILIGEN"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-02",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 2
+    },
+    "rank": "solemnity",
+    "color": "violet",
+    "scope": "universal",
+    "title": {
+      "la": "IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM",
+      "es": "CONMEMORACIÓN DE TODOS LOS FIELES DIFUNTOS",
+      "en-US": "The Commemoration of All the Faithful Departed (All Souls' Day)",
+      "pt-BR": "Comemoração de Todos os Fiéis Defuntos",
+      "it": "COMMEMORAZIONE DI TUTTI I FEDELI DEFUNTI",
+      "fr": "COMMÉMORATION DE TOUS LES FIDÈLES DÉFUNTS",
+      "de": "ALLERSEELEN"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-03.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 3
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Pirmin, Abtbischof, Glaubensbote"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-03",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 3
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Martini de Porres, religiosi",
+      "es": "San Martín de Porres, religioso",
+      "en-US": "Saint Martin de Porres, religious",
+      "pt-BR": "São Martinho (de Lima), religioso",
+      "it": "SAN MARTINO DE PORRES, religioso",
+      "fr": "Saint Martin de Porrès, religieux",
+      "de": "Hl. Martin von Porres, Ordensmann"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-04",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 4
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Caroli Borromeo, episcopi",
+      "es": "San Carlos Borromeo, obispo",
+      "en-US": "Saint Charles Borromeo, bishop",
+      "pt-BR": "São Carlos Borromeu, bispo",
+      "it": "SAN CARLO BORROMEO, vescovo",
+      "fr": "Saint Charles Borromée, évêque",
+      "de": "Hl. Karl Borromäus, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-05.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "Santa Ángela de la Cruz Guerrero González, virgen"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-06.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 6
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "africa",
+    "title": {
+      "en-US": "All Saints of Africa"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-06.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 6
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Leonhard, Einsiedler"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-06",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 6
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Sanctorum Petri Poveda Castroverde, Innocentii ab Immaculata Canoura Arnau, presbyterorum, et sociorum, martyrum",
+      "es": "Santos Pedro Poveda Castroverde, Inocencio de la Inmaculada Canoura Arnau, presbíteros, y compañeros, mártires"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-07.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 7
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Willibrord, Bischof, Glaubensbote"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-08.religious-orders",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 8
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "religious-orders",
+    "title": {
+      "la": "S. Severini, martyris",
+      "es": "San Severino, mártir",
+      "en-US": "S. Severinus, martyr",
+      "pt-BR": "São Severino, mártir",
+      "it": "S. Severino, martire",
+      "fr": "S. Severini, martyris",
+      "de": "Hl. Severinus, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-08.uruguay",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 8
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "uruguay",
+    "title": {
+      "es": "Nuestra Señora, la Virgen de los Treinta y tres"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-09",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 9
+    },
+    "rank": "feast",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "IN DEDICATIONE BASILICÆ LATERANENSIS",
+      "es": "LA DEDICACIÓN DE LA BASÍLICA DE LETRÁN",
+      "en-US": "The Dedication of the Lateran Basilica",
+      "pt-BR": "Dedicação da Basílica do Latrão",
+      "it": "DEDICAZIONE DELLA BASILICA LATERANENSE",
+      "fr": "DÉDICACE DE LA BASILIQUE DU LATRAN",
+      "de": "WEIHETAG DER LATERANBASILIKA"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-10",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 10
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Leonis Magni, papæ et Ecclésiæ doctoris",
+      "es": "San León Magno, papa y doctor de la Iglesia",
+      "en-US": "Saint Leo the Great, pope and doctor of the Church",
+      "pt-BR": "São Leão Magno, papa e doutor da Igreja",
+      "it": "SAN LEONE MAGNO, papa e dottore della Chiesa",
+      "de": "Hl. Leo der Große, Papst, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-11",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 11
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Martini Turonensis, episcopi",
+      "es": "San Martín de Tours, obispo",
+      "en-US": "Saint Martin of Tours, bishop",
+      "pt-BR": "São Martinho de Tours, bispo",
+      "it": "SAN MARTINO DI TOURS, vescovo",
+      "fr": "Saint Martin de Tours, évêque",
+      "de": "Hl. Martin, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-12",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 12
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Iosaphat, episcopi et martyris",
+      "es": "San Josafat, obispo y mártir",
+      "en-US": "Saint Josaphat, bishop and martyr",
+      "pt-BR": "São Josafá, bispo e mártir",
+      "it": "SAN GIOSAFAT, vescovo e martire",
+      "fr": "Saint Josaphat, évêque et martyr",
+      "de": "Hl. Josaphat, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-13.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 13
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "spain",
+    "title": {
+      "es": "San Leandro, obispo"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-13.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 13
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Saint Frances Xavier Cabrini, Virgin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-15.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 15
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Leopold, Markgraf von Österreich"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-15",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 15
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Alberti Magni, episcopi et Ecclésiæ doctoris",
+      "es": "San Alberto Magno, obispo y doctor de la Iglesia",
+      "en-US": "Saint Albert the Great, bishop and doctor of the Church",
+      "pt-BR": "Santo Alberto Magno, bispo e doutor da Igreja",
+      "it": "SANT’ALBERTO MAGNO, vescovo e dottore della Chiesa",
+      "fr": "Saint Albert le Grand, évêque et docteur de l’Église",
+      "de": "Hl. Albert der Große, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-16",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 16
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Margaritæ Scotiæ",
+      "es": "Santa Margarita de Escocia",
+      "en-US": "Saint Margaret of Scotland",
+      "pt-BR": "Santa Margarida da Escócia",
+      "it": "SANTA MARGHERITA DI SCOZIA",
+      "fr": "Sainte Marguerite d’Écosse",
+      "de": "Hl. Margareta von Schottland, Königin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-17.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 17
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "argentina",
+    "title": {
+      "es": "Santos Roque González, Alfonso Rodríguez y Juan del Castillo Presbíteros y mártires"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-17",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 17
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Elisabeth Hungariæ",
+      "es": "Santa Isabel de Hungría, religiosa",
+      "en-US": "Saint Elizabeth of Hungary, religious",
+      "pt-BR": "Santa Isabel da Hungria, religiosa",
+      "it": "SANTA ELISABETTA DI UNGHERIA, religiosa",
+      "fr": "Sainte Élisabeth de Hongrie, religieuse"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-18.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 18
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Saint Rose Philippine Duchesne, Virgin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-18",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 18
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "In Dedicatione basilicarum Ss. Petri et Pauli, apostolórum",
+      "es": "La Dedicación de la basílica de los apóstoles San Pedro y San Pablo",
+      "en-US": "The Dedication of the Basilicas of Saints Peter and Paul, Apostles",
+      "pt-BR": "Dedicação das basílicas dos Santos Pedro e Paulo, apóstolos",
+      "it": "DEDICAZIONE DELLE BASILICHE DEI SANTI PIETRO E PAOLO, APOSTOLI",
+      "fr": "Dédicace des basiliques Saint-Pierre et Saint-Paul, apôtres",
+      "de": "Weihetag der Basiliken St. Peter und St. Paul zu Rom"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-19.argentina",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 19
+    },
+    "rank": "solemnity",
+    "color": "red",
+    "scope": "argentina",
+    "title": {
+      "es": "Santos Roque González, Alfonso Rodríguez y Juan del Castillo Presbíteros y mártires"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 21
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "In Præsentatione beatæ Maríæ Virginis",
+      "es": "La Presentación de la Santísima Virgen",
+      "en-US": "The Presentation of the Blessed Virgin Mary",
+      "pt-BR": "Apresentação da Bem-aventurada Virgem Maria",
+      "it": "PRESENTAZIONE DELLA BEATA VERGINE MARIA",
+      "fr": "Présentation de la bienheureuse Vierge Marie",
+      "de": "Gedenktag Unserer Lieben Frau in Jerusalem"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-22",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 22
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Cæciliæ, virginis et martyris",
+      "es": "Santa Cecilia, virgen y mártir",
+      "en-US": "Saint Cecilia, virgin and martyr",
+      "pt-BR": "Santa Cecília, virgem e mártir",
+      "it": "SANTA CECILIA, vergine e martire",
+      "fr": "Sainte Cécile, vierge et martyre",
+      "de": "Hl. Cäcilia, Jungfrau, Märtyrin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-23.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 23
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Blessed Miguel Agustín Pro, Priest and Martyr"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-23",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 23
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Clementis I, papæ et martyris",
+      "es": "San Clemente I, papa y mártir",
+      "en-US": "Saint Clement I, pope and martyr",
+      "pt-BR": "São Clemente I, papa e mártir",
+      "it": "SAN CLEMENTE I, papa e martire",
+      "fr": "Saint Clément Ier, pape et martyr",
+      "de": "Hl. Klemens I., Papst, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-24",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 24
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "Ss. Andreæ Dung Lac, presbyteri, et sociorum, martyrum",
+      "es": "San Andrés Dung-Lac, presbítero, y compañeros, mártires",
+      "en-US": "Ss Andrew Dung-Lac, priest, and Companions, martyrs",
+      "pt-BR": "Santo André Dung-Lac, presbítero, e companheiros, mártires",
+      "it": "SANTI ANDREA DUNG-LAC, sacerdote e COMPAGNI martiri",
+      "fr": "Saint André Dung-Lac, prêtre, et ses compagnons, martyrs",
+      "de": "Hl. Andreas Dung-Lac, Priester, und Gefährten, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-25",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 25
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Catharinæ Alexandrinæ, virginis et martyris",
+      "es": "Santa Catalina de Alejandría, virgen y mártir",
+      "en-US": "Saint Catherine of Alexandria, virgin and martyr",
+      "pt-BR": "Santa Catarina de Alexandria, virgem e mártir",
+      "it": "SANTA CATERINA DI ALESSANDRIA, vergine e martire",
+      "fr": "Sainte Catherine d’Alexandrie, vierge et martyre",
+      "de": "Hl. Katharina von Alexandrien, Jungfrau, Märtyrin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-26.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 26
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Konrad und hl. Gebhard, Bischöfe"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-28.religious-orders",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 28
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "religious-orders",
+    "title": {
+      "la": "In anniversario erectionis Personalis Prælaturæ",
+      "es": "Aniversario de la Erección como Prelatura Personal",
+      "en-US": "Anniversary of the Erection as Personal Prelature",
+      "pt-BR": "Aniversário da ereção como Prelazia Pessoal",
+      "it": "ANNIVERSARIO DELL’EREZIONE DELL’OPUS DEI COME PRELATURA PERSONALE",
+      "fr": "À l’anniversaire de l’érection de la Prélature Personnelle",
+      "de": "Jahrestag der Errichtung der Personalprälatur"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-30.united-states",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 30
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "united-states",
+    "title": {
+      "en-US": "Thanksgiving Day Fourth Thursday in November"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.11-30",
+    "dateRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 30
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. ANDREÆ, APOSTOLI",
+      "es": "SAN ANDRÉS, APÓSTOL",
+      "en-US": "Saint Andrew, Apostle",
+      "pt-BR": "Santo André, apóstolo",
+      "it": "SANT’ANDREA, APOSTOLO",
+      "fr": "SAINT ANDRÉ, APÔTRE",
+      "de": "Hl. ANDREAS, APOSTEL"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-01.africa",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 1
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "africa",
+    "title": {
+      "en-US": "Blessed Clementine Anuarite, Virgin and Martyr"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-02.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 2
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Luzius, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-03",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 3
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Francisci Xavier, presbyteri",
+      "es": "San Francisco Javier, presbítero",
+      "en-US": "Saint Francis Xavier",
+      "pt-BR": "São Francisco Xavier, presbítero",
+      "it": "SAN FRANCESCO SAVERIO, presbitero",
+      "fr": "Saint François Xavier, prêtre",
+      "de": "Hl. Franz Xaver, Ordenspriester, Glaubensbote"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-04.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Barbara, Märtyrin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-04",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 4
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis Damasceni, presbyteri et Ecclésiæ doctoris",
+      "es": "San Juan Damasceno, presbítero y doctor de la Iglesia",
+      "en-US": "Saint John Damascene, priest and doctor of the Church",
+      "pt-BR": "São João Damasceno, presbítero e doutor da Igreja",
+      "it": "SAN GIOVANNI DAMASCENO, presbitero e dottore della Chiesa",
+      "fr": "Saint Jean de Damas, prêtre et docteur de l’Église",
+      "de": "Hl. Johannes von Damaskus, Priester, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-05.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 5
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Anno, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-06",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 6
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Nicolai, episcopi",
+      "es": "San Nicolás, obispo",
+      "en-US": "Saint Nicholas, bishop",
+      "pt-BR": "São Nicolau, bispo",
+      "it": "SAN NICOLA, vescovo",
+      "fr": "Saint Nicolas, évêque",
+      "de": "Hl. Nikolaus, Bischof"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-07",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 7
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ambrosii, episcopi et Ecclésiæ doctoris",
+      "es": "San Ambrosio, obispo y doctor de la Iglesia",
+      "en-US": "Saint Ambrose, bishop and doctor of the Church",
+      "pt-BR": "Santo Ambrósio, bispo e doutor da Igreja",
+      "it": "SANT’AMBROGIO, vescovo e dottore della Chiesa",
+      "fr": "Saint Ambroise, évêque et docteur de l’Église",
+      "de": "Hl. Ambrosius, Bischof, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-08",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 8
+    },
+    "rank": "solemnity",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "IN CONCEPTIONE IMMACULATA BEATÆ MARIÆ VIRGINIS",
+      "es": "LA INMACULADA CONCEPCIÓN DE SANTA MARÍA VIRGEN",
+      "en-US": "The Immaculate Conception of the Blessed Virgin Mary",
+      "pt-BR": "Imaculada Conceição da Bem-Aventurada Virgem Maria",
+      "it": "IMMACOLARA CONCEZIONE DELLA BEATA VERGINE MARIA",
+      "fr": "IMMACULÉE CONCEPTION DE LA BIENHEUREUSE VIERGE MARIE",
+      "de": "HOCHFEST DER OHNE ERBSÜNDE EMPFANGENEN JUNGFRAU UND GOTTESMUTTER MARIA (MARIÄ EMPFÄNGNIS)"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-09",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 9
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis Didaci Cuauhtlatoatzin",
+      "es": "San Juan Diego Cuauhtlatoatzin",
+      "en-US": "Saint Juan Diego Cuauhtlatoatzin",
+      "pt-BR": "São João Diego Cuauhtlatoatzin",
+      "it": "San Giovanni Diego Cuauhtlatoatzin",
+      "fr": "Saint Juan Diego Cuauhtlatoatzin",
+      "de": "Hl. Johannes Didacus Cuauhtlatoatzin (Juan Diego)"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-10.spain",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 10
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "spain",
+    "title": {
+      "es": "Santa Eulalia de Mérida, virgen y mártir"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-10",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 10
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Beatæ Maríæ Virginis de Loreto",
+      "es": "Nuestra Señora de Loreto",
+      "en-US": "Our Lady of Loreto",
+      "pt-BR": "Bem-aventurada Virgem Maria de Loreto",
+      "it": "Beata Vergine Maria di Loreto",
+      "fr": "Bienheureuse Vierge Marie de Lorette",
+      "de": "Gedenktag Unserer Lieben Frau von Loreto"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-11",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 11
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Damasi I, papæ",
+      "es": "San Dámaso I, papa",
+      "en-US": "Saint Damasus I, pope",
+      "pt-BR": "São Dâmaso I, papa",
+      "it": "SAN DAMASO I, papa",
+      "fr": "Saint Damase Ier, pape",
+      "de": "Hl. Damasus I., Papst"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-12",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 12
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Beatæ Maríæ Virginis de Guadalupe",
+      "es": "Nuestra Señora de Guadalupe",
+      "en-US": "Our Lady of Guadalupe",
+      "pt-BR": "Bem-Aventurada Virgem Maria de Guadalupe",
+      "it": "Beata Vergine Maria di Guadalupe",
+      "fr": "Bienheureuse Vierge Marie de Guadaloupé",
+      "de": "Gedenktag Unserer Lieben Frau von Guadalupe"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-13.german-speaking",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 13
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "german-speaking",
+    "title": {
+      "de": "Hl. Odilia, Äbtissin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-13",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 13
+    },
+    "rank": "memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Luciæ, virginis et martyris",
+      "es": "Santa Lucía, virgen y mártir",
+      "en-US": "Saint Lucy, virgin and martyr",
+      "pt-BR": "Santa Luzia, virgem e mártir",
+      "it": "SANTA LUCIA, vergine e martire",
+      "fr": "Sainte Lucie, vierge et martyre",
+      "de": "Hl. Luzia, Jungfrau, Märtyrin"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-14",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 14
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis a Cruce, presbyteri et Ecclésiæ doctoris",
+      "es": "San Juan de la Cruz, presbítero y doctor de la Iglesia",
+      "en-US": "Saint John of the Cross, priest and Doctor of the Church",
+      "pt-BR": "São João da Cruz, presbítero e doutor da Igreja",
+      "it": "SAN GIOVANNI DELLA CROCE, sacerdote e dottore della Chiesa",
+      "fr": "Saint Jean de la Croix, prêtre et docteur de l’Église",
+      "de": "Hl. Johannes vom Kreuz, Ordenspriester, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-21",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 21
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Petri Canisii, presbyteri et Ecclésiæ doctoris",
+      "es": "San Pedro Canisio, presbítero y doctor de la Iglesia",
+      "en-US": "Saint Peter Canisius, priest and doctor of the Church",
+      "pt-BR": "São Pedro Canísio, presbítero e doutor da Igreja",
+      "it": "SAN PIETRO CANISIO, sacerdote e dottore della Chiesa",
+      "fr": "Saint Pierre Canisius, prêtre et docteur de l’Église",
+      "de": "(21. Dezember - in D-A-CH: 27. April) Hl. Petrus Kanisius, Ordenspriester, Kirchenlehrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-23",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 23
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Ioannis de Kęty, presbyteri",
+      "es": "San Juan de Kety, presbítero",
+      "en-US": "Saint John of Kanty, priest",
+      "pt-BR": "São João Câncio, presbítero",
+      "it": "SAN GIOVANNI DA KETY, sacerdote",
+      "fr": "Saint Jean de Kenty, prêtre",
+      "de": "Hl. Johannes von Krakau, Priester"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-26",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 26
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. STEPHANI, PROTOMARTYRIS",
+      "es": "SAN ESTEBAN, PROTOMÁRTIR",
+      "en-US": "Saint Stephen, the First Martyr",
+      "pt-BR": "Santo Estêvão, Protomártir",
+      "it": "SANTO STEFANO, primo martire",
+      "fr": "SAINT ÉTIENNE, PREMIER MARTYR",
+      "de": "Hl. STEPHANUS, ERSTER MÄRTYRER"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-27",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 27
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. IOANNIS, APOSTOLI ET EVANGELISTÆ",
+      "es": "SAN JUAN, APÓSTOL Y EVANGELISTA",
+      "en-US": "Saint John, Apostle and Evangelist",
+      "pt-BR": "São João, apóstolo e evangelista",
+      "it": "SAN GIOVANNI APOSTOLO ED EVANGELISTA",
+      "fr": "SAINT JEAN, APÔTRE ET ÉVANGÉLISTE",
+      "de": "Hl. JOHANNES, APOSTEL UND EVANGELIST"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-28",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 28
+    },
+    "rank": "feast",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "SS. INNOCENTIUM, MARTYRUM",
+      "es": "LOS SANTOS INOCENTES, MÁRTIRES",
+      "en-US": "The Holy Innocents, Martyrs",
+      "pt-BR": "Os Santos Inocentes, mártires",
+      "it": "SANTI INNOCENTI MARTIRI",
+      "fr": "LES SAINTS INNOCENTS, MARTYRS",
+      "de": "UNSCHULDIGE KINDER, MÄRTYRER"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-29",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 29
+    },
+    "rank": "optional-memorial",
+    "color": "red",
+    "scope": "universal",
+    "title": {
+      "la": "S. Thomæ Becket, episcopi et martyris",
+      "es": "Santo Tomás Becket, obispo y mártir",
+      "en-US": "Saint Thomas Becket, bishop and martyr",
+      "pt-BR": "São Tomás Becket, bispo e mártir",
+      "it": "SAN TOMMASO BECKET, vescovo e martire",
+      "fr": "Saint Thomas Becket, évêque et martyr",
+      "de": "Hl. Thomas Becket, Bischof, Märtyrer"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.12-31",
+    "dateRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 31
+    },
+    "rank": "optional-memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "S. Silvestri I, papæ",
+      "es": "San Silvestre I, papa",
+      "en-US": "Saint Sylvester I, pope",
+      "pt-BR": "São Silvestre I, papa",
+      "it": "SAN SILVESTRO I, papa",
+      "fr": "Saint Sylvestre Ier, pape",
+      "de": "Hl. Silvester I., Papst"
+    }
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "id": "sanctorale.09-22.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Maurice and Companions, Martyrs"
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Father, we celebrate the memory of Saint Maurice"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and his companions"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who died for their faithful witness to Christ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "give us the strength to follow their example,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "loyal and faithful to the end."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2357 @@
+{
+  "id": "common.martyrs.mart9",
+  "kind": "common",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "COMMUNE MARTYRUM II. TEMPORE PASCHALI A. Pro pluribus martyribus 2",
+    "es": "COMÚN DE MÁRTIRES II. Durante el tiempo pascual A. Para varios mártires 2",
+    "en-US": "Common of Martyrs Ii. During Easter Time a. For Several Martyrs 2",
+    "pt-BR": "Comum dos Mártires Ii. Tempo Pascal a. Para vários mártires 2",
+    "it": "COMUNE DEI MARTIRI",
+    "fr": "COMMUN DES MARTYRS II. AU TEMPS PASCAL A. Pour plusieurs martyrs 2",
+    "de": "COMMUNE-TEXTE FÜR MÄRTYRER 9. Für mehrere Märtyrer in der Osterzeit"
+  },
+  "color": "red",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gaudéte, Sancti, ante conspéctum Agni; parátum est vobis regnum ab orígine mundi, allelúia."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alegraos, santos, en presencia del Cordero: el reino está preparado para vosotros desde la creación del mundo. Aleluya."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Rejoice, you Saints, in the presence of the Lamb; a kingdom has been prepared for you from the foundation of the world, alleluia."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alegrai-vos, ó santos, na presença do Cordeiro;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "o reino vos foi preparado desde a criação do mundo, aleluia."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gioite, santi, al cospetto dell’Agnello: ricevete in eredità il regno preparato per voi fin dalla creazione del mondo. Alleluia."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Saints du Seigneur, réjouissez vous en présence de l’Agneau :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "le Royaume est préparé pour vous depuis la fondation du monde, alléluia."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "la": "Cf. Mt 25, 34",
+            "es": "Cf. Mt 25, 34",
+            "en-US": "Mt 25: 34",
+            "pt-BR": "Cf. Mt 25, 34",
+            "it": "Cf. Mt 25, 34",
+            "fr": "Cf. Mt 25, 34"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lætíficet nos, quǽsumus, Dómine, beatórum mártyrum tuórum"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "gloriósa festívitas, quos, Unigéniti tui passiónem et resurrectiónem voce líbera confiténtes, pretiósum sánguinem gloriósa morte fúndere fecísti. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que nos llene de alegría, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la gloriosa festividad de tus santos mártires"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "y"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a quienes concediste morir valerosamente derramando su preciosa sangre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por haber confesado la pasión y resurrección de tu Unigénito."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Él, que vive y reina contigo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the glorious feast day of your blessed Martyrs"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "and"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "gladden us, we pray, O Lord, for, as they boldly confessed the Passion and Resurrection of your Only Begotten Son, you led them to shed their costly blood in a glorious death."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alegre-nos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a solene celebração dos vossos santos mártires"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "aos quais concedestes derramar o seu sangue,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por uma morte gloriosa,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "confessando com liberdade e coragem a paixão e a ressurreição do vosso Filho Unigênito."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ele, que é Deus, e convosco vive e reina,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ci ricolmi di gioia, o Padre, la memoria dei tuoi santi martiri"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ", che confessando con coraggio la passione e la risurrezione del tuo Figlio unigenito, per tua grazia hanno versato il loro sangue con una morte gloriosa. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lætíficet nos, quǽsumus, Dómine, beatórum mártyrum tuórum Seigneur, tu as donné à tes saints martyrs"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "de proclamer avec liberté la passion et la résurrection de ton Fils unique,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et de répandre leur sang précieux par une mort glorieuse ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’en prions : que la célébration de leur fête emplisse nos cœurs d’allégresse."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, deine heiligen Märtyrer"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "und"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "haben den Tod und die Auferstehung Christi freimütig bekannt und für diesen Glauben ihr Blut vergossen. Dieser Tag, an dem sie zu dir hinübergegangen sind, schenke uns neue Hoffnung und Freude."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Præséntia múnera, quǽsumus, Dómine, ita seréna pietáte intuére, ut Sancti Spíritus perfundántur benedictióne, et in nostris córdibus eam dilectiónem válidam operéntur, per quam sancti mártyres"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "ómnia córporis torménta devicérunt. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, mira con bondad estas ofrendas para que el Espíritu Santo las colme con su bendición,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y haga brotar en nuestros corazones aquel amor intenso con que los santos mártires"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "y"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "superaron todos los tormentos corporales."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Look with such serenity and kindness, we pray, O Lord, upon these present offerings, that they may be filled with the blessing of the Holy Spirit and may stir up in our hearts that powerful love through which the holy Martyrs"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "and"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "overcame every bodily torment."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nós vos pedimos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "olhai com serena bondade os dons que vos apresentamos;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sejam eles impregnados da bênção do Espírito Santo e suscitem em nossos corações aquele ardente amor que levou os santos mártires"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "a vencer os sofrimentos corporais."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Guarda con paterna bontà, o Signore, questi doni e santificali con la benedizione del tuo santo Spirito, perché accendano nei nostri cuori la fiamma della carità che ha reso vittoriosi i santi"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "nelle sofferenze del martirio. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Jette un regard serein et plein de bonté, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sur les offrandes que nous te présentons,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et répands sur elles la bénédiction du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour qu’elles suscitent en nos cœurs cet amour fort qui permit à tes saints martyrs"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "d’être vainqueurs dans tous les supplices infligés à leur corps."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, sieh gnädig auf diese Gaben und heilige sie durch deinen Geist, damit sie in unseren Herzen jene Liebe wecken, in deren Kraft die Heiligen"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "und"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "die Qualen des Martyriums überwunden haben. Darum bitten wir durch Christus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf054",
+      "label": {
+        "la": "PRÆFATIO I DE SANCTIS MARTYRIBUS",
+        "es": "PREFACIO I DE LOS SANTOS MÁRTIRES",
+        "en-US": "Preface I of Holy Martyrs",
+        "pt-BR": "Prefácio dos Santos Mártires I o",
+        "it": "PREFAZIO DEI SANTI MARTIRI",
+        "fr": "PRÉFACE DES SAINTS MARTYRS I",
+        "de": "PRÄFATION VON DEN MÄRTYRERN I"
+      },
+      "excerpt": {
+        "la": "De signo et exemplo martyrii",
+        "es": "Significado y ejemplaridad del martirio",
+        "en-US": "The sign and example of martyrdom",
+        "pt-BR": "testemunho do martírio",
+        "it": "Il segno e l’esempio del martirio",
+        "fr": "Signification et valeur exemplaire du martyre",
+        "de": "Der Märtyrer als Zeuge der Kraft Gottes"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Martyrum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quóniam beáti mártyris"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "pro confessióne nóminis tui,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ad imitatiónem Christi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sanguis effúsus tua mirabília maniféstat,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quibus pérficis in fragilitáte virtútem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et vires infírmas ad testimónium róboras,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum cælórum Virtútibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in terris te iúgiter celebrámus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "maiestáti tuæ sine fine clamántes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Mártires. Se puede decir también en las memorias de los mismos"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque la sangre del glorioso mártir san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "derramada, como la de Cristo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para confesar tu nombre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "manifiesta las maravillas de tu poder;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pues en su martirio, Señor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "has sacado fuerza de lo débil,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "haciendo de la fragilidad tu propio testimonio;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con las virtudes del cielo te aclamamos continuamente en la tierra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "alabando tu gloria sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Martyrs. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For the blood of your blessed Martyr"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poured out like Christ's to glorify your name,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "shows forth your marvellous works,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which in our weakness you perfect your power and on the feeble bestow strength to bear you witness,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we worship you constantly on earth,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and before your majesty without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Mártires; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "O sangue que o"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "a"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "Santo"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "a"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "Mártir"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "derramou,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à imitação de Cristo, para a glória do vosso nome,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "manifesta as vossas maravilhas;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "assim, transformais a fragilidade humana em força e aos fracos dais coragem para o testemunho,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com as Virtudes celestes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vos celebramos na terra louvando vossa majestade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi martiri. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo * a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Il sangue versato dal santo martire N.,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a imitazione di Cristo e per la gloria del tuo nome,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "manifesta i tuoi prodigi, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "che riveli nei deboli la tua potenza e doni agli inermi la forza del martirio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con tutti gli angeli del cielo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a te innalziamo sulla terra il nostro canto e proclamiamo senza fine la tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette préface se dit aux solennités et fêtes des saints martyrs. On peut la dire aux mémoires des martyrs."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous reconnaissons un signe éclatant de ta grâce dans le martyre de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "de sainte, des saints, des saintes"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ";"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en répandant son (leur) propre sang comme le Christ,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il a (elle a, ils ont, elles ont) glorifié ton nom."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est ta puissance qui se déploie dans la faiblesse quand tu donnes à des êtres fragiles de te rendre témoignage par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les puissances des cieux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous pouvons te bénir sur la terre et t’adorer sans fin en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Märtyrern genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Im Martyrium des"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "der"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "heiligen"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "offenbarst du das Wunder deiner Gnade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "denn in der menschlichen Schwachheit bringst du deine göttliche Kraft zur Vollendung."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Er"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "Sie"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "ist"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "sind"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "Christus nachgefolgt auf dem Weg des Leidens und hat"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "haben"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "sein"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "ihr"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "Blut vergossen als Zeuge"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "n"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "des Glaubens."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf055",
+      "label": {
+        "la": "PRÆFATIO II DE SANCTIS MARTYRIBUS",
+        "es": "PREFACIO II DE LOS SANTOS MÁRTIRES",
+        "en-US": "Preface Ii of Holy Martyrs",
+        "pt-BR": "Prefácio dos Santos Mártires Ii",
+        "it": "PREFAZIO DEL SANTI MARTIRI II",
+        "fr": "PRÉFACE DES SAINTS MARTYRS II"
+      },
+      "excerpt": {
+        "la": "De mirabilibus Dei in Martyrum victoria",
+        "es": "Las maravillas de Dios en la victoria de los mártires",
+        "en-US": "The wonders of God in the victory of the Martyrs",
+        "pt-BR": "As maravilhas de Deus na vitória dos Mártires",
+        "it": "Le meraviglie di Dio nella vittoria dei martiri",
+        "fr": "Les merveilles de Dieu dans la victoire des martyrs"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Martyrum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quóniam tu magnificáris in tuórum laude Sanctórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et quidquid ad eórum pértinet passiónem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuæ sunt ópera miránda poténtiæ:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qui huius fídei tríbuis cleménter ardórem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qui súggeris perseverántiæ firmitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qui largíris in agóne victóriam,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Propter quod cæléstia tibi atque terréstria cánticum novum cóncinunt adorándo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nos cum omni exércitu Angelórum proclamámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque tú eres ensalzado en la alabanza de tus santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y, cuanto pertenece a su pasión,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es obra admirable de tu poder:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tú, bondadosamente,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "otorgas el ardor de su fe,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "das firmeza en la perseverancia y concedes la victoria en el combate,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tus criaturas del cielo y de la tierra te adoran cantando un cántico nuevo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y también nosotros,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con todo el ejército de los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te aclamamos por siempre diciendo:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Martyrs. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you are glorified when your Saints are praised;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "their very sufferings are but wonders of your might:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in your mercy you give ardour to their faith,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "to their endurance you grant firm resolve,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and in their struggle the victory is yours,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, all creatures of heaven and earth sing a new song in adoration,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and we, with all the host of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cry out, and without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Mártires; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós sois exaltado quando celebramos os santos e tudo o que eles suportaram no martírio é obra admirável do vosso poder."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Em vossa bondade dais o ardor da fé,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "inspirais a firmeza da perseverança e, no combate, concedeis a vitória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, o céu e a terra vos adoram,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoando um cântico novo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e nós nos unimos aos coros dos Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para cantar"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizer"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "sem cessar a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi martiri. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e magnificarti nella lode dei tuoi santi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "La loro passione fa risplendere le opere mirabili della tua potenza:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sei tu che infondi l’ardore della fede, concedi la fermezza della perseveranza e doni nel combattimento la vittoria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza i cieli e la terra innalzano a te un cantico nuovo di adorazione."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi, con tutti gli angeli del cielo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamiamo senza fine la tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette préface se dit aux solennités et fêtes des saints martyrs. On peut la dire aux mémoires des martyrs."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En louant tes saints martyrs, c’est toi que nous exaltons,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et leur passion révèle l'œuvre admirable de ta puissance :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu leur donnes, en ta bonté,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de croire avec ardeur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de persévérer sans faiblir et de vaincre dans le combat,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi le ciel et la terre t’adorent ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ils te chantent le cantique nouveau,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nous-mêmes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unissant notre voix à celle des anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous t’acclamons :"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gaudéte et exsultáte, quóniam merces vestra copiósa est in cælis, allelúia."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Aleluya."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Rejoice and be glad, for your reward will be great in heaven, alleluia."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alegrai-vos e exultai,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "porque é grande a vossa recompensa nos céus, aleluia."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Alleluia."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Réjouissez-vous, soyez dans l’allégresse,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "car votre récompense est grande dans les cieux, alléluia !"
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "la": "Cf. Mt 5, 12",
+            "es": "Cf. Mt 5, 12",
+            "en-US": "Mt 5: 12",
+            "pt-BR": "Cf. Mt 5, 12",
+            "it": "Cf. Mt 5, 12",
+            "fr": "Cf. Mt 5, 12"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Uníus panis alimónia refécti, in commemoratióne beatórum mártyrum"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "supplíciter te,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dómine, deprecámur, ut nos in tua iúgiter caritáte confírmes, et in novitáte vitæ concédas ambuláre. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alimentados con un mismo Pan en la conmemoración de los santos mártires"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "y"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos humildemente, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos mantengas siempre unidos en tu amor y nos concedas caminar en una vida nueva."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Renewed by the sustenance of the one Bread, O Lord, on the commemoration of the blessed Martyrs"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "and"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ", we humbly pray, that you may confirm us ever in your charity and make us walk in newness of life."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Saciados com o alimento do mesmo pão,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na comemoração dos santos mártires"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "humildemente vos suplicamos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "confirmai-nos sempre na vossa caridade e concedei-nos caminhar na vida nova."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nutriti dell’unico pane nella memoria dei santi martiri"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "e"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ", ti supplichiamo, o Signore, di confermarci sempre nel tuo amore, perché possiamo camminare in novità di vita. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nourris et fortifiés par un même pain en la mémoire des saints martyrs"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "et"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": ","
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te supplions, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "affermis-nous sans cesse dans ton amour et fais-nous avancer dans la vie nouvelle."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, am Festtag der heiligen Märtyrer"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "und"
+                },
+                {
+                  "type": "rubric",
+                  "text": "N."
+                },
+                {
+                  "type": "text",
+                  "text": "haben wir von dem einen Brot gegessen. Erhalte uns in der Liebe zu dir und zu allen Menschen und lass uns im neuen Leben wandeln, das du uns geschenkt hast. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

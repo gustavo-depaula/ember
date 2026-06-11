@@ -1,0 +1,67 @@
+{
+  "id": "sanctorale.05-15.united-states",
+  "kind": "sanctoral",
+  "scope": "united-states",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Isidore"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Graciously hear the prayers, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "which we make in commemoration of Saint Isidore,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that your Church may be aided by his intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "just as she has been instructed by his heavenly teaching."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

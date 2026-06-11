@@ -1,0 +1,1946 @@
+{
+  "id": "sanctorale.12-31",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Silvestri I, papæ",
+    "es": "San Silvestre I, papa",
+    "en-US": "Saint Sylvester I, pope",
+    "pt-BR": "São Silvestre I, papa",
+    "it": "SAN SILVESTRO I, papa",
+    "fr": "Saint Sylvestre Ier, pape",
+    "de": "Hl. Silvester I., Papst"
+  },
+  "description": {
+    "la": "Episcopus Ecclésiæ Romanæ anno 314 ordinatus, sub Constantino Magno rexit Ecclésiam, quo témpore Donatistarum schisma et Arianorum error maximas excitarunt calamitates. Mortuus est anno 335 et in cœmeterio Priscillæ, via Salaria, sepultus.",
+    "es": "Elegido obispo de la sede romana en el año 314, gobernó la Iglesia durante el imperio de Constantino el Grande. El cisma donatista y el error arriano ocasionaron grandes tribulaciones a la Iglesia durante este tiempo. Murió el año 335 y fue sepultado en el cementerio de Priscila, en la vía Salaria.",
+    "pt-BR": "Silvestre viveu na época de transição entre as últimas perseguições e a era da paz inaugurada pelo imperador Constantino. Foi por vinte anos bispo de Roma (314-335). Sob seu pontificado, celebrou-se o grande Concílio Ecumênico de Niceia (325), que proclamou, contra a heresia ariana, a fé na divindade de Cristo, Verbo consubstancial ao Pai. Organizador da vida eclesiástica romana, promoveu a construção das primeiras grandes basílicas. Seu sepultamento em 31 de dezembro no cemitério de Priscila, na Via Salária, é lembrado na \"Depositio Episcoporum\" (354).",
+    "it": "Silvestro fu papa (314-335) negli anni in cui la Chiesa iniziava, con Costantino, a essere sostenuta dal potere imperiale e la città di Roma ad arricchirsi delle prime grandi basiliche cristiane. Durante il suo pontificato si celebrò a Nicea (attuale Íznik, Turchia) il primo Concilio ecumenico della storia (325). La grande assemblea, alla quale Silvestro inviò due legati, proclamò, contro l’eresia di Ario, la piena divinità del Figlio, «consostanziale al Padre». La sua morte è ricordata il 31 dicembre nella Depositio episcoporum del 336. Fu sepolto nel cimitero di Priscilla, sulla via Salaria.",
+    "fr": "Sylvestre, élu pape au lendemain de la Paix constantinienne, gouverna l’Église romaine durant vingt-et-un ans (314-335). Il vit la foi chrétienne pénétrer toutes les classes de la société, mais il assista aussi, impuissant, à la crise que déclencha le prêtre alexandrin Arius en niant la divinité du Christ. Il fut présent par ses légats au concile de Nicée, le premier concile œcuménique (325).",
+    "de": "Er wurde 314 zum Papst gewählt und leitete die Kirche während der Regierung von Kaiser Konstantin. In seine Amtszeit fällt das Konzil von Nizäa, auf dem die Irrlehre des Arius verurteilt und die Gottheit Christi im Sinne der Wesensgleichheit mit dem Vater definiert wurde. Er starb im Jahre 335."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Auxiliáre, Dómine, pópulo tuo, beáti Silvéstri papæ intercessióne suffúlto,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, præséntem vitam sub tua gubernatióne transcúrrens, mereátur felíciter inveníre perpétuam. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Socorre, Señor, a tu pueblo que se acoge a la intercesión del papa san Silvestre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, bajo tu pastoreo en el transcurso de la vida presente,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "merezca alcanzar felizmente la eterna."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Come, O Lord, to the help of your people,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sustained by the intercession of Pope Saint Sylvester,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that, running the course of this present life under your guidance, we may happily attain life without end."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, auxiliai o vosso povo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que se apoia na intercessão do papa São Silvestre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, conduzido por vós na vida presente,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mereça alcançar a felicidade da vida eterna."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Aiuta, o Signore, il tuo popolo che confida nell’intercessione del santo papa Silvestro, perché, compiendo sotto la tua guida il cammino della vita presente, raggiunga felicemente quella eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, viens au secours de ton peuple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "soutenu par la prière du bienheureux pape saint Sylvestre :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "conduis-le tout au long de la vie présente,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour qu’il mérite la joie d’entrer dans la vie sans fin."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Herr der Zeiten, höre auf die Fürsprache des heiligen Papstes Silvester und komme deinem Volk zu Hilfe. Führe es in diesem vergänglichen Leben, damit es einst zum unvergänglichen gelange und bei dir das ewige Glück finde. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf005",
+      "label": {
+        "la": "PRÆFATIO I DE NATIVITATE DOMINI",
+        "es": "PREFACIO I DE NAVIDAD",
+        "en-US": "Preface I of the Nativity of the Lord",
+        "pt-BR": "Prefácio do Natal do Senhor I",
+        "it": "PREFAZIO DI NATALE I",
+        "fr": "PRÉFACE DE LA NATIVITÉ N°1",
+        "de": "PRÄFATION VON WEIHNACHTEN I"
+      },
+      "excerpt": {
+        "la": "De Christo luce",
+        "es": "Cristo, luz del mundo",
+        "en-US": "Christ the Light",
+        "pt-BR": "Cristo luz",
+        "it": "Cristo luce",
+        "fr": "Le Christ lumière",
+        "de": "Christus, das Licht"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de Nativitate Dómini et de eiusdem octava, infra octavam Nativitatis Dómini, etiam in Missis, quæ secus præfationem propriam haberent, exceptis Missis quæ præfationem propriam de divinis mysteriis vel Personis habent, et in feriis temporis Nativitatis."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia per incarnáti Verbi mystérium nova mentis nostræ óculis lux tuæ claritátis infúlsit:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut, dum visibíliter Deum cognóscimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per hunc in invisibílium amórem rapiámur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Thronis et Dominatiónibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque omni milítia cæléstis exércitus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum glóriæ tuæ cánimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando adhibetur Canon romanus, dicitur Communicántes proprium, ut infra. In Missa quæ celebratur in Vigilia et in nocte Nativitatis Dómini dicitur: et noctem sacratíssimam celebrántes, qua, etc.; deinde semper dicitur: et diem sacratíssimum celebrántes, quo, etc., usque ad octavam Nativitatis Dómini inclusive."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del día de Navidad y de su octava; durante la octava, se dice incluso en aquellas misas que, si se celebraran en otro tiempo, tendrían prefacio propio, a no ser que se trate de la misa de un misterio o Persona divina, que tiene prefacio propio. También se dice en las ferias del tiempo de Navidad."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque, gracias al misterio del Verbo hecho carne,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la luz de tu gloria brilló ante nuestros ojos con nuevo resplandor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, conociendo a Dios visiblemente,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "él nos lleve al amor de lo invisible."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tronos y dominaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y con todos los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos sin cesar el himno de tu gloria:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Nativity of the Lord and of its Octave Day, and within the Octave, even in Masses that otherwise might have a proper Preface, with the exception of Masses that have a proper Preface concerning the divine mysteries or divine Persons. It is also used on weekdays of Christmas Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the mystery of the Word made flesh a new light of your glory has shone upon the eyes of our mind,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that, as we recognize in him God made visible,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we may be caught up through him in love of things invisible."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with Thrones and Dominions,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with all the hosts and Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado em todas as Missas do Natal e de sua oitava, com exceção daquelas que tenham prefácio relativo aos mistérios ou às Pessoas divinas; também nos dias de semana do Tempo do Natal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "No mistério da encarnação de vosso Filho,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nova luz da vossa glória brilhou para nós."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E, reconhecendo a Jesus como Deus visível a nossos olhos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "aprendemos a amar nele a divindade que não vemos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Arcanjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os Tronos e as Dominações e todos os coros celestes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando se usa a Oração Eucarística I, diz-se o"
+              },
+              {
+                "type": "text",
+                "text": "Em comunhão próprio"
+              },
+              {
+                "type": "rubric",
+                "text": ". Nas Missas da Vigília e da Noite de Natal, reza-se:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos a noite santíssima em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc.; depois se diz sempre:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos o dia santíssimo em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc., até a oitava de Natal inclusive."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe di Natale e della sua Ottava, anche in quelle che hanno un prefazio proprio, fatta eccezione per le Messe che hanno un prefazio proprio dei divini misteri o delle Persone divine; si dice inoltre nei giorni feriali del Tempo di Natale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nel mistero del Verbo incarnato è apparsa agli occhi della nostra mente la luce nuova del tuo fulgore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché conoscendo Dio visibilmente, per mezzo di lui siamo conquistati all’amore delle realtà invisibili."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli Angeli e agli Arcangeli, ai Troni e alle Dominazioni e alla moltitudine dei cori celesti, cantiamo con voce incessante l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car la révélation de ta gloire s’est éclairée pour nous d’une lumière nouvelle dans le mystère du Verbe incarné."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Maintenant, nous connaissons en lui Dieu qui s’est rendu visible à nos yeux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nous sommes entraînés par lui à aimer ce qui demeure invisible."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les puissances d’en haut et tous les esprits bienheureux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird zu Weihnachten und innerhalb der Oktav genommen, während der Oktav auch in den Messen, die sonst eine eigene Präfation hätten, außer in Messen von göttlichen Geheimnissen oder Personen mit eigener Präfation, außerdem an den Wochentagen der Weihnachtszeit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn Fleisch geworden ist das Wort, und in diesem Geheimnis erstrahlt dem Auge unseres Geistes das neue Licht deiner Herrlichkeit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In der sichtbaren Gestalt des Erlösers lässt du uns den unsichtbaren Gott erkennen,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "um in uns die Liebe zu entflammen zu dem, was kein Auge geschaut hat."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum singen wir mit den Engeln und Erzengeln, den Thronen und Mächten und mit all den Scharen des himmlischen Heeres den Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf006",
+      "label": {
+        "la": "PRÆFATIO II DE NATIVITATE DOMINI",
+        "es": "PREFACIO II DE NAVIDAD",
+        "en-US": "Preface Ii of the Nativity of the Lord",
+        "pt-BR": "Prefácio do Natal do Senhor Ii a",
+        "it": "PREFAZIO DI NATALE II",
+        "fr": "PRÉFACE DE LA NATIVITÉ N°2",
+        "de": "PRÄFATION VON WEIHNACHTEN II"
+      },
+      "excerpt": {
+        "la": "De restauratione universa in Incarnatione",
+        "es": "La restauración del universo en la Encarnación",
+        "en-US": "The restoration of all things in the Incarnation",
+        "pt-BR": "restauração universal na Encarnação",
+        "it": "Nell’incarnazione Cristo reintegra l’universo",
+        "fr": "La restauration universelle dans l’Incarnation",
+        "de": "Die Erneuerung der Welt durch den menschgewordenen Sohn Gottes"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de Nativitate Dómini et de eiusdem octava, infra octavam Nativitatis Dómini, etiam in Missis, quæ secus præfationem propriam haberent, exceptis Missis quæ præfationem propriam de divinis mysteriis vel Personis habent, et in feriis temporis Nativitatis."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui, in huius venerándi festivitáte mystérii,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "invisíbilis in suis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "visíbilis in nostris appáruit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et ante témpora génitus esse cœpit in témpore;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut, in se érigens cuncta deiécta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in íntegrum restitúeret univérsa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et hóminem pérditum ad cæléstia regna revocáret."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Unde et nos, cum ómnibus Angelis te laudámus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "iucúnda celebratióne clamántes:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando adhibetur Canon romanus, dicitur Communicántes proprium, ut infra. In Missa quæ celebratur in Vigilia et in nocte Nativitatis Dómini dicitur: et noctem sacratíssimam celebrántes, qua, etc.; deinde semper dicitur: et diem sacratíssimum celebrántes, quo, etc., usque ad octavam Nativitatis Dómini inclusive."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del día de Navidad y de su octava; durante la octava, se dice incluso en aquellas misas que, si se celebraran en otro tiempo, tendrían prefacio propio, a no ser que se trate de la misa de un misterio o Persona divina, que tiene prefacio propio. También se dice en las ferias del tiempo de Navidad."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque en el misterio santo que hoy celebramos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "el que era invisible en su naturaleza se hace visible al adoptar la nuestra;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "el Eterno, engendrado antes del tiempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "comparte nuestra vida temporal para reconstruir todo el universo al asumir en sí todo lo caído, para llamar de nuevo al reino de los cielos al hombre descarriado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos con todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "aclamándote llenos de alegría:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Nativity of the Lord and of its Octave Day, and within the Octave, even in Masses that otherwise might have a proper Preface, with the exception of Masses that have a proper Preface concerning the divine mysteries or divine Persons. It is also used on weekdays of Christmas Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For on the feast of this awe-filled mystery,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "though invisible in his own divine nature,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he has appeared visibly in ours;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and begotten before all ages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he has begun to exist in time;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that, raising up in himself all that was cast down,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he might restore unity to all creation and call straying humanity back to the heavenly Kingdom."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels, we praise you,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as in joyful celebration we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado em todas as Missas do Natal e sua oitava, com exceção daquelas que tenham prefácio relativo aos mistérios ou às Pessoas divinas; também nos dias de semana do Tempo do Natal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ele, no mistério do Natal que celebramos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "invisível em sua divindade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tornou-se visível em nossa carne."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Gerado antes do tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entrou em nossa história para erguer em si o mundo decaído,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "restituir a integridade do universo e chamar para o reino dos céus a humanidade perdida pelo pecado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, também nós,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "com todos os Anjos vos louvamos e, em jubilosa celebração,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando se usa a Oração Eucarística I, diz-se o"
+              },
+              {
+                "type": "text",
+                "text": "Em comunhão próprio"
+              },
+              {
+                "type": "rubric",
+                "text": ". Nas Missas da Vigília e da Noite de Natal, reza-se:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos a noite santíssima em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc.; depois se diz sempre:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos o dia santíssimo em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc., até a oitava de Natal inclusive."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe di Natale e della sua Ottava, anche in quelle che hanno un prefazio proprio, fatta eccezione per le Messe che hanno un prefazio proprio dei divini misteri o delle Persone divine; si dice inoltre nei giorni feriali del Tempo di Natale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nel mistero adorabile del Natale egli, Verbo invisibile,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "apparve visibilmente nella nostra carne,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per assumere in sé tutto il creato e sollevarlo dalla sua caduta."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Generato prima dei secoli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cominciò a esistere nel tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per reintegrare l’universo nel tuo disegno, o Padre, e ricondurre a te l’umanità dispersa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza, uniti a tutti gli angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo esultanti la tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dans le mystère de la Nativité,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celui qui par nature est invisible s’est rendu visible en notre chair ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "engendré avant le temps,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il entre dans le cours du temps."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Relevant en lui la création déchue,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il restaure toute chose et ramène l’homme perdu vers le royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, nous te louons avec tous les anges et, dans la joie, nous te célébrons en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen zu Weihnachten und innerhalb der Oktav genommen; während der Weihnachtsoktav auch in den Messen, die sonst eine eigene Präfation hätten, außer in Messen von göttlichen Geheimnissen oder Personen mit eigener Präfation, außerdem an den Wochentagen der Weihnachtszeit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater im Himmel, zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn groß ist das Geheimnis seiner Geburt, heute ist er, der unsichtbare Gott, sichtbar als Mensch erschienen. Vor aller Zeit aus dir geboren, hat er sich den Gesetzen der Zeit unterworfen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In ihm ist alles neu geschaffen. Er heilt die Wunden der ganzen Schöpfung, richtet auf, was darniederliegt, und ruft den verlorenen Menschen ins Reich deines Friedens."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum rühmen dich Himmel und Erde, Engel und Menschen und singen das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf007",
+      "label": {
+        "la": "PRÆFATIO III DE NATIVITATE DOMINI",
+        "es": "PREFACIO III DE NAVIDAD",
+        "en-US": "Preface Iii of the Nativity of the Lord",
+        "pt-BR": "Prefácio do Natal do Senhor Iii",
+        "it": "PREFAZIO DI NATALE III",
+        "fr": "PRÉFACE DE LA NATIVITÉ N°3",
+        "de": "PRÄFATION VON WEIHNACHTEN III"
+      },
+      "excerpt": {
+        "la": "De commercio in Incarnatione Verbi",
+        "es": "El intercambio realizado en la Encarnación del Verbo",
+        "en-US": "The exchange in the Incarnation of the Word",
+        "pt-BR": "Intercâmbio no mistério da Encarnação do Verbo",
+        "it": "Il sublime scambio nell’incarnazione del Verbo",
+        "fr": "L’échange entre Dieu et les hommes dans l’Incarnation du Verbe",
+        "de": "Der wunderbare Tausch"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de Nativitate Dómini et de eiusdem octava, infra octavam Nativitatis Dómini, etiam in Missis, quæ secus præfationem propriam haberent, exceptis Missis quæ præfationem propriam de divinis mysteriis vel Personis habent, et in feriis temporis Nativitatis."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per quem hódie commércium nostræ reparatiónis effúlsit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quia, dum nostra fragílitas a tuo Verbo suscípitur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "humána mortálitas non solum in perpétuum transit honórem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed nos quoque, mirándo consórtio, reddit ætérnos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, choris angélicis sociáti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te laudámus in gáudio confiténtes:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando adhibetur Canon romanus, dicitur Communicántes proprium, ut infra. In Missa quæ celebratur in Vigilia et in nocte Nativitatis Dómini dicitur: et noctem sacratíssimam celebrántes, qua, etc.; deinde semper dicitur: et diem sacratíssimum celebrántes, quo, etc., usque ad octavam Nativitatis Dómini inclusive."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del día de Navidad y de su octava; durante la octava, se dice incluso en aquellas misas que, si se celebraran en otro tiempo, tendrían prefacio propio, a no ser que se trate de la misa de un misterio o Persona divina, que tiene prefacio propio. También se dice en las ferias del tiempo de Navidad."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hoy resplandece el maravilloso intercambio de nuestra redención:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "porque, al asumir tu Verbo nuestra debilidad,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "no solo asume dignidad eterna la naturaleza humana,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sino que esta unión admirable nos hace a nosotros eternos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a los coros angélicos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos proclamando llenos de alegría:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Nativity of the Lord and of its Octave Day, and within the Octave, even in Masses that otherwise might have a proper Preface, with the exception of Masses that have a proper Preface concerning the divine mysteries or divine Persons. It is also used on weekdays of Christmas Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For through him the holy exchange that restores our life has shone forth today in splendour:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "when our frailty is assumed by your Word not only does human mortality receive unending honour but by this wondrous union we, too, are made eternal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, in company with the choirs of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, and with joy we proclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado em todas as Missas do Natal e sua oitava, com exceção daquelas que tenham prefácio relativo aos mistérios ou às Pessoas divinas; também nos dias de semana do Tempo do Natal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele, resplandece hoje o admirável intercâmbio que nos dá vida nova em plenitude."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Enquanto vosso Filho assume nossa fraqueza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a natureza humana recebe uma incomparável dignidade:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ao tornar-se um de nós,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ele nos torna eternos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, unidos aos coros angélicos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos e, com alegria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando se usa a Oração Eucarística I, diz-se o"
+              },
+              {
+                "type": "text",
+                "text": "Em comunhão próprio"
+              },
+              {
+                "type": "rubric",
+                "text": ". Nas Missas da Vigília e da Noite de Natal, reza-se:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos a noite santíssima em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc.; depois se diz sempre:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos o dia santíssimo em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc., até a oitava de Natal inclusive."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe di Natale e della sua Ottava, anche in quelle che hanno un prefazio proprio, fatta eccezione per le Messe che hanno un prefazio proprio dei divini misteri o delle Persone divine; si dice inoltre nei giorni feriali del Tempo di Natale"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In lui [oggi] risplende in piena luce il sublime scambio che ci ha redenti:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la nostra debolezza è assunta dal Verbo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la natura mortale è innalzata a dignità perenne, e noi, uniti a te in comunione mirabile, condividiamo la tua vita immortale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza, uniti ai cori degli angeli, proclamiamo esultanti la tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par lui resplendit en ce jour l’échange merveilleux où nous sommes régénérés ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lorsque ton Verbe prend sur lui la fragilité humaine,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "notre condition mortelle en reçoit une infinie noblesse ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il devient tellement l’un de nous que nous devenons éternels."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unis au chœur des anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons dans la joie en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen zu Weihnachten und innerhalb der Oktav genommen; während der Weihnachtsoktav auch in den Messen, die sonst eine eigene Präfation hätten, außer in Messen von göttlichen Geheimnissen oder Personen mit eigener Präfation, außerdem an den Wochentagen der Weihnachtszeit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und dein Erbarmen zu rühmen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn schaffst du den Menschen neu und schenkst ihm ewige Ehre. Denn einen wunderbaren Tausch hast du vollzogen: dein göttliches Wort wurde ein sterblicher Mensch, und wir sterbliche Menschen empfangen in Christus dein göttliches Leben."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich mit allen Chören der Engel und singen vereint mit ihnen das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

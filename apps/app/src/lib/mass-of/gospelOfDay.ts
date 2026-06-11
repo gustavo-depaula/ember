@@ -1,6 +1,7 @@
 import type { ContentLanguage } from '@ember/content-engine'
-import { getDataSource } from '@ember/content-engine'
-import type { Celebration, DayLiturgies, Formulary } from '@ember/mass'
+import { resolveOfDay } from '@ember/mass'
+import type { Lang, ReadingSet } from '@ember/missal-schema'
+import { cycleKeyFor, loadMassFormulary, loadOfCalendar, scopeForContentLang } from './loaders'
 
 export type EmberLang = 'la' | 'es' | 'en' | 'pt-BR' | 'it' | 'fr' | 'de'
 
@@ -8,78 +9,46 @@ export function emberLang(lang: ContentLanguage): EmberLang {
   return (lang === 'en-US' ? 'en' : lang) as EmberLang
 }
 
-// Readings are keyed by lectionary cycle ('A'/'B'/'C' Sundays, 'I'/'II'
-// weekdays, 'default' fixed feasts), and mass-of doesn't pre-filter to the
-// day's cycle. Iterate whatever keys are present and take the first with a
-// gospel — robust to all three shapes.
-export function pickGospelText(formulary: Formulary, lang: EmberLang): string | undefined {
-  const readings = formulary.readings as Record<string, unknown> | undefined
-  if (!readings) return undefined
-  for (const cycle of Object.keys(readings)) {
-    const cycleEntry = readings[cycle] as Record<string, unknown> | undefined
-    const gospel = cycleEntry?.gospel as
-      | {
-          body?: { plain?: Record<string, string>; lines?: Record<string, unknown> }
-          alternatives?: Array<{ body?: { plain?: Record<string, string> } }>
-        }
-      | undefined
-    if (!gospel) continue
-    const direct = gospel.body?.plain?.[lang]
-    if (typeof direct === 'string' && direct.trim()) return direct
-    const alt = gospel.alternatives?.[0]?.body?.plain?.[lang]
-    if (typeof alt === 'string' && alt.trim()) return alt
-  }
-  return undefined
-}
+const toSchemaLang = (l: EmberLang): Lang => (l === 'en' ? 'en-US' : l) as Lang
 
-export function pickGospelCitation(formulary: Formulary, lang: EmberLang): string | undefined {
-  const readings = formulary.readings as Record<string, unknown> | undefined
-  if (!readings) return undefined
-  for (const cycle of Object.keys(readings)) {
-    const gospel = (readings[cycle] as Record<string, unknown> | undefined)?.gospel as
-      | {
-          citation?: Record<string, string>
-          alternatives?: Array<{ citation?: Record<string, string> }>
-        }
-      | undefined
-    if (!gospel) continue
-    const direct = gospel.citation?.[lang]
-    if (typeof direct === 'string' && direct.trim()) return direct
-    const alt = gospel.alternatives?.[0]?.citation?.[lang]
-    if (typeof alt === 'string' && alt.trim()) return alt
-  }
-  return undefined
+function gospelFrom(set: ReadingSet | undefined, lang: Lang): { text?: string; citation?: string } {
+  const opt = set?.gospel?.options[0]
+  if (!opt) return {}
+  const lines = opt.body.lines[lang] ?? opt.body.lines['pt-BR']
+  const text = lines?.map((line) => line.map((s) => s.text).join(' ')).join('\n')
+  return { text, citation: opt.citation?.[lang] ?? opt.body.citation?.[lang] }
 }
 
 export type GospelOfDay = {
   text: string
   citation?: string
-  celebration?: Celebration
 }
 
-// Loads today's Gospel from the registered `mass-of` DataSource — the offline,
-// corpus-computed reading. Shared by the Explore `useGospelOfTheDay` hook and
-// the Vatican News gospel producer's offline/web fallback.
+/**
+ * Today's Gospel from the rebuilt OF corpus — the offline, computed reading.
+ * Resolves the day, then walks its celebrations (falling back to the temporal
+ * formulary for memorials with no proper readings) for the first Gospel.
+ * Shared by the Explore `useGospelOfTheDay` hook and the Vatican News producer's
+ * offline/web fallback.
+ */
 export async function loadGospelOfDay(
   date: Date,
   lang: EmberLang,
 ): Promise<GospelOfDay | undefined> {
-  const source = getDataSource('mass-of')
-  if (!source) return undefined
-  const day = (await source.load(
-    { calendar: 'of' },
-    {
-      fetchOwnAsset: async () => undefined,
-      localize: (text) => ({
-        primary: typeof text === 'string' ? text : ((text as Record<string, string>)[lang] ?? ''),
-      }),
-      t: (key) => key,
-      now: () => date,
-    },
-  )) as DayLiturgies | undefined
-  const celebration = day?.celebrations?.[0]
-  if (!celebration) return undefined
-  const text = pickGospelText(celebration.primary, lang)
-  if (!text) return undefined
-  return { text, citation: pickGospelCitation(celebration.primary, lang), celebration }
+  const calendar = await loadOfCalendar()
+  if (!calendar) return undefined
+  const schemaLang = toSchemaLang(lang)
+  const day = resolveOfDay(date, calendar, { scope: scopeForContentLang(lang) })
+
+  const refs = day.celebrations.map((c) => c.ref)
+  if (day.temporalRef && !refs.includes(day.temporalRef)) refs.push(day.temporalRef)
+
+  for (const ref of refs) {
+    const f = await loadMassFormulary(ref)
+    if (!f?.readings) continue
+    const ck = cycleKeyFor(f, day.cycle, day.weekdayCycle)
+    const g = gospelFrom(ck ? f.readings[ck] : undefined, schemaLang)
+    if (g.text) return { text: g.text, citation: g.citation }
+  }
+  return undefined
 }

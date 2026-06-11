@@ -1,0 +1,838 @@
+{
+  "id": "sanctorale.04-02",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Francisci de Paola, eremitæ",
+    "es": "San Francisco de Paula, ermitaño",
+    "en-US": "Saint Francis of Paola, hermit",
+    "pt-BR": "São Francisco de Paula, eremita",
+    "it": "SAN FRANCESCO DA PAOLA, eremita",
+    "fr": "Saint François de Paule, ermite",
+    "de": "Hl. Franz von Paola, Einsiedler, Ordensgründer"
+  },
+  "description": {
+    "la": "Paulæ in Calabria natus est anno 1416. Congregationem eremiticam ab ipso institutam, et postea in Ordinem Minimorum mutatam, Sedes Apostolica confirmavit anno 1506. Mortuus est Turonis in Gallia anno 1507.",
+    "es": "Nacido en Paula (Calabria) el año 1416, fundó una congregación de vida eremítica que después se transformó en la Orden de los Mínimos, y que fue aprobada por la Santa Sede el año 1506. Murió en Tours (Francia) el año 1507.",
+    "pt-BR": "Francisco (Paola, Cosenza, Itália, 1416 - Plessis-les-Tours, França, 2 de abril de 1507), sedento de íntima comunhão com o Cristo crucificado, a exemplo de São Francisco de Assis, procurou a solidão e se entregou a uma austeríssima vida de oração e de penitência. Fundou a Ordem dos Mínimos, para os quais prescreveu uma regra cheia de sabedoria evangélica.",
+    "it": "Francesco (Paola, Cosenza, 27 marzo 1416 - Plessis-lès-Tours, Francia, 2 aprile 1507) si dedicò alla vita eremitica cercando, nella preghiera e nella penitenza, l’intima unione con il Cristo crocifisso. Fondò l’Ordine dei Minimi. Già anziano, in ubbidienza al papa si trasferì presso la corte di Francia, dove fu anche ascoltato consigliere politico.",
+    "fr": "Né à Paola en Calabre (1416), François entendit très jeune l’appel à la vie d’ermite et il se retira dans la solitude. Mais les foules vinrent à lui et les ermitages se multiplièrent autour du sien. L’Ordre des Minimes devait en naître (1493). François mourut en France, à Plessis-lez-Tours, où l’avait appelé la confiance du roi Louis XI (1507).",
+    "de": "Er wurde 1416 in Paola (Kantabrien) geboren und gründete mit seinen Gefährten die Gemeinschaft der “Eremiten des heiligen Franz von Assisi”, aus der später der Paulanerorden entstand. Dieser wurde im Jahr 1506 vom Heiligen Stuhl anerkannt. Nur ein Jahr später, 1507, starb der heilige Franz in Tours (Frankreich)."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, humílium celsitúdo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui beátum Francíscum sanctórum tuórum glória sublimásti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tríbue, quǽsumus, ut, eius méritis et exémplo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "promíssa humílibus praémia felíciter consequámur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ensalzas a los humildes y has elevado a san Francisco de Paula a la gloria de tus santos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te rogamos nos concedas, por sus méritos y ejemplo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "conseguir felizmente los premios que prometiste a los humildes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, exaltation of the lowly,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who raised Saint Francis of Paola to the glory of your Saints, grant, we pray, that by his merits and example we may happily attain the rewards promised to the humble. Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, grandeza dos pequenos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que elevastes São Francisco de Paula à glória dos vossos santos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por seus méritos e exemplo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos alcançar com alegria o prêmio prometido aos humildes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, grandezza degli umili, che hai innalzato alla gloria dei santi il tuo servo Francesco [da Paola], minimo tra i fratelli, per i suoi meriti e il suo esempio concedi anche a noi di ottenere l’eredità promessa agli umili di cuore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "toi qui élèves les humbles,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as exalté saint François de Paule dans la gloire des saints ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais qu’en lui ressemblant, et avec son aide,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous obtenions le bonheur promis aux humbles."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du erhöhst die Niedrigen; du hast das verborgene Leben des Einsiedlers Franz von Paola belohnt und ihn in die Schar deiner Heiligen aufgenommen. Lass uns durch seine Verdienste und in seiner Nachfolge die Gaben erlangen, welche du den Demütigen versprochen hast. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 12, 32-34",
+              "es": "Lc 12, 32-34",
+              "en-US": "Lk 12:32-34",
+              "pt-BR": "Lc 12, 32-34",
+              "it": "Lc 12, 32-34",
+              "fr": "Lc 12, 32-34",
+              "de": "Lk 12, 32-34"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal Vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Complacuit Patri vestro dare vobis regnum.",
+              "es": "Vuestro Padre ha tenido a bien daros el reino",
+              "pt-BR": "Foi do agrado do Pai dar a vós o Reino.",
+              "it": "Al Padre vostro è piaciuto dare a voi il Regno."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dixit Iesus discípulis suis: «Noli timére, pusíllus grex, quia complácuit Patri vestro dare vobis regnum. Véndite, quæ possidétis, et date eleemósynam. Fácite vobis sácculos, qui non veteréscunt, thesáurum non deficiéntem in cælis, quo fur non apprópiat, neque tínea corrúmpit; ubi enim thesáurus vester est, ibi et cor vestrum erit»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, dijo Jesús a sus discípulos: «No temas, pequeño rebaño, porque vuestro Padre ha tenido a bien daros el reino. Vended vuestros bienes y dad limosna; haceos bolsas que no se estropeen, y un tesoro inagotable en el cielo, adonde no se acercan los ladrones ni roe la polilla. Porque donde está vuestro tesoro, allí estará también vuestro corazón»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Do not be afraid any longer, little flock, for your Father is pleased to give you the kingdom. Sell your belongings and give alms. Provide money bags for yourselves that do not wear out, an inexhaustible treasure in heaven that no thief can reach nor moth destroy. For where your treasure is, there also will your heart be."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, disse Jesus aos seus discípulos: \"Não tenhais medo, pequenino rebanho, pois foi do agrado do Pai dar a vós o Reino. Vendei vossos bens e dai esmola. Fazei bolsas que não se estraguem, um tesouro no céu que não se acabe; ali o ladrão não chega nem a traça corrói. Porque onde está o vosso tesouro, aí estará também o vosso coração\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù disse ai suoi discepoli: «Non temere, piccolo gregge, perché al Padre vostro è piaciuto dare a voi il Regno. Vendete ciò che possedete e datelo in elemosina; fatevi borse che non invecchiano, un tesoro sicuro nei cieli, dove ladro non arriva e tarlo non consuma. Perché, dov’è il vostro tesoro, là sarà anche il vostro cuore»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait à ses disciples : « Sois sans crainte, petit troupeau : votre Père a trouvé bon de vous donner le Royaume. Vendez ce que vous possédez et donnez-le en aumône. Faites-vous des bourses qui ne s’usent pas, un trésor inépuisable dans les cieux, là où le voleur n’approche pas, où la mite ne détruit pas. Car là où est votre trésor, là aussi sera votre cœur. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sprach Jesus zu seinen Jüngern: Fürchte dich nicht, du kleine Herde! Denn euer Vater hat beschlossen, euch das Reich zu geben. Verkauft eure Habe, und gebt den Erlös den Armen! Macht euch Geldbeutel, die nicht zerreißen. Verschafft euch einen Schatz, der nicht abnimmt, droben im Himmel, wo kein Dieb ihn findet und keine Motte ihn frisst. Denn wo euer Schatz ist, da ist auch euer Herz."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

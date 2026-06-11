@@ -1,0 +1,2931 @@
+{
+  "id": "sanctorale.09-15",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Beatæ Maríæ Virginis Perdolentis",
+    "es": "Nuestra Señora, la Virgen de los Dolores",
+    "en-US": "Our Lady of Sorrows",
+    "pt-BR": "Bem-aventurada Virgem Maria das Dores",
+    "it": "Beata Vergine Maria Addolorata",
+    "fr": "Bienheureuse Vierge Marie des Douleurs",
+    "de": "Gedächtnis der Schmerzen Mariens"
+  },
+  "description": {
+    "pt-BR": "A memória da Virgem das Dores chama-nos a reviver o momento decisivo da história da salvação e a venerar a Mãe associada à paixão do Filho e ao lado dele elevado na cruz (Jo 19,25-27; São Paulo VI, \"Marialis Cultus\", 7). Sua maternidade assume no Calvário dimensões universais (São Paulo VI, ibidem, 37). Esta memória de origem devocional foi introduzida no calendário romano pelo Papa Pio VII (1814).",
+    "it": "La devozione all’Addolorata ebbe grande sviluppo negli ultimi secoli del Medioevo, esprimendosi sia nella poesia religiosa (Stabat Mater), sia nella raffigurazione della Pietà. La memoria liturgica fu introdotta da Pio VII nel 1814, anche in riferimento ai travagli subiti dalla Chiesa in quegli anni. Mediante l’intima unione al Figlio, la maternità di Maria si estende a tutta l’umanità redenta da Cristo sulla croce (cf. Gv 19, 25-27)."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dixit Símeon ad Maríam: Ecce, pósitus est hic in ruínam et in resurrectiónem multórum in Israel, et in signum cui contradicétur; et tuam ipsíus ánimam pertransíbit gládius."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Simeón dijo a María: «Este ha sido puesto para que muchos en Israel caigan y se levanten, y será como un signo de contradicción: y a ti misma una espada te traspasará el alma»."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Simeon said to Mary: Behold, this child is destined for the ruin and rising of many in Israel,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and to be a sign of contradiction;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and your own soul a sword will pierce."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Simeão disse a Maria:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Este menino será motivo de queda e de ressurreição para muitos em Israel e sinal de contradição;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "uma espada traspassará tua própria alma."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Simeone disse a Maria: «Egli è qui per la caduta e la risurrezione di molti in Israele e come segno di contraddizione, e anche a te una spada trafiggerà l’anima»."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Syméon dit à Marie :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "« Voici que cet enfant provoquera la chute et le relèvement de beaucoup en Israël."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Il sera un signe de contradiction,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et toi, ton âme sera traversée d’un glaive. »"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Simeon sagte zu Maria, der Mutter Jesu: Dieser ist dazu bestimmt, dass viele in Israel durch ihn zu Fall kommen und viele aufgerichtet werden; er wird ein Zeichen sein, dem widersprochen wird. Dir selbst aber wird ein Schwert durch die Seele dringen."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui Fílio tuo in cruce exaltáto compatiéntem Matrem astáre voluísti, da Ecclésiæ tuæ, ut, Christi passiónis cum ipsa consors effécta, eiúsdem resurrectiónis párticeps esse mereátur. Qui tecum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "junto a tu Hijo elevado en la cruz quisiste que estuviese la Madre dolorosa;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concede a tu Iglesia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, asociándose con María a la pasión de Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "merezca participar en su resurrección."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who willed that, when your Son was lifted high on the Cross,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "his Mother should stand close by and share his suffering, grant that your Church,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "participating with the Virgin Mary in the Passion of Christ, may merit a share in his Resurrection."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, junto ao vosso Filho exaltado na cruz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quisestes que a Mãe estivesse de pé sofrendo com ele."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Concedei que a vossa Igreja,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "associada com Maria à paixão de Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mereça participar da sua ressurreição."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Padre, che accanto al tuo Figlio, innalzato sulla croce, hai voluto presente sua Madre, a lui unita nel dolore, fa' che la tua Chiesa, resa con lei partecipe della passione di Cristo, giunga alla gloria della risurrezione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quand ton Fils fut élevé sur la croix,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as voulu que sa Mère, remplie de compassion,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "se tienne debout auprès de lui :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde à ton Église de s’unir, elle aussi, à la passion du Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin d’avoir part à sa résurrection."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, du hast der Mutter Jesu die Kraft verliehen, unter dem Kreuz zu stehen und das Leiden ihres Sohnes zu teilen. Hilf uns, täglich unser Kreuz anzunehmen, damit wir auch an der Auferstehung unseres Herrn Jesus Christus teilhaben, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Hebr 5, 7-9",
+              "es": "Heb 5, 7-9",
+              "en-US": "Heb 5:7-9",
+              "pt-BR": "Heb 5, 7-9",
+              "it": "Eb 5,7-9",
+              "fr": "He 5, 7-9",
+              "de": "Hebr 5, 7-9"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ ad Hebræos",
+              "es": "Lectura de la carta a los Hebreos",
+              "en-US": "A reading from the letter to the Hebrews",
+              "pt-BR": "Leitura da Carta aos Hebreus",
+              "it": "Dalla lettera agli Ebrei",
+              "fr": "Lettre aux Hébreux",
+              "de": "Lesung aus dem Hebräerbrief"
+            },
+            "summary": {
+              "la": "Didicit obœdientiam et factus est auctor salutis æternæ.",
+              "es": "Aprendió a obedecer y se convirtió en autor de salvación eterna",
+              "pt-BR": "Apredeu o que significa a obdiencia a Deus e tornou-se causa de salvação eterna."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Christus in diébus carnis suæ, preces supplicationésque ad eum, qui possit salvum illum a morte fácere, cum clamóre válido et lácrimis ófferens et exaudítus pro sua reveréntia, et quidem cum esset Fílius, dídicit ex his, quæ passus est, obœdiéntiam; et, consummátus, factus est ómnibus obœdiéntibus sibi auctor salútis ætérnæ."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cristo, en los días de su vida mortal, a gritos y con lágrimas, presentó oraciones y súplicas al que podía salvarlo de la muerte, siendo escuchado por su piedad filial. Y, aun siendo Hijo, aprendió, sufriendo, a obedecer. Y, llevado a la consumación, se convirtió, para todos los que lo obedecen, en autor de salvación eterna."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "During his life on earth, Christ offered up prayer and entreaty, aloud and in silent tears, to the one who had the power to save him out of death, and he submitted so humbly that his prayer was heard. Although he was Son, he learnt to obey through suffering; but having been made perfect, he became for all who obey him the source of eternal salvation."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cristo, nos dias de sua vida terrestre, dirigiu preces e súplicas, com forte clamor e lágrimas, àquele que era capaz de salvá-lo da morte. E foi atendido por causa da sua entrega a Deus. Mesmo sendo Filho, aprendeu o que significa a obediencia a Deus por aquilo que ele sofreu. Mas, na consumação da sua vida, tornou-se causa de salvação eterna para todos os que lhe obedecem."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cristo, nei giorni della sua vita terrena egli offrì preghiere e suppliche con forti grida e lacrime a colui che poteva liberarlo da morte e fu esaudito per la sua pietà; pur essendo Figlio, imparò tuttavia l’obbedienza dalle cose che patì e, reso perfetto, divenne causa di salvezza eterna per tutti coloro che gli obbediscono."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Christ, pendant les jours de sa vie dans la chair, offrit, avec un grand cri et dans les larmes, des prières et des supplications à Dieu qui pouvait le sauver de la mort, et il fut exaucé en raison de son grand respect. Bien qu’il soit le Fils, il apprit par ses souffrances l’obéissance et, conduit à sa perfection, il est devenu pour tous ceux qui lui obéissent la cause du salut éternel."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Als Christus auf Erden lebte, hat er mit lautem Schreien und unter Tränen Gebete und Bitten vor den gebracht, der ihn aus dem Tod retten konnte, und er ist erhört und aus seiner Angst befreit worden. Obwohl er der Sohn war, hat er durch Leiden den Gehorsam gelernt; zur Vollendung gelangt, ist er für alle, die ihm gehorchen, der Urheber des ewigen Heils geworden."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 30, 2-3a. 3b-4. 5-6. 15-16. 20",
+              "es": "Sal 30, 2-3a. 3b-4. 5-6. 15-16. 20",
+              "en-US": "Ps 30:2-3a, 3b-4, 5-6, 15-16, 20",
+              "pt-BR": "Sl 30, 2-3a. 3b-4. 5-6. 15-16. 20",
+              "it": "Sal 30, 2-3a. 3b-4. 5-6. 15-16. 20",
+              "fr": "Ps 30, 2-3a. 3b-4. 5-6. 15-16. 20",
+              "de": "Ps 31"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Salvum me fac, Dómine, in misericórdia tua."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Sálvame, Señor, por tu misericordia."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Save me, O Lord, in your steadfast love."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Salvai-me pela vossa compaixão, ó Senhor Deus!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Nel mio dolore soccorrimi, o Dio."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Sauve-moi, mon Dieu, par ton amour."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "In deiner Güte hilf mir, o Herr!"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In te, Dómine, sperávi, non confúndar in ætérnum;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in iustítia tua líbera me."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Inclína ad me aurem tuam,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "accélera, ut éruas me."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Esto mihi in rupem præsídii,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et in domum munítam, ut salvum me fácias."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quóniam fortitúdo mea et refúgium meum es tu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et propter nomen tuum dedúces me et pasces me."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Edúces me de láqueo quem abscondérunt mihi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quóniam tu es fortitúdo mea."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "In manus tuas comméndo spíritum meum;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "redemísti me, Dómine,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deus veritátis."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ego autem in te sperávi, Dómine;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dixi: «Deus meus es tu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in mánibus tuis sortes meæ»."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Eripe me de manu inimicórum meórum et a persequéntibus me."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quam magna multitúdo dulcédinis tuæ, Dómine,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quam abscondísti timéntibus te."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Perfecísti eis qui sperant in te,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in conspéctu filiórum hóminum."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "A ti, Señor, me acojo:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "no quede yo nunca defraudado;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tú, que eres justo, ponme a salvo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "inclina tu oído hacia mí."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sé la roca de mi refugio,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "un baluarte donde me salve,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tú que eres mi roca y mi baluarte;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "por tu nombre dirígeme y guíame."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sácame de la red que me han tendido,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque tú eres mi amparo."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "A tus manos encomiendo mi espíritu:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tú, el Dios leal, me librarás."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pero yo confío en ti, Señor;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "te digo: «Tú eres mi Dios»."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "En tus manos están mis azares:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "líbrame de mis enemigos que me persiguen."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qué bondad tan grande, Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "reservas para los que te temen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y concedes a los que a ti se acogen a la vista de todos."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In you, O Lord, I take refuge. Let me never be put to shame. In your justice,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "set me free, hear me and speedily rescue me."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Be a rock of refuge for me, a mighty stronghold to save me, for you are my rock, my stronghold. For your name's sake, lead me and guide me."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Release me from the snares they have hidden for you are my refuge, Lord. Into your hands I commend my spirit. It is you who will redeem me, Lord."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "As for me, I trust in you, Lord. I say: 'You are my God. My life is in your hands, deliver me from the hands of those who hate me.'"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "How great is the goodness, Lord, that you keep for those who fear you, that you show to those who trust you in the sight of men."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Senhor, eu ponho em vós minha esperança;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que eu não fique envergonhado eternamente!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Porque sois justo, defendei-me e libertai-me;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "apressai-vos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ó Senhor, em socorrer-me!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sede uma rocha protetora para mim,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "um abrigo bem seguro que me salve!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sim,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sois vós a minha rocha e fortaleza por vossa honra orientai-me e conduzi-me!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Retirai-me desta rede traiçoeira,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque sois o meu refúgio protetor!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Em vossas mãos, Senhor, entrego o meu espírito,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque vós me salvareis, ó Deus fiel!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "A vós, porém, ó meu Senhor, eu me confio,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e afirmo que só vós sois o meu Deus!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Eu entrego em vossas mãos o meu destino;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "libertai-me do inimigo e do opressor!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Como é grande, ó Senhor, vossa bondade,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que reservastes para aqueles que vos temem!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Para aqueles que em vós se refugiam,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mostrando, assim, o vosso amor perante os homens."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In te, Signore, mi sono rifugiato, mai sarò deluso;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "per la tua giustizia salvami."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Porgi a me l’orecchio,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vieni presto a liberarmi."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sii per me la rupe che mi accoglie,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la cinta di riparo che mi salva."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu sei la mia roccia e il mio baluardo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "per il tuo nome dirigi i miei passi."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Scioglimi dal laccio che mi hanno teso,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "perché sei tu la mia difesa."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mi affido alle tue mani;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tu mi riscatti, Signore, Dio fedele."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Io confido in te, Signore; dico: “Tu sei il mio Dio,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nelle tue mani sono i miei giorni”."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Liberami dalla mano dei miei nemici,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dalla stretta dei miei persecutori."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quanto è grande la tua bontà, Signore!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "La riservi per coloro che ti temono,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ne ricolmi chi in te si rifugia davanti agli occhi di tutti."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En toi, Seigneur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "j’ai mon refuge ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "garde-moi d’être humilié pour toujours."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dans ta justice, libère-moi ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "écoute, et viens me délivrer."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sois le rocher qui m’abrite,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la maison fortifiée qui me sauve."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ma forteresse et mon roc, c’est toi :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "pour l’honneur de ton nom, tu me guides et me conduis."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu m’arraches au filet qu’ils m’ont tendu ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "oui, c’est toi mon abri."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "En tes mains je remets mon esprit ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tu me rachètes, Seigneur, Dieu de vérité."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Moi, je suis sûr de toi, Seigneur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "je dis : « Tu es mon Dieu ! »"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mes jours sont dans ta main : délivre-moi des mains hostiles qui s’acharnent."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qu’ils sont grands, tes bienfaits !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu les réserves à ceux qui te craignent."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu combles, à la face du monde,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ceux qui ont en toi leur refuge."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Herr, ich suche Zuflucht bei dir."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lass mich doch niemals scheitern;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "rette mich in deiner Gerechtigkeit!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wende dein Ohr mir zu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "erlöse mich bald!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sei mir ein schützender Fels,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "eine feste Burg, die mich rettet."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denn du bist mein Fels und meine Burg;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "um deines Namens willen wirst du mich führen und leiten."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Du wirst mich befreien aus dem Netz, das sie mir heimlich legten;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "denn du bist meine Zuflucht."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "In deine Hände lege ich voll Vertrauen meinen Geist;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "du hast mich erlöst, Herr, du treuer Gott."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Herr, ich vertraue dir,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ich sage: „Du bist mein Gott.“ In deiner Hand liegt mein Geschick;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "entreiß mich der Hand meiner Feinde und Verfolger!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wie groß ist deine Güte, Herr,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die du bereithältst für alle, die dich fürchten und ehren;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "du erweist sie allen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die sich vor den Menschen zu dir flüchten."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Felix est beáta María Virgo, quæ sine morte méruit martýrii palmam sub cruce Dómini."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Dichosa es la bienaventurada Virgen María, que, sin morir, mereció la palma del martirio junto a la cruz del Señor."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Happy are you, O Blessed Virgin Mary, without dying you won the martyr's crown beside the cross of the Lord."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Evangelho Mãe entre todas bendita, do Filho único aflita, a imensa dor assstia. ✠ Proclamação do Evangelho de Jesus Cristo segundo João 17, 1-9"
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Beata la Vergine Maria, perché senza morire meritò, sotto la croce, la palma del martirio."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bienheureuse Vierge Marie ! Près de la croix du Seigneur, sans connaître la mort elle a mérité la gloire du martyre."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Selig bist du, Jungfrau Maria! Ohne den Tod zu erleiden, hast du die Palme des Martyriums verdient unter dem Kreuz des Herrn."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "19, 25-27",
+              "es": "19, 25-27",
+              "en-US": "19:25-27",
+              "pt-BR": "17, 1-9",
+              "it": "19, 25-27",
+              "fr": "19, 25-27",
+              "de": "19, 25-27"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Ioánnem",
+              "es": "✠ Lectura del santo Evangelio según san Juan",
+              "en-US": "✠ A reading from the holy Gospel according to John",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo João",
+              "it": "✠ Dal vangelo secondo Giovanni",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Jean",
+              "de": "✠ Aus dem heiligen Evangelium nach Johannes"
+            },
+            "summary": {
+              "la": "Quæ mærebat et dolebat pia Mater, cum videbat Nati pœnas incliti (Stabat Mater)!",
+              "es": "Triste contemplaba y dolorosa miraba del Hijo amado la pena (Stabat Mater)",
+              "pt-BR": "Mãe entre todas bendita, do Filho único aflita, a imensa dor assstia.",
+              "it": ">Ecco tuo figlio! Ecco tua madre!"
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Stabant iuxta crucem Iesu mater eius et soror matris eius, María Cléopæ, et María Magdaléne. Cum vidísset ergo Iesus matrem et discípulum stantem, quem diligébat, dicit matri: «Múlier, ecce fílius tuus». Deínde dicit discípulo: «Ecce mater tua». Et ex illa hora accépit eam discípulus in sua."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Junto a la cruz de Jesús estaban su madre, la hermana de su madre, María, la de Cleofás, y María, la Magdalena. Jesús, al ver a su madre y junto a ella al discípulo al que amaba, dijo a su madre: «Mujer, ahí tienes a tu hijo». Luego, dijo al discípulo: «Ahí tienes a tu madre». Y desde aquella hora, el discípulo la recibió como algo propio."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Near the cross of Jesus stood his mother and his mother's sister, Mary the wife of Clopas, and Mary of Magdala. Seeing his mother and the disciple he loved standing near her, Jesus said to his mother, 'Woman, this is your son. Then to the disciple he said, 'This is your mother'. And from that moment the disciple made a place for her in his home."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, perto da cruz de Jesus, estavam de pé a sua mãe, a irmã da sua mãe, Maria de Cléofas, e Maria Madalena. Jesus, ao ver sua mãe e, ao lado dela, o discípulo que ele amava, disse à mãe: \"Mulher, este é o teu filho\". Depois disse ao discípulo: \"Esta é a tua mãe\". Daquela hora em diante, o discípulo a acolheu consigo."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quell’ora, stavano presso la croce di Gesù sua madre, la sorella di sua madre, Maria di Clèofa e Maria di Màgdala. Gesù allora, vedendo la madre e lì accanto a lei il discepolo che egli amava, disse alla madre: “Donna, ecco il tuo figlio!”. Poi disse al discepolo: “Ecco la tua madre!”. E da quel momento il discepolo la prese nella sua casa."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Près de la croix de Jésus se tenaient sa mère et la sœur de sa mère, Marie, femme de Cléophas, et Marie Madeleine. Jésus, voyant sa mère, et près d’elle le disciple qu’il aimait, dit à sa mère : « Femme, voici ton fils. » Puis il dit au disciple : « Voici ta mère. » Et à partir de cette heure-là, le disciple la prit chez lui."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit standen bei dem Kreuz Jesu seine Mutter und die Schwester seiner Mutter, Maria, die Frau des Klopas, und Maria von Mágdala. Als Jesus seine Mutter sah und bei ihr den Jünger, den er liebte, sagte er zu seiner Mutter: Frau, siehe, dein Sohn! Dann sagte er zu dem Jünger: Siehe, deine Mutter! Und von jener Stunde an nahm sie der Jünger zu sich."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          },
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "2, 33-35",
+              "es": "2, 33-35",
+              "en-US": "2:33-35",
+              "pt-BR": "2:33-35",
+              "it": "2, 33-35",
+              "fr": "2, 33-35",
+              "de": "2, 33-35"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Tuam ipsius ánimam pertransiet gladius.",
+              "es": "A ti misma, una espada te traspasará el alma",
+              "pt-BR": "Quanto a ti, uma espada te traspassará a alma.",
+              "it": "Anche a te una spada trafiggerà l’anima."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Erat pater Iesu et mater mirántes super his, quæ dicebántur de illo. Et benedíxit illis Símeon et dixit ad Maríam matrem eius: «Ecce pósitus est hic in ruínam et resurrectiónem multórum in Israel et in signum, cui contradicétur — et tuam ipsíus ánimam pertránsiet gládius — ut reveléntur ex multis córdibus cogitatiónes»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, el padre y la madre de Jesús estaban admirados por lo que se decía del niño. Simeón los bendijo y dijo a María, su madre: «Este ha sido puesto para que muchos en Israel caigan y se levanten; y será como un signo de contradicción —y a ti misma una espada te traspasará el alma—, para que se pongan de manifiesto los pensamientos de muchos corazones»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "As the child's father and mother stood there wondering at the things that were being said about him, Simeon blessed them and said to Mary his mother, 'You see this child: he is destined for the fall and for the rising of many in Israel, destined to be a sign that is rejected- and a sword will pierce your own soul too-so that the secret thoughts of many may be laid bare'."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo: O pai e a mãe de Jesus estavam admirados com o que diziam a respeito dele. Simeão os abençou e disse a Maria, a mãe de Jesus: \"Este menino vai ser causa tanto de queda como de reerguimento para muitos em Israel. Ele será um sinal de contradição. Assim serão revelados os pensamentos de muitos corações. Quanto a ti, uma espada te traspassará a alma\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, il padre e la madre di Gesù si stupivano delle cose che si dicevano di lui. Simeone li benedisse e parlò a Maria, sua madre: “Egli è qui per la rovina e la risurrezione di molti in Israele, segno di contraddizione perché siano svelati i pensieri di molti cuori. E anche a te una spada trafiggerà l’anima”."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, lorsqu’ils présentèrent Jésus au Temple, le père et la mère de l’enfant s’étonnaient de ce qui était dit de lui. Syméon les bénit, puis il dit à Marie sa mère : « Voici que cet enfant provoquera la chute et le relèvement de beaucoup en Israël. Il sera un signe de contradiction - et toi, ton âme sera traversée d’un glaive - : ainsi seront dévoilées les pensées qui viennent du cœur d’un grand nombre. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit staunten sein Vater und seine Mutter über die Worte, die über Jesus gesagt wurden. Und Símeon segnete sie und sagte zu Maria, der Mutter Jesu: Dieser ist dazu bestimmt, dass in Israel viele durch ihn zu Fall kommen und viele aufgerichtet werden, und er wird ein Zeichen sein, dem widersprochen wird. Dadurch sollen die Gedanken vieler Menschen offenbar werden. Dir selbst aber wird ein Schwert durch die Seele dringen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Súscipe, miséricors Deus, ad tui nóminis laudem preces hostiásque in veneratióne beátæ Maríæ Vírginis exhíbitas, quam, stantem iuxta crucem Iesu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cleménter nobis Matrem piíssimam providísti. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios misericordioso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "recibe las plegarias y los dones que presentamos para alabanza de tu nombre, al venerar a santa María Virgen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a quien tú nos entregaste generosamente,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "como piadosísima Madre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Cuando estaba de pie junto a la cruz de Jesús."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Él, que vive y reina por los siglos de los siglos."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Receive, O merciful God, to the praise of your name the prayers and sacrificial offerings which we bring to you as we venerate the Blessed Virgin Mary,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "whom you graciously gave to us as a most devoted Mother when she stood by the Cross of Jesus. Who lives and reigns for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus de misericórdia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "recebei as preces e oferendas que vos apresentamos para o louvor do vosso nome,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na veneração da Bem-aventurada Virgem Maria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, benigno, nos destes por Mãe compassiva,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quando estava de pé junto à cruz de Jesus."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ele que vive e reina pelos séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accetta, Dio misericordioso, a lode del tuo nome, le preghiere e le offerte della Chiesa nella devota memoria della beata Vergine Maria, che nella tua bontà hai dato a noi come Madre dolcissima mentre stava presso la croce di Gesù. Egli vive e regna nei secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Pour la gloire de ton nom, Dieu de miséricorde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accepte les prières et les offrandes que nous te présentons en l’honneur de la bienheureuse Vierge Marie,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puisque, dans ta bonté, tu as fait d’elle notre Mère très aimante quand elle se tenait debout près de la croix de Jésus."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, dein Sohn hat uns am Kreuz die selige Jungfrau Maria zur Mutter gegeben. In Gemeinschaft mit ihr feiern wir das Opfer des Lobes. Schau gnädig auf uns und nimm unsere Gebete und Gaben an. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf043",
+      "label": {
+        "la": "PRÆFATIO I DE BEATA MARIA VIRGINE",
+        "es": "PREFACIO I DE SANTA MARÍA VIRGEN",
+        "en-US": "Preface I of the Blessed Virgin Mary",
+        "pt-BR": "Prefácio da Bem-Aventurada Virgem Maria I a",
+        "it": "PREFAZIO DELLA BEATA VERGINE MARIA I",
+        "fr": "PRÉFACE DE LA BIENHEUREUSE VIERGE MARIE N°1",
+        "de": "PRÄFATION VON DER SELIGEN JUNGFRAU MARIA I"
+      },
+      "excerpt": {
+        "la": "De Maternitate beatæ Maríæ Virginis",
+        "es": "La maternidad de María",
+        "en-US": "The Motherhood of the Blessed Virgin Mary",
+        "pt-BR": "Maternidade da Bem-aventurada Virgem Maria",
+        "it": "La maternità della beata Vergine Maria",
+        "fr": "La Maternité de la bienheureuse Vierge Marie",
+        "de": "Maria, die Mutter des Erlösers"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de beata Maria Virgine, addita suo loco mentione celebrationis diei, prout in singulis Missis indicatur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et te in"
+              },
+              {
+                "type": "text",
+                "text": "beátæ Maríæ semper Vírginis collaudáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "benedícere et prædicáre."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quæ et Unigénitum tuum Sancti Spíritus obumbratióne concépit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "virginitátis glória permanénte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lumen ætérnum mundo effúdit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Iesum Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per quem maiestátem tuam laudant Angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "adórant Dominatiónes, tremunt Potestátes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cæli cælorúmque Virtútes, ac beáta Séraphim,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sócia exsultatióne concélebrant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cum quibus et nostras voces ut admítti iúbeas, deprecámur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "súpplici confessióne dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las Misas de la Virgen María, haciendo mención, en el lugar correspondiente (***), de la fiesta, según se indica en cada Misa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Y alabar, bendecir y proclamar tu gloria en la de santa María, siempre virgen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque ella concibió a tu único Hijo por obra del Espíritu Santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y, sin perder la gloria de su virginidad,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "derramó sobre el mundo la luz eterna,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Jesucristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los ángeles alaban tu gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te adoran las dominaciones y tiemblan las potestades,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los cielos, sus virtudes y los santos serafines te celebran unidos en común alegría."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Permítenos asociarnos a sus voces cantando humildemente tu alabanza:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Blessed Virgin Mary, with the mention at the appropriate place of the particular celebration, as indicated in the individual Masses."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and to praise, bless, and glorify your name"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "on the Solemnity of the Motherhood"
+              },
+              {
+                "type": "text",
+                "text": "on the feast day"
+              },
+              {
+                "type": "text",
+                "text": "on the Nativity"
+              },
+              {
+                "type": "text",
+                "text": "in veneration"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "of the Blessed ever-Virgin Mary."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For by the overshadowing of the Holy Spirit she conceived your Only Begotten Son,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and without losing the glory of virginity,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "brought forth into the world the eternal Light,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Jesus Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Through him the Angels praise your majesty,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dominions adore and Powers tremble before you."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Heaven and the Virtues of heaven and the blessed Seraphim worship together with exultation."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "May our voices, we pray, join with theirs in humble praise, as we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas da Bem-aventurada Virgem Maria. Acrescenta-se a menção do mistério celebrado no dia, como é indicado em cada Missa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso e,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "na"
+              },
+              {
+                "type": "rubric",
+                "text": "(...)"
+              },
+              {
+                "type": "text",
+                "text": "de Maria, sempre Virgem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "louvar, bendizer e proclamar a vossa glória."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por obra do Espírito Santo ela concebeu o vosso Filho Unigênito e, sem perder a glória de sua virgindade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "deu ao mundo a luz eterna,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Jesus Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele, vos louvam os Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vos adoram as Dominações,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tremem as Potestades;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os céus e as Forças celestes com os Serafins,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos, vos celebram exultantes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Concedei também a nós associar-nos a seus louvores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe della beata Vergine Maria, menzionando la celebrazione del giorno, secondo quanto è indicato nelle singole Messe."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Noi ti lodiamo, ti benediciamo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ti glorifichiamo nella ... della beata sempre Vergine Maria."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per opera dello Spirito Santo ha concepito il tuo unico Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e sempre intatta nella sua gloria verginale, ha irradiato sul mondo la luce eterna,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Gesù Cristo, Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per mezzo di lui gli Angeli lodano la tua grandezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "le Dominazioni ti adorano, le Potenze ti venerano con tremore;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a te inneggiano i cieli dei cieli e i Serafini,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti in eterna esultanza."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Al loro canto concedi, o Signore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "che si uniscano le nostre umili voci nell’inno di lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette préface se dit aux messes de la bienheureuse Vierge Marie :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En ce jour où nous célébrons la"
+              },
+              {
+                "type": "rubric",
+                "text": "(nommer la fête)"
+              },
+              {
+                "type": "text",
+                "text": "de la bienheureuse Vierge Marie :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous voulons te chanter, te bénir et te glorifier."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car elle a conçu ton Fils unique lorsque le Saint-Esprit la couvrit de son ombre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et, gardant pour toujours la gloire de sa virginité,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "elle a donné au monde la lumière éternelle,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Jésus, le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par lui, les anges célèbrent ta grandeur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et les esprits bienheureux adorent ta gloire ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par lui s’inclinent devant toi les puissances d’en haut et tressaillent d’une même allégresse les innombrables créatures des cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "À leur hymne de louange, laisse-nous joindre nos voix pour chanter et proclamer :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Muttergottesmessen genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater, immer und überall zu danken und dich am Fest"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "Gedenktag"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "der seligen Jungfrau Maria zu preisen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vom Heiligen Geist überschattet, hat sie deinen eingeborenen Sohn empfangen und im Glanz unversehrter Jungfräulichkeit der Welt das ewige Licht geboren,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn loben die Engel deine Herrlichkeit, beten dich an die Mächte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "erbeben die Gewalten. Die Himmel und die himmlische Kräfte und die seligen Serafim feiern dich jubelnd im Chore. Mit ihrem Lobgesang lass auch unsere Stimmen sich vereinen und voll Ehrfurcht rufen:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Communicántes Christi passiónibus, gaudéte, ut et in revelatióne glóriæ eius gaudeátis exsultántes."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Estad alegres en la medida que compartís los sufrimientos de Cristo, de modo que, cuando se revele su gloria, gocéis de alegría desbordante."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Rejoice when you share in the sufferings of Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that you may also rejoice exultantly when his glory is revealed."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alegrai-vos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "vós que participais dos sofrimentos de Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que também possais exultar jubilosos na revelação de sua glória."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Voi che partecipate alla passione di Cristo, rallegratevi, perché anche nella rivelazione della sua gloria possiate rallegrarvi ed esultare."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dans la mesure où vous communiez aux souffrances du Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "réjouissez-vous,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin d’être dans la joie et l’allégresse quand sa gloire se révélera."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Freut euch, dass ihr Anteil an den Leiden Christi habt; denn so könnt ihr auch bei der Offenbarung seiner Herrlichkeit voll Freude jubeln."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sumptis, Dómine, sacraméntis redemptiónis ætérnæ, súpplices deprecámur, ut,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "compassiónem beátæ Maríæ Vírginis recoléntes, ea in nobis pro Ecclésia adimpleámus, quæ desunt Christi passiónum. Qui vivit et regnat in sǽcula sæculórum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Después de recibir los sacramentos de la redención eterna,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, al recordar los dolores de santa María Virgen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "completemos en nosotros, en favor de la Iglesia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lo que falta a la pasión de Cristo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Él, que vive y reina por los siglos de los siglos."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Having received the Sacrament of eternal redemption, we humbly ask, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "honoring how the Blessed Virgin Mary suffered with her Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may complete in ourselves for the Church's sake what is lacking in the sufferings of Christ."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tendo recebido o sacramento da eterna redenção,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos pedimos humildemente que, ao celebrarmos as dores da Virgem Maria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "completemos em nós, para o bem da Igreja,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "o que falta à paixão de Cristo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Que vive e reina pelos séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, che ci hai nutriti con i sacramenti della redenzione eterna, fa' che nella memoria della beata Vergine Maria, partecipe della passione del Figlio, portiamo a compimento, a favore della Chiesa, ciò che manca in noi dei patimenti di Cristo. Egli vive e regna nei secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Après avoir reçu le sacrement de l’éternelle rédemption,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te supplions, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en rappelant la compassion de la bienheureuse Vierge Marie,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puissions-nous accomplir, pour l’Église,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ce qui reste à souffrir en nous des épreuves du Christ."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, in dieser heiligen Feier haben wir die Gnade ewiger Erlösung empfangen. Gib, dass wir im Gedenken an die Schmerzen der seligen Jungfrau Maria bereit sind, die Bedrängnisse unseres Lebens zu ertragen und so zu ergänzen, was noch fehlt an den Leiden Christi für seinen Leib, der die Kirche ist. Darum bitten wir durch ihn, Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

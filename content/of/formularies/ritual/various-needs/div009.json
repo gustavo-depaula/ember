@@ -1,0 +1,689 @@
+{
+  "id": "ritual.various-needs.div009",
+  "kind": "ritual",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "I. PRO SANCTA ECCLESIA 5. PRO CONCILIO VEL SYNODO",
+    "es": "I. POR LA SANTA IGLESIA 5. POR EL CONCILIO O EL SÍNODO",
+    "en-US": "I. for Holy Church 5. for a Council or a Synod",
+    "pt-BR": "I. pela Santa Igreja 5. para Um Concílio Ou Um Sínodo",
+    "it": "I. PER LA SANTA CHIESA 5. PER UN CONCILIO O UN SINODO",
+    "fr": "I. POUR LA SAINTE ÉGLISE 5. POUR UN CONCILE OU UN SYNODE",
+    "de": "I. FÜR DIE HEILIGE KIRCHE 5. BEI EINEM KONZIL ODER EINER SYNODE"
+  },
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Super ómnia caritátem habéte, quod est vínculum perfectiónis: et pax Christi exsúltet in córdibus vestris."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Por encima de todo esto, el amor, que es el vínculo de la unidad perfecta. Que la paz de Cristo reine en vuestros corazones."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "And over all things put on love,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "which is the bond of perfection,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and let the peace of Christ rule in your hearts."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Revesti-vos, sobretudo, do amor que é o vínculo da perfeição."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Reine em vossos corações a paz de Cristo."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Al di sopra di tutto vi sia la carità, vincolo della perfezione; e la pace di Cristo regni nei vostri cuori."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Par-dessus tout,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ayez la charité,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui est le lien le plus parfait."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Et que, dans vos cœurs, exulte la paix du Christ."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vor allem liebt einander, denn die Liebe hält alles zusammen und macht es vollkommen. In eurem Herzen herrsche der Friede Christi."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui pópulis tuis indulgéntia cónsulis et amóre domináris, da spíritum sapiéntiæ quibus dedísti régimen disciplínæ, ut plebs tua ad veritátis agnitiónem pleniórem et sanctitátis tibi accéptum ducátur augméntum. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que cuidas con misericordia de tu pueblo y lo gobiernas con amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concede el espíritu de sabiduría a cuantos encomendaste la misión de gobiemo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que tu pueblo sea conducido a un mayor conocimiento de la verdad y crezca en la santidad que te agrada."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who care for your peoples with gentleness and rule them in love,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "endow with a spirit of wisdom those to whom you have handed on authority to govern, that your people may be led to know the truth more fully and to grow in holiness according to your will."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que cuidais dos povos com bondade e vos deixais vencer pelo amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dai o Espírito de sabedoria àqueles a quem confiastes o governo pastoral,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que vosso povo seja conduzido a um maior conhecimento da verdade e cresça sempre mais na santidade."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che provvedi con benevolenza al tuo popolo e lo governi con amore, dona lo spirito di sapienza a coloro che hai chiamato alla sua guida, perché la tua Chiesa sia condotta a una più profonda conoscenza della verità e si edifichi come tempio santo della tua gloria. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu prends soin de ton Église avec bonté et tu la diriges avec amour ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne un esprit de sagesse à ceux que tu as chargés de la conduire par leur enseignement :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ainsi, ton peuple parviendra à une meilleure connaissance de la vérité et grandira dans une sainteté qui te soit agréable."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du bist deinem Volk gnädig und leitest es in Liebe. Schenke allen, die in der Kirche am Amt der Leitung teilhaben, den Geist der Weisheit. Hilf ihnen, dass sie erkennen, was dir wohlgefällt, und es mit ganzer Kraft verwirklichen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Réspice, clementíssime Deus, múnera servórum tuórum, et grátiam tui lúminis illis impénde, ut quæ recta sunt in óculis tuis veráciter intéllegant, et fiduciáliter exsequántur. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mira compasivo, oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la ofrenda de tus siervos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y concédeles la gracia de tu luz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que comprendan lo que es recto en verdad ante tus ojos y lo pongan en práctica fielmente."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Look upon the offerings of your servants, o God of all compassion,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and bestow on them the grace of your light, that they may have a true understanding of what is right in your eyes and boldly carry it out."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus clementíssimo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "considerai a oferenda dos vossos servos e concedei-lhes a graça da vossa luz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que compreendam verdadeiramente o que é reto a vossos olhos e cheios de confiança o realizem."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Padre misericordioso, guarda con bontà i doni che ti offriamo e illumina con il tuo Spirito i tuoi servi fedeli, perché comprendano il vero e il bene come risplende ai tuoi occhi e lo attuino con fiducia evangelica. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu très bon,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "regarde l’offrande que tes serviteurs te présentent,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et accorde-leur la grâce de ta lumière :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qu’ils comprennent vraiment ce qui est juste à tes yeux,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et le mettent en œuvre avec assurance."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gütiger Gott, nimm unsere Gaben an und erleuchte deine Diener (und Dienerinnen), die sich zum Konzil (zur Synode)"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "versammeln, mit deiner Gnade. Lass sie erkennen, was vor dir recht ist, und hilf uns allen, es zu verwirklichen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "ritual.various-needs.div009.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Præfatio II de Spíritu Sancto."
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Préface II du Saint-Esprit."
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ubi cáritas et amor, Deus ibi est. Congregávit nos in unum Christi amor."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Donde hay caridad y amor, allí está Dios. El amor de Cristo nos ha congregado en la unidad."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Where true charity is dwelling, god is present there. by the love of Christ we have been brought together."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Onde o amor e a caridade, Deus aí está."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Congregou-nos num só corpo o amor de Cristo."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dove la carità è vera, lì c’è Dio. Ci ha riuniti tutti insieme Cristo, amore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Où l’amour est vrai, Dieu est présent."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "L’amour du Christ nous a rassemblés dans l’unité."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Wo Eintracht ist und Liebe, da ist Gott. Christi Liebe hat uns geeint."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Da, quǽsumus, miséricors Deus, ut sancta quæ súmpsimus fámulos tuos in veritáte confírment, et honórem tui nóminis illos fáciant exquírere. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te rogamos, Señor misericordioso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que el alimento santo que hemos recibido confirme en la verdad a tus siervos y los mueva a procurar la gloria de tu nombre."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant, we pray, o merciful God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that the holy gifts we have received may confirm your servants in the truth and prompt them to seek the honor of your name."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus de misericórdia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei que os santos mistérios recebidos confirmem vossos servos na verdade e os levem a procurar a glória do vosso nome."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedi, Dio misericordioso, che i santi misteri ricevuti confermino nella verità i tuoi fedeli e li conducano a cercare sempre la gloria del tuo nome."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu de miséricorde, nous t’en prions :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que la communion aux saints mystères enracine tes serviteurs dans la vérité et les aide à chercher ce qui fait honneur à ton nom."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, das Sakrament, das wir empfangen haben, stärke in der Wahrheit alle, die sich zum Konzil (zur Synode)"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "versammeln, und lehre sie, deine größere Ehre zu suchen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

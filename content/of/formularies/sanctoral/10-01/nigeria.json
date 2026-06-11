@@ -1,0 +1,327 @@
+{
+  "id": "sanctorale.10-01.nigeria",
+  "kind": "sanctoral",
+  "scope": "nigeria",
+  "structure": "mass",
+  "title": {
+    "en-US": "Our Lady, Queen of Nigeria"
+  },
+  "color": "white",
+  "rank": "solemnity",
+  "cycleScheme": "fixed",
+  "includeGloria": true,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who give us the joy"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "of honouring Our Lady, Queen of Nigeria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "as mother of divine hope and communion;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that, with the help of her intercession"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may always work for peace and reconciliation in this world"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and come to share the fullness of your grace."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Receive, O Lord, these offerings,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the prayers of your people,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, through the intercession of Our Lady,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Queen of Nigeria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "they may confer on us"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the gifts of true justice and lasting peace."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.10-01.nigeria.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "en-US": [
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "our duty and our salvation"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and to praise, bless and glorify your name"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "on the solemnity of the Blessed Virgin Mary,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Queen of Nigeria."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For by the overshadowing of the Holy Spirit"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "she conceived your Only Begotten Son,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and without losing the glory of virginity,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "brought forth into the world the eternal Light,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Jesus Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Through him you gave us freedom"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in a land that is richly blessed with human and natural resources,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that we might serve you, our Creator, with grateful hearts."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the Angels and all the Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing together the unending hymn of your glory"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as we acclaim:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Renewed by this heavenly Sacrament,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we pray, O Lord our God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we who honour, Our Lady, Queen of Nigeria, may follow Christ faithfully,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "provide for the needs of the Church,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and work for a just and peaceful society"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in unity of mind and heart."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord. Amen."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverPeople": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "rubric",
+                  "text": "The Solemn Blessing formula may be used."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2317 @@
+{
+  "id": "tempore.holy-week.monday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "FERIA II HEBDOMADÆ SANCTÆ",
+    "es": "LUNES SANTO",
+    "en-US": "Monday of Holy Week",
+    "pt-BR": "Segunda-Feira da Semana Santa",
+    "it": "Lunedì della Settimana santa",
+    "fr": "LUNDI SAINT SEMAINE SAINTE",
+    "de": "MONTAG DER KARWOCHE"
+  },
+  "season": "holy-week",
+  "color": "violet",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Iúdica, Dómine, nocéntes me, expúgna impugnántes me: apprehénde arma et scutum, et exsúrge in adiutórium meum, Dómine, virtus salútis meæ."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Pelea, Señor, contra los que me atacan, guerrea contra los que me hacen guerra; empuña el escudo y la adarga, levántate y ven en mi auxilio, Señor Dios, mi fuerte salvador."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Contend, O Lord, with my contenders; fight those who fight me."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Take up your buckler and shield;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "arise in my defense, Lord, my mighty help."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Julgai, Senhor, meus acusadores,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "combatei aqueles que me combatem."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Tomai armadura e escudo e levantai-vos em meu socorro,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, minha força e salvação."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Signore, accusa chi mi accusa, combatti chi mi combatte. Afferra scudo e corazza e sorgi in mio aiuto, Signore mio Dio, forza che mi salva."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accuse, Seigneur, ceux qui m’accusent,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "attaque ceux qui m’attaquent."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Prends une armure, un bouclier,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lève-toi pour me défendre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, force qui me sauve."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Streite, Herr, gegen alle, die gegen mich streiten, bekämpfe alle, die mich bekämpfen! Ergreife Schild und Waffen; steh auf, um mir zu helfen! Herr, meine starke Hilfe."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Da, quǽsumus, omnípotens Deus, ut, qui ex nostra infirmitáte defícimus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "intercedénte Unigéniti Fílii tui passióne, respirémus. Qui tecum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concédenos, Dios todopoderoso, que, quienes desfallecemos a causa de nuestra debilidad, encontremos aliento en la pasión de tu Hijo unigénito."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Él, que vive y reina contigo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant, we pray, almighty God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, though in our weakness we fail,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may be revived through the Passion of your Only Begotten Son. Who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus todo-poderoso, concedei a nós,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que desfalecemos em nossa fraqueza,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "recobrar novo alento pelos méritos da paixão do vosso Filho Unigênito."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ele, que é Deus, e convosco vive e reina,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Guarda, Dio onnipotente, l’umanità sfinita per la sua debolezza mortale, e fa' che riprenda vita per la passione del tuo unigenito Figlio. Egli è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu tout-puissant, nous t’en supplions ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dans notre faiblesse, nous ne pouvons tenir ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne-nous de reprendre souffle,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grâce à la passion de ton Fils unique."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, in unserer Schwachheit versagen wir und sind anfällig für das Böse. Schau hin auf das Leiden deines Sohnes, richte uns wieder auf und schenke uns neues Leben. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Is 42, 1-7",
+              "es": "Is 42, 1-7",
+              "en-US": "Is 42:1-7",
+              "pt-BR": "Is 42, 1-7",
+              "it": "Is 42,1-7",
+              "fr": "Is 42, 1-7",
+              "de": "Jes 42, 5a.1-7"
+            },
+            "introduction": {
+              "la": "Léctio libri Isaíæ prophétæ",
+              "es": "Lectura del libro del profeta Isaías",
+              "en-US": "A reading from the Book of the Prophet Isaiah",
+              "pt-BR": "Leitura do Livro de Isaías",
+              "it": "Dal libro del profeta Isaia",
+              "fr": "Livre d’Isaïe",
+              "de": "Lesung aus dem Buch Jesaja"
+            },
+            "summary": {
+              "la": "Non clamabit, nec audietur vox eius foris (Primus cantus Servi Dómini)",
+              "es": "No gritará, no voceará por las calles",
+              "pt-BR": "Ele não clama nem levanta a voz, nem se faz ouvir pelas ruas",
+              "it": "Non griderà, non farà udire in piazza la sua voce."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ecce servus meus, suscípiam eum; eléctus meus, cómplacet sibi in illo ánima mea; dedi spíritum meum super eum, iudícium géntibus próferet. Non clamábit neque vociferábitur, nec audiétur vox eius foris. Cálamum quassátum non cónteret et linum fúmigans non exstínguet; in veritátem próferet iudícium. Non languébit nec frangétur, donec ponat in terra iudícium; et legem eius ínsulæ exspéctant. Hæc dicit Dóminus Deus, creans cælos et exténdens eos, firmans terram et quæ gérminant ex ea, dans flatum pópulo, qui est super eam, et spíritum calcántibus eam: «Ego, Dóminus, vocávi te in iustítia et apprehéndi manum tuam; et formávi te et dedi te in fœdus pópuli, in lucem géntium, ut aperíres óculos cæcórum et edúceres de conclusióne vinctum, de domo cárceris sedéntes in ténebris»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mirad a mi siervo, a quien sostengo; mi elegido, en quien me complazco. He puesto mi espíritu sobre él, manifestará la justicia a las naciones. No gritará, no clamará, no voceará por las calles. La caña cascada no la quebrará, la mecha vacilante no la apagará. Manifestará la justicia con verdad. No vacilará ni se quebrará, hasta implantar la justicia en el país. En su ley esperan las islas. Esto dice el Señor, Dios, que crea y despliega los cielos, consolidó la tierra con su vegetación, da el respiro al pueblo que la habita y el aliento a quienes caminan por ella: «Yo, el Señor, te he llamado en mi justicia, te cogí de la mano, te formé e hice de ti alianza de un pueblo y luz de las naciones, para que abras los ojos de los ciegos, saques a los cautivos de la cárcel, de la prisión a los que habitan en tinieblas»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Here is my servant whom I uphold, my chosen one in whom my soul delights. I have endowed him with my spirit that he may bring true justice to the nations. He does not cry out or shout aloud, or make his voice heard in the streets. He does not break the crushed reed, nor quench the wavering flame. Faithfully he brings true justice; he will neither waver, nor be crushed until true justice is established on earth, for the islands are awaiting his law. Thus says God, the Lord, he who created the heavens and spread them out, who gave shape to the earth and what comes from it, who gave breath to its people and life to the creatures that move in it: I, the Lord, have called you to serve the cause of right; I have taken you by the hand and formed you; I have appointed you as covenant of the people and light of the nations, to open the eyes of the blind, to free captives from prison, and those who live in darkness from the dungeon."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "\"Eis o meu servo - eu o recebo; eis o meu eleito - nele se compraz minh'alma; pus meu espírito sobre ele, ele promoverá o julgamento das nações. Ele não clama nem levanta a voz, nem se faz ouvir pelas ruas. Não quebra uma cana rachada nem apaga um pavio que ainda fumega; mas promoverá o julgamento para obter a verdade. Não esmorecerá nem se deixará abater, enquanto não estabelecer a justiça na terra; os países distantes esperam seus ensinamentos\". Isto diz o Senhor Deus, que criou o céu e o estendeu, firmou a terra e tudo que dela germina, que dá a respiração aos seus habitantes e o sopro da vida ao que nela se move: \"Eu, o Senhor, te chamei para a justiça e te tomei pela mão; eu te formei e te constituí como o centro de aliança do povo, luz das nações, para abrires os olhos dos cegos, tirar os cativos da prisão, livrar do cárcere os que vivem nas trevas."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "«Ecco il mio servo che io sostengo, il mio eletto di cui mi compiaccio. Ho posto il mio spirito su di lui; egli porterà il diritto alle nazioni. Non griderà né alzerà il tono, non farà udire in piazza la sua voce, non spezzerà una canna incrinata, non spegnerà uno stoppino dalla fiamma smorta; proclamerà il diritto con verità. Non verrà meno e non si abbatterà, finché non avrà stabilito il diritto sulla terra, e le isole attendono il suo insegnamento». Così dice il Signore Dio, che crea i cieli e li dispiega, distende la terra con ciò che vi nasce, dà il respiro alla gente che la abita e l’alito a quanti camminano su di essa: «Io, il Signore, ti ho chiamato per la giustizia e ti ho preso per mano; ti ho formato e ti ho stabilito come alleanza del popolo e luce delle nazioni, perché tu apra gli occhi ai ciechi e faccia uscire dal carcere i prigionieri, dalla reclusione coloro che abitano nelle tenebre»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ainsi parle le Seigneur : « Voici mon serviteur que je soutiens, mon élu qui a toute ma faveur. J’ai fait reposer sur lui mon esprit ; aux nations, il proclamera le droit. Il ne criera pas, il ne haussera pas le ton, il ne fera pas entendre sa voix au-dehors. Il ne brisera pas le roseau qui fléchit, il n’éteindra pas la mèche qui faiblit, il proclamera le droit en vérité. Il ne faiblira pas, il ne fléchira pas, jusqu’à ce qu’il établisse le droit sur la terre, et que les îles lointaines aspirent à recevoir ses lois. » Ainsi parle Dieu, le Seigneur, qui crée les cieux et les déploie, qui affermit la terre et ce qu’elle produit ; il donne le souffle au peuple qui l’habite, et l’esprit à ceux qui la parcourent : « Moi, le Seigneur, je t’ai appelé selon la justice ; je te saisis par la main, je te façonne, je fais de toi l’alliance du peuple, la lumière des nations : tu ouvriras les yeux des aveugles, tu feras sortir les captifs de leur prison, et, de leur cachot, ceux qui habitent les ténèbres. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "So spricht Gott, der Herr: Seht, das ist mein Knecht, den ich stütze; das ist mein Erwählter, an ihm finde ich Gefallen. Ich habe meinen Geist auf ihn gelegt, er bringt den Völkern das Recht. Er schreit nicht und lärmt nicht und lässt seine Stimme nicht auf der Straße erschallen. Das geknickte Rohr zerbricht er nicht, und den glimmenden Docht löscht er nicht aus; ja, er bringt wirklich das Recht. Er wird nicht müde und bricht nicht zusammen, bis er auf der Erde das Recht begründet hat. Auf sein Gesetz warten die Inseln. So spricht Gott, der Herr, der den Himmel erschaffen und ausgespannt hat, der die Erde gemacht hat und alles, was auf ihr wächst, der den Menschen auf der Erde den Atem verleiht und allen, die auf ihr leben, den Geist: Ich, der Herr, habe dich aus Gerechtigkeit gerufen, ich fasse dich an der Hand. Ich habe dich geschaffen und dazu bestimmt, der Bund für mein Volk und das Licht für die Völker zu sein: blinde Augen zu öffnen, Gefangene aus dem Kerker zu holen und alle, die im Dunkel sitzen, aus ihrer Haft zu befreien."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 27, 1. 2.3. 13-14",
+              "es": "Sal 27, 1.2.3.13-14",
+              "en-US": "Ps 27:1, 2, 3, 13-14",
+              "pt-BR": "Sl 27, 1.2.3.13-14",
+              "it": "Sal 26",
+              "fr": "Ps 27, 1.2.3.13-14",
+              "de": "Ps 27, 1.2.3.13-14"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Dóminus illuminátio mea et salus mea."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "El Señor es mi luz y mi salvación."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "The Lord is my light and my salvation."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "O Senhor é minha luz e salvação."
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": "Sei que a bondade do Senhor eu hei de ver na terra dos viventes."
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": "Espera no Senhor e tem coragem,"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": "espera no Senhor!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Il Signore è mia luce e mia salvezza."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Le Seigneur est ma lumière et mon salut."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Der Herr ist mein Licht und mein Heil."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dóminus illuminátio mea et salus mea,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quem timébo?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dóminus protéctor vitæ meæ,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "a quo trepidábo?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dum apprópiant super me nocéntes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ut edant carnes meas;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "qui tríbulant me et inimíci mei,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ipsi infirmáti sunt et cecidérunt."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Si consístant advérsum me castra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "non timébit cor meum;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "si exsúrgat advérsum me proélium,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in hoc ego sperábo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Credo vidére bona Dómini in terra vivéntium."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exspécta Dóminum, viríliter age,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et confortétur cor tuum, et sústine Dóminum."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es mi luz y mi salvación,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "¿a quién temeré?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es la defensa de mi vida,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "¿quién me hará temblar?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cuando me asaltan los malvados para devorar mi carne,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ellos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "enemigos y adversarios,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tropiezan y caen."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Si un ejército acampa contra mí,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mi corazón no tiembla;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "si me declaran la guerra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "me siento tranquilo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Espero gozar de la dicha del Señor en el país de la vida."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Espera en el Señor, sé valiente,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ten ánimo, espera en el Señor."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The Lord is my light and my help; whom shall I fear? The Lord is the stronghold of my life; before whom shall I shrink?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "When evil-doers draw near to devour my flesh, it is they, my enemies and foes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "who stumble and fall."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Though an army encamp against me my heart would not fear. Though war break out against me even then would I trust."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I am sure I shall see the Lord's goodness in the land of the living. Hope in him, hold firm and take heart. Hope in the Lord!"
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "perante quem eu tremerei?"
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore è mia luce e mia salvezza:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "di chi avrò timore?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore è difesa della mia vita:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "di chi avrò paura?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quando mi assalgono i malvagi per divorarmi la carne,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sono essi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "avversari e nemici,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "a inciampare e cadere."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Se contro di me si accampa un esercito,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il mio cuore non teme;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "se contro di me si scatena una guerra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "anche allora ho fiducia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sono certo di contemplare la bontà del Signore nella terra dei viventi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Spera nel Signore, sii forte,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "si rinsaldi il tuo cuore e spera nel Signore."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur est ma lumière et mon salut ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de qui aurais-je crainte ?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur est le rempart de ma vie ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "devant qui tremblerais-je ?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Si des méchants s’avancent contre moi pour me déchirer,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ce sont eux, mes ennemis, mes adversaires,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "qui perdent pied et succombent."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qu’une armée se déploie devant moi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mon cœur est sans crainte ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que la bataille s’engage contre moi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "je garde confiance."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "J’en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "« Espère le Seigneur, sois fort et prends courage ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "espère le Seigneur. »"
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr ist mein Licht und mein Heil:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vor wem sollte ich mich fürchten?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr ist die Kraft meines Lebens:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vor wem sollte mir bangen?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dringen Frevler auf mich ein,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "um mich zu verschlingen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "meine Bedränger und Feinde,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sie müssen straucheln und fallen."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mag ein Heer mich belagern:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mein Herz wird nicht verzagen."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mag Krieg gegen mich toben:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ich bleibe dennoch voll Zuversicht."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich bin gewiss, zu schauen die Güte des Herrn im Lande der Lebenden."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hoffe auf den Herrn, und sei stark!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hab festen Mut, und hoffe auf den Herrn!"
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "versus-ante-evangelium",
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ave, Rex noster: tu solus es miserátus erróres."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Salve, Rey nuestro, solo tú te has compadecido de nuestros errores."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Let us greet our king; he alone showed mercy for our sins."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Salve, nosso Rei, somente vós tendes compaixão dos nossos erros."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lode e onore a te, Signore Gesù! Salve, nostro Re: tu solo hai compassione di noi peccatori. Lode e onore a te, Signore Gesù!"
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Louange à toi, Seigneur, Roi d’éternelle gloire ! Salut, ô Christ, notre Roi : toi seul as pris en pitié nos égarements. Louange à toi, Seigneur, Roi d’éternelle gloire !"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lob sei dir, Herr, König der ewigen Herrlichkeit! Sei gegrüßt, du unser König: Als wir in die Irre gingen, nahmst du allein dich unser an."
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Io 12, 1-11",
+              "es": "Jn 12, 1-11",
+              "en-US": "Jn 12:1-11",
+              "pt-BR": "Jo 12, 1-11",
+              "it": "Gv 12, 1-11",
+              "fr": "Jn 12, 1-11",
+              "de": "Joh 12, 1-11"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Ioánnem",
+              "es": "✠ Lectura del santo Evangelio según san Juan",
+              "en-US": "✠ A reading from the holy Gospel according to John",
+              "pt-BR": "✠ Evangelho de Nosso Senhor Jesus Cristo segundo São João",
+              "it": "✠ Dal vangelo secondo Giovanni",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Jean",
+              "de": "✠ Aus dem heiligen Evangelium nach Johannes"
+            },
+            "summary": {
+              "la": "Sine illam, ut in diem sepulturæ meæ servet illud",
+              "es": "Déjala, esto lo tenía guardado para el día de mi sepultura",
+              "pt-BR": "Deixa-a; ela fez isto em vista do dia de minha sepultura",
+              "it": "Lasciala fare, perché essa lo conservi per il giorno della mia sepoltura."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ante sex dies Paschæ venit Iesus Bethániam, ubi erat Lázarus, quem suscitávit a mórtuis Iesus. Fecérunt ergo ei cenam ibi, et Martha ministrábat, Lázarus vero unus erat ex discumbéntibus cum eo. María ergo accépit libram unguénti nardi puri, pretiósi, et unxit pedes Iesu et extérsit capíllis suis pedes eius; domus autem impléta est ex odóre unguénti. Dicit autem Iudas Iscariótes, unus ex discípulis eius, qui erat eum traditúrus: «Quare hoc unguéntum non véniit trecéntis denáriis et datum est egénis?». Dixit autem hoc, non quia de egénis pertinébat ad eum, sed quia fur erat et, lóculos habens, ea, quæ mittebántur, portábat. Dixit ergo Iesus: «Sine illam, ut in diem sepultúræ meæ servet illud. Páuperes enim semper habétis vobíscum, me autem non semper habétis». Cognóvit ergo turba multa ex Iudǽis quia illic est, et venérunt non propter Iesum tantum, sed ut et Lázarum vidérent, quem suscitávit a mórtuis. Cogitavérunt autem príncipes sacerdótum, ut et Lázarum interfícerent, quia multi propter illum abíbant ex Iudǽis et credébant in Iesum."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seis días antes de la Pascua, fue Jesús a Betania, donde vivía Lázaro, a quien había resucitado de entre los muertos. Allí le ofrecieron una cena; Marta servía, y Lázaro era uno de los que estaban con él a la mesa. María tomó una libra de perfume de nardo, auténtico y costoso, le ungió a Jesús los pies y se los enjugó con su cabellera. Y la casa se llenó de la fragancia del perfume. Judas Iscariote, uno de sus discípulos, el que lo iba a entregar, dice: «¿Por qué no se ha vendido este perfume por trescientos denarios para dárselos a los pobres?». Esto lo dijo no porque le importasen los pobres, sino porque era un ladrón; y como tenía la bolsa, se llevaba de lo que iban echando. Jesús dijo: «Déjala; lo tenía guardado para el día de mi sepultura; porque a los pobres los tenéis siempre con vosotros, pero a mí no siempre me tenéis». Una muchedumbre de judíos se enteró de que estaba allí y fueron no solo por Jesús, sino también para ver a Lázaro, al que había resucitado de entre los muertos. Los sumos sacerdotes decidieron matar también a Lázaro, porque muchos judíos, por su causa, se les iban y creían en Jesús."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Six days before the Passover, Jesus went to Bethany, where Lazarus was, whom he had raised from the dead. They gave a dinner for him there; Martha waited on them and Lazarus was among those at table. Mary brought in a pound of very costly ointment, pure nard, and with it anointed the feet of Jesus, wiping them with her hair; the house was full of the scent of the ointment. Then Judas Iscariot - one of his disciples, the man who was to betray him - said, 'Why wasn't this ointment sold for three hundred denarii, and the money given to the poor?' He said this, not because he cared about the poor, but because he was a thief; he was in charge of the common fund and used to help himself to the contributions. So Jesus said, 'Leave her alone; she had to keep this scent for the day of my burial. You have the poor with you always, you will not always have me.' Meanwhile a large number of Jews heard that he was there and came not only on account of Jesus but also to see Lazarus whom he had raised from the dead. Then the chief priests decided to kill Lazarus as well, since it was on his account that many of the Jews were leaving them and believing in Jesus."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seis dias antes da Páscoa, Jesus foi para Betânia, onde morava Lázaro, que ele havia ressuscitado dos mortos. Ali ofereceram a Jesus um jantar; Marta servia e Lázaro era um dos que estavam à mesa com ele. Maria, tomando quase meio litro de perfume de nardo puro e muito caro, ungiu os pés de Jesus e enxugou-os com seus cabelos. A casa inteira ficou cheia do perfume do bálsamo. Então, falou Judas Iscariotes, um dos seus discípulos, aquele que o havia de entregar: \"Por que não se vendeu este perfume por trezentas moedas de prata, para as dar aos pobres?\" Judas falou assim, não porque se preocupasse com os pobres, mas porque era ladrão; ele tomava conta da bolsa comum e roubava o que se depositava nela. Jesus, porém, disse: \"Deixa-a; ela fez isto em vista do dia de minha sepultura. Pobres, sempre os tereis convosco, enquanto a mim, nem sempre me tereis\". Muitos judeus, tendo sabido que Jesus estava em Betânia, foram para lá, não só por causa de Jesus, mas também para verem Lázaro, que Jesus havia ressuscitado dos mortos. Então, os sumos sacerdotes decidiram matar também Lázaro, porque, por causa dele, muitos deixavam os judeus e acreditavam em Jesus."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sei giorni prima della Pasqua, Gesù andò a Betania, dove si trovava Lazzaro, che egli aveva risuscitato dai morti. E qui fecero per lui una cena: Marta serviva e Lazzaro era uno dei commensali. Maria allora prese trecento grammi di profumo di puro nardo, assai prezioso, ne cosparse i piedi di Gesù, poi li asciugò con i suoi capelli, e tutta la casa si riempì dell’aroma di quel profumo. Allora Giuda Iscariota, uno dei suoi discepoli, che stava per tradirlo, disse: «Perché non si è venduto questo profumo per trecento denari e non si sono dati ai poveri?». Disse questo non perché gli importasse dei poveri, ma perché era un ladro e, siccome teneva la cassa, prendeva quello che vi mettevano dentro. Gesù allora disse: «Lasciala fare, perché ella lo conservi per il giorno della mia sepoltura. I poveri infatti li avete sempre con voi, ma non sempre avete me». Intanto una grande folla di Giudei venne a sapere che egli si trovava là e accorse, non solo per Gesù, ma anche per vedere Lazzaro che egli aveva risuscitato dai morti. I capi dei sacerdoti allora decisero di uccidere anche Lazzaro, perché molti Giudei se ne andavano a causa di lui e credevano in Gesù."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Six jours avant la Pâque, Jésus vint à Béthanie où habitait Lazare, qu’il avait réveillé d’entre les morts. On donna un repas en l’honneur de Jésus. Marthe faisait le service, Lazare était parmi les convives avec Jésus. Or, Marie avait pris une livre d’un parfum très pur et de très grande valeur ; elle répandit le parfum sur les pieds de Jésus, qu’elle essuya avec ses cheveux ; la maison fut remplie de l’odeur du parfum. Judas Iscariote, l’un de ses disciples, celui qui allait le livrer, dit alors : « Pourquoi n’a-t-on pas vendu ce parfum pour trois cents pièces d’argent, que l’on aurait données à des pauvres ? » Il parla ainsi, non par souci des pauvres, mais parce que c’était un voleur : comme il tenait la bourse commune, il prenait ce que l’on y mettait. Jésus lui dit : « Laisse-la observer cet usage en vue du jour de mon ensevelissement ! Des pauvres, vous en aurez toujours avec vous, mais moi, vous ne m’aurez pas toujours. » Or, une grande foule de Juifs apprit que Jésus était là, et ils arrivèrent, non seulement à cause de Jésus, mais aussi pour voir ce Lazare qu’il avait réveillé d’entre les morts. Les grands prêtres décidèrent alors de tuer aussi Lazare, parce que beaucoup de Juifs, à cause de lui, s’en allaient, et croyaient en Jésus."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sechs Tage vor dem Paschafest kam Jesus nach Betánien, wo Lázarus war, den er von den Toten auferweckt hatte. Dort bereiteten sie ihm ein Mahl; Marta bediente, und Lázarus war unter denen, die mit Jesus bei Tisch waren. Da nahm Maria ein Pfund echtes, kostbares Nardenöl, salbte Jesus die Füße und trocknete sie mit ihrem Haar. Das Haus wurde vom Duft des Öls erfüllt. Judas Iskariot, der ihn später verriet, sagte: Warum hat man dieses Öl nicht für dreihundert Denare verkauft und den Erlös den Armen gegeben? Das sagte er aber nicht, weil er ein Herz für die Armen gehabt hätte, sondern weil er ein Dieb war; er hatte nämlich die Kasse und veruntreute die Einkünfte. Jesus erwiderte: Lass sie, damit sie es für den Tag meines Begräbnisses tue. Die Armen habt ihr immer bei euch, mich aber habt ihr nicht immer bei euch. Viele Juden hatten erfahren, dass Jesus dort war, und sie kamen, jedoch nicht nur um Jesu willen, sondern auch um Lázarus zu sehen, den er von den Toten auferweckt hatte. Die Hohenpriester aber beschlossen, auch Lázarus zu töten, weil viele Juden seinetwegen hingingen und an Jesus glaubten."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Réspice, Dómine, propítius sacra mystéria quæ gérimus, et, quod ad nostra evacuánda præiudícia miséricors prævidísti, vitam nobis tríbue fructificáre perpétuam. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mira, Señor, con bondad los santos misterios que estamos celebrando y,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ya que tu amor providente los instituyó para librarnos de nuestra condena,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "haz que fructifiquen para la vida eterna."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Look graciously, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "upon the sacred mysteries we celebrate here, and may what you have mercifully provided to cancel the judgment we incurred bear for us fruit in eternal life."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Olhai, Senhor, com bondade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "os sagrados mistérios que celebramos;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "o que em vossa misericórdia previdente instituístes para desfazer a nossa condenação produza em nós frutos de vida eterna."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Volgi con bontà il tuo sguardo, o Signore, ai santi misteri che celebriamo: il sacrificio, che nella tua misericordia hai disposto per annullare la nostra condanna, produca per noi frutti di vita eterna. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, tu as prévu, dans ta miséricorde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de réparer les dommages de nos fautes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "regarde les saints mystères que nous célébrons ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne-nous d’en retirer des fruits pour la vie éternelle."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, schau gnädig auf das heilige Opfer, das wir feiern. Du hast deinen Sohn dahingegeben, um unsere Verurteilung aufzuheben, schenke uns als Frucht seines Leidens das ewige Leben. Darum bitten wir durch ihn, Christus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf015",
+      "label": {
+        "la": "PRÆFATIO II DE PASSIONE DOMINI",
+        "es": "PREFACIO II DE LA PASIÓN DEL SEÑOR",
+        "en-US": "Preface Ii of the Passion of the Lord",
+        "pt-BR": "Prefácio da Paixão do Senhor Ii a",
+        "it": "PREFAZIO DELLA PASSIONE DEL SIGNORE II",
+        "fr": "PRÉFACE N°2 DE LA PASSION",
+        "de": "PRÄFATION VOM LEIDEN CHRISTI II"
+      },
+      "excerpt": {
+        "la": "De victoria Passionis",
+        "es": "La victoria de la Pasión",
+        "en-US": "The victory of the Passion",
+        "pt-BR": "vitória da Paixão",
+        "it": "La vittoria della Passione",
+        "fr": "La victoire de la Passion",
+        "de": "Der Sieg Christi in seinem Leiden"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in feriis II, III et IV Hebdomadæ sanctæ."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cuius salutíferæ passiónis et gloriósæ resurrectiónis dies appropinquáre noscúntur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quibus et de antíqui hostis supérbia triumphátur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nostræ redemptiónis recólitur sacraméntum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per quem maiestátem tuam adórat exércitus Angelórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ante conspéctum tuum in æternitáte lætántium."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cum quibus et nostras voces ut admítti iúbeas, deprecámur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sócia exsultatióne dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las ferias de la quinta semana de Cuaresma y en las misas de los misterios de la cruz y de la pasión del Señor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque se acercan los días de su pasión salvadora y de su resurrección gloriosa;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en ellos se actualiza su triunfo sobre la soberbia del antiguo enemigo y celebramos el misterio de nuestra redención."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los coros de los ángeles adoran tu gloria eternamente,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gozosos en tu presencia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Permítenos asociarnos a sus voces cantando con ellos tu alabanza:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on Monday, Tuesday, and Wednesday of Holy Week."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For the days of his saving Passion and glorious Resurrection are approaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which the pride of the ancient foe is vanquished and the mystery of our redemption in Christ is celebrated."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Through him the host of Angels adores your majesty and rejoices in your presence for ever."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "May our voices, we pray, join with theirs in one chorus of exultant praise, as we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado na segunda, terça e quarta-feira da Semana Santa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pois sabemos que já se aproximam os dias de sua paixão salvadora e de sua gloriosa ressurreição;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dias em que é vencido o poder do antigo inimigo e é celebrado o mistério da nossa redenção."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele os coros dos Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "alegrando-se eternamente na vossa presença,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "adoram a vossa grandeza."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Concedei-nos, também a nós,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "associar-nos a seus louvores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice il lunedì, il martedì e il mercoledì della Settimana Santa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Contempliamo ormai vicini i giorni della sua Pasqua di morte e risurrezione nei quali è sconfitta la superbia dell’antico avversario e celebrato il mistero della nostra redenzione."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo grande mistero, le schiere degli angeli adorano la tua gloria e per l’eternità si allietano al tuo cospetto."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Al loro canto concedi, o Signore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "che si uniscano le nostre voci nell’inno di lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit les Lundi Saint, Mardi Saint et Mercredi Saint."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Voici que s’approchent les jours de la passion de notre Sauveur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et de sa glorieuse résurrection."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Voici les jours où nous célébrons déjà sa victoire sur l’ennemi des origines et le mystère de notre rédemption."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par lui, les anges adorent ta majesté et se réjouissent en ta présence à jamais."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "À leur hymne de louange,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "laisse-nous joindre nos voix,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour chanter et proclamer :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird am Montag, Dienstag und Mittwoch der Karwoche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und das Werk deines Erbarmens zu rühmen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn wiederum kommen die Tage, die seinem heilbringenden Leiden und seiner glorreichen Auferstehung geweiht sind. Es kommt der Tag des Triumphes über den alten Feind, es naht das Fest der Erlösung."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich mit allen Chören der Engel und singen vereint mit ihnen das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Non avértas fáciem tuam a me; in quacúmque die tríbulor, inclína ad me aurem tuam; in quacúmque die invocávero te, velóciter exáudi me."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "No me escondas tu rostro el día de la desgracia. Inclina tu oído hacia mí;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cuando te invoco, escúchame enseguida."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Do not hide your face from me in the day of my distress."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Turn your ear towards me; on the day when I call, speedily answer me."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "De mim não oculteis a vossa face no dia em que estou angustiado!"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Inclinai o vosso ouvido para mim,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ao invocar-vos atendei-me sem demora!"
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Non nascondermi il tuo volto nel giorno dell’angoscia. Tendi verso di me l’orecchio; quando t’invoco, presto, rispondimi!"
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "Oppure: Cf. Gv 12, 3"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Maria di Betania prese trecento grammi di profumo di puro nardo, assai prezioso, ne cosparse i piedi di Gesù e li asciugò con i suoi capelli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ne me cache pas ton visage le jour où je suis en détresse !"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Le jour où j’appelle, écoute-moi ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "viens vite, réponds-moi !"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Gott, verbirg dein Gesicht nicht vor mir! Wenn ich in Not bin, wende dein Ohr mir zu! Wenn ich dich anrufe, erhöre mich bald!"
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vísita, quǽsumus, Dómine, plebem tuam, et corda sacris dicáta mystériis pietáte tuére pervígili, ut remédia salútis ætérnæ, quæ te miseránte pércipit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te protegénte custódiat. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Visita, Señor, a tu pueblo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y guarda los corazones de quienes se consagran a tus misterios con amor solícito, para que conserven, bajo tu protección,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "los medios de la salvación eterna que han recibido de tu misericordia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Visit your people, O Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and with ever-watchful love look upon the hearts dedicated to you by means of these sacred mysteries, so that under your protection we may keep safe this remedy of eternal salvation,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "which by your mercy we have received."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Visitai, Senhor, o vosso povo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e assisti com amor de Pai os que celebram os vossos mistérios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que conservemos, pela vossa proteção,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "os remédios da salvação eterna que recebemos de vossa misericórdia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Visita, Signore, il tuo popolo consacrato da questi santi misteri, proteggilo con il tuo amore premuroso, perché custodisca con il tuo aiuto i doni che ha ricevuto dalla tua misericordia. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Visite ton peuple, Seigneur ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dans ton amour inlassable,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "veille sur nos cœurs sanctifiés par les mystères divins ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et puisque tu nous as donné dans ta miséricorde les remèdes du salut éternel,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "aide-nous, par ta protection, à les garder fidèlement."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, du bist bei deinem Volk eingekehrt und hast durch die heiligen Geheimnisse in uns Wohnung genommen. Bleibe uns nahe und wache über uns, damit wir die Heilsgabe bewahren, die uns durch dein Erbarmen zuteil geworden ist. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverPeople": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Defénsio tua, Dómine, quǽsumus, adsit humílibus, et iúgiter prótegat in tua misericórdia confidéntes, ut, ad festa paschália celebránda, non solum observántiam corporálem, sed, quod est pótius, hábeant méntium puritátem. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Defiende, Señor, a los sencillos y protege continuamente a los que confían en tu misericordia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, al disponerse a celebrar las fiestas de Pascua,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tengan en cuenta no solo la penitencia corporal,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sino,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lo que es más importante, la pureza interior."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May your protection, O Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "defend the humble and keep ever safe those who trust in your mercy, that they may celebrate the paschal festivities not only with bodily observance but above all with purity of mind."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Defendei, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "os que se humilham e protegei os que confiam em vossa misericórdia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a fim de que, preparando-se para a festa da Páscoa,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "não façam apenas penitência corporal,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mas busquem, o que é melhor, a pureza de coração."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "La tua protezione, o Signore, soccorra gli umili e sostenga sempre coloro che confidano nella tua misericordia, perché si preparino alla celebrazione delle feste pasquali non solo con la mortificazione del corpo ma, ancor di più, con la purezza dello spirito. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que ton secours, Seigneur, soit accordé aux humbles et ne cesse de protéger ceux qui se confient en ta miséricorde ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ainsi, pour célébrer les fêtes pascales,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ils seront préparés par la discipline du corps,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et, plus encore, par la pureté de l’esprit."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

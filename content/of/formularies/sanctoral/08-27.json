@@ -1,0 +1,1687 @@
+{
+  "id": "sanctorale.08-27",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Monicæ",
+    "es": "Santa Mónica",
+    "en-US": "Saint Monica",
+    "pt-BR": "Santa Mônica",
+    "it": "SANTA MONICA",
+    "fr": "Sainte Monique",
+    "de": "Hl. Monika"
+  },
+  "description": {
+    "la": "Nata est Tagaste in Africa anno 331 ex familia christiana. Adhuc adulescentula Patricio nuptui tradita, filios generavit inter quos Augustinum, pro cuius conversione multas lacrimas et preces fudit ad Deum. Exemplar optimæ matris, fidem oratióne aluit et virtutibus illustravit. Mortua est Ostiæ anno 387.",
+    "es": "Nació en Tagaste (África) el año 331, de familia cristiana. Muy joven, fue dada en matrimonio a un hombre llamado Patricio, del que tuvo varios hijos, entre ellos san Agustín, cuya conversión le costó muchas lágrimas y oraciones. Fue un modelo de madre; alimentó su fe con la oración y la embelleció con sus virtudes. Murió en Ostia el año 387.",
+    "pt-BR": "Mônica (Tagaste, atual Song-Ahras, Argélia, por volta de 331 - Óstia, Roma, 387), pela oração assídua e confiante e por suas lágrimas, alcançou a transformação espiritual do filho Agostinho. No livro das \"Confissões\", é delineada sua figura de mãe cristã e de contemplativa, atenta às necessidades dos humildes e dos pobres. O colóquio entre Mônica e Agostinho nos revela a profundidade de seu espírito todo voltado para a pátria celeste.",
+    "it": "Monica (Tagaste, attuale Souk Ahras, Algeria, 331 - Ostia, Roma, 387), nata da famiglia cristiana, andò in moglie al pagano Patrizio e fu madre di Agostino. Dopo aver dato al figlio la prima educazione cristiana, ne attese per anni, tra lacrime e preghiere, l’approdo alla vera fede. Rimasta vedova, seguì Agostino a Milano e qui poté gioire per la sua conversione, culminata nel Battesimo. Lungo il viaggio di ritorno verso l’Africa, raggiunse la vera patria.",
+    "fr": "Monique (331-387) est la mère de saint Augustin. Lorsque Augustin perdit la foi, les larmes de Monique montèrent vers Dieu comme une prière silencieuse. Sa conversion la remplit de joie. Elle n’avait plus rien désormais à attendre sur terre. Aussi le Seigneur l’appela-t-il à lui alors qu’à Ostie elle se préparait à regagner son Afrique natale.",
+    "de": "Monika wurde in Tagaste (Afrika) im Jahr 331 in einer christlichen Familie geboren und sehr jung mit Patrizio verheiratet, mit dem sie drei Kinder hatte. Unter ihnen den heiligen Augustinus, wessen Bekehrung sie viele Tränen und Gebete gekostet hatte. Vorbild aller christlichen Mütter, nährte sie ihren Glauben mit ihrem Gebet und bemühte sich um die Erlangung der christlichen Tugenden. Sie starb 387 in Ostia. Durch ihr Gebet erlangte sie nicht nur die Bekehrung ihres Sohnes, sondern ebenfalls die ihres Gatten, der bis kurz vor seinem Tod Heide gewesen war."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, mæréntium consolátor, qui beátæ Mónicæ pias lácrimas in conversióne fílii sui Augustíni misericórditer suscepísti, da nobis, utriúsque intervéntu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "peccáta nostra deploráre et grátiæ tuæ indulgéntiam inveníre. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "consuelo de los que lloran,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que acogiste misericordiosamente las piadosas lágrimas de santa Mónica en la conversión de su hijo Agustín,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por intercesión de madre e hijo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "llorar nuestros pecados y alcanzar la gracia de tu perdón."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who console the sorrowful and who mercifully accepted the motherly tears of Saint Monica for the conversion of her son Augustine,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant us, through the intercession of them both, that we may bitterly regret our sins and find the grace of your pardon."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, consolador dos aflitos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que acolhestes, em vossa misericórdia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "as lágrimas de Santa Mônica pela conversão de seu filho Agostinho,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos, pela intercessão de ambos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "chorar os nossos pecados e encontrar a graça do vosso perdão."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, consolatore degli afflitti, che nella tua misericordia hai esaudito le pie lacrime di santa Monica con la conversione del figlio Agostino, per la loro comune intercessione donaci di piangere i nostri peccati e di ottenere la grazia del tuo perdono. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu, réconfort des affligés,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu accueillais avec amour les larmes de la bienheureuse Monique pour la conversion de son fils Augustin ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous, à la prière de la mère et du fils,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de savoir pleurer nos péchés et d’obtenir la grâce de ton pardon."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, du hast auf die Tränen der heiligen Monika geschaut; du hast ihr Flehen erhört und ihrem Sohn Augustinus die Gnade der Bekehrung geschenkt. Gib uns auf die Fürsprache dieser heiligen Mutter und ihres Sohnes die Gnade, dass wir unsere Sünden bereuen und bei dir Verzeihung finden. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Eccli 26, 1-4. 16-21",
+              "es": "Sir 26, 1-4. 13-16",
+              "en-US": "Sir 26:1-4.13-16",
+              "pt-BR": "Eclo 26, 1-4. 13-16",
+              "it": "Sir 26, 1-4.16",
+              "fr": "Si 26, 1-4. 16-21",
+              "de": "Sir 26, 1-4. 13-16 (1-4. 16-21)"
+            },
+            "introduction": {
+              "la": "Léctio libri Ecclesiástici",
+              "es": "Lectura del libro del Eclesiástico",
+              "en-US": "A reading from the Book of Sirach",
+              "pt-BR": "Leitura do Livro do Eclesiástico",
+              "it": "Dal libro di Siracide",
+              "fr": "Livre de Ben Sirac le Sage",
+              "de": "Lesung aus dem Buch Jesus Sirach"
+            },
+            "summary": {
+              "la": "Sicut sol oriens, sic mulieris bonæ species in ornamentum domus eius.",
+              "es": "Sol que sale, es la belleza de la mujer buena en su casa bien ordenada",
+              "pt-BR": "Como o sol que se levanta nas alturas do Senhor, assim o encanto da boa esposa na casa bem ordenada.",
+              "it": "Il sole risplende nel più alto dei cieli, la bellezza di una brava moglie nell’ornamento della casa."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mulíeris bonæ beátus vir: númerus enim diérum illíus duplex. Múlier fortis obléctat virum suum et annos vitæ illíus in pace implébit. Pars bona múlier bona; in parte timéntium Deum dábitur viro pro factis bonis. Dívitis autem vel páuperis cor bonum; in omni témpore vultus illórum hílaris. Grátia mulíeris sédulæ delectábit virum suum, et ossa illíus impinguábit disciplína illíus. Datum Dei est múlier sensáta et tácita; non est commutátio erudítæ ánimæ. Grátia super grátiam múlier sancta et pudoráta; omnis autem ponderátio non est digna continéntis ánimæ. Sicut sol óriens mundo in altíssimis Dei, sic mulíeris bonæ spécies in ornaméntum domus eius."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dichoso el marido de una mujer buena, el numero de sus dias se duplicara. Mujer valerosa es la alegría de su marido, él vivirá en paz todos los años de su vida. Una mujer buena es una herencia valiosa que toca en suerte a los que temen al Señor: sean ricos o pobres, su corazón estará contento y llevarán siempre la alegría en el rostro. El encanto de la mujer complace a su marido, y su ciencia lo reconforta. La mujer silenciosa es un don del Señor, la mujer bien educada no tiene precio. La mujer honesta duplica su encanto, es incalculable el valor de la que sabe controlarse. Sol que sale por las alturas del Señor es la belleza de la mujer buena en su casa bien ordenada."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Happy the husband of a good wife; the number of his days will be doubled. A loyal wife brings joy to her husband, and he will finish his years in peace. A good wife is a generous gift bestowed upon him who fears the Lord. Whether rich or poor, his heart is content, a smile ever on his face. A gracious wife delights her husband; her thoughtfulness puts flesh on his bones. A silent wife is a gift from the Lord; nothing is worth more than her self-discipline. A modest wife is a supreme blessing; no scales can weigh the worth of her chastity. The sun rising in the Lord's heavens— the beauty of a good wife in her well-ordered home."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Feliz o marido que tem uma boa esposa: o número de seus dias será duplicado. A mulher virtuosa é a alegria do marido, que passará em paz os anos de sua vida. Uma boa esposa é uma herança excelente, reservada aos que temem o Senhor. Rico ou pobre, seu marido tem alegria no coração, e em qualquer circunstância mostra um rosto prazenteiro. A graça da mulher é a delícia do marido e seu senso prático lhe revigora os ossos. Mulher amiga do silêncio é dom do Senhor e nada é comparável à alma bem educada. Mulher pudica é graça primorosa, e não há medida que determine o valor da alma casta. Como o sol que se levanta nas alturas do Senhor, assim o encanto da boa esposa na casa bem ordenada."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beato il marito di una donna virtuosa; il numero dei suoi giorni sarà doppio. Una brava moglie è la gioia del marito, questi trascorrerà gli anni in pace. Una donna virtuosa è una buona sorte, viene assegnata a chi teme il Signore. Ricco o povero il cuore di lui ne gioisce, in ogni tempo il suo volto appare sereno. Il sole risplende sulle montagne del Signore, la bellezza di una donna virtuosa adorna la sua casa."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Heureux l’homme qui a une bonne épouse : le nombre de ses jours sera doublé. La femme courageuse fait la joie de son mari : il possédera le bonheur tout au long de sa vie. Une femme de valeur, voilà le bon parti, la part que le Seigneur donne à ceux qui le craignent ; riches ou pauvres, ils ont le cœur joyeux, en toute circonstance leur visage est souriant. La grâce de la femme enchante son mari, et ses talents lui donnent le bien-être. Une femme qui sait se taire est un don du Seigneur. Rien ne vaut une femme préparée à sa tâche. C’est la grâce des grâces qu’une femme discrète. Une âme qui se maîtrise est un trésor sans prix. Un lever de soleil sur les montagnes du Seigneur : ainsi, la beauté d’une épouse parfaite est la lumière de sa maison."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Eine gute Frau - wohl ihrem Mann! Die Zahl seiner Jahre verdoppelt sich. Eine tüchtige Frau pflegt ihren Mann; so vollendet er seine Jahre in Frieden. Eine gute Frau ist ein guter Besitz; er wird dem zuteil, der Gott fürchtet; ob reich, ob arm, sein Herz ist guter Dinge, sein Gesicht jederzeit heiter. Die Anmut der Frau entzückt ihren Mann, ihre Klugheit erfrischt seine Glieder. Eine Gottesgabe ist eine schweigsame Frau, unbezahlbar ist eine Frau mit guter Erziehung. Anmut über Anmut ist eine schamhafte Frau; kein Preis wiegt eine auf, die sich selbst beherrscht. Wie die Sonne aufstrahlt in den höchsten Höhen, so die Schönheit einer guten Frau als Schmuck ihres Hauses."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 7, 11-17",
+              "es": "Lc 7, 11-17",
+              "en-US": "Lk 7:11-17",
+              "pt-BR": "Lc 7, 11-17",
+              "it": "Lc 7, 11-17",
+              "fr": "Lc 7, 11-17",
+              "de": "Lk 7, 11-17"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Feretro cogitationis efferebat, ut diceres filio viduæ: Iuvenis, tibi dico, surge (S. Augustini, Confess., lib. 6, n. 2).",
+              "es": "Me presentaba con tinuamente en las andas de tu pensamiento para que tú dijeses al hijo de la viuda: «Joven, a ti te digo, levántate» (San Agustín, Confesiones, libro 6, n. 2)",
+              "pt-BR": "Jovem, eu te ordeno, levanta-te!",
+              "it": "Ragazzo, dico a te, alzati!"
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Ivit Iesus in civitátem, quæ vocátur Naim, et ibant cum illo discípuli eius et turba copiósa. Cum autem appropinquáret portæ civitátis, et ecce defúnctus efferebátur fílius únicus matri suæ; et hæc vídua erat, et turba civitátis multa cum illa. Quam cum vidísset Dóminus, misericórdia motus super ea dixit illi: «Noli flere!». Et accéssit et tétigit lóculum; hi autem, qui portábant, stetérunt. Et ait: «Aduléscens, tibi dico: Surge!». Et resédit, qui erat mórtuus, et cœpit loqui; et dedit illum matri suæ. Accépit autem omnes timor, et magnificábant Deum dicéntes: «Prophéta magnus surréxit in nobis» et: «Deus visitávit plebem suam». Et éxiit hic sermo in univérsam Iudæam de eo et omnem circa regiónem."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, iba Jesús camino de una ciudad llamada Naín, y caminaban con él sus discípulos y mucho gentío. Cuando se acercaba a la puerta de la ciudad, resultó que sacaban a enterrar a un muerto, hijo único de su madre, que era viuda; y un gentío considerable de la ciudad la acompañaba. Al verla el Señor, se compadeció de ella y le dijo: «No llores». Y acercándose al ataúd, lo tocó (los que lo llevaban se pararon) y dijo: «¡Muchacho, a ti te lo digo, levántate!». El muerto se incorporó y empezó a hablar, y se lo entregó a su madre. Todos, sobrecogidos de temor, daban gloria a Dios diciendo: «Un gran Profeta ha surgido entre nosotros», y «Dios ha visitado a su pueblo». Este hecho se divulgó por toda Judea y por toda la comarca circundante."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jesus went to a town called Nain, accompanied by his disciples and a great number of people. When he was near the gate of the town it happened that a dead man was being carried out for burial, the only son of his mother, and she was a widow. And a considerable number of the townspeople were with her. When the Lord saw her he felt sorry for her. 'Do not cry' he said. Then he went up and put his hand on the bier and the bearers stood still, and he said, 'Young man, I tell you to get up'. And the dead man sat up and began to talk, and Jesus gave him to his mother. Everyone was filled with awe and praised God saying, 'A great prophet has appeared among us; God has visited his people'. And this opinion of him spread throughout Judaea and all over the countryside."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo: Jesus dirigiu-se a uma cidade chamada Naim. Com ele iam seus discípulos e uma grande multidão. Quando chegou à porta da cidade, eis que levavam um defunto, filho único; e sua mãe era viúva. Grande multidão da cidade a acompanhava. Ao vê-la, o Senhor sentiu compaixão para com ela e lhe disse: \"Não chores!\" Aproximou-se, tocou o caixão, e os que o carregavam pararam. Então, Jesus disse: \"Jovem, eu te ordeno, levanta-te!\" O que estava morto sentou-se e começou a falar. E Jesus o entregou à sua mãe. Todos ficaram com muito medo e glorificavam a Deus, dizendo: \"Um grande profeta apareceu entre nós e Deus veio visitar o seu povo\". E a notícia do fato espalhou-se pela Judeia inteira, e por toda a redondeza."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù si recò in una città chiamata Nain, e con lui camminavano i suoi discepoli e una grande folla. Quando fu vicino alla porta della città, ecco, veniva portato alla tomba un morto, unico figlio di una madre rimasta vedova; e molta gente della città era con lei. Vedendola, il Signore fu preso da grande compassione per lei e le disse: «Non piangere!». Si avvicinò e toccò la bara, mentre i portatori si fermarono. Poi disse: «Ragazzo, dico a te, alzati!». Il morto si mise seduto e cominciò a parlare. Ed egli lo restituì a sua madre. Tutti furono presi da timore e glorificavano Dio, dicendo: «Un grande profeta è sorto tra noi», e: «Dio ha visitato il suo popolo». Questa fama di lui si diffuse per tutta quanta la Giudea e in tutta la regione circostante."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus se rendit dans une ville appelée Naïm. Ses disciples faisaient route avec lui, ainsi qu’une grande foule. Il arriva près de la porte de la ville au moment où l’on emportait un mort pour l’enterrer ; c’était un fils unique, et sa mère était veuve. Une foule importante de la ville accompagnait cette femme. Voyant celle-ci, le Seigneur fut saisi de compassion pour elle et lui dit : « Ne pleure pas. » Il s’approcha et toucha le cercueil ; les porteurs s’arrêtèrent, et Jésus dit : « Jeune homme, je te l’ordonne, lève-toi. » Alors le mort se redressa et se mit à parler. Et Jésus le rendit à sa mère. La crainte s’empara de tous, et ils rendaient gloire à Dieu en disant : « Un grand prophète s’est levé parmi nous, et Dieu a visité son peuple. » Et cette parole sur Jésus se répandit dans la Judée entière et dans toute la région."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit ging Jesus in eine Stadt namens Naïn; seine Jünger und eine große Menschenmenge folgten ihm. Als er in die Nähe des Stadttors kam, trug man gerade einen Toten heraus. Es war der einzige Sohn seiner Mutter, einer Witwe. Und viele Leute aus der Stadt begleiteten sie. Als der Herr die Frau sah, hatte er Mitleid mit ihr und sagte zu ihr: Weine nicht! Dann ging er zu der Bahre hin und fasste sie an. Die Träger blieben stehen, und er sagte: Ich befehle dir, junger Mann: Steh auf! Da richtete sich der Tote auf und begann zu sprechen, und Jesus gab ihn seiner Mutter zurück. Alle wurden von Furcht ergriffen; sie priesen Gott und sagten: Ein großer Prophet ist unter uns aufgetreten: Gott hat sich seines Volkes angenommen. Und die Kunde davon verbreitete sich überall in Judäa und im ganzen Gebiet ringsum."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf052",
+      "label": {
+        "la": "PRÆFATIO I DE SANCTIS",
+        "es": "PREFACIO I DE LOS SANTOS",
+        "en-US": "Preface I of Saints",
+        "pt-BR": "Prefácio dos Santos I a",
+        "it": "PREFAZIO DEI SANTI I",
+        "fr": "PRÉFACE DES SAINTS N°1",
+        "de": "PRÄFATION VON DEN HEILIGEN I"
+      },
+      "excerpt": {
+        "la": "De glória Sanctorum",
+        "es": "La gloria de los santos",
+        "en-US": "The glory of the Saints",
+        "pt-BR": "glória dos Santos",
+        "it": "La gloria dei santi",
+        "fr": "La gloire des saints",
+        "de": "Die Glorie der Heiligen und die Gläubigen"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis «de ómnibus Sanctis», de Sanctis Patronis et Titularibus ecclesiæ, et in sollemnitatibus et festis Sanctorum, nisi præfatio magis propria sit dicenda. Dici potest in memoriis Sanctorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui in Sanctórum concílio celebráris,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et eórum coronándo mérita tua dona corónas."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui nobis eórum conversatióne largíris exémplum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et communióne consórtium, et intercessióne subsídium;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut, tantis téstibus confirmáti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ad propósitum certámen currámus invícti et immarcescíbilem cum eis corónam glóriæ consequámur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque multíplici congregatióne Sanctórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en la Misa votiva de todos los Santos, de los Santos Patronos y Titulares de la Iglesia, y en las solemnidades y fiestas de los Santos cuando no tengan un prefacio más apropiado. También pueden decirse en las memorias de los Santos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque eres glorificado en la asamblea de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y, al coronar sus méritos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "coronas tus propios dones."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tú nos ofreces el ejemplo de su vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la ayuda de su intercesión y la participación en su destino;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, animados por tan abundantes testigos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cubramos sin desfallecer la carrera que nos corresponde y alcancemos, con ellos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la corona de gloria que no se marchita,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y los arcángeles y con la variada asamblea de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of All Saints, of Patron Saints and of Saints who are Titulars of a church, and on Solemnities and Feasts of Saints, unless a proper Preface is to be said. This Preface may be said also on Memorials of Saints."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you are praised in the company of your Saints and, in crowning their merits, you crown your own gifts."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "By their way of life you offer us an example,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by communion with them you give us companionship,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by their intercession, sure support,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that, encouraged by so great a cloud of witnesses,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we may run as victors in the race before us and win with them the imperishable crown of glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with the great multitude of the Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas de \"Todos os Santos\", dos Padroeiros e Titulares de igreja, nas solenidades e festas dos Santos, se não houver outro prefácio mais apropriado. Pode ser usado também nas memórias dos Santos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na assembleia dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vós sois glorificado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e, coroando os seus méritos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "exaltais os vossos próprios dons."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Com sua vida nos dais um exemplo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "em sua comunhão, um laço de amor fraterno e, por sua intercessão, um auxílio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Assim, confirmados por tão grandes testemunhas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "corremos vitoriosos para o combate que nos é proposto,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a fim de alcançarmos com eles a imperecível coroa da glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe dei santi, dei santi patroni e dei titolari della chiesa, nelle solennità e nelle feste dei santi, se non è indicato un prefazio proprio. Si può dire anche nelle memorie dei santi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nella festosa assemblea dei santi risplende la tua gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e il loro trionfo celebra i doni della tua misericordia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nella vita di san N. [dei santi N. e N.] ci offri un esempio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nella comunione con lui [con loro] un vincolo di amore fraterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nella sua [loro] intercessione aiuto e sostegno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Confortati da così grande testimonianza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "affrontiamo il buon combattimento della fede,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per condividere al di là della morte la stessa corona di gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi, uniti agli angeli e agli arcangeli e a tutti i santi del cielo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit aux messes « de tous les saints », ainsi que : - aux messes des saints patrons et titulaires d’église ; - aux solennités et fêtes des saints si elles n’ont pas de préface propre. On peut la dire aux mémoires des saints."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car tu es glorifié dans l’assemblée des saints :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lorsque tu couronnes leurs mérites,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu couronnes tes propres dons."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dans leur vie, tu nous procures un modèle,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dans la communion avec eux, une famille,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et dans leur intercession, un appui ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "afin que, soutenus par de si nombreux témoins,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous courions jusqu’au bout l’épreuve qui nous est proposée et recevions avec eux l’impérissable couronne de gloire,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la foule immense des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird genommen in den Messen von allen Heiligen, von den Patronen und Titelheiligen der Kirchen und an Hochfesten und Festen von Heiligen, außer wenn eine eigene Präfation vorgeschrieben ist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater, allmächtiger ewiger Gott, immer und überall zu danken."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Die Schar der Heiligen verkündet deine Größe, denn in der Krönung ihrer Verdienste krönst du das Werk deiner Gnade."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Du schenkst uns in ihrem Leben ein Vorbild, auf ihre Fürsprache gewährst du uns Hilfe und gibst uns in ihrer Gemeinschaft das verheißene Erbe."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ihr Zeugnis verleiht uns die Kraft, im Kampf gegen das Böse zu siegen und mit ihnen die Krone der Herrlichkeit zu empfangen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich mit allen Engeln und Heiligen und singen vereint mit ihnen das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf053",
+      "label": {
+        "la": "PRÆFATIO II DE SANCTIS",
+        "es": "PREFACIO II DE SANTOS",
+        "en-US": "Preface Ii of Saints",
+        "pt-BR": "Prefácio dos Santos Ii o",
+        "it": "PREFAZIO DEI SANTI II",
+        "fr": "PRÉFACE DES SAINTS N°2",
+        "de": "PRÄFATION VON DEN HEILIGEN II"
+      },
+      "excerpt": {
+        "la": "De actione Sanctorum",
+        "es": "Eficacia de la acción de los santos",
+        "en-US": "The action of the Saints",
+        "pt-BR": "exemplo e a intercessão dos Santos",
+        "it": "L’esempio e l’intercessione dei santi",
+        "fr": "Le rôle des saints",
+        "de": "Die Heiligen und wir"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis «de ómnibus Sanctis», de Sanctis Patronis et Titularibus ecclesiæ, et in sollemnitatibus et festis Sanctorum, nisi præfatio magis propria sit dicenda. Dici potest in memoriis Sanctorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu enim Sanctórum tuórum confessióne mirábili Ecclésiam tuam nova semper virtúte fecúndas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nobísque certíssima præbes tuæ dilectiónis indícia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sed étiam, ad mystéria salútis implénda,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et ipsórum insígni incitámur exémplo et pia intercessióne perpétuo commendámur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Unde et nos, Dómine, cum Angelis et Sanctis univérsis tibi confitémur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in exsultatióne dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en la Misa votiva de todos los Santos, de los Santos Patronos y Titulares de la Iglesia, y en las solemnidades y fiestas de los Santos cuando no tengan un prefacio más apropiado. También pueden decirse en las memorias de los Santos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque mediante el testimonio admirable de tus santos fecundas sin cesar a tu Iglesia con vitalidad siempre nueva,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y nos das así pruebas evidentes de tu amor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Su insigne ejemplo nos anima,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y a su permanente intercesión nos confiamos para que se cumplan tus designios de salvación."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso, Señor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nosotros, llenos de alegría,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te aclamamos con los ángeles y con todos los santos, diciendo:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of All Saints, of Patron Saints and of Saints who are Titulars of a church, and on Solemnities and Feasts of Saints, unless a proper Preface is to be said. This Preface may be said also on Memorials of Saints."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the marvellous confession of your Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "you make your Church fruitful with strength ever new and offer us sure signs of your love."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And that your saving mysteries may be fulfilled,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "their great example lends us courage,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "their fervent prayers sustain us in all we do."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, Lord, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we, too, give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as in exultation we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas de \"Todos os Santos\", dos Padroeiros e Titulares de igreja, nas solenidades e festas dos Santos, se não houver outro prefácio mais apropriado. Pode ser usado também nas memórias dos Santos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pois, pelo testemunho admirável dos vossos Santos e Santas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre fecundais com novo vigor a vossa Igreja e nos dais provas evidentes do vosso amor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Para levar à plenitude o mistério da salvação,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o exemplo dos Santos nos estimula e sua intercessão constantemente nos ajuda Por isso, também nós, Senhor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "jubilosos, vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe dei santi, dei santi patroni e dei titolari della chiesa, nelle solennità e nelle feste dei santi, se non è indicato un prefazio proprio. Si può dire anche nelle memorie dei santi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nella mirabile testimonianza dei tuoi santi tu rendi sempre feconda la tua Chiesa e doni a noi un segno sicuro del tuo amore."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Il loro grande esempio e la loro fraterna intercessione ci sostengono nel cammino della vita,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché si compia in noi il tuo mistero di salvezza."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e a tutti i santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo con gioia l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit aux messes « de tous les saints », ainsi que : - aux messes des saints patrons et titulaires d’église ; - aux solennités et fêtes des saints si elles n’ont pas de préface propre. On peut la dire aux mémoires des saints."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu ne cesses de fortifier ton Église,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et tu lui donnes une fécondité nouvelle par la foi admirable dont témoignent les saints ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu nous présentes en eux des signes très sûrs de ton amour."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et pour que s’accomplissent les mystères du salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "le rayonnement de leur exemple nous stimule,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et leur intercession fervente nous assure un appui."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les anges et tous les saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons, Seigneur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nous exultons de joie en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird genommen in den Messen von allen Heiligen, von den Patronen und Titelheiligen der Kirchen und an Hochfesten und Festen von Heiligen, außer wenn eine eigene Präfation vorgeschrieben ist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater im Himmel, zu danken und das Werk deiner Gnade zu preisen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn in den Heiligen schenkst du der Kirche leuchtende Zeichen deiner Liebe."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch das Zeugnis ihres Glaubens verleihst du uns immer neu die Kraft, nach der Fülle des Heiles zu streben. Durch ihre Fürsprache und ihr heiliges Leben gibst du uns Hoffnung und Zuversicht."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum rühmen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

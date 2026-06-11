@@ -1,0 +1,2551 @@
+{
+  "id": "sanctorale.10-28",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "SS. SIMONIS ET IUDÆ, APOSTOLORUM",
+    "es": "SAN SIMÓN Y SAN JUDAS, APÓSTOLES",
+    "en-US": "Ss. Simon and Jude, Apostles",
+    "pt-BR": "Santos Simão e Judas, apóstolos",
+    "it": "SANTI SIMONE E GIUDA, APOSTOLI",
+    "fr": "SAINTS SIMON ET JUDE, APÔTRES",
+    "de": "Hl. SIMON UND Hl. JUDAS, APOSTEL"
+  },
+  "description": {
+    "la": "Nomen Simonis ponitur undecimo loco in elencho Apostolorum. Nihil scitur de illo, nisi quod cognominabatur Cananæus seu «Zelotes». Iudas, qui et Thaddæus, ille apóstolus est qui, in cena novissima, rogavit Dóminum quare se manifestasset tantum suis discipulis et non mundo (Io 14, 22).",
+    "es": "El nombre de Simón figura en undécimo lugar en la lista de los apóstoles. Lo único que sabemos de él es que nació en Caná y que se le daba el apodo de «Zelotes». Judas, por sobrenombre Tadeo, es aquel apóstol que en la última cena preguntó al Señor por qué se manifestaba a sus discípulos y no al mundo (Jn 14, 22).",
+    "pt-BR": "Simão, por Lucas apelidado de Zelote (Lc 6,15; At 1,13), talvez porque militara no grupo antirromano dos Zelotes, por Mateus e Marcos é chamado Cananeu (do termo aramaico que significa \"Zelote\"). Judas é chamado Tadeu (Mt 10,4; Mc 3,18) ou Judas de Tiago (Lc 6,16; At 1,13). Na última ceia dirigiu a Jesus a pergunta: \"Senhor, como se explica que tu te manifestarás a nós e não ao mundo?\". Jesus lhe respondeu que a autêntica manifestação de Deus está reservada a quem ama e observa sua palavra (Jo 14,22-24). Uma carta do Novo Testamento leva seu nome. A festa deles no dia 28 de outubro é lembrada pelo Calendário Jeronimiano (séc. VI).",
+    "it": "Simone viene chiamato «lo zelota» (Lc 6, 15; At 1, 13) o, in aramaico, «il cananeo» (Mt 10, 4; Mc 3, 18) per la sua probabile appartenenza al gruppo degli zeloti, caratterizzati da un nazionalismo militante all’interno del giudaismo. Simone fa parte del gruppo dei Dodici, così come Giuda figlio di Giacomo (Lc 6, 16; At 1, 13; chiamato Taddeo in Mt 10, 3 e Mc 3, 18) il quale rivolge a Gesù la domanda: «Signore, come è accaduto che devi manifestarti a noi, e non al mondo?». Gesù gli risponde che chiunque accoglie la sua parola diventa, egli stesso, dimora di Dio (cf. Gv 14, 22-23). La festa comune di questi due apostoli è ricordata il 28 ottobre nel Martirologio geronimiano (sec. V-VI).",
+    "fr": "L’apôtre Simon était surnommé le Zélote, sans doute pour avoir appartenu au mouvement des Zélotes, qui menait la résistance armée contre les Romains. Quant à Jude, appelé aussi Thaddée, il posa à Jésus, lors de la dernière Cène, une question qui lui valut cette réponse : « Si quelqu’un m’aime, mon Père l’aimera, nous viendrons chez lui et nous y ferons notre demeure » (Jn 14, 23).",
+    "de": "Simon gehörte zu den 12 Aposteln, wurde in Kana in Galiläa geboren und hatte den Beinamen “der Zelot”. Judas Thaddäus, ebenfalls Apostel Christi, wird in der Erzählung des letzten Abendmahls erwähnt, als er den Herrn fragt, warum er sich nur ihnen und nicht der Welt offenbart."
+  },
+  "color": "red",
+  "rank": "feast",
+  "cycleScheme": "fixed",
+  "includeGloria": true,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Isti sunt viri sancti, quos elégit Dóminus in caritáte non ficta, et dedit illis glóriam sempitérnam."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Estos son los varones santos a quienes eligió el Señor amorosamente y les dio la gloria eterna."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "These are the holy men whom the Lord chose in his own perfect love; to them he gave eternal glory."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Estes são homens santos que o Senhor escolheu com verdadeiro amor;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "deu-lhes a glória eterna."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Questi sono uomini santi: il Signore li ha eletti nel suo amore generoso, ha dato loro una gloria eterna."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Voici les saints Simon et Jude :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "le Seigneur les a vraiment aimés,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "il les a choisis et leur a donné une gloire éternelle."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Diese Heiligen hat der Herr in Liebe erwählt, er gab ihnen seine Herrlichkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui nos per beátos Apóstolos ad agnitiónem tui nóminis veníre tribuísti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "intercedéntibus sanctis Simóne et Iuda, concéde propítius, ut semper augeátur Ecclésia increméntis in te credéntium populórum. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos concediste llegar al conocimiento de tu nombre por medio de los santos apóstoles,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te rogamos que, por intercesión de san Simón y san Judas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la Iglesia siga creciendo siempre por el incremento de los pueblos que crean en ti."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who by the blessed Apostles have brought us to acknowledge your name,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "graciously grant,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "through the intercession of Saints Simon and Jude,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that the Church may constantly grow by increase of the peoples who believe in you."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, pelos santos Apóstolos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos fizestes chegar ao conhecimento do vosso nome;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei benigno, pela intercessão de São Simão e São Judas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que a vossa Igreja não cesse de crescer com o aumento dos povos que creem em vós."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che per mezzo degli apostoli ci hai fatto giungere alla conoscenza del tuo nome, per l’intercessione dei santi Simone e Giuda concedi alla tua Chiesa di crescere sempre con l’adesione di nuovi popoli alla fede. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu nous as conduits à la connaissance de ton nom par la prédication des bienheureux Apôtres ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais qu’à l’intercession des saints Simon et Jude,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ton Église ne cesse de grandir en accueillant toujours de nouveaux peuples de croyants."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, durch die Botschaft der Apostel hast du uns zur Erkenntnis deines Namens geführt. Mehre auf die Fürsprache der Heiligen Simon und Judas die Zahl der Gläubigen und festige in der Kirche das Vertrauen auf deine Hilfe. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Eph 2, 19-22",
+              "es": "Ef 2, 19-22",
+              "en-US": "Eph 2:19-22",
+              "pt-BR": "Ef 2, 19-22",
+              "it": "Ef 2,19-22",
+              "fr": "Ep 2, 19-22",
+              "de": "Eph 2, 19-22"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Ephésios",
+              "es": "Lectura de la carta del apóstol san Pablo a los Efesios",
+              "en-US": "A reading from the letter of St. Paul to the Ephesians",
+              "pt-BR": "Leitura da Carta de São Paulo aos Efésios",
+              "it": "Dalla lettera di san Paolo apostoli agli Efesini",
+              "fr": "Lettre de saint Paul Apôtre aux Éphésiens",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Épheser"
+            },
+            "summary": {
+              "la": "Superædificati super fundamentum Apostolorum.",
+              "es": "Estáis edificados sobre el cimiento de los apóstoles",
+              "pt-BR": "Vós fostes integrados no edifício que tem como fundamento os apóstolos e próprio Jesus Cristo como pedra principal.",
+              "it": "Edificati sopra il fondamento degli apostoli."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Iam non estis extránei et ádvenæ, sed estis concíves sanctórum et doméstici Dei, superædificáti super fundaméntum apostólorum et prophetárum, ipso summo angulári lápide Christo Iesu, in quo omnis ædificátio compácta crescit in templum sanctum in Dómino, in quo et vos coædificámini in habitáculum Dei in Spíritu."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Ya no sois extranjeros ni forasteros, sino conciudadanos de los santos, y miembros de la familia de Dios. Estáis edificados sobre el cimiento de los apóstoles y profetas, y el mismo Cristo Jesús es la piedra angular. Por él todo el edificio queda ensamblado, y se va levantando hasta formar un templo consagrado al Señor. Por él también vosotros entráis con ellos en la construcción, para ser morada de Dios, por el Espíritu."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "You are no longer aliens or foreign visitors: you are citizens like all the saints, and part of God's household. You are part of a building that has the apostles and prophets for its foundations, and Christ Jesus himself for its main cornerstone. As every structure is aligned on him, all grow into one holy temple in the Lord; and you too, in him, are being built into a house where God lives, in the Spirit."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos: Já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, voi non siete più stranieri né ospiti, ma siete concittadini dei santi e familiari di Dio, edificati sopra il fondamento degli apostoli e dei profeti, e avendo come pietra angolare lo stesso Cristo Gesù. In lui ogni costruzione cresce ben ordinata per essere tempio santo nel Signore; in lui anche voi insieme con gli altri venite edificati per diventare dimora di Dio per mezzo dello Spirito."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, vous n’êtes plus des étrangers ni des gens de passage, vous êtes concitoyens des saints, vous êtes membres de la famille de Dieu, car vous avez été intégrés dans la construction qui a pour fondations les Apôtres et les prophètes ; et la pierre angulaire, c’est le Christ Jésus lui-même. En lui, toute la construction s’élève harmonieusement pour devenir un temple saint dans le Seigneur. En lui, vous êtes, vous aussi, les éléments d’une même construction pour devenir une demeure de Dieu par l’Esprit Saint."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Ihr seid jetzt nicht mehr Fremde ohne Bürgerrecht, sondern Mitbürger der Heiligen und Hausgenossen Gottes. Ihr seid auf das Fundament der Apostel und Propheten gebaut; der Schlussstein ist Christus Jesus selbst. Durch ihn wird der ganze Bau zusammengehalten und wächst zu einem heiligen Tempel im Herrn. Durch ihn werdet auch ihr im Geist zu einer Wohnung Gottes erbaut."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 18, 2-3. 4-5",
+              "es": "Sal 18, 2-3. 4-5",
+              "en-US": "Ps 18:2-3, 4-5",
+              "pt-BR": "Sl 18, 2-3. 4-5",
+              "it": "Sal 18, 2-3. 4-5",
+              "fr": "Ps 18, 2-3. 4-5",
+              "de": "Ps 19"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "In omnem terram exivit sonus eórum."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "A toda la tierra alcanza su pregón."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Their message goes out through all the earth."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Seu som ressoa e se espalha em toda terra."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "La loro voce si è diffusa per tutta la terra."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Par toute la terre s’en va leur message."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ihre Botschaft geht hinaus in die ganze Welt."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cæli enárrant glóriam Dei,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et ópera mánuum eius annúntiat firmaméntum."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dies diéi erúctat verbum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et nox nocti índicat sciéntiam."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Non sunt loquélæ neque sermónes quorum non intellegántur voces."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "In omnem terram exívit sonus eórum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et in fines orbis terræ verba eórum."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El cielo proclama la gloria de Dios,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "el firmamento pregona la obra de sus manos:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "el día al día le pasa el mensaje,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la noche a la noche se lo susurra."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sin que hablen, sin que pronuncien,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sin que resuene su voz,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "a toda la tierra alcanza su pregón y hasta los límites del orbe su lenguaje."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The heavens proclaim the glory of God and the firmament shows forth the work of his hands. Day unto day takes up the story and night unto night makes known the message."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "No speech, no word, no voice is heard yet their span extends through all the earth, their words to the utmost bounds of the world."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Os céus proclamam a glória do Senhor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e o firmamento, a obra de suas mãos;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "o dia ao dia transmite esta mensagem,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "a noite à noite publica esta notícia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Não são discursos nem frases ou palavras,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nem são vozes que possam ser ouvidas;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "seu som ressoa e se espalha em toda a terra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "chega aos confins do universo a sua voz."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I cieli narrano la gloria di Dio,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e l’opera delle sue mani annunzia il firmamento."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il giorno al giorno ne affida il messaggio e la notte alla notte ne trasmette notizia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Non è linguaggio e non sono parole di cui non si oda il suono."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Per tutta la terra si diffonde la loro voce e ai confini del mondo la loro parola."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Les cieux proclament la gloire de Dieu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le firmament raconte l’ouvrage de ses mains."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le jour au jour en livre le récit et la nuit à la nuit en donne connaissance."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pas de paroles dans ce récit,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "pas de voix qui s’entende ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mais sur toute la terre en paraît le message et la nouvelle, aux limites du monde."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Die Himmel rühmen die Herrlichkeit Gottes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vom Werk seiner Hände kündet das Firmament."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ein Tag sagt es dem andern,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "eine Nacht tut es der andern kund,"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "ohne Worte und ohne Reden,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "unhörbar bleibt ihre Stimme."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Doch ihre Botschaft geht in die ganze Welt hinaus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihre Kunde bis zu den Enden der Erde."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Te Deum laudámus, te Dóminum confitémur; Te gloriósus apostolórum chorus laudat, Dómine."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "A ti, oh, Dios, te alabamos, a ti, Señor, te reconocemos; a ti te ensalza el glorioso coro de los apóstoles, Señor."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "You are God: we praise you; you are the Lord: we acclaim you; the glorious company of apostles praise you."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "A vós, ó Deus, louvamos, a vós, Senhor, cantamos; vos louva, ó Senhor, o coro dos Apóstolos!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Noi ti lodiamo, Dio, ti proclamiamo Signore; ti acclama il coro degli apostoli."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "À toi, Dieu, notre louange ! Toi, le Seigneur, nous t’acclamons. C’est toi que les Apôtres glorifient."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Dich, Gott, loben wir, dich, Herr, preisen wir. Dich preist der glorreiche Chor der Apostel."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 6, 12-19",
+              "es": "Lc 6, 12-19",
+              "en-US": "Lk 6:12-19",
+              "pt-BR": "Lc 6, 12-19",
+              "it": "Lc 6, 12-16",
+              "fr": "Lc 6, 12-19",
+              "de": "Lk 6, 12-19"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Elegit duodecim ex ipsis, quos et apostolos nominavit.",
+              "es": "Escogió de entre ellos a doce, a los que también nombró apóstoles",
+              "pt-BR": "Escolheu doze dentre eles, aos quais deu o nome de apóstolos.",
+              "it": "Ne scelse dodici ai quali diede anche il nome di apostoli."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Factum autem in illis diébus, éxiit Iesus in montem oráre et erat pernóctans in oratióne Dei. Et cum dies factus esset, vocávit discípulos suos et elégit Duódecim ex ipsis, quos et apóstolos nominávit: Simónem, quem et cognominávit Petrum, et Andréam fratrem eius et Iacóbum et Ioánnem et Philíppum et Bartholomæum et Matthǽum et Thomam et Iacóbum Alphǽi et Simónem, qui vocátur Zelótes, et Iudam Iacóbi et Iudam Iscárioth, qui fuit próditor. Et descéndens cum illis stetit in loco campéstri, et turba multa discipulórum eius, et multitúdo copiósa plebis ab omni Iudæa et Ierúsalem et marítima Tyri et Sidónis, qui venérunt, ut audírent eum et sanaréntur a languóribus suis; et, qui vexabántur a spirítibus immúndis, curabántur. Et omnis turba quærébant eum tángere, quia virtus de illo exíbat et sanábat omnes"
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquellos días, Jesús salió al monte a orar y pasó la noche orando a Dios. Cuando se hizo de día, llamó a sus discípulos, escogió de entre ellos a doce, a los que también nombró apóstoles: Simón, al que puso de nombre Pedro, y Andrés, su hermano; Santiago, Juan, Felipe, Bartolomé, Mateo, Tomás, Santiago el de Alfeo, Simón, llamado el Zelote; Judas el de Santiago y Judas Iscariote, que fue el traidor. Después de bajar con ellos, se paró en una llanura con un grupo grande de discípulos y una gran muchedumbre del pueblo, procedente de toda Judea, de Jerusalén y de la costa de Tiro y de Sidón. Venían a oírlo y a que los curara de sus enfermedades; los atormentados por espíritus inmundos quedaban curados, y toda la gente trataba de tocarlo, porque salía de él una fuerza que los curaba a todos."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "It was about this time that Jesus went out into the hills to pray; and he spent the whole night in prayer to God. When day came he summoned his disciples and picked out twelve of them; he called them 'apostles': Simon whom he called Peter, and his brother Andrew; James, John, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Simon called the Zealot, Judas son of James, and Judas Iscariot who became a traitor. He then came down with them and stopped at a piece of level ground where there was a large gathering of his disciples with a great crowd of people from all parts of Judaea and from Jerusalem and from the coastal region of Tyre and Sidon who had come to hear him and to be cured of their diseases. People tormented by unclean spirits were also cured, and everyone in the crowd was trying to touch him because power came out of him that cured them all."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naqueles dias, Jesus foi à montanha para rezar. E passou a noite toda em oração a Deus. Ao amanhecer, chamou seus discípulos e escolheu doze dentre eles, aos quais deu o nome de apóstolos: Simão, a quem impôs o nome de Pedro, e seu irmão André; Tiago e João; Filipe e Bartolomeu; Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota; Judas, filho de Tiago, e Judas Iscariotes, aquele que se tornou traidor. Jesus desceu da montanha com eles e parou num lugar plano. Ali estavam muitos dos seus discípulos e grande multidão de gente de toda a Judeia e de Jerusalém, do litoral de Tiro e Sidônia. Vieram para ouvir Jesus e serem curados de suas doenças. E aqueles que estavam atormentados por espíritos maus também foram curados. A multidão toda procurava tocar em Jesus, porque uma força saía dele, e curava a todos."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quei giorni, Gesù se ne andò sul monte a pregare e passò tutta la notte pregando Dio. Quando fu giorno, chiamò a sé i suoi discepoli e ne scelse dodici, ai quali diede anche il nome di apostoli: Simone, al quale diede anche il nome di Pietro; Andrea, suo fratello; Giacomo, Giovanni, Filippo, Bartolomeo, Matteo, Tommaso; Giacomo, figlio di Alfeo; Simone, detto Zelota; Giuda, figlio di Giacomo; e Giuda Iscariota, che divenne il traditore. Disceso con loro, si fermò in un luogo pianeggiante. C’era gran folla di suoi discepoli e gran moltitudine di gente da tutta la Giudea, da Gerusalemme e dal litorale di Tiro e di Sidòne, che erano venuti per ascoltarlo ed essere guariti dalle loro malattie; anche quelli che erano tormentati da spiriti impuri venivano guariti. Tutta la folla cercava di toccarlo, perché da lui usciva una forza che guariva tutti"
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ces jours-là, Jésus s’en alla dans la montagne pour prier, et il passa toute la nuit à prier Dieu. Le jour venu, il appela ses disciples et en choisit douze auxquels il donna le nom d’Apôtres : Simon, auquel il donna le nom de Pierre, André son frère, Jacques, Jean, Philippe, Barthélemy, Matthieu, Thomas, Jacques fils d’Alphée, Simon appelé le Zélote, Jude fils de Jacques, et Judas Iscariote, qui devint un traître. Jésus descendit de la montagne avec eux et s’arrêta sur un terrain plat. Il y avait là un grand nombre de ses disciples et une grande multitude de gens venus de toute la Judée, de Jérusalem, et du littoral de Tyr et de Sidon. Ils étaient venus l’entendre et se faire guérir de leurs maladies ; ceux qui étaient tourmentés par des esprits impurs retrouvaient la santé. Et toute la foule cherchait à le toucher, parce qu’une force sortait de lui et les guérissait tous."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jenen Tagen ging Jesus auf einen Berg, um zu beten. Und er verbrachte die ganze Nacht im Gebet zu Gott. Als es Tag wurde, rief er seine Jünger zu sich und wählte aus ihnen zwölf aus; sie nannte er auch Apostel. Es waren Simon, dem er den Namen Petrus gab, und sein Bruder Andreas, dazu Jakobus und Johannes, Philippus und Bartholomäus, Matthäus und Thomas, Jakobus, der Sohn des Alphäus, und Simon, genannt der Zelot, Judas, der Sohn des Jakobus, und Judas Iskariot, der zum Verräter wurde. Jesus stieg mit ihnen den Berg hinab. In der Ebene blieb er mit einer großen Schar seiner Jünger stehen, und viele Menschen aus ganz Judäa und Jerusalem und dem Küstengebiet von Tyrus und Sidon strömten herbei. Sie alle wollten ihn hören und von ihren Krankheiten geheilt werden. Auch die von unreinen Geistern Geplagten wurden geheilt. Alle Leute versuchten, ihn zu berühren; denn es ging eine Kraft von ihm aus, die alle heilte."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Glóriam, Dómine, sanctórum apostolórum Simónis et Iudæ perpétuam venerántes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quǽsumus, ut vota nostra suscípias et ad sacra mystéria celebránda nos digne perdúcas. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Al venerar la gloria eterna de los santos apóstoles Simón y Judas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que recibas nuestras súplicas y nos dispongas para participar dignamente en estos sagrados misterios."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "As we venerate the perpetual glory of the holy Apostles Simon and Jude, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we ask that you receive our prayers and lead us to worthy celebration of the sacred mysteries."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Festejando a perene glória dos Santos apóstolos Simão e Judas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "acolhei, Senhor, as nossas preces e fazei-nos celebrar dignamente os santos mistérios."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nel glorioso ricordo dei santi apostoli Simone e Giuda, ti preghiamo, o Signore, di accogliere le nostre suppliche e di condurci a celebrare degnamente i santi misteri. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "En vénérant la gloire éternelle des saints apôtres Simon et Jude,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te supplions, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accueille nos prières,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et fais-nous participer dignement aux mystères que nous célébrons."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Erhabener Gott, wir rühmen die Herrlichkeit, die du den Aposteln Simon und Judas gegeben hast. Nimm unsere Gebete und Gaben an und lass uns die heiligen Geheimnisse würdig begehen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf050",
+      "label": {
+        "la": "PRÆFATIO I DE APOSTOLIS",
+        "es": "PREFACIO I DE LOS APÓSTOLES",
+        "en-US": "Preface I of Apostles",
+        "pt-BR": "Prefácio dos Apóstolos I",
+        "it": "PREFAZIO DEGLI APOSTOLI I",
+        "fr": "PRÉFACE DES APÔTRES N°1",
+        "de": "PRÄFATION VON DEN APOSTELN I"
+      },
+      "excerpt": {
+        "la": "De Apostolis pastoribus pópuli Dei",
+        "es": "Los Apóstoles, pastores del pueblo de Dios",
+        "en-US": "The Apostles, shepherds of God's people",
+        "pt-BR": "Os Apóstolos, pastores do povo de Deus",
+        "it": "Gli Apostoli, pastori del popolo di Dio",
+        "fr": "Les Apôtres, pasteurs du peuple de Dieu",
+        "de": "Die Apostel als Hirten des Gottesvolkes"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis Apostolorum, præsertim sanctorum Petri et Pauli."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui gregem tuum, Pastor ætérne, non déseris,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed per beátos Apóstolos contínua protectióne custódis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut iísdem rectóribus gubernétur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quos Fílii tui vicários eídem contulísti præésse pastóres."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Thronis et Dominatiónibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque omni milítia cæléstis exércitus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum glóriæ tuæ cánimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de los Apóstoles, principalmente en las de san Pedro y san Pablo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque tú, Pastor eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "no abandonas nunca a tu rebaño,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sino que por medio de los santos apóstoles lo proteges y conservas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y quieres que tenga siempre por guías a los mismos pastores a quienes tu Hijo estableció como enviados suyos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tronos y dominaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y con todos los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos sin cesar el himno de tu gloria:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Apostles, especially of Saints Peter and Paul."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you, eternal Shepherd, do not desert your flock,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "but through the blessed Apostles watch over it and protect it always,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that it may be governed by those you have appointed shepherds to lead it in the name of your Son."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with Thrones and Dominions,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with all the hosts and Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio usa-se nas Missas dos Apóstolos, sobretudo dos Santos Pedro e Paulo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pastor eterno, vós nunca abandonais o vosso rebanho,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mas o guardais constantemente pela proteção dos vossos santos Apóstolos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que ele seja conduzido por aqueles mesmos pastores que colocastes à sua frente como representantes do vosso Filho."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Arcanjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os Tronos e as Dominações e todos os coros celestes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe degli apostoli, specialmente nelle Messe votive dei santi Pietro e Paolo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pastore eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu non abbandoni il tuo gregge,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ma lo custodisci e proteggi sempre per mezzo dei santi apostoli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e lo conduci attraverso i tempi sotto la guida di coloro che tu stesso hai eletto vicari del tuo Figlio e hai costituito pastori."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli Angeli e agli Arcangeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ai Troni e alle Dominazioni e alla moltitudine delle schiere celesti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo con voce incessante l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit aux messes des Apôtres, en particulier des saints Pierre et Paul."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu n’abandonnes pas ton troupeau, Pasteur éternel,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mais tu le gardes par les bienheureux Apôtres sous ta constante protection,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour qu’il soit dirigé par ceux-là mêmes que tu as établis à sa tête comme pasteurs au nom de ton Fils."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les puissances d’en haut et tous les esprits bienheureux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen von den Aposteln genommen, vor allem von den Aposteln Petrus und Paulus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn du bist der ewige Hirt, der seine Herde nicht verlässt, du hütest sie allezeit durch deine heiligen Apostel. Du hast sie der Kirche als Hirten gegeben, damit sie ihr vorstehen als Stellvertreter deines Sohnes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum singen wir mit den Engeln und Erzengeln, den Thronen und Mächten und mit all den Scharen des himmlischen Heeres den Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf051",
+      "label": {
+        "la": "PRÆFATIO II DE APOSTOLIS",
+        "es": "PREFACIO II DE APÓSTOLES",
+        "en-US": "Preface Ii of Apostles",
+        "pt-BR": "Prefácio dos Apóstolos Ii a",
+        "it": "PREFAZIO DEGLI APOSTOLI II",
+        "fr": "PRÉFACE DES APÔTRES N°2",
+        "de": "PRÄFATION VON DEN APOSTELN II"
+      },
+      "excerpt": {
+        "la": "De apostolico fundamento et testimonio",
+        "es": "Los Apóstoles, fundamento de la Iglesia y testimonio para el mundo",
+        "en-US": "The apostolic foundation and witness",
+        "pt-BR": "Igreja fundada sobre os Apóstolos e o seu testemunho",
+        "it": "La Chiesa fondata sugli Apostoli e sulla loro testimonianza",
+        "fr": "Les Apôtres, fondements de l’Église et témoins",
+        "de": "Das apostolische Fundament und Zeugnis der Kirche"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis Apostolorum et Evangelistarum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quóniam Ecclésiam tuam in apostólicis tribuísti consístere fundaméntis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut signum sanctitátis tuæ in terris manéret ipsa perpétuum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et cæléstia præbéret cunctis homínibus documénta."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quaprópter nunc et usque in sǽculum cum omni milítia Angelórum devóta tibi mente concínimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "clamántes atque dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de los Apóstoles y de los Evangelistas."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque has querido que tu Iglesia tenga por fundamento a los apóstoles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que permanezca en la tierra como signo perpetuo de tu santidad y ofrezca a todos los hombres las enseñanzas del cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, con toda la multitud de los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te aclamamos ahora y por siempre diciendo con humilde fe:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Apostles and Evangelists."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you have built your Church to stand firm on apostolic foundations,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "to be a lasting sign of your holiness on earth and offer all humanity your heavenly teaching."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Therefore, now and for ages unending,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with all the host of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing to you with all our hearts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "crying out as we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio usa-se nas Missas dos Apóstolos e dos Evangelistas."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós fundastes a Igreja sobre o alicerce dos Apóstolos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a fim de que ela seja na terra sinal permanente da vossa santidade e anuncie a todo o mundo o Evangelho do Reino dos céus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, agora e sempre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "com todos os coros dos Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "jubilosos, cantamos"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe degli apostoli e degli evangelisti."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu hai stabilito la tua Chiesa sul fondamento degli apostoli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché sulla terra sia segno visibile della tua santità nei secoli e trasmetta a tutti gli uomini gli insegnamenti che sono via al cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti a tutte le schiere degli angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ora e sempre, con cuore riconoscente,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamiamo nel canto la tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette préface se dit aux messes des Apôtres et des Évangélistes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car tu as fondé ton Église sur les Apôtres,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour qu’elle soit à jamais dans le monde le signe de ta sainteté,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et qu’elle enseigne à tous les hommes l’Évangile du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dès maintenant et pour l’éternité,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous pouvons te chanter avec tous les anges et, d’un cœur fervent, proclamer :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen von Aposteln und Evangelisten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn hast du die Kirche auf das Fundament der Apostel gegründet, damit sie bis ans Ende der Tage fortbestehe als Zeichen deiner Heiligkeit und allen Menschen die Botschaft des Heiles verkünde."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir das Werk deiner Liebe und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Si quis díligit me, sermónem meum servábit, dicit Dóminus; et Pater meus díliget eum, et ad eum veniémus, et mansiónem apud eum faciémus."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "El que me ama guardará mi palabra, y mi Padre lo amará, y vendremos a él y haremos morada en él, dice el Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Whoever loves me will keep my word, says the Lord; and my Father will love him, and we will come to him, and make our home with him."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Se alguém me ama, guardará a minha palavra, diz o Senhor;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "meu Pai o amará, e nós viremos e faremos nele a nossa morada."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Se uno mi ama, osserverà la mia parola e il Padre mio lo amerà e noi verremo a lui e prenderemo dimora presso di lui."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Si quelqu’un m’aime, il gardera ma parole, dit le Seigneur ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mon Père l’aimera, nous viendrons vers lui et, chez lui, nous ferons une demeure."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "So spricht der Herr: Wer mich liebt, wird mein Wort festhalten; mein Vater wird ihn lieben, und wir werden zu ihm kommen und bei ihm wohnen."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Percéptis, Dómine, sacraméntis, súpplices in Spíritu Sancto deprecámur, ut,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quæ pro apostolórum Simónis et Iudæ veneránda gérimus passióne, nos in tua dilectióne consérvent. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Después de participar en la comunión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "movidos por el Espíritu Santo te pedimos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que cuanto hemos celebrado en recuerdo del martirio de los apóstoles Simón y Judas nos ayude a perseverar en tu amor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Having received this Sacrament, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we humbly implore you in the Holy Spirit, that what we do to honor the glorious passion of the Apostles Simon and Jude may keep us ever in your love."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, tendo recebido o vosso sacramento,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "movidos pelo Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos pedimos humildemente que a celebração do martírio dos apóstolos Simão e Judas nos conserve no vosso amor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, che ci hai accolti alla tua mensa nel ricordo della passione dei santi apostoli Simone e Giuda, per il tuo Spirito operante in questi misteri confermaci sempre nel tuo amore. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Après avoir reçu ton sacrement, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te supplions dans l’Esprit Saint :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que le sacrifice offert aujourd’hui pour célébrer la passion des apôtres Simon et Jude nous garde dans ton amour."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, in dieser Opferfeier haben wir der Apostel Simon und Judas gedacht und ihr Leiden geehrt. Der Heilige Geist, der sie erfüllt hat, bewahre auch uns in der Treue und in der Liebe zu dir bis zum Tod. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverPeople": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "rubric",
+                  "text": "Adhiberi potest formula benedictionis sollemnis."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "rubric",
+                  "text": "Pode-se usar a fórmula da Benção Solene."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "rubric",
+                  "text": "On peut utiliser la formule de la bénédiction solennelle."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

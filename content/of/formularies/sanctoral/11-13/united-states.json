@@ -1,0 +1,91 @@
+{
+  "id": "sanctorale.11-13.united-states",
+  "kind": "sanctoral",
+  "scope": "united-states",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Frances Xavier Cabrini, Virgin"
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "God our Father,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who called Saint Frances Xavier Cabrini from Italy"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to serve the immigrants of America,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "by her example,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "teach us to have concern for the stranger,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the sick, and all those in need,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and by her prayers help us to see Christ"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in all the men and women we meet."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "sanctorale.09-24.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Rupert und hl. Virgil, Bischöfe, Glaubensboten"
+  },
+  "description": {
+    "de": "Rupert war zuerst Bischof von Worms und ging danach zur Mission nach Bayern. Um 700 gründete er das Bistum Salzburg und errichtete das Kloster und die Schule Sankt Peter. Um der armen Bevölkerung der Gegend zu helfen, förderte er die Salzgewinnung. Er gab der Stadt Juvavum den Namen Salzburg und starb 718. Virgil war ein gelehrter Ire. Er kam 745 nach Bayern, wurde Abt von Sankt Peter und Bischof der Diözese Salzburg. Die Bischofsweihe empfing er 767. Er begann die Missionierung der Slawen und baute den Dom von Salzburg, den er zu Ehren des heiligen Rupert 774 einweihte. Er starb 784."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Spruch des Herrn: Ich gebe euch Hirten nach meinem Herzen; mit Einsicht und Klugheit werden sie euch weiden."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "de": "Jer 3, 15"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Herr aller Völker, du hast durch die heiligen Bischöfe Rupert und Virgil Menschen verschiedener Sprache und Herkunft in die Gemeinschaft der Kirche eingefügt. Erhalte uns auf die Fürsprache dieser Heiligen in der Einheit des Glaubens und der Liebe. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, nimm diese Gaben aus unserer Hand entgegen. Höre auf die Fürbitte der heiligen Bischöfe Rupert und Virgil und gewähre uns Vergebung im Opfer deines Sohnes, der mit dir lebt und herrscht in alle Ewigkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.09-24.german-speaking.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Väter des Glaubens und Fürsprecher im Himmel"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, am Fest der Heiligen dir zu danken, Herr, unser Gott, und mit den Vätern unseres Glaubens deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sie verkündeten das Wort des Lebens, die Botschaft von Christus, sie führten als gute Hirten dein Volk und traten als treue Knechte ein in die Freude ihres Herrn zum Festmahl des ewigen Lebens."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihre Fürsprache im Glauben und in der Liebe gestärkt, rühmen wir auf Erden deine Barmherzigkeit mit ihnen, die schon vollendet sind in deiner Herrlichkeit durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Er ist das Licht der Gläubigen und der Ruhm deiner Heiligen, die ihre Stimmen mit den Chören der Engel vereinen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Der Menschensohn ist nicht gekommen, um sich bedienen zu lassen, sondern um zu dienen und sein Leben hinzugeben für viele."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "de": "Mt 20, 28"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, bei der Festfeier der heiligen Bischöfe Rupert und Virgil hast du uns mit dem Brot des Lebens gestärkt. Vollende an uns in der Freude des Himmels, was wir auf Erden im Zeichen begehen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "id": "sanctorale.08-19.spain",
+  "kind": "sanctoral",
+  "scope": "spain",
+  "structure": "mass",
+  "title": {
+    "es": "San Ezequiel Moreno Díaz, obispo"
+  },
+  "description": {
+    "es": "Nacido en la Rioja (España), Ezequiel Moreno se consagró a Dios como agustino recoleto en Monteagudo, Navarra, y allí mismo descansan sus restos desde que murió en 1906. Como religioso y como obispo desarrolló un celo apostólico excepcional en tierras de Colombia. Canonizado en Santo Domingo por el papa Juan Pablo II, el día 11 de octubre de 1992, año del V Centenario de la Evangelización de América."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dad gracias al Señor, invocad su nombre, dad a conocer sus hazañas a los pueblos."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos ofreces en san Ezequiel, obispo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "un modelo de fidelidad al Evangelio"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y un pastor según el Corazón de tu Hijo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por su intercesión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, viviendo con alegría nuestro testimonio cristiano,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "estemos plenamente dirigidos hacia ti"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y nos consagremos al servicio de tu Iglesia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Derrama, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu bendición sobre los dones que te presentamos"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en la fiesta de san Ezequiel"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, al recibirlos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "alcancemos de tu misericordia el perdón de nuestras culpas"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y la abundancia de los bienes del cielo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "El Señor mandó a los discípulos que anunciasen a las ciudades: Está cerca de vosotros el Reino de Dios."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Cf. Lc 10, 1. 9"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vivifícanos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por estos sacramentos que hemos recibido"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y, al celebrar con gozo la fiesta de san Ezequiel, obispo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos que el ejemplo de su celo apostólico"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos impulse a crecer cada día en gracia y santidad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

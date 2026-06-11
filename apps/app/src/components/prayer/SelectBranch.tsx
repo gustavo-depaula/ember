@@ -62,7 +62,14 @@ export function SelectBranch({
   if (branch.data) {
     return <YStack gap="$sm">{branch.data.map(renderSection)}</YStack>
   }
-  if (!hasRaw) return undefined
+  // Non-default branch with pre-built `children` and nothing to lazily
+  // preprocess (e.g. the Order-of-Mass form/invitation pickers, which emit
+  // final primitives directly) — render the children as-is.
+  if (!hasRaw) {
+    return option.children.length > 0 ? (
+      <YStack gap="$sm">{option.children.map(renderSection)}</YStack>
+    ) : undefined
+  }
   return <SelectBranchSkeleton />
 }
 

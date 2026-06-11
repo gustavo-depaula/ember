@@ -1,0 +1,202 @@
+{
+  "id": "sanctorale.01-05.united-states",
+  "kind": "sanctoral",
+  "scope": "united-states",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint John Neumann, Bishop"
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Lord, my allotted portion and my cup,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "you it is who hold fast my lot."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "For me the measuring lines have fallen on pleasant site; fair to me indeed is my inheritance."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "en-US": "Ps 16 (15):5-6"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who called the Bishop Saint John Neumann, renowned for his charity and pastoral service,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to shepherd your people in America,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant by his intercession"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that as we foster the Christian education of youth"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and are strengthened by the witness of brotherly love,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may constantly increase the family of your Church. Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Merciful Father,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "look upon the gifts we have placed on your altar and grant that we may reflect"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the image of Christ your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "just as you granted to Saint John Neumann"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to imitate what he celebrated."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Refreshed by our participation in the memorial of the death and resurrection of your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we ask, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that by the example of Saint John Neumann,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may experience the power of this sacrament and remain constantly in the Church"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "by the bond of unity and truth."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

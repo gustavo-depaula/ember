@@ -1,3 +1,0 @@
-[submodule "vendor/ember-extra"]
-	path = vendor/ember-extra
-	url = https://github.com/gustavo-depaula/ember-extra.git

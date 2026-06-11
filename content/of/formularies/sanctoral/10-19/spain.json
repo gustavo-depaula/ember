@@ -1,0 +1,70 @@
+{
+  "id": "sanctorale.10-19.spain",
+  "kind": "sanctoral",
+  "scope": "spain",
+  "structure": "mass",
+  "title": {
+    "es": "San Pedro de Alcántara, presbítero"
+  },
+  "description": {
+    "es": "San Pedro, nacido en Alcántara el año 1499, entró muy joven en la Orden franciscana y llegó a ser provincial. Organizó definitivamente la reforma de los franciscanos en España, siguiendo el mismo espíritu que santa Teresa, de la que fue acertado consejero, ayudándola a llevar a cabo la perfecta reforma del Carmelo. Austero y duro consigo mismo, extremaba su dulzura con los demás. Murió el 18 de octubre de 1562."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor y Dios nuestro,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que hiciste resplandecer a san Pedro de Alcántara"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por su admirable penitencia y su altísima contemplación,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por sus méritos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que caminando en austeridad de vida"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "alcancemos más fácilmente los bienes del cielo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

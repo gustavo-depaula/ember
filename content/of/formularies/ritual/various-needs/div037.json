@@ -1,0 +1,1280 @@
+{
+  "id": "ritual.various-needs.div037",
+  "kind": "ritual",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "II. PRO CIRCUMSTANTIIS PUBLICIS 27. IN AGRIS CONSERENDIS A",
+    "es": "II. POR LAS NECESIDADES PÚBLICAS 27. EN TIEMPO DE SIEMBRA A",
+    "en-US": "Ii. for Civil Needs 27. at Seedtime a",
+    "pt-BR": "Ii. pelas Circunstâncias da Vida Pública 27. no Tempo de Semear a",
+    "it": "PER LA SOCIETÀ CIVILE 27. NEL TEMPO DELLA SEMINA A",
+    "fr": "II. POUR DES CIRCONSTANCES PUBLIQUES 27. POUR LES TRAVAUX DES CHAMPS A",
+    "de": "II. FÜR STAAT UND GESELLSCHAFT 27. BEI DER AUSSAAT A"
+  },
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Bónitas tua, Dómine, sit super nos, et opus mánuum nostrárum secúnda nobis."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Baje a nosotros la bondad del Señor y haga prósperas las obras de nuestras manos."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May your favor, O Lord, be upon us,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and may you give success to the work of our hands."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vossa bondade, Senhor, repouse sobre nós e fazei dar frutos o labor de nossas mãos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "La tua dolcezza, o Signore, sia su di noi, e rendi salda l’opera delle nostre mani."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que vienne sur nous ta douceur, Seigneur !"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Consolide pour nous l’ouvrage de nos mains."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deine Güte, Herr, komme über uns; lass das Werk unserer Hände gedeihen."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, quo iuvánte, sémina terræ mandámus, tua multiplicánda virtúte, concéde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, quæ nostris scimus deésse labóribus, per te, qui das solus increméntum,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "suppleántur abúnde. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "con tu ayuda depositamos las semillas en la tierra que se han de multiplicar con tu poder;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "suple ahora con tu inmensa largueza lo que falta a nuestro afán,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puesto que solo tú das el crecimiento."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, by whose help we sow seeds in the earth that will grow by the effect of your power,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that what we know to be lacking in our labors may be supplied abundantly by you,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "for you alone give increase."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, com vosso auxílio lançamos as sementes na terra que, por vosso poder, haverão de multiplicar-se."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Completai com generosidade o que não conseguimos por nosso trabalho,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pois só de vós vem o crescimento de todas as coisas."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, fiduciosi nel tuo aiuto affidiamo i semi alla terra perché germoglino per la forza della tua potenza creatrice; tu, che solo fai crescere e portare frutto, colma con abbondanza ciò che manca al nostro lavoro. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "avec ton aide nous confions à la terre des semences,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que multiplie ta puissance créatrice ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde largement ce que notre labeur ne suffit pas à réaliser,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puisque toi seul donnes la croissance."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du bist der Herr der Aussaat und der Ernte. Im Vertrauen auf deine Hilfe bestellen wir die Felder, denn du gibst das Wachstum. Was unsere Arbeit nicht leisten kann, das schenke du uns in reicher Fülle. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui verus es corporálium auctor frúctuum et spiritálium summus agrícola,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "da, quǽsumus, labórum proféctus nostrórum, ut fructus terræ abundánter capiámus, et, quæ ab una providéntia sumunt princípium, ad tuam glóriam semper cooperéntur. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "verdadero autor de los frutos materiales y labrador supremo de los frutos del espíritu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "da fecundidad a nuestros trabajos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que consigamos cosecha abundante,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y redunde siempre para tu mayor gloria lo que tiene origen en la providencia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who are the true Creator of the earth's produce and nurture carefully the fruits of the spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "give success to our labors, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that we may gather the fruits of the earth in abundance and that all things, owing their origin to a single providence, may always work as one for your glory."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, verdadeiro autor dos frutos da terra e supremo agricultor dos dons espirituais,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dai fecundidade ao nosso trabalho,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que tenhamos fartas colheitas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e, o que da vossa providência recebermos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "coopere sempre para a vossa glória."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, vero creatore dei frutti della terra e sommo coltivatore delle realtà spirituali, benedici le nostre fatiche, perché possiamo raccogliere con abbondanza il frutto dei campi, e, con i doni della tua provvidenza,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cooperiamo sempre alla tua gloria. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu es vraiment à l’origine des fruits qui nourrissent nos corps et tu fais aussi lever ta moisson dans nos âmes ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’en prions : fais mûrir nos semailles pour que nous récoltions en abondance les fruits de la terre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et donne à tout ce qui provient de ta seule providence de contribuer toujours à ta gloire."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vater im Himmel, du selbst bist der wahre Sämann, von dem das Brot für den Leib und die Gaben des Geistes kommen. Gib unserer Arbeit Erfolg, schenke uns reiche Frucht von der Erde und Wachstum im Geist, damit alles, was in dir seinen Ursprung hat, in unserem Leben zu deiner Ehre zusammenwirke. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf028",
+      "label": {
+        "la": "PRÆFATIO V DE DOMINICIS «PER ANNUM»",
+        "es": "PREFACIO V DOMINICAL DEL TIEMPO ORDINARIO",
+        "en-US": "Preface V of the Sundays in Ordinary Time",
+        "pt-BR": "Prefácio dos Domingos do Tempo Comum V a",
+        "it": "PREFAZIO DELLE DOMENICHE DEL TEMPO ORDINARIO V",
+        "fr": "PRÉFACE DES DIMANCHES N°5",
+        "de": "PRÄFATION FÜR SONNTAGE V"
+      },
+      "excerpt": {
+        "la": "De creatione",
+        "es": "Las maravillas de la creación",
+        "en-US": "Creation",
+        "pt-BR": "criação",
+        "it": "La creazione",
+        "fr": "La création",
+        "de": "Die Schöpfung"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in dominicis «per annum»."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui ómnia mundi eleménta fecísti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et vices disposuísti témporum variári;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hóminem vero formásti ad imáginem tuam,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et rerum ei subiecísti univérsa mirácula,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut vicário múnere dominarétur ómnibus quæ creásti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et in óperum tuórum magnálibus iúgiter te laudáret,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Unde et nos cum ómnibus Angelis te laudámus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "iucúnda celebratióne clamántes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en los domingos del tiempo ordinario."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque creaste el universo entero y estableciste el continuo retorno de las estaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y al hombre, formado a tu imagen y semejanza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sometiste las maravillas del mundo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, en tu nombre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dominara la creación y, al contemplar tus grandezas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en todo momento te alabara,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos con todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "aclamándote llenos de alegría:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "he following Preface is said on Sundays in Ordinary Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you laid the foundations of the world and have arranged the changing of times and seasons;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "you formed man in your own image and set humanity over the whole world in all its wonder,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "to rule in your name over all you have made and for ever praise you in your mighty works,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels, we praise you,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as in joyful celebration we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado nos domingos do Tempo Comum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós criastes o mundo e tudo o que ele contém;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dispusestes os dias e as estações;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "formastes o homem e a mulher à vossa imagem e lhes confiastes as maravilhas do universo para que cuidassem, em vosso nome, de tudo o que criastes e vos louvassem sempre em vossas grandes obras,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, também nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "com todos os Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "em alegre celebração a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle domeniche del Tempo Ordinario."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu hai creato il mondo nella varietà dei suoi elementi e hai disposto l’avvicendarsi dei tempi e delle stagioni."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "All’uomo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fatto a tua immagine,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hai affidato le meraviglie dell’universo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché, fedele interprete dei tuoi disegni,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "si prenda cura di tutto il creato,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e nelle tue opere glorifichi te,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con tutti gli angeli del cielo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "innalziamo a te la nostra lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "acclamando con festosa esultanza:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les Messes des dimanches du temps ordinaire."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Toi, le Créateur de tous les éléments du monde,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Maître des temps et de l’histoire,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu as formé l’homme à ton image et lui as soumis l’univers et ses merveilles ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu lui as confié ta création afin qu’il en soit le gardien et qu’en admirant ton œuvre il ne cesse de te rendre grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi nous te louons avec tous les anges et, dans la joie, nous te célébrons en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an den Sonntagen im Jahreskreis genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und dich mit der ganzen Schöpfung zu loben."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn du hast die Welt mit all ihren Kräften ins Dasein gerufen und sie dem Wechsel der Zeit unterworfen. Den Menschen aber hast du auf dein Bild hin geschaffen und ihm das Werk deiner Allmacht übergeben."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Du hast ihn bestimmt, über die Erde zu herrschen, dir, seinem Herrn und Schöpfer, zu dienen und das Lob deiner großen Taten zu verkünden durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum singen wir mit den Engeln und Erzengeln, den Thronen und Mächten und mit all den Scharen des himmlischen Heeres den Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dóminus dabit benignitátem, et terra nostra dabit fructum suum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "El Señor nos dará la lluvia, y nuestra tierra dará su fruto."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Il Signore donerà il suo bene e la nostra terra darà il suo frutto."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Qui tuis nos, Dómine, réficis sacraméntis, mánuum nostrárum adésto labóribus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, qui in te vívimus, movémur et sumus, terræ semínibus benedictióne concéssa de segétibus multiplicátis nutriámur. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, que nos nutres con tus sacramentos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "asístenos en el trabajo de nuestras manos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y puesto que en ti vivimos, nos movemos y existimos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos que, por la bendición otorgada a las semillas de la tierra,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos alimentemos de cosechas abundantes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Lord, who renew us with your sacraments,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "assist, we pray, the work of our hands,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that we, who live and move and have our being in you, may,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "through your blessing of the seeds of the earth,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "be fed by abundant crops."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, que nos refazeis com o vosso sacramento,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "favorecei o trabalho de nossas mãos e abençoai as nossas semeaduras,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que possamos alimentar-nos com o fruto de colheitas abundantes pois em vós vivemos, nos movemos e somos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, che ci nutri con i tuoi sacramenti, accompagna il lavoro delle nostre mani perché noi, che in te viviamo, ci muoviamo ed esistiamo, grazie alla benedizione da te accordata ai semi gettati nella terra, siamo nutriti da raccolti abbondanti. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Toi qui as refait nos forces par tes sacrements, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "veille sur l’ouvrage de nos mains ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puisque nous avons en toi la vie, le mouvement et l’être,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "bénis les semences de la terre et, par des récoltes abondantes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne-nous la nourriture dont nous avons besoin."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, du hast uns gestärkt durch das heilige Sakrament. Sei mit deiner Güte zugegen, wenn wir die Felder bestellen, denn in dir leben wir,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "bewegen wir uns und sind wir. Segne die Aussaat und lasse sie reiche Frucht bringen zu unserer Nahrung. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "sanctorale.02-26.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Alexander of Alexandria, Bishop"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Father, who called Saint Alexander to uphold your truth"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and to nourish your family with his teaching,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "by his prayers, renew us in faith and love"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we may always spread the Gospel of Christ"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and foster unity and communion in the Church."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

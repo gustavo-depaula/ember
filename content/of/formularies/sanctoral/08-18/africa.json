@@ -1,0 +1,85 @@
+{
+  "id": "sanctorale.08-18.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Blessed Victoria Rasoamanarivo"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Father of mercy, who called Blessed Victoria"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to be a faithful servant in your Church"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and to strengthen your people in their faith"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in times of trials and persecutions;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that through her prayers,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may be filled with your Spirit"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in order to work for the spreading of your Kingdom."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

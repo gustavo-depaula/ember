@@ -1,0 +1,4028 @@
+{
+  "id": "tempore.lent.week-3.tuesday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Hebdomada III Feria tertia",
+    "es": "Cuaresma Martes de la III Semana",
+    "en-US": "Tuesday of the Iii Week of Lent",
+    "pt-BR": "Terça-feira da Iii Semana da Quaresma",
+    "it": "III SETTIMANA DI QUARESIMA Martedì",
+    "fr": "3e semaine Mardi",
+    "de": "Dienstag der 3. Woche"
+  },
+  "season": "lent",
+  "color": "violet",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ego clamávi, quóniam exaudísti me, Deus; inclína aurem tuam, et exáudi verba mea. Custódi me, Dómine, ut pupíllam óculi; sub umbra alárum tuárum prótege me."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Yo te invoco porque tú me respondes, Dios mío; inclina el oído y escucha mis palabras. Guárdame como a las niñas de tus ojos, a la sombra de tus alas escóndeme."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "To you I call, for you will surely heed me, O God; turn your ear to me; hear my words."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Guard me as the apple of your eye;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in the shadow of your wings protect me."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Eu vos chamo, ó meu Deus, porque me ouvis,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "inclinai o vosso ouvido e escutai-me!"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Protegei-me qual dos olhos a pupila e guardai-me, à proteção de vossas asas."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Io t’invoco, o Dio, perché tu mi rispondi; tendi a me l’orecchio, ascolta le mie parole. Custodiscimi come pupilla degli occhi, all’ombra delle tue ali nascondimi."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Je t’appelle,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "toi, le Dieu qui répond :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "écoute-moi, entends ce que je dis."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Garde-moi comme la prunelle de l'œil ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "à l’ombre de tes ailes, cache-moi."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ich rufe dich an, denn du, Gott, erhörst mich."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Wende dein Ohr mir zu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "vernimm meine Rede!"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Behüte mich wie den Augapfel, den Stern des Auges,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "birg mich im Schatten deiner Flügel."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grátia tua ne nos, quǽsumus, Dómine, derelínquat, quæ et sacræ nos déditos fáciat servitúti, et tuam nobis opem semper acquírat. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, que tu gracia no nos abandone, para que, entregados plenamente a tu servicio, sintamos sobre nosotros tu protección continua."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May your grace not forsake us, O Lord, we pray, but make us dedicated to your holy service and at all times obtain for us your help."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, a vossa graça não nos abandone,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mas nos faça dedicados ao vosso santo serviço e sempre nos obtenha o vosso auxílio."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Non ci abbandoni mai la tua grazia, o Signore, ci renda fedeli al tuo santo servizio e ci ottenga sempre il tuo aiuto. Per il nostro Signore Gesù Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que ta grâce ne nous abandonne pas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, nous t’en prions :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qu’elle nous consacre à ton service et nous obtienne toujours ton aide."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, verlass uns nicht in diesen Tagen der Buße."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Steh uns mit deiner Gnade bei, damit wir mit ganzer Bereitschaft den Dienst vollziehen, den du uns aufgetragen hast."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Dan 3, 25. 34-43",
+              "es": "Dn 3, 25.34-43",
+              "en-US": "Dn 3:25.34-43",
+              "pt-BR": "Dn 3, 25.34-43",
+              "it": "Dn 3, 25.34-45",
+              "fr": "Dn 3, 25.34-43",
+              "de": "Dan 3, 25. 34-43"
+            },
+            "introduction": {
+              "la": "Léctio libri Daniélis prophétæ",
+              "es": "Lectura del libro del profeta Daniel",
+              "en-US": "A reading from the Book of Prophet Daniel",
+              "pt-BR": "Leitura da Profecia de Daniel",
+              "it": "Dal libro del profeta Daniele",
+              "fr": "Livre de Daniel",
+              "de": "Lesung aus dem Buch Daniel"
+            },
+            "summary": {
+              "la": "In ánima contrita et spiritu humilitatis suscipiamur",
+              "es": "Acepta nuestro corazón contrito y nuestro espíritu humilde",
+              "pt-BR": "De alma contrita e em espírito de humildade, sejamos acolhidos.",
+              "it": "Accoglici, Signore, con il cuore contrito e con lo spirito umiliato."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In diébus illis: Stans Azarías orávit sic aperiénsque os suum in médio ignis ait: «Ne, quǽsumus, tradas nos in perpétuum propter nomen tuum et ne díssipes testaméntum tuum neque áuferas misericórdiam tuam a nobis propter Abraham diléctum tuum et Isaac servum tuum et Israel sanctum tuum, quibus dixísti quod multiplicáres semen eórum sicut stellas cæli et sicut arénam, quæ est in lítore maris. Quia, Dómine, imminúti sumus plus quam omnes gentes sumúsque húmiles in univérsa terra hódie propter peccáta nostra; et non est in témpore hoc princeps et prophéta et dux neque holocáustum neque sacrifícium neque oblátio neque incénsum neque locus primitiárum coram te, ut possímus inveníre misericórdiam. Sed in ánima contríta et spíritu humilitátis suscipiámur sicut in holocáusto aríetum et taurórum et sicut in mílibus agnórum pínguium; sic fiat sacrifícium nostrum in conspéctu tuo hódie, et pérfice subsequéntes te, quóniam non est confúsio confidéntibus in te. Et nunc séquimur te in toto corde et timémus te et quǽrimus fáciem tuam; ne confúndas nos, sed fac nobíscum iuxta mansuetúdinem tuam et secúndum multitúdinem misericórdiæ tuæ et érue nos in mirabílibus tuis et da glóriam nómini tuo, Dómine»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquellos días, Azarías, puesto en pie, oró de esta forma; alzó la voz en medio del fuego y dijo: «Por el honor de tu nombre, no nos desampares para siempre, no rompas tu alianza, no apartes de nosotros tu misericordia. Por Abrahán, tu amigo; por Isaac, tu siervo; por Israel, tu consagrado; a quienes prometiste multiplicar su descendencia como las estrellas del cielo, como la arena de las playas marinas. Pero ahora, Señor, somos el más pequeño de todos los pueblos; hoy estamos humillados por toda la tierra a causa de nuestros pecados. En este momento no tenemos príncipes, ni profetas, ni jefes; ni holocausto, ni sacrificios, ni ofrendas, ni incienso; ni un sitio donde ofrecerte primicias, para alcanzar misericordia. Por eso, acepta nuestro corazón contrito y nuestro espíritu humilde, como un holocausto de carneros y toros o una multitud de corderos cebados. Que este sea hoy nuestro sacrificio, y que sea agradable en tu presencia: porque los que en ti confían no quedan defraudados. Ahora te seguimos de todo corazón, te respetamos, y buscamos tu rostro; no nos defraudes, Señor; trátanos según tu piedad, según tu gran misericordia. Líbranos con tu poder maravilloso y da gloria a tu nombre, Señor»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Azariah stood in the heart of the fire, and he began to pray: Oh! Do not abandon us for ever, for the sake of your name; do not repudiate your covenant, do not withdraw your favour from us, for the sake of Abraham, your friend, of Isaac your servant, and of Israel your holy one, to whom you promised descendants as countless as the stars of heaven and as the grains of sand on the seashore. Lord, now we are the least of all the nations, now we are despised throughout the world, today, because of our sins. We have at this time no leader, no prophet, no prince, no holocaust, no sacrifice, no oblation, no incense, no place where we can offer you the first-fruits and win your favour. But may the contrite soul, the humbled spirit be as acceptable to you as holocausts of rams and bullocks, as thousands of fattened lambs: such let our sacrifice be to you today, and may it be your will that we follow you wholeheartedly, since those who put their trust in you will not be disappointed. And now we put our whole heart into following you, into fearing you and seeking your face once more. Do not disappoint us; treat us gently, as you yourself are gentle and very merciful. Grant us deliverance worthy of your wonderful deeds, let your name win glory, Lord."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naqueles dias, Azarias, parou e, de pé, começou a rezar; abrindo a boca no meio do fogo, disse: \"Oh! não nos desampares nunca, nós te pedimos, por teu nome, não desfaças tua aliança nem retires de nós tua benevolência, por Abraão, teu amigo, por Isaac, teu servo, e por Israel, teu Santo, aos quais prometeste multiplicar a descendência como estrelas do céu e como areia que está na beira do mar; Senhor, estamos hoje reduzidos ao menor de todos os povos, somos hoje o mais humilde em toda a terra, por causa de nossos pecados; neste tempo estamos sem chefes, sem profetas, sem guia, não há holocausto nem sacrifício, não há oblação nem incenso, não há um lugar para oferecermos em tua presença as primícias, e encontrarmos benevolência; mas, de alma contrita e em espírito de humildade, sejamos acolhidos, e como nos holocaustos de carneiros e touros e como nos sacrifícios de milhares de cordeiros gordos, assim se efetue hoje nosso sacrifício em tua presença, e tu faças que nós te sigamos até ao fim; não se sentirá frustrado quem põe em ti sua confiança. De agora em diante, queremos, de todo o coração, seguir-te, temer-te, buscar tua face; não nos deixes confundidos, mas trata-nos segundo a tua clemência e segundo a tua imensa misericórdia; liberta-nos com o poder de tuas maravilhas e torna teu nome glorificado, Senhor\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quei giorni, Azaria si alzò e fece questa preghiera in mezzo al fuoco e aprendo la bocca disse: «Non ci abbandonare fino in fondo, per amore del tuo nome, non infrangere la tua alleanza; non ritirare da noi la tua misericordia, per amore di Abramo, tuo amico, di Isacco, tuo servo, di Israele, tuo santo, ai quali hai parlato, promettendo di moltiplicare la loro stirpe come le stelle del cielo, come la sabbia sulla spiaggia del mare. Ora invece, Signore, noi siamo diventati più piccoli di qualunque altra nazione, oggi siamo umiliati per tutta la terra a causa dei nostri peccati. Ora non abbiamo più né principe, né profeta né capo né olocausto né sacrificio né oblazione né incenso né luogo per presentarti le primizie e trovare misericordia. Potessimo essere accolti con il cuore contrito e con lo spirito umiliato, come olocausti di montoni e di tori, come migliaia di grassi agnelli. Tale sia oggi il nostro sacrificio davanti a te e ti sia gradito, perché non c’è delusione per coloro che confidano in te. Ora ti seguiamo con tutto il cuore, ti temiamo e cerchiamo il tuo volto, non coprirci di vergogna. Fa' con noi secondo la tua clemenza, secondo la tua grande misericordia. Salvaci con i tuoi prodigi, da' gloria al tuo nome, Signore»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ces jours-là, Azarias, debout, priait ainsi ; au milieu du feu, ouvrant la bouche, il dit : À cause de ton nom, ne nous livre pas pour toujours et ne romps pas ton alliance. Ne nous retire pas ta miséricorde, à cause d’Abraham, ton ami, d’Isaac, ton serviteur, et d’Israël que tu as consacré. Tu as dit que tu rendrais leur descendance aussi nombreuse que les astres du ciel, que le sable au rivage des mers. Or nous voici, ô Maître, le moins nombreux de tous les peuples, humiliés aujourd’hui sur toute la terre, à cause de nos péchés. Il n’est plus, en ce temps, ni prince ni chef ni prophète, plus d’holocauste ni de sacrifice, plus d’oblation ni d’offrande d’encens, plus de lieu où t’offrir nos prémices pour obtenir ta miséricorde. Mais, avec nos cœurs brisés, nos esprits humiliés, reçois-nous, comme un holocauste de béliers, de taureaux, d’agneaux gras par milliers. Que notre sacrifice, en ce jour, trouve grâce devant toi, car il n’est pas de honte pour qui espère en toi. Et maintenant, de tout cœur, nous te suivons, nous te craignons et nous cherchons ta face. Ne nous laisse pas dans la honte, agis envers nous selon ton indulgence et l’abondance de ta miséricorde. Délivre-nous en renouvelant tes merveilles, glorifie ton nom, Seigneur."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jenen Tagen sprach Asárja mitten im Feuer folgendes Gebet: Um deines Namens willen verwirf uns nicht für immer; löse deinen Bund nicht auf! Versag uns nicht dein Erbarmen, deinem Freund Abraham zuliebe, deinem Knecht Isaak und Israel, deinem Heiligen, denen du Nachkommen verheißen hast so zahlreich wie die Sterne am Himmel und wie der Sand am Ufer des Meeres. Ach, Herr, wir sind geringer geworden als alle Völker. In aller Welt sind wir heute wegen unserer Sünden erniedrigt. Wir haben in dieser Zeit weder Vorsteher noch Propheten und keinen, der uns anführt, weder Brandopfer noch Schlachtopfer, weder Speiseopfer noch Räucherwerk, noch einen Ort, um dir die Erstlingsgaben darzubringen und um Erbarmen zu finden bei dir. Du aber nimm uns an! Wir kommen mit zerknirschtem Herzen und demütigem Sinn. Wie Brandopfer von Widdern und Stieren, wie Tausende fetter Lämmer, so gelte heute unser Opfer vor dir und verschaffe uns bei dir Sühne. Denn wer dir vertraut, wird nicht beschämt. Wir folgen dir jetzt von ganzem Herzen, fürchten dich und suchen dein Angesicht. Überlass uns nicht der Schande, sondern handle an uns nach deiner Milde, nach deinem überreichen Erbarmen! Errette uns, deinen wunderbaren Taten entsprechend; verschaff deinem Namen Ruhm, Herr!"
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 24",
+              "es": "Sal 24",
+              "en-US": "Ps 24",
+              "pt-BR": "Sl 24",
+              "it": "Sal 24",
+              "fr": "Ps 24",
+              "de": "Ps 25"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Reminíscere miseratiónum tuárum, Dómine."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Recuerda, Señor, tu ternura."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Remember your mercies, O Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Recordai, Senhor, a vossa compaixão!."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ricordati, Signore, della tua misericordia."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Rappelle-toi, Seigneur, ta tendresse."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Denk an dein Erbarmen, o Herr!"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vias tuas, Dómine, demónstra mihi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et sémitas tuas édoce me."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dírige me in veritáte tua et doce me,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quia tu es Deus salútis meæ."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Reminíscere miseratiónum tuárum, Dómine,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et misericordiárum tuárum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quóniam a sǽculo sunt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Secúndum misericórdiam tuam meménto mei tu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "propter bonitátem tuam, Dómine."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dulcis et rectus Dóminus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "propter hoc peccatóres viam docébit;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "díriget mansuétos in iudício,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "docébit mites vias suas."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Señor, enséñame tus caminos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "instrúyeme en tus sendas:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "haz que camine con lealtad;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "enséñame, porque tú eres mi Dios y Salvador."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Recuerda, Señor, que tu ternura y tu misericordia son eternas;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "acuérdate de mí con misericordia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "por tu bondad, Señor."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es bueno y es recto,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y enseña el camino a los pecadores;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hace caminar a los humildes con rectitud,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "enseña su camino a los humildes."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lord, make me know your ways. Lord, teach me your paths. Make me walk in your truth, and teach me: for you are God my savior."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Remember your mercy, Lord, and the love you have shown from of old. In your love remember me, because of your goodness, O Lord."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The Lord is good and upright. He shows the path to those who stray. He guides the humble in the right path; he teaches his way to the poor."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mostrai-me, ó Senhor, vossos caminhos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e fazei-me conhecer a vossa estrada!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vossa verdade me oriente e me conduza,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque sois o Deus da minha salvação."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Recordai, Senhor meu Deus, vossa ternura e a vossa compaixão que são eternas!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "De mim lembrai-vos, porque sois misericórdia e sois bondade sem limites, ó Senhor!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Senhor é piedade e retidão,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e reconduz ao bom caminho os pecadores."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ele dirige os humildes na justiça,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e aos pobres ele ensina o seu caminho."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fammi conoscere, Signore, le tue vie,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "insegnami i tuoi sentieri."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Guidami nella tua fedeltà e istruiscimi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "perché sei tu il Dio della mia salvezza."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ricordati, Signore, della tua misericordia e del tuo amore, che è da sempre."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ricordati di me nella tua misericordia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "per la tua bontà, Signore."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Buono e retto è il Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "indica ai peccatori la via giusta;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "guida i poveri secondo giustizia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "insegna ai poveri la sua via."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seigneur, enseigne-moi tes voies,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "fais-moi connaître ta route."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dirige-moi par ta vérité, enseigne-moi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "car tu es le Dieu qui me sauve."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Rappelle-toi, Seigneur, ta tendresse,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ton amour qui est de toujours."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dans ton amour, ne m’oublie pas,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "en raison de ta bonté, Seigneur."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il est droit, il est bon, le Seigneur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lui qui montre aux pécheurs le chemin."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sa justice dirige les humbles,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il enseigne aux humbles son chemin."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Zeige mir, Herr, deine Wege,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lehre mich deine Pfade!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Führe mich in deiner Treue und lehre mich;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "denn du bist der Gott meines Heiles."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Auf dich hoffe ich allezeit."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denk an dein Erbarmen, Herr,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "und an die Taten deiner Huld denn sie bestehen seit Ewigkeit."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denk nicht an meine Jugendsünden und meine Frevel!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "In deiner Huld denk an mich, Herr, denn du bist gütig."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gut und gerecht ist der Herr,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "darum weist er die Irrenden auf den rechten Weg."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Die Demütigen leitet er nach seinem Recht,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die Gebeugten lehrt er seinen Weg."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "versus-ante-evangelium",
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Nunc ergo, dicit Dóminus, convertímini ad me in toto corde vestro, quia benígnus et miséricors sum."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ahora —dice del Señor—, convertíos a mí de todo corazón, porque soy compasivo y misericordioso."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "With all your heart turn to me for I am tender and compassionate."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Voltai ao Senhor, vosso Deus, ele é bom, compassivo e clemente."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gloria e lode a te, o Cristo! Ritornate a me con tutto il cuore, dice il Signore, perché sono misericordioso e pietoso. Gloria e lode a te, o Cristo!"
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gloire à toi, Seigneur, honneur, puissance et majesté ! Maintenant, dit le Seigneur, revenez à moi de tout votre cœur, car je suis tendre et miséricordieux. Gloire à toi, Seigneur, honneur, puissance et majesté !"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Herr Jesus, dir sei Ruhm und Ehre! Kehrt um zum Herrn von ganzem Herzen; denn er ist gnädig und barmherzig, voll Langmut und reich an Güte. Herr Jesus, dir sei Ruhm und Ehre!"
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Ioel 2, 12a. 13c",
+              "es": "Joel 2, 12a. 13c",
+              "pt-BR": "Jl 2, 12-13",
+              "it": "(Cfr. Gl 2,12-13)",
+              "de": "vgl. Joël 2, 12"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Mt 18, 21-35",
+              "es": "Mt 18, 21-35",
+              "en-US": "Mt 18:21-35",
+              "pt-BR": "Mt 18, 21-35",
+              "it": "Mt 18, 21-35",
+              "fr": "Mt 18, 21-35",
+              "de": "Mt 18, 21-35"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Matthǽum",
+              "es": "✠ Lectura del santo Evangelio según san Mateo",
+              "en-US": "✠ A reading from the holy Gospel according to Matthew",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+              "it": "✠ Dal vangelo secondo Matteo",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Matthieu",
+              "de": "✠ Aus dem heiligen Evangelium nach Matthäus"
+            },
+            "summary": {
+              "la": "Si non remiseritis unusquisque fratri suo, Pater non remittet vobis",
+              "es": "Si cada cual no perdona a su hermano, tampoco el Padre os perdonará",
+              "pt-BR": "Se cada um não perdoar o seu irmão, o Pai não vos perdoará.",
+              "it": "Se non perdonerete di cuore, ciascuno al proprio fratello, il Padre non vi perdonerà."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Accédens Petrus dixit Iesu: «Dómine, quótiens peccábit in me frater meus, et dimíttam ei? Usque sépties?». Dicit illi Iesus: «Non dico tibi usque sépties sed usque septuágies sépties. Ideo assimilátum est regnum cælórum hómini regi, qui vóluit ratiónem pónere cum servis suis. Et cum cœpísset ratiónem pónere, oblátus est ei unus, qui debébat decem mília talénta. Cum autem non habéret, unde rédderet, iussit eum dóminus venúmdari et uxórem et fílios et ómnia, quæ habébat, et reddi. Prócidens ígitur servus ille adorábat eum dicens: «Patiéntiam habe in me, et ómnia reddam tibi». Misértus autem dóminus servi illíus dimísit eum et débitum dimísit ei. Egréssus autem servus ille invénit unum de consérvis suis, qui debébat ei centum denários, et tenens suffocábat eum dicens: «Redde, quod debes!». Prócidens ígitur consérvus eius rogábat eum dicens: «Patiéntiam habe in me, et reddam tibi». Ille autem nóluit, sed ábiit et misit eum in cárcerem, donec rédderet débitum. Vidéntes autem consérvi eius, quæ fiébant, contristáti sunt valde et venérunt et narravérunt dómino suo ómnia, quæ facta erant. Tunc vocávit illum dóminus suus et ait illi: «Serve nequam, omne débitum illud dimísi tibi, quóniam rogásti me; non opórtuit et te miseréri consérvi tui, sicut et ego tui misértus sum?». Et irátus dóminus eius trádidit eum tortóribus, quoadúsque rédderet univérsum débitum. Sic et Pater meus cæléstis fáciet vobis, si non remiséritis unusquísque fratri suo de córdibus vestris»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, acercándose Pedro a Jesús le preguntó: «Señor, si mi hermano me ofende, ¿cuántas veces tengo que perdonarlo? ¿Hasta siete veces?». Jesús le contesta: «No te digo hasta siete veces, sino hasta setenta veces siete. Por esto, se parece el reino de los cielos a un rey que quiso ajustar las cuentas con sus criados. Al empezar a ajustarlas, le presentaron uno que debía diez mil talentos. Como no tenía con qué pagar, el señor mandó que lo vendieran a él con su mujer y sus hijos y todas sus posesiones, y que pagara así. El criado, arrojándose a sus pies, le suplicaba diciendo: “Ten paciencia conmigo y te lo pagaré todo”. Se compadeció el señor de aquel criado y lo dejó marchar, perdonándole la deuda. Pero al salir, el criado aquel encontró a uno de sus compañeros que le debía cien denarios y, agarrándolo, lo estrangulaba diciendo: “Págame lo que me debes”. El compañero, arrojándose a sus pies, le rogaba diciendo: “Ten paciencia conmigo y te lo pagaré”. Pero él se negó y fue y lo metió en la cárcel hasta que pagara lo que debía. Sus compañeros, al ver lo ocurrido, quedaron consternados y fueron a contarle a su señor todo lo sucedido. Entonces el señor lo llamó y le dijo: «¡Siervo malvado! Toda aquella deuda te la perdoné porque me lo rogaste. ¿No debías tú también tener compasión de tu compañero, como yo tuve compasión de ti?”. Y el señor, indignado, lo entregó a los verdugos hasta que pagara toda la deuda. Lo mismo hará con vosotros mi Padre celestial, si cada cual no perdona de corazón a su hermano»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Peter went up to Jesus and said, 'Lord, how often must I forgive my brother if he wrongs me? As often as seven times?' Jesus answered, 'Not seven, I tell you, but seventy-seven times. 'And so the kingdom of heaven may be compared to a king who decided to settle his accounts with his servants. When the reckoning began, they brought him a man who owed ten thousand talents; but he had no means of paying, so his master gave orders that he should be sold, together with his wife and children and all his possessions, to meet the debt. At this, the servant threw himself down at his master's feet. \"Give me time\" he said \"and I will pay the whole sum.\" And the servant's master felt so sorry for him that he let him go and cancelled the debt. Now as this servant went out, he happened to meet a fellow servant who owed him one hundred denarii; and he seized him by the throat and began to throttle him. \"Pay what you owe me\" he said. His fellow servant fell at his feet and implored him, saying, \"Give me time and I will pay you\". But the other would not agree; on the contrary, he had him thrown into prison till he should pay the debt. His fellow servants were deeply distressed when they saw what had happened, and they went to their master and reported the whole affair to him. Then the master sent for him. \"You wicked servant,\" he said \"I cancelled all that debt of yours when you appealed to me. Were you not bound, then, to have pity on your fellow servant just as I had pity on you?\" And in his anger the master handed him over to the torturers till he should pay all his debt. And that is how my heavenly Father will deal with you unless you each forgive your brother from your heart.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, Pedro aproximou-se de Jesus e perguntou: \"Senhor, quantas vezes devo perdoar, se meu irmão pecar contra mim? Até sete vezes?\" Jesus respondeu: \"Não te digo até sete vezes, mas até setenta vezes sete. Porque o Reino dos Céus é como um rei que resolveu acertar as contas com seus empregados. Quando começou o acerto, trouxeram-lhe um que lhe devia uma enorme fortuna. Como o empregado não tivesse com que pagar, o patrão mandou que fosse vendido como escravo, junto com a mulher e os filhos e tudo o que possuía, para que pagasse a dívida. O empregado, porém, caiu aos pés do patrão, e, prostrado, suplicava: 'Dá-me um prazo! e eu te pagarei tudo'. Diante disso, o patrão teve compaixão, soltou o empregado e perdoou-lhe a dívida. Ao sair dali, aquele empregado encontrou um dos seus companheiros que lhe devia apenas cem moedas. Ele o agarrou e começou a sufocá-lo, dizendo: 'Paga o que me deves'. O companheiro, caindo aos seus pés, suplicava: 'Dá-me um prazo! e eu te pagarei'. Mas o empregado não quis saber disso. Saiu e mandou jogá-lo na prisão, até que pagasse o que devia. Vendo o que havia acontecido, os outros empregados ficaram muito tristes, procuraram o patrão e lhe contaram tudo. Então o patrão mandou chamá-lo e lhe disse: 'Empregado perverso, eu te perdoei toda a tua dívida, porque tu me suplicaste. Não devias tu também, ter compaixão do teu companheiro, como eu tive compaixão de ti?' O patrão indignou-se e mandou entregar aquele empregado aos torturadores, até que pagasse toda a sua dívida. É assim que o meu Pai que está nos céus fará convosco, se cada um não perdoar de coração ao seu irmão\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Pietro si avvicinò a Gesù e gli disse: «Signore, se il mio fratello commette colpe contro di me, quante volte dovrò perdonargli? Fino a sette volte?». E Gesù gli rispose: «Non ti dico fino a sette, ma fino a settanta volte sette. Per questo, il regno dei cieli è simile a un re che volle regolare i conti con i suoi servi. Aveva cominciato a regolare i conti, quando gli fu presentato un tale che gli doveva diecimila talenti. Poiché costui non era in grado di restituire, il padrone ordinò che fosse venduto lui con la moglie, i figli e quanto possedeva, e così saldasse il debito. Allora il servo, prostrato a terra, lo supplicava dicendo: \"Abbi pazienza con me e ti restituirò ogni cosa\". Il padrone ebbe compassione di quel servo, lo lasciò andare e gli condonò il debito. Appena uscito, quel servo trovò uno dei suoi compagni, che gli doveva cento denari. Lo prese per il collo e lo soffocava, dicendo: \"Restituisci quel che devi!\". Il suo compagno, prostrato a terra, lo pregava dicendo: \"Abbi pazienza con me e ti restituirò\". Ma egli non volle, andò e lo fece gettare in prigione, fino a che non avesse pagato il debito. Visto quello che accadeva, i suoi compagni furono molto dispiaciuti e andarono a riferire al loro padrone tutto l’accaduto. Allora il padrone fece chiamare quell’uomo e gli disse: \"Servo malvagio, io ti ho condonato tutto quel debito perché tu mi hai pregato. Non dovevi anche tu aver pietà del tuo compagno, così come io ho avuto pietà di te?\". Sdegnato, il padrone lo diede in mano agli aguzzini, finché non avesse restituito tutto il dovuto. Così anche il Padre mio celeste farà con voi se non perdonerete di cuore, ciascuno al proprio fratello». Parola del Signore"
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Pierre s’approcha de Jésus pour lui demander : « Seigneur, lorsque mon frère commettra des fautes contre moi, combien de fois dois-je lui pardonner ? Jusqu’à sept fois ? » Jésus lui répondit : « Je ne te dis pas jusqu’à sept fois, mais jusqu’à soixante-dix fois sept fois. Ainsi, le royaume des Cieux est comparable à un roi qui voulut régler ses comptes avec ses serviteurs. Il commençait, quand on lui amena quelqu’un qui lui devait dix mille talents (c’est-à-dire soixante millions de pièces d’argent). Comme cet homme n’avait pas de quoi rembourser, le maître ordonna de le vendre, avec sa femme, ses enfants et tous ses biens, en remboursement de sa dette. Alors, tombant à ses pieds, le serviteur demeurait prosterné et disait : “Prends patience envers moi, et je te rembourserai tout.” Saisi de compassion, le maître de ce serviteur le laissa partir et lui remit sa dette. Mais, en sortant, ce serviteur trouva un de ses compagnons qui lui devait cent pièces d’argent. Il se jeta sur lui pour l’étrangler, en disant : “Rembourse ta dette !” Alors, tombant à ses pieds, son compagnon le suppliait : “Prends patience envers moi, et je te rembourserai.” Mais l’autre refusa et le fit jeter en prison jusqu’à ce qu’il ait remboursé ce qu’il devait. Ses compagnons, voyant cela, furent profondément attristés et allèrent raconter à leur maître tout ce qui s’était passé. Alors celui-ci le fit appeler et lui dit : “Serviteur mauvais ! je t’avais remis toute cette dette parce que tu m’avais supplié. Ne devais-tu pas, à ton tour, avoir pitié de ton compagnon, comme moi-même j’avais eu pitié de toi ?” Dans sa colère, son maître le livra aux bourreaux jusqu’à ce qu’il eût remboursé tout ce qu’il devait. C’est ainsi que mon Père du ciel vous traitera, si chacun de vous ne pardonne pas à son frère du fond du cœur. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit trat Petrus zu Jesus und fragte: Herr, wie oft muss ich meinem Bruder vergeben, wenn er sich gegen mich versündigt? Siebenmal? Jesus sagte zu ihm: Nicht siebenmal, sondern siebenundsiebzigmal. Mit dem Himmelreich ist es deshalb wie mit einem König, der beschloss, von seinen Dienern Rechenschaft zu verlangen. Als er nun mit der Abrechnung begann, brachte man einen zu ihm, der ihm zehntausend Talente schuldig war. Weil er aber das Geld nicht zurückzahlen konnte, befahl der Herr, ihn mit Frau und Kindern und allem, was er besaß, zu verkaufen und so die Schuld zu begleichen. Da fiel der Diener vor ihm auf die Knie und bat: Hab Geduld mit mir! Ich werde dir alles zurückzahlen. Der Herr hatte Mitleid mit dem Diener, ließ ihn gehen und schenkte ihm die Schuld. Als nun der Diener hinausging, traf er einen anderen Diener seines Herrn, der ihm hundert Denare schuldig war. Er packte ihn, würgte ihn und rief: Bezahl, was du mir schuldig bist! Da fiel der andere vor ihm nieder und flehte: Hab Geduld mit mir! Ich werde es dir zurückzahlen. Er aber wollte nicht, sondern ging weg und ließ ihn ins Gefängnis werfen, bis er die Schuld bezahlt habe. Als die übrigen Diener das sahen, waren sie sehr betrübt; sie gingen zu ihrem Herrn und berichteten ihm alles, was geschehen war. Da ließ ihn sein Herr rufen und sagte zu ihm: Du elender Diener! Deine ganze Schuld habe ich dir erlassen, weil du mich so angefleht hast. Hättest nicht auch du mit jenem, der gemeinsam mit dir in meinem Dienst steht, Erbarmen haben müssen, so wie ich mit dir Erbarmen hatte? Und in seinem Zorn übergab ihn der Herr den Folterknechten, bis er die ganze Schuld bezahlt habe. Ebenso wird mein himmlischer Vater jeden von euch behandeln, der seinem Bruder nicht von ganzem Herzen vergibt."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palvra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concéde nobis, quǽsumus, Dómine, ut hæc hóstia salutáris nostrórum fiat purgátio delictórum, et tuæ propitiátio potestátis. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concédenos, Señor, que este sacrificio de salvación, purifique nuestros pecados y atraiga sobre nosotros la ayuda de tu poder."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant us, O Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that this saving sacrifice may cleanse us of our faults and become an oblation pleasing to your almighty power."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedei-nos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que este sacrifício salvador nos purifique dos pecados e faça de nós um louvor da vossa glória."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedi, o Signore, che questo sacrificio di salvezza ci purifichi dai peccati e ci ottenga il dono della tua misericordia. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nous t’en prions, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ce sacrifice offert pour notre salut nous purifie de nos fautes et attire sur nous la puissance de ton pardon."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dieses heilige und heilbringende Opfer tilge unsere Vergehen und versöhne uns mit dir."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Christus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf009",
+      "label": {
+        "la": "PRÆFATIO I DE QUADRAGESIMA",
+        "es": "PREFACIO I DE CUARESMA",
+        "en-US": "Preface I of Lent",
+        "pt-BR": "Prefácio da Quaresma I o",
+        "it": "PREFAZIO DELLA QUARESIMA I",
+        "fr": "PRÉFACE DE CARÊME N°1",
+        "de": "PRÄFATION FÜR DIE FASTENZEIT I"
+      },
+      "excerpt": {
+        "la": "De spiritali significatione Quadragesimæ",
+        "es": "Significación espiritual de la Cuaresma",
+        "en-US": "The spiritual meaning of Lent",
+        "pt-BR": "sentido espiritual da Quaresma",
+        "it": "Il significato spirituale della Quaresima",
+        "fr": "La signification spirituelle du Carême",
+        "de": "Der geistliche Sinn der Fastenzeit"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur témpore Quadragesimæ, præsertim vero in dominicis, quando non est dicenda alia præfatio magis propria."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia fidélibus tuis dignánter concédis quotánnis paschália sacraménta in gáudio purificátis méntibus exspectáre:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut, pietátis offícia et ópera caritátis propénsius exsequéntes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "frequentatióne mysteriórum, quibus renáti sunt,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ad grátiæ filiórum plenitúdinem perducántur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Thronis et Dominatiónibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque omni milítia cæléstis exércitus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum glóriæ tuæ cánimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en el tiempo de Cuaresma, sobre todo en los domingos, cuando no tienen prefacio propio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él concedes a tus fieles anhelar, año tras año,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con el gozo de habernos purificado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los sacramentos pascuales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, dedicados con mayor entrega a la oración y a la caridad fraterna,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por la celebración de los misterios que nos dieron nueva vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lleguemos a ser con plenitud hijos de Dios."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tronos y dominaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y con todos los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos sin cesar el himno de tu gloria:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of Lent, especially on Sundays when a more specific Preface is not prescribed."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For by your gracious gift each year your faithful await the sacred paschal feasts with the joy of minds made pure,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that, more eagerly intent on prayer and on the works of charity,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and participating in the mysteries by which they have been reborn,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "they may be led to the fullness of grace that you bestow on your sons and daughters."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with Thrones and Dominions,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with all the hosts and Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado na Quaresma, principalmente nos domingos, quando não se deve rezar outro prefácio mais apropriado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Todos os anos concedeis a vossos fiéis a graça de se prepararem para celebrar os sacramentos pascais,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "na alegria de um coração purificado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, dedicando-se mais intensamente à oração e às obras de caridade e celebrando os mistérios pelos quais renasceram,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "alcancem a plenitude da filiação divina."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Arcanjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os Tronos e as Dominações e todos os coros celestes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nel Tempo di Quaresima, specialmente nelle domeniche, quando non è indicato un prefazio proprio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ogni anno tu doni ai tuoi fedeli di prepararsi con gioia, purificati nello spirito,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "alla celebrazione della Pasqua,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché, assidui nella preghiera e nella carità operosa, attingano ai misteri della redenzione la pienezza della vita nuova in Cristo tuo Figlio, nostro salvatore."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi, uniti agli Angeli e agli Arcangeli, ai Troni e alle Dominazioni e alla moltitudine dei cori celesti, cantiamo con voce incessante l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car chaque année,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu accordes à tes fidèles de se préparer aux fêtes pascales dans la joie d’un cœur purifié ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de sorte qu’en s’adonnant à une prière plus fervente et à une charité plus active,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fidèles aux sacrements qui les ont fait renaître,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ils soient comblés de la grâce que tu réserves à tes enfants."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les puissances d’en haut et tous les esprits bienheureux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in der Fastenzeit genommen, vor allem an den Sonntagen, für die keine eigene Präfation vorgesehen ist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater im Himmel, zu danken und dein Erbarmen zu preisen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn jedes Jahr schenkst du deinen Gläubigen die Gnade, das Osterfest in der Freude des Heiligen Geistes zu erwarten."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Du mahnst uns in dieser Zeit der Buße zum Gebet und zu Werken der Liebe, du rufst uns zur Feier der Geheimnisse, die in uns die Gnade der Kindschaft erneuern."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "So führst du uns mit geläutertem Herzen zur österlichen Freude und zur Fülle des Lebens durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn rühmen wir deine Größe und vereinen uns mit den Chören der Engel zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf010",
+      "label": {
+        "la": "PRÆFATIO II DE QUADRAGESIMA",
+        "es": "PREFACIO II DE CUARESMA",
+        "en-US": "Preface Ii of Lent",
+        "pt-BR": "Prefácio da Quaresma Ii a",
+        "it": "PREFAZIO DELLA QUARESIMA II",
+        "fr": "PRÉFACE DE CARÊME N°2",
+        "de": "PRÄFATION FÜR DIE FASTENZEIT II"
+      },
+      "excerpt": {
+        "la": "De spiritali pænitentia",
+        "es": "La penitencia espiritual",
+        "en-US": "Spiritual penance",
+        "pt-BR": "penitência espiritual",
+        "it": "La penitenza dello spirito",
+        "fr": "L’esprit de pénitence",
+        "de": "Innere Erneuerung durch Buße"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur témpore Quadragesimæ, præsertim vero in dominicis, quando non est dicenda alia præfatio magis propria."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui fíliis tuis ad reparándam méntium puritátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "témpus præcípuum salúbriter statuísti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quo, mente ab inordinátis afféctibus expedíta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sic incúmberent transitúris ut rebus pótius perpétuis inhærérent."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en el tiempo de Cuaresma, sobre todo en los domingos, cuando no tienen prefacio propio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque has establecido generosamente este tiempo de gracia para renovar en santidad a tus hijos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de modo que, libres de todo afecto desordenado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mientras se ocupan de las realidades temporales no dejen sobre todo de adherirse a las eternas."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y con todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of Lent, especially on Sundays when a more specific Preface is not prescribed."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you have given your children a sacred time for the renewing and purifying of their hearts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "that, freed from disordered affections,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "they may so deal with the things of this passing world as to hold rather to the things that eternally endure."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado na Quaresma, principalmente nos domingos, quando não se deve rezar outro prefácio mais apropriado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor; Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pois estabelecestes este tempo privilegiado de salvação,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que vossos filhos e filhas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "livres dos afetos desordenados,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "recuperem a pureza do coração,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e, usando as coisas que passam,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dediquem-se mais às que não passam."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos sem cessar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nel Tempo di Quaresima, specialmente nelle domeniche, quando non è indicato un prefazio più aderente alla Messa del giorno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu hai stabilito per i tuoi figli un tempo di rinnovamento spirituale perché si convertano a te con tutto il cuore e,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "liberi dai fermenti del peccato,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vivano le vicende di questo mondo sempre rivolti ai beni eterni."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza, uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu offres à tes enfants ce temps de grâce pour qu’ils retrouvent la pureté du cœur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "afin que, l’esprit libéré des passions mauvaises,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ils travaillent à ce monde qui passe,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "en s’attachant surtout aux réalités qui demeurent."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in der Fastenzeit genommen, vor allem an den Sonntagen, für die keine eigene Präfation vorgesehen ist."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Wir danken dir, Vater im Himmel, und rühmen deinen heiligen Namen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn jetzt ist die Zeit der Gnade, jetzt sind die Tage des Heiles. Du hilfst uns, das Böse zu überwinden, du schenkst uns von neuem die Reinheit des Herzens."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Du gibst deinen Kindern die Kraft, in dieser vergänglichen Welt das unvergängliche Heil zu wirken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf011",
+      "label": {
+        "la": "PRÆFATIO III DE QUADRAGESIMA",
+        "es": "PREFACIO III DE CUARESMA",
+        "en-US": "Preface Iii of Lent",
+        "pt-BR": "Prefácio da Quaresma Iii",
+        "it": "PREFAZIO DELLA QUARESIMA III I",
+        "fr": "PRÉFACE DE CARÊME N°3",
+        "de": "PRÄFATION FÜR DIE FASTENZEIT III"
+      },
+      "excerpt": {
+        "la": "De fructibus abstinentiæ",
+        "es": "Los frutos de la abstinencia",
+        "en-US": "The fruits of abstinence",
+        "pt-BR": "Os frutos da abstinência",
+        "it": "frutti della penitenza",
+        "fr": "Les bienfaits de l’abstinence",
+        "de": "Die Früchte der Entsagung"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de feriis Quadragesimæ et in diebus ieiunii."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui nos per abstinéntiam tibi grátias reférre voluísti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut ipsa et nos peccatóres ab insoléntia mitigáret,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et, egéntium profíciens aliménto,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "imitatóres tuæ benignitátis effíceret."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum innúmeris Angelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "una te magnificámus laudis voce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de feria de Cuaresma y en los días de ayuno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tú has querido que te diésemos gracias mediante la abstinencia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que nosotros, pecadores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dominásemos con ella nuestro orgullo e imitásemos tu generosidad dando de comer a los necesitados."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los innumerables ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamamos tu grandeza y te alabamos con una sola voz:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the weekdays of Lent and on days of fasting."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For you will that our self-denial should give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "humble our sinful pride,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "contribute to the feeding of the poor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and so help us imitate you in your kindness."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so we glorify you with countless Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as with one voice of praise we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado nas Missas dos dias de semana da Quaresma e em dias de jejum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós quisestes que vos rendêssemos graças por meio da abstinência,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, por ela, nós pecadores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "moderemos nossos excessos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e, partilhando o alimento com os necessitados,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sejamos imitadores da vossa bondade."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos glorificamos com um hino de louvor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe delle ferie di Quaresima e nei giorni di digiuno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu vuoi che ti glorifichiamo con la penitenza quaresimale,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché la vittoria sul nostro peccato ci renda disponibili alle necessità dei poveri a imitazione della tua bontà infinita."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi, uniti a tutti gli angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo a una sola voce l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu as voulu que nous te rendions grâce par nos privations :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "elles rabaissent notre orgueil de pécheurs et nous invitent à suivre l’exemple de ta bonté en nous faisant partager avec ceux qui ont faim."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les anges innombrables,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "d’une seule voix nous célébrons ta louange en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an den Werktagen der Fastenzeit und an sonstigen Fasttagen genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und dich in dieser Zeit der Buße durch Entsagung zu ehren."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Die Entsagung mindert in uns die Selbstsucht und öffnet unser Herz für die Armen. Denn deine Barmherzigkeit drängt uns, das Brot mit ihnen zu teilen in der Liebe deines Sohnes, unseres Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir deine Größe und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf012",
+      "label": {
+        "la": "PRÆFATIO IV DE QUADRAGESIMA",
+        "es": "PREFACIO IV DE CUARESMA",
+        "en-US": "Preface Iv of Lent",
+        "pt-BR": "Prefácio da Quaresma Iv",
+        "it": "PREFAZIO DELLA QUARESIMA IV I",
+        "fr": "PRÉFACE DE CARÊME N°4",
+        "de": "PRÄFATION FÜR DIE FASTENZEIT IV"
+      },
+      "excerpt": {
+        "la": "De fructibus ieiunii",
+        "es": "Los frutos del ayuno",
+        "en-US": "The fruits of fasting",
+        "pt-BR": "Os frutos do jejum",
+        "it": "frutti del digiuno",
+        "fr": "Les bienfaits du jeûne",
+        "de": "Das Fasten als Sieg"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de feriis Quadragesimæ et in diebus ieiunii."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui corporáli ieiúnio vítia cómprimis, mentem élevas,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "virtútem largíris et prǽmia:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per quem maiestátem tuam laudant Angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "adórant Dominatiónes, tremunt Potestátes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cæli cælorúmque Virtútes, ac beáta Séraphim,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sócia exsultatióne concélebrant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cum quibus et nostras voces ut admítti iúbeas, deprecámur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "súpplici confessióne dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de feria de Cuaresma y en los días de ayuno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tú, que, por el ayuno corporal,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "refrenas nuestras pasiones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "elevas nuestro espíritu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos das fuerza y recompensa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los ángeles alaban tu gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te adoran las dominaciones y tiemblan las potestades,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los cielos, sus virtudes y los santos serafines te celebran unidos en común alegría."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Permítenos asociarnos a sus voces cantando humildemente tu alabanza:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the weekdays of Lent and on days of fasting."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For through bodily fasting you restrain our faults,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "raise up our minds,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and bestow both virtue and its rewards,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Through him the Angels praise your majesty,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dominions adore and Powers tremble before you."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Heaven and the Virtues of heaven and the blessed Seraphim worship together with exultation."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "May our voices, we pray, join with theirs in humble praise, as we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado nas Missas dos dias de semana da Quaresma e em dias de jejum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pelo jejum quaresmal corrigis nossos vícios,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "elevais nosso espírito,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e nos dais força e recompensa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele, os Anjos louvam vossa majestade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as Dominações adoram, as Potestades tremem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as Virtudes celestiais e os Serafins celebram com exultação."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Concedei, também a nós, associar-nos a seus louvores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe delle ferie di Quaresima e nei giorni di digiuno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Con il digiuno quaresimale tu vinci le nostre passioni, elevi lo spirito,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "infondi la forza e doni il premio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per mezzo di lui gli Angeli lodano la tua gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "le Dominazioni ti adorano, le Potenze ti venerano con tremore;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a te inneggiano i cieli dei cieli e i Serafini, uniti in eterna esultanza."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Al loro canto concedi, o Signore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "che si uniscano le nostre umili voci nell’inno di lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car tu veux, par notre jeûne et nos privations,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "réprimer nos penchants mauvais,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "élever nos esprits,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous donner la force et enfin la récompense, par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par lui, les anges célèbrent ta grandeur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et les esprits bienheureux adorent ta gloire ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par lui s’inclinent devant toi les puissances d’en haut et tressaillent d’une même allégresse les innombrables créatures des cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "À leur hymne de louange,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "laisse-nous joindre nos voix pour chanter et proclamer :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "À leur hymne de louange,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "laisse-nous joindre nos voix pour chanter et proclamer :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an den Werktagen der Fastenzeit und an sonstigen Fasttagen genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch das Fasten des Leibes hältst du die Sünde nieder, erhebst du den Geist, gibst du uns die Kraft und den Sieg durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dein Erbarmen und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf013",
+      "label": {
+        "es": "PREFACIO V DE CUARESMA",
+        "it": "PREFAZIO DELLA QUARESIMA V"
+      },
+      "excerpt": {
+        "es": "El camino del éxodo en el desierto cuaresmal",
+        "it": "La via dell’esodo nel deserto quaresimale"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas de las ferias de Cuaresma."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo bendecir tu nombre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Padre rico en misericordia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ahora que, en nuestro itinerario hacia la luz pascual,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "seguimos los pasos de Cristo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "maestro y modelo de la humanidad reconciliada en el amor."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tú abres a la Iglesia el camino de un nuevo éxodo a través del desierto cuaresmal,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, llegados a la montaña santa con el corazón contrito y humillado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "reavivemos nuestra vocación de pueblo de la alianza convocado para bendecir tu nombre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "escuchar tu Palabra y experimentar con gozo tus maravillas."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por estos signos de salvación,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ministros de tu gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamamos el canto de tu alabanza:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe delle ferie di Quaresima."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente giusto benedire il tuo nome, Padre santo, ricco di misericordia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nel nostro itinerario verso la luce pasquale sulle orme di Cristo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "maestro e modello dell’umanità riconciliata nell’amore."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu riapri alla Chiesa la strada dell’esodo attraverso il deserto quaresimale,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché ai piedi della santa montagna, con il cuore contrito e umiliato,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "prenda coscienza della sua vocazione di popolo dell’alleanza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "convocato per la tua lode nell’ascolto della tua parola e nell’esperienza gioiosa dei tuoi prodigi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questi segni di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "insieme agli angeli, ministri della tua gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamiamo nel canto la tua lode:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dómine, quis habitábit in tabernáculo tuo?; aut quis requiéscet in monte sancto tuo? Qui ingréditur sine mácula, et operátur iustítiam."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, ¿quién puede hospedarse en tu tienda y habitar en tu monte santo? El que procede honradamente y practica la justicia."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lord, who may abide in your tent,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and dwell on your holy mountain?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Whoever walks without fault and does what is just."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, quem morará em vossa casa,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e em vosso monte santo habitará?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "É aquele que caminha sem pecado e pratica a justiça fielmente."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Signore, chi abiterà nella tua tenda? Chi dimorerà sul tuo santo monte? Colui che cammina senza colpa e pratica la giustizia."
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "Oppure: Cf. Mt 18, 32-33"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Io ti ho condonato tutto quel debito perché tu mi hai pregato. Non dovevi anche tu aver pietà del tuo fratello?"
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, qui séjournera sous ta tente ?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Qui habitera ta sainte montagne ?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Celui qui se conduit parfaitement,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui agit avec justice."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, wer darf Gast sein in deinem Zelt, wer darf weilen auf deinem heiligen Berg? Der makellos lebt und das Rechte tut."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vivíficet nos, quǽsumus, Dómine, huius participátio sancta mystérii, et páriter nobis expiatiónem tríbuat et munímen. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "La participación en este santo sacramento nos vivifique, Señor, expíe nuestros pecados y nos otorgue tu protección."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the holy partaking of this mystery give us life, O Lord, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and grant us both pardon and protection."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nós vos pedimos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que a santa participação neste mistério renove a nossa vida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos obtenha a remissão dos pecados e o auxílio da vossa proteção."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "La partecipazione ai santi misteri rinnovi, o Padre, la nostra vita, ci ottenga la libertà dal peccato e il conforto della tua protezione. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que cette participation à ton saint mystère, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fasse grandir en nous la vie :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qu’elle nous apporte à la fois le rachat de nos fautes et le secours de ta protection."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, dieses heilige Sakrament tilge unsere Schuld und gewähre uns deinen Schutz."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Es entreiße uns der Gleichgültigkeit und erwecke in uns einen lebendigen Glauben."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch Christus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverPeople": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Pópuli tui, Deus, institútor et rector, peccáta, quibus impugnátur, expélle,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut semper tibi plácitus et tuo munímine sit secúrus. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios, maestro y guía de tu pueblo, aleja de él los pecados que le afean,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que te sea siempre agradable y se sienta seguro con tu auxilio."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, founder and ruler of your people, drive away the sins that assail them,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that they may always be pleasing to you and ever safe under your protection."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, Pai e Pastor do vosso povo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afastai os pecados que o oprimem para que sempre vos possa agradar e ter certeza da vossa proteção."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "toi qui formes et diriges ton peuple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "repousse les péchés qui l’assaillent,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin qu’il puisse toujours te plaire,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et que ta protection le délivre de toute inquiétude."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

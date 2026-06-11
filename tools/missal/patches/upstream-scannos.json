@@ -1,0 +1,140 @@
+[
+  {
+    "match": "do qu me deu",
+    "replace": "do que me deu",
+    "lang": "pt-BR",
+    "note": "sanctorale 11-02: OCR dropped the final e of 'que'"
+  },
+  {
+    "match": "esinter",
+    "replace": "es inter",
+    "lang": "la",
+    "note": "Latin 'dignátus esinter labóres': missing space"
+  },
+  {
+    "match": "o .seu amor",
+    "replace": "o seu amor",
+    "lang": "pt-BR",
+    "note": "stray period mid-text"
+  },
+  {
+    "match": "(E . alleluia )",
+    "replace": "(E. T. alleluia)",
+    "lang": "en-US",
+    "note": "Easter Time abbreviation mangled upstream"
+  },
+  {
+    "match": "with christ",
+    "replace": "with Christ",
+    "lang": "en-US",
+    "note": "lowercase Christ after 'with'"
+  },
+  {
+    "match": "aSim",
+    "replace": "assim",
+    "lang": "pt-BR",
+    "note": "OCR of doubled ss rendered as capital S"
+  },
+  {
+    "match": "rnJentras",
+    "replace": "mientras",
+    "lang": "es",
+    "note": "Spanish OCR m→rn, i→J"
+  },
+  {
+    "match": "sacerdoTali",
+    "replace": "sacerdotali",
+    "lang": "la",
+    "note": "mid-word capital"
+  },
+  {
+    "match": "sacerdótesDeo",
+    "replace": "sacerdótes Deo",
+    "lang": "la",
+    "note": "missing space"
+  },
+  {
+    "match": "beatárumNous",
+    "replace": "beatárum Nous",
+    "lang": "fr",
+    "note": "concatenated Latin+French"
+  },
+  {
+    "match": "tuórumSeigneur",
+    "replace": "tuórum Seigneur",
+    "lang": "fr",
+    "note": "concatenated Latin+French"
+  },
+  {
+    "match": "sanAccogli",
+    "replace": "san Accogli",
+    "lang": "it",
+    "note": "missing space after 'san'"
+  },
+  {
+    "match": "Procesion",
+    "replace": "Procession",
+    "lang": "en-US",
+    "note": "palm-sunday metadata typo"
+  },
+  {
+    "match": "Comemoration",
+    "replace": "Commemoration",
+    "lang": "en-US",
+    "note": "lord's-supper section heading typo"
+  },
+  {
+    "match": "do ano 250 􀄋 356",
+    "replace": "do ano 250 a 356",
+    "lang": "pt-BR",
+    "note": "sanctorale 01-17: PUA glyph U+10010B for the year-range word"
+  },
+  {
+    "match": "Concedei􀂊nos",
+    "replace": "Concedei-nos",
+    "lang": "pt-BR",
+    "note": "sanctorale 02-05: PUA glyph U+10008A for hyphen in 'Concedei-nos'"
+  },
+  {
+    "match": "em todo5 05 5􀃝tores",
+    "replace": "em todos os setores",
+    "lang": "pt-BR",
+    "note": "sanctorale 04-30: OCR garble (5->s, 0->o) + PUA U+1000DD; 'em todos os setores'"
+  },
+  {
+    "match": "os novo􀃞 textos",
+    "replace": "os novos textos",
+    "lang": "pt-BR",
+    "note": "sanctorale 04-30: PUA U+1000DE for final s of 'novos'"
+  },
+  {
+    "match": "destes 􀁂o mártir",
+    "replace": "destes ao mártir",
+    "lang": "pt-BR",
+    "note": "sanctorale 12-29: PUA U+100042 for 'a' in 'ao'"
+  },
+  {
+    "match": "g􀀶aça",
+    "replace": "graça",
+    "lang": "pt-BR",
+    "note": "easter-vigil Exsultet: PUA U+100036 for 'r' in 'graça'"
+  },
+  {
+    "match": "que􀀮 Deus",
+    "replace": "que é Deus",
+    "lang": "pt-BR",
+    "note": "easter wk7 fri collect: PUA U+10002E for 'é' in 'que é Deus'"
+  },
+  {
+    "match": "que􀁈 Deus",
+    "replace": "que é Deus",
+    "lang": "pt-BR",
+    "note": "OT wk10 sunday collect: PUA U+100048 for 'é' in 'que é Deus'"
+  },
+  {
+    "match": "Espírito 􀁄anto",
+    "replace": "Espírito Santo",
+    "lang": "pt-BR",
+    "note": "OT wk14 sunday collect: PUA U+100044 for 'S' in 'Santo'"
+  }
+]

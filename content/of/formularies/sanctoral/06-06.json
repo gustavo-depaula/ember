@@ -1,0 +1,1092 @@
+{
+  "id": "sanctorale.06-06",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Norberti, episcopi",
+    "es": "San Norberto, obispo",
+    "en-US": "Saint Norbert, bishop",
+    "pt-BR": "São Norberto, bispo",
+    "it": "SAN NORBERTO, vescovo",
+    "fr": "Saint Norbert, évêque",
+    "de": "Hl. Norbert von Xanten, Ordensgründer, Bischof"
+  },
+  "description": {
+    "la": "Natus est circa annum 1080 in regione Rhenana. Canonicus Ecclésiæ Xantensis, a vita mundana conversus, amplectitur vitam regularem et sacerdotio initiatur anno 1115. Vitam apostolicam aggressus, prædicationis munus suscepit, præsertim in Gallia et in Germania. Sociis sibi adscitis, fundamenta iecit Ordinis Præmonstratensis ac nonnulla fundavit monasteria. Archiepiscopus Magdeburgensis electus anno 1126, vitam christianam reformavit et fidem ad gentes ethnicas viciniores extendit. Mortuus est anno 1134.",
+    "es": "Nació alrededor del año 1080 en Renania. Canónigo de la catedral de Colonia, una vez convertido de su vida mundana, se sujetó a la disciplina regular y fue ordenado sacerdote el año 1115. Se entregó al apostolado y a la predicación, principalmente en Francia y Alemania. Junto con un grupo de compañeros, puso los fundamentos de la Orden Premonstratense y fundó algunos monasterios. El año 1126 fue elegido arzobispo de Magdeburgo, dedicándose entonces a la reforma de la vida cristiana y logrando que la fe se propagase a las regiones vecinas, que eran paganas. Murió el año 1134.",
+    "pt-BR": "Norberto (Xanten, Alemanha, entre os anos 1080-1085 - Magdeburgo, 6 de junho de 1134), convertido de uma vida mundana para intensa experiência de fé, fundou a Ordem dos Premonstratenses no ano de 1120 e tornou-se, depois, arcebispo de Magdeburgo, em 1126. Por seu exemplo e pela sua pregação, trabalhou ativamente na reforma religiosa e moral na França e na Alemanha.",
+    "it": "Norberto (Xanten, Germania, 1080/1085 - Magdeburgo, 6 giugno 1134) dopo la conversione iniziò, benché ancora laico, una predicazione itinerante. A Prémontré (Francia) raccolse un gruppo di discepoli, chierici e laici, da cui nacque l’Ordine dei Canonici Regolari Premostratensi. Eletto arcivescovo di Magdeburgo, si dedicò alla riforma del clero.",
+    "fr": "Norbert (1080-1134) fut d’abord chanoine de Xanten (Rhénanie), puis il voulut adopter une vie plus évangélique avec quelques compagnons. Ils se fixèrent en France près de Laon à Prémontré, où Norbert fonda une communauté de Chanoines réguliers (1120). Peu après il devait être nommé archevêque de Magdebourg et il travailla à la réforme de l’Église en Allemagne.",
+    "de": "Norbert wurde 1082 in Xanten am Niederrhein geboren. Wegen seiner adligen Herkunft machte er als Kleriker schnelle Karriere. Um 1115 begann er, einer jähen Todesgefahr entronnen, ein Leben der Buße, des Gebetes und der Arbeit im Geist der kirchlichen Reform. Seine Rednergabe und der Ruf eines Propheten und Wundertäters brachten ihm viel Erfolg, verschafften ihm aber auch Gegner. 1120 begann er mit dreizehn Schülern das gemeinsame Leben im Tal von Prémontré: 1121 legte die inzwischen auf 40 Personen angewachsene Gemeinschaft die Gelübde auf die Augustinusregel ab. Aus dieser Gründung entwickelte sich der Prämonstratenserorden. Norbert starb im Jahr 1134."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui beátum Norbértum epíscopum Ecclésiæ tuæ oratióne ac pastoráli zelo minístrum exímium effecísti, præsta, quǽsumus, ut, eius interveniénte suffrágio, fidélium grex pastóres iuxta cor tuum et salutária páscua semper invéniat. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que hiciste del obispo san Norberto un ministro admirable de tu Iglesia por su oración y su celo pastoral;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos, por su ayuda intercesora,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que la grey de los fieles encuentre siempre pastos saludables y pastores según tu corazón."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who made the Bishop Saint Norbert a servant of your Church outstanding in his prayer and pastoral zeal,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, we ask, that by the help of his intercession, the flock of the faithful may always find shepherds after your own heart and be fed in the pastures of salvation."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que fizestes do bispo São Norberto um ministro admirável de vossa Igreja pelo espírito de oração e zelo pastoral,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos pedimos, por sua intercessão,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que o rebanho dos fiéis encontre sempre alimento em verdes pastagens e pastores segundo vosso coração."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che nel santo vescovo Norberto hai dato alla tua Chiesa un ministro mirabile per spirito di orazione e zelo pastorale, fa' che, per sua intercessione, il gregge dei fedeli trovi sempre pastori secondo il tuo cuore e pascoli di salvezza eterna. Per il nostro Signore Gesù Cristo, tuo Figlio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour le service de ton Église,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as voulu que l’évêque saint Norbert soit un homme de prière et un vrai berger pour ton peuple ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par son intercession, accorde toujours à tes fidèles des pasteurs selon ton cœur qui leur donnent la nourriture du salut."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Herr deiner Kirche, der heilige Norbert ist durch sein Beten und Sorgen ein Hirte nach deinem Herzen geworden. Höre auf seine Fürsprache und gib deinem Volk auch heute Bischöfe und Priester, die ihm die Botschaft des Heiles verkünden und es nach deinem Willen leiten. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Ez 34, 11-16",
+              "es": "Ez 34, 11-16",
+              "en-US": "Ez 34:11-16",
+              "pt-BR": "Ez 34, 11-16",
+              "it": "Ez 34, 11-16",
+              "fr": "Ez 34, 11-16",
+              "de": "Ez 34, 11-16"
+            },
+            "introduction": {
+              "la": "Léctio libri Ezechiélis prophétæ",
+              "es": "Lectura del libro del profeta Ezequiel",
+              "en-US": "A reading from the Book of Prophet Ezekiel",
+              "pt-BR": "Leitura da Profecia de Ezequiel",
+              "it": "Dal libro del profeta Ezechiele",
+              "fr": "Livre d’Ézékiel",
+              "de": "Lesung aus dem Buch Ezéchiel"
+            },
+            "summary": {
+              "la": "Sicut visitat pastor gregem suum, sic visitabo oves meas.",
+              "es": "Como cuida un pastor de su grey disperso, así cuidaré yo de mi rebaño",
+              "pt-BR": "Como o pastor toma conta do rebanho, assim vou cuidar de minhas ovelhas.",
+              "it": "Come un pastore passa in rassegna il suo gregge così io passerò in rassegna le mie pecore."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hæc dicit Dóminus: «Ecce ego ipse requíram oves meas et visitábo eas. Sicut vísitat pastor gregem suum in die, quando fúerit in médio óvium suárum dissipatárum, sic visitábo oves meas et liberábo eas de ómnibus locis, in quibus dispérsæ fúerant in die nubis et calíginis. Et edúcam eas de pópulis et congregábo eas de terris et indúcam eas in terram suam et pascam eas in móntibus Israel, in rivis et in cunctis sédibus terræ. In páscuis ubérrimis pascam eas, et in móntibus excélsis Israel erunt páscua eárum; ibi requiéscent in herbis viréntibus et in páscuis pínguibus pascéntur super montes Israel. Ego pascam oves meas et ego eas accubáre fáciam, dicit Dóminus Deus. Quod períerat, requíram et, quod eiéctum erat, redúcam et, quod confráctum fúerat, alligábo et, quod infírmum erat, consolidábo et, quod pingue et forte, custódiam et pascam illas in iudício»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Esto dice el Señor: «Yo mismo buscaré mi rebaño y lo cuidaré. Como cuida un pastor de su grey dispersa, así cuidaré yo de mi rebaño y lo libraré, sacándolo de los lugares por donde se había dispersado un día de oscuros nubarrones. Sacaré a mis ovejas de en medio de los pueblos, las reuniré de entre las naciones, las llevaré a su tierra, las apacentaré en los montes de Israel, en los valles y en todos los poblados del país. Las apacentaré en pastos escogidos, tendrán sus majadas en los montes más altos de Israel; se recostarán en pródigas dehesas y pacerán pingües pastos en los montes de Israel. Yo mismo apacentaré mis ovejas y las haré reposar —oráculo del Señor Dios—. Buscaré la oveja perdida, recogeré a la descarriada; vendaré a las heridas; fortaleceré a la enferma; pero a la que está fuerte y robusta la guardaré: la apacentaré con justicia»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The Lord God says this: I am going to look after my flock myself and keep all of it in view. As a shepherd keeps all his flock in view when he stands up in the middle of his scattered sheep, so shall I keep my sheep in view. I shall rescue them from wherever they have been scattered during the mist and darkness. I shall bring them out of the countries where they are; I shall gather them together from foreign countries and bring them back to their own land. I shall pasture them on the mountains of Israel, in the ravines and in every inhabited place in the land. I shall feed them in good pasturage; the high mountains of Israel will be their grazing ground. There they will rest in good grazing ground; they will browse in rich pastures on the mountains of Israel. I myself will pasture my sheep, I myself will show them where to rest - it is the Lord who speaks. I shall look for the lost one, bring back the stray, bandage the wounded and make the weak strong. I shall watch over the fat and healthy. I shall be a true shepherd to them."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Assim diz o Senhor Deus: Vede! Eu mesmo vou procurar minhas ovelhas e tomar conta delas. Como o pastor toma conta do rebanho de dia, quando se encontra no meio das ovelhas dispersas, assim vou cuidar de minhas ovelhas e vou regatá-las de todos os lugares em que forem dispersadas num dia de nuvens e escuridão. Vou retirar minhas ovelhas do meio dos povos e recolhê-las do meio dos países para as conduzir à sua terra. Voi apascentar as ovelhas sobre os montes de Israel, nos vales dos riachos e em todas as regiões havitaveis do país. Voa apascentá-las em boas pastagens e nos altos montes de Israel estará o seu abrigo. Ali repousarão em prados verdejantes e pastarão em férteis pastagens sobre os montes de Israel. Eu mesmo vou apascentar as minhas ovelhas e fazê-las repousar - oráculo do Senhor Deus. Vou procurar a ovelha perdida, reconduzir a extraviada, enfaixar a da perna quebrada, fortalecer a dioente e vigiar a ovelha gorda e forte. Vou apascentá-las conforme o direito."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Così dice il Signore Dio: Ecco, io stesso cercherò le mie pecore e le passerò in rassegna. Come un pastore passa in rassegna il suo gregge quando si trova in mezzo alle sue pecore che erano state disperse, così io passerò in rassegna le mie pecore e le radunerò da tutti i luoghi dove erano disperse nei giorni nuvolosi e di caligine. Le farò uscire dai popoli e le radunerò da tutte le regioni. Le ricondurrò nella loro terra e le farò pascolare sui monti d’Israele, nelle valli e in tutti i luoghi abitati della regione. Le condurrò in ottime pasture e il loro pascolo sarà sui monti alti d’Israele; là si adageranno su fertili pascoli e pasceranno in abbondanza sui monti d’Israele. Io stesso condurrò le mie pecore al pascolo e io le farò riposare. Oracolo del Signore Dio. Andrò in cerca della pecora perduta e ricondurrò all’ovile quella smarrita, fascerò quella ferita e curerò quella malata, avrò cura della grassa e della forte; le pascerò con giustizia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ainsi parle le Seigneur Dieu : Voici que moi-même, je m’occuperai de mes brebis, et je veillerai sur elles. Comme un berger veille sur les brebis de son troupeau quand elles sont dispersées, ainsi je veillerai sur mes brebis, et j’irai les délivrer dans tous les endroits où elles ont été dispersées un jour de nuages et de sombres nuées. Je les ferai sortir d’entre les peuples, je les rassemblerai des différents pays et je les ramènerai sur leur terre ; je les ferai paître sur les montagnes d’Israël, dans les vallées, dans les endroits les meilleurs. Je les ferai paître dans un bon pâturage, et leurs prairies seront sur les hauteurs d’Israël. Là, mes brebis se reposeront dans de belles prairies, elles brouteront dans de gras pâturages, sur les monts d’Israël. C’est moi qui ferai paître mon troupeau, et c’est moi qui le ferai reposer, - oracle du Seigneur Dieu. La brebis perdue, je la chercherai ; l’égarée, je la ramènerai. Celle qui est blessée, je la panserai. Celle qui est malade, je lui rendrai des forces. Celle qui est grasse et vigoureuse, je la garderai, je la ferai paître selon le droit."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "So spricht Gott, der Herr: Jetzt will ich meine Schafe selber suchen und mich selber um sie kümmern. Wie ein Hirt sich um die Tiere seiner Herde kümmert an dem Tag, an dem er mitten unter den Schafen ist, die sich verirrt haben, so kümmere ich mich um meine Schafe und hole sie zurück von all den Orten, wohin sie sich am dunklen, düsteren Tag zerstreut haben. Ich führe sie aus den Völkern heraus, ich hole sie aus den Ländern zusammen und bringe sie in ihr Land. Ich führe sie in den Bergen Israels auf die Weide, in den Tälern und an allen bewohnten Orten des Landes. Auf gute Weide will ich sie führen, im Bergland Israels werden ihre Weideplätze sein. Dort sollen sie auf guten Weideplätzen lagern, auf den Bergen Israels sollen sie fette Weiden finden. Ich werde meine Schafe auf die Weide führen, ich werde sie ruhen lassen – Spruch Gottes, des Herrn. Die verlorengegangenen Tiere will ich suchen, die vertriebenen zurückbringen, die verletzten verbinden, die schwachen kräftigen, die fetten und starken behüten. Ich will ihr Hirt sein und für sie sorgen, wie es recht ist."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 14, 25-33",
+              "es": "Lc 14, 25-33",
+              "en-US": "Lk 14:25-33",
+              "pt-BR": "Lc 14, 25-33",
+              "it": "Lc 14, 25-33",
+              "fr": "Lc 14, 25-33",
+              "de": "Lk 14, 25-33"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal Vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Qui non renuntiat ómnibus quæ possidet, non potest meus esse discipulus.",
+              "es": "Aquel que no renuncio a todos sus bienes no puede ser discípulo mío",
+              "pt-BR": "Qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo.",
+              "it": "Chi non rinuncia a tutti i suoi averi, non può essere mio discepolo."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Ibant turbæ multæ cum Iesu, et convérsus dixit ad illos: «Si quis venit ad me et non odit patrem suum et matrem et uxórem et fílios et fratres et soróres, adhuc et ánimam suam, non potest esse meus discípulus. Et, qui non báiulat crucem suam et venit post me, non potest esse meus discípulus. Quis enim ex vobis volens turrem ædificáre, non prius sedens cómputat sumptus, si habet ad perficiéndum? Ne, posteáquam posúerit fundaméntum et non potúerit perfícere, omnes, qui vident, incípiant illúdere ei dicéntes: “Hic homo cœpit ædificáre et non pótuit consummáre”. Aut quis rex, itúrus commíttere bellum advérsus álium regem, non sedens prius cógitat, si possit cum decem mílibus occúrrere ei, qui cum vigínti mílibus venit ad se? Alióquin, adhuc illo longe agénte, legatiónem mittens rogat ea, quæ pacis sunt. Sic ergo omnis ex vobis, qui non renúntiat ómnibus, quæ póssidet, non potest meus esse discípulus»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, mucha gente acompañaba a Jesús; él se volvió y les dijo: «Si alguno viene a mí y no pospone a su padre y a su madre, a su mujer y a sus hijos, a sus hermanos y a sus hermanas, e incluso a sí mismo, no puede ser discípulo mío. Quien no carga con su cruz y viene en pos de mí, no puede ser discípulo mío. Así, ¿quién de vosotros, si quiere construir una torre, no se sienta primero a calcular los gastos, a ver si tiene para terminarla? No sea que, si echa los cimientos y no puede acabarla, se pongan a burlarse de él los que miran, diciendo: “Este hombre empezó a construir y no pudo acabar”. ¿O qué rey, si va a dar la batalla a otro rey, no se sienta primero a deliberar si con diez mil hombres podrá salir al paso del que lo ataca con veinte mil? Y si no, cuando el otro está todavía lejos, envía legados para pedir condiciones de paz. Así pues, todo aquel de entre vosotros que no renuncia a todos sus bienes no puede ser discípulo mío»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Great crowds accompanied Jesus on his way and he turned and spoke to them. If any man comes to me without hating his father, mother, wife, children, brothers, sisters, yes and his own life too, he cannot be my disciple. Anyone who does not carry his cross and come after me cannot be my disciple. 'And indeed, which of you here, intending to build a tower, would not first sit down and work out the cost to see if he had enough to complete it? Otherwise, if he laid the foundation and then found himself unable to finish the work, the onlookers would all start making fun of him and saying, \"' Here is a man who started to build and was unable to finish\". Or again, what king marching to war against another king would not first sit down and consider whether with ten thousand men he could stand up to the other who advanced against him with twenty thousand? If not, then while the other king was still a long way off, he would send envoys to sue for peace. So in the same way, none of you can be my disciple unless he gives up all his possessions."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse: \"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo. Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo. Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário, ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo: 'Este homem começou a construir e não foi capaz de acabar!' Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz. Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\""
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, una folla numerosa andava con Gesù. Egli si voltò e disse loro: «Se uno viene a me e non mi ama più di quanto ami suo padre, la madre, la moglie, i figli, i fratelli, le sorelle e perfino la propria vita, non può essere mio discepolo. Colui che non porta la propria croce e non viene dietro a me, non può essere mio discepolo. Chi di voi, volendo costruire una torre, non siede prima a calcolare la spesa e a vedere se ha i mezzi per portarla a termine? Per evitare che, se getta le fondamenta e non è in grado di finire il lavoro, tutti coloro che vedono comincino a deriderlo, dicendo: \"Costui ha iniziato a costruire, ma non è stato capace di finire il lavoro\". Oppure quale re, partendo in guerra contro un altro re, non siede prima a esaminare se può affrontare con diecimila uomini chi gli viene incontro con ventimila? Se no, mentre l’altro è ancora lontano, gli manda dei messaggeri per chiedere pace. Così chiunque di voi non rinuncia a tutti i suoi averi, non può essere mio discepolo»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, de grandes foules faisaient route avec Jésus ; il se retourna et leur dit : « Si quelqu’un vient à moi sans me préférer à son père, sa mère, sa femme, ses enfants, ses frères et sœurs, et même à sa propre vie, il ne peut pas être mon disciple. Celui qui ne porte pas sa croix pour marcher à ma suite ne peut pas être mon disciple. Quel est celui d’entre vous qui, voulant bâtir une tour, ne commence par s’asseoir pour calculer la dépense et voir s’il a de quoi aller jusqu’au bout ? Car, si jamais il pose les fondations et n’est pas capable d’achever, tous ceux qui le verront vont se moquer de lui : »Voilà un homme qui a commencé à bâtir et n’a pas été capable d’achever !« Et quel est le roi qui, partant en guerre contre un autre roi, ne commence par s’asseoir pour voir s’il peut, avec dix mille hommes, affronter l’autre qui marche contre lui avec vingt mille ? S’il ne le peut pas, il envoie, pendant que l’autre est encore loin, une délégation pour demander les conditions de paix. Ainsi donc, celui d’entre vous qui ne renonce pas à tout ce qui lui appartient ne peut pas être mon disciple. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit, als viele Menschen Jesus begleiteten, wandte er sich an sie und sagte: Wenn jemand zu mir kommt und nicht Vater und Mutter, Frau und Kinder, Brüder und Schwestern, ja sogar sein Leben gering achtet, dann kann er nicht mein Jünger sein. Wer nicht sein Kreuz trägt und mir nachfolgt, der kann nicht mein Jünger sein. Wenn einer von euch einen Turm bauen will, setzt er sich dann nicht zuerst hin und rechnet, ob seine Mittel für das ganze Vorhaben ausreichen? Sonst könnte es geschehen, dass er das Fundament gelegt hat, dann aber den Bau nicht fertigstellen kann. Und alle, die es sehen, würden ihn verspotten und sagen: Der da hat einen Bau begonnen und konnte ihn nicht zu Ende führen. Oder wenn ein König gegen einen anderen in den Krieg zieht, setzt er sich dann nicht zuerst hin und überlegt, ob er sich mit seinen zehntausend Mann dem entgegenstellen kann, der mit zwanzigtausend gegen ihn anrückt? Kann er es nicht, dann schickt er eine Gesandtschaft, solange der andere noch weit weg ist, und bittet um Frieden. Darum kann keiner von euch mein Jünger sein, wenn er nicht auf seinen ganzen Besitz verzichtet."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

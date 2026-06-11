@@ -1,0 +1,1288 @@
+{
+  "id": "sanctorale.10-15",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Teresiæ a Iesu, virginis et Ecclésiæ doctoris",
+    "es": "Santa Teresa de Jesús, virgen y doctora de la Iglesia",
+    "en-US": "Saint Teresa of Jesus, virgin and doctor of the Church",
+    "pt-BR": "Santa Teresa de Jesus, virgem e doutora da Igreja",
+    "it": "SANTA TERESA DI GESÙ, vergine e dottore della Chiesa",
+    "fr": "Sainte Thérèse de Jésus, vierge et docteur de l’Églises",
+    "de": "Hl. Theresia von Jesus (von Ávila), Ordensfrau, Kirchenlehrerin"
+  },
+  "description": {
+    "la": "Nata est Abulæ (Avila) in Hispania anno 1515. Ordini Carmelitarum aggregata, magnos gressus in via perfectionis fecit et mysticas habuit revelationes. Reformationem sui Ordinis aggressa, multas sustinuit tribulationes, sed invicto animo ómnia superavit. Libros etiam composuit altissima doctrina refertos et propria experientia probatos. Mortua est Albæ anno 1582.",
+    "es": "Nace Teresa en Ávila el 28 de marzo de 1515. A los dieciocho años, entra en el Carmelo. A los cuarenta y cinco años, para responder a las gracias extraordinarias del Señor, emprende una nueva vida cuya divisa será: «O sufrir o morir». Es entonces cuando funda el convento de San José de Ávila, primero de los quince Carmelos que establecerá en España. Con san Juan de la Cruz, introdujo la gran reforma carmelitana. Sus escritos son un modelo seguro en los caminos de la plegaria y de la perfección. Murió en Alba de Tormes, al anochecer del 4 de octubre de 1582.",
+    "pt-BR": "Teresa (Ávila, Espanha, 1515 - Alba de Tormes, 15 de outubro de 1582), mulher dotada de extraordinários dons, tanto de espírito quanto de coração, entrou aos vinte anos no Carmelo de Ávila, onde concebeu e realizou a reforma que recebeu seu nome. Uniu à mais alta contemplação uma intensa atividade como reformadora da Ordem Carmelita. Depois do mosteiro de São José em Ávila, com a autorização do Geral da Ordem, dedicou-se apaixonadamente a outras fundações e pôde estender a reforma também ao ramo masculino. Fiel à Igreja, no espírito do Concílio de Trento, contribuiu para a renovação da comunidade eclesial. Deixou na sua autobiografia e nos seus escritos de espiritualidade um documento de profunda experiência mística. São Paulo VI declarou-a doutora da Igreja em 27 de setembro de 1970.",
+    "it": "Teresa (Avila, Spagna, 1515 - Alba de Tormes, 15 ottobre 1582), entrata nel Carmelo di Avila, avviò la riforma dell’Ordine, dando origine ai Carmelitani Scalzi. La sua intensa attività di fondazioni monastiche in tutta la Spagna fu affiancata e sostenuta da una profonda esperienza spirituale, fino all’unione mistica con Cristo, testimoniata nei suoi scritti (tra cui l’autobiografico Libro della vita e il Cammino della perfezione) e suggerita come dimensione essenziale per ogni cristiano. Fu la prima donna a essere proclamata dottore della Chiesa (Paolo VI, 1970).",
+    "fr": "Thérèse d’Avila (1515-1583), la réformatrice du Carmel, fut une contemplative et une femme d’action. La contemplative a livré le secret de sa montée vers Dieu dans des écrits qui l’ont fait compter parmi les plus grands maîtres de vie spirituelle. La fondatrice a parcouru l’Espagne pour y réformer et y implanter des monastères. Son âme était unifiée dans le désir de vivre « seule avec le Seul ».",
+    "de": "Theresia wurde 1515 in Ávila geboren. Als Kind entschloss sie sich dazu, zusammen mit ihrem Bruder als Märtyrer für Christus zu sterben, wurde jedoch von ihrem Onkel zurück nach Hause gebracht und trat mit 18 Jahren in den Karmel ein. Mit 45 Jahren antwortete sie auf eine außergewöhnliche Gnade Gottes und begann “ein neues Leben”. In dieser Zeit gründete sie das Karmelitinnenkloster des heiligen Josef in Avila (diesem folgten weitere 14 Gründungen in Spanien). Mit der Unterstützung des heiligen Johannes vom Kreuz begann sie die große Reform des Karmels. Sie hinterließ viele bedeutende Werke über das geistliche Leben und die christliche Vollkommenheit. Sie starb im Jahr 1582."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Quemádmodum desíderat cervus ad fontes aquárum, ita desíderat ánima mea ad te,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Deus. Sitívit ánima mea ad Deum fortem vivum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Como busca la cierva corrientes de agua, así mi alma te busca a ti, Dios mío;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mi alma tiene sed de Dios, del Dios vivo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Like the deer that yearns for running streams, so my soul is yearning for you,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "my God;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "my soul is thirsting for God, the living God."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Assim como a corça suspira, pelas águas correntes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "suspira igualmente minh' alma por vós, ó meu Deus!"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Minha alma tem sede de Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e deseja o Deus vivo."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Come la cerva anela ai corsi d’acqua, così l’anima mia anela a te, o Dio."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "L’anima mia ha sete di Dio, del Dio vivente."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Comme un cerf altéré cherche l’eau vive,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ainsi mon âme te cherche, toi, mon Dieu."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Mon âme a soif de Dieu, le Dieu vivant."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Wie der Hirsch lechzt nach frischem Wasser, so lechzt meine Seele, Gott, nach dir. Meine Seele dürstet nach Gott."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui per Spíritum tuum beátam Terésiam suscitásti, ut requiréndæ perfectiónis sémitam Ecclésiæ manifestáret, da nobis et cæléstis eius doctrínæ pábulo semper nutríri, et veræ sanctitátis desidério accéndi. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que por tu Espíritu has suscitado a santa Teresa de Jesús,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para mostrar a la Iglesia el camino de la perfección,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos alimentarnos siempre de su celestial doctrina y enciende en nosotros el deseo de la verdadera santidad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who through your Spirit raised up Saint Teresa of Jesus to show the Church the way to seek perfection,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that we may always be nourished by the food of her heavenly teaching and fired with longing for true holiness."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, pelo vosso Espírito suscitastes Santa Teresa para indicar à Igreja um novo caminho na busca da perfeição;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos encontrar sempre alimento em sua doutrina espiritual e ser inflamados pelo desejo da verdadeira santidade."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che per mezzo del tuo Spirito hai suscitato santa Teresa [di Gesù] per mostrare alla Chiesa una via nuova nella ricerca della perfezione, concedi a noi di nutrirci sempre della sua dottrina e di essere infiammati da un vivo desiderio di santità. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as suscité par ton Esprit sainte Thérèse de Jésus pour montrer à l’Église le chemin de la perfection qu’elle doit rechercher ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais-nous trouver notre nourriture dans sa doctrine spirituelle et brûler du désir d’une vraie sainteté."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, du hast die heilige Theresia von Jesus durch deinen Geist erweckt und sie der Kirche als Lehrmeisterin des Weges zur Vollkommenheit geschenkt. Gib, dass wir in ihren Schriften Nahrung für unser geistliches Leben finden. Durchdringe uns mit der Gewissheit, dass du allein genügst, und entzünde in uns das Verlangen nach Heiligkeit. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Segunda lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Rom 8, 22-27",
+              "es": "Rom 8, 22-27",
+              "en-US": "Rom 8:22-27",
+              "pt-BR": "Rom 8, 22-27",
+              "it": "Rm 8,22-27",
+              "fr": "Rm 8, 22-27",
+              "de": "Röm 8, 22-27"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Romános",
+              "es": "Lectura de la carta del apóstol san Pablo a los Romanos",
+              "en-US": "A reading from the Letter of Saint Paul to the Romans",
+              "pt-BR": "Leitura da Carta de São Paulo aos Romanos",
+              "it": "Dalla lettera di san Paolo apostolo ai Romani",
+              "fr": "Lettre de saint Paul Apôtre aux Romains",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Römer"
+            },
+            "summary": {
+              "la": "Spíritus interpellat gemitibus inenarrabilibus.",
+              "es": "El Espíritu intercede por nosotros con gemidos inefables",
+              "pt-BR": "O Espírito intercede por nós com gemidos inefáveis.",
+              "it": "Lo Spirito intercede con gemiti inesprimibili."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Scimus quod omnis creatúra congemíscit et compárturit usque adhuc; non solum autem, sed et nos ipsi primítias Spíritus habéntes, et ipsi intra nos gémimus adoptiónem filiórum exspectántes, redemptiónem córporis nostri. Spe enim salvi facti sumus; spes autem, quæ vidétur, non est spes; nam, quod videt, quis sperat? Si autem, quod non vidémus, sperámus, per patiéntiam exspectámus. Simíliter autem et Spíritus ádiuvat infirmitátem nostram; nam quid orémus, sicut opórtet, nescímus, sed ipse Spíritus interpéllat gemítibus inenarrabílibus; qui autem scrutátur corda, scit quid desíderet Spíritus, quia secúndum Deum póstulat pro sanctis."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Sabemos que hasta hoy toda la creación está gimiendo y sufre dolores de parto. Y no solo eso, sino que también nosotros, que poseemos las primicias del Espíritu, gemimos en nuestro interior, aguardando la adopción filial, la redención de nuestro cuerpo. Pues hemos sido salvados en esperanza. Y una esperanza que se ve, no es esperanza; efectivamente, ¿cómo va a esperar uno algo que ve? Pero si esperamos lo que no vemos, aguardamos con perseverancia. Del mismo modo, el Espíritu acude en ayuda de nuestra debilidad, pues nosotros no sabemos pedir como conviene; pero el Espíritu mismo intercede por nosotros con gemidos inefables. Y el que escruta los corazones sabe cuál es el deseo del Espíritu, y que su intercesión por los santos es según Dios."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "From the beginning till now the entire creation, as we know, has been groaning in one great act of giving birth; and not only creation, but all of us who possess the first-fruits of the Spirit, we too groan inwardly as we wait for our bodies to be set free. For we must be content to hope that we shall be saved - our salvation is not in sight, we should not have to be hoping for it if it were - but, as I say, we must hope to be saved since we are not saved yet - it is something we must wait for with patience. The Spirit too comes to help us in our weakness. For when we cannot choose words in order to pray properly, the Spirit himself expresses our plea in a way that could never be put into words, and God who knows everything in our hearts knows perfectly well what he means, and that the pleas of the saints expressed by the Spirit are according to the mind of God."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. Pois já fomos salvos, mas na esperança. Ora, o objeto da esperança não é aquilo que a gente esta vendo; como pode alguém esperar o que já vê? Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. Também, o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, sappiamo bene infatti che tutta la creazione geme e soffre fino ad oggi nelle doglie del parto; essa non è la sola, ma anche noi, che possediamo le primizie dello Spirito, gemiamo interiormente aspettando l’adozione a figli, la redenzione del nostro corpo. Poiché nella speranza noi siamo stati salvati. Ora, ciò che si spera, se visto, non è più speranza; infatti, ciò che uno già vede, come potrebbe ancora sperarlo? Ma se speriamo quello che non vediamo, lo attendiamo con perseveranza. Allo stesso modo anche lo Spirito viene in aiuto alla nostra debolezza, perché nemmeno sappiamo che cosa sia conveniente domandare, ma lo Spirito stesso intercede con insistenza per noi, con gemiti inesprimibili; e colui che scruta i cuori sa quali sono i desideri dello Spirito, poiché egli intercede per i credenti secondo i disegni di Dio."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, nous le savons bien, la création tout entière gémit, elle passe par les douleurs d’un enfantement qui dure encore. Et elle n’est pas seule. Nous aussi, en nous-mêmes, nous gémissons ; nous avons commencé à recevoir l’Esprit Saint, mais nous attendons notre adoption et la rédemption de notre corps. Car nous avons été sauvés, mais c’est en espérance ; voir ce qu’on espère, ce n’est plus espérer : ce que l’on voit, comment peut-on l’espérer encore ? Mais nous, qui espérons ce que nous ne voyons pas, nous l’attendons avec persévérance. Bien plus, l’Esprit Saint vient au secours de notre faiblesse, car nous ne savons pas prier comme il faut. L’Esprit lui-même intercède pour nous par des gémissements inexprimables. Et Dieu, qui scrute les cœurs, connaît les intentions de l’Esprit puisque c’est selon Dieu que l’Esprit intercède pour les fidèles."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Wir wissen, dass die gesamte Schöpfung bis zum heutigen Tag seufzt und in Geburtswehen liegt. Aber auch wir, obwohl wir als Erstlingsgabe den Geist haben, seufzen in unserem Herzen und warten darauf, dass wir mit der Erlösung unseres Leibes als Söhne offenbar werden. Denn wir sind gerettet, doch in der Hoffnung. Hoffnung aber, die man schon erfüllt sieht, ist keine Hoffnung. Wie kann man auf etwas hoffen, das man sieht? Hoffen wir aber auf das, was wir nicht sehen, dann harren wir aus in Geduld. So nimmt sich auch der Geist unserer Schwachheit an. Denn wir wissen nicht, worum wir in rechter Weise beten sollen; der Geist selber tritt jedoch für uns ein mit Seufzen, das wir nicht in Worte fassen können. Und Gott, der die Herzen erforscht, weiß, was die Absicht des Geistes ist: Er tritt so, wie Gott es will, für die Heiligen ein."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Múnera nostra, Dómine, tuæ sint accépta maiestáti, cui beátæ Terésiæ tantópere plácuit devotiónis obséquium. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sean aceptables a tu majestad nuestros dones, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a quien tanto agradó santa Teresa de Jesús con la ofrenda de sí misma."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May our offerings, O Lord, be acceptable to your majesty, to whom the devoted service of Saint Teresa was pleasing in such great measure."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, que nossas oferendas agradem à vossa majestade como Santa Teresa soube agradar-vos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "consagrando-se inteiramente a vós."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Siano graditi, alla tua maestà, o Signore, i nostri doni, come ti piacque la consacrazione verginale di santa Teresa. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que nos offrandes puissent te plaire, Dieu de majesté,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "toi qui acceptas si volontiers l’hommage de l’amour empressé de sainte Thérèse."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, du hast die Hingabe und den Gehorsam der heiligen Theresia angenommen. Nimm unsere Gaben an und mache uns zu einem Opfer, das dir wohlgefällt. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Misericórdias Dómini in ætérnum cantábo; in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cantaré eternamente las misericordias del Señor, anunciaré tu fidelidad por todas las edades."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "I will sing for ever of your mercies, O Lord through all ages my mouth will proclaim your fidelity."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Senhor, eu cantarei eternamente o vosso amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de geração em geração eu cantarei vossa verdade."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Canterò in eterno l’amore del Signore, di generazione in generazione farò conoscere con la mia bocca la tua fedeltà."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "L’amour du Seigneur, sans fin je le chante ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ta fidélité, je l’annonce d’âge en âge."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Von den Taten deiner Huld, Herr, will ich ewig singen, bis zum fernsten Geschlecht laut deine Treue verkünden."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Súbdita tibi família, Dómine Deus noster, quam cælésti pane satiásti, fac ut,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "exémplo beátæ Terésiæ, misericórdias tuas in ætérnum cantáre lætétur. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, Dios nuestro,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "haz que tu familia consagrada a ti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a la que has alimentado con el pan del cielo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "se alegre cantando eternamente tus misericordias a ejemplo de santa Teresa de Jesús."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant, O Lord our God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that your obedient family,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "whom you have fed with the Bread of heaven, may follow the example of Saint Teresa and rejoice to sing of your mercies for all eternity."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor nosso Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que alimentastes a vossa família com o pão celeste,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-lhe, a exemplo de Santa Teresa,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a alegria de cantar eternamente as vossas misericórdias."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Signore, Dio nostro, fa' che sull’esempio di santa Teresa questa famiglia a te consacrata, nutrita con il pane del cielo, canti in eterno il tuo amore misericordioso. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur notre Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne à la famille de ceux qui te servent,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "déjà rassasiée par le pain du ciel,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de connaître, comme sainte Thérèse,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la joie de chanter ta miséricorde pour l’éternité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gütiger Gott, du hast deine Gemeinde mit dem Brot des Himmels gestärkt. Gib,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dass wir in der Danksagung verharren und mit der heiligen Theresia die Werke deines Erbarmens in Ewigkeit preisen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

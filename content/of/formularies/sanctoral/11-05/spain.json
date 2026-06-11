@@ -1,0 +1,37 @@
+{
+  "id": "sanctorale.11-05.spain",
+  "kind": "sanctoral",
+  "scope": "spain",
+  "structure": "mass",
+  "title": {
+    "es": "Santa Ángela de la Cruz Guerrero González, virgen"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios, que iluminaste a santa Angela de la Cruz, virgen, con la sabiduría de la Cruz, para que reconociese a Cristo, tu Hijo, en los pobres y en los enfermos, y los sirviese como humilde esclava, concédenos que, imitando el ejemplo de su caridad, podamos llegar a ti, junto con nuestros hermanos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

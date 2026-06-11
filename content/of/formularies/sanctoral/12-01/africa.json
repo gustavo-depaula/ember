@@ -1,0 +1,79 @@
+{
+  "id": "sanctorale.12-01.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Blessed Clementine Anuarite, Virgin and Martyr"
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God our Father,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who have called Blessed Anuarite to follow the Lord"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "through a life of holiness, faithfulness and martyrdom;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, we beseech you,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we may follow Christ as she did"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and one day join her in your Kingdom."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "sanctorale.10-20.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Blessed Daudi Okelo and Jildo Irwa, Martyrs"
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Almighty and eternal God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who granted the crown of martyrdom to Blessed Daudi and Jildo"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "for their proclamation of the Gospel;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant that we, through their example and their intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may tirelessly comunícate the Good News of salvation"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to the nations."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Receive, holy Father, the offerings we bring"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in commemoration of the holy Martyrs,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and grant that we, your servants,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may be found steadfast"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in confessing your name."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who in your holy Martyrs"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "have wonderfully made known the mystery of the Cross,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "graciously grant"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, drawing strength from this sacrifice,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may cling faithfully to Christ"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and labour in the Church for the salvation of all."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

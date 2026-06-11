@@ -1,0 +1,892 @@
+{
+  "id": "sanctorale.02-17",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Ss. septem Fundatorum Ordinis Servorum B. M. V.",
+    "es": "Los siete santos fundadores de la Orden de los Siervos de la Virgen María",
+    "en-US": "The Seven Holy Founders of the Servite Order",
+    "pt-BR": "Os sete Santos fundadores da Ordem dos Servos de Maria",
+    "it": "SANTI SETTE FONDATORI DELL’ORDINE DEI SERVI DELLA BEATA VERGINE MARIA",
+    "fr": "Les sept saints fondateurs de l’ordre des Servites de Marie",
+    "de": "Die hll. Gründer des Servitenordens"
+  },
+  "description": {
+    "la": "Septem viri Florentiæ nati, prius vitam eremiticam duxerunt in monte Senario, beatam Mariam Virginem præsertim venerantes. Per totam Tusciam deinde prædicantes, instituerunt Ordinem Servorum beatæ Maríæ Virginis, quem Sedes Apostolica anno 1304 approbavit. Eorum memoria hac die celebratur, qua S. Alexius Falconieri, unus ex septem, dicitur obiisse anno 1310.",
+    "es": "Estos siete varones florentinos llevaron primero una vida eremítica en el monte Senario, con particular dedicación al culto de la Virgen. Después se dedicaron a predicar por toda la Toscana y fundaron la Orden de los Siervos de la Virgen María, «Servitas», reconocida por la Santa Sede el año 1304. Su memoria anual se celebra este día, en el que, según se dice, murió uno de ellos, san Alejo Falconieri, el año 1310.",
+    "pt-BR": "Segundo a tradição, sete leigos retiraram-se para o Monte Senário, perto de Florença (Itália), sua cidade, por volta de 1z33. Buscavam, dessa forma, responder a Deus que os chamava a consagrar-se a ele numa vida de oração e penitência, tendo como guia e modelo a Virgem Maria. De sua obra nasceu a Ordem dos Servos de Maria. Afirma-se que um deles, Aleixo Falconieri, faleceu aos 17 de fevereiro de 1310.",
+    "it": "Verso la metà del secolo XIII sette laici fiorentini si ritirarono sul monte Senario, presso Firenze, con il desiderio di consacrarsi a Dio e al servizio del prossimo in una vita di preghiera, di penitenza e di carità, sull’esempio della Vergine Maria. Da quel primo gruppo nacque, negli anni successivi, l’Ordine mendicante dei Servi di Maria (Serviti).",
+    "fr": "Vers 1233, sept commerçants florentins se retirèrent dans la solitude du Monte Senario, afin d’y mener une vie fraternelle de pauvreté et de pénitence dans la contemplation de la Passion de Jésus sous l’égide de Marie. On les appela les « serviteurs de Marie » ou Servites.",
+    "de": "Diese sieben florentinischen Männer lebten zunächst als Eremiten in Monte Senario und widmeten sich insbesondere der Verehrung der Muttergottes. Später predigten sie im ganzen Gebiet der Toskana und gründeten den Servitenorden, welcher 1304 vom heiligen Stuhl anerkannt wurde. Ihr Gedenktag wird am 17. Februar, dem Todestag von Alejo Falconieri (1310), gegangen."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Beatórum fratrum, Dómine, pietátem nobis benígnus infúnde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qua et Dei Genetrícem sunt devotíssime veneráti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et tuum ad te pópulum provexérunt."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, infunde benigno en nosotros la piedad con la que estos santos hermanos veneraron devotamente a la Madre de Dios y condujeron a tu pueblo hacia ti."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Impart to us, O Lord, in kindness the filial devotion with which the holy brothers venerated so devoutly the Mother of God and led your people to yourself."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Infundi em nós, Senhor, a piedade dos Santos Fundadores da Ordem dos Servos de Maria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que se distinguiram pela devoção à Mãe de Deus e a vós conduziram o vosso povo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Infondi in noi, o Padre, la pietà dei Sette santi Fondatori, che li portò a onorare con viva devozione la Madre di Dio e condurre a te il tuo popolo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mets en nous, Seigneur, cette piété qui portait les saints frères fondateurs des Servites à aimer tendrement la mère de ton Fils et à faire avancer ton peuple vers toi."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gütiger Gott, du hast den heiligen Gründern des Servitenordens eine kindliche Liebe zur Mutter Christi geschenkt und sie befähigt, dein Volk näher zu dir zu führen. Gib auch uns den Geist der Frömmigkeit und die Bereitschaft, zu dienen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Rom 8, 26-30",
+              "es": "Rom 8, 26-30",
+              "en-US": "Rom 8:26-30",
+              "pt-BR": "Rom 8, 26-30",
+              "it": "Rm 8, 26-30",
+              "fr": "Rm 8, 26-30",
+              "de": "Röm 8, 26-30"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Romános",
+              "es": "Lectura de la carta del apóstol san Pablo a los Romanos",
+              "en-US": "A reading from the Letter of Saint Paul to the Romans",
+              "pt-BR": "Leitura da Carta de São Paulo aos Romanos",
+              "it": "Quelli che ha giustificato, li ha anche glorificati.",
+              "fr": "Lettre de saint Paul Apôtre aux Romains",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Römer"
+            },
+            "summary": {
+              "la": "Quos iustificavit, illos et glorificavit.",
+              "es": "A los que justificó, los glorificó",
+              "pt-BR": "Àqueles que justificou, também os glorificou",
+              "it": "Dalla Lettera di san Paolo apostolo ai Romani"
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Spíritus ádiuvat infirmitátem nostram; nam quid orémus, sicut opórtet, nescímus, sed ipse Spíritus interpéllat gemítibus inenarrabílibus; qui autem scrutátur corda, scit quid desíderet Spíritus, quia secúndum Deum póstulat pro sanctis. Scimus autem quóniam diligéntibus Deum ómnia cooperántur in bonum, his, qui secúndum propósitum vocáti sunt. Nam, quos præscívit, et prædestinávit confórmes fíeri imáginis Fílii eius, ut sit ipse primogénitus in multis frátribus; quos autem prædestinávit, hos et vocávit; et quos vocávit, hos et iustificávit; quos autem iustificávit, illos et glorificávit."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: El Espíritu acude en ayuda de nuestra debilidad, pues nosotros no sabemos pedir como conviene; pero el Espíritu mismo intercede por nosotros con gemidos inefables, y el que escruta los corazones sabe cuál es el deseo del Espíritu, y que su intercesión por los santos es según Dios. Por otra parte, sabemos que a los que aman a Dios todo les sirve para el bien; a los cuales ha llamado conforme a su designio. Porque a los que había conocido de antemano los predestinó a reproducir la imagen de su Hijo, para que él fuera el primogénito entre muchos hermanos. Y a los que predestinó, los llamó; a los que llamó, los justificó; a los que justificó, los glorificó."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The Spirit too comes to help us in our weakness. For when we cannot choose words in order to pray properly, the Spirit himself expresses our plea in a way that could never be put into words, and God who knows everything in our hearts knows perfectly well what he means, and that the pleas of the saints expressed by the Spirit are according to the mind of God. We know that by turning everything to their good God co-operates with all those who love him, with all those that he has called according to his purpose. They are the ones he chose specially long ago and intended to become true images of his Son, so that his Son might be the eldest of many brothers. He called those he intended for this; those he called he justified, and with those he justified he shared his glory."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos: Também, o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemido inefáveis. E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, lo Spirito viene in aiuto alla nostra debolezza; non sappiamo infatti come pregare in modo conveniente, ma lo Spirito stesso intercede con gemiti inesprimibili; e colui che scruta i cuori sa che cosa desidera lo Spinto, perché egli intercede per i santi secondo i disegni di Dio. Del resto, noi sappiamo che tutto concorre al bene, per quelli che amano Dio, per coloro che sono stati chiamati secondo il suo disegno. Poiché quelli che egli da sempre ha conosciuto, li ha anche predestinati a essere conformi all’immagine del Figlio suo, perché egli sia il primogenito tra molti fratelli; quelli poi che ha predestinato, li ha anche chiamati; quelli che ha chiamato, li ha anche giustificati; quelli che ha giustificato, li ha anche glorificati."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, l’Esprit Saint vient au secours de notre faiblesse, car nous ne savons pas prier comme il faut. L’Esprit lui-même intercède pour nous par des gémissements inexprimables. Et Dieu, qui scrute les cœurs, connaît les intentions de l’Esprit puisque c’est selon Dieu que l’Esprit intercède pour les fidèles. Nous le savons, quand les hommes aiment Dieu, lui-même fait tout contribuer à leur bien, puisqu’ils sont appelés selon le dessein de son amour. Ceux que, d’avance, il connaissait, il les a aussi destinés d’avance à être configurés à l’image de son Fils, pour que ce Fils soit le premier-né d’une multitude de frères. Ceux qu’il avait destinés d’avance, il les a aussi appelés ; ceux qu’il a appelés, il en a fait des justes ; et ceux qu’il a rendus justes, il leur a donné sa gloire."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Der Geist nimmt sich unserer Schwachheit an. Denn wir wissen nicht, worum wir in rechter Weise beten sollen; der Geist selber tritt jedoch für uns ein mit Seufzen, das wir nicht in Worte fassen können. Und Gott, der die Herzen erforscht, weiß, was die Absicht des Geistes ist: Er tritt so, wie Gott es will, für die Heiligen ein. Wir wissen, dass Gott bei denen, die ihn lieben, alles zum Guten führt, bei denen, die nach seinem ewigen Plan berufen sind; denn alle, die er im Voraus erkannt hat, hat er auch im Voraus dazu bestimmt, an Wesen und Gestalt seines Sohnes teilzuhaben, damit dieser der Erstgeborene von vielen Brüdern sei. Die aber, die er vorausbestimmt hat, hat er auch berufen, und die er berufen hat, hat er auch gerecht gemacht; die er aber gerecht gemacht hat, die hat er auch verherrlicht."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Mt 19, 27-29",
+              "es": "Mt 19, 27-29",
+              "en-US": "Mt 19:27-29",
+              "pt-BR": "Mt 19, 27-29",
+              "it": "Mt 19, 27-29",
+              "fr": "Mt 19, 27-29",
+              "de": "Mt 19, 27-29"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Matthǽum",
+              "es": "✠ Lectura del santo Evangelio según san Mateo",
+              "en-US": "✠ A reading from the holy Gospel according to Matthew",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+              "it": "✠ Dal Vangelo secondo Matteo",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Matthieu",
+              "de": "✠ Aus dem heiligen Evangelium nach Matthäus"
+            },
+            "summary": {
+              "la": "Vos, qui secute estis me, centuplum accipietis.",
+              "es": "Vosotros, los que me habéis seguido, recibiréis cien veces más",
+              "pt-BR": "Vós, que me seguistes, recebereis cem vezes mais.",
+              "it": "Voi che mi avete seguito, riceverete cento volte tanta."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dixit Petrus ad Iesum: «Ecce nos relíquimus ómnia et secúti sumus te. Quid ergo erit nobis?». Iesus autem dixit illis: «Amen dico vobis quod vos, qui secúti estis me, in regeneratióne, cum séderit Fílius hóminis in throno glóriæ suæ, sedébitis et vos super thronos duódecim, iudicántes duódecim tribus Israel. Et omnis, qui relíquit domos vel fratres aut soróres aut patrem aut matrem aut fílios aut agros propter nomen meum, céntuplum accípiet et vitam ætérnam possidébit."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, dijo Pedro a Jesús: «Ya ves, nosotros lo hemos dejado todo y te hemos seguido; ¿qué nos va a tocar?». Jesús les dijo: «En verdad os digo: cuando llegue la renovación y el Hijo del hombre se siente en el trono de su gloria, también vosotros, los que me habéis seguido, os sentaréis en doce tronos para juzgar a las doce tribus de Israel. Todo el que por mí deja casa, hermanos o hermanas, padre o madre, hijos o tierras, recibirá cien veces más y heredará la vida eterna»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Then Peter said to him in reply, “We have given up everything and followed you. What will there be for us?” Jesus said to them, “Amen, I say to you that you who have followed me, in the new age, when the Son of Man is seated on his throne of glory, will yourselves sit on twelve thrones, judging the twelve tribes of Israel. And everyone who has given up houses or brothers or sisters or father or mother or children or lands for the sake of my name will receive a hundred times more, and will inherit eternal life."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, Pedro tomou a palavra e disse a Jesus: \"Vê! Nós deixamos tudo e te seguimos. O que haveremos de receber?\" Jesus respondeu: \"Em verdade vos digo, quando o mundo for renovado e o Filho do Homem se sentar no trono de sua glória, também vós, que me seguistes, havereis de sentar-vos em doze tronos, para julgar as doze tribos de Israel. E todo aquele que tiver deixado casas, irmãos, irmãs, pai, mãe, filhos, campos, por causa do meu nome, receberá cem vezes mais e terá como herança a vida eterna\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Pietro, disse a Gesù: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito; che cosa dunque ne avremo?». E Gesù disse loro: «In verità io vi dico: voi che mi avete seguito, quando il Figlio dell’uomo sarà seduto sul trono della sua gloria, alla rigenerazione del mondo, siederete anche voi su dodici troni a giudicare le dodici tribù d’Israele. Chiunque avrà lasciato case, o fratelli, o sorelle, o padre, o madre, o figli, o campi per il mio nome, riceverà cento volte tanto e avrà in eredità la vita eterna»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Pierre prit la parole et dit à Jésus : « Voici que nous avons tout quitté pour te suivre : quelle sera donc notre part ? » Jésus leur déclara : « Amen, je vous le dis : lors du renouvellement du monde, lorsque le Fils de l’homme siégera sur son trône de gloire, vous qui m’avez suivi, vous siégerez vous aussi sur douze trônes pour juger les douze tribus d’Israël. Et celui qui aura quitté, à cause de mon nom, des maisons, des frères, des sœurs, un père, une mère, des enfants, ou une terre, recevra le centuple, et il aura en héritage la vie éternelle. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sagte Petrus zu Jesus: Du weißt, wir haben alles verlassen und sind dir nachgefolgt. Was werden wir dafür bekommen? Jesus erwiderte ihnen: Amen, ich sage euch: Wenn die Welt neu geschaffen wird und der Menschensohn sich auf den Thron der Herrlichkeit setzt, werdet ihr, die ihr mir nachgefolgt seid, auf zwölf Thronen sitzen und die zwölf Stämme Israels richten. Und jeder, der um meines Namens willen Häuser oder Brüder, Schwestern, Vater, Mutter, Kinder oder Äcker verlassen hat, wird dafür das Hundertfache erhalten und das ewige Leben gewinnen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

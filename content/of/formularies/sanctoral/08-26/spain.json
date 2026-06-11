@@ -1,0 +1,205 @@
+{
+  "id": "sanctorale.08-26.spain",
+  "kind": "sanctoral",
+  "scope": "spain",
+  "structure": "mass",
+  "title": {
+    "es": "Santa Teresa de Jesús Jornet e Ibars, virgen, patrona de la ancianidad"
+  },
+  "description": {
+    "es": "Nacida en Aitona (Lérida) el 9 de enero de 1843, de padres profundamente cristianos. En la Congregación de las Hermanitas de los Ancianos Desamparados, fue Superiora General desde los primeros días hasta su muerte, ocurrida en Liria (Valencia), el 26 de agosto de 1897, después de una vida de sacrificios heroicos al servicio de los ancianos desamparados. Fue canonizada solemnemente por su santidad Pablo VI el día 27 de enero de 1974."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ven, esposa de Cristo, recibe la corona que el Señor te ha preparado desde la eternidad."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has guiado a la virgen santa Teresa de Jesús Jornet"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a la perfecta caridad en el cuidado de los ancianos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, a ejemplo suyo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "servir a Cristo en el prójimo"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para ser testigos de su amor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Recibe, Señor, los dones de tu pueblo"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y concédenos"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, al recordar las maravillas"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que el amor de tu Hijo realizó en nosotros,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos reafirmemos, a ejemplo de los santos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en el amor a ti y al prójimo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que llega el esposo, salid a recibir a Cristo, el Señor."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Mt 25,6"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alimentados con el sacramento de salvación,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te rogamos, Dios de misericordia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, imitando la caridad de santa Teresa de Jesús Jornet,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "seamos un día partícipes de su gloria."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

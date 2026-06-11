@@ -1,0 +1,237 @@
+{
+  "id": "sanctorale.spain.10055",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "es": "Témporas de acción de gracias y de petición Otra misa para el día de petición"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Si el Señor no construye la casa, en vano se cansan los albañiles; si el Señor no guarda la ciudad, en vano vigilan los centinelas."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Sal 126, 1"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios todopoderoso y eterno,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que con amor generoso desbordas los méritos y las esperanzas"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de cuantos a ti acuden,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sacia los deseos de nuestro corazón"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y concédenos también aquellos bienes"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que superan nuestro conocimiento"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pero que has preparado para los que te aman."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te presentamos, Señor, nuestras ofrendas"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y te pedimos que santifiques, por ellas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "los proyectos y las obras"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que intentamos realizar desde ahora."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.spain.10055.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "text",
+                "text": "El más apropiado es el Prefacio común IV."
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Coronas el año con tus bienes, Señor, y serás la esperanza del confín de la tierra."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Sal 65, 12. 6"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "el sacramento de tu Hijo que hemos ofrecido en acción de gracias,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos lo devuelves como alimento espiritual;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos que, fortalecidos ahora"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por estos dones que otorgan virtud y alegría,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te sirvamos cada día con mayor entrega"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y nos dispongamos a recibir de ti nuevos favores."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

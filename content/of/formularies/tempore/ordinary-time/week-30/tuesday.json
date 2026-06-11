@@ -1,0 +1,2019 @@
+{
+  "id": "tempore.ordinary-time.week-30.tuesday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Feria III hebd. XXX",
+    "es": "Martes 30ª semana",
+    "en-US": "Tuesday of the Xxx Week in Ordinary Time",
+    "pt-BR": "Terça-feira da Xxx Semana do Tempo Comum",
+    "it": "MARTEDI della XXX settimana del Tempo Ordinario",
+    "fr": "Mardi de la 30e semaine",
+    "de": "30. Woche im Jahreskreis DIENSTAG"
+  },
+  "season": "ordinary-time",
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "weekday",
+  "includeGloria": false,
+  "inheritsOrationsFrom": "tempore.ordinary-time.week-30.sunday",
+  "readings": {
+    "I": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Rom 8, 18-25",
+              "es": "Rom 8, 18-25",
+              "en-US": "Rom 8:18-25",
+              "pt-BR": "Rom 8, 18-25",
+              "it": "Rm 8,18-25",
+              "fr": "Rm 8, 18-25",
+              "de": "Röm 8, 18-25"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Romános",
+              "es": "Lectura de la carta del apóstol san Pablo a los Romanos",
+              "en-US": "A reading from the Letter of Saint Paul to the Romans",
+              "pt-BR": "Leitura da Carta de São Paulo aos Romanos",
+              "it": "Dalla lettera di san Paolo apostolo ai Romani",
+              "fr": "Lettre de saint Paul Apôtre aux Romains",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Römer"
+            },
+            "summary": {
+              "la": "Exspectatio creaturæ revel ationem filiorum Dei exspectat",
+              "es": "La creación, expectante, está aguardando la manifestación de los hijos de Dios",
+              "pt-BR": "Toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus.",
+              "it": "L’ardente aspettativa della creazione è protesa verso la rivelazione dei figli di Dio."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Exístimo quod non sunt condígnæ passiónes huius témporis ad futúram glóriam, quæ revelánda est in nobis. Nam exspectátio creatúræ revelatiónem filiórum Dei exspéctat; vanitáti enim creatúra subiécta est, non volens sed propter eum, qui subiécit, in spem, quia et ipsa creatúra liberábitur a servitúte corruptiónis in libertátem glóriæ filiórum Dei. Scimus enim quod omnis creatúra congemíscit et compárturit usque adhuc; non solum autem, sed et nos ipsi primítias Spíritus habéntes, et ipsi intra nos gémimus adoptiónem filiórum exspectántes, redemptiónem córporis nostri. Spe enim salvi facti sumus; spes autem, quæ vidétur, non est spes; nam, quod videt, quis sperat? Si autem, quod non vidémus, sperámus, per patiéntiam exspectámus."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Considero que los sufrimientos de ahora no se pueden comparar con la gloria que un día se nos manifestará. Porque la creación, expectante, está aguardando la manifestación de los hijos de Dios; en efecto, la creación fue sometida a la frustración, no por su voluntad, sino por aquel que la sometió, con la esperanza de que la creación misma sería liberada de la esclavitud de la corrupción, para entrar en la gloriosa libertad de los hijos de Dios. Porque sabemos que hasta hoy toda la creación está gimiendo y sufre dolores de parto. Y no solo eso, sino que también nosotros, que poseemos las primicias del Espíritu, gemimos en nuestro interior, aguardando la adopción filial, la redención de nuestro cuerpo. Pues hemos sido salvados en esperanza. Y una esperanza que se ve, no es esperanza; efectivamente, ¿cómo va a esperar uno algo que ve? Pero si esperamos lo que no vemos, aguardamos con perseverancia."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I think that what we suffer in this life can never be compared to the glory, as yet unrevealed, which is waiting for us. The whole creation is eagerly waiting for God to reveal his sons. It was not for any fault on the part of creation that it was made unable to attain its purpose, it was made so by God; but creation still retains the hope of being freed, like us, from its slavery to decadence, to enjoy the same freedom and glory as the children of God. From the beginning till now the entire creation, as we know, has been groaning in one great act of giving birth; and not only creation, but all of us who possess the first-fruits of the Spirit, we too groan inwardly as we wait for our bodies to be set free. For we must be content to hope that we shall be saved - our salvation is not in sight, we should not have to be hoping for it if it were - but, as I say, we must hope to be saved since we are not saved yet - it is something we must wait for with patience."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos, eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. Com efeito, sabemos que toda a criação, até o tempo presente, está gemendo como que em dores de parto. E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. Pois já fomos salvos, mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, ritengo che le sofferenze del tempo presente non siano paragonabili alla gloria futura che sarà rivelata in noi. L’ardente aspettativa della creazione, infatti, è protesa verso la rivelazione dei figli di Dio. La creazione infatti è stata sottoposta alla caducità – non per sua volontà, ma per volontà di colui che l’ha sottoposta – nella speranza che anche la stessa creazione sarà liberata dalla schiavitù della corruzione per entrare nella libertà della gloria dei figli di Dio. Sappiamo infatti che tutta insieme la creazione geme e soffre le doglie del parto fino ad oggi. Non solo, ma anche noi, che possediamo le primizie dello Spirito, gemiamo interiormente aspettando l’adozione a figli, la redenzione del nostro corpo. Nella speranza infatti siamo stati salvati. Ora, ciò che si spera, se è visto, non è più oggetto di speranza; infatti, ciò che uno già vede, come potrebbe sperarlo? Ma, se speriamo quello che non vediamo, lo attendiamo con perseveranza."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, j’estime qu’il n’y a pas de commune mesure entre les souffrances du temps présent et la gloire qui va être révélée pour nous. En effet, la création attend avec impatience la révélation des fils de Dieu. Car la création a été soumise au pouvoir du néant, non pas de son plein gré, mais à cause de celui qui l’a livrée à ce pouvoir. Pourtant, elle a gardé l’espérance d’être, elle aussi, libérée de l’esclavage de la dégradation, pour connaître la liberté de la gloire donnée aux enfants de Dieu. Nous le savons bien, la création tout entière gémit, elle passe par les douleurs d’un enfantement qui dure encore. Et elle n’est pas seule. Nous aussi, en nous-mêmes, nous gémissons ; nous avons commencé à recevoir l’Esprit Saint, mais nous attendons notre adoption et la rédemption de notre corps. Car nous avons été sauvés, mais c’est en espérance ; voir ce qu’on espère, ce n’est plus espérer : ce que l’on voit, comment peut-on l’espérer encore ? Mais nous, qui espérons ce que nous ne voyons pas, nous l’attendons avec persévérance."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Ich bin überzeugt, dass die Leiden der gegenwärtigen Zeit nichts bedeuten im Vergleich zu der Herrlichkeit, die an uns offenbar werden soll. Denn die ganze Schöpfung wartet sehnsüchtig auf das Offenbarwerden der Söhne Gottes. Die Schöpfung ist der Vergänglichkeit unterworfen, nicht aus eigenem Willen, sondern durch den, der sie unterworfen hat; aber zugleich gab er ihr Hoffnung: Auch die Schöpfung soll von der Sklaverei und Verlorenheit befreit werden zur Freiheit und Herrlichkeit der Kinder Gottes. Denn wir wissen, dass die gesamte Schöpfung bis zum heutigen Tag seufzt und in Geburtswehen liegt. Aber auch wir, obwohl wir als Erstlingsgabe den Geist haben, seufzen in unserem Herzen und warten darauf, dass wir mit der Erlösung unseres Leibes als Söhne offenbar werden. Denn wir sind gerettet, doch in der Hoffnung. Hoffnung aber, die man schon erfüllt sieht, ist keine Hoffnung. Wie kann man auf etwas hoffen, das man sieht? Hoffen wir aber auf das, was wir nicht sehen, dann harren wir aus in Geduld."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 125",
+              "es": "Sal 125",
+              "en-US": "Ps 125",
+              "pt-BR": "Sl 125",
+              "it": "Sal 125",
+              "fr": "Ps 125",
+              "de": "Ps 126"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Magnificábit Dóminus fácere nobíscum."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "El Señor ha estado grande con nosotros."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "The Lord has done marvels for us."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Maravilhas fez conosco o Senhor!."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Chi semina nel pianto raccoglie nella gioia."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Quelles merveilles le Seigneur fit pour nous !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Großes hat der Herr an uns getan. Da waren wir fröhlich."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In converténdo Dóminus captivitátem Sion,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "facti sumus quasi somniántes."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tunc replétum est gáudio os nostrum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et lingua nostra exsultatióne."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tunc dicébant inter gentes:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "«Magnificávit Dóminus fácere cum eis»."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Magnificávit Dóminus fácere nobíscum;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "facti sumus lætántes."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Convérte, Dómine, captivitátem nostram,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sicut torréntes in austro."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qui séminant in lácrimis,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in exsultatióne metent."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Eúntes ibant et flebant,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "semen spargéndum portántes;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "veniéntes autem vénient in exsultatióne portántes manípulos suos."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cuando el Señor hizo volver a los cautivos de Sion,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nos parecía soñar:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la boca se nos llenaba de risas,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la lengua de cantares."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hasta los gentiles decían:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "«El Señor ha estado grande con ellos»."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor ha estado grande con nosotros,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y estamos alegres."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Recoge, Señor, a nuestros cautivos como los torrentes del Negueb."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Los que sembraban con lágrimas cosechan entre cantares."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Al ir, iba llorando,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "llevando la semilla;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "al volver, vuelve cantando,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "trayendo sus gavillas."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "When the Lord delivered Zion from bondage, it seemed like a dream. Then was our mouth filled with laughter, on our lips there were songs."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The heathens themselves said: 'What marvels the Lord worked for them!' What marvels the Lord worked for us! Indeed we were glad."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Deliver us, O Lord, from our bondage as streams in dry land. Those who are sowing in tears will sing when they reap."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "They go out, they go out, full of tears, carrying seed for the sowing: they come back, they come back, full of song, carrying their sheaves."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quando o Senhor reconduziu nossos cativos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "parecíamos sonhar;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "encheu-se de sorriso nossa boca,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nossos lábios, de canções."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Entre os gentios se dizia: \"Maravilhas fez com eles o Senhor!\""
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sim,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "maravilhas fez conosco o Senhor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "exultemos de alegria!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mudai a nossa sorte, ó Senhor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "como torrentes no deserto."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Os que lançam as sementes entre lágrimas,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ceifarão com alegria."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Chorando de tristeza sairão,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "espalhando suas sementes; cantando de alegria voltarão,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "carregando os seus feixes!"
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quando il Signore ristabilì la sorte di Sion,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ci sembrava di sognare."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Allora la nostra bocca si riempì di sorriso,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la nostra lingua di gioia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Allora si diceva tra le genti:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "«Il Signore ha fatto grandi cose per loro»."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Grandi cose ha fatto il Signore per noi:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "eravamo pieni di gioia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ristabilisci, Signore, la nostra sorte,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "come i torrenti del Negheb."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Chi semina nelle lacrime mieterà nella gioia."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Nell’andare, se ne va piangendo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "portando la semente da gettare,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ma nel tornare, viene con gioia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "portando i suoi covoni."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quand le Seigneur ramena les captifs à Sion,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nous étions comme en rêve !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Alors notre bouche était pleine de rires,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nous poussions des cris de joie."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Alors on disait parmi les nations :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "« Quelles merveilles fait pour eux le Seigneur ! »"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quelles merveilles le Seigneur fit pour nous :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nous étions en grande fête !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ramène, Seigneur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nos captifs,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "comme les torrents au désert."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Qui sème dans les larmes moissonne dans la joie."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il s’en va, il s’en va en pleurant,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il jette la semence ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il s’en vient, il s’en vient dans la joie,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il rapporte les gerbes."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Als der Herr das Los der Gefangenschaft Zions wendete,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "da waren wir alle wie Träumende."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Da war unser Mund voll Lachen und unsere Zunge voll Jubel."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Da sagte man unter den andern Völkern:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "„Der Herr hat an ihnen Großes getan.“ Ja, Großes hat der Herr an uns getan."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Da waren wir fröhlich."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wende doch, Herr, unser Geschick,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wie du versiegte Bäche wieder füllst im Südland."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Die mit Tränen säen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "werden mit Jubel ernten."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sie gehen hin unter Tränen und tragen den Samen zur Aussaat."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sie kommen wieder mit Jubel und bringen ihre Garben ein."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Benedíctus es, Pater, Dómine cæli et terræ, quia mystéria regni párvulis revelásti."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bendito seas, Padre, Señor del cielo y de la tierra, porque has revelado los misterios del reino a los pequeños."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Blessed are you, Father, Lord of heaven and earth; you have revealed to little ones the mysteries of the kingdom."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois, revelaste: os mistérios do teu Reino aos pequeninos, escondendo-o aos doutres!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tu es béni, Père, Seigneur du ciel et de la terre, tu as révélé aux tout-petits les mystères du Royaume !"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Sei gepriesen, Vater, Herr des Himmels und der Erde; du hast die Geheimnisse des Reiches den Unmündigen offenbart."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Cf. Mt 11, 25",
+              "es": "Cf. Mt 11, 25",
+              "pt-BR": "Cf. Mt 11, 25",
+              "it": "Cfr. Mt 11,25",
+              "fr": "Cf. Mt 11, 25",
+              "de": "vgl. Mt 11, 25"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 13, 18-21",
+              "es": "Lc 13, 18-21",
+              "en-US": "Lk 13:18-21",
+              "pt-BR": "Lc 13, 18-21",
+              "it": "Lc 13, 18-21",
+              "fr": "Lc 13, 18-21",
+              "de": "Lk 13, 18-21"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Crevit granum et factum est in arborem",
+              "es": "El grano creció y se hizo un árbol",
+              "pt-BR": "A semente cresce, torna-se uma grande árvore.",
+              "it": "Il granello crebbe e divenne un albero."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dicébat Iesus: «Cui símile est regnum Dei, et cui símile existimábo illud? Símile est grano sinápis, quod accéptum homo misit in hortum suum, et crevit et factum est in árborem, et vólucres cæli requievérunt in ramis eius». Et íterum dixit: «Cui símile æstimábo regnum Dei? Símile est ferménto, quod accéptum múlier abscóndit in farínæ sata tria, donec fermentarétur totum»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, decía Jesús: «¿A qué es semejante el reino de Dios o a qué lo compararé? Es semejante a un grano de mostaza que un hombre toma y siembra en su huerto; creció, se hizo un árbol y los pájaros del cielo anidaron en sus ramas». Y dijo de nuevo: «¿A qué compararé el reino de Dios? Es semejante a la levadura que una mujer tomó y metió en tres medidas de harina, hasta que todo fermentó»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jesus said, 'What is the kingdom of God like? What shall I compare it with? It is like a mustard seed which a man took and threw into his garden: it grew and became a tree, and the birds of the air sheltered in its branches.' Another thing he said, 'What shall I compare the kingdom of God with? It is like the yeast a woman took and mixed in with three measures of flour till it was leavened all through.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, Jesus dizia: \"A que é semelhante o Reino de Deus, e com que poderei compará-lo? Ele é como a semente de mostarda, que um homem pega e atira no seu jardim. A semente cresce, torna-se uma grande árvore, e as aves do céu fazem ninhos nos seus ramos\". Jesus disse ainda: \"Com que poderei ainda comparar o Reino de Deus? Ele é como o fermento que uma mulher pega e mistura com três porções de farinha, até que tudo fique fermentado\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, diceva Gesù: «A che cosa è simile il regno di Dio, e a che cosa lo posso paragonare? È simile a un granello di senape, che un uomo prese e gettò nel suo giardino; crebbe, divenne un albero e gli uccelli del cielo vennero a fare il nido fra i suoi rami». E disse ancora: «A che cosa posso paragonare il regno di Dio? È simile al lievito, che una donna prese e mescolò in tre misure di farina, finché non fu tutta lievitata»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait : « À quoi le règne de Dieu est-il comparable, à quoi vais-je le comparer ? Il est comparable à une graine de moutarde qu’un homme a prise et jetée dans son jardin. Elle a poussé, elle est devenue un arbre, et les oiseaux du ciel ont fait leur nid dans ses branches. » Il dit encore : « À quoi pourrai-je comparer le règne de Dieu ? Il est comparable au levain qu’une femme a pris et enfoui dans trois mesures de farine, jusqu’à ce que toute la pâte ait levé. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sprach Jesus: Wem ist das Reich Gottes ähnlich, womit soll ich es vergleichen? Es ist wie ein Senfkorn, das ein Mann in seinem Garten in die Erde steckte; es wuchs und wurde zu einem Baum, und die Vögel des Himmels nisteten in seinen Zweigen. Außerdem sagte er: Womit soll ich das Reich Gottes vergleichen? Es ist wie der Sauerteig, den eine Frau unter einen großen Trog Mehl mischte, bis das Ganze durchsäuert war."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    },
+    "II": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Eph 5, 21-33",
+              "es": "Ef 5, 21-33",
+              "en-US": "Eph 5:21-33",
+              "pt-BR": "Ef 5, 21-33",
+              "it": "Ef 5,21-33",
+              "fr": "Ep 5, 21-33",
+              "de": "Eph 5, 21-33"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Ephésios",
+              "es": "Lectura de la carta del apóstol san Pablo a los Efesios",
+              "en-US": "A reading from the Letter of Saint Paul to the Ephesians",
+              "pt-BR": "Leitura da Carta de São Paulo aos Efésios",
+              "it": "Dalla lettera di san Paolo apostoli agli Efesini",
+              "fr": "Lettre de saint Paul Apôtre aux Éphésiens",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Épheser"
+            },
+            "summary": {
+              "la": "Sacramentum hoc magnum est, de Christo et Ecclésia",
+              "es": "Es este un gran misterio: y yo lo refiero a Cristo y a la iglesia",
+              "pt-BR": "Este mistério é grande, e eu o interpreto em relação a Cristo e à Igreja.",
+              "it": "Questo mistero è grande: io lo dico in riferimento a Cristo e alla Chiesa!"
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Subiécti estóte ínvicem in timóre Christi. Mulíeres viris suis sicut Dómino, quóniam vir caput est mulíeris, sicut et Christus caput est Ecclésiæ, ipse salvátor córporis. Sed ut Ecclésia subiécta est Christo, ita et mulíeres viris in ómnibus. Viri, dilígite uxóres, sicut et Christus diléxit Ecclésiam et seípsum trádidit pro ea, ut illam sanctificáret mundans lavácro aquæ in verbo, ut exhibéret ipse sibi gloriósam Ecclésiam non habéntem máculam aut rugam aut áliquid eiúsmodi, sed ut sit sancta et immaculáta. Ita et viri debent dilígere uxóres suas ut córpora sua. Qui suam uxórem díligit, seípsum díligit; nemo enim umquam carnem suam ódio hábuit, sed nutrit et fovet eam sicut et Christus Ecclésiam, quia membra sumus córporis eius. Propter hoc relínquet homo patrem et matrem et adhærébit uxóri suæ, et erunt duo in carne una. Mystérium hoc magnum est; ego autem dico de Christo et Ecclésia! Verúmtamen et vos sínguli unusquísque suam uxórem sicut seípsum díligat; uxor autem tímeat virum."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Sed sumisos unos a otros en el temor de Cristo: las mujeres, a sus maridos, como al Señor; porque el marido es cabeza de la mujer, como Cristo es cabeza de la Iglesia; él, que es el salvador del cuerpo. Como la Iglesia se somete a Cristo, así también las mujeres a sus maridos en todo. Maridos, amad a vuestras mujeres como Cristo amó a su Iglesia: Él se entregó a sí mismo por ella, para consagrarla, purificándola con el baño del agua y la palabra, y para presentársela gloriosa, sin mancha ni arruga ni nada semejante, sino santa e inmaculada. Así deben también los maridos amar a sus mujeres, como cuerpos suyos que son. Amar a su mujer es amarse a sí mismo. Pues nadie jamás ha odiado su propia carne, sino que le da alimento y calor, como Cristo hace con la Iglesia, porque somos miembros de su cuerpo. «Por eso dejará el hombre a su padre y a su madre, y se unirá a su mujer y serán los dos una sola carne». Es este un gran misterio: y yo lo refiero a Cristo y a la Iglesia. En una palabra, que cada uno de vosotros ame a su mujer como a sí mismo, y que la mujer respete al marido."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Give way to one another in obedience to Christ. Wives should regard their husbands as they regard the Lord, since as Christ is head of the Church and saves the whole body, so is a husband the head of his wife; and as the Church submits to Christ, so should wives to their husbands, in everything. Husbands should love their wives just as Christ loved the Church and sacrificed himself for her to make her holy. He made her clean by washing her in water with a form of words, so that when he took her to himself she would be glorious, with no speck or wrinkle or anything like that, but holy and faultless. In the same way, husbands must love their wives as they love their own bodies; for a man to love his wife is for him to love himself. A man never hates his own body, but he feeds it and looks after it; and that is the way Christ treats the Church, because it is his body-and we are its living parts. For this reason, a man must leave his father and mother and be joined to his wife, and the two will become one body. This mystery has many implications; but I am saying it applies to Christ and the Church. To sum up; you too, each one of you, must love his wife as he loves himself; and let every wife respect her husband."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos, vós que temeis a Cristo, sede solícitos uns para com os outros. As mulheres sejam submissas aos seus maridos como ao Senhor. Pois o marido é a cabeça da mulher, do mesmo modo que Cristo é a cabeça da Igreja, ele, o Salvador do seu Corpo. Mas como a Igreja é solícita por Cristo, sejam as mulheres solícitas em tudo pelos seus maridos. Maridos, amai as vossas mulheres, como o Cristo amou a Igreja e se entregou por ela. Ele quis assim torná-la santa, purificando-a com o banho da água unida à Palavra. Ele quis apresentá-la a si mesmo esplêndida, sem mancha nem ruga, nem defeito algum, mas santa e irrepreensível. Assim é que o marido deve amar a sua mulher, como ao seu próprio corpo. Aquele que ama a sua mulher ama-se a si mesmo. Ninguém jamais odiou a sua própria carne. Ao contrário, alimenta-a e cerca-a de cuidados, como o Cristo faz com a sua Igreja; e nós somos membros do seu corpo! Por isso o homem deixará seu pai e sua mãe e se unirá à sua mulher, e os dois serão uma só carne. Este mistério é grande, e eu o interpreto em relação a Cristo e à Igreja. Em todo caso, cada um, no que lhe toca, deve amar a sua mulher como a si mesmo; e a mulher deve respeitar o seu marido."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, nel timore di Cristo, siate sottomessi gli uni agli altri: le mogli lo siano ai loro mariti, come al Signore; il marito infatti è capo della moglie, così come Cristo è capo della Chiesa, lui che è salvatore del corpo. E come la Chiesa è sottomessa a Cristo, così anche le mogli lo siano ai loro mariti in tutto. E voi, mariti, amate le vostre mogli, come anche Cristo ha amato la Chiesa e ha dato se stesso per lei, per renderla santa, purificandola con il lavacro dell’acqua mediante la parola, e per presentare a se stesso la Chiesa tutta gloriosa, senza macchia né ruga o alcunché di simile, ma santa e immacolata. Così anche i mariti hanno il dovere di amare le mogli come il proprio corpo: chi ama la propria moglie, ama se stesso. Nessuno infatti ha mai odiato la propria carne, anzi la nutre e la cura, come anche Cristo fa con la Chiesa, poiché siamo membra del suo corpo. Per questo l’uomo lascerà il padre e la madre e si unirà a sua moglie e i due diventeranno una sola carne. Questo mistero è grande: io lo dico in riferimento a Cristo e alla Chiesa! Così anche voi: ciascuno da parte sua ami la propria moglie come se stesso, e la moglie sia rispettosa verso il marito."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, par respect pour le Christ, soyez soumis les uns aux autres ; les femmes, à leur mari, comme au Seigneur Jésus ; car, pour la femme, le mari est la tête, tout comme, pour l’Église, le Christ est la tête, lui qui est le Sauveur de son corps. Eh bien ! puisque l’Église se soumet au Christ, qu’il en soit toujours de même pour les femmes à l’égard de leur mari. Vous, les hommes, aimez votre femme à l’exemple du Christ : il a aimé l’Église, il s’est livré lui-même pour elle, afin de la rendre sainte en la purifiant par le bain de l’eau baptismale, accompagné d’une parole ; il voulait se la présenter à lui-même, cette Église, resplendissante, sans tache, ni ride, ni rien de tel ; il la voulait sainte et immaculée. C’est de la même façon que les maris doivent aimer leur femme : comme leur propre corps. Celui qui aime sa femme s’aime soi-même. Jamais personne n’a méprisé son propre corps : au contraire, on le nourrit, on en prend soin. C’est ce que fait le Christ pour l’Église, parce que nous sommes les membres de son corps. Comme dit l’Écriture : À cause de cela, l’homme quittera son père et sa mère, il s’attachera à sa femme, et tous deux ne feront plus qu’un. Ce mystère est grand : je le dis en référence au Christ et à l’Église. Pour en revenir à vous, chacun doit aimer sa propre femme comme lui-même, et la femme doit avoir du respect pour son mari."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Einer ordne sich dem andern unter in der gemeinsamen Ehrfurcht vor Christus. Ihr Frauen, ordnet euch euren Männern unter wie dem Herrn; denn der Mann ist das Haupt der Frau, wie auch Christus das Haupt der Kirche ist; er hat sie gerettet, denn sie ist sein Leib. Wie aber die Kirche sich Christus unterordnet, sollen sich die Frauen in allem den Männern unterordnen. Ihr Männer, liebt eure Frauen, wie Christus die Kirche geliebt und sich für sie hingegeben hat, um sie im Wasser und durch das Wort rein und heilig zu machen. So will er die Kirche herrlich vor sich erscheinen lassen, ohne Flecken, Falten oder andere Fehler; heilig soll sie sein und makellos. Darum sind die Männer verpflichtet, ihre Frauen so zu lieben wie ihren eigenen Leib. Wer seine Frau liebt, liebt sich selbst. Keiner hat je seinen eigenen Leib gehasst, sondern er nährt und pflegt ihn, wie auch Christus die Kirche. Denn wir sind Glieder seines Leibes. Darum wird der Mann Vater und Mutter verlassen und sich an seine Frau binden, und die zwei werden ein Fleisch sein. Dies ist ein tiefes Geheimnis; ich beziehe es auf Christus und die Kirche. Was euch angeht, so liebe jeder von euch seine Frau wie sich selbst, die Frau aber ehre den Mann."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 127, 1-2. 3. 4-5",
+              "es": "Sal 127, 1-2. 3. 4-5",
+              "en-US": "Ps 127:1-2, 3, 4-5",
+              "pt-BR": "Sl 127, 1-2. 3. 4-5",
+              "it": "Sal 127, 1-2. 3. 4-5",
+              "fr": "Ps 127, 1-2. 3. 4-5",
+              "de": "Ps 128"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Beáti omnes qui timent Dóminum."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Dichosos los que temen al Señor."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Blessed are those who fear the Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Felizes todos que respeitam o Senhor!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Beato chi teme il Signore."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Heureux qui craint le Seigneur !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Selig die Menschen, die Gottes Wege gehen!"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beátus omnis qui timet Dóminum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "qui ámbulat in viis eius."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Labóres mánuum tuárum manducábis,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "beátus es, et bene tibi erit."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Uxor tua sicut vitis fructífera in latéribus domus tuæ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "fílii tui sicut novéllæ olivárum in circúitu mensæ tuæ."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ecce sic benedicétur homo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "qui timet Dóminum."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Benedícat tibi Dóminus ex Sion,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et vídeas bona Ierúsalem ómnibus diébus vitæ tuæ."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dichoso el que teme al Señor y sigue sus caminos."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Comerás del fruto de tu trabajo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "serás dichoso, te irá bien."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu mujer, como parra fecunda,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "en medio de tu casa;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tus hijos, como renuevos de olivo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "alrededor de tu mesa."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Esta es la bendición del hombre que teme al Señor."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Que el Señor te bendiga desde Sion,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que veas la prosperidad de Jerusalén todos los días de tu vida."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Blessed are you who fear the Lord, who walk in his ways! For you shall eat the fruit of your handiwork; Blessed shall you be, and favored."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Your wife shall be like a fruitful vine in the recesses of your home; Your children like olive plants around your table."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Behold, thus is the man blessed who fears the Lord. The Lord bless you from Zion: may you see the prosperity of Jerusalem all the days of your life."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Feliz és tu se temes o Senhor e trilhas seus caminhos!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Do trabalho de tuas mãos hás de viver,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "serás feliz, tudo irá bem!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "A tua esposa é uma videira bem fecunda no coração da tua casa;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "os teus filhos são rebentos de oliveira ao redor de tua mesa."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Será assim abençoado todo homem que teme o Senhor."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Senhor te abençoe de Sião,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "cada dia de tua vida."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beato chi teme il Signore e cammina nelle sue vie."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Della fatica delle tue mani ti nutrirai,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sarai felice e avrai ogni bene."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "La tua sposa come vite feconda nell’intimità della tua casa;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "i tuoi figli come virgulti d’ulivo intorno alla tua mensa."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ecco com’è benedetto l’uomo che teme il Signore."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ti benedica il Signore da Sion."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Possa tu vedere il bene di Gerusalemme tutti i giorni della tua vita!"
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Heureux qui craint le Seigneur et marche selon ses voies !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu te nourriras du travail de tes mains :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Heureux es-tu ! À toi, le bonheur !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ta femme sera dans ta maison comme une vigne généreuse,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et tes fils, autour de la table,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "comme des plants d’olivier."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Voilà comment sera béni l’homme qui craint le Seigneur."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "De Sion, que le Seigneur te bénisse !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu verras le bonheur de Jérusalem tous les jours de ta vie."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wohl dem Menschen, der den Herrn fürchtet und ehrt und der auf seinen Wegen geht!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Was deine Hände erwarben, kannst du genießen;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wohl dir,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "es wird dir gut ergehn."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wie ein fruchtbarer Weinstock ist deine Frau drinnen in deinem Haus."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wie junge Ölbäume sind deine Kinder rings um deinen Tisch."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "So wird der Mann gesegnet,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "der den Herrn fürchtet und ehrt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Es segne dich der Herr vom Zion her."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Du sollst dein Leben lang das Glück Jerusalems schauen."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Benedíctus es, Pater, Dómine cæli et terræ, quia mystéria regni párvulis revelásti."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bendito seas, Padre, Señor del cielo y de la tierra, porque has revelado los misterios del reino a los pequeños."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Blessed are you, Father, Lord of heaven and earth; you have revealed to little ones the mysteries of the kingdom."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois, revelaste: os mistérios do teu Reino aos pequeninos, escondendo-o aos doutres!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tu es béni, Père, Seigneur du ciel et de la terre, tu as révélé aux tout-petits les mystères du Royaume !"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Sei gepriesen, Vater, Herr des Himmels und der Erde; du hast die Geheimnisse des Reiches den Unmündigen offenbart."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Cf. Mt 11, 25",
+              "es": "Cf. Mt 11, 25",
+              "pt-BR": "Cf. Mt 11, 25",
+              "it": "Cfr. Mt 11,25",
+              "fr": "Cf. Mt 11, 25",
+              "de": "vgl. Mt 11, 25"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 13, 18-21",
+              "es": "Lc 13, 18-21",
+              "en-US": "Lk 13:18-21",
+              "pt-BR": "Lc 13, 18-21",
+              "it": "Lc 13, 18-21",
+              "fr": "Lc 13, 18-21",
+              "de": "Lk 13, 18-21"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Crevit granum et factum est in arborem",
+              "es": "El grano creció y se hizo un árbol",
+              "pt-BR": "A semente cresce, torna-se uma grande árvore.",
+              "it": "Il granello crebbe e divenne un albero."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dicébat Iesus: «Cui símile est regnum Dei, et cui símile existimábo illud? Símile est grano sinápis, quod accéptum homo misit in hortum suum, et crevit et factum est in árborem, et vólucres cæli requievérunt in ramis eius». Et íterum dixit: «Cui símile æstimábo regnum Dei? Símile est ferménto, quod accéptum múlier abscóndit in farínæ sata tria, donec fermentarétur totum»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, decía Jesús: «¿A qué es semejante el reino de Dios o a qué lo compararé? Es semejante a un grano de mostaza que un hombre toma y siembra en su huerto; creció, se hizo un árbol y los pájaros del cielo anidaron en sus ramas». Y dijo de nuevo: «¿A qué compararé el reino de Dios? Es semejante a la levadura que una mujer tomó y metió en tres medidas de harina, hasta que todo fermentó»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jesus said, 'What is the kingdom of God like? What shall I compare it with? It is like a mustard seed which a man took and threw into his garden: it grew and became a tree, and the birds of the air sheltered in its branches.' Another thing he said, 'What shall I compare the kingdom of God with? It is like the yeast a woman took and mixed in with three measures of flour till it was leavened all through.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, Jesus dizia: \"A que é semelhante o Reino de Deus, e com que poderei compará-lo? Ele é como a semente de mostarda, que um homem pega e atira no seu jardim. A semente cresce, torna-se uma grande árvore, e as aves do céu fazem ninhos nos seus ramos\". Jesus disse ainda: \"Com que poderei ainda comparar o Reino de Deus? Ele é como o fermento que uma mulher pega e mistura com três porções de farinha, até que tudo fique fermentado\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, diceva Gesù: «A che cosa è simile il regno di Dio, e a che cosa lo posso paragonare? È simile a un granello di senape, che un uomo prese e gettò nel suo giardino; crebbe, divenne un albero e gli uccelli del cielo vennero a fare il nido fra i suoi rami». E disse ancora: «A che cosa posso paragonare il regno di Dio? È simile al lievito, che una donna prese e mescolò in tre misure di farina, finché non fu tutta lievitata»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait : « À quoi le règne de Dieu est-il comparable, à quoi vais-je le comparer ? Il est comparable à une graine de moutarde qu’un homme a prise et jetée dans son jardin. Elle a poussé, elle est devenue un arbre, et les oiseaux du ciel ont fait leur nid dans ses branches. » Il dit encore : « À quoi pourrai-je comparer le règne de Dieu ? Il est comparable au levain qu’une femme a pris et enfoui dans trois mesures de farine, jusqu’à ce que toute la pâte ait levé. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sprach Jesus: Wem ist das Reich Gottes ähnlich, womit soll ich es vergleichen? Es ist wie ein Senfkorn, das ein Mann in seinem Garten in die Erde steckte; es wuchs und wurde zu einem Baum, und die Vögel des Himmels nisteten in seinen Zweigen. Außerdem sagte er: Womit soll ich das Reich Gottes vergleichen? Es ist wie der Sauerteig, den eine Frau unter einen großen Trog Mehl mischte, bis das Ganze durchsäuert war."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

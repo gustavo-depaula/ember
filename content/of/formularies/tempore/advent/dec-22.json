@@ -1,0 +1,2697 @@
+{
+  "id": "tempore.advent.dec-22",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Die 22 decembris",
+    "es": "22 de diciembre",
+    "en-US": "22 December",
+    "pt-BR": "22 de dezembro",
+    "it": "22 dicembre",
+    "fr": "22 décembre",
+    "de": "22. Dezember"
+  },
+  "season": "advent",
+  "color": "violet",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Attóllite, portæ, cápita vestra, et elevámini, portæ æternáles, et introíbit rex glóriæ."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Portones, alzad los dinteles, que se alcen las puertas eternales: va a entrar el Rey de la gloria."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O gates, lift high your heads; grow higher, ancient doors. Let him enter, the king of glory!"
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó portas, levantai vossos frontões!"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Elevai-vos bem mais alto, antigas portas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a fim de que o Rei da glória possa entrar."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sollevate, o porte, i vostri frontali, alzatevi, soglie antiche, ed entri il re della gloria."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Portes, levez vos frontons !"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "élevez-vous, portes éternelles :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qu’il entre, le roi de gloire !"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ihr Tore, hebt euch nach oben, hebt euch, ihr uralten Pforten; denn es kommt der König der Herrlichkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui, hóminem delápsum in mortem conspíciens, Unigéniti tui advéntu redímere voluísti, præsta, quǽsumus, ut qui húmili eius incarnatiónem devotióne faténtur, ipsíus étiam Redemptóris consórtia mereántur. Qui tecum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, al ver al hombre caído en la muerte,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quisiste redimirlo con la venida de tu Unigénito,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concede a quienes profesan humildemente la fe en su encarnación participar también en los bienes del Redentor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Él, que vive y reina contigo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who, seeing the human race fallen into death,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "willed to redeem it by the coming of your Only Begotten Son, grant, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that those who confess his Incarnation with humble fervor may merit his company as their Redeemer."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, vendo o ser humano entregue à morte,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quisestes salvá-lo pela vinda do vosso Filho Unigênito;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fazei que, ao proclamarmos humildemente o mistério da encarnação,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mereçamos entrar em comunhão com o Redentor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ele, que é Deus, e convosco vive e reina,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che vedendo l’uomo precipitato nella morte hai voluto redimerlo con la venuta del tuo Figlio unigenito, concedi a coloro che confessano con pietà sincera la sua incarnazione di condividere anche la gloria del redentore. Egli è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par la venue de ton Fils Unique,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as voulu racheter l’homme déchu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que tu voyais soumis à la mort ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde à ceux qui reconnaissent humblement le mystère de son Incarnation,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de mériter d’avoir part aussi à la vie d’un tel Rédempteur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, du hast die Not des Menschen gesehen, der dem Tod verfallen war, und hast ihn erlöst durch die Ankunft deines Sohnes. Gib uns die Gnade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "das Geheimnis der Menschwerdung in Ehrfurcht zu bekennen und in der Gemeinschaft mit unserem Erlöser das Heil zu finden. Darum bitten wir durch ihn, Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "1 Sam 1, 24-28",
+              "es": "1 Sam 1, 24-28",
+              "en-US": "1 Sm 1:24-28",
+              "pt-BR": "1 Sm 1, 24-28",
+              "it": "1 Sam 1,24-28",
+              "fr": "1 S 1, 24-28",
+              "de": "1 Sam 1, 24-28"
+            },
+            "introduction": {
+              "la": "Léctio libri primi Samuélis",
+              "es": "Lectura del primer libro de Samuel",
+              "en-US": "A reading from the first book of Samuel",
+              "pt-BR": "Leitura do Primeiro Livro de Samuel",
+              "it": "Dal primo libro di Samuele",
+              "fr": "Premier livre de Samuel",
+              "de": "Lesung aus dem ersten Buch Samuel"
+            },
+            "summary": {
+              "la": "Anna pro nativitate Samuelis gratias agit",
+              "es": "Ana da gracias por el nacimiento de Samuel",
+              "pt-BR": "Ana dá graças pelo nascimento de Samuel.",
+              "it": "Anna ringrazia per la nascita di Samuele."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In diébus illis: Addúxit Anna Samuélem secum, postquam ablactáverat, cum vítulo trium annórum et tribus módiis farínæ et utre vini; et addúxit eum ad domum Dómini in Silo. Puer autem erat adhuc infántulus. Et immolavérunt vítulum et obtulérunt púerum Heli, et ait Anna: «Obsecro, mi dómine; vivit ánima tua, dómine, ego sum illa múlier, quæ steti coram te hic orans Dóminum. Pro púero isto orávi, et dedit mihi Dóminus petitiónem meam, quam postulávi eum. Idcírco et ego commodávi eum Dómino; cunctis diébus, quibus vivet, postulátus erit pro Dómino». Et adoravérunt ibi Dóminum."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquellos días, una vez que Ana hubo destetado a Samuel, lo subió consigo, junto con un novillo de tres años, unos cuarenta y cinco kilos de harina y un odre de vino. Lo llevó a la casa del Señor a Siló y el niño se quedó como siervo. Inmolaron el novillo y presentaron el niño a Elí. Ella le dijo: «Perdón, por tu vida, mi señor, yo soy aquella mujer que estuvo aquí en pie ante ti, implorando al Señor. Imploré este niño y el Señor me concedió cuanto le había pedido. Yo, a mi vez, lo cedo al Señor, Quede, pues, cedido al Señor de por vida». Y se postraron allí ante el Señor."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "When Hannah had weaned Samuel, she took him up with her together with a three-year old bull, an ephah of flour and a skin of wine, and she brought him to the temple of the Lord at Shiloh; and the child was with them. They slaughtered the bull and the child's mother came to Eli. She said, 'If you please, my lord. As you live, my lord, I am the woman who stood here beside you, praying to the Lord. This is the child I prayed for, and the Lord granted me what I asked him. Now I make him over to the Lord for the whole of his life. He is made over to the Lord.' There she left him, for the Lord."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naqueles dias, Ana, logo que o desmamou, levou consigo Samuel à casa do Senhor em Silo, e mais um novilho de três anos, três arrobas de farinha e um odre de vinho. O menino, porém, era ainda uma criança. Depois de sacrificarem o novilho, apresentaram o menino a Eli. E Ana disse-lhe: \"Ouve, meu senhor, por tua vida, eu sou a mulher que esteve aqui orando ao Senhor, na tua presença. Eis o menino por quem eu pedi, e o Senhor ouviu a minha súplica. Portanto, eu também o ofereço ao Senhor, a fim de que só a ele sirva em todos os dias da sua vida\". E adoraram o Senhor."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quei giorni, Anna portò con sé Samuele, con un giovenco di tre anni, un’efa di farina e un otre di vino, e lo introdusse nel tempio del Signore a Silo: era ancora un fanciullo. Immolato il giovenco, presentarono il fanciullo a Eli e lei disse: «Perdona, mio signore. Per la tua vita, mio signore, io sono quella donna che era stata qui presso di te a pregare il Signore. Per questo fanciullo ho pregato e il Signore mi ha concesso la grazia che gli ho richiesto. Anch’io lascio che il Signore lo richieda: per tutti i giorni della sua vita egli è richiesto per il Signore». E si prostrarono là davanti al Signore."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ces jours-là, lorsque Samuel fut sevré, Anne, sa mère, le conduisit à la maison du Seigneur, à Silo ; l’enfant était encore tout jeune. Anne avait pris avec elle un taureau de trois ans, un sac de farine et une outre de vin. On offrit le taureau en sacrifice, et on amena l’enfant au prêtre Éli. Anne lui dit alors : « Écoute-moi, mon seigneur, je t’en prie ! Aussi vrai que tu es vivant, je suis cette femme qui se tenait ici près de toi pour prier le Seigneur. C’est pour obtenir cet enfant que je priais, et le Seigneur me l’a donné en réponse à ma demande. À mon tour je le donne au Seigneur pour qu’il en dispose. Il demeurera à la disposition du Seigneur tous les jours de sa vie. » Alors ils se prosternèrent devant le Seigneur."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jenen Tagen, als Hanna ihren Sohn Samuel entwöhnt hatte, nahm sie ihn mit hinauf, dazu einen dreijährigen Stier, ein Efa Mehl und einen Schlauch Wein. So brachte sie ihn zum Haus des Herrn in Schilo; der Knabe aber war damals noch sehr jung. Als sie den Stier geschlachtet hatten, brachten sie den Knaben zu Eli, und Hanna sagte: Bitte, mein Herr, so wahr du lebst, mein Herr, ich bin die Frau, die damals neben dir stand, um zum Herrn zu beten. Ich habe um diesen Knaben gebetet, und der Herr hat mir die Bitte erfüllt, die ich an ihn gerichtet habe. Darum lasse ich ihn auch vom Herrn zurückfordern. Er soll für sein ganzes Leben ein vom Herrn Zurückgeforderter sein. Und sie beteten dort den Herrn an."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Exsultávit cor meum in Dómino Salvatóre meo."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Mi corazón se regocija en el Señor, mi Salvador."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "My heart rejoices in the Lord, my Savior."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Meu coração exultou no meu Senhor, Salvador."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Il mio cuore esulta nel Signore, mio Salvatore."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Mon cœur exulte à cause du Seigneur : c’est lui qui me sauve."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Mein Herz ist voll Freude über den Herrn, meinen Retter."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exsultávit cor meum in Dómino,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "exaltátum est cornu meum in Deo meo;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dilatátum est os meum super inimícos meos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quóniam lætáta sum in salutári tuo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Arcus fórtium confráctus est,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et infírmi accíncti sunt róbore."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Saturáti prius pro pane se locavérunt,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et famélici non eguérunt ámplius."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Stérilis péperit plúrimos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et, quæ multos habébat fílios, emárcuit."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dóminus mortíficat et vivíficat,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dedúcit ad inférnum et redúcit."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dóminus páuperem facit et ditat,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "humíliat et súblevat."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Súscitat de púlvere egénum et de stércore élevat páuperem,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ut sédeat cum princípibus et sólium glóriæ téneat."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mi corazón se regocija en el Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mi poder se exalta por Dios."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mi boca se ríe de mis enemigos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque gozo con tu salvación."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Se rompen los arcos de los valientes,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mientras los cobardes se ciñen de valor."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Los hartos se contratan por el pan,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mientras los hambrientos engordan;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la mujer estéril da a luz siete hijos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mientras la madre de muchos queda baldía."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor da la muerte y la vida,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hunde en el abismo y levanta;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "da la pobreza y la riqueza,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "humilla y enaltece."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Él levanta del polvo al desvalido,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "alza de la basura al pobre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "para hacer que se siente entre príncipes y que herede un trono de gloria."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "My heart exults in the Lord, I find my strength in my God; my mouth laughs at my enemies as I rejoice in your saving help."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The bows of the mighty are broken, but the weak are clothed with strength."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Those with plenty must labor for bread, but the hungry need work no more. The childless wife has children now but the fruitful wife bears no more."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "It is the Lord who gives life and death, he brings men to the grave and back;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "it is the Lord who gives poverty and riches. He brings men low and raises them on high."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "He lifts up the lowly from the dust, from the dungheap he raises the poor to set him in the company of princes, to give him a glorious throne. For the pillars of the earth are the Lord's, on them he has set the world."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exulta no Senhor meu coração,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e se eleva a minha fronte no meu Deus."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Minha boca desafia meus rivais,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque me alegro com a vossa salvação."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O arco dos fortes foi dobrado, foi quebrado,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mas os fracos se vestiram de vigor."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Os saciados se empregaram por um pão,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mas os pobres e os famintos se fartaram."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Muitas vezes deu à luz a que era esteril,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mas a mãe de muitos fihos definhou."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "É o Senhor quem dá a morte e a vida,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "faz descer à sepultura e faz voltar;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "é o Senhor quem faz o pobre e faz o rico,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "é o Senhor quem nos humilha e nos exalta."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Senhor ergue do pó o homem fraco e do lixo ele retira o indigente,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "para fazê-los assentar-se com os nobres num lugar de muita honra e distinção."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il mio cuore esulta nel Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la mia forza s’innalza grazie al mio Dio."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Si apre la mia bocca contro i miei nemici,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "perché io gioisco per la tua salvezza."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’arco dei forti s’è spezzato,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ma i deboli si sono rivestiti di vigore."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "I sazi si sono venduti per un pane,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hanno smesso di farlo gli affamati."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "La sterile ha partorito sette volte e la ricca di figli è sfiorita."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore fa morire e fa vivere,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "scendere agli inferi e risalire."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore rende povero e arricchisce,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "abbassa ed esalta."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Solleva dalla polvere il debole,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dall’immondizia rialza il povero,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "per farli sedere con i nobili e assegnare loro un trono di gloria."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mon cœur exulte à cause du Seigneur ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mon front s’est relevé grâce à mon Dieu !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Face à mes ennemis, s’ouvre ma bouche :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "oui, je me réjouis de ton salut !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’arc des forts est brisé,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mais le faible se revêt de vigueur."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Les plus comblés s’embauchent pour du pain,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et les affamés se reposent."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur fait mourir et vivre ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il fait descendre à l’abîme et en ramène."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur rend pauvre et riche ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il abaisse et il élève."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "De la poussière il relève le faible,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il retire le malheureux de la cendre pour qu’il siège parmi les princes et reçoive un trône de gloire."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mein Herz ist voll Freude über den Herrn,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "große Kraft gibt mir der Herr."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Weit öffnet sich mein Mund gegen meine Feinde;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "denn ich freue mich über deine Hilfe."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Bogen der Helden wird zerbrochen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die Wankenden aber gürten sich mit Kraft."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Die Satten verdingen sich um Brot,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "doch die Hungrigen können feiern für immer."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr macht tot und lebendig,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er führt zum Totenreich hinab und führt auch herauf."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr macht arm und macht reich,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er erniedrigt, und er erhöht."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Den Schwachen hebt er empor aus dem Staub und erhöht den Armen, der im Schmutz liegt;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er gibt ihm einen Sitz bei den Edlen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "einen Ehrenplatz weist er ihm zu."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Rex géntium et lapis anguláris Ecclésiæ: veni et salva hóminem quem de limo formásti."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Rey de las naciones y Piedra angular de la Iglesia, ven y salva al hombre que formaste del barro de la tierra."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Come, King of all nations, source of your Church's unity and faith: save all mankind, your own creation!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ó Rei e Senhor das nações, e Pedra angular da Igreja, vinde salvar a mulher e o homem que, um dia, formastes do barro."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "O Re delle genti e pietra angolare della Chiesa: vieni, e salva l’uomo che hai formato dalla terra."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia, alléluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Alléluia. Viens, Roi de l’univers, pierre angulaire de l’Église ! À l’homme que tu as pétri de la terre, viens apporter le salut."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Du König aller Völker, du Eckstein deiner Kirche: komm und errette den Menschen, den du aus Erde gebildet!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 1, 46-56",
+              "es": "Lc 1, 46-56",
+              "en-US": "Lk 1:46-56",
+              "pt-BR": "Lc 1, 46-56",
+              "it": "Lc 1, 46-55",
+              "fr": "Lc 1, 46-56",
+              "de": "Lk 1, 46-56"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Fecit mihi magna qui potens est",
+              "es": "El Poderoso ha hecho obras grandes en mi",
+              "pt-BR": "O Todo-poderoso fez grandes coisas em meu favor.",
+              "it": "Grandi cose ha fatto per me l’Onnipotente."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Ait María: «Magníficat ánima mea Dóminum, et exsultávit spíritus meus in Deo salvatóre meo, quia respéxit humilitátem ancíllæ suæ. Ecce enim ex hoc beátam me dicent omnes generatiónes, quia fecit mihi magna, qui potens est, et sanctum nomen eius, et misericórdia eius in progénies et progénies timéntibus eum. Fecit poténtiam in bráchio suo, dispérsit supérbos mente cordis sui; depósuit poténtes de sede et exaltávit húmiles; esuriéntes implévit bonis et dívites dimísit inánes. Suscépit Israel púerum suum, recordátus misericórdiæ, sicut locútus est ad patres nostros, Abraham et sémini eius in sǽcula». Mansit autem María cum illa quasi ménsibus tribus et revérsa est in domum suam."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, María dijo: «Proclama mi alma la grandeza del Señor, “se alegra mi espíritu en Dios, mi salvador; porque ha mirado la humildad de su esclava”. Desde ahora me felicitarán todas las generaciones, porque el Poderoso ha hecho obras grandes en mí: “su nombre es santo, y su misericordia llega a sus fieles de generación en generación”. Él hace proezas con su brazo: dispersa a los soberbios de corazón, derriba del trono a los poderosos y enaltece a los humildes, a los hambrientos los colma de bienes y a los ricos los despide vacíos. Auxilia a Israel, su siervo, acordándose de la misericordia —como lo había prometido a “nuestros padres”— en favor de Abrahán y su descendencia por siempre». María se quedó con Isabel unos tres meses y volvió a su casa."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mary said: 'My soul proclaims the greatness of the Lord and my spirit exults in God my saviour; because he has looked upon his lowly handmaid. Yes, from this day forward all generations will call me blessed, for the Almighty has done great things for me. Holy is his name, and his mercy reaches from age to age for those who fear him. He has shown the power of his arm, he has routed the proud of heart. He has pulled down princes from their thrones and exalted the lowly. The hungry he has filled with good things, the rich sent empty away. He has come to the help of Israel his servant, mindful of his mercy -according to the promise he made to our ancestors-of his mercy to Abraham and to his descendants for ever.' Mary stayed with Elizabeth about three months and then went back home."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo: Maria disse: \"A minha alma engrandece o Senhor, e o meu espírito se alegra em Deus, meu Salvador, porque olhou para a humildade de sua serva. Doravante todas as gerações me chamarão bem-aventurada, porque o Todo-poderoso fez grandes coisas em meu favor. O seu nome é santo, e sua misericórdia se estende, de geração em geração, a todos os que o temem. Ele mostrou a força de seu braço: dispersou os soberbos de coração. Derrubou do trono os poderosos e elevou os humildes. Encheu de bens os famintos, e despediu os ricos de mãos vazias. Socorreu Israel, seu servo, lembrando-se de sua misericórdia, conforme prometera aos nossos pais, em favor de Abraão e de sua descendência, para sempre\". Maria ficou três meses com Isabel; depois voltou para casa."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Maria disse: «L’anima mia magnifica il Signore e il mio spirito esulta in Dio, mio salvatore, perché ha guardato l’umiltà della sua serva. D’ora in poi tutte le generazioni mi chiameranno beata. Grandi cose ha fatto per me l’Onnipotente e Santo è il suo nome; di generazione in generazione la sua misericordia per quelli che lo temono. Ha spiegato la potenza del suo braccio, ha disperso i superbi nei pensieri del loro cuore; ha rovesciato i potenti dai troni, ha innalzato gli umili; ha ricolmato di beni gli affamati, ha rimandato i ricchi a mani vuote. Ha soccorso Israele, suo servo, ricordandosi della sua misericordia, come aveva detto ai nostri padri, per Abramo e la sua discendenza, per sempre»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore : Ait María : En ce temps-là, Marie rendit grâce au Seigneur en disant : « Mon âme exalte le Seigneur, exulte mon esprit en Dieu, mon Sauveur ! Il s’est penché sur son humble servante ; désormais tous les âges me diront bienheureuse. Le Puissant fit pour moi des merveilles ; Saint est son nom ! Sa miséricorde s’étend d’âge en âge sur ceux qui le craignent. Déployant la force de son bras, il disperse les superbes. Il renverse les puissants de leurs trônes, il élève les humbles. Il comble de biens les affamés, renvoie les riches les mains vides. Il relève Israël son serviteur, il se souvient de son amour, de la promesse faite à nos pères, en faveur d’Abraham et sa descendance à jamais. » Marie resta avec Élisabeth environ trois mois, puis elle s’en retourna chez elle."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sagte Maria: Meine Seele preist die Größe des Herrn, und mein Geist jubelt über Gott, meinen Retter. Denn auf die Niedrigkeit seiner Magd hat er geschaut. Siehe, von nun an preisen mich selig alle Geschlechter. Denn der Mächtige hat Großes an mir getan, und sein Name ist heilig. Er erbarmt sich von Geschlecht zu Geschlecht über alle, die ihn fürchten. Er vollbringt mit seinem Arm machtvolle Taten: Er zerstreut, die im Herzen voll Hochmut sind; er stürzt die Mächtigen vom Thron und erhöht die Niedrigen. Die Hungernden beschenkt er mit seinen Gaben und lässt die Reichen leer ausgehen. Er nimmt sich seines Knechtes Israel an und denkt an sein Erbarmen, das er unsern Vätern verheißen hat, Abraham und seinen Nachkommen auf ewig. Und Maria blieb etwa drei Monate bei Elisabeth; dann kehrte sie nach Hause zurück."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "In tua pietáte confidéntes, Dómine, cum munéribus ad altária veneránda concúrrimus, ut, tua purificánte nos grátia, iísdem quibus famulámur mystériis emundémur. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "confiando en tu bondad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos presentamos con ofrendas ante tu santo altar,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, purificados por tu gracia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quedemos limpios en virtud de estos misterios que ahora celebramos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Trusting in your compassion, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we come eagerly with our offerings to your sacred altar, that, through the purifying action of your grace,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may be cleansed by the very mysteries we serve."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, confiantes em vossa bondade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "acorremos com nossos dons ao santo altar,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, ao celebrarmos os vossos mistérios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sejamos purificados por vossa graça."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Fiduciosi nella tua misericordia, o Signore, veniamo con doni al tuo santo altare perché, purificati dalla tua grazia, siamo rinnovati dai misteri che celebriamo. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Confiants dans ta tendresse, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous approchons de ton autel avec respect en apportant nos présents ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puissions-nous, par un effet de ta grâce qui nous purifie,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "être renouvelés par ces mystères que nous célébrons."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, im Vertrauen auf deine Güte kommen wir mit Gaben zu deinem Altar. Tilge unsere Schuld durch das Geheimnis des Glaubens, das wir im Auftrag deines Sohnes feiern, und schenke uns deine Gnade. Darum bitten wir durch ihn, Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf002",
+      "label": {
+        "la": "PRÆFATIO II DE ADVENTU",
+        "es": "PREFACIO II DE ADVIENTO",
+        "en-US": "Preface Ii of Advent",
+        "pt-BR": "Prefácio do Advento Ii a",
+        "it": "PREFAZIO DELL’AVVENTO II",
+        "fr": "PRÉFACE DE L’AVENT N°2",
+        "de": "PRÄFATION VOM ADVENT II"
+      },
+      "excerpt": {
+        "la": "De duplici exspectatione Christi",
+        "es": "La doble expectación de Cristo",
+        "en-US": "The twofold expectation of Christ",
+        "pt-BR": "dupla espera de Cristo",
+        "it": "Le due attese di Cristo",
+        "fr": "L’attente des deux avènements du Christ",
+        "de": "Das Warten auf den Herrn einst und heute"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur: in Missis de témpore a die 17 ad diem 24 decembris; in ceteris Missis, quæ celebrantur eodem témpore et præfatione propria carent."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quem prædixérunt cunctórum præcónia prophetárum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Virgo Mater ineffábili dilectióne sustínuit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ioánnes cécinit affutúrum et adésse monstrávit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui suæ nativitátis mystérium tríbuit nos præveníre gaudéntes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut et in oratióne pervígiles et in suis invéniat láudibus exsultántes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Thronis et Dominatiónibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque omni milítia cæléstis exércitus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum glóriæ tuæ cánimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del tiempo, desde el 17 al 24 de diciembre, y en las restantes misas que se celebran durante este mismo tiempo y no tienen prefacio propio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "A quien todos los profetas anunciaron,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la Virgen esperó con inefable amor de madre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Juan lo proclamó ya próximo y señaló después entre los hombres."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "El mismo Señor nos concede ahora prepararnos con alegría al misterio de su nacimiento,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para encontrarnos así, cuando llegue,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "velando en oración y cantando su alabanza."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tronos y dominaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y con todos los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos sin cesar el himno de tu gloria:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of Advent from 17 December to 24 December and in other Masses that are celebrated in Advent and have no proper Preface."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For all the oracles of the prophets foretold him,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "the Virgin Mother longed for him with love beyond all telling,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "John the Baptist sang of his coming and proclaimed his presence when he came."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is by his gift that already we rejoice at the mystery of his Nativity,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that he may find us watchful in prayer and exultant in his praise."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with Thrones and Dominions,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with all the hosts and Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado no Advento, do dia 17 até 24 de dezembro, em todas as Missas que não têm prefácio próprio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Foi ele que os profetas predisseram,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a Virgem esperou com amor de mãe,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "João Batista anunciou estar próximo e mostrou presente no mundo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "O próprio Senhor nos dá a alegria de nos prepararmos desde agora para o mistério de seu Natal,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a fim de encontrar-nos vigilantes na oração e celebrando exultantes os seus louvores."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Arcanjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os Tronos e as Dominações e todos os coros celestes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando (dizendo) a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe del Tempo di Avvento, dal 17 al 24 dicembre, e nelle Messe che non hanno un prefazio proprio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Egli fu annunciato da tutti i profeti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la Vergine Madre l’attese e lo portò in grembo con ineffabile amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Giovanni proclamò la sua venuta e lo indicò presente nel mondo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lo stesso Signore, che ci invita a preparare con gioia il suo Natale, ci trovi vigilanti nella preghiera,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "esultanti nella lode."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza, uniti agli Angeli e agli Arcangeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ai Troni e alle Dominazioni e alla moltitudine dei cori celesti, cantiamo con voce incessante l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Pour les messes du temps, du 17 au 24 décembre et, éventuellement, pour les messes des saints célébrées durant ce temps."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Il est celui que tous les prophètes avaient annoncé,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celui que la Vierge Mère attendait dans le secret de son amour,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celui dont Jean Baptiste a proclamé la venue et manifesté la présence."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est lui qui nous donne la joie d’entrer déjà dans le mystère de Noël,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour qu’il nous trouve, quand il viendra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vigilants dans la prière et remplis d’allégresse."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les puissances d’en haut et tous les esprits bienheureux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in der Adventszeit genommen in jenen Messen, die keine eigene Präfation haben. Für die Tage vom 17. bis zum 24. Dezember siehe Adventspräfation V."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Von ihm redet die Botschaft aller Propheten, die jungfräuliche Mutter trug ihn voll Liebe in ihrem Schoß, seine Ankunft verkündete Johannes der Täufer und zeigte auf ihn, der unerkannt mitten unter den Menschen war."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Er schenkt uns in diesen Tagen die Freude, uns für das Fest seiner Geburt zu bereiten, damit wir ihn wachend und betend erwarten und bei seinem Kommen mit Liedern des Lobes empfangen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum singen wir mit den Engeln und Erzengeln, den Thronen und Mächten und mit all den Scharen des himmlischen Heeres den Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf004",
+      "label": {
+        "es": "PREFACIO IV DE ADVIENTO",
+        "it": "PREFAZIO DELL’AVVENTO II/A",
+        "de": "PRÄFATION VOM ADVENT IV"
+      },
+      "excerpt": {
+        "es": "María, nueva Eva",
+        "it": "Maria nuova Eva",
+        "de": "Adams Sünde und Christi Gnade"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del tiempo, desde el 17 al 24 de diciembre, y en las restantes misas que se celebran durante este mismo tiempo y no tienen prefacio propio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo darte gracias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Te alabamos, te bendecimos y te glorificamos por el misterio de la Virgen Madre."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque, si del antiguo adversario nos vino la ruina, en el seno virginal de la hija de Sion ha germinado aquel que nos nutre con el pan de los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y ha brotado para todo el género humano la salvación y la paz."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "La gracia que Eva nos arrebató nos ha sido devuelta en María."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En ella, madre de todos los hombres,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la maternidad, redimida del pecado y de la muerte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "se abre al don de una vida nueva."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Así, donde había crecido el pecado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "se ha desbordado tu misericordia en Cristo, nuestro Salvador."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso nosotros,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "mientras esperamos la venida de Cristo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a los ángeles y a los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos el himno de tu gloria:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe del Tempo di Avvento, dal 17 al 24 dicembre, e nelle Messe che non hanno un prefazio proprio."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente giusto rendere grazie a te, Signore, Padre santo, Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Noi ti lodiamo, ti benediciamo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ti glorifichiamo per il mistero della Vergine Madre."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dall’antico avversario venne la rovina,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "dal grembo verginale della figlia di Sion è germinato colui che ci nutre con il pane degli angeli e sono scaturite per tutto il genere umano la salvezza e la pace."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "La grazia che Eva ci tolse ci è ridonata in Maria."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In lei, Madre di tutti gli uomini,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la maternità, redenta dal peccato e dalla morte, si apre al dono della vita nuova."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dove abbondò la colpa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sovrabbonda la tua misericordia in Cristo nostro salvatore."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi, nell’attesa della sua venuta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo l’inno della tua lode:"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in der Adventszeit genommen in jenen Messen, die keine eigene Präfation haben. Für die Tage vom 17. bis 24. Dezember siehe Adventspräfation V."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken und dein Erbarmen zu preisen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn was durch Adams Sünde verlorenging, bringt uns Christus zurück, unser Retter und Heiland. Was du durch sein erstes Kommen begonnen hast, wirst du bei seiner Wiederkunft an uns vollenden."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum dienen dir alle Geschöpfe, ehren dich die Erlösten, rühmt dich die Schar deiner Heiligen. Auch wir preisen dich mit den Chören der Engel und singen vereint mit ihnen das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Magníficat ánima mea Dóminum, quia fecit mihi magna qui potens est."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Proclama mi alma la grandeza del Señor, porque el Poderoso ha hecho obras grandes en mí."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "My soul proclaims the greatness of the Lord, for the Almighty has done great things for me."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "A minha alma engrandece o Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "porque o Poderoso fez em mim maravilhas."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "L’anima mia magnifica il Signore: grandi cose ha fatto per me l’Onnipotente."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mon âme exalte le Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "le Puissant fit pour moi des merveilles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Meine Seele preist die Größe des Herrn. Denn der Mächtige hat Großes an mir getan."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Róboret nos, Dómine, tui sacraménti percéptio, ut veniénti Salvatóri mereámur cum dignis opéribus obviáre, et beatitúdinis prǽmia promeréri. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nos fortalezca, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la participación en tu sacramento,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "acompañados por las buenas obras,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "merezcamos salir al encuentro del Salvador que viene y recibir el premio de la bienaventuranza."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May reception of your Sacrament strengthen us, O Lord, so that we may go out to meet our Savior with worthy deeds when he comes and merit the rewards of the blessed."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, que a comunhão no vosso sacramento nos dê forças para caminharmos com boas obras ao encontro do Salvador que se aproxima,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e para merecermos o prêmio da felicidade eterna."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ci rafforzi, o Signore, la partecipazione al tuo sacramento, perché con opere di giustizia possiamo andare incontro al Salvatore che viene e ottenere il premio della beatitudine eterna. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que la communion à ton sacrement nous fortifie, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin que nous puissions, en faisant le bien,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "aller au-devant du Sauveur qui vient et mériter ainsi la récompense du bonheur promis."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, stärke uns durch die Kraft deines Sakramentes. Lass uns durch deine Gnade reich werden an guten Werken und bei der Wiederkunft deines Sohnes den verheißenen Lohn empfangen: die ewige Freude. Darum bitten wir durch ihn, Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

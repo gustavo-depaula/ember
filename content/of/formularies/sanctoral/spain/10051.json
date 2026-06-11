@@ -1,0 +1,261 @@
+{
+  "id": "sanctorale.spain.10051",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "es": "Témporas de acción de gracias y de petición Día de acción de gracias"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cantad y tocad con toda el alma para el Señor, dad siempre gracias a Dios Padre por todo, en nombre de nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Cf. Ef 5, 19-20"
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor Dios, Padre lleno de amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que diste a nuestros padres de Israel"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "una tierra buena y fértil,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que en ella encontraran descanso y bienestar, y con el mismo amor"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos das a nosotros fuerza para dominar la creación"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y sacar de ella nuestro progreso y nuestro sustento,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "al darte gracias por todas tus maravillas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos que tu luz nos haga descubrir siempre"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has sido tú, y no nuestro poder,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quien nos ha dado fuerza para crear las riquezas de la tierra."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te ofrecemos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "este sacrificio de alabanza"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en acción de gracias por los dones que nos has dado"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos ofrecer para gloria de tu nombre"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lo que hemos recibido sin merecerlo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "sanctorale.spain.10051.proper",
+      "label": {
+        "pt-BR": "Prefácio"
+      },
+      "body": {
+        "lines": {
+          "es": [
+            [
+              {
+                "type": "text",
+                "text": "El más apropiado es el Prefacio común IV."
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te doy gracias, Señor, de todo corazón, porque cuando te invoqué, me escuchaste."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "es": "Sal 137, 1. 3"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, el sacramento de tu Hijo"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que hemos ofrecido en acción de gracias,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos lo devuelves como alimento espiritual,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos que, fortalecidos ahora por estos dones"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que otorgan virtud y alegría,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te sirvamos cada día con mayor entrega"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y nos dispongamos a recibir de ti nuevos favores."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

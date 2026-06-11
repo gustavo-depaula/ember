@@ -1,0 +1,1405 @@
+{
+  "id": "ritual.various-needs.div002",
+  "kind": "ritual",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "I. PRO SANCTA ECCLESIA 1. PRO ECCLESIA B",
+    "es": "I. POR LA SANTA IGLESIA 1. POR LA IGLESIA B",
+    "en-US": "I. for Holy Church 1. For the Church B",
+    "pt-BR": "I. pela Santa Igreja 1. pela Igreja B",
+    "it": "I. PER LA SANTA CHIESA 1. Per la Santa Chiesa B",
+    "fr": "I. POUR LA SAINTE ÉGLISE 1. POUR L’ÉGLISE B",
+    "de": "I. FÜR DIE HEILIGE KIRCHE 1. FÜR DIE HEILIGE KIRCHE B"
+  },
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vidi turbam magnam, quam dinumeráre nemo póterat, ex ómnibus géntibus et tribúbus et pópulis et linguis."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vi una muchedumbre inmensa, que nadie podría contar, de todas las naciones,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "razas, pueblos y lenguas."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "I had a vision of a great multitude, which no one could count, from every nation, race, people, and tongue."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vi uma multidão imensa de gente de todas as nações, tribos, povos e línguas,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e que ninguém podia contar."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vidi una moltitudine immensa, che nessuno poteva contare, di ogni tribù,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lingua, popolo e nazione."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "J’ai vu une foule immense,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nul ne pouvait dénombrer,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "une foule de toutes nations, tribus, peuples et langues."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ich sah eine große Schar aus allen Nationen und Stämmen, Völkern und Sprachen;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "niemand konnte sie zählen."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui in Christi tui testaménto ex ómnibus géntibus pópulum tibi congregáre non désinis, in Spíritu ad unitátem coalescéntem, concéde, ut Ecclésia tua, missióni sibi créditæ fidélis, cum hóminum família iúgiter incédat, et tamquam ferméntum et véluti ánima societátis humánæ in Christo renovándæ et in famíliam Dei transformándæ semper exsístat. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que en la nueva alianza de Cristo no dejas de congregar para ti, de entre todas las naciones,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "un pueblo en crecimiento hacia la unidad en el Espíritu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "haz que tu Iglesia, fiel a la misión recibida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "progrese sin cesar con la familia humana,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y actúe siempre como fermento y alma de la sociedad que ha de ser renovada en Cristo y transformada en la familia de Dios."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, in the covenant of your Christ you never cease to gather to yourself from all nations a people growing together in unity through the spirit;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, we pray, that your Church,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "faithful to the mission entrusted to her,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may continually go forward with the human family and always be the leaven and the soul of human society,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to renew it in Christ and transform it into the family of God. Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, conforme a última vontade do vosso Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "continuamente congregais, no Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pessoas de todas as nações,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para formar na unidade o vosso povo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Concedei que vossa Igreja,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fiel à missão que lhe foi confiada,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "caminhe sempre com a família humana como fermento e alma da humanidade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a ser renovada em Cristo e transformada em família de Deus."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Padre, che nell’alleanza di Cristo tuo Figlio continui a radunare il tuo popolo da tutte le nazioni della terra nell’unità di un solo Spirito, fa' che la tua Chiesa, fedele alla sua missione, condivida sempre le gioie e le speranze dell’umanità, e si riveli come lievito e anima del mondo, per rinnovare in Cristo la comunità dei popoli e trasformarla nella tua famiglia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dans l’Alliance instaurée par le Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu ne cesses de te former un peuple issu de toutes les nations et grandissant vers l’unité dans l’Esprit Saint ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais que ton Église, fidèle à la mission que tu lui as confiée,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ne cesse de progresser avec la famille humaine et soit comme le ferment et l’âme de la société qui doit être renouvelée dans le Christ et devenir la famille de Dieu."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott und Vater unseres Herrn Jesus Christus, im Neuen Bund berufst du Menschen aus allen Völkern und führst sie im Heiligen Geist zur Einheit zusammen. Gib,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dass deine Kirche ihrer Sendung treu bleibt, dass sie ein Sauerteig ist für die Menschheit, die du in Christus erneuern und zu einer Familie umgestalten willst. Darum bitten wir durch ihn, Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Múnera quæ tibi offérimus, Dómine, súscipe benígnus, et præsta, ut Ecclésia tua, de látere Christi in cruce dormiéntis exórta, ex huius participatióne mystérii suam iúgiter háuriat sanctitátem, qua semper vivat suóque digne respóndeat auctóri, Iesu Christo Dómino nostro. Qui vivit et regnat in sǽcula sæculórum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Acepta complacido, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "las ofrendas que te presentamos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y haz que tu Iglesia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nacida del costado de Cristo dormido en la cruz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "encuentre siempre en la participación de este misterio la santidad que le haga vivir y ser digna de su autor, Jesucristo, Señor nuestro."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Él, que vive y reina por los siglos de los siglos."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Receive with kindness the offerings we bring you, o Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and grant that your Church,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "which came forth from the side of Christ as he slept on the Cross, may ever draw her holiness from participation in this mystery, living by it always and responding worthily to her founder, Jesus Christ our Lord."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, aceitai benigno os dons que vos apresentamos e, à vossa Igreja, nascida do lado de Cristo adormecido na cruz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei haurir da participação neste mistério ainda mais santidade e nela sempre viver,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "correspondendo dignamente ao seu divino fundador,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Jesus Cristo, nosso Senhor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Que vive e reina pelos séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accogli con benevolenza, o Signore, i doni che ti offriamo e fa' che la tua Chiesa, nata dal fianco aperto di Cristo dormiente sulla croce, dalla partecipazione a questo mistero attinga sempre la santità che la fa vivere e rispondere fedelmente all’amore di colui che l’ha generata, Gesù Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Signore nostro. Egli vive e regna nei secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Accueille avec bonté, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "les offrandes que nous te présentons,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et donne à ton Église,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "née du côté du Christ endormi dans la mort sur la croix,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de puiser sans relâche dans la participation à ce mystère la sainteté dont elle doit toujours vivre pour être digne de celui qui l’a créée :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Jésus, le Christ, notre Seigneur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, unser Vater, deine Kirche bringt dir diese Gaben dar und feiert den Tod deines Sohnes, aus dessen Seitenwunde sie hervorgegangen ist. Lass sie ihren Ursprung nie vergessen, sondern in dieser Feier Leben und Heiligkeit empfangen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf031",
+      "label": {
+        "la": "PRÆFATIO VIII DE DOMINICIS «PER ANNUM»",
+        "es": "PREFACIO VIII DOMINICAL DEL TIEMPO ORDINARIO",
+        "en-US": "Preface Viii of the Sundays in Ordinary Time",
+        "pt-BR": "Prefácio dos Domingos do Tempo Comum Viii a",
+        "it": "PREFAZIO DELLE DOMENICHE DEL TEMPO ORDINARIO VIII",
+        "fr": "PRÉFACE DES DIMANCHES N°8",
+        "de": "PRÄFATION FÜR SONNTAGE VIII"
+      },
+      "excerpt": {
+        "la": "De Ecclésia adunata ex unitate Trinitatis",
+        "es": "La Iglesia unificada por virtud y a imagen de la Trinidad",
+        "en-US": "The Church united by the unity of the Trinity",
+        "pt-BR": "Igreja reunida na unidade da Santíssima Trindade",
+        "it": "La Chiesa radunata nella comunione della Trinità",
+        "fr": "L’Église unifiée par l’unité de la Trinité",
+        "de": "Einheit der Dreifaltigkeit und Einheit der Kirche"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in dominicis «per annum»."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia fílios, quos longe peccáti crimen abstúlerat,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per sánguinem Fílii tui Spiritúsque virtúte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in unum ad te dénuo congregáre voluísti:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut plebs, de unitáte Trinitátis adunáta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in tuæ laudem sapiéntiæ multifórmis Christi corpus templúmque Spíritus noscerétur Ecclésia."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, choris angélicis sociáti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te laudámus in gáudio confiténtes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en los domingos del tiempo ordinario."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque has querido reunir de nuevo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por la sangre de tu Hijo y la fuerza del Espíritu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a los hijos dispersos por el pecado;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de este modo tu Iglesia,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unificada por virtud y a imagen de la Trinidad,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "aparece ante el mundo como cuerpo de Cristo y templo del Espíritu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para alabanza de tu infinita sabiduría."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a los coros angélicos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos proclamando llenos de alegría:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on Sundays in Ordinary Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, when your children were scattered afar by sin,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through the Blood of your Son and the power of the Spirit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "you gathered them again to yourself,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "that a people, formed as one by the unity of the Trinity,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "made the body of Christ and the temple of the Holy Spirit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "might, to the praise of your manifold wisdom,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "be manifest as the Church."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, in company with the choirs of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, and with joy we proclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado nos domingos do Tempo Comum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Pois, pelo sangue do vosso Filho e pela força do Espírito,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quisestes congregar de novo os filhos dispersos pelo pecado,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que a Igreja,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "povo reunido na unidade da Trindade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "seja reconhecida como corpo de Cristo e templo do Espírito Santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para o louvor da vossa imensa sabedoria."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, unidos aos coros dos Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos e cantamos"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "alegres a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle domeniche del Tempo Ordinario."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Con il Sangue del tuo Figlio e la potenza dello Spirito hai raccolto intorno a te i figli dispersi a causa del peccato,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché il tuo popolo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "radunato nella comunione della Trinità,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a lode della tua multiforme sapienza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sia riconosciuto corpo di Cristo, tempio dello Spirito,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Chiesa del Dio vivente."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti ai cori degli angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "proclamiamo esultanti la tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les Messes des dimanches du temps ordinaire."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par le sang de ton Fils,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et la force de l’Esprit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu as voulu réunir auprès de toi tes enfants que le péché avait éloignés ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et ce peuple qui tient son unité de la Trinité sainte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à la louange de ta sagesse infinie,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "c’est l’Église,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Corps du Christ et Temple de l’Esprit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unissant nos voix à celles des anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons dans la joie en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an den Sonntagen im Jahreskreis genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und dein Erbarmen zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Die Sünde hatte die Menschen von dir getrennt, du aber hast sie zu dir zurückgeführt durch das Blut deines Sohnes und die Kraft deines Geistes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Wie du eins bist mit dem Sohn und dem Heiligen Geist, so ist deine Kirche geeint nach dem Bild des dreieinigen Gottes. Sie ist dein heiliges Volk, der Leib Christi und der Tempel des Heiligen Geistes zum Lob deiner Weisheit und Liebe."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Benedíctio et cláritas et sapiéntia et gratiárum áctio, honor et virtus et fortitúdo Deo nostro in sǽcula sæculórum. Amen."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "La alabanza y la gloria y la sabiduría y la acción de gracias y el honor y el poder y la fuerza son de nuestro Dios, por los siglos de los siglos. Amén."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Blessing and glory and wisdom and thanksgiving, honor and power and might be to our god for ever and ever. Amen."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "O louvor, a glória e a sabedoria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a ação de graças, a honra, o poder e a força pertencem ao nosso Deus para sempre. Amém."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lode, gloria, sapienza, azione di grazie, onore, potenza e forza al nostro Dio nei secoli dei secoli. Amen."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Louange, gloire,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sagesse et action de grâce,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "honneur, puissance et force à notre Dieu, pour les siècles des siècles ! Amen !"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lob und Herrlichkeit, Weisheit und Dank, Ehre und Macht und Stärke unserem Gott in alle Ewigkeit! Amen."
+                }
+              ]
+            ]
+          },
+          "citation": {
+            "la": "Ap 7, 12",
+            "es": "Ap 7, 12",
+            "en-US": "Rev 7: 12",
+            "pt-BR": "Ap 7, 12",
+            "it": "Ap 7, 12",
+            "fr": "Ap 7, 12",
+            "de": "Offb 7, 12"
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sacraménto Fílii tui recreáti, te, Dómine, deprecámur, ut Ecclésiæ tuæ operatiónem fecúndes, qua salutáris mystérii plenitúdinem paupéribus contínuo revélas, quos ad tui regni præcípuam vocásti portiónem. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Renovados con el sacramento de tu Hijo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te supllcamos Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que hagas fecunda la acción de tu Iglesia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ya que por ella revelas la plenitud del misterio salvador a los pobres,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a los que llamas a ser la porción principal de tu reino."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nourished by the sacrament of your Son, we implore you, Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to make fruitful the work of your Church, for by it you constantly reveal the fullness of the mystery of salvation to the poor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "whom you have called to an honored place in your eternal Kingdom."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Restaurados pelo sacramento do vosso Filho,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos pedimos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fecundai a ação da vossa Igreja,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pela qual revelais continuamente aos pobres a plenitude do mistério da salvação e os chamais a ser herdeiros privilegiados do vosso reino."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Rinnovati dal sacramento del tuo Figlio, ti preghiamo, o Padre, di rendere feconda l’opera della tua Chiesa, con la quale sempre riveli l’inesauribile mistero della salvezza ai poveri, da te scelti come eredi privilegiati del tuo regno. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Renouvelés par le sacrement de ton Fils,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’en supplions, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "rends féconde l’action de ton Église ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par elle, tu ne cesses de révéler aux pauvres le mystère du salut en sa plénitude,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puisque tu les as appelés à la meilleure part dans ton Royaume."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, du hast uns gestärkt durch das heilige Sakrament. Mache das Wirken deiner Kirche fruchtbar und enthülle durch sie den Armen das Geheimnis unserer Erlösung; denn die Armen hast du vor allen dazu berufen, Anteil zu haben an deinem Reich. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

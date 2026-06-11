@@ -1,0 +1,1312 @@
+{
+  "id": "sanctorale.04-04",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Isidori, episcopi et Ecclésiæ doctoris",
+    "es": "San Isidoro, obispo y doctor de la Iglesia",
+    "en-US": "Saint Isidore, bishop and doctor of the Church",
+    "pt-BR": "Santo Isidoro, bispo e doutor da Igreja",
+    "it": "SANT’ISIDORO, vescovo e dottore della Chiesa",
+    "fr": "Saint Isidore, évêque et docteur de l’Église",
+    "de": "Hl. Isidor, Bischof, Kirchenlehrer"
+  },
+  "description": {
+    "la": "Natus est circa annum 560 apud Hispalim (Sevilla), in Hispania; post mortem patris, a fratre Leandro educatus fuit. Episcopus suæ civitatis creatus, multa scripsit erudite, plura congregavit et rexit concilia in Hispania, in quibus multa sapienter ordinata sunt. Mortuus est anno 636.",
+    "es": "Isidoro de Sevilla nace hacia el año 560. Educado por su hermano san Leandro, arzobispo hispalense, le sucede en la sede sevillana, donde desarrolla su extraordinaria labor pastoral y literaria. Compone libros llenos de erudición, organiza bibliotecas, preside concilios, ordena la liturgia hispanovisigoda. Después de 40 años de episcopado, muere el 4 de abril del 636. El año 1063 fue trasladado su cuerpo a León, donde hoy recibe culto en la iglesia de su nombre.",
+    "pt-BR": "Isidoro (Sevilha, Espanha, por volta de 560 - Sevilha, Espanha, 636), arcebispo de Sevilha por trinta e cinco anos, ficou célebre pelo IV Concílio de Toledo (633) por ele presidido e, sobretudo, pela produção literária que demonstra sua grande erudição (As \"Etimologias\"). Foi mestre reconhecido por toda a Idade Média. Seu sepultamento aos 4 de abril é lembrado nos calendários espanhóis medievais.",
+    "it": "Isidoro (560 ca. - Siviglia, 4 aprile 636), di famiglia e formazione cristiana, esperto anche nella cultura profana, con le sue opere letterarie ed erudite divenne un punto di riferimento per tutto il Medioevo. Arcivescovo di Siviglia per circa trentacinque anni, promosse, anche mediante alcuni Concili locali, una legislazione liturgica e canonica di importanza fondamentale per la Chiesa iberica.",
+    "fr": "Isidore de Séville (560-636) est le grand docteur de l’Espagne. Successeur de son frère Léandre comme évêque de Séville (601), il travailla à organiser l’Église dans le royaume wisigothique, spécialement en tenant des Conciles. Il aimait par-dessus tout enseigner. La somme des connaissances qu’il a recueillies servit de manuel scolaire durant des générations.",
+    "de": "Isidor wurde um das Jahr 560 geboren und von seinem Bruder, dem Heiligen Leander erzogen, welchem er auf den Bischofsstuhl folgte. In seiner Amtszeit in Sevilla entwickelte er eine beeindruckende pastorale und literare Tätigkeit. Er schrieb Bücher voller Gelehrsamkeit, organisierte Bibliotheken, saß einigen Konzilien vor und prägte die Liturgie Spaniens. Nach 40-jährigem Episkopat starb er im Jahre 636. 1063 wurden seine Gebeine nach Leon übertragen, wo sie in der nach ihm benannten Kirche ruhen."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Exáudi, quǽsumus, Dómine, preces nostras,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quas in beáti Isidóri commemoratióne deférimus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut Ecclésia tua eius intercessiónibus adiuvétur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cuius cæléstibus instrúitur disciplínis."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, Dios todopoderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tú elegiste a San Isidoro, obispo y doctor de la Iglesia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que fuese testimonio y fuente del humano saber;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por su intercesión, una búsqueda atenta y una aceptación generosa de tu eterna verdad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Graciously hear the prayers, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "which we make in commemoration of Saint Isidore,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that your Church may be aided by his intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "just as she has been instructed by his heavenly teaching. Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ouvi, Senhor, as preces que vos dirigimos na comemoração de Santo Isidoro,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que sua intercessão ajude a vossa Igreja,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ele instruiu com ensinamentos celestiais."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ascolta, o Signore, le preghiere che presentiamo nella memoria di sant’Isidoro, perché la tua Chiesa, istruita dai suoi insegnamenti, sia sostenuta dalla sua intercessione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Daigne exaucer, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "les prières que nous t’adressons en la mémoire de saint Isidore :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ton Église trouve une aide en son intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "elle qui se laisse instruire par lui des réalités célestes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Quelle der Weisheit, du hast deiner Kirche den heiligen Isidor als geistlichen Lehrer gegeben. Höre auf seine Fürbitte. Schenke deiner Kirche auch in unseren Tagen Treue zur überlieferten Wahrheit und führe sie zur Einheit in deiner Liebe. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "2 Cor 4, 1-2. 5-7",
+              "es": "2 Cor 4, 1-2. 5-7",
+              "en-US": "2 Cor 4:1-2.5-7",
+              "pt-BR": "2 Cor 4, 1-2. 5-7",
+              "it": "2 Cor 4, 1-2.5-7",
+              "fr": "2 Co 4, 1-2. 5-7",
+              "de": "2 Kor 4, 1-2. 5-7"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Corínthios",
+              "es": "Lectura de la segunda carta del apóstol san Pablo a los Corintios",
+              "en-US": "A reading from the second letter of St. Paul to the Corinthians",
+              "pt-BR": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+              "it": "Dalla seconda lettera di san Paolo apostolo ai Corinzi",
+              "fr": "Deuxième lettre de saint Paul Apôtre aux Corinthiens",
+              "de": "Lesung aus dem zweiten Brief des Apostels Paulus an die Korinther"
+            },
+            "summary": {
+              "la": "Prædicamus Iesum Christum; nos autem servos vestros per Iesum.",
+              "es": "Predicamos a Jesucristo, y a nosotros como siervos vuestros por Jesús",
+              "pt-BR": "Pregamos a Jesus Cristo, o Senhor. Quanto a nós apresentamo-nos como servos vossos por causa de Jesus.",
+              "it": "Annunciamo Cristo Gesù Signore: quanto a noi, siamo i vostri servitori a causa di Gesù."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Habéntes hanc ministratiónem, iuxta quod misericórdiam consecúti sumus, non defícimus, sed abdicávimus occúlta dedécoris non ambulántes in astútia neque adulterántes verbum Dei, sed in manifestatióne veritátis commendántes nosmetípsos ad omnem consciéntiam hóminum coram Deo. Non enim nosmetípsos prædicámus sed Iesum Christum Dóminum; nos autem servos vestros per Iesum. Quóniam Deus, qui dixit: «De ténebris lux splendéscat», ipse illúxit in córdibus nostris ad illuminatiónem sciéntiæ claritátis Dei in fácie Iesu Christi. Habémus autem thesáurum istum in vasis fictílibus, ut sublímitas sit virtútis Dei et non ex nobis."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Encargados de este ministerio por la misericordia obtenida, no nos acobardamos; al contrario, hemos renunciado a la clandestinidad vergonzante, no actuando con intrigas ni falseando la palabra de Dios; sino que, manifestando la verdad, nos recomendamos a la conciencia de todo el mundo delante de Dios. Porque no nos predicamos a nosotros mismos, sino a Jesucristo como Señor, y a nosotros como siervos vuestros por Jesús. Pues el Dios que dijo: «Brille la luz del seno de las tinieblas» ha brillado en nuestros corazones, para que resplandezca el conocimiento de la gloria de Dios reflejada en el rostro de Cristo. Pero llevamos este tesoro en vasijas de barro, para que se vea que una fuerza tan extraordinaria es de Dios y no proviene de nosotros."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Since we have by an act of mercy been entrusted with this work of administration, there is no weakening on our part. On the contrary, we will have none of the reticence of those who are ashamed, no deceitfulness or watering down the word of God; but the way we commend ourselves to every human being with a conscience is by stating the truth openly in the sight of God. For it is not ourselves that we are preaching, but Christ Jesus as the Lord, and ourselves as your servants for Jesus' sake. It is the same God that said, 'Let there be light shining out of darkness', who has shone in our minds to radiate the light of the knowledge of God's glory, the glory on the face of Christ. We are only the earthenware jars that hold this treasure, to make it clear that such an overwhelming power comes from God and not from us."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos: Não desanimamos no exercício deste ministério que recebemos da misericórdia divina. Rejeitamos todo procedimento dissimulado e indigno, feito de astúcias, e não falsificamos a palavra de Deus. Mas, pelo contrário, manifestamos a verdade e, assim, nos recomendamos a toda consciência humana, diante de Deus. De fato, não nos pregamos a nós mesmos, pregamos a Jesus Cristo, o Senhor. Quanto a nós, apresentamo-nos como servos vossos, por causa de Jesus. Com efeito, Deus que disse: \"Do meio das trevas brilhe a luz\", é o mesmo que fez brilhar a sua luz em nossos corações, para tornar claro o conhecimento da sua glória na face de Cristo. Ora, trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, avendo questo ministero, secondo la misericordia che ci è stata accordata, non ci perdiamo d’animo. Al contrario, abbiamo rifiutato le dissimulazioni vergognose, senza comportarci con astuzia né falsificando la parola di Dio, ma annunciando apertamente la verità e presentandoci davanti a ogni coscienza umana, al cospetto di Dio. Noi infatti non annunciamo noi stessi, ma Cristo Gesù Signore: quanto a noi, siamo i vostri servitori a causa di Gesù. E Dio, che disse: «Rifulga la luce dalle tenebre», rifulse nei nostri cuori, per far risplendere la conoscenza della gloria di Dio sul volto di Cristo. Noi però abbiamo questo tesoro in vasi di creta, affinché appaia che questa straordinaria potenza appartiene a Dio, e non viene da noi."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "C’est pourquoi, ayant reçu ce ministère par la miséricorde de Dieu, nous ne perdons pas courage : nous avons rejeté toute dissimulation honteuse, nous n’agissons pas avec ruse, et nous ne falsifions pas la parole de Dieu. Au contraire, nous manifestons la vérité, et ainsi nous recommandons nous-mêmes à toute conscience humaine devant Dieu. En effet, ce que nous proclamons, ce n’est pas nous-mêmes ; c’est ceci : Jésus Christ est le Seigneur ; et nous sommes vos serviteurs, à cause de Jésus. Car Dieu qui a dit : Du milieu des ténèbres brillera la lumière, a lui-même brillé dans nos cœurs pour faire resplendir la connaissance de sa gloire qui rayonne sur le visage du Christ. Mais ce trésor, nous le portons comme dans des vases d’argile ; ainsi, on voit bien que cette puissance extraordinaire appartient à Dieu et ne vient pas de nous."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Unser Eifer erlahmt nicht in dem Dienst, der uns durch Gottes Erbarmen übertragen wurde. Wir haben uns von aller schimpflichen Arglist losgesagt; wir handeln nicht hinterhältig und verfälschen das Wort Gottes nicht, sondern lehren offen die Wahrheit. So empfehlen wir uns vor dem Angesicht Gottes jedem menschlichen Gewissen. Wir verkündigen nämlich nicht uns selbst, sondern Jesus Christus als den Herrn, uns aber als eure Knechte um Jesu willen. Denn Gott, der sprach: Aus Finsternis soll Licht aufleuchten!, er ist in unseren Herzen aufgeleuchtet, damit wir erleuchtet werden zur Erkenntnis des göttlichen Glanzes auf dem Antlitz Christi. Diesen Schatz tragen wir in zerbrechlichen Gefäßen; so wird deutlich, dass das Übermaß der Kraft von Gott und nicht von uns kommt."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia-or-versus",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "(Alleluia.)"
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "(Alléluia)"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "(Alleluia.)"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ego sum vitis, vos pálmites, dicit Dóminus; qui manet in me, et ego in eo, hic fert fructum multum."
+                    },
+                    {
+                      "type": "response",
+                      "text": "(Alleluia.)"
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Yo soy la vid, vosotros los sarmientos —dice el Señor—; el que permanece en mí y yo en él, ese da fruto abundante."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "I am the vine and you are the branches, says the Lord: those who live in me, and I in them, will bear"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Eu sou a videira e vós sois os ramos; quem em mim permanece e no qual permaneço, esse dá muito fruto."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Io sono la vite, voi i tralci, dice il Signore; chi rimane in me, e io in lui, porta molto frutto."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "(Alléluia)"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Moi, je suis la vigne, et vous les sarments, dit le Seigneur. Celui qui demeure en moi et en qui je demeure, celui-là porte beaucoup de fruit."
+                    },
+                    {
+                      "type": "response",
+                      "text": "(Alléluia)"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "(So spricht der Herr:) Ich bin der Weinstock, ihr seid die Reben. Wer in mir bleibt und in wem ich bleibe, der bringt reiche Frucht."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Io 15, 5",
+              "pt-BR": "Jo 15, 5",
+              "it": "Gv 15, 5",
+              "fr": "Io 15, 5",
+              "de": "Joh 15, 5"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 6, 43-45",
+              "es": "Lc 6, 43-45",
+              "en-US": "Lk 6: 43-45",
+              "pt-BR": "Lc 6, 43-45",
+              "it": "Lc 6, 43-45",
+              "fr": "Lc 6, 43-45",
+              "de": "Lk 6, 43-45"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal Vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Ex abundantia cordis os loquitur.",
+              "es": "De lo que rebosa el corazón habla la boca",
+              "pt-BR": "A boca fala do que o coração está cheio.",
+              "it": "La bocca esprime ciò che dal cuore sovrabbonda."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dicébat Iesus discípulis suis: «Non est arbor bona fáciens fructum malum, neque íterum arbor mala fáciens fructum bonum. Unaquæque enim arbor de fructu suo cognóscitur; neque enim de spinis cólligunt ficus, neque de rubo vindémiant uvam. Bonus homo de bono thesáuro cordis profert bonum, et malus homo de malo profert malum: ex abundántia enim cordis os eius lóquitur."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, decía Jesús a sus discípulos: «No hay árbol bueno que dé fruto malo, ni árbol malo que dé fruto bueno; por ello, cada árbol se conoce por su fruto; porque no se recogen higos de las zarzas, ni se vendimian racimos de los espinos. El hombre bueno, de la bondad que atesora en su corazón saca el bien, y el que es malo, de la maldad saca el mal; porque de lo que rebosa el corazón habla la boca»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jesus said to his disciples: 'There is no sound tree that produces rotten fruit, nor again a rotten tree that produces sound fruit. For every tree can be told by its own fruit: people do not pick figs from thorns, nor gather grapes from brambles. A good man draws what is good from the store of goodness in his heart; a bad man draws what is bad from the store of badness. For a man's words flow out of what fills his heart."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, disse Jesus aos seus discípulos: \"Não existe árvore boa que dê frutos ruins, nem árvore ruim que dê frutos bons. Toda árvore é reconhecida pelos seus frutos. Não se colhem figos de espinheiros, nem uvas de plantas espinhosas. O homem bom tira coisas boas do bom tesouro do seu coração. Mas o homem mau tira coisas más do seu mau tesouro, pois sua boca fala do que o coração está cheio\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù disse ai suoi discepoli: «Non vi è albero buono che produca un frutto cattivo, né vi è d’altronde albero cattivo che produca un frutto buono. Ogni albero infatti si riconosce dal suo frutto: non si raccolgono fichi dagli spini, né si vendemmia uva da un rovo. L’uomo buono dal buon tesoro del suo cuore trae fuori il bene; l’uomo cattivo dal suo cattivo tesoro trae fuori il male: la sua bocca infatti esprime ciò che dal cuore sovrabbonda»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait à ses disciples : « Un bon arbre ne donne pas de fruit pourri ; jamais non plus un arbre qui pourrit ne donne de bon fruit. Chaque arbre, en effet, se reconnaît à son fruit : on ne cueille pas des figues sur des épines ; on ne vendange pas non plus du raisin sur des ronces. L’homme bon tire le bien du trésor de son cœur qui est bon ; et l’homme mauvais tire le mal de son cœur qui est mauvais : car ce que dit la bouche, c’est ce qui déborde du cœur. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sprach Jesus zu seinen Jüngern: Es gibt keinen guten Baum, der schlechte Früchte hervorbringt, noch einen schlechten Baum, der gute Früchte hervorbringt. Jeden Baum erkennt man an seinen Früchten: Von den Disteln pflückt man keine Feigen, und vom Dornstrauch erntet man keine Trauben. Ein guter Mensch bringt Gutes hervor, weil in seinem Herzen Gutes ist; und ein böser Mensch bringt Böses hervor, weil in seinem Herzen Böses ist. Wovon das Herz voll ist, davon spricht der Mund."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,990 @@
+{
+  "id": "sanctorale.06-09",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Ephræm, diaconi et Ecclésiæ doctoris",
+    "es": "San Efrén, diácono y doctor de la Iglesia",
+    "en-US": "Saint Ephrem, deacon and doctor of the Church",
+    "pt-BR": "Santo Efrém, diácono e doutor da Igreja",
+    "it": "SANT’EFREM, diacono e dottore della Chiesa",
+    "fr": "Saint Éphrem, diacre et docteur de l’Église",
+    "de": "Hl. Ephräm der Syrer, Diakon, Kirchenlehrer"
+  },
+  "description": {
+    "la": "Natus est Nisibi circa annum 306 ex familia christiana. Diaconus ordinatus, munus exercuit in patria et Edessæ, ubi fundamenta iecit scholæ theologicæ. Vitam asceticam professus, non remisit tamen ministerium in prædicatione et in libris conscribendis ad errores sui temporis confutandos. Mortuus est anno 373.",
+    "es": "Nació en Nísibe, de familia cristiana, hacia el año 306. Se ordenó de diácono y ejerció dicho ministerio en su patria y en Edesa, de cuya escuela teológica fue el iniciador. A pesar de su intensa vida ascética, desplegó una gran actividad como predicador y como autor de importantes obras, destinadas a la refutación de los errores de su tiempo. Murió el año 373.",
+    "pt-BR": "Efrém (Nísibe, atual Nizip, Turquia, por volta do ano 306 - Edessa, Síria, atual Turquia, 9 de junho de 373), diácono da Igreja síria e criador de novos hinos litúrgicos, gozou de tanta fama no Oriente cristão que foi chamado cantor de Cristo e da Virgem. Sua experiência mística inspirou-lhe extraordinária sensibilidade de escritor e poeta. Foi também apelidado de \"cítara do Espírito Santo\".",
+    "it": "Efrem (Nisibi, attuale Nusaybin, Turchia, 306 ca. - Edessa, attuale S¸anliurfa, 9 giugno 373) contribuì alla fondazione di una scuola teologica, prima in patria, quindi a Edessa, dove si trasferì dopo il passaggio di Nisibi sotto il dominio dei persiani. Compose inni liturgici ricchi di immagini e di ritmi che lo resero famoso in tutto l’Oriente cristiano. Esercitò esemplarmente il ministero diaconale nell’insegnamento, nell’animazione liturgica e nell’assistenza ai bisognosi.",
+    "fr": "Le diacre Éphrem était chargé de l’école théologique de Nisibe. Lorsque surgirent les Perses (363), il dut se réfugier avec ses élèves à Édesse, où il mourut (373). Il menait une vie de contemplation, qu’il entretenait par une austérité extrême. C’est de sa flamme intérieure que jaillissait ce lyrisme qui a fait de lui « la harpe du Saint-Esprit ».",
+    "de": "Er wurde 306 in Nisibis in einer christlichen Familie geboren, wurde zum Diakon geweiht und übte seine pastorale Tätigkeit in seiner Heimat und in Edessa aus. An beiden Orten wirkte er als Lehrer und Prediger und lebte ein intensives asketisches Leben. Zudem ist er der Verfasser einiger bedeutender Werke, die zur Widerlegung der Irrtümer seiner Zeit dienten. Er starb im Jahr 373."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Córdibus nostris, quǽsumus, Dómine, Spíritum Sanctum benígnus infúnde, cuius afflátu beátus Ephræm diáconus in tuis mystériis decantándis exsultávit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "eiúsque virtúte tibi soli desérviit. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, infunde, por tu bondad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "en nuestros corazones el Espíritu Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "bajo cuya inspiración el diácono san Efrén cantó exultante tus misterios y te sirvió, solo a ti, con fortaleza."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Pour into our hearts O Lord, we pray, the Holy Spirit, at whose prompting the Deacon Saint Ephrem exulted in singing of your mysteries and from whom he received the strength to serve you alone."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Derramai, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "em nossos corações, o Espírito Santo que inspirou o diácono Santo Efrém a cantar a beleza dos vossos mistérios e lhe deu a força de servir unicamente a vós."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dona, o Padre, alla comunità dei credenti la sapienza del tuo santo Spirito che mosse sant’Efrem, diacono e cantore della tua gloria, a celebrare con inni mirabili i tuoi divini misteri. Per il nostro Signore Gesù Cristo, tuo Figlio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "En ta bonté, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "répands dans nos cœurs ton Esprit Saint :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "son souffle inspirait au bienheureux Éphrem, ton diacre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de chanter dans la joie tes mystères,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sa force lui donnait de ne servir que toi."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Erhabener Gott, wir begehen den Gedächtnistag des heiligen Diakons Ephräm."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Erfüllt vom Heiligen Geist, hat er in Hymnen und Liedern deine Größe besungen."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Gib auch uns deinen Geist, damit wir dich loben und dir mit ganzer Hingabe dienen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Col 3, 12-17",
+              "es": "Col 3, 12-17",
+              "en-US": "Col 3:12-17",
+              "pt-BR": "Cl 3, 12-17",
+              "it": "Col 3, 12-17",
+              "fr": "Col 3, 12-17",
+              "de": "Kol 3, 12-17"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Colossénses",
+              "es": "Lectura de la carta del Apóstol San Pablo a los Colosenses",
+              "en-US": "A reading from the Letter of Saint Paul to the Colossians",
+              "pt-BR": "Leitura da Carta de São Paulo aos Colossenses",
+              "it": "Dalla lettera di san Paolo apostolo ai Colossesi",
+              "fr": "Lettre de saint Paul Apôtre aux Colossiens",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Kolosser"
+            },
+            "summary": {
+              "la": "Super ómnia caritátem, quod est vinculum perfectionis.",
+              "es": "Por encima de todo, el amor, que es el vínculo de la unidad perfecta",
+              "pt-BR": "Acima de tudo tende caridade: pois o amor é o vínculo da perfeição.",
+              "it": "Sopra tutte queste cose rivestitevi della carità, che le unisce in modo perfetto."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Indúite vos, sicut elécti Dei, sancti et dilécti, víscera misericórdiæ, benignitátem, humilitátem, mansuetúdinem, longanimitátem, supportántes ínvicem et donántes vobis ipsis, si quis advérsus áliquem habet querélam; sicut et Dóminus donávit vobis, ita et vos; super ómnia autem hæc: caritátem, quod est vínculum perfectiónis. Et pax Christi dominétur in córdibus vestris, ad quam et vocáti estis in uno córpore. Et grati estóte. Verbum Christi hábitet in vobis abundánter, in omni sapiéntia docéntes et commonéntes vosmetípsos psalmis, hymnis, cánticis spiritálibus, in grátia cantántes in córdibus vestris Deo; et omne, quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Iesu grátias agéntes Deo Patri per ipsum."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Como elegidos de Dios, santos y amados, revestíos de compasión entrañable, bondad, humildad, mansedumbre, paciencia. Sobrellevaos mutuamente y perdonaos cuando alguno tenga quejas contra otro. El Señor os ha perdonado: haced vosotros lo mismo. Y por encima de todo esto, el amor, que es el vínculo de la unidad perfecta. Que la paz de Cristo reine en vuestro corazón: a ella habéis sido convocados en un solo cuerpo. Sed también agradecidos. La Palabra de Cristo habite entre vosotros en toda su riqueza; enseñaos unos a otros con toda sabiduría; exhortaos mutuamente. Cantad a Dios, dando gracias de corazón, con salmos, himnos y cánticos inspirados. Y todo lo que de palabra o de obra realicéis, sea todo en nombre de Jesús, dando gracias a Dios Padre por medio de él."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "You are God's chosen race, his saints; he loves you, and you should be clothed in sincere compassion, in kindness and humility, gentleness and patience. Bear with one another; forgive each other as soon as a quarrel begins. The Lord has forgiven you; now you must do the same. Over all these clothes, to keep them together and complete them, put on love. And may the peace of Christ reign in your hearts, because it is for this that you were called together as parts of one body. Always be thankful. Let the message of Christ, in all its richness, find a home with you. Teach each other, and advise each other, in all wisdom. With gratitude in your hearts sing psalms and hymns and inspired songs to God; and never say or do anything except in the name of the Lord Jesus, giving thanks to God the Father through him."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos: Vós sois amados por Deus, sois os seus santos eleitos. Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também. Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição. Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo. E sede agradecidos. Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças. Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, scelti da Dio, santi e amati, rivestitevi di sentimenti dì tenerezza, di bontà, di umiltà, di mansuetudine, dì magnanimità, sopportandovi a vicenda e perdonandovi gli uni gli altri, se qualcuno avesse di che lamentarsi nei riguardi di un altro. Come il Signore vi ha perdonato, così fate anche voi. Ma sopra tutte queste cose rivestitevi della carità, che le unisce in modo perfetto. E la pace di Cristo regni nei vostri cuori, perché ad essa siete stati chiamati in un solo corpo. E rendete grazie! La parola di Cristo abiti tra voi nella sua ricchezza. Con ogni sapienza istruitevi e ammonitevi a vicenda con salmi, inni e canti ispirati, con gratitudine, cantando a Dio nei vostri cuori. E qualunque cosa facciate, in parole e in opere, tutto avvenga nel nome del Signore Gesù, rendendo grazie per mezzo di lui a Dio Padre."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, puisque vous avez été choisis par Dieu, que vous êtes sanctifiés, aimés par lui, revêtez-vous de tendresse et de compassion, de bonté, d’humilité, de douceur et de patience. Supportez-vous les uns les autres, et pardonnez-vous mutuellement si vous avez des reproches à vous faire. Le Seigneur vous a pardonné : faites de même. Par-dessus tout cela, ayez l’amour, qui est le lien le plus parfait. Et que, dans vos cœurs, règne la paix du Christ à laquelle vous avez été appelés, vous qui formez un seul corps. Vivez dans l’action de grâce. Que la parole du Christ habite en vous dans toute sa richesse ; instruisez-vous et reprenez-vous les uns les autres en toute sagesse ; par des psaumes, des hymnes et des chants inspirés, chantez à Dieu, dans vos cœurs, votre reconnaissance. Et tout ce que vous dites, tout ce que vous faites, que ce soit toujours au nom du Seigneur Jésus, en offrant par lui votre action de grâce à Dieu le Père."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Ihr seid von Gott geliebt, seid seine auserwählten Heiligen. Darum bekleidet euch mit aufrichtigem Erbarmen, mit Güte, Demut, Milde, Geduld! Ertragt euch gegenseitig, und vergebt einander, wenn einer dem andern etwas vorzuwerfen hat. Wie der Herr euch vergeben hat, so vergebt auch ihr! Vor allem aber liebt einander, denn die Liebe ist das Band, das alles zusammenhält und vollkommen macht. In eurem Herzen herrsche der Friede Christi; dazu seid ihr berufen als Glieder des einen Leibes. Seid dankbar! Das Wort Christi wohne mit seinem ganzen Reichtum bei euch. Belehrt und ermahnt einander in aller Weisheit! Singt Gott in eurem Herzen Psalmen, Hymnen und Lieder, wie sie der Geist eingibt, denn ihr seid in Gottes Gnade. Alles, was ihr in Worten und Werken tut, geschehe im Namen Jesu, des Herrn. Durch ihn dankt Gott, dem Vater!"
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

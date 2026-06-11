@@ -19,8 +19,8 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/mass",
-              "params": { "form": "of" }
+              "ref": "producer/mass-of",
+              "params": {}
             }
           ]
         },

@@ -1,0 +1,85 @@
+{
+  "id": "sanctorale.10-06.united-states",
+  "kind": "sanctoral",
+  "scope": "united-states",
+  "structure": "mass",
+  "title": {
+    "en-US": "Blessed Marie Rose Durocher, Virgin"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lord, who enkindled in the heart of Blessed Marie Rose Durocher the flame of ardent charity"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and a great desire to cooperate"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in the mission of the Church as a teacher;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant us that same active love,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that, in responding to the needs of the world today,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may lead our brothers and sisters"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to the blessedness of eternal life."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

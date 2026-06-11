@@ -1,0 +1,1960 @@
+{
+  "id": "tempore.ordinary-time.week-31.thursday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Feria V hebd. XXXI",
+    "es": "Jueves 31ª semana",
+    "en-US": "Thursday of the Xxxi Week in Ordinary Time",
+    "pt-BR": "Quinta-feira da Xxxi Semana do Tempo Comum",
+    "it": "GIOVEDI della XXXI settimana del Tempo Ordinario",
+    "fr": "Jeudi de la 31e semaine",
+    "de": "31. Woche im Jahreskreis DONNERSTAG"
+  },
+  "season": "ordinary-time",
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "weekday",
+  "includeGloria": false,
+  "inheritsOrationsFrom": "tempore.ordinary-time.week-31.sunday",
+  "readings": {
+    "I": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Rom 14, 7-12",
+              "es": "Rom 14, 7-12",
+              "en-US": "Rom 14:7-12",
+              "pt-BR": "Rom 14, 7-12",
+              "it": "Rm 14,7-12",
+              "fr": "Rm 14, 7-12",
+              "de": "Röm 14, 7-12"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Romános",
+              "es": "Lectura de la carta del apóstol san Pablo a los Romanos",
+              "en-US": "A reading from the Letter of Saint Paul to the Romans",
+              "pt-BR": "Leitura da Carta de São Paulo aos Romanos",
+              "it": "Dalla lettera di san Paolo apostolo ai Romani",
+              "fr": "Lettre de saint Paul Apôtre aux Romains",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Römer"
+            },
+            "summary": {
+              "la": "Sive vivimus, sive morimur, Dómini sumus",
+              "es": "Ya vivamos ya muramos, somos del Señor",
+              "pt-BR": "Vivos ou mortos, pertencemos ao Senhor.",
+              "it": "Sia che viviamo, sia che moriamo, siamo del Signore."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Nemo nostrum sibi vivit, et nemo sibi móritur; sive enim vívimus, Dómino vívimus, sive mórimur, Dómino mórimur. Sive ergo vívimus, sive mórimur, Dómini sumus. In hoc enim Christus et mórtuus est et vixit, ut et mortuórum et vivórum dominétur. Tu autem, quid iúdicas fratrem tuum? Aut tu, quare spernis fratrem tuum? Omnes enim stábimus ante tribúnal Dei; scriptum est enim: «Vivo ego, dicit Dóminus, mihi flectétur omne genu, et omnis lingua confitébitur Deo». Itaque unusquísque nostrum pro se ratiónem reddet Deo."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Ninguno de nosotros vive para sí mismo y ninguno muere para sí mismo. Si vivimos, vivimos para el Señor; si morimos, morimos para el Señor; así que, ya vivamos ya muramos, somos del Señor. Pues para esto murió y resucitó Cristo: para ser Señor de muertos y vivos. Pero tú, ¿por qué juzgas a tu hermano? Y tú, ¿por qué desprecias a tu hermano? De hecho, todos compareceremos ante el tribunal de Dios, pues está escrito: «¡Por mi vida!, dice el Señor, ante mí se doblará toda rodilla, y toda lengua alabará a Dios». Así pues, cada uno de nosotros dará cuenta de sí mismo a Dios."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The life and death of each of us has its influence on others; if we live, we live for the Lord; and if we die, we die for the Lord, so that alive or dead we belong to the Lord. This explains why Christ both died and came to life, it was so that he might be Lord both of the dead and of the living. This is also why you should never pass judgment on a brother or treat him with contempt, as some of you have done. We shall all have to stand before the judgment seat of God; as scripture says: By my life - it is the Lord who speaks - every knee shall bend before me, and every tongue shall praise God. It is to God, therefore, that each of us must give an account of himself."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos, ninguém dentre nós vive para si mesmo ou morre para si mesmo. Se estamos vivos, é para o Senhor que vivemos; se morremos, é para o Senhor que morremos. Portanto, vivos ou mortos, pertencemos ao Senhor. Cristo morreu e ressuscitou exatamente para isto, para ser o Senhor dos mortos e dos vivos. E tu, por que julgas o teu irmão? Ou, mesmo, por que desprezas o teu irmão? Pois é diante do tribunal de Deus que todos compareceremos. Com efeito, está escrito: “Por minha vida, diz o Senhor, todo joelho se dobrará diante de mim e toda língua glorificará a Deus”. Assim, cada um de nós prestará contas de si mesmo a Deus."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, nessuno di noi vive per se stesso e nessuno muore per se stesso, perché se noi viviamo, viviamo per il Signore, se noi moriamo, moriamo per il Signore. Sia che viviamo, sia che moriamo, siamo del Signore. Per questo infatti Cristo è morto ed è ritornato alla vita: per essere il Signore dei morti e dei vivi. Ma tu, perché giudichi il tuo fratello? E tu, perché disprezzi il tuo fratello? Tutti infatti ci presenteremo al tribunale di Dio, perché sta scritto: «Io vivo, dice il Signore: ogni ginocchio si piegherà davanti a me e ogni lingua renderà gloria a Dio». Quindi ciascuno di noi renderà conto di se stesso a Dio."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, aucun d’entre nous ne vit pour soi-même, et aucun ne meurt pour soi-même : si nous vivons, nous vivons pour le Seigneur ; si nous mourons, nous mourons pour le Seigneur. Ainsi, dans notre vie comme dans notre mort, nous appartenons au Seigneur. Car, si le Christ a connu la mort, puis la vie, c’est pour devenir le Seigneur et des morts et des vivants. Alors toi, pourquoi juger ton frère ? Toi, pourquoi mépriser ton frère ? Tous, en effet, nous comparaîtrons devant le tribunal de Dieu. Car il est écrit : Aussi vrai que je suis vivant, dit le Seigneur, tout genou fléchira devant moi, et toute langue proclamera la louange de Dieu. Ainsi chacun de nous rendra compte à Dieu pour soi-même."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Keiner von uns lebt sich selber, und keiner stirbt sich selber: Leben wir, so leben wir dem Herrn, sterben wir, so sterben wir dem Herrn. Ob wir leben oder ob wir sterben, wir gehören dem Herrn. Denn Christus ist gestorben und lebendig geworden, um Herr zu sein über Tote und Lebende. Wie kannst also du deinen Bruder richten? Und du, wie kannst du deinen Bruder verachten? Wir werden doch alle vor dem Richterstuhl Gottes stehen. Denn es heißt in der Schrift: So wahr ich lebe, spricht der Herr, vor mir wird jedes Knie sich beugen, und jede Zunge wird Gott preisen. Also wird jeder von uns vor Gott Rechenschaft über sich selbst ablegen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 26, 1. 4. 13-14",
+              "es": "Sal 26, 1. 4. 13-14",
+              "en-US": "Ps 26:1, 4, 13-14",
+              "pt-BR": "Sl 26, 1. 4. 13-14",
+              "it": "Sal 26, 1. 4. 13-14",
+              "fr": "Ps 26, 1. 4. 13-14",
+              "de": "Ps 27"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Credo vidére bona Dómini in terra vivéntium."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Espero gozar de la dicha del Señor en el país de la vida."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "I believe that I shall see the good things of the Lord in the land of the living."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Sei que a bondade do Senhor eu hei de ver, na terra dos viventes."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Contemplerò la bontà del Signore nella terra dei viventi."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "J’en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ich bin gewiss, zu schauen die Güte des Herrn im Land der Lebenden."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dóminus illuminátio mea et salus mea, quem timébo?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dóminus protéctor vitæ meæ, a quo trepidábo?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Unum pétii a Dómino, hoc requíram:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ut inhábitem in domo Dómini ómnibus diébus vitæ meæ,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ut vídeam voluptátem Dómini,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et vísitem templum eius."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Credo vidére bona Dómini in terra vivéntium."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exspécta Dóminum, viríliter age,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et confortétur cor tuum, et sústine Dóminum."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es mi luz y mi salvación,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "¿a quién temeré?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es la defensa de mi vida,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "¿quién me hará temblar?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Una cosa pido al Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "eso buscaré:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "habitar en la casa del Señor por los días de mi vida;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "gozar de la dulzura del Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "contemplando su templo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Espero gozar de la dicha del Señor en el país de la vida."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Espera en el Señor, sé valiente,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ten ánimo, espera en el Señor."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The Lord is my light and my help; whom shall I fear? The Lord is the stronghold of my life; before whom shall I shrink?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "There is one thing I ask of the Lord, for this I long, to live in the house of the Lord, all the days of my life, to savour the sweetness of the Lord, to behold his temple."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I am sure I shall see the Lord's goodness in the land of the living. Hope in him, hold firm and take heart. Hope in the Lord!"
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Senhor é minha luz e salvação;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de quem eu terei medo?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Senhor é a proteção da minha vida;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "perante quem eu tremerei?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ao Senhor eu peço apenas uma coisa,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e é só isto que eu desejo:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "habitar no santuário do Senhor por toda a minha vida; saborear a suavidade do Senhor e contemplá-lo no seu templo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sei que a bondade do Senhor eu hei de ver na terra dos viventes."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Espera no Senhor e tem coragem,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "espera no Senhor!"
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore è mia luce e mia salvezza:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "di chi avrò timore?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore è difesa della mia vita:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "di chi avrò paura?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Una cosa ho chiesto al Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "questa sola io cerco:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "abitare nella casa del Signore tutti i giorni della mia vita,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "per contemplare la bellezza del Signore e ammirare il suo santuario."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sono certo di contemplare la bontà del Signore nella terra dei viventi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Spera nel Signore, sii forte,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "si rinsaldi il tuo cuore e spera nel Signore."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur est ma lumière et mon salut ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de qui aurais-je crainte ?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur est le rempart de ma vie ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "devant qui tremblerais-je ?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "J’ai demandé une chose au Seigneur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la seule que je cherche :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "habiter la maison du Seigneur tous les jours de ma vie,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "pour admirer le Seigneur dans sa beauté et m’attacher à son temple."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "J’en suis sûr,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "je verrai les bontés du Seigneur sur la terre des vivants."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "« Espère le Seigneur, sois fort et prends courage ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "espère le Seigneur. »"
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr ist mein Licht und mein Heil:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vor wem sollte ich mich fürchten?"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Herr ist die Kraft meines Lebens:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vor wem sollte mir bangen?"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Nur eines erbitte ich vom Herrn, danach verlangt mich:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Im Haus des Herrn zu wohnen alle Tage meines Lebens,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die Freundlichkeit des Herrn zu schauen und nachzusinnen in seinem Tempel."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich bin gewiss, zu schauen die Güte des Herrn im Land der Lebenden."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hoffe auf den Herrn; und sei stark!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hab festen Mut, und hoffe auf den Herrn!"
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Veníte ad me, omnes qui laborátis et oneráti estis, et ego refíciam vos, dicit Dóminus."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Venid a mí todos los que estáis cansados y agobiados —dice el Señor—, y yo os aliviaré."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Come to me, all you that labor and are burdened, and I will give you rest, says the Lord."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Vinde a mim, todos vós que estais cansados, e descamnso eu vos darei, diz o Senhor."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro, dice il Signore."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Venez à moi, vous tous qui peinez sous le poids du fardeau, dit le Seigneur, et moi, je vous procurerai le repos."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "(So spricht der Herr:) Kommt alle zu mir, die ihr euch plagt und schwere Lasten zu tragen habt. Ich werde euch Ruhe verschaffen."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Mt 11, 28",
+              "es": "Mt 11, 28",
+              "pt-BR": "Mt 11, 28",
+              "it": "Mt 11,28",
+              "fr": "Mt 11, 28",
+              "de": "Mt 11, 28"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 15, 1-10",
+              "es": "Lc 15, 1-10",
+              "en-US": "Lk 15:1-10",
+              "pt-BR": "Lc 15, 1-10",
+              "it": "Lc 15, 1-10",
+              "fr": "Lc 15, 1-10",
+              "de": "Lk 15, 1-10"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Gaudium erit in cælo super uno peccatore pænitentiam agente",
+              "es": "Habrá más alegría en el cielo por un solo pecador que se convierta",
+              "pt-BR": "Haverá alegria no céu por um só pecador que se converte.",
+              "it": "Vi sarà gioia nel cielo per un solo peccatore che si converte."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Erant appropinquántes Iesu omnes publicáni et peccatóres, ut audírent illum. Et murmurábant pharisǽi et scribæ dicéntes: «Hic peccatóres récipit et mandúcat cum illis». Et ait ad illos parábolam istam dicens: «Quis ex vobis homo, qui habet centum oves et si perdíderit unam ex illis, nonne dimíttit nonagínta novem in desérto et vadit ad illam, quæ períerat, donec invéniat illam? Et cum invénerit eam, impónit in úmeros suos gaudens et véniens domum cónvocat amícos et vicínos dicens illis: «Congratulámini mihi, quia invéni ovem meam, quæ períerat». Dico vobis: Ita gáudium erit in cælo super uno peccatóre pæniténtiam agénte quam super nonagínta novem iustis, qui non índigent pæniténtia. Aut quæ múlier habens drachmas decem, si perdíderit drachmam unam, nonne accéndit lucérnam et evérrit domum et quærit diligénter, donec invéniat? Et cum invénerit, cónvocat amícas et vicínas dicens: «Congratulámini mihi, quia invéni drachmam, quam perdíderam». Ita dico vobis: Gáudium fit coram ángelis Dei super uno peccatóre pæniténtiam agénte»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, solían acercarse a Jesús todos los publicanos y los pecadores a escucharlo. Y los fariseos y los escribas murmuraban diciendo: «Ese acoge a los pecadores y come con ellos». Jesús les dijo esta parábola: «¿Quién de vosotros que tiene cien ovejas y pierde una de ellas, no deja las noventa y nueve en el desierto y va tras la descarriada, hasta que la encuentra? Y, cuando la encuentra, se la carga sobre los hombros, muy contento; y, al llegar a casa, reúne a los amigos y a los vecinos, y les dice: “¡Alegraos conmigo!, he encontrado la oveja que se me había perdido”. Os digo que así también habrá más alegría en el cielo por un solo pecador que se convierta que por noventa y nueve justos que no necesitan convertirse. O ¿qué mujer que tiene diez monedas, si se le pierde una, no enciende una lámpara y barre la casa y busca con cuidado, hasta que la encuentra? Y, cuando la encuentra, reúne a las amigas y a las vecinas y les dice: “¡Alegraos conmigo!, he encontrado la moneda que se me había perdido”. Os digo que la misma alegría tendrán los ángeles de Dios por un solo pecador que se convierta»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The tax collectors and the sinners were all seeking the company of Jesus to hear what he had to say, and the Pharisees and the scribes complained. 'This man' they said 'welcomes sinners and eats with them.' So he spoke this parable to them: 'What man among you with a hundred sheep, losing one, would not leave the ninety-nine in the wilderness and go after the missing one till he found it? And when he found it, would he not joyfully take it on his shoulders and then, when he got home, call together his friends and neighbours? \"Rejoice with me,\" he would say \"I have found my sheep that was lost.\" In the same way, I tell you, there will be more rejoicing in heaven over one repentant sinner than over ninety-nine virtuous men who have no need of repentance. 'Or again, what woman with ten drachmas would not, if she lost one, light a lamp and sweep out the house and search thoroughly till she found it? And then, when she had found it, call together her friends and neighbours? \"Rejoice with me,\" she would say \"I have found the drachma I lost.\" In the same way, I tell you, there is rejoicing among the angels of God over one repentant sinner.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, os publicanos e pecadores aproximavam-se de Jesus para o escutar. Os fariseus, porém, e os mestres da Lei criticavam Jesus. \"Este homem acolhe os pecadores e faz refeição com eles\". Então Jesus contou-lhes esta parábola: \"Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, e vai atrás daquela que se perdeu, até encontrá-la? Quando a encontra, coloca-a nos ombros com alegria, e, chegando a casa, reúne os amigos e vizinhos, e diz: 'Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!' Eu vos digo: Assim haverá no céu mais alegria por um só pecador que se converte, do que por noventa e nove justos que não precisam de conversão. E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la? Quando a encontra, reúne as amigas e vizinhas, e diz: 'Alegrai-vos comigo! Encontrei a moeda que tinha perdido!' Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, si avvicinavano a Gesù tutti i pubblicani e i peccatori per ascoltarlo. I farisei e gli scribi mormoravano dicendo: «Costui accoglie i peccatori e mangia con loro». Ed egli disse loro questa parabola: «Chi di voi, se ha cento pecore e ne perde una, non lascia le novantanove nel deserto e va in cerca di quella perduta, finché non la trova? Quando l’ha trovata, pieno di gioia se la carica sulle spalle, va a casa, chiama gli amici e i vicini e dice loro: “Rallegratevi con me, perché ho trovato la mia pecora, quella che si era perduta”. Io vi dico: così vi sarà gioia nel cielo per un solo peccatore che si converte, più che per novantanove giusti i quali non hanno bisogno di conversione. Oppure, quale donna, se ha dieci monete e ne perde una, non accende la lampada e spazza la casa e cerca accuratamente finché non la trova? E dopo averla trovata, chiama le amiche e le vicine, e dice: “Rallegratevi con me, perché ho trovato la moneta che avevo perduto”. Così, io vi dico, vi è gioia davanti agli angeli di Dio per un solo peccatore che si converte»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, les publicains et les pécheurs venaient tous à Jésus pour l’écouter. Les pharisiens et les scribes récriminaient contre lui : « Cet homme fait bon accueil aux pécheurs, et il mange avec eux ! » Alors Jésus leur dit cette parabole : « Si l’un de vous a cent brebis et qu’il en perd une, n’abandonne-t-il pas les quatre-vingt-dix-neuf autres dans le désert pour aller chercher celle qui est perdue, jusqu’à ce qu’il la retrouve ? Quand il l’a retrouvée, il la prend sur ses épaules, tout joyeux, et, de retour chez lui, il rassemble ses amis et ses voisins pour leur dire : »Réjouissez-vous avec moi, car j’ai retrouvé ma brebis, celle qui était perdue !« Je vous le dis : C’est ainsi qu’il y aura de la joie dans le ciel pour un seul pécheur qui se convertit, plus que pour quatre-vingt-dix-neuf justes qui n’ont pas besoin de conversion. Ou encore, si une femme a dix pièces d’argent et qu’elle en perd une, ne va-t-elle pas allumer une lampe, balayer la maison, et chercher avec soin jusqu’à ce qu’elle la retrouve ? Quand elle l’a retrouvée, elle rassemble ses amies et ses voisines pour leur dire : »Réjouissez-vous avec moi, car j’ai retrouvé la pièce d’argent que j’avais perdue !« Ainsi je vous le dis : Il y a de la joie devant les anges de Dieu pour un seul pécheur qui se convertit. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit kamen alle Zöllner und Sünder zu Jesus, um ihn zu hören. Die Pharisäer und die Schriftgelehrten empörten sich darüber und sagten: Er gibt sich mit Sündern ab und isst sogar mit ihnen. Da erzählte er ihnen ein Gleichnis und sagte: Wenn einer von euch hundert Schafe hat und eins davon verliert, lässt er dann nicht die neunundneunzig in der Steppe zurück und geht dem verlorenen nach, bis er es findet? Und wenn er es gefunden hat, nimmt er es voll Freude auf die Schultern, und wenn er nach Hause kommt, ruft er seine Freunde und Nachbarn zusammen und sagt zu ihnen: Freut euch mit mir; ich habe mein Schaf wieder gefunden, das verloren war. Ich sage euch: Ebenso wird auch im Himmel mehr Freude herrschen über einen einzigen Sünder, der umkehrt, als über neunundneunzig Gerechte, die es nicht nötig haben umzukehren. Oder wenn eine Frau zehn Drachmen hat und eine davon verliert, zündet sie dann nicht eine Lampe an, fegt das ganze Haus und sucht unermüdlich, bis sie das Geldstück findet? Und wenn sie es gefunden hat, ruft sie ihre Freundinnen und Nachbarinnen zusammen und sagt: Freut euch mit mir; ich habe die Drachme wieder gefunden, die ich verloren hatte. Ich sage euch: Ebenso herrscht auch bei den Engeln Gottes Freude über einen einzigen Sünder, der umkehrt."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    },
+    "II": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Phil 3, 3-8a",
+              "es": "Flp 3, 3-8a",
+              "en-US": "Phil 3:3-8",
+              "pt-BR": "Fl 3, 3-8a",
+              "fr": "Ph 3, 3-8a",
+              "de": "Phil 3, 3-8a"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ béati Pauli apóstoli ad Philippénses",
+              "es": "Lectura de la carta del apóstol san Pablo a los Filipenses",
+              "en-US": "A reading from the Letter of Saint Paul to the Philippians",
+              "pt-BR": "Leitura da Carta de São Paulo aos Filipenses",
+              "it": "Fratelli, i veri circoncisi siamo noi, che celebriamo il culto mossi dallo Spirito di Dio e ci vantiamo in Cristo Gesù senza porre fiducia nella carne, sebbene anche in essa io possa confidare. Se qualcuno ritiene di poter avere fiducia nella carne, io più di lui: circonciso all’età di otto giorni, della stirpe d’Israele, della tribù di Beniamino, Ebreo figlio di Ebrei; quanto alla Legge, fariseo; quanto allo zelo, persecutore della Chiesa; quanto alla giustizia che deriva dall’osservanza della Legge, irreprensibile. Ma queste cose, che per me erano guadagni, io le ho considerate una perdita a motivo di Cristo. Anzi, ritengo che tutto sia una perdita a motivo della sublimità della conoscenza di Cristo Gesù, mio Signore.",
+              "fr": "Lettre de saint Paul Apôtre aux Philippiens",
+              "de": "Lesung aus dem Brief des Apostels Paulus an die Philipper"
+            },
+            "summary": {
+              "la": "Quæ mihi erant lucra, hæc arbitratus sum propter Christum detrimentum",
+              "es": "Todo eso que para mí era ganancia, lo consideré pérdida a causa de Cristo",
+              "pt-BR": "Essas coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo.",
+              "it": "Queste cose, che per me erano guadagni, io le ho considerate una perdita a motivo di Cristo."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Nos sumus circumcísio, qui Spíritu Dei servímus et gloriámur in Christo Iesu et non in carne fidúciam habéntes, quamquam ego hábeam confidéntiam et in carne. Si quis álius vidétur confídere in carne, ego magis: circumcísus octáva die, ex génere Israel, de tribu Béniamin, Hebrǽus ex Hebrǽis, secúndum legem pharisǽus, secúndum æmulatiónem pérsequens Ecclésiam, secúndum iustítiam, quæ in lege est, conversátus sine queréla. Sed, quæ mihi erant lucra, hæc arbitrátus sum propter Christum detriméntum. Verúmtamen exístimo ómnia detriméntum esse propter eminéntiam sciéntiæ Christi Iesu Dómini mei."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: Los circuncisos somos nosotros, los que damos culto en el Espíritu de Dios y ponemos nuestra gloria en Cristo Jesús, sin confiar en la carne. Aunque también yo tendría motivos para confiar en ella. Y si alguno piensa que puede hacerlo, yo mucho más: circuncidado a los ocho días, del linaje de Israel, de la tribu de Benjamín, hebreo hijo de hebreos; en cuanto a la ley, fariseo; en cuanto a celo, perseguidor de la Iglesia; en cuanto a la justicia de la ley, irreprochable. Sin embargo, todo eso que para mí era ganancia, lo consideré pérdida a causa de Cristo. Más aún: todo lo considero pérdida comparado con la excelencia del conocimiento de Cristo Jesús, mi Señor."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "We are the real people of the circumcision, we who worship in accordance with the Spirit of God; we have our own glory from Christ Jesus without having to rely on a physical operation. If it came to relying on physical evidence, I should be fully qualified myself. Take any man who thinks he can rely on what is physical: I am even better qualified. I was born of the race of Israel and of the tribe of Benjamin, a Hebrew born of Hebrew parents, and I was circumcised when I was eight days old. As for the Law, I was a Pharisee; as for working for religion, I was a persecutor of the Church; as far as the Law can make you perfect, I was faultless. But because of Christ, I have come to consider all these advantages that I had as disadvantages. Not only that, but I believe nothing can happen that will outweigh the supreme advantage of knowing Christ Jesus my Lord."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos, os verdadeiros circuncidados somos nós, que prestamos culto pelo Espírito de Deus, pomos a nossa glória em Cristo Jesus e não pomos confiança na carne. Aliás, também eu poderia pôr minha confiança na carne. Pois, se algum outro pensa que pode confiar na carne, eu mais ainda. Fui circuncidado no oitavo dia, sou da raça de Israel, da tribo de Benjamim, hebreu filho de hebreus. Em relação à Lei, fariseu, pelo zelo, perseguidor da Igreja de Deus; quanto à justiça que vem da Lei, sempre irrepreensível. Mas essas coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo. Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, c’est nous qui sommes les vrais circoncis, nous qui rendons notre culte par l’Esprit de Dieu, nous qui mettons notre fierté dans le Christ Jésus et qui ne plaçons pas notre confiance dans ce qui est charnel. J’aurais pourtant, moi aussi, des raisons de placer ma confiance dans la chair. Si un autre pense avoir des raisons de le faire, moi, j’en ai bien davantage : circoncis à huit jours, de la race d’Israël, de la tribu de Benjamin, Hébreu, fils d’Hébreux ; pour l’observance de la loi de Moïse, j’étais pharisien ; pour ce qui est du zèle, j’étais persécuteur de l’Église ; pour la justice que donne la Loi, j’étais devenu irréprochable. Mais tous ces avantages que j’avais, je les ai considérés, à cause du Christ, comme une perte. Oui, je considère tout cela comme une perte à cause de ce bien qui dépasse tout : la connaissance du Christ Jésus, mon Seigneur."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Meine Brüder! Die Beschnittenen sind wir, die wir im Geist Gottes dienen und uns in Christus Jesus rühmen und nicht auf irdische Vorzüge vertrauen, obwohl ich mein Vertrauen auch auf irdische Vorzüge setzen könnte. Wenn ein anderer meint, er könne auf irdische Vorzüge vertrauen, so könnte ich es noch mehr. Ich wurde am achten Tag beschnitten, bin aus dem Volk Israel, vom Stamm Benjamin, ein Hebräer von Hebräern, lebte als Pharisäer nach dem Gesetz, verfolgte voll Eifer die Kirche und war untadelig in der Gerechtigkeit, wie sie das Gesetz vorschreibt. Doch was mir damals ein Gewinn war, das habe ich um Christi willen als Verlust erkannt. Ja noch mehr: ich sehe alles als Verlust an, weil die Erkenntnis Christi Jesu, meines Herrn, alles übertrifft."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 104, 2-3. 4-5. 6-7",
+              "es": "Sal 104, 2-3. 4-5. 6-7",
+              "en-US": "Ps 104:2-3, 4-5, 6-7",
+              "pt-BR": "Sl 104, 2-3. 4-5. 6-7",
+              "it": "Sal 104, 2-3. 4-5. 6-7",
+              "fr": "Ps 104, 2-3. 4-5. 6-7",
+              "de": "Ps 105"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Lætétur cor quæréntium Dóminum."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Que se alegren los que buscan al Señor."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Let hearts rejoice who search for the Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Exulte o coração dos que buscam o Senhor!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Gioisca il cuore di chi cerca il Signore."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Joie pour les cœurs qui cherchent Dieu !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Die den Herrn suchen, sollen sich von Herzen freuen."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantáte ei et psállite ei,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "meditámini in ómnibus mirabílibus eius."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Laudámini in nómine sancto eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "lætétur cor quæréntium Dóminum."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quǽrite Dóminum et poténtiam eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quǽrite fáciem eius semper."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mementóte mirabílium eius quæ fecit,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "prodígia eius et iudícia oris eius."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Semen Abraham, servi eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "fílii Iacob, elécti eius."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ipse Dóminus Deus noster;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in univérsa terra iudícia eius."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantadle al son de instrumentos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hablad de sus maravillas."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gloriaos de su nombre santo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que se alegren los que buscan al Señor."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Recurrid al Señor y a su poder,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "buscad continuamente su rostro."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Recordad las maravillas que hizo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sus prodigios, las sentencias de su boca."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "¡Estirpe de Abrahán, su siervo;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hijos de Jacob, su elegido!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es nuestro Dios,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "él gobierna toda la tierra."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O sing to the Lord, sing his praise; tell all his wonderful works! Be proud of his holy name, let the hearts that seek the Lord rejoice."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Consider the Lord and his strength; constantly seek his face. Remember the wonders he has done, his miracles, the judgments he spoke."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O children of Abraham, his servant, O sons of the Jacob he chose. He, the Lord, is our God: his judgments prevail in all the earth."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantai, entoai salmos para ele,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "publicai todas as suas maravilhas!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gloriai-vos em seu nome que é santo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "exulte o coração que busca a Deus!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Procurai o Senhor Deus e seu poder,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "buscai constantemenle a sua face!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lembrai as maravilhas que ele fez,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "seus prodígios e as palavras de seus lábios!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Descendentes de Abraão, seu servidor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e filhos de Jacó, seu escolhido,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ele mesmo, o Senhor, é nosso Deus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vigoram suas leis em toda a terra."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantate al Signore, a lui inneggiate,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "meditate tutte le sue meraviglie."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gloriatevi del suo santo nome:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "gioisca il cuore di chi cerca il Signore."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cercate il Signore e la sua potenza,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ricercate sempre il suo volto."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ricordate le meraviglie che ha compiuto,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "i suoi prodigi e i giudizi della sua bocca."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Voi, stirpe di Abramo, suo servo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "figli di Giacobbe, suo eletto."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "È lui il Signore, nostro Dio:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "su tutta la terra i suoi giudizi."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Chantez et jouez pour lui,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "redites sans fin ses merveilles ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "glorifiez-vous de son nom très saint :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "joie pour les cœurs qui cherchent Dieu"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cherchez le Seigneur et sa puissance,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "recherchez sans trêve sa face ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "souvenez-vous des merveilles qu’il a faites,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de ses prodiges, des jugements qu’il prononça."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vous, la race d’Abraham son serviteur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "les fils de Jacob, qu’il a choisis."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur, c’est lui notre Dieu :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ses jugements font loi pour l’univers."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Singt dem Herrn und spielt ihm,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sinnt nach über all seine Wunder!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Rühmt euch seines heiligen Namens!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Alle, die den Herrn suchen, sollen sich von Herzen freuen."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fragt nach dem Herrn und seiner Macht;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sucht sein Antlitz allezeit!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denkt an die Wunder, die er getan hat,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "an seine Zeichen und die Beschlüsse aus seinem Mund."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Bedenkt es, ihr Nachkommen seines Knechtes Abraham,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihr Kinder Jakobs,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die er erwählt hat."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er, der Herr, ist unser Gott."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seine Herrschaft umgreift die Erde."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Veníte ad me, omnes qui laborátis et oneráti estis, et ego refíciam vos, dicit Dóminus."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Venid a mí todos los que estáis cansados y agobiados —dice el Señor—, y yo os aliviaré."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Come to me, all you that labor and are burdened, and I will give you rest, says the Lord."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Vinde a mim, todos vós que estais cansados, e descamnso eu vos darei, diz o Senhor."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro, dice il Signore."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Venez à moi, vous tous qui peinez sous le poids du fardeau, dit le Seigneur, et moi, je vous procurerai le repos."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "(So spricht der Herr:) Kommt alle zu mir, die ihr euch plagt und schwere Lasten zu tragen habt. Ich werde euch Ruhe verschaffen."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Mt 11, 28",
+              "es": "Mt 11, 28",
+              "pt-BR": "Mt 11, 28",
+              "it": "Mt 11,28",
+              "fr": "Mt 11, 28",
+              "de": "Mt 11, 28"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 15, 1-10",
+              "es": "Lc 15, 1-10",
+              "en-US": "Lk 15:1-10",
+              "pt-BR": "Lc 15, 1-10",
+              "it": "Lc 15, 1-10",
+              "fr": "Lc 15, 1-10",
+              "de": "Lk 15, 1-10"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Gaudium erit in cælo super uno peccatore pænitentiam agente",
+              "es": "Habrá más alegría en el cielo por un solo pecador que se convierta",
+              "pt-BR": "Haverá alegria no céu por um só pecador que se converte.",
+              "it": "Vi sarà gioia nel cielo per un solo peccatore che si converte."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Erant appropinquántes Iesu omnes publicáni et peccatóres, ut audírent illum. Et murmurábant pharisǽi et scribæ dicéntes: «Hic peccatóres récipit et mandúcat cum illis». Et ait ad illos parábolam istam dicens: «Quis ex vobis homo, qui habet centum oves et si perdíderit unam ex illis, nonne dimíttit nonagínta novem in desérto et vadit ad illam, quæ períerat, donec invéniat illam? Et cum invénerit eam, impónit in úmeros suos gaudens et véniens domum cónvocat amícos et vicínos dicens illis: «Congratulámini mihi, quia invéni ovem meam, quæ períerat». Dico vobis: Ita gáudium erit in cælo super uno peccatóre pæniténtiam agénte quam super nonagínta novem iustis, qui non índigent pæniténtia. Aut quæ múlier habens drachmas decem, si perdíderit drachmam unam, nonne accéndit lucérnam et evérrit domum et quærit diligénter, donec invéniat? Et cum invénerit, cónvocat amícas et vicínas dicens: «Congratulámini mihi, quia invéni drachmam, quam perdíderam». Ita dico vobis: Gáudium fit coram ángelis Dei super uno peccatóre pæniténtiam agénte»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, solían acercarse a Jesús todos los publicanos y los pecadores a escucharlo. Y los fariseos y los escribas murmuraban diciendo: «Ese acoge a los pecadores y come con ellos». Jesús les dijo esta parábola: «¿Quién de vosotros que tiene cien ovejas y pierde una de ellas, no deja las noventa y nueve en el desierto y va tras la descarriada, hasta que la encuentra? Y, cuando la encuentra, se la carga sobre los hombros, muy contento; y, al llegar a casa, reúne a los amigos y a los vecinos, y les dice: “¡Alegraos conmigo!, he encontrado la oveja que se me había perdido”. Os digo que así también habrá más alegría en el cielo por un solo pecador que se convierta que por noventa y nueve justos que no necesitan convertirse. O ¿qué mujer que tiene diez monedas, si se le pierde una, no enciende una lámpara y barre la casa y busca con cuidado, hasta que la encuentra? Y, cuando la encuentra, reúne a las amigas y a las vecinas y les dice: “¡Alegraos conmigo!, he encontrado la moneda que se me había perdido”. Os digo que la misma alegría tendrán los ángeles de Dios por un solo pecador que se convierta»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The tax collectors and the sinners were all seeking the company of Jesus to hear what he had to say, and the Pharisees and the scribes complained. 'This man' they said 'welcomes sinners and eats with them.' So he spoke this parable to them: 'What man among you with a hundred sheep, losing one, would not leave the ninety-nine in the wilderness and go after the missing one till he found it? And when he found it, would he not joyfully take it on his shoulders and then, when he got home, call together his friends and neighbours? \"Rejoice with me,\" he would say \"I have found my sheep that was lost.\" In the same way, I tell you, there will be more rejoicing in heaven over one repentant sinner than over ninety-nine virtuous men who have no need of repentance. 'Or again, what woman with ten drachmas would not, if she lost one, light a lamp and sweep out the house and search thoroughly till she found it? And then, when she had found it, call together her friends and neighbours? \"Rejoice with me,\" she would say \"I have found the drachma I lost.\" In the same way, I tell you, there is rejoicing among the angels of God over one repentant sinner.'"
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, os publicanos e pecadores aproximavam-se de Jesus para o escutar. Os fariseus, porém, e os mestres da Lei criticavam Jesus. \"Este homem acolhe os pecadores e faz refeição com eles\". Então Jesus contou-lhes esta parábola: \"Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, e vai atrás daquela que se perdeu, até encontrá-la? Quando a encontra, coloca-a nos ombros com alegria, e, chegando a casa, reúne os amigos e vizinhos, e diz: 'Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!' Eu vos digo: Assim haverá no céu mais alegria por um só pecador que se converte, do que por noventa e nove justos que não precisam de conversão. E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la? Quando a encontra, reúne as amigas e vizinhas, e diz: 'Alegrai-vos comigo! Encontrei a moeda que tinha perdido!' Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte\"."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, si avvicinavano a Gesù tutti i pubblicani e i peccatori per ascoltarlo. I farisei e gli scribi mormoravano dicendo: «Costui accoglie i peccatori e mangia con loro». Ed egli disse loro questa parabola: «Chi di voi, se ha cento pecore e ne perde una, non lascia le novantanove nel deserto e va in cerca di quella perduta, finché non la trova? Quando l’ha trovata, pieno di gioia se la carica sulle spalle, va a casa, chiama gli amici e i vicini e dice loro: “Rallegratevi con me, perché ho trovato la mia pecora, quella che si era perduta”. Io vi dico: così vi sarà gioia nel cielo per un solo peccatore che si converte, più che per novantanove giusti i quali non hanno bisogno di conversione. Oppure, quale donna, se ha dieci monete e ne perde una, non accende la lampada e spazza la casa e cerca accuratamente finché non la trova? E dopo averla trovata, chiama le amiche e le vicine, e dice: “Rallegratevi con me, perché ho trovato la moneta che avevo perduto”. Così, io vi dico, vi è gioia davanti agli angeli di Dio per un solo peccatore che si converte»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, les publicains et les pécheurs venaient tous à Jésus pour l’écouter. Les pharisiens et les scribes récriminaient contre lui : « Cet homme fait bon accueil aux pécheurs, et il mange avec eux ! » Alors Jésus leur dit cette parabole : « Si l’un de vous a cent brebis et qu’il en perd une, n’abandonne-t-il pas les quatre-vingt-dix-neuf autres dans le désert pour aller chercher celle qui est perdue, jusqu’à ce qu’il la retrouve ? Quand il l’a retrouvée, il la prend sur ses épaules, tout joyeux, et, de retour chez lui, il rassemble ses amis et ses voisins pour leur dire : »Réjouissez-vous avec moi, car j’ai retrouvé ma brebis, celle qui était perdue !« Je vous le dis : C’est ainsi qu’il y aura de la joie dans le ciel pour un seul pécheur qui se convertit, plus que pour quatre-vingt-dix-neuf justes qui n’ont pas besoin de conversion. Ou encore, si une femme a dix pièces d’argent et qu’elle en perd une, ne va-t-elle pas allumer une lampe, balayer la maison, et chercher avec soin jusqu’à ce qu’elle la retrouve ? Quand elle l’a retrouvée, elle rassemble ses amies et ses voisines pour leur dire : »Réjouissez-vous avec moi, car j’ai retrouvé la pièce d’argent que j’avais perdue !« Ainsi je vous le dis : Il y a de la joie devant les anges de Dieu pour un seul pécheur qui se convertit. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit kamen alle Zöllner und Sünder zu Jesus, um ihn zu hören. Die Pharisäer und die Schriftgelehrten empörten sich darüber und sagten: Er gibt sich mit Sündern ab und isst sogar mit ihnen. Da erzählte er ihnen ein Gleichnis und sagte: Wenn einer von euch hundert Schafe hat und eins davon verliert, lässt er dann nicht die neunundneunzig in der Steppe zurück und geht dem verlorenen nach, bis er es findet? Und wenn er es gefunden hat, nimmt er es voll Freude auf die Schultern, und wenn er nach Hause kommt, ruft er seine Freunde und Nachbarn zusammen und sagt zu ihnen: Freut euch mit mir; ich habe mein Schaf wieder gefunden, das verloren war. Ich sage euch: Ebenso wird auch im Himmel mehr Freude herrschen über einen einzigen Sünder, der umkehrt, als über neunundneunzig Gerechte, die es nicht nötig haben umzukehren. Oder wenn eine Frau zehn Drachmen hat und eine davon verliert, zündet sie dann nicht eine Lampe an, fegt das ganze Haus und sucht unermüdlich, bis sie das Geldstück findet? Und wenn sie es gefunden hat, ruft sie ihre Freundinnen und Nachbarinnen zusammen und sagt: Freut euch mit mir; ich habe die Drachme wieder gefunden, die ich verloren hatte. Ich sage euch: Ebenso herrscht auch bei den Engeln Gottes Freude über einen einzigen Sünder, der umkehrt."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

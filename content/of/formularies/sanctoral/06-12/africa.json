@@ -1,0 +1,79 @@
+{
+  "id": "sanctorale.06-12.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Onophrius, Hermit"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Father, who filled Saint Onophrius with the fire of your love"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and gave him the privilege of serving you"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "through a life of contemplation and penance;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "inspired by his example and helped by his prayer"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may we learn to love you above all things"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and devote ourselves to your service."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

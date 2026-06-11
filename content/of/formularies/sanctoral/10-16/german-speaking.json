@@ -1,0 +1,34 @@
+{
+  "id": "sanctorale.10-16.german-speaking",
+  "kind": "sanctoral",
+  "scope": "german-speaking",
+  "structure": "mass",
+  "title": {
+    "de": "Hl. Gallus, Mönch, Einsiedler, Glaubensbote"
+  },
+  "description": {
+    "de": "Der Ire Gallus kam mit dem heiligen Kolumban in das Frankenreich und gegen 600 nach Alemannien. Mehrere Jahre lebten und missionierten die beiden am Bodensee. 612 zog Kolumban nach Italien weiter. Gallus musste, da er krank war, zurückbleiben und zog sich in eine Einsiedelei an der Steinbach zurück, wo sich ihm bald andere Mönche anschlossen. Er starb 641 oder 645 in Arbon am Bodensee."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, du hast den heiligen Gallus berufen, als Mönch und Glaubensbote unter den Alemannen die Wahrheit des Evangeliums auszubreiten. Erhalte uns die Freude, die aus dem Glauben kommt, und stärke unsere Treue zu Jesus Christus, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

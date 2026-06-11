@@ -1,0 +1,1858 @@
+{
+  "id": "sanctorale.03-08",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Ioannis a Deo, religiosi",
+    "es": "San Juan de Dios, religioso",
+    "en-US": "Saint John of God, religious",
+    "pt-BR": "São João de Deus, religioso",
+    "it": "SAN GIOVANNI DI DIO, religioso",
+    "fr": "Saint Jean de Dieu, religieux",
+    "de": "Hl. Johannes von Gott, Ordensgründer"
+  },
+  "description": {
+    "la": "In Lusitania natus est anno 1495; post vitam periculorum plenam in militia, meliora exoptans servitio ægrotorum totum se dedit. Granatæ in Hispania valetudinarium fundavit et sibi adscivit socios, qui postea Ordinem Hospitalarium sancti Ioannis a Deo constituerunt. Caritate præcipue erga egenos et infirmos enituit. Mortuus est in eadem civitate anno 1550.",
+    "es": "Nació en Portugal el año 1495. Después de una milicia llena de peligros, se entregó por completo al servicio de los enfermos. Fundó un hospital en Granada y vinculó a su obra un grupo de compañeros, los cuales constituyeron después la Orden de los Hospitalarios de San Juan de Dios. Destacó, sobre todo, por su caridad con los enfermos y necesitados. Murió en Granada el año 1550.",
+    "pt-BR": "João (Montemor-o-Novo, Portugal, 1495 - Granada, Espanha, 8 de março de 1550), sucessivamente camponês, militar e comerciante, sentiu-se, enfim, chamado a servir a Cristo nos doentes. Fundou hospitais, onde, cheio de confiança na Providência de Deus e solicitando a cooperação dos bons (\"Fazei o bem, irmãos, a vós mesmos\"), cuidava com extraordinária solicitude dos enfermos do corpo e do espírito. Continua sua obra o instituto religioso por ele fundado (Ordem Hospitalar de São João de Deus).",
+    "it": "Giovanni Ciudad (Montemor-o-Novo, Portogallo, 1495 - Granada, Spagna, 8 marzo 1550), dopo una gioventù disordinata, si convertì, facendosi tutto «di Dio», povero tra i poveri. In seguito a tale brusco cambiamento, lo si credette impazzito: ricoverato tra i malati di mente, condivise le loro miserabili condizioni. Dopo tale drammatica esperienza, aprì luoghi di assistenza per i bisognosi e fu l’ispiratore dell’Ordine degli Ospedalieri di san Giovanni di Dio (Fatebenefratelli).",
+    "fr": "Jean de Dieu (1495-1550), qui était d’origine portugaise, se fixa à Grenade (Espagne) après une jeunesse Aventureuse. Bouleversé à la vue du dénuement des hôpitaux, il se mit à recueillir les malades chez lui et à les soigner, mendiant leur nourriture quotidienne. Ainsi naquit l’Ordre des Frères de saint Jean de Dieu, qui perpétue encore de nos jours son action.",
+    "de": "Er wurde im Jahr 1495 in Portugal geboren. Nach einer Zeit des Wehrdienstes voller Gefahren entschied er sein Leben ganz Gott hinzugeben und sich dem Dienst an den Armen zu widmen. Er gründete ein Krankenhaus in Granada und gewann einige Gefährten, die sich zunächst diesem Werk widmeten und später den Malteserorden gründeten. Er ragte besonders heraus durch seine Liebe zu den Armen und Hilfsbedürftigen. Er starb in Granada im Jahr 1550."
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui beátum Ioánnem misericórdiæ spíritu perfudísti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "da, quǽsumus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, caritátis ópera exercéntes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "inter eléctos in regno tuo inveníri mereámur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que colmaste a san Juan de Dios de espíritu de misericordia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos que, practicando las obras de caridad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "merezcamos encontrarnos entre los elegidos de tu reino."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who filled Saint John of God with a spirit of compassion,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, giving ourselves to works of charity,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may merit to be found among the elect in your Kingdom. Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, que enchestes de misericórdia o coração de São João de Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos que, praticando as obras de caridade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mereçamos ser contados entre os eleitos no vosso Reino."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Padre, che hai riempito il cuore di san Giovanni [di Dio] dello spirito di misericordia, concedi a noi di praticare le opere di carità per essere accolti tra gli eletti nel tuo regno. Per il nostro Signore Gesù Cristo, tuo Figlio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Toi qui as répandu un esprit de compassion sur saint Jean de Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te prions, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne-nous de mettre en œuvre ta charité,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et ainsi de trouver place parmi les élus dans ton Royaume."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, die Liebe zu dir hat den heiligen Johannes gedrängt, an den Leiden der Kranken Anteil zu nehmen und ihnen zu helfen. Dränge auch uns zu Werken der Barmherzigkeit und lass uns zu denen gehören, die dein Reich besitzen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "1 Io 3, 14-18",
+              "es": "1 Jn 3, 14-18",
+              "en-US": "1 Jn 3:14-18",
+              "pt-BR": "1 Jo 3, 14-18",
+              "it": "1 Gv 3, 14-18",
+              "fr": "1 Jn 3, 14-18",
+              "de": "1 Joh 3, 14-18"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ primæ beáti Ioánnis apóstoli",
+              "es": "Lectura de la primera carta del apóstol san Juan",
+              "en-US": "A reading from the First Letter of St. John",
+              "pt-BR": "Leitura da Primeira Carta de São João",
+              "it": "Dalla prima lettera dì san Giovanni apostolo",
+              "fr": "Première lettre de saint Jean",
+              "de": "Lesung aus dem ersten Johannesbrief"
+            },
+            "summary": {
+              "la": "Et nos debemus pro fratribus animas ponere.",
+              "es": "Nosotros debemos dar nuestra vida por los hermanos",
+              "pt-BR": "Também nós devemos dar a vida pelos irmãos.",
+              "it": "Dobbiamo dare la vita per i fratelli."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Caríssimi: Nos scimus quóniam transívimus de morte in vitam, quóniam dilígimus fratres; qui non díligit, manet in morte. Omnis, qui odit fratrem suum, homicída est, et scitis quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem. In hoc nóvimus caritátem, quóniam ille pro nobis ánimam suam pósuit; et nos debémus pro frátribus ánimas pónere. Qui habúerit substántiam mundi et víderit fratrem suum necésse habére et cláuserit víscera sua ab eo, quómodo cáritas Dei manet in eo? Filíoli, non diligámus verbo nec lingua sed in ópere et veritáte."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Queridos hermanos: Nosotros sabemos que hemos pasado de la muerte a la vida porque amamos a los hermanos. El que no ama permanece en la muerte. El que odia a su hermano es un homicida. Y sabéis que ningún homicida lleva permanentemente en sí vida eterna. En esto hemos conocido el amor: en que él dio su vida por nosotros. También nosotros debemos dar nuestra vida por los hermanos. Pero si uno tiene bienes del mundo y, viendo a su hermano en necesidad, le cierra sus entrañas, ¿cómo va a estar en él el amor de Dios? Hijos míos, no amemos de palabra y de boca, sino de verdad y con obras."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "We know that we have passed from death to life because we love our brothers. Whoever does not love remains in death. Everyone who hates his brother is a murderer, and you know that no murderer has eternal life remaining in him. The way we came to know love was that he laid down his life for us; so we ought to lay down our lives for our brothers. If someone who has worldly means sees a brother in need and refuses him compassion, how can the love of God remain in him? Children, let us love not in word or speech but in deed and truth."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Caríssimos: nós sabemos que passamos da morte para a vida, porque amamos os irmãos. Quem não ama, permanece na morte. Todo aquele que odeia o seu irmão é um homicida. E vós sabeis que nenhum homicida conserva a vida eterna dentro de si. Nisto conhecemos o amor: Jesus deu a sua vida por nós. Portanto, também nós devemos dar a vida pelos irmãos. Se alguém possui riquezas neste mundo e vê o seu irmão passar necessidade, mas, diante dele fecha o seu coração, como pode o amor de Deus permanece nele? Filhinhos, não amemos só com palavras e de boca, mas com ações e de verdade!"
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Figlioli, noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli. Chi non ama rimane nella morte. Chiunque odia il proprio fratello è omicida, e voi sapete che nessun omicida ha più la vita eterna che dimora in lui. In questo abbiamo conosciuto l’amore, nel fatto che egli ha dato la sua vita per noi; quindi anche noi dobbiamo dare La vita per i fratelli. Ma se uno ha ricchezze di questo mondo e, vedendo il suo fratello in necessità, gli chiude il proprio cuore, come rimane in lui l’amore di Dio? Figlioli, non amiamo a parole né con la lingua, ma con i fatti e nella verità."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Bien-aimés, nous savons que nous sommes passés de la mort à la vie, parce que nous aimons nos frères. Celui qui n’aime pas demeure dans la mort. Quiconque a de la haine contre son frère est un meurtrier, et vous savez que pas un meurtrier n’a la vie éternelle demeurant en lui. Voici comment nous avons reconnu l’amour : lui, Jésus, a donné sa vie pour nous. Nous aussi, nous devons donner notre vie pour nos frères. Celui qui a de quoi vivre en ce monde, s’il voit son frère dans le besoin sans faire preuve de compassion, comment l’amour de Dieu pourrait-il demeurer en lui ? Petits enfants, n’aimons pas en paroles ni par des discours, mais par des actes et en vérité."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Liebe Brüder! Wir wissen, dass wir aus dem Tod in das Leben hinübergegangen sind, weil wir die Brüder lieben. Wer nicht liebt, bleibt im Tod. Jeder, der seinen Bruder hasst, ist ein Mörder, und ihr wisst: Kein Mörder hat ewiges Leben, das in ihm bleibt. Daran haben wir die Liebe erkannt, dass Er sein Leben für uns hingegeben hat. So müssen auch wir für die Brüder das Leben hingeben. Wenn jemand Vermögen hat und sein Herz vor dem Bruder verschließt, den er in Not sieht, wie kann die Gottesliebe in ihm bleiben? Meine Kinder, wir wollen nicht mit Wort und Zunge lieben, sondern in Tat und Wahrheit."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9",
+              "es": "Sal 111, 1-2. 3-4. 5-7a. 7b-8. 9",
+              "en-US": "Ps 111: 1-2, 3-4, 5-7a, 7b-8, 9",
+              "pt-BR": "Sl 111, 1-2. 3-4. 5-7a. 7b-8. 9",
+              "it": "Sal 111, 1-2. 3-4. 5-7a. 7b-8. 9",
+              "fr": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9",
+              "de": "Ps 112"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Beátus vir qui timet Dóminum."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Dichoso quien teme al Señor."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Blessed the man who fears the Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "É feliz quem respeita o Senhor!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Il Signore ama chi dona con gioia."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Heureux qui craint le Seigneur !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Selig der Mensch, der den Herrn fürchtet und ehrt."
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Allelúia."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Aleluya."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Alleluia."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Alléluia !"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beátus vir qui timet Dóminum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in mandátis eius cupit nimis."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Potens in terra erit semen eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "generátio rectórum benedicétur."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Glória et divítiæ in domo eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et iustítia eius manet in sǽculum sǽculi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exórtum est in ténebris lumen rectis,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "miséricors et miserátor et iustus."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Iucúndus homo qui miserétur et cómmodat,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dispónet res suas in iudício,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quia in ætérnum non commovébitur."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "In memória ætérna erit iustus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ab auditióne mala non timébit."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Parátum cor eius, sperans in Dómino,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "confirmátum est cor eius, non timébit,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "donec despíciat inimícos suos."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Distríbuit, dedit paupéribus;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "iustítia eius manet in sǽculum sǽculi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "cornu eius exaltábitur in glória."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dichoso quien teme al Señor y ama de corazón sus mandatos."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Su linaje será poderoso en la tierra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la descendencia del justo será bendita."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En su casa habrá riquezas y abundancia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "su caridad dura por siempre."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "En las tinieblas brilla como una luz el que es justo, clemente y compasivo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dichoso el que se apiada y presta,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y administra rectamente sus asuntos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque jamás vacilará."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "El recuerdo del justo será perpetuo."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "No temerá las malas noticias."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Su corazón está firme en el Señor."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Su corazón está seguro, sin temor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hasta que vea derrotados a sus enemigos."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Reparte limosna a los pobres;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "su caridad dura por siempre y alzará la frente con dignidad."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Blessed the man who fears the Lord, who greatly delights in his commands."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "His descendants shall be mighty in the land, a generation of the upright will be blessed."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wealth and riches shall be in his house; his righteousness shall endure forever."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Light shines through the darkness for the upright; gracious,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "compassionate, and righteous."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "It is good for the man gracious in lending, who conducts his affairs with justice."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "For he shall never be shaken; the righteous shall be remembered forever."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "He shall not fear an ill report;"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "His heart is steadfast, trusting the Lord."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "His heart is tranquil, without fear, till at last he looks down on his foes."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lavishly he gives to the poor; his righteousness shall endure forever;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "his horn shall be exalted in honor."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sua descendência será forte sobre a terra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "abençoada a geração dos homens retos!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Haverá glória e riqueza em sua casa,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e permanece para sempre o bem que fez Ele é correto, generoso e compassivo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "como luz brilha nas trevas para os justos."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Feliz o homem caridoso e prestativo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que resolve seus negócios com justiça porque jamais vacilará o homem reto sua lembrança permanece eternamente!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ele não teme receber notícias más."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ele reparte com os pobres os seus bens,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "permanece para sempre o bem que fez,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e crescerão a sua glória e seu poder."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ele reparte com os pobres os seus bens,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "permanece para sempre o bem que fez,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e crescerão a sua glória e seu poder."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beato l’uomo che teme il Signore e trova grande gioia nei suoi comandamenti."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Potente sulla terra sarà la sua stirpe,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la discendenza dei giusti sarà benedetta."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Onore e ricchezza nella sua casa,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la sua giustizia rimane per sempre."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Spunta nelle tenebre come luce per i giusti,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "buono, misericordioso e giusto."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Felice l’uomo pietoso che dà in prestito,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "amministra i suoi beni con giustizia."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Egli non vacillerà in eterno:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il giusto sarà sempre ricordato"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Saldo è il suo cuore, confida nel Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sicuro è il suo cuore, non teme,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "finché trionferà dei suoi nemici."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Egli dona largamente ai poveri,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la sua giustizia rimane per sempre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la sua potenza s’innalza nella gloria."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Heureux qui craint le Seigneur,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "qui aime entièrement sa volonté !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Sa lignée sera puissante sur la terre ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la race des justes est bénie."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Les richesses affluent dans sa maison :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "à jamais se maintiendra sa justice."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Lumière des cœurs droits, il s’est levé dans les ténèbres,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "homme de justice, de tendresse et de pitié."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’homme de bien a pitié, il partage ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il mène ses affaires avec droiture."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cet homme jamais ne tombera ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "toujours on fera mémoire du juste."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il ne craint pas l’annonce d’un malheur :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le cœur ferme, il s’appuie sur le Seigneur."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Son cœur est confiant, il ne craint pas :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il verra ce que valaient ses oppresseurs."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "À pleines mains,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il donne au pauvre ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "à jamais se maintiendra sa justice,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sa puissance grandira, et sa gloire !"
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wohl dem Mann, der den Herrn fürchtet und ehrt und sich herzlich freut an seinen Geboten."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seine Nachkommen werden mächtig im Land,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "das Geschlecht der Redlichen wird gesegnet."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wohlstand und Reichtum füllen sein Haus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sein Heil hat Bestand für immer."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Den Redlichen erstrahlt im Finstern ein Licht:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "der Gnädige,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Barmherzige und Gerechte."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wohl dem Mann, der gütig und zum Helfen bereit ist,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "der das Seine ordnet,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wie es recht ist."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Niemals gerät er ins Wanken;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ewig denkt man an den Gerechten."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er fürchtet sich nicht vor Verleumdung;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sein Herz ist fest, er vertraut auf den Herrn."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Reichlich gibt er den Armen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sein Heil hat Bestand für immer;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er ist mächtig und hoch geehrt."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Mt 25, 31-40",
+              "es": "Mt 25, 31-40",
+              "en-US": "Mt 25:31-40",
+              "pt-BR": "Mt 25, 31-40",
+              "it": "Mt 25, 31-40",
+              "fr": "Mt 25, 31-40",
+              "de": "Mt 25, 31-40"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Matthǽum",
+              "es": "✠ Lectura del santo Evangelio según san Mateo",
+              "en-US": "✠ A reading from the holy Gospel according to Matthew",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+              "it": "✠ Dal vangelo secondo Matteo",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Matthieu",
+              "de": "✠ Aus dem heiligen Evangelium nach Matthäus"
+            },
+            "summary": {
+              "la": "Quamdiu fecistis fratribus meis minimis, mihi fecistis.",
+              "es": "Cada vez que lo hicisteis con mis hermanos más pequeños, conmigo lo hicisteis",
+              "pt-BR": "Todas as vezes que fizestes isso a um dos menores de meus irmãos foi a mim que fizestes."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dixit Iesus discípulis suis: Cum vénerit Fílius hóminis in glória sua, et omnes ángeli cum eo, tunc sedébit super thronum glóriæ suæ. Et congregabúntur ante eum omnes gentes; et separábit eos ab ínvicem, sicut pastor ségregat oves ab hædis, et státuet oves quidem a dextris suis, hædos autem a sinístris. Tunc dicet Rex his, qui a dextris eius erunt: “Veníte, benedícti Patris mei; possidéte parátum vobis regnum a constitutióne mundi. Esurívi enim, et dedístis mihi manducáre; sitívi, et dedístis mihi bíbere; hospes eram, et collegístis me; nudus, et operuístis me; infírmus, et visitástis me; in cárcere eram, et venístis ad me”. Tunc respondébunt ei iusti dicéntes: “Dómine, quando te vídimus esuriéntem et pávimus, aut sitiéntem et dédimus tibi potum? Quando autem te vídimus hóspitem et collégimus, aut nudum et cooperúimus? Quando autem te vídimus infírmum aut in cárcere et vénimus ad te?”. Et respóndens Rex dicet illis: “Amen dico vobis: Quámdiu fecístis uni de his frátribus meis mínimis, mihi fecístis”."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, dijo Jesús a sus discípulos: «Cuando venga en su gloria el Hijo del hombre, y todos los ángeles con él, se sentará en el trono de su gloria y serán reunidas ante él todas las naciones. Él separará a unos de otros, como un pastor separa las ovejas de las cabras. Y pondrá las ovejas a su derecha y las cabras a su izquierda. Entonces dirá el rey a los de su derecha: “Venid vosotros, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo. Porque tuve hambre y me disteis de comer, tuve sed y me disteis de beber, fui forastero y me hospedasteis, estuve desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme”. Entonces los justos le contestarán: “Señor, ¿cuándo te vimos con hambre y te alimentamos, o con sed y te dimos de beber?; ¿cuándo te vimos forastero y te hospedamos, o desnudo y te vestimos?; ¿cuándo te vimos enfermo o en la cárcel y fuimos a verte?”. Y el rey les dirá: “En verdad os digo que cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis”»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jesus said to his disciples: When the Son of Man comes in his glory, escorted by all the angels, then he will take his seat on his throne of glory. All the nations will be assembled before him and he will separate men one from another as the shepherd separates sheep from goats. He will place the sheep on his right hand and the goats on his left. Then the King will say to those on his right hand, \"Come, you whom my Father has blessed, take for your heritage the kingdom prepared for you since the foundation of the world. For I was hungry and you gave me food; I was thirsty and you gave me drink; I was a stranger and you made me welcome; naked and you clothed me, sick and you visited me, in prison and you came to see me.\" Then the virtuous will say to him in reply, \"Lord, when did we see you hungry and feed you; or thirsty and give you drink? When did we see you a stranger and make you welcome; naked and clothe you; sick or in prison and go to see you?\" And the King will answer, \"I tell you solemnly, in so far as you did this to one of the least of these brothers of mine, you did it to me\"."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, disse Jesus a seus discípulos: \"Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso. Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos. E colocará as ovelhas à sua direita e os cabritos à sua esquerda. Então o Rei dirá aos que estiverem à sua direita: 'Vinde benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo! Pois eu estava com fome e me destes de comer; eu estava com sede e me destes de beber; eu era estrangeiro e me recebestes em casa; eu estava nu e me vestistes; eu estava doente e cuidastes de mim; eu estava na prisão e fostes me visitar'. Então os justos lhe perguntarão: 'Senhor, quando foi que te vimos com fome e te demos de comer? com sede e te demos de beber? Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos? Quando foi que te vimos doente ou preso, e fomos te visitar?\" Então o Rei lhes responderá: 'Em verdade eu vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!'\""
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù disse: “Quando il Figlio dell’uomo verrà nella sua gloria con tutti i suoi angeli, si siederà sul trono della sua gloria. E saranno riunite davanti a lui tutte le genti, ed egli separerà gli uni dagli altri, come il pastore separa le pecore dai capri, e porrà le pecore alla sua destra e i capri alla sinistra. Allora il re dirà a quelli che stanno alla sua destra: Venite, benedetti del Padre mio, ricevete in eredità il regno preparato per voi fin dalla fondazione del mondo. Perché io ho avuto fame e mi avete dato da mangiare, ho avuto sete e mi avete dato da bere; ero forestiero e mi avete ospitato, nudo e mi avete vestito, malato e mi avete visitato, carcerato e siete venuti a trovarmi. Allora i giusti gli risponderanno: Signore, quando mai ti abbiamo veduto affamato e ti abbiamo dato da mangiare, assetato e ti abbiamo dato da bere? Quando ti abbiamo visto forestiero e ti abbiamo ospitato, o nudo e ti abbiamo vestito? E quando ti abbiamo visto ammalato o in carcere e siamo venuti a visitarti? Rispondendo, il re dirà loro: In verità vi dico: ogni volta che avete fatto queste cose a uno solo di questi miei fratelli più piccoli, l’avete fatto a me."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait à ses disciples : « Quand le Fils de l’homme viendra dans sa gloire, et tous les anges avec lui, alors il siégera sur son trône de gloire. Toutes les nations seront rassemblées devant lui ; il séparera les hommes les uns des autres, comme le berger sépare les brebis des boucs : il placera les brebis à sa droite, et les boucs à gauche. Alors le Roi dira à ceux qui seront à sa droite : »Venez, les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde. Car j’avais faim, et vous m’avez donné à manger ; j’avais soif, et vous m’avez donné à boire ; j’étais un étranger, et vous m’avez accueilli ; j’étais nu, et vous m’avez habillé ; j’étais malade, et vous m’avez visité ; j’étais en prison, et vous êtes venus jusqu’à moi !« Alors les justes lui répondront : »Seigneur, quand est-ce que nous t’avons vu... ? tu avais donc faim, et nous t’avons nourri ? tu avais soif, et nous t’avons donné à boire ? tu étais un étranger, et nous t’avons accueilli ? tu étais nu, et nous t’avons habillé ? tu étais malade ou en prison... Quand sommes-nous venus jusqu’à toi ?« Et le Roi leur répondra : »Amen, je vous le dis : chaque fois que vous l’avez fait à l’un de ces plus petits de mes frères, c’est à moi que vous l’avez fait.« »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sprach Jesus zu seinen Jüngern: Wenn der Menschensohn in seiner Herrlichkeit kommt und alle Engel mit ihm, dann wird er sich auf den Thron seiner Herrlichkeit setzen. Und alle Völker werden vor ihm zusammengerufen werden, und er wird sie voneinander scheiden, wie der Hirt die Schafe von den Böcken scheidet. Er wird die Schafe zu seiner Rechten versammeln, die Böcke aber zur Linken. Dann wird der König denen auf der rechten Seite sagen: Kommt her, die ihr von meinem Vater gesegnet seid, nehmt das Reich in Besitz, das seit der Erschaffung der Welt für euch bestimmt ist. Denn ich war hungrig, und ihr habt mir zu essen gegeben; ich war durstig, und ihr habt mir zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich aufgenommen; ich war nackt, und ihr habt mir Kleidung gegeben; ich war krank, und ihr habt mich besucht; ich war im Gefängnis, und ihr seid zu mir gekommen. Dann werden ihm die Gerechten antworten: Herr, wann haben wir dich hungrig gesehen und dir zu essen gegeben, oder durstig und dir zu trinken gegeben? Und wann haben wir dich fremd und obdachlos gesehen und aufgenommen, oder nackt und dir Kleidung gegeben? Und wann haben wir dich krank oder im Gefängnis gesehen und sind zu dir gekommen? Darauf wird der König ihnen antworten: Amen, ich sage euch: Was ihr für einen meiner geringsten Brüder getan habt, das habt ihr mir getan."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

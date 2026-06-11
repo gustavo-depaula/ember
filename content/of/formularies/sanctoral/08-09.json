@@ -1,0 +1,708 @@
+{
+  "id": "sanctorale.08-09",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Teresiæ Benedictæ a Cruce, virginis et martyris",
+    "es": "Santa Teresa Benedicta de la Cruz (Edith Stein), mártir y religiosa",
+    "en-US": "Saint Teresa Benedicta of the Cross (Edith Stein), Virgin and Martyr",
+    "pt-BR": "Santa Teresa Benedita da Cruz, virgem e mártir",
+    "it": "SANTA TERESA BENEDETTA DELLA CROCE, vergine e martire, patrona d’Europa",
+    "fr": "Sainte Thérèse-Bénédicte de la Croix, vierge et martyre",
+    "de": "Hl. TERESIA BENEDICTA VOM KREUZ (EDITH STEIN), Jungfrau und Märtyrin, Schutzpatronin Europas"
+  },
+  "description": {
+    "la": "Nata est Breslaviæ (Wrocław, Breslau) in Germania anno 1891 et, in iudaica religione nata et instituta, aliquot annos magnas inter ærumnas philosophiam egregie professa est. Vitam novam in Christo per baptismum suscepit et, Teresiæ Benedictæ a Cruce nómine accepto, inter Carmelitas Discalceatas Coloniæ (Köln), ubi secessit, prosecuta est. Tempore persecutionis, exsul in Nederlandia, in captivitatem trusa, anno 1942 in campum exitii Oświęcim seu Auschwitz prope Cracoviam in Polonia deportata est et mortifero vapore enecata.",
+    "es": "Hija de padres judíos, Edith Stein nació en Breslau el día 12 de octubre de 1891.Realizó estudios de filosofía. Recibió el Bautismo el día 1 de enero de 1922. Desde ese momento, sirvió a Dios ejerciendo su oficio de profesora y publicando obras filosóficas. En el año 1933 ingresó en la Orden Carmelitana en Colonia y quiso para ella el nombre de Teresa Benedicta de la Cruz, entregando su vida por el pueblo judío y alemán. Impelida a ausentarse de su patria a causa de la persecución de los judíos, fue acogida en el convento de las Carmelitas de Echt (Holanda) el día 31 de diciembre de 1938. Durante la terrible dominación alemana, fue detenida el 2 de agosto de 1942 y deportada al campo de concentración de Auschwitz-Birkenau (Polonia), destinado a la extinción del pueblo judío. Murió en ese mismo campo de concentración el día 9 de agosto, cruelmente asesinada por gas letal.",
+    "pt-BR": "Edite Stein (Breslávia, Alemanha, 12 de outubro de 1891 - Auschwitz, Polônia, 9 de agosto de 1942) era de uma família hebreia. Apaixonada pesquisadora da verdade, através de aprofundados estudos de filosofia, encontrou-a na leitura da autobiografia de Santa Teresa de Jesus. Foi batizada no dia 1º de janeiro de 1922 e em 1933 entrou para o Carmelo de Colônia, Alemanha, e tomou o nome de Teresa Benedita da Cruz. Morreu mártir, oferecendo-se em oblação pelo seu povo. Foi canonizada em Roma, por São João Paulo II, aos 11 de outubro de 1998.",
+    "it": "Edith Stein (Breslavia, Polonia, 12 ottobre 1891 - Auschwitz, 9 agosto 1942), ebrea, si dedicò con passione, ottimi risultati e prestigiosi riconoscimenti alla ricerca e all’insegnamento filosofico. Convertitasi al cristianesimo, si fece monaca nel Carmelo di Colonia, con il nome di Teresa Benedetta della Croce. All’insorgere della persecuzione nazista contro gli ebrei, fu trasferita per prudenza nel monastero di Echt (Olanda). Quando, in risposta alla protesta dei vescovi olandesi, Hitler ordinò l’arresto e la deportazione anche dei cristiani di origine ebraica, Teresa insieme a sua sorella, anch’essa monaca, fu arrestata e deportata ad Auschwitz, dove morì nelle camere a gas. Là, unendosi alla croce di Cristo, offrì la vita per il suo popolo. Nel 1999 san Giovanni Paolo II la proclama patrona d’Europa.",
+    "fr": "Édith Stein, née en 1891 à Breslau (Wroclaw en Pologne), devenue chrétienne puis religieuse carmélite sous le nom de Thérèse-Bénédicte de la Croix, meurt à Auschwitz parce qu’elle était juive. Philosophe, elle fut assistante d’Edmund Husserl, maître de la phénoménologie. À 30 ans, la lecture de l’Autobiographie de sainte Thérèse d’Avila change le cours de sa vie et la conduit au carmel de Cologne (Allemagne). Réfugiée en Hollande, arrêtée en 1942, humble brebis conduite à l’abattoir, elle s’identifie au Serviteur souffrant. Son nom de religieuse prend tout son sens : la croix et la bénédiction.",
+    "de": "Edith Stein wurde in einer jüdischen Familie in Breslau am 12. Oktober 1891 geboren, studierte Philosophie und ließ sich nach ihrer Bekehrung 1922 taufen. Sie diente Gott mit der Ausübung ihres Berufes als Lehrerin und veröffentlichte einige philosophische Werke. Im Jahr 1933 trat sie in den Orden der Karmeliterinnen in Köln ein, wählte den Namen Theresia Benedicta vom Kreuz und gab ihr Leben hin als Opfer für das jüdische und das deutsche Volk. Aufgrund der Judenverfolgung musste sie ihre Heimat verlassen und wurde im holländischen Karmel in Echt untergebracht. 1942 wurde sie festgenommen und nach Auschwitz-Birkenau deportiert. Sie starb in jenem Konzentrationslager am 9. August."
+  },
+  "color": "red",
+  "rank": "feast",
+  "cycleScheme": "fixed",
+  "includeGloria": true,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus patrum nostrórum, qui beátam Terésiam Benedíctam mártyrem ad cognitiónem Fílii tui crucifíxi eiúsque imitatiónem usque ad mortem perduxísti, ipsa intercedénte, concéde, ut omnes hómines Christum Salvatórem agnóscant et per eum ad perpétuam tui visiónem advéniant. Qui tecum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios de nuestros padres,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que guiaste a la mártir santa Teresa Benedicta en el conocimiento de tu Hijo crucificado,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "imitándole incluso en la muerte,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos por su intercesión que todos los hombres reconozcan a Cristo Salvador y, por medio de él, puedan contemplarte para siempre."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "God of our Fathers,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who brought the Martyr Saint Teresa Benedicta of the Cross to know your crucified Son and to imitate him even until death,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, through her intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that the whole human race may acknowledge Christ as its Savior and through him come to behold you for eternity."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus dos nossos pais,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que conduzistes a mártir Santa Teresa Benedita da Cruz ao conhecimento do vosso Filho crucificado e a imitá-lo até a morte,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei, por sua intercessão,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que todas as pessoas reconheçam o Cristo Salvador e cheguem por ele à eterna contemplação da vossa face."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dio dei nostri padri, che hai guidato la santa martire Teresa Benedetta [della Croce] alla conoscenza del tuo Figlio crocifisso e a seguirlo fedelmente fino alla morte, concedi, per sua intercessione, che tutti gli uomini riconoscano Cristo salvatore e giungano, per mezzo di lui, a contemplare in eterno il tuo volto. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu de nos pères,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as conduit la sainte martyre Thérèse-Bénédicte à connaître ton Fils crucifié et à l’imiter jusque dans la mort ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par son intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde à tous de reconnaître dans le Christ leur Sauveur et, grâce à lui, de parvenir à te contempler pour l’éternité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott unserer Väter, du hast die heilige Märtyrin Teresia Benedicta vom Kreuz zur Erkenntnis deines gekreuzigten Sohnes geführt und in seine Nachfolge bis zum Tode gerufen. Auf ihre Fürsprache lass alle Menschen in Christus den Erlöser erkennen und durch ihn zur ewigen Schau deiner Herrlichkeit gelangen."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Darum bitten wir durch ihn, Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2669 @@
+[
+  {
+    "formularyRef": "tempore.advent.dec-17",
+    "season": "advent",
+    "fixedDate": {
+      "month": 12,
+      "day": 17
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.dec-18",
+    "season": "advent",
+    "fixedDate": {
+      "month": 12,
+      "day": 18
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.dec-19",
+    "season": "advent",
+    "fixedDate": {
+      "month": 12,
+      "day": 19
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.dec-20",
+    "season": "advent",
+    "fixedDate": {
+      "month": 12,
+      "day": 20
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.dec-21",
+    "season": "advent",
+    "fixedDate": {
+      "month": 12,
+      "day": 21
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.dec-22",
+    "season": "advent",
+    "fixedDate": {
+      "month": 12,
+      "day": 22
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.dec-23",
+    "season": "advent",
+    "fixedDate": {
+      "month": 12,
+      "day": 23
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.dec-24",
+    "season": "advent",
+    "fixedDate": {
+      "month": 12,
+      "day": 24
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-1.friday",
+    "season": "advent",
+    "week": 1,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-1.monday",
+    "season": "advent",
+    "week": 1,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-1.saturday",
+    "season": "advent",
+    "week": 1,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-1.sunday",
+    "season": "advent",
+    "week": 1,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-1.thursday",
+    "season": "advent",
+    "week": 1,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-1.tuesday",
+    "season": "advent",
+    "week": 1,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-1.wednesday",
+    "season": "advent",
+    "week": 1,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-2.friday",
+    "season": "advent",
+    "week": 2,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-2.monday",
+    "season": "advent",
+    "week": 2,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-2.saturday",
+    "season": "advent",
+    "week": 2,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-2.sunday",
+    "season": "advent",
+    "week": 2,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-2.thursday",
+    "season": "advent",
+    "week": 2,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-2.tuesday",
+    "season": "advent",
+    "week": 2,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-2.wednesday",
+    "season": "advent",
+    "week": 2,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-3.friday",
+    "season": "advent",
+    "week": 3,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-3.monday",
+    "season": "advent",
+    "week": 3,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-3.sunday",
+    "season": "advent",
+    "week": 3,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-3.thursday",
+    "season": "advent",
+    "week": 3,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-3.tuesday",
+    "season": "advent",
+    "week": 3,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-3.wednesday",
+    "season": "advent",
+    "week": 3,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.advent.week-4.sunday",
+    "season": "advent",
+    "week": 4,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.baptism-of-the-lord",
+    "season": "christmas",
+    "movableCode": "baptism-of-the-lord",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.dec-29",
+    "season": "christmas",
+    "fixedDate": {
+      "month": 12,
+      "day": 29
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.dec-30",
+    "season": "christmas",
+    "fixedDate": {
+      "month": 12,
+      "day": 30
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.dec-31",
+    "season": "christmas",
+    "fixedDate": {
+      "month": 12,
+      "day": 31
+    },
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.epiphany-alt",
+    "season": "christmas",
+    "movableCode": "epiphany-alt",
+    "structure": "vigil-mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.epiphany",
+    "season": "christmas",
+    "movableCode": "epiphany",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.holy-family",
+    "season": "christmas",
+    "movableCode": "holy-family",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.mary-mother-of-god",
+    "season": "christmas",
+    "movableCode": "mary-mother-of-god",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.nativity-dawn",
+    "season": "christmas",
+    "movableCode": "nativity-dawn",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.nativity-day",
+    "season": "christmas",
+    "movableCode": "nativity-day",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.nativity-night",
+    "season": "christmas",
+    "movableCode": "nativity-night",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.nativity-vigil",
+    "season": "christmas",
+    "movableCode": "nativity-vigil",
+    "structure": "vigil-mass"
+  },
+  {
+    "formularyRef": "tempore.christmas.second-sunday-after-christmas",
+    "season": "christmas",
+    "movableCode": "second-sunday-after-christmas",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-1.friday",
+    "season": "easter",
+    "week": 1,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-1.monday",
+    "season": "easter",
+    "week": 1,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-1.saturday",
+    "season": "easter",
+    "week": 1,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-1.sunday",
+    "season": "easter",
+    "week": 1,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-1.thursday",
+    "season": "easter",
+    "week": 1,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-1.tuesday",
+    "season": "easter",
+    "week": 1,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-1.wednesday",
+    "season": "easter",
+    "week": 1,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-2.friday",
+    "season": "easter",
+    "week": 2,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-2.monday",
+    "season": "easter",
+    "week": 2,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-2.saturday",
+    "season": "easter",
+    "week": 2,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-2.sunday",
+    "season": "easter",
+    "week": 2,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-2.thursday",
+    "season": "easter",
+    "week": 2,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-2.tuesday",
+    "season": "easter",
+    "week": 2,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-2.wednesday",
+    "season": "easter",
+    "week": 2,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-3.friday",
+    "season": "easter",
+    "week": 3,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-3.monday",
+    "season": "easter",
+    "week": 3,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-3.saturday",
+    "season": "easter",
+    "week": 3,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-3.sunday",
+    "season": "easter",
+    "week": 3,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-3.thursday",
+    "season": "easter",
+    "week": 3,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-3.tuesday",
+    "season": "easter",
+    "week": 3,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-3.wednesday",
+    "season": "easter",
+    "week": 3,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-4.friday",
+    "season": "easter",
+    "week": 4,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-4.monday",
+    "season": "easter",
+    "week": 4,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-4.saturday",
+    "season": "easter",
+    "week": 4,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-4.sunday",
+    "season": "easter",
+    "week": 4,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-4.thursday",
+    "season": "easter",
+    "week": 4,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-4.tuesday",
+    "season": "easter",
+    "week": 4,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-4.wednesday",
+    "season": "easter",
+    "week": 4,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-5.friday",
+    "season": "easter",
+    "week": 5,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-5.monday",
+    "season": "easter",
+    "week": 5,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-5.saturday",
+    "season": "easter",
+    "week": 5,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-5.sunday",
+    "season": "easter",
+    "week": 5,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-5.thursday",
+    "season": "easter",
+    "week": 5,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-5.tuesday",
+    "season": "easter",
+    "week": 5,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-5.wednesday",
+    "season": "easter",
+    "week": 5,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-6.friday",
+    "season": "easter",
+    "week": 6,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-6.monday",
+    "season": "easter",
+    "week": 6,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-6.saturday",
+    "season": "easter",
+    "week": 6,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-6.sunday",
+    "season": "easter",
+    "week": 6,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-6.thursday",
+    "season": "easter",
+    "week": 6,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-6.tuesday",
+    "season": "easter",
+    "week": 6,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-6.wednesday",
+    "season": "easter",
+    "week": 6,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-7.friday",
+    "season": "easter",
+    "week": 7,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-7.monday",
+    "season": "easter",
+    "week": 7,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-7.saturday",
+    "season": "easter",
+    "week": 7,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-7.sunday",
+    "season": "easter",
+    "week": 7,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-7.thursday",
+    "season": "easter",
+    "week": 7,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-7.tuesday",
+    "season": "easter",
+    "week": 7,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-7.wednesday",
+    "season": "easter",
+    "week": 7,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.easter.week-8.sunday",
+    "season": "easter",
+    "week": 8,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.holy-week.chrism-mass",
+    "season": "holy-week",
+    "movableCode": "chrism-mass",
+    "structure": "chrism-mass"
+  },
+  {
+    "formularyRef": "tempore.holy-week.easter-vigil",
+    "season": "holy-week",
+    "movableCode": "easter-vigil",
+    "structure": "easter-vigil"
+  },
+  {
+    "formularyRef": "tempore.holy-week.good-friday",
+    "season": "holy-week",
+    "movableCode": "good-friday",
+    "structure": "good-friday"
+  },
+  {
+    "formularyRef": "tempore.holy-week.lords-supper",
+    "season": "holy-week",
+    "movableCode": "lords-supper",
+    "structure": "lords-supper"
+  },
+  {
+    "formularyRef": "tempore.holy-week.monday",
+    "season": "holy-week",
+    "movableCode": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.holy-week.palm-sunday",
+    "season": "holy-week",
+    "movableCode": "palm-sunday",
+    "structure": "mass-with-blessing-and-procession"
+  },
+  {
+    "formularyRef": "tempore.holy-week.tuesday",
+    "season": "holy-week",
+    "movableCode": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.holy-week.wednesday",
+    "season": "holy-week",
+    "movableCode": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-0.friday",
+    "season": "lent",
+    "week": 0,
+    "weekday": "friday",
+    "structure": "mass-with-ashes"
+  },
+  {
+    "formularyRef": "tempore.lent.week-0.saturday",
+    "season": "lent",
+    "week": 0,
+    "weekday": "saturday",
+    "structure": "mass-with-ashes"
+  },
+  {
+    "formularyRef": "tempore.lent.week-0.thursday",
+    "season": "lent",
+    "week": 0,
+    "weekday": "thursday",
+    "structure": "mass-with-ashes"
+  },
+  {
+    "formularyRef": "tempore.lent.week-0.wednesday",
+    "season": "lent",
+    "week": 0,
+    "weekday": "wednesday",
+    "structure": "mass-with-ashes"
+  },
+  {
+    "formularyRef": "tempore.lent.week-1.friday",
+    "season": "lent",
+    "week": 1,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-1.monday",
+    "season": "lent",
+    "week": 1,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-1.saturday",
+    "season": "lent",
+    "week": 1,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-1.sunday",
+    "season": "lent",
+    "week": 1,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-1.thursday",
+    "season": "lent",
+    "week": 1,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-1.tuesday",
+    "season": "lent",
+    "week": 1,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-1.wednesday",
+    "season": "lent",
+    "week": 1,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-2.friday",
+    "season": "lent",
+    "week": 2,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-2.monday",
+    "season": "lent",
+    "week": 2,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-2.saturday",
+    "season": "lent",
+    "week": 2,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-2.sunday",
+    "season": "lent",
+    "week": 2,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-2.thursday",
+    "season": "lent",
+    "week": 2,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-2.tuesday",
+    "season": "lent",
+    "week": 2,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-2.wednesday",
+    "season": "lent",
+    "week": 2,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-3.friday",
+    "season": "lent",
+    "week": 3,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-3.monday",
+    "season": "lent",
+    "week": 3,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-3.saturday",
+    "season": "lent",
+    "week": 3,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-3.sunday",
+    "season": "lent",
+    "week": 3,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-3.thursday",
+    "season": "lent",
+    "week": 3,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-3.tuesday",
+    "season": "lent",
+    "week": 3,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-3.wednesday",
+    "season": "lent",
+    "week": 3,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-4.friday",
+    "season": "lent",
+    "week": 4,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-4.monday",
+    "season": "lent",
+    "week": 4,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-4.saturday",
+    "season": "lent",
+    "week": 4,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-4.sunday",
+    "season": "lent",
+    "week": 4,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-4.thursday",
+    "season": "lent",
+    "week": 4,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-4.tuesday",
+    "season": "lent",
+    "week": 4,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-4.wednesday",
+    "season": "lent",
+    "week": 4,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-5.friday",
+    "season": "lent",
+    "week": 5,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-5.monday",
+    "season": "lent",
+    "week": 5,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-5.saturday",
+    "season": "lent",
+    "week": 5,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-5.sunday",
+    "season": "lent",
+    "week": 5,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-5.thursday",
+    "season": "lent",
+    "week": 5,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-5.tuesday",
+    "season": "lent",
+    "week": 5,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.lent.week-5.wednesday",
+    "season": "lent",
+    "week": 5,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-1.friday",
+    "season": "ordinary-time",
+    "week": 1,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-1.monday",
+    "season": "ordinary-time",
+    "week": 1,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-1.saturday",
+    "season": "ordinary-time",
+    "week": 1,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-1.sunday",
+    "season": "ordinary-time",
+    "week": 1,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-1.thursday",
+    "season": "ordinary-time",
+    "week": 1,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-1.tuesday",
+    "season": "ordinary-time",
+    "week": 1,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-1.wednesday",
+    "season": "ordinary-time",
+    "week": 1,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-10.friday",
+    "season": "ordinary-time",
+    "week": 10,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-10.monday",
+    "season": "ordinary-time",
+    "week": 10,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-10.saturday",
+    "season": "ordinary-time",
+    "week": 10,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-10.sunday",
+    "season": "ordinary-time",
+    "week": 10,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-10.thursday",
+    "season": "ordinary-time",
+    "week": 10,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-10.tuesday",
+    "season": "ordinary-time",
+    "week": 10,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-10.wednesday",
+    "season": "ordinary-time",
+    "week": 10,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-11.friday",
+    "season": "ordinary-time",
+    "week": 11,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-11.monday",
+    "season": "ordinary-time",
+    "week": 11,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-11.saturday",
+    "season": "ordinary-time",
+    "week": 11,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-11.sunday",
+    "season": "ordinary-time",
+    "week": 11,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-11.thursday",
+    "season": "ordinary-time",
+    "week": 11,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-11.tuesday",
+    "season": "ordinary-time",
+    "week": 11,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-11.wednesday",
+    "season": "ordinary-time",
+    "week": 11,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-12.friday",
+    "season": "ordinary-time",
+    "week": 12,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-12.monday",
+    "season": "ordinary-time",
+    "week": 12,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-12.saturday",
+    "season": "ordinary-time",
+    "week": 12,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-12.sunday",
+    "season": "ordinary-time",
+    "week": 12,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-12.thursday",
+    "season": "ordinary-time",
+    "week": 12,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-12.tuesday",
+    "season": "ordinary-time",
+    "week": 12,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-12.wednesday",
+    "season": "ordinary-time",
+    "week": 12,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-13.friday",
+    "season": "ordinary-time",
+    "week": 13,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-13.monday",
+    "season": "ordinary-time",
+    "week": 13,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-13.saturday",
+    "season": "ordinary-time",
+    "week": 13,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-13.sunday",
+    "season": "ordinary-time",
+    "week": 13,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-13.thursday",
+    "season": "ordinary-time",
+    "week": 13,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-13.tuesday",
+    "season": "ordinary-time",
+    "week": 13,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-13.wednesday",
+    "season": "ordinary-time",
+    "week": 13,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-14.friday",
+    "season": "ordinary-time",
+    "week": 14,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-14.monday",
+    "season": "ordinary-time",
+    "week": 14,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-14.saturday",
+    "season": "ordinary-time",
+    "week": 14,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-14.sunday",
+    "season": "ordinary-time",
+    "week": 14,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-14.thursday",
+    "season": "ordinary-time",
+    "week": 14,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-14.tuesday",
+    "season": "ordinary-time",
+    "week": 14,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-14.wednesday",
+    "season": "ordinary-time",
+    "week": 14,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-15.friday",
+    "season": "ordinary-time",
+    "week": 15,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-15.monday",
+    "season": "ordinary-time",
+    "week": 15,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-15.saturday",
+    "season": "ordinary-time",
+    "week": 15,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-15.sunday",
+    "season": "ordinary-time",
+    "week": 15,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-15.thursday",
+    "season": "ordinary-time",
+    "week": 15,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-15.tuesday",
+    "season": "ordinary-time",
+    "week": 15,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-15.wednesday",
+    "season": "ordinary-time",
+    "week": 15,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-16.friday",
+    "season": "ordinary-time",
+    "week": 16,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-16.monday",
+    "season": "ordinary-time",
+    "week": 16,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-16.saturday",
+    "season": "ordinary-time",
+    "week": 16,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-16.sunday",
+    "season": "ordinary-time",
+    "week": 16,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-16.thursday",
+    "season": "ordinary-time",
+    "week": 16,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-16.tuesday",
+    "season": "ordinary-time",
+    "week": 16,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-16.wednesday",
+    "season": "ordinary-time",
+    "week": 16,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-17.friday",
+    "season": "ordinary-time",
+    "week": 17,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-17.monday",
+    "season": "ordinary-time",
+    "week": 17,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-17.saturday",
+    "season": "ordinary-time",
+    "week": 17,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-17.sunday",
+    "season": "ordinary-time",
+    "week": 17,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-17.thursday",
+    "season": "ordinary-time",
+    "week": 17,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-17.tuesday",
+    "season": "ordinary-time",
+    "week": 17,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-17.wednesday",
+    "season": "ordinary-time",
+    "week": 17,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-18.friday",
+    "season": "ordinary-time",
+    "week": 18,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-18.monday",
+    "season": "ordinary-time",
+    "week": 18,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-18.saturday",
+    "season": "ordinary-time",
+    "week": 18,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-18.sunday",
+    "season": "ordinary-time",
+    "week": 18,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-18.thursday",
+    "season": "ordinary-time",
+    "week": 18,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-18.tuesday",
+    "season": "ordinary-time",
+    "week": 18,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-18.wednesday",
+    "season": "ordinary-time",
+    "week": 18,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-19.friday",
+    "season": "ordinary-time",
+    "week": 19,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-19.monday",
+    "season": "ordinary-time",
+    "week": 19,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-19.saturday",
+    "season": "ordinary-time",
+    "week": 19,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-19.sunday",
+    "season": "ordinary-time",
+    "week": 19,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-19.thursday",
+    "season": "ordinary-time",
+    "week": 19,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-19.tuesday",
+    "season": "ordinary-time",
+    "week": 19,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-19.wednesday",
+    "season": "ordinary-time",
+    "week": 19,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-2.friday",
+    "season": "ordinary-time",
+    "week": 2,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-2.monday",
+    "season": "ordinary-time",
+    "week": 2,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-2.saturday",
+    "season": "ordinary-time",
+    "week": 2,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-2.sunday",
+    "season": "ordinary-time",
+    "week": 2,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-2.thursday",
+    "season": "ordinary-time",
+    "week": 2,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-2.tuesday",
+    "season": "ordinary-time",
+    "week": 2,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-2.wednesday",
+    "season": "ordinary-time",
+    "week": 2,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-20.friday",
+    "season": "ordinary-time",
+    "week": 20,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-20.monday",
+    "season": "ordinary-time",
+    "week": 20,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-20.saturday",
+    "season": "ordinary-time",
+    "week": 20,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-20.sunday",
+    "season": "ordinary-time",
+    "week": 20,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-20.thursday",
+    "season": "ordinary-time",
+    "week": 20,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-20.tuesday",
+    "season": "ordinary-time",
+    "week": 20,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-20.wednesday",
+    "season": "ordinary-time",
+    "week": 20,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-21.friday",
+    "season": "ordinary-time",
+    "week": 21,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-21.monday",
+    "season": "ordinary-time",
+    "week": 21,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-21.saturday",
+    "season": "ordinary-time",
+    "week": 21,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-21.sunday",
+    "season": "ordinary-time",
+    "week": 21,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-21.thursday",
+    "season": "ordinary-time",
+    "week": 21,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-21.tuesday",
+    "season": "ordinary-time",
+    "week": 21,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-21.wednesday",
+    "season": "ordinary-time",
+    "week": 21,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-22.friday",
+    "season": "ordinary-time",
+    "week": 22,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-22.monday",
+    "season": "ordinary-time",
+    "week": 22,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-22.saturday",
+    "season": "ordinary-time",
+    "week": 22,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-22.sunday",
+    "season": "ordinary-time",
+    "week": 22,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-22.thursday",
+    "season": "ordinary-time",
+    "week": 22,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-22.tuesday",
+    "season": "ordinary-time",
+    "week": 22,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-22.wednesday",
+    "season": "ordinary-time",
+    "week": 22,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-23.friday",
+    "season": "ordinary-time",
+    "week": 23,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-23.monday",
+    "season": "ordinary-time",
+    "week": 23,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-23.saturday",
+    "season": "ordinary-time",
+    "week": 23,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-23.sunday",
+    "season": "ordinary-time",
+    "week": 23,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-23.thursday",
+    "season": "ordinary-time",
+    "week": 23,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-23.tuesday",
+    "season": "ordinary-time",
+    "week": 23,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-23.wednesday",
+    "season": "ordinary-time",
+    "week": 23,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-24.friday",
+    "season": "ordinary-time",
+    "week": 24,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-24.monday",
+    "season": "ordinary-time",
+    "week": 24,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-24.saturday",
+    "season": "ordinary-time",
+    "week": 24,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-24.sunday",
+    "season": "ordinary-time",
+    "week": 24,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-24.thursday",
+    "season": "ordinary-time",
+    "week": 24,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-24.tuesday",
+    "season": "ordinary-time",
+    "week": 24,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-24.wednesday",
+    "season": "ordinary-time",
+    "week": 24,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-25.friday",
+    "season": "ordinary-time",
+    "week": 25,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-25.monday",
+    "season": "ordinary-time",
+    "week": 25,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-25.saturday",
+    "season": "ordinary-time",
+    "week": 25,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-25.sunday",
+    "season": "ordinary-time",
+    "week": 25,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-25.thursday",
+    "season": "ordinary-time",
+    "week": 25,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-25.tuesday",
+    "season": "ordinary-time",
+    "week": 25,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-25.wednesday",
+    "season": "ordinary-time",
+    "week": 25,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-26.friday",
+    "season": "ordinary-time",
+    "week": 26,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-26.monday",
+    "season": "ordinary-time",
+    "week": 26,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-26.saturday",
+    "season": "ordinary-time",
+    "week": 26,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-26.sunday",
+    "season": "ordinary-time",
+    "week": 26,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-26.thursday",
+    "season": "ordinary-time",
+    "week": 26,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-26.tuesday",
+    "season": "ordinary-time",
+    "week": 26,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-26.wednesday",
+    "season": "ordinary-time",
+    "week": 26,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-27.friday",
+    "season": "ordinary-time",
+    "week": 27,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-27.monday",
+    "season": "ordinary-time",
+    "week": 27,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-27.saturday",
+    "season": "ordinary-time",
+    "week": 27,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-27.sunday",
+    "season": "ordinary-time",
+    "week": 27,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-27.thursday",
+    "season": "ordinary-time",
+    "week": 27,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-27.tuesday",
+    "season": "ordinary-time",
+    "week": 27,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-27.wednesday",
+    "season": "ordinary-time",
+    "week": 27,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-28.friday",
+    "season": "ordinary-time",
+    "week": 28,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-28.monday",
+    "season": "ordinary-time",
+    "week": 28,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-28.saturday",
+    "season": "ordinary-time",
+    "week": 28,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-28.sunday",
+    "season": "ordinary-time",
+    "week": 28,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-28.thursday",
+    "season": "ordinary-time",
+    "week": 28,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-28.tuesday",
+    "season": "ordinary-time",
+    "week": 28,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-28.wednesday",
+    "season": "ordinary-time",
+    "week": 28,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-29.friday",
+    "season": "ordinary-time",
+    "week": 29,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-29.monday",
+    "season": "ordinary-time",
+    "week": 29,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-29.saturday",
+    "season": "ordinary-time",
+    "week": 29,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-29.sunday",
+    "season": "ordinary-time",
+    "week": 29,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-29.thursday",
+    "season": "ordinary-time",
+    "week": 29,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-29.tuesday",
+    "season": "ordinary-time",
+    "week": 29,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-29.wednesday",
+    "season": "ordinary-time",
+    "week": 29,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-3.friday",
+    "season": "ordinary-time",
+    "week": 3,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-3.monday",
+    "season": "ordinary-time",
+    "week": 3,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-3.saturday",
+    "season": "ordinary-time",
+    "week": 3,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-3.sunday",
+    "season": "ordinary-time",
+    "week": 3,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-3.thursday",
+    "season": "ordinary-time",
+    "week": 3,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-3.tuesday",
+    "season": "ordinary-time",
+    "week": 3,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-3.wednesday",
+    "season": "ordinary-time",
+    "week": 3,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-30.friday",
+    "season": "ordinary-time",
+    "week": 30,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-30.monday",
+    "season": "ordinary-time",
+    "week": 30,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-30.saturday",
+    "season": "ordinary-time",
+    "week": 30,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-30.sunday",
+    "season": "ordinary-time",
+    "week": 30,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-30.thursday",
+    "season": "ordinary-time",
+    "week": 30,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-30.tuesday",
+    "season": "ordinary-time",
+    "week": 30,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-30.wednesday",
+    "season": "ordinary-time",
+    "week": 30,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-31.friday",
+    "season": "ordinary-time",
+    "week": 31,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-31.monday",
+    "season": "ordinary-time",
+    "week": 31,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-31.saturday",
+    "season": "ordinary-time",
+    "week": 31,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-31.sunday",
+    "season": "ordinary-time",
+    "week": 31,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-31.thursday",
+    "season": "ordinary-time",
+    "week": 31,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-31.tuesday",
+    "season": "ordinary-time",
+    "week": 31,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-31.wednesday",
+    "season": "ordinary-time",
+    "week": 31,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-32.friday",
+    "season": "ordinary-time",
+    "week": 32,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-32.monday",
+    "season": "ordinary-time",
+    "week": 32,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-32.saturday",
+    "season": "ordinary-time",
+    "week": 32,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-32.sunday",
+    "season": "ordinary-time",
+    "week": 32,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-32.thursday",
+    "season": "ordinary-time",
+    "week": 32,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-32.tuesday",
+    "season": "ordinary-time",
+    "week": 32,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-32.wednesday",
+    "season": "ordinary-time",
+    "week": 32,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-33.friday",
+    "season": "ordinary-time",
+    "week": 33,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-33.monday",
+    "season": "ordinary-time",
+    "week": 33,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-33.saturday",
+    "season": "ordinary-time",
+    "week": 33,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-33.sunday",
+    "season": "ordinary-time",
+    "week": 33,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-33.thursday",
+    "season": "ordinary-time",
+    "week": 33,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-33.tuesday",
+    "season": "ordinary-time",
+    "week": 33,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-33.wednesday",
+    "season": "ordinary-time",
+    "week": 33,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-34.friday",
+    "season": "ordinary-time",
+    "week": 34,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-34.monday",
+    "season": "ordinary-time",
+    "week": 34,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-34.saturday",
+    "season": "ordinary-time",
+    "week": 34,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-34.sunday",
+    "season": "ordinary-time",
+    "week": 34,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-34.thursday",
+    "season": "ordinary-time",
+    "week": 34,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-34.tuesday",
+    "season": "ordinary-time",
+    "week": 34,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-34.wednesday",
+    "season": "ordinary-time",
+    "week": 34,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-4.friday",
+    "season": "ordinary-time",
+    "week": 4,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-4.monday",
+    "season": "ordinary-time",
+    "week": 4,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-4.saturday",
+    "season": "ordinary-time",
+    "week": 4,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-4.sunday",
+    "season": "ordinary-time",
+    "week": 4,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-4.thursday",
+    "season": "ordinary-time",
+    "week": 4,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-4.tuesday",
+    "season": "ordinary-time",
+    "week": 4,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-4.wednesday",
+    "season": "ordinary-time",
+    "week": 4,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-5.friday",
+    "season": "ordinary-time",
+    "week": 5,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-5.monday",
+    "season": "ordinary-time",
+    "week": 5,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-5.saturday",
+    "season": "ordinary-time",
+    "week": 5,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-5.sunday",
+    "season": "ordinary-time",
+    "week": 5,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-5.thursday",
+    "season": "ordinary-time",
+    "week": 5,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-5.tuesday",
+    "season": "ordinary-time",
+    "week": 5,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-5.wednesday",
+    "season": "ordinary-time",
+    "week": 5,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-6.friday",
+    "season": "ordinary-time",
+    "week": 6,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-6.monday",
+    "season": "ordinary-time",
+    "week": 6,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-6.saturday",
+    "season": "ordinary-time",
+    "week": 6,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-6.sunday",
+    "season": "ordinary-time",
+    "week": 6,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-6.thursday",
+    "season": "ordinary-time",
+    "week": 6,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-6.tuesday",
+    "season": "ordinary-time",
+    "week": 6,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-6.wednesday",
+    "season": "ordinary-time",
+    "week": 6,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-7.friday",
+    "season": "ordinary-time",
+    "week": 7,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-7.monday",
+    "season": "ordinary-time",
+    "week": 7,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-7.saturday",
+    "season": "ordinary-time",
+    "week": 7,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-7.sunday",
+    "season": "ordinary-time",
+    "week": 7,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-7.thursday",
+    "season": "ordinary-time",
+    "week": 7,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-7.tuesday",
+    "season": "ordinary-time",
+    "week": 7,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-7.wednesday",
+    "season": "ordinary-time",
+    "week": 7,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-8.friday",
+    "season": "ordinary-time",
+    "week": 8,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-8.monday",
+    "season": "ordinary-time",
+    "week": 8,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-8.saturday",
+    "season": "ordinary-time",
+    "week": 8,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-8.sunday",
+    "season": "ordinary-time",
+    "week": 8,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-8.thursday",
+    "season": "ordinary-time",
+    "week": 8,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-8.tuesday",
+    "season": "ordinary-time",
+    "week": 8,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-8.wednesday",
+    "season": "ordinary-time",
+    "week": 8,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-9.friday",
+    "season": "ordinary-time",
+    "week": 9,
+    "weekday": "friday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-9.monday",
+    "season": "ordinary-time",
+    "week": 9,
+    "weekday": "monday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-9.saturday",
+    "season": "ordinary-time",
+    "week": 9,
+    "weekday": "saturday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-9.sunday",
+    "season": "ordinary-time",
+    "week": 9,
+    "weekday": "sunday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-9.thursday",
+    "season": "ordinary-time",
+    "week": 9,
+    "weekday": "thursday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-9.tuesday",
+    "season": "ordinary-time",
+    "week": 9,
+    "weekday": "tuesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.ordinary-time.week-9.wednesday",
+    "season": "ordinary-time",
+    "week": 9,
+    "weekday": "wednesday",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.solemnity.christ-the-king",
+    "season": "ordinary-time",
+    "movableCode": "christ-the-king",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.solemnity.corpus-christi",
+    "season": "ordinary-time",
+    "movableCode": "corpus-christi",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.solemnity.most-holy-trinity",
+    "season": "ordinary-time",
+    "movableCode": "most-holy-trinity",
+    "structure": "mass"
+  },
+  {
+    "formularyRef": "tempore.solemnity.sacred-heart-of-jesus",
+    "season": "ordinary-time",
+    "movableCode": "sacred-heart-of-jesus",
+    "structure": "mass"
+  }
+]

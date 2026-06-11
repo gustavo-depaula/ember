@@ -1,0 +1,1222 @@
+{
+  "id": "sanctorale.06-21",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Aloisii Gonzaga, religiosi",
+    "es": "San Luis Gonzaga, religioso",
+    "en-US": "Saint Aloysius Gonzaga, religious",
+    "pt-BR": "São Luís Gonzaga, religioso",
+    "it": "SAN LUIGI GONZAGA, religioso",
+    "fr": "Saint Louis de Gonzague, religieux",
+    "de": "Hl. Aloisius Gonzaga, Ordensmann"
+  },
+  "description": {
+    "la": "Natus est anno 1568 prope Mantuam in Longobardia, ex principibus Castellionis. A matre pie educatus, ad religionem maxime inclinatus apparuit. Aviti principatus iure in fratrem transmisso, Societati Iesu Romæ se adiunxit, et dum ægrotis in nosocomiis inserviebat, morbo correptus, mortuus est anno 1591.",
+    "es": "Nació el año 1568 cerca de Mantua, en Lombardía, hijo de los príncipes de Castiglione. Su madre lo educó cristianamente, y muy pronto dio indicios de su inclinación a la vida religiosa. Renunció en favor de su hermano al título de príncipe, que le correspondía por derecho de primogenitura, e ingresó en la Compañía de Jesús, en Roma. Cuidando enfermos en los hospitales, contrajo él mismo una enfermedad que lo llevó al sepulcro el año 1591.",
+    "pt-BR": "Luís (Castighione delle Stiviere, Mântua, Itália, 1568 - Roma, 21 de junho de 1591), renunciando à vida de corte num dos ambientes mais faustosos de sua época, optou pela vida religiosa na Companhia de Jesus. Teve por guia espiritual São Roberto Belarmino. Exemplar pelo espírito de sacrifício e a candura dos costumes, marcou seu breve testemunho com caridade heroica a serviço dos empesteados.",
+    "it": "Luigi (Castiglione delle Stiviere, Mantova, 9 marzo 1568 - Roma, 21 giugno 1591), primogenito erede del marchesato gonzaghesco della città natale, sfidando la ferma opposizione paterna rinunciò alla vita e alla carriera di corte ed entrò nella Compagnia di Gesù dove, dotato di viva intelligenza e forte volontà, poté giovarsi della guida spirituale di san Roberto Bellarmino. La generosa dedizione ai poveri e agli ammalati compromise la sua delicata costituzione fisica e lo condusse in pochi anni alla morte.",
+    "fr": "Louis de Gonzague (1568-1591) mourut à vingt-trois ans pour avoir pris un pestiféré sur ses épaules. C’était le couronnement d’une vie qui, du château de Castiglione, près de Mantoue (Italie), au noviciat des Jésuites de Rome, s’était déroulée en toute droiture et pureté. Cette vertu avait été acquise au prix d’un effort héroïque de maîtrise de soi par fidélité au plus haut amour.",
+    "de": "Er wurde 1568 in der Nähe von Mantua, in der Lombardei, als Sohn des Markgrafen von Castiglione geboren. Er wurde von seiner Mutter im christlichen Glauben erzogen und bemerkte schon früh seine Neigung zum geistlichen Leben. Er verzichtete, zugunsten seines Bruders, auf seinen Titel und Anspruch in der Thronfolge als Erstgeborener der Familie und wurde Jesuit in Rom. Er sorgte, während einer Pestepidemie, hingebungsvoll für die Kranken in den dortigen Krankenhäusern und starb 1591 an der Pest."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Innocens mánibus et mundo corde ascéndet in montem Dómini, et stabit in loco sancto eius."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "El hombre de manos inocentes y puro corazón subirá al monte del Señor y estará en su recinto sacro."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "The clean of hands and pure of heart shall climb the mountain of the Lord and stand in his holy place."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Quem tem mãos limpas e coração puro subirá à montanha do Senhor e permanecerá em seu santuário."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Chi ha mani innocenti e cuore puro salirà il monte del Signore e starà nel suo luogo santo."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "L’homme au cœur pur, aux mains innocentes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "celui-là peut gravir la montagne du Seigneur et se tenir dans le lieu saint."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Wer reine Hände hat und ein lauteres Herz, der darf hinaufziehen zum Berg des Herrn und stehen an seiner heiligen Stätte."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, cæléstium auctor donórum, qui in beáto Aloísio miram vitæ innocéntiam cum pæniténtia sociásti, eius méritis et intercessióne concéde, ut, innocéntem non secúti, pæniténtem imitémur. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "autor de los dones del cielo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que en san Luis Gonzaga has unido penitencia con admirable pureza de vida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por sus méritos e intercesión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, si no le hemos seguido en la castidad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lo imitemos como penitente."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, giver of heavenly gifts,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who in Saint Aloysius Gonzaga joined penitence to a wonderful innocence of life,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, through his merits and intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that, though we have failed to follow him in innocence,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may imitate him in penitence."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, fonte dos dons celestes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "reunistes em São Luís Gonzaga a prática da penitência e uma admirável pureza de vida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos, por seus méritos e preces,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, se não soubemos imitá-lo em sua vida inocente,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sigamos fielmente seus exemplos na penitência."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, fonte di ogni dono del cielo, che in san Luigi [Gonzaga] hai unito in modo mirabile l’innocenza della vita e la penitenza, per i suoi meriti e la sua intercessione fa' che, se non l’abbiamo imitato nell’innocenza, lo seguiamo sulla via della penitenza evangelica. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu, source de tous les dons spirituels,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as uni en saint Louis de Gonzague la pratique de la pénitence et une admirable pureté de vie ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous n’avons pas la même innocence,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mais accorde-nous, à sa prière et par ses mérites,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "d’imiter son renoncement."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du Spender aller Gnaden, mit deiner Hilfe hat der heilige Aloisius ein Leben der Unschuld und der Buße geführt. Höre auf seine Fürsprache und gib uns, auch wenn wir ihm in der Heiligkeit nicht gefolgt sind, durch Buße und Umkehr die Reinheit des Herzens. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Cælésti convívio fac nos, Dómine, exémplo beáti Aloísii, nuptiáli veste semper indútos accúmbere, ut ex huius participatióne mystérii grátia tua dívites efficiámur. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, haz que nos acerquemos siempre al convite del cielo con la vestidura nupcial,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "como san Luis Gonzaga,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que la participación en este sacramento nos llene de las riquezas de tu gracia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Grant us, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that by the example of Saint Aloysius,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may take our place at the heavenly banquet, clothed always in our wedding garment,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that, by participation in this mystery,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may possess the riches of your grace."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Fazei, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, seguindo o exemplo de São Luís Gonzaga,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos sentemos à mesa do banquete celeste revestidos da veste nupcial,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a fim de que, pela participação neste mistério,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos tornemos ricos da vossa graça."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concedi, o Signore, che, sull’esempio di san Luigi [Gonzaga], partecipiamo al banchetto del cielo sempre rivestiti dell’abito nuziale, per ricevere l’abbondanza della tua grazia con la comunione a questo mistero. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Fais que nous prenions place à ton banquet, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "portant toujours le vêtement de noce comme saint Louis de Gonzague,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "afin que la participation à cette eucharistie nous enrichisse de ta grâce."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, lass uns gleich dem heiligen Aloisius stets im hochzeitlichen Gewand der Gnade am heiligen Mahl teilnehmen und schenke uns reichen Segen in der Feier dieses Opfers. Darum bitten wir durch Christus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf057",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS VIRGINIBUS ET RELIGIOSIS",
+        "es": "PREFACIO DE SANTAS VÍRGENES Y RELIGIOSOS",
+        "en-US": "Preface of Holy Virgins and Religious",
+        "pt-BR": "Prefácio das Santas Virgens e Religiosos o",
+        "it": "PREFAZIO DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+        "fr": "PRÉFACE DES SAINTES VIERGES, ET DES SAINTS RELIGIEUX OU RELIGIEUSES",
+        "de": "PRÄFATION VON DEN HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+      },
+      "excerpt": {
+        "la": "De signo vitæ Deo consecratæ",
+        "es": "Significado de la vida de consagración exclusiva a Dios",
+        "en-US": "The sign of a life consecrated to God",
+        "pt-BR": "sinal da vida consagrada a Deus",
+        "it": "Il segno della vita consacrata a Dio",
+        "fr": "Signification de la vie consacrée",
+        "de": "Die Zeichenhaftigkeit des gottgeweihten Lebens"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Sanctarum Virginum et Sanctorum Religiosorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tuam decet providéntiam celebráre mirábilem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "qua humánam substántiam et ad primæ oríginis révocas sanctitátem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et perdúcis ad experiénda dona,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quæ in novo sǽculo sunt habénda."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Sanctis et Angelis univérsis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te collaudámus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de las santas Vírgenes y de los santos Religiosos. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque celebramos tu providencia admirable en los santos que se entregaron a Cristo por el reino de los cielos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ella llamas de nuevo a la humanidad a la santidad primera que de ti había recibido,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y la conduces a gustar los dones que espera recibir en el cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los santos y todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos, proclamando sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Virgins and Religious. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the Saints who consecrated themselves to Christ for the sake of the Kingdom of Heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "it is right to celebrate the wonders of your providence,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by which you call human nature back to its original holiness and bring it to experience on this earth the gifts you promise in the new world to come."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas das Santas Virgens e dos Santos Religiosos; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Recordando os Santos e Santas que se consagraram a Cristo por amor ao reino dos céus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celebramos a vossa admirável providência;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por ela, reconduzis a humanidade à santidade original e nos fazeis saborear, já aqui na terra,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os dons reservados para o céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com todos os Anjos e Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Si dice nelle solennità e nelle feste delle sante vergini e dei santi religiosi. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renderti grazie e innalzare a te l’inno di benedizione e di lode,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nei tuoi santi, che per il regno dei cieli hanno consacrato la vita a Cristo tuo Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "noi celebriamo, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "l’iniziativa mirabile del tuo amore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "poiché tu riporti l’uomo alla santità della sua prima origine e gli fai pregustare i doni che a lui prepari nel mondo rinnovato."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo segno della tua bontà,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con voce unanime cantiamo l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saintes vierges et des saints religieux ou religieuses. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nous célébrons les prévenances de ton amour pour tant d’hommes et de femmes parvenus à la sainteté en se donnant au Christ à cause du royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par ce mystère d’alliance,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tu veux que notre condition humaine retrouve sa splendeur première,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et que, dès ici-bas, nous ayons un avant-goût des biens que tu nous donneras dans le monde à venir."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les saints et tous les anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Jungfrauen und Ordensleuten genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und in den Heiligen deine Gnade zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Inmitten der Kirche berufst du Menschen, sich Christus zu weihen und mit ganzer Hingabe das Himmelreich zu suchen. In ihnen offenbarst du deinen Ratschluss, uns Menschen die ursprüngliche Heiligkeit neu zu schenken und uns schon jetzt mit Freude an den Gütern der kommenden Welt zu erfüllen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Panem cæli dedit eis, panem Angelórum manducávit homo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "God gave them bread from heaven; man ate the bread of Angels."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Senhor deu ao seu povo o alimento do céu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e o ser humano se nutriu com o pão dos Anjos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Diede loro il pane del cielo: l’uomo mangiò il pane dei forti."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Le Seigneur donne à son peuple le froment du ciel ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "chacun se nourrit du pain des Forts."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Brot vom Himmel gab ihnen der Herr, das Brot der Engel aß der Mensch."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Angelórum esca nutrítos, fac nos, Dómine, pura tibi conversatióne servíre, et,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "eius quem hódie cólimus exémplo, in gratiárum semper actióne manére. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor, alimentados con el pan de los ángeles,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "haz que, a ejemplo de san Luis Gonzaga,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te sirvamos con una vida pura y permanezcamos en continua acción de gracias."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Bring us, who have been fed with the food of Angels, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "to serve you in purity of life,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and, following the example of Saint Aloysius, whom we honor today,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "may we persevere in constant thanksgiving."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor nosso Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fazei que, nutridos com o alimento dos anjos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos sirvamos por uma vida pura,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "a exemplo daquele que hoje veneramos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e permaneçamos sempre em ação de graças."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, che ci hai nutriti con il pane degli angeli, fa' che ti serviamo con purezza di vita e, sull’esempio di san Luigi [Gonzaga], viviamo in perenne rendimento di grazie. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Après nous avoir nourris du pain des anges, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne-nous de te servir par une vie très pure ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "à l’exemple de celui que nous fêtons aujourd’hui,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puissions-nous rester toujours dans l’action de grâce."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, du hast uns das Brot der Engel geschenkt. Gib, dass wir nach dem Vorbild des heiligen Aloisius dir mit reinem Herzen dienen und dir allezeit Dank sagen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "sanctorale.07-28.africa",
+  "kind": "sanctoral",
+  "scope": "africa",
+  "structure": "mass",
+  "title": {
+    "en-US": "Saint Victor I, Pope and Martyr"
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Almighty ever-living God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who chose Saint Victor to preside over your people"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and benefit them by word and example,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "keep safe, we pray, by his intercession, the shepherds of your Church"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "along with the flocks entrusted to their care,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and direct them in the way of eternal salvation."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

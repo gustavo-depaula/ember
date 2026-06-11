@@ -1,0 +1,1282 @@
+{
+  "id": "ritual.various-needs.div051",
+  "kind": "ritual",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "III. AD DIVERSA 38. PRO REMISSIONE PECCATORUM A",
+    "es": "III. EN DIVERSAS NECESIDADES 38. POR EL PERDÓN DE LOS PECADOS A",
+    "en-US": "Iii. for Particular Needs 38. For Forgiveness of Sins",
+    "pt-BR": "Iii. em Diversas Necessidades 38. pelo Perdão dos Pecados a",
+    "it": "PER DIVERSE NECESSITÁ 38. PER LA REMISSIONE DEI PECCATI A",
+    "fr": "III. POUR DIVERSES CIRCONSTANCES 38. POUR DEMANDER LE PARDON DES PÉCHÉS A",
+    "de": "III. IN BESONDEREN ANLIEGEN 38. UM NACHLASS DER SÜNDEN"
+  },
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Miseréris ómnium, Dómine, et nihil odísti eórum quæ fecísti, dissímulans peccáta hóminum propter pæniténtiam, et párcens illis, quia tu es Dóminus Deus noster."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te compadeces de todos, Señor; pasas por alto los pecados de los hombres para que se arrepientan. No aborreces nada de lo que hiciste, los perdonas porque tú eres el Señor, nuestro Dios."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lord, you are merciful to all, and hate nothing you have created. You overlook the sins of men to bring them to repentance. You are the Lord our God."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, vós tendes compaixão de todos e não rejeitais nada que criastes;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fechais os olhos aos nossos pecados por causa da penitência e os perdoais, porque sois o Senhor nosso Deus."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Tu ami tutte le creature, o Signore, e nulla disprezzi di ciò che hai creato;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu chiudi gli occhi sui peccati degli uomini, aspettando il loro pentimento, e li perdoni, perché tu sei il Signore nostro Dio."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, tu as pitié de tout ce qui existe,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu n’as de répulsion envers aucune de tes œuvres ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu fermes les yeux sur les péchés des hommes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour qu’ils se convertissent ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu les épargnes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "car tu es le Seigneur notre Dieu."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Du erbarmst dich aller, o Herr, und hast Nachsicht mit den Sünden der Menschen, damit sie sich bekehren; denn du bist der Herr, unser Gott."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Propitiáre, Dómine, pópulo tuo, et ab ómnibus absólve peccátis, ut, quod nostris offensiónibus promerémur, tua indulgéntia repellátur. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ten misericordia de tu pueblo, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y perdónale todos sus pecados,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que tu misericordia perdone lo que nos merecieran nuestras ofensas."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Be merciful to your people, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and absolve them from all sins,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that what we deserve by our offenses may be avoided by your pardon."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, sede propício ao vosso povo e perdoai todos os seus pecados para que vossa misericórdia afaste o que por nossas culpas merecemos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sii misericordioso con il tuo popolo, o Signore: perdona tutti i suoi peccati,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e nella tua bontà allontana da noi ciò che meritiamo per le nostre colpe. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, sois bienveillant pour ton peuple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et délivre-le de tous ses péchés :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ce que nos fautes nous ont mérité,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ton indulgence l’écarte."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, sei deinem Volk gnädig. Sprich uns los von aller Schuld und erlass uns die Strafe, die wir für unsere Sünden verdienen. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Hóstias tibi, Dómine, placatiónis et laudis offérimus, ut et delícta nostra miserátus absólvas, et nutántia corda tu dírigas. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te ofrecemos, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "estos dones de reconciliación y alabanza,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, compasivo, perdones nuestros delitos y guíes tú mismo nuestros corazones vacilantes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "We offer you, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the sacrifice of conciliation and praise, that,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "being moved to compassion,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "you may both pardon our offenses and direct our wavering hearts."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nós vos oferecemos, Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "o sacrifício de louvor que nos reconcilia convosco,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que perdoeis, em vossa misericórdia, os nossos pecados e orienteis os corações vacilantes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ti offriamo, o Signore, questo sacrificio di riconciliazione e di lode perché le nostre colpe siano perdonate dalla tua misericordia e i nostri cuori incerti trovino in te guida sicura. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nous t’offrons, Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "le sacrifice de réconciliation et de louange :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dans ta miséricorde, pardonne nos fautes et dirige toi-même nos cœurs indécis."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, um dich zu loben und von dir Verzeihung zu erlangen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "bringen wir diese Gaben dar. Tilge unsere Schuld und gib unserem unbeständigen Sinn Richtung und Halt. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf027",
+      "label": {
+        "la": "PRÆFATIO IV DE DOMINICIS «PER ANNUM»",
+        "es": "PREFACIO IV DOMINICAL DEL TIEMPO ORDINARIO",
+        "en-US": "Preface Iv of the Sundays in Ordinary Time",
+        "pt-BR": "Prefácio dos Domingos do Tempo Comum Iv a",
+        "it": "PREFAZIO DELLE DOMENICHE DEL TEMPO ORDINARIO IV",
+        "fr": "PRÉFACE DES DIMANCHES N°4",
+        "de": "PRÄFATION FÜR SONNTAGE IV"
+      },
+      "excerpt": {
+        "la": "De historia salutis",
+        "es": "Las etapas de la historia de la salvación en Cristo",
+        "en-US": "The history of salvation",
+        "pt-BR": "história da salvação",
+        "it": "La storia della salvezza",
+        "fr": "L’histoire du salut",
+        "de": "Die Heilsereignisse in Christus"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in dominicis «per annum»."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ipse enim nascéndo vetustátem hóminum renovávit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "patiéndo delévit nostra peccáta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ætérnæ vitæ áditum prǽstitit a mórtuis resurgéndo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ad te Patrem ascendéndo cæléstes iánuas reserávit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en los domingos del tiempo ordinario."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con su nacimiento,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "renovó la vieja condición humana;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con su pasión destruyó nuestro pecado;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "al resucitar de entre los muertos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos aseguró el acceso a la vida eterna;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y en su ascensión al Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "abrió las puertas del cielo."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on Sundays in Ordinary Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For by his birth he brought renewal to humanity's fallen state,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and by his suffering, cancelled out our sins;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "by his rising from the dead he has opened the way to eternal life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and by ascending to you, O Father,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he has unlocked the gates of heaven."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado nos domingos do Tempo Comum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nascendo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ele renovou a antiga condição humana;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sofrendo a paixão,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "apagou nossos pecados;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ressurgindo dos mortos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "concedeu-nos a vida eterna;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "subindo a vós, ó Pai,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "abriu-nos as portas do céu."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "l seguente prefazio si dice nelle domeniche del Tempo Ordinario."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Egli, nascendo da Maria Vergine, ha rinnovato l’umanità decaduta;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "soffrendo la passione,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ha distrutto i nostri peccati;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "risorgendo dai morti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ci ha aperto il passaggio alla vita eterna;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "salendo a te, o Padre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ci ha dischiuso le porte del regno dei cieli."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli angeli e ai santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les Messes des dimanches du temps ordinaire."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par sa naissance, il a renouvelé la condition humaine destinée à vieillir ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par sa passion,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il a effacé nos fautes ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par sa résurrection d’entre les morts,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il a donné accès à la vie éternelle ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et par son ascension auprès de toi, notre Père,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il a ouvert les portes du ciel."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an den Sonntagen im Jahreskreis genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Wir danken dir, Vater im Himmel, und rühmen dich durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn durch seine Geburt hat er den Menschen erneuert, durch sein Leiden unsere Sünden getilgt, in seiner Auferstehung den Weg zum Leben erschlossen und in seiner Auffahrt zu dir das Tor des Himmels geöffnet."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn rühmen dich deine Erlösten und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gáudium erit coram Angelis Deisuper uno peccatóre pæniténtiam agénte."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Os digo que la misma alegría tendrán los ángeles de Dios por un solo pecador que se convierta."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "There will be rejoicing among the angels of god over one sinner who repents."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Haverá alegria entre os Anjos de Deus por um só pecador que se converte."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Vi è gioia davanti agli angeli di Dio per un solo peccatore che si converte."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Il y a de la joie devant les anges de Dieu pour un seul pécheur qui se convertit."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Bei den Engeln Gottes herrscht Freude über einen einzigen Sünder, der umkehrt."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Præsta nobis, miséricors Deus, ut, percipiéntes hoc múnere véniam peccatórum,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "illa deínceps vitáre tua grátia valeámus, et tibi sincéro corde servíre. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Concédenos, Dios misericordioso a quienes, por este sacrificio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "hemos recibido el perdón de nuestros pecados,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que con tu gracia podamos evitarlos de ahora en adelante y servirte con sincero corazón."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "God of mercy, by the gifts we have shared forgive us our sins. Help us to avoid them in the future and let us serve you with all our hearts."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus de misericórdia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que por este sacramento nos destes o perdão,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos a graça de evitar doravante o pecado e vos servir de coração sincero."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dio misericordioso, che nella partecipazione a questa mensa ci hai fatto gustare la gioia del perdono, fa' che in avvenire possiamo evitare con la tua grazia ogni peccato e servirti con cuore sincero. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Après avoir reçu dans cette communion le pardon de nos offenses,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te supplions, Dieu de miséricorde :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ta grâce nous aide à éviter désormais le péché et à te servir d’un cœur sans partage."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gütiger Gott, schenke uns durch die heilige Gabe, dir wir empfangen haben, die Verzeihung aller Schuld. Gib uns die Gnade, die Sünde zu meiden und dir mit reinem Herzen zu dienen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1573 @@
+{
+  "id": "sanctorale.06-28",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "S. Irenæi, episcopi et martyris",
+    "es": "San Ireneo, obispo y mártir",
+    "en-US": "Saint Irenaeus, bishop and martyr",
+    "pt-BR": "Santo Irineu, bispo e mártir",
+    "it": "SANT’IRENEO, vescovo e martire",
+    "fr": "Saint Irénée, évêque et martyr",
+    "de": "Hl. Irenäus, Bischof, Märtyrer"
+  },
+  "description": {
+    "la": "Natus est circa annum 130 et Smyrnæ educatus; discipulus fuit sancti Polycarpi, illius civitatis episcopi. Anno 177 presbyter erat Lugduni in Gallia, et paulo post eiusdem urbis episcopus factus est. Opera composuit ad fidem catholicam contra Gnosticorum errores tuendam. Martyrio, ut fertur, coronatus est circa annum 200.",
+    "es": "Nació hacia el año 130 y fue educado en Esmirna; fue discípulo de san Policarpo, obispo de aquella ciudad. El año 177 era presbítero en Lyon (Francia), y poco después ocupó la sede episcopal de dicha ciudad. Escribió en defensa de la fe católica contra los errores de los gnósticos. Recibió la palma del martirio, según se cuenta, alrededor del año 200.",
+    "pt-BR": "Irineu (por volta do ano 130 - por volta do ano 202), originário da Ásia Menor, em Esmirna, foi discípulo de São Policarpo. Chegando à Gália, foi ordenado presbítero e pouco depois tornou-se bispo da Igreja de Lião. Sua atividade de mestre e testemunha da Tradição apostólica foi incansável. Difundiu a mensagem evangélica em amplo campo de ação. Foi promotor de reconciliação na controvérsia sobre a Páscoa; tutelou a integridade da doutrina cristã ameaçada pelo gnosticismo; aprofundou em obras de grande valor a compreensão das Escrituras e dos mistérios da fé: a Trindade; o Cristo, centro da história; a Eucaristia, que assume e transforma a humilde matéria da criação. Seu sepultamento, em Lião (França), aos 28 de junho, é comemorado pelo Martirológio Jeronimiano (séc. VI).",
+    "it": "Ireneo (130-200 ca.), originario dell’Asia Minore, in giovane età aveva ascoltato a Smirne la predicazione dell’anziano san Policarpo, anello di congiunzione con la testimonianza apostolica. Vescovo di Lione, durante la controversia tra Roma e le Chiese dell’Asia per la data della Pasqua fu – di nome e di fatto – uomo di pace, sostenendo con franchezza il rispetto delle legittime diversità. Al rigorismo dei montanisti e allo spiritualismo degli gnostici contrappose, nella sua opera principale (Contro le eresie), l’integrità della Tradizione apostolica recepita e trasmessa nella comunione dell’unica Chiesa. Fu san Girolamo (347 ca.-420) il primo a considerarlo martire, benché siano ignote le circostanze della sua morte.",
+    "fr": "Irénée (vers 130-200), qui était né à Smyrne, devint évêque de Lyon après le martyre de saint Pothin (177). En vrai pasteur, il fut soucieux de répandre l’Évangile parmi les populations de la Gaule, mais aussi de défendre l’intégrité du dépôt de la foi. Dans ses écrits, Irénée exprime une vue profonde du dessein de Dieu, de la vocation de l’homme, du mystère de l’Église.",
+    "de": "Er wurde um das Jahr 130 geboren, in Smyrna erzogen und war als Jünger des heiligen Polykarp bekannt. Im Jahr 177 kam er nach Frankreich und wurde kurz darauf Bischof von Lyon. Er sprach sich in seinen Schriften entschieden gegen die Irrlehren der Gnostiker aus und errang die Palme des Martyriums um das Jahr 200."
+  },
+  "color": "red",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Lex veritátis fuit in ore eius et iníquitas non est invénta in lábiis eius; in pace et in æquitáte ambulávit mecum, et multos avértit ab iniquitáte."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Transmitía la ley con fidelidad y no se encontraba fallo alguno en sus labios;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "caminaba conmigo en paz y en rectitud, y apartaba del pecado a mucha gente."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "The law of truth was in his mouth;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "no dishonesty was found on his lips."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "He walked with me in integrity and peace, and turned many away from evil."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "A lei da verdade estava em sua boca,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e maldade não se achava em seus lábios."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Na paz e na justiça caminhou comigo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e a muitos ele afastou da iniquidade."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Un insegnamento veritiero era sulla sua bocca né c’era falsità sulle sue labbra; con pace e rettitudine davanti a me ha camminato e molti ha fatto allontanare dal male."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "La loi de vérité était dans sa bouche,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et rien de mal ne se trouvait sur ses lèvres."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dans la paix et la droiture, il marchait avec le Seigneur ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nombreux furent ceux qu’il détourna de la faute."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui beáto Irenaéo epíscopo tribuísti, ut veritátem doctrínæ pacémque Ecclésiæ felíciter confirmáret, concéde, quǽsumus, eius intercessióne, ut nos,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fide et caritáte renováti, ad unitátem concordiámque fovéndam semper simus inténti. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que otorgaste al obispo san Ireneo mantener felizmente la doctrina verdadera y la paz de la Iglesia,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por su intercesión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "renovados en la fe y en la caridad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fomentar siempre la unidad y la concordia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who called the Bishop Saint Irenaeus to confirm true doctrine and the peace of the Church,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, we pray, through his intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "being renewed in faith and charity,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may always be intent on fostering unity and concord. Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, concedestes ao bispo Santo Irineu firmar de modo feliz a verdadeira doutrina e a paz da Igreja;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei, por sua intercessão,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, renovados pela fé e pela caridade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nos apliquemos sempre em promover a unidade e a concórdia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che al santo vescovo Ireneo hai dato la grazia di confermare la tua Chiesa nella verità e nella pace, fa' che per sua intercessione, rinnovati nella fede e nell’amore, cerchiamo sempre ciò che promuove l’unità e la concordia. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as donné au bienheureux évêque Irénée d’enseigner plus solidement la vérité et d’affermir avec bonheur la paix dans l’Église ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "par son intercession, renouvelle notre foi et notre charité,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour que nous cherchions en toute chose à promouvoir l’unité et la concorde."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott der Wahrheit und des Friedens, in deiner Kraft hat der heilige Irenäus die wahre Lehre verteidigt und der Kirche den Frieden erhalten. Auf seine Fürsprache erneuere in uns den Glauben und die Liebe und mache uns bereit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Frieden und Eintracht zu fördern. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "2 Tim 2, 22b-26",
+              "es": "2 Tim 2, 22b-26",
+              "en-US": "2 Tim 2:22-26",
+              "pt-BR": "2 Tim 2, 22b-26",
+              "it": "2 Tm 2,22-26",
+              "fr": "2 Tm 2, 22b-26",
+              "de": "2 Tim 2, 22b-26"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Timótheum",
+              "es": "Lectura de la segunda carta del apóstol san Pablo a Timoteo",
+              "en-US": "A reading from the second letter of St. Paul to Timothy",
+              "pt-BR": "Leitura da Segunda Carta de São Paulo a Timóteo",
+              "it": "Dalla seconda lettera di san Paolo apostolo a Timoteo",
+              "fr": "Deuxième lettre de saint Paul Apôtre à Timothée",
+              "de": "Lesung aus dem zweiten Brief des Apostels Paulus an Timótheus"
+            },
+            "summary": {
+              "la": "Oportet servum Dómini mansuetum esse ad omnes, cum mansuetudine corripientem.",
+              "es": "Uno que sirve al Señor debe ser amable con todos, capaz de corregir con dulzura",
+              "pt-BR": "O servo do Senhor não deve ser briguento, mas manso para com todos.",
+              "it": "Un servo del Signore deve essere mite con tutti, dolce nel rimproverare."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Caríssime: Sectáre iustítiam, fidem, caritátem, pacem cum his, qui ínvocant Dóminum de corde puro. Stultas autem et sine disciplína quæstiónes dévita, sciens quia génerant lites; servum autem Dómini non opórtet litigáre, sed mansuétum esse ad omnes, aptum ad docéndum, patiéntem, cum mansuetúdine corripiéntem eos, qui resístunt, si quando det illis Deus pæniténtiam ad cognoscéndam veritátem, et resipíscant a Diáboli láqueo, a quo capti tenéntur ad ipsíus voluntátem."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Querido hermano: Busca la justicia, la fe, el amor, la paz junto con los que invocan al Señor con corazón limpio. Rehúye las cuestiones necias y estúpidas, sabiendo que acaban en peleas; y uno que sirve al Señor no debe pelearse, sino ser amable con todos, hábil para enseñar, sufrido, capaz de corregir con dulzura a quienes sostienen doctrinas contrarias, por si Dios les concede la conversión que lleva al conoci mient de la verdad y vuelven en sí, escapando del lazo del diablo, que los tiene cautivos, para hacer su voluntad."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "So pursue righteousness, faith, love, and peace, along with those who call on the Lord* with purity of heart. Avoid foolish and ignorant debates, for you know that they breed quarrels. A slave of the Lord should not quarrel, but should be gentle with everyone, able to teach, tolerant, correcting opponents with kindness. It may be that God will grant them repentance that leads to knowledge of the truth, and that they may return to their senses out of the devil's snare, w where they are entrapped by him, for his will."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Caríssimo: Procura a justiça, a fé, a esperança, a caridade e a paz com aqueles que invocam o Senhor com o coração puro. Nega-te a disputas estultas e sem finalidade, certo de que geram contendas. Porque o servo do Senhor não deve ser briguento, mas manso para com todos, capaz de ensinar e paciente. Deve corrigir com mansidão os que resistem à verdade, na esperança de que Deus lhes conceda converter-se ao conhecimento da verdade, e de que voltem com sensatez à sua vontade, livrando-se dos laços do demônio, que os tem presos."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Carissimo, cerca la giustizia, la fede, la carità, la pace, insieme a quelli che invocano il Signore con cuore puro. Evita inoltre le discussioni sciocche e non educative, sapendo che generano contese. Un servo del Signore non dev’essere litigioso, ma mite con tutti, atto a insegnare, paziente nelle offese subite, dolce nel riprendere gli oppositori, nella speranza che Dio voglia loro concedere di convertirsi, perché riconoscano la verità e ritornino in sé sfuggendo al laccio del diavolo, che li ha presi nella rete perché facessero la sua volontà."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Bien-aimé, cherche à vivre dans la justice, la foi, la charité et la paix, avec ceux qui invoquent le Seigneur d’un cœur pur. Évite les discussions folles et simplistes : tu sais qu’elles provoquent des querelles. Or un serviteur du Seigneur ne doit pas être querelleur ; il doit être attentionné envers tous, capable d’enseigner et de supporter la malveillance ; il doit reprendre avec douceur les opposants, car Dieu leur donnera peut-être de se convertir, de connaître pleinement la vérité : ils retrouveront alors leur bon sens et se dégageront des pièges du diable qui les retient captifs, soumis à sa volonté."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mein Sohn! Strebe unermüdlich nach Gerechtigkeit, Glauben, Liebe und Frieden, zusammen mit all denen, die den Herrn aus reinem Herzen anrufen. Lass dich nicht auf törichte und unsinnige Auseinandersetzungen ein; du weißt, dass sie nur zu Streit führen. Ein Knecht des Herrn soll nicht streiten, sondern zu allen freundlich sein, ein geschickter und geduldiger Lehrer, der auch die mit Güte zurechtweist, die sich hartnäckig widersetzen. Vielleicht schenkt Gott ihnen dann die Umkehr, damit sie die Wahrheit erkennen, wieder zur Besinnung kommen und aus dem Netz des Teufels befreit werden, der sie eingefangen und sich gefügig gemacht hat."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Glóriam tibi, Dómine, cónferat sacrifícium, quod in natáli beáti Irenaéi tibi lætánter offérimus, et prǽbeat nobis dilígere veritátem, ut et inviolátam Ecclésiæ fidem teneámus, et stábilem unitátem. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que este sacrificio que te ofrecemos con gozo en el tránsito de san Ireneo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te glorifique y nos otorgue el amor a la verdad,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que mantengamos intacta la fe de la Iglesia y estable su unidad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May the sacrifice we offer you with joy on the heavenly birthday of Saint Irenaeus bring you glory, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and instill in us a love of the truth,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "so that we may keep the Church's faith inviolate and her unity secure."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, este sacrifício que vos oferecemos com alegria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na comemoração do martírio de Santo Irineu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "vos glorifique e nos leve a amar a verdade para guardarmos íntegra a fé da Igreja e inabalável a sua unidade."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Il sacrificio che ti offriamo, o Signore, nel gioioso ricordo della nascita al cielo di sant’Ireneo, glorifichi il tuo nome e ci ispiri l’amore alla verità,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "perché custodiamo intatta la fede e salda l’unità della Chiesa. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "En célébrant la naissance au ciel du bienheureux Irénée,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’offrons avec joie, Seigneur, ce sacrifice :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qu’il te rende gloire et nous obtienne d’aimer la vérité,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour garder intacte la foi de l’Église et inébranlable, son unité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger Gott, nimm zu deinem Lob das Opfer an, das wir am Gedenktag des heiligen Irenäus dir weihen. Es schenke uns den Mut zur Wahrheit, so dass wir den Glauben der Kirche unversehrt bewahren und an ihrer Einheit unerschütterlich festhalten. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf056",
+      "label": {
+        "la": "PRÆFATIO DE SANCTIS PASTORIBUS",
+        "es": "PREFACIO DE LOS SANTOS PASTORES",
+        "en-US": "Preface of Holy Pastors",
+        "pt-BR": "Prefácio dos Santos Pastores a",
+        "it": "PREFAZIO DEI SANTI PASTORI I",
+        "fr": "PRÉFACE DES SAINTS PASTEURS",
+        "de": "PRÄFATION VON DEN HIRTEN DER KIRCHE"
+      },
+      "excerpt": {
+        "la": "De præsentia sanctorum Pastorum in Ecclésia",
+        "es": "La presencia de los santos pastores en la Iglesia",
+        "en-US": "The presence of holy Pastors in the Church",
+        "pt-BR": "presença dos Santos Pastores na Igreja",
+        "it": "La presenza dei santi Pastori nella Chiesa",
+        "fr": "La présence des saints pasteurs dans l’Église",
+        "de": "Das Wirken der heiligen Hirten für uns"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in sollemnitatibus et festis Ss. Pastorum. Dici potest in memoriis ipsorum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia sic tríbuis Ecclésiam tuam sancti"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "festivitáte gaudére,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut eam exémplo piæ conversatiónis corróbores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "verbo prædicatiónis erúdias,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "gratáque tibi supplicatióne tueáris."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, cum Angelórum atque Sanctórum turba,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum laudis tibi cánimus, sine fine dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las solemnidades y fiestas de los santos Pastores. Se puede decir también en las memorias de los mismos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque nos concedes la alegría de celebrar hoy la fiesta de san"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": ","
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "fortaleciendo a tu Iglesia con el ejemplo de su vida santa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "instruyéndola con su palabra y protegiéndola con su intercesión."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y con la multitud de los santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te cantamos el himno de alabanza diciendo sin cesar:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said on the Solemnities and Feasts of Holy Pastors. It may also be said on their Memorials."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For, as on the festival of Saint"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "you bid your Church rejoice,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so, too, you strengthen her by the example of his holy life,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "teach her by his words of preaching,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and keep her safe in answer to his prayers."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with the company of Angels and Saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your praise,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas solenidades e festas dos Santos Pastores; ele pode ser rezado também em suas memórias."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vós nos concedeis a alegria de celebrar a memória"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "festa, solenidade"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "de São"
+              },
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "e fortaleceis a vossa Igreja com o exemplo de sua vida,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "o ensinamento de sua pregação e o auxílio de suas preces."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com a multidão dos Anjos e dos Santos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle solennità e nelle feste dei santi pastori. Si può dire anche nelle loro memorie."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu doni alla tua Chiesa la gioia di celebrare la festa [memoria] di san N.:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi esempi la rafforzi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con i suoi insegnamenti l’ammaestri,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la sua intercessione la proteggi."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con la moltitudine degli angeli e dei santi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo senza fine l’inno della tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette Préface se dit pendant les solennités et les fêtes des saints Pasteurs. On peut aussi l’utiliser dans le cas d’une mémoire liturgique."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Tu donnes à ton Église de se réjouir en la fête de saint"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "des saints"
+              },
+              {
+                "type": "rubric",
+                "text": ") N."
+              },
+              {
+                "type": "text",
+                "text": ":"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par l’exemple qu’il a"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "qu’ils ont"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "donné, tu nous encourages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par son"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "enseignement, tu nous éclaires,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "à sa"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "leur"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "prière, tu veilles sur nous."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec la multitude des anges et des saints,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird an Hochfesten und Festen von Hirten der Kirche genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, Dir, Vater im Himmel, zu danken und am Fest des heiligen"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "N."
+              },
+              {
+                "type": "text",
+                "text": "deine Größe zu rühmen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Sein Leben aus dem Glauben ist uns ein Vorbild, die Botschaft seiner Predigt belehrt uns, seine Fürbitte erwirkt uns Schutz und Hilfe durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn preisen wir dich in deiner Kirche und vereinen uns mit den Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Manéte in me, et ego in vobis, dicit Dóminus. Qui manet in me et ego in eo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "hic fert fructum multum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Permaneced en mí, y yo en vosotros, dice el Señor; el que permanece en mí y yo en él, ese da fruto abundante."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Remain in me, as I remain in you, says the Lord."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Whoever remains in me,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and I in him, bears fruit in plenty."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Permanecei em mim e eu permanecerei em vós, diz o Senhor."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Aquele que permanece em mim e eu nele,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "esse dá muito fruto."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "«Rimanete in me e io in voi», dice il Signore. «Chi rimane in me, e io in lui,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "porta molto frutto»."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Demeurez en moi, comme moi en vous, dit le Seigneur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Celui qui demeure en moi,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et en qui je demeure,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "celui-là porte beaucoup de fruit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Per hæc sacra mystéria, quǽsumus, Dómine, da nobis fídei miserátus augméntum,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut, quæ beátum Irenaéum epíscopum usque ad mortem reténta gloríficat, nos étiam iustíficet veráciter hanc sequéntes. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Por estos santos misterios aumenta, compasivo, nuestra fe que,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "profesada hasta el martirio,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "glorifica al obispo san Ireneo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que nos santifique también a nosotros,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "viviéndola en toda su verdad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Through these sacred mysteries, we pray, O Lord, give us in your compassion an increase of that faith which brought glory to the Bishop Saint Irenaeus as he maintained it even until death,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and may the same faith bring to us, who truly follow it, justification in your sight."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor misericordioso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por estes santos mistérios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "aumentai em nós aquela fé que, mantida até à morte,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "coroou de glória o bispo Santo Irineu;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e concedei-nos também que sejamos justificados,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "vivendo fielmente a mesma fé."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "La partecipazione a questi santi misteri, o Padre, accresca in noi la fede che sant’Ireneo testimoniò fino alla morte, perché diventiamo anche noi veri discepoli di Cristo tuo Figlio. Egli vive e regna nei secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Par cette communion à tes mystères,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’en prions, Seigneur de miséricorde,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "augmente en nous la foi :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "elle a été la gloire du bienheureux évêque Irénée qui l’a gardée jusqu’à la mort ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que cette même foi sincèrement vécue fasse de nous des justes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, durch die Feier dieser heiligen Geheimnisse mehre in uns den Glauben, den der heilige Irenäus bis zum Tode festgehalten hat. Gib, dass auch wir aus diesem Glauben leben und so die wahre Gerechtigkeit erlangen. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

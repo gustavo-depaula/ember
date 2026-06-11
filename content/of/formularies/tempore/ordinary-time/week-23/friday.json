@@ -1,0 +1,2049 @@
+{
+  "id": "tempore.ordinary-time.week-23.friday",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Feria VI hebd. XXIII",
+    "es": "Viernes 23ª semana",
+    "en-US": "Friday of the Xxiii Week in Ordinary Time",
+    "pt-BR": "Sexta-feira da Xxiii Semana do Tempo Comum",
+    "it": "VENERDI della XXIII settimana del Tempo Ordinario",
+    "fr": "Vendredi de la 23e semaine",
+    "de": "23. Woche im Jahreskreis FREITAG"
+  },
+  "season": "ordinary-time",
+  "color": "green",
+  "rank": "weekday",
+  "cycleScheme": "weekday",
+  "includeGloria": false,
+  "inheritsOrationsFrom": "tempore.ordinary-time.week-23.sunday",
+  "readings": {
+    "I": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "1 Tim 1, 1-2. 12-14",
+              "es": "1 Tim 1, 1-2.12-14",
+              "en-US": "1 Tim 1:1-2.12-14",
+              "pt-BR": "1 Tim 1, 1-2.12-14",
+              "it": "1 Tm 1,1-2.12-14",
+              "fr": "1 Tm 1, 1-2.12-14",
+              "de": "1 Tim 1, 1-2. 12-14"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ primæ beáti Pauli apóstoli ad Timótheum",
+              "es": "Comienzo de la primera carta del apóstol san Pablo a Timoteo",
+              "en-US": "A reading from the first Letter of Saint Paul to Timothy",
+              "pt-BR": "Leitura da Primeira Carta de São Paulo a Timóteo",
+              "it": "Dalla prima lettera di san Paolo apostolo a Timoteo",
+              "fr": "Première lettre de saint Paul Apôtre à Timothée",
+              "de": "Lesung aus dem ersten Brief des Apostels Paulus an Timótheus"
+            },
+            "summary": {
+              "la": "Prius fui blasphemus, sed misericórdiam consecutus sum",
+              "es": "Antes era un blasfemo, pero Dios tuvo compasión de mí",
+              "pt-BR": "Eu, que antes blasfemava, encontrei misericórdia.",
+              "it": "Prima ero un bestemmiatore, ma mi è stata usata misericordia."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Paulus, apóstolus Christi Iesu secúndum præcéptum Dei salvatóris nostri et Christi Iesu spei nostræ, Timótheo germáno fílio in fide: grátia, misericórdia, pax a Deo Patre et Christo Iesu Dómino nostro. Grátiam hábeo ei, qui me confortávit, Christo Iesu Dómino nostro, quia fidélem me existimávit ponens in ministério, qui prius fui blasphémus et persecútor et contumeliósus; sed misericórdiam consecútus sum, quia ignórans feci in incredulitáte; superabundávit autem grátia Dómini nostri cum fide et dilectióne, quæ sunt in Christo Iesu."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pablo, apóstol de Cristo Jesús por mandato de Dios, Salvador nuestro, y de Cristo Jesús, esperanza nuestra, a Timoteo, verdadero hijo en la fe: gracia, misericordia y paz de parte de Dios Padre y de Cristo Jesús, Señor nuestro. Doy gracias a Cristo Jesús, Señor nuestro, que me hizo capaz, se fio de mí y me confió este ministerio, a mí, que antes era un blasfemo, un perseguidor y un insolente. Pero Dios tuvo compasión de mí porque no sabía lo que hacía, pues estaba lejos de la fe; sin embargo, la gracia de nuestro Señor sobreabundó en mí junto con la fe y el amor que tienen su fundamento en Cristo Jesús."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "From Paul, apostle of Christ Jesus appointed by the command of God our saviour and of Christ Jesus our hope, to Timothy, true child of mine in the faith; wishing you grace, mercy and peace from God the Father and from Christ Jesus our Lord. I thank Christ Jesus our Lord, who has given me strength, and who judged me faithful enough to call me into his service even though I used to be a blasphemer and did all I could to injure and discredit the faith. Mercy, however, was shown me, because until I became a believer I had been acting in ignorance; and the grace of our Lord filled me with faith and with the love that is in Christ Jesus."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Paulo, apóstolo de Cristo Jesus, por ordem de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança, a Timóteo, verdadeiro filho na fé: a graça, a misericórdia e a paz de Deus Pai e de Cristo Jesus, nosso Senhor. Agradeço àquele que me deu força, Cristo Jesus, nosso Senhor, pela confiança que teve em mim ao designar-me para o seu serviço, a mim, que antes blasfemava, perseguia e insultava. Mas encontrei misericórdia, porque agia com a ignorância de quem não tem fé. Transbordou a graça de nosso Senhor com a fé e o amor que há em Cristo Jesus."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Paolo, apostolo di Cristo Gesù per comando di Dio nostro salvatore e di Cristo Gesù nostra speranza, a Timoteo, vero figlio mio nella fede: grazia, misericordia e pace da Dio Padre e da Cristo Gesù Signore nostro. Rendo grazie a colui che mi ha reso forte, Cristo Gesù Signore nostro, perché mi ha giudicato degno di fiducia mettendo al suo servizio me, che prima ero un bestemmiatore, un persecutore e un violento. Ma mi è stata usata misericordia, perché agivo per ignoranza, lontano dalla fede, e così la grazia del Signore nostro ha sovrabbondato insieme alla fede e alla carità che è in Cristo Gesù."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "PAUL, APÔTRE du Christ Jésus par ordre de Dieu notre Sauveur et du Christ Jésus notre espérance, à Timothée, mon véritable enfant dans la foi. À toi, la grâce, la miséricorde et la paix de la part de Dieu le Père et du Christ Jésus notre Seigneur. Je suis plein de gratitude envers celui qui me donne la force, le Christ Jésus notre Seigneur, car il m’a estimé digne de confiance lorsqu’il m’a chargé du ministère, moi qui étais autrefois blasphémateur, persécuteur, violent. Mais il m’a été fait miséricorde, car j’avais agi par ignorance, n’ayant pas encore la foi ; la grâce de notre Seigneur a été encore plus abondante, avec la foi, et avec l’amour qui est dans le Christ Jésus."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Paulus, Apostel Christi Jesu durch den Auftrag Gottes, unseres Retters, und Christi Jesu, unserer Hoffnung, an Timótheus, seinen echten Sohn durch den Glauben. Gnade, Erbarmen und Friede von Gott, dem Vater, und Christus Jesus, unserem Herrn. Ich danke dem, der mir Kraft gegeben hat: Christus Jesus, unserem Herrn. Er hat mich für treu gehalten und in seinen Dienst genommen, obwohl ich ihn früher lästerte, verfolgte und verhöhnte. Aber ich habe Erbarmen gefunden, denn ich wusste in meinem Unglauben nicht, was ich tat. So übergroß war die Gnade unseres Herrn, die mir in Christus Jesus den Glauben und die Liebe schenkte."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 15, 1-2a et 5. 7-8. 11",
+              "es": "Sal 15, 1-2a et 5. 7-8. 11",
+              "en-US": "Ps 15:1-2a and 5, 7-8, 11",
+              "pt-BR": "Sl 15, 1-2a et 5. 7-8. 11",
+              "it": "Sal 15, 1-2a et 5. 7-8. 11",
+              "fr": "Ps 15, 1-2a et 5. 7-8. 11",
+              "de": "Ps 16"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Tu es, Dómine, pars hereditátis meæ."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Tú eres, Señor, el lote de mi heredad."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "You are my inheritance, O Lord."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "O Senhor é a porção da minha herança."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Tu sei, Signore, mia parte di eredità."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Seigneur, mon partage et ma coupe !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Du, Herr, bist mein Anteil und Erbe."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Consérva me, Deus, quóniam sperávi in te."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dixi Dómino: «Dóminus meus es tu»."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dóminus pars hereditátis meæ et cálicis mei:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tu es qui détines sortem meam."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Benedícam Dóminum qui tríbuit mihi intelléctum;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ínsuper et in nóctibus erudiérunt me renes mei."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Proponébam Dóminum in conspéctu meo semper,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quóniam a dextris est mihi, non commovébor."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Notas mihi fácies vias vitæ,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "plenitúdinem lætítiæ cum vultu tuo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "delectatiónes in déxtera tua usque in finem."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Protégeme, Dios mío, que me refugio en ti."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Yo digo al Señor: «Tú eres mi Dios»."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "El Señor es el lote de mi heredad y mi copa,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mi suerte está en tu mano."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Bendeciré al Señor que me aconseja,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "hasta de noche me instruye internamente."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tengo siempre presente al Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "con él a mi derecha no vacilaré."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Me enseñarás el sendero de la vida,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "me saciarás de gozo en tu presencia,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de alegría perpetua a tu derecha."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Preserve me, God, I take refuge in you. I say to the Lord: 'You are my God.' O Lord, it is your who are my portion and cup; it is you yourself who are my prize."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I will bless the Lord who gives me counsel, who even at night directs my heart. I keep the Lord ever in my sight: since he is at my right hand, I shall stand firm."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "You will show me the path of life, the fullness of joy in your presence, at your right hand happiness for ever."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Guardai-me, ó Deus, porque em vós me refugio!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Digo ao Senhor: \"Somente vós sois meu Senhor."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ó Senhor, sois minha herança e minha taça,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "meu destino está seguro em vossas mãos!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Eu bendigo o Senhor, que me aconselha,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e até de noite me adverte o coração."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tenho sempre o Senhor ante meus olhos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "pois se o tenho a meu lado não vacilo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vós me ensinais vosso caminho para a vida;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "junto a vós, felicidade sem limites,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "delícia eterna e alegria ao vosso lado!"
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Proteggimi, o Dio: in te mi rifugio."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ho detto al Signore: «Il mio Signore sei tu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "solo in te è il mio bene»."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il Signore è mia parte di eredità e mio calice:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "nelle tue mani è la mia vita."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Benedico il Signore che mi ha dato consiglio;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "anche di notte il mio animo mi istruisce."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Io pongo sempre davanti a me il Signore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sta alla mia destra, non potrò vacillare."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mi indicherai il sentiero della vita,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "gioia piena alla tua presenza,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dolcezza senza fine alla tua destra."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Garde-moi, mon Dieu : j’ai fait de toi mon refuge."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "J’ai dit au Seigneur : « Tu es mon Dieu !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Seigneur, mon partage et ma coupe :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "de toi dépend mon sort. »"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Je bénis le Seigneur qui me conseille :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "même la nuit mon cœur m’avertit."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Je garde le Seigneur devant moi sans relâche ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il est à ma droite : je suis inébranlable."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tu m’apprends le chemin de la vie :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "devant ta face, débordement de joie !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "À ta droite, éternité de délices !"
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Behüte mich, Gott, denn ich vertraue dir."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich sage zum Herrn: „Du bist mein Herr;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mein ganzes Glück bist du allein.“ Du, Herr, gibst mir das Erbe und reichst mir den Becher;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "du hältst mein Los in deinen Händen."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich preise den Herrn, der mich beraten hat."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Auch mahnt mich mein Herz in der Nacht."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ich habe den Herrn beständig vor Augen."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er steht mir zur Rechten, ich wanke nicht."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Darum freut sich mein Herz und frohlockt meine Seele;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "auch mein Leib wird wohnen in Sicherheit."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Du zeigst mir den Pfad zum Leben."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Vor deinem Angesicht herrscht Freude in Fülle,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "zu deiner Rechten Wonne für alle Zeit."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Sermo tuus, Dómine, véritas est; sanctífica nos in veritáte."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tu palabra, Señor, es verdad; santifícanos en la verdad."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Your word, O Lord, is truth; make us holy in the truth."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Vossa palavra é a verdade; santificai-nos na verdade!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "La tua parola, Signore, è verità; consacraci nella verità."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ta parole, Seigneur, est vérité ; dans cette vérité, sanctifie-nous."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Dein Wort, o Herr, ist Wahrheit; heilige uns in der Wahrheit!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Cf. Io 17, 17b. a",
+              "es": "Cf. Jn 17, 17b. a",
+              "pt-BR": "Cf. Jo 17, 17b. a",
+              "it": "Cfr. Gv 17,17b",
+              "fr": "Cf. Io 17, 17b. a",
+              "de": "vgl. Joh 17, 17"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 6, 39-42",
+              "es": "Lc 6, 39-42",
+              "en-US": "Lk 6:39-42",
+              "pt-BR": "Lc 6, 39-42",
+              "it": "Lc 6, 39-42",
+              "fr": "Lc 6, 39-42",
+              "de": "Lk 6, 39-42"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Numquid potest cæcus cæcum ducere?",
+              "es": "¿Acaso puede un ciego guiar a otro ciego?",
+              "pt-BR": "Pode um cego guiar outro cego?",
+              "it": "Può forse un cieco guidare un altro cieco?"
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dixit Iesus discípulis similitúdinem: «Numquid potest cæcus cæcum dúcere? Nonne ambo in fóveam cadent? Non est discípulus super magístrum; perféctus autem omnis erit sicut magíster eius. Quid autem vides festúcam in óculo fratris tui, trabem autem, quæ in óculo tuo est, non consíderas? Quómodo potes dícere fratri tuo: «Frater, sine eíciam festúcam, quæ est in óculo tuo», ipse in óculo tuo trabem non videns? Hypócrita, éice primum trabem de óculo tuo et tunc perspícies, ut edúcas festúcam, quæ est in óculo fratris tui»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, dijo Jesús a los discípulos una parábola: «¿Acaso puede un ciego guiar a otro ciego? ¿No caerán los dos en el hoyo? No está el discípulo sobre su maestro, si bien, cuando termine su aprendizaje, será como su maestro. ¿Por qué te fijas en la mota que tiene tu hermano en el ojo y no reparas en la viga que llevas en el tuyo? ¿Cómo puedes decirle a tu hermano: “Hermano, déjame que te saque la mota del ojo”, sin fijarte en la viga que llevas en el tuyo? ¡Hipócrita! Sácate primero la viga de tu ojo, y entonces verás claro para sacar la mota del ojo de tu hermano»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jesus told a parable to the disciples, 'Can one blind man guide another? Surely both will fall into a pit? The disciple is not superior to his teacher; the fully trained disciple will always be like his teacher. Why do you observe the splinter in your brother's eye and never notice the plank in your own? How can you say to your brother, \"Brother, let me take out the splinter that is in your eye\", when you cannot see the plank in your own? Hypocrite! Take the plank out of your own eye first, and then you will see clearly enough to take out the splinter that is in your brother's eye."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, Jesus contou uma parábola aos discípulos: \"Pode um cego guiar outro cego? Não cairão os dois num buraco? Um discípulo não é maior do que o mestre; todo discípulo bem formado será como o mestre. Por que vês tu o cisco no olho do teu irmão, e não percebes a trave que há no teu próprio olho? Como podes dizer a teu irmão: Irmão, deixa-me tirar o cisco do teu olho, quando tu não vês a trave no teu próprio olho? Hipócrita! Tira primeiro a trave do teu olho, e então poderás enxergar bem para tirar o cisco do olho do teu irmão."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù disse ai suoi discepoli una parabola: «Può forse un cieco guidare un altro cieco? Non cadranno tutti e due in un fosso? Un discepolo non è più del maestro; ma ognuno, che sia ben preparato, sarà come il suo maestro. Perché guardi la pagliuzza che è nell’occhio del tuo fratello e non ti accorgi della trave che è nel tuo occhio? Come puoi dire al tuo fratello: “Fratello, lascia che tolga la pagliuzza che è nel tuo occhio”, mentre tu stesso non vedi la trave che è nel tuo occhio? Ipocrita! Togli prima la trave dal tuo occhio e allora ci vedrai bene per togliere la pagliuzza dall’occhio del tuo fratello»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait à ses disciples en parabole : « Un aveugle peut-il guider un autre aveugle ? Ne vont-ils pas tomber tous les deux dans un trou ? Le disciple n’est pas au-dessus du maître ; mais une fois bien formé, chacun sera comme son maître. Qu’as-tu à regarder la paille dans l'œil de ton frère, alors que la poutre qui est dans ton œil à toi, tu ne la remarques pas ? Comment peux-tu dire à ton frère : »Frère, laisse-moi enlever la paille qui est dans ton œil«, alors que toi-même ne vois pas la poutre qui est dans le tien ? Hypocrite ! Enlève d’abord la poutre de ton œil ; alors tu verras clair pour enlever la paille qui est dans l'œil de ton frère. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sprach Jesus zu seinen Jüngern: Kann ein Blinder einen Blinden führen? Werden nicht beide in eine Grube fallen? Der Jünger steht nicht über seinem Meister; jeder aber, der alles gelernt hat, wird wie sein Meister sein. Warum siehst du den Splitter im Auge deines Bruders, aber den Balken in deinem eigenen Auge bemerkst du nicht? Wie kannst du zu deinem Bruder sagen: Bruder, lass mich den Splitter aus deinem Auge herausziehen!, während du den Balken in deinem eigenen Auge nicht siehst? Du Heuchler! Zieh zuerst den Balken aus deinem Auge; dann kannst du versuchen, den Splitter aus dem Auge deines Bruders herauszuziehen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    },
+    "II": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "1 Cor 9, 16-19. 22b-27",
+              "es": "1 Cor 9, 16-19.22b-27",
+              "en-US": "1 Cor 9:16-19.22-27",
+              "pt-BR": "1 Cor 9, 16-19.22b-27",
+              "it": "1 Cor 9,16-19.22-27",
+              "fr": "1 Co 9, 16-19.22b-27",
+              "de": "1 Kor 9, 16-19. 22b-27"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios",
+              "es": "Lectura de la primera carta del apóstol san Pablo a los Corintios",
+              "en-US": "A reading from the first Letter of Saint Paul to the Corinthians",
+              "pt-BR": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+              "it": "Dalla prima lettera di san Paolo apostolo ai Corinzi",
+              "fr": "Première lettre de saint Paul Apôtre aux Corinthiens",
+              "de": "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+            },
+            "summary": {
+              "la": "Omnibus ómnia factus sum, ut aliquos facerem salvos",
+              "es": "Me he hecho todo para todos, para ganar a algunos",
+              "pt-BR": "Com todos, eu me fiz tudo, para certamente salvar alguns.",
+              "it": "Mi sono fatto tutto per tutti, per salvare a ogni costo qualcuno."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratres: Si evangelizávero, non est mihi glória; necéssitas enim mihi incúmbit. Væ enim mihi est, si non evangelizávero! Si enim volens hoc ago, mercédem hábeo; si autem invítus, dispensátio mihi crédita est. Quæ est ergo merces mea? Ut Evangélium prǽdicans sine sumptu ponam Evangélium, ut non abútar potestáte mea in Evangélio. Nam cum liber essem ex ómnibus, ómnium me servum feci, ut plures lucri fácerem. Omnibus ómnia factus sum, ut áliquos útique fácerem salvos. Omnia autem fácio propter Evangélium, ut compárticeps eius effíciar. Nescítis quod hi, qui in stádio currunt, omnes quidem currunt, sed unus áccipit bravíum? Sic cúrrite, ut comprehendátis. Omnis autem, qui in agóne conténdit, ab ómnibus se ábstinet; et illi quidem, ut corruptíbilem corónam accípiant, nos autem incorrúptam. Ego ígitur sic curro non quasi in incértum, sic pugno non quasi ærem vérberans; sed castígo corpus meum et in servitútem rédigo, ne forte, cum áliis prædicáverim, ipse réprobus effíciar."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hermanos: El hecho de predicar no es para mí motivo de orgullo. No tengo más remedio y, ¡ay de mí si no anuncio el Evangelio! Si yo lo hiciera por mi propio gusto, eso mismo sería mi paga. Pero, si lo hago a pesar mío, es que me han encargado este oficio. Entonces, ¿cuál es la paga? Precisamente dar a conocer el Evangelio, anunciándolo de balde, sin usar el derecho que me da la predicación del Evangelio. Porque, siendo libre como soy, me he hecho esclavo de todos para ganar a los más posibles. Me he hecho todo para todos, para ganar, sea como sea, a algunos. Y todo lo hago por causa del Evangelio, para participar yo también de sus bienes. ¿No sabéis que en el estadio todos los corredores cubren la carrera, aunque uno solo se lleva el premio? Pues corred así: para ganar. Pero un atleta se impone toda clase de privaciones; ellos para ganar una corona que se marchita; nosotros, en cambio, una que no se marchita. Por eso corro yo, pero no al azar; lucho, pero no contra el aire; sino que golpeo mi cuerpo y lo someto, no sea que, habiendo predicado a otros, quede yo descalificado."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "I do not boast of preaching the gospel, since it is a duty which has been laid on me; I should be punished if I did not preach it! If I had chosen this work myself, I might have been paid for it, but as I have not, it is a responsibility which has been put into my hands. Do you know what my reward is? It is this in my preaching, to be able to offer the Good News free, and not insist on the rights which the gospel gives me. So though I am not a slave of any man I have made myself the slave of everyone so as to win as many as I could. I made myself all things to all men in order to save some at any cost; and I still do this, for the sake of the gospel, to have a share in its blessings. All the runners at the stadium are trying to win, but only one of them gets the prize. You must run in the same way, meaning to win. All the fighters at the games go into strict training; they do this just to win a wreath that will wither away, but we do it for a wreath that will never wither. That is how I run, intent on winning; that is how I fight, not beating the air. I treat my body hard and make it obey me, for, having been an announcer myself, I should not want to be disqualified."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Irmãos, pregar o evangelho não é para mim motivo de glória. É antes uma necessidade para mim, uma imposição. Ai de mim se eu não pregar o evangelho! Se eu exercesse minha função de pregador por iniciativa própria, eu teria direito a salário. Mas, como a iniciativa não é minha, trata-se de um encargo que me foi confiado. Em que consiste então o meu salário? Em pregar o evangelho, oferecendo-o de graça, sem usar os direitos que o evangelho me dá. Assim, livre em relação a todos, eu me tornei escravo de todos, a fim de ganhar o maior número possível. Com todos, eu me fiz tudo, para certamente salvar alguns. Por causa do evangelho eu faço tudo, para ter parte nele. Acaso não sabeis que os que correm no estádio correm todos juntos, mas um só ganha o prêmio? Correi de tal maneira que conquisteis o prêmio. Todo atleta se sujeita a uma disciplina rigorosa em relação a tudo, e eles procedem assim, para receberem uma coroa corruptível. Quanto a nós, a coroa que buscamos é incorruptível! Por isso, eu corro, mas não à toa. Eu luto, mas não como quem dá murros no ar. Trato duramente o meu corpo e o subjugo, para não acontecer que, depois de ter proclamado a boa nova aos outros, eu mesmo seja reprovado."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fratelli, annunciare il Vangelo non è per me un vanto, perché è una necessità che mi si impone: guai a me se non annuncio il Vangelo! Se lo faccio di mia iniziativa, ho diritto alla ricompensa; ma se non lo faccio di mia iniziativa, è un incarico che mi è stato affidato. Qual è dunque la mia ricompensa? Quella di annunciare gratuitamente il Vangelo senza usare il diritto conferitomi dal Vangelo. Infatti, pur essendo libero da tutti, mi sono fatto servo di tutti per guadagnarne il maggior numero; mi sono fatto tutto per tutti, per salvare a ogni costo qualcuno. Ma tutto io faccio per il Vangelo, per diventarne partecipe anch’io. Non sapete che, nelle corse allo stadio, tutti corrono, ma uno solo conquista il premio? Correte anche voi in modo da conquistarlo! Però ogni atleta è disciplinato in tutto; essi lo fanno per ottenere una corona che appassisce, noi invece una che dura per sempre. Io dunque corro, ma non come chi è senza mèta; faccio pugilato, ma non come chi batte l’aria; anzi tratto duramente il mio corpo e lo riduco in schiavitù, perché non succeda che, dopo avere predicato agli altri, io stesso venga squalificato."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Frères, annoncer l’Évangile, ce n’est pas là pour moi un motif de fierté, c’est une nécessité qui s’impose à moi. Malheur à moi si je n’annonçais pas l’Évangile ! Certes, si je le fais de moi-même, je mérite une récompense. Mais je ne le fais pas de moi-même, c’est une mission qui m’est confiée. Alors quel est mon mérite ? C’est d’annoncer l’Évangile sans rechercher aucun avantage matériel, et sans faire valoir mes droits de prédicateur de l’Évangile. Oui, libre à l’égard de tous, je me suis fait l’esclave de tous afin d’en gagner le plus grand nombre possible. Avec les faibles, j’ai été faible, pour gagner les faibles. Je me suis fait tout à tous pour en sauver à tout prix quelques-uns. Et tout cela, je le fais à cause de l’Évangile, pour y avoir part, moi aussi. Vous savez bien que, dans le stade, tous les coureurs participent à la course, mais un seul reçoit le prix. Alors, vous, courez de manière à l’emporter. Tous les athlètes à l’entraînement s’imposent une discipline sévère ; ils le font pour recevoir une couronne de laurier qui va se faner, et nous, pour une couronne qui ne se fane pas. Moi, si je cours, ce n’est pas sans fixer le but ; si je fais de la lutte, ce n’est pas en frappant dans le vide. Mais je traite durement mon corps, j’en fais mon esclave, pour éviter qu’après avoir proclamé l’Évangile à d’autres, je sois moi-même disqualifié."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Brüder! Wenn ich das Evangelium verkünde, kann ich mich deswegen nicht rühmen; denn ein Zwang liegt auf mir. Weh mir, wenn ich das Evangelium nicht verkünde! Wäre es mein freier Entschluss, so erhielte ich Lohn. Wenn es mir aber nicht frei steht, so ist es ein Auftrag, der mir anvertraut wurde. Was ist nun mein Lohn? Dass ich das Evangelium unentgeltlich verkünde und so auf mein Recht verzichte. Da ich also von niemand abhängig war, habe ich mich für alle zum Sklaven gemacht, um möglichst viele zu gewinnen. Allen bin ich alles geworden, um auf jeden Fall einige zu retten. Alles aber tue ich um des Evangeliums willen, um an seiner Verheißung teilzuhaben. Wisst ihr nicht, dass die Läufer im Stadion zwar alle laufen, aber dass nur einer den Siegespreis gewinnt? Lauft so, dass ihr ihn gewinnt. Jeder Wettkämpfer lebt aber völlig enthaltsam; jene tun dies, um einen vergänglichen, wir aber, um einen unvergänglichen Siegeskranz zu gewinnen. Darum laufe ich nicht wie einer, der ziellos läuft, und kämpfe mit der Faust nicht wie einer, der in die Luft schlägt; vielmehr züchtige und unterwerfe ich meinen Leib, damit ich nicht anderen predige und selbst verworfen werde."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 83, 3. 4. 5-6. 12",
+              "es": "Sal 83, 3. 4. 5-6. 12",
+              "en-US": "Ps 83:3, 4, 5-6, 12",
+              "pt-BR": "Sl 83, 3. 4. 5-6. 12",
+              "it": "Sal 83, 3. 4. 5-6. 12",
+              "fr": "Ps 83, 3. 4. 5-6. 12",
+              "de": "Ps 84"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Quam dilécta tabernácula tua, Dómine virtútum!"
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "¡Qué deseables son tus moradas,"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": "Señor del universo!"
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "How lovely is your dwelling place, Lord, mighty God!"
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Quão amável, ó Senhor, é vossa casa!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Quanto sono amabili le tue dimore, Signore!"
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "De quel amour sont aimées tes demeures, Seigneur,"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": "Dieu de l’univers !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Wie lieb ist mir deine Wohnung, o Herr!"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Concupíscit et déficit ánima mea in átria Dómini."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cor meum et caro mea exsultavérunt in Deum vivum."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Etenim passer invénit sibi domum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et turtur nidum sibi, ubi ponat pullos suos:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "altária tua, Dómine virtútum, rex meus et Deus meus."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beáti qui hábitant in domo tua,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "in perpétuum laudábunt te."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beátus vir cuius est auxílium abs te,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ascensiónes in corde suo dispósuit."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quia sol et scutum est Dóminus Deus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "grátiam et glóriam dabit Dóminus;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "non privábit bonis eos qui ámbulant in innocéntia."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mi alma se consume y anhela los atrios del Señor,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mi corazón y mi carne retozan por el Dios vivo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hasta el gorrión ha encontrado una casa;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la golondrina, un nido donde colocar sus polluelos:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tus altares, Señor del universo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Rey mío y Dios mío."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dichosos los que viven en tu casa,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "alabándote siempre."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dichoso el que encuentra en ti su fuerza y tiene tus caminos en su corazón."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Porque el Señor Dios es sol y escudo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "el Señor da la gracia y la gloria;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "y no niega sus bienes a los de conducta intachable."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "My soul is longing and yearning, is yearning for the courts of the Lord. My heart and my soul ring out their joy to God, the living God."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The sparrow herself finds a home and the swallow a nest for her brood; she lays her young by your altars, Lord of hosts, my king and my God."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "They are happy, who dwell in your house, for ever singing your praise. They are happy, whose strength is in you, in whose hearts are the roads to Zion."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "For the Lord God is a rampart, a shield; he will give us his favour and glory."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "The Lord will not refuse any good to those who walk without blame."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Minha alma desfalece de saudades e anseia pelos átrios do Senhor!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Meu coração e minha carne rejubilam e exultam de alegria no Deus vivo!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mesmo o pardal encontra abrigo em vossa casa,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e a andorinha ali prepara o seu ninho,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "para nele seus filhotes colocar:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vossos altares, ó Senhor Deus do universo!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vossos altares, ó meu Rei e meu Senhor!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Felizes os que habitam vossa casa;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "para sempre haverão de vos louvar!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Felizes os que em vós têm sua força,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e se decidem a partir quais peregrinos!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Senhor Deus é como um sol, é um escudo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e largamente distribui a graça e a glória."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "O Senhor nunca recusa bem algum àqueles que caminham na justiça."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’anima mia anela e desidera gli atri del Signore."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il mio cuore e la mia carne esultano nel Dio vivente."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Anche il passero trova una casa e la rondine il nido dove porre i suoi piccoli,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "presso i tuoi altari, Signore degli eserciti,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mio re e mio Dio."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beato chi abita nella tua casa:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "senza fine canta le tue lodi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Beato l’uomo che trova in te il suo rifugio e ha le tue vie nel suo cuore."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Perché sole e scudo è il Signore Dio;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il Signore concede grazia e gloria,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "non rifiuta il bene a chi cammina nell’integrità."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mon âme s’épuise à désirer les parvis du Seigneur ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mon cœur et ma chair sont un cri vers le Dieu vivant !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "L’oiseau lui-même s’est trouvé une maison,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et l’hirondelle, un nid pour abriter sa couvée :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tes autels, Seigneur de l’univers,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mon Roi et mon Dieu !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Heureux les habitants de ta maison :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ils pourront te chanter encore !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Heureux les hommes dont tu es la force :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "des chemins s’ouvrent dans leur cœur !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le Seigneur Dieu est un soleil, il est un bouclier ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le Seigneur donne la grâce, il donne la gloire."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jamais il ne refuse le bonheur à ceux qui vont sans reproche."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Meine Seele verzehrt sich in Sehnsucht nach dem Tempel des Herrn."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mein Herz und mein Leib jauchzen ihm zu,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihm, dem lebendigen Gott."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Auch der Sperling findet ein Haus und die Schwalbe ein Nest für ihre Jungen deine Altäre, Herr der Heerscharen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "mein Gott und mein König."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wohl denen, die wohnen in deinem Haus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "die dich allezeit loben."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Wohl den Menschen, die Kraft finden in dir,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wenn sie sich zur Wallfahrt rüsten."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Denn Gott der Herr ist Sonne und Schild."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er schenkt Gnade und Herrlichkeit;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "der Herr versagt denen, die rechtschaffen sind, keine Gabe."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Herr der Heerscharen, wohl dem, der dir vertraut!"
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Sermo tuus, Dómine, véritas est; sanctífica nos in veritáte."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tu palabra, Señor, es verdad; santifícanos en la verdad."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Your word, O Lord, is truth; make us holy in the truth."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Vossa palavra é a verdade; santificai-nos na verdade!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "La tua parola, Signore, è verità; consacraci nella verità."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ta parole, Seigneur, est vérité ; dans cette vérité, sanctifie-nous."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Dein Wort, o Herr, ist Wahrheit; heilige uns in der Wahrheit!"
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Cf. Io 17, 17b. a",
+              "es": "Cf. Jn 17, 17b. a",
+              "pt-BR": "Cf. Jo 17, 17b. a",
+              "it": "Cfr. Gv 17,17b",
+              "fr": "Cf. Io 17, 17b. a",
+              "de": "vgl. Joh 17, 17"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Lc 6, 39-42",
+              "es": "Lc 6, 39-42",
+              "en-US": "Lk 6:39-42",
+              "pt-BR": "Lc 6, 39-42",
+              "it": "Lc 6, 39-42",
+              "fr": "Lc 6, 39-42",
+              "de": "Lk 6, 39-42"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+              "es": "✠ Lectura del santo Evangelio según san Lucas",
+              "en-US": "✠ A reading from the holy Gospel according to Luke",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "it": "✠ Dal vangelo secondo Luca",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+              "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+            },
+            "summary": {
+              "la": "Numquid potest cæcus cæcum ducere?",
+              "es": "¿Acaso puede un ciego guiar a otro ciego?",
+              "pt-BR": "Pode um cego guiar outro cego?",
+              "it": "Può forse un cieco guidare un altro cieco?"
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In illo témpore: Dixit Iesus discípulis similitúdinem: «Numquid potest cæcus cæcum dúcere? Nonne ambo in fóveam cadent? Non est discípulus super magístrum; perféctus autem omnis erit sicut magíster eius. Quid autem vides festúcam in óculo fratris tui, trabem autem, quæ in óculo tuo est, non consíderas? Quómodo potes dícere fratri tuo: «Frater, sine eíciam festúcam, quæ est in óculo tuo», ipse in óculo tuo trabem non videns? Hypócrita, éice primum trabem de óculo tuo et tunc perspícies, ut edúcas festúcam, quæ est in óculo fratris tui»."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En aquel tiempo, dijo Jesús a los discípulos una parábola: «¿Acaso puede un ciego guiar a otro ciego? ¿No caerán los dos en el hoyo? No está el discípulo sobre su maestro, si bien, cuando termine su aprendizaje, será como su maestro. ¿Por qué te fijas en la mota que tiene tu hermano en el ojo y no reparas en la viga que llevas en el tuyo? ¿Cómo puedes decirle a tu hermano: “Hermano, déjame que te saque la mota del ojo”, sin fijarte en la viga que llevas en el tuyo? ¡Hipócrita! Sácate primero la viga de tu ojo, y entonces verás claro para sacar la mota del ojo de tu hermano»."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jesus told a parable to the disciples, 'Can one blind man guide another? Surely both will fall into a pit? The disciple is not superior to his teacher; the fully trained disciple will always be like his teacher. Why do you observe the splinter in your brother's eye and never notice the plank in your own? How can you say to your brother, \"Brother, let me take out the splinter that is in your eye\", when you cannot see the plank in your own? Hypocrite! Take the plank out of your own eye first, and then you will see clearly enough to take out the splinter that is in your brother's eye."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Naquele tempo, Jesus contou uma parábola aos discípulos: \"Pode um cego guiar outro cego? Não cairão os dois num buraco? Um discípulo não é maior do que o mestre; todo discípulo bem formado será como o mestre. Por que vês tu o cisco no olho do teu irmão, e não percebes a trave que há no teu próprio olho? Como podes dizer a teu irmão: Irmão, deixa-me tirar o cisco do teu olho, quando tu não vês a trave no teu próprio olho? Hipócrita! Tira primeiro a trave do teu olho, e então poderás enxergar bem para tirar o cisco do olho do teu irmão."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In quel tempo, Gesù disse ai suoi discepoli una parabola: «Può forse un cieco guidare un altro cieco? Non cadranno tutti e due in un fosso? Un discepolo non è più del maestro; ma ognuno, che sia ben preparato, sarà come il suo maestro. Perché guardi la pagliuzza che è nell’occhio del tuo fratello e non ti accorgi della trave che è nel tuo occhio? Come puoi dire al tuo fratello: “Fratello, lascia che tolga la pagliuzza che è nel tuo occhio”, mentre tu stesso non vedi la trave che è nel tuo occhio? Ipocrita! Togli prima la trave dal tuo occhio e allora ci vedrai bene per togliere la pagliuzza dall’occhio del tuo fratello»."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En ce temps-là, Jésus disait à ses disciples en parabole : « Un aveugle peut-il guider un autre aveugle ? Ne vont-ils pas tomber tous les deux dans un trou ? Le disciple n’est pas au-dessus du maître ; mais une fois bien formé, chacun sera comme son maître. Qu’as-tu à regarder la paille dans l'œil de ton frère, alors que la poutre qui est dans ton œil à toi, tu ne la remarques pas ? Comment peux-tu dire à ton frère : »Frère, laisse-moi enlever la paille qui est dans ton œil«, alors que toi-même ne vois pas la poutre qui est dans le tien ? Hypocrite ! Enlève d’abord la poutre de ton œil ; alors tu verras clair pour enlever la paille qui est dans l'œil de ton frère. »"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In jener Zeit sprach Jesus zu seinen Jüngern: Kann ein Blinder einen Blinden führen? Werden nicht beide in eine Grube fallen? Der Jünger steht nicht über seinem Meister; jeder aber, der alles gelernt hat, wird wie sein Meister sein. Warum siehst du den Splitter im Auge deines Bruders, aber den Balken in deinem eigenen Auge bemerkst du nicht? Wie kannst du zu deinem Bruder sagen: Bruder, lass mich den Splitter aus deinem Auge herausziehen!, während du den Balken in deinem eigenen Auge nicht siehst? Du Heuchler! Zieh zuerst den Balken aus deinem Auge; dann kannst du versuchen, den Splitter aus dem Auge deines Bruders herauszuziehen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

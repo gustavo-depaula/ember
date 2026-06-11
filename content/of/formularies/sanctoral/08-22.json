@@ -1,0 +1,1528 @@
+{
+  "id": "sanctorale.08-22",
+  "kind": "sanctoral",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "Beatæ Maríæ Virginis Reginæ",
+    "es": "Santa María Virgen, Reina",
+    "en-US": "The Queenship of the Blessed Virgin Mary",
+    "pt-BR": "Bem-aventurada Virgem Maria Rainha",
+    "it": "BEATA VERGINE MARIA REGINA",
+    "fr": "Bienheureuse Vierge Marie Reine",
+    "de": "Maria Königin"
+  },
+  "description": {
+    "pt-BR": "Esta memória, de origem devocional, foi instituída em 1955 por Pio XII. É celebrada poucos dias após a Solenidade da Assunção. Maria, participando da gloriosa realeza universal do Cristo, é proposta como modelo e sinal de esperança para os cristãos que, já revestidos da dignidade real do Senhor no Batismo, são chamados a reinar eternamente com ele.",
+    "it": "Fu in età medievale che si iniziò a invocare comunemente la Vergine Maria come Regina (Salve, Regina) e a raffigurarla incoronata dal Figlio, esprimendo così la sua piena partecipazione alla regalità universale di Cristo. In questa memoria liturgica, istituita da Pio XII nel 1955 e collocata, dopo la riforma seguita al Vaticano II, nella luce della solennità di Maria assunta al cielo, la Vergine è proposta come modello e segno di speranza per tutti i cristiani i quali, già rivestiti della dignità regale del Signore nel Battesimo, sono chiamati a regnare eternamente con lui."
+  },
+  "color": "white",
+  "rank": "memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Astitit Regína a dextris tuis in vestítu deauráto, circúmdata varietáte."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "At your right stands the queen in robes of gold, finely arrayed."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "A Rainha está à vossa direita com suas vestes de ouro,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ornada de esplendor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Alla tua destra è assisa la Regina, tessuto d’oro è il suo vestito."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "À ta droite, Seigneur, se tient la Reine,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "vêtue d’étoffes d’or."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui Fílii tui Genetrícem nostram constituísti Matrem atque Regínam,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concéde propítius, ut, ipsíus intercessióne suffúlti, tuórum in regno cælésti consequámur glóriam filiórum. Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que nos has entregado como Madre y como Reina a la Madre de tu Hijo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos por tu bondad que, ayudados por su intercesión,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "alcancemos la gloria de tus hijos en el reino de los cielos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who made the Mother of your Son to be our Mother and our Queen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "graciously grant that, sustained by her intercession, we may attain in the heavenly Kingdom the glory promised to your children."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fizestes a Mãe do vosso Filho nossa Mãe e Rainha;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos propício que,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "apoiados por sua intercessão,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "alcancemos no reino do céu a glória dos vossos filhos e filhas."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Padre, che ci hai dato come Madre e Regina la Vergine Maria, dalla quale nacque Cristo tuo Figlio, per sua intercessione concedi a noi la gloria promessa ai tuoi figli nel regno dei cieli. Per il nostro Signore Gesù Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as voulu que la Mère de ton Fils soit notre Mère et notre Reine ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fais que, soutenus par son intercession,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous obtenions dans le royaume des Cieux la gloire promise à tes enfants."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du hast die Mutter deines Sohnes auch uns zur Mutter gegeben. Wir ehren sie als unsere Königin und vertrauen auf ihre Fürsprache. Lass uns im himmlischen Reich an der Herrlichkeit deiner Kinder teilhaben. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "Is 9, 1-6",
+              "es": "Is 9, 1-3. 5-6",
+              "en-US": "Is 9:1-6",
+              "pt-BR": "Is 9, 1-3. 5-6",
+              "it": "Is 9, 1-6",
+              "fr": "Is 9, 1-6",
+              "de": "Jes 9, 1-6"
+            },
+            "introduction": {
+              "la": "Léctio libri Isaíæ prophétæ",
+              "es": "Lectura del libro de Isaías",
+              "en-US": "A reading from the book of Isaiah",
+              "pt-BR": "Leitura do Livro do Profeta Isaías",
+              "it": "Dal libro del profeta Isaia",
+              "fr": "Livre d’Isaïe",
+              "de": "Lesung aus dem Buch Jesája"
+            },
+            "summary": {
+              "la": "Fílius datus est nobis.",
+              "es": "Un hijo se nos ha dado",
+              "pt-BR": "Foi-nos dado um filho.",
+              "it": "Ci è stato dato un figlio."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pópulus, qui ambulábat in ténebris, vidit lucem magnam; habitántibus in regióne umbræ mortis lux orta est eis. Multiplicásti exsultatiónem et magnificásti lætítiam; lætántur coram te sicut lætántes in messe, sicut exsúltant, quando dívidunt spólia. Iugum enim óneris eius et virgam úmeri eius et sceptrum exactóris eius fregísti, sicut in die Mádian. Quia omnis cáliga incedéntis cum tumúltu et vestiméntum mixtum sánguine erit in combustiónem, cibus ignis. Párvulus enim natus est nobis, fílius datus est nobis; et factus est principátus super úmerum eius; et vocábitur nomen eius admirábilis Consiliárius, Deus fortis, Pater æternitátis, Princeps pacis. Magnum erit eius impérium, et pacis non erit finis super sólium David et super regnum eius, ut confírmet illud et corróboret in iudício et iustítia ámodo et usque in sempitérnum: zelus Dómini exercítuum fáciet hoc."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "El pueblo que caminaba en tinieblas vio una luz grande; habitaba en tierra y sombras de muerte, y una luz les brilló. Acreciste la alegría, aumentaste el gozo; se gozan en tu presencia, como gozan al segar, como se alegran al repartirse el botín. Porque la vara del opresor, el yugo de su carga, el bastón de su hombro, los quebrantaste como el día de Madián. Porque la bota que pisa con estrépito y la túnica empapada de sangre serán combustible, pasto del fuego. Porque un niño nos ha nacido, un hijo se nos ha dado: lleva a hombros el principado, y es su nombre: «Maravilla de Consejero, Dios fuerte, Padre de eternidad, Príncipe de la paz». Para dilatar el principado, con una paz sin límites, sobre el trono de David y sobre su reino. Para sostenerlo y consolidarlo con la justicia y el derecho, desde ahora y por siempre. El celo del Señor del universo lo realizará."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The people that walked in darkness has seen a great light; on those who live in a land of deep shadow a light has shone. You have made their gladness greater, you have made their joy increase; they rejoice in your presence as men rejoice at harvest time, as men are happy when they are dividing the spoils. For the yoke that was weighing on him, the bar across his shoulders, the rod of his oppressor, these you break as on the day of Midian. For all the footgear of battle, every cloak rolled in blood, is burnt, and consumed by fire. For there is a child born for us, a son given to us and dominion is laid on his shoulders; and this is the name they give him: Wonder-Counsellor, Mighty-God, Eternal-Father, Prince-of-Peace. Wide is his dominion in a peace that has no end, for the throne of David and for his royal power, which he establishes and makes secure in justice and integrity. From this time onwards and for ever, the jealous love of the Lord of hosts will do this."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O povo, que andava na escuridão, viu uma grande luz; para os que habitavam nas sombras da morte, uma luz resplandeceu. Fizeste crescer a alegria, e aumentaste a felicidade; todos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos. Pois o jugo que oprimia o povo, - a carga sobre os ombros, o orgulho dos fiscais - tu os abateste como na jornada de Madiã. Botas de tropa de assalto, trajes manchados de sangue, tudo será queimado e devorado pelas chamas. Porque nasceu para nós um menino, foi-nos dado um filho; ele traz aos ombros a marca da realeza; o nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz. Grande será o seu reino e a paz não há de ter fim sobre o trono de Davi e sobre o seu reinado, que ele irá consolidar e confirmar em justiça e santidade, a partir de agora e para todo o sempre. O amor zeloso do Senhor dos exércitos há de realizar estas coisas."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il popolo che camminava nelle tenebre ha visto una grande luce; su coloro che abitavano in terra tenebrosa una luce rifulse. Hai moltiplicato la gioia, hai aumentato la letizia. Gioiscono davanti a te come si gioisce quando si miete e come si esulta quando si divide la preda. Perché tu hai spezzato il giogo che l’opprimeva, la sbarra sulle sue spalle, e il bastone del suo aguzzino, come nel giorno di Madian. Perché ogni calzatura di soldato che marciava rimbombando e ogni mantello intriso di sangue saranno bruciati, dati in pasto al fuoco. Perché un bambino è nato per noi, ci è stato dato un figlio. Sulle sue spalle è il potere e il suo nome sarà: Consigliere mirabile, Dio potente, Padre per sempre, Principe della pace. Grande sarà il suo potere e la pace non avrà fine sul trono di Davide e sul suo regno, che egli viene a consolidare e rafforzare con il diritto e la giustizia, ora e per sempre. Questo farà lo zelo del Signore degli eserciti."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Le peuple qui marchait dans les ténèbres a vu se lever une grande lumière ; et sur les habitants du pays de l’ombre, une lumière a resplendi. Tu as prodigué la joie, tu as fait grandir l’allégresse : ils se réjouissent devant toi, comme on se réjouit de la moisson, comme on exulte au partage du butin. Car le joug qui pesait sur lui, la barre qui meurtrissait son épaule, le bâton du tyran, tu les as brisés comme au jour de Madiane. Et les bottes qui frappaient le sol, et les manteaux couverts de sang, les voilà tous brûlés : le feu les a dévorés. Oui, un enfant nous est né, un fils nous a été donné ! Sur son épaule est le signe du pouvoir ; son nom est proclamé : « Conseiller-merveilleux, Dieu-Fort, Père-à-jamais, Prince-de-la-Paix ». Et le pouvoir s’étendra, et la paix sera sans fin pour le trône de David et pour son règne qu’il établira, qu’il affermira sur le droit et la justice dès maintenant et pour toujours. Il fera cela, l’amour jaloux du Seigneur de l’univers !"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Das Volk, das im Dunkel lebt, sieht ein helles Licht; über denen, die im Land der Finsternis wohnen, strahlt ein Licht auf. Du erregst lauten Jubel und schenkst große Freude. Man freut sich in deiner Nähe, wie man sich freut bei der Ernte, wie man jubelt, wenn Beute verteilt wird. Denn wie am Tag von Midian zerbrichst du das drückende Joch, das Tragholz auf unserer Schulter und den Stock des Treibers. Jeder Stiefel, der dröhnend daherstampft, jeder Mantel, der mit Blut befleckt ist, wird verbrannt, wird ein Fraß des Feuers. Denn uns ist ein Kind geboren, ein Sohn ist uns geschenkt. Die Herrschaft liegt auf seiner Schulter; man nennt ihn: Wunderbarer Ratgeber, Starker Gott, Vater in Ewigkeit, Fürst des Friedens. Seine Herrschaft ist groß, und der Friede hat kein Ende. Auf dem Thron Davids herrscht er über sein Reich; er festigt und stützt es durch Recht und Gerechtigkeit, jetzt und für alle Zeiten. Der leidenschaftliche Eifer des Herrn der Heere wird das vollbringen."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Memóriam recoléntes beátæ Vírginis Maríæ, tibi, Dómine, múnera nostra offérimus, deprecántes, ut eius nobis succúrrat humánitas, qui tibi oblatiónem seípsum in cruce óbtulit immaculátam. Qui vivit et regnat in sǽcula sæculórum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Te presentamos, Señor, nuestras ofrendas en la memoria de la bienaventurada Virgen María,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y te pedimos que venga en nuestra ayuda aquel que se ofreció a sí mismo en la cruz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "como hostia inmaculada."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "As we observe this Memorial of the Blessed Virgin Mary, we bring you our offerings, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "praying to be given strength by the humanity of Christ, who offered himself to you on the Cross as the unblemished oblation."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "celebrando a memória da Santa Virgem Maria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nós vos trazemos estas oferendas;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "venha em nosso auxílio o vosso Filho feito homem,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que a vós se ofereceu na cruz como sacrifício sem mancha."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ti offriamo, o Padre, i nostri doni nella memoria della beata Vergine Maria e a te innalziamo la nostra supplica perché ci soccorra l’umanità del suo Figlio, che si offrì per noi Agnello senza macchia sulla croce. Egli vive e regna nei secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "En célébrant la mémoire de la bienheureuse Vierge Marie,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te présentons nos offrandes, Seigneur ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et nous t’en supplions :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que l’humanité de ton Fils vienne à notre secours,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "puisqu’il s’est livré sur la croix comme une offrande pure."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, am Fest der seligen Jungfrau Maria bringen wir unsere Gaben dar. Komm uns zu Hilfe durch deinen Sohn, der Mensch geworden ist und der sich für uns am Kreuz als makelloses Opfer dargebracht hat. Darum bitten wir durch ihn, Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf043",
+      "label": {
+        "la": "PRÆFATIO I DE BEATA MARIA VIRGINE",
+        "es": "PREFACIO I DE SANTA MARÍA VIRGEN",
+        "en-US": "Preface I of the Blessed Virgin Mary",
+        "pt-BR": "Prefácio da Bem-Aventurada Virgem Maria I a",
+        "it": "PREFAZIO DELLA BEATA VERGINE MARIA I",
+        "fr": "PRÉFACE DE LA BIENHEUREUSE VIERGE MARIE N°1",
+        "de": "PRÄFATION VON DER SELIGEN JUNGFRAU MARIA I"
+      },
+      "excerpt": {
+        "la": "De Maternitate beatæ Maríæ Virginis",
+        "es": "La maternidad de María",
+        "en-US": "The Motherhood of the Blessed Virgin Mary",
+        "pt-BR": "Maternidade da Bem-aventurada Virgem Maria",
+        "it": "La maternità della beata Vergine Maria",
+        "fr": "La Maternité de la bienheureuse Vierge Marie",
+        "de": "Maria, die Mutter des Erlösers"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de beata Maria Virgine, addita suo loco mentione celebrationis diei, prout in singulis Missis indicatur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et te in"
+              },
+              {
+                "type": "text",
+                "text": "beátæ Maríæ semper Vírginis collaudáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "benedícere et prædicáre."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quæ et Unigénitum tuum Sancti Spíritus obumbratióne concépit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "virginitátis glória permanénte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lumen ætérnum mundo effúdit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Iesum Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per quem maiestátem tuam laudant Angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "adórant Dominatiónes, tremunt Potestátes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cæli cælorúmque Virtútes, ac beáta Séraphim,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sócia exsultatióne concélebrant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Cum quibus et nostras voces ut admítti iúbeas, deprecámur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "súpplici confessióne dicéntes:"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "El siguiente prefacio se dice en las Misas de la Virgen María, haciendo mención, en el lugar correspondiente (***), de la fiesta, según se indica en cada Misa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Y alabar, bendecir y proclamar tu gloria en la de santa María, siempre virgen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque ella concibió a tu único Hijo por obra del Espíritu Santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y, sin perder la gloria de su virginidad,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "derramó sobre el mundo la luz eterna,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Jesucristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los ángeles alaban tu gloria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te adoran las dominaciones y tiemblan las potestades,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "los cielos, sus virtudes y los santos serafines te celebran unidos en común alegría."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Permítenos asociarnos a sus voces cantando humildemente tu alabanza:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Blessed Virgin Mary, with the mention at the appropriate place of the particular celebration, as indicated in the individual Masses."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and to praise, bless, and glorify your name"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "on the Solemnity of the Motherhood"
+              },
+              {
+                "type": "text",
+                "text": "on the feast day"
+              },
+              {
+                "type": "text",
+                "text": "on the Nativity"
+              },
+              {
+                "type": "text",
+                "text": "in veneration"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "of the Blessed ever-Virgin Mary."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For by the overshadowing of the Holy Spirit she conceived your Only Begotten Son,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and without losing the glory of virginity,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "brought forth into the world the eternal Light,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Jesus Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Through him the Angels praise your majesty,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dominions adore and Powers tremble before you."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Heaven and the Virtues of heaven and the blessed Seraphim worship together with exultation."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "May our voices, we pray, join with theirs in humble praise, as we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado nas Missas da Bem-aventurada Virgem Maria. Acrescenta-se a menção do mistério celebrado no dia, como é indicado em cada Missa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso e,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "na"
+              },
+              {
+                "type": "rubric",
+                "text": "(...)"
+              },
+              {
+                "type": "text",
+                "text": "de Maria, sempre Virgem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "louvar, bendizer e proclamar a vossa glória."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por obra do Espírito Santo ela concebeu o vosso Filho Unigênito e, sem perder a glória de sua virgindade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "deu ao mundo a luz eterna,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Jesus Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele, vos louvam os Anjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "vos adoram as Dominações,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tremem as Potestades;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os céus e as Forças celestes com os Serafins,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos, vos celebram exultantes."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Concedei também a nós associar-nos a seus louvores,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe della beata Vergine Maria, menzionando la celebrazione del giorno, secondo quanto è indicato nelle singole Messe."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Noi ti lodiamo, ti benediciamo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ti glorifichiamo nella ... della beata sempre Vergine Maria."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per opera dello Spirito Santo ha concepito il tuo unico Figlio,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "e sempre intatta nella sua gloria verginale, ha irradiato sul mondo la luce eterna,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Gesù Cristo, Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per mezzo di lui gli Angeli lodano la tua grandezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "le Dominazioni ti adorano, le Potenze ti venerano con tremore;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a te inneggiano i cieli dei cieli e i Serafini,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti in eterna esultanza."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Al loro canto concedi, o Signore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "che si uniscano le nostre umili voci nell’inno di lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "Cette préface se dit aux messes de la bienheureuse Vierge Marie :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En ce jour où nous célébrons la"
+              },
+              {
+                "type": "rubric",
+                "text": "(nommer la fête)"
+              },
+              {
+                "type": "text",
+                "text": "de la bienheureuse Vierge Marie :"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous voulons te chanter, te bénir et te glorifier."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car elle a conçu ton Fils unique lorsque le Saint-Esprit la couvrit de son ombre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et, gardant pour toujours la gloire de sa virginité,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "elle a donné au monde la lumière éternelle,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Jésus, le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par lui, les anges célèbrent ta grandeur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et les esprits bienheureux adorent ta gloire ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par lui s’inclinent devant toi les puissances d’en haut et tressaillent d’une même allégresse les innombrables créatures des cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "À leur hymne de louange, laisse-nous joindre nos voix pour chanter et proclamer :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Muttergottesmessen genommen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater, immer und überall zu danken und dich am Fest"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "Gedenktag"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "der seligen Jungfrau Maria zu preisen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vom Heiligen Geist überschattet, hat sie deinen eingeborenen Sohn empfangen und im Glanz unversehrter Jungfräulichkeit der Welt das ewige Licht geboren,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn loben die Engel deine Herrlichkeit, beten dich an die Mächte,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "erbeben die Gewalten. Die Himmel und die himmlische Kräfte und die seligen Serafim feiern dich jubelnd im Chore. Mit ihrem Lobgesang lass auch unsere Stimmen sich vereinen und voll Ehrfurcht rufen:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Beáta es, quæ credidísti, quóniam perficiéntur ea, quæ dicta sunt tibi a Dómino."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Bienaventurada tú, que has creído, porque lo que te ha dicho el Señor se cumplirá."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Blessed are you who have believed that what was spoken to you by the Lord will be fulfilled."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Bem-aventurada aquela que acreditou,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "porque será cumprido, o que o Senhor lhe prometeu."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Beata sei tu, Vergine Maria, perché hai creduto: in te si è compiuta la parola del Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Bienheureuse, toi qui as cru à l’accomplissement des paroles qui te furent dites de la part du Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Selig, die geglaubt hat, dass in Erfüllung geht, was ihr vom Herrn gesagt wurde."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sumptis, Dómine, sacraméntis cæléstibus, te súpplices deprecámur, ut, qui beátæ Vírginis Maríæ memóriam venerándo recólimus, ætérni convívii mereámur esse partícipes. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Después de recibir este sacramento del cielo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te suplicamos humildemente, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que cuantos hemos celebrado la memoria de santa María Virgen merezcamos participar en el banquete eterno."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Having received this heavenly Sacrament,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we humbly pray, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that we, who reverently celebrate the Memorial of the Blessed Virgin Mary, may merit to be partakers at your eternal banquet."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, alimentados pelo sacramento celeste,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "suplicantes vos pedimos que,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ao venerarmos a Virgem Maria,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na celebração de sua memória,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mereçamos participar eternamente do banquete do vosso Reino."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Signore, che ci hai nutriti con i tuoi sacramenti, concedi a noi, che celebriamo la memoria della beata Vergine Maria, di partecipare al convito eterno. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nourris par le sacrement du ciel,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous te supplions, Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "donne à ceux qui vénèrent en ce jour la bienheureuse Vierge Marie,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "d’être jugés dignes de participer au banquet de l’éternité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, am Festtag der seligen Jungfrau hast du uns mit dem Brot des Himmels gestärkt. Lass uns einst mit Maria und allen Heiligen teilnehmen am Mahl des ewigen Lebens. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

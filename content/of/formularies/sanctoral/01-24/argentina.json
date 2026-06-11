@@ -1,0 +1,31 @@
+{
+  "id": "sanctorale.01-24.argentina",
+  "kind": "sanctoral",
+  "scope": "argentina",
+  "structure": "mass",
+  "title": {
+    "es": "María, Reina de la Paz"
+  },
+  "color": "white",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios todopoderoso y eterno, infunde bondadosamente tu Espíritu en nosotros, para que nuestros corazones sean fortalecidos por aquel amor invencible con que el mártir san Vicente superó todos los tormentos. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

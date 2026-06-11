@@ -1,0 +1,3431 @@
+{
+  "id": "tempore.christmas.dec-31",
+  "kind": "temporal",
+  "scope": "universal",
+  "structure": "mass",
+  "title": {
+    "la": "De VII Die infra octavam Nativitatis Dómini",
+    "es": "Día VII dentro de la octava de Navidad",
+    "en-US": "Seventh Day within the Octave of the Nativity of the Lord [Christmas]",
+    "pt-BR": "Sétimo dia na oitava do Natal",
+    "it": "Settimo giorno fra l’ottava di Natale",
+    "fr": "Octave de Noël – 7e jour",
+    "de": "7. Tag der Weihnachtsoktav"
+  },
+  "season": "christmas",
+  "color": "white",
+  "rank": "weekday",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "entranceAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Puer natus est nobis, et fílius datus est nobis, cuius impérium super húmerum eius, et vocábitur nomen eius magni consílii Angelus."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Un niño nos ha nacido, un hijo se nos ha dado; lleva a hombros el principado,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y es su nombre: Ángel del gran consejo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "A child is born for us, and a son is given to us;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "his scepter of power rests upon his shoulder,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "and his name will be called Messenger of great counsel."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Nasceu para nós um menino, foi-nos dado um filho;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ele traz aos ombros a marca da realeza;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "o nome que lhe foi dado é: Conselheiro admirável."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Un bambino è nato per noi, ci è stato dato un figlio. Sulle sue spalle è il potere e il suo nome sarà: Consigliere mirabile."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Un enfant nous est né,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "un fils nous a été donné !"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Sur son épaule est le signe du pouvoir ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "on proclame son nom : Ange du grand conseil."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ein Kind ist uns geboren, ein Sohn ist uns geschenkt. Auf seinen Schultern ruht die Herrschaft."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Omnípotens sempitérne Deus, qui in Fílii tui nativitáte tribuísti totíus religiónis inítium perfectionémque constáre, da nobis, quǽsumus, in eius portióne censéri, in quo totíus salútis humánæ summa consístit. Qui tecum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios todopoderoso y eterno,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que has establecido el principio y la perfección de toda religión en el nacimiento de tu Hijo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te suplicamos nos concedas estar unidos a aquel en quien se sustenta la plenitud de la salvación humana."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "Almighty ever-living God,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who in the Nativity of your Son established the beginning and fulfillment of all religion, grant, we pray, that we may be numbered among those who belong to him,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in whom is the fullness of human salvation."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus eterno e todo-poderoso,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que estabelecestes o princípio e a perfeição de toda religião no nascimento do vosso Filho,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei que sejamos contados entre os discípulos daquele que é a plenitude da salvação da humanidade."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ele, que é Deus, e convosco vive e reina,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dio onnipotente ed eterno, che nella nascita del tuo Figlio hai stabilito l’inizio e la pienezza della vera fede, accogli anche noi come membra del Cristo, che compendia in sé la salvezza del mondo. Egli è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu éternel et tout-puissant,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as voulu que l’origine et l’achèvement de toute la religion se trouvent dans la naissance de ton Fils ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’en prions, accorde-nous d’être comptés parmi ceux qui appartiennent au Christ en qui réside la plénitude du salut de l’humanité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lui qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Allmächtiger, ewiger Gott, in der Menschwerdung deines Sohnes hat alles menschliche Streben nach dir seinen Ursprung und kommt darin zur Vollendung."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Lass uns zu Christus gehören, in dem das Heil aller Menschen begründet ist,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "options": [
+          {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en-US": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "citation": {
+              "la": "1 Io 2, 18-21",
+              "es": "1 Jn 2, 18-21",
+              "en-US": "1 Jn 2:18-21",
+              "pt-BR": "1 Jo 2, 18-21",
+              "it": "1 Gv 2,18-21",
+              "fr": "1 Jn 2, 18-21",
+              "de": "1 Joh 2, 18-21"
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ primæ beáti Ioánnis apóstoli",
+              "es": "Lectura de la primera carta del apóstol san Juan",
+              "en-US": "A reading from the first letter of St. John",
+              "pt-BR": "Leitura da Primeira Carta de São João",
+              "it": "Dalla prima lettera di san Giovanni apostolo",
+              "fr": "Première lettre de saint Jean",
+              "de": "Lesung aus dem ersten Johannesbrief"
+            },
+            "summary": {
+              "la": "Unctionem habetis a Sancto et scitis omnes",
+              "es": "Estáis ungidos por el Santo, y todos vosotros lo conocéis",
+              "pt-BR": "Vós já recebestes a unção do Santo, e todos tendes conhecimento.",
+              "it": "Avete ricevuto l’unzione dal Santo e tutti avete la conoscenza."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Filíoli, novíssima hora est; et sicut audístis quia antichrístus venit, ita nunc antichrísti multi adsunt, unde cognóscimus quóniam novíssima hora est. Ex nobis prodiérunt, sed non erant ex nobis, nam si fuíssent ex nobis, permansíssent nobíscum; sed ut manifestarétur quóniam illi omnes non sunt ex nobis. Sed vos unctiónem habétis a Sancto et scitis omnes. Non scripsi vobis quasi nesciéntibus veritátem sed quasi sciéntibus eam, et quóniam omne mendácium ex veritáte non est."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Hijos míos, es la última hora. Habéis oído que iba a venir un anticristo; pues bien, muchos anticristos han aparecido, por lo cual nos damos cuenta de que es la última hora. Salieron de entre nosotros, pero no eran de los nuestros. Si hubiesen sido de los nuestros, habrían permanecido con nosotros. Pero sucedió así para poner de manifiesto que no todos son de los nuestros. En cuanto a vosotros, estáis ungidos por el Santo, y todos vosotros lo conocéis. Os he escrito, no porque desconozcáis la verdad, sino porque la conocéis, y porque ninguna mentira viene de la verdad."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Children, these are the last days; you were told that an Antichrist must come, and now several antichrists have already appeared; we know from this that these are the last days. Those rivals of Christ came out of our own number, but they had never really belonged; if they had belonged, they would have stayed with us; but they left us, to prove that not one of them ever belonged to us. But you have been anointed by the Holy One, and have all received the knowledge. It is not because you do not know the truth that I am writing to you but rather because you know it already and know that no lie can come from the truth."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Filhinhos, esta é a última hora. Ouvistes dizer que o Anticristo virá. Com efeito, muitos anticristos já apareceram. Por isso, sabemos que chegou a última hora. Eles saíram do nosso meio, mas não eram dos nossos, pois se fossem realmente dos nossos, teriam permanecido conosco. Mas era necessário ficar claro que nem todos são dos nossos. Vós já recebestes a unção do Santo, e todos tendes conhecimento. Se eu vos escrevi, não é porque ignorais a verdade, mas porque a conheceis, e porque nenhuma mentira provém da verdade."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Figlioli, è giunta l’ultima ora. Come avete sentito dire che l’anticristo deve venire, di fatto molti anticristi sono già venuti. Da questo conosciamo che è l’ultima ora. Sono usciti da noi, ma non erano dei nostri; se fossero stati dei nostri, sarebbero rimasti con noi; sono usciti perché fosse manifesto che non tutti sono dei nostri. Ora voi avete ricevuto l’unzione dal Santo, e tutti avete la conoscenza. Non vi ho scritto perché non conoscete la verità, ma perché la conoscete e perché nessuna menzogna viene dalla verità."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Mes enfants, c’est la dernière heure et, comme vous l’avez appris, un anti-Christ, un adversaire du Christ, doit venir ; or, il y a dès maintenant beaucoup d’anti-Christs ; nous savons ainsi que c’est la dernière heure. Ils sont sortis de chez nous mais ils n’étaient pas des nôtres ; s’ils avaient été des nôtres, ils seraient demeurés avec nous. Mais pas un d’entre eux n’est des nôtres, et cela devait être manifesté. Quant à vous, c’est de celui qui est saint que vous tenez l’onction, et vous avez tous la connaissance. Je ne vous ai pas écrit que vous ignorez la vérité, mais que vous la connaissez, et que de la vérité ne vient aucun mensonge."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Meine Kinder, es ist die letzte Stunde. Ihr habt gehört, dass der Antichrist kommt, und jetzt sind viele Antichriste gekommen. Daran erkennen wir, dass es die letzte Stunde ist. Sie sind aus unserer Mitte gekommen, aber sie gehörten nicht zu uns; denn wenn sie zu uns gehört hätten, wären sie bei uns geblieben. Es sollte aber offenbar werden, dass sie alle nicht zu uns gehörten. Ihr habt die Salbung von dem, der heilig ist, und ihr alle wisst es. Ich schreibe euch nicht, dass ihr die Wahrheit nicht wisst, sondern ich schreibe euch, dass ihr sie wisst und dass keine Lüge von der Wahrheit stammt."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en-US": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            }
+          }
+        ]
+      },
+      "psalm": {
+        "options": [
+          {
+            "citation": {
+              "la": "Ps 95, 1-2. 11-12a. 12b-13",
+              "es": "Sal 95, 1-2. 11-12a. 12b-13",
+              "en-US": "Ps 95:1-2, 11-12a, 12b-13",
+              "pt-BR": "Sl 95, 1-2. 11-12a. 12b-13",
+              "it": "Sal 95, 1-2. 11-12a. 12b-13",
+              "fr": "Ps 95, 1-2. 11-12a. 12b-13",
+              "de": "Ps 96"
+            },
+            "responses": [
+              {
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Læténtur cæli et exsúltet terra."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Alégrese el cielo, goce la tierra."
+                      }
+                    ]
+                  ],
+                  "en-US": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Let heaven and earth exult in joy."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "O céu se rejubile e exulte a terra!"
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Gloria nei cieli e gioia sulla terra."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Joie au ciel ! Exulte la terre !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Der Himmel freue sich, die Erde frohlocke."
+                      }
+                    ]
+                  ]
+                }
+              }
+            ],
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantáte Dómino cánticum novum,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "cantáte Dómino, omnis terra."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantáte Dómino, benedícite nómini eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "annuntiáte de die in diem salutáre eius."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Læténtur cæli et exsúltet terra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sonet mare et plenitúdo eius;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "gaudébunt campi et ómnia, quæ in eis sunt."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Tunc exsultábunt ómnia ligna silvárum a fácie Dómini, quia venit,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "quóniam venit iudicáre terram."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Iudicábit orbem terræ in iustítia et pópulos in veritáte sua."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantad al Señor un cántico nuevo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "cantad al Señor, toda la tierra;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "cantad al Señor, bendecid su nombre,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "proclamad día tras día su victoria."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Alégrese el cielo, goce la tierra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "retumbe el mar y cuanto lo llena;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vitoreen los campos y cuanto hay en ellos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "aclamen los árboles del bosque."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Delante del Señor, que ya llega,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ya llega a regir la tierra:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "regirá el orbe con justicia y los pueblos con fidelidad."
+                    }
+                  ]
+                ]
+              ],
+              "en-US": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O sing a new song to the Lord, sing to the Lord all the earth. O sing to the Lord, bless his name. Proclaim his help day by day."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Let the heavens rejoice and earth be glad, let the sea and all within it thunder praise, let the land and all it bears rejoice, all the trees of the wood shout for joy."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Let them rejoice at the presence of the Lord for he comes, he comes to rule the earth. With justice he will rule the world, he will judge the peoples with his truth."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantai ao Senhor Deus um canto novo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "cantai ao Senhor Deus, ó terra inteira!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantai e bendizei seu santo nome!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Dia após dia anunciai sua salvação."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "O céu se rejubile e exulte a terra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "aplauda o mar com o que vive em suas águas;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "os campos com seus frutos rejubilem e exultem as florestas e as matas."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Na presença do Senhor, pois ele vem,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "porque vem para julgar a terra inteira."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Governará o mundo todo com justiça,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "e os povos julgará com lealdade."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantate al Signore un canto nuovo,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "cantate al Signore, uomini di tutta la terra."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Cantate al Signore, benedite il suo nome,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "annunciate di giorno in giorno la sua salvezza."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gioiscano i cieli, esulti la terra,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "risuoni il mare e quanto racchiude;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sia in festa la campagna e quanto contiene,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "acclamino tutti gli alberi della foresta."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Davanti al Signore che viene:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sì, egli viene a giudicare la terra;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "giudicherà il mondo con giustizia e nella sua fedeltà i popoli."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Chantez au Seigneur un chant nouveau,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "chantez au Seigneur, terre entière,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "chantez au Seigneur et bénissez son nom !"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Joie au ciel !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Exulte la terre !"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Les masses de la mer mugissent,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la campagne tout entière est en fête."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Les arbres des forêts dansent de joie devant la face du Seigneur, car il vient,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "car il vient pour juger la terre."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Singet dem Herrn ein neues Lied,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "singt dem Herrn, alle Länder der Erde!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Singt dem Herrn und preist seinen Namen,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "verkündet sein Heil von Tag zu Tag!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der Himmel freue sich, die Erde frohlocke,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "es brause das Meer und alles,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "was es erfüllt."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Es jauchze die Flur und was auf ihr wächst."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jubeln sollen alle Bäume des Waldes."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jubeln sollen alle vor dem Herrn, wenn er kommt,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "wenn er kommt, um die Erde zu richten."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Er richtet den Erdkreis gerecht und die Nationen nach seiner Treue."
+                    }
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "gospelAcclamation": {
+        "options": [
+          {
+            "mode": "alleluia",
+            "acclamation": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "verse": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Verbum caro factum est et habitávit in nobis. Quotquot accepérunt eum, dedit eis potestátem fílios Dei fíeri."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Allelúia."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    },
+                    {
+                      "type": "text",
+                      "text": "El Verbo se hizo carne y habitó entre nosotros; a cuantos lo recibieron, les dio poder de ser hijos de Dios."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluya."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "The Word of God became a man and lives among us. He enabled those who accepted him to become the children of God."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Aleluia, aleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "A palavra se fez carne, entre nós ela habitou; e todos que a acolheram, de Deus filhos se tornaram."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Aleluia."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alleluia, alleluia."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Il Verbo si fece carne e venne ad abitare in mezzo a noi. A quanti lo hanno accolto ha dato il potere di diventare figli di Dio."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alleluia."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Alléluia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Le Verbe s’est fait chair, il a établi parmi nous sa demeure. À tous ceux qui l’ont reçu, il a donné de pouvoir devenir enfants de Dieu."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Alléluia."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "response",
+                      "text": "Halleluja. Halleluja."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Das Wort ist Fleisch geworden und hat unter uns gewohnt. Allen, die ihn aufnahmen, gab er Macht, Kinder Gottes zu werden."
+                    },
+                    {
+                      "type": "response",
+                      "text": "Halleluja."
+                    }
+                  ]
+                ]
+              }
+            },
+            "citation": {
+              "la": "Io 1, 14a. 12a",
+              "es": "Jn 1, 14a. 12a",
+              "pt-BR": "Jo 1, 14a. 12a",
+              "fr": "Io 1, 14a. 12a",
+              "de": "Joh 1, 14a. 12a"
+            }
+          }
+        ]
+      },
+      "gospel": {
+        "options": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en-US": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "citation": {
+              "la": "Io 1, 1-18",
+              "es": "Jn 1, 1-18",
+              "en-US": "Jn 1:1-18",
+              "pt-BR": "Jo 1, 1-18",
+              "it": "Gv 1,1-18",
+              "fr": "Jn 1, 1-18",
+              "de": "Joh 1, 1-18"
+            },
+            "introduction": {
+              "la": "✠ Initium sancti Evangélii secúndum Ioánnem",
+              "es": "✠ Comienzo del santo Evangelio según san Juan",
+              "en-US": "✠ A reading from the holy Gospel according to John",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo São João",
+              "it": "✠ Dal vangelo secondo Giovanni",
+              "de": "✠ Aus dem heiligen Evangelium nach Johannes"
+            },
+            "summary": {
+              "la": "Verbum caro factum est",
+              "es": "El Verbo se hizo carne",
+              "pt-BR": "A Palavra se fez carne.",
+              "it": "Il Verbo si fece carne."
+            },
+            "body": {
+              "lines": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. Hoc erat in princípio apud Deum. Omnia per ipsum facta sunt, et sine ipso factum est nihil, quod factum est; in ipso vita erat, et vita erat lux hóminum, et lux in ténebris lucet, et ténebræ eam non comprehendérunt. Fuit homo missus a Deo, cui nomen erat Ioánnes; hic venit in testimónium, ut testimónium perhibéret de lúmine, ut omnes créderent per illum. Non erat ille lux, sed ut testimónium perhibéret de lúmine. Erat lux vera, quæ illúminat omnem hóminem, véniens in mundum. In mundo erat, et mundus per ipsum factus est, et mundus eum non cognóvit. In própria venit, et sui eum non recepérunt. Quotquot autem accepérunt eum, dedit eis potestátem fílios Dei fíeri, his, qui credunt in nómine eius, qui non ex sanguínibus neque ex voluntáte carnis neque ex voluntáte viri, sed ex Deo nati sunt. Et Verbum caro factum est et habitávit in nobis; et vídimus glóriam eius, glóriam quasi Unigéniti a Patre, plenum grátiæ et veritátis. Ioánnes testimónium pérhibet de ipso et clamat dicens: «Hic erat, quem dixi: Qui post me ventúrus est, ante me factus est, quia prior me erat». Et de plenitúdine eius nos omnes accépimus, et grátiam pro grátia; quia lex per Móysen data est, grátia et véritas per Iesum Christum facta est. Deum nemo vidit umquam; unigénitus Deus, qui est in sinum Patris, ipse enarrávit."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "En el principio existía el Verbo, y el Verbo estaba junto a Dios, y el Verbo era Dios. Él estaba en el principio junto a Dios. Por medio de él se hizo todo, y sin él no se hizo nada de cuanto se ha hecho. En él estaba la vida, y la vida era la luz de los hombres. Y la luz brilla en la tiniebla, y la tiniebla no lo recibió. Surgió un hombre enviado por Dios, que se llamaba Juan: este venía como testigo, para dar testimonio de la luz, para que todos creyeran por medio de él. No era él la luz, sino el que daba testimonio de la luz. El Verbo era la luz verdadera, que alumbra a todo hombre, viniendo al mundo. En el mundo estaba; el mundo se hizo por medio de él, y el mundo no lo conoció. Vino a su casa, y los suyos no lo recibieron. Pero a cuantos lo recibieron, les dio poder de ser hijos de Dios, a los que creen en su nombre. Estos no han nacido de sangre, ni de deseo de carne, ni de deseo de varón, sino que han nacido de Dios. Y el Verbo se hizo carne y habitó entre nosotros, y hemos contemplado su gloria: gloria como del Unigénito del Padre, lleno de gracia y de verdad. Juan da testimonio de él y grita diciendo: «Este es de quien dije: el que viene detrás de mí se ha puesto delante de mí, porque existía antes que yo». Pues de su plenitud todos hemos recibido, gracia tras gracia. Porque la ley se dio por medio de Moisés, la gracia y la verdad nos han llegado por medio de Jesucristo. A Dios nadie lo ha visto jamás: Dios unigénito, que está en el seno del Padre, es quien lo ha dado a conocer."
+                    }
+                  ]
+                ],
+                "en-US": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In the beginning was the Word: and the Word was with God and the Word was God. He was with God in the beginning. Through him all things came to be, not one thing had its being but through him. All that came to be had life in him and that life was the light of men, a light that shines in the dark, a light that darkness could not overpower. A man came, sent by God. His name was John. He came as a witness, as a witness to speak for the light, so that everyone might believe through him. He was not the light, only a witness to speak for the light. The Word was the true light that enlightens all men; and he was coming into the world. He was in the world that had its being through him, and the world did not know him. He came to his own domain and his own people did not accept him. But to all who did accept him he gave power to become children of God, to all who believe in the name of him who was born not out of human stock or urge of the flesh or will of man but of God himself. The Word was made flesh, he lived among us, and we saw his glory, the glory that is his as the only Son of the Father, full of grace and truth. John appears as his witness. He proclaims: 'This is the one of whom I said: He who comes after me ranks before me because he existed before me'. Indeed, from his fulness we have, all of us, received - yes, grace in return for grace, since, though the Law was given through Moses, grace and truth have come through Jesus Christ. No one has ever seen God; it is the only Son, who is nearest to the Father's heart, who has made him known."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "No princípio era a Palavra, e a Palavra estava com Deus; e a Palavra era Deus. No princípio estava ela com Deus. Tudo foi feito por ela e sem ela nada se fez de tudo que foi feito. Nela estava a vida, e a vida era a luz dos homens. E a luz brilha nas trevas, e as trevas não conseguiram dominá-la. Surgiu um homem enviado por Deus; seu nome era João. Ele veio como testemunha, para dar testemunho da luz, para que todos chegassem à fé por meio dele. Ele não era a luz, mas veio para dar testemunho da luz: daquele que era a luz de verdade, que, vindo ao mundo, ilumina todo ser humano. A Palavra estava no mundo - e o mundo foi feito por meio dela - mas o mundo não quis conhecê-la. Veio para o que era seu, e os seus não a acolheram. Mas, a todos que a receberam, deu-lhes capacidade de se tornarem filhos de Deus isto é, aos que acreditam em seu nome, pois estes não nasceram do sangue nem da vontade da carne nem da vontade do varão, mas de Deus mesmo. E a Palavra se fez carne e habitou entre nós. E nós contemplamos a sua glória, glória que recebe do Pai como Filho unigênito, cheio de graça e de verdade. Dele, João dá testemunho, clamando: \"Este é aquele de quem eu disse: O que vem depois de mim passou à minha frente, porque ele existia antes de mim\". De sua plenitude todos nós recebemos graça por graça. Pois por meio de Moisés foi dada a Lei, mas a graça e a verdade nos chegaram através de Jesus Cristo. A Deus, ninguém jamais viu. Mas o Unigênito de Deus, que está na intimidade do Pai, ele no-lo deu a conhecer."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "In principio era il Verbo, e il Verbo era presso Dio e il Verbo era Dio. Egli era, in principio, presso Dio: tutto è stato fatto per mezzo di lui e senza di lui nulla è stato fatto di ciò che esiste. In lui era la vita e la vita era la luce degli uomini; la luce splende nelle tenebre e le tenebre non l’hanno vinta. Venne un uomo mandato da Dio: il suo nome era Giovanni. Egli venne come testimone per dare testimonianza alla luce, perché tutti credessero per mezzo di lui. Non era lui la luce, ma doveva dare testimonianza alla luce. Veniva nel mondo la luce vera, quella che illumina ogni uomo. Era nel mondo e il mondo è stato fatto per mezzo di lui; eppure il mondo non lo ha riconosciuto. Venne fra i suoi, e i suoi non lo hanno accolto. A quanti però lo hanno accolto ha dato potere di diventare figli di Dio: a quelli che credono nel suo nome, i quali, non da sangue né da volere di carne né da volere di uomo, ma da Dio sono stati generati. E il Verbo si fece carne e venne ad abitare in mezzo a noi; e noi abbiamo contemplato la sua gloria, gloria come del Figlio unigenito che viene dal Padre, pieno di grazia e di verità. Giovanni gli dà testimonianza e proclama: «Era di lui che io dissi: Colui che viene dopo di me è avanti a me, perché era prima di me». Dalla sua pienezza noi tutti abbiamo ricevuto: grazia su grazia. Perché la Legge fu data per mezzo di Mosè, la grazia e la verità vennero per mezzo di Gesù Cristo. Dio, nessuno lo ha mai visto: il Figlio unigenito, che è Dio ed è nel seno del Padre, è lui che lo ha rivelato."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "AU COMMENCEMENT était le Verbe, et le Verbe était auprès de Dieu, et le Verbe était Dieu. Il était au commencement auprès de Dieu. C’est par lui que tout est venu à l’existence, et rien de ce qui s’est fait ne s’est fait sans lui. En lui était la vie, et la vie était la lumière des hommes ; la lumière brille dans les ténèbres, et les ténèbres ne l’ont pas arrêtée. Il y eut un homme envoyé par Dieu ; son nom était Jean. Il est venu comme témoin, pour rendre témoignage à la Lumière, afin que tous croient par lui. Cet homme n’était pas la Lumière, mais il était là pour rendre témoignage à la Lumière. Le Verbe était la vraie Lumière, qui éclaire tout homme en venant dans le monde. Il était dans le monde, et le monde était venu par lui à l’existence, mais le monde ne l’a pas reconnu. Il est venu chez lui, et les siens ne l’ont pas reçu. Mais à tous ceux qui l’ont reçu, il a donné de pouvoir devenir enfants de Dieu, eux qui croient en son nom. Ils ne sont pas nés du sang, ni d’une volonté charnelle, ni d’une volonté d’homme : ils sont nés de Dieu. Et le Verbe s’est fait chair, il a habité parmi nous, et nous avons vu sa gloire, la gloire qu’il tient de son Père comme Fils unique, plein de grâce et de vérité. Jean le Baptiste lui rend témoignage en proclamant : « C’est de lui que j’ai dit : Celui qui vient derrière moi est passé devant moi, car avant moi il était. » Tous nous avons eu part à sa plénitude, nous avons reçu grâce après grâce ; car la Loi fut donnée par Moïse, la grâce et la vérité sont venues par Jésus Christ. Dieu, personne ne l’a jamais vu ; le Fils unique, lui qui est Dieu, lui qui est dans le sein du Père, c’est lui qui l’a fait connaître."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott. Im Anfang war es bei Gott. Alles ist durch das Wort geworden, und ohne das Wort wurde nichts, was geworden ist. In ihm war das Leben, und das Leben war das Licht der Menschen. Und das Licht leuchtet in der Finsternis, und die Finsternis hat es nicht erfasst. Es trat ein Mensch auf, der von Gott gesandt war; sein Name war Johannes. Er kam als Zeuge, um Zeugnis abzulegen für das Licht, damit alle durch ihn zum Glauben kommen. Er war nicht selbst das Licht, er sollte nur Zeugnis ablegen für das Licht. Das wahre Licht, das jeden Menschen erleuchtet, kam in die Welt. Er war in der Welt, und die Welt ist durch ihn geworden, aber die Welt erkannte ihn nicht. Er kam in sein Eigentum, aber die Seinen nahmen ihn nicht auf. Allen aber, die ihn aufnahmen, gab er Macht, Kinder Gottes zu werden, allen, die an seinen Namen glauben, die nicht aus dem Blut, nicht aus dem Willen des Fleisches, nicht aus dem Willen des Mannes, sondern aus Gott geboren sind. Und das Wort ist Fleisch geworden und hat unter uns gewohnt, und wir haben seine Herrlichkeit gesehen, die Herrlichkeit des einzigen Sohnes vom Vater, voll Gnade und Wahrheit. Johannes legte Zeugnis für ihn ab und rief: Dieser war es, über den ich gesagt habe: Er, der nach mir kommt, ist mir voraus, weil er vor mir war. Aus seiner Fülle haben wir alle empfangen, Gnade über Gnade. Denn das Gesetz wurde durch Mose gegeben, die Gnade und die Wahrheit kamen durch Jesus Christus. Niemand hat Gott je gesehen. Der Einzige, der Gott ist und am Herzen des Vaters ruht, er hat Kunde gebracht."
+                    }
+                  ]
+                ]
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en-US": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "prayerOverOfferings": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, auctor sincéræ devotiónis et pacis, da, quǽsumus, ut et maiestátem tuam conveniénter hoc múnere venerémur, et sacri participatióne mystérii fidéliter sénsibus uniámur. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "autor de la piedad sincera y de la paz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "te pedimos que con esta ofrenda veneremos dignamente tu grandeza y nuestra unión se haga más fuerte por la participación en este sagrado misterio."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who give us the gift of true prayer and of peace, graciously grant that, through this offering,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may do fitting homage to your divine majesty and, by partaking of the sacred mystery,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "we may be faithfully united in mind and heart."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "fonte da verdadeira devoção e da paz,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei que vos honremos dignamente com esta oferenda e, pela fiel participação nos sagrados mistérios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sejam reforçados os laços que nos unem."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, sorgente della vera pietà e della pace, salga a te nella celebrazione di questi santi misteri la giusta adorazione per la tua grandezza e si rafforzino la fedeltà e la concordia dei tuoi figli. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur Dieu,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "source de la piété véritable et de la paix,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous t’en prions, accorde-nous d’honorer dignement ta gloire par cette offrande ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que, dans la participation fidèle aux saints mystères,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "nous prenions davantage conscience de notre unité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Herr, unser Gott, du schenkst uns den Frieden und gibst uns die Kraft, dir aufrichtig zu dienen. Lass uns dich mit unseren Gaben ehren und durch die Teilnahme an dem einen Brot und dem einen Kelch eines Sinnes werden. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "prefaces": [
+    {
+      "id": "pf005",
+      "label": {
+        "la": "PRÆFATIO I DE NATIVITATE DOMINI",
+        "es": "PREFACIO I DE NAVIDAD",
+        "en-US": "Preface I of the Nativity of the Lord",
+        "pt-BR": "Prefácio do Natal do Senhor I",
+        "it": "PREFAZIO DI NATALE I",
+        "fr": "PRÉFACE DE LA NATIVITÉ N°1",
+        "de": "PRÄFATION VON WEIHNACHTEN I"
+      },
+      "excerpt": {
+        "la": "De Christo luce",
+        "es": "Cristo, luz del mundo",
+        "en-US": "Christ the Light",
+        "pt-BR": "Cristo luz",
+        "it": "Cristo luce",
+        "fr": "Le Christ lumière",
+        "de": "Christus, das Licht"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de Nativitate Dómini et de eiusdem octava, infra octavam Nativitatis Dómini, etiam in Missis, quæ secus præfationem propriam haberent, exceptis Missis quæ præfationem propriam de divinis mysteriis vel Personis habent, et in feriis temporis Nativitatis."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Quia per incarnáti Verbi mystérium nova mentis nostræ óculis lux tuæ claritátis infúlsit:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut, dum visibíliter Deum cognóscimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per hunc in invisibílium amórem rapiámur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo cum Angelis et Archángelis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cum Thronis et Dominatiónibus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cumque omni milítia cæléstis exércitus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hymnum glóriæ tuæ cánimus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sine fine dicéntes:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando adhibetur Canon romanus, dicitur Communicántes proprium, ut infra. In Missa quæ celebratur in Vigilia et in nocte Nativitatis Dómini dicitur: et noctem sacratíssimam celebrántes, qua, etc.; deinde semper dicitur: et diem sacratíssimum celebrántes, quo, etc., usque ad octavam Nativitatis Dómini inclusive."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del día de Navidad y de su octava; durante la octava, se dice incluso en aquellas misas que, si se celebraran en otro tiempo, tendrían prefacio propio, a no ser que se trate de la misa de un misterio o Persona divina, que tiene prefacio propio. También se dice en las ferias del tiempo de Navidad."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque, gracias al misterio del Verbo hecho carne,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la luz de tu gloria brilló ante nuestros ojos con nuevo resplandor,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "para que, conociendo a Dios visiblemente,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "él nos lleve al amor de lo invisible."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "con los ángeles y arcángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tronos y dominaciones,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "y con todos los coros celestiales,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos sin cesar el himno de tu gloria:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Nativity of the Lord and of its Octave Day, and within the Octave, even in Masses that otherwise might have a proper Preface, with the exception of Masses that have a proper Preface concerning the divine mysteries or divine Persons. It is also used on weekdays of Christmas Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For in the mystery of the Word made flesh a new light of your glory has shone upon the eyes of our mind,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that, as we recognize in him God made visible,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we may be caught up through him in love of things invisible."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with Angels and Archangels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "with Thrones and Dominions,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and with all the hosts and Powers of heaven,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we sing the hymn of your glory,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as without end we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio deve ser usado em todas as Missas do Natal e de sua oitava, com exceção daquelas que tenham prefácio relativo aos mistérios ou às Pessoas divinas; também nos dias de semana do Tempo do Natal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "No mistério da encarnação de vosso Filho,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nova luz da vossa glória brilhou para nós."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E, reconhecendo a Jesus como Deus visível a nossos olhos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "aprendemos a amar nele a divindade que não vemos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, com os Anjos e Arcanjos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "os Tronos e as Dominações e todos os coros celestes,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entoamos o hino da vossa glória,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantando"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando se usa a Oração Eucarística I, diz-se o"
+              },
+              {
+                "type": "text",
+                "text": "Em comunhão próprio"
+              },
+              {
+                "type": "rubric",
+                "text": ". Nas Missas da Vigília e da Noite de Natal, reza-se:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos a noite santíssima em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc.; depois se diz sempre:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos o dia santíssimo em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc., até a oitava de Natal inclusive."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe di Natale e della sua Ottava, anche in quelle che hanno un prefazio proprio, fatta eccezione per le Messe che hanno un prefazio proprio dei divini misteri o delle Persone divine; si dice inoltre nei giorni feriali del Tempo di Natale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dio onnipotente ed eterno."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nel mistero del Verbo incarnato è apparsa agli occhi della nostra mente la luce nuova del tuo fulgore,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "perché conoscendo Dio visibilmente, per mezzo di lui siamo conquistati all’amore delle realtà invisibili."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "E noi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "uniti agli Angeli e agli Arcangeli, ai Troni e alle Dominazioni e alla moltitudine dei cori celesti, cantiamo con voce incessante l’inno della tua gloria:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Car la révélation de ta gloire s’est éclairée pour nous d’une lumière nouvelle dans le mystère du Verbe incarné."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Maintenant, nous connaissons en lui Dieu qui s’est rendu visible à nos yeux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et nous sommes entraînés par lui à aimer ce qui demeure invisible."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, avec les anges et les archanges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "avec les puissances d’en haut et tous les esprits bienheureux,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous chantons l’hymne de ta gloire et sans fin nous proclamons :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird zu Weihnachten und innerhalb der Oktav genommen, während der Oktav auch in den Messen, die sonst eine eigene Präfation hätten, außer in Messen von göttlichen Geheimnissen oder Personen mit eigener Präfation, außerdem an den Wochentagen der Weihnachtszeit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "allmächtiger, ewiger Gott, immer und überall zu danken."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn Fleisch geworden ist das Wort, und in diesem Geheimnis erstrahlt dem Auge unseres Geistes das neue Licht deiner Herrlichkeit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In der sichtbaren Gestalt des Erlösers lässt du uns den unsichtbaren Gott erkennen,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "um in uns die Liebe zu entflammen zu dem, was kein Auge geschaut hat."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum singen wir mit den Engeln und Erzengeln, den Thronen und Mächten und mit all den Scharen des himmlischen Heeres den Hochgesang von deiner göttlichen Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf006",
+      "label": {
+        "la": "PRÆFATIO II DE NATIVITATE DOMINI",
+        "es": "PREFACIO II DE NAVIDAD",
+        "en-US": "Preface Ii of the Nativity of the Lord",
+        "pt-BR": "Prefácio do Natal do Senhor Ii a",
+        "it": "PREFAZIO DI NATALE II",
+        "fr": "PRÉFACE DE LA NATIVITÉ N°2",
+        "de": "PRÄFATION VON WEIHNACHTEN II"
+      },
+      "excerpt": {
+        "la": "De restauratione universa in Incarnatione",
+        "es": "La restauración del universo en la Encarnación",
+        "en-US": "The restoration of all things in the Incarnation",
+        "pt-BR": "restauração universal na Encarnação",
+        "it": "Nell’incarnazione Cristo reintegra l’universo",
+        "fr": "La restauration universelle dans l’Incarnation",
+        "de": "Die Erneuerung der Welt durch den menschgewordenen Sohn Gottes"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de Nativitate Dómini et de eiusdem octava, infra octavam Nativitatis Dómini, etiam in Missis, quæ secus præfationem propriam haberent, exceptis Missis quæ præfationem propriam de divinis mysteriis vel Personis habent, et in feriis temporis Nativitatis."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Qui, in huius venerándi festivitáte mystérii,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "invisíbilis in suis,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "visíbilis in nostris appáruit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et ante témpora génitus esse cœpit in témpore;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ut, in se érigens cuncta deiécta,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "in íntegrum restitúeret univérsa,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "et hóminem pérditum ad cæléstia regna revocáret."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Unde et nos, cum ómnibus Angelis te laudámus,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "iucúnda celebratióne clamántes:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando adhibetur Canon romanus, dicitur Communicántes proprium, ut infra. In Missa quæ celebratur in Vigilia et in nocte Nativitatis Dómini dicitur: et noctem sacratíssimam celebrántes, qua, etc.; deinde semper dicitur: et diem sacratíssimum celebrántes, quo, etc., usque ad octavam Nativitatis Dómini inclusive."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del día de Navidad y de su octava; durante la octava, se dice incluso en aquellas misas que, si se celebraran en otro tiempo, tendrían prefacio propio, a no ser que se trate de la misa de un misterio o Persona divina, que tiene prefacio propio. También se dice en las ferias del tiempo de Navidad."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Porque en el misterio santo que hoy celebramos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "el que era invisible en su naturaleza se hace visible al adoptar la nuestra;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "el Eterno, engendrado antes del tiempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "comparte nuestra vida temporal para reconstruir todo el universo al asumir en sí todo lo caído, para llamar de nuevo al reino de los cielos al hombre descarriado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos con todos los ángeles,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "aclamándote llenos de alegría:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Nativity of the Lord and of its Octave Day, and within the Octave, even in Masses that otherwise might have a proper Preface, with the exception of Masses that have a proper Preface concerning the divine mysteries or divine Persons. It is also used on weekdays of Christmas Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For on the feast of this awe-filled mystery,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "though invisible in his own divine nature,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he has appeared visibly in ours;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "and begotten before all ages,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he has begun to exist in time;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "so that, raising up in himself all that was cast down,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "he might restore unity to all creation and call straying humanity back to the heavenly Kingdom."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, with all the Angels, we praise you,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "as in joyful celebration we acclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado em todas as Missas do Natal e sua oitava, com exceção daquelas que tenham prefácio relativo aos mistérios ou às Pessoas divinas; também nos dias de semana do Tempo do Natal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Ele, no mistério do Natal que celebramos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "invisível em sua divindade,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "tornou-se visível em nossa carne."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Gerado antes do tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "entrou em nossa história para erguer em si o mundo decaído,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "restituir a integridade do universo e chamar para o reino dos céus a humanidade perdida pelo pecado."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, também nós,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "com todos os Anjos vos louvamos e, em jubilosa celebração,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando se usa a Oração Eucarística I, diz-se o"
+              },
+              {
+                "type": "text",
+                "text": "Em comunhão próprio"
+              },
+              {
+                "type": "rubric",
+                "text": ". Nas Missas da Vigília e da Noite de Natal, reza-se:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos a noite santíssima em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc.; depois se diz sempre:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos o dia santíssimo em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc., até a oitava de Natal inclusive."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe di Natale e della sua Ottava, anche in quelle che hanno un prefazio proprio, fatta eccezione per le Messe che hanno un prefazio proprio dei divini misteri o delle Persone divine; si dice inoltre nei giorni feriali del Tempo di Natale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Nel mistero adorabile del Natale egli, Verbo invisibile,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "apparve visibilmente nella nostra carne,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per assumere in sé tutto il creato e sollevarlo dalla sua caduta."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Generato prima dei secoli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cominciò a esistere nel tempo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per reintegrare l’universo nel tuo disegno, o Padre, e ricondurre a te l’umanità dispersa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo dono della tua benevolenza, uniti a tutti gli angeli,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantiamo esultanti la tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dans le mystère de la Nativité,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "celui qui par nature est invisible s’est rendu visible en notre chair ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "engendré avant le temps,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il entre dans le cours du temps."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Relevant en lui la création déchue,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il restaure toute chose et ramène l’homme perdu vers le royaume des Cieux."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi, nous te louons avec tous les anges et, dans la joie, nous te célébrons en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen zu Weihnachten und innerhalb der Oktav genommen; während der Weihnachtsoktav auch in den Messen, die sonst eine eigene Präfation hätten, außer in Messen von göttlichen Geheimnissen oder Personen mit eigener Präfation, außerdem an den Wochentagen der Weihnachtszeit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, Vater im Himmel, zu danken durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Denn groß ist das Geheimnis seiner Geburt, heute ist er, der unsichtbare Gott, sichtbar als Mensch erschienen. Vor aller Zeit aus dir geboren, hat er sich den Gesetzen der Zeit unterworfen."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In ihm ist alles neu geschaffen. Er heilt die Wunden der ganzen Schöpfung, richtet auf, was darniederliegt, und ruft den verlorenen Menschen ins Reich deines Friedens."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum rühmen dich Himmel und Erde, Engel und Menschen und singen das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "pf007",
+      "label": {
+        "la": "PRÆFATIO III DE NATIVITATE DOMINI",
+        "es": "PREFACIO III DE NAVIDAD",
+        "en-US": "Preface Iii of the Nativity of the Lord",
+        "pt-BR": "Prefácio do Natal do Senhor Iii",
+        "it": "PREFAZIO DI NATALE III",
+        "fr": "PRÉFACE DE LA NATIVITÉ N°3",
+        "de": "PRÄFATION VON WEIHNACHTEN III"
+      },
+      "excerpt": {
+        "la": "De commercio in Incarnatione Verbi",
+        "es": "El intercambio realizado en la Encarnación del Verbo",
+        "en-US": "The exchange in the Incarnation of the Word",
+        "pt-BR": "Intercâmbio no mistério da Encarnação do Verbo",
+        "it": "Il sublime scambio nell’incarnazione del Verbo",
+        "fr": "L’échange entre Dieu et les hommes dans l’Incarnation du Verbe",
+        "de": "Der wunderbare Tausch"
+      },
+      "body": {
+        "lines": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "Sequens præfatio dicitur in Missis de Nativitate Dómini et de eiusdem octava, infra octavam Nativitatis Dómini, etiam in Missis, quæ secus præfationem propriam haberent, exceptis Missis quæ præfationem propriam de divinis mysteriis vel Personis habent, et in feriis temporis Nativitatis."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Vere dignum et iustum est,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "æquum et salutáre,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nos tibi semper et ubíque grátias ágere:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dómine, sancte Pater, omnípotens ætérne Deus:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "per Christum Dóminum nostrum."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per quem hódie commércium nostræ reparatiónis effúlsit,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "quia, dum nostra fragílitas a tuo Verbo suscípitur,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "humána mortálitas non solum in perpétuum transit honórem,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sed nos quoque, mirándo consórtio, reddit ætérnos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Et ídeo, choris angélicis sociáti,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te laudámus in gáudio confiténtes:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando adhibetur Canon romanus, dicitur Communicántes proprium, ut infra. In Missa quæ celebratur in Vigilia et in nocte Nativitatis Dómini dicitur: et noctem sacratíssimam celebrántes, qua, etc.; deinde semper dicitur: et diem sacratíssimum celebrántes, quo, etc., usque ad octavam Nativitatis Dómini inclusive."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefacio se dice en las misas del día de Navidad y de su octava; durante la octava, se dice incluso en aquellas misas que, si se celebraran en otro tiempo, tendrían prefacio propio, a no ser que se trate de la misa de un misterio o Persona divina, que tiene prefacio propio. También se dice en las ferias del tiempo de Navidad."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "En verdad es justo y necesario,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "es nuestro deber y salvación darte gracias siempre y en todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Señor, Padre santo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dios todopoderoso y eterno,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Señor nuestro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por él,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "hoy resplandece el maravilloso intercambio de nuestra redención:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "porque, al asumir tu Verbo nuestra debilidad,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "no solo asume dignidad eterna la naturaleza humana,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sino que esta unión admirable nos hace a nosotros eternos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por eso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unidos a los coros angélicos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "te alabamos proclamando llenos de alegría:"
+              }
+            ]
+          ],
+          "en-US": [
+            [
+              {
+                "type": "rubric",
+                "text": "The following Preface is said in Masses of the Nativity of the Lord and of its Octave Day, and within the Octave, even in Masses that otherwise might have a proper Preface, with the exception of Masses that have a proper Preface concerning the divine mysteries or divine Persons. It is also used on weekdays of Christmas Time."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "It is truly right and just, our duty and our salvation,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "always and everywhere to give you thanks,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Lord, holy Father, almighty and eternal God,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "through Christ our Lord."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "For through him the holy exchange that restores our life has shone forth today in splendour:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "when our frailty is assumed by your Word not only does human mortality receive unending honour but by this wondrous union we, too, are made eternal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "And so, in company with the choirs of Angels,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "we praise you, and with joy we proclaim:"
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "rubric",
+                "text": "Este prefácio também pode ser usado em todas as Missas do Natal e sua oitava, com exceção daquelas que tenham prefácio relativo aos mistérios ou às Pessoas divinas; também nos dias de semana do Tempo do Natal."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Na verdade, é digno e justo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "é nosso dever e salvação dar-vos graças,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "sempre e em todo lugar,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Senhor, Pai santo;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Deus eterno e todo-poderoso,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "por Cristo, Senhor nosso."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por ele, resplandece hoje o admirável intercâmbio que nos dá vida nova em plenitude."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Enquanto vosso Filho assume nossa fraqueza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "a natureza humana recebe uma incomparável dignidade:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ao tornar-se um de nós,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ele nos torna eternos."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Por isso, unidos aos coros angélicos,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nós vos louvamos e, com alegria,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "cantamos"
+              },
+              {
+                "type": "rubric",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "dizendo"
+              },
+              {
+                "type": "rubric",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": "a uma só voz:"
+              }
+            ],
+            [
+              {
+                "type": "rubric",
+                "text": "Quando se usa a Oração Eucarística I, diz-se o"
+              },
+              {
+                "type": "text",
+                "text": "Em comunhão próprio"
+              },
+              {
+                "type": "rubric",
+                "text": ". Nas Missas da Vigília e da Noite de Natal, reza-se:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos a noite santíssima em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc.; depois se diz sempre:"
+              },
+              {
+                "type": "text",
+                "text": "celebramos o dia santíssimo em que"
+              },
+              {
+                "type": "rubric",
+                "text": ", etc., até a oitava de Natal inclusive."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "rubric",
+                "text": "Il seguente prefazio si dice nelle Messe di Natale e della sua Ottava, anche in quelle che hanno un prefazio proprio, fatta eccezione per le Messe che hanno un prefazio proprio dei divini misteri o delle Persone divine; si dice inoltre nei giorni feriali del Tempo di Natale"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In lui [oggi] risplende in piena luce il sublime scambio che ci ha redenti:"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la nostra debolezza è assunta dal Verbo,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "la natura mortale è innalzata a dignità perenne, e noi, uniti a te in comunione mirabile, condividiamo la tua vita immortale."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Per questo mistero di salvezza, uniti ai cori degli angeli, proclamiamo esultanti la tua lode:"
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "text",
+                "text": "Vraiment, il est juste et bon,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "pour ta gloire et notre salut,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "de t’offrir notre action de grâce,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "toujours et en tout lieu,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Seigneur, Père très saint,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Dieu éternel et tout-puissant,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "par le Christ, notre Seigneur."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Par lui resplendit en ce jour l’échange merveilleux où nous sommes régénérés ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "lorsque ton Verbe prend sur lui la fragilité humaine,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "notre condition mortelle en reçoit une infinie noblesse ;"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "il devient tellement l’un de nous que nous devenons éternels."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "C’est pourquoi,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "unis au chœur des anges,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "nous te louons dans la joie en proclamant :"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "rubric",
+                "text": "Diese Präfation wird in den Messen zu Weihnachten und innerhalb der Oktav genommen; während der Weihnachtsoktav auch in den Messen, die sonst eine eigene Präfation hätten, außer in Messen von göttlichen Geheimnissen oder Personen mit eigener Präfation, außerdem an den Wochentagen der Weihnachtszeit."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und dein Erbarmen zu rühmen durch unseren Herrn Jesus Christus."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Durch ihn schaffst du den Menschen neu und schenkst ihm ewige Ehre. Denn einen wunderbaren Tausch hast du vollzogen: dein göttliches Wort wurde ein sterblicher Mensch, und wir sterbliche Menschen empfangen in Christus dein göttliches Leben."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "Darum preisen wir dich mit allen Chören der Engel und singen vereint mit ihnen das Lob deiner Herrlichkeit:"
+              }
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "communionAntiphon": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Misit Deus Fílium suum Unigénitum in mundum, ut vivámus per eum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dios envió al mundo a su Unigénito, para que vivamos por medio de él."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "God sent his Only Begotten Son into the world, so that we might have life through him."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus enviou o seu Filho único ao mundo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que tenhamos vida por meio dele."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dio ha mandato nel mondo il suo Figlio unigenito, perché noi avessimo la vita per mezzo di lui."
+                }
+              ],
+              [
+                {
+                  "type": "rubric",
+                  "text": "Oppure: Gv 1, 16"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dalla sua pienezza noi tutti abbiamo ricevuto:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grazia su grazia."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu a envoyé son Fils unique dans le monde pour que nous vivions par lui."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott hat seinen einzigen Sohn in die Welt gesandt, damit wir durch ihn leben."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "postcommunion": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Divérsis plebs tua, Dómine, gubernáta subsídiis, et præséntia pietátis tuæ remédia cápiat et futúra, ut, transeúntium rerum necessária consolatióne fovénte, fiduciálius ad ætérna conténdat. Per Christum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Que tu pueblo, Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dirigido por tu abundante ayuda,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "reciba los auxilios presentes y futuros de tu amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, sostenido por el consuelo necesario de las cosas temporales,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "aspire con más confianza a los bienes eternos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Jesucristo, nuestro Señor."
+                }
+              ]
+            ],
+            "en-US": [
+              [
+                {
+                  "type": "text",
+                  "text": "May your people, O Lord,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "whom you guide and sustain in many ways,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "experience,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "both now and in the future,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "the remedies which you bestow,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "with the needed solace of things that pass away,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "they may strive with ever deepened trust for things eternal."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through Christ our Lord."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Senhor, que o vosso povo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sustentado com tantas graças,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "possa receber hoje e sempre os dons do vosso amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "para que, confortado pelos bens transitórios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "busque com mais confiança os bens eternos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por Cristo, nosso Senhor."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Sostieni, o Signore, con la tua provvidenza questo popolo nel presente e nel futuro, perché con le semplici gioie che disponi sul suo cammino aspiri con serena fiducia alla gioia che non ha fine. Per Cristo nostro Signore."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ton peuple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seigneur, a besoin de multiples secours pour sa traversée d’ici-bas ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que ta tendresse lui accorde ceux de la vie présente comme ceux de la vie future :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "trouvant alors le réconfort nécessaire dans les choses qui passent,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "il recherchera les biens éternels avec plus de confiance."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par le Christ, notre Seigneur."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Barmherziger Gott, in jeder Not bist du unsere Hilfe. (Du hast uns im vergangenen Jahr auf unseren Wegen geleitet.) Bleibe bei uns mit deinem Schutz. Gib uns, was wir für dieses vergängliche Leben brauchen, und führe uns zur ewigen Vollendung bei dir. Darum bitten wir durch Christus, unseren Herrn."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

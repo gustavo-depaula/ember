@@ -1,0 +1,31 @@
+{
+  "id": "sanctorale.10-03.brazil",
+  "kind": "sanctoral",
+  "scope": "brazil",
+  "structure": "mass",
+  "title": {
+    "pt-BR": "Beatos mártires André de Soveral e companheiros mártires"
+  },
+  "color": "red",
+  "rank": "optional-memorial",
+  "cycleScheme": "fixed",
+  "includeGloria": false,
+  "collect": {
+    "options": [
+      {
+        "body": {
+          "lines": {
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus de misericórdia, aumentai em nós a fé que, conservada à custa do próprio sangue, glorificou vossos mártires bem-aventurados André, Ambrósio e companheiros. Dai-nos também ser santificados pela vivência da mesma fé. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo."
+                }
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
