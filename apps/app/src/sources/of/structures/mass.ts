@@ -1,17 +1,35 @@
-import type { MassFormulary, OrderOfMass } from '@ember/missal-schema'
-import type { Primitive } from '@/content/primitives'
+import type {
+  MassFormulary,
+  OrderItem,
+  OrderOfMass,
+  OrderSegment,
+  Prayer,
+} from '@ember/missal-schema'
+import type { ContainerOption, Primitive } from '@/content/primitives'
 import { eucharisticPrayerPicker, prefacePicker } from '../blocks/eucharist'
 import { cycleKeyFor, renderReadingSet } from '../blocks/readings'
 import {
   bt,
   collapsible,
   group,
+  heading,
   type LangPrefs,
   lines,
   prayerPicker,
+  responseRichText,
   rubric,
   sectionMarker,
 } from '../helpers'
+import { amen } from '../responses'
+import { activeSpine, type ProperSlot, type SpineCtx, type SpineStep } from '../spine'
+
+/** Orations the people seal with "Amém" — antiphons don't get one. */
+const orationSlots = new Set<ProperSlot>([
+  'collect',
+  'prayerOverOfferings',
+  'postcommunion',
+  'prayerOverPeople',
+])
 
 export interface MassContext {
   /** The celebration's own formulary. */
@@ -29,118 +47,152 @@ export interface MassContext {
 const L = (pt: string, en: string, lang: LangPrefs) =>
   bt({ 'pt-BR': pt, 'en-US': en }, lang) ?? { primary: pt }
 
-function fullMass(ctx: MassContext): Primitive[] {
-  const { formulary: f, orations, readingsFormulary, order, lang } = ctx
-  const out: Primitive[] = []
+const properLabels: Record<ProperSlot, { pt: string; en: string; key: string }> = {
+  entranceAntiphon: { pt: 'Antífona da Entrada', en: 'Entrance Antiphon', key: 'of.entrance' },
+  collect: { pt: 'Oração do Dia', en: 'Collect', key: 'of.collect' },
+  prayerOverOfferings: {
+    pt: 'Oração sobre as Oferendas',
+    en: 'Prayer over the Offerings',
+    key: 'of.offerings',
+  },
+  communionAntiphon: { pt: 'Antífona da Comunhão', en: 'Communion Antiphon', key: 'of.communion' },
+  postcommunion: {
+    pt: 'Oração depois da Comunhão',
+    en: 'Prayer after Communion',
+    key: 'of.postcommunion',
+  },
+  prayerOverPeople: {
+    pt: 'Oração sobre o Povo',
+    en: 'Prayer over the People',
+    key: 'of.over-people',
+  },
+}
 
-  out.push(sectionMarker('Ritos Iniciais', 'Introductory Rites'))
-  if (f.entranceAntiphon)
-    out.push(
-      prayerPicker({
-        overrideKey: 'of.entrance',
-        label: L('Antífona da Entrada', 'Entrance Antiphon', lang),
-        prayer: f.entranceAntiphon,
-        lang,
-        pickerStyle: 'cards',
-      }),
-    )
-  // The fixed Order frame (greeting, penitential act, Gloria, Creed) as reference.
-  if (order.items['order.ordinary-frame']) {
-    out.push(
-      collapsible(
-        L('Ordinário da Missa', 'Order of Mass', lang),
-        lines(order.items['order.ordinary-frame'].body, lang),
-      ),
-    )
-  }
-  if (orations.collect)
-    out.push(
-      prayerPicker({
-        overrideKey: 'of.collect',
-        label: L('Oração do Dia', 'Collect', lang),
-        prayer: orations.collect,
-        lang,
-      }),
-    )
-
-  out.push(sectionMarker('Liturgia da Palavra', 'Liturgy of the Word'))
-  const ck = cycleKeyFor(readingsFormulary, ctx.cycle, ctx.weekdayCycle)
-  const set = ck ? readingsFormulary.readings?.[ck] : undefined
-  if (set) out.push(...renderReadingSet(set, lang))
-  else
-    out.push(
-      rubric(
-        L(
-          'As leituras do dia são as da féria.',
-          'The day’s readings are the ferial readings.',
-          lang,
-        ),
-      ),
-    )
-
-  out.push(sectionMarker('Liturgia Eucarística', 'Liturgy of the Eucharist'))
-  if (orations.prayerOverOfferings)
-    out.push(
-      prayerPicker({
-        overrideKey: 'of.offerings',
-        label: L('Oração sobre as Oferendas', 'Prayer over the Offerings', lang),
-        prayer: orations.prayerOverOfferings,
-        lang,
-      }),
-    )
-  out.push(
-    rubric(
-      L(
-        'Em pé, inicia-se o diálogo do Prefácio, que pertence à Oração Eucarística escolhida abaixo.',
-        'All stand for the Preface dialogue, which belongs to the chosen Eucharistic Prayer.',
-        lang,
-      ),
-    ),
+/** Render a run of order segments. `key` namespaces nested-picker overrideKeys
+ * so a choice inside a choice (Penitential Act form → invitation) doesn't
+ * collide with its parent. */
+function renderSegments(segments: OrderSegment[], lang: LangPrefs, key: string): Primitive[] {
+  return segments.flatMap((seg, i) =>
+    seg.kind === 'text' ? lines(seg.body, lang) : renderChoice(seg, lang, `${key}.c${i}`),
   )
-  const preface = prefacePicker(f, lang)
-  if (preface) out.push(preface)
-  out.push(eucharisticPrayerPicker(order, lang))
+}
 
-  out.push(sectionMarker('Rito da Comunhão', 'Communion Rite'))
-  if (f.communionAntiphon)
-    out.push(
-      prayerPicker({
-        overrideKey: 'of.communion',
-        label: L('Antífona da Comunhão', 'Communion Antiphon', lang),
-        prayer: f.communionAntiphon,
-        lang,
-        pickerStyle: 'cards',
+/**
+ * A pick-one set → a chip selector showing one option at a time, so the prayer
+ * never faces every alternative at once. Options empty in the active language
+ * are dropped (the alternates are language-uneven — pt/it carry national
+ * additions the editio typica lacks); a lone survivor renders inline, with no
+ * pointless one-chip picker.
+ */
+function renderChoice(
+  choice: Extract<OrderSegment, { kind: 'choice' }>,
+  lang: LangPrefs,
+  key: string,
+): Primitive[] {
+  const options = choice.options
+    .map(
+      (opt, i): ContainerOption => ({
+        id: `opt-${i}`,
+        label: bt(opt.label, lang) ?? { primary: '' },
+        children: renderSegments(opt.segments, lang, `${key}.${i}`),
       }),
     )
+    .filter((o) => o.children.length > 0)
+  if (options.length === 0) return []
+  if (options.length === 1) return options[0].children
+  return [
+    {
+      type: 'container',
+      behavior: {
+        kind: 'select',
+        label: bt(choice.label, lang) ?? { primary: '' },
+        overrideKey: `of.${key}`,
+        selectedId: options[0].id,
+        options,
+      },
+    },
+  ]
+}
 
-  out.push(sectionMarker('Ritos Finais', 'Concluding Rites'))
-  if (orations.postcommunion)
-    out.push(
-      prayerPicker({
-        overrideKey: 'of.postcommunion',
-        label: L('Oração depois da Comunhão', 'Prayer after Communion', lang),
-        prayer: orations.postcommunion,
-        lang,
-      }),
-    )
-  if (f.prayerOverPeople)
-    out.push(
-      prayerPicker({
-        overrideKey: 'of.over-people',
-        label: L('Oração sobre o Povo', 'Prayer over the People', lang),
-        prayer: f.prayerOverPeople,
-        lang,
-      }),
-    )
-  if (order.solemnBlessings[0])
-    out.push(
-      collapsible(
-        L('Bênção Solene', 'Solemn Blessing', lang),
-        lines(order.solemnBlessings[0].body, lang),
-      ),
-    )
+/** Render one Order-of-Mass piece. Pieces with `segments` weave fixed text and
+ * (possibly nested) pick-one choices; the rest render as flat body text.
+ * Collapsed when the piece is silent/long. */
+function renderOrderItem(item: OrderItem, collapsed: boolean, lang: LangPrefs): Primitive[] {
+  const title = bt(item.title, lang)
+  const id = item.id.replace(/^order\./, '')
+  const body = item.segments ? renderSegments(item.segments, lang, id) : lines(item.body, lang)
+  if (body.length === 0) return []
+  if (collapsed && title) return [collapsible(title, body)]
+  return title ? [heading(title), ...body] : body
+}
 
-  return out
+function properOf(ctx: MassContext, slot: ProperSlot): Prayer | undefined {
+  // Antiphons + prayerOverPeople live on the celebration; orations may inherit.
+  if (slot === 'entranceAntiphon' || slot === 'communionAntiphon' || slot === 'prayerOverPeople') {
+    return ctx.formulary[slot]
+  }
+  return ctx.orations[slot]
+}
+
+function renderStep(step: SpineStep, ctx: MassContext): Primitive[] {
+  const { lang, order } = ctx
+  switch (step.kind) {
+    case 'section':
+      return [sectionMarker(step.pt, step.en)]
+    case 'rubric':
+      return [rubric(L(step.pt, step.en, lang))]
+    case 'order': {
+      const item = order.items[step.id]
+      return item ? renderOrderItem(item, Boolean(step.collapsed), lang) : []
+    }
+    case 'proper': {
+      const prayer = properOf(ctx, step.slot)
+      if (!prayer) return []
+      const l = properLabels[step.slot]
+      return [
+        prayerPicker({
+          overrideKey: l.key,
+          label: L(l.pt, l.en, lang),
+          prayer,
+          lang,
+          pickerStyle: step.cards ? 'cards' : undefined,
+          response: orationSlots.has(step.slot) ? responseRichText(amen, lang) : undefined,
+        }),
+      ]
+    }
+    case 'readings': {
+      const ck = cycleKeyFor(ctx.readingsFormulary, ctx.cycle, ctx.weekdayCycle)
+      const set = ck ? ctx.readingsFormulary.readings?.[ck] : undefined
+      return set
+        ? renderReadingSet(set, lang)
+        : [
+            rubric(
+              L(
+                'As leituras do dia são as da féria.',
+                'The day’s readings are the ferial readings.',
+                lang,
+              ),
+            ),
+          ]
+    }
+    case 'preface': {
+      const p = prefacePicker(ctx.formulary, lang)
+      return p ? [p] : []
+    }
+    case 'eucharistic-prayer':
+      return [eucharisticPrayerPicker(order, lang)]
+  }
+}
+
+function fullMass(ctx: MassContext): Primitive[] {
+  const spineCtx: SpineCtx = {
+    formulary: ctx.formulary,
+    orations: ctx.orations,
+    season: ctx.formulary.season,
+    rank: ctx.formulary.rank,
+    hasOrder: (id) => Boolean(ctx.order.items[id]),
+  }
+  return activeSpine(spineCtx).flatMap((step) => renderStep(step, ctx))
 }
 
 function readingsOnly(ctx: MassContext): Primitive[] {

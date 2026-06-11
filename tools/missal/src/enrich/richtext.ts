@@ -11,13 +11,40 @@ const segmentTypes = new Set<Segment['type']>([
   'italic',
   'response',
   'signOfCross',
-  'dropCap',
 ])
+
+/**
+ * A drop-cap is just the first letter of the next word (or a one-letter word),
+ * never special. Merge each into the following text as plain text: glue a
+ * continuation ("P"+"ai" → "Pai"), space a new capitalized word ("O"+"Senhor"
+ * → "O Senhor"). The baseline already trimmed the boundary space, so the
+ * next-char case is the only signal left.
+ */
+function mergeDropCaps(line: unknown[]): unknown[] {
+  const out: unknown[] = []
+  for (let i = 0; i < line.length; i++) {
+    const seg = line[i] as { type?: string; text?: string } | null
+    if (seg && seg.type === 'dropCap' && typeof seg.text === 'string') {
+      const next = line[i + 1] as { type?: string; text?: string } | undefined
+      if (next?.type === 'text' && typeof next.text === 'string') {
+        const nt = next.text
+        const sep = !/^\s/.test(nt) && /^[A-ZÀ-Þ]/.test(nt) ? ' ' : ''
+        out.push({ type: 'text', text: `${seg.text}${sep}${nt}` })
+        i += 1
+      } else {
+        out.push({ type: 'text', text: seg.text })
+      }
+      continue
+    }
+    out.push(seg)
+  }
+  return out
+}
 
 function cleanSegments(line: unknown, lang: Lang, ctx: EnrichCtx): Line | undefined {
   if (!Array.isArray(line)) return undefined
   const out: Line = []
-  for (const seg of line) {
+  for (const seg of mergeDropCaps(line)) {
     if (!seg || typeof seg !== 'object') continue
     const type = (seg as { type?: string }).type
     const text = (seg as { text?: string }).text

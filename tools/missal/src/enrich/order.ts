@@ -1,7 +1,9 @@
 import { readFileSync, readdirSync } from 'node:fs'
 import { join } from 'node:path'
 import type { EucharisticPrayer, OrderItem, OrderOfMass } from '@ember/missal-schema'
+import type { ParsedFile } from '../parse/types'
 import { type EnrichCtx, toLocalized } from './localized'
+import { splitOrdinary } from './order-split'
 import { toRichText } from './richtext'
 import { prettifyTitle } from './title'
 
@@ -35,17 +37,27 @@ function loadEucharisticPrayers(dataDir: string, patches: EnrichCtx['patches']):
 }
 
 /**
- * The Order of Mass bundle. The baseline ships the ordinary frame, solemn
- * blessings, universal prayer, and prayers-over-the-people each as one
- * mono-blob — emitted whole here (lossless). Per-section splitting of the
- * frame is a renderer-side refinement (PR 3); EPs are already cleanly separate.
+ * The Order of Mass bundle. The ordinary is carved into per-moment items from
+ * the upstream `ordinario` (aligned hijo blocks) when `ordinario` is provided;
+ * otherwise the baseline mono-blob frame is emitted whole as a fallback. The
+ * universal prayer, solemn blessings, and prayers-over-the-people stay whole
+ * (lossless); EPs are already separate.
  */
-export function buildOrderOfMass(dataDir: string, patches: EnrichCtx['patches']): OrderOfMass {
+export function buildOrderOfMass(
+  dataDir: string,
+  patches: EnrichCtx['patches'],
+  ordinario?: ParsedFile,
+): OrderOfMass {
   const ctx = (id: string): EnrichCtx => ({ patches, id })
   const items: Record<string, OrderItem> = {}
 
-  const frame = readMonoItem(dataDir, 'library/ordinary/ordinario.json', 'order.ordinary-frame', ctx('order.ordinary-frame'))
-  if (frame) items[frame.id] = frame
+  if (ordinario) {
+    Object.assign(items, splitOrdinary(ordinario))
+  } else {
+    const frame = readMonoItem(dataDir, 'library/ordinary/ordinario.json', 'order.ordinary-frame', ctx('order.ordinary-frame'))
+    if (frame) items[frame.id] = frame
+  }
+
   const universalPrayer = readMonoItem(dataDir, 'library/ordinary/oracion-fieles.json', 'order.universal-prayer', ctx('order.universal-prayer'))
   if (universalPrayer) items[universalPrayer.id] = universalPrayer
 

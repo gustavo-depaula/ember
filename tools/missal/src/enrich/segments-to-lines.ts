@@ -13,7 +13,6 @@ const segmentTypeMap: Record<string, Segment['type']> = {
   reference: 'reference',
   people: 'response',
   italic: 'italic',
-  capital: 'dropCap',
   bold: 'text',
   verse: 'text',
   psalm_verse: 'text',
@@ -45,7 +44,8 @@ export function segmentsToLines(raw: RawSegment[]): Line[] {
     current = []
   }
 
-  for (const seg of raw) {
+  for (let i = 0; i < raw.length; i++) {
+    const seg = raw[i]
     if (seg.type === 'break' || seg.type === 'paragraph_start' || seg.type === 'paragraph_end') {
       flush()
       continue
@@ -58,6 +58,21 @@ export function segmentsToLines(raw: RawSegment[]): Line[] {
       flush()
       current.push({ type: 'text', text: seg.text })
       flush()
+      continue
+    }
+    // A drop-cap (`<span class="cap">`) is just the first letter of the next
+    // word, or a one-letter word — never special. Merge it into the following
+    // text as plain text, keeping the source's space so the word reads right:
+    // "G"+"lória" → "Glória", "A"+" graça" → "A graça", "E"+"is" → "Eis".
+    if (seg.type === 'capital') {
+      const next = raw[i + 1]
+      if (next && next.type === 'text') {
+        const sep = /^\s/.test(next.value) ? ' ' : ''
+        current.push({ type: 'text', text: `${seg.text}${sep}${next.value}` })
+        i += 1
+      } else {
+        current.push({ type: 'text', text: seg.text })
+      }
       continue
     }
     const mapped = segmentTypeMap[seg.type]

@@ -8080,7 +8080,7 @@
                     [
                       {
                         "type": "text",
-                        "text": "ó culpa tão feliz que há merecido a g􀀶aça de um tão grande Redentor!"
+                        "text": "ó culpa tão feliz que há merecido a graça de um tão grande Redentor!"
                       }
                     ],
                     [
@@ -11586,84 +11586,56 @@
               "la": [
                 [
                   {
-                    "type": "dropCap",
-                    "text": "G"
-                  },
-                  {
                     "type": "text",
-                    "text": "lória in excélsis Deo"
+                    "text": "Glória in excélsis Deo"
                   }
                 ]
               ],
               "es": [
                 [
                   {
-                    "type": "dropCap",
-                    "text": "G"
-                  },
-                  {
                     "type": "text",
-                    "text": "loria a Dios en el cielo,"
+                    "text": "Gloria a Dios en el cielo,"
                   }
                 ]
               ],
               "en-US": [
                 [
                   {
-                    "type": "dropCap",
-                    "text": "G"
-                  },
-                  {
                     "type": "text",
-                    "text": "lory to God in the highest,"
+                    "text": "Glory to God in the highest,"
                   }
                 ]
               ],
               "pt-BR": [
                 [
                   {
-                    "type": "dropCap",
-                    "text": "G"
-                  },
-                  {
                     "type": "text",
-                    "text": "lória a Deus nas alturas"
+                    "text": "Glória a Deus nas alturas"
                   }
                 ]
               ],
               "it": [
                 [
                   {
-                    "type": "dropCap",
-                    "text": "G"
-                  },
-                  {
                     "type": "text",
-                    "text": "loria a Dio nell’alto dei cieli"
+                    "text": "Gloria a Dio nell’alto dei cieli"
                   }
                 ]
               ],
               "fr": [
                 [
                   {
-                    "type": "dropCap",
-                    "text": "G"
-                  },
-                  {
                     "type": "text",
-                    "text": "loire à Dieu, au plus haut des cieux,"
+                    "text": "Gloire à Dieu, au plus haut des cieux,"
                   }
                 ]
               ],
               "de": [
                 [
                   {
-                    "type": "dropCap",
-                    "text": "E"
-                  },
-                  {
                     "type": "text",
-                    "text": "hre sei Gott in der Höhe"
+                    "text": "Ehre sei Gott in der Höhe"
                   }
                 ]
               ]

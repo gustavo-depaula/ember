@@ -43,7 +43,14 @@ if (command === 'build') {
     .map((d) => buildFormulary(d, lib, patches))
     .filter((f): f is NonNullable<typeof f> => Boolean(f))
 
-  const order = buildOrderOfMass(dataDir, patches)
+  // The Order of Mass is carved from the upstream `ordinario` (aligned blocks)
+  // when --source points at a Missale_romanum clone; otherwise the baseline
+  // mono-blob frame is used.
+  const ordinario = source
+    ? parseCorpus(source).files.find((f) => f.basename === 'ordinario')
+    : undefined
+  if (source && !ordinario) console.warn('⚠ --source given but no ordinario file found; using baseline frame')
+  const order = buildOrderOfMass(dataDir, patches, ordinario)
   const calendar = buildCalendarStatics(formularies, rawById)
 
   const census = runCensus(formularies)

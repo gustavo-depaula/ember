@@ -35,7 +35,17 @@ describe('segmentsToLines', () => {
       { type: 'reading_acclamation', text: 'Palavra do Senhor.' },
     ]
     const [line] = segmentsToLines(raw)
-    expect(line.map((s) => s.type)).toEqual(['signOfCross', 'response', 'dropCap', 'italic', 'response'])
+    // 'capital' is no longer a drop-cap — it merges into plain text.
+    expect(line.map((s) => s.type)).toEqual(['signOfCross', 'response', 'text', 'italic', 'response'])
+  })
+
+  it('merges a drop-cap into the following word, keeping the source space', () => {
+    expect(segmentsToLines([{ type: 'capital', text: 'G' }, { type: 'text', value: 'lória a Deus' }])).toEqual([
+      [{ type: 'text', text: 'Glória a Deus' }],
+    ])
+    expect(segmentsToLines([{ type: 'capital', text: 'A' }, { type: 'text', value: ' graça e a paz' }])).toEqual([
+      [{ type: 'text', text: 'A graça e a paz' }],
+    ])
   })
 
   it('turns headings into their own lines', () => {

@@ -6,6 +6,7 @@ import {
   resolveFlowAsync,
 } from '@ember/content-engine'
 import { buildEFFlow } from '@ember/mass'
+import { getCatalog } from '@/content/contentIndex'
 import type { Primitive } from '@/content/primitives'
 import { getPsalmNumbering } from '@/lib/bolls'
 import { fetchHearth } from '@/lib/hearth'
@@ -32,7 +33,11 @@ type MassFragments = { fragments: Record<string, FlowSection[]> }
  */
 export const massFlowSource: ContentSource<Primitive[]> = {
   id: 'producer/mass',
-  version: '3',
+  // Corpus generation in the version so a rebuilt corpus invalidates the cached
+  // flow (the EF fragments change on every build). See of-mass-flow.ts.
+  get version() {
+    return `3:${getCatalog().generated}`
+  },
   prefsDeps: ['lang', 'translation'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {

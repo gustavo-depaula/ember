@@ -4704,12 +4704,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "e ígitur, clementíssime Pater,"
+                        "text": "Te ígitur, clementíssime Pater,"
                       }
                     ],
                     [
@@ -4728,12 +4724,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "adre misericordioso,"
+                        "text": "Padre misericordioso,"
                       }
                     ],
                     [
@@ -4746,12 +4738,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "o you, therefore, most merciful Father,"
+                        "text": "To you, therefore, most merciful Father,"
                       }
                     ],
                     [
@@ -4764,12 +4752,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "ai de misericórdia,"
+                        "text": "Pai de misericórdia,"
                       }
                     ],
                     [
@@ -4788,24 +4772,16 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "adre clementissimo, noi ti supplichiamo e ti chiediamo per Gesù Cristo, tuo Figlio e nostro Signore,"
+                        "text": "Padre clementissimo, noi ti supplichiamo e ti chiediamo per Gesù Cristo, tuo Figlio e nostro Signore,"
                       }
                     ]
                   ],
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "oi, Père très aimant,"
+                        "text": "Toi, Père très aimant,"
                       }
                     ],
                     [
@@ -4818,12 +4794,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "D"
-                      },
-                      {
                         "type": "text",
-                        "text": "ich, gütiger Vater, bitten wir durch deinen Sohn,"
+                        "text": "Dich, gütiger Vater, bitten wir durch deinen Sohn,"
                       }
                     ],
                     [
@@ -5647,12 +5619,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "eménto, Dómine,"
+                        "text": "Meménto, Dómine,"
                       }
                     ],
                     [
@@ -5679,12 +5647,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "A"
-                      },
-                      {
                         "type": "text",
-                        "text": "cuérdate, Señor,"
+                        "text": "Acuérdate, Señor,"
                       }
                     ],
                     [
@@ -5711,24 +5675,16 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "R"
-                      },
-                      {
                         "type": "text",
-                        "text": "emember, Lord, your servants (N. and N.)"
+                        "text": "Remember, Lord, your servants (N. and N.)"
                       }
                     ]
                   ],
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "L"
-                      },
-                      {
                         "type": "text",
-                        "text": "embrai-vos, ó Pai,"
+                        "text": "Lembrai-vos, ó Pai,"
                       }
                     ],
                     [
@@ -5745,12 +5701,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "R"
-                      },
-                      {
                         "type": "text",
-                        "text": "icordati, Signore, dei tuoi fedeli"
+                        "text": "Ricordati, Signore, dei tuoi fedeli"
                       }
                     ],
                     [
@@ -5771,12 +5723,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "S"
-                      },
-                      {
                         "type": "text",
-                        "text": "uviens-toi, Seigneur,"
+                        "text": "Suviens-toi, Seigneur,"
                       }
                     ],
                     [
@@ -5861,12 +5809,8 @@
                         "text": "Durant l’action"
                       },
                       {
-                        "type": "dropCap",
-                        "text": "U"
-                      },
-                      {
                         "type": "text",
-                        "text": "nis dans une même communion,"
+                        "text": "Unis dans une même communion,"
                       }
                     ],
                     [
@@ -5963,12 +5907,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "G"
-                      },
-                      {
                         "type": "text",
-                        "text": "edenke deiner Diener und Dienerinnen N. N."
+                        "text": "Gedenke deiner Diener und Dienerinnen N. N."
                       }
                     ],
                     [
@@ -6638,12 +6578,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "I"
-                      },
-                      {
                         "type": "text",
-                        "text": "n union with the whole Church we celebrate that day when Jesus Christ, our Lord,"
+                        "text": "In union with the whole Church we celebrate that day when Jesus Christ, our Lord,"
                       }
                     ],
                     [
@@ -6898,12 +6834,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "I"
-                      },
-                      {
                         "type": "text",
-                        "text": "In comunione con tutta la Chiesa, mentre celebriamo il giorno santissimo nel quale il Signore nostro Gesù Cristo fu consegnato alla morte per noi, ricordiamo e veneriamo anzitutto la gloriosa e sempre Vergine Maria, Madre del nostro Dio e Signore Gesù Cristo, san Giuseppe, suo sposo, i tuoi santi apostoli e martiri: Pietro e Paolo, Andrea,"
+                        "text": "I In comunione con tutta la Chiesa, mentre celebriamo il giorno santissimo nel quale il Signore nostro Gesù Cristo fu consegnato alla morte per noi, ricordiamo e veneriamo anzitutto la gloriosa e sempre Vergine Maria, Madre del nostro Dio e Signore Gesù Cristo, san Giuseppe, suo sposo, i tuoi santi apostoli e martiri: Pietro e Paolo, Andrea,"
                       },
                       {
                         "type": "rubric",
@@ -6932,12 +6864,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "U"
-                      },
-                      {
                         "type": "text",
-                        "text": "nis dans une même communion,"
+                        "text": "Unis dans une même communion,"
                       }
                     ],
                     [
@@ -7034,12 +6962,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "I"
-                      },
-                      {
                         "type": "text",
-                        "text": "n Gemeinschaft mit der ganzen Kirche feiern wir den hochheiligen Tag,"
+                        "text": "In Gemeinschaft mit der ganzen Kirche feiern wir den hochheiligen Tag,"
                       }
                     ],
                     [
@@ -7270,12 +7194,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "herefore, Lord, we pray:"
+                        "text": "Therefore, Lord, we pray:"
                       }
                     ],
                     [
@@ -7350,24 +7270,16 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "A"
-                      },
-                      {
                         "type": "text",
-                        "text": "Accetta con benevolenza, o Signore, questa offerta che ti presentiamo noi tuoi ministri e tutta la tua famiglia nel giorno in cui il Signore nostro Gesù Cristo consegnò ai suoi discepoli il mistero del suo Corpo e del suo Sangue, perché lo celebrassero in sua memoria: disponi nella tua pace i nostri giorni, salvaci dalla dannazione eterna, e accoglici nel gregge dei tuoi eletti."
+                        "text": "A Accetta con benevolenza, o Signore, questa offerta che ti presentiamo noi tuoi ministri e tutta la tua famiglia nel giorno in cui il Signore nostro Gesù Cristo consegnò ai suoi discepoli il mistero del suo Corpo e del suo Sangue, perché lo celebrassero in sua memoria: disponi nella tua pace i nostri giorni, salvaci dalla dannazione eterna, e accoglici nel gregge dei tuoi eletti."
                       }
                     ]
                   ],
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "V"
-                      },
-                      {
                         "type": "text",
-                        "text": "oici donc l’offrande que nous présentons devant toi,"
+                        "text": "Voici donc l’offrande que nous présentons devant toi,"
                       }
                     ],
                     [
@@ -7416,12 +7328,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "N"
-                      },
-                      {
                         "type": "text",
-                        "text": "imm gnädig an, o Gott,"
+                        "text": "Nimm gnädig an, o Gott,"
                       }
                     ],
                     [
@@ -7603,12 +7511,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "Q"
-                      },
-                      {
                         "type": "text",
-                        "text": "uam oblatiónem tu, Deus, in ómnibus,"
+                        "text": "Quam oblatiónem tu, Deus, in ómnibus,"
                       }
                     ],
                     [
@@ -7651,12 +7555,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "B"
-                      },
-                      {
                         "type": "text",
-                        "text": "endice y santifica, oh Padre, esta ofrenda haciéndola perfecta, espiritual y digna de ti,"
+                        "text": "Bendice y santifica, oh Padre, esta ofrenda haciéndola perfecta, espiritual y digna de ti,"
                       }
                     ],
                     [
@@ -7675,12 +7575,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "B"
-                      },
-                      {
                         "type": "text",
-                        "text": "e pleased, O God, we pray,"
+                        "text": "Be pleased, O God, we pray,"
                       }
                     ],
                     [
@@ -7723,12 +7619,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "D"
-                      },
-                      {
                         "type": "text",
-                        "text": "ignai-vos, ó Pai,"
+                        "text": "Dignai-vos, ó Pai,"
                       }
                     ],
                     [
@@ -7759,24 +7651,16 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "S"
-                      },
-                      {
                         "type": "text",
-                        "text": "antifica, o Dio, questa offerta con la potenza della tua benedizione, e degnati di accettarla a nostro favore, in sacrificio spirituale e perfetto, perché diventi per noi il Corpo e il Sangue del tuo amatissimo Figlio, il Signore nostro Gesù Cristo."
+                        "text": "Santifica, o Dio, questa offerta con la potenza della tua benedizione, e degnati di accettarla a nostro favore, in sacrificio spirituale e perfetto, perché diventi per noi il Corpo e il Sangue del tuo amatissimo Figlio, il Signore nostro Gesù Cristo."
                       }
                     ]
                   ],
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "S"
-                      },
-                      {
                         "type": "text",
-                        "text": "eigneur Dieu, nous t’en prions,"
+                        "text": "Seigneur Dieu, nous t’en prions,"
                       }
                     ],
                     [
@@ -7813,12 +7697,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "S"
-                      },
-                      {
                         "type": "text",
-                        "text": "chenke, o Gott, diesen Gaben Segen in Fülle und nimm sie zu eigen an."
+                        "text": "Schenke, o Gott, diesen Gaben Segen in Fülle und nimm sie zu eigen an."
                       }
                     ],
                     [
@@ -7955,12 +7835,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "O"
-                      },
-                      {
                         "type": "text",
-                        "text": "n the day before he was to suffer for our salvation and the salvation of all,"
+                        "text": "On the day before he was to suffer for our salvation and the salvation of all,"
                       }
                     ],
                     [
@@ -7987,12 +7863,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "I"
-                      },
-                      {
                         "type": "text",
-                        "text": "n questo giorno, vigilia della sua passione,"
+                        "text": "In questo giorno, vigilia della sua passione,"
                       }
                     ],
                     [
@@ -8025,12 +7897,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "A"
-                      },
-                      {
                         "type": "text",
-                        "text": "m Abend, bevor er für unser Heil und das Heil aller Menschen das Leiden auf sich nahm - das ist heute -,"
+                        "text": "Am Abend, bevor er für unser Heil und das Heil aller Menschen das Leiden auf sich nahm - das ist heute -,"
                       }
                     ]
                   ]
@@ -8636,48 +8504,32 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "S"
-                      },
-                      {
                         "type": "text",
-                        "text": "ímili modo, postquam cenátum est,"
+                        "text": "Símili modo, postquam cenátum est,"
                       }
                     ]
                   ],
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "D"
-                      },
-                      {
                         "type": "text",
-                        "text": "el mismo modo, acabada la cena,"
+                        "text": "Del mismo modo, acabada la cena,"
                       }
                     ]
                   ],
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "I"
-                      },
-                      {
                         "type": "text",
-                        "text": "n a similar way, when supper was ended,"
+                        "text": "In a similar way, when supper was ended,"
                       }
                     ]
                   ],
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "D"
-                      },
-                      {
                         "type": "text",
-                        "text": "o mesmo modo,"
+                        "text": "Do mesmo modo,"
                       }
                     ],
                     [
@@ -8690,36 +8542,24 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "A"
-                      },
-                      {
                         "type": "text",
-                        "text": "llo stesso modo, dopo aver cenato,"
+                        "text": "Allo stesso modo, dopo aver cenato,"
                       }
                     ]
                   ],
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "D"
-                      },
-                      {
                         "type": "text",
-                        "text": "e même, après le repas,"
+                        "text": "De même, après le repas,"
                       }
                     ]
                   ],
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "E"
-                      },
-                      {
                         "type": "text",
-                        "text": "benso nahm er nach dem Mahl"
+                        "text": "Ebenso nahm er nach dem Mahl"
                       }
                     ]
                   ]
@@ -9304,12 +9144,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "ystérium fídei."
+                        "text": "Mystérium fídei."
                       }
                     ],
                     [
@@ -9322,12 +9158,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "É"
-                      },
-                      {
                         "type": "text",
-                        "text": "ste es el Misterio de la fe."
+                        "text": "Éste es el Misterio de la fe."
                       }
                     ],
                     [
@@ -9338,12 +9170,8 @@
                     ],
                     [
                       {
-                        "type": "dropCap",
-                        "text": "É"
-                      },
-                      {
                         "type": "text",
-                        "text": "ste es el Sacramento de nuestra fe."
+                        "text": "Éste es el Sacramento de nuestra fe."
                       }
                     ],
                     [
@@ -9356,12 +9184,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "he mystery of faith."
+                        "text": "The mystery of faith."
                       }
                     ],
                     [
@@ -9374,12 +9198,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "istério da fé!"
+                        "text": "Mistério da fé!"
                       }
                     ],
                     [
@@ -9392,12 +9212,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "istero della fede."
+                        "text": "Mistero della fede."
                       }
                     ],
                     [
@@ -9410,12 +9226,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "I"
-                      },
-                      {
                         "type": "text",
-                        "text": "l est grand, le mystère de la foi :"
+                        "text": "Il est grand, le mystère de la foi :"
                       }
                     ],
                     [
@@ -9428,12 +9240,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "G"
-                      },
-                      {
                         "type": "text",
-                        "text": "eheimnis des Glaubens:"
+                        "text": "Geheimnis des Glaubens:"
                       }
                     ],
                     [
@@ -9570,12 +9378,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "ystérium fídei."
+                        "text": "Mystérium fídei."
                       }
                     ],
                     [
@@ -9588,12 +9392,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "A"
-                      },
-                      {
                         "type": "text",
-                        "text": "clamemos el Misterio de la fe."
+                        "text": "Aclamemos el Misterio de la fe."
                       }
                     ],
                     [
@@ -9606,12 +9406,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "he mystery of faith."
+                        "text": "The mystery of faith."
                       }
                     ],
                     [
@@ -9624,12 +9420,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "istério da fé e do amor!"
+                        "text": "Mistério da fé e do amor!"
                       }
                     ],
                     [
@@ -9642,12 +9434,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "istero della fede."
+                        "text": "Mistero della fede."
                       }
                     ],
                     [
@@ -9660,12 +9448,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "A"
-                      },
-                      {
                         "type": "text",
-                        "text": "cclamons le mystère de la foi :"
+                        "text": "Acclamons le mystère de la foi :"
                       }
                     ],
                     [
@@ -9678,12 +9462,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "G"
-                      },
-                      {
                         "type": "text",
-                        "text": "eheimnis des Glaubens:"
+                        "text": "Geheimnis des Glaubens:"
                       }
                     ],
                     [
@@ -9832,12 +9612,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "ystérium fídei."
+                        "text": "Mystérium fídei."
                       }
                     ],
                     [
@@ -9850,12 +9626,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "roclamemos el misterio de la fe."
+                        "text": "Proclamemos el misterio de la fe."
                       }
                     ],
                     [
@@ -9868,12 +9640,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "he mystery of faith."
+                        "text": "The mystery of faith."
                       }
                     ],
                     [
@@ -9886,12 +9654,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "istério da fé para a salvação do mundo!"
+                        "text": "Mistério da fé para a salvação do mundo!"
                       }
                     ],
                     [
@@ -9904,12 +9668,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "istero della fede."
+                        "text": "Mistero della fede."
                       }
                     ],
                     [
@@ -9922,12 +9682,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "Q"
-                      },
-                      {
                         "type": "text",
-                        "text": "u’il soit loué, le mystère de la foi :"
+                        "text": "Qu’il soit loué, le mystère de la foi :"
                       }
                     ],
                     [
@@ -9940,12 +9696,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "G"
-                      },
-                      {
                         "type": "text",
-                        "text": "eheimnis des Glaubens:"
+                        "text": "Geheimnis des Glaubens:"
                       }
                     ],
                     [
@@ -10127,12 +9879,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "U"
-                      },
-                      {
                         "type": "text",
-                        "text": "nde et mémores, Dómine,"
+                        "text": "Unde et mémores, Dómine,"
                       }
                     ],
                     [
@@ -10199,12 +9947,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "or eso, Padre,"
+                        "text": "Por eso, Padre,"
                       }
                     ],
                     [
@@ -10265,12 +10009,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "herefore, O Lord,"
+                        "text": "Therefore, O Lord,"
                       }
                     ],
                     [
@@ -10337,12 +10077,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "C"
-                      },
-                      {
                         "type": "text",
-                        "text": "elebrando, pois, a memória da bem-aventurada paixão do vosso Filho,"
+                        "text": "Celebrando, pois, a memória da bem-aventurada paixão do vosso Filho,"
                       }
                     ],
                     [
@@ -10391,12 +10127,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "I"
-                      },
-                      {
                         "type": "text",
-                        "text": "questo sacrificio, o Padre, noi tuoi ministri e il tuo popolo santo celebriamo il memoriale della beata passione, della risurrezione dai morti e della gloriosa ascensione al cielo del Cristo tuo Figlio e nostro Signore; e offriamo alla tua maestà divina, tra i doni che ci hai dato, la vittima pura, santa e immacolata, pane santo della vita eterna,"
+                        "text": "Iquesto sacrificio, o Padre, noi tuoi ministri e il tuo popolo santo celebriamo il memoriale della beata passione, della risurrezione dai morti e della gloriosa ascensione al cielo del Cristo tuo Figlio e nostro Signore; e offriamo alla tua maestà divina, tra i doni che ci hai dato, la vittima pura, santa e immacolata, pane santo della vita eterna,"
                       }
                     ],
                     [
@@ -10409,12 +10141,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "V"
-                      },
-                      {
                         "type": "text",
-                        "text": "oilà pourquoi nous, tes serviteurs,"
+                        "text": "Voilà pourquoi nous, tes serviteurs,"
                       }
                     ],
                     [
@@ -10469,12 +10197,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "D"
-                      },
-                      {
                         "type": "text",
-                        "text": "arum, gütiger, Vater,"
+                        "text": "Darum, gütiger, Vater,"
                       }
                     ],
                     [
@@ -10536,12 +10260,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "S"
-                      },
-                      {
                         "type": "text",
-                        "text": "upra quæ propítio ac seréno vultu respícere dignéris:"
+                        "text": "Supra quæ propítio ac seréno vultu respícere dignéris:"
                       }
                     ],
                     [
@@ -10584,12 +10304,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "ira con ojos de bondad esta ofrenda y acéptala,"
+                        "text": "Mira con ojos de bondad esta ofrenda y acéptala,"
                       }
                     ],
                     [
@@ -10614,12 +10330,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "B"
-                      },
-                      {
                         "type": "text",
-                        "text": "e pleased to look upon these offerings with a serene and kindly countenance,"
+                        "text": "Be pleased to look upon these offerings with a serene and kindly countenance,"
                       }
                     ],
                     [
@@ -10656,12 +10368,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "R"
-                      },
-                      {
                         "type": "text",
-                        "text": "ecebei, ó Pai,"
+                        "text": "Recebei, ó Pai,"
                       }
                     ],
                     [
@@ -10698,12 +10406,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "V"
-                      },
-                      {
                         "type": "text",
-                        "text": "Volgi sulla nostra offerta il tuo sguardo sereno e benigno, come hai voluto accettare i doni di Abele, il giusto, il sacrificio di Abramo, nostro padre nella fede, e l’oblazione pura e santa di Melchisedek,"
+                        "text": "V Volgi sulla nostra offerta il tuo sguardo sereno e benigno, come hai voluto accettare i doni di Abele, il giusto, il sacrificio di Abramo, nostro padre nella fede, e l’oblazione pura e santa di Melchisedek,"
                       }
                     ],
                     [
@@ -10716,12 +10420,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "E"
-                      },
-                      {
                         "type": "text",
-                        "text": "t comme il t’a plu d’accueillir les présents de ton serviteur Abel le Juste,"
+                        "text": "Et comme il t’a plu d’accueillir les présents de ton serviteur Abel le Juste,"
                       }
                     ],
                     [
@@ -10752,12 +10452,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "B"
-                      },
-                      {
                         "type": "text",
-                        "text": "licke versöhnt und gütig darauf nieder und nimm sie an wie einst die Gaben deines gerechten Dieners Abel,"
+                        "text": "Blicke versöhnt und gütig darauf nieder und nimm sie an wie einst die Gaben deines gerechten Dieners Abel,"
                       }
                     ],
                     [
@@ -10846,12 +10542,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "S"
-                      },
-                      {
                         "type": "text",
-                        "text": "úpplices te rogámus, omnípotens Deus:"
+                        "text": "Súpplices te rogámus, omnípotens Deus:"
                       }
                     ],
                     [
@@ -10876,12 +10568,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "e pedimos humildemente,"
+                        "text": "Te pedimos humildemente,"
                       }
                     ],
                     [
@@ -10924,12 +10612,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "I"
-                      },
-                      {
                         "type": "text",
-                        "text": "n humble prayer we ask you, almighty God:"
+                        "text": "In humble prayer we ask you, almighty God:"
                       }
                     ],
                     [
@@ -10948,12 +10632,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "S"
-                      },
-                      {
                         "type": "text",
-                        "text": "uplicantes, vos pedimos, ó Deus onipotente,"
+                        "text": "Suplicantes, vos pedimos, ó Deus onipotente,"
                       }
                     ],
                     [
@@ -10978,24 +10658,16 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "i supplichiamo, Dio onnipotente: fa' che questa offerta, per le mani del tuo angelo santo, sia portata sull’altare del cielo davanti alla tua maestà divina, perché su tutti noi che partecipiamo di questo altare, comunicando al santo mistero del Corpo e Sangue del tuo Figlio,"
+                        "text": "Ti supplichiamo, Dio onnipotente: fa' che questa offerta, per le mani del tuo angelo santo, sia portata sull’altare del cielo davanti alla tua maestà divina, perché su tutti noi che partecipiamo di questo altare, comunicando al santo mistero del Corpo e Sangue del tuo Figlio,"
                       }
                     ]
                   ],
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "N"
-                      },
-                      {
                         "type": "text",
-                        "text": "ous t’en supplions, Dieu tout-puissant :"
+                        "text": "Nous t’en supplions, Dieu tout-puissant :"
                       }
                     ],
                     [
@@ -11032,12 +10704,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "W"
-                      },
-                      {
                         "type": "text",
-                        "text": "ir bitten dich, allmächtiger Gott:"
+                        "text": "Wir bitten dich, allmächtiger Gott:"
                       }
                     ],
                     [
@@ -11347,12 +11015,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "M"
-                      },
-                      {
                         "type": "text",
-                        "text": "eménto étiam, Dómine,"
+                        "text": "Meménto étiam, Dómine,"
                       }
                     ],
                     [
@@ -11393,12 +11057,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "A"
-                      },
-                      {
                         "type": "text",
-                        "text": "cuérdate también, Señor,"
+                        "text": "Acuérdate también, Señor,"
                       }
                     ],
                     [
@@ -11435,12 +11095,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "R"
-                      },
-                      {
                         "type": "text",
-                        "text": "emember also, Lord, your servants N. and N.,"
+                        "text": "Remember also, Lord, your servants N. and N.,"
                       }
                     ],
                     [
@@ -11453,12 +11109,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "L"
-                      },
-                      {
                         "type": "text",
-                        "text": "embrai-vos, ó Pai,"
+                        "text": "Lembrai-vos, ó Pai,"
                       }
                     ],
                     [
@@ -11479,12 +11131,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "R"
-                      },
-                      {
                         "type": "text",
-                        "text": "Ricordati, o Signore, dei tuoi fedeli"
+                        "text": "R Ricordati, o Signore, dei tuoi fedeli"
                       },
                       {
                         "type": "rubric",
@@ -11513,12 +11161,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "S"
-                      },
-                      {
                         "type": "text",
-                        "text": "ouviens-toi aussi, Seigneur,"
+                        "text": "Souviens-toi aussi, Seigneur,"
                       }
                     ],
                     [
@@ -11565,12 +11209,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "G"
-                      },
-                      {
                         "type": "text",
-                        "text": "edenke auch deiner Diener und Dienerinnen (N. und N.),"
+                        "text": "Gedenke auch deiner Diener und Dienerinnen (N. und N.),"
                       }
                     ],
                     [
@@ -11976,84 +11616,56 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "N"
-                      },
-                      {
                         "type": "text",
-                        "text": "obis quoque peccatóribus fámulis tuis,"
+                        "text": "Nobis quoque peccatóribus fámulis tuis,"
                       }
                     ]
                   ],
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "Y"
-                      },
-                      {
                         "type": "text",
-                        "text": "a nosotros, pecadores, siervos tuyos,"
+                        "text": "Ya nosotros, pecadores, siervos tuyos,"
                       }
                     ]
                   ],
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "o us, also, your servants, who, though sinners,"
+                        "text": "To us, also, your servants, who, though sinners,"
                       }
                     ]
                   ],
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "E"
-                      },
-                      {
                         "type": "text",
-                        "text": "a todos nós pecadores,"
+                        "text": "Ea todos nós pecadores,"
                       }
                     ]
                   ],
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "A"
-                      },
-                      {
                         "type": "text",
-                        "text": "nche a noi, tuoi ministri, peccatori,"
+                        "text": "Anche a noi, tuoi ministri, peccatori,"
                       }
                     ]
                   ],
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "E"
-                      },
-                      {
                         "type": "text",
-                        "text": "t nous pécheurs, tes serviteurs,"
+                        "text": "Et nous pécheurs, tes serviteurs,"
                       }
                     ]
                   ],
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "A"
-                      },
-                      {
                         "type": "text",
-                        "text": "uch uns, deinen sündigen Dienern,"
+                        "text": "Auch uns, deinen sündigen Dienern,"
                       }
                     ]
                   ]
@@ -12767,12 +12379,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "er quem hæc ómnia, Dómine,"
+                        "text": "Per quem hæc ómnia, Dómine,"
                       }
                     ],
                     [
@@ -12797,12 +12405,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "or quien sigues creando todos los bienes,"
+                        "text": "Por quien sigues creando todos los bienes,"
                       }
                     ],
                     [
@@ -12821,12 +12425,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "hrough whom you continue to make all these good things, O Lord;"
+                        "text": "Through whom you continue to make all these good things, O Lord;"
                       }
                     ],
                     [
@@ -12851,12 +12451,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "or ele não cessais de criar, santificar, vivificar,"
+                        "text": "Por ele não cessais de criar, santificar, vivificar,"
                       }
                     ],
                     [
@@ -12877,12 +12473,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "ar lui, tu ne cesses de créer tous ces biens,"
+                        "text": "Par lui, tu ne cesses de créer tous ces biens,"
                       }
                     ],
                     [
@@ -12901,12 +12493,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "D"
-                      },
-                      {
                         "type": "text",
-                        "text": "enn durch ihn erschaffst du immerfort all diese guten Gaben,"
+                        "text": "Denn durch ihn erschaffst du immerfort all diese guten Gaben,"
                       }
                     ],
                     [
@@ -12989,12 +12577,8 @@
                   "la": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "er ipsum, et cum ipso, et in ipso,"
+                        "text": "Per ipsum, et cum ipso, et in ipso,"
                       }
                     ],
                     [
@@ -13019,12 +12603,8 @@
                   "es": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "or Cristo, con él y en él,"
+                        "text": "Por Cristo, con él y en él,"
                       }
                     ],
                     [
@@ -13049,12 +12629,8 @@
                   "en-US": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "T"
-                      },
-                      {
                         "type": "text",
-                        "text": "hrough him, and with him, and in him,"
+                        "text": "Through him, and with him, and in him,"
                       }
                     ],
                     [
@@ -13091,12 +12667,8 @@
                   "pt-BR": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "or Cristo,"
+                        "text": "Por Cristo,"
                       }
                     ],
                     [
@@ -13139,12 +12711,8 @@
                   "it": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "er Cristo, con Cristo e in Cristo,"
+                        "text": "Per Cristo, con Cristo e in Cristo,"
                       }
                     ],
                     [
@@ -13157,12 +12725,8 @@
                   "fr": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "P"
-                      },
-                      {
                         "type": "text",
-                        "text": "ar lui, avec lui et en lui,"
+                        "text": "Par lui, avec lui et en lui,"
                       }
                     ],
                     [
@@ -13193,12 +12757,8 @@
                   "de": [
                     [
                       {
-                        "type": "dropCap",
-                        "text": "D"
-                      },
-                      {
                         "type": "text",
-                        "text": "urch ihn und mit ihm und in ihm ist dir, Gott,"
+                        "text": "Durch ihn und mit ihm und in ihm ist dir, Gott,"
                       }
                     ],
                     [

@@ -1071,3 +1071,94 @@ resolver.test `la` key) predate this work and are unrelated.
 
 Not yet done (needs a browser): the visual smoke-test of the hard days, and
 per-slot splitting of the Order-of-Mass frame.
+
+## Order-of-Mass form selectors (`OrderItem.segments`)
+
+The pray-er should see *one* form of a multi-form piece (the Penitential Act),
+not a wall of every alternative. Modeled in the data, not the renderer:
+
+- **Schema** (`packages/missal-schema/src/order.ts`): `OrderItem.segments?` —
+  an ordered mix of `{kind:'text', body}` and `{kind:'choice', label, options[]}`.
+  The renderer walks `segments` when present (choice → `choice-rich-text` chips
+  picker, key `of.<id>`), else falls back to the flat `body`. `body` stays
+  required as the lossless full text / search source.
+- **Extractor** (`tools/missal/src/enrich/order-forms.ts`): the upstream marks
+  the Penitential Act's three forms with **lone-number blocks** ("1"/"2"/"3").
+  Those are language-independent (a digit is a digit) and aligned across all 7
+  langs by padre-index, so one pass carves every language at once. The text
+  before the first marker becomes a leading `text` segment; the bare "1 2 3"
+  navigation artifact is dropped. `<2` markers → `undefined` (flat-body
+  fallback + a loud warn). Driven by an opt-in `forms` field on the
+  `orderSlots` spec (only `penitential-act` today).
+- **Deliberately left inline**: the invitation variants *inside* each form
+  (the "Ou:"-separated openings) — they live inside a single block as localized
+  prose and are **language-uneven** (pt/it/es/de carry 2–3; la/en/fr carry 1),
+  so a nested sub-picker can't be derived from the aligned blocks and would be
+  fragile. Inline matches the printed missal. Same reasoning blocks turning the
+  Greeting / Our Father / Dismissal opening-formula alternates into pickers:
+  their "Ou:" markers are intra-block and interleaved with fixed responses; a
+  robust split needs a per-language lexicon, deferred.
+- `--source` (the Missale_romanum clone) only affects `order-of-mass.json`; the
+  rest of `content/of` comes from `--baseline` (ember-extra). Rebuild:
+  `tsx tools/missal/src/cli.ts build --baseline <ember-extra>/novus-ordo-missae
+  --source <missale-romanum> --out content/of`.
+
+### Nested selectors + "Or"-separated formulas
+
+`OrderSegment` is now recursive: a `choice` option carries its own `segments`,
+so a picker nests. `enrich/order-ou.ts` `splitAlternates` carves a body whose
+head is a run of interchangeable formulas (separated by a localized "Or"
+rubric — `Ou`/`Vel`/`Or`/`Oppure`/…) into `[text(intro)?, choice, text(shared)]`.
+Options assemble by index across languages (option 0 = each language's first
+formula); national additions (pt/it/es/de have more) just add options. The
+renderer (`renderChoice`) drops options empty in the active language, so the
+editio-typica languages show one invitation inline while pt shows a picker.
+Applied to: Penitential Act forms → nested invitation picker; Greeting (8);
+Our Father invitation (7) + fixed Lord's Prayer. **Dismissal left flat** — its
+formulas sit after a pontifical preamble, not at the head, so the leading-zone
+splitter declines (follow-up: split a mid-body alternates run).
+
+Pickers render as `select` (chip row + arbitrary child subtree per option),
+not `choice-rich-text` (which only holds flat RichText) — that's what lets a
+picker nest inside a picker. overrideKeys carry the segment path
+(`of.penitential-act.c1.0.c0`) so nested pickers don't collide.
+
+### Fixed assembly responses + PUA scanno patches
+
+- `sources/of/responses.ts`: the people's replies (`Amém`, `Graças a Deus`,
+  `Glória a vós, Senhor`) are universal constants, sourced from the ordinary in
+  all 7 langs, injected at render time (the propers carry only the priest's
+  line). Orations (Collect/Offerings/Postcommunion/over-People) get `Amém`;
+  first/second readings get `Graças a Deus`; the Gospel gets `Glória a vós`
+  both after the announcement (precedingResponse) and after "Palavra da
+  Salvação." (response). Antiphons get none.
+- 9 corrupt Private-Use-Area glyphs (U+10002E etc.) across the baseline were a
+  font-subset extraction artifact, each a single letter (`que⍰ Deus`→é,
+  `Espírito ⍰anto`→S, `g⍰aça`→r…). Fixed as durable entries in
+  `patches/upstream-scannos.json`. Audit: `rg`-style scan for codepoints in the
+  PUA planes + U+FFFD finds them; re-run after any baseline bump.
+
+### Drop-caps eliminated + faithful prose rendering
+
+- **No drop-caps anywhere.** `<span class="cap">` was tagged `dropCap` and the
+  parser dropped the boundary space, so the renderer glued words (`OSenhor`,
+  `Agraça`). Now both parse paths (`segments-to-lines.ts` for the ordinary split,
+  `richtext.ts` for formularies/EPs/blessings) merge the cap into the next word
+  as plain text. `segments-to-lines` recovers the real source space (the
+  following text node keeps its leading space); `richtext` (baseline already
+  trimmed) uses the next-char case: glue a lowercase continuation (`G`+`lória`→
+  `Glória`, `E`+`is`→`Eis`), space a new capitalized word (`O`+`Senhor`→
+  `O Senhor`). Verified 0 `dropCap` segments corpus-wide.
+- **Order prose renders who-says-what** (`helpers.ts` `lines()`): rubric lines →
+  burgundy stage directions; `V/.`/`R/.` and the people's `response` parts →
+  grouped `verses` vr blocks with ℟/℣ marks (bilingual); **mixed rubric+prayer
+  lines are split** so the stage direction stays a rubric and only the prayed
+  words read as body text (was: 84 lines glued into one plain run). Speaker is
+  carried by the ℟/℣ marks + the upstream rubric cues, not per-line voice badges.
+- **Entrance Antiphon** was missing from the spine (present in the data) — added
+  at the head of the Introductory Rites, gated on the formulary carrying one.
+- **Gospel acclamation**: the Alleluia refrain renders as its own ℟ line; the
+  proper verse strips the refrain the upstream glues to its front.
+- Completeness is guarded by a test that walks the generated OT-Sunday flow and
+  fails if any of the 28 moments (entrance → dismissal) is missing or out of
+  section order.

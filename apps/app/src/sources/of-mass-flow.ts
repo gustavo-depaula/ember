@@ -1,5 +1,6 @@
 import { resolveOfDay } from '@ember/mass'
 import type { Lang, MassFormulary } from '@ember/missal-schema'
+import { getCatalog } from '@/content/contentIndex'
 import type { Primitive } from '@/content/primitives'
 import {
   loadMassFormulary,
@@ -21,7 +22,13 @@ import type { ContentSource, SourceFetchContext } from './types'
  */
 export const ofMassFlowSource: ContentSource<Primitive[]> = {
   id: 'producer/mass-of',
-  version: '1',
+  // The cached flow embeds resolved order/formulary blobs whose hashes change
+  // on every corpus build. The cache key omits those hashes, so without the
+  // corpus generation here a rebuilt corpus would render stale forever. The
+  // catalog's `generated` stamp changes each build → cache auto-invalidates.
+  get version() {
+    return `2:${getCatalog().generated}`
+  },
   prefsDeps: ['lang', 'translation'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {

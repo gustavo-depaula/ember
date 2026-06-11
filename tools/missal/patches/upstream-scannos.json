@@ -82,5 +82,59 @@
     "replace": "Commemoration",
     "lang": "en-US",
     "note": "lord's-supper section heading typo"
+  },
+  {
+    "match": "do ano 250 􀄋 356",
+    "replace": "do ano 250 a 356",
+    "lang": "pt-BR",
+    "note": "sanctorale 01-17: PUA glyph U+10010B for the year-range word"
+  },
+  {
+    "match": "Concedei􀂊nos",
+    "replace": "Concedei-nos",
+    "lang": "pt-BR",
+    "note": "sanctorale 02-05: PUA glyph U+10008A for hyphen in 'Concedei-nos'"
+  },
+  {
+    "match": "em todo5 05 5􀃝tores",
+    "replace": "em todos os setores",
+    "lang": "pt-BR",
+    "note": "sanctorale 04-30: OCR garble (5->s, 0->o) + PUA U+1000DD; 'em todos os setores'"
+  },
+  {
+    "match": "os novo􀃞 textos",
+    "replace": "os novos textos",
+    "lang": "pt-BR",
+    "note": "sanctorale 04-30: PUA U+1000DE for final s of 'novos'"
+  },
+  {
+    "match": "destes 􀁂o mártir",
+    "replace": "destes ao mártir",
+    "lang": "pt-BR",
+    "note": "sanctorale 12-29: PUA U+100042 for 'a' in 'ao'"
+  },
+  {
+    "match": "g􀀶aça",
+    "replace": "graça",
+    "lang": "pt-BR",
+    "note": "easter-vigil Exsultet: PUA U+100036 for 'r' in 'graça'"
+  },
+  {
+    "match": "que􀀮 Deus",
+    "replace": "que é Deus",
+    "lang": "pt-BR",
+    "note": "easter wk7 fri collect: PUA U+10002E for 'é' in 'que é Deus'"
+  },
+  {
+    "match": "que􀁈 Deus",
+    "replace": "que é Deus",
+    "lang": "pt-BR",
+    "note": "OT wk10 sunday collect: PUA U+100048 for 'é' in 'que é Deus'"
+  },
+  {
+    "match": "Espírito 􀁄anto",
+    "replace": "Espírito Santo",
+    "lang": "pt-BR",
+    "note": "OT wk14 sunday collect: PUA U+100044 for 'S' in 'Santo'"
   }
 ]

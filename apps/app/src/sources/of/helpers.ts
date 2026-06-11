@@ -5,6 +5,7 @@ import type {
   ChoiceRichTextOption,
   ContainerPrimitive,
   Primitive,
+  VersesPrimitive,
 } from '@/content/primitives'
 
 /** Which languages the renderer pairs: primary always shown, secondary optional. */
@@ -95,25 +96,98 @@ export function choiceOption(
   return out
 }
 
+/** A people's-response rich text (rendered with the ℟ mark) from a localized
+ * one-liner — the fixed "Amém"/"Graças a Deus"/"Glória a vós" replies. */
+export function responseRichText(loc: Localized, lang: LangPrefs): BilingualRichText | undefined {
+  const primary = loc[lang.primary] ?? loc['pt-BR'] ?? loc['en-US'] ?? loc.la
+  if (!primary) return undefined
+  const out: BilingualRichText = { primary: [[{ type: 'response', text: primary }]] }
+  const sec = lang.secondary ? loc[lang.secondary] : undefined
+  if (sec) out.secondary = [[{ type: 'response', text: sec }]]
+  return out
+}
+
+/** Join a line's segments into one string — a drop-cap glues to the next word
+ * ("G" + "lória" → "Glória"), everything else is space-separated. */
+export function joinLine(line: { type: string; text: string }[]): string {
+  let out = ''
+  let glue = false
+  for (const s of line) {
+    if (out === '') out = s.text
+    else out += (glue ? '' : ' ') + s.text
+    glue = s.type === 'dropCap'
+  }
+  return out
+}
+
+type Seg = { type: string; text: string }
+const vrMarkerRe = /^[VR]\s*\/\.?/
+
+/** A versicle/response line carries a "V/." or "R/." marker, or (the people's
+ * acclamations) is made entirely of `response` segments. Returns the role. */
+function vrRole(line: Seg[]): 'v' | 'r' | undefined {
+  const first = line[0]
+  if (first?.type === 'rubric') {
+    const m = vrMarkerRe.exec(first.text.trim())
+    if (m) return first.text.trim()[0] === 'V' ? 'v' : 'r'
+  }
+  if (line.length > 0 && line.every((s) => s.type === 'response')) return 'r'
+  return undefined
+}
+
+/** Drop a leading "V/."/"R/." marker segment; join the rest of the line. */
+function withoutMarker(line: Seg[]): string {
+  const first = line[0]
+  return first?.type === 'rubric' && vrMarkerRe.test(first.text.trim())
+    ? joinLine(line.slice(1))
+    : joinLine(line)
+}
+
 /**
- * Render a RichText as one primitive per line — rubric lines become rubrics,
- * everything else body text. Used for fixed Order-of-Mass frames where there's
- * no picker, just continuous prayer text.
+ * Render a RichText as primitives, faithful to who-says-what:
+ *  - rubric lines → burgundy stage directions;
+ *  - versicle/response lines (V/. ℣, R/. ℟, or the people's `response` parts) →
+ *    grouped into a `verses` vr block with the proper liturgical marks;
+ *  - a mixed rubric+text line is classified by its opening segment — a line that
+ *    opens with a stage direction is a rubric (quoted prayer fragments like
+ *    "(Kýrie, eléison)" stay inline, never broken onto their own line);
+ *  - everything else → bilingual body text.
+ * Used for the fixed Order-of-Mass frames where there's no picker.
  */
 export function lines(rt: RichText | undefined, lang: LangPrefs): Primitive[] {
   if (!rt) return []
   const primary = rt.lines[lang.primary] ?? rt.lines['pt-BR'] ?? rt.lines.la ?? []
   const secondary = lang.secondary ? rt.lines[lang.secondary] : undefined
-  return primary.map((line, i) => {
-    const allRubric = line.length > 0 && line.every((s) => s.type === 'rubric')
-    const value: BilingualText = { primary: line.map((s) => s.text).join(' ') }
+  const out: Primitive[] = []
+  let vr: VersesPrimitive['items'] = []
+  const flushVr = () => {
+    if (vr.length > 0) out.push({ type: 'verses', style: 'vr', items: vr })
+    vr = []
+  }
+
+  primary.forEach((line, i) => {
     const sec = secondary?.[i]
-    if (sec) value.secondary = sec.map((s) => s.text).join(' ')
-    return allRubric ? rubric(value) : text(value)
+    const role = vrRole(line)
+    if (role) {
+      const value: BilingualText = { primary: withoutMarker(line) }
+      if (sec) value.secondary = withoutMarker(sec)
+      vr.push({ role, text: value })
+      return
+    }
+    flushVr()
+    if (line.length === 0) return
+    // A line is a rubric when it opens with one (a pure rubric, or a stage
+    // direction that quotes prayer text); otherwise it's prayed body text.
+    const value: BilingualText = { primary: joinLine(line) }
+    if (sec) value.secondary = joinLine(sec)
+    out.push(line[0].type === 'rubric' ? rubric(value) : text(value))
   })
+  flushVr()
+  return out
 }
 
-/** A choice-rich-text picker over a Prayer's options. */
+/** A choice-rich-text picker over a Prayer's options. `response`, when given,
+ * is the people's reply rendered after each option (the orations' "Amém"). */
 export function prayerPicker(args: {
   overrideKey: string
   label: BilingualText
@@ -121,10 +195,13 @@ export function prayerPicker(args: {
   lang: LangPrefs
   defaultBlank?: boolean
   pickerStyle?: 'chips' | 'cards'
+  response?: BilingualRichText
 }): ContainerPrimitive {
-  const options = args.prayer.options.map((opt, i) =>
-    choiceOption(`opt-${i}`, bt(opt.label, args.lang) ?? args.label, opt, args.lang),
-  )
+  const options = args.prayer.options.map((opt, i) => {
+    const o = choiceOption(`opt-${i}`, bt(opt.label, args.lang) ?? args.label, opt, args.lang)
+    if (args.response) o.response = args.response
+    return o
+  })
   return {
     type: 'container',
     behavior: {

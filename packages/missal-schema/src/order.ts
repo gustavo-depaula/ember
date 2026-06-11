@@ -1,12 +1,53 @@
 import { z } from 'zod'
-import { localizedSchema } from './lang'
-import { richTextSchema } from './richtext'
+import { type Localized, localizedSchema } from './lang'
+import { type RichText, richTextSchema } from './richtext'
+
+/**
+ * An order piece is an ordered list of segments: fixed `text` runs and
+ * pick-one `choice` sets. A choice's options carry their own `segments`, so a
+ * choice can nest — e.g. the Penitential Act's three forms, each of which has
+ * its own pick-one set of opening invitations. The renderer shows one option
+ * at a time with a chip picker, so the prayer never faces a wall of every
+ * alternative at once.
+ */
+export interface OrderText {
+  kind: 'text'
+  body: RichText
+}
+export interface OrderChoice {
+  kind: 'choice'
+  label: Localized // chip-group heading, e.g. 'Fórmula'
+  options: OrderChoiceOption[]
+}
+export interface OrderChoiceOption {
+  label: Localized
+  segments: OrderSegment[]
+}
+export type OrderSegment = OrderText | OrderChoice
+
+export const orderChoiceOptionSchema: z.ZodType<OrderChoiceOption> = z.lazy(() =>
+  z.object({ label: localizedSchema, segments: z.array(orderSegmentSchema) }),
+)
+
+export const orderSegmentSchema: z.ZodType<OrderSegment> = z.lazy(() =>
+  z.discriminatedUnion('kind', [
+    z.object({ kind: z.literal('text'), body: richTextSchema }),
+    z.object({
+      kind: z.literal('choice'),
+      label: localizedSchema,
+      options: z.array(orderChoiceOptionSchema).min(1),
+    }),
+  ]),
+)
 
 /** A generic Order-of-Mass slot: one prayer/chant/exchange, one small file. */
 export const orderItemSchema = z.object({
   id: z.string().min(1), // 'order.gloria', 'order.penitential-act.a'
   title: localizedSchema.optional(),
-  body: richTextSchema,
+  body: richTextSchema, // full inline text — the fallback and search source
+  // When present, the renderer walks these instead of `body`, turning pick-one
+  // sets (Penitential Act forms, greeting formulas) into chip selectors.
+  segments: z.array(orderSegmentSchema).optional(),
 })
 export type OrderItem = z.infer<typeof orderItemSchema>
 
