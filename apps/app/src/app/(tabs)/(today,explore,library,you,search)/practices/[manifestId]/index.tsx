@@ -37,7 +37,7 @@ import {
   type PracticeFormData,
 } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { selectEnrollmentSchedule } from '@/features/plan-of-life/program'
-import { PracticeHero, PracticeTeachingContent } from '@/features/practices/components'
+import { PracticeHero, PracticeTeachingContent, VariantList } from '@/features/practices/components'
 import { localizeContent } from '@/lib/i18n'
 import { useNowPlayingClearance } from '@/stores/creatorsStore'
 
@@ -58,23 +58,33 @@ export default function CatalogDetailScreen() {
     scrollY.value = e.contentOffset.y
   })
 
-  const manifest = manifestId ? getManifest(manifestId) : undefined
-  const slotsForManifest = useSlotsForPractice(manifestId)
+  // Local variant swap — picking a sibling variant updates state in place rather than
+  // pushing a new route, so the catalog page doesn't refresh between alternatives.
+  const [pickedVariantId, setPickedVariantId] = useState<string | undefined>(undefined)
+  const viewingId = pickedVariantId ?? manifestId
+
+  const manifest = viewingId ? getManifest(viewingId) : undefined
+  const slotsForManifest = useSlotsForPractice(viewingId)
   const firstSlot = slotsForManifest[0]
   const isDirectlyInPlan = slotsForManifest.some((s) => s.enabled === 1)
 
   // Check if any member of the same alternative group is already in the plan
   const practices = useEventStore((s) => s.practices)
   const groupMemberInPlan = useMemo(() => {
-    if (!manifestId || isDirectlyInPlan) return undefined
+    if (!viewingId || isDirectlyInPlan) return undefined
     const activeIds = new Set<string>()
     for (const [id, p] of practices) {
       if (!p.archived) activeIds.add(id)
     }
-    return findGroupMemberInSet(manifestId, activeIds)
-  }, [manifestId, isDirectlyInPlan, practices])
+    return findGroupMemberInSet(viewingId, activeIds)
+  }, [viewingId, isDirectlyInPlan, practices])
   const isInPlan = isDirectlyInPlan || !!groupMemberInPlan
-  const planPracticeId = groupMemberInPlan ?? manifestId
+  const planPracticeId = groupMemberInPlan ?? viewingId
+  const groupMemberVariantLabel = useMemo(() => {
+    if (!groupMemberInPlan) return undefined
+    const m = getManifest(groupMemberInPlan)
+    return m?.alternativeTo?.label ? localizeContent(m.alternativeTo.label) : undefined
+  }, [groupMemberInPlan])
 
   const createPractice = useCreatePractice()
   const updateSlot = useUpdateSlot()
@@ -84,28 +94,25 @@ export default function CatalogDetailScreen() {
   const [showEditor, setShowEditor] = useState(false)
   const [addingToCollection, setAddingToCollection] = useState(false)
   const programProgress = useProgramProgress(manifest?.id ?? '', manifest?.program)
-  const group = useMemo(
-    () => (manifestId ? getAlternativeGroup(manifestId) : undefined),
-    [manifestId],
-  )
+  const group = useMemo(() => (viewingId ? getAlternativeGroup(viewingId) : undefined), [viewingId])
   const catalogVersion = useCatalogVersion()
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal — re-running the memo when it bumps is the entire point.
   const collectionLabels = useMemo(() => {
-    if (!manifestId) return []
-    return getCollectionsForItem(`practice/${manifestId}`)
+    if (!viewingId) return []
+    return getCollectionsForItem(`practice/${viewingId}`)
       .map((cid) => {
         const entry = getEntry(cid)
         return entry?.name ? localizeContent(entry.name as Record<string, string>) : undefined
       })
       .filter((s): s is string => !!s)
-  }, [manifestId, catalogVersion])
+  }, [viewingId, catalogVersion])
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
   const collectionPinned = useMemo(() => {
-    if (!manifestId) return false
-    return getCollectionsForItem(`practice/${manifestId}`).some(isPinned)
-  }, [manifestId, catalogVersion])
+    if (!viewingId) return false
+    return getCollectionsForItem(`practice/${viewingId}`).some(isPinned)
+  }, [viewingId, catalogVersion])
 
-  if (!manifestId || !manifest) {
+  if (!viewingId || !manifest) {
     return (
       <YStack flex={1} backgroundColor="$background" alignItems="center" justifyContent="center">
         <Typography variant="interface" tone="muted">
@@ -132,11 +139,11 @@ export default function CatalogDetailScreen() {
   const metadata = metaParts.join(' · ') || undefined
 
   function handleAddToPlan() {
-    const practice = manifestId ? getPractice(manifestId) : undefined
+    const practice = viewingId ? getPractice(viewingId) : undefined
     if (practice?.archived) {
-      unarchivePractice.mutate(manifestId)
+      unarchivePractice.mutate(viewingId)
     } else if (firstSlot && !firstSlot.enabled) {
-      enableSlots.mutate(manifestId)
+      enableSlots.mutate(viewingId)
     } else {
       setShowEditor(true)
     }
@@ -268,38 +275,6 @@ export default function CatalogDetailScreen() {
             </Typography>
           )}
 
-          {group && (
-            <XStack gap="$md" flexWrap="wrap" justifyContent="center">
-              {group.members.map((member) => {
-                const isActive = member.manifest.id === manifest.id
-                return (
-                  <Pressable
-                    key={member.manifest.id}
-                    onPress={() =>
-                      router.push({
-                        pathname: '/practices/[manifestId]',
-                        params: { manifestId: member.manifest.id },
-                      })
-                    }
-                    disabled={isActive}
-                    hitSlop={8}
-                    accessibilityRole="radio"
-                    accessibilityLabel={member.label}
-                    accessibilityState={{ selected: isActive }}
-                  >
-                    <Typography
-                      variant="label"
-                      fontSize="$2"
-                      color={isActive ? '$accent' : '$colorSecondary'}
-                    >
-                      {member.label}
-                    </Typography>
-                  </Pressable>
-                )
-              })}
-            </XStack>
-          )}
-
           {isProgram ? (
             isInPlan ? (
               programProgress?.isComplete ? (
@@ -362,17 +337,30 @@ export default function CatalogDetailScreen() {
               />
             )
           ) : isInPlan ? (
-            <TextLink
-              label={t('catalog.alreadyInPlan')}
-              onPress={() =>
-                router.push({
-                  pathname: '/plan/[practiceId]',
-                  params: { practiceId: planPracticeId },
-                })
-              }
-              accessibilityRole="link"
-              chevron
-            />
+            <YStack gap="$xs">
+              {groupMemberVariantLabel && (
+                <Typography
+                  variant="caption"
+                  fontSize="$1"
+                  textAlign="center"
+                  tone="muted"
+                  fontStyle="italic"
+                >
+                  {t('catalog.alreadyInPlanAsVariant', { name: groupMemberVariantLabel })}
+                </Typography>
+              )}
+              <TextLink
+                label={t('catalog.alreadyInPlan')}
+                onPress={() =>
+                  router.push({
+                    pathname: '/plan/[practiceId]',
+                    params: { practiceId: planPracticeId },
+                  })
+                }
+                accessibilityRole="link"
+                chevron
+              />
+            </YStack>
           ) : (
             <TextLink
               label={t('catalog.addToPlan')}
@@ -384,7 +372,25 @@ export default function CatalogDetailScreen() {
 
           <SectionDivider />
 
-          <PracticeTeachingContent manifest={manifest} defaultExpanded />
+          <PracticeTeachingContent
+            manifest={manifest}
+            defaultExpanded
+            afterDescription={
+              group && (
+                <VariantList
+                  group={group}
+                  activeVariant={manifest.id}
+                  onSelect={(id) => setPickedVariantId(id)}
+                  onPreview={(id) =>
+                    router.push({
+                      pathname: '/pray/[practiceId]',
+                      params: { practiceId: id },
+                    })
+                  }
+                />
+              )
+            }
+          />
         </YStack>
       </Animated.ScrollView>
 

@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
-import { ProseBlock } from '@/components/prayer'
+import { InlineMarkdown } from '@/components/prayer'
 import { useUpcomingCelebration } from '@/features/calendar'
 import { localizeContent } from '@/lib/i18n'
 import { normalizeDate } from '@/lib/liturgical'
@@ -53,9 +53,9 @@ export function SeasonalContext({ date }: { date: Date }) {
           {when}
         </Text>
         {description && (
-          <YStack maxWidth={520}>
-            <ProseBlock text={{ primary: description }} />
-          </YStack>
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" maxWidth={520}>
+            <InlineMarkdown source={description} />
+          </Text>
         )}
       </YStack>
     </AnimatedPressable>

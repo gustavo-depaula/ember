@@ -715,7 +715,7 @@ export default {
     emptyState: 'Sua regra de vida ainda é uma página em branco.',
     emptyStateDescription:
       'Adicione práticas para começar a moldar seus dias — oração, leitura, silêncio, caridade.',
-    emptyStateAction: 'Ver práticas →',
+    emptyStateAction: 'Ver tradições →',
     pinAll: 'Tornar plano disponível offline',
     pinAllInProgress: 'Salvando para offline… {{done}} de {{total}}',
     planOffline: 'Plano disponível offline',
@@ -1259,6 +1259,7 @@ export default {
     all: 'Todas',
     addToPlan: 'Adicionar ao Plano',
     alreadyInPlan: 'No seu Plano',
+    alreadyInPlanAsVariant: 'Você já tem esta prática no seu Plano como {{name}}.',
     estimatedTime: '{{minutes}} min',
     about: 'Sobre',
     history: 'Hist\u00f3ria',
@@ -1275,6 +1276,30 @@ export default {
     prayerCount_other: '{{count}} orações',
     bookCount_one: '{{count}} livro',
     bookCount_other: '{{count}} livros',
+    allPractices: 'Todas as Práticas',
+    byMoment: 'Por momento',
+    byType: 'Por tipo',
+    traditions: 'Caminhos',
+    devotions: 'Devoções',
+    personal: 'Personalizadas',
+    custom: 'Criar prática',
+    allPracticesTile: 'Ver tudo',
+    moment: {
+      morning: 'Manhã',
+      midday: 'Meio-dia',
+      afternoon: 'Tarde',
+      evening: 'Início da noite',
+      night: 'Antes de dormir',
+      mass: 'Santa Missa',
+    },
+    type: {
+      marian: 'Marianas',
+      eucharist: 'Eucaristia',
+      litany: 'Ladainhas',
+      program: 'Programas',
+      meditation: 'Oração mental',
+      formation: 'Formação',
+    },
   },
 
   boot: {
@@ -1541,6 +1566,10 @@ export default {
     completionSyncFailed: 'Não foi possível atualizar seu progresso',
     completionSyncFailedDesc:
       'Sua oração foi registrada, mas não conseguimos avançar para o próximo dia. Tente novamente mais tarde.',
+    variants: 'Variantes',
+    variantsOf: 'Variantes de {{name}}',
+    selectVariant: 'Selecionar {{name}}',
+    previewVariant: 'Pré-visualizar {{name}}',
   },
 
   practices: {

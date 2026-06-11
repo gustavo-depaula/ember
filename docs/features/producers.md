@@ -176,7 +176,7 @@ Internally calls `massOfSource.load(ctx)` (existing, in `packages/mass-of/src/so
 |---|---|---|
 | `producer/mass` | `@ember/mass` (`buildMassFlow`/`buildEFFlow`) | ✅ **Shipped** — form-aware (OF + EF) via `params.form`; `flow.json` is a thin form select. |
 | `producer/ccc-chapter` | vatican.va CCC | First external book. Replaces `apps/app/src/lib/catechism.ts` + `app/catechism/index.tsx`. |
-| `producer/breviary-of-the-day` | iBreviary (https://www.ibreviary.org/en/tools/ibreviary-on-your-website.html) | Friendly integration — lang/rite/hour parameters. |
+| `producer/breviary-of-the-day` | iBreviary (https://www.ibreviary.org/en/tools/ibreviary-on-your-website.html) | ✅ **Shipped** — `apps/app/src/sources/ibreviary/`. All seven canonical hours via `params.hour` (terce/sext/none split from the combined `ora_media` page); native-only with a web notice (no CORS); `dateScoped`; date set by a serialized session queue (POST `opzioni.php` + GET per page, shared PHPSESSID). Surfaces as the `liturgy-of-the-hours` practice. Latin (Liturgia Horarum, `lang=la`) ships as a primary edition for `contentLanguage: la` users; Vetus Ordo (`vt`) deferred — table-driven, cheap to add. |
 | `producer/gospel-of-the-day` | vaticannews.va word-of-the-day | ✅ **Shipped** — `apps/app/src/sources/vatican-news/`. Today's Gospel (citation + passage) from Vatican News on native; **falls back to the offline `mass-of` Gospel** on web (CORS) or any fetch failure, so the tab is always populated; `dateScoped`. |
 | `producer/word-of-the-pope` | vaticannews.va word-of-the-day | ✅ **Shipped** — `apps/app/src/sources/vatican-news/`. Imports only the "words of the Popes" reflection; native-only + web text fallback; `dateScoped`. Shares the daily-page fetch with `gospel-of-the-day` (in-flight dedup). Both surface as tabs inside the `gospel-of-the-day` practice. |
 | `producer/encyclical-section` | vatican.va archives | Shared producer package with `ccc-chapter`. |
@@ -196,7 +196,7 @@ These are mentioned here so we don't pretend they don't exist; they are not desi
 - **Web parity for external fetching.** Native uses `fetch()` directly. Web needs either a thin no-store CORS proxy or a "open original" fallback. Resolve when a real source forces the decision.
 - **Lírio Católico partnership.** Approach the site owner about a JSON endpoint instead of scraping — better for both sides.
 - **Escriva legal posture.** Confirm transient display with attribution is acceptable before any adapter work.
-- **iBreviary terms-of-use review** before shipping the producer.
+- ~~**iBreviary terms-of-use review** before shipping the producer.~~ Resolved — iBreviary invites third-party reuse of its texts (see link in the table above); the producer emits an attribution line with every hour.
 
 ---
 

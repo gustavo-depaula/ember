@@ -707,7 +707,7 @@ export default {
     emptyState: 'Your rule of life is still a blank page.',
     emptyStateDescription:
       'Add practices to begin shaping the shape of your days — prayer, reading, silence, almsgiving.',
-    emptyStateAction: 'Browse practices →',
+    emptyStateAction: 'Browse traditions →',
     pinAll: 'Make plan available offline',
     pinAllInProgress: 'Saving for offline… {{done}} of {{total}}',
     planOffline: 'Plan is available offline',
@@ -1252,6 +1252,7 @@ export default {
     all: 'All',
     addToPlan: 'Add to Plan',
     alreadyInPlan: 'In your Plan',
+    alreadyInPlanAsVariant: 'You already have this in your Plan as {{name}}.',
     estimatedTime: '{{minutes}} min',
     about: 'About',
     history: 'History',
@@ -1268,6 +1269,30 @@ export default {
     prayerCount_other: '{{count}} prayers',
     bookCount_one: '{{count}} book',
     bookCount_other: '{{count}} books',
+    allPractices: 'All Practices',
+    byMoment: 'By moment',
+    byType: 'By type',
+    traditions: 'Traditions',
+    devotions: 'Devotions',
+    personal: 'Personal',
+    custom: 'Create practice',
+    allPracticesTile: 'See all',
+    moment: {
+      morning: 'Morning',
+      midday: 'Midday',
+      afternoon: 'Afternoon',
+      evening: 'Evening',
+      night: 'Night',
+      mass: 'Holy Mass',
+    },
+    type: {
+      marian: 'Marian',
+      eucharist: 'Eucharistic',
+      litany: 'Litanies',
+      program: 'Programs',
+      meditation: 'Mental Prayer',
+      formation: 'Formation',
+    },
   },
 
   boot: {
@@ -1534,6 +1559,10 @@ export default {
     completionSyncFailed: 'Couldn’t update your progress',
     completionSyncFailedDesc:
       'Your prayer was recorded, but we couldn’t advance to the next day. Please try again later.',
+    variants: 'Variants',
+    variantsOf: 'Variants of {{name}}',
+    selectVariant: 'Select {{name}}',
+    previewVariant: 'Preview {{name}}',
   },
 
   practices: {

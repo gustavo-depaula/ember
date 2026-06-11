@@ -33,8 +33,7 @@ import {
   useUpdateSlot,
 } from '@/features/plan-of-life'
 import { SlotConfigurator } from '@/features/plan-of-life/components/SlotConfigurator'
-import { VariantSelector } from '@/features/plan-of-life/components/VariantSelector'
-import { PracticeTeachingContent, TrackPicker } from '@/features/practices/components'
+import { PracticeTeachingContent, TrackPicker, VariantList } from '@/features/practices/components'
 
 export default function PracticeDetailScreen() {
   const { t } = useTranslation()
@@ -44,9 +43,12 @@ export default function PracticeDetailScreen() {
 
   const slots = useSlotsForPractice(practiceId)
   const practice = usePractice(practiceId)
-  const activeVariant = practice?.active_variant ?? practiceId
-  const manifest = activeVariant ? getManifest(activeVariant) : undefined
+  // Fall back to the canonical (kind-prefixed) manifest id, not the bare URL
+  // param — VariantList compares against the canonical id, so without this the
+  // default variant doesn't get highlighted.
   const baseManifest = practiceId ? getManifest(practiceId) : undefined
+  const activeVariant = practice?.active_variant ?? baseManifest?.id ?? practiceId
+  const manifest = activeVariant ? getManifest(activeVariant) : undefined
   const displayManifest = manifest ?? baseManifest
   const isProgram = !!displayManifest?.program
   const hasFlow = !!displayManifest?.flowHash
@@ -127,17 +129,6 @@ export default function PracticeDetailScreen() {
           </Text>
         </XStack>
 
-        {group && activeVariant && (
-          <VariantSelector
-            group={group}
-            activeVariant={activeVariant}
-            onSelect={(id) =>
-              // biome-ignore lint/style/noNonNullAssertion: guarded by the early loading return above
-              updatePractice.mutate({ id: practiceId!, data: { activeVariant: id } })
-            }
-          />
-        )}
-
         {isProgram && activeVariant ? (
           <AnimatedPressable
             onPress={() =>
@@ -216,6 +207,26 @@ export default function PracticeDetailScreen() {
           }
           onDeleteSlot={(slotId) => deleteSlot.mutate(slotId)}
         />
+
+        {group && activeVariant && (
+          <>
+            <SectionDivider />
+            <VariantList
+              group={group}
+              activeVariant={activeVariant}
+              onSelect={(id) =>
+                // biome-ignore lint/style/noNonNullAssertion: guarded by the early loading return above
+                updatePractice.mutate({ id: practiceId!, data: { activeVariant: id } })
+              }
+              onPreview={(id) =>
+                router.push({
+                  pathname: '/pray/[practiceId]',
+                  params: { practiceId: id },
+                })
+              }
+            />
+          </>
+        )}
 
         {trackDefs && cursorRows.length > 0 && (
           <>
