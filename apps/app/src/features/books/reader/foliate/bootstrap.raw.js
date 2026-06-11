@@ -329,7 +329,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
   };
 
   const buildBook = () => {
-    // Style change → drop stale URLs so the next load re-blobs with fresh CSS.
+    // Drop any stale URLs so the next load re-blobs with the current CSS.
     for (const s of sections.values()) {
       if (s.url) { URL.revokeObjectURL(s.url); s.url = undefined; }
     }
@@ -349,15 +349,38 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     return { dir: 'ltr', sections: out };
   };
 
+  // Mirror of the paginator's private #index (no public getter exists) —
+  // updated on every relocate. Used to bound over-scroll chapter navigation.
+  let lastIndex = initialIndex ?? 0;
+
   const postRelocate = (e) => {
-    // foliate's pages count includes two dummy pages (cover sentinels), so
-    // the user-visible total is pages - 2.
-    const total = Math.max(1, (paginator.pages || 1) - 2);
-    const current = Math.max(1, Math.min(total, paginator.page || 1));
+    lastIndex = e.detail.index;
+    let total;
+    let current;
+    let fraction;
+    if (cfg.flow === 'scrolled') {
+      // Scrolled layout has no sentinel pages; a "page" is one viewport
+      // screen. Fraction is progress through the SCROLLABLE range (not the
+      // full content height) so it reaches 1 at the true bottom — otherwise
+      // a chapter shorter than ~20 screens could never hit the 0.95
+      // completion threshold. A chapter that fits one screen is read on sight.
+      const size = paginator.size;
+      const viewSize = paginator.viewSize;
+      total = Math.max(1, Math.round(viewSize / size));
+      current = Math.max(1, Math.min(total, Math.floor(paginator.start / size) + 1));
+      fraction =
+        viewSize > size ? Math.max(0, Math.min(1, paginator.start / (viewSize - size))) : 1;
+    } else {
+      // foliate's pages count includes two dummy pages (cover sentinels), so
+      // the user-visible total is pages - 2.
+      total = Math.max(1, (paginator.pages || 1) - 2);
+      current = Math.max(1, Math.min(total, paginator.page || 1));
+      fraction = e.detail.fraction;
+    }
     post({
       type: 'relocate',
       index: e.detail.index,
-      fraction: e.detail.fraction,
+      fraction: fraction,
       page: current,
       pages: total,
     });
@@ -462,6 +485,46 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     });
   };
 
+  // Over-scroll chapter navigation (scrolled mode only). Native scroll stops
+  // dead at the chapter's edge with no affordance to continue. A swipe that
+  // STARTS while already pinned at the boundary is a deliberate second
+  // gesture, so treat it as next/prev chapter. The 70px threshold filters
+  // out taps and accidental nudges. Boundary checks mirror foliate's own
+  // #scrollNext / #scrollPrev guards.
+  const wireOverscroll = (doc) => {
+    if (!doc || doc.__overscrollWired) return;
+    doc.__overscrollWired = true;
+    let gesture;
+    doc.addEventListener(
+      'touchstart',
+      (ev) => {
+        gesture = undefined;
+        if (cfg.flow !== 'scrolled' || !paginator) return;
+        if (globalThis.visualViewport && globalThis.visualViewport.scale > 1) return;
+        const touch = ev.changedTouches[0];
+        if (!touch) return;
+        gesture = {
+          y: touch.screenY,
+          atTop: paginator.start <= 0,
+          atBottom: paginator.viewSize - paginator.end < 2,
+        };
+      },
+      { passive: true },
+    );
+    doc.addEventListener('touchend', (ev) => {
+      const g = gesture;
+      gesture = undefined;
+      if (!g || cfg.flow !== 'scrolled') return;
+      const touch = ev.changedTouches[0];
+      if (!touch) return;
+      const dy = g.y - touch.screenY;
+      // Bound by the spine: foliate's scrolled #scrollNext returns true even
+      // on the last chapter, and #goTo({index: undefined}) throws.
+      if (g.atBottom && dy > 70 && lastIndex + 1 < chapterTotal) paginator.next();
+      else if (g.atTop && dy < -70 && lastIndex > 0) paginator.prev();
+    });
+  };
+
   // Cross-chapter fade-in. Foliate swaps the iframe element outright on
   // chapter boundaries, which otherwise reads as a hard snap. 200ms read as a
   // perceptible lag at the boundary; 120ms is short enough to feel like a
@@ -509,22 +572,29 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       fadeInChapter(doc);
       wireSelectionListener(doc, e.detail.index);
       wireTapZones(doc);
+      wireOverscroll(doc);
     });
     document.body.append(paginator);
+  };
+
+  // In scrolled mode our posted fraction is normalized over the SCROLLABLE
+  // range (see postRelocate), but foliate's numeric anchors are a fraction of
+  // the full content height. Function anchors are evaluated after the section
+  // loads, when viewSize is finally known — invert the normalization there.
+  const toAnchor = (fraction) => {
+    const f = fraction ?? 0;
+    if (cfg.flow !== 'scrolled') return f;
+    return () => {
+      const size = paginator.size;
+      const viewSize = paginator.viewSize;
+      return viewSize > size ? (f * (viewSize - size)) / viewSize : 0;
+    };
   };
 
   const openBook = (index, fraction) => {
     ensurePaginator();
     paginator.open(buildBook());
-    paginator.goTo({ index: index ?? 0, anchor: fraction ?? 0 });
-  };
-
-  const currentLocation = () => {
-    if (!paginator || !(paginator.pages > 2)) return { index: 0, fraction: 0 };
-    return {
-      index: paginator.index ?? 0,
-      fraction: (Math.max(1, paginator.page) - 1) / (paginator.pages - 2),
-    };
+    paginator.goTo({ index: index ?? 0, anchor: toAnchor(fraction) });
   };
 
   const findRange = (doc, needleLower) => {
@@ -572,7 +642,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     },
     goTo: ({ index, fraction }) => {
       if (!paginator) return;
-      paginator.goTo({ index: index ?? 0, anchor: fraction ?? 0 });
+      paginator.goTo({ index: index ?? 0, anchor: toAnchor(fraction) });
     },
     goToWithFind: async (index, findText) => {
       if (!paginator) return;
@@ -594,13 +664,18 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       cfg = newCfg;
       if (!paginator) return;
       paginator.setAttribute('margin', cfg.marginPx + 'px');
+      // The flow attribute change triggers foliate's render(), which restores
+      // the last visible range — position survives the relayout natively.
+      // Never reopen the book here: goTo with the current index skips the
+      // section reload, and the index isn't even readable from outside.
       paginator.setAttribute('flow', cfg.flow);
       paginator.style.background = cfg.background;
-      // Re-blob every chapter with the new STYLE (foliate-paginator has no
-      // setStyles); restore {index, fraction} so position is preserved.
-      const here = currentLocation();
-      paginator.open(buildBook());
-      paginator.goTo({ index: here.index, anchor: here.fraction });
+      // Live-restyle the loaded chapter via foliate's setStyles; drop cached
+      // blob URLs so future section loads re-blob with the new CSS.
+      for (const s of sections.values()) {
+        if (s.url) { URL.revokeObjectURL(s.url); s.url = undefined; }
+      }
+      paginator.setStyles(buildStyle(cfg));
     },
     setHighlights: (list) => {
       highlightsByChapter.clear();
