@@ -121,15 +121,18 @@ export function segment(primitives: Primitive[], ibLang: IbLang): Section[] {
 
 // Every psalm verse carries exactly one mediant star, in every edition — the
 // one layout invariant that survives the editions' different stanza chunking
-// and flexa placement. A verse unit starts at a star-bearing line; following
-// star-less lines (second half-verse, flexa continuations) attach to it.
+// and flexa placement. A verse unit starts at a star-bearing line, or at an
+// unindented flexa line (EN/LA open flexed verses with "…; †" before the
+// star — PT instead indents flexa continuations, which attach backward).
+// Everything star-less and unindented-†-less attaches to the current unit.
 const hasStar = (line: string) => line.includes('*')
+const opensFlexedVerse = (line: string) => /†\s*$/.test(line) && !line.startsWith('  ')
 
 function verseUnits(lines: string[]): string[][] {
   const units: string[][] = []
   let unit: string[] = []
   for (const line of lines) {
-    if (hasStar(line) && unit.some(hasStar)) {
+    if (unit.some(hasStar) && (hasStar(line) || opensFlexedVerse(line))) {
       units.push(unit)
       unit = []
     }

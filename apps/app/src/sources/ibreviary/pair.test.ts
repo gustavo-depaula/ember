@@ -133,6 +133,34 @@ describe('pairEditions — EN Vespers + LA', () => {
   })
 })
 
+describe('pairEditions — PT Lauds + EN (vernacular ↔ vernacular)', () => {
+  const out = pairEditions(
+    parseHour(load('pt-lodi.html')),
+    parseHour(load('en-lodi.html')),
+    'pt',
+    'en',
+  )
+
+  it('pairs antiphons and the reading', () => {
+    expect(findText(out, 'Glória ao Senhor nas alturas')?.text.secondary).toContain(
+      'Glorious is the Lord on high',
+    )
+    expect(findText(out, 'Vou abrir os vossos túmulos')?.text.secondary).toContain(
+      'I will open your graves',
+    )
+  })
+
+  it('redistributes EN verses onto PT stanzas with flexa-opened verses intact', () => {
+    // PT chunks Ps 92(93) into 3 stanzas, EN into one stanza per verse — the
+    // verse-unit path applies, and EN's unindented "…; †" lines must open
+    // their own verse rather than glue to the previous one.
+    const s2 = findText(out, 'os rios levantaram a sua voz')
+    expect(s2?.text.secondary?.startsWith('The waters have lifted up, O Lord, †')).toBe(true)
+    const s3 = findText(out, 'Os vossos testemunhos')
+    expect(s3?.text.secondary?.startsWith('Truly your decrees are to be trusted. †')).toBe(true)
+  })
+})
+
 describe('pairEditions — no false pairs across whole offices', () => {
   it('every secondary on a paired EN Compline is Latin (spot heuristic)', () => {
     const out = pairEditions(
