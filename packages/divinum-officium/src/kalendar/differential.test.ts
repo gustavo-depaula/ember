@@ -3,21 +3,17 @@
 // This is the M3 fidelity gate. Skipped when the DO checkout isn't present.
 
 import { spawnSync } from 'node:child_process'
-import { copyFileSync, existsSync } from 'node:fs'
+import { copyFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { createFsLoader } from '../node/fsLoader'
+import { contentDo, doClone, hasFixtures, perlHarness, v1Versions } from '../node/testFixtures'
 import { leapyear } from './date'
 import { resolveDay } from './precedence'
 import { num } from './state'
 
-const repoRoot = join(__dirname, '..', '..', '..', '..')
-const contentDo = join(repoRoot, 'content', 'do')
-const doClone = join(repoRoot, '.divinum-officium')
-const harnessSrc = join(__dirname, '..', '..', 'test', 'perl-harness', 'precedence.pl')
-const hasFixtures = existsSync(doClone) && existsSync(contentDo)
-
-const versions = ['Rubrics 1960 - 1960', 'Divino Afflatu - 1954', 'Monastic - 1963']
+const harnessSrc = perlHarness('precedence')
+const versions = v1Versions
 const years = [2025, 2026, 2027]
 
 const monthLengths = (year: number) => [

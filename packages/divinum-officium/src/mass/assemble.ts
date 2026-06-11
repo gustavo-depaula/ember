@@ -3,11 +3,11 @@
 // and runs hooks; the expansion pass resolves $/& references (resolve_refs'
 // semantic half — the HTML half is replaced by the block mapper).
 
-import { createDirectorium } from '../kalendar/directorium'
 import { officestring } from '../kalendar/officestring'
 import { type DayResolution, resolveDay } from '../kalendar/precedence'
 import type { DoLoader } from '../loader'
 import type { Sections } from '../references/resolve'
+import { isSectioned } from '../types'
 import { hooks, replaceNpb, scriptFunctions, translateLabel } from './handlers'
 import { type MassState, winnerOf } from './state'
 import { createTextTables } from './texts'
@@ -21,7 +21,7 @@ async function readScript(state: MassState, lang: string): Promise<string[]> {
   for (const l of [lang, state.session.fallbackLang, 'Latin']) {
     const file = await state.session.loader.load(`missa/${l}/${fname}`)
     if (file) {
-      const lines = 'sections' in file ? file.sections.flatMap((s) => s.lines) : file.lines
+      const lines = isSectioned(file) ? file.sections.flatMap((s) => s.lines) : file.lines
       return [...lines]
     }
   }
@@ -207,14 +207,13 @@ export async function assembleMass(opts: {
     lang1: 'Latin',
   })
 
-  const directorium = await createDirectorium(opts.loader)
   const texts = createTextTables(day.state.session, true)
   const lang2 = opts.lang2 ?? 'Latin'
 
   // Runtime defaults from missa.setup ($pope='Leone,Leo', bishop placeholder).
   const setupDefaults: Record<string, string> = {}
   const setupFile = await opts.loader.load('missa/missa.setup')
-  if (setupFile && 'sections' in setupFile) {
+  if (setupFile && isSectioned(setupFile)) {
     const params = setupFile.sections.find((s) => s.name === 'parameters')
     for (const line of params?.lines ?? []) {
       const m = /^\$(\w+)='(.*?)';;/.exec(line)
@@ -225,7 +224,7 @@ export async function assembleMass(opts: {
   const state: MassState = {
     day,
     session: day.state.session,
-    directorium,
+    directorium: day.state.directorium,
     texts,
     lang1: 'Latin',
     lang2,
@@ -322,9 +321,10 @@ async function renderFinish(state: MassState, items: string[], lang: string): Pr
   const { ctx } = state.day
   let alleluiaRegex: RegExp | undefined
   if (/Quadp|Quad[1-5]|Quad6-[0-5]/i.test(ctx.dayname[0])) {
+    const langs = ['Latin', state.lang1, state.lang2, state.session.fallbackLang]
+    const texts = await Promise.all(langs.map((l) => state.texts.prayer('Alleluia', l)))
     const words = new Set<string>()
-    for (const l of ['Latin', state.lang1, state.lang2, state.session.fallbackLang]) {
-      const text = await state.texts.prayer('Alleluia', l)
+    for (const text of texts) {
       const word = text.replace(/^v\. (.*?)\..*/s, '$1')
       if (word) words.add(word.toLowerCase())
     }

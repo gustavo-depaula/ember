@@ -74,10 +74,11 @@ export async function createDirectorium(loader: DoLoader): Promise<Directorium> 
     versionTableId: string,
     target: Record<string, string>,
   ): void {
+    const versionRegex = new RegExp(versionTableId)
     for (const raw of lines) {
       const [line, ver] = raw.split(/\s*;;\s*/)
       if (!line) continue
-      if (!ver || new RegExp(versionTableId).test(ver)) {
+      if (!ver || versionRegex.test(ver)) {
         const eq = line.indexOf('=')
         if (eq >= 0) target[line.slice(0, eq)] = line.slice(eq + 1)
       }
@@ -180,6 +181,7 @@ export async function createDirectorium(loader: DoLoader): Promise<Directorium> 
     const folderMatch = /^(.*?\/)/.exec(str)
     const strFolder = folderMatch?.[1] ?? ''
 
+    const strRegex = new RegExp(str, 'i')
     const transfer = await loadTransfers(version, year, 'Transfer')
     for (const [key, val] of Object.entries(transfer)) {
       if (!val) continue
@@ -188,8 +190,7 @@ export async function createDirectorium(loader: DoLoader): Promise<Directorium> 
       // Perl interpolates these strings into regexes unescaped; keep that.
       if (
         !new RegExp(`^${key}`).test(val) &&
-        ((new RegExp(val, 'i').test(str) && val.startsWith(strFolder)) ||
-          new RegExp(str, 'i').test(val)) &&
+        ((new RegExp(val, 'i').test(str) && val.startsWith(strFolder)) || strRegex.test(val)) &&
         !/v\s*$/i.test(transfer[key])
       ) {
         return key
@@ -199,7 +200,7 @@ export async function createDirectorium(loader: DoLoader): Promise<Directorium> 
     const tempora = await loadTempora(version)
     for (const [key, val] of Object.entries(tempora)) {
       if (/dirge/.test(key)) continue
-      if (new RegExp(str, 'i').test(val) && transfer[key] && !/v\s*$/i.test(transfer[key])) {
+      if (strRegex.test(val) && transfer[key] && !/v\s*$/i.test(transfer[key])) {
         return key
       }
     }

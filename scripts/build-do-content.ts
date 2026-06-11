@@ -28,6 +28,9 @@ const horasDirs = ['Tempora', 'Sancti', 'Commune', 'TemporaM', 'SanctiM', 'Commu
 const missaDirs = ['Tempora', 'Sancti', 'Commune', 'Ordo']
 const tabulaeEntries = ['data.txt', 'Kalendaria', 'Transfer', 'Stransfer', 'Tempora']
 
+// NOTE: the dataset routing below (which paths land in which do-data
+// dataset) is mirrored by build_do() in scripts/build-corpus.py — change
+// both together.
 // Plain (non-sectioned) files, by how the Perl engine reads them:
 // psalms via do_read in &psalm, Ordinarium scripts via getordinarium,
 // Tabulae tables via Directorium.pm.

@@ -7,16 +7,13 @@ import { spawnSync } from 'node:child_process'
 import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
+import { contentDo, hasFixtures, perlHarness, v1Versions } from '../node/testFixtures'
 import type { SectionedDoFile } from '../parser/sectioned'
 import { defaultContext } from './context'
 import { processConditionalLines } from './evaluate'
 
-const repoRoot = join(__dirname, '..', '..', '..', '..')
-const contentDo = join(repoRoot, 'content', 'do')
-const harness = join(__dirname, '..', '..', 'test', 'perl-harness', 'process-lines.pl')
-const hasFixtures = existsSync(join(repoRoot, '.divinum-officium')) && existsSync(contentDo)
-
-const versions = ['Rubrics 1960 - 1960', 'Divino Afflatu - 1954', 'Monastic - 1963']
+const harness = perlHarness('process-lines')
+const versions = v1Versions
 
 type Vector = { version: string; lines: string[]; source: string }
 

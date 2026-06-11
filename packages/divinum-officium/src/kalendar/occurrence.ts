@@ -5,6 +5,7 @@
 // original applies verbatim; the extension is stripped at the loader boundary.
 
 import { type DoSession, setupstring } from '../references/resolve'
+import { isSectioned } from '../types'
 import { dayOfWeek, geteaster, getSday, getweek, leapyear, nextday } from './date'
 import { officestring } from './officestring'
 import { type KalendarState, num, subdirname } from './state'
@@ -133,7 +134,7 @@ function initiarule(_month: number, _day: number, _year: number): string {
 
 async function getdialogCommunes(state: KalendarState): Promise<Record<string, string>> {
   const dialog = await state.session.loader.load('horas/horas.dialog')
-  if (!dialog || !('sections' in dialog)) return {}
+  if (!dialog || !isSectioned(dialog)) return {}
   const section = dialog.sections.find((s) => s.name === 'communes')
   if (!section) return {}
   const flat = section.lines.join('').split(',')

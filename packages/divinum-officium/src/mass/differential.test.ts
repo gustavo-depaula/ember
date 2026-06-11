@@ -7,17 +7,13 @@ import { existsSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { createFsLoader } from '../node/fsLoader'
+import { contentDo, doClone, goldenLib, hasFixtures, v1Versions } from '../node/testFixtures'
 import { assembleMass } from './assemble'
 
-const repoRoot = join(__dirname, '..', '..', '..', '..')
-const contentDo = join(repoRoot, 'content', 'do')
-const doClone = join(repoRoot, '.divinum-officium')
-const goldenLib = join(repoRoot, '.do-golden-lib')
 const cmissa = join(doClone, 'web', 'cgi-bin', 'missa', 'Cmissa.pl')
-const hasFixtures = existsSync(doClone) && existsSync(contentDo) && existsSync(goldenLib)
 
 // Mass versions only — the Monastic office uses the Roman missal.
-const versions = ['Rubrics 1960 - 1960', 'Divino Afflatu - 1954']
+const versions = v1Versions.filter((v) => !/Monastic/.test(v))
 
 // Dates spanning seasons, ranks, commemorations, ember days, octaves.
 const dates: Array<[number, number, number]> = [
@@ -112,7 +108,9 @@ function trimToMass(words: string[]): string[] {
   return words.slice(start, end)
 }
 
-describe.skipIf(!hasFixtures)('assembleMass vs real Cmissa', () => {
+const hasMassFixtures = hasFixtures && existsSync(goldenLib)
+
+describe.skipIf(!hasMassFixtures)('assembleMass vs real Cmissa', () => {
   it('matches the assembled word stream for sampled dates × versions', {
     timeout: 900_000,
   }, async () => {

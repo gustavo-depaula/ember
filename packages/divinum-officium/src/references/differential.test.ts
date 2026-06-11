@@ -8,14 +8,11 @@ import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { defaultContext } from '../conditions/context'
 import { createFsLoader } from '../node/fsLoader'
+import { contentDo, hasFixtures, perlHarness, v1Versions } from '../node/testFixtures'
 import { createSession, type DoArea, setupstring } from './resolve'
 
-const repoRoot = join(__dirname, '..', '..', '..', '..')
-const contentDo = join(repoRoot, 'content', 'do')
-const harness = join(__dirname, '..', '..', 'test', 'perl-harness', 'setupstring.pl')
-const hasFixtures = existsSync(join(repoRoot, '.divinum-officium')) && existsSync(contentDo)
-
-const versions = ['Rubrics 1960 - 1960', 'Divino Afflatu - 1954', 'Monastic - 1963']
+const harness = perlHarness('setupstring')
+const versions = v1Versions
 const langs = ['Latin', 'English', 'Portugues']
 
 type Request = {

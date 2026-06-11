@@ -7,6 +7,14 @@
 
 import type { Sections } from './references/resolve'
 
+// Perl's split(';;', …): no trimming, but trailing empty fields are dropped.
+export function splitRank(rank: string | undefined): string[] {
+  if (!rank) return []
+  const parts = rank.split(';;')
+  while (parts.length > 0 && parts[parts.length - 1] === '') parts.pop()
+  return parts
+}
+
 export type ParsedRank = {
   title: string
   rankName: string

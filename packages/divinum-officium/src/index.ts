@@ -37,7 +37,6 @@ export { createKalendarState, type KalendarState, num, subdirname } from './kale
 export { type DoLoader, memoizedLoader } from './loader'
 export {
   type ConditionalDirective,
-  conditionalPattern,
   type LineConditional,
   matchLineConditional,
   matchSectionHeader,

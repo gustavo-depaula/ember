@@ -9,6 +9,7 @@ import type { RubricContext } from '../conditions/context'
 import { processConditionalLines, vero } from '../conditions/evaluate'
 import type { DoLoader } from '../loader'
 import type { SectionedDoFile } from '../parser/sectioned'
+import { splitRank } from '../rules'
 import { isSectioned } from '../types'
 import { applyInclusionSubstitutions } from './substitutions'
 
@@ -101,14 +102,6 @@ function flattenFile(file: SectionedDoFile, fname: string, ctx: RubricContext): 
   }
   out.__preamble ??= ''
   return out
-}
-
-// Perl's split: no trimming, but trailing empty fields are dropped.
-function splitRank(rank: string | undefined): string[] {
-  if (!rank) return []
-  const parts = rank.split(';;')
-  while (parts.length > 0 && parts[parts.length - 1] === '') parts.pop()
-  return parts
 }
 
 // Port of setupstring()'s layered load (without @-resolution): requested

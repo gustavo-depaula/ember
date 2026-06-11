@@ -35,7 +35,7 @@ const scopePattern = [
   ')\\b)?',
 ].join('')
 
-export const conditionalPattern = `\\(\\s*((?:${stopwordsPattern})\\b)*(.*?)(${scopePattern})?\\s*\\)`
+const conditionalPattern = `\\(\\s*((?:${stopwordsPattern})\\b)*(.*?)(${scopePattern})?\\s*\\)`
 
 const lineConditionalRegex = new RegExp(`^\\s*${conditionalPattern}\\s*(.*)$`, 'i')
 
