@@ -245,16 +245,6 @@ export function resolveSection(
     case 'subheading':
       return [{ type: 'subheading', text: ec.localize(section.text) }]
 
-    case 'proper':
-      return [
-        {
-          type: 'proper',
-          slot: section.slot,
-          form: section.form,
-          description: ec.localize(section.description),
-        },
-      ]
-
     case 'options': {
       if ('from' in section) {
         const fromPath = substituteTemplateVars(section.from, composeVars(context))

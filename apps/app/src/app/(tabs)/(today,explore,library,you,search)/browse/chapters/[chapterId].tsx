@@ -24,6 +24,7 @@ export default function ChapterReaderScreen() {
   const now = useToday()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const translation = usePreferencesStore((s) => s.translation)
+  const doVersion = usePreferencesStore((s) => s.doVersion)
 
   const chapter = chapterId ? getChapterManifest(chapterId) : undefined
   const contentQuery = useQuery({
@@ -46,7 +47,7 @@ export default function ChapterReaderScreen() {
       const rendered = resolveFlow(content, { date: now }, engineContext)
       return preprocessFlow(rendered, {
         queryClient,
-        prefs: { lang: contentLanguage, translation },
+        prefs: { lang: contentLanguage, translation, doVersion },
         date: now,
       })
     },

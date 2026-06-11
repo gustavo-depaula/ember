@@ -18,7 +18,7 @@ vi.mock('@/db/repositories/externalContent', () => ({
 function ctx(): PreprocessContext {
   return {
     queryClient: new QueryClient({ defaultOptions: { queries: { retry: false } } }),
-    prefs: { lang: 'en-US', translation: 'RSV2CE' },
+    prefs: { lang: 'en-US', translation: 'RSV2CE', doVersion: 'rubrics-1960' },
     date: new Date('2026-01-01'),
   }
 }
@@ -286,7 +286,6 @@ describe('preprocessFlow — primitive mapping', () => {
 
   it('interaction kinds map by their engine type', async () => {
     const sections: RenderedSection[] = [
-      { type: 'proper', slot: 'collect', form: 'of', description: text },
       { type: 'rendered-offering', mode: 'both', default: 'pinned', show: 'list' },
       {
         type: 'rendered-capture-movement',
@@ -298,6 +297,6 @@ describe('preprocessFlow — primitive mapping', () => {
     const result = await preprocessFlow(sections, ctx())
     expect(result.every((p) => p.type === 'interaction')).toBe(true)
     const kinds = result.map((p) => (p as { kind: string }).kind)
-    expect(kinds).toEqual(['proper', 'offering', 'capture-movement'])
+    expect(kinds).toEqual(['offering', 'capture-movement'])
   })
 })

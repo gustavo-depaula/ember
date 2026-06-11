@@ -35,6 +35,7 @@ export { officestring } from './kalendar/officestring'
 export { type DayResolution, resolveDay } from './kalendar/precedence'
 export { createKalendarState, type KalendarState, num, subdirname } from './kalendar/state'
 export { type DoLoader, memoizedLoader } from './loader'
+export { type AssembledMass, assembleMass } from './mass/assemble'
 export {
   type ConditionalDirective,
   type LineConditional,
@@ -60,3 +61,11 @@ export {
 export { applyInclusionSubstitutions } from './references/substitutions'
 export { type ParsedRank, parseRank, ruleMatches } from './rules'
 export { type DoPath, isSectioned, type ParsedDoFile, type PlainDoFile } from './types'
+export {
+  type DoVersionId,
+  defaultDoVersion,
+  doLangDir,
+  doVersionNames,
+  massVersion,
+  officeVersion,
+} from './versions'

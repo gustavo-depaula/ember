@@ -37,6 +37,8 @@ type PreferencesState = {
   psalterCycle: PsalterCycle
   language: string
   liturgicalCalendar: LiturgicalCalendarForm
+  // Divinum Officium rubric version for the EF Mass and breviary hours.
+  doVersion: 'rubrics-1960' | 'divino-afflatu' | 'monastic'
   jurisdiction: string | undefined
   timeTravelDate: string | undefined
   persistedTimeTravelDate: string | undefined
@@ -69,6 +71,7 @@ type PreferencesState = {
   setPsalterCycle: (cycle: PsalterCycle) => void
   setLanguage: (language: string) => void
   setLiturgicalCalendar: (form: LiturgicalCalendarForm) => void
+  setDoVersion: (version: 'rubrics-1960' | 'divino-afflatu' | 'monastic') => void
   setJurisdiction: (jurisdiction: string | undefined) => void
   setTimeTravelDate: (date: string | undefined) => void
   setTimeTravelDateEphemeral: (date: string | undefined) => void
@@ -100,6 +103,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     psalterCycle: '30-day',
     language: 'en-US',
     liturgicalCalendar: 'of',
+    doVersion: 'rubrics-1960',
     jurisdiction: undefined,
     timeTravelDate: undefined,
     persistedTimeTravelDate: undefined,
@@ -122,6 +126,13 @@ export const usePreferencesStore = create<PreferencesState>()(
         state.translation = translation
       })
       setPreference('translation', translation)
+    },
+
+    setDoVersion: (version) => {
+      set((state) => {
+        state.doVersion = version
+      })
+      setPreference('do-version', version)
     },
 
     setPsalterCycle: (cycle) => {
@@ -291,6 +302,10 @@ export const usePreferencesStore = create<PreferencesState>()(
         if (prefs.language) state.language = prefs.language
         const cal = prefs['liturgical-calendar']
         if (cal === 'of' || cal === 'ef') state.liturgicalCalendar = cal
+        const dov = prefs['do-version']
+        if (dov === 'rubrics-1960' || dov === 'divino-afflatu' || dov === 'monastic') {
+          state.doVersion = dov
+        }
         if (prefs.jurisdiction) state.jurisdiction = prefs.jurisdiction
         if (prefs['time-travel-date']) {
           state.timeTravelDate = prefs['time-travel-date']

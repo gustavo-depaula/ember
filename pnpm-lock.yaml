@@ -48,6 +48,9 @@ importers:
       '@ember/content-engine':
         specifier: workspace:*
         version: link:../../packages/content-engine
+      '@ember/divinum-officium':
+        specifier: workspace:*
+        version: link:../../packages/divinum-officium
       '@ember/liturgical':
         specifier: workspace:*
         version: link:../../packages/liturgical

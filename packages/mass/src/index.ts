@@ -2,9 +2,6 @@
 // The OF Mass is built directly to primitives in the app (`sources/of/`); this
 // package owns only the date→celebrations resolution.
 
-// ── Extraordinary Form (Divinum Officium propers) ──
-export { buildEFFlow } from './buildEFFlow'
-export * from './ef'
 export {
   type CelebrationKind,
   type CelebrationMode,

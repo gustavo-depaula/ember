@@ -281,15 +281,6 @@ async function preprocessSection(
         },
       }
 
-    case 'proper':
-      return {
-        type: 'interaction',
-        kind: 'proper',
-        slot: section.slot,
-        form: section.form,
-        description: section.description,
-      }
-
     case 'rendered-offering':
       return {
         type: 'interaction',
