@@ -47,13 +47,59 @@ export function applyInclusionSubstitutions(text: string, subs: string): string 
       const selected = lines.splice(start, count)
       out = `${(g.n ? lines : selected).join('\n')}\n`
     } else if (g.s !== undefined) {
-      // Perl applies the substitution through a double-quoted eval, so escape
-      // sequences in the replacement interpolate (\n → newline; unknown \X
-      // drops the backslash). $1-style references work the same in JS.
-      const replacement = (g.r ?? '').replace(/\\(.)/g, (_, c: string) =>
-        c === 'n' ? '\n' : c === 't' ? '\t' : c,
+      const template = g.r ?? ''
+      out = out.replace(new RegExp(toJsPattern(g.s, g.f ?? ''), g.f ?? ''), (...args) =>
+        applyPerlReplacement(template, args),
       )
-      out = out.replace(new RegExp(toJsPattern(g.s, g.f ?? ''), g.f ?? ''), replacement)
+    }
+  }
+  return out
+}
+
+// Perl applies the substitution through a double-quoted eval: \n/\t
+// interpolate, $1/\1 are group references, and \u titlecases the next
+// character — including the first character of a following group reference
+// (e.g. `s/.*; (.)/\u$1/`). Unknown \X drops the backslash.
+function applyPerlReplacement(template: string, args: unknown[]): string {
+  const groups: string[] = []
+  for (let i = 1; i < args.length && typeof args[i] === 'string'; i++) {
+    groups[i] = args[i] as string
+  }
+  let out = ''
+  let titlecaseNext = false
+  const emit = (s: string) => {
+    if (titlecaseNext && s) {
+      out += s[0].toUpperCase() + s.slice(1)
+      titlecaseNext = false
+    } else {
+      out += s
+    }
+  }
+  for (let i = 0; i < template.length; i++) {
+    const c = template[i]
+    if (c === '\\') {
+      const next = template[i + 1] ?? ''
+      i++
+      if (next === 'n') emit('\n')
+      else if (next === 't') emit('\t')
+      else if (next === 'u') titlecaseNext = true
+      else if (next === 'l') {
+        // \l lowercases the next character.
+        const rest = template.slice(i + 1)
+        if (rest) {
+          // handled by falling through with a lowercased emit on next char
+          // (approximation: lowercase the immediate literal)
+          const ch = rest[0]
+          out += ch.toLowerCase()
+          i++
+        }
+      } else if (/[1-9]/.test(next)) emit(groups[Number(next)] ?? '')
+      else emit(next)
+    } else if (c === '$' && /[1-9]/.test(template[i + 1] ?? '')) {
+      emit(groups[Number(template[i + 1])] ?? '')
+      i++
+    } else {
+      emit(c)
     }
   }
   return out

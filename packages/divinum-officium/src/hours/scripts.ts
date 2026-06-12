@@ -262,8 +262,20 @@ export const hourScriptFunctions: Record<
     if (w[name] !== undefined) {
       return `${(w[name] ?? '').replace(/\s*$/, '')}\n`
     }
+    if (name.startsWith('#')) {
+      // Perl re-runs specials() over the single item (e.g. '#Martyrologium'
+      // inside All Souls' Special Prima).
+      const { specialsForItem } = await import('./assemble')
+      const lines = await specialsForItem(state, name, lang)
+      return lines.join('\n')
+    }
     return `${name} is missing`
   },
 
   versiculum_ante_laudes: () => '', // Ordo Praedicatorum only — out of v1 scope.
+
+  lectio: async (state, lang, args) => {
+    const { lectioFn } = await import('./matins')
+    return lectioFn(state, Number(args[0] ?? 1), lang)
+  },
 }

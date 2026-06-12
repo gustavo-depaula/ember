@@ -34,6 +34,8 @@ const horasDirs = [
   'Psalterium',
   'Appendix',
   'Regula',
+  'Martyrologium',
+  'Martyrologium1960',
 ]
 const missaDirs = ['Tempora', 'Sancti', 'Commune', 'Ordo']
 const tabulaeEntries = ['data.txt', 'Kalendaria', 'Transfer', 'Stransfer', 'Tempora']
@@ -43,13 +45,16 @@ const tabulaeEntries = ['data.txt', 'Kalendaria', 'Transfer', 'Stransfer', 'Temp
 // both together.
 // Plain (non-sectioned) files, by how the Perl engine reads them:
 // psalms via do_read in &psalm, Ordinarium scripts via getordinarium,
-// Tabulae tables via Directorium.pm, Regula chapters via do_read in regula().
+// Tabulae tables via Directorium.pm, Regula chapters via do_read in regula(),
+// Martyrologium day files via do_read in martyrologium() (Mobile.txt is the
+// one sectioned file in those dirs).
 function isPlain(relPath: string): boolean {
   return (
     relPath.startsWith('Tabulae/') ||
     relPath.startsWith('horas/Ordinarium/') ||
     relPath.includes('/Psalterium/Psalmorum/') ||
-    relPath.includes('/Regula/')
+    relPath.includes('/Regula/') ||
+    (/\/Martyrologium[^/]*\//.test(relPath) && !relPath.endsWith('/Mobile.txt'))
   )
 }
 

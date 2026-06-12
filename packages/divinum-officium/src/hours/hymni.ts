@@ -3,7 +3,8 @@
 // with M6/M7.
 
 import { gettempora, postprocessVr } from './helpers'
-import { setup } from './proprium'
+import { hymnusmatutinum } from './matins'
+import { getantvers, getproprium, setup } from './proprium'
 import { columnsel, type HoursState, winnerOf } from './state'
 
 // Port of doxology().
@@ -48,32 +49,109 @@ async function doxology(state: HoursState, lang: string): Promise<[string, strin
   return [dox, dname]
 }
 
-// Port of gethymn (minor-hours paths).
+// Port of hymnusmajor (Lauds/Vespers hymn selection).
+async function hymnusmajor(state: HoursState, lang: string): Promise<[string, string]> {
+  const ctx = state.day.ctx
+  const { version, day, month, year } = ctx
+  const hora = state.hora
+  const w = state.day.winnerSections
+  const directorium = state.day.state.directorium
+  let hymn = ''
+  let name = 'Hymnus'
+  if (hora === 'Vespera') name += checkmtv(version, w)
+  if (
+    w[`${name} Vespera`] === undefined &&
+    state.day.vespera === 3 &&
+    w[`${name} Vespera 3`] === undefined &&
+    ((state.day.vespera === 3 && w['Hymnus Vespera 3'] !== undefined) ||
+      w['Hymnus Vespera'] !== undefined)
+  ) {
+    name = 'Hymnus'
+  }
+
+  if (await directorium.hymnshift(version, day, month, year)) {
+    if (hora === 'Laudes') name += ' Matutinum'
+    if (hora === 'Vespera') name += ' Laudes'
+  } else if ((await directorium.hymnshiftmerge(version, day, month, year)) && hora === 'Laudes') {
+    let [h] = await getproprium(state, `${name} Laudes`, lang, true)
+    const [h1] = await getproprium(state, `${name} Matutinum`, lang, true)
+    h = h.replace(/^(v\. )/, '')
+    // Replace the Matins hymn's doxology (its last verse) with the Lauds hymn.
+    hymn = h1.replace(/_(?![\s\S]*_)[\s\S]*/, `_\n${h}`)
+  } else {
+    name += ` ${hora}`
+  }
+
+  if (hora === 'Vespera' && state.day.vespera === 3) {
+    ;[hymn] = await getproprium(state, `${name} 3`, lang, true)
+  }
+
+  if (!hymn) {
+    ;[hymn] = await getproprium(state, name, lang, true)
+  }
+
+  if (!hymn) {
+    name = `${gettempora(state, 'Hymnus major')} ${hora}`
+    if (
+      /Day0/i.test(name) &&
+      /Laudes/i.test(name) &&
+      (/Epi[2-6]/.test(ctx.dayname[0]) ||
+        /Quadp/i.test(ctx.dayname[0]) ||
+        /Novembris/i.test(w.Rank ?? '') ||
+        /Octobris/i.test(w.Rank ?? ''))
+    ) {
+      name += ' hiemalis'
+    }
+  }
+  return [hymn, name]
+}
+
+// Port of checkmtv.
+function checkmtv(version: string, w: { Rule?: string }): string {
+  return (/1955|196/.test(version) || /;mtv/i.test(w.Rule ?? '')) && /C[45]/.test(w.Rule ?? '')
+    ? '1'
+    : ''
+}
+
+// Port of gethymn (minor + major hours).
 export async function gethymn(state: HoursState, lang: string): Promise<string> {
   const ctx = state.day.ctx
   const hora = state.hora
   let section = await state.texts.translate('Hymnus', lang)
   let name = `Hymnus ${hora}`
   let hymn = ''
-  const versum = ''
+  let hymnsource = ''
+  let versum = ''
 
-  if (hora === 'Matutinum' || hora === 'Laudes' || hora === 'Vespera') {
-    throw new Error('major/matutinum hymns are not ported yet — M6/M7')
-  }
+  if (hora === 'Matutinum') {
+    ;[hymn, name] = await hymnusmatutinum(state, lang)
+    if (!hymn) hymnsource = 'Matutinum'
+    section = ''
+  } else if (hora === 'Laudes' || hora === 'Vespera') {
+    ;[hymn, name] = await hymnusmajor(state, lang)
+    name = `Hymnus ${name}`
+    if (!hymn) hymnsource = 'Major'
+    section = `_\n!${section}`
 
-  if (hora === 'Tertia' && /Pasc7/.test(ctx.dayname[0])) {
-    name = name.replace(/ /, ' Pasc7 ')
-  }
-  const hymnsource = hora === 'Prima' ? 'Prima' : 'Minor'
-  section = `#${section}`
-
-  const h = await setup(state, lang, `Psalterium/Special/${hymnsource} Special`)
-  // tryoldhymn equivalent for the Psalterium hymn table.
-  const nameM = name.replace(/Hymnus\S*/, '$&M')
-  if (/(Monastic|1570|Praedicatorum)/i.test(ctx.version) && h[nameM] !== undefined) {
-    hymn = h[nameM] ?? ''
+    const ind = hora === 'Laudes' ? 2 : state.day.vespera
+    ;[versum] = await getantvers(state, 'Versum', ind, lang)
   } else {
-    hymn = h[name] ?? ''
+    if (hora === 'Tertia' && /Pasc7/.test(ctx.dayname[0])) {
+      name = name.replace(/ /, ' Pasc7 ')
+    }
+    hymnsource = hora === 'Prima' ? 'Prima' : 'Minor'
+    section = `#${section}`
+  }
+
+  if (hymnsource) {
+    const h = await setup(state, lang, `Psalterium/Special/${hymnsource} Special`)
+    // tryoldhymn equivalent for the Psalterium hymn table.
+    const nameM = name.replace(/Hymnus\S*/, '$&M')
+    if (/(Monastic|1570|Praedicatorum)/i.test(ctx.version) && h[nameM] !== undefined) {
+      hymn = h[nameM] ?? ''
+    } else {
+      hymn = h[name] ?? ''
+    }
   }
 
   if (!/196[02]/.test(ctx.version) && /\*/.test(hymn)) {

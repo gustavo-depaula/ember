@@ -34,12 +34,16 @@ export async function checkLatinFileExists(
 }
 
 // Port of extract_common().
+// NOTE: Perl returns a two-element list even when nothing matches, and the
+// callers' list assignment is always true — so the winner branch ALWAYS
+// overwrites communetype/commune (clearing them on plain offices). This
+// matters when concurrence runs occurrence() twice in one resolution.
 export async function extractCommon(
   state: KalendarState,
   commonField: string,
   officeRank: number,
   paschalTide: boolean,
-): Promise<{ communetype: string; commune: string } | undefined> {
+): Promise<{ communetype: string; commune: string }> {
   const { version } = state.ctx
   const { loader, area } = state.session
   let communetype = ''
@@ -80,7 +84,7 @@ export async function extractCommon(
     if (/Trident/i.test(version)) communetype = 'ex'
     return { communetype, commune }
   }
-  return undefined
+  return { communetype: '', commune: '' }
 }
 
 // Port of nooctnat().

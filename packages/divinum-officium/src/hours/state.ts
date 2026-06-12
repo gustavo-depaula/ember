@@ -39,6 +39,10 @@ export type HoursState = {
   // Perl `state` counter in getpreces; lives for one assembled hour (both
   // columns), initialized on first use.
   precdomfer?: number
+  // Perl's $octavam accumulator (getrefs octave dedupe) — request-scoped.
+  octavam?: string
+  // Perl's $ltype1960 global, set by each lectio() call.
+  ltype1960?: number
   psalmnum1: number
   psalmnum2: number
   collectcount: number

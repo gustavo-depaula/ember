@@ -1,8 +1,11 @@
-// Port of specials/psalmi.pl for the minor hours (psalmi_minor + antetpsalm).
-// psalmi_major (Lauds/Vespers) and psalmi_matutinum come with M6/M7.
+// Port of specials/psalmi.pl (psalmi_minor + psalmi_major + antetpsalm).
+// psalmi_matutinum lives in matins.ts.
 
-import { num } from '../kalendar/state'
-import { alleluiaRequired, gettempora, postprocessAnt } from './helpers'
+import { dayOfWeek } from '../kalendar/date'
+import { emberday } from '../kalendar/occurrence'
+import { num, subdirname } from '../kalendar/state'
+import { alleluiaAnt, alleluiaRequired, gettempora, postprocessAnt } from './helpers'
+import { psalmiMatutinum } from './matins'
 import { checksuffragium, getanthoras, getproprium, setcomment, setup } from './proprium'
 import { chompd, columnsel, type HoursState, winnerOf } from './state'
 
@@ -10,14 +13,325 @@ export async function psalmi(state: HoursState, lang: string): Promise<void> {
   state.psalmnum1 = 0
   state.psalmnum2 = 0
   if (state.hora === 'Matutinum') {
-    throw new Error('psalmi_matutinum is not ported yet — M7')
+    await psalmiMatutinum(state, lang)
+    return
   }
+  let list: string[]
+  let duplexf = /196/.test(state.day.ctx.version)
   if (/^(?:Laudes|Vespera)$/i.test(state.hora)) {
-    throw new Error('psalmi_major is not ported yet — M6')
+    list = await psalmiMajor(state, lang)
+    duplexf ||= state.day.duplex > 2 && !/C12/.test(state.day.winner)
+  } else {
+    list = await psalmiMinor(state, lang)
   }
-  const list = await psalmiMinor(state, lang)
-  const duplexf = /196/.test(state.day.ctx.version)
   await antetpsalm(state, list, duplexf, lang)
+}
+
+// Port of get_stThomas_feria — weekday of Dec 21; Sunday transfers to Feria II.
+function getStThomasFeria(year: number): number {
+  return dayOfWeek(21, 12, year) || 1
+}
+
+// Perl split drops trailing empty fields — psalmi_major indexes from the end
+// ($psalmi[-1]), so the JS trailing '' must go.
+export function splitPerl(text: string | undefined): string[] {
+  const out = (text ?? '').split('\n')
+  while (out.length > 0 && out[out.length - 1] === '') out.pop()
+  return out
+}
+
+// Port of psalmi_major — collects psalms/antiphons for Lauds and Vespers.
+async function psalmiMajor(state: HoursState, lang: string): Promise<string[]> {
+  const ctx = state.day.ctx
+  const { version, dayofweek, day, month, year } = ctx
+  const hora = state.hora
+  const rule = state.rule
+  const communeRule = state.day.communeSections.Rule ?? ''
+
+  if (/monastic/i.test(version) && hora === 'Laudes' && !/matutinum romanum/i.test(rule)) {
+    state.psalmnum1 = -1
+    state.psalmnum2 = -1
+  }
+
+  const psalmiFile = await setup(state, lang, 'Psalterium/Psalmi/Psalmi major')
+  let name = hora
+  if (hora === 'Laudes') name += String(state.day.laudes)
+
+  let psalmi: string[]
+
+  if (/Monastic/.test(version) && !(hora === 'Laudes' && /Matutinum romanum/i.test(rule))) {
+    let head = 'Monastic'
+    if (hora === 'Laudes') {
+      if (
+        /Psalmi Dominica/.test(rule) ||
+        (!/Psalmi Feria/i.test(rule) &&
+          /Sancti/i.test(state.day.winner) &&
+          state.day.rank >= 4 &&
+          !/vigil/i.test(ctx.dayname[1]))
+      ) {
+        head = 'DaymF'
+      } else if (dayofweek === 0 && /Pasc/i.test(ctx.dayname[0])) {
+        head = 'DaymP'
+      }
+    }
+    psalmi = splitPerl(psalmiFile[`${head} ${hora}`])
+
+    if (hora === 'Laudes' && /Monastic/.test(head)) {
+      if (
+        !(
+          dayofweek === 0 ||
+          /Trident/.test(version) ||
+          (/Adv|Quadp/.test(ctx.dayname[0]) &&
+            state.day.duplex < 3 &&
+            !/C10/.test(state.day.commune)) ||
+          (/Quad\d/.test(ctx.dayname[0]) && /Feria/.test(ctx.dayname[1])) ||
+          /Quattuor Temporum Septembris/.test(ctx.dayname[1]) ||
+          (/Pent/.test(ctx.dayname[0]) && /Vigil/.test(ctx.dayname[1]))
+        )
+      ) {
+        if (dayofweek === 6) {
+          psalmi = splitPerl(psalmiFile['Daym6F Laudes'])
+        } else {
+          const canticles = splitPerl(psalmiFile['DaymF Canticles'])
+          psalmi[psalmi.length - 2] = canticles[dayofweek] ?? ''
+        }
+      }
+    }
+  } else if (/trident/i.test(version)) {
+    const dow =
+      hora === 'Laudes' && /Pasc/i.test(ctx.dayname[0])
+        ? 'P'
+        : hora === 'Laudes' &&
+            (/Sancti/.test(state.day.winner) ||
+              winnerOf(state, lang)['Ant Laudes'] !== undefined) &&
+            !/Feria/i.test(rule)
+          ? 'C'
+          : String(dayofweek)
+    psalmi = splitPerl(psalmiFile[`Daya${dow} ${name}`])
+  } else {
+    psalmi = splitPerl(psalmiFile[`Day${dayofweek} ${name}`])
+  }
+
+  let comment = 0
+  let prefix = `${await state.texts.translate('Psalmi et antiphonae', lang)} `
+
+  let antiphones: string[] = []
+
+  // Greater-Advent ferial antiphons (Dec 17–23).
+  if (
+    (hora === 'Laudes' || (hora === 'Vespera' && /1963/.test(version))) &&
+    month === 12 &&
+    day > 16 &&
+    day < 24 &&
+    dayofweek > 0
+  ) {
+    antiphones = splitPerl(psalmiFile[`Day${dayofweek} Laudes3`])
+
+    if (dayofweek === 6 && /Trident|Monastic/.test(version)) {
+      const expectetur = antiphones[3] ?? ''
+
+      if (/trident|monastic.*divino/i.test(version)) {
+        antiphones = splitPerl(psalmiFile[`Day${getStThomasFeria(year)} Laudes3`])
+        if (day === 23 && !/divino/i.test(version)) {
+          const w = await setup(state, lang, `${subdirname('Tempora', version)}Adv4-0`)
+          antiphones = splitPerl(w['Ant Laudes'])
+        }
+      }
+
+      if (/Monastic/.test(version)) {
+        antiphones[2] = expectetur
+        antiphones[3] = ''
+      } else {
+        antiphones[3] = expectetur
+      }
+    }
+  }
+
+  // De tempore / Sancti antiphon override.
+  let w = ''
+  let c = 0
+  const wsec = winnerOf(state, lang)
+
+  if (hora === 'Vespera' && state.day.vespera === 3) {
+    if (wsec['Ant Vespera 3'] !== undefined) {
+      w = wsec['Ant Vespera 3'] ?? ''
+      c = /Tempora/.test(state.day.winner) ? 2 : 3
+    } else if (
+      wsec['Ant Vespera'] === undefined &&
+      (/ex/.test(state.day.communetype) ||
+        (/Trident/i.test(version) && /Sancti/i.test(state.day.winner)))
+    ) {
+      ;[w, c] = await getproprium(state, 'Ant Vespera 3', lang, true)
+    }
+  }
+
+  if (!w && wsec[`Ant ${hora}`] !== undefined) {
+    w = wsec[`Ant ${hora}`] ?? ''
+    c = /Tempora/.test(state.day.winner) ? 2 : 3
+  }
+
+  const antecapitulum = state.day.state.antecapitulum
+  if (antecapitulum) {
+    w = columnsel(state, lang) ? antecapitulum : state.day.state.antecapitulum2
+    c = 3
+  } else if (w) {
+    // antiphons from the winner — comment already set
+  } else if (
+    (state.day.communetype && /ex/.test(state.day.communetype)) ||
+    (/Trident/i.test(version) && hora === 'Laudes' && /Sancti/.test(state.day.winner))
+  ) {
+    ;[w, c] = await getproprium(state, `Ant ${hora}`, lang, true)
+  }
+  if (w) {
+    antiphones = splitPerl(w)
+    comment = c
+  }
+
+  // Psalmi de dominica.
+  let p: string[]
+  if (
+    (/Psalmi Dominica/i.test(rule) || (communeRule && /Psalmi Dominica/i.test(communeRule))) &&
+    !/;;\s*[0-9]+/.test(antiphones[0] ?? '') &&
+    !/Psalmi Feria/i.test(rule)
+  ) {
+    prefix = `${await state.texts.translate('Psalmi, antiphonae', lang)} `
+    let h: string = hora
+    if (hora === 'Laudes' && !/Monastic/.test(version)) h += '1'
+    p = splitPerl(psalmiFile[`Day0 ${h}`])
+
+    if (/Monastic/.test(version) && hora === 'Laudes') {
+      p = splitPerl(psalmiFile['DaymF Laudes'])
+    } else if (/Trident/.test(version) && hora === 'Laudes') {
+      p = splitPerl(psalmiFile['DayaC Laudes'])
+    }
+  } else {
+    p = psalmi
+    // Sunday psalms when a 'Psalmi Feria' rule is used (e.g. Sundays in
+    // octaves) — the Perl comments say Cist but tests plain /monastic/i.
+    if (
+      dayofweek === 0 &&
+      /Psalmi Feria/i.test(rule) &&
+      /monastic/i.test(version) &&
+      hora === 'Laudes'
+    ) {
+      p = splitPerl(psalmiFile['DayaC Laudes2'])
+      p[2] = ';;62'
+    }
+  }
+
+  let lim = 5
+
+  if (
+    /Monastic/.test(version) &&
+    hora === 'Vespera' &&
+    !/C9/.test(state.day.winner) &&
+    (!/C12/.test(state.day.winner) || /cist/i.test(version)) &&
+    !/C9/.test(state.day.commune) &&
+    (!/Quad6/.test(ctx.dayname[0]) || dayofweek < 4)
+  ) {
+    lim = 4
+    // Ex 5 Antiphonæ et Psalmi fiunt 4.
+    if (antiphones[4]) {
+      if (month === 12 && day >= 25 && day < 31) {
+        if (!/2[579]/.test(String(day))) antiphones[3] = antiphones[4]
+      } else {
+        const p1 = (antiphones[3] ?? '').split(';;')[1] ?? ''
+        const a2 = (antiphones[4] ?? '').split(';;')[0] ?? ''
+        antiphones[3] = `${a2};;${p1}`
+      }
+    }
+  }
+
+  if (antiphones.length > 0 && antiphones.some((a) => a !== '')) {
+    for (let i = 0; i < lim; i++) {
+      let aflag = false
+      const pm = /;;([\s\S]*)/.exec(p[i] ?? '')
+      let pp = pm ? pm[1] : 'missing'
+
+      // Psalm5 Vespera substitution rules for the 5th Vespers psalm.
+      if (i === 4 && hora === 'Vespera' && !/no Psalm5/i.test(rule)) {
+        let n: string | undefined
+        let cond = false
+        if (!antecapitulum) {
+          if (state.day.vespera === 3) {
+            let m = /Psalm5 Vespera3=([0-9]+)/i.exec(rule)
+            if (m) {
+              n = m[1]
+              cond = true
+            } else {
+              m = /Psalm5 Vespera3=([0-9]+)/i.exec(communeRule)
+              if (m) {
+                n = m[1]
+                if (c === 4) cond = true
+              }
+            }
+          }
+          if (!cond) {
+            let m = /Psalm5 Vespera=([0-9]+)/i.exec(rule)
+            if (m) {
+              n = m[1]
+              cond = true
+            } else {
+              m = /Psalm5 Vespera=([0-9]+)/i.exec(communeRule)
+              if (m) {
+                n = m[1]
+                if (c === 4) cond = true
+              }
+            }
+          }
+        } else {
+          const m = /Psalm5 VesperaAnte=([0-9]+)/i.exec(antecapitulum)
+          if (m) {
+            n = m[1]
+            cond = true
+          }
+        }
+        if (cond && n !== undefined) {
+          pp = n
+          aflag = true
+        }
+      }
+
+      const ant = antiphones[i] ?? ''
+      const cutm = /([\s\S]*?);;/.exec(ant)
+      psalmi[i] =
+        /;;[0-9;\n]+/.test(ant) && !aflag ? ant : cutm ? `${cutm[1]};;${pp}` : `${ant};;${pp}`
+    }
+  }
+
+  // Paschaltide: psalms under a single (or doubled) Alleluia antiphon.
+  if (
+    alleluiaRequired(ctx.dayname[0], state.votive) &&
+    (wsec[`Ant ${hora}`] === undefined || /C10/.test(state.day.commune)) &&
+    !antecapitulum &&
+    !/ex/i.test(state.day.communetype) &&
+    (!/Trident/.test(version) || hora === 'Vespera') &&
+    (!/Monastic/.test(version) || hora !== 'Laudes' || !/Dominica/i.test(wsec.Rank ?? ''))
+  ) {
+    const allel = await alleluiaAnt(state, lang)
+    const strip = (s: string | undefined, repl: string) => (s ?? '').replace(/.*(?=;;)/, repl)
+    psalmi[0] = strip(psalmi[0], allel)
+    psalmi[1] = strip(psalmi[1], '')
+    psalmi[2] = strip(psalmi[2], '')
+    psalmi[psalmi.length - 1] = strip(psalmi[psalmi.length - 1], '')
+
+    if (/Monastic(?! Cist)/.test(version) && hora === 'Laudes') {
+      psalmi[psalmi.length - 1] = strip(psalmi[psalmi.length - 1], allel)
+    } else {
+      psalmi[3] = strip(psalmi[3], '')
+    }
+  }
+
+  if (
+    (/Adv|Quad/.test(ctx.dayname[0]) || emberday(state.day.state)) &&
+    hora === 'Laudes' &&
+    !/Trident/.test(version)
+  ) {
+    prefix = `Laudes:${state.day.laudes} ${prefix}`
+  }
+  await setcomment(state, state.label, 'Source', comment, lang, prefix)
+
+  return psalmi
 }
 
 // Port of psalmi_minor.

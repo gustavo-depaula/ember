@@ -18,6 +18,8 @@ const horasDatasets: Record<string, string> = {
   Psalterium: 'horas-psalterium',
   Appendix: 'horas-appendix',
   Regula: 'horas-regula',
+  Martyrologium: 'horas-martyrologium',
+  Martyrologium1960: 'horas-martyrologium-1960',
 }
 const missaDatasets: Record<string, string> = {
   Tempora: 'missa-tempora',

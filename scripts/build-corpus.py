@@ -726,6 +726,8 @@ DO_HORAS_DATASETS = {
     "Psalterium": "horas-psalterium",
     "Appendix": "horas-appendix",
     "Regula": "horas-regula",
+    "Martyrologium": "horas-martyrologium",
+    "Martyrologium1960": "horas-martyrologium-1960",
 }
 DO_MISSA_DATASETS = {
     "Tempora": "missa-tempora",

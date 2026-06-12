@@ -62,6 +62,85 @@ async function minorResponsory(state: HoursState, lang: string): Promise<string>
   return lines.join('\n')
 }
 
+// Port of capitulum_major (Lauds/Vespers).
+export async function capitulumMajor(state: HoursState, lang: string): Promise<string> {
+  const { version } = state.day.ctx
+  const hora = state.hora
+
+  let name = 'Capitulum Laudes' // same for Vespera
+  if (/12-25/.test(state.day.winner) && state.day.vespera === 1) name = 'Capitulum Vespera 1'
+  if (/C12/.test(state.day.winner) && hora === 'Vespera') name = 'Capitulum Vespera'
+
+  let [capit, c] = await getproprium(state, name, lang, true)
+
+  if (!capit) {
+    const capitFile = await setup(state, lang, 'Psalterium/Special/Major Special')
+    name = `${gettempora(state, 'Capitulum major')} ${hora}`
+    capit = capitFile[name] ?? ''
+  }
+
+  if (state.day.vespera === 1 && /Ordo Praedicatorum/.test(version)) {
+    capit += `\n_\n${await monasticMajorResponsory(state, lang)}`
+  }
+
+  await setcomment(state, state.label, 'Source', c, lang)
+  return capit
+}
+
+// Port of monastic_major_responsory.
+export async function monasticMajorResponsory(state: HoursState, lang: string): Promise<string> {
+  const { version } = state.day.ctx
+  const hora = state.hora
+
+  let key = `Responsory ${hora}`
+  let resp = ''
+
+  // First Vespers can use a special 'Responsory Vespera 1'.
+  if (state.day.vespera === 1) {
+    ;[resp] = await getproprium(state, `${key} 1`, lang, true)
+  }
+
+  if (resp) {
+    const lines = resp.split('\n')
+    if (lines.length === 4) resp += `\n&Gloria1\n${lines[3]}`
+  }
+
+  if (!resp) {
+    ;[resp] = await getproprium(state, key, lang, true)
+  }
+
+  // Monastic responsories at the major hours usually match Roman Terce/Sext.
+  if (!resp) {
+    key = key.replace(/Vespera/, 'Breve Sexta')
+    key = key.replace(/Laudes/, 'Breve Tertia')
+    ;[resp] = await getproprium(state, key, lang, true)
+  }
+
+  // Legacy "R.br & Versicle" fallback.
+  if (!resp) {
+    key = key.replace(/Breve /, '')
+    ;[resp] = await getproprium(state, key, lang, true)
+  }
+
+  // From the Psalterium.
+  if (!resp) {
+    const respFile = await setup(state, lang, 'Psalterium/Special/Major Special')
+    const name = `Responsory ${gettempora(state, 'Capitulum major')} ${hora}`
+    resp = respFile[name] ?? ''
+  }
+
+  // Remove any attached versicle.
+  resp = resp.replace(/\n?_\n[\s\S]*/, '')
+
+  if (resp) {
+    const lines = await postprocessShortResp(state, resp.split('\n'), lang)
+    resp = lines.join('\n')
+    if (/cist/i.test(version)) resp = resp.replace(/&gloria[\s\S]*/gi, '')
+  }
+
+  return resp
+}
+
 // Port of capitulum_minor (Tertia/Sexta/Nona/Completorium).
 export async function capitulumMinor(state: HoursState, lang: string): Promise<string> {
   const hora = state.hora

@@ -1,0 +1,38 @@
+{
+  "id": "breviary-lauds",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Lauds",
+    "pt-BR": "Laudes"
+  },
+  "subtitle": {
+    "en-US": "Roman Breviary",
+    "pt-BR": "Breviário Romano"
+  },
+  "categories": [
+    "liturgical"
+  ],
+  "estimatedMinutes": 15,
+  "description": {
+    "en-US": "The Church’s solemn morning praise at daybreak — psalms of praise, the Benedictus, and the collect of the day, with the commemorations the rubrics call for.",
+    "pt-BR": "O louvor matinal solene da Igreja ao romper do dia — salmos de louvor, o Benedictus e a coleta do dia, com as comemorações previstas pelas rúbricas."
+  },
+  "history": {
+    "en-US": "The Divine Office sanctifies the hours of the day with the public prayer of the Church, a practice inherited from the synagogue and shaped by St. Benedict’s Rule into the eight canonical hours. This practice presents the traditional Roman Breviary as served by the Divinum Officium project, following the rubrics of 1960 (with the Divino Afflatu and Monastic uses available in settings).",
+    "pt-BR": "O Ofício Divino santifica as horas do dia com a oração pública da Igreja, prática herdada da sinagoga e moldada pela Regra de São Bento nas oito horas canônicas. Esta prática apresenta o Breviário Romano tradicional servido pelo projeto Divinum Officium, segundo as rúbricas de 1960 (com os usos Divino Afflatu e Monástico disponíveis nas configurações)."
+  },
+  "howToPray": {
+    "en-US": "Pray slowly, alternating the verses as if in choir. The office is assembled for today’s liturgical day; your content language is shown with the Latin beneath each text. The rubric version can be changed in settings.",
+    "pt-BR": "Reze devagar, alternando os versículos como em coro. O ofício é montado para o dia litúrgico de hoje; seu idioma aparece com o latim abaixo de cada texto. A versão das rúbricas pode ser alterada nas configurações."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "theme": "office",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary",
+    "liturgy-of-the-hours",
+    "latin"
+  ]
+}

@@ -13,7 +13,16 @@ import { assembleHour } from './assemble'
 
 const pofficium = join(doClone, 'web', 'cgi-bin', 'horas', 'Pofficium.pl')
 
-const horas = ['Prima', 'Tertia', 'Sexta', 'Nona', 'Completorium'] as const
+const horas = [
+  'Matutinum',
+  'Laudes',
+  'Prima',
+  'Tertia',
+  'Sexta',
+  'Nona',
+  'Vespera',
+  'Completorium',
+] as const
 
 // Dates spanning seasons, ranks, preces days, octaves, and Compline
 // concurrence cases (eve of a I. cl. feast, Saturday before a Sunday).
@@ -30,6 +39,10 @@ const dates: Array<[number, number, number]> = [
   [11, 1, 2026], // All Saints
   [1, 25, 2026], // Septuagesima-time Sunday
   [7, 14, 2026], // summer feria-time saint
+  [12, 26, 2026], // St Stephen — octave of Christmas commemorated at Vespers
+  [8, 15, 2026], // Assumption (I. cl. on a Saturday — concurrence with Sunday)
+  [1, 1, 2026], // Circumcision / octave day of Christmas
+  [11, 2, 2026], // All Souls (Office of the Dead at the major hours)
 ]
 
 // Extract one column of the hour from Pofficium's HTML: cells alternate
@@ -37,12 +50,11 @@ const dates: Array<[number, number, number]> = [
 // officium' framing cell.
 function perlHourColumn(html: string, column: 0 | 1): string {
   const cells = htmlCells(html)
-  // The hour body starts right after the 'Ante Divinum officium' framing cell
-  // (offices like Compline of the Dead omit the Incipit heading entirely).
+  // The hour body starts right after the 'Ante Divinum officium' framing cell.
+  // The 1570/1955/196x/Altovadensis layouts print no framing cells at all
+  // (print_content's antepost flag) — there the body starts at the first cell.
   let start = cells.findIndex((c) => /^\s*Ante Divinum officium\s*$/.test(c))
-  if (start !== -1) start += 1
-  else start = cells.findIndex((c) => /^\s*Incipit/.test(c))
-  if (start === -1) return ''
+  start = start !== -1 ? start + 1 : 0
   const out: string[] = []
   for (let i = start; i + column < cells.length; i += 2) {
     const cell = cells[i + column]
@@ -57,35 +69,63 @@ function perlHourColumn(html: string, column: 0 | 1): string {
   return out.join('\n')
 }
 
-// The Martyrologium data set is not imported yet (M8); our Prima emits an
-// explicit unavailability note instead. Drop the block on both sides — the
-// surrounding Pretiosa versicle and prayer stay compared.
-function dropMartyrologium(text: string): string {
-  return text
-    .split('\n')
-    .filter((l) => !/Martyrolog/i.test(l))
-    .join('\n')
-}
-
-function perlMartyrologiumPruned(html: string, column: 0 | 1): string {
-  const text = perlHourColumn(html, column)
-  // The whole Martyrologium cell (heading + entry + Deo gratias + Conclmart)
-  // is one cell; it survives as a single newline-joined chunk containing the
-  // heading word — drop from its heading to the Pretiosa versicle.
-  const lines = text.split('\n')
-  const out: string[] = []
-  let skipping = false
-  for (const line of lines) {
-    if (/Martyrolog/i.test(line)) skipping = true
-    if (skipping && /Preti|Precious/i.test(line)) skipping = false
-    if (!skipping) out.push(line)
-  }
-  return out.join('\n')
-}
-
 const hasHourFixtures = hasFixtures && existsSync(goldenLib)
 
 describe.skipIf(!hasHourFixtures)('assembleHour vs real Pofficium', () => {
+  // Portugues fallback smoke test: the vernacular column falls back per file
+  // (pt → en → la at setupstring level) — compare a small matrix.
+  it('matches the Portugues fallback column', { timeout: 1_800_000 }, async () => {
+    const loader = createFsLoader(contentDo)
+    const failures: string[] = []
+    const version = 'Rubrics 1960 - 1960'
+    for (const [month, day, year] of [
+      [6, 10, 2026],
+      [12, 25, 2026],
+    ] as Array<[number, number, number]>) {
+      for (const hora of ['Laudes', 'Prima', 'Vespera'] as const) {
+        const result = spawnSync(
+          'perl',
+          [
+            pofficium,
+            `date1=${month}-${day}-${year}`,
+            `command=pray${hora}`,
+            `version=${version}`,
+            'lang1=Latin',
+            'lang2=Portugues',
+            'votive=Hodie',
+          ],
+          {
+            encoding: 'utf8',
+            maxBuffer: 256 * 1024 * 1024,
+            env: { ...process.env, PERL5LIB: goldenLib },
+            cwd: join(doClone, 'web', 'cgi-bin', 'horas'),
+          },
+        )
+        expect(result.status, result.stderr.slice(0, 2000)).toBe(0)
+        const ours = await assembleHour({
+          loader,
+          day,
+          month,
+          year,
+          version,
+          hora,
+          lang2: 'Portugues',
+        })
+        const perlWords = toWords(perlHourColumn(result.stdout, 1))
+        const ourWords = toWords((ours.vernacular ?? []).join('\n'))
+        const divergence = charDivergence(perlWords, ourWords)
+        if (divergence !== -1) {
+          failures.push(
+            `${month}-${day}-${year} ${hora} pt: diverges at char ${divergence}\n` +
+              `  perl: …${charContext(perlWords, divergence)}…\n` +
+              `  ours: …${charContext(ourWords, divergence)}…`,
+          )
+        }
+      }
+    }
+    expect(failures.length, failures.join('\n')).toBe(0)
+  })
+
   for (const version of v1Versions) {
     it(`matches the assembled word stream — ${version}`, { timeout: 1_800_000 }, async () => {
       const loader = createFsLoader(contentDo)
@@ -124,14 +164,14 @@ describe.skipIf(!hasHourFixtures)('assembleHour vs real Pofficium', () => {
           })
 
           for (const [label, perlWords, ourText] of [
-            ['Latin', toWords(perlMartyrologiumPruned(result.stdout, 0)), ours.latin.join('\n')],
+            ['Latin', toWords(perlHourColumn(result.stdout, 0)), ours.latin.join('\n')],
             [
               'English',
-              toWords(perlMartyrologiumPruned(result.stdout, 1)),
+              toWords(perlHourColumn(result.stdout, 1)),
               (ours.vernacular ?? []).join('\n'),
             ],
           ] as const) {
-            const ourWords = toWords(dropMartyrologium(ourText))
+            const ourWords = toWords(ourText)
             const divergence = charDivergence(perlWords, ourWords)
             if (divergence !== -1) {
               failures.push(

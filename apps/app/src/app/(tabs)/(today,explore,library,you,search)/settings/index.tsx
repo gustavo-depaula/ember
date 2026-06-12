@@ -37,6 +37,8 @@ export default function SettingsScreen() {
   const setLiturgicalCalendar = usePreferencesStore((s) => s.setLiturgicalCalendar)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const setJurisdiction = usePreferencesStore((s) => s.setJurisdiction)
+  const doVersion = usePreferencesStore((s) => s.doVersion)
+  const setDoVersion = usePreferencesStore((s) => s.setDoVersion)
   const timeTravelDate = usePreferencesStore((s) => s.timeTravelDate)
   const setTimeTravelDate = usePreferencesStore((s) => s.setTimeTravelDate)
   const [showDatePicker, setShowDatePicker] = useState(false)
@@ -118,6 +120,17 @@ export default function SettingsScreen() {
             ]}
             value={liturgicalCalendar}
             onChange={setLiturgicalCalendar}
+          />
+
+          <PillSelector
+            label={t('settings.doVersion')}
+            options={[
+              { value: 'rubrics-1960' as const, label: t('settings.doVersion1960') },
+              { value: 'divino-afflatu' as const, label: t('settings.doVersionDivino') },
+              { value: 'monastic' as const, label: t('settings.doVersionMonastic') },
+            ]}
+            value={doVersion}
+            onChange={setDoVersion}
           />
 
           <PillSelector

@@ -705,4 +705,8 @@ export async function concurrence(state: KalendarState, lang2?: string): Promise
     }
     state.ccommemoentries = comentries
   }
+
+  // Persist the concurrent winner's sections (Perl's global %cwinner) for the
+  // hours layer (getsuffragium, Septuagesima_vesp consumers).
+  state.cwinnerSections = cwinnerH
 }

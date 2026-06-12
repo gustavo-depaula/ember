@@ -164,6 +164,21 @@ export async function getfrompsalterium(
   return c[`${name} ${ind}`] ?? c[`${name} 1`] ?? c[`${name} 3`] ?? c[`${name} 2`] ?? ''
 }
 
+// Port of getseant — 'Ant 3' from the Str$year (stransfer) file.
+async function getseant(state: HoursState, lang: string): Promise<string> {
+  const ctx = state.day.ctx
+  const key = `seant${String(ctx.month).padStart(2, '0')}-${String(ctx.day).padStart(2, '0')}`
+  const d = await state.day.state.directorium.getFromDirectorium(
+    'stransfer',
+    ctx.version,
+    key,
+    ctx.year,
+  )
+  if (!d) return ''
+  const w = (await setupstring(sessionWithLang(state.session, lang), `Tempora/${d}`)) ?? {}
+  return w['Ant 3'] ?? ''
+}
+
 // Port of getantvers.
 export async function getantvers(
   state: HoursState,
@@ -174,6 +189,16 @@ export async function getantvers(
   let [w, c] = await getproprium(state, `${item} ${ind}`, lang, true)
   if (!w && ind > 1) {
     ;[w, c] = await getproprium(state, `${item} ${4 - ind}`, lang, true)
+  }
+  // Septuagesima/Sexagesima Vespers: Ant 3 from the stransfer table.
+  if (
+    !w &&
+    state.hora === 'Vespera' &&
+    /Ant/i.test(item) &&
+    /Tempora\/Quadp[12]/i.test(state.day.winner)
+  ) {
+    w = await getseant(state, lang)
+    if (w) c = 0
   }
   if (!w) {
     w = await getfrompsalterium(state, item, ind, lang)

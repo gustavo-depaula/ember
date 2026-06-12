@@ -1,0 +1,91 @@
+{
+ "id": "collection/breviary",
+ "version": "1.0.0",
+ "name": {
+  "en-US": "Roman Breviary",
+  "pt-BR": "Breviário Romano"
+ },
+ "description": {
+  "en-US": "The traditional Divine Office, hour by hour — the Church's daily round of psalms, lessons, and prayer, assembled each day according to the classic rubrics.",
+  "pt-BR": "O Ofício Divino tradicional, hora por hora — o ciclo diário de salmos, lições e oração da Igreja, montado a cada dia segundo as rúbricas clássicas."
+ },
+ "icon": "prayer",
+ "languages": [
+  "en-US",
+  "pt-BR",
+  "la"
+ ],
+ "tags": [
+  "breviary",
+  "office",
+  "liturgy-of-the-hours",
+  "latin"
+ ],
+ "prologue": {
+  "body": {
+   "en-US": "Eight times a day the Church pauses to pray with the psalms, as Christians have done since the apostles. These hours are assembled live for today's liturgical day, in Latin alongside your language, from the texts of the traditional Roman Breviary served by the Divinum Officium project. The rubric version — Rubrics of 1960, Divino Afflatu, or Monastic — can be chosen in settings.",
+   "pt-BR": "Oito vezes ao dia a Igreja se detém para rezar com os salmos, como os cristãos fazem desde os apóstolos. Estas horas são montadas ao vivo para o dia litúrgico de hoje, em latim junto ao seu idioma, a partir dos textos do Breviário Romano tradicional servidos pelo projeto Divinum Officium. A versão das rúbricas — Rúbricas de 1960, Divino Afflatu ou Monástica — pode ser escolhida nas configurações."
+  }
+ },
+ "sections": [
+  {
+   "id": "night-and-morning",
+   "title": {
+    "en-US": "Night & Morning",
+    "pt-BR": "Noite e Manhã"
+   },
+   "blocks": [
+    {
+     "kind": "item",
+     "ref": "practice/breviary-matins"
+    },
+    {
+     "kind": "item",
+     "ref": "practice/breviary-lauds"
+    },
+    {
+     "kind": "item",
+     "ref": "practice/breviary-prime"
+    }
+   ]
+  },
+  {
+   "id": "day-hours",
+   "title": {
+    "en-US": "Day Hours",
+    "pt-BR": "Horas do Dia"
+   },
+   "blocks": [
+    {
+     "kind": "item",
+     "ref": "practice/breviary-terce"
+    },
+    {
+     "kind": "item",
+     "ref": "practice/breviary-sext"
+    },
+    {
+     "kind": "item",
+     "ref": "practice/breviary-none"
+    }
+   ]
+  },
+  {
+   "id": "evening",
+   "title": {
+    "en-US": "Evening",
+    "pt-BR": "Tarde e Noite"
+   },
+   "blocks": [
+    {
+     "kind": "item",
+     "ref": "practice/breviary-vespers"
+    },
+    {
+     "kind": "item",
+     "ref": "practice/breviary-compline"
+    }
+   ]
+  }
+ ]
+}

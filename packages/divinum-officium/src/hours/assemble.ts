@@ -8,12 +8,21 @@ import { type DayResolution, resolveDay } from '../kalendar/precedence'
 import type { DoLoader } from '../loader'
 import { createTextTables } from '../mass/texts'
 import { isSectioned } from '../types'
-import { capitulumMinor, capitulumPrima, lectioBrevisPrima, regula } from './capitulis'
+import {
+  capitulumMajor,
+  capitulumMinor,
+  capitulumPrima,
+  lectioBrevisPrima,
+  monasticMajorResponsory,
+  regula,
+} from './capitulis'
 import { loadspecial, processInlineAlleluias, septuagesimaVesp, suppressAlleluia } from './helpers'
 import { gethymn } from './hymni'
-import { oratio } from './orationes'
+import { martyrologium } from './martyrologium'
+import { invitatorium } from './matins'
+import { getsuffragium, oratio, papalAntiphonDumEsset, papalRule } from './orationes'
 import { getpreces, preces } from './preces'
-import { getproprium, setcomment, setup } from './proprium'
+import { checksuffragium, getantvers, getproprium, setcomment, setup } from './proprium'
 import { antetpsalm, psalmi } from './psalmi'
 import { hourScriptFunctions } from './scripts'
 import { columnsel, type HoursState, winnerOf } from './state'
@@ -28,16 +37,22 @@ async function getordinarium(state: HoursState, hora: string): Promise<string[]>
   return ['#Prelude', '', ...script]
 }
 
-// Port of specials() — the #-directive walker (minor-hours subset).
-async function specials(state: HoursState, script: string[], lang: string): Promise<string[]> {
+// Port of specials() — the #-directive walker.
+async function specials(
+  state: HoursState,
+  script: string[],
+  lang: string,
+  special = false,
+): Promise<string[]> {
   const ctx = state.day.ctx
   const { version } = ctx
   const hora = state.hora
   const w = winnerOf(state, lang)
+  state.octavam = ''
 
-  // Special <hora> override.
+  // Special <hora> override (suppressed on nested &special('#…') re-entry).
   const i = hora === 'Laudes' ? ' 2' : hora === 'Vespera' ? ` ${state.day.vespera}` : ''
-  if (w[`Special ${hora}${i}`] !== undefined) {
+  if (!special && w[`Special ${hora}${i}`] !== undefined) {
     return loadspecial(w[`Special ${hora}${i}`] ?? '', version)
   }
 
@@ -148,7 +163,8 @@ async function specials(state: HoursState, script: string[], lang: string): Prom
     }
 
     if (/invitatorium/i.test(item)) {
-      throw new Error('invitatorium is not ported yet — M7')
+      await invitatorium(state, lang)
+      continue
     }
 
     if (/psalm/i.test(item)) {
@@ -173,8 +189,15 @@ async function specials(state: HoursState, script: string[], lang: string): Prom
       continue
     }
 
+    // No `continue` — '#Capitulum … Hymnus Versus' items fall through to the
+    // Responsorium and Hymnus branches below.
     if (/Capitulum/i.test(item) && /^(?:Laudes|Vespera)$/.test(hora)) {
-      throw new Error('capitulum_major is not ported yet — M6')
+      state.s.push(await capitulumMajor(state, lang))
+    }
+
+    if (/Responsor/.test(item) && /monastic/i.test(version) && /^(?:Laudes|Vespera)$/.test(hora)) {
+      const resp = await monasticMajorResponsory(state, lang)
+      if (resp) state.s.push('_', resp)
     }
 
     if (/Regula/i.test(item)) {
@@ -208,21 +231,44 @@ async function specials(state: HoursState, script: string[], lang: string): Prom
     }
 
     if (/Canticum/.test(item)) {
-      if (hora !== 'Completorium') {
-        throw new Error('canticum at the major hours is not ported yet — M6')
-      }
-      // Port of horas.pl::canticum, Completorium path (Nunc dimittis = 233).
-      state.s.push(`#${await state.texts.translate(item.slice(1), lang)}`)
-      const [w] = await getproprium(state, `Ant 4${state.day.vespera}`, lang, false)
-      let ant: string
+      // Port of horas.pl::canticum — Benedictus (231) at Lauds, Magnificat
+      // (232) at Vespers, Nunc dimittis (233) at Compline.
+      const numC = hora === 'Laudes' ? 2 : hora === 'Completorium' ? 4 : 3
+      let duplexf = /196/.test(version)
+      let ant = ''
       let ant2: string | undefined
-      if (w) {
-        ;[ant, ant2] = w.split('\n')
+
+      if (hora === 'Completorium') {
+        state.s.push(`#${await state.texts.translate(item.slice(1), lang)}`)
+        const [w] = await getproprium(state, `Ant 4${state.day.vespera}`, lang, false)
+        if (w) {
+          ;[ant, ant2] = w.split('\n')
+        } else {
+          const a = await setup(state, lang, 'Psalterium/Special/Minor Special')
+          ant = a['Ant 4'] ?? ''
+        }
       } else {
-        const a = await setup(state, lang, 'Psalterium/Special/Minor Special')
-        ant = a['Ant 4'] ?? ''
+        const commentC = /sancti/i.test(state.day.winner) ? 3 : 2
+        await setcomment(
+          state,
+          item,
+          'Source',
+          commentC,
+          lang,
+          await state.texts.translate('Antiphona', lang),
+        )
+        duplexf ||= state.day.duplex > 2
+        const key = numC === 3 ? state.day.vespera : numC
+        const [special, df] = await ant123Special(state, lang)
+        if (special) {
+          ant = special
+          duplexf ||= df
+        } else {
+          ;[ant] = await getantvers(state, 'Ant', key, lang)
+        }
       }
-      await antetpsalm(state, [`${ant};;233`], /196/.test(version), lang)
+
+      await antetpsalm(state, [`${ant};;${229 + numC}`], duplexf, lang)
       if (ant2) state.s[state.s.length - 1] = `Ant. ${ant2}`
       continue
     }
@@ -242,14 +288,24 @@ async function specials(state: HoursState, script: string[], lang: string): Prom
     }
 
     if (/Suffragium/i.test(item) && /^(?:Laudes|Vespera)$/.test(hora)) {
-      throw new Error('suffragium is not ported yet — M6')
+      if (
+        !(await checksuffragium(state)) ||
+        (!/Cist/i.test(version) && /Quad5/i.test(ctx.dayname[0])) ||
+        /Quad6/i.test(ctx.dayname[0])
+      ) {
+        await setcomment(state, state.label, 'Suffragium', 0, lang)
+        state.s.push('\n')
+        continue
+      }
+      const [suffr, c] = await getsuffragium(state, lang)
+      await setcomment(state, state.label, 'Suffragium', c, lang)
+      state.s.push(suffr)
+      continue
     }
 
     if (/Martyrologium/.test(item)) {
-      // Martyrologium data is outside the v1 import scope; emit the heading
-      // with an explicit unavailability note rather than failing the hour.
       await setcomment(state, state.label, 'Martyrologium', 0, lang)
-      state.s.push('!Martyrologium nondum disponibile (TODO M8)')
+      state.s.push(await martyrologium(state, lang))
       if (!/ex C9/.test(state.rule)) state.s.push('', '$Pretiosa')
       continue
     }
@@ -287,8 +343,67 @@ async function specials(state: HoursState, script: string[], lang: string): Prom
       continue
     }
 
+    // Litaniae majores flag for St Mark's day (and Rogation Monday cases).
+    let litFlag = false
+    if (state.votive === 'Hodie') {
+      const { month, day, dayofweek } = ctx
+      if (month === 4 && day === 25 && (!/Pasc0/.test(ctx.dayname[0]) || dayofweek > 1)) {
+        litFlag = true
+      }
+      if (month === 4 && day === 27 && /Pasc0/.test(ctx.dayname[0]) && dayofweek === 2) {
+        litFlag = true
+      }
+      if (
+        !/1960/.test(version) &&
+        month === 4 &&
+        day === 25 &&
+        /Pasc0/.test(ctx.dayname[0]) &&
+        dayofweek === 1
+      ) {
+        litFlag = true
+      }
+      if (
+        /1960/.test(version) &&
+        month === 4 &&
+        day === 26 &&
+        /Pasc0/.test(ctx.dayname[0]) &&
+        dayofweek === 2
+      ) {
+        litFlag = true
+      }
+      if (/Laudes Litania/i.test(state.rule) && /Sancti/.test(state.day.winner) && ctx.day !== 25) {
+        state.rule = state.rule.replace(/Laudes Litania/gi, '')
+      }
+    }
+
     // Insert the title.
     state.s.push(await state.texts.translate(state.label, lang))
+
+    // Litany of the Saints replaces the conclusion of Lauds on Rogation days.
+    if (
+      /Conclusio/i.test(item) &&
+      hora === 'Laudes' &&
+      (ctx.month === 4 || !/1960/.test(version)) &&
+      (/Laudes Litania/i.test(state.rule) ||
+        /Laudes Litania/i.test(state.day.commemoratioSections.Rule ?? '') ||
+        /Laudes Litania/i.test(state.day.scripturaSections.Rule ?? '') ||
+        litFlag)
+    ) {
+      const preces = await setup(state, lang, 'Psalterium/Special/Preces')
+      const lname = /Monastic/.test(version) ? 'LitaniaM' : 'Litania'
+      state.s.push('$Domine exaudi', '&Benedicamus_Domino', '')
+      const lit = (preces[lname] ?? '').split('\n\n')
+      lit.push('', '')
+      state.s.push(
+        lit[0] ?? '',
+        lit[lit.length - 1] ?? '',
+        lit[1] ?? '',
+        lit[lit.length - 2] ?? '',
+        lit[2] ?? '',
+      )
+      state.skipflag = true
+      state.litaniaflag = true
+    }
 
     // Special conclusions, e.g. on All Souls' day.
     if (/Conclusio/.test(item) && /Special Conclusio/i.test(state.rule)) {
@@ -296,8 +411,79 @@ async function specials(state: HoursState, script: string[], lang: string): Prom
       state.skipflag = true
       state.specialflag = true
     }
+
+    // Special conclusion when the Office of the Dead follows.
+    if (/Conclusio/.test(item) && !/C9/i.test(state.day.commune) && !/C9/i.test(state.votive)) {
+      const { month, day, year } = ctx
+      const dirge = await state.day.state.directorium.dirge(version, hora, day, month, year)
+
+      if (
+        (dirge ||
+          (/Vesperae Defunctorum/.test(state.day.winnerSections.Rule ?? '') &&
+            state.day.vespera === 3)) &&
+        hora === 'Vespera'
+      ) {
+        state.s.push(await state.texts.prayer('DefunctV', lang))
+        state.skipflag = true
+        state.specialflag = true
+      } else if (
+        (dirge || /Matutinum et Laudes Defunctorum/.test(state.day.winnerSections.Rule ?? '')) &&
+        hora === 'Laudes'
+      ) {
+        state.s.push(await state.texts.prayer('DefunctM', lang))
+        state.skipflag = true
+        state.specialflag = true
+      }
+    }
   }
   return state.s
+}
+
+// Port of ant123_special — the Greater-Advent 'O' antiphons and the common
+// papal Magnificat antiphon at second Vespers.
+async function ant123Special(state: HoursState, lang: string): Promise<[string, boolean]> {
+  const ctx = state.day.ctx
+  const { version, month, day } = ctx
+  let ant = ''
+  let duplexf = false
+
+  if (month === 12 && day > 16 && day < 24 && /tempora/i.test(state.day.winner)) {
+    const specials = await setup(state, lang, 'Psalterium/Special/Major Special')
+    if (state.hora === 'Laudes' && (day === 21 || day === 23)) {
+      ant = specials[`Adv Ant ${day}L`] ?? ''
+    } else if (state.hora === 'Vespera') {
+      ant = specials[`Adv Ant ${day}`] ?? ''
+      duplexf = true
+    }
+  } else if (
+    /^Sancti/.test(state.day.winner) &&
+    !/Trident/.test(version) &&
+    state.day.vespera === 3
+  ) {
+    // Confessor-Popes share a Magnificat antiphon at second Vespers.
+    const pr = papalRule(state.day.winnerSections.Rule ?? '')
+    if (pr && /C/i.test(pr[1])) {
+      ant = await papalAntiphonDumEsset(state, lang)
+    }
+  }
+  return [ant, duplexf]
+}
+
+// Re-run the walker over a single '#…' item (Perl's special() ScriptFunc with
+// a '#' name). The walker state is saved/restored around the nested run.
+export async function specialsForItem(
+  state: HoursState,
+  item: string,
+  lang: string,
+): Promise<string[]> {
+  const savedS = state.s
+  const savedLabel = state.label
+  const savedSkip = state.skipflag
+  const out = await specials(state, [item], lang, true)
+  state.s = savedS
+  state.label = savedLabel
+  state.skipflag = savedSkip
+  return out
 }
 
 // Expansion pass — same shape as the missa one, plus the antline pass-through
@@ -483,7 +669,9 @@ export async function assembleHour(opts: {
     missa: false,
     lang1: 'Latin',
     lang2,
-    caller: 1,
+    // The interactive pray<Hora> request runs with $caller unset — caller=1
+    // would suppress the 'All Souls ends after None' Vespers rule.
+    caller: 0,
   })
 
   const texts = createTextTables(day.state.session, false)

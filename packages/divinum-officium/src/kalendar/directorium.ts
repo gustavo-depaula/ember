@@ -24,6 +24,8 @@ export type Directorium = {
   ): Promise<string>
   transfered(str: string, year: number, version: string): Promise<string>
   dirge(version: string, hora: string, day: number, month: number, year: number): Promise<boolean>
+  hymnshift(version: string, day: number, month: number, year: number): Promise<boolean>
+  hymnshiftmerge(version: string, day: number, month: number, year: number): Promise<boolean>
 }
 
 async function readLines(loader: DoLoader, path: string): Promise<string[]> {
@@ -226,5 +228,17 @@ export async function createDirectorium(loader: DoLoader): Promise<Directorium> 
     return dirgeline.includes(sday)
   }
 
-  return { getFromDirectorium, transfered, dirge }
+  // Ports of hymnmerge / hymnshift / hymnshiftmerge (Rule XX.3): the HyMM-DD
+  // transfer entry carries 1 (merge), 2 (shift), or 3 (shift+merge).
+  async function hymnFlag(version: string, day: number, month: number, year: number) {
+    return getFromDirectorium('transfer', version, `Hy${getSday(month, day, year)}`, year)
+  }
+  async function hymnshift(version: string, day: number, month: number, year: number) {
+    return /2/.test(await hymnFlag(version, day, month, year))
+  }
+  async function hymnshiftmerge(version: string, day: number, month: number, year: number) {
+    return /3/.test(await hymnFlag(version, day, month, year))
+  }
+
+  return { getFromDirectorium, transfered, dirge, hymnshift, hymnshiftmerge }
 }

@@ -47,6 +47,7 @@ export type KalendarState = {
 
   // Concurrence outputs (set only when hora is Vespers/Compline).
   cwinner: string
+  cwinnerSections: Sections
   crank: number
   ccommemoentries: string[]
   antecapitulum: string
@@ -110,6 +111,7 @@ export function createKalendarState(init: {
     tvesp: 0,
     svesp: 0,
     cwinner: '',
+    cwinnerSections: {},
     crank: 0,
     ccommemoentries: [],
     antecapitulum: '',
