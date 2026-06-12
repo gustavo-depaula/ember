@@ -113,7 +113,9 @@ export default function HomeScreen() {
       }
       router.push({
         pathname: '/pray/[practiceId]',
-        params: { practiceId: resolvedId, slotId },
+        // Pray the resolved variant's content, but track completion against the
+        // base practice id so it matches this plan slot.
+        params: { practiceId: resolvedId, slotId, completionId: practiceId },
       })
     },
     [router],

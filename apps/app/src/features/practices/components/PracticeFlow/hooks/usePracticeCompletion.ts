@@ -26,6 +26,11 @@ export function usePracticeCompletion(
   renderedSections: RenderedSection[],
   selectOverrides: Record<string, string>,
   slotId?: string,
+  // When a variant is being prayed, `practiceId` is the variant's content id
+  // but the plan slot (and thus the completion record) is keyed on the base
+  // practice id. Log against that base id so the completion matches the slot;
+  // cursors/program progress still key on the variant `practiceId`.
+  completionId?: string,
 ) {
   const { t } = useTranslation()
   const router = useRouter()
@@ -42,7 +47,7 @@ export function usePracticeCompletion(
     const subId = slotId ?? parseSlotKey(currentSlot?.id ?? `${practiceId}::default`).slotId
 
     logCompletionMutation.mutate(
-      { practiceId, date: today, subId },
+      { practiceId: completionId ?? practiceId, date: today, subId },
       {
         onSuccess: async () => {
           successBuzz()
@@ -84,6 +89,7 @@ export function usePracticeCompletion(
     )
   }, [
     practiceId,
+    completionId,
     slotId,
     currentSlot?.id,
     logCompletionMutation,
