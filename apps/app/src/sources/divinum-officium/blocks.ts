@@ -39,9 +39,12 @@ function classify(raw: string): Line {
   return { kind: 'text', text: line }
 }
 
-// Pair the two columns' lines: when the line counts match, pair index-wise;
-// otherwise fall back to whole-chunk pairing (vernacular text with the full
-// Latin chunk as secondary on the first block).
+// Pair the two columns' lines: when the line counts match, pair index-wise.
+// When they differ (translations legitimately split prayers across more
+// lines than the Latin), pair greedily by line KIND — rubric with rubric,
+// verse with verse — leaving the extra vernacular lines unpaired. If that
+// would drop Latin content, fall back to whole-chunk pairing (the full Latin
+// chunk as secondary on the first text block).
 function pairLines(
   primaryLines: Line[],
   latinLines: Line[] | undefined,
@@ -50,8 +53,22 @@ function pairLines(
   if (latinLines.length === primaryLines.length) {
     return primaryLines.map((l, i) => [l, latinLines[i]])
   }
-  // Structure diverged (translation gap): keep primary structure, attach the
-  // Latin text block-level via the first text line.
+
+  const isContent = (l: Line) => l.kind !== 'break' && l.kind !== 'divider'
+  const kindPairs: Array<[Line, Line | undefined]> = []
+  let j = 0
+  for (const l of primaryLines) {
+    while (j < latinLines.length && !isContent(latinLines[j])) j++
+    if (isContent(l) && j < latinLines.length && latinLines[j].kind === l.kind) {
+      kindPairs.push([l, latinLines[j]])
+      j++
+    } else {
+      kindPairs.push([l, undefined])
+    }
+  }
+  const latinFullyConsumed = latinLines.slice(j).every((x) => !isContent(x))
+  if (latinFullyConsumed) return kindPairs
+
   let attached = false
   return primaryLines.map((l) => {
     if (!attached && (l.kind === 'text' || l.kind === 'verse')) {

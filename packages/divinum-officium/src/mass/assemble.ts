@@ -7,7 +7,13 @@ import { officestring } from '../kalendar/officestring'
 import { type DayResolution, resolveDay } from '../kalendar/precedence'
 import type { DoLoader } from '../loader'
 import type { Sections } from '../references/resolve'
-import { cleanItemMarkers, parseScriptArgs, spellVar } from '../render'
+import {
+  cleanItemMarkers,
+  mergeContinuationLines,
+  parseScriptArgs,
+  spellVar,
+  toUnits,
+} from '../render'
 import { isSectioned } from '../types'
 import { hooks, replaceNpb, scriptFunctions, translateLabel } from './handlers'
 import { type MassState, winnerOf } from './state'
@@ -282,6 +288,7 @@ export async function assembleMass(opts: {
   const script1 = await readScript(state, 'Latin')
   let items1 = await specials(state, script1, 'Latin')
   applyPreludeRules(state, winnerOf(state, 'Latin'), items1)
+  items1 = toUnits(items1)
   items1 = await renderFinish(state, await expandItems(state, items1, 'Latin'), 'Latin')
 
   let items2: string[] | undefined
@@ -290,6 +297,7 @@ export async function assembleMass(opts: {
     const script2 = await readScript(state, lang2)
     items2 = await specials(state, script2, lang2)
     applyPreludeRules(state, state.winner2, items2)
+    items2 = toUnits(items2)
     items2 = await renderFinish(state, await expandItems(state, items2, lang2), lang2)
   }
 
@@ -316,6 +324,7 @@ async function renderFinish(state: MassState, items: string[], lang: string): Pr
     let item = itemIn
     if (alleluiaRegex) item = item.replace(alleluiaRegex, '')
     if (/Latin/.test(lang)) item = spellVar(item, ctx.version)
+    item = mergeContinuationLines(item)
     item = cleanItemMarkers(item)
     return item
   })

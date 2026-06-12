@@ -36,3 +36,46 @@ export function cleanItemMarkers(item: string): string {
     .replace(/\{:[\s\S]*?:\}/g, '')
     .replace(/`/g, '')
 }
+
+// Port of webdia.pl::getunit — group the raw assembly stream into the units
+// the two-column table pairs: consecutive non-blank entries form one unit; a
+// blank entry ends it. This is what keeps the Latin and vernacular columns
+// aligned even when one language splits a prayer across many source lines.
+export function toUnits(entries: string[]): string[] {
+  const units: string[] = []
+  let unit = ''
+  for (const entry of entries) {
+    const line = (entry ?? '').replace(/\s*$/, '')
+    if (line && !/^\s+$/.test(line)) {
+      unit += `${line}\n`
+      continue
+    }
+    if (!unit) continue
+    units.push(unit)
+    unit = ''
+  }
+  if (unit) units.push(unit)
+  return units
+}
+
+// Port of the resolve-loop continuation merge (horas.pl:117,196): a line
+// ending with '~' is joined with the following line into one display line.
+export function mergeContinuationLines(text: string): string {
+  const out: string[] = []
+  let merged = ''
+  for (const lineIn of text.split('\n')) {
+    let line = lineIn.replace(/\s+$/, '')
+    // Perl resolves each line's V./R./r. marker into a glyph or initial
+    // BEFORE merging — a marker at the start of a continuation line would
+    // otherwise surface mid-sentence.
+    if (merged) line = line.replace(/^(?:[VR]\.br\.|[VRvr]\.|Ant\.)\s*/, '')
+    if (/~$/.test(line)) {
+      merged += `${line.replace(/\s*~$/, '')} `
+      continue
+    }
+    out.push(merged + line)
+    merged = ''
+  }
+  if (merged) out.push(merged.replace(/\s+$/, ''))
+  return out.join('\n')
+}

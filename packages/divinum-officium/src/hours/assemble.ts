@@ -7,7 +7,13 @@ import { officestring } from '../kalendar/officestring'
 import { type DayResolution, resolveDay } from '../kalendar/precedence'
 import type { DoLoader } from '../loader'
 import { createTextTables } from '../mass/texts'
-import { cleanItemMarkers, parseScriptArgs, spellVar } from '../render'
+import {
+  cleanItemMarkers,
+  mergeContinuationLines,
+  parseScriptArgs,
+  spellVar,
+  toUnits,
+} from '../render'
 import { isSectioned } from '../types'
 import {
   capitulumMajor,
@@ -523,6 +529,11 @@ async function expandText(
       line = line.replace(/\./g, '')
       const expanded = await expandLine(state, line.trim(), lang, antline)
       if (/^\s*$/.test(expanded)) continue
+      // If the psalm has a cross, so should the preceding antiphon line
+      // (horas.pl:128 — within the same unit).
+      if (antline && expanded.includes('‡') && out.length > 0) {
+        out[out.length - 1] += ' /:‡:/'
+      }
       out.push(await expandText(state, expanded.replace(/\n$/, ''), lang))
     } else {
       out.push(line)
@@ -590,12 +601,16 @@ async function renderFinish(
   for (const itemIn of items) {
     const lines = itemIn.split('\n')
 
-    // horas.pl setlines: an item's first line that is a '#' heading gets
-    // translated at render time (Translate.txt carries '#…' keys), except for
-    // omitted parts, which stay as-is and render small.
-    if (/^\s*#/.test(lines[0]) && !omit.test(lines[0])) {
-      const m = /^\s*(#.*?)\s*$/.exec(lines[0])
-      if (m) lines[0] = `#${(await state.texts.translate(m[1], lang)).slice(1)}`
+    // horas.pl resolve: '#' heading lines get translated at render time
+    // (Translate.txt carries '#…' keys), except for omitted parts, which stay
+    // as-is and render small. Perl applies this recursively per line, so it
+    // hits mid-unit headings too (e.g. '#Lectio brevis' after the
+    // benediction in Monastic Matins).
+    for (let i = 0; i < lines.length; i++) {
+      if (/^\s*#/.test(lines[i]) && !omit.test(lines[i])) {
+        const m = /^\s*(#.*?)\s*$/.exec(lines[i])
+        if (m) lines[i] = `#${(await state.texts.translate(m[1], lang)).slice(1)}`
+      }
     }
 
     // Per-line pass: final dot on antiphons and translated Benedictio/
@@ -608,7 +623,7 @@ async function renderFinish(
         lines[i] = `${translated}.${lines[i].slice(m[0].length)}`
       }
     }
-    let item = lines.join('\n')
+    let item = mergeContinuationLines(lines.join('\n'))
 
     // webdia.pl cell pass: inline alleluias by season, Lenten suppression,
     // Latin spelling, then marker cleanup.
@@ -701,7 +716,7 @@ export async function assembleHour(opts: {
 
   state.column = 1
   const script = await getordinarium(state, opts.hora)
-  let items1 = await specials(state, script, 'Latin')
+  let items1 = toUnits(await specials(state, script, 'Latin'))
   items1 = await renderFinish(
     state,
     await expandItems(state, items1, 'Latin'),
@@ -716,7 +731,7 @@ export async function assembleHour(opts: {
     state.litaniaflag = false
     state.specialflag = false
     const script2 = await getordinarium(state, opts.hora)
-    items2 = await specials(state, script2, lang2)
+    items2 = toUnits(await specials(state, script2, lang2))
     items2 = await renderFinish(state, await expandItems(state, items2, lang2), lang2, opts.version)
   }
 
