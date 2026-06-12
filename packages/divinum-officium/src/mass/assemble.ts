@@ -7,6 +7,7 @@ import { officestring } from '../kalendar/officestring'
 import { type DayResolution, resolveDay } from '../kalendar/precedence'
 import type { DoLoader } from '../loader'
 import type { Sections } from '../references/resolve'
+import { cleanItemMarkers, parseScriptArgs, spellVar } from '../render'
 import { isSectioned } from '../types'
 import { hooks, replaceNpb, scriptFunctions, translateLabel } from './handlers'
 import { type MassState, winnerOf } from './state'
@@ -157,13 +158,7 @@ async function expandLine(state: MassState, lineIn: string, lang: string): Promi
     const m = /(.*?)(?:[(](.*)[)])?$/.exec(line)
     const name = m?.[1] ?? line
     const argString = m?.[2]
-    const args: (string | number)[] = []
-    if (argString !== undefined) {
-      for (const part of argString.split(/,(?=(?:[^']|'[^']*')*$)/)) {
-        const am = /'(.*)'|(-?\d+)/.exec(part)
-        if (am) args.push(am[1] ?? Number(am[2]))
-      }
-    }
+    const args = argString !== undefined ? parseScriptArgs(argString) : []
     const fn = scriptFunctions[name]
     if (!fn) throw new Error(`unknown mass script function: &${name}`)
     return await fn(state, lang, ...args)
@@ -301,20 +296,6 @@ export async function assembleMass(opts: {
   return { day, latin: items1, vernacular: items2 }
 }
 
-// Port of horascommon.pl::spell_var — version-dependent Latin orthography.
-function spellVar(text: string, version: string): string {
-  if (/196/.test(version)) {
-    return text
-      .replace(/[Jj]/g, (c) => (c === 'J' ? 'I' : 'i'))
-      .replace(/H-Iesu/g, 'H-Jesu')
-      .replace(/er eúmdem/g, 'er eúndem')
-  }
-  return text
-    .replace(/Génetrix/g, 'Génitrix')
-    .replace(/Genetrí/g, 'Genitrí')
-    .replace(/\bco(t[ií]d[ií])/g, 'quo$1')
-}
-
 // Render-time text fixes from webdia.pl::setcell that carry meaning (the
 // purely-typographic ones stay in the app's block mapper).
 async function renderFinish(state: MassState, items: string[], lang: string): Promise<string[]> {
@@ -335,9 +316,7 @@ async function renderFinish(state: MassState, items: string[], lang: string): Pr
     let item = itemIn
     if (alleluiaRegex) item = item.replace(alleluiaRegex, '')
     if (/Latin/.test(lang)) item = spellVar(item, ctx.version)
-    item = item.replace(/wait[0-9]+/gi, '')
-    item = item.replace(/\{:[\s\S]*?:\}/g, '')
-    item = item.replace(/`/g, '')
+    item = cleanItemMarkers(item)
     return item
   })
 }

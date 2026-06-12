@@ -7,6 +7,7 @@ import { officestring } from '../kalendar/officestring'
 import { type DayResolution, resolveDay } from '../kalendar/precedence'
 import type { DoLoader } from '../loader'
 import { createTextTables } from '../mass/texts'
+import { cleanItemMarkers, parseScriptArgs, spellVar } from '../render'
 import { isSectioned } from '../types'
 import {
   capitulumMajor,
@@ -546,13 +547,7 @@ async function expandLine(
     const m = /(.*?)(?:[(](.*)[)])?$/.exec(line)
     const name = m?.[1] ?? line
     const argString = m?.[2]
-    const args: (string | number)[] = []
-    if (argString !== undefined) {
-      for (const part of argString.split(/,(?=(?:[^']|'[^']*')*$)/)) {
-        const am = /'(.*)'|(-?\d+)/.exec(part)
-        if (am) args.push(am[1] ?? Number(am[2]))
-      }
-    }
+    const args = argString !== undefined ? parseScriptArgs(argString) : []
     const fn = hourScriptFunctions[name]
     if (!fn) throw new Error(`unknown hour script function: &${name}`)
     return await fn(state, lang, args, antline)
@@ -564,20 +559,6 @@ async function expandLine(
     return state.texts.prex(`Preces ${line}`, lang)
   }
   return state.texts.prayer(line, lang)
-}
-
-// Render-finish (shared semantics with the Mass).
-function spellVar(text: string, version: string): string {
-  if (/196/.test(version)) {
-    return text
-      .replace(/[Jj]/g, (c) => (c === 'J' ? 'I' : 'i'))
-      .replace(/H-Iesu/g, 'H-Jesu')
-      .replace(/er eúmdem/g, 'er eúndem')
-  }
-  return text
-    .replace(/Génetrix/g, 'Génitrix')
-    .replace(/Genetrí/g, 'Genitrí')
-    .replace(/\bco(t[ií]d[ií])/g, 'quo$1')
 }
 
 // Port of the omit-words regexp from load_languages_data: the second Preces
@@ -634,9 +615,7 @@ async function renderFinish(
     item = await processInlineAlleluias(state, item, lang, paschal)
     if (lent) item = await suppressAlleluia(state, item, lang)
     if (/Latin/.test(lang)) item = spellVar(item, version)
-    item = item.replace(/wait[0-9]+/gi, '')
-    item = item.replace(/\{:[\s\S]*?:\}/g, '')
-    item = item.replace(/`/g, '')
+    item = cleanItemMarkers(item)
     out.push(item)
   }
   return out
