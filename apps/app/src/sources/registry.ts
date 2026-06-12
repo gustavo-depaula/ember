@@ -1,6 +1,7 @@
 import { bibleChapterSource } from './bible-chapter'
 import { cccChapterSource } from './ccc-chapter'
 import { cccCompendiumSource } from './ccc-compendium'
+import { doHourSource } from './divinum-officium/do-hour'
 import { doMassSource } from './divinum-officium/do-mass'
 import { breviarySource } from './ibreviary'
 import { ofMassFlowSource } from './of-mass-flow'
@@ -29,6 +30,8 @@ registerSource(psalmodySource)
 registerSource(gospelOfTheDaySource as ContentSource)
 registerSource(wordOfThePopeSource as ContentSource)
 registerSource(ofMassFlowSource as ContentSource)
-// The Extraordinary Form Mass, assembled by the Divinum Officium engine.
+// The Extraordinary Form Mass and Divine Office hours, assembled by the
+// Divinum Officium engine.
 registerSource(doMassSource as ContentSource)
+registerSource(doHourSource as ContentSource)
 registerSource(breviarySource as ContentSource)

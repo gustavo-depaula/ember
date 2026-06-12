@@ -41,8 +41,16 @@ export type KalendarState = {
   sanctoraloffice: boolean
   vespera: number
   cvespera: number
+  octvespera: number
   tvesp: number
   svesp: number
+
+  // Concurrence outputs (set only when hora is Vespers/Compline).
+  cwinner: string
+  crank: number
+  ccommemoentries: string[]
+  antecapitulum: string
+  antecapitulum2: string
   duplex: number
   rule: string
   communerule: string
@@ -98,8 +106,14 @@ export function createKalendarState(init: {
     sanctoraloffice: false,
     vespera: 0,
     cvespera: 0,
+    octvespera: 0,
     tvesp: 0,
     svesp: 0,
+    cwinner: '',
+    crank: 0,
+    ccommemoentries: [],
+    antecapitulum: '',
+    antecapitulum2: '',
     duplex: 0,
     rule: '',
     communerule: '',

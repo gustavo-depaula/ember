@@ -24,7 +24,17 @@ const sourceRoot = join(doCloneDir, 'web', 'www')
 const outRoot = join(repoRoot, 'content', 'do')
 
 const languages = ['Latin', 'English', 'Portugues']
-const horasDirs = ['Tempora', 'Sancti', 'Commune', 'TemporaM', 'SanctiM', 'CommuneM', 'Psalterium', 'Appendix']
+const horasDirs = [
+  'Tempora',
+  'Sancti',
+  'Commune',
+  'TemporaM',
+  'SanctiM',
+  'CommuneM',
+  'Psalterium',
+  'Appendix',
+  'Regula',
+]
 const missaDirs = ['Tempora', 'Sancti', 'Commune', 'Ordo']
 const tabulaeEntries = ['data.txt', 'Kalendaria', 'Transfer', 'Stransfer', 'Tempora']
 
@@ -33,12 +43,13 @@ const tabulaeEntries = ['data.txt', 'Kalendaria', 'Transfer', 'Stransfer', 'Temp
 // both together.
 // Plain (non-sectioned) files, by how the Perl engine reads them:
 // psalms via do_read in &psalm, Ordinarium scripts via getordinarium,
-// Tabulae tables via Directorium.pm.
+// Tabulae tables via Directorium.pm, Regula chapters via do_read in regula().
 function isPlain(relPath: string): boolean {
   return (
     relPath.startsWith('Tabulae/') ||
     relPath.startsWith('horas/Ordinarium/') ||
-    relPath.includes('/Psalterium/Psalmorum/')
+    relPath.includes('/Psalterium/Psalmorum/') ||
+    relPath.includes('/Regula/')
   )
 }
 

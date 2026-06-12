@@ -17,6 +17,7 @@ const horasDatasets: Record<string, string> = {
   CommuneM: 'horas-commune-m',
   Psalterium: 'horas-psalterium',
   Appendix: 'horas-appendix',
+  Regula: 'horas-regula',
 }
 const missaDatasets: Record<string, string> = {
   Tempora: 'missa-tempora',

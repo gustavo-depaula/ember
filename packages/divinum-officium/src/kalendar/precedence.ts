@@ -1,12 +1,12 @@
 // Port of horascommon.pl::precedence() — the day-resolution entry point.
 // Computes the day's winner office, rank, commemorations, scripture source,
-// commune, rules, and Lauds scheme for a (date, version, hora). Concurrence
-// (I./II. Vespers competition) is ported in M6; until then only non-Vespers
-// hours resolve.
+// commune, rules, and Lauds scheme for a (date, version, hora). Vespers and
+// Compline route through concurrence() against the following day's office.
 
 import { defaultContext, type RubricContext } from '../conditions/context'
 import type { DoLoader } from '../loader'
 import { createSession, type Sections } from '../references/resolve'
+import { concurrence } from './concurrence'
 import { dayOfWeek, getweek } from './date'
 import { createDirectorium } from './directorium'
 import { emberday, occurrence } from './occurrence'
@@ -53,6 +53,7 @@ export async function resolveDay(opts: {
   version: string
   hora?: string
   lang1?: string
+  lang2?: string
   missa?: boolean
   caller?: number
 }): Promise<DayResolution> {
@@ -60,10 +61,6 @@ export async function resolveDay(opts: {
   const lang1 = opts.lang1 ?? 'Latin'
   const missa = opts.missa ?? false
   const { day, month, year, version } = opts
-
-  if (/vespera|completorium/i.test(hora)) {
-    throw new Error('concurrence (Vespers/Compline resolution) is not ported yet — M6')
-  }
 
   const ctx = defaultContext({
     version,
@@ -94,7 +91,13 @@ export async function resolveDay(opts: {
           ? 'Pasc'
           : ''
 
-  await occurrence(state, false)
+  // The app has no votive offices (votive is always 'Hodie'), so the Perl's
+  // `$votive !~ /C12/` guard is always true.
+  if (/vespera|completorium/i.test(hora)) {
+    await concurrence(state, opts.lang2)
+  } else {
+    await occurrence(state, false)
+  }
 
   if (ctx.dayname[1] && !/duplex/i.test(ctx.dayname[1])) {
     state.duplex = 1

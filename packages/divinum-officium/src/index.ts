@@ -10,6 +10,7 @@ export {
   processConditionalLines,
   vero,
 } from './conditions/evaluate'
+export { type AssembledHour, assembleHour } from './hours/assemble'
 export {
   dateToYdays,
   dayOfWeek,

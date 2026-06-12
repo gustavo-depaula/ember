@@ -725,6 +725,7 @@ DO_HORAS_DATASETS = {
     "CommuneM": "horas-commune-m",
     "Psalterium": "horas-psalterium",
     "Appendix": "horas-appendix",
+    "Regula": "horas-regula",
 }
 DO_MISSA_DATASETS = {
     "Tempora": "missa-tempora",

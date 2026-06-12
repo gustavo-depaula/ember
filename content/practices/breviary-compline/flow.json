@@ -1,0 +1,11 @@
+{
+  "sections": [
+    {
+      "type": "include",
+      "ref": "producer/do-hour",
+      "params": {
+        "hour": "Completorium"
+      }
+    }
+  ]
+}

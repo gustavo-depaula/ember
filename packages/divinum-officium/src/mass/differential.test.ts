@@ -8,6 +8,7 @@ import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { createFsLoader } from '../node/fsLoader'
 import { contentDo, doClone, goldenLib, hasFixtures, v1Versions } from '../node/testFixtures'
+import { firstDivergence, htmlCells, toWords } from '../node/wordStream'
 import { assembleMass } from './assemble'
 
 const cmissa = join(doClone, 'web', 'cgi-bin', 'missa', 'Cmissa.pl')
@@ -36,48 +37,11 @@ const dates: Array<[number, number, number]> = [
   [7, 14, 2026], // summer feria-time saint
 ]
 
-// Normalize either side to a comparable word stream: lowercase, 1960 i/j
-// folding both ways, accents kept, punctuation and markers dropped.
-function toWords(text: string): string[] {
-  const stripped = text
-    .split('\n')
-    // Versicle/dialog markers render as glyphs or red initials in the HTML;
-    // drop them on both sides.
-    .map((l) => l.replace(/^\s*!?\s*(?:[VRSMAOCDP]|v|r|Ant|Ps)\.\s*/, ''))
-    .join('\n')
-  const words = stripped
-    .toLowerCase()
-    .replace(/æ/g, 'ae')
-    .replace(/œ/g, 'oe')
-    .replace(/[jv]/g, (c) => (c === 'j' ? 'i' : 'u'))
-    .replace(/[^a-z0-9áéíóúýǽàèìòùâêîôûäëïöüãõ ]+/g, ' ')
-    .split(/\s+/)
-    .filter(Boolean)
-  // The Perl renders 'v. Cognóvi' as a split red initial ('C' 'ognóvi');
-  // merge any single letter into the following word — applied identically to
-  // both streams so genuine one-letter Latin words stay comparable.
-  const merged: string[] = []
-  for (let i = 0; i < words.length; i++) {
-    if (/^[a-záéíóúýǽ]$/.test(words[i]) && i + 1 < words.length) {
-      merged.push(words[i] + words[i + 1])
-      i++
-    } else {
-      merged.push(words[i])
-    }
-  }
-  return merged
-}
-
 function perlColumn(html: string, column: 0 | 1): string {
   // Cells alternate col1/col2 inside the main table.
-  const cells = [...html.matchAll(/<TD[^>]*>([\s\S]*?)<\/TD>/gi)].map((m) => m[1])
-  const mine = cells.filter((_, i) => i % 2 === column)
-  let text = mine.join('\n')
-  text = text.replace(/<BR\s*\/?>/gi, '\n')
-  text = text.replace(/<[^>]+>/g, ' ')
-  text = text.replace(/&nbsp;|&ensp;|&emsp;/g, ' ')
-  text = text.replace(/&amp;/g, '&')
-  return text
+  return htmlCells(html)
+    .filter((_, i) => i % 2 === column)
+    .join('\n')
 }
 
 function trimToMass(words: string[]): string[] {
@@ -169,11 +133,3 @@ describe.skipIf(!hasMassFixtures)('assembleMass vs real Cmissa', () => {
     ).toBe(0)
   })
 })
-
-function firstDivergence(a: string[], b: string[]): number {
-  const n = Math.min(a.length, b.length)
-  for (let i = 0; i < n; i++) {
-    if (a[i] !== b[i]) return i
-  }
-  return a.length === b.length ? -1 : n
-}

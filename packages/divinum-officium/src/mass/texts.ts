@@ -11,6 +11,7 @@ import { type DoSession, type Sections, setupstring } from '../references/resolv
 export type TextTables = {
   prayer(name: string, lang: string): Promise<string>
   rubric(name: string, lang: string): Promise<string>
+  prex(name: string, lang: string): Promise<string>
   translate(name: string, lang: string): Promise<string>
 }
 
@@ -48,6 +49,9 @@ export function createTextTables(session: DoSession, missa: boolean): TextTables
     },
     async rubric(name, lang) {
       return (await lookup('Psalterium/Common/Rubricae', name, lang)) ?? name
+    },
+    async prex(name, lang) {
+      return (await lookup('Psalterium/Special/Preces', name, lang)) ?? name
     },
     async translate(name, lang) {
       // translate() strips trailing whitespace and has no version key.
