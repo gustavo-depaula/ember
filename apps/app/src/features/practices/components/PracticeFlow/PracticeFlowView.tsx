@@ -22,6 +22,7 @@ import type { PracticeManifest } from '@/content/manifestTypes'
 import { PreprocessProvider } from '@/content/preprocessRuntime'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
 import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSettingsSheet'
+import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useStableToday, useToday } from '@/hooks/useToday'
 import { lightTap } from '@/lib/haptics'
@@ -119,6 +120,12 @@ function PracticeReady({
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
   const [settingsOpen, setSettingsOpen] = useState(false)
 
+  // Mount the primitive tree in chunks: long practices (Mass, offices) render
+  // hundreds of blocks, and mounting them all at once blocks the JS thread
+  // through the whole navigation. Keyed by array identity so a language or
+  // translation switch restarts the chunking.
+  const visibleCount = useProgressiveCount(sections.length, sections)
+
   // Runtime for lazily preprocessing a select branch the user switches to.
   const queryClient = useQueryClient()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
@@ -154,7 +161,7 @@ function PracticeReady({
               </ManuscriptFrame>
 
               <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$xxl">
-                {sections.map((primitive, index) => (
+                {sections.slice(0, visibleCount).map((primitive, index) => (
                   <PrimitiveBlock
                     key={`${primitive.type}-${index}`}
                     primitive={primitive}

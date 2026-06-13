@@ -144,6 +144,10 @@ export function useLocalSearchParams<T = Record<string, string>>(): T {
   return useRouterStore((s) => s.params) as T
 }
 
+export function usePathname(): string {
+  return useRouterStore((s) => s.path)
+}
+
 export function Redirect({ href }: { href: string }) {
   const router = useRouter()
   router.replace(href)
