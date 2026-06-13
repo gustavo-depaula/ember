@@ -3,6 +3,7 @@ import { beforeEach, describe, expect, it } from 'vitest'
 import {
   canonicalize,
   getAllEntries,
+  getCatalogVersion,
   getCollectionItems,
   getCollectionsForItem,
   getEntriesByKind,
@@ -166,6 +167,30 @@ describe('contentIndex', () => {
     expect(getCollectionsForItem('practice/morning-offering')).toEqual(['collection/essentials'])
     expect(getCollectionsForItem('practice/hail-mary')).toEqual(['collection/marian'])
     expect(getCollectionsForItem('practice/our-father')).toEqual([])
+  })
+
+  it('setCatalog skips identical catalogs (same generated) — no version bump', () => {
+    // The background refresh re-fetches catalog.json on every launch; an
+    // unchanged catalog must not re-render every useCatalogVersion subscriber.
+    const before = getCatalogVersion()
+    expect(setCatalog(baseCatalog())).toBe(false)
+    expect(getCatalogVersion()).toBe(before)
+  })
+
+  it('setCatalog applies a catalog with a different generated timestamp', () => {
+    const before = getCatalogVersion()
+    const next = baseCatalog()
+    next.generated = '2026-05-09T00:00:00Z'
+    expect(setCatalog(next)).toBe(true)
+    expect(getCatalogVersion()).toBe(before + 1)
+  })
+
+  it('setCatalog never skips when generated is empty (test/reset semantics)', () => {
+    const empty = { ...baseCatalog(), generated: '' }
+    const before = getCatalogVersion()
+    expect(setCatalog(empty)).toBe(true)
+    expect(setCatalog({ ...empty })).toBe(true)
+    expect(getCatalogVersion()).toBe(before + 2)
   })
 
   it('reverse index is invalidated when collections change', () => {

@@ -41,13 +41,13 @@ import { BootLoadingScreen } from '@/components/BootLoadingScreen'
 import { flags } from '@/config/flags'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
+import { maybeRunCacheEviction } from '@/content/cacheMaintenance'
 import {
   hasCachedCatalog,
   loadCatalogFromHearth,
   warmCriticalManifests,
   warmDeferredManifests,
 } from '@/content/resolver'
-import { evictTo } from '@/content/store'
 import { useDbInit } from '@/db/client'
 import { listCommitments, reconcileAbandonedSessions } from '@/db/repositories/custody'
 import { seedCursors, seedPractices } from '@/db/seed'
@@ -60,18 +60,23 @@ import { setupCustodyNotifications } from '@/features/custody/notifications'
 import { drainShieldEvents } from '@/features/custody/shieldEvents'
 import { syncCommitmentSnapshots } from '@/features/custody/syncSnapshots'
 import { useExpirySweep } from '@/features/movements'
-import { pinnedHashes, rehydratePinned } from '@/features/pinning/pinningManager'
+import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
 import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
 import { initHearth } from '@/lib/hearth'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
+import { startStallMonitor } from '@/lib/stallMonitor'
 import { useBibleStore } from '@/stores/bibleStore'
 import { useCatechismStore } from '@/stores/catechismStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 SplashScreen.preventAutoHideAsync()
+
+// Dev-only JS-thread stall detector (no-op in release builds): logs whenever
+// the JS thread blocks long enough to freeze touches, with recent op marks.
+if (__DEV__) startStallMonitor()
 
 // RN 0.83 deprecation warning from Tamagui internals crashes LogBox with "cyclic object value"
 LogBox.ignoreLogs(['props.pointerEvents is deprecated'])
@@ -161,26 +166,8 @@ export default function RootLayout() {
   const [firstLaunch, setFirstLaunch] = useState<boolean | undefined>(undefined)
   const [graceExpired, setGraceExpired] = useState(false)
 
-  // 200MB cap. Pinned blobs are skipped during eviction; the cap is a soft
-  // ceiling (pinned content can exceed it without dropping anything).
-  const CACHE_BUDGET_BYTES = 200 * 1024 * 1024
-
   useEffect(() => {
     if (!dbReady) return
-
-    async function runCacheEviction() {
-      try {
-        const protectedHashes = await pinnedHashes()
-        const result = await evictTo(CACHE_BUDGET_BYTES, protectedHashes)
-        if (result.deleted > 0) {
-          console.log(
-            `[startup] cache eviction: dropped ${result.deleted} blob(s); now ${(result.totalBytes / 1024 / 1024).toFixed(1)}MB`,
-          )
-        }
-      } catch (err) {
-        console.warn('[startup] cache eviction failed:', err)
-      }
-    }
 
     async function initCorpus() {
       const t0 = Date.now()
@@ -257,7 +244,11 @@ export default function RootLayout() {
           loadCatalogFromHearth()
             .then(() => Promise.all([warmCriticalManifests(), warmDeferredManifests()]))
             .then(() => seedPractices())
-            .then(() => runCacheEviction())
+            .then(() =>
+              maybeRunCacheEviction().catch((err) =>
+                console.warn('[startup] cache eviction failed:', err),
+              ),
+            )
             .catch((err) => console.warn('Background catalog refresh failed:', err))
         })
       }

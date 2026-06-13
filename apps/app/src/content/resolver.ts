@@ -135,22 +135,25 @@ const DEFERRED_KINDS = [
   'creator',
 ] as const
 
+/** Returns how many manifests were newly warmed (zero on a no-change refresh). */
 async function warmKinds(
   kinds: ReadonlyArray<
     'practice' | 'chapter' | 'book' | 'collection' | 'plan-of-life-template' | 'creator'
   >,
-): Promise<void> {
+): Promise<number> {
   const hashes: string[] = []
   for (const kind of kinds) {
     for (const [, entry] of getEntriesByKind(kind)) {
       if (getRememberedManifest(entry.hash) === undefined) hashes.push(entry.hash)
     }
   }
+  let warmed = 0
   await batchedLoad(
     hashes,
     async (hash) => {
       try {
         rememberManifestBody(hash, await getJson<unknown>(hash))
+        warmed++
       } catch (err) {
         // Aborts are expected on unmount/hot-reload — only the original
         // network failures are interesting noise.
@@ -160,17 +163,19 @@ async function warmKinds(
     },
     16,
   )
+  return warmed
 }
 
 /** Block boot only on what synchronous resolvers (engine Proxies) need. */
 export async function warmCriticalManifests(): Promise<void> {
-  await warmKinds(CRITICAL_KINDS)
-  notifyManifestsWarmed()
+  // Only notify when something new loaded — the background refresh calls this
+  // on every launch, and a no-op warm must not re-render the whole app.
+  if ((await warmKinds(CRITICAL_KINDS)) > 0) notifyManifestsWarmed()
 }
 
 /** Runs in parallel with first paint; populates collection / book / chapter manifests. */
 export async function warmDeferredManifests(): Promise<void> {
-  await warmKinds(DEFERRED_KINDS)
+  if ((await warmKinds(DEFERRED_KINDS)) === 0) return
   invalidateMemberOfIndex()
   notifyManifestsWarmed()
 }

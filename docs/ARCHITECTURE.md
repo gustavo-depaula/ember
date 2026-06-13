@@ -173,6 +173,8 @@ See `apps/app/src/db/migrations/0001_initial.sql` for the full schema.
 - Native: `documentDirectory/blobs/{ab}/{cd}/{full-sha256}` (mirrors the server layout)
 - Web: IndexedDB key `blob:{full-sha256}`
 - Hash-addressed → immutable; once fetched, cached forever (subject to LRU eviction with pinned items skipped)
+- Native downloads go disk-to-disk via `File.downloadFileAsync` staged in `documentDirectory/blobs-tmp/`, then atomically moved into `blobs/` after validation — partial downloads can never appear as cached blobs, and blob bytes never cross the JS bridge (JS `fetch` + sync `write()` remains as fallback)
+- LRU eviction (200MB soft cap) runs at most once per 24h (`content/cacheMaintenance.ts`, `last-eviction-at` preference) — it requires a full sync stat walk of the cache plus a manifest-tree walk of every pinned item, far too expensive per-launch; the daily pass also clears `blobs-tmp/` leftovers
 
 ### Bundled Assets (read-only, app-only)
 - `apps/app/assets/textures/` — Image-based ornament PNGs

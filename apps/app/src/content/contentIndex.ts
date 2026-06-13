@@ -83,10 +83,20 @@ function bumpCatalogVersion(): void {
   for (const fn of versionListeners) fn()
 }
 
-export function setCatalog(next: Catalog): void {
+/**
+ * Replace the in-memory catalog. Returns whether anything changed: the
+ * background refresh re-fetches `catalog.json` on every launch, and an
+ * identical catalog (same `generated` build timestamp) must not invalidate
+ * the entry caches nor bump the version — that re-renders every
+ * useCatalogVersion subscriber app-wide for nothing. Empty `generated`
+ * (tests, resetContentIndex) always applies.
+ */
+export function setCatalog(next: Catalog): boolean {
+  if (next.generated !== '' && next.generated === catalog.generated) return false
   catalog = next
   invalidateEntryCaches()
   bumpCatalogVersion()
+  return true
 }
 
 export function getCatalog(): Catalog {

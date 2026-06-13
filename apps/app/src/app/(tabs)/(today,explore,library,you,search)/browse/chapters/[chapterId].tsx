@@ -11,6 +11,7 @@ import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { createEngineContext } from '@/content/engineContext'
 import { preprocessFlow } from '@/content/preprocessFlow'
 import { getChapterManifest, loadChapterContent, prefetchChapterProse } from '@/content/resolver'
+import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -54,6 +55,10 @@ export default function ChapterReaderScreen() {
     staleTime: Number.POSITIVE_INFINITY,
   })
   const sections = primitivesQuery.data ?? []
+  // Chunked mounting — same rationale as PracticeFlowView: chapters can hold
+  // hundreds of primitive blocks and mounting them all at once blocks the JS
+  // thread through the navigation.
+  const visibleCount = useProgressiveCount(sections.length, sections)
 
   if (!chapter || !content) {
     return (
@@ -97,7 +102,7 @@ export default function ChapterReaderScreen() {
           <ScrollView contentContainerStyle={{ paddingBottom: 48 }}>
             <ManuscriptFrame contentPadding="$sm">
               <YStack gap="$lg" paddingVertical="$md" paddingHorizontal="$sm">
-                {sections.map((primitive, i) => (
+                {sections.slice(0, visibleCount).map((primitive, i) => (
                   <PrimitiveBlock
                     key={`${primitive.type}-${i}`}
                     primitive={primitive}
