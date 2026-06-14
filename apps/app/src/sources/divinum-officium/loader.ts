@@ -19,6 +19,8 @@ const horasDatasets: Record<string, string> = {
   Appendix: 'horas-appendix',
   Regula: 'horas-regula',
   Martyrologium: 'horas-martyrologium',
+  Martyrologium1570: 'horas-martyrologium-1570',
+  Martyrologium1955R: 'horas-martyrologium-1955r',
   Martyrologium1960: 'horas-martyrologium-1960',
 }
 const missaDatasets: Record<string, string> = {

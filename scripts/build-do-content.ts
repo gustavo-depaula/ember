@@ -35,6 +35,8 @@ const horasDirs = [
   'Appendix',
   'Regula',
   'Martyrologium',
+  'Martyrologium1570',
+  'Martyrologium1955R',
   'Martyrologium1960',
 ]
 const missaDirs = ['Tempora', 'Sancti', 'Commune', 'Ordo']

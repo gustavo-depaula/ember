@@ -727,6 +727,8 @@ DO_HORAS_DATASETS = {
     "Appendix": "horas-appendix",
     "Regula": "horas-regula",
     "Martyrologium": "horas-martyrologium",
+    "Martyrologium1570": "horas-martyrologium-1570",
+    "Martyrologium1955R": "horas-martyrologium-1955r",
     "Martyrologium1960": "horas-martyrologium-1960",
 }
 DO_MISSA_DATASETS = {

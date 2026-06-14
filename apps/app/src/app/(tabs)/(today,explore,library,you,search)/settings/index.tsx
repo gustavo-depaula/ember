@@ -1,3 +1,4 @@
+import { type DoVersionId, doVersionOrder } from '@ember/divinum-officium'
 import DateTimePicker from '@react-native-community/datetimepicker'
 import { format, parseISO } from 'date-fns'
 import Constants from 'expo-constants'
@@ -23,6 +24,22 @@ import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { hearthUrl, isLocalHearth, setLocalHearth } from '@/lib/hearth'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+
+// Compact display names for the DO rubric versions (canonical proper names —
+// not translated, mirroring Divinum Officium's own version list).
+const doVersionLabels: Record<DoVersionId, string> = {
+  'tridentine-1570': 'Tridentine 1570',
+  'tridentine-1888': 'Tridentine 1888',
+  'tridentine-1906': 'Tridentine 1906',
+  'divino-afflatu-1939': 'Divino Afflatu 1939',
+  'divino-afflatu': 'Divino Afflatu 1954',
+  'reduced-1955': 'Reduced 1955',
+  'rubrics-1960': 'Rubrics 1960',
+  'monastic-1617': 'Monastic 1617',
+  'monastic-1930': 'Monastic 1930',
+  monastic: 'Monastic 1963',
+  'monastic-barroux': 'Monastic Barroux',
+}
 
 const themeOptions = [
   { value: 'light' as const, labelKey: 'settings.themeLight' },
@@ -124,11 +141,7 @@ export default function SettingsScreen() {
 
           <PillSelector
             label={t('settings.doVersion')}
-            options={[
-              { value: 'rubrics-1960' as const, label: t('settings.doVersion1960') },
-              { value: 'divino-afflatu' as const, label: t('settings.doVersionDivino') },
-              { value: 'monastic' as const, label: t('settings.doVersionMonastic') },
-            ]}
+            options={doVersionOrder.map((id) => ({ value: id, label: doVersionLabels[id] }))}
             value={doVersion}
             onChange={setDoVersion}
           />

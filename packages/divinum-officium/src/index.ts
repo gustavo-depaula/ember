@@ -67,6 +67,7 @@ export {
   defaultDoVersion,
   doLangDir,
   doVersionNames,
+  doVersionOrder,
   massVersion,
   officeVersion,
 } from './versions'

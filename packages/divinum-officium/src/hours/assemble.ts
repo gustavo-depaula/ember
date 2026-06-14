@@ -26,7 +26,7 @@ import {
 import { loadspecial, processInlineAlleluias, septuagesimaVesp, suppressAlleluia } from './helpers'
 import { gethymn } from './hymni'
 import { martyrologium } from './martyrologium'
-import { invitatorium } from './matins'
+import { invitatorium, psalmiMatutinum } from './matins'
 import { getsuffragium, oratio, papalAntiphonDumEsset, papalRule } from './orationes'
 import { getpreces, preces } from './preces'
 import { checksuffragium, getantvers, getproprium, setcomment, setup } from './proprium'
@@ -175,7 +175,13 @@ async function specials(
     }
 
     if (/psalm/i.test(item)) {
-      await psalmi(state, lang)
+      if (hora === 'Matutinum') {
+        state.psalmnum1 = 0
+        state.psalmnum2 = 0
+        await psalmiMatutinum(state, lang)
+      } else {
+        await psalmi(state, lang)
+      }
       continue
     }
 

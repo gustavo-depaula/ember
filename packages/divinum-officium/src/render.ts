@@ -31,10 +31,17 @@ export function parseScriptArgs(argString: string): (string | number)[] {
 // Strip the engine-internal markers that never render: GABC wait codes,
 // {:…:} link blocks, and backtick quotes.
 export function cleanItemMarkers(item: string): string {
-  return item
-    .replace(/wait[0-9]+/gi, '')
-    .replace(/\{:[\s\S]*?:\}/g, '')
-    .replace(/`/g, '')
+  return (
+    item
+      .replace(/wait[0-9]+/gi, '')
+      .replace(/\{:[\s\S]*?:\}/g, '')
+      .replace(/`/g, '')
+      // Inline HTML emphasis from the source data (e.g. the Tridentine
+      // antiphona-finalis rubric '<i>(sicut ad Laudes)</i>') is display markup
+      // the Perl renders as italic; primitives carry no inline italic, so drop
+      // the tags and keep the text (matches the differential's tag stripping).
+      .replace(/<\/?[ib]>/gi, '')
+  )
 }
 
 // Port of webdia.pl::getunit — group the raw assembly stream into the units

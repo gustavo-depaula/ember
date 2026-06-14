@@ -5,17 +5,14 @@ import { dayOfWeek } from '../kalendar/date'
 import { emberday } from '../kalendar/occurrence'
 import { num, subdirname } from '../kalendar/state'
 import { alleluiaAnt, alleluiaRequired, gettempora, postprocessAnt } from './helpers'
-import { psalmiMatutinum } from './matins'
 import { checksuffragium, getanthoras, getproprium, setcomment, setup } from './proprium'
 import { chompd, columnsel, type HoursState, winnerOf } from './state'
 
+// Minor + major hours. Matutinum is routed to psalmiMatutinum (matins.ts) by
+// the assembly walker — keeping the matins→psalmi import one-directional.
 export async function psalmi(state: HoursState, lang: string): Promise<void> {
   state.psalmnum1 = 0
   state.psalmnum2 = 0
-  if (state.hora === 'Matutinum') {
-    await psalmiMatutinum(state, lang)
-    return
-  }
   let list: string[]
   let duplexf = /196/.test(state.day.ctx.version)
   if (/^(?:Laudes|Vespera)$/i.test(state.hora)) {
@@ -588,8 +585,12 @@ async function psalmiMinor(state: HoursState, lang: string): Promise<string[]> {
     (/(Epi|Pent)/i.test(ctx.dayname[0]) || !/Divino/i.test(version)) &&
     dayofweek === 0 &&
     !/Non dicitur Quicumque/i.test(state.rule) &&
-    (/(Adv|Pent01|Pasc1)/i.test(ctx.dayname[0]) || (await checksuffragium(state))) &&
-    true
+    (/(Adv|Pent01|Pasc1)/i.test(ctx.dayname[0]) ||
+      (await checksuffragium(state)) ||
+      (/Epi[2-6]|Quad|Pasc[1-5]|Pent0[3-9]|Pent[12]/i.test(ctx.dayname[0]) &&
+        /trident/i.test(version)) ||
+      (/Adv|Epi[2-6]|Quad|Pasc[1-5]|Pent/i.test(ctx.dayname[0]) && /cist/i.test(version))) &&
+    (/Tempora/i.test(state.day.winner) || !/cist/i.test(version))
   ) {
     psalmList.push('234')
   }
