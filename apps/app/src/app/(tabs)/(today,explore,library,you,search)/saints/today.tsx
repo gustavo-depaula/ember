@@ -7,10 +7,11 @@ import { AnimatedPressable, ScreenLayout } from '@/components'
 import { Typography } from '@/components/typography'
 import { useYearCalendar } from '@/features/calendar'
 import { useSaintOfDay } from '@/features/explore'
-import { SaintCard, saints } from '@/features/saints'
+import { SaintCard, saints, useSaintOfDayReading } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getCelebrationsForDate } from '@/lib/liturgical'
+import { useFormularyDescription } from '@/lib/mass-of/useFormularyDescription'
 
 // Celebration-of-the-Day "story" — the destination of the Explore featured
 // block. Shows the day's principal liturgical celebration (with holy-card art
@@ -23,6 +24,8 @@ export default function CelebrationOfDayScreen() {
   const today = useToday()
   const saint = useSaintOfDay()
   const { data: calendar } = useYearCalendar(today.getFullYear())
+  const { data: formularyDescription } = useFormularyDescription(saint?.celebration.entry.id)
+  const reading = useSaintOfDayReading()
 
   const cardWidth = Math.min(width - 48, 340)
 
@@ -49,7 +52,10 @@ export default function CelebrationOfDayScreen() {
 
   const entry = saint.celebration.entry
   const name = localizeContent(entry.name)
-  const description = localizeContent(entry.description)
+  // The "about this celebration" prose comes from the Mass formulary (the same
+  // source the Mass shows); fall back to the saint reflection where it's absent.
+  const description =
+    (formularyDescription ? localizeContent(formularyDescription) : '') || reading?.reflection || ''
   const artSaint = saint.artId ? saints.find((s) => s.id === saint.artId) : undefined
 
   // Other celebrations sharing today's date (the principal is rendered above).
@@ -99,6 +105,36 @@ export default function CelebrationOfDayScreen() {
           </Typography>
         )}
 
+        <YStack gap="$sm" alignSelf="center" alignItems="center">
+          <AnimatedPressable
+            onPress={() =>
+              router.push({ pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } })
+            }
+            accessibilityRole="link"
+            accessibilityLabel={t('explore.todaysMass', { defaultValue: "Today's Mass" })}
+          >
+            <Typography variant="reference" color="$accent" textTransform="uppercase">
+              {t('explore.todaysMass', { defaultValue: "Today's Mass" })} ›
+            </Typography>
+          </AnimatedPressable>
+          {reading && (
+            <AnimatedPressable
+              onPress={() =>
+                router.push({
+                  pathname: '/pray/[practiceId]',
+                  params: { practiceId: 'saint-of-the-day' },
+                })
+              }
+              accessibilityRole="link"
+              accessibilityLabel={t('explore.readFullLife', { defaultValue: 'Read the full life' })}
+            >
+              <Typography variant="reference" color="$accent" textTransform="uppercase">
+                {t('explore.readFullLife', { defaultValue: 'Read the full life' })} ›
+              </Typography>
+            </AnimatedPressable>
+          )}
+        </YStack>
+
         {others.length > 0 && (
           <YStack gap="$md" alignSelf="center" maxWidth={520} width="100%">
             <Separator />
@@ -110,25 +146,16 @@ export default function CelebrationOfDayScreen() {
             >
               {t('explore.alsoToday', { defaultValue: 'Also today' })}
             </Typography>
-            {others.map((c) => {
-              const otherName = localizeContent(c.entry.name)
-              const otherDescription = localizeContent(c.entry.description)
-              return (
-                <YStack key={c.entry.id} gap="$xs">
-                  <Typography variant="sacred-title" fontSize={22} lineHeight={28}>
-                    {otherName}
-                  </Typography>
-                  <Typography variant="reference" textTransform="uppercase">
-                    {t(`calendar.rank.${c.rank}`)}
-                  </Typography>
-                  {otherDescription && (
-                    <Typography variant="whisper" fontSize="$3">
-                      {otherDescription}
-                    </Typography>
-                  )}
-                </YStack>
-              )
-            })}
+            {others.map((c) => (
+              <YStack key={c.entry.id} gap="$xs">
+                <Typography variant="sacred-title" fontSize={22} lineHeight={28}>
+                  {localizeContent(c.entry.name)}
+                </Typography>
+                <Typography variant="reference" textTransform="uppercase">
+                  {t(`calendar.rank.${c.rank}`)}
+                </Typography>
+              </YStack>
+            ))}
           </YStack>
         )}
       </YStack>
