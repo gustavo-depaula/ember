@@ -155,6 +155,843 @@
               }
             }
           ]
+        },
+        {
+          "id": "Votive",
+          "label": {
+            "en-US": "Votive Office",
+            "pt-BR": "Ofício Votivo",
+            "la": "Officium Votivum"
+          },
+          "sections": [
+            {
+              "type": "select",
+              "as": "votive",
+              "default": "",
+              "pickerStyle": "cards",
+              "label": {
+                "en-US": "Votive Office",
+                "pt-BR": "Ofício Votivo",
+                "la": "Officium Votivum"
+              },
+              "options": [
+                {
+                  "id": "C9",
+                  "label": {
+                    "en-US": "Office of the Dead",
+                    "pt-BR": "Ofício de Defuntos",
+                    "la": "Officium Defunctorum"
+                  },
+                  "excerpt": {
+                    "en-US": "For the faithful departed",
+                    "pt-BR": "Pelos fiéis defuntos",
+                    "la": "Pro fidelibus defunctis"
+                  },
+                  "sections": [
+                    {
+                      "type": "select",
+                      "on": "hour",
+                      "label": {
+                        "en-US": "Hour",
+                        "pt-BR": "Hora",
+                        "la": "Hora"
+                      },
+                      "map": {
+                        "4-6": "Matutinum",
+                        "7-8": "Laudes",
+                        "17-19": "Vespera"
+                      },
+                      "options": [
+                        {
+                          "id": "Matutinum",
+                          "label": {
+                            "en-US": "Matins",
+                            "pt-BR": "Matinas",
+                            "la": "Matutinum"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Matutinum",
+                                "votive": "C9"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Laudes",
+                          "label": {
+                            "en-US": "Lauds",
+                            "pt-BR": "Laudes",
+                            "la": "Laudes"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Laudes",
+                                "votive": "C9"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Vespera",
+                          "label": {
+                            "en-US": "Vespers",
+                            "pt-BR": "Vésperas",
+                            "la": "Vesperae"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Vespera",
+                                "votive": "C9"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "as": "votiveHour"
+                    }
+                  ]
+                },
+                {
+                  "id": "C12",
+                  "label": {
+                    "en-US": "Little Office of the BVM",
+                    "pt-BR": "Pequeno Ofício de N. Senhora",
+                    "la": "Officium Parvum BMV"
+                  },
+                  "excerpt": {
+                    "en-US": "Marian devotion through the day",
+                    "pt-BR": "Devoção mariana ao longo do dia",
+                    "la": "Beatae Mariae Virginis"
+                  },
+                  "sections": [
+                    {
+                      "type": "select",
+                      "on": "hour",
+                      "label": {
+                        "en-US": "Hour",
+                        "pt-BR": "Hora",
+                        "la": "Hora"
+                      },
+                      "map": {
+                        "0-3": "Completorium",
+                        "4-6": "Matutinum",
+                        "7-8": "Laudes",
+                        "9": "Prima",
+                        "10-11": "Tertia",
+                        "12-14": "Sexta",
+                        "15-16": "Nona",
+                        "17-19": "Vespera",
+                        "20-23": "Completorium"
+                      },
+                      "options": [
+                        {
+                          "id": "Matutinum",
+                          "label": {
+                            "en-US": "Matins",
+                            "pt-BR": "Matinas",
+                            "la": "Matutinum"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Matutinum",
+                                "votive": "C12"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Laudes",
+                          "label": {
+                            "en-US": "Lauds",
+                            "pt-BR": "Laudes",
+                            "la": "Laudes"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Laudes",
+                                "votive": "C12"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Prima",
+                          "label": {
+                            "en-US": "Prime",
+                            "pt-BR": "Prima",
+                            "la": "Prima"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Prima",
+                                "votive": "C12"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Tertia",
+                          "label": {
+                            "en-US": "Terce",
+                            "pt-BR": "Tércia",
+                            "la": "Tertia"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Tertia",
+                                "votive": "C12"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Sexta",
+                          "label": {
+                            "en-US": "Sext",
+                            "pt-BR": "Sexta",
+                            "la": "Sexta"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Sexta",
+                                "votive": "C12"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Nona",
+                          "label": {
+                            "en-US": "None",
+                            "pt-BR": "Noa",
+                            "la": "Nona"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Nona",
+                                "votive": "C12"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Vespera",
+                          "label": {
+                            "en-US": "Vespers",
+                            "pt-BR": "Vésperas",
+                            "la": "Vesperae"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Vespera",
+                                "votive": "C12"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Completorium",
+                          "label": {
+                            "en-US": "Compline",
+                            "pt-BR": "Completas",
+                            "la": "Completorium"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Completorium",
+                                "votive": "C12"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "as": "votiveHour"
+                    }
+                  ]
+                },
+                {
+                  "id": "C10",
+                  "label": {
+                    "en-US": "Our Lady on Saturday",
+                    "pt-BR": "N. Senhora aos Sábados",
+                    "la": "Beata Maria in Sabbato"
+                  },
+                  "excerpt": {
+                    "en-US": "The Saturday memorial of Our Lady",
+                    "pt-BR": "Memória sabatina de N. Senhora",
+                    "la": "Sabbato de Beata Maria"
+                  },
+                  "sections": [
+                    {
+                      "type": "select",
+                      "on": "hour",
+                      "label": {
+                        "en-US": "Hour",
+                        "pt-BR": "Hora",
+                        "la": "Hora"
+                      },
+                      "map": {
+                        "0-3": "Completorium",
+                        "4-6": "Matutinum",
+                        "7-8": "Laudes",
+                        "9": "Prima",
+                        "10-11": "Tertia",
+                        "12-14": "Sexta",
+                        "15-16": "Nona",
+                        "17-19": "Vespera",
+                        "20-23": "Completorium"
+                      },
+                      "options": [
+                        {
+                          "id": "Matutinum",
+                          "label": {
+                            "en-US": "Matins",
+                            "pt-BR": "Matinas",
+                            "la": "Matutinum"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Matutinum",
+                                "votive": "C10"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Laudes",
+                          "label": {
+                            "en-US": "Lauds",
+                            "pt-BR": "Laudes",
+                            "la": "Laudes"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Laudes",
+                                "votive": "C10"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Prima",
+                          "label": {
+                            "en-US": "Prime",
+                            "pt-BR": "Prima",
+                            "la": "Prima"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Prima",
+                                "votive": "C10"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Tertia",
+                          "label": {
+                            "en-US": "Terce",
+                            "pt-BR": "Tércia",
+                            "la": "Tertia"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Tertia",
+                                "votive": "C10"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Sexta",
+                          "label": {
+                            "en-US": "Sext",
+                            "pt-BR": "Sexta",
+                            "la": "Sexta"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Sexta",
+                                "votive": "C10"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Nona",
+                          "label": {
+                            "en-US": "None",
+                            "pt-BR": "Noa",
+                            "la": "Nona"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Nona",
+                                "votive": "C10"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Vespera",
+                          "label": {
+                            "en-US": "Vespers",
+                            "pt-BR": "Vésperas",
+                            "la": "Vesperae"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Vespera",
+                                "votive": "C10"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Completorium",
+                          "label": {
+                            "en-US": "Compline",
+                            "pt-BR": "Completas",
+                            "la": "Completorium"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Completorium",
+                                "votive": "C10"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "as": "votiveHour"
+                    }
+                  ]
+                },
+                {
+                  "id": "V4",
+                  "label": {
+                    "en-US": "St Joseph (Wednesdays)",
+                    "pt-BR": "São José (Quartas)",
+                    "la": "De S. Joseph (Feria IV)"
+                  },
+                  "excerpt": {
+                    "en-US": "Votive of the Spouse of the BVM",
+                    "pt-BR": "Votiva do Esposo da Virgem",
+                    "la": "Sponsi BMV"
+                  },
+                  "sections": [
+                    {
+                      "type": "select",
+                      "on": "hour",
+                      "label": {
+                        "en-US": "Hour",
+                        "pt-BR": "Hora",
+                        "la": "Hora"
+                      },
+                      "map": {
+                        "0-3": "Completorium",
+                        "4-6": "Matutinum",
+                        "7-8": "Laudes",
+                        "9": "Prima",
+                        "10-11": "Tertia",
+                        "12-14": "Sexta",
+                        "15-16": "Nona",
+                        "17-19": "Vespera",
+                        "20-23": "Completorium"
+                      },
+                      "options": [
+                        {
+                          "id": "Matutinum",
+                          "label": {
+                            "en-US": "Matins",
+                            "pt-BR": "Matinas",
+                            "la": "Matutinum"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Matutinum",
+                                "votive": "V4"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Laudes",
+                          "label": {
+                            "en-US": "Lauds",
+                            "pt-BR": "Laudes",
+                            "la": "Laudes"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Laudes",
+                                "votive": "V4"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Prima",
+                          "label": {
+                            "en-US": "Prime",
+                            "pt-BR": "Prima",
+                            "la": "Prima"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Prima",
+                                "votive": "V4"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Tertia",
+                          "label": {
+                            "en-US": "Terce",
+                            "pt-BR": "Tércia",
+                            "la": "Tertia"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Tertia",
+                                "votive": "V4"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Sexta",
+                          "label": {
+                            "en-US": "Sext",
+                            "pt-BR": "Sexta",
+                            "la": "Sexta"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Sexta",
+                                "votive": "V4"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Nona",
+                          "label": {
+                            "en-US": "None",
+                            "pt-BR": "Noa",
+                            "la": "Nona"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Nona",
+                                "votive": "V4"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Vespera",
+                          "label": {
+                            "en-US": "Vespers",
+                            "pt-BR": "Vésperas",
+                            "la": "Vesperae"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Vespera",
+                                "votive": "V4"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Completorium",
+                          "label": {
+                            "en-US": "Compline",
+                            "pt-BR": "Completas",
+                            "la": "Completorium"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Completorium",
+                                "votive": "V4"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "as": "votiveHour"
+                    }
+                  ]
+                },
+                {
+                  "id": "V6",
+                  "label": {
+                    "en-US": "The Passion (Fridays)",
+                    "pt-BR": "Paixão do Senhor (Sextas)",
+                    "la": "De Passione DNJC (Feria VI)"
+                  },
+                  "excerpt": {
+                    "en-US": "Votive of the Lord's Passion",
+                    "pt-BR": "Votiva da Paixão do Senhor",
+                    "la": "Passionis Domini"
+                  },
+                  "sections": [
+                    {
+                      "type": "select",
+                      "on": "hour",
+                      "label": {
+                        "en-US": "Hour",
+                        "pt-BR": "Hora",
+                        "la": "Hora"
+                      },
+                      "map": {
+                        "0-3": "Completorium",
+                        "4-6": "Matutinum",
+                        "7-8": "Laudes",
+                        "9": "Prima",
+                        "10-11": "Tertia",
+                        "12-14": "Sexta",
+                        "15-16": "Nona",
+                        "17-19": "Vespera",
+                        "20-23": "Completorium"
+                      },
+                      "options": [
+                        {
+                          "id": "Matutinum",
+                          "label": {
+                            "en-US": "Matins",
+                            "pt-BR": "Matinas",
+                            "la": "Matutinum"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Matutinum",
+                                "votive": "V6"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Laudes",
+                          "label": {
+                            "en-US": "Lauds",
+                            "pt-BR": "Laudes",
+                            "la": "Laudes"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Laudes",
+                                "votive": "V6"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Prima",
+                          "label": {
+                            "en-US": "Prime",
+                            "pt-BR": "Prima",
+                            "la": "Prima"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Prima",
+                                "votive": "V6"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Tertia",
+                          "label": {
+                            "en-US": "Terce",
+                            "pt-BR": "Tércia",
+                            "la": "Tertia"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Tertia",
+                                "votive": "V6"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Sexta",
+                          "label": {
+                            "en-US": "Sext",
+                            "pt-BR": "Sexta",
+                            "la": "Sexta"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Sexta",
+                                "votive": "V6"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Nona",
+                          "label": {
+                            "en-US": "None",
+                            "pt-BR": "Noa",
+                            "la": "Nona"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Nona",
+                                "votive": "V6"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Vespera",
+                          "label": {
+                            "en-US": "Vespers",
+                            "pt-BR": "Vésperas",
+                            "la": "Vesperae"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Vespera",
+                                "votive": "V6"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "Completorium",
+                          "label": {
+                            "en-US": "Compline",
+                            "pt-BR": "Completas",
+                            "la": "Completorium"
+                          },
+                          "sections": [
+                            {
+                              "type": "include",
+                              "ref": "producer/do-hour",
+                              "params": {
+                                "hour": "Completorium",
+                                "votive": "V6"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "as": "votiveHour"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }

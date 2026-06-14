@@ -4,13 +4,16 @@ import { Text, XStack, YStack } from 'tamagui'
 import { preprocessFlow } from '@/content/preprocessFlow'
 import { usePreprocessContext } from '@/content/preprocessRuntime'
 import type { ContainerOption, Primitive } from '@/content/primitives'
+import type { PickerStyle } from '@/content/types'
 import { AnimatedPressable } from '../AnimatedPressable'
+import { OptionCard } from './OptionCard'
 import { SelectBranch, selectBranchKey } from './SelectBranch'
 
 export function SelectBlock({
   label,
   overrideKey,
   selectedId,
+  pickerStyle = 'chips',
   options,
   practiceId,
   onSelect,
@@ -19,8 +22,10 @@ export function SelectBlock({
   label: string
   overrideKey: string
   // The engine's auto/default pick — the branch preprocessed eagerly and the
-  // initial active tab.
+  // initial active tab. Empty string means no default: nothing is highlighted
+  // and no branch renders until the user picks one (used by the votive picker).
   selectedId: string
+  pickerStyle?: PickerStyle
   options: ContainerOption[]
   practiceId: string
   onSelect: (optionId: string) => void
@@ -28,7 +33,10 @@ export function SelectBlock({
 }) {
   const ctx = usePreprocessContext()
   const [activeId, setActiveId] = useState(selectedId)
-  const active = options.find((option) => option.id === activeId) ?? options[0]
+  // With a default, fall back to the first option if the active id ever misses;
+  // without one, an unmatched id means "nothing selected yet".
+  const active =
+    options.find((option) => option.id === activeId) ?? (selectedId ? options[0] : undefined)
 
   // Warm every non-default branch in the background right after mount so a tab
   // tap resolves from cache instantly. The default branch is already in hand.
@@ -57,38 +65,52 @@ export function SelectBlock({
         {label}
       </Text>
 
-      <XStack gap="$xs" flexWrap="wrap">
-        {options.map((option) => {
-          const isSelected = option.id === active?.id
-          return (
-            <AnimatedPressable
+      {pickerStyle === 'cards' ? (
+        <YStack gap="$xs">
+          {options.map((option) => (
+            <OptionCard
               key={option.id}
+              label={option.label.primary}
+              excerpt={option.excerpt?.primary}
+              isSelected={option.id === active?.id}
               onPress={() => handleSelect(option.id)}
-              accessibilityRole="tab"
-              accessibilityLabel={option.label.primary}
-              accessibilityState={{ selected: isSelected }}
-              testID={`select-option-${option.id}`}
-            >
-              <YStack
-                paddingHorizontal="$sm"
-                paddingVertical="$xs"
-                borderRadius="$sm"
-                borderWidth={1}
-                borderColor={isSelected ? '$accent' : '$borderColor'}
-                backgroundColor={isSelected ? '$accent' : 'transparent'}
+            />
+          ))}
+        </YStack>
+      ) : (
+        <XStack gap="$xs" flexWrap="wrap">
+          {options.map((option) => {
+            const isSelected = option.id === active?.id
+            return (
+              <AnimatedPressable
+                key={option.id}
+                onPress={() => handleSelect(option.id)}
+                accessibilityRole="tab"
+                accessibilityLabel={option.label.primary}
+                accessibilityState={{ selected: isSelected }}
+                testID={`select-option-${option.id}`}
               >
-                <Text
-                  fontFamily="$heading"
-                  fontSize="$1"
-                  color={isSelected ? '$background' : '$colorSecondary'}
+                <YStack
+                  paddingHorizontal="$sm"
+                  paddingVertical="$xs"
+                  borderRadius="$sm"
+                  borderWidth={1}
+                  borderColor={isSelected ? '$accent' : '$borderColor'}
+                  backgroundColor={isSelected ? '$accent' : 'transparent'}
                 >
-                  {option.label.primary}
-                </Text>
-              </YStack>
-            </AnimatedPressable>
-          )
-        })}
-      </XStack>
+                  <Text
+                    fontFamily="$heading"
+                    fontSize="$1"
+                    color={isSelected ? '$background' : '$colorSecondary'}
+                  >
+                    {option.label.primary}
+                  </Text>
+                </YStack>
+              </AnimatedPressable>
+            )
+          })}
+        </XStack>
+      )}
 
       {active && (
         <SelectBranch
