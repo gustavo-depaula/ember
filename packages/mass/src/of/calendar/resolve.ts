@@ -129,6 +129,7 @@ export function resolveOfDay(
   return {
     date,
     season,
+    specialDay: position.specialDay,
     cycle: getSundayCycle(litYear),
     weekdayCycle: getWeekdayCycle(litYear),
     temporalRef,

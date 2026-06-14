@@ -1,10 +1,9 @@
-import {
-  type DayCalendar,
-  getOfLiturgicalPosition,
-  type LiturgicalCategory,
-  type LocalizedText,
-  type RankOF,
-  type ResolvedCelebration,
+import type {
+  DayCalendar,
+  LiturgicalCategory,
+  LocalizedText,
+  RankOF,
+  ResolvedCelebration,
 } from '@ember/liturgical'
 import type { Localized, OfCalendarStatics, Rank } from '@ember/missal-schema'
 import { addDays, format } from 'date-fns'
@@ -48,7 +47,6 @@ export function buildOfYearCalendar({
 
   for (let date = new Date(year, 0, 1); date <= end; date = addDays(date, 1)) {
     const day = new Date(date)
-    const position = getOfLiturgicalPosition(day)
     const resolved = resolveOfDay(day, statics, { scope })
 
     const celebrations: ResolvedCelebration[] = []
@@ -71,7 +69,7 @@ export function buildOfYearCalendar({
       // Temporal: collapse multi-Mass variants (Christmas vigil/night/dawn/day)
       // to one entry and drop ordinary Sundays/ferias the display doesn't name.
       if (keptTemporal) continue
-      const name = temporalDisplayTitle(c.ref, position.specialDay)
+      const name = temporalDisplayTitle(c.ref, resolved.specialDay)
       if (!name) continue
       keptTemporal = true
       celebrations.push(
@@ -81,7 +79,7 @@ export function buildOfYearCalendar({
           c.rank,
           day,
           'solemnity_temporal',
-          isOfHolyDay(c.ref, position.specialDay),
+          isOfHolyDay(c.ref, resolved.specialDay),
         ),
       )
     }
