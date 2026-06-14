@@ -67,10 +67,15 @@ function applyPerlReplacement(template: string, args: unknown[]): string {
   }
   let out = ''
   let titlecaseNext = false
+  let lowercaseNext = false
   const emit = (s: string) => {
-    if (titlecaseNext && s) {
+    if (!s) return
+    if (titlecaseNext) {
       out += s[0].toUpperCase() + s.slice(1)
       titlecaseNext = false
+    } else if (lowercaseNext) {
+      out += s[0].toLowerCase() + s.slice(1)
+      lowercaseNext = false
     } else {
       out += s
     }
@@ -82,18 +87,11 @@ function applyPerlReplacement(template: string, args: unknown[]): string {
       i++
       if (next === 'n') emit('\n')
       else if (next === 't') emit('\t')
+      // \u/\l titlecase/lowercase the first char of the NEXT emitted token —
+      // including the first char of a following group reference (e.g. `\l$1`).
       else if (next === 'u') titlecaseNext = true
-      else if (next === 'l') {
-        // \l lowercases the next character.
-        const rest = template.slice(i + 1)
-        if (rest) {
-          // handled by falling through with a lowercased emit on next char
-          // (approximation: lowercase the immediate literal)
-          const ch = rest[0]
-          out += ch.toLowerCase()
-          i++
-        }
-      } else if (/[1-9]/.test(next)) emit(groups[Number(next)] ?? '')
+      else if (next === 'l') lowercaseNext = true
+      else if (/[1-9]/.test(next)) emit(groups[Number(next)] ?? '')
       else emit(next)
     } else if (c === '$' && /[1-9]/.test(template[i + 1] ?? '')) {
       emit(groups[Number(template[i + 1])] ?? '')

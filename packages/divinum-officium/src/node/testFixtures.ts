@@ -30,16 +30,12 @@ export const verifiedHourVersions = [
   'Reduced - 1955',
   'Monastic Divino 1930',
   'Monastic Tridentinum 1617',
-]
-
-// Versions imported and selectable, but with known, journaled text divergences
-// in specific hours (Phase-1 follow-ups): the Tridentine Matins psalm
-// scheme/lessons, and the Barroux Saturday-BVM Sext chapter. The smoke test
-// asserts these assemble for the full matrix without throwing — the
-// crash/regression guard — without asserting exact text.
-export const partialHourVersions = [
+  'Monastic - 1963 - Barroux',
   'Tridentine - 1570',
   'Tridentine - 1888',
   'Tridentine - 1906',
-  'Monastic - 1963 - Barroux',
 ]
+
+// All imported office versions are now fully hour-verified; none remain
+// partial. Kept as an (empty) seam for future rite imports (OP, Cistercian).
+export const partialHourVersions: string[] = []

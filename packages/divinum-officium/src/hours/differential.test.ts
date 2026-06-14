@@ -76,17 +76,6 @@ function perlHourColumn(html: string, column: 0 | 1): string {
   return out.join('\n')
 }
 
-// Known, journaled Phase-1.5 divergences inside otherwise-verified versions.
-// The English column of the Corpus Christi 12-lesson Nocturn III antiphon: the
-// older Monastic versions inherit the Latin antiphon (the English file carries
-// no translation of that section), where our setupstring layering resolves an
-// English one. Tracked here so the rest of each version's 16×8 matrix stays
-// strictly verified; remove the entry when the layering edge case is fixed.
-const knownHourDivergences = new Set([
-  'Monastic Divino 1930|6-11-2026|Matutinum|English',
-  'Monastic Tridentinum 1617|6-11-2026|Matutinum|English',
-])
-
 const hasHourFixtures = hasFixtures && existsSync(goldenLib)
 
 describe.skipIf(!hasHourFixtures)('assembleHour vs real Pofficium', () => {
@@ -189,9 +178,6 @@ describe.skipIf(!hasHourFixtures)('assembleHour vs real Pofficium', () => {
               (ours.vernacular ?? []).join('\n'),
             ],
           ] as const) {
-            if (knownHourDivergences.has(`${version}|${month}-${day}-${year}|${hora}|${label}`)) {
-              continue
-            }
             const ourWords = toWords(ourText)
             const divergence = charDivergence(perlWords, ourWords)
             if (divergence !== -1) {

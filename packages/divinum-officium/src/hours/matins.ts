@@ -981,6 +981,15 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
     ) {
       text = lectionesEx3Fiunt4(w, n)
     }
+    if (/Trident/.test(version) && /Sancti/i.test(state.day.winner)) {
+      // Perl's "dirty hack": clear the occurring-scripture responsories for a
+      // Tridentine sanctoral office so the 1st-nocturn responsory falls back
+      // to the saint's Commune (e.g. C2 'Iste Sanctus' on a Martyr's feast)
+      // instead of the September scripture. `w` is a copy, so this is safe.
+      w.Responsory1 = ''
+      w.Responsory2 = ''
+      w.Responsory3 = ''
+    }
   } else if (
     !text &&
     n === 4 &&
@@ -1012,6 +1021,41 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
   if (new RegExp(`Special Lectio ${n}`).test(state.day.communeSections.Rule ?? '')) {
     const mariae = await setup(state, lang, `${subdirname('Commune', version)}C10`)
     text = mariae[getC10readingname(state)] ?? ''
+  }
+
+  // Combine lessons 8 and 9 when a commemoration takes lesson 9's place and the
+  // office requires it (always under Tridentine). The non-Contract8 form wraps
+  // lesson 9 in a «…» rubric joined to lesson 8 via $rubrica NonaAdjuncta.
+  if (
+    !/1960|Cist/i.test(version) &&
+    n === 8 &&
+    (/Contract8/i.test(rule) || /Trident/.test(version)) &&
+    state.day.winnerSections.Responsory9 === undefined &&
+    (state.day.winnerSections.Lectio93 !== undefined ||
+      state.day.commemoratioSections.Lectio7 !== undefined ||
+      homilyflag)
+  ) {
+    const wrap = (l8: string, l9: string) => {
+      let t = l8
+      if (!/Contract8/i.test(rule)) t += '\n$rubrica NonaAdjuncta\n/:«'
+      t += l9
+      t = t.replace(/&teDeum\n*/g, '')
+      if (!/Contract8/i.test(rule)) t = t.replace(/\s+$/, '»:/')
+      return t
+    }
+    if (
+      state.day.winnerSections.Lectio8 !== undefined &&
+      state.day.winnerSections.Lectio9 !== undefined
+    ) {
+      const win = winnerOf(state, lang)
+      text = wrap(win.Lectio8 ?? '', win.Lectio9 ?? '')
+    } else if (
+      state.day.winnerSections.Lectio8 === undefined &&
+      state.day.communeSections.Lectio8 !== undefined
+    ) {
+      const c = communeOf(state, lang)
+      text = wrap(c.Lectio8 ?? '', c.Lectio9 ?? '')
+    }
   }
 
   const wo = text
@@ -1609,7 +1653,27 @@ export async function psalmiMatutinum(state: HoursState, lang: string): Promise<
 
   const psalmIndices: (number | string)[] = [0, 1, 2]
 
-  if (!vers) {
+  if (/trident/i.test(version)) {
+    // Tridentine ferial Matins is one nocturn of twelve psalms; the Daya
+    // tables pack them at indices 0–7 (psalmi[3..5] are psalms here, not the
+    // Roman versicle lines), so the indices and versicle source differ.
+    if (!/1 nocturn/i.test(state.rule)) {
+      psalmIndices.push(3, 4, 5)
+    }
+    if (!/C9|C12/.test(state.votive)) {
+      vers = `${psalmi[6] ?? ''}\n${psalmi[7] ?? ''}`
+    } else {
+      vers = `${psalmi[13] ?? ''}\n${psalmi[14] ?? ''}`
+    }
+    if (dayofweek === 6 && /ex C10/i.test(state.rule)) {
+      // BVM on Saturday: Psalm 99 (said at Lauds) is replaced by Psalm 91.
+      vers = psalmiFile['BMV Versum'] ?? ''
+      psalmIndices[1] = 8
+    }
+    if (/^(?:Adv|Quad5?|Pasch)$/.test(name) && !/C9|C12/.test(state.votive)) {
+      vers = psalmiFile[`${name} ${vn} Versum`] ?? ''
+    }
+  } else if (!vers) {
     vers = `${psalmi[13] ?? ''}\n${psalmi[14] ?? ''}`
     comment = 5
   }
@@ -2050,7 +2114,11 @@ export async function psalmiMatutinumMonastic(state: HoursState, lang: string): 
       state.day.winnerSections['Ant Matutinum 3N'] !== undefined ||
       state.day.communeSections['Ant Matutinum 3N'] !== undefined
     ) {
-      const t = splitPerl(wsec['Ant Matutinum 3N'] || communeOf(state, lang)['Ant Matutinum 3N'])
+      // Perl's value fallback reads the LATIN %commune global (not %commune2)
+      // even in the vernacular column — so a 3rd-nocturn antiphon taken from
+      // the Commune stays Latin in both columns (e.g. Corpus Christi 'Caro
+      // mea', which the English commune file does not translate).
+      const t = splitPerl(wsec['Ant Matutinum 3N'] || state.day.communeSections['Ant Matutinum 3N'])
       for (let i = 0; i < t.length; i++) psalmi[16 + i] = t[i]
       const [a1, p1] = (psalmi[16] ?? '').split(';;')
       ant = a1
