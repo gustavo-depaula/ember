@@ -206,6 +206,7 @@ function renderContainer(
           label={behavior.label.primary}
           overrideKey={behavior.overrideKey}
           selectedId={behavior.selectedId}
+          pickerStyle={behavior.pickerStyle}
           options={behavior.options}
           practiceId={practiceId}
           onSelect={(nextId) => onSelectOverride(behavior.overrideKey, nextId)}

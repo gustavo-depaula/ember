@@ -657,8 +657,10 @@ export async function assembleHour(opts: {
   hora: 'Prima' | 'Tertia' | 'Sexta' | 'Nona' | 'Completorium' | 'Matutinum' | 'Laudes' | 'Vespera'
   lang2?: string
   priest?: boolean
+  votive?: string
 }): Promise<AssembledHour> {
   const lang2 = opts.lang2 ?? 'Latin'
+  const votive = opts.votive ?? 'Hodie'
   const day = await resolveDay({
     loader: opts.loader,
     day: opts.day,
@@ -669,6 +671,7 @@ export async function assembleHour(opts: {
     missa: false,
     lang1: 'Latin',
     lang2,
+    votive,
     // The interactive pray<Hora> request runs with $caller unset — caller=1
     // would suppress the 'All Souls ends after None' Vespers rule.
     caller: 0,
@@ -685,7 +688,7 @@ export async function assembleHour(opts: {
     column: 1,
     hora: opts.hora,
     priest: opts.priest ?? false,
-    votive: 'Hodie',
+    votive,
     rule: day.rule,
     communerule: day.communerule,
     winner2: {},

@@ -11,7 +11,7 @@ import { dayOfWeek, getweek } from './date'
 import { createDirectorium } from './directorium'
 import { emberday, occurrence } from './occurrence'
 import { officestring } from './officestring'
-import { createKalendarState, type KalendarState } from './state'
+import { createKalendarState, type KalendarState, num, subdirname } from './state'
 
 export type DayResolution = {
   // File ids in Perl form ('Sancti/01-25.txt', 'TemporaM/Pent02-3.txt').
@@ -56,10 +56,12 @@ export async function resolveDay(opts: {
   lang2?: string
   missa?: boolean
   caller?: number
+  votive?: string
 }): Promise<DayResolution> {
   const hora = opts.hora ?? 'Laudes'
   const lang1 = opts.lang1 ?? 'Latin'
   const missa = opts.missa ?? false
+  const votive = opts.votive ?? 'Hodie'
   const { day, month, year, version } = opts
 
   const ctx = defaultContext({
@@ -69,6 +71,7 @@ export async function resolveDay(opts: {
     year,
     hora,
     missa,
+    votive,
     dayofweek: dayOfWeek(day, month, year),
     dayname: [getweek(day, month, year, false, missa), '', ''],
   })
@@ -91,9 +94,9 @@ export async function resolveDay(opts: {
           ? 'Pasc'
           : ''
 
-  // The app has no votive offices (votive is always 'Hodie'), so the Perl's
-  // `$votive !~ /C12/` guard is always true.
-  if (/vespera|completorium/i.test(hora)) {
+  // The Little Office of the BVM (C12) has no concurrence — its Vespers and
+  // Compline are resolved by occurrence like any other hour.
+  if (/vespera|completorium/i.test(hora) && !/C12/i.test(votive)) {
     await concurrence(state, opts.lang2)
   } else {
     await occurrence(state, false)
@@ -263,7 +266,87 @@ export async function resolveDay(opts: {
     }
   }
 
-  // Votive offices are out of scope for v1.
+  // Port of the votive-office redirection (horascommon.pl). When the user
+  // asks for a votive office (votive !== 'Hodie'), the whole day is redirected
+  // to the votive Commune office (C1–C12, or Votiva/V4·V6), with the day's
+  // sanctoral winner demoted to a commemoration.
+  if (votive !== 'Hodie') {
+    let vtv = votive
+    if (/C12/i.test(vtv)) {
+      // C12: Little Office BVM — seasonal text variants.
+      if (!/cist/i.test(version)) {
+        if (
+          (month === 12 && ((day === 24 && /Vespera|Completorium/.test(hora)) || day > 24)) ||
+          month === 1 ||
+          (month === 2 && day < 3)
+        ) {
+          vtv = 'C12N'
+        } else if (
+          /adv/i.test(ctx.dayname[0]) ||
+          (/03-25/.test(state.winner) && !/Praedicatorum/.test(version))
+        ) {
+          vtv = 'C12A'
+        } else if (/(Quadp|Quad)/i.test(ctx.dayname[0]) && !/Praedicatorum/.test(version)) {
+          vtv = 'C12Q'
+        }
+      }
+      state.commemoratio = ''
+      state.commemoratio1 = ''
+      state.cwinner = ''
+      state.scriptura = ''
+      state.commune = ''
+      state.commemoratioSections = {}
+      state.cwinnerSections = {}
+      state.scripturaSections = {}
+      state.communeSections = {}
+      state.commemoentries = []
+      state.ccommemoentries = []
+    } else {
+      if (/Pasc/.test(ctx.dayname[0]) && /C[1-3](?!\d)/.test(vtv)) vtv += 'p' // Commune T.P.
+      vtv = vtv.replace(/^V/, 'Votiva/V') // votive offices live in a subdirectory
+      if (/Tempora/.test(state.commemoratio)) {
+        // Keep the 9th lesson from the Sunday or Feria (typically in Lent).
+        state.commemoentries.push(state.winner)
+      } else {
+        // The day's sanctoral winner becomes the first commemoration.
+        state.commemoentries.unshift(state.winner)
+        state.commemoratio = state.winner
+        state.commemoratioSections = { ...state.winnerSections }
+      }
+    }
+
+    state.winner = `${subdirname('Commune', version)}${vtv}.txt`
+    state.winnerSections = (await officestring(state, lang1, state.winner)) ?? {}
+    state.rule = state.winnerSections.Rule ?? ''
+    if (state.winnerSections.Rank) {
+      const vrank = state.winnerSections.Rank.split(';;')
+      state.rank = num(vrank[2])
+      state.duplex = !/duplex/i.test(vrank[1] ?? '')
+        ? 1
+        : /semiduplex/i.test(vrank[1] ?? '')
+          ? 2
+          : 3
+    }
+
+    if (/C12/i.test(vtv)) {
+      state.commune = `${subdirname('Commune', version)}C11.txt`
+      state.communetype = 'ex'
+      state.communeSections = (await officestring(state, lang1, state.commune)) ?? {}
+    } else {
+      if (/^Trident|^Divino/i.test(version) && !/Votiva/.test(vtv)) {
+        // Votive Matins is fully sanctoral (Duplex, 3 nocturns) under these.
+        state.rule += '\n9 lectiones'
+        state.rank = 4
+        state.duplex = 3
+      }
+      // Self-reference the commune so getproprium resolves the votive office.
+      state.commune = state.winner
+      state.communetype = 'ex'
+      state.communeSections = { ...state.winnerSections }
+    }
+    ctx.dayname[1] = state.winnerSections.Officium ?? ''
+    ctx.dayname[2] = ''
+  }
 
   // Lauds scheme: penitential days have Lauds II.
   if (/Trident/i.test(version)) {

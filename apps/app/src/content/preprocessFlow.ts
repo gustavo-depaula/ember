@@ -255,6 +255,7 @@ async function preprocessSection(
         section.options.map(async (o) => ({
           id: o.id,
           label: o.label,
+          excerpt: o.excerpt,
           children: o.id === section.selectedId ? await preprocessFlow(o.sections, ctx) : [],
           rawSections: o.sections,
         })),
@@ -266,6 +267,7 @@ async function preprocessSection(
           label: section.label,
           overrideKey: section.overrideKey,
           selectedId: section.selectedId,
+          pickerStyle: section.pickerStyle,
           options,
         },
       }

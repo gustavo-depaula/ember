@@ -198,6 +198,90 @@ describe.skipIf(!hasHourFixtures)('assembleHour vs real Pofficium', () => {
     })
   }
 
+  // Votive offices: the engine threads a `votive` Commune code through
+  // resolveDay/assembleHour (default Hodie). The breviary UX exposes these five.
+  // C9 (Office of the Dead) has only Matins/Lauds/Vespers (gethoras C9f); the
+  // others cover all 8 hours. One ordinary date + a Lenten date (C12 has a
+  // seasonal variant) on Rubrics 1960, compared char-for-char both columns.
+  const votiveMatrix: Array<{ votive: string; horas: readonly (typeof horas)[number][] }> = [
+    { votive: 'C9', horas: ['Matutinum', 'Laudes', 'Vespera'] },
+    { votive: 'C12', horas },
+    { votive: 'C10', horas },
+    { votive: 'V4', horas },
+    { votive: 'V6', horas },
+  ]
+  const votiveDates: Array<[number, number, number]> = [
+    [6, 14, 2026], // summer feria-time
+    [2, 28, 2027], // Lent (C12 seasonal variant)
+  ]
+
+  it('matches the assembled word stream — votive offices', { timeout: 1_800_000 }, async () => {
+    const loader = createFsLoader(contentDo)
+    const version = 'Rubrics 1960 - 1960'
+    const failures: string[] = []
+
+    for (const [month, day, year] of votiveDates) {
+      for (const { votive, horas: vhoras } of votiveMatrix) {
+        for (const hora of vhoras) {
+          const result = spawnSync(
+            'perl',
+            [
+              pofficium,
+              `date1=${month}-${day}-${year}`,
+              `command=pray${hora}`,
+              `version=${version}`,
+              'lang1=Latin',
+              'lang2=English',
+              `votive=${votive}`,
+            ],
+            {
+              encoding: 'utf8',
+              maxBuffer: 256 * 1024 * 1024,
+              env: { ...process.env, PERL5LIB: goldenLib },
+              cwd: join(doClone, 'web', 'cgi-bin', 'horas'),
+            },
+          )
+          expect(result.status, result.stderr.slice(0, 2000)).toBe(0)
+
+          const ours = await assembleHour({
+            loader,
+            day,
+            month,
+            year,
+            version,
+            hora,
+            lang2: 'English',
+            votive,
+          })
+
+          for (const [label, perlWords, ourText] of [
+            ['Latin', toWords(perlHourColumn(result.stdout, 0)), ours.latin.join('\n')],
+            [
+              'English',
+              toWords(perlHourColumn(result.stdout, 1)),
+              (ours.vernacular ?? []).join('\n'),
+            ],
+          ] as const) {
+            const ourWords = toWords(ourText)
+            const divergence = charDivergence(perlWords, ourWords)
+            if (divergence !== -1) {
+              failures.push(
+                `${month}-${day}-${year} ${hora} [${votive}] ${label}: diverges at char ${divergence}\n` +
+                  `  perl: …${charContext(perlWords, divergence)}…\n` +
+                  `  ours: …${charContext(ourWords, divergence)}…`,
+              )
+            }
+          }
+        }
+      }
+    }
+
+    expect(
+      failures.length,
+      `${failures.length} failures; first 8:\n${failures.slice(0, 8).join('\n')}`,
+    ).toBe(0)
+  })
+
   // Partial versions: assert they assemble for the whole matrix without
   // throwing (the crash/regression guard — the class of bug that breaks the
   // app on Hermes). Text divergences in their known-incomplete hours
