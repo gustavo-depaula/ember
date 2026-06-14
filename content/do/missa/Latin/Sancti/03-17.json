@@ -1,0 +1,49 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Patricii Episcopi et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 196",
+   "lines": [
+    "S. Patricii Episcopi et Conf.;;Duplex;;2;;vide C4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Patrícium",
+    "Postcommunio=Patrício",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui ad prædicándam géntibus glóriam tuam beátum Patrícium Confessórem atque Pontíficem míttere dignátus es: ejus méritis et intercessióne concéde; ut, quæ nobis agénda prǽcipis, te miseránte adimplére possímus.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

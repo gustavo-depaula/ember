@@ -1,0 +1,32 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Ursulæ et Sociarum Virg. et Mart.",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C6b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6b;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Ursulæ et Sociárum",
+    "Postcommunio=Ursula et Sociábus"
+   ]
+  }
+ ]
+}

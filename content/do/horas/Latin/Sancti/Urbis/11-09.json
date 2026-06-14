@@ -1,0 +1,26 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/11-09",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "In Dedicatione Archibasilicæ Ss. Salvatoris",
+    "(sed rubrica tridentina nisi rubrica 1906)",
+    "In Dedicatione Basilicæ Ss. Salvatoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex I. classis cum octava;;6.5;;ex C8"
+   ]
+  }
+ ]
+}

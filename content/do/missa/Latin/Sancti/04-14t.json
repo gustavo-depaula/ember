@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Tiburtii, Valeriani, et Maximi Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C3a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C3a;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Tibúrtii, Valeriáni et Máximi sollémnia cólimus; eórum étiam virtútes imitémur.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C2p",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C2p",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Hæc hóstia, quǽsumus, Dómine, quam sanctórum Mártyrum tuórum natalítia recenséntes offérimus: et víncula nostræ pravitátis absólvat, et tuæ nobis misericórdiæ dona concíliet.",
+    "$Per Dominum.",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Sacro múnere satiáti, súpplices te, Dómine, deprecámur: ut, quod débitæ servitútis celebrámus offício, salvatiónis tuæ sentiámus augméntum.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

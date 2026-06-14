@@ -1,0 +1,28 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc7-4",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Tempora/Pasc7-0::1 s/;;47//",
+    "@Psalterium/Psalmi/Psalmi matutinum:Daym4:2-6 s/.*;;/;;/g",
+    "@Tempora/Pasc7-0::4-5",
+    "@TemporaM/Pasc7-3:AntMatutinumM",
+    "@Psalterium/Psalmi/Psalmi matutinum:Daym4:10-14 s/.*;;/;;/g",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Pasc7-2:Responsory1"
+   ]
+  }
+ ]
+}

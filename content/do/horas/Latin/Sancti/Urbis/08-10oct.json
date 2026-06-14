@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Quinta die infra Octavam Transfigurationis Domini Nostri Jesu Christi",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2;;",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Doxology=Epi",
+    "Prefatio=Nat",
+    "Suffr=Maria3;Ecclesiæ,Papa;;",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "No commemoration in the feast of S. Laurentius but inheritance of the Doxology to the Hymns and Preface to the Mass."
+   ]
+  }
+ ]
+}

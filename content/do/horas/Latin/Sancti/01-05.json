@@ -1,0 +1,173 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "In Vigilia Epiphaniæ;;Semiduplex;;4.9;;ex Sancti/01-01",
+    "(sed rubrica tridentina)",
+    "In Vigilia Epiphaniæ;;Semiduplex;;2.9;;ex Sancti/01-01",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Sancti/01-01;",
+    "9 lectiones",
+    "Psalmi Dominica",
+    "Omit preces",
+    "Feria Te Deum",
+    "Lectio1 TempNat",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Vespera",
+   "lines": [
+    "@Sancti/12-25:Hymnus Vespera",
+    ""
+   ]
+  },
+  {
+   "name": "HymnusM Vespera",
+   "lines": [
+    "@Sancti/12-25:HymnusM Vespera",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "lines": [
+    "@Sancti/12-25:Versum 2",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@Tempora/Nat1-0:Ant 3",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Invit",
+   "lines": [
+    "@Sancti/12-25:Invit",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Matutinum",
+   "lines": [
+    "@Sancti/12-25:Hymnus Vespera",
+    ""
+   ]
+  },
+  {
+   "name": "HymnusM Matutinum",
+   "lines": [
+    "@Sancti/12-25:HymnusM Vespera",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "Sermo sancti Augustíni Epíscopi",
+    "!Sermo 13 de Tempore",
+    "Dóminus noster Jesus Christus, fratres caríssimi, qui in ætérnum est cunctórum Creátor, hódie de matre nascéndo factus est nobis Salvátor. Natus est nobis hódie in témpore per voluntátem, ut nos perdúcat ad Patris æternitátem. Factus est Deus homo, ut homo fíeret Deus: ut panem Angelórum manducáret homo, Dóminus Angelórum hódie factus est homo.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "Hódie impléta est prophetía illa, quæ dicit: Roráte, cæli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem. Factus est ígitur qui fécerat, ut invenirétur qui períerat. Sic enim in Psalmis homo confitétur: Priúsquam humiliárer, ego peccávi. Peccávit homo, et factus est reus: natus est homo Deus, ut liberarétur reus. Homo ígitur cécidit, sed Deus descéndit. Cécidit homo miserabíliter, descéndit Deus misericórditer; cécidit homo per supérbiam, descéndit Deus cum grátia.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "O mirácula, o prodígia, fratres mei! Natúræ jura mutántur in hómine; Deus náscitur, virgo sine viro gravidátur, viri nésciam sermo Dei marítat: simul facta est mater et virgo; mater facta, sed incorrúpta; virgo habens fílium, nésciens virum; semper clausa, sed non infœcúnda. Solus enim sine peccáto est natus, quem sine viríli compléxu non concupiscéntia carnis, sed obediéntia génuit mentis.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "Léctio sancti Evangélii secúndum Matthǽum",
+    "!Matt 2:19-23",
+    "In illo témpore: Defúncto Heróde, ecce Angelus Dómini appáruit in somnis Joseph in Ægýpto, dicens: Surge, et áccipe púerum et matrem ejus, et vade in terram Israël. Et réliqua.",
+    "_",
+    "Homilía sancti Hierónymi Presbýteri",
+    "!Liber 1 in Comment. in cap. 2 Matthæi",
+    "Ex hoc loco intellígimus non solum Heródem, sed et sacerdótes et scribas eódem témpore necem Dómini fuísse meditátos. Qui surgens accépit púerum, et matrem ejus. Non dixit: Accépit fílium suum et uxórem suam, sed Púerum et matrem ejus; quasi nutrítius, non marítus.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "Audiens autem quod Archeláus regnáret in Judǽa pro Heróde patre suo, tímuit illo ire. Multi labúntur erróre propter ignorántiam históriæ, putántes eumdem esse Heródem, a quo in passióne sua Dóminus irridétur, et qui nunc mórtuus esse referátur. Ergo Heródes ille qui cum Piláto póstea amicítias fecit, hujus Heródis fílius est, frater Archelái.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "Quóniam Nazarǽus vocábitur. Si fixum de Scriptúris posuísset exémplum, numquam díceret: Quod dictum est per prophétas: sed simplíciter: Quod dictum est per prophétam. Nunc autem pluráliter prophétas vocans, osténdit se non verba de Scriptúris sumpsísse, sed sensum. Nazarǽus sanctus interpretátur; sanctum autem Dóminum futúrum omnis Scriptúra commémorat.",
+    "&teDeum",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Laudes",
+   "lines": [
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Laudes",
+   "lines": [
+    "@Sancti/12-25:Hymnus Laudes",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@Tempora/Nat1-0:Ant 1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio Prima",
+   "lines": [
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Sexta",
+   "lines": [
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "lines": [
+    "@Tempora/Nat1-0"
+   ]
+  }
+ ]
+}

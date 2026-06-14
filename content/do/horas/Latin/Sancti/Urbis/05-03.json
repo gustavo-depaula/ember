@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/05-03",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/05-03::s/Inténdat.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/05-03:Lectio8:s/.* Inténdat/Inténdat/"
+   ]
+  }
+ ]
+}

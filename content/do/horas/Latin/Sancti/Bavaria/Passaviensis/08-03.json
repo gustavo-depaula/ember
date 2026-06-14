@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-03",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "In Inventione S. Stephani Protomartyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex majus;;4;;vide Sancti/12-26"
+   ]
+  }
+ ]
+}

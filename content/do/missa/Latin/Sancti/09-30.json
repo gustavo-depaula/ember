@@ -1,0 +1,59 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Hieronymi Presbyteris Confessoris et Ecclesiæ Doctoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5a",
+    "(sed rubrica 1930)",
+    ";;Duplex majus;;4;;vide C5a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5a;",
+    "Gloria",
+    "CredoDA",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Hieronyme",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui Ecclésiæ tuæ in exponéndis sacris Scriptúris beátum Hierónymum, Confessórem tuum, Doctórem máximum providére dignátus es: præsta, quǽsumus; ut, ejus suffragántibus méritis, quod ore simul et ópere dócuit, te adjuvánte, exercére valeámus.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Donis cœléstibus da nobis, quǽsumus, Dómine, líbera tibi mente servíre: ut múnera, quæ deférimus, interveniénte beáto Hierónymo Confessóre tuo, et medélam nobis operéntur et glóriam.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Repleti alimónia cœlésti, quǽsumus, Dómine: ut, interveniénte beáto Hierónymo Confessóre tuo, misericórdiæ tuæ grátiam cónsequi mereámur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

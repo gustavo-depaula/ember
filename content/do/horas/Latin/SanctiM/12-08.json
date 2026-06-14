@@ -1,0 +1,262 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/12-08",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C11;",
+    "12 lectiones",
+    "Psalmi Dominica",
+    "Antiphonas horas",
+    "Doxology=Nat",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera",
+   "lines": [
+    "@Sancti/12-08:Responsory Breve Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera 1",
+   "condition": "rubrica Barroux",
+   "lines": [
+    "@Sancti/12-08:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Matutinum",
+   "lines": [
+    "@Sancti/12-08::s/Jesu, tibi sit glória/Glória tibi Dómine/",
+    ""
+   ]
+  },
+  {
+   "name": "AntMatutinumM",
+   "lines": [
+    "Fundátur * exsultatióne univérsæ terræ mons Sion, cívitas regis magni.;;47",
+    "Misericórdia * et véritas obviavérunt sibi in Conceptióne Maríæ: † justítia et pax osculátæ sunt.;;84",
+    "Exaltáte * Dóminum Deum nostrum, et adoráte tabernáculum ejus, † quóniam sanctus est.;;98",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum 3N",
+   "lines": [
+    "Benedícite * Dómino in ópere suo; † quia índuit Maríam vestiméntis salútis: et induménto justítiæ circúmdedit eam.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Sancti/12-08::1-5",
+    "@:AntMatutinumM:1-2",
+    "@Sancti/12-08::6-9",
+    "@:AntMatutinumM:3",
+    ";;249;250;251",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/12-08",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/12-08",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/12-08:Lectio3:s/-15/-12/ s/13.*//s",
+    "(sed rubrica 1930)",
+    "@Sancti/12-08:Lectio3:s/-15/-13/ s/14.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/12-08:Lectio3:s/9-/13-/ s/9.*13/13/s",
+    "(sed rubrica 1930)",
+    "@Sancti/12-08:Lectio3:s/9-/14-/ s/9.*14/14/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Elégit Maríam Deus et preelégit eam, et creávit eam in Spíritu Sancto:",
+    "* Ideo nihil inquinátum in eam incúrrit.",
+    "V. Dedit Maríæ Dóminus protectiónem salútis suæ, † et déxtera sua suscépit eam.",
+    "R. Ideo nihil inquinátum in eam incúrrit.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/12-08:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/12-08:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/12-08:Lectio5:s/Vere .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/12-08:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/12-08:Lectio5:s/.*Vere novum/Vere novum/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/12-08:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/12-08:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. Magnificáte Dóminum mecum:",
+    "* Quia misericórdia Dómini magna est super me.",
+    "V. Princeps hujus mundi in me non habet quidquam.",
+    "R. Quia misericórdia Dómini magna est super me.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/12-08:Lectio7:s/Ave, sacrosáncte.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/12-08:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/12-08:Lectio7:s/.* Ave, /Ave, /s s/$/~/",
+    "@Sancti/12-08:Lectio8:s/O puríssima .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/12-08:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/12-08:Lectio8:s/.* O puríssima /O puríssima /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "R. Quis Deus magnus sicut Deus noster?",
+    "* Præelégit me Deus, et pósuit immaculátam viam meam",
+    "V. Exsultávit spíritus meus in Deo, salutári meo.",
+    "R. Præelégit me Deus, et pósuit immaculátam viam meam",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/12-08:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "R. Osténdit nobis Dóminus civitátem sanctam Jerúsalem, habéntem claritátem Dei:",
+    "* Et lumen ejus símile lápide pretióso, sicut crystállum.",
+    "V. Ornátam monílibus, fíliam Jerúsalem Dóminus concupívit.",
+    "R. Et lumen ejus símile lápide pretióso, sicut crystállum.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Laudes",
+   "lines": [
+    "@Sancti/12-08:Responsory Breve Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "lines": [
+    "@:Nocturn 1 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory SextaM",
+   "lines": [
+    "@:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory NonaM",
+   "lines": [
+    "@:Nocturn 3 Versum"
+   ]
+  }
+ ]
+}

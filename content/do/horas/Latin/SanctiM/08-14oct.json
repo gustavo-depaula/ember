@@ -1,0 +1,56 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-14oct",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Sancti/08-10::11 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Sancti/08-10::12 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/08-14oct:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/08-14oct:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/08-14:Lectio1t",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/081-0:Responsory1"
+   ]
+  }
+ ]
+}

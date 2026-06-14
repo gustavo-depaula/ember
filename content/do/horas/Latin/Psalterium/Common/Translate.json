@@ -1,0 +1,978 @@
+{
+ "sections": [
+  {
+   "name": "#Regula vel Lectio brevis",
+   "lines": [
+    "#Regula (vel Lectio brevis)",
+    ""
+   ]
+  },
+  {
+   "name": "Pater noster",
+   "lines": [
+    "Pater noster",
+    ""
+   ]
+  },
+  {
+   "name": "Pater noster Et",
+   "lines": [
+    "@:Pater noster",
+    ""
+   ]
+  },
+  {
+   "name": "Ave Maria",
+   "lines": [
+    "Ave María",
+    ""
+   ]
+  },
+  {
+   "name": "Credo",
+   "lines": [
+    "Credo",
+    ""
+   ]
+  },
+  {
+   "name": "Credo Carnis",
+   "lines": [
+    "@:Credo",
+    ""
+   ]
+  },
+  {
+   "name": "Gloria",
+   "lines": [
+    "Glória",
+    ""
+   ]
+  },
+  {
+   "name": "Gloria omittitur",
+   "lines": [
+    "Gloria omittitur",
+    ""
+   ]
+  },
+  {
+   "name": "gloria",
+   "lines": [
+    "Glória",
+    ""
+   ]
+  },
+  {
+   "name": "Requiem",
+   "lines": [
+    "Réquiem ætérnam",
+    ""
+   ]
+  },
+  {
+   "name": "Requiem2",
+   "lines": [
+    "@:Requiem",
+    ""
+   ]
+  },
+  {
+   "name": "Alleluia",
+   "lines": [
+    "Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Laus tibi",
+   "lines": [
+    "Laus tibi, Dómine, Rex ætérnæ glóriæ.",
+    ""
+   ]
+  },
+  {
+   "name": "Dominus vobiscum",
+   "lines": [
+    "Dóminus vobíscum",
+    ""
+   ]
+  },
+  {
+   "name": "Domine exaudi",
+   "lines": [
+    "Dómine, exáudi",
+    ""
+   ]
+  },
+  {
+   "name": "secunda Domine exaudi omittitur",
+   "lines": [
+    "secunda Dómine exáudi omittitur",
+    ""
+   ]
+  },
+  {
+   "name": "Confiteor",
+   "lines": [
+    "Confíteor",
+    ""
+   ]
+  },
+  {
+   "name": "Misereatur",
+   "lines": [
+    "Misereátur",
+    ""
+   ]
+  },
+  {
+   "name": "Indulgentiam",
+   "lines": [
+    "Indulgéntiam",
+    ""
+   ]
+  },
+  {
+   "name": "Domine labia",
+   "lines": [
+    "Dómine, lábia",
+    ""
+   ]
+  },
+  {
+   "name": "Deus in adjutorium",
+   "lines": [
+    "Deus in adjutórium",
+    ""
+   ]
+  },
+  {
+   "name": "Deusinadjutorium",
+   "lines": [
+    "@:Deus in adjutorium",
+    ""
+   ]
+  },
+  {
+   "name": "Tu autem",
+   "lines": [
+    "Tu autem",
+    ""
+   ]
+  },
+  {
+   "name": "Aperi",
+   "lines": [
+    "Áperi",
+    ""
+   ]
+  },
+  {
+   "name": "Benedicamus_Domino",
+   "lines": [
+    "Benedicámus Dómino",
+    ""
+   ]
+  },
+  {
+   "name": "Benedicamus Domino",
+   "lines": [
+    "@:Benedicamus_Domino",
+    ""
+   ]
+  },
+  {
+   "name": "Benedicamus Domino1",
+   "lines": [
+    "Benedicámus Dómino, allelúja, allelúja",
+    ""
+   ]
+  },
+  {
+   "name": "Benedicamus Domino alleluia",
+   "lines": [
+    "@:Benedicamus Domino1",
+    ""
+   ]
+  },
+  {
+   "name": "Benedicamus Domino alleluja",
+   "lines": [
+    "@:Benedicamus Domino1",
+    ""
+   ]
+  },
+  {
+   "name": "Fidelium animae",
+   "lines": [
+    "Fidélium ánimæ",
+    ""
+   ]
+  },
+  {
+   "name": "Oremus",
+   "lines": [
+    "Orémus.",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus",
+   "lines": [
+    "Hymnus",
+    ""
+   ]
+  },
+  {
+   "name": "Psalmus",
+   "lines": [
+    "Psalmus",
+    ""
+   ]
+  },
+  {
+   "name": "Per Dominum",
+   "lines": [
+    "Per Dóminum",
+    ""
+   ]
+  },
+  {
+   "name": "Per Dominum eiusdem",
+   "lines": [
+    "Per Dóminum … ejúsdem Spiritus",
+    ""
+   ]
+  },
+  {
+   "name": "Qui cum Patre",
+   "lines": [
+    "Qui cum Patre",
+    ""
+   ]
+  },
+  {
+   "name": "Per eumdem",
+   "lines": [
+    "Per eúmdem",
+    ""
+   ]
+  },
+  {
+   "name": "Qui vivis",
+   "lines": [
+    "Qui vivis",
+    ""
+   ]
+  },
+  {
+   "name": "Qui tecum",
+   "lines": [
+    "Qui tecum",
+    ""
+   ]
+  },
+  {
+   "name": "Sacrosanctaea",
+   "lines": [
+    "Sacrosanctæa",
+    ""
+   ]
+  },
+  {
+   "name": "Sacrosancta",
+   "lines": [
+    "Sacrosancta",
+    ""
+   ]
+  },
+  {
+   "name": "Benedictio",
+   "lines": [
+    "Benedictio",
+    ""
+   ]
+  },
+  {
+   "name": "Absolutio",
+   "lines": [
+    "Absolutio",
+    ""
+   ]
+  },
+  {
+   "name": "Te Deum",
+   "lines": [
+    "Te Deum",
+    ""
+   ]
+  },
+  {
+   "name": "Te decet",
+   "lines": [
+    "Te decet",
+    ""
+   ]
+  },
+  {
+   "name": "Deo gratias",
+   "lines": [
+    "R. Deo grátias.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Ante",
+   "lines": [
+    "Ante",
+    ""
+   ]
+  },
+  {
+   "name": "Divinum Officium",
+   "lines": [
+    "Divinum Officium",
+    ""
+   ]
+  },
+  {
+   "name": "Post",
+   "lines": [
+    "Post",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio",
+   "lines": [
+    "Commemoratio",
+    ""
+   ]
+  },
+  {
+   "name": "Antiphonae",
+   "lines": [
+    "Antiphonæ",
+    ""
+   ]
+  },
+  {
+   "name": "Antiphona",
+   "lines": [
+    "Antiphona",
+    ""
+   ]
+  },
+  {
+   "name": "et Psalmi",
+   "lines": [
+    "et Psalmi",
+    ""
+   ]
+  },
+  {
+   "name": "Psalmi, antiphonae",
+   "lines": [
+    "Psalmi & antiphonæ",
+    ""
+   ]
+  },
+  {
+   "name": "Psalmi et antiphonae",
+   "lines": [
+    "Psalmi & antiphonæ",
+    ""
+   ]
+  },
+  {
+   "name": "Psalmi Dominica, antiphonae",
+   "lines": [
+    "Psalmi Dominica & antiphonæ",
+    ""
+   ]
+  },
+  {
+   "name": "Antiphona finalis BMV",
+   "lines": [
+    "Antiphona finalis B.M.V.",
+    ""
+   ]
+  },
+  {
+   "name": "Divinum_auxilium",
+   "lines": [
+    "Divínum auxílium",
+    ""
+   ]
+  },
+  {
+   "name": "Gloria tibi Domine",
+   "lines": [
+    "Glória tibi, Dómine.",
+    ""
+   ]
+  },
+  {
+   "name": "Vigilia",
+   "lines": [
+    "Vigilia",
+    ""
+   ]
+  },
+  {
+   "name": "Kyrie",
+   "lines": [
+    "Kýrie",
+    ""
+   ]
+  },
+  {
+   "name": "MLitany",
+   "lines": [
+    "@:Kyrie",
+    "…",
+    "@:Pater noster",
+    ""
+   ]
+  },
+  {
+   "name": "Dominica",
+   "lines": [
+    "Dominic[aæ]",
+    ""
+   ]
+  },
+  {
+   "name": "Octava",
+   "lines": [
+    "Octav[aæ]",
+    ""
+   ]
+  },
+  {
+   "name": "Psalmi graduales",
+   "lines": [
+    "Psalmi graduales",
+    ""
+   ]
+  },
+  {
+   "name": "Septem psalmi paenitentiales",
+   "lines": [
+    "Septem psalmi pænitentiales",
+    ""
+   ]
+  },
+  {
+   "name": "Litaniae",
+   "lines": [
+    "Litaniæ",
+    ""
+   ]
+  },
+  {
+   "name": "Ordo Commendationis Animae",
+   "lines": [
+    "Ordo Commendationis Animæ",
+    ""
+   ]
+  },
+  {
+   "name": "Benedictio mensae",
+   "lines": [
+    "Benedictio mensæ",
+    ""
+   ]
+  },
+  {
+   "name": "Itinerarium",
+   "lines": [
+    "Itinerarium",
+    ""
+   ]
+  },
+  {
+   "name": "Nocturn",
+   "lines": [
+    "Nocturnus",
+    ""
+   ]
+  },
+  {
+   "name": "Ad Nocturnum",
+   "lines": [
+    "Ad Nocturnum",
+    ""
+   ]
+  },
+  {
+   "name": "Adjutorium nostrum",
+   "lines": [
+    "Adjutorium nostrum",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio Domine_",
+   "lines": [
+    "Dómine Deus",
+    ""
+   ]
+  },
+  {
+   "name": "Respice",
+   "lines": [
+    "Réspice",
+    ""
+   ]
+  },
+  {
+   "name": "Pater totum secreto_",
+   "lines": [
+    "/:totum secreto:/",
+    ""
+   ]
+  },
+  {
+   "name": "Pater Ave L_",
+   "lines": [
+    "/:rubrica a Laudibus:/",
+    ""
+   ]
+  },
+  {
+   "name": "Deus in adjutorium iij_",
+   "lines": [
+    "/:ter:/",
+    ""
+   ]
+  },
+  {
+   "name": "Benedictio Prima",
+   "lines": [
+    "Jube, … Dies et actus",
+    ""
+   ]
+  },
+  {
+   "name": "benedictio Prima2",
+   "lines": [
+    "Dóminus nos benedícat",
+    ""
+   ]
+  },
+  {
+   "name": "Benedicite",
+   "lines": [
+    "Benedícite",
+    ""
+   ]
+  },
+  {
+   "name": "Defunctorum",
+   "lines": [
+    "@:#Commemoratio defunctorum: s/#//",
+    ""
+   ]
+  },
+  {
+   "name": "Pater totum secreto",
+   "lines": [
+    "@:Pater noster",
+    "@:Pater totum secreto_",
+    ""
+   ]
+  },
+  {
+   "name": "Pater post",
+   "lines": [
+    "@:Pater totum secreto",
+    ""
+   ]
+  },
+  {
+   "name": "Pater post V",
+   "lines": [
+    "@:Pater totum secreto",
+    ""
+   ]
+  },
+  {
+   "name": "Deus in adjutorium iij",
+   "lines": [
+    "@:Deus in adjutorium",
+    "@:Deus in adjutorium iij_",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio Domine",
+   "lines": [
+    "@:Domine exaudi",
+    "…",
+    "@:Oremus",
+    "…",
+    "@:Oratio Domine_",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio Domine",
+   "condition": "rubrica ^Monastic",
+   "lines": [
+    "@:MLitany",
+    "…",
+    "@:Domine exaudi",
+    "…",
+    "@:Oremus",
+    "…",
+    "@:Oratio Domine_",
+    ""
+   ]
+  },
+  {
+   "name": "Requiescant",
+   "lines": [
+    "Requiéscant",
+    ""
+   ]
+  },
+  {
+   "name": "A_porta_inferi",
+   "lines": [
+    "A porta ínferi",
+    ""
+   ]
+  },
+  {
+   "name": "Aportainferi",
+   "lines": [
+    "@:A_porta_inferi",
+    ""
+   ]
+  },
+  {
+   "name": "Versus in loco",
+   "lines": [
+    "Versus (In loco Capituli)",
+    ""
+   ]
+  },
+  {
+   "name": "secreto",
+   "lines": [
+    "secreto",
+    ""
+   ]
+  },
+  {
+   "name": "Pretiosa",
+   "lines": [
+    "Pretiosa",
+    ""
+   ]
+  },
+  {
+   "name": "Preces feriales Laudes",
+   "lines": [
+    "Ego dixi …",
+    ""
+   ]
+  },
+  {
+   "name": "Preces feriales Vespera",
+   "lines": [
+    "@:Preces feriales Laudes",
+    ""
+   ]
+  },
+  {
+   "name": "Preces dominicales primae",
+   "lines": [
+    "Et ego ad te …",
+    ""
+   ]
+  },
+  {
+   "name": "Preces dominicales secundae",
+   "lines": [
+    "Dignáre, Dómine …",
+    ""
+   ]
+  },
+  {
+   "name": "Preces dominicales Completorium",
+   "lines": [
+    "Benedictus es …",
+    ""
+   ]
+  },
+  {
+   "name": "Preces dominicales Completorium",
+   "condition": "rubrica ^Monastic",
+   "lines": [
+    "@:Preces dominicales secundae",
+    ""
+   ]
+  },
+  {
+   "name": "Preces feriales Prima",
+   "lines": [
+    "Éripe me, …",
+    ""
+   ]
+  },
+  {
+   "name": "Preces feriales minora",
+   "lines": [
+    "Dómine, Deus …",
+    ""
+   ]
+  },
+  {
+   "name": "ant Alma Redemptoris Mater",
+   "lines": [
+    "Alma Redemptoris Mater",
+    ""
+   ]
+  },
+  {
+   "name": "ant Ave Regina caelorum",
+   "lines": [
+    "Ave Regina caelorum",
+    ""
+   ]
+  },
+  {
+   "name": "ant Regina caeli",
+   "lines": [
+    "Regina caeli",
+    ""
+   ]
+  },
+  {
+   "name": "ant Salve Regina",
+   "lines": [
+    "Salve Regina",
+    ""
+   ]
+  },
+  {
+   "name": "#ANTE PRANDIUM",
+   "lines": [
+    "#ANTE PRANDIUM",
+    ""
+   ]
+  },
+  {
+   "name": "#IN FINE COENE",
+   "lines": [
+    "#IN FINE COENE",
+    ""
+   ]
+  },
+  {
+   "name": "#POST PRANDIUM",
+   "lines": [
+    "#POST PRANDIUM",
+    ""
+   ]
+  },
+  {
+   "name": "#ANTE COENAM",
+   "lines": [
+    "#ANTE COENAM",
+    ""
+   ]
+  },
+  {
+   "name": "#IN FINE COENAE",
+   "lines": [
+    "#IN FINE COENAE",
+    ""
+   ]
+  },
+  {
+   "name": "#Incipit",
+   "lines": [
+    "#Incipit",
+    ""
+   ]
+  },
+  {
+   "name": "#Invitatorium",
+   "lines": [
+    "#Invitatorium",
+    ""
+   ]
+  },
+  {
+   "name": "#Hymnus",
+   "lines": [
+    "#Hymnus",
+    ""
+   ]
+  },
+  {
+   "name": "#Psalmi",
+   "lines": [
+    "#Psalmi",
+    ""
+   ]
+  },
+  {
+   "name": "#Psalmi cum lectionibus",
+   "lines": [
+    "#Psalmi cum lectionibus",
+    ""
+   ]
+  },
+  {
+   "name": "#Capitulum Responsorium Versus",
+   "lines": [
+    "#Capitulum Responsorium Versus",
+    ""
+   ]
+  },
+  {
+   "name": "#De Officio Capituli",
+   "lines": [
+    "#De Officio Capituli",
+    ""
+   ]
+  },
+  {
+   "name": "#Capitulum Responsory Versus",
+   "lines": [
+    "#Capitulum Responsory Versus",
+    ""
+   ]
+  },
+  {
+   "name": "#Martyrologium",
+   "lines": [
+    "#Martyrologium",
+    ""
+   ]
+  },
+  {
+   "name": "#Capitulum Hymnus Versus",
+   "lines": [
+    "#Capitulum Hymnus Versus",
+    ""
+   ]
+  },
+  {
+   "name": "#Capitulum Versus",
+   "lines": [
+    "#Capitulum Versus",
+    ""
+   ]
+  },
+  {
+   "name": "#Capitulum Responsorium Hymnus Versus",
+   "lines": [
+    "#Capitulum Responsorium Hymnus Versus",
+    ""
+   ]
+  },
+  {
+   "name": "#Canticum",
+   "lines": [
+    "#Canticum",
+    ""
+   ]
+  },
+  {
+   "name": "#Canticum: Nunc dimittis",
+   "lines": [
+    "#Canticum: Nunc dimittis",
+    ""
+   ]
+  },
+  {
+   "name": "#Canticum: Benedictus",
+   "lines": [
+    "#Canticum: Benedictus",
+    ""
+   ]
+  },
+  {
+   "name": "#Canticum: Magnificat",
+   "lines": [
+    "#Canticum: Magnificat",
+    ""
+   ]
+  },
+  {
+   "name": "#Preces Dominicales",
+   "lines": [
+    "#Preces Dominicales",
+    ""
+   ]
+  },
+  {
+   "name": "#Preces Dominicales et Feriales",
+   "lines": [
+    "#Preces Dominicales et Feriales",
+    ""
+   ]
+  },
+  {
+   "name": "#Preces Feriales",
+   "lines": [
+    "#Preces Feriales",
+    ""
+   ]
+  },
+  {
+   "name": "#Suffragium",
+   "lines": [
+    "#Suffragium",
+    ""
+   ]
+  },
+  {
+   "name": "#Oratio",
+   "lines": [
+    "#Oratio",
+    ""
+   ]
+  },
+  {
+   "name": "#Orationes",
+   "lines": [
+    "#Orationes",
+    ""
+   ]
+  },
+  {
+   "name": "#Lectio brevis",
+   "lines": [
+    "#Lectio brevis",
+    ""
+   ]
+  },
+  {
+   "name": "#Conclusio",
+   "lines": [
+    "#Conclusio",
+    ""
+   ]
+  },
+  {
+   "name": "#Commemoratio defunctorum",
+   "lines": [
+    "#Commemoratio defunctorum"
+   ]
+  }
+ ]
+}

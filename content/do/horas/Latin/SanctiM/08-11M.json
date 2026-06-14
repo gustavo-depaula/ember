@@ -1,0 +1,32 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-11",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Tiburtii Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Sancti Mártyris Tibúrtii nos, Dómine, fóveant continuáta præsídia: quia non désinis propítius intuéri; quos tálibus auxíliis concésseris adjuvári.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

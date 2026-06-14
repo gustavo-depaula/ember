@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc5-3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Laudes Litania",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@TemporaM/Pasc4-0:Responsory11"
+   ]
+  }
+ ]
+}

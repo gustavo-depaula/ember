@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria Tertia in Rogationibus",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Oratio Dominica",
+    "no Gloria",
+    "no Credo",
+    "Suffr=Maria3;Ecclesiæ,Papa;;"
+   ]
+  }
+ ]
+}

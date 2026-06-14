@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/114-6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/114-6::s/\\n(10 )/ ¶\\n$1/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@Tempora/111-0:Responsory6"
+   ]
+  }
+ ]
+}

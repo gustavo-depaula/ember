@@ -1,0 +1,76 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Norberto, Bispo e Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 06 VI – S. Norberto, Bispo e Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Norberto",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C4:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que dispusestes que o B. Norberto, vosso Confessor e Pontífice, fosse exímio pregador da vossa palavra, e que por ele destes à vossa Igreja uma nova família, concedei-nos, Vos imploramos, que, auxiliados com seus méritos, possamos com vossa assistência pôr em prática tudo quanto ensinou com suas palavras e acções.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C4:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4:Communio"
+   ]
+  }
+ ]
+}

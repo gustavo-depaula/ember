@@ -1,0 +1,65 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Quad6-5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Matutinum Romanum",
+    "Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Antiphona finalis Preces Suffragium Conclusion Martyrologium De Officium Capituli",
+    "Limit Benedictiones, Oratio",
+    "9 lectiones 1960",
+    "Capitulum Versum 2 ad Laudes tantum",
+    "Feria",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Tempora/Quad6-5",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Laudes",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Quad6-5::s/\\n/_/smg s/_/;;50\\n/ s/_/;;142\\n/ s/_/;;62;66\\n/ s/_/;;225\\n/ s/$/;;148;149;150\\n/s",
+    ""
+   ]
+  },
+  {
+   "name": "Special Prima",
+   "lines": [
+    "@TemporaM/Quad6-4::s/6-4/6-5/",
+    ""
+   ]
+  },
+  {
+   "name": "Special Tertia",
+   "lines": [
+    "@TemporaM/Quad6-4::s/6-4/6-5/",
+    ""
+   ]
+  },
+  {
+   "name": "Special Sexta",
+   "lines": [
+    "@TemporaM/Quad6-4::s/6-4/6-5/",
+    ""
+   ]
+  },
+  {
+   "name": "Special Nona",
+   "lines": [
+    "@TemporaM/Quad6-4::s/6-4/6-5/"
+   ]
+  }
+ ]
+}

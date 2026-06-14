@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "Oratio Maria1",
+   "lines": [
+    "!de S. Maria tempore Adventus",
+    "$Per eundem",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta Maria1",
+   "lines": [
+    "!de S. Maria tempore Adventus",
+    "$Per eundem",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio Maria1",
+   "lines": [
+    "!de S. Maria tempore Adventus",
+    "$Per eundem"
+   ]
+  }
+ ]
+}

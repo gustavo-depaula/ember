@@ -1,0 +1,35 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-08",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica 1963 aut rubrica 1930",
+   "lines": [
+    "S. Cyriaci, Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 1963 aut rubrica 1930",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "rubrica 1963 aut rubrica 1930",
+   "lines": [
+    "Deus, qui nos annua beáti Cyríaci Mártyris tui solemnitáte lætíficas: concede propítius; ut, cujus natalícia colimus, virtútem quoque passiónis imitémur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

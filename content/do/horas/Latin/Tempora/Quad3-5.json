@@ -1,0 +1,99 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria Sexta infra Hebdomadam III in Quadragesima",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria major;;2.1",
+    "(sed rubrica 1930)",
+    ";;Feria major;;4.9",
+    "(sed rubrica 196)",
+    ";;Feria major;;3.9",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "Léctio sancti Evangélii secúndum Joánnem",
+    "!Joannes 4:5-42",
+    "In illo témpore: Venit Jesus in civitátem Samaríæ, quæ dícitur Sichar: juxta prǽdium, quod dedit Jacob Joseph fílio suo. Et réliqua.",
+    "_",
+    "Homilía sancti Augustíni Epíscopi",
+    "!Tract. 15 in Joánnem, post init.",
+    "Jam incípiunt mystéria. Non enim frustra fatigátur Jesus: non enim frustra fatigátur virtus Dei: non enim frustra fatigátur, per quem fatigáti recreántur: non enim frustra fatigátur, quo deserénte fatigámur, quo præsénte firmámur. Fatigátur tamen Jesus, et fatigátur ab itínere, et sedet, et juxta púteum sedet, et hora sexta fatigátus sedet. Omnia ista ínnuunt áliquid, indicáre volunt áliquid: ut pulsémus, hortántur. Ipse ergo apériat et nobis et vobis, qui dignátus est ita hortári, ut díceret: Pulsáte, et aperiétur vobis.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Quad3-0:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "Tibi fatigátus est ab itínere Jesus. Invenímus virtútem Jesum, et invenímus infírmum Jesum: fortem, et infírmum. Fortem, quia in princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum: hoc erat in princípio apud Deum. Vis vidére quam iste Fílius Dei fortis sit? Omnia per ipsum facta sunt, et sine ipso factum est nihil: et sine labóre facta sunt. Quid ergo illo fórtius, per quem sine labóre facta sunt ómnia? Infírmum vis nosse? Verbum caro factum est, et habitávit in nobis. Fortitúdo Christi te creávit: infírmitas Christi te recreávit. Fortitúdo Christi fecit, ut quod non erat, esset: infírmitas Christi fecit, ut quod erat, non períret. Cóndidit nos fortitúdine sua, quæsívit nos infirmitáte sua.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Quad3-0:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "Nutrit ergo ipse infírmus infírmos, tamquam gallína pullos suos: huic enim se símilem fecit. Quóties vólui, inquit ad Jerúsalem, congregáre fílios tuos sub alas tamquam gallína pullos suos, et noluísti? Vidétis autem, fratres, quemádmodum gallína infirmétur cum pullis suis. Nulla enim ália avis, quod sit mater, agnóscitur. Vidémus nidificáre pásseres quóslibet ante óculos nostros: hirúndines, cicónias, colúmbas cotídie vidémus nidificáre: quos, nisi quando in nidis vidémus, paréntes esse non agnóscimus. Gallína vero sic infirmátur in pullis suis, ut étiam si ipsi pulli non sequántur, fílios non vídeas, matrem tamen intéllegas.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Quad3-0:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "Aquam, quam ego dédero, * si quis bíberit ex ea, non sítiet in ætérnum.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio 2",
+   "lines": [
+    "Jejúnia nostra, quǽsumus, Dómine, benígno favóre proséquere: ut, sicut ab aliméntis abstinémus in córpore; ita a vítiis jejunémus in mente.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "Dómine, * ut vídeo, prophéta es tu: patres nostri in monte hoc adoravérunt.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio 3",
+   "lines": [
+    "Præsta, quǽsumus, omnípotens Deus: ut, qui in tua protectióne confídimus, cuncta nobis adversántia te adjuvánte vincámus.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

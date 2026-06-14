@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    "Sanctae Mariae Sabbato;;Feria;;2;;ex C10",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "No commemoratio",
+    "Gloria",
+    "Suffr=Spiritu;Ecclesiæ,Papa;;",
+    "Prefatio=Maria=Nativitate"
+   ]
+  }
+ ]
+}

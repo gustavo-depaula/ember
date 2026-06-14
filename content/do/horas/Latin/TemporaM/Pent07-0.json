@@ -1,0 +1,235 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent07-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pent07-0::1-5 s/-5/-3/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent07-0::1-3:s/1-4/1,5-6/ s/dies:.*/dies./",
+    "@Tempora/Pent07-0:Lectio2:2-3 s/ Erat.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Pent01-1:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio1:2-6 s/1-4/4-6/ s/1 .*4/4/s",
+    "@Tempora/Pent07-0:Lectio2:2-3 s/ Erat.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio2:s/5-/6-/ s/5.*(Erat)/6 $1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Pent01-1:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio2:s/5-/6-/ s/5.*(Erat)/6 $1/s",
+    "(sed rubrica cisterciensis)",
+    "@Tempora/Pent07-0:Lectio3:1-5:s/11-15/11-14/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Pent01-1:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "!3 Reg 1:15-18",
+    "15 Ingréssa est ítaque Bethsabée ad regem in cubículo: rex autem senúerat nimis, et Abísag Sunamítis ministrábat ei.",
+    "16 inclinávit se Bethsabée, et adorávit regem. Ad quam rex, Quid tibi, inquit, vis?",
+    "17 Quæ respóndens, ait: Dómine mi, tu iurásti per Dóminum Deum tuum ancíllæ tuæ, Sálomon fílius tuus regnábit post me, et ipse sedébit in sólio meo.",
+    "18 Et ecce nunc Adonías regnat, te, dómine mi rex, ignoránte.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@Tempora/Pent03-1Feria:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio4:s/Expónat .*//s",
+    "(sed rubrica cisterciensis)",
+    "@Tempora/Pent07-0:Lectio4:s/.*(Expónat)/$1/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Tempora/Pent01-2:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio4:s/.* Expónat /Expónat /s",
+    "(sed rubrica cisterciensis)",
+    "@Tempora/Pent07-0:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Tempora/Pent01-2:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio5",
+    "(sed rubrica cisterciensis)",
+    "@Tempora/Pent07-0:Lectio6:s/Senéctus.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Tempora/Pent01-2:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio6",
+    "(sed rubrica cisterciensis)",
+    "@Tempora/Pent07-0:Lectio6:s/.*(Senéctus)/$1/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@Tempora/Pent01-3:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio7:s/Regnum .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Tempora/Pent01-3:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio7:s/.* Regnum /Regnum /s s/$/~/",
+    "@Tempora/Pent07-0:Lectio8:s/Multi .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Tempora/Pent01-3:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio8:s/.* Multi /Multi /s s/$/~/",
+    "@Tempora/Pent07-0:Lectio9:s/De nostro .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@Tempora/Pent03-2Feria:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio9:s/.* De nostro /De nostro /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Tempora/Pent01-0:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent07-0::s/, allel[uú][ij]a//i"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@CommuneM/C4",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C4-1"
+   ]
+  }
+ ]
+}

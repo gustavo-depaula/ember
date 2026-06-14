@@ -1,0 +1,112 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Marcellini, Petri, atque Erasmi, Episcopi, Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Evangelium non appropriatum",
+    "vide C3;",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Ps 33:18",
+    "v. Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos.",
+    "!Ps 33:2 Benedícam Dóminum",
+    "in omni témpore: semper laus ejus in ore meo.",
+    "&Gloria",
+    "v. Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui nos ánnua beatórum Mártyrum tuórum Marcellíni, Petri atque Erásmi sollemnitáte lætíficas: præsta, quǽsumus; ut, quorum gaudémus méritis, accendámur exémplis.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Tempora/Pent04-0",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Ps 33:18-19",
+    "Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos.",
+    "V. Juxta est Dóminus his, qui tribuláto sunt corde: et húmiles spíritu salvabit. Allelúja, allelúja.",
+    "!Joann 15-16",
+    "V. Ego vos elégi de mundo, ut eátis, et fructum afferátis; et fructus vester máneat. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "Allelúja, alleluja.",
+    "!Joann 15:16",
+    "Ego vos elégi de mundo, ut eátis, et fructum afferátis; et fructus vester máneat. Allelúja.",
+    "!Ps 115:15",
+    "Pretiósa in conspéctu Dómini mors Sanctórum ejus. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C3",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C3p",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Hæc hóstia, quǽsumus, Dómine, quam sanctórum Martyrum tuórum natalítia recenséntes offérimus: et víncula nostræ pravitátis absólvat, et tuæ nobis misericórdiæ dona concíliet.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Sap 3:1; 3:2; 3:3",
+    "Justórum ánimæ in manu Dei sunt, et non tanget illos torméntum malítiæ visi sunt óculis insipiéntium mori: illi autem sunt in pace.",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Sacro múnere satiáti, súpplices te, Dómine, deprecámur: ut, quod débitæ servitútis celebrámus offício, salvatiónis tuæ sentiámus augméntum.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/07-01t",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/07-01t:Lectio4:s/ Hic.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/07-01t:Lectio4:s/.* (?=Hic)//s s/$/~/",
+    "@Sancti/07-01t:Lectio5:s/ Hic est ille.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/07-01t:Lectio5:s/.* (?=Hic est ille)//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/07-01t:Lectio6"
+   ]
+  }
+ ]
+}

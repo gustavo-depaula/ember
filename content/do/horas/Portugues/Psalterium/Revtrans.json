@@ -1,0 +1,240 @@
+{
+ "sections": [
+  {
+   "name": "Pai nosso",
+   "lines": [
+    "$Pater noster",
+    ""
+   ]
+  },
+  {
+   "name": "Ave Maria",
+   "lines": [
+    "$Ave Maria",
+    ""
+   ]
+  },
+  {
+   "name": "Credo",
+   "lines": [
+    "$Credo",
+    ""
+   ]
+  },
+  {
+   "name": "Glória",
+   "lines": [
+    "&Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Omite-se Glória",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "name": "Dai-lhes, Senhor, o eterno descanso",
+   "lines": [
+    "$Requiem",
+    ""
+   ]
+  },
+  {
+   "name": "Aleluia",
+   "lines": [
+    "&Alleluia",
+    ""
+   ]
+  },
+  {
+   "name": "O Senhor esteja convosco",
+   "lines": [
+    "&Dominus_vobiscum",
+    ""
+   ]
+  },
+  {
+   "name": "Senhor, ouvi a minha oração",
+   "lines": [
+    "&Dominus_vobiscum",
+    ""
+   ]
+  },
+  {
+   "name": "Eu confesso",
+   "lines": [
+    "$Confiteor",
+    ""
+   ]
+  },
+  {
+   "name": "Compadeça-se de vós o Senhor omnipotente",
+   "lines": [
+    "$Misereatur",
+    ""
+   ]
+  },
+  {
+   "name": "Que o Senhor omnipotente",
+   "lines": [
+    "$Indulgentiam",
+    ""
+   ]
+  },
+  {
+   "name": "Abri, Senhor, os meus lábios",
+   "lines": [
+    "$Domine labia",
+    ""
+   ]
+  },
+  {
+   "name": "Deus, vinde em meu auxílio",
+   "lines": [
+    "$Deus in adjutorium",
+    ""
+   ]
+  },
+  {
+   "name": "E Vós, Senhor",
+   "lines": [
+    "$Tu autem",
+    ""
+   ]
+  },
+  {
+   "name": "Abri, Senhor, os meus lábios",
+   "lines": [
+    "$Aperi",
+    ""
+   ]
+  },
+  {
+   "name": "Bendigamos o Senhor",
+   "lines": [
+    "&Benedicamus_Domino",
+    ""
+   ]
+  },
+  {
+   "name": "E que as almas dos fiéis",
+   "lines": [
+    "$Fidelium animae",
+    ""
+   ]
+  },
+  {
+   "name": "Hino",
+   "lines": [
+    "Hymnus",
+    ""
+   ]
+  },
+  {
+   "name": "Salmo",
+   "lines": [
+    "Psalmus",
+    ""
+   ]
+  },
+  {
+   "name": "Oremos",
+   "lines": [
+    "Oremus",
+    ""
+   ]
+  },
+  {
+   "name": "Por Nosso Senhor Jesus",
+   "lines": [
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Por Nosso Senhor Jesus",
+   "lines": [
+    "$Per Dominum eiusdem",
+    ""
+   ]
+  },
+  {
+   "name": "Que convosco vive e reina",
+   "lines": [
+    "$Qui cum Patre",
+    ""
+   ]
+  },
+  {
+   "name": "Pelo mesmo Nosso Senhor Jesus Cristo",
+   "lines": [
+    "$Per eumdem",
+    ""
+   ]
+  },
+  {
+   "name": "Ó Vós, que viveis e reinais",
+   "lines": [
+    "$Qui vivis",
+    ""
+   ]
+  },
+  {
+   "name": "Que convosco vive e reina",
+   "lines": [
+    "$Qui tecum",
+    ""
+   ]
+  },
+  {
+   "name": "Sacrossanta",
+   "lines": [
+    "$Sacrosanctaea",
+    ""
+   ]
+  },
+  {
+   "name": "Vos louvamos",
+   "lines": [
+    "&teDeum",
+    ""
+   ]
+  },
+  {
+   "name": "Graças a Deus",
+   "lines": [
+    "$Deo gratias",
+    ""
+   ]
+  },
+  {
+   "name": "Leitura",
+   "lines": [
+    "Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Antest",
+   "lines": [
+    "Ante",
+    ""
+   ]
+  },
+  {
+   "name": "Oficio",
+   "lines": [
+    "Divinum Officium",
+    ""
+   ]
+  },
+  {
+   "name": "After",
+   "lines": [
+    "Depois"
+   ]
+  }
+ ]
+}

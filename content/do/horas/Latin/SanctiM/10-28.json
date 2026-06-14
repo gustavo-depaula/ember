@@ -1,0 +1,115 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/10-28",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/10-28",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pasc6-6:LectioJudae1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pasc6-6:LectioJudae2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pasc6-6:LectioJudae3:s/-13/-10/ s/.11.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Pasc6-6:LectioJudae3:s/9-/11-/ s/9 .*11/11/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/10-28:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@CommuneM/C1:Lectio5",
+    "(sed rubrica cisterciensis)",
+    "@CommuneCist/C1:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@CommuneM/C1:Lectio6",
+    "(sed rubrica cisterciensis)",
+    "@CommuneCist/C1:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@CommuneM/C1:Lectio7",
+    "(sed rubrica cisterciensis)",
+    "@CommuneCist/C1:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/10-28:Lectio7:s/Et quod.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/10-28:Lectio7:s/.*Et quod/Et quod/s s/$/~/",
+    "@Sancti/10-28:Lectio8:s/De fructu.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/10-28:Lectio8:s/.*De fructu/De fructu/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/10-28:Lectio9"
+   ]
+  }
+ ]
+}

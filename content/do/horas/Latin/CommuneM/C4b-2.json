@@ -1,0 +1,75 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@CommuneM/C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Missa",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@CommuneM/C4a",
+    "Prefatio=Apostolis",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio pro commemoratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@SanctiM/03-12",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@SanctiM/03-12",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@SanctiM/03-12",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@SanctiM/03-12"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "St. Theodore, Martyr",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "O God, Who surround and protect us with the glorious profession of blessed Theodore, Your Martyr, grant us to profit by imitating him and to rejoice in his intercession.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Accept, O Lord, the prayers and sacrificial gifts of Your faithful people, that, through these rites of love and devotion we may pass over to the glory of heaven.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Grant, we beseech You, O Lord, by the intercession of blessed Theodore, Your Martyr, that what we taste with our lips we may consume with a pure heart.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

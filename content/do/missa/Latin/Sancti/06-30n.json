@@ -1,0 +1,25 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "First Martyrs of the Church of Rome",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex optional;;2;;vide C3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C3;",
+    "Gloria"
+   ]
+  }
+ ]
+}

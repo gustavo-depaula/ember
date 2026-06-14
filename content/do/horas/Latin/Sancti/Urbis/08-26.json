@@ -1,0 +1,53 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-26",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Zephyrini Papæ et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C2-1b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2-1b;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/08-26:Lectio93",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/Urbis/05-30::s/Felix/Zephyrínus/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/Urbis/05-30"
+   ]
+  }
+ ]
+}

@@ -21,7 +21,6 @@ import { LiturgicalColorProvider } from './prayer/LiturgicalColorContext'
 import { LiturgicalPrayerBlock } from './prayer/LiturgicalPrayerBlock'
 import { OptionsBlock } from './prayer/OptionsBlock'
 import { PrayerTextBlock } from './prayer/PrayerTextBlock'
-import { ProperSlot } from './prayer/ProperSlot'
 import { ProseBlock } from './prayer/ProseBlock'
 import { SectionHeading } from './prayer/SectionHeading'
 import { SectionMarker } from './prayer/SectionMarker'
@@ -231,8 +230,6 @@ function renderContainer(
 
 function renderInteraction(p: Extract<Primitive, { type: 'interaction' }>, practiceId: string) {
   switch (p.kind) {
-    case 'proper':
-      return <ProperSlot slot={p.slot} form={p.form} description={p.description} />
     case 'offering':
       return (
         <RenderedOfferingBlock

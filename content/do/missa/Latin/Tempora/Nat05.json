@@ -1,0 +1,30 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ad Romános, cap. 8",
+    "(sed rubrica 1955 aut rubrica 196)",
+    "Die Quinta Januarii",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1;;vide Sancti/01-01",
+    "(sed rubrica 1955 aut rubrica 196)",
+    ";;Feria;;1.2;;vide Sancti/01-01",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide Sancti/01-01",
+    "Prefatio=Nat",
+    "Gloria"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Pedro Crisólogo, Bispo Confessor e Doutor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 04 XII – S. Pedro Crisólogo, Bispo Confessor e Doutor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Pedro Crisólogo",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C4a:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que para governar e instruir a vossa Igreja Vos dignastes escolher o B. Pedro Crisólogo, egrégio Doutor, o qual nos foi indicado por uma forma divina, concedei-nos, Vos imploramos, que assim como o tivemos como Doutor na terra, assim também mereçamos alcançar a sua intercessão nos céus.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4a:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Sb 44:16",
+    "Eis o grande sacerdote que nos dias da sua vida agradou a Deus.",
+    "!Sl 44:20",
+    "Ninguém o igualou na observância das leis do Altíssimo. Aleluia, aleluia.",
+    "!Sl 109:4",
+    "Tu és sacerdote para sempre, segundo a ordem de Melquisedeque. Aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4a:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4a:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Mt 25:20; 25:21",
+    "Senhor, entregastes-me cinco talentos; eis aqui outros cinco que lucrei. «Está bem, servo bom e fiel; visto que foste fiel em pouca cousa, Eu te colocarei sobre muitas; entra na glória do teu Senhor»."
+   ]
+  }
+ ]
+}

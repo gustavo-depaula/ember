@@ -1,0 +1,41 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Commune Unius non Virginis Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Missa",
+   "lines": [
+    "Me exspectaverunt (altera)",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "Aleluia, aleluia.",
+    "!Sl 44:5",
+    "Caminhai, pois, com beleza e com majestade; ide gozar a vitória e reinai. Aleluia.",
+    "V. Por causa da vossa verdade, mansidão e justiça, a vossa dextra praticará maravilhas. Aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C6::s/Virgem // s/N\\./N./",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C6::s/Virgem // s/N\\./N./"
+   ]
+  }
+ ]
+}

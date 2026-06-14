@@ -1,0 +1,36 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Felicis I Papæ et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Felícis",
+    "(sed communi Summorum Pontificum)",
+    "Felícem",
+    "Secreta=Felícis",
+    "Postcommunio=Felíce"
+   ]
+  }
+ ]
+}

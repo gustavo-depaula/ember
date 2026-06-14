@@ -1,0 +1,26 @@
+{
+ "sections": [
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4a;",
+    "Gloria",
+    "CredoDA",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Gregori",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4a:Lectio1"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "Commune unius Summi Pontificis et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C2",
+    "Prefatio=Apostolis",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "Gregem tuum, Pastor ætérne, placátus inténde: et, per beátum N. Mártyrem tuum atque Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio pro commemoratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "Deus, qui Ecclésiam tuam, in apostólicæ petræ soliditáte fundátam, ab infernárum éruis terróre portárum: præsta, quǽsumus; ut, intercedénte beáto N. Mártyre tuo atque Summo Pontífice, in tua veritáte persístens, contínua securitáte muniátur.",
+    "$Per Dominum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta pro commemoratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio pro commemoratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "Multíplica, quǽsumus, Dómine, in Ecclésia tua spíritum grátiæ, quem dedísti: ut beáti N. Mártyris tui atque Summi Pontíficis deprecatióne nec pastóri obœdiéntia gregis nec gregi desit cura pastóris.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

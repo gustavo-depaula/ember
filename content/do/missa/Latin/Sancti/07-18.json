@@ -1,0 +1,99 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Camilli de Lellis Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5",
+    "(sed rubrica innovata)",
+    ";;Duplex optional;;2;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Joann 15:13",
+    "v. Majórem hac dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis.",
+    "!Ps 40:2",
+    "Beátus, qui intéllegit super egénum et páuperem: in dic mala liberábit eum Dóminus.",
+    "&Gloria",
+    "v. Majórem hac dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui sanctum Camíllum, ad animárum in extrémo agóne luctántium subsídium, singulári caritátis prærogatíva decorásti: ejus, quǽsumus, méritis, spíritum nobis tuæ dilectiónis infúnde; ut in hora éxitus nostri hostem víncere, et ad cœléstem mereámur corónam perveníre.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Tempora/Pent02-0",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C5-1",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C1v",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C5-1",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Hóstia immaculáta, qua illud Dómini nostri Jesu Christi imménsæ caritátis opus renovámus, sit, Deus Pater omnípotens, sancto Gamíllo intercedénte, contra omnes córporis et animæ infirmitates salutáre remedium, et in extrémo agóne solátium et tutéla.",
+    "$Per eundem",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Matt 25:36; 25:40",
+    "Infírmus fui, et visitástis me. Amen, amen, dico vobis: Quámdiu fecístis uni ex his frátribus meis minimis, mihi fecístis.",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Per hæc cœléstia aliménta, quæ, sancti Camílli Confessóris tui sollémnia celebrántes, pia devotióne suscépimus: da, quǽsumus. Dómine; ut, in hora mortis nostræ sacraméntis refécti et culpis ómnibus expiáti, in sinum misericórdiæ tuæ læti súscipi mereámur:",
+    "$Qui vivis"
+   ]
+  }
+ ]
+}

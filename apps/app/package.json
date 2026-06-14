@@ -8,7 +8,6 @@
     "ios": "expo run:ios",
     "ios:dev": "APP_VARIANT=development expo run:ios --device",
     "web": "expo start --web",
-    "parse-propers": "tsx scripts/parse-do-propers.ts",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "maestro test .maestro/config.yaml"
@@ -84,7 +83,8 @@
     "react-native-zoom-toolkit": "^5.0.1",
     "snowball-stemmers": "^0.6.0",
     "tamagui": "2.0.0-rc.31",
-    "zustand": "^5.0.12"
+    "zustand": "^5.0.12",
+    "@ember/divinum-officium": "workspace:*"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",

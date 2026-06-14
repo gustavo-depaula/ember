@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent14-0:Lectio7:s/Mammon.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent14-0:Lectio7:s/.* Mammon/Mammon/s s/$/~/",
+    "@Tempora/Pent14-0:Lectio8:s/Of.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent14-0:Lectio8:s/.* Of/Of/s s/$/~/",
+    "@Tempora/Pent14-0:Lectio9:s/“Therefore,.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pent14-0:Lectio9:s/.* “Therefore,/“Therefore,/s"
+   ]
+  }
+ ]
+}

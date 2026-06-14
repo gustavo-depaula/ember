@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Commune/C1:Lectio4 in 2 loco:s/There .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Commune/C1:Lectio4 in 2 loco:s/.* There /There /s s/$/~/",
+    "@Commune/C1:Lectio5 in 2 loco:s/Let us .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Commune/C1:Lectio5 in 2 loco:s/.* Let us /Let us /s s/$/~/",
+    "@Commune/C1:Lectio6 in 2 loco:s/So, not .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Commune/C1:Lectio6 in 2 loco:s/.* So, not /So, not /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/02-24:Lectio7:s/Take .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/02-24:Lectio7:s/.* Take /Take /s s/$/~/",
+    "@Sancti/02-24:Lectio8:s/The greater .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/02-24:Lectio8:s/.* The greater /The greater /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/02-24:Lectio9"
+   ]
+  }
+ ]
+}

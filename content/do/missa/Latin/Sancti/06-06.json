@@ -1,0 +1,41 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Norberti Episcopi et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Norbértum",
+    "Postcommunio=Norbérto",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátum Norbértum Confessórem tuum atque Pontíficem verbi tui præcónem exímium effecísti, et per eum Ecclésiam tuam nova prole fœcundásti: præsta, quǽsumus; ut, ejúsdem suffragántibus méritis, quod ore simul et ópere dócuit, te adjuvánte, exercére valeámus.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

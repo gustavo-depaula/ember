@@ -1,0 +1,73 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Leonis Papæ et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.2;;vide C4b",
+    "(sed rubrica cisterciensis)",
+    ";;Commemoratio;;1;;vide C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4b;",
+    "9 lectiones",
+    "commemoratio3",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Leónem",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "nisi communi Summorum Pontificum",
+   "lines": [
+    "Deus, qui beátum Leónem Pontíficem sanctórum tuórum méritis coæquásti: concéde propítius; ut, qui commemoratiónis ejus festa percólimus, vitæ quoque imitémur exémpla.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "Leo secúndus, Póntifex máximus, Sículus, humánis et divínis lítteris Græce et Latíne doctus, músicis étiam erudítus fuit; ipse enim sacros Hymnos et Psalmos in Ecclésia ad concéntum meliórem redúxit. Probávit acta sextæ Synodi, quæ Constantinópoli celebráta est, præsidéntibus legátis apostólicæ Sedis, præsénte quoque Constantíno imperatóre, et duobus patriárchis, Constantinopolitáno et Antiochéno, ac centum septuagínta epíscopis; quam et in Latínum tránstulit.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "In eo concílio Cyrus, Sergius et Pyrrhus condemnáti sunt, unam tantúmmodo voluntátem et operatiónem in Christo prædicántes. Hic fregit supérbiam antístitum Ravennátum, qui, exarchórum freti poténtia, Sedi apostólicæ non obtemperábant. Quam ob rem decrévit ut eléctio cleri Ravennátis írrita esset, nisi Románi Pontíficis auctoritáte comprobarétur.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "Vere pater páuperum fuit; non enim pecúnia solum, sed opera, labóre et consíliis, egéntium viduárum et pupillórum inópiam ac solitúdinem sublevábat. Qui, dum síngulos non magis prædicatióne quam vita ad pie sanctéque vivéndum adhortarétur, obdormívit in Dómino mense sui pontificátus undécimo, quinto Nonas Julii, anno sexcentésimo octogésimo tertio, sepultúsque est in basilica sancti Petri. Ordinatióne una, mense Junio, creávit presbýteros novem, diáconos tres, epíscopos divérsis in locis vigínti tres.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio94",
+   "lines": [
+    "Leo secúndus, Sículus, humánis et divínis lítteris Græce et Latíne doctus, músicis étiam erudítus fuit; ipse enim sacros Hymnos et Psalmos in Ecclésia ad concéntum meliórem redúxit. Probávit acta sextæ Synodi, quæ, præsidéntibus legátis apostólicæ Sedis, Constantinópoli celebráta est; quam et in Latínum tránstulit. In eo Concílio Cyrus, Sérgius et Pyrrhus condemnáti sunt, unam tantúmmodo voluntátem et operatiónem in Christo prædicántes. Vere pater páuperum fuit; non enim pecúnia solum, sed opera, labóre et consíliis egéntium viduárum et pupillórum inópiam et solitúdinem sublevábat. Obdormívit in Dómino mense sui pontificátus undécimo, quinto Nonas Júlii, anno sexcentésimo octogésimo tértio, sepultúsque est in basílica sancti Petri.",
+    "&teDeum"
+   ]
+  }
+ ]
+}

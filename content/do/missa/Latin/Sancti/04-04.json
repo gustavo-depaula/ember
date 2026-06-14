@@ -1,0 +1,39 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Isidori Episcopi Confessoris et Ecclesiæ Doctoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4a",
+    "(sed rubrica 1960 aut rubrica innovata)",
+    ";;Duplex;;2.1;;vide C4a",
+    "(sed rubrica 1963)",
+    ";;Simplex;;1.1;;vide C4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4a;",
+    "Gloria",
+    "CredoDA",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Isidórum",
+    "Secreta=Isidóri",
+    "Postcommunio=Isidórus"
+   ]
+  }
+ ]
+}

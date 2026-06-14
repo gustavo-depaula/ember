@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc5-4",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria V infra Hebdomadam post Ascensionem",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Tempora/Pasc5-4;",
+    "Gloria",
+    "Suffr=Maria3;Ecclesiæ,Papa;;"
+   ]
+  }
+ ]
+}

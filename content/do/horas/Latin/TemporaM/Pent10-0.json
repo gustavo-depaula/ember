@@ -1,0 +1,235 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent10-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pent10-0::s/34/33/ s/.34 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent10-0::s/34/31/ s/.32 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio1:2-8 s/29-34/34-37/ s/29 .*34/34/s",
+    "@Tempora/Pent10-0:Lectio2:s/!.*// s/1 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio1:2 s/29-34/32-33/ ",
+    "@Tempora/Pent10-0:Lectio1:6-7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio2:s/9:35-37; // s/35 .*1 /1 /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio1:2 s/29-34/34-36/ ",
+    "@Tempora/Pent10-0:Lectio1:8",
+    "@Tempora/Pent10-0:Lectio2:2-3:s/Et ait.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio1:2 s/29-34/36-37/ ",
+    "@Tempora/Pent10-0:Lectio2:3-4:s/.* (Et ait)/36 $1/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@Tempora/Pent03-1Feria:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio4:s/Neque enim.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Tempora/Pent10-0:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio4:s/.* (Neque enim)/$1/s s/$/~/",
+    "@Tempora/Pent10-0:Lectio5:s/Sed dices.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Tempora/Pent10-0:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio6:s/exiérunt. .*/exiérunt./",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio5:s/.*(Sed dices)/$1/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Tempora/Pent10-0:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio6:s/.* exiérunt. //",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio6:s/exiérunt. .*/exiérunt./",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@Tempora/Pent01-3:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Tempora/Pent01-3:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio8:s/ Publicánus.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Tempora/Pent01-3:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio8:s/.*? Publicánus/Publicánus/ s/$/~/",
+    "@Tempora/Pent10-0:Lectio9:s/Adhuc .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@Tempora/Pent03-2Feria:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pent10-0:Lectio9:s/.*? Adhuc/Adhuc/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Tempora/Pent01-0:Responsory8"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Vincentii a Paulo Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5-1",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Vincéntium",
+    "Postcommunio=Vincéntio",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui, ad evangelizándum paupéribus et ecclesiástici órdinis decórem promovéndum, beátum Vincéntium apostólica virtúte roborásti: præsta, quǽsumus; ut, cujus pia mérita venerámur, virtútum quoque instruámur exémplis.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/02-06"
+   ]
+  }
+ ]
+}

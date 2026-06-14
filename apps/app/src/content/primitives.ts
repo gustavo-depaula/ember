@@ -242,13 +242,6 @@ export type ContainerPrimitive = {
 export type InteractionPrimitive =
   | {
       type: 'interaction'
-      kind: 'proper'
-      slot: string
-      form: 'of' | 'ef'
-      description: BilingualText
-    }
-  | {
-      type: 'interaction'
       kind: 'offering'
       mode: 'intercessory' | 'thanksgiving' | 'both'
       default: 'pinned' | 'all-active' | 'user-pick'

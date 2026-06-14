@@ -1,0 +1,19 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/12-28",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    "Credo",
+    "Prefatio=Nat"
+   ]
+  }
+ ]
+}

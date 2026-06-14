@@ -1,0 +1,190 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@SanctiM/12-24",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "Psalmi Dominica",
+    "no commemoratio",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@TemporaM/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@TemporaM/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@TemporaM/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@TemporaM/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@TemporaM/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@TemporaM/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@Tempora/Adv1-2:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/12-24:Lectio1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/12-24:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/12-24:Lectio2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/12-24:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/12-24:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@Sancti/12-24:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@SanctiM/03-19",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "R. Nascétur nobis párvulus, et vocábitur Deus, Fortis: † Ipse sedébit super thronum David patris sui, et imperábit: ",
+    "* Cujus potéstas super húmerum ejus.",
+    "V. Multiplicábitur ejus impérium, † et pacis non erit finis.",
+    "R. Cujus potéstas super húmerum ejus."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/03-07",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica 1963",
+   "lines": [
+    "scriptura1960"
+   ]
+  }
+ ]
+}

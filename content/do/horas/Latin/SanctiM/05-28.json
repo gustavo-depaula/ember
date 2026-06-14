@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/05-28",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@CommuneM/C5"
+   ]
+  }
+ ]
+}

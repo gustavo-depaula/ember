@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@SanctiM/02-05",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    "S. Agathæ Virginis et Martyris;;Duplex majus;;5;;ex C6",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C6;",
+    "12 lectiones",
+    "in 1 Nocturno Lectiones ex Commune in 2 loco;",
+    "in 3 Nocturno Lectiones ex Commune in 3 loco;"
+   ]
+  }
+ ]
+}

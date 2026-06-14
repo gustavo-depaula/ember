@@ -1,0 +1,55 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Agapiti Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2a-1;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Lætétur Ecclésia tua, Deus, beáti Agapíti Mártyris tui confísa suffrágiis: atque, ejus précibus gloriósis, et devóta permáneat et secúra consístat.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/02-01",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Súscipe, Dómine, múnera, quæ in ejus tibi sollemnitáte deférimus: cujus nos confídimus patrocínio liberári.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C6a"
+   ]
+  }
+ ]
+}

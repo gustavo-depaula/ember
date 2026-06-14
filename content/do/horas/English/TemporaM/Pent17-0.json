@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent17-0:Lectio7:s/, but what.*/./s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent17-0:Lectio7:s/.*, but what/But what/s"
+   ]
+  }
+ ]
+}

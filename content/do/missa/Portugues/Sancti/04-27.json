@@ -1,0 +1,90 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Pedro Canísio, Confessor e Doutor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 27 IV – S. Pedro Canísio, Confessor e Doutor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Pedro",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C4a:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que revestistes o B. Pedro, vosso Confessor, com os dons da virtude e da ciência para a defesa da fé católica, concedei-nos propício que seus exemplos e ensinos atraiam ao caminho da salvação aqueles que caíram no erro e façam perseverar os fiéis na confissão da verdade.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4a:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C4a:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "@Commune/C4a:GradualeP",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "lines": [
+    "@Commune/C4a:Tractus",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4a:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4a:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4a:Communio"
+   ]
+  }
+ ]
+}

@@ -1,4 +1,5 @@
 import type { ContentLanguage } from '@ember/content-engine'
+import { type DoVersionId, doVersionNames } from '@ember/divinum-officium'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
@@ -37,6 +38,8 @@ type PreferencesState = {
   psalterCycle: PsalterCycle
   language: string
   liturgicalCalendar: LiturgicalCalendarForm
+  // Divinum Officium rubric version for the EF Mass and breviary hours.
+  doVersion: DoVersionId
   jurisdiction: string | undefined
   timeTravelDate: string | undefined
   persistedTimeTravelDate: string | undefined
@@ -69,6 +72,7 @@ type PreferencesState = {
   setPsalterCycle: (cycle: PsalterCycle) => void
   setLanguage: (language: string) => void
   setLiturgicalCalendar: (form: LiturgicalCalendarForm) => void
+  setDoVersion: (version: DoVersionId) => void
   setJurisdiction: (jurisdiction: string | undefined) => void
   setTimeTravelDate: (date: string | undefined) => void
   setTimeTravelDateEphemeral: (date: string | undefined) => void
@@ -100,6 +104,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     psalterCycle: '30-day',
     language: 'en-US',
     liturgicalCalendar: 'of',
+    doVersion: 'rubrics-1960',
     jurisdiction: undefined,
     timeTravelDate: undefined,
     persistedTimeTravelDate: undefined,
@@ -122,6 +127,13 @@ export const usePreferencesStore = create<PreferencesState>()(
         state.translation = translation
       })
       setPreference('translation', translation)
+    },
+
+    setDoVersion: (version) => {
+      set((state) => {
+        state.doVersion = version
+      })
+      setPreference('do-version', version)
     },
 
     setPsalterCycle: (cycle) => {
@@ -291,6 +303,10 @@ export const usePreferencesStore = create<PreferencesState>()(
         if (prefs.language) state.language = prefs.language
         const cal = prefs['liturgical-calendar']
         if (cal === 'of' || cal === 'ef') state.liturgicalCalendar = cal
+        const dov = prefs['do-version']
+        if (dov && dov in doVersionNames) {
+          state.doVersion = dov as DoVersionId
+        }
         if (prefs.jurisdiction) state.jurisdiction = prefs.jurisdiction
         if (prefs['time-travel-date']) {
           state.timeTravelDate = prefs['time-travel-date']

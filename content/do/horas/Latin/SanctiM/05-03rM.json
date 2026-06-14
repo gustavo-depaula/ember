@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/05-03r",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Alexándri, Evéntii et Theodúli Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C3",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/05-03r::s/\\,?\\s(T\\w*)(\\,? \\w*)\\sJ\\w*/$2 $1/"
+   ]
+  }
+ ]
+}

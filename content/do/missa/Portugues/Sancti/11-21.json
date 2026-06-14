@@ -1,0 +1,37 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "In Presentatione Beatae Mariae Virginis;;Duplex majus;;4;;ex C11",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C11;",
+    "Gloria",
+    "Credo",
+    "Prefatio=Maria=Presentatione",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 21 XI – Apresentação da B. V. Maria",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que quisestes que a B. V. Maria, em quem habitava o Espírito Santo, fosse neste dia apresentada no templo, permiti pela sua intercessão que mereçamos ser apresentados no templo da vossa glória.",
+    "$Per Dominum ejusdem"
+   ]
+  }
+ ]
+}

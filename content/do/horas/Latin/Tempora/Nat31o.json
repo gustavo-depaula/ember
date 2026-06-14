@@ -1,0 +1,75 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Nat31",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "Dec 31 always has Romans 2, with S. Silvester Responsories.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Tempora/Nat30",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Commune/C4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Tempora/Nat30",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Commune/C4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Tempora/Nat30",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Commune/C4",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio 2",
+   "condition": "rubrica tridentina nisi rubrica altovadensis",
+   "lines": [
+    "@Sancti/12-26:Octava",
+    "@Sancti/12-27:Octava",
+    "@Sancti/12-28:Octava"
+   ]
+  }
+ ]
+}

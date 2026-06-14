@@ -1,0 +1,38 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ad Romános, cap. 5",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1;;vide Sancti/01-01",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Nat02",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Nat02",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Nat02"
+   ]
+  }
+ ]
+}

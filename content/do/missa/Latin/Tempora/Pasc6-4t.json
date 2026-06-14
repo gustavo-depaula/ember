@@ -1,0 +1,26 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria V in Octava Ascensionis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex majus;;4.1;;ex Tempora/Pasc5-4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Tempora/Pasc5-4;",
+    "Gloria",
+    "Suffr=Maria3;Ecclesiæ,Papa;;"
+   ]
+  }
+ ]
+}

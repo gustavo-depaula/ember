@@ -1,0 +1,16 @@
+{
+ "sections": [
+  {
+   "name": "Ante et Post Divinum Officium",
+   "lines": [
+    "#Ante Divinum Officum",
+    "$rubrica Ante",
+    "$Ante",
+    "",
+    "#Post Divinum Officum",
+    "$rubrica Post",
+    "$Post"
+   ]
+  }
+ ]
+}

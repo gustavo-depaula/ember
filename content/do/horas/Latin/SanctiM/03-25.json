@@ -1,0 +1,193 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/03-25",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "Doxology=Nat",
+    "Ant Matutinum 12 special",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera",
+   "lines": [
+    "R.br. Ángelus Dómini * Nuntiávit Maríæ.",
+    "R. Ángelus Dómini * Nuntiávit Maríæ.",
+    "V. Et concépit de Spíritu Sancto.",
+    "R. Nuntiávit Maríæ.",
+    "&Gloria",
+    "R. Ángelus Dómini * Nuntiávit Maríæ.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera 1",
+   "condition": "rubrica Barroux",
+   "lines": [
+    "@Sancti/03-25:Responsory8:1-2",
+    "V. Gabriélem Archángelum scimus divínitus te esse affátum: úterum tuum de Spíritu Sancto crédimus impregnátum: erubéscat Judǽus ínfelix, qui dicit Christum ex Joseph sémine esse natum.",
+    "@Sancti/03-25:Responsory8:4",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum 3N",
+   "lines": [
+    "@:Ant 3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio1:2-5 s/-7/-3/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio1:2-9 s/1-/4-/ s/1.*4/4/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Quæ cum audísset, turbáta est in sermone ejus: † et cogitábat, qualis esset ista salutátio",
+    "* Et ait Angelus ei.",
+    "V. Ne tímeas Maria, invenísti enim grátiam apud Deum.",
+    "R. Et ait Angelus ei.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/03-25:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/03-25:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/03-25:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/03-25:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/03-25:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "R. Dixit autem María ad Angelum: † Quómodo fiet istud, quóniam virum non cognósco?",
+    "* Et respóndens Angelus dixit ei.",
+    "V. Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi.",
+    "R. Et respóndens Angelus dixit ei.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "Verax namque misericórdia Dei, cum ad reparándum humánum genus ineffabíliter ei multa suppéterent, hanc potíssimum consuléndi viam elégit, qua ad destruéndum opus diáboli non virtúte uterétur poténtiæ, sed ratióne justítiæ. Nam supérbia hostis antíqui non inmérito sibi in omnes hómines jus tyránnicum vindicábat, nec indébito dominátu premébat, quos a mandáto Dei spontáneos in obséquium suæ voluntátis illéxerat. Non ítaque juste amítteret originálem humáni géneris servitútem, nisi de eo quod subégerat vincerétur.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. Dixit autem María: Ecce ancílla Dómini:",
+    "* Fiat mihi secúndum verbum tuum.",
+    "V. Benedícta tu in muliéribus, et benedíctus fructus ventris tui.",
+    "R. Fiat mihi secúndum verbum tuum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/03-25:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "R. Beátam me dicent omnes generatiónes,",
+    "* Quia fecit mihi Dóminus magna qui potens est, † et sanctum nomen ejus.",
+    "V. Magníficat ánima mea Dóminum: † et exsultávit spíritus meus in Deo, salutári meo.",
+    "R. Quia fecit mihi Dóminus magna qui potens est, † et sanctum nomen ejus.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "Et bene utrúmque pósuit Scriptúra, ut et desponsáta esset, et virgo: virgo, ut expers virílis consórtii viderétur: desponsáta, ne temerátæ virginitátis adurerétur infámia, cujus gravis alvus corruptélæ viderétur insigne præférre. Máluit autem Dóminus áliquos de suo ortu quam de matris pudóre dubitáre. Sciébat enim téneram esse vírginis verecúndiam, et lúbricam famam pudóris: nec putávit ortus sui fidem matris injúriis adstruéndam.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/03-25:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/03-25:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@Sancti/03-25:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/03-25:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Sancti/03-25:Responsory8"
+   ]
+  }
+ ]
+}

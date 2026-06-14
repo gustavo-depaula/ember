@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Agathonis et Vitaliani Pontificum et Confessorum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide aliquibus locis/C4b-3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide aliquibus locis/C4b-3;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Agathónis et Vitaliáni",
+    "(sed communi summorum pontificum)",
+    "Agathónem et Vitaliánum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/Urbis/02-14-Agatho::s/$/~/",
+    "@Sancti/Urbis/02-14-Agatho:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/Urbis/02-14-Agatho:Lectio6:s/$~/",
+    "@Sancti/Urbis/01-27-Vitalianus:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/Urbis/01-27-Vitalianus:Lectio5:s/$/~/",
+    "@Sancti/Urbis/01-27-Vitalianus:Lectio6"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/07-01",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/07-01::s/Vis/Vultis/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5 finem",
+   "lines": [
+    "Mortuo enim, ait, Jesu, et adhuc in cruce pendente, approximat miles, latus lancea perciissit, et exinde aqua fluxit, et sanguis. Unum baptismatis symbolum, aliud sacramenti. Ideo non ait: Exiit sanguis et aqua; sed exiit aqua primum et sanguis, quia primum baptismate diliiimur, et postea mysterio dedicamur.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/07-01::s/Latus miles.*// s/$/~/",
+    "@:Lectio5 finem",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/07-01:Lectio5:s/.*(Latus)/$1/ s/$/~/",
+    "@Sancti/07-01::s/Recurrénte.*//"
+   ]
+  }
+ ]
+}

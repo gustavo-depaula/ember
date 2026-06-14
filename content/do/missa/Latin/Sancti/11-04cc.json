@@ -1,0 +1,55 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Mart. Vitalis et Agricolæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C3a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C3a;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Vitális et Agrícolæ",
+    "Secreta=Vitále et Agrícola",
+    "Postcommunio=Vitále et Agrícola",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Vitális et Agrícolæ sollémnia cólimus, eórum apud te intercessiónibus adjuvémur.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C3a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C3a-1"
+   ]
+  }
+ ]
+}

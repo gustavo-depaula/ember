@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Gorgonius, Martyr",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "May Gorgonius, Your Saint, O Lord, gladden us by his intercession, and cause us to rejoice on his festival which we are devoutly keeping.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "O Lord, may the offering which we, Your servants, present be pleasing to You because St. Gorgonius, Your Martyr, intercedes for us.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "May Your everlasting kindness fill Your faithful people with new life, and may they be ever refreshed by the good fragrance of Christ, your Son, through Gorgonius, Your Martyr.",
+    "$Qui vivis"
+   ]
+  }
+ ]
+}

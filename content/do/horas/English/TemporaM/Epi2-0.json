@@ -1,0 +1,81 @@
+{
+ "sections": [
+  {
+   "name": "Lectio4",
+   "lines": [
+    "!2 Cor 1:12-14",
+    "12 For our glory is this, the testimony of our conscience, that in simplicity of heart and sincerity of God, and not in carnal wisdom, but in the grace of God, we have conversed in this world: and more abundantly towards you.  ",
+    "13 For we write no other things to you than what you have read and known. And I hope that you shall know unto the end:",
+    "14 As also you have known us in part, that we are your glory, as you also are ours, in the day of our Lord Jesus Christ.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Keep me, as the apple of thy eye",
+    "* Protect me under the shadow of thy wings.",
+    "V. Shew forth thy wonderful mercies; thou who savest them that trust in thee.",
+    "R. Protect me under the shadow of thy wings.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Epi2-0:Lectio6:s/For the .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Epi2-0:Lectio6:s/.* For the /For the /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. Shew, O Lord, thy ways to me, and teach me thy paths. Direct me in thy truth, and teach me;",
+    "* For thou art God my Saviour; and on thee have I waited all the day long.",
+    "V. The sins of my youth and my ignorances do not remember, O Lord.",
+    "R. For thou art God my Saviour; and on thee have I waited all the day long.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Epi2-0:Lectio8:s/They also.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "R. You have afflicted us for our sins, every day we expect our end with tears; let the sorrows of our heart come before you O Lord",
+    "* That you may deliver us from the evils that have come upon us",
+    "V. O Lord God of Israel, hear our prayers, hearken unto the sorrows of our heart",
+    "R. That you may deliver us from the ills that are come upon us",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Epi2-0:Lectio8:s/.* They /They /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "R. My sins, O Lord, are fixed in me, like arrows, but before they caused wounds in me,",
+    "* Heal me, O God, with the medicine of repentance.",
+    "V. For I know my iniquity, * and my sin is always before me.",
+    "R. Heal me, O God, with the medicine of repentance."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/01-18",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "Psalmi Dominica",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Pasc5-0:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Dómine, † si tu es, jube me veníre ad te super aquas. Et exténdens manum apprehéndit eum,",
+    "* Et dixit Jesus : Modicæ fidei, quare dubitásti?",
+    "V. Cumque vidísset ventum válidum veniéntem, tímuit; et, cum cœpísset mergi, clamávit dicens: Dómine, salvum me fac.",
+    "R. Et dixit Jesus : Modicæ fidei, quare dubitásti?",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/01-18:Lectio4:s/ Cujus.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/01-18:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/01-18:Lectio4:s/.* Cujus/Cujus/s s/$/~/",
+    "@Sancti/01-18:Lectio5:s/ Ad .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/01-18:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/01-18:Lectio5:s/.*Ad /Ad /",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/01-18:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/01-18:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@SanctiM/06-29:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/01-18:Lectio7:s/ Sed .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/02-22:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/01-18:Lectio7:s/.* Sed /Sed /s s/$/~/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/02-22:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/01-18:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@SanctiM/06-29:Responsory11",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Commune/C6:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@Sancti/02-22",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@Sancti/02-22"
+   ]
+  }
+ ]
+}

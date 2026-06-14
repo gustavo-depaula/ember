@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/12-29",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Commune/C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Commune/C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "condition": "rubrica tridentina",
+   "lines": [
+    "@Commune/C2a"
+   ]
+  }
+ ]
+}

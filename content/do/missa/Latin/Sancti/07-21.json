@@ -1,0 +1,75 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Praxedis Virginis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C6a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6a;",
+    "Gloria",
+    "Evangelium non appropriatum",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Praxédis",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C6a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C7",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C6-1",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C6-1",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C6a-1"
+   ]
+  }
+ ]
+}

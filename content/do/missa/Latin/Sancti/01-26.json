@@ -1,0 +1,96 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Polycarpi Episcopi et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C2-1",
+    "(sed rubrica 1570 aut rubrica monastica aut rubrica 1962)",
+    ";;Simplex;;1.1;;vide C2-1",
+    "(sed rubrica 1617)",
+    ";;Semiduplex;;2.2;;vide C2-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2-1;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Polycárpi",
+    "Secreta=Polycárpo",
+    "Postcommunio=Polycárpo",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C2-1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "Léctio Epístolæ beáti Joánnis Apóstoli",
+    "!1 Joann 3:10-16",
+    "Caríssimi: Omnis qui non est justus, non est ex Deo, et qui non díligit fratrem suum: quóniam hæc est annuntiátio, quam audístis ab inítio, ut diligátis altérutrum. Non sicut Cain, qui ex malígno erat, et occídit fratrem suum. Et propter quid occídit eum? Quóniam ópera ejus malígna erant: fratris autem ejus justa. Nolíte mirári fratres, si odit vos mundus. Nos scimus quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres. Qui non díligit, manet in morte: omnis qui odit fratrem suum, homicída est. Et scitis, quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem. In hoc cognóvimus caritátem Dei, quóniam ille ánimam suam pro nobis pósuit: et nos debémus pro frátribus ánimas pónere.",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C2-1",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "lines": [
+    "@Commune/C2-1",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C2a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C2-1",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C2-1",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C2"
+   ]
+  }
+ ]
+}

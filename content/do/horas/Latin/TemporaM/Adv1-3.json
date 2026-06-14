@@ -1,0 +1,51 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Adv1-3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Adv1-3::1-5:s/-4/-3/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Adv1-3::s/\\n7 / ¶\\n7 /",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Adv1-3:Lectio2:1:s/5-7/4-5/",
+    "@Tempora/Adv1-3:Lectio1:6",
+    "@Tempora/Adv1-3::2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Adv1-3:Lectio2:1:s/5-/6-/",
+    "@Tempora/Adv1-3:Lectio2:3-4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@Tempora/Adv1-4:Responsory3"
+   ]
+  }
+ ]
+}

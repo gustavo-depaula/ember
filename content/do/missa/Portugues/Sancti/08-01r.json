@@ -1,0 +1,90 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S.S. Macabeus, Mártires",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 1 VIII – S.S. Macabeus, Mártires",
+    "! Comemoração",
+    "! Paramentos vermelhos",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Sancti/03-10:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Fazei, Senhor, que a vitória destes irmãos Mártires nos alegre, proporcionando à nossa fé aumento de vigor; e que nos sirva de consolação pela sua múltipla intercessão.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Sancti/01-20:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Sl 132:1-2",
+    "Oh! como é bom e suave que os irmãos habitem juntos!",
+    "V. É como o perfume suave espalhado na cabeça de Aarão, e que corre pela barba: pela barba de Aarão. Aleluia, aleluia.",
+    "V. Esta é a verdadeira fraternidade que venceu os crimes do mundo: ela seguiu Cristo e por isso possuirá gloriosamente o reino do céu. Aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C3a-1:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "!Sl 149:5-6",
+    "Os santos na glória exultarão de prazer, e nos seus aposentos terão a maior alegria. Os louvores com que exaltam a Deus, estarão sempre em seus lábios, aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Que nós possamos, Senhor, celebrar com devoção os vossos sagrados mystérios em honra dos vossos Mártires, a fim de que sintamos aumentar o vosso auxílio e a nossa alegria.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Lc 12:4",
+    "Digo-vos, pois, a vós meus amigos: não tenhais medo daqueles que vos perseguem.",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Concedei-nos, ó Deus omnipotente, que imitemos em nossos progressos na fé aquele cuja memória honrámos, participando deste sacramento.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

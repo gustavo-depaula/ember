@@ -1,0 +1,93 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Martinho, Bispo e Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 10 XI – S. Martinho, Bispo e Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que bem conheceis que não é pelo nosso poder que subsistimos, concedei-nos propício que, pela intercessão do B. Martinho, vosso Confessor e Pontífice, sejamos protegidos contra todas as adversidades.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Sb 44:16",
+    "Eis o grande sacerdote que nos dias da sua vida agradou a Deus.",
+    "!Sb 44:20",
+    "Ninguém o igualou na observância das leis do Altíssimo. Aleluia, aleluia.",
+    "V. O bem-aventurado varão Martinho, Bispo de Tours, dormiu no Senhor: e os Anjos, os Arcanjos, os Tronos, as Dominações e as Virtudes o acolheram. Aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "Continuação ++ do santo Evangelho segundo S. Lucas.",
+    "!Lc 11:33-36",
+    "Naquele tempo, disse Jesus aos seus discípulos: «Ninguém acende uma lâmpada para a colocar num lugar oculto ou sob um alqueire; mas coloca-a sobre o candelabro, para que aqueles que entrarem vejam a luz. A lâmpada do teu corpo é o teu olho. Se o teu olho for simples, todo teu corpo será luminoso; mas se ele for mau, também o teu corpo será tenebroso. Tem, pois, cuidado de que a luz, que está em ti, não se torne em trevas. Se, portanto, todo teu corpo for luminoso sem parte alguma nas trevas, será ele brilhante, como quando uma lâmpada te ilumina com seu brilho».",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "!Sl 88:25",
+    "A minha fidelidade e a minha misericórdia estarão com ele; e o seu poder elevar-se-á pelo meu nome.",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Ó Senhor e Deus, santificai, Vos rogamos, estes dons que Vos oferecemos na solenidade do Santo Bispo Martinho, vosso Mártir, a fim de que, graças a eles, a nossa vida se regule segundo a vossa vontade, tanto nas adversidades, como nas prosperidades.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Mt 24:46-47",
+    "Bem-aventurado o servo que, quando o Senhor vier, encontrar vigilante. Em verdade vos digo que o encarregará de administrar todos seus bens.",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Fazei, Senhor, nosso Deus, que nos sejam salutares estes sacrossantos sacramentos, pela intercessão daqueles em cuja festa Vo-los apresentamos.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

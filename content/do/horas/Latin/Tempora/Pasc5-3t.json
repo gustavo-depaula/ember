@@ -1,0 +1,32 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc5-3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Pasc4-0:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Pasc4-0:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio 2",
+   "lines": [
+    "Deus, a quo bona cuncta procédunt, largire supplicibus tuis: ut cogitemus, te inspirante, quæ recta sunt; et, te gubernante, eadem faciámus.",
+    "$Per Dominum."
+   ]
+  }
+ ]
+}

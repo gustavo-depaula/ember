@@ -1,0 +1,47 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/08-22t:Lectio4:s/ But.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-22t:Lectio4:s/.* (?=But)//s s/$/~/",
+    "@Sancti/08-22t:Lectio5:s/ Again.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-22t:Lectio5:s/.* (?=Again)//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/08-22t:Lectio7:s/ Nor.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/08-22t:Lectio7:s/.* (?=Nor)//s s/$/~/",
+    "@Sancti/08-22t:Lectio8:s/ But .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/08-22t:Lectio8:s/.* (?=But)//"
+   ]
+  }
+ ]
+}

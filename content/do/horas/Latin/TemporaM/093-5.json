@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/093-5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12C",
+   "lines": [
+    "@Tempora/093-0:Responsory1"
+   ]
+  }
+ ]
+}

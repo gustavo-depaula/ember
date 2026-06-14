@@ -19,6 +19,7 @@ import type {
   ChapterManifest,
   CollectionItemManifest,
   CreatorManifest,
+  DoDataItemManifest,
   LangSplitItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
@@ -104,6 +105,15 @@ const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
   'of-ordinary': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
   'of-preface': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
   'of-eucharistic-prayer': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
+  'do-data': (body, add) => {
+    const m = body as DoDataItemManifest
+    if (m.localized === true) {
+      for (const langs of Object.values(m.files)) for (const ref of Object.values(langs)) add(ref)
+    } else if (m.localized === false) {
+      for (const ref of Object.values(m.files)) add(ref)
+    }
+    return []
+  },
 }
 
 function addLangSplit(

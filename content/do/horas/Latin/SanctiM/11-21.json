@@ -1,0 +1,68 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/11-21",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "(nisi rubrica 1963) 12 lectiones",
+    "Doxology=Nat",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "condition": "rubrica 1963",
+   "lines": [
+    "@Commune/C11:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/11-21:Lectio4:s/ In lucem.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/11-21:Lectio4:s/.* (?=In lucem)//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/11-21:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@CommuneM/C11",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/11-21:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Commune/C11:Responsory7:s/festivitátem/Præsentatiónem/"
+   ]
+  }
+ ]
+}

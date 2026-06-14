@@ -130,14 +130,15 @@ function PracticeReady({
   const queryClient = useQueryClient()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const translation = usePreferencesStore((s) => s.translation)
+  const doVersion = usePreferencesStore((s) => s.doVersion)
   const preprocessCtx = useMemo(
     () => ({
       queryClient,
-      prefs: { lang: contentLanguage, translation },
+      prefs: { lang: contentLanguage, translation, doVersion },
       date: now,
       programDay,
     }),
-    [queryClient, contentLanguage, translation, now, programDay],
+    [queryClient, contentLanguage, translation, doVersion, now, programDay],
   )
 
   return (

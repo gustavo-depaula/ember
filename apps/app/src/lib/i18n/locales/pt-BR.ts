@@ -839,6 +839,7 @@ export default {
     jurisdictionUniversal: 'Universal',
     jurisdictionBR: 'Brasil',
     jurisdictionUS: 'Estados Unidos',
+    doVersion: 'Rúbricas do Breviário e Missa FE',
     timeTravel: 'Viagem no Tempo',
     timeTravelDescription: 'Visualize o app como ele apareceria em uma data específica.',
     timeTravelPick: 'Escolher data',

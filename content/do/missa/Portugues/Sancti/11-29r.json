@@ -1,0 +1,43 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Saturnino, Mártir",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 29 XI – S. Saturnino, Mártir",
+    "! Wspomnienie",
+    "! Paramentos vermelhos",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que nos permitistes a alegria de celebrarmos o aniversário do nascimento do vosso B. Mártir Saturnino, concedei-nos ainda que sejamos auxiliados pelos seus méritos.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Santificai, Senhor, estas ofertas, que Vos dedicamos, e por intercessão do B. Saturnino, vosso Mártir, olhai aplacado para nós.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Senhor, Vos suplicamos, permiti que a recepção do vosso sacramento nos santifique e que por intercessão dos vossos santos nos alcance a graça de Vos agradarmos.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

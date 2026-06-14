@@ -1,0 +1,233 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "nisi rubrica 1963",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera",
+   "lines": [
+    "@Sancti/06-30::s/$/_/gm s/_/;;109/ s/_/;;112/ s/_/;;115/ s/_/;;138/ s/_//",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Vespera",
+   "lines": [
+    "@:HymnusM Matutinum",
+    ""
+   ]
+  },
+  {
+   "name": "AntMatutinumM",
+   "lines": [
+    "Ter virgis cæsus sum, * semel lapidátus sum, ter naufrágium pértuli pro Christo Dómino.;;97",
+    "Grátia Dei * sum id quod sum: et grátia ejus in me vácua non fuit.;;98",
+    "Súfficit tibi, * Paule, grátia mea: nam virtus mea in infirmitáte perfícitur.;;100",
+    "Ecce ego † mitto vos sicut oves in médio lupórum, dicit Dóminus: estóte ergo prudéntes sicut serpéntes, et símplices sicut colúmbæ.;;253;254;255",
+    "Vade, Ananía, * et quære Saulum, ecce enim orat; quia vas electiónis est mihi, ut portet nomen meum coram géntibus et régibus et fíliis Israël.;;253;254;255",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "condition": "nisi rubrica 1963",
+   "lines": [
+    "@Sancti/06-30::1-6",
+    "@Sancti/06-30::7-9 s/96/95/ s/98/96/",
+    "@:AntMatutinumM::1-3",
+    "@:AntMatutinumM::4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/06-30::1-4 s/-8/7/]",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/06-30:Lectio2:!2-4 s/5-8/8-11/",
+    "@Sancti/06-30::2-4 s/\\. Et.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/06-30:Lectio3:!2-3 s/9-/11-/ s/ .*?(?= Et)//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Audístis enim † conversatiónem meam aliquándo in Judaísmo: quóniam proficiébam.",
+    "* Supra multos coætáneos meos in génere meo. ",
+    "V. Abundántius æmulátor exsístens paternárum meárum traditiónum.",
+    "R. Supra multos coætáneos meos in génere meo. ",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/06-30:Lectio4:s/ Dénique.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/06-30:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/06-30:Lectio4:s/.* (?=Dénique)//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/06-30:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/06-30:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/06-30:Responsory6",
+    "(sed rubrica cisterciensis)",
+    "@Sancti/06-30:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/06-30:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. Scio † cui crédidi, et certus sum quia potens est depósitum meum serváre.",
+    "* In illum diem justus judex.",
+    "V. Repósita est mihi coróna justítiæ, quam reddet mihi Dóminus.",
+    "R. In illum diem justus judex.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/06-30:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/06-30:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/06-30:Lectio8:s/Idcírco.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/06-30:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/06-30:Lectio8:s/.* (?=Idcírco)// s/$/~/",
+    "@Sancti/06-30:Lectio9:s/ Nam.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "R. Magnus † sanctus Paulus, vas electiónis, vere digne est glorificándus.",
+    "* Qui et méruit thronum duodécimum possidére.",
+    "V. A Christo de caelo vocátus, et in terram prostrátus, ex persecutóre efféctus est vas electiónis.",
+    "R. Qui et méruit thronum duodécimum possidére.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/06-30:Lectio9:s/.* (?=Nam)//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "R. Mihi vívere † Christus est, et mori lucrum:",
+    "* Gloriári me opórtet in cruce Dómini mei Jesu Christi.",
+    "V. Per quem mihi mundus crucifíxus est, et ego mundo.",
+    "R. Gloriári me opórtet in cruce Dómini mei Jesu Christi.",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@:Capitulum Sexta",
+    "_",
+    "@:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@:Ant 1"
+   ]
+  }
+ ]
+}

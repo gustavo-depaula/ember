@@ -1,0 +1,141 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "In Præsentatione Beatæ Mariæ Virginis;;Duplex majus;;4;;ex C11",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 196",
+   "lines": [
+    "In Præsentatione Beatæ Mariæ Virginis;;Duplex;;3;;vide C11",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C11;",
+    "9 lectiones",
+    "Doxology=Nat",
+    "Ipsa Virgo Virginum",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera 1",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "R. Quam pulchra es, amíca mea, quam pulchra es et suávis! óculi tui columbárum:",
+    "* Absque eo quod intrínsecus latet.",
+    "V. Sicut vitta coccínea lábia tua, et elóquium tuum dulce.",
+    "R. Absque eo quod intrínsecus latet.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@Commune/C10:Ant 2_:s/Christo:.*/Christo, allelúja./",
+    "(sed rubrica cisterciensis)",
+    "@Commune/C10:Ant 2_",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátam Maríam semper Vírginem, Spíritus Sancti habitáculum, hodiérna die in templo præsentári voluísti: præsta, quǽsumus; ut, ejus intercessióne, in templo glóriæ tuæ præsentári mereámur.",
+    "$Per Dominum eiusdem",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "Ex libro sancti Joánnis Damascéni de fide orthodóxa",
+    "!Liber 4, Cap. 15",
+    "Jóachim lectíssimam illam ac summis láudibus dignam mulíerem Annam matrimónio sibi copulávit. Verum, quemádmodum prisca illa Anna, cum sterilitátis morbo laboráret, per oratiónem ac promissiónem, Samuélem procreávit; eódem modo hæc étiam, per obsecratiónem et promissiónem, Dei Genetrícem a Deo accépit, ut ne hic quoque cuíquam ex illústribus matrónis céderet. Itaque grátia (nam hoc sonat Annæ vocábulum) Dóminam parit (id enim Maríæ nómine significátur). Vere étenim rerum ómnium conditárum Dómina facta est, cum Creatóris Mater éxstitit. In lucem autem éditur in domo probáticæ Jóachim, atque ad templum addúcitur. Ac deínde, in domo Dei plantáta atque per Spíritum sagináta, instar olívæ frugíferæ virtútum ómnium domicílium effícitur; ut quæ vidélicet ab omni hujúsce vitæ et carnis concupiscéntia mentem abstraxísset, atque ita vírginem una cum córpore ánimam conservásset, ut eam decébat, quæ Deum sinu suo exceptúra erat.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "Ex libro sancti Ambrósii Epíscopi de Virgínibus",
+    "!Liber 2, post initium.",
+    "Talis fuit Maria, ut ejus uníus vita ómnium sit disciplína. Si ígitur auctor non dísplicet, opus probémus; ut, quæcúmque sibi ejus exoptat præmium, imitétur exemplum. Quantæ in una vírgine spécies virtútum émicant! Secretum verecúndiæ, vexíllum fidei, devotiónis obsequium; virgo intra domum, comes ad ministérium, mater ad templum. O quantis illa virgínibus occurret! quantas complexa, ad Dóminum trahet, dicens: Hæc torum fílii mei, hæc thálamos nuptiales immaculáto servávit pudóre!",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "Quid ergo éxsequar cibórum parsimóniam, officiórum redundantiam: álterum ultra natúram superfuísse, álterum pene ipsi natúræ defuísse? Illic nulla intermissa témpora, hic congeminatos jejúnio dies. Et, si quando reficiéndi successísset volúntas, cibus plerumque obvius, qui mortem arcéret, non delicias ministraret. Dormire non prius cupiditas quam necessitas fuit; et tamen, cum quiésceret corpus, vigilaret animus, qui frequenter in somnis aut lecta répetit, aut somno interrupta continuat, aut dispósita gerit, aut gerenda prænuntiat.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio94",
+   "lines": [
+    "@:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Commune/C11",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@Commune/C11",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio 2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@SanctiM/11-21M:Oratio:s/N\\./Columbáni/",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Sexta",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/09-08:Ant Vespera:4",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Sexta",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@SanctiCist/01-23AV",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@SanctiCist/01-23AV",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@:Ant 1"
+   ]
+  }
+ ]
+}

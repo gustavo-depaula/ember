@@ -1,0 +1,41 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Ubaldi Episcopi et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.2;;vide C4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Ubáldi",
+    "Postcommunio=Ubáldo",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Auxílium tuum nobis, Dómine, quǽsumus, placátus impénde: et, intercessióne beáti Ubáldi Confessóris tui atque Pontíficis, contra omnes diáboli nequítias déxteram super nos tuæ propitiatiónis exténde.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

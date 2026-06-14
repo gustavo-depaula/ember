@@ -1,0 +1,81 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@CommuneM/C6-1",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "@Commune/C6b",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "lines": [
+    "@Commune/C6b",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@Commune/C6b",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C6b",
+    ""
+   ]
+  },
+  {
+   "name": "Nocturn 1 Versum",
+   "lines": [
+    "@Commune/C6:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@:Ant 1",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "lines": [
+    "@:Lectio Prima",
+    "$Deo gratias",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@:Ant 1"
+   ]
+  }
+ ]
+}

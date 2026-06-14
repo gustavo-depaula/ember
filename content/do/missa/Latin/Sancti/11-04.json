@@ -1,0 +1,88 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Caroli Episcopi et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Caróli",
+    "Postcommunio=Carólo",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ecclésiam tuam, Dómine, sancti Caróli Confessóris tui atque Pontíficis contínua protectióne custódi: ut, sicut illum pastorális sollicitúdo gloriósum réddidit; ita nos ejus intercéssio in tuo semper fáciat amóre fervéntes.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Eccli 44:16",
+    "Ecce sacérdos magnus, qui in diébus suis plácuit Deo. ",
+    "!Eccli 44:20",
+    "Non est invéntus símilis illi, qui conserváret legem Excélsi. ",
+    "Allelúja, allelúja.",
+    "!Ps 109:4 ",
+    "Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C2-1",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4"
+   ]
+  }
+ ]
+}

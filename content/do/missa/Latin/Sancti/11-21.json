@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "In Presentatione Beatæ Mariæ Virginis;;Duplex majus;;4;;ex C11",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C11;",
+    "Gloria",
+    "CredoDA",
+    "Prefatio=Maria=Presentatióne;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátam Maríam semper Vírginem, Spíritus Sancti habitáculum, hodiérna die in templo præsentári voluísti: præsta, quǽsumus; ut, ejus intercessióne, in templo glóriæ tuæ præsentári mereámur.",
+    "$Per Dominum eiusdem",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C10",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C10"
+   ]
+  }
+ ]
+}

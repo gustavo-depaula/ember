@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Julianæ de Falconeriis Virginis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C6a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6a;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátam Juliánam Vírginem tuam extrémo morbo laborántem, pretióso Fílii tui Córpore mirabíliter recreáre dignátus es: concéde, quǽsumus; ut, ejus intercedéntibus méritis, nos quoque eódem in mortis agóne refécti ac roboráti, ad cœléstem pátriam perducámur.",
+    "$Per eundem"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Joannis a Cruce Confessoris et Ecclesiæ Doctoris",
+    "(sed rubrica tridentina)",
+    "S. Joannis a Cruce Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5a",
+    "(sed rubrica tridentina)",
+    ";;Duplex;;3;;vide C5",
+    "(sed rubrica 1963)",
+    ";;Simplex;;1.1;;vide C5a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5a;",
+    "(sed rubrica tridentina)",
+    "vide C5;",
+    "Gloria",
+    "CredoDA",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Joánnem",
+    "Secreta=Joánnis",
+    "Postcommunio=Joánnes",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio_",
+   "lines": [
+    "Deus, qui sanctum Joánnem Confessórem tuum atque Doctorem perféctæ sui abnegatiónis et Crucis amatórem exímium effecísti: concéde; ut, ejus imitatióni júgiter inhæréntes, glóriam assequámur ætérnam.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@:Oratio_",
+    "(sed rubrica tridentina)",
+    "@:Oratio_:s/ atque Doctorem//"
+   ]
+  }
+ ]
+}

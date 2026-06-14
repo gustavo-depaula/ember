@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Remigii Episcopi et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4;",
+    "Suffragium=Maria3;Papa,Ecclesiæ;;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Remígii",
+    "Postcommunio=Remígio"
+   ]
+  }
+ ]
+}

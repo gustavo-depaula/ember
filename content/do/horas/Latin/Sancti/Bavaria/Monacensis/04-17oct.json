@@ -1,0 +1,28 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Quarta die infra Octavam Dedicationis Ecclesiæ Metropolitanæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2;;vide C8",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C8;",
+    "9 lectiones",
+    "In 2 Nocturno Lectiones ex C8 in 4 loco",
+    "In 3 Nocturno Lectiones ex C8 in 4 loco",
+    "Suffr=Maria3;Ecclesiæ,Papa;;"
+   ]
+  }
+ ]
+}

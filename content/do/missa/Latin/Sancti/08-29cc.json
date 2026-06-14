@@ -1,0 +1,46 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Sabinæ Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C7",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C7;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Sabínæ",
+    "Postcommunio=Sabína",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C6-1::s/Vírginis et // s/N\\./N./",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C6-1::s/Vírginis et // s/N\\./N./"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/06-29",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "SS. Apostolorum Petri et Pauli, Almæ Urbis Patronorum principalium",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex I classis cum octava privilegiata III ordinis;;6.5;;ex C1"
+   ]
+  }
+ ]
+}

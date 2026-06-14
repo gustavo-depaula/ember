@@ -1,0 +1,61 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/Urbis/05-11-AlexanderI",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Alexandri I Papæ, Eventii et Theoduli Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C3;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Alexándri, Evéntii, et Theodúli",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum tuórum Alexándri, Eventii, et Theoduli natalicia cólimus; a cunctis malis imminentibus, eórum intercessionibus, liberémur. ",
+    "$Per Dominum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio94",
+   "lines": [
+    "@Sancti/05-03r::s/In eumdem diem.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio93",
+   "lines": [
+    "@:Lectio94"
+   ]
+  }
+ ]
+}

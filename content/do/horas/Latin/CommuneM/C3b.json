@@ -1,0 +1,139 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@CommuneM/C3",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "Commune plurium Summorum Pontificum Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@CommuneM/C3",
+    "Prefatio=Apostolis",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C3b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b"
+   ]
+  }
+ ]
+}

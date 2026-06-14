@@ -1,0 +1,39 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Epi6-0:Lectio4:s/ and again.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Epi6-0:Lectio4:s/.* and again/And again/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Epi6-0:Lectio7:s/By the .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Epi6-0:Lectio7:s/.* By the/By the/s s/$/~/",
+    "@Tempora/Epi6-0:Lectio8:s/The preaching .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Epi6-0:Lectio8:s/.* The preaching/The preaching/s"
+   ]
+  }
+ ]
+}

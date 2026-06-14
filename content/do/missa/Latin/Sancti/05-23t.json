@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. John Baptist Rossi Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui sanctum Joánnem Baptístam Confessórem tuum in evangelizándis paupéribus caritáte et patiéntia decorásti: concéde quǽsumus; ut cujus pia mérita venerámur, virtútum quoque imitémur exémpla.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

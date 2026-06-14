@@ -1,0 +1,69 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Pascoal Bailão, Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 17 V – S. Pascoal Bailão, Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C5:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que enriquecestes o B. Pascoal, vosso Confessor, com precioso afecto para com os sagrados mystérios do vosso Corpo e Sangue, concedei-nos propício que alcancemos neste divino banquete a mesma abundância de graças que ele alcançou.",
+    "$Qui vivis",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C5:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C5:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C5:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C5:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C5:Communio"
+   ]
+  }
+ ]
+}

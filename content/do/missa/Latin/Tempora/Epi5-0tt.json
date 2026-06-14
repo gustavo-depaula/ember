@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Epi5-0",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "De Dominica V post Epiphaniam",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex Dominica anticipata;;1.5"
+   ]
+  }
+ ]
+}

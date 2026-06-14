@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/08-01:Lectio4:s/\\. Eudocia.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-01:Lectio4:s/.*\\. (?=Eudocia)// s/$/~/",
+    "@Sancti/08-01:Lectio5:s/ From .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-01:Lectio5:s/.* (?=From)// s/$/~/",
+    "@Sancti/08-01:Lectio6:s/ Among .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/08-01:Lectio6:s/.* (?=Among)//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/08-01:Lectio7:s/ Concerning .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/08-01:Lectio7:s/.* (?=Concerning )//s s/ It .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/08-01:Lectio7:s/.* (?=It )//s s/$/~/",
+    "@Sancti/08-01:Lectio8:s/ If, .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/08-01:Lectio8:s/.* (?=If,)//"
+   ]
+  }
+ ]
+}

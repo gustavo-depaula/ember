@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Eduardi Regis Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.2;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5;mtv",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátum regem Eduárdum Confessórem tuum æternitátis glória coronásti: fac nos, quǽsumus; ita eum venerári in terris, ut cum eo regnáre possímus in cœlis.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

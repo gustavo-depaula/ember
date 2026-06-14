@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Siricii I et Gelasii I Pontificum et Confessorum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide aliquibus locis/C4b-3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide aliquibus locis/C4b-3",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Sirícii et Gelásii",
+    "(sed communi Summorum Pontificum)",
+    "Sirícium et Gelásium",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/Urbis/10-31-Siricius:: s/$/~/",
+    "@Sancti/Urbis/10-31-Siricius:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/Urbis/10-31-Siricius:Lectio6: s/$/~/",
+    "@Sancti/Urbis/11-29-GelasiusI:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/Urbis/11-29-GelasiusI:Lectio5: s/$/~/",
+    "@Sancti/Urbis/11-29-GelasiusI:Lectio6"
+   ]
+  }
+ ]
+}

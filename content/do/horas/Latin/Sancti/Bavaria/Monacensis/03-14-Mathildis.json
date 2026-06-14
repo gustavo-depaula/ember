@@ -1,0 +1,32 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Mathilidis Viduæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C7a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C7a;",
+    "9 lectiones;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Mathíldis"
+   ]
+  }
+ ]
+}

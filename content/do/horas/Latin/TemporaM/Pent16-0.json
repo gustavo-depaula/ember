@@ -1,0 +1,53 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent16-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent16-0:Lectio7:s/Huic .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent16-0:Lectio7:s/.*Huic /Huic /s s/$/~/",
+    "@Tempora/Pent16-0:Lectio8:s/: nec .*/./s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent16-0:Lectio8:s/.*: nec /Nec /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pent16-0:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Tempora/Pent01-0:Responsory8"
+   ]
+  }
+ ]
+}

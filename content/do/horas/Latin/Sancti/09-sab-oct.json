@@ -1,0 +1,145 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "Sanctæ Mariæ Sabbato;;Simplex;;1.4;;ex C10",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Special Benedictio",
+    "Doxology=Nat",
+    "no secunda vesperas",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Invit",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Laudes",
+   "lines": [
+    "@Sancti/09-08:Ant Vespera:s/;;.*//g",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@Sancti/09-08",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@Sancti/09-08"
+   ]
+  }
+ ]
+}

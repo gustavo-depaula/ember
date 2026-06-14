@@ -1,0 +1,88 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Quatuor Coronatorum Martyrum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C3;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Præsta, quǽsumus, omnípotens Deus: ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, pios apud te in nostra intercessióne sentiámus.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Sancti/01-20",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Exod 15:11",
+    "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia.",
+    "!Exod 15:6",
+    "Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Allelúja, allelúja.",
+    "!Ps 44:14. ",
+    "Córpora Sanctórum in pace sepúlta sunt, et nómina eórum vivent in generatiónem et generatiónem. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/06-05",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C3",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Benedíctio tua, Dómine, larga descéndat: quæ et múnera nostra, deprecántibus sanctis Martýribus tuis, tibi reddat accépta, et nobis sacraméntum redemptiónis effíciat.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C3",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Cœléstibus refécti sacraméntis et gáudiis: súpplices te, Dómine, deprecámur; ut, quorum gloriámur triúmphis, protegámur auxíliis.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

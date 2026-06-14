@@ -1,0 +1,76 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Antonino, Bispo e Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 10 V – S. Antonino, Bispo e Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Antonino",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C4:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Que os méritos de Santo Antonino, vosso Confessor e Pontífice, nos auxiliem, Senhor, de modo que, assim como Vos louvamos pelas maravilhas que operastes em seu proveito, assim também possamos glorificar as vossas misericórdias para connosco.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C4:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4:Communio"
+   ]
+  }
+ ]
+}

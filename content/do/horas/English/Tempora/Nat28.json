@@ -1,0 +1,18 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Fourth day of the Octave of Christmas",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica 196",
+   "lines": [
+    "Fourth day after Christmas"
+   ]
+  }
+ ]
+}

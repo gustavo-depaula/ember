@@ -1,0 +1,54 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/07-01",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    "Pretiosissimi Sanguinis Domini Nostri Jesu Christi;;Duplex;;3;;",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@:Capitulum Sexta",
+    "_",
+    "@:Responsory TertiaM",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Laudes",
+   "lines": [
+    "@:Responsory Breve Nona",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "lines": [
+    "@Sancti/07-01:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory SextaM",
+   "lines": [
+    "@Sancti/07-01:Nocturn 3 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory NonaM",
+   "lines": [
+    "@Sancti/07-01:Versum 2"
+   ]
+  }
+ ]
+}

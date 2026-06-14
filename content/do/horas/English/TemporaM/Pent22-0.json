@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent22-0:Lectio7:s/They.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent22-0:Lectio7:s/.* They /They /s s/$/~/",
+    "@Tempora/Pent22-0:Lectio8:s/They .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent22-0:Lectio8:s/.* They /They /s s/$/~/",
+    "@Tempora/Pent22-0:Lectio9:s/But if .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pent22-0:Lectio9:s/.* But if /But if /s"
+   ]
+  }
+ ]
+}

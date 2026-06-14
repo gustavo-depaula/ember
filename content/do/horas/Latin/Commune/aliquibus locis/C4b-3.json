@@ -1,0 +1,170 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Commune/aliquibus locis/C4c",
+    ""
+   ]
+  },
+  {
+   "name": "Missa",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4",
+    "Prefatio=Apostolis",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b:Oratio pro plurium:s/N\\. et N\\./N. et N./",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio pro commemoratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@Commune/C4:Ant 3 summi Pontificis",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta pro commemoratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio pro commemoratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C4b"
+   ]
+  }
+ ]
+}

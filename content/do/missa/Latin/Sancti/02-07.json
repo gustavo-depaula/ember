@@ -1,0 +1,38 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Romualdi Abbatis",
+    "(sed rubrica 1930 aut rubrica 1963)",
+    "S. Romualdi Abbatis O. N.",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5b",
+    "(sed rubrica 196)",
+    ";;Duplex;;2.1;;vide C5b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5b;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Romuáldi",
+    "Secreta=Romuáldus",
+    "Postcommunio=Romuáldus"
+   ]
+  }
+ ]
+}

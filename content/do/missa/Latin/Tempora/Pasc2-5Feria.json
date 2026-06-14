@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria Sexta infra Hebdomadam II post Octavam Paschæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Oratio Dominica",
+    "Gloria",
+    "no Credo",
+    "Suffr=Maria3;Ecclesiæ,Papa;;"
+   ]
+  }
+ ]
+}

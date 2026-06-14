@@ -1,0 +1,112 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent03-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex TemporaM/Pent02-5;",
+    "12 lectiones",
+    "Antiphonas horas",
+    "Symbolum Athanasium",
+    "Doxology=Heart",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@TemporaM/Pent03-0o",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@TemporaM/Pent03-0o",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@TemporaM/Pent03-0o",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@TemporaM/Pent03-0o",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pent02-6:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pent02-6:Lectio6: s/.*\\; // s/^(.)/\\U$1/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pent03-0:Lectio4:2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Pent03-0:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@TemporaM/Pent03-0o",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@TemporaM/Pent03-0o",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@TemporaM/Pent03-0o",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@TemporaM/Pent03-0o",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Tempora/Pent03-0r"
+   ]
+  }
+ ]
+}

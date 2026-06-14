@@ -1,0 +1,131 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Nat30",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica 1963",
+   "lines": [
+    "Die VI infra Octavam Nativitatis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 1963",
+   "lines": [
+    ";;Semiduplex II classis;;5;;ex Sancti/12-25",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Psalmi Dominica",
+    "Antiphonas horas",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@TemporaM/Nat1-0tt",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Nat30:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@SanctiM/12-25:Responsory11",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Nat30:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Sancti/12-25:Responsory8:1-2",
+    "@SanctiM/12-25:Responsory11:1 s/^R./V./",
+    "@Sancti/12-25:Responsory8:4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Nat30:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Nat1-0:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@Psalterium/Special/Matutinum Special:MM Capitulum Nat:1-4",
+    "@Sancti/12-25:Versum 2",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio 2",
+   "condition": "rubrica altovadensis",
+   "lines": [
+    "@Sancti/12-25:Octava",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio 2",
+   "condition": "rubrica tridentina nisi rubrica altovadensis",
+   "lines": [
+    "@Sancti/12-25:Octava",
+    "@Sancti/12-26:Octava",
+    "@Sancti/12-27:Octava",
+    "@Sancti/12-28:Octava",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio 3",
+   "condition": "rubrica altovadensis",
+   "lines": [
+    "@Sancti/12-25:Octava",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio 3",
+   "condition": "rubrica tridentina nisi rubrica altovadensis",
+   "lines": [
+    "@Sancti/12-25:Octava",
+    "@Sancti/12-26:Octava",
+    "@Sancti/12-27:Octava",
+    "@Sancti/12-28:Octava"
+   ]
+  }
+ ]
+}

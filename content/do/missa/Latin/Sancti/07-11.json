@@ -1,0 +1,35 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Pii I Papæ et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Pii",
+    "(sed communi Summorum Pontificum)",
+    "Pium",
+    "Postcommunio=Pio"
+   ]
+  }
+ ]
+}

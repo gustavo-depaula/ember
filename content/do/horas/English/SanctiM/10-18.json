@@ -1,0 +1,25 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/10-18:Lectio4:s/He also .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/10-18:Lectio4:s/.* He also /He also /s s/$/~/",
+    "@Sancti/10-18:Lectio5:s/At the .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/10-18:Lectio5:s/.* At the /At the /s"
+   ]
+  }
+ ]
+}

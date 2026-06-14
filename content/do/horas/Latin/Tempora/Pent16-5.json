@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria Sexta infra Hebdomadam XVI post Octavam Pentecostes",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Oratio Dominica"
+   ]
+  }
+ ]
+}

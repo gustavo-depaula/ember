@@ -1,0 +1,25 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "In Octava S. Joannis Baptistæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3.1;;vide Sancti/06-24",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Sancti/06-24;",
+    "Gloria"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria Quinta infra Hebdomadam II post Octavam Paschæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Oratio Dominica",
+    "Una Antiphona",
+    "Feria Te Deum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pasc2-4:Lectio1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Pasc0-2:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pasc2-4:Lectio2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Pasc0-2:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pasc2-4:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Pasc0-3:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "Tu solus peregrínus es, * et non audísti de Jesu, quómodo tradidérunt eum in damnatiónem mortis? allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "Alias oves hábeo, * quæ non sunt ex hoc ovíli: et illas opórtet me addúcere, et vocem meam áudient: et fiet unum ovíle, et unus pastor, allelúja."
+   ]
+  }
+ ]
+}

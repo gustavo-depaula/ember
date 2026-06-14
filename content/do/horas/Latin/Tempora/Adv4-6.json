@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Sabbato in Hebdomadam IV Adventus",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria major;;2.1",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 196",
+   "lines": [
+    ";;Feria major;;4.9",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Laudes",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Tempora/Adv4-0"
+   ]
+  }
+ ]
+}

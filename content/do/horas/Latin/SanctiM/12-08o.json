@@ -1,0 +1,235 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/12-08o",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    "Conceptione Beatæ Mariæ Virginis;;Duplex majus;;4;;vide C11",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C11;",
+    "12 lectiones",
+    "Antiphonas horas",
+    "Doxology=Nat",
+    "Ant Matutinum 12 special",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum 3N",
+   "lines": [
+    "Hodie concepta est beata virgo Maria ex progenie David, * per quam salus mundi credentibus apparuit.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/12-08o::s/11.*//s s/-13/-11/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "R. Hodie concepta est beata virgo Maria ex progenie David.",
+    "* Per quam salus mundi credentibus apparuit, cujus vita gloriosa lucem dedit sæculo.",
+    "V. Conceptionem beatæ Mariæ virginis cum gaudio celebremus.",
+    "R. Per quam salus mundi credentibus apparuit, cujus vita gloriosa lucem dedit sæculo.  ",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/12-08o:Lectio1:s/5-13/11-15/ s/5 .*11/11/s~",
+    "@Sancti/12-08o:Lectio2:2-3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "R. Beatissimæ virginis Mariæ Conceptionem devotissime celebremus:",
+    "* Ut ipsa pro nobis intercedat ad Dominum Jesum Christum.",
+    "V. Cum jucunditate Conceptionem beatæ Mariæ virginis devotissime celebremus.",
+    "R. Ut ipsa pro nobis intercedat ad Dominum Jesum Christum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/12-08o:Lectio2:s/14-/16-/ s/14 .*16/16/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "R. Gloriosæ virginis Mariæ Conceptionem dignissimam recolamus, ",
+    "* Cujus Dominus humilitatem respexit, quæ Angelo nuntiante concepit Salvatorem mundi.",
+    "V. Beatissimæ virginis Mariæ Conceptionem devotissime celebremus.",
+    "R. Cujus Dominus humilitatem respexit, quæ Angelo nuntiante concepit Salvatorem mundi.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/12-08o:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Regali ex progenie Maria exorta refulget:",
+    "* Cujus precibus nos adjuvari mente et spiritu devotissime poscimus.",
+    "V. Corde et animo Christo canamus gloriam, in hac sacra solemnitate præcelsæ genitricis suæ.",
+    "R. Cujus precibus nos adjuvari mente et spiritu devotissime poscimus.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/12-08o:Lectio4:s/Primus .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "R. Conceptio gloriosæ virginis Mariæ ex femine Abrahæ, ortæ de tribu Juda, clara ex stirpe David,",
+    "* Cujus vita inclyta cunctas illustrat Ecclesias.",
+    "V. Hodie concepta est beata virgo Maria ex progenie David.",
+    "R. Cujus vita inclyta cunctas illustrat Ecclesias.",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "R. Cum jucunditate Conceptionem beatæ Mariæ celebremus.",
+    "* Ut ipsa pro nobis intercedat ad Dominum Jesum Christum.",
+    "V. Corde et animo Christo canamus gloriam, in hac sacra solemnitate præcelsæ genitricis Dei Mariæ.",
+    "R. Ut ipsa pro nobis intercedat ad Dominum Jesum Christum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/12-08o:Lectio5:s/.* Corde/Corde/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "R. Conceptio tua Dei genitrix virgo, gaudium annuntiavit universo mundo:",
+    "* Ex te enim ortus est sol justitiæ, Christus Deus noster: Qui solvens maledictionem, dedit benedictionem: et confundens mortem, donavit nobis vitam sempiternam.",
+    "V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.  ",
+    "R. Ex te enim ortus est sol justitiæ, Christus Deus noster: Qui solvens maledictionem, dedit benedictionem: et confundens mortem, donavit nobis vitam sempiternam.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/12-08o:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. Corde et animo Christo canamus gloriam, in hac sacra solemnitate præcelsæ genitricis Dei Virginis Mariæ,",
+    "* Ut ipsa intercedat pro nobis ad Dominum.",
+    "V. Cum jucunditate, Conceptionem sanctæ Mariæ solembiter celebremus.",
+    "R. Ut ipsa intercedat pro nobis ad Dominum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/09-13bmv:Lectio7:s/Nam illa .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/07-02:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/09-13bmv:Lectio7:s/.* Nam illa/Nam illa/s s/$/~/",
+    "@Sancti/09-13bmv:Lectio8:s/Neque .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/12-08:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/09-13bmv:Lectio8:s/.* Neque/Neque/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "R. Conceptionem hodiernam perpetuæ virginis Dei genitricis Mariæ solemniter celebremus:",
+    "* Qua celsitudo throni processit.",
+    "V. Regali ex progenie Maria exorta refulget.",
+    "R. Qua celsitudo throni processit. ",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/09-13bmv:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "R. Sancta et immaculata virginitas, quibus te laudibus efferam nescio:",
+    "* Quia quem cæli capere non poterant, tuo gremio contulisti.",
+    "V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.",
+    "R. Quia quem cæli capere non poterant, tuo gremio contulisti.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/09-08"
+   ]
+  }
+ ]
+}

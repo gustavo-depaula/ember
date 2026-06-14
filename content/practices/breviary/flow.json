@@ -1,0 +1,162 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora",
+        "la": "Hora"
+      },
+      "map": {
+        "0-3": "Completorium",
+        "4-6": "Matutinum",
+        "7-8": "Laudes",
+        "9": "Prima",
+        "10-11": "Tertia",
+        "12-14": "Sexta",
+        "15-16": "Nona",
+        "17-19": "Vespera",
+        "20-23": "Completorium"
+      },
+      "options": [
+        {
+          "id": "Matutinum",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Matutinum"
+              }
+            }
+          ]
+        },
+        {
+          "id": "Laudes",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Laudes"
+              }
+            }
+          ]
+        },
+        {
+          "id": "Prima",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Prima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "Tertia",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Tércia",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Tertia"
+              }
+            }
+          ]
+        },
+        {
+          "id": "Sexta",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Sexta"
+              }
+            }
+          ]
+        },
+        {
+          "id": "Nona",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Noa",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Nona"
+              }
+            }
+          ]
+        },
+        {
+          "id": "Vespera",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Vespera"
+              }
+            }
+          ]
+        },
+        {
+          "id": "Completorium",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Completorium"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Filipe Néri, Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 26 V – S. Filipe Néri, Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Rm 5:5",
+    "O amor de Deus difundiu-se nos nossos corações pelo seu Espírito que habita em nós. (T.P. Aleluia, aleluia.).",
+    "!Sl 102:1",
+    "Bendizei, ó minha alma, o Senhor: que tudo quanto me pertence bendiga o seu santo nome.",
+    "&Gloria",
+    "O amor de Deus difundiu-se nos nossos corações pelo seu Espírito que habita em nós. (T.P. Aleluia, aleluia.).",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que elevastes o B. Filipe, vosso Confessor, à sublime glória dos vossos Santos, concedei-nos propício que, celebrando com alegria esta festa, alcancemos proveito com o exemplo das suas virtudes.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Sancti/03-07:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Sl 33:12; 33:6",
+    "Vinde, meus filhos, e escutai-me: Ensinar-vos-ei a temer o Senhor.",
+    "V. Aproximai-Vos d’Ele e ficareis iluminados: então a vossa face não ficará envergonhada.",
+    "!Lm 1:13",
+    "Do alto dos céus enviou e fogo sobre os meus ossos e instruiu-me. Aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "Aleluia, aleluia.",
+    "!Lm 1:13",
+    "Do alto dos céus enviou e fogo sobre os meus ossos e instruiu-me. Aleluia",
+    "!Sl 38:4",
+    "Meu coração inflamou-se no meu peito. Enquanto eu meditava, o fogo abrasou-me. Aleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C5:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "!Sl 118:32",
+    "Eu corri pelo caminho dos vossos mandamentos, porquanto dilatastes o meu coração. (T.P. Aleluia.)",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Olhai aplacado para o presente sacrifício, Senhor, Vos suplicamos, e fazei que o Espírito Santo nos inflame naquele fogo que penetrou maravilhosamente no coração do B. Filipe.",
+    "$Per Dominum ejusdem",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Sl 83:3",
+    "O meu coração e a minha carne exultaram em Deus vivo. (T.P. Aleluia.)",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Alimentados com as celestiais delícias, Senhor, Vos pedimos que, pelos méritos do B. Filipe, vosso Confessor, e imitando os seus exemplos, aspiremos sempre a este alimento, que nos dará a verdadeira vida.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Commune/C2ap",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C2a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C2a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C2a-1"
+   ]
+  }
+ ]
+}

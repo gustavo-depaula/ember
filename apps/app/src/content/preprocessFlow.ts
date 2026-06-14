@@ -34,12 +34,13 @@ function scopedParams(
   return source.dateScoped ? { ...params, date: ymd(date) } : params
 }
 
-function includeErrorPlaceholder(lang: string): Primitive {
+function includeErrorPlaceholder(lang: string, error: unknown): Primitive {
   const message =
     lang === 'pt-BR'
       ? 'Não foi possível carregar esta seção. Reabra para tentar novamente.'
       : 'Couldn’t load this section. Reopen to try again.'
-  return { type: 'text', text: { primary: message }, style: 'italic' }
+  const detail = error instanceof Error ? error.message : String(error)
+  return { type: 'text', text: { primary: `${message}\n\n${detail}` }, style: 'italic' }
 }
 
 export async function preprocessFlow(
@@ -65,8 +66,12 @@ async function preprocessSection(
       // silently swallowed.
       try {
         return await fetchFromSource(section.ref, section.params ?? {}, ctx, accessor)
-      } catch {
-        return includeErrorPlaceholder(ctx.prefs.lang)
+      } catch (error) {
+        console.error(
+          `[preprocessFlow] include ${section.ref} failed:`,
+          error instanceof Error ? (error.stack ?? error.message) : error,
+        )
+        return includeErrorPlaceholder(ctx.prefs.lang, error)
       }
 
     case 'rubric':
@@ -279,15 +284,6 @@ async function preprocessSection(
           precedingResponse: section.precedingResponse,
           options: section.options,
         },
-      }
-
-    case 'proper':
-      return {
-        type: 'interaction',
-        kind: 'proper',
-        slot: section.slot,
-        form: section.form,
-        description: section.description,
       }
 
     case 'rendered-offering':

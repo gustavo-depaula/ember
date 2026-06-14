@@ -1,0 +1,168 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Epi5-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio1:",
+    "@Tempora/Epi5-0:Lectio2:s/!.*// s/5 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio2:",
+    "@Tempora/Epi5-0:Lectio3:s/!.*// s/12 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio3:s/-16/-14/ s/15 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio3:s/12-/15-/ s/12.*15 /15 /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@TemporaM/Epi2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@TemporaM/Epi3-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio5:s/Ecce .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@TemporaM/Epi3-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio5:s/.* Ecce /Ecce /s s/$/~/",
+    "@Tempora/Epi5-0:Lectio6:s/Quid .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@TemporaM/Epi3-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio6:s/.* Quid /Quid /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@TemporaM/Epi2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@TemporaM/Epi3-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio8:s/At illi, .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@TemporaM/Epi3-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio8:s/.* At illi, /At illi, /s s/$/~/",
+    "@Tempora/Epi5-0:Lectio9:s/Aliud .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@TemporaM/Epi3-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Epi5-0:Lectio9:s/.* Aliud /Aliud /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Tempora/Pent01-0:Responsory8"
+   ]
+  }
+ ]
+}
