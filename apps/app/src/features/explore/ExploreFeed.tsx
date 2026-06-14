@@ -106,7 +106,6 @@ export function ExploreFeed() {
       label: t('explore.celebrationOfDay'),
       title: localizeContent(saint.celebration.entry.name),
       subtitle: t(`calendar.rank.${saint.celebration.rank}`),
-      image: saint.image,
       tone: toneForCelebration(saint.celebration.entry.category, season),
       onPress: () => router.push('/saints/today'),
     })

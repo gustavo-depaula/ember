@@ -1,33 +1,29 @@
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { useWindowDimensions } from 'react-native'
 import { Separator, YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout } from '@/components'
 import { Typography } from '@/components/typography'
 import { useYearCalendar } from '@/features/calendar'
 import { useSaintOfDay } from '@/features/explore'
-import { SaintCard, saints, useSaintOfDayReading } from '@/features/saints'
+import { useSaintOfDayReading } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getCelebrationsForDate } from '@/lib/liturgical'
 import { useFormularyDescription } from '@/lib/mass-of/useFormularyDescription'
 
 // Celebration-of-the-Day "story" — the destination of the Explore featured
-// block. Shows the day's principal liturgical celebration (with holy-card art
-// when one is mapped) plus any other celebrations that share the date, each
-// with its name, rank, and liturgical description.
+// block. Shows the day's principal liturgical celebration plus any other
+// celebrations that share the date, each with its name, rank, and the Mass
+// formulary's liturgical description.
 export default function CelebrationOfDayScreen() {
   const { t } = useTranslation()
   const router = useRouter()
-  const { width } = useWindowDimensions()
   const today = useToday()
   const saint = useSaintOfDay()
   const { data: calendar } = useYearCalendar(today.getFullYear())
   const { data: formularyDescription } = useFormularyDescription(saint?.celebration.entry.id)
   const reading = useSaintOfDayReading()
-
-  const cardWidth = Math.min(width - 48, 340)
 
   const back = (
     <AnimatedPressable
@@ -55,7 +51,6 @@ export default function CelebrationOfDayScreen() {
   // The "about this celebration" prose comes solely from the Mass formulary (the
   // same source the Mass shows); when it's absent we simply show no description.
   const description = formularyDescription ? localizeContent(formularyDescription) : ''
-  const artSaint = saint.artId ? saints.find((s) => s.id === saint.artId) : undefined
 
   // Other celebrations sharing today's date (the principal is rendered above).
   const others = calendar
@@ -85,12 +80,6 @@ export default function CelebrationOfDayScreen() {
             {t(`calendar.rank.${saint.celebration.rank}`)}
           </Typography>
         </YStack>
-
-        {artSaint && (
-          <YStack height={cardWidth * 1.5} alignItems="center" justifyContent="center">
-            <SaintCard saint={artSaint} />
-          </YStack>
-        )}
 
         {description && (
           <Typography
