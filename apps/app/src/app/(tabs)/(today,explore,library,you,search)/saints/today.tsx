@@ -52,10 +52,9 @@ export default function CelebrationOfDayScreen() {
 
   const entry = saint.celebration.entry
   const name = localizeContent(entry.name)
-  // The "about this celebration" prose comes from the Mass formulary (the same
-  // source the Mass shows); fall back to the saint reflection where it's absent.
-  const description =
-    (formularyDescription ? localizeContent(formularyDescription) : '') || reading?.reflection || ''
+  // The "about this celebration" prose comes solely from the Mass formulary (the
+  // same source the Mass shows); when it's absent we simply show no description.
+  const description = formularyDescription ? localizeContent(formularyDescription) : ''
   const artSaint = saint.artId ? saints.find((s) => s.id === saint.artId) : undefined
 
   // Other celebrations sharing today's date (the principal is rendered above).

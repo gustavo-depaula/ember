@@ -17,7 +17,7 @@ canonical Easter+68) is gone.
 | Data | `content/of/calendar/{temporal,sanctoral}.json` (canonical MR statics) + computed temporal cycle | `content/liturgical/entries.json` (EF half) |
 | Names | sanctoral titles from the statics; temporal solemnities/feasts of the Lord from `temporal-titles.ts` | curated names in entries.json |
 | HDO | `of/calendar/hdo.ts` (the single OF Holy-Day-of-Obligation source) | `holyDayOfObligation` flags in entries.json |
-| Descriptions | the Mass **formulary** `description` ("Sobre esta celebração"), loaded on demand by the card/detail; en-US falls back to the saint-of-the-day reflection | curated `description` in entries.json |
+| Descriptions | the Mass **formulary** `description` ("Sobre esta celebração"), loaded on demand by the card/detail; absent → no description shown (never falls back to non-liturgical sources) | curated `description` in entries.json |
 
 `buildOfYearCalendar` emits the same `Map<string, DayCalendar>` shape as
 `buildYearCalendar` (each OF celebration is a `ResolvedCelebration` with a

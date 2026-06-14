@@ -6,7 +6,6 @@ import { Text, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
 import { useYearCalendar } from '@/features/calendar'
-import { useSaintOfDayReading } from '@/features/saints'
 import { localizeContent } from '@/lib/i18n'
 import { getCelebrationsForDate, type ResolvedCelebration } from '@/lib/liturgical'
 import { useFormularyDescription } from '@/lib/mass-of/useFormularyDescription'
@@ -27,17 +26,15 @@ export function CelebrationOfDay({ date }: { date: Date }) {
   )
 
   const principal = dayCalendar?.principal
-  // The "about this celebration" prose comes from the Mass formulary (same source
-  // the Mass renders); en-US formularies are sparse, so fall back to the day's
-  // saint reflection.
+  // The "about this celebration" prose comes solely from the Mass formulary (the
+  // same source the Mass renders); when it's absent the card simply omits it.
   const { data: description } = useFormularyDescription(principal?.entry.id)
-  const saint = useSaintOfDayReading()
 
   if (!dayCalendar?.principal || !principal) return null
 
   const { celebrations } = dayCalendar
   const others = celebrations.filter((c) => c !== principal).slice(0, 3)
-  const blurb = (description ? localizeContent(description) : '') || saint?.reflection
+  const blurb = description ? localizeContent(description) : undefined
 
   return (
     <AnimatedPressable
