@@ -24,8 +24,9 @@ describe('buildOfYearCalendar', () => {
     const sacredHeart = addDays(computeEaster(2026), 68)
     const day = calendar.get(key(sacredHeart))
     expect(day?.principal).toBeDefined()
+    // Temporal celebrations carry no baked name — the id is the formulary ref the
+    // UI resolves the title from. (The Mass's formulary title is "Most Sacred Heart of Jesus".)
     expect(day?.principal?.entry.id).toBe('tempore.solemnity.sacred-heart-of-jesus')
-    expect(day?.principal?.entry.name['en-US']).toMatch(/Sacred Heart/i)
     expect(day?.principal?.rank).toBe('solemnity')
   })
 
@@ -57,13 +58,13 @@ describe('buildOfYearCalendar', () => {
     expect(calendar.get('2026-06-15')).toBeUndefined()
   })
 
-  it('normalizes ranks to the underscore form and never leaves a principal unnamed', () => {
+  it('normalizes ranks to the underscore form; every celebration carries a ref', () => {
     for (const day of calendar.values()) {
       for (const c of day.celebrations) {
         expect(c.rank).not.toContain('-')
-        expect(
-          (c.entry.name['en-US'] ?? c.entry.name['pt-BR'] ?? c.entry.name.la ?? '').length,
-        ).toBeGreaterThan(0)
+        // Names are resolved from the formulary by the UI; the builder guarantees
+        // a ref (the formulary id) and, for sanctoral days, the statics title.
+        expect(c.entry.id.length).toBeGreaterThan(0)
       }
     }
   })

@@ -15,7 +15,7 @@ canonical Easter+68) is gone.
 |---|---|---|
 | Entry point | `resolveOfDay` (`@ember/mass`) — per day; `buildOfYearCalendar` (`@ember/mass`) loops it across a year for the display | `buildYearCalendar` (`@ember/liturgical`) |
 | Data | `content/of/calendar/{temporal,sanctoral}.json` (canonical MR statics) + computed temporal cycle | `content/liturgical/entries.json` (EF half) |
-| Names | sanctoral titles from the statics; temporal solemnities/feasts of the Lord from `temporal-titles.ts` | curated names in entries.json |
+| Names | sanctoral titles from the statics; temporal names from the **Mass formulary** title (`useCelebrationDisplay`, with `getLiturgicalDayName` fallback) — `temporal-notability.ts` only decides *which* temporal days show | curated names in entries.json |
 | HDO | `of/calendar/hdo.ts` (the single OF Holy-Day-of-Obligation source) | `holyDayOfObligation` flags in entries.json |
 | Descriptions | the Mass **formulary** `description` ("Sobre esta celebração"), loaded on demand by the card/detail; absent → no description shown (never falls back to non-liturgical sources) | curated `description` in entries.json |
 

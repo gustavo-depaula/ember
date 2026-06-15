@@ -5,10 +5,9 @@ import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
-import { useYearCalendar } from '@/features/calendar'
+import { useCelebrationDisplay, useYearCalendar } from '@/features/calendar'
 import { localizeContent } from '@/lib/i18n'
 import { getCelebrationsForDate, type ResolvedCelebration } from '@/lib/liturgical'
-import { useFormularyDescription } from '@/lib/mass-of/useFormularyDescription'
 
 function rankLabel(c: ResolvedCelebration, t: (key: string) => string): string {
   return t(`calendar.rank.${c.rank}`)
@@ -26,15 +25,14 @@ export function CelebrationOfDay({ date }: { date: Date }) {
   )
 
   const principal = dayCalendar?.principal
-  // The "about this celebration" prose comes solely from the Mass formulary (the
-  // same source the Mass renders); when it's absent the card simply omits it.
-  const { data: description } = useFormularyDescription(principal?.entry.id)
+  // Name + "about this celebration" prose both come from the Mass formulary (the
+  // single source of truth); when the description is absent the card omits it.
+  const { name, description: blurb } = useCelebrationDisplay(principal)
 
   if (!dayCalendar?.principal || !principal) return null
 
   const { celebrations } = dayCalendar
   const others = celebrations.filter((c) => c !== principal).slice(0, 3)
-  const blurb = description ? localizeContent(description) : undefined
 
   return (
     <AnimatedPressable
@@ -50,7 +48,7 @@ export function CelebrationOfDay({ date }: { date: Date }) {
         <YStack gap={2}>
           <XStack gap="$sm" alignItems="center">
             <Text fontFamily="$heading" fontSize="$3" color="$color" flexShrink={1}>
-              {localizeContent(principal.entry.name)}
+              {name}
             </Text>
             <Text fontFamily="$body" fontSize="$1" color="$accent" letterSpacing={1}>
               {rankLabel(principal, t).toUpperCase()}

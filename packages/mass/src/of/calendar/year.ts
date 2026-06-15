@@ -10,7 +10,7 @@ import { addDays, format } from 'date-fns'
 import { isOfHolyDay } from './hdo'
 import { resolveOfDay } from './resolve'
 import type { Scope } from './sanctoral'
-import { temporalDisplayTitle } from './temporal-titles'
+import { isNotableTemporal } from './temporal-notability'
 
 /**
  * Build the OF *display* calendar for a whole year from the same authority the
@@ -22,12 +22,14 @@ import { temporalDisplayTitle } from './temporal-titles'
  * Output matches `@ember/liturgical`'s `buildYearCalendar` shape (the EF path is
  * untouched), so every existing consumer keeps working: a `ResolvedCelebration`
  * with a synthesized partial `LiturgicalEntry` (`id` = the formulary/temporal
- * ref, `name` = the MR title or temporal display title, `holyDayOfObligation`
- * from `hdo.ts`). Descriptions are intentionally empty — the card pulls the rich
- * "about this celebration" text from the Mass formulary on demand.
+ * ref, `holyDayOfObligation` from `hdo.ts`). Sanctoral celebrations carry their
+ * title from the statics; **temporal celebrations carry no name** — the temporal
+ * cycle has no title in the data, so the UI resolves it from the Mass formulary
+ * (the single source of truth for titles + descriptions), with
+ * `getLiturgicalDayName` as a fallback.
  *
  * Only *named* celebrations are surfaced: every sanctoral celebration, plus the
- * temporal solemnities/feasts of the Lord (via {@link temporalDisplayTitle}).
+ * temporal solemnities/feasts of the Lord (via {@link isNotableTemporal}).
  * Ordinary Sundays and ferias are deliberately omitted (the season header
  * conveys them), preserving the prior display semantics.
  */
@@ -68,14 +70,14 @@ export function buildOfYearCalendar({
       }
       // Temporal: collapse multi-Mass variants (Christmas vigil/night/dawn/day)
       // to one entry and drop ordinary Sundays/ferias the display doesn't name.
+      // The name is left empty — the UI resolves it from the Mass formulary.
       if (keptTemporal) continue
-      const name = temporalDisplayTitle(c.ref, resolved.specialDay)
-      if (!name) continue
+      if (!isNotableTemporal(c.ref, resolved.specialDay)) continue
       keptTemporal = true
       celebrations.push(
         makeCelebration(
           c.ref,
-          name,
+          {},
           c.rank,
           day,
           'solemnity_temporal',

@@ -19,7 +19,7 @@ import {
 } from '@/components'
 import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
-import { useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
+import { useCelebrationDisplay, useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
 import {
   Aspiratio,
   type CarouselPage,
@@ -58,7 +58,6 @@ import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeC
 import { useSaintOfDayReading } from '@/features/saints'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { useStableToday, useToday } from '@/hooks/useToday'
-import { localizeContent } from '@/lib/i18n'
 import {
   getCelebrationsForDate,
   getLiturgicalSeason,
@@ -135,6 +134,8 @@ export default function HomeScreen() {
   }, [yearCalendar, season, selectedDate])
 
   const principalFeast = scheduleCtx?.dayCalendar?.principal
+  const principalFeastDisplay = useCelebrationDisplay(principalFeast)
+  const upcomingFeastDisplay = useCelebrationDisplay(upcomingFeast)
   // The devotion card's subject changes by weekday; derive it from the day's
   // line ("Today, Saint Joseph." → "Saint Joseph") for the watermark.
   const devotionDayKey = [
@@ -161,7 +162,7 @@ export default function HomeScreen() {
           {
             key: 'celebration',
             tone: 'burgundy' as const,
-            watermark: localizeContent(principalFeast.entry.name),
+            watermark: principalFeastDisplay.name,
             node: <CelebrationOfDay date={now} />,
           },
         ]
@@ -171,7 +172,7 @@ export default function HomeScreen() {
           {
             key: 'seasonal',
             tone: 'green' as const,
-            watermark: localizeContent(upcomingFeast.entry.name),
+            watermark: upcomingFeastDisplay.name,
             node: <SeasonalContext date={now} />,
           },
         ]

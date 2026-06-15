@@ -15,6 +15,5 @@ export {
   resolveOfDay,
   type Scope,
   sanctoralFor,
-  temporalDisplayTitle,
   transferredDate,
 } from './of/calendar'

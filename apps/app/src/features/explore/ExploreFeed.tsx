@@ -5,6 +5,7 @@ import { useTranslation } from 'react-i18next'
 
 import { bareId, getEntriesByKind, getEntry } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { useCelebrationDisplay } from '@/features/calendar'
 import { collectionHref, warmCollection } from '@/features/collections'
 import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
 import { todayKey, useSaintOfDayBookImage, useSaintOfDayIndex } from '@/features/saints'
@@ -43,6 +44,7 @@ export function ExploreFeed() {
   const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
   const season = getLiturgicalSeason(today, form)
   const saint = useSaintOfDay()
+  const celebrationDisplay = useCelebrationDisplay(saint?.celebration)
   const { data: gospel } = useGospelOfTheDay()
   const featured = pickFeatured(season, today)
   const dayIndex = Math.floor(today.getTime() / dayMs)
@@ -104,7 +106,7 @@ export function ExploreFeed() {
     blocks.push({
       key: 'celebration',
       label: t('explore.celebrationOfDay'),
-      title: localizeContent(saint.celebration.entry.name),
+      title: celebrationDisplay.name,
       subtitle: t(`calendar.rank.${saint.celebration.rank}`),
       tone: toneForCelebration(saint.celebration.entry.category, season),
       onPress: () => router.push('/saints/today'),

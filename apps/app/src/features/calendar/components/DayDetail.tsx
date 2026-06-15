@@ -3,10 +3,9 @@ import { Text, YStack } from 'tamagui'
 
 import { ObligationBadges } from '@/components'
 import { ProseBlock } from '@/components/prayer'
-import { localizeContent } from '@/lib/i18n'
 import type { DayCalendar, ResolvedCelebration } from '@/lib/liturgical'
 import { useObligations } from '@/lib/liturgical'
-import { useFormularyDescription } from '@/lib/mass-of/useFormularyDescription'
+import { useCelebrationDisplay } from '../useCelebrationDisplay'
 import { RankBadge } from './RankBadge'
 
 function CelebrationDetail({
@@ -17,10 +16,9 @@ function CelebrationDetail({
   isPrincipal: boolean
 }) {
   const { t } = useTranslation()
-  // "About this celebration" prose from the Mass formulary — the same canonical
-  // MR source the Mass renders (mostly pt-BR; absent for many en-US days).
-  const { data: description } = useFormularyDescription(celebration.entry.id)
-  const text = description ? localizeContent(description) : ''
+  // Name + "about this celebration" prose both from the Mass formulary — the same
+  // canonical MR source the Mass renders (descriptions are mostly pt-BR).
+  const { name, description } = useCelebrationDisplay(celebration)
 
   return (
     <YStack
@@ -30,10 +28,10 @@ function CelebrationDetail({
       backgroundColor={isPrincipal ? '$backgroundHover' : undefined}
     >
       <Text fontFamily="$heading" fontSize="$3" color="$color">
-        {localizeContent(celebration.entry.name)}
+        {name}
       </Text>
       <RankBadge rank={celebration.rank} />
-      {text ? <ProseBlock text={{ primary: text }} /> : null}
+      {description ? <ProseBlock text={{ primary: description }} /> : null}
       {celebration.entry.holyDayOfObligation && (
         <Text fontFamily="$body" fontSize="$1" color="$accent">
           {t('calendar.holyDay')}

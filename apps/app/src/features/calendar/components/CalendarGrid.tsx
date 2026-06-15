@@ -5,7 +5,13 @@ import { Text, View, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
-import { type DayCalendar, rankColors } from '@/lib/liturgical'
+import {
+  type DayCalendar,
+  getLiturgicalDayName,
+  type LiturgicalCalendarForm,
+  rankColors,
+} from '@/lib/liturgical'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const dayKeys = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'] as const
 
@@ -82,6 +88,7 @@ export function CalendarGrid({
 }) {
   const { t } = useTranslation()
   const today = useToday()
+  const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
   const isCurrentMonth = today.getFullYear() === year && today.getMonth() + 1 === month
   const todayDay = isCurrentMonth ? today.getDate() : -1
 
@@ -137,8 +144,13 @@ export function CalendarGrid({
                 )
               }
               const celebration = getCelebration(day)
+              // Sanctoral names come from the celebration; temporal ones aren't
+              // named in the calendar data, so fall back to the day name.
               const celebrationName = celebration?.principal
-                ? localizeContent(celebration.principal.entry.name)
+                ? localizeContent(celebration.principal.entry.name) ||
+                  getLiturgicalDayName(new Date(year, month - 1, day), form, {
+                    t: (k, o) => t(k, o) as string,
+                  })
                 : undefined
               const label = celebrationName ? `${day}, ${celebrationName}` : String(day)
               return (
