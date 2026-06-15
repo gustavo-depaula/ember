@@ -161,18 +161,22 @@ export async function processInlineAlleluias(
 // has already wrapped the red abbreviation markers (Ant., V., R., …) in
 // markup, so the regex's optional leading `[,.]` can never swallow a marker's
 // terminating dot — `Ant. Allelúja, …` becomes `Ant., …`, not `Ant, …`. Our
-// pipeline keeps markers as plain text, so we guard the marker dot with a
-// negative lookbehind (anchored to line-start or whitespace so it can't fire
-// mid-word). The space before the alleluia is still consumed via `\s*`.
-const alleluiaMarkerGuard = '(?<!(?:^|\\s)(?:Ant|Ps|[AVRSOMCDP]|v|r))'
+// pipeline keeps markers as plain text, so we protect a line-initial marker
+// dot in a first pass (re-emitting the captured `Ant.`/`V.`/… and dropping
+// only the following whitespace + alleluia), then strip the rest. Done with a
+// capture group rather than a lookbehind — Hermes (the on-device JS engine)
+// does not reliably support lookbehind assertions.
+const alleluiaMarker = '(?:^|\\s)(?:Ant|Ps|[AVRSOMCDP]|v|r)\\.'
 
 export async function suppressAlleluia(
   state: HoursState,
   text: string,
   lang: string,
 ): Promise<string> {
-  const regex = await alleluiaRegexp(state, lang)
-  return text.replace(new RegExp(`${alleluiaMarkerGuard}[,.]?\\s*${regex.source}`, 'gim'), '')
+  const a = (await alleluiaRegexp(state, lang)).source
+  return text
+    .replace(new RegExp(`(${alleluiaMarker})\\s*${a}`, 'gim'), '$1')
+    .replace(new RegExp(`[,.]?\\s*${a}`, 'gi'), '')
 }
 
 // Port of alleluia_ant.
