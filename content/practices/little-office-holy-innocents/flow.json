@@ -1,0 +1,518 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vidi sub Altare Dei animas interfectorum propter verbum Dei, et propter testimonium, quod habebant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mirum plane rerum thema!\nChristo negans diadema\nRex Herodes impius,\nRosas legit, serta nectit,\nIpseque coronas nectit\nPueris infantibus;"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum praeclaros Milites\nChristi Jesu exultantis,\nViam Crucis incohantis,\nPromovet in Martyres."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce profanus hostis nunquam beatis Parvulis tantum prodesse potuisset obsequio, quantum profuit odio."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Agnelli debent immolari,\n℟. Quia Agnus debebit crucifigi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, cujus praeconium Innocentes Martyres non loquendo, sed moriendo confessi sunt: Omnia in nobis vitiorum mala mortifica, ut fidem tuam, quam lingua nostra loquitur, moribus etiam vita fateatur. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed et Mater Jesu chara,\nVirgo Virginum praeclara\nCampos per Aegyptios\nLilia jam nive tincta,\nLauro viridi distincta\nCongerit in calathos:"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vobis, casti Martyres,\nUt coronas ex his formet,\nHisque vestros exornet\nVirgin ales vertices."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O quam pulchra est casta generatio cum claritate: immortalis est enim memoria illius: quoniam et apud Deum nota est, et apud homines."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Innocentes illi debentur victima,\n℟. Qui venit damnare mundi malitiam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "En jam invide Tyranne!\nArma tua tibi sannae\nFiunt et opprobrium,\nTu dum ipsemet coronas,\nUnum Regno ut seponas,\nTotum agmen prolium;"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dic, quae haec dementia?\nPupos ferro sustulisti,\nPer quod ipse succidisti\nVitae tibi stamina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Surge, et accipe Puerum et Matrem ejus, et vade in terram Israel: Defuncti sunt enim, qui quaerebant animam Pueri."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Jacebunt mali ante bonos,\n℟. Et impii ante portas justorum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Saevit chalybs in infantes,\nMatres ingemunt balantes,\nProles lugent bimulas,\nJesulum quae jam sectantur,\nCumque Matre comitantur\nOras per Niliacas;"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caela rigent corpora,\nSed animulae dilectae\nJesu gratiae refectae\nNon sensere funera."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vox in Rhama audita est, ploratus et ululatus multus: Rachel plorans filios suos noluit consolari, quia non sunt."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Oves ululant Matres,\n℟. Quia Agnos perdunt sine voce balantes."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Respirate lachrymosae\nMatres, Matris dolorosae\nJam sub Cruce symbola!\nNatis vestris una datum\nCaede mori: Sed hunc Natum\nMille iterent vulnera,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cujus quondam rigidus\nAnimam et Matris flentem,\nContristantem ac dolentem\nPertransibit gladius."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Suam ipsius animam doloris gladius pertransibit, ut reveletur ex multis cordibus cogitationes."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Cum Tyrannus jactabat infantes,\n℟. Matres crines capitis dissipab"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Eja! moestae genitrices!\nPlausus date jam victrices\nParvulis Heroibus,\nHilares indutae vultus\nTristes ponite singultus,\nCernite, quam inclitus\nSanguis vester rosea\nMartyrum futuri Regis,\nNove Platis quondam Legis,\nJam micescat purpura."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hi sunt, qui laverunt stolas suas, et dealbaverunt eas in sanguine Agni: Ideo sunt ante thronum Dei, et serviunt ei die ac nocte in templo ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Effuderunt sanguinem Sanctorum,\n℟. Velut aquam in circuitu Jerusalem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cernite, quo vestimento\nVirginali ex argento\nInnocentis animi,\nJesu Mater, chare Matres!\nNatos vestros sui fratres\nExornarit Filii;\nParadyso gaudiis\nUna se jam delectantes,\nLaetos Christum exspectantes\nReducem a mortuis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beata es o Bethlehem, Terra Juda, quae Herodis Regis immanitatem in puerorum extinctione perpessa eodem tempore candidatam Plebem imbellis infantiae Deo obtulisti."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Isti sunt, qui non inquinaverunt vestimenta sua,\n℟. Ambulabunt mecum in albis, quia digni sunt."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Christo Crucem sed perpesso,\nEt a mortuis regressso\nQui coelorum Principi\nAnte thronum jam servitis,\nSplendidaque superbitiis\nPurpura Martyrii;\nVestro nos precamine\nPromptos, simul, atque fortes\nPer adversitatum sortes\nHic in terris reddite."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mittentes coronas suas ante thronum Domini Dei sui, ceciderunt in conspectu throni in facies suas, et benedixerunt viventem in saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Hi empti sunt ex hominibus,\n℟. Primitiae Deo et Agno."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Laudes istas ex amore\nVestro dictas pro honore,\nCoronati Pugiles!\nMente sumite serena,\nHacque Mundi in arena\nVeros ut Christiades,\nSic certamen gerere\nNos pro Christo edocete,\nUt vobiscum quondam laete\nAstra detur colere."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Cantabant Sancti canticum novum ante sedem Dei et Agni, et resonabat terra in voces eorum."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Orate pro nobis SS. Innocentes,\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O Sanctissimi Innocentes, Flores et primitiae Martyrum, qui per innocentiam, palmamque Martyrii, Dei Filio infantes adhuc adhaesistis; Dignamini de plenitudine gratiae et innocentiae vestrae infirmitati ac miseriae meae succurrere, veniam peccatorum impetrare, illamque mihi consolationem exhibere, ut qui et ipse hanc lachrymarum vallem plorans et lachrymans intravi, vestra protectione in hac vita, ita valide semper defendar, quo peccatis omnibus Christi mundatus sanguine, ad aeterna tandem Regni caelestis gaudia comitantibus vobis merear proficisci. Per Jesum Christum, Dominum nostrum.\nAmen."
+      }
+    }
+  ]
+}

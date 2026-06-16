@@ -1,0 +1,37 @@
+{
+  "id": "little-office-bvm-norbertine",
+  "icon": "mary",
+  "name": {
+    "en-US": "Little Office of the Blessed Virgin Mary According to the Premonstratensian Use (Norbetines)"
+  },
+  "categories": [
+    "marian"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Blessed Virgin Mary According to the Premonstratensian Use (Norbetines), arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "marian",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 128,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "Taken from Breviarium ad usum Sacri et Canonici Ordinis Praemonstratensis (1710).\n\nNon dicitur in Officio Triplici quecunque nec a Vesperis anti Vigiliam Nativitatis Domini inclusis usque ad Octavam S. Stephani exclusive item in Vigilia Epiphaniae a Matutino nec in eribus ultimis diebus Majoris Hebdomade nec infra Octavas Paschae Pentecostes Corporis Christi Festorum B Maria scilicet Visitationis Assumptionis Nativitatis et Conceptionis nec non et Fasti S. P. N. Norberti Depositionis S. P. Augustini Principalisoris Fasti Patroni Omnium Sanctorum Dedicationis Ecclesiae Aliis vero diebus per totum annum dicitur in Choro ut infra Et quidem immediate post Officium Canonicum."
+  }
+}

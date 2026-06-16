@@ -1,0 +1,850 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Courtesy of Alan L., AlanL399.github.io"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Incipit"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmi"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmus 41"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Sicut cervus desiderat ad fontes aquarum, ita desiderat anima mea ad te Deus.\nSitivit anima mea ad Deum vivum: quando veniam, et apparebo ante faciem Dei?\nFuerunt mihi lacrimae meae panes die ac nocte, dum dicitur mihi quotidie: Ubi est Deus tuus?\nHaec recordatus sum, et effudi in me animam meam: quoniam transibo in locum tabernaculi admirabilis, usque ad domum Dei.\nIn voce exsultationis et confessionis, sonus epulantis.\nQuare tristis es anima mea, et quare conturbas me? Spera in Deo, quoniam confitebor illi: salutare vultus mei, et Deus meus.\nAd meipsum anima mea turbata est: propterea memor ero tui de terra Jordanis et Hermoniim, a monte modico.\nAbyssus abyssum invocat, in voce cataractarum tuarum.\nOmnia excelsa tua et fluctus tui super me transierunt.\nIn die mandavit Dominus misericordiam suam: et nocte canticum ejus, apud me oratio Deo vitae meae.\nDicam Deo: Susceptor meus es. Quare oblitus es mei? et quare contristatus incedo, dum affligit me inimicus?\nDum confringuntur ossa mea, exprobraverunt mihi qui tribulant me inimici mei: dum dicunt mihi per singulos dies: Ubi est Deus tuus?\nQuare tristis es anima mea, et quare conturbas me? Spera in Deo, quoniam confitebor illi: salutare vultus mei, et Deus meus.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmus 132"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Ecce quam bonum et quam iucundum habitare fratres in unum.\nSicut unguentum a capite quod descendit in barbam, in barbam Aaron, quod descendit in ora vestimenti ejus.\nSicut ros Hermon quod descendit in montem Syon.\nQuoniam illic mandavit Dominus benedictionem, et vitam usque in saeculum.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmus 133"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Ecce nunc benedicite Dominum omnes servi Domini.\nQui statis in domo Domini in atriis domus Dei nostri.\nIn noctibus extollite manus vestras in sancta et benedicite Dominum.\nBenedicat tibi Dominus ex Syon qui fecit caelum et terram.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Nostra conversatio fratres in caelis est unde etiam salvatorem expectamus Dominum nostrum Iesum Christum\nqui reformabit corpus humilitatis nostrae, conforme corpori claritatis suae secundum operationem\nqua possit etiam subjicere sibi omnia.\nNos ergo fratres, sic curramus ut comprehendamus; sic contendamus ut coronemur; sic perseveremus ut perveniamus.\nQuaecumque sunt vera, quaecumque pudica, quaecumque justa, quaecumque sancta, quaecumque amabilia, quaecumque bonae famae,\nhaec cogitate, haec agite.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Laudes"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia, alleluia. Media nocte clamor factus est: Ecce sponsus venit, exite obviam ei.\n℣. Alleluia.\nOleo recondite in vasis vestris ut lampades vestrae semper accensae sint.\n℟. Alleluia, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Nota. In tempore Quadragesimae non dicitur Alleluia in ista Lauda, sed dicitur: Laus tibi Domine, Rex aeternae gloriae."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Hymnus"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Quod quod voluisti artubus\nsomno gravatis, torpore,\nde iuramentis in somnio,\nturpique fluxu in semine."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Fusis pater piissime,\nexpostulamus fletibus,\nut iam recedant sordida\nludibrium phantasmata."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Laba quod hostis polluit,\nquod sordidavit innoua\nmundemus omnes sordibus,\ncarnis gravatae spiritus."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Praesta, Pater Piissime,\nPatrique compar Unice,\nCum Spiritu Paraclito\nRegnans per omne saeculum.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Credo, Versus, Kyrie, et Pater"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Credo in Deum Patrem omnipotentem. Et in Iesum Christum filium eius, unicum Deum et Dominum nostrum.\nQui natus est de Spiritu Sancto et Maria Virgine. Passus sub Pontio Pilato, crucifixus et sepultus.\nDescendit ad inferna. Tertia die resurrexit vivus a mortuis. Ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis.\nInde venturus iudicare vivos et mortuos. Credo in Sanctum Spiritum. Sanctam Ecclesiam Catholicam.\nRemissionem omnium peccatorum. Carnis huius resurrectionem et vitam aeternam.\n℟. Amen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Fiat Domine misericordia tua super nos: sicut speravimus in te."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Kyrie eleison.\n℟. Kyrie eleison.\n℟. Kyrie eleison."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Pater noster, qui es in caelis.\n℟. Amen.\n℣. Sanctificetur nomen tuum.\n℟. Amen.\n℣. Adveniat regnum tuum.\n℟. Amen.\n℣. Fiat voluntas tua, sicut in caelo, et in terra.\n℟. Amen.\n℣. Panem nostrum quotidianum da nobis hodie.\n℟. Quia Deus es.\n℣. Et dimitte nobis debita nostra, sicut nos dimittimus debitoribus nostris.\n℟. Amen.\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Miserationes (Preces)"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Clamores in die chotidiano"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Deus miserere, Deus miserere, Deus miserere, Deus miserere, Deus miserere.\n℣. Tu sana infirmos, ruccos caitiuos, colligo dispersos, subueni oppressis, succurre defunctis.\n℟. Deus miserere, Deus miserere, Deus miserere, Deus miserere, Deus miserere."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Sequenti versiculi dicuntur in Quadragesima."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Tu dele peccata, ignosce delicta, cole penam et extingue flammam, Deus miserere."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "De Traditione Domini"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Tu passus pro nobis tu uictor perhennius tu uia salutis clemens parce nobis.\n℟. Deus miserere, Deus miserere, Deus miserere, Deus miserere, Deus miserere."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Consolare ingentes letifica mentes, gratiam da pupillis itinerantium peregrinis requiem defunctis.\n℟. Deus miserere, Deus miserere, Deus miserere, Deus miserere, Deus miserere."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Plasmasti me miserere mei.\n℟. Consolare ingentes letifica mentes, gratiam da pupillis itinerantium peregrinis requiem defunctis."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Manus tue domine ipse fecerunt me miserere mei.\n℟. Consolare ingentes letifica mentes, gratiam da pupillis itinerantium peregrinis requiem defunctis."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dole domine iniquitates meas.\n℟. Qui plasmasti me miserere mei."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Tibi soli peccaui deus miserere mei.\n℟. Qui plasmasti me miserere mei."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Auerte domine faciem tuam a peccatis meis et miserere mei.\n℟. Qui plasmasti me miserere mei."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Tu scis domine quia peccaui tibi te precor domine miserere mei.\n℟. Consolare ingentes letifica mentes, gratiam da pupillis itinerantium peregrinis requiem defunctis."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus vobiscum.\n℟. Et cum spiritu tuo."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio Dominicalis"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Misericordiam tuarum domine imbrem super nos famulos tuos miseratus infunde et nostrarum imprecatiorum clamorem intendens omnia de decora facinora dele statque eterne omnipotens deus munus hoc acceptabile in conspectibus glorie tue quod pro ualitudine cunctorum fidelium pro reditu ad propria captiuorum pro collatione omnium dispersorum pro ereptione etiam oppressorum pro requiem omnium fidelium defunctorum antea tibi intento deferri conspicimus ut, quod aduentum glorie tue sollicite abstinentibus huius noctis iam medio tempore sanctissimi psalmo die ministerii seruientis exurgentes, nostrarum tibi facimus exorationum clamores. Tu pius exaudi, Tu clemens exaudi, Tu propicius fave, qui solus intenti nostri desiderii uales considerare facilime sentiamus loca que a latiaque ob hoc misericordie tue largissimum cuncium tutelam nos protectius esse ab nissu pestifero demonum varie in huius mundi tenebrosarum uiarum spacium quandoque illuc pertingere doci perfuere mereamur lumen eternum.\n℟. Amen.\n℣. Precede nos, lumen diuitatis tue, Deus noster, qui vivis et omnia regis in saecula saeculorum.\n℟. Amen.\n℣. Sufficientia cum pace.\n℟. Deo gratias."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio Feriales"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Miserere nobis domine miserere nobis et mittantes quas gessimus de metipsos accipiamus indulgentie digneris, que tanta est misericordia pietatis tue ut tandiu nos speriens errantes donec lapsos erigas ad salutem, et confitentes et perducis ad requiem.\n℟. Amen.\n℣. Precedete nos, lumen divinitatis tue, Deus noster, qui vivis et omnia regis in saecula saeculorum.\n℟. Amen.\n℣. Sufficientiam cum pace.\n℟. Deo gratias."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Incipit Secunda Hora Post Medium Noctis"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Surge et lauda in nocte et in principio vigiliarum tuarum effunde sicut aqua cor tuum in conspectu domini.\nLeua ad deum manus tuas pro remedio peccatorum tuorum."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Post recitabis hos tres cantici"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Cantici"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Canticum (Nemiae de libro Esdre). 2. Esdre 1."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Queso domine deus celi fortis magne atque terribilis qui custodis pactum et misericordiam cum his qui te diligunt et custodiunt mandata tua.\nFiant aures tue auscultans et oculi tui aperti, ut audias orationem servi tui, que ego oro coram te hodie nocte et die pro filiis israhel servis tuis.\nEt confiteor pro peccatis filiorum israhel in quibus peccaverunt tibi et ego domus patris mei.\nPeccavimus vanitatem seducti sumus, et non custodivimus mandatum et ceremonias atque judicia que precepisti moysi servo tuo.\nMemento verbi quod mandasti moysi famulo tuo dicens.\nCum transgressi fueritis dispergam vos in populos, et si reuertiamini ad me et custodieritis mandata mea et faciatis ea, etiamsi adducti fueritis ad extremam celi faciem inde congregabo vos, et inducam in locum que elegi ut habitare nomen meum ibi.\nEt ipsi servi tui et populus tuus, quos redemisti in fortitudine tua magna, et in manu tua valida.\nObsecro domine sit auris tua adtendens ad orationem servi tui, et ad orationum servorum tuorum qui volunt timere nomen tuum.\nDirige corum tuorum hodie et da eis misericordiam coram homine hunc.\nGloria, et honor Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Canticum (Oratio Manasse Regis de libro Ecclesiastes)."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Deus altissimus magnanimis miserator et multe misericordie patiens super mala hominum,\nTu ergo domine secundum multitudinem bonitatis tuae, promisisti indulgentiam et remissionem delinquentibus tibi et habundantiam misericordie tuae statuisit penitentiam peccatoribus ad salutem,\nTu ergo domine deus iustorum non posuisti penitentiam iustis tuis Abram Ysaac et Iacob qui non peccaverunt tibi,\nsed posuisti penitentiam mihi peccatori.\nQuoniam super numerum arenae maris habundaverunt iniquitates meae et non est declinatio multitudinis delictorum meorum.\nEt nunc incurvo genua cordis, deprecor clementiam tuam petens multis iniquis ferreis ad non erigendum caput,\nQuoniam non sum dignus aspicere et videre misericordiam celi pre iniquitatibus meis,\nNunc igitur inclina cor meum in patientia tua et remitte peccata mea, statuas abominationes et multiplices odiositates.\nNunc flecto genua cordis mei precans ad bonitatem.\nPeccavi domine peccavi, peccavi et iniquitatem meam ego agnosco.\nNe perdas me cum iniquitatibus meis, neque in finem iratus contineas mala mea neque condemneris me cum his qui sunt in inferiore terra.\nTu es enim deus penitentium ut in me ostendas bonitatem tuam.\nIndignum me salvas domine secundum multitudinem misericordie tuae et glorificabo nomen tuum in omni vita mea,\nQuoniam te laudat omnis virtus caelorum et tibi est gloria in saecula saeculorum."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Canticum (Oratio Ihesum filii Sirac). Ecclesiasticus 36."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Miserere nostri deus omnium et respice nos et ostende nobis lumen miserationis tuae.\nEt immitte timorem tuum super gentes quae non exquisierunt te ut cognoscant quia non est deus nisi tu et narrent magnalia tua,\nAlleva manum tuam super gentes alienas ut videant potentiam tuam.\nSicut enim in conspectu eorum sanctificatus es in nobis sic in conspectu nostro, magnificaberis in illis,\net cognoscant sicut nos cognovimus, quoniam non est deus preter te domine.\nInnova signa et immuta mirabilia,\nGlorifica manum et brachium dextrum,\nExcita furorem et effunde iram,\nExtolle adversarium et afflige inimicum,\nFestina tempus et memento finis ut enarrent magnalia tua,\nIn ira flamme devorentur qui saluantur et qui pessimiant plebem tuam inveniant perditionem,\nContere caput principum inimicorum dicentium non est alius preter nos,\nCongrega omnes tribus iacob et cognoscant quia non est deus nisi tu et narrent magnalia tua et hereditabunt eos sicut ab initium.\nMiserere plebi tue super quam invocatum est nomen tuum, et srl israhel quem coequasti primogenito tuo,\nMiserere civitatis sanctificationis tue hierusalem civitati requiei tuae,\nReple Syon inenarrabilibus virtutibus tuis et plebem tuam lauda populum tuum.\nDa testimonium qui hab initio creature tue sunt et suscita precationes quas locuti sunt in nomine tuo prophete priores.\nDa mercedem sustinentibus te ut inveniant fidem et exaudi orationes servorum tuorum.\nSecundum benedictionem Aaron da populo tuo et dirige nos in iustitia,\nUt sciant omnes qui inhabitant terram, quia tu es deus conspector saeculorum.\nGloria, et honor Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\nDeus altissimus magnanimis miserator et multe misericordie patiens super mala hominum.\nMiserere nostri deus omnium et respice nos et ostende nobis lumen miserationis tuae."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\nRex noster et deus noster verbi supplicum tuorum propitiatus intende et in principio uigiliarum tuarum ad te cum deuotione currentes dignanter exaudi. Ut pro multitudine misericordiae tuae domum sanctam tuam introye, ibique laudes tuas mereamur frequentius in tuo cantare timore.\n℟. Amen.\n℣. Procedete nos, lumen divinitatis tuae, Deus noster, qui vivis et omnia regis in saecula saeculorum.\n℟. Amen.\n℣. Perficiamus cum pace.\n℟. Deo gratias."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Deinde recitabis VIIII psalmos et III (alios) canticis (canticos) et sic dicis istos responsis (reponsos):"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Responsorium"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "De die Dominico"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Per diem clamavi et nocte coram te Domine intret in conspectu tuo oratio mea alleluia alleluia.\n℣. Media nocte surgebam ad confitendum tibi super iudicia iustitiae tuae.\n℟. Intret in conspectu tuo oratio mea alleluia alleluia.\nGloria Patri.\n℟. Intret in conspectu tuo oratio mea alleluia alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "De Quadragesima"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Vigilate et orate dicit Dominus nescitis qua hora Dominus domum veniat: sero, an media nocte, an galli cantum, an mane, et dum venerit repente inveniat vos dormientes.\n℣. Dominus Iesus Christus locutus est discipulis suis dicens: vigilate et orate ne intretis in tentationem.\n℟. Qua oportet semper orare et numquam deficere.\nGloria Patri.\n℟. Qua oportet semper orare et numquam deficere."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "De Virginibus"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Acceperunt prudentes oleum in vasis suis cum lampadibus: media autem nocte clamor factus est, ecce sponsus venit, exite obviam ei.\n℣. Oleum recondite in vasis vestris ut lampades vestrae sint semper accensae.\n℟. Ecce sponsus venit exite obviam ei.\nGloria Patri.\n℟. Ecce sponsus venit exite obviam ei."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Clamor factus est, ecce sponsus venit exite obviam ei.\n℣. Oleum recondite in vasis vestris ut lampades vestrae sint semper accensae.\n℟. Exite obviam ei.\nGloria Patri.\n℟. Exite obviam ei."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia (in Quadragesima)"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Meditatus sum nocte cum corde meo: anxiatus est spiritus meus et dixi: numquid in aeternum repelle Deus?\n℣. Timor et tremor venerunt super me et contexerunt me tenebrae.\n℟. Numquid in aeternum repelle Deus?\nGloria Patri.\n℟. Numquid in aeternum repelle Deus?"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Vigila Domine super gressus meos ne fur nocturnus veniat et furetur et perdat nos.\n℣. Ne fur nocturnus veniat et furetur et perdat nos.\n℟. Clama et dic Deus meus miserere mei.\nGloria Patri.\n℟. Ne fur nocturnus veniat et furetur et perdat nos."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Vigilate et orate ne intretis in tentationem.\n℣. Videte ne quando aggraventur corda vestra in crapula et ebrietate et in curis huius mundi.\n℟. Ne intretis in tentationem.\nGloria Patri.\n℟. Ne intretis in tentationem."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Anima mea desideravit te Deus in nocte: de mane vigilabo ad te.\n℣. Sicut cervus desiderat ad fontes aquarum ita desiderat anima mea ad te Deus.\n℟. De mane vigilabo ad te.\nGloria Patri.\n℟. De mane vigilabo ad te."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia (una Virgine)"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Simile est regnum caelorum decem virginibus quae accipientes lampadas suas exierunt sponso obviam, et quae paratae erant intraverunt cum eo ad nuptias, et clausa est ianua.\n℣. Media nocte clamor factus est, ecce sponsus venit, exite obviam ei.\n℟. Et quae paratae erant intraverunt cum eo ad nuptias, et clausa est ianua.\nGloria Patri.\n℟. Et quae paratae erant intraverunt cum eo ad nuptias, et clausa est ianua."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Ora Dominum ante lucem, et oranti tibi miserebitur: et omnia quae petieris dabo tibi Dominus.\n℣. Si simplex fueris et timueris Deum eris excidens a malo.\n℟. Et omnia quae petieris dabo tibi Dominus.\nGloria Patri.\n℟. Et omnia quae petieris dabo tibi Dominus."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Domine Deus, ad te levavi oculos meos: de in tribulationibus meis exaudi me.\n℣. De profundis clamavi ad te Domine: exaudi vocem meam.\n℟. De in tribulationibus meis exaudi me.\nGloria Patri.\n℟. De in tribulationibus meis exaudi me."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Anima mea cessat iam peccare, cogitat de subitanea transpositione et de aeterna tormenta: ibi enim non queritur paenitentia, nec lucrum faciunt lacrimae. Dum tempus habes, clama et dic: Deus meus, miserere mei.\n℣. Quare tristis es, anima mea, et quare conturbas me? Spera in Domino.\n℟. Clama et dic: Deus meus, miserere mei.\nGloria Patri.\n℟. Clama et dic: Deus meus, miserere mei."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Prophetia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spíritu tuo."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Lectio libri Esaye Prophete. Cap. 30."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Deo gratias."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Haec dicit dominus deus sanctus srl Israel. Si reuertimini ad me et quiescatis in silentio et in spe erit fortitudo uestra. Propterea expectat dominus ut misereatur uestri et ideo exaltabitur parcens uobis, quia deus iudicii dominus, beati omnes qui expectant eum.\n℟. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Epistola"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Epistola Iacobi Apostoli ad duodecim tribus. Cap. 4.\n℟. Deo grátias."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Carissimi: Subditi estote deo, Resistite autem diabolo et fugiet a uobis. Adpropinquate deo et adpropinquabit uobis. Et mundate manus peccatorum et sanctificate corda duplices animo. Miseri estote, lugete et plorate, Risus uester in luctum conuertatur et gaudium in merorem. Humiliamini in conspectu domini, et exaltabit uos.\n℟. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Laudes"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia, alleluia, alleluia, alleluia, alleluia.\n℣. De profundis clamavi ad te domine.\n℟. Alleluia, alleluia, alleluia, alleluia, alleluia.\n℣. Domine exaudi vocem meam.\n℟. Alleluia, alleluia, alleluia, alleluia, alleluia.\n℣. Fiant aures tuae intendentes orationem servi tui.\n℟. Alleluia, alleluia, alleluia, alleluia, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alius"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia, alleluia, alleluia, alleluia, alleluia.\n℣. Beati servi illi quos cum venerit dominus inuenerit vigilantes.\n℟. Alleluia, alleluia, alleluia, alleluia, alleluia.\n℣. Amen dico uobis quoniam precinget se et ministrabit illis.\n℟. Alleluia, alleluia, alleluia, alleluia, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Nota, quod in tempore Quadragesimae non dicitur Alleluia in ista Lauda, sed dicitur:"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "De Quadragesime"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Laus tibi, laus tibi, laus tibi domine, Rex eterne glorie.\n℣. Beati servi illi quos cum venerit dominus inuenerit vigilantes.\n℟. Rex eterne glorie.\n℣. Amen dico uobis quoniam precinget se et ministrabit illis.\n℟. Rex eterne glorie."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Hymnus"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Surgentes ad te domine\natre noctis silentio,\nuigilijs obsequiis\npatrum sequentes ordinem."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Quem nobis dereliquerunt\niure hereditario\nministrantes excubiis\ntibi sanctae paraclite."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Pari cum patre clarus est\ncum Christo subtilissimus\nmulti modis spiritus rex\nmisticus agnosceris."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Fragiles carne conspicit\nquos ille antiquissimus,\nsuis decepit artibus\ntuis trahe uirtutibus."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Grex tuus tibi deditus\nnullo tenetur crimine\nquem tuo Christe sanguine\nuoluisti redimere."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oues er[l]antes preuide\npastor bone piissime\nad aulam celsitudinis\ntuis reporta umeris."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Tabefactus et saucius\nabscedat princeps demonum,\nperdat predam de faucibus\ninsatiata rapiens."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Exultet Christe dominus\npsallat corus angelicus\nlaudes insonent in organo\nter sanctus dicat domino."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alium"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Ihesu defensor omnium\nprotector et mirabilis\nsueta noctis aduenit\net nos sopore deditii."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "In tuo sancto nomine\nqui custos et defensor es\net uigilem spiritu\nut mereamur lampades."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Cantores tuos domine\nquos iubes nocte surgere\nad inuocandum tuum nomen\nquod nobis est laudabile."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Quem omnis terra metuit\npro tanta magnitudine\nsequamur in tua laude\nquod pie sancte precipis."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Ymnorum cantus resonet\nde corda te credentium\nsequamur tanti gaudii\npromissa sancti spiritus."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Clamor in nocte factus est\nIhesus ingressus ianuis\net uigilantes prouocat\nintrare sancta regina."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Gaudet sponsus uirginum\ningressus in cubiculo\nubi coronas martyrum\nrefulgent ante dominum."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Mercedem tanti gloriae\ndaturus est credentibus\nquod nobis sitit animus\nsic mereamur consequi."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Medium noctis tempus est\nprophetica uox admonet\ndicamus laudes domino\npatri semper et filio."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Sancto quoque spiritui\nperfecta enim trinitas,\nunius substantiae\nlaudanda semper nobis est."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alium"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Medie noctis tempore\npergens uastor angelus\nEgyptus mortem inferens\ndiluit primogenita."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Haec hora iustis salus est\nin quo se unctus angelus\nausus punire non fuit\nsignum formidans sanguinis."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Egyptus flebat fortiter\ntantarum dira funera\nsolus gaudebat Israel\nagni protector sanguinis."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Nos uero Israel sumus\nletemur in te domine,\nhostem prosternentes malum\nChristi defensi sanguine."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Medie noctis tempore\nper uoce euangelica\nuenturus sponsus creditur\nregni celestis conditor."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Occurrunt sancte uirgines\nobuiam tunc aduentui\nclaras gestantes lampades\nmagno letantes gaudio."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Stulte fores remanent\nque extinctas habent lampades\nfrustra pulsantes ianua\nclausa iam regni regia."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Quare uigilemus sobrie\ngestantes mente splendide\net adueniente Ihesu\ndigni occuramus obuiam."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Medie noctis tempore\nPaulus quoque et Sileas\npro Christo uncti in carcere\nlaudando resoluti sunt."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Nobis hic mundus carcere\nest Christe resolue uincula\nnostra relaxa crimina,\nin te sancte credentium."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Dignos nos fac rex agie\nuenturi regni glorie\neternis ut mereamur\nte laudibus concinere."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Praesta, Pater Piissime,\nPatrique compar Unice,\nCum Spiritu Paraclito\nRegnans per omne saeculum."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Clamores"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\nMedia nocte surgebam ad confitendum tibi super iudicia iustitiae tuae.\nFunes peccatorum circumplexi sunt me et legem tuam non sum oblitus.\nDeprecatus sum faciem tuam de toto corde meo, miserere mei Deus.\nDelicta iuventutis meae et ignorantias meas ne memineris.\nQui cognoscis omnia occulta peccata mea, munda me.\nTempus misericordiae veniat, ut repentinae peccavi, miserere mei Deus.\nSecundum magnam misericordiam tuam, et secundum multitudinem miserationum tuarum, dele iniquitates meas, miserere mei Deus.\nCor mundum crea in me Deus, et spiritum rectum innova in visceribus meis.\nRedde mihi laetitiam salutaris tui et spiritu principali confirma me.\nGloria et honor Patri, et Filio, et Spiritui Sancto. Miserere mei Deus.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. Miserere mei Deus.\nQui cognoscis omnia occulta peccata mea, munda me.\nTempus misericordiae venit et repentinae peccavi, miserere mei Deus."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Miserationes"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\n℣. Miserere Domine, miserere nobis tibi soli peccavimus, indulge nobis rogamus.\n℟. Kyrie eleison.\n℣. Lapsi sumus graviter in peccatis magnis veniam precamur Christe parce nostris delictis.\n℟. Kyrie eleison.\n℣. Scelus admissus non reddas ut mereamur Pater pie dele noxa et errata relaxa.\n℟. Kyrie eleison.\n℣. Penitentibus reis conlueris religiosis cor contritis et elisis iam succurre Rex caelestis.\n℟. Kyrie eleison.\n℣. Pauperibus egenis iterantibus naufragis lapsis viduis pupillis iam succurre Rex caelestis.\n℟. Kyrie eleison.\n℣. Peregrinis oppressis dispersis et captis unictis egri et defunctis iam succurre Rex caelestis.\n℟. Kyrie eleison.\n℣. Quis est homo domine et ut indigneris aut genus corruptibile ut ita amariceris de ipso.\n℟. Kyrie eleison.\n℣. Nemo dignus est qui non impie gessit nec de confitentibus qui tibi non deliquit.\n℟. Kyrie eleison.\n℣. In hoc nuntiatibur bonitas tua Deus quum misertus fueris iniquitatibus nostris.\n℟. Kyrie eleison.\n℣. Si peccavimus in te tu sumus Christe expectantes domine misericordiam tuam.\n℟. Kyrie eleison.\n℣. Miserere Domine, miserere nobis tibi soli peccavimus, indulge nobis rogamus.\n℟. Kyrie eleison."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\n℣. In nomine Domini nostri Jesu Christi perficiamus cum pace.\n℟. Deo gratias."
+      }
+    }
+  ]
+}

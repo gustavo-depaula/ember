@@ -1,0 +1,37 @@
+{
+  "id": "little-office-saint-mary-magdalene",
+  "icon": "candle",
+  "name": {
+    "en-US": "Little Office of Saint Mary Magdalene, Patroness of Penitents"
+  },
+  "categories": [
+    "saints"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Saint Mary Magdalene, Patroness of Penitents, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "saints",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 170,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From Sulamittis Officiosa (1714)."
+  }
+}

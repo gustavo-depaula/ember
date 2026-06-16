@@ -1,0 +1,440 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Michael Archangele, defende me in praelio, ut non peream in tremendo judicio.\nAmen.\n℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri et Filio etc. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vel a Septuagesima usque ad Pascha:\nLaus tibi Domine Rex aeternae gloriae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Invicte princeps Michael,\nexercitus caelestis;\nquae magna facta gesseris,\nlaudum canamus hymnis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Michael praeposite paradisi, quem honorificant Angelorum cives, intercede pro nobis ad Dominum.\n℣. Gloriosus apparuisti in conspectu Domini.\n℟. Propterea decorem induit te Dominus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus cujus claritatis fulgore, beatus Michael praecellit agmina Angelorum; praesta quaesumus, ut sicut ille dono tuo principatum meruit habere coelestem, ita et nos ejus precibus vitam obtineamus aeternam. Per Christum Dominum nostrum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Michael Archangele, defende me in praelio, ut non peream in tremendo judicio.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Primo rebelles Angelos,\napostatas superbos,\nvictor tremendo praelio\nad tartarum trusisti."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Apoc. 12"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Factum est praelium magnum in coelo, Michael et Angeli ejus praeliabantur cum dracone; et draco pugnabat, et angeli ejus, et non valuerunt, neque locus inventus est eorum amplius in coelo. Et projectus est draco ille magnus, serpens antiquus, qui dicitur diabolus et satanas."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sub umbra alarum tuarum sancte Michael protege me.\n℟. A facie inimicorum meorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus qui per gloriosum Archangelum tuum Michaelem, apostatam ac superbum luciferum, cum Angelis suis de coelo dejecisti; mitte quaeso in adjutorium meum, eundem Angelum, ut me adversus diabolicos insultus in vita et in morte mea protegat, et ad vitam aeternam perducat.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Michael Archangele, defende me in praelio, ut non peream in tremendo judicio.\nAmen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Primos parentes flebiles\nsolatus es post lapsum;\ndicens, eos a Filio\nDei, futuros salvos."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Ex Daniel"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Princeps regni Persarum restitit mihi viginti et uno diebus, veruntamen Michael Archangelus, Princeps magnus, qui stat pro filiis populi tui, erit adjutor meus.\n℣. Sancte Michael Archangele,\n℟. Ora pro nobis Deum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui ex tua ineffabili bonitate, sanctum Michaelem Archangelum tuum ad nostra defensionem mittere dignaris: te suppliciter deprecamur, ut eodem pro nobis intercedente Angelico suffragio, a subitanea morte et aeterna damnatione nos eripias, et in regno tuo collocare facias, in quo cum eodem Principe et Archangelo, atque omnibus Sanctis in perpetuum te laudemus et glorificemus.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Michael Archangele, defende me in praelio, ut non peream in tremendo judicio.\nAmen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ducente te grex Israel\nolim per annos multos\ndefensus est, et attigit\npromissionis terram."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Exodi 23"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mittam Angelum meum, qui praecedat te et custodiat in via, et introducat in locum quem praeparavi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Apprehende arma et scutum sancte Michael.\n℟. Et exurge in adjutorium mihi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO Invicte Dux, et Princeps militiae Domini, sancte Michael, veni quaeso in auxilium animae meae, quae continenter in tanto periculo a suis inimicis carne, mundo, daemone impugnatur; et sicut dux fuisti populo Israel per desertum, sic quoque velis esse dux et comes meus per desertum hujus mundi, donec secure me perduxeris ad felicem terram viventium.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Michael Archangele, defende me in praelio, ut non peream in tremendo judicio.\nAmen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu, sicut olim jussus es\npraeesse Synagogae;\nnunc factus es Ecclesiae\nProtector universae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Princeps gloriosissime Michael, Dux coelestium exercituum, susceptor animarum debellator malorum spirituum, Ecclesiae Dei post Christum admirabilis et grandis excellentiae et virtutis, rector, omnes nos reclamantes ad te ab omni libera adversitate, et in omni cultu Dei facias proficere, tuo preciosissimo officio et dignissima prece.\n℣. Ora pro nobis S Michael.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nOmnipotens sempiterne Deus qui saluti humanae naturae ex summa clementia tua, gloriosum Principem Ecclesiae tuae Michaelem Archangelum mirabiliter deputasti: concede propitius, ut ejus salutari subsidio hic mereamur ab omnibus hostibus tueri efficacissime, et in obitu nostro ab omni tentatione liberari, tuaeque excelsae majestati beatifice per eum praesentari. Per Christum Dominum nostrum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Michael Archangele, defende me in praelio, ut non peream in tremendo judicio.\nAmen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mentes solutas corpore\ntu suscipis benigne\nbeatus est quicumque te\ntunc senserit patronum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Josue 5"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cum esset Josue in agro urbis Jericho levavit oculos, et vidit virum stantem coram se evaginatum gladium tenentem; perrexitque ad eum et ait: noster es an adversariorum? qui respondit, nequaquam, sed sum Princeps exercitus Domini, et ecce venio."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Exurge in occursum meum sancte Michael.\n℟. Et suscipe animam meam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO Victoriose triumphator Archangele sancte Michael, te humiliter deprecor, ut in die exitus animae meae, uti semper promptus fuisti in omni periculo animarum fidelium, maximeque earum, quae te specialius amaverunt, et tibi devote servierunt; mihi quoque, cum Angelis tuis tuoque exercitu personaliter adesse, mihi subvenire, pro me pugnare, et animam meam in benedictas manus tuas suscipere, et ad coeleste regnum deferre digneris.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Michael Archangele, defende me in praelio, ut non peream in tremendo judicio.\nAmen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per te cadet fidelibus\nInfensus Antichristus:\nTuba citabis mortuos\nCum judicabit Christus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Daniel 12"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In tempore autem illo consurget Michael Princeps magnus, qui stat pro filiis populi tui: et veniet tempus quale non fuit unquam ab eo ex quo gentes esse coeperunt, usque ad tempus illud; in tempore illo salvabitur populus tuus omnis, qui inventus fuerit scriptus in libro. Et multi de his, qui dormiunt in terrae pulvere, evigilabunt, alii in vitam aeternam, alii in opprobrium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ipse Dominus in jussu et voce Archangeli.\n℟. Descendet de coelo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO gloriose Princeps Archangele sancte Michael, qui tot pugnis interfusisti, per te divina virtus multa praeclara praestitit, atque praestata est; quoties mire virtutis aliquid agendum fuit, Deus semper misit, teque super alios Angelos suos, non tantum in coelis, sed et in terris amari, venerari, praedicari, et memoria tua haberi voluit, tibi denique jam ab exordio creationis tuae prima et ultima tot et tam honorifica officia demandavit; humiliter te rogo, ut impetres mihi mortem bonam et sanctam, ita ut pleno sensu, fide recta, et firma, spe bona et charitate perfecta letus ad Caelestem Hierusalem ascenda.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Michael Archangele, defende me in praelio, ut non peream in tremendo judicio.\nAmen.\n℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Christi crucem tunc praefers\nIn gloria triumphans:\nCoelo beatos infers,\nEt tartaro malignos."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Matth 13"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In consummatione saeculi exibunt Angeli, et separabunt malos de medio justorum, et mittent eos in caminum ignis; ibi erit fletus et stridor dentium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Tropaeum crucis feret Archangelus Michael.\n℟. Cum Dominus ad judicandum venerit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nSummae sedis minister, Princeps militiae coelestis, et signifer celsorum supernorum sancte Michael Angele piissime, Archangele placidissime tibi corpus et animam meam tota intentione tuendam commito, tibi specialiter post Deum et Deiparentem vitae et mortis meae curam commendo, te hodie et quotidie in praesentia totius coelestis curiae pro singulari Patrono, Protectore et Advocato meo eligo, obsecro igitur te per gloriam illam, quam in coelo jam frueris, ut hoc propositum meum, et gravem habeas sincerum hunc affectum erga te meum. O serve Dei excelse sancte Michael, ego te saluto millies et millies, ego te veneror et invoco, ego in argumentum gaudii ac gloriae tibi offero totius boni, totiusque beatitudinis gazophylacium, cor Jesu Christi dulcissimum. Gratias ago ipsi Domino Deo nostro pro beatitudine, quam tibi contulit, et pro eo, quod te sic super alios Angelos suos, nominari, praedicari, et honorari, et exaltari voluit. Adesto mihi nunc et semper, at maxime in fine vitae meae, ipsum obitum meum attenuis tibi commendo, benigne me tu consolare, conforta et protege. Impetra mihi augmentum fidei, spei, et charitatis, non permittas me sancte Michael, nec in vita, nec in morte a sancta fide Catholica declinare, nec in foveam desperationis deduci, neque de operibus meis bonis, quae cum divina gratia operatus sum, praesumere. Impetra mihi plena omnium peccatorum meorum veniam, et spiritum bonum, ac sanctam gratiam, et ut illi perfecte reconcilier, illique jugiter placeam, et ut sim homo secundum cor Dei, et illum amplius non offend. Impetra mihi veram et profundam humilitatem, et alias virtutes omnes, effice tuis gloriosis precibus et meritis ut anima mea tota munda hinc exeat, ad vitam aeternam perveniat. Insuper rogo te praeclarum atque decorum summe Divinitatis ministrum, ut in novissimo die benigne suscipias animam meam in sinu tuo sanctissimo, et eam comitantibus Angelo custode meo, et Angelis tuis, ad requiem sempiternam cum exultatione perducas.\nAmen."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Has horas canonicas cum devotione\nDixi, sancte Michael, tui ratione,\nPrecor me suscipias mortis in agone,\nEt praesentem statuas in coeli regione.\n\nAmen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1904 @@
+{
+  "sections": [
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Matins and Lauds only."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-11": "matins",
+        "12-23": "lauds"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Incipit officium beate Marie virginis secundum usum et consuetudinem Sarum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domine labia mea aperies.\nEt os meum annunciabit laudem tuam.\nDeus in adiutorium meum intende.\nDomine ad adiuvandum me festina.\nGloria Patri et Filio et Spiritui Sancto.\nSicut erat in principio et nunc et semper et in saecula saeculorum. Amen.\nAlleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Invitatorium"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Maria, gratia plena. Dominus tecum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 94"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Venite, exsultemus Domino, iubilemus Deo salutari nostro.\nPraeoccupemus faciem eius in confessione, et in psalmis iubilemus ei.\nAve Maria\nQuoniam Deus magnus Dominus, et rex magnus super omnes deos, quoniam non repellit Dominus plebem suam, quia in manu eius sunt omnes fines terrae, et altitudines montium ipse conspicit.\nDominus tecum.\nQuoniam ipsius est mare, et ipse fecit illud, et aridam fundaverunt manus eius. Venite, adoremus et procidamus ante Deum, ploremus coram Domino qui fecit nos, quia ipse est Dominus Deus noster; nos autem populus eius, et oves pascuae eius.\nAve Maria.\nHodie, si vocem eius audieritis, nolite obdurare corda vestra, sicut in exacerbatione, secundum diem tentationis in deserto, ubi tentaverunt me patres vestri, probaverunt et viderunt opera mea.\nDominus tecum.\nQuadraginta annis proximus fui generationi huic, et dixi: Semper hi errant corde. Ipsi vero non cognoverunt vias meas, quibus iuravi in ira mea: Si introibunt in requiem meam.\nAve Maria, gratia plena, Dominus tecum.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat.\nDominus tecum.\nAve Maria, gratia plena, Dominus tecum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quem terra, pontus, aethera\ncolunt, adorant, praedicant,\ntrinam regentem machinam\nclaustrum Mariae baiulat.\n\nCui luna, sol, et omnia\ndeserviunt per tempora,\nperfusa caeli gratia\ngestant puellae viscera.\n\nBeata mater munere\ncuius supernus artifex,\nmundum pugillo continens,\nventris sub arca clausus est.\n\nBeata caeli nuntio,\nfecunda sancto Spiritu,\ndesideratus gentibus,\ncuius per alvum fusus est.\n\nGloria tibi, Domine,\nqui natus es de Virgine,\ncum Patre et Sancto Spiritu\nin sempiterna saecula. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 8"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domine Dominus noster quam admirabile est nomen tuum in universa terra.\nQuoniam elevata est magnificentia tua super caelos.\nEx ore infantium et lactentium perfecisti laudem propter inimicos tuos: ut destruas inimicum et ultorem.\nQuoniam videbo caelos tuos opera digitorum tuorum: lunam et stellas quae tu fundasti.\nQuid est homo quod memor es ejus? aut filius hominis quoniam visitas eum?\nMinuisti eum paulo minus ab angelis: gloria et honore coronasti eum.\nEt constituisti eum super opera manuum tuarum.\nOmnia subjecisti sub pedibus ejus: oves et boves universas, insuper et pecora campi.\nVolucres caeli et pisces maris: qui perambulant semitas maris.\nDomine Dominus noster quam admirabile est nomen tuum in universa terra.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 18"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caeli enarrant gloriam Dei, et opera manuum ejus annuntiat firmamentum.\nDies diei eructat verbum, et nox nocti indicat scientiam.\nNon sunt loquelae neque sermones, quorum non audiantur voces eorum.\nIn omnem terram exivit sonus eorum, et in fines orbis terrae verba eorum.\nIn sole posuit tabernaculum suum: et ipse tamquam sponsus procedens de thalamo suo.\nExsultavit ut gigas ad currendam viam: a summo caelo egressio ejus.\nEt occursus ejus usque ad summum ejus: nec est qui se abscondat a calore ejus.\nLex Domini immaculata convertens animas: testimonium Domini fidele sapientiam praestans parvulis.\nJustitiae Domini rectae laetificantes corda: praeceptum Domini lucidum illuminans oculos.\nTimor Domini sanctus permanens in saeculum saeculi: judicia Domini vera justificata in semetipsa.\nDesiderabilia super aurum et lapidem pretiosum multum: et dulciora super mel et favum.\nEtenim servus tuus custodit ea: in custodiendis illis retributio multa.\nDelicta quis intelligit? ab occultis meis munda me.\nEt ab alienis parce servo tuo: si mei non fuerint dominati, tunc immaculatus ero, et emundabor a delicto maximo.\nEt erunt ut complaceant eloquia oris mei: et meditatio cordis mei in conspectu tuo semper.\nDomine adjutor meus et redemptor meus.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 23"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domini est terra et plenitudo ejus: orbis terrarum et universi qui habitant in eo.\nQuia ipse super maria fundavit eum: et super flumina praeparavit eum.\nQuis ascendet in montem Domini? aut quis stabit in loco sancto ejus?\nInnocens manibus et mundo corde: qui non accepit in vano animam suam nec juravit in dolo proximo suo.\nHic accipiet benedictionem a Domino: et misericordiam a Deo salutari suo.\nHaec est generatio quaerentium eum: quaerentium faciem Dei Jacob.\nAttollite portas principes vestras, et elevamini portae aeternales: et introibit rex gloriae.\nQuis est iste rex gloriae? Dominus fortis et potens: Dominus potens in praelio.\nAttollite portas principes vestras, et elevamini portae aeternales: et introibit rex gloriae.\nQuis est iste rex gloriae? Dominus virtutum ipse est rex gloriae.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Dei Genetrix, Virgo semper Maria,\nIntercede pro nobis ad Dominum, Deum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster.\nEt ne nos."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Iube, Domine, benedicere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Benedictio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Alma Virgo virginum, intercede pro nobis ad Dominum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Lectio I"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria, virgo virginum,\nmater et filia regis regum omnium,\ntuum nobis impende solacium,\nut caelestis regni per te mereamur habere praemium,\net cum electis Dei regnare in perpetuum.\nTu autem, Domine, miserere nostri.\nDeo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta et immaculata virginitas,\nquibus te laudibus referam nescio.\nQuia quem caeli capere non poterant,\ntuo gremio contulisti."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui. Quia..."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Iube, Domine, benedicere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Benedictio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ora mente pia pro nobis, Virgo Maria. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Lectio II"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria, piarum piissima,\nintercede pro nobis, sanctarum sanctissima,\nut per te, Virgo, nostra sumat precamina\nqui pro nobis ex te natus regnat super aethera,\nut sua caritate nostra deleantur peccamina.\nTu autem, Domine, et cetera."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beata es, Virgo Maria,\nquae Dominum portasti creatorem mundi.\nGenuisti qui te fecit,\net in aeternum permanes virgo.\nAve Maria, gratia plena, Dominus tecum.\nGenuisti."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Iube, Domine, benedicere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Benedictio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Dei Genetrix sit nobis auxiliatrix. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Lectio III"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Dei Genetrix, quae digne meruisti concipere,\nquem totus orbis nequivit comprehendere,\ntuo pio interventu culpas nostras ablue,\nut perhennis sedem gloriae\nper te redempti valeamus scandere,\nubi manes cum Filio tuo sine tempore.\nTu autem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Felix namque es sacra Virgo Maria,\net omni laude dignissima,\nquia ex te ortus est sol iustitiae, Christus Deus noster."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ora pro populo, interveni,\npro clero intercede,\npro devoto feminino sexu sentiant omnes\ntuum levamen, quicumque celebrant tuam commemorationem.\nQuia...\nGloria Patri.\nChristus Dominus noster."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Te Deum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te Deum laudamus: te Dominum confitemur.\nTe aeternum Patrem omnis terra veneratur.\nTibi omnes Angeli, tibi caeli et universae potestates.\nTibi Cherubim et Seraphim incessabili voce proclamant:\nSanctus, Sanctus, Sanctus Dominus Deus Sabaoth.\nPleni sunt caeli et terra maiestatis gloriae tuae.\nTe gloriosus Apostolorum chorus,\nTe Prophetarum laudabilis numerus,\nTe Martyrum candidatus laudat exercitus.\nTe per orbem terrarum sancta confitetur Ecclesia,\nPatrem immensae maiestatis,\nVenerandum tuum verum et unicum Filium,\nSanctum quoque Paraclitum Spiritum.\nTu Rex gloriae Christe.\nTu Patris sempiternus es Filius.\nTu ad liberandum suscepturus hominem non horruisti Virginis uterum.\nTu devicto mortis aculeo, aperuisti credentibus regna caelorum.\nTu ad dexteram Dei sedes, in gloria Patris.\nJudex crederis esse venturus.\nTe ergo quaesumus tuis famulis subveni, quos pretioso sanguine redemisti.\nAeterna fac cum sanctis tuis in gloria numerari.\nSalvum fac populum tuum Domine: et benedic hereditati tuae.\nEt rege eos, et extolle illos usque in aeternum.\nPer singulos dies benedicimus te.\nEt laudamus nomen tuum in saeculum, et in saeculum saeculi.\nDignare Domine die isto sine peccato nos custodire.\nMiserere nostri Domine, miserere nostri.\nFiat misericordia tua Domine super nos: quemadmodum speravimus in te.\nIn te Domine speravi: non confundar in aeternum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ora pro nobis, sancta Dei Genitrix,\nut digni efficiamur promissionibus Christi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in adiutorium meum intende.\nDomine, ad adiuvandum me festina.\nGloria Patri.\nSicut erat."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O admirabile."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 91"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dominus regnavit decore indutus est: indutus est Dominus fortitudinem et praecinxit se.\nEtenim firmavit orbem terrae qui non commovebitur.\nParata sedes tua ex tunc: a saeculo tu es.\nElevaverunt flumina Domine: elevaverunt flumina vocem suam.\nElevaverunt flumina fluctus suos: a vocibus aquarum multarum.\nMirabiles elationes maris: mirabilis in altis Dominus.\nTestimonia tua credibilia facta sunt nimis: domum tuam decet sanctitudo Domine in longitudinem dierum.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 99"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jubilate Deo omnis terra: servite Domino in laetitia.\nIntroite in conspectu ejus in exsultatione.\nScitote quoniam Dominus ipse est Deus: ipse fecit nos et non ipsi nos.\nPopulus ejus et oves pascuae ejus: introite portas ejus in confessione.\nAtria ejus in hymnis: confitemini illi, laudate nomen ejus.\nQuoniam suavis est Dominus, in aeternum misericordia ejus: et usque in generationem et generationem veritas ejus.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 62"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus Deus meus ad te de luce vigilo.\nSitivit in te anima mea: quam multipliciter tibi caro mea.\nIn terra deserta et invia et inaquosa: sic in sancto apparui tibi.\nUt viderem virtutem tuam et gloriam tuam: quoniam melior est misericordia tua super vitas.\nSic benedicam te in vita mea: et in nomine tuo levabo manus meas.\nSicut adipe et pinguedine repleatur anima mea: et labiis exsultationis laudabit os meum.\nSi memor fui tui super stratum meum: in matutinis meditabor in te.\nQuia fuisti adjutor meus: et in velamento alarum tuarum exsultabo.\nAdhaesit anima mea post te: me suscepit dextera tua.\nIpsi vero in vanum quaesierunt animam meam: introibunt in inferiora terrae.\nTradentur in manus gladii: partes vulpium erunt.\nRex vero laetabitur in Deo: laudabuntur omnes qui jurant in eo.\nQuia obstructum est os loquentium iniqua.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 66"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus misereatur nostri et benedicat nobis: illuminet vultum suum super nos et misereatur nostri.\nUt cognoscamus in terra viam tuam: in omnibus gentibus salutare tuum.\nConfiteantur tibi populi Deus: confiteantur tibi populi omnes.\nLaetentur et exsultent gentes: quoniam judicas populos in aequitate et gentes in terra dirigis.\nConfiteantur tibi populi Deus: confiteantur tibi populi omnes.\nTerra dedit fructum suum: benedicat nos Deus Deus noster.\nBenedicat nos Deus: et metuant eum omnes fines terrae.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Danielis"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicite omnia opera Domini Domino: laudate et superexaltate eum in saecula.\nBenedicite Angeli Domini Domino: benedicite caeli Domino.\nBenedicite aquae omnes quae super caelos sunt Domino: benedicite omnes virtutes Domini Domino.\nBenedicite sol et luna Domino: benedicite stellae caeli Domino.\nBenedicite imber et ros Domino: benedicite omnes spiritus Dei Domino.\nBenedicite ignis et aestus Domino: benedicite frigus et aestus Domino.\nBenedicite rores et pruina Domino: benedicite gelu et frigus Domino.\nBenedicite glacies et nives Domino: benedicite noctes et dies Domino.\nBenedicite lux et tenebrae Domino: benedicite fulgura et nubes Domino.\nBenedicat terra Dominum: laudet et superexaltet eum in saecula.\nBenedicite montes et colles Domino: benedicite universa germinantia in terra Domino.\nBenedicite fontes Domino: benedicite maria et flumina Domino.\nBenedicite cete et omnia quae moventur in aquis Domino: benedicite omnes volucres caeli Domino.\nBenedicite omnes bestiae et pecora Domino: benedicite filii hominum Domino.\nBenedicat Israel Dominum: laudet et superexaltet eum in saecula.\nBenedicite sacerdotes Domini Domino: benedicite servi Domini Domino.\nBenedicite spiritus et animae justorum Domino: benedicite sancti et humiles corde Domino.\nBenedicite Anania Azaria Misael Domino: laudate et superexaltate eum in saecula.\nBenedicamus Patrem et Filium cum Sancto Spiritu: laudemus et superexaltemus eum in saecula.\nBenedictus es Domine in firmamento caeli: et laudabilis et gloriosus et superexaltatus in saecula.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 148"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum de caelis: laudate eum in excelsis.\nLaudate eum omnes Angeli ejus: laudate eum omnes virtutes ejus.\nLaudate eum sol et luna: laudate eum omnes stellae et lumen.\nLaudate eum caeli caelorum: et aquae omnes quae super caelos sunt laudent nomen Domini.\nQuia ipse dixit et facta sunt: ipse mandavit et creata sunt.\nStatuit ea in aeternum et in saeculum saeculi: praeceptum posuit et non praeteribit.\nLaudate Dominum de terra: dracones et omnes abyssi.\nIgnis grando nix glacies spiritus procellarum quae faciunt verbum ejus.\nMontes et omnes colles: ligna fructifera et omnes cedri.\nBestiae et universa pecora: serpentes et volucres pennatae.\nReges terrae et omnes populi: principes et omnes judices terrae.\nJuvenes et virgines senes cum junioribus laudent nomen Domini.\nQuia exaltatum est nomen ejus solius. Confessio ejus super caelum et terram.\nEt exaltavit cornu populi sui: hymnus omnibus sanctis ejus filiis Israel populo appropinquanti sibi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 149"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cantate Domino canticum novum: laus ejus in ecclesia sanctorum.\nLaetetur Israel in eo qui fecit eum: et filii Sion exsultent in rege suo.\nLaudent nomen ejus in choro: in tympano et psalterio psallant ei.\nQuia beneplacitum est Domino in populo suo: et exaltabit mansuetos in salutem.\nExsultabunt sancti in gloria: laetabuntur in cubilibus suis.\nExaltationes Dei in gutture eorum: et gladii ancipites in manibus eorum.\nAd faciendam vindictam in nationibus: increpationes in populis.\nAd alligandos reges eorum in compedibus: et nobiles eorum in manicis ferreis.\nUt faciant in eis judicium conscriptum: gloria haec est omnibus sanctis ejus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 150"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in sanctis ejus: laudate eum in firmamento virtutis ejus.\nLaudate eum in virtutibus ejus: laudate eum secundum multitudinem magnitudinis ejus.\nLaudate eum in sono tubae: laudate eum in psalterio et cithara.\nLaudate eum in tympano et choro: laudate eum in chordis et organo.\nLaudate eum in cymbalis bene sonantibus: laudate eum in cymbalis jubilationis.\nOmnis spiritus laudet Dominum.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O admirabile commercium: Creator generis humani animatum corpus sumens de Virgine nasci dignatus est,\net procedens homo sine semine, largitus est nobis suam deitatem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Maria virgo semper laetare, quae meruisti Christum portare, caeli et terrae conditorem,\nquia de tuo utero protulisti mundi Salvatorem.\nDeo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O gloriosa domina\nexcelsa supra sydera,\nqui te creavit provide\nlactasti sacro ubere.\n\nQuod Eva tristis abstulit\ntu reddis almo germine,\nintrent ut astra flebiles,\ncaeli fenestra facta es.\n\nTu regis alti ianua et\nporta lucis fulgida,\nvitam datam per Virginem,\ngentes redemptae plaudite.\n\nGloria tibi, Domine,\nqui natus es de Virgine,\ncum Patre et Sancto Spiritu\nin sempiterna saecula. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Elegit eam Deus et praelegit eam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et habitare eam facit in tabernaculo suo."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O gloriosa Dei Genitrix."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum (Lc 1:68--79) Benedictus"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Zachariae (Benedictus)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictus Dominus Deus Israel, quia visitavit et fecit redemptionem plebis suae.\nEt erexit cornu salutis nobis, in domo David pueri sui.\nSicut locutus est per os sanctorum, qui a saeculo sunt, prophetarum ejus.\nSalutem ex inimicis nostris, et de manu omnium qui oderunt nos.\nAd faciendam misericordiam cum patribus nostris, et memorari testamenti sui sancti.\nJusjurandum quod juravit ad Abraham patrem nostrum, daturum se nobis.\nUt sine timore, de manu inimicorum nostrorum liberati, serviamus illi.\nIn sanctitate et justitia coram ipso, omnibus diebus nostris.\nEt tu puer propheta Altissimi vocaberis: praeibis enim ante faciem Domini parare vias ejus.\nAd dandam scientiam salutis plebi ejus: in remissionem peccatorum eorum.\nPer viscera misericordiae Dei nostri: in quibus visitavit nos Oriens ex alto.\nIlluminare his qui in tenebris et in umbra mortis sedent: ad dirigendos pedes nostros in viam pacis.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O gloriosa Dei Genitrix, Virgo semper Maria, quae Dominum omnium meruisti portare,\nRegem Angelorum sola Virgo lactare; nostri, quaesumus, pia, memorare,\net pro nobis Christum deprecare: ut tuis suffulti patrociniis ad caelestia regna mereamur pervenire."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi.\n℟. Et clamor."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nConcede nos famulos tuos, quaesumus, Domine Deus noster, perpetua mentis et corporis sanitate gaudere;\net gloriosa beatae Mariae semper Virginis intercessione a praesenti liberari tristitia,\net aeterna perfrui laetitia. Per Dominum, et cetera."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicamus Domino.\nDeo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Suffragia"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Spiritu"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni, Sancte Spiritus, reple tuorum corda fidelium, et tui amoris in eis ignem accende."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Emitte Spiritum tuum et creabuntur.\nEt renovabis faciem terrae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui corda fidelium Sancti Spiritus illustratione docuisti,\nda nobis in eodem Spiritu recta sapere, et de eius semper consolatione gaudere. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancta Trinitate"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Libera nos, salva nos, iustifica nos, o beata Trinitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sit nomen Domini benedictum.\nEx hoc nunc et usque in saeculum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nOmnipotens sempiterne Deus, qui dedisti nobis famulis tuis in confessione verae fidei\naeternae Trinitatis gloriam agnoscere, et in potentia maiestatis adorare Unitaten:\nquaesumus, ut eiusdem fidei firmitate ab omnibus semper muniamur adversis. Qui vivis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancta Cruce"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nos autem gloriari oportet in cruce Domini nostri Iesu Christi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Omnis terra adoret te, Deus, et psallat tibi; psalmum dicat nomini tuo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui sanctam crucem tuam ascendisti et mundi tenebras illuminasti,\ntu corda et corpora nostra illuminare, visitare et confortare dignare. Qui cum Deo Patre."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Michaele Archangelo"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Michael Archangele, veni in adiutorio populo Dei."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In conspectu Angelorum psallam tibi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Adorabo ad templum sanctum tuum, et confitebor nomini tuo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui miro ordine Angelorum ministeria hominumque dispensas,\nconcede propitius, ut, quibus tibi ministrantibus in caelo semper assistitur,\nab his in terra vita nostra muniatur. Per Christum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Ioanne Baptista"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Inter natos mulierum non surrexit maior Ioanne Baptista."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fuit homo missus a Deo, cui nomen erat Ioannes."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nPerpetuis nos, Domine, sancti Ioannis Baptistae tuere praesidiis,\net quanto fragiliores sumus, tanto magis necessariis attolle suffragiis. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Petro Apostolo"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Solve, iubente Deo, terrarum, Petre, catenas,\nqui facis ut pateant caelestia regna beatis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui beato Petro Apostolo tuo, collatis clavibus regni caelestis,\nanimas ligandi atque solvendi pontificium tradidisti, concede propitius;\nut intercessionis eius auxilio a cunctis peccatorum nostrorum nexibus liberemur. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Paulo Apostolo"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Paule Apostole, praedicator veritatis et Doctor gentium,\nintercede pro nobis ad Deum qui te elegit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In omnem terram exivit sonus eorum, et in fines orbis terrae verba eorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui universum mundum beati Pauli Apostoli praedicatione docuisti,\nda nobis, quaesumus, ut, qui commemorationem eius colimus,\nper eius exempla ad te gradiamur. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Andrea Apostolo"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Andreas Christi famulus, dignus Dei Apostolus, germanus Petri et in passione socius."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dilexit Andream Dominus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In odorem suavitatis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nMaiestatem tuam, Domine, supplices deprecamur,\nut sicut Ecclesiae tuae beatus Andreas Apostolus extitit praedicator et rector,\nita apud te sit pro nobis pius et perpetuus intercessor. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Ioanne Apostolo et Evangelista"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ioannes Apostolus et Evangelista virgo est electus a Domino atque inter ceteros magis dilectus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Valde honorandus est beatus Ioannes Evangelista, qui supra pectus Domini in coena recubuit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nEcclesiam tuam, quaesumus, Domine, benigne illustra,\nut beati Ioannis Apostoli tui et Evangelistae illuminata doctrinis\nad dona sempiterna perveniat. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Iacobo Apostolo"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vos amici mei estis, si feceritis quae praecipio vobis, dicit Dominus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Constitues eos principes super omnem terram."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Memores erunt nominis tui, Domine."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nEsto, Domine, plebi tuae sanctificator et custos,\nut beati Apostoli tui Iacobi munita praesidiis et conversatione tibi placeat et secura deserviat. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Bartholomaeo Apostolo"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vox sancti Bartholomaei Apostoli quasi tuba vehemens est; ambulant cum eo Angeli Dei."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nimis honorati sunt amici tui, Deus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nimis confortatus est principatus eorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nOmnipotens sempiterne Deus, qui huius diei venerandam laetitiam beati Apostoli tui Bartholomaei\ncommemoratione tribuisti: da Ecclesiae tuae, quaesumus, et amare quod credidit, et praedicare quod docuit. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Omnibus Apostolis"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In patientia vestra possidebitis animas vestras."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Annuntiaverunt opera Dei, et facta eius intellexerunt."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nExaudi nos, Deus salutaris noster, et Apostolorum atque Evangelistarum tuorum nos tuere praesidiis,\nquorum donasti fideles esse doctrinis. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Stephano"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Stephanus vidit caelos apertos, vidit et introivit: beatus homo cui caeli patebunt."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria et honore coronasti eum, Domine, et constituisti eum super opera manuum tuarum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDa nobis, quaesumus, Domine, imitari quod colimus,\nut discamus et inimicos diligere, quia eius natalicia celebramus,\nqui novit etiam pro persecutoribus exorare. Per Dominum nostrum Iesum Christum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Laurentio"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laurentius bonum opus operatus est, qui per signum crucis caecos illuminavit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dispersit, dedit pauperibus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Iustitia eius manet in saeculum saeculi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDa nobis, quaesumus, Domine Deus, vitiorum nostrorum flammas extinguere,\nut cui beato Laurentio tribuisti tormentorum suorum incendia superare. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Thoma Cantuariensi"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu per Thomae sanguinem, quem pro te impendit, fac nos, Christe, scandere quo Thomas ascendit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ora pro nobis, beate Thoma.\nUt digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, pro cuius Ecclesia gloriosus Pontifex gladiis impiorum occubuit:\npraesta, quaesumus, ut omnes qui eius implorant auxilium petitionis suae salutarem consequantur effectum. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Blasio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Iste est qui pro lege Dei sui morti se tradidit, et non dubitavit mori;\nab iniquis interfectus est, et in aeternum vivit cum Christo: Agnum secutus est et invenit palmam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Iustus ut palma florebit; sicut cedrus Libani multiplicabitur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nOmnipotens sempiterne Deus, qui beatum Blasium, praesulem et martyrem tuum,\nin agone certaminis tuo amore roborasti: assis Ecclesiae tuae precibus,\net da, ut cuius triumphum recolimus in terris, eius precibus adiuvemur in caelis. Per Christum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Christoforo"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Duodenis cubitis similis gigas; corde tamen humilis,\nsequitur infantes: facie terribilis terruit malignos, intus amicabilis allexit benignos."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloriosus animus beati Christofori."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Se noluit subicere nisi meliori."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nSancti Christofori Martyris tui, Domine, confessio veneranda\nconferat in nobis piae devotionis augmentum;\nut qui in tuo nomine iugiter perseverans meruit honorari,\nin suo consortio in aeterna felicitate nos faciat perhenniter triumphare. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Edmundo"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Rex gentis Anglorum, miles Regis Angelorum;\no Edmunde, flos Martyrum, velut rosa vel lilium,\nfunde preces ad Dominum pro salute fidelium."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Posuisti, Domine, super caput eius coronam de lapide pretioso."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus ineffabilis misericordiae, qui beatum Edmundum tribuisti pro tuo nomine inimicum moriendo vincere:\nconcede propitius familiae tuae, ut, eo interveniente,\nin se antiqui hostis incitamenta superando exstinguere mereatur. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Georgio"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui vult venire post me, dicit Dominus, abneget semetipsum, et tollat crucem suam, et sequatur me."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria et honore coronasti eum, Domine, et constituisti eum super opera manuum tuarum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui nos beati Georgii Martyris tui meritis et intercessione laetificas,\nconcede propitius, ut cuius beneficia poscimus, dono tuae gratiae consequamur. Per Christum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sanctis Martyribus"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Martyres Dei Domino benedicite in aeternum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Exultent iusti in conspectu Dei, et delectentur in laetitia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nPraesta, quaesumus, omnipotens Deus, ut qui gloriosos Martyres tuos fortes in sua confessione cognovimus,\nipsos pios apud te in nostra intercessione sentiamus. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Germano"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancte Germane, Christi Confessor, audi rogantes servulos,\net impetratam nobis caelitus tu defer indulgentiam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce sacerdos magnus, qui in diebus suis placuit Deo et inventus est iustus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nPropiciare, quaesumus, Domine, nobis famulis tuis per sancti Germani Confessoris tui atque Pontificis\nqui in nostra veneratur Ecclesia merita gloriosa ut eius piaintercessione ab omnibus semper adversis protegamur. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Nicholao"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus Nicholaus adhuc puerulus multo ieiunio macerabat corpus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ora pro nobis, beate Nicholae.\nUt digni efficiamur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui beatum Nicholaum pium Pontificem tuum innumeris decorasti miraculis:\ntribue nobis, quaesumus, ut eius meritis et precibus a Gehennae incendiis liberemur. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Martino"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Martine, o pie, quam pium est gaudere de te!\nO Martine, Prophetis compar, Apostolis consortus,\nPresulum gemma fide et meritis, egregie pietate, misericordia et caritate ineffabilis:\nsuccurre nobis nunc et ante Deum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amavit eum Dominus et ornavit eum.\nStola gloriae induit eum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui conspicis quia ex nulla nostra virtute subsistimus,\nconcede propitius, ut intercessione beati Martini Confessoris tui atque Pontificis\ncontra omnia adversa muniamur. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Ioanne Beverlacensi"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Inclite doctor, ave; praeceptor idonee, salve.\nTu lumen caecis, tu das vestigia claudis, solamen mestis;\nprecibus pia vota rependis. O Presul pie Ioannes, nobis miserere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Iustum deduxit Dominus per vias rectas,\net ostendit illi regnum Dei."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Ecclesiam tuam meritis et intercessionibus beatissimi Confessoris tui atque Pontificis Ioannis\nmirifico splendore clarificas, concede propitius, ut qui memoriam illius veneramur in terris,\nintercessorem apud te mereamur habere in caelis. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Willelmo"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Willelme, Pastor bone, cleri Pater et Patrone mundi,\nnobis in agone confer opem, et depone vitae sordes,\net corona caelestis da gaudia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Magnificavit eum in conspectu regum,\net dedit illi coronam gloriae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui nos beati Willelmi Confessoris tui atque Pontificis meritis et intercessione laetificas,\nconcede propitius, ut qui eius beneficia poscimus, dono tuae gratiae consequamur. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancto Leonardo"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O vir misericordiae, Leonarde sanctissime,\nassis nobis per omnia, optinendo salubria."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Os iusti meditabitur sapientiam,\net lingua eius loquetur iudicium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nMaiestati tuae, quaesumus Domine, sanctissimi Confessoris tui Leonardi nos\npia iugiter commendet oratio; ut quem devote veneramur officio,\nipsius suffragio sublevemur optato. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Omnibus Confessoribus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sint lumbi nostri praecincti, et lucernae ardentes in manibus nostris."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sacerdotes tui induantur iustitiam,\net sancti tui exsultent."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui nos Sanctorum Confessorum tuorum confessionibus gloriosis circumdas et protegis,\nda nobis et eorum imitatione proficere, et intercessione gaudere. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancta Anna"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Anna, parens sublimis Domini, quae est Mater misericordiae,\ngemma nitens caelestis curiae, te laudamus amore filiae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ora pro nobis, beata Anna.\nUt digni efficiamur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui beatam Annam diu sterilem prole gloriosa et humano generi salutifera fecundari voluisti,\nda ut omnes, qui ob amorem filiae matrem venerantur,\nin hora mortis utriusque praesentia gaudere mereantur. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancta Maria Magdalena"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Maria Magdalena unxit pedes Iesu,\net extersit capillis suis, et domus impleta est ex odore unguenti."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dimissa sunt ei peccata multa,\nquoniam dilexit multum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nLargire nobis, elementissime Pater,\nut sicut beata Maria Magdalena Unigenitum tuum Dominum nostrum Iesum Christum super omnia diligendo\nsuorum obtinuit veniam peccaminum, ita apud tuam misericordiam sempiternam nobis impetret beatitudinem. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancta Katherina"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Virgo sancta Katherina, Graeciae gemma, urbe Alexandria, et costi regis erat filia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Diffusa est gratia in labiis tuis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Propterea benedixit te Deus in aeternum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui dedisti legem Moysi in summitate montis Sinai ab Angelis deferri iussisti,\net in eodem loco corpus beatae Katherinae Virginis et Martyris tuae mirabiliter collocasti:\ntribue, quaesumus, ut eius meritis et intercessione ad montem qui Christus est valeamus pervenire. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancta Margareta"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Erat autem Margareta annorum quindecim, cum ab impio Olibrio tradebatur in carcerem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Adiuvabit eam Deus vultu suo."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus in medio eius non commovebitur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui beatam Virginem tuam Margaretam hodierno die ad caelos per martyrii palmam venire fecisti,\nconcede propitius, ut eius exempla sequentes ad te pervenire mereamur. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancta Etheldreda"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave gemma pretiosa, Virgo decens et formosa, Etheldreda Deo digna,\npia Mater et benigna, fac ut haec digne familia tua canat praeconia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Etheldreda Virgo Deo dilecta.\nIntercede pro nobis ad Dominum Deum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui eximiae castitatis privilegio beatissimam Virginem tuam Etheldredam mirabiliter decorasti,\nda nobis famulis tuis, ut sicut eius commemoratio a nobis agitur in terris,\nita per eius interventum nostri memoria apud te semper habeatur in caelis. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Sancta Fide"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pulcra facie, sed pulcrior fide, in sanctitate fulgida et plena felicitate complevit dies suos alma Virgo Fides."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Specie tua et pulcritudine tua,\nintende, prospere procede et regna."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui ad celebrandum sanctae Fidis Virginis et Martyris triumphum venerabilem tuorum excitas corda fidelium:\nda, quaesumus, ut quam sollemni veneramur officio,\neius continuo foveamur auxilio. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Omnibus Virginibus"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Virgines sanctae Dei, orate pro nobis, ut scelerum veniam per vos accipere mereamur."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Adducentur regi virgines post eam,\nproximae eius afferentur tibi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nExaudi nos, Deus salutaris noster, ut sicut de beatarum Virginum tuarum festivitate gaudemus,\nita piae devotionis erudiamur affectu. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Omnibus Sanctis"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancti Dei omnes, intercedite pro nostra omniumque salute."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laetamini in Domino et exsultate iusti,\net gloriamini omnes recti corde."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nInfirmitatem nostram, quaesumus Domine Deus, propitius respice;\net mala omnia quae iuste meremur sanctissimae Virginis Mariae Matris tuae et omnium Sanctorum tuorum\npiissima intercessione averte. Per."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Pace"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Da pacem, Domine, in diebus nostris, quia non est alius qui pugnet pro nobis nisi tu Deus noster."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Versus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fiat pax in virtute tua,\net abundantia in turribus tuis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, a quo sancta desideria, recta consilia et iusta sunt opera:\nda servis tuis illam, quam mundus dare non potest, pacem;\nut et corda nostra mandatis tuis dedita, et hostium sublata formidine, tempora sint tua protectione tranquilla. Per Dominum nostrum Iesum Christum, et cetera."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

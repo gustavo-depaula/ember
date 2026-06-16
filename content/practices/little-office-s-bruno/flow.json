@@ -1,0 +1,393 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O altitudo divitiarum, sapientiae et scientiae Dei! quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Coloniae progenitus,\nQuam vocant Agrippinam,\nEx inclyt is Parentibus,\nSub juventutem primam\nInferiora studia\nBruno puellus adit,\nQuaeis omnibus industria\nJam potior evadit,\nSophiae post Parisius,\nNec non Theologiae,\nSet totum sacris literis\nImpedit Bruno pie;\nTanarquicidem studio,\nUt palam respondere,\nToroque in Palladio\nDoctrina emineret."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "A Parentibus genere et virtute claris Lutetiam Parisiorem missus, tantum ibi in Philosophiae et Theologiae studiis profecit, ut Doctoris et Magistri munus in utraque facultate sit adeptus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Bruno,\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nSancti Brunonis Confessoris tui, quaesumus, Domine, intercessionibus adjuvemur: ut qui majestatem tuam graviter delinquendo offendimus, ejus meritis et precibus nostrorum delictorum veniam consequamur. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Theosophiae scrupulos\nSolvens abstrusiores,\nDoctrinae modestissimos\nConsociat et mores,\nSacra et naturalia\nArte tractans aequali,\nSuprema tandem laurea,\nOrnatur doctorali;\nPosthac, et post epomidem,\nSacrum assumens statum,\nPinguen capit propediem\nRhemis Canonicatum;\nStatuì dies absitris\nSed antequam illuxit,\nHorrendum drama coelitus\nHunc saeculo subduxit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ab incunabulis specimen futurae sanctitatis praetulisse fertur, morum gravitate pueritiae aetatis; divina gratia favente, declinans in saeculi, ut jam monachorum Pater, et vitae anchoriticae futurus Instaurator agnoscere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Doctorum Vir primarius\nTum temporis obibat:\nJustus (ut vulgi publicus\nTunc rumor circumibat)\nSed huic cum officio\nDum missa decantatur,\nTer corpore exserto\nSe erigens, sic fatur:\nJusto Dei judicio\nSum rite accusatus,\nEodem sum et merito,\nJusque judicatus,\nAequa Dei sententia\nSum condemnatus! quare\nScitote, piis suffragiis,\nNil sacra me juvare."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Accidit forte, ut Doctor quidam probatae alias (ut videbatur) vitae exercetur tumultuandus; cumque sub exsequiis sibi ferretur, justo Dei judicio se accusatum, judicatum et condemnatum publice et feretro proclamaret, Bruno cum sex Sociis se longinsimum fugiens in solitudinem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Haec territus tragedia\nAttonitus discedit,\nDei pavens judicia\nDum Noster domum redit,\nCharos cohortans socios\nLanduinum et Hugonem,\nAndream, duos Stephanos,\nGuarinum, se Brunonem\nMox ut sequantur: Stygias\nVitentque ut Harpyas,\nPer antra, per et latebras\nScrutentur Coeli vias,\nStricte servent silentia,\nSemperque meditentur\nAlta Dei judicia,\nQuois olim judicentur?"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tremens factus sum ego, et timeo; dum discussio venerit; atque ventura ira; libera me Domine de morte aeterna in die illa tremenda, quando coeli movendi sunt et terra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Posthaec Gratianopolis\nAntistitem accedunt,\nSibi que Solitudinis\nSignari locum petunt,\nDilato quo in crastinum\nDumtentum exstirpari\nIs noctu videt solitum\nCarthusiam vocari,\nUt Domus ibi fieret\nSeptena micans luce;\nQuo somno dum exsurgere,\nMox Deo struit duce\nTemplum, cuius cellulas\nSuamque hic disponit,\nSilentioque Regulam\nRogantibus imponit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum mundo renunciantes Gratianopoli Hugonem Episcopum adeunt, hic ad suadentes alloquium cognita, intelligens eosdem esse, quos nocte velut septem Stellas in somnis viderat, montes Dioecesis suae aperiens, quos Carthusianos dicunt, ipsis incolendos concessit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hic orant, texunt, sepiunt,\nJejunant, meditantur,\nTentamina si ingerunt,\nPro ope se precantur;\nAt integro septennio\nDum sic continuatur,\nEn! Bruno Romam illico\nAd Papam evocatur,\nMox Archipraesul Rhegii\nAb Hoc denominatus:\nSed apex hic officii\nHaud nostro fuit gratus;\nLinqut is cito moenia,\nEt cum quibusdam denuo\nTurena petit nemora\nCalabriae Eremuum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ab Urbano secundo Pontifice, qui ejus Discipulus fuerat, Romam accersitus, consiliis suis in calamitatibus Ecclesiae peraliquot annos usus; donec recusato Rhegiensi Archiepiscopatu, eremum denuo prope Squillacium Calabriae faustum repetecit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed neque hic delituit\nDivi virtus Brunonis,\nDum canibus subvoluit\nRogeri Marchionis,\nQui virum ut conspexerat,\nPleno favoris igne\nSic mox in hunc exarserat\nAmoris ad insignae\nFestivam huc ecclesiam\nUt hic aedificaret,\nJesum et Familiam\nOppiare dotaret,\nLimosa prius casulas\nEx latere condendo,\nPiscinas, hortos, vinas,\nSylvasque largiendo."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Brunonem orantem, cum Rogerius Comes Calabriae inter venandum lacanibus canibus repesset, sanctitatis Viri permotus, Illum ac socios fovere, et colere impense cepit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Sacro sic in Calabria\nHoc Ordine evecto,\nSimulque in Germania\nMirifice provecto,\nBruno jam plenus meritis\nVirtutibusque dives,\nVitae pertaesus labilis\nSupernos hinc ad Cives,\nPostquam Iis benedixerat\nProgressibus suorum,\nIter felix deproperat\nSub Choris Angelorum,\nDeum nobis propitium\nIbi exoraturus,\nIndulsi proque criminum\nNostrorum rogaturus."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Tandem virtutibus et meritis plenus, nec sanctitate minus, quam doctrinae fama clarus obdormivit in Domino, sepultus in Monasterio S. Stephani ab ipso Rogerio Comite extructo, ubi hactenus honorifice colitur."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis sancte Bruno,\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nO praeclarum ac lucidissimum sydus Ecclesiae, beate Bruno! qui a prima infantia, admirabili morum gravitate haud obscura futurae sanctitatis indicia prodidisti, artibus et divinis studiis tam profunde imbutus, et reportato in praemium virtutis et scientiae tuo doctorali honore, et Rhemensi canonicatu, tandemque ad Rhegiensem Archiepiscopatum sponte oblato, speciali divinae providentiae ductu eremitici eremitam tamen vitae amans propositi, sacrum Chartusiensem ordinem adserto silentii, solitudinis et jejunii fundavisti instituto; tanta quidem effectu, ut tam ceteris omnibus, quam praesertim Ecclesiae rebus, per sanum hanc regulam, ac singularem Divini sermonis methodum plurimum accommodatam, atque spiritualis accelerim incrementi. Fac igitur venerande Pater! ut per tua merita et suffragia sua, jugemque novissimi morum emendationem, ab omnibus peccatis nos solidos caveamus, de peccatis doleamus maxime, atque per assidua increscentis mortis meditationem vitam aeternam securam nobis, et certis consequamur.\nAmen."
+      }
+    }
+  ]
+}

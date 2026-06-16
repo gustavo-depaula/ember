@@ -1,0 +1,37 @@
+{
+  "id": "little-office-immaculate-heart-of-mary",
+  "icon": "mary",
+  "name": {
+    "en-US": "Little Office of the Immaculate Heart of Mary"
+  },
+  "categories": [
+    "marian"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Immaculate Heart of Mary, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "marian",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 132,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "Pope Pius IX., by Brief of March 31, 1876, granted to the faithful who recite devoutly and with a contrite heart, the Little Office of the Immaculate Conception an Indulgence of 300 Days each time."
+  }
+}

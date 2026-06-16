@@ -1,0 +1,37 @@
+{
+  "id": "little-office-holy-ghost-2",
+  "icon": "flame",
+  "name": {
+    "en-US": "Little Office of the Holy Ghost According to the Order of the Most Holy Saviour"
+  },
+  "categories": [
+    "divine-mysteries"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Holy Ghost According to the Order of the Most Holy Saviour, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "divine-mysteries",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 117,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From\nhttps://www.gregorianbooks.com/gregorian/www/www.kellerbook.com/ss2.htm.\n\nOmni die Dominica a Sororibus persolvendum."
+  }
+}

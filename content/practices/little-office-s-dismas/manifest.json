@@ -1,0 +1,37 @@
+{
+  "id": "little-office-s-dismas",
+  "icon": "candle",
+  "name": {
+    "en-US": "Little Office of S. Dismas, the Penitent Thief, Patron of the Dying and Those in Sudden Danger of Death"
+  },
+  "categories": [
+    "saints"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of S. Dismas, the Penitent Thief, Patron of the Dying and Those in Sudden Danger of Death, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "saints",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 150,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From Sulamittis Officiosa (1714)."
+  }
+}

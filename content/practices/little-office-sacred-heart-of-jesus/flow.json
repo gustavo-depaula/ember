@@ -1,0 +1,335 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ordinaria",
+        "en-US": "Ordinary"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Matutinum",
+        "en-US": "At Matins only."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.",
+        "en-US": "℣. O Lord, open my lips.\n℟. And my mouth will announce Thy praise."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Horas Omnes",
+        "en-US": "At all the Hours."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+        "en-US": "℣. O God, come to my aid.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur:\nLaus tibi, Domine, Rex aeternae gloriae.",
+        "en-US": "During Lent until Easter, instead of the alleluia the following is said:\nPraise to Thee, O Lord, King of everlasting glory."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Cor Iesu, flagrans amore nostri.\n℟. Inflamma cor nostrum amore tui.",
+        "en-US": "℣. Heart of Jesus, flaming with love of us.\n℟. Inflame our hearts with love of Thee."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caelestis aulae gaudium,\nsplendor paternae gloriae,\ncarnem benignus induens,\nnobis fores ut hostia.\n\nIesu, voluptas cordium,\ncor ure sacris ignibus,\ndignis ut ornem laudibus\nCordis tui sacrarium.\n\nCor dulce, Cor amabile,\namore nostri fervidum,\namore nostri languidum,\nfac sis mihi placabile.\n\nCor Iesu, o melle dulcius,\npuris amicum mentibus,\npuris amandum cordibus,\nin corde regnes omnium.\nAmen.",
+                "en-US": "O joy of the court of heaven,\nSplendor of the Father's glory:\nGraciously didst Thou put on our flesh\nIn order to be a Victim for us.\n\nO Jesus, all hearts' Delight,\nInflame my heart with Thy sacred fires\nThat I may with worthy praise adorn\nThe sanctuary of Thy Heart.\n\nLoving Heart, lovable Heart,\nOn fire with love of us,\nExhausted with love of us,\nBe merciful unto me.\n\nHeart of Jesus, sweeter than honey,\nFriend to pure minds,\nLoved by pure hearts,\nMay Thou reignest in the hearts of all.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O sacrum Cor Iesu, Patris voluntati obsequentissimum, inclina ad Te corda nostra, ut quae placita sunt ei faciamus semper.",
+                "en-US": "O sacred Heart of Jesus, most obedient to the will of the Father, incline our hearts to Thee, that we may always do what is most pleasing to Him."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Ad Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cor digna sedes Numine,\nTe sacra virtus Flaminis,\nIllapsa in alvum Virginis,\nPuro creavit sanguine.\n\nTu Trinitatis gloria,\nin te Patris sunt gaudia,\niungit tibi se Filius,\nin te quiescit Spiritus.\n\nOrbi salus tu perdito,\nsecura pax fidelium,\npuris asylum mentibus,\ncastis recessus cordibus.\n\nCor Iesu, o melle dulcius,\npuris amicum mentibus,\npuris amandum cordibus,\nin corde regnes omnium.\nAmen.",
+                "en-US": "Heart, worthy Throne of Godhead,\nThou didst the sacred power of the Holy Spirit,\nComing upon the Virgin's womb,\nMake of her pure blood.\n\nThou art the glory of the Trinity;\nIn Thee are all the Father's joys;\nThe Son united Himself to Thee;\nOn Thee the Spirit rests.\n\nThou art a lost world's Salvation,\nImperturbable Peace of the faithful,\nA Resting-place for minds that are pure,\nA Refuge for hearts that are chaste.\n\nHeart of Jesus, sweeter than honey,\nFriend to pure minds,\nLoved by pure hearts,\nMay Thou reignest in the hearts of all.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O sacrum Cor Iesu, salutis nostrae sitientissimum, revoca nos praevaricatores ad Cor, ut non moriamur in peccatis nostris.",
+                "en-US": "O sacred Heart of Jesus, most eager for our salvation, draw us sinners back to Thy Heart, that we may not die in our sins."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O cor amoris victima,\ncaeli perenne gaudium,\nmortalium solatium,\nmortalium spes unica.\n\nGrandi reclusum vulnere,\namor dedit te pervium,\namor reclusit ostium,\nhortatur et pervadere.\n\nQuos abluisti Sanguine,\nvenis apertis omnibus,\nnos intimis recessibus\nsemel receptos contine.\n\nCor Iesu, o melle dulcius,\npuris amicum mentibus,\npuris amandum cordibus,\nin corde regnes omnium.\nAmen.",
+                "en-US": "O heart, Victim of love,\nEverlasting Joy of heaven,\nComfort of mortal man,\nSole Hope of the human race.\n\nWith a deep wound,\nLove opened a pathway to Thee,\nOpened a door;\nAnd Love urges us to enter.\n\nWith opened veins,\nThou washed us in Thy blood:\nDo Thou, then, receive us,\nAnd keep us deep within Thee.\n\nHeart of Jesus, sweeter than honey,\nFriend to pure minds,\nLoved by pure hearts,\nMay Thou reignest in the hearts of all.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O sacrum Cor Iesu, puritatis exemplar perfectissimum, fac nos corde mundo, ut secundum te inveniri mereamur.",
+                "en-US": "O sacred Heart of Jesus, most perfect example of purity, create a clean heart in us that we may be worthy to be found near unto Thee."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O cor amore saucium,\namore corda saucia:\nvitale nectar Caelitum,\namore nos inebria.\n\nNovo Deus mysterio,\nCarnem suam dat pabulum\net Sanguinem dat poculum\nmirabili in convivio.\n\nQuem proni adorant Angeli,\nsub mystico velamine,\nDivinitatis temperans\nlumen, fit esca servulis.\n\nCor Iesu, o melle dulcius,\npuris amicum mentibus,\npuris amandum cordibus,\nin corde regnes omnium.\nAmen.",
+                "en-US": "O heart, wounded by love,\nWound all hearts with love of Thee.\nO life-giving and heavenly Wine,\nInebriate our hearts with love.\n\nGod, in a new mystery,\nGives us His Flesh to eat and,\nIn a wondrous banquet,\nHis Blood to drink.\n\nHe whom the angels, bent low, adore,\nShrouds the light of His Divinity\nUnder a mystic veil and becomes\nThe food of little ones.\n\nHeart of Jesus, sweeter than honey,\nFriend to pure minds,\nLoved by pure hearts,\nMay Thou reignest in the hearts of all.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O sacrum Cor Iesu, in hostes tuos mitissimum, exsultet pax tua in cordibus nostris, ut persequentibus et calumniantibus nos remittamus de cordibus nostris.",
+                "en-US": "O sacred Heart of Jesus, most gentle with Thy enemies, may Thy peace rise in our hearts that we may forgive from our hearts those persecuting us."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cor ara caelo celsior,\nterris marique latior,\nquas ante non exceperis,\nDeus repellit hostias.\n\nHic sacra virtutum cohors,\ncustos comesque candidae\nfidelis innocentiae,\nin sede regnat propria.\n\nHoc iura quae mundum regant,\nvolvuntur alto pectore;\nhoc fonte, quae mentes beent,\nmanant fluenta gratiae.\n\nCor Iesu, o melle dulcius,\npuris amicum mentibus,\npuris amandum cordibus,\nin corde regnes omnium.\nAmen.",
+                "en-US": "Heart, Altar loftier than the heavens,\nWider than land and sea:\nUnless they be laid upon Thee,\nGod will accept no sacrifices.\n\nIn Thee, as on a throne,\nAll virtues reign,\nAnd Thou art the Companion and Guardian\nOf fidelity and of innocence.\n\nIn this deep Heart are found the laws\nwhich govern the world;\nfrom this Fountain flow the streams of grace\nwhich make blessed the hearts of men.\n\nHeart of Jesus, sweeter than honey,\nFriend to pure minds,\nLoved by pure hearts,\nMay Thou reignest in the hearts of all.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O sacrum Cor Iesu, pro peccatis nostris afflictissimum, da nobis cor contritum et humilitatum, ut dignos paenitentiae fructus faciamus.",
+                "en-US": "O sacred Heart of Jesus, most afflicted on account of our sins, grant to us a humble and contrite heart, that we may bear fruits worthy of repentance."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cor sole puro purius,\nTemplumque caelo dignius,\nVerbi Dei sacrarium,\nOpum Dei compendium.\n\nEx te quot actus prodeunt,\ntot digna Patre munera;\nquot vota fundis, tot Pater\niustis rependit praemiis.\n\nVindex reis irascitur\nDeus, sed ut te respicit,\nplacatus iras abiicit\net fulmen obliviscitur.\n\nCor Iesu, o melle dulcius,\npuris amicum mentibus,\npuris amandum cordibus,\nin corde regnes omnium.\nAmen.",
+                "en-US": "O heart, purer than the sun,\nTemple of more worth than the heavens,\nSanctuary of the Word of God,\nSum of all the riches of God.\n\nThy every act is an offering\nworthy of the Father;\nand, at Thy every prayer,\nthe Father pours out graces on the just.\n\nJustly angered by our sins,\nGod yet puts aside His wrath,\nForgets His chastisements,\nWhen He looks upon Thee.\n\nHeart of Jesus, sweeter than honey,\nFriend to pure minds,\nLoved by pure hearts,\nMay Thou reignest in the hearts of all.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O sacrum Cor Iesu, paupertatis amantissimum, pone nos ut signaculum super te, ut in te, unico thesauro nostro, totum sit cor nostrum.",
+                "en-US": "O sacred Heart of Jesus, most loving of the poor, place us as a seal upon Thee, that in Thee, our only treasure, may our whole heart always be."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O cor, Deo par victima,\naltare sacratissimum,\nin quo perennis hostia\nculpas piat mortalium.\n\nNidus gementis turturis,\ngratum columbis pabulum,\nhortus refulgens floribus,\nsponsae quies et lectulus.\n\nHic casta spirant lilia,\nquibus nitescunt Virgines,\nhic, unde splendent Martyres,\nrosae rubescit purpura.\n\nCor Iesu, o melle dulcius,\npuris amicum mentibus,\npuris amandum cordibus,\nin corde regnes omnium.\nAmen.",
+                "en-US": "O heart, Victim worthy of God,\nMost holy Altar\nOn which an eternal Victim\nExpiates the sins of men.\n\nNest of the sorrowing turtle-dove,\nFood desired by every dove,\nGarden abounding with flowers,\nRest and Couch of the spouse.\n\nHere breathe the chaste lilies\nWith which the virgins are brightly resplendent;\nHere grow the red roses\nWhich empurple the martyrs.\n\nHeart of Jesus, sweeter than honey,\nFriend to pure minds,\nLoved by pure hearts,\nMay Thou reignest in the hearts of all.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O sacrum Cor Iesu, diligentibus te beneficentissimum, deficiat in te caro nostra et cor nostrum, ut sis amor cordis nostri et pars nostra in aeternum.",
+                "en-US": "O sacred Heart of Jesus, most gracious to those who love Thee, may our heart and flesh faint in Thee, that Thou mayest be the love of our heart and our portion in eternity."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cor matris ad cor Filii\namoris ardens impetu,\nindesinente anhelitu\nsuspirat, oblitum sui.\n\nUtrumque amoris vinculo\nnexu perenni iugiter:\nhoc ardet huius ignibus\nignemque reddit aemulum.\n\nCor Iesu, o melle dulcius,\npuris amicum mentibus,\npuris amandum cordibus,\nin corde regnes omnium.\nAmen.",
+                "en-US": "The heart of the Mother to the heart of the Son,\nBurning with a rush of love,\nWith ceaseless yearning\nBreathes sighs, forgetting self.\n\nEach bound by the bond of love,\nJoined together eternally:\nHer heart burns with His heart's flames,\nand returns a fire of love the same.\n\nHeart of Jesus, sweeter than honey,\nFriend to pure minds,\nLoved by pure hearts,\nMay Thou reignest in the hearts of all.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Victima caritatis, Cor amantissimum Iesu, pro peccatis nostris immolatum, ab ingratis hominibus neglectum et afflictum, converte nos, vivifica nos, accende nos.",
+                "en-US": "O Victim of love, most loving Heart of Jesus, sacrificed for our sins, afflicted and neglected by an ungrateful mankind, convert us, give us life, inflame us with Thy love."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio Horae",
+        "en-US": "Conclusion of the Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Paratum cor meum, Deus cordis mei, ut faciam voluntatem tuam.\n℟. Deus meus, volui, et legem tuam in medio cordis mei.\nOremus,\nDomine Iesu, qui ineffabiles Cordis tui dulcedines ac divitias Ecclesiae, Sponsae tuae, singulari dilectione aperire dignatus es: concede nobis famulis tuis, ut gratiis caelestibus ex hoc dulcissimo fonte manantibus ditari et recreari mereamur. Qui vivis et regnas in saecula saeculorum.\nAmen.",
+        "en-US": "℣. My heart is ready, O God of my heart, that I may do Thy will.\n℟. My God, I have desired Thy Law in the depths of my heart.\nLet us pray,\nLord Jesus, Who hast deigned to open by Thy special love the unutterable goodness and riches of Thy Heart to Thy Bride, the Church: grant to us, Thy servants, that we may merit to be enriched and refreshed by Thy heavenly graces, flowing from this sweetest of fountains. Thou who livest and reignest forever and ever.\nAmen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem coeli dedit nobis Dominus:\n℟. Panem Angelorum manducat homo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annunciabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Lauda Sion Salvatorem,\nlauda Ducem, et Pastorem, in hymnis, et canticis.\nQuantum potes, tantum aude:\nquia major omni laude: nec laudare sufficis.\nLaudis thema specialis;\npanis vivus, et vitalis, hodie proponitur.\nQuem in sacra mensa coenae,\nturbae fratrum duodenae, datum non ambigitur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem de coelo praestitisti eis Domine.\n℟. Omne delectamentum in se habentem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dominus Jesus, in qua nocte tradebatur, accepit panem, et gratias agens, benedixit, fregit, et dixit: Accipite, et manducate: Hoc est Corpus meum, quod pro vobis tradetur: hoc facite in meam commemorationem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui nobis sub Sacramento mirabili passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis, et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis jugiter sentiamus. Qui vivis, et regnas cum Deo Patre in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem coeli dedit nobis etc. ut supra in Mat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium etc. ut supra in Matutin."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sit laus plena, sit sonora:\nsit jucunda, sit decora, mentis jubilatio.\nDies enim solemnis agitur,\nin qua mensae primae recollitur hujus institutio.\nIn hac mensa novi Regis,\nnovum Pascha novae legis, Phase vetus terminat.\nVetustatem novitas;\numbram fugat veritas, noctem lux eliminat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem de coelo praestitisti etc. ut supra.\n℟. Omnem suavitatem etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domine, spiritus tuus, qui descendit super te in Jordane,\nilluminet et confirmet nos in veritate.\nsuavissimo de coelo praestituto, esurientes replevit bonis, fastidiosos divites dimittens inanes."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi, etc. ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio Deus, qui nobis, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem coeli dedit nobis, etc. ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quod in coena Christus gessit,\nfacidendum hoc expressit in sui memoriam.\nDocti sacris institutis,\nPanem, Vinum in salutis\nconsecramus hostiam.\nDogma datur Christianis,\nquod in carnem transit panis,\net in sanguinem.\nQuod non capis, quod non vides,\nanimosa firmat fides,\npraeter rerum ordinem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem de coelo, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caro mea vere est cibus, et sanguis meus vere est potus: qui manducat meam carnem, et bibit meum sanguinem, in me manet, et ego in illo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Orat. Deus, qui nobis, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem coeli dedit nobis, etc. ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sub diversis speciebus\nsignis tantum, et non rebus, latent res eximiae.\nCaro cibus, Sanguis potus,\nmanet tamen Christus totus sub utraque specie.\nA sumente non concisus,\nnon confractus, non divisus,\ninteger accipitur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem de coelo, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quotiescumque manducabitis panem hunc et calicem bibetis, mortem Domini annuntiabitis, donec iterum veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Orat. Deus, qui nobis, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem coeli dedit nobis, etc. ut supra.\n℣. Deus in adjutorium, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sumit unus, sumunt mille:\nquantum isti, tantum ille;\nnec sumptus consumitur.\nSumunt boni, sumunt mali:\nforte tamen inaequali,\nvitae, vel interitus.\nMors est malis, vita bonis,\nvide, paris sumptionis\nquam sit dispar exitus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem de coelo, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quicumque manducaverit panem hunc, vel biberit calicem Domini indigne, reus erit Corporis, et Sanguinis Domini."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi, etc. ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Orat. Deus, qui nobis, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem coeli dedit, etc. ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fracto demum Sacramento,\nne vacilles, sed memento,\ntantum esse sub fragmento,\nquantum totum tegitur.\nNulla rei fit scissura,\nsigni tantum fit fractura,\nnec status, nec statura\nsignati minuitur.\nEcce Panis Angelorum\nfactus cibus viatorum:\nvere panis filiorum,\nnon mittendus canibus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem de coelo, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O sacrum convivium, in quo Christus sumitur, recolitur memoria passionis ejus, mens impletur gratia, et futura gloriae nobis pignus datur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi, etc. ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Orat. Deus, qui nobis, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem coeli dedit nobis, etc. ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In figuris praesignatur,\ncum Isaac immolatur:\nAgnus Paschae deputatur:\ndatur manna Patribus.\nBone Pastor, panis vere,\nJesu nostri miserere tu\nnos pasce, nos tuere,\nut tuos bona fac videre in terra viventium.\nTu, qui cuncta scis, et vales,\nqui nos pascis hic mortales,\ntuos ibi commensales,\ncohaeredes, et sodales fac sanctorum civium.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Panem de coelo praestitisti eis Domine.\n℟. Omne delectamentum in se habentem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nisi manducaveritis Carnem Filii hominis, et biberitis ejus Sanguinem, non habebitis vitam in vobis. Qui manducat meam Carnem, et bibit meum Sanguinem, habet vitam aeternam, et ego resuscitabo eum in novissimo die."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui nobis sub Sacramento mirabili Passionis tuae memoriam reliquisti: tribue, quaesumus, ita nos Corporis, et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis jugiter sentiamus. Qui vivis, et regnas cum Deo Patre, in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Has horas tibi recolo piae rationes\nTibi, Corpus Domini, ut confessione\nContritus, et prava satisfactione\nValeam te sumere cum devotione.\nAmen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O salutaris hostia!\nquae coeli pandis ostium,\nBella premunt hostilia,\nda robur, fer auxilium.\nUni, trinoque Domino\nsit sempiterna gloria,\nQui vitam sine termino\nnobis donet in Patria.\nAmen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1224 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Our Father. Creed. In silence."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Grant his prayer, sweet Lord, that we\n℟. May still be pleasing unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord, open Thou my lips,\n℟. And my mouth shall declare Thy praise."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto my aid, O God,\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father, etc., Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Or, after Septuagesima:"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Invitatory."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The King and Lord of confessors: O come, let us adore."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From Psalm 94"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O come, let us be glad in the Lord, let us joyfully sing to the God of our salvation:\nlet us come before His presence with thanksgiving, and make a joyful noise to Him with psalms.\n℟. The King and Lord of confessors: O come, let us adore.\nGlory be to the Father, and to the Son, and to the Holy Ghost, etc.\n℟. O come let us adore.\nThe King and Lord of confessors: O come, let us adore."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Gaude Mater Ecclesia"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Rejoice, sweet Mother Church, to whom\nThis happy festal day is given,\nIn mind of him who from thy womb\nIs born a saint this day to heaven."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Our mighty father, who led forth\nAnd marshalled his great preacher host,\nWith glory crowned now leaves this earth\nTo dwell on heaven's blissful coast."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To God, the Three and One, be praise\nAnd honour, strength and glory given;\nAnd may He deign our souls to raise\nThrough our sweet father's prayers to heaven."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From Psalm 1"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Blessed is the man that hath not walked in the counsel of the ungodly,\nnor stood in the way of sinners:\nNor sat in the chair of pestilence."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "But his delight is in the law of the Lord;\nAnd on his law will he meditate day and night."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "And he shall be like a tree planted near the running waters\nThat shall bring forth its fruit in due season."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "With Christ the midnight vigil keeping,\nOft he prayed with floods of weeping;\nHe sought no couch, and hardly pressed\nThe bare cold ground for needful rest."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. The Lord loved him and adorned him.\n℟. He clad him in a robe of glory."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Our Father, in silence."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Pray, Father, give the blessing."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "May our blessed father, Saint Dominic, make loving intercession for us.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Lesson I"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Holy and blessed father, Saint Dominic, our great parent and guide, despise not thine own work, but hear us in the day when we call upon thee, for great is thy loving-kindness. O deliver us from the power of our enemies visible and invisible. But do Thou, O Lord, have mercy on us. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℟. Sworn to Christ a virgin knight,\nVirtue's pattern pure and bright,\nThou with burning words of grace\nSeek'st thy heavenly dwelling-place.\nSweetest odors fill the air,\nAngel hosts thy praise declare."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. To thy sons, O blessed guide,\nHeaven's high portals open wide.\n℟. Sweetest odors fill the air,\nAngel hosts thy praise declare."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Pray, Father, give the blessing."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "In all distress and tribulation may our holy father, S. Dominic, help us."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Lesson II"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O Dominic, most holy father, rise and embrace our Saviour's feet; reconcile us to Christ by thy holy and compassionate prayers, for thou seest how we have offended the eyes of our Creator. Obtain for us the pardon of our sins, rest for our souls, and the joys of heaven. But do Thou, O Lord, etc.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Rising from this vale of earth,\nChoirs of angels hymn his worth.\nGrant his prayer, sweet Lord, that we\nMay still be pleasing unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℟. Oft-times at his prayer of faith\nThou didst loose the bonds of death;\nMay his pleadings now obtain\nFreedom from our debt of pain."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Pray, father, give the blessing."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "May blessed Dominic, the father and guide of the Order of Preachers, conduct us to the society of the heavenly citizens.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Lesson III"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Saint Dominic, our own sweet father, have compassion on the afflicted; show thy tender love to us poor exiles and pilgrims to heaven; despise not our humble petitions, but deliver us from all dangers, and by thy holy intercession translate us to the kingdom of security and peace. But do Thou, O Lord, have mercy upon us."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℟. Sweet the hope thy fainting breath\nGave to those who wept thy death,\nPromising, though life were flown,\nThou wouldst still protect thine own.\nFather, keep thy gracious word,\nPleading for us with our Lord."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Who so oft was wont to shine\n'Midst the sick with powers divine,\nTo our languid souls apply\nChrist's restoring remedy."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℟. Father, keep thy gracious word,\nPleading for us with our Lord."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Glory be to the Father and to the Son and to the Holy Ghost."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℟. Father, keep thy gracious word,\nPleading for us with our Lord."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From the Te Deum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "We praise Thee, O God; we acknowledge Thee to be the Lord.\nAll the earth doth worship Thee, the Father everlasting.\nTo Thee all angels cry aloud, the heavens and all the powers therein.\nTo Thee cherubim and seraphim, continually do cry:\nHoly, Holy, Holy, Lord God of Sabaoth."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Pray for us, O blessed father Dominic,\n℟. That we may be made worthy of the promises of Christ."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father, etc. Alleluia; or,\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From Psalm 150"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Praise ye the Lord in His holy places:\nPraise Him in the firmament of His power.\nPraise ye Him for His mighty acts:\nPraise Him according to the multitude of His greatness.\nPraise Him with the sound of trumpet:\nPraise Him with psaltery and harp.\nPraise Him with the timbrel and the dance:\nPraise Him with strings and organs.\nPraise Him on high-sounding cymbals:\nPraise Him on cymbals of joy.\nLet every spirit praise the Lord.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - Pie Pater"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Holy Father, cast thy mind\nOn the work thy hands designed.\nIn the Judge's presence stand\nFor thy poor and lowly band."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter Ecclus. L, 6, 7"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "As the morning star in the midst of a cloud, and as the moon in the days of her fullness, and as the sun when it shineth, so shone he in the temple of God.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Carnis liber ergastulo"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "From prison of the flesh set free,\nSee how he shines with beams from heaven!\nAnd for his garb of poverty\nA robe of royalty is given."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The fragrant tomb, the frequent sign,\nClear proof to all mankind afford\nHow much of grace and power divine,\nChrist's servant shareth with his Lord."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To God, the Three and One, be praise\nAnd honour, strength and glory given;\nAnd may He deign our souls to raise,\nThrough our sweet father's prayers to heaven. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou didst appear glorious in the sight of the Lord.\n℟. Therefore the Lord hath clothed thee with beauty."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From the Benedictus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Blessed be the Lord God of Israel:\nFor He hath visited and wrought the redemption of His people\nAnd hath raised up a horn of salvation for us\nIn the house of David, His servant.\nAs He spoke by the mouth of His holy prophets,\nWho were from the beginning.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - Carnis viror"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "In the flesh a virgin true,\nIn desire a martyr, too;\nO'er the earth thy words have run.\nNow thy earthly course is done,\nStripped of all for Christ's dear sake,\nO turn thee to thy rest, and take\nThe prize of life divine which thou hast won."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO God, who didst vouchsafe to enlighten Thy Church by the merits and teaching of our blessed father Dominic, Thy confessor, grant that through his intercession we may be provided against all temporal necessities, and ever increase in spiritual good. Through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee, in the unity of the Holy Ghost, for ever and ever. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Commemoration of S. Augustine"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "May all who venerate\nIn thee their father blest,\nFind, too, in thee their certain guide\nTo that blest life, where glorified\nThe saints forever rest."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. The just man shall spring up like the lily,\n℟. And shall flourish for ever before the Lord."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nGive ear to our supplications, Almighty God, and through the intercession of blessed Augustine, Thy confessor and bishop, graciously show forth unto us the effect of Thine accustomed mercy, whom Thou indulgest in the confident hope of Thy loving kindness. Through our Lord Jesus Christ Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Ghost, world without end. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. Father, keep thy gracious word,\nPleading for us with our Lord."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Grant his prayer, sweet Lord, that we\n℟. May still be pleasing unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be, etc., Alleluia; or, Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Novus athleta Domini"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Raise to the champion of our Lord,\nGreat Dominic, our loud acclaim,\nWhose lordly work, the Gospel-word,\nSo well doth suit his lordly name."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "With watchful eye and careful hand\nHe kept the lily all unstained;\nHis zeal burned like a flaming brand,\nFor souls that Satan else had gained."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To God, the Three and One, be praise,\nAnd honour, strength and glory given;\nAnd may He deign our souls to raise\nThrough our sweet father's prayers to heaven. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From Psalm 53"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Save me, O God, by Thy Name:\nAnd judge me in Thy strength.\nO God, hear my prayer:\nGive ear to the words of my mouth,\nFor strangers have risen up against me, and the mighty have sought after my soul;\nAnd they have not set God before their eyes.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - Gemma"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "A gem of purest ray\nThat in its casket lay\nAll meanly folded round and wrapped in earth,\nStill shone divinely bright,\nWith signs of grace and might,\nThat plainly told its power and priceless worth."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter Ecclus. XXXIX 6"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The just man will give his heart to watch early to the God that made him, and he will pray in the sight of the Most High.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Make us pleasing unto Thee,\n℟. At the prayer of S. Dominic.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. O Jesus Christ, Son of the living God, at the prayer of S. Dominic,\n℣. Arise, O Lord, and help us.\n℟. And deliver us for Thy Name's sake.\n℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nGive ear to our supplications, Almighty God, and direct all the actions of Thy servants to the prosperous attainment of Thy salvation; and grant through the intercession of Thy blessed confessor, our most holy father, Saint Dominic, that we may ever be defended by Thine assistance amidst all the changes of this our life and pilgrimage. Through our Lord Jesus Christ, Thy Son, Who liveth, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. Father, keep thy gracious word,\n℟. Pleading for us with our Lord."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Grant his prayer, sweet Lord, that we\n℟. May still be pleasing unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father, etc., Alleluia; or,\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Mundum calcans"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "He trod the world beneath his feet,\nForward to strenuous toil he pressed,\nAnd stripped himself the foe to meet,\nBy Christ's strong grace upheld and blessed."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "He still fights on with ceaseless prayer,\nWith tears, and words, and signs of power;\nAnd sends his children forth to bear\nThe glorious war from shore to shore."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To God, the Three and One, be praise,\nAnd honour, strength and glory given;\nAnd may He deign our souls to raise\nThrough our sweet father's prayers to heaven."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From Psalm 8"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O Lord, our Lord:\nHow marvellous is Thy Name through all the earth,\nFor Thy great might is exalted\nEven above the heavens.\nOut of the mouths of babes and sucklings\nThou hast perfected praise, because of Thine enemies,\nThat Thou mayest destroy the enemy and the avenger.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - Corpus sanctum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "His sacred body as a shrine\nAnd treasure-house of sweets divine\nBreathes richer fragrance to the gale\nThan all earth's spicy stores exhale."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter Ecclus. L, 6, 7"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "As the morning star in the midst of a cloud,\nand as the moon in the days of her fullness,\nand as the sun when it shineth, so shone he\nin the temple of God.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Loving father Dominic, hear thy servants who pray to thee.\n℟. Loving father Dominic, hear thy servants who pray to thee.\n℣. And bring us remission from above.\n℟. Hear thy servants who pray to thee.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. Loving father Dominic, hear thy servants who pray to thee.\n℣. Holy father, cast thy mind\nOn the work thy hands designed,\n℟. In the Judge's presence stand\nFor thy poor and lowly band.\n℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO God, who didst vouchsafe to enlighten Thy Church by the merits and teaching of our blessed father Dominic, Thy confessor, grant that through his intercession we may be provided against all temporal necessities, and ever increase in spiritual good. Through our Lord Jesus Christ, Thy Son, Who liveth, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Father, keep thy gracious word,\n℟. Pleading for us with our Lord."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Jesu sweet, at Dominic's prayer,\n℟. Let his sons Thy power share."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father, etc., Alleluia; or,\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Hymnum novae laetitiae"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Come, let our choir, this happy day,\nProlong its sweet melodious lay;\nAnd hymns of new-felt joy proclaim\nThe praise of Dominic's great name."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The world at its grim vesper-tide\nThis brightly glittering star descried,\nHerald of freedom's light up-risen\nTo souls detained in sin's dark prison."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Unto the sacred One and Three\nPraise, honour, strength and glory be;\nAnd may He grant our souls to rise\nThrough Dominic's pleading to the skies. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From Psalm 14"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Lord, who shall dwell in Thy tabernacle,\nOr who shall rest on Thy holy hill?\nHe that walketh without blemish\nAnd worketh justice.\nHe that speaketh truth in his heart,\nWho hath used no deceit with his tongue.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - Scala caelo"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "A ladder, reaching from the sky,\nShone brightly on a brother's eye,\nWho clear descried our father blest\nAscending to his saintly rest."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter Isa. LIX, 21"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "My spirit which is in thee, and My words which I have put into thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth now and for ever.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Holy father cast thy mind\nOn the work thy hands designed.\n℟. Holy father cast thy mind\nOn the work thy hands designed.\n℣. In the Judge's presence stand\nFor thy poor and lowly band.\n℟. On the work thy hands designed.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. Holy father cast thy mind\nOn the work thy hands designed.\n℣. When touched by death\nWe yield our breath,\n℟. O come and take us to the sky.\n℣. And even now,\nGreat father, show\n℟. We walk beneath thy watchful eye.\n℣. O Lord hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nGrant, we beseech Thee, O Lord, that we may be assisted by the prayers of blessed Dominic, Thy confessor, that what we ourselves are not able to obtain, may be vouchsafed us through his intercession. Through our Lord Jesus Christ, Thy Son, Who liveth, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. Father keep thy gracious word,\n℟. Pleading for us with our Lord."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Grant his prayer, sweet Lord, that we\n℟. May still be pleasing unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father, etc., Alleluia; or,\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Doctrinam Evangelicam"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "He spread abroad the Gospel sound\nEven to earth's remotest bound,\nAnd with his new-formed ranks subdued\nAnd banished heresy's false brood."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "He was the well-spring from whose tide\nSwelled the rich river, deep and wide,\nA living flood still rolling forth\nIts healing waters through the earth."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Unto the sacred One and Three\nPraise, honour, strength and glory be\nAnd may He grant our souls to rise\nThrough Dominic's pleading to the skies. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From Psalm 23"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The earth is the Lord's and the fullness thereof:\nThe world and all that dwell therein.\nFor He hath founded it upon the seas:\nAnd upon the floods hath He prepared it.\nWho shall go up to the mountain of the Lord:\nOr who shall stand in His holy place?\nThe innocent of hands, and the clean of heart,\nWho hath not taken his soul in vain,\nNor sworn in guile unto his neighbor.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - Fulgent in choro"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "A teacher of the truth sincere,\nHe shines among the virgin choirs,\nHis brows the double garlands wear\nOf doctrine pure and chaste desires."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter Mal. II, 6"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The law of truth was in his mouth, and iniquity was not found on his lips; he walked with Me in peace and justice, and turned many from iniquity.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. When touched by death\nWe yield our breath,\n℟. O come and take us to the sky.\n℣. And even now,\nGreat father, show\n℟. We walk beneath thy watchful eye.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. When touched by death\nWe yield our breath,\nO come and take us to the sky."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. The mouth of the just man shall speak wisdom.\n℟. And his tongue shall utter judgment."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nGrant, we beseech Thee, Almighty God, that we who are weighed down with the burden of our sins may be relieved by the intercession of our blessed father Dominic, Thy confessor. Through our Lord Jesus Christ, Thy Son, Who liveth, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Father, keep thy gracious word.\n℟. Pleading for us with our Lord."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Grant his prayer, sweet Lord, that we\n℟. May still be pleasing unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father, etc., Alleluia; or,\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From Psalm 111"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Blessed is the man that feareth the Lord:\nHe shall delight exceedingly in His commandments.\nHis seed shall be mighty upon the earth:\nThe generation of the just shall be blessed.\nGlory and wealth shall be in his house:\nAnd his justice remaineth forever and ever.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - Transit pauper"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The saint so mean and poor\nAscends a heavenly throne,\nHe holds a sceptre evermore,\nHe wears a conqueror's crown."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "He goes from death to life,\nFrom toil to lasting rest;\nFrom sorrows here and ceaseless strife,\nTo the pleasures of the blest."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter Ecclus. L, 6, 7"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "As the morning star in the midst of a cloud,\nand as the moon in the days of her fullness,\nand as the sun when it shineth, so shone he in the temple of God.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Gaude Mater"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Rejoice, sweet Mother Church, to whom\nThis happy festal day is given\nIn mind of him who from thy womb\nIs born a saint this day to heaven."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Our mighty father, who led forth\nAnd marshalled his great preacher-host,\nWith glory crowned now leaves this earth\nTo dwell on heaven's blissful coast."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To God, the Three and One, be praise\nAnd honour, strength and glory given;\nAnd may He deign our souls to raise\nThrough our sweet father's prayers to heaven. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Pray for us, O Holy Father, Dominic.\n℟. That we may be made worthy of the promises of Christ."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From the Magnificat"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "My soul doth magnify the Lord.\nAnd my spirit hath rejoiced in God my Saviour.\nBecause He hath regarded the humility of His handmaid:\nFor behold from henceforth all generations shall call me blessed.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - O Lumen"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O Light of holy Church,\nTeacher of truth divine!\nSweet rose of patience, ivory-white\nThy chastity doth shine."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Of wisdom's living waters\nAll freely thou hast given;\nHerald of grace, O join our souls\nUnto the blest in heaven."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO God, who didst vouchsafe to enlighten Thy Church by the merits and teaching of our blessed Father Dominic, Thy confessor, grant that through his intercession we may be provided against all temporal necessities, and ever increase in spiritual good. Through our Lord Jesus Christ, Thy Son, Who liveth, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Commemoration of St Augustine"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Rejoice, O Jerusalem, our mother, for thy King hath brought Augustine unto thee, a diligent steward and most faithful citizen, redeemed from the captivity of Babylon."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. The Lord loved him and adorned him.\n℟. He clad him with a robe of glory."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nGive ear to our supplications, Almighty God, and through the intercession of Blessed Augustine, Thy confessor and bishop, graciously show forth unto us the effect of Thine accustomed mercy, whom Thou indulgest in the confident hope of Thy loving kindness. Through our Lord Jesus Christ, Thy Son, Who liveth, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. Father, keep thy gracious word.\n℟. Pleading for us with our Lord."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Grant his prayer, sweet Lord, that we\n℟. May still be pleasing unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Convert us, O Lord, our Saviour.\n℟. And turn away Thy wrath from us."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help us."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father, etc., Alleluia; or,\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "From Psalm 30"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "In Thee, O Lord, have I hoped,\nLet me never be confounded.\nO deliver me in Thy justice.\nBow down Thine ear to me.\nMake haste to deliver me.\nBe Thou unto me, O God, a protector\nAnd a house of refuge to save me.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - Agonizans"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Laboring for his Lord's dear name\nDressed in poverty's plain weeds,\nOnward through the world he came\nSowing wide the heavenly seeds."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter Ecclus. XV, 5"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "In the midst of the Church, the Lord opened his mouth and filled him with the spirit of wisdom and understanding, and clothed him with a robe of glory.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Intercede for us, O blessed father Dominic.\n℟. Intercede for us, O blessed father Dominic.\n℣. That we may be made worthy of the promises of Christ.\n℟. O blessed father Dominic.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. Intercede for us, O blessed father Dominic."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Carnis liber ergastulo"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "From prison of the flesh set free,\nSee how he shines with beams from heaven!\nAnd for his garb of poverty\nA robe of royalty is given.\nThe fragrant tomb, the frequent sign,\nClear proof to all mankind afford\nHow much of grace and power divine\nChrist's servant shareth with his Lord.\nTo God, the Three and One, be praise\nAnd honour, strength and glory given;\nAnd may He deign our souls to raise\nThrough our sweet father's prayers to heaven. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "The Canticle - Nunc dimittis"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Now lettest Thou Thy servant depart, O Lord,\nAccording to Thy word, in peace.\nBecause mine eyes\nHave seen Thy salvation\nWhich Thou hast prepared\nBefore the face of all people.\nA light to enlighten the Gentiles:\nAnd the glory of Thy people, Israel.\nGlory be to the Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Anthem - O Speculum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O mirror-glass of purity,\nClear of all earthly stain,\nMay we who sing thy joys arise\nHereafter to the happy skies,\nAnd share in Christ's blest reign."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nHave mercy upon us, Thy servants, we beseech Thee, O Lord, and whatsoever sins we have committed in this our life and pilgrimage, by the sight of evil things, or the hearing of unprofitable discourse, do Thou of Thine unspeakable kindness, and through the intercession of Thy confessor, our most blessed and sweet father Dominic, wholly blot out and forgive. Through our Lord, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God rest in peace.\n℟. Amen.\n℣. Father, keep thy gracious word,\n℟. Pleading for us with our Lord."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

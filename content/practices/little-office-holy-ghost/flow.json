@@ -1,0 +1,222 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ordinaria",
+        "en-US": "Ordinaria"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Spiritus sancti gratia illuminet sensus et corda nostra.\nAmen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Gloria Patri. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "A Septuagesima usque ad Pascha, loco Alleluia dicitur: Laus tibi, Domine, Rex aeternae gloriae."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nobis sancti Spiritus gratia sit data,\nDe qua Virgo virginum fuit obumbrata,\nCum per sanctum Angelum fuit salutata.\nVerbum caro factum est, Virgo foecundata."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "De Maria Virgine Christus fuit natus;\nCrucifixus, mortuus, atque tumulatus;\nResurgens Discipulis fuit demonstratus,\nEt ipsis cernentibus in ccelos elevatus."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Suum sanctum Spiritum Deus delegavit,\nIn die Pentecostes Apostolos confortavit,\nEt de linguis igneis ipsos inflammavit,\nRelinquere orphanos eos denegavit."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Septiformem gratiam tunc acceptaverunt,\nQuare idiomata cuncta cognoverunt,\nAd diversa climata mundi recesserunt,\nEt fidem Catholicam tunc praedicaverunt."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spiritus Paraclitus fuit appellatus,\nDonum Dei, charitas, fons vivificatus,\nSpiritualis unctio, ignis inflammatus,\nSeptiformis gratia, charisma vocatus."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dexterae Dei digitus, virtus spiritualis,\nNos defendat, eruat ab omnibus malis,\nUt nobis non noceat daemon infernalis,\nProtegat et nutriat, foveatque sub alis."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spiritus Paraclitus nos velit juvare,\nGressus nostros regere et illuminare,\nUt cum Deus venerit omnes judicare,\nNos velit ad dexteram omnes appellare."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio",
+        "en-US": "Conclusio"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Veni, sancte Spiritus, reple tuorum corda fidelium, et tui amoris in eis ignem accende."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Emitte Spiritum tuum, et creabuntur.\n℟. Et renovabis faciem terrae."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nAdsit nobis, quaesumus,\nDomine, virtus Spiritus sancti,\nquae et corda nostra clementer expurget,\net ab omnibus tueatur adversis.\nPer Dominum."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendatio",
+        "en-US": "Commendatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Has horas canonicas cum devotione,\nTibi, sancte Spiritus, pia ratione,\nDixi, ut nos visites inspiratione,\nEt vivamus jugiter in coeli regione.\nAmen."
+      }
+    }
+  ]
+}

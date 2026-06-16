@@ -1,0 +1,37 @@
+{
+  "id": "little-office-bvm-dominican",
+  "icon": "mary",
+  "name": {
+    "en-US": "Little Office of the Blessed Virgin Mary According to the Rite of the Order of Preachers (Dominicans)"
+  },
+  "categories": [
+    "marian"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Blessed Virgin Mary According to the Rite of the Order of Preachers (Dominicans), arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "marian",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 125,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "Taken from the Libellus Precum (1952).\n\nFratribus, Sororibus et Tertiariis, qui Officium quotidianum B. M. V. devote recitaverint, etsi ad illud persolvendum teneantur conceditur: indulgetur 500 dierum pro quolibet hora ejusdem Officii; indulgetur 10 annorum indulgentia pro integro Officio; indulgetur plenaria suetis conditionibus, si quotidie per integrum mensem totius Officii recitationem persolverint."
+  }
+}

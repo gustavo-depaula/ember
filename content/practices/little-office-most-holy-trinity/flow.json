@@ -1,0 +1,357 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ordinaria"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Benedicta sit sancta et individua Trinitas, nunc et semper, et per infinita saecula saeculorum.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Mattutinum."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Completorium."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Omnes."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Laus tibi, Domine, Rex aeternae gloriae."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O lux beata Trinitas,\nEt principalis unitas,\nJam sol recedit igneus;\nInfunde lumen cordibus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicta sit sancta creatrix et gubernatrix omnium, sancta et individua Trinitas, nunc et semper, et per infinita saecula saeculorum. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ortus refulget lucifer,\nSparsamque lucem nuntiat;\nCadunt tenebrae noctium,\nLux sancta nos illuminet."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gratias tibi, Deus, gratias tibi, vera et una Trinitas, una et summa Deitas, sancta et una Unitas."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Summae Deus clementiae,\nMundi que factor machinae,\nUnus potentialiter,\nTrinusque personaliter."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te invocamus, te laudamus, te adoramus, spes nostra, honor noster, libera nos, vivifica nos, o beata Trinitas."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Da dexteram surgentibus,\nExurgat ut mens sobria,\nFlagrans et in laudem Dei\nGrates rependat debitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Charitas Pater est, gratia Filius, communicatio Spiritus Sanctus. Veritas est Pater, veritas Filius, veritas Spiritus Sanctus. Pater et Filius et Spiritus Sanctus una substantia est, o beata Trinitas."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu, Trinitatis unitas,\nOrbem potenter quae regis,\nAttende laudis canticum\nQuod excubantes psallimus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tibi laus, tibi gloria, tibi gratiarum actio in saecula sempiterna: et benedictum nomen gloriae tuae, sanctum et laudabile, superexaltatum in saecula, o beata Trinitas."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te mane laudum carmine,\nTe deprecamur vespere,\nTe nostra supplex gloria\nPer cuncta laudet saecula."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te Deum Patrem ingenitum, te Filium unigenitum, te Spiritum Sanctum Paraclitum, sanctam et individuam Trinitatem, toto corde et ore confitemur, laudamus atque benedicimus, tibi gloria in saecula."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria tibi, Trinitas,\nAequalis, una Deitas;\nEt ante omnia saecula,\nEt nunc, et in perpetuum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, qui creavit nos; gloria Filio, qui redemit nos; gloria Spiritui Sancto, qui sanctificavit nos; gloria summae et individuae Trinitati, Deo nostro in saecula saeculorum."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio Horae"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Benedicamus Patrem, et Filium, cum Sancto Spiritu.\n℟. Laudemus et superexaltemus eum in saecula."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nOmnipotens sempiterne Deus, qui dedisti famulis tuis in confessione verae fidei aeternae Trinitatis gloriam agnoscere, et in potentia Majestatis adorare Unitatem, quaesumus, ut ejusdem fidei firmitate ab omnibus semper muniamur adversis. Per Dominum."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Has horas canonicas cum devotione.\nDixi, sancta Trinitas, tui ratione,\nUt sis mihi praesens mortis in agone.\nEt regnemus jugiter in coeli regione. Amen."
+      }
+    }
+  ]
+}

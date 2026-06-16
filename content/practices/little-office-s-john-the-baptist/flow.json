@@ -1,0 +1,590 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fuit homo missus a Deo, cui nomen erat Joannes, hic venit in testimonium, ut testimonium perhiberet de lumine, ut omnes crederent per illum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Praecursorem summi Regis\nEt Praeconem novae legis\nCoeli ornat gloria;\nSed et ortus gratiosa,\nNec non mortis pretiosa\nTerris est memoria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater senex novum natum\nDandum stupet; dum legatum\nAudit missum coelitus;\nNam aetatem et naturam\nSpectans, aegre rem futuram\nCredit jam decrepitus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed quod negat, quod infirmat,\nHoc attestans mox confirmat\nLinguae destitutio;\nDum non paret verbo parens,\nJam ex perdita apparens\nVoce fit punitio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce eris tacens, et non poteris loqui, pro eo quod non credidisti verbis meis, quae implebuntur in tempore suo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Tu puer Propheta altissimi vocaberis.\n℟. Praeibis enim ante faciem Domini parare vias ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui praesentem commemorationem honorabilem nobis in beati Joannis nativitate fecisti: da populis tuis spiritualium gratiam gaudiorum, et omnium fidelium mentes dirige in viam salutis aeternae. Per Dominum nostrum Jesum Christum. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi, etc. Benedicamus, etc.\n℟. Et Fidelium, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Ad Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Praecursore nondum nato,\nNedum partu referato,\nDona clarent coelica,\nNostro sole tunc exclusus,\nVerioris est perfusus,\nLuce solis mystica."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Prius novit diem verum,\nQuam nostrorum sit dierum\nUsus beneficio;\nIlle notus nondum natus,\nNondum nascens est renatus\nChristi ex commercio."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Alvo Deum Virgo claudit,\nClauso clausus hic applaudid,\nVentris ex custodia;\nLinguae gestus obsequuntur,\nDum infantum colloquuntur\nMuta jam prodigia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ut audivit salutationem Elisabeth, exultavit infans in utero ejus, et repleta est Spiritu Sancto."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Beata quae credidisti, quoniam perficientur.\n℟. Quae dicta sunt tibi a Domino."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mater parit; Pater credit;\nReduente fide, redit\nLinguae beneficium.\nEja felix partus Matris,\nQuo soluta lingua Patris\nCelebrat mysterium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Thori fructus Matri dantur;\nEjam Matris expiantur\nSterilis opprobria;\nOrtu tanti praecursoris\nMulti timent, sed timoris\nComes est laetitia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Se de munde servans mundum,\nMunde vivit intra mundum\nIn aetate tenera,\nSed e mundi mox convictu\nCedens, loco, veste, vietu\nMera perfert aspera!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Erat Joannes vestitus pilis camelii, et zona pellicea circa lumbos ejus, et locustas et mel sylvestre edebat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Erit magnus coram Domino.\n℟. Et vinum et siceram non bibet."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Lege vitae sub angusta\nMel sylvestre cum locusta,\nCibum non abhorruit;\nCamelorum tectus pilis,\nPer desertum mundo vilis,\nCoelo magnus claruit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quem dum replet lux superna,\nVerae lucis fit lucerna:\nVeri solis Lucifer.\nNovus novae praecone legis,\nImo novus novi Regis\nPugnatur signifer."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Singulari Prophetia\nProphetarum Monarchia\nSublimatur omnium:\nHi venturum, hic praesentem,\nHi promissum, hic viventem\nMonstrat orbis Dominum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vidit Joannes Jesum, et ait: Ecce Agnus Dei, ecce qui tollit peccata mundi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Et audierunt eum discipuli.\n℟. Et secuti sunt Jesum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ardens vita, verbo lucens;\nEt ad veram lucem ducens\nMulta docet milia,\nO quam clarus mos docendi,\nCum doctoris dant vivendi\nFormulam vestigia!"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Non lux quidem fuit iste,\nSed ut daret tibi, Christe,\nLuci testimonium.\nNon lux erat, sed lucerna:\nVerbum Christus luc aeterma,\nLucem cerans omnium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum baptizat Christum soris,\nReddit Christus dignioris\nAquae beneficium;\nEn! ut ambos curat Numen!\nIsti Flamen, illi flumen\nAddidit praeconium."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In diebus illis venit Jesus a Nazareth Galilaeae, et baptizatus est a Joanne in Jordane."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ego baptizo vos aqua.\n℟. Ille vero baptizabit vos Spiritu Sancto."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui baptizat, elevatur,\nBaptizatus non lavatur,\nIn quo nulla macula,\nAquae lavant, quin lavantur,\nQuaeis lavandi vires dantur,\nVi mundantis omnia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Contemplatur omnes istum,\nQuem putabat turba Christum,\nStupens ad prodigia,\nQui cervicem non erexit,\nSed Dominum se despexit,\nDomini corrigia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Attestante palam Christo:\nNon surrexit major isto\nNatus de muliere,\nSolum Christus se excepit,\nQui de carne carnem cept.\nSine carnis opere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen dico vobis, inter natos mulierum non surrexit major Joanne Baptista."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Quid existis videre Prophetam?\n℟. Ego dico vobis, etiam plusquam Prophetam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Non hic Praeco veritatis,\nUt arundo levitatis,\nQuaevis laudat placita;\nSed et scribas, et Doctores,\nVocat legis et ruptores,\nViperae genimina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quin et arguit Herodem,\nUnde vinctus ab eodem,\nSed nec victus carcere;\nFert injustam justus poenam,\nRem detestans, vah! obscenam\nRegis et adulterae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Inde saevit vis Tyranni,\nSed ut crevite laus Joanni,\nRegi sic supplicium,\nServit stultus nam prudenti,\nDum probatur in persenti\nInnocens per impium."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Herodes autem, cum corriperetur ab illo de Herodiade uxore fratris sui, adjecit et hoc super omnia, et inclusit Joannem in carcere."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Volens illum occidere timuit populum.\n℟. Quia sicut Prophetam habebant eum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In natalis sui coena,\nCapitali plecti poena\nRex Joannem jusserat,\nSpiculator saltatrici,\nLaena desert Genitrici\nCaput quod petierat;"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Crux designat sublimari\nChristum, sed hunc minorari\nCapitis abscissio.\nO mors vere pretiosa\nPrae quoa est tam gloriosa\nVitae conversatio!"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Atque haec in laudem, Christe!\nTu reddimus Baptistae\nVota, et encomia,\nNos ad vitam recto calle\nEx hac mortis ducas valle\nEjus ut per merita."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Misso spiculatore praecepit afferri caput ejus, et decollavit eum in carcere, et attulit caput ejus in disco."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Venerunt discipuli ejus, et tulerunt corpus ejus.\n℟. Et posuerunt illud in monumento."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Prayer"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendatio ad S. Joannem Baptistam"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Hymn"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Caput sacrum dum truncatur,\nEt Herodi praesentatur\nIn fatali phiala,\nAures claudis atque ora,\nCassa vultus et aurora,\nDive claudis lumina,\nSed quid nobis denum erit,\nCaput nostrum si mors ferit!\nUrget ira Judicis?\nNi tu audias clamantes,\nNi respicias peccantes,\nReos mi defenderis!\nAudi ergo, interpella,\nUt gehennae ex procella\nCaput nostrum eruas,\nChristus sed benigne donet,\nNe in illud dira tonet,\nSedes nobis coelicas."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis Sancte Joannes Baptista.\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O Sancte Joannes Baptista, electe Praecursor et Angele Dei, qui venisti ante faciem Domini parare vias ejus, ostendens Agnum Dei, Dominum et Salvatorem nostrum, qui tollit peccata mundi: Intercede, quaesumus, pro nobis ad Dominum, ut sicut sanctitate nemini minor, humilitate omnibus major, Prophetarum potissimus, primus Martyrum exstitisti, ita, quem praedicando humiliter praecurristi, ejusdem fideliter mandata sequendo, vitam capiamus aeternam. Per eundem Christum Dominum nostrum, cui cum Patre et Spiritu Sancto vivit et regnat Deus in saecula saeculorum.\nAmen."
+      }
+    }
+  ]
+}

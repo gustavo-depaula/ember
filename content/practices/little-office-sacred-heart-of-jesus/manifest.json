@@ -1,0 +1,37 @@
+{
+  "id": "little-office-sacred-heart-of-jesus",
+  "icon": "sacred-heart",
+  "name": {
+    "en-US": "Little Office of the Sacred Heart of Jesus"
+  },
+  "categories": [
+    "divine-mysteries"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Sacred Heart of Jesus, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "divine-mysteries",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 104,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "Courtesy of Michael Martin, www.preces-latinae.org — transcription of the original text.\n\nThere are several Little Offices of the Sacred Heart. This particular one is taken from prayer books of the 20th century and is based largely upon the Office assembled in the 17th century by Fr. Croiset. The texts of the prayers and hymns themselves originate from Fr. Eudes, Fr. Gallifet and Fr. Croiset."
+  }
+}

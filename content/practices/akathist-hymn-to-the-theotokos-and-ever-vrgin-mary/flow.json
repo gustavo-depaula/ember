@@ -1,0 +1,484 @@
+{
+  "sections": [
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Deacon:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Reverend Father, give\nthe blessing."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Priest:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Blessed is our God,\nalways, now and ever\nand forever.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "If a priest is not present:"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Leader:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Through the prayers of our\nholy fathers, O Lord Jesus\nChrist, our God, have mercy\non us.\nAmen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glory to you, our God,\nglory to you!\nHeavenly King, Comforter, Spirit of Truth,\neverywhere present and filling all things.\nTreasury of Blessings and Giver of Life,\ncome and dwell within us,\ncleanse us of all stain,\nand save our souls, O gracious One."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "From Pascha until Pentecost, “Glory to you...” and “Heavenly King...” are not said.\nFrom Pascha until Ascension, the following Paschal Troparion is sung three times, first by the\npriest, then twice by all:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Christ is risen from the dead! By death trampeled Death; and to those in the tombs he granted life."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Trisagion Prayers"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Holy God, Holy and Mighty, Holy and Immortal,\nhave mercy on us. (three times)\nGlory to the Father, and to the Son, and to the Holy Spirit,\nnow and ever and forever. Amen.\nMost Holy Trinity, have mercy on us;\nLord, cleanse us of our sins;\nMaster, forgive our transgressions;\nHoly One, come to us and heal our infirmities\nfor your name’s sake.\nLord, have mercy. Lord, have mercy.\nLord, have mercy.\nGlory to the Father, and to the Son, and to the Holy Spirit,\nnow and ever and forever. Amen.\nOur Father, who art in heaven, hallowed be thy name.\nThy kingdom come, thy will be done on earth as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses\nas we forgive those who trespass against us,\nand lead us not into temptation,\nbut deliver us from evil"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Priest:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "For thine is the kingdom\nand the power and the\nglory, Father, Son, and\nHoly Spirit, now and\never and forever.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "If a priest is not present:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Through the prayers of our\nholy fathers, O Lord Jesus\nChrist, our God, have mercy\non us.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 1"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Victorious Leader of Triumphant Hosts, we Thy servants\ndelivered from evil sing our grateful thanks to Thee O Theotokos:\nas Thou dost possess invincible might set us free from every\ncalamity, so that we may sing Rejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 1"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "An archangel was sent from heaven to say to the Theotokos:\nRejoice! And beholding Thee, O Lord, taking bodily form, he was\namazed and with his bodiless voice he stood crying to her such\nthings as these:\nRejoice, Thou through whom joy will shine forth:\nRejoice, Thou through whom the curse will cease!\nRejoice, recall of fallen Adam:\nRejoice, redemption of the tears of Eve!\nRejoice, height inaccessible to human thoughts:\nRejoice, depth undiscernible even for the eyes of angels!\nRejoice, for Thou art the throne of the King:\nRejoice, for Thou bearest Him Who beareth all!\nRejoice, star that causest the Sun to appear:\nRejoice, womb of the Divine Incarnation!\nRejoice, Thou through whom creation is renewed:\nRejoice, Thou through whom we worship the Creator!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 2"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Seeing herself to be chaste, the holy one said boldly to Gabriel:\nThe marvel of thy speech is difficult for my soul to accept. How\ncanst thou speak of a birth from a seedless conception? And She\ncried: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 2"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Seeking to know knowledge that cannot be known, the Virgin\ncried to the ministering one: Tell me, how can a son be born from\na chaste womb? Then he spake to Her in fear, only crying aloud\nthus:\nRejoice, initiate of God’s ineffable will:\nRejoice, assurance of those who pray in silence!\nRejoice, beginning of Christ’s miracles:\nRejoice, crown of His dogmas!\nRejoice, heavenly ladder by which God came down:\nRejoice, bridge that conveyest us from earth to heaven!\nRejoice, wonder of angels sounded abroad:\nRejoice, wound of demons bewailed afar!\nRejoice, Thou Who ineffably gavest birth to the Light:\nRejoice, Thou Who didst reveal Thy secret to none!\nRejoice, Thou Who surpassest the knowledge of the wise:\nRejoice, Thou Who givest light to the minds of the faithful!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 3"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "The power of the Most High then overshadowed the Virgin for\nconception, and showed Her fruitful womb as a sweet meadow to\nall who wish to reap salvation, as they sing: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 3"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Having received God into Her womb, the Virgin hastened to\nElizabeth whose unborn babe at once recognized Her embrace,\nrejoiced, and with leaps of joy as songs, cried to the Theotokos:\nRejoice, branch of an Unfading Sprout:\nRejoice, acquisition of Immortal Fruit!\nRejoice, labourer that labourest for the Lover of mankind:\nRejoice, Thou Who givest birth to the Planter of our life!\nRejoice, cornland yielding a rich crop of mercies:\nRejoice, table bearing a wealth of forgiveness!\nRejoice, Thou Who makest to bloom the garden of delight:\nRejoice, Thou Who preparest a haven for souls!\nRejoice, acceptable incense of intercession:\nRejoice, propitiation of all the world!\nRejoice, good will of God to mortals:\nRejoice, boldness of mortals before God!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 4"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Having within a tempest of doubting thoughts, the chaste Joseph\nwas troubled. For knowing Thee to have no husband, he\nsuspected a secret union, O blameless one. But having learned\nthat Thy conception was of the Holy Spirit, he said: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 4"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "While the angels were chanting, the shepherds heard of Christ’s\ncoming in the flesh, and having run to the Shepherd, they beheld\nHim as a blameless Lamb that had been pastured in Mary’s\nwomb, and singing to Her, they cried:\nRejoice, Mother of the Lamb and the Shepherd:\nRejoice, fold of rational sheep!\nRejoice, torment of invisible enemies:\nRejoice, opening of the gates of Paradise!\nRejoice, for the things of heaven rejoice with the earth:\nRejoice, for the things of earth join chorus with the heavens!\nRejoice, never-silent mouth of the Apostles:\nRejoice, invincible courage of the passion-bearers!\nRejoice, firm support of faith:\nRejoice, radiant token of Grace!\nRejoice, Thou through whom hades was stripped bare:\nRejoice, Thou through whom we are clothed with glory!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 5"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Having sighted the divinely-moving star, the Magi followed its\nradiance; and holding it as a lamp, by it they sought a powerful\nKing; and having reached the Unreachable One, they rejoiced,\nshouting to Him: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 5"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "The sons of the Chaldees saw in the hands of the Virgin Him Who\nwith His hand made man. And knowing Him to be the Master,\neven though He had taken the form of a servant, they hastened to\nserve Him with gifts, and to cry to Her Who is blessed:\nRejoice, Mother of the Unsetting Star:\nRejoice, dawn of the mystic day!\nRejoice, Thou Who didst extinguish the furnace of error:\nRejoice, Thou Who didst enlighten the initiates of the Trinity!\nRejoice, Thou Who didst banish from power the inhuman\ntyrant:\nRejoice, Thou Who didst show us Christ the Lord, the Lover of\nmankind!\nRejoice, Thou Who redeemest from pagan worship:\nRejoice, Thou Who dost drag us from the works of mire!\nRejoice, Thou Who didst quench the worship of fire:\nRejoice, Thou Who rescues from the flame of the passions!\nRejoice, guide of the faithful to chastity:\nRejoice, gladness of all generations!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 6"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Having become God-bearing heralds, the Magi returned to\nBabylon, having fulfilled Thy prophecy; and having preached\nThee to all as the Christ, they left Herod as a babbler who knew\nnot how to sing: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 6"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "By shining in Egypt the light of truth, Thou didst dispel the\ndarkness of falsehood; for its idols fell, O saviour, unable to\nendure Thy strength; and those who were delivered from them\ncried to the Theotokos:\nRejoice, uplifting of men:\nRejoice, downfall of demons!\nRejoice, Thou who didst trample down the dominion of\ndelusion:\nRejoice, Thou who didst unmask the fraud of idols!\nRejoice, sea that didst drown the Pharaoh of the mind:\nRejoice, rock that doth refresh those thirsting for life!\nRejoice, pillar of fire that guideth those in darkness:\nRejoice, shelter of the world broader than a cloud!\nRejoice, sustenance replacing manna:\nRejoice, minister of holy delight!\nRejoice, land of promise:\nRejoice, Thou from whom floweth milk and honey!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 7"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "When Symeon was about to depart this age of delusion, Thou\nwast brought as a Babe to him, but Thou was recognized by him\nas perfect God also; wherefore, marveling at Thine ineffable\nwisdom, he cried: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 7"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "The Creator showed us a new creation when He appeared to us\nwho came from Him. For He sprang from a seedless womb, and\nkept it incorrupt as it was, that seeing the miracle we might sing\nto Her, crying out:\nRejoice, flower of incorruptibility:\nRejoice, crown of continence!\nRejoice, Thou from whom shineth the Archetype of the\nResurrection:\nRejoice, Thou Who revealest the life of the angels!\nRejoice, tree of shining fruit, whereby the faithful are nourished:\nRejoice, tree of goodly shade by which many are sheltered!\nRejoice, Thou that has carried in Thy womb the Redeemer of\ncaptives:\nRejoice, Thou that gavest birth to the Guide of those astray!\nRejoice, supplication before the Righteous Judge:\nRejoice, forgiveness of many sins!\nRejoice, robe of boldness for the naked:\nRejoice, love that doth vanquish all desire!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 8"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Having beheld a strange nativity, let us estrange ourselves from\nthe world and transport our minds to heaven; for the Most High\nGod appeared on earth as a lowly man, because He wished to\ndraw to the heights them that cry to Him: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 8"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Wholly present was the Inexpressible Word among those here\nbelow, yet in no way absent from those on high; for this was a\ndivine condescension and not a change of place, and His birth was\nfrom a God-receiving Virgin Who heard these things:\nRejoice, container of the Uncontainable God:\nRejoice, door of solemn mystery!\nRejoice, report doubtful to unbelievers:\nRejoice, undoubted boast of the faithful!\nRejoice, all-holy chariot of Him Who sitteth upon the\nCherubim:\nRejoice, all-glorious temple of Him Who is above the Seraphim!\nRejoice, Thou Who hast united opposites:\nRejoice, Thou Who hast joined virginity and motherhood!\nRejoice, Thou through whom transgression hath been absolved:\nRejoice, Thou through whom Paradise is opened!\nRejoice, key to the kingdom of Christ:\nRejoice, hope of eternal good things!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 9"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "All the angels were amazed at the great act of Thine incarnation;\nfor they saw the Unapproachable God as a man approachable to\nall, abiding with us, and hearing from all: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 9"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "We see most eloquent orators mute as fish before Thee, O\nTheotokos; for they are at a loss to tell how Thou remainest a\nVirgin and could bear a child. But we, marveling at this mystery,\ncry out faithfully:\nRejoice, receptacle of the Wisdom of God:\nRejoice, treasury of His Providence!\nRejoice, Thou Who showest philosophers to be fools:\nRejoice, Thou Who exposest the learned as irrational!\nRejoice, for the clever critics have become foolish:\nRejoice, for the writers of myths have faded away!\nRejoice, Thou Who didst rend the webs of the Athenians:\nRejoice, Thou Who didst fill the nets of the fishermen!\nRejoice, Thou Who drawest us from the depths of ignorance:\nRejoice, Thou Who enlightenest many with knowledge!\nRejoice, ship for those who wish to be saved:\nRejoice, harbor for sailors on the sea of life!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 10"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Desiring to save the world, He that is the Creator of all came to it\naccording to His Own promise, and He that, as God, is the\nShepherd, for our sake appeared unto us as a man; for like calling\nunto like, as God He heareth: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 10"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "A bulwark art Thou to virgins, and to all that flee unto Thee, O\nVirgin Theotokos; for the Maker of heaven and earth prepared\nThee, O Most-pure one, dwelt in Thy womb, and taught all to call\nto Thee:\nRejoice, pillar of virginity:\nRejoice, gate of salvation!\nRejoice, leader of mental formation:\nRejoice, bestower of divine good!\nRejoice, for Thou didst renew those conceived in shame:\nRejoice, for Thou gavest wisdom to those robbed of their minds!\nRejoice, Thou Who didst foil the corrupter of minds:\nRejoice, Thou Who gavest birth to the Sower of purity!\nRejoice, bridechamber of a seedless marriage:\nRejoice, Thou Who dost wed the faithful to the Lord!\nRejoice, good nourisher of virgins:\nRejoice, adorner of holy souls as for marriage!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 11"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Every hymn is defeated that trieth to encompass the multitude of\nThy many compassions; for if we offer to Thee, O Holy King,\nsongs equal in number to the sand, nothing have we done worthy\nof that which Thou hast given us who shout to Thee: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 11"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "We behold the holy Virgin, a shining lamp appearing to those in\ndarkness; for, kindling the Immaterial Light, She guideth all to\ndivine knowledge, She illumineth minds with radiance, and is\nhonoured by our shouting these things:\nRejoice, ray of the noetic Sun:\nRejoice, radiance of the Unsetting Light!\nRejoice, lightning that enlightenest our souls:\nRejoice, thunder that terrifiest our enemies!\nRejoice, for Thou didst cause the refulgent Light to dawn:\nRejoice, for Thou didst cause the river of many streams to gush forth!\nRejoice, Thou Who paintest the image of the font:\nRejoice, Thou Who blottest out the stain of sin!\nRejoice, laver that washest the conscience clean:\nRejoice, cup that drawest up joy!\nRejoice, aroma of the sweet fragrance of Christ:\nRejoice, life of mystical gladness!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 12"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "When the Absolver of all mankind desired to blot out ancient\ndebts, of His Own will He came to dwell among those who had\nfallen from His Grace; and having torn up the handwriting of their\nsins, He heareth this from all: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 12"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "While singing to Thine Offspring, we all praise Thee as a living\ntemple, O Theotokos; for the Lord Who holdeth all things in His\nhand dwelt in Thy womb, and He sanctified and glorified Thee,\nand taught all to cry to Thee:\nRejoice, tabernacle of God the Word:\nRejoice, saint greater than the saints!\nRejoice, ark gilded by the Spirit!\nRejoice, inexhaustible treasury of life!\nRejoice, precious diadem of pious kings:\nRejoice, venerable boast of reverent priests!\nRejoice, unshakable fortress of the Church:\nRejoice, inviolable wall of the kingdom!\nRejoice, Thou through whom victories are obtained:\nRejoice, Thou through whom foes fall prostrate!\nRejoice, healing of my flesh:\nRejoice, salvation of my soul!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kontakion 13"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O all-praised Mother Who didst bear the Word, holiest of all the\nsaints, accept now our offering, and deliver us from all\nmisfortune, and rescue from the torment to come those that cry to\nThee: Alleluia!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Ikos 1"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "An archangel was sent from heaven to say to the Theotokos:\nRejoice! And beholding Thee, O Lord, taking bodily form, he was\namazed and with his bodiless voice he stood crying to her such\nthings as these:\nRejoice, Thou through whom joy will shine forth:\nRejoice, Thou through whom the curse will cease!\nRejoice, recall of fallen Adam:\nRejoice, redemption of the tears of Eve!\nRejoice, height inaccessible to human thoughts:\nRejoice, depth undiscernible even for the eyes of angels!\nRejoice, for Thou art the throne of the King:\nRejoice, for Thou bearest Him Who beareth all!\nRejoice, star that causest the Sun to appear:\nRejoice, womb of the Divine Incarnation!\nRejoice, Thou through whom creation is renewed:\nRejoice, Thou through whom we worship the Creator!\nRejoice, O Unwedded Bride!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Prayer to the Most Holy Lady Theotokos"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O most holy Sovereign Lady Theotokos! Higher art thou than all\nthe angels and archangels, and more honourable than all creation,\na helper of the wronged art thou, the hope of the hopeless, an\nintercessor for the poor, the consolation of the sorrowful, a\nnourisher of the hungry, a robe for the naked, healing for the sick,\nthe salvation of sinners, the help and protection of all Christians.\nO all-merciful Sovereign Lady Virgin Theotokos! Through thy\nmercy save and have mercy on the most holy Orthodox\npatriarchs, the most holy metropolitans, archbishops and bishops,\nand all the priestly and monastic orders, the military leaders, civic\nleaders, and Christ-loving armed forces, and well-wishers, and all\nOrthodox Christians do thou defend by thy precious omophorion,\nand entreat, O Lady, Christ our God Who was incarnate of thee\nwithout seed, that He gird us with His power from on high against\nour enemies, visible and invisible, O all-merciful Sovereign Lady\nTheotokos! Raise us up out of the depths of sin, and deliver us\nfrom famine, destruction, from earthquake and flood, from fire\nand the sword, from invasion of aliens and civil war, and from\nsudden death, and from noxious winds, and from death-bearing\nplagues, and from all evil. Grant, O Lady, peace and health to thy\nservants, all Orthodox Christians, and enlighten their minds, and\nthe eyes of their hearts unto salvation; and vouchsafe unto us, thy\nsinful servants, the kingdom of thy Son, Christ our God; for\nblessed and most-glorified is His dominion, together with His\nunoriginate Father, and His Most-Holy and good and life-creating\nSpirit, now and ever, and unto the ages of ages. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Dismissal"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Priest:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glory to you, O\nChrist God, our\nhope; glory to\nyou!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "If a priest is not present:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Through the prayers of our holy fathers, O\nLord Jesus Christ, our God, have mercy on us.\nAmen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glory to the Father, and to the Son, and to the Holy Spirit,\nnow and ever, and forever. Amen.\nLord, have mercy. Lord, have mercy. Lord, have mercy.\nGive the blessing."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Throughout Pascha, the following is sung in place of “Glory to the Father... Give the blessing.”"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Christ is risen from the dead! By death he trampled Death;\nand to those in the tombs he granted life.\nLord, have mercy. Lord, have mercy. Lord, have mercy.\nGive the blessing"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Priest:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "May Christ our true God, [risen from the dead,] have mercy on us and save us\nthrough the prayers of his most pure Mother and of the holy, glorious,\nand illustrious apostles, [through the prayers of (Name,) whom we\ncommemorate today,] and of all the saints; for Christ is good and loves us all.\nAmen."
+      }
+    }
+  ]
+}

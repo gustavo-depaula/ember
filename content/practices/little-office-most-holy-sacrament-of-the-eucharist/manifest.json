@@ -1,0 +1,37 @@
+{
+  "id": "little-office-most-holy-sacrament-of-the-eucharist",
+  "icon": "eucharist",
+  "name": {
+    "en-US": "Little Office of the Most Holy Sacrament of the Eucharist"
+  },
+  "categories": [
+    "divine-mysteries"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Most Holy Sacrament of the Eucharist, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "divine-mysteries",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 108,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From the Officium Rakoczianum (1783 edition)."
+  }
+}

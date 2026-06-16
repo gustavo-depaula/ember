@@ -1,0 +1,459 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, labia mea aperies,\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cum mundus in caligine reatum jacet\nEt haeresisum fuligine\nSuffusis indoleret:\nRerum supremus arbiter\n\nMiseritum ingementis,\nMovit cor, et graviter\nInnondodo emendicis.\n\nFuit vir hic Ignatius,\nMissus medela morbis,\nVirtute cujus latius\nLate viteret orbis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Jerem. 1."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Constitui te hodie super gentes et regna,\nut evellas, et destruas, et disperdas, et dissipes, et aedifices, et plantes."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Inveni filium Jesse virum secundum cor meum.\n℟. Qui faciet omnes voluntates meas. Actor. 13."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui ad majorem Nominis tui gloriam,\npropagandam novo per B. Ignatium subsidium militantem Ecclesiam roborasti;\nconcede, ut ejus auxilio, et imitatione certantes in terris,\ncoronari cum ipso mereamur in caelis.\nQui vivis et regnas, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ignatius Mavortiae se consecrat coronae\nSpem fregit hujus gratiae Bellona Pampellonae:\nCuratus aegre cogitat vias inire vitae,\nQuasi rite Divos, lecitavit, renuncians avitae.\nLares Paternos deserit, plensuque charitatis,\nUbique semen inserit salubrae sanctitatis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Gen. 12."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Egredere de terra tua, et de cognatione tua, et de domo Patris tui,\net veni in terram, quam monstravero tibi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ambula coram me, et esto perfectus.\n℟. Et multiplicabo te vehementer nimis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui ad majorem, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ad Matris aram Virginis, pernoct precando durat.\nOmnique labe criminis cor expiando curat.\nCarnem domat jejuniis, austeritatibusque\nInsensu, et cupidis et laetitiis quibusque.\nIdem frequenter extimos expertus est labores.\nIdem frequenter intimos expertus est dolores."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Isai. 43."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et quo honorabilis factus es in oculis meis, et gloriosus ego dilexi te,\ndicit Dominus, tu servus meus, quem elegi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Honestavit illum in laboribus.\n℟. Et complevit labores illius."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui ad majorem, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tricennis, imaestatis est Tiro latinitatis:\nHuc insolenti adactus est ardore charitatis.\nEt actus inde nobis sodalium sequella,\nRebus vacaret, fertili mortalium medela.\nCalumnias, et verba, saenasque, et carceresque\nTulit, et sustinet vulnera libentius, necque."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In fraude circumvenientium illum ad stetit, et Dominus secum fuit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Custodivit illum ab inimicis.\n℟. Et a seductoribus tutavit illum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui ad majorem, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sublimis inter aera Ignatius tenetur:\nQuando te ulgens sidera precando conatur\nApostolos in judicium ab legat hinc vereptum:\nCum caeteris exotiicum hic, excolit rosetum.\nAufert suorum cordibus sodalium pavorem\nCum Christus ipsis omnibus proponit et favorem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Isai. 18."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Iste Angeli vescas ad gentem praecentantem,\net sonum exculcantium diriperunt flumina terram ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. In doctrinis glorificate Dominum. Eccli. 14.\n℟. Et docete homines legem Dei. 4 Reg."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mox Ordo Jesu nomine vocatus, inchoatur\nFausto deinceps, omine firmatus approbatur.\nSacco jubetur caetui Ignatius praeesse,\nPastoris hujus mutui grex gessit subsellere.\nCutam suorum sodalium fructu ferace gessit,\nEt Coelique juxta regulam res cuncta vitae cessit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona Agg. 2."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Assumam te Zorobabel serve meus, et ponam te quasi signaculum: quia te elegi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Caput in tribubus Israel factus est."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jam vitis illicae sersperat Ignatio fatore,\nOrbemque ferme sersperat coelestium favore.\nCum strenui mens militis post haec relicta castra\nInepta nomen coelitis poli subivit astra.\nO Patriarcha, lumine dignare nos paterno!\nOpemque natis, lumine transmittente de superno."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hic est frater noster, et populus Israel:\nqui multum orat pro populo, et universa sancta civitate. Machab."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Respexit in orationem humilium.\n℟. Et non sprevit precem eorum. Psalm 101."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui, etc."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Haec vota supplex offero Ignatio praesenti,\nEt hunc honorem defero majora potenti.\nExopto per te maximi nunc ponderis favorem,\nTum Numinis, tum proximi terris in his amorem.\nUt mens soluta corpore festaret ad superna,\nEt pace pleno pectore fruatur cive aeterna."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio recitanda ante Imaginem S. Ignatii"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Salve Sancte Patriarcha Ignati, imitator Jesu Christi;\ntemplum Spiritus Sancti; serve amantissime SS. Trinitatis!\nSalve emulator Martyrum; imago Apostolorum, Vas electionis.\nSalve expugnator vitiorum, compendium virtutum, idea perfectionis.\nSalve norma patientiae; castitatis lilium, modestiae speculum.\nSalve obedientiae prodigium, charitatis ignis, pauperum refugium.\nSalve exemplar abstinentiae, humilitatis prototypon, afflictorum solatium.\nAuxiliare Magister ignorantium, dux poenitentium, reformator Christi;\nnorum illumina mentem meam, dux infidelium\nGuberna cor meum, magne affectuum tuorum moderator.\nImpetra mihi veniam, felicissimae pacis conciliator.\nExcra in bono perseverantiam, firma Ecclesiae columna.\nIntercede pro me, meisque omnibus, tum consanguineis, tum amicis et benefactoribus;\nstrenue clientium tuorum Protector.\nSis mihi scutum in adversitatibus;\ndefende me in tentationibus, et omnibus in vita malis, nec me deferas in hora mortis meae.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Antiphona"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Ego Dominus vocavi te in justitia, et apprehendi manum tuam, et servavi te,\net dedi te in foedus populi; in lucem gentium,\nut aperies oculos caecorum, et educeres de conclusione vinctum,\nde domo carceris sedentem in tenebris."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Annunciate inter gentes gloriam ejus.\n℟. In omnibus populis mirabilia ejus."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nDeus, qui servum tuum S. Ignatium de mundi caesis\nad spiritualis militiae triumphos evocasti;\npraesta quaesumus: ut eum sequamur lucem morum,\net protectorem consequamur.\nPer Christum Dominum nostrum."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Antiphona"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Judicio posui te, ut ostenderem te fortitudinem meam,\net narretur nomen meum in omni terra."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis, Sancte Pater Ignati.\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nDeus, qui glorificantes te, glorificas,\net in Sanctorum tuorum honoribus honoraris;\nconcede propitius: ut, qui sancti tui Ignatii gloriosa merita colimus\nejus apud te pia patrocinia sentiamus.\nPer Christum Dominum nostrum.\n℟. Amen."
+      }
+    }
+  ]
+}

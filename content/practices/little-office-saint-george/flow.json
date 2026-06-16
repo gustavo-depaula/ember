@@ -1,0 +1,562 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Invocatio",
+        "la": "Invocatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Heros Georgi maxime!\nChristi Ducis Commilito,\nVeram profuso sanguine\nFidem probans martyrio;"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Te nostrae nunc amandae\nDepraedicent camaenae:\nQui inter aulae Regulos,\nEt Satrapas Caesareos,"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Excelsa belli Nomina,\nCessi Phoebus inter sidera\nPrae cunctis elucebas,\nVirtutibus clarebas,"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Fac nos perpetua,\nCum Patre, Genitoque,\nParaclito Sanctoque,\nGaudere gloria.\nAmen."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Martem secutus inclytum\nChristi pugil Georgius\nUt Caesaris signiferi\nExhibuit se strenuus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aetate Juvenili:\nSecuta mox virili\nPro milite nunc martyr sit,\nNe dubium proinde sit,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sic Deo se, quae Dei sunt,\nEt Caesari, quae sua sunt,\nDedisse: ut impleret,\nQuae Christus nos doceret;"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus sit perpetua\nPatrique, Filioque,\nSpiranti ab utroque\nPar sit et gloria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Gloria et honore coronasti eum Domine,\n℟. Et constituisti eum super opera manuum tuarum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus qui nos beati Georgii Martyris tui meritis et intercessione laetificas, concede propitius, ut qui tua per eum beneficia poscimus, dono tuae gratiae consequamur. Per Dominum nostrum Jesum Christum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Partis trophaeis plurimis,\nCentumque fusis hostibus,\nFlorebat amplis gratiis\nEt Caesarum favoribus,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tam stemmate excellens,\nQuam meritis praecellens:\nAt Christiani nominis\nHaud immemor nec pectoris,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Christum colebat integre,\nMultatum quamvis sanguine\nId praesciabat fore,\nFidem probat cruore;"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus sit perpetua\nPatrique, Filioque,\nSpiranti ab utroque\nPar sit et gloria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Posuisti Domine super caput ejus\n℟. Coronam de lapide pretioso."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nPresta quaesumus Omnipotens Deus, ut qui beati Georgii Martyris tui glorioso martyrio colimus, intercessione ejus in tui Nominis amore roboremur. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spontaneae solertia\nOccasio non desuit.\nDum Caesaris saevitiae\nPavore procul restitit,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Idola contemnendo,\nSic Caesari loquendo:\nChristiadum cur sanguinem\nQuid purpuram tam nobilem"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Immisit ita appetis?\nCrudelis ita prodigis?\nSi sanguis est fundendus,\nAb improbis petendus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus sit perpetua,\nPatrique, Filioque,\nSpiranti ab utroque\nPar sit et gloria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Magna est gloria ejus in salutari tuo,\n℟. Gloriam et magnum decorem impones super eum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nLargire, quaesumus Omnipotens Deus, ut intercedente beato Georgio Martyre tuo, et a cunctis adversitatibus liberemur in corpore, et a pravis cogitationibus mundemur in mente. Per Dominum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "His efferatus vocibus,\nSpumantis instar pelagi,\nCaesar jubet, Georgius\nArcto mandetur carcere,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed hem! Tyranne audi,\nNon potest virtus claudi:\nEst carcer ut palatium,\nAulae sacrae compendium,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nescit ligari funibus,\nCatenae sunt prae torquibus,\nAmantis in thesauro\nPlus vincula valent auro."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus sit perpetua,\nPatrique, Filioque,\nSpiranti ab utroque\nPar sit et gloria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Justus ut palma florebit.\n℟. Sicut cedrus Libani multiplicabitur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nInfirmitatem nostram respice Omnipotens Deus; et quia pondus propriae actionis gravat, beati Georgii Martyris tui intercessio gloriosa nos protegat. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Isthinc famet Georgius,\nConviva coeli nobilis,\nFame fruens pro dapibus,\nSupernis satur epulis,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nam qui divina noscit,\nTerrena non exposcit:\nNunc nervis quoque vapulat\nQuos Miles Christi tolerat"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nervosus inter scuticaes\nSartagines et ungulas;\nQuin saxum et molare\nJam suscipit portare."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus sit perpetua\nPatrique, Filioque,\nSpiranti ab utroque\nPar sit et gloria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Justum deduxit Dominus per vias rectas,\n℟. Et ostendit illi regnum Dei."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui beatum Georgium Martyrem tuum virtute constantiae in passione roborasti: tribue nobis, quaesumus, ejus imitatione pro amore tuo prospera mundi despicere, et nulla ejus adversa formidare. Per Dominum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ingens tunc surgit fabrica,\nQuae flexili vertigine\nRotunda versans machina\nCultris horrescit undique"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Falce novaculisque\nPlus acribus, dirisque:\nInnexus huic Georgius\nJam carne totus saucius"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In frusta vix non scinditur,\nEt tamen non offenditur;\nNam Angelus curatum\nMox adest vulneratum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus sit perpetua\nPatrique, Filioque,\nSpiranti ab utroque\nPar sit et gloria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Laetitia sempiterna super caput ejus,\n℟. Gaudium et exultationem obtinebit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui nos in tantis periculis constitutos pro humana scis fragilitate non posse subsistere; da nobis intercedente beato Georgio Martyre tuo salutem mentis et corporis; ut ea, quae pro peccatis nostris patimur, te adjuvante vincamus. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fornax ardet calcaria,\nEt saeviente Mulciber\nIgne quaecunque obvia\nDepascitur ferociter,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Georgio illeso,\nArdoris imperatos:\nHinc magis Caesar aestuat\nFornace quam succenderat;"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed ut in igne fortius\nFit aurum, sic Georgius\nRobustior procedit,\nFornace dum excedit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus sit perpetua,\nPatrique, Filioque,\nSpiranti ab utroque\nPar sit et gloria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Pretiosa in conspectu Domini\n℟. Mors Sanctorum ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nPreces nostras, quaesumus, Domine clementer exaudi, ut beati Georgii Martyris tui meritis adjuvemur, cujus passione laetamur. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Demum Tyrannus impotens\nNostrum jubet Georgium\nPost tantum, tamque insolens,\nCaput dare martyrium;"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quod lubens Ille praebet\nChristo, cui vitam debet;\nQuo facto muri concidunt,\nIdola passim corruunt,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Terra connutat motibus,\nOrbam se quasi dotibus\nGeorgii jam nosset,\nAbs quo non stare posset."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus sit perpetua\nPatrique, Filioque,\nSpiranti ab utroque\nPar sit et gloria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Martyr Georgi.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nPresta, quaesumus, Omnipotens Deus, ut beati Georgii Martyris tui fidem congrua devotione sequamur, qui pro ejusdem dilatione, martyrii palmam meruit obtinere. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Gratulatio",
+        "la": "Gratulatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Tibi Martyr victoriam\nApplaudo contra Caesarem,\nQui firmam per constantiam\nHostem vicisti desidem;"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Fac tecum nos certare,\nHostesque superare:\nFac mundum, carnem sternere,\nTerrena quavis spernere,"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Fac in adversis solidos,\nPro Jesu quidquid strenuos\n(Quam nobis id amare\nContingat) supportare."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Divina gratia\nPatrique, Filioque,\nParaclito Sanctoque\nHaec praestet munera."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Accipite armaturam Dei,\n℟. Ut possitis resistere in die malo."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nDomine Jesu Christe, pro cujus amore et fidei confessione beatus Georgius Martyr et Miles tuus invictissimus diversa vicit tormenta, et ad mortem usque certando capitalem subiit sententiam; praesta, quaesumus, ut qui ad eum in angustiis nostris fiducialiter recurrere praesumimus, intercessionis ejus auxilio a diaboli laqueis, et ab omni mentis et corporis adversitate liberemur. Qui vivis et regnas etc.\nAmen."
+      }
+    }
+  ]
+}

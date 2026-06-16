@@ -1,0 +1,369 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur:\nLaus tibi, Domine, Rex aeternae gloriae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fatalis o agonis\nPatrona Barbara,\nCoelestibus coronis,\nGemmisque fulgida!\nMoerentis in novissimo\nMors certa spiculo\nSed, Virgo, te favente,\nSum par periculo."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Osee. 2. 19."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sponsabo te mihi in sempiternum; et sponsabo te mihi in justitia et judicio, et in misericordia, et in miserationibus.\n℣. Ora pro nobis, sancta Virgo et Martyr Barbara.\n℟. Ut felix nobis sit mortis hora."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nIntercessio, quaesumus, Domine, sanctae virginis et martyris tuae Barbarae nos adjuvet: ut qui ejus patrocinio in angustiis et necessitatibus nostris imploramus, auxilium quoque in hora potissimum mortis experiarmur. Per Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium meum intende.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu vincis innocenti\nCandore lilia,\nPer prata quae nitenti\nStant lacte turgida.\nDa candido nitore\nUt, Virgo, fulgeam,\nCastoque fac amore\nUt purus ardeam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Cant. 8. 7."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aquae multae non potuerunt extinguere charitatem, nec flumina obruent illam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum proprio cruore\nAsperas pingeris,\nVincis rosas rubore,\nQuae stant in hortulis.\nO coelico vireto\nPlantatae flosculae!\nHoc orbis in vepreto,\nMe, quaeso, respice."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Sap. 3. 13."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Haec est quae nescivit thorum in delicto, habebit fructum in respectu animarum sanctarum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ut axe sunt sereno\nNocturna sidera,\nUt vere sunt amoeno\nJucunda flumina;\nSic, Virgo, charitatis\nEs luce fulgida,\nSic, Virgo, puritatis\nEs rore limpida."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Sap. 4. 1."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O quam pulchra est casta generatio cum claritate! immortalis est enim memoria illius; quoniam et apud Deum nota est, et apud homines."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te sentiunt patronam\nQuos morbus opprimit,\nTe sublevare pronam\nQuos cura deserit.\nAngore cum super me\nMe morbus opprimit;\nSuccurre, quando nemo\nLevamen adferet."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Eccli. 51. 4."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Liberasti me secundum multitudinem misericordiae nominis tui de manibus quaerentium animam meam, et de portis tribulationum, quae circumdederunt me."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cum ferreo sopore\nMors membra vinciet,\nEt tartarus furore\nBacchante saeviet:\nDum Judicis severi\nTribunal horreo,\nTum, Virgo, me tuere\nNe differ, obsecro."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Matth. 25. 6."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Media nocte clamor factus est: Ecce sponsus venit, exite obviam ei."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amabo te, sanabo,\nDum vita manserit,\nMagisque praedicabo,\nCum vita cessaverit:\nInterque liliata\nCum me receperis,\nQueis gaudiis repleta,\nO Virgo, pasceris."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Cant. 2. 11, 13."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jam hiems transiit, imber abiit et recessit: Surge, amica mea, speciosa mea, et veni."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Oblatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Admitte nostra vota,\nO sancta Barbara,\nProfectam mente tota,\nPatrona maxima:\nExoptote te videre,\nCum cesso vivere;\nTunc, oro, me tuere,\nCoeloque suscipe.\nAmen."
+      }
+    }
+  ]
+}

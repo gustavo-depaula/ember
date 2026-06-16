@@ -1,0 +1,37 @@
+{
+  "id": "little-office-bvm-carmelite",
+  "icon": "mary",
+  "name": {
+    "en-US": "Little Office of the Blessed Virgin Mary According to the Rite of The Order of the Brothers of the Blessed Virgin Mary of Mount Carmel (Carmelites)"
+  },
+  "categories": [
+    "marian"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Blessed Virgin Mary According to the Rite of The Order of the Brothers of the Blessed Virgin Mary of Mount Carmel (Carmelites), arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "marian",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 121,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From a book published by the same name in 1939.\n\nPraenotanda\n1 Diversis anni temporibus Officium parvum variis modis dicendum est. Aliter per Annum, aliter in Adventu, aliter post Nativitatem, atque Tempore Paschali aliter, sicut in cujusque loco videri potest. Quae sequentia sunt notanda:\nI Per Annum dicitur\na) A Matutinis 3 Februarii usque ad Nonam Sabbati sancti inclusive (Festo Annuntiationis excepto), ac\nb) A Vesperis in Sabbato Quatuor Temporum Pentecostes usque ad Nonam Sabbati ante Dominicam I Adventus pariter inclusive.\nII In Adventu dicitur\na) A Vesperis ante Dominicam I Adventus usque ad Nonam Vigiliae Nativitatis inclusive, ac in\nb) Festo Annuntiationis.\nIII Post Nativitatem dicitur\nA Vesperis diei 24 Decembris usque ad Completorium diei 2 Februarii inclusive.\nIV Tempore Paschali dicitur\nA Vesperis Sabbati sancti usque ad Nonam Sabbati Quatuor Temporum Pentecostes inclusive.\n2 Differentiae Tempore Paschali occurrentes ob majorem commoditatem intra corpus Officii I Per Annum mixtae sunt; quae autem In Adventu et Post Nativitatem veniunt, post Officium inveniuntur.\n3 (Alleluja) et (Alleluja, alleluja) in Officio Per Annum, solum Tempore Paschali dicuntur.\n4 Si Festum Annuntiationis Tempore Paschali venerit, dicitur, sicut notatum est, Officium ut In Adventu; sed cum Alleluja et stropha Quaesumus, Auctor omnium.\n5 Gloria Patri Triduo ante Pascha etiam dicitur.\nI - Per Annum"
+  }
+}

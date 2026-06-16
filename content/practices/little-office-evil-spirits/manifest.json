@@ -1,0 +1,36 @@
+{
+  "id": "little-office-evil-spirits",
+  "icon": "cross",
+  "name": {
+    "en-US": "Little Office Against Evil Spirits"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 6,
+  "description": {
+    "en-US": "A traditional little office in honour of Little Office Against Evil Spirits."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 179,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From Modo Facile (1682)."
+  }
+}

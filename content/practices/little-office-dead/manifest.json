@@ -1,0 +1,36 @@
+{
+  "id": "little-office-dead",
+  "icon": "candle",
+  "name": {
+    "en-US": "Little Office of the Dead"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Dead, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 180,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From the Coeleste Palmetum (1879 edition)."
+  }
+}

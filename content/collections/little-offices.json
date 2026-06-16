@@ -1,0 +1,430 @@
+{
+  "id": "collection/little-offices",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "A Big Book of Little Offices",
+    "pt-BR": "Grande Livro dos Pequenos Ofícios"
+  },
+  "description": {
+    "en-US": "Over eighty traditional little offices — short forms of the canonical hours honouring the divine mysteries, Our Lady, and the saints.",
+    "pt-BR": "Mais de oitenta pequenos ofícios tradicionais — formas breves das horas canônicas em honra dos mistérios divinos, de Nossa Senhora e dos santos."
+  },
+  "icon": "book",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "office",
+    "breviary",
+    "latin"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "Compiled by the Little Office Guild (lobvm.com), these little offices each bore a nihil obstat and imprimatur in times past. Most are given in Latin; some include an English translation. © 2021 LOBVM.com, except texts already in the public domain."
+    }
+  },
+  "sections": [
+    {
+      "id": "preparatory",
+      "title": {
+        "en-US": "Before You Begin",
+        "pt-BR": "Antes de Começar"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/office-preparatory-prayers"
+        }
+      ]
+    },
+    {
+      "id": "mysteries",
+      "title": {
+        "en-US": "Divine Mysteries",
+        "pt-BR": "Mistérios Divinos"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/little-office-most-holy-trinity"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-god-the-father"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-holy-name-of-god"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-most-holy-name-of-jesus"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-sacred-heart-of-jesus"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-child-jesus-in-the-manger"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-most-amiable-child-jesus"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-blessed-sacrament"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-most-holy-sacrament-of-the-eucharist"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-divine-love"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-holy-tear-of-our-lord-jesus-christ"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-holy-cross"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-passion-by-s-francis-of-assisi"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-passion-of-our-lord-by-s-bonaventure"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-most-sacred-five-wounds-of-our-saviour-jesus-christ"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-suffering-christ"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-holy-ghost"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-holy-ghost-2"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-holy-ghost-for-obtaining-the-true-love-of-god"
+        }
+      ]
+    },
+    {
+      "id": "marian",
+      "title": {
+        "en-US": "The Blessed Virgin Mary",
+        "pt-BR": "A Santíssima Virgem Maria"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-roman"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-ambrosian"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-carmelite"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-carthusian"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-cistercian"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-lyon"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-dominican"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-monastic"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-sarum"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-norbertine"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm-mount-carmel"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-compassion-of-the-blessed-virgin-mary-for-a-happy-death"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-immaculate-conception"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-immaculate-heart-of-mary"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-seven-dolours-of-the-blessed-virgin-mary"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-seven-joys-of-the-blessed-virgin-mary"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/akathist-hymn-to-the-theotokos-and-ever-vrgin-mary"
+        }
+      ]
+    },
+    {
+      "id": "saints",
+      "title": {
+        "en-US": "Angels & Saints",
+        "pt-BR": "Anjos e Santos"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/little-office-guardian-angel"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-michael-the-archangel"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-joseph"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-all-saints"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-aloysius-gonzaga-of-the-society-of-jesus"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-anastasia"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-anna"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-alexius"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-anthony-of-padua"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-saint-augustine"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-barbara"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-benedict"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-our-holy-father-blaise"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-bruno"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-dismas"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-dominic"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-francis-of-assisi"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-francis-borgia-of-the-society-of-jesus"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-francis-of-paola"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-francis-xavier-of-the-society-of-jesus"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-saint-george"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-gertrude"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-igantius"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-ignatius"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-holy-innocents"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-ss-joachim-and-anna"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-john-the-baptist"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-john-nepomucene"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-john-of-god"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-holy-three-japanese-martyrs"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-liborius"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-lawrence"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-ludger"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-glorious-martyrs-of-christ"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-saint-mary-magdalene"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-b-niccolo-albergati"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-norbert"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-peter"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-paul-the-apostle"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-philip-neri"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-saint-sebastian"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-thomas-aquinas"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-s-stanislaus-kostka"
+        }
+      ]
+    },
+    {
+      "id": "misc",
+      "title": {
+        "en-US": "Miscellaneous",
+        "pt-BR": "Diversos"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/little-office-evil-spirits"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-dead"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-benedictine-oblates"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-benedictine-oblates-alternative-version"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-sick"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/midnight-office"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/ordo-quiete-ante-lectulo"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/stational-vespers-on-the-holy-day-of-easter"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-serotina"
+        }
+      ]
+    }
+  ]
+}

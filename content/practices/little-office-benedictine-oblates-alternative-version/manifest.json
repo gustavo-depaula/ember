@@ -1,0 +1,36 @@
+{
+  "id": "little-office-benedictine-oblates-alternative-version",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Little Office for Benedictine Oblates (Alternative Version)"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 6,
+  "description": {
+    "en-US": "A traditional little office in honour of Benedictine Oblates (Alternative Version)."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 182,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From A Manual for Oblates (1913)."
+  }
+}
