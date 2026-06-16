@@ -189,15 +189,16 @@ export function resolveLiturgicalDay(date: Date, map: LiturgicalDayMap): Resolve
     temporalEntry = map.temporal[pos.key]
   }
 
-  // 1c. Last-resort fallback from reserve pool for uncovered calendar holes.
+  // 1c. Prefer fixed-date content (e.g. Christmas season Dec 25–31, Jan 1–10)
+  // over the reserve pool — these days have a proper meditation, just keyed by date.
+  if (!temporalEntry && fixedEntry) {
+    temporalEntry = fixedEntry
+  }
+
+  // 1d. Last-resort fallback from reserve pool for genuinely uncovered calendar holes.
   if (!temporalEntry) {
     const reserve = getReserveFallbackChapter(date, map)
     if (reserve) temporalEntry = { primary: reserve }
-  }
-
-  // 1d. If temporal is still missing, use fixed-date content as fallback.
-  if (!temporalEntry && fixedEntry) {
-    temporalEntry = fixedEntry
   }
 
   // Step 2: Check for feast day

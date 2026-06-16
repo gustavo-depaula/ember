@@ -288,7 +288,10 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
 
   it('includes fixed-date and weekdaysOfMonths additions in resolved entries', async () => {
     const liturgicalMap = {
-      temporal: {},
+      // 2026-04-25 (Easter+20) resolves to easter/3/6 in the temporal cycle.
+      temporal: {
+        'easter/3/6': { primary: 'temporal-chapter' },
+      },
       fixedDates: {
         '04-25': { primary: 'fixed-date-additional-chapter' },
       },
@@ -297,7 +300,7 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
       weekdaysOfMonths: {
         '4th-saturday-of-april': { primary: 'weekday-chapter' },
       },
-      reserves: ['temporal-chapter'],
+      reserves: [],
     }
 
     const context = makeContext({
