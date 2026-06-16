@@ -1,0 +1,171 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-01",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/08-01::1-6 s/-5/-4/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/08-01::1 s/6-8/5-7/",
+    "@Sancti/08-01:Lectio1:7",
+    "@Sancti/08-01::2-3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/08-01::1 s/9-11/8-9/",
+    "@Sancti/08-01:Lectio2:4",
+    "@Sancti/08-01::2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/08-01:Lectio3:!2 s/9-/10-/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@SanctiM/06-29",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/08-01:Lectio4:s/\\. Eudócia.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/08-01:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-01:Lectio4:s/.*\\. (?=Eudócia)// s/$/~/",
+    "@Sancti/08-01:Lectio5:s/ Quo .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/08-01:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-01:Lectio5:s/.* (?=Quo)// s/$/~/",
+    "@Sancti/08-01:Lectio6:s/ Quo in .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/08-01:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/08-01:Lectio6:s/.* (?=Quo in)//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@SanctiM/06-29",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/08-01:Lectio7:s/ De .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/08-01:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/08-01:Lectio7:s/.* (?=De )//s s/ Mérito.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/08-01:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/08-01:Lectio7:s/.* (?=Mérito)//s s/$/~/",
+    "@Sancti/08-01:Lectio8:s/ Si ad .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@SanctiM/06-29",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/08-01:Lectio8:s/.* (?=Si ad)//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@SanctiM/06-29"
+   ]
+  }
+ ]
+}

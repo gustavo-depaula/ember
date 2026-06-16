@@ -245,16 +245,6 @@ export function resolveSection(
     case 'subheading':
       return [{ type: 'subheading', text: ec.localize(section.text) }]
 
-    case 'proper':
-      return [
-        {
-          type: 'proper',
-          slot: section.slot,
-          form: section.form,
-          description: ec.localize(section.description),
-        },
-      ]
-
     case 'options': {
       if ('from' in section) {
         const fromPath = substituteTemplateVars(section.from, composeVars(context))
@@ -389,9 +379,11 @@ export function resolveSection(
             label: ec.localize(section.label),
             overrideKey: overrideKey ?? '',
             selectedId: selectedId ?? '',
+            pickerStyle: section.pickerStyle,
             options: section.options.map((opt) => ({
               id: opt.id,
               label: ec.localize(opt.label),
+              excerpt: opt.excerpt ? ec.localize(opt.excerpt) : undefined,
               sections: (opt.sections ?? []).flatMap((s) =>
                 resolveSection(s, contextFor(opt.id), ec),
               ),

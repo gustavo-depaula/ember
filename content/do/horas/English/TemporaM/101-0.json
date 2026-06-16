@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/101-0:Lectio6:s/What valour.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/101-0:Lectio6:s/.* What /What /s"
+   ]
+  }
+ ]
+}

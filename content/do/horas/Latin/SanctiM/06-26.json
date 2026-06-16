@@ -1,0 +1,86 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/06-26",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "ex C3;",
+    "12 lectiones",
+    "Psalmi Dominica",
+    "in 3 Nocturno Lectiones ex Commune in 3 loco;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/06-26",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/06-26:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/06-26:Lectio5:s/Qui, ut.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/06-26:Lectio5:s/.*(Qui, ut)/$1/ s/$/~/",
+    "@Sancti/06-26:Lectio6:s/Verum eórum.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/06-26:Lectio6:s/.*(Verum eórum)/$1/",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@CommuneCist/C3",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@Sancti/06-26",
+    "(sed rubrica cisterciensis)",
+    "@Sancti/06-26:Ant 3",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/06-26:Ant 2"
+   ]
+  }
+ ]
+}

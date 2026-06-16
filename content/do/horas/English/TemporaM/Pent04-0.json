@@ -1,0 +1,47 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pent04-0:Lectio4:s/For before .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pent04-0:Lectio4:s/.* For before /For before /s s/$/~/",
+    "@Tempora/Pent04-0:Lectio5:s/He is .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pent04-0:Lectio5:s/.* He is /He is /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent04-0:Lectio7:s/In this .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent04-0:Lectio7:s/.* In this /In this /s s/$/~/",
+    "@Tempora/Pent04-0:Lectio8:s/To many .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent04-0:Lectio8:s/.* To many /To many /s"
+   ]
+  }
+ ]
+}

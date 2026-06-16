@@ -1,0 +1,103 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria IV Quattuor Temporum in Adventu",
+    "(sed rubrica 196 aut rubrica 1930)",
+    "Feria IV Quattuor Temporum Adventus",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria major;;2.1",
+    "(sed rubrica 196 aut rubrica 1930)",
+    ";;Feria major;;4.9",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Preces Feriales",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Præsta, quǽsumus, omnípotens Deus: ut redemptiónis nostræ ventúra solémnitas et præséntis nobis vitæ subsídia cónferat, et ætérnæ beatitúdinis prǽmia largiátur.",
+    "$Per Dominum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/03-25:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "R. Clama in fortitúdine, qui annúntias pacem in Jerúsalem: ",
+    "* Dic civitátibus Judæ, et habitatóribus Sion: Ecce Deus noster, quem exspectabámus, advéniet.",
+    "V. Supra montem excélsum ascénde tu, qui evangelízas Sion, exálta in fortitúdine vocem tuam.",
+    "R. Dic civitátibus Judæ, et habitatóribus Sion: Ecce Deus noster, quem exspectabámus, advéniet.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/03-25:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "R. Oriétur stella ex Jacob, et exsúrget homo de Israël, et confrínget omnes duces alienigenárum: ",
+    "* Et erit omnis terra posséssio ejus.",
+    "V. Adorábunt eum omnes reges terræ, omnes gentes sérvient ei.",
+    "R. Et erit omnis terra posséssio ejus.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/03-25:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "R. Modo véniet Dominátor Dóminus: ",
+    "* Et nomen ejus Emmánuel vocábitur.",
+    "V. Oriétur in diébus ejus justítia, et abundántia pacis.",
+    "R. Et nomen ejus Emmánuel vocábitur.",
+    "&Gloria",
+    "R. Et nomen ejus Emmánuel vocábitur.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "Missus est Gábriel * Angelus ad Maríam Vírginem desponsátam Joseph.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "Ecce ancílla Dómini: * fiat mihi secúndum verbum tuum."
+   ]
+  }
+ ]
+}

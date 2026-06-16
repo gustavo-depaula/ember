@@ -1,0 +1,74 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-19bmv",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Sancti/08-15t::7 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@CommuneM/C11:AntMatutinumM:1 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "condition": "rubrica 1930",
+   "lines": [
+    "@Sancti/08-15t::7 s/;;\\d+//",
+    "(sed feria 5 feria 6 aut feria 7)",
+    "@CommuneM/C11:AntMatutinumM:2 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@CommuneM/C11:AntMatutinumM:1 s/;;\\d+//",
+    "(sed feria 5 feria 6 aut feria 7)",
+    "@Sancti/08-15t::8 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/08-21bmv:Lectio4:1-3 s/ supernorum//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "!n. 4",
+    "@Sancti/08-21bmv:Lectio5:1 s/ hódie//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/08-21bmv:Lectio5:2 s/$/~/",
+    "@Sancti/08-21bmv:Lectio6:1"
+   ]
+  }
+ ]
+}

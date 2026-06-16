@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "St. Lucy, Virgin and Martyr",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Lucy, thy Virgin and Martyr",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C7"
+   ]
+  }
+ ]
+}

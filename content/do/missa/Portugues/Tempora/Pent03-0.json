@@ -1,0 +1,60 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent03-0r",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Terceiro Domingo depois de Pentecostes na oitava do Sagrado Coração de Jesus",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    "Credo",
+    "Prefatio=Cord ",
+    "Prefatio1960=Trinitate",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# Terceiro Domingo depois de Pentecostes",
+    "! 2 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio Oratio",
+   "lines": [
+    "! Sagrado Coração de Jesus",
+    "@Tempora/Pent02-5:Oratio",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio Secreta",
+   "lines": [
+    "! Sagrado Coração de Jesus",
+    "@Tempora/Pent02-5:Secreta",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio Postcommunio",
+   "lines": [
+    "! Sagrado Coração de Jesus",
+    "@Tempora/Pent02-5:Postcommunio"
+   ]
+  }
+ ]
+}

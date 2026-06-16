@@ -1,0 +1,54 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/07-11",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C2b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/07-11:Lectio93:s/Exstant.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5 extensio",
+   "lines": [
+    "quod póstea ab ejus successoribus Romanis Pontifícibus confirmátum est; quibus id máxime curæ fuit, ut totíus Ecclésiæ epíscopi in pascháli clebritate uniformes essent.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/07-11:Lectio93:s/.*(Exstant)/$1/ s/\\. Pudentis.*/, ~/",
+    "@:Lectio5 extensio",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/07-11:Lectio93:s/.*(Pudentis)/$1/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Ægidii Abbatis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5;",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Ægídii",
+    "Secreta=Ægídius",
+    "Postcommunio=Ægídius"
+   ]
+  }
+ ]
+}

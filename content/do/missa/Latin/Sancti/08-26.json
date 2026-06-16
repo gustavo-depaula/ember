@@ -1,0 +1,43 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Zephyrini Papæ et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2-1b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2-1b;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Zephyrínum",
+    "Secreta=Zephyríni",
+    "Postcommunio=Zephyríno",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "nisi communi Summorum Pontificum",
+   "lines": [
+    "Præsta, quǽsumus, omnipotens Deus: ut beati Zephyrini Martyris tui atque Pontificis, cujus gaudemus meritis, instruamur exemplis.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

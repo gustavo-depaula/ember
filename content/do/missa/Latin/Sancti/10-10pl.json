@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Comment",
+   "lines": [
+    "Victoria Chocimensis",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui in summis regni nostri periculis, antiqua bracchii tui miracula renovasti: suscipe gratiarum actiones exsultantium populorum; et quibus tanti gaudii causam praestitisti, perpetuae fructum concede laetitiae.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Odorem, Domine, sacrificii huius cum gratiarum actionibus suscipe: et praesta; ut, quos exaudire, et incolumes servare dignatus es, ab omni in posterum adversitate custodias, et in tuo servitio et amore concrescant.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Deus, qui neminem in te sperantem, nimium affligi permittis, sed pium precibus praestas auditium: pro postulationibus nostris, votisque susceptis gratias agimus, te piissime deprecantes: ut, per haec, quae sumpsimus, a cunctis eripi mereamur adversis.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

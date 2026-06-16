@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/09-12",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C11;",
+    "9 lectiones",
+    "Ipsa Virgo Virginum",
+    "Psalmi Dominica",
+    "Antiphonas horas",
+    "Doxology=Nat",
+    "BMV",
+    "No prima Vespera"
+   ]
+  }
+ ]
+}

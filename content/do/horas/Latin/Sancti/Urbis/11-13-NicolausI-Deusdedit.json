@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Nicolai I et Deusdedit I Pontificum et Confessorum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide aliquibus locis/C4b-3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide aliquibus locis/C4b-3",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Nicolái et Deúsdedit",
+    "(sed communi Summorum Pontificum)",
+    "Nicoláum et Deúsdedit",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/Urbis/11-13-NicolaiI:: s/$/~/",
+    "@Sancti/Urbis/11-13-NicolaiI:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/Urbis/11-13-NicolaiI:Lectio6: s/$/~/",
+    "@Sancti/Urbis/11-14-Deusdedit:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/Urbis/11-14-Deusdedit:Lectio5: s/$/~/",
+    "@Sancti/Urbis/11-14-Deusdedit:Lectio6"
+   ]
+  }
+ ]
+}

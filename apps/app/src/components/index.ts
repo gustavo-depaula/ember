@@ -31,7 +31,6 @@ export {
   LiturgicalPrayerBlock,
   OptionsBlock,
   PrayerTextBlock,
-  ProperSlot,
   SelectBlock,
 } from './prayer'
 export { ReaderErrorState } from './ReaderErrorState'

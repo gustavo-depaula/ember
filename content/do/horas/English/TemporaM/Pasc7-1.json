@@ -1,0 +1,25 @@
+{
+ "sections": [
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pasc7-1:Lectio1:s/ And indeed.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pasc7-1:Lectio1:s/.*(And indeed)/$1/s s/$/~/",
+    "@Tempora/Pasc7-1:Lectio2:s/ And this.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pasc7-1:Lectio2:s/.*(And this)/$1/s s/$/~/"
+   ]
+  }
+ ]
+}

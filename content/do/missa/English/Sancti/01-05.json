@@ -1,0 +1,79 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "In Vigilia Epiphaniae;;Semiduplex;;5;;ex Sancti/01-01",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Wis 18:14-15.",
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "O Almighty and everlasting God, do Thou order all our actions in conformity with thy good pleasure, that through the name of thy well-beloved Son, we may worthily abound in all good works.",
+    "$Qui tecum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "Continuation + of the Holy Gospel according to Matthew",
+    "!Matt 2:19-23.",
+    "v. But when Herod was dead, behold; an angel of the Lord appeared in sleep to Joseph in Egypt, saying: Arise, and take the child and his mother, and go into the land of Israel. For they are dead that sought the life of the child. Who arose, and took the child and his mother, and came into the land of Israel. But hearing that Archelaus reigned in Judea in the room of Herod his father, he was afraid to go thither: and being warned in sleep retired into the quarters of Galilee. And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by prophets: That he shall be called a Nazarene.",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Grant, we beseech Thee, almighty God, that the offering made in the sight of Thy Majesty may obtain for us the grace of loving devotion, and the reward of a blessed eternity.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Tempora/Nat1-0",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "By the working of this Mystery, O Lord, may our vices be removed, and our just desires fulfilled.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

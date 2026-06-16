@@ -1,0 +1,10 @@
+{
+ "sections": [
+  {
+   "name": "Litaniae",
+   "lines": [
+    "@Psalterium/Special/Preces:Litania"
+   ]
+  }
+ ]
+}

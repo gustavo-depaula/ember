@@ -1,0 +1,250 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/05-01r",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "Psalmi Dominica",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera",
+   "lines": [
+    "@Tempora/Pasc2-3:Responsory Breve Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "lines": [
+    "@Tempora/Pasc2-3:Versum Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Tempora/Pasc2-3::1",
+    ";;2",
+    ";;4",
+    ";;5",
+    ";;8",
+    ";;10",
+    "@Tempora/Pasc2-3::4 s/4/14/",
+    ";;20",
+    ";;23",
+    ";;95",
+    ";;96",
+    ";;97",
+    "@Tempora/Pasc2-3::7 s/14/256;257;258/",
+    ""
+   ]
+  },
+  {
+   "name": "Nocturn 1 Versum",
+   "lines": [
+    "@Tempora/Pasc2-3",
+    ""
+   ]
+  },
+  {
+   "name": "Nocturn 2 Versum",
+   "lines": [
+    "@Tempora/Pasc2-3",
+    ""
+   ]
+  },
+  {
+   "name": "Nocturn 3 Versum",
+   "lines": [
+    "@Tempora/Pasc2-3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pasc2-3::s/49/45/ s/ Egréssus.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Sancti/03-19:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Pasc2-3:Lectio3:s/44-49/45-49/ s/44.* (Egréssus)/45 $1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@Tempora/Pasc2-3:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pasc2-3:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Tempora/Pasc2-3:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pasc2-3:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Tempora/Pasc2-3:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pasc2-3:Lectio6:s/Mem.nto.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "R. Exáudi † vocem meam, qua clamávi ad te: ",
+    "* Miserére mei, et exáudi me, allelúja.",
+    "V. Adjútor meus esto, ne derelínquas me.",
+    "R. Miserére mei, et exáudi me, allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Pasc2-3:Lectio6:s/.*(Mem.nto)/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@Tempora/Pasc2-3:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pasc2-3:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Tempora/Pasc2-3:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pasc2-3:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/03-19:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pasc2-3:Lectio9:s/Neque.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@Sancti/03-19:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pasc2-3:Lectio9:s/.*(Neque)/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@SanctiM/03-19",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Tempora/Pasc2-3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Laudes",
+   "lines": [
+    "@Tempora/Pasc2-3:Responsory Breve Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "lines": [
+    "@Tempora/Pasc2-3:Versum Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory SextaM",
+   "lines": [
+    "@Tempora/Pasc2-3:Versum Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory NonaM",
+   "lines": [
+    "@Tempora/Pasc2-3:Versum Nona"
+   ]
+  }
+ ]
+}

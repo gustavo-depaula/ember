@@ -1,0 +1,22 @@
+{
+ "sections": [
+  {
+   "name": "Capitulum Laudes",
+   "condition": "nisi rubrica praedicatorum",
+   "lines": [
+    "!1 Cor 9:24",
+    "v. Irmãos: Não sabeis que os que correm no estádio, todos correm, mas um só recebe o prêmio? Correi, pois, de modo que o alcanceis.",
+    "$Deo gratias",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "V. Senhor, Tu Te tornaste refúgio para nós.",
+    "R. De geração em geração."
+   ]
+  }
+ ]
+}

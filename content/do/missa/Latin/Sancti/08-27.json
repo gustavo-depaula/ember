@@ -1,0 +1,105 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Josephi Calasanctii Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Ps 33:12",
+    "v. Veníte, fílii, audíte me: timorem Dómini docébo vos.",
+    "!Ps 33:2",
+    "Benedícam Dóminum in omni témpore: semper laus ejus in ore meo.",
+    "&Gloria",
+    "v. Veníte, fílii, audíte me: timorem Dómini docébo vos.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui per sanctum Joséphum Confessórem tuum, ad erudiéndam spíritu intellegéntiæ ac pietátis juventútem, novum Ecclésiæ tuæ subsídium providére dignátus es: præsta, quǽsumus; nos, ejus exémplo et intercessióne, ita fácere et docére, ut præmia consequámur ætérna.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C2a:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Ps 36:30-31",
+    "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium.",
+    "V. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus. ",
+    "Allelúja, allelúja.",
+    "!Jac 1:12.",
+    "Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "Sequéntia ++ sancti Evangélii secúndum Matthǽum",
+    "!Matt 18:1-5",
+    "In illo témpore: Accessérunt discípuli ad Jesum, dicéntes: Quis, putas, major est in regno cœlorum? Et ádvocans Jesus parvulum, státuit eum in médio eórum et dixit: Amen, dico vobis, nisi convérsi fuéritis et efficiámini sicut párvuli, non intrabitis in regnum cœlórum. Quicúmque ergo humiliáverit se sicut párvulus iste, hic est major in regno cœlorum. Et qui suscéperit unum párvulum talem in nómine meo, me súscipit.",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "!Ps 9:17",
+    "Desidérium páuperum exaudívit Dóminus: præparatiónem cordis eórum audívit auris tua.",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Altáre tuum, Dómine, munéribus cumulamus oblatis: ut ejus nobis fiant supplicatione propitia, cujus nos donasti patrocínio adjuvári.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Marc 10:14",
+    "Sínite párvulos veníre ad me, et ne prohibuéritis eos: tálium est enim regnum Dei.",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Sanctificáti, Dómine, salutári mystério: quǽsumus; ut, intercedénte sancto Josépho Confessóre tuo, ad majus semper proficiámus pietátis increméntum.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

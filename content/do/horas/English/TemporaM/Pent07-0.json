@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio1:2-6 s/1-4/4-6/ s/\\n1 .*4/\\n4/s",
+    "@Tempora/Pent07-0:Lectio2:2-3 s/ And he also.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio2:s/5-/6-/ s/5.*(And he also)/6 $1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio4:s/Let Solomon .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio4:s/.* Let Solomon /Let Solomon /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio7:s/Lip.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio7:s/.* Lip/Lip/s s/$/~/",
+    "@Tempora/Pent07-0:Lectio8:s/“Many .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio8:s/.* (”Many)/\\1/s s/$/~/",
+    "@Tempora/Pent07-0:Lectio9:s/That .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pent07-0:Lectio9:s/.* That /That /s"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Commune/C6",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Commune Virginum tantum",
+    ""
+   ]
+  },
+  {
+   "name": "Missa",
+   "lines": [
+    "Dilexisti",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C7a:: s/N\\./N. Vírginis tuæ/",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Matutinum Virgo tantum",
+   "lines": [
+    "{:H-Virginisproles:}v. Vírginis Proles, Opiféxque Matris,",
+    "Virgo quem gessit, peperítque Virgo:",
+    "Vírginis festum cánimus beátæ,",
+    "Accipe votum.",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Matutinum",
+   "lines": [
+    "@:Hymnus Matutinum Virgo tantum",
+    "_",
+    "@Commune/C6::16-25",
+    ""
+   ]
+  },
+  {
+   "name": "HymnusM Matutinum",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@Commune/C6::1-4",
+    "@Commune/C6::15-25",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "R. Veni, elécta mea, et ponam in te thronum meum",
+    "* Quia concupívit Rex spéciem tuam.",
+    "V. Spécie tua et pulchritúdine tua inténde, próspere procéde, et regna.",
+    "R. Quia concupívit Rex spéciem tuam.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio Prima",
+   "lines": [
+    "!Sap 4:1",
+    "v. O quam pulchra est casta generátio cum claritáte! Immortális est enim memória illíus, quóniam apud Deum nota est, et apud hómines.",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "lines": [
+    "@:Lectio Prima",
+    "$Deo gratias",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Ps 44:8",
+    "v. Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis. (Allelúja, allelúja.)",
+    "!Ps 44:2",
+    "Eructávit cor meum verbum bonum: dico ego ópera mea Regi.",
+    "&Gloria",
+    "v. Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis. (Allelúja, allelúja.)",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios",
+    "!2 Cor 10:17-18; 11:1-2",
+    "Fratres: Qui gloriátur, in Dómino gloriétur. Non enim, qui seípsum comméndat, ille probátus est; sed quem Deus comméndat. Utinam sustinerétis módicum quid insipiéntiæ meæ, sed et supportáte me: æmulor enim vos Dei æmulatióne. Despóndi enim vos uni viro vírginem castam exhibére Christo.",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Ps 44:5",
+    "Spécie tua et pulchritúdine tua inténde, próspere procéde et regna.",
+    "V. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. ",
+    "Allelúja, allelúja.",
+    "!Ps 44:15-16",
+    "Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi in lætítia. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "lines": [
+    "!Ps 44:5",
+    "Spécie tua et pulchritúdine tua inténde, próspere procéde et regna.",
+    "V. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua.",
+    "_",
+    "!Tractus",
+    "!Ps 44:11-12",
+    "Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam.",
+    "!Ps 44:13; 44:10",
+    "Vultum tuum deprecabúntur omnes dívites plebis: fíliæ regum in honóre tuo.",
+    "!Ps 44:15-16",
+    "V. Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi. ",
+    "V. Afferéntur in lætítia et exsultatióne: adducéntur in templum Regis.",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "!Ps 44:10",
+    "Fíliæ regum in honóre tuo, ástitit regína a dextris tuis in vestítu deauráto, circúmdata varietáte. (Allelúja.)",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Accépta tibi sit, Dómine, sacrátæ plebis oblátio pro tuórum honóre Sanctórum: quorum se méritis de tribulatióne percepísse cognóscit auxílium.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Matt 25:4-6",
+    "Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino. (Allelúja.)",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Satiásti, Dómine, famíliam tuam munéribus sacris: ejus, quǽsumus, semper interventióne nos réfove, cujus sollémnia celebrámus.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Blasii Episcopi et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2-1",
+    "(sed rubrica innovata)",
+    ";;Duplex optional;;2;;vide C2-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2-1;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Blásii",
+    "Secrata=Blásio",
+    "Postcommunio=Blásio"
+   ]
+  }
+ ]
+}

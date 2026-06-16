@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/09-21:Lectio8:s/ Moreover.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/09-21:Lectio8:s/.* Moreover/Moreover/s"
+   ]
+  }
+ ]
+}

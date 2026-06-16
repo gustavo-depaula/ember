@@ -1,0 +1,162 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "De Dominica infra Octavam Epiphaniæ;;Semiduplex;;5.61;;ex Sancti/01-06",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Sancti/01-06",
+    "Doxology=Epi",
+    "9 lectiones",
+    "Feria Te Deum",
+    "Infra octavam Epiphaniæ Domini",
+    "Lectio1 tempora",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Versum Commemoratio",
+   "lines": [
+    "@Sancti/01-06:Versum Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Sancti/01-06:Responsory1InfraOctavam",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Sancti/01-06:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Sancti/01-06:Responsory3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Laudes",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@Sancti/01-06",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "@:Ant 1",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Sexta",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "lines": [
+    "@Tempora/Epi1-0a",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@Sancti/01-06:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@Tempora/Epi1-0a"
+   ]
+  }
+ ]
+}

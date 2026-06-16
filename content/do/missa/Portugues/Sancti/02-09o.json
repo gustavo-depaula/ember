@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "Oratio",
+   "lines": [
+    "! de Santa Apolónia",
+    "@Commune/C6:Oratio",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "! de Santa Apolónia",
+    "@Commune/C6:Secreta",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "! de Santa Apolónia",
+    "@Commune/C6:Postcommunio"
+   ]
+  }
+ ]
+}

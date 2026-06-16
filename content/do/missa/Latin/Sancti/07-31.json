@@ -1,0 +1,92 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Ignatii Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex majus;;4;;vide C5",
+    "(sed rubrica monastica)",
+    ";;Duplex;;3;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Philipp 2:10-11",
+    "v. In nómine Jesu omne genu flectátur, cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.",
+    "!Ps 5:12-13",
+    "Gloriabúntur in te omnes, qui díligunt nomen tuum: quóniam tu benedíces justo.",
+    "&Gloria",
+    "v. In nómine Jesu omne genu flectátur, cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui ad majórem tui nóminis glóriam propagándam, novo per beátum Ignátium subsídio militántem Ecclésiam roborásti: concéde; ut, ejus auxílio et imitatióne certántes in terris, coronári cum ipso mereámur in cœlis.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C2a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/02-06",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C2",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Adsint, Dómine Deus, oblatiónibus nostris sancti Ignátii benígna suffrágia: ut sacrosáncta mystéria, in quibus omnis sanctitátis fontem constituísti, nos quoque in veritáte sanctíficet.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Luc 12:49",
+    "Ignem veni míttere in terram: et quid volo, nisi ut accendátur?",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Laudis hóstia, Dómine, quam pro sancto Ignátio grátias agentes obtúlimus: ad perpétuam nos majestátis tuæ laudatiónem, ejus intercessióne, pérducat.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

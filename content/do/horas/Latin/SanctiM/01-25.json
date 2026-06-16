@@ -1,0 +1,269 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/01-25",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Sancti/06-30;",
+    "12 lectiones",
+    "Sub unica concl",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica 196",
+   "lines": [
+    "Sub unica concl",
+    ""
+   ]
+  },
+  {
+   "name": "AntMatutinumM",
+   "lines": [
+    "@SanctiM/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@SanctiM/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Sancti/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Sancti/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/01-25::1-4 s/16/12/",
+    "(sed rubrica 1963 omittitur)",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Sancti/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/01-25:Lectio3:1 s/10-/13-/",
+    "@Sancti/01-25:Lectio3:5-8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "condition": "rubrica 196",
+   "lines": [
+    "@Sancti/01-25:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "@SanctiM/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/01-25:Lectio4:s/ Erat.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/06-30:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/01-25:Lectio4:3 s/.* Erat/Erat/ s/$/~/",
+    "@Sancti/01-25:Lectio5:s/erat.*/erat./",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/06-30:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/01-25:Lectio5:s/.*erat.//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/06-30:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/01-25:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@SanctiM/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Commune/C1:Lectio7 in 2 loco:s/ In hac.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/06-30:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Commune/C1:Lectio7 in 2 loco:s/.*In hac/In hac/s s/$/~/",
+    "@Commune/C1:Lectio8 in 2 loco:s/ Nemo.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/06-30:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Commune/C1:Lectio8 in 2 loco:s/.*Nemo/Nemo/ s/$/~/",
+    "@Commune/C1:Lectio9 in 2 loco:s/Sciéndum.*//g",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@SanctiM/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Commune/C1:Lectio9 in 2 loco:s/.* Sciéndum/Sciéndum/g",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@SanctiM/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@Sancti/01-25:Capitulum Sexta",
+    "_",
+    "@Commune/C1:Nocturn 2 Versum",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Laudes",
+   "lines": [
+    "@Sancti/01-25",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "lines": [
+    "@Sancti/06-30:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@Sancti/06-30",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@Commune/C1:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera 3",
+   "lines": [
+    "@Sancti/01-25::s/125/138/",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera 3",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/01-25:Ant Vespera:s/$/_/gm s/_/;;109/ s/_/;;112/ s/_/;;115/ s/_/;;125/ s/_//",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "lines": [
+    "@Sancti/06-30:Versum 1"
+   ]
+  }
+ ]
+}

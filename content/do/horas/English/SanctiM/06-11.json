@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/06-11:Lectio6:s/Nevertheless.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/06-11:Lectio6:s/.* (?=Nevertheless)//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/06-11:Lectio7:s/By this.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/06-11:Lectio7:s/.* (?=By this)//s"
+   ]
+  }
+ ]
+}

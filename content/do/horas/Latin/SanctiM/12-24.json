@@ -1,0 +1,40 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/12-24",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "lines": [
+    "@Sancti/12-24:Capitulum Sexta",
+    "_",
+    "@Sancti/12-24:Versum Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "lines": [
+    "@Sancti/12-24:Versum Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory SextaM",
+   "lines": [
+    "@Sancti/12-24:Versum Sexta",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory NonaM",
+   "lines": [
+    "@Sancti/12-24:Versum Nona"
+   ]
+  }
+ ]
+}

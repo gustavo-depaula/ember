@@ -1,0 +1,29 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Secunda die infra Octavam Transfigurationis Domini Nostri Jesu Christi",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2;;vide Sancti/08-06",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide Sancti/08-06;",
+    "9 lectiones",
+    "No prima vespera",
+    "Doxology=Epi",
+    "Prefatio=Nat",
+    "Suffr=Maria3;Ecclesiæ,Papa;;"
+   ]
+  }
+ ]
+}

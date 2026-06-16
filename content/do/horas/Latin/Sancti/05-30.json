@@ -1,0 +1,44 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Felicis I Papæ et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2b",
+    "(sed rubrica cisterciensis)",
+    ";;Simplex;;1;;vide C2b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Felícis",
+    "(sed communi Summorum Pontificum)",
+    "Felícem",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio93",
+   "lines": [
+    "Felix Románus, patre Constántio, Aureliáno imperatóre præfuit Ecclesiæ. Constítuit ut Missa supra memórias et sepúlcra Mártyrum celebrarétur. Qui cum mense Decémbri habuísset ordinatiónes duas, et creásset presbýteros novem, diáconos quinque, epíscopos per divérsa loca quinque, martyrio coronátus, via Aurelia sepelítur in basílica quam a se ædificátam dedicárat. Vixit in pontificátu annos duos, menses quátuor, dies vigínti novem.",
+    "&teDeum"
+   ]
+  }
+ ]
+}

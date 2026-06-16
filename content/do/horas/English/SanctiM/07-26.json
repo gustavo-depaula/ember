@@ -1,0 +1,33 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/07-26:Lectio4:s/ Let.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/07-26:Lectio4:s/.* (?=Let)//s s/$/~/",
+    "@Sancti/07-26:Lectio5:s/ Let us.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/07-26:Lectio5:s/.* (?=Let us)// s/$/~/",
+    "@Sancti/07-26:Lectio6:s/ We .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/07-26:Lectio6:s/.* (?=We)//"
+   ]
+  }
+ ]
+}

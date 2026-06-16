@@ -1,0 +1,67 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Wenceslai Ducis et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 28 IX – S. Venceslau, Mártir",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C2a:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que pela palma do martírio trasladastes o B. Venceslau do principado terreno para a glória celestial, defendei-nos, pelas suas preces, de todas as adversidades e proporcionai-nos a alegria de compartilhar do seu glorioso destino.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C2:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C2:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C2:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C2:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C2:Communio"
+   ]
+  }
+ ]
+}

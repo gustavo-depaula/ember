@@ -1,0 +1,116 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent03-5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex TemporaM/Pent02-5",
+    "12 lectiones",
+    "Doxology=Heart",
+    "Psalmi Dominica",
+    "Feria Te Deum",
+    "Antiphonas Horas",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@TemporaM/Pent02-5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@TemporaM/Pent02-5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@TemporaM/Pent02-5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@TemporaM/Pent02-5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Pent03-2:Lectio4:1",
+    "@Tempora/Pent03-2:Lectio5: s/ígitur // s/$/~/",
+    "@Tempora/Pent03-2:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pent03-4:Lectio4:2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pent03-4:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Pent03-4:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent03-5:Lectio7: s/Hoc .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent03-5:Lectio7: s/.*(Hoc)/$1/s s/$/~/",
+    "@Tempora/Pent03-5:Lectio8: s/O mors .*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent03-5:Lectio8: s/.*(O mors)/$1/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Pent03-5:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Tempora/Pent02-5"
+   ]
+  }
+ ]
+}

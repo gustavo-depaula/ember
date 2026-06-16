@@ -1,0 +1,57 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Gregorii II et Felicis IV Pontificum et Confessorum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide aliquibus locis/C4b-3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide aliquibus locis/C4b-3;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Gregórii et Felícis",
+    "(sed communi Summorum Pontificum)",
+    "Gregórium et Felícem",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/Urbis/02-13-GregoriusII::s/$/~/",
+    "@Sancti/Urbis/02-13-GregoriusII:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/Urbis/02-13-GregoriusII:Lectio6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/Urbis/01-30-FelixIV:Lectio4:s/$/~/",
+    "@Sancti/Urbis/01-30-FelixIV:Lectio5"
+   ]
+  }
+ ]
+}

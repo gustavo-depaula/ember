@@ -1,0 +1,40 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Teresiæ Virginis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C6a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C6a;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Terésiæ",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Exáudi nos, Deus, salutáris noster: ut sicut de beátæ Terésiæ Vírginis tuæ festivitáte gaudémus; ita cæléstis ejus doctrínæ pábulo nutriámur, et piæ devotiónis erudiámur afféctu. ",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

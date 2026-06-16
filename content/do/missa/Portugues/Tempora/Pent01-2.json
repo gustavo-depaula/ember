@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria Tertia infra Hebdomadam I post Octavam Pentecostes",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Tempora/Pent01-0a:Oratio"
+   ]
+  }
+ ]
+}

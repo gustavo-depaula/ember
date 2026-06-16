@@ -1,0 +1,78 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Calisto I, Papa e Mártir",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 14 X – S. Calisto I, Papa e Mártir",
+    "! 3 classe",
+    "! Paramentos vermelhos",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que nos vedes desfalecer por causa da nossa fraqueza, dignai-Vos pela vossa misericórdia restaurar-nos no vosso amor, segundo os exemplos dos vossos Santos.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4b:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C4b:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4b:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4b:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Que esta mística oblação nos aproveite, Senhor; e que nos livre das nossas faltas e nos assegure a salvação eterna.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4b:Communio",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Dignai-Vos permitir, ó Deus omnipotente, que estes dons nos purifiquem das nossas faltas e que, produzindo em nós os seus efeitos, nos façam viver santamente.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent02-2",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex TemporaM/Pent01-4;",
+    "3 Lectiones (nisi rubrica cisterciensis)",
+    "Doxology=Corp",
+    "Feria Te Deum",
+    "Psalmi Feria (rubrica cisterciensis)",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "rubrica 196",
+   "lines": [
+    " ",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Vespera",
+   "condition": "rubrica tridentina aut rubrica divino",
+   "lines": [
+    "@TemporaM/Pent01-4",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@TemporaM/Pent01-4::11 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Tempora/Pent01-4:Nocturn 2 Versum",
+    "@Tempora/Pent01-4::12 s/;;.*//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@TemporaM/Pent01-5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pent02-2:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Pent01-4:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pent02-2:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Pent01-4:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pent02-2:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Pent01-4:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "MM Capitulum",
+   "condition": "rubrica tridentina aut rubrica divino",
+   "lines": [
+    "@TemporaM/Pent01-5",
+    ""
+   ]
+  },
+  {
+   "name": "MM LB",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@TemporaM/Pent01-5"
+   ]
+  }
+ ]
+}

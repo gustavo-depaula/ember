@@ -1,0 +1,120 @@
+{
+ "sections": [
+  {
+   "name": "Pater secreto",
+   "lines": [
+    "/:«Pai Nosso» é dito silenciosamente até «E não nos deixeis cair em tentação: »:/",
+    "",
+    ""
+   ]
+  },
+  {
+   "name": "Credo secreto",
+   "lines": [
+    "/:«Credo» é dito silenciosamente até «Na ressurreição da carne.»:/",
+    ""
+   ]
+  },
+  {
+   "name": "Pater post_",
+   "lines": [
+    "/:Depois disso, apenas «Pai Nosso» é dito silenciosamente, a menos que outra Hora se siga imediatamente.:/",
+    ""
+   ]
+  },
+  {
+   "name": "Pater post V_",
+   "lines": [
+    "/:E se assim o Ofício termina, apenas «Pai Nosso» é dito silenciosamente.:/",
+    ""
+   ]
+  },
+  {
+   "name": "Secreto_",
+   "lines": [
+    "/:silenciosamente:/",
+    ""
+   ]
+  },
+  {
+   "name": "Secreto a Laudibus",
+   "lines": [
+    "/:Se Matinas e Laudes são separadas, então é dito silenciosamente::/",
+    "(sed rubrica monástica)",
+    "/:Nas festas Simplex e nos dias feriais, e se as Matinas forem separadas das Laudes, começa-se em silêncio::/",
+    ""
+   ]
+  },
+  {
+   "name": "Clara voce_",
+   "lines": [
+    "/:Depois disso, com voz audível, o Versículo é dito::/",
+    ""
+   ]
+  },
+  {
+   "name": "Secus absolute",
+   "lines": [
+    "/:Caso contrário, a hora é iniciada diretamente da seguinte forma::/",
+    "(sed rubrica ^Trident)",
+    "/:Depois do hino «Te Deum laudamus» ou recitado o último responsório, a hora começa diretamente da seguinte forma::/",
+    ""
+   ]
+  },
+  {
+   "name": "Matutinum",
+   "lines": [
+    "!Pule o resto, a menos que ore %Laudes% separadamente.",
+    "(sed rubrica tridentina)",
+    "!Depois do hino Te Deum laudamus ou recitado o nono ou terceiro responsório, inicia-se diretamente com as %Laudes%, com exceção da Noite de Natal: nesta se reza o Oratio e depois a missa de Natal é comemorada conforme declarado no local apropriado.",
+    ""
+   ]
+  },
+  {
+   "name": "Matutinum",
+   "condition": "rubrica monastica",
+   "lines": [
+    "!Pule o resto, a menos que ore %Laudes% separadamente.",
+    "(sed rubrica tridentina aut rubrica divino)",
+    "!Pule o resto dos Ofícios de 12 lições, a menos que reze %Laudes% separadamente. Nas festas Simplex e nos dias feriais (seja com três ou uma leitura) sempre se rezou o seguinte.",
+    ""
+   ]
+  },
+  {
+   "name": "Deinde secreto",
+   "lines": [
+    "/:Depois disso é dito silenciosamente:/",
+    ""
+   ]
+  },
+  {
+   "name": "PAC ad Completorium",
+   "lines": [
+    "/:Se logo após as Completas são rezadas as Matinas, então «Pai Nosso, Ave Maria» e «Credo,» são rezadas duas vezes, uma vez para o final do Ofício do dia anterior, e para o início do Ofício de nas próximas.:/",
+    ""
+   ]
+  },
+  {
+   "name": "Martyrologium",
+   "condition": "rubrica monastica",
+   "lines": [
+    "/:Então o Martirológio é lido em côro.:/",
+    ""
+   ]
+  },
+  {
+   "name": "Regula",
+   "condition": "rubrica monastica",
+   "lines": [
+    "/:Mesmo fora do Côro, é louvável ler a Regra Santa; de outro modo, uma Leitura Breve é rezada:/",
+    ""
+   ]
+  },
+  {
+   "name": "examen",
+   "lines": [
+    "/:Segue-se um exame de consciência, ou um Pai Nosso em silêncio.:/"
+   ]
+  }
+ ]
+}

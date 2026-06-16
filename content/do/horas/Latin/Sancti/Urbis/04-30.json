@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/04-30",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Catharinæ Senensis Virginis almæ Urbis Patronæ secundæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex majus;;4;;vide C6a",
+    "(sed rubrica tridentina)",
+    ";;Duplex 2 classis;;5;;ex C6a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C6a;",
+    "9 lectiones"
+   ]
+  }
+ ]
+}

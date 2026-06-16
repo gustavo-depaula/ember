@@ -1,0 +1,131 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Joannis a Capistrano Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.2;;vide C5",
+    "(sed rubrica 196)",
+    ";;Semiduplex;;2.1;;vide C4a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "!Habac 3:18-19",
+    "v. Ego autem in Dómino gaudébo: et exsultábo in Deo, Jesu meo: Deus Dóminus fortitúdo mea.",
+    "!Ps 80:2",
+    "Exsultáte Deo, adjutóri nostro, jubiláte Deo Jacob.",
+    "&Gloria",
+    "v. Ego autem in Dómino gaudébo: et exsultábo in Deo, Jesu meo: Deus Dóminus fortitúdo mea.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui per beátum Joánnem fidéles tuos in virtúte sanctíssimi nóminis Jesu de Crucis inimícis triumpháre fecísti: præsta, quǽsumus; ut, spirituálium hóstium, ejus intercessióne, superátis insídiis, corónam justítiæ a te accípere mereámur.",
+    "$Per eundem",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C2a:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "!Ps 21:24-25",
+    "Qui timétis Dóminum, laudáte eum: univérsum semen Jacob, glorificáte eum.",
+    "V. Timeat eum omne semen Israël: quóniam non sprevit, neque despéxit deprecatiónem páuperis.",
+    "v. Allelúja, allelúja",
+    "!Ps 58:17",
+    "Ego autem cantábo fortitúdinem tuam: et exsultábo mane misericórdiam tuam. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "Allelúja, allelúja.",
+    "!Ps 58:17.",
+    "Ego autem cantábo fortitúdinem tuam: et exsultábo mane misericórdiam tuam. Allelúja,",
+    "V. Quia factus es suscéptor meus, et refúgium meum in die tribulatiónis meæ. Allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Tractus",
+   "lines": [
+    "!Ps 21:24-25",
+    "Qui timétis Dóminum, laudáte eum: univérsum semen Jacob, glorificáte eum.",
+    "V. Tímeat eum omne semen Israël: quóniam non sprevit, neque despéxit deprecatiónem páuperis.",
+    "_",
+    "!Tractus",
+    "!Ex 15:2 et 3",
+    "Fortitúdo mea et laus mea Dóminus, et factus est mihi in salútem: iste Deus meus, et glorificábo eum.",
+    "V. Dóminus quasi vir pugnátor, omnípotens nomen ejus.",
+    "!Judith 16:3",
+    "Dóminus cónterens bella: Dóminus nomen est illi.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Tempora/Pasc7-4",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "!Eccli 46:6",
+    "Invocávit Altíssimum poténtem in oppugnándo inimícos úndique, et audívit illum magnus et sanctus Deus.",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Sacrifícium, Dómine, quod immolámus, placátus inténde: ut, intercedénte beáto Joánne Confessóre tuo, ad conteréndas inimicórum insídias nos in tuæ protectiónis securitáte constítuat.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "!Sap 10:20",
+    "Decantavérunt, Dómine, nomen sanctum tuum, et victrícem manum tuam laudavérunt.",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Repléti alimónia cœlésti et spirituáli pópulo recreáti, quǽsumus, omnípotens Deus: ut, intercedénte beáto Joánne Confessóre tuo, nos ab hoste malígno deféndas, et Ecclésiam tuam perpétua pace custódias.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

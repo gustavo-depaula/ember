@@ -1,0 +1,52 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc5-4",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "In Octava Ascensionis",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica 196 aut rubrica 1955",
+   "lines": [
+    "Feria V post Ascensionem",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex majus;;4.2;;ex Tempora/Pasc5-4",
+    "(sed rubrica 1570)",
+    ";;Duplex;;3.1;;ex Tempora/Pasc5-4",
+    "(sed rubrica 196 aut rubrica 1955)",
+    ";;Feria;;1;;vide Tempora/Pasc5-4",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Tempora/Pasc5-4;",
+    "Gloria",
+    "Suffr=Maria3;Ecclesiæ,Papa;;",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Tempora/Pasc5-5"
+   ]
+  }
+ ]
+}

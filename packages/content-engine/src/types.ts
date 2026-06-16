@@ -102,7 +102,6 @@ export type FlowSection = { lang?: string } & (
   | { type: 'meditation'; text: LocalizedText }
   | { type: 'response'; verses: { v: LocalizedText; r: LocalizedText }[] }
   | { type: 'subheading'; text: LocalizedText }
-  | { type: 'proper'; slot: string; form: 'of' | 'ef'; description: LocalizedText }
   | {
       type: 'options'
       label: LocalizedText
@@ -156,9 +155,11 @@ export type FlowSection = { lang?: string } & (
       label?: LocalizedText
       map?: Record<string, string>
       default?: string
+      pickerStyle?: PickerStyle
       options: {
         id: string
         label: LocalizedText
+        excerpt?: LocalizedText
         sections?: FlowSection[]
       }[]
     }
@@ -383,7 +384,6 @@ export type RenderedSection =
     }
   | { type: 'response'; verses: { v: BilingualText; r: BilingualText }[] }
   | { type: 'subheading'; text: BilingualText }
-  | { type: 'proper'; slot: string; form: 'of' | 'ef'; description: BilingualText }
   | {
       type: 'options'
       label: BilingualText
@@ -400,7 +400,13 @@ export type RenderedSection =
       label: BilingualText
       overrideKey: string
       selectedId: string
-      options: { id: string; label: BilingualText; sections: RenderedSection[] }[]
+      pickerStyle?: PickerStyle
+      options: {
+        id: string
+        label: BilingualText
+        excerpt?: BilingualText
+        sections: RenderedSection[]
+      }[]
     }
   | { type: 'include'; ref: string; params?: Record<string, unknown>; trackId?: string }
   | { type: 'prose'; text: BilingualText }

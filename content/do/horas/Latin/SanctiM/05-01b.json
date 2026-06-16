@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@TemporaM/Pasc2-3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera 1",
+   "lines": [
+    "@:Responsory12"
+   ]
+  }
+ ]
+}

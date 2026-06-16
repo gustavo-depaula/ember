@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-05",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 1930",
+   "lines": [
+    "In dedicatione Sanctae Mariæ Virginis ad Nives;;duplex majus;;4;;ex C11",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 1963",
+   "lines": [
+    "In dedicatione Sanctae Mariæ Virginis ad Nives;;Simplex;;1.1;;vide C11",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "condition": "nisi rubrica 1963",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/08-05:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-05:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-05:Lectio6:s/; .*/./",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/08-05:Lectio6:s/.*; (.)/\\u$1/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Urbanis Papæ et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Urbáno",
+    "(sed rubrica 1960)",
+    "Urbánum",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Da, quǽsumus, omnípotens Deus: ut qui beáti Urbáni Mártyris tui atque Pontíficis solémnia cólimus, ejus apud te intercessiónibus adjuvémur.",
+    "$Per Dominum.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "communi Summorum Pontificum",
+   "lines": [
+    "@Commune/C2b:Oratio pro commemoratio",
+    "(sed rubrica 196)",
+    "@Commune/C2b",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio93",
+   "lines": [
+    "Urbanus Romanus, Alexandro Sevéro imperatóre, doctrina et vitæ sanctitáte multos ad Christi fidem convértit; in illis Valerianum, beátæ Cæcíliæ sponsum, et Tiburtium, Valeriáni fratrem, qui póstea martyrium forti animo subiérunt. Hic de bonis Ecclésiæ attributis scripsit his verbis: Ipsæ res fidelium, quæ Dómino offerúntur, non debent in alios usus quam ecclesiásticos et christianórum fratrum, vel indigéntium, converti; quia vota sunt fidelium, et pretia peccatórum, ac patrimónia páuperum. Sedit annos sex, menses septem, dies quatuor: ac martyrio coronátus, sepúltus est in cœmeterio Prætextati, octavo Kalendas Junii. Ordinatiónibus quinque habitis mense Decembri, creávit presbyteros novem, diaconos quinque, episcopos per diversa loca octo.",
+    "&teDeum"
+   ]
+  }
+ ]
+}

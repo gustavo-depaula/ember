@@ -1,0 +1,73 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-21bmv",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@CommuneM/C11:AntMatutinumM:2 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Sancti/08-15t::8 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "condition": "rubrica 1930",
+   "lines": [
+    "@CommuneM/C11:AntMatutinumM:2 s/;;\\d+//",
+    "(sed feria 7)",
+    "@Sancti/08-15t::11 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Sancti/08-15t::8 s/;;\\d+//",
+    "(sed feria 7)",
+    "@CommuneM/C11:AntMatutinumM:1 s/;;\\d+//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@CommuneM/C10:Lectio M083:s/ Quidni.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "Ac si manifestius dicant: Quanta est hæc, aut, unde ei ascendenti utique de deserto affluentia tanta deliciarum? Nec enim pares inveniuntur deliciae vel in nobis, quos in civitate Dómini laetificat fluminis impetus, qui a vultu gloriae, voluptatis torrente potamur. Quae est ista, quae de sub sole, ubi nihil est nisi labor et dolor et afflictio spiritus, ascendit deliciis spiritualibus affluens?~",
+    "@CommuneM/C10:Lectio M083:s/.* (?=Quidni)//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@CommuneM/C10:Lectio M084:3 s/ / ígitur /"
+   ]
+  }
+ ]
+}

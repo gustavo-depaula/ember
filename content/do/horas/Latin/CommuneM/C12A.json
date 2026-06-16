@@ -1,0 +1,38 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Commune/C12A",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "@CommuneM/C12",
+    ""
+   ]
+  },
+  {
+   "name": "Prelude Vespera",
+   "lines": [
+    "@CommuneM/C12",
+    ""
+   ]
+  },
+  {
+   "name": "Prelude Matutinum",
+   "lines": [
+    "@CommuneM/C12",
+    ""
+   ]
+  },
+  {
+   "name": "Prelude Laudes",
+   "lines": [
+    "@:Prelude Vespera"
+   ]
+  }
+ ]
+}

@@ -40,6 +40,7 @@ export function usePracticeContent(
   const { cycleData, trackDefs, trackState } = usePracticeTracks(practiceId)
 
   const translation = usePreferencesStore((s) => s.translation)
+  const doVersion = usePreferencesStore((s) => s.doVersion)
   const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
@@ -59,6 +60,7 @@ export function usePracticeContent(
       contentLanguage,
       secondaryLanguage ?? null,
       translation,
+      doVersion,
       liturgicalCalendar ?? null,
       numbering,
       todayKey,
@@ -87,7 +89,7 @@ export function usePracticeContent(
       const renderedSections = await resolveFlowAsync(flow, context, ec)
       const primitives = await preprocessFlow(renderedSections, {
         queryClient,
-        prefs: { lang: contentLanguage, translation },
+        prefs: { lang: contentLanguage, translation, doVersion },
         date: now,
         programDay,
       })

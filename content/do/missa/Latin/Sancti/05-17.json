@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Paschalis Baylon Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C5",
+    "(sed rubrica 1930)",
+    ";;Simplex;;1.1;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui beátum Paschálem Confessórem tuum mirífica erga Córporis et Sánguinis tui sacra mystéria dilectióne decorásti: concéde propítius; ut, quam ille ex hoc divino convívio spíritus percépit pinguédinem, eándem et nos percípere mereámur:",
+    "$Qui vivis"
+   ]
+  }
+ ]
+}

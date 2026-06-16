@@ -1,0 +1,53 @@
+{
+ "sections": [
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pent01-1::s/: but Anna.*/./s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pent01-1:Lectio2:s/4-8/7-8/ s/4 .*: but Anna/7 But Anna/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio5:s/ And therefore .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio5:s/.*(And therefore)/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio7:s/In the bodily.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio7:s/.* (In the bodily )/$1/s s/$/~/",
+    "@Tempora/Pent02-0:Lectio8:s/Hence .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Pent02-0:Lectio8:s/.* (Hence)/$1/s"
+   ]
+  }
+ ]
+}

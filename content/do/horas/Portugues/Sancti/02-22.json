@@ -1,0 +1,18 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "In Cathedra S. Petri Ap. Antiochiae",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "condition": "rubrica 196 aut rubrica 1930 aut rubrica cisterciensis",
+   "lines": [
+    "In Cathedra S. Petri Apostoli"
+   ]
+  }
+ ]
+}

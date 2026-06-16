@@ -1,0 +1,104 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@CommuneM/C2p",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "@Commune/C3p",
+    ""
+   ]
+  },
+  {
+   "name": "HymnusM Vespera",
+   "lines": [
+    "@Commune/C3:HymnusM Laudes",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C3",
+    ""
+   ]
+  },
+  {
+   "name": "HymnusM Matutinum",
+   "lines": [
+    "@Commune/C3",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Commune/C1p::1 s/;;18/;;1/",
+    ";;2",
+    ";;10",
+    ";;14",
+    ";;15",
+    ";;23",
+    "@Commune/C1p:Ant Vespera:5 s/\\d+/32/",
+    ";;33",
+    ";;45",
+    ";;60",
+    ";;63",
+    ";;78",
+    "@Commune/C1p::7 s/;;74/;;259;254;255/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@CommuneM/C2p:Lectio9 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@CommuneM/C2p:Lectio10 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@CommuneM/C2p:Lectio11 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@CommuneM/C2p:Lectio12 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@Commune/C3p",
+    ""
+   ]
+  },
+  {
+   "name": "HymnusM Laudes",
+   "lines": [
+    "@Commune/C3"
+   ]
+  }
+ ]
+}

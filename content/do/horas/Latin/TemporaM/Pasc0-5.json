@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc0-5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Pasc0-0",
+    "Psalmi Dominica",
+    "(sed rubrica cisterciensis)",
+    "Psalmi Feria",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Pasc1-0:Responsory2"
+   ]
+  }
+ ]
+}

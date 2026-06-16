@@ -1,0 +1,38 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "São João Maria Vianney, Confessor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 8 VIII – São João Maria Vianney, Confessor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    "",
+    "S. Ciríaco e Outros, Mártires",
+    "! Comemoração",
+    "! Paramentos vermelhos",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C5:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Omnipotente e misericordioso Deus, que, pelo seu zelo pastoral e pelo seu ardor na oração e na penitência, tornastes admirável o B. João Maria, concedei-nos, Vos suplicamos, que, seguindo o seu exemplo e pela sua intercessão, possamos conquistar para Cristo as almas dos nossos irmãos e com eles alcançar a glória eterna.",
+    "$Per eundem"
+   ]
+  }
+ ]
+}

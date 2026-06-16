@@ -1,0 +1,61 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/01-14",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/01-14:Lectio4:s/Itaque.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/01-14:Lectio4:s/.*(Itaque)/$1/s s/$/~/",
+    "@Sancti/01-14:Lectio5:s/Verum.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/01-14:Lectio5:s/.*(Verum)/$1/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/01-14:Lectio6beginning",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Commune/C4a:Lectio7 in 2 loco",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Commune/C4a:Lectio8 in 2 loco:s/$/~/",
+    "@Commune/C4a:Lectio9 in 2 loco:s/Verum.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Commune/C4a:Lectio9 in 2 loco:s/.*(Verum)/$1/s"
+   ]
+  }
+ ]
+}

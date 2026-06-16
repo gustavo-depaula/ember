@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Quad6-0",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "Dominica II Passionis seu in Palmis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;I classis Semiduplex;;6"
+   ]
+  }
+ ]
+}

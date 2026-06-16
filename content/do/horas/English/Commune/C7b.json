@@ -1,0 +1,61 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Common of multiple widowed Martyrs",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "lines": [
+    "V. Thou hast crowned them with glory and honour, O Lord.",
+    "R. And madest them to have dominion over the works of thy hands.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "lines": [
+    "For theirs is * the Kingdom of heaven who love not their lives in this world, and have attained unto the reward of the Kingdom, and have washed their robes in the blood of the Lamb.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C6b::s/Virgins and // s/N\\. and N\\./N. and N./",
+    ""
+   ]
+  },
+  {
+   "name": "Invit",
+   "lines": [
+    "@Commune/C7:: s/N\\./N. and N./",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "ad missam",
+   "lines": [
+    "@Commune/C6b::s/Virgins and // s/N\\. and N\\./N. and N./",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C6b::s/Virgins and // s/N\\. and N\\./N. and N./",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Commune/C6b::s/Virgins and // s/N\\. and N\\./N. and N./"
+   ]
+  }
+ ]
+}

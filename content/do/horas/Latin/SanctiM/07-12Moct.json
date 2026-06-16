@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Secunda die infra Octavam S. P. N. Benedicti Abbatis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2;;ex SanctiM/07-11M",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "No prima Vesperas"
+   ]
+  }
+ ]
+}

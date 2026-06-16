@@ -1,0 +1,85 @@
+{
+ "sections": [
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    "Credo",
+    "Prefatio=Maria=Festivitate;",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "v. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Maríæ Vírginis: de cujus sollemnitáte gaudent Angeli et colláudant Fílium Dei, alleluia, alleluia.",
+    "!Ps 44:2",
+    "Eructávit cor meum verbum bonum: dico ego ópera mea Regi.",
+    "&Gloria",
+    "v. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Maríæ Vírginis: de cujus sollemnitáte gaudent Angeli et colláudant Fílium Dei, alleluia, alleluia.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Omnípotens et miséricors Deus, qui ad defensiónem pópuli nostri, in beatíssima Vírgine María mirábile nobis auxílium constituísti: concéde propítius; ut, tali præsídio muníti, certántes in vita, victóriam de hoste malígno cónsequi valeámus in morte.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Sancti/09-15",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "Allelúia, allelúia.",
+    "!Cant 6:3; 6:9",
+    "V. Tota formósa et suávis es, fília Sion, pulchra ut luna, elécta ut sol, terríbilis ut castrórum ácies ordináta. Allelúia.",
+    "V. Benedíxit te Dóminus in virtúte sua, quia per te ad níhilum redégit inimícos nostros. Allelúia.",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Sancti/08-22",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Sancti/07-16",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Súscipe, Dómine, munus quod tibi offérimus, memóriam recoléntes piíssimæ Vírginis Maríæ, quæ consolátur nos in omni tribulatióne nostra: et præsta; ut mens nostra supérno lúmine Sancti Spíritus irradiáta, terréna despíciat et ad cæléstia semper aspíret.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Sancti/07-16",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Deus, qui nobis beátam Vírginem Maríam singulárem Patrónam dedísti: concéde propítius; ut, sacris donis tuis satiáti, præsídio eiúsdem beáte Vírginis Maríæ in ómnibus adversitátibus nostris perfruámur.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

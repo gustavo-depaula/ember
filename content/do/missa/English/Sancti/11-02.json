@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "All Souls;;Duplex;;3;;ex C9",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "multiple3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "sections": [
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C2ap",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, pro cuius honóre gloriósus Póntifex Stanisláus gládiis impiórum occúbuit: præsta, quǽsumus; ut omnes, qui eius implórant auxílium, petitiónis suæ salutárem consequántur efféctum.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Sancti/04-23pl",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Sancti/04-23pl",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Tempora/Pasc2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C2a-1",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Commune/C2-1::s/N\\./Stanisláo/",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Sancti/04-23pl",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Hæc nos commúnio, Dómine, purget a crímine: et, intercedénte beáto Stanisláo Mártyre tuo atque Pontífice, cæléstis remédii fáciat esse consórtes.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

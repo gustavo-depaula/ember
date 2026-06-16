@@ -1,0 +1,18 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/01-20",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@Commune/C3:Responsory1"
+   ]
+  }
+ ]
+}

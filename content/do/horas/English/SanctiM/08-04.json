@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-04:Lectio5:s/He returned.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-04:Lectio5:s/.* (?=He returned)//"
+   ]
+  }
+ ]
+}

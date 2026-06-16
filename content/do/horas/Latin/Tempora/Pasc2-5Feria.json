@@ -1,0 +1,90 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria Sexta infra Hebdomadam II post Octavam Paschæ",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Oratio Dominica",
+    "Una Antiphona",
+    "Feria Te Deum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Pasc2-5:Lectio1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory1",
+   "lines": [
+    "@Tempora/Pasc0-3:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Pasc2-5:Lectio2",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory2",
+   "lines": [
+    "@Tempora/Pasc0-5:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Pasc2-5:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Pasc0-5:Responsory2",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 2",
+   "lines": [
+    "Nonne sic opórtuit * pati Christum, et ita intráre in glóriam suam? allelúja.",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "lines": [
+    "@Tempora/Pasc2-0:Ant 1",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 3",
+   "condition": "rubrica 1960",
+   "lines": [
+    "@Tempora/Pasc2-0:Ant 3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Eusebii Episcopi et Martyris",
+    "(sed rubrica 1617)",
+    "S. Eusebii Vercellensis Episcopi et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.5;;vide C2-1",
+    "(sed rubrica 1617)",
+    ";;Simplex;;1.1;;vide C2-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2-1;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Eusébii"
+   ]
+  }
+ ]
+}

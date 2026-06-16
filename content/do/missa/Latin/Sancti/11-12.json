@@ -1,0 +1,36 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Martini Papæ et Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.2;;vide C2b-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b-1;",
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Martíni",
+    "(sed communi Summorum Pontificum)",
+    "Martínum",
+    "Secreta=Martíno",
+    "Postcommunio=Martíno"
+   ]
+  }
+ ]
+}

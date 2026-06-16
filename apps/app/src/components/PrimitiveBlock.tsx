@@ -21,7 +21,6 @@ import { LiturgicalColorProvider } from './prayer/LiturgicalColorContext'
 import { LiturgicalPrayerBlock } from './prayer/LiturgicalPrayerBlock'
 import { OptionsBlock } from './prayer/OptionsBlock'
 import { PrayerTextBlock } from './prayer/PrayerTextBlock'
-import { ProperSlot } from './prayer/ProperSlot'
 import { ProseBlock } from './prayer/ProseBlock'
 import { SectionHeading } from './prayer/SectionHeading'
 import { SectionMarker } from './prayer/SectionMarker'
@@ -207,6 +206,7 @@ function renderContainer(
           label={behavior.label.primary}
           overrideKey={behavior.overrideKey}
           selectedId={behavior.selectedId}
+          pickerStyle={behavior.pickerStyle}
           options={behavior.options}
           practiceId={practiceId}
           onSelect={(nextId) => onSelectOverride(behavior.overrideKey, nextId)}
@@ -231,8 +231,6 @@ function renderContainer(
 
 function renderInteraction(p: Extract<Primitive, { type: 'interaction' }>, practiceId: string) {
   switch (p.kind) {
-    case 'proper':
-      return <ProperSlot slot={p.slot} form={p.form} description={p.description} />
     case 'offering':
       return (
         <RenderedOfferingBlock

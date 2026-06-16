@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-05:Lectio6:s/ Howbeit.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/08-05:Lectio6:s/.* (?=Howbeit)//"
+   ]
+  }
+ ]
+}

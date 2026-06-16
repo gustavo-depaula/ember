@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Ss. Leonis IV et Symmachi Pontificum et Confessorum",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide aliquibus locis/C4b-3",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide aliquibus locis/C4b-3;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Leónis et Sýmmachi",
+    "(sed communi Summorum Pontificum)",
+    "Leónem et Sýmmachum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/Urbis/07-17-LeoIV::s/$/~/",
+    "@Sancti/Urbis/07-17-LeoIV:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/Urbis/07-17-LeoIV:Lectio6:s/$~/",
+    "@Sancti/Urbis/07-19-Symmachus:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/Urbis/07-19-Symmachus:Lectio5:s/$/~/",
+    "@Sancti/Urbis/07-19-Symmachus:Lectio6"
+   ]
+  }
+ ]
+}

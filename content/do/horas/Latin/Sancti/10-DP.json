@@ -1,0 +1,28 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/10-07",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica Trident",
+   "lines": [
+    "In Sollemnitate Rosarii Beatæ Mariæ Virginis;;Duplex 2 classis;;5.1;;ex C11",
+    "(sed rubrica cisterciensis)",
+    "Solemnitas SS. Rosarii Beatæ Mariæ Virginis;;Duplex 2 classis;;4.1;;ex C11",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/10-07"
+   ]
+  }
+ ]
+}

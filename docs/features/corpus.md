@@ -19,6 +19,7 @@ Every piece of content is a **first-class corpus item** with a stable, kind-pref
 | `mass` | `mass/of/tempore/holy-week/easter-vigil` | `content/masses/of/tempore/holy-week/easter-vigil.json` |
 | `of-ordinary` / `of-preface` / `of-eucharistic-prayer` | `of/ordinary/roman-canon` | `content/of-library/ordinary/roman-canon.json` |
 | `of-data` | `of-data/calendar/sanctorale/_index` | `content/of-data/calendar/sanctorale/_index.json` |
+| `do-data` | `do-data/horas-sancti` | `content/do/` (generated from Divinum Officium — see `docs/features/divinum-officium.md`) |
 | `collection` | `collection/carmelite` | `content/collections/carmelite.json` |
 | `checkup` | `checkup/archetypes` | `content/checkup/archetypes.json` |
 | `creator` *(v1)* | `creator/padre-paulo-ricardo` | `content/creators/padre-paulo-ricardo/manifest.json` |

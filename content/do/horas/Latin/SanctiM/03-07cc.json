@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "SS. Martyrum Perpetuæ et Felicitatis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Commemoratio;;1;;vide C7b",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Commune/C7b:Oratio:s/N. et N./Perpétuæ et Felicitátis/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "Tertia die infra Octavam Assumptionis B.M.V.;;Semiduplex;;2;;ex Sancti/08-15",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Sancti/08-15;",
+    "Gloria",
+    "CredoDA",
+    "Prefatio=Maria=Assumptionis",
+    "Suffragium=Spiritu;Ecclesiæ,Papa;;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/08-18bmv",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Sancti/08-18bmv",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Sancti/08-18bmv"
+   ]
+  }
+ ]
+}

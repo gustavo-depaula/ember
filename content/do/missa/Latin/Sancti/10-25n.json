@@ -1,0 +1,32 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Isidori Agricolæ Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;2;;vide C5",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C5;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Da nobis, quǽsumus, miséricors Deus, beáto Isidóro Agrícola Confessóre tuo intercedénte, supérbe non sápere: sed ejus méritis et exémplis plácita tibi semper humilitáte deservíre.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

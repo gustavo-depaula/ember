@@ -1,0 +1,18 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Adv4-3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Adv4-3::s/-8/-9/",
+    "9 Consúrge, consúrge, indúere fortitúdinem, bráchium Dómini: consúrge sicut in diébus antíquis, in generatiónibus sæculórum."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Feria Tertia infra Hebdomadam I post Octavam Pentecostes",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Feria;;1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "no Gloria",
+    "no Credo",
+    "Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Tempora/Pent01-1:Oratio",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Tempora/Pent01-1:Secreta",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Tempora/Pent01-1:Postcommunio"
+   ]
+  }
+ ]
+}

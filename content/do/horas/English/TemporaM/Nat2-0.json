@@ -1,0 +1,10 @@
+{
+ "sections": [
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/01-05:Lectio9:s/He seemeth .*//s"
+   ]
+  }
+ ]
+}

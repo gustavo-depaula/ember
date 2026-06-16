@@ -1,0 +1,83 @@
+{
+ "sections": [
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Behold the Lord, the Prince of the kings of the earth, shall come,",
+    "* Blessed are they who are ready to meet him, they shall have their portion in the city of Jerusalem.",
+    "V. The Lord will surely come and will not tarry.",
+    "R. Blessed are they who are ready to meet him, they shall have their portion in the city of Jerusalem.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio4:s/And what .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio4:s/.* And what /And what /s s/$/~/",
+    "@Tempora/Adv3-0:Lectio5:s/But since .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio5:s/.* But since /But since /s s/$/~/",
+    "@Tempora/Adv3-0:Lectio6:s/We fast .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio6:s/.* We fast /We fast /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. There shall come forth a rod out of the stem of Jesse and a branch shall grow out of his roots.",
+    "* And righteousness shall be the girdle of his loins and faithfulness the girdle of his reins.",
+    "V. And the spirit of the Lord shall rest upon him, the spirit of wisdom and understanding.",
+    "R. And righteousness shall be the girdle of his loins and faithfulness the girdle of his reins.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio7:s/In that he.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio7:s/.* In that /In that /s",
+    "@Tempora/Adv3-0:Lectio8:s/But when .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio8:s/.* But when /But when /s s/$/~/",
+    "@Tempora/Adv3-0:Lectio9:s/When .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Adv3-0:Lectio9:s/.* When /When /s"
+   ]
+  }
+ ]
+}

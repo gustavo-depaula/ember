@@ -1,0 +1,75 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/04-17",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C2b-1",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2b-1;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/04-17:Lectio93",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "Sermo sancti Augustíni Epíscopi",
+    "!Serm. 138 de verbis Domini",
+    "Pastor bonus Christus. ...",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "Nam et apud hæréticos, ...",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "Léctio sancti Evangélii secúndum Joánnem",
+    "!Joan 16:",
+    "In illo témpore: Dixit Jesus discípulis suis: Amen, amen dico vobis, quia plorábitis et flébitis vos, mundus autem gaudébit. Et réliqua.",
+    "_",
+    "De Homilía sancti Joánnis Chrysóstomi",
+    "!Homil. 78 in Joann.",
+    "Ut osténderet post ...",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "Signíficat atuem hic ...",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "Qua ergo grátia sic inquit? ..."
+   ]
+  }
+ ]
+}

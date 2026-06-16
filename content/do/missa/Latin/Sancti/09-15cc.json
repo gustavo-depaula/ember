@@ -1,0 +1,48 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Nicomedis Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C2a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C2a;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Adésto, Dómine, pópulo tuo: ut, beáti Nicomédis Mártyris tui mérita præclára suscípiens, ad impetrándam misericórdiam tuam semper ejus patrocíniis adjuvétur.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Súscipe, Dómine, múnera propítius obláta: quæ majestáti tuæ beáti Nicomédis Mártyris comméndet orátio.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Puríficent nos, Dómine, sacraménta quæ súmpsimus: et, intercedénte beáto Nicoméde Mártyre tuo, a cunctis effíciant vitiis absolútos.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

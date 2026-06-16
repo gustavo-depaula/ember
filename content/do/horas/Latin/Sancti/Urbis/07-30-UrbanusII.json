@@ -1,0 +1,63 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "B. Urbani II Papæ et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C4b;",
+    "9 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Urbani",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Dómine Jesu Christo, qui beáto Pontífici Urbáno pro Ecclésiæ tuæ libertáte et decore felíciter decertare tribuísti, eúmque ad redimenda ab infidélium potestáte tuæ vitæ mortális et passiónis monuménta per virtútem Crucis roborasti: concéde; ut ipsíus intercessióne, contra hostes ánimæ nostræ dimicantes in terris, ætérnæ glóriæ bravíum accípere mereámur: ",
+    "$Qui vivis",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4b-1",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Pro christiánæ fidei triúmpho hóstias tibi, Dómine, placatiónis offérimus: ut, intercedénte beáto Urbáno Confessóre tuo atque Pontífice, quoscúmque nóminis tui hostes superáre valeámus.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Spiritum nobis, Dómine, fortitudinis tribuat hæc mensa cæléstis: qua reféctus beátus Póntifex Urbánus usque ad montem sanctum tuum alácriter ambulávit. ",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

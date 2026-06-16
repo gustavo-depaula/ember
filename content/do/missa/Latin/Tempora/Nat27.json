@@ -1,0 +1,25 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Diei III infra Octavam Nativitatis",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Semiduplex;;2.1;;ex Sancti/12-25",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica 196",
+   "lines": [
+    ";;Duplex II classis;;5;;ex Sancti/12-25"
+   ]
+  }
+ ]
+}

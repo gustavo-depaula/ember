@@ -1,0 +1,55 @@
+{
+ "sections": [
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Commune/C1a:Lectio4:s/And by.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Commune/C1a:Lectio4:s/.*And by/And by/s s/$/~/",
+    "@Commune/C1a:Lectio5:s/Therefore.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Commune/C1a:Lectio5:s/.* Therefore/Therefore/s s/$/~/",
+    "@Commune/C1a:Lectio6:s/In the Evangelists.*//",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Commune/C1a:Lectio6:s/.* In the Evangelists/In the Evangelists/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Commune/C1a:Lectio7:s/And no .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Commune/C1a:Lectio7:s/.* And no /And no /s s/$/~/",
+    "@Commune/C1a:Lectio8:s/Well .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Commune/C1a:Lectio8:s/.* Well /Well /s"
+   ]
+  }
+ ]
+}

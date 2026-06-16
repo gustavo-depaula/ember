@@ -20,6 +20,7 @@ export type CatalogItemKind =
   | 'of-preface'
   | 'of-eucharistic-prayer'
   | 'of-data'
+  | 'do-data'
   | 'collection'
   | 'plan-of-life-template'
   | 'checkup'
@@ -192,6 +193,19 @@ export type DataItemManifest = {
   id: string
   data: BlobRef
 }
+
+// Divinum Officium dataset index (see docs/features/divinum-officium.md).
+// `files` maps a DO file id ('01-25', 'Psalmi/Psalmi major', 'Kalendaria/1960')
+// to per-language blob refs, or directly to a blob ref for the
+// language-independent datasets (ordinarium, tabulae). The meta item has neither.
+export type DoDataItemManifest = {
+  id: string
+  doCommit: string
+} & (
+  | { localized: true; files: Record<string, Record<string, BlobRef>> }
+  | { localized: false; files: Record<string, BlobRef> }
+  | { localized?: undefined; files?: undefined }
+)
 
 // --- Collections ---
 //

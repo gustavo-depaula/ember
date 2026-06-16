@@ -1,0 +1,60 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Pii V Papæ et Confessoris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex;;3;;vide C4b",
+    "(sed rubrica 1963)",
+    ";;Simplex;;1.1;;vide C4b",
+    "(sed rubrica innovata)",
+    ";;Duplex optional;;2;;vide C4b",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Pium",
+    "Postcommunio=Pio",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Deus, qui, ad conteréndos Ecclésiæ tuæ hostes et ad divínum cultum reparándum, beátum Pium Pontíficem Máximum elígere dignátus es: fac nos ipsíus deféndi præsídiis et ita tuis inhærére obséquiis; ut, ómnium hóstium superátis insídiis, perpétua pace lætémur.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "condition": "nisi rubrica 196",
+   "lines": [
+    "@Commune/C4",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "condition": "nisi rubrica 196",
+   "lines": [
+    "@Commune/C4"
+   ]
+  }
+ ]
+}

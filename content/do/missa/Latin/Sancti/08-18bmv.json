@@ -1,0 +1,45 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "Quarta die infra Octavam S. Assumptionis;;Semiduplex;;2;;vide Sancti/08-15",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex Sancti/08-15;",
+    "Gloria",
+    "CredoDA",
+    "Prefatio=Maria=Assumptionis",
+    "Suffragium=Spiritu;Ecclesiæ,Papa;;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Famulórum tuórum, quǽsumus, Dómine, delíctis ignósce: ut, qui tibi placére de áctibus nostris non valémus; Genetrícis Fílii tui, Dómini nostri, intercessióne salvémur:",
+    "$Qui tecum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Subvéniat, Dómine, plebi tuæ Dei Genetrícis orátio: quam etsi pro conditióne carnis migrásse cognóscimus, in cœlésti glória apud te pro nobis intercédere sentiámus.",
+    "$Per eundem",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Mensæ cœléstis partícipes effécti, implorámus cleméntiam tuam, Dómine, Deus noster: ut, qui Assumptiónem Dei Genetrícis cólimus, a cunctis malis imminéntibus, ejus intercessióne, liberémur.",
+    "$Per eundem"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Felicitatis Martyris",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.1;;vide C7",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "vide C7;",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Præsta, quǽsumus, omnípotens Deus: ut, beátæ Felicitátis Martyris tuæ sollémnia recenséntes, méritis ipsíus protegámur et précibus.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Vota pópuli tui, Dómine, propitiátus inténde: et, cujus nos tríbuis sollémnia celebráre, fac gaudére suffrágiis.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Súpplices te rogámus, omnípotens Deus: ut, intercedéntibus Sanctis tuis, et tua in nobis dona multíplices, et témpora nostra dispónas.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

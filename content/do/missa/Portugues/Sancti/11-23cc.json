@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Santa Felicidade",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Concedei-nos, ó Deus omnipotente, Vos suplicamos, que, celebrando nós a solenidade da B. Felicidade, vossa Mártir, sejamos protegidos pelos seus méritos e preces.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "Aceitai propício, Senhor, os votos do vosso povo e fazei-nos gozar o efeito dos sufrágios daquela cuja festa nos permitis celebrar.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "Ó Deus omnipotente, humildemente Vos suplicamos, pela intercessão dos vossos Santos, que multipliqueis sobre nós os vossos benefícios e governeis os dias da nossa vida.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

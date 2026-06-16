@@ -1,0 +1,19 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Commune/C9",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "@Commune/C9",
+    "Matutinum romanum",
+    "Omit MLitany"
+   ]
+  }
+ ]
+}

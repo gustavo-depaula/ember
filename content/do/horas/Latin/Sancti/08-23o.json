@@ -1,0 +1,57 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "In Vigilia S.Bartholomæi Apostoli",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex;;1.5;;ex C1v",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C1v;",
+    "Responsory Feria",
+    "Preces feriales",
+    "Versum Feria",
+    "no Te Deum",
+    "Laudes 2",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Bartholomǽi",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Commune/C1v",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Commune/C1v",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Commune/C1v"
+   ]
+  }
+ ]
+}

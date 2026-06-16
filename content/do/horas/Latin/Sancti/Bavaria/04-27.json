@@ -1,0 +1,27 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/04-27",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Duplex II classis;;5;;ex C5a",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "ex C5a;mtv",
+    "9 lectiones;",
+    "Psalmi Dominica",
+    "Antiphonas horas"
+   ]
+  }
+ ]
+}

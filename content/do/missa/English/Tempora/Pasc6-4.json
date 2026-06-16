@@ -1,0 +1,11 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "condition": "rubrica 196 aut rubrica 1955",
+   "lines": [
+    "Feria V post Ascensionem"
+   ]
+  }
+ ]
+}

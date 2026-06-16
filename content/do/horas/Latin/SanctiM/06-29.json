@@ -1,0 +1,187 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/06-29",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera 1",
+   "condition": "rubrica Barroux",
+   "lines": [
+    "@Sancti/02-22:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/06-29:Lectio1:",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/06-29:Lectio2:1-4 s/-10/-8/",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/06-29:Lectio2:s/6-10/9-11/ s/6 .*9 /9 /s",
+    "@Sancti/06-29:Lectio3:2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/06-29:Lectio3:s/11-/12-/ s/11 .*12 /12 /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Petre, amas me? † Tu scis, Dómine, quia amo te.",
+    "* Pasce oves meas.",
+    "V. Simon Joánnis, díligis me plus his? † Tu scis, Dómine, quia amo te.",
+    "R. Pasce oves meas.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/06-29:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Sancti/06-29:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/06-29:Lectio5:s/Quamvis .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Sancti/06-29:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/06-29:Lectio5:s/.* Quamvis /Quamvis /s s/$/~/",
+    "@Sancti/06-29:Lectio6:s/Hæc autem .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Sancti/06-29:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/06-29:Lectio6:s/.* Hæc autem /Hæc autem /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "R. Solve, jubénte Deo terrárum Petre caténas,",
+    "* Qui facis ut páteant cæléstia regna beátis.",
+    "V. Quodcúmque ligáveris super terram, erit ligátum et in cælis: † et quodcúmque sólveris super terram, erit solútum et in cælis.",
+    "R. Qui facis ut páteant cæléstia regna beátis.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/06-29:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Sancti/06-29:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/06-29:Lectio8:s/Petrus .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Sancti/06-29:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/06-29:Lectio8:s/.* Petrus /Petrus /s s/$/~/",
+    "@Sancti/06-29:Lectio9:s/Quod .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "R. Qui regni claves et curam tradit ovílis",
+    "* Qui cæli terrǽque Petro commíttit habénas: † ut réseret clausis et solvat vincla ligátis.",
+    "V. Ipse tua Petre jussit vincula solvi qui te mundanos constituit solvere nexus.",
+    "R. Qui cæli terrǽque Petro commíttit habénas: † ut réseret clausis et solvat vincla ligátis.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/06-29:Lectio9:s/.* Quod /Quod /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "R. Beátus es Simon Bar Jona: quia caro et sanguis non revelávit tibi, sed Pater meus, qui in cælis est",
+    "* Dicit Dóminus.",
+    "V. Et ego dico tibi, quia tu es Petrus, et super hanc petram ædificábo Ecclésiam meam.",
+    "R. Dicit Dóminus."
+   ]
+  }
+ ]
+}

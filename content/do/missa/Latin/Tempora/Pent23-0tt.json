@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pent23-0",
+    ""
+   ]
+  },
+  {
+   "name": "Officium",
+   "lines": [
+    "De Dominica XXIII post Pentecosten",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "lines": [
+    ";;Simplex Dominica anticipata;;1.5"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Sancti/08-09t",
+    ""
+   ]
+  },
+  {
+   "name": "Commemoratio",
+   "lines": [
+    " ",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/08-09t::s/Nam,.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/08-09t:Lectio1:s/.* Nam,/Nam,/s s/$/~/",
+    "@Sancti/08-09t:Lectio2:s/Quid vero.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/08-09t:Lectio2:s/.* Quid vero/Quid vero/s s/$/~/",
+    "@Sancti/08-09t:Lectio3:s/Ad se.*//s"
+   ]
+  }
+ ]
+}

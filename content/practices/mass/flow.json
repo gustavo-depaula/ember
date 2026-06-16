@@ -33,8 +33,7 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/mass",
-              "params": { "form": "ef" }
+              "ref": "producer/do-mass"
             }
           ]
         }

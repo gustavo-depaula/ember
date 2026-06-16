@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Epi3-0:Lectio5:s/Whence .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Epi3-0:Lectio5:s/.* Whence /Whence /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Epi3-0:Lectio8:s/And Jesus .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Epi3-0:Lectio8:s/.* And Jesus /And Jesus /s"
+   ]
+  }
+ ]
+}

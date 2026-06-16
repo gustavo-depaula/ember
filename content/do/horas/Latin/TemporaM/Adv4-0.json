@@ -1,0 +1,170 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Adv4-0",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "(rubrica cisterciensis) Psalmi Feria",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio1:s/-7/-4/ s/5 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio1:2-9 s/1-/5-/ s/1 .*5 /5 /s",
+    "@Tempora/Adv4-0:Lectio2:s/!.*// s/8 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio2:s/7-/8-/ s/7 .*8 /8 /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory4",
+   "lines": [
+    "R. Parátus esto, Israël, in occúrsum Dómini, quóniam venit",
+    "* Formans montes et creans spíritus, † et annúntians in homínibus Christum secúndum advéntum suum.",
+    "V. Ecce Dominátor Dominus, cum virtúte véniet.",
+    "R. Formans montes et creans spíritus, † et annúntians in homínibus Christum secúndum advéntum suum.",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory5",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory6",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio6:s/Diligéndo .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory7",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory6",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio6:s/.* Diligéndo /Diligéndo /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory8",
+   "lines": [
+    "@Tempora/Adv1-2:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio7",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory9",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory7",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio8:s/Ut enim .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory10",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio8:s/.* Ut enim /Ut enim /s s/$/~/",
+    "@Tempora/Adv4-0:Lectio9:s/Neque .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory11",
+   "lines": [
+    "@Tempora/Adv4-0:Responsory9",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Tempora/Adv4-0:Lectio9:s/.* Neque /Neque /s",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory12",
+   "lines": [
+    "@Tempora/Adv3-5:Responsory1"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@SanctiM/08-15t",
+    ""
+   ]
+  },
+  {
+   "name": "Rank",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "In Assumptione Beatæ Mariæ Virginis;;Duplex I classis cum Octava Communi;;6;;ex C11",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "12 lectiones",
+    "Doxology=Nat",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/08-15t:Responsory Breve Tertia",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Vespera 1",
+   "condition": "rubrica Barroux",
+   "lines": [
+    "@Sancti/08-15t:Responsory1",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Vespera",
+   "lines": [
+    "@Sancti/08-15:Hymnus Vespera:s/Jesu, tibi sit glória/Glória tibi, Dómine/",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 1",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@CommuneCist/C10:Versum 1a",
+    ""
+   ]
+  },
+  {
+   "name": "Ant 1",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "Ascéndit Christus * super cœlos, et præparávit suæ castíssimæ Matri immortalitátis locum; et hæc est illa præclára festívitas ómnium Sanctórum festivitátibus incomparábilis, in qua gloriósa et felix, mirántibus cœléstis cúriæ ordínibus, ad æthéreum pervénit thálamum, quo pia sui mémorum ímmemor nequáquam exístat.",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Sancti/08-15",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Matutinum",
+   "lines": [
+    "@Sancti/08-15",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio1",
+   "lines": [
+    "@Sancti/08-15:Lectio1:s/-15/-12/ s/.13 .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio2",
+   "lines": [
+    "@Sancti/08-15:Lectio1:2 s/9-/13-/",
+    "@Sancti/08-15:Lectio1:7-9",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio3",
+   "lines": [
+    "@Sancti/08-15:Lectio2",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio4",
+   "lines": [
+    "@Sancti/08-15:Lectio3",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio5",
+   "lines": [
+    "@Sancti/08-15:Lectio4",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio6",
+   "lines": [
+    "@Sancti/08-15:Lectio5",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio7",
+   "lines": [
+    "@Sancti/08-15:Lectio6:s/ Itaque.*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio8",
+   "lines": [
+    "@Sancti/08-15:Lectio6:s/.* Itaque/Itaque/s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio9",
+   "lines": [
+    "@Sancti/08-15:Lectio7:s/ Nec .*//s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio10",
+   "lines": [
+    "@Sancti/08-15:Lectio7:s/.* Nec /Nec /s",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio11",
+   "lines": [
+    "@Sancti/08-15:Lectio8",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio12",
+   "lines": [
+    "@Sancti/08-15:Lectio9",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Laudes",
+   "lines": [
+    "@Sancti/08-15",
+    "(sed rubrica cisterciensis)",
+    "@Sancti/08-15t",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory Laudes",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@CommuneCist/C11",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Laudes",
+   "lines": [
+    "@Sancti/08-15",
+    "(sed rubrica cisterciensis)",
+    "@Commune/C11:HymnusM Laudes",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 2",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory TertiaM",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@Sancti/08-15t:Versum 1",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Sexta",
+   "lines": [
+    "@Sancti/08-15",
+    "(sed rubrica cisterciensis)",
+    "@SanctiCist/01-23AV",
+    ""
+   ]
+  },
+  {
+   "name": "Capitulum Nona",
+   "lines": [
+    "@Sancti/08-15",
+    "(sed rubrica cisterciensis)",
+    "@SanctiCist/01-23AV",
+    ""
+   ]
+  },
+  {
+   "name": "Hymnus Vespera 3",
+   "condition": "nisi rubrica cisterciensis",
+   "lines": [
+    "@Commune/C11:Hymnus Vespera",
+    ""
+   ]
+  },
+  {
+   "name": "Versum 3",
+   "condition": "rubrica cisterciensis",
+   "lines": [
+    "@:Versum 1"
+   ]
+  }
+ ]
+}

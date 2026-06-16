@@ -1,0 +1,34 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "Santo António de Lisboa, onfessor e Doutor",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "António",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@:OratioText:s/ e Doutor//",
+    "(sed rubrica 195 aut rubrica 196)",
+    "@:OratioText",
+    ""
+   ]
+  },
+  {
+   "name": "OratioText",
+   "lines": [
+    "Que a festa anual do B. António, vosso Confessor e Doutor, alegre a vossa Igreja, Senhor, a fim de que, fortalecida sempre com os auxílios espirituais, mereça desfrutar os gozos eternos.",
+    "$Per Dominum"
+   ]
+  }
+ ]
+}

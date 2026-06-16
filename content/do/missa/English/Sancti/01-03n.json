@@ -1,0 +1,82 @@
+{
+ "sections": [
+  {
+   "name": "Rank",
+   "lines": [
+    "The Most Holy Name of Jesus;;Duplex optional;;2;;",
+    ""
+   ]
+  },
+  {
+   "name": "Rule",
+   "lines": [
+    "Gloria",
+    "Credo",
+    "Prefatio=Nat",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Tempora/Nat2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "@Tempora/Nat2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Tempora/Nat2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Tempora/Nat2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Tempora/Nat2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Tempora/Nat2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Secreta",
+   "lines": [
+    "@Tempora/Nat2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Tempora/Nat2-0",
+    ""
+   ]
+  },
+  {
+   "name": "Postcommunio",
+   "lines": [
+    "@Tempora/Nat2-0"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "sections": [
+  {
+   "name": "Officium",
+   "lines": [
+    "S. Beda, Confessor e Doutor",
+    ""
+   ]
+  },
+  {
+   "name": "Comment",
+   "lines": [
+    "# 27 V – S. Beda, Confessor e Doutor",
+    "! 3 classe",
+    "! Paramentos brancos",
+    ""
+   ]
+  },
+  {
+   "name": "Name",
+   "lines": [
+    "Beda",
+    ""
+   ]
+  },
+  {
+   "name": "Introitus",
+   "lines": [
+    "@Commune/C4a:Introitus",
+    ""
+   ]
+  },
+  {
+   "name": "Oratio",
+   "lines": [
+    "Ó Deus, que ilustrais a vossa Igreja com a erudição do B. Beda, vosso Confessor e Doutor, concedei propício aos vossos servos que sejam sempre ilustrados pela sua doutrina e socorridos pelos seus méritos.",
+    "$Per Dominum",
+    ""
+   ]
+  },
+  {
+   "name": "Lectio",
+   "lines": [
+    "@Commune/C4a:Lectio",
+    ""
+   ]
+  },
+  {
+   "name": "Graduale",
+   "lines": [
+    "@Commune/C4a:Graduale",
+    ""
+   ]
+  },
+  {
+   "name": "GradualeP",
+   "lines": [
+    "@Commune/C4a:GradualeP",
+    ""
+   ]
+  },
+  {
+   "name": "Evangelium",
+   "lines": [
+    "@Commune/C4a:Evangelium",
+    ""
+   ]
+  },
+  {
+   "name": "Offertorium",
+   "lines": [
+    "@Commune/C4a:Offertorium",
+    ""
+   ]
+  },
+  {
+   "name": "Communio",
+   "lines": [
+    "@Commune/C4a:Communio"
+   ]
+  }
+ ]
+}

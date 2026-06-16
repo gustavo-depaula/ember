@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "name": "__preamble",
+   "lines": [
+    "@Tempora/Pasc7-6",
+    ""
+   ]
+  },
+  {
+   "name": "Ant Matutinum",
+   "lines": [
+    "@Tempora/Pasc7-0::1 s/;;47//",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    ";;",
+    "@Tempora/Pasc7-0:Versum 1",
+    "@TemporaM/Pasc7-3:AntMatutinumM",
+    ""
+   ]
+  },
+  {
+   "name": "Responsory3",
+   "lines": [
+    "@Tempora/Pasc7-3:Responsory2"
+   ]
+  }
+ ]
+}
