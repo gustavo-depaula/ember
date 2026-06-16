@@ -77,10 +77,10 @@ export async function buildDoYear({
 }: DoYearOptions): Promise<DoCalendarDay[]> {
   const directorium = await createDirectorium(loader)
   const days: DoCalendarDay[] = []
-  const monthLengths = [31, leapYear(year) ? 29 : 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
   for (let month = 1; month <= 12; month++) {
-    for (let day = 1; day <= monthLengths[month - 1]; day++) {
+    const daysInMonth = new Date(year, month, 0).getDate()
+    for (let day = 1; day <= daysInMonth; day++) {
       const r = await resolveDay({
         loader,
         directorium,
@@ -94,6 +94,7 @@ export async function buildDoYear({
       })
       const s = r.state
       const sanctoralName = (s.srank[0] ?? '').trim()
+      const sanctoralRankText = (s.srank[1] ?? '').trim()
       const winnerIsSancti = /^Sancti/i.test(r.winner)
 
       let row: Omit<DoCalendarDay, 'month' | 'day' | 'id'> | undefined
@@ -106,7 +107,7 @@ export async function buildDoYear({
           kind: 'sanctoral',
           name: sanctoralName,
           rank: r.rank,
-          rankText: (s.srank[1] ?? '').trim(),
+          rankText: sanctoralRankText,
           holyDayOfObligation: isEfHolyDay(r.winner, sanctoralName),
         }
       } else if (r.rank >= notableTemporalRank) {
@@ -129,7 +130,7 @@ export async function buildDoYear({
           kind: 'sanctoral',
           name: sanctoralName,
           rank: num(s.srank[2]),
-          rankText: (s.srank[1] ?? '').trim(),
+          rankText: sanctoralRankText,
           holyDayOfObligation: isEfHolyDay(winner, sanctoralName),
         }
       }
@@ -139,8 +140,4 @@ export async function buildDoYear({
   }
 
   return days
-}
-
-function leapYear(year: number): boolean {
-  return year % 4 === 0 && (year % 100 !== 0 || year % 400 === 0)
 }
