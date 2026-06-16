@@ -17,7 +17,7 @@ export function PillSelector<T extends string>({
       <Text fontFamily="$body" fontSize="$2" color="$color">
         {label}
       </Text>
-      <XStack gap="$sm">
+      <XStack gap="$sm" flexWrap="wrap">
         {options.map((opt) => {
           const selected = value === opt.value
           return (
