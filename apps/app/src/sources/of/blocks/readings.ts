@@ -165,7 +165,19 @@ export function renderReadingSet(set: ReadingSet, lang: LangPrefs): Primitive[] 
     // The Alleluia refrain (sung by all), then the proper verse — the upstream
     // verse field repeats the refrain glued to its front, so strip it.
     const accText = acc ? flattenRt(acc) : undefined
-    if (accText) out.push({ type: 'verses', style: 'vr', items: [{ role: 'r', text: accText }] })
+    // The acclamation is its own section, not a reply to the Second Reading: it
+    // gets a heading like every other slot, and the refrain is an acclamation
+    // sung by all — not a versicle/response dialogue, so no ℟ mark.
+    if (accText || verse)
+      out.push(
+        heading(
+          bt(
+            { 'pt-BR': slotLabels.gospelAcclamation.pt, 'en-US': slotLabels.gospelAcclamation.en },
+            lang,
+          ) ?? { primary: slotLabels.gospelAcclamation.pt },
+        ),
+      )
+    if (accText) out.push(text(accText))
     if (verse) {
       const v = flattenRt(verse)
       const strip = (s: string | undefined, prefix: string | undefined) =>

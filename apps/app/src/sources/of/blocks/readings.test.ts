@@ -46,4 +46,39 @@ describe('renderReadingSet — multiple options', () => {
     expect(s).toContain('Aleluia.') // the alternate refrain is not dropped
     expect(s).toContain('"role":"r"')
   })
+
+  it('renders the Gospel Acclamation as its own headed section, not a ℟ reply', () => {
+    const set: ReadingSet = {
+      secondReading: { options: [reading('Texto da segunda leitura.', '5, 6-11')] },
+      gospelAcclamation: {
+        options: [
+          {
+            mode: 'alleluia',
+            acclamation: { lines: { 'pt-BR': [line('Aleluia, aleluia.')] } },
+            verse: {
+              lines: { 'pt-BR': [line('Aleluia, aleluia. O Reino do céu está perto! Aleluia.')] },
+            },
+          },
+        ],
+      },
+    }
+    const flat = renderReadingSet(set, lang)
+    // The acclamation gets its own heading like every other slot.
+    expect(
+      flat.some(
+        (p) => p.type === 'heading' && JSON.stringify(p).includes('Aclamação ao Evangelho'),
+      ),
+    ).toBe(true)
+    // The refrain is plain text, never a ℟ versicle/response item that would
+    // read as a second reply to the Second Reading.
+    const acc = flat.find((p) => JSON.stringify(p).includes('Aleluia, aleluia.'))
+    expect(acc?.type).toBe('text')
+    expect(JSON.stringify(acc)).not.toContain('"role":"r"')
+    // The proper verse is kept (leading refrain stripped) and shown italic.
+    const verse = flat.find(
+      (p) => p.type === 'text' && JSON.stringify(p).includes('O Reino do céu está perto!'),
+    )
+    expect(JSON.stringify(verse)).toContain('"style":"italic"')
+    expect(JSON.stringify(verse)).not.toContain('Aleluia, aleluia. O Reino')
+  })
 })
